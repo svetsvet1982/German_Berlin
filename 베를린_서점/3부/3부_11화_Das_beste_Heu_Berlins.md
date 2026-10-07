@@ -326,11 +326,11 @@
 
 **Jonas:** Doch, es passt. Denn wenn es regnet, rufe ich dich an, und du hältst den Schirm in meine Richtung, in Gedanken. Dann bin ich trocken. Das ist die Regel für Fernbeziehungen: Ein Schirm genügt für zwei, wenn man sich vertraut.
 
-**Lena:** Du bist unmöglich. Ich liebe dich. Ich habe es gesagt. Ich meine, ich habe es wirklich gesagt, nicht auf einem Zettel, nicht vertont, sondern in einem ganz normalen Satz: Ich liebe dich, Jonas Brandt.
+**Lena:** Du bist unmöglich. Ich liebe dich. Ich habe es wieder gesagt, so wie damals unter der Weltzeituhr, nicht auf einem Zettel, nicht vertont, sondern in einem ganz normalen Satz: Ich liebe dich, Jonas Brandt.
 
-**Jonas:** Ich habe es gehört. Ich habe es auf der Straße gehört, mitten in der Nacht, mit einem Blütenblatt am Ärmel. Und ich antworte: Ich liebe dich auch, Lena Vogt. Das ist das erste Mal, dass wir es aussprechen. Nach fünf Monaten.
+**Jonas:** Ich habe es gehört. Ich habe es auf der Straße gehört, mitten in der Nacht, mit einem Blütenblatt am Ärmel. Und ich antworte: Ich liebe dich auch, Lena Vogt. Das ist das erste Mal seit der Funkstille, dass wir es aussprechen. Es klingt anders als im Dezember: leiser und fester.
 
-**Lena:** Nach fünf Monaten und einer Funkstille. Aber es war es wert. Ich glaube, es hat so lange gedauert, weil wir nicht wussten, wie man es sagt. Jetzt wissen wir es. Es ist ein einfacher Satz, und er ist trotzdem das Schwierigste der Welt.
+**Lena:** Nach Streit und Schweigen klingt es wie neu. Ich glaube, wir mussten es einmal verlieren, um zu wissen, wie man es sagt. Jetzt wissen wir es. Es ist ein einfacher Satz, und er ist trotzdem das Schwierigste der Welt.
 
 **Jonas:** Wir müssen jetzt nach Hause. Du musst schlafen, wenn du morgen um acht am BER sein willst. Aber vorher habe ich noch eine Bitte: Lass uns morgen früh, bevor wir zum Flughafen fahren, noch einmal an einen Ort gehen, der mir wichtig ist. Ich bitte dich darum.
 
@@ -359,7 +359,7 @@
 
 **주요 표현**
 
-- **Ich liebe dich, Jonas Brandt.** – 처음으로 “사랑해”를 직접 말하는 순간.
+- **Ich liebe dich, Jonas Brandt.** – 12/31 세계시계 아래 고백 이후, 다툼을 지나 다시 입에 올리는 “사랑해”.
 - **Ich habe es gesagt, nicht auf einem Zettel.** – “쪽지가 아니라 입으로 말했어.”
 - **Ein Schirm genügt für zwei, wenn man sich vertraut.** – “믿으면 우산 하나로 둘이 충분하다.”
 - **Du führst etwas Großes im Schilde.** – “뭔가 큰 걸 꾸미고 있구나.”
