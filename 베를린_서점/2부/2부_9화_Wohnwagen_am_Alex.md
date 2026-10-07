@@ -144,7 +144,7 @@
 
 **Jonas:** Er sagt: „An Silvester. Eine Karte pro Stunde. Zwölf Stunden, zwölf Karten.“ Das ist die Dramaturgie. Er ist besser als jeder Redakteur.
 
-**Lena:** Zwölf Karten, zwölf Stunden: Die erste, die wir schon haben, am Anfang, und die letzte um Mitternacht. Das passt.
+**Lena:** Zwölf Karten, zwölf Stunden: Die erste, die wir schon haben, am Anfang, und die zwölfte zum Sonnenaufgang. Das passt.
 
 **Jonas:** Und Hannas Zettel von 1962 zum Schluss? Das wäre der Höhepunkt.
 
