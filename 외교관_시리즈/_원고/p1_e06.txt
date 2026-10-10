@@ -1,0 +1,332 @@
+@part 1
+@ep 6
+@title Der Abgeordnete
+@title_ko 의원
+@tagline 의원 · 비공개 위원회, 사진 한 장, 그리고 존재하지 않는 명단
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 3월, 금요일 밤부터 월요일 정오까지, 팔크의 사무실, 프리데나우의 Haas 집, 팔크의 집, 연방의회 파울 뢰베 하우스 외교위원회 회의실, Brückner의 의원 사무실
+@cast FALK | 외무부 유럽안보 특별대표 (44)
+@cast JAN | 팔크의 개인 보좌관 (31)
+@cast HAAS | Dr. Ulrike Haas · 외무부 정무국 안보정책과장 (가상, 53)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast WINTER | 외무부 사무차관 (57)
+@cast BRÜCKNER | Ralf Brückner · 연방의회 외교위원회 위원장 (61)
+@cast SEIDEL | Karin Seidel · 외교위원회 야당 간사(Obfrau) (가상)
+@cast GREVE | Thomas Greve · Greve Energie AG 회장 (63)
+@note ※ 5화 바로 다음 순간인 금요일 저녁입니다. 감정 결과 진짜 열세 쪽은 «지난주 금요일 19시 42분»에 인쇄되었습니다. 그 시각은 Haas가 Bernstein을 출력한 시각과 같습니다. 그런데 팔크는 Anna에게 «짚이는 게 전혀 없다»고 거짓말했습니다. 팔크는 Vaitkus 대사에게 월요일 12시까지 외교 각서를 약속했지만, Winter는 문서로 무엇이든 내주는 것을 금지했습니다. Nowak이 준 «열흘»은 다음다음 월요일에 끝납니다.
+@note ※ 호칭: 팔크와 Jan, Elisabeth는 서로 du를 씁니다. Jan과 Elisabeth도 du를 씁니다. 팔크와 Haas는 서로 이름을 부르면서 Sie를 씁니다. 팔크는 Winter, Brückner, Seidel, Greve와 Sie를 쓰고, 위원회에서는 Brückner를 «Herr Vorsitzender»라고 부릅니다.
+@note ※ 표현 초점: Sondersitzung(임시 회의), als GEHEIM eingestuft(비밀 등급으로 지정된), Wortprotokoll(속기록), Aussagegenehmigung(공무원의 진술 허가), Geheimschutzstelle(연방의회 기밀 열람실), Obfrau(위원회 간사), Nebeneinkünfte(부수입), Kuratorium(후원 이사회), Gegenleistung(대가), Pflege der Landschaft(정치권 관리), bluffen(허세를 부리다), jemanden durchschauen(속을 꿰뚫어 보다). 접속법 II: «Hätte das Papier im Haus herumgelegen, hätte es längst jemand gefunden.» 접속법 I 간접화법: «Frau Schönfeld sagte, dort gebe es viele Fenster.»
+@history 플릭 사건 (Flick-Affäre, 1981~1987) — 플릭 그룹은 1975년 다임러-벤츠 주식을 약 19억 마르크에 도이치은행에 팔고, 재투자를 명분으로 막대한 양도 차익 세금을 면제받았습니다. 면세를 승인한 곳은 한스 프리데릭스와 오토 그라프 람스도르프가 차례로 이끈 연방 경제부였습니다. 1981~82년 장크트아우구스틴의 세무 조사관 클라우스 푀르스터가 플릭 회계 책임자 루돌프 딜의 장부를 찾아냈는데, 여러 정당 정치인들에게 건넨 현금이 «wg.(~때문에)»라는 약자와 함께 꼼꼼히 적혀 있었습니다. 경영자 에버하르트 폰 브라우히치는 이를 «본 정치권 관리(Pflege der Bonner Landschaft)»라고 불렀습니다. 람스도르프는 기소된 뒤인 1984년 6월 경제장관에서, 라이너 바르첼은 같은 해 10월 연방의회 의장에서 물러났지만, 1987년 본 지방법원은 뇌물 혐의는 무죄로 보고 세금 관련 혐의로만 유죄를 선고했습니다.
+@history 러시아 LNG 환적 금지 (2024) — EU는 2024년 6월 제14차 대러 제재 패키지에서 EU 항구를 거쳐 러시아산 액화천연가스(LNG)를 제3국으로 옮겨 싣는 환적을 금지했고, 9개월의 유예 기간을 거쳐 2025년 3월부터 시행했습니다. 극 중 Greve가 원하는 «원산지 = 마지막 선적항» 각주는 이런 제재를 우회하는 통로가 될 수 있습니다.
+@preview 1부 7화 — «Greves Angebot»(그레베의 제안) — 점심 자리에서 Thomas Greve가 팔크에게 고액의 이사직을 제안하며 Bernstein에 에너지 조항을 넣으라고 요구한다. «무역을 통한 변화»와 Nord Stream의 기억이 식탁 위에 오른다. 팔크는 정중히 거절하고, Jan은 몰래 대화를 녹음한다.
+
+== 도입 — NEUNZEHN UHR ZWEIUNDVIERZIG
+JAN: «Gar nichts»? Neunzehn Uhr zweiundvierzig, Konstantin. Das ist die Uhrzeit, die Frau Schönfeld am Montag Haas vorgelesen hat. Du hast danebengesessen.
+> «전혀요»라고요? 19시 42분이요, 콘스탄틴. 월요일에 쇤펠트 박사가 하스 과장 앞에서 읽어 준 그 시각이잖아요. 옆에 앉아 계셨으면서.
+FALK: Ich weiß, wann Ulrike gedruckt hat. Ich wollte nur nicht, dass eine Journalistin es vor mir von Ulrike erfährt.
+> 울리케가 언제 출력했는지는 나도 알아. 다만 기자가 나보다 먼저 울리케한테서 그걸 알아내는 건 원치 않았어.
+JAN: Du hast Kessler angelogen. Schon wieder. Und diesmal stand ich daneben.
+> 케슬러 씨한테 거짓말하셨잖아요. 또요. 이번엔 제가 바로 옆에 있었고요.
+FALK: Dann hast du gehört, wie kurz die Lüge war. … Haas hat gesagt, alle sechzehn Seiten lägen in ihrem Tresor. Wenn das stimmt, wie kommen dann dreizehn Seiten mit ihrer Uhrzeit in einen braunen Umschlag?
+> 그럼 거짓말이 얼마나 짧았는지도 들었겠네. …하스 과장은 16쪽 전부 자기 금고에 있다고 했어. 그게 사실이면, 그 사람 출력 시각이 찍힌 열세 쪽은 어떻게 갈색 봉투에 들어간 거지?
+JAN: Entweder sie lügt, oder der Drucker lügt. Und Drucker lügen selten.
+> 하스 과장이 거짓말을 하든가, 프린터가 거짓말을 하든가요. 근데 프린터는 거짓말 잘 안 하잖아요.
+FALK: Drucker lügen nie. Sie verschweigen nur, wer danebenstand. Ich fahre morgen früh zu ihr. Allein.
+> 프린터는 절대 거짓말 안 해. 옆에 누가 서 있었는지 말을 안 할 뿐이지. 내일 아침에 하스 과장한테 갈게. 혼자.
+JAN: Und Schönfeld? Wenn Kessler die Seriennummer einem Drucker zuordnet, bevor wir es Schönfeld sagen, sieht es aus, als hättest du Haas gedeckt.
+> 쇤펠트 박사는요? 우리가 말하기 전에 케슬러 씨가 일련번호로 프린터를 찾아내면, 하스 과장을 감싸 준 걸로 보일 텐데요.
+FALK: Ich habe Haas gedeckt. Die Frage ist nur, wie lange noch. … Was blinkt da auf deinem Bildschirm?
+> 감싸 준 거 맞아. 문제는 언제까지냐는 거지. …네 화면에 뭐가 깜박이는 거야?
+JAN: Eine Mail aus dem Bundestag, eingegangen um neunzehn Uhr fünfzig. Sekretariat des Auswärtigen Ausschusses. Setz dich lieber, bevor ich sie vorlese.
+> 연방의회에서 온 메일이요. 19시 50분에 들어왔어요. 외교위원회 사무국이에요. 읽어 드리기 전에 앉으시는 게 좋겠어요.
+FALK: Ich sitze seit Montag. Lies.
+> 월요일부터 계속 앉아 있었어. 읽어.
+JAN: «Der Vorsitzende beruft für Montag, acht Uhr, eine Sondersitzung ein. Einstufung: GEHEIM. Tagesordnung: Presseberichterstattung über ein Bündnisdokument. Die Bundesregierung wird gebeten, den Sonderbeauftragten für europäische Sicherheit, Herrn Konstantin Falk, zu entsenden.»
+> «위원장은 월요일 8시에 임시 회의를 소집한다. 등급: 비밀. 안건: 동맹 문서에 관한 언론 보도. 연방정부는 유럽안보 특별대표 콘스탄틴 팔크를 출석시켜 주기 바란다.»
+FALK: Mich. Nicht die Staatssekretärin, nicht den Minister. Mich, namentlich.
+> 나를. 사무차관도 장관도 아니고. 나를, 이름까지 박아서.
+JAN: Es geht weiter. «Der Ausschuss erwartet, dass ihm das in Rede stehende Dokument vollständig zur Verfügung gestellt wird.» Gezeichnet: Ralf Brückner, Vorsitzender.
+> 더 있어요. «위원회는 해당 문서가 위원회에 빠짐없이 제출되기를 기대한다.» 서명은 랄프 브뤼크너 위원장이요.
+FALK: Montag um acht. Und um zwölf läuft die Frist für Vaitkus ab. Herr Brückner hat ein ausgezeichnetes Gefühl für Timing.
+> 월요일 여덟 시라. 그리고 열두 시엔 바이트쿠스 기한이 끝나지. 브뤼크너 위원장은 타이밍 감각이 아주 뛰어나시군.
+JAN: Das kann Zufall sein. Von der Frist wissen in Berlin genau drei Menschen: du, ich und Vaitkus. Nicht mal die Staatssekretärin.
+> 우연일 수도 있어요. 그 기한을 아는 사람은 베를린에 딱 셋이잖아요. 당신, 저, 바이트쿠스. 사무차관님도 모르고요.
+FALK: Noch nicht. Ich muss es ihr sagen, spätestens Sonntag, sonst gibt es Montag keine Note. Und dann sehen wir, wie viele Menschen es am Montagmorgen wissen. … Was weißt du über Brückner?
+> 아직은. 늦어도 일요일엔 말해야 해. 안 그러면 월요일에 각서가 안 나가니까. 그다음엔 월요일 아침에 몇 명이 그걸 알고 있는지 보자고. …브뤼크너에 대해 아는 거 있어?
+JAN: Einundsechzig, Wahlkreis in Vorpommern, seit dreiundzwanzig Jahren im Bundestag. Nennt sich gern «Mann der Küste». Seit zwei Jahren hält er Reden über Energiesicherheit, die klingen, als hätte sie jemand mit einer Pipeline im Vorgarten geschrieben.
+> 예순하나, 지역구는 포어포메른, 연방의회 23년 차예요. «바닷가 사나이»라고 불리는 걸 좋아하고요. 2년 전부터 에너지 안보 연설을 하는데, 앞마당에 파이프라인 깔린 사람이 써 준 것 같아요.
+FALK: Finde heraus, wer ihm den Vorgarten bezahlt. Öffentliche Quellen, Jan. Rechenschaftsberichte, Nebeneinkünfte, Vereine, Stiftungen. Nichts, wofür du ein Passwort brauchst.
+> 그 앞마당 값을 누가 대는지 알아봐. 공개된 자료만, 얀. 정당 회계 보고서, 부수입 신고, 협회, 재단. 비밀번호가 필요한 건 하나도 건드리지 마.
+JAN: Ich habe sowieso keins mehr, schon vergessen? Bis Sonntag?
+> 어차피 저 이제 비밀번호도 없잖아요, 잊으셨어요? 일요일까지요?
+FALK: Bis Sonntag. Morgen früh steht in der Depesche, dass der Moskau-Satz gefälscht ist. Ab morgen sucht ganz Berlin nicht mehr den Satz, sondern den Fälscher. Ich möchte ihn vor ganz Berlin finden.
+> 일요일까지. 내일 아침 «데페셰»에 모스크바 문장이 위조라는 기사가 실려. 내일부터 베를린 전체가 문장이 아니라 위조범을 찾을 거야. 난 베를린 전체보다 먼저 찾고 싶어.
+
+== 장면 1 — ZWEI KLICKS
+HAAS: Konstantin. Samstag, neun Uhr, unangemeldet, mit der Depesche unter dem Arm. So standen Sie zuletzt vor meiner Tür, als man Ihr altes Referat aufgelöst hat.
+> 콘스탄틴. 토요일 아침 아홉 시에, 연락도 없이, 옆구리에 «데페셰»를 끼고. 마지막으로 이렇게 우리 집 앞에 서 있었던 게 당신 예전 과가 해체됐을 때였죠.
+FALK: Und Sie haben mir damals einen sehr schlechten Kaffee gekocht. Darf ich trotzdem hereinkommen, Ulrike?
+> 그때 아주 맛없는 커피를 끓여 주셨죠. 그래도 들어가도 될까요, 울리케?
+HAAS: Der Kaffee ist nicht besser geworden. Kommen Sie. Ich bin erst gestern spät aus Bonn zurück. Meiner Mutter geht es besser, falls Sie fragen wollten.
+> 커피는 여전히 맛없어요. 들어오세요. 어젯밤 늦게야 본에서 돌아왔어요. 물어보려던 참이었다면, 어머니는 좀 나아지셨어요.
+FALK: Ich wollte fragen. Und es freut mich wirklich. … Die Titelseite haben Sie gesehen? Lesen Sie den vorletzten Absatz.
+> 물어보려던 참이었어요. 정말 다행입니다. …1면은 보셨죠? 끝에서 두 번째 단락을 읽어 보세요.
+HAAS: «Moskau-Satz beruht auf manipulierter Seite.» Ein sauberer Rückzieher. Und dann: «Die übrigen dreizehn Seiten stammen nach Erkenntnissen der Redaktion aus einem Farblaserdrucker, dessen Gerätekennung der Redaktion vorliegt.» … Und?
+> «모스크바 문장은 조작된 페이지에서 나왔다.» 깔끔하게 물러섰네요. 그리고 이거요. «편집국이 확인한 바에 따르면 나머지 열세 쪽은 컬러 레이저 프린터에서 출력되었으며, 편집국은 그 기기 식별 번호를 확보하고 있다.» …그래서요?
+FALK: Die Gutachterin hat aus den gelben Punkten auch Datum und Uhrzeit gelesen. Freitag vor einer Woche, neunzehn Uhr zweiundvierzig.
+> 감정인이 노란 점에서 날짜와 시각도 읽어 냈습니다. 지난주 금요일, 19시 42분.
+HAAS: … Das steht hier nicht.
+> …그건 여기 안 나와 있는데요.
+FALK: Nein. Das steht nur in meinem Kopf und in dem von Frau Kessler. Sie hat mich gestern Abend gefragt, ob mir die Uhrzeit etwas sagt. Ich habe Nein gesagt.
+> 안 나와 있죠. 제 머릿속에만, 그리고 케슬러 씨 머릿속에만 있습니다. 어젯밤 케슬러 씨가 그 시각에 짚이는 데가 있느냐고 묻더군요. 없다고 했습니다.
+HAAS: Sie haben für mich gelogen. Gegenüber einer Journalistin.
+> 저 때문에 거짓말을 하셨군요. 기자한테.
+FALK: Ich habe für vierundzwanzig Stunden gelogen, Ulrike. Nicht länger. Sie haben Frau Schönfeld gesagt, alle sechzehn Seiten lägen in Ihrem Tresor.
+> 스물네 시간짜리 거짓말이었어요, 울리케. 그 이상은 안 됩니다. 쇤펠트 박사한테 16쪽 전부 금고에 있다고 하셨죠.
+HAAS: Da liegen sie auch. Ich kann sie Ihnen am Montag zeigen. Sechzehn Seiten, durchnummeriert, mit meinen Bleistiftnotizen aus dem ICE.
+> 실제로 있어요. 월요일에 보여 드릴 수 있어요. 16쪽, 번호대로, 고속열차에서 연필로 적은 메모까지 그대로요.
+FALK: Am Montag haben Sie Frau Schönfeld zuerst gesagt, Sie hätten gar nicht gedruckt. Damals habe ich nicht gefragt, warum. Heute frage ich.
+> 월요일에 쇤펠트 박사한테 처음엔 출력한 적이 없다고 하셨죠. 그땐 왜 그랬는지 묻지 않았어요. 오늘은 묻겠습니다.
+HAAS: Weil man in unserem Haus nicht zugibt, dass man ein NATO-Papier mit in den Zug genommen hat. Nicht in so einer Woche.
+> 우리 부처에선 NATO 문서를 기차에 들고 탔다고 순순히 인정하는 사람이 없으니까요. 이런 주에는 더더욱.
+FALK: Das ist der Grund für die erste Lüge. Ich will den Grund für die zweite.
+> 그건 첫 번째 거짓말의 이유고요. 두 번째 거짓말의 이유를 듣고 싶습니다.
+HAAS: Welche zweite?
+> 두 번째라뇨?
+FALK: Die, die Sie mir gerade erzählen, indem Sie etwas weglassen. Sie sind zu lange im Amt, Ulrike. Sie wissen, dass man am besten mit Schweigen lügt.
+> 지금 뭔가를 빼놓으면서 하고 계신 그 거짓말이요. 외무부에 너무 오래 계셨어요, 울리케. 제일 잘 먹히는 거짓말이 침묵이라는 걸 아시잖아요.
+HAAS: … Der Drucker im zweiten Stock war im Ruhemodus. Ich habe am Platz auf «Drucken» geklickt, und es kam keine Bestätigung. Also habe ich noch einmal geklickt.
+> …2층 프린터가 절전 모드였어요. 자리에서 «인쇄»를 눌렀는데 아무 확인 표시도 안 뜨더라고요. 그래서 한 번 더 눌렀어요.
+FALK: Zweimal.
+> 두 번.
+HAAS: Zweimal. Dann bin ich hin, habe meine Dienstkarte an den Drucker gehalten, und er hat losgelegt. In dem Moment klingelte mein Handy. Notaufnahme in Bonn, meine Mutter sei gestürzt. Ich habe den Stapel gegriffen, der im Fach lag, und bin zum Hauptbahnhof gerannt.
+> 두 번이요. 그러고 나서 프린터로 가서 출입카드를 댔더니 인쇄가 시작됐어요. 바로 그때 휴대폰이 울렸어요. 본의 응급실이었죠. 어머니가 넘어지셨다고. 출력함에 있던 뭉치를 집어 들고 중앙역으로 뛰었어요.
+FALK: Und im Zug haben Sie sechzehn Seiten gezählt.
+> 그리고 기차에서 16쪽을 세셨군요.
+HAAS: Sechzehn. Ich dachte, der zweite Auftrag sei im Nirwana gelandet, das passiert bei diesem Gerät ständig. Ich habe nicht mehr daran gedacht. Erst am Montag wieder, bei Frau Schönfeld.
+> 16쪽이요. 두 번째 인쇄는 어디론가 증발한 줄 알았어요. 그 기계는 늘 그러거든요. 그 뒤로 까맣게 잊고 있었어요. 월요일에 쇤펠트 박사 방에서 다시 떠올랐죠.
+FALK: Und da haben Sie lieber geschwiegen.
+> 그런데 거기선 입을 다무는 쪽을 택하셨고요.
+HAAS: Ich hatte gerade zugegeben, dass ich gedruckt hatte. Sollte ich nachschieben, dass ein zweites Exemplar irgendwo im Haus herumliegen könnte? Mit meinem Namen im Druckprotokoll?
+> 출력했다고 막 인정한 참이었어요. 거기다 대고 두 번째 사본이 부처 어딘가에 굴러다닐지도 모른다고 덧붙이란 말이에요? 인쇄 기록엔 제 이름이 찍혀 있는데?
+FALK: Hätte es im Haus herumgelegen, hätte es längst jemand gefunden. Dreizehn Seiten davon liegen bei der Depesche und in Warschau. Die drei anderen hat jemand behalten oder vernichtet.
+> 부처 어딘가에 굴러다녔다면 벌써 누가 찾아냈겠죠. 그중 열세 쪽은 «데페셰»와 바르샤바에 있어요. 나머지 세 쪽은 누군가 갖고 있거나 없애 버렸고요.
+HAAS: Mein Gott. Seite vier.
+> 세상에. 4쪽.
+FALK: Seite vier hat er ausgetauscht, und die beiden Seiten des Luftverteidigungsanhangs hat er herausgenommen. … Aber Frau Schönfeld hat am Montag von sechzehn Seiten gesprochen. Nicht von zweiunddreißig.
+> 4쪽은 바꿔치기했고, 방공 부속서 두 쪽은 빼냈죠. …그런데 월요일에 쇤펠트 박사는 16쪽이라고 했어요. 32쪽이 아니라.
+HAAS: Das ist mir auch aufgefallen. Ich dachte, ich hätte Glück gehabt und der zweite Auftrag sei wirklich verloren gegangen.
+> 저도 그게 눈에 걸렸어요. 운이 좋아서 두 번째 인쇄가 정말 날아간 줄 알았죠.
+FALK: Ein Drucker, der Datum und Uhrzeit auf jede Seite stempelt, verliert keine sechzehn Seiten. Entweder das Protokoll ist lückenhaft, oder jemand hat uns nur die Hälfte vorgelesen. … Wer benutzt dieses Gerät?
+> 장마다 날짜와 시각을 찍는 프린터가 16쪽을 잃어버릴 리 없어요. 기록에 구멍이 있거나, 누가 우리한테 절반만 읽어 준 거죠. …그 프린터는 누가 씁니까?
+HAAS: Der halbe zweite Stock. Mein Referat, das Abrüstungsreferat und die 209 am Ende des Flurs. Er steht in der Teeküche, Konstantin. Da kommt jeder vorbei, der einen Kaffee will.
+> 2층 절반이요. 우리 과, 군축과, 그리고 복도 끝 209과. 탕비실에 있어요, 콘스탄틴. 커피 마시러 오는 사람은 다 지나가요.
+FALK: Um Viertel vor acht an einem Freitagabend will nicht jeder einen Kaffee. Sie gehen am Montag bis vierzehn Uhr zu Frau Schönfeld, Ulrike, erzählen ihr alles und verlangen das vollständige Druckprotokoll. Wenn nicht, gehe ich um fünfzehn Uhr selbst.
+> 금요일 저녁 일곱 시 사십오 분에 커피 마시러 오는 사람은 많지 않죠. 월요일 오후 두 시까지 쇤펠트 박사한테 가세요, 울리케. 전부 말하고 인쇄 기록 전체를 보여 달라고 하세요. 안 가시면 세 시에 제가 직접 갑니다.
+HAAS: Fünfzehn Jahre, Konstantin, und Sie stellen mir in meiner eigenen Küche ein Ultimatum.
+> 15년이에요, 콘스탄틴. 그런데 우리 집 부엌에서 저한테 최후통첩을 하시네요.
+FALK: Fünfzehn Jahre, Ulrike. Deshalb stelle ich es Ihnen und nicht Karlsruhe. Danke für den Kaffee. Er ist wirklich nicht besser geworden.
+> 15년이니까요, 울리케. 그래서 카를스루에가 아니라 과장님께 하는 겁니다. 커피 고마웠어요. 정말 하나도 안 나아졌네요.
+
+== 장면 2 — DIE PFLEGE DER LANDSCHAFT
+ELISABETH: Du hast den Braten jetzt dreimal umgedreht, Konstantin. Davon wird er nicht schneller gar. Was ist morgen um acht?
+> 고기를 벌써 세 번째 뒤집었어, 콘스탄틴. 그런다고 빨리 익지 않아. 내일 여덟 시에 뭐가 있는데?
+FALK: Ein Ausschuss. Geheime Sitzung, Brückner im Vorsitz. Er will das ganze Papier, und er will mich.
+> 위원회. 비공개 회의고, 브뤼크너가 위원장이야. 문서 전체를 원하고, 나를 원해.
+ELISABETH: Der Auswärtige Ausschuss ist kein Untersuchungsausschuss, er kann dich weder vereidigen noch zwingen. Das ist aber kein Trost. Wer den Bundestag anlügt, braucht keinen Meineid, um erledigt zu sein – es reicht, wenn es herauskommt.
+> 외교위원회는 국정조사위원회가 아니라서 당신한테 선서를 시킬 수도, 뭘 강요할 수도 없어. 그렇다고 위안이 되는 건 아니야. 연방의회에 거짓말한 사람은 위증죄까지 갈 필요도 없이 끝장나. 들통나기만 하면 돼.
+FALK: Wer sagt, dass ich lügen will?
+> 누가 거짓말하겠대?
+ELISABETH: Du hast mir am Montag gesagt, ich solle nicht auf dich warten. Seitdem zähle ich nicht mehr mit. … Es klingelt. Das ist dein Jan. Er klang am Telefon, als hätte er einen Schatz gefunden.
+> 월요일에 기다리지 말라고 했잖아. 그 뒤로는 세는 걸 그만뒀어. …초인종 울린다. 당신 얀이네. 전화로는 보물이라도 찾은 목소리던데.
+JAN: Guten Abend, Elisabeth, entschuldige die Störung am Sonntag. Konstantin, ich habe etwas – keinen Schatz, eher einen Geruch. Greve Energie baut vor Lubmin ein schwimmendes LNG-Terminal, «Ostsee-Terminal Lubmin zwei». Lubmin liegt in Brückners Wahlkreis.
+> 안녕하세요, 엘리자베트. 일요일에 방해해서 미안해요. 콘스탄틴, 찾은 게 있어요. 보물이라기보다는 냄새요. 그레베 에너지가 루브민 앞바다에 부유식 LNG 터미널을 짓고 있어요. «오스트제 터미널 루브민 2». 루브민이 브뤼크너 지역구예요.
+FALK: Dreihundert Arbeitsplätze und ein Abgeordneter, der sie verteidigt. Das ist noch kein Skandal. Das ist Wahlkreisarbeit.
+> 일자리 삼백 개와 그걸 지키는 의원이라. 그건 아직 스캔들이 아니야. 지역구 관리지.
+JAN: Warte. In Greifswald gibt es einen Verein, «Forum Ostsee e.V.». Konferenzen, Schüleraustausch, eine Segelregatta. Vorsitzender des Kuratoriums: Ralf Brückner. Größter Förderer seit drei Jahren: die Greve-Stiftung, hundertachtzigtausend Euro im Jahr. Steht im eigenen Jahresbericht.
+> 잠깐만요. 그라이프스발트에 «포럼 오스트제»라는 협회가 있어요. 학술회의, 학생 교류, 요트 대회 같은 걸 해요. 후원 이사회 의장이 랄프 브뤼크너예요. 3년째 최대 후원자는 그레베 재단이고, 1년에 18만 유로요. 협회 연례 보고서에 그대로 나와요.
+ELISABETH: Das ist legal, Jan. Unschön, aber legal. Solange niemand nachweisen kann, dass für das Geld eine konkrete Gegenleistung erbracht wurde.
+> 그건 합법이야, 얀. 보기엔 안 좋아도 합법이야. 그 돈에 대한 구체적인 대가가 있었다는 걸 아무도 증명하지 못하는 한.
+JAN: Und Brückner hat letztes Jahr viermal beim Forum gesprochen. In seinen Nebeneinkünften beim Bundestag steht jedes Mal ein Honorar. Der Verein zahlt also seinen eigenen Kuratoriumsvorsitzenden – mit Greves Geld.
+> 그리고 브뤼크너는 작년에 포럼에서 네 번 강연했어요. 연방의회 부수입 신고에 매번 강연료가 올라 있고요. 그러니까 협회가 자기 후원 이사회 의장한테 돈을 주는 거죠. 그레베 돈으로요.
+FALK: Die Pflege der Bonner Landschaft.
+> 본 정치권 관리라.
+ELISABETH: Flick, Jan. Da warst du noch nicht auf der Welt. Der Flick-Konzern hatte Daimler-Aktien für knapp zwei Milliarden Mark verkauft und wollte dafür keine Steuern zahlen – das Wirtschaftsministerium unter Friderichs und Lambsdorff stimmte zu. Gleichzeitig steckte der Konzern Politikern fast aller Parteien Geld zu, und sein Manager von Brauchitsch nannte das «die Pflege der Bonner Landschaft».
+> 플릭 사건 말이야, 얀. 너 태어나기도 전이지. 플릭 그룹이 다임러 주식을 20억 마르크 가까이 받고 팔고는 그 차익에 세금을 안 내려고 했는데, 프리데릭스와 람스도르프가 이끈 경제부가 그걸 승인해 줬어. 그러는 동안 그룹은 거의 모든 정당 정치인들한테 돈을 찔러 줬고, 경영자 폰 브라우히치는 그걸 «본 정치권 관리»라고 불렀지.
+JAN: Und wie ist das aufgeflogen? Ein Untersuchungsausschuss?
+> 그게 어떻게 들통났어요? 국정조사위원회요?
+FALK: Ein Steuerfahnder aus Sankt Augustin, der zu genau hingeschaut hat. Und ein Buchhalter, der zu ordentlich war. Herr Diehl hat jede Zahlung notiert, mit einem kleinen Kürzel davor: «wg.» – wegen. Wegen dieses Ministers, wegen jenes Herrn.
+> 너무 꼼꼼히 들여다본 장크트아우구스틴의 세무 조사관 하나. 그리고 너무 성실했던 회계 책임자 하나. 딜이라는 사람이 돈 건넬 때마다 앞에 작은 약자를 붙여서 다 적어 놨어. «wg.», 그러니까 «~때문에». 이 장관 때문에, 저 양반 때문에.
+ELISABETH: Und jetzt willst du Brückner erzählen, du hättest seine «wg.»-Liste.
+> 그래서 이제 브뤼크너한테 그 사람 «wg.» 명단을 갖고 있다고 말하겠다는 거구나.
+FALK: Ich will ihn glauben lassen, dass es eine gibt.
+> 그런 명단이 있다고 믿게 만들 거야.
+ELISABETH: Dann merk dir das Ende der Geschichte, bevor du anfängst. Das Landgericht Bonn hat Lambsdorff und Friderichs 1987 vom Vorwurf der Bestechlichkeit freigesprochen. Verurteilt wurden sie nur wegen Steuerdelikten. Die Bestechung konnte man nicht beweisen.
+> 그럼 시작하기 전에 그 이야기의 결말부터 기억해 둬. 1987년에 본 지방법원은 람스도르프와 프리데릭스의 뇌물 수수 혐의에 무죄를 선고했어. 유죄는 세금 관련 혐의뿐이었고. 뇌물은 증명하지 못한 거야.
+FALK: Lambsdorff ist trotzdem zurückgetreten, drei Jahre vor dem Urteil. Barzel auch, als Bundestagspräsident. Für einen Politiker reicht es, dass man riecht, wie es riecht.
+> 그래도 람스도르프는 판결 3년 전에 물러났어. 바르첼도 연방의회 의장 자리에서 물러났고. 정치인한테는 냄새가 나는 것만으로 충분해.
+ELISABETH: Für einen Politiker vielleicht. Für dich nicht. Wenn du bluffst und er dich durchschaut, hast du nichts mehr. Keine Liste, keinen Ruf, keine Ausrede.
+> 정치인한테는 그럴지도 모르지. 당신한테는 아니야. 허세를 부렸다가 그 사람이 꿰뚫어 보면 당신한테 남는 건 없어. 명단도, 평판도, 변명도.
+FALK: Ich habe ohnehin keine Liste. Das ist der Vorteil eines Bluffs: Man kann ihn nicht beschlagnahmen. … Und Ulrike Haas hat zweimal auf «Drucken» geklickt, Jan. Der zweite Stapel blieb im Fach. Teeküche im zweiten Stock, neben der 209.
+> 어차피 명단 같은 건 없어. 그게 허세의 장점이지. 압수당할 일이 없거든. …그리고 얀, 울리케 하스가 «인쇄»를 두 번 눌렀어. 두 번째 뭉치는 출력함에 남았고. 2층 탕비실, 209과 옆이야.
+JAN: Die 209. Mein altes Referat. … Du weißt, wie das für mich aussieht.
+> 209과요. 제 예전 과네요. …그게 저한테 어떻게 보일지 아시죠.
+FALK: Ich weiß, wie es für Frau Schönfeld aussehen wird. Deshalb erfährt sie es von Haas und nicht von dir. … Entschuldigt mich. Die Staatssekretärin.
+> 쇤펠트 박사한테 어떻게 보일지는 알지. 그러니까 너 말고 하스 과장 입으로 알게 해야 해. …잠깐만. 사무차관님이야.
+WINTER: Herr Falk, Sonntagabend. Ich nehme an, es ist wichtig, sonst hätten Sie mir eine Mail geschrieben, die ich am Montag ignorieren könnte.
+> 팔크 씨, 일요일 저녁이네요. 중요한 일이겠죠. 아니면 월요일에 내가 무시해도 되는 메일을 보냈을 테니까.
+FALK: Es ist wichtig. Ich habe Botschafter Vaitkus am Freitag zugesagt, dass er bis Montag zwölf Uhr eine Verbalnote bekommt. Dass der Moskau-Satz in keiner Fassung von Bernstein steht.
+> 중요합니다. 금요일에 바이트쿠스 대사에게 월요일 열두 시까지 외교 각서를 주겠다고 약속했습니다. 모스크바 문장은 베른슈타인 어느 판본에도 없다는 내용으로요.
+WINTER: Ich habe Ihnen am Freitag ausdrücklich verboten, etwas Schriftliches herauszugeben.
+> 금요일에 문서로는 아무것도 내주지 말라고 분명히 금지했을 텐데요.
+FALK: Sie haben mir verboten, Wortlaut herauszugeben. Die Note enthält keine einzige Zeile aus Bernstein. Nur einen Satz über einen Satz, der nicht drinsteht.
+> 원문을 내주지 말라고 하셨죠. 각서에는 베른슈타인 문장이 한 줄도 없습니다. 거기 없는 문장에 관한 문장 하나뿐이에요.
+WINTER: In wessen Namen haben Sie das zugesagt, Herr Falk?
+> 누구 이름으로 약속한 거예요, 팔크 씨?
+FALK: In meinem. Litauen hat dafür seine Erklärung entschärft. Ohne Note fliegt Vaitkus morgen Abend nach Vilnius, und nicht zu Konsultationen.
+> 제 이름으로요. 그 대가로 리투아니아가 성명 수위를 낮췄습니다. 각서가 없으면 바이트쿠스는 내일 저녁 빌뉴스로 갑니다. 협의하러 가는 게 아니고요.
+WINTER: Dann werden Sie morgen erfahren, was Ihr Name wert ist. Ich denke darüber nach. Gute Nacht, Herr Falk.
+> 그럼 내일 당신 이름값이 얼마인지 알게 되겠네요. 생각해 볼게요. 잘 자요, 팔크 씨.
+FALK: Sie denkt nach, Jan. Laut. Jetzt wissen es vier Menschen in Berlin. Es ist neunzehn Uhr zwölf – merk dir die Uhrzeit.
+> 생각해 보신대, 얀. 들으라는 듯이. 이제 베를린에서 그걸 아는 사람이 넷이야. 지금 일곱 시 십이 분이야. 이 시각 기억해 둬.
+ELISABETH: Und dein Vater hat heute angerufen. Eine halbe Stunde Physiotherapie, dann die Frage, ob du böse auf ihn bist. Ich habe gesagt, ich wüsste langsam selbst gern, worauf.
+> 그리고 오늘 아버님 전화 왔었어. 30분 동안 물리치료 얘기만 하시더니, 당신이 화났느냐고 물으시더라. 뭐에 화가 났는지 나도 슬슬 알고 싶다고 했어.
+
+== 장면 3 — GEHEIME SITZUNG
+BRÜCKNER: Ich eröffne die Sondersitzung. Die Sitzung ist als GEHEIM eingestuft, die Mobiltelefone liegen in den Schließfächern, es wird ein Wortprotokoll geführt. Herr Falk, willkommen. Sie sind der Mann der Woche.
+> 임시 회의를 시작하겠습니다. 이 회의는 비밀 등급이고, 휴대전화는 모두 사물함에 두었으며, 속기록을 작성합니다. 팔크 대표, 환영합니다. 이번 주의 주인공이시군요.
+FALK: Herr Vorsitzender, meine Damen und Herren Abgeordnete. Ich wäre lieber der Mann einer ruhigen Woche gewesen.
+> 위원장님, 의원 여러분. 저는 조용한 한 주의 주인공이었으면 더 좋았겠습니다.
+BRÜCKNER: Das glaube ich Ihnen gern. Fangen wir schlicht an. Gibt es ein Dokument mit dem Namen Bernstein?
+> 그 말은 믿습니다. 간단하게 시작하죠. «베른슈타인»이라는 이름의 문서가 있습니까?
+FALK: Die Bundesregierung verhandelt mit Partnern über die Stärkung der Abschreckung an der Ostflanke. Zu Einzelheiten laufender Verhandlungen und deren Arbeitstiteln kann ich im Rahmen meiner Aussagegenehmigung nur begrenzt Stellung nehmen.
+> 연방정부는 동부 전선 억지력 강화를 두고 동맹국들과 협상하고 있습니다. 진행 중인 협상의 세부 내용과 가제에 대해서는 제 진술 허가 범위 안에서만 제한적으로 말씀드릴 수 있습니다.
+BRÜCKNER: Herr Falk, wir tagen GEHEIM. Halb Europa hat dieses Papier, die Berliner Depesche hat es, vermutlich auch die russische Botschaft. Nur der Deutsche Bundestag hat es nicht. Finden Sie das in Ordnung?
+> 팔크 대표, 지금은 비밀회의입니다. 유럽 절반이 그 문서를 갖고 있고, «베를리너 데페셰»도 갖고 있고, 아마 러시아 대사관도 갖고 있겠죠. 독일 연방의회만 없어요. 그게 괜찮다고 보십니까?
+FALK: Ich finde es nicht in Ordnung, dass die Depesche es hat. Daraus folgt aber nicht, dass es jeder haben sollte.
+> «데페셰»가 갖고 있는 건 괜찮지 않다고 봅니다. 그렇다고 모두가 가져야 한다는 결론이 나오지는 않습니다.
+SEIDEL: Herr Vorsitzender, eine Zwischenfrage. Herr Falk, Sie waren am Donnerstagabend auf einem Empfang in der russischen Botschaft, zwölf Stunden vor dem Artikel. Dienstlich oder privat?
+> 위원장님, 중간에 질문 하나 드리겠습니다. 팔크 대표, 목요일 저녁 러시아 대사관 리셉션에 가셨죠. 기사가 나오기 열두 시간 전에요. 공무였습니까, 사적인 자리였습니까?
+FALK: Dienstlich, Frau Abgeordnete, mit Wissen meines Hauses. Der Gesandte liebt Geschichte, wir haben über das Jahr 1922 und über ein Protokoll von 1939 gesprochen. Ich habe ihm erklärt, dass Deutschland keine geheimen Zusatzprotokolle mehr unterschreibt.
+> 공무였습니다, 의원님. 부처도 알고 있었습니다. 공사참사관이 역사를 좋아해서 1922년 이야기와 1939년 의정서 이야기를 나눴습니다. 독일은 더 이상 비밀 부속 의정서에 서명하지 않는다고 말해 줬죠.
+BRÜCKNER: Schön gesagt. Nur steht im Artikel ein Satz, der genau nach einem solchen Zusatzprotokoll klingt. Mit Moskau.
+> 멋진 말이군요. 그런데 기사에는 딱 그런 부속 의정서처럼 들리는 문장이 하나 있죠. 모스크바가 들어간.
+FALK: Der Satz ist gefälscht. Die Depesche hat das am Samstag auf Seite eins korrigiert, gestützt auf ein Gutachten. Die Seite wurde ausgetauscht, bevor das Papier verschickt wurde.
+> 그 문장은 위조입니다. «데페셰»가 감정 결과를 근거로 토요일 1면에 정정했습니다. 문서가 발송되기 전에 그 쪽이 바꿔치기된 겁니다.
+BRÜCKNER: Von wem?
+> 누가 바꿨습니까?
+FALK: Das ermittelt die Bundesanwaltschaft. Das Auswärtige Amt hat die Ermächtigung nach Paragraf dreihundertdreiundfünfzig b erteilt.
+> 그건 연방검찰이 수사하고 있습니다. 외무부가 형법 353b조에 따른 소추 승인을 내줬습니다.
+BRÜCKNER: Gegen Unbekannt, wie ich höre. Ihr Haus ermittelt gegen Unbekannt, während Ihrem persönlichen Referenten der Zugang zum Dokument gesperrt wurde. Das klingt, als sei Unbekannt ziemlich bekannt.
+> 성명불상자 상대라고 들었습니다. 외무부는 성명불상자를 상대로 수사한다면서 정작 대표의 개인 보좌관은 문서 접근이 차단됐더군요. 성명불상자가 꽤 유명한 사람인 것 같군요.
+FALK: Herrn Ostrowskis Zugang wurde aus Vorsicht gesperrt, nicht aus Verdacht. Ich verbürge mich für ihn, Herr Vorsitzender. Das habe ich auch meiner Staatssekretärin gesagt.
+> 오스트로프스키 보좌관의 접근 차단은 혐의 때문이 아니라 예방 차원입니다. 제가 그 사람을 보증합니다, 위원장님. 사무차관님께도 그렇게 말씀드렸습니다.
+SEIDEL: Herr Falk, haben Sie selbst mit Frau Kessler gesprochen, bevor der Artikel erschien?
+> 팔크 대표, 기사가 나가기 전에 케슬러 기자와 직접 이야기하신 적이 있습니까?
+FALK: Frau Kessler hat mich am Montag angerufen, wie sie viele angerufen hat. Ich habe ihr gesagt, dass ich zu einem solchen Dokument nichts sagen kann.
+> 케슬러 기자가 월요일에 저한테 전화했습니다. 여러 사람한테 전화했듯이요. 그런 문서에 대해서는 아무 말도 할 수 없다고 했습니다.
+SEIDEL: Das war Montag. Und danach?
+> 그건 월요일이고요. 그 뒤에는요?
+FALK: Ich habe Frau Kessler nichts gegeben, was sie nicht schon hatte.
+> 저는 케슬러 기자에게 그 사람이 이미 갖고 있지 않던 것은 아무것도 주지 않았습니다.
+BRÜCKNER: Eine bemerkenswerte Formulierung. Bitte genau so ins Protokoll. … Kommen wir zu Litauen. Herr Falk, trifft es zu, dass Sie Botschafter Vaitkus eine Verbalnote zugesagt haben? Bis heute, zwölf Uhr?
+> 주목할 만한 표현이군요. 속기록에 토씨 하나 빼지 말고 넣으세요. …리투아니아 얘기로 넘어가죠. 팔크 대표, 바이트쿠스 대사에게 외교 각서를 약속한 게 사실입니까? 오늘 열두 시까지?
+FALK: … Darf ich fragen, woher der Ausschuss das weiß, Herr Vorsitzender?
+> …위원회가 그걸 어떻게 아시는지 여쭤봐도 되겠습니까, 위원장님?
+BRÜCKNER: Hier stellt der Ausschuss die Fragen, Herr Falk. Trifft es zu?
+> 여기서 질문은 위원회가 합니다, 팔크 대표. 사실입니까?
+FALK: Die Bundesregierung steht mit der litauischen Regierung in engem Kontakt, um die Falschmeldung richtigzustellen. In welcher Form, entscheidet die Leitung meines Hauses.
+> 연방정부는 허위 보도를 바로잡기 위해 리투아니아 정부와 긴밀히 접촉하고 있습니다. 어떤 형식으로 할지는 외무부 지도부가 결정합니다.
+BRÜCKNER: Dann sage ich Ihnen, wie der Ausschuss das sieht. Wenn die Bundesregierung einem fremden Staat schriftlich mitteilt, was in diesem Papier steht oder nicht steht, dann weiß das Parlament in Vilnius mehr als das Parlament in Berlin. Das werden wir nicht hinnehmen.
+> 그럼 위원회 입장을 말씀드리죠. 연방정부가 그 문서에 뭐가 있고 뭐가 없는지 외국에 문서로 알려 준다면, 빌뉴스 의회가 베를린 의회보다 더 많이 아는 셈이 됩니다. 우리는 그걸 받아들이지 않을 겁니다.
+FALK: Die Note teilt nicht mit, was drinsteht. Sie stellt nur fest, dass ein bestimmter Satz nicht drinsteht.
+> 각서는 무엇이 들어 있는지 알려 주지 않습니다. 특정 문장이 없다는 것만 확인할 뿐입니다.
+BRÜCKNER: Wer sagt, was nicht drinsteht, zeichnet den Umriss dessen, was drinsteht. Ich beantrage, dass die Bundesregierung das Dokument bis Mittwoch in der Geheimschutzstelle des Bundestages hinterlegt. Gegenstimmen? Keine. Enthaltungen? Eine. So beschlossen.
+> 무엇이 없는지 말하는 사람은 무엇이 있는지 윤곽을 그려 주는 겁니다. 연방정부가 수요일까지 그 문서를 연방의회 기밀 열람실에 제출할 것을 요구하는 안을 올립니다. 반대? 없습니다. 기권? 한 명. 의결됐습니다.
+SEIDEL: Die Enthaltung war meine, Herr Falk. Nicht aus Mitgefühl. Ich traue nur keinen Beschlüssen, die schon vor der Sitzung fertig formuliert waren.
+> 기권은 제 겁니다, 팔크 대표. 동정해서가 아니에요. 회의 전에 문구까지 다 정해져 있던 의결은 믿지 않을 뿐입니다.
+BRÜCKNER: Ich unterbreche die Sitzung für zwanzig Minuten. Herr Falk, wären Sie so freundlich, mich in mein Büro zu begleiten? Ich möchte Ihnen etwas zeigen, das nicht ins Wortprotokoll gehört.
+> 20분간 정회하겠습니다. 팔크 대표, 제 사무실까지 같이 가 주시겠습니까? 속기록에 들어가선 안 될 걸 하나 보여 드리고 싶군요.
+
+== 절정 — WEGEN BRÜCKNER
+BRÜCKNER: Setzen Sie sich. Schöne Aussicht, nicht wahr? Die Spree, der Reichstag, und dahinter das Kanzleramt. Von hier aus sieht man, wer zu wem geht. … Kennen Sie dieses Foto?
+> 앉으시죠. 전망 좋지 않습니까? 슈프레강, 의사당, 그 뒤로 총리실. 여기선 누가 누구한테 가는지 다 보이죠. …이 사진 아십니까?
+FALK: Bebelplatz. Dienstag, kurz nach vier. Frau Kessler und ich.
+> 베벨 광장이군요. 화요일 네 시 조금 넘어서. 케슬러 기자와 저.
+BRÜCKNER: Auf einer Bank, zwei Meter von der versunkenen Bibliothek, eine halbe Stunde lang, wie man mir sagt. Und eben haben Sie dem Ausschuss erklärt, Sie hätten ihr nichts gegeben, was sie nicht schon hatte.
+> 벤치에서, 가라앉은 도서관에서 2미터 떨어진 곳에서, 듣기로는 30분 동안이었다죠. 그런데 방금 위원회에선 그 기자가 이미 갖고 있지 않던 건 아무것도 주지 않았다고 하셨고요.
+FALK: Das Foto ist von oben aufgenommen. Aus einem Fenster der Alten Bibliothek. Wer hat es Ihnen gegeben?
+> 이 사진은 위에서 찍었군요. 옛 왕립 도서관 창문에서요. 누가 줬습니까?
+BRÜCKNER: Ein besorgter Staatsbürger. Davon gibt es in Berlin mehr, als man denkt. … Herr Falk, ich will Ihnen nicht schaden. Ich will Ihnen ein Geschäft vorschlagen.
+> 걱정 많은 시민 한 분이요. 베를린엔 그런 사람이 생각보다 많습니다. …팔크 대표, 난 당신을 해칠 생각이 없어요. 거래를 하나 제안하고 싶을 뿐입니다.
+FALK: In Ihrem Büro, während der Ausschuss Kaffee trinkt. Das ist effizient.
+> 위원회가 커피 마시는 동안 위원장님 사무실에서요. 효율적이군요.
+BRÜCKNER: Im Infrastrukturkapitel von Bernstein, Abschnitt sechs, stehen Häfen, Kabel, Pipelines. Was fehlt, ist Energie. Eine neue Ziffer sechs Punkt vier: Das schwimmende LNG-Terminal vor Lubmin wird als Bündnisinfrastruktur von gemeinsamem Interesse eingestuft. Mit Schutz durch die Marine und Kofinanzierung aus Brüssel.
+> 베른슈타인 기반시설 장, 6절에는 항구, 케이블, 파이프라인이 들어 있죠. 빠진 건 에너지예요. 새 조항 6.4. 루브민 앞바다 부유식 LNG 터미널을 공동 이익이 걸린 동맹 기반시설로 지정한다. 해군 보호와 브뤼셀의 공동 재원까지 붙여서요.
+FALK: Abschnitt sechs. Für einen Ausschuss, der das Papier erst am Mittwoch bekommt, kennen Sie es erstaunlich gut, Herr Brückner.
+> 6절이라. 수요일에야 문서를 받는 위원회 위원장치고는 내용을 놀랄 만큼 잘 아시는군요, 브뤼크너 위원장님.
+BRÜCKNER: Ich habe Freunde in der Wirtschaft, die Zeitung lesen. Dreihundert Arbeitsplätze in Vorpommern, Herr Falk, und weniger Abhängigkeit von Pipelinegas. Das müsste Ihnen doch gefallen.
+> 신문 읽는 경제계 친구들이 있어서요. 포어포메른에 일자리 삼백 개예요, 팔크 대표. 파이프라인 가스 의존도도 줄고요. 마음에 드셔야 할 텐데.
+FALK: Mir gefällt die Fußnote nicht, die vermutlich dazugehört: Als Herkunft einer Ladung gilt der letzte Verladehafen. Dann wäre Gas von der Jamal-Halbinsel trotz aller Sanktionen ägyptisch oder türkisch, sobald es außerhalb der Union einmal das Schiff gewechselt hat. Und Herr Greve hätte das einzige Terminal an der Ostsee, das die Marine bewacht.
+> 거기 딸려 올 것 같은 각주가 마음에 안 듭니다. 화물의 원산지는 마지막 선적항으로 한다. 그러면 야말반도 가스가 온갖 제재에도 EU 밖에서 배만 한 번 갈아타면 이집트산이나 튀르키예산이 되는 거죠. 그리고 그레베 회장은 해군이 지켜 주는 발트해 유일의 터미널을 갖게 되고요.
+BRÜCKNER: Sie sehen Gespenster. Ich sehe Arbeitsplätze. Und ich sehe einen Sonderbeauftragten, der eben vor dem Ausschuss sehr kreativ formuliert hat. Unterstützen Sie Ziffer sechs Punkt vier, und der Ausschuss begnügt sich mit der Hinterlegung. Kein Foto, keine weiteren Fragen zu Frau Kessler, keine öffentliche Anhörung.
+> 당신은 유령을 보고 있어요. 난 일자리를 보고요. 그리고 방금 위원회에서 아주 창의적으로 말을 고른 특별대표도 보이는군요. 6.4조를 지지하세요. 그럼 위원회는 문서 제출만으로 만족할 겁니다. 사진도 없고, 케슬러 기자에 대한 추가 질문도 없고, 공개 청문회도 없습니다.
+FALK: Und wenn nicht?
+> 지지하지 않으면요?
+BRÜCKNER: Dann frage ich am Mittwoch in öffentlicher Sitzung, warum sich der Sonderbeauftragte drei Tage vor dem Artikel mit der Journalistin auf eine Bank setzt. Das Foto ist hübsch. Die Zeitungen werden es lieben.
+> 그럼 수요일 공개 회의에서 묻겠습니다. 특별대표가 왜 기사가 나가기 사흘 전에 그 기자와 벤치에 나란히 앉아 있었는지. 사진이 예쁘게 나왔어요. 신문들이 아주 좋아할 겁니다.
+FALK: Laut Ihrem Lebenslauf haben Sie Mitte der Achtziger in Bonn studiert und nebenbei für einen Abgeordneten gearbeitet. Dann waren Sie dort, als Lambsdorff zurücktrat und als Barzel zurücktrat. Sie erinnern sich bestimmt an Herrn Diehl, den Buchhalter, und an seine kleinen Kürzel: «wg.»
+> 위원장님 이력서를 보니 80년대 중반에 본에서 대학을 다니면서 어느 의원 사무실 일을 하셨더군요. 그럼 람스도르프가 물러날 때도, 바르첼이 물러날 때도 거기 계셨겠네요. 회계 책임자 딜 씨와 그 사람의 작은 약자, «wg.»도 분명 기억하시겠죠.
+BRÜCKNER: Worauf wollen Sie hinaus?
+> 무슨 말을 하려는 겁니까?
+FALK: Das Forum Ostsee in Greifswald. Hundertachtzigtausend Euro im Jahr von der Greve-Stiftung, das steht im Jahresbericht. Vier Vorträge des Kuratoriumsvorsitzenden, mit Honorar, das steht beim Bundestag. Und dann gibt es Zahlungen, die nirgends stehen.
+> 그라이프스발트의 포럼 오스트제요. 그레베 재단이 1년에 18만 유로, 이건 연례 보고서에 나와 있죠. 후원 이사회 의장의 유료 강연 네 번, 이건 연방의회에 신고돼 있고요. 그리고 어디에도 안 나와 있는 돈이 있습니다.
+BRÜCKNER: Solche Zahlungen gibt es nicht.
+> 그런 돈은 없습니다.
+FALK: Das hat Herr Diehl auch geglaubt, bis ein Steuerfahnder aus Sankt Augustin seine Ordner aufgeschlagen hat. Ich habe eine Liste, Herr Brückner. Sie ist nicht lang. Aber vor jeder Zeile steht ein Kürzel.
+> 딜 씨도 그렇게 믿었죠. 장크트아우구스틴의 세무 조사관이 그 사람 서류철을 펼칠 때까지는. 저한테 명단이 있습니다, 위원장님. 길지는 않아요. 하지만 줄마다 앞에 약자가 붙어 있죠.
+BRÜCKNER: Zeigen Sie sie mir.
+> 보여 주시죠.
+FALK: Sie zeigen mir auch nicht, wer aus dem Fenster fotografiert hat.
+> 위원장님도 창문에서 누가 사진을 찍었는지 안 보여 주시잖습니까.
+BRÜCKNER: … Sie kennen das Ende der Flick-Geschichte, Herr Falk? Freispruch vom Vorwurf der Bestechung. Großzügigkeit ist in diesem Land nicht strafbar.
+> …플릭 사건 결말은 아시죠, 팔크 대표? 뇌물 혐의는 무죄였어요. 이 나라에선 인심 좋은 게 죄가 아닙니다.
+FALK: Die Urteile kamen 1987. Die Rücktritte kamen 1984. In der Politik zählt nicht der Freispruch, Herr Brückner, sondern das Datum. Bis zum Urteil sind Sie längst Ehrenvorsitzender von irgendetwas.
+> 판결은 1987년에 나왔습니다. 사퇴는 1984년이었고요. 정치에서 중요한 건 무죄 판결이 아니라 날짜입니다, 위원장님. 판결이 나올 즈음이면 위원장님은 벌써 어딘가의 명예회장이 돼 계시겠죠.
+BRÜCKNER: Sie bluffen.
+> 허세 부리시는군요.
+FALK: Vielleicht. Dann fragen Sie am Mittwoch nach dem Foto, und ich beantworte die Frage. Danach fragt jemand nach dem Forum Ostsee, und Sie beantworten sie. Wir werden sehen, wessen Antwort länger in der Zeitung steht.
+> 그럴지도 모르죠. 그럼 수요일에 사진에 대해 물으세요. 저는 대답하겠습니다. 그다음엔 누군가 포럼 오스트제에 대해 묻겠죠. 그땐 위원장님이 대답하셔야 하고요. 누구 대답이 신문에 더 오래 실리는지 보죠.
+BRÜCKNER: … Ich bin ein vernünftiger Mensch, Herr Falk. Der Ausschuss begnügt sich vorerst mit der Hinterlegung. Am Mittwoch keine öffentliche Sitzung. Aber Herr Greve möchte Sie kennenlernen. Persönlich. Er redet lieber, als dass er droht.
+> …난 합리적인 사람입니다, 팔크 대표. 위원회는 당분간 문서 제출만으로 만족하겠습니다. 수요일 공개 회의는 없습니다. 다만 그레베 회장이 당신을 만나고 싶어 해요. 직접. 그 사람은 협박보다 대화를 좋아하죠.
+FALK: Im Gegensatz zu seinen Freunden.
+> 그 친구분들과는 다르게요.
+BRÜCKNER: Ich habe nicht gedroht, ich habe Ihnen ein Foto gezeigt. Und an Ihrer Stelle würde ich nach der Sitzung sofort ins Amt fahren, Herr Falk. Wie ich höre, hat die Staatssekretärin ihre Meinung über Ihre Note geändert.
+> 난 협박한 적 없어요. 사진을 보여 드렸을 뿐이죠. 그리고 내가 당신이라면 회의 끝나자마자 외무부로 가겠어요, 팔크 대표. 듣자 하니 사무차관이 당신 각서에 대해 생각을 바꿨다더군요.
+
+== 마무리 — ELF UHR ZWEIUNDFÜNFZIG
+JAN: Elf Uhr zweiundfünfzig. Die Note ist raus, Konstantin. Freigegeben um zehn Uhr vier, abgezeichnet von Dr. Winter. Kein Vermerk, nur ein grünes «W.».
+> 11시 52분. 각서 나갔어요, 콘스탄틴. 10시 4분에 승인됐고, 윈터 박사가 결재했어요. 아무 메모 없이 초록색으로 «W.» 하나만요.
+FALK: Um zehn Uhr vier. Und um zehn nach zehn wusste Brückner, dass sie ihre Meinung geändert hat. Und heute früh um acht wusste er, dass ich die Note versprochen habe.
+> 10시 4분이라. 그리고 10시 10분에 브뤼크너는 사무차관님이 생각을 바꿨다는 걸 알았어. 오늘 아침 여덟 시엔 내가 각서를 약속했다는 것도 알았고.
+JAN: Gestern um neunzehn Uhr zwölf hast du es ihr gesagt. Vorher wussten es drei Menschen. Du hast gesagt, ich soll mir die Uhrzeit merken.
+> 어제 저녁 일곱 시 십이 분에 사무차관님한테 말했죠. 그 전엔 셋만 알았고요. 시각 기억해 두라고 하셨잖아요.
+FALK: Merk sie dir weiter. Und das Foto vom Bebelplatz wurde von oben gemacht, aus der Alten Bibliothek. Frau Schönfeld sagte am Donnerstag, dort gebe es viele Fenster.
+> 계속 기억해 둬. 그리고 베벨 광장 사진은 위에서, 옛 왕립 도서관에서 찍은 거야. 쇤펠트 박사가 목요일에 그랬지. 거긴 창문이 많다고.
+JAN: Dann haben Brückner, die Staatssekretärin und Schönfeld –
+> 그럼 브뤼크너랑 사무차관님이랑 쇤펠트 박사가…
+FALK: Sag es nicht laut. Noch nicht. … Warum gibt sie die Note heute frei, Jan, nachdem sie sie am Freitag verboten hat?
+> 소리 내서 말하지 마. 아직은. …얀, 금요일엔 금지해 놓고 왜 오늘 각서를 승인했을까?
+JAN: Weil die Kanzlerin Ruhe in Vilnius will?
+> 총리가 빌뉴스가 조용하길 원하니까요?
+FALK: Oder weil die Note genau das ist, was Brückner brauchte. Mit ihr hat er seinen Beschluss begründet. Bis Mittwoch liegt Bernstein in der Geheimschutzstelle, und jeder Abgeordnete mit Freunden in der Wirtschaft darf darin blättern.
+> 아니면 그 각서가 바로 브뤼크너한테 필요했던 거라서. 그걸 근거로 의결을 밀어붙였으니까. 수요일이면 베른슈타인이 기밀 열람실에 들어가고, 경제계에 친구 있는 의원은 누구든 넘겨 볼 수 있게 되지.
+JAN: Vaitkus hat geantwortet. Die Note geht heute Nachmittag an den Seimas, und er bleibt in Berlin. «Mit Dank an Herrn Falk persönlich.» Und Haas sitzt seit zehn Minuten bei Frau Schönfeld. Früher als verabredet.
+> 바이트쿠스 대사가 답을 보냈어요. 각서는 오늘 오후 세이마스에 올라가고, 대사는 베를린에 남는대요. «팔크 대표께 개인적으로 감사드리며.» 그리고 하스 과장은 10분 전부터 쇤펠트 박사 방에 있어요. 약속보다 일찍요.
+FALK: Gut. Dann werden wir bald hören, ob das Protokoll sechzehn Seiten zeigt oder zweiunddreißig. … Unbekannte Nummer. Falk.
+> 잘됐네. 그럼 인쇄 기록에 16쪽이 찍혔는지 32쪽이 찍혔는지 곧 듣게 되겠지. …모르는 번호네. 팔크입니다.
+GREVE: Herr Falk, Thomas Greve. Verzeihen Sie, dass ich Ihre Nummer habe, man reicht sie unter Freunden weiter. Ralf sagt, Sie seien ein Mann mit Listen.
+> 팔크 대표님, 토마스 그레베입니다. 번호를 알고 있어서 죄송합니다. 친구들끼리 돌려 보다 보니. 랄프 말로는 대표님이 명단을 가진 분이라더군요.
+FALK: Herr Brückner erzählt viel, wenn der Vormittag lang ist.
+> 브뤼크너 위원장님은 오전이 길면 말씀이 많아지시나 봅니다.
+GREVE: Ich mag Männer mit Listen. Mit ihnen kann man rechnen. Mittwoch, dreizehn Uhr, ich habe einen Tisch reserviert. Sie zeigen mir Ihre Liste, ich zeige Ihnen meine. Und dann sehen wir, wer mehr Zeilen hat.
+> 전 명단 가진 사람을 좋아합니다. 그런 사람과는 계산이 되거든요. 수요일 한 시, 자리 잡아 뒀습니다. 대표님은 대표님 명단을 보여 주시고, 저는 제 명단을 보여 드리죠. 그다음에 누구 쪽 줄이 더 많은지 보자고요.
