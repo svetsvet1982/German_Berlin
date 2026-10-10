@@ -9,6 +9,7 @@ import re
 import subprocess
 import sys
 import tempfile
+import unicodedata
 from pathlib import Path
 
 from docx import Document
@@ -185,8 +186,10 @@ def main():
             continue
         n = sum(len(t) for _, t in sections)
         if mode == "build":
-            safe = re.sub(r"[^A-Za-z0-9]+", "_", meta["title"].translate(
-                str.maketrans({"ä": "ae", "ö": "oe", "ü": "ue", "Ä": "Ae", "Ö": "Oe", "Ü": "Ue", "ß": "ss"}))).strip("_")
+            t = meta["title"].translate(str.maketrans(
+                {"ä": "ae", "ö": "oe", "ü": "ue", "Ä": "Ae", "Ö": "Oe", "Ü": "Ue", "ß": "ss", "ł": "l", "Ł": "L"}))
+            t = unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode()
+            safe = re.sub(r"[^A-Za-z0-9]+", "_", t).strip("_")
             out = ROOT / f"{meta['part']}부" / f"{meta['part']}부_{meta['ep']}화_{safe}.docx"
             build(meta, sections, out)
             pdf = to_pdf(out)
