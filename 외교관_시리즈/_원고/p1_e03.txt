@@ -1,0 +1,332 @@
+@part 1
+@ep 3
+@title Warschauer Frühstück
+@title_ko 바르샤바의 아침 식사
+@tagline 바르샤바의 아침 식사 · 무릎 꿇은 총리와 두 번째 갈색 봉투
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 3월, 수요일 아침 일곱 시부터 오후 다섯 시까지, 바르샤바 쇼팽 공항, 슈하 대로의 폴란드 외무부, 게토 영웅 기념비
+@cast FALK | 외무부 유럽안보 특별대표 (44)
+@cast JAN | 팔크의 개인 보좌관 (31)
+@cast MIRA | 연방정보원(BND) 연락관 (39)
+@cast NOWAK | Piotr Nowak · 폴란드 외무차관 (52)
+@cast AGNIESZKA | Agnieszka Wróbel · 주독 폴란드 대사관 1등 서기관(문화과), 바르샤바로 소환됨 (가상)
+@cast ZIELINSKI | Paweł Zieliński · Nowak 차관의 비서실장 (가상)
+@cast WINTER | 외무부 사무차관 (57)
+@note ※ 2화 다음 날인 수요일 아침입니다. 72시간 기한은 목요일 새벽 여섯 시에 끝나고, Anna Kessler의 기사는 금요일 새벽 여섯 시에 나갑니다. 팔크는 사무차관의 반대를 무릅쓰고 보좌관 Jan을 데리고 바르샤바에 왔습니다. 폴란드 외무차관 Nowak은 «베를린 판본에서 빠진 두 쪽», 곧 방공 부속서(부속서 C)를 이야기하자며 아침 식사를 청했습니다. 식탁에는 베를린에서 급히 소환된 Agnieszka Wróbel, 2화에서 드러난 Sommer 참사관의 연인도 앉아 있습니다.
+@note ※ 호칭: 팔크와 Jan은 du를 씁니다. 팔크와 Nowak은 Sie를 쓰고, 팔크는 예우로 «Herr Vizeminister» 또는 «Herr Nowak»이라고 부릅니다. Nowak은 비서실장을 이름(Paweł)으로 부르지만 Sie를 씁니다. Wróbel은 Jan을 폴란드식으로 «Panie Janie»라고 부르기도 합니다.
+@note ※ 표현 초점: Wiedergutmachung(배상·속죄), Reparationen(전쟁 배상), Kniefall(무릎 꿇기), Rückfallposition(차선책), Anhang(부속서), Bedenken anmelden(이의를 제기하다), zweigleisig fahren(두 길을 동시에 가다), jemandem etwas abringen(어렵게 얻어 내다), seinen Namen verpfänden(이름을 걸다). 접속법 I 간접화법: «Ein Reporter schrieb damals, da knie einer, der es nicht nötig habe, für alle, die es nötig hätten.»
+@history 바르샤바의 무릎 꿇기와 바르샤바 조약 (1970) — 1970년 12월 7일 서독 총리 빌리 브란트는 바르샤바 게토 봉기(1943) 희생자를 기리는 «게토 영웅 기념비» 앞에 화환을 바친 뒤 예고 없이 무릎을 꿇었습니다. 같은 날 그는 오데르-나이세 선을 폴란드 서부 국경으로 인정하는 바르샤바 조약에 서명했습니다. 당시 «슈피겔» 여론조사에서 서독인의 48퍼센트는 무릎 꿇기가 «지나쳤다», 41퍼센트는 «적절했다»고 답했고, 폴란드 공산당 언론도 이 장면을 거의 보도하지 않았습니다. 조약은 1972년 4월 브란트에 대한 건설적 불신임 투표가 두 표 차로 부결된 뒤인 5월 17일 연방의회에서 비준되었습니다(야당 다수 기권). 브란트는 1971년 노벨 평화상을 받았고, 훗날 회고록에 «독일 역사의 심연 앞에서, 학살된 수백만의 무게를 느끼며, 말이 통하지 않을 때 사람들이 하는 일을 했다»고 적었습니다.
+@history 폴란드의 전쟁 배상 요구 — 1953년 8월 22일 소련이 동독에 대한 배상 청구를 포기하자, 폴란드 정부도 다음 날인 8월 23일 1954년 1월 1일부터 독일에 대한 배상을 포기한다고 선언했습니다. 독일 정부는 이 선언과 1990년 2+4 조약으로 문제가 법적으로 종결되었다는 입장입니다. 반면 폴란드 하원 의원들의 전문가 팀은 2022년 9월 1일 제2차 세계대전 피해액을 약 6조 2,200억 즐로티(약 1조 3천억 유로)로 산정한 보고서를 내놓았고, 폴란드는 같은 해 10월 독일에 외교 각서를 보냈습니다. 극 중 Nowak은 1953년 포기가 «모스크바의 허락 없이는 아무것도 못 하던 정부»의 결정이었다고 공격합니다.
+@history 슈하 대로 25번지 (Aleja Szucha 25) — 폴란드 외무부는 바르샤바 슈하 대로 23번지에 있습니다. 바로 옆 25번지 건물은 독일 점령기(1939~1944)에 게슈타포 바르샤바 본부로 쓰였고, 지하 감방은 오늘날 «투쟁과 순교의 영묘»라는 추모관이 되었습니다. Nowak이 이곳을 아침 식사 장소로 고른 것은 의도된 연출입니다.
+@preview 1부 4화 — «Der Mann aus der Botschaft»(대사관에서 온 남자) — 러시아 대사관 공사참사관 Viktor Sedov가 문화 리셉션에 팔크를 초대한다. 그는 샴페인 잔을 든 채 정중하게 위협하며 묻는다. «아버님은 안녕하신가요?» 팔크는 1922년 라팔로와 1939년 독소불가침조약의 비밀 의정서로 응수한다. 그리고 목요일 새벽 여섯 시, 72시간의 기한이 끝난다.
+
+== 도입 — FLUGHAFEN CHOPIN
+JAN: Sieben Uhr zwölf. Der Wagen der Botschaft steht vor Terminal A. Du hast im Flugzeug keine Minute geschlafen.
+> 일곱 시 십이 분이에요. 대사관 차가 A 터미널 앞에 와 있어요. 비행기에서 1분도 안 주무셨죠.
+FALK: Schlafen kann ich, wenn ich weiß, wer uns verkauft hat. Was sagt die Botschaft?
+> 잠은 누가 우릴 팔아넘겼는지 알고 나서 자도 돼. 대사관은 뭐래?
+JAN: Dass Nowak das Frühstück nicht im Hotel will, sondern in seinem Ministerium. Aleja Szucha dreiundzwanzig, im Salon im ersten Stock.
+> 노바크가 아침 식사를 호텔이 아니라 자기 부처에서 하재요. 슈하 대로 23번지, 2층 응접실이요.
+FALK: Szucha dreiundzwanzig. Weißt du, was im Haus daneben war?
+> 슈하 23번지라. 그 옆 건물에 뭐가 있었는지 알아?
+JAN: Nummer fünfundzwanzig. Die Gestapo-Zentrale. Meine Großmutter sagt, als Kind habe sie die Straßenseite gewechselt, wenn sie dort vorbeimusste. Sie war neun, als Warschau 1944 gebrannt hat.
+> 25번지요. 게슈타포 본부였죠. 할머니 말로는 어릴 때 그 앞을 지나가야 하면 길 건너편으로 건너갔대요. 1944년에 바르샤바가 불탈 때 아홉 살이셨어요.
+FALK: Nowak wählt seine Räume, wie andere Leute ihre Argumente wählen. Wir sollen unseren Kaffee mit Blick auf die Geschichte trinken.
+> 노바크는 남들이 논거 고르듯 장소를 골라. 우리더러 역사를 내다보면서 커피를 마시라는 거지.
+JAN: Dein Telefon. Schönfeld.
+> 전화 와요. 쇤펠트예요.
+FALK: Guten Morgen, Frau Dr. Schönfeld. Sie stehen früher auf als die polnische Regierung.
+> 좋은 아침입니다, 쇤펠트 박사님. 폴란드 정부보다 일찍 일어나시는군요.
+MIRA: Ich bin gar nicht erst ins Bett gegangen. Frau Wróbel hat gestern Abend die letzte LOT-Maschine nach Warschau genommen. Reihe vier, allein, und sie hat bis zur letzten Sekunde vor dem Start telefoniert.
+> 아예 안 잤어요. 브루벨 씨가 어젯밤 바르샤바행 마지막 LOT 비행기를 탔어요. 4열에 혼자 앉아서, 이륙 직전까지 통화를 하더래요.
+FALK: Sie lassen eine akkreditierte Diplomatin beschatten?
+> 신임장 받은 외교관한테 미행을 붙이신 겁니까?
+MIRA: Ich lasse niemanden beschatten. Ich habe eine Passagierliste gelesen und eine Kollegin am Flughafen gebeten, die Augen offen zu halten. Gleich wird Frau Wróbel Ihnen am Frühstückstisch gegenübersitzen.
+> 미행한 적 없어요. 승객 명단을 읽고, 공항에 있는 동료한테 눈 좀 뜨고 있으라고 부탁했을 뿐이에요. 이제 곧 브루벨 씨가 아침 식탁에서 당신 맞은편에 앉겠죠.
+FALK: Und Sie möchten, dass ich für Sie zuhöre.
+> 그래서 제가 대신 들어 주길 바라시는군요.
+MIRA: Ich möchte, dass Sie zwei Dinge beobachten. Was Frau Wróbel weiß. Und wie sich Herr Ostrowski verhält, wenn Polnisch gesprochen wird und er glaubt, Sie verstünden es nicht.
+> 두 가지를 봐 주셨으면 해요. 브루벨 씨가 뭘 아는지. 그리고 폴란드어가 오가고 당신은 못 알아듣는다고 생각할 때 오스트로프스키 씨가 어떻게 행동하는지.
+FALK: Mein Polnisch reicht, um ein Frühstück zu bestellen und mich zu entschuldigen. Für alles andere habe ich Jan.
+> 제 폴란드어는 아침 주문하고 사과할 정도는 됩니다. 나머지는 얀이 있고요.
+MIRA: Eben. Für alles andere haben Sie Herrn Ostrowski. Denken Sie darüber nach, bevor Sie sich setzen. Uns bleiben noch dreiundzwanzig Stunden.
+> 그러니까요. 나머지는 다 오스트로프스키 씨한테 맡기시죠. 앉기 전에 그 점을 생각해 보세요. 이제 스물세 시간 남았어요.
+JAN: Sie will, dass du mich überwachst. Ich habe jedes Wort gehört.
+> 저를 감시하라는 거죠. 한 마디도 빠짐없이 들렸어요.
+FALK: Dann weißt du ja, worauf du heute achten musst. Übersetz alles, auch die Sätze, die nicht für meine Ohren bestimmt sind. Vor allem die.
+> 그럼 오늘 뭘 조심해야 하는지 알겠네. 다 통역해. 내 귀에 들어오면 안 되는 말까지. 특히 그런 말.
+JAN: Und wenn jemand auf Polnisch etwas sagt, das gegen mich spricht?
+> 그럼 누가 폴란드어로 저한테 불리한 말을 하면요?
+FALK: Dann übersetzt du es besonders genau.
+> 그럼 특히 정확하게 통역해.
+JAN: Konstantin – danke, dass du mich trotzdem mitgenommen hast.
+> 콘스탄틴… 그래도 저를 데려와 주셔서 고마워요.
+FALK: Bedank dich am Freitag, falls wir dann noch beide im Amt sind. Gehen wir. Nowak lässt gern andere warten, aber er hasst es, selbst zu warten.
+> 고맙다는 말은 금요일에 해. 그때도 우리 둘 다 외무부에 붙어 있으면. 가자. 노바크는 남 기다리게 하는 건 좋아해도, 자기가 기다리는 건 질색이야.
+
+== 장면 1 — ALEJA SZUCHA
+NOWAK: Herr Falk. Pünktlich wie ein preußischer Fahrplan. Setzen Sie sich. Der Kaffee ist polnisch, das Brot auch, nur die Butter kommt leider aus Bayern.
+> 팔크 씨. 프로이센 열차 시간표처럼 정확하시군요. 앉으세요. 커피도 폴란드산, 빵도 폴란드산인데, 버터만 아쉽게도 바이에른산입니다.
+FALK: Danke für die Einladung, Herr Vizeminister. Ein Frühstück ist bei Ihnen eine seltene Ehre. Sonst bekomme ich einen Termin und ein Wartezimmer.
+> 초대해 주셔서 감사합니다, 차관님. 아침 식사라니 드문 영광이군요. 보통은 약속 하나에 대기실 하나를 받는데요.
+NOWAK: Für ein Wartezimmer fehlt uns diesmal die Zeit. Mein Büroleiter, Herr Zieliński. Frau Lis, unsere Dolmetscherin, die wir hoffentlich nicht brauchen. Und Frau Wróbel kennen Sie ja. Oder jedenfalls kennt sie jemanden aus Ihrem Haus.
+> 이번엔 대기실을 내드릴 시간이 없어서요. 제 비서실장 질린스키 씨입니다. 통역사 리스 씨, 필요 없길 바랍니다만. 그리고 브루벨 씨는 아시죠. 아니, 적어도 이분이 외무부 사람 하나는 알고 있죠.
+FALK: Frau Wróbel. Ich hatte gehofft, Sie bei einem Chopin-Abend kennenzulernen. Nicht so.
+> 브루벨 씨. 쇼팽의 밤에서 처음 뵙길 바랐는데요. 이런 식이 아니라.
+AGNIESZKA: Ich auch, Herr Falk. Glauben Sie mir.
+> 저도요, 팔크 씨. 정말이에요.
+NOWAK: Kommen wir zur Sache. Aus diesem Fenster sehen Sie das Nachbarhaus, Szucha fünfundzwanzig. Ich frühstücke hier jeden Morgen, und jeden Morgen erinnert es mich daran, warum Polen deutsche Sicherheitsversprechen zweimal liest.
+> 본론으로 가죠. 이 창으로 옆 건물이 보일 겁니다. 슈하 25번지. 나는 매일 아침 여기서 식사하고, 매일 아침 그 건물을 보며 폴란드가 왜 독일의 안보 약속을 두 번씩 읽는지 떠올립니다.
+FALK: Dann lesen Sie Bernstein ruhig dreimal. Es wird mit jedem Mal besser.
+> 그럼 베른슈타인은 세 번 읽으셔도 됩니다. 읽을 때마다 나아지니까요.
+NOWAK: Ich habe es öfter gelesen, als Ihnen lieb sein dürfte. Unsere sechzehn Seiten, das Warschauer Exemplar. Und seit Montag auch Ihre vierzehn.
+> 당신이 반길 것보다 훨씬 여러 번 읽었습니다. 우리 16쪽, 바르샤바 사본이요. 그리고 월요일부터는 당신네 14쪽도요.
+FALK: Unsere vierzehn?
+> 저희 14쪽이요?
+NOWAK: Die Berliner Fassung. Ohne Anhang C, ohne die zwei Seiten zur Luftverteidigung. Ohne die einzigen zwei Seiten, auf denen Deutschland etwas bezahlt.
+> 베를린 판본이요. 부속서 C가 없고, 방공에 관한 두 쪽이 없죠. 독일이 뭔가를 내는 유일한 두 쪽이 빠진 거요.
+FALK: Woher haben Sie dieses Papier, Herr Nowak?
+> 그 문서를 어디서 구하셨습니까, 노바크 씨?
+NOWAK: Woher hat es die Berliner Presse? Das ist doch die interessantere Frage. Erlauben Sie mir eine Vermutung: Wer seinem Publikum einen Vertrag schmackhaft machen will, ohne über die Kosten zu reden, lässt genau diese zwei Seiten weg.
+> 베를린 언론은 어디서 구했을까요? 그게 더 흥미로운 질문 아닙니까. 추측 하나 해 보죠. 비용 얘기 없이 국민에게 조약을 그럴듯하게 팔고 싶은 사람이라면 딱 그 두 쪽을 빼겠죠.
+FALK: Sie unterstellen der Bundesregierung, sie habe ihr eigenes Abkommen durchgestochen.
+> 연방정부가 자기 협정을 스스로 흘렸다고 보시는 겁니까.
+NOWAK: Ich unterstelle nichts. Ich stelle fest, dass die Luftverteidigung unserer Ostgrenze in der Fassung, die gerade kursiert, nicht mehr vorkommt. Und dass Polen in Berlin traditionell genau dann vergessen wird, wenn es teuer wird.
+> 아무것도 넘겨짚지 않습니다. 지금 돌아다니는 판본에서 우리 동부 국경의 방공이 사라졌다는 걸 확인할 뿐이죠. 그리고 베를린은 전통적으로 돈이 들 때 꼭 폴란드를 잊는다는 것도요.
+FALK: Anhang C gilt unverändert. Vier IRIS-T-Batterien für den Korridor zwischen Polen und Litauen, deutsch finanziert, Stationierung 2028. Daran hat sich nichts geändert.
+> 부속서 C는 그대로 유효합니다. 폴란드와 리투아니아 사이 회랑에 IRIS-T 포대 네 개, 독일 재원, 2028년 배치. 달라진 건 아무것도 없습니다.
+NOWAK: Dann sagen Sie das öffentlich. Heute noch. Und sagen Sie bei der Gelegenheit noch etwas anderes.
+> 그럼 공개적으로 그렇게 말하세요. 오늘 당장. 그리고 그 김에 다른 것도 하나 말하시고요.
+FALK: Ich ahne, worauf Sie hinauswollen.
+> 무슨 말씀인지 짐작이 갑니다.
+NOWAK: Paweł, die Zahl, bitte.
+> 파베우, 그 숫자요.
+ZIELINSKI: Sechs Billionen zweihundertzwanzig Milliarden Złoty, rund eins Komma drei Billionen Euro. So hat eine Expertengruppe des Sejm im September 2022 die Kriegsschäden beziffert.
+> 6조 2,200억 즐로티, 약 1조 3천억 유로입니다. 2022년 9월 하원 전문가 팀이 산정한 전쟁 피해액이죠.
+FALK: Die Zahl kenne ich. Und Sie kennen die Antwort meiner Regierung: Die Frage ist rechtlich abgeschlossen.
+> 그 숫자는 압니다. 그리고 저희 정부의 답도 아시죠. 법적으로 종결된 문제입니다.
+NOWAK: Abgeschlossen durch den Verzicht von 1953. Erklärt von einer polnischen Regierung, die damals nicht einmal ihre eigene Post ohne Moskau öffnen durfte – einen Tag, nachdem die Sowjetunion für die DDR verzichtet hatte. Welch ein Zufall.
+> 1953년의 포기 선언으로 종결됐다는 거죠. 그 시절 모스크바 허락 없이는 자기 편지도 못 뜯어보던 폴란드 정부가 한 선언이요. 그것도 소련이 동독에 대한 청구를 포기한 바로 다음 날에. 대단한 우연이죠.
+FALK: Ich bin nicht hier, um Ihnen das Völkerrecht vorzulesen. Was genau verlangen Sie?
+> 국제법을 읽어 드리러 온 게 아닙니다. 정확히 원하시는 게 뭡니까?
+NOWAK: Keine Billionen, ich bin kein Träumer. Ich verlange, dass Anhang C erweitert wird: zwei zusätzliche Batterien für Białystok und Rzeszów, vollständig von Deutschland bezahlt. Und eine Präambel, in der das Wort «Verantwortung» steht. Nennen Sie es nicht Reparation. Nennen Sie es Sicherheit.
+> 조 단위 돈을 바라는 건 아닙니다. 몽상가는 아니니까. 부속서 C를 확대해 달라는 겁니다. 비아위스토크와 제슈프에 포대 두 개 추가, 비용은 전액 독일 부담. 그리고 «책임»이라는 단어가 들어간 전문(前文). 배상이라고 부르지 마세요. 안보라고 부르세요.
+FALK: Und wenn nicht?
+> 안 된다면요?
+NOWAK: Dann meldet Polen im Nordatlantikrat Bedenken an. Sehr gründliche, sehr lange Bedenken. Und die polnische Öffentlichkeit erfährt, dass Berlin die Luftverteidigung aus seinem eigenen Vertrag gestrichen hat, bevor es ihn der Presse zugespielt hat.
+> 그럼 폴란드는 북대서양이사회에서 이의를 제기할 겁니다. 아주 철저하고 아주 긴 이의를요. 그리고 폴란드 국민은 베를린이 자기 조약을 언론에 흘리기 전에 방공 조항을 지웠다는 걸 알게 되겠죠.
+FALK: Das wäre eine Lüge, Herr Nowak.
+> 그건 거짓말이 될 겁니다, 노바크 씨.
+NOWAK: Es wäre eine Lesart. Und Lesarten, Herr Falk, haben in diesem Teil Europas schon Grenzen verschoben.
+> 하나의 해석이 되겠죠. 그리고 팔크 씨, 유럽 이쪽 동네에선 해석이 국경도 옮겨 왔습니다.
+FALK: Dann lassen Sie mich Ihnen eine andere Lesart anbieten. Aber nicht an diesem Tisch. Fahren Sie mit mir nach Muranów? Zwanzig Minuten.
+> 그럼 제가 다른 해석을 하나 드리죠. 다만 이 식탁에서는 말고요. 저와 무라누프에 같이 가 주시겠습니까? 20분이면 됩니다.
+NOWAK: Zum Ghetto-Denkmal. Sie wollen mich mit Willy Brandt überreden. Das versucht jeder deutsche Diplomat, der zum ersten Mal hier ist.
+> 게토 기념비로요. 빌리 브란트로 나를 설득하겠다는 거군요. 여기 처음 오는 독일 외교관은 다 그걸 해 보죠.
+FALK: Ich bin nicht zum ersten Mal hier. Und ich will Sie nicht überreden. Ich will Ihnen zeigen, was 1970 in Ihren Zeitungen gefehlt hat.
+> 처음 온 것도 아니고, 설득하려는 것도 아닙니다. 1970년에 당신네 신문에서 빠져 있던 걸 보여 드리고 싶을 뿐입니다.
+NOWAK: … Paweł, sagen Sie meinen Termin um zehn ab. Frau Wróbel, Sie bleiben hier. Herr Ostrowski wird Ihnen sicher Gesellschaft leisten.
+> …파베우, 열 시 일정 취소해요. 브루벨 씨는 여기 남아요. 오스트로프스키 씨가 말동무가 돼 줄 겁니다.
+
+== 장면 2 — DER KNIEFALL
+NOWAK: Da. Der siebte Dezember 1970, ein nasser, kalter Morgen wie heute. Der Kranz lag schon, Brandt hat die Schleife zurechtgezogen, ist einen Schritt zurückgetreten – und dann ist er auf die Knie gegangen.
+> 저기요. 1970년 12월 7일, 오늘처럼 축축하고 추운 아침이었죠. 화환은 이미 놓여 있었고, 브란트가 리본을 매만지고 한 걸음 물러섰다가… 무릎을 꿇었습니다.
+FALK: Eine halbe Minute ungefähr. Niemand im Protokoll wusste davon, nicht einmal seine engsten Mitarbeiter.
+> 30초쯤이었죠. 의전 쪽에서는 아무도 몰랐습니다. 가장 가까운 측근들조차요.
+NOWAK: Und wissen Sie, was viele Polen ihm damals übel genommen haben? Er kniete vor dem Denkmal für die Juden des Ghettos, nicht am Grab des Unbekannten Soldaten. Jedenfalls die, die das Bild überhaupt zu sehen bekamen.
+> 그때 많은 폴란드인이 뭘 언짢아했는지 압니까? 그가 무명용사의 묘가 아니라 게토 유대인들을 위한 기념비 앞에서 무릎을 꿇었다는 거예요. 그 사진을 볼 수나 있었던 사람들 얘기지만.
+FALK: Genau das ist mein Punkt. Ihre Parteipresse hat das Bild kaum gezeigt. Und in Westdeutschland fanden achtundvierzig Prozent den Kniefall übertrieben, nur einundvierzig angemessen. Der Spiegel hat das damals abgefragt.
+> 바로 그게 제 얘기입니다. 당신네 당 기관지들은 그 사진을 거의 안 실었죠. 그리고 서독에서는 48퍼센트가 무릎 꿇기를 지나쳤다고 봤고, 적절했다고 본 건 41퍼센트뿐이었습니다. 슈피겔이 당시 여론조사를 했죠.
+NOWAK: Und daraus folgt?
+> 그래서 결론이 뭡니까?
+FALK: Dass die wichtigste Geste der deutsch-polnischen Geschichte in beiden Ländern unpopulär war. Brandt hat sie trotzdem gemacht. Und am selben Tag hat er den Warschauer Vertrag unterschrieben, die Oder-Neiße-Grenze, für die man ihn zu Hause einen Verzichtspolitiker geschimpft hat.
+> 독일·폴란드 역사에서 가장 중요한 몸짓이 두 나라 모두에서 인기가 없었다는 겁니다. 그래도 브란트는 했죠. 그리고 같은 날 바르샤바 조약에 서명했습니다. 오데르-나이세 국경을 인정하는 조약이요. 그 때문에 본국에서는 땅을 내준 정치인이라고 욕을 먹었고요.
+NOWAK: Ein guter Tag für Deutschland. Er hat eine Grenze anerkannt, die seit fünfundzwanzig Jahren existierte, und sich dafür den Friedensnobelpreis abgeholt.
+> 독일엔 좋은 날이었죠. 25년째 있던 국경을 인정해 주고, 그 대가로 노벨 평화상을 받아 갔으니까.
+FALK: Und hätte beinahe seine Mehrheit verloren. Die Ratifizierung hat anderthalb Jahre gedauert, er musste ein Misstrauensvotum überstehen, und am Ende hat sich die Opposition enthalten. Gedankt hat ihm damals niemand. Weder in Bonn noch hier.
+> 그리고 과반을 잃을 뻔했죠. 비준까지 1년 반이 걸렸고, 불신임 투표를 견뎌야 했고, 결국 야당은 기권했습니다. 그때 고맙다고 한 사람은 아무도 없었어요. 본에서도, 여기서도.
+NOWAK: Sie halten mir einen Vortrag über Undank, vor einem Denkmal für ein ausgelöschtes Ghetto. Mutig, Herr Falk.
+> 지워진 게토의 기념비 앞에서 나한테 배은망덕에 대해 강의하시는군요. 용감하십니다, 팔크 씨.
+FALK: Nein. Ich erinnere Sie daran, was Brandt hier nicht getan hat. Er hat nicht verhandelt. Er hat keine Rechnung neben den Kranz gelegt. Die Geste hat gewirkt, weil sie nichts verlangt hat.
+> 아닙니다. 브란트가 여기서 하지 않은 걸 상기시켜 드리는 겁니다. 그는 협상하지 않았어요. 화환 옆에 청구서를 놓지 않았죠. 그 몸짓이 통한 건 아무것도 요구하지 않았기 때문입니다.
+NOWAK: Weil er der Bittende war. Ein Reporter schrieb damals, da knie einer, der es nicht nötig habe, für alle, die es nötig hätten. Wer kniet heute für die, die es nötig hätten? Sie?
+> 그는 청하는 쪽이었으니까요. 당시 한 기자가 이렇게 썼죠. 무릎 꿇을 필요가 없는 사람이, 무릎 꿇어야 할 모든 이를 대신해 꿇는다고. 오늘은 누가 그들을 대신해 꿇습니까? 당신이?
+FALK: Ich bin in Leipzig geboren, Herr Nowak. Mein Staat hat sich vierzig Jahre lang für unschuldig erklärt, weil die Täter angeblich alle im Westen saßen. Ich weiß, was Schuld kostet, wenn man sie nicht begleicht.
+> 저는 라이프치히에서 태어났습니다, 노바크 씨. 제 나라는 40년 동안 자기는 결백하다고 했죠. 가해자는 전부 서쪽에 있다면서요. 죄를 갚지 않으면 그게 얼마나 비싸게 먹히는지 압니다.
+NOWAK: Dann begleichen Sie sie. Zwei Batterien. Eine Präambel.
+> 그럼 갚으세요. 포대 두 개. 전문 하나.
+FALK: Wenn ich Ihnen die Batterien als Wiedergutmachung verkaufe, wird jede Batterie zur Rechnung und jede Rechnung zur nächsten. In zwanzig Jahren streiten unsere Enkel darüber, ob ein Flugabwehrsystem eine Entschädigung für Warschau 1944 war. Das möchte ich weder Ihrem Land antun noch meinem.
+> 포대를 배상이라고 팔면, 포대 하나하나가 청구서가 되고 청구서마다 다음 청구서가 붙습니다. 20년 뒤엔 우리 손주들이 방공 시스템이 1944년 바르샤바에 대한 보상이었느냐를 두고 싸우겠죠. 그런 짓은 당신 나라에도, 제 나라에도 하고 싶지 않습니다.
+NOWAK: Schöne Worte. Was bieten Sie stattdessen?
+> 말은 좋군요. 대신 뭘 내놓겠습니까?
+FALK: Zwei getrennte Wege. Die zusätzlichen Batterien über die NATO-Formel, als Sicherheit, weil Białystok näher an Kaliningrad liegt als an Berlin. Und davon getrennt, ohne Vertragstext und ohne Gegenleistung, ein Fonds für die letzten Überlebenden der Besatzung – solange noch jemand lebt, dem man ihn geben kann.
+> 길을 둘로 나누자는 겁니다. 추가 포대는 NATO 분담 방식으로, 안보 차원에서요. 비아위스토크는 베를린보다 칼리닌그라드에 더 가까우니까. 그리고 그와 별도로, 조약 문구도 대가도 없이, 점령기의 마지막 생존자들을 위한 기금을요. 받을 분이 아직 살아 계실 때.
+NOWAK: Können Sie das zusagen?
+> 그걸 약속할 수 있습니까?
+FALK: Den Fonds nicht allein. Aber ich lege ihn der Kanzlerin persönlich vor. Und ich verpfände meinen Namen dafür.
+> 기금은 저 혼자 약속할 수 없습니다. 하지만 총리께 직접 올리겠습니다. 제 이름을 걸고요.
+NOWAK: Ein Mann, dessen Abkommen gerade in fremden Briefkästen liegt, verpfändet seinen Namen. … Gut. Prüfen wir, was er wert ist. Wie verbindlich ist Ihr Zeitplan, Herr Falk? Die Brigade in Litauen kommt 2028, sagen Sie.
+> 자기 협정이 남의 우편함에 굴러다니는 사람이 이름을 걸겠다는군. …좋습니다. 그 이름이 얼마짜리인지 봅시다. 일정은 얼마나 확고합니까, 팔크 씨? 리투아니아 여단은 2028년이라고 하셨죠.
+FALK: 2028. So steht es im Text.
+> 2028년입니다. 문서에 그렇게 되어 있습니다.
+NOWAK: Im Text, ja. Aber auf Seite elf Ihrer Berliner Fassung steht eine Fußnote, die in unserem Exemplar fehlt. «Interne Rückfallposition: zeitliche Staffelung bis 2029 vertretbar.» Ihre Regierung hält sich ein Jahr Verspätung offen und verschweigt es ihren Partnern.
+> 문서에는 그렇죠. 그런데 당신네 베를린 판본 11쪽에는 우리 사본에 없는 각주가 하나 있더군요. «내부 차선책: 2029년까지 단계적 연기 수용 가능.» 당신네 정부는 1년 지연을 열어 두고서 파트너들한테는 숨기고 있는 겁니다.
+FALK: Das ist ein alter Arbeitsvermerk aus der Entwurfsphase. Er ist längst überholt, man hat nur vergessen, ihn zu streichen.
+> 그건 초안 단계의 오래된 작업 메모입니다. 진작 폐기됐는데 지우는 걸 잊었을 뿐이에요.
+NOWAK: Wie praktisch. Vergessene Fußnoten scheinen in Berlin ansteckend zu sein. Den Fonds glaube ich Ihnen, Herr Falk. Den Vermerk nicht.
+> 편리하군요. 베를린에선 각주를 잊어버리는 게 전염병인가 봅니다. 기금 얘기는 믿겠습니다, 팔크 씨. 그 메모 얘기는 못 믿겠고요.
+FALK: Herr Nowak, diese Fußnote steht in keinem Exemplar, das Berlin je verlassen hat. Sie steht nur in unseren sieben internen. Woher haben Sie sie?
+> 노바크 씨, 그 각주는 베를린 밖으로 나간 어떤 사본에도 없습니다. 우리 내부용 일곱 부에만 있어요. 그걸 어디서 구하셨습니까?
+NOWAK: Fahren wir zurück. Frau Wróbel soll es Ihnen selbst erzählen. Sie hat sich das Recht dazu verdient. Sie hat dafür gerade ihren Posten in Berlin verloren.
+> 돌아갑시다. 브루벨 씨가 직접 말하게 하죠. 그럴 자격이 있어요. 그것 때문에 방금 베를린 자리를 잃었으니까.
+FALK: Gut, fahren wir. Aber die Antwort auf meine Frage bleiben Sie mir schuldig, Herr Vizeminister. Ich führe Buch.
+> 좋습니다, 가시죠. 하지만 제 질문에 대한 답은 빚으로 남겨 두겠습니다, 차관님. 저는 장부를 적거든요.
+
+== 장면 3 — DER ZWEITE UMSCHLAG
+AGNIESZKA: Sie können Polnisch mit mir sprechen, Panie Janie. Die Wände hier verstehen ohnehin beides.
+> 저랑 폴란드어로 얘기해도 돼요, 얀 씨. 어차피 여기 벽은 두 언어 다 알아들으니까.
+JAN: Gerade deshalb bleibe ich beim Deutschen. Mein Chef soll später jedes Wort nachlesen können. Ich schreibe mit, Frau Wróbel.
+> 그러니까 더더욱 독일어로 할게요. 우리 상사가 나중에 한 마디도 빠짐없이 읽을 수 있게요. 받아 적겠습니다, 브루벨 씨.
+AGNIESZKA: Sie misstrauen mir.
+> 저를 못 믿으시는군요.
+JAN: Seit Montag misstraue ich sogar mir selbst. Hat Benedikt Ihnen jemals etwas über Bernstein erzählt?
+> 월요일부터는 저 자신도 못 믿어요. 베네딕트가 베른슈타인에 대해 뭐라도 말한 적 있어요?
+AGNIESZKA: Benedikt erzählt mir von seiner Chefin, von seiner Mutter in Freiburg und davon, dass er nie Zeit hat. Wenn er ein Spion wäre, wäre er der langweiligste der Welt.
+> 베네딕트는 자기 과장님 얘기, 프라이부르크에 계신 어머니 얘기, 그리고 늘 시간이 없다는 얘기를 해요. 그 사람이 스파이라면 세상에서 제일 지루한 스파이일 거예요.
+JAN: Und warum hat man Sie dann zurückgerufen?
+> 그럼 왜 소환된 거예요?
+AGNIESZKA: Wegen eines Umschlags. Am Samstagvormittag lag er im Briefkasten der Botschaft. Braun, ohne Absender, am Freitag in Berlin-Mitte abgestempelt. Adressiert an mich, mit vollem Namen und dem Zusatz «Kulturabteilung».
+> 봉투 때문이에요. 토요일 오전에 대사관 우편함에 있었어요. 갈색에 발신인은 없고, 금요일 베를린 미테 소인이 찍혀 있었죠. 받는 사람은 저였고요. 전체 이름에 «문화과»까지 붙여서.
+JAN: Derselbe Umschlag wie bei Kessler. Mein Gott.
+> 케슬러 씨가 받은 거랑 똑같은 봉투네요. 세상에.
+AGNIESZKA: Wer ist Kessler?
+> 케슬러가 누군데요?
+JAN: Vergessen Sie den Namen. Bitte. Was war darin?
+> 그 이름은 잊어 주세요. 제발요. 안에 뭐가 있었어요?
+AGNIESZKA: Vierzehn Seiten und ein Zettel. Ich habe ihn einmal gelesen und bin sofort zum Botschafter gegangen. Am Montag ging alles mit dem Kurier nach Warschau, am Dienstag kam mein Rückruf.
+> 14쪽하고 쪽지 한 장이요. 한 번 읽고 바로 대사님께 갔어요. 월요일에 전부 외교행낭으로 바르샤바에 갔고, 화요일에 소환 명령이 떨어졌죠.
+JAN: Sie haben es sofort gemeldet. Warum ruft man Sie dann zurück?
+> 바로 보고하셨잖아요. 그런데 왜 소환을 해요?
+AGNIESZKA: Weil der Absender wusste, dass ich mit einem Mann aus dem Auswärtigen Amt zusammen bin. Warum sonst schickt man so etwas an die Frau, die Chopin-Abende organisiert? In Warschau glaubt man jetzt, ich sei der Kanal. Und ich weiß nicht einmal, wer mich dazu gemacht hat.
+> 보낸 사람이 제가 독일 외무부 사람이랑 사귄다는 걸 알았으니까요. 안 그러면 쇼팽의 밤이나 기획하는 여자한테 왜 그런 걸 보내겠어요? 바르샤바는 이제 제가 통로라고 믿어요. 저는 누가 저를 그렇게 만들었는지도 모르는데.
+JAN: Wer wusste von Ihnen und Benedikt? Vor Montag, meine ich.
+> 당신이랑 베네딕트 일을 누가 알았죠? 월요일 전에요.
+AGNIESZKA: Niemand. Wir waren vorsichtig. Keine Fotos, keine gemeinsamen Empfänge. Nur einmal, im Februar, saß im Café Einstein zwei Tische weiter ein Mann, der die ganze Zeit Zeitung las, ohne ein einziges Mal umzublättern. Benedikt hat gelacht. Ich nicht.
+> 아무도요. 조심했거든요. 사진도 없고, 같이 간 리셉션도 없어요. 딱 한 번, 2월에 카페 아인슈타인에서 두 테이블 건너에 앉은 남자가 내내 신문을 읽는데 한 장도 안 넘기더라고요. 베네딕트는 웃었어요. 저는 안 웃었고요.
+JAN: Sie meinen, jemand hat Sie beobachten lassen.
+> 누가 두 분을 감시하게 했다는 거예요?
+AGNIESZKA: Ich meine, dass Ihr Leck Augen hat, Herr Ostrowski. Und dass es gern zusieht, wie Polen und Deutsche sich zerstreiten.
+> 당신네 유출자한테 눈이 달려 있다는 거죠, 오스트로프스키 씨. 그리고 그 눈은 폴란드인과 독일인이 서로 싸우는 걸 구경하길 좋아한다는 거고요.
+FALK: Jan. Wir sind zurück. Frau Wróbel, Herr Nowak sagt, Sie hätten mir etwas zu erzählen.
+> 얀. 돌아왔어. 브루벨 씨, 노바크 씨 말로는 저한테 하실 이야기가 있다던데요.
+JAN: Sie hat es mir schon erzählt. Der gleiche braune Umschlag, Konstantin. Freitag, Mitte, Samstag im Briefkasten der Botschaft. Adressiert an sie persönlich. Wer ihn geschickt hat, wusste von ihr und Sommer.
+> 저한테 벌써 얘기했어요. 똑같은 갈색 봉투예요, 콘스탄틴. 금요일 미테 소인, 토요일에 대사관 우편함. 이분 앞으로 직접. 보낸 사람은 이분이랑 좀머 일을 알고 있었어요.
+FALK: Bevor Frau Dr. Schönfeld es am Montag herausgefunden hat.
+> 쇤펠트 박사가 월요일에 알아내기 전에.
+JAN: Mindestens zwei Tage vorher.
+> 적어도 이틀 전에요.
+FALK: Frau Wróbel, lag ein Zettel dabei?
+> 브루벨 씨, 쪽지도 들어 있었습니까?
+AGNIESZKA: Den möchte Herr Nowak Ihnen selbst zeigen. Er sagt, das sei sein einziger Trumpf, und den spiele er nicht über eine Kulturattachée aus.
+> 그건 노바크 씨가 직접 보여 드리고 싶어 하세요. 자기 유일한 으뜸패라서 문화 담당관을 통해 내놓진 않겠대요.
+JAN: Sie hat ihn mir vorgelesen. «Berlin fährt zweigleisig. Fragen Sie nach Moskau.»
+> 저한테 읽어 줬어요. «베를린은 두 길을 동시에 가고 있다. 모스크바에 대해 물어보라.»
+FALK: Zweigleisig. Ausgerechnet dieses Wort.
+> 두 길이라. 하필 그 말이군.
+AGNIESZKA: Herr Falk, darf ich Sie um etwas bitten? Sagen Sie Benedikt, dass ich nichts verraten habe. Er wird glauben, ich hätte ihn benutzt. Das ist mir wichtiger als mein Posten.
+> 팔크 씨, 부탁 하나 드려도 될까요? 베네딕트한테 제가 아무것도 누설하지 않았다고 전해 주세요. 제가 자기를 이용했다고 생각할 거예요. 저한텐 그게 제 자리보다 더 중요해요.
+FALK: Ich sage es ihm. Und Sie tun mir einen Gefallen: Beschreiben Sie Jan den Mann aus dem Café Einstein. So genau Sie können.
+> 전하겠습니다. 대신 저한테도 부탁 하나 들어주세요. 카페 아인슈타인의 그 남자를 얀한테 설명해 주세요. 최대한 자세히요.
+AGNIESZKA: Fünfzig, vielleicht älter. Grauer Mantel, sehr gute Schuhe. Und eine Nadel am Revers, die ich für einen Vogel gehalten habe. Ein Vogel mit langen Beinen.
+> 쉰 살쯤, 어쩌면 더. 회색 코트에 아주 좋은 구두. 그리고 옷깃에 핀이 있었는데 새 같았어요. 다리가 긴 새요.
+JAN: Ein Kranich vielleicht. Wie bei der Lufthansa.
+> 두루미일지도 모르겠네요. 루프트한자 로고처럼요.
+FALK: Vielleicht. Schreib es trotzdem auf, Jan. Herr Nowak wartet.
+> 그럴지도. 그래도 적어 둬, 얀. 노바크 씨가 기다리신다.
+
+== 절정 — ZWEIGLEISIG
+NOWAK: Sie haben es also schon gehört. Ihr Referent ist schneller als meine Diplomatie.
+> 벌써 들으셨군요. 당신 보좌관이 내 외교보다 빠르네요.
+FALK: Mein Referent ist schneller als die meisten Diplomatien. Zeigen Sie mir den Zettel trotzdem.
+> 제 보좌관은 대부분의 외교보다 빠릅니다. 그래도 쪽지를 보여 주시죠.
+NOWAK: Bitte. Mit einer Schreibmaschine geschrieben, einer alten, sagen unsere Leute. Wer heute noch Schreibmaschine schreibt, will keine digitalen Spuren hinterlassen. Oder er ist sehr alt.
+> 보시죠. 타자기로 친 겁니다. 우리 쪽 사람들 말로는 오래된 타자기래요. 요즘 타자기를 쓰는 사람은 디지털 흔적을 남기기 싫은 사람이거나, 아주 나이 든 사람이죠.
+FALK: Oder jemand, der möchte, dass wir genau das denken.
+> 아니면 우리가 딱 그렇게 생각하길 바라는 사람이거나요.
+NOWAK: Herr Falk, ich frage Sie jetzt als Partner, nicht als Gegner. Verhandelt Berlin hinter unserem Rücken mit Moskau?
+> 팔크 씨, 이제 적이 아니라 파트너로서 묻겠습니다. 베를린이 우리 등 뒤에서 모스크바와 협상하고 있습니까?
+FALK: Nicht, dass ich wüsste. Und ich würde es wissen.
+> 제가 아는 한은 아닙니다. 그리고 그런 일이 있다면 제가 알 겁니다.
+NOWAK: Würden Sie das? Vor einer Stunde haben Sie mir erklärt, dass Berlin seine eigenen Fußnoten vergisst.
+> 그럴까요? 한 시간 전에 베를린은 자기 각주도 잊어버린다고 설명하셨잖아요.
+FALK: Ein Treffer. Aber hören Sie mir einen Moment zu. Wer immer diese Umschläge verschickt hat, hat sie am selben Tag an eine Berliner Journalistin und an Ihre Botschaft geschickt. Der Presse gibt er das Papier, Ihnen gibt er den Verdacht. Er will nicht, dass Bernstein bekannt wird. Er will, dass Warschau und Berlin sich darüber entzweien.
+> 정곡이군요. 하지만 잠깐만 들어 보시죠. 이 봉투를 보낸 사람이 누구든, 같은 날 베를린의 한 기자와 당신네 대사관에 보냈습니다. 언론에는 문서를 주고, 당신들한테는 의심을 준 거죠. 그 사람이 바라는 건 베른슈타인이 알려지는 게 아닙니다. 그걸 두고 바르샤바와 베를린이 갈라서는 거죠.
+NOWAK: Und wem nützt das?
+> 그래서 그게 누구한테 득이 됩니까?
+FALK: Ein Blick auf die Karte genügt. Es ist der älteste Trick in diesem Teil Europas: Man sorgt dafür, dass Deutsche und Polen einander misstrauen, und dann verhandelt man mit jedem einzeln.
+> 지도 한 번 보시면 됩니다. 유럽 이쪽에서 가장 오래된 수법이죠. 독일인과 폴란드인이 서로 못 믿게 만들어 놓고, 그다음에 하나씩 따로 협상하는 것.
+NOWAK: Das letzte Mal, als Berlin und Moskau einzeln über uns verhandelt haben, gab es danach kein Polen mehr. Verstehen Sie jetzt, warum mich dieser Zettel nicht schlafen lässt?
+> 지난번에 베를린과 모스크바가 우리를 두고 따로 협상했을 때, 그 뒤로 폴란드는 지도에서 사라졌습니다. 이 쪽지 때문에 내가 왜 잠을 못 자는지 이제 아시겠습니까?
+FALK: Ich verstehe es. Deshalb schlage ich Ihnen ein Geschäft vor. Sie halten den Zettel und Ihre Bedenken im Nordatlantikrat zehn Tage zurück. Keine Pressekonferenz, keine Verbalnote, kein Wort über Anhang C.
+> 이해합니다. 그래서 거래를 제안하는 겁니다. 쪽지와 북대서양이사회 이의 제기를 열흘만 보류해 주십시오. 기자회견도, 외교 각서도, 부속서 C에 관한 언급도 없이.
+NOWAK: Und Sie?
+> 그럼 당신은요?
+FALK: Ich gebe Ihnen drei Dinge. Morgen haben Sie schriftlich, dass Anhang C unverändert gilt. Ich lege der Kanzlerin den Fonds vor. Und wenn ich herausfinde, dass jemand in Berlin zweigleisig fährt, erfahren Sie es von mir, bevor Sie es in der Zeitung lesen.
+> 세 가지를 드리죠. 내일 부속서 C가 변함없이 유효하다는 문서를 받으실 겁니다. 기금은 총리께 올리겠습니다. 그리고 베를린의 누군가가 두 길을 가고 있다는 걸 알게 되면, 신문에서 읽으시기 전에 저한테서 먼저 듣게 될 겁니다.
+NOWAK: Das Dritte ist das Einzige, was zählt. Und das Einzige, was Sie nicht versprechen dürfen.
+> 세 번째가 유일하게 중요한 거군요. 그리고 당신이 약속해선 안 되는 유일한 것이고.
+FALK: Ich weiß. Deshalb verspreche ich es.
+> 압니다. 그래서 약속하는 겁니다.
+NOWAK: Paweł, was meinen Sie?
+> 파베우, 어떻게 생각해요?
+ZIELINSKI: Zehn Tage sind lang, Herr Minister. Wenn die deutsche Presse vorher veröffentlicht, sieht es aus, als hätten wir es gewusst und geschwiegen.
+> 열흘은 깁니다, 차관님. 그 전에 독일 언론이 보도하면 우리가 알면서 입 다문 것처럼 보일 겁니다.
+NOWAK: Wir haben es gewusst und geschwiegen, Paweł. Seit Montag. Die Frage ist nur, für wen. … Herr Falk, wann erscheint der Artikel?
+> 우리는 알면서 입 다물었잖아요, 파베우. 월요일부터. 문제는 누구를 위해서였느냐는 거죠. …팔크 씨, 기사는 언제 나갑니까?
+FALK: Freitag, sechs Uhr früh. Was genau darin steht, weiß ich nicht.
+> 금요일 새벽 여섯 시입니다. 정확히 뭐가 실릴지는 저도 모릅니다.
+NOWAK: Dann bekommen Sie keine zehn Tage. Sie bekommen Zeit bis Freitag, sechs Uhr. Steht dann ein einziges Wort über unsere Luftverteidigung in der Zeitung, ist unser Geschäft hinfällig. Steht nichts darin, reden wir über die zehn Tage.
+> 그럼 열흘은 못 드립니다. 금요일 여섯 시까지 드리죠. 그때 신문에 우리 방공에 관한 말이 한 마디라도 나오면 우리 거래는 없던 겁니다. 아무것도 안 나오면, 그때 열흘 얘기를 하죠.
+FALK: Einverstanden.
+> 좋습니다.
+NOWAK: Noch etwas. Den Zettel behalte ich. Eine Kopie bekommen Sie nicht. Wenn Sie ihn in Berlin brauchen, müssen Sie sich an jedes Wort erinnern.
+> 하나 더요. 쪽지는 내가 갖고 있겠습니다. 사본은 못 드려요. 베를린에서 필요하면 한 글자 한 글자 기억하셔야 할 겁니다.
+FALK: Sieben Wörter. Die vergesse ich nicht.
+> 일곱 단어군요. 잊을 리 없습니다.
+NOWAK: Brandt schrieb später, er habe getan, was Menschen tun, wenn die Sprache versagt. Ich hoffe, Ihre versagt nicht, wenn man Sie in Berlin nach diesen sieben Wörtern fragt.
+> 브란트는 나중에 말이 통하지 않을 때 사람들이 하는 일을 했다고 썼죠. 베를린에서 누가 이 일곱 단어를 물을 때 당신 말문이 막히지 않길 바랍니다.
+
+== 마무리 — GRÜSSE AN DEN VATER
+JAN: Gate vierundzwanzig, Abflug sechzehn Uhr fünfzig. Die Staatssekretärin hat zweimal angerufen.
+> 24번 게이트, 16시 50분 출발이에요. 사무차관님이 두 번 전화하셨어요.
+FALK: Dann rufe ich zurück, bevor sie es ein drittes Mal versucht. … Frau Staatssekretärin. Falk.
+> 그럼 세 번째 전에 내가 걸어야지. … 사무차관님. 팔크입니다.
+WINTER: Endlich. Wie war Ihr Frühstück?
+> 드디어. 아침 식사는 어땠어요?
+FALK: Lang. Nowak hat eine Kopie der vierzehn Seiten. Sie ist am Samstag in der polnischen Botschaft in Berlin angekommen, im selben Umschlag wie bei Frau Kessler.
+> 길었습니다. 노바크가 14쪽 사본을 갖고 있습니다. 토요일에 베를린 주재 폴란드 대사관에 도착했답니다. 케슬러 씨 것과 같은 봉투로요.
+WINTER: Das ist unangenehm. Was verlangt er?
+> 곤란하네요. 뭘 요구하던가요?
+FALK: Eine schriftliche Bestätigung von Anhang C und eine Geste zur Vergangenheit. Ich habe ihm Stillschweigen bis Freitag abgerungen.
+> 부속서 C에 대한 문서 확인, 그리고 과거에 대한 성의 표시요. 금요일까지 입을 다물겠다는 약속은 받아 냈습니다.
+WINTER: Gut gemacht. Lag sonst noch etwas in dem Umschlag? Ein Begleitschreiben, eine Notiz?
+> 잘했어요. 봉투에 다른 건 없었어요? 동봉한 편지나 메모 같은 거요?
+FALK: Nein. Nur die vierzehn Seiten.
+> 아니요. 14쪽뿐이었습니다.
+WINTER: Merkwürdig. Bei Frau Kessler lag doch ein Zettel bei, nicht wahr?
+> 이상하네요. 케슬러 씨 봉투에는 쪽지가 들어 있었잖아요, 아닌가요?
+FALK: Habe ich Ihnen das erzählt, Frau Staatssekretärin?
+> 제가 그 말씀을 드렸던가요, 사무차관님?
+WINTER: Frau Dr. Schönfeld hat so etwas erwähnt. Vielleicht habe ich sie missverstanden. Kommen Sie gut nach Hause. Morgen um sechs läuft die Frist ab, und ich hätte gern einen Namen auf meinem Tisch.
+> 쇤펠트 박사가 그런 말을 한 것 같아요. 내가 잘못 알아들었는지도 모르죠. 조심히 들어와요. 내일 여섯 시면 기한이 끝나요. 그때 내 책상 위에 이름 하나가 올라와 있으면 좋겠네요.
+JAN: Du hast ihr nichts von Moskau gesagt.
+> 모스크바 얘기는 안 하셨네요.
+FALK: Und sie wusste von einem Zettel, von dem ich niemandem erzählt habe. Weder ihr noch Schönfeld. Das ist diese Woche schon das zweite Mal, Jan.
+> 그리고 사무차관님은 내가 아무한테도 말 안 한 쪽지를 알고 계셨어. 사무차관님한테도, 쇤펠트한테도 안 했는데. 이번 주에만 벌써 두 번째야, 얀.
+JAN: Konstantin … dein Vorzimmer hat gerade geschrieben. Ein Bote der russischen Botschaft hat vor einer Stunde etwas für dich abgegeben. Eine Einladung zu einem Empfang morgen Abend, Unter den Linden. Unterzeichnet von Viktor Sedov, Gesandter.
+> 콘스탄틴… 방금 비서실에서 연락 왔어요. 한 시간 전에 러시아 대사관 사람이 뭘 놓고 갔대요. 내일 저녁 운터 덴 린덴에서 열리는 리셉션 초대장이요. 서명은 빅토르 세도프, 공사참사관.
+FALK: Sedov. Mit dem habe ich seit zwei Jahren kein Wort gewechselt.
+> 세도프. 그 사람이랑은 2년째 말 한 마디 안 섞었는데.
+JAN: Auf der Rückseite steht etwas mit der Hand geschrieben. «Bringen Sie Zeit mit. Und grüßen Sie Ihren Herrn Vater.»
+> 뒷면에 손글씨가 있대요. «시간을 넉넉히 내 오십시오. 그리고 아버님께 안부 전해 주십시오.»
+FALK: Sag zu. Und, Jan – meinem Vater erzählst du davon kein Wort. Ich will zuerst wissen, wer da wen grüßen lässt.
+> 참석한다고 해. 그리고 얀, 우리 아버지한텐 한 마디도 하지 마. 누가 누구한테 안부를 전하는 건지 내가 먼저 알아야겠어.
