@@ -1,0 +1,329 @@
+@part 1
+@ep 8
+@title Paris sagt Nein
+@title_ko 파리는 거절한다
+@tagline 파리는 거절한다 · 반납된 출입카드, 시계의 방, 그리고 1963년의 서문
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 3월, 목요일 아침부터 금요일 오후까지, 외무부 Mira의 사무실, 파리 케 도르세(프랑스 외무부)의 «시계의 방», 바크 거리의 브라스리, 파리의 호텔 방, 베를린 브란덴부르크 공항
+@cast FALK | 외무부 유럽안보 특별대표 (44)
+@cast JAN | 팔크의 개인 보좌관 (31)
+@cast MIRA | Dr. Mira Schönfeld · 연방정보원(BND) 연락관 (39)
+@cast WINTER | 외무부 사무차관 (57)
+@cast CLAIRE | Claire Duval · 프랑스 외무부 전략국장, 팔크의 ENA 교환 시절 친구 (49)
+@note ※ 7화 바로 다음 날, 목요일 아침 8시입니다. 전날 Greve는 점심 자리에서 38만 유로짜리 자문위원회 의장직을 제안했다가 거절당하자, Jan이 1월에 Anna에게 보낸 개인 메일을 들이밀며 압박했습니다. Jan이 몰래 녹음한 파일에는 Greve의 통화 «먼저 그 젊은 친구부터»가 남아 있고, 그 휴대폰은 지금 팔크의 주머니에 있습니다. Mira는 Jan을 «예전 출입카드 건»으로 불렀습니다. 그날 밤 2층 서관 유리문을 지난 «거의 2년 동안 그 복도에 없던 카드» 때문입니다.
+@note ※ 호칭: 팔크와 Jan, 팔크와 Claire는 서로 du를 씁니다(Claire는 가끔 «mon vieux»라고 부릅니다). 팔크는 Mira, Winter와 Sie를 쓰고, Mira는 Jan을 «Herr Ostrowski»라고 부릅니다.
+@note ※ 표현 초점: Quittung(확인증), freischalten(활성화하다), Vorbehalt in der Sache(실질적 유보) / Prüfvorbehalt(검토 유보), PSK(EU 정치안보위원회), nukleare Abschreckung(핵 억지), Teilhabe(참여·공유), Präambel(전문), Konsultation(협의), Dienstweg(공식 경로), Freundschaftsdienst(친구로서 베푸는 호의), jemandem einen Strick aus etwas drehen(무엇을 빌미로 누군가를 옭아매다), eine Patrone verschießen(총알을 쏘아 버리다, 카드를 써 버리다). 접속법 II: «Hätte ich es Ihnen erzählt, hätten Sie ihn gewarnt.» 접속법 I 간접화법: «Unsere Quelle sagt, der Mann treffe seinen Kontakt nie im Amt.»
+@history 엘리제 조약과 연방의회의 «서문» (1963) — 1963년 1월 22일 샤를 드골 대통령과 87세의 콘라트 아데나워 총리는 파리 엘리제궁에서 독일·프랑스 우호 조약에 서명했습니다. 조약은 두 정부가 외교 정책의 모든 중요한 문제에서 «결정을 내리기 전에» 서로 협의하도록 의무화했고, 정기 정상회담과 청소년 교류(같은 해 7월 독불 청소년청 설립)를 정했습니다. 그런데 드골은 서명 일주일 전인 1월 14일 기자회견에서 영국의 유럽경제공동체 가입을 거부하고 미국의 폴라리스 제안도 물리쳤습니다. 이에 서독 연방의회는 1963년 5월 비준법에 서문을 붙여 미국과의 긴밀한 동반자 관계, NATO 안의 공동 방위, 영국의 공동체 가입을 강조했고, 드골은 같은 해 7월 «조약이란 어린 소녀나 장미와 같아서 갈 수 있는 만큼만 간다»고 불쾌감을 드러냈습니다. 그럼에도 조약은 살아남아 2019년 1월 22일 아헨 조약으로 갱신되었습니다.
+@history 프랑스의 핵 억지력과 NATO (1960~2009) — 프랑스는 1960년 2월 사하라에서 첫 핵실험을 하고 독자적인 핵전력(force de frappe)을 갖추었습니다. 드골은 1966년 프랑스를 NATO 통합 군사 지휘 체계에서 빼냈고, 프랑스는 2009년에야 복귀했습니다. 프랑스 핵무기 사용 결정권은 오직 대통령에게 있으며, 프랑스 전략공군은 해마다 여러 차례 핵 공격 훈련 «Poker»를 실시합니다. 독일은 NATO 핵 공유에 따라 뷔헬 공군 기지에 미국 핵폭탄을 두고 있어서, 프랑스 핵우산의 «유럽적 차원»을 받아들이는 일은 늘 워싱턴과의 관계를 시험하는 문제가 됩니다.
+@preview 1부 9화 — «Der Verdacht»(의심) — Jan의 계정이 새벽 2시 14분에 Bernstein 문서를 연 기록이 나온다. Jan은 부인하고, Mira는 체포를 원한다. 팔크는 그날 밤 Jan과 함께 있었다고 Winter에게 거짓말한다.
+
+== 도입 — DIE QUITTUNG
+MIRA: Herr Ostrowski, pünktlich auf die Minute. Und Herr Falk, unangemeldet. Ich hatte eine Person eingeladen.
+> 오스트로프스키 씨, 정각에 오셨네요. 그리고 팔크 씨는 예고도 없이 오셨고요. 제가 부른 건 한 사람인데요.
+FALK: Sie hören auch nur eine Person. Ich sitze daneben und schweige. Das kann ich, wenn es sein muss.
+> 말은 한 사람만 할 겁니다. 저는 옆에 앉아서 입 다물고 있을게요. 꼭 필요하면 그 정도는 할 줄 압니다.
+MIRA: Das möchte ich erleben. … Herr Ostrowski, Ihre alte Dienstkarte aus dem Referat 209. Wo ist sie?
+> 그건 꼭 보고 싶네요. …오스트로프스키 씨, 209과 시절 출입카드요. 지금 어디 있죠?
+JAN: Abgegeben am Empfang, am achtundzwanzigsten Februar 2025, meinem letzten Tag in der 209. Hier ist die Quittung. Ich habe sie gestern Nacht zwischen meinen Steuerunterlagen gefunden.
+> 2025년 2월 28일, 209과 마지막 날에 안내 데스크에 반납했어요. 여기 확인증이요. 어젯밤에 세금 서류 사이에서 찾았어요.
+MIRA: Unterschrieben vom Empfang, mit Stempel. Sehr ordentlich. Wissen Sie, was mit zurückgegebenen Karten passiert?
+> 안내 데스크 서명에 도장까지 있네요. 아주 꼼꼼하시군요. 반납된 카드가 어떻게 되는지 아세요?
+JAN: Ich nehme an, sie werden vernichtet.
+> 폐기되는 줄 알았는데요.
+MIRA: Sie werden gesperrt und in einer Schublade der Ausweisstelle gesammelt, bis jemand sie neu beschreibt. Ihre lag dort fast zwei Jahre. Am Donnerstag vor zwei Wochen, um siebzehn Uhr fünfundfünfzig, wurde sie wieder freigeschaltet.
+> 차단된 다음 출입증 발급처 서랍에 모아 둬요. 누가 새로 정보를 입력할 때까지요. 오스트로프스키 씨 카드는 거의 2년 동안 거기 있었어요. 그런데 2주 전 목요일 17시 55분에 다시 활성화됐죠.
+FALK: Von wem?
+> 누가요?
+MIRA: Sie wollten schweigen, Herr Falk. … Über das Konto der Ausweisstelle, aber nicht von einem Rechner der Ausweisstelle. Wer davorsaß, prüfe ich noch. Am Freitag darauf, um einundzwanzig Uhr sieben, ging die Karte durch die Glastür im zweiten Stock.
+> 입 다물고 계시겠다면서요, 팔크 씨. …발급처 계정으로 했는데, 발급처 컴퓨터에서 한 건 아니에요. 누가 그 앞에 앉아 있었는지는 아직 확인 중이고요. 그다음 날 금요일 21시 7분에 그 카드가 2층 유리문을 지나갔어요.
+JAN: Um neun war ich längst zu Hause. Ich habe um zwanzig nach neun eine Pizza bestellt, über eine App. Das lässt sich nachprüfen.
+> 아홉 시엔 벌써 집에 있었어요. 아홉 시 이십 분에 앱으로 피자를 시켰고요. 확인해 보시면 돼요.
+MIRA: Eine Pizza beweist, dass an Ihrer Tür jemand bezahlt hat. Nicht, wer. Ich notiere es trotzdem.
+> 피자는 누군가 오스트로프스키 씨 집 문 앞에서 돈을 냈다는 것만 증명해요. 그게 누군지는 아니고요. 그래도 적어 두죠.
+FALK: Eine Karte, die zwei Jahre in einer Schublade lag, wird einen Tag vor dem Ausdruck wieder lebendig. Wer so etwas tut, will gefunden werden. Oder er will, dass ein anderer gefunden wird.
+> 2년 동안 서랍에 있던 카드가 출력 하루 전에 되살아났어요. 그런 짓을 하는 사람은 들키고 싶은 겁니다. 아니면 다른 사람이 들키길 바라든가.
+MIRA: Oder er ist sicher, dass niemand von der Schublade weiß. Täter sind seltener genial, als Diplomaten glauben.
+> 아니면 그 서랍을 아무도 모를 거라고 확신했든가요. 범인은 외교관들 생각만큼 천재인 경우가 드물어요.
+JAN: Frau Schönfeld, darf ich etwas sagen, wonach Sie nicht gefragt haben?
+> 쇤펠트 박사님, 안 물어보신 걸 하나 말씀드려도 될까요?
+MIRA: Das ist mir das Liebste, Herr Ostrowski.
+> 그게 제일 반갑죠, 오스트로프스키 씨.
+JAN: Am vierzehnten Januar um dreiundzwanzig Uhr zwölf habe ich Frau Kessler von meiner privaten Adresse eine Mail geschickt, Betreff «Wie besprochen». Darin war ein Link zu einem öffentlichen Bericht über Unterseekabel, sonst nichts. Ich hätte es Ihnen vor zehn Tagen sagen müssen.
+> 1월 14일 23시 12분에 개인 메일 주소로 케슬러 씨한테 메일을 보냈어요. 제목은 «말씀 나눈 대로». 해저 케이블에 관한 공개 보고서 링크 하나뿐이었어요. 열흘 전에 말씀드렸어야 했어요.
+MIRA: … Danke. Das erspart mir eine Frage.
+> …고마워요. 질문 하나를 덜었네요.
+FALK: Sie wirken nicht überrascht.
+> 별로 놀라지 않으시는군요.
+MIRA: Ich wirke selten überrascht, Herr Falk, das gehört zum Beruf. Herr Ostrowski, ich hatte Sie gebeten, mir Ihr privates Telefon freiwillig zu zeigen. Haben Sie es dabei?
+> 전 원래 잘 놀란 티를 안 내요, 팔크 씨. 직업상 그래요. 오스트로프스키 씨, 개인 휴대폰을 자발적으로 보여 달라고 부탁드렸었죠. 가져오셨어요?
+JAN: Nein. Es liegt zu Hause, der Akku ist kaputt.
+> 아뇨. 집에 있어요. 배터리가 고장 나서요.
+MIRA: Wie praktisch. Dann bringen Sie es mir bis morgen Abend, mit einem neuen Akku. Freiwillig, versteht sich.
+> 참 편리하네요. 그럼 내일 저녁까지 가져오세요. 새 배터리 끼워서요. 물론 자발적으로요.
+FALK: Verzeihung, mein Telefon. … Frau Staatssekretärin?
+> 실례합니다, 전화가 와서요. …사무차관님?
+WINTER: Paris hat heute um neun im Politischen und Sicherheitspolitischen Komitee einen Vorbehalt gegen Bernstein eingelegt. Keinen Prüfvorbehalt, Herr Falk, einen Vorbehalt in der Sache. Die Franzosen sagen Nein.
+> 파리가 오늘 아홉 시에 정치안보위원회에서 베른슈타인에 유보를 걸었어요. 검토 유보가 아니에요, 팔크 씨. 실질적 유보예요. 프랑스가 거절한 거죠.
+FALK: Ohne Vorwarnung? Wir stimmen uns mit Paris über jede Fußnote ab.
+> 예고도 없이요? 우린 파리랑 각주 하나까지 다 조율하는데요.
+WINTER: Über diese offenbar nicht. Um zwölf geht eine Maschine, um fünf sind Sie am Quai d'Orsay. Frau Duval hat ausdrücklich nach Ihnen gefragt, und Herr Lehnert erwartet bis Montag eine Lösung, keinen Bericht.
+> 이번 건 아니었나 보죠. 열두 시에 비행기가 있으니 다섯 시엔 케 도르세에 가 있을 거예요. 뒤발 국장이 콕 집어 당신을 찾았어요. 그리고 레너트 실장은 월요일까지 보고서가 아니라 해결책을 원하고요.
+MIRA: Paris. Ihre alte Freundin aus Straßburger Zeiten, nicht wahr? Gute Reise, Herr Falk. Und Herr Ostrowski: morgen Abend, mit Akku.
+> 파리군요. 스트라스부르 시절 오랜 친구분이죠? 잘 다녀오세요, 팔크 씨. 그리고 오스트로프스키 씨, 내일 저녁이에요. 배터리 끼워서요.
+
+== 장면 1 — SALON DE L'HORLOGE
+CLAIRE: Konstantin. Du siehst aus, als hättest du seit einer Woche nicht geschlafen.
+> 콘스탄틴. 일주일은 못 잔 얼굴이네.
+FALK: Seit zehn Tagen, Claire. Warum ausgerechnet der Salon de l'Horloge? Hier gibt es doch sonst nur Empfänge.
+> 열흘이야, 클레르. 그런데 하필 시계의 방이야? 여긴 원래 리셉션이나 하는 데잖아.
+CLAIRE: Weil hier am neunten Mai 1950 Robert Schuman vorgeschlagen hat, Kohle und Stahl mit euch zu teilen. Ich dachte, die Uhr erinnert uns beide daran, dass Frankreich den ersten Schritt schon einmal gemacht hat.
+> 1950년 5월 9일에 로베르 쉬망이 바로 여기서 너희랑 석탄하고 철강을 나누자고 제안했으니까. 저 시계가 우리 둘한테 상기시켜 줄 것 같았어. 첫걸음을 뗀 건 이미 한 번 프랑스였다는 걸.
+FALK: Und heute Morgen hat Frankreich einen Schritt rückwärts gemacht. Ein Vorbehalt in der Sache, ohne einen einzigen Anruf vorher. Seit wann erfahre ich so etwas aus Brüssel?
+> 그리고 오늘 아침엔 프랑스가 한 걸음 뒤로 물러섰지. 사전에 전화 한 통 없이 실질적 유보라니. 언제부터 이런 걸 브뤼셀을 통해서 들어야 했어?
+CLAIRE: Seit du Bernstein mit Warschau und Vilnius verhandelst und Paris die Fassungen nur noch zur Kenntnis bekommt. Wir sind Partner, mon vieux, kein Verteiler.
+> 네가 베른슈타인을 바르샤바, 빌뉴스랑 협상하고 파리는 판본을 참고용으로 받기만 하면서부터. 우린 파트너야, 이 친구야. 배포 명단이 아니라.
+FALK: Ihr sitzt seit dem ersten Entwurf mit am Tisch. Was genau stört euch?
+> 너희는 첫 초안 때부터 같은 테이블에 있었어. 정확히 뭐가 문제야?
+CLAIRE: Drei Dinge. Erstens hängt eure Brigade in Litauen ganz an der NATO-Planung, und die NATO-Planung hängt an Washington. Zweitens kauft Anhang C deutsche und amerikanische Luftverteidigung, von europäischer Präferenz keine Rede. Und drittens schweigt Bernstein über das, was am Ende wirklich abschreckt.
+> 세 가지야. 첫째, 리투아니아의 너희 여단은 전적으로 NATO 계획에 매달려 있고, NATO 계획은 워싱턴에 매달려 있어. 둘째, 부속서 C는 독일하고 미국 방공 체계를 사들이는데, 유럽산 우선이라는 말은 한 마디도 없어. 그리고 셋째, 결국 진짜로 억지력을 갖는 게 뭔지에 대해 베른슈타인은 입을 꾹 다물고 있지.
+FALK: Du meinst Atomwaffen.
+> 핵무기 얘기구나.
+CLAIRE: Ich meine die einzige Atommacht der Europäischen Union. Eine Brigade ist eine Geste, Konstantin. Abschreckung ist etwas anderes.
+> 유럽연합의 유일한 핵보유국 얘기야. 여단은 제스처일 뿐이야, 콘스탄틴. 억지력은 다른 문제고.
+FALK: Und was will Paris?
+> 그래서 파리가 원하는 게 뭔데?
+CLAIRE: Einen Satz in der politischen Erklärung zu Bernstein. Ich habe ihn mitgebracht: «Die Unterzeichner erkennen die europäische Dimension der französischen nuklearen Abschreckung an und nehmen einen strategischen Dialog über ihre Rolle für die Sicherheit des Kontinents auf.»
+> 베른슈타인 정치 선언문에 문장 하나. 가져왔어. «서명국들은 프랑스 핵 억지력의 유럽적 차원을 인정하며, 대륙 안보에서 그 역할에 관한 전략 대화를 시작한다.»
+FALK: Das ist kein Satz, Claire. Das ist eine Doktrin auf zwei Zeilen.
+> 그건 문장이 아니야, 클레르. 두 줄짜리 독트린이지.
+CLAIRE: Dazu ein kleines Detail: deutsche Beobachter bei unserer nächsten Übung «Poker». Kein Geld, keine Sprengköpfe auf deutschem Boden, keine Unterschrift unter etwas, das ihr nicht wollt.
+> 거기에 작은 것 하나만 더. 우리 다음 «포커» 훈련에 독일 참관단. 돈도 필요 없고, 독일 땅에 탄두를 두는 것도 아니고, 너희가 원치 않는 데 서명하라는 것도 아니야.
+FALK: Und als Gegenleistung zieht Paris den Vorbehalt zurück.
+> 그 대가로 파리는 유보를 철회하고.
+CLAIRE: Als Gegenleistung stimmt Paris Bernstein zu, am Montag, zusammen mit eurem neuen Brüsseler Entwurf. So einfach ist das.
+> 그 대가로 파리는 월요일에 너희 새 브뤼셀 초안과 함께 베른슈타인에 찬성해. 간단하잖아.
+FALK: Nichts daran ist einfach. In Büchel liegen amerikanische Bomben, die im Ernstfall deutsche Flugzeuge tragen würden. Wenn in Bernstein steht, dass wir eure Abschreckung «europäisch» nennen, liest man in Washington: Berlin sucht sich einen zweiten Schirm.
+> 간단한 건 하나도 없어. 뷔헬엔 유사시에 독일 전투기가 싣고 갈 미국 폭탄이 있어. 베른슈타인에 우리가 너희 억지력을 «유럽적»이라고 불렀다고 적히면, 워싱턴은 이렇게 읽을 거야. 베를린이 두 번째 우산을 찾고 있다고.
+CLAIRE: Vielleicht sollte man in Washington genau das lesen. Ihr habt jahrzehntelang einen Schirm gehalten, der euch nicht gehört. Wir bieten euch an, unter einem zweiten mitzureden.
+> 워싱턴이 바로 그렇게 읽어야 할지도 모르지. 너희는 수십 년 동안 너희 것도 아닌 우산을 들고 있었잖아. 우린 두 번째 우산 아래서 같이 말할 자리를 주겠다는 거야.
+FALK: Mitzureden, aber nicht mitzuentscheiden. Der Finger am Knopf bliebe in Paris.
+> 같이 말할 자리지, 같이 결정할 자리는 아니고. 버튼 위의 손가락은 파리에 그대로 있을 테니까.
+CLAIRE: Natürlich. Der Finger ist der Kern unserer Souveränität. Aber der Dialog wäre neu, und das weißt du.
+> 당연하지. 그 손가락이 우리 주권의 핵심이야. 하지만 그런 대화는 처음일 거야. 너도 알잖아.
+FALK: Ich habe kein Mandat für Nukleardoktrin, Claire. Ich verhandle eine Brigade, Luftabwehr und Kabelschutz. So einen Satz kann nur die Kanzlerin aufnehmen.
+> 나한텐 핵 독트린을 다룰 권한이 없어, 클레르. 내가 협상하는 건 여단, 방공, 케이블 보호야. 그런 문장은 총리만 받아들일 수 있어.
+CLAIRE: Dann ruf Lehnert an. Du hast seine Nummer, und er hat ihre.
+> 그럼 레너트한테 전화해. 넌 그 사람 번호가 있고, 그 사람은 총리 번호가 있잖아.
+FALK: Und wenn Berlin Nein sagt?
+> 베를린이 거절하면?
+CLAIRE: Dann bleibt unser Vorbehalt, und Bernstein liegt im Komitee, bis es keiner mehr will. Moskau wäre begeistert.
+> 그럼 우리 유보는 그대로고, 베른슈타인은 아무도 원하지 않게 될 때까지 위원회에 묶여 있겠지. 모스크바는 아주 좋아하겠네.
+FALK: Das hat mir vor einer Woche schon jemand prophezeit. Ein russischer Gesandter, mit einem Glas Krimsekt in der Hand: Bernstein werde nicht an Moskau scheitern, sondern an Warschau und an Paris.
+> 일주일 전에 누가 이미 그렇게 예언했어. 크림 젝트 잔을 든 러시아 공사가. 베른슈타인은 모스크바 때문이 아니라 바르샤바와 파리 때문에 무너질 거라고.
+CLAIRE: Sedov. Das erzählt er jedem, der ihm zuhört. Auch hier in Paris.
+> 세도프구나. 자기 말 들어 주는 사람한테는 다 그 얘기를 해. 여기 파리에서도.
+FALK: Dann frage ich mich, warum Paris ihm unbedingt recht geben will.
+> 그럼 파리가 왜 굳이 그 사람 말이 맞았다고 해 주려는지 궁금하네.
+CLAIRE: Weil Paris keine Lust mehr hat, Europas Sicherheit von Leuten unterschreiben zu lassen, die ihre Unterschrift hinterher in Washington erklären. Wir kennen das schon, Konstantin. Seit 1963.
+> 파리는 이제 유럽 안보에 서명해 놓고 나중에 워싱턴 가서 해명하는 사람들한테 서명을 맡기기 싫으니까. 우린 그거 이미 겪어 봤어, 콘스탄틴. 1963년부터.
+FALK: Die Präambel.
+> 그 서문 말이구나.
+CLAIRE: Die Präambel. Komm, wir gehen essen. Dann erzähle ich dir, wie ein Vertrag in Bonn umgeschrieben wurde, bevor die Tinte trocken war. Und danach etwas, das in keiner Akte steht.
+> 그 서문. 가자, 밥 먹으면서 얘기해. 잉크도 마르기 전에 본에서 조약 하나를 어떻게 고쳐 썼는지 들려줄게. 그다음엔 어느 서류에도 없는 얘기도 하나.
+FALK: Das Zweite interessiert mich mehr.
+> 나는 두 번째가 더 궁금하네.
+
+== 장면 2 — DIE PRÄAMBEL
+CLAIRE: Zweiundzwanzigster Januar 1963, Élysée-Palast. De Gaulle und Adenauer unterschreiben den Freundschaftsvertrag, der General umarmt den alten Herrn, Adenauer ist siebenundachtzig. Und vier Monate später?
+> 1963년 1월 22일, 엘리제궁. 드골과 아데나워가 우호 조약에 서명하고, 장군이 노신사를 끌어안지. 아데나워는 그때 여든일곱이었어. 그런데 넉 달 뒤엔?
+FALK: Setzt der Bundestag eine Präambel davor. Enge Partnerschaft mit den Vereinigten Staaten, gemeinsame Verteidigung im Rahmen der NATO, Großbritannien in die Gemeinschaft. Alles, was de Gaulle nicht wollte.
+> 연방의회가 그 앞에 서문을 붙이지. 미국과의 긴밀한 동반자 관계, NATO 안에서의 공동 방위, 영국의 공동체 가입. 드골이 원하지 않은 건 다 들어갔어.
+CLAIRE: Alles, wogegen er den Vertrag überhaupt geschlossen hatte. Ihr habt uns einen Ring angesteckt und am selben Tag einen Brief an die Geliebte in Washington geschrieben.
+> 애초에 드골이 그걸 막으려고 조약을 맺은 건데 말이야. 너희는 우리 손가락에 반지를 끼워 놓고, 같은 날 워싱턴에 있는 애인한테 편지를 쓴 거야.
+FALK: Und ihr habt eine Woche vor der Hochzeit die Briten ausgeladen. Am vierzehnten Januar 1963, auf einer Pressekonferenz, ohne Bonn zu fragen. Im selben Atemzug hat der General das amerikanische Polaris-Angebot abgelehnt.
+> 그리고 너희는 결혼식 일주일 전에 영국을 하객 명단에서 뺐지. 1963년 1월 14일 기자회견에서, 본에는 묻지도 않고. 장군은 같은 자리에서 미국의 폴라리스 제안까지 걷어찼고.
+CLAIRE: Der General hat gesagt, was er dachte. Ihr habt etwas unterschrieben und etwas anderes gemeint.
+> 장군은 생각한 대로 말했어. 너희는 뭔가에 서명해 놓고 다른 걸 의미했지.
+FALK: Wir haben geschrieben, was wir brauchten. Ein Land mit sowjetischen Divisionen hinter der Elbe sucht sich seinen Schirm nicht nach Sympathie aus. Im Oktober 1961 standen am Checkpoint Charlie amerikanische Panzer, Claire, keine französischen.
+> 우린 필요한 걸 썼어. 엘베강 너머에 소련 사단들을 두고 사는 나라는 우산을 호감으로 고르지 않아. 1961년 10월 체크포인트 찰리에 서 있던 건 미국 탱크였어, 클레르. 프랑스 탱크가 아니라.
+CLAIRE: Und drei Jahre nach der Präambel ist Frankreich aus der integrierten Kommandostruktur der NATO ausgetreten, ich weiß. Weil wir verstanden hatten, dass man in einem Bündnis, in dem einer entscheidet, nur Zuschauer ist.
+> 그리고 서문 3년 뒤에 프랑스는 NATO 통합 지휘 체계에서 나갔지. 알아. 한 나라가 결정하는 동맹에선 나머지는 구경꾼일 뿐이라는 걸 깨달았으니까.
+FALK: 1966. Und 2009 seid ihr zurückgekommen. Manchmal dauert Verstehen eben dreiundvierzig Jahre.
+> 1966년이지. 그리고 2009년에 돌아왔고. 깨닫는 데 43년이 걸릴 때도 있는 법이지.
+CLAIRE: Touché. Aber weißt du noch, was der General im Juli 1963 über die Präambel gesagt hat?
+> 한 방 먹었네. 그래도 장군이 1963년 7월에 그 서문에 대해 뭐라고 했는지 기억해?
+FALK: Verträge seien wie junge Mädchen und Rosen: Sie hielten, solange sie hielten.
+> 조약은 어린 소녀나 장미 같아서 갈 수 있는 만큼만 간다고 했지.
+CLAIRE: Und dieser hat gehalten, über sechzig Jahre. Das Jugendwerk, die Gipfel, die gemeinsame Brigade, Aachen 2019. Die Rose hat überlebt, obwohl ihr eine Präambel um sie gewickelt habt. Ich bitte dich nur, diesmal keine zu schreiben.
+> 그런데 이 조약은 갔어. 60년 넘게. 청소년청, 정상회담, 독불 여단, 2019년 아헨까지. 너희가 서문으로 칭칭 감았는데도 장미는 살아남았어. 이번엔 서문을 쓰지 말아 달라는 것뿐이야.
+FALK: Du bittest mich, diesmal eine Präambel andersherum zu schreiben. Einen Satz über eure Bombe in einem Abkommen über Litauen.
+> 넌 이번엔 서문을 거꾸로 써 달라는 거야. 리투아니아에 관한 협정에 너희 폭탄 얘기를 한 줄 넣으라는 거잖아.
+CLAIRE: Litauen liegt näher an Moskau als an Washington, Konstantin. Die Litauer werden diesen Satz lieben.
+> 리투아니아는 워싱턴보다 모스크바에 더 가까워, 콘스탄틴. 리투아니아 사람들은 그 문장을 좋아할 거야.
+FALK: Die Polen wahrscheinlich auch. Und gerade deshalb ruft Washington an, bevor die Tinte trocken ist. Es wäre 1963 rückwärts: Diesmal stünde die Präambel im Vertrag, und der Vertrag würde an ihr sterben.
+> 폴란드 사람들도 아마 그렇겠지. 그러니까 더더욱 잉크가 마르기도 전에 워싱턴에서 전화가 올 거야. 1963년을 거꾸로 되풀이하는 셈이지. 이번엔 서문이 조약 안에 들어가 있고, 조약이 그것 때문에 죽는 거야.
+CLAIRE: Dann lass den Satz weg und stirb an unserem Vorbehalt. Du hast die Wahl zwischen zwei Begräbnissen.
+> 그럼 그 문장을 빼고 우리 유보 때문에 죽든가. 넌 장례식 두 개 중에 하나를 고르면 돼.
+FALK: Ich habe mir noch nie ein Begräbnis ausgesucht. Ich verhandle höchstens über den Termin. … Du wolltest mir etwas erzählen, das in keiner Akte steht.
+> 난 장례식을 골라 본 적이 없어. 기껏해야 날짜를 협상하지. …어느 서류에도 없는 얘기를 해 준다고 했잖아.
+CLAIRE: Ja. Und das ist kein Tausch, das ist ein Freundschaftsdienst. Unser Dienst hat seit dem Herbst eine Quelle, die behauptet, in eurem Haus laufe ein Gesprächskanal nach Moskau. An euren Ministern vorbei.
+> 응. 그리고 이건 거래가 아니라 친구로서 해 주는 거야. 우리 정보기관에 작년 가을부터 정보원이 하나 있는데, 너희 외무부에 모스크바로 통하는 대화 채널이 돌아가고 있대. 장관들 모르게.
+FALK: Behauptungen über Kanäle nach Moskau bekomme ich zurzeit mit der Post.
+> 모스크바 채널이 있다는 주장이라면 요즘 우편으로 받고 있어.
+CLAIRE: Diese kam nicht mit der Post. Die Quelle sagt, der Kanal und euer Leck hätten dieselbe Adresse: das Referat 209. Russland, Ukraine, Belarus.
+> 이건 우편으로 온 게 아니야. 정보원 말로는 그 채널하고 너희 유출이 주소가 같대. 209과. 러시아, 우크라이나, 벨라루스 담당.
+FALK: … Die 209.
+> …209과라.
+CLAIRE: Da kennst du jemanden, nicht wahr? Einen jungen Mann, der drei Jahre dort war, bevor er zu dir kam. Ostrowski.
+> 거기 아는 사람 있지? 너한테 오기 전에 거기서 3년 있었던 젊은 친구. 오스트로프스키.
+FALK: Woher kennst du den Namen meines Referenten?
+> 내 보좌관 이름은 어떻게 알아?
+CLAIRE: Aus deinen eigenen Mails, Konstantin. Jede Fassung, die Paris bekommt, ist mit «im Auftrag Ostrowski» gezeichnet. Ich behaupte nicht, dass er es ist. Ich sage dir nur, wohin unsere Quelle zeigt.
+> 네 메일에서, 콘스탄틴. 파리에 오는 판본마다 «오스트로프스키 대리 서명»이 붙어 있잖아. 그 친구라고 주장하는 건 아니야. 우리 정보원이 어디를 가리키는지 말해 주는 것뿐이지.
+FALK: Und wohin genau? Auf einen Referenten oder auf jemanden, der über dem Referat sitzt?
+> 정확히 어디를 가리키는데? 보좌관 하나야, 아니면 그 과 위에 앉아 있는 누구야?
+CLAIRE: Das weiß ich nicht. Oder ich darf es nicht sagen. Such dir eins aus.
+> 그건 몰라. 아니면 말하면 안 되든가. 둘 중에 골라.
+FALK: Wer in Paris weiß davon?
+> 파리에선 누가 이걸 알아?
+CLAIRE: Mein Minister, unser Dienst und ich. Und jetzt du. Das ist mein Geschenk, Konstantin. Verdirb es nicht, indem du es deinem BND erzählst.
+> 우리 장관, 우리 정보기관, 그리고 나. 이제 너까지. 이건 내 선물이야, 콘스탄틴. 너희 BND한테 말해서 망치지 마.
+FALK: Ein Geschenk, aus dem man meinem Mitarbeiter einen Strick drehen kann. Danke, Claire. Das Essen bezahle ich.
+> 내 보좌관 목에 올가미를 걸 수도 있는 선물이네. 고마워, 클레르. 밥값은 내가 낼게.
+
+== 장면 3 — ZWEI KANÄLE
+JAN: Konstantin? Wie war Paris?
+> 콘스탄틴? 파리는 어땠어요?
+FALK: Paris sagt Nein, es sei denn, wir sagen Ja zu ihrer Bombe. Jan, eine Frage, und denk nach, bevor du antwortest. Hattest du in der 209 je mit einem Gesprächskanal nach Moskau zu tun? Mit irgendetwas, das nicht über den Dienstweg lief?
+> 파리는 거절이래. 우리가 자기네 폭탄에 찬성하지 않으면. 얀, 하나만 묻자. 대답하기 전에 생각 좀 해. 209과에 있을 때 모스크바로 가는 대화 채널 같은 거에 관여한 적 있어? 공식 경로를 안 거친 거라면 뭐든.
+JAN: Nein. Wir haben Lageberichte geschrieben und Besuchsprogramme organisiert. Wer fragt das?
+> 아뇨. 우린 상황 보고서 쓰고 방문 일정 짜는 게 다였어요. 누가 그런 걸 물어요?
+FALK: Die Franzosen. Ihr Dienst hat eine Quelle, nach der das Leck und ein Kanal nach Moskau aus der 209 kommen. Und Claire Duval kennt deinen Namen.
+> 프랑스 쪽이. 거기 정보기관에 정보원이 있는데, 유출이랑 모스크바 채널이 209과에서 나온대. 그리고 클레르 뒤발이 네 이름을 알아.
+JAN: Natürlich. Erst die Karte, dann die Mail, jetzt die Franzosen. Wenn alle Spuren zu mir führen, sollte man sich vielleicht fragen, wer sie legt.
+> 그렇겠죠. 처음엔 카드, 그다음엔 메일, 이젠 프랑스까지. 모든 흔적이 저한테 이어진다면, 그 흔적을 누가 깔아 놓는지 한번 물어봐야 하지 않을까요.
+FALK: Genau das frage ich mich. Wer hat damals über der 209 gesessen?
+> 나도 바로 그걸 묻고 있어. 그때 209과 위엔 누가 있었지?
+JAN: Referatsleiter kommen und gehen, das ist ein Rotationsposten. Aber ein Kanal nach Moskau wäre nie Sache eines Referats. So etwas segnet jemand ganz oben ab. Oder er betreibt ihn selbst.
+> 과장은 오고 가요. 순환 보직이니까요. 하지만 모스크바 채널은 과 차원에서 할 일이 절대 아니에요. 그런 건 맨 꼭대기에 있는 누군가가 승인하죠. 아니면 그 사람이 직접 굴리든가.
+FALK: Sag diesen Satz nicht noch einmal am Telefon. … Wie war Schönfeld, nachdem ich weg war?
+> 그 말은 전화로 다시 하지 마. …내가 나간 뒤에 쇤펠트 박사는 어땠어?
+JAN: Freundlich. Das macht mir mehr Angst als alles andere. Zu der Mail hat sie keine einzige Nachfrage gestellt, nicht nach dem Inhalt, nicht nach Kesslers Antwort.
+> 친절했어요. 그게 제일 무서워요. 메일에 대해선 한 마디도 더 안 물었어요. 내용도, 케슬러 씨 답장도요.
+FALK: Weil sie die Antwort schon kannte. Entweder hat Greve sie ihr geschickt, oder sie hat sie dort gelesen, wo Greve sie auch gelesen hat.
+> 답을 이미 알고 있었으니까. 그레베가 보내 줬거나, 그레베가 읽은 바로 그곳에서 읽었거나.
+JAN: In Kesslers Postfach. … Und das Handy? Sie will es morgen Abend.
+> 케슬러 씨 메일함에서요. …그럼 휴대폰은요? 내일 저녁까지 달래요.
+FALK: Das Handy steckt in meiner Jacke, in Paris, mit einem Akku, der angeblich kaputt ist. Du hast Schönfeld heute für mich angelogen, Jan. Das war das letzte Mal.
+> 그 휴대폰은 지금 파리에 있는 내 재킷 주머니에 있어. 고장 났다는 배터리까지 그대로. 넌 오늘 나 때문에 쇤펠트 박사한테 거짓말했어, 얀. 그게 마지막이야.
+JAN: Und was gebe ich ihr morgen?
+> 그럼 내일 뭘 드려요?
+FALK: Lass mich bis morgen Mittag nachdenken. Und sprich mit niemandem über die 209, auch nicht mit Leuten, die du dort magst. Ich rufe jetzt Winter an.
+> 내일 점심때까지 생각할 시간을 줘. 그리고 209과 얘긴 아무하고도 하지 마. 거기서 친했던 사람들하고도. 이제 빈터한테 전화할게.
+FALK: Frau Staatssekretärin, verzeihen Sie die späte Stunde.
+> 사무차관님, 늦은 시간에 죄송합니다.
+WINTER: Vor Mitternacht schlafe ich nicht, Herr Falk, das sollten Sie nach zehn Tagen wissen. Was will Paris?
+> 난 자정 전엔 안 자요, 팔크 씨. 열흘이나 지났으니 알 때도 됐죠. 파리가 뭘 원하던가요?
+FALK: Einen Satz über die europäische Dimension der französischen Abschreckung in der politischen Erklärung und deutsche Beobachter bei einer Nuklearübung. Dafür stimmt Paris am Montag zu.
+> 정치 선언문에 프랑스 억지력의 유럽적 차원에 관한 문장 하나, 그리고 핵 훈련에 독일 참관단이요. 그 대가로 파리는 월요일에 찬성하겠답니다.
+WINTER: Das ist mehr, als ich erwartet hatte, und weniger, als die Franzosen am Ende bekommen werden. Ich spreche morgen früh mit Lehnert. Sonst noch etwas?
+> 내가 예상한 것보다 많고, 프랑스가 결국 얻어 갈 것보다는 적네요. 내일 아침에 레너트 실장과 얘기하죠. 다른 건요?
+FALK: Frau Duval behauptet, ihr Dienst habe eine Quelle, nach der unser Leck aus der 209 komme. Zusammen mit einem Kanal nach Moskau.
+> 뒤발 국장 말로는, 그쪽 정보기관 정보원이 우리 유출이 209과에서 나왔다고 한답니다. 모스크바 채널과 함께요.
+WINTER: Ich weiß.
+> 알아요.
+FALK: Sie wissen es?
+> 알고 계셨다고요?
+WINTER: Frau Duval hat mich am Dienstag angerufen. Ich habe es noch am selben Abend an Frau Schönfeld weitergegeben, deshalb hat sie heute Herrn Ostrowski bestellt. Den Kanal nach Moskau habe ich für das gehalten, was er ist: eine französische Fantasie.
+> 뒤발 국장이 화요일에 나한테 전화했어요. 그날 저녁에 바로 쇤펠트 박사한테 넘겼고, 그래서 그 사람이 오늘 오스트로프스키 씨를 부른 거예요. 모스크바 채널 얘기는 그 실체대로 받아들였고요. 프랑스식 공상으로요.
+FALK: Am Dienstag. Und gestern Morgen haben Sie mir neben dem Kurier erklärt, mein Problem sei nicht Ihres.
+> 화요일이라. 그런데 어제 아침 전령 옆에서 저한테 제 문제는 사무차관님 문제가 아니라고 하셨죠.
+WINTER: Weil es eine Spur gegen Ihren Referenten war, Herr Falk, und Sie seinen Bürgen spielen. Hätte ich es Ihnen erzählt, hätten Sie ihn gewarnt.
+> 당신 보좌관을 가리키는 단서였으니까요, 팔크 씨. 그리고 당신은 그 사람 보증인 노릇을 하고 있고요. 말해 줬으면 당신이 그 사람한테 귀띔했겠죠.
+FALK: Frau Duval hat es mir heute als Freundschaftsdienst verkauft, als hätte es vor mir niemand gehört.
+> 뒤발 국장은 오늘 저한테 그걸 친구로서 주는 선물이라고 내밀더군요. 저보다 먼저 들은 사람은 아무도 없다는 듯이요.
+WINTER: Dann haben Sie heute etwas über Freundschaft gelernt. Gute Nacht, Herr Falk. Schlafen Sie wenigstens in Paris.
+> 그럼 오늘 우정에 대해 하나 배우셨네요. 잘 자요, 팔크 씨. 파리에서라도 좀 주무세요.
+
+== 절정 — VOR JEDER ENTSCHEIDUNG
+CLAIRE: Du bist früh. Ein Croissant? Die Kantine hier ist besser als ihr Ruf.
+> 일찍 왔네. 크루아상 먹을래? 여기 구내식당은 소문보다 나아.
+FALK: Danke, nein. Ich habe gestern Abend mit Berlin telefoniert, Claire. Dein Freundschaftsdienst lag dort schon am Dienstag auf dem Tisch.
+> 고맙지만 됐어. 어젯밤에 베를린이랑 통화했어, 클레르. 네가 친구로서 준 선물은 화요일에 이미 거기 책상 위에 올라가 있더라.
+CLAIRE: … Helene Winter ist deine Staatssekretärin. Ich habe den Dienstweg eingehalten.
+> …헬레네 빈터는 너희 사무차관이잖아. 난 공식 경로를 지킨 거야.
+FALK: Gestern hast du gesagt, davon wüssten nur dein Minister, euer Dienst und du. Und dann hast du es mir überreicht, als würdest du mir einen Schlüssel schenken.
+> 어제 넌 이걸 아는 건 너희 장관, 정보기관, 그리고 너뿐이라고 했어. 그러고는 무슨 열쇠라도 주는 것처럼 나한테 건넸지.
+CLAIRE: Ich wollte, dass du es von mir hörst und nicht von ihr. Das ist kein Verrat, Konstantin. Das ist Diplomatie mit Gefühl.
+> 그 사람 말고 나한테서 듣길 바랐어. 그건 배신이 아니야, 콘스탄틴. 감정이 담긴 외교지.
+FALK: Dann reden wir jetzt über Diplomatie ohne Gefühl. Den Vertrag, über den wir gestern so lange gesprochen haben, kennst du auch im Wortlaut?
+> 그럼 이제 감정 없는 외교 얘기를 하자. 어제 그렇게 오래 얘기한 그 조약, 문구도 알아?
+CLAIRE: Ich habe ihn mit zwanzig auswendig gelernt.
+> 스무 살 때 외웠어.
+FALK: Dann weißt du, was unter «Auswärtige Angelegenheiten» ganz oben steht: Die beiden Regierungen konsultieren sich vor jeder Entscheidung in allen wichtigen Fragen der Außenpolitik, um so weit wie möglich zu einer gleichgerichteten Haltung zu gelangen.
+> 그럼 «외교 분야» 맨 위에 뭐라고 적혀 있는지도 알겠네. 두 정부는 외교 정책의 모든 중요한 문제에 대해 결정을 내리기 전에 서로 협의하여 가능한 한 같은 입장에 이르도록 한다.
+CLAIRE: Vor jeder Entscheidung. Ja.
+> 결정을 내리기 전에. 그래.
+FALK: Euer Dienst hört seit dem Herbst von einem Kanal nach Moskau in unserem Haus und erzählt es uns nach einem Kabelbruch, einem Leck und einer Fälschung. Und euer Vorbehalt kam gestern ohne einen einzigen Anruf. Zweimal keine Konsultation, Claire. Wenn ich das in Brüssel erzähle, redet dort niemand mehr über eure Bombe, sondern über euer Schweigen.
+> 너희 정보기관은 작년 가을부터 우리 외무부에 모스크바 채널이 있다는 얘길 들었으면서, 케이블이 끊기고 유출이 터지고 위조까지 나온 다음에야 우리한테 말했어. 그리고 어제 너희 유보는 전화 한 통 없이 나왔고. 협의를 두 번이나 건너뛴 거야, 클레르. 내가 브뤼셀에서 이 얘길 하면, 거기선 아무도 너희 폭탄 얘긴 안 하고 너희 침묵 얘기만 할걸.
+CLAIRE: Du drohst mir mit dem Élysée-Vertrag?
+> 지금 엘리제 조약으로 날 협박하는 거야?
+FALK: Ich erinnere dich an ihn. Das ist zwischen uns beiden eine alte Gewohnheit.
+> 상기시켜 주는 거야. 우리 둘 사이엔 오래된 습관이잖아.
+CLAIRE: Und was schlägst du vor, wenn du dich schon so gut erinnerst?
+> 그렇게 기억력이 좋으면, 그래서 뭘 제안하는데?
+FALK: Kein Satz über eure Abschreckung in Bernstein. Bernstein ist Litauen, Kabel und Luftabwehr, sonst stirbt es in Washington. Stattdessen ein eigener Weg: ein deutsch-französischer Brief, getrennt von Bernstein, der einen strategischen Dialog über die europäische Dimension eurer Abschreckung eröffnet. Im Geist von Aachen.
+> 베른슈타인에 너희 억지력 문장은 안 돼. 베른슈타인은 리투아니아, 케이블, 방공이야. 아니면 워싱턴에서 죽어. 대신 별도의 길로 가자. 베른슈타인과 분리된 독일·프랑스 서한으로, 너희 억지력의 유럽적 차원에 관한 전략 대화를 여는 거야. 아헨 조약의 정신으로.
+CLAIRE: Ein Brief ist weniger als ein Vertrag.
+> 서한은 조약보다 가볍잖아.
+FALK: Einem Brief kann niemand eine Präambel voranstellen, die ihn umbringt. Und es wäre das erste Schreiben seit sechzig Jahren, in dem Berlin dieses Wort selbst in den Mund nimmt.
+> 서한 앞엔 아무도 그걸 죽일 서문을 붙일 수 없어. 그리고 60년 만에 처음으로 베를린이 그 단어를 제 입으로 꺼내는 문서가 될 거야.
+CLAIRE: Und die Beobachter bei «Poker»?
+> 그럼 «포커» 참관단은?
+FALK: Das darf ich nicht versprechen, und ich tue es auch nicht. Ich bringe es zur Kanzlerin, mehr nicht. Zehn Tage lang war ich ein Mann, der zu viel verspricht. Heute verspreche ich dir nur, dass ich es versuche.
+> 그건 약속할 권한이 없고, 약속도 안 할 거야. 총리께 가져가는 것까지야. 지난 열흘 동안 난 약속을 너무 많이 하는 사람이었어. 오늘은 해 보겠다는 것만 약속할게.
+CLAIRE: Ein ehrlicher Konstantin, mon Dieu. Und was bekommt mein Minister bis dahin?
+> 정직한 콘스탄틴이라니, 세상에. 그럼 그때까지 우리 장관한텐 뭘 줄 건데?
+FALK: Ihr wandelt den Vorbehalt in der Sache heute in einen Prüfvorbehalt um. Dann liegt Bernstein nicht im Grab, sondern im Wartezimmer, und Sedov hat am Montag nichts zu feiern.
+> 너희가 오늘 실질적 유보를 검토 유보로 바꾸는 거야. 그러면 베른슈타인은 무덤이 아니라 대기실에 있게 되고, 세도프는 월요일에 축배를 들 일이 없지.
+CLAIRE: Bis wann?
+> 언제까지?
+FALK: Bis Mittwoch. Bis dahin hast du entweder den Brief aus dem Kanzleramt, oder du darfst mich in Brüssel öffentlich einen Lügner nennen.
+> 수요일까지. 그때까지 총리실 서한을 받든가, 아니면 브뤼셀에서 공개적으로 날 거짓말쟁이라고 불러도 돼.
+CLAIRE: Öffentlich würde ich das nie tun. … D'accord. Prüfvorbehalt bis Mittwoch. Und weil wir heute ehrlich sind, noch etwas, das Helene Winter nicht bekommen hat.
+> 공개적으로는 절대 안 그래. …좋아. 수요일까지 검토 유보. 그리고 오늘은 서로 정직하기로 했으니까, 헬레네 빈터한테는 안 준 걸 하나 더 줄게.
+FALK: Ich höre.
+> 들을게.
+CLAIRE: Unsere Quelle sagt, der Mann aus der 209 treffe seinen Kontakt nie im Amt, sondern in Cafés in Mitte. Und der Kontakt trage immer eine Nadel am Revers. Einen Vogel mit langen Beinen.
+> 우리 정보원 말로는, 209과의 그 남자는 연락책을 절대 외무부 안에서 안 만나고 미테의 카페에서 만난대. 그리고 그 연락책은 늘 옷깃에 핀을 꽂고 있대. 다리가 긴 새 모양.
+FALK: … Ein Vogel mit langen Beinen. Das hättest du mir gestern sagen sollen, Claire. Und diesmal erfährt Winter es nicht von dir, das ist meine einzige Bedingung.
+> …다리가 긴 새라. 이건 어제 말해 줬어야지, 클레르. 그리고 이번엔 빈터가 너한테서 이걸 듣는 일은 없어야 해. 그게 내 유일한 조건이야.
+
+== 마무리 — ZWEI UHR VIERZEHN
+JAN: Konstantin, hier drüben! Ich habe den Dienstwagen genommen, bevor man mir den auch noch sperrt.
+> 콘스탄틴, 여기요! 관용차 타고 왔어요. 이것까지 막히기 전에요.
+FALK: Paris wandelt den Vorbehalt in einen Prüfvorbehalt um, bis Mittwoch. Winter sagt, Lehnert schließe einen Brief nicht aus, was bei ihm schon fast Begeisterung ist. Was ist hier passiert?
+> 파리가 유보를 수요일까지 검토 유보로 바꾼대. 빈터 말로는 레너트가 서한을 배제하진 않는대. 그 사람한테 그 정도면 거의 열광이지. 여긴 무슨 일 있었어?
+JAN: Greve hat geliefert. Heute um elf lag bei Schönfeld ein Umschlag ohne Absender: der Ausdruck meiner Mail an Kessler, mit Uhrzeit und Betreff. Dazu ein Zettel: «Fragen Sie ihn, was besprochen wurde.»
+> 그레베가 행동에 나섰어요. 오늘 열한 시에 쇤펠트 박사 앞으로 발신인 없는 봉투가 왔대요. 케슬러 씨한테 보낸 제 메일 출력본이요. 시각이랑 제목까지 다 있는 거. 쪽지도 하나 있었고요. «무슨 말을 나눴는지 그에게 물어보시오.»
+FALK: Zuerst den Jungen. Pünktlich zu seiner eigenen Frist.
+> 먼저 그 젊은 친구부터라. 자기가 정한 기한에 딱 맞췄네.
+JAN: Schönfeld hat ihn mir gezeigt und gesagt: «Sie waren siebenundzwanzig Stunden schneller, Herr Ostrowski. Das spricht für Sie.» Zum ersten Mal seit zehn Tagen spricht etwas für mich.
+> 쇤펠트 박사가 그걸 보여 주면서 그러더라고요. «오스트로프스키 씨가 27시간 빨랐네요. 그건 당신한테 유리해요.» 열흘 만에 처음으로 뭔가 제 편이 됐어요.
+FALK: Dann hat Greve seine Patrone verschossen, und sie hat nicht getroffen. Das wird ihn ärgern, und verärgerte Männer machen Fehler.
+> 그럼 그레베는 총알을 쐈는데 빗나간 거지. 화가 날 거야. 화난 사람은 실수를 하고.
+JAN: Oder sie laden nach. Er hat noch eine dritte Zeile.
+> 아니면 다시 장전하겠죠. 아직 셋째 줄이 남아 있잖아요.
+FALK: Ich weiß. … Jan, hast du in deiner Zeit in der 209 je einen Mann mit einer Nadel am Revers gesehen? Einen Vogel mit langen Beinen?
+> 알아. …얀, 209과에 있을 때 옷깃에 핀 꽂은 남자 본 적 있어? 다리 긴 새 모양 핀.
+JAN: Der Mann aus dem Café Einstein, nach Sommers Beschreibung. … Nein, nie. Warum?
+> 좀머 참사관이 말한 카페 아인슈타인의 그 남자요. …아뇨, 한 번도 없어요. 왜요?
+FALK: Weil die Franzosen ihn auch kennen. Sein Kontakt soll aus der 209 kommen. … Moment, Schönfeld. … Frau Schönfeld?
+> 프랑스 쪽도 그 남자를 알거든. 그 남자 연락책이 209과 사람이래. …잠깐, 쇤펠트 박사야. …쇤펠트 박사님?
+MIRA: Sie sind gelandet, gut. Ich habe die Zugriffsprotokolle des Dokumentenservers bekommen. Herr Ostrowskis Konto hat Bernstein geöffnet, die interne Fassung, alle sechzehn Seiten.
+> 착륙하셨군요, 다행이에요. 문서 서버 접근 기록을 받았어요. 오스트로프스키 씨 계정이 베른슈타인을 열었어요. 내부 판본, 16쪽 전부요.
+FALK: Das hat er wochenlang getan. Er hat die Fassungen verwaltet.
+> 그 친구는 몇 주 동안 그걸 열었어요. 판본 관리를 맡았으니까요.
+MIRA: Nicht um zwei Uhr vierzehn nachts. In der Nacht, bevor Frau Haas gedruckt hat. Morgen um neun will ich Herrn Ostrowski sprechen, mit dem Telefon. Und Sie, Herr Falk, sagen mir bis dahin, wo er in dieser Nacht war. Sie wissen es doch, oder?
+> 새벽 2시 14분에는 아니었죠. 하스 과장이 출력하기 전날 밤이요. 내일 아홉 시에 오스트로프스키 씨를 만나겠어요. 휴대폰 갖고요. 그리고 팔크 씨는 그때까지 그날 밤 그 사람이 어디 있었는지 말해 주세요. 알고 계시잖아요, 아닌가요?
+FALK: … Zwei Uhr vierzehn. Ich rufe Sie zurück, Frau Schönfeld.
+> …2시 14분이라. 다시 전화드리겠습니다, 쇤펠트 박사님.
