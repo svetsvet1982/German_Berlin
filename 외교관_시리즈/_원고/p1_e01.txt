@@ -1,0 +1,332 @@
+@part 1
+@ep 1
+@title Drei Uhr nachts
+@title_ko 새벽 세 시
+@tagline 새벽 세 시 · 끊어진 해저 케이블과 유출된 기밀 문건
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 3월 어느 월요일 새벽 세 시부터 일곱 시까지, 팔크의 집과 베를린 외무부 위기대응센터
+@cast FALK | 외무부 유럽안보 특별대표 (44)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast JAN | 팔크의 개인 보좌관 (31)
+@cast BEHRENS | 해군 연락장교 · 프리깃함 함장 계급 (가상)
+@cast ANNA | 탐사보도 기자 · «Berliner Depesche» (45)
+@cast WINTER | 외무부 사무차관 (57)
+@cast MIRA | 연방정보원(BND) 연락관 (39)
+@note ※ 2027년 3월. 독일은 폴란드·리투아니아·프랑스와 함께 발트 지역 방위 협정 «Bernstein(호박)»을 비밀리에 준비하고 있습니다. 협정 문서에는 리투아니아 주둔 독일 여단 계획과 발트해 핵심 기반시설(해저 케이블 등)의 좌표가 담겨 있습니다. 그런데 어느 월요일 새벽, 독일과 리투아니아를 잇는 해저 케이블 «NordLink-3»가 끊어집니다.
+@note ※ 호칭: 팔크와 보좌관 Jan, 아내 Elisabeth는 서로 du를 씁니다. 그 밖의 인물과는 모두 Sie를 쓰며, 팔크는 사무차관을 «Frau Staatssekretärin»이라고 부릅니다.
+@note ※ 표현 초점: Krisenstab(위기대응반), Lagezentrum(상황실), Schattenflotte(그림자 선단), Flaggenstaat(선적국), Quellenschutz(취재원 보호), unter drei(보도 불가 조건의 배경 설명), Dienstgeheimnis(직무상 비밀), Bundesanwaltschaft(연방검찰).
+@history 슈피겔 사건 (Spiegel-Affäre, 1962) — 1962년 10월 주간지 «Der Spiegel»이 NATO 훈련 «Fallex 62»를 근거로 서독군의 방위 태세가 허술하다고 보도했습니다. 연방검찰은 «국가 반역» 혐의로 편집국을 압수수색했고, 발행인 루돌프 아우크슈타인은 103일 동안 구속되었습니다. 국방장관 프란츠 요제프 슈트라우스는 체포 과정에 개입한 사실을 연방의회에서 부인했다가 거짓말이 드러나 물러났습니다. 이 사건은 서독에서 언론 자유가 확립된 전환점으로 평가됩니다.
+@history 키케로 판결 (Cicero-Urteil, 2007) — 연방헌법재판소는 기자가 기밀 자료를 보도했다는 이유만으로 편집국을 압수수색할 수 없다고 판결했습니다. 직무상 비밀 누설죄(형법 제353b조)는 원칙적으로 공무원에게 적용되며, 기자는 «방조범»으로 쉽게 처벌되지 않습니다. 극 중 Anna가 이 판결을 무기로 삼습니다.
+@history «Unter eins / zwei / drei» — 독일 연방기자회견(Bundespressekonferenz)의 규칙입니다. «unter eins»는 실명 인용 가능, «unter zwei»는 출처를 밝히지 않고 인용 가능, «unter drei»는 보도하지 않는 배경 설명을 뜻합니다.
+@preview 1부 2화 — «Zweiundsiebzig Stunden»(72시간) — BND의 Mira가 기밀 문건에 접근할 수 있었던 일곱 명을 차례로 심문한다. 첫 번째 상대는 팔크 자신이다. 기욤 사건의 그림자가 외무부 복도에 드리우고, 사소한 거짓말들이 하나씩 드러난다.
+
+== 도입 — DREI UHR NACHTS
+ELISABETH: Konstantin. Dein Handy. Es ist drei Uhr.
+> 콘스탄틴. 당신 전화. 새벽 세 시야.
+FALK: Ich weiß, wie spät es ist. Schlaf weiter, ich gehe raus.
+> 몇 시인지 알아. 더 자, 나가서 받을게.
+ELISABETH: Wenn um drei das Diensthandy klingelt, schläft in diesem Haus niemand weiter.
+> 새벽 세 시에 업무용 전화가 울리면 이 집에서 다시 잠드는 사람은 없어.
+FALK: Falk. … Jan? Langsam. Noch einmal von vorn.
+> 팔크입니다. … 얀? 천천히. 처음부터 다시 말해 봐.
+JAN: Das Kabel NordLink-3 ist tot. Seit zwei Uhr siebzehn kein Signal mehr zwischen Rügen und Klaipėda.
+> NordLink-3 케이블이 죽었어요. 두 시 십칠 분부터 뤼겐과 클라이페다 사이에 신호가 하나도 없어요.
+FALK: Ein technischer Defekt?
+> 기술적 결함이야?
+JAN: Das hat die Netzagentur auch zuerst gesagt. Dann hat die Marine einen Tanker gefunden, der genau über der Trasse fährt. Mit drei Knoten. Viel zu langsam für einen Tanker.
+> 전력망청도 처음엔 그렇게 말했죠. 그런데 해군이 케이블 경로 바로 위를 지나가는 유조선을 찾았어요. 3노트로요. 유조선치고는 너무 느려요.
+FALK: Name?
+> 선명은?
+JAN: «Marisol». Flagge der Cookinseln, Eigentümer ist eine Briefkastenfirma in Dubai. Klassische Schattenflotte.
+> «마리솔». 쿡 제도 선적이고, 소유주는 두바이의 페이퍼 컴퍼니예요. 전형적인 그림자 선단이죠.
+FALK: Wer weiß es schon?
+> 벌써 누가 알고 있지?
+JAN: Das Lagezentrum, die Marine, und das Kanzleramt hat eine Erstmeldung. In einer Stunde wahrscheinlich das ganze Netz.
+> 상황실, 해군, 그리고 총리실이 1차 보고를 받았어요. 한 시간 뒤면 아마 인터넷 전체가 알겠죠.
+FALK: Dann haben wir eine Stunde. Ruf den Krisenstab zusammen, kleine Besetzung. Um vier im Lagezentrum.
+> 그럼 우리한테 한 시간이 있네. 위기대응반 소집해, 최소 인원으로. 네 시에 상황실에서.
+JAN: Die Staatssekretärin auch?
+> 사무차관님도요?
+FALK: Informier sie, aber ruf sie nicht an. Schreib ihr. Sie liest sowieso alles vor dem ersten Kaffee.
+> 보고는 하되 전화는 하지 마. 메시지로 보내. 어차피 첫 커피 마시기 전에 다 읽는 분이니까.
+JAN: Verstanden. Und, Konstantin – das ist nicht das erste Kabel in diesem Winter.
+> 알겠습니다. 그리고 콘스탄틴, 이번 겨울에 끊긴 케이블이 이게 처음이 아니에요.
+FALK: Ich weiß. Es ist das dritte. Aber das erste, das uns gehört.
+> 알아. 세 번째지. 하지만 우리 소유인 건 이게 처음이야.
+ELISABETH: Ein Kabel? Deswegen fährst du um drei Uhr nachts ins Amt?
+> 케이블? 그것 때문에 새벽 세 시에 외무부로 가는 거야?
+FALK: Über dieses Kabel laufen Bankdaten, die Steuerung von Stromnetzen und die Kommunikation von zwei NATO-Stäben. Wenn das kein Zufall war, ist es ein Angriff.
+> 그 케이블로 은행 데이터, 전력망 제어, NATO 사령부 두 곳의 통신이 오가. 우연이 아니라면 그건 공격이야.
+ELISABETH: Und wenn es ein Zufall war?
+> 우연이라면?
+FALK: Dann wird trotzdem jemand behaupten, es war ein Angriff. Das ist fast genauso gefährlich. Ich rufe dich an, sobald ich weiß, wie schlimm es ist.
+> 그래도 누군가는 공격이었다고 주장하겠지. 그것도 거의 똑같이 위험해. 얼마나 심각한지 알게 되면 바로 전화할게.
+
+== 장면 1 — DAS LAGEZENTRUM
+FALK: Guten Morgen, falls man das so nennen kann. Herr Behrens, was wissen wir sicher?
+> 좋은 아침입니다, 그렇게 부를 수 있다면요. 베렌스 씨, 확실히 아는 게 뭡니까?
+BEHRENS: Sicher wissen wir drei Dinge. Das Kabel ist auf etwa zweihundert Metern beschädigt. Die «Marisol» ist zur Tatzeit darüber gefahren. Und ihr Backbordanker hängt nicht mehr dort, wo er hängen sollte.
+> 확실한 건 세 가지입니다. 케이블이 약 200미터에 걸쳐 손상됐습니다. 사건 시각에 «마리솔»이 그 위를 지나갔습니다. 그리고 그 배의 좌현 닻이 있어야 할 자리에 없습니다.
+FALK: Das heißt?
+> 그 말은?
+BEHRENS: Das heißt, sie hat ihn sehr wahrscheinlich über den Meeresboden geschleift. Ungefähr zwanzig Seemeilen lang.
+> 닻을 해저 바닥에 끌고 갔을 가능성이 매우 높다는 뜻입니다. 대략 20해리에 걸쳐서요.
+JAN: Zwanzig Seemeilen schleift man keinen Anker aus Versehen.
+> 20해리나 닻을 실수로 끌고 가는 사람은 없죠.
+BEHRENS: Das würde ich offiziell nicht so formulieren, Herr Ostrowski. Die Reederei wird sagen, es war ein Sturm, ein Bedienfehler, ein betrunkener Matrose.
+> 공식적으로는 그렇게 말하지 않겠습니다, 오스트로프스키 씨. 선사는 폭풍이었다, 조작 실수였다, 술 취한 선원 탓이었다고 하겠죠.
+FALK: Und was sagen Sie, inoffiziell?
+> 비공식적으로 당신 생각은요?
+BEHRENS: Ich sage, dass wir letzte Nacht Windstärke drei hatten. Bei Windstärke drei verliert niemand einen Anker.
+> 어젯밤 풍력이 3이었다는 겁니다. 풍력 3에서 닻을 잃어버리는 사람은 없습니다.
+FALK: Wo ist das Schiff jetzt?
+> 그 배는 지금 어디 있습니까?
+BEHRENS: Kurs Nordost, Richtung Finnischer Meerbusen. In etwa sechs Stunden verlässt es unsere Ausschließliche Wirtschaftszone.
+> 북동쪽, 핀란드만 방향입니다. 여섯 시간쯤 뒤면 우리 배타적 경제수역을 벗어납니다.
+FALK: Können wir es festhalten?
+> 붙잡을 수 있습니까?
+BEHRENS: Rechtlich ist das schwierig. Außerhalb der Hoheitsgewässer gilt das Recht des Flaggenstaats. Ohne Zustimmung der Cookinseln dürfen wir nicht an Bord.
+> 법적으로는 어렵습니다. 영해 밖에서는 선적국 법이 적용됩니다. 쿡 제도의 동의 없이는 승선할 수 없습니다.
+JAN: Und die Cookinseln antworten um vier Uhr morgens natürlich sofort.
+> 그리고 쿡 제도가 새벽 네 시에 당연히 바로 답을 주겠죠.
+FALK: Wie spät ist es auf den Cookinseln?
+> 쿡 제도는 지금 몇 시지?
+JAN: Moment … fünf Uhr nachmittags. Gestern.
+> 잠깐만요… 오후 다섯 시요. 어제.
+FALK: Gut. Dann sitzt dort noch jemand im Büro. Jan, du rufst über unsere Botschaft in Wellington an. Wir bitten offiziell um Zustimmung zu einer Inspektion.
+> 좋아. 그럼 아직 사무실에 누가 있겠군. 얀, 웰링턴 대사관을 통해 연락해. 공식적으로 검색 동의를 요청하는 거야.
+JAN: Und wenn sie Nein sagen?
+> 거절하면요?
+FALK: Dann haben wir es versucht, und das steht später im Protokoll. In der Diplomatie ist das Protokoll manchmal wichtiger als das Ergebnis.
+> 그럼 적어도 시도는 한 거고, 나중에 기록에 남지. 외교에서는 때로 기록이 결과보다 중요해.
+BEHRENS: Ich kann die Fregatte «Hessen» hinterherschicken. Nur zur Begleitung. Sichtkontakt, keine Waffen.
+> 프리깃함 «헤센»을 뒤따르게 할 수 있습니다. 동행만 합니다. 육안 접촉만 하고 무기는 쓰지 않습니다.
+FALK: Tun Sie das. Ein Schiff, das beobachtet wird, macht weniger Dummheiten.
+> 그렇게 하세요. 감시당하는 배는 어리석은 짓을 덜 하니까요.
+BEHRENS: Und die Presse?
+> 언론은요?
+FALK: Die Presse bekommt um sechs eine kurze Mitteilung: Störung eines Unterseekabels, die Ursache wird untersucht. Kein Wort von Sabotage.
+> 언론에는 여섯 시에 짧은 보도자료를 냅니다. 해저 케이블 장애, 원인은 조사 중. 사보타주라는 말은 한마디도 하지 않습니다.
+JAN: Auch nicht, wenn sie nachfragen?
+> 다시 물어봐도요?
+FALK: Wenn sie nachfragen, sagen wir, dass wir nichts ausschließen. Das ist wahr und klingt nach nichts.
+> 물어보면 아무것도 배제하지 않는다고 말해. 사실이면서 아무 말도 안 한 것처럼 들리지.
+BEHRENS: Sie haben Übung darin, Herr Falk.
+> 그런 데 익숙하시군요, 팔크 씨.
+FALK: Zwanzig Jahre Übung. Wer zu früh «Sabotage» sagt, muss es später beweisen. Wer es zu spät sagt, muss erklären, warum er geschwiegen hat. Aber sagen Sie mir: Wer kannte den genauen Verlauf von NordLink-3?
+> 20년 연습했죠. «사보타주»라고 너무 일찍 말하면 나중에 증명해야 하고, 너무 늦게 말하면 왜 침묵했는지 해명해야 합니다. 그런데 말해 보세요. NordLink-3의 정확한 경로를 아는 사람이 누구였습니까?
+BEHRENS: Öffentlich ist er nur ungefähr bekannt. Die genauen Koordinaten stehen in den Planungsunterlagen des Betreibers. Und seit drei Wochen auch in einem NATO-Papier.
+> 공개된 건 대략적인 경로뿐입니다. 정확한 좌표는 운영사의 설계 문서에 있습니다. 그리고 3주 전부터는 NATO 문서에도 있죠.
+FALK: In welchem Papier?
+> 어떤 문서요?
+BEHRENS: Das darf ich in dieser Runde nicht sagen. Aber Sie kennen es. Sie haben es mitverhandelt.
+> 이 자리에서는 말할 수 없습니다. 하지만 아시는 문서입니다. 직접 협상에 참여하셨으니까요.
+FALK: Bernstein.
+> 베른슈타인.
+BEHRENS: Ich habe den Namen nicht ausgesprochen.
+> 저는 그 이름을 입에 올리지 않았습니다.
+FALK: Nein. Ich habe ihn ausgesprochen. Jan, das bleibt in diesem Raum.
+> 네, 제가 말했죠. 얀, 이건 이 방 밖으로 나가면 안 돼.
+JAN: Selbstverständlich.
+> 물론이죠.
+FALK: Herr Behrens, ich brauche eine Liste aller Stellen, die diese Koordinaten haben. Bis acht Uhr.
+> 베렌스 씨, 그 좌표를 가진 모든 기관의 목록이 필요합니다. 여덟 시까지요.
+BEHRENS: Bis acht ist ambitioniert.
+> 여덟 시까지는 무리한 요구입니다.
+FALK: Ambitioniert ist gut. Ambitioniert ist besser als zu spät.
+> 무리한 게 좋습니다. 늦는 것보다는 낫죠.
+JAN: Konstantin, dein Handy. Unterdrückte Nummer.
+> 콘스탄틴, 전화 와요. 발신번호 표시 제한이에요.
+FALK: Um vier Uhr morgens ruft niemand mit unterdrückter Nummer an, der gute Nachrichten hat. Falk.
+> 새벽 네 시에 번호를 숨기고 전화하는 사람이 좋은 소식을 가져올 리 없지. 팔크입니다.
+
+== 장면 2 — EIN ANRUF UM VIER
+ANNA: Herr Falk, hier ist Anna Kessler von der «Berliner Depesche». Entschuldigen Sie die Uhrzeit.
+> 팔크 씨, «베를리너 데페셰»의 안나 케슬러입니다. 이른 시간에 죄송합니다.
+FALK: Frau Kessler. Sie entschuldigen sich nie für die Uhrzeit. Was wollen Sie?
+> 케슬러 씨. 당신은 시간 때문에 사과하는 사람이 아니잖아요. 원하는 게 뭡니까?
+ANNA: Einen Kommentar. Zu einem Dokument mit dem Titel «Bernstein».
+> 논평이요. «베른슈타인»이라는 제목의 문서에 대해서요.
+FALK: Ich kenne kein Dokument dieses Namens.
+> 그런 이름의 문서는 모릅니다.
+ANNA: Seltsam. Ihr Name steht auf Seite zwei, in der Verteilerliste.
+> 이상하네요. 2쪽 배포 명단에 당신 이름이 있는데요.
+FALK: Dann haben Sie ein Papier, auf dem mein Name steht. Das beweist nicht viel. Mein Name steht auch auf dem Speiseplan der Kantine, als Allergiker.
+> 그럼 당신은 내 이름이 적힌 종이를 갖고 있는 거군요. 그걸로는 별로 증명되는 게 없어요. 내 이름은 구내식당 식단표에도 있어요, 알레르기 환자로요.
+ANNA: Vierzehn Seiten, Herr Falk. Eingestuft als «NATO SECRET». Es geht um eine deutsche Brigade in Litauen, um gemeinsame Einsatzpläne mit Polen und um den Schutz kritischer Infrastruktur in der Ostsee. Mit Koordinaten.
+> 14쪽입니다, 팔크 씨. «NATO 비밀» 등급이고요. 리투아니아 주둔 독일 여단, 폴란드와의 공동 작전 계획, 발트해 핵심 기반시설 보호에 관한 내용이죠. 좌표까지 있어요.
+FALK: … Mit Koordinaten.
+> …좌표까지.
+ANNA: Unter anderem die eines Kabels namens NordLink-3. Das, wenn ich richtig informiert bin, seit zwei Uhr siebzehn nicht mehr funktioniert.
+> 그중에는 NordLink-3라는 케이블의 좌표도 있어요. 제가 알기로는 두 시 십칠 분부터 작동하지 않는 케이블이죠.
+FALK: Woher haben Sie das?
+> 그걸 어디서 구했습니까?
+ANNA: Sie wissen, dass ich das nicht sage. Quellenschutz. Artikel fünf Grundgesetz.
+> 말하지 않을 거란 거 아시잖아요. 취재원 보호. 기본법 제5조.
+FALK: Ich kenne das Grundgesetz, Frau Kessler. Ich kenne auch Paragraf 353b des Strafgesetzbuchs. Verletzung des Dienstgeheimnisses.
+> 기본법은 나도 압니다, 케슬러 씨. 형법 제353b조도 알죠. 직무상 비밀 누설.
+ANNA: Der gilt für Beamte, nicht für Journalisten. Das hat das Bundesverfassungsgericht 2007 sehr deutlich gesagt. Cicero-Urteil. Soll ich Ihnen den Link schicken?
+> 그건 공무원에게 적용되지 기자에게는 아니에요. 연방헌법재판소가 2007년에 아주 분명히 말했죠. 키케로 판결. 링크 보내 드릴까요?
+FALK: Nicht nötig. Was wollen Sie wirklich?
+> 필요 없습니다. 진짜 원하는 게 뭡니까?
+ANNA: Ich will wissen, ob jemand dieses Papier benutzt hat, um ein Kabel zu finden. Das ist eine Frage von öffentlichem Interesse, finden Sie nicht?
+> 누군가 이 문서를 이용해 케이블을 찾아냈는지 알고 싶어요. 공익에 관한 질문이죠, 그렇지 않나요?
+FALK: Ich finde, dass Sie gerade über sehr gefährliche Informationen telefonieren. Über eine Leitung, bei der wir beide nicht wissen, wer mithört.
+> 내 생각엔 당신이 지금 아주 위험한 정보를 전화로 말하고 있어요. 누가 엿듣는지 우리 둘 다 모르는 회선으로요.
+ANNA: Drohen Sie mir?
+> 저를 협박하시는 건가요?
+FALK: Ich warne Sie. Das ist ein Unterschied. Wenn Sie Koordinaten veröffentlichen, ist morgen das nächste Kabel durch.
+> 경고하는 겁니다. 그건 다르죠. 당신이 좌표를 공개하면 내일 다음 케이블이 끊깁니다.
+ANNA: Ich veröffentliche keine Koordinaten, ich bin nicht verrückt. Aber ich veröffentliche, dass es ein Leck gibt.
+> 좌표는 공개하지 않아요, 제가 미친 것도 아니고요. 하지만 유출이 있다는 사실은 보도할 거예요.
+FALK: Wann?
+> 언제요?
+ANNA: Morgen früh um sechs, online. Es sei denn, Sie geben mir einen Grund zu warten.
+> 내일 아침 여섯 시, 온라인으로요. 기다릴 이유를 주시지 않는다면요.
+FALK: Ist das ein Angebot oder eine Erpressung?
+> 그건 제안입니까, 협박입니까?
+ANNA: Nennen wir es eine Verhandlung. Das ist doch Ihr Beruf.
+> 협상이라고 하죠. 그게 당신 직업이잖아요.
+FALK: Gut. Dann verhandeln wir. Was wäre für Sie ein Grund?
+> 좋습니다. 그럼 협상합시다. 당신에게는 뭐가 이유가 될까요?
+ANNA: Ein Gespräch. Unter drei. Sie erzählen mir, was Sie wissen, und ich warte achtundvierzig Stunden.
+> 대화요. 보도하지 않는 조건으로요. 아시는 걸 말씀해 주시면 48시간 기다릴게요.
+FALK: Unter drei erzähle ich Ihnen gar nichts, Frau Kessler, weil ich nichts weiß. Ich habe Ihnen gesagt, dass ich das Papier nicht kenne.
+> 보도 불가 조건이든 뭐든 나는 아무 말도 하지 않아요, 케슬러 씨. 아는 게 없으니까요. 그 문서를 모른다고 말씀드렸잖아요.
+ANNA: Das haben Sie gesagt. Ich habe es nur nicht geglaubt.
+> 그렇게 말씀하셨죠. 제가 안 믿었을 뿐이에요.
+FALK: Dann geben Sie mir Zeit, um herauszufinden, ob es dieses Papier überhaupt gibt.
+> 그럼 그 문서가 존재하기는 하는지 알아볼 시간을 주세요.
+ANNA: Sie sind wirklich gut, Herr Falk. «Ob es dieses Papier überhaupt gibt.» Wissen Sie, woran mich das erinnert?
+> 정말 능숙하시네요, 팔크 씨. «그 문서가 존재하기는 하는지.» 그 말이 뭘 떠올리게 하는지 아세요?
+FALK: Sie werden es mir gleich sagen.
+> 곧 말해 주겠죠.
+ANNA: An Oktober 1962. Der «Spiegel» schreibt über eine NATO-Übung, «Fallex 62». Die Regierung sagt erst, da sei nichts. Dann kommt nachts die Polizei in die Redaktion, Augstein sitzt hundertdrei Tage in Untersuchungshaft, und der Verteidigungsminister lügt vor dem Bundestag.
+> 1962년 10월이요. «슈피겔»이 NATO 훈련 «팔렉스 62»에 대해 보도해요. 정부는 처음엔 아무것도 없다고 하죠. 그러다 밤에 경찰이 편집국에 들이닥치고, 아우크슈타인은 103일 동안 구속되고, 국방장관은 연방의회에서 거짓말을 하죠.
+FALK: Und am Ende musste Strauß gehen. Ich kenne die Geschichte, Frau Kessler. Ich habe nicht vor, sie zu wiederholen.
+> 그리고 결국 슈트라우스가 물러나야 했죠. 그 역사는 알아요, 케슬러 씨. 되풀이할 생각은 없습니다.
+ANNA: Dann lügen Sie mich nicht an.
+> 그럼 저한테 거짓말하지 마세요.
+FALK: Achtundvierzig Stunden, Frau Kessler. Dann treffen wir uns. Unter drei.
+> 48시간입니다, 케슬러 씨. 그 뒤에 만나죠. 보도하지 않는 조건으로.
+ANNA: Sechsunddreißig. Und ich wähle den Ort.
+> 36시간이요. 장소는 제가 정하고요.
+FALK: Einverstanden.
+> 좋습니다.
+ANNA: Noch etwas, Herr Falk. Ich bin nicht die Einzige, die dieses Papier hat. Ich bin nur die Einzige, die Sie vorher anruft.
+> 하나 더요, 팔크 씨. 이 문서를 가진 사람은 저만이 아니에요. 미리 전화하는 사람이 저뿐일 뿐이죠.
+FALK: Was soll das heißen?
+> 그게 무슨 뜻입니까?
+ANNA: Gute Nacht. Oder besser: guten Morgen.
+> 안녕히 주무세요. 아니, 좋은 아침이라고 해야겠네요.
+JAN: War das die Kessler? Die von der «Depesche»?
+> 케슬러였어요? «데페셰»의 그 기자?
+FALK: Sie hat Bernstein. Vierzehn Seiten.
+> 베른슈타인을 갖고 있어. 14쪽.
+JAN: Vierzehn? Das Original hat sechzehn. Mit den zwei Anlagen zur Luftverteidigung.
+> 14쪽이요? 원본은 16쪽인데요. 방공 관련 부속서 두 장까지 해서요.
+FALK: Dann hat jemand zwei Seiten herausgenommen, bevor er das Papier weitergegeben hat. Interessant.
+> 그럼 누군가 문서를 넘기기 전에 두 장을 빼냈다는 거군. 흥미롭네.
+JAN: Und du hast ihr gesagt, du kennst es nicht.
+> 그런데 그 기자한테 모른다고 하셨잖아요.
+FALK: Ja.
+> 그래.
+JAN: Das war gelogen.
+> 그건 거짓말이었죠.
+FALK: Das war Diplomatie, Jan. Gelogen wäre es, wenn ich es unter Eid gesagt hätte.
+> 그건 외교야, 얀. 선서하고 그렇게 말했다면 거짓말이겠지.
+JAN: Ich glaube nicht, dass Frau Kessler diesen Unterschied macht.
+> 케슬러 씨가 그 차이를 인정해 줄 것 같진 않은데요.
+FALK: Sie nicht. Aber ein Richter schon. Schreib der Staatssekretärin, dass ich sie sofort sprechen muss. Nicht per Mail. Persönlich.
+> 그 사람은 안 하겠지. 하지만 판사는 하지. 사무차관님께 지금 당장 뵈어야 한다고 메시지 보내. 메일 말고. 직접 뵙자고.
+
+== 장면 3 — DIE STAATSSEKRETÄRIN
+WINTER: Herr Falk. Sie sehen aus, als hätten Sie seit drei Uhr keinen Kaffee bekommen.
+> 팔크 씨. 세 시 이후로 커피 한 잔 못 마신 얼굴이군요.
+FALK: Keinen guten, Frau Staatssekretärin. Danke, dass Sie so früh gekommen sind.
+> 제대로 된 건 못 마셨습니다, 사무차관님. 이렇게 일찍 와 주셔서 감사합니다.
+WINTER: Ich war ohnehin wach. In meinem Alter schläft man nicht mehr, man wartet auf den Morgen. Also: das Kabel.
+> 어차피 깨어 있었어요. 내 나이가 되면 잠을 자는 게 아니라 아침을 기다리는 거죠. 자, 케이블 얘기부터.
+FALK: Das Kabel ist das kleinere Problem. Eine Journalistin der «Depesche» hat Bernstein.
+> 케이블은 작은 문제입니다. «데페셰»의 기자가 베른슈타인을 갖고 있습니다.
+WINTER: Das ganze Dokument?
+> 문서 전체를요?
+FALK: Nach ihrer Beschreibung ja. Einschließlich des Infrastrukturteils mit den Kabelkoordinaten.
+> 그 기자 설명으로는 그렇습니다. 케이블 좌표가 담긴 기반시설 부분까지요.
+WINTER: Das ist eine Katastrophe. Wissen Sie, was Warschau sagen wird? Und Vilnius? Wir haben ihnen versprochen, dass Berlin dichthält.
+> 재앙이군요. 바르샤바가 뭐라고 할지 알아요? 빌뉴스는요? 우리는 베를린에서는 새지 않는다고 약속했어요.
+FALK: Ich weiß. Deshalb stehe ich hier und liege nicht im Bett.
+> 압니다. 그래서 침대가 아니라 여기 서 있는 겁니다.
+WINTER: Was haben Sie ihr gesagt?
+> 그 기자에게 뭐라고 했어요?
+FALK: Dass ich kein Dokument dieses Namens kenne.
+> 그런 이름의 문서는 모른다고 했습니다.
+WINTER: Gut. Bleiben Sie dabei.
+> 좋아요. 그 말 바꾸지 마세요.
+FALK: Lange wird sie mir das nicht glauben. Ich habe ihr ein Treffen in sechsunddreißig Stunden zugesagt. Dafür wartet sie mit der Veröffentlichung.
+> 오래 믿어 주진 않을 겁니다. 36시간 뒤에 만나기로 약속했습니다. 그 대가로 보도를 미루기로 했고요.
+WINTER: Sie haben mit ihr verhandelt? Ohne Rücksprache?
+> 그 기자와 협상을 했다고요? 상의도 없이?
+FALK: Um vier Uhr morgens, Frau Staatssekretärin. Hätte ich Sie wecken sollen?
+> 새벽 네 시였습니다, 사무차관님. 깨워 드렸어야 했습니까?
+WINTER: Ja. Genau dafür bin ich da. … Nun gut, was geschehen ist, ist geschehen. Wer hatte Zugang?
+> 네. 바로 그러라고 내가 있는 거예요. … 뭐, 이미 벌어진 일은 어쩔 수 없죠. 누가 접근할 수 있었죠?
+FALK: Bei uns umfasst der Verteiler sieben Personen. Sie, ich, Jan, zwei Kollegen aus der Politischen Abteilung, der Verbindungsoffizier des Verteidigungsministeriums und das Kanzleramt.
+> 우리 쪽 배포 명단은 일곱 명입니다. 사무차관님, 저, 얀, 정무국 동료 두 명, 국방부 연락장교, 그리고 총리실이요.
+WINTER: Sieben Personen und ein Leck. Das ist eine überschaubare Rechnung.
+> 일곱 명에 유출 하나. 계산이 어렵진 않겠군요.
+FALK: Wenn das Leck bei uns liegt. Bernstein liegt auch in Brüssel, Warschau, Vilnius und Paris.
+> 유출이 우리 쪽에서 났다면요. 베른슈타인은 브뤼셀, 바르샤바, 빌뉴스, 파리에도 있습니다.
+WINTER: Glauben Sie im Ernst, Paris verkauft NATO-Papiere an die «Berliner Depesche»? Seien Sie nicht naiv. Wenn ein deutsches Blatt das Papier hat, gibt es eine deutsche Quelle.
+> 정말로 파리가 NATO 문서를 «베를리너 데페셰»에 팔았다고 생각해요? 순진하게 굴지 마세요. 독일 신문이 그 문서를 갖고 있다면 독일인 출처가 있는 거예요.
+FALK: Oder jemand möchte, dass wir genau das glauben.
+> 아니면 누군가 우리가 바로 그렇게 믿기를 원하거나요.
+WINTER: Heben Sie sich die Verschwörungstheorien für Ihre Memoiren auf. Ich habe vor zehn Minuten mit dem Kanzleramt telefoniert. Die Kanzlerin will Ergebnisse.
+> 음모론은 회고록 쓸 때를 위해 아껴 두세요. 10분 전에 총리실과 통화했어요. 총리께서는 결과를 원하세요.
+FALK: Wie viel Zeit haben wir?
+> 시간은 얼마나 있습니까?
+WINTER: Zweiundsiebzig Stunden. Danach übernimmt die Bundesanwaltschaft, und dann stehen hier Polizisten auf den Fluren. Wie 1962, nur diesmal bei uns statt beim «Spiegel».
+> 72시간이요. 그 뒤엔 연방검찰이 넘겨받고, 그러면 여기 복도에 경찰이 서 있겠죠. 1962년처럼요. 이번엔 «슈피겔»이 아니라 우리 쪽에서요.
+FALK: Die Bundesanwaltschaft im Auswärtigen Amt. Das gäbe schöne Bilder für die Abendnachrichten.
+> 외무부에 들이닥친 연방검찰이라. 저녁 뉴스에 좋은 그림이 나오겠군요.
+WINTER: Eben. Deshalb finden Sie das Leck vorher. Der BND schickt uns eine Verbindungsoffizierin, Frau Dr. Schönfeld. Sie ist in zehn Minuten hier.
+> 그러니까요. 그래서 당신이 그 전에 유출자를 찾아야 해요. BND가 연락관을 보내요. 쇤펠트 박사. 10분 뒤에 도착해요.
+FALK: Sie haben den BND bereits eingeschaltet?
+> 벌써 BND를 끌어들이셨습니까?
+WINTER: Ich habe vieles bereits getan, Herr Falk, während Sie mit Journalistinnen verhandelt haben. Und lassen Sie sich nicht lähmen. Vierzehn Seiten kann man nicht mehr zurückholen. Aber man kann verhindern, dass es fünfzehn werden.
+> 당신이 기자들과 협상하는 동안 나는 이미 많은 걸 했어요, 팔크 씨. 그리고 겁먹고 손 놓지 마세요. 14쪽은 되돌릴 수 없어요. 하지만 15쪽이 되는 건 막을 수 있죠.
+FALK: Ich verstehe, Frau Staatssekretärin.
+> 알겠습니다, 사무차관님.
+
+== 절정 — SIEBEN NAMEN
+MIRA: Herr Falk? Mira Schönfeld, Bundesnachrichtendienst. Ich soll Ihnen helfen, sagt man mir.
+> 팔크 씨? 연방정보원의 미라 쇤펠트입니다. 당신을 도우라고 하더군요.
+FALK: Sie klingen nicht überzeugt.
+> 확신이 없는 목소리군요.
+MIRA: Ich bin selten überzeugt. Das ist eine Berufskrankheit. Ich habe die Verteilerliste schon gesehen. Sieben Namen.
+> 저는 확신하는 일이 드물어요. 직업병이죠. 배포 명단은 이미 봤어요. 이름이 일곱 개더군요.
+FALK: Dann wissen Sie mehr als ich vor einer Stunde.
+> 그럼 한 시간 전의 저보다 많이 아시는군요.
+MIRA: Ich weiß auch, dass einer dieser sieben Namen Ihrer ist. Nehmen Sie es nicht persönlich. Bei einem Leck ist jeder verdächtig, bis er es nicht mehr ist.
+> 그 일곱 이름 중 하나가 당신이라는 것도 알죠. 개인적으로 받아들이진 마세요. 유출 사건에서는 혐의가 풀릴 때까지 모두가 용의자예요.
+FALK: Wie bei Guillaume. Brandt hat ihm auch bis zum letzten Tag vertraut.
+> 기욤 때처럼요. 브란트도 마지막 날까지 그를 믿었죠.
+MIRA: Und Brandt ist deswegen zurückgetreten. Hoffen wir, dass sich die Geschichte hier nicht wiederholt. Wir beginnen in einer Stunde mit den Gesprächen. Mit Ihnen zuerst.
+> 그리고 브란트는 그것 때문에 사임했고요. 여기서 역사가 반복되지 않길 바라죠. 한 시간 뒤에 면담을 시작합니다. 당신부터요.
+FALK: Gut. Fangen Sie mit mir an. Ich habe nichts zu verbergen.
+> 좋습니다. 저부터 하시죠. 숨길 건 없습니다.
+MIRA: Das sagen alle, Herr Falk. Meistens genau in diesem Ton.
+> 다들 그렇게 말해요, 팔크 씨. 대개 딱 그런 말투로요.
+
+== 마무리 — VIERZEHN SEITEN
+ELISABETH: Konstantin? Es ist sieben. Du wolltest anrufen.
+> 콘스탄틴? 일곱 시야. 전화한다고 했잖아.
+FALK: Entschuldige. Das Kabel war das kleinste Problem dieser Nacht. Warte heute Abend nicht mit dem Essen.
+> 미안해. 케이블은 오늘 밤 일 중에 제일 작은 문제였어. 오늘 저녁은 기다리지 마.
+JAN: Konstantin … die Staatssekretärin hat «vierzehn Seiten» gesagt.
+> 콘스탄틴… 사무차관님이 «14쪽»이라고 하셨어요.
+FALK: Ich habe es gehört.
+> 나도 들었어.
+JAN: Das Original hat sechzehn. Vierzehn hat nur die Kopie, die Frau Kessler hat. Und die Zahl hast du ihr nicht genannt.
+> 원본은 16쪽이에요. 14쪽은 케슬러 씨가 가진 사본뿐이고요. 그리고 그 숫자를 사무차관님께 말씀하지 않으셨잖아요.
+FALK: Ich weiß, Jan. Schreib das nirgendwo auf. Nirgendwo.
+> 알아, 얀. 그거 어디에도 적지 마. 어디에도.
