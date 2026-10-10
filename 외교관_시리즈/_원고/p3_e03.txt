@@ -1,0 +1,332 @@
+@part 3
+@ep 3
+@title Suwałki
+@title_ko 수바우키
+@tagline 수바우키 · 국경의 총성 한 발, 전날 도착한 봉투, 그리고 빌뉴스에서 한 약속 하나
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 5월 27일 목요일 오후부터 밤까지, 빌뉴스 공항에서 리투아니아 외무부로 가는 차 안, 외무차관실, 세이마스 앞 1991년 바리케이드 잔해, 구시가지 호텔 방
+@cast FALK | 외무부 유럽안보 특별대표, 직무 정지 중 (44)
+@cast VAITKUS | Tomas Vaitkus · 주독 리투아니아 대사, 협의차 빌뉴스에 소환됨
+@cast SIMKUS | Rūta Šimkus · 리투아니아 외무차관 (47)
+@cast GUDAITE | Aistė Gudaitė · 리투아니아 국경경비대 소령, 비슈티티스 국경 초소장 (가상)
+@cast LEHNERT | 연방총리실장 (58)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@note ※ 지난 화에서 총리실장 Lehnert는 텃밭 오두막에서 팔크와 Sedov의 비공식 채널을 승인했습니다. 팔크는 Sedov가 «계약금»으로 알려 준 5월 말 러시아 훈련 정보를 그날 안으로 빌뉴스에 알리라는 조건을 걸었고, Lehnert는 그러겠다고 했습니다. 그런데 5월 27일 새벽, 수바우키 회랑 서쪽 끝 비슈티티스 호숫가에서 리투아니아 국경경비대원이 총에 맞았습니다. 리투아니아는 칼리닌그라드행 통과 운송을 막았고, 외무차관 Šimkus는 «연방정부를 대변하지 않는 사람»을 빌뉴스로 불렀습니다.
+@note ※ 호칭: 팔크는 Šimkus(«Frau Vizeministerin»), Vaitkus(«Herr Botschafter»), Gudaitė, Lehnert와 Sie를 씁니다. 팔크와 Elisabeth는 du를 씁니다. Vaitkus는 오랜 동료인 Šimkus를 이름(«Rūta»)으로 부릅니다.
+@note ※ 표현 초점: Lücke von Suwałki(수바우키 회랑), Dreiländereck(삼국 접경), Einsatzregeln(교전 규칙), durchgeladen(장전한), Hülse(탄피), Spurensicherung(감식반), zu Konsultationen zurückrufen(협의차 소환하다), Appeasement(유화정책), «über uns ohne uns»(우리 없이 우리에 대해), Blankoscheck(백지수표), Mobilmachung(동원), Automatismus(자동 연쇄), Pfortenbuch(정문 출입 대장), einen Bluff liefern(허세를 실현하다). 접속법 II: «Eine Drohung wäre, wenn ich etwas dafür verlangte.» / «Du klingst, als stündest du am Fenster.» 접속법 I 간접화법: «Prag habe ja zugestimmt.» / «In Vilnius sagt man, Ihre Warnung sei am vierundzwanzigsten angekommen.»
+@history 뮌헨 협정과 유화정책 (1938) — 1938년 9월 29일에서 30일로 넘어가는 밤, 영국 총리 체임벌린, 프랑스 총리 달라디에, 히틀러, 무솔리니가 뮌헨의 «총통관(Führerbau)»에서 체코슬로바키아의 수데텐 지방을 독일에 넘기기로 합의했습니다. 당사국인 체코슬로바키아는 회담에 끼지 못했고, 외교관 두 사람은 레기나 호텔에서 기다리다 새벽에 결과를 통보받았습니다. 체코 사람들은 이를 «우리 없이 우리에 대해(O nás bez nás)»라고 불렀습니다. 체임벌린은 런던으로 돌아와 «우리 시대의 평화»를 선언했지만, 1939년 3월 15일 독일군은 체코 땅의 나머지를 점령했습니다. 이후 «뮌헨»은 독재자에게 양보하면 더 큰 요구를 부른다는 «유화정책»의 교훈을 가리키는 말이 되었습니다.
+@history 메멜 반환 최후통첩 (1939) — 프라하 점령 닷새 뒤인 1939년 3월 20일, 독일 외무장관 리벤트로프는 베를린에 들른 리투아니아 외무장관 유오자스 우르브시스에게 메멜(클라이페다) 지방을 넘기라는 구두 최후통첩을 했습니다. 리투아니아는 3월 22일 조약에 서명했고, 이튿날 히틀러가 메멜에 들어와 시립 극장 발코니에서 연설했습니다. 리투아니아 사람들에게 뮌헨은 남의 이야기가 아니라 «먼저 남들, 그다음 우리»의 시작이었습니다.
+@history 1914년 7월 위기 — 1914년 6월 28일 사라예보에서 가브릴로 프린치프가 오스트리아 황태자 부부를 쏘았습니다. 독일은 7월 5~6일 오스트리아–헝가리에 무조건 지원을 약속하는 이른바 «백지수표»를 주었고, 7월 23일 오스트리아의 최후통첩, 26일 영국 외무장관 에드워드 그레이의 4대국 회의 제안(독일 거부), 28일 대세르비아 선전포고, 30일 러시아 총동원, 8월 1일 독일의 대러시아 선전포고가 잇따랐습니다. 동원 계획과 철도 시간표가 정치적 판단보다 빨리 움직였다는 점에서, 역사가 크리스토퍼 클라크는 당시 지도자들을 «몽유병자들»이라고 불렀습니다.
+@history 수바우키 회랑과 1991년 1월 — 수바우키 회랑은 러시아의 칼리닌그라드주와 벨라루스 사이, 폴란드와 리투아니아가 맞닿은 직선거리 약 65킬로미터의 띠입니다. 발트 3국이 육로로 나머지 NATO와 이어지는 길은 이곳의 도로 둘과 철도 하나뿐이어서 NATO의 «아킬레스건»으로 불립니다. 1990년 3월 11일 독립을 선언한 리투아니아에서는 1991년 1월 13일 소련군이 빌뉴스 TV 송신탑을 점령하며 비무장 시민 14명이 숨졌습니다. 시민들은 최고회의(지금의 세이마스) 앞에 콘크리트 블록과 모래주머니로 바리케이드를 쌓고 밤새 노래하며 의회를 지켰고, 그 잔해 일부는 지금도 기념물로 남아 있습니다.
+@preview 3부 4화 — «Die Schlafwandler»(몽유병자들) — 위기의 밤. 일곱 시까지 지킬 수 없는 약속을 한 팔크는 Sedov, Hale, Claire에게 차례로 전화해 시간을 벌려고 저마다 다른 허세를 부린다. 1914년 독일의 «백지수표»가 그날 밤 내내 그의 귀에 맴돈다.
+
+== 도입 — ANKUNFT IN VILNIUS
+VAITKUS: Herr Falk. Kein Fahrer, kein Fähnchen am Wagen, ein Botschafter, der selbst fährt. So sieht es aus, wenn Litauen jemanden abholt, den es offiziell nicht empfängt.
+> 팔크 씨. 운전기사도 없고 차에 깃발도 없고, 대사가 직접 운전합니다. 리투아니아가 공식적으로는 맞이하지 않는 사람을 데리러 오면 이런 모습이죠.
+FALK: Herr Botschafter. Ich dachte, Sie wären in Berlin.
+> 대사님. 베를린에 계신 줄 알았습니다.
+VAITKUS: Seit gestern Abend zu Konsultationen zurückgerufen, wegen der Übung, zum zweiten Mal in diesem Frühjahr. Meine Frau meint, ich sollte mir in Vilnius eine Zahnbürste hinlegen. Steigen Sie ein, die Vizeministerin wartet nicht gern.
+> 어젯밤에 협의차 소환됐습니다. 훈련 때문에요. 올봄에만 두 번째죠. 아내는 빌뉴스에 칫솔을 하나 갖다 두라더군요. 타세요. 차관님은 기다리는 걸 싫어합니다.
+FALK: Wie geht es dem Grenzbeamten?
+> 그 국경경비대원은 좀 어떻습니까?
+VAITKUS: Mantas Kazlauskas, sechsundzwanzig, aus Vištytis selbst, er patrouilliert praktisch vor seinem Elternhaus. Durchschuss an der Schulter, heute Morgen in Marijampolė operiert. Er wird den Arm behalten, sagen die Ärzte.
+> 만타스 카즐라우스카스, 스물여섯, 바로 그 비슈티티스 출신이에요. 사실상 자기 부모님 집 앞을 순찰하는 셈이죠. 어깨 관통상이고 오늘 아침 마리얌폴레에서 수술받았습니다. 팔은 지킬 수 있을 거라고 의사들이 그러더군요.
+FALK: Und Moskau?
+> 모스크바는요?
+VAITKUS: Moskau spricht von einer «litauischen Provokation im Zusammenhang mit Schmugglern» und davon, dass die Übung planmäßig weiterläuft. Planmäßig heißt: zwölf Kilometer vom Dreiländereck entfernt, in der Rominter Heide, mit Artillerie.
+> 모스크바는 «밀수꾼과 관련된 리투아니아의 도발»이라면서 훈련은 계획대로 계속된다고 합니다. 계획대로라는 건, 삼국 접경에서 12킬로미터 떨어진 로민텐 숲에서 포병까지 끼고 한다는 거죠.
+FALK: Und hier? Was will Ihre Regierung tun?
+> 여기는요? 정부는 뭘 하려고 합니까?
+VAITKUS: Das wird Ihnen Frau Šimkus sagen. Ich sage Ihnen nur, was in den Fluren geflüstert wird: Der Verteidigungsminister will die Einsatzregeln ändern. Wer auf unsere Leute schießt, bekommt ab morgen eine Antwort, ohne Rückfrage in Vilnius.
+> 그건 시므쿠스 차관님이 말씀하실 겁니다. 전 복도에서 수군대는 말만 전하죠. 국방장관이 교전 규칙을 바꾸고 싶어 합니다. 내일부터는 우리 사람한테 총을 쏘면 빌뉴스에 묻지 않고 바로 응사하게요.
+FALK: Ein Schuss als Antwort auf einen Schuss. An einer Grenze, hinter der neuntausend Mann üben.
+> 총 한 발에 총 한 발로 답한다. 그 너머에서 9천 명이 훈련 중인 국경에서.
+VAITKUS: Sie sagen das, als wäre es Wahnsinn. Hier sagen es viele, als wäre es Würde. Darf ich Ihnen einen Rat geben, Herr Falk, nicht als Botschafter, sondern als jemand, der Ihnen im März kein Wort geglaubt hat?
+> 당신은 그게 미친 짓인 것처럼 말하는군요. 여기선 그게 존엄인 것처럼 말하는 사람이 많습니다. 조언 하나 해도 될까요, 팔크 씨? 대사로서가 아니라, 3월에 당신 말을 한마디도 안 믿었던 사람으로서요.
+FALK: Bitte.
+> 하세요.
+VAITKUS: Sie wird Ihnen eine Frage stellen, und die Antwort kennt sie schon zur Hälfte. Antworten Sie nicht schnell und nicht schön. Rūta hat in Bonn studiert und sammelt die Reden deutscher Politiker wie andere Leute Briefmarken.
+> 차관님이 질문을 하나 할 텐데, 답은 이미 절반쯤 알고 있을 겁니다. 빨리 답하지도, 예쁘게 답하지도 마세요. 루타는 본에서 공부했고, 남들이 우표 모으듯 독일 정치인 연설을 모으는 사람이거든요.
+FALK: Und die andere Hälfte der Antwort?
+> 나머지 절반은요?
+VAITKUS: Die lag seit gestern Nachmittag in meiner Aktentasche. Ich habe sie in Berlin bekommen und heute früh Frau Šimkus gegeben. Was drin ist, soll sie Ihnen selbst zeigen.
+> 그건 어제 오후부터 제 서류 가방에 있었습니다. 베를린에서 받아서 오늘 아침 시므쿠스 차관님께 드렸어요. 뭐가 들었는지는 차관님이 직접 보여 드릴 겁니다.
+FALK: Ein Umschlag?
+> 봉투입니까?
+VAITKUS: Mit Umschlägen kennen Sie sich aus, habe ich gehört. … Da vorn ist unser Ministerium. Ich halte am Hintereingang, nicht vor dem Portal mit den Kameras.
+> 봉투라면 일가견이 있으시다고 들었습니다. …저 앞이 우리 외무부예요. 카메라 있는 정문 말고 뒷문에 세우겠습니다.
+FALK: Herr Vaitkus, Ihr Vater hat im Januar 1991 Sandsäcke getragen. Wo genau?
+> 바이트쿠스 대사님, 아버님이 1991년 1월에 모래주머니를 나르셨다고 하셨죠. 정확히 어디서였습니까?
+VAITKUS: Vor dem Obersten Rat, dem heutigen Seimas, drei Nächte lang. Ein paar der Betonblöcke stehen noch dort, man hat sie als Denkmal stehen lassen. Warum fragen Sie?
+> 최고회의 앞에서요. 지금의 세이마스죠. 사흘 밤 내내요. 그 콘크리트 블록 몇 개는 아직 거기 있습니다. 기념물로 남겨 뒀어요. 왜 물으십니까?
+FALK: Weil ich heute Abend vielleicht einen Ort brauche, an dem man in diesem Land keine schönen Sätze sagt.
+> 오늘 저녁에, 이 나라에서 예쁜 말은 안 하는 장소가 필요할지도 몰라서요.
+
+== 장면 1 — ÜBER UNS OHNE UNS
+SIMKUS: Herr Falk. Setzen Sie sich nicht, wir bleiben heute stehen. In einer Stunde habe ich den Minister, in zwei Stunden die Presse und morgen früh um acht den Rat für Staatsverteidigung. Sie haben die Zeit dazwischen.
+> 팔크 씨. 앉지 마세요. 오늘은 서서 얘기합니다. 한 시간 뒤엔 장관, 두 시간 뒤엔 기자들, 내일 아침 여덟 시엔 국가방위위원회예요. 당신 몫은 그 사이 시간입니다.
+FALK: Frau Vizeministerin. Ich bin als Privatmann hier, ohne Mandat, ohne Dienstausweis, mit einem Ticket, das ich selbst bezahlt habe.
+> 차관님. 저는 개인 자격으로 왔습니다. 위임도 공무원증도 없고, 비행기표는 제 돈으로 샀습니다.
+SIMKUS: Genau deshalb sind Sie hier. Einem Mandat muss ich glauben, einem Privatmann nicht. Also, ganz privat: Seit wann wusste Berlin, dass diese Übung größer ist als gemeldet und näher an der Lücke?
+> 그래서 오신 거예요. 위임받은 사람 말은 믿어야 하지만 개인 말은 안 믿어도 되니까. 그럼 아주 개인적으로 묻죠. 베를린은 이 훈련이 신고보다 크고 회랑에 더 가깝다는 걸 언제부터 알았습니까?
+FALK: «Berlin» ist ein großes Wort. Darf ich für mich selbst antworten?
+> «베를린»이라니 큰 말이네요. 제 얘기만 해도 되겠습니까?
+SIMKUS: Sie dürfen anfangen, wo Sie wollen. Wo Sie aufhören, entscheide ich.
+> 어디서 시작하든 좋아요. 어디서 끝낼지는 제가 정하죠.
+FALK: Ich persönlich habe am neunten Mai davon gehört, als Hinweis aus einer Quelle, die ich Ihnen nicht nennen werde. Am Tag darauf habe ich darauf bestanden, dass Vilnius es noch am selben Tag erfährt.
+> 저 개인은 5월 9일에 들었습니다. 이름을 밝히지 않을 출처한테서, 귀띔으로요. 그리고 다음 날, 빌뉴스가 그날 안으로 알아야 한다고 고집했습니다.
+SIMKUS: Bei wem haben Sie darauf bestanden?
+> 누구한테 고집했는데요?
+FALK: Bei jemandem, der es mir zugesagt hat.
+> 그러겠다고 저한테 약속한 사람한테요.
+SIMKUS: Das war schön gesagt, und der Botschafter hat Sie sicher gewarnt. Die Warnung, Herr Falk, kam am Montag, dem vierundzwanzigsten Mai, um einundzwanzig Uhr vierzig aus dem Kanzleramt ins Büro unseres Premierministers. Am Abend, bevor die Übung begann.
+> 예쁘게 말씀하시네요. 대사가 분명 경고했을 텐데요. 경고는요, 팔크 씨, 5월 24일 월요일 밤 아홉 시 40분에 독일 총리실에서 우리 총리실로 왔습니다. 훈련이 시작되기 전날 밤에요.
+FALK: Am vierundzwanzigsten?
+> 24일이요?
+SIMKUS: Sie wirken überrascht. Entweder sind Sie ein sehr guter Schauspieler, oder jemand hat Ihr Versprechen vierzehn Tage lang in einer Schublade liegen lassen.
+> 놀라신 것 같네요. 당신이 아주 훌륭한 배우거나, 아니면 누군가 당신 약속을 2주 동안 서랍에 넣어 뒀거나.
+FALK: Ich bin kein guter Schauspieler. Das sagt mir meine Frau seit fünfzehn Jahren.
+> 전 좋은 배우가 못 됩니다. 아내가 15년째 하는 말이에요.
+SIMKUS: Dann gratuliere ich Ihnen zu Ihrer Frau und kondoliere Ihnen zu Ihrer Regierung. Wissen Sie, woran ich heute Nacht um vier gedacht habe, als man mich geweckt hat? An ein Hotel in München.
+> 그럼 부인은 축하드리고 정부는 위로드리죠. 오늘 새벽 네 시에 저를 깨웠을 때 제가 무슨 생각을 했는지 아세요? 뮌헨의 어느 호텔이요.
+FALK: Das Regina.
+> 레기나 호텔.
+SIMKUS: Sie kennen es. Die Nacht vom neunundzwanzigsten auf den dreißigsten September 1938: Chamberlain, Daladier, Hitler und Mussolini sitzen im Führerbau und verteilen die Tschechoslowakei. Die beiden tschechoslowakischen Diplomaten warten im Hotel Regina und dürfen das Ergebnis gegen zwei Uhr morgens abholen wie ein Paket.
+> 아시는군요. 1938년 9월 29일에서 30일로 넘어가는 밤. 체임벌린, 달라디에, 히틀러, 무솔리니가 총통관에 앉아서 체코슬로바키아를 나눠 갖죠. 체코슬로바키아 외교관 두 사람은 레기나 호텔에서 기다리다가 새벽 두 시쯤 결과를 받아 가요. 소포처럼.
+FALK: «Über uns ohne uns.» So haben die Tschechen es genannt.
+> «우리 없이 우리에 대해.» 체코 사람들은 그렇게 불렀죠.
+SIMKUS: Und so nenne ich, was seit dem neunten Mai geschehen ist. Mitte Mai hat Berlin uns gebeten, in Kybartai nur noch Stichproben zu machen, als Geste, und wir haben es getan, weil man Berlin in diesem Frühjahr gern einen Gefallen tut. Jetzt erfahre ich, dass vorher in Berlin über unsere Züge gesprochen wurde, mit wem auch immer.
+> 그리고 5월 9일 이후 벌어진 일을 저는 그렇게 부르겠어요. 5월 중순에 베를린이 키바르타이에서 표본 검사만 해 달라고 부탁했죠. 성의 표시로. 우린 해 줬어요. 올봄엔 베를린 부탁이면 기꺼이 들어주니까. 그런데 이제 와서 알게 됐네요. 그 전에 베를린에서, 누구랑인지는 몰라도, 우리 열차 얘기가 오갔다는 걸.
+FALK: Die Stichproben waren Ihre Entscheidung. Niemand hat Vilnius etwas aufgezwungen.
+> 표본 검사는 리투아니아가 결정한 겁니다. 누구도 빌뉴스에 강요하지 않았어요.
+SIMKUS: Das hat Chamberlain auch gesagt: Prag habe ja zugestimmt. Man hatte Prag nur vorher erklärt, dass es allein bleibt, wenn es nicht zustimmt.
+> 체임벌린도 그렇게 말했죠. 프라하도 동의했다고. 동의하지 않으면 혼자 남는다고 미리 설명해 줬을 뿐이고요.
+FALK: Niemand hat Ihnen gedroht, Frau Šimkus. Und niemand verteilt hier Land.
+> 아무도 차관님을 위협하지 않았습니다, 시므쿠스 차관님. 그리고 여기서 땅을 나눠 주는 사람도 없고요.
+SIMKUS: Noch nicht. In München ging es auch nicht um Land, sondern um Frieden, «peace for our time», am nächsten Tag vor der Downing Street. Keine sechs Monate später stand die Wehrmacht in Prag.
+> 아직은요. 뮌헨에서도 땅이 아니라 평화가 문제였어요. «우리 시대의 평화». 다음 날 다우닝가 앞에서요. 여섯 달도 안 돼서 독일군은 프라하에 있었죠.
+FALK: Am fünfzehnten März 1939.
+> 1939년 3월 15일.
+SIMKUS: Und eine Woche später war Memel deutsch. Ribbentrop hat unseren Außenminister Urbšys, der auf der Durchreise in Berlin war, zu sich bestellt und ihm ein Ultimatum vorgelesen, und am dreiundzwanzigsten März stand Hitler auf dem Balkon des Stadttheaters von Klaipėda. Diese Reihenfolge kennen wir besser als die Briten, Herr Falk: erst die anderen, dann wir.
+> 그리고 일주일 뒤엔 메멜이 독일 땅이 됐어요. 리벤트로프가 마침 베를린을 지나던 우리 외무장관 우르브시스를 불러서 최후통첩을 읽어 줬고, 3월 23일엔 히틀러가 클라이페다 시립 극장 발코니에 서 있었죠. 이 순서는 우리가 영국 사람들보다 잘 알아요, 팔크 씨. 먼저 남들, 그다음 우리.
+FALK: Ich bin Deutscher. Ich werde Ihnen Memel nicht erklären.
+> 전 독일 사람입니다. 메멜을 차관님께 설명하진 않겠습니다.
+SIMKUS: Gut, denn ich erkläre es Ihnen. Appeasement beginnt nicht mit Verrat, sondern mit einer Geste: Stichproben statt jedes Waggons, ein Beobachter statt einer Brigade, ein Kanal statt eines Vertrags. Und am Ende sitzt der Kleine im Hotel und wartet auf sein Paket.
+> 좋아요. 제가 설명할 테니까. 유화정책은 배신으로 시작하지 않아요. 성의 표시로 시작하죠. 모든 칸 대신 표본 검사, 여단 대신 참관인 한 명, 조약 대신 채널 하나. 그리고 끝에는 작은 나라가 호텔에 앉아 자기 소포를 기다리는 거예요.
+FALK: Sie haben «Kanal» gesagt.
+> 방금 «채널»이라고 하셨죠.
+SIMKUS: Habe ich das? Dann hören Sie gut zu, das ist eine Tugend. … Ich frage Sie noch einmal, und diesmal privat bis auf die Knochen: Haben Sie mit Moskau über litauische Züge gesprochen, bevor Litauen davon wusste?
+> 그랬나요? 그럼 잘 들으시는 거네요. 미덕이죠. …다시 묻겠습니다. 이번엔 뼛속까지 개인적으로요. 리투아니아가 알기도 전에 모스크바랑 리투아니아 열차 얘기를 했습니까?
+FALK: Ich habe mir angehört, was Moskau über litauische Züge zu sagen hatte. Und ich habe jedes Mal gesagt, dass nichts ohne Vilnius geschieht.
+> 모스크바가 리투아니아 열차에 대해 하는 말을 들었습니다. 그리고 매번, 빌뉴스 없이는 아무 일도 없다고 말했습니다.
+SIMKUS: Diesen Satz hat Chamberlain auf dem Rückflug geübt. … Tomas, holen Sie bitte die Karte. Herr Falk soll sehen, worüber er sich etwas angehört hat.
+> 그건 체임벌린이 돌아오는 비행기에서 연습한 문장이네요. …토마스, 지도 좀 가져와요. 팔크 씨가 자기가 뭘 두고 얘기를 들었는지 보셔야겠어요.
+VAITKUS: Die große oder die mit den Bataillonen?
+> 큰 거요, 아니면 대대 표시된 거요?
+
+== 장면 2 — DIE LÜCKE
+SIMKUS: Die mit den Bataillonen. Sehen Sie her, Herr Falk: links Kaliningrad, rechts Belarus, dazwischen fünfundsechzig Kilometer Luftlinie über die polnisch-litauische Grenze. Das ist die Lücke von Suwałki, benannt nach einer polnischen Kleinstadt, die nie berühmt werden wollte.
+> 대대 표시된 거요. 보세요, 팔크 씨. 왼쪽이 칼리닌그라드, 오른쪽이 벨라루스, 그 사이에 폴란드–리투아니아 국경을 따라 직선거리 65킬로미터. 이게 수바우키 회랑이에요. 유명해지고 싶었던 적 없는 폴란드 소도시 이름을 땄죠.
+FALK: Ich kenne die Karte, Frau Vizeministerin. Sie lag bei jeder Bernstein-Runde auf dem Tisch.
+> 그 지도는 압니다, 차관님. 베른슈타인 회의 때마다 책상에 있었으니까요.
+SIMKUS: Sie kennen sie von oben, ich kenne sie von unten. Zwei Straßen und eine Bahnlinie, mehr verbindet die baltischen Staaten auf dem Landweg nicht mit dem Rest der NATO. Wer diese fünfundsechzig Kilometer schließt, hat drei Länder in der Tasche.
+> 당신은 위에서 알고, 저는 아래에서 알아요. 도로 둘, 철도 하나. 발트 3국이 육로로 나머지 NATO와 이어지는 건 그게 전부예요. 이 65킬로미터를 막는 사람은 세 나라를 주머니에 넣는 거죠.
+FALK: Und der Vištytis-See liegt am westlichen Ende.
+> 그리고 비슈티티스 호수는 서쪽 끝에 있고요.
+SIMKUS: Genau am Dreiländereck, wo Litauen, Polen und Russland sich an einem Grenzstein unweit des Ufers treffen. Ich verbinde Sie mit der Frau, die heute Nacht dort war. Major Gudaitė, hören Sie mich?
+> 정확히 삼국 접경이죠. 리투아니아, 폴란드, 러시아가 호숫가 근처 경계석 하나에서 만나는 곳. 오늘 밤 거기 있었던 사람을 연결해 드릴게요. 구다이테 소령, 들려요?
+GUDAITE: Laut und deutlich, Frau Vizeministerin. Ich stehe hundert Meter vom Grenzstein entfernt, es regnet seit sechs Uhr, und hinter mir sucht die Spurensicherung zum dritten Mal dasselbe Gras ab.
+> 크고 또렷하게 들립니다, 차관님. 경계석에서 백 미터 떨어진 곳이고, 여섯 시부터 비가 옵니다. 뒤에선 감식반이 같은 풀밭을 세 번째로 뒤지고 있고요.
+SIMKUS: Das ist Herr Falk aus Berlin. Er ist nicht hier, verstehen Sie, aber er darf alles hören.
+> 이분은 베를린에서 온 팔크 씨예요. 여기 없는 사람이에요, 아시겠죠. 하지만 다 들어도 돼요.
+GUDAITE: Verstanden. Kazlauskas war mit einem Kollegen auf dem Uferpfad, um drei Uhr zwanzig fiel ein einzelner Schuss. Mündungsfeuer hat keiner gesehen, aber kurz davor hat der Kollege eine Drohne gehört, tief, über dem polnischen Wald.
+> 알겠습니다. 카즐라우스카스는 동료 한 명과 호숫가 오솔길에 있었고, 세 시 20분에 총성이 딱 한 번 났습니다. 총구 화염은 아무도 못 봤는데, 그 직전에 동료가 드론 소리를 들었답니다. 낮게, 폴란드 쪽 숲 위에서요.
+FALK: Ein einzelner Schuss? Kein Feuergefecht?
+> 단 한 발이요? 교전은 없었고요?
+GUDAITE: Keins. Unsere Leute haben nicht zurückgeschossen, sie wussten nicht, wohin. Wir haben eine Hülse gefunden, Kaliber 7,62 mal 54, russisch, aber auf unserer Seite, vierzig Meter hinter der Stelle, an der Kazlauskas lag.
+> 없었습니다. 우리 대원들은 응사하지 않았어요. 어디로 쏴야 할지 몰랐으니까요. 탄피 하나를 찾았습니다. 7.62×54 러시아 구경인데, 우리 쪽에서요. 카즐라우스카스가 쓰러진 자리에서 40미터 뒤에서.
+FALK: Hinter ihm?
+> 그 사람 뒤에서요?
+GUDAITE: Hinter ihm, auf litauischem Boden. Entweder ist jemand über die Grenze gekommen, hat geschossen und ist wieder verschwunden, oder jemand will, dass wir genau das glauben. Mit 7,62 mal 54 schießt hier übrigens auch jeder zweite Jäger.
+> 뒤에서요. 리투아니아 땅에서. 누가 국경을 넘어와서 쏘고 사라졌거나, 아니면 우리가 딱 그렇게 믿기를 바라는 누군가가 있거나죠. 그리고 7.62×54는 이 동네 사냥꾼 둘 중 하나가 쓰는 탄입니다.
+SIMKUS: Major, sagen Sie Herrn Falk, was Ihre Leute heute Morgen von Ihnen verlangt haben.
+> 소령, 오늘 아침 대원들이 뭘 요구했는지 팔크 씨한테 말해 줘요.
+GUDAITE: Durchgeladene Waffen auf Streife und das Recht zu schießen, ohne vorher zu fragen. Ich habe Nein gesagt, bis Vilnius entscheidet. Ich weiß nicht, wie lange die Jungs mir das noch abnehmen.
+> 순찰할 때 장전한 총, 그리고 묻지 않고 쏠 권리요. 빌뉴스가 결정할 때까지는 안 된다고 했습니다. 애들이 그 말을 언제까지 들어 줄지는 모르겠습니다.
+SIMKUS: Danke, Major. Halten Sie bis morgen früh durch. … Sie haben es gehört, Herr Falk. Der Verteidigungsminister will ihnen dieses Recht morgen um acht geben, und ich soll im Rat sagen, ob ich dafür bin.
+> 고마워요, 소령. 내일 아침까지만 버텨 줘요. …들으셨죠, 팔크 씨. 국방장관은 내일 여덟 시에 대원들한테 그 권리를 주고 싶어 해요. 그리고 저는 위원회에서 찬성인지 말해야 하고요.
+FALK: Und sind Sie dafür?
+> 그럼 찬성하십니까?
+SIMKUS: Nach München hat man den Tschechen vorgeworfen, dass sie nicht geschossen haben, mit ihren Festungen und ihrer guten Armee. Und im Juni 1940, als die Rote Armee kam, haben wir selbst keinen einzigen Schuss abgegeben. Mein Großvater hat das sein Leben lang als Warnung erzählt.
+> 뮌헨 뒤에 사람들은 체코인들이 총을 쏘지 않았다고 비난했어요. 요새도 있고 좋은 군대도 있었는데. 그리고 1940년 6월, 붉은 군대가 들어올 때 우리도 한 발도 쏘지 않았죠. 할아버지는 평생 그 얘기를 경고로 하셨어요.
+FALK: Darf ich Ihnen ein anderes Jahr anbieten? Eines, in dem zu früh geschossen wurde?
+> 다른 해를 하나 말씀드려도 될까요? 너무 일찍 총을 쏜 해요.
+SIMKUS: 1914. Darauf habe ich gewartet. Jeder Deutsche, der München nicht hören will, kommt mit 1914.
+> 1914년. 기다리고 있었어요. 뮌헨 얘기를 듣기 싫은 독일 사람은 다 1914년을 들고 오죠.
+FALK: Weil wir beide Jahre zu verantworten haben, nicht nur eines. Achtundzwanzigster Juni, ein Schuss in Sarajevo, genau genommen zwei. Fünf Wochen später marschieren Armeen nach Fahrplänen, die seit Jahren in den Schubladen der Generalstäbe lagen.
+> 두 해 모두 우리가 책임져야 하니까요. 하나가 아니라. 6월 28일, 사라예보에서 총 한 발. 정확히는 두 발이죠. 5주 뒤엔 군대들이 행진합니다. 몇 년째 참모본부 서랍에 들어 있던 시간표대로.
+SIMKUS: Und Berlin hat Wien am fünften Juli einen Blankoscheck ausgestellt. Das war kein Fahrplan, Herr Falk, das war ein Wille, mit Unterschrift.
+> 그리고 베를린은 7월 5일에 빈에 백지수표를 써 줬죠. 그건 시간표가 아니었어요, 팔크 씨. 의지였어요. 서명까지 한.
+FALK: Ja. Und deshalb weiß ich, wie ein Blankoscheck aussieht: Man sagt einem Verbündeten, er solle tun, was er für richtig hält, man stehe hinter ihm, was auch immer komme. Genau den will Ihr Verteidigungsminister heute seinen Grenzposten ausstellen, und morgen verlangt er ihn von uns.
+> 네. 그래서 전 백지수표가 어떻게 생겼는지 압니다. 동맹한테 옳다고 생각하는 대로 하라고, 무슨 일이 있어도 뒤에 서 있겠다고 말하는 거죠. 차관님네 국방장관이 오늘 국경 초소에 써 주려는 게 바로 그거고, 내일은 우리한테 그걸 요구하겠죠.
+SIMKUS: Sie vergleichen Litauen mit Österreich-Ungarn? Mit einem Imperium, das einen Kleinstaat bestrafen wollte?
+> 리투아니아를 오스트리아–헝가리에 비교하는 거예요? 작은 나라를 혼내 주고 싶어 했던 제국에?
+FALK: Ich vergleiche einen Mechanismus, kein Land. 1914 hat sich jeder Generalstab gesagt: Wer zuerst mobilisiert, gewinnt. Am dreißigsten Juli machte Russland mobil, am ersten August erklärte Deutschland Russland den Krieg, und niemand hatte mehr Zeit für die einfachste Frage: Wer hat eigentlich geschossen, und warum?
+> 저는 나라가 아니라 구조를 비교하는 겁니다. 1914년엔 참모본부마다 먼저 동원하는 쪽이 이긴다고 생각했죠. 7월 30일 러시아가 총동원했고, 8월 1일 독일이 러시아에 선전포고했고, 가장 단순한 질문을 던질 시간은 아무한테도 없었어요. 대체 누가, 왜 쏜 거냐는 질문.
+SIMKUS: In Sarajevo wusste man, wer geschossen hat. Princip stand mit der Pistole auf der Straße.
+> 사라예보에선 누가 쐈는지 알았잖아요. 프린치프가 권총 들고 길에 서 있었으니까.
+FALK: Und am Vištytis-See liegt eine russische Hülse auf litauischem Boden, vierzig Meter hinter einem Mann mit Durchschuss. Wenn Ihre Grenzer morgen zurückschießen, auf wen? Auf eine Drohne, auf den polnischen Wald, auf neuntausend Mann in der Rominter Heide?
+> 그런데 비슈티티스 호숫가엔 리투아니아 땅에 러시아 탄피가 떨어져 있죠. 관통상 입은 사람 40미터 뒤에. 내일 대원들이 응사한다면 누구한테 쏩니까? 드론한테? 폴란드 숲한테? 로민텐 숲의 9천 명한테?
+SIMKUS: Sie reden, als wären kleine Länder Schlafwandler. Kleine Länder schlafwandeln nicht, Herr Falk. Über sie laufen die Schlafwandler hinweg.
+> 작은 나라들이 몽유병자라도 되는 것처럼 말씀하시네요. 작은 나라는 잠결에 걷지 않아요, 팔크 씨. 몽유병자들이 작은 나라를 밟고 지나가는 거죠.
+FALK: Dann seien Sie diesmal die Einzige, die wach ist. Wer jetzt automatisch handelt, und sei es aus Würde, spielt das Drehbuch eines anderen.
+> 그럼 이번엔 차관님이 유일하게 깨어 있는 사람이 되십시오. 지금 자동으로 움직이는 사람은, 그게 존엄 때문이라 해도, 남이 쓴 각본대로 연기하는 겁니다.
+SIMKUS: Das Drehbuch eines anderen. Interessant, dass ausgerechnet Sie von Drehbüchern sprechen. … Tomas, den Umschlag bitte.
+> 남이 쓴 각본이라. 하필 당신이 각본 얘기를 꺼내다니 흥미롭네요. …토마스, 그 봉투 줘요.
+VAITKUS: Hier. Ich habe ihn gestern Nachmittag an der Pforte der Botschaft in Berlin bekommen, Fahrradkurier, ohne Absender. Ich hielt ihn für das übliche Gift, das wir jede Woche bekommen.
+> 여기요. 어제 오후 베를린 대사관 정문에서 받았습니다. 자전거 퀵이었고, 발신인은 없었어요. 매주 받는 흔한 독설 편지인 줄 알았죠.
+
+== 장면 3 — EIN UMSCHLAG VOM MITTWOCH
+SIMKUS: Erkennen Sie das, Herr Falk? Eine Bank an der Spree, im Hintergrund ein Pavillon aus Glas und Stahl, links Sie, rechts ein Hinterkopf. Auf der Rückseite steht ein Datum: neunter Mai, zehn Uhr zwölf.
+> 알아보시겠어요, 팔크 씨? 슈프레 강가 벤치, 뒤에 유리와 철로 된 건물, 왼쪽에 당신, 오른쪽엔 뒤통수 하나. 뒷면에 날짜가 있네요. 5월 9일, 열 시 12분.
+FALK: Der Tränenpalast. … Das Bild kenne ich. Ich wusste nur nicht, dass es mehr als einen Abzug gibt.
+> 눈물의 궁전이네요. …이 사진은 압니다. 한 장보다 많이 뽑힌 줄은 몰랐을 뿐이죠.
+SIMKUS: Und das hier lag dabei, mit der Schreibmaschine geschrieben: «Fragen Sie Herrn Falk, worüber er am Tag des Sieges mit Moskau gesprochen hat. Und wer es in Berlin seitdem gewusst hat.»
+> 그리고 이게 같이 들어 있었어요. 타자기로 친 거예요. «팔크 씨에게 전승기념일에 모스크바와 무슨 얘기를 했는지 물어보십시오. 그리고 그 뒤로 베를린에서 누가 그걸 알고 있었는지도.»
+FALK: Darf ich? … Das «g» springt. Sehen Sie, in «Fragen» und in «gesprochen» steht es jedes Mal ein wenig über der Zeile.
+> 봐도 될까요? …«g»가 튀네요. 보세요, «Fragen»에서도 «gesprochen»에서도 매번 줄보다 살짝 위에 있어요.
+SIMKUS: Das ist Ihre Antwort? Ein Buchstabe?
+> 그게 대답이에요? 글자 하나?
+FALK: Das ist meine erste Antwort. Diese Maschine hat mir im März die Akte meines Vaters angekündigt und im Mai den Artikel, nach dem er zusammengebrochen ist. Wer auf ihr schreibt, will niemanden informieren, sondern jemanden irgendwohin schieben.
+> 첫 번째 대답입니다. 이 타자기가 3월엔 제 아버지 파일을 예고했고, 5월엔 아버지를 쓰러지게 한 기사를 알려 왔어요. 이걸로 글을 쓰는 사람은 누구한테 뭘 알려 주려는 게 아니라, 누군가를 어딘가로 밀어 넣으려는 겁니다.
+SIMKUS: Und wohin, glauben Sie, will er Sie hier schieben?
+> 그럼 여기선 당신을 어디로 밀어 넣으려는 것 같은데요?
+FALK: Nicht mich. Sie. Gestern Nachmittag, sagten Sie, Herr Vaitkus. Wann genau?
+> 저 말고요. 차관님을요. 어제 오후라고 하셨죠, 바이트쿠스 대사님. 정확히 언제였습니까?
+VAITKUS: Sechzehn Uhr fünf, so steht es im Pfortenbuch.
+> 네 시 5분입니다. 정문 출입 대장에 그렇게 적혀 있어요.
+FALK: Gut zehn Stunden, bevor am Vištytis-See ein Schuss fiel. Jemand hat dafür gesorgt, dass Vilnius dieses Bild schon in der Hand hält, wenn es aufwacht und hört, dass auf seine Leute geschossen wurde.
+> 비슈티티스 호숫가에서 총성이 나기 열 시간 남짓 전이네요. 누군가가, 빌뉴스가 잠에서 깨어 자기 사람이 총에 맞았다는 소식을 들을 때 이 사진이 이미 손에 들려 있도록 해 둔 겁니다.
+SIMKUS: Sie wollen mir sagen, der Absender wusste von dem Schuss?
+> 발신인이 총격을 미리 알았다는 말을 하고 싶은 거예요?
+FALK: Ich sage Ihnen, dass er sehr genau gewählt hat, wann er Sie zornig haben will. Ein Zufall, der so pünktlich ist, ist ein Fahrplan.
+> 차관님을 언제 화나게 할지 아주 정확히 골랐다는 겁니다. 이렇게 시간을 딱 맞춘 우연은 시간표죠.
+SIMKUS: Oder jemand in Berlin wollte sein Gewissen erleichtern, bevor es zu spät war. … Wer ist der Hinterkopf, Herr Falk?
+> 아니면 베를린의 누군가가 너무 늦기 전에 양심의 짐을 덜고 싶었던 거겠죠. …뒤통수는 누굽니까, 팔크 씨?
+FALK: Sie wissen, wer er ist. Sonst hätten Sie mich nicht kommen lassen.
+> 아시잖습니까. 모르셨으면 저를 부르지 않으셨겠죠.
+SIMKUS: Ich will es von Ihnen hören. In Ihrer Sprache, die ich gelernt habe, um zu verstehen, was Deutsche über uns sagen, wenn wir nicht im Raum sind.
+> 당신 입으로 듣고 싶어요. 우리가 방에 없을 때 독일 사람들이 우리에 대해 뭐라고 하는지 알아들으려고 배운, 당신네 언어로요.
+FALK: Viktor Sedov, Gesandter der russischen Botschaft. Er hat mir einen stillen Weg angeboten, den Streit um die Züge in Kybartai zu entschärfen, und als Anzahlung diese Übung genannt, größer und näher als gemeldet. Ich habe zugehört und es nach Berlin weitergegeben, mit der Bedingung, dass Sie es sofort erfahren.
+> 빅토르 세도프, 러시아 대사관 공사참사관입니다. 키바르타이 열차 분쟁을 누그러뜨릴 조용한 길을 제안했고, 계약금으로 이 훈련 얘기를 했습니다. 신고보다 크고 더 가깝다고요. 저는 들었고, 베를린에 전했습니다. 차관님 쪽이 바로 알아야 한다는 조건을 붙여서요.
+SIMKUS: An wen in Berlin?
+> 베를린의 누구한테요?
+FALK: Das ist der eine Name, den Sie heute nicht von mir bekommen. Nicht, um ihn zu schützen, sondern weil Sie ihn sonst morgen im Rat nennen, und danach redet in Berlin niemand mehr mit Ihnen.
+> 그게 오늘 제가 드리지 않을 이름 하나입니다. 그 사람을 지키려는 게 아니라, 드리면 내일 위원회에서 그 이름을 대실 테고, 그다음엔 베를린에서 차관님이랑 얘기할 사람이 아무도 없을 테니까요.
+SIMKUS: Sie verschweigen mir einen Namen und verlangen mein Vertrauen. Wissen Sie, wie das in Vilnius klingt?
+> 이름은 숨기면서 신뢰는 달라는 거군요. 그게 빌뉴스에서 어떻게 들리는지 아세요?
+FALK: Wie München. Aber in München ist keiner der vier Herren nach Prag geflogen, um sich fragen zu lassen.
+> 뮌헨처럼 들리겠죠. 하지만 뮌헨에선 그 네 사람 중 누구도 질문을 받으러 프라하로 날아가지 않았습니다.
+SIMKUS: … Das war beinahe ein schöner Satz.
+> …거의 예쁜 문장이었네요.
+FALK: Er war teuer. Ich bin auf eigene Kosten hier.
+> 비싼 문장이었습니다. 제 돈으로 왔으니까요.
+SIMKUS: Dann rechnen wir weiter. Wenn ich dieses Foto morgen um acht auf den Tisch des Rates lege, liegt es um neun bei der Presse, und um zehn ist Bernstein ein Vertrag, den in Litauen niemand mehr unterschreiben will.
+> 그럼 계산을 계속하죠. 이 사진을 내일 여덟 시에 위원회 테이블에 올려놓으면 아홉 시엔 언론에 가 있을 거고, 열 시면 베른슈타인은 리투아니아에서 아무도 서명하고 싶어 하지 않는 조약이 되겠죠.
+FALK: Das ist eine Drohung.
+> 그건 협박이군요.
+SIMKUS: Das ist eine Beschreibung. Eine Drohung wäre, wenn ich etwas dafür verlangte. … Und ich verlange etwas.
+> 그건 묘사예요. 협박이 되려면 제가 대가로 뭘 요구해야죠. …그리고 전 요구할 거예요.
+FALK: Dann sind wir wieder bei meinem Beruf. Was?
+> 그럼 다시 제 직업 얘기네요. 뭡니까?
+SIMKUS: Den Namen der Person, die Ihre Warnung vierzehn Tage hat liegen lassen. Nicht für die Presse. Für mich.
+> 당신 경고를 2주 동안 묵혀 둔 사람의 이름. 언론용 말고요. 저를 위해서.
+FALK: Sie gehen davon aus, dass sie in Berlin liegen geblieben ist.
+> 그게 베를린에서 묵혀졌다고 단정하시는군요.
+SIMKUS: Wo denn sonst?
+> 그럼 어디서요?
+FALK: Das weiß ich noch nicht. Aber ein Mann, der mir etwas zugesagt hat, und ein Büro, das es unter dem vierundzwanzigsten abheftet, können nicht beide die Wahrheit sagen. Gehen Sie mit mir an die frische Luft, Frau Vizeministerin, Ihr Ministerium hat zu viele Türen.
+> 아직은 모릅니다. 하지만 저한테 약속한 사람과, 그걸 24일 날짜로 철해 둔 사무실이 둘 다 진실을 말할 수는 없어요. 바람 좀 쐬러 나가시죠, 차관님. 이 건물엔 문이 너무 많네요.
+
+== 절정 — DIE BETONBLÖCKE
+SIMKUS: Hier haben sie gestanden, im Januar 1991: Betonblöcke, Stacheldraht, Busse quer über der Straße, und dahinter der Oberste Rat mit Landsbergis, der nicht nach Hause ging. Ein paar Blöcke haben wir behalten, mit den Parolen von damals.
+> 1991년 1월, 여기 서 있었어요. 콘크리트 블록, 철조망, 길을 가로막은 버스들, 그리고 그 뒤엔 집에 가지 않던 란즈베르기스와 최고회의. 블록 몇 개는 남겨 뒀어요. 그때 구호가 적힌 채로.
+FALK: Der Botschafter sagt, sein Vater habe hier drei Nächte lang Sandsäcke getragen.
+> 대사님 말로는 아버님이 여기서 사흘 밤 모래주머니를 나르셨다더군요.
+SIMKUS: Sein Vater, mein Bruder, die halbe Stadt. Mein Bruder war sechzehn und stand in der Nacht zum dreizehnten am Fernsehturm, wo vierzehn Menschen unter Panzerketten und Kugeln gestorben sind. Ich war zehn und habe in der Küche Brote für die Barrikaden geschmiert.
+> 그분 아버지, 우리 오빠, 도시의 절반이요. 오빠는 열여섯이었고, 13일로 넘어가는 밤에 TV 송신탑에 있었어요. 열네 명이 탱크 궤도 밑에서, 총알에 죽은 곳이죠. 전 열 살이었고 부엌에서 바리케이드에 갈 빵을 발랐고요.
+FALK: Und haben die Menschen am Fernsehturm zurückgeschossen?
+> 그럼 송신탑 앞 사람들은 응사했습니까?
+SIMKUS: Sie hatten nichts, womit man schießt. Sie haben gesungen und sich an den Händen gehalten.
+> 쏠 게 없었어요. 노래하고 서로 손잡고 있었죠.
+FALK: Und genau deshalb hat Moskau verloren. Moskau brauchte damals ein Bild von bewaffneten Litauern, um von Ordnung reden zu können, und hat keines bekommen. Die Welt hat nur Panzer vor singenden Menschen gesehen.
+> 바로 그래서 모스크바가 진 겁니다. 그때 모스크바는 질서를 들먹이려고 무장한 리투아니아 사람 사진이 필요했는데, 하나도 못 얻었죠. 세상은 노래하는 사람들 앞의 탱크만 봤습니다.
+SIMKUS: Das ist eine sehr westliche Art, unsere Toten zu benutzen.
+> 우리 죽은 사람들을 이용하는 아주 서구적인 방식이네요.
+FALK: Dann benutzen Sie sie selbst, und besser als ich. Eine Hülse auf Ihrer Seite, eine Drohne über dem polnischen Wald, ein Foto, das schon am Nachmittag davor ankam: Jemand braucht heute ein Bild von Litauern, die schießen. Geben Sie es ihm nicht.
+> 그럼 차관님이 직접, 저보다 잘 쓰십시오. 차관님 쪽 땅의 탄피, 폴란드 숲 위의 드론, 전날 오후에 이미 도착한 사진. 누군가 오늘 총 쏘는 리투아니아 사람 사진이 필요한 겁니다. 그걸 주지 마십시오.
+SIMKUS: Und dann? Wir schweigen, die Züge stehen, die Übung läuft, und Berlin telefoniert über unseren Kopf hinweg mit Moskau? Das ist 1938 mit besseren Manieren.
+> 그다음엔요? 우린 입 다물고, 열차는 서 있고, 훈련은 계속되고, 베를린은 우리 머리 위로 모스크바랑 통화하고요? 그건 예의만 좋아진 1938년이에요.
+FALK: Schweigen sollen Sie nicht. Beantragen Sie Konsultationen nach Artikel 4, noch heute, und lassen Sie die Allianz reden, bevor jemand schießt. Am sechsundzwanzigsten Juli 1914 hat Sir Edward Grey eine Konferenz vorgeschlagen, und Berlin hat abgelehnt; das ist unser Anteil an jenem Sommer.
+> 입 다물라는 게 아닙니다. 오늘 안으로 4조 협의를 요청하시고, 누가 쏘기 전에 동맹이 말하게 하십시오. 1914년 7월 26일에 에드워드 그레이 경이 회의를 제안했는데, 베를린이 거절했습니다. 그게 그해 여름 우리 몫의 책임이에요.
+SIMKUS: Artikel 4 haben wir 2014 beantragt und 2022 wieder. Das ist ein Gespräch, Herr Falk, kein Schutzschild.
+> 4조는 2014년에도 요청했고 2022년에 또 했어요. 그건 대화예요, 팔크 씨. 방패가 아니라.
+FALK: Genau darum geht es: Ein Gespräch ist das Gegenteil eines Automatismus. Die Einsatzregeln ändern Sie heute Nacht nicht. Die Transitsperre bleibt, aber Züge mit Medikamenten lassen Sie nach Prüfung durch, damit Moskau keine Bilder von leeren Apotheken in Kaliningrad bekommt.
+> 바로 그게 핵심입니다. 대화는 자동 연쇄의 정반대니까요. 교전 규칙은 오늘 밤엔 바꾸지 마십시오. 통과 운송 봉쇄는 유지하되, 의약품 실은 열차는 검사 뒤에 통과시키세요. 모스크바가 칼리닌그라드의 텅 빈 약국 사진을 얻지 못하게요.
+SIMKUS: Sie verlangen viel für einen Privatmann. Und was bekommt Litauen dafür? Ihr Mitgefühl?
+> 개인치고는 많이도 요구하시네요. 그 대가로 리투아니아는 뭘 받죠? 당신 동정심?
+FALK: Bis morgen früh um sieben bekommen Sie zwei Dinge. Moskau zieht die Einheiten aus der Rominter Heide hinter die Linie zurück, die es selbst gemeldet hat, und Sie bekommen Radardaten über den Schuss, aus einer Quelle, die mehr sieht als Ihre Drohnen.
+> 내일 아침 일곱 시까지 두 가지를 받으실 겁니다. 모스크바가 로민텐 숲의 부대를 자기들이 신고한 선 뒤로 물리고, 차관님은 차관님네 드론보다 많이 보는 출처에서 그 총격의 레이더 자료를 받으실 겁니다.
+SIMKUS: Das können Sie zusagen? Sie, ein suspendierter Beamter mit einem Ticket für die Economy?
+> 그걸 약속할 수 있다고요? 당신이, 이코노미 표 든 직무 정지 공무원이?
+FALK: Ja.
+> 네.
+SIMKUS: Sie haben gezögert, bevor Sie Ja gesagt haben. Eine halbe Sekunde.
+> 네라고 하기 전에 망설이셨어요. 0.5초.
+FALK: Weil ein Ja hier mehr kostet als in Berlin. Wenn ich es nicht liefere, legen Sie das Foto auf den Tisch, und ich werde Ihnen nicht widersprechen.
+> 여기선 «네»가 베를린보다 비싸니까요. 제가 못 해내면 사진을 테이블에 올리십시오. 저는 반박하지 않겠습니다.
+SIMKUS: Und der Name aus Berlin?
+> 베를린의 그 이름은요?
+FALK: Den bekommen Sie, sobald ich weiß, ob er gelogen hat. Nicht vorher, sonst bin ich nicht besser als der Umschlag.
+> 그 사람이 거짓말을 했는지 알게 되는 대로 드리겠습니다. 그 전엔 안 됩니다. 아니면 저도 그 봉투보다 나을 게 없으니까요.
+SIMKUS: … Gut. Ich sage dem Minister, dass wir heute Abend Artikel 4 beantragen, und die Einsatzregeln bleiben bis zum Rat, wie sie sind; Major Gudaitė bekommt es schriftlich. Die Medikamentenzüge prüfe ich, versprechen kann ich sie nicht.
+> …좋아요. 장관께 오늘 저녁 4조를 요청하자고 말하겠어요. 교전 규칙은 위원회 때까지 그대로고, 구다이테 소령한텐 서면으로 내려보낼게요. 의약품 열차는 검토는 하겠지만 약속은 못 해요.
+FALK: Das ist mehr, als Chamberlain je bekommen hat.
+> 그건 체임벌린이 받아 낸 것보다 많네요.
+SIMKUS: Chamberlain hat auch nichts gegeben außer den Tschechen. Sie geben gerade sich selbst, Herr Falk, ich hoffe, Sie wissen das. Um sieben rufe ich Sie an, nicht Sie mich.
+> 체임벌린은 체코인들 말곤 아무것도 내주지 않았죠. 당신은 지금 당신 자신을 내주는 거예요, 팔크 씨. 그걸 아시길 바라요. 일곱 시에 제가 전화할게요. 당신 말고 제가.
+FALK: Das sagen in letzter Zeit viele zu mir.
+> 요즘 저한테 그런 말 하는 사람이 많네요.
+SIMKUS: Dann merken Sie sich, wer es zuerst gesagt hat. Und Herr Falk: Auf diesem Block steht «Laisvė», Freiheit. Mein Bruder hat es mit Schuhcreme geschrieben.
+> 그럼 누가 제일 먼저 그 말을 했는지 기억해 두세요. 그리고 팔크 씨, 이 블록에 적힌 건 «라이스베»예요. 자유. 우리 오빠가 구두약으로 썼죠.
+
+== 마무리 — DREI TELEFONE
+LEHNERT: Auf diesem Gerät rufen Sie mich nur an, wenn es brennt, Herr Falk. In Berlin ist es kurz nach zehn. Brennt es?
+> 이 기계로는 불났을 때만 전화하는 겁니다, 팔크 씨. 베를린은 열 시 조금 넘었어요. 불났습니까?
+FALK: In Vilnius sagt man, Ihre Warnung sei am vierundzwanzigsten Mai um einundzwanzig Uhr vierzig angekommen. Am Abend vor der Übung.
+> 빌뉴스에선 실장님 경고가 5월 24일 밤 아홉 시 40분에 도착했다고 합니다. 훈련 전날 밤에요.
+LEHNERT: Dann sagt man in Vilnius etwas Falsches. Ich habe am zehnten Mai mittags angerufen, persönlich, beim außenpolitischen Berater des Premierministers. Fragen Sie Ihre Vizeministerin, warum ihr eigener Regierungschef vierzehn Tage gebraucht hat, um sein Außenministerium zu informieren.
+> 그럼 빌뉴스가 틀린 말을 하는 겁니다. 전 5월 10일 정오에 직접 전화했어요. 총리 외교 보좌관한테. 그 차관한테 물어보세요. 자기네 총리가 자기네 외무부에 알리는 데 왜 2주가 걸렸는지.
+FALK: Heute früh haben Sie gesagt, Sie seien am zehnten Mai gar nicht in Ihrer Laube gewesen.
+> 오늘 아침엔 5월 10일에 오두막에 있지도 않았다고 하셨잖습니까.
+LEHNERT: Und das stimmt immer noch. Telefonieren kann man auch aus dem Büro. … Was haben Sie ihr versprochen?
+> 그건 여전히 사실이에요. 전화는 사무실에서도 할 수 있으니까. …그 사람한테 뭘 약속했습니까?
+FALK: Einen russischen Rückzug aus der Rominter Heide und amerikanische Radardaten, bis morgen früh um sieben. Dafür ändert Litauen heute Nacht seine Einsatzregeln nicht.
+> 로민텐 숲에서 러시아군 철수, 그리고 미국 레이더 자료요. 내일 아침 일곱 시까지. 대신 리투아니아는 오늘 밤 교전 규칙을 안 바꿉니다.
+LEHNERT: Sie haben einer Regierung etwas versprochen, das weder Sie noch ich besitzen. In Ihrem früheren Beruf nannte man das einen Bluff.
+> 당신도 나도 갖고 있지 않은 걸 한 나라 정부에 약속하셨군요. 당신 예전 직업에선 그걸 허세라고 했죠.
+FALK: In meinem jetzigen nennt man es eine lange Nacht. Ich brauche von Ihnen nur eins: Lassen Sie mich anrufen, wen ich anrufen muss, und fragen Sie bis sieben nicht, wie.
+> 지금 직업에선 그걸 긴 밤이라고 합니다. 실장님께 바라는 건 하나뿐이에요. 제가 전화해야 할 사람들한테 전화하게 두시고, 일곱 시까지는 어떻게 하는지 묻지 마십시오.
+LEHNERT: Das ist mein Satz, Herr Falk, nicht Ihrer. … Gut. Bis sieben kenne ich Sie nicht.
+> 그건 제 대사입니다, 팔크 씨. 당신 게 아니라. …좋습니다. 일곱 시까진 당신을 모르는 겁니다.
+ELISABETH: Du klingst, als stündest du in einem Hotelzimmer am Fenster und zähltest Kirchtürme.
+> 호텔 방 창가에 서서 교회 첨탑 세고 있는 사람 목소리네.
+FALK: Elf, von hier aus. Dazu eine Vizeministerin, die mir nicht glaubt, und ein Kanzleramtschef, der mich vielleicht gerade angelogen hat. Oder Vilnius lügt, ich weiß es nicht, Elisabeth.
+> 여기서 보이는 것만 열한 개. 거기다 날 안 믿는 차관 하나, 방금 나한테 거짓말했을지도 모르는 총리실장 하나. 아니면 빌뉴스가 거짓말하는 건지도. 모르겠어, 엘리자베트.
+ELISABETH: Und was hast du ihr versprochen?
+> 그래서 그 사람한테 뭘 약속했는데?
+FALK: Etwas, das ich nicht habe. Ich muss heute Nacht drei Leute anrufen und jedem etwas anderes erzählen, damit morgen früh niemand schießt.
+> 내가 갖고 있지 않은 거. 오늘 밤에 세 사람한테 전화해서 각자 다른 얘기를 해야 해. 내일 아침에 아무도 총을 쏘지 않게.
+ELISABETH: Dann schreib dir auf, wem du was erzählst. Wer in einer Nacht drei Wahrheiten verteilt, braucht am Morgen eine Liste. … Konstantin? Dein anderes Telefon.
+> 그럼 누구한테 뭘 말했는지 적어 둬. 하룻밤에 진실을 세 갈래로 나눠 주는 사람은 아침에 목록이 필요해. …콘스탄틴? 당신 다른 전화.
+FALK: Eine Nachricht, unterdrückte Nummer: «Der Schuss kam nicht von uns. Rufen Sie heute Nacht nicht die Amerikaner an. Ich melde mich um eins. S.» … Es ist zwanzig nach elf, Elisabeth. Er glaubt, ich warte.
+> 문자야, 발신자 표시 제한. «총은 우리 쪽에서 쏜 게 아닙니다. 오늘 밤 미국인들한테는 전화하지 마십시오. 한 시에 연락하겠습니다. S.» …지금 열한 시 20분이야, 엘리자베트. 내가 기다릴 줄 아나 봐.
