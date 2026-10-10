@@ -1,0 +1,332 @@
+@part 1
+@ep 2
+@title Zweiundsiebzig Stunden
+@title_ko 72시간
+@tagline 72시간 · 일곱 개의 이름과 사소한 거짓말들
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 3월, 월요일 아침 여덟 시부터 화요일 저녁까지, 베를린 외무부와 베벨 광장
+@cast FALK | 외무부 유럽안보 특별대표 (44)
+@cast MIRA | 연방정보원(BND) 연락관 (39)
+@cast JAN | 팔크의 개인 보좌관 (31)
+@cast HAAS | Dr. Ulrike Haas · 외무부 정무국 안보정책과장 (가상, 53)
+@cast SOMMER | Benedikt Sommer · 외무부 정무국 참사관 (가상, 36)
+@cast LEHNERT | 연방총리실장 (58)
+@cast ANNA | 탐사보도 기자 · «Berliner Depesche» (45)
+@cast WINTER | 외무부 사무차관 (57)
+@note ※ 1화 직후의 월요일 아침입니다. 사무차관 Winter가 정한 72시간의 기한(목요일 새벽 여섯 시까지)이 흐르기 시작했고, BND 연락관 Mira가 «Bernstein» 배포 명단의 일곱 명을 차례로 면담합니다. 첫 번째 상대는 팔크 자신입니다. 화요일 오후에는 1화에서 약속한 Anna Kessler와의 «unter drei» 만남이 이어집니다.
+@note ※ 호칭: 팔크와 Jan은 du를 씁니다. 팔크는 오랜 동료 Haas를 이름(Ulrike)으로 부르지만 Sie를 씁니다(이른바 «함부르크식 Sie»). 그 밖의 인물끼리는 모두 Sie입니다.
+@note ※ 표현 초점: Verschlusssache(기밀 문서), Zugangsprotokoll(출입 기록), Sicherheitsüberprüfung(보안 심사), Zwischenbericht(중간 보고서), unbedenklich(문제없는), jemanden als Köder benutzen(미끼로 쓰다), ins Stocken geraten(지체되다), sich eine Geschichte zurechtlegen(이야기를 미리 짜 두다). 접속법 I 간접화법: «Sein Exemplar habe den Tresor nie verlassen, sagt er.»
+@history 기욤 사건 (Guillaume-Affäre, 1974) — 귄터 기욤은 동독 국가보안부(슈타지)의 장교였지만 1950년대 중반 난민으로 위장해 서독에 들어왔고, 사민당(SPD)에서 경력을 쌓은 뒤 1970년 총리실에 들어가 1972년부터 빌리 브란트 총리의 개인 보좌관으로 일했습니다. 서독 헌법수호청은 1973년 5월 무렵 이미 그를 의심했지만, 증거를 잡으려고 브란트에게 그를 곁에 계속 두라고 권했습니다. 그 결과 기욤은 1973년 여름 브란트의 노르웨이 휴가에도 동행해 기밀 전보를 다루었습니다. 1974년 4월 24일 체포된 그는 «나는 국가인민군 장교이자 국가보안부 요원»이라고 밝혔고, 브란트는 5월 6일 사임 의사를 밝혔습니다. 극 중 Mira는 이 사건을 «보좌관은 언제나 방 안에 있다»는 압박의 근거로, 팔크는 «정보기관이 총리를 미끼로 썼다»는 반박의 근거로 씁니다.
+@history 베벨 광장의 «도서관» (Bebelplatz) — 1933년 5월 10일 나치 학생 단체가 베를린 베벨 광장에서 «비독일적» 서적을 불태웠습니다. 1995년 이스라엘 작가 미하 울만이 광장 바닥 아래에 약 2만 권이 들어갈 빈 서가를 만들어 유리판 너머로 내려다보게 했습니다. Anna가 «비밀 유지»를 이야기할 장소로 이곳을 고른 것은 의도된 선택입니다.
+@preview 1부 3화 — «Warschauer Frühstück»(바르샤바의 아침 식사) — 팔크는 바르샤바에서 폴란드 외무차관 Nowak과 마주 앉는다. 폴란드는 전쟁 배상 문제를 지렛대로 꺼내 들고, 팔크는 1970년 브란트의 무릎 꿇기를 떠올리며 설득으로 맞선다. 그런데 Nowak은 이미 Bernstein의 내용을, 그것도 베를린에서 유출된 판본의 내용까지 알고 있었다. 유출은 바르샤바까지 닿아 있다.
+
+== 도입 — DAS ERSTE GESPRÄCH
+MIRA: Setzen Sie sich, Herr Falk. Acht Uhr vier. Uns bleiben knapp siebzig Stunden, und ich habe nicht vor, auch nur eine davon zu verschenken. Wo waren Sie in der Nacht von Sonntag auf Montag zwischen Mitternacht und zwei Uhr siebzehn?
+> 앉으세요, 팔크 씨. 여덟 시 사 분이에요. 남은 시간은 70시간이 채 안 되고, 한 시간도 허투루 쓸 생각 없어요. 일요일에서 월요일로 넘어가는 밤, 자정부터 두 시 십칠 분 사이에 어디 계셨죠?
+FALK: Im Bett. Neben einer Richterin am Verwaltungsgericht. Eine glaubwürdigere Zeugin werden Sie in dieser Stadt kaum finden.
+> 침대에요. 행정법원 판사 옆에서요. 이 도시에서 그보다 믿을 만한 증인은 찾기 어려울 겁니다.
+MIRA: Ehefrauen sind als Zeuginnen erfahrungsgemäß etwas zu loyal. Aber notiert. Wann hatten Sie Bernstein zuletzt in der Hand?
+> 경험상 아내는 증인으로서 좀 지나치게 충성스럽죠. 그래도 적어 둘게요. 베른슈타인을 마지막으로 손에 든 게 언제예요?
+FALK: Am Donnerstag, in der Abteilungsrunde. Danach lag mein Exemplar im Tresor in meinem Büro.
+> 목요일, 국 회의 때요. 그 뒤로 제 사본은 제 사무실 금고에 있었습니다.
+MIRA: Exemplar Nummer zwei, ich weiß. Haben Sie es jemals aus dem Amt mitgenommen?
+> 2번 사본이죠, 알아요. 그걸 외무부 밖으로 가지고 나간 적이 있나요?
+FALK: Nie.
+> 한 번도 없습니다.
+MIRA: Nicht einmal Notizen? Wer sechzehn Seiten mitverhandelt, trägt sie im Kopf und meistens auch in einem kleinen schwarzen Buch.
+> 메모도요? 16쪽짜리 문서를 같이 협상한 사람은 그걸 머릿속에 넣고 다니죠. 그리고 대개는 작은 검은 수첩에도요.
+FALK: Meine Notizen sind in meinem Kopf, Frau Dr. Schönfeld. Der ist deutlich schwerer zu kopieren.
+> 제 메모는 머릿속에 있습니다, 쇤펠트 박사님. 그건 복사하기가 훨씬 어렵죠.
+MIRA: Sie haben heute um vier Uhr einer Journalistin gesagt, Sie kennten kein Dokument namens Bernstein.
+> 오늘 새벽 네 시에 한 기자에게 베른슈타인이라는 문서는 모른다고 하셨죠.
+FALK: Die Staatssekretärin hat Sie gründlich unterrichtet.
+> 사무차관님이 꼼꼼하게도 알려 주셨군요.
+MIRA: Das ist ihr Beruf. Meiner ist es, mir zu merken, wie leicht Ihnen dieser Satz über die Lippen gegangen ist. Sie lügen gut, Herr Falk. Das macht Sie für mich nicht weniger interessant.
+> 그게 그분 일이니까요. 제 일은 그 말이 당신 입에서 얼마나 쉽게 나왔는지 기억해 두는 거고요. 거짓말을 잘하시네요, 팔크 씨. 그렇다고 제 관심이 줄지는 않아요.
+FALK: Ich habe einer Journalistin keine Bestätigung gegeben. Wenn Sie das Lügen nennen, müssen Sie das halbe Haus verhören.
+> 저는 기자에게 확인을 해 주지 않았을 뿐입니다. 그걸 거짓말이라고 부르신다면 외무부 절반을 심문하셔야 할 겁니다.
+MIRA: Das habe ich vor. Nur stehen Sie auf meiner Liste ein Stück weiter oben – weil Sie in Leipzig geboren sind, weil Ihr Vater zwanzig Jahre im Außenministerium der DDR gedient hat, und weil Frau Kessler um vier Uhr früh ausgerechnet Sie angerufen hat. Nicht die Staatssekretärin, nicht das Kanzleramt. Sie.
+> 그럴 생각이에요. 다만 당신은 제 명단에서 조금 위에 있어요. 라이프치히에서 태어나셨고, 아버님이 동독 외무부에서 20년을 일하셨고, 케슬러 씨가 새벽 네 시에 하필 당신에게 전화했으니까요. 사무차관님도, 총리실도 아니고 당신에게요.
+FALK: Mein Vater war Diplomat, wie ich. Und dass Frau Kessler mich anruft, spricht eher dafür, dass ich nicht ihre Quelle bin. Seine eigene Quelle ruft man nicht an, um einen Kommentar zu verlangen.
+> 아버지는 저처럼 외교관이었을 뿐입니다. 그리고 케슬러 씨가 저한테 전화했다는 건 오히려 제가 그 사람 취재원이 아니라는 뜻이죠. 자기 취재원한테 논평을 달라고 전화하는 기자는 없으니까요.
+MIRA: Es sei denn, man will genau diesen Eindruck erwecken. Letzte Frage. Die Kopie der Journalistin – wie viele Seiten hat sie?
+> 바로 그런 인상을 주고 싶은 게 아니라면요. 마지막 질문이에요. 그 기자의 사본은 몇 쪽이죠?
+FALK: Vierzehn. Das Original hat sechzehn.
+> 14쪽입니다. 원본은 16쪽이고요.
+MIRA: Wer weiß das außer Ihnen?
+> 당신 말고 그걸 아는 사람은요?
+FALK: Mein Referent. Sonst niemand.
+> 제 보좌관요. 그 외엔 아무도 없습니다.
+MIRA: Sonst niemand. Gut. Dann behandeln wir diese Zahl wie einen Fingerabdruck. Wer sie kennt, ohne sie kennen zu dürfen, hat das Papier gesehen. Holen Sie mir bitte Herrn Ostrowski.
+> 그 외엔 아무도 없다. 좋아요. 그럼 이 숫자를 지문처럼 다루죠. 알 수 없어야 할 사람이 이 숫자를 안다면 그 사람은 문서를 본 거예요. 오스트로프스키 씨를 불러 주세요.
+FALK: Ich bleibe dabei, wenn Sie ihn befragen. Entweder ich sitze daneben, oder Sie erklären der Staatssekretärin, warum Ihre Befragungen schon am ersten Morgen ins Stocken geraten sind.
+> 그를 면담할 때 저도 같이 있겠습니다. 제가 옆에 앉든지, 아니면 첫날 아침부터 면담이 왜 막혔는지 사무차관님께 직접 설명하시든지요.
+MIRA: Na schön. Aber Sie schweigen. Ein Wort von Ihnen, und Sie warten draußen.
+> 좋아요. 대신 입 다물고 계세요. 한마디라도 하시면 밖에서 기다리셔야 해요.
+
+== 장면 1 — DER REFERENT
+MIRA: Herr Ostrowski, Sie sind seit zwei Jahren Herrn Falks persönlicher Referent. Und davor?
+> 오스트로프스키 씨, 2년째 팔크 씨의 개인 보좌관이시죠. 그 전에는요?
+JAN: Drei Jahre im Referat 209. Davor Studium in Krakau und Berlin. Das steht alles in meiner Personalakte.
+> 209과에서 3년 있었어요. 그 전엔 크라쿠프와 베를린에서 공부했고요. 다 인사 기록에 있어요.
+MIRA: Ich lese Akten, Herr Ostrowski, aber ich höre lieber zu. Ihre Großmutter lebt in Danzig?
+> 기록은 읽어요, 오스트로프스키 씨. 하지만 저는 듣는 쪽을 더 좋아해요. 할머님이 단치히에 사시죠?
+JAN: In Gdańsk. Sie ist zweiundneunzig und hält die NATO für eine deutsche Erfindung. Wenn Sie glauben, sie sei eine russische Agentin, wünsche ich Ihnen viel Glück beim Verhör.
+> 그단스크요. 아흔둘이시고 NATO를 독일이 만든 발명품쯤으로 생각하세요. 할머니가 러시아 첩자라고 생각하신다면 심문 잘해 보시라고 하고 싶네요.
+MIRA: Niemand spricht von Ihrer Großmutter. Sie hatten Zugang zu Bernstein seit dem ersten Entwurf?
+> 아무도 할머님 얘기는 안 했어요. 베른슈타인 초안 단계부터 접근하셨죠?
+JAN: Seit dem ersten Entwurf. Ich habe die Fassungen verwaltet, den Verteiler geführt und die Exemplare nummeriert.
+> 첫 초안부터요. 제가 판본을 관리하고, 배포 명단을 맡고, 사본에 번호를 매겼어요.
+MIRA: Wissen Sie, wer im Frühjahr 1974 am genauesten wusste, welche Papiere über den Schreibtisch des Bundeskanzlers gingen?
+> 1974년 봄에 연방총리 책상을 거쳐 가는 서류를 누가 가장 정확히 알았는지 아세요?
+JAN: Günter Guillaume. Ich habe auch Geschichte studiert, Frau Dr. Schönfeld.
+> 귄터 기욤이죠. 저도 역사 공부했어요, 쇤펠트 박사님.
+MIRA: Dann wissen Sie, dass er kein Minister war, kein General, kein Botschafter. Er war Referent. Er hat Termine gemacht, Akten getragen, Fernschreiben sortiert. Und im Sommer 1973 hat er Brandt in den Urlaub nach Norwegen begleitet, wo die geheimen Fernschreiben aus Bonn über seinen Tisch gingen.
+> 그럼 그가 장관도, 장군도, 대사도 아니었다는 것도 아시겠네요. 보좌관이었죠. 일정을 잡고, 서류를 나르고, 전보를 분류했어요. 그리고 1973년 여름 브란트의 노르웨이 휴가에 동행했는데, 거기서 본에서 온 기밀 전보가 그의 책상을 거쳐 갔죠.
+JAN: Und Sie wollen damit sagen, dass der Referent immer der Spion ist?
+> 그러니까 보좌관이 늘 스파이라는 말씀이세요?
+MIRA: Ich will damit sagen, dass der Referent immer im Raum ist. Das unterscheidet ihn von allen anderen.
+> 보좌관은 늘 방 안에 있다는 말이에요. 그게 다른 사람들과 다른 점이죠.
+FALK: Wenn wir schon bei Guillaume sind –
+> 기욤 얘기가 나왔으니 말인데…
+MIRA: Sie wollten schweigen, Herr Falk.
+> 입 다물고 계시기로 했잖아요, 팔크 씨.
+FALK: Ich wollte schweigen, bis jemand die Geschichte falsch erzählt. Der Verfassungsschutz hatte Guillaume seit Mai 1973 im Verdacht. Man hat Brandt geraten, ihn trotzdem zu behalten, um ihn zu beobachten. Fast ein Jahr lang. Und dann hat man ihn mit nach Norwegen fahren lassen.
+> 누가 역사를 틀리게 말하기 전까지만 입 다물려고 했죠. 헌법수호청은 1973년 5월부터 기욤을 의심했어요. 그런데 감시하겠다면서 브란트에게 그를 계속 곁에 두라고 권했죠. 거의 1년 동안이요. 그러고는 노르웨이까지 따라가게 내버려 뒀고요.
+MIRA: Worauf wollen Sie hinaus?
+> 무슨 말씀을 하고 싶으신 거죠?
+FALK: Darauf, dass Brandt nicht nur an seinem Referenten gescheitert ist, sondern an Diensten, die ihn als Köder benutzt haben. Ich habe nicht vor, mich diese Woche als Köder benutzen zu lassen. Und Jan auch nicht.
+> 브란트를 무너뜨린 건 보좌관만이 아니었다는 겁니다. 그를 미끼로 쓴 정보기관들이기도 했죠. 저는 이번 주에 미끼로 쓰일 생각이 없습니다. 얀도 마찬가지고요.
+MIRA: Notiert. Ihr Chef verteidigt Sie mit großer Leidenschaft, Herr Ostrowski. Das tat Brandt übrigens auch. Bis zum vierundzwanzigsten April.
+> 적어 두죠. 당신 상사가 아주 열정적으로 당신을 변호하네요, 오스트로프스키 씨. 그러고 보니 브란트도 그랬죠. 4월 24일까지는요.
+JAN: Fragen Sie mich, was Sie fragen wollen.
+> 물어보실 거 물어보세요.
+MIRA: Gut. Hatten Sie jemals Kontakt zu Anna Kessler?
+> 좋아요. 안나 케슬러와 접촉한 적이 있나요?
+JAN: Nein. Ich kenne ihre Artikel, wie jeder hier im Haus. Persönlich – nein.
+> 아니요. 여기 사람들이 다 그렇듯 기사는 알죠. 개인적으로는, 아니요.
+MIRA: Dann erklären Sie mir dieses Foto. Podiumsdiskussion in der Urania, November 2025, «Sicherheit in der Ostsee». Die Frau mit dem Mikrofon ist Frau Kessler. Der junge Mann neben ihr, der so angeregt redet, sind Sie.
+> 그럼 이 사진을 설명해 보세요. 2025년 11월 우라니아 패널 토론, «발트해의 안보». 마이크를 든 여자가 케슬러 씨예요. 그 옆에서 열심히 이야기하는 젊은 남자는 당신이고요.
+JAN: Das war … nach der Veranstaltung. Ich habe ihr eine Frage zu ihrem Artikel über die Schattenflotte gestellt. Zwei Minuten.
+> 그건… 행사 끝나고였어요. 그림자 선단에 관한 기사에 대해 질문 하나 한 거예요. 2분이요.
+MIRA: Zwei Minuten sind ein Kontakt, Herr Ostrowski. Und vor zwei Minuten haben Sie «nein» gesagt.
+> 2분도 접촉이에요, 오스트로프스키 씨. 그리고 2분 전에 당신은 «아니요»라고 했죠.
+JAN: Weil ich wusste, wie es klingen würde. Genau so, wie es jetzt klingt.
+> 어떻게 들릴지 알았으니까요. 지금 딱 이렇게 들리잖아요.
+MIRA: Hat sie Ihnen ihre Karte gegeben?
+> 그 기자가 명함을 줬나요?
+JAN: … Ja. Ich habe sie nie benutzt.
+> …네. 한 번도 쓴 적 없어요.
+MIRA: Nie. Das Wort fällt heute auffallend oft in diesem Raum. Danke, Herr Ostrowski. Sie können gehen. Bleiben Sie bitte im Haus erreichbar.
+> 한 번도. 오늘 이 방에서 그 말이 유난히 자주 나오네요. 고마워요, 오스트로프스키 씨. 가셔도 돼요. 건물 안에서 연락 닿는 곳에 계세요.
+FALK: Jan. Warte draußen auf mich.
+> 얀. 밖에서 기다려.
+
+== 장면 2 — KLEINE LÜGEN
+MIRA: Frau Dr. Haas, Sie leiten das Referat für Sicherheitspolitik. Haben Sie Bernstein jemals ausgedruckt?
+> 하스 박사님, 안보정책과장이시죠. 베른슈타인을 출력한 적이 있나요?
+HAAS: Selbstverständlich nicht. Ich lese Verschlusssachen am Bildschirm im gesicherten Raum, wie es die Vorschrift verlangt.
+> 당연히 없죠. 기밀 문서는 규정대로 보안실 모니터로만 읽어요.
+MIRA: Der Drucker im zweiten Stock sieht das anders. Freitag, neunzehn Uhr zweiundvierzig, sechzehn Seiten, angemeldet mit Ihrer Dienstkarte.
+> 2층 프린터 생각은 다르네요. 금요일 19시 42분, 16쪽, 박사님 출입카드로 로그인했어요.
+HAAS: Das … das muss ein Irrtum sein. Am Freitagabend war ich längst –
+> 그건… 뭔가 착오일 거예요. 금요일 저녁엔 진작…
+FALK: Ulrike. Wir kennen uns seit fünfzehn Jahren. Bitte machen Sie es nicht schlimmer, als es ist.
+> 울리케. 우리 15년 된 사이잖습니까. 실제보다 일을 더 키우지 마세요.
+HAAS: … Ich habe es ausgedruckt. Ich wollte es am Wochenende im Zug nach Bonn noch einmal durchgehen. Meine Mutter liegt im Krankenhaus, die Woche war die Hölle, ich hatte einfach keine Zeit.
+> …출력했어요. 주말에 본 가는 기차에서 한 번 더 훑어보려고요. 어머니가 입원해 계시고, 한 주가 지옥 같아서 도저히 시간이 없었어요.
+MIRA: Sie haben ein als NATO SECRET eingestuftes Dokument im ICE gelesen.
+> NATO 비밀 등급 문서를 고속열차에서 읽으셨다는 거군요.
+HAAS: In einer Mappe, ich habe sie keine Sekunde aus der Hand gelegt. Es liegt jetzt in meinem Tresor. Alle sechzehn Seiten. Sie können gern nachzählen.
+> 서류철에 넣어서요. 단 1초도 손에서 놓지 않았어요. 지금은 제 금고에 있어요. 16쪽 전부요. 세어 보셔도 돼요.
+MIRA: Das werde ich. Und ich werde mich fragen, ob man sechzehn Seiten zwischen Berlin und Bonn nicht auch fotografieren könnte. Danke, Frau Dr. Haas.
+> 그럴 거예요. 그리고 베를린에서 본까지 가는 동안 16쪽을 사진으로 찍을 수도 있지 않았을까 생각해 보겠죠. 고마워요, 하스 박사님.
+HAAS: Konstantin, Sie wissen, dass ich niemals –
+> 콘스탄틴, 제가 절대로…
+FALK: Ich weiß, was ich weiß, Ulrike. Und im Moment ist das erschreckend wenig.
+> 저는 제가 아는 것만 압니다, 울리케. 그리고 지금은 그게 끔찍할 정도로 적어요.
+MIRA: Herr Sommer. Legationsrat Benedikt Sommer, Politische Abteilung. Wo waren Sie am Freitagabend?
+> 좀머 씨. 정무국 베네딕트 좀머 참사관. 금요일 저녁에 어디 계셨죠?
+SOMMER: Zu Hause. Ich hatte Migräne und bin um sechs gegangen.
+> 집에요. 편두통이 있어서 여섯 시에 퇴근했어요.
+MIRA: Laut Zugangsprotokoll sind Sie um achtzehn Uhr gegangen und um zweiundzwanzig Uhr sechsunddreißig wiedergekommen. Für siebzehn Minuten.
+> 출입 기록에 따르면 18시에 나갔다가 22시 36분에 다시 들어왔네요. 17분 동안요.
+SOMMER: Ach so, das. Ich hatte meinen Schlüssel im Büro vergessen.
+> 아, 그거요. 열쇠를 사무실에 두고 갔었어요.
+MIRA: Mit Migräne. Um halb elf. Und in Begleitung, wenn man der Kamera am Eingang Werderscher Markt glauben darf.
+> 편두통이 있는데. 밤 열 시 반에. 그리고 베르더셔 마르크트 출입구 카메라를 믿는다면, 일행도 있었고요.
+SOMMER: Das ist privat.
+> 그건 사생활이에요.
+FALK: Herr Sommer, diese Woche ist nichts privat. Wer war die Frau?
+> 좀머 씨, 이번 주엔 사생활 같은 건 없습니다. 그 여자는 누굽니까?
+SOMMER: … Agnieszka Wróbel. Erste Sekretärin an der polnischen Botschaft. Wir sind seit Weihnachten zusammen. Sie hat draußen gewartet, sie war nicht im Gebäude.
+> …아그니에슈카 브루벨이요. 주독 폴란드 대사관 1등 서기관이에요. 크리스마스 때부터 사귀고 있어요. 밖에서 기다렸고, 건물 안에는 안 들어왔어요.
+MIRA: Sie sind seit drei Monaten mit einer ausländischen Diplomatin liiert und haben das nicht gemeldet. Ist Ihnen klar, was das für Ihre Sicherheitsüberprüfung bedeutet?
+> 석 달째 외국 외교관과 사귀면서 신고를 안 하셨군요. 그게 보안 심사에 무슨 뜻인지 아세요?
+SOMMER: Mir ist klar, dass ich ein Idiot bin. Aber ich bin kein Verräter. Sie arbeitet in der Kulturabteilung, um Himmels willen, sie organisiert Chopin-Abende!
+> 제가 바보라는 건 알아요. 하지만 배신자는 아니에요. 그 사람은 문화과에서 일해요, 세상에, 쇼팽의 밤 같은 걸 기획한다고요!
+FALK: Hat sie Sie jemals nach Bernstein gefragt?
+> 그 사람이 베른슈타인에 대해 물어본 적이 있습니까?
+SOMMER: Nie. Nicht ein einziges Mal. Sie fragt höchstens, warum ich so viel arbeite.
+> 한 번도요. 정말 단 한 번도. 기껏해야 왜 그렇게 일을 많이 하냐고 묻는 정도예요.
+MIRA: Die Besten fragen nie, Herr Sommer. Sie warten, bis man es ihnen von selbst erzählt. Sie sind bis auf Weiteres vom Verteiler gestrichen.
+> 고수들은 절대 묻지 않아요, 좀머 씨. 상대가 스스로 털어놓을 때까지 기다리죠. 당신은 추후 통보가 있을 때까지 배포 명단에서 빠집니다.
+FALK: Zwei Lügen in zwei Stunden. Eine Tochter, die ihre kranke Mutter besucht, und ein Verliebter mit Migräne.
+> 두 시간에 거짓말 두 개군요. 아픈 어머니를 보러 가는 딸, 그리고 편두통 앓는 연애 중인 남자.
+MIRA: Kleine Lügen, Herr Falk. Aus Angst, aus Scham, aus Bequemlichkeit. Die meisten Menschen lügen nicht, um zu verraten. Sie lügen, um nicht dumm dazustehen.
+> 사소한 거짓말이죠, 팔크 씨. 두려워서, 창피해서, 편하려고. 사람들은 대부분 배신하려고 거짓말하지 않아요. 바보처럼 보이기 싫어서 거짓말하죠.
+FALK: Und der Verräter?
+> 그럼 배신자는요?
+MIRA: Der lügt nicht nervös. Er hat sich seine Geschichte längst zurechtgelegt und erzählt sie ruhig, vollständig und mit den richtigen Pausen. So wie Sie heute Morgen.
+> 배신자는 초조하게 거짓말하지 않아요. 이야기를 진작 짜 두고, 차분하고 빈틈없이, 적당한 곳에서 쉬어 가며 말하죠. 오늘 아침의 당신처럼요.
+FALK: Und Oberstleutnant Wiegand vom Verteidigungsministerium?
+> 국방부의 비간트 중령은요?
+MIRA: Telefonisch befragt. Sein Exemplar habe den Tresor im Bendlerblock nie verlassen, sagt er. Ich habe nachgefragt: Der Tresor stand am Freitag wegen einer Wartung drei Stunden offen.
+> 전화로 면담했어요. 자기 사본은 벤들러블록 금고 밖으로 나간 적이 없다고 하더군요. 확인해 봤더니 금요일에 점검 때문에 금고가 세 시간 동안 열려 있었어요.
+
+== 장면 3 — DAS KANZLERAMT
+FALK: Die Staatssekretärin haben Sie schon befragt?
+> 사무차관님은 벌써 면담하셨습니까?
+MIRA: Heute Nachmittag. Zwölf Minuten. Unbedenklich.
+> 오늘 오후에요. 12분. 문제없어요.
+FALK: Zwölf Minuten. Mich haben Sie fast eine Stunde befragt.
+> 12분이라. 저는 거의 한 시간을 면담하셨잖아요.
+MIRA: Sie hat mir auch eine Stunde weniger Anlass zum Misstrauen gegeben. Möchten Sie mir etwas über Frau Dr. Winter sagen, Herr Falk?
+> 그분은 의심할 거리를 한 시간만큼 덜 주셨으니까요. 윈터 박사님에 대해 하실 말씀이라도 있나요, 팔크 씨?
+FALK: Nein. Ich wollte nur wissen, wie lange man bei Ihnen braucht, um unbedenklich zu sein.
+> 아니요. 당신한테 문제없다는 판정을 받으려면 얼마나 걸리는지 궁금했을 뿐입니다.
+MIRA: Länger als zwölf Minuten, wie Sie merken. Übrigens: Das Kanzleramt hat abgelehnt. Man lasse sich nicht von einer Verbindungsoffizierin befragen, heißt es.
+> 보시다시피 12분보다는 오래 걸리죠. 그나저나 총리실이 거절했어요. 연락관 따위에게 면담받을 생각은 없다는군요.
+FALK: Dann rufe ich selbst an. … Herr Dr. Lehnert? Falk, Auswärtiges Amt. Verzeihen Sie die späte Stunde.
+> 그럼 제가 직접 전화하죠. … 레너트 박사님? 외무부의 팔크입니다. 늦은 시간에 죄송합니다.
+LEHNERT: Herr Falk. Ich hatte mit Ihrem Anruf gerechnet, nur nicht so früh am Abend. Es geht um Ihre kleine Liste, nehme ich an.
+> 팔크 씨. 전화하실 줄 알았어요. 저녁에 이렇게 일찍 하실 줄은 몰랐지만요. 그 작은 명단 얘기겠죠.
+FALK: Um sieben Namen, Herr Dr. Lehnert. Einer davon ist Ihr Haus. Frau Dr. Schönfeld muss wissen, wer bei Ihnen das Exemplar gelesen hat.
+> 일곱 개의 이름입니다, 레너트 박사님. 그중 하나가 총리실이고요. 쇤펠트 박사가 그쪽에서 누가 사본을 읽었는지 알아야 합니다.
+LEHNERT: Bei uns liest es, wer es lesen muss. Das Kanzleramt ist kein Verdächtiger, Herr Falk. Es ist der Ort, an dem über Verdächtige entschieden wird.
+> 여기선 읽어야 할 사람이 읽습니다. 총리실은 용의자가 아니에요, 팔크 씨. 용의자를 누구로 할지 정하는 곳이죠.
+FALK: Das hat man 1974 im Palais Schaumburg sicher auch gedacht.
+> 1974년에 샤움부르크 궁에서도 분명 그렇게 생각했겠죠.
+LEHNERT: Vorsicht. Guillaume-Vergleiche gehen in diesem Haus selten gut aus. Jedenfalls nicht für den, der sie anstellt.
+> 조심하세요. 이 건물에서 기욤에 빗대는 말은 끝이 좋은 적이 드물어요. 적어도 그 말을 꺼낸 사람한테는요.
+FALK: Ich stelle keinen Vergleich an. Ich stelle eine Frage. Wer hat bei Ihnen Bernstein gelesen?
+> 비유하는 게 아닙니다. 질문하는 거죠. 그쪽에서 누가 베른슈타인을 읽었습니까?
+LEHNERT: Ich mache Ihnen einen Vorschlag. Sie suchen Ihr Leck im Auswärtigen Amt, wo es nach allem, was ich höre, auch liegt. Und ich vergesse, dass Sie heute Nacht mit einer Journalistin verhandelt haben, ohne dass die Kanzlerin davon wusste.
+> 제안 하나 하죠. 당신은 외무부에서 유출자를 찾으세요. 내가 듣기로는 거기 있는 게 맞으니까요. 그럼 나는 당신이 어젯밤 총리께서 모르시는 사이에 기자와 협상했다는 걸 잊어 드리죠.
+FALK: Woher wissen Sie das?
+> 그걸 어떻게 아십니까?
+LEHNERT: Herr Falk, das Kanzleramt weiß alles. Es entscheidet nur, wann es sich daran erinnert. Gute Nacht.
+> 팔크 씨, 총리실은 모든 걸 압니다. 언제 기억해 낼지를 정할 뿐이죠. 안녕히 주무세요.
+MIRA: Und?
+> 그래서요?
+FALK: Er hat mir gerade gedroht. Höflich, aber unmissverständlich. Und er wusste von Frau Kessler.
+> 방금 저를 협박했습니다. 정중하지만 오해의 여지 없이. 그리고 케슬러 씨 일을 알고 있었어요.
+MIRA: Die Staatssekretärin hat das Kanzleramt heute früh informiert. Das ist kein Geheimnis.
+> 사무차관님이 오늘 아침 일찍 총리실에 보고했어요. 비밀도 아니죠.
+FALK: Nein. Aber diese Woche verbreitet sich alles, was ich sage, auffallend schnell.
+> 그렇죠. 그런데 이번 주엔 제가 하는 말이 모두 유난히 빨리 퍼지네요.
+JAN: Konstantin? Hast du eine Minute? Frau Schönfeld ist gegangen.
+> 콘스탄틴? 잠깐 시간 있어요? 쇤펠트 박사님은 가셨어요.
+FALK: Wenn du mir jetzt sagen willst, dass du Frau Kessler doch geschrieben hast, dann sag es schnell.
+> 케슬러 씨한테 사실 연락했다는 얘기라면 빨리 해.
+JAN: Eine Mail. Im Januar. Ich habe ihr den Link zu einem öffentlichen Bericht über die Schattenflotte geschickt. Nichts Vertrauliches. Von meiner privaten Adresse.
+> 메일 한 통이요. 1월에요. 그림자 선단에 관한 공개 보고서 링크를 보냈어요. 기밀은 하나도 없었어요. 개인 메일 주소로요.
+FALK: Und sie hat geantwortet?
+> 답장이 왔어?
+JAN: Mit einem Satz. «Danke, melden Sie sich, wenn Sie mehr haben.» Ich habe mich nie wieder gemeldet. Ich schwöre es dir.
+> 한 줄이요. «고마워요, 더 있으면 연락 주세요.» 그 뒤로 한 번도 연락 안 했어요. 맹세해요.
+FALK: Du hast Mira Schönfeld heute Morgen ins Gesicht gelogen, Jan. Vor meinen Augen. Weißt du, was das bedeutet?
+> 너 오늘 아침에 미라 쇤펠트 면전에서 거짓말했어, 얀. 내 눈앞에서. 그게 무슨 뜻인지 알아?
+JAN: Dass ich dumm war.
+> 제가 멍청했다는 거죠.
+FALK: Dass sie jetzt einen Grund hat. Bis heute Morgen hatte sie nur einen Verdacht. … Lösch nichts. Keine Mail, keinen Chat, nichts. Wer jetzt löscht, gesteht.
+> 이제 그 사람한테 근거가 생겼다는 거야. 오늘 아침까지는 의심뿐이었는데. … 아무것도 지우지 마. 메일도, 채팅도, 아무것도. 지금 지우면 자백하는 거야.
+JAN: Und wenn sie die Mail findet?
+> 그 메일을 찾아내면요?
+FALK: Dann sagst du die Wahrheit. Ab jetzt lügt in diesem Büro nur noch einer, und das bin ich.
+> 그럼 사실대로 말해. 이제부터 이 사무실에서 거짓말하는 사람은 하나뿐이야. 나.
+
+== 절정 — UNTER DREI
+ANNA: Sie sind pünktlich, Herr Falk. Sechsunddreißig Stunden, fast auf die Minute.
+> 시간 딱 맞춰 오셨네요, 팔크 씨. 36시간, 거의 분 단위까지요.
+FALK: Bebelplatz. Fünf Minuten von meinem Büro. Das war Absicht, nehme ich an.
+> 베벨 광장이라. 제 사무실에서 5분 거리군요. 일부러 그러신 거겠죠.
+ANNA: Schauen Sie durch die Glasplatte. Leere Regale, Platz für zwanzigtausend Bücher. Hier hat man 1933 verbrannt, was niemand lesen sollte. Ich fand, das sei ein guter Ort, um über Geheimhaltung zu reden.
+> 유리판 아래를 보세요. 빈 서가요. 책 2만 권이 들어갈 자리죠. 1933년에 여기서 아무도 읽으면 안 된다는 책들을 태웠어요. 비밀 유지에 대해 이야기하기 좋은 장소라고 생각했어요.
+FALK: Unter drei, Frau Kessler. Nichts von dem, was ich sage, erscheint. Nicht einmal als «aus Regierungskreisen».
+> 보도 불가 조건입니다, 케슬러 씨. 제가 하는 말은 한 줄도 나가면 안 됩니다. «정부 소식통에 따르면» 같은 식으로도요.
+ANNA: Unter drei. Sie haben mein Wort. Also: Kennen Sie das Papier inzwischen?
+> 보도 불가. 약속해요. 그럼, 이제는 그 문서를 아시나요?
+FALK: Ich habe herausgefunden, dass es Fragen gibt, auf die ich Ihnen keine Antwort geben darf.
+> 당신에게 대답해선 안 되는 질문들이 있다는 걸 알게 됐습니다.
+ANNA: Das ist die eleganteste Bestätigung, die ich je bekommen habe.
+> 지금껏 받아 본 확인 중에 제일 우아하네요.
+FALK: Es ist keine Bestätigung. Wie ist das Papier zu Ihnen gekommen?
+> 확인이 아닙니다. 그 문서가 어떻게 당신 손에 들어갔습니까?
+ANNA: Sie wissen, dass ich meine Quelle nicht nenne.
+> 제가 취재원을 밝히지 않는다는 거 아시잖아요.
+FALK: Ich frage nicht nach dem Namen. Ich frage nach dem Weg.
+> 이름을 묻는 게 아닙니다. 경로를 묻는 거죠.
+ANNA: Den Namen könnte ich Ihnen nicht einmal nennen, wenn ich wollte. Das ist das Beunruhigende an dieser Geschichte. Ein brauner Umschlag ohne Absender, am Freitag in Mitte abgestempelt, am Samstag in meinem Briefkasten. Darin vierzehn Seiten und ein Zettel.
+> 이름은 말하고 싶어도 못 해요. 그게 이 일에서 불안한 점이에요. 발신인 없는 갈색 봉투가 금요일에 미테 우체국 소인이 찍혀서 토요일에 제 우편함에 왔어요. 안에 14쪽과 쪽지 한 장이 있었고요.
+FALK: Was stand auf dem Zettel?
+> 쪽지에는 뭐라고 적혀 있었습니까?
+ANNA: Das sage ich Ihnen, wenn Sie mir sagen, was Sie wirklich wissen. Ein Satz, Herr Falk. Ein einziger wahrer Satz, und ich warte mit der Veröffentlichung bis Freitag.
+> 아시는 걸 진짜로 말씀해 주시면 알려 드릴게요. 한 문장이요, 팔크 씨. 진실한 문장 딱 하나면 금요일까지 보도를 미룰게요.
+FALK: Sie verlangen von mir, genau das zu tun, wonach wir gerade im ganzen Haus suchen.
+> 지금 우리가 외무부 전체를 뒤지며 찾고 있는 바로 그 짓을 저더러 하라는 거군요.
+ANNA: Ich verlange, dass Sie mich ein einziges Mal nicht anlügen. Das ist etwas anderes als Verrat. Oder sehen Sie das inzwischen anders?
+> 딱 한 번만 거짓말하지 말아 달라는 거예요. 그건 배신과는 달라요. 아니면 이제 생각이 바뀌셨나요?
+FALK: … Das Kabel war kein Unfall. Und wer Ihnen das Papier geschickt hat, wollte, dass jemand zwischen beidem eine Verbindung herstellt.
+> …그 케이블은 사고가 아니었습니다. 그리고 당신에게 그 문서를 보낸 사람은 누군가 그 두 가지를 연결해 주기를 바랐던 겁니다.
+ANNA: Danke. Auf dem Zettel stand ein einziger Satz: «Vierzehn von sechzehn. Warschau weiß mehr.»
+> 고마워요. 쪽지에는 한 문장뿐이었어요. «16쪽 중 14쪽. 바르샤바가 더 많이 안다.»
+FALK: Warschau.
+> 바르샤바.
+ANNA: Jemand will, dass ich nach Polen schaue. Und Sie, Herr Falk, sollten sich fragen, wer in Ihrem Haus wusste, dass es vierzehn Seiten sind, bevor ich es Ihnen am Telefon gesagt habe.
+> 누군가 제가 폴란드 쪽을 보길 원하는 거죠. 그리고 팔크 씨, 당신은 제가 전화로 말하기 전에 외무부에서 누가 14쪽이라는 걸 알고 있었는지 자문해 보셔야 할 거예요.
+FALK: Niemand.
+> 아무도 없습니다.
+ANNA: Sie zögern nie, wenn Sie lügen. Das ist mir schon am Telefon aufgefallen.
+> 거짓말할 때는 절대 머뭇거리지 않으시네요. 전화할 때부터 알아챘어요.
+FALK: Frau Kessler. Wer auch immer Ihnen diesen Umschlag geschickt hat, benutzt Sie.
+> 케슬러 씨. 그 봉투를 보낸 게 누구든, 그 사람은 당신을 이용하고 있습니다.
+ANNA: Natürlich benutzt man mich. Man benutzt jeden Journalisten. Die Frage ist nur, ob stimmt, was man mir gibt. Und es stimmt, sonst wären Sie nicht gekommen.
+> 물론 저를 이용하죠. 기자는 누구나 이용당해요. 문제는 저한테 준 게 사실이냐는 거고요. 그리고 사실이에요. 아니었다면 여기 오지 않으셨겠죠.
+FALK: Bis Freitag.
+> 금요일까지입니다.
+ANNA: Bis Freitag, sechs Uhr früh. Danach erscheint der Artikel, mit Ihnen oder ohne Sie.
+> 금요일 새벽 여섯 시까지요. 그 뒤엔 기사가 나가요. 당신이 함께하든 안 하든.
+
+== 마무리 — NORWEGEN
+WINTER: Setzen Sie sich, Herr Falk. War es kalt auf dem Bebelplatz?
+> 앉으세요, 팔크 씨. 베벨 광장은 춥던가요?
+FALK: Sie lassen mich beobachten, Frau Staatssekretärin?
+> 저를 미행시키십니까, 사무차관님?
+WINTER: Ich lasse niemanden beobachten. Berlin-Mitte ist ein Dorf, und Frau Kessler ist eine auffällige Frau. Was hat sie Ihnen gegeben?
+> 아무도 미행시키지 않아요. 베를린 미테는 시골 마을 같은 곳이고, 케슬러 씨는 눈에 띄는 사람이죠. 그 기자가 뭘 주던가요?
+FALK: Zeit. Sie hält still bis Freitag früh. Unsere Frist läuft am Donnerstag ab, wir gewinnen also einen Tag.
+> 시간을요. 금요일 아침까지 기다리기로 했습니다. 우리 기한은 목요일에 끝나니 하루를 번 셈이죠.
+WINTER: Gut. Sie werden ihn brauchen. Sie fliegen morgen früh nach Warschau. Nowak hat um ein Frühstück gebeten, acht Uhr, ausdrücklich mit Ihnen.
+> 좋아요. 그 하루가 필요할 거예요. 내일 아침 바르샤바로 가세요. 노바크가 아침 식사를 청했어요. 여덟 시, 콕 집어서 당신과요.
+FALK: Nowak bittet nie um ein Frühstück. Er bestellt einen Termin und lässt einen dann eine Stunde warten.
+> 노바크는 아침 식사를 청하는 사람이 아닙니다. 약속을 잡아 놓고 한 시간씩 기다리게 하는 사람이죠.
+WINTER: Diesmal nicht. Und noch etwas: Der Zwischenbericht von Frau Dr. Schönfeld liegt mir vor. Ganz oben steht Herr Ostrowski. Sie nehmen ihn nicht mit nach Warschau.
+> 이번엔 아니에요. 그리고 하나 더. 쇤펠트 박사의 중간 보고서가 올라왔어요. 맨 위에 오스트로프스키 씨가 있더군요. 바르샤바에는 데려가지 마세요.
+FALK: Er ist mein Referent, er spricht Polnisch, und Nowak vertraut ihm. Wegen eines Fotos und einer Visitenkarte lasse ich ihn nicht zurück.
+> 제 보좌관이고, 폴란드어를 하고, 노바크가 신뢰하는 사람입니다. 사진 한 장과 명함 한 장 때문에 그를 두고 가진 않겠습니다.
+WINTER: Brandt hat seinen Referenten auch nach Norwegen mitgenommen, Herr Falk. Man hatte ihn gewarnt. Er hat nicht zugehört.
+> 브란트도 자기 보좌관을 노르웨이에 데려갔어요, 팔크 씨. 경고를 받았는데도요. 듣지 않았죠.
+FALK: Wenn Jan der Verräter ist, will ich ihn neben mir haben, Frau Staatssekretärin. Nicht hinter mir.
+> 얀이 배신자라면 더더욱 제 옆에 두고 싶습니다, 사무차관님. 제 뒤가 아니라요.
+WINTER: Auf Ihre Verantwortung.
+> 당신 책임이에요.
+FALK: Wie alles in dieser Woche.
+> 이번 주 일이 다 그렇죠.
+JAN: Konstantin, ich habe die polnische Teilnehmerliste für morgen. Nowak, sein Büroleiter, eine Dolmetscherin – und heute Nachmittag neu hinzugefügt: Agnieszka Wróbel. Mit sofortiger Wirkung aus Berlin zurückgerufen.
+> 콘스탄틴, 내일 폴란드 측 참석자 명단 받았어요. 노바크, 그 비서실장, 통역사 한 명. 그리고 오늘 오후에 새로 추가된 이름이 있어요. 아그니에슈카 브루벨. 즉시 발효로 베를린에서 소환됐대요.
+FALK: Sommers Agnieszka. Die Chopin-Abende organisiert.
+> 좀머의 아그니에슈카. 쇼팽의 밤을 기획한다는.
+JAN: Und Nowaks Büro schreibt, er wolle beim Frühstück über «die zwei Seiten» sprechen, «die in der Berliner Fassung fehlen».
+> 그리고 노바크 사무실에서 이렇게 썼어요. 아침 식사 때 «베를린 판본에서 빠진 두 쪽»에 대해 이야기하고 싶대요.
+FALK: Vierzehn von sechzehn. Dann weiß man in Warschau, was in Berlin nur eine Handvoll Leute wissen dürfte. Pack deinen Koffer, Jan. Wir frühstücken morgen mit jemandem, der längst weiß, wonach wir suchen.
+> 16쪽 중 14쪽이라. 그럼 바르샤바는 베를린에서도 몇 사람밖에 모를 일을 알고 있다는 거군. 짐 싸, 얀. 내일 아침은 우리가 뭘 찾는지 진작 알고 있는 사람과 먹게 생겼어.
