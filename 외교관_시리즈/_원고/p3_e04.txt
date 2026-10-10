@@ -1,0 +1,333 @@
+@part 3
+@ep 4
+@title Die Schlafwandler
+@title_ko 몽유병자들
+@tagline 몽유병자들 · 빌뉴스의 호텔 방, 전화 세 통, 잔고 없는 수표 세 장
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 5월 27일 목요일 밤 0시 40분부터 5월 28일 금요일 아침 7시까지, 빌뉴스 구시가지 호텔 방(빌뉴스·모스크바는 베를린·파리보다 한 시간 빠름)
+@cast FALK | 외무부 유럽안보 특별대표, 직무 정지 중 (44)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast SEDOV | Viktor Sedov · 주독 러시아 대사관 공사참사관 (56)
+@cast HALE | Andrew Hale · 주독 미국 대사관 공사 (54)
+@cast CLAIRE | Claire Duval · 프랑스 외무부 전략국장 (49)
+@cast LEHNERT | 연방총리실장 (58)
+@cast SIMKUS | Rūta Šimkus · 리투아니아 외무차관 (47)
+@note ※ 지난 화에서 팔크는 빌뉴스에서 리투아니아 외무차관 Šimkus를 설득해 교전 규칙 변경을 하룻밤 미루게 했습니다. 대신 내일 아침 7시까지 두 가지를 주겠다고 약속했습니다. 로민텐 숲의 러시아 부대 철수, 그리고 총격 당시의 미국 레이더 자료입니다. 둘 다 팔크가 가진 것이 아닙니다. 밤 11시 20분, Sedov에게서 문자가 왔습니다. «총은 우리 쪽에서 쏜 게 아닙니다. 오늘 밤 미국인들한테는 전화하지 마십시오. 한 시에 연락하겠습니다.»
+@note ※ 호칭: 팔크와 Elisabeth, 팔크와 Claire는 du를 씁니다. 팔크는 Sedov, Hale, Lehnert, Šimkus와 Sie를 씁니다. 이번 화는 대부분 전화 통화로 이루어지며, 팔크는 그날 밤 누구에게 무엇을 말했는지 검은 수첩에 목록으로 적습니다.
+@note ※ 표현 초점: Blankoscheck(백지수표), ungedeckter Scheck(잔고 없는 수표), einen Scheck einlösen(수표를 현금으로 바꾸다), haften(책임지다), Rückendeckung(뒷배), Vorkommando(선발대), Geschäftsträger(대사대리), Nordatlantikrat(북대서양이사회), Schlafwandler / schlafwandeln(몽유병자 / 잠결에 걷다), «Halt in Belgrad»(베오그라드에서 멈춰라), überholen(앞지르다). 접속법 I 간접화법: «Man wisse, dass die Amerikaner Berlin Radardaten gegeben hätten.» / «Frankreich spreche um zehn als Erstes.» 접속법 II: «Wenn sie etwas gesehen hätten, säßen Sie nicht hier.» 시제의 함정: 현재완료 «Ich habe sie nicht angerufen»은 미래에 대해서는 아무것도 약속하지 않습니다.
+@history 독일의 «백지수표» (1914년 7월 5~6일) — 사라예보 암살 일주일 뒤인 1914년 7월 5일, 오스트리아–헝가리 외무부의 호요스 백작이 프란츠 요제프 황제의 친서와 각서를 들고 베를린에 왔습니다. 그날 포츠담 신궁전 점심 자리에서 빌헬름 2세는 쇠지예니 대사에게, 러시아와 전쟁이 나더라도 오스트리아는 독일의 전폭적 지원을 믿어도 된다고 말했고, 이튿날 재상 베트만 홀베크가 이를 공식 확인했습니다. 금액(행동의 범위)을 빈이 마음대로 적을 수 있게 서명만 해 준 약속이라는 뜻에서 이를 «백지수표»라고 부릅니다. 황제는 곧이어 예정대로 요트를 타고 노르웨이 피오르로 «북해 유람(Nordlandreise)»을 떠났는데, 위기를 감추려는 연출이었다는 해석이 많습니다.
+@history «베오그라드에서 멈춰라» (1914년 7월 28일) — 세르비아가 오스트리아의 최후통첩에 대부분 수용하는 답신을 보내자, 7월 28일 아침 이를 읽은 빌헬름 2세는 여백에 «이로써 전쟁의 이유는 모두 사라졌다»고 적고, 오스트리아가 베오그라드만 점령하고 멈추는 «Halt in Belgrad» 방안을 제안했습니다. 그러나 같은 날 오스트리아–헝가리는 세르비아에 선전포고했습니다. 한번 내준 백지수표는 거둬들일 수 없다는 사례로 자주 인용됩니다.
+@history 푸앵카레의 상트페테르부르크 방문 (1914년 7월 20~23일) — 프랑스 대통령 레몽 푸앵카레는 7월 위기 한가운데 러시아를 국빈 방문해 동맹의 결속을 확인했습니다. 오스트리아는 일부러 푸앵카레가 배를 타고 떠난 7월 23일 저녁에 맞춰 베오그라드에 최후통첩을 전달했고, 그 때문에 파리와 페테르부르크는 바로 말을 맞출 수 없었습니다. 프랑스가 러시아에 준 지지 역시 일종의 «백지수표»였는지는 지금도 논쟁거리입니다.
+@history 피셔 논쟁과 «몽유병자들» — 1961년 독일 역사가 프리츠 피셔는 «세계 강국을 향한 손길(Griff nach der Weltmacht)»에서 제1차 세계대전의 주된 책임이 독일 제국의 팽창 의도에 있다고 주장해 서독 사회에 큰 논쟁을 일으켰습니다. 2012년 케임브리지의 오스트레일리아 출신 역사가 크리스토퍼 클라크는 «몽유병자들(The Sleepwalkers)»에서 유럽 여러 수도의 지도자들이 서로를 오판하며 전쟁으로 «걸어 들어갔다»고 그렸습니다. 이 책은 독일에서 특히 큰 베스트셀러가 되었고, 독일의 책임을 상대화한다는 비판도 함께 받았습니다.
+@preview 3부 5화 — «Claire»(클레르) — Claire가 비공식 채널을 프랑스 정보기관에 보고해 왔다는 사실이 드러난다. 팔크는 프랑스의 무기 거래 정보로 맞협박하고, Claire는 일부러 Sie로 말하기 시작한다. 1925년 로카르노에서 슈트레제만과 브리앙이 나눈 우정은 얼마나 진짜였을까.
+
+== 도입 — EINE LISTE UM MITTERNACHT
+ELISABETH: Konstantin, bei mir ist es zwanzig vor zwölf, bei dir zwanzig vor eins. Du hast gesagt, du rufst zurück, wenn du einen Plan hast. Hast du einen?
+> 콘스탄틴, 여긴 열한 시 40분이고 거긴 열두 시 40분이지. 계획이 생기면 다시 전화한다며. 생겼어?
+FALK: Ich habe eine Liste, wie du gesagt hast. Drei Namen, drei Uhrzeiten, und daneben eine leere Spalte für das, was ich jedem erzähle.
+> 당신 말대로 목록은 있어. 이름 셋, 시각 셋, 그리고 옆에 각자한테 뭐라고 할지 적을 빈칸.
+ELISABETH: In deinem schwarzen Notizbuch? Das mit Sedovs Satz auf der ersten Seite?
+> 그 검은 수첩에? 첫 장에 Sedov 문장 적힌 거?
+FALK: Auf der ersten Seite steht sein Satz und daneben «wörtlich wahr». Heute Nacht fange ich eine neue Seite an, und auf der wird nicht viel wörtlich wahr sein.
+> 첫 장엔 그 사람 문장이랑, 그 옆에 «글자 그대로는 사실»이라고 적혀 있지. 오늘 밤엔 새 장을 시작할 거야. 글자 그대로 사실인 건 별로 없을 장.
+ELISABETH: Lies mir die Namen vor. Ich bin Richterin, ich höre lieber zu, bevor jemand lügt, nicht erst danach.
+> 이름 읽어 줘. 난 판사야. 누가 거짓말한 다음 말고, 하기 전에 듣는 게 좋아.
+FALK: Sedov um eins, er hat es angekündigt. Danach Hale, den ich nicht anrufen soll. Und Claire, weil sie um diese Zeit noch wach ist und Paris mitbringen kann.
+> 한 시에 Sedov. 자기가 예고했으니까. 그다음 Hale. 전화하지 말라는 그 사람. 그리고 Claire. 이 시간에도 깨어 있고, 파리를 데려올 수 있으니까.
+ELISABETH: Und was bekommt Frau Šimkus um sieben?
+> 그럼 일곱 시에 시므쿠스 차관은 뭘 받는데?
+FALK: Russische Einheiten hinter der gemeldeten Linie und amerikanische Radardaten. Beides gehört mir nicht. Ich muss es mir heute Nacht leihen.
+> 신고한 선 뒤로 물러난 러시아 부대, 그리고 미국 레이더 자료. 둘 다 내 것이 아니야. 오늘 밤에 빌려 와야 해.
+ELISABETH: Leihen ist ein freundliches Wort. Bei uns im Gericht hieße das: Du stellst Schecks auf fremde Konten aus.
+> 빌린다니 다정한 말이네. 우리 법원에서라면 이렇게 말하겠지. 남의 계좌로 수표를 끊는다고.
+FALK: Ausgerechnet heute sagst du «Scheck». Seit Frau Šimkus heute Nachmittag den fünften Juli erwähnt hat, geht mir ein einziges Wort nicht aus dem Kopf: Blankoscheck.
+> 하필 오늘 «수표»라고 하네. 시므쿠스 차관이 오후에 7월 5일 얘기를 꺼낸 뒤로 단어 하나가 머리에서 안 떠나. 백지수표.
+ELISABETH: Erklär es mir nicht als Historiker, sondern als Jurist. Wer hat damals unterschrieben, und wer hat den Betrag eingesetzt?
+> 역사학자 말고 법률가로 설명해 봐. 그때 누가 서명했고, 누가 금액을 적었어?
+FALK: Unterschrieben hat Berlin: der Kaiser beim Mittagessen in Potsdam, am Tag danach der Kanzler. Den Betrag hat Wien eingesetzt, drei Wochen später, mit einem Ultimatum, das Serbien gar nicht annehmen sollte.
+> 서명은 베를린이 했지. 황제가 포츠담 점심 자리에서, 다음 날엔 재상이. 금액은 빈이 적었고. 3주 뒤에, 세르비아가 애초에 받아들이지 못하게 만든 최후통첩으로.
+ELISABETH: Dann haftet, wer unterschreibt. So ist es bei Schecks, und bei Bündnissen offenbar auch. Heute Nacht unterschreibst du dreimal, Konstantin, mit einem Namen, der gerade suspendiert ist.
+> 그럼 서명한 쪽이 책임지는 거네. 수표가 그렇고, 동맹도 그런가 봐. 오늘 밤 당신은 세 번 서명하는 거야, 콘스탄틴. 지금 직무 정지된 이름으로.
+FALK: Nein. Ich unterschreibe mit Berlins Namen, und Berlin weiß es nicht. Das ist der Unterschied zu 1914: Mein Scheck ist ungedeckt, und jeder, der ihn bekommt, soll glauben, er sei gedeckt.
+> 아니. 베를린 이름으로 서명하는 거고, 베를린은 그걸 몰라. 그게 1914년이랑 다른 점이야. 내 수표엔 잔고가 없고, 받는 사람은 다 잔고가 있다고 믿어야 해.
+ELISABETH: Das ist schlimmer, nicht besser. … Was schreibst du in die Spalte neben Sedov?
+> 그건 나은 게 아니라 더 나쁜 거야. …Sedov 옆 칸엔 뭐라고 적을 건데?
+FALK: Ein Wort: «Entschlossenheit». Er soll glauben, dass Berlin diesmal nicht vermittelt, sondern hinter Vilnius steht, was immer der Rat um acht beschließt.
+> 한 단어. «결의». 이번엔 베를린이 중재하지 않고, 위원회가 여덟 시에 뭘 결정하든 빌뉴스 뒤에 서 있다고 믿게 해야 해.
+ELISABETH: Also genau das, wovor du die Vizeministerin heute Nachmittag gewarnt hast.
+> 그러니까 당신이 오늘 오후에 차관한테 하지 말라고 경고한 바로 그거네.
+FALK: Genau das. Wenn Moskau sich vor etwas fürchtet, dann vor einem Berlin, das plötzlich keine Angst mehr hat. … Es ist eins, Elisabeth. Mein anderes Telefon.
+> 바로 그거. 모스크바가 뭔가를 무서워한다면, 갑자기 겁이 없어진 베를린이야. …한 시야, 엘리자베트. 다른 전화.
+ELISABETH: Schreib die Uhrzeit auf. Und wenn du ihm einen Scheck gibst, überleg dir, wer ihn am Ende einlöst.
+> 시각 적어 둬. 그리고 그 사람한테 수표를 주거든, 마지막에 누가 그걸 현금으로 바꿀지 생각해 봐.
+
+== 장면 1 — DER SCHECK AUS POTSDAM
+SEDOV: Ein Uhr, Herr Falk, Moskauer Zeit, und in Vilnius übrigens auch. Die Uhrzeit ist das Einzige, was wir mit den Litauern teilen. Sind Sie allein?
+> 한 시입니다, 팔크 씨. 모스크바 시간으로요. 빌뉴스도 마찬가지고요. 우리가 리투아니아 사람들과 나눠 갖는 건 시간뿐이죠. 혼자십니까?
+FALK: Allein, in einem Hotelzimmer mit Blick auf elf Kirchtürme. Sie schreiben, der Schuss sei nicht von Ihnen gekommen. Ich höre.
+> 혼자입니다. 교회 첨탑 열한 개가 보이는 호텔 방에. 총이 당신네 쪽에서 나온 게 아니라고 쓰셨죠. 듣겠습니다.
+SEDOV: Keine russische Einheit hat in dieser Nacht am Vištytis-See geschossen. Das sage ich nicht als Diplomat, sondern als jemand, der seit gestern Mittag Generäle anruft, die mich nicht leiden können.
+> 그날 밤 비슈티티스 호숫가에서 총을 쏜 러시아 부대는 없습니다. 외교관으로서가 아니라, 어제 정오부터 저를 질색하는 장군들한테 전화를 돌린 사람으로서 하는 말입니다.
+FALK: «Keine Einheit.» Ein sehr genaues Wort für eine sehr dunkle Nacht. Auf litauischem Boden liegt eine Hülse, Kaliber 7,62 mal 54.
+> «부대는 없다.» 아주 캄캄한 밤에 쓰기엔 아주 정확한 단어네요. 리투아니아 땅에 7.62×54 탄피가 떨어져 있습니다.
+SEDOV: Diese Patronen kauft man in jedem Jagdgeschäft zwischen Suwałki und Marijampolė. Fragen Sie lieber, wem die Drohne über dem polnischen Wald gehörte. Unsere war es nicht.
+> 그 탄은 수바우키에서 마리얌폴레 사이 아무 사냥용품점에서나 삽니다. 차라리 폴란드 숲 위의 드론이 누구 거였는지 물어보시죠. 우리 건 아니었습니다.
+FALK: Sie wissen von der Drohne. Die Litauer haben sie nirgends erwähnt.
+> 드론을 아시는군요. 리투아니아는 어디서도 그 얘기를 안 했는데요.
+SEDOV: Wir haben auch Ohren am Dreiländereck, dafür ist ein Dreiländereck da. Jemand schreibt dort ein Drehbuch, in dem Moskau schießt und Berlin heimlich mit Moskau redet. Der Umschlag vom Mittwoch war die erste Seite.
+> 삼국 접경엔 우리 귀도 있습니다. 삼국 접경이 원래 그런 데죠. 누군가 거기서 각본을 쓰고 있어요. 모스크바는 총을 쏘고, 베를린은 몰래 모스크바와 얘기하는 각본. 수요일 봉투가 그 첫 페이지였고요.
+FALK: Von dem Umschlag habe ich Ihnen nichts erzählt.
+> 봉투 얘기는 제가 한 적 없는데요.
+SEDOV: Sie erzählen mir nie etwas, und trotzdem weiß ich immer genug, um Sie anzurufen. Lassen wir das. Ich habe Ihnen geschrieben, weil Moskau sich nicht mehr bewegen kann, wenn Washington heute Nacht Bilder veröffentlicht. Nicht, ohne vor der ganzen Welt zurückzuweichen.
+> 당신은 저한테 아무 말도 안 하지만, 저는 늘 당신한테 전화할 만큼은 압니다. 그건 넘어가죠. 제가 문자를 보낸 건, 워싱턴이 오늘 밤 사진을 공개하면 모스크바는 더는 움직일 수 없기 때문입니다. 온 세상 앞에서 물러서는 꼴이 되지 않고서는요.
+FALK: Die Amerikaner hatten in dieser Nacht Radar über dem Dreiländereck. Ob sie es zeigen, entscheidet sich nicht in Washington, sondern in der Rominter Heide. Ziehen Sie die Einheiten bis sechs Uhr hinter die Linie zurück, die Moskau selbst gemeldet hat.
+> 그날 밤 미국은 삼국 접경 위에 레이더를 띄워 놓고 있었습니다. 그걸 공개할지는 워싱턴이 아니라 로민텐 숲에서 정해집니다. 여섯 시까지 부대를 모스크바가 직접 신고한 선 뒤로 물리십시오.
+SEDOV: Sie reden wie jemand, der Divisionen hat. Sie haben ein Hotelzimmer, Herr Falk, und eine Suspendierung.
+> 사단이라도 가진 사람처럼 말씀하시네요. 당신한텐 호텔 방 하나랑 직무 정지가 있을 뿐인데요, 팔크 씨.
+FALK: Seit heute Abend habe ich noch etwas. Berlin hat Vilnius zugesagt, hinter jeder Entscheidung zu stehen, die der Verteidigungsrat um acht trifft, auch wenn er die Einsatzregeln ändert. Ohne Wenn und Aber.
+> 오늘 저녁부터 하나 더 생겼습니다. 베를린이 빌뉴스에, 국방위원회가 여덟 시에 어떤 결정을 내리든 뒤에 서겠다고 약속했어요. 교전 규칙을 바꾸더라도. 조건 없이.
+SEDOV: … Das klingt nicht nach Berlin. Das klingt nach Potsdam im Juli 1914.
+> …베를린답지 않은 소리네요. 1914년 7월의 포츠담 같은 소리예요.
+FALK: Sie meinen den fünften Juli.
+> 7월 5일 말씀이시군요.
+SEDOV: Graf Hoyos kommt mit dem Zug aus Wien, in der Tasche einen Brief seines Kaisers. Botschafter Szögyény bringt den Brief zum Mittagessen ins Neue Palais, und Wilhelm sagt nach dem Essen, Österreich könne auf Deutschlands volle Unterstützung rechnen, selbst wenn es zum Krieg mit Russland komme. Am nächsten Tag bestätigt es Bethmann Hollweg.
+> 호요스 백작이 빈에서 기차로 옵니다. 주머니엔 자기 황제의 편지가 있고요. 쇠지예니 대사가 그 편지를 들고 신궁전 점심 자리에 가고, 식사 뒤에 빌헬름이 말하죠. 러시아와 전쟁이 나더라도 오스트리아는 독일의 전폭적인 지원을 믿어도 된다고. 다음 날 베트만 홀베크가 그걸 확인하고요.
+FALK: Sie kennen die Szene gut.
+> 그 장면을 잘 아시네요.
+SEDOV: Bei uns lernt man sie als Beweis, dass der Krieg in Berlin begann. Und wissen Sie, was der Kaiser danach tat? Er ging an Bord seiner Jacht und fuhr zur Nordlandreise, damit niemand merkte, dass etwas im Gange war. Sie sind ja auch nicht in Berlin, Herr Falk.
+> 우리 쪽에선 전쟁이 베를린에서 시작됐다는 증거로 배웁니다. 그리고 황제가 그다음에 뭘 했는지 아십니까? 요트에 올라 북해 유람을 떠났죠. 무슨 일이 벌어지고 있다는 걸 아무도 눈치채지 못하게요. 당신도 베를린에 안 계시잖습니까, 팔크 씨.
+FALK: Der Unterschied ist, dass mein Scheck ein Datum trägt: acht Uhr, Verteidigungsrat in Vilnius. Stehen Ihre Einheiten bis dahin nicht hinter der Linie, wird mehr eingelöst als neue Einsatzregeln: Das Vorkommando der Bernstein-Brigade wird vorgezogen, nicht 2028, sondern noch im Juni, und die Kanzlerin unterschreibt in der Stunde, in der in Vilnius der erste Schuss erwidert wird.
+> 다른 점은 제 수표엔 날짜가 적혀 있다는 겁니다. 여덟 시, 빌뉴스 국방위원회. 그때까지 당신네 부대가 선 뒤로 가 있지 않으면, 새 교전 규칙보다 더 많은 게 현금으로 바뀝니다. 베른슈타인 여단 선발대가 앞당겨지는 거죠. 2028년이 아니라 올 6월에. 빌뉴스에서 첫 응사가 나오는 그 시간에 총리가 서명합니다.
+SEDOV: Hat sie Ihnen das gesagt? Persönlich? Einem suspendierten Beamten in einem litauischen Hotel?
+> 총리가 그렇게 말했습니까? 직접? 리투아니아 호텔에 있는 직무 정지 공무원한테?
+FALK: Sie hat es dem Mann gesagt, der mir verbietet, mein Telefon auszuschalten. Sie kennen ihn.
+> 제가 전화를 못 끄게 하는 그 사람한테 말했습니다. 아시잖습니까.
+SEDOV: Ich kenne ihn als jemanden, der vierzehn Tage braucht, um eine Warnung weiterzugeben. Solche Männer stellen keine Blankoschecks aus, Herr Falk. Sie stellen Quittungen aus, wenn es zu spät ist.
+> 제가 아는 그분은 경고 하나 전하는 데 2주가 걸리는 사람이에요. 그런 사람은 백지수표를 안 씁니다, 팔크 씨. 너무 늦었을 때 영수증을 쓰죠.
+FALK: Woher wissen Sie, wann die Warnung in Vilnius angekommen ist?
+> 경고가 빌뉴스에 언제 도착했는지 어떻게 아십니까?
+SEDOV: Von derselben Stelle, von der Sie es heute erfahren haben. Nur früher. … Gut, nehmen wir an, Ihr Scheck ist gedeckt. Was bekommt Moskau, wenn es sich bewegt?
+> 당신이 오늘 들은 바로 그곳에서요. 좀 더 일찍요. …좋습니다. 당신 수표에 잔고가 있다고 칩시다. 모스크바가 움직이면 뭘 받습니까?
+FALK: Keine Bilder, kein Vorkommando. Und die Züge mit Medikamenten fahren wieder nach Kaliningrad, sobald Vilnius sie geprüft hat.
+> 사진 없음, 선발대 없음. 그리고 의약품 실은 열차는 빌뉴스가 검사하는 대로 다시 칼리닌그라드로 갑니다.
+SEDOV: «Keine Bilder» heißt, dass Sie die Amerikaner nicht angerufen haben.
+> «사진 없음»이라는 건 미국인들한테 전화 안 했다는 뜻이군요.
+FALK: Ich habe sie nicht angerufen.
+> 안 했습니다.
+SEDOV: Sie haben im Perfekt geantwortet, Herr Falk, nicht im Futur. Ich habe es gehört. … Ich rufe jetzt Moskau an. Wenn sich in der Rominter Heide etwas bewegt, erfahren Sie es um halb sechs, von mir und von niemandem sonst.
+> 현재완료로 대답하셨군요, 팔크 씨. 미래형이 아니라. 들었습니다. …이제 모스크바에 전화하죠. 로민텐 숲에서 뭔가 움직이면 다섯 시 반에 아시게 될 겁니다. 저한테서, 다른 누구도 아니고.
+FALK: Und wenn sich nichts bewegt?
+> 아무것도 안 움직이면요?
+SEDOV: Dann hat Ihr Kaiser seine Nordlandreise umsonst angetreten. Schreiben Sie auf, was Sie mir versprochen haben, Herr Falk. Ich tue es auch.
+> 그럼 당신네 황제는 북해 유람을 괜히 떠난 거겠죠. 저한테 뭘 약속했는지 적어 두세요, 팔크 씨. 저도 적을 테니까.
+
+== 장면 2 — DER VERBOTENE ANRUF
+HALE: Herr Falk. Bei mir ist es zwanzig vor eins, ich sitze im Bademantel in Dahlem, und auf meinem Display steht Ihre private Nummer. Seit Ihrer Suspendierung ruft mich von dieser Nummer niemand mehr an. Sie wollen mir etwas verkaufen.
+> 팔크 씨. 여긴 열두 시 40분이고, 전 달렘 집에서 가운 차림으로 앉아 있습니다. 화면엔 당신 개인 번호가 떠 있고요. 직무 정지 뒤로는 이 번호로 전화하는 사람이 없었는데. 뭘 파시려는 모양이군요.
+FALK: Diesmal kaufe ich, Herr Hale. Sie hatten in der Nacht am Vištytis-See Radar über dem Dreiländereck. Ich brauche es bis sieben Uhr in Vilnius.
+> 이번엔 사려고요, 헤일 씨. 비슈티티스 호수 그날 밤, 삼국 접경 위 레이더 자료가 있으시죠. 일곱 시까지 빌뉴스에 필요합니다.
+HALE: Sie sind in Vilnius. Interessant. Das Kanzleramt hat mir gestern Abend versichert, die Bundesregierung habe dort niemanden.
+> 빌뉴스에 계시는군요. 흥미롭네요. 총리실은 어제 저녁에 연방정부가 거기 아무도 안 보냈다고 장담하던데.
+FALK: Das stimmt. Ich bin niemand. Haben Sie die Daten?
+> 맞습니다. 전 아무도 아니에요. 자료 있습니까?
+HALE: Wir hatten ein AWACS über Polen und ein paar andere Dinge, über die wir nicht sprechen. Bevor ich Ja oder Nein sage: Warum ich, und warum um diese Uhrzeit?
+> 폴란드 상공에 AWACS가 있었고, 말 못 할 다른 것들도 좀 있었죠. 된다 안 된다 하기 전에 묻죠. 왜 저고, 왜 이 시간입니까?
+FALK: Weil um acht in Vilnius der Verteidigungsrat tagt und die Grenzer ab morgen ohne Rückfrage zurückschießen wollen. Wenn Litauen weiß, woher die Drohne kam, schießt es wenigstens nicht ins Dunkle.
+> 여덟 시에 빌뉴스에서 국방위원회가 열리고, 국경경비대는 내일부터 묻지 않고 응사하려고 하니까요. 드론이 어디서 왔는지 알면, 리투아니아가 적어도 어둠 속으로 쏘지는 않겠죠.
+HALE: Oder es schießt sehr genau. Daten beruhigen niemanden, Herr Falk. Sie zeigen nur, wohin man zielen soll.
+> 아니면 아주 정확하게 쏘거나요. 자료는 아무도 진정시키지 않아요, 팔크 씨. 어디를 겨눠야 할지 보여 줄 뿐이죠.
+FALK: Deshalb gibt es einen zweiten Teil. Moskau hat zugesagt, die Einheiten in der Rominter Heide bis sechs Uhr hinter die gemeldete Linie zurückzuziehen. Ihre Daten sollen nur dafür sorgen, dass Vilnius dem Rückzug glaubt und nicht dem Schuss.
+> 그래서 두 번째가 있습니다. 모스크바가 로민텐 숲 부대를 여섯 시까지 신고선 뒤로 물리기로 약속했어요. 당신 자료는 빌뉴스가 총격이 아니라 철수를 믿게 하는 데만 쓰입니다.
+HALE: Moskau hat zugesagt. Wem? Ihnen? … Seit wann telefonieren Sie mit Moskau, Herr Falk?
+> 모스크바가 약속했다. 누구한테요? 당신한테? …언제부터 모스크바랑 통화하셨죠, 팔크 씨?
+FALK: Seit es sonst niemand tut. Mehr kann ich Ihnen nicht sagen, und mehr wollen Sie um diese Uhrzeit auch gar nicht wissen.
+> 다른 아무도 안 하게 된 뒤부터요. 더는 말씀 못 드리고, 이 시간에 그 이상은 알고 싶지도 않으실 겁니다.
+HALE: Unterschätzen Sie nicht, was ich um diese Uhrzeit wissen will. Sie erinnern sich an meinen Preis vom März: vier Patriot-Feuereinheiten. Die Kanzlerin hat gelacht, hat man mir erzählt.
+> 이 시간에 제가 뭘 알고 싶어 하는지 얕보지 마세요. 3월에 제가 부른 값 기억하시죠. 패트리엇 포대 넷. 총리가 웃었다더군요.
+FALK: Sie hat gelacht, und ich bin suspendiert. Patriots kann ich Ihnen nicht verkaufen. Ich biete Ihnen etwas Besseres: Um sieben ist Washington das Land, das den Litauern die Wahrheit gezeigt hat, und nicht das Land, das sie zurückgehalten hat.
+> 총리는 웃었고 저는 직무 정지됐죠. 패트리엇은 못 팝니다. 더 좋은 걸 드리죠. 일곱 시에 워싱턴은 리투아니아에 진실을 보여 준 나라가 되는 겁니다. 그걸 쥐고 안 내놓은 나라가 아니라.
+HALE: Wie poetisch. Und wenn ich Nein sage?
+> 시적이네요. 제가 거절하면요?
+FALK: Dann bekommt Vilnius die Bilder aus Paris. Die französischen Rafale aus Šiauliai waren in dieser Nacht in der Luft, und Paris liefert gern, wenn Washington zögert. Ich habe dort noch einen Anruf frei.
+> 그럼 빌뉴스는 파리에서 사진을 받겠죠. 샤울랴이의 프랑스 라팔 전투기들이 그날 밤 떠 있었고, 파리는 워싱턴이 머뭇거릴 때 기꺼이 내줍니다. 저한텐 거기 걸 전화 한 통이 남아 있고요.
+HALE: Französische Kampfjets im Nachtflug, die zufällig über dem Dreiländereck einen Schuss gesehen haben. … Sie bluffen, Herr Falk. Aber Sie bluffen mit der richtigen Sorge: dass die Franzosen hier die Retter spielen.
+> 야간 비행 중인 프랑스 전투기가 마침 삼국 접경 위에서 총격을 봤다. …허세시군요, 팔크 씨. 그래도 허세에 딱 맞는 걱정을 고르셨어요. 프랑스가 여기서 구원자 노릇을 하는 거.
+FALK: Ich bluffe, seit ich diesen Beruf habe. Die Frage ist nur, ob Sie es sich leisten können nachzusehen.
+> 이 일 시작한 뒤로 늘 허세였죠. 문제는 당신이 그걸 확인해 볼 여유가 있느냐는 겁니다.
+HALE: Ich sage Ihnen, was wir haben, damit Sie wissen, was Sie kaufen. Eine kleine Drohne, um drei Uhr acht, von Norden, aus Richtung Rominter Heide, zwanzig Minuten über dem polnischen Wald, dann zurück. Den Schuss sieht kein Radar der Welt.
+> 뭘 사시는지는 아셔야 하니까 우리가 가진 걸 말씀드리죠. 작은 드론 하나. 세 시 8분, 북쪽에서, 로민텐 숲 방향에서 와서 폴란드 숲 위에 20분 떠 있다가 돌아갔습니다. 총알은 세상 어떤 레이더도 못 봐요.
+FALK: Von Norden. Also aus Russland.
+> 북쪽에서. 그럼 러시아에서.
+HALE: Aus Richtung Russland. Diesen Unterschied machen Ihre Litauer um acht Uhr früh nicht. Deshalb bekommen sie keine Rohdaten, sondern eine Zusammenfassung über die NATO, an ihr Hauptquartier, um halb sieben.
+> 러시아 «방향»에서요. 그 차이를 당신네 리투아니아 사람들은 아침 여덟 시에 따지지 않겠죠. 그래서 원자료는 안 줍니다. 요약본만, NATO 경로로, 리투아니아 사령부에, 여섯 시 반에.
+FALK: Danke.
+> 감사합니다.
+HALE: Danken Sie nicht zu früh. Ich gebe es, weil es meinen Leuten in Litauen nützt, nicht Ihnen. Und unter einer Bedingung: Wenn Ihr Moskau um sechs nicht zurückgezogen hat, haben Sie mich heute Nacht nie angerufen, und ich habe nie etwas gesehen.
+> 너무 일찍 고마워하지 마세요. 리투아니아에 있는 우리 병력한테 도움이 되니까 주는 거지, 당신 좋으라고 주는 게 아니에요. 그리고 조건이 하나 있습니다. 당신의 모스크바가 여섯 시까지 안 물러나면, 당신은 오늘 밤 저한테 전화한 적 없고 저는 아무것도 본 적 없는 겁니다.
+FALK: Einverstanden.
+> 좋습니다.
+HALE: Und Herr Falk: Ein Mann, der in einer Nacht mit Moskau und mit Washington spricht, sollte sich gut merken, wem er was erzählt. Ich merke es mir nämlich auch.
+> 그리고 팔크 씨. 하룻밤에 모스크바랑도 워싱턴이랑도 얘기하는 사람은 누구한테 뭘 말했는지 잘 기억해 두는 게 좋을 겁니다. 저도 기억해 두거든요.
+FALK: Ich führe eine Liste.
+> 목록을 적고 있습니다.
+HALE: Natürlich tun Sie das. Sie sind Deutscher. Gute Nacht.
+> 당연히 그러시겠죠. 독일 사람이니까. 잘 자요.
+
+== 장면 3 — LES SOMNAMBULES
+FALK: Claire, ich bin es. Habe ich dich geweckt?
+> 클레르, 나야. 깨웠어?
+CLAIRE: Konstantin. Niemand weckt mich in so einer Nacht. Halb zwei in Paris, ich sitze im Morgenmantel vor drei Bildschirmen, auf denen Litauen brennt. Ich habe mich schon gefragt, wann du anrufst.
+> 콘스탄틴. 이런 밤엔 아무도 날 못 깨워. 파리는 한 시 반이고, 난 실내복 차림으로 리투아니아가 불타는 화면 세 개 앞에 앉아 있어. 네가 언제 전화하나 궁금하던 참이야.
+FALK: Du hast dich gefragt, wann, nicht ob. Das ist schmeichelhaft.
+> «할지»가 아니라 «언제»가 궁금했구나. 영광이네.
+CLAIRE: Das ist Erfahrung. Wenn irgendwo zwischen Narva und Suwałki geschossen wird, ruft mich früher oder später ein Deutscher an und will, dass Frankreich etwas sagt, was Deutschland nicht sagen kann. Was soll Frankreich heute sagen?
+> 경험이지. 나르바에서 수바우키 사이 어디서 총소리가 나면, 조만간 독일 사람 하나가 전화해서 독일이 못 하는 말을 프랑스가 해 주길 바라거든. 오늘은 프랑스가 뭘 말하면 돼?
+FALK: Um zehn trifft sich der Nordatlantikrat zu Artikel 4. Ich möchte, dass Paris als Erstes spricht, und zwar nicht über Schuld, sondern über Zeit: keine neuen Einsatzregeln, Rückzug hinter gemeldete Linien, eine gemeinsame Untersuchung.
+> 열 시에 북대서양이사회가 4조 때문에 모여. 파리가 제일 먼저 발언해 줬으면 해. 책임 얘기 말고 시간 얘기로. 교전 규칙 변경 없음, 신고선 뒤로 철수, 공동 조사.
+CLAIRE: Warum ausgerechnet Paris? Ihr habt doch eure Brigade, eure Bernstein-Pläne und neuerdings euren Mut.
+> 왜 하필 파리야? 너희한텐 여단도 있고, 베른슈타인 계획도 있고, 요즘엔 용기까지 생겼잖아.
+FALK: Weil Washington um sieben verkünden wird, dass es die Krise mit seinen Radardaten entschärft hat. Dann geht Berlin mit Washington, auch bei Anhang C. Wenn Paris morgen schweigt, ist die europäische Dimension, die du im März so gern im Text haben wolltest, nur noch eine Fußnote.
+> 워싱턴이 일곱 시에 자기네 레이더 자료로 위기를 진정시켰다고 발표할 거니까. 그러면 베를린은 워싱턴이랑 같이 가. 부속서 C도. 파리가 내일 입 다물면, 네가 3월에 그렇게 문서에 넣고 싶어 했던 유럽적 차원은 각주 하나로 남을 거야.
+CLAIRE: Ah. Du drohst mir mit den Amerikanern. Das ist neu. Früher hast du mir mit Adenauer gedroht.
+> 아. 미국인들로 날 협박하는구나. 새롭네. 예전엔 아데나워로 협박하더니.
+FALK: Ich erzähle dir nur, wie der Morgen aussieht, wenn in Europa vor acht Uhr niemand wach ist.
+> 유럽에서 여덟 시 전에 아무도 깨어 있지 않으면 아침이 어떤 모습일지 얘기해 주는 것뿐이야.
+CLAIRE: Wach. Weißt du, was auf meinem Nachttisch liegt? Clark, «Les Somnambules». Ich lese darin, jedes Mal wenn ihr Deutschen nervös werdet.
+> 깨어 있다라. 내 머리맡에 뭐가 있는지 알아? 클라크, «몽유병자들». 너희 독일 사람들이 초조해질 때마다 펼쳐 봐.
+FALK: Ihr Franzosen habt das Buch weniger geliebt als wir.
+> 프랑스 사람들은 그 책을 우리만큼 좋아하진 않았지.
+CLAIRE: Natürlich nicht. Ihr habt es geliebt, weil euch ein Australier aus Cambridge nach fünfzig Jahren Fritz Fischer ein bisschen Schuld abgenommen hat. Alle sind geschlafwandelt, also war keiner wach, also war keiner schuld.
+> 당연하지. 너희가 좋아한 건, 케임브리지의 오스트레일리아 사람이 프리츠 피셔 이후 50년 만에 너희 죄를 조금 덜어 줬기 때문이야. 다들 잠결에 걸었다, 그러니 아무도 깨어 있지 않았다, 그러니 아무도 잘못이 없다.
+FALK: Clark hat niemanden freigesprochen. Er hat nur gezeigt, dass in jeder Hauptstadt jemand einen Scheck geschrieben hat, den ein anderer einlösen konnte. Auch in Paris.
+> 클라크는 아무도 무죄로 만들지 않았어. 수도마다 누군가 남이 현금으로 바꿀 수 있는 수표를 썼다는 걸 보여 줬을 뿐이야. 파리에서도.
+CLAIRE: Poincaré in Sankt Petersburg. Ich wusste, dass du damit kommst.
+> 상트페테르부르크의 푸앵카레. 그 얘기 할 줄 알았어.
+FALK: Vom zwanzigsten bis zum dreiundzwanzigsten Juli 1914, Staatsbesuch, Trinksprüche in Peterhof, und Russland weiß danach, dass Frankreich zu ihm steht, was immer kommt. Am Abend, an dem Poincaré abreist, übergibt Wien in Belgrad sein Ultimatum.
+> 1914년 7월 20일부터 23일까지, 국빈 방문. 페테르고프에서 건배가 오가고, 그 뒤로 러시아는 무슨 일이 있어도 프랑스가 자기 편이라는 걸 알지. 푸앵카레가 떠나는 날 저녁, 빈은 베오그라드에 최후통첩을 건네고.
+CLAIRE: Weil Wien gewartet hat, bis er auf dem Schiff war, damit sich Paris und Petersburg nicht mehr absprechen konnten. Du siehst, Konstantin, wir wissen beide, wie man einen Scheck schreibt, ohne die Feder anzufassen.
+> 빈이 그가 배에 오를 때까지 기다렸으니까. 파리랑 페테르부르크가 더는 말을 맞추지 못하게. 봐, 콘스탄틴. 우리 둘 다 펜을 안 대고 수표 쓰는 법은 알잖아.
+FALK: Deshalb rufe ich dich an, bevor jemand auf ein Schiff steigt. Sprich um zehn als Erste.
+> 그래서 누가 배에 오르기 전에 너한테 전화하는 거야. 열 시에 제일 먼저 발언해 줘.
+CLAIRE: Und was weiß ich, das ich um zehn besser nicht laut sage? Hat dir dein Russe auf der Bank erzählt, wer geschossen hat?
+> 그럼 내가 아는 것 중에 열 시에 큰 소리로 말하지 않는 게 좋은 건 뭐야? 벤치의 네 러시아 사람이 누가 쐈는지 말해 줬어?
+FALK: … Welche Bank, Claire?
+> …무슨 벤치, 클레르?
+CLAIRE: Die Litauer reden, Konstantin. In Brüssel erzählt man sich seit heute Abend von einem Foto: die Spree, ein Sonntagmorgen, zwei Männer vor einem Glaspavillon. Ich habe nur zwei und zwei zusammengezählt.
+> 리투아니아 사람들이 말을 하잖아, 콘스탄틴. 브뤼셀에선 오늘 저녁부터 사진 얘기가 돌아. 슈프레강, 일요일 아침, 유리 건물 앞 남자 둘. 난 그냥 둘에 둘을 더했을 뿐이야.
+FALK: Dann zähl richtig: Ich habe heute Nacht mit niemandem in Moskau gesprochen. Die Russen sind ein Problem der Allianz, nicht meiner Telefonrechnung.
+> 그럼 제대로 더해. 나 오늘 밤 모스크바 누구하고도 통화 안 했어. 러시아는 동맹의 문제지, 내 전화 요금 문제가 아니야.
+CLAIRE: Ich glaube dir sofort. Das ist der Vorteil alter Freundschaften: Man glaubt sofort und prüft später. … Gut. Frankreich spricht um zehn als Erstes, über Zeit und nicht über Schuld.
+> 바로 믿어. 오랜 우정의 장점이지. 일단 믿고 확인은 나중에. …좋아. 프랑스가 열 시에 제일 먼저 말할게. 책임 말고 시간에 대해서.
+FALK: Was kostet das?
+> 그건 얼마야?
+CLAIRE: Diesmal nichts Schriftliches. Wenn Bernstein im Juli unterschrieben wird, sitzt ein Franzose an dem Tisch, an dem ihr festlegt, was Bernstein im Ernstfall bedeutet. Und du rufst mich an, bevor du die Amerikaner anrufst. Nicht danach.
+> 이번엔 문서는 필요 없어. 베른슈타인이 7월에 서명되면, 유사시에 베른슈타인이 뭘 뜻하는지 정하는 테이블에 프랑스 사람 하나가 앉는 거. 그리고 미국인들한테 전화하기 전에 나한테 먼저 해. 나중이 아니라.
+FALK: Abgemacht.
+> 약속할게.
+CLAIRE: Du hast «abgemacht» gesagt, bevor ich fertig war. Das tust du nur, wenn du etwas schon getan hast. Schlaf ein bisschen, Konstantin. Schlafwandler schlafen nie, sie sehen nur so aus.
+> 내가 말 끝내기도 전에 «약속할게»라고 하네. 그건 네가 이미 뭔가를 해 놨을 때만 하는 버릇인데. 좀 자, 콘스탄틴. 몽유병자는 절대 안 자. 자는 것처럼 보일 뿐이지.
+ELISABETH: Ich bin wach, keine Sorge. Lies mir die Liste vor, Spalte für Spalte.
+> 깨어 있어, 걱정 마. 목록 읽어 줘. 칸마다.
+FALK: Sedov: Berlin steht blanko hinter Vilnius, Vorkommando im Juni, Medikamentenzüge, keine Amerikaner. Hale: Moskau hat schon zugesagt, sonst liefern die Franzosen. Claire: Washington verkündet um sieben, Berlin geht mit Washington, und ich habe mit niemandem in Moskau gesprochen.
+> Sedov: 베를린은 빌뉴스 뒤에 백지로 서 있다, 6월에 선발대, 의약품 열차, 미국인 없음. Hale: 모스크바는 이미 약속했다, 아니면 프랑스가 준다. Claire: 워싱턴이 일곱 시에 발표한다, 베를린은 워싱턴과 간다, 그리고 난 모스크바 누구하고도 통화 안 했다.
+ELISABETH: Und wie viel davon ist wahr?
+> 그중에 사실은 얼마나 돼?
+FALK: Wörtlich? Ein Satz. Ich habe Sedov gesagt, dass ich die Amerikaner nicht angerufen habe, und um ein Uhr zehn stimmte das noch.
+> 글자 그대로? 한 문장. Sedov한테 미국인들한테 전화 안 했다고 했는데, 한 시 10분엔 그게 아직 사실이었어.
+ELISABETH: Dann hast du drei Menschen je einen Scheck gegeben, und jeder ist auf die Bank eines anderen ausgestellt. Sedov zahlt, weil er Hale fürchtet, Hale, weil er Claire fürchtet, Claire, weil sie Hale fürchtet. Das hält, solange keiner von ihnen den anderen anruft.
+> 그럼 세 사람한테 수표를 한 장씩 줬는데, 다 다른 사람 은행 앞으로 끊은 거네. Sedov는 Hale이 무서워서 내고, Hale은 Claire가 무서워서, Claire는 Hale이 무서워서. 셋 중 누구도 서로 전화하지 않는 동안만 버티는 거야.
+FALK: Diplomaten rufen einander nachts nicht an. Sie rufen ihre Hauptstädte an.
+> 외교관들은 밤에 서로 전화하지 않아. 자기 수도에 전화하지.
+ELISABETH: Und die Hauptstädte? … Noch etwas, Konstantin. Hat Claire dich etwas gefragt, das sie eigentlich nicht wissen konnte?
+> 그럼 수도들은? …하나만 더, 콘스탄틴. Claire가 원래 알 수 없는 걸 물어봤어?
+FALK: Sie hat nach einer Bank gefragt. Ich habe es aufgeschrieben, in eine Spalte, die es vor einer Stunde noch nicht gab.
+> 벤치를 물었어. 적어 뒀어. 한 시간 전엔 없던 칸에.
+
+== 절정 — UNGEDECKT
+HALE: Herr Falk, es ist Viertel nach drei, und ich habe in den letzten neunzig Minuten zwei Anrufe bekommen, die es nicht geben dürfte. Raten Sie, von wem.
+> 팔크 씨, 세 시 15분입니다. 지난 90분 동안 있어서는 안 될 전화를 두 통 받았어요. 누군지 맞혀 보시죠.
+FALK: Aus Washington.
+> 워싱턴이요.
+HALE: Zweimal aus Washington, weil vorher Moskau und Paris dort angerufen haben. Der russische Vizeaußenminister hat unseren Geschäftsträger in Moskau um zwei aus dem Bett geholt: Man wisse, dass die Amerikaner Berlin Radardaten gegeben hätten, die Russland belasten, und jede Veröffentlichung sei eine Provokation.
+> 워싱턴에서 두 번이요. 그 전에 모스크바랑 파리가 거기 전화했으니까. 러시아 외무차관이 두 시에 모스크바 주재 우리 대사대리를 깨웠습니다. 미국이 러시아에 불리한 레이더 자료를 베를린에 줬다는 걸 알고 있다, 어떤 공개든 도발로 간주하겠다면서.
+FALK: Um zwei hatten Sie mir noch gar nichts gegeben.
+> 두 시엔 아직 저한테 아무것도 안 주셨잖습니까.
+HALE: Eben. Moskau wusste es, bevor es wahr war, und es gibt nur einen Menschen, der es so erzählt haben kann. Und Paris hat beim Nationalen Sicherheitsrat nachgefragt, um wie viel Uhr unsere große Erklärung zu Litauen kommt. Welche Erklärung, Herr Falk?
+> 바로 그거예요. 모스크바는 그게 사실이 되기도 전에 알았고, 그렇게 말했을 수 있는 사람은 하나뿐이죠. 그리고 파리는 국가안보회의에 우리의 리투아니아 대성명이 몇 시에 나오냐고 물었어요. 무슨 성명이죠, 팔크 씨?
+FALK: Ich habe Moskau gesagt, dass es amerikanische Bilder gibt, und Paris, dass Washington sie benutzen wird. Beides ist inzwischen wahr geworden.
+> 모스크바엔 미국 사진이 있다고 했고, 파리엔 워싱턴이 그걸 쓸 거라고 했습니다. 둘 다 이제는 사실이 됐죠.
+HALE: Nein, Herr Falk. Wahr geworden ist gar nichts. Sie haben dreimal in einer Nacht mit meinem Namen bezahlt, und mir haben Sie erzählt, Moskau habe schon zugesagt. Moskau hat nicht zugesagt. Moskau hat gedroht.
+> 아니요, 팔크 씨. 사실이 된 건 하나도 없어요. 하룻밤에 세 번이나 내 이름으로 결제했고, 나한텐 모스크바가 이미 약속했다고 했죠. 모스크바는 약속 안 했어요. 협박했지.
+FALK: Moskau droht immer, bevor es sich bewegt. Das ist dort die Grammatik.
+> 모스크바는 움직이기 전엔 늘 협박합니다. 거기 문법이 그래요.
+HALE: Ersparen Sie mir Ihre Grammatik. Wissen Sie, wie man das bei uns nennt? Sie haben einen Blankoscheck auf das Konto der Vereinigten Staaten ausgestellt und ihn in Moskau und Paris verteilt. Ihre Vorfahren haben das 1914 wenigstens mit eigenem Geld getan.
+> 문법 강의는 됐습니다. 우리 쪽에선 그걸 뭐라고 하는지 아세요? 당신은 미합중국 계좌로 백지수표를 써서 모스크바와 파리에 뿌린 거예요. 당신네 조상들은 1914년에 적어도 자기 돈으로 그랬죠.
+FALK: Sie haben recht, und ich weiß auch, was danach kam. Am achtundzwanzigsten Juli schreibt der Kaiser an den Rand der serbischen Antwort, damit falle jeder Grund zum Kriege fort, und schlägt vor, in Belgrad haltzumachen. Am selben Tag erklärt Wien Serbien den Krieg.
+> 맞습니다. 그리고 그다음에 뭐가 왔는지도 압니다. 7월 28일, 황제는 세르비아 답신 여백에 이로써 전쟁할 이유는 모두 사라졌다고 적고, 베오그라드에서 멈추자고 제안하죠. 바로 그날 빈은 세르비아에 선전포고를 하고요.
+HALE: Und die Moral von der Geschichte?
+> 그래서 이 얘기의 교훈은요?
+FALK: Einen Blankoscheck kann man nicht zurückrufen, man kann ihn nur überholen. Wenn Ihre Zusammenfassung nicht um halb sieben, sondern um halb sechs in Vilnius liegt, ist keiner meiner Schecks mehr ungedeckt. Dann haben Moskau und Paris nur etwas früher erfahren, was ohnehin wahr wurde.
+> 백지수표는 회수할 수 없습니다. 앞지를 수 있을 뿐이죠. 당신 요약본이 여섯 시 반이 아니라 다섯 시 반에 빌뉴스에 가 있으면, 제 수표 중에 잔고 없는 건 하나도 없게 됩니다. 그러면 모스크바와 파리는 어차피 사실이 될 걸 조금 일찍 알았던 것뿐이고요.
+HALE: Sie verlangen, dass ich Ihnen helfe, weil Sie mich belogen haben.
+> 날 속였으니 도와 달라는 거군요.
+FALK: Ich verlange, dass Sie Ihren eigenen Leuten helfen. Wenn der Rat um acht das Zurückschießen erlaubt, stehen Ihre Soldaten in Pabradė zwischen einem Automatismus und einem Wald.
+> 당신 사람들을 도우라는 겁니다. 여덟 시에 위원회가 응사를 허용하면, 파브라데의 당신네 군인들은 자동 연쇄와 숲 사이에 서게 됩니다.
+HALE: Erklären Sie mir nicht meine Soldaten. … Ich rufe jetzt Lehnert an. Er soll erfahren, was sein suspendierter Sonderbeauftragter nachts im Namen Amerikas verkauft.
+> 우리 병사들 얘기로 날 가르치려 들지 마요. …지금 레너트한테 전화하겠습니다. 직무 정지된 자기 특별대표가 밤에 미국 이름으로 뭘 팔고 다니는지 알아야죠.
+FALK: Rufen Sie ihn an. Er wird Ihnen sagen, dass er mich bis sieben Uhr nicht kennt, und danach wissen Sie weniger als jetzt.
+> 전화하세요. 일곱 시까진 저를 모른다고 할 거고, 그러고 나면 지금보다 아는 게 더 적어지실 겁니다.
+HALE: … Was verkaufen Sie mir also, damit ich es nicht tue?
+> …그럼 내가 그러지 않게 하려면 뭘 팔 건데요?
+FALK: Das Einzige, was ich habe: den Kanal. Was über diese Leitung kommt und Ihre Soldaten betrifft, erfahren Sie in derselben Stunde wie Berlin.
+> 제가 가진 유일한 것. 채널이요. 그 선으로 들어오는 것 중 당신네 군인들과 관련된 건, 베를린과 같은 시간에 아시게 될 겁니다.
+HALE: In derselben Stunde wie Berlin. Sie verkaufen mir den Kanal Ihrer Regierung, ohne Ihre Regierung zu fragen. Langsam werden Sie ein richtiger Partner, Herr Falk.
+> 베를린과 같은 시간에. 정부 채널을 정부한테 묻지도 않고 나한테 파는군요. 이제야 진짜 파트너가 돼 가네요, 팔크 씨.
+FALK: Halb sechs?
+> 다섯 시 반?
+HALE: Fünf Uhr vierzig, über die NATO, an das litauische Hauptquartier. Und Herr Falk: Den Namen, den Sie mir eben nicht gesagt haben, habe ich mir trotzdem notiert. Ich weiß, wer auf Ihren Bänken sitzt.
+> 다섯 시 40분. NATO 경로로, 리투아니아 사령부에. 그리고 팔크 씨, 방금 말 안 한 그 이름, 그래도 적어 뒀습니다. 당신 벤치에 누가 앉는지 알아요.
+SEDOV: Zehn vor sechs, Herr Falk, zwanzig Minuten später als versprochen. Moskau hat lange nachgedacht. In der Rominter Heide rollen seit einer Stunde Fahrzeuge nach Norden, und Moskau nennt es den planmäßigen Abschluss der zweiten Übungsphase.
+> 여섯 시 10분 전입니다, 팔크 씨. 약속보다 20분 늦었네요. 모스크바가 오래 생각했거든요. 로민텐 숲에선 한 시간 전부터 차량들이 북쪽으로 움직이고 있고, 모스크바는 그걸 훈련 2단계의 계획된 종료라고 부릅니다.
+FALK: Hinter die gemeldete Linie?
+> 신고한 선 뒤로요?
+SEDOV: Bis acht Uhr, ja. Die Litauer werden es mit ihren Drohnen sehen und glauben, es sei ihr Verdienst. Lassen Sie ihnen die Freude.
+> 여덟 시까지는요, 네. 리투아니아 사람들은 드론으로 보고 자기들 덕분이라고 믿겠죠. 그 기쁨은 그냥 두세요.
+FALK: Danke, Herr Sedov.
+> 감사합니다, 세도프 씨.
+SEDOV: Danken Sie Ihrem Scheck. Ich weiß, dass er ungedeckt war: Ihre Kanzlerin hat heute Nacht nichts unterschrieben, sie hat geschlafen. Eingelöst habe ich ihn trotzdem, weil der andere Scheck gedeckt war, der aus Washington.
+> 당신 수표한테 고마워하세요. 잔고 없는 거였다는 거 압니다. 당신네 총리는 오늘 밤 아무것도 서명하지 않았어요. 자고 있었죠. 그래도 현금으로 바꿔 준 건, 다른 수표에 잔고가 있었기 때문입니다. 워싱턴 수표요.
+FALK: Ich habe Ihnen gesagt, dass ich die Amerikaner nicht angerufen habe.
+> 미국인들한테 전화 안 했다고 말씀드렸잖습니까.
+SEDOV: Im Perfekt, um ein Uhr zehn. Seit fünf Uhr vierzig liegt eine amerikanische Zusammenfassung in Vilnius, und was in Vilnius liegt, liegt um sechs in Moskau. Ich habe es auf meine Liste geschrieben, Herr Falk: Sie schulden mir einen Anruf, und diesmal rufen Sie an, wann ich es sage.
+> 현재완료로요, 한 시 10분에. 다섯 시 40분부터 빌뉴스엔 미국 요약본이 있고, 빌뉴스에 있는 건 여섯 시면 모스크바에 있죠. 제 목록에 적어 뒀습니다, 팔크 씨. 당신은 저한테 전화 한 통을 빚졌어요. 이번엔 제가 말하는 때에 당신이 거는 겁니다.
+FALK: Und der Mann mit der Nadel? Der Name, den Sie mir für den ersten pünktlichen Zug versprochen haben?
+> 핀 단 남자는요? 첫 열차가 제시간에 도착하면 주겠다던 그 이름은요?
+SEDOV: Die Züge stehen seit gestern früh, Herr Falk. Fragen Sie mich wieder, wenn einer fährt. Gute Nacht, oder besser: guten Morgen.
+> 열차는 어제 아침부터 서 있잖습니까, 팔크 씨. 한 대라도 달리면 다시 물어보세요. 안녕히 주무세요. 아니, 좋은 아침입니다.
+
+== 마무리 — SIEBEN UHR
+LEHNERT: Herr Falk. In Berlin ist es kurz vor sechs, und der amerikanische Gesandte hat mich vor einer Stunde angerufen, um sich für einen Kanal zu bedanken, von dem er nichts wissen dürfte.
+> 팔크 씨. 베를린은 여섯 시 조금 전입니다. 미국 공사가 한 시간 전에 전화해서, 알 리가 없는 채널에 대해 고맙다고 하더군요.
+FALK: Ich habe ihm eine Kopie versprochen, nicht das Original. Und bis sieben kennen Sie mich nicht, Sie erinnern sich.
+> 원본이 아니라 사본을 약속했을 뿐입니다. 그리고 일곱 시까진 저를 모르신다고 하셨죠, 기억하시죠.
+LEHNERT: Bei Ihnen ist es sieben Minuten vor sieben. Ab sieben kenne ich Sie wieder, und dann reden wir darüber, wem dieser Kanal gehört. Persönlich, in Berlin, in der Laube.
+> 거긴 일곱 시 7분 전이죠. 일곱 시부터 다시 당신을 아는 겁니다. 그때 이 채널이 누구 건지 얘기합시다. 직접, 베를린에서, 오두막에서.
+FALK: Und dort erklären Sie mir den zehnten Mai.
+> 그리고 거기서 5월 10일을 설명해 주시고요.
+LEHNERT: Das habe ich bereits getan. Sie haben nur nicht zugehört.
+> 이미 했습니다. 당신이 안 들었을 뿐이지.
+SIMKUS: Sieben Uhr, Herr Falk. Ich rufe an, wie verabredet. Unsere Aufklärung meldet seit sechs Uhr zwanzig, dass die Einheiten aus der Rominter Heide hinter der gemeldeten Linie stehen, und um fünf Uhr vierzig kam über Brüssel eine amerikanische Zusammenfassung.
+> 일곱 시예요, 팔크 씨. 약속대로 제가 전화했어요. 우리 정찰대가 여섯 시 20분부터, 로민텐 숲 부대들이 신고선 뒤에 있다고 보고하고 있어요. 그리고 다섯 시 40분엔 브뤼셀을 거쳐 미국 요약본이 왔고요.
+FALK: Dann bleiben die Einsatzregeln, wie sie sind?
+> 그럼 교전 규칙은 그대로입니까?
+SIMKUS: Um acht spreche ich im Rat dagegen, sie zu ändern, und ich werde gewinnen. Das Foto bleibt in meiner Schublade. Vorerst.
+> 여덟 시에 위원회에서 바꾸는 데 반대할 거고, 이길 거예요. 사진은 제 서랍에 남아요. 당분간은.
+FALK: Danke, Frau Vizeministerin.
+> 감사합니다, 차관님.
+SIMKUS: Noch nicht. Um sechs Uhr zehn hat mich Frau Duval aus Paris angerufen, sehr freundlich: Frankreich spreche um zehn als Erstes, und falls die amerikanischen Daten nicht genügten, gebe es französische. Und dann sagte sie noch etwas, das ich nicht verstanden habe.
+> 아직이에요. 여섯 시 10분에 파리의 뒤발 국장이 전화했어요. 아주 친절하게요. 열 시에 프랑스가 제일 먼저 발언하고, 미국 자료가 부족하면 프랑스 자료도 있다고. 그러고 나서 제가 이해 못 한 말을 하나 더 했어요.
+FALK: Was?
+> 뭐라고요?
+SIMKUS: Ich solle Ihnen nicht alles glauben. Sie hätten heute Nacht um eins mit Moskau telefoniert, zwölf Minuten lang. … Herr Falk? Sind Sie noch da?
+> 당신 말을 다 믿지는 말라고요. 당신이 오늘 밤 한 시에 모스크바와 통화했다고, 12분 동안. …팔크 씨? 듣고 계세요?
+FALK: Ich bin da. Ich sehe auf meine Liste, Frau Vizeministerin: Sedov, ein Uhr bis ein Uhr zwölf. Diese zwölf Minuten stehen nirgends außer auf diesem Blatt und in meinem Telefon.
+> 듣고 있습니다. 제 목록을 보고 있어요, 차관님. Sedov, 한 시부터 한 시 12분. 그 12분은 이 종이랑 제 전화기 말고는 어디에도 없습니다.
