@@ -1,0 +1,331 @@
+@part 3
+@ep 5
+@title Claire
+@title_ko 클레르
+@tagline 클레르 · 브리앙 기념비 앞의 약속, 식탁에 앉은 세 번째 사람, 다리 위에서 바뀐 호칭
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 5월 28일 금요일 저녁 베를린 텃밭 오두막부터 5월 30일 일요일 밤까지, 파리(케 도르세, 부르고뉴 거리, 알렉산드르 3세 다리)와 베를린 프리드리히스하인
+@cast FALK | 외무부 유럽안보 특별대표, 직무 정지 중 (44)
+@cast LEHNERT | 연방총리실장 (58)
+@cast CLAIRE | Claire Duval · 프랑스 외무부 전략국장 (49)
+@cast LACOMBE | Hugues Lacombe · 프랑스 대외안보총국(DGSE) 전략국 간부, 알자스 출신 (가상)
+@cast JAN | 팔크의 전 보좌관 · 외무부 정치문서보관소 근무 (31)
+@cast ANNA | 탐사보도 기자 · «Berliner Depesche» (45)
+@note ※ 지난 화에서 팔크는 빌뉴스의 호텔 방에서 Sedov, Hale, Claire에게 저마다 다른 허세와 거짓말을 하며 하룻밤을 버텼습니다. 러시아 부대는 물러났고 리투아니아는 교전 규칙을 바꾸지 않았습니다. 그런데 아침 7시, Šimkus 차관이 Claire에게서 들었다며 이렇게 전했습니다. «팔크가 새벽 한 시에 모스크바와 12분 통화했다.» 그 12분은 팔크의 수첩과 휴대폰에만 있는 숫자였습니다.
+@note ※ 호칭: 팔크와 Claire는 오랜 친구라 du를 씁니다(한국어는 반말). 그러나 이번 화 셋째 장면에서 Claire가 일부러 Sie로 바꾸고, 그 뒤 팔크도 «Madame Duval»이라고 부릅니다(한국어는 격식체). 팔크는 Lehnert, Lacombe와 Sie를 씁니다. Jan과 Anna도 서로 Sie를 씁니다.
+@note ※ 표현 초점: finassieren(교묘하게 수를 쓰다, 슈트레제만의 말), Freundschaft unter Rivalen(라이벌 사이의 우정), Hinterhalt(매복), etwas ausrichten(말을 전하다), Gleichgewicht(균형), Benachrichtigung(통보), Zwanzig-Prozent-Regel(20퍼센트 규칙), Treuhandbüro(신탁 사무소), Verwendungszweck(송금 사유), jemanden verleugnen(모른다고 하다). 접속법 I 간접화법: «Frankreich sei bereit, die Kaliningrad-Frage europäisch zu begleiten.» 접속법 II: «Briand hätte seinen Freund vorher gefragt.» 호칭 전환: «Ab heute spreche ich Sie so an, wie man einen Vertreter einer fremden Regierung anspricht.»
+@history 로카르노 조약 (1925) — 1925년 10월 5일부터 16일까지 스위스 마조레 호숫가 로카르노에서 독일, 프랑스, 영국, 이탈리아, 벨기에 등이 모여 회의를 열었고, 10월 16일 조약에 가서명한 뒤 12월 1일 런던에서 정식 서명했습니다. 핵심인 «라인 협정»은 독일–프랑스, 독일–벨기에 국경의 현상 유지와 라인란트 비무장을 영국과 이탈리아가 보장하는 내용이었습니다. 그러나 독일의 동쪽 국경은 보장하지 않았고, 폴란드와 체코슬로바키아와는 중재 조약만 맺었습니다. 그래서 폴란드에서는 로카르노를 «서쪽만 안전해지고 동쪽은 열어 둔 조약»으로 기억합니다. 이듬해 1926년 9월 독일은 국제연맹에 가입했습니다.
+@history 슈트레제만과 브리앙, 1926년 노벨 평화상 — 독일 외무장관 구스타프 슈트레제만과 프랑스 외무장관 아리스티드 브리앙은 로카르노 이후 «라이벌 사이의 우정»의 상징이 되었습니다. 1926년 9월 10일 브리앙은 제네바 국제연맹 총회에서 독일을 맞으며 «소총도, 기관총도, 대포도 물러가라!(Arrière les fusils, les mitrailleuses, les canons!)»라고 연설했고, 두 사람은 그해 노벨 평화상을 함께 받았습니다. 그러나 슈트레제만은 1925년 9월 7일 옛 황태자에게 보낸 편지에서 독일은 당분간 «finassieren»(교묘하게 수를 쓰며 큰 결정을 피함)해야 하며, 배상 완화와 동부 국경 수정이 진짜 목표라고 썼습니다. 이 편지는 그의 화해 정책이 얼마나 진심이었는지를 두고 지금도 논쟁을 낳습니다. 슈트레제만은 1929년 10월에, 브리앙은 1932년 3월에 세상을 떠났습니다.
+@history 투아리 회담 (1926년 9월 17일) — 독일의 국제연맹 가입 직후, 슈트레제만과 브리앙은 제네바 근처 프랑스 쪽 국경 마을 투아리의 작은 여관에서 단둘이 점심을 먹었습니다. 슈트레제만은 라인란트 점령군의 조기 철수와 자르 지역 반환을 대가로, 도스안에 따른 독일 철도 채권을 시장에 팔아 흔들리던 프랑 화를 돈으로 받쳐 주겠다고 제안했고 브리앙도 원칙적으로 호응했습니다. 그러나 프랑스 안의 반발, 푸앵카레 정부가 독일 돈 없이 프랑을 안정시킨 일, 미국의 채권 처분 반대가 겹쳐 이 구상은 무산되었습니다. 연합군의 라인란트 철수는 1930년 6월에야 끝났습니다.
+@preview 3부 6화 — «Anna recherchiert»(안나의 취재) — Anna가 키프로스와 스위스 추크를 거친 자금 흐름을 추적한다. Jan은 팔크 몰래 정치문서보관소의 서류로 Anna를 돕는다. 팔크에게 충성할 것인가, 진실을 먼저 찾을 것인가. 두 사람의 충성심이 부딪치고, 2020년 와이어카드 사태의 그림자가 돈의 길 위에 드리운다.
+
+== 도입 — WEM GEHÖRT DER KANAL
+LEHNERT: Setzen Sie sich, Herr Falk. Kaffee gibt es keinen, der Strom in der Laube reicht nur für das Radio. Sie sehen aus wie jemand, der seit Vilnius nicht geschlafen hat.
+> 앉으세요, 팔크 씨. 커피는 없습니다. 오두막 전기로는 라디오밖에 못 돌려요. 빌뉴스 이후로 한숨도 못 잔 얼굴이군요.
+FALK: Seit Donnerstagmorgen, um genau zu sein. Im Flugzeug saß ein Litauer neben mir, der mir die ganze Strecke erklärt hat, wie man mit Russen redet.
+> 정확히는 목요일 아침부터요. 비행기에서 옆자리 리투아니아 사람이 오는 내내 러시아 사람들하고 어떻게 얘기해야 하는지 설명하더군요.
+LEHNERT: Dann waren Sie wenigstens einmal der Zuhörer. Ich fange mit einer einfachen Frage an: Wem gehört dieser Kanal?
+> 그럼 적어도 한 번은 듣는 쪽이었네요. 간단한 질문부터 하죠. 이 채널은 누구 겁니까?
+FALK: Ihnen. Sie haben ihn genehmigt, an diesem Tisch, und Sie haben gesagt, das Gespräch habe nie stattgefunden.
+> 실장님 거죠. 바로 이 탁자에서 승인하셨고, 그 대화는 없었던 거라고 하셨잖습니까.
+LEHNERT: Richtig. Und trotzdem ruft mich heute früh um fünf der amerikanische Gesandte an und bedankt sich dafür. Sie haben etwas verkauft, das Ihnen nicht gehört.
+> 맞아요. 그런데도 오늘 새벽 다섯 시에 미국 공사가 전화해서 그걸 고맙다고 하더군요. 당신 것도 아닌 걸 파셨어요.
+FALK: Ich habe ihm versprochen, dass er erfährt, was seine Soldaten betrifft, in derselben Stunde wie Berlin. Sonst wären die Radardaten erst nach dem Verteidigungsrat in Vilnius angekommen, und der Rat hätte das Zurückschießen erlaubt.
+> 자기 병사들 관련된 건 베를린과 같은 시간에 알려 주겠다고 약속했을 뿐입니다. 안 그랬으면 레이더 자료는 빌뉴스 국방위원회가 끝난 뒤에야 도착했을 거고, 위원회는 응사를 허용했겠죠.
+LEHNERT: Das Ergebnis gefällt mir, die Methode nicht. Ab heute gilt eine neue Regel: Was Herr Hale liest, habe ich vorher gelesen, nicht in derselben Stunde, sondern vorher.
+> 결과는 마음에 들지만 방법은 아닙니다. 오늘부터 새 규칙입니다. 헤일 씨가 읽는 건 내가 먼저 읽는다. 같은 시간이 아니라 먼저.
+FALK: Einverstanden. Dann stelle ich die Frage, die ich in Vilnius nicht stellen konnte: Frau Šimkus sagt, Ihre Warnung sei am vierundzwanzigsten angekommen, und Sie sagen, Sie hätten am zehnten angerufen.
+> 좋습니다. 그럼 빌뉴스에서 못 한 질문을 하죠. 시므쿠스 차관은 실장님 경고가 24일에 도착했다고 하고, 실장님은 10일에 전화했다고 하십니다.
+LEHNERT: Beides stimmt. Hier, das Telefonjournal meines Vorzimmers, Seite zehnter Mai: zwölf Uhr vier, Vilnius, außenpolitischer Berater des Premierministers, sechs Minuten.
+> 둘 다 맞습니다. 여기, 내 비서실 통화 일지요. 5월 10일 쪽. 12시 4분, 빌뉴스, 총리 외교 보좌관, 6분.
+FALK: Und der vierundzwanzigste?
+> 그럼 24일은요?
+LEHNERT: Am elften habe ich die schriftliche Bestätigung diktiert, mit meinem Aktenzeichen, und sie ging, wie es sich gehört, über die Leitung des Auswärtigen Amts. In Vilnius kam sie dreizehn Tage später an.
+> 11일에 서면 확인을 구술했습니다. 내 문서 번호를 달아서요. 그리고 원칙대로 외무부 지휘부를 거쳐 나갔죠. 빌뉴스엔 13일 뒤에 도착했고요.
+FALK: Dreizehn Tage im vierten Stock. Und der Berater in Vilnius hat Ihren Anruf an niemanden weitergegeben?
+> 4층에서 13일. 그리고 빌뉴스의 그 보좌관은 실장님 전화를 아무한테도 안 전했다는 겁니까?
+LEHNERT: Das fragen Sie Frau Šimkus, nicht mich. Ich habe nicht gesagt, wo das Schreiben gelegen hat, nur, wann es losgeschickt wurde.
+> 그건 시므쿠스 차관한테 물으세요, 나 말고. 서류가 어디 머물렀는지는 말 안 했습니다. 언제 보냈는지만 말했죠.
+FALK: Dann sage ich Ihnen etwas, das ich nur halb weiß. Heute früh hat Claire Duval Frau Šimkus angerufen: Ich hätte um eins mit Moskau telefoniert, zwölf Minuten lang.
+> 그럼 저도 반만 아는 얘기 하나 드리죠. 오늘 아침 클레르 뒤발이 시므쿠스 차관한테 전화했답니다. 제가 한 시에 모스크바와 12분 통화했다고요.
+LEHNERT: Zwölf Minuten. Haben Sie Frau Duval angelogen?
+> 12분이라. 뒤발 국장한테 거짓말하셨습니까?
+FALK: Ich habe ihr gesagt, ich hätte mit niemandem in Moskau gesprochen. Die Zahl zwölf steht nur auf meiner Liste und in meinem Telefon.
+> 모스크바 누구하고도 통화 안 했다고 했습니다. 12라는 숫자는 제 목록이랑 제 전화기에만 있어요.
+LEHNERT: Und offenbar in Paris. Um zwölf hat der diplomatische Berater des Élysée bei unserem außenpolitischen Berater angerufen: Frankreich sei bereit, «die Kaliningrad-Frage europäisch zu begleiten». Offiziell gibt es gar keine Kaliningrad-Frage, Herr Falk.
+> 그리고 분명 파리에도 있겠죠. 열두 시에 엘리제궁 외교 보좌관이 우리 외교 보좌관한테 전화했어요. 프랑스는 «칼리닌그라드 문제를 유럽 차원에서 함께할» 준비가 돼 있다고. 공식적으로는 칼리닌그라드 문제라는 게 아예 없는데 말이죠, 팔크 씨.
+FALK: Claire hat mir um vier eine Nachricht geschickt. Morgen um zehn, Quai d'Orsay, vor dem Denkmal für Aristide Briand.
+> 클레르가 네 시에 문자를 보냈습니다. 내일 열 시, 케 도르세, 아리스티드 브리앙 기념비 앞.
+LEHNERT: Briand. Die Franzosen wählen ihre Kulissen nie zufällig. Fahren Sie, als Privatmann und auf eigene Kosten, und finden Sie heraus, ob Paris unseren Kanal abhört oder übernehmen will.
+> 브리앙이라. 프랑스 사람들은 무대를 절대 아무렇게나 고르지 않죠. 가세요. 개인 자격으로, 자비로. 그리고 파리가 우리 채널을 엿듣는 건지 가로채려는 건지 알아내세요.
+FALK: Vermutlich beides. Briand und Stresemann waren auch Freunde, Herr Lehnert, und keiner von beiden hat dabei sein Land vergessen.
+> 아마 둘 다겠죠. 브리앙과 슈트레제만도 친구였습니다, 실장님. 그리고 둘 중 누구도 그러면서 자기 나라를 잊지 않았죠.
+
+== 장면 1 — VOR DEM DENKMAL
+CLAIRE: Du bist pünktlich, Konstantin. Wie immer, wenn du Angst hast.
+> 제시간이네, 콘스탄틴. 겁날 때면 늘 그렇지.
+FALK: Ich habe keine Angst, ich habe Hunger. In Vilnius gab es seit Donnerstag nur Kaffee und schlechte Nachrichten. Warum hier, Claire, warum Briand?
+> 겁 안 나. 배고플 뿐이야. 빌뉴스에선 목요일부터 커피랑 나쁜 소식밖에 없었거든. 왜 여기야, 클레르? 왜 브리앙이야?
+CLAIRE: Weil du in Straßburg einmal behauptet hast, Briand sei der einzige Franzose, dem ein Deutscher je geglaubt habe. Ich wollte sehen, ob du das heute noch sagst.
+> 네가 스트라스부르에서 그랬잖아. 독일 사람이 믿어 본 프랑스 사람은 브리앙뿐이라고. 오늘도 그렇게 말하나 보고 싶었어.
+FALK: Ich habe gesagt, er sei der Einzige, dem Stresemann geglaubt habe. Das ist nicht dasselbe, denn Stresemann hat niemandem ganz geglaubt, nicht einmal sich selbst.
+> 슈트레제만이 믿은 유일한 사람이라고 했지. 그건 같은 말이 아니야. 슈트레제만은 아무도 완전히 믿지 않았거든. 자기 자신조차.
+CLAIRE: Und doch sind die beiden im Oktober 1925 nach Locarno gefahren, haben auf einem Motorboot über den Lago Maggiore verhandelt und einen Vertrag mitgebracht, der die Grenze am Rhein garantiert. Sieben Jahre nach dem Krieg.
+> 그런데도 1925년 10월에 둘은 로카르노에 갔고, 마조레 호수 위 모터보트에서 협상했고, 라인강 국경을 보장하는 조약을 들고 돌아왔지. 전쟁 끝나고 7년 만에.
+FALK: Die Grenze im Westen. Die im Osten hat Stresemann ausdrücklich nicht garantiert, für Polen und die Tschechoslowakei gab es nur Schiedsverträge. In Warschau nennt man Locarno bis heute den Tag, an dem Polen in die zweite Klasse gesetzt wurde.
+> 서쪽 국경이지. 동쪽은 슈트레제만이 일부러 보장 안 했어. 폴란드와 체코슬로바키아엔 중재 조약뿐이었고. 바르샤바에선 지금도 로카르노를 폴란드를 2등석에 앉힌 날이라고 불러.
+CLAIRE: Du klingst wie Piotr Nowak. … Komm, gehen wir ein Stück. Briand schaut ohnehin nur auf die Seine.
+> 표트르 노바크처럼 말하네. …자, 좀 걷자. 브리앙은 어차피 센강만 보고 있으니까.
+FALK: Was wolltest du mir hier zeigen, außer einem Denkmal?
+> 기념비 말고 여기서 뭘 보여 주고 싶었는데?
+CLAIRE: Einen Satz. Am zehnten September 1926 hat Briand in Genf die Deutschen im Völkerbund begrüßt: «Arrière les fusils, les mitrailleuses, les canons!» Weg mit den Gewehren, den Maschinengewehren, den Kanonen, und der ganze Saal ist aufgestanden.
+> 문장 하나. 1926년 9월 10일 브리앙은 제네바에서 국제연맹에 들어온 독일을 맞으며 말했어. «Arrière les fusils, les mitrailleuses, les canons!» 소총도, 기관총도, 대포도 물러가라. 회의장 전체가 일어섰지.
+FALK: Und drei Monate später bekamen beide den Friedensnobelpreis. Ich kenne die Geschichte, Claire. Was ich nicht kenne, ist der Grund, warum du mich an einem Samstag nach Paris holst.
+> 그리고 석 달 뒤 둘이 노벨 평화상을 받았지. 그 얘긴 알아, 클레르. 내가 모르는 건 네가 토요일에 날 파리까지 부른 이유야.
+CLAIRE: Weil du mir in der Nacht auf Freitag etwas versprochen hast. Du wolltest mich anrufen, bevor du die Amerikaner anrufst.
+> 금요일 넘어가는 밤에 네가 나한테 약속한 게 있으니까. 미국인들한테 전화하기 전에 나한테 먼저 하겠다고.
+FALK: Und ich habe «abgemacht» gesagt, bevor du fertig warst. Du hast es sofort gemerkt.
+> 그리고 난 네 말이 끝나기도 전에 «약속할게»라고 했지. 넌 바로 알아챘고.
+CLAIRE: Ich habe gemerkt, dass du Hale schon angerufen hattest. Was ich nicht wusste, war, wie oft du in dieser Nacht gelogen hast. Inzwischen weiß ich es ungefähr.
+> 네가 이미 헤일한테 전화했다는 건 알아챘어. 몰랐던 건 그날 밤 네가 몇 번이나 거짓말했느냐였지. 지금은 대충 알아.
+FALK: Von Frau Šimkus?
+> 시므쿠스 차관한테서?
+CLAIRE: Von Frau Šimkus weiß ich nur, dass sie dir glaubt. Das ist rührend, und für sie ist es gefährlich.
+> 시므쿠스 차관한테선 그 사람이 널 믿는다는 것만 알았어. 감동적이지. 그리고 그 사람한텐 위험하고.
+FALK: Du hast sie um sechs Uhr zehn angerufen und ihr erzählt, ich hätte um eins zwölf Minuten mit Moskau telefoniert. Woher hast du die zwölf Minuten, Claire?
+> 넌 여섯 시 10분에 그 사람한테 전화해서 내가 한 시에 모스크바랑 12분 통화했다고 했어. 그 12분, 어디서 났어, 클레르?
+CLAIRE: Du hast mich angelogen. «Ich habe heute Nacht mit niemandem in Moskau gesprochen» war dein Satz, um halb zwei, nicht meiner.
+> 네가 나한테 거짓말했잖아. «나 오늘 밤 모스크바 누구하고도 통화 안 했어.» 한 시 반에 네가 한 말이야, 내가 아니라.
+FALK: Ich habe gelogen, ja. Aber du hast nicht nachgefragt, du hast es gewusst, und über diesen Unterschied müssen wir reden.
+> 거짓말했어, 맞아. 그런데 넌 되물은 게 아니라 이미 알고 있었어. 우리가 얘기해야 할 건 그 차이야.
+CLAIRE: Darüber reden wir beim Mittagessen, bei mir in der Rue de Bourgogne. Ich habe gekocht, wie damals in Straßburg, nur besser.
+> 그 얘긴 점심 먹으면서 하자. 부르고뉴 거리 우리 집에서. 요리했어. 스트라스부르 때처럼, 그때보다 더 잘.
+FALK: Sind wir allein?
+> 우리 둘뿐이야?
+CLAIRE: Zum Aperitif ja. Zum Kaffee kommt ein Kollege, der dich gern kennenlernen möchte. Er spricht sehr gut Deutsch, er stammt aus dem Elsass.
+> 아페리티프까진. 커피 땐 동료 하나가 와. 너를 꼭 만나 보고 싶대. 독일어 아주 잘해. 알자스 출신이거든.
+FALK: Ein Kollege von welchem Ufer? Vom Quai d'Orsay oder vom Boulevard Mortier?
+> 어느 쪽 동료인데? 케 도르세? 아니면 모르티에 대로?
+CLAIRE: Siehst du, du brauchst mich gar nicht. Du weißt schon alles.
+> 봐, 넌 내가 필요 없어. 이미 다 알잖아.
+FALK: Nicht alles. Ich weiß nicht, seit wann.
+> 다는 아니야. 언제부터인지는 몰라.
+CLAIRE: Seit wann was?
+> 언제부터 뭐가?
+FALK: Seit wann du nicht mehr eine Freundin bist, die ein Amt hat, sondern ein Amt, das früher eine Freundin war.
+> 언제부터 네가 직책을 가진 친구가 아니라, 예전엔 친구였던 직책이 됐는지.
+CLAIRE: Ein schöner Satz, den hast du bestimmt im Flugzeug vorbereitet. … Stresemann hat im September 1925 an den Kronprinzen geschrieben, man müsse jetzt «finassieren». Weißt du, was das heißt?
+> 멋진 문장이네. 비행기에서 준비했겠지. …슈트레제만은 1925년 9월에 황태자한테 편지를 썼어. 지금은 «finassieren»해야 한다고. 무슨 뜻인지 알아?
+FALK: Schlau taktieren und große Entscheidungen vermeiden. Er wollte die Reparationen loswerden und die Ostgrenze später ändern, und Briand sollte davon möglichst wenig merken.
+> 영리하게 수를 쓰고 큰 결정은 피하라. 배상금은 떨쳐 내고 동쪽 국경은 나중에 바꾸고 싶었지. 그걸 브리앙이 되도록 눈치 못 채게.
+CLAIRE: Briand hat es gemerkt und war trotzdem sein Freund. Das ist Freundschaft unter Rivalen, Konstantin: Man weiß, dass der andere finassiert, und isst trotzdem mit ihm zu Mittag.
+> 브리앙은 눈치챘고, 그래도 친구였어. 그게 라이벌 사이의 우정이야, 콘스탄틴. 상대가 수를 쓰는 걸 알면서도 같이 점심을 먹는 거.
+FALK: Dann lass uns essen. Und danach erzählt mir dein Elsässer, welches Menü Paris heute für Berlin bestellt hat.
+> 그럼 먹자. 그다음에 네 알자스 사람이 오늘 파리가 베를린 몫으로 무슨 메뉴를 주문했는지 말해 주겠지.
+
+== 장면 2 — DER DRITTE ZUM KAFFEE
+LACOMBE: Herr Falk, Hugues Lacombe. Ich bin nur zum Kaffee hier, und ich trinke ihn schwarz. Madame Duval sagt, Sie mögen Leute, die schnell zur Sache kommen.
+> 팔크 씨, 위그 라콩브입니다. 커피만 마시러 왔고, 블랙으로 마십니다. 뒤발 국장 말로는 본론으로 빨리 들어가는 사람을 좋아하신다고요.
+FALK: Ich mag Leute, die sagen, für wen sie arbeiten.
+> 전 누구를 위해 일하는지 말하는 사람을 좋아합니다.
+LACOMBE: Für die Republik, wie alle an diesem Tisch. Wenn Ihnen eine Adresse lieber ist: Boulevard Mortier, Direction de la stratégie.
+> 공화국을 위해서죠. 이 식탁의 모두처럼. 주소가 더 좋으시다면, 모르티에 대로, 전략국입니다.
+FALK: Die DGSE kommt zum Kaffee bei einer Diplomatin, die mich zum Essen eingeladen hat. In Deutschland nennt man so etwas einen Hinterhalt.
+> DGSE가 날 식사에 초대한 외교관 집에 커피 마시러 온다라. 독일에선 이런 걸 매복이라고 하죠.
+LACOMBE: In Frankreich nennt man es ein Gespräch unter Leuten, die dieselben Dinge wissen. Zum Beispiel, dass Sie am neunten Mai an der Spree neben Viktor Sedov auf einer Bank gesessen haben, von zehn bis kurz nach elf.
+> 프랑스에선 같은 걸 아는 사람들끼리의 대화라고 하죠. 예를 들면, 당신이 5월 9일 슈프레 강변 벤치에 빅토르 세도프와 나란히 앉아 있었다는 거. 열 시부터 열한 시 조금 넘어서까지.
+FALK: Das weiß inzwischen halb Brüssel, hat mir Madame Duval erzählt.
+> 그건 이제 브뤼셀 절반이 안다고 뒤발 국장이 그러더군요.
+LACOMBE: Halb Brüssel kennt ein Foto, wir kennen den Rest. Dass Sie seitdem mit Moskau über Kaliningrad reden, dass das Kanzleramt es weiß und das Auswärtige Amt nicht, und dass Sie in der Nacht auf Freitag um eins zwölf Minuten mit ihm telefoniert haben.
+> 브뤼셀 절반은 사진 한 장을 알 뿐이고, 우린 나머지를 압니다. 그때부터 당신이 모스크바와 칼리닌그라드 얘기를 하고 있다는 것, 총리실은 알고 외무부는 모른다는 것, 그리고 금요일 넘어가는 밤 한 시에 그 사람과 12분 통화했다는 것.
+FALK: Sie kennen die Länge des Gesprächs. Kennen Sie auch den Inhalt?
+> 통화 길이는 아시는군요. 내용도 아십니까?
+LACOMBE: Wir wissen genug, um zu wissen, dass Sie danach alle angelogen haben: den Amerikaner, den Russen und Madame Duval. «Die Russen sind ein Problem der Allianz, nicht meiner Telefonrechnung.» Ein hübscher Satz.
+> 그 뒤에 당신이 모두한테 거짓말했다는 걸 알 만큼은 압니다. 미국인, 러시아인, 그리고 뒤발 국장. «러시아는 동맹의 문제지, 내 전화 요금 문제가 아니야.» 근사한 문장이더군요.
+FALK: … Diesen Satz habe ich um halb zwei nachts zu genau einem Menschen gesagt.
+> …그 문장은 새벽 한 시 반에 딱 한 사람한테 했습니다.
+CLAIRE: Konstantin —
+> 콘스탄틴…
+FALK: Nein, Claire, lass ihn reden. Er hat gerade mehr über dich gesagt, als du mir heute Morgen vor dem Denkmal sagen wolltest.
+> 아니, 클레르. 말하게 둬. 이 사람이 방금 네가 오늘 아침 기념비 앞에서 나한테 하려던 것보다 더 많은 걸 말했어.
+LACOMBE: Ich habe nichts gesagt, was Sie nicht längst geahnt hätten. Madame Duval berichtet uns seit dem Herbst über alles, was die Sicherheit der Republik berührt, und seit Berlin einen Kanal nach Moskau hat, gehören Ihre Gespräche dazu.
+> 이미 짐작하셨을 것 말고는 아무 말도 안 했습니다. 뒤발 국장은 작년 가을부터 공화국 안보에 관련된 모든 걸 우리한테 보고합니다. 베를린이 모스크바로 가는 채널을 가진 뒤로는 당신과의 대화도 거기 들어가고요.
+FALK: Seit dem Herbst. Dann auch Brüssel, der Flur vor Raum 50.4.
+> 작년 가을부터. 그럼 브뤼셀도 포함이네요. 50.4호실 앞 복도.
+CLAIRE: Das war ein Bericht über einen Satz im Vertragstext. Kein Verrat, eine Pflicht.
+> 그건 조약 문구 한 줄에 대한 보고였어. 배신이 아니라 의무였지.
+FALK: Dann sagt mir jetzt einer von euch beiden, was Paris mit dieser Pflicht vorhat.
+> 그럼 둘 중 누가 지금 말해 봐. 파리가 그 의무로 뭘 하려는 건지.
+LACOMBE: Gern. Der Élysée hält Ihren Kanal für eine Gelegenheit, die zu wichtig ist, um sie einem suspendierten Beamten und einem Kanzleramtschef zu überlassen, der für eine Warnung zwei Wochen braucht.
+> 기꺼이요. 엘리제궁은 당신 채널을, 직무 정지된 공무원과 경고 하나 보내는 데 2주 걸리는 총리실장한테 맡겨 두기엔 너무 중요한 기회로 봅니다.
+FALK: Und deshalb?
+> 그래서요?
+LACOMBE: Deshalb soll der Faden künftig über Paris laufen. Frankreich bietet Moskau an, was Berlin nicht bieten kann: französische Beobachter in Kybartai, eine europäische Transitmission unter französischer Leitung und Ruhe bis zum Gipfel im Juli.
+> 그래서 앞으로 그 실은 파리를 거쳐 가야 합니다. 프랑스가 베를린이 못 주는 걸 모스크바에 제안하는 거죠. 키바르타이에 프랑스 참관인, 프랑스가 이끄는 유럽 통과 운송 감시단, 그리고 7월 정상회의까지의 평온.
+FALK: Ruhe kann man nicht anbieten, Herr Lacombe, man kann sie nur kaufen. Womit bezahlt Paris?
+> 평온은 제안하는 게 아닙니다, 라콩브 씨. 사는 거죠. 파리는 뭘로 값을 치릅니까?
+LACOMBE: Mit einem Halbsatz, den Sie selbst geschrieben haben, Artikel 2.3: «im Lichte einer gemeinsamen Lagebewertung der Vertragsparteien». Frankreich ist eine Vertragspartei, und Frankreich kann sehr lange bewerten.
+> 당신이 직접 쓴 반 문장으로요. 2.3조, «조약 당사국들의 공동 정세 평가에 비추어». 프랑스는 당사국이고, 프랑스는 아주 오래 평가할 수 있습니다.
+FALK: Sie wollen Moskau zusagen, dass die Brigade nicht vor 2029 kommt.
+> 여단이 2029년 전엔 안 온다고 모스크바에 약속하겠다는 거군요.
+LACOMBE: Wir wollen Moskau gar nichts zusagen. Moskau soll nur wissen, wen es anrufen muss, wenn es über Zeitpläne reden will, und das ist ab Montag nicht mehr Berlin.
+> 모스크바에 아무것도 약속하지 않을 겁니다. 일정 얘기를 하고 싶을 때 누구한테 전화해야 하는지 모스크바가 알기만 하면 돼요. 그리고 그게 월요일부터는 베를린이 아닙니다.
+FALK: 2029. Diese Jahreszahl hat mir schon einmal jemand diktiert, Herr Lacombe, am Telefon und mit der Akte meines Vaters in der Hand. Ich habe damals nicht gehorcht, und ich gehorche heute auch nicht.
+> 2029년. 그 연도를 저한테 불러 준 사람이 전에도 있었습니다, 라콩브 씨. 전화로, 제 아버지 파일을 손에 들고요. 그때도 안 따랐고 오늘도 안 따릅니다.
+LACOMBE: Sie müssen nicht gehorchen, Sie müssen nur etwas ausrichten. Beim nächsten Gespräch mit Herrn Sedov geben Sie ihm eine Pariser Nummer, und danach sind Sie frei und können sich um Ihr Disziplinarverfahren kümmern.
+> 따르실 필요 없습니다. 말만 전하시면 돼요. 다음에 세도프 씨와 통화할 때 파리 번호 하나를 넘기세요. 그다음엔 자유입니다. 징계 절차나 신경 쓰시면 되죠.
+FALK: Und wenn ich es nicht tue?
+> 안 하면요?
+LACOMBE: Dann erfährt die Kanzlerin am Montag offiziell aus Paris, dass ein suspendierter deutscher Diplomat ohne Mandat mit Moskau verhandelt, und die Presse am Dienstag. Ihr Herr Lehnert wird sich dann an kein einziges Gespräch mit Ihnen erinnern.
+> 그럼 총리는 월요일에 파리로부터 공식적으로 듣게 되겠죠. 직무 정지된 독일 외교관이 위임도 없이 모스크바와 협상하고 있다고. 언론은 화요일에요. 그러면 당신네 레너트 씨는 당신과 나눈 대화를 단 한 번도 기억 못 할 겁니다.
+CLAIRE: Ich habe das Dessert noch nicht gebracht, Konstantin. Bleib wenigstens sitzen, bis Herr Lacombe gegangen ist.
+> 아직 디저트도 안 가져왔어, 콘스탄틴. 라콩브 씨가 갈 때까지만이라도 앉아 있어.
+
+== 장면 3 — SIE
+FALK: Du hast mir geschrieben, ich solle auf dieser Brücke warten. Seit zwanzig Minuten sehe ich zu, wie die Ausflugsboote Touristen unter dem Namen eines Zaren durchfahren.
+> 이 다리에서 기다리라고 문자 보냈지. 20분째 유람선들이 차르 이름 밑으로 관광객 싣고 지나가는 걸 보고 있어.
+CLAIRE: Eine russische Brücke mitten in Paris, gebaut für das Bündnis, das 1914 beide in den Krieg gezogen hat. Ich dachte, die Kulisse passt zu uns.
+> 파리 한가운데 있는 러시아 다리. 1914년에 둘 다 전쟁으로 끌고 들어간 그 동맹을 위해 지은 거지. 우리한테 어울리는 무대 같았어.
+FALK: Lacombe kennt die Länge meines Gesprächs mit Sedov, aber nicht den Inhalt, sonst hätte er heute Mittag Sedov zitiert und nicht dich. Ihr hört die Russen ab, nicht mich.
+> 라콩브는 내가 세도프랑 통화한 길이는 알지만 내용은 몰라. 알았으면 오늘 점심에 너 말고 세도프를 인용했겠지. 너희가 엿듣는 건 러시아 쪽이지, 내가 아니야.
+CLAIRE: Die Anschlüsse der russischen Botschaft in Berlin, seit Jahren: wer wann anruft und wie lange. Der Inhalt kam von dir, Konstantin, Satz für Satz, durch meinen Mund.
+> 베를린 러시아 대사관 회선들. 몇 년째야. 누가 언제 거는지, 얼마나 오래. 내용은 너한테서 왔어, 콘스탄틴. 한 문장 한 문장, 내 입을 거쳐서.
+FALK: Seit wann?
+> 언제부터?
+CLAIRE: Die Quelle, die von einem Kanal in eurem Amt spricht, gibt es seit dem Herbst, das habe ich dir im März erzählt. Über dich berichte ich seit dem März, aus dem Brüsseler Flur und aus jedem Telefonat, auch über dein «abgemacht».
+> 너희 외무부 안의 채널 얘기를 하는 정보원은 가을부터 있었어. 그건 3월에 너한테 말했지. 너에 대해 보고한 건 3월부터야. 브뤼셀 복도에서도, 통화할 때마다. 네 «약속할게»까지.
+FALK: Und Winter? Hast du sie im März vor mir angerufen, weil du es wolltest oder weil Lacombe es wollte?
+> 그럼 빈터는? 3월에 나보다 먼저 그 사람한테 전화한 건 네가 원해서야, 라콩브가 원해서야?
+CLAIRE: Weil es der offizielle Weg war. Ich habe zweimal mit ihr telefoniert, beide Male im März, und seitdem nicht mehr. Sie hört gern zu und gibt nie etwas zurück, das hätte mich warnen sollen.
+> 그게 공식 경로였으니까. 그 사람하고는 두 번 통화했어. 둘 다 3월에. 그 뒤론 안 했고. 듣는 건 좋아하는데 돌려주는 건 없더라. 그때 경계했어야 했는데.
+FALK: Dann hör mir jetzt zu. Am Abend nach Raum 50.4 hat mich der Mann angerufen, der mich mit der Akte meines Vaters erpresst hat, und er kannte unser Gespräch auf dem Flur Wort für Wort. Es waren nur wir beide dort.
+> 그럼 이제 내 말 들어. 50.4호실 회의 날 저녁, 아버지 파일로 날 협박하던 남자가 전화했어. 복도에서 우리가 나눈 대화를 한 마디 한 마디 다 알더라. 거기엔 우리 둘뿐이었는데.
+CLAIRE: … Das ist unmöglich. Mein Bericht ging um zehn nach eins nach Paris, verschlüsselt, an genau drei Empfänger.
+> …그럴 리 없어. 내 보고는 1시 10분에 파리로 갔어. 암호화해서, 딱 세 명한테.
+FALK: Dann liest einer dieser drei für jemand anderen mit, oder deine Leitung ist nicht so dicht, wie Herr Lacombe glaubt. Sedov hat im März über dich gesagt: «Die Französin fragt zu viel.»
+> 그럼 그 셋 중 하나가 딴 사람 몫으로도 읽고 있거나, 네 회선이 라콩브 씨 생각만큼 안 새는 게 아니거나. 세도프가 3월에 너를 두고 그랬어. «그 프랑스 여자는 질문이 너무 많다.»
+CLAIRE: Das ist billig, Konstantin. Du willst mir meinen Verrat stehlen, indem du mir einen größeren zeigst.
+> 그건 치사해, 콘스탄틴. 더 큰 배신을 보여 줘서 내 배신을 훔쳐 가려는 거잖아.
+FALK: Ich stehle dir nichts. Ich will nur wissen, ob du heute Mittag gewusst hast, was Lacombe mir anbieten würde.
+> 아무것도 안 훔쳐. 오늘 점심에 라콩브가 나한테 뭘 제안할지 네가 알고 있었는지, 그것만 알고 싶어.
+CLAIRE: Ich habe es geschrieben. Die Idee mit Kybartai und der Lagebewertung ist von mir, vom Freitagmorgen nach meinem Anruf bei Šimkus. Der Élysée hat nur noch das Datum eingesetzt.
+> 내가 썼어. 키바르타이랑 정세 평가 구상, 그거 내 거야. 금요일 아침, 시므쿠스한테 전화한 다음에 썼지. 엘리제궁은 날짜만 적어 넣었을 뿐이고.
+FALK: Du hast also den Betrag eingesetzt und Paris hat unterschrieben. Wie in Potsdam, nur umgekehrt.
+> 그러니까 금액은 네가 적고 서명은 파리가 했네. 포츠담처럼, 거꾸로.
+CLAIRE: Ich habe getan, was Briand getan hätte. Wenn über Europas Osten entschieden wird, sitzt Frankreich am Tisch und wartet nicht im Vorzimmer, bis ein Deutscher aus Moskau zurückruft.
+> 브리앙이 했을 일을 했어. 유럽 동쪽에 대한 결정이 내려질 때, 프랑스는 테이블에 앉는 거야. 독일 사람이 모스크바에서 다시 전화해 줄 때까지 대기실에서 기다리는 게 아니라.
+FALK: Briand hätte seinen Freund vorher gefragt.
+> 브리앙이라면 친구한테 먼저 물어봤을 거야.
+CLAIRE: Hättest du mich gefragt? Am neunten Mai, bevor du dich auf diese Bank gesetzt hast, oder in der Nacht, als du mir erzählt hast, du hättest mit niemandem gesprochen?
+> 넌 나한테 물어봤어? 5월 9일, 그 벤치에 앉기 전에? 아니면 아무하고도 통화 안 했다고 말하던 그 밤에?
+FALK: Nein.
+> 아니.
+CLAIRE: Siehst du, wir haben beide finassiert. Der Unterschied ist nur, dass ich es für ein Land getan habe und du für einen Mann im Kanzleramt, der dich jederzeit verleugnen kann.
+> 봐, 우리 둘 다 수를 쓴 거야. 차이는 하나뿐이지. 난 나라를 위해서 했고, 넌 언제든 널 모른다고 할 수 있는 총리실 남자 하나를 위해서 했다는 거.
+FALK: Und was heißt das jetzt für uns, Claire?
+> 그럼 이제 우리한텐 그게 무슨 뜻이야, 클레르?
+CLAIRE: Es heißt, dass ich Sie ab heute so anspreche, wie man einen Vertreter einer fremden Regierung anspricht, Herr Falk. Dann verwechselt keiner von uns mehr, was er dem anderen schuldet.
+> 오늘부터는 외국 정부 대표를 대하듯이 당신을 부르겠다는 뜻이에요, 팔크 씨. 그러면 우리 둘 다 서로한테 뭘 빚졌는지 더는 헷갈리지 않겠죠.
+FALK: Du sagst «Sie» zu mir. Nach all den Jahren seit Straßburg.
+> 나한테 «Sie»라고 하네. 스트라스부르 이후 그 많은 세월이 지나서.
+CLAIRE: Ich sage es mit Absicht. Mit «du» habe ich Sie belogen, mit «Sie» werde ich es nicht tun, und das ist alles, was ich Ihnen heute noch versprechen kann.
+> 일부러 그러는 거예요. «du»로는 당신을 속였지만 «Sie»로는 그러지 않을 거예요. 오늘 당신한테 약속할 수 있는 건 그게 다예요.
+FALK: Dann sage ich ein letztes Mal du zu dir, Claire: Lacombe bekommt seine Pariser Nummer nicht.
+> 그럼 마지막으로 너한테 du로 말할게, 클레르. 라콩브는 파리 번호를 못 받아.
+CLAIRE: Dann ruft der Élysée am Montag die Kanzlerin an. Morgen um neun im Uhrensaal, Herr Falk, mit Herrn Lacombe und mit mir, und bringen Sie etwas mit, das schwerer wiegt als eine alte Freundschaft.
+> 그럼 엘리제궁이 월요일에 총리한테 전화하겠죠. 내일 아홉 시, 시계의 방이에요, 팔크 씨. 라콩브 씨도 오고 저도 가요. 오래된 우정보다 무거운 걸 가져오세요.
+FALK: Ich habe etwas, Madame Duval. Es wiegt ungefähr so viel wie ein Navigationsmodul.
+> 있습니다, 뒤발 국장. 무게가 항법 모듈 하나쯤 됩니다.
+
+== 절정 — DIE ZWANZIG-PROZENT-REGEL
+LACOMBE: Neun Uhr, Herr Falk. Sonntags hört man in diesem Saal nur die Uhr und die Seine. Haben Sie Herrn Sedov schon angerufen?
+> 아홉 시입니다, 팔크 씨. 일요일엔 이 방에서 시계 소리랑 센강 소리밖에 안 들리죠. 세도프 씨한테는 벌써 전화하셨습니까?
+FALK: Nein. Ich habe heute Nacht an einen Antrag gedacht, der im Januar auf meinem Schreibtisch lag, einen französischen, nach dem deutsch-französischen Exportabkommen von 2019.
+> 아니요. 간밤엔 1월에 제 책상에 올라왔던 신청서 하나를 생각했습니다. 프랑스 쪽 신청서요. 2019년 독불 수출 협정에 따른 것.
+LACOMBE: Die Zwanzig-Prozent-Regel.
+> 20퍼센트 규칙이군요.
+FALK: Genau die. Liegt der deutsche Anteil an einem französischen Rüstungsgut unter zwanzig Prozent, kann Berlin den Export nicht blockieren, es wird nur benachrichtigt. Im Januar wurden wir benachrichtigt: Navigationsmodule und Wärmebildkameras für zivile Drohnen, Empfänger eine Handelsfirma in Dubai.
+> 바로 그거요. 프랑스 무기에 들어간 독일 몫이 20퍼센트 미만이면 베를린은 수출을 막을 수 없고 통보만 받습니다. 1월에 통보가 왔죠. 민간 드론용 항법 모듈과 열화상 카메라, 수령인은 두바이의 한 무역 회사.
+CLAIRE: Solche Benachrichtigungen gibt es jeden Monat. Das ist kein Geheimnis, das ist Verwaltung.
+> 그런 통보는 매달 와요. 비밀이 아니라 행정이죠.
+FALK: Im Januar war es Verwaltung, Madame Duval, seit März ist es eine Geschichte. Die Firma in Dubai hat dieselbe Adresse und denselben Geschäftsführer wie die Briefkastenfirma, der die «Marisol» gehört, das Schiff, das in der Nacht des Kabelbruchs über der Trasse lag.
+> 1월엔 행정이었죠, 뒤발 국장. 3월부터는 이야기가 됐습니다. 그 두바이 회사는 «마리솔»을 가진 페이퍼 컴퍼니와 주소도 같고 대표도 같아요. 케이블이 끊긴 밤 그 경로 위에 떠 있던 배 말입니다.
+LACOMBE: Die «Marisol» war ein Ablenkungsmanöver, das wissen Sie besser als ich. Das Kabel hat ein anderes Schiff zerrissen.
+> «마리솔»은 눈속임이었습니다. 저보다 잘 아시잖아요. 케이블은 다른 배가 끊었죠.
+FALK: Das wissen wir beide, aber eine Zeitung muss es nicht wissen. Ihr genügt eine Überschrift: Frankreich liefert Drohnentechnik an die Hintermänner der russischen Schattenflotte, und Berlin hat es abgenickt.
+> 우리 둘은 알죠. 하지만 신문은 그걸 알 필요가 없습니다. 제목 하나면 충분하니까요. 프랑스, 러시아 그림자 선단 배후에 드론 기술 공급, 베를린은 고개만 끄덕였다.
+LACOMBE: Haben Sie Beweise, oder haben Sie eine Journalistin?
+> 증거가 있습니까, 아니면 기자가 있습니까?
+FALK: Ich habe eine Aktennummer, die in Ihrem Haus und in meinem liegt. Und ich kenne eine Journalistin, die weiß, wie man Akten beantragt, denn bei der Akte ihres Vaters hat sie es viermal versucht.
+> 당신네 기관에도 우리 기관에도 있는 문서 번호 하나가 있습니다. 그리고 문서 신청하는 법을 아는 기자를 하나 알죠. 자기 아버지 파일로 네 번이나 해 본 사람입니다.
+CLAIRE: Das ist Erpressung, Herr Falk.
+> 그건 공갈이에요, 팔크 씨.
+FALK: Gestern Mittag hat Herr Lacombe mir gedroht, die Kanzlerin und die Presse zu informieren, und heute antworte ich in derselben Sprache. In Locarno nannte man so etwas Gleichgewicht.
+> 어제 점심에 라콩브 씨는 총리와 언론에 알리겠다고 저를 협박했죠. 오늘 저는 같은 언어로 대답하는 겁니다. 로카르노에선 그런 걸 균형이라고 불렀고요.
+LACOMBE: In Locarno hat man Grenzen garantiert, keine Erpressungen.
+> 로카르노에선 국경을 보장했지, 공갈을 보장하진 않았습니다.
+FALK: Man hat den Westen garantiert und den Osten offengelassen, Herr Lacombe, und genau das tut Ihr Plan. Paris bekommt Ruhe für den Gipfel, Litauen eine Brigade, die erst kommt, wenn Frankreich mit dem Bewerten fertig ist, und ich werde nicht der Mann sein, der für Vilnius ein zweites Locarno unterschreibt.
+> 서쪽은 보장하고 동쪽은 열어 뒀죠, 라콩브 씨. 당신 계획이 딱 그겁니다. 파리는 정상회의까지 평온을 얻고, 리투아니아는 프랑스가 평가를 끝내야 오는 여단을 얻죠. 전 빌뉴스를 위해 두 번째 로카르노에 서명하는 사람이 되진 않을 겁니다.
+CLAIRE: Stresemann hätte unterschrieben. Er hat 1926 in Thoiry mit Briand zu Mittag gegessen und angeboten, den Franc mit deutschem Geld zu stützen, wenn Frankreich dafür früher aus dem Rheinland abzieht. Er hätte alles verkauft, um zu bekommen, was er wollte.
+> 슈트레제만이라면 서명했을 거예요. 1926년 투아리에서 브리앙과 점심을 먹으면서, 프랑스가 라인란트에서 일찍 철수하면 독일 돈으로 프랑을 받쳐 주겠다고 했죠. 원하는 걸 얻으려고 뭐든 팔았을 사람이에요.
+FALK: Und Thoiry ist gescheitert, Madame Duval, nicht an den beiden Männern am Tisch, sondern an Paris und Washington. Poincaré hat den Franc ohne deutsches Geld gerettet, und zwei Freunde standen mit leeren Händen da, weil sie etwas ausgehandelt hatten, das ihre Hauptstädte nicht wollten.
+> 그리고 투아리는 실패했죠, 뒤발 국장. 식탁의 두 사람이 아니라 파리와 워싱턴 때문에요. 푸앵카레는 독일 돈 없이 프랑을 살렸고, 두 친구는 빈손으로 남았습니다. 자기 수도가 원하지 않는 걸 흥정했으니까요.
+LACOMBE: Dann schlagen Sie etwas vor, das Ihre Hauptstadt will.
+> 그럼 당신네 수도가 원하는 걸 제안해 보시죠.
+FALK: Der Élysée ruft am Montag nicht die Kanzlerin an, und Paris spricht mit Moskau nicht über Kaliningrad, weder am Kanal vorbei noch durch ihn hindurch. Und Frankreich bewertet die Lage in Artikel 2.3 so, wie Berlin es im März erklärt hat: spätestens bis Ende 2027.
+> 엘리제궁은 월요일에 총리한테 전화하지 않는다. 파리는 칼리닌그라드 문제로 모스크바와 얘기하지 않는다. 채널을 비켜 가서도, 채널을 통해서도. 그리고 프랑스는 2.3조의 정세 평가를 베를린이 3월에 선언한 대로 한다. 늦어도 2027년 말까지.
+LACOMBE: Und Sie?
+> 그럼 당신은요?
+FALK: Ich vergesse die Firma in Dubai, solange Frankreich sich daran hält. Und Frankreich bekommt, was Madame Duval in der Nacht auf Freitag verlangt hat: einen Platz an dem Tisch, an dem nach dem Juli festgelegt wird, was Bernstein im Ernstfall bedeutet.
+> 프랑스가 지키는 동안 저는 두바이 회사를 잊습니다. 그리고 프랑스는 뒤발 국장이 금요일 넘어가는 밤에 요구했던 걸 받습니다. 7월 이후 유사시 베른슈타인이 뭘 뜻하는지 정하는 테이블의 자리.
+LACOMBE: Sie können niemandem einen Platz versprechen, Herr Falk. Sie sind suspendiert.
+> 당신은 누구한테도 자리를 약속할 수 없어요, 팔크 씨. 직무 정지 상태잖아요.
+FALK: Ich habe heute Nacht um zwei den Mann geweckt, der mich jederzeit verleugnen kann. Rufen Sie ihn an: Er wird bestätigen, was ich gesagt habe, und am Montag bestreiten, dass ich es gesagt habe, denn so funktioniert unser Kanal, Herr Lacombe.
+> 간밤 두 시에 언제든 저를 모른다고 할 수 있는 그분을 깨웠습니다. 전화해 보세요. 제가 한 말을 확인해 줄 거고, 월요일엔 제가 그 말을 했다는 걸 부인할 겁니다. 우리 채널은 그렇게 돌아가거든요, 라콩브 씨.
+LACOMBE: … Entschuldigen Sie mich zehn Minuten. Ich muss telefonieren.
+> …10분만 실례하겠습니다. 전화를 좀 해야겠군요.
+CLAIRE: Das mit Dubai hätten Sie mir gestern auf der Brücke sagen können. Unter vier Augen.
+> 두바이 얘기, 어제 다리 위에서 해 줄 수도 있었잖아요. 단둘이.
+FALK: Gestern auf der Brücke waren Sie schon beim «Sie», Madame Duval. Und unter vier Augen sind wir nicht mehr, seit Herr Lacombe mitliest.
+> 어제 다리 위에서 당신은 이미 «Sie»였어요, 뒤발 국장. 그리고 라콩브 씨가 같이 읽기 시작한 뒤로 우린 더는 단둘이 아닙니다.
+LACOMBE: Der Élysée ruft am Montag niemanden an, und über Kaliningrad spricht Paris vorerst nur mit Berlin. Über Artikel 2.3 reden wir im Juli, nicht heute.
+> 엘리제궁은 월요일에 아무한테도 전화하지 않습니다. 칼리닌그라드에 대해선 파리는 당분간 베를린하고만 얘기하고요. 2.3조는 오늘 말고 7월에 얘기하죠.
+FALK: «Vorerst» und «im Juli». Ich schreibe mir beides auf, Herr Lacombe, wörtlich.
+> «당분간», 그리고 «7월에». 둘 다 적어 두겠습니다, 라콩브 씨. 글자 그대로.
+
+== 마무리 — LIMASSOL, ZUG
+CLAIRE: Herr Falk, noch einen Moment, hier auf der Treppe, wo keine Uhr hängt. Nicht als Freundin, als Kollegin: Die Firma in Dubai bezahlt ihre Rechnungen nicht selbst, das macht ein Treuhandbüro in Limassol.
+> 팔크 씨, 잠깐만요. 여기 계단에서, 시계 없는 데서요. 친구로서가 아니라 동료로서 말할게요. 그 두바이 회사는 청구서를 직접 내지 않아요. 리마솔의 신탁 사무소가 내죠.
+FALK: Warum erzählen Sie mir das?
+> 그걸 왜 말해 주는 겁니까?
+CLAIRE: Weil Briand Stresemann auch nach Thoiry noch die Hand gegeben hat. Und weil dasselbe Büro nach unseren Unterlagen nicht nur für Dubai arbeitet, sondern auch für Kunden aus Ihrem Land. Mehr weiß ich nicht, und mehr sage ich nicht.
+> 브리앙은 투아리 뒤에도 슈트레제만과 악수했으니까요. 그리고 우리 자료로는 그 사무소가 두바이만이 아니라 당신 나라 고객들 일도 봐 주거든요. 더는 몰라요. 더는 말 안 할 거고요.
+FALK: Danke, Claire.
+> 고마워, 클레르.
+CLAIRE: Madame Duval. Gute Reise, Herr Falk.
+> 뒤발 국장이에요. 잘 가세요, 팔크 씨.
+ANNA: Sie sind zu spät, Herr Ostrowski, und Sie haben sich dreimal umgedreht, bevor Sie hereingekommen sind. Genau so fällt man auf.
+> 늦으셨네요, 오스트로프스키 씨. 그리고 들어오기 전에 세 번이나 뒤돌아보셨죠. 바로 그러면 눈에 띄어요.
+JAN: Ich bin seit drei Wochen Archivar, Frau Kessler, und Archivare drehen sich um. … Haben Sie es mitgebracht?
+> 전 3주째 문서보관 담당이에요, 케슬러 씨. 문서보관 담당은 뒤돌아봐요. …가져오셨어요?
+ANNA: Eine Überweisung, die mir jemand aus einer Bank in Nikosia geschickt hat, ohne seinen Namen zu nennen. Ein Treuhandbüro in Limassol zahlt im Dezember an eine Stiftung in Zug, Verwendungszweck: «Beratung Kiel, November».
+> 니코시아 은행 쪽 누가 이름도 안 밝히고 보내 준 송금 내역이요. 리마솔의 신탁 사무소가 12월에 추크의 한 재단으로 돈을 보냈어요. 송금 사유는 «자문 킬, 11월».
+JAN: Kiel, November. Am dreizehnten November gab es in Kiel ein Abendessen, bezahlt von Greve Energie, und auf der Gästeliste ist ein Name mit grüner Tinte durchgestrichen.
+> 킬, 11월. 11월 13일에 킬에서 만찬이 있었어요. 그레베 에너지가 돈을 냈고요. 손님 명단에 초록 잉크로 지운 이름이 하나 있어요.
+ANNA: Wessen Name?
+> 누구 이름인데요?
+JAN: Das sage ich Ihnen, wenn ich weiß, wer hinter der Stiftung in Zug steht, vorher nicht. In der Akte «Ostseedialog» gibt es einen Ordner mit Spendenquittungen, und den hat seit Januar nur einer ausgeliehen, für einen Tag im Mai, aus dem vierten Stock.
+> 추크 재단 뒤에 누가 있는지 알게 되면 말씀드릴게요. 그 전엔 안 돼요. «발트해 대화» 철에 기부 영수증 묶음이 있는데, 1월 이후로 그걸 빌려 간 사람은 딱 하나예요. 5월에 하루, 4층에서.
+ANNA: Weiß Herr Falk, dass Sie hier sind?
+> 팔크 씨는 여기 계신 거 알아요?
+JAN: Nein. Er hat mir geraten, nur langweilige Akten zu lesen, und diese ist sehr langweilig.
+> 아뇨. 저한테 지루한 서류만 읽으라고 했거든요. 이건 아주 지루한 서류예요.
+ANNA: Sie riskieren Ihre Stelle, Herr Ostrowski, vielleicht mehr. Warum?
+> 자리를 걸고 계신 거예요, 오스트로프스키 씨. 어쩌면 그 이상도요. 왜죠?
+JAN: Weil er mir seit Mai etwas verschweigt und ich nicht warten will, bis ich es in Ihrer Zeitung lese. … Das ist er, Entschuldigung. Konstantin? Nein, ich bin zu Hause, ich lese.
+> 5월부터 저한테 뭔가 숨기고 있으니까요. 그걸 당신 신문에서 읽게 될 때까지 기다리고 싶지 않아요. …그 사람이에요, 죄송해요. 콘스탄틴? 아뇨, 집이에요. 책 읽고 있어요.
+FALK: Gut. Ich bin morgen früh zurück, Jan. Ein Wort aus Paris: Limassol. Ist dir das in deinen Akten schon einmal begegnet?
+> 잘됐네. 나 내일 아침에 돌아가, 얀. 파리에서 들은 단어 하나. 리마솔. 네 서류에서 본 적 있어?
+JAN: Limassol? … Nein, Konstantin. Nie gehört. Gute Nacht.
+> 리마솔요? …아뇨, 콘스탄틴. 처음 들어요. 안녕히 주무세요.
+ANNA: Limassol. Sie haben ihn gerade angelogen, Herr Ostrowski, mit meiner Überweisung vor sich auf dem Tisch. Willkommen auf meiner Seite.
+> 리마솔이라. 방금 그 사람한테 거짓말하셨네요, 오스트로프스키 씨. 제 송금 내역을 눈앞에 두고서. 제 편에 오신 걸 환영해요.
