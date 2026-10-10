@@ -1,0 +1,330 @@
+@part 2
+@ep 5
+@title Gefangenenaustausch
+@title_ko 포로 교환
+@tagline 포로 교환 · 모스크바에 갇힌 대학원생, 테겔에 갇힌 암살범, 그리고 하루 만에 새어 나간 이름 하나
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 3월 넷째 주 금요일 밤부터 다섯째 주 화요일 밤까지. 금요일 판코우, 토요일 모아비트의 클라이너 티어가르텐, 일요일 판코우의 부엌, 월요일 아침 모렌 거리의 법무부, 월요일 저녁 티어가르텐 소련 전쟁기념비, 화요일 밤 외무부 팔크 사무실
+@cast FALK | 외무부 유럽안보 특별대표 (44)
+@cast SEDOV | Viktor Sedov · 주독 러시아 대사관 공사참사관 (56)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast MIRA | Dr. Mira Schönfeld · 연방정보원(BND) 연락관 (39)
+@cast ALBERS | Dr. Ruth Albers · 연방법무부 사무차관, 전 연방검사 (가상)
+@cast JAN | 팔크의 개인 보좌관 (31)
+@note ※ 지난 화(넷째 주 금요일), Bernstein 2절은 팔크의 «im Lichte» 문장과 독일의 일방적 해석 선언을 달고 동결되었습니다. 팔크는 BND의 Mira와 작전 «Gegenlicht»에 합의해 Sedov에게 역정보를 흘리는 이중간첩이 되었고, 그 대가로 BND는 협박을 기밀 작전으로 묶고 Jan에 대한 «혐의점 없음» 서한을 화요일 카를스루에로 보내기로 했습니다. 그날 밤 노인용 휴대폰으로 Sedov가 직접 전화해, 1년째 모스크바에 갇힌 독일인 대학원생 Lukas Behrendt 이야기를 꺼냈습니다. 일요일은 협박 «열흘»의 마지막 날이자, 팔크가 Elisabeth에게 «전부» 말하기로 한 날입니다.
+@note ※ 호칭: 팔크와 Elisabeth, Jan은 du를 씁니다(Jan은 한국어로 친근한 존댓말). 팔크와 Mira는 지난 화부터 du를 씁니다(한국어도 반말). 팔크는 Sedov, Albers와 Sie를 씁니다. Albers는 Elisabeth와 사법연수 시절 동기라 Elisabeth를 이름으로 부릅니다.
+@note ※ 표현 초점: Gefangenenaustausch(수감자 교환), Geisel(인질), Strafvollstreckung(형 집행), von der Vollstreckung absehen(집행을 면제하다, 형사소송법 456a조), Begnadigung(사면), Kammergericht(베를린 고등법원), besondere Schwere der Schuld(책임의 특별한 중대성), Einreiseverbot(입국 금지), Überläufer(망명자·전향자), Lieferung(정보원의 «납품»), Briefkopf(공문 서식 머리). 접속법 II: «Die Drohung käme von der Uhr, nicht von mir.» / «Sie wäre das Letzte, was Sie von mir haben.» 접속법 I 간접화법: «Sie sagte, das Auswärtige Amt unterstütze den Tausch.» / «Man hat mir zu verstehen gegeben, die Akte bleibe im Schrank.»
+@history 글리니커 다리 교환 (1962) — 1960년 5월 1일 미국 U-2 정찰기가 소련 스베르들롭스크 상공에서 격추되어 조종사 프랜시스 개리 파워스가 붙잡혔고, 모스크바에서 10년형을 받았습니다. 한편 1957년 뉴욕에서 체포된 KGB 대령 루돌프 아벨(본명 빌리엄 피셔)은 미국에서 30년형을 받고 복역 중이었습니다. 아벨의 국선 변호인이던 제임스 도너번이 동베를린 변호사 볼프강 포겔 등을 상대로 협상한 끝에, 1962년 2월 10일 아침 포츠담과 서베를린을 잇는 글리니커 다리에서 두 사람이 교환되었습니다. 도너번은 «한 사람 대 한 사람»을 거부하고, 같은 날 동독에 붙잡혀 있던 미국인 대학원생 프레더릭 프라이어도 체크포인트 찰리에서 풀려나게 했습니다. 이 다리는 1985년과 1986년에도 교환 장소로 쓰여 «스파이 다리»라는 별명을 얻었습니다.
+@history 티어가르텐 살인 (2019) — 2019년 8월 23일 정오 무렵, 베를린 모아비트의 작은 공원 클라이너 티어가르텐에서 조지아 국적의 체첸계 망명자 젤림한 항고시빌리(40)가 자전거를 탄 남자에게 소음기 달린 권총으로 살해되었습니다. 범인은 «바딤 소콜로프»라는 이름이 적힌 진짜 러시아 여권을 갖고 있었고, 본명은 바딤 크라시코프였습니다. 베를린 고등법원(Kammergericht)은 2021년 12월 15일 그에게 종신형을 선고하면서 러시아 국가 기관이 살해를 지시했다고 판단했고, 독일은 2019년 12월과 판결 직후 러시아 외교관들을 추방했습니다. 크라시코프는 2024년 8월 1일 앙카라에서 이루어진 대규모 수감자 교환으로 러시아에 돌아갔습니다. 극 중의 Bystrow와 Gromow 사건은 이 사건을 본뜬 가상의 사건입니다.
+@preview 2부 6화 — «Glienicker Brücke»(글리니커 다리) — 교환 준비가 시작된다. 팔크는 Mira가 건넨 역정보를 Sedov에게 흘리고, Sedov는 외무부 내부자만 답할 수 있는 질문으로 팔크를 시험한다. 팔크의 거짓말은 통하지만, 진실을 절반만 아는 Jan 때문에 하마터면 모든 것이 들통날 뻔한다. 냉전기 «스파이 다리»가 다시 무대에 오른다.
+
+== 도입 — FREITAG, ZWANZIG UHR ZEHN
+FALK: Ich habe heute einen Vertragstext eingefroren, Herr Sedov, kein Tauschgeschäft gemacht. Was ist mit Lukas Behrendt?
+> 저는 오늘 조약 문안을 동결했지 맞바꾸는 거래를 한 게 아닙니다, 세도프 씨. 루카스 베렌트가 어쨌다는 겁니까?
+SEDOV: Neunundzwanzig Jahre alt, Doktorand für osteuropäische Geschichte an der Humboldt-Universität. Im März letzten Jahres hat er im Moskauer Staatsarchiv Akten über Deportationen fotografiert, die er nicht fotografieren durfte. Das Stadtgericht nannte es Spionage: zwölf Jahre, strenges Regime. Solange die Berufung läuft, sitzt er in Lefortowo.
+> 스물아홉 살, 훔볼트 대학 동유럽사 박사 과정생입니다. 작년 3월 모스크바 국립문서보관소에서 찍으면 안 되는 강제 이주 문서를 사진으로 찍었죠. 시 법원은 그걸 간첩 행위라고 불렀습니다. 징역 12년, 엄정 체제. 항소심이 끝날 때까지는 레포르토보에 있고요.
+FALK: Ein Historiker, der Archive liest. Bei Ihnen ist das ein Verbrechen, bei uns ein Beruf.
+> 문서고를 읽는 역사학자라. 당신네 나라에선 범죄고, 우리 나라에선 직업이죠.
+SEDOV: Bei Ihnen werden Archive in braunen Umschlägen verschickt, Herr Falk. Jeder Staat hat seine Art, mit Papier umzugehen. … Herr Behrendt ist übrigens Diabetiker, Typ eins. Das Insulin in Lefortowo kommt, nun ja, nicht immer pünktlich.
+> 당신네 나라에선 문서가 갈색 봉투에 담겨 배달되더군요, 팔크 씨. 나라마다 종이를 다루는 방식이 있는 거죠. …그런데 베렌트 씨는 당뇨 환자입니다. 1형이죠. 레포르토보에선 인슐린이, 뭐랄까, 늘 제때 오는 건 아니라서요.
+FALK: Wenn das eine Drohung ist, sagen Sie es deutlich. Andeutungen verstehe ich, aber Drohungen protokolliere ich.
+> 그게 협박이라면 분명하게 말씀하시죠. 암시는 알아듣습니다만, 협박은 기록해 둡니다.
+SEDOV: Es ist eine medizinische Auskunft. Die Drohung käme von der Uhr, nicht von mir. Und nun das Angebot: Moskau gibt Ihnen Herrn Behrendt. Sie geben uns Arkadi Bystrow.
+> 의학적 정보일 뿐입니다. 협박이 있다면 그건 제가 아니라 시계가 하는 거겠죠. 이제 제안입니다. 모스크바는 베렌트 씨를 드립니다. 당신들은 아르카디 비스트로프를 주시고요.
+FALK: Bystrow. Der Mann, der in Babelsberg einen Überläufer vor den Augen seiner Tochter erschossen hat.
+> 비스트로프. 바벨스베르크에서 망명자를 그 딸이 보는 앞에서 쏴 죽인 남자군요.
+SEDOV: Ein Patriot, den das Kammergericht zu lebenslanger Haft verurteilt hat. Er sitzt in Tegel und lernt Deutsch aus Zeitungen. Sie kennen die Glienicker Brücke, Herr Falk. 1962, Abel gegen Powers. Damals wussten Großmächte noch, dass man Gefangene irgendwann zurückgibt.
+> 베를린 고등법원이 종신형을 선고한 애국자죠. 테겔 교도소에서 신문으로 독일어를 배우고 있습니다. 글리니커 다리 아시죠, 팔크 씨. 1962년, 아벨과 파워스. 그땐 강대국들도 포로는 언젠가 돌려준다는 걸 알았습니다.
+FALK: Abel war ein Spion, Bystrow ist ein Mörder. Und ich bin Diplomat, kein Justizminister. Warum rufen Sie mich an und nicht das Kanzleramt?
+> 아벨은 스파이였고 비스트로프는 살인자입니다. 그리고 저는 외교관이지 법무장관이 아니에요. 왜 총리실이 아니라 저한테 전화하십니까?
+SEDOV: Weil das Kanzleramt Nein sagen muss, wenn man es fragt. Sie dagegen können eine Tür öffnen, ohne dass jemand angeklopft hat. Ich brauche bis Dienstag ein Zeichen aus der Mohrenstraße, dass man dort zuhört.
+> 총리실은 누가 물으면 아니라고 해야 하니까요. 반면 당신은 아무도 노크하지 않았는데 문을 열어 줄 수 있는 분이죠. 화요일까지 모렌 거리, 그러니까 법무부에서 귀를 기울이고 있다는 신호가 필요합니다.
+FALK: Und wenn keins kommt?
+> 신호가 안 오면요?
+SEDOV: Dann bleibt Herr Behrendt, wo er ist, und ich muss Moskau erklären, warum unser Freund im Auswärtigen Amt plötzlich nichts mehr bewegen kann. Dann stellt Moskau Fragen, auch nach Schränken, in denen Akten liegen. Schönen Abend, Herr Falk. Grüßen Sie Ihre Frau.
+> 그럼 베렌트 씨는 지금 있는 곳에 그대로 있고, 저는 외무부의 우리 친구가 왜 갑자기 아무것도 못 움직이는지 모스크바에 설명해야겠죠. 그러면 모스크바가 질문을 합니다. 파일이 든 장롱에 대해서도요. 좋은 저녁 되십시오, 팔크 씨. 부인께 안부 전해 주시고요.
+ELISABETH: Wer war das? Und sag nicht «Arbeit». Dein Gesicht hat gerade die Farbe von Briefpapier.
+> 누구야? «일»이라고는 하지 마. 당신 얼굴이 지금 편지지 색이야.
+FALK: Ein Russe, der mir einen Deutschen verkaufen will. Mehr kann ich heute nicht sagen, und ich will dich nicht schon wieder anlügen. Ich muss kurz telefonieren. Draußen.
+> 독일 사람 하나를 나한테 팔겠다는 러시아인. 오늘은 그 이상 말 못 해. 그리고 당신한테 또 거짓말하고 싶지도 않아. 잠깐 전화 좀 할게. 밖에서.
+ELISABETH: Draußen, natürlich. Sonntag, Konstantin. Ich habe es mir in den Kalender geschrieben, mit Kugelschreiber.
+> 밖에서, 그렇겠지. 일요일이야, 콘스탄틴. 달력에 적어 놨어. 볼펜으로.
+MIRA: Ja?
+> 응?
+FALK: Er hat angerufen. Sedov selbst, auf dem Telefon meines Vaters. Er will Behrendt gegen Bystrow tauschen und braucht bis Dienstag ein Signal aus dem Justizministerium.
+> 전화 왔어. 세도프가 직접, 우리 아버지 전화기로. 베렌트랑 비스트로프를 맞바꾸고 싶대. 화요일까지 법무부에서 신호가 와야 한대.
+MIRA: Bystrow. … Er fängt groß an. Gut, das heißt, er glaubt dir. Morgen um zehn, Kleiner Tiergarten in Moabit, die Bank gegenüber dem Spielplatz. Du weißt, warum ich diesen Ort wähle.
+> 비스트로프라. …크게 시작하네. 좋아, 그 말은 널 믿는다는 거야. 내일 열 시, 모아비트 클라이너 티어가르텐, 놀이터 맞은편 벤치. 내가 왜 그 장소를 고르는지 알지.
+FALK: Weil dort im August 2019 ein Mann erschossen wurde.
+> 2019년 8월에 거기서 한 남자가 총에 맞아 죽었으니까.
+MIRA: Weil du am Montag jemandem erklären musst, warum man so einen Mann trotzdem tauscht. Üb an dem Ort, an dem es am schwersten fällt. Und lass das Telefon an, Konstantin. Auch nachts.
+> 월요일에 누군가한테 그런 놈을 그래도 왜 맞바꿔야 하는지 설명해야 하니까. 제일 어려운 곳에서 연습해. 그리고 그 전화기 켜 둬, 콘스탄틴. 밤에도.
+
+== 장면 1 — KLEINER TIERGARTEN
+MIRA: Hier, ungefähr hier. Freitag, 23. August 2019, kurz vor zwölf. Zelimkhan Khangoshvili, Georgier, Tschetschene, vierzig Jahre alt, auf dem Weg zum Freitagsgebet. Ein Radfahrer kommt von hinten und schießt mit einer Glock mit Schalldämpfer. Erst in den Rücken, dann zweimal in den Kopf.
+> 여기, 대략 이쯤이야. 2019년 8월 23일 금요일, 열두 시 조금 전. 젤림한 항고시빌리, 조지아 국적의 체첸인, 마흔 살, 금요 예배에 가는 길이었어. 자전거 탄 남자가 뒤에서 다가와 소음기 달린 글록으로 쏴. 먼저 등에, 그다음 머리에 두 발.
+FALK: Und dann warf er Fahrrad, Pistole und Perücke in die Spree. Jugendliche haben ihn dabei beobachtet und die Polizei gerufen.
+> 그러고는 자전거랑 권총이랑 가발을 슈프레강에 던졌지. 청소년들이 그걸 보고 경찰에 신고했고.
+MIRA: Er hatte einen echten russischen Pass auf einen falschen Namen, Vadim Sokolov. In Wahrheit hieß er Vadim Krasikov. Im Dezember 2021 hat das Kammergericht entschieden: lebenslang, besondere Schwere der Schuld, und der Auftrag kam von staatlichen Stellen der Russischen Föderation. Berlin hat Diplomaten ausgewiesen.
+> 가짜 이름이 적힌 진짜 러시아 여권을 갖고 있었어. 바딤 소콜로프. 본명은 바딤 크라시코프였고. 2021년 12월에 고등법원이 판결했지. 종신형, 책임의 특별한 중대성 인정, 그리고 지시는 러시아연방 국가 기관에서 나왔다. 베를린은 외교관들을 추방했고.
+FALK: Und am 1. August 2024 saß Krasikov in einem Flugzeug nach Ankara. Sechzehn Menschen aus russischen und belarussischen Gefängnissen gegen acht Russen. Im Kreml hat man ihn wie einen Helden empfangen.
+> 그리고 2024년 8월 1일, 크라시코프는 앙카라행 비행기에 앉아 있었지. 러시아와 벨라루스 감옥에 있던 열여섯 명을 받고 러시아인 여덟 명을 내줬어. 크렘린은 그를 영웅처럼 맞았고.
+MIRA: Genau das wird man dir am Montag vorhalten. Krasikov ist der Beweis, dass ein Mord in Berlin für Moskau ein kalkulierbares Risiko ist. Man verliert einen Mann für ein paar Jahre und bekommt ihn zurück. Bystrow ist schon der Zweite.
+> 월요일에 바로 그걸로 너를 몰아붙일 거야. 크라시코프는 베를린에서 사람을 죽이는 게 모스크바한테 계산 가능한 위험이라는 증거니까. 몇 년 사람 하나 잃었다가 돌려받으면 그만이라는 거지. 비스트로프가 벌써 두 번째고.
+FALK: Erzähl mir von Bystrow. Das, was nicht in der Zeitung stand.
+> 비스트로프 얘기 해 줘. 신문에 안 나온 거.
+MIRA: November 2024, Babelsberg, sieben Uhr vierzig. Pawel Gromow, früher Oberst im FSB, seit 2022 unsere Quelle, bringt seine Tochter zur Schule. Bystrow wartet am Zaun, mit einem lettischen Pass auf den Namen Igor Larionow. Er hat geschossen, bevor das Mädchen das Schultor erreicht hatte. Sie war neun.
+> 2024년 11월, 바벨스베르크, 아침 일곱 시 사십 분. 파벨 그로모프, 전직 FSB 대령, 2022년부터 우리 정보원이었어. 딸을 학교에 데려다주던 길이었지. 비스트로프는 이고르 라리오노프라는 이름의 라트비아 여권을 들고 울타리 옆에서 기다렸어. 아이가 교문에 닿기도 전에 쐈어. 아이는 아홉 살이었고.
+FALK: Und das Urteil?
+> 판결은?
+MIRA: September 2025, Kammergericht, wieder lebenslang, wieder besondere Schwere der Schuld, wieder staatlicher Auftrag. Der Vorsitzende hat das Wort «Tiergarten» nicht ausgesprochen, aber jeder im Saal hat es gehört. Gromow war unser Mann, Konstantin. Wir haben ihn nicht schützen können.
+> 2025년 9월, 고등법원. 또 종신형, 또 책임의 특별한 중대성, 또 국가의 지시. 재판장은 «티어가르텐»이라는 말을 입에 올리지 않았지만, 법정에 있던 사람은 다 들었어. 그로모프는 우리 사람이었어, 콘스탄틴. 우린 그를 지켜 주지 못했어.
+FALK: Und trotzdem willst du, dass ich seinen Mörder nach Hause schicke.
+> 그런데도 그 살인자를 집에 보내라는 거야.
+MIRA: Ich will, dass Sedov glaubt, du könntest es. Ob es passiert, entscheiden andere. Aber wenn er sieht, wie du dich für diesen Tausch die Finger verbrennst, glaubt er dir alles, was danach kommt.
+> 세도프가 네가 그걸 할 수 있다고 믿게 하고 싶은 거야. 실제로 될지는 다른 사람들이 정해. 하지만 네가 이 교환 때문에 손을 데는 걸 보면, 세도프는 그다음에 오는 건 뭐든 믿을 거야.
+FALK: Behrendt ist kein Requisit, Mira. Er hat Typ-1-Diabetes und sitzt in Lefortowo. Sedov hat mir gestern erklärt, wie pünktlich das Insulin dort kommt.
+> 베렌트는 소품이 아니야, 미라. 1형 당뇨에 레포르토보에 갇혀 있어. 세도프가 어제 거기 인슐린이 얼마나 제때 오는지 친절하게 설명해 주더라.
+MIRA: Dann ist es kein Theater. Dann verhandelst du echt, und ich lese mit. … Gestern hast du geliefert: Sedovs Anruf, seine Frist, seine Wortwahl. Das war deine erste Lieferung.
+> 그럼 연극이 아니네. 그럼 진짜로 협상해. 난 옆에서 같이 읽을게. …어제 넌 물건을 가져왔어. 세도프의 전화, 그의 기한, 그가 고른 단어들. 그게 네 첫 납품이었어.
+FALK: Dann zahl. Der Briefkopf. Wer hat die Akte meines Vaters im Archiv bestellt?
+> 그럼 값을 치러. 그 서식. 기록원에서 우리 아버지 파일을 주문한 게 누구야?
+MIRA: Der Deutsche Bundestag. Genauer das Sekretariat des Auswärtigen Ausschusses, ein Ersuchen «zur Vorbereitung einer vertraulichen Sitzung». Das Aktenzeichen gibt es dort nicht, und unterschrieben hat eine Mitarbeiterin, die seit Januar in Elternzeit ist.
+> 독일 연방의회. 정확히는 외교위원회 사무국이야. «비공개 회의 준비용» 요청서였어. 그런 사건 번호는 거기 없고, 서명한 직원은 1월부터 육아휴직 중이야.
+FALK: Brückners Ausschuss. … Ein Briefkopf ist ein Blatt Papier, Mira. Den kann jeder nachdrucken, der einmal einen Brief aus diesem Ausschuss bekommen hat. Das Auswärtige Amt bekommt jede Woche welche.
+> 브뤼크너 위원회라. …서식은 종이 한 장이야, 미라. 그 위원회에서 편지 한 번 받아 본 사람이면 누구나 똑같이 찍어 낼 수 있어. 외무부는 매주 받고.
+MIRA: Ich habe dir einen Briefkopf versprochen, keine Wahrheit. Die Wahrheit kostet mehr. … Wen triffst du am Montag?
+> 난 서식을 약속했지 진실을 약속하진 않았어. 진실은 더 비싸. …월요일엔 누굴 만나?
+FALK: Dr. Ruth Albers, Staatssekretärin im Justizministerium. Ich habe sie heute um acht angerufen. Sie hat «Montag, neun Uhr, Mohrenstraße» gesagt und aufgelegt, ohne nach dem Thema zu fragen.
+> 루트 알버스 박사, 법무부 사무차관. 오늘 아침 여덟 시에 전화했어. 무슨 일인지 묻지도 않고 «월요일 아홉 시, 모렌 거리» 하더니 끊더라.
+MIRA: Albers war Bundesanwältin in Karlsruhe, bevor sie ins Ministerium ging. Im Bystrow-Prozess hat sie die Anklage vertreten.
+> 알버스는 법무부로 가기 전에 카를스루에에서 연방검사였어. 비스트로프 재판에서 공소를 맡았던 사람이야.
+FALK: Wunderbar. Ich soll die Anklägerin bitten, ihren eigenen Verurteilten freizulassen.
+> 훌륭하네. 검사한테 자기가 감옥에 보낸 사람을 풀어 달라고 부탁하라는 거잖아.
+MIRA: Deshalb hat Sedov dich angerufen und nicht das Kanzleramt. Er will sehen, wie weit du gehst. Und wie er an dich herangetreten ist, sagst du niemandem, nicht Albers, nicht Winter. Offiziell kam die Anfrage über die Botschaft.
+> 그래서 세도프가 총리실이 아니라 너한테 전화한 거야. 네가 어디까지 가는지 보고 싶은 거지. 그리고 세도프가 어떻게 너한테 접근했는지는 아무한테도 말하지 마. 알버스한테도, 빈터한테도. 공식적으론 대사관을 통해 들어온 요청이야.
+FALK: Du verlangst, dass ich eine Staatssekretärin belüge.
+> 사무차관한테 거짓말하라는 거네.
+MIRA: Ich verlange, dass du eine Operation schützt. Dass das in diesem Fall dasselbe ist, tut mir leid. Und Sedov wird dich prüfen. Gib ihm etwas Kleines, Echtes: Die Kanzlerin wird die Absichtserklärung über die Patriot-Batterien nicht unterschreiben. Das stimmt, und es kostet niemanden etwas.
+> 작전을 지키라는 거야. 이번엔 그게 같은 말이라 미안하네. 그리고 세도프가 널 시험할 거야. 작고 진짜인 걸 하나 줘. 총리는 패트리엇 포대 구매 의향서에 서명하지 않는다. 사실이고, 아무도 손해 볼 게 없어.
+FALK: Das hat sie vor einer Woche beschlossen, als sie meine Empfehlung gelesen hat. Du gibst Sedov meine eigene Arbeit.
+> 그건 총리가 일주일 전에 내 권고서를 읽고 정한 거잖아. 내 일을 세도프한테 갖다 바치라는 거네.
+MIRA: Die beste Desinformation besteht aus deinem eigenen Material. Felfe hat man auch mit echten Erfolgen gefüttert. Ruf mich am Montag nach Albers an. Dann sage ich dir, wo du Sedov triffst.
+> 최고의 역정보는 네 자신의 재료로 만드는 거야. 펠페도 진짜 성과를 먹여서 키웠잖아. 월요일에 알버스 만나고 나서 전화해. 그때 세도프를 어디서 만날지 알려 줄게.
+
+== 장면 2 — SONNTAG IN PANKOW
+ELISABETH: Sonntag, zehn Uhr. Kaffee, keine Zeugen, kein Diensthandy. Ich höre.
+> 일요일, 열 시. 커피 있고, 증인 없고, 업무 전화 없어. 들을게.
+FALK: Vor zehn Tagen kam ein Umschlag ins Amt. Darin Seiten aus der Stasi-Akte meines Vaters und eine Karte: «Sie haben zehn Tage.» Am nächsten Morgen kam das Auto mit der zweiten Karte. Man hat mich erpresst, Elisabeth. Als du mich gefragt hast, habe ich Nein gesagt. Das war gelogen.
+> 열흘 전에 외무부로 봉투가 왔어. 안에 우리 아버지 슈타지 파일 몇 장이랑 카드가 들어 있었어. «열흘 드립니다.» 다음 날 아침에 그 자동차가 두 번째 카드랑 같이 왔고. 나 협박당했어, 엘리자베트. 당신이 물었을 때 아니라고 했지. 거짓말이었어.
+ELISABETH: Ich weiß. Ich habe es in jener Nacht zu Protokoll genommen. Was wollte man von dir?
+> 알아. 그날 밤에 조서에 올려 뒀어. 뭘 원했는데?
+FALK: Einen Satz in Brüssel, ein Jahr Verzögerung für Litauen. Ich habe stattdessen den Satz mit dem Licht geschrieben. Daher die Lüge mit Paris. Und heute ist der zehnte Tag.
+> 브뤼셀에서 문장 하나. 리투아니아에 1년 지연. 난 그 대신 «불빛» 문장을 썼어. 그래서 파리 핑계를 댄 거고. 그리고 오늘이 열 번째 날이야.
+ELISABETH: Und was passiert heute?
+> 그래서 오늘 무슨 일이 일어나는데?
+FALK: Nichts, hoffe ich. Man hat mir am Freitag zu verstehen gegeben, der Satz genüge und die Akte bleibe im Schrank.
+> 아무 일도 없길 바라. 금요일에 문장이면 충분하고 파일은 장롱에 그대로 있을 거라는 말을 들었어.
+ELISABETH: «Man.» Wer ist «man», Konstantin?
+> «누가.» 그 «누가»가 누군데, 콘스탄틴?
+FALK: Jemand, der für Moskau spricht. Derselbe, der am Freitagabend angerufen hat.
+> 모스크바를 대변하는 사람. 금요일 저녁에 전화한 그 사람.
+ELISABETH: Auf dem Telefon in deinem Mantel. Das ist weder dein Diensthandy noch dein privates. Wem gehört es?
+> 당신 외투 안의 그 전화로. 그건 업무 전화도 개인 전화도 아니잖아. 누구 거야?
+FALK: Meinem Vater. Er hat es mir letzten Sonntag gegeben.
+> 우리 아버지 거야. 지난 일요일에 나한테 줬어.
+ELISABETH: Das ist ein wahrer Satz, der wie eine Lüge gebaut ist. Hat er es von denen?
+> 그건 거짓말처럼 지어 놓은 참말이네. 아버님이 그 사람들한테 받은 거지?
+FALK: Ja. … Und jetzt kommt der Teil, den ich dir nicht erzählen darf. Nicht, weil ich nicht will.
+> 응. …그리고 이제부턴 당신한테 말하면 안 되는 부분이야. 하기 싫어서가 아니라.
+ELISABETH: «Darf.» Wer erlaubt dir etwas? Die Frau vom Friedhof?
+> «안 된다»라. 누가 당신한테 허락을 하는데? 묘지의 그 여자?
+FALK: Es gibt jetzt Leute, die die Sache übernommen haben, offiziell. Mehr kann ich nicht sagen, ohne jemanden in Gefahr zu bringen.
+> 이제 이 일을 넘겨받은 사람들이 있어. 공식적으로. 그 이상 말하면 누군가가 위험해져.
+ELISABETH: Gut, ich nehme zu Protokoll: Die Erpressung ist ein Dienstgeheimnis geworden. Dann ist sie nicht vorbei, Konstantin. Sie hat nur einen neuen Eigentümer.
+> 좋아, 조서에 올릴게. 협박이 직무상 비밀이 됐다. 그럼 끝난 게 아니야, 콘스탄틴. 주인만 바뀐 거지.
+FALK: Darf ich dich etwas als Richterin fragen? Rein theoretisch.
+> 판사로서 하나 물어봐도 돼? 순전히 이론적으로.
+ELISABETH: Bei dir hat «rein theoretisch» immer einen Vor- und Nachnamen. Frag.
+> 당신한텐 «순전히 이론적으로»에 늘 이름이랑 성이 붙어 있지. 물어봐.
+FALK: Ein Mann sitzt lebenslang, verurteilt vom Kammergericht. Kann die Bundesregierung ihn gehen lassen, ohne dass ihn jemand begnadigt?
+> 어떤 남자가 고등법원에서 종신형을 받고 복역 중이야. 누가 사면해 주지 않아도 연방정부가 그 사람을 내보낼 수 있어?
+ELISABETH: Paragraf 456a Strafprozessordnung. Die Vollstreckungsbehörde kann von der Vollstreckung absehen, wenn der Verurteilte ausgewiesen oder ausgeliefert wird. Bei Staatsschutzsachen ist das der Generalbundesanwalt, und dem kann das Justizministerium Weisungen erteilen. So ist man 2024 beim Tiergartenmörder vorgegangen.
+> 형사소송법 456a조. 수형자가 추방되거나 인도되면 집행 기관이 형 집행을 면제할 수 있어. 국가 안보 사건이면 그 기관이 연방검찰총장이고, 법무부가 총장한테 지시를 내릴 수 있지. 2024년에 티어가르텐 살인범 때도 그렇게 했어.
+FALK: Also genügt eine Unterschrift in der Mohrenstraße.
+> 그러니까 모렌 거리에서 서명 하나면 된다는 거네.
+ELISABETH: Eine Unterschrift, die ein Urteil nach monatelanger Hauptverhandlung zu Papier macht. Dass etwas rechtlich geht, heißt nicht, dass es recht ist. Du redest von Bystrow, nicht wahr? Das stand in jeder Zeitung.
+> 몇 달 동안 공판을 해서 나온 판결을 종잇조각으로 만드는 서명이지. 법적으로 가능하다고 해서 옳은 건 아니야. 비스트로프 얘기지? 신문마다 다 났었잖아.
+FALK: Und auf der anderen Seite sitzt ein Doktorand mit Diabetes in Lefortowo, weil er Akten fotografiert hat. Akten, Elisabeth. So wie du sie liest, jeden Tag.
+> 그리고 반대편엔 당뇨 앓는 박사 과정생이 레포르토보에 갇혀 있어. 문서를 사진 찍었다는 이유로. 문서야, 엘리자베트. 당신이 매일 읽는 그런 거.
+ELISABETH: Ich weiß, wer Behrendt ist. Seine Mutter steht jeden Donnerstag mit einem Foto vor dem Kanzleramt. … Konstantin, dein Vater hat einen Mann nach Bautzen gebracht, und Bonn hat ihn freigekauft, wahrscheinlich über Wolfgang Vogel, den Anwalt, der 1962 auch die Glienicker Brücke mit eingefädelt hat.
+> 베렌트가 누군지 알아. 그 어머니가 목요일마다 사진 들고 총리실 앞에 서 있잖아. …콘스탄틴, 당신 아버지가 한 사람을 바우첸에 보냈고, 본 정부가 돈을 내고 그 사람을 빼냈어. 아마 볼프강 포겔을 통해서였겠지. 1962년 글리니커 다리 교환도 함께 주선한 그 변호사.
+FALK: Du meinst, ich will mit Bystrow etwas abbezahlen.
+> 내가 비스트로프로 뭘 갚으려 한다는 거야?
+ELISABETH: Ich meine, du solltest wissen, wessen Schuld du gerade verhandelst, bevor du in die Mohrenstraße gehst. Ruth Albers wird es merken. Ich kenne sie aus dem Referendariat. Schon damals hat sie jeden Ausbilder gefragt, wer am Ende die Kosten trägt.
+> 모렌 거리에 가기 전에 지금 누구의 빚을 협상하고 있는지는 알아야 한다는 거야. 루트 알버스는 알아챌 거야. 사법연수 때부터 아는 사이거든. 그때도 교관마다 붙잡고 결국 비용은 누가 치르느냐고 물었어.
+FALK: Und was würde sie heute fragen?
+> 그럼 오늘은 뭘 물을까?
+ELISABETH: Wer den nächsten Deutschen bezahlt, den Moskau verhaftet, weil dieser Tausch so gut funktioniert hat. Hab darauf eine Antwort, oder geh gar nicht erst hin. … Und das Telefon deines Vaters liegt heute Nacht in der Küche. Ich schlafe nicht neben Moskau.
+> 이번 교환이 너무 잘 먹혀서 모스크바가 다음에 잡아 가둘 독일인 값은 누가 치르느냐. 거기에 답을 갖고 가든지, 아예 가지 마. …그리고 아버님 전화기는 오늘 밤 부엌에 둬. 난 모스크바 옆에서 안 자.
+
+== 장면 3 — MOHRENSTRASSE
+ALBERS: Herr Falk. Ich gebe Ihnen fünfundzwanzig Minuten, weil Ihre Frau mir im Referendariat einmal das Zivilrecht gerettet hat. Fangen Sie an.
+> 팔크 대표님. 25분 드리겠습니다. 사법연수 때 부인께서 제 민법을 한 번 구해 주신 적이 있어서요. 시작하시죠.
+FALK: Lukas Behrendt gegen Arkadi Bystrow. Die russische Seite hat es vertraulich über ihre Botschaft angedeutet, und ich soll die Temperatur messen.
+> 루카스 베렌트와 아르카디 비스트로프. 러시아 측이 대사관을 통해 비공식적으로 운을 띄웠고, 저는 온도를 재 보려는 겁니다.
+ALBERS: Die Temperatur. … Wissen Sie, wer im Bystrow-Prozess die Anklage vertreten hat?
+> 온도라. …비스트로프 재판에서 공소를 누가 맡았는지 아십니까?
+FALK: Sie. Neun Monate Hauptverhandlung.
+> 차관님이죠. 공판만 9개월.
+ALBERS: Und eine Zeugin, die neun Jahre alt war. Sie wurde per Video aus einem anderen Raum vernommen, weil sie das Gesicht dieses Mannes nicht noch einmal sehen sollte. Und jetzt sitzt ein Diplomat in meinem Büro und fragt, wie warm das Wasser ist.
+> 그리고 아홉 살짜리 증인이 하나 있었죠. 그 남자 얼굴을 다시 보게 할 수 없어서 다른 방에서 영상으로 신문했습니다. 그런데 지금 외교관 한 분이 제 사무실에 앉아서 물이 얼마나 따뜻한지 묻고 계시네요.
+FALK: Ich frage, weil auf der anderen Seite ein Neunundzwanzigjähriger mit Typ-1-Diabetes in Lefortowo sitzt, dessen Insulin, wie man mir sagte, nicht immer pünktlich kommt.
+> 묻는 이유는, 반대편에 1형 당뇨를 앓는 스물아홉 살 청년이 레포르토보에 갇혀 있기 때문입니다. 들은 바로는 인슐린이 늘 제때 오지는 않는다더군요.
+ALBERS: «Wie man Ihnen sagte.» Dann sage ich Ihnen, wie ich das nenne: eine Geiselnahme mit Gerichtsurteil. Moskau verhaftet einen Deutschen, damit wir einen Mörder herausgeben. Wenn wir zahlen, ist jeder deutsche Student in Russland eine Währung.
+> «들은 바로는»이라. 그럼 저는 그걸 뭐라고 부르는지 말씀드리죠. 판결문 붙은 인질극입니다. 우리가 살인자를 내놓게 하려고 모스크바가 독일인을 잡아 가둔 거예요. 우리가 값을 치르면 러시아에 있는 독일 학생은 하나하나가 다 화폐가 됩니다.
+FALK: Das ist er längst. Behrendt sitzt nicht wegen ein paar Fotos, sondern weil Bystrow in Tegel sitzt. Ob wir zahlen oder nicht, der Kurs steht fest. Die Frage ist nur, ob Behrendt die zwölf Jahre überlebt.
+> 이미 화폐입니다. 베렌트가 갇힌 건 사진 몇 장 때문이 아니라 비스트로프가 테겔에 있어서예요. 우리가 값을 치르든 말든 환율은 이미 정해져 있습니다. 남은 질문은 베렌트가 12년을 살아서 버티느냐뿐이죠.
+ALBERS: Dieses Argument kenne ich von 2024. Damals hieß es auch: ein einziges Mal, aus humanitären Gründen, ein Sonderfall. Krasikov flog nach Ankara und wurde in Moskau wie ein Held empfangen. Drei Monate später stand Bystrow in Babelsberg am Schulzaun.
+> 그 논리는 2024년에 들어 봤습니다. 그때도 그랬죠. 딱 한 번, 인도적 이유로, 특별한 경우로. 크라시코프는 앙카라로 날아갔고 모스크바에서 영웅 대접을 받았어요. 석 달 뒤 비스트로프가 바벨스베르크 학교 울타리 옆에 서 있었고요.
+FALK: Drei Monate, ich weiß. Und trotzdem hat die Bundesrepublik den Tausch damals gemacht, weil sie Menschen zurückholen wollte, die sonst gestorben wären. Ein Rechtsstaat, der seine Bürger im Gefängnis eines anderen sterben lässt, um ein Prinzip zu retten, verliert am Ende beides.
+> 석 달, 압니다. 그래도 연방공화국은 그때 교환을 했습니다. 안 그랬으면 죽었을 사람들을 데려오고 싶었으니까요. 원칙을 지키겠다고 자기 국민을 남의 감옥에서 죽게 내버려 두는 법치국가는 결국 둘 다 잃습니다.
+ALBERS: Schön gesagt. Haben Sie das für das Kanzleramt geschrieben oder für mich?
+> 멋진 말씀이네요. 총리실용으로 쓰신 겁니까, 저를 위해 쓰신 겁니까?
+FALK: Für niemanden. Darf ich Ihnen eine andere Brücke anbieten? Februar 1962, Glienicke. Die Amerikaner gaben Rudolf Abel her, einen KGB-Oberst, verurteilt zu dreißig Jahren, und bekamen Francis Gary Powers zurück, den U-2-Piloten.
+> 누구를 위해서도 아닙니다. 다른 다리 하나를 내밀어 봐도 될까요? 1962년 2월, 글리니케. 미국은 30년형을 받은 KGB 대령 루돌프 아벨을 내주고 U-2 조종사 프랜시스 개리 파워스를 돌려받았습니다.
+ALBERS: Abel war ein Spion. Spione tauscht man, das gehört zum Gewerbe. Abel hat in Brooklyn Funksprüche verschlüsselt und niemandem vor seinem Kind in den Kopf geschossen.
+> 아벨은 스파이였죠. 스파이는 맞바꾸는 겁니다. 그게 그 바닥 일이니까. 아벨은 브루클린에서 무전을 암호화했지, 아이 앞에서 사람 머리에 총을 쏘진 않았습니다.
+FALK: Ich rede nicht von Abel, sondern von James Donovan, dem Anwalt, der verhandelt hat. Die andere Seite wollte einen gegen einen. Donovan bestand auf zwei. Am selben Morgen kam am Checkpoint Charlie Frederic Pryor frei, ein amerikanischer Doktorand, den die DDR in Ost-Berlin festgenommen hatte. Ein Student, Frau Albers. Wie Behrendt.
+> 전 아벨 얘기를 하는 게 아니라 협상을 맡았던 변호사 제임스 도너번 얘기를 하는 겁니다. 상대는 한 명 대 한 명을 원했어요. 도너번은 두 명을 고집했죠. 같은 날 아침 체크포인트 찰리에서 프레더릭 프라이어가 풀려났습니다. 동독이 동베를린에서 붙잡아 둔 미국인 박사 과정생이었죠. 학생이었습니다, 차관님. 베렌트처럼요.
+ALBERS: Worauf wollen Sie hinaus?
+> 무슨 말씀을 하시려는 겁니까?
+FALK: Dass ein Tausch keine Kapitulation sein muss. Wenn wir Bystrow geben, dann nicht für einen, sondern für zwei. Und zu Bedingungen, die Moskau etwas kosten.
+> 교환이 꼭 항복일 필요는 없다는 겁니다. 비스트로프를 내준다면 한 명이 아니라 두 명을 받아야죠. 그리고 모스크바가 뭔가를 치러야 하는 조건으로요.
+ALBERS: Welche Bedingungen?
+> 어떤 조건이요?
+FALK: Erstens zwei Deutsche statt einem. Zweitens ein lebenslanges Einreiseverbot für Bystrow im gesamten Schengenraum, ausgeschrieben, bevor er die Brücke betritt. Drittens nennt die Bundesregierung den Tausch öffentlich beim Namen: Russland kauft einen verurteilten Staatsmörder zurück. Kein verschämtes Schweigen, keine humanitäre Lyrik.
+> 첫째, 독일인 한 명이 아니라 두 명. 둘째, 비스트로프가 다리에 발을 올리기 전에 솅겐 지역 전체에 평생 입국 금지를 걸어 둔다. 셋째, 연방정부가 이 교환을 공개적으로 제 이름으로 부른다. 러시아가 유죄 판결을 받은 국가 살인범을 되사 간다고. 쭈뼛거리는 침묵도, 인도주의 운운하는 미사여구도 없이.
+ALBERS: Sie wollen Moskau den Tausch verderben, während Sie ihn aushandeln.
+> 협상하면서 동시에 모스크바한테 그 교환을 망쳐 놓겠다는 거군요.
+FALK: Ich will, dass der Preis sichtbar ist. Krasikov kam als Held nach Hause, weil wir verschämt geschwiegen haben. Bystrow soll als das nach Hause kommen, was er ist: als Mörder, auf jedem deutschen Bildschirm.
+> 값이 보이게 하고 싶은 겁니다. 크라시코프가 영웅으로 돌아간 건 우리가 부끄러워하며 입을 다물었기 때문이에요. 비스트로프는 제 모습 그대로 돌아가야 합니다. 독일의 모든 화면에 살인자로.
+ALBERS: … Und wer hat Sie beauftragt? Weiß das Kanzleramt davon? Ihre Staatssekretärin?
+> …그런데 누가 맡긴 겁니까? 총리실은 압니까? 대표님 사무차관은요?
+FALK: Noch niemand. Ich bin hier, damit ich ihnen eine Antwort von Ihnen bringen kann und nicht nur eine russische Idee.
+> 아직 아무도 모릅니다. 러시아의 아이디어만 들고 가는 게 아니라 차관님의 답을 들고 가려고 여기 온 겁니다.
+ALBERS: Das ist ungewöhnlich ehrlich für jemanden, der mir vor zehn Minuten erzählt hat, die Anfrage sei über die Botschaft gekommen. In solchen Fällen ruft mich die Botschaft an, Herr Falk, nicht ein Sonderbeauftragter.
+> 10분 전에 요청이 대사관을 통해 들어왔다고 하신 분치고는 유난히 솔직하시네요. 이런 일이면 대사관이 저한테 직접 전화합니다, 팔크 대표님. 특별대표가 아니라.
+FALK: Manche Botschaften rufen lieber Leute an, die man später verleugnen kann.
+> 어떤 대사관들은 나중에 모른 척할 수 있는 사람한테 전화하는 걸 더 좋아하죠.
+ALBERS: Das glaube ich Ihnen sofort. … Meine Antwort: Solange es einer gegen einen bleibt, lege ich es meiner Ministerin nicht vor. Bringen Sie mir einen zweiten Namen, das Einreiseverbot schriftlich und eine förmliche Bitte des Kanzleramts. Dann prüfe ich nach Paragraf 456a.
+> 그 말씀은 바로 믿겠습니다. …제 답은 이렇습니다. 한 명 대 한 명인 한, 장관님께 올리지 않겠습니다. 두 번째 이름, 입국 금지 문서, 그리고 총리실의 공식 요청을 가져오세요. 그러면 456a조에 따라 검토하겠습니다.
+FALK: Bis wann?
+> 언제까지요?
+ALBERS: Bis Moskau ungeduldig wird, nehme ich an. Die Uhr kennen Sie besser als ich. … Und, Herr Falk: Die Familie von Pawel Gromow erfährt es von mir, nicht aus dem Fernsehen. Das ist meine Bedingung, nicht Moskaus.
+> 모스크바가 조급해질 때까지겠죠. 시계는 대표님이 저보다 잘 아실 테고요. …그리고 팔크 대표님. 파벨 그로모프 유족은 텔레비전이 아니라 저한테서 듣게 됩니다. 그건 모스크바가 아니라 제 조건입니다.
+FALK: Einverstanden.
+> 동의합니다.
+ALBERS: Grüßen Sie Elisabeth. Sagen Sie ihr, ich frage immer noch, wer am Ende die Kosten trägt.
+> 엘리자베트한테 안부 전해 주세요. 저는 아직도 결국 비용은 누가 치르느냐고 묻고 다닌다고요.
+
+== 절정 — DAS EHRENMAL
+SEDOV: Pünktlich wie immer. Wissen Sie, Herr Falk, dieses Ehrenmal wurde im November 1945 eingeweiht, mitten im britischen Sektor. Rund zweitausend Soldaten liegen hier, und die beiden Panzer da vorn sollen zu den ersten gehört haben, die Berlin erreicht haben.
+> 언제나처럼 정확하시군요. 아십니까, 팔크 씨, 이 기념비는 1945년 11월에 세워졌습니다. 영국 점령 구역 한가운데에요. 병사 2천 명 남짓이 여기 묻혀 있고, 저 앞의 탱크 두 대는 베를린에 처음 들어온 탱크들이었다고들 하죠.
+FALK: Und jahrzehntelang mussten britische Soldaten die sowjetischen Ehrenwachen bewachen, damit niemand auf sie schießt. Ich hoffe, Sie haben heute keine Wache mitgebracht.
+> 그리고 수십 년 동안 영국군이 소련 의장대를 지켜야 했죠. 아무도 그들에게 총을 쏘지 못하게. 오늘은 경호원을 안 데려오셨길 바랍니다.
+SEDOV: Nur die üblichen Herren vom Verfassungsschutz, dort bei den Bäumen. Ich grüße sie jedes Mal, sie grüßen nie zurück. Was sagt die Mohrenstraße?
+> 늘 오는 헌법수호청 신사분들뿐입니다. 저기 나무 옆에요. 전 매번 인사하는데 저쪽은 한 번도 받아 주질 않네요. 모렌 거리는 뭐라던가요?
+FALK: Sie hört zu. Aber nicht einer gegen einen.
+> 듣고는 있습니다. 하지만 한 명 대 한 명은 안 됩니다.
+SEDOV: Ah. Der deutsche Unterhändler entdeckt das Feilschen. Wen wollen Sie noch?
+> 아. 독일 협상가께서 흥정을 발견하셨군요. 누굴 더 원하십니까?
+FALK: Dietmar Kühn. Einundsechzig, Ingenieur aus Chemnitz, seit Oktober 2025 in Haft, angeblich wegen Sabotage an einer Gasverdichterstation. Er hat ein schwaches Herz und eine Frau, die jede Woche an das Auswärtige Amt schreibt.
+> 디트마르 퀸. 예순한 살, 켐니츠 출신 엔지니어, 2025년 10월부터 수감 중이죠. 가스 압축 기지를 사보타주했다는 혐의로요. 심장이 약하고, 매주 외무부에 편지를 쓰는 부인이 있습니다.
+SEDOV: Kühn ist ein Saboteur.
+> 퀸은 사보타주범입니다.
+FALK: Und Bystrow ein Mörder. Wenn wir anfangen, Etiketten zu vergleichen, stehen wir morgen früh noch hier. Zwei gegen einen, Herr Sedov. Wie Donovan 1962.
+> 그리고 비스트로프는 살인자죠. 꼬리표를 비교하기 시작하면 내일 아침까지 여기 서 있게 될 겁니다. 두 명 대 한 명입니다, 세도프 씨. 1962년의 도너번처럼.
+SEDOV: Donovan, natürlich. Ein guter Tausch, sagt man bei uns, ist einer, bei dem beide Seiten glauben, sie hätten den anderen betrogen. … Ich werde Moskau fragen. Was bekomme ich heute dafür, dass ich frage?
+> 도너번, 물론이죠. 저희 쪽에선 좋은 교환이란 양쪽이 다 상대를 속였다고 믿는 교환이라고들 합니다. …모스크바에 물어보죠. 묻는 대가로 오늘 저는 뭘 받습니까?
+FALK: Eine Auskunft. Die Kanzlerin wird die Absichtserklärung über die Patriot-Batterien nicht unterschreiben. Washington wartet umsonst.
+> 정보 하나요. 총리는 패트리엇 포대 구매 의향서에 서명하지 않을 겁니다. 워싱턴은 헛되이 기다리는 거죠.
+SEDOV: … Das stimmt. Ich habe es seit gestern auch von anderer Seite. Interessant ist nicht die Auskunft, Herr Falk. Interessant ist, dass Sie sie mir geben.
+> …사실이군요. 어제부터 다른 쪽에서도 듣고 있었습니다. 흥미로운 건 정보가 아닙니다, 팔크 씨. 그걸 당신이 저한테 준다는 사실이죠.
+FALK: Sie wollten einen Mann, der etwas bewegt. Ich bewege.
+> 뭔가를 움직이는 사람을 원하셨잖습니까. 움직이고 있습니다.
+SEDOV: Dann noch eine Kleinigkeit. Ich habe Frau Albers' Plädoyer gelesen. Sie wird verlangen, dass Berlin den Tausch öffentlich kommentiert, mit Wörtern wie «Staatsmord». Das wird es nicht geben.
+> 그럼 사소한 것 하나만 더. 알버스 차관의 최종 논고를 읽어 봤습니다. 그분은 베를린이 이 교환을 공개적으로 논평하라고 요구하겠죠. «국가 살인» 같은 단어로요. 그건 안 됩니다.
+FALK: Doch. Ohne diesen Satz unterschreibt in Berlin niemand. Sie bekommen Ihren Mann, wir bekommen das Recht, ihn beim Namen zu nennen.
+> 됩니다. 그 문장이 없으면 베를린에선 아무도 서명 안 합니다. 당신들은 당신네 사람을 받고, 우리는 그를 제 이름으로 부를 권리를 받는 겁니다.
+SEDOV: Sie verhandeln sehr hart für jemanden, dessen Vater in meinem Schrank liegt.
+> 아버님이 제 장롱 속에 계신 분치고는 아주 세게 협상하시는군요.
+FALK: Und Sie drohen sehr viel für jemanden, der mich braucht. Wenn Behrendt bis zur Brücke auch nur eine Spritze zu spät bekommt, gibt es keinen Tausch, keine Auskünfte und keinen Mann im Auswärtigen Amt mehr, der Ihnen Türen öffnet. Dann drucken Sie die Akte. Sie wäre das Letzte, was Sie von mir haben.
+> 그리고 당신은 저를 필요로 하는 분치고는 협박을 너무 많이 하시네요. 다리에 설 때까지 베렌트가 주사 한 번이라도 늦게 맞으면, 교환도 없고 정보도 없고, 외무부에서 당신에게 문을 열어 줄 사람도 더는 없습니다. 그땐 파일을 찍어 내시죠. 그게 당신이 저한테서 얻는 마지막 물건이 될 겁니다.
+SEDOV: … Das war beinahe eine Drohung, Herr Falk.
+> …거의 협박이었는데요, 팔크 씨.
+FALK: Ich habe von Ihnen gelernt. Es war eine medizinische Auskunft.
+> 당신한테 배웠습니다. 의학적 정보였을 뿐이에요.
+SEDOV: Touché. … Gut. Zwei gegen einen. Das Einreiseverbot ist mir gleich, Bystrow wollte ohnehin nie nach Mallorca. Über Ihren Satz streiten wir später. Und sollte Moskau Ja sagen, kennen Sie den Ort.
+> 한 방 먹었군요. …좋습니다. 두 명 대 한 명. 입국 금지는 상관없습니다. 비스트로프는 어차피 마요르카에 갈 생각이 없었으니까. 그 문장은 나중에 다투죠. 그리고 모스크바가 좋다고 하면, 장소는 아시겠죠.
+FALK: Die Glienicker Brücke ist seit November 1989 eine ganz gewöhnliche Brücke. Da fahren Busse drüber.
+> 글리니커 다리는 1989년 11월부터 아주 평범한 다리입니다. 버스가 지나다녀요.
+SEDOV: Eben. Gewöhnliche Brücken haben das beste Gedächtnis. An einem Samstag, früh am Morgen, wie am 10. Februar 1962. Ich melde mich.
+> 바로 그겁니다. 평범한 다리가 기억력이 제일 좋거든요. 토요일 이른 아침에, 1962년 2월 10일처럼. 연락드리겠습니다.
+FALK: Behrendt bekommt bis dahin sein Insulin pünktlich. Das ist keine Bitte.
+> 그때까지 베렌트는 인슐린을 제때 맞습니다. 부탁이 아닙니다.
+SEDOV: Ich rufe heute Abend in Lefortowo an. Sehen Sie, wie gut wir zusammenarbeiten? Ihr Vater wäre stolz. Er hat auch immer pünktlich geliefert.
+> 오늘 저녁에 레포르토보에 전화하겠습니다. 보세요, 우리 손발이 얼마나 잘 맞는지. 아버님이 자랑스러워하시겠습니다. 그분도 늘 제때 납품하셨거든요.
+FALK: Gute Nacht, Herr Sedov.
+> 안녕히 가십시오, 세도프 씨.
+MIRA: Er geht Richtung Brandenburger Tor. Ich habe alles gesehen und nichts gehört. Erzähl.
+> 브란덴부르크 문 쪽으로 가네. 다 봤는데 하나도 못 들었어. 말해 봐.
+FALK: Zwei gegen einen, Dietmar Kühn als zweiter Name. Die Patriot-Sache hat er geschluckt, er hatte sie schon von anderer Seite. Und er will die Brücke, an einem Samstag.
+> 두 명 대 한 명. 두 번째 이름은 디트마르 퀸. 패트리엇 얘기는 삼켰어. 이미 다른 쪽에서 들었다더라. 그리고 다리를 원해. 토요일에.
+MIRA: Natürlich will er die Brücke, Russen lieben Jahrestage. … Kühn, gut gewählt. Ich schreibe es heute Nacht auf. Für meinen Präsidenten, nur für ihn.
+> 당연히 다리를 원하지. 러시아 사람들은 기념일을 좋아하니까. …퀸이라, 잘 골랐어. 오늘 밤에 정리해 둘게. 우리 원장님께만. 그분한테만.
+
+== 마무리 — DIENSTAG, ZWEIUNDZWANZIG UHR
+JAN: Zwei Nachrichten, zuerst die gute. Frau Lindner hat angerufen: Der Brief des BND ist heute Morgen in Karlsruhe eingegangen, «keine weiteren Erkenntnisse». Sie sagt, die Einstellung sei jetzt nur noch eine Frage von Wochen.
+> 소식이 두 개예요. 좋은 것부터. 린트너 변호사가 전화했어요. BND 서한이 오늘 아침 카를스루에에 들어갔대요. «추가 혐의점 없음.» 이제 수사 종결은 몇 주 문제래요.
+FALK: Jan. … Das ist die beste Nachricht seit Wochen.
+> 얀. …몇 주 만에 들은 최고의 소식이다.
+JAN: Ich habe heute zum ersten Mal zu Mittag gegessen, ohne an das Wort «Beschuldigter» zu denken. Die Kantine hatte sogar Linsen.
+> 오늘 처음으로 «피의자»라는 단어를 안 떠올리고 점심을 먹었어요. 구내식당에 렌틸콩까지 나왔더라고요.
+FALK: Und die zweite?
+> 두 번째는?
+JAN: Die ist seltsam. Albers' Büro hat um halb neun angerufen, sie will dich heute noch sprechen. Und du hast diesen Zettel auf dem Tisch liegen lassen: «Behrendt, Kühn, Bystrow». Konstantin, was machst du mit einem Mörder aus Tegel?
+> 그건 좀 이상해요. 여덟 시 반에 알버스 차관실에서 전화가 왔는데, 오늘 안에 통화하고 싶대요. 그리고 책상에 이 쪽지를 두고 갔던데요. «베렌트, 퀸, 비스트로프.» 콘스탄틴, 테겔에 있는 살인범이랑 뭘 하는 거예요?
+FALK: Ich hole zwei Menschen nach Hause. Mehr nicht, Jan, nicht heute. Verbinde mich mit Albers.
+> 두 사람을 집에 데려오는 거야. 그 이상은 안 돼, 얀. 오늘은. 알버스 차관 연결해 줘.
+ALBERS: Herr Falk. Ich wollte, dass Sie es von mir hören. Ihre Staatssekretärin hat mich heute Nachmittag angerufen.
+> 팔크 대표님. 저한테서 직접 들으셨으면 해서요. 오늘 오후에 대표님 사무차관이 저한테 전화했습니다.
+FALK: Frau Winter hat Sie angerufen?
+> 빈터 차관이 전화했다고요?
+ALBERS: Um fünfzehn Uhr zwanzig. Sehr freundlich, sehr gut vorbereitet. Sie sagte, das Auswärtige Amt unterstütze den Tausch, das Kanzleramt werde die förmliche Bitte nachreichen, und der zweite Deutsche sei ein Herr Kühn aus Chemnitz. Diesen Namen hatten Sie mir gestern nicht genannt.
+> 오후 세 시 이십 분이었어요. 아주 친절하고, 아주 준비가 잘 돼 있더군요. 외무부가 이 교환을 지지하고, 총리실이 공식 요청을 곧 보낼 거고, 두 번째 독일인은 켐니츠의 퀸이라는 사람이라고 했습니다. 그 이름은 어제 대표님이 저한테 말씀하지 않으셨죠.
+FALK: Weil ich ihn gestern früh noch nicht kannte. Ich habe ihn gestern Abend vorgeschlagen.
+> 어제 아침엔 저도 몰랐으니까요. 어제 저녁에 제가 제안한 이름입니다.
+ALBERS: Wem?
+> 누구한테요?
+FALK: Der anderen Seite.
+> 상대편한테요.
+ALBERS: Dann frage ich mich, wie ein Name in weniger als einem Tag von der anderen Seite in das Büro Ihrer Staatssekretärin gelangt. Und ob ich mit einem Unterhändler spreche oder mit einem Briefträger.
+> 그럼 궁금하네요. 이름 하나가 어떻게 하루도 안 돼서 상대편에서 대표님 사무차관 방까지 가는지. 그리고 제가 지금 협상가랑 얘기하는 건지 우편배달부랑 얘기하는 건지.
+FALK: Das frage ich mich auch, Frau Albers. Bitte erzählen Sie niemandem, dass Sie mich angerufen haben.
+> 저도 그게 궁금합니다, 차관님. 저한테 전화하셨다는 건 아무한테도 말하지 말아 주십시오.
+ALBERS: Ich war Staatsanwältin. Ich erzähle nie, wen ich anrufe, ich schreibe es nur auf. … Meine Ministerin legt es morgen der Kanzlerin vor. Ihr Tausch lebt, Herr Falk. Ich weiß nur nicht mehr, wessen Tausch es ist.
+> 전 검사였습니다. 누구한테 전화하는지 절대 말 안 해요. 적어 둘 뿐이죠. …장관님이 내일 총리께 올립니다. 대표님 교환은 살아 있어요, 팔크 대표님. 다만 그게 누구의 교환인지 이제 모르겠네요.
+JAN: Winter? Du warst heute nicht einmal im vierten Stock. Wem hast du den Namen gesagt?
+> 빈터 차관이요? 오늘 4층엔 가지도 않았잖아요. 그 이름을 누구한테 말했어요?
+FALK: Nur einem. Dem Mann, mit dem ich verhandle.
+> 딱 한 사람. 내가 협상하는 그 남자.
+JAN: Dann redet dein Russe mit unserer Staatssekretärin. Konstantin, das ist genau der Kanal, von dem Claire gesprochen hat. Gehst du damit zu Lehnert?
+> 그럼 당신의 러시아인이 우리 사무차관이랑 얘기한다는 거네요. 콘스탄틴, 그게 바로 클레르가 말한 그 채널이잖아요. 이거 들고 레너트한테 갈 거예요?
+FALK: Morgen. Geh nach Hause, Jan, und feier deinen Brief aus Karlsruhe. Und zu niemandem ein Wort über Kühn.
+> 내일. 집에 가, 얀. 가서 카를스루에 편지 축하해. 그리고 퀸 얘기는 아무한테도 한마디도 하지 마.
+MIRA: Es ist spät, Konstantin. Ist etwas mit Sedov?
+> 늦었네, 콘스탄틴. 세도프한테 무슨 일 있어?
+FALK: Nicht mit Sedov. Hast du den Namen Kühn gestern noch jemandem gesagt, außer deinem Präsidenten?
+> 세도프 말고. 어제 퀸이라는 이름, 너희 원장님 말고 다른 사람한테 말한 적 있어?
+MIRA: … Nicht an diesem Telefon. Morgen früh um sechs, du weißt, wo. Und bis dahin glaubst du gar nichts, Konstantin. Auch mir nicht.
+> …이 전화로는 안 돼. 내일 새벽 여섯 시, 어딘지 알지. 그리고 그때까지 아무것도 믿지 마, 콘스탄틴. 나도.
