@@ -1,0 +1,332 @@
+@part 1
+@ep 5
+@title Die Emser Depesche
+@title_ko 엠스 전보
+@tagline 엠스 전보 · 가위질된 문장 하나와 폭발 직전의 빌뉴스
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 3월, 금요일 새벽 여섯 시부터 저녁까지, 팔크의 집, «Berliner Depesche» 편집국, 팔크의 사무실, 사무차관실, 주독 리투아니아 대사관
+@cast FALK | 외무부 유럽안보 특별대표 (44)
+@cast JAN | 팔크의 개인 보좌관 (31)
+@cast ANNA | 탐사보도 기자 · «Berliner Depesche» (45)
+@cast NOWAK | 폴란드 외무차관 (52)
+@cast WINTER | 외무부 사무차관 (57)
+@cast VAITKUS | Tomas Vaitkus · 주독 리투아니아 대사 (가상)
+@cast GEORG | 팔크의 아버지 · 전 동독 외무부 외교관 (79)
+@note ※ 4화 바로 다음 순간인 금요일 새벽 다섯 시 오십구 분입니다. Anna Kessler의 기사가 2분 일찍 실렸고, 폴란드 방공 이야기는 없어서 Nowak과의 거래는 살아 있습니다. 그런데 기사는 Bernstein 문서를 인용한다며 원문에 없는 문장을 따옴표 안에 실었습니다. «리투아니아 영구 주둔은 모스크바와의 합의를 전제로 한다.» 리투아니아 대사관은 이미 두 번 전화했습니다. 전날 밤 러시아 공사참사관 Sedov는 팔크에게 «신문을 한 단어도 빠짐없이 읽으라»고 충고했습니다.
+@note ※ 호칭: 팔크와 Jan, 아버지 Georg는 서로 du를 씁니다. 팔크는 Anna, Nowak, Winter, Vaitkus와 Sie를 씁니다. 팔크는 Nowak을 «Herr Minister», Vaitkus를 «Herr Botschafter»라고 부릅니다. Jan은 접근 권한을 잃어 Bernstein 문서를 열 수 없습니다.
+@note ※ 표현 초점: Fälschung(위조), zusammennähen(이어 붙이다), Laufweite(자간), Zeilenumbruch(줄바꿈), Konfrontation(보도 전 당사자 확인 요청), Klarstellung(정정·해명), offiziöses Blatt(관변 신문), Schamade / Fanfare(항복 신호 / 진군 나팔), zu Konsultationen zurückrufen(협의차 소환하다), entschärfen(수위를 낮추다), schwarz auf weiß(문서로), die Hand ins Feuer legen(장담하다). 접속법 II: «Hätten wir den Satz bestritten, hätte Frau Kessler die übrigen dreizehn Zitate als echt drucken dürfen.» 접속법 I 간접화법: «Da steht, der König habe dem Botschafter nichts weiter mitzuteilen.»
+@history 엠스 전보 (Emser Depesche, 1870) — 1870년 7월 13일, 프랑스 대사 뱅상 베네데티가 바트 엠스의 요양지 산책로에서 프로이센 왕 빌헬름 1세를 찾아가, 호엔촐레른가의 레오폴트가 스페인 왕위 후보로 다시 나서는 일이 영원히 없도록 보장하라고 요구했습니다. 왕은 이를 정중히 거절했고, 수행하던 외교관 하인리히 아베켄이 경위를 베를린의 비스마르크에게 전보로 보냈습니다. 비스마르크는 몰트케, 론과 저녁 식사를 하다가 전보를 줄여 «국왕은 대사를 다시 접견하기를 거부하고 더 이상 전할 말이 없다고 알리게 했다»는 대목만 도드라지게 만들었고, 같은 날 저녁 «북독일 일반신문(Norddeutsche Allgemeine Zeitung)» 호외로 공개했습니다. 몰트케는 «아까는 항복 신호(Chamade) 같더니 이제는 진군 나팔(Fanfare) 같다»고 했고, 프랑스는 7월 19일 선전포고를 했다가 9월 2일 스당에서 나폴레옹 3세가 포로가 되었습니다. 단어를 지어내지 않고 지우고 이어 붙이는 것만으로 상대의 반응을 설계한 «편집에 의한 조작»의 고전적 사례입니다.
+@history 콜–미테랑 서한 (1990)과 «피의 일요일» (1991) — 리투아니아는 1990년 3월 11일 소련으로부터 독립을 선언했습니다. 소련이 경제 봉쇄로 압박하자 4월 26일 서독 총리 콜과 프랑스 대통령 미테랑은 최고회의 의장 비타우타스 란즈베르기스에게 공동 서한을 보내 독립 선언의 효력을 잠시 유보하고 모스크바와 대화하라고 권했습니다. 1991년 1월 13일에는 소련군이 빌뉴스 텔레비전 송신탑을 장악하는 과정에서 비무장 시민 14명이 숨졌습니다. 리투아니아에서 «베를린과 모스크바 사이의 배려»라는 말이 유난히 아프게 들리는 이유입니다.
+@history 프린터 추적 점 (Machine Identification Code) — 많은 컬러 레이저 프린터는 인쇄물마다 육안으로 거의 보이지 않는 노란 점 무늬를 찍어 기기 일련번호와 인쇄 날짜·시각을 남깁니다. 2017년 6월 미국 온라인 매체 «The Intercept»가 NSA 기밀 보고서를 공개한 직후 유출자인 계약직 직원이 체포되었는데, 공개된 사본에 찍힌 노란 점에서 인쇄 날짜와 시각을 읽어 낼 수 있다는 사실이 알려지며 언론계에 큰 경각심을 남겼습니다.
+@preview 1부 6화 — «Der Abgeordnete»(의원) — 연방의회 외교위원회 위원장 Ralf Brückner가 팔크를 비공개 위원회에 부른다. 그는 Bernstein 정보를 내놓으라고 압박하면서, Greve Energie의 LNG 터미널 조항을 지지해 주면 위원회가 침묵하겠다고 거래를 제안한다. 1980년대 플릭 정치자금 사건의 그림자 속에서 팔크는 허세로 버틴다.
+
+== 도입 — SECHS UHR FRÜH
+FALK: Lies ihn mir ein sechstes Mal vor. Langsam, Wort für Wort.
+> 여섯 번째로 읽어 줘. 천천히, 한 단어씩.
+JAN: «Die dauerhafte Stationierung in Litauen steht unter dem Vorbehalt einer Verständigung mit Moskau.» In Anführungszeichen, davor steht: «heißt es in dem Dokument».
+> «리투아니아 영구 주둔은 모스크바와의 합의를 전제로 한다.» 따옴표 쳤고, 앞에 «문서에는 이렇게 적혀 있다»고 붙였어요.
+FALK: Seite vier, zweiter Abschnitt. Wie lautet der Satz im Original? Mach die Endfassung auf.
+> 4쪽 두 번째 절. 원문엔 어떻게 돼 있지? 최종본 열어 봐.
+JAN: Ich darf sie nicht mehr öffnen, schon vergessen? Rotes Lämpchen. Aber das brauche ich auch nicht, ich habe den Satz selbst getippt: «… steht unter dem Vorbehalt der Zustimmung des Deutschen Bundestages.»
+> 저 이제 못 열어요, 잊으셨어요? 빨간불이요. 근데 열 필요도 없어요. 그 문장은 제가 직접 쳤거든요. «…독일 연방의회의 동의를 전제로 한다.»
+FALK: Der Bundestag ist rausgeflogen, und Moskau sitzt auf seinem Stuhl. Woher kommt «Verständigung mit Moskau»? Das klingt nicht erfunden. Das klingt nach uns.
+> 연방의회가 쫓겨나고 모스크바가 그 자리에 앉았군. «모스크바와의 합의»는 어디서 온 거지? 지어낸 말 같지 않아. 우리가 쓴 말 같아.
+JAN: Weil es von uns ist. Präambel, Seite zwei, letzter Absatz: «Die Bereitschaft zu einer Verständigung mit Moskau über Rüstungskontrolle bleibt bestehen.» Jemand hat die beiden Sätze zusammengenäht.
+> 우리가 쓴 거니까요. 전문, 2쪽 마지막 단락이요. «군비 통제에 관한 모스크바와의 합의 의지는 유지된다.» 누가 두 문장을 이어 붙인 거예요.
+FALK: Eine Hälfte von Seite vier, eine Hälfte von Seite zwei. Kein einziges erfundenes Wort. Das ist keine Schlamperei, Jan. Das ist Handarbeit.
+> 4쪽에서 반, 2쪽에서 반. 지어낸 단어는 하나도 없어. 이건 실수가 아니야, 얀. 공들인 수작업이지.
+JAN: Kessler kann das doch nicht selbst gebastelt haben. Wozu auch? Sie hatte genug für die Titelseite.
+> 케슬러 씨가 직접 만들었을 리는 없잖아요. 뭐 하러요? 1면 감은 이미 충분했는데.
+FALK: Entweder stand der Satz schon in ihrer Kopie, oder jemand hat ihn ihr in den letzten Tagen untergeschoben. Beides ist schlecht. Das Erste ist schlimmer.
+> 처음부터 사본에 있었거나, 최근 며칠 사이에 누가 슬쩍 끼워 넣었거나. 둘 다 나빠. 앞의 경우가 더 나쁘고.
+JAN: Warum schlimmer?
+> 왜 더 나빠요?
+FALK: Weil es dann von Anfang an der Zweck des Lecks war. Nicht verraten, sondern verfälschen. … Was sagen die Litauer?
+> 그렇다면 처음부터 그게 유출의 목적이었다는 거니까. 폭로가 아니라 변조. …리투아니아 쪽은 뭐래?
+JAN: Die Botschaft hat zum dritten Mal angerufen. Vaitkus will dich sehen, und zwar nicht «im Laufe des Tages», sondern um elf. In Vilnius ist es schon nach sieben, und die Meldung läuft dort in jeder Nachrichtensendung.
+> 대사관에서 세 번째 전화 왔어요. 바이트쿠스 대사가 보재요. «오늘 중으로»가 아니라 열한 시에요. 빌뉴스는 벌써 일곱 시가 넘었고, 거기선 뉴스마다 이 얘기예요.
+FALK: Sag zu. Und ruf Kessler an. Ich will sie sehen, bevor ich Vaitkus sehe. Mit ihrer Kopie.
+> 간다고 해. 그리고 케슬러 씨한테 전화해. 바이트쿠스 만나기 전에 보고 싶어. 사본 들고 오라고 해.
+JAN: Sie wird nicht wollen. Heute ist ihr großer Tag.
+> 안 오려고 할 거예요. 오늘이 그 사람 인생 최고의 날인데.
+FALK: Sag ihr, dass in ihrem großen Tag ein Satz steckt, den keiner von uns geschrieben hat. Dann will sie.
+> 그 최고의 날에 우리 누구도 쓰지 않은 문장이 하나 박혀 있다고 해. 그럼 오고 싶어질 거야.
+JAN: Konstantin, du klingst nicht besonders überrascht.
+> 콘스탄틴, 별로 안 놀란 목소리네요.
+FALK: Gestern Abend hat Sedov mir geraten, die Zeitung heute sehr genau zu lesen. Jedes Wort. Ich hielt das für Theater.
+> 어젯밤 세도프가 오늘 신문을 아주 꼼꼼히 읽으라고 하더라. 한 단어도 빠짐없이. 난 그게 연극인 줄 알았어.
+JAN: Dann wusste die russische Botschaft gestern Abend schon, was heute früh in der Depesche steht. Vor uns.
+> 그럼 러시아 대사관은 어젯밤에 벌써 오늘 아침 «데페셰»에 뭐가 실릴지 알았다는 거네요. 우리보다 먼저.
+FALK: Vor uns, ja. Die Frage ist, ob auch vor Frau Kessler. Zieh dich an, Jan. Und bring mir die Präambel mit – im Kopf, wenn du sie schon nicht anfassen darfst.
+> 우리보다 먼저, 그래. 문제는 케슬러 씨보다도 먼저였느냐지. 옷 입어, 얀. 그리고 전문 챙겨 와. 손댈 수 없으면 머릿속에라도.
+JAN: Im Kopf habe ich sie sowieso. Das ist das Einzige, was Frau Schönfeld mir nicht sperren kann.
+> 머릿속엔 어차피 있어요. 쇤펠트 박사가 못 막는 건 그것뿐이죠.
+
+== 장면 1 — DER GLASKASTEN
+ANNA: Halb acht, und das Telefon in meinem Glaskasten klingelt seit sechs ohne Pause. Die eine Hälfte gratuliert, die andere droht. Zu welcher Hälfte gehören Sie, Herr Falk?
+> 일곱 시 반인데, 제 유리 칸막이 방 전화가 여섯 시부터 쉬질 않아요. 반은 축하하고 반은 협박하죠. 팔크 씨는 어느 쪽이세요?
+FALK: Zu keiner. Ich bin gekommen, um Ihnen einen Fehler zu zeigen. Ihren und meinen.
+> 둘 다 아닙니다. 실수를 하나 보여 드리러 왔어요. 당신 실수이자 제 실수요.
+ANNA: Wir haben jedes Zitat zweimal gegengelesen. Unser Justiziar saß bis Mitternacht hier. Welcher Fehler?
+> 인용문은 전부 두 번씩 대조했어요. 법무 담당이 자정까지 여기 있었고요. 무슨 실수요?
+FALK: Der Satz über Moskau. Er steht in keiner Fassung von Bernstein. In keiner einzigen.
+> 모스크바에 관한 문장이요. 베른슈타인 어느 판본에도 없습니다. 단 하나에도요.
+ANNA: In meiner steht er. Seite vier, zweiter Absatz, sechste Zeile. Ich habe ihn nicht abgeschrieben, ich habe ihn abfotografiert.
+> 제 판본엔 있어요. 4쪽 두 번째 단락 여섯째 줄. 베껴 쓴 게 아니라 사진으로 찍었어요.
+FALK: Dann zeigen Sie mir Seite vier.
+> 그럼 4쪽을 보여 주세요.
+ANNA: Damit Sie sie fotografieren und sie heute Mittag beim BND liegt? Nein. Ich halte sie hoch, Sie schauen. Weiter gehe ich nicht.
+> 그걸 찍어서 오늘 점심엔 BND 책상에 올려놓으시게요? 안 돼요. 제가 들고 있을 테니 보기만 하세요. 거기까지예요.
+FALK: Einverstanden. … Da. Die sechste Zeile. Sehen Sie die Abstände zwischen den Buchstaben?
+> 좋습니다. …저기요. 여섯째 줄. 글자 사이 간격 보이십니까?
+ANNA: Sie sind … weiter. Nur ein bisschen. Als hätte jemand die Zeile in die Länge gezogen.
+> 좀… 넓네요. 아주 살짝. 누가 그 줄을 잡아 늘린 것처럼.
+FALK: Weil «einer Verständigung mit Moskau» zehn Zeichen kürzer ist als «der Zustimmung des Deutschen Bundestages». Wer den Satz ausgetauscht hat, wollte, dass der Zeilenumbruch an derselben Stelle fällt. Also hat er die Laufweite angepasst.
+> «모스크바와의 합의»라는 구절이 «독일 연방의회의 동의»라는 구절보다 독일어로 열 글자 짧거든요. 문장을 바꿔치기한 사람은 줄바꿈이 같은 자리에서 일어나길 원했던 겁니다. 그래서 자간을 늘렸고요.
+ANNA: Sie zitieren mir gerade wörtlich aus einer Verschlusssache, Herr Falk.
+> 지금 기밀 문서를 글자 그대로 저한테 인용하고 계신 거예요, 팔크 씨.
+FALK: Unter drei. Und nur, weil das falsche Wort schon in Ihrer Zeitung steht. Lieber breche ich eine Vorschrift, als dass ein gefälschter Satz zur Wahrheit wird.
+> 보도 불가 조건으로요. 그리고 틀린 단어가 이미 당신 신문에 실렸으니까 하는 겁니다. 가짜 문장이 진실이 되느니 차라리 규정을 어기겠어요.
+ANNA: Das sagen alle, die Vorschriften brechen. Woher soll ich wissen, dass nicht Ihr Satz der gefälschte ist?
+> 규정 어기는 사람은 다 그렇게 말하죠. 가짜가 당신 문장이 아니라는 걸 제가 어떻게 알아요?
+FALK: Aus meinem Mund gar nicht. Aber aus Ihrem Papier. Halten Sie Seite vier gegen das Licht. Und dann Seite drei.
+> 제 입으로는 알 수 없죠. 하지만 당신 종이로는 알 수 있습니다. 4쪽을 불빛에 비춰 보세요. 그다음 3쪽도요.
+ANNA: … Seite vier ist heller. Glatter. Das ist ein anderes Papier.
+> …4쪽이 더 하얘요. 더 매끈하고. 종이가 다르네요.
+FALK: Jemand hat dreizehn echte Seiten genommen und eine falsche dazwischengelegt. Sie haben kein geleaktes Dokument gedruckt, Frau Kessler. Sie haben ein redigiertes gedruckt.
+> 누군가 진짜 열세 쪽 사이에 가짜 한 쪽을 끼워 넣은 겁니다. 당신이 실은 건 유출 문서가 아니에요, 케슬러 씨. 손질된 문서죠.
+ANNA: Sie meinen, man hat mich benutzt.
+> 제가 이용당했다는 말씀이군요.
+FALK: So wie die Norddeutsche Allgemeine Zeitung am Abend des dreizehnten Juli 1870. Sie hat in einem Extrablatt gedruckt, was Bismarck ihr gab. Für den Krieg danach hat niemand die Zeitung verantwortlich gemacht.
+> 1870년 7월 13일 저녁의 «북독일 일반신문»처럼요. 그 신문도 비스마르크가 건넨 걸 호외로 찍었을 뿐이죠. 그 뒤에 일어난 전쟁을 두고 신문 탓을 한 사람은 없었습니다.
+ANNA: Die Emser Depesche. Wie schmeichelhaft. Nur bin ich kein offiziöses Blatt, das abdruckt, was ein Kanzler diktiert.
+> 엠스 전보라. 참 듣기 좋네요. 다만 저는 재상이 불러 주는 대로 받아 찍는 관변 신문이 아니에요.
+FALK: Nein. Sie haben vorher bei uns nachgefragt, wie es sich gehört. Hat Ihnen jemand gesagt, dass der Satz falsch ist?
+> 그렇죠. 당신은 원칙대로 먼저 우리한테 확인을 요청했을 테니까. 그 문장이 틀렸다고 말해 준 사람이 있었습니까?
+ANNA: Ich habe Ihrer Pressestelle gestern um siebzehn Uhr alle Zitate geschickt, auch diesen Satz. Eine Konfrontation mit vierzehn Punkten. Um einundzwanzig Uhr vierzig kam die Antwort: «Zu Verschlusssachen äußert sich das Auswärtige Amt grundsätzlich nicht.»
+> 어제 오후 다섯 시에 외무부 공보실에 인용문을 전부 보냈어요. 이 문장도요. 열네 개 항목의 확인 요청이었죠. 밤 아홉 시 사십 분에 답이 왔어요. «외무부는 기밀 문서에 대해 원칙적으로 언급하지 않습니다.»
+FALK: Gestern um siebzehn Uhr.
+> 어제 다섯 시라.
+ANNA: Sie wussten es nicht.
+> 모르셨군요.
+FALK: Ich war gestern Abend … anderweitig beschäftigt. Aber irgendjemand in meinem Haus hat Ihren Satz dreizehn Stunden vor mir gelesen und geschwiegen.
+> 어제 저녁엔… 다른 일이 있었습니다. 하지만 우리 부처의 누군가는 저보다 열세 시간 먼저 그 문장을 읽고도 입을 다물었군요.
+ANNA: Ein «kein Kommentar» zu einem falschen Satz ist eine Bestätigung, Herr Falk. Das lernt jeder Pressesprecher im ersten Jahr.
+> 틀린 문장에 «노코멘트»라고 하면 그건 인정해 주는 거예요, 팔크 씨. 공보관이면 1년 차에 다 배우는 거죠.
+FALK: Deshalb bin ich hier. Ich brauche eine Klarstellung in Ihrer Zeitung. Morgen früh.
+> 그래서 온 겁니다. 당신 신문에 정정 보도가 필요합니다. 내일 아침에요.
+ANNA: Ich korrigiere, was ich beweisen kann. Nicht, was mir ein Sonderbeauftragter unter drei erzählt, der am Montag noch behauptet hat, er kenne dieses Dokument gar nicht.
+> 저는 증명할 수 있는 것만 정정해요. 월요일만 해도 그 문서를 모른다고 하던 특별대표가 보도 불가 조건으로 해 준 말로는 안 되죠.
+FALK: Dann beweisen Sie es. Lassen Sie das Papier untersuchen. Seite vier gegen die anderen dreizehn. Papier, Toner, Drucker.
+> 그럼 증명하세요. 종이를 감정받으세요. 4쪽과 나머지 열세 쪽을 비교해서. 종이, 토너, 프린터까지.
+ANNA: Ich kenne eine Schriftsachverständige in Potsdam, früher beim Landeskriminalamt. Wenn sie heute Zeit hat, haben Sie heute Abend ein Ergebnis. Und ich auch.
+> 포츠담에 문서 감정인을 하나 알아요. 예전에 주 경찰청에 있던 사람이에요. 오늘 시간이 된다면 저녁엔 결과가 나올 거예요. 당신한테도, 저한테도.
+FALK: Und wenn Ihnen das Ergebnis nicht gefällt?
+> 결과가 당신 마음에 안 들면요?
+ANNA: Dann drucke ich es trotzdem. Das unterscheidet mich von Ihrem Haus. … Noch etwas. Wer mir das geschickt hat, wollte nicht, dass ich Bernstein verhindere. Er wollte, dass Vilnius explodiert.
+> 그래도 실을 거예요. 그게 저와 당신네 부처의 차이죠. …하나 더요. 이걸 보낸 사람은 제가 베른슈타인을 막길 바란 게 아니에요. 빌뉴스가 폭발하길 바란 거죠.
+FALK: Das glaube ich auch. Und um elf sitze ich vor dem Mann, der die Zündschnur in der Hand hält.
+> 저도 그렇게 봅니다. 그리고 열한 시에 저는 그 도화선을 쥔 사람 앞에 앉습니다.
+
+== 장면 2 — DAS WARSCHAUER EXEMPLAR
+JAN: Warschau auf Leitung zwei. Nowak persönlich. Er klingt, als hätte er auf deinen Anruf gewartet.
+> 2번 회선에 바르샤바요. 노바크 차관이 직접요. 전화 기다리고 있었던 목소리예요.
+NOWAK: Herr Falk. Kein Wort über unsere Luftverteidigung in der Depesche. Ich halte mein Wort, wie Sie sehen.
+> 팔크 씨. «데페셰»에 우리 방공 얘기는 한 마디도 없더군요. 보시다시피 저는 약속을 지킵니다.
+FALK: Dafür danke ich Ihnen. Herr Minister, eine Frage, die Ihnen seltsam vorkommen wird: Was steht auf Seite vier der Kopie, die Frau Wróbel bekommen hat? Zweiter Absatz.
+> 감사합니다. 차관님, 이상하게 들리실 질문 하나 드리겠습니다. 브루벨 씨가 받은 사본 4쪽에 뭐라고 쓰여 있습니까? 두 번째 단락이요.
+NOWAK: Da muss ich nicht nachsehen. Derselbe Satz wie heute in der Zeitung. Mit Moskau. Wir haben ihn am Mittwochabend gefunden, eine Stunde nach Ihrem Abflug.
+> 볼 필요도 없습니다. 오늘 신문에 난 것과 같은 문장이에요. 모스크바가 들어간. 수요일 저녁에 찾았습니다. 당신 비행기가 뜨고 한 시간 뒤에.
+FALK: Und Sie haben mich nicht angerufen.
+> 그런데 전화를 안 하셨군요.
+NOWAK: Ich wollte sehen, wer ihn zuerst ausspricht. Sie oder die Zeitung. Die Zeitung hat gewonnen.
+> 누가 먼저 그 말을 꺼내는지 보고 싶었어요. 당신인지 신문인지. 신문이 이겼죠.
+FALK: Ich habe ihn nicht ausgesprochen, weil ich ihn nicht kannte. Ich habe in Ihrem Büro auf Seite elf gestarrt und Seite vier überblättert. Der Satz ist gefälscht, Herr Minister. Zusammengesetzt aus zwei echten Hälften.
+> 제가 말 안 한 건 몰랐기 때문입니다. 차관님 사무실에서 11쪽만 뚫어지게 보고 4쪽은 넘겨 버렸죠. 그 문장은 위조입니다, 차관님. 진짜 반쪽 두 개를 붙여 만든 거예요.
+NOWAK: Am Dienstag lag ein Zettel mit «zweigleisig» auf meinem Tisch, heute steht «Moskau» in der Zeitung. Sie werden verstehen, dass ein Pole bei so viel Zufall unruhig wird.
+> 화요일엔 «두 길»이라고 적힌 쪽지가 제 책상에 있었고, 오늘은 신문에 «모스크바»가 실렸어요. 우연이 이렇게 겹치면 폴란드 사람이 불안해지는 것도 이해하시겠죠.
+FALK: Es ist kein Zufall. Es ist dieselbe Hand. Der Zettel sollte Sie fragen lassen, und der Satz sollte Ihnen die Antwort liefern. Jemand schreibt Ihnen die Fragen und die Antworten gleich mit.
+> 우연이 아닙니다. 같은 손이에요. 쪽지는 차관님이 묻게 만들고, 문장은 그 답을 주도록 돼 있었죠. 누군가 질문과 답을 한꺼번에 써 주고 있는 겁니다.
+NOWAK: Eine elegante Theorie. Ich nehme sie mit in den Nordatlantikrat, falls ich sie brauche. Sie haben Ihre zehn Tage, Herr Falk. Ab heute, bis Montag in einer Woche.
+> 우아한 이론이군요. 필요하면 북대서양이사회에 들고 가죠. 열흘 드리겠습니다, 팔크 씨. 오늘부터 다음다음 월요일까지.
+FALK: Zehn Tage. Und die Bedingung?
+> 열흘이라. 조건은요?
+NOWAK: Ihr drittes Versprechen. Wenn Sie herausfinden, wer in Berlin das zweite Gleis verlegt, erfahre ich es vor allen anderen. Auch vor Vilnius.
+> 당신의 세 번째 약속이요. 베를린에서 누가 두 번째 선로를 까는지 알게 되면, 누구보다 먼저 저한테 알려 주세요. 빌뉴스보다도 먼저.
+FALK: Sie erfahren es als Erster. Darauf haben Sie mein Wort.
+> 차관님이 제일 먼저 아시게 될 겁니다. 약속드리죠.
+NOWAK: Ihr Wort ist diese Woche viel unterwegs, Herr Falk. Passen Sie auf, dass es nicht müde wird. Do widzenia.
+> 당신 약속이 이번 주엔 여기저기 많이도 돌아다니는군요, 팔크 씨. 지치지 않게 조심하세요. 안녕히 계세요.
+JAN: Er hat seit Mittwochabend geschwiegen und gewartet, ob du dich verplapperst.
+> 수요일 저녁부터 입 다물고 당신이 말실수하나 기다렸던 거네요.
+FALK: Er hat getan, was ich auch getan hätte. Zwei Kopien, zwei Empfänger, dieselbe falsche Seite. Also wurde sie vor dem Versand eingelegt, nicht in Frau Kesslers Redaktion.
+> 나라도 그랬을 거야. 사본 둘, 수신인 둘, 똑같은 가짜 쪽. 그러니까 가짜 쪽은 케슬러 씨 편집국이 아니라 발송 전에 끼워 넣은 거야.
+JAN: Also spätestens am Freitag vor einer Woche. An dem Tag, an dem beide Umschläge in Mitte abgestempelt wurden.
+> 그럼 늦어도 지난주 금요일이네요. 두 봉투에 미테 우체국 소인이 찍힌 그날.
+FALK: Und Sedov wusste es gestern. Jemand hat eine Woche lang gewartet, bis die Bombe hochgeht, und ihm vorher die Uhrzeit verraten.
+> 그리고 세도프는 어제 알고 있었지. 누군가 일주일 동안 폭탄이 터지길 기다렸고, 세도프한테는 미리 시각까지 알려 준 거야.
+JAN: Die Staatssekretärin will dich sehen. «Sofort», steht hier. Mit Ausrufezeichen.
+> 사무차관님이 보자세요. «즉시»래요. 느낌표까지 붙었어요.
+FALK: Gut. Ich habe auch eine Frage an sie. Finde heraus, wohin die Presseanfrage der Depesche gestern um fünf weitergeleitet wurde. Nur wohin, nicht von wem.
+> 잘됐네. 나도 여쭐 게 있어. 어제 다섯 시에 온 «데페셰» 확인 요청이 어디로 넘어갔는지 알아봐. 누가 넘겼는지 말고, 어디로 갔는지만.
+JAN: Das weiß ich schon, ich habe vorhin den Pressereferenten angerufen. Siebzehn Uhr zwanzig, an das Büro der Staatssekretärin. Die Antwort kam auch von dort zurück.
+> 그건 벌써 알아요. 아까 공보 담당한테 전화했거든요. 오후 다섯 시 이십 분, 사무차관실로 넘어갔대요. 답변도 거기서 돌아왔고요.
+
+== 장면 3 — KEIN KOMMENTAR
+WINTER: Herr Falk. Vilnius ruft mich an, Warschau ruft Sie an, und um zwölf ruft die Kanzlerin uns beide an. Was haben Sie mir zu sagen?
+> 팔크 씨. 빌뉴스는 나한테 전화하고, 바르샤바는 당신한테 전화하고, 열두 시엔 총리께서 우리 둘 다한테 전화하세요. 할 말 있어요?
+FALK: Dass der Moskau-Satz eine Fälschung ist. Zwei echte Halbsätze aus Bernstein, neu verheiratet. Und dass Sie ihn gestern um siebzehn Uhr zwanzig auf dem Tisch hatten.
+> 모스크바 문장이 위조라는 겁니다. 베른슈타인의 진짜 반쪽 문장 두 개를 새로 짝지어 놓은 거죠. 그리고 사무차관님이 어제 오후 다섯 시 이십 분에 그걸 책상 위에 받으셨다는 것도요.
+WINTER: Ich hatte gestern ungefähr vierzig Presseanfragen auf dem Tisch. Zu Verschlusssachen äußern wir uns nicht. Das ist keine Laune, Herr Falk, das ist eine Linie.
+> 어제 내 책상엔 기자 문의가 마흔 건쯤 있었어요. 기밀 문서에 대해선 말하지 않아요. 그건 기분이 아니라 원칙이에요, 팔크 씨.
+FALK: Auch dann nicht, wenn in der Anfrage eine Lüge steckt, die Bernstein in Vilnius umbringen kann?
+> 그 문의에 베른슈타인을 빌뉴스에서 죽일 수 있는 거짓말이 들어 있어도요?
+WINTER: Gerade dann nicht. Wer ein falsches Zitat dementiert, bestätigt stillschweigend alle richtigen. Hätten wir den Moskau-Satz bestritten, hätte Frau Kessler die übrigen dreizehn Zitate als echt drucken dürfen – mit unserem Segen.
+> 그럴 때일수록 더더욱요. 틀린 인용을 부인하면 나머지 맞는 인용은 말없이 다 인정하는 셈이 돼요. 우리가 모스크바 문장을 부인했으면 케슬러 씨는 나머지 열세 개 인용을 진짜라고 찍을 수 있었겠죠. 우리 축복까지 받아서.
+FALK: Stattdessen hat sie jetzt alle vierzehn gedruckt, und Vilnius glaubt ausgerechnet den einen, der falsch ist. Sie hätten mich anrufen können. Ich war erreichbar.
+> 그 대신 이제 열네 개를 다 실었고, 빌뉴스는 하필 그중 가짜 하나를 믿고 있습니다. 저한테 전화하실 수도 있었잖아요. 연락 닿는 곳에 있었습니다.
+WINTER: Sie standen beim russischen Gesandten und haben Krimsekt getrunken. Ich wollte Sie nicht vor seinen Augen ans Telefon holen. Wie war es übrigens?
+> 러시아 공사참사관 옆에서 크림산 스파클링 와인을 마시고 계셨죠. 그 사람 눈앞에서 전화 받게 하고 싶진 않았어요. 그건 그렇고, 어땠어요?
+FALK: Lehrreich. Er hat mir geraten, heute die Zeitung sehr genau zu lesen. Er kannte den Satz, Frau Staatssekretärin. Gestern Abend schon. Genau wie Sie.
+> 배울 게 많았습니다. 오늘 신문을 아주 꼼꼼히 읽으라더군요. 그 사람도 그 문장을 알고 있었습니다, 사무차관님. 어젯밤에 벌써요. 사무차관님처럼.
+WINTER: Achten Sie auf Ihre Vergleiche, Herr Falk. Sie stellen mich gerade neben einen russischen Diplomaten.
+> 비유 조심해요, 팔크 씨. 지금 나를 러시아 외교관 옆에 세워 놓고 있는 거예요.
+FALK: Ich stelle nur fest, wer den Satz vor sechs Uhr kannte. Die Liste ist erstaunlich kurz.
+> 여섯 시 전에 그 문장을 안 사람이 누군지 확인할 뿐입니다. 명단이 놀랄 만큼 짧군요.
+WINTER: Und Sie stehen nicht darauf, weil Sie lieber Sekt getrunken als Ihre Post gelesen haben. Gratuliere. … Was wollen Sie Vaitkus sagen?
+> 그리고 당신은 그 명단에 없죠. 우편물 읽는 대신 샴페인을 드셨으니까. 축하해요. …바이트쿠스한테는 뭐라고 할 거예요?
+FALK: Die Wahrheit. Den Originalwortlaut von Seite vier. Und ich brauche Ihre Erlaubnis, ihn ihm schriftlich zu geben.
+> 진실이요. 4쪽 원문 그대로요. 그리고 그걸 문서로 줘도 된다는 허락이 필요합니다.
+WINTER: Mündlich, unter vier Augen, ohne Zeugen. Nichts Schriftliches, kein Wortlaut in fremden Akten. Sobald wir auch nur eine Zeile aus Bernstein amtlich herausgeben, verlangt Brückners Ausschuss das ganze Papier.
+> 구두로, 단둘이, 증인 없이. 문서는 안 돼요. 남의 서류철에 원문이 들어가면 안 돼요. 우리가 베른슈타인을 단 한 줄이라도 공식적으로 내주는 순간, 브뤼크너 위원장의 외교위원회가 문서 전체를 내놓으라고 할 거예요.
+FALK: Ein gesprochenes Wort gegen ein gedrucktes. Das ist kein fairer Kampf.
+> 말 한마디 대 인쇄된 문장. 공정한 싸움이 아니군요.
+WINTER: Diplomatie ist selten fair. Denken Sie an Ems. Bismarck hat kein einziges Wort erfunden. Er hat nur gestrichen, bis aus einer höflichen Absage eine Ohrfeige wurde. Eine Meisterleistung der Redaktion.
+> 외교가 공정한 경우는 드물죠. 엠스를 생각해 봐요. 비스마르크는 단어 하나 지어내지 않았어요. 정중한 거절이 뺨 때리기가 될 때까지 지우기만 했죠. 편집의 걸작이에요.
+FALK: Sie bewundern ihn dafür.
+> 그래서 그를 존경하시는군요.
+WINTER: Ich bewundere jeden, der versteht, dass Weglassen keine Lüge ist. Gerade Sie sollten das verstehen, Herr Falk. Sie üben es doch seit Montag.
+> 빼먹는 게 거짓말이 아니라는 걸 아는 사람은 누구든 존경해요. 당신이야말로 그걸 알아야죠, 팔크 씨. 월요일부터 연습하고 있잖아요.
+FALK: Bismarck wollte einen Krieg, Frau Staatssekretärin. Wer will diesen hier?
+> 비스마르크는 전쟁을 원했습니다, 사무차관님. 이번 건 누가 원하는 겁니까?
+WINTER: Finden Sie es heraus, dafür bezahlen wir Sie. Hat Frau Kessler Ihnen ihre Kopie gezeigt?
+> 알아내세요. 그러라고 월급 주는 거니까. 케슬러 씨가 사본은 보여 줬어요?
+FALK: Nein. Sie hat mir den Satz vorgelesen, mehr nicht. Sie schützt ihre Quelle, auch vor mir.
+> 아니요. 문장을 읽어 줬을 뿐입니다. 저한테도 취재원을 보호하더군요.
+WINTER: Schade. Frau Dr. Schönfeld hätte das Papier gern gesehen. Gehen Sie zu Vaitkus. Sorgen Sie dafür, dass er heute nicht abreist – sonst fragt die Kanzlerin um zwölf, wozu wir einen Sonderbeauftragten haben.
+> 아쉽네요. 쇤펠트 박사가 그 종이를 보고 싶어 했는데. 바이트쿠스한테 가요. 오늘 떠나지 않게 만들어요. 아니면 열두 시에 총리께서 특별대표는 뭐 하러 두느냐고 물으실 테니까.
+FALK: Noch eine Frage, Frau Staatssekretärin. Die Depesche hat Ihnen den Satz gestern geschickt. Wer hat ihn Frau Kessler geschickt?
+> 하나만 더요, 사무차관님. 어제 «데페셰»가 그 문장을 사무차관님께 보냈죠. 그럼 케슬러 씨한테는 누가 보냈을까요?
+WINTER: Wenn ich das wüsste, Herr Falk, hätte ich es längst in Karlsruhe zu Protokoll gegeben. Guten Tag.
+> 내가 그걸 알았으면 벌써 카를스루에에 가서 진술했겠죠, 팔크 씨. 가 봐요.
+
+== 절정 — DIE EMSER DEPESCHE
+VAITKUS: Herr Falk. Nehmen Sie Platz. Ich habe heute früh um sechs ein Telefonat mit meinem Minister geführt, das ich keinem Diplomaten wünsche. Er hat mich gefragt, ob ich in Berlin taub geworden sei.
+> 팔크 씨. 앉으시죠. 오늘 새벽 여섯 시에 장관과 통화를 했는데, 어느 외교관한테도 권하고 싶지 않은 통화였습니다. 베를린에 있더니 귀가 먹었느냐고 묻더군요.
+FALK: Herr Botschafter, ich bin gekommen, um Ihnen zu sagen, dass der Satz in der Depesche nicht in Bernstein steht.
+> 대사님, 그 문장이 베른슈타인에 없다는 말씀을 드리러 왔습니다.
+VAITKUS: Natürlich steht er nicht drin. Nicht in der Fassung, die Sie uns gegeben haben. Die Frage ist, in welcher Fassung er steht, die Sie uns nicht gegeben haben.
+> 물론 없죠. 당신들이 우리한테 준 판본에는. 문제는 우리한테 주지 않은 판본 어디에 들어 있느냐입니다.
+FALK: In keiner. Es gibt keine Fassung, in der unsere Brigade unter einem Vorbehalt Moskaus steht.
+> 어디에도 없습니다. 우리 여단이 모스크바의 동의를 전제로 한다는 판본은 없어요.
+VAITKUS: Das haben wir schon einmal gehört. Im April 1990, sechs Wochen nach unserer Unabhängigkeitserklärung, haben Kohl und Mitterrand Landsbergis einen Brief geschrieben. Wir sollten die Erklärung vorübergehend ruhen lassen. Aus Rücksicht. Sie wissen, auf wen.
+> 그 말은 전에도 들어 봤습니다. 1990년 4월, 우리가 독립을 선언하고 6주 뒤에 콜과 미테랑이 란즈베르기스 의장에게 편지를 보냈죠. 독립 선언을 잠시 유보하라고요. 배려 차원에서. 누구를 배려했는지는 아시겠죠.
+FALK: Ich kenne den Brief. Und ich kenne den dreizehnten Januar 1991, den Fernsehturm, die vierzehn Toten. Ich weiß, warum ein Satz mit «Moskau» in Vilnius anders klingt als in Berlin.
+> 그 편지 압니다. 1991년 1월 13일도 압니다. 텔레비전 송신탑, 열네 명의 희생자. «모스크바»가 들어간 문장이 왜 베를린보다 빌뉴스에서 다르게 들리는지 압니다.
+VAITKUS: Dann wissen Sie auch, was um vierzehn Uhr passiert. Mein Minister gibt eine Erklärung ab. Ich werde zu Konsultationen nach Vilnius zurückgerufen, und unsere Bernstein-Arbeitsgruppe setzt ihre Arbeit aus. Der Seimas tritt am Montag zu einer Sondersitzung zusammen.
+> 그럼 오후 두 시에 무슨 일이 일어날지도 아시겠군요. 장관이 성명을 발표합니다. 저는 협의차 빌뉴스로 소환되고, 우리 베른슈타인 실무단은 작업을 중단합니다. 세이마스는 월요일에 임시 회의를 엽니다.
+FALK: Genau das soll passieren. Deshalb bitte ich Sie, es nicht passieren zu lassen.
+> 누군가 바로 그걸 원하고 있습니다. 그래서 그렇게 되지 않게 해 달라고 부탁드리는 겁니다.
+VAITKUS: Wer sollte das wollen? Außer Ihnen, die Sie sich eine Hintertür nach Moskau offenhalten?
+> 누가 그걸 원한다는 겁니까? 모스크바로 뒷문을 열어 두려는 당신들 말고?
+FALK: Kennen Sie die Emser Depesche, Herr Botschafter?
+> 엠스 전보를 아십니까, 대사님?
+VAITKUS: Ich habe in Vilnius Geschichte studiert, Herr Falk. Aber erzählen Sie sie mir trotzdem. Ich möchte hören, wie ein Deutscher sie erzählt.
+> 빌뉴스에서 역사를 전공했습니다, 팔크 씨. 그래도 말씀해 보세요. 독일 사람은 그 얘기를 어떻게 하는지 듣고 싶군요.
+FALK: Bad Ems, dreizehnter Juli 1870. Der französische Botschafter Benedetti fängt König Wilhelm auf der Kurpromenade ab und verlangt eine Garantie: nie wieder ein Hohenzoller als Kandidat für den spanischen Thron. Der König lehnt höflich ab und lässt Bismarck den Vorgang telegrafieren.
+> 1870년 7월 13일, 바트 엠스. 프랑스 대사 베네데티가 요양지 산책로에서 빌헬름 왕을 붙잡고 보장을 요구합니다. 다시는 호엔촐레른가 사람을 스페인 왕위 후보로 내지 않겠다고. 왕은 정중히 거절하고 그 경위를 비스마르크에게 전보로 알리게 하죠.
+VAITKUS: Und Bismarck kürzt.
+> 그리고 비스마르크가 잘라 내죠.
+FALK: Er kürzt beim Abendessen, mit Moltke und Roon am Tisch. Er erfindet nichts, er streicht nur die Höflichkeit, bis da steht, der König habe dem Botschafter nichts weiter mitzuteilen. Moltke sagt, vorher habe es wie eine Chamade geklungen, jetzt wie eine Fanfare.
+> 저녁 식사 자리에서, 몰트케와 론을 앞에 두고 잘라 냅니다. 아무것도 지어내지 않아요. 정중한 말만 지워서, 왕이 대사에게 더 이상 전할 말이 없다는 문장만 남기죠. 몰트케는 아까는 항복 신호 같더니 이제는 진군 나팔 같다고 했습니다.
+VAITKUS: Und Frankreich erklärt sechs Tage später den Krieg. Worauf wollen Sie hinaus?
+> 그리고 프랑스는 엿새 뒤에 선전포고를 하죠. 무슨 말씀을 하시려는 겁니까?
+FALK: Bismarck hat den Text nicht für Berlin redigiert, sondern für Paris. Vollständig war die Depesche erst, als Napoleon der Dritte darauf hereinfiel. Den zweiten Teil hat Frankreich selbst geschrieben, mit seiner Kriegserklärung. Keine sieben Wochen später saß der Kaiser bei Sedan in Gefangenschaft.
+> 비스마르크는 베를린 사람들 보라고 그 글을 손본 게 아닙니다. 파리 보라고 손본 거죠. 그 전보는 나폴레옹 3세가 걸려든 순간에야 완성됐습니다. 후반부는 프랑스가 선전포고로 직접 쓴 거예요. 그리고 일곱 주도 안 돼 황제는 스당에서 포로가 됐죠.
+VAITKUS: Sie vergleichen mich mit Napoleon dem Dritten. Ich habe heute früh schon schlechtere Komplimente bekommen, aber nicht viele.
+> 저를 나폴레옹 3세에 비유하시는군요. 오늘 아침에 이보다 못한 칭찬도 들었지만, 많지는 않았습니다.
+FALK: Ich vergleiche den Satz mit der Depesche. Zwei echte Hälften aus unserem Text, so zusammengesetzt, dass sie in Vilnius wie eine Ohrfeige klingen. Vollständig ist dieser Satz erst, wenn Sie um vierzehn Uhr abreisen. Dann haben Sie den zweiten Teil selbst geschrieben.
+> 저는 그 문장을 전보에 비유하는 겁니다. 우리 문서에서 진짜 반쪽 두 개를 가져다, 빌뉴스에서 뺨 때리는 소리처럼 들리게 붙여 놓은 거죠. 그 문장은 대사님이 두 시에 떠나시는 순간 완성됩니다. 그럼 후반부는 대사님이 직접 쓰시는 거예요.
+VAITKUS: Schöne Rhetorik. Beweisen Sie mir, dass es zwei Hälften sind. Was steht im Original?
+> 멋진 수사군요. 반쪽 두 개라는 걸 증명해 보세요. 원문엔 뭐라고 돼 있습니까?
+FALK: Seite vier, Abschnitt zwei Punkt drei: «Die dauerhafte Stationierung in Litauen steht unter dem Vorbehalt der Zustimmung des Deutschen Bundestages.» Präambel, letzter Absatz: «Die Bereitschaft zu einer Verständigung mit Moskau über Rüstungskontrolle bleibt bestehen.» Beides steht auch in Ihrem Exemplar.
+> 4쪽 2.3절. «리투아니아 영구 주둔은 독일 연방의회의 동의를 전제로 한다.» 전문 마지막 단락. «군비 통제에 관한 모스크바와의 합의 의지는 유지된다.» 두 문장 다 대사님 판본에도 있습니다.
+VAITKUS: Einen Moment. … Seite vier. «Zustimmung des Deutschen Bundestages.» Präambel … «Verständigung mit Moskau über Rüstungskontrolle.» Dieve mano. Da hat jemand mit der Schere gearbeitet.
+> 잠깐만요. …4쪽. «독일 연방의회의 동의.» 전문… «군비 통제에 관한 모스크바와의 합의.» 맙소사. 누가 가위질을 했군요.
+FALK: Mit Schere und Laufweite. In der Kopie der Zeitung ist die Zeile gestreckt, damit der Umbruch stimmt. Wer das gemacht hat, kannte unseren Text so gut wie wir.
+> 가위와 자간으로요. 신문사 사본에선 줄바꿈이 맞도록 그 줄이 늘어나 있었습니다. 이 짓을 한 사람은 우리 문서를 우리만큼 잘 알았던 거죠.
+VAITKUS: Oder besser. Wer ist es?
+> 아니면 더 잘 알았거나. 누굽니까?
+FALK: Das weiß ich noch nicht. Aber ich weiß, wer es gestern Abend schon wusste. Der russische Gesandte hat mir auf seinem Empfang geraten, heute die Zeitung sehr genau zu lesen.
+> 아직 모릅니다. 하지만 어젯밤에 벌써 알고 있던 사람은 압니다. 러시아 공사참사관이 자기네 리셉션에서 저한테 오늘 신문을 아주 꼼꼼히 읽으라고 하더군요.
+VAITKUS: Sie waren gestern bei Sedov? Am Abend, bevor dieser Artikel erscheint? Herr Falk, das macht es für Sie nicht besser.
+> 어제 세도프한테 가셨다고요? 이 기사가 나오기 전날 밤에? 팔크 씨, 그건 당신한테 전혀 도움이 안 됩니다.
+FALK: Für mich nicht. Für Litauen schon. Wer eine Fälschung ankündigt, bevor sie gedruckt ist, hat sie bestellt oder mitgelesen. Und wer auch immer es war, er wartet in diesem Moment auf Ihre Erklärung um vierzehn Uhr.
+> 저한테는 아니죠. 리투아니아한테는 도움이 됩니다. 인쇄되기도 전에 위조를 예고하는 사람은 그걸 주문했거나 미리 읽은 사람입니다. 그리고 그게 누구든, 지금 이 순간 두 시 성명을 기다리고 있을 겁니다.
+VAITKUS: Sie verlangen also, dass ich meinem Minister sage: Ein Deutscher, der gestern bei den Russen Sekt getrunken hat, legt die Hand dafür ins Feuer, dass Berlin nicht mit Moskau verhandelt.
+> 그러니까 장관께 이렇게 말하라는 거군요. 어제 러시아 사람들이랑 샴페인 마신 독일인이, 베를린은 모스크바와 뒷거래하지 않는다고 장담한다고.
+FALK: Ich verlange, dass Sie ihm sagen, was in Ihrem eigenen Tresor liegt. Ihre Seite vier. Sie müssen mir nicht glauben. Glauben Sie Ihrem Exemplar.
+> 대사님 금고에 있는 걸 장관께 말씀드리라는 겁니다. 대사님의 4쪽을요. 제 말을 믿으실 필요 없습니다. 대사님 판본을 믿으세요.
+VAITKUS: Eine Frage noch, und ich will eine ehrliche Antwort. Gibt es in Ihren internen Fassungen irgendetwas, das wir nicht kennen? Irgendeine Zeile, die Litauen betrifft?
+> 질문 하나만 더 하죠. 솔직한 답을 원합니다. 당신네 내부 판본에 우리가 모르는 게 하나라도 있습니까? 리투아니아에 관한 단 한 줄이라도?
+FALK: Nein.
+> 없습니다.
+VAITKUS: Sie haben nicht einmal gezögert.
+> 망설이지도 않으시는군요.
+FALK: Hätten Sie mir mehr geglaubt, wenn ich gezögert hätte?
+> 제가 망설였다면 더 믿으셨겠습니까?
+VAITKUS: In Vilnius glaubt man nur, was man schriftlich hat. Ich mache Ihnen einen Vorschlag. Ich rate meinem Minister, die Erklärung um vierzehn Uhr zu entschärfen: «Litauen erwartet von der Bundesregierung eine umgehende Klarstellung.» Kein Rückruf, keine Konsultationen. Noch nicht.
+> 빌뉴스에선 문서로 받은 것만 믿습니다. 제안을 하나 하죠. 장관께 두 시 성명의 수위를 낮추라고 권하겠습니다. «리투아니아는 독일 연방정부에 즉각적인 해명을 기대한다.» 소환도 협의도 없이. 아직은.
+FALK: Und was verlangen Sie dafür?
+> 그 대가로 뭘 원하십니까?
+VAITKUS: Die Klarstellung, schwarz auf weiß. Eine Verbalnote Ihrer Regierung, dass dieser Satz in keiner Fassung von Bernstein steht. Bis Montag, zwölf Uhr. Sonst fliege ich Montagabend nach Vilnius, und nicht zu Konsultationen.
+> 해명을 문서로요. 그 문장이 베른슈타인 어느 판본에도 없다는 독일 정부의 외교 각서. 월요일 열두 시까지요. 아니면 월요일 저녁에 빌뉴스로 갑니다. 협의하러 가는 게 아니라.
+FALK: Sie bekommen die Note bis Montag, zwölf Uhr. Darauf haben Sie mein Wort.
+> 월요일 열두 시까지 각서를 받으실 겁니다. 약속드리죠.
+VAITKUS: Gut. Ich halte Sie daran fest. Und, Herr Falk – sollte ich jemals erfahren, dass Ihr «Nein» von eben ein Ja war, dann brauchen Sie keinen Fälscher mehr. Dann genügt mir die Wahrheit.
+> 좋습니다. 그 약속 꼭 붙잡고 있겠습니다. 그리고 팔크 씨, 방금 그 «없습니다»가 실은 «있습니다»였다는 걸 언젠가 알게 된다면, 그땐 위조범도 필요 없을 겁니다. 진실만으로 충분할 테니까.
+
+== 마무리 — GELBE PUNKTE
+JAN: Vierzehn Uhr, Vilnius: «Litauen erwartet eine umgehende Klarstellung.» Kein Wort von einem Rückruf. Du hast ihn umgedreht.
+> 두 시, 빌뉴스 성명이요. «리투아니아는 즉각적인 해명을 기대한다.» 소환 얘기는 한 마디도 없어요. 대사를 돌려세우셨네요.
+FALK: Ich habe ihm eine Verbalnote bis Montag versprochen. Schriftlich. Genau das hat mir die Staatssekretärin heute früh verboten.
+> 월요일까지 외교 각서를 주겠다고 약속했어. 문서로. 사무차관님이 오늘 아침에 금지한 게 바로 그거고.
+JAN: Dann hast du ein Wochenende, um sie umzustimmen. Oder um mal wieder an ihr vorbei ins Kanzleramt zu gehen.
+> 그럼 주말 동안 마음을 돌려놓으시든가, 아니면 또 사무차관님을 건너뛰고 총리실로 가시든가요.
+FALK: Erst rufe ich meinen Vater an. Das schiebe ich seit gestern vor mir her. … Papa? Ich bin's.
+> 먼저 아버지한테 전화할게. 어제부터 미뤄 온 거라. …아빠? 나야.
+GEORG: Konstantin. Ich habe die Zeitung gelesen. Ihr habt ja eine schöne Woche.
+> 콘스탄틴. 신문 봤다. 너희 한 주 참 요란하구나.
+FALK: Du hast gestern um halb elf Elisabeth angerufen. Du wolltest wissen, ob der junge Sedov nach dir gefragt hat. Mittags kanntest du den Namen noch nicht.
+> 어제 열 시 반에 엘리자베트한테 전화했지. 젊은 세도프가 아빠 안부를 묻더냐고. 낮엔 그 이름 모른다고 했잖아.
+GEORG: Mittags habe ich mich nicht erinnert, abends schon. Es gab einmal einen Jungen am Herder-Institut, der Sedov hieß. Das ist fast vierzig Jahre her.
+> 낮엔 기억이 안 났고 저녁엔 났다. 예전에 헤르더 연구소에 세도프라는 젊은 애가 하나 있었지. 거의 40년 전 일이야.
+FALK: Und woher wusstest du, dass ich in der Botschaft war? Nicht einmal Elisabeth wusste es.
+> 그럼 내가 대사관에 간 건 어떻게 알았어? 엘리자베트도 몰랐는데.
+GEORG: Ich kenne dich, Konstantin. Wenn dich jemand reizt, gehst du hin. Das hast du von mir. … Lass die alten Geschichten ruhen. Sie tun niemandem gut.
+> 너를 아니까, 콘스탄틴. 누가 건드리면 넌 가. 그건 날 닮았지. …옛날 일은 그냥 묻어 둬라. 아무한테도 좋을 게 없어.
+FALK: Welche alten Geschichten, Papa?
+> 무슨 옛날 일, 아빠?
+GEORG: Gute Nacht, Konstantin. Grüß Elisabeth von mir.
+> 잘 자라, 콘스탄틴. 엘리자베트한테 안부 전하고.
+JAN: Er hat aufgelegt?
+> 끊으셨어요?
+FALK: Er hat geantwortet. Nur nicht auf meine Frage. … Das andere Handy. Kessler. Ja, Frau Kessler?
+> 대답은 하셨어. 내 질문에 대한 대답이 아니었을 뿐. …다른 전화네. 케슬러 씨야. 네, 케슬러 씨?
+ANNA: Die Gutachterin ist fertig. Seite vier kommt aus einem Tintenstrahldrucker, anderes Papier. Die übrigen dreizehn aus einem Farblaser. Und Farblaser hinterlassen winzige gelbe Punkte, unsichtbar, mit Seriennummer, Datum und Uhrzeit. Seit dem NSA-Leck 2017 weiß das jede Redaktion.
+> 감정 끝났어요. 4쪽은 잉크젯 프린터로 찍었고 종이도 달라요. 나머지 열세 쪽은 컬러 레이저 프린터고요. 그런데 컬러 레이저 프린터는 눈에 안 보이는 작은 노란 점을 남겨요. 일련번호, 날짜, 시각까지요. 2017년 NSA 유출 사건 이후로 편집국이라면 다 아는 얘기죠.
+FALK: Dann drucken Sie morgen die Klarstellung.
+> 그럼 내일 정정 보도를 내시는 거군요.
+ANNA: Morgen früh, Seite eins. Aber deswegen rufe ich nicht an. Die dreizehn echten Seiten wurden am Freitag vor einer Woche gedruckt. Um neunzehn Uhr zweiundvierzig. Sagt Ihnen die Uhrzeit etwas, Herr Falk?
+> 내일 아침 1면에요. 하지만 전화한 건 그 때문이 아니에요. 진짜 열세 쪽은 지난주 금요일에 인쇄됐어요. 저녁 일곱 시 사십이 분에. 이 시각, 짚이는 데 있으세요, 팔크 씨?
+FALK: … Nein. Gar nichts.
+> …아니요. 전혀요.
