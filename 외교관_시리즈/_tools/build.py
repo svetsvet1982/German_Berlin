@@ -3,14 +3,17 @@
 
 사용법:
   python3 build.py check  <원고.txt> [...]   # 형식·턴 수 검증만
-  python3 build.py build  <원고.txt> [...]   # 검증 후 docx 생성
+  python3 build.py build  <원고.txt> [...]   # 검증 후 docx·PDF 생성
 """
 import re
+import subprocess
 import sys
+import tempfile
 from pathlib import Path
 
 from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.oxml.ns import qn
 from docx.shared import Pt, RGBColor, Twips
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -115,6 +118,7 @@ def build(meta, sections, out):
     st = doc.styles["Normal"]
     st.font.name = "Calibri"
     st.font.size = Pt(11)
+    st.element.rPr.rFonts.set(qn("w:eastAsia"), "NanumGothic")
     sec = doc.sections[0]
     sec.page_width, sec.page_height = Twips(11906), Twips(16838)
     sec.top_margin = sec.bottom_margin = Twips(1134)
@@ -159,6 +163,15 @@ def build(meta, sections, out):
     doc.save(out)
 
 
+def to_pdf(docx_path):
+    """LibreOffice로 docx와 같은 폴더에 PDF를 만든다."""
+    with tempfile.TemporaryDirectory() as profile:
+        subprocess.run(["soffice", f"-env:UserInstallation=file://{profile}", "--headless",
+                        "--convert-to", "pdf", "--outdir", str(docx_path.parent), str(docx_path)],
+                       check=True, capture_output=True, timeout=300)
+    return docx_path.with_suffix(".pdf")
+
+
 def main():
     mode, files = sys.argv[1], sys.argv[2:]
     bad = 0
@@ -176,7 +189,8 @@ def main():
                 str.maketrans({"ä": "ae", "ö": "oe", "ü": "ue", "Ä": "Ae", "Ö": "Oe", "Ü": "Ue", "ß": "ss"}))).strip("_")
             out = ROOT / f"{meta['part']}부" / f"{meta['part']}부_{meta['ep']}화_{safe}.docx"
             build(meta, sections, out)
-            print(f"✓ {f} → {out.relative_to(ROOT)} ({n}턴)")
+            pdf = to_pdf(out)
+            print(f"✓ {f} → {out.relative_to(ROOT)}, {pdf.name} ({n}턴)")
         else:
             print(f"✓ {f} ({n}턴, 장면 {len(sections)}개)")
     sys.exit(1 if bad else 0)
