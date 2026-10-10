@@ -1,0 +1,328 @@
+@part 2
+@ep 8
+@title Die Tochter des Pfarrers
+@title_ko 목사의 딸
+@tagline 목사의 딸 · 월요일에 문 닫는 눈물의 궁전, 결혼 전 이름이 적힌 봉투, 그리고 기자보다 먼저 골라진 딸
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 4월 초, 여섯째 주 월요일 하루. 오전 여덟 시 프리드리히 거리의 눈물의 궁전 앞, 바이덴다머 다리, 시프바우어담의 카페, 라이히스타크우퍼의 «하얀 십자가», 낮 열두 시 반 전화, 밤 외무부 팔크 사무실
+@cast FALK | 외무부 유럽안보 특별대표 (44)
+@cast ANNA | Anna Kessler, 결혼 전 성 Lenz · 탐사보도 기자, «Berliner Depesche» (45)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast JAN | 팔크의 개인 보좌관 (31)
+@note ※ 지난 화, Elisabeth는 세금 서류철에서 Georg의 파일을 찾아냈고, 팔크와 «화해» 조건 세 가지를 맺었습니다. ① 기억 조서 ② 더는 조각내지 말고 새 일은 그날 알릴 것 ③ 그 딸을 찾으면 봉투보다 먼저 팔크가 직접 말할 것. 일요일 새벽 Anna가 전화를 걸어 왔습니다. 토요일 저녁 자기 집 문 앞에 이름이 하나도 지워지지 않은 47쪽이 놓여 있었다며, 월요일 아침 여덟 시 눈물의 궁전 앞에서 만나자고 했습니다.
+@note ※ 호칭: 팔크와 Anna는 Sie를 씁니다(4부 3화까지). 한국어로는 서로 존댓말을 씁니다. 팔크와 Elisabeth, 팔크와 Jan은 du를 씁니다. Jan은 팔크에게 친근한 존댓말을, 팔크는 Jan에게 반말을 씁니다.
+@note ※ 표현 초점: Akteneinsicht(파일 열람), Deckname / Klarname(위장명·실명), entschlüsseln(해독하다), Geburtsname / Mädchenname(결혼 전 성), freikaufen(돈을 주고 석방시키다), nahe Angehörige(가까운 가족), jemanden vertrösten(달래며 미루다), jemandem etwas übel nehmen(괘씸하게 여기다), nicht lockerlassen(물고 늘어지다), abrechnen(빚을 갚다·보복하다), zwei Fliegen mit einer Klappe(일석이조), Treuhand(맡아 둠). 접속법 II: «Dann hätte ich Sie hassen dürfen.» / «Ihre Frau hätte recht.» 접속법 I 간접화법: «Eine Richterin habe nach Pfarrer Lenz gefragt.» / «Er habe sie schützen wollen.»
+@history 슈타지 문서 열람 (1992~) — 슈타지 문서법(StUG)이 1991년 12월 29일 시행되었고, 1992년 1월 2일부터 감시당한 사람들이 자기 파일을 읽을 수 있게 되었습니다. 신청하면 자기에 대해 보고한 비공식 협력자(IM)의 위장명 뒤에 숨은 실명도 알려 주며, 세상을 떠난 사람의 가까운 가족도 정해진 목적이 있으면 열람을 신청할 수 있습니다. 지금까지 수백만 건의 열람 신청이 있었고, 많은 사람이 파일 속에서 낯선 요원이 아니라 친구, 동료, 형제, 배우자의 이름을 발견했습니다. 2021년 6월 슈타지 문서 관리청(BStU)은 연방기록원(Bundesarchiv)에 통합되었습니다.
+@history 베라 렝스펠트와 크누트 볼렌베르거 — 동베를린 판코우 평화 모임에서 활동한 인권 운동가 베라 볼렌베르거는 1988년 1월 리프크네히트·룩셈부르크 추모 시위에 가다가 체포되었고, 곧 서방으로 추방되어 영국에서 지냈습니다. 통일 뒤 연방의회 의원이 된 그는 자기 파일을 통해 남편 크누트 볼렌베르거가 IM «도널드»라는 이름으로 오랫동안 자신과 집안 사정을 슈타지에 보고해 왔다는 사실을 알게 되었습니다. 두 사람은 이혼했고, 그는 결혼 전 성인 렝스펠트로 돌아갔습니다. 남편은 나중에 아내를 지키려 했다고 주장했지만, 이 사건은 «가장 가까운 사람이 밀고자였다»는 파일 열람의 충격을 상징하는 이야기로 남았습니다.
+@preview 2부 9화 — «Die Staatssekretärin»(사무차관) — Jan의 추적으로 Winter와 Greve의 동선이 겹친다는 것이 드러난다. 그러나 Winter가 먼저 팔크를 부르고, 현실정치를 내세워 설득한다. «독일에는 러시아 채널이 필요합니다.»
+
+== 도입 — MONTAGS GESCHLOSSEN
+FALK: Guten Morgen, Frau Kessler. Die Tür ist zu. «Montags geschlossen», steht da.
+> 좋은 아침입니다, 케슬러 씨. 문이 닫혀 있네요. «월요일 휴관»이라고 적혀 있습니다.
+ANNA: Deshalb habe ich Montag gesagt. An keinem anderen Tag ist man vor dem Tränenpalast so allein. Haben Sie die Kopie dabei?
+> 그래서 월요일로 한 거예요. 눈물의 궁전 앞에서 이렇게 혼자일 수 있는 날은 없거든요. 사본 가져오셨어요?
+FALK: Alles, was ich bekommen habe. Die Verpflichtungserklärung, Seite siebenundvierzig mit dem geschwärzten Namen, den Vermerk von neunundachtzig. Nichts zurückgehalten.
+> 제가 받은 거 전부입니다. 서약서, 이름이 지워진 47쪽, 89년 메모. 빼놓은 건 없습니다.
+ANNA: «Nichts zurückgehalten» ist bei Ihnen ein großes Wort, Herr Falk. … Danke, ich lese es später. Zuerst zeige ich Ihnen den Umschlag von Samstag.
+> «빼놓은 건 없다»라. 당신한텐 꽤 큰 말이죠, 팔크 씨. …고마워요, 나중에 읽을게요. 먼저 토요일에 온 봉투부터 보여 드릴게요.
+FALK: Wieder braun, wieder Schreibmaschine.
+> 또 갈색이고, 또 타자기군요.
+ANNA: Lesen Sie die Adresse. Nicht die Straße, den Namen.
+> 주소를 읽어 보세요. 거리 말고 이름이요.
+FALK: «Frau Anna Lenz.» … Und darunter Ihre Wohnung in Friedrichshain.
+> «안나 렌츠 귀하.» …그리고 그 밑에 프리드리히스하인 댁 주소.
+ANNA: Auf meinem Klingelschild steht seit achtzehn Jahren Kessler. Seit meiner Hochzeit hat mich niemand mehr Lenz genannt. Außer einem Formular.
+> 우리 집 초인종 이름판엔 18년째 케슬러라고 적혀 있어요. 결혼한 뒤로 절 렌츠라고 부른 사람은 아무도 없었어요. 서류 하나 빼고는요.
+FALK: Frau Kessler …
+> 케슬러 씨…
+ANNA: Sagen Sie es nicht für mich. Ich habe mir am Samstag vorgenommen, es selbst zu sagen, damit es wenigstens einmal nicht aus einem Umschlag kommt. … Matthias Lenz war mein Vater.
+> 저 대신 말하지 마세요. 토요일에 다짐했어요. 제 입으로 말하겠다고. 적어도 한 번은 봉투에서 나오지 않게요. …마티아스 렌츠가 제 아버지였어요.
+FALK: Ich habe es geahnt, seit Ihrem Anruf gestern früh. Und ich habe die ganze Nacht gehofft, dass ich mich irre.
+> 어제 아침 전화를 받고부터 짐작은 했습니다. 그리고 밤새 제가 틀렸기를 바랐습니다.
+ANNA: Warum gehofft? Weil es unangenehm wird?
+> 왜 바랐는데요? 불편해질 테니까요?
+FALK: Weil Sie der einzige Mensch sind, dem ich diese Akte nicht erklären kann. Allen anderen kann ich sagen, es sei lange her.
+> 당신은 제가 이 파일을 설명할 수 없는 단 한 사람이니까요. 다른 사람들한테는 오래전 일이라고 말할 수 있습니다.
+ANNA: Für mich ist es nicht lange her. Für mich ist es fünf Uhr früh im Januar achtundachtzig, jedes Mal, wenn es nachts klingelt.
+> 저한텐 오래전 일이 아니에요. 밤에 초인종이 울릴 때마다 저한텐 88년 1월 새벽 다섯 시예요.
+FALK: Mein Vater hat es mir erzählt. Das Nachthemd. Die Tür.
+> 아버지가 말해 줬습니다. 잠옷. 그 문.
+ANNA: Er hat es Ihnen erzählt. Wie nett von ihm. … Entschuldigung. Ich hatte mir vorgenommen, nicht so zu reden.
+> 말해 줬군요. 참 친절하시네. …미안해요. 이런 식으로 말하지 않기로 다짐했는데.
+FALK: Reden Sie, wie Sie wollen. Sie haben das Recht dazu, ich nicht.
+> 하고 싶은 대로 말씀하세요. 당신한텐 그럴 권리가 있고, 저한텐 없습니다.
+ANNA: Gehen wir ein Stück, vor dieser Tür kann ich nicht stehen bleiben. Hier sind meine Mutter und ich im August neunundachtzig durchgegangen, mit zwei Koffern und einem Teddy.
+> 좀 걸어요. 이 문 앞엔 계속 서 있을 수가 없어요. 89년 8월에 엄마랑 제가 여길 지나갔거든요. 가방 두 개랑 곰 인형 하나 들고.
+FALK: Deshalb kannten Sie diese Halle «aus einem anderen Leben».
+> 그래서 이 건물을 «다른 삶에서» 안다고 하셨군요.
+ANNA: Ich war sieben. Ein Mann in Uniform hat meinen Teddy abgetastet, als hätte er eine Waffe im Bauch. Kommen Sie, zur Weidendammer Brücke.
+> 일곱 살이었어요. 제복 입은 남자가 제 곰 인형을 더듬었어요. 배 속에 무기라도 있는 것처럼. 가요, 바이덴다머 다리 쪽으로.
+
+== 장면 1 — WEIDENDAMMER BRÜCKE
+FALK: Der preußische Adler am Geländer. Biermann hat über ihn gesungen.
+> 난간의 프로이센 독수리네요. 비어만이 이걸 노래했죠.
+ANNA: «Die Ballade vom preußischen Ikarus.» Mein Vater hatte die Platte aus dem Westen und versteckte sie unter den Bettlaken. Nachts hat er sie ganz leise gespielt, und ich durfte nicht sagen, dass ich wach war.
+> «프로이센 이카로스의 발라드.» 아버지가 서쪽에서 들여온 그 음반을 침대 시트 밑에 숨겨 뒀어요. 밤에 아주 작게 틀었죠. 전 깨어 있다고 말하면 안 됐고요.
+FALK: Was ist aus ihm geworden, nach Bautzen? Die Landeskirche in Dresden wusste nur, dass er neunundachtzig in den Westen ging.
+> 바우첸 이후에 어떻게 되셨습니까? 드레스덴 주 교회청은 89년에 서쪽으로 갔다는 것만 알더군요.
+ANNA: Ich weiß, was die Landeskirche weiß. Die Juristin dort hat mich vor zehn Tagen angerufen: Eine Richterin aus Berlin habe nach Pfarrer Lenz gefragt, eine Frau Falk. Ob ich einverstanden sei, dass man Auskunft gibt.
+> 주 교회청이 뭘 아는지 저도 알아요. 거기 법무관이 열흘 전에 저한테 전화했거든요. 베를린의 어떤 판사가 렌츠 목사에 대해 물었다고요. 팔크라는 여자가요. 정보를 줘도 괜찮겠느냐고.
+FALK: Und was haben Sie gesagt?
+> 그래서 뭐라고 하셨습니까?
+ANNA: Das Geburtsjahr, sonst nichts. Ich wollte sehen, wie weit Sie gehen. … Ihre Frau hat mich gesucht, Herr Falk. Sie nicht.
+> 출생 연도만, 나머진 안 된다고요. 당신이 어디까지 가는지 보고 싶었어요. …당신 부인이 절 찾았어요, 팔크 씨. 당신이 아니라.
+FALK: Ich habe sie vorgeschickt. Das hat sie mir am Samstag auch gesagt, mit fast denselben Worten.
+> 제가 아내를 앞세웠죠. 아내도 토요일에 거의 똑같은 말을 하더군요.
+ANNA: Kluge Frau. … Mein Vater wurde im Juli neunundachtzig freigekauft, ein Bus über Karl-Marx-Stadt nach Gießen. Er hat nie erfahren, wie viel er gekostet hat. Wir durften sechs Wochen später nach.
+> 똑똑한 분이네요. …아버지는 89년 7월에 돈을 받고 풀려났어요. 카를 마르크스 시를 거쳐 기센으로 가는 버스였죠. 자기 몸값이 얼마였는지는 끝내 몰랐어요. 엄마랑 저는 6주 뒤에 따라갈 수 있었고요.
+FALK: Nach Hamburg?
+> 함부르크로요?
+ANNA: Nach Hamburg, zu genau dem Pastor, dem er siebenundachtzig den Brief schicken wollte. Der Brief ist nie angekommen. Mein Vater schon, anderthalb Jahre später und ohne seine Gemeinde.
+> 함부르크로요. 87년에 편지를 보내려던 바로 그 목사한테요. 편지는 끝내 도착하지 않았죠. 아버지는 도착했고요. 1년 반 늦게, 자기 교회도 없이.
+FALK: Hat er wieder gepredigt?
+> 다시 설교를 하셨습니까?
+ANNA: Er wurde Gefängnisseelsorger in Fuhlsbüttel. Er sagte, mit Gefängnissen kenne er sich aus. Im Frühjahr 2020 ist er gestorben, kurz vor seinem zweiundsiebzigsten Geburtstag.
+> 풀스뷔텔 교도소의 사목이 됐어요. 교도소라면 좀 안다면서요. 2020년 봄에 돌아가셨어요. 일흔두 번째 생일 조금 전에.
+FALK: Das tut mir leid.
+> 유감입니다.
+ANNA: Er hat seine Akte nie gelesen, nicht einmal beantragt, dreißig Jahre lang. Er sagte: «Ich will meine Freunde behalten. Auch die, die ich nicht mehr habe.»
+> 아버지는 자기 파일을 한 번도 안 읽었어요. 30년 동안 신청조차 안 했죠. 그러셨어요. «친구들을 지키고 싶다. 이제는 없는 친구들까지.»
+FALK: Und Sie?
+> 그럼 당신은요?
+ANNA: Ich habe sie nach seinem Tod beantragt, als Tochter. Das Gesetz erlaubt das nahen Angehörigen. Zwei Jahre hat es gedauert, und als die Akte kam, hieß die Behörde schon Bundesarchiv.
+> 돌아가신 뒤에 제가 신청했어요. 딸로서요. 법이 가까운 가족한텐 허락하거든요. 2년 걸렸어요. 파일이 왔을 땐 그 기관 이름이 벌써 연방기록원이었고요.
+FALK: Dann kannten Sie «Kranich» lange vor dem Zettel im Tränenpalast.
+> 그럼 눈물의 궁전에서 그 쪽지를 보기 훨씬 전부터 «크라니히»를 아셨던 거군요.
+ANNA: Ich kannte seine Berichte. Ein Schulfreund, Reisekader, verheiratet, ein kleiner Sohn. Einmal hat er ein Treffen abgesagt, weil der Sohn Masern hatte, und ich habe gedacht: Mein Verräter hat ein Kind, das krank sein darf.
+> 그 사람 보고서들은 알았죠. 학교 친구, 해외 출장이 허락된 간부, 기혼, 어린 아들 하나. 한번은 아들이 홍역에 걸렸다고 접선을 취소했더라고요. 그때 생각했어요. 내 배신자한텐 아파도 되는 아이가 있구나.
+FALK: Die Masern. Ich war vier. Ich erinnere mich nur, dass mein Vater zu Hause blieb.
+> 홍역. 네 살 때였습니다. 아버지가 집에 계셨던 것만 기억납니다.
+ANNA: Sehen Sie. Er blieb bei Ihnen, und deshalb saß er an diesem Donnerstag nicht in unserem Gemeindesaal. Einen Abend lang habe ich gedacht, das sei die freundlichste Stelle in der ganzen Akte.
+> 거봐요. 그 사람이 당신 곁에 있었으니까 그 목요일엔 우리 교회 회관에 앉아 있지 않았던 거예요. 하룻저녁 내내 그게 이 파일 전체에서 제일 다정한 대목이라고 생각했어요.
+FALK: Haben Sie den Klarnamen nie beantragt?
+> 실명은 신청하지 않으셨습니까?
+ANNA: Nein. Man kann zu jedem Decknamen den echten Namen bekommen, ich habe das Formular dreimal ausgefüllt und dreimal zerrissen. Ich wollte nicht wissen, welcher Freund meines Vaters es war, weil er es auch nicht wissen wollte.
+> 아뇨. 위장명마다 진짜 이름을 받을 수 있어요. 신청서를 세 번 쓰고 세 번 찢었죠. 아버지 친구 중 누구였는지 알고 싶지 않았어요. 아버지도 원하지 않으셨으니까.
+FALK: Und dann kam der Zettel und hat Ihnen die Entscheidung abgenommen.
+> 그런데 그 쪽지가 와서 그 결정을 대신 해 버렸군요.
+ANNA: Er hat mir das Nichtwissen genommen. Das war das Einzige, was mein Vater mir vererbt hat, außer einer Bibel und einer Biermann-Platte.
+> 모르고 살 자유를 빼앗아 간 거죠. 아버지가 저한테 물려준 유일한 거였는데. 성경책 한 권이랑 비어만 음반 한 장 말고는요.
+FALK: Frau Kessler, ich habe Ihnen im Tränenpalast etwas versprochen. Der Umschlag war schneller als ich, aber den Rest sollen Sie von mir hören, nicht von Papier.
+> 케슬러 씨, 눈물의 궁전에서 약속드린 게 있죠. 봉투가 저보다 빨랐지만, 나머지는 종이가 아니라 저한테서 들으셔야 합니다.
+ANNA: Dann sagen Sie es. Ohne Konjunktiv.
+> 그럼 말해 보세요. 가정법 빼고요.
+FALK: Mein Vater, Georg Falk, war IM «Kranich». Ihr Vater hat ihm im November siebenundachtzig einen Umschlag für Hamburg gegeben, mit den Namen von zweiunddreißig Leipzigern. Mein Vater hat ihn noch am selben Abend seinem Führungsoffizier übergeben, ungeöffnet.
+> 제 아버지 게오르크 팔크가 IM «크라니히»였습니다. 87년 11월에 당신 아버지가 함부르크로 보낼 봉투를 제 아버지한테 맡겼죠. 라이프치히 사람 서른두 명의 이름이 든 봉투를요. 제 아버지는 그날 저녁 바로 담당 장교한테 넘겼습니다. 뜯지도 않고.
+ANNA: Weiter.
+> 계속하세요.
+FALK: Er hat aufgeschrieben, wann Ihre Mutter zur Arbeit ging und wann Sie im Kindergarten waren, damit sie wussten, wann alle zu Hause sind. Er sagt, er sehe Sie jede Nacht in dieser Tür stehen, im Nachthemd.
+> 당신 어머니가 몇 시에 출근하고 당신이 몇 시에 유치원에 있는지 적었습니다. 가족이 언제 다 집에 있는지 그자들이 알 수 있게요. 아버지는 당신이 잠옷 바람으로 그 문 앞에 서 있는 게 매일 밤 보인다고 합니다.
+ANNA: Er sieht mich. … Sagen Sie ihm, er soll damit aufhören. Er hat kein Recht, mich zu sehen, auch nicht im Dunkeln.
+> 절 본다고요. …그만하라고 전하세요. 그 사람은 절 볼 권리가 없어요. 어둠 속에서도요.
+FALK: Ich sage es ihm.
+> 전하겠습니다.
+ANNA: Und Sie? Sie wissen das alles seit über zwei Wochen. Und mich haben Sie über Ihren Referenten auf «nächste Woche» vertröstet.
+> 그럼 당신은요? 2주도 넘게 이걸 다 알고 있었잖아요. 그런데 저한텐 보좌관을 통해서 «다음 주에»라며 미루기만 했죠.
+
+== 장면 2 — CAFÉ AM SCHIFFBAUERDAMM
+FALK: Ich wurde erpresst, Frau Kessler, mit genau dieser Akte. Wer einem zehn Tage gibt, wartet nicht, bis man sich mit der Familie des Opfers ausgesprochen hat.
+> 협박을 받았습니다, 케슬러 씨. 바로 이 파일로요. 열흘을 주는 사람은 피해자 가족과 이야기를 나눌 때까지 기다려 주지 않습니다.
+ANNA: Erpresst. Womit, weiß ich jetzt. Wofür?
+> 협박이라. 뭘로 했는지는 이제 알겠네요. 뭘 위해서였죠?
+FALK: Für einen Satz. Mehr sage ich Ihnen nicht, auch nicht unter drei. Der Satz steht, und die Frist ist vorbei.
+> 문장 하나 때문에요. 더는 말씀 못 드립니다. «unter drei»로도요. 그 문장은 그대로 있고, 기한은 지났습니다.
+ANNA: Und trotzdem lag am Samstag Seite siebenundvierzig vor meiner Tür. Jemand ist mit Ihnen fertig und fängt mit mir an.
+> 그런데도 토요일에 47쪽이 우리 집 문 앞에 있었죠. 누군가 당신하곤 볼일이 끝났고, 이제 저한테 시작하는 거예요.
+FALK: Darf ich Sie etwas fragen, das Sie mir übel nehmen werden?
+> 기분 상하실 질문 하나 드려도 되겠습니까?
+ANNA: Seit heute früh nehme ich Ihnen alles übel. Fragen Sie.
+> 오늘 아침부터 당신이 하는 건 다 괘씸해요. 물어보세요.
+FALK: Im Tränenpalast sagten Sie, Sie hätten beim Bundesarchiv einen Antrag gestellt, und das dauere Monate. Das war kein Presseantrag, oder?
+> 눈물의 궁전에서 연방기록원에 신청을 냈고 몇 달 걸린다고 하셨죠. 그거 언론용 신청이 아니었죠?
+ANNA: Nein. Es war das Formular, das ich dreimal zerrissen hatte, und beim vierten Mal habe ich es abgeschickt. Ich habe Sie nicht angelogen, Herr Falk, ich habe nur nicht gesagt, wessen Akte es war.
+> 아뇨. 세 번 찢었던 그 신청서였어요. 네 번째에 보냈죠. 거짓말한 건 아니에요, 팔크 씨. 누구 파일인지 말하지 않았을 뿐이에요.
+FALK: Diesen Satz hätte mir meine Frau am Samstag um die Ohren gehauen.
+> 그 말은 제 아내가 토요일에 들었으면 저한테 그대로 던졌을 겁니다.
+ANNA: Ihre Frau hätte recht. … Kennen Sie die Geschichte von Vera Wollenberger?
+> 부인 말이 맞겠죠. …베라 볼렌베르거 이야기 아세요?
+FALK: Vera Lengsfeld. Bürgerrechtlerin aus Pankow, nach der Einheit im Bundestag. Ihr Mann hat sie bespitzelt.
+> 베라 렝스펠트. 판코우 출신 인권 운동가, 통일 뒤엔 연방의회 의원. 남편이 그 사람을 염탐했죠.
+ANNA: Sie wurde im Januar achtundachtzig verhaftet, im selben Monat wie mein Vater, auf dem Weg zur Liebknecht-Luxemburg-Demonstration, und dann nach England abgeschoben. Als die Akten aufgingen, las sie, dass ihr Mann Knud jahrelang als IM «Donald» über sie berichtet hatte, über ihre Küche, ihre Freunde, ihre Kinder.
+> 88년 1월에 체포됐어요. 아버지랑 같은 달에, 리프크네히트·룩셈부르크 시위에 가는 길에요. 그리고 영국으로 추방됐죠. 파일이 열렸을 때 남편 크누트가 몇 년 동안 IM «도널드»로 자기에 대해 보고해 왔다는 걸 읽었어요. 부엌이며 친구들이며 아이들까지.
+FALK: Sie hat sich scheiden lassen.
+> 이혼했죠.
+ANNA: Und ihren Mädchennamen zurückgenommen. Sie hat sich ihren Namen wiedergeholt, ich habe meinen abgelegt: Kessler ist ein Name, unter dem mich um fünf Uhr früh niemand weckt.
+> 그리고 결혼 전 이름을 되찾았죠. 그 사람은 자기 이름을 다시 가져왔고, 전 제 이름을 내려놨어요. 케슬러는 새벽 다섯 시에 아무도 저를 깨우러 오지 않는 이름이에요.
+FALK: Knud Wollenberger hat später gesagt, er habe sie schützen wollen. Er habe geglaubt, er könne die Stasi beeinflussen, wenn er selbst dabei sei.
+> 크누트 볼렌베르거는 나중에 아내를 지키고 싶었다고 했죠. 자기가 그 안에 있으면 슈타지에 영향을 줄 수 있다고 믿었다고.
+ANNA: Das sagen sie alle. Sagt Ihr Vater das auch?
+> 다들 그렇게 말해요. 당신 아버지도 그래요?
+FALK: Er hat es versucht, mit «Sie wussten ohnehin alles» und «Es war ein Test». Dann hat er gesagt, er habe nicht glauben wollen, dass Ihr Vater recht hatte.
+> 그러려고 했죠. «어차피 다 알고 있었다», «시험이었다» 하면서요. 그러다 당신 아버지가 옳았다고 믿고 싶지 않았다고 하더군요.
+ANNA: Das ist wenigstens neu. … Wissen Sie, was 1992 in den Leseräumen der Gauck-Behörde am schlimmsten war? Nicht die Fremden, mit denen hatte man gerechnet. Schlimm waren die Namen, mit denen man Weihnachten gefeiert hatte.
+> 그건 적어도 새로운 얘기네요. …92년에 가우크 청 열람실에서 제일 끔찍했던 게 뭔지 아세요? 낯선 사람들이 아니었어요. 그건 다들 예상했죠. 끔찍한 건 같이 크리스마스를 보냈던 이름들이었어요.
+FALK: Bei Ihrem Vater war es keine Weihnachtsfeier. Es war eine Schulbank, vier Jahre lang.
+> 당신 아버지한텐 크리스마스가 아니었죠. 4년 동안 같이 앉은 학교 책상이었죠.
+ANNA: Vier Jahre Thomasschule. Mein Vater hat ein Foto von den beiden aufgehoben, zwei Jungen auf der Treppe vor der Schule, und ich wusste nie, wer der andere ist. Seit Samstag weiß ich es.
+> 토마스 학교 4년. 아버지가 두 사람 사진을 간직하고 있었어요. 학교 앞 계단에 앉은 남자애 둘. 옆의 애가 누군지 늘 몰랐는데, 토요일부터는 알아요.
+FALK: Als im März der erste Umschlag mit Bernstein kam, wussten Sie da schon, dass «Kranich» mein Vater ist?
+> 3월에 베른슈타인이 든 첫 봉투가 왔을 때, 그때 이미 «크라니히»가 제 아버지라는 걸 아셨습니까?
+ANNA: Nein. Das schwöre ich Ihnen bei dem Einzigen, was ich noch habe, meinem Beruf. Bernstein war für mich eine Geschichte über Litauen, und Ihren Namen kannte ich aus der Zeitung, nicht aus der Akte.
+> 아뇨. 제게 남은 유일한 것, 제 직업을 걸고 맹세해요. 저한테 베른슈타인은 리투아니아 얘기였어요. 당신 이름은 신문에서 알았지, 파일에서 안 게 아니에요.
+FALK: Dann frage ich anders: Warum kam Bernstein zu Ihnen? Sie schreiben über Geld und Firmen, nicht über Brigaden, und die «Depesche» hat einen Verteidigungskorrespondenten.
+> 그럼 다르게 묻겠습니다. 베른슈타인이 왜 당신한테 갔을까요? 당신은 돈과 기업 얘기를 쓰지, 여단 얘기를 쓰진 않잖습니까. «데페셰»엔 국방 담당 기자도 따로 있고요.
+ANNA: Das habe ich mich im März auch gefragt und mich geschmeichelt gefühlt. … Seit Samstag frage ich mich, ob jemand gar nicht die Journalistin ausgesucht hat, sondern die Tochter.
+> 3월에 저도 그게 궁금했고, 우쭐하기까지 했죠. …토요일부터는 누군가 기자가 아니라 딸을 고른 건 아닌지 묻고 있어요.
+FALK: Vor knapp drei Wochen hat ein Mann meinen Vater unter der Hochbahn an der Schönhauser Allee angesprochen. Zum Abschied sagte er über Sie: «Die Journalistin wird nicht lockerlassen. Sie hat ihre eigenen Gründe.»
+> 3주 전쯤 어떤 남자가 쇤하우저 알레 고가 철로 밑에서 제 아버지한테 말을 걸었습니다. 헤어지면서 당신 얘기를 했죠. «그 기자는 물러서지 않을 겁니다. 자기 나름의 이유가 있거든요.»
+ANNA: Ihre eigenen Gründe. Dann wusste er es schon damals. Und die Karte im Umschlag von Samstag sagt es noch deutlicher.
+> 자기 나름의 이유라. 그럼 그때 이미 알았던 거네요. 그리고 토요일 봉투에 든 카드는 그걸 더 분명하게 말해요.
+FALK: Welche Karte?
+> 무슨 카드요?
+ANNA: Eine Karteikarte, Schreibmaschine: «Für die Tochter. Damit Sie wissen, wem Sie seit März zuhören.» … Seit März, Herr Falk. Seit dem ersten Umschlag.
+> 색인 카드요. 타자기로 친. «딸에게. 3월부터 누구 말을 듣고 있는지 아시라고.» …3월부터요, 팔크 씨. 첫 봉투부터.
+FALK: Dann hat jemand Bernstein zu Ihnen geschickt, weil er wusste, dass Sie mir eines Tages nicht verzeihen würden. Erst sollten Sie mich kennenlernen, und dann sollten Sie erfahren, wer mein Vater ist.
+> 그럼 누군가 당신이 언젠가 저를 용서하지 못하리라는 걸 알고 베른슈타인을 당신한테 보낸 겁니다. 먼저 저를 알게 하고, 그다음에 제 아버지가 누군지 알게 하려고요.
+ANNA: Man hat mich nicht als Journalistin benutzt, sondern als Wunde. Das hat die Firma früher genauso gemacht: Sie hat sich ihre Leute nach ihren Verletzungen ausgesucht.
+> 절 기자로 이용한 게 아니라 상처로 이용한 거예요. 예전에 회사도 똑같이 했어요. 사람을 고를 때 그 사람 상처를 봤죠.
+
+== 절정 — WEISSE KREUZE AM REICHSTAGUFER
+FALK: Wer konnte wissen, dass Anna Kessler früher Anna Lenz hieß, und dazu Ihre Adresse in Friedrichshain?
+> 안나 케슬러가 예전엔 안나 렌츠였다는 걸 누가 알 수 있었을까요? 프리드리히스하인 주소까지요.
+ANNA: Mein Chefredakteur, meine Mutter, mein geschiedener Mann. Und ein Formular: Auf dem Antrag für die Akte meines Vaters steht alles, Kessler, geborene Lenz, Anschrift, Tochter des Betroffenen.
+> 편집국장, 엄마, 이혼한 전남편. 그리고 서류 하나. 아버지 파일 신청서에 다 적혀 있어요. 케슬러, 결혼 전 성 렌츠, 주소, 당사자의 딸.
+FALK: Und die Landeskirche? Man hat meiner Frau gesagt, vor ein paar Jahren habe schon einmal jemand nach der Personalakte gefragt.
+> 주 교회청은요? 몇 년 전에도 누가 그 인사 기록을 물어봤다고 제 아내한테 그러더군요.
+ANNA: Das war ich, 2021. Ich wollte wissen, in welchen Kirchen er gepredigt hat, bevor er Häftling wurde. Die Kirche hat mit alldem nichts zu tun.
+> 그건 저였어요, 2021년에. 수감자가 되기 전에 아버지가 어느 교회에서 설교했는지 알고 싶었거든요. 교회는 이 일과 아무 상관 없어요.
+FALK: Dann bleibt das Archiv. Die Kopie der Akte meines Vaters hat jemand mit einem Dienstformular angefordert, unter einem erfundenen Aktenzeichen. Wer die Akte «Kranich» liest, stößt auf den Vorgang gegen Ihren Vater, und im Archiv ist vermerkt, wer diesen Vorgang schon gelesen hat.
+> 그럼 남는 건 기록원이죠. 제 아버지 파일 사본을 누군가 기관 서식으로, 지어낸 사건 번호를 달고 요청했습니다. «크라니히» 파일을 읽는 사람은 당신 아버지에 대한 공작 사건에 닿게 되고, 기록원엔 그 사건을 이미 누가 읽었는지 적혀 있죠.
+ANNA: «Kanzel», so hieß der Vorgang. Mein Vater oben auf der Kanzel, und unten in der ersten Reihe die Spitzel. … Wer hat dieses Formular ausgefüllt?
+> «칸첼», 그게 공작 사건 이름이었어요. 아버지는 설교단 위에, 그 아래 맨 앞줄엔 밀정들. …그 서식은 누가 쓴 거예요?
+FALK: Das darf ich Ihnen nicht sagen, und sicher weiß ich es selbst nicht. Nur so viel: Es war kein Russe. Jemand von hier, mit Stempel.
+> 그건 말씀드릴 수 없고, 저도 확실히는 모릅니다. 이것만 말씀드리죠. 러시아인은 아니었습니다. 여기 사람이에요. 도장을 가진.
+ANNA: Jemand mit Stempel, der mich seit Jahren kennt, ohne dass ich ihn kenne. Das kommt mir irgendwie bekannt vor.
+> 도장을 가졌고, 저는 모르는데 저를 몇 년째 아는 사람. 어디서 많이 들어 본 얘기네요.
+FALK: Was wollten Sie mit Seite siebenundvierzig tun, bevor Sie mich angerufen haben?
+> 저한테 전화하기 전에, 47쪽으로 뭘 하려고 하셨습니까?
+ANNA: Schreiben. Ich hatte die Überschrift schon im Kopf: «Der Vater des Sonderbeauftragten verriet meinen Vater.» Ich habe sie die ganze Nacht angestarrt, und gegen fünf Uhr habe ich gemerkt, dass es keine Überschrift ist, sondern Rache.
+> 쓰려고 했죠. 제목까지 머릿속에 있었어요. «특별대표의 아버지가 내 아버지를 팔았다.» 밤새 그걸 노려봤는데, 새벽 다섯 시쯤 알았어요. 그게 제목이 아니라 복수라는 걸.
+FALK: Und genau das will jemand. Wussten Sie, dass es ein Foto von uns gibt? Bebelplatz, an dem Dienstag im März, aufgenommen aus einem Fenster der Alten Bibliothek.
+> 그리고 누군가 바로 그걸 원합니다. 우리 사진이 있다는 거 아셨습니까? 3월의 그 화요일, 베벨 광장. 옛 도서관 창문에서 찍은 사진입니다.
+ANNA: Nein.
+> 아뇨.
+FALK: Ein Abgeordneter hat es mir vorgelegt. Stellen Sie sich vor, Ihre Überschrift erscheint, und daneben das Foto: Der Sonderbeauftragte trifft heimlich die Tochter des Mannes, den sein Vater verraten hat, und ausgerechnet bei ihr landet Bernstein.
+> 어느 의원이 저한테 내밀었죠. 상상해 보세요. 당신 제목이 실리고, 그 옆에 사진이 붙습니다. 특별대표가 자기 아버지가 밀고한 남자의 딸을 몰래 만난다. 그리고 하필 그 여자한테 베른슈타인이 떨어진다.
+ANNA: Dann hätten Sie mir Bernstein gegeben. Aus schlechtem Gewissen, oder weil ich Sie mit der Akte in der Hand hatte.
+> 그럼 당신이 저한테 베른슈타인을 준 게 되겠네요. 죄책감 때문이든, 제가 파일로 당신 약점을 쥐고 있어서든.
+FALK: Und Sie hätten nicht berichtet, sondern abgerechnet. Danach glaubt Ihnen niemand mehr ein Wort, nicht über Bernstein, nicht über die gefälschte Seite vier, nicht über Greve. Und mir glaubt man überhaupt nichts mehr.
+> 그리고 당신은 보도한 게 아니라 앙갚음한 게 되죠. 그 뒤로는 아무도 당신 말을 한마디도 안 믿을 겁니다. 베른슈타인도, 위조된 4쪽도, 그레베도요. 저는 아예 아무도 안 믿을 거고요.
+ANNA: Zwei Fliegen mit einer Klappe. Die Journalistin und der Unterhändler, beide erledigt mit einem einzigen Blatt.
+> 일석이조네요. 기자랑 협상가가 종이 한 장으로 같이 끝장나는 거죠.
+FALK: Deshalb bitte ich Sie: Schreiben Sie es nicht. Nicht jetzt.
+> 그래서 부탁드립니다. 쓰지 마십시오. 지금은요.
+ANNA: Sie bitten mich, Ihren Vater zu schützen.
+> 당신 아버지를 지켜 달라는 거군요.
+FALK: Nein. Ich bitte Sie, sich nicht benutzen zu lassen. Mein Vater hat keinen Schutz verdient, aber Sie haben nicht verdient, dass jemand Ihren Vater ein zweites Mal als Werkzeug benutzt.
+> 아뇨. 이용당하지 마시라는 겁니다. 제 아버지는 보호받을 자격이 없습니다. 하지만 누군가 당신 아버지를 두 번째로 도구로 쓰는 일을 당신이 겪어야 할 이유는 없어요.
+ANNA: Hübsch formuliert. Haben Sie das in Brüssel gelernt?
+> 말 참 예쁘게 하시네요. 브뤼셀에서 배우셨어요?
+FALK: In Leipzig, glaube ich, bei einem Mann, der für jede Lüge eine Begründung hatte. … Ich meine es trotzdem ernst.
+> 라이프치히에서 배운 것 같습니다. 거짓말마다 이유를 붙일 줄 알던 남자한테서요. …그래도 진심입니다.
+ANNA: Wissen Sie, was das Bittere ist? Seit dem Zettel im März wollte ich, dass es Ihr Vater ist. Dann hätte ich Sie hassen dürfen, und alles wäre einfach gewesen.
+> 씁쓸한 게 뭔지 아세요? 3월에 그 쪽지를 받은 뒤로 전 그게 당신 아버지였으면 했어요. 그럼 당신을 미워해도 됐을 테고, 다 간단했을 테니까요.
+FALK: Und jetzt?
+> 그럼 지금은요?
+ANNA: Jetzt stehe ich vor diesen weißen Kreuzen und merke, dass ich Sie nicht hassen kann, weil Sie damals vier waren und Masern hatten. Das nehme ich Ihnen am meisten übel.
+> 지금은 이 하얀 십자가들 앞에 서서 깨닫고 있죠. 당신을 미워할 수가 없다는 걸. 그때 당신은 네 살이었고 홍역을 앓고 있었으니까. 그게 제일 괘씸해요.
+FALK: Werden Sie schreiben?
+> 쓰실 겁니까?
+ANNA: Nicht diese Überschrift, und nicht, solange ich nicht weiß, wer «Lenz» auf meinen Umschlag getippt hat. Aber hören Sie gut zu, Herr Falk: Wenn diese Geschichte irgendwann gedruckt wird, dann nicht als Rache einer Tochter, sondern erzählt vom Sohn, mit seinem eigenen Namen darunter.
+> 그 제목으로는 안 써요. 그리고 누가 제 봉투에 «렌츠»라고 쳤는지 알기 전엔 안 써요. 하지만 잘 들으세요, 팔크 씨. 이 이야기가 언젠가 인쇄된다면, 딸의 복수로는 아니에요. 아들이 이야기해야죠. 자기 이름을 밑에 달고.
+FALK: Einverstanden. Das ist ein Preis, den ich kenne. … Wie kam der Umschlag am Samstag zu Ihnen?
+> 좋습니다. 어떤 값인지 압니다. …토요일 봉투는 어떻게 온 겁니까?
+ANNA: Fahrradkurier, kurz nach sieben, meine Nachbarin hat unterschrieben, hier ist ihr Durchschlag mit der Auftragsnummer. Und Ihr Vater soll nicht nach mir suchen, keinen Brief, keinen Anruf. Wenn ich ihn sehen will, sage ich es Ihnen.
+> 자전거 퀵서비스요. 일곱 시 조금 넘어서 옆집 사람이 대신 서명했어요. 여기 그 사람이 받은 사본이에요. 주문 번호 있어요. 그리고 당신 아버지는 절 찾지 마세요. 편지도 전화도 하지 말고요. 제가 만나고 싶어지면 당신한테 말할게요.
+
+== 여운 — ZWÖLF UHR DREISSIG
+FALK: Hast du fünf Minuten? Ich stehe am Reichstagufer und habe Bedingung zwei im Kopf.
+> 5분 돼? 라이히스타크우퍼에 서 있는데 둘째 조건이 머리에서 안 떠나서.
+ELISABETH: Ich habe Sitzungspause bis eins. Es ist Kessler, nicht wahr? Seit Samstag rechne ich mit diesem Anruf.
+> 한 시까지 휴정이야. 케슬러지, 그렇지? 토요일부터 이 전화 기다렸어.
+FALK: Anna Kessler ist Anna Lenz, die Tochter. Sie war fünf, als sie die Tür aufgemacht hat.
+> 안나 케슬러가 안나 렌츠야. 그 딸. 그 문을 열었을 때 다섯 살이었어.
+ELISABETH: Jahrgang zweiundachtzig, ein paar Jahre älter als ich, «eigene Gründe». Ich habe es geahnt und es mir verboten auszusprechen, weil eine Vermutung kein Urteil ist. Wie geht es ihr?
+> 82년생, 나보다 몇 살 위, «자기 나름의 이유». 짐작은 했는데 입 밖에 못 내게 했어. 추측은 판결이 아니니까. 그 사람은 어때?
+FALK: Sie hat am Samstag Seite siebenundvierzig bekommen, ohne Schwärzung, adressiert an «Anna Lenz». Bedingung drei habe ich also nicht geschafft, der Umschlag war schneller.
+> 토요일에 47쪽을 받았어. 지운 데 없이, «안나 렌츠» 앞으로. 그러니까 셋째 조건은 못 지켰어. 봉투가 더 빨랐어.
+ELISABETH: Hast du es ihr trotzdem selbst gesagt? Alles, auch den Kindergarten?
+> 그래도 직접 말했어? 전부? 유치원 얘기까지?
+FALK: Alles, ohne Konjunktiv, das war ihre Bedingung. Und sie hat mir etwas über mich erzählt, das ich nicht wusste: Mein Vater hat einmal ein Treffen abgesagt, weil ich Masern hatte.
+> 전부. 가정법 없이. 그게 그 사람 조건이었어. 그리고 그 사람이 나도 몰랐던 내 얘기를 해 줬어. 아버지가 내가 홍역 걸렸다고 접선을 한 번 취소했대.
+ELISABETH: Dann steht ihr beide in derselben Akte. Das ist mehr, als die meisten Familien voneinander wissen. … Die Juristin aus Dresden hat sie angerufen, oder? Wegen meiner Anfrage.
+> 그럼 둘 다 같은 파일에 있는 거네. 대부분의 가족이 서로에 대해 아는 것보다 많이. …드레스덴 법무관이 그 사람한테 전화했지? 내 문의 때문에.
+FALK: Vor zehn Tagen. Sie hat nur das Geburtsjahr freigegeben, weil sie sehen wollte, wie weit wir gehen.
+> 열흘 전에. 출생 연도만 알려 줘도 된다고 했대. 우리가 어디까지 가는지 보고 싶어서.
+ELISABETH: Dann schulde ich ihr eine Entschuldigung, in meinem eigenen Namen. Ich habe sie gesucht wie eine Akte, nicht wie einen Menschen.
+> 그럼 내가 그 사람한테 사과해야 해. 내 이름으로. 사람이 아니라 서류철 찾듯이 찾았으니까.
+FALK: Sie will vorerst niemanden aus unserer Familie sehen, vor allem nicht meinen Vater. Kein Brief, kein Anruf.
+> 당분간은 우리 집안 누구도 보고 싶지 않대. 특히 아버지는. 편지도 전화도 안 된대.
+ELISABETH: Und am Sonntag sitzen wir mit Kuchen bei ihm. Was sagst du ihm?
+> 그런데 일요일엔 케이크 들고 아버님 댁에 앉아 있을 거잖아. 아버님한텐 뭐라고 할 거야?
+FALK: Dass sie lebt und dass sie ihn nicht sehen will. Ihren Namen nicht. Ist das wieder eine Scheibe?
+> 그 사람이 살아 있다는 거랑, 아버지를 보고 싶어 하지 않는다는 거. 이름은 말 안 하고. 이것도 또 조각내기야?
+ELISABETH: Nein. Ein Geheimnis, das einem anderen gehört, ist keine Scheibe, sondern Treuhand. Den Unterschied kennst du jetzt aus eigener Erfahrung.
+> 아니. 남의 비밀은 조각이 아니라 맡아 두는 거야. 그 차이는 이제 당신도 겪어 봐서 알잖아.
+FALK: Sie sagt, wenn diese Geschichte gedruckt wird, dann soll ich sie erzählen, mit meinem Namen darunter.
+> 그 사람이 그러더라. 이 이야기가 인쇄된다면 내가 해야 한다고. 내 이름을 밑에 달고.
+ELISABETH: Das hätte ich dir auch gesagt, nur hättest du es von mir nicht gehört. … Und der Umschlag? Wer tippt «Lenz» auf einen Brief nach Friedrichshain?
+> 나도 그렇게 말했을 거야. 다만 당신이 내 말은 안 들었겠지. …그리고 그 봉투는? 프리드리히스하인으로 가는 편지에 누가 «렌츠»라고 쳐?
+FALK: Jemand, der ihren Antrag im Archiv gesehen hat. Jan bekommt heute die Auftragsnummer des Kuriers, und du erfährst das Ergebnis heute Abend, nicht am Sonntag.
+> 기록원에서 그 사람 신청서를 본 누군가. 오늘 얀한테 퀵서비스 주문 번호를 넘길 거야. 결과는 오늘 저녁에 알려 줄게. 일요일 말고.
+ELISABETH: Gut. Ich muss zurück in den Saal. … Und Konstantin? Das war das erste Mal, dass du angerufen hast, bevor ich fragen musste.
+> 좋아. 법정에 돌아가야 해. …그리고 콘스탄틴? 내가 묻기 전에 당신이 먼저 전화한 거, 이번이 처음이야.
+
+== 마무리 — DAS FAHRTENBUCH
+JAN: Konstantin, du hast mittags gesagt, heute gebe es kein «später». Ich nehme dich beim Wort: Wer ist Anna Kessler wirklich?
+> 콘스탄틴, 낮에 오늘은 «나중에»가 없다고 했죠. 그 말 그대로 받을게요. 안나 케슬러, 진짜 누구예요?
+FALK: Die Tochter von Pfarrer Matthias Lenz aus Leipzig. Mein Vater hat ihn 1987 als IM «Kranich» an die Stasi verraten. Das war der Umschlag, den ich dir als Mietsache verkauft habe.
+> 라이프치히 마티아스 렌츠 목사의 딸. 우리 아버지가 1987년에 IM «크라니히»로 그 목사를 슈타지에 밀고했어. 내가 너한테 임대 문제라고 둘러댄 게 그 봉투야.
+JAN: Der Vermieter mit Fahrradkurier. … Danke, dass du es mir sagst. Ich hatte mir schlimmere Dinge ausgedacht, aber keine traurigeren.
+> 자전거 퀵서비스로 편지 보내는 집주인. …말해 줘서 고마워요. 더 나쁜 일들은 상상해 봤는데, 이보다 슬픈 건 없었어요.
+FALK: Und die Auftragsnummer?
+> 그래서 주문 번호는?
+JAN: Dieselbe Kurierfirma wie bei dem Umschlag an unserer Pforte, Donnerstag vor zweieinhalb Wochen, dreizehn Uhr zwölf. Die Pforte hebt ihre Lieferscheine auf, gelobt sei die deutsche Ablage.
+> 우리 정문에 온 봉투랑 같은 퀵서비스 업체예요. 2주 반 전 목요일, 13시 12분. 정문이 배송 전표를 다 보관하더라고요. 독일식 서류 정리 만세죠.
+FALK: Und die Firma hat dir einfach gesagt, wo abgeholt wurde?
+> 그런데 업체가 어디서 픽업했는지 그냥 알려 줬어?
+JAN: Nicht einfach. Ich habe gesagt, ich sei von der Poststelle des Auswärtigen Amts und wir hätten eine Reklamation. Das war gelogen, ich weiß, und diesmal zähle ich selbst mit.
+> 그냥은 아니고요. 외무부 우편실인데 클레임이 있다고 했어요. 거짓말이었죠, 알아요. 이번엔 제가 직접 셀게요.
+FALK: Wo?
+> 어디야?
+JAN: Beide Male dieselbe Abholadresse: ein Club an der Spree, Kaminzimmer im ersten Stock. Der Club, in dem Greve dich zum Mittagessen eingeladen hat.
+> 두 번 다 같은 픽업 주소예요. 슈프레 강변의 클럽, 2층 벽난로 방. 그레베가 당신을 점심에 불렀던 그 클럽이요.
+FALK: Greve. Dann lag die Kopie der Akte im Kaminzimmer, bevor sie an unserer Pforte ankam.
+> 그레베라. 그럼 파일 사본이 우리 정문에 오기 전에 벽난로 방에 있었다는 거네.
+JAN: Abgeholt am Donnerstag um zwölf Uhr fünfzig. Und jetzt kommt es: Ich habe im Fahrtenbuch der Fahrbereitschaft meine eigenen Fahrten geprüft und dabei ein paar Seiten weitergeblättert.
+> 목요일 12시 50분에 픽업. 그리고 이제부터가 중요해요. 차량 배차실 운행 일지에서 제 출장 기록을 확인하다가 몇 장 더 넘겨 봤거든요.
+FALK: Und?
+> 그래서?
+JAN: Donnerstag, zwölf Uhr fünfunddreißig, Wagen vierzehn, Fahrtziel genau diese Adresse an der Spree, zurück im Amt um dreizehn Uhr zwanzig. Eine Viertelstunde vor dem Kurier stand dort ein Wagen aus unserem Haus.
+> 목요일 12시 35분, 14호 차, 목적지가 바로 그 슈프레 강변 주소예요. 외무부 복귀는 13시 20분. 퀵서비스보다 15분 먼저 우리 부처 차가 거기 서 있었던 거예요.
+FALK: Wer saß drin?
+> 누가 타고 있었어?
+JAN: Das steht nicht da, nur, wer den Wagen angefordert hat: «Altbau, vierter Stock, Leitungsebene». Drei Vorzimmer, drei Namen, du kennst sie.
+> 그건 안 적혀 있어요. 누가 차를 요청했는지만요. «구관, 4층, 지휘부.» 비서실 셋, 이름 셋. 누군지 알잖아요.
+FALK: Kamp, Imhoff, Winter. Lehnert hat gesagt, drei Namen seien kein Name.
+> 캄프, 임호프, 빈터. 레너트가 그랬지. 이름 셋은 이름이 아니라고.
+JAN: Dann machen wir aus dreien einen. Die Fahrbereitschaft hebt die Anforderungszettel ein Jahr lang auf, mit Unterschrift, und morgen früh komme ich an sie heran, wenn du mir nicht verbietest, noch einmal zu lügen.
+> 그럼 셋을 하나로 만들어야죠. 배차실이 차량 요청서를 서명이랑 같이 1년 동안 보관한대요. 내일 아침이면 손에 넣을 수 있어요. 한 번 더 거짓말하지 말라고 막지만 않으면요.
+FALK: Ich verbiete dir gar nichts mehr, ich habe dir zu lange zu viel verschwiegen. … Und was immer wir finden, du erfährst es vor Lehnert und vor Mira. Das gilt weiter.
+> 이제 아무것도 안 막아. 너무 오래 너무 많은 걸 숨겼어. …그리고 우리가 뭘 찾든 레너트보다도, 미라보다도 네가 먼저 알게 될 거야. 그 약속은 그대로야.
+JAN: Daran erinnere ich dich morgen. … Ach, und morgen früh fliegt der Arzt zu Behrendt nach Moskau, Lefortowo hat den Termin bestätigt.
+> 내일 그 약속 다시 꺼낼게요. …아, 그리고 내일 아침에 의사가 베렌트 보러 모스크바로 가요. 레포르토보가 일정을 확인해 줬어요.
+FALK: Wenigstens eine Tür, die diese Woche aufgeht. Geh nach Hause, Jan.
+> 이번 주에 열리는 문이 하나는 있네. 집에 가, 얀.
+JAN: Gleich. Eins noch, das ich dir nicht als Erstes sagen wollte: Vor einer Stunde hat das Vorzimmer der Staatssekretärin angerufen, morgen um acht bei ihr. Sie wolle mit dir «über Frau Kessler» sprechen.
+> 금방 가요. 제일 먼저 말하고 싶진 않았던 게 하나 더 있어요. 한 시간 전에 사무차관 비서실에서 전화가 왔어요. 내일 여덟 시, 사무차관실로 오시래요. «케슬러 씨 일로» 얘기하고 싶으시대요.
+FALK: «Über Frau Kessler.» Heute früh um acht standen wir vor einer geschlossenen Tür, und außer uns war niemand da. … Jedenfalls habe ich das geglaubt.
+> «케슬러 씨 일로»라. 오늘 아침 여덟 시에 우리는 닫힌 문 앞에 서 있었고, 우리 말고는 아무도 없었어. …적어도 난 그렇게 믿었지.
