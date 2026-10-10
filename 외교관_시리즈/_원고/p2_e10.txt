@@ -1,0 +1,332 @@
+@part 2
+@ep 10
+@title Austausch
+@title_ko 교환
+@tagline 교환 · 새벽 다리 위의 세 번째 이름, 역광 속에서 뒤집힌 작전, 그리고 지그재그로 건너온 남자
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 4월 6일 화요일 밤 판코우 집, 4월 22일 목요일 샤우세 거리 BND 본부, 4월 29일 목요일 밤 연방총리실, 4월 30일 금요일 새벽 다섯 시부터 아침 일곱 시 반까지 글리니커 다리
+@cast FALK | 외무부 유럽안보 특별대표 (44)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast MIRA | 연방정보원(BND) 연락관 (39)
+@cast LEHNERT | 연방총리실장 (58)
+@cast ALBERS | Dr. Ruth Albers · 연방법무부 사무차관, 전 연방검사
+@cast JAN | 팔크의 개인 보좌관 (31)
+@cast SEDOV | 주독 러시아 대사관 공사참사관 (56)
+@cast BEHRENDT | Lukas Behrendt · 러시아에 수감되었던 독일인 박사 과정생 (29)
+@note ※ 지난 화, Winter는 빌헬름 거리 76번지에서 재보장 조약을 들며 «독일에는 러시아 채널이 필요하다»고 팔크를 설득했고, 그 실을 베른슈타인 이후 팔크가 맡으라고 제안했습니다. 거절하면 5월 Brückner 청문회에서 팔크에게 불리한 사실들을 «나열»하겠다고 했습니다. 밤에 Sedov가 교환 날짜(4월 30일 06시, 글리니커 다리)를 알리며 «명단은 마지막 순간까지 숨을 쉰다»고 했고, 그날 아침의 산책까지 알고 있었습니다. Elisabeth가 물었습니다. «그 넷 중에 누가 모스크바랑 얘기해?»
+@note ※ 호칭: 팔크와 Mira는 2부 4화의 거래 뒤로 du를 쓰고, 한국어로는 서로 반말을 씁니다. 팔크와 Elisabeth, 팔크와 Jan도 du입니다(Jan은 친근한 존댓말, 팔크는 반말). Lehnert, Albers, Sedov, Behrendt와는 Sie를 쓰며 한국어로는 서로 격식체나 존댓말을 씁니다.
+@note ※ 표현 초점: Verbalnote(외교 각서), Ergänzung der Liste(명단 보충), Untersuchungshaft / Untersuchungshäftling(미결 구금·미결수), Illegaler(불법 공작원, 외교관 신분이 없는 첩보원), Legende(위장 신분), Haftbefehl aufheben(구속영장을 취소하다), von der Verfolgung absehen(소추하지 않다), Lösegeld(몸값), Gegenlicht(역광), Umriss(윤곽), Ausnahmegenehmigung(예외 허가), mit laufendem Motor(시동을 건 채로). 접속법 II: «Dann hätte Haller ‹geprüft› geschrieben, nicht ‹bestätigt›.» 접속법 I 간접화법: «Sedov sagt, man habe sie ihm bestätigt.» / «Meine Mutter sagt, Sie seien der Mann, der ihr nur eine Sache versprochen hat.»
+@history 앙카라 수감자 교환 (2024년 8월 1일) — 냉전 이후 최대 규모의 동서 수감자 교환으로, 튀르키예 정보기관(MIT)의 중재로 앙카라 공항에서 이루어졌습니다. 모두 26명이 풀려났는데, 러시아와 벨라루스에서 16명(미국 기자 에반 게르시코비치, 반체제 인사 블라디미르 카라무르자 등)이 서방으로 갔고, 10명(어린이 2명 포함)이 러시아로 갔습니다. MIT에 따르면 13명이 독일로, 3명이 미국으로 향했습니다. 러시아가 가장 원한 사람은 2019년 베를린 클라이너 티어가르텐에서 체첸계 조지아인을 살해해 2021년 베를린 고등법원에서 종신형을 받은 FSB 요원 바딤 크라시코프였고, 독일 정부는 형사소송법 456a조에 따라 형 집행을 포기하고 그를 넘겼습니다. 크라시코프는 그날 밤 모스크바 브누코보 공항 활주로에서 러시아 대통령에게 직접 환영받았습니다.
+@history 숨 쉬는 명단 — 앙카라의 명단은 마지막 며칠까지 바뀌었습니다. 독일 적십자 구급대원 리코 크리거는 2024년 6월 벨라루스에서 사형 선고를 받았다가 7월 30일 사면되어 교환 명단에 올랐습니다. 러시아로 간 사람 가운데에는 아르헨티나인 행세를 하며 슬로베니아 류블랴나에 살다 2022년 말 체포된 «불법 공작원» 부부 둘체프 부부와 그 두 아이도 있었는데, 아이들은 자신이 러시아인이라는 사실을 그제야 알았다고 전해집니다. 또 2024년 2월 북극권의 교도소에서 숨진 알렉세이 나발니가 원래 교환 대상에 들어 있었다는 주장도 나왔습니다. 극 중 Sedov는 이 사례들을 들어 «명단은 숨을 쉬고, 가끔은 숨을 멈춘다»고 위협합니다.
+@preview 2부 11화 — «Wer lügt»(누가 거짓말하나) — Brückner가 청문회를 연다. Winter는 팔크가 유출자라고 암시하는 증언을 한다. BND는 거래를 부인하고, Mira는 팔크를 버린다.
+
+== 도입 — WER REDET MIT MOSKAU
+FALK: Vielleicht keiner von uns vieren. Vielleicht jemand, dem einer von uns vieren etwas erzählt hat, ohne es zu merken.
+> 어쩌면 우리 넷 중 아무도 아닐 수도 있어. 넷 중 누군가가 자기도 모르게 얘기를 흘린 상대일 수도 있고.
+ELISABETH: Das ist die Antwort eines Mannes, der keinen der vier verlieren will. Wem musst du diesen Anruf jetzt melden?
+> 넷 중 누구도 잃고 싶지 않은 사람의 대답이네. 이 전화, 이제 누구한테 보고해야 해?
+FALK: Mira. So lautet die Abmachung: nach jedem Kontakt, nur ihr, noch am selben Abend.
+> 미라. 그게 약속이야. 접촉할 때마다, 미라한테만, 그날 저녁 안에.
+ELISABETH: Dann ruf sie an, hier am Küchentisch. Und erzähl ihr alles, was er gesagt hat, oder sag mir vorher, was du weglässt.
+> 그럼 여기 부엌 식탁에서 전화해. 그 사람이 한 말 전부 전해. 아니면 뭘 뺄 건지 나한테 먼저 말하든가.
+FALK: Die Wilhelmstraße. Mira war heute früh nicht dabei. Wenn sie es trotzdem erfährt, weiß ich mehr als heute Abend.
+> 빌헬름 거리. 오늘 아침에 미라는 거기 없었어. 그런데도 미라가 그걸 알게 되면, 오늘 밤보다 많은 걸 알게 되는 거지.
+ELISABETH: Ein Köder. Du legst inzwischen mehr Köder aus als Brücken. … Ruf an.
+> 미끼네. 요즘 당신은 다리보다 미끼를 더 많이 놓아. …전화해.
+MIRA: Zehn vor zehn. Lass mich raten: Er hat dir ein Datum gegeben.
+> 열 시 10분 전이네. 맞혀 볼까. 그 사람이 날짜를 줬지.
+FALK: Freitag, dreißigster April, sechs Uhr früh, Glienicker Brücke, die Russen auf der Potsdamer Seite. Und Behrendt hat vier Kilo verloren, aber nicht seinen Humor.
+> 4월 30일 금요일, 새벽 여섯 시, 글리니커 다리. 러시아 쪽은 포츠담 편이고. 그리고 베렌트는 4킬로가 빠졌지만 유머는 안 잃었대.
+MIRA: Das deckt sich mit dem, was wir aus Moskau hören. Sonst noch etwas?
+> 우리가 모스크바에서 듣는 거랑 맞아떨어지네. 다른 건?
+FALK: Ein Satz, der mir nicht gefällt: In Moskau atmeten Listen bis zur letzten Minute.
+> 마음에 안 드는 말 하나. 모스크바에선 명단이 마지막 순간까지 숨을 쉰대.
+MIRA: Das sagt er seit zwanzig Jahren zu jedem, der ihm zuhört. Russen verhandeln am liebsten auf der Brücke selbst, mit laufendem Motor. Wir sind darauf vorbereitet.
+> 그 사람은 20년째 들어 주는 사람마다 그 말을 해. 러시아 사람들은 다리 위에서, 시동 걸어 둔 채로 협상하는 걸 제일 좋아하거든. 우린 대비돼 있어.
+FALK: Und die Elf? Sedov sagt, man habe sie ihm bestätigt.
+> 그 열한 명은? 세도프는 누가 확인해 줬다던데.
+MIRA: Darüber reden wir nicht am Telefon. Nur so viel: Jemand hat an eine Tür geklopft, hinter der niemand wohnt. Und wir haben gesehen, wer klopft.
+> 그건 전화로 얘기 안 해. 이 정도만. 아무도 안 사는 집 문을 누가 두드렸어. 그리고 우린 누가 두드리는지 봤어.
+FALK: Wer?
+> 누군데?
+MIRA: Wenn wir ihn haben, erfährst du es als Erster. Gute Nacht, Konstantin. Grüß deine Frau, sie hört ja ohnehin mit.
+> 잡으면 네가 제일 먼저 알게 될 거야. 잘 자, 콘스탄틴. 아내한테 안부 전해. 어차피 옆에서 듣고 계실 테니.
+ELISABETH: «Als Erster.» Heute ist das schon das zweite Mal, dass dir jemand das verspricht. Und den Spaziergang hast du ihr nicht erzählt.
+> «제일 먼저.» 오늘만 벌써 두 번째네, 누가 당신한테 그 약속을 하는 게. 그리고 그 산책 얘기는 안 했고.
+FALK: Nein. Vierundzwanzig Tage bis zur Brücke, Elisabeth. Dann weiß ich, wer was weiß.
+> 응. 다리까지 24일 남았어, 엘리자베트. 그때면 누가 뭘 아는지 알게 돼.
+ELISABETH: Vierundzwanzig Tage. Sie stehen in meinem Kalender, rot. An dem Tag, an dem Behrendt drüben ist, gehst du zu Lehnert, oder ich gehe zu Ruth.
+> 24일. 내 달력에 빨갛게 적혀 있어. 베렌트가 건너오는 날, 당신이 레너트한테 가. 아니면 내가 루트한테 가고.
+
+== 장면 1 — CHAUSSEESTRASSE
+MIRA: Willkommen in der Chausseestraße. Sechzehn Tage habe ich dich warten lassen, ich weiß. Dafür bist du der erste Diplomat, den ich bis in den sechsten Stock bringe.
+> 샤우세 거리에 온 걸 환영해. 16일이나 기다리게 했지, 알아. 대신 6층까지 데려온 외교관은 네가 처음이야.
+FALK: Du hast am Telefon von einer Tür gesprochen. Ich nehme an, ihr habt jemanden.
+> 전화로 문 얘기를 했지. 누굴 잡았나 보네.
+MIRA: Gestern früh, halb sechs, in Warnemünde. Martin Haller, achtundvierzig, österreichischer Pass, ausgestellt in Graz. Seit neun Jahren Schiffsagent in Rostock und bei der Handelskammer sehr beliebt.
+> 어제 새벽 다섯 시 반, 바르네뮌데에서. 마르틴 할러, 마흔여덟, 그라츠에서 발급된 오스트리아 여권. 9년째 로스토크에서 선박 대리점을 하고 있고, 상공회의소에서 아주 인기 있는 사람이야.
+FALK: Und was hat ein Schiffsagent mit meiner Elf zu tun?
+> 선박 대리인이 내 열한 명이랑 무슨 상관인데?
+MIRA: Am Freitag nach der Brücke, um vierzehn Uhr zehn, ging von einem Prepaid-Handy in Rostock eine Nachricht an eine Nummer, die wir der Botschaft zuordnen: «Elf bestätigt. Quelle oben.» Neun Stunden später hat Sedov dich angerufen.
+> 다리에서 만난 다음 날 금요일 14시 10분, 로스토크의 선불폰에서 우리가 대사관 것으로 보는 번호로 메시지가 갔어. «열하나 확인. 출처는 위.» 아홉 시간 뒤에 세도프가 너한테 전화했고.
+FALK: «Quelle oben.» Von wem hat Haller die Elf?
+> «출처는 위.» 할러는 그 열한 명을 누구한테서 들었는데?
+MIRA: Er sagt nichts, seit gestern kein Wort außer «Ich bin österreichischer Staatsbürger». Und Wien hat heute Morgen bestätigt: Der Pass ist echt, der Mann nicht. Der echte Martin Haller ist 1983 in Graz gestorben, mit vier Jahren.
+> 아무 말도 안 해. 어제부터 «난 오스트리아 시민이다» 말고는 한마디도. 그리고 빈이 오늘 아침 확인해 줬어. 여권은 진짜고 사람은 가짜래. 진짜 마르틴 할러는 1983년에 그라츠에서 죽었어. 네 살 때.
+FALK: Ein Illegaler, kein Diplomat. Keine Immunität, keine Ausweisung, kein Flug nach Hause.
+> 외교관이 아니라 불법 공작원이군. 면책 특권도 없고, 추방도 없고, 집에 가는 비행기도 없고.
+MIRA: Genau deshalb ist er so wertvoll. Und jetzt das Beste: In seinem Büro lag im Tresor eine Kopie. Seite neun aus Bernstein, die Tabelle mit den Verstärkern.
+> 바로 그래서 귀한 거야. 이제 제일 좋은 거. 그 사람 사무실 금고에 사본이 하나 있었어. 베른슈타인 9쪽, 증폭기 표.
+FALK: Jans Tabelle.
+> 얀의 표.
+MIRA: Mit Jans Kürzel unten. Und seine Agentur hat im Februar die «Akademik Sorin» in Rostock abgefertigt: Proviant, Diesel, Hafenpapiere. Vier Wochen vor dem Kabel.
+> 아래에 얀의 약자까지 있어. 그리고 그 대리점이 2월에 로스토크에서 «아카데믹 소린»의 입항 업무를 봤어. 식량, 경유, 항만 서류. 케이블 끊기기 4주 전에.
+FALK: Dann ist er die Brücke zwischen dem Leck und dem Schiff. Weiß Jan es schon?
+> 그럼 그 사람이 유출이랑 배 사이를 잇는 다리네. 얀은 벌써 알아?
+MIRA: Karlsruhe weiß es, und Frau Lindner erfährt es nächste Woche. Dein Referent ist so gut wie raus, Konstantin. Gegenlicht hat sich bezahlt gemacht.
+> 카를스루에는 알아. 린트너 변호사도 다음 주에 알게 될 거고. 네 보좌관은 사실상 빠졌어, 콘스탄틴. 게겐리히트가 제값을 한 거지.
+FALK: Ich bin nicht hier, um dir zu gratulieren. Wer hat Haller die Elf gegeben? Die Zahl stand in deinem Bericht und kam aus meinem Mund, sonst nirgends.
+> 축하하러 온 건 아니야. 누가 할러한테 그 열한 명을 줬지? 그 숫자는 네 보고서에 있었고 내 입에서 나왔어. 그 밖엔 어디에도 없었어.
+MIRA: Und bei Sedov. Er kann sie an Haller weitergegeben haben, damit Haller sie bei irgendwem «oben» prüft.
+> 세도프한테도 있었지. 세도프가 할러한테 넘겨서 할러가 «위»의 누군가한테 알아보게 했을 수도 있어.
+FALK: Dann hätte Haller «geprüft» geschrieben, nicht «bestätigt». Und am Dienstag danach hat Winter mir die Elf ins Gesicht gesagt, als wäre es Fraktionswissen.
+> 그럼 할러는 «확인했다»가 아니라 «알아봤다»고 썼겠지. 그리고 그다음 화요일에 빈터가 그 열한 명을 내 얼굴에 대고 말했어. 교섭단체에서 다 아는 얘기라는 듯이.
+MIRA: Winter liest meine Berichte nicht, Konstantin. Sie liest Zusammenfassungen, und darin stehen keine Zahlen.
+> 빈터는 내 보고서를 안 읽어, 콘스탄틴. 요약본을 읽지. 거기엔 숫자가 안 들어가.
+FALK: Und wer schreibt die Zusammenfassungen?
+> 그 요약본은 누가 쓰는데?
+MIRA: Ich. … Du siehst mich an, als hätte ich gerade etwas gestanden.
+> 나. …방금 내가 뭘 자백한 것처럼 쳐다보네.
+FALK: Du hast gerade gesagt, dass nur du entscheidest, was oben ankommt. Das ist entweder sehr beruhigend oder das Gegenteil.
+> 위로 뭐가 올라갈지 너 혼자 정한다고 방금 말했잖아. 그건 아주 안심되는 얘기거나, 아니면 정반대거나.
+MIRA: Dann entscheide dich für beruhigend, damit schläft es sich besser. … Übrigens, was hast du mit Winter in der Wilhelmstraße gemacht? Vor gut zwei Wochen, morgens, vor Nummer sechsundsiebzig.
+> 그럼 안심되는 쪽으로 정해. 그래야 잠이 잘 와. …그런데 빈터랑 빌헬름 거리에선 뭐 했어? 2주 조금 전 아침에, 76번지 앞에서.
+FALK: Woher weißt du das? Ich habe es dir nicht erzählt.
+> 그건 어떻게 알아? 난 말 안 했는데.
+MIRA: Eben. Ein Sonderbeauftragter spaziert mit der Staatssekretärin vor Bismarcks Amt und verschweigt es seiner Führungsoffizierin. Das steht auch in meinem Bericht, als offene Frage.
+> 그러니까. 특별대표가 사무차관이랑 비스마르크의 관청 앞을 산책해 놓고 자기 담당관한테는 숨긴다. 그것도 내 보고서에 있어. 미해결 질문으로.
+FALK: Du hast meine Frage nicht beantwortet.
+> 내 질문엔 대답 안 했어.
+MIRA: Wir hören Sedovs Telefon, schon vergessen? Er hat dir die Hausnummer genannt. Und wer vor Nummer sechsundsiebzig spazieren geht, redet über Bismarck. Dafür muss man niemanden abhören.
+> 우리가 세도프 전화를 듣는 거 잊었어? 그 사람이 너한테 번지수를 말했잖아. 그리고 76번지 앞을 산책하는 사람은 비스마르크 얘기를 하지. 그걸 알려고 누굴 도청할 필요는 없어.
+FALK: Ich will etwas Schriftliches, Mira. Eine Zeile vom Präsidenten, dass ich in eurem Auftrag mit Sedov rede. Bevor ich am Dreißigsten auf der Brücke stehe.
+> 서면으로 된 게 필요해, 미라. 내가 너희 지시로 세도프랑 얘기한다는 원장 명의의 한 줄. 30일에 다리에 서기 전에.
+MIRA: Papier ist das, was Russen am liebsten lesen. Solange es kein Papier gibt, kann dir niemand etwas beweisen, auch Sedov nicht.
+> 서류는 러시아 사람들이 제일 좋아하는 읽을거리야. 서류가 없는 한 아무도 너한테 아무것도 증명 못 해. 세도프도.
+FALK: Und euch auch niemand. Meine Frau sagt, ein Dienst ohne Papier kann alles abstreiten.
+> 너희한테도 아무도 못 하겠지. 내 아내 말로는, 서류 없는 정보기관은 뭐든 부인할 수 있대.
+MIRA: Deine Frau ist Richterin, sie glaubt an Akten. Ich glaube an Menschen, die ihr Wort halten. Was hast du Winter am Freitag geantwortet?
+> 네 아내는 판사니까 서류를 믿지. 난 약속 지키는 사람을 믿어. 금요일에 빈터한테 뭐라고 대답했어?
+FALK: «Nach der Brücke.» Sie hat gelächelt und gesagt, dann eben nach der Brücke. Seitdem bekommt Jan keine einzige Dienstreise mehr genehmigt.
+> «다리 다음에요.» 웃으면서 그럼 다리 다음에 하자더라. 그 뒤로 얀은 출장 결재를 하나도 못 받고 있어.
+MIRA: Dann fährt er am Dreißigsten eben mit der S-Bahn nach Wannsee. Wir sehen uns auf der Brücke, Konstantin. Und lass das alte Telefon an.
+> 그럼 30일엔 에스반 타고 반제까지 오면 되겠네. 다리에서 보자, 콘스탄틴. 그리고 그 낡은 전화기는 켜 둬.
+
+== 장면 2 — DIE ERGÄNZUNG
+LEHNERT: Donnerstag, neunundzwanzigster April, zehn nach zehn. Setzen Sie sich, Herr Falk. Frau Albers kennt den Ablauf, und Herr Ostrowski schreibt ohnehin mit. Ab jetzt ist das hier kein Gespräch mehr, sondern ein Fahrplan.
+> 4월 29일 목요일, 열 시 10분입니다. 앉으세요, 팔크 씨. 알베르스 차관은 순서를 이미 알고, 오스트로프스키 씨는 어차피 받아 적을 거고요. 지금부터 이건 대화가 아니라 운행표입니다.
+JAN: Russische Regierungsmaschine, einmalige Ausnahmegenehmigung aus humanitären Gründen, Landung BER, Regierungsterminal, drei Uhr vierzig. Zwei Busse der Botschaft bringen Behrendt und Kühn auf die Potsdamer Seite.
+> 러시아 정부 전용기, 인도적 사유의 일회성 예외 허가, BER 정부 터미널 착륙 3시 40분. 대사관 버스 두 대가 베렌트와 퀸을 포츠담 쪽으로 데려가요.
+ALBERS: Bystrow verlässt Tegel um vier Uhr fünfzehn, mit dem SEK und zwei Beamten des BKA. Die Anordnung nach Paragraf 456a hat der Generalbundesanwalt heute Mittag unterschrieben. Und heute Nachmittag war ich bei Frau Gromowa.
+> 비스트로프는 4시 15분에 테겔을 나섭니다. 특공대랑 연방범죄수사청 수사관 두 명이 붙고요. 456a조 처분은 연방검찰총장이 오늘 정오에 서명했어요. 그리고 오늘 오후엔 그로모바 부인을 만나고 왔어요.
+FALK: Wie hat sie es aufgenommen?
+> 어떻게 받아들이던가요?
+ALBERS: Sie hat mir Tee gekocht und gefragt, ob der Mann im Flugzeug winken wird. Ich habe ihr gesagt, dass die Kanzlerin morgen ein Wort benutzt, das in Moskau keiner hören will: Staatsmord. Mehr konnte ich ihr nicht geben.
+> 차를 끓여 주더니 그 남자가 비행기에서 손을 흔들 거냐고 묻더군요. 총리께서 내일 모스크바가 듣기 싫어하는 단어를 쓰실 거라고 했어요. 국가 살인. 그 이상은 드릴 게 없었어요.
+LEHNERT: Um sieben Uhr vor der Kamera, nicht früher. Erst wenn beide Deutschen auf deutschem Boden stehen, so hat die Kanzlerin es Ihnen versprochen, Herr Falk.
+> 일곱 시에 카메라 앞에서요. 그보다 일찍은 아닙니다. 두 독일인이 독일 땅을 밟은 다음에요. 총리께서 팔크 씨한테 그렇게 약속하셨죠.
+FALK: Und Sedov hat mir versprochen, dass Listen in Moskau bis zur letzten Minute atmen. Ich wüsste gern, welches Versprechen schwerer wiegt.
+> 그리고 세도프는 모스크바에선 명단이 마지막 순간까지 숨을 쉰다고 약속했죠. 어느 약속이 더 무거운지 알고 싶군요.
+ALBERS: Die Liste ist seit Montag mit einer Verbalnote bestätigt: zwei gegen einen. Wenn morgen früh ein Name dazukommt, lasse ich niemanden laufen. Das habe ich 2024 gelernt.
+> 명단은 월요일에 외교 각서로 확정됐어요. 두 명 대 한 명. 내일 아침에 이름이 하나라도 늘면 전 아무도 안 풀어 줘요. 2024년에 배운 거예요.
+JAN: Ankara.
+> 앙카라요.
+ALBERS: Erster August 2024, Flughafen Ankara, der türkische Geheimdienst in der Mitte. Sechsundzwanzig Menschen. Zehn flogen nach Moskau, darunter zwei Kinder, dreizehn nach Deutschland, drei in die USA. Und der Preis für all das hieß Wadim Krassikow.
+> 2024년 8월 1일, 앙카라 공항. 가운데엔 튀르키예 정보기관. 스물여섯 명이었어요. 열 명이 모스크바로 갔고 그중 둘은 아이였죠. 열세 명이 독일로, 세 명이 미국으로. 그리고 그 모든 것의 값이 바딤 크라시코프였어요.
+FALK: Der Tiergartenmörder.
+> 티어가르텐 살인범.
+ALBERS: Lebenslang, besondere Schwere der Schuld, Kammergericht 2021. Ich kannte jeden Satz dieses Urteils. Und dann hat die Bundesregierung nach 456a auf die Vollstreckung verzichtet, weil Moskau nur ihn wollte. Ihn und keinen anderen.
+> 종신형, 책임의 특별한 중대성, 2021년 베를린 고등법원. 그 판결문은 한 줄 한 줄 다 알았어요. 그런데 연방정부는 456a조로 형 집행을 포기했죠. 모스크바가 그 사람만 원했으니까요. 다른 누구도 아니고 그 사람만.
+LEHNERT: Und wir haben sechzehn Menschen bekommen. Journalisten, Oppositionelle, einen deutschen Sanitäter, der in Minsk zum Tode verurteilt war. Das war keine schlechte Rechnung.
+> 그리고 우린 열여섯 명을 받았죠. 기자들, 반체제 인사들, 민스크에서 사형 선고를 받은 독일인 구급대원까지. 나쁜 셈은 아니었어요.
+JAN: Der Sanitäter ist ein gutes Beispiel für Herrn Sedovs atmende Listen. Rico Krieger wurde im Juni in Minsk zum Tode verurteilt und am dreißigsten Juli begnadigt, zwei Tage vor dem Austausch. Er stand nicht auf der Liste, bis er plötzlich darauf stand.
+> 그 구급대원이 세도프 씨의 숨 쉬는 명단의 좋은 예예요. 리코 크리거는 6월에 민스크에서 사형 선고를 받고 7월 30일에 사면됐어요. 교환 이틀 전에요. 명단에 없다가 갑자기 올라간 거죠.
+ALBERS: Er kam zu uns, Herr Ostrowski. Das ist der Unterschied. Damals hat die Liste in unsere Richtung geatmet.
+> 그 사람은 우리 쪽으로 왔잖아요, 오스트로프스키 씨. 그게 차이예요. 그땐 명단이 우리 쪽으로 숨을 쉬었죠.
+FALK: Und am Abend hat der Präsident Krassikow auf dem Rollfeld in Wnukowo umarmt, vor allen Kameras. Moskau hat der Welt gezeigt: Wir holen unsere Leute heim, ganz gleich, was sie getan haben. Das ist die Lektion, die Sedov aus Ankara gezogen hat, nicht die mit den sechzehn.
+> 그리고 그날 밤 대통령이 브누코보 활주로에서 크라시코프를 끌어안았죠. 온 카메라 앞에서요. 모스크바는 세상에 보여 줬어요. 무슨 짓을 했든 우리 사람은 집으로 데려온다. 세도프가 앙카라에서 얻은 교훈은 그거지, 열여섯 명 얘기가 아닙니다.
+LEHNERT: Was schlagen Sie vor?
+> 그래서 제안하는 게 뭡니까?
+FALK: Dass wir heute Nacht entscheiden, was wir tun, wenn um fünf ein dritter Name kommt. Nicht erst um fünf.
+> 다섯 시에 세 번째 이름이 오면 어떻게 할지 오늘 밤에 정하자는 겁니다. 다섯 시가 돼서야 정하지 말고요.
+ALBERS: Ich habe es Ihnen gesagt: niemand.
+> 말했잖아요. 아무도 안 풀어 준다고.
+LEHNERT: Frau Albers, wenn um fünf Uhr ein Bus mit zwei kranken Deutschen auf der Potsdamer Seite steht, entscheidet nicht Ihr Ministerium, sondern die Kanzlerin. Und sie entscheidet ungern unter Kameras.
+> 알베르스 차관, 다섯 시에 아픈 독일인 둘을 태운 버스가 포츠담 쪽에 서 있으면 결정은 법무부가 아니라 총리가 합니다. 그리고 총리는 카메라 앞에서 결정하는 걸 싫어하시고요.
+JAN: Konstantin … eine Mail vom Lagezentrum, dreiundzwanzig Uhr achtundvierzig. Eine Verbalnote der russischen Botschaft: «Ergänzung der Liste».
+> 콘스탄틴… 상황실 메일이에요. 23시 48분. 러시아 대사관 외교 각서, «명단 보충».
+LEHNERT: Lesen Sie vor.
+> 읽어 보세요.
+JAN: «Seitens der Bundesrepublik Deutschland werden überstellt: Bystrow, Arkadi. Arsenjew, Gleb Igorewitsch, geboren 1978.» Sonst nichts, keine Begründung.
+> «독일연방공화국 측에서 인도할 자: 비스트로프, 아르카디. 아르세니예프, 글레프 이고레비치, 1978년생.» 그게 다예요. 이유도 없어요.
+ALBERS: Arsenjew? In keiner deutschen Anstalt sitzt ein Arsenjew. Das sage ich Ihnen ohne Nachschlagen, die Liste der russischen Häftlinge liegt seit Wochen auf meinem Tisch.
+> 아르세니예프? 독일 교도소 어디에도 아르세니예프는 없어요. 찾아볼 필요도 없어요. 러시아인 수감자 명단이 몇 주째 제 책상 위에 있으니까.
+LEHNERT: Dann ist es ein Fehler oder ein Spiel. Herr Falk, Sie haben das Telefon, das Moskau versteht.
+> 그럼 실수거나 장난이죠. 팔크 씨, 모스크바가 알아듣는 전화기는 당신한테 있잖아요.
+FALK: Er geht nicht ran. … Eine Nachricht: «Fünf Uhr, Mitte der Brücke. Ich erkläre Ihnen alles. Bringen Sie Ihre Freundin aus der Chausseestraße mit.»
+> 안 받네요. …메시지가 왔습니다. «다섯 시, 다리 한가운데. 다 설명해 드리죠. 샤우세 거리의 그 친구분도 데려오십시오.»
+LEHNERT: Chausseestraße? Was weiß Sedov über die Chausseestraße, Herr Falk?
+> 샤우세 거리? 세도프가 샤우세 거리에 대해 뭘 압니까, 팔크 씨?
+FALK: Mehr, als ich ihm erzählt habe.
+> 제가 말해 준 것보다 많이요.
+
+== 장면 3 — DIE MITTE DER BRÜCKE
+JAN: Vier Uhr achtundfünfzig. Drüben vor der Villa Schöningen stehen zwei Busse mit zugezogenen Vorhängen, und in der Mitte steht ein Mann im Mantel, ganz allein auf der Markierung.
+> 4시 58분이에요. 건너편 쇠닝겐 저택 앞에 커튼 친 버스 두 대가 서 있고, 한가운데 표시선 위에 외투 입은 남자가 혼자 서 있어요.
+MIRA: Er hat mich eingeladen, also komme ich mit. Du redest, ich höre zu.
+> 날 초대했으니까 같이 가. 넌 말하고, 난 들을게.
+SEDOV: Guten Morgen, Herr Falk. Und Frau Doktor Schönfeld, endlich. Wir hören einander seit Jahren, aber gesehen haben wir uns noch nie.
+> 좋은 아침입니다, 팔크 씨. 그리고 쇤펠트 박사님, 드디어 뵙는군요. 우린 몇 년째 서로를 듣기만 했지 얼굴을 본 적은 없었죠.
+FALK: Sie haben mir eine Erklärung versprochen. Wer ist Gleb Arsenjew?
+> 설명해 주겠다고 하셨죠. 글레프 아르세니예프가 누굽니까?
+SEDOV: Ein Landsmann, der seit neun Jahren unter fremdem Namen in Rostock Schiffe abfertigt. Sie kennen ihn als Martin Haller. Er sitzt seit neun Tagen in Moabit.
+> 9년째 남의 이름으로 로스토크에서 배 업무를 보는 동포입니다. 당신들은 마르틴 할러로 알죠. 아흐레째 모아비트에 있고요.
+MIRA: Seine Festnahme ist nicht öffentlich. Der Generalbundesanwalt hat die Pressemitteilung auf unsere Bitte zurückgestellt.
+> 그 사람 체포는 공개되지 않았어요. 연방검찰총장이 우리 요청으로 보도자료를 미뤘죠.
+SEDOV: Ich weiß, Frau Doktor. Und Sie kannten nicht einmal seinen richtigen Namen. Betrachten Sie ihn als mein Geschenk an Ihre Akte, den Namen, nicht den Mann. Den Mann nehme ich mit.
+> 압니다, 박사님. 그리고 당신은 그 사람 진짜 이름조차 몰랐죠. 그 이름은 당신 서류철에 드리는 제 선물로 여기십시오. 사람 말고 이름만요. 사람은 제가 데려갑니다.
+FALK: Die Liste ist seit Montag bestätigt, zwei gegen einen. Ein Untersuchungshäftling ist nicht verhandelbar, schon gar nicht um fünf Uhr morgens.
+> 명단은 월요일에 확정됐습니다. 두 명 대 한 명. 미결수는 협상 대상이 아닙니다. 새벽 다섯 시엔 더더욱이요.
+SEDOV: In Ankara war alles verhandelbar, Herr Falk, bis zum Morgen des ersten August. Ihr Land hat dort gelernt: Wir lassen unsere Leute nicht zurück. Nicht die Mörder, nicht die Illegalen, nicht einmal deren Kinder, die erst im Flugzeug erfahren haben, dass sie Russen sind.
+> 앙카라에선 8월 1일 아침까지 모든 게 협상 대상이었습니다, 팔크 씨. 당신 나라는 거기서 배웠죠. 우린 우리 사람을 두고 가지 않는다. 살인범도, 불법 공작원도, 비행기 안에서야 자기가 러시아인이라는 걸 안 그 아이들조차도.
+FALK: Und wenn wir Nein sagen?
+> 우리가 거절하면요?
+SEDOV: Dann fahren die Busse zurück zum Flughafen. Herr Behrendt hat Insulin für genau einen Tag dabei. Man erzählt sich übrigens, auf einer frühen Fassung der Liste von Ankara habe ein Name gestanden, der im Februar davor in einem Lager hinter dem Polarkreis erloschen ist. Listen atmen, Herr Falk. Manchmal hören sie auch damit auf.
+> 그럼 버스는 공항으로 돌아갑니다. 베렌트 씨는 딱 하루치 인슐린을 갖고 있고요. 그런데 이런 얘기가 있더군요. 앙카라 명단의 초기 판본에 이름이 하나 있었는데, 그해 2월 북극권 너머 수용소에서 꺼져 버렸다고. 명단은 숨을 쉽니다, 팔크 씨. 가끔은 숨을 멈추기도 하고요.
+FALK: Das ist eine Drohung gegen einen kranken Mann, und ich werde sie wörtlich weitergeben.
+> 그건 아픈 사람을 두고 하는 협박입니다. 한 마디도 빼지 않고 그대로 전하겠습니다.
+SEDOV: Geben Sie lieber das hier weiter. … Hören Sie: «Elf Abgeordnete, die meisten aus dem Osten.» Ihre Stimme, Herr Falk, an dieser Brücke, am ersten April. Ein Aprilscherz, nicht wahr?
+> 차라리 이걸 전하시죠. …들어 보세요. «의원 열한 명, 대부분 동부 출신.» 당신 목소리입니다, 팔크 씨. 이 다리에서, 4월 1일에. 만우절 농담이었죠?
+FALK: Sie haben mich aufgenommen.
+> 녹음하셨군요.
+SEDOV: Jedes Mal. Am sowjetischen Ehrenmal, hier auf dieser Brücke, über das Telefon Ihres Vaters. Was die Kanzlerin nicht unterschreibt, wie viele Abgeordnete wackeln. Ein Sonderbeauftragter, der einem russischen Diplomaten wochenlang Interna erzählt. Wie, glauben Sie, nennt ein Ausschuss so etwas?
+> 매번요. 소련 전쟁기념비에서, 바로 이 다리에서, 아버님 전화로. 총리가 뭘 서명하지 않을지, 의원 몇 명이 흔들리는지. 특별대표가 러시아 외교관한테 몇 주 동안 내부 사정을 털어놓는다. 위원회가 그걸 뭐라고 부를 것 같습니까?
+MIRA: Er hat im Auftrag gehandelt.
+> 그 사람은 지시를 받고 한 거예요.
+SEDOV: In wessen Auftrag, Frau Doktor? Zeigen Sie mir das Papier. … Sehen Sie, Herr Falk, das ist das Schöne an Ihrem «Gegenlicht»: Wer gegen das Licht schaut, sieht nur Umrisse. Und ein Umriss sieht aus wie ein Verräter.
+> 누구 지시입니까, 박사님? 그 서류를 보여 주시죠. …보세요, 팔크 씨. 그게 당신네 «게겐리히트»의 묘미입니다. 역광으로 보면 윤곽만 보이죠. 그리고 윤곽은 배신자처럼 보입니다.
+FALK: Woher haben Sie diesen Namen?
+> 그 이름은 어디서 났습니까?
+SEDOV: Aus derselben Quelle wie die Bestätigung der Elf. Von jemandem, der Ihre Zahlen vor Ihrem Referenten kennt. Sie haben fünfundfünfzig Minuten, Herr Falk. Um sechs steht Herr Haller hier, oder um sieben steht Herr Behrendt wieder auf der Rollbahn.
+> 열하나를 확인해 준 사람과 같은 출처에서요. 당신 숫자를 당신 보좌관보다 먼저 아는 사람. 55분 드리죠, 팔크 씨. 여섯 시에 할러 씨가 여기 서 있든지, 일곱 시에 베렌트 씨가 다시 활주로에 서 있든지.
+FALK: Gegenlicht. Du hast mir im März gesagt, den Namen kennen zwei Menschen, der Präsident und du.
+> 게겐리히트. 3월에 네가 그랬지. 그 이름을 아는 사람은 둘이라고. 원장이랑 너.
+MIRA: Drei. Dich hast du hoffentlich mitgezählt.
+> 셋이지. 너도 세었기를 바라.
+FALK: Ich habe ihn nicht einmal meiner Frau gesagt. Den Namen nicht.
+> 난 아내한테도 말 안 했어. 그 이름만큼은.
+MIRA: Dann bleibt der Präsident, oder jemand, der seine Berichte lesen muss. Ich habe dich gewarnt, Konstantin: Das sind mehr, als dir lieb ist.
+> 그럼 원장이 남지. 아니면 원장 보고서를 읽어야 하는 누군가. 경고했잖아, 콘스탄틴. 네 마음에 들 것보다 많다고.
+FALK: Oder jemand, der die Zusammenfassungen schreibt.
+> 아니면 요약본을 쓰는 누군가.
+MIRA: Wenn du das glaubst, dann sag es jetzt, hier, und ich gehe. Den Rest kannst du dann mit Lehnert allein machen.
+> 그렇게 믿으면 지금 여기서 말해. 그럼 난 갈게. 나머진 레너트랑 둘이 하면 돼.
+FALK: Vor sechs Uhr glaube ich gar nichts mehr. Jan, ruf Lehnert an. Und dann Frau Albers, sie steht drüben bei den Polizeiwagen.
+> 여섯 시 전엔 아무것도 안 믿어. 얀, 레너트한테 전화해. 그다음엔 알베르스 차관. 저쪽 경찰차 옆에 있어.
+
+== 절정 — FÜNFUNDFÜNFZIG MINUTEN
+LEHNERT: Haller? Der Mann aus Warnemünde, der seit Mittwoch letzter Woche in Moabit sitzt? Woher kennt Sedov eine Festnahme, die nicht einmal in der Zeitung stand?
+> 할러요? 지난주 수요일부터 모아비트에 있는 바르네뮌데 그 남자? 신문에도 안 난 체포를 세도프가 어떻게 압니까?
+FALK: Das fragt sich der BND gerade auch. Sedov will ihn um sechs auf der Brücke, sonst fahren die Busse zurück. Und Behrendt hat Insulin für einen Tag.
+> BND도 지금 그걸 자문하고 있습니다. 세도프는 여섯 시에 그 사람을 다리 위에 세우랍니다. 아니면 버스가 돌아가고요. 베렌트는 인슐린이 하루치뿐입니다.
+LEHNERT: Ich rufe die Kanzlerin an. Was empfehlen Sie, Herr Falk? Sagen Sie es so, dass ich es in einem Satz weitergeben kann.
+> 총리께 전화하겠습니다. 팔크 씨 권고는 뭡니까? 한 문장으로 전할 수 있게 말해 주세요.
+MIRA: Bevor er empfiehlt: Haller ist der einzige Mensch, der weiß, wer ihm die Seite neun gegeben hat. Wenn er heute nach Moskau fliegt, fliegt die Antwort mit.
+> 권고하기 전에요. 할러는 누가 9쪽을 줬는지 아는 유일한 사람이에요. 오늘 그 사람이 모스크바로 날아가면 그 답도 같이 날아가요.
+FALK: Und Behrendt ist der einzige Mensch, dem ich etwas versprochen habe, das ich nicht halten kann. Meine Empfehlung: Wir lassen Haller gehen, und die Kanzlerin sagt um sieben, warum.
+> 그리고 베렌트는 제가 지킬 수 없는 약속을 해 준 유일한 사람입니다. 제 권고는, 할러를 보내고 일곱 시에 총리께서 그 이유를 말씀하시는 겁니다.
+LEHNERT: Ein Satz. Gut. Ich melde mich.
+> 한 문장이군요. 좋습니다. 다시 연락하죠.
+ALBERS: Ich habe mitgehört, Herr Falk, und meine Antwort kennen Sie seit gestern Abend. Haller ist kein Verurteilter, er ist ein Beschuldigter. Für ihn gibt es keinen 456a.
+> 다 들었어요, 팔크 씨. 제 대답은 어젯밤부터 아시잖아요. 할러는 기결수가 아니라 피의자예요. 그 사람한텐 456a조가 없어요.
+FALK: Aber es gibt Paragraf 153d. Bei Staatsschutzsachen kann der Generalbundesanwalt von der Verfolgung absehen, wenn sie der Bundesrepublik einen schweren Nachteil brächte.
+> 하지만 153d조가 있죠. 국가 안보 사건에서 소추가 연방공화국에 중대한 불이익을 가져올 때는 연방검찰총장이 소추를 하지 않을 수 있습니다.
+ALBERS: Sie haben die Strafprozessordnung im Auto gelesen. Ja, es gibt 153d. Und dann muss der Ermittlungsrichter am Bundesgerichtshof um halb sechs morgens den Haftbefehl aufheben, und Moabit muss einen Mann herausgeben, in dessen Tresor die Koordinaten unserer Kabel lagen.
+> 차 안에서 형사소송법을 읽으셨군요. 네, 153d조는 있어요. 그러면 연방대법원 수사판사가 새벽 다섯 시 반에 구속영장을 취소해야 하고, 모아비트는 금고에 우리 케이블 좌표가 들어 있던 남자를 내줘야 하죠.
+FALK: In Ankara hat man einen verurteilten Mörder gehen lassen, um sechzehn Menschen zu holen. Heute lassen wir einen Mann gehen, den noch kein Gericht verurteilt hat, um zwei zu holen.
+> 앙카라에선 열여섯 명을 데려오려고 유죄 판결 받은 살인범을 보냈습니다. 오늘 우린 두 명을 데려오려고 아직 어느 법원도 유죄를 선고하지 않은 사람을 보내는 겁니다.
+ALBERS: In Ankara stand die Liste Wochen vorher fest. Heute erpresst man uns um fünf Uhr morgens auf einer Brücke. Das ist kein Austausch mehr, Herr Falk, das ist Lösegeld.
+> 앙카라에선 명단이 몇 주 전에 정해져 있었어요. 오늘은 새벽 다섯 시에 다리 위에서 협박을 당하고 있죠. 이건 더 이상 교환이 아니에요, 팔크 씨. 몸값이에요.
+FALK: Jeder Austausch ist Lösegeld, Frau Albers. Krieger stand auch erst zwei Tage vorher auf der Liste. Der Unterschied ist nur, ob man es zugibt.
+> 모든 교환은 몸값입니다, 알베르스 차관. 크리거도 이틀 전에야 명단에 올랐어요. 차이는 그걸 인정하느냐뿐입니다.
+ALBERS: Eine Frage, bevor ich meinen Minister wecke: Was hat Sedov gegen Sie in der Hand? Ich habe Elisabeth vor Wochen gefragt, für wen Sie verhandeln. Sie hat gesagt, für das Auswärtige Amt.
+> 장관님 깨우기 전에 하나만 묻죠. 세도프가 당신 약점을 뭘 쥐고 있어요? 몇 주 전에 엘리자베트한테 당신이 누구를 위해 협상하느냐고 물었어요. 외무부를 위해서라고 하더군요.
+FALK: Nichts, was heute Morgen zählt. Heute Morgen zählt nur der Bus.
+> 오늘 아침에 중요한 건 아무것도 없습니다. 오늘 아침엔 버스만 중요해요.
+ALBERS: Das war keine Antwort, das war ein Fahrplan. … Gut. Ich rufe den Minister an und er den Generalbundesanwalt. Aber ich schreibe auf, wer mich darum gebeten hat, mit Uhrzeit: fünf Uhr einundzwanzig.
+> 그건 대답이 아니라 운행표네요. …좋아요. 장관님께 전화할게요. 장관님은 연방검찰총장한테 하실 거고. 하지만 누가 저한테 이걸 부탁했는지 적어 둘 거예요. 시각까지. 5시 21분.
+JAN: Lehnert, Konstantin. Auf Lautsprecher?
+> 레너트예요, 콘스탄틴. 스피커로 할까요?
+LEHNERT: Die Kanzlerin sagt Ja, unter einer Bedingung: Um sieben fällt das Wort «Staatsmord», und über Haller fällt kein Wort, bis der Generalbundesanwalt spricht. Und, Herr Falk, noch etwas. Frau Winter hat mich eben angerufen.
+> 총리께서 승인하셨습니다. 조건 하나. 일곱 시에 «국가 살인»이라는 말은 나오고, 할러에 대해선 연방검찰총장이 말하기 전까지 한마디도 하지 않는다. 그리고 팔크 씨, 하나 더. 빈터 사무차관이 방금 전화했습니다.
+FALK: Um fünf Uhr morgens.
+> 새벽 다섯 시에요.
+LEHNERT: Die Ergänzung kam über Ihr Lagezentrum, sie war wach wie wir alle. Sie fragt, wie Moskau innerhalb von acht Tagen den Namen eines geheimen Untersuchungshäftlings kennt, und wer im Auswärtigen Amt von dieser Festnahme wusste. Sie hat Ihren Namen genannt. Es sei kein Vorwurf, sagt sie, nur eine Aufzählung.
+> 보충 각서가 외무부 상황실로 들어왔으니 그분도 우리처럼 깨어 있었죠. 모스크바가 어떻게 여드레 만에 비공개 미결수 이름을 아느냐, 그리고 외무부에서 그 체포를 누가 알았느냐고 묻더군요. 당신 이름을 댔습니다. 비난이 아니라 그냥 나열이라면서요.
+FALK: Woher weiß Frau Winter, dass ich davon wusste?
+> 제가 그걸 알았다는 걸 빈터 사무차관은 어떻게 압니까?
+LEHNERT: Die Frage habe ich mir auch notiert. Heute holen wir zwei Deutsche nach Hause, morgen reden wir über Aufzählungen. Ende.
+> 저도 그 질문을 적어 뒀습니다. 오늘은 독일인 둘을 집에 데려오고, 나열 얘기는 내일 하죠. 이상.
+MIRA: Fünf Uhr vierunddreißig. Der Ermittlungsrichter hat den Haftbefehl aufgehoben, der Wagen aus Moabit ist unterwegs. Gegenlicht, Konstantin, ist in diesem Augenblick gestorben.
+> 5시 34분. 수사판사가 구속영장을 취소했어. 모아비트에서 차가 출발했고. 게겐리히트는, 콘스탄틴, 지금 이 순간 죽었어.
+FALK: Nicht gestorben, umgedreht. Wir haben Sedov wochenlang falsches Licht gegeben, und er hat es uns zurück ins Gesicht gehalten.
+> 죽은 게 아니야. 뒤집힌 거지. 우린 몇 주 동안 세도프한테 가짜 빛을 비췄고, 그 사람은 그걸 우리 얼굴에 도로 들이댄 거야.
+JAN: Sechs Uhr zwei. Der Wagen aus Moabit ist da. Und drüben gehen die Bustüren auf.
+> 6시 2분이에요. 모아비트에서 차가 왔어요. 그리고 건너편 버스 문이 열려요.
+MIRA: Bystrow zuerst, dann Haller. Sie gehen auf unserer Seite los, wenn die beiden drüben losgehen. Niemand rennt, niemand redet.
+> 비스트로프 먼저, 그다음 할러. 저쪽에서 두 사람이 출발하면 우리 쪽에서도 출발해요. 아무도 뛰지 말고, 아무도 말하지 말고.
+JAN: Kühn stützt sich auf einen Stock. Und Behrendt … Behrendt geht im Zickzack, Konstantin. Wie Scharanski.
+> 퀸은 지팡이를 짚고 있어요. 그리고 베렌트는… 베렌트는 지그재그로 걸어요, 콘스탄틴. 샤란스키처럼요.
+ALBERS: Und Haller dreht sich nicht einmal um. … Sechs Uhr neun. Wir haben unsere zwei.
+> 할러는 뒤도 안 돌아보네요. …6시 9분. 우리 둘을 데려왔어요.
+FALK: Wir haben zwei Deutsche, Frau Albers, und Moskau hat einen Mörder und eine Antwort. Schreiben Sie das auch auf.
+> 우린 독일인 둘을 데려왔고, 알베르스 차관, 모스크바는 살인범 하나랑 답 하나를 가져갔죠. 그것도 적어 두세요.
+
+== 마무리 — ZICKZACK
+BEHRENDT: Sind Sie Herr Falk? Meine Mutter sagt, Sie seien der Mann, der ihr nur eine Sache versprochen hat. Ich habe nichts unterschrieben.
+> 팔크 씨인가요? 어머니 말로는 당신이 딱 한 가지만 약속한 사람이라던데요. 저 아무것도 서명 안 했어요.
+FALK: Ich weiß. Willkommen zurück, Herr Behrendt. Zuerst der Arzt im Wagen, dann Ihre Mutter, dann alles andere.
+> 압니다. 돌아온 걸 환영해요, 베렌트 씨. 먼저 차 안에 있는 의사, 그다음 어머님, 나머진 그다음이에요.
+BEHRENDT: Eine Sache noch, bevor ich sie vergesse. Im Flugzeug saß ein Offizier hinter mir. Wir standen noch in Moskau auf dem Rollfeld, gegen elf Uhr abends Moskauer Zeit, da sagte er auf Russisch: «Für den Österreicher brauchen wir hinten noch einen Platz.»
+> 잊기 전에 하나만요. 비행기에서 제 뒤에 장교 하나가 앉아 있었어요. 아직 모스크바 활주로에 서 있을 때, 모스크바 시간으로 밤 열한 시쯤, 그 사람이 러시아어로 이랬어요. «그 오스트리아인 때문에 뒤에 자리 하나 더 필요하다.»
+FALK: Um elf Moskauer Zeit. Die Ergänzung kam bei uns um dreiundzwanzig Uhr achtundvierzig.
+> 모스크바 시간 열한 시라. 보충 각서는 우리한테 23시 48분에 왔는데.
+JAN: Also fast zwei Stunden vorher. Die letzte Minute war von Anfang an geplant.
+> 그럼 거의 두 시간 전이네요. 그 «마지막 순간»은 처음부터 계획된 거였어요.
+BEHRENDT: Ich bin Historiker, ich schreibe mir Uhrzeiten auf. Deswegen saß ich ja auch in Lefortowo. … Danke, Herr Falk.
+> 전 역사학자라 시간을 적어 둬요. 그래서 레포르토보에도 갔던 거고요. …고마워요, 팔크 씨.
+ELISABETH: Er ist drüben. Ich habe ihn von hier aus gesehen, im Zickzack.
+> 건너왔네. 여기서 봤어. 지그재그로 걷더라.
+FALK: Du bist hergekommen.
+> 여기까지 왔구나.
+ELISABETH: Mit der ersten S-Bahn nach Wannsee und dann zu Fuß. Ruth hat mich gerade gefragt, was Sedov gegen dich in der Hand hat. Ich habe gesagt: Heute Nachmittag weiß es Lehnert. Also weiß es Lehnert heute Nachmittag, Konstantin.
+> 반제행 첫 에스반 타고 와서 걸어왔어. 방금 루트가 세도프가 당신 약점을 뭘 쥐고 있냐고 묻더라. 그래서 말했어. 오늘 오후면 레너트가 안다고. 그러니까 레너트는 오늘 오후에 알게 될 거야, 콘스탄틴.
+FALK: Unsere Frist ist heute um sechs Uhr neun abgelaufen, ich weiß. Ich habe Lehnert um einen Termin gebeten, um drei.
+> 우리 기한은 오늘 6시 9분에 끝났지. 알아. 레너트한테 면담을 청했어. 세 시에.
+ELISABETH: Mit allem? Mit dem Friedhof, den Lieferungen und den Aufnahmen, von denen ich eben in deinem Gesicht gelesen habe?
+> 전부 가지고? 묘지, 넘겨준 것들, 그리고 방금 당신 얼굴에서 읽은 그 녹음까지?
+FALK: Mit allem. Auch mit dem Namen, den ich dir nie gesagt habe. Die Operation heißt «Gegenlicht».
+> 전부. 당신한테 한 번도 말 안 한 이름까지. 그 작전 이름은 «게겐리히트»야.
+ELISABETH: Jetzt hast du ihn mir gesagt, an einer Brücke, um halb acht. Das zählt. … Dein Telefon. Diesmal das richtige.
+> 이제 말했네. 다리에서, 일곱 시 반에. 그건 쳐줄게. …당신 전화. 이번엔 진짜 전화야.
+LEHNERT: Herr Falk, die Kanzlerin hat um sieben gesprochen, das haben Sie gehört. Jetzt hören Sie, was danach kam. Herr Brückner hat seine Anhörung auf Mittwoch vorgezogen. Tagesordnungspunkt eins: «Kontakte des Sonderbeauftragten zur Russischen Botschaft». Als Zeugin geladen ist Frau Winter.
+> 팔크 씨, 총리께서 일곱 시에 말씀하신 건 들으셨죠. 이제 그다음 일을 들으세요. 브뤼크너 의원이 청문회를 수요일로 앞당겼습니다. 안건 1번, «특별대표의 러시아 대사관 접촉». 증인으로 빈터 사무차관이 소환됐고요.
+FALK: Woher hat Brückner das, um sieben Uhr morgens?
+> 브뤼크너는 그걸 어디서 들었죠, 아침 일곱 시에?
+LEHNERT: Das fragt man sich hier auch. Und der Präsident des BND hat um einen Termin bei mir gebeten, heute um zwei. Eine Stunde vor Ihnen, und ohne Sie.
+> 여기서도 그걸 궁금해하고 있습니다. 그리고 BND 원장이 저한테 면담을 청했어요. 오늘 두 시에. 당신보다 한 시간 먼저, 당신 없이.
+FALK: Eine Stunde vor mir.
+> 저보다 한 시간 먼저라.
+LEHNERT: Bringen Sie um drei alles mit, was Sie schriftlich haben, Herr Falk. Alles.
+> 세 시에 서면으로 된 건 전부 가져오세요, 팔크 씨. 전부.
+FALK: Schriftlich habe ich nur, was ich selbst geschrieben habe. Einundzwanzig Seiten, versiegelt, bei einer Anwältin.
+> 서면으로 된 건 제가 직접 쓴 것뿐입니다. 21쪽, 봉인해서, 변호사한테 있습니다.
