@@ -1,0 +1,331 @@
+@part 2
+@ep 4
+@title Die Hand im Spiel
+@title_ko 판 위의 손
+@tagline 판 위의 손 · 새벽 묘지에서 읽힌 감청 기록, 지워진 각주, 그리고 존댓말을 버린 거래
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 3월 넷째 주 금요일 하루. 새벽 다섯 시 반 판코우의 부엌, 여섯 시 인발리덴 묘지, 일곱 시 외무부 팔크 사무실, 아홉 시 사무차관실, 정오 Mira의 차 안, 저녁 여덟 시 판코우
+@cast FALK | 외무부 유럽안보 특별대표 (44)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast MIRA | Dr. Mira Schönfeld · 연방정보원(BND) 연락관 (39)
+@cast VAITKUS | Tomas Vaitkus · 주독 리투아니아 대사 (가상)
+@cast JAN | 팔크의 개인 보좌관 (31)
+@cast WINTER | 외무부 사무차관 (57)
+@cast SEDOV | Viktor Sedov · 주독 러시아 대사관 공사참사관 (56)
+@note ※ 지난 화(넷째 주 목요일), 브뤼셀 50.4호실에서 팔크의 모호한 반 문장 «im Lichte einer gemeinsamen Lagebewertung»은 프랑스의 지지로 살아남았지만, 11쪽 각주 때문에 Vaitkus 대사에게 한 거짓말이 드러났습니다. 리투아니아와 폴란드는 금요일 아침 여덟 시까지 검토 유보를 걸었습니다. 팔크는 Claire에게 «파리가 그 문장을 부탁한 걸로 해 달라»고 청했고, 대가로 «Poker» 핵 훈련 참관 권고서를 금요일에 내기로 했습니다. 협박범의 조건은 금요일 문안 동결 때 문장이 살아 있는 것이고, 기한은 일요일입니다.
+@note ※ 호칭: 팔크와 Elisabeth, Jan은 du를 씁니다(Jan은 한국어로 친근한 존댓말). 팔크는 Winter, Vaitkus, Sedov와 Sie를 씁니다. 팔크와 Mira는 처음엔 Sie를 쓰다가, 정오의 거래 뒤 Mira의 제안으로 du로 바꿉니다(한국어도 그 순간부터 반말). Winter는 «Herr Falk», 팔크는 «Frau Staatssekretärin»이라고 부릅니다.
+@note ※ 표현 초점: abhören(감청하다), Deckname(위장명), Verschlusssache(기밀 문서), Sicherheitsbescheid(보안 인가), Doppelagent(이중간첩), umdrehen(전향시키다), Desinformation(역정보), einseitige Auslegungserklärung(일방적 해석 선언), Schweigeverfahren(침묵 절차), einfrieren(동결하다), Fahrtenbuch(운행 일지), Personalbogen(인사 카드). 접속법 II: «Sie hätten es sowieso in den Drahtberichten gefunden.» / «Die Drohung wäre, wenn ich es heute Mittag in einen Bericht schriebe.» 접속법 I 간접화법: «Paris habe sich Spielraum beim Zeitplan gewünscht, sagte sie.» / «Jan sagt, du seist bei jemandem, der Löcher findet.»
+@history 하인츠 펠페 사건 (1961) — 하인츠 펠페(1918–2008)는 나치 친위대 보안국(SD) 장교 출신으로, 1951년 SD 시절 동료 한스 클레멘스를 통해 소련 KGB에 포섭되었고 같은 해 서독 정보기관인 겔렌 조직에 들어갔습니다. 그는 연방정보원(BND)에서 대소련 방첩 부서 책임자까지 올랐는데, KGB는 그를 승진시키려고 일부러 작은 정보와 «성과»를 흘려 주었습니다. 10년 동안 그는 문서 사진 1만 5천여 장을 넘기고 서방 정보원 약 100명의 정체를 드러낸 것으로 알려져 있습니다. 1961년 1월 미국으로 망명한 폴란드 정보장교 미하우 골레니에프스키의 제보로 의심을 받아 1961년 11월 6일 체포되었고, 1963년 징역 14년을 선고받았습니다. 1969년 서독은 그를 동독에 넘기고 소련·동독에 갇혀 있던 수감자들을 돌려받았으며, 펠페는 동베를린 훔볼트 대학의 범죄학 교수가 되었습니다.
+@history 겔렌 조직 (Organisation Gehlen) — 나치 독일 육군의 대소련 정보 책임자였던 라인하르트 겔렌이 1946년 미군의 지원 아래 세운 정보 조직입니다. 1949년부터 CIA가 관리했고 1956년 4월 1일 연방정보원(BND)이 되었으며, 본부는 뮌헨 근교 풀라흐에 있었습니다. 겔렌은 «러시아를 안다»는 이유로 SS와 SD 출신을 많이 받아들였는데, 바로 그 과거 때문에 이들은 소련과 동독 정보기관의 협박과 포섭에 쉽게 노출되었습니다. 펠페 사건은 겔렌의 명성에 회복하기 어려운 상처를 남겼습니다. BND 본부는 2019년 베를린 쇼세 거리로 옮겨 왔고, 그 바로 옆이 옛 장벽이 지나가던 인발리덴 묘지입니다.
+@preview 2부 5화 — «Gefangenenaustausch»(포로 교환) — Sedov가 내민 «선물»은 러시아에 수감된 독일인 대학원생 Lukas Behrendt다. 그 대가로 Sedov는 독일에서 복역 중인 러시아 암살범을 원한다. 이중간첩으로서의 첫 임무를 받은 팔크는 법무부를 설득하러 나서고, 1962년 글리니커 다리에서 이루어진 파워스–아벨 교환이 협상 테이블에 오른다.
+
+== 도입 — FREITAG, HALB SECHS
+ELISABETH: Du bist seit vier wach. Ich höre es daran, dass die Kaffeemaschine zweimal gelaufen ist.
+> 네 시부터 깨어 있었지. 커피 머신이 두 번 돌아간 소리로 알아.
+FALK: Um acht entscheidet Litauen. Ich wollte vorher wissen, was ich dem Botschafter um sieben sage.
+> 여덟 시에 리투아니아가 결정해. 일곱 시에 대사한테 뭐라고 할지 그 전에 알고 싶었어.
+ELISABETH: Dann weißt du heute mehr als gestern Abend. Gestern um elf hat Claire hier angerufen, auf dem Festnetz. Du warst unter der Dusche.
+> 그럼 어젯밤보단 아는 게 많겠네. 어젯밤 열한 시에 클레르가 집 전화로 전화했어. 당신 샤워하고 있을 때.
+FALK: Was wollte sie?
+> 뭐래?
+ELISABETH: Ich soll dir genau drei Wörter ausrichten: «Erledigt. Winter. Sinngemäß.» Sie fand das sehr komisch. Ich nicht.
+> 정확히 세 단어를 전해 달래. «처리됨. 빈터. 취지상.» 본인은 아주 재밌어하더라. 난 아니었고.
+FALK: Ein Scherz unter Kollegen.
+> 동료끼리 하는 농담이야.
+ELISABETH: Am Montag hast du mir erzählt, Paris habe dich um diesen Halbsatz gebeten. Heute Nacht bestätigt dir Paris, dass es Winter etwas bestätigt hat. Wer um etwas gebeten hat, muss es hinterher nicht bestätigen lassen, Konstantin.
+> 월요일엔 파리가 그 반 문장을 부탁했다고 했지. 그런데 간밤엔 파리가 빈터한테 뭘 확인해 줬다고 당신한테 확인해 주네. 부탁한 쪽은 나중에 확인받을 필요가 없어, 콘스탄틴.
+FALK: … Paris hat um nichts gebeten. Der Satz ist von mir. Ich habe gelogen. Dir, Jan und Winter.
+> …파리는 아무것도 부탁 안 했어. 그 문장은 내 거야. 거짓말했어. 당신한테도, 얀한테도, 빈터한테도.
+ELISABETH: Danke. Das ist das erste Geständnis in dieser Küche, das ich nicht selbst herbeiführen musste. Und warum?
+> 고마워. 이 부엌에서 내가 직접 끌어내지 않아도 된 첫 자백이네. 그래서, 왜?
+FALK: Das sage ich dir am Sonntag. Am Sonntag weiß ich, ob es sich gelohnt hat.
+> 그건 일요일에 말할게. 일요일이면 그럴 만한 일이었는지 알게 돼.
+ELISABETH: Schon wieder ein Datum. Du verschiebst die Wahrheit, wie andere Leute Zahnarzttermine verschieben. … Meine Freundin aus Dresden meldet sich heute. Willst du das auch erst am Sonntag hören?
+> 또 날짜네. 당신은 남들이 치과 예약 미루듯 진실을 미뤄. …드레스덴 친구가 오늘 연락 준대. 그것도 일요일에 들을 거야?
+FALK: Nein. Das will ich sofort.
+> 아니. 그건 바로 듣고 싶어.
+ELISABETH: Dein Diensthandy. Halb sechs. Bei uns klingelt es zu Zeiten, zu denen andere Familien Brötchen holen.
+> 당신 업무 전화. 다섯 시 반. 우리 집은 남들 빵 사러 갈 시간에 전화가 울려.
+MIRA: Schönfeld. Guten Morgen, Herr Falk. Ich wollte doch in Ruhe mit Ihnen reden. Jetzt ist es ruhig. Invalidenfriedhof, Eingang Scharnhorststraße, um sechs.
+> 쇤펠트예요. 좋은 아침이에요, 팔크 씨. 조용히 얘기하고 싶다고 했었죠. 지금이 조용해요. 인발리덴 묘지, 샤른호르스트 거리 입구, 여섯 시.
+FALK: Um sieben sitzt der litauische Botschafter in meinem Büro, um acht entscheidet Vilnius über meinen Text. Hat das nicht Zeit bis Montag?
+> 일곱 시엔 리투아니아 대사가 제 사무실에 앉아 있고, 여덟 시엔 빌뉴스가 제 문안을 결정합니다. 월요일까지 기다릴 수 없습니까?
+MIRA: Am Montag haben Sie vielleicht kein Büro mehr. Es geht um einen Vogel, Herr Falk. Einen großen grauen. Kommen Sie allein.
+> 월요일이면 사무실이 없을지도 몰라요. 새 얘기예요, 팔크 씨. 크고 잿빛인 새. 혼자 오세요.
+FALK: … Ich bin um sechs da. Elisabeth, ich rufe die Fahrbereitschaft, sonst schaffe ich es nicht bis sieben ins Amt.
+> …여섯 시에 가겠습니다. 엘리자베트, 관용차 부를게. 안 그러면 일곱 시까지 외무부에 못 가.
+ELISABETH: Der BND, um sechs, auf einem Friedhof. Zieh den dicken Mantel an. Und am Sonntag will ich nicht nur das Warum hören. Ich will alles.
+> BND랑, 새벽 여섯 시에, 묘지에서라. 두꺼운 외투 입고 가. 그리고 일요일엔 이유만 듣고 싶은 게 아니야. 전부 듣고 싶어.
+
+== 장면 1 — INVALIDENFRIEDHOF
+MIRA: Pünktlich. Kommen Sie, wir gehen ein Stück an der Mauer entlang. Hier lief der Todesstreifen mitten durch die Gräber. Die Grenztruppen haben Grabsteine umgelegt, damit sie freies Schussfeld hatten.
+> 정확하시네요. 이리 오세요, 장벽 따라 좀 걸어요. 여기선 죽음의 띠가 무덤들 한가운데로 지나갔어요. 국경경비대가 사격 시야를 트려고 묘비를 쓰러뜨렸죠.
+FALK: Sie haben mich nicht um sechs Uhr früh bestellt, um mir Stadtgeschichte zu erzählen.
+> 도시 역사 얘기하려고 새벽 여섯 시에 부르신 건 아닐 테고요.
+MIRA: Nein. Aber zehn Minuten von hier steht unsere Zentrale, und ich wollte nicht, dass Sie sie betreten. Wer dort eine Besucherkarte bekommt, steht in einem Register. In Registern lesen inzwischen zu viele mit.
+> 아뇨. 그래도 여기서 10분 거리에 우리 본부가 있는데, 거기 들어오시게 하고 싶지 않았어요. 거기서 방문증을 받으면 등록부에 남거든요. 요즘은 등록부를 같이 읽는 사람이 너무 많아요.
+FALK: Am Telefon sprachen Sie von einem großen grauen Vogel.
+> 전화로 크고 잿빛인 새라고 하셨죠.
+MIRA: Ich lese Ihnen etwas vor. Mittwochnacht, dreiundzwanzig Uhr vierzig, eine Verbindung aus der russischen Botschaft Unter den Linden nach Moskau. Die Verschlüsselung war gut, aber nicht gut genug. Der Sprecher ist Viktor Sedov.
+> 뭘 좀 읽어 드릴게요. 수요일 밤 열한 시 사십 분, 운터 덴 린덴의 러시아 대사관에서 모스크바로 연결된 통신이에요. 암호화는 괜찮았지만 충분하진 않았죠. 화자는 빅토르 세도프.
+FALK: Ich höre.
+> 듣고 있습니다.
+MIRA: «Der Kranich hält still. Der Sohn schreibt, was wir brauchen, nur schöner. Der Sonntag entscheidet.» Und gestern Abend, kurz nach acht, derselbe Sprecher: «Die Französin fragt zu viel. Er hat Nein gesagt. Gut.»
+> «두루미는 가만히 있다. 아들은 우리가 필요한 걸 쓴다, 좀 더 예쁘게. 일요일에 결판난다.» 그리고 어제 저녁 여덟 시 조금 넘어 같은 화자. «프랑스 여자가 너무 많이 묻는다. 그는 아니라고 했다. 좋다.»
+FALK: … Seit wann wissen Sie, wer der Kranich ist?
+> …두루미가 누군지 언제부터 아셨습니까?
+MIRA: Seit Mittwochmittag. Wir haben das Stasi-Unterlagen-Archiv gefragt, ob in den letzten Wochen jemand eine Akte mit diesem Decknamen angefordert hat. Die Antwort kam nach vier Stunden. Ihr Vater, Herr Falk. Verpflichtungserklärung vom Mai 1979.
+> 수요일 정오부터요. 슈타지 문서 기록원에 최근 몇 주 사이 그 위장명 파일을 요청한 사람이 있었는지 물었어요. 네 시간 만에 답이 왔죠. 당신 아버님이에요, 팔크 씨. 1979년 5월 서약서.
+FALK: Wer hat sie angefordert?
+> 누가 요청했습니까?
+MIRA: Eine Behörde. Ein ordentliches Ersuchen mit einem Aktenzeichen, das es nicht gibt. Das Archiv hat geliefert, weil der Briefkopf echt aussah. Wessen Briefkopf, sage ich Ihnen, wenn wir Partner sind.
+> 어느 기관이요. 정식 요청서에, 존재하지 않는 사건 번호를 달아서. 서식이 진짜처럼 보여서 기록원이 넘겨줬죠. 누구 서식이었는지는 우리가 파트너가 되면 말씀드릴게요.
+MIRA: Zuerst die schlechte Nachricht. Sie werden seit einer Woche erpresst und haben es nicht gemeldet. Ein Sonderbeauftragter mit einem Sicherheitsbescheid der höchsten Stufe, der einen Erpressungsversuch verschweigt, verliert diesen Bescheid. Nicht in einem Monat. Am Montag.
+> 그 전에 나쁜 소식부터. 당신은 일주일째 협박을 받으면서 신고하지 않았어요. 최고 등급 보안 인가를 가진 특별대표가 협박 시도를 숨기면 인가를 잃어요. 한 달 뒤가 아니라 월요일에.
+FALK: Ist das eine Drohung, Frau Schönfeld?
+> 지금 협박하시는 겁니까, 쇤펠트 박사?
+MIRA: Das ist das Gesetz. Die Drohung wäre, wenn ich es heute Mittag in einen Bericht schriebe. Ich habe es noch nicht geschrieben.
+> 그건 법이죠. 협박이라면 오늘 정오에 그걸 보고서에 쓰는 거겠죠. 전 아직 안 썼어요.
+FALK: Was wollen Sie?
+> 원하는 게 뭡니까?
+MIRA: Kennen Sie Heinz Felfe?
+> 하인츠 펠페 아세요?
+FALK: Den Mann, der zehn Jahre lang in Pullach für Moskau gearbeitet hat. Er leitete beim BND die Gegenspionage gegen die Sowjetunion und war selbst Agent des KGB.
+> 풀라흐에서 10년 동안 모스크바를 위해 일한 사람이죠. BND에서 대소련 방첩을 이끌었는데 본인이 KGB 요원이었던.
+MIRA: Ein ehemaliger SD-Offizier. Der KGB hat ihn 1951 angeworben, über einen alten SD-Kameraden, und im selben Jahr hat ihn die Organisation Gehlen eingestellt. Gehlen nahm Dutzende solcher Männer, weil sie den Osten kannten. Moskau wusste genau, wer sie waren, und niemanden erpresst man leichter als einen Mann mit Vergangenheit.
+> 전직 SD 장교예요. KGB가 1951년에 SD 시절 옛 동료를 통해 포섭했고, 같은 해 겔렌 조직이 그를 채용했죠. 겔렌은 동쪽을 안다는 이유로 그런 사람을 수십 명 받았어요. 모스크바는 그들이 누군지 정확히 알았고요. 과거가 있는 사람만큼 협박하기 쉬운 사람은 없어요.
+FALK: Sie vergleichen meinen Vater mit einem SS-Mann.
+> 우리 아버지를 SS 대원과 비교하시는 겁니까?
+MIRA: Ich vergleiche die Methode, nicht die Männer. Und das Interessante an Felfe ist nicht, dass er ein Verräter war, sondern wie Moskau ihn aufgebaut hat. Sie haben ihm kleine Agenten geopfert und echte Erfolge geschenkt, damit er in Pullach glänzt und aufsteigt.
+> 방법을 비교하는 거지 사람을 비교하는 게 아니에요. 그리고 펠페에게서 흥미로운 건 그가 배신자였다는 게 아니라, 모스크바가 그를 어떻게 키웠느냐예요. 자잘한 요원들을 희생시키고 진짜 성과를 선물해서 풀라흐에서 빛나고 승진하게 했죠.
+FALK: Bis 1961. Ein polnischer Geheimdienstoffizier lief zu den Amerikanern über und brachte Hinweise mit, und am 6. November klickten die Handschellen. Vierzehn Jahre Zuchthaus.
+> 1961년까지였죠. 폴란드 정보장교가 미국 쪽으로 넘어가면서 단서를 가져왔고, 11월 6일에 수갑이 채워졌어요. 징역 14년.
+MIRA: Von denen er keine acht abgesessen hat. 1969 hat Bonn ihn gegen Häftlinge im Osten ausgetauscht, und in Ost-Berlin wurde er Professor für Kriminalistik an der Humboldt-Universität. … Ich will Felfe umdrehen, Herr Falk. Sedov glaubt, er habe einen Mann im Auswärtigen Amt, der schreibt, was Moskau braucht. Lassen wir ihn das glauben.
+> 그중 8년도 못 채웠어요. 1969년에 본 정부가 동쪽에 갇힌 수감자들과 그를 맞바꿨고, 동베를린에서 훔볼트 대학 범죄학 교수가 됐죠. …전 펠페를 뒤집고 싶어요, 팔크 씨. 세도프는 외무부에 모스크바가 필요한 걸 써 주는 사람이 있다고 믿어요. 그렇게 믿게 둡시다.
+FALK: Sie wollen, dass ich für Sedov arbeite.
+> 제가 세도프를 위해 일하길 바라시는군요.
+MIRA: Ich will, dass Sedov das glaubt. Wenn er sich meldet, und er wird sich melden, nehmen Sie ab. Sie geben ihm, was wir Ihnen geben: kleine echte Dinge, damit er Ihnen die großen falschen glaubt. Wie bei Felfe, nur in die andere Richtung.
+> 세도프가 그렇게 믿길 바라는 거죠. 그가 연락하면, 분명 할 거예요, 받으세요. 그리고 우리가 드리는 걸 그에게 주세요. 작은 진짜들. 그래야 큰 가짜를 믿으니까. 펠페 때처럼요. 방향만 반대로.
+FALK: Ein Doppelagent. Ich bin Diplomat, Frau Schönfeld. Vor drei Wochen wollten Sie mir ein Mikrofon anstecken, und ich habe Nein gesagt.
+> 이중간첩이라. 전 외교관입니다, 쇤펠트 박사. 3주 전엔 저한테 마이크를 달아 주려 하셨고 전 거절했죠.
+MIRA: Vor drei Wochen wurden Sie noch nicht erpresst. Heute stehen Sie längst in Sedovs Notizbuch. Ich biete Ihnen nur an, dass jemand mitliest, was er hineinschreibt.
+> 3주 전엔 협박받기 전이었죠. 오늘 당신은 벌써 세도프 수첩에 올라 있어요. 전 그저 그가 거기 뭘 적는지 누군가 같이 읽어 주겠다는 거예요.
+FALK: Und was bekomme ich dafür?
+> 그 대가로 저는 뭘 받습니까?
+MIRA: Die Akte verschwindet. Ihre Erpressung wird Teil einer laufenden Operation, Verschlusssache, und eine Operation ist kein Sicherheitsrisiko, sondern ein Auftrag. Ihr Bescheid bleibt, Ihr Amt bleibt. Und wer mit falschem Aktenzeichen im Archiv bestellt hat, bekommt dort nichts mehr.
+> 파일이 사라집니다. 당신이 받는 협박은 진행 중인 작전의 일부가 되고, 기밀이 되죠. 작전은 보안 위험이 아니라 임무예요. 인가도 지키고 자리도 지키고요. 그리고 가짜 사건 번호로 기록원에 주문한 자는 거기서 더는 아무것도 못 받아요.
+FALK: Und der Montag? Die Zeitung, die nicht wartet?
+> 월요일은요? 기다리지 않는 신문은?
+MIRA: Eine gezogene Waffe ist eine verbrauchte Waffe. Solange Sedov glaubt, dass Sie ihm nützen, bleibt die Akte in seiner Schublade. Wir sorgen dafür, dass er es glaubt. … Bedingung eins: Ihr Satz überlebt heute acht Uhr. Fällt er, hat Sedov keinen Grund mehr, Ihnen zu glauben, und ich habe keine Operation.
+> 뽑은 무기는 다 쓴 무기예요. 세도프가 당신이 쓸모 있다고 믿는 한 파일은 그의 서랍에 남아요. 그렇게 믿게 하는 건 우리 몫이고요. …첫째 조건. 당신 문장이 오늘 여덟 시를 넘겨 살아남아야 해요. 그 문장이 무너지면 세도프는 당신을 믿을 이유가 없고, 저는 작전이 없어요.
+FALK: Vilnius will «spätestens». Gebe ich es, ist der Satz tot. Gebe ich es nicht, verliere ich Litauen.
+> 빌뉴스는 «늦어도»를 원합니다. 주면 문장이 죽고, 안 주면 리투아니아를 잃죠.
+MIRA: Sie sind der Unterhändler, nicht ich. Ihre Antwort will ich um zwölf, wenn der Text eingefroren ist. Und, Herr Falk: Frau Winter weiß von diesem Gespräch nichts. Dabei bleibt es.
+> 협상가는 당신이지 제가 아니에요. 열두 시, 문안이 동결되면 답을 듣죠. 그리고 팔크 씨, 빈터 차관은 이 대화를 몰라요. 앞으로도 그럴 거고요.
+FALK: Eine letzte Frage. Wie hat der Mann am Telefon erfahren, was Claire mich gestern auf dem Gang gefragt hat?
+> 마지막으로 하나만. 전화 속 그 남자는 어제 클레르가 복도에서 저한테 물은 걸 어떻게 알았습니까?
+MIRA: Madame Duval hat gestern um dreizehn Uhr zehn einen Bericht nach Paris geschickt, über eine Leitung, die offenbar nicht nur Paris liest. Erzählen Sie Ihrer Freundin nicht mehr als nötig. Sie schreibt nicht nur für ihr Ministerium.
+> 뒤발 국장이 어제 오후 한 시 십 분에 파리로 보고서를 보냈어요. 파리만 읽는 게 아닌 게 분명한 회선으로요. 그 친구한텐 필요 이상 말하지 마세요. 그 사람은 자기 부처를 위해서만 쓰는 게 아니니까.
+
+== 장면 2 — SIEBEN UHR, DER BOTSCHAFTER
+VAITKUS: Herr Falk, ich bin um sieben gekommen, weil ich um acht nach Vilnius antworten muss. Und weil ich Ihnen die Frage selbst stellen wollte, nicht über eine Notiz an Herrn Baranauskas.
+> 팔크 대표님, 일곱 시에 온 건 여덟 시에 빌뉴스에 답해야 해서입니다. 그리고 바라나우스카스 대사 앞 메모 말고 이 질문은 직접 드리고 싶었고요.
+FALK: Fragen Sie.
+> 물으십시오.
+VAITKUS: Vor drei Wochen saß ich in meiner Botschaft und habe Sie gefragt, ob es im internen Text eine Zeile über Litauen gibt, die Litauen nicht kennt. Sie haben ohne Zögern Nein gesagt. Gestern habe ich die Fußnote auf Seite elf gelesen. Ich stelle Ihnen heute dieselbe Frage.
+> 3주 전 저희 대사관에서 여쭈었죠. 내부 문안에 리투아니아가 모르는 리투아니아 관련 줄이 있느냐고. 대표님은 망설임 없이 없다고 하셨습니다. 어제 11쪽 각주를 읽었습니다. 오늘 같은 질문을 드립니다.
+FALK: Ja, es gab eine. Ich habe Sie damals belogen, Herr Botschafter. Nicht über den Vertrag, sondern über das, was wir uns intern vorbehalten hatten.
+> 네, 있었습니다. 그때 대사님께 거짓말했습니다. 조약에 대해서가 아니라 저희가 내부적으로 남겨 둔 것에 대해서요.
+VAITKUS: … Damit habe ich nicht gerechnet. Ich hatte mich auf eine Stunde Juristendeutsch eingestellt. «Eine Fußnote ist kein Vertragstext.»
+> …그 대답은 예상 못 했습니다. 한 시간짜리 법률 독일어를 각오하고 왔거든요. «각주는 조약 본문이 아니다.»
+FALK: Das habe ich gestern in Brüssel gesagt. Es war die schwächste Stunde meiner Woche.
+> 그건 어제 브뤼셀에서 했던 말이죠. 이번 주에서 제일 못난 시간이었습니다.
+VAITKUS: Warum haben Sie gelogen?
+> 왜 거짓말하셨습니까?
+FALK: Weil Ihre Regierung an jenem Tag kurz davor war, Sie abzuziehen, und weil ich glaubte, eine Fußnote sei kleiner als ein Bündnis. Das war arrogant.
+> 그날 대사님 정부가 대사님을 철수시키기 직전이었고, 각주 하나가 동맹보다 작다고 믿었으니까요. 오만했습니다.
+VAITKUS: In meinem Land waren kleine Dinge nie klein. Mein Vater hat im Januar 1991 Sandsäcke vor das Parlament in Vilnius getragen, und er sagt bis heute: Ein Versprechen der Großen ist so viel wert wie die Unterschrift darunter. Was steht heute in dieser Fußnote?
+> 저희 나라에선 작은 게 작았던 적이 없습니다. 제 아버지는 1991년 1월 빌뉴스 의회 앞에 모래주머니를 날랐는데, 지금도 그러십니다. 큰 나라의 약속은 그 밑에 있는 서명만큼의 값어치라고. 지금 그 각주엔 뭐라고 쓰여 있습니까?
+FALK: Nichts mehr. Ich habe sie um sechs Uhr fünfzig aus dem Wagen streichen lassen. Hier ist der Vermerk: In allen internen Fassungen entfällt die Rückfallposition 2029, auch in dem Exemplar beim Bundestag. Unterschrieben von mir.
+> 이제 아무것도요. 여섯 시 오십 분에 차 안에서 삭제하게 했습니다. 여기 메모가 있습니다. 모든 내부 판본에서 2029년 후퇴 가능선은 삭제된다. 연방의회에 있는 판본도 포함해서. 제 서명입니다.
+VAITKUS: Ihre Unterschrift. Nicht die der Staatssekretärin.
+> 대표님 서명이군요. 사무차관 서명이 아니라.
+FALK: Die Fußnote stand in meinem Text, also streiche ich sie. Die Staatssekretärin bekommt eine Kopie.
+> 각주가 제 문안에 있었으니 제가 지우는 겁니다. 사무차관께는 사본이 가고요.
+VAITKUS: Gut. Aber die Fußnote ist nicht mehr das Problem, Herr Falk. Das Problem ist Ihr Licht. Vilnius will «spätestens 31. Dezember 2027», sonst bleibt der Vorbehalt. Und Herr Nowak hat mir gestern Abend gesagt, Polen folge uns, in welche Richtung auch immer.
+> 좋습니다. 하지만 이제 각주는 문제가 아닙니다, 팔크 대표님. 문제는 대표님의 불빛이죠. 빌뉴스는 «늦어도 2027년 12월 31일»을 원합니다. 아니면 유보는 그대로고요. 그리고 노바크 차관이 어젯밤 그러더군요. 폴란드는 어느 쪽이든 우리를 따르겠다고.
+FALK: Schreibe ich «spätestens» in den gemeinsamen Text, legt Paris um neun einen neuen Vorbehalt ein, und heute friert gar nichts ein. Dann streiten wir im Juli noch über Kommas, und die Kanzlerin fliegt ohne Vertrag zum Gipfel.
+> 공동 문안에 «늦어도»를 쓰면 파리가 아홉 시에 새 유보를 겁니다. 그럼 오늘은 아무것도 동결되지 않죠. 7월에도 쉼표 갖고 싸우고 있을 거고, 총리는 조약 없이 정상회의에 날아가게 됩니다.
+VAITKUS: Das ist Ihr Problem mit Paris, nicht meins.
+> 그건 대표님과 파리의 문제지 제 문제가 아닙니다.
+FALK: Dann machen wir daraus ein deutsch-litauisches. Der Satz bleibt für alle sechs, wie er ist. Dazu gibt Deutschland bei der Unterzeichnung eine einseitige Auslegungserklärung ab, die dem Vertrag beigefügt wird.
+> 그럼 그걸 독일–리투아니아 문제로 만들죠. 문장은 여섯 나라 모두에게 그대로 둡니다. 대신 독일이 서명할 때 일방적 해석 선언을 내고, 그걸 조약에 첨부합니다.
+VAITKUS: Mit welchem Inhalt?
+> 무슨 내용으로요?
+FALK: «Die Bundesrepublik Deutschland wird ihren Beitrag zur gemeinsamen Lagebewertung spätestens zum 31. Dezember 2027 abschließen und die Lagebewertung nicht zur Verzögerung der Stationierung heranziehen.»
+> «독일연방공화국은 공동 정세 평가에 대한 자국의 몫을 늦어도 2027년 12월 31일까지 마치며, 정세 평가를 주둔 지연의 근거로 삼지 않는다.»
+VAITKUS: Ihr «spätestens». Nur für Sie.
+> 대표님의 «늦어도»군요. 대표님 나라에만 적용되는.
+FALK: Für den, der die Brigade stellt. Ohne deutsche Soldaten gibt es nichts zu verzögern. Wenn Berlin sich selbst bindet, hält das Licht nur noch den auf, der ohnehin niemanden schickt.
+> 여단을 보내는 나라에 적용되는 거죠. 독일 병력이 없으면 지연시킬 것도 없습니다. 베를린이 스스로를 묶으면, 그 불빛은 어차피 아무도 안 보내는 나라만 붙잡게 됩니다.
+VAITKUS: Eine einseitige Erklärung bindet nur den, der sie abgibt.
+> 일방적 선언은 그걸 낸 나라만 묶습니다.
+FALK: Genau deshalb biete ich sie an. Sie bindet den Einzigen, der Soldaten nach Litauen schickt. Und Paris hat gestern selbst erklärt, der Satz achte die Souveränität aller Vertragsparteien. Auch unsere.
+> 바로 그래서 드리는 겁니다. 리투아니아에 병력을 보내는 유일한 나라를 묶으니까요. 그리고 파리는 어제 스스로 그 문장이 모든 체약 당사국의 주권을 존중한다고 했습니다. 우리 주권도요.
+VAITKUS: Und wer unterschreibt? Ihr Wort hatte ich schon einmal.
+> 서명은 누가 합니까? 대표님 말씀은 이미 한 번 받아 봤는데요.
+FALK: Diesmal nicht mein Wort, sondern die Bundesregierung. Die Staatssekretärin zeichnet bis zwölf, vor dem Einfrieren. Wenn nicht, dürfen Sie mich in Brüssel öffentlich einen Lügner nennen.
+> 이번엔 제 말이 아니라 연방정부입니다. 사무차관이 열두 시 전, 동결 전까지 서명합니다. 안 되면 브뤼셀에서 저를 공개적으로 거짓말쟁이라고 부르셔도 됩니다.
+VAITKUS: Das wäre keine Neuigkeit mehr, Herr Falk. Das haben Sie mir heute selbst gesagt. … Ehrlich gesagt war es genau das, was Vilnius umstimmen kann. Ich schreibe: Litauen hebt den Vorbehalt um acht auf, vorbehaltlich der Erklärung bis zwölf. Und ich rufe Nowak an.
+> 그건 이제 새 소식도 아니죠, 팔크 대표님. 오늘 직접 말씀하셨으니까. …솔직히 빌뉴스 마음을 돌릴 수 있는 건 바로 그거였습니다. 이렇게 쓰겠습니다. 리투아니아는 여덟 시에 유보를 해제한다, 단 열두 시까지 선언이 나온다는 조건으로. 그리고 노바크한테 전화하죠.
+VAITKUS: Noch eine Frage, nicht für Vilnius. Wer hat diese Fußnote eigentlich geschrieben?
+> 질문 하나만 더요. 빌뉴스에 전할 건 아니고. 그 각주는 대체 누가 쓴 겁니까?
+FALK: Sie kam im Dezember aus dem vierten Stock, und ich habe sie nicht hinausgeworfen. Das ist meine Schuld, nicht die eines anderen.
+> 12월에 4층에서 내려왔고, 저는 그걸 내쫓지 않았습니다. 그건 다른 누구 탓이 아니라 제 잘못입니다.
+VAITKUS: Der vierte Stock. Bei uns sagt man, der Fisch stinke vom Kopf her. Ich glaube, das sagt man in Berlin auch.
+> 4층이라. 저희는 생선은 머리부터 썩는다고 하죠. 베를린에서도 그렇게 말하는 것 같던데요.
+FALK: In Berlin sagt man es nur leiser.
+> 베를린에선 좀 더 작은 소리로 말할 뿐이죠.
+
+== 장면 3 — DER VIERTE STOCK
+JAN: Sieben Uhr achtundfünfzig: Litauen hebt auf. Acht Uhr drei: Polen auch, mit einem Satz von Nowak: «Für die Ehrlichkeit, nicht für die Grammatik.» Konstantin, was hast du Vaitkus gegeben?
+> 일곱 시 오십팔 분, 리투아니아 유보 해제. 여덟 시 삼 분, 폴란드도요. 노바크 한마디까지 붙여서요. «문법이 아니라 정직함 때문에.» 콘스탄틴, 바이트쿠스한테 뭘 준 거예요?
+FALK: Die Wahrheit über die Fußnote und eine deutsche Auslegungserklärung. Unser «spätestens», nur für uns. Mach sie sauber, sie muss vor zwölf von Winter gezeichnet sein.
+> 각주에 대한 진실, 그리고 독일 해석 선언. 우리의 «늦어도». 우리한테만 적용되는. 깔끔하게 다듬어 줘. 열두 시 전에 빈터 차관 서명을 받아야 해.
+JAN: Die Wahrheit. … Das ist schön, Konstantin. Und klug: Der Satz bleibt, Litauen bekommt sein Datum, und Paris kann nicht meckern. Warum hast du das nicht schon am Dienstag gemacht?
+> 진실이라. …멋지네요, 콘스탄틴. 영리하기도 하고요. 문장은 남고, 리투아니아는 날짜를 얻고, 파리는 투덜댈 수 없고. 왜 화요일에 진작 이렇게 안 했어요?
+FALK: Am Dienstag wusste ich noch nicht, wie viel ich verlieren kann. … Und der andere Entwurf? «Poker»?
+> 화요일엔 내가 얼마나 잃을 수 있는지 아직 몰랐어. …그리고 다른 초안은? «포커»?
+JAN: Liegt in deiner Mappe. Zwei Seiten an Lehnert, Kopie an Winter: «Der Sonderbeauftragte empfiehlt, die Einladung zur Beobachtung der Übung Poker anzunehmen.» Ich habe sie heute Nacht geschrieben und mich gefragt, warum ein Mann, der zwanzig Jahre lang jede Atomrhetorik verabscheut hat, plötzlich Nuklearübungen beobachten will.
+> 파일철에 있어요. 레너트 앞 두 쪽, 빈터 차관 참조. «특별대표는 ‹포커› 훈련 참관 초청을 수락할 것을 권고함.» 간밤에 쓰면서 궁금했어요. 20년 동안 핵 얘기라면 질색하던 사람이 왜 갑자기 핵 훈련을 보고 싶어 하는지.
+FALK: Weil ich Claire etwas schulde. Sie hat gestern Abend für mich eine Lüge wiederholt. Die mit Paris.
+> 클레르한테 빚을 졌으니까. 어젯밤에 날 위해 거짓말 하나를 되풀이해 줬어. 파리 얘기.
+JAN: … Also hat Paris nie um den Halbsatz gebeten.
+> …그러니까 파리는 그 반 문장을 부탁한 적이 없군요.
+FALK: Nie. Du hattest am Dienstag recht. Ich sage es dir, weil du es sowieso in den Drahtberichten gefunden hättest.
+> 한 번도. 화요일에 네 말이 맞았어. 말해 주는 건, 어차피 네가 전문에서 찾아냈을 테니까.
+JAN: Nein. Du sagst es mir, weil du heute schon zweimal die Wahrheit gesagt hast und dich langsam daran gewöhnst. … Und wer hat ihn dir dann diktiert?
+> 아뇨. 오늘 벌써 두 번이나 진실을 말해서 슬슬 익숙해지는 중이라 말하는 거죠. …그럼 누가 그걸 불러 준 거예요?
+FALK: Das ist die Frage, die ich heute noch nicht beantworten kann. Bring mir die Erklärung, Jan. Winter wartet nicht gern.
+> 그건 오늘은 아직 대답 못 하는 질문이야. 선언문 가져와, 얀. 빈터 차관은 기다리는 걸 싫어해.
+WINTER: Eine einseitige Auslegungserklärung. Eine gestrichene Fußnote, gestrichen von Ihnen, ohne mich zu fragen. Und eine Empfehlung an Lehnert über französische Atomwaffen. Sie waren fleißig, Herr Falk, und das vor neun Uhr.
+> 일방적 해석 선언. 나한테 묻지도 않고 당신이 지운 각주. 그리고 프랑스 핵무기에 관해 레너트에게 보내는 권고. 부지런하셨네요, 팔크 씨. 그것도 아홉 시 전에.
+FALK: Litauen und Polen haben ihre Vorbehalte aufgehoben, Frau Staatssekretärin. Der Satz, den Sie am Dienstag gezeichnet haben, bleibt. Ich dachte, das freut Sie.
+> 리투아니아와 폴란드가 유보를 풀었습니다, 차관님. 화요일에 서명하신 그 문장은 남고요. 기뻐하실 줄 알았습니다.
+WINTER: Es freut mich. Gerade deshalb lese ich Ihre Erklärung zweimal. … «Nicht zur Verzögerung heranziehen.» Damit nehmen Sie Ihrem eigenen Satz die Hälfte seiner Weisheit.
+> 기뻐요. 그래서 당신 선언을 두 번 읽는 거고요. …«지연의 근거로 삼지 않는다.» 이걸로 자기 문장에서 지혜의 절반을 빼 버리는군요.
+FALK: Nur für Deutschland. Für alle anderen bleibt er weise.
+> 독일에 대해서만요. 다른 나라들에겐 여전히 지혜롭습니다.
+WINTER: Sie lernen, Dinge zur Hälfte zu tun, Herr Falk. Darauf habe ich lange gewartet. … Ich zeichne. Grün, «W.», neun Uhr zwölf. Weil die Kanzlerin im Juli unterschreiben will und weil ich Ihren Satz nicht noch einmal verteidigen möchte.
+> 일을 반만 하는 법을 배우시네요, 팔크 씨. 오래 기다렸어요. …서명할게요. 초록 잉크로 «W.», 아홉 시 십이 분. 총리가 7월에 서명하고 싶어 하고, 나도 당신 문장을 또 변호하고 싶진 않으니까.
+FALK: Danke.
+> 감사합니다.
+WINTER: Madame Duval hat mich übrigens gestern Abend um neun zurückgerufen. Paris habe sich Spielraum beim Zeitplan gewünscht, sagte sie. Und dann sagte sie: «sinngemäß». Ihr Wort, Herr Falk, mit französischem Akzent.
+> 그런데 뒤발 국장이 어제 저녁 아홉 시에 회신 전화를 줬어요. 파리가 일정에 여지를 원했다고 하더군요. 그러고는 이랬죠. «취지상.» 당신 단어예요, 팔크 씨. 프랑스 억양으로.
+FALK: Ein verbreitetes Wort unter Diplomaten.
+> 외교관들 사이에선 흔한 단어죠.
+WINTER: Ein Wort, das man benutzt, wenn man jemandem einen Gefallen tut. Ich sammle solche Zufälle. Und heute sehe ich, dass Paris eine Atomübung mit deutschen Beobachtern bekommt. In diesem Haus wird selten ein Gefallen umsonst getan.
+> 누군가의 부탁을 들어줄 때 쓰는 단어죠. 난 그런 우연을 모아요. 그리고 오늘 보니 파리는 독일 참관단이 오는 핵 훈련을 얻는군요. 이 건물에서 공짜 호의는 드물어요.
+FALK: Die Empfehlung geht an Lehnert. Er entscheidet.
+> 권고는 레너트에게 갑니다. 그가 결정하죠.
+WINTER: An Lehnert, an mir vorbei, mit einer Kopie, damit ich sie nicht aufhalten kann. Das kenne ich schon aus Ihrem Brief nach Warschau. … Gehen Sie. Sie haben heute ja noch einen Termin, der wichtiger ist als ich.
+> 레너트에게, 나를 건너뛰어서, 내가 막지 못하게 사본만 붙여서. 바르샤바 편지 때 이미 봤죠. …가 보세요. 오늘 나보다 중요한 약속이 아직 남았잖아요.
+FALK: Welchen Termin meinen Sie?
+> 무슨 약속을 말씀하시는 겁니까?
+WINTER: Sie sind heute sehr früh aufgestanden. Der Invalidenfriedhof um sechs, im Nebel. Eine romantische Adresse für ein Gespräch unter Kollegen.
+> 오늘 아주 일찍 일어나셨죠. 새벽 여섯 시, 안개 낀 인발리덴 묘지. 동료끼리 얘기하기엔 낭만적인 주소네요.
+FALK: … Woher wissen Sie das?
+> …그걸 어떻게 아십니까?
+WINTER: Sie sind mit einem Wagen der Fahrbereitschaft gefahren, Herr Falk, und die Fahrbereitschaft führt Fahrtenbücher. Für mich. Grüßen Sie Frau Schönfeld. Und wer auf Friedhöfen Geschäfte macht, sollte wissen, an wessen Grab er gerade steht.
+> 관용차 배차실 차를 타고 가셨잖아요, 팔크 씨. 배차실은 운행 일지를 써요. 나를 위해서. 쇤펠트 박사께 안부 전해 주세요. 그리고 묘지에서 거래하는 사람은 지금 누구 무덤 앞에 서 있는지 알아야 하는 법이에요.
+
+== 절정 — GEGENLICHT
+JAN: Zwölf Uhr zwei, Konstantin. Brüssel meldet: Schweigeverfahren beendet, kein Einspruch. Abschnitt zwei ist eingefroren, mit deinem Licht und mit unserer Erklärung im Anhang.
+> 열두 시 이 분이에요, 콘스탄틴. 브뤼셀 보고예요. 침묵 절차 종료, 이의 없음. 2절 동결됐어요. 당신 불빛이랑 우리 선언문 첨부까지.
+FALK: Danke, Jan. Ich bin eine Stunde weg.
+> 고마워, 얀. 한 시간 자리 비울게.
+JAN: Zum Zahnarzt?
+> 치과요?
+FALK: Zu jemandem, der Löcher findet. Bis gleich.
+> 구멍 찾는 사람한테. 이따 봐.
+MIRA: Steigen Sie ein. Ich fahre, Sie reden. Ihr Satz lebt, habe ich gehört, und Litauen ist zufrieden. Das war elegant.
+> 타세요. 운전은 제가, 말은 당신이. 문장이 살았다면서요. 리투아니아도 만족하고. 우아했어요.
+FALK: Bevor ich rede: Winter wusste um neun, dass wir uns um sechs auf dem Friedhof getroffen haben. Sie sagten, sie wisse von nichts.
+> 말하기 전에 하나. 빈터 차관은 아홉 시에 우리가 여섯 시에 묘지에서 만난 걸 알고 있었습니다. 차관은 아무것도 모른다고 하셨죠.
+MIRA: Vom Gespräch weiß sie nichts. Dass Sie mit einem Dienstwagen zu einem Friedhof neben dem BND fahren, kann jeder Fahrer ausrechnen. Ich habe gesagt, Sie sollen allein kommen, nicht, dass Sie die Fahrbereitschaft rufen sollen.
+> 대화 내용은 몰라요. 관용차 타고 BND 옆 묘지에 가는 건 운전기사라도 계산할 수 있죠. 혼자 오라고 했지, 배차실을 부르라고 하진 않았어요.
+FALK: Eine gute Antwort. Felfe hatte auch immer gute Antworten. Woher soll ich wissen, für welche Seite Sie arbeiten?
+> 좋은 대답이네요. 펠페도 늘 좋은 대답을 갖고 있었죠. 당신이 어느 편에서 일하는지 제가 어떻게 압니까?
+MIRA: Gar nicht. Das ist der Preis in diesem Geschäft. Gehlen hat Felfe zehn Jahre lang vertraut, weil Felfe Erfolge lieferte. Vertrauen Sie mir nicht. Prüfen Sie, was ich liefere.
+> 모르죠. 그게 이 바닥의 값이에요. 겔렌은 펠페가 성과를 가져왔기 때문에 10년 동안 그를 믿었어요. 저를 믿지 마세요. 제가 가져오는 걸 검증하세요.
+FALK: Dann liefern Sie. Ich habe drei Bedingungen. Erstens: Mein Vater wird nicht angefasst. Nicht von Ihnen, nicht von Karlsruhe, nicht von einer Zeitung.
+> 그럼 가져오시죠. 조건이 셋 있습니다. 첫째, 우리 아버지는 건드리지 않는다. 당신도, 카를스루에도, 신문도.
+MIRA: Von mir nicht und von Karlsruhe nicht. Für Zeitungen bin ich nicht zuständig. Für die Schublade, in der die Akte liegt, bald schon.
+> 저도 안 건드리고 카를스루에도 안 건드려요. 신문은 제 소관이 아니고요. 파일이 든 서랍은 곧 제 소관이 되겠지만.
+FALK: Zweitens: Jan. Sie schreiben nach Karlsruhe, dass der BND gegen ihn keine Erkenntnisse mehr hat. Noch in dieser Woche.
+> 둘째, 얀. 카를스루에에 BND가 그에 대해 더는 혐의점이 없다고 써 주세요. 이번 주 안에.
+MIRA: Das wollte ich ohnehin. Er war nie mein Täter, nur mein bester Verdächtiger. Am Dienstag geht der Brief raus.
+> 어차피 그럴 생각이었어요. 그 사람은 제 범인이었던 적이 없어요. 제일 그럴듯한 용의자였을 뿐. 화요일에 편지 나갑니다.
+FALK: Drittens: Ich gebe Sedov nichts, was einen Litauer, einen Polen oder einen deutschen Soldaten in Gefahr bringt. Tut Ihr Material das, steige ich aus. Sofort.
+> 셋째, 리투아니아인이나 폴란드인, 독일 군인을 위험에 빠뜨리는 건 세도프에게 하나도 주지 않습니다. 당신 자료가 그런 거라면 바로 빠지겠습니다.
+MIRA: Aussteigen ist in diesem Geschäft nicht vorgesehen. Aber gut, angenommen. Sie bekommen Dinge, die wahr klingen und nichts kosten. Und ein paar, die etwas kosten, nur nicht uns.
+> 이 바닥엔 빠지는 게 예정에 없어요. 그래도 좋아요, 받아들이죠. 진짜처럼 들리지만 아무 대가 없는 것들을 드릴게요. 그리고 대가는 있지만 우리가 치르진 않는 것 몇 개.
+FALK: Wer erfährt davon?
+> 누가 이 일을 압니까?
+MIRA: Mein Präsident und ich. Nicht Winter, nicht Lehnert, nicht Ihre Frau. Die Operation heißt «Gegenlicht». Sie stehen im Licht, damit Sedov nicht sieht, wer hinter Ihnen steht.
+> 우리 원장님과 저. 빈터도, 레너트도, 당신 아내도 아니고요. 작전명은 «역광»이에요. 당신이 빛 속에 서 있어야 세도프가 당신 뒤에 누가 서 있는지 못 보죠.
+FALK: Meine Frau erfährt irgendwann alles. Sie ist Richterin.
+> 제 아내는 언젠가 다 알게 됩니다. 판사니까요.
+MIRA: Dann sorgen Sie dafür, dass «irgendwann» spät kommt. … Also, Herr Falk. Ja oder nein?
+> 그럼 그 «언젠가»가 늦게 오게 하세요. …자, 팔크 씨. 예, 아니오?
+FALK: … Ja.
+> …예.
+MIRA: Gut. Dann eine Regel aus meinem Beruf: Leute, die gemeinsam lügen, siezen sich nicht. Sonst hört man das Zögern, wenn es darauf ankommt. Ich bin Mira.
+> 좋아요. 그럼 제 직업의 규칙 하나. 같이 거짓말하는 사람끼리는 존댓말 안 해요. 안 그러면 정작 중요할 때 머뭇거리는 게 들리거든요. 난 미라야.
+FALK: Konstantin. … Es fühlt sich an, als hätte ich heute einen zweiten Vertrag unterschrieben.
+> 콘스탄틴. …오늘 두 번째 조약에 서명한 기분이야.
+MIRA: Einen ohne Fußnoten. Sedov wird sich melden, wahrscheinlich bald und wahrscheinlich nicht über das Amt. Du nimmst ab, du hörst zu, du sagst nichts zu. Und danach rufst du mich an. Nur mich.
+> 각주 없는 조약이지. 세도프가 연락할 거야. 아마 곧, 아마 외무부를 거치지 않고. 받고, 듣고, 아무것도 약속하지 마. 그리고 끝나면 나한테 전화해. 나한테만.
+FALK: Und der Briefkopf? Die Behörde, die meine Akte im Archiv bestellt hat?
+> 그리고 그 서식은? 기록원에 내 파일을 주문한 기관 말이야.
+MIRA: Wenn du mir die erste Lieferung bringst. Partner zahlen nacheinander, Konstantin, nicht gleichzeitig. Ich setze dich vor dem Amt ab, vorne am Haupteingang, wo dich jeder sieht.
+> 첫 물건을 가져오면. 파트너는 동시에가 아니라 차례로 값을 치르는 거야, 콘스탄틴. 외무부 앞에 내려 줄게. 정문 앞, 다들 볼 수 있는 데에.
+
+== 마무리 — PANKOW, ZWANZIG UHR
+ELISABETH: Meine Freundin aus Dresden hat angerufen. Willst du es jetzt hören oder am Sonntag?
+> 드레스덴 친구가 전화했어. 지금 들을래, 일요일에 들을래?
+FALK: Jetzt.
+> 지금.
+ELISABETH: Es gibt eine Personalakte. Pfarrer Matthias Lenz, Lukaskirche Leipzig-Volkmarsdorf, ab Januar 1988 «vom Dienst beurlaubt». Im Sommer 1989 Ausscheiden aus dem Dienst der Landeskirche, Grund: Übersiedlung in die Bundesrepublik. Danach endet die Akte.
+> 인사 기록이 있대. 마티아스 렌츠 목사, 라이프치히 폴크마르스도르프 루카스 교회, 1988년 1월부터 «휴직». 1989년 여름 주 교회 직무에서 퇴직, 사유는 서독 이주. 거기서 기록이 끝나.
+FALK: Und die Familie?
+> 가족은?
+ELISABETH: Auf dem Personalbogen steht: verheiratet, ein Kind, eine Tochter, geboren 1982. Den Vornamen hat sie mir nicht genannt, und das hätte sie auch nicht gedurft. Wie die Tochter heute heißt, steht in keiner sächsischen Akte. Mit der Übersiedlung hörte Dresden auf, zuständig zu sein.
+> 인사 카드엔 기혼, 자녀 하나, 딸, 1982년생이라고 돼 있대. 이름은 안 알려 줬어. 알려 줘서도 안 되고. 그 딸이 지금 이름이 뭔지는 작센의 어떤 기록에도 없어. 이주하는 순간 드레스덴 관할이 끝났으니까.
+FALK: Und ob er noch lebt?
+> 그 사람은 아직 살아 있대?
+ELISABETH: Auch das nicht. Sie hat nur noch etwas gesagt, nicht als Juristin, sondern als Freundin: Vor ein paar Jahren habe schon einmal jemand nach dieser Akte gefragt. Wer, durfte sie nicht sagen.
+> 그것도 몰라. 다만 법무관 말고 친구로서 한마디 덧붙이더라. 몇 년 전에도 누가 이 기록을 물어본 적이 있었대. 누군지는 말해 줄 수 없었고.
+FALK: Danke. Das ist mehr, als ich gehofft habe, und weniger, als ich brauche.
+> 고마워. 기대보단 많고, 필요한 것보단 적네.
+ELISABETH: So ist es mit Akten immer. … Wo warst du heute Mittag? Jan sagt, du seist «bei jemandem, der Löcher findet» gewesen.
+> 기록이란 게 늘 그래. …오늘 점심엔 어디 있었어? 얀이 그러던데, 당신이 «구멍 찾는 사람한테» 갔었다고.
+FALK: Bei Mira. … Bei Frau Schönfeld.
+> 미라한테. …쇤펠트 박사한테.
+ELISABETH: Mira. Heute um sechs war sie noch «der BND, auf einem Friedhof». Ich frage nicht, was dazwischen passiert ist. Ich höre es.
+> 미라라. 오늘 새벽 여섯 시만 해도 «묘지에서 만나는 BND»였는데. 그 사이에 무슨 일이 있었는지는 안 물을게. 들리니까.
+FALK: Es ist Arbeit, Elisabeth. Am Sonntag …
+> 일이야, 엘리자베트. 일요일에…
+ELISABETH: Am Sonntag, ich weiß. … In deinem Mantel klingelt etwas, das nicht wie dein Diensthandy klingt.
+> 일요일에, 알아. …당신 외투 안에서 뭐가 울리는데, 업무 전화 소리가 아니네.
+FALK: … Ja?
+> …여보세요?
+SEDOV: Guten Abend, Herr Falk. Erschrecken Sie nicht, der Herr, der Sie sonst auf diesem Apparat anruft, hat heute Abend frei. Ich wollte Ihnen selbst gratulieren.
+> 안녕하십니까, 팔크 씨. 놀라지 마십시오. 평소 이 전화로 연락드리던 분은 오늘 저녁 쉬는 날이라서요. 제가 직접 축하드리고 싶었습니다.
+FALK: Herr Sedov.
+> 세도프 씨.
+SEDOV: Ihr Satz ist eingefroren, und Ihre kleine Erklärung für Vilnius bindet nur Berlin. Paris bleibt frei, und wir bleiben geduldig. Am Sonntag gibt es nichts mehr zu lesen, die Akte bleibt im Schrank.
+> 당신 문장은 동결됐고, 빌뉴스를 위한 그 작은 선언은 베를린만 묶더군요. 파리는 자유롭고, 우리는 인내심이 있습니다. 일요일엔 더 읽을 게 없겠군요. 파일은 장 속에 그대로 있을 겁니다.
+FALK: Was wollen Sie?
+> 원하는 게 뭡니까?
+SEDOV: Ihnen etwas schenken. Ein junger Landsmann von Ihnen, Lukas Behrendt, Doktorand, sitzt seit einem Jahr in Moskau in Haft und vermisst seine Mutter. Ich hätte da eine Idee. Sie mögen doch Tauschgeschäfte, Herr Falk. Heute haben Sie schon eines gemacht, nicht wahr?
+> 선물을 하나 드리고 싶어서요. 당신 젊은 동포 하나가, 루카스 베렌트라는 박사 과정 학생인데, 1년째 모스크바에 갇혀서 어머니를 그리워하고 있습니다. 제게 생각이 하나 있어요. 맞바꾸는 거래 좋아하시잖습니까, 팔크 씨. 오늘도 이미 하나 하셨죠, 그렇죠?
