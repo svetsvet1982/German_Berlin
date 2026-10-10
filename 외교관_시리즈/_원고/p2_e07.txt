@@ -1,0 +1,329 @@
+@part 2
+@ep 7
+@title Elisabeth
+@title_ko 엘리자베트
+@tagline 엘리자베트 · 세금 서류철 속 갈색 봉투, 얇은 벽, 그리고 서명이 든 기한
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 3월 다섯째 주 토요일 새벽부터 일요일 아침까지. 토요일 새벽 판코우 집 서재와 부엌, 토요일 아침 쇤하우젠 궁 공원, 토요일 오후 겟세마네 교회 맞은편 Georg의 집, 토요일 저녁 모아비트 키르히슈트라세의 베를린 행정법원, 일요일 새벽 판코우 부엌
+@cast FALK | 외무부 유럽안보 특별대표 (44)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast GEORG | Georg Falk · 팔크의 아버지, 전 동독 외무부 외교관 (79)
+@cast WACHTMEISTER | Dombrowski · 베를린 행정법원 법원 경위 (가상)
+@cast ANNA | Anna Kessler · 탐사보도 기자, «Berliner Depesche» (45)
+@note ※ 지난 화, 팔크는 BND 작전에 따라 Sedov에게 «브뤼크너 교섭단체 반대파 11명»이라는 지어낸 숫자를 흘렸습니다. 금요일 밤 11시, 부엌의 노인용 휴대폰으로 Sedov가 «그 숫자가 확인됐다»고 전했고, 팔크는 곧바로 같은 부엌에서 Mira에게 전화했습니다. 그때 Elisabeth는 «서재에서 좀 더 읽겠다»고 했습니다. 지난 일요일 팔크는 Elisabeth에게 협박 봉투와 열흘, 지연 조항 요구를 털어놓았지만, BND와의 거래, Sedov라는 이름, 노인용 휴대폰의 진짜 출처는 숨겼습니다.
+@note ※ 호칭: 팔크와 Elisabeth, Georg는 du를 씁니다. 한국어에서 부부는 서로 반말을 쓰고, Elisabeth는 시아버지를 «아버님»이라 부르며 존댓말을, Georg는 며느리에게 반말을 씁니다. 팔크와 Anna, 법원 경위는 Sie를 씁니다.
+@note ※ 표현 초점: Mitwisser/Mitwisserin(사정을 아는 사람·공모를 아는 자), über jemanden verfügen(남을 제멋대로 처분하다), die Hand für jemanden ins Feuer legen(누구를 위해 장담하다), erpressbar(협박당할 수 있는), Fahrlässigkeit(과실), Rücktrittskultur(물러남의 문화), Salamitaktik / scheibchenweise(살라미 전술·조금씩), Anzeigepflicht(신고 의무), Gedächtnisprotokoll(기억 조서), Vergleich(소송상 화해), vertagen(미루다·연기하다), Frist(기한). 접속법 II: «Hätte ich es dir gesagt, wärst du Mitwisserin.» / «Ich hätte es tun dürfen.» 접속법 I 간접화법: «Sie fragte, ob mein Mann für das Auswärtige Amt verhandle.» / «Man fürchtete, Guillaume wisse von Brandts Frauengeschichten.»
+@history 브란트의 사임 (1974) — 1974년 4월 24일, 빌리 브란트 총리의 개인 보좌관 귄터 기욤이 동독 국가보안부 해외정보국(HVA)의 첩자로 체포되었습니다. 브란트는 이미 1973년 5월 내무장관 겐셔를 통해 혐의를 전해 들었지만, 감시를 위해 기욤을 그대로 두라는 정보기관의 권고를 따랐고 그해 여름 노르웨이 휴가에도 그를 데려갔습니다. 수사 과정에서 기욤이 총리의 사생활을 알고 있어 동독이 이를 압박 수단으로 쓸 수 있다는 우려가 나왔습니다. 브란트는 5월 6일 하이네만 대통령에게 «기욤 간첩 사건과 관련된 과실에 대해 정치적 책임을 진다»는 편지를 보내고 물러났습니다. 자기 손으로 저지르지 않은 일에 책임을 진 이 사임은 독일 «물러남의 문화(Rücktrittskultur)»의 상징처럼 이야기됩니다.
+@history 구텐베르크의 사임 (2011) — 2011년 2월 16일 «쥐트도이체 차이퉁»은 국방장관 카를테오도어 추 구텐베르크의 박사 논문에 출처 없이 베낀 대목이 많다고 보도했습니다. 그는 처음에 의혹을 «터무니없다(abstrus)»고 했다가, 며칠 뒤 학위를 «당분간» 쓰지 않겠다고, 이어서 아예 쓰지 않겠다고 한 걸음씩 물러섰습니다. 그사이 인터넷의 «GuttenPlag Wiki»가 표절 대목을 하나하나 찾아냈고, 2월 23일 바이로이트 대학이 박사 학위를 취소했습니다. 그는 3월 1일 «내 힘의 한계에 이르렀다»며 사임했습니다. 증명된 만큼만 조금씩 인정하는 «살라미 전술»이 오히려 신뢰를 무너뜨린 사례로 자주 인용됩니다.
+@preview 2부 8화 — «Die Tochter des Pfarrers»(목사의 딸) — 월요일 아침 눈물의 궁전 앞. Anna가 자신이 Lenz 목사의 딸이라고 밝힌다. 그리고 누군가 바로 그 동기를 노리고 Anna에게 Bernstein을 흘렸다는 사실이 드러난다. 팔크는 이번만큼은 봉투보다 먼저 말할 수 있을까.
+
+== 도입 — DIE MAPPE «STEUER 2026»
+FALK: Du bist ja noch wach. Ich dachte, du liest.
+> 아직 안 잤네. 책 읽는 줄 알았는데.
+ELISABETH: Ich lese ja. Die Mappe «Steuer 2026». Ich wollte die Handwerkerrechnungen heraussuchen, und zwischen den Rechnungen lag ein brauner Umschlag mit dem Stempel der Stasi-Unterlagen-Behörde.
+> 읽고 있어. «세금 2026» 서류철. 수리비 영수증 찾으려고 했는데, 영수증 사이에 슈타지 문서청 도장 찍힌 갈색 봉투가 있더라.
+FALK: Elisabeth, ich wollte ihn dir zeigen. Ich habe nur auf den richtigen Moment gewartet.
+> 엘리자베트, 보여 주려고 했어. 그냥 적당한 때를 기다렸던 거야.
+ELISABETH: Der richtige Moment war letzten Sonntag. Da hast du mir von dem Umschlag erzählt, von den zehn Tagen, von dem Satz für Brüssel. Gezeigt hast du mir nichts, und ich habe es verstanden: Du wolltest mir die Akte ersparen.
+> 적당한 때는 지난 일요일이었지. 그때 봉투 얘기, 열흘 얘기, 브뤼셀 문장 얘기까지 했잖아. 보여 준 건 하나도 없었고. 그래서 이해했어. 나한테 그 파일만은 안 보이고 싶구나.
+FALK: Ja. Genau das.
+> 응. 바로 그거야.
+ELISABETH: Dann hättest du sie nicht zwischen unsere Steuern legen dürfen. … Ich habe alles gelesen. Die Verpflichtungserklärung von 1979 in der Handschrift deines Vaters. Seite siebenundvierzig mit dem geschwärzten Pfarrer. Und den Vermerk vom Juni 1989: «Legende: Spielzeugkauf für den Sohn.»
+> 그럼 우리 세금 서류 사이에 넣어 두지 말았어야지. …다 읽었어. 아버님 글씨로 된 1979년 서약서. 목사 이름이 지워진 47쪽. 그리고 1989년 6월 메모. «위장 명분: 아들 장난감 구입.»
+FALK: Ich weiß, was drinsteht.
+> 뭐가 적혀 있는지 알아.
+ELISABETH: Die kleinen Autos, Konstantin. Jedes Weihnachten erzählst du von dem roten Porsche aus dem Westen, und alle lachen. Und ich habe deinen Vater angerufen und mich für ein Auto bedankt, das ein Erpresser in unseren Briefkasten gelegt hatte.
+> 그 작은 자동차들 말이야, 콘스탄틴. 크리스마스마다 서쪽에서 온 빨간 포르셰 얘기를 하면 다들 웃지. 그리고 난 아버님한테 전화해서 협박범이 우리 우편함에 넣어 둔 자동차 고맙다고 인사까지 했어.
+FALK: Am Sonntag habe ich dir gesagt, dass der Porsche nicht von ihm kam.
+> 일요일에 그 포르셰가 아버지한테서 온 게 아니라고 말했잖아.
+ELISABETH: Am Sonntag hast du mir vieles gesagt. Ich dachte, es sei alles. … In dem Umschlag lag noch etwas, das nicht von der Behörde stammt. Ein Zettel in deiner Handschrift.
+> 일요일엔 많은 걸 말했지. 난 그게 전부인 줄 알았어. …봉투에 문서청에서 나온 게 아닌 것도 하나 있더라. 당신 글씨로 쓴 쪽지.
+FALK: Lies ihn bitte nicht vor.
+> 제발 소리 내서 읽지 마.
+ELISABETH: «Kühn: Montag 18 Uhr S. Montag 18 Uhr 40 M. Dienstag 15 Uhr 20 W. Wer?» Drei Buchstaben und ein Fragezeichen. W ist Winter, das war leicht. Für M und S brauchte ich die Küche.
+> «퀸: 월요일 18시 S. 월요일 18시 40분 M. 화요일 15시 20분 W. 누구?» 글자 셋에 물음표 하나. W는 빈터, 그건 쉬웠어. M이랑 S는 부엌이 알려 줬고.
+FALK: Die Küche.
+> 부엌이.
+ELISABETH: Die Wand zwischen Küche und Arbeitszimmer ist dünn, du hast sie ja selbst eingezogen. Vor zehn Minuten hast du gesagt: «Mira, ich bin's. Sedov hat die elf nachzählen lassen.» Und dann: «Eine Zahl, die es nicht gibt. Die du dir auf einem Friedhof ausgedacht hast.»
+> 부엌이랑 서재 사이 벽 얇은 거 알잖아. 당신이 직접 세운 벽이니까. 10분 전에 당신이 그랬지. «미라, 나야. 세도프가 열하나를 세어 보게 했어.» 그리고 «있지도 않은 숫자를. 네가 묘지에서 지어낸 숫자를.»
+FALK: Du hast gelauscht.
+> 엿들었구나.
+ELISABETH: Ich habe in meiner eigenen Wohnung gesessen und Belege sortiert. Gelauscht hat in diesem Haus bisher nur einer: der Mann am anderen Ende von dem Telefon in unserer Küche. … M ist Frau Schönfeld vom BND, die mich in meinem Dienstzimmer befragen wollte. Und S ist Sedov.
+> 난 내 집에 앉아서 영수증 정리했어. 이 집에서 지금까지 엿들은 사람은 하나뿐이야. 우리 부엌에 있는 그 전화기 반대편 남자. …M은 내 판사실에서 날 신문하려던 BND의 쇤펠트고, S는 세도프지.
+FALK: Elisabeth, es ist halb eins.
+> 엘리자베트, 열두 시 반이야.
+ELISABETH: Vor ein paar Wochen hast du mir gesagt, mit Sedov redest du erst wieder, wenn die Hölle zufriert. Ist es so kalt geworden in unserer Küche?
+> 몇 주 전에 당신, 세도프랑은 지옥이 얼어붙어야 다시 말한다고 했지. 우리 부엌이 그렇게 추워졌어?
+FALK: Ich erkläre dir alles. Morgen früh, ausgeschlafen, bei einem Kaffee.
+> 다 설명할게. 내일 아침에, 푹 자고, 커피 마시면서.
+ELISABETH: Es ist schon morgen, Konstantin. Und ausgeschlafen hat in diesem Haus seit einem Monat keiner. Komm in die Küche. Da hast du heute ja schon zweimal telefoniert.
+> 벌써 내일이야, 콘스탄틴. 그리고 이 집에서 한 달째 푹 잔 사람은 아무도 없어. 부엌으로 와. 오늘 거기서 벌써 두 번이나 통화했잖아.
+
+== 장면 1 — KÜCHE, EIN UHR NACHTS
+FALK: Was willst du wissen?
+> 뭘 알고 싶어?
+ELISABETH: Nicht, was ich wissen will, sondern was ist. Von vorn, ohne Auslassungen. Ich bin es gewohnt, dass Menschen mir erzählen, was ihnen nützt. Von dir möchte ich heute ausnahmsweise die ganze Geschichte.
+> 내가 뭘 알고 싶은지가 아니라, 뭐가 사실인지. 처음부터, 빼먹지 말고. 사람들이 자기한테 유리한 것만 말하는 데는 익숙해. 당신한테서만은 오늘 예외적으로 이야기 전부를 듣고 싶어.
+FALK: Das Telefon hier gehört nicht meinem Vater. Ein Mann hat es ihm gegeben, unter der Hochbahn an der Schönhauser Allee, an dem Abend, an dem er angeblich Zigaretten holen war. Mit einer einzigen gespeicherten Nummer.
+> 여기 이 전화기, 아버지 거 아니야. 어떤 남자가 아버지한테 준 거야. 쇤하우저 알레 고가 철로 밑에서, 아버지가 담배 사러 나갔다던 그날 저녁에. 저장된 번호가 딱 하나 있는 걸로.
+ELISABETH: Dein Vater raucht seit der Wende nicht mehr. Ich habe mich schon damals gewundert. Weiter.
+> 아버님은 통일 뒤로 담배 끊으셨잖아. 그때도 이상하다 했어. 계속해.
+FALK: Letzten Freitag hat mich Mira um sechs Uhr früh auf den Invalidenfriedhof bestellt. Der BND hört Sedovs Leitungen ab. Sie wussten von «Kranich», von dem Umschlag, von allem.
+> 지난주 금요일에 미라가 새벽 여섯 시에 인발리덴 묘지로 나오라고 했어. BND가 세도프 통화를 감청하고 있었어. «크라니히»도, 봉투도, 다 알고 있었고.
+ELISABETH: Und statt dich zu schützen, hat sie dir ein Angebot gemacht.
+> 그런데 당신을 보호하는 대신 제안을 했구나.
+FALK: Sie hat gesagt, ein erpresster Beamter, der nichts meldet, verliere seine Sicherheitsfreigabe. Und im selben Atemzug: Wenn ich für sie arbeite, gilt die Erpressung als Teil einer Operation. Die Akte verschwindet in einer Schublade, und ich behalte mein Amt.
+> 협박받고도 신고 안 한 공무원은 보안 인가를 잃는다더라. 그러고는 같은 숨에, 내가 자기들 일을 하면 협박은 작전의 일부가 된다고. 파일은 서랍 속으로 사라지고, 난 자리를 지키고.
+ELISABETH: Für sie arbeiten heißt?
+> 그 사람들 일을 한다는 게 무슨 뜻인데?
+FALK: Sedov meldet sich über dieses Telefon bei mir. Ich gebe ihm, was der BND mir mitgibt: Dinge, die echt klingen und nichts kosten. Danach berichte ich nur Mira. Der Austausch für Behrendt ist daraus entstanden.
+> 세도프가 이 전화로 나한테 연락해. 난 BND가 쥐여 주는 걸 그 사람한테 줘. 진짜처럼 들리지만 아무 대가도 없는 것들. 그다음엔 미라한테만 보고하고. 베렌트 교환도 거기서 나온 거야.
+ELISABETH: Und die elf?
+> 그럼 열하나는?
+FALK: Elf Abgeordnete aus Brückners Fraktion, die angeblich gegen Bernstein stimmen wollen. Es gibt sie nicht. Ich habe die Zahl Sedov am Donnerstag auf der Glienicker Brücke genannt, und vorhin sagt er mir, jemand habe sie ihm bestätigt.
+> 브뤼크너 교섭단체에서 베른슈타인에 반대표를 던지려 한다는 의원 열한 명. 그런 사람들 없어. 목요일에 글리니커 다리에서 세도프한테 그 숫자를 말했는데, 아까 누가 그걸 확인해 줬다고 하더라.
+ELISABETH: Du hast einem russischen Diplomaten erfundene Angaben über Mitglieder des Bundestags geliefert. Auf welcher Grundlage? Gibt es eine Weisung, einen Vermerk, irgendetwas mit einer Unterschrift?
+> 러시아 외교관한테 연방의회 의원들에 대한 지어낸 정보를 넘겼다는 거네. 무슨 근거로? 지시든, 메모든, 서명 들어간 뭐라도 있어?
+FALK: Nichts. Es wissen nur Mira und ihr Präsident. Das war die Bedingung.
+> 아무것도. 미라랑 그쪽 원장만 알아. 그게 조건이었어.
+ELISABETH: Das war nicht die Bedingung, Konstantin, das war die Falle. Ein Dienst, der nichts aufschreibt, kann alles abstreiten. Wenn Frau Schönfeld morgen sagt, sie habe dich nie gekannt, bist du ein Sonderbeauftragter, der heimlich mit Moskau telefoniert. Mit einem Vater in der Stasi-Akte.
+> 그건 조건이 아니라 함정이야, 콘스탄틴. 아무것도 기록하지 않는 기관은 뭐든 부인할 수 있어. 쇤펠트가 내일 당신을 모른다고 하면, 당신은 몰래 모스크바랑 통화하는 특별대표가 되는 거야. 아버지가 슈타지 파일에 있는.
+FALK: Das weiß ich. Glaubst du, ich hätte das nicht durchgerechnet?
+> 알아. 내가 그 계산을 안 해 봤을 것 같아?
+ELISABETH: Ich glaube, du hast alles durchgerechnet außer mir. … Am Sonntag hast du gesagt, das Telefon gehöre deinem Vater und der Mann am anderen Ende spreche «für Moskau». Du hast das so gebaut, dass ich nicht weiterfrage.
+> 내 생각엔 당신은 나만 빼고 다 계산했어. …일요일에 당신은 이 전화기가 아버님 거고 반대편 남자는 «모스크바를 대변한다»고 했지. 내가 더 묻지 않게끔 딱 그렇게 지어낸 거야.
+FALK: Ich habe dir nichts Falsches gesagt. Das Telefon habe ich von meinem Vater.
+> 틀린 말은 안 했어. 전화기는 아버지한테서 받은 거 맞아.
+ELISABETH: Hör auf. Das ist der Satz eines Angeklagten, der weiß, dass jedes einzelne Wort stimmt und der ganze Satz trotzdem eine Lüge ist. Solche Sätze höre ich jede Woche. Von dir wollte ich sie nie hören.
+> 그만해. 그건 단어 하나하나는 다 맞는데 문장 전체는 그래도 거짓말이라는 걸 아는 피고인이 하는 말이야. 그런 말은 매주 들어. 당신한테서만은 듣고 싶지 않았어.
+FALK: Was hätte ich denn tun sollen? Dir alles erzählen, damit du am Montag mit einem Staatsgeheimnis im Kopf in deine Kammer gehst? Du bist Richterin. Hätte ich es dir gesagt, wärst du Mitwisserin.
+> 그럼 어떻게 했어야 하는데? 다 말해서 당신이 월요일에 국가 기밀을 머리에 담고 재판부에 들어가게? 당신은 판사야. 내가 말했으면 당신도 사정을 아는 사람이 됐을 거야.
+ELISABETH: Mitwisserin bin ich jetzt auch. Nur durfte ich es mir nicht aussuchen. Du hast mich nicht geschützt, Konstantin, du hast über mich verfügt.
+> 지금도 사정을 아는 사람이 됐어. 내가 고를 수 없었다는 것만 다르지. 당신은 날 보호한 게 아니야, 콘스탄틴. 날 마음대로 처분한 거지.
+FALK: Ich habe dich aus etwas herausgehalten, das schmutzig ist.
+> 더러운 일에서 당신을 떼어 놓은 거야.
+ELISABETH: Weißt du, wer mich am Mittwochabend angerufen hat? Ruth. Ruth Albers, mit der ich im Referendariat Zivilrecht gepaukt habe. Sie fragte mich, ob mein Mann eigentlich für das Auswärtige Amt verhandle oder für jemand anderen.
+> 수요일 저녁에 누가 전화했는지 알아? 루트. 사법연수 때 나랑 같이 민법 파던 루트 알버스. 남편이 대체 외무부를 위해 협상하는 건지, 다른 누굴 위해서 하는 건지 묻더라.
+FALK: Was hast du ihr gesagt?
+> 뭐라고 했어?
+ELISABETH: Ich habe gesagt: für das Amt, natürlich, dafür lege ich meine Hand ins Feuer. Ich habe für dich gelogen, Konstantin, ohne zu wissen, dass ich lüge. Das ist schlimmer, als wenn du mich darum gebeten hättest.
+> 당연히 외무부를 위해서라고, 내가 장담한다고 했어. 당신을 위해 거짓말을 한 거야, 콘스탄틴. 내가 거짓말하는 줄도 모르고. 차라리 당신이 해 달라고 부탁했더라면 덜 나빴을 거야.
+FALK: Es tut mir leid. Wirklich.
+> 미안해. 정말로.
+ELISABETH: Das glaube ich dir sogar. … Ist das jetzt alles? Oder kommt morgen die nächste Scheibe?
+> 그건 믿어. …이제 이게 전부야? 아니면 내일 다음 조각이 나와?
+FALK: Das ist alles.
+> 이게 다야.
+ELISABETH: Dann schlafe ich heute im Arbeitszimmer. Nicht zur Strafe. Ich muss nachdenken, und das kann ich neben dir gerade nicht.
+> 그럼 오늘은 서재에서 잘게. 벌주려는 거 아니야. 생각을 좀 해야 하는데, 지금은 당신 옆에서 그게 안 돼.
+FALK: Und das Telefon?
+> 저 전화기는?
+ELISABETH: Bleibt in der Küche. Ich will nicht, dass Moskau auch noch weiß, in welchem Zimmer ich schlafe.
+> 부엌에 둬. 내가 어느 방에서 자는지까지 모스크바가 알게 하고 싶진 않으니까.
+
+== 장면 2 — SCHLOSSPARK SCHÖNHAUSEN
+FALK: Du warst schon draußen. Um sieben stand dein Fahrrad nicht mehr im Hof.
+> 벌써 나와 있었구나. 일곱 시에 마당에 당신 자전거가 없더라.
+ELISABETH: Ich bin zweimal um den Schlosspark gefahren. Hier hatte Wilhelm Pieck seinen Amtssitz, später wohnten hier die Staatsgäste der DDR, und 1990 tagte hier der Runde Tisch. Ich dachte, an so einem Ort kann man über Verantwortung reden.
+> 궁 공원을 두 바퀴 돌았어. 여기가 빌헬름 피크의 관저였고, 나중엔 동독 국빈들이 묵었고, 1990년엔 원탁회의가 열렸지. 이런 데서라면 책임 얘길 할 수 있겠다 싶었어.
+FALK: Du hast eine Entscheidung getroffen.
+> 결정했구나.
+ELISABETH: Ich habe einen Vorschlag. Am Montag gehst du zu Lehnert und sagst ihm alles: den Umschlag, Sedov, Frau Schönfeld, die elf. Und du bietest ihm deinen Rücktritt an.
+> 제안이 있어. 월요일에 레너트한테 가서 다 말해. 봉투, 세도프, 쇤펠트, 열하나. 그리고 사퇴하겠다고 해.
+FALK: Meinen Rücktritt. Wofür? Für etwas, das mein Vater 1987 in Leipzig getan hat?
+> 사퇴라. 뭐 때문에? 아버지가 1987년에 라이프치히에서 한 일 때문에?
+ELISABETH: Nein. Für das, was du seit zwei Wochen tust. Du bist erpressbar, und du hast es verschwiegen. Denk an Brandt.
+> 아니. 당신이 2주째 하고 있는 일 때문에. 당신은 협박당할 수 있는 사람이고, 그걸 숨겼어. 브란트를 생각해 봐.
+FALK: Brandt ist 1974 zurückgetreten, weil in seinem Vorzimmer ein Spion der DDR saß. Guillaume war nicht seine Schuld. Er hat die Verantwortung für etwas übernommen, das andere angerichtet hatten.
+> 브란트는 1974년에 자기 비서실에 동독 스파이가 앉아 있어서 사퇴했지. 기욤은 그 사람 잘못이 아니었어. 남들이 저지른 일에 책임을 진 거야.
+ELISABETH: Lies seinen Brief. «Ich übernehme die politische Verantwortung für Fahrlässigkeiten im Zusammenhang mit der Agentenaffäre Guillaume.» Fahrlässigkeiten, Konstantin. Er wusste seit Mai 1973, dass Guillaume verdächtigt wurde. Die Dienste baten ihn, nichts zu sagen und den Mann zu behalten, damit man ihn beobachten konnte. Und Brandt hat mitgespielt.
+> 그 사람 편지를 읽어 봐. «기욤 간첩 사건과 관련된 과실에 대해 정치적 책임을 집니다.» 과실이야, 콘스탄틴. 브란트는 1973년 5월부터 기욤이 의심받는다는 걸 알았어. 정보기관들이 아무 말 하지 말고 그 남자를 데리고 있어 달라고 했지. 지켜볼 수 있게. 그리고 브란트는 장단을 맞춰 줬고.
+FALK: Er hat ihn sogar mit in den Urlaub nach Norwegen genommen.
+> 심지어 노르웨이 휴가에도 데려갔지.
+ELISABETH: Siehst du die Parallele nicht? Ein Dienst bittet einen Politiker, zu schweigen und mitzuspielen, «für die Operation». Und am Ende steht der Politiker allein da, und die Dienste haben von nichts gewusst.
+> 비슷한 게 안 보여? 정보기관이 정치인한테 입 다물고 장단 맞춰 달라고 해. «작전을 위해서.» 그리고 결국 정치인 혼자 남고, 정보기관은 아무것도 몰랐던 게 되지.
+FALK: Brandt ist gegangen, und was hat es gebracht? Markus Wolf hat später gesagt, Brandts Sturz sei für die Stasi kein Triumph gewesen, sondern eine Niederlage. Der Rücktritt hat niemanden gerettet. Er hat nur einen guten Kanzler gekostet.
+> 브란트는 물러났어. 그래서 뭐가 남았는데? 마르쿠스 볼프가 나중에 그랬지. 브란트의 몰락은 슈타지한테 승리가 아니라 패배였다고. 사퇴는 아무도 구하지 못했어. 좋은 총리 하나를 잃었을 뿐이지.
+ELISABETH: Es gab noch einen Grund, und den kennst du auch. Man fürchtete damals, Guillaume wisse von Brandts Frauengeschichten und Ost-Berlin könne ihn damit unter Druck setzen. Ein erpressbarer Kanzler war für Brandt selbst undenkbar. Ein erpressbarer Sonderbeauftragter ist es für mich auch.
+> 이유가 하나 더 있었어. 당신도 알잖아. 그때 기욤이 브란트의 여자 문제를 알고 있어서 동베를린이 그걸로 압박할 수 있다는 우려가 있었지. 협박당할 수 있는 총리라는 건 브란트 자신한테도 있을 수 없는 일이었어. 협박당할 수 있는 특별대표도 나한텐 마찬가지야.
+FALK: Ich bin nicht mehr erpressbar. Der Satz in Brüssel steht, die Frist ist abgelaufen, und Sedov sagt, die Akte bleibt im Schrank.
+> 이제 난 협박당할 일 없어. 브뤼셀 문장은 그대로고, 기한은 지났고, 세도프는 파일이 장 속에 남는다고 했어.
+ELISABETH: Sedov sagt. Hörst du dir eigentlich zu? Du verlässt dich auf das Ehrenwort des Mannes, der dich erpresst hat.
+> 세도프가 그랬다. 당신 지금 무슨 말 하는지 들려? 당신을 협박한 남자의 명예를 믿고 있는 거야.
+FALK: Ich verlasse mich darauf, dass er mich noch braucht. Das ist etwas anderes.
+> 그 사람이 아직 날 필요로 한다는 걸 믿는 거야. 그건 다르지.
+ELISABETH: Dann nimm Guttenberg. Im Februar 2011 schreibt die Süddeutsche, seine Doktorarbeit sei zu großen Teilen abgeschrieben. Er nennt den Vorwurf «abstrus». Ein paar Tage später will er den Titel «vorübergehend» nicht mehr führen, dann gar nicht mehr. Die Universität Bayreuth erkennt ihm den Doktorgrad ab, und am 1. März tritt er zurück.
+> 그럼 구텐베르크를 봐. 2011년 2월에 쥐트도이체 차이퉁이 그 사람 박사 논문 상당 부분이 베낀 거라고 써. 그는 그 비난이 «터무니없다»고 하지. 며칠 뒤엔 학위를 «당분간» 안 쓰겠다고 하고, 그다음엔 아예 안 쓰겠대. 바이로이트 대학이 학위를 취소하고, 3월 1일에 사퇴해.
+FALK: Ein Minister, der abgeschrieben hat. Was hat das mit mir zu tun?
+> 논문 베낀 장관이야. 그게 나랑 무슨 상관인데?
+ELISABETH: Ihn hat nicht die Arbeit gestürzt, sondern die Scheiben. Erst nichts, dann ein bisschen, dann etwas mehr, immer genau so viel, wie gerade bewiesen war. Salamitaktik. Genau so hast du es mit mir gemacht: erst «nein», dann der Umschlag, und heute Nacht Sedov.
+> 그 사람을 무너뜨린 건 논문이 아니라 조각들이었어. 처음엔 아무것도, 그다음엔 조금, 그다음엔 좀 더. 딱 그때그때 증명된 만큼만. 살라미 전술. 당신이 나한테 한 게 딱 그거야. 처음엔 «아니», 그다음엔 봉투, 그리고 어젯밤엔 세도프.
+FALK: Und dafür soll ich zurücktreten? Weil ich meine Frau scheibchenweise informiert habe?
+> 그래서 내가 사퇴해야 한다고? 아내한테 조금씩 말했다는 이유로?
+ELISABETH: Nein. Zurücktreten sollst du, wenn Lehnert es verlangt. Anbieten sollst du es, bevor ein anderer es für dich tut. In diesem Land tritt man nicht zurück, weil man schuldig ist, sondern weil man nicht mehr glaubwürdig ist. Das nennt man Rücktrittskultur, und manchmal ist sie das Einzige, was einem danach noch bleibt.
+> 아니. 사퇴는 레너트가 요구하면 하는 거야. 제안은 다른 누가 대신 해 주기 전에 먼저 하고. 이 나라에선 죄가 있어서 물러나는 게 아니라 더는 믿을 수 없는 사람이 돼서 물러나. 그걸 물러남의 문화라고 하지. 그리고 그게 그 뒤에 남는 유일한 거일 때도 있어.
+FALK: Rücktrittskultur ist ein Luxus, Elisabeth. Für Länder, in denen niemand in Lefortowo sitzt und auf sein Insulin wartet.
+> 물러남의 문화는 사치야, 엘리자베트. 레포르토보에 갇혀서 인슐린 기다리는 사람이 없는 나라들한테나 어울리는.
+ELISABETH: Das ist unfair.
+> 그건 비겁한 말이야.
+FALK: Es ist die Wahrheit. Wenn ich am Montag zu Lehnert gehe, ist die Operation tot, und Sedov merkt es innerhalb einer Woche. Dann gibt es kein Dekret und keine Brücke Ende April. Dann bleibt Behrendt dort. Ich habe seiner Mutter etwas versprochen.
+> 사실이야. 내가 월요일에 레너트한테 가면 작전은 끝이고, 세도프는 일주일 안에 눈치챌 거야. 그럼 법령도 없고 4월 말 다리도 없어. 베렌트는 거기 남는 거지. 나 그 어머니한테 약속했어.
+ELISABETH: Du hast in letzter Zeit vielen Leuten etwas versprochen. Mir zum Beispiel, vor gut zwei Wochen an der Spree: «Wenn mir jemand damit droht, bist du die Erste, die es erfährt.»
+> 요즘 여러 사람한테 약속하네. 예를 들면 나한테도. 2주 남짓 전에 슈프레 강변에서. «누가 그걸로 날 협박하면 당신이 제일 먼저 알게 될 거야.»
+FALK: Und eine Stunde später lag der Umschlag am Tor. Ich weiß.
+> 그리고 한 시간 뒤에 정문에 봉투가 왔지. 알아.
+ELISABETH: Ich bin Richterin, Konstantin, und ich muss nichts melden. Das ist das Absurde. Eine Anzeigepflicht gibt es nur für bestimmte geplante Verbrechen, und das hier ist keins, glaube ich. Ich darf schweigen, ich darf entscheiden. Und genau das will ich nicht allein müssen.
+> 나 판사야, 콘스탄틴. 그런데 신고할 의무가 없어. 그게 기가 막힌 거야. 신고 의무는 정해진 몇 가지 계획 중인 범죄에만 있고, 이건 아마 아닐 거야. 난 침묵해도 되고, 결정해도 돼. 그리고 바로 그걸 나 혼자 하고 싶지 않은 거야.
+FALK: Dann entscheide nicht allein. Gib mir die vier Wochen bis zur Brücke.
+> 그럼 혼자 결정하지 마. 다리까지 4주만 줘.
+ELISABETH: Und danach?
+> 그다음엔?
+FALK: Danach gehe ich zu Lehnert. Mit allem.
+> 그다음엔 레너트한테 갈게. 전부 들고.
+ELISABETH: Das klingt wie ein Satz, den Guttenberg auch hätte sagen können. … Ich fahre heute Nachmittag zu deinem Vater. Allein. Ich will hören, wie die Geschichte klingt, wenn sie jemand erzählt, der nichts mehr zu verlieren hat.
+> 구텐베르크도 할 법한 말이네. …오늘 오후에 아버님한테 갈 거야. 혼자. 더 잃을 게 없는 사람이 들려주면 그 얘기가 어떻게 들리는지 듣고 싶어.
+
+== 장면 3 — GEGENÜBER DER GETHSEMANEKIRCHE
+GEORG: Elisabeth. Du kommst ohne Kuchen. Dann ist es ernst.
+> 엘리자베트. 케이크 없이 왔구나. 그럼 심각한 거구나.
+ELISABETH: Ich habe die Akte gelesen, Georg. Die Verpflichtungserklärung, Seite siebenundvierzig, den Vermerk über die Spielzeugautos.
+> 파일 읽었어요, 아버님. 서약서, 47쪽, 장난감 자동차 메모까지.
+GEORG: Hat er sie dir gezeigt?
+> 그 애가 보여 줬니?
+ELISABETH: Er hat sie zwischen unsere Steuerbelege gelegt, und ich habe sie gefunden. Euer Familienrezept, glaube ich: Man versteckt etwas so, dass man es eigentlich gefunden haben will.
+> 우리 세금 영수증 사이에 넣어 뒀더라고요. 그래서 제가 찾았죠. 이 집안 내력인가 봐요. 사실은 들키고 싶은 방식으로 숨기는 거.
+GEORG: Wir Falks sind schlechte Lügner. Wir lügen nur viel. … Setz dich. Gleich läuten die Glocken, dann versteht man eine Minute lang sein eigenes Wort nicht.
+> 우리 팔크 집안은 거짓말을 못 해. 많이 할 뿐이지. …앉아라. 곧 종이 울릴 거다. 그럼 1분 동안은 제 말소리도 안 들려.
+ELISABETH: Konstantin hat mir heute Nacht erzählt, woher das Telefon kommt. Von dem Mann unter der Hochbahn. Und dass du diesem Mann eine Woche lang alles berichtet hast, bis zu den vier Sekunden, in denen du mir am Telefon nicht antworten konntest.
+> 콘스탄틴이 어젯밤에 그 전화기가 어디서 났는지 말해 줬어요. 고가 철로 밑 그 남자요. 그리고 아버님이 일주일 동안 그 남자한테 다 보고하셨다는 것도요. 제 전화에 대답 못 하셨던 그 4초까지.
+GEORG: Das stimmt. Ich habe dich verraten, Elisabeth, wegen einer Kleinigkeit, aus Gewohnheit. Das ist das Schlimmste an diesem Beruf: Man hört nie damit auf, auch wenn es den Beruf längst nicht mehr gibt.
+> 맞다. 너를 팔아넘겼지, 엘리자베트. 사소한 일로, 습관 때문에. 그게 이 일의 제일 나쁜 점이야. 그 직업이 없어진 지 오래인데도 그만두질 못해.
+ELISABETH: Ich bin nicht gekommen, um dich anzuklagen. Den Namen kenne ich, Matthias Lenz, ich habe ja selbst in Dresden nach ihm gefragt. Ich will wissen, was auf Seite siebenundvierzig nicht steht.
+> 고발하러 온 거 아니에요. 이름은 알아요. 마티아스 렌츠. 제가 직접 드레스덴에 물어봤잖아요. 47쪽에 안 적힌 걸 알고 싶어요.
+GEORG: Was nicht draufsteht … Dass er mein bester Freund war. Dass ich den Umschlag nicht einmal geöffnet habe. Und dass ich in einem anderen Bericht aufgeschrieben hatte, wann seine Frau zur Arbeit ging und wann die Kleine im Kindergarten war.
+> 안 적힌 거라… 그 사람이 내 가장 친한 친구였다는 거. 내가 그 봉투를 열어 보지도 않았다는 거. 그리고 다른 보고서에 그 부인이 몇 시에 출근하고 꼬마가 몇 시에 유치원에 있는지 적어 놨다는 거.
+ELISABETH: Damit sie wussten, wann sie kommen mussten.
+> 그 사람들이 언제 와야 할지 알 수 있게요.
+GEORG: Sie kamen um fünf Uhr früh, damit alle zu Hause waren. Die Kleine hat die Tür aufgemacht, im Nachthemd. Das stand im Bericht der Männer, die ihn abgeholt haben, und man hat ihn mir gezeigt. Wie eine Auszeichnung.
+> 새벽 다섯 시에 왔어. 다들 집에 있게. 꼬마가 잠옷 바람으로 문을 열었다. 그 사람을 데려간 자들의 보고서에 그렇게 적혀 있었고, 그걸 나한테 보여 주더구나. 무슨 표창장처럼.
+ELISABETH: Sie war fünf.
+> 다섯 살이었네요.
+GEORG: Fünf. Ich habe sie nie gesehen, und trotzdem sehe ich sie jede Nacht.
+> 다섯 살. 한 번도 본 적 없는데, 그래도 매일 밤 보여.
+ELISABETH: In Dresden hat man mir gesagt, Lenz habe eine Tochter gehabt, Jahrgang 1982. Mehr nicht. Und dass vor ein paar Jahren schon einmal jemand nach dieser Personalakte gefragt hat.
+> 드레스덴에선 렌츠한테 딸이 하나 있었다고, 1982년생이라고 하더라고요. 그것뿐이었어요. 그리고 몇 년 전에도 누가 그 인사 기록을 물어본 적이 있다고요.
+GEORG: Jemand, der sucht. … Elisabeth, hat Konstantin dir auch erzählt, was der Mann am Telefon über die Tochter gesagt hat? Hier, in diesem Zimmer, vorletzten Sonntag?
+> 누군가 찾고 있는 거지. …엘리자베트, 콘스탄틴이 전화 속 남자가 그 딸에 대해 한 말도 너한테 했니? 여기, 이 방에서, 지지난 일요일에?
+ELISABETH: Nein. Er hat gesagt, das sei alles gewesen.
+> 아뇨. 그게 다라고 했어요.
+GEORG: Der Mann hat gesagt: «Suchen Sie sie nicht. Sie würden sie finden, und es würde Ihnen nicht gefallen.» Ich stand daneben. Konstantin war weiß wie die Wand.
+> 그 남자가 그랬어. «그 딸을 찾지 마십시오. 찾게 될 거고, 마음에 들지 않을 겁니다.» 내가 옆에 서 있었다. 콘스탄틴 얼굴이 벽처럼 하얘지더라.
+ELISABETH: Und eine Stunde später hat er mich angerufen und gefragt, ob ich jemanden bei der Landeskirche kenne. Leipzig, Lukaskirche, 1988.
+> 그리고 한 시간 뒤에 저한테 전화해서 주 교회청에 아는 사람 있느냐고 물었죠. 라이프치히, 루카스 교회, 1988년.
+GEORG: Das wusste ich nicht.
+> 그건 몰랐다.
+ELISABETH: Man hat ihn gewarnt, und er hat mich trotzdem suchen lassen. Unter meinem Namen, über meine Studienfreundin, ohne mir zu sagen, dass jemand genau das nicht will. Das hat er mir heute Nacht verschwiegen, als er «alles» erzählt hat.
+> 경고를 받았는데도 저한테 찾게 시킨 거예요. 제 이름으로, 제 대학 동기를 통해서. 누가 바로 그걸 원하지 않는다는 말은 쏙 빼고요. 어젯밤에 «전부» 말할 때도 그건 숨겼어요.
+GEORG: Er wollte die Tochter finden, bevor der andere sie benutzt. Das ist nicht nichts.
+> 그 애는 저쪽이 그 딸을 이용하기 전에 먼저 찾고 싶었던 거야. 그게 아무것도 아닌 건 아니지.
+ELISABETH: Nein. Aber er hat schon wieder für mich entschieden, welches Risiko ich trage. … Georg, warum erzählst du mir das? Er ist dein Sohn.
+> 아니죠. 하지만 제가 어떤 위험을 질지 또 저 대신 정해 버렸어요. …아버님, 이걸 왜 저한테 말씀하세요? 아버님 아들이잖아요.
+GEORG: Weil ich sein Vater bin. Ich habe mein Leben lang Menschen geschützt, indem ich ihnen nichts gesagt habe. Seine Mutter, ihn, mich selbst. Am Ende hat es nur die Firma geschützt.
+> 내가 그 애 아버지니까. 난 평생 아무 말도 안 하는 걸로 사람들을 지킨다고 생각했다. 그 애 엄마, 그 애, 나 자신. 결국 지켜진 건 회사뿐이었어.
+ELISABETH: Konstantin würde sagen, das sei etwas völlig anderes.
+> 콘스탄틴은 그건 전혀 다른 얘기라고 하겠죠.
+GEORG: Das habe ich 1979 auch gesagt, als ich unterschrieben habe. Alles ist etwas völlig anderes, solange man drinsteckt. … Hörst du? Die Glocken.
+> 1979년에 서명할 때 나도 그렇게 말했다. 안에 있는 동안은 뭐든 전혀 다른 얘기지. …들리니? 종소리다.
+ELISABETH: Eine Frage noch, wenn sie verklungen sind. Der Mann unter der Hochbahn hat auch etwas über eine Journalistin gesagt, nicht wahr? Danach hast du mich angerufen und nach einer Frau Kessler gefragt.
+> 종소리 그치면 하나만 더요. 고가 철로 밑 그 남자가 어떤 기자 얘기도 했죠? 그 뒤에 아버님이 저한테 전화해서 케슬러라는 여자를 아느냐고 물으셨잖아요.
+GEORG: Er sagte: «Die Journalistin wird nicht lockerlassen. Sie hat ihre eigenen Gründe.» Ich habe nie verstanden, was er damit meinte.
+> «그 기자는 물러서지 않을 겁니다. 자기 나름의 이유가 있거든요.» 그렇게 말했지. 무슨 뜻인지는 끝내 몰랐다.
+ELISABETH: Hast du diese Frau Kessler je gesehen?
+> 그 케슬러라는 분, 보신 적 있어요?
+GEORG: Nur in der Zeitung, ein kleines Foto über ihren Artikeln. Eine Frau in deinem Alter, ein paar Jahre älter vielleicht. Warum fragst du?
+> 신문에서만. 기사 위에 붙은 작은 사진. 너랑 비슷한 나이, 몇 살 더 많으려나. 왜 묻니?
+ELISABETH: Weil eine Richterin sich ungern mit Zufällen zufriedengibt. … Danke, Georg. Für die Wahrheit. Bei euch Falks muss man sie offenbar beim Vater abholen.
+> 판사는 우연으로 넘어가는 걸 싫어하거든요. …고마워요, 아버님. 진실을 말해 주셔서. 팔크 집안에선 진실을 아버지한테 가서 받아 와야 하나 봐요.
+
+== 절정 — VERWALTUNGSGERICHT, KIRCHSTRASSE
+WACHTMEISTER: Herr Falk? Ihre Frau hat Sie angekündigt. Samstags ist hier sonst nur der Bereitschaftsdienst für Eilsachen. Dritter Stock, das Zimmer am Ende des Flurs, die Tür steht offen.
+> 팔크 씨? 부인께서 오신다고 말씀해 두셨습니다. 토요일엔 원래 긴급 사건 당직만 있거든요. 3층, 복도 끝 방입니다. 문 열려 있어요.
+FALK: Danke. Arbeitet sie heute?
+> 고맙습니다. 오늘 일하는 건가요?
+WACHTMEISTER: Frau Richterin Falk kommt immer am Wochenende, wenn zu Hause etwas nicht stimmt. Das sage ich aber nur, weil Sie der Ehemann sind.
+> 팔크 판사님은 댁에 뭔가 안 맞는 일이 있으면 늘 주말에 나오십니다. 남편분이시니까 드리는 말씀이에요.
+ELISABETH: Mach die Tür zu und setz dich. Ich war heute Nachmittag bei deinem Vater. Er hat mir erzählt, was der Mann am Telefon über die Tochter gesagt hat. «Suchen Sie sie nicht.»
+> 문 닫고 앉아. 오늘 오후에 아버님 뵙고 왔어. 전화 속 남자가 그 딸에 대해 한 말 들려주시더라. «찾지 마십시오.»
+FALK: Elisabeth …
+> 엘리자베트…
+ELISABETH: Heute Nacht habe ich dich gefragt, ob das alles sei. Du hast «ja» gesagt. Dreizehn Stunden, so lange hat dein «alles» gehalten.
+> 어젯밤에 이게 전부냐고 물었지. 당신은 «응»이라고 했고. 열세 시간. 당신의 «전부»는 딱 그만큼 버텼어.
+FALK: Ich habe es nicht vergessen. Ich habe es weggelassen, weil ich wusste, was du sagen würdest.
+> 잊은 게 아니야. 당신이 뭐라고 할지 알아서 뺀 거야.
+ELISABETH: Dann sage ich es jetzt. Man hat dir gedroht, und du hast mich vorgeschickt. Nach Dresden, mit meinem Namen auf der Anfrage. Falls dieser Mann wissen wollte, wer nach Lenz fragt, weiß er es jetzt: die Frau des Sonderbeauftragten, Richterin am Verwaltungsgericht Berlin.
+> 그럼 지금 말할게. 당신은 협박을 받고 나를 앞세웠어. 드레스덴에, 내 이름을 문의서에 넣어서. 그 남자가 누가 렌츠를 묻고 다니는지 알고 싶었다면 이제 알겠지. 특별대표의 아내, 베를린 행정법원 판사.
+FALK: Ich wollte die Tochter finden, bevor er sie benutzt. Sie ist der Mensch, dem mein Vater am meisten geschadet hat. Wenn ihr jemand diese Akte auf den Tisch legt, dann soll ich es sein und nicht er.
+> 그놈이 그 딸을 이용하기 전에 찾고 싶었어. 아버지가 제일 큰 상처를 준 사람이잖아. 누가 그 사람 앞에 이 파일을 내놓는다면 그게 그놈이 아니라 나여야 해.
+ELISABETH: Das ist der erste ehrliche Satz seit Wochen. Und der Grund, warum ich noch hier sitze.
+> 몇 주 만에 처음 듣는 정직한 말이네. 그리고 내가 아직 여기 앉아 있는 이유이기도 하고.
+FALK: Was heißt «noch»?
+> «아직»이라는 게 무슨 뜻이야?
+ELISABETH: Es heißt, dass ich auf der Rückfahrt überlegt habe, zu Ruth zu fahren statt hierher. Ruth würde mir zuhören, als Freundin und als Staatssekretärin. Und am Montag läge alles auf Lehnerts Tisch, ohne dich.
+> 돌아오는 길에 여기 대신 루트한테 갈까 생각했다는 뜻이야. 루트라면 들어 줄 거야. 친구로서도, 사무차관으로서도. 그럼 월요일엔 모든 게 레너트 책상 위에 올라가 있겠지. 당신 없이.
+FALK: Das hättest du getan?
+> 그렇게 했을 거야?
+ELISABETH: Ich hätte es tun dürfen. Das ist der Unterschied zwischen uns, Konstantin: Ich sage dir, was ich tun könnte, bevor ich es tue. … Ich habe es nicht getan. Stattdessen habe ich Bedingungen aufgeschrieben, wie für einen Vergleich.
+> 그래도 됐어. 그게 우리 둘의 차이야, 콘스탄틴. 난 할 수 있는 일을 하기 전에 당신한테 말해. …안 했어. 대신 조건을 적었어. 화해 조서 쓰듯이.
+FALK: Ein Vergleich. Mit mir.
+> 화해라. 나랑.
+ELISABETH: Erstens: Du schreibst heute Nacht alles auf, seit dem Friedhof. Jedes Treffen, jede Lieferung, jede Uhrzeit. Ein Gedächtnisprotokoll, datiert und unterschrieben. Wenn der BND nichts aufschreibt, dann schreibst du.
+> 첫째. 오늘 밤에 전부 적어. 묘지 이후로. 모든 만남, 모든 납품, 모든 시각. 날짜 넣고 서명한 기억 조서로. BND가 아무것도 안 적으면 당신이 적어.
+FALK: Und wo soll das liegen? In der Mappe «Steuer 2027»?
+> 그건 어디 두라고? «세금 2027» 서류철에?
+ELISABETH: Nicht bei uns. Versiegelt bei Frau Lindner, Jans Anwältin, als Vorsorge für deine eigene Verteidigung. Geöffnet wird es nur auf deinen Wunsch oder wenn man dich anklagt. Ich will nicht die nächste Schublade sein, in der deine Akte liegt.
+> 우리 집엔 말고. 얀 변호사 린트너한테 봉인해서 맡겨. 당신 자신의 변론을 위한 대비로. 당신이 원하거나 당신이 기소될 때만 여는 거야. 당신 파일이 들어가는 다음 서랍이 내가 되고 싶진 않아.
+FALK: Zweitens?
+> 둘째는?
+ELISABETH: Keine Scheiben mehr. Wenn etwas Neues passiert, erfahre ich es am selben Tag, nicht am nächsten Sonntag. Und drittens: Wenn du die Tochter findest, sagst du es ihr selbst. Bevor es ein Umschlag tut.
+> 더는 조각내지 마. 새 일이 생기면 그날 바로 알려 줘. 다음 일요일 말고. 그리고 셋째. 그 딸을 찾으면 당신이 직접 말해. 봉투가 대신 말하기 전에.
+FALK: Und Lehnert?
+> 레너트는?
+ELISABETH: Ich gebe dir deine vier Wochen, bis Behrendt über die Brücke ist. Nicht weil du recht hast, sondern weil ein Diabetiker in Lefortowo nicht für unsere Ehe bezahlen soll. Danach gehst du zu Lehnert, oder ich gehe zu Ruth.
+> 4주 줄게. 베렌트가 다리를 건널 때까지. 당신이 옳아서가 아니라, 레포르토보에 있는 당뇨 환자가 우리 결혼 문제 값을 치르면 안 되니까. 그다음엔 당신이 레너트한테 가. 아니면 내가 루트한테 가고.
+FALK: Das ist Erpressung, Frau Richterin.
+> 그건 협박인데요, 판사님.
+ELISABETH: Nein. Eine Erpressung kommt in einem braunen Umschlag ohne Absender. Das hier ist eine Frist mit Unterschrift, mit meiner. … Und noch etwas: Wenn mich jemand unter Eid fragt, sage ich die Wahrheit. Das habe ich dir schon einmal gesagt, und es gilt weiter.
+> 아니. 협박은 발신인 없는 갈색 봉투로 오는 거야. 이건 서명이 든 기한이고. 내 서명. …그리고 하나 더. 누가 선서시키고 물으면 난 사실대로 말해. 전에도 말했지. 그건 그대로야.
+FALK: Ich unterschreibe. … Nur eine Frage, Frau Richterin. Bei einem Vergleich geben doch beide Seiten etwas nach. Was gibst du?
+> 서명할게. …질문 하나만요, 판사님. 화해라면 양쪽이 다 조금씩 양보하는 거잖아. 당신은 뭘 양보하는데?
+
+== 마무리 — SONNTAG, SECHS UHR FRÜH
+ELISABETH: Du hast die ganze Nacht geschrieben.
+> 밤새 썼구나.
+FALK: Einundzwanzig Seiten, mit Uhrzeiten, wie verlangt. Und das Telefon wohnt ab heute nicht mehr in der Küche, sondern im Flur, bei den Mützen.
+> 스물한 쪽. 요구한 대로 시각까지 다 넣어서. 그리고 그 전화기는 오늘부터 부엌 말고 현관에 살아. 털모자들이랑 같이.
+ELISABETH: Gestern hast du gefragt, was ich in diesem Vergleich nachgebe. Das hier: Ich bleibe. Und nächsten Sonntag fahren wir zusammen zu deinem Vater, mit Kuchen. Ich höre nicht auf, zu dieser Familie zu gehören, nur weil sie lügt.
+> 어제 이 화해에서 내가 뭘 양보하느냐고 물었지. 이거야. 난 안 떠나. 그리고 다음 주 일요일엔 같이 아버님한테 가. 케이크 들고. 이 집안이 거짓말한다고 해서 내가 이 집안 사람이기를 그만두진 않아.
+FALK: Danke.
+> 고마워.
+ELISABETH: Bedank dich nicht. Ich habe nicht vergeben, ich habe vertagt. Den Unterschied lernt man am Gericht. … Dein Handy. Um sechs Uhr an einem Sonntag.
+> 고마워하지 마. 용서한 게 아니라 미뤄 둔 거야. 그 차이는 법원에서 배우지. …당신 휴대폰. 일요일 아침 여섯 시에.
+ANNA: Herr Falk, hier ist Anna Kessler. Entschuldigen Sie die Uhrzeit. Ich habe die ganze Nacht überlegt, ob ich Sie anrufe.
+> 팔크 씨, 안나 케슬러예요. 이른 시간에 죄송해요. 밤새 전화할지 말지 고민했어요.
+FALK: Frau Kessler. Was ist passiert?
+> 케슬러 씨. 무슨 일입니까?
+ANNA: Gestern Abend lag ein Umschlag vor meiner Wohnungstür. Nicht in der Redaktion, vor meiner Wohnung. Darin war eine einzige Seite aus einer Stasi-Akte. Seite siebenundvierzig. Kein einziger Name geschwärzt.
+> 어젯밤에 우리 집 문 앞에 봉투가 하나 있었어요. 편집국이 아니라 우리 집 문 앞에요. 안에 슈타지 파일 한 장이 딱 들어 있었어요. 47쪽. 이름 하나 안 지워진 채로요.
+FALK: Sie haben sie gelesen.
+> 읽으셨군요.
+ANNA: Ich habe es versucht. … Sie haben mir im Tränenpalast etwas versprochen, Herr Falk: Wenn Sie erfahren, was «Kranich» bedeutet, erfahre ich es von Ihnen, nicht aus einem Umschlag. Sie wissen es seit über zwei Wochen.
+> 읽으려고 했어요. …눈물의 궁전에서 저한테 약속하셨죠, 팔크 씨. «크라니히»가 무슨 뜻인지 알게 되면 봉투가 아니라 당신 입으로 알려 주겠다고. 당신은 2주도 넘게 알고 있었죠.
+FALK: Ja. Und ich habe es Ihnen nicht gesagt. Das war falsch.
+> 네. 그리고 말씀드리지 않았죠. 잘못했습니다.
+ANNA: Morgen früh um acht, vor dem Tränenpalast. Bringen Sie Ihre Kopie mit, die ganze. Ich bringe auch etwas mit.
+> 내일 아침 여덟 시, 눈물의 궁전 앞. 당신 사본 가져오세요. 전부 다. 저도 가져갈 게 있어요.
+FALK: Was?
+> 뭘요?
+ANNA: Den Grund, warum ich diese Seite nicht zu Ende lesen konnte. Bis morgen, Herr Falk.
+> 제가 이 쪽을 끝까지 못 읽은 이유요. 내일 봬요, 팔크 씨.
+ELISABETH: Kessler, um sechs Uhr an einem Sonntag. … Denk an Bedingung zwei, Konstantin. Und vielleicht auch an drei.
+> 케슬러네. 일요일 아침 여섯 시에. …둘째 조건 기억해, 콘스탄틴. 그리고 어쩌면 셋째도.
