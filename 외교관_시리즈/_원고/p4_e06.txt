@@ -1,0 +1,332 @@
+@part 4
+@ep 6
+@title Der Bluff
+@title_ko 허세
+@tagline 허세 · 연기 감지기 속의 귀, 현관에서 올린 연극, 그리고 빈 19구의 아파트
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 6월 18일 금요일 새벽부터 밤까지, 판코우 팔크의 집 앞 모퉁이, 그로서 슈테른의 비스마르크 기념상, 빌헬름슈트라세 77번지(옛 제국 총리 관저 터), 베스트하펜 운하 옆 텃밭 Parzelle 41
+@cast FALK | 외무부 유럽안보 특별대표, 직무 정지 중 (44)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast KOCH | Sabine Koch · 외무부 정보보안 담당관
+@cast HOLLERBACH | Mag. Stefan Hollerbach · 빈의 금융 해결사, 전화 (가상)
+@cast SEDOV | Viktor Sedov · 주독 러시아 대사관 공사참사관 (56)
+@cast LEHNERT | Dr. Martin Lehnert · 연방총리실장 (58)
+@cast ANNA | Anna Kessler, 결혼 전 성 Lenz · «Berliner Depesche» 기자, 전화 (45)
+@note ※ 지난 화: 6월 17일 바르샤바에서 팔크는 Nowak과 신뢰를 되찾고 du로 말을 놓았습니다. 폴란드가 이끄는 Jan 구출 경로(핀란드 바알리마 국경)가 짜였지만, 핀란드는 «페테르부르크에서 통하는 러시아 쪽 서명자»를 조건으로 걸었습니다. 그날 밤 팔크는 Sedov에게 «빈, 19구. 현금으로 산 아파트.»라는 문자를 보냈고, Sedov는 곧장 전화해 6월 18일 10시에 만나자고 했습니다. 장소는 한 시간 전에 알려 준다고 했고, «바르샤바에 안부를» 전해 달라고 덧붙였습니다. 판코우 집은 4월부터 도청되고 있지만, 장치가 어디 있는지는 아직 모릅니다.
+@note ※ 이번 화의 허세(진실과 거짓): 팔크가 실제로 아는 것은 네 가지입니다. ① 빈의 Hollerbach는 2019년 이후 모든 송금을 연필로 적은 장부(Kassabuch)를 금고에 두고 있다. ② 그 장부에 «빈 19구에 현금으로 산 아파트를 가진, 베를린의 러시아 외교관» 한 쪽이 있다(3부 7화에 Hollerbach가 직접 말함). ③ Greve의 돈 20만 유로 가운데 16만은 로스토크로 갔고, 4만 유로는 어디로 갔는지 아무도 설명하지 못했다. ④ Hollerbach는 그 쪽을 팔크에게 준 적이 없다. 팔크가 지어낸 것은 세 가지입니다. ⑴ 그 쪽의 사본을 갖고 있다 ⑵ 거기 Sedov의 이름이 적혀 있다 ⑶ 사라진 4만 유로가 그 아파트로 갔다. 팔크는 그 쪽을 본 적도 없고 이름도 모릅니다.
+@note ※ 호칭: 팔크와 Elisabeth, Anna는 du를 씁니다. Koch, Hollerbach, Sedov, Lehnert와는 Sie를 씁니다(한국어는 격식체). Hollerbach는 오스트리아 표현(Grüß Gott, Na geh, Schmäh, Kassabuch)을 쓰고, Sedov는 전화를 받으며 러시아어 «Da»(네), «Ponjal»(알겠습니다)를 짧게 말합니다.
+@note ※ 표현 초점: Rauchmelder(연기 감지기), Wanze(도청기), bluffen / der Bluff(허세를 부리다), Kassabuch(장부, 오스트리아어), Einschränkung(단서·제한), quitt sein(비기다), Notausgang(비상구), Konsultationen(협의, 외교적 «소환»의 완곡어), der ehrliche Makler(정직한 중개인), Provision(수수료), keine Bedenken haben(이의가 없다), Befangenheit anzeigen(기피 사유를 신고하다). 접속법 II: «Bismarck hätte Sie beneidet.» 간접화법(접속법 I): «Er schreibt, seine Mandantin habe keinerlei Bedenken gegen die Mitwirkung der Richterin Falk.»
+@history «전쟁이 눈앞에?» 위기 (Krieg-in-Sicht-Krise, 1875) — 1871년 패전 뒤 프랑스가 예상보다 빨리 군대를 재건하고 1875년 3월 군 간부 증강법을 통과시키자, 1875년 4월 베를린 신문 «Die Post»에 «Ist der Krieg in Sicht?»(전쟁이 눈앞에 와 있는가?)라는 제목의 기사가 실렸습니다. 비스마르크가 직접 쓰지는 않았지만 정부 쪽 언론 공작으로 여겨졌고, 예방 전쟁을 암시해 파리를 겁주려는 허세였습니다. 그러나 프랑스 외무장관 드카즈는 런던과 상트페테르부르크에 도움을 청했고, 5월 차르 알렉산드르 2세와 외무장관 고르차코프가 베를린을 찾았으며 영국도 압력을 넣었습니다. 비스마르크는 전쟁 의도가 없다고 해명해야 했고, 고르차코프가 «Maintenant la paix est assurée»(이제 평화는 확보되었다)라고 공치사했다는 이야기에 평생 분노했습니다. 상대가 제3자에게 전화할 수 있으면 허세는 무너진다는 교훈을 남긴 사건입니다.
+@history 베를린 회의와 «정직한 중개인» (1878) — 러시아는 1878년 3월 산스테파노 조약으로 오스만 제국에게서 «대불가리아»를 얻어 냈지만, 영국과 오스트리아가 반발했습니다. 비스마르크는 1878년 2월 19일 제국의회 연설에서 자신의 역할을 «거래를 진짜로 성사시키려는 정직한 중개인(ehrlicher Makler)»이라고 표현했고, 6월 13일부터 7월 13일까지 빌헬름슈트라세 77번지 제국 총리 관저에서 베를린 회의를 주재했습니다. 대불가리아는 세 조각으로 나뉘었고, 러시아에서는 베를린에 배신당했다는 원망이 커졌으며, 1879년 독일은 오스트리아와 양국 동맹을 맺었습니다. 그보다 앞선 1877년 6월 비스마르크는 바트 키싱겐에서 구술한 문서(«Kissinger Diktat»)에, 프랑스를 뺀 모든 열강이 독일을 필요로 하는 «정치적 전체 상황»을 목표로 적었습니다. 관저 자리에는 지금 1980년대 아파트와 안내판이 서 있습니다.
+@preview 4부 7화 — «Greve fällt»(그레베의 몰락) — 6월 22일 화요일 새벽 여섯 시, Anna의 기사가 나간다. 리마솔의 같은 돈이 라보에의 집과 로스토크의 «아카데믹 소린» 대리점으로 흘러갔다는 보도에 Greve는 무너지기 직전이다. 궁지에 몰린 Greve는 Elisabeth가 맡았던 재판을 볼모로 팔크를 협박하고, 팔크는 그 대화를 녹음한다.
+
+== 도입 — SECHS UHR VIERZIG, PANKOW
+KOCH: Herr Falk, ich habe drinnen kein einziges Wort gesagt, wie es auf Ihrem Zettel stand. Hier draußen darf ich, oder?
+> 팔크 씨, 쪽지에 쓰신 대로 안에서는 한 마디도 안 했어요. 여기 밖에서는 말해도 되죠?
+FALK: An dieser Ecke hört uns nur der Mann vom Späti, und der hört seit zwanzig Jahren grundsätzlich nichts. Haben Sie etwas gefunden?
+> 이 모퉁이에선 슈패티 아저씨나 듣겠죠. 그 양반은 이십 년째 원칙적으로 아무것도 안 듣고요. 뭐 찾으셨습니까?
+KOCH: Im Flur, an der Decke, im Rauchmelder. Von außen ein ganz gewöhnliches Gerät mit Prüfplakette. Innen ein Mikrofon, eine größere Batterie und eine SIM-Karte aus Österreich.
+> 현관 천장, 연기 감지기 안에요. 겉으로는 점검 스티커까지 붙은 평범한 감지기예요. 안에는 마이크랑 큰 배터리, 그리고 오스트리아 유심 칩이 있었어요.
+ELISABETH: Aus Österreich. … Im April war ein Mann von der Rauchmelderwartung da, blaue Jacke, sehr höflich, zwanzig Minuten. Ich habe ihm sogar Kaffee angeboten.
+> 오스트리아라. …4월에 연기 감지기 점검하러 남자가 왔었어. 파란 재킷에 아주 친절했고, 이십 분 있었어. 내가 커피까지 권했다니까.
+KOCH: Achter April, steht auf der Plakette. Die Firma auf Ihrem Zettel im Briefkasten hat eine Nummer, die es seit Mai nicht mehr gibt. Das Gerät schickt alle vier Minuten ein kleines Datenpaket ins Netz; wer am anderen Ende sitzt, hört Ihren Flur also beinahe live.
+> 스티커엔 4월 8일이라고 돼 있어요. 우편함에 들어왔던 안내문의 업체 번호는 5월부터 없는 번호고요. 이 장치는 4분마다 작은 데이터 묶음을 망으로 보내요. 그러니까 저쪽 끝에 앉은 사람은 현관 소리를 거의 실시간으로 듣는 거죠.
+FALK: Beinahe live. Nicht achtundvierzig Stunden später.
+> 거의 실시간. 48시간 뒤가 아니라.
+KOCH: Achtundvierzig Stunden braucht vielleicht jemand, der die Pakete unterwegs abfängt und erst entschlüsseln muss. Wer sie empfängt, hat sie nach vier Minuten.
+> 48시간은 중간에서 가로채서 해독부터 해야 하는 쪽 얘기겠죠. 받는 쪽은 4분이면 받아요.
+ELISABETH: Dann wusste am Mittwochabend jemand, dass du nach Warschau fliegst. Du hast es im Flur gesagt, beim Schuheputzen: «Ich nehme den Sechs-Uhr-Flug.»
+> 그럼 수요일 저녁에 당신이 바르샤바 간다는 걸 누가 알았던 거네. 당신 현관에서 구두 닦으면서 말했잖아. «여섯 시 비행기 탈게.»
+FALK: Und gestern Abend hat Sedov mich gebeten, Warschau zu grüßen. Ich hatte die Passagierlisten im Verdacht. Es waren meine eigenen Schuhe.
+> 그리고 어젯밤 세도프가 바르샤바에 안부 전하라고 했지. 난 탑승자 명단을 의심했는데. 내 구두였네.
+KOCH: Die Küche hört er auch, schwächer, durch die dünne Wand zum Arbeitszimmer. Herr Falk, ich nehme das Ding heute noch ab und bringe es zum Verfassungsschutz.
+> 부엌 소리도 들려요. 서재 쪽 얇은 벽을 통해서 좀 약하게요. 팔크 씨, 이건 오늘 떼어서 헌법수호청에 가져가겠습니다.
+FALK: Bitte nicht. Ich brauche es noch, mindestens bis heute Abend.
+> 제발 그러지 마세요. 아직 필요합니다. 적어도 오늘 저녁까지는.
+KOCH: Sie wollen eine Wanze behalten, die Ihr Haus seit April abhört?
+> 4월부터 댁을 엿들은 도청기를 그냥 두시겠다고요?
+FALK: Zum ersten Mal weiß ich, wer zuhört und wie schnell. Ein Mikrofon, von dem man weiß, ist ein Lautsprecher.
+> 처음으로 누가 듣는지, 얼마나 빨리 듣는지 알게 됐잖아요. 알고 있는 마이크는 확성기입니다.
+KOCH: Ich bin Beamtin, Herr Falk, und heute früh war ich ohne Auftrag in einer Privatwohnung. Bis Montag acht Uhr schweige ich. Dann melde ich es dienstlich, mit Uhrzeit und Foto.
+> 저는 공무원이에요, 팔크 씨. 그리고 오늘 아침엔 임무도 없이 남의 집에 들어왔고요. 월요일 아침 여덟 시까진 입 다물게요. 그다음엔 시간이랑 사진까지 붙여서 정식으로 보고합니다.
+FALK: Montag acht Uhr ist mehr, als ich erwarten durfte. Warum tun Sie das?
+> 월요일 여덟 시면 기대한 것보다 많네요. 왜 이렇게까지 해 주십니까?
+KOCH: Im März habe ich in Raum 4.17 ein Protokoll geöffnet, das man mich eine Woche lang nicht öffnen lassen wollte. Seitdem weiß ich, wem man in diesem Amt besser nichts meldet, solange man es nicht schriftlich hat.
+> 3월에 4.17호실에서, 일주일 동안 못 열게 막던 기록을 제가 열었잖아요. 그때부터 알아요. 이 부처에서 서면으로 쥐기 전엔 누구한테 보고하면 안 되는지.
+ELISABETH: Wo wir schon draußen stehen: die Akte von vorgestern. Gestern habe ich dir den Kläger nicht genannt; seit heute früh ist er kein Geheimnis meiner Kammer mehr. Es ist die «Greve LNG Lubmin GmbH», gegen den Bund, wegen einer Förderzusage für das Terminal.
+> 밖에 나온 김에. 그저께 들어온 그 사건 말이야. 어제는 원고 이름을 말 안 했지. 오늘 아침부터는 우리 재판부만의 비밀이 아니게 됐어. «그레베 LNG 루브민 유한회사»야. 국가를 상대로, 터미널 지원 약속 문제로.
+FALK: Seit heute früh. Was ist heute früh passiert?
+> 오늘 아침부터라. 오늘 아침에 무슨 일이 있었는데?
+ELISABETH: Um sechs lag ein Fax von Greves Anwalt im Gericht. Er schreibt, seine Mandantin habe «keinerlei Bedenken» gegen die Mitwirkung der Richterin Falk. Niemand hatte ihn gefragt.
+> 여섯 시에 그레베 변호사 팩스가 법원에 와 있었어. 의뢰인은 팔크 판사의 참여에 «아무런 이의가 없다»고 썼더라. 아무도 안 물어봤는데.
+FALK: Keine Bedenken. Das ist keine Höflichkeit, das ist ein Haken, den man auswirft, um später daran zu ziehen.
+> 이의 없음이라. 그건 예의가 아니야. 나중에 잡아당기려고 던져 두는 낚싯바늘이지.
+ELISABETH: Ich zeige heute meine Befangenheit an, ob er Bedenken hat oder nicht. Und jetzt sag mir, was du mit unserem Rauchmelder vorhast.
+> 그쪽이 이의가 있든 없든 오늘 기피 사유 신고할 거야. 이제 말해 봐. 우리 연기 감지기로 뭘 하려는 건지.
+FALK: Theater. Um zehn nach sieben, im Flur. Und du spielst mit, wenn du willst.
+> 연극. 일곱 시 10분에, 현관에서. 그리고 당신이 원하면 같이 하는 거고.
+
+== 장면 1 — THEATER IM FLUR
+FALK: Ich sage drinnen vier wahre Dinge und drei falsche. Wahr ist: Hollerbach führt ein Kassabuch, mit Bleistift. Darin steht eine Seite über einen russischen Diplomaten in Berlin mit einer Wohnung im neunzehnten Bezirk, bar bezahlt. Und in Greves Geldkette fehlen seit Wien vierzigtausend Euro, die niemand erklären kann.
+> 안에서 진짜 넷, 가짜 셋을 말할 거야. 진짜는 이거야. 홀러바흐는 연필로 장부를 쓴다. 거기 빈 19구에 현금으로 산 아파트를 가진, 베를린의 러시아 외교관에 관한 페이지가 하나 있다. 그리고 그레베 돈줄에는 빈 이후로 아무도 설명 못 하는 4만 유로가 빈다.
+ELISABETH: Und falsch?
+> 그럼 가짜는?
+FALK: Dass ich eine Kopie dieser Seite habe. Dass Sedovs Name darauf steht. Und dass die vierzigtausend in diese Wohnung geflossen sind. Ich habe die Seite nie gesehen, Elisabeth, und den Namen kenne ich nicht.
+> 내가 그 페이지 사본을 갖고 있다는 거. 거기 세도프 이름이 적혀 있다는 거. 그리고 그 4만 유로가 그 아파트로 흘러갔다는 거. 난 그 페이지를 본 적도 없어, 엘리자베트. 이름도 모르고.
+ELISABETH: Seit Freitag vor einer Woche hast du nur Köder ausgelegt, keine Lügen für dich selbst. Heute willst du dreimal lügen, und unser Flur soll Zeuge sein.
+> 지난주 금요일 이후로 당신은 미끼만 놨지, 당신 자신을 위한 거짓말은 안 했잖아. 오늘은 세 번 거짓말하겠다는 거고, 그 증인이 우리 현관이고.
+FALK: Ich schreibe alle drei heute Abend auf meine Liste, mit Uhrzeit. Jan würde sie sowieso zählen.
+> 오늘 저녁에 셋 다 시간까지 적어서 목록에 올릴게. 얀이라면 어차피 셌을 테니까.
+ELISABETH: Ich spiele mit, aber ich stelle nur Fragen. Eine Frage ist keine Behauptung; damit kann eine Richterin leben.
+> 같이 할게. 근데 난 질문만 해. 질문은 주장이 아니니까. 그 정도면 판사도 감당할 수 있어.
+FALK: Mehr brauche ich nicht. Sobald ich die Tür aufschließe, fängt es an.
+> 그거면 충분해. 내가 문 여는 순간부터 시작이야.
+ELISABETH: Bist du schon zurück? Wo warst du so früh?
+> 벌써 왔어? 이렇게 일찍 어디 갔었어?
+FALK: Ich habe die Kopie weggebracht. Sie liegt seit heute Nacht dort, wo auch das Protokoll vom Mai liegt, versiegelt.
+> 사본 맡기고 왔어. 어젯밤부터 5월 조서가 있는 바로 그곳에 있어. 봉인해서.
+ELISABETH: Die Seite aus Hollerbachs Buch? Mit Bleistift?
+> 홀러바흐 장부의 그 페이지? 연필로 쓴 거?
+FALK: Mit Bleistift. Eine Wohnung im Neunzehnten, bar bezahlt, und darüber ein Name, den jeder kennt, der in Berlin mit der russischen Botschaft zu tun hat.
+> 연필로. 19구 아파트, 현금 결제. 그리고 그 위에 이름 하나. 베를린에서 러시아 대사관이랑 엮여 본 사람이면 다 아는 이름.
+ELISABETH: Sedov?
+> 세도프?
+FALK: Sedov. Viktor Sedov, Gesandter-Botschaftsrat, in sauberer Buchhalterschrift.
+> 세도프. 빅토르 세도프, 공사참사관. 깔끔한 경리 글씨로.
+ELISABETH: Und das Geld?
+> 그럼 돈은?
+FALK: Vierzigtausend, Februar, über Donau Risk. Genau die Summe, die in Greves Kette fehlt. Jemand hat sich aus der Kasse für die «Akademik Sorin» eine Küche in Wien bezahlt.
+> 4만 유로, 2월, 도나우 리스크를 거쳐서. 그레베 돈줄에서 비는 바로 그 금액이야. 누군가 «아카데믹 소린» 작전 금고에서 빈 아파트 부엌값을 빼 쓴 거지.
+ELISABETH: Und wer bekommt die Kopie, wenn dir etwas passiert?
+> 그럼 당신한테 무슨 일 생기면 그 사본은 누가 받아?
+FALK: Karlsruhe. Und eine zweite geht an die Adresse, die er am meisten fürchtet: an seine eigenen Leute.
+> 카를스루에. 그리고 두 번째 사본은 그자가 제일 무서워하는 주소로 가. 자기 편 사람들한테.
+ELISABETH: Gehen wir? Sonst kommst du zu spät.
+> 갈까? 안 그러면 늦겠어.
+FALK: Draußen. Vorhang. Sieben Uhr vierzehn; in vier Minuten ist es in Wien, und wer dort Kunde ist, liest es zum Frühstück.
+> 밖이다. 막 내렸어. 일곱 시 14분. 4분 뒤면 빈에 가 있을 거고, 거기 고객이라면 아침 먹으면서 읽겠지.
+ELISABETH: Du hast gar nicht für Sedov gespielt.
+> 당신, 세도프 들으라고 한 게 아니구나.
+FALK: Für Sedov hätte eine SMS gereicht. Gespielt habe ich für die, die Donau Risk bezahlen. Jetzt muss ich nur noch einen Mann in Wien daran hindern, mir zu widersprechen.
+> 세도프한테라면 문자 한 통이면 됐지. 연극은 도나우 리스크에 돈 대는 쪽 들으라고 한 거야. 이제 빈에 있는 한 사람이 내 말을 반박하지 못하게만 하면 돼.
+HOLLERBACH: Grüß Gott, Herr Falk. Um halb acht ruft man in Wien nur an, wenn jemand gestorben ist. Hoffentlich niemand, den ich kenne.
+> 안녕하세요, 팔크 씨. 빈에선 아침 일곱 시 반에 전화하는 건 누가 죽었을 때뿐인데요. 제가 아는 사람이 아니면 좋겠네요.
+FALK: Noch niemand, Herr Magister. In zweieinhalb Stunden treffe ich Sedov, und er wird mich fragen, woher ich von der Wohnung im Neunzehnten weiß.
+> 아직은 아무도요, 마기스터 씨. 두 시간 반 뒤에 세도프를 만납니다. 19구 아파트 얘길 어디서 들었는지 물을 겁니다.
+HOLLERBACH: Na geh. Sie haben ihm davon erzählt? Ich wohne selbst im Neunzehnten, Herr Falk, in Grinzing. Wenn Sedov jetzt nachdenkt, denkt er zuerst an mich.
+> 아이고, 참. 그 얘길 그 사람한테 했어요? 저도 19구에 살아요, 팔크 씨. 그린칭에. 세도프가 머리를 굴리면 제일 먼저 저를 떠올릴 겁니다.
+FALK: Genau deshalb rufe ich an. Ich kann ihm sagen, dass ich von Ihnen nichts bekommen habe, und das ist sogar wahr. Oder ich schweige, und er rechnet selbst.
+> 그래서 전화한 겁니다. 마기스터 씨한테서 아무것도 받지 않았다고 말해 줄 수 있어요. 게다가 그건 사실이고요. 아니면 제가 입 다물고, 그 사람이 알아서 계산하게 둘 수도 있죠.
+HOLLERBACH: Das ist Erpressung, Herr Falk. Und eine sehr unösterreichische dazu, ganz ohne Schmäh.
+> 그건 협박이에요, 팔크 씨. 그것도 아주 비오스트리아식이네요. 능청이라곤 하나도 없이.
+FALK: Es ist die Sprache, in der Sie mir in Wien Eleni angeboten haben. Sie ist seit zweieinhalb Wochen in Paphos «auf Urlaub». Heute fährt sie nach Hause, bekommt ihr Telefon zurück, und der anonyme Brief an Frau Kessler wird nie geschrieben.
+> 빈에서 엘레니를 두고 저한테 쓰신 말투죠. 그 사람, 2주 반째 파포스에서 «휴가» 중이잖아요. 오늘 집에 보내 주고, 전화기 돌려주고, 케슬러 씨한테 갈 익명 편지는 영영 쓰지 마세요.
+HOLLERBACH: Und dafür sagen Sie Sedov, dass die Seite nicht von mir kommt.
+> 그 대가로 세도프한테 그 페이지가 저한테서 나온 게 아니라고 말해 주시고요.
+FALK: Wörtlich. Und wenn die Dame bis achtzehn Uhr Frau Kessler nicht selbst angerufen hat, von ihrem eigenen Telefon, aus ihrer eigenen Küche, dann sage ich ihm ab morgen gar nichts mehr über Sie.
+> 글자 그대로요. 그리고 그분이 저녁 여섯 시까지 케슬러 씨한테 직접 전화하지 않으면, 자기 전화로, 자기 부엌에서요, 내일부턴 마기스터 씨에 관해 세도프한테 아무 말도 안 하겠습니다.
+HOLLERBACH: … Ein Wagen bringt sie mittags nach Nikosia. Ich hätte sie ohnehin nächste Woche heimgeschickt; der Urlaub ist ein bisserl teuer geworden.
+> …정오에 차로 니코시아에 모셔다 드리죠. 어차피 다음 주엔 집에 보낼 생각이었어요. 휴가비가 좀 비싸져서요.
+FALK: Noch eins. Wenn Sedov Sie heute anruft, was sagen Sie ihm?
+> 하나 더요. 세도프가 오늘 전화하면 뭐라고 하실 겁니까?
+HOLLERBACH: Dass mein Kassabuch im Safe liegt und ich nicht weiß, wer sonst noch einen Schlüssel hat. Das ist das Schöne an der Wahrheit, Herr Falk: Sie macht den Leuten mehr Angst als jede Lüge. Den Namen behalte ich, bis die Tür aufgeht.
+> 제 장부는 금고에 있고, 열쇠를 또 누가 갖고 있는지는 모른다고 하겠죠. 그게 진실의 좋은 점이에요, 팔크 씨. 어떤 거짓말보다 사람을 더 겁먹게 하거든요. 이름은 문이 열릴 때까지 제가 갖고 있겠습니다.
+
+== 장면 2 — KRIEG IN SICHT
+FALK: Großer Stern, Bismarck-Denkmal. Ihre SMS kam um neun Uhr null null, auf die Sekunde.
+> 그로서 슈테른, 비스마르크 기념상. 문자는 아홉 시 정각에 왔더군요. 초까지 정확하게.
+SEDOV: Pünktlichkeit ist das Letzte, was einem bleibt, wenn man sonst nichts mehr kontrolliert. Wissen Sie, dass er früher vor dem Reichstag stand? 1938 hat man ihn hierher geschoben, weil er Speers Achse im Weg war.
+> 시간 엄수는, 달리 통제할 게 하나도 없을 때 마지막으로 남는 거죠. 저 사람이 원래 제국의회 앞에 서 있었던 거 아십니까? 1938년에 슈페어의 축선에 걸린다고 여기로 밀려났죠.
+FALK: Sie haben mich nicht hierherbestellt, um über Stadtplanung zu reden.
+> 도시 계획 얘기를 하려고 여기로 부르신 건 아닐 텐데요.
+SEDOV: Nein, über eine Zeitung. Im April 1875 stand in der Berliner «Post» eine Frage als Überschrift: «Ist der Krieg in Sicht?» Bismarck hatte sie nicht geschrieben, aber er hatte nichts dagegen, dass man sie in Paris las.
+> 아니요. 신문 얘기를 하려고요. 1875년 4월 베를린의 «포스트»에 질문 하나가 제목으로 실렸죠. «전쟁이 눈앞에 와 있는가?» 비스마르크가 쓴 건 아니지만, 그걸 파리에서 읽는 걸 마다하지도 않았습니다.
+FALK: Frankreich rüstete nach 1871 schneller wieder auf, als Berlin lieb war, und im März 1875 kam das neue Kadergesetz. Bismarck wollte Paris erschrecken, ohne einen einzigen Schuss abzugeben.
+> 1871년 이후 프랑스는 베를린이 바라는 것보다 빨리 재무장했죠. 1875년 3월엔 새 간부법까지 나왔고요. 비스마르크는 총 한 발 안 쏘고 파리를 겁주고 싶었던 겁니다.
+SEDOV: Und Paris hat nicht gezittert, sondern, wie man heute sagen würde, telefoniert: nach London und nach Petersburg. Im Mai kam der Zar mit Gortschakow nach Berlin, aus London kamen sehr deutliche Briefe, und Bismarck musste versichern, er habe nie an Krieg gedacht.
+> 그런데 파리는 떨지 않고, 요즘 말로 하면 전화를 돌렸죠. 런던에, 그리고 페테르부르크에. 5월엔 차르가 고르차코프를 데리고 베를린에 왔고, 런던에선 아주 노골적인 편지들이 왔고, 비스마르크는 전쟁 같은 건 생각해 본 적도 없다고 다짐해야 했습니다.
+FALK: Und Gortschakow soll an alle Botschaften telegrafiert haben: «Maintenant la paix est assurée.» Als hätte er den Frieden persönlich gerettet.
+> 그리고 고르차코프는 모든 대사관에 «이제 평화는 확보되었다»고 전보를 쳤다죠. 마치 자기가 평화를 몸소 구해 낸 것처럼.
+SEDOV: Bismarck hat ihm das nie verziehen. Der Bluff ist gescheitert, Herr Falk, weil der, den man bluffen wollte, einen Dritten anrufen konnte. Gestern Abend haben Sie mir eine Überschrift geschickt. Heute rufe ich meinen Dritten an, bevor ich zittere.
+> 비스마르크는 그걸 끝내 용서하지 않았죠. 그 허세가 실패한 건, 팔크 씨, 속이려던 상대가 제3자에게 전화할 수 있었기 때문입니다. 어젯밤 당신은 제게 신문 제목 같은 걸 보냈죠. 오늘 저는 떨기 전에 제 제3자에게 전화부터 하겠습니다.
+FALK: Rufen Sie an. Ich warte.
+> 전화하세요. 기다리죠.
+SEDOV: Später. Erst möchte ich hören, was Sie zu haben glauben. Langsam bitte; ich schreibe mit.
+> 나중에요. 먼저 당신이 갖고 있다고 믿는 걸 듣고 싶군요. 천천히 부탁합니다. 받아 적을 테니.
+FALK: Herr Hollerbach in Wien führt ein Kassabuch, jede Zahlung seit 2019. Eine Seite darin gehört einem russischen Diplomaten in Berlin und einer Wohnung im neunzehnten Bezirk, bar bezahlt, die in keinem Lebenslauf steht.
+> 빈의 홀러바흐 씨는 장부를 씁니다. 2019년 이후 모든 송금을요. 거기 한 페이지가 베를린의 러시아 외교관 한 명과 19구의 아파트 한 채에 관한 겁니다. 현금으로 샀고, 어느 이력서에도 없는 아파트죠.
+SEDOV: Das ist Wien. In Wien besitzt jeder eine Wohnung, die in keinem Lebenslauf steht. Und weiter?
+> 빈이 원래 그렇죠. 빈에선 누구나 이력서에 없는 아파트 하나쯤은 있습니다. 그리고요?
+FALK: Ich habe eine Kopie dieser Seite. Ihr Name steht darauf.
+> 저는 그 페이지 사본을 갖고 있습니다. 거기 당신 이름이 있어요.
+SEDOV: … Und womit ist sie geschrieben, Ihre Kopie? Hollerbach liebt seinen Füllfederhalter, grüne Tinte, wenn ich mich recht erinnere.
+> …그 사본, 뭘로 적혀 있습니까? 홀러바흐는 만년필을 좋아하죠. 제 기억이 맞다면 초록 잉크였던가.
+FALK: Mit Bleistift, Herr Sedov. Er schreibt alles mit Bleistift, wie ein Buchhalter aus den Fünfzigern. Grüne Tinte benutzt in dieser Geschichte jemand anderes.
+> 연필입니다, 세도프 씨. 1950년대 경리처럼 전부 연필로 쓰죠. 이 이야기에서 초록 잉크를 쓰는 건 다른 사람이고요.
+SEDOV: Gut. Sie waren also tatsächlich in seiner Nähe. Hat er Ihnen die Seite gegeben?
+> 좋습니다. 그 사람 가까이 가 본 건 사실이군요. 그 사람이 페이지를 줬습니까?
+FALK: Nein. Von Herrn Hollerbach habe ich nichts bekommen. Woher die Kopie stammt, sage ich Ihnen nicht.
+> 아니요. 홀러바흐 씨한테선 아무것도 받지 않았습니다. 사본이 어디서 났는지는 말하지 않겠습니다.
+SEDOV: Nicht von Hollerbach. Dann von jemandem, der in seinen Safe schauen kann, und davon gibt es in Wien nicht viele. Was steht noch darauf?
+> 홀러바흐가 아니라. 그럼 그 금고를 들여다볼 수 있는 누군가겠군요. 빈에 그런 사람은 많지 않죠. 또 뭐가 적혀 있습니까?
+FALK: Vierzigtausend Euro, Februar, über Donau Risk. Von Greves zweihunderttausend gingen hundertsechzigtausend nach Rostock zur Agentur der «Akademik Sorin». Den Rest konnte bisher niemand erklären. Jetzt schon.
+> 4만 유로, 2월, 도나우 리스크 경유. 그레베의 20만 유로 중 16만은 로스토크의 «아카데믹 소린» 대리점으로 갔죠. 나머지는 지금까지 아무도 설명 못 했습니다. 이제는 됐고요.
+SEDOV: Im Februar habe ich in Wien nichts gekauft.
+> 2월엔 빈에서 아무것도 안 샀습니다.
+FALK: «Im Februar.» Sie sagen nicht «nie», Herr Sedov. Sie sagen «im Februar».
+> «2월엔.» «한 번도»라고 하지 않으시네요, 세도프 씨. «2월엔»이라고 하시네.
+SEDOV: Sie hören zu wie Ihr Vater. Er hat mir 1989 erklärt, dass Menschen sich nicht in ihren Lügen verraten, sondern in ihren Einschränkungen.
+> 아버님처럼 들으시는군요. 1989년에 그분이 그러셨죠. 사람은 거짓말에서가 아니라 단서를 다는 데서 들킨다고.
+FALK: Dann hat er Ihnen etwas beigebracht, das Ihnen heute schadet.
+> 그럼 그분이 오늘 당신한테 해가 될 걸 가르쳐 드린 셈이네요.
+SEDOV: Eine Seite, die Sie mir nicht zeigen, ist ein Gerücht, Herr Falk. Und mit Gerüchten über Wohnungen in Wien erschreckt man in Moskau niemanden mehr.
+> 보여 주지 않는 페이지는 소문일 뿐입니다, 팔크 씨. 그리고 빈 아파트에 관한 소문으론 이제 모스크바에서 아무도 겁먹지 않아요.
+FALK: Mit einer Wohnung nicht. Mit vierzigtausend Euro aus einer Operationskasse schon. In Ihrem Beruf verzeiht man einem Mann vieles, aber nicht, dass er sich aus dem Topf für ein Kabel eine Küche in Wien bezahlt.
+> 아파트 하나로는 안 되겠죠. 작전 금고에서 나간 4만 유로라면 얘기가 다릅니다. 당신네 업계에선 사람한테 많은 걸 용서하지만, 케이블 작전에 쓸 돈에서 빈 아파트 부엌값을 빼 쓴 것까진 용서 안 하죠.
+SEDOV: Sie sagen «Kabel», als hätte ein Gericht es festgestellt.
+> «케이블»이라고 하시네요. 무슨 법원이 확정이라도 한 것처럼.
+FALK: Kein Gericht. Ein Schiff, ein Anker und zwei Überweisungen nach Rostock, die ich Ihnen nicht erklären muss.
+> 법원은 아니죠. 배 한 척, 닻 하나, 그리고 로스토크로 간 송금 두 건. 당신한테 설명할 필요도 없는 것들이요.
+SEDOV: Und wenn ich Ihnen sage, dass Sie bluffen, wie Bismarck 1875?
+> 그럼 제가, 당신이 1875년의 비스마르크처럼 허세를 부리는 거라고 하면요?
+FALK: Dann rufen Sie Ihren Dritten an. Gortschakow hatte London und den Zaren. Wen haben Sie heute, Herr Sedov?
+> 그럼 당신의 제3자에게 전화하세요. 고르차코프한텐 런던과 차르가 있었죠. 오늘 당신한텐 누가 있습니까, 세도프 씨?
+
+== 장면 3 — DIE LEITUNG NACH WIEN
+SEDOV: Wen ich habe? Um acht Uhr zwanzig lag eine Abschrift Ihres Flurs auf meinem Schreibtisch, Herr Falk. Nicht von meinen Leuten, sondern vom Botschafter, mit einem gelben Zettel: «Erklären Sie das bis zwölf Uhr.»
+> 누가 있느냐고요? 여덟 시 20분에 당신 집 현관의 녹취록이 제 책상에 놓여 있었습니다, 팔크 씨. 제 사람들이 아니라 대사가 보낸 거였죠. 노란 메모지를 붙여서. «열두 시까지 해명하시오.»
+FALK: Dann hat es funktioniert. Sie waren nie mein Publikum.
+> 그럼 통한 거네요. 제 관객은 처음부터 당신이 아니었으니까.
+SEDOV: Sie wussten von dem Rauchmelder.
+> 연기 감지기를 알고 계셨군요.
+FALK: Seit sechs Uhr vierzig. Sie kennen meinen Flur seit April, ich kenne Ihr Mikrofon seit heute Morgen. Seit dreieinhalb Stunden sind wir quitt.
+> 여섯 시 40분부터요. 당신은 4월부터 우리 현관을 알았고, 저는 오늘 아침부터 당신 마이크를 알았죠. 세 시간 반 전부터 우린 비긴 겁니다.
+SEDOV: Nicht mein Mikrofon. Ich habe nie ein Wort aus Ihrem Flur bestellt; ich bekam, was Wien mir weiterreichte, meistens zu spät. Bezahlt hat den Rauchmelder jemand, der auch mich abhört.
+> 제 마이크가 아닙니다. 당신 현관의 말 한마디도 제가 주문한 적은 없어요. 빈이 넘겨주는 걸 받았을 뿐이고, 대개는 늦게 받았죠. 그 연기 감지기 값을 낸 건, 저까지 엿듣는 누군가입니다.
+FALK: Hollerbach hat mir in Wien erklärt, wer bei Donau Risk Kunde ist. Ich habe heute Morgen mit diesem Kunden gesprochen, nicht mit Ihnen.
+> 도나우 리스크의 고객이 누군지는 빈에서 홀러바흐가 설명해 주더군요. 오늘 아침 제가 얘기한 건 그 고객이지, 당신이 아닙니다.
+SEDOV: Sie haben Ihre «Post»-Überschrift nicht in eine Zeitung gesetzt, sondern in meine eigene Leitung. Das ist … elegant. Bismarck hätte Sie beneidet.
+> 당신은 그 «포스트» 제목을 신문이 아니라 제 회선에 실었군요. 그건… 우아하네요. 비스마르크가 부러워했겠습니다.
+FALK: Bismarck hatte Zeitungen. Ich habe einen Rauchmelder.
+> 비스마르크한텐 신문이 있었죠. 저한텐 연기 감지기가 있고요.
+SEDOV: Ich schreibe Ihren Satz von vorhin in mein Heft, Herr Falk, zu den Sätzen, die sich als falsch erweisen werden: «Ich habe eine Kopie dieser Seite.»
+> 아까 그 문장은 제 수첩에 적어 두겠습니다, 팔크 씨. 틀린 걸로 드러날 문장들 사이에요. «저는 그 페이지 사본을 갖고 있습니다.»
+FALK: Dann schreiben Sie gleich einen daneben, der sich als wahr erweisen wird: Die Wohnung gibt es.
+> 그럼 그 옆에 사실로 드러날 문장도 하나 적으시죠. 그 아파트는 존재한다.
+SEDOV: Wissen Sie, was eine Wohnung in Wien in Moskau bedeutet, Herr Falk? Diebstahl verzeiht man, Diebstahl ist menschlich. Eine Wohnung im Westen, von der niemand weiß, ist ein Notausgang. Und wer einen Notausgang hat, hat schon einmal daran gedacht, ihn zu benutzen.
+> 빈의 아파트가 모스크바에서 뭘 뜻하는지 아십니까, 팔크 씨? 도둑질은 용서합니다. 도둑질은 인간적이니까요. 그런데 아무도 모르는 서방의 아파트는 비상구예요. 그리고 비상구가 있는 사람은, 그걸 쓸 생각을 한 번은 해 본 사람이죠.
+FALK: Ist es Ihr Notausgang?
+> 그게 당신 비상구입니까?
+SEDOV: Das ist die einzige Frage, die ich Ihnen heute nicht beantworte. … Entschuldigen Sie. Da. … Da. … Ponjal.
+> 그건 오늘 대답하지 않을 유일한 질문입니다. …잠시만요. 다(네). …다. …파냘(알겠습니다).
+FALK: Ihr Dritter?
+> 당신의 제3자입니까?
+SEDOV: Die Botschaft. Mein Code für das dritte Stockwerk gilt seit neun Uhr nicht mehr, «wegen einer technischen Umstellung». Und am Montag kommt ein Herr aus Moskau, der meine Bücher prüfen soll. Bei uns nennt man das Konsultationen.
+> 대사관입니다. 제 3층 출입 코드가 아홉 시부터 «기술적 전환 때문에» 안 된다는군요. 그리고 월요일엔 모스크바에서 제 장부를 검사할 분이 옵니다. 우리 쪽에선 그걸 협의라고 부르죠.
+FALK: Drei Stunden. So schnell hat nicht einmal Gortschakow telegrafiert.
+> 세 시간이라. 고르차코프도 그렇게 빨리 전보를 치진 못했는데.
+FALK: Und was erklären Sie Ihrem Botschafter bis zwölf?
+> 그럼 열두 시까지 대사한테 뭐라고 해명하실 겁니까?
+SEDOV: Dass ein suspendierter deutscher Beamter in seinem Flur Theater spielt. Er wird höflich nicken, und den Code bekomme ich trotzdem nicht zurück.
+> 직무 정지된 독일 공무원이 자기 집 현관에서 연극을 한다고요. 대사는 정중하게 고개를 끄덕이겠죠. 그래도 코드는 돌려받지 못할 겁니다.
+SEDOV: Lachen Sie nicht zu früh. Sie haben heute Morgen den einzigen Mann in Berlin geschwächt, der in Petersburg noch fragen kann, wer über eine Verlegung entscheidet. Seit Montag frage ich dort für Ihren jungen Freund, und seit neun Uhr fragt man in Petersburg, wer ich eigentlich bin.
+> 너무 일찍 웃지 마십시오. 당신은 오늘 아침, 페테르부르크에서 이송을 누가 결정하느냐고 아직 물어볼 수 있는 베를린의 유일한 사람을 약하게 만든 겁니다. 월요일부터 당신의 젊은 친구를 위해 거기서 묻고 다녔는데, 아홉 시부터는 페테르부르크에서 제가 대체 누구냐고 묻고 있죠.
+FALK: «Für meinen jungen Freund.» Vor einer Woche haben Sie mir geschrieben, er sei nicht mehr Ihrer.
+> «제 젊은 친구를 위해서.» 일주일 전엔 그 친구가 이제 당신 소관이 아니라고 문자하셨잖습니까.
+SEDOV: Er ist nicht meiner. Aber er war mein letztes Argument dafür, dass man mich noch braucht. Sie haben ihm gerade seinen Wert genommen und mir meinen dazu.
+> 제 것이 아닙니다. 하지만 아직 제가 필요하다는 마지막 논거였죠. 당신은 방금 그 친구의 값을 떨어뜨렸어요. 덤으로 제 값까지.
+FALK: Oder ich habe ihn zu dem gemacht, was Sie noch verkaufen können. Bisher brauchte Moskau Sie, um Jan zu halten. Ab heute brauchen Sie jemanden, der Ihnen glaubt, dass Sie nicht gestohlen haben.
+> 아니면 그 친구를, 당신이 아직 팔 수 있는 물건으로 만든 거죠. 지금까진 모스크바가 얀을 붙잡아 두려고 당신을 필요로 했습니다. 오늘부턴 당신이 도둑질하지 않았다고 믿어 줄 누군가가 필요하겠죠.
+SEDOV: Und das wären Sie? Der Mann mit der Kopie?
+> 그게 당신이라고요? 사본을 가진 사람?
+FALK: Der Mann, der weiß, was auf der Kopie nicht stimmt. Aber darüber reden wir nicht hier, unter einem Kanzler aus Bronze.
+> 그 사본에서 뭐가 틀렸는지 아는 사람이죠. 하지만 그 얘긴 여기서, 청동 재상 밑에서 할 얘기가 아닙니다.
+SEDOV: Wilhelmstraße 77, siebzehn Uhr. Dort hat er 1878 den Makler gespielt. Und kommen Sie ohne Rauchmelder.
+> 빌헬름슈트라세 77번지, 오후 다섯 시. 1878년에 저 사람이 중개인 노릇을 한 곳이죠. 그리고 연기 감지기는 두고 오십시오.
+FALK: Ich komme mit einem Telefon, das ich vorher ausschalte. Mehr Ehrlichkeit kann ich heute nicht anbieten.
+> 미리 꺼 둔 전화기 하나만 들고 가죠. 오늘 제가 드릴 수 있는 정직함은 그게 전부입니다.
+
+== 절정 — DER EHRLICHE MAKLER
+SEDOV: Hier stand das Reichskanzlerpalais. Heute stehen hier ein Plattenbau aus den Achtzigern und eine Tafel, die niemand liest. Vom dreizehnten Juni bis zum dreizehnten Juli 1878 tagte hier der Kongress.
+> 여기 제국 총리 관저가 있었습니다. 지금은 80년대 조립식 아파트랑 아무도 안 읽는 안내판이 서 있죠. 1878년 6월 13일부터 7월 13일까지 여기서 회의가 열렸습니다.
+FALK: Und im Februar davor hatte Bismarck im Reichstag gesagt, er wolle nicht den Schiedsrichter spielen, sondern den «ehrlichen Makler, der das Geschäft wirklich zustande bringen will».
+> 그리고 그해 2월 비스마르크는 제국의회에서 말했죠. 심판 노릇을 하려는 게 아니라, «거래를 진짜로 성사시키려는 정직한 중개인»이 되고 싶다고.
+SEDOV: Und Russland ging mit weniger nach Hause, als es in San Stefano bekommen hatte. Das große Bulgarien wurde in drei Stücke geschnitten, und Gortschakow soll den Kongress die dunkelste Seite seines Lebens genannt haben.
+> 그리고 러시아는 산스테파노에서 얻은 것보다 적게 들고 집에 갔죠. 대불가리아는 세 조각으로 잘렸고, 고르차코프는 그 회의를 자기 인생에서 가장 어두운 페이지라고 했다죠.
+FALK: Ein Jahr später hatte Bismarck sein Bündnis mit Wien. Sie haben mich nicht hierherbestellt, um über 1878 zu klagen.
+> 한 해 뒤 비스마르크는 빈과 동맹을 맺었고요. 1878년 일을 하소연하려고 여기로 부르신 건 아니겠죠.
+SEDOV: Seitdem sagt man bei uns: Ein ehrlicher Makler nimmt Provision von beiden Seiten. Aber nein, ich wollte Ihnen sagen, dass Ihre Frau eine schlechte Schauspielerin ist. Sie hat heute früh acht Fragen gestellt und keinen einzigen Satz behauptet. Daran habe ich erkannt, dass es Theater war.
+> 그 뒤로 우리 쪽에선 이렇게 말하죠. 정직한 중개인은 양쪽에서 수수료를 받는다. 하지만 아니요, 부인께서 서툰 배우라는 걸 말씀드리려고 불렀습니다. 오늘 아침 질문을 여덟 개 했는데, 단정하는 문장은 하나도 없었죠. 그걸 보고 연극이라는 걸 알았습니다.
+FALK: Eine Richterin, die in ihrem eigenen Flur nicht lügt. Dann sagen Sie es Moskau. Sagen Sie Ihrem Prüfer, dass ich bluffe.
+> 자기 집 현관에서도 거짓말 안 하는 판사죠. 그럼 모스크바에 말하세요. 검사관한테 제가 허세를 부린다고 하세요.
+SEDOV: Dann fragt er mich nach der Wohnung. Man kann in Moskau nicht beweisen, dass etwas nicht existiert, Herr Falk. Das hat dort noch niemand geschafft.
+> 그러면 그 사람은 아파트를 물을 겁니다. 모스크바에선 뭔가가 존재하지 않는다는 걸 증명할 수가 없어요, 팔크 씨. 거기서 그걸 해낸 사람은 아직 없습니다.
+FALK: Das ist der Unterschied zu 1875. Bismarcks Bluff ist geplatzt, weil hinter ihm kein Krieg stand. Meiner hält, weil hinter Ihnen eine Wohnung steht, und es spielt keine Rolle mehr, ob ich die Seite je gesehen habe.
+> 그게 1875년과의 차이죠. 비스마르크의 허세는 뒤에 전쟁이 없어서 터졌습니다. 제 허세는 버팁니다. 당신 뒤에 아파트가 있으니까요. 제가 그 페이지를 본 적이 있는지는 이제 상관없습니다.
+SEDOV: Sie geben zu, dass Sie sie nie gesehen haben?
+> 그 페이지를 본 적이 없다고 인정하시는 겁니까?
+FALK: Ich gebe zu, dass es nicht mehr darauf ankommt. Ihr Prüfer sucht ab Montag nicht meine Kopie, er sucht Ihre Wohnung.
+> 그게 이제 중요하지 않다는 걸 인정하는 겁니다. 월요일부터 검사관이 찾는 건 제 사본이 아니라 당신 아파트예요.
+SEDOV: … Zwei Jahre nach der Krise hat Bismarck in Bad Kissingen diktiert, was er daraus gelernt hatte: Er wolle eine Lage, in der alle Mächte außer Frankreich Deutschland brauchen. Gratuliere, Herr Falk. Sie haben Ihre Lage. Ich brauche Sie.
+> …그 위기 2년 뒤 비스마르크는 바트 키싱겐에서 거기서 배운 걸 받아쓰게 했죠. 프랑스를 뺀 모든 열강이 독일을 필요로 하는 상황을 원한다고. 축하합니다, 팔크 씨. 당신의 상황이 생겼군요. 제가 당신을 필요로 합니다.
+FALK: Wofür?
+> 뭐 때문에요?
+SEDOV: Für einen Satz, durch dieselbe Leitung, durch die Sie heute früh den anderen geschickt haben: dass die vierzigtausend nicht nach Wien gegangen sind. Sie wissen genau, dass das stimmt.
+> 문장 하나 때문에요. 오늘 아침 다른 문장을 보낸 바로 그 회선으로. 4만 유로가 빈으로 가지 않았다는 문장. 그게 사실이라는 건 당신도 잘 알잖습니까.
+FALK: Ich weiß nicht, wohin sie gegangen sind. Und die Wahrheit über die vierzigtausend sage ich in meinem Flur an dem Tag, an dem Jan an einer Grenze steht.
+> 그 돈이 어디로 갔는지는 저도 모릅니다. 그리고 4만 유로에 관한 진실은, 얀이 국경에 서는 날 우리 집 현관에서 말하겠습니다.
+SEDOV: Sie erpressen mich mit der Wahrheit. Das ist neu, selbst für einen Falk.
+> 진실로 저를 협박하시는군요. 팔크 집안 사람으로서도 새로운 방식이네요.
+FALK: Ich habe viel gelernt seit dem elften Juni, als Sie mir eine Karte gaben, die ich vorlesen sollte.
+> 6월 11일, 당신이 읽으라고 카드를 건넨 그날 이후로 많이 배웠습니다.
+SEDOV: Dann lernen Sie noch etwas. In Petersburg sitzt ein Mann, der über Verlegungen entscheidet und mir zwanzig Jahre lang zugehört hat. Bis Montag gilt mein Name dort noch; danach gilt der meines Prüfers.
+> 그럼 하나 더 배우시죠. 페테르부르크에 이송을 결정하는 사람이 있습니다. 이십 년 동안 제 말을 들어 준 사람이죠. 월요일까진 거기서 아직 제 이름이 통합니다. 그 뒤엔 제 검사관의 이름이 통하겠죠.
+FALK: Und was würde dieser Mann unterschreiben, solange Ihr Name noch gilt?
+> 그럼 당신 이름이 아직 통하는 동안, 그 사람은 뭘 서명해 줄 수 있습니까?
+SEDOV: Das hängt davon ab, was man ihm vorlegt. Ein Mann, der nach Warschau fliegt, sucht einen Weg nach Westen, und jeder Weg aus Petersburg braucht eine Unterschrift in Petersburg. Was wollen Sie ihm vorlegen?
+> 뭘 내미느냐에 달렸죠. 바르샤바로 날아간 사람은 서쪽으로 가는 길을 찾는 거고, 페테르부르크에서 나가는 길이라면 어느 길이든 페테르부르크의 서명이 필요합니다. 그 사람한테 뭘 내미실 겁니까?
+FALK: Das sage ich Ihnen nicht, bevor ich mit jemandem gesprochen habe, dem ich es versprochen habe. Heute Abend bekommen Sie eine Antwort, so oder so.
+> 그건 약속한 사람과 먼저 얘기하기 전엔 말하지 않겠습니다. 오늘 저녁엔 어느 쪽이든 답을 드리죠.
+SEDOV: Noch etwas, Herr Falk. Wenn mein Prüfer mehr findet als eine Wohnung, dann reicht mir kein Satz in Ihrem Flur. Dann brauche ich eine Tür.
+> 하나 더요, 팔크 씨. 제 검사관이 아파트 말고 더 많은 걸 찾아내면, 그땐 당신 현관의 문장 하나로는 부족할 겁니다. 그땐 문이 필요하겠죠.
+FALK: Türen verteile ich nicht. Ich bin vom Dienst freigestellt, falls Sie das vergessen haben.
+> 문은 제가 나눠 주는 게 아닙니다. 혹시 잊으셨을까 봐 말씀드리는데, 저는 직무 정지 중이에요.
+SEDOV: Sie verteilen seit einer Woche Dinge, die Ihnen nicht gehören: Geständnisse, Wahrheiten, die Akte Ihres Vaters. Auf eine Tür mehr kommt es nicht an. Guten Abend, Herr Falk.
+> 일주일째 당신 것도 아닌 걸 나눠 주고 계시잖습니까. 고백, 진실, 아버님의 파일. 문 하나 더 나눠 준다고 달라질 건 없죠. 안녕히 가십시오, 팔크 씨.
+
+== 마무리 — PARZELLE 41, EINUNDZWANZIG UHR
+LEHNERT: Sie riechen nach Wilhelmstraße und nach Erfolg, Herr Falk. Beides macht mich nervös. Die Kanzlerin hat Ihren Brief heute um acht Uhr zehn gelesen.
+> 빌헬름슈트라세 냄새하고 성공 냄새가 나는군요, 팔크 씨. 둘 다 저를 불안하게 합니다. 총리께서 오늘 아침 여덟 시 10분에 당신 편지를 읽으셨습니다.
+FALK: Und?
+> 그래서요?
+LEHNERT: Sie hat gefragt, ob Sie ihn auch ohne den Jungen geschrieben hätten. Ich habe gesagt: im März versprochen, heute geschrieben, dazwischen lag nur der Junge. Sie hat ihn behalten; bei ihr ist das mehr als ein Ja.
+> 그 젊은 친구 일이 없었어도 당신이 이걸 썼겠느냐고 물으시더군요. 저는 3월에 약속했고 오늘 썼다, 그 사이에 그 친구 일이 있었을 뿐이라고 했습니다. 편지는 그분이 갖고 계십니다. 그분한텐 그게 «예»보다 큰 겁니다.
+FALK: Dann steht eine Sache weniger auf meiner Liste und dafür drei neue. Ich habe heute dreimal gelogen, mit Absicht, im Flur und am Großen Stern: eine Kopie, die es nicht gibt, ein Name, den ich nicht kenne, und vierzigtausend Euro, von denen ich nicht weiß, wohin sie gingen.
+> 그럼 제 목록에서 하나가 빠지고, 대신 셋이 새로 붙네요. 오늘 일부러 세 번 거짓말했습니다. 현관에서, 그리고 그로서 슈테른에서요. 있지도 않은 사본, 모르는 이름, 그리고 어디로 갔는지 모르는 4만 유로.
+LEHNERT: Und Sedov?
+> 그래서 세도프는요?
+FALK: Hat die Kopie durchschaut und die Wohnung nicht abgestritten. Seit neun Uhr kommt er nicht mehr in sein eigenes Stockwerk, und am Montag prüft ein Mann aus Moskau seine Bücher. Frau Koch meldet den Rauchmelder am Montag um acht; bis dahin spielt er noch mit.
+> 사본은 꿰뚫어 봤지만 아파트는 부인하지 않았습니다. 아홉 시부터 자기 층에도 못 들어가고, 월요일엔 모스크바에서 온 사람이 그 사람 장부를 검사합니다. 코흐 씨는 연기 감지기를 월요일 여덟 시에 보고하고요. 그때까진 그 감지기도 연극에 같이 나오는 거죠.
+LEHNERT: Sie haben ausgerechnet den Mann angeschlagen, den Ihre Finnen als Unterschrift brauchen.
+> 하필이면 당신 핀란드 쪽이 서명으로 필요로 하는 바로 그 사람을 흔들어 놓았군요.
+FALK: Ich habe ihn bis Montag zu jemandem gemacht, der unterschreiben muss, um noch etwas zu gelten. Piotr weiß es seit sechs; er meint, für einen Russen, der stürzt, unterschreibe man in Petersburg schneller als für einen, der fest steht. Sedov hat von mir um sieben ein einziges Wort bekommen: «Montag.»
+> 저는 그 사람을 월요일까지, 뭔가를 서명해야만 아직 값이 나가는 사람으로 만든 겁니다. 피오트르는 여섯 시부터 알고 있어요. 그 친구 말이, 굳건히 서 있는 러시아인보다 넘어지는 러시아인한테 페테르부르크가 더 빨리 서명해 준대요. 세도프는 일곱 시에 저한테서 딱 한 마디를 받았습니다. «월요일.»
+LEHNERT: Hoffentlich hat Ihr polnischer Freund recht. Ihr Telefon, Herr Falk.
+> 폴란드 친구 말이 맞길 바랍니다. 전화 왔네요, 팔크 씨.
+ANNA: Konstantin? Eleni hat angerufen, um siebzehn Uhr vierzig, von ihrem eigenen Telefon, aus ihrer Küche in Nikosia. Sie habe kein Geld genommen, sagt sie, und sie will, dass ich das aufschreibe, bevor jemand anders das Gegenteil behauptet.
+> 콘스탄틴? 엘레니가 전화했어. 다섯 시 40분에, 자기 전화로, 니코시아 자기 부엌에서. 돈은 한 푼도 안 받았대. 그리고 누가 반대로 우기기 전에 내가 그걸 적어 두길 바란대.
+FALK: Dann hat ein Mann in Wien heute sein Wort gehalten. Geht es ihr gut?
+> 그럼 빈의 어떤 사람이 오늘 약속을 지켰네. 그 사람 괜찮아?
+ANNA: Sie hat geweint und gelacht und dreimal gefragt, ob ich wirklich die Journalistin aus Berlin bin. Und noch etwas: Greves Anwalt hat geantwortet. Auf keine meiner Fragen, er stellt nur selbst eine: ob der «Depesche» bekannt sei, an welcher Kammer des Verwaltungsgerichts Frau Dr. Falk sitzt.
+> 울다가 웃다가, 내가 정말 베를린 기자가 맞느냐고 세 번이나 물었어. 그리고 하나 더. 그레베 변호사가 답을 보냈어. 내 질문엔 하나도 답 안 하고 자기가 하나 묻더라. 팔크 박사님이 행정법원 어느 재판부에 계신지 «데페셰»가 알고 있느냐고.
+FALK: Elisabeth hat heute Mittag ihre Befangenheit angezeigt. Greve zielt auf etwas, das sie ihm schon nicht mehr geben kann. Bleibt es bei Dienstag, sechs Uhr?
+> 엘리자베트는 오늘 낮에 기피 사유를 신고했어. 그레베는 그 사람이 이미 줄 수 없는 걸 노리고 있는 거야. 화요일 여섯 시, 그대로지?
+ANNA: Dienstag, sechs Uhr. Und wenn Greve dich anruft, leg nicht auf, Konstantin. Lass ihn reden.
+> 화요일 여섯 시. 그리고 그레베가 전화하면 끊지 마, 콘스탄틴. 말하게 둬.
+FALK: Herr Lehnert, noch eine Nachricht. Sedov. … «Um zwanzig Uhr hat man meinen Diplomatenpass eingesammelt, zur Verlängerung. Er gilt bis 2029. Den Namen in Petersburg habe ich noch. Wie lange, weiß ich nicht. S.»
+> 레너트 실장님, 문자가 하나 더 왔습니다. 세도프예요. …«저녁 여덟 시에 제 외교관 여권을 걷어 갔습니다. 갱신하겠다더군요. 2029년까지 유효한 여권인데요. 페테르부르크의 그 이름은 아직 제게 있습니다. 얼마나 갈지는 모르겠군요. S.»
+LEHNERT: Ein Diplomat ohne Pass ist ein Mann, der nicht mehr selbst entscheidet, in welches Flugzeug er steigt.
+> 여권 없는 외교관은, 어느 비행기에 탈지 더는 스스로 정하지 못하는 사람이죠.
+FALK: Oder einer, der zum ersten Mal überlegt, an welche Tür er klopft. Herr Lehnert, wie lange braucht dieses Land, um einem Russen ohne Pass eine Tür zu öffnen?
+> 아니면 어느 문을 두드릴지 처음으로 고민하는 사람이거나요. 레너트 실장님, 이 나라가 여권 없는 러시아인한테 문을 열어 주려면 얼마나 걸립니까?
+LEHNERT: Fragen Sie mich das nicht heute, Herr Falk. Fragen Sie es mich an dem Tag, an dem er selbst fragt.
+> 오늘은 묻지 마세요, 팔크 씨. 그 사람이 직접 묻는 날, 그날 물으세요.
