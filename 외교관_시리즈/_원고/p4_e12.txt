@@ -1,0 +1,338 @@
+@part 4
+@ep 12
+@title Der Lotse geht von Bord
+@title_ko 도선사, 배에서 내리다
+@tagline 도선사, 배에서 내리다 · 다리 위의 마지막 남자, 두 쪽짜리 계산서, 그리고 다시 새벽 세 시
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 7월 17일 토요일 새벽부터 2028년 3월 1일 수요일 새벽 세 시까지, 포츠담과 베를린 사이의 글리니커 다리, 판코우의 부엌, 베스트하펜 운하 옆 Parzelle 41, 트렙토의 헌법수호청 안가, 쇤베르크 클라이스트 공원(베를린 고등법원 앞), 다시 글리니커 다리와 판코우의 침실
+@cast FALK | 전 외무부 유럽안보 특별대표 (44)
+@cast RADEMACHER | Oberstaatsanwalt Rademacher · 연방검찰총장실 검사 (가상)
+@cast ALDENHOVEN | Bernhard Aldenhoven · 옷깃에 새 핀을 단 남자, 협박 전화의 목소리 (66)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast JAN | Jan Ostrowski · 팔크의 전 보좌관 (31)
+@cast LEHNERT | Dr. Martin Lehnert · 연방총리실장, 7월 31일 퇴임 (58)
+@cast SEDOV | Viktor Sedov · 전 주독 러시아 공사참사관, 독일의 보호를 받는 망명자 (56)
+@cast MIRA | Dr. Mira Schönfeld · 전 연방정보원(BND) 연락관 (39)
+@cast WINTER | Dr. Helene Winter · 전 외무부 사무차관, 임시 퇴직, 전화 (57)
+@cast ANNA | Anna Kessler, 결혼 전 성 Lenz · «Berliner Depesche» 기자 (45)
+@cast GEORG | Georg Falk · 팔크의 아버지, 전 IM «Kranich» (79)
+@cast ANRUFERIN | 새벽 세 시의 목소리 · 어느 부처의 직원 (미상)
+@note ※ 지난 화: 7월 2일 연방의회가 Bernstein에 동의했고, 7월 16일 빌뉴스에서 여섯 나라가 서명했습니다. 팔크는 맨 뒷줄 접이식 의자에 앉아 있었습니다. 같은 시각, 연방검찰이 켜 둔 낡은 전화기가 다시 저절로 전화를 받았고, 아나운서 같은 목소리가 말했습니다. «다리에서 기다리겠다고 전해 주십시오.» 신호는 포츠담에서 왔습니다. 하펠강에서 사람을 맞바꾸는 다리는 하나뿐입니다.
+@note ※ 시리즈 마지막 화입니다. 이번 화는 2027년 7월부터 2028년 3월 1일까지 여덟 달을 건너뛰며, 남은 실마리를 모두 닫습니다. ① 옷깃의 새 핀 남자 Aldenhoven의 마지막 «교환» ② 사라진 4만 유로의 행방 ③ 팔크가 «계산서»를 갚는 방식 ④ Lehnert, Mira, Sedov, Brückner의 거취 ⑤ Winter와 Greve의 공소 ⑥ Georg가 Sedov에게 보낸 답 ⑦ 1부 1화의 새벽 세 시 전화.
+@note ※ 호칭: 팔크와 Jan, Elisabeth, Georg, Anna는 du를 씁니다(Jan은 친근한 존댓말, 팔크는 아버지에게 존댓말). Elisabeth와 Georg도 du를 씁니다(한국어는 며느리가 시아버지에게 쓰는 존댓말). Georg와 Anna, Elisabeth와 Anna는 Sie를 씁니다. 팔크와 Mira는 끝까지 Sie를 쓰기로 합니다. 그 밖의 인물과도 모두 Sie를 씁니다.
+@note ※ 표현 초점: Entlassung auf Verlangen(본인 신청에 의한 면직), Altersgeld(공무원 노령 수당), Disziplinarverfahren einstellen(징계 절차를 중단하다), Ermächtigung(수사·기소 수권), Anklage erheben(공소를 제기하다), Angeschuldigte(공소 제기된 피고인), Staatsschutzsenat(국가보호 형사부), politische Verdächtigung(정치적 밀고), von Bord gehen(배에서 내리다), etwas zu Protokoll geben(기록에 남기다). 접속법 II: «Sie wären ein sehr guter Nachfolger geworden.» 접속법 I: «Er sagte, zusammenwachsen sei etwas für Pflanzen.»
+@history «Jetzt wächst zusammen, was zusammengehört» (1989년 11월 10일) — 베를린 장벽이 열린 다음 날인 1989년 11월 10일, 전 총리 빌리 브란트는 베를린에서 이 말을 했습니다. 이 문장은 그날 한 라디오 인터뷰에서 나왔고, 같은 날 저녁 쇠네베르크 시청 앞 집회 연설의 인쇄본에도 들어가면서 통일의 표어가 되었습니다. 브란트는 1961년 장벽이 세워질 때 서베를린 시장이었고, 1970년 바르샤바에서 무릎을 꿇은 총리였습니다. 극 중 Anna는 아버지의 말을 빌려 «함께 자라는 것»과 «나란히 서는 것»을 구별합니다.
+@history 글리니커 다리 (Glienicker Brücke) — 하펠강 위에서 베를린 반제와 포츠담을 잇는 이 다리는 분단 시절 동서의 경계였고, 세 차례의 유명한 교환 무대가 되어 «스파이 다리»로 불렸습니다. 1962년 2월 10일 소련 스파이 루돌프 아벨과 미국 U-2 조종사 프랜시스 게리 파워스가, 1985년 6월 11일 동구권에 갇혀 있던 스물세 명과 서방에 잡힌 동구권 요원 네 명이, 1986년 2월 11일 소련 반체제 인사 아나톨리 샤란스키 등이 이 다리를 건넜습니다. 장벽이 열린 다음 날인 1989년 11월 10일 저녁 6시, 다리는 보행자에게 열렸습니다.
+@history 본인 신청에 의한 면직 (Entlassung auf Verlangen) — 독일 연방공무원은 연방공무원법 제33조에 따라 언제든 서면으로 면직을 신청할 수 있습니다. 이렇게 스스로 공무원 관계를 끝내면 연금(Pension) 청구권을 잃고, 연방의 경우 일정 기간 이상 근무했다면 연금보다 적고 감액된 «노령 수당(Altersgeld)»을 받습니다. 공무원 관계가 끝나면 진행 중이던 징계 절차도 중단됩니다. 극 중 팔크는 징계 소송의 «파면» 판결을 기다리지 않고 스스로 이 길을 고릅니다.
+@preview 시리즈 완결 — «Der Unterhändler»(협상가) 48화 끝. 케이블이 끊긴 새벽에서 꼭 일 년, 팔크는 직책도 업무용 전화도 없이 다시 새벽 세 시의 전화를 받는다. 이번에 그는 거짓말하지 않고, 아무것도 약속하지 않고, 다만 듣는다. Ende.
+
+== 도입 — AN DER BRÜCKE
+RADEMACHER: Samstag, fünf Uhr zehn, Herr Falk. Die Brücke ist gesperrt, auf beiden Ufern stehen meine Leute, und auf der Potsdamer Seite ist vor zwanzig Minuten ein Mann aus einem Taxi gestiegen. Grauer Mantel, gute Schuhe.
+> 토요일 새벽 다섯 시 10분입니다, 팔크 씨. 다리는 통제했고, 양쪽 강변에 우리 사람들이 서 있습니다. 20분 전에 포츠담 쪽에서 한 남자가 택시에서 내렸습니다. 회색 코트에 좋은 구두.
+FALK: Und am Revers?
+> 옷깃엔요?
+RADEMACHER: Ein silberner Vogel mit langen Beinen. Er steht genau in der Mitte, dort, wo früher die Grenze verlief, und wartet. Er hat nach Ihnen gefragt, nicht nach einem Anwalt.
+> 다리 긴 은색 새요. 다리 한가운데, 예전에 경계선이 지나던 자리에 서서 기다리고 있습니다. 변호사가 아니라 당신을 찾더군요.
+FALK: Dann gehe ich allein bis zur Mitte. Sie hören mit?
+> 그럼 한가운데까지 혼자 가겠습니다. 듣고 계시는 거죠?
+RADEMACHER: Über Ihr Mikrofon, und diesmal weiß er es. Noch etwas, bevor Sie gehen: Um sechs holen Kollegen in Kiel Herrn Greve aus dem Bett. Haftbefehl wegen Fluchtgefahr; seit Herr Aldenhoven verschwunden war, wollte der Ermittlungsrichter kein zweites Risiko eingehen.
+> 당신 마이크로요. 이번엔 그 사람도 압니다. 가시기 전에 하나 더. 여섯 시에 킬에서 동료들이 그레베 씨를 침대에서 끌어냅니다. 도주 우려로 구속영장이 나왔어요. 알덴호펜 씨가 사라진 뒤로 수사판사가 두 번째 위험은 감수하지 않겠답니다.
+ALDENHOVEN: Herr Falk. Guten Morgen. Sie sind pünktlich; das hat auch Ihr Vater immer geschätzt, damals, unter der Hochbahn.
+> 팔크 씨. 좋은 아침입니다. 시간을 잘 지키시는군요. 아버님도 늘 그걸 높이 사셨죠. 그때, 고가 철로 밑에서.
+FALK: Herr Aldenhoven. Ihre Stimme habe ich im März zum ersten Mal gehört, an einem Telefon, das Sie meinem Vater geschenkt hatten. Ihr Gesicht sehe ich heute zum ersten Mal.
+> 알덴호펜 씨. 당신 목소리는 3월에 처음 들었습니다. 당신이 아버지한테 선물한 전화기로요. 얼굴은 오늘 처음 보는군요.
+ALDENHOVEN: Man hat mir einmal gesagt, ich hätte ein Gesicht fürs Radio. … Ich habe Sie hierher gebeten, weil man auf dieser Brücke tauscht. Fünfundachtzig dreiundzwanzig gegen vier, sechsundachtzig Schtscharanski; beide Meldungen habe ich selbst gelesen, im Deutschlandfunk.
+> 누가 그러더군요. 나는 라디오에 어울리는 얼굴이라고. … 여기로 오시라고 한 건, 이 다리가 사람을 맞바꾸는 곳이기 때문입니다. 85년엔 스물셋 대 넷, 86년엔 샤란스키. 그 두 뉴스를 도이칠란트풍크에서 제가 직접 읽었지요.
+FALK: Und was wollen Sie heute tauschen?
+> 그래서 오늘은 뭘 맞바꾸고 싶으신 겁니까?
+ALDENHOVEN: Das wollte ich eigentlich Moskau fragen. Seit dem dreiundzwanzigsten Juni sitze ich in einer Ferienwohnung in Potsdam und warte auf jemanden, der mich abholt; Herr Tarassow hat immer versprochen, man lasse seine Leute nicht zurück. … Es ist niemand gekommen.
+> 원래는 모스크바에 물어보려던 참이었습니다. 6월 23일부터 포츠담의 휴가용 아파트에 앉아서 데리러 올 사람을 기다렸죠. 타라소프 씨는 늘 약속했거든요. 자기 사람은 버리지 않는다고. … 아무도 오지 않았습니다.
+FALK: Weil Sie seit dem dreiundzwanzigsten Juni nichts mehr wert sind. Ein Name, den alle kennen, ist für Jassenewo kein Agent mehr, sondern eine Akte.
+> 6월 23일부터 당신은 아무 값어치가 없으니까요. 모두가 아는 이름은 야세네보한테 더는 요원이 아니라 서류철일 뿐입니다.
+ALDENHOVEN: So ist es. Also biete ich Ihnen an, was ich habe, und bitte nur um eines: dass Ihr Vater mich noch einmal anhört. Nicht den Mann unter der Hochbahn, sondern den einzigen Menschen, der weiß, wer ich vierzig Jahre lang war.
+> 그렇죠. 그래서 내가 가진 걸 드리고, 하나만 청하려는 겁니다. 아버님이 한 번만 더 내 말을 들어 주시는 것. 고가 철로 밑의 남자가 아니라, 내가 40년 동안 누구였는지 아는 단 한 사람의 말을요.
+FALK: Wen mein Vater anhört, entscheidet er selbst. Das hat er von Frau Lenz gelernt. Was haben Sie anzubieten?
+> 누구 말을 들을지는 아버지가 스스로 정합니다. 그건 렌츠 씨한테서 배우셨죠. 내놓을 게 뭡니까?
+ALDENHOVEN: Zuerst eine Antwort, die Sie seit Juni suchen: die vierzigtausend Euro, die bei Donau Risk übrig blieben. Sie haben in Ihrem Flur gehangen, Herr Falk. Ein Rauchmelder, ein Mann in blauer Jacke, ein Server in Wien und ein altes Telefon mit einem Kontakt, den niemand sieht.
+> 먼저 6월부터 찾던 답 하나. 도나우 리스크에 남아 있던 4만 유로요. 그 돈은 당신 집 현관에 매달려 있었습니다, 팔크 씨. 연기 감지기 하나, 파란 재킷 입은 남자 하나, 빈의 서버 하나, 그리고 아무도 못 보는 연락처가 든 낡은 전화기 하나.
+FALK: Im Juni habe ich behauptet, das Geld liege in einer Küche in Wien. Es lag in meinem eigenen Haus. … Herr Rademacher, haben Sie das?
+> 6월에 저는 그 돈이 빈의 어느 부엌에 있다고 큰소리쳤죠. 실은 우리 집에 있었군요. … 라데마허 검사님, 들으셨습니까?
+RADEMACHER: Ich habe es, und ich prüfe es am Kassabuch. Fahren Sie fort.
+> 들었습니다. 카사부흐와 맞춰 보겠습니다. 계속하시죠.
+ALDENHOVEN: Dann das Zweite: die Namen der anderen. Herr Tarassow hatte in diesem Land nicht nur einen Freund mit einem Schreibtisch. Ich kenne vier, vielleicht fünf. Das ist mein Tausch.
+> 그럼 두 번째. 다른 사람들의 이름. 타라소프 씨가 이 나라에 책상 가진 친구를 하나만 둔 건 아니었습니다. 넷, 어쩌면 다섯을 압니다. 그게 제가 맞바꿀 물건입니다.
+FALK: Dann tauschen Sie mit dem Generalbundesanwalt, nicht mit mir. Seit gestern Mittag bin ich nur noch ein Mann mit einer Liste, Herr Aldenhoven. Ich habe nichts zu vergeben, auch keine Gespräche mit meinem Vater.
+> 그럼 저 말고 연방검찰총장과 맞바꾸십시오. 어제 점심부터 저는 목록 하나 든 사람일 뿐입니다, 알덴호펜 씨. 나눠 드릴 게 없습니다. 제 아버지와의 대화도요.
+ALDENHOVEN: Sie sind wie er, nur andersherum. Er hat nie gefragt, wer ich bin, und Sie fragen nichts anderes. … Darf ich Ihnen den Vogel geben? Ich brauche ihn nicht mehr.
+> 당신은 아버님이랑 똑같군요. 방향만 반대일 뿐. 그분은 내가 누군지 한 번도 묻지 않았고, 당신은 그것 말고는 묻지를 않죠. … 이 새를 드려도 되겠습니까? 이제 필요 없으니.
+FALK: Geben Sie ihn Herrn Rademacher, er ist ein Beweisstück. … Auf dieser Brücke ist immer jemand von einer Seite zur anderen gegangen, und drüben hat jemand gewartet. Heute wartet auf Sie keine Seite.
+> 라데마허 검사님께 드리세요. 증거물이니까. … 이 다리에선 늘 누군가 이쪽에서 저쪽으로 건너갔고, 건너편엔 누군가 기다리고 있었죠. 오늘 당신을 기다리는 쪽은 어디에도 없습니다.
+ALDENHOVEN: Doch. Ihre. Es ist nur nicht die, die ich mir ausgesucht hatte. … Grüßen Sie Ihren Vater nicht von mir; er soll selbst entscheiden, ob er an mich denkt.
+> 아니요, 있습니다. 당신 쪽이요. 내가 고른 쪽이 아닐 뿐이죠. … 아버님께 제 안부는 전하지 마십시오. 저를 떠올릴지는 그분이 직접 정하시라고.
+RADEMACHER: Bernhard Aldenhoven, ich nehme Sie fest, wegen geheimdienstlicher Agententätigkeit und Agententätigkeit zu Sabotagezwecken. Sie haben das Recht zu schweigen. … Fünf Uhr einunddreißig, Herr Falk. In Kiel ist es gleich sechs.
+> 베른하르트 알덴호펜, 정보기관 요원 활동과 사보타주 목적의 요원 활동 혐의로 체포합니다. 당신은 묵비권이 있습니다. … 다섯 시 31분입니다, 팔크 씨. 킬은 곧 여섯 시고요.
+
+== 장면 1 — DIE RECHNUNG
+ELISABETH: Montag, halb sieben, und du sitzt seit vier Uhr an einer einzigen Seite. Ist das der Brief?
+> 월요일 여섯 시 반. 당신 네 시부터 종이 한 장 붙들고 앉아 있잖아. 그게 그 편지야?
+FALK: «Hiermit beantrage ich meine Entlassung aus dem Beamtenverhältnis.» Paragraf dreiunddreißig Bundesbeamtengesetz, ohne Begründung. Die Begründung liegt seit dem ersten Juli im Bundestag, zwei Seiten lang.
+> «본인은 공무원 관계에서의 면직을 신청합니다.» 연방공무원법 33조, 사유는 없이. 사유는 7월 1일부터 연방의회에 가 있잖아. 두 쪽짜리로.
+ELISABETH: Als Richterin muss ich dir sagen, was du da unterschreibst. Die Pension ist weg, was bleibt, ist ein Altersgeld mit Abschlag. Und das Disziplinarverfahren wird eingestellt, weil es keinen Beamten mehr gibt, den man entfernen könnte.
+> 판사로서 당신이 뭘 서명하는지 말해 줘야겠어. 연금은 없어지고, 남는 건 깎인 노령 수당이야. 그리고 징계 절차는 중단돼. 파면할 공무원이 더는 없으니까.
+FALK: Winter wollte, dass man mich entlässt. Jetzt tue ich es selbst. Das ist kein Freispruch, Elisabeth, das ist die Rechnung, und ich bezahle sie, bevor jemand anders den Betrag festsetzt.
+> 빈터는 날 내쫓고 싶어 했지. 이제 내가 직접 하는 거야. 이건 무죄 판결이 아니야, 엘리자베트. 계산서야. 다른 누가 금액을 정하기 전에 내가 갚는 거고.
+JAN: Darf ich als Zeuge unterschreiben? Ich habe jede Zeile auf deiner Liste mitgezählt. Und Babcia hat Mohnkuchen mitgeschickt; sie sagt, wer seine Lügen bezahlt, bekommt wieder welchen.
+> 증인으로 서명해도 돼요? 그 목록 한 줄 한 줄 같이 셌잖아요. 그리고 할머니가 양귀비씨 케이크 보내셨어요. 자기 거짓말 값을 치르는 사람은 다시 먹어도 된대요.
+FALK: Für eine Entlassung braucht man keinen Zeugen, Jan. Für den Kuchen bedanke ich mich schriftlich. Und du? Lindner sagt, aus Karlsruhe sei Post gekommen.
+> 면직엔 증인이 필요 없어, 얀. 케이크는 고맙다고 편지로 쓸게. 넌? 린트너 씨 말로는 카를스루에서 우편이 왔다던데.
+JAN: Am Freitag, während du in Vilnius auf deine Liste geschaut hast. Das Verfahren nach Paragraf neunundneunzig ist eingestellt, Paragraf hundertsiebzig, Absatz zwei: kein hinreichender Tatverdacht. Ein Satz für fünf Monate.
+> 금요일에요. 빌뉴스에서 목록만 보고 계실 때. 99조 수사가 종결됐어요. 형사소송법 170조 2항, 충분한 혐의 없음. 다섯 달에 한 문장이네요.
+ELISABETH: Und das Auswärtige Amt?
+> 외무부는?
+JAN: Will mich zurück, aber nicht ins Archiv. In den Aufbaustab für die Brigade, ab September. Ich soll aufschreiben, was in Vilnius versprochen wurde, und darauf achten, dass es gehalten wird.
+> 저를 다시 원해요. 근데 문서보관소 말고요. 9월부터 여단 창설 준비단으로요. 빌뉴스에서 뭘 약속했는지 적어 두고, 그게 지켜지는지 지켜보래요.
+FALK: Dann zählst du weiter. Nur nicht mehr meine.
+> 그럼 넌 계속 세겠네. 이제 내 건 말고.
+JAN: Deine stehen seit dem elften Juni bei null. Die von anderen Leuten fangen gerade erst an.
+> 콘스탄틴 건 6월 11일부터 0이에요. 다른 사람들 건 이제 막 시작이고요.
+ELISABETH: Und Greve? Im Radio hieß es, er sitze seit Samstag in Untersuchungshaft.
+> 그레베는? 라디오에선 토요일부터 구속돼 있다던데.
+FALK: Rademacher sagt, er habe vor dem Haftrichter nur einen Satz gesagt: Er sei bloß der Gärtner gewesen. … Den Satz habe ich in diesem Jahr von zu vielen Männern gehört. Ich fahre jetzt zu dem, der wirklich einen Garten hat.
+> 라데마허 검사 말로는 구속 심사에서 딱 한 문장만 했대. 자기는 그냥 정원사였을 뿐이라고. … 올해 그 문장을 너무 많은 남자들한테서 들었어. 이제 진짜 정원이 있는 사람한테 가 볼게.
+LEHNERT: Kommen Sie herein, Herr Falk, die Tomaten sind endlich reif. Ihr Gesuch liegt seit acht Uhr beim Minister. Er hat mich angerufen, bevor er es gelesen hatte, und ich habe ihm geraten, es zu lesen.
+> 들어오십시오, 팔크 씨. 토마토가 드디어 익었습니다. 당신 신청서는 여덟 시부터 장관 책상에 있습니다. 읽기도 전에 나한테 전화했길래 읽어 보라고 했지요.
+FALK: Und Sie? Sie sitzen an einem Montag um zehn Uhr in Ihrem Kleingarten.
+> 실장님은요? 월요일 오전 열 시에 텃밭에 앉아 계시네요.
+LEHNERT: Ich habe am achten Juli acht Stunden ausgesagt, unter Eid, und nichts weggelassen, auch nicht das Wort «geduldet». Am Freitag, auf dem Rückflug aus Vilnius, hat die Kanzlerin mein Gesuch angenommen. Ab dem einunddreißigsten Juli bin ich, was die Akten «einstweiligen Ruhestand» nennen.
+> 7월 8일에 여덟 시간 증언했습니다. 선서하고, 아무것도 빼지 않고. «묵인»이라는 단어까지도요. 금요일, 빌뉴스에서 돌아오는 비행기에서 총리가 내 사의를 받아들였습니다. 7월 31일부로 나는 서류에서 «임시 퇴직»이라고 부르는 사람이 됩니다.
+FALK: Hat sie Ihnen verziehen?
+> 총리가 용서하셨습니까?
+LEHNERT: Sie hat gesagt: «Sie haben mir die Wahrheit zu spät gesagt, Martin, aber Sie haben sie gesagt. Das schaffen in diesem Haus nicht viele.» Dann hat sie mir eine Tomatenpflanze vom Balkon des Kanzleramts geschenkt. Die da, links.
+> 이러셨습니다. «진실을 너무 늦게 말했어요, 마르틴. 그래도 말은 했죠. 이 건물에서 그걸 해내는 사람은 많지 않아요.» 그러고는 총리실 발코니에서 키우던 토마토 모종을 하나 주셨습니다. 저기 왼쪽에 있는 거요.
+FALK: Dann hat der Gärtner jetzt endlich Zeit für seinen Garten.
+> 그럼 이제야 정원사께서 정원 돌볼 시간이 생기셨군요.
+LEHNERT: Und der Lotse geht von Bord. So werden es die Zeitungen morgen nennen, Herr Falk, darauf wette ich eine Tomate. Es passt zu gut.
+> 그리고 도선사는 배에서 내리고요. 내일 신문들이 그렇게 부를 겁니다, 팔크 씨. 토마토 하나 걸죠. 너무 잘 맞으니까.
+FALK: Es passt nicht. Bismarck wurde von Bord geschickt und hat danach acht Jahre lang erklärt, warum das Schiff ohne ihn sinkt. Ich gehe selbst, ich werde nichts erklären, und das Schiff hat seit Freitag einen Kurs, der nicht von mir stammt.
+> 안 맞습니다. 비스마르크는 쫓겨났고, 그 뒤 8년 동안 자기 없는 배가 왜 가라앉는지 떠들었죠. 저는 제 발로 내리고, 아무것도 해명하지 않을 겁니다. 그리고 배는 금요일부터 항로가 있는데, 그건 제가 정한 게 아닙니다.
+LEHNERT: Die Kanzlerin lässt Sie etwas fragen, und ich soll es wörtlich tun: ob Sie nach Vilnius gehen wollen. Als Botschafter. Die Litauer hätten nichts dagegen, Frau Šimkus hat es schriftlich gegeben.
+> 총리가 당신한테 물어보라는 게 있습니다. 토씨 하나 안 바꾸고 전하라더군요. 빌뉴스로 가겠느냐고. 대사로. 리투아니아 쪽도 반대하지 않는답니다. 시므쿠스 차관이 서면으로 줬어요.
+FALK: Sagen Sie ihr danke, und sagen Sie ihr nein. Wer seine Rechnung mit einer Botschaft bezahlt, hat sie nicht bezahlt. Und ein Botschafter mit zwei Seiten Lügen im Bundestagsprotokoll wäre für jedes Gastland ein Geschenk.
+> 고맙다고, 그리고 사양한다고 전해 주십시오. 계산서를 대사 자리로 갚는 사람은 갚은 게 아닙니다. 그리고 연방의회 속기록에 두 쪽짜리 거짓말이 실린 대사라면 어느 주재국한테나 선물이겠죠.
+LEHNERT: Das habe ich ihr vorausgesagt. Sie hat geantwortet: «Dann soll er wenigstens nicht schweigen.» … Und Ihr Verfahren nach 353b?
+> 그렇게 말할 거라고 미리 말씀드렸습니다. 총리 대답은 이랬죠. «그럼 적어도 입은 다물지 말라고 해요.» … 353조 b 건은요?
+FALK: Rademacher sagt, es gibt keins. Für 353b braucht die Staatsanwaltschaft eine Ermächtigung der obersten Dienstbehörde, und das Amt hat sie nicht erteilt. Das Leck saß im vierten Stock, nicht an meinem Schreibtisch.
+> 라데마허 검사 말로는 없답니다. 353조 b는 최고 감독 관청의 수권이 있어야 검찰이 움직일 수 있는데, 외무부가 그걸 내주지 않았죠. 유출은 4층에 있었지, 제 책상에 있던 게 아니니까요.
+LEHNERT: Dann gehen Sie ohne Strafe und ohne Pension. Ein seltsamer Preis für einen Mann, der in diesem Jahr nichts gestohlen hat.
+> 그럼 처벌도 없고 연금도 없이 떠나시는군요. 올해 아무것도 훔치지 않은 사람이 치르는 값치고는 이상하네요.
+FALK: Ich habe gelogen, Herr Lehnert, zwei Seiten lang. Ein Diplomat darf schweigen, ausweichen, sich verschätzen; aber wer anfängt, die eigenen Lügen zu zählen, muss irgendwann auch den Preis nennen.
+> 저는 거짓말을 했습니다, 레너트 실장님. 두 쪽 분량이나. 외교관은 침묵할 수도, 피할 수도, 판단을 그르칠 수도 있습니다. 하지만 자기 거짓말을 세기 시작한 사람은 언젠가 그 값도 불러야 합니다.
+LEHNERT: Und Ihre Frau? Man hört, der Präsident ihres Gerichts habe Ihren Namen im Frühjahr nicht gern gehört.
+> 부인은요? 법원장이 봄엔 당신 이름을 별로 반기지 않았다던데.
+FALK: Der Vermerk liegt noch in ihrer Personalakte, und sie hat darum gebeten, dass er dort bleibt. Eine Richterin, deren Flur abgehört wurde, soll das nicht vergessen dürfen, sagt sie.
+> 그 메모는 아직 아내 인사 기록에 있고, 아내가 그대로 두라고 했습니다. 현관이 도청당했던 판사라면 그걸 잊어선 안 된다면서요.
+LEHNERT: Eine Familie von Protokollführern. … Noch etwas: Brückner gibt nach der Sommerpause den Ausschussvorsitz ab, weil er selbst als Zeuge geladen wird. Er lässt Ihnen ausrichten, dass er ab jetzt jedes Blatt liest, das er unterschreibt.
+> 기록하는 사람들의 집안이군요. … 하나 더. 브뤼크너가 여름 휴회 뒤에 위원장 자리를 내놓습니다. 자기도 증인으로 불려 나가게 됐거든요. 앞으로는 서명하는 종이를 한 장도 빠짐없이 읽겠다고 전해 달랍니다.
+
+== 장면 2 — ROTKÄPPCHEN
+SEDOV: Herr Falk. Montag, elfter Oktober, und ich bekomme Besuch von jemandem, der weder vom Verfassungsschutz ist noch Englisch spricht. Setzen Sie sich; der Tee ist schlecht, aber deutsch.
+> 팔크 씨. 10월 11일 월요일. 헌법수호청 사람도 아니고 영어로 말하지도 않는 손님이 오셨네요. 앉으세요. 차는 형편없지만 독일 차입니다.
+FALK: Man hat mir eine Stunde gegeben, Herr Sedov. Ich bin nicht mehr im Dienst, also musste ich einen Antrag stellen wie jeder andere Besucher.
+> 한 시간 받았습니다, 세도프 씨. 이제 공직에 없어서 다른 방문객처럼 신청서를 내야 했죠.
+SEDOV: Willkommen bei den Privatleuten. Fünfzehn Wochen Befragung sind gestern zu Ende gegangen. Der Verfassungsschutz hat mich alles gefragt, und Ihr Bundesanwalt hat mir einen Brief geschrieben, in dem «Beschuldigter» und «Zeuge» im selben Absatz stehen.
+> 민간인 세계에 오신 걸 환영합니다. 15주짜리 신문이 어제 끝났습니다. 헌법수호청은 모든 걸 물었고, 당신네 연방검사는 «피의자»와 «증인»이 한 문단에 같이 들어간 편지를 보냈더군요.
+FALK: Wegen des Namens, den Sie im April in letzter Minute auf die Austauschliste geschrieben haben.
+> 4월에 마지막 순간에 교환 명단에 끼워 넣은 그 이름 때문이군요.
+SEDOV: Und wegen eines jungen Mannes in Kaliningrad, für den ich den Preis genannt habe. Keine Straffreiheit, wie Frau Wessel gesagt hat. Ich sage gegen Herrn Aldenhoven aus und danach gegen mich selbst; ich finde, das ist die richtige Reihenfolge.
+> 그리고 칼리닌그라드의 한 젊은이 때문이죠. 그 값을 부른 게 나였으니까. 베셀 씨 말대로 면책은 없습니다. 알덴호펜 씨에 대해 증언하고, 그다음엔 나 자신에 대해 하겠죠. 순서는 그게 맞는 것 같습니다.
+FALK: Und Polina?
+> 폴리나는요?
+SEDOV: Seit heute Morgen Studentin an der Hanns-Eisler-Hochschule, hier in Berlin. Bratsche. Sie hat mich gebeten, nicht zur Einschreibung zu kommen, wegen der zwei Herren, die mich überallhin begleiten.
+> 오늘 아침부터 여기 베를린 한스 아이슬러 음대 학생입니다. 비올라요. 등록하는 데 오지 말아 달라더군요. 어딜 가나 나를 따라다니는 두 신사 때문에.
+FALK: Meine Mutter hat Bratsche gespielt. Im Gewandhaus.
+> 제 어머니도 비올라를 하셨습니다. 게반트하우스에서.
+SEDOV: Ich weiß. Es stand in einer Akte, die ich gegen Sie benutzen wollte; Polina wusste es nicht und hat das Instrument trotzdem gewählt, mit elf, weil ihr die Geige zu hoch klang. … Manche Dinge stehen in Akten und gehören trotzdem niemandem.
+> 압니다. 당신을 상대로 쓰려던 파일에 있었죠. 폴리나는 그걸 몰랐는데도 열한 살 때 그 악기를 골랐어요. 바이올린 소리가 너무 높다면서. … 어떤 건 파일에 적혀 있어도 누구의 것도 아니더군요.
+FALK: Ich bringe Ihnen etwas, das seit Juli unterwegs ist. Die Antwort meines Vaters auf Ihren Gruß.
+> 7월부터 전해 드리려던 게 있습니다. 당신 안부에 대한 아버지의 답입니다.
+SEDOV: Der Rotkäppchen-Sekt. Hat er gelacht?
+> 로트캐프헨 젝트 얘기군요. 웃으시던가요?
+FALK: Er hat gesagt, der sei wirklich der schlechteste gewesen. Und dann: «Sag ihm, ich habe ihm damals das Falsche beigebracht. Und sag ihm, dass ich das weiß.»
+> 정말 최악이었다고 하셨죠. 그러고는 이러셨습니다. «그 사람한테 전해라. 내가 그때 잘못된 걸 가르쳤다고. 그리고 내가 그걸 안다고.»
+SEDOV: … «Nimm einem Menschen alles bis auf eines, dann spricht er, um das eine zu behalten.» Leipzig, neunundachtzig, ich war achtzehn und habe es mitgeschrieben. Ich habe es dreißig Jahre lang angewendet, auch bei Ihnen.
+> … «한 사람한테서 하나만 남기고 전부 빼앗아라. 그러면 그 하나를 지키려고 말한다.» 89년 라이프치히, 열여덟 살 때 받아 적었죠. 30년 동안 써먹었습니다. 당신한테도.
+FALK: Und im Juni hat man es bei Ihnen angewendet. Pass, Code, Wohnung, alles bis auf eines.
+> 그리고 6월엔 누가 당신한테 그걸 썼죠. 여권, 출입 코드, 아파트. 하나만 남기고 전부.
+SEDOV: Und ich habe gesprochen. Aber nicht aus Angst, Herr Falk; zum ersten Mal war einfach niemand mehr da, dem ich etwas vorspielen musste.
+> 그리고 나는 말했죠. 그런데 겁이 나서가 아니었습니다, 팔크 씨. 처음으로, 그냥 연기를 보여 줘야 할 상대가 아무도 없었던 겁니다.
+FALK: Was soll ich ihm ausrichten?
+> 아버지께 뭐라고 전할까요?
+SEDOV: Dass er recht hatte, nur andersherum. Man spricht, wenn man nur noch eines hat. Aber es ist selten das, was der andere einem lassen wollte.
+> 그분 말이 맞았다고요. 방향만 반대로. 하나만 남으면 사람은 말합니다. 다만 그 하나가 상대가 남겨 주려던 것인 경우는 드물죠.
+FALK: Ich sage es ihm. Diesmal warte ich nicht bis Helsinki.
+> 전하겠습니다. 이번엔 헬싱키까지 기다리지 않고.
+SEDOV: Noch etwas für Ihr Notizbuch. Mr. Hale war zweimal hier; er sagt, er bekomme meine Protokolle zur selben Zeit wie Berlin, das habe man ihm im Mai versprochen.
+> 당신 수첩에 적을 게 하나 더 있습니다. 헤일 씨가 두 번 왔어요. 내 신문 조서를 베를린과 같은 시간에 받는다더군요. 5월에 그렇게 약속받았다면서.
+FALK: Er hat es mir versprochen und ich ihm. Dann hält es wenigstens einer, und ausgerechnet der Verfassungsschutz.
+> 그 사람이 저한테 약속했고, 저도 그 사람한테 했죠. 그럼 적어도 누군가는 지키는 셈이네요. 하필 헌법수호청이.
+SEDOV: Und zuletzt mein eigenes Notizbuch, die Sätze, die sich als falsch herausstellen werden. Ihr letzter Eintrag ist vom achtzehnten Juni: «Ich habe eine Kopie.» … Heute Morgen habe ich ihn durchgestrichen; von Ihnen steht nichts mehr darin.
+> 마지막으로 내 수첩. 틀린 것으로 드러날 문장들이죠. 당신의 마지막 항목은 6월 18일 겁니다. «사본이 있다.» … 오늘 아침에 줄을 그었습니다. 이제 당신 문장은 하나도 안 남았어요.
+FALK: Behalten Sie das Buch trotzdem, Herr Sedov. Man braucht es, wenn man wieder anfängt, Menschen zu glauben.
+> 그래도 그 수첩은 갖고 계세요, 세도프 씨. 다시 사람을 믿기 시작할 때 필요하니까요.
+
+== 장면 3 — ANKLAGE
+RADEMACHER: Donnerstag, siebzehnter Februar, Herr Falk. Vor einer Stunde habe ich die Anklage gegen Dr. Helene Winter beim Staatsschutzsenat des Kammergerichts eingereicht. Zweihundertzwölf Seiten, und Sie sind Zeuge Nummer eins.
+> 2월 17일 목요일입니다, 팔크 씨. 한 시간 전에 헬레네 빈터 박사에 대한 공소장을 베를린 고등법원 국가보호 형사부에 냈습니다. 212쪽이고, 당신이 1번 증인입니다.
+FALK: Was steht darin?
+> 뭐가 들어 있습니까?
+RADEMACHER: Bestechlichkeit, wegen eines Hauses in Laboe, das ihr nicht mehr gehört und in dem sie trotzdem wohnt. Verletzung des Dienstgeheimnisses in mehreren Fällen, vom Brüsseler Dienstagstext bis zu den drei Seiten, die Herr Sedov zurückgebracht hat. Und geheimdienstliche Agententätigkeit, über Herrn Aldenhoven.
+> 뇌물 수수. 이제 자기 소유도 아닌데 여전히 살고 있는 라보에의 집 때문에. 직무상 비밀 누설 여러 건. 브뤼셀의 화요일 문안부터 세도프 씨가 도로 가져온 그 석 장까지. 그리고 알덴호펜 씨를 통한 정보기관 요원 활동.
+FALK: Und Jan?
+> 얀 건은요?
+RADEMACHER: Paragraf zweihunderteinundvierzig a, politische Verdächtigung: wer einen anderen der Gefahr aussetzt, aus politischen Gründen verfolgt zu werden. Frau Winter bestreitet die Passnummer bis heute. Herr Imhoff bestreitet nicht mehr, dass er am vierten Juni auf ihre Bitte die Sicherheitserklärung aus der Registratur geholt hat.
+> 형법 241조 a, 정치적 밀고. 남을 정치적 이유로 박해받을 위험에 빠뜨린 자. 빈터 씨는 여권 번호를 지금까지 부인합니다. 임호프 씨는 이제 부인하지 않고요. 6월 4일에 그녀 부탁으로 등록실에서 보안 심사 신고서를 꺼내 왔다는 걸.
+FALK: Imhoff sitzt mit ihr auf der Anklagebank?
+> 임호프도 같이 피고인석에 앉습니까?
+RADEMACHER: Als Mitangeklagter und als Zeuge; das Gericht wird ihm beides glauben müssen. Die Siegel von Frau Lindner wurden im Januar vor Zeugen gebrochen, die zweiundzwanzig Seiten und die Liste der vier Fassungen. Ihre Frau hat ihre eigene Unterschrift auf dem Siegel wiedererkannt.
+> 공동 피고인이자 증인으로요. 법원은 둘 다 믿어야 할 겁니다. 린트너 변호사의 봉인은 1월에 증인들 앞에서 뜯었습니다. 22쪽 조서랑 판본 넷 목록이요. 부인께서 봉인 위의 자기 서명을 알아보셨죠.
+FALK: Und die anderen beiden?
+> 나머지 둘은요?
+RADEMACHER: Gegen Herrn Greve liegt seit Januar Anklage beim Oberlandesgericht in Schleswig: Paragraf siebenundachtzig, Bestechung, versuchte Nötigung Ihrer Frau. Herr Aldenhoven ist im März hier dran; das Kassabuch bestätigt seine vierzigtausend bis zu Ihrem Rauchmelder, und von seinen vier Namen sitzen zwei in Haft.
+> 그레베 씨는 1월부터 슐레스비히 고등법원에 공소가 제기돼 있습니다. 87조, 뇌물 공여, 부인을 상대로 한 강요 미수. 알덴호펜 씨는 3월에 여기서 차례가 옵니다. 카사부흐가 그 4만 유로를 확인해 줬어요. 당신 집 연기 감지기까지. 그리고 그가 댄 이름 넷 중 둘이 구속됐습니다.
+MIRA: Herr Falk. Man hat mich als Zeugin Nummer drei geladen, und ich wollte es Ihnen selbst sagen, bevor Sie es lesen.
+> 팔크 씨. 저는 3번 증인으로 소환됐어요. 읽으시기 전에 직접 말씀드리고 싶었어요.
+FALK: Frau Schönfeld. Was machen Sie, seit Sie keinen Ausweis mehr haben?
+> 쇤펠트 씨. 신분증을 내려놓은 뒤로 뭘 하십니까?
+MIRA: Seit dem dreißigsten Juli bin ich entlassen, auf eigenen Antrag und ohne Disziplinarverfahren; der Präsident ist im Oktober in den einstweiligen Ruhestand gegangen. Ich lerne gerade, Briefe zu schreiben, die nur einen Empfänger haben. Es ist schwerer, als es klingt.
+> 7월 30일부로 면직됐어요. 제 신청으로, 징계 절차 없이요. 원장님은 10월에 임시 퇴직하셨고요. 지금은 수신인이 한 명뿐인 편지 쓰는 법을 배우는 중이에요. 말처럼 쉽지 않네요.
+FALK: Und im Prozess?
+> 재판에선요?
+MIRA: Sage ich gegen die Frau aus, der ich neun Monate lang eigene Fassungen geschickt habe. Ich werde sagen, dass ich es wusste. Nicht alles, aber genug.
+> 아홉 달 동안 따로 판본을 보내 줬던 그 여자에 맞서 증언할 거예요. 알고 있었다고 말할 거예요. 전부는 아니어도 충분히.
+FALK: Mehr hat in diesem Jahr kaum jemand gesagt.
+> 올해 그 이상 말한 사람은 거의 없습니다.
+MIRA: Sie schon. … Wir bleiben beim Sie, nicht wahr? Ich glaube, es ist das Ehrlichste, was zwischen uns übrig ist.
+> 당신은 했죠. … 우리, 계속 Sie로 지내는 거죠? 우리 사이에 남은 것 중엔 그게 제일 정직한 것 같아요.
+FALK: Wir bleiben beim Sie, Frau Schönfeld. Und ich danke Ihnen für die Grenze.
+> Sie로 지내죠, 쇤펠트 씨. 그리고 국경에서의 일, 고맙습니다.
+RADEMACHER: Ihr Telefon, Herr Falk, eine Nummer aus Schleswig-Holstein. Ich gehe ein paar Schritte; ich habe in diesem Fall lange genug zugehört.
+> 전화 왔습니다, 팔크 씨. 슐레스비히홀슈타인 번호네요. 몇 걸음 물러나 있겠습니다. 이 사건에선 엿들을 만큼 엿들었으니.
+WINTER: Herr Falk. Mein Anwalt hat mir die Anklage vor einer Stunde gefaxt, Seite für Seite, wie früher meine Vorlagen. Zweihundertzwölf Seiten, und auf hundertvierzig davon steht Ihr Name.
+> 팔크 씨. 한 시간 전에 변호사가 공소장을 팩스로 보냈어요. 한 장 한 장, 예전 내 보고 서류들처럼. 212쪽인데, 그중 140쪽에 당신 이름이 있더군요.
+FALK: Frau Staatssekretärin. Ich nehme an, Sie rufen nicht wegen der Seitenzahl an.
+> 사무차관님. 쪽수 얘기 하려고 전화하신 건 아니겠죠.
+WINTER: Sie sagen immer noch «Frau Staatssekretärin». Außer Ihnen tut das niemand mehr, nicht einmal mein Anwalt. … Ich rufe an, weil ich eine Frage habe, die nicht in der Anklage steht.
+> 아직도 «사무차관님»이라고 하는군요. 이제 당신 말고는 아무도 그렇게 안 불러요. 내 변호사조차도. … 공소장에 없는 질문이 하나 있어서 전화했어요.
+FALK: Fragen Sie.
+> 물으십시오.
+WINTER: Warum sind Sie gegangen? Man hat Ihnen Vilnius angeboten, Sie hätten Botschafter sein können, mit Ihrer Liste als Orden. Stattdessen haben Sie selbst getan, was ich im Juni gegen Sie beantragt hatte.
+> 왜 떠났어요? 빌뉴스를 제안받았다던데. 그 목록을 훈장처럼 달고 대사가 될 수도 있었잖아요. 그런데 내가 6월에 당신을 상대로 청구했던 걸 당신이 직접 해 버렸어요.
+FALK: Weil Sie mir am ersten Morgen etwas beigebracht haben, ohne es zu wollen. «Vierzehn Seiten», eine einzige Zahl, die Sie nicht hätten kennen dürfen. Wer so lange im Amt bleibt, bis er die eigenen Zahlen nicht mehr bemerkt, hätte vorher gehen sollen.
+> 첫날 아침에 차관님이 저한테 뭔가를 가르쳐 주셨거든요. 그럴 생각도 없이. «14쪽». 알면 안 되는 숫자 하나. 자기 숫자를 더는 알아채지 못할 때까지 자리에 머무는 사람은, 그 전에 떠났어야 합니다.
+WINTER: Und Sie glauben, ich hätte sie nicht bemerkt?
+> 내가 그걸 몰랐을 거라고 생각해요?
+FALK: Sie haben sie bemerkt. Sie sind nur geblieben.
+> 아셨죠. 그냥 남아 계셨을 뿐.
+WINTER: … Wissen Sie, was ich hier in Laboe tue? Ich sitze am Fenster und sehe die Schiffe in die Förde fahren. Jedes hat bis Holtenau einen Lotsen an Bord; dort geht er von Bord, und an Deck dreht sich keiner nach ihm um.
+> … 내가 여기 라보에서 뭘 하는지 알아요? 창가에 앉아서 배들이 피오르로 들어오는 걸 봐요. 배마다 홀테나우까지는 도선사가 타고 있죠. 거기서 도선사가 내리면, 갑판 위의 누구도 뒤돌아보지 않아요.
+FALK: Das ist das Beste, was einem Lotsen passieren kann, Frau Staatssekretärin: dass das Schiff ihn nicht mehr braucht.
+> 그게 도선사한테 일어날 수 있는 가장 좋은 일입니다, 사무차관님. 배가 더는 자기를 필요로 하지 않는 것.
+WINTER: Im Mai werden Sie gegen mich aussagen. Würden Sie lügen, wenn es mir hilft?
+> 5월엔 나한테 불리한 증언을 하겠죠. 나한테 도움이 된다면 거짓말을 하겠어요?
+FALK: Nein. Aber ich werde auch nichts sagen, was ich nur vermute. Das ist alles, was ich Ihnen anbieten kann, und es ist mehr, als Sie mir im vergangenen Mai angeboten haben.
+> 아니요. 하지만 짐작일 뿐인 것도 말하지 않을 겁니다. 제가 드릴 수 있는 건 그게 전부입니다. 그래도 작년 5월에 차관님이 저한테 주신 것보다는 많죠.
+WINTER: Fair. Das Wort habe ich in unserem Haus nie gemocht. … Am ersten Morgen habe ich Ihnen geraten, Ihre Verschwörungstheorien für Ihre Memoiren aufzuheben. Schreiben Sie keine, Herr Falk; es waren keine Theorien.
+> 공정하네요. 우리 외무부에선 한 번도 좋아한 적 없는 단어인데. … 첫날 아침에 음모론은 회고록 쓸 때를 위해 아껴 두라고 했었죠. 쓰지 마요, 팔크 씨. 그건 음모론이 아니었으니까.
+FALK: Ich schreibe keine. Auf Wiederhören, Frau Staatssekretärin. Wir sehen uns vor Gericht.
+> 안 씁니다. 안녕히 계십시오, 사무차관님. 법정에서 뵙겠습니다.
+WINTER: Vor Gericht. … Sie wären ein sehr guter Nachfolger geworden, Herr Falk. Konjunktiv, ich weiß; es ist der einzige Modus, der mir geblieben ist.
+> 법정에서. … 당신은 아주 좋은 후임이 됐을 거예요, 팔크 씨. 접속법이죠, 알아요. 나한테 남은 화법은 그것뿐이니까.
+RADEMACHER: War sie das? Dann muss ich es aufschreiben, Herr Falk. Sie kennen mich.
+> 그 사람이었습니까? 그럼 기록해야 합니다, 팔크 씨. 저 아시잖아요.
+FALK: Schreiben Sie: Die Angeschuldigte hat den Zeugen gefragt, ob er für sie lügen würde, und der Zeuge hat Nein gesagt. Danach hat sie ihm etwas im Konjunktiv geschenkt.
+> 적으세요. 피고인이 증인에게 자기를 위해 거짓말하겠느냐고 물었고, 증인은 아니라고 했다. 그러자 피고인은 증인에게 접속법으로 된 선물을 하나 줬다.
+
+== 절정 — WAS ZUSAMMENGEHÖRT
+JAN: Dienstag, neunundzwanzigster Februar. Ein Tag, den es nur alle vier Jahre gibt, und Konstantin will ihn auf einer Brücke verbringen, auf der niemand mehr getauscht wird.
+> 2월 29일 화요일. 4년에 한 번밖에 없는 날인데, 콘스탄틴은 이제 아무도 맞바꾸지 않는 다리 위에서 그날을 보내고 싶대요.
+FALK: Ich wollte sie einmal sehen, ohne dass drüben jemand wartet. Im Juli war es fünf Uhr früh, und ich habe nur auf einen einzigen Mann geachtet.
+> 한 번쯤 건너편에 아무도 기다리지 않을 때 보고 싶었어. 7월엔 새벽 다섯 시였고, 남자 하나만 쳐다보고 있었으니까.
+ELISABETH: Und ich habe mir einen Nachmittag freigenommen, zum ersten Mal seit dem Referendariat ohne Akte in der Tasche. Georg, ist dir kalt?
+> 그리고 난 오후 반차를 냈어. 사법연수 이후 처음으로 가방에 서류 없이. 아버님, 춥지 않으세요?
+GEORG: Ein alter Mann friert immer, Elisabeth, das ist kein Grund zur Sorge. … Am zehnten November neunundachtzig, abends um sechs, haben sie diese Brücke aufgemacht. Ich saß in Leipzig vor dem Fernseher, und Konstantin schlief, sechs Jahre alt, mit einem roten Porsche in der Hand.
+> 늙은이는 늘 추운 법이다, 엘리자베트. 걱정할 거 없어. … 89년 11월 10일 저녁 여섯 시에 이 다리를 열었지. 나는 라이프치히에서 텔레비전 앞에 앉아 있었고, 콘스탄틴은 자고 있었다. 여섯 살이었지. 빨간 포르셰를 손에 쥐고.
+ANNA: Am selben Tag hat Willy Brandt gesagt: «Jetzt wächst zusammen, was zusammengehört.» Mein Vater war da schon in Hamburg. Er mochte den Satz nicht.
+> 같은 날 빌리 브란트가 말했죠. «이제 함께 속한 것이 함께 자란다.» 우리 아버지는 그때 이미 함부르크에 계셨어요. 그 문장을 좋아하지 않으셨죠.
+GEORG: Warum nicht, Frau Lenz?
+> 왜요, 렌츠 씨?
+ANNA: Er sagte, zusammenwachsen sei etwas für Pflanzen. Menschen müssten zuerst sagen, was zwischen ihnen passiert ist; dann könne man sehen, ob da noch etwas wächst.
+> 함께 자라는 건 식물 얘기라고 하셨어요. 사람은 먼저 둘 사이에 무슨 일이 있었는지 말해야 한다고. 그래야 거기서 아직 뭐가 자라는지 볼 수 있다고요.
+GEORG: Dann hat er gewusst, was ich erst mit neunundsiebzig gelernt habe.
+> 그럼 그 친구는 내가 일흔아홉에야 배운 걸 이미 알았던 거군요.
+FALK: Anna, du warst im Juli wieder bei ihm, wie du es versprochen hattest.
+> 안나, 약속한 대로 7월에 아버지한테 다시 갔었지.
+ANNA: Am neunundzwanzigsten Juli, in Prenzlauer Berg, zwei Stunden. Er hat mich nach Hamburg gefragt, wie ich es verlangt hatte: nach dem Mann, der nachts selbst das Licht anmachte. Im Oktober habe ich ihn nach Ohlsdorf mitgenommen.
+> 7월 29일, 프렌츨라우어 베르크에서 두 시간. 내가 요구했던 대로 함부르크에 대해 물으셨어. 밤마다 직접 불을 켜던 그 사람에 대해서. 10월엔 올스도르프에 모시고 갔고.
+GEORG: Ich habe am Grab nichts gesagt, und Frau Lenz meinte, das sei richtig so. Matthias habe genug Leute reden hören, die nichts zu sagen hatten.
+> 무덤 앞에선 아무 말도 안 했다. 렌츠 씨가 그게 맞다더구나. 마티아스는 할 말도 없는 사람들이 떠드는 걸 충분히 들었다고.
+ANNA: Und meine Mutter hat ihm im Januar geschrieben, eine Karte, vier Zeilen. Was darin steht, bleibt zwischen den beiden; ich habe gelernt, dass nicht alles in die Zeitung muss.
+> 그리고 우리 어머니가 1월에 편지를 쓰셨어. 카드 한 장에 네 줄. 뭐라고 쓰셨는지는 두 분 사이의 일이야. 모든 게 신문에 실릴 필요는 없다는 걸 배웠거든.
+ELISABETH: Das sagt eine Frau, die gerade gegen den BND gewonnen hat.
+> 방금 BND를 상대로 이기신 분이 하실 말씀은 아닌 것 같은데요.
+ANNA: Der Unabhängige Kontrollrat hat im Januar festgestellt, dass mein Postfach rechtswidrig gelesen wurde, ab dem siebenundzwanzigsten Februar. Heute vor einem Jahr und zwei Tagen hat es angefangen. Das war nicht für die Zeitung, Frau Falk, das war für mich.
+> 독립통제위원회가 1월에 결론을 냈어요. 2월 27일부터 제 메일함을 읽은 건 위법이었다고. 딱 1년 하고도 이틀 전에 시작된 일이죠. 그건 신문 때문이 아니었어요, 판사님. 저를 위한 거였죠.
+JAN: Und Babcia lässt ausrichten, dass im Januar der Brief vom Fonds gekommen ist, auf Polnisch und auf Deutsch. Sie hat ihn zweimal gelesen, einmal in jeder Sprache, und gesagt: Spät, aber in der richtigen Reihenfolge.
+> 그리고 할머니가 전해 달래요. 1월에 기금에서 편지가 왔대요. 폴란드어랑 독일어로. 두 번 읽으셨대요. 언어마다 한 번씩. 그러고는 늦었지만 순서는 맞다고 하셨어요.
+FALK: Piotr wird das gern hören. … Und du, Jan? Im April geht die erste Kompanie nach Litauen.
+> 표트르가 들으면 좋아하겠네. … 넌, 얀? 4월에 첫 중대가 리투아니아로 가잖아.
+JAN: Und ich fahre mit, als Protokollant des Aufbaustabs, mit einem Dienstpass, auf dem mein deutscher Name steht. Den polnischen Pass bewahrt Babcia auf, in ihrer Keksdose.
+> 저도 같이 가요. 창설 준비단 기록 담당으로요. 독일 이름이 적힌 관용 여권 들고요. 폴란드 여권은 할머니가 과자 깡통에 넣어 보관하신대요.
+FALK: Zählst du noch?
+> 아직 세?
+JAN: Nein, seit heute nicht mehr. Du stehst seit dem elften Juni bei null, und ein Freund, der nur noch Nullen zählt, sollte irgendwann aufhören und einfach zuhören.
+> 아니요. 오늘부터 안 세요. 6월 11일부터 0이잖아요. 0만 세는 친구라면 언젠가는 그만두고 그냥 들어 줘야죠.
+ELISABETH: Und was machst du jetzt, Konstantin? Seit Juli fragt dich das jeder, und du sagst jedem: Ich weiß es nicht. Ist das wahr?
+> 그럼 당신은 이제 뭐 할 거야, 콘스탄틴? 7월부터 다들 묻는데, 당신은 누구한테나 모른다고 하잖아. 그거 진짜야?
+FALK: Es ist wahr. Zwanzig Jahre lang habe ich immer gewusst, was ich als Nächstes sage. Jetzt weiß ich es zum ersten Mal nicht, und es fühlt sich nicht schlecht an.
+> 진짜야. 20년 동안 다음에 무슨 말을 할지 늘 알고 있었어. 지금은 처음으로 모르는데, 그게 나쁘지 않아.
+GEORG: Vor einem Jahr habe ich dir nicht gesagt, was in meiner Akte steht. Dann hast du es dem ganzen Land gesagt, in meinem Namen und in deinem. … Das war eine Rechnung, die eigentlich mir gehörte.
+> 일 년 전엔 내 파일에 뭐가 있는지 너한테 말하지 않았지. 그랬더니 네가 온 나라에 말했다. 내 이름으로, 그리고 네 이름으로. … 원래 내 몫이었던 계산서였는데.
+FALK: Sie haben Ihren Teil bezahlt, Vater. In einer Kirche, an einem Grab und an dem Oktoberabend, an dem ich Ihnen Sedovs Antwort gebracht habe.
+> 아버지는 아버지 몫을 치르셨어요. 교회에서, 무덤 앞에서, 그리고 제가 세도프의 답을 가져갔던 그 10월 저녁에.
+GEORG: «Man spricht, wenn man nur noch eines hat. Aber es ist selten das, was der andere einem lassen wollte.» … Ich habe nur noch eines, Konstantin. Es steht neben mir auf einer Brücke und weiß nicht, was es als Nächstes sagt.
+> «하나만 남으면 사람은 말한다. 다만 그 하나가 상대가 남겨 주려던 것인 경우는 드물다.» … 나한텐 이제 하나밖에 없다, 콘스탄틴. 그게 지금 다리 위에서 내 옆에 서서, 다음에 무슨 말을 할지 모르고 있지.
+ANNA: Wo genau war die Mitte, Konstantin? Die Stelle, an der die Leute stehen geblieben sind, bevor sie hinübergingen?
+> 정확히 어디가 한가운데였어, 콘스탄틴? 사람들이 건너가기 전에 멈춰 섰던 자리.
+FALK: Ungefähr hier. Man sieht nichts mehr davon, und das ist das Beste, was man über eine Grenze sagen kann.
+> 대충 여기쯤. 이제 아무 흔적도 안 보여. 국경에 대해 할 수 있는 최고의 말이지.
+ANNA: Mein Vater hätte gesagt: Doch, man sieht es, an den Leuten, die hier stehen. Ein Spitzel, sein Sohn, die Tochter des Pfarrers, ein junger Mann, den man als Münze benutzt hat, und eine Richterin, die alles mitgeschrieben hat.
+> 우리 아버지라면 이랬을 거야. 아니, 보인다고. 여기 서 있는 사람들한테서. 밀고자, 그 아들, 목사의 딸, 동전처럼 쓰였던 젊은이, 그리고 그걸 전부 받아 적은 판사.
+GEORG: Und alle reden miteinander. … Dann hatte Brandt doch recht, Frau Lenz. Es hat nur achtunddreißig Jahre gedauert.
+> 그런데 다들 서로 말을 하고 있지요. … 그러니 브란트가 맞긴 맞았군요, 렌츠 씨. 38년이 걸렸을 뿐.
+ANNA: Nicht zusammengewachsen, Herr Falk. Nebeneinander. Aber nebeneinander auf einer Brücke ist schon sehr viel.
+> 함께 자란 건 아니에요, 팔크 씨. 나란히 선 거죠. 그래도 다리 위에 나란히 서 있는 것만 해도 아주 많은 거예요.
+
+== 마무리 — DREI UHR NACHTS
+ELISABETH: Konstantin. Dein Handy. Es ist drei Uhr.
+> 콘스탄틴. 당신 전화. 새벽 세 시야.
+FALK: Ich habe kein Diensthandy mehr, Elisabeth. Wer ruft einen Mann ohne Amt um drei Uhr nachts an?
+> 나 이제 업무용 전화 없어, 엘리자베트. 직책도 없는 사람한테 누가 새벽 세 시에 전화를 해?
+ELISABETH: Es ist dein eigenes, und es klingelt trotzdem. Erster März. Heute vor einem Jahr war es das Kabel.
+> 당신 개인 전화야. 그런데도 울려. 3월 1일. 일 년 전 오늘은 케이블이었지.
+FALK: Schlaf weiter, ich gehe raus.
+> 더 자, 나가서 받을게.
+ELISABETH: Wenn um drei dein Handy klingelt, schläft in diesem Haus niemand weiter; daran hat sich nichts geändert. Geh ran, und erzähl es mir noch heute. Bedingung zwei.
+> 새벽 세 시에 당신 전화가 울리면 이 집에서 다시 잠드는 사람은 없어. 그건 하나도 안 변했네. 받아. 그리고 오늘 안에 나한테 얘기해. 조건 2번.
+FALK: Falk.
+> 팔크입니다.
+ANRUFERIN: Herr Falk? Entschuldigen Sie die Uhrzeit. Sie kennen mich nicht; ich arbeite in einem Ministerium, dessen Namen ich am Telefon lieber nicht sage.
+> 팔크 씨? 이른 시간에 죄송합니다. 저를 모르실 거예요. 어느 부처에서 일하는데, 전화로는 이름을 말하지 않는 게 좋겠어요.
+FALK: Dann sagen Sie mir, warum Sie anrufen.
+> 그럼 왜 전화하셨는지 말씀해 주세요.
+ANRUFERIN: Ich habe Ihre zwei Seiten gelesen, im Protokoll des Ausschusses. Heute Abend hat man mich gebeten, einen Vermerk zu unterschreiben, der nicht stimmt, und ich wusste nicht, wen man um drei Uhr nachts fragt, ob man das darf.
+> 국정조사위원회 속기록에 있는 그 두 쪽을 읽었어요. 오늘 저녁에 사실이 아닌 메모에 서명하라는 요구를 받았어요. 그래도 되는지, 새벽 세 시에 누구한테 물어야 할지 몰랐어요.
+FALK: Ich bin nicht mehr im Amt. Ich kann Ihnen nichts befehlen und nichts versprechen, und ich werde Ihnen nicht sagen, was Sie hören wollen.
+> 저는 이제 공직에 없습니다. 아무것도 지시할 수 없고, 아무것도 약속할 수 없어요. 그리고 듣고 싶으신 말을 해 드리지도 않을 겁니다.
+ANRUFERIN: Deshalb rufe ich ja Sie an.
+> 그래서 팔크 씨한테 전화한 거예요.
+FALK: … Gut. Dann langsam. Noch einmal von vorn.
+> … 좋습니다. 그럼 천천히. 처음부터 다시 말씀해 보세요.
