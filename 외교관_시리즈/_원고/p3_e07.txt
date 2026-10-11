@@ -1,0 +1,331 @@
+@part 3
+@ep 7
+@title Marsaleks Schatten
+@title_ko 마르살레크의 그림자
+@tagline 마르살레크의 그림자 · 대관람차 위의 해결사, 사라진 37번 쪽, 로스토크로 간 돈
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 6월 3일 목요일 아침부터 밤까지, 빈(중앙역, 카페 모차르트, 프라터 대관람차, 카를스플라츠, 누스도르프의 호이리거, 베를린행 야간열차)과 베를린(전화)
+@cast FALK | 외무부 유럽안보 특별대표, 직무 정지 중 (44)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast LEHNERT | 연방총리실장 (58)
+@cast OBER | Franz · 카페 모차르트의 웨이터 (가상)
+@cast HOLLERBACH | Mag. Stefan Hollerbach · 빈의 금융 해결사 (가상)
+@cast SEDOV | 주독 러시아 대사관 공사참사관 (56)
+@note ※ 지난 화에서 Anna와 Jan은 Greve의 돈이 키프로스 리마솔을 거쳐 스위스 추크의 «아우로라 재단»으로 들어갔고, 그중 20만 유로가 행방불명이라는 사실을 찾아냈습니다. 재단 이사는 빈의 해결사 Hollerbach입니다. 외무부 서류철에서는 37번 쪽(아우로라 재단의 편지)이 사라졌습니다. 팔크와 Jan은 템펠호퍼 펠트에서 크게 다투었고, 그날 밤 Hollerbach가 노인용 휴대폰으로 전화해 «목요일에 혼자 빈으로 오라, 안 오면 젊은 친구가 올 것»이라고 했습니다.
+@note ※ 호칭: 팔크와 Elisabeth는 du를 씁니다. 팔크는 Lehnert, Hollerbach, Sedov, 웨이터와 모두 Sie를 씁니다(한국어는 격식체). 빈 사람들은 박사·석사 같은 학위를 호칭으로 즐겨 써서, 웨이터는 Hollerbach를 «Herr Magister»(마기스터 님)라고 부릅니다.
+@note ※ 표현 초점(오스트리아 독일어): Grüß Gott(인사), Melange(우유 거품 커피), Einspänner(크림 얹은 커피), Verlängerter(물 탄 에스프레소), ein bisserl(조금), Na geh!(아이고, 무슨 소리), Schmäh(빈 특유의 능청과 말재주), Packelei(뒷거래, 밀실 담합), Jänner(1월), Kassabuch(장부), Kuvert(봉투), Heuriger(포도 농가의 선술집), ausg'steckt(새 와인을 판다는 표시), Achterl(8분의 1리터 와인), Gspritzter(소다 탄 와인). 표준 독일어: Falltür(함정 문), Zeugenstatus(증인 지위), etwas vorrechnen(계산해 보이다). 접속법 II: «Würdest du wirklich Mitleid haben, wenn einer dieser Punkte aufhören würde, sich zu bewegen?» 간접화법(접속법 I): «Kennedy hat gesagt, es sei das Schlimmste gewesen, was er je erlebt habe.»
+@history 영화 «제3의 사나이» (Der dritte Mann, 1949) — 그레이엄 그린이 각본을 쓰고 캐럴 리드가 감독한 영국 영화로, 4대 점령국이 나누어 다스리던 전후 빈을 무대로 합니다. 미국 작가 홀리 마틴스(조지프 코튼)가 친구 해리 라임(오슨 웰스)을 찾아왔다가, 라임이 묽게 탄 페니실린을 팔아 아이들을 죽게 한 암거래상이라는 사실을 알게 됩니다. 프라터 대관람차 객차 안에서 라임은 아래의 사람들을 «점»에 비유하고, «보르자 가문의 30년은 르네상스를 낳았지만 스위스의 5백 년 평화는 뻐꾸기시계를 낳았다»고 말합니다. 이 대사는 웰스가 직접 써 넣은 것으로 알려져 있습니다. 영화는 빈의 하수도 추격 장면으로 끝나며, 안톤 카라스의 치터 음악과 함께 1949년 칸 영화제 대상을 받았습니다.
+@history 스파이의 도시 빈 — 빈은 1945년부터 1955년 국가조약까지 미·영·프·소 4개국이 공동 점령했고, 그 뒤 중립국 오스트리아의 수도로서 동서 진영이 만나는 장소가 되었습니다. 1961년 6월 3~4일 케네디와 흐루쇼프의 정상회담이 열렸고, 2010년 7월에는 빈 공항에서 미국과 러시아가 스파이를 맞교환했습니다. 오늘날에도 유엔 기구, OSCE, OPEC 등이 있어 외교관이 많고, 오스트리아 형법 256조는 «오스트리아에 불리한» 첩보 활동만 처벌하기 때문에 다른 나라를 겨냥한 첩보에는 관대하다는 비판을 받습니다. 2021년 말 비리와 정보 유출 논란 끝에 헌법보호청(BVT)이 해체되고 새 기관(DSN)이 생겼으며, 2024년에는 마르살레크를 위해 정보를 빼돌린 혐의로 전직 국가보안 공무원이 체포되었습니다.
+@history 대관람차와 빈 회의 — 프라터의 대관람차(Wiener Riesenrad)는 1897년 영국 기술자 월터 바셋이 프란츠 요제프 황제의 즉위 50주년을 앞두고 세웠습니다. 1945년 전쟁 막바지에 불탄 뒤 다시 세웠는데, 원래 30개였던 객차 중 15개만 다시 달았습니다. 1814~1815년 나폴레옹 이후의 유럽 질서를 정한 빈 회의는 연일 무도회가 열려 «회의는 춤춘다, 그러나 나아가지 않는다»는 말을 남겼습니다.
+@preview 3부 8화 — «Das Angebot aus Moskau»(모스크바의 제안) — 모스크바가 비공식 채널로 제안을 보낸다. 수바우키 회랑의 긴장을 낮추는 대신 Bernstein 여단 배치를 2년 동안 동결하라는 것이다. 문안은 팔크를 거치지 않고 이미 Lehnert의 책상에 있었다. Lehnert는 받아들이자고 하고, 팔크는 반대한다. 독소불가침조약의 비밀 의정서와 1975년 헬싱키 최종의정서가 논쟁의 무기가 된다.
+
+== 도입 — ANKUNFT IN WIEN
+ELISABETH: Bist du angekommen? Ich habe die Ankunftszeit des Nachtzugs im Internet verfolgt, wie eine Mutter bei der Klassenfahrt.
+> 도착했어? 인터넷으로 야간열차 도착 시간 보고 있었어. 수학여행 보낸 엄마처럼.
+FALK: Wien Hauptbahnhof, sieben Uhr zwanzig, pünktlich. Im Liegewagen hat ein Mann aus Graz die ganze Nacht geschnarcht, und ich habe die ganze Nacht nachgedacht.
+> 빈 중앙역, 7시 20분, 정시야. 쿠셋 칸에서 그라츠 남자가 밤새 코를 골았고, 난 밤새 생각만 했어.
+ELISABETH: Worüber?
+> 무슨 생각?
+FALK: Darüber, dass mich ein Mann, den ich nicht kenne, mit einem einzigen Satz über Jan in einen Zug gesetzt hat. Das ist genau die Art Einladung, die man nicht annehmen sollte.
+> 모르는 남자가 얀 얘기 한마디로 나를 기차에 태웠다는 거. 딱 받아들이면 안 되는 종류의 초대잖아.
+ELISABETH: Und trotzdem bist du gefahren. Bedingung zwei, Konstantin: Wen triffst du, wo und wann?
+> 그런데도 갔지. 조건 두 번째야, 콘스탄틴. 누구를, 어디서, 언제 만나?
+FALK: Hollerbach, um zehn im Café Mozart hinter der Oper. Mehr weiß ich nicht, er schickt die Orte einzeln, wie bei einer Schnitzeljagd.
+> 홀러바흐, 열 시에 오페라 하우스 뒤 카페 모차르트. 그 이상은 몰라. 장소를 하나씩 보내 와. 보물찾기처럼.
+ELISABETH: Café Mozart. Kommt das nicht in «Der dritte Mann» vor, in dem Film, den du mir an unserem dritten Abend gezeigt hast, weil du dachtest, Schwarzweiß mache Eindruck?
+> 카페 모차르트. 그거 «제3의 사나이»에 나오는 데 아냐? 우리 세 번째 데이트 때 당신이 보여 준 영화. 흑백 영화를 보여 주면 멋있어 보일 줄 알고.
+FALK: Es hat Eindruck gemacht, du hast mich geheiratet. … Und ein Mann, der sich im Café Mozart verabredet, will, dass ich an diesen Film denke.
+> 멋있어 보였지. 나랑 결혼했잖아. …그리고 카페 모차르트에서 만나자는 남자는 내가 그 영화를 떠올리길 바라는 거야.
+ELISABETH: Dann denk an das Ende. Harry Lime war charmant, und am Ende lag er in der Kanalisation.
+> 그럼 결말을 떠올려. 해리 라임은 매력적이었지만, 결국 하수도에 쓰러졌잖아.
+FALK: Und Holly Martins hat zu lange geglaubt, sein Freund sei ein guter Mensch. Ich rufe dich nach jedem Treffen an, versprochen.
+> 그리고 홀리 마틴스는 너무 오랫동안 친구가 좋은 사람이라고 믿었지. 만날 때마다 끝나면 전화할게. 약속해.
+ELISABETH: Noch etwas: Jan hat gestern Abend nicht angerufen, auch nicht bei mir. Er hat nur ein Foto vom Tempelhofer Feld geschickt, ohne ein einziges Wort.
+> 하나 더. 얀이 어젯밤에 전화 안 했어. 나한테도. 템펠호퍼 펠트 사진 한 장만 보냈어. 아무 말도 없이.
+FALK: Dann redet er wenigstens noch mit dir. Ich muss auflegen, in meiner Tasche ist noch ein zweites Telefon.
+> 그럼 적어도 당신하곤 아직 말을 하는 거네. 끊어야겠어. 주머니에 전화가 하나 더 있거든.
+FALK: Gärtner? Hier Falk. Ich bin in Wien, privat, mit dem Nachtzug und auf eigene Rechnung.
+> 정원사? 팔크입니다. 빈에 와 있습니다. 개인 자격으로, 야간열차 타고, 제 돈으로요.
+LEHNERT: Ich weiß. Sie haben mir gestern Abend eine Nachricht hinterlassen, die ich dreimal gelesen habe, weil ich sie beim ersten Mal nicht glauben wollte. Wer ist dieser Hollerbach?
+> 압니다. 어제저녁에 남기신 메시지를 세 번 읽었어요. 처음엔 믿기 싫었거든요. 그 홀러바흐라는 사람, 누굽니까?
+FALK: Ein Mann im Stiftungsrat einer Stiftung in Zug, die Geld von Greve bekommt. Und ein Mann, der die Nummer eines Telefons kennt, die eigentlich nur Erpresser kennen.
+> 그레베 돈을 받는 추크 재단의 이사입니다. 그리고 원래 협박범들만 아는 전화번호를 아는 사람이고요.
+LEHNERT: Ich habe heute Nacht jemanden in der Chausseestraße geweckt, nicht Frau Schönfeld. Es gibt einen Vermerk von 2021: Hollerbach, Wien, zweimal beim Mittagessen mit einem Mitarbeiter der russischen Handelsvertretung, der später ausgewiesen wurde.
+> 어젯밤에 샤우세 거리의 누군가를 깨웠습니다. 쇤펠트 박사는 아니고요. 2021년 메모가 하나 있더군요. 홀러바흐, 빈, 러시아 무역대표부 직원과 점심 두 번. 그 직원은 나중에 추방됐고요.
+FALK: Das ist mehr, als ich erwartet habe.
+> 기대한 것보다 많네요.
+LEHNERT: Es ist genau so viel, wie ich Ihnen geben kann, ohne dass jemand fragt, wofür. Sie sind in Österreich, Herr Falk. Dort hat Sie niemand hingeschickt, und niemand holt Sie heraus.
+> 아무도 어디에 쓰려는 거냐고 묻지 않게 드릴 수 있는 딱 그만큼입니다. 거긴 오스트리아예요, 팔크 씨. 거기엔 아무도 당신을 보내지 않았고, 아무도 당신을 꺼내 주지 않습니다.
+FALK: Das war in Vilnius auch so, und in Paris. Ich melde mich heute Abend.
+> 빌뉴스에서도 그랬고 파리에서도 그랬습니다. 저녁에 연락드리죠.
+LEHNERT: Melden Sie sich vorher, falls er Ihnen etwas anbietet. Und nehmen Sie nichts an, was Sie nicht selbst lesen können.
+> 그 사람이 뭘 제안하면 그 전에 연락하세요. 그리고 직접 읽을 수 없는 건 받지 마세요.
+
+== 장면 1 — CAFÉ MOZART
+OBER: Grüß Gott, der Herr. Eine Melange? Oder lieber einen Verlängerten, wenn der Herr aus Deutschland kommt und eigentlich einen Filterkaffee möchte?
+> 어서 오십시오, 손님. 멜랑주 드릴까요? 아니면 독일에서 오셔서 사실 필터 커피를 원하시면 «페어렝어러», 물 탄 에스프레소로 드릴까요?
+FALK: Woran hören Sie, dass ich aus Deutschland komme?
+> 제가 독일에서 왔다는 걸 어떻게 아셨습니까?
+OBER: Der Herr hat beim Hereinkommen «Guten Morgen» gesagt. Das sagt bei uns nur, wer sich nicht auskennt. … Der Herr Magister ist schon da, hinten am Fenster, er hat für Sie einen Platz mit Blick auf die Albertina reserviert.
+> 들어오시면서 «구텐 모르겐»이라고 하셨잖습니까. 여기선 그렇게 말하는 건 이 동네를 모르는 분들뿐이죠. …마기스터 님은 벌써 와 계십니다. 안쪽 창가에요. 알베르티나가 보이는 자리를 잡아 두셨어요.
+HOLLERBACH: Herr Falk. Setzen Sie sich, bitte. Franz, für den Herrn eine Melange und für mich noch einen Einspänner, und dann lassen Sie uns ein bisserl in Ruhe.
+> 팔크 씨. 앉으시죠. 프란츠, 이분께 멜랑주 하나, 나한텐 아인슈페너 하나 더. 그리고 우리 좀 조용히 있게 해 줘요.
+OBER: Sehr wohl, Herr Magister.
+> 알겠습니다, 마기스터 님.
+FALK: «Herr Magister». In Berlin hätte man Sie einfach Herr Hollerbach genannt.
+> «마기스터 님»이라. 베를린이었으면 그냥 홀러바흐 씨라고 불렀을 텐데요.
+HOLLERBACH: In Berlin nennt man die Dinge beim Namen und wundert sich dann, dass niemand mehr mit einem redet. In Wien hat jeder einen Titel, damit man den Namen nicht so oft braucht. Wie war der Nachtzug?
+> 베를린에선 뭐든 이름 그대로 부르죠. 그러고는 아무도 자기랑 말을 안 한다고 놀라고요. 빈에선 누구나 직함이 있어요. 이름을 자주 쓸 필요가 없게요. 야간열차는 어땠습니까?
+FALK: Sie wissen, wie ich gekommen bin. Dann wissen Sie wahrscheinlich auch, in welchem Wagen ich geschlafen habe.
+> 제가 어떻게 왔는지 아시는군요. 그럼 몇 호차에서 잤는지도 아시겠네요.
+HOLLERBACH: Wagen dreihundertzwölf, Liegewagen, im Abteil mit einem Herrn aus Graz, der schnarcht. Er ist Zahnarzt und harmlos, ich habe ihn nicht bestellt. … Ich wollte Ihnen nur zeigen, wie wenig ein Mensch heute noch verbergen kann.
+> 312호차, 쿠셋 칸. 코 고는 그라츠 신사와 같은 칸. 그 사람은 치과 의사고 무해합니다. 제가 보낸 사람 아니에요. …그저 요즘 사람이 숨길 수 있는 게 얼마나 적은지 보여 드리고 싶었을 뿐입니다.
+FALK: Sie haben mich nicht nach Wien geholt, um mir zu zeigen, was Sie wissen. Sie haben mich geholt, weil Sie etwas brauchen.
+> 아는 걸 보여 주려고 저를 빈까지 부르신 건 아니겠죠. 뭔가 필요해서 부르신 겁니다.
+HOLLERBACH: Schauen Sie aus dem Fenster. Drüben im Sacher hatten nach dem Krieg die Briten ihr Hauptquartier, und vier Besatzungsmächte haben sich zehn Jahre lang in dieser Stadt gegenseitig abgehört. Wien ist seit 1945 der Ort, an dem man sich trifft, wenn man sich offiziell nicht treffen darf.
+> 창밖을 보세요. 저쪽 자허 호텔에 전쟁이 끝나고 영국군 본부가 있었습니다. 4대 점령국이 10년 동안 이 도시에서 서로 엿들었죠. 빈은 1945년부터 공식적으로는 만나면 안 되는 사람들이 만나는 곳이었어요.
+FALK: Und heute?
+> 지금은요?
+HOLLERBACH: Heute haben wir die Vereinten Nationen, die OSZE und die OPEC, also Tausende Diplomaten, und ein Strafgesetzbuch mit einem Paragrafen 256. Der bestraft Spionage nur, wenn sie sich gegen Österreich richtet. Gegen alle anderen dürfen Sie hier spionieren, solange Sie höflich bleiben.
+> 지금은 유엔, OSCE, OPEC이 있죠. 외교관이 수천 명이에요. 그리고 형법 256조가 있습니다. 오스트리아를 겨냥한 첩보만 처벌하는 조항이요. 다른 나라 상대로는 얼마든지 첩보 활동을 하셔도 됩니다. 예의만 지키시면요.
+FALK: Heute vor sechsundsechzig Jahren, am dritten Juni 1961, haben sich Kennedy und Chruschtschow hier getroffen. Kennedy hat danach gesagt, es sei das Schlimmste gewesen, was er je erlebt habe. Zwei Monate später stand in Berlin die Mauer.
+> 66년 전 오늘, 1961년 6월 3일에 케네디와 흐루쇼프가 여기서 만났죠. 케네디는 나중에 평생 겪은 일 중 최악이었다고 했습니다. 두 달 뒤 베를린에 장벽이 섰고요.
+HOLLERBACH: Sehen Sie, Sie kennen meine Stadt. Hier verlieren junge Männer gegen alte Männer, die mehr Geduld haben. … Ich brauche nichts, Herr Falk. Ich möchte Ihnen etwas ersparen.
+> 보세요, 제 도시를 아시는군요. 여기선 젊은 사람들이 인내심 많은 늙은이들한테 집니다. …전 필요한 거 없습니다, 팔크 씨. 당신한테 뭔가를 면하게 해 드리고 싶을 뿐이죠.
+FALK: Und was?
+> 뭘요?
+HOLLERBACH: Einen Artikel. Frau Kessler fragt in Limassol, in Zug und demnächst wohl auch in Kiel. Wenn mein Name in der «Berliner Depesche» steht, verliere ich Kunden, und Sie verlieren noch viel mehr.
+> 기사 하나요. 케슬러 씨가 리마솔, 추크에서 묻고 다니고, 곧 킬에서도 묻겠죠. 제 이름이 «베를리너 데페셰»에 실리면 전 고객을 잃고, 당신은 훨씬 더 많은 걸 잃습니다.
+FALK: Ich mache keine Zeitung, und ich habe Frau Kessler noch nie etwas verbieten können.
+> 전 신문을 만들지 않습니다. 그리고 케슬러 씨한테 뭘 막아 본 적도 없고요.
+HOLLERBACH: Aber sie hört Ihnen zu. Und sie hat seit Montag eine Quelle weniger. … Schauen Sie nicht so, der Dame in Nikosia geht es gut. Sie macht Urlaub in Paphos, in einem sehr schönen Hotel, und ihre Bank bezahlt ihn. Bei uns verschwindet niemand, man schickt die Leute nur auf Urlaub.
+> 그래도 케슬러 씨는 당신 말은 듣죠. 그리고 월요일부터 제보자가 하나 줄었고요. …그런 눈으로 보지 마세요. 니코시아의 그 부인은 잘 있습니다. 파포스의 아주 좋은 호텔에서 휴가 중이에요. 은행이 돈을 대고요. 우리 쪽에선 아무도 사라지지 않습니다. 사람들을 휴가 보낼 뿐이죠.
+FALK: Das ist eine Drohung, die wie ein Reiseprospekt klingt.
+> 여행 안내 책자처럼 들리는 협박이군요.
+HOLLERBACH: Das ist Wiener Schmäh, Herr Falk: Man sagt etwas Unfreundliches so, dass der andere sich dafür bedankt. … Und Ihr junger Freund im Archiv hat gestern Abend auf eine gewisse Mail geantwortet.
+> 그게 빈식 «슈메»입니다, 팔크 씨. 불쾌한 말을 상대가 고맙다고 할 만큼 듣기 좋게 하는 거죠. …그리고 문서보관소에 있는 당신 젊은 친구가 어젯밤 어떤 메일에 답장을 했더군요.
+FALK: … Woher wissen Sie das?
+> …그걸 어떻게 압니까?
+HOLLERBACH: Weil mir die Leute, die ihm geschrieben haben, nicht ganz fremd sind. Ich bin nicht Ihr Feind, Herr Falk. Ich bin der Einzige in dieser Geschichte, der Ihnen sagt, wo die Falltür ist.
+> 그 친구한테 메일을 쓴 사람들이 저한테 아주 낯선 사람들은 아니거든요. 전 당신 적이 아닙니다, 팔크 씨. 이 이야기에서 함정 문이 어디 있는지 말해 주는 사람은 저 하나뿐이에요.
+FALK: Dann sagen Sie es mir. Wohin sind die zweihunderttausend Euro gegangen?
+> 그럼 말해 보시죠. 20만 유로는 어디로 갔습니까?
+HOLLERBACH: Nicht hier. Im Kaffeehaus hören die Kellner mit, und Franz hat ein Gedächtnis wie ein Grundbuch. Kennen Sie das Riesenrad?
+> 여기선 안 됩니다. 카페에선 웨이터들이 다 듣거든요. 프란츠는 기억력이 토지 대장 같아요. 대관람차 아십니까?
+FALK: Ich kenne den Film.
+> 영화는 압니다.
+HOLLERBACH: Dann wissen Sie, dass man in einer Gondel ungestört ist, solange sie sich dreht. Um zwölf am Prater, ich habe eine Gondel für uns allein gemietet. Franz, zahlen, bitte!
+> 그럼 객차 안에선 그게 도는 동안은 아무도 방해 못 한다는 것도 아시겠네요. 열두 시에 프라터에서. 우리 둘만 탈 객차를 하나 빌려 놨습니다. 프란츠, 계산해 줘요!
+OBER: Sofort, Herr Magister. Die Melange vom Herrn geht aufs Haus, er hat sie ja kaum angerührt.
+> 바로 갑니다, 마기스터 님. 손님 멜랑주는 서비스로 하죠. 거의 손도 안 대셨으니까요.
+
+== 장면 2 — DAS RIESENRAD
+HOLLERBACH: Gebaut 1897 von einem englischen Ingenieur, zum fünfzigsten Thronjubiläum von Kaiser Franz Joseph. 1945 ist es ausgebrannt, und danach hat man nur noch jede zweite Gondel aufgehängt. Seitdem dreht es sich mit halber Besetzung, wie unsere Republik.
+> 1897년에 영국 기술자가 지었습니다. 프란츠 요제프 황제 즉위 50주년 기념으로요. 1945년에 불탔고, 그 뒤로는 객차를 하나 걸러 하나씩만 달았죠. 그때부터 절반만 채우고 돕니다. 우리 공화국처럼요.
+FALK: Und hier oben hat Harry Lime seinem Freund die Menschen dort unten gezeigt.
+> 그리고 여기 위에서 해리 라임이 친구한테 저 아래 사람들을 보여 줬죠.
+HOLLERBACH: «Würdest du wirklich Mitleid haben, wenn einer dieser Punkte aufhören würde, sich zu bewegen? Für immer?» Und dann bietet er zwanzigtausend Pfund für jeden Punkt. Schauen Sie hinunter, Herr Falk. Von hier oben sieht jeder Mensch aus wie ein Kontostand.
+> «저 점들 중 하나가 영원히 움직이길 멈춘다면, 정말 불쌍한 마음이 들까?» 그러고는 점 하나당 2만 파운드를 주겠다고 하죠. 내려다보세요, 팔크 씨. 여기서 보면 사람이 다 계좌 잔고처럼 보입니다.
+FALK: Lime hat verdünntes Penicillin verkauft, und in den Krankenhäusern sind Kinder daran gestorben. Für mich sind das keine Punkte.
+> 라임은 묽게 탄 페니실린을 팔았고, 병원에서 아이들이 그걸로 죽었습니다. 저한텐 그게 점이 아니에요.
+HOLLERBACH: Deshalb sind Sie Diplomat geworden und ich Berater. Sie wollten wissen, wohin das Geld ging. Fangen wir in Kiel an, am dreizehnten November, am Wasser hinter dem Hotel.
+> 그래서 당신은 외교관이 되고 전 컨설턴트가 된 거죠. 돈이 어디로 갔는지 알고 싶다고 하셨죠. 킬에서 시작하죠. 11월 13일, 호텔 뒤 물가에서.
+FALK: Nach dem Abendessen ist Greve mit zwei Gästen ans Wasser gegangen. So viel habe ich gehört, aber nicht, mit wem.
+> 만찬이 끝나고 그레베가 손님 둘을 데리고 물가로 갔다. 거기까진 들었는데, 누구였는지는 못 들었습니다.
+HOLLERBACH: Einer davon war ich. Ich sollte erklären, wie man Geld so bewegt, dass es unterwegs seinen Namen verliert. Greve wollte Ruhe kaufen: Ruhe um Lubmin, Ruhe in Berlin, Ruhe in der Ostsee.
+> 그중 하나가 저였습니다. 돈이 가는 길에 자기 이름을 잃어버리도록 옮기는 법을 설명하는 게 제 일이었죠. 그레베는 평온을 사고 싶어 했어요. 루브민의 평온, 베를린의 평온, 발트해의 평온.
+FALK: Und der zweite Gast?
+> 두 번째 손님은요?
+HOLLERBACH: Ein Herr aus dem Rheinland, Mitte sechzig, sehr gute Schuhe, ein kleiner silberner Vogel am Revers. Er sagt «die Firma», wenn er seine Auftraggeber meint. Das hat er sich angewöhnt, als die Firma noch in der Normannenstraße saß und er in Bonn.
+> 라인 지방에서 온 신사요. 60대 중반, 아주 좋은 구두, 옷깃엔 작은 은색 새. 자기 고용주를 말할 땐 «회사»라고 합니다. 그 회사가 아직 노르만넨 거리에 있고 그 사람은 본에 있던 시절에 든 버릇이죠.
+FALK: Normannenstraße, die Zentrale der Staatssicherheit. Wollen Sie mir sagen, dass dieser Mann vor 1989 in Bonn für Ost-Berlin gearbeitet hat?
+> 노르만넨 거리, 국가보안부 본부. 그 사람이 1989년 전에 본에서 동베를린을 위해 일했다는 말씀입니까?
+HOLLERBACH: Ich sage Ihnen, wie er spricht, nicht, was er getan hat. Er hat mir übrigens die Nummer Ihres alten Telefons gegeben, und er schreibt seine Briefe noch immer auf einer Olympia, bei der das «g» springt.
+> 전 그 사람이 어떻게 말하는지를 말씀드리는 거지, 뭘 했는지를 말하는 게 아닙니다. 참고로 당신 낡은 전화 번호를 준 게 그 사람이에요. 그리고 아직도 «g»가 튀는 올림피아 타자기로 편지를 쓰죠.
+FALK: Sein Name.
+> 그 사람 이름.
+HOLLERBACH: Den bekommen Sie, wenn ich etwas bekomme. In Wien nennt man das nicht Erpressung, Herr Falk, sondern Packelei. Man packelt sich etwas aus, unter Freunden.
+> 그건 제가 뭘 받으면 드리죠. 빈에선 이걸 협박이라고 하지 않습니다, 팔크 씨. «파켈라이»라고 하죠. 친구끼리 뒷방에서 맞춰 보는 거예요.
+FALK: Dann erzählen Sie mir den Rest als Anzahlung. Zweihundertvierzigtausend gehen von Greve Trading über Limassol nach Zug, vierzigtausend landen beim Forum Ostsee. Wo ist der Rest?
+> 그럼 나머지는 계약금으로 말씀해 주시죠. 24만 유로가 그레베 트레이딩에서 리마솔을 거쳐 추크로 가고, 4만 유로는 포럼 오스트제에 떨어집니다. 나머지는 어디 있습니까?
+HOLLERBACH: Am vierzehnten Dezember hat die Stiftung Aurora dem Forum Ostsee einen Brief geschrieben, eine Seite, unterschrieben von Doktor Iten und von mir. Sie kennen ihn als Blatt siebenunddreißig.
+> 12월 14일에 아우로라 재단이 포럼 오스트제에 편지를 썼습니다. 한 쪽짜리, 이텐 박사와 제가 서명했죠. 당신은 그걸 37번 쪽으로 아시죠.
+FALK: Das Blatt, das seit dem vierten Mai fehlt.
+> 5월 4일부터 없어진 그 쪽.
+HOLLERBACH: Darin steht, dass die übrigen zweihunderttausend Euro «wie in Kiel besprochen» in eine Studie zur Sicherheit der Transitwege in der Ostsee fließen. Auftragnehmer: Donau Risk Advisory GmbH, Wien, dritter Bezirk.
+> 거기 적혀 있습니다. 나머지 20만 유로는 «킬에서 논의한 대로» 발트해 통과 운송로 안전에 관한 연구에 쓰인다. 수급자는 도나우 리스크 어드바이저리 유한회사, 빈 3구.
+FALK: Eine Studie. Hat sie je jemand gelesen?
+> 연구라. 누가 그걸 읽어 보기라도 했습니까?
+HOLLERBACH: Es gibt sie, hundertzwölf Seiten, aus öffentlichen Quellen abgeschrieben, ein Student hat sie in drei Wochen getippt. Das Geld hat nicht die Studie bezahlt, Herr Falk. Die Studie hat das Geld erklärt.
+> 있긴 합니다. 112쪽, 공개 자료를 베낀 거예요. 대학생 하나가 3주 만에 쳤죠. 돈이 연구비로 나간 게 아닙니다, 팔크 씨. 연구가 돈을 설명해 준 거죠.
+FALK: Und warum lag dieser Brief überhaupt in einer Akte des Auswärtigen Amts?
+> 그런데 그 편지가 애초에 왜 외무부 서류철에 들어 있었던 겁니까?
+HOLLERBACH: Weil in Greifswald ein ordentlicher Schatzmeister sitzt, der jeden Beleg abheftet und nach Berlin schickt, weil das Amt Zuschüsse zahlt. Ein Deutscher eben. Er hat alles richtig gemacht, und genau das war der Fehler.
+> 그라이프스발트에 아주 꼼꼼한 회계 담당이 있거든요. 외무부가 보조금을 주니까 증빙을 하나도 빠짐없이 철해서 베를린에 보낸 거죠. 독일 사람이니까요. 모든 걸 제대로 했고, 바로 그게 실수였죠.
+FALK: Und im Mai hat jemand im vierten Stock den Fehler korrigiert. Wer wusste dort, was Donau Risk ist?
+> 그리고 5월에 4층의 누군가가 그 실수를 바로잡았군요. 거기서 도나우 리스크가 뭔지 아는 사람이 누구였습니까?
+HOLLERBACH: Das fragen Sie den vierten Stock. Ich weiß nur, dass Frau Winter in Kiel nicht am Tisch saß. Dafür war der grüne Strich ja da.
+> 그건 4층에 물어보세요. 제가 아는 건 킬에서 빈터 차관이 그 테이블에 없었다는 것뿐입니다. 그러라고 초록 줄이 있었던 거죠.
+FALK: Sie wissen auch von dem grünen Strich.
+> 초록 줄도 아시는군요.
+HOLLERBACH: Ich weiß, was Ihr junger Freund Frau Kessler erzählt hat, und Frau Kessler telefoniert gern auf dem Balkon. … Wir sind gleich ganz oben. Wissen Sie, warum Harry Lime hier oben von der Schweiz spricht?
+> 당신 젊은 친구가 케슬러 씨한테 한 얘기는 압니다. 케슬러 씨는 발코니에서 통화하는 걸 좋아하고요. …곧 꼭대기예요. 해리 라임이 여기서 왜 스위스 얘기를 하는지 아십니까?
+FALK: Dreißig Jahre Borgia, Krieg, Terror und Mord, und heraus kamen Michelangelo und die Renaissance. Fünfhundert Jahre Demokratie und Frieden in der Schweiz, und heraus kam die Kuckucksuhr.
+> 보르자 가문 아래 30년, 전쟁과 공포와 살인. 그런데 거기서 미켈란젤로와 르네상스가 나왔다. 스위스는 5백 년 민주주의와 평화. 그런데 나온 건 뻐꾸기시계.
+HOLLERBACH: Orson Welles hat den Satz selbst ins Drehbuch geschrieben, und er stimmt nicht einmal, die Kuckucksuhr kommt aus dem Schwarzwald. Aber die Schweizer haben inzwischen etwas Besseres erfunden: Stiftungen in Zug, bei denen niemand fragt, wer am Wasser stand.
+> 오슨 웰스가 그 대사를 직접 써 넣었죠. 맞는 말도 아니에요. 뻐꾸기시계는 슈바르츠발트에서 왔으니까. 그래도 스위스 사람들은 그사이 더 나은 걸 발명했죠. 누가 물가에 서 있었는지 아무도 묻지 않는 추크의 재단들.
+FALK: Sie haben mir erzählt, wohin das Geld gegangen ist. Nicht, wofür.
+> 돈이 어디로 갔는지는 말씀하셨죠. 무엇에 쓰였는지는 아니고요.
+HOLLERBACH: Für Beratung. Ich habe mein Leben lang nur Geschäftsleute beraten, Österreicher, Deutsche, ein paar Schweizer. Mit Russen habe ich nie Geschäfte gemacht, Herr Falk, das ist mir zu gefährlich.
+> 자문이요. 전 평생 사업가들만 자문했습니다. 오스트리아 사람, 독일 사람, 스위스 사람 몇. 러시아 사람하곤 거래한 적 없어요, 팔크 씨. 그건 너무 위험하거든요.
+FALK: Das ist der erste Satz heute, den ich Ihnen nicht glaube.
+> 오늘 들은 말 중에 처음으로 안 믿기는 말이네요.
+
+== 장면 3 — UNTER DER STADT
+HOLLERBACH: Hinter dieser Tür geht es hinunter in die Kanäle. Jeden Tag steigen hier Touristen mit Helmen hinab, um zu sehen, wo Harry Lime gestorben ist.
+> 이 문 뒤로 하수도로 내려갑니다. 날마다 관광객들이 헬멧 쓰고 여기로 내려가요. 해리 라임이 어디서 죽었는지 보려고요.
+FALK: Nach dem Riesenrad lassen Sie mich vier Stunden warten und bestellen mich dann an den Karlsplatz, vor einen Kanaleingang. Hatten Sie in der Zwischenzeit Besprechungen?
+> 대관람차 다음엔 네 시간을 기다리게 하시더니 카를스플라츠의 하수도 입구로 부르시는군요. 그사이에 회의라도 하셨습니까?
+HOLLERBACH: Ich habe telefoniert, mit Leuten, die wissen wollten, ob Sie allein gekommen sind. Sie sind allein gekommen. Das spricht für Sie.
+> 통화를 했죠. 당신이 혼자 왔는지 알고 싶어 하는 사람들하고요. 혼자 오셨더군요. 그건 당신한테 유리한 점입니다.
+FALK: Sind das dieselben Leute, mit denen Sie nie Geschäfte gemacht haben?
+> 그게 당신이 한 번도 거래한 적 없다는 그 사람들입니까?
+HOLLERBACH: Sie haben mir im Riesenrad nicht geglaubt. Warum nicht?
+> 대관람차에서 제 말을 안 믿으셨죠. 왜죠?
+FALK: Weil es in Berlin einen Vermerk von 2021 gibt: Mag. Stefan Hollerbach, zwei Mittagessen in Wien mit einem Mitarbeiter der russischen Handelsvertretung, der später ausgewiesen wurde. Mehr steht nicht drin, aber mehr braucht es auch nicht.
+> 베를린에 2021년 메모가 하나 있으니까요. 슈테판 홀러바흐 석사, 빈에서 러시아 무역대표부 직원과 점심 두 번. 그 직원은 나중에 추방됐고요. 적힌 건 그게 다지만, 그 이상은 필요도 없죠.
+HOLLERBACH: … Na geh. Zwei Mittagessen. In Wien isst man mit vielen Leuten zu Mittag, Herr Falk.
+> …아이고, 참. 점심 두 번이요. 빈에선 많은 사람들하고 점심을 먹습니다, 팔크 씨.
+FALK: Aber man lügt nicht über alle. Sie haben mich angelogen, Herr Hollerbach, und zwar über das Einzige, was ich wirklich wissen wollte. Für wen arbeitet Donau Risk?
+> 그래도 다 거짓말하진 않죠. 저한테 거짓말하셨어요, 홀러바흐 씨. 그것도 제가 정말 알고 싶었던 유일한 것에 대해서. 도나우 리스크는 누굴 위해 일합니까?
+HOLLERBACH: Donau Risk hat einen Geschäftsführer, der früher beim alten Staatsschutz war, bevor man den Laden 2021 aufgelöst hat. Und Kunden, die in Moskau in einem Gebäude ohne Schild sitzen.
+> 도나우 리스크에는 사장이 하나 있는데, 예전에 옛 국가보안청에 있었습니다. 2021년에 그 기관이 해체되기 전에요. 그리고 고객들은 모스크바에서 간판 없는 건물에 앉아 있고요.
+FALK: Ein ehemaliger Staatsschützer. Wie der Beamte, den man hier 2024 festgenommen hat, weil er für Marsalek Daten abgefragt haben soll.
+> 전직 국가보안 요원이라. 2024년에 여기서 체포된 그 공무원처럼요. 마르살레크를 위해 정보를 조회해 줬다는 혐의로.
+HOLLERBACH: Sie lesen österreichische Zeitungen, das ist selten bei Deutschen. Ja, so ungefähr. Marsalek ist davongeflogen, aber sein Adressbuch ist in Wien geblieben, und manche Leute darin arbeiten weiter.
+> 오스트리아 신문도 읽으시는군요. 독일 사람치곤 드문 일인데. 네, 대략 그런 식입니다. 마르살레크는 날아가 버렸지만 그 사람 주소록은 빈에 남았고, 거기 있는 몇몇은 아직도 일을 하죠.
+FALK: Und Sie stehen auch darin.
+> 그리고 당신도 거기 있군요.
+HOLLERBACH: Ich stehe in jedem Adressbuch dieser Stadt, das ist mein Beruf. … Wollen Sie jetzt wissen, wofür die zweihunderttausend wirklich ausgegeben wurden?
+> 전 이 도시 모든 주소록에 있습니다. 그게 제 직업이에요. …이제 그 20만 유로가 정말 어디에 쓰였는지 알고 싶으십니까?
+FALK: Deshalb bin ich hier.
+> 그래서 온 겁니다.
+HOLLERBACH: Im Jänner und im Februar hat Donau Risk zwei Rechnungen einer Schiffsagentur in Rostock bezahlt, zusammen hundertsechzigtausend Euro, «Hafendienstleistungen». Die Agentur gehörte einem Herrn Haller, der neuerdings nicht mehr in Deutschland wohnt.
+> 1월하고 2월에 도나우 리스크가 로스토크의 선박 대리점 청구서 두 건을 냈습니다. 합해서 16만 유로, «항만 서비스». 그 대리점은 할러라는 사람 거였죠. 최근엔 더 이상 독일에 살지 않는 사람이요.
+FALK: … Haller.
+> …할러.
+HOLLERBACH: Sie kennen den Namen. Sie werden blass, Herr Falk, das sieht man sogar bei diesem Licht.
+> 아는 이름이군요. 얼굴이 하얘지셨어요, 팔크 씨. 이 조명에서도 보일 정도로.
+FALK: Im Februar hat diese Agentur in Rostock ein Schiff abgefertigt, die «Akademik Sorin». Am ersten März lag dieses Schiff einunddreißig Minuten über unserem Kabel.
+> 2월에 그 대리점이 로스토크에서 배 한 척의 입항 수속을 했습니다. «아카데믹 소린». 3월 1일, 그 배가 우리 케이블 위에 31분 동안 떠 있었죠.
+HOLLERBACH: Das wusste ich nicht. Ich weiß nur, was auf Rechnungen steht, und auf einer Rechnung steht nie ein Kabel.
+> 그건 몰랐습니다. 전 청구서에 적힌 것만 압니다. 그리고 청구서엔 케이블이 적혀 있는 법이 없죠.
+FALK: Dann rechne ich es Ihnen vor: Greve bezahlt in Kiel «Beratung», das Geld geht über Limassol und Zug nach Wien und von Wien nach Rostock. Mehr sage ich nicht.
+> 그럼 제가 계산해 보이죠. 그레베가 킬에서 «자문»을 치르고, 그 돈이 리마솔과 추크를 거쳐 빈으로, 빈에서 로스토크로 갑니다. 그 이상은 말 안 하겠습니다.
+HOLLERBACH: Sie müssen auch nichts sagen. Herr Haller ist Ende April über eine Brücke bei Potsdam nach Hause gefahren, das weiß in meinen Kreisen jeder. Man hat ihn gegen einen Doktoranden mit Diabetes getauscht.
+> 말씀 안 하셔도 됩니다. 할러 씨는 4월 말에 포츠담 근처 다리를 건너 고향으로 갔죠. 제 바닥에선 다들 압니다. 당뇨 있는 박사 과정생 하나랑 맞바꿨다더군요.
+FALK: Weiß Greve, wofür sein Geld ausgegeben wurde?
+> 그레베는 자기 돈이 어디에 쓰였는지 압니까?
+HOLLERBACH: Herr Greve bezahlt Ergebnisse, keine Wege. Er wollte, dass Bernstein langsamer wird, und jemand hat ihm versprochen, dass die Ostsee unruhig wird. Ob er wissen wollte, wie, müssen Sie ihn selbst fragen.
+> 그레베 씨는 결과에 돈을 냅니다. 과정 말고요. 그는 베른슈타인이 늦어지길 바랐고, 누군가 발트해가 시끄러워질 거라고 약속했죠. 어떻게인지 알고 싶어 했는지는 직접 물어보세요.
+FALK: Und Sie haben das Geld bewegt, ohne zu fragen.
+> 그리고 당신은 묻지도 않고 돈을 옮겼고요.
+HOLLERBACH: Ich habe gefragt, im Jänner, als die erste Rechnung aus Rostock kam. Man hat mir geantwortet, ich hätte doch ein schönes Haus in Grinzing und eine Tochter, die in London studiert. Seitdem frage ich nicht mehr.
+> 물었습니다. 1월에, 로스토크에서 첫 청구서가 왔을 때. 그랬더니 저한테 그린칭에 좋은 집이 있고 런던에서 공부하는 딸도 있지 않느냐고 대답하더군요. 그 뒤로는 안 묻습니다.
+FALK: London. Wo man im März 2025 die Bulgaren verurteilt hat, die für Marsalek Journalisten ausgespäht haben.
+> 런던. 2025년 3월에 마르살레크를 위해 기자들을 감시한 불가리아인들이 유죄 평결을 받은 곳이죠.
+HOLLERBACH: Deshalb habe ich Sie geholt und nicht Ihren jungen Freund. Marsalek ist in ein Flugzeug gestiegen und hat die anderen zurückgelassen, die Bulgaren, die Beamten, die Berater. Ich will nicht der sein, der zurückbleibt, wenn wieder jemand fliegt.
+> 그래서 당신 젊은 친구가 아니라 당신을 부른 겁니다. 마르살레크는 비행기에 올라탔고, 다른 사람들은 남겨 두고 갔죠. 불가리아인들, 공무원들, 컨설턴트들. 누가 또 날아갈 때 남겨지는 사람이 되고 싶지 않습니다.
+FALK: Marsaleks Schatten. Sie leben seit sieben Jahren darin.
+> 마르살레크의 그림자. 7년째 그 안에서 사시는군요.
+HOLLERBACH: Ein Schatten ist ein angenehmer Ort, solange die Sonne scheint. Seit Haller über die Brücke gefahren ist, wird es in meinen Kreisen kühl, und kühle Leute räumen auf.
+> 해가 비치는 동안엔 그림자도 기분 좋은 자리죠. 할러가 다리를 건너간 뒤로 제 바닥이 서늘해졌습니다. 그리고 서늘한 사람들은 청소를 하죠.
+FALK: Dann reden wir heute Abend darüber, was Sie wollen. Und diesmal ohne Schmäh.
+> 그럼 오늘 저녁엔 당신이 원하는 걸 얘기하죠. 이번엔 슈메 없이.
+
+== 절정 — BEIM HEURIGEN
+HOLLERBACH: Ein Heuriger, Herr Falk. Wenn über der Tür ein Föhrenbuschen hängt, ist «ausg'steckt»: Der Winzer schenkt seinen eigenen Wein aus. Für Sie ein Achterl Grünen Veltliner, für mich einen Gspritzten, also Wein mit Soda. Ich muss heute noch denken.
+> 호이리거입니다, 팔크 씨. 문 위에 소나무 가지 다발이 걸려 있으면 «아우스게슈테크트», 포도 농가가 직접 만든 와인을 판다는 뜻이에요. 당신은 그뤼너 펠트리너 «아흐털», 8분의 1리터 한 잔. 전 «게슈프리츠터», 그러니까 소다 탄 와인으로 하죠. 오늘 아직 머리를 써야 하니까.
+FALK: Was wollen Sie, Herr Hollerbach?
+> 원하는 게 뭡니까, 홀러바흐 씨?
+HOLLERBACH: Drei Dinge. Erstens: Mein Name steht nicht in der «Berliner Depesche», bevor ich es erlaube. Zweitens: Jemand in Berlin, der mehr ist als ein suspendierter Beamter, behandelt mich als Zeugen und nicht als Beschuldigten. Drittens: Wenn ich eines Tages schnell aus Wien wegmuss, gibt es eine Tür, die aufgeht.
+> 세 가지요. 첫째, 제가 허락하기 전엔 제 이름이 «베를리너 데페셰»에 실리지 않는다. 둘째, 직무 정지된 공무원보다 높은 베를린의 누군가가 저를 피의자가 아니라 증인으로 대한다. 셋째, 언젠가 제가 빈을 급히 떠나야 하면 열리는 문이 하나 있다.
+FALK: Und was bekomme ich dafür?
+> 그 대가로 전 뭘 받습니까?
+HOLLERBACH: Mein Kassabuch, so sagt man bei uns zum Kassenbuch. Meines ist sehr altmodisch: jede Zahlung seit 2019, wer, wann, über wen, mit Bleistift, wie bei Ihrem jungen Freund. Kein Computer, keine Cloud, nur ein Heft in einem Safe, den außer mir niemand kennt.
+> 제 «카사부흐»요. 여기선 장부를 그렇게 부릅니다. 제 건 아주 구식이에요. 2019년 이후 모든 송금, 누가, 언제, 누구를 거쳐서. 연필로요. 당신 젊은 친구처럼. 컴퓨터도 클라우드도 없이, 저 말고는 아무도 모르는 금고 속 공책 한 권뿐이죠.
+FALK: Was steht darin außer Greve?
+> 그레베 말고 뭐가 있습니까?
+HOLLERBACH: Der Herr mit dem Vogel am Revers, mit Namen und Kontonummer. Donau Risk mit allen Rechnungen aus Rostock. Und eine Seite über einen russischen Diplomaten in Berlin, der eine Wohnung im neunzehnten Bezirk besitzt, die in keinem Lebenslauf steht.
+> 옷깃에 새를 단 신사, 이름과 계좌번호까지. 도나우 리스크와 로스토크 청구서 전부. 그리고 베를린의 러시아 외교관 한 사람에 관한 페이지. 어떤 이력서에도 안 나오는 빈 19구 아파트를 가진 사람이요.
+FALK: Welcher Diplomat?
+> 어떤 외교관이요?
+HOLLERBACH: Einer, der seine Wohnung bar bezahlt hat. Mehr bekommen Sie, wenn die Tür aufgeht.
+> 아파트값을 현금으로 낸 사람이요. 더는 문이 열리면 드리죠.
+FALK: Sie verlangen eine Tür, die ich nicht habe, und einen Zeugenstatus, den ich nicht vergeben kann. Ich bin suspendiert, Herr Hollerbach. Ich kann Ihnen im Amt nicht einmal einen Kaffee anbieten.
+> 제가 갖지도 않은 문을, 제가 줄 수도 없는 증인 지위를 요구하시는군요. 전 직무 정지 중입니다, 홀러바흐 씨. 외무부에서 커피 한 잔 대접할 수도 없어요.
+HOLLERBACH: Aber Sie telefonieren mit Leuten, die es können. Ich habe das Foto von der Bank an der Spree gesehen, Herr Falk, und ich bin nicht der Einzige. Ein suspendierter Beamter, der sich sonntags mit einem russischen Gesandten trifft, hat entweder einen Auftrag oder ein Problem.
+> 하지만 그걸 할 수 있는 사람들과 통화는 하시죠. 슈프레 강변 벤치 사진, 저도 봤습니다, 팔크 씨. 저만 본 것도 아니고요. 일요일에 러시아 공사참사관을 만나는 직무 정지 공무원은 임무가 있거나 문제가 있거나 둘 중 하나죠.
+FALK: Und wenn ich Nein sage?
+> 거절하면요?
+HOLLERBACH: Dann bekommt Frau Kessler nächste Woche einen anonymen Brief, dass ihre Quelle auf Zypern Geld genommen hat, und die Dame in Paphos wird es bestätigen, weil sie ihren Urlaub gern verlängern möchte. Und das Foto von der Bank landet in einer Redaktion, die weniger sorgfältig ist als die «Depesche».
+> 그럼 케슬러 씨는 다음 주에 익명 편지를 받겠죠. 키프로스 제보자가 돈을 받았다고. 파포스의 그 부인은 휴가를 연장하고 싶어서 그걸 확인해 줄 거고요. 그리고 벤치 사진은 «데페셰»보다 덜 꼼꼼한 편집국에 가 있을 겁니다.
+FALK: Sie drohen mir mit einer Lüge und einem Foto. Ich drohe Ihnen mit der Wahrheit.
+> 거짓말 하나랑 사진 한 장으로 저를 협박하시는군요. 전 진실로 협박하겠습니다.
+HOLLERBACH: Ich höre.
+> 들어 보죠.
+FALK: Heute Mittag hat ein Herr vom österreichischen Staatsschutz meinen Namen auf seine Liste gesetzt, weil ich ihn angerufen habe, bevor ich ins Riesenrad gestiegen bin. Wenn ich morgen früh nicht in Berlin bin, weiß er, mit wem ich hier war.
+> 오늘 낮에 오스트리아 국가보안청 사람이 제 이름을 자기 명단에 올렸습니다. 대관람차 타기 전에 제가 전화했거든요. 내일 아침까지 제가 베를린에 없으면, 그 사람은 제가 여기서 누구랑 있었는지 알게 됩니다.
+HOLLERBACH: Lügen Sie nicht, Herr Falk, es steht Ihnen nicht. In Wien erkennt man den Schmäh am Klang, und Ihrer klingt nach Berlin. Sie haben heute dreimal mit Ihrem eigenen Telefon telefoniert und einmal mit einem billigen zweiten aus dem Supermarkt. Einen Staatsschützer haben Sie nicht angerufen.
+> 거짓말 마세요, 팔크 씨. 안 어울립니다. 빈에선 슈메를 소리로 알아봐요. 당신 건 베를린 소리가 나고요. 오늘 당신은 자기 휴대폰으로 세 번, 마트에서 산 싸구려 두 번째 전화로 한 번 통화했습니다. 국가보안청엔 전화하지 않았어요.
+FALK: … Gut. Dann die Wahrheit ohne Schmäh. Frau Kessler hat Ihren Namen schon, aus dem Handelsregister in Zug, und sie wird ihn drucken, ob ich will oder nicht. Die Frage ist nur, ob Sie darin als Mann stehen, der Greves Geld nach Rostock geschoben hat, oder als Mann, der es gemeldet hat.
+> …좋습니다. 그럼 슈메 없는 진실로 가죠. 케슬러 씨는 이미 추크 상업 등기부에서 당신 이름을 알고 있고, 제가 원하든 말든 실을 겁니다. 문제는 그 기사에 당신이 그레베 돈을 로스토크로 밀어 준 사람으로 나오느냐, 그걸 신고한 사람으로 나오느냐뿐이에요.
+HOLLERBACH: Ein Unterschied, den in Moskau niemand liest.
+> 모스크바에선 아무도 읽지 않는 차이죠.
+FALK: In Moskau nicht. Aber in Karlsruhe, in London und hier bei Ihrem eigenen Staatsschutz. In Moskau liest man etwas anderes: dass Ihr Name in einer deutschen Zeitung steht. Ab diesem Tag sind Sie für die Leute im Gebäude ohne Schild kein Berater mehr, sondern ein Risiko, und Sie wissen besser als ich, was man mit Risiken macht.
+> 모스크바에선 안 읽죠. 하지만 카를스루에, 런던, 그리고 여기 당신네 국가보안청에선 읽습니다. 모스크바에선 다른 걸 읽을 거고요. 당신 이름이 독일 신문에 실렸다는 사실. 그날부터 당신은 간판 없는 건물 사람들한테 컨설턴트가 아니라 위험 요소입니다. 위험 요소를 어떻게 처리하는지는 저보다 잘 아시죠.
+HOLLERBACH: Man schickt sie auf Urlaub. … Sie sind härter, als Ihre Akte behauptet.
+> 휴가를 보내죠. …서류에 적힌 것보다 독하시네요.
+FALK: Ich habe seit März gelernt, mit Leuten zu reden, die Akten über mich haben. Geben Sie mir heute etwas, das ich selbst lesen kann, und ich bringe Ihren Namen zu jemandem, der Türen hat. Mehr verspreche ich nicht, weil ich mehr nicht halten kann.
+> 3월부터 저에 관한 서류를 가진 사람들과 얘기하는 법을 배웠거든요. 오늘 제가 직접 읽을 수 있는 걸 주세요. 그러면 당신 이름을 문을 가진 사람한테 가져가겠습니다. 그 이상은 약속 안 합니다. 그 이상은 지킬 수 없으니까요.
+HOLLERBACH: Ein Diplomat, der weniger verspricht, als er könnte. So einen hat Wien seit dem Kongress von 1815 nicht mehr gesehen, damals hat man getanzt und nebenbei Europa verteilt. … Hier, ein Kuvert.
+> 할 수 있는 것보다 적게 약속하는 외교관이라. 빈은 1815년 회의 이후로 그런 사람을 못 봤습니다. 그땐 춤추면서 곁다리로 유럽을 나눠 가졌죠. …여기, «쿠베르»요. 봉투 말입니다.
+FALK: Was ist darin?
+> 뭐가 들었습니까?
+HOLLERBACH: Eine Kopie von Blatt siebenunddreißig mit meiner Unterschrift und die beiden Überweisungen von Donau Risk nach Rostock. Das Kassabuch bleibt im Safe, bis die Tür aufgeht. Und, Herr Falk: Ich habe Ihnen gerade das Einzige gegeben, wofür man mich umbringen würde.
+> 37번 쪽 사본, 제 서명이 있는 거요. 그리고 도나우 리스크가 로스토크로 보낸 송금 두 건. 장부는 문이 열릴 때까지 금고에 있습니다. 그리고 팔크 씨, 방금 드린 건 사람들이 저를 죽이고도 남을 유일한 이유입니다.
+FALK: Dann sagen Sie mir noch eins, umsonst: Wer hat Jan die Mail geschrieben?
+> 그럼 하나만 더, 공짜로 말해 주세요. 얀한테 메일 쓴 게 누굽니까?
+HOLLERBACH: Dieselben, die Donau Risk bezahlen. Und Sie irren sich, wenn Sie glauben, es gehe um Greves Hafen. Man will den jungen Mann in Kaliningrad sehen, nicht in Wien. Passen Sie auf ihn auf.
+> 도나우 리스크에 돈을 대는 그 사람들이요. 그리고 그게 그레베의 항구 얘기라고 생각하시면 착각입니다. 그들은 그 젊은 친구를 빈이 아니라 칼리닌그라드에서 보고 싶어 해요. 그 친구 잘 지키세요.
+
+== 마무리 — DER UMWEG
+ELISABETH: Das ist dein vierter Anruf heute. Du klingst, als hättest du etwas in der Tasche, das du lieber nicht hättest.
+> 오늘 네 번째 전화네. 차라리 없었으면 하는 걸 주머니에 넣은 사람 목소리야.
+FALK: Ein Kuvert, wie man hier sagt. Eine Seite, die im vierten Stock verschwunden ist, und zwei Überweisungen nach Rostock. Greves Geld ist bei dem Mann gelandet, den wir im April über die Brücke zurückgeschickt haben.
+> «쿠베르». 여기선 봉투를 그렇게 불러. 4층에서 사라진 한 쪽이랑 로스토크로 간 송금 두 건. 그레베 돈이 4월에 우리가 다리 건너로 돌려보낸 그 남자한테 갔어.
+ELISABETH: Dann hat Greve den Anker bezahlt. … Und was hast du dafür versprochen?
+> 그럼 그레베가 그 닻 값을 낸 거네. …그 대가로 뭘 약속했어?
+FALK: Dass ich seinen Namen zu jemandem bringe, der Türen hat, nicht mehr. Zum ersten Mal seit Wochen habe ich genau so viel versprochen, wie ich halten kann.
+> 그 사람 이름을 문을 가진 누군가한테 가져가겠다고. 그게 다야. 몇 주 만에 처음으로 지킬 수 있는 만큼만 약속했어.
+ELISABETH: Und Jan?
+> 얀은?
+FALK: Er hat auf die Mail aus Kaliningrad geantwortet, sagt Hollerbach. Ich habe ihm vom Bahnsteig geschrieben: zwei blaue Haken, keine Antwort.
+> 칼리닌그라드 메일에 답장했대, 홀러바흐 말로는. 승강장에서 얀한테 메시지 보냈어. 읽긴 했는데 답이 없어.
+ELISABETH: Ich fahre morgen früh vor dem Dienst zu ihm nach Neukölln, mir macht er die Tür noch auf. … Leg auf, Konstantin, du hast einen zweiten Anruf, ich höre es klopfen.
+> 내일 아침 출근 전에 노이쾰른으로 얀한테 가 볼게. 나한텐 아직 문 열어 주니까. …끊어, 콘스탄틴. 다른 전화 들어온다. 신호음 들려.
+SEDOV: Guten Abend, Herr Falk. Sie stehen im Liegewagen am Fenster, nehme ich an, und Wien fährt rückwärts an Ihnen vorbei. Wie war das Riesenrad?
+> 안녕하십니까, 팔크 씨. 쿠셋 칸 창가에 서 계시겠군요. 빈이 뒤로 물러나고 있고요. 대관람차는 어땠습니까?
+FALK: Sie wissen, wo ich war. Dann wissen Sie auch, mit wem.
+> 제가 어디 있었는지 아시는군요. 그럼 누구랑 있었는지도 아시겠네요.
+SEDOV: Mit einem Mann, der mehr Kunden hat, als ihm guttut. Lassen wir ihn. Ich rufe an, weil Moskau heute geantwortet hat, nicht auf Kibartai, sondern auf eine Frage, die Sie nie gestellt haben: was es kostet, dass es an der Lücke von Suwałki ruhig bleibt.
+> 고객이 몸에 해로울 만큼 많은 사람하고요. 그 사람 얘긴 그만두죠. 제가 전화한 건 모스크바가 오늘 답을 줬기 때문입니다. 키바르타이가 아니라, 당신이 한 번도 묻지 않은 질문에요. 수바우키 회랑이 조용하려면 얼마가 드느냐.
+FALK: Und was kostet es?
+> 그래서 얼마랍니까?
+SEDOV: Zwei Jahre. Unsere Truppen gehen von der Grenze zurück, keine Übungen mehr am Dreiländereck, und Berlin stationiert zwei Jahre lang keinen einzigen Soldaten der Bernstein-Brigade in Litauen. Schriftlich, aber nicht öffentlich.
+> 2년입니다. 우리 병력은 국경에서 물러나고, 삼국 접경에서 더는 훈련도 없습니다. 그 대신 베를린은 2년 동안 베른슈타인 여단 병사를 한 명도 리투아니아에 배치하지 않는다. 문서로, 하지만 비공개로.
+FALK: Das ist kein Angebot, das ist ein Preis. Und ich bin nicht derjenige, der ihn bezahlen kann.
+> 그건 제안이 아니라 값이군요. 그리고 전 그 값을 치를 수 있는 사람이 아닙니다.
+SEDOV: Das weiß ich. Deshalb liegt der Text seit heute Nachmittag bei dem Mann, der sein Telefon nicht ausschaltet, während Sie im Riesenrad saßen. Er hat ihn gelesen, Herr Falk, und er hat nicht Nein gesagt.
+> 압니다. 그래서 그 문안은 오늘 오후, 당신이 대관람차에 앉아 있는 동안 이미 전화를 끄지 않는 그분한테 가 있습니다. 그분이 읽었어요, 팔크 씨. 그리고 «안 된다»고 하지 않더군요.
+FALK: … Hollerbach war gar nicht die Einladung. Er war der Umweg, damit Ihr Angebot in Berlin ankommt, während ich in Wien bin.
+> …홀러바흐는 초대가 아니었군요. 당신 제안이 베를린에 도착하는 동안 제가 빈에 있게 하려는 우회로였어요.
