@@ -1,0 +1,330 @@
+@part 3
+@ep 6
+@title Anna recherchiert
+@title_ko 안나의 취재
+@tagline 안나의 취재 · 니코시아에서 온 목소리, 사라진 37번 쪽, 활주로 위의 다툼
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 5월 30일 일요일 밤부터 6월 1일 화요일 밤까지, 베를린(프리드리히스하인, 폴크스파르크 프리드리히스하인, 크로이츠베르크 마르크트할레 노인, 템펠호퍼 펠트, 판코우)과 니코시아(전화)
+@cast ANNA | 탐사보도 기자 · «Berliner Depesche» (45)
+@cast JAN | 팔크의 전 보좌관 · 외무부 정치문서보관소 근무 (31)
+@cast ELENI | Anna의 니코시아 제보자 · 은행 준법감시 담당, 성은 밝히지 않음 (가상)
+@cast FALK | 외무부 유럽안보 특별대표, 직무 정지 중 (44)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast HOLLERBACH | Stefan Hollerbach · 빈의 금융 해결사 (가상)
+@note ※ 지난 화에서 팔크는 파리에서 Claire의 배신을 확인하고 프랑스와 아슬아슬한 휴전을 맺었습니다. 헤어지며 Claire는 «리마솔의 신탁 사무소가 두바이 회사의 청구서를 내고, 독일 고객들 일도 본다»고 흘렸습니다. 같은 일요일 밤, Jan은 팔크 몰래 Anna의 부엌에 앉아 있었습니다. Anna에게는 «리마솔 → 추크 재단, 송금 사유 ‹자문 킬, 11월›»이라는 송금 내역이 있었고, 팔크가 전화로 «리마솔»을 묻자 Jan은 «처음 듣는다»고 거짓말했습니다.
+@note ※ 호칭: 팔크와 Jan은 du를 씁니다(Jan은 친근한 존댓말, 팔크는 반말). 팔크와 Elisabeth도 du입니다. Anna는 팔크, Jan, Eleni와 모두 Sie를 쓰고(한국어는 존댓말), Hollerbach와 팔크도 Sie입니다.
+@note ※ 표현 초점: Treuhandkonto(신탁 계좌), Briefkastenfirma(페이퍼 컴퍼니), Verwendungsnachweis(사용 내역 증빙), Zuwendung(보조금), Stiftungsrat(재단 이사회), Kollektivunterschrift zu zweien(2인 공동 서명), Inhaltsverzeichnis(목차), Zwei-Quellen-Prinzip(두 출처 원칙), Strafanzeige stellen(형사 고발하다), Leerverkauf(공매도), unter der Gürtellinie(비열한, 선을 넘은). 접속법 I 간접화법: «Sie sagt, in Limassol lebe man von Treuhandkonten.» 접속법 II: «Das ist die Art Fehler, die Sie früher nicht gemacht hätten.»
+@history 와이어카드 사태 (2020) — 뮌헨 근교 아슈하임의 결제 서비스 기업 와이어카드는 2018년 9월 코메르츠방크를 밀어내고 독일 대표 주가지수 DAX에 들어간 «독일의 핀테크 챔피언»이었습니다. 영국 «파이낸셜 타임스»가 수년간 회계 부정 의혹을 보도했지만, 독일 금융감독청(BaFin)은 2019년 오히려 와이어카드 주식의 공매도를 금지하고 FT 기자들을 형사 고발했습니다. 2020년 6월 18일 회계법인 EY가 감사 의견을 거부하면서, 필리핀 은행의 신탁 계좌에 있다던 19억 유로가 사라진 사실이 드러났습니다. 회사는 6월 22일 그 돈이 아마 존재하지 않는다고 인정했고, 6월 25일 DAX 기업으로는 처음으로 파산을 신청했습니다. 사업의 상당 부분은 두바이, 싱가포르, 마닐라 등의 «제3자 파트너»를 거친다고 서류상으로만 존재했습니다.
+@history 얀 마르살레크와 러시아 — 와이어카드 최고운영책임자(COO)였던 오스트리아인 얀 마르살레크는 EY 발표 다음 날인 2020년 6월 19일 빈 근교 바트 푀슬라우 비행장에서 전세기를 타고 민스크로 떠났고, 그 뒤 러시아에 숨어 있는 것으로 추정됩니다. 그는 러시아 정보기관과 연결된 혐의로 국제 수배 중입니다. 2025년 3월 런던 중앙형사법원(올드 베일리)은 마르살레크의 지시를 받아 언론인 등을 감시한 혐의로 불가리아인 조직원들에게 유죄를 평결했고(주모자 등은 앞서 유죄를 인정), 같은 해 5월 중형이 선고되었습니다. 극 중 Hollerbach는 이 사건을 연상시키는 가상 인물입니다.
+@preview 3부 7화 — «Marsaleks Schatten»(마르살레크의 그림자) — 팔크는 Hollerbach의 초대를 받아 혼자 빈으로 간다. «스파이의 도시» 빈, 영화 «제3의 사나이»의 무대에서 해결사와 설득과 협박을 주고받는다. 사라진 20만 유로의 행방, 그리고 Greve와 러시아 정보기관을 잇는 고리가 모습을 드러낸다.
+
+== 도입 — NIE GEHÖRT
+JAN: Ich habe ihn angelogen, Frau Kessler. Und das Schlimmste ist, dass es mir so leichtgefallen ist.
+> 그 사람한테 거짓말했어요, 케슬러 씨. 제일 끔찍한 건, 그게 너무 쉬웠다는 거예요.
+ANNA: Beim zweiten Mal fällt es schwerer, beim dritten wieder leichter. … Er hat «Limassol» gesagt. Woher kennt er das Wort?
+> 두 번째엔 더 어렵고, 세 번째엔 다시 쉬워져요. …그 사람이 «리마솔»이라고 했죠. 그 단어를 어떻게 알까요?
+JAN: Aus Paris, sagt er. Mehr erzählt er nicht, er erzählt mir seit Mai überhaupt nichts mehr.
+> 파리에서 들었대요. 더는 말 안 해요. 5월부터는 아예 아무 말도 안 해요.
+ANNA: Dann sind Sie beide auf derselben Spur, nur von verschiedenen Enden. Er kommt von oben, Sie kommen aus dem Keller.
+> 그럼 두 분이 같은 길을 가고 있는 거네요. 끝만 서로 다를 뿐. 그 사람은 위에서, 당신은 지하실에서.
+JAN: Das Archiv ist kein Keller, es ist nur genauso kalt. Zeigen Sie mir die Überweisung noch einmal, ganz langsam.
+> 문서보관소는 지하실이 아니에요. 그만큼 춥기만 하죠. 송금 내역 다시 보여 주세요. 아주 천천히요.
+ANNA: Achtundzwanzigster November: zweihundertvierzigtausend Euro gehen auf das Kundenkonto eines Treuhandbüros in Limassol, «Eurymedon Fiduciary». Dritter Dezember: dieselbe Summe weiter an eine Stiftung in Zug, Verwendungszweck «Beratung Kiel, November».
+> 11월 28일, 24만 유로가 리마솔의 신탁 사무소 «에우리메돈 피듀셔리»의 고객 계좌로 들어가요. 12월 3일, 같은 금액이 추크의 한 재단으로 넘어가고요. 송금 사유는 «자문 킬, 11월».
+JAN: Und wer hat am achtundzwanzigsten eingezahlt?
+> 그럼 28일에 돈을 넣은 건 누구예요?
+ANNA: Das steht auf dem zweiten Blatt, und das habe ich noch nicht. Meine Quelle ruft morgen früh an, aus einem Büro ohne Fenster in Nikosia.
+> 그건 두 번째 장에 있는데, 아직 못 받았어요. 제 제보자가 내일 아침에 전화하기로 했어요. 니코시아의 창문 없는 사무실에서요.
+JAN: Warum hilft Ihnen jemand aus einer zyprischen Bank? Das macht doch keiner als Hobby.
+> 키프로스 은행 사람이 왜 당신을 돕는 거예요? 취미로 할 일은 아니잖아요.
+ANNA: Weil sie 2020 zugesehen hat, wie in Deutschland ein Dax-Konzern platzte, der jahrelang Geld auf Treuhandkonten vorgezeigt hatte, das es nie gab. Sie sagt, in Limassol lebe man von Treuhandkonten, und sie wolle nicht die Nächste sein, die nichts gesehen hat.
+> 2020년에 독일에서 DAX 기업 하나가 터지는 걸 지켜봤으니까요. 몇 년 동안 신탁 계좌에 있다고 내보이던 돈이 애초에 없었던 회사요. 리마솔은 신탁 계좌로 먹고산대요. 자기는 아무것도 못 봤다고 말하는 다음 사람이 되고 싶지 않대요.
+JAN: Wirecard. Eins Komma neun Milliarden Euro auf den Philippinen, die nur auf dem Papier existierten.
+> 와이어카드. 필리핀에 있다던 19억 유로. 서류에만 있던 돈이요.
+ANNA: Und ein Vorstand, der am Tag nach der Wahrheit in ein Privatflugzeug nach Minsk gestiegen ist. Ich war damals in München, Herr Ostrowski, und habe drei Wochen lang Leuten zugehört, die alle sagten, sie hätten es nicht wissen können.
+> 그리고 진실이 나온 다음 날 민스크행 전세기에 올라탄 임원 하나. 그때 저 뮌헨에 있었어요, 오스트로프스키 씨. 3주 동안 다들 알 수가 없었다고 말하는 사람들 얘기만 들었죠.
+JAN: Ich will nicht derjenige sein, der es nicht wissen konnte. Deshalb sitze ich hier.
+> 저는 알 수 없었다고 말하는 사람이 되기 싫어요. 그래서 여기 앉아 있는 거예요.
+ANNA: Dann sagen Sie mir jetzt den Namen mit der grünen Tinte.
+> 그럼 이제 초록 잉크로 지운 그 이름을 말해 주세요.
+JAN: Nein. Ich habe Ihnen gesagt, wann Sie ihn bekommen: wenn wir wissen, wer hinter der Stiftung in Zug steht.
+> 안 돼요. 언제 드릴지 말씀드렸잖아요. 추크 재단 뒤에 누가 있는지 알게 되면요.
+ANNA: Sie verhandeln wie Ihr Chef.
+> 꼭 당신 상사처럼 흥정하시네요.
+JAN: Er ist nicht mehr mein Chef. Er ist ein suspendierter Beamter, der mir rät, langweilige Akten zu lesen. … Morgen nach Dienstschluss bringe ich Ihnen, was im Ordner mit den Spendenquittungen steht, mit Bleistift abgeschrieben und nicht kopiert.
+> 이제 제 상사 아니에요. 지루한 서류나 읽으라고 충고하는 직무 정지된 공무원이죠. …내일 퇴근하고 기부 영수증 묶음에 있는 걸 가져올게요. 복사 말고 연필로 베껴서요.
+ANNA: Mit Bleistift. Sie sind wirklich Archivar geworden. Gehen Sie hinten raus, über den Hof, und drehen Sie sich diesmal nicht um.
+> 연필이라. 정말 문서보관 담당이 다 되셨네요. 뒷문으로, 마당 쪽으로 나가세요. 이번엔 뒤돌아보지 말고요.
+
+== 장면 1 — DIE STIMME AUS NIKOSIA
+ELENI: Frau Kessler? Ich habe zehn Minuten, dann beginnt unsere Frühbesprechung. Ich rufe vom Telefon meiner Schwester an.
+> 케슬러 씨? 10분 있어요. 그다음엔 아침 회의가 시작돼요. 언니 전화로 거는 거예요.
+ANNA: Zehn Minuten reichen, Eleni. Wer hat am achtundzwanzigsten November die zweihundertvierzigtausend auf das Konto von Eurymedon eingezahlt?
+> 10분이면 충분해요, 엘레니. 11월 28일에 에우리메돈 계좌로 24만 유로를 넣은 게 누구죠?
+ELENI: Eine Firma in Limassol, die Eurymedon selbst verwaltet: «Greve Trading (Cyprus) Limited». Das Geld kam von deren Konto bei einer anderen Bank, in einem einzigen Betrag, an einem Vormittag.
+> 에우리메돈이 직접 관리하는 리마솔 회사요. «그레베 트레이딩(키프로스) 리미티드». 그 회사의 다른 은행 계좌에서 왔어요. 한 번에, 오전 중에.
+ANNA: Greve. Sind Sie sicher, dass da nicht nur ein ähnlicher Name steht?
+> 그레베라고요. 비슷한 이름이 아니라는 거 확실해요?
+ELENI: Ich lese Namen für Geld, Frau Kessler, das ist mein Beruf. Greve Trading, eingetragen in Nikosia, Gesellschafterin ist eine Holding in Kiel. Und die Adresse ist dieselbe wie die von Eurymedon: dritter Stock, ein Bürohaus am Hafen.
+> 전 돈 받고 이름을 읽는 사람이에요, 케슬러 씨. 그게 제 일이죠. 그레베 트레이딩, 니코시아 등기, 지분 소유자는 킬의 지주회사예요. 주소도 에우리메돈이랑 같아요. 항구 옆 사무실 건물 3층.
+ANNA: Ein Briefkasten, der sich selbst Briefe schreibt.
+> 자기한테 편지를 쓰는 우편함이네요.
+ELENI: In Limassol haben manche Briefkästen sechzig Firmen. Eurymedon hat über dreihundert, und die meisten Kunden haben nie einen Fuß auf die Insel gesetzt.
+> 리마솔엔 회사 예순 개가 들어 있는 우편함도 있어요. 에우리메돈엔 3백 개가 넘고, 고객 대부분은 이 섬에 발도 디뎌 본 적 없죠.
+ANNA: Wofür zahlt Eurymedon sonst noch, außer für Zug?
+> 에우리메돈이 추크 말고 또 뭘 내 주죠?
+ELENI: Rechnungen für eine Handelsfirma in Dubai, jeden Monat: Schiffsversicherungen, Hafengebühren, einmal Ersatzteile für Navigationsgeräte. Ich weiß nicht, womit diese Firma handelt, aber sie bezahlt nie selbst.
+> 두바이의 한 무역 회사 청구서요. 매달이요. 선박 보험, 항만 사용료, 한 번은 항법 장비 부품도요. 그 회사가 뭘 거래하는지는 몰라요. 그런데 자기 돈으론 절대 안 내요.
+ANNA: Schiffe. Haben Sie Namen von Schiffen gesehen?
+> 배라. 배 이름 본 적 있어요?
+ELENI: Auf einer Rechnung vom Februar steht ein Tanker, die «Marisol». Sagt Ihnen das etwas?
+> 2월 청구서에 유조선 하나가 적혀 있어요. «마리솔». 아시는 이름이에요?
+ANNA: Der Name stand im März in Deutschland auf jeder Titelseite. Das Schiff, das angeblich unser Kabel in der Ostsee zerrissen hat.
+> 3월에 독일 모든 신문 1면에 났던 이름이에요. 발트해에서 우리 케이블을 끊었다던 그 배요.
+ELENI: Dann bezahlt ein Büro in Limassol die Hafengebühren für Ihr Kabelschiff und gleichzeitig eine Beratung in Kiel. Ich verstehe nicht viel von Politik, aber das ist kein Zufall, das ist ein Kundenstamm.
+> 그럼 리마솔의 사무소 하나가 당신네 케이블 배 항만료도 내고, 동시에 킬의 자문료도 낸 거네요. 전 정치는 잘 몰라요. 그래도 이건 우연이 아니라 단골 고객 명단이에요.
+ANNA: Sie haben gesagt, Eurymedon habe schon einmal Ärger gehabt.
+> 에우리메돈이 전에도 한 번 문제가 있었다고 하셨죠.
+ELENI: 2019. Damals hat Eurymedon zwei Firmen verwaltet, die für einen Partner von Wirecard in Dubai Kartenzahlungen abgerechnet haben, Umsätze in Millionenhöhe, die später niemand mehr finden konnte. Nach der Insolvenz im Juni 2020 kamen Fragen aus München, und dann wurde es still.
+> 2019년이요. 그때 에우리메돈은 두바이에 있던 와이어카드 파트너사 대신 카드 결제를 정산하던 회사 두 곳을 관리했어요. 매출이 수백만 단위였는데 나중엔 아무도 못 찾았죠. 2020년 6월 파산 뒤에 뮌헨에서 문의가 왔고, 그러고는 조용해졌어요.
+ANNA: Wer war damals der Ansprechpartner für diese Firmen?
+> 그때 그 회사들 담당자는 누구였어요?
+ELENI: Ein Herr aus Wien. Seinen Namen habe ich nie gesehen, nur die Vorwahl auf den Faxen: plus dreiundvierzig, eins. Die Kollegen nannten ihn «den Doktor», obwohl er keiner war.
+> 빈에서 온 남자요. 이름은 한 번도 못 봤어요. 팩스에 찍힌 국번만 봤죠. 플러스 43, 1. 동료들은 그 사람을 «박사님»이라고 불렀어요. 박사도 아니었는데.
+ANNA: Wien. … Eleni, warum tun Sie das? Sie riskieren Ihre Stelle.
+> 빈이라. …엘레니, 왜 이러시는 거예요? 직장을 걸고 계신 거잖아요.
+ELENI: Weil ich 2020 die Bilanz von Wirecard gelesen und geglaubt habe, was darin stand. Ein Prüfer hatte jahrelang unterschrieben, und alle sagten: Das ist Deutschland, dort wird geprüft.
+> 2020년에 와이어카드 재무제표를 읽고 거기 적힌 걸 믿었으니까요. 회계 감사인이 몇 년이나 서명했고, 다들 그랬죠. 독일이잖아, 거긴 다 검사해.
+ANNA: Die «Financial Times» hat jahrelang geschrieben, dass etwas nicht stimmt. Und unsere Finanzaufsicht hat 2019 Leerverkäufe von Wirecard-Aktien verboten und gegen die Reporter Strafanzeige gestellt, nicht gegen die Firma.
+> «파이낸셜 타임스»는 몇 년 동안 뭔가 이상하다고 썼어요. 그런데 우리 금융감독청은 2019년에 와이어카드 주식 공매도를 금지하고, 회사가 아니라 기자들을 형사 고발했죠.
+ELENI: Genau das meine ich. Wer hinsieht, wird angezeigt, und wer wegsieht, wird befördert. Diesmal will ich auf der anderen Seite stehen.
+> 제 말이 바로 그거예요. 들여다보는 사람은 고발당하고, 눈 돌리는 사람은 승진하죠. 이번엔 반대편에 서고 싶어요.
+ANNA: Brauchen Sie Schutz? Ich kann Ihnen eine Anwältin in Berlin nennen, die Quellen vertritt.
+> 보호가 필요하세요? 제보자를 변호하는 베를린 변호사를 소개해 드릴 수 있어요.
+ELENI: Ich brauche keine Anwältin, ich brauche Zeit. Seit Freitag fragt unsere IT, wer im Mai Kontoauszüge von Eurymedon ausgedruckt hat. Ich habe sie nicht gedruckt, ich habe sie abfotografiert.
+> 변호사는 필요 없어요. 시간이 필요하죠. 금요일부터 우리 IT 부서가 5월에 에우리메돈 계좌 내역을 출력한 사람이 누구냐고 묻고 다녀요. 전 출력 안 했어요. 화면을 사진으로 찍었죠.
+ANNA: Dann löschen Sie die Fotos, sobald Sie sie mir geschickt haben. Und rufen Sie nicht mehr vom Telefon Ihrer Schwester an.
+> 그럼 저한테 보내자마자 사진은 지우세요. 그리고 더는 언니 전화로 걸지 마세요.
+ELENI: Das zweite Blatt kommt in einer Stunde. Danach, Frau Kessler, kennen wir uns nicht. … Da kommt jemand. Auf Wiederhören.
+> 두 번째 장은 한 시간 뒤에 갈 거예요. 그다음부터 우린 모르는 사이예요, 케슬러 씨. …누가 와요. 끊을게요.
+ANNA: Eleni? … Eleni.
+> 엘레니? …엘레니.
+
+== 장면 2 — BLATT 37
+JAN: Vierundzwanzig Seiten Spendenquittungen, Frau Kessler, und ich habe jede einzelne abgeschrieben. Meine rechte Hand riecht nach Bleistift.
+> 기부 영수증 스물네 쪽이에요, 케슬러 씨. 한 장도 빠짐없이 베꼈어요. 오른손에서 연필 냄새가 나요.
+ANNA: Warum liegen die Spendenquittungen eines Vereins aus Greifswald überhaupt im Archiv des Auswärtigen Amts?
+> 그라이프스발트 협회의 기부 영수증이 애초에 왜 외무부 문서보관소에 있는 거예요?
+JAN: Weil das Amt den «Ostseedialog» zwei Jahre lang mitfinanziert hat, mit Steuergeld. Wer eine Zuwendung bekommt, muss einen Verwendungsnachweis einreichen, und dazu gehört eine Liste aller anderen Geldgeber, mit Belegen.
+> 외무부가 2년 동안 «발트해 대화»에 돈을 같이 댔거든요. 세금으로요. 보조금을 받으면 사용 내역 증빙을 내야 하는데, 거기엔 다른 후원자 목록도 증빙 서류랑 같이 들어가야 해요.
+ANNA: Also hat das Forum Ostsee dem Auswärtigen Amt selbst geschickt, wer es sonst noch bezahlt. Wie freundlich.
+> 그러니까 포럼 오스트제가 자기한테 또 누가 돈 대는지 외무부에 직접 보냈다는 거네요. 친절하기도 해라.
+JAN: Wie vorschriftsmäßig. Hier, Blatt sechsunddreißig: «Aurora Stiftung für Energiedialog, Zug, Zuschuss Kieler Gespräch, vierzigtausend Euro, zwölfter Dezember 2026».
+> 규정대로 한 거죠. 여기, 36번 쪽이요. «아우로라 에너지 대화 재단, 추크, 킬 대담 지원금, 4만 유로, 2026년 12월 12일».
+ANNA: Aurora. Das ist meine Stiftung in Zug. Zweihundertvierzigtausend gehen hinein, und vierzigtausend kommen in Greifswald an.
+> 아우로라. 바로 그 추크 재단이에요. 24만 유로가 들어갔는데 그라이프스발트엔 4만 유로가 도착했네요.
+JAN: Und zweihunderttausend fehlen. Wie bei Wirecard, nur kleiner.
+> 그럼 20만 유로가 비어요. 와이어카드처럼요. 규모만 작을 뿐.
+ANNA: Bei Wirecard fehlte das Geld, weil es nie da war. Hier war es da, Herr Ostrowski, es ist nur woanders hingegangen. Was steht auf Blatt siebenunddreißig?
+> 와이어카드는 처음부터 없던 돈이라 비었던 거예요. 여긴 돈이 있었어요, 오스트로프스키 씨. 다른 데로 갔을 뿐이죠. 37번 쪽엔 뭐가 있어요?
+JAN: Nichts. Blatt siebenunddreißig gibt es nicht mehr.
+> 아무것도요. 37번 쪽은 이제 없어요.
+ANNA: Was soll das heißen?
+> 그게 무슨 소리예요?
+JAN: Jede Akte hat ein Inhaltsverzeichnis, und die Blätter sind durchnummeriert. Nach sechsunddreißig kommt achtunddreißig, aber im Verzeichnis steht für siebenunddreißig: «Schreiben Aurora Stiftung, Zug, vierzehnter Dezember 2026, eine Seite».
+> 모든 서류철엔 목차가 있고 쪽마다 번호가 매겨져 있어요. 그런데 36 다음이 38이에요. 목차엔 37번이 이렇게 적혀 있고요. «아우로라 재단 서한, 추크, 2026년 12월 14일, 1쪽».
+ANNA: Und wer hatte die Akte zuletzt?
+> 마지막으로 그 서류철을 가져간 사람은요?
+JAN: Der vierte Stock, am dritten Mai, für einen Tag. Am vierten kam sie zurück, eine Seite leichter, und niemand hat es bemerkt, weil im Zwischenarchiv keiner nachzählt.
+> 4층이요. 5월 3일에 하루. 4일에 돌아왔는데 한 장이 가벼워져 있었죠. 아무도 몰랐어요. 중간 보관소에선 아무도 다시 세지 않거든요.
+ANNA: Außer Ihnen.
+> 당신 빼고요.
+JAN: Ich zähle gern, das habe ich bei Konstantin gelernt. Früher habe ich seine Lügen gezählt. … Jetzt Sie: Wer sitzt im Stiftungsrat von Aurora?
+> 전 세는 걸 좋아해요. 콘스탄틴한테 배웠죠. 예전엔 그 사람 거짓말을 셌어요. …이제 당신 차례예요. 아우로라 재단 이사회엔 누가 있어요?
+ANNA: Das Schweizer Handelsregister ist öffentlich, man braucht nur eine Internetverbindung und Geduld. Präsident ist ein Anwalt aus Zug, Dr. Beat Iten, der sitzt in vierzig Stiftungsräten und kennt vermutlich keinen davon von innen.
+> 스위스 상업 등기부는 공개돼 있어요. 인터넷이랑 인내심만 있으면 돼요. 이사장은 추크의 변호사 베아트 이텐 박사예요. 이사회 마흔 군데에 이름을 올렸는데, 아마 한 군데도 속은 모를 거예요.
+JAN: Und das zweite Mitglied?
+> 그럼 두 번째 이사는요?
+ANNA: «Mag. Stefan Hollerbach, österreichischer Staatsangehöriger, in Wien, Kollektivunterschrift zu zweien.» Gegründet wurde die Stiftung im Herbst 2021, in derselben kleinen Stadt, in der auch die Nord Stream AG ihren Sitz hat.
+> «슈테판 홀러바흐 석사, 오스트리아 국적, 빈 거주, 2인 공동 서명권.» 재단은 2021년 가을에 세워졌어요. 노르트 스트림 주식회사 본사가 있는 바로 그 작은 도시에서요.
+JAN: Hollerbach. Sagt Ihnen der Name etwas?
+> 홀러바흐. 아는 이름이에요?
+ANNA: Seit heute Morgen ja. Meine Quelle in Nikosia sagt, 2019 habe ein Herr aus Wien die Wirecard-Firmen bei Eurymedon betreut. Und in unserem Archiv steht Hollerbach in einem Artikel von 2020: ein Berater, der Zahlungsdienstleister in Dubai vermittelt und in Wien mit Jan Marsalek zu Abend gegessen haben soll.
+> 오늘 아침부터는요. 니코시아 제보자 말로는 2019년에 빈에서 온 남자가 에우리메돈에서 와이어카드 쪽 회사들을 맡았대요. 그리고 우리 신문 자료실에 2020년 기사가 하나 있는데, 거기 홀러바흐가 나와요. 두바이 결제 대행업체를 연결해 주던 컨설턴트, 빈에서 얀 마르살레크와 저녁을 먹었다는 사람.
+JAN: Marsalek. Der Vorstand, der nach Minsk geflogen ist.
+> 마르살레크. 민스크로 날아간 그 임원이요.
+ANNA: Am neunzehnten Juni 2020, von einem kleinen Flugplatz bei Wien, Bad Vöslau, und von Minsk aus vermutlich weiter nach Russland. Im März 2025 hat ein Londoner Gericht eine bulgarische Gruppe verurteilt, die in seinem Auftrag für Russland Journalisten ausgespäht haben soll.
+> 2020년 6월 19일, 빈 근처 작은 비행장 바트 푀슬라우에서요. 민스크에서 아마 러시아로 넘어갔을 거고요. 2025년 3월엔 런던 법원이 불가리아인 조직에 유죄를 평결했어요. 그 사람 지시로 러시아를 위해 기자들을 감시했다는 혐의로요.
+JAN: Und Hollerbach?
+> 그럼 홀러바흐는요?
+ANNA: Wurde nie angeklagt. Er hat nach 2020 die Firmen gewechselt wie andere das Hemd. Und jetzt sitzt er im Stiftungsrat einer Stiftung, die Geld von Greve bekommt, «Beratung Kiel» abrechnet und zweihunderttausend Euro verschwinden lässt.
+> 한 번도 기소 안 됐어요. 2020년 이후엔 남들 셔츠 갈아입듯 회사를 갈아탔죠. 그리고 지금은 그레베한테 돈을 받아서 «자문 킬»로 처리하고 20만 유로를 증발시킨 재단의 이사로 앉아 있는 거예요.
+JAN: Von Greve? Das haben Sie mir noch nicht gesagt.
+> 그레베한테서요? 그 얘긴 안 하셨잖아요.
+ANNA: Ich sage es Ihnen jetzt, und damit habe ich meinen Teil bezahlt: Greve Trading auf Zypern, Hollerbach in Zug. Sie wissen jetzt, wer hinter der Stiftung steht, Herr Ostrowski. Der Name mit der grünen Tinte, bitte.
+> 지금 말씀드리는 거예요. 이걸로 제 몫은 치렀어요. 키프로스엔 그레베 트레이딩, 추크엔 홀러바흐. 이제 재단 뒤에 누가 있는지 아시잖아요, 오스트로프스키 씨. 초록 잉크 이름, 주세요.
+JAN: … Auf der Gästeliste für Kiel stand «Dr. H. Winter, Staatssekretärin». Jemand hat sie mit grüner Tinte durchgestrichen und darübergeschrieben: «Dr. Imhoff i. V.», mit einem W. daneben. Ich habe die Liste im Mai Konstantin gezeigt.
+> …킬 만찬 손님 명단에 «H. 빈터 박사, 사무차관»이 있었어요. 누가 초록 잉크로 줄을 긋고 위에 «임호프 박사, 대리»라고 썼죠. 옆엔 W. 하나. 5월에 그 명단을 콘스탄틴한테 보여 줬어요.
+ANNA: Winter streicht ihren eigenen Namen und schickt einen Vertreter. Zu einem Abendessen, für das drei Wochen später zweihundertvierzigtausend Euro «Beratung» bezahlt werden.
+> 빈터가 자기 이름을 지우고 대리인을 보냈다. 3주 뒤에 «자문» 명목으로 24만 유로가 오간 그 만찬에.
+JAN: Das ist kein Beweis. Das ist eine Gästeliste und eine fehlende Seite.
+> 그건 증거가 아니에요. 손님 명단 한 장이랑 사라진 쪽 하나일 뿐이죠.
+ANNA: Für eine Zeitung reicht es auch nicht, dafür brauche ich eine zweite Quelle. Und außer Ihnen gibt es nur einen, der diese Liste gesehen hat.
+> 신문에 싣기에도 부족해요. 두 번째 출처가 필요해요. 그리고 당신 말고 그 명단을 본 사람은 딱 한 명이죠.
+JAN: Fragen Sie ihn nicht, Frau Kessler. Wenn Sie ihn fragen, weiß er sofort, von wem Sie es haben.
+> 그 사람한테 묻지 마세요, 케슬러 씨. 물어보면 누구한테서 들었는지 바로 알아요.
+
+== 장면 3 — DIE ZWEITE QUELLE
+FALK: Sie haben mir um sechs Uhr früh geschrieben, Frau Kessler: «Unter drei, dringend, Markthalle Neun.» Die Händler bauen gerade erst ihre Stände auf.
+> 새벽 여섯 시에 문자를 보내셨죠, 케슬러 씨. «운터 드라이, 급함, 마르크트할레 노인.» 상인들이 이제 막 가판을 펴고 있네요.
+ANNA: Deshalb hört uns niemand zu außer dem Mann mit dem Käse, und der spricht nur Französisch. Wie war Paris?
+> 그래서 치즈 파는 아저씨 말고는 아무도 안 들어요. 그 사람은 프랑스어밖에 못 하고요. 파리는 어땠어요?
+FALK: Lehrreich. Woher wissen Sie, dass ich in Paris war?
+> 배울 게 많았습니다. 제가 파리에 간 건 어떻게 아셨습니까?
+ANNA: Ich wusste es nicht, ich habe geraten, und Sie haben es mir gerade bestätigt. Das ist die Art Fehler, die Sie früher nicht gemacht hätten.
+> 몰랐어요. 찍었는데 방금 확인해 주셨네요. 예전 같으면 안 하셨을 실수예요.
+FALK: Früher habe ich auch mehr geschlafen. Was ist so dringend?
+> 예전엔 잠도 더 잤죠. 뭐가 그렇게 급합니까?
+ANNA: Eine Gästeliste: Kieler Gespräch des Forum Ostsee, dreizehnter November 2026, Abendessen bezahlt von Greve Energie. Frau Winter stand darauf, und jemand hat ihren Namen mit grüner Tinte gestrichen und durch Dr. Imhoff ersetzt. Ich brauche eine zweite Quelle, die das bestätigt.
+> 손님 명단 하나요. 포럼 오스트제의 킬 대담, 2026년 11월 13일, 만찬 비용은 그레베 에너지. 거기 빈터 차관 이름이 있었는데 누가 초록 잉크로 지우고 임호프 박사로 바꿨어요. 이걸 확인해 줄 두 번째 출처가 필요해요.
+FALK: … Und wer ist die erste?
+> …그럼 첫 번째 출처는 누굽니까?
+ANNA: Sie wissen genau, dass ich Ihnen das nicht sage. Schon gar nicht Ihnen.
+> 제가 그걸 말 안 할 거라는 거 잘 아시잖아요. 특히 당신한테는요.
+FALK: Dann sage ich es Ihnen. Er schreibt die Sieben mit einem Querstrich, wie man es in Krakau lernt, und genau so eine Sieben steht auf dem Zettel unter Ihrem Kaffeebecher: «Blatt siebenunddreißig».
+> 그럼 제가 말씀드리죠. 그 친구는 7에 가로줄을 긋습니다. 크라쿠프에서 배우는 식으로요. 그리고 딱 그런 7이 당신 커피 컵 밑 쪽지에 있네요. «37번 쪽».
+ANNA: … Sie sehen ziemlich viel für einen Mann, der nicht geschlafen hat. Ich bestätige nichts, Herr Falk.
+> …잠 못 잔 사람치고 꽤 많이 보시네요. 전 아무것도 확인 안 해요, 팔크 씨.
+FALK: Ich auch nicht. Dann sind wir quitt.
+> 저도 안 합니다. 그럼 비긴 거군요.
+ANNA: Nicht ganz. Sie haben ihn am Sonntag nach Limassol gefragt. Woher kennen Sie das Wort?
+> 꼭 그렇진 않죠. 일요일에 그 사람한테 리마솔을 물으셨잖아요. 그 단어는 어디서 아셨어요?
+FALK: Aus einem Gespräch, über das ich nicht reden kann. Und er hat «nie gehört» gesagt, mit einer Pause, die ich für Müdigkeit gehalten habe.
+> 말할 수 없는 대화에서요. 그리고 그 친구는 «처음 듣는다»고 했죠. 잠깐 뜸을 들였는데, 전 피곤해서 그런 줄 알았습니다.
+ANNA: Dann reden wir über das, was ich weiß. Dasselbe Büro in Limassol bezahlt im November mit Geld von Greve eine «Beratung» in Kiel und im Februar die Hafengebühren der «Marisol». Was wissen Sie über eine Handelsfirma in Dubai?
+> 그럼 제가 아는 얘기를 하죠. 리마솔의 같은 사무소가 11월엔 그레베 돈으로 킬의 «자문»을 치르고, 2월엔 «마리솔»의 항만료를 냈어요. 두바이의 무역 회사에 대해 뭘 아세요?
+FALK: Nichts, was ich Ihnen sagen dürfte.
+> 당신에게 말해도 되는 건 아무것도 모릅니다.
+ANNA: Eine sehr genaue Formulierung. Sie wissen also etwas, und jemand hat Ihnen verboten, es zu sagen.
+> 아주 정확한 표현이네요. 그러니까 뭔가 알고 계시고, 누가 말하지 말라고 했군요.
+FALK: Ich weiß, dass Sie jetzt Fragen stellen, die man in Limassol hört. Und wer dort fragt, wird nicht nur von Bankern gehört.
+> 제가 아는 건 당신이 지금 리마솔에서 다 들리는 질문을 하고 있다는 겁니다. 그리고 거기서 묻는 사람의 말은 은행원만 듣는 게 아니죠.
+ANNA: Meine Quelle antwortet seit gestern Mittag nicht mehr. Ihre letzte Nachricht war ein Foto, danach kam nichts.
+> 제 제보자가 어제 점심때부터 답이 없어요. 마지막 메시지가 사진 한 장이었고, 그 뒤론 아무것도요.
+FALK: Haben Sie jemanden, der in Nikosia nach ihr sehen kann?
+> 니코시아에서 그 사람을 살펴봐 줄 사람이 있습니까?
+ANNA: Einen Kollegen beim zyprischen Rundfunk. Er war heute früh in ihrer Bank, und am Schalter hieß es nur, sie habe sich krankgemeldet.
+> 키프로스 방송국에 동료가 하나 있어요. 오늘 아침에 그 은행에 가 봤는데, 창구에선 병가를 냈다는 말만 하더래요.
+FALK: Dann weiß man in Limassol, dass jemand fragt, und bald weiß man, wer. Was haben Sie vor?
+> 그럼 리마솔에선 누가 묻고 다니는지 알고, 곧 그게 누군지도 알게 되겠군요. 어떻게 하실 생각입니까?
+ANNA: Am Donnerstag schicke ich meine Fragen an Greve Energie und an Frau Winter, mit einer Frist bis Montag zwölf Uhr, wie es sich gehört.
+> 목요일에 그레베 에너지랑 빈터 차관한테 질의서를 보낼 거예요. 원칙대로 월요일 열두 시까지 답변 기한을 줘서요.
+FALK: Und Frau Winter ruft am Donnerstagnachmittag im Archiv an und fragt, wer seit Mai die Akte «Ostseedialog» liest. Auf der Ausleihkarte steht oben der vierte Stock, Frau Kessler, und darunter steht Jan.
+> 그러면 빈터 차관은 목요일 오후에 문서보관소에 전화해서 5월부터 «발트해 대화» 철을 읽는 사람이 누구냐고 묻겠죠. 대출 카드 맨 위엔 4층이 있고, 케슬러 씨, 그 밑엔 얀이 있습니다.
+ANNA: Sie wollen, dass ich warte. Wissen Sie, wer 2019 gewartet hat? Die deutsche Finanzaufsicht. Sie hat die Reporter angezeigt und Wirecard geschützt, weil ein deutscher Champion nicht lügen durfte, und ein Jahr später fehlten eins Komma neun Milliarden.
+> 기다리라는 거군요. 2019년에 누가 기다렸는지 아세요? 독일 금융감독청이요. 독일 챔피언은 거짓말하면 안 됐으니까 기자들은 고발하고 와이어카드는 감쌌죠. 그리고 1년 뒤에 19억 유로가 비었어요.
+FALK: Ich will nicht, dass Sie schweigen. Ich will, dass Sie mit einem Beweis kommen und nicht mit einer Gästeliste. Eine Liste macht Frau Winter verlegen, ein Kontoauszug macht sie angreifbar, und bis dahin ist Jan der Einzige, den man greifen kann.
+> 입을 다물라는 게 아닙니다. 손님 명단 말고 증거를 들고 오시라는 겁니다. 명단은 빈터 차관을 민망하게 할 뿐이지만, 계좌 내역은 그 사람을 무너뜨릴 수 있어요. 그리고 그때까지 붙잡을 수 있는 사람은 얀 하나뿐입니다.
+ANNA: Eine Woche. Bis nächsten Dienstag schicke ich keine Fragen. Dafür sagen Sie mir, was Sie herausfinden, über Dubai und über Hollerbach.
+> 일주일이요. 다음 주 화요일까지 질의서는 안 보낼게요. 그 대신 알아내시는 거 저한테 말해 주세요. 두바이랑 홀러바흐에 대해서.
+FALK: Wer ist Hollerbach?
+> 홀러바흐가 누굽니까?
+ANNA: Ein Mann in Wien, der 2020 mit Marsalek gegessen haben soll und heute im Stiftungsrat in Zug sitzt. … Reden Sie mit Jan, Herr Falk. Aber reden Sie diesmal mit ihm, nicht an ihm vorbei.
+> 2020년에 마르살레크와 밥을 먹었다는, 지금은 추크 재단 이사로 앉아 있는 빈의 남자요. …얀하고 얘기하세요, 팔크 씨. 그런데 이번엔 그 사람을 비켜 가지 말고 정말 그 사람하고 얘기하세요.
+
+== 절정 — TEMPELHOFER FELD
+JAN: Du hast mich aufs Tempelhofer Feld bestellt, weil man auf einer Startbahn jeden sieht, der zuhören will. Das hast du von Mira gelernt.
+> 템펠호퍼 펠트로 부르신 건 활주로 위에선 엿들으려는 사람이 다 보이기 때문이죠. 미라한테 배우신 거잖아요.
+FALK: Von Lehnert, aber das ist egal. Ich war heute Morgen in der Markthalle Neun, Jan. Unter Frau Kesslers Kaffeebecher lag ein Zettel mit deiner Handschrift.
+> 레너트한테 배웠어. 근데 그건 상관없고. 오늘 아침에 마르크트할레 노인에 갔었어, 얀. 케슬러 씨 커피 컵 밑에 네 글씨가 적힌 쪽지가 있더라.
+JAN: … Dann weißt du es.
+> …그럼 아시겠네요.
+FALK: Ich weiß, dass du mich am Sonntag angelogen hast. «Limassol? Nie gehört.» Während ihre Überweisung vor dir auf dem Tisch lag.
+> 네가 일요일에 나한테 거짓말했다는 건 알아. «리마솔요? 처음 들어요.» 그 사람 송금 내역을 눈앞에 두고서.
+JAN: Und du hast mich am zehnten Mai angelogen. «Ich habe keinen Auftrag. Von niemandem.» Ich habe drei Wochen gebraucht, um zu verstehen, dass dieser Satz nur stimmt, wenn man jedes Wort einzeln liest.
+> 그리고 콘스탄틴은 5월 10일에 저한테 거짓말했죠. «난 임무 같은 거 없어. 누구한테서도.» 그 문장이 단어 하나하나 따로 읽을 때만 맞는 말이라는 걸 깨닫는 데 3주 걸렸어요.
+FALK: Das ist nicht dasselbe.
+> 그건 같은 게 아니야.
+JAN: Nein. Ich habe einmal gelogen, um etwas herauszufinden. Du lügst seit Mai, damit ich nichts herausfinde.
+> 네, 아니죠. 전 뭔가를 알아내려고 한 번 거짓말했어요. 콘스탄틴은 제가 아무것도 못 알아내게 하려고 5월부터 계속 거짓말하고 있고요.
+FALK: Du hast einer Journalistin Abschriften aus einer Akte des Amts gegeben. Du warst schon einmal Beschuldigter, Jan, ein zweites Mal glaubt dir in Karlsruhe niemand.
+> 넌 기자한테 외무부 서류철 내용을 베껴 줬어. 넌 이미 한 번 피의자였어, 얀. 두 번째엔 카를스루에에서 아무도 네 말 안 믿어.
+JAN: Die Akte ist nicht eingestuft, das habe ich nachgesehen, bevor ich den ersten Bleistift gespitzt habe. Es sind Spendenquittungen eines Vereins, Konstantin, keine Raketenpläne.
+> 그 서류철은 기밀 등급이 아니에요. 연필 깎기 전에 확인했어요. 협회 기부 영수증이에요, 콘스탄틴. 미사일 설계도가 아니라.
+FALK: Und der Name auf der Gästeliste? Den hast du ihr auch gegeben.
+> 그럼 손님 명단에 있던 이름은? 그것도 줬잖아.
+JAN: Gegen einen anderen Namen: Stefan Hollerbach, Wien, Stiftungsrat in Zug, ein Mann aus dem Umfeld von Wirecard. Das war ein fairer Tausch.
+> 다른 이름이랑 바꿨어요. 슈테판 홀러바흐, 빈, 추크 재단 이사, 와이어카드 언저리에 있던 사람. 공정한 교환이었어요.
+FALK: Ein Tausch. Du redest schon wie Sedov.
+> 교환이라. 벌써 세도프처럼 말하네.
+JAN: Ich weiß nicht, wie Sedov redet, du weißt es. In der Kantine erzählt man sich, es gebe ein Foto von dir und einem Russen auf einer Bank an der Spree, und ich höre es in der Kantine statt von dir.
+> 세도프가 어떻게 말하는지 전 몰라요. 콘스탄틴은 알죠. 구내식당에선 콘스탄틴이 슈프레 강변 벤치에 러시아 사람이랑 앉아 있는 사진이 있다고들 해요. 그걸 전 콘스탄틴이 아니라 구내식당에서 들어요.
+FALK: Was man in der Kantine erzählt, ist nicht mein Problem.
+> 구내식당에서 떠드는 건 내 문제가 아니야.
+JAN: Es ist meins. Du warst da schon mit ihm verabredet und hast mich gebeten, langweilige Akten zu lesen. Ich bin nicht dein Sohn, Konstantin, den man mit Spielzeugautos vor der Wahrheit schützt, so wie dein Vater dich geschützt hat.
+> 제 문제예요. 그때 이미 그 사람이랑 약속이 돼 있었으면서 저한텐 지루한 서류나 읽으라고 했잖아요. 전 콘스탄틴 아들이 아니에요. 콘스탄틴 아버지가 그랬듯이 장난감 자동차로 진실을 가려 줘야 하는 아이가 아니라고요.
+FALK: … Das war unter der Gürtellinie.
+> …그건 선 넘은 거야.
+JAN: Ja. Entschuldige. Aber es stimmt trotzdem.
+> 네. 죄송해요. 그래도 사실이에요.
+FALK: Dann hör dir an, was außerdem stimmt. Am Abend des zehnten Mai hat mir jemand gesagt: «Eine Ausleihkarte hat zwei Seiten.» Am selben Tag, an dem du deinen Namen unter den vierten Stock geschrieben hast.
+> 그럼 또 뭐가 사실인지 들어 봐. 5월 10일 저녁에 누가 나한테 그러더라. «대출 카드엔 양면이 있다.» 네가 4층 밑에 네 이름을 쓴 바로 그날.
+JAN: Wer?
+> 누가요?
+FALK: Der Mann, mit dem ich auf der Bank saß.
+> 내가 벤치에 같이 앉아 있던 그 사람.
+JAN: Sedov weiß seit drei Wochen, dass ich diese Akte lese. … Und du hast es mir nicht gesagt.
+> 세도프가 3주 전부터 제가 그 서류철 읽는 걸 안다는 거네요. …그런데 그걸 저한테 말 안 했고요.
+FALK: Ich habe dir gesagt, du sollst langweilige Akten lesen. Das war die Warnung, die ich dir geben durfte.
+> 지루한 서류나 읽으라고 했잖아. 그게 내가 너한테 줄 수 있는 경고였어.
+JAN: Eine Warnung in Rätseln ist keine Warnung, Konstantin. Sie beruhigt nur den, der sie ausspricht.
+> 수수께끼로 한 경고는 경고가 아니에요, 콘스탄틴. 말한 사람 마음만 편하게 해 줄 뿐이죠.
+FALK: Ich habe einen Auftrag, Jan. Das habe ich dir am zehnten Mai verschwiegen, und es war eine Lüge, auch wenn jedes Wort für sich gestimmt hat. Von wem und worüber, darf ich dir nicht sagen, auch heute nicht.
+> 나 임무가 있어, 얀. 5월 10일에 그걸 숨겼고, 단어 하나하나는 맞았어도 그건 거짓말이었어. 누구한테서 받은 건지, 무슨 일인지는 말할 수 없어. 오늘도.
+JAN: … Danke. Das ist die erste ganze Antwort seit Mai. Sie ändert trotzdem nichts.
+> …고마워요. 5월 이후 처음 듣는 온전한 대답이에요. 그래도 달라지는 건 없어요.
+FALK: Sie ändert alles. Wenn Frau Kessler nächste Woche ihre Fragen an Winter schickt, ist dein Name der erste, den der vierte Stock auf der Karte liest. Hör auf, Jan, gib ihr nichts mehr.
+> 전부 달라져. 케슬러 씨가 다음 주에 빈터한테 질의서를 보내면, 4층이 카드에서 제일 먼저 읽는 이름이 너야. 그만둬, 얀. 더는 아무것도 주지 마.
+JAN: Du bist nicht mehr mein Vorgesetzter, Konstantin. Du bist suspendiert, ich bin Archivar, und Archivare lesen, was in den Akten steht. … Gestern kam übrigens eine Mail an meine private Adresse, von jemandem, der mir Unterlagen über Greves Geschäfte im Hafen von Kaliningrad anbietet.
+> 이제 제 상사 아니에요, 콘스탄틴. 콘스탄틴은 직무 정지 중이고 전 문서보관 담당이에요. 문서보관 담당은 서류에 적힌 걸 읽어요. …아, 그리고 어제 제 개인 메일로 누가 연락해 왔어요. 칼리닌그라드 항구에서 그레베가 하는 사업에 관한 자료를 주겠대요.
+FALK: Lösch sie, sofort. Und antworte niemandem, der dir etwas anbietet, wonach du nicht gefragt hast.
+> 지워, 당장. 그리고 묻지도 않은 걸 주겠다는 사람한텐 절대 답하지 마.
+JAN: Ich habe sie nicht gelöscht, ich habe sie ausgedruckt und abgeheftet, wie ein guter Archivar. … Früher habe ich deine Lügen gezählt, Konstantin. Heute fange ich nicht wieder damit an, ich höre nur auf, dich zu fragen.
+> 안 지웠어요. 출력해서 철해 뒀어요. 좋은 문서보관 담당답게. …예전엔 콘스탄틴 거짓말을 셌죠. 오늘 다시 세기 시작하진 않을게요. 그냥 더는 안 물어볼 거예요.
+FALK: Jan. … Jan!
+> 얀. …얀!
+
+== 마무리 — GRÜSS GOTT
+ELISABETH: Du riechst nach Wind und siehst aus, als hättest du verloren. Hat er dir zugehört?
+> 바람 냄새가 나고, 진 사람 얼굴이네. 얀이 당신 말 들었어?
+FALK: Er hat gesagt, ich behandle ihn wie mein Vater mich, mit Spielzeugautos statt mit der Wahrheit. Dann ist er auf sein Rad gestiegen und über die Startbahn davongefahren.
+> 내가 아버지가 나한테 했듯이 자기를 대한대. 진실 대신 장난감 자동차로. 그러고는 자전거 타고 활주로 위로 가 버렸어.
+ELISABETH: Hatte er recht?
+> 얀 말이 맞았어?
+FALK: Zur Hälfte. Die andere Hälfte darf ich ihm nicht erklären, weil Lehnert es verboten hat und weil Sedov weiß, wo Jan arbeitet.
+> 절반은. 나머지 절반은 설명해 줄 수가 없어. 레너트가 금지했고, 세도프가 얀이 어디서 일하는지 아니까.
+ELISABETH: Dann steht ihr vor derselben Wand, nur von zwei Seiten. Er ist dir treu, indem er dich hintergeht, und du bist ihm treu, indem du ihn belügst. In meinem Gericht würde ich beide Klagen abweisen.
+> 그럼 둘이 같은 벽 앞에 서 있는 거네. 양쪽에서. 얀은 당신 뒤통수를 치는 식으로 당신한테 충실하고, 당신은 얀을 속이는 식으로 얀한테 충실하고. 내 법정이었으면 두 소송 다 기각했을 거야.
+FALK: Und mir die Kosten auferlegt. … Hörst du das? Im Flur.
+> 그리고 비용은 나한테 물렸겠지. …저 소리 들려? 현관에서.
+ELISABETH: Das ist nicht dein Handy. Das ist das alte Telefon neben der Hutschublade.
+> 당신 휴대폰이 아닌데. 모자 서랍 옆에 있는 그 낡은 전화야.
+FALK: Es hat seit Wochen nicht mehr geklingelt. Auf ihm ist nur eine einzige Nummer gespeichert, und die gehört niemandem mehr.
+> 몇 주째 한 번도 안 울렸어. 저장된 번호도 딱 하나뿐이고, 그건 이제 아무 주인도 없는 번호야.
+ELISABETH: Dann geh ran, bevor es aufhört. Und stell es laut.
+> 그럼 끊기기 전에 받아. 그리고 스피커로 해.
+FALK: … Ja?
+> …네?
+HOLLERBACH: Grüß Gott, Herr Falk. Verzeihen Sie die späte Stunde, in Wien ist es genauso spät, aber bei uns haben die Kaffeehäuser länger offen. Mein Name ist Stefan Hollerbach.
+> 안녕하십니까, 팔크 씨. 늦은 시간에 죄송합니다. 빈도 똑같이 늦은 시간이지만, 여긴 카페가 더 늦게까지 열거든요. 슈테판 홀러바흐라고 합니다.
+FALK: Woher haben Sie diese Nummer?
+> 이 번호는 어디서 났습니까?
+HOLLERBACH: Von einem gemeinsamen Bekannten, der seine Briefe noch auf einer alten Schreibmaschine schreibt. Eine Frau Kessler erkundigt sich in Limassol und in Zug nach mir, und Ihr junger Freund schreibt im Archiv mit Bleistift ab, was ihn nichts angeht. Fragen sind in meiner Branche teuer, Herr Falk.
+> 아직도 낡은 타자기로 편지를 쓰는 우리 공통의 지인한테서요. 케슬러라는 분이 리마솔과 추크에서 제 얘기를 묻고 다니고, 당신의 젊은 친구는 문서보관소에서 자기와 상관없는 걸 연필로 베끼고 있더군요. 제 업계에선 질문이 비쌉니다, 팔크 씨.
+FALK: Was wollen Sie?
+> 원하는 게 뭡니까?
+HOLLERBACH: Dass Sie am Donnerstag nach Wien kommen, allein. Ich erzähle Ihnen, wohin die zweihunderttausend gegangen sind, bevor Frau Kessler es auf ihre Art herausfindet, und wer zuerst zu mir kommt, bekommt die Wahrheit statt der Rechnung.
+> 목요일에 빈으로 오십시오. 혼자서. 케슬러 씨가 자기 방식으로 알아내기 전에 그 20만 유로가 어디로 갔는지 말씀드리죠. 먼저 찾아오는 분은 청구서 대신 진실을 받습니다.
+FALK: Und wenn ich nicht komme?
+> 안 가면요?
+HOLLERBACH: Dann kommt vielleicht Ihr junger Freund. Er bekommt ja neuerdings Post von Leuten, die ihm Unterlagen anbieten. Gute Nacht, Herr Falk, und grüßen Sie Ihre Frau, sie hört ja mit.
+> 그럼 어쩌면 당신의 젊은 친구가 오겠죠. 요즘 자료를 주겠다는 사람들한테서 편지를 받는다면서요. 안녕히 주무십시오, 팔크 씨. 부인께도 안부 전해 주시고요. 같이 듣고 계시잖습니까.
