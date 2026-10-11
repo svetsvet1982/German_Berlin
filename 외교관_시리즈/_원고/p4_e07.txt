@@ -1,0 +1,330 @@
+@part 4
+@ep 7
+@title Greve fällt
+@title_ko 그레베의 몰락
+@tagline 그레베의 몰락 · 새벽 여섯 시의 기사, 빈에서 온 청구서, 그리고 탁자 위에서 녹음되는 협박
+@info 대사 150턴 · 난이도 B2–C1 · 배경: 2027년 6월 22일 화요일 새벽부터 밤까지, 판코우 팔크의 집 부엌, «Berliner Depesche» 편집국, 키르히슈트라세 행정법원 판사실, 슈프레 강변 클럽의 «벽난로 방»
+@cast FALK | 외무부 유럽안보 특별대표, 직무 정지 중 (44)
+@cast ELISABETH | 팔크의 아내 · 베를린 행정법원 판사 (42)
+@cast ANNA | Anna Kessler, 결혼 전 성 Lenz · «Berliner Depesche» 기자 (45)
+@cast LEHNERT | Dr. Martin Lehnert · 연방총리실장, 전화 (58)
+@cast GREVE | Thomas Greve · Greve Energie AG 회장 (63)
+@note ※ 지난 화: 6월 18일 팔크는 판코우 집 현관 연기 감지기 속 도청기를 역이용해 «연극»을 벌였고, Sedov는 모스크바에서 입지를 잃었습니다(대사관 출입 코드 정지, 외교관 여권 회수). 6월 21일 월요일에는 세 가지 기한이 몰려 있었습니다. Koch의 정식 보고(도청기는 헌법수호청이 떼어 감), 핀란드의 답(«페테르부르크의 서명이 있으면» 바알리마 국경을 한 시간 연다), 그리고 모스크바 검사관의 도착(그 뒤로 Sedov는 연락이 끊김). 같은 날 Elisabeth는 자기 재판부에 들어온 «Greve LNG Lubmin GmbH» 소송에서 6월 18일 낮에 이미 기피 사유를 신고했습니다. Anna는 Greve와 Winter에게 6월 21일 18시까지 답하라는 질의서를 보냈고, 기사는 6월 22일 화요일 새벽 여섯 시에 나갑니다.
+@note ※ 녹음의 법(형법 제201조): 다른 사람이 공개되지 않은 자리에서 한 말을 «권한 없이(unbefugt)» 녹음하면 최대 3년의 징역형까지 받을 수 있습니다. 1부 7화에서 Jan이 꽃병 뒤에 휴대폰을 숨겨 Greve를 몰래 녹음한 것은 바로 이 조항에 걸려, 뇌물 제안의 증거인데도 Jan을 고발하지 않고는 쓸 수 없었습니다. 이번 화에서 팔크는 녹음한다는 사실을 처음에, 그리고 협박 직전에 한 번 더 밝힙니다. 상대가 그 말을 듣고도 자리에 남아 계속 말하면 행동으로 동의(Einwilligung)한 것이 되어 녹음은 합법이고, 증거로 쓸 수 있습니다.
+@note ※ 호칭: 팔크와 Elisabeth, Anna는 du를 씁니다. Lehnert, Greve와는 Sie를 씁니다(한국어는 격식체). Anna와 Elisabeth는 서로 Sie를 씁니다. Greve는 1부 7화처럼 «Ich drohe nie, ich zähle nur auf.»(협박하지 않는다, 열거할 뿐이다)라는 말버릇을 씁니다.
+@note ※ 표현 초점: aufzeichnen / mitschneiden(녹음하다), Einwilligung(동의), unbefugt(권한 없이), notwehrähnliche Lage(정당방위에 가까운 상황), Leistungszeitraum(용역 기간), Zielperson(감시 대상자), Agententätigkeit zu Sabotagezwecken(사보타주 목적의 첩보 활동, 형법 87조), Dienstaufsichtsbeschwerde(직무 감독 진정), versuchte Nötigung(강요 미수), sein Amt ruhen lassen(직무를 정지하다), die Kreditlinie einfrieren(신용 한도를 동결하다), Pflege der Bonner Landschaft(본 정치권 관리). 접속법 I: «Frau Dr. Winter habe ihr Haus zu einem marktüblichen Preis verkauft.» 접속법 II: «Vielleicht hätte ein Anruf von ihm Jan schneller nach Hause gebracht.»
+@history 플릭 사건과 «본 정치권 관리» (Flick-Affäre, 1981–1987) — 플릭 그룹은 1975년 다임러-벤츠 지분을 팔고 얻은 막대한 수익에 대해 «국민경제적으로 장려할 만한 재투자»라며 세금 감면을 신청했고, 연방 경제부가 이를 승인했습니다. 1981년 장크트 아우구스틴의 세무 조사관들이 플릭 경리 담당자의 현금 장부를 찾아내면서, 플릭이 여러 해에 걸쳐 거의 모든 주요 정당에 약 2,500만 마르크를 건넨 사실이 드러났습니다. 플릭의 경영자 에버하르트 폰 브라우히치는 이런 돈을 «본 정치권 관리(Pflege der Bonner Landschaft)»라고 불렀습니다. 연방의회는 1983년부터 1986년까지 조사위원회를 열었고, 1984년 10월 라이너 바르첼 연방의회 의장이 플릭 쪽 돈을 받은 의혹으로 물러났습니다. 1987년 2월 본 지방법원은 두 전직 경제장관의 뇌물 수수 혐의를 무죄로 보고 탈세 방조로 벌금형을 선고했으며, 브라우히치에게는 탈세로 징역 2년에 집행유예와 벌금형을 선고했습니다. 대가 관계는 증명하지 못했지만 장부와 세금으로는 처벌할 수 있었던 것입니다.
+@history 정치 자금 사면 시도 (Parteispenden-Amnestie, 1984) — 1984년 5월 연립 정부는 정치 자금과 관련된 탈세를 사면하는 법안을 서둘러 추진했습니다. 플릭 사건 피의자들까지 빠져나갈 길이 될 수 있다는 비판이 쏟아졌고, 여당 내부, 특히 자민당 안에서도 반발이 거세지자 법안은 며칠 만에 철회되었습니다. 이미 1981년 말에도 비슷한 시도가 있었지만 같은 이유로 무산되었습니다. 극 중 Lehnert의 «이 건물에서 1984년을 되풀이하고 싶은 사람은 없다»는 말은 이 사건을 가리킵니다.
+@preview 4부 8화 — «Die Staatssekretärin, zum letzten Mal»(사무차관, 마지막으로) — 다음 날 아침 일곱 시, 외무부 4층. Greve가 무너진 뒤 Winter가 팔크를 부른다. 마지막 대결에서 Winter는 비스마르크를 들어 자신을 변호하고, 팔크는 «그 체제는 비스마르크가 떠난 뒤 무너졌다»고 받아친다. 라보에의 집, 초록 잉크, 그리고 «본에서 온 친구»의 이름이 탁자 위에 오른다.
+
+== 도입 — SECHS UHR, ONLINE
+ELISABETH: Fünf Uhr neunundfünfzig. Du starrst seit zehn Minuten auf dein Telefon, als würde es schneller gehen, wenn du hinsiehst.
+> 다섯 시 59분. 당신 십 분째 전화기만 노려보고 있어. 쳐다보면 시간이 빨리 가기라도 하는 것처럼.
+FALK: Und du sprichst in der Küche wieder in normaler Lautstärke. Daran muss ich mich erst gewöhnen.
+> 그리고 당신은 부엌에서 다시 보통 목소리로 말하네. 그거 적응부터 해야겠다.
+ELISABETH: Seit gestern elf Uhr hängt an unserer Flurdecke ein Rauchmelder, der nur noch Rauch meldet. Die Techniker vom Verfassungsschutz haben sogar die Schuhe ausgezogen.
+> 어제 열한 시부터 우리 현관 천장엔 연기만 감지하는 연기 감지기가 달려 있잖아. 헌법수호청 기술자들은 신발까지 벗고 들어왔어.
+FALK: Frau Koch hat um acht gemeldet, auf die Minute, mit Foto. … Sechs Uhr. Es ist online.
+> 코흐 씨가 여덟 시 정각에 보고했지. 사진까지 붙여서. …여섯 시. 올라왔다.
+ANNA: Konstantin, bist du wach? Dann lies mit. Überschrift: «Dasselbe Geld. Ein Haus in Laboe, eine Agentur in Rostock und ein Schiff namens ‹Akademik Sorin›.»
+> 콘스탄틴, 깨어 있어? 그럼 같이 읽어. 제목은 «같은 돈. 라보에의 집 한 채, 로스토크의 대리점 하나, 그리고 ‹아카데믹 소린›이라는 배.»
+FALK: Ich lese. Erster Absatz: Limassol, Eurymedon, 1,35 Millionen Kaufpreis für ein Haus mit lebenslangem Nießbrauch. Du nennst ihren Namen.
+> 읽고 있어. 첫 단락. 리마솔, 에우리메돈, 평생 사용권이 붙은 집에 매매 대금 135만. 그 사람 이름을 썼네.
+ANNA: Sie hatte bis gestern achtzehn Uhr Zeit. Um siebzehn Uhr achtundfünfzig kam ein Satz: Frau Dr. Winter habe ihr Haus «zu einem marktüblichen Preis» verkauft und äußere sich zu privaten Vereinbarungen nicht.
+> 어제 저녁 여섯 시까지 시간을 줬어. 다섯 시 58분에 한 문장이 왔어. 빈터 박사는 자기 집을 «시장 가격으로» 팔았고, 사적인 합의에 대해서는 말하지 않겠대.
+ELISABETH: Marktüblich. Für ein Haus, in dem sie bis an ihr Lebensende wohnen darf, zum doppelten Schätzwert.
+> 시장 가격이라. 죽을 때까지 살아도 되는 집을, 감정가의 두 배에 팔아 놓고.
+ANNA: Das steht im dritten Absatz, neben dem Grundbuchauszug. Greve hat nicht geantwortet, keine Zeile. Und der Herr aus Wien heißt bei mir nur «ein Wiener Vermögensberater», wie du mich gebeten hast.
+> 그건 세 번째 단락에 등기부 사본이랑 같이 있어. 그레베는 답이 없었어. 한 줄도. 그리고 빈의 그 양반은 당신이 부탁한 대로 «빈의 한 자산 관리인»으로만 썼어.
+FALK: Er wird es zu schätzen wissen, auf seine Art. Und Rostock?
+> 그 양반 나름대로 고마워하겠지. 로스토크는?
+ANNA: Vierter und fünfter Absatz. Hundertsechzigtausend für «Hafendienstleistungen» an eine Agentur, deren Inhaber seit April in Russland ist, und im Februar die Hafenmeldung für die «Akademik Sorin». Den Rest rechnen die Leser selbst aus.
+> 네 번째, 다섯 번째 단락. 4월부터 러시아에 가 있는 사람이 주인인 대리점에 «항만 서비스» 명목으로 16만, 그리고 2월에 «아카데믹 소린» 입항 신고. 나머지는 독자들이 알아서 계산하겠지.
+ELISABETH: Und wer liest um sechs Uhr früh schon Zeitung?
+> 근데 새벽 여섯 시에 누가 신문을 읽어?
+ANNA: Staatsanwälte, Aufsichtsräte und Banker, Frau Falk. Die stehen früher auf als Richterinnen.
+> 검사, 감사위원, 은행가들이요, 팔크 씨. 그분들은 판사님들보다 일찍 일어나거든요.
+ANNA: Ich muss in die Konferenz. Und, Konstantin: Heute ruft er an. Ein Mann, der nicht antwortet, ruft später an.
+> 나 회의 들어가야 해. 그리고 콘스탄틴, 오늘 그 사람 전화할 거야. 답을 안 하는 사람은 나중에 전화하거든.
+ELISABETH: Gestern war ein langer Montag, und du hast mir die Hälfte noch nicht erzählt. Helsinki?
+> 어제는 긴 월요일이었는데, 당신 아직 반도 얘기 안 했어. 헬싱키는?
+FALK: Ja zu einer Stunde an der Schranke in Vaalimaa, aber nur mit der Unterschrift aus Petersburg. Piotr wusste es vor mir, wie vereinbart. Und Sedov schweigt seit gestern Mittag: Sein Prüfer ist gelandet, sein Telefon ist aus.
+> 바알리마 차단기를 한 시간 열어 주겠대. 단, 페테르부르크의 서명이 있어야 한대. 약속대로 피오트르가 나보다 먼저 알았고. 그리고 세도프는 어제 정오부터 아무 말이 없어. 그 사람 검사관은 도착했고, 전화는 꺼져 있어.
+ELISABETH: Dann hängt Jans Stunde an einem Mann, der gerade selbst geprüft wird. Und heute hängt alles an Greve.
+> 그럼 얀의 그 한 시간은, 지금 자기가 검사받는 사람한테 달린 거네. 그리고 오늘은 다 그레베한테 달렸고.
+FALK: Anna sagt, ich soll ihn reden lassen, wenn er anruft. Diesmal will ich mitschneiden, was er sagt.
+> 안나는 그 사람이 전화하면 말하게 두래. 이번엔 그 사람이 하는 말을 녹음하고 싶어.
+ELISABETH: Diesmal? Im März lag ein Telefon hinter einer Vase, Konstantin, und am Ende war es ein Beweis, den niemand benutzen durfte, ohne Jan anzuzeigen.
+> 이번엔? 3월엔 꽃병 뒤에 전화기가 있었지, 콘스탄틴. 결국 얀을 고발하지 않고는 아무도 쓸 수 없는 증거가 됐고.
+FALK: Deshalb frage ich dich vorher und nicht hinterher. Erklär es mir mittags in deinem Zimmer, wie einem Referendar.
+> 그래서 하고 나서가 아니라 미리 묻는 거야. 점심때 당신 방에서 설명해 줘. 사법연수생한테 하듯이.
+
+== 장면 1 — DIE RECHNUNG
+ANNA: Komm rein und mach die Tür zu. Das hier kam um neun Uhr zwölf, von Eleni, aus Nikosia.
+> 들어와서 문 닫아. 이거 아홉 시 12분에 왔어. 엘레니한테서, 니코시아에서.
+FALK: Sie hat den Artikel gelesen?
+> 기사 읽었대?
+ANNA: Um sechs, mit dem ersten Kaffee. Dann ist sie an ihre Besteckschublade gegangen. Darunter klebte seit Mai ein USB-Stick mit den Anlagen zu den Überweisungen, die sie mir damals nicht mehr schicken konnte.
+> 여섯 시에, 첫 커피 마시면서 읽었대. 그러고는 수저 서랍으로 갔대. 그 밑에 5월부터 USB가 붙어 있었대. 그때 미처 못 보낸 송금 첨부 서류들이 든 거.
+FALK: Anlagen zu welcher Überweisung?
+> 어느 송금의 첨부 서류인데?
+ANNA: Neunter Februar, vom Treuhandkonto bei Eurymedon, sechsunddreißigtausend Euro an Donau Risk Advisory in Wien. Das ist die Rechnung dazu. Lies die Leistungsbeschreibung.
+> 2월 9일, 에우리메돈 신탁 계좌에서 빈의 도나우 리스크 어드바이저리로 3만 6천 유로. 이게 그 청구서야. 용역 내역 읽어 봐.
+FALK: «Medienbeobachtung Berlin, Zielperson A. K.: privates E-Mail-Konto, Mobiltelefon, Balkon Friedrichshain. Leistungszeitraum 1. Dezember 2026 bis 31. Januar 2027.» Rechnungsempfänger: Greve Trading (Cyprus) Ltd.
+> «베를린 언론 관찰, 대상자 A. K.: 개인 이메일 계정, 휴대전화, 프리드리히스하인 발코니. 용역 기간 2026년 12월 1일부터 2027년 1월 31일까지.» 청구 대상은 그레베 트레이딩(키프로스) 유한회사.
+ANNA: Zielperson A. K. Der Vorgang gegen meinen Vater hatte wenigstens einen Namen, «Kanzel». Ich bin billiger: zwei Buchstaben und ein Balkon.
+> 대상자 A. K. 우리 아버지 공작 사건은 그래도 «칸첼»이라는 이름이라도 있었는데. 난 더 싸구려네. 이니셜 두 글자에 발코니 하나.
+FALK: Der Balkon. In Wien hat Hollerbach gesagt, in Berlin telefoniere man offenbar gern auf Balkonen. Ich habe es für eine Bosheit gehalten.
+> 발코니라. 빈에서 홀러바흐가 그랬어. 베를린 사람들은 발코니에서 통화하길 좋아하는 모양이라고. 난 그냥 심술인 줄 알았지.
+ANNA: Und weißt du noch, Greves zweite Zeile im März? Jans Mail an mich, vierzehnter Januar, dreiundzwanzig Uhr zwölf, «Wie besprochen». Drei Monate habe ich gerätselt, woher er sie hatte.
+> 그리고 3월에 그레베가 읊은 둘째 줄 기억나? 얀이 나한테 보낸 메일, 1월 14일 밤 열한 시 12분, «얘기한 대로». 그 사람이 그걸 어디서 구했는지 석 달을 고민했어.
+FALK: Der vierzehnte Januar liegt im Leistungszeitraum. Er hat sie nicht erraten, er hat sie bezahlt.
+> 1월 14일이면 용역 기간 안이네. 짐작한 게 아니라 돈 주고 산 거야.
+ANNA: Und im Februar war mein Januar-Postfach leer, bevor der BND überhaupt hineingesehen hat. Jetzt weiß ich, wer vor ihm aufgeräumt hat.
+> 그리고 2월엔 BND가 들여다보기도 전에 내 1월 메일함이 비어 있었지. 이제 누가 먼저 와서 청소했는지 알겠어.
+FALK: Sind das die vierzigtausend, die in Greves Kette fehlen?
+> 이게 그레베 돈줄에서 빈다는 그 4만 유로야?
+ANNA: Nein. Andere Rechnung, anderer Weg: direkt von Greves Firma in Zypern, nicht über die Stiftung in Zug. Die vierzigtausend bleiben ein Loch. Das hier ist ein zweites Loch, nur diesmal mit Namen.
+> 아니. 다른 청구서, 다른 길이야. 추크의 재단을 거치지 않고 키프로스의 그레베 회사에서 바로 나갔어. 4만 유로는 여전히 구멍이고, 이건 두 번째 구멍인데 이번엔 이름이 붙어 있는 거지.
+FALK: Was machst du damit?
+> 이걸로 뭘 할 거야?
+ANNA: Was man muss. Um zehn ging die Frage an Greves Anwalt, Frist achtzehn Uhr. Wenn nichts Überzeugendes kommt, steht es morgen früh im Blatt, als zweiter Teil.
+> 해야 할 일을 하지. 열 시에 그레베 변호사한테 질문 보냈어. 기한은 저녁 여섯 시. 납득할 만한 답이 안 오면 내일 아침 신문에 나가. 2부로.
+FALK: Und als Betroffene? Du kannst Anzeige erstatten, wegen des Abhörens.
+> 피해자로서는? 도청으로 고소할 수 있잖아.
+ANNA: Das macht der Anwalt der «Depesche» heute Nachmittag. Ich schreibe nicht über mich, Konstantin. Ich schreibe über einen Mann, der eine Journalistin abhören lässt und gleichzeitig eine Agentur bezahlt, die ein Schiff abfertigt.
+> 그건 오늘 오후에 «데페셰» 변호사가 해. 난 나에 대해선 안 써, 콘스탄틴. 기자를 도청시키면서 동시에 배 한 척 수속을 밟아 준 대리점에 돈을 댄 남자에 대해 쓰는 거지.
+ANNA: Warte. Eilmeldung, zehn Uhr einunddreißig: «Der Generalbundesanwalt hat ein Ermittlungsverfahren gegen den Vorstandsvorsitzenden eines norddeutschen Energieunternehmens eingeleitet …»
+> 잠깐. 속보야, 열 시 31분. «연방검찰총장이 북독일 에너지 기업 회장에 대한 수사에 착수했다…»
+FALK: Lies weiter.
+> 계속 읽어.
+ANNA: «… wegen des Verdachts der Agententätigkeit zu Sabotagezwecken. Seit den frühen Morgenstunden werden Geschäftsräume in Kiel und Rostock durchsucht.» Paragraf siebenundachtzig. Das ist kein Steuerverfahren mehr.
+> «…사보타주 목적의 첩보 활동 혐의로. 이른 아침부터 킬과 로스토크의 사무실들을 압수수색하고 있다.» 형법 87조야. 이건 이제 세금 사건이 아니야.
+FALK: Karlsruhe war schneller als deine Leser. Sie müssen die Hafenmeldung schon gekannt und nur auf jemanden gewartet haben, der es laut sagt.
+> 카를스루에가 네 독자들보다 빨랐네. 입항 신고는 이미 알고 있었고, 누가 큰 소리로 말해 주기만 기다렸던 거겠지.
+ANNA: Oder auf jemanden, der ihnen das Risiko abnimmt, es als Erster zu sagen. Dein Telefon klingelt.
+> 아니면 먼저 말하는 위험을 대신 져 줄 사람을 기다렸거나. 네 전화 울린다.
+GREVE: Herr Falk, Thomas Greve. Ich lese gerade eine Zeitung, in der vieles steht und nichts bewiesen ist. Ich möchte Sie sehen, heute um fünfzehn Uhr, im Kaminzimmer.
+> 팔크 씨, 토마스 그레베입니다. 많은 게 적혀 있는데 증명된 건 하나도 없는 신문을 읽고 있습니다. 뵙고 싶군요. 오늘 오후 세 시, 벽난로 방에서.
+FALK: Ihr Büro in Kiel wird gerade durchsucht, Herr Greve, und Sie lesen Zeitung?
+> 킬 사무실이 지금 압수수색당하고 있는데 신문을 읽고 계십니까, 그레베 씨?
+GREVE: Ich bin in Berlin, und Durchsuchungen erledigen meine Anwälte. Kommen Sie allein. Ihr Telefon gibt Ihnen mein Fahrer wie immer an der Tür zurück.
+> 저는 베를린에 있고, 압수수색은 변호사들이 처리합니다. 혼자 오세요. 전화기는 늘 그렇듯 제 기사가 문 앞에서 돌려드릴 겁니다.
+FALK: Diesmal nicht. Mein Telefon bleibt auf dem Tisch, oder ich bleibe draußen.
+> 이번엔 아닙니다. 제 전화기는 탁자 위에 둡니다. 아니면 제가 밖에 있겠습니다.
+GREVE: … Wie Sie wollen. Ich habe nichts zu sagen, was die Bilder an meiner Wand nicht schon gehört hätten. Fünfzehn Uhr.
+> …마음대로 하시죠. 제 벽에 걸린 그림들이 아직 못 들은 얘기는 할 게 없으니까요. 세 시에 뵙죠.
+ANNA: Er will dich sehen, nicht mich. Also will er etwas, das nur du ihm geben kannst.
+> 나 말고 당신을 보자는 거네. 그럼 당신만 줄 수 있는 뭔가를 원하는 거야.
+
+== 장면 2 — DIE BONNER LANDSCHAFT
+ELISABETH: In diesem Zimmer hat noch nie ein Rauchmelder zugehört. Also: Paragraf zweihunderteins. Wer das nichtöffentlich gesprochene Wort eines anderen unbefugt auf einen Tonträger aufnimmt, riskiert bis zu drei Jahre.
+> 이 방에선 연기 감지기가 엿들은 적이 한 번도 없어. 자, 형법 201조. 다른 사람이 공개되지 않은 자리에서 한 말을 권한 없이 녹음하면 최대 3년까지 받을 수 있어.
+FALK: «Unbefugt». An diesem Wort hängt alles, nehme ich an.
+> «권한 없이». 그 단어에 다 걸려 있는 거겠지.
+ELISABETH: Genau. Jan hat im März heimlich aufgenommen, ohne dass Greve etwas ahnte. Das war unbefugt, ganz gleich, wie wertvoll der Satz am Ende war.
+> 맞아. 얀은 3월에 그레베가 눈치도 못 채게 몰래 녹음했지. 그건 권한 없는 녹음이었어. 마지막에 녹음된 문장이 얼마나 값지든 상관없이.
+FALK: Und wenn ich es ihm sage? Wenn ich das Telefon auf den Tisch lege und sage: Dieses Gespräch wird aufgezeichnet?
+> 그럼 내가 말하면? 전화기를 탁자에 놓고 «이 대화는 녹음됩니다»라고 하면?
+ELISABETH: Dann kann er aufstehen und gehen. Wenn er sitzen bleibt und weiterredet, hat er eingewilligt, durch sein Verhalten. Das ist keine Grauzone, das ist die Hauptstraße.
+> 그럼 그 사람은 일어나서 나갈 수 있어. 그런데도 앉아서 계속 말하면 행동으로 동의한 거야. 그건 회색 지대가 아니라 대로야.
+FALK: Und Notwehr? Ich habe gelesen, dass man einen Erpresser auch heimlich aufnehmen darf.
+> 정당방위는? 협박범은 몰래 녹음해도 된다고 읽은 적 있는데.
+ELISABETH: Manchmal, in einer notwehrähnlichen Lage, wenn es kein anderes Mittel gibt. Darüber streiten Gerichte seit Jahrzehnten. Du hast ein anderes Mittel: deinen Mund. Benutz ihn am Anfang und noch einmal, bevor er droht.
+> 가끔은 돼. 정당방위에 가까운 상황에서, 다른 방법이 없을 때. 그걸로 법원들이 몇십 년째 다투고 있어. 당신한텐 다른 방법이 있잖아. 당신 입. 처음에 한 번 쓰고, 그 사람이 협박하기 전에 한 번 더 써.
+FALK: Zweimal sagen, dass das Band läuft. Er wird lachen.
+> 녹음 중이라고 두 번 말하라. 그 사람 웃을 거야.
+ELISABETH: Soll er. Ein Mann, der lacht und weiterredet, ist der beste Zeuge gegen sich selbst. Und das Band gibst du keiner Zeitung, auch Anna nicht. Nur der Staatsanwaltschaft.
+> 웃으라 그래. 웃으면서 계속 말하는 사람이 자기한테 불리한 최고의 증인이야. 그리고 그 녹음은 어느 신문에도 주지 마. 안나한테도. 검찰한테만.
+FALK: Also Karlsruhe. Dieselbe Behörde, die prüft, ob ich ein Dienstgeheimnis verraten habe.
+> 그럼 카를스루에네. 내가 직무상 비밀을 누설했는지 검토하는 바로 그 기관.
+ELISABETH: Ein anderes Referat, ein anderer Flur. Ein Band, das du freiwillig abgibst, ist kein Geheimnis, das du verrätst. Es ist eine Aussage.
+> 다른 부서, 다른 복도야. 당신이 자발적으로 내는 녹음은 당신이 누설하는 비밀이 아니야. 진술이지.
+FALK: Das Gärtnertelefon. Entschuldige. … Herr Lehnert.
+> 정원사 폰이네. 미안. …레너트 실장님.
+LEHNERT: Herr Falk, seit sechs Uhr rufen mich Leute an, die mich seit Jahren nicht angerufen haben. Zwei Banken, ein Ministerpräsident aus dem Norden und ein Aufsichtsratsvorsitzender, der wissen will, ob das Kanzleramt «etwas weiß».
+> 팔크 씨, 여섯 시부터 몇 년째 전화 한 통 없던 사람들이 전화를 해 댑니다. 은행 두 곳, 북쪽의 주총리 한 명, 그리고 총리실이 «뭘 아는지» 알고 싶어 하는 감사회 의장 한 명.
+FALK: Und was weiß das Kanzleramt?
+> 그래서 총리실은 뭘 압니까?
+LEHNERT: Dass es in diesem Land einmal einen Ausdruck gab, den ich heute früh dreimal gehört habe: «Pflege der Bonner Landschaft». So hat Eberhard von Brauchitsch bei Flick die Spenden genannt.
+> 이 나라에 한때 그런 표현이 있었다는 거요. 오늘 아침에만 세 번 들었습니다. «본 정치권 관리». 플릭에서 에버하르트 폰 브라우히치가 정치 자금을 그렇게 불렀죠.
+FALK: Rund fünfundzwanzig Millionen Mark an fast alle Parteien. Und Notizen in der Buchhaltung, damit man später noch wusste, wen man gepflegt hatte.
+> 거의 모든 정당에 2천5백만 마르크가량. 그리고 나중에도 누구를 관리했는지 알 수 있게 회계 장부에 메모까지 남겼죠.
+LEHNERT: Der Bundestag hat drei Jahre lang einen Untersuchungsausschuss dazu gehabt, und 1984 ist ein Bundestagspräsident zurückgetreten. Gärtnern war in Bonn ein gefährliches Hobby.
+> 연방의회는 그걸로 3년 동안 조사위원회를 돌렸고, 1984년엔 연방의회 의장이 물러났습니다. 본에서 정원 가꾸기는 위험한 취미였죠.
+FALK: Und im Mai 1984 wollte die Koalition eine Amnestie für Parteispenden durchs Parlament bringen, still und schnell. Nach ein paar Tagen Empörung war sie tot.
+> 그리고 1984년 5월엔 연립 정부가 정치 자금 사면법을 조용히, 빨리 의회에서 통과시키려 했죠. 며칠 동안 여론이 들끓자 없던 일이 됐고요.
+LEHNERT: Deshalb rufe ich an. Heute früh hat mich jemand gefragt, ob man «die Sache mit Greve» nicht etwas leiser behandeln könne, wegen der Arbeitsplätze in Lubmin. Ich habe gesagt: Niemand in diesem Haus will 1984 wiederholen.
+> 그래서 전화한 겁니다. 오늘 아침 누가 묻더군요. 루브민 일자리를 생각해서 «그레베 건»을 좀 조용히 처리할 수 없겠느냐고. 저는 이 건물에서 1984년을 되풀이하고 싶은 사람은 아무도 없다고 했습니다.
+FALK: Wer hat gefragt?
+> 누가 물었습니까?
+LEHNERT: Jemand, der gewählt werden muss und dessen Wahlkreis an der Ostsee liegt. Mehr sage ich am Gärtnertelefon nicht.
+> 선거로 뽑혀야 하고, 지역구가 발트해 연안에 있는 사람이요. 정원사 폰으로는 더 말 안 하겠습니다.
+FALK: Greve will mich um fünfzehn Uhr sehen. Ich gehe hin, und das Gespräch wird aufgezeichnet, offen.
+> 그레베가 세 시에 보자고 합니다. 갈 겁니다. 그리고 대화는 녹음합니다. 공개적으로요.
+LEHNERT: Offen. Das ist mal etwas Neues in dieser Geschichte. Wenn Sie etwas auf Band haben, geben Sie es nicht mir, Herr Falk. Ich bin der letzte Mensch, dessen Hände daran sein sollten.
+> 공개적으로라. 이 이야기에선 처음 보는 일이군요. 녹음한 게 생기면 저한테 주지는 마세요, 팔크 씨. 거기 손을 대면 안 되는 마지막 사람이 바로 저니까요.
+FALK: Es geht an die Bundesanwaltschaft, an die Leute, die heute in Rostock sind.
+> 연방검찰로 갑니다. 오늘 로스토크에 가 있는 사람들한테요.
+ELISABETH: Und jetzt die Frage, die du nicht stellen willst. Womit wird er dich unter Druck setzen? Mit Jan? Mit deinem Vater? Das ist alles schon verbraucht.
+> 이제 당신이 묻기 싫어하는 질문. 그 사람이 뭘로 당신을 압박할까? 얀? 아버님? 그건 다 이미 써 버린 카드잖아.
+FALK: Mit dem, was noch nicht verbraucht ist. Mit dir, fürchte ich. Sein Anwalt hat schon zweimal nach deiner Kammer gefragt.
+> 아직 안 쓴 걸로. 아마 당신으로. 그 사람 변호사가 벌써 두 번이나 당신 재판부를 들먹였어.
+
+== 장면 3 — IM KAMINZIMMER
+GREVE: Herr Falk. Pünktlich wie ein Beamter, auch ohne Amt. Setzen Sie sich, es gibt wieder Zander.
+> 팔크 씨. 직책이 없어도 공무원처럼 시간을 지키시는군요. 앉으세요. 오늘도 농어입니다.
+FALK: Bevor ich mich setze: Dieses Telefon liegt auf dem Tisch und zeichnet unser Gespräch auf, von jetzt an bis zum Ende. Wenn Sie das nicht wollen, gehe ich.
+> 앉기 전에 말씀드리죠. 이 전화기는 탁자 위에 있고, 지금부터 끝까지 우리 대화를 녹음합니다. 원치 않으시면 저는 가겠습니다.
+GREVE: Nehmen Sie auf, so viel Sie wollen. Ich sage nichts, was ich nicht auch vor jedem Gericht sagen würde. Ich drohe nie, Herr Falk, das wissen Sie. Ich zähle nur auf.
+> 얼마든지 녹음하세요. 어느 법정에서든 할 수 있는 말만 할 겁니다. 저는 협박하지 않아요, 팔크 씨. 아시잖습니까. 그냥 열거할 뿐이죠.
+FALK: Dann zählen Sie. Ihr Büro in Kiel ist seit sieben Uhr voller Beamter.
+> 그럼 열거해 보시죠. 킬 사무실은 일곱 시부터 공무원들로 가득하던데요.
+GREVE: Und meine Aktie lag schon vor Mittag bei minus einundzwanzig Prozent. Sehen Sie, ich bin offen. Ich mache Ihnen ein Angebot, und diesmal geht es nicht um Geld.
+> 그리고 제 주가는 점심 전에 벌써 21퍼센트 빠졌죠. 보세요, 저는 솔직합니다. 제안을 하나 드리죠. 이번엔 돈 얘기가 아닙니다.
+FALK: Im März ging es um dreihundertachtzigtausend im Jahr und ein Büro in Hamburg.
+> 3월엔 연봉 38만 유로에 함부르크 사무실이었죠.
+GREVE: Im März hatten Sie noch ein Amt. Heute haben Sie nur noch einen jungen Mann, der irgendwo in Petersburg sitzt. Ich habe Kunden, die in Petersburg telefonieren können, Herr Falk. Gas hat Freunde, auch heute noch.
+> 3월엔 아직 직책이 있으셨죠. 오늘은 페테르부르크 어딘가에 앉아 있는 젊은이 하나뿐이고요. 저한텐 페테르부르크에 전화할 수 있는 고객들이 있습니다, 팔크 씨. 가스엔 친구가 있어요. 지금도요.
+FALK: Woher wissen Sie, dass er in Petersburg ist? Das stand in keiner Zeitung.
+> 그 친구가 페테르부르크에 있다는 건 어떻게 아십니까? 어느 신문에도 안 났는데요.
+GREVE: Ich lese viel, das sagte ich Ihnen schon im März. Ein Anruf von mir, und Ihr Herr Ostrowski sitzt in einer Woche bei seiner Großmutter in Danzig. Ohne Warschau, ohne Schranken, ohne Unterschriften.
+> 많이 읽는다고 3월에 말씀드렸잖습니까. 제 전화 한 통이면 오스트로프스키 씨는 일주일 안에 그단스크의 할머니 댁에 앉아 있을 겁니다. 바르샤바도, 차단기도, 서명도 없이.
+FALK: Und was kostet dieser Anruf?
+> 그 전화 한 통은 얼마입니까?
+GREVE: Zwei Kleinigkeiten. Frau Kessler hat meinem Anwalt heute früh eine Rechnung geschickt, die angeblich aus Wien stammt. Sagen Sie ihr, das Papier sei gefälscht. Ihnen glaubt sie.
+> 사소한 거 두 가지요. 케슬러 씨가 오늘 아침 제 변호사한테 빈에서 나왔다는 청구서를 보냈더군요. 그 종이가 위조라고 그 사람한테 말해 주세요. 당신 말이라면 믿을 겁니다.
+FALK: Und die zweite?
+> 두 번째는요?
+GREVE: Die Bundesanwaltschaft wird Sie nach unserem Mittagessen im März fragen. Dann war es ein Missverständnis unter Ostseemenschen. Ein Plausch über Gas, kein Angebot.
+> 연방검찰이 3월 우리 점심에 대해 물을 겁니다. 그럼 발트해 사람들끼리의 오해였다고 하세요. 가스 얘기로 수다 떤 거지, 제안은 아니었다고.
+FALK: Sie bitten mich um zwei Lügen und bieten mir als Preis einen dritten Weg nach Petersburg. Ich habe jemandem versprochen, genau so einen Weg nicht zu suchen. Nein, Herr Greve.
+> 저한테 거짓말 두 개를 부탁하시고, 그 값으로 페테르부르크로 가는 세 번째 길을 내미시는군요. 저는 바로 그런 길을 찾지 않겠다고 누군가에게 약속했습니다. 거절합니다, 그레베 씨.
+GREVE: Sie sind ein Prinzipienreiter. In den Achtzigern gab es in Bonn auch solche Leute, Steuerfahnder aus Sankt Augustin. Und am Ende? Kein Minister wurde wegen Bestechlichkeit verurteilt. Das Gericht fand kein «Wofür».
+> 원칙만 따지는 분이군요. 80년대 본에도 그런 사람들이 있었죠. 장크트 아우구스틴의 세무 조사관들. 그런데 결과는요? 뇌물 수수로 유죄를 받은 장관은 하나도 없었습니다. 법원이 «무엇의 대가»를 찾지 못했거든요.
+FALK: Die Minister zahlten Geldstrafen wegen Beihilfe zur Steuerhinterziehung. Und Eberhard von Brauchitsch, der Mann, der die Landschaft gepflegt hat, bekam im Februar 1987 zwei Jahre auf Bewährung, wegen Steuerhinterziehung. Man hat ihn nicht über das «Wofür» gekriegt, sondern über die Rechnungen.
+> 장관들은 탈세 방조로 벌금을 냈죠. 그리고 그 정치권을 «관리한» 사람, 에버하르트 폰 브라우히치는 1987년 2월 탈세로 징역 2년에 집행유예를 받았습니다. «무엇의 대가»로 잡은 게 아니라 청구서로 잡은 거죠.
+GREVE: Rechnungen. Sie meinen das Papier aus Wien.
+> 청구서라. 빈에서 나온 그 종이 말씀이군요.
+FALK: Ich meine sechsunddreißigtausend Euro von Ihrer Firma in Zypern für den Balkon einer Journalistin. Und hundertsechzigtausend für eine Agentur in Rostock. Rechnungen lügen schlechter als Menschen; das hat schon Flick gelernt.
+> 키프로스에 있는 당신 회사가 한 기자의 발코니 값으로 낸 3만 6천 유로 말입니다. 그리고 로스토크의 대리점에 낸 16만 유로. 청구서는 사람보다 거짓말을 못 합니다. 플릭도 그걸 배웠죠.
+GREVE: Gut. Dann zähle ich jetzt auf.
+> 좋습니다. 그럼 이제 열거하죠.
+FALK: Das Telefon läuft immer noch, Herr Greve. Ich sage es Ihnen ein zweites Mal.
+> 전화기는 아직 녹음 중입니다, 그레베 씨. 두 번째로 말씀드리는 겁니다.
+GREVE: Ich weiß, ich bin nicht taub. Achtzehnter Juni, sieben Uhr zehn, Ihr Flur in Pankow. Ihre Frau fragt: «Die Seite aus Hollerbachs Buch? Mit Bleistift?» Und dann: «Und das Geld?»
+> 압니다, 귀먹지 않았어요. 6월 18일 일곱 시 10분, 판코우 당신 집 현관. 부인이 묻습니다. «홀러바흐 장부의 그 페이지? 연필로 쓴 거?» 그리고 «그럼 돈은?»
+FALK: Sie haben ein Protokoll aus meinem Flur.
+> 우리 집 현관 녹취록을 갖고 계시군요.
+GREVE: Ich habe ein Protokoll, auf dem eine Richterin über die Geldwege eines Unternehmens spricht, dessen Klage seit dem sechzehnten Juni auf ihrem Tisch lag. Befangen hat sie sich erst mittags erklärt. Um sieben Uhr zehn war sie noch zuständig.
+> 제가 가진 녹취록에선, 6월 16일부터 자기 책상에 소장이 올라와 있던 기업의 돈 흐름을 두고 판사가 얘기하고 있죠. 기피 신고는 정오에야 했고요. 일곱 시 10분에는 아직 담당 판사였습니다.
+FALK: Sie hat Fragen gestellt, in ihrem eigenen Flur. Über Wien, nicht über Lubmin.
+> 그 사람은 질문을 했습니다. 자기 집 현관에서요. 루브민이 아니라 빈에 대해서.
+GREVE: Erklären Sie das einer Zeitung, die morgen titelt: «Richterin spielte Theater gegen Kläger». Mein Anwalt hat die Dienstaufsichtsbeschwerde an den Gerichtspräsidenten fertig, mit einer Abschrift für den «Hauptstadtboten». Unterschrieben wird um achtzehn Uhr. Oder eben nicht.
+> 내일 «판사, 원고 겨냥한 연극에 가담»이라고 제목을 뽑을 신문한테 그걸 설명해 보시죠. 제 변호사가 법원장 앞으로 직무 감독 진정서를 다 써 놨습니다. «하웁트슈타트보테»에 갈 사본까지요. 서명은 저녁 여섯 시에 합니다. 아니면 안 하든가요.
+FALK: Ihr Anwalt hat am Morgen desselben Tages ans Gericht gefaxt, er habe «keinerlei Bedenken» gegen sie. Das Fax war der Köder, das Protokoll ist die Angel.
+> 그 변호사는 같은 날 아침 법원에 팩스를 보냈죠. 그 판사에 대해 «아무런 이의가 없다»고. 팩스가 미끼였고, 녹취록이 낚싯대군요.
+GREVE: Sie formulieren immer noch wunderbar. Zwei Kleinigkeiten gegen den Ruf Ihrer Frau. Das ist keine Drohung, das ist eine Aufzählung.
+> 여전히 말씀을 근사하게 하시는군요. 사소한 거 두 가지와 부인의 명예. 협박이 아니라 열거입니다.
+FALK: Woher haben Sie das Protokoll? Haben Sie den Rauchmelder in meinem Flur auch bezahlt, wie den Balkon?
+> 그 녹취록은 어디서 났습니까? 우리 집 현관 연기 감지기 값도 내셨습니까? 그 발코니처럼?
+GREVE: Den Rauchmelder nicht. Das hat mir unser Freund aus Bonn vorgelesen, am Telefon, Freitagabend. Er liest sehr schön vor, wie jemand, der das früher beruflich gemacht hat.
+> 연기 감지기는 아닙니다. 그건 우리 본 친구가 읽어 줬어요. 전화로, 금요일 저녁에. 아주 낭독을 잘하죠. 예전에 그걸 업으로 삼았던 사람처럼.
+FALK: Unser Freund aus Bonn. Wessen Freund, Herr Greve? Und seit wann ist Bonn eine Adresse?
+> 우리 본 친구라. 누구의 친구입니까, 그레베 씨? 그리고 본이 언제부터 주소였죠?
+GREVE: … Eine Redensart. In meinem Alter kommen alle wichtigen Freunde aus Bonn. Vergessen Sie es.
+> …그냥 하는 말입니다. 제 나이엔 중요한 친구는 다 본에서 오죠. 잊어버리세요.
+FALK: Ich vergesse nichts mehr, was an diesem Tisch gesagt wird. Sie haben gerade aufgezählt, dass Sie ein abgehörtes Gespräch aus der Wohnung einer Richterin besitzen und damit zwei Lügen von mir erzwingen wollen.
+> 이 탁자에서 나온 말은 이제 하나도 안 잊습니다. 당신은 방금, 판사 집에서 도청된 대화를 갖고 있고 그걸로 저한테 거짓말 두 개를 강요하려 한다고 열거하셨어요.
+GREVE: Ihr Band ist so viel wert wie das Telefon, das Ihr junger Mann im März hinter meine Vase gestellt hat. Nichts. Glauben Sie, ich wüsste nicht, was damals in meinem Kaminzimmer stand?
+> 당신 녹음은 3월에 당신 젊은 친구가 제 꽃병 뒤에 세워 둔 전화기만큼의 값어치밖에 없습니다. 제로. 그때 제 벽난로 방에 뭐가 서 있었는지 제가 모를 거라고 생각하셨습니까?
+FALK: Der Unterschied ist: Jan hat es Ihnen nicht gesagt. Ich habe es Ihnen zweimal gesagt, und Sie sind sitzen geblieben. Das nennt man Einwilligung, Herr Greve. Guten Appetit.
+> 차이는 이겁니다. 얀은 당신한테 말하지 않았죠. 저는 두 번 말했고, 당신은 그대로 앉아 계셨습니다. 그걸 동의라고 합니다, 그레베 씨. 맛있게 드십시오.
+
+== 절정 — GREVE FÄLLT
+ELISABETH: Spiel die Stelle noch einmal. «Um sieben Uhr zehn war sie noch zuständig.» … Er hat recht, Konstantin. Um sieben Uhr zehn war ich zuständig.
+> 그 부분 다시 틀어 봐. «일곱 시 10분에는 아직 담당 판사였습니다.» …그 사람 말이 맞아, 콘스탄틴. 일곱 시 10분엔 내가 담당이었어.
+FALK: Du hast acht Fragen gestellt, über Wien, für eine Wanze. Nicht über seine Klage.
+> 당신은 도청기 들으라고 빈에 대해 질문 여덟 개를 한 거야. 그 사람 소송에 대해서가 아니라.
+ELISABETH: Das weiß ich, und das weißt du. Deshalb gehe ich jetzt zum Präsidenten, bevor um achtzehn Uhr irgendjemand irgendetwas unterschreibt. Eine Richterin, die sich selbst meldet, ist ein Vermerk. Eine, über die man in der Zeitung liest, ist ein Fall.
+> 그건 나도 알고 당신도 알지. 그래서 지금 법원장한테 갈 거야. 여섯 시에 누가 뭘 서명하기 전에. 스스로 보고하는 판사는 메모 한 줄이지만, 신문에서 읽히는 판사는 사건이 돼.
+FALK: Und was sagst du ihm?
+> 뭐라고 할 건데?
+ELISABETH: Alles. Den Rauchmelder, das Theater, meine acht Fragen, die Uhrzeit und dass der Kläger ein abgehörtes Protokoll davon besitzt. Er soll es von mir hören, nicht aus dem «Hauptstadtboten».
+> 전부. 연기 감지기, 연극, 내 질문 여덟 개, 시간, 그리고 원고가 그걸 도청한 녹취록을 갖고 있다는 것까지. 그 얘긴 «하웁트슈타트보테»가 아니라 나한테서 들어야 해.
+FALK: Dann bringe ich das Band zum Bundeskriminalamt am Treptower Park. Ein Oberstaatsanwalt aus Karlsruhe, Rademacher, ist wegen Rostock in Berlin und wartet bis halb sechs.
+> 그럼 난 녹음을 트렙토 공원의 연방범죄수사청으로 가져갈게. 로스토크 건으로 카를스루에에서 베를린에 와 있는 라데마허 부장검사가 다섯 시 반까지 기다린대.
+ELISABETH: Und, Konstantin: Er wusste von der Vase. Vom März, vom Telefon hinter der Vase.
+> 그리고 콘스탄틴. 그 사람, 꽃병 일 알고 있었어. 3월, 꽃병 뒤 전화기.
+FALK: Das wussten vier Menschen: Jan, ich, du und Frau Schönfeld. Und Frau Schönfeld hat bis Juni ihre Berichte auch für eine Leserin im vierten Stock geschrieben.
+> 그걸 아는 사람은 넷이었어. 얀, 나, 당신, 그리고 쇤펠트 씨. 그리고 쇤펠트 씨는 6월까지 4층의 한 독자를 위해서도 보고서를 썼지.
+LEHNERT: Herr Falk, achtzehn Uhr zehn. Der Aufsichtsrat der Greve Energie hat um halb sechs per Video getagt. Herr Greve lässt sein Amt «mit sofortiger Wirkung ruhen». Freiwillig, steht in der Mitteilung.
+> 팔크 씨, 여섯 시 10분입니다. 그레베 에너지 감사회가 다섯 시 반에 화상으로 회의를 했습니다. 그레베 씨는 «즉시» 직무를 정지한답니다. 자발적으로라고 발표문에 적혀 있더군요.
+FALK: Freiwillig wie ein Rücktritt in Bonn 1984.
+> 1984년 본의 사퇴만큼이나 자발적이군요.
+LEHNERT: Die Banken waren schneller als der Aufsichtsrat. Das Konsortium hat um sechzehn Uhr die Kreditlinie für das Terminal in Lubmin eingefroren, und der Handel mit der Aktie ist ausgesetzt. Ein Mann ohne Kredit sei in Kiel kein Mann mehr, hat mir ein Banker gesagt.
+> 은행들이 감사회보다 빨랐습니다. 대주단이 네 시에 루브민 터미널 신용 한도를 동결했고, 주식 거래는 정지됐어요. 킬에선 신용 없는 남자는 더 이상 남자도 아니라고, 어느 은행가가 그러더군요.
+FALK: Und die Bundesanwaltschaft hat seit siebzehn Uhr vierzig ein Band, auf dem er zweimal hört, dass es läuft.
+> 그리고 연방검찰은 다섯 시 40분부터 녹음 하나를 갖고 있습니다. 녹음 중이라는 말을 그 사람이 두 번이나 듣는 녹음이요.
+LEHNERT: Rademacher hat mich angerufen, nicht um mir etwas zu sagen, sondern um mir zu sagen, dass er mir nichts sagt. Bei Staatsanwälten ist das ein Kompliment. Er prüft versuchte Nötigung, und den Besitz des Protokolls nimmt er zum Verfahren wegen Rostock.
+> 라데마허가 전화했는데, 뭘 알려 주려는 게 아니라 아무것도 알려 주지 않겠다는 걸 알려 주려고 하더군요. 검사들 사이에선 그게 칭찬입니다. 강요 미수를 검토하고, 그 녹취록을 갖고 있던 건 로스토크 사건에 같이 넣는답니다.
+FALK: Und Ihr Abgeordneter von der Ostsee?
+> 그리고 실장님의 발트해 의원은요?
+LEHNERT: Hat um siebzehn Uhr erklärt, er sei «tief enttäuscht von einem langjährigen Partner der Region». Das Wort «Landschaft» kam nicht vor. … Ihr anderes Telefon klingelt.
+> 다섯 시에 성명을 냈습니다. «지역의 오랜 파트너에게 깊이 실망했다»고요. «관리»라는 말은 한 번도 안 나왔고요. …다른 전화가 울리네요.
+GREVE: Sie haben es nach Karlsruhe getragen.
+> 그걸 카를스루에로 가져가셨군요.
+FALK: Ja. Ich habe es Ihnen vorher gesagt, Herr Greve, wie alles heute.
+> 네. 미리 말씀드렸잖습니까, 그레베 씨. 오늘 모든 걸 그랬듯이요.
+GREVE: Mein Aufsichtsrat hat sich per Video bei mir bedankt. Achtzehn Jahre, und man bedankt sich per Video. Wissen Sie, was ich in den Achtzigern gelernt habe? Am Ende fällt nie der, der das Geld genommen hat, sondern der, der die Quittungen aufbewahrt.
+> 제 감사회가 화상으로 감사 인사를 하더군요. 18년을 같이 했는데 화상으로요. 80년대에 제가 뭘 배웠는지 아십니까? 결국 넘어지는 건 돈을 받은 사람이 아니라 영수증을 보관한 사람이라는 거요.
+FALK: Dann bewahren Sie nichts mehr auf. Sagen Sie den Ermittlern, wer das Geld genommen hat.
+> 그럼 이제 아무것도 보관하지 마시죠. 누가 돈을 받았는지 수사관들한테 말하세요.
+GREVE: Ich war nur der Gärtner, Herr Falk. Fragen Sie die Dame mit der grünen Tinte, wer ein Haus mit Blick auf die Förde haben wollte, ohne es zu besitzen. Und fragen Sie sie, ob sie unseren Freund aus Bonn kennt.
+> 저는 그냥 정원사였습니다, 팔크 씨. 초록 잉크 쓰는 그 부인한테 물어보세요. 누가 킬 만이 내다보이는 집을, 소유하지도 않으면서 갖고 싶어 했는지. 그리고 그 부인이 우리 본 친구를 아는지도 물어보시고요.
+FALK: Sagen Sie das Herrn Rademacher. Ich bin kein Ermittler, Herr Greve. Ich bin ein Mann mit einem Telefon auf dem Tisch.
+> 그 말은 라데마허 검사한테 하세요. 저는 수사관이 아닙니다, 그레베 씨. 탁자 위에 전화기 하나 올려놓은 사람일 뿐이죠.
+GREVE: … Es klingelt an meiner Tür. Um diese Uhrzeit klingeln nur zwei Sorten Menschen: Freunde und Beamte. Freunde habe ich heute keine mehr.
+> …현관 벨이 울리네요. 이 시간에 벨을 누르는 건 두 부류뿐이죠. 친구 아니면 공무원. 오늘 저한텐 더 이상 친구가 없습니다.
+FALK: Machen Sie auf, Herr Greve.
+> 문 여세요, 그레베 씨.
+GREVE: Ich drohe nie, Herr Falk. Und heute zähle ich auch nicht mehr auf. … Guten Abend, meine Herren. Ja, ich bin Thomas Greve.
+> 저는 협박하지 않습니다, 팔크 씨. 그리고 오늘은 열거도 더는 안 하죠. …안녕하십니까, 여러분. 네, 제가 토마스 그레베입니다.
+ANNA: Konstantin, sein Anwalt hat um siebzehn Uhr neunundfünfzig geantwortet: Bei der Rechnung handle es sich um «branchenübliche Medienanalyse». Teil zwei läuft morgen um sechs. Hat Greve dich heute gebeten, mir etwas auszurichten?
+> 콘스탄틴, 그 변호사가 다섯 시 59분에 답을 보냈어. 그 청구서는 «업계에서 흔한 미디어 분석»이래. 2부는 내일 여섯 시에 나가. 그레베가 오늘 당신한테 나한테 뭘 전하라고 했어?
+FALK: Ja. Dass die Rechnung gefälscht sei. Ich habe Nein gesagt. Den Rest hat jetzt die Bundesanwaltschaft, und davon bekommst du von mir kein Wort, nicht einmal unter drei.
+> 응. 그 청구서가 위조라고 전하래. 난 거절했어. 나머지는 이제 연방검찰한테 있고, 그건 나한테서 한 마디도 못 들어. unter drei로도.
+
+== 마무리 — ZWEIUNDZWANZIG UHR ELF
+ELISABETH: Der Präsident hat zwanzig Minuten zugehört, ohne mich ein einziges Mal zu unterbrechen. Morgen früh steht ein Vermerk in meiner Personalakte. Ein Vermerk, kein Verfahren.
+> 법원장이 이십 분 동안 한 번도 안 끊고 들었어. 내일 아침 내 인사 기록에 메모가 하나 들어가. 메모지, 절차가 아니라.
+FALK: Und die Beschwerde?
+> 그 진정서는?
+ELISABETH: Ist nie gekommen. Um achtzehn Uhr hatte Greves Anwalt andere Sorgen. Und die Klage aus Lubmin liegt jetzt bei einer Kollegin, die nicht in Pankow wohnt.
+> 안 들어왔어. 여섯 시엔 그레베 변호사한테 다른 걱정거리가 생겼으니까. 그리고 루브민 소송은 이제 판코우에 안 사는 동료 판사한테 갔어.
+FALK: Heute keine Lüge, Elisabeth, nicht eine. Zweimal habe ich gesagt, dass das Band läuft, und einmal Nein.
+> 오늘은 거짓말 없었어, 엘리자베트. 하나도. 녹음 중이라고 두 번 말했고, 아니라고 한 번 말했지.
+ELISABETH: Jan würde sagen: null. Und dann würde er fragen, warum du aussiehst, als hättest du verloren.
+> 얀이라면 «0»이라고 하겠지. 그러고는 왜 진 사람 같은 얼굴이냐고 물을 거야.
+FALK: Weil Greve ein Telefon nach Petersburg hatte und ich Nein gesagt habe. Vielleicht hätte ein Anruf von ihm Jan schneller nach Hause gebracht als alle Schranken in Finnland.
+> 그레베한테는 페테르부르크로 걸 전화가 있었는데 내가 거절했으니까. 어쩌면 그 사람 전화 한 통이 핀란드의 어떤 차단기보다 얀을 빨리 집에 데려왔을지도 몰라.
+ELISABETH: Oder er hätte Jan zu seinem Pfand gemacht statt zu Sedovs. Wer von einem Erpresser befreit wird, gehört ihm danach.
+> 아니면 얀을 세도프 대신 자기 담보로 삼았겠지. 협박범이 풀어 준 사람은 그 뒤로 그 사람 차지가 되는 거야.
+FALK: «Unser Freund aus Bonn.» Er hat es gesagt, als spräche er von einem Onkel. Einer, der früher beruflich vorgelesen hat.
+> «우리 본 친구.» 무슨 삼촌 얘기하듯 말하더라. 예전에 낭독을 업으로 삼았던 사람이래.
+ELISABETH: Dein Vater hat über den Mann unter der Hochbahn gesagt: rheinisch, aber abgeschliffen, wie die Leute aus Bonn, die mit dem Umzug nach Berlin gekommen sind.
+> 아버님이 고가 철로 밑의 그 남자에 대해 그러셨잖아. 라인 지방 말투인데 닳아서 매끈하다고. 수도 이전 때 본에서 베를린으로 온 사람들처럼.
+FALK: Und Greve sagt, in seinem Alter kämen alle wichtigen Freunde aus Bonn. Ich rufe meinen Vater morgen früh an, nicht heute Nacht.
+> 그리고 그레베는 자기 나이엔 중요한 친구는 다 본에서 온다고 했지. 아버지한텐 내일 아침에 전화할게. 오늘 밤 말고.
+ELISABETH: Dein Telefon. Eine Nachricht, zweiundzwanzig Uhr elf.
+> 당신 전화. 문자야. 밤 열 시 11분.
+FALK: Kein Name, eine Nummer aus dem Amt. … «Herr Falk, morgen, sieben Uhr, mein Büro. Der Pförtner weiß Bescheid. Bringen Sie Zeit mit, und lassen Sie Bismarck nicht zu Hause. W.»
+> 이름은 없고, 외무부 번호야. …«팔크 씨, 내일 일곱 시, 제 사무실. 수위에게 말해 두었습니다. 시간 넉넉히 가지고 오시고, 비스마르크는 집에 두고 오지 마십시오. W.»
+ELISABETH: Sie unterschreibt sogar ihre Nachrichten mit einem Buchstaben. Gehst du hin?
+> 문자에도 글자 하나로 서명하네. 갈 거야?
+FALK: Ich gehe hin. Mit einem Telefon auf dem Tisch, und ich sage es ihr am Anfang.
+> 갈 거야. 탁자 위엔 전화기 하나 두고. 그리고 처음에 그 사람한테 말할 거야.
+ELISABETH: Sie wird nicht lachen wie Greve. Sie wird dich bitten, es auszuschalten. Und du wirst trotzdem mit ihr reden.
+> 그 사람은 그레베처럼 웃진 않을 거야. 끄라고 하겠지. 그래도 당신은 그 사람이랑 얘기할 거고.
+FALK: Zum letzten Mal, Elisabeth. Ich glaube, das weiß sie auch.
+> 마지막으로, 엘리자베트. 그 사람도 그걸 아는 것 같아.
