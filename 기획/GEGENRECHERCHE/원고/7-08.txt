@@ -1,0 +1,366 @@
+@part 7
+@ep 8
+@title Marek
+@sub 마렉 · 10년 동안 잘못 짊어진 무게
+@info 대사 150턴 · 난이도 C1 · 배경: 2028년 12월 27~29일, 연휴의 Thal & Partner 사무실, 크로이츠베르크 포렌식 연구실, LKA 사무실, 베딩 묘지, 엘케네 선술집
+@cast JAN | 얀 코발치크 (45) · Thal & Partner 자문역 (위장)
+@cast KASPER | 루벤 카스퍼 (43) · Thal & Partner 실무 책임자, 지배인(Prokurist)
+@cast NIKO | 니코 바르텔 (36) · 비영리 디지털 포렌식 연구실 '슈푸어 e.V.' 분석가 (가상)
+@cast SANDMANN | 그레고어 잔트만 (58) · 서클 보안 책임자, 전직 LKA
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast KEMAL | 케말 (60) · 슈페티 주인 (베를린 사투리)
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@note ※ 중간 반전. 얀은 금고를 열지도, 문서를 훔치지도 않는다. 딸의 휴대폰에서 스파이웨어를 발견한 카스퍼가 회사 지배인 자격으로 직접 금고를 열고, 모든 것을 경찰에 넘기기로 한다. 얀은 보고 기억할 뿐이다. 2016년 파일은 마렉의 정체를 노출시킨 것이 얀의 기사가 아니라 얀의 휴대폰을 엿본 잔트만이었음을 보여 준다. 등장 인물·사건 가상.
+@note ※ 표현 초점: die Schuld · die Erkenntnis · die Vertuschung · die Wut · der Prokurist · *Et war nich meine Schuld…*
+@next 7부 9화 — «Das Ohr im Stiftungsrat»(이사회의 귀) — 바깥 팀이 재단 이사 다섯 명 가운데 첩자를 찾는다.
+
+# 콜드 오픈 — SIEBENUNDZWANZIGSTER DEZEMBER, LEERES BÜRO
+KASPER: Sie sind hier? Zwischen den Jahren? Niemand ist zwischen den Jahren im Büro.
+> 여기 계세요? 연말연시 사이에? 연말연시엔 아무도 사무실에 안 나와요.
+JAN: Ich habe niemanden, mit dem ich zwischen den Jahren sein könnte. Und Sie?
+> 연말을 같이 보낼 사람이 없어서요. 당신은요?
+KASPER: Ich habe eine Tochter, die Weihnachten bei ihrer Mutter ist. Und ein Telefon, das ich gestern in eine Werkstatt gebracht habe. Ihretwegen.
+> 크리스마스엔 엄마한테 가 있는 딸이 있죠. 그리고 어제 수리점에 맡긴 전화기 하나. 당신 때문에.
+JAN: Meinetwegen?
+> 저 때문에요?
+KASPER: Sie haben gefragt, wer mich vor Gregor schützt. Und ob meine Tochter ein Telefon hat. Diese Frage hat mich drei Nächte nicht schlafen lassen.
+> 그레고어로부터 누가 날 지키냐고 물었죠. 그리고 내 딸이 전화기가 있냐고. 그 질문 때문에 사흘 밤을 못 잤어요.
+JAN: Und was hat die Werkstatt gesagt?
+> 수리점에선 뭐래요?
+KASPER: Die Werkstatt hat gesagt, sie kennt sich mit so etwas nicht aus. Sie hat mir eine Adresse gegeben. Ein Verein in Kreuzberg. Ich war heute Morgen da.
+> 그런 건 잘 모른대요. 주소 하나를 줬어요. 크로이츠베르크의 협회. 오늘 아침에 다녀왔어요.
+JAN: Und?
+> 그래서요?
+KASPER: Sie haben etwas gefunden. Ein Programm. Seit ihrem neunten Geburtstag. Es schickt alles weiter. Ihre Fotos. Ihre Nachrichten an ihre Freundin. Wo sie ist. Den ganzen Tag.
+> 뭘 찾았대요. 프로그램 하나. 아홉 살 생일부터. 전부 넘긴대요. 딸 사진. 친구한테 보낸 메시지. 어디 있는지. 하루 종일.
+JAN: An wen?
+> 누구한테요?
+KASPER: An einen Server, den Gregor betreibt. Sie haben ihn wiedererkannt. Sie sagen, sie haben denselben Server diesen Monat schon einmal gesehen. Auf anderen Telefonen.
+> 그레고어가 운영하는 서버로. 알아보더군요. 이번 달에 다른 전화기들에서도 같은 서버를 봤대요.
+JAN: … Was wollen Sie tun, Herr Kasper?
+> … 어떻게 하실 거예요, 카스퍼 씨?
+KASPER: Ich will wissen, was er noch liest. Und ich glaube, Sie wollen das auch.
+> 그가 또 뭘 읽는지 알고 싶어요. 그리고 당신도 그걸 알고 싶을 것 같고요.
+
+# 장면 1 — DIE GRENZE
+JAN: Herr Kasper, bevor Sie weiterreden. Ich öffne nichts. Ich nehme nichts. Ich fotografiere nichts.
+> 카스퍼 씨, 더 말하기 전에. 전 아무것도 안 열어요. 아무것도 안 가져가요. 아무것도 안 찍어요.
+KASPER: Das klingt wie ein Mann, der eine Anwältin hat.
+> 변호사가 있는 사람 같은 말이네요.
+JAN: Das klingt wie ein Mann, der weiß, wo die Grenze ist. Wenn ich etwas stehle, ist alles, was wir finden, wertlos. Und ich bin danach dran. Nicht Gregor.
+> 경계가 어딘지 아는 사람 같은 말이죠. 제가 뭘 훔치면 우리가 찾는 건 전부 무가치해져요. 그리고 그다음엔 제가 걸리죠. 그레고어가 아니라.
+KASPER: «Wir»?
+> «우리»?
+JAN: … Sie haben richtig gehört.
+> … 제대로 들으셨어요.
+KASPER: Ich wusste es. Seit der Frage nach meiner Tochter. Ein müder Mann fragt nicht nach den Kindern anderer Leute.
+> 알았어요. 내 딸 얘기를 물은 그때부터. 지친 남자는 남의 아이를 묻지 않거든요.
+JAN: Und? Rufen Sie jetzt Gregor an?
+> 그래서요? 이제 그레고어한테 전화할 거예요?
+KASPER: Mit welchem Telefon? Er liest jedes. — Ich bin Prokurist dieser Firma. Ich habe die Notfallkombination für den Safe in Gregors Büro. Falls ihm etwas passiert. Ich darf ihn öffnen.
+> 무슨 전화기로요? 그는 다 읽어요. — 난 이 회사 지배인이에요. 그레고어 사무실 금고의 비상 비밀번호가 있어요. 그한테 무슨 일이 생길 때를 대비해서. 열 권한이 있어요.
+JAN: Und dann?
+> 그다음엔요?
+KASPER: Dann öffne ich ihn. Ich. Und Sie stehen in der Tür und schauen zu. Und alles, was darin ist, bringe ich danach selbst zur Polizei. Nicht zu Ihrer Zeitung.
+> 그럼 열죠. 내가. 그리고 당신은 문간에 서서 보기만 해요. 그리고 안에 있는 건 전부 내가 직접 경찰에 가져가요. 당신 신문사가 아니라.
+JAN: Das ist die einzige Art, wie ich zuschaue.
+> 그게 제가 볼 수 있는 유일한 방식이에요.
+
+# 장면 2 — DER ANRUF BEI KATRIN
+JAN: (von Kemals Telefon) Katrin. Fallada. Nein — kein Notfall. Eine Frage. Darf ich zusehen, wenn ein Prokurist den Safe seiner eigenen Firma öffnet?
+> (케말의 전화기로) 카트린. 팔라다. 아니 — 비상 아니에요. 질문. 지배인이 자기 회사 금고를 열 때 옆에서 봐도 돼요?
+KATRIN: Wer öffnet? Du?
+> 누가 열어? 너?
+JAN: Er. Kasper. Freiwillig. Er hat die Befugnis. Er bringt alles zur Polizei.
+> 그가요. 카스퍼. 자발적으로. 권한이 있어요. 전부 경찰에 가져간대요.
+KATRIN: Dann ist er der Hinweisgeber. Nicht du. Du fasst nichts an. Du nimmst nichts mit. Du schreibst danach auf, was du gesehen hast. Mit Uhrzeit.
+> 그럼 그가 제보자야. 네가 아니라. 넌 아무것도 만지지 마. 아무것도 가져가지 마. 나중에 본 걸 적어. 시간이랑.
+JAN: Und Dana?
+> 그리고 다나는요?
+KATRIN: Dana wartet um achtzehn Uhr in einem Auto vor dem Gendarmenmarkt. Kasper steigt ein. Mit allem. Dann ist es ein Beweismittel. Und kein Diebesgut.
+> 다나가 18시에 잔다르멘마르크트 앞 차 안에서 기다릴 거야. 카스퍼가 타. 전부 가지고. 그럼 증거물이 되지. 장물이 아니라.
+JAN: Danke.
+> 고마워요.
+KATRIN: Jan. Und wenn da drin etwas über Marek ist — du schreist nicht. Du weinst nicht. Erst im Auto. Nicht im Büro.
+> 얀. 그리고 그 안에 마렉에 관한 게 있으면 — 소리 지르지 마. 울지도 마. 차 안에서. 사무실에선 말고.
+JAN: Ich weiß nicht, ob ich das kann.
+> 할 수 있을지 모르겠어요.
+KATRIN: Dann denk an Tobi. Der darf dich danach schlagen. Nicht Gregor.
+> 그럼 토비를 생각해. 나중에 널 칠 사람은 토비야. 그레고어가 아니라.
+
+# 장면 3 — DER SAFE
+KASPER: Zwei, null, eins, zwei. Neun, null. Er hat das Datum des Mauerfalls genommen. Rückwärts. Gregor liebt Symbole.
+> 2, 0, 1, 2. 9, 0. 장벽 붕괴 날짜를 썼어요. 거꾸로. 그레고어는 상징을 좋아해요.
+JAN: Was ist drin?
+> 안에 뭐가 있어요?
+KASPER: Ordner. Nach Jahren. 2014. 2015. 2016. Bis heute. Und Festplatten. Mit Namen beschriftet.
+> 서류철. 연도별로. 2014. 2015. 2016. 지금까지. 그리고 하드 디스크들. 이름이 붙어 있어요.
+JAN: Welche Namen?
+> 어떤 이름이요?
+KASPER: «Brandt». «Aydin». «Kasper, L.» — Das ist meine Tochter. Lotte. Er hat ihr eine eigene Festplatte gegeben.
+> «브란트». «아이든». «카스퍼, L.» — 내 딸이에요. 로테. 딸한테 하드 디스크를 따로 줬네요.
+JAN: Herr Kasper. Atmen Sie.
+> 카스퍼 씨. 숨 쉬어요.
+KASPER: Und hier. «2016. M. N.» Ein dünner Ordner. Wollen Sie, dass ich ihn öffne?
+> 그리고 여기. «2016. M. N.» 얇은 서류철. 열까요?
+JAN: … Ja.
+> … 네.
+KASPER: Ausdrucke. Nachrichten. Von einer Nummer, die «K.» heißt. An eine Nummer, die «Marek» heißt. «Morgen 19 Uhr bei Elke. Bring die Liste der Leiharbeiter mit.»
+> 출력물. 메시지. «K.»라는 번호에서. «마렉»이라는 번호로. «내일 19시 엘케네. 파견 노동자 명단 가져와.»
+JAN: Das ist meine Nachricht. Vom vierzehnten Februar 2016.
+> 그거 내 메시지예요. 2016년 2월 14일.
+KASPER: Und darunter, handschriftlich. «Quelle von K.: Marek Nowicki, Gerüstbauer, Baustelle Heidestraße. Weitergegeben an Bauleitung, 1. März.» Und darunter, in einer anderen Farbe: «Problem erledigt. 24. März.»
+> 그리고 그 아래 손 글씨. «K.의 취재원: 마렉 노비츠키, 비계공, 하이데슈트라세 현장. 3월 1일 현장 지휘부에 전달.» 그리고 그 아래, 다른 색으로: «문제 해결. 3월 24일.»
+JAN: Der vierundzwanzigste März. Da ist er gefallen.
+> 3월 24일. 그가 떨어진 날이에요.
+KASPER: Hier ist noch etwas. Eine Rechnung. «Beratungsleistung, Sicherheitsanalyse.» An eine Baufirma. Unterschrieben: G. Sandmann. Damals noch mit einem Dienstausweis vom LKA in der Klarsichthülle daneben.
+> 여기 하나 더 있어요. 청구서. «자문 용역, 보안 분석.» 한 건설사 앞으로. 서명: G. 잔트만. 그때는 옆 투명 파일에 LKA 신분증까지 같이 있네요.
+JAN: Er war Polizist. Und hat nebenbei für eine Baufirma meine Nachrichten gelesen.
+> 경찰이었어요. 그리고 부업으로 건설사를 위해 내 메시지를 읽었고.
+KASPER: Und meine Tochter. Und Ihre Chefin. Und wer weiß wen noch.
+> 그리고 내 딸도. 당신 편집장도. 또 누군지 모를 사람들도.
+
+# 장면 4 — WAS IM ARTIKEL STAND
+JAN: Mein Artikel ist am vierten März erschienen. Ohne seinen Namen. Ohne die Baustelle. Ich habe drei Tage lang jedes Wort gestrichen, das zu ihm führen konnte.
+> 제 기사는 3월 4일에 나갔어요. 그의 이름 없이. 현장 이름도 없이. 그에게 이어질 수 있는 단어는 사흘 동안 전부 지웠어요.
+KASPER: Und trotzdem haben Sie geglaubt, Sie hätten ihn verraten.
+> 그런데도 당신이 그를 노출시켰다고 믿었군요.
+JAN: Weil er nach dem Artikel gefallen ist. Und weil ich der Einzige war, der wusste, wer er ist. Dachte ich.
+> 기사 뒤에 그가 떨어졌으니까요. 그리고 그가 누군지 아는 사람은 나뿐이었으니까요. 그렇게 생각했죠.
+KASPER: Aber der Name war schon am ersten März weitergegeben. Drei Tage vor Ihrem Artikel.
+> 근데 이름은 이미 3월 1일에 넘어갔어요. 당신 기사 사흘 전에.
+JAN: Drei Tage. Zehn Jahre lang habe ich jeden Satz dieses Artikels auswendig gekonnt. Ich habe ihn nachts aufgesagt. Um zu finden, welcher Satz es war.
+> 사흘. 10년 동안 그 기사 문장을 전부 외우고 있었어요. 밤마다 외웠어요. 어느 문장이었는지 찾으려고.
+KASPER: Und?
+> 그래서요?
+JAN: Es war keiner. Es war kein Satz. Es war mein Telefon.
+> 아무것도 아니었어요. 문장이 아니었어요. 내 전화기였어요.
+KASPER: Herr Kowalczyk. Sie zittern.
+> 코발치크 씨. 떨고 있어요.
+JAN: Machen Sie den Safe zu. Bitte. Und nehmen Sie alles mit. Sie haben eine Verabredung um achtzehn Uhr.
+> 금고 닫아요. 제발. 그리고 전부 가져가요. 18시에 약속이 있잖아요.
+
+# 장면 5 — IM AUTO VOR DEM GENDARMENMARKT
+DANA: Herr Kasper. Dana Schuster, LKA. Steigen Sie ein. Legen Sie alles auf den Rücksitz. Fassen Sie es danach nicht mehr an.
+> 카스퍼 씨. 다나 슈스터, LKA. 타세요. 전부 뒷좌석에 두세요. 그다음엔 손대지 마세요.
+KASPER: Sie sind vom LKA. Wie Gregor früher.
+> LKA시군요. 예전 그레고어처럼.
+DANA: Deshalb fahre ich das selbst. Nicht über die Zentrale. Nicht über einen Kollegen. Wir wissen nicht, wer im Haus noch mit ihm Kaffee trinkt.
+> 그래서 제가 직접 몰아요. 대표 번호 안 거치고. 동료도 안 거치고. 청사 안에 누가 아직 그 사람이랑 커피 마시는지 모르니까요.
+KASPER: Und was passiert mit mir?
+> 그럼 저는 어떻게 돼요?
+DANA: Sie machen eine Aussage. Heute Abend. Mit einem Anwalt, wenn Sie wollen. Sie sind Hinweisgeber. Das schützt Sie. Nicht vor allem. Aber vor vielem.
+> 진술하세요. 오늘 밤. 원하면 변호사랑. 당신은 제보자예요. 그게 당신을 보호해요. 모든 것으로부터는 아니지만. 많은 것으로부터.
+KASPER: Und meine Tochter?
+> 그럼 내 딸은요?
+DANA: Ihre Tochter bekommt heute Abend ein neues Telefon. Von mir. Ohne Geschenkband.
+> 딸은 오늘 밤 새 전화기를 받을 거예요. 저한테서. 리본은 없이.
+KASPER: Und Kowalczyk?
+> 그리고 코발치크는요?
+DANA: Kowalczyk war nie hier. Sie haben den Safe allein geöffnet. Weil Sie Angst um Ihre Tochter hatten. Das ist die Wahrheit. Bis auf einen Mann in der Tür.
+> 코발치크는 여기 없었어요. 당신이 혼자 금고를 열었어요. 딸이 걱정돼서. 그게 진실이에요. 문간에 서 있던 남자 한 명만 빼고.
+KASPER: Und den erwähne ich nicht?
+> 그럼 그 사람은 언급 안 해요?
+DANA: Den erwähnen Sie in Ihrer Aussage. Vollständig. Aber Ihre Aussage liegt in meinem Safe. Und meiner ist nicht rückwärts der Mauerfall.
+> 진술에선 언급하세요. 빠짐없이. 근데 당신 진술은 내 금고에 들어가요. 그리고 내 건 장벽 붕괴 거꾸로가 아니에요.
+
+# 장면 5-2 — KASPERS AUSSAGE
+DANA: Herr Kasper. Wusste Dr. Thal, was Sandmann liest?
+> 카스퍼 씨. 탈 박사가 잔트만이 뭘 읽는지 알았어요?
+KASPER: Dr. Thal will nie wissen, wie. Er will nur wissen, was. Gregor bringt ihm jeden Freitag eine Mappe. «Was sie denken.» Mehr nicht.
+> 탈 박사님은 절대 어떻게는 알고 싶어 하지 않아요. 뭘만 알고 싶어 하죠. 그레고어가 매주 금요일 서류철을 가져와요. «그들이 무슨 생각을 하는지.» 그게 다예요.
+DANA: «Sie» — wer ist «sie»?
+> «그들» — 그들이 누구죠?
+KASPER: Jeder, der gerade stört. Journalisten. Abgeordnete. Beamte. Eine Abgeordnete namens Scholze stand letzten Freitag drin. Mit ihrem Arzttermin.
+> 지금 방해가 되는 사람 누구나. 기자들. 의원들. 공무원들. 지난 금요일엔 숄체라는 의원이 들어 있었어요. 진료 예약까지.
+DANA: Und Sie haben die Mappen gelesen?
+> 그리고 당신은 그 서류철을 읽었어요?
+KASPER: Ich habe sie getragen. Vom Büro zum Auto. Acht Jahre lang. Ohne hineinzusehen. Ich dachte, das macht mich unschuldig.
+> 날랐어요. 사무실에서 차까지. 8년 동안. 안을 안 보고. 그게 날 결백하게 만든다고 생각했죠.
+DANA: Und jetzt?
+> 그럼 지금은요?
+KASPER: Jetzt weiß ich, dass meine Tochter in einer dieser Mappen war. Und dass ich sie getragen habe.
+> 지금은 내 딸도 그 서류철 중 하나에 들어 있었다는 걸 알아요. 그리고 내가 그걸 날랐다는 것도.
+DANA: Herr Kasper, das, was Sie heute getan haben, war richtig. Spät. Aber richtig.
+> 카스퍼 씨, 오늘 하신 일은 옳았어요. 늦었지만. 옳았어요.
+KASPER: Sagen Sie das meiner Tochter. Wenn sie alt genug ist, um zu verstehen, was ihr Vater beruflich gemacht hat.
+> 그 말은 내 딸한테 해 줘요. 아빠가 무슨 일을 했는지 이해할 나이가 되면.
+
+# 장면 6 — FRIEDHOF WEDDING, ABENDS
+JAN: Papa. Ich weiß, es ist nicht Sonntag. Und es ist dunkel. Und ich habe keine Blumen.
+> 아빠. 일요일 아닌 거 알아요. 그리고 어둡고. 꽃도 없어요.
+JAN: Ich habe zehn Jahre lang geglaubt, ich hätte einen Mann umgebracht. Mit einem Artikel. Mit meinem Ehrgeiz.
+> 10년 동안 내가 한 남자를 죽였다고 믿었어요. 기사로. 내 야망으로.
+JAN: Et war nich meine Schuld… Et war nich meine Schuld, Papa.
+= Es war nicht meine Schuld… Es war nicht meine Schuld, Papa.
+> 내 잘못이 아니었어요… 내 잘못이 아니었어요, 아빠.
+JAN: Und jetzt weiß ich nicht, wohin mit dem Platz, wo die Schuld war. Da ist ein Loch. Und das Loch ist heiß.
+> 근데 이제 죄책감이 있던 자리를 어떻게 해야 할지 모르겠어요. 구멍이 생겼어요. 그리고 그 구멍이 뜨거워요.
+ELKE: (aus dem Dunkeln) Dit is Wut, Jung. Dit Loch heeßt Wut. Dit kenn ick.
+= (aus dem Dunkeln) Das ist Wut, Junge. Das Loch heißt Wut. Das kenne ich.
+> (어둠 속에서) 그건 분노야, 얘야. 그 구멍 이름은 분노야. 나도 알아.
+JAN: Elke? Was machst du hier?
+> 엘케? 여기서 뭐 해요?
+ELKE: Dana hat anjerufen. Uff meinem Nokia. Hat jesacht: «Er jeht zu seinem Vater. Jeh hin. Aber sach nischt Kluges.»
+= Dana hat angerufen. Auf meinem Nokia. Hat gesagt: «Er geht zu seinem Vater. Geh hin. Aber sag nichts Kluges.»
+> 다나가 전화했어. 내 노키아로. 그러더라: «그가 아빠한테 갈 거예요. 가 줘요. 근데 똑똑한 말은 하지 마요.»
+JAN: Und jetzt sagst du nichts Kluges?
+> 그래서 똑똑한 말 안 할 거예요?
+ELKE: Ick hab dir 'ne Stulle mitjebracht. Mit Leberwurst. Dit is dit Klügste, wat ick hab.
+= Ich habe dir eine Stulle mitgebracht. Mit Leberwurst. Das ist das Klügste, was ich habe.
+> 빵 하나 가져왔어. 간 소시지 든 거. 그게 내가 가진 제일 똑똑한 거야.
+JAN: Elke. Marek hat bei dir am Fenster gesessen. Zweimal. Du hast ihm ein Bier gezapft.
+> 엘케. 마렉이 엘케네 창가에 앉아 있었잖아요. 두 번. 맥주도 따라 줬고.
+ELKE: Und ick hab sein Foto seit drei Wochen uff meener Theke. Neben Fallada. Er hat sich nich beschwert.
+= Und ich habe sein Foto seit drei Wochen auf meiner Theke. Neben Fallada. Er hat sich nicht beschwert.
+> 그리고 3주째 그 사진이 내 카운터 위에 있어. 팔라다 옆에. 불평 안 하더라.
+JAN: Ich will ihn zerstören. Sandmann. Ich will, dass er alles verliert.
+> 그를 무너뜨리고 싶어요. 잔트만. 모든 걸 잃었으면 좋겠어요.
+ELKE: Dit verstehe ick. Aber Marek hat nich jelacht, weil du wütend warst. Er hat jelacht, weil du komisch warst. Bleib komisch. Und lass die Polizei wütend sein.
+= Das verstehe ich. Aber Marek hat nicht gelacht, weil du wütend warst. Er hat gelacht, weil du komisch warst. Bleib komisch. Und lass die Polizei wütend sein.
+> 이해해. 근데 마렉은 네가 화나 있어서 웃은 게 아니야. 네가 웃겨서 웃었지. 계속 웃겨. 그리고 화내는 건 경찰한테 맡겨.
+
+# 장면 6-2 — BEI ELKE, SPÄT
+TOBI: Elke. Wo warste? Du machst nie vor Mitternacht zu. Und heut war um neun dit Licht aus.
+= Elke. Wo warst du? Du machst nie vor Mitternacht zu. Und heute war um neun das Licht aus.
+> 엘케. 어디 갔었어? 자정 전엔 절대 안 닫잖아. 근데 오늘은 아홉 시에 불이 꺼졌어.
+ELKE: Bei 'nem Freund.
+= Bei einem Freund.
+> 친구한테.
+TOBI: Mit Stullen. Ick hab jesehn, wie de die Leberwurst einjepackt hast.
+= Mit Stullen. Ich habe gesehen, wie du die Leberwurst eingepackt hast.
+> 빵 들고. 간 소시지 싸는 거 봤어.
+ELKE: Een Freund, der Hunger hatte.
+= Ein Freund, der Hunger hatte.
+> 배고픈 친구.
+TOBI: … Is er okay?
+= … Ist er okay?
+> … 걔 괜찮아?
+ELKE: Wer?
+> 누구?
+TOBI: Tu nich so. Du hast die Stullen jeschmiert wie für Jan. Mit der Jurke extra. Keener sonst will die Jurke.
+= Tu nicht so. Du hast die Stullen geschmiert wie für Jan. Mit der Gurke extra. Keiner sonst will die Gurke.
+> 모른 척하지 마. 얀한테 하듯이 빵을 발랐잖아. 오이 추가로. 다른 사람은 아무도 오이 안 먹어.
+ELKE: Er is nich okay, Tobi. Aber er is uff'm Weg. Mehr sach ick nich. Und du fragst nich weiter. Weil de ihn sonst nich mehr hassen kannst. Und dit muss er noch 'n bisschen.
+= Er ist nicht okay, Tobi. Aber er ist auf dem Weg. Mehr sage ich nicht. Und du fragst nicht weiter. Weil du ihn sonst nicht mehr hassen kannst. Und das muss er noch ein bisschen.
+> 괜찮진 않아, 토비. 근데 가는 중이야. 더는 말 안 해. 그리고 너도 더 묻지 마. 안 그러면 더는 걔를 미워할 수 없을 테니까. 그리고 그건 아직 좀 더 필요해.
+TOBI: … Dann hass ick ihn noch 'n bisschen. Aber mit Jurke.
+= … Dann hasse ich ihn noch ein bisschen. Aber mit Gurke.
+> … 그럼 좀 더 미워할게. 근데 오이 넣어서.
+
+# 장면 6-3 — KEMALS SPÄTI, MITTERNACHT
+KEMAL: Herr Jan. Heute drei Nachrichten? Sonst immer zwei.
+> 얀 씨. 오늘은 메시지 세 개? 늘 두 개였는데.
+JAN: Heute drei. «Ich bin noch da.» «Ich bin noch Journalist.» Und eine an jemanden, der nicht mehr lesen kann.
+> 오늘은 세 개요. «난 아직 여기 있어.» «난 아직 기자야.» 그리고 이제 읽을 수 없는 사람한테 하나.
+KEMAL: An wen?
+> 누구한테?
+JAN: An einen Freund. Marek. Er hatte eine Nummer, die es nicht mehr gibt. Ich schreibe sie trotzdem.
+> 친구한테요. 마렉. 이제 없어진 번호였어요. 그래도 써요.
+KEMAL: Wat schreibste?
+= Was schreibst du?
+> 뭐라고 쓰는데?
+JAN: «Es war nicht ich. Und ich finde den, der es war. Er hat einen Namen.»
+> «내가 아니었어. 그리고 그게 누군지 찾았어. 이름이 있어.»
+KEMAL: Die Nummer jibt's nich mehr. Die Nachricht kommt nich an.
+= Die Nummer gibt es nicht mehr. Die Nachricht kommt nicht an.
+> 그 번호 이제 없잖아. 메시지 안 가.
+JAN: Ich weiß. Aber ich wollte sie einmal abschicken. Nach zehn Jahren, in denen ich nur «Entschuldigung» schreiben wollte.
+> 알아요. 근데 한 번은 보내고 싶었어요. 10년 동안 «미안해»만 쓰고 싶었으니까.
+KEMAL: Denn lösch ick die heute nich. Die bleibt. Eene darf bleiben.
+= Dann lösche ich die heute nicht. Die bleibt. Eine darf bleiben.
+> 그럼 오늘은 그거 안 지울게. 남겨 둬. 하나는 남아도 돼.
+
+# 장면 7 — SANDMANN AM NÄCHSTEN MORGEN
+SANDMANN: Guten Morgen, Herr Kowalczyk. Sie sehen aus, als hätten Sie nicht geschlafen.
+> 좋은 아침이에요, 코발치크 씨. 잠 못 잔 얼굴이네요.
+JAN: Ich war bei meinem Vater. Auf dem Friedhof. Das tue ich manchmal. Zwischen den Jahren.
+> 아버지한테 갔었어요. 묘지에. 가끔 그래요. 연말연시엔.
+SANDMANN: Ich weiß. Ihr Firmentelefon war im Wedding. Von einundzwanzig bis dreiundzwanzig Uhr. Und eine Frau mit einem sehr alten Telefon war auch da.
+> 알아요. 당신 회사 폰이 베딩에 있었죠. 21시부터 23시까지. 그리고 아주 오래된 전화기를 가진 여자도 거기 있었고.
+JAN: Elke. Meine alte Wirtin. Sie bringt mir manchmal Stullen. Weil sie glaubt, ich esse nicht genug.
+> 엘케요. 제 옛 단골집 주인. 가끔 빵을 가져다줘요. 제가 잘 안 먹는다고 생각해서.
+SANDMANN: Rührend. — Herr Kasper ist heute nicht da. Er hat sich krankgemeldet. Wissen Sie, warum?
+> 감동적이네요. — 카스퍼 씨가 오늘 안 나왔어요. 병가를 냈어요. 이유 알아요?
+JAN: Er hat mir nichts gesagt. Wir reden nicht über Krankheiten.
+> 아무 말 안 했어요. 우린 병 얘기는 안 해요.
+SANDMANN: Schade. Ich rede gern über Krankheiten. Über die, die man sich einfängt, wenn man an fremde Safes geht.
+> 아쉽네요. 난 병 얘기 좋아하는데. 남의 금고에 손대면 걸리는 병 얘기.
+JAN: Ist etwas mit Ihrem Safe, Herr Sandmann?
+> 당신 금고에 무슨 일 있어요, 잔트만 씨?
+SANDMANN: Nein. Mein Safe ist in Ordnung. Ich habe nur das Gefühl, dass er gestern Abend gelüftet wurde. — Einen schönen Tag noch.
+> 아니요. 내 금고는 멀쩡해요. 그냥 어젯밤에 바람을 쐰 것 같은 기분이 들 뿐. — 좋은 하루 보내요.
+
+SANDMANN: Ach, und noch etwas. Dr. Thal möchte Sie an Silvester am Tisch. In der Villa. Nur der engste Kreis. Sie sind eingeladen.
+> 아, 그리고 하나 더. 탈 박사님이 섣달그믐에 당신을 식탁에 앉히고 싶어 해요. 저택에서. 가장 가까운 사람들만. 초대받으셨어요.
+JAN: Der engste Kreis. Nach drei Wochen?
+> 가장 가까운 사람들. 3주 만에요?
+SANDMANN: Dr. Thal entscheidet schnell. Ich entscheide langsam. Silvester werden wir beide entschieden haben.
+> 탈 박사님은 빨리 정해요. 난 천천히 정하고. 섣달그믐이면 둘 다 정해 놨겠죠.
+
+# 장면 7-2 — HELENE ERZÄHLT VON 2016
+MIRA: Helene, ich war 2016 auf dem Gymnasium. Ich weiß nur, dass es einen Artikel gab und einen Toten. Was war mit Jan danach?
+> 헬레네, 2016년에 전 고등학생이었어요. 기사가 있었고 사람이 죽었다는 것만 알아요. 그다음 얀은 어땠어요?
+HELENE: Er hat drei Monate nicht geschrieben. Er ist jeden Morgen um neun gekommen, hat sich an seinen Tisch gesetzt und auf den Bildschirm gestarrt. Um sechs ist er gegangen.
+> 석 달 동안 안 썼어. 매일 아침 아홉 시에 와서 자리에 앉아 화면만 봤어. 여섯 시에 갔고.
+SWETA: Und Sie haben ihn gelassen?
+> 그리고 그냥 두셨어요?
+HELENE: Ich habe ihm jeden Tag einen Kaffee hingestellt. Mit Hafermilch, obwohl es die damals kaum gab. Am vierundneunzigsten Tag hat er ihn getrunken. Und dann hat er gesagt: «Ich schreibe nie wieder einen Namen, den ich nicht schützen kann.»
+> 매일 커피 한 잔을 갖다 놨어. 그땐 거의 없던 귀리 우유 넣어서. 94일째 되는 날 그걸 마셨어. 그러고 말했지: «지킬 수 없는 이름은 다시는 안 써요.»
+MIRA: Deshalb die Gedächtnisprotokolle. Deshalb «Was wir nicht wissen». Deshalb Katrin bei jedem Satz.
+> 그래서 기억 기록이구나. 그래서 «우리가 모르는 것». 그래서 문장마다 카트린.
+HELENE: Alles, was Spreewerk heute ist, kommt aus diesem Satz. Aus einer Schuld, die nicht seine war.
+> 지금의 Spreewerk는 전부 그 문장에서 나왔어. 그의 것도 아니었던 죄책감에서.
+SWETA: Dann hat Sandmann uns ungewollt beigebracht, wie man richtig arbeitet.
+> 그럼 잔트만이 본의 아니게 우리한테 제대로 일하는 법을 가르친 거네요.
+HELENE: Sag das nie in Jans Gegenwart. Er würde dich nicht schlagen. Aber er würde drei Tage nicht mit dir reden.
+> 그 말 얀 앞에선 절대 하지 마. 널 때리진 않겠지만. 사흘은 말을 안 할 거야.
+MIRA: Und wenn er zurückkommt? Wird er anders sein?
+> 그가 돌아오면요? 달라져 있을까요?
+HELENE: Ich hoffe, er wird leichter sein. Zehn Jahre ist er mit einem Toten auf dem Rücken herumgelaufen. Vielleicht kann er jetzt endlich gerade gehen.
+> 더 가벼워졌으면 좋겠어. 10년 동안 죽은 사람을 등에 지고 다녔으니까. 이제야 똑바로 걸을 수 있을지도 몰라.
+
+# 장면 7-3 — DER HAFTBEFEHL
+DANA: Ich will einen Haftbefehl. Heute. Für Sandmann. Verdunkelungsgefahr. Er weiß, dass sein Safe offen war.
+> 체포 영장을 원해요. 오늘. 잔트만에 대해. 증거 인멸 우려. 자기 금고가 열렸던 걸 알아요.
+KATRIN: Und die Staatsanwaltschaft?
+> 검찰은?
+DANA: Sagt: Der Ordner ist von 2016. Mareks Tod wurde damals als Arbeitsunfall eingestellt. Für Mord braucht man mehr als «Problem erledigt». Und die Zielliste? Das muss die Bundesanwaltschaft prüfen. Das dauert.
+> 그러더군요: 서류철은 2016년 거다. 마렉의 죽음은 당시 산재로 종결됐다. 살인이 되려면 «문제 해결» 이상이 필요하다. 그리고 목표물 목록? 그건 연방검찰이 검토해야 한다. 시간이 걸린다고.
+SWETA: Wie lange?
+> 얼마나요?
+DANA: Tage. Vielleicht eine Woche.
+> 며칠. 어쩌면 일주일.
+HELENE: Und Silvester ist in drei Tagen. Und Jan sitzt dann am engsten Tisch.
+> 그리고 섣달그믐은 사흘 뒤야. 그리고 얀은 그때 가장 가까운 식탁에 앉아 있겠지.
+DANA: Deshalb will ich ihn vorher rausholen.
+> 그래서 그 전에 빼내고 싶어요.
+KATRIN: Das entscheidet er. Nicht wir. So haben wir es am ersten Abend vereinbart.
+> 그건 그가 정해. 우리가 아니라. 첫날 밤에 그렇게 합의했잖아.
+
+# 엔딩 — DIE LETZTE SEITE IM ORDNER
+DANA: Helene. Sweta. Katrin. Ich habe den Ordner von 2016 heute Nacht mit den Kollegen von der Spurensicherung gelesen. Ganz.
+> 헬레네. 스베타. 카트린. 어젯밤 감식반 동료들이랑 2016년 서류철을 읽었어요. 전부.
+HELENE: Und?
+> 그래서?
+DANA: Hinten, eingeheftet, ist eine Seite, die nicht von 2016 ist. Sie ist vom Sommer 2028. Eine Liste. «Ziele Herbst.» Bahnkabel Spandau. Generatorlager Lichtenberg. Ein Umspannwerk. Und: «Spreewerk Redaktion».
+> 뒤쪽에 철해진 한 장이 2016년 게 아니에요. 2028년 여름 거예요. 목록. «가을 목표.» 슈판다우 철도 케이블. 리히텐베르크 발전기 창고. 변전소 하나. 그리고: «Spreewerk 편집국».
+SWETA: Die Ziele aus Teil sechs. Die Wegwerfagenten.
+> 6부 목표물이에요. 일회용 요원들.
+MIRA: Lenz hat gesagt: Er hat nur Informationen geliefert. Die Ziele hat ein Deutscher aus Grunewald ausgewählt.
+> 렌츠가 그랬죠: 자긴 정보만 댔다고. 목표물은 그루네발트의 한 독일인이 골랐다고.
+DANA: Die Liste ist in derselben Handschrift wie «Problem erledigt». Und unten steht ein Kürzel. «G. S.»
+> 목록은 «문제 해결»과 같은 필체예요. 그리고 아래 이니셜이 있어요. «G. S.»
+KATRIN: Der Deutsche aus Grunewald.
+> 그루네발트의 독일인.
+HELENE: Der Mann, der Marek verraten hat, hat auch die Ziele ausgesucht, bei denen Kevin fast Feuer gelegt hätte.
+> 마렉을 넘긴 그 남자가 케빈이 불을 지를 뻔했던 목표물도 골랐네.
+DANA: Und er sitzt jeden Tag zwei Türen neben Jan.
+> 그리고 그는 매일 얀 사무실 두 칸 옆에 앉아 있어요.
+SWETA: Und er weiß, dass sein Safe gelüftet wurde.
+> 그리고 자기 금고가 바람을 쐬었다는 걸 알아요.
