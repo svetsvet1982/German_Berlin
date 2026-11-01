@@ -4,13 +4,13 @@
 @sub 호르스트가 문을 안 열었다 · 쓰러진 단골, 그리고 냉장고의 방문 기록
 @info 대사 150턴 · 난이도 B2+ · 배경: 2028년 5월, 엘케의 선술집, 베딩 Malplaquetstraße의 호르스트 집, Spreewerk 편집국
 @cast JAN | 얀 코발치크 (45) · 탐사팀장
-@cast ELKE | 엘케 (58) · 선술집 주인 (베를린 사투리)
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
 @cast MIRA | 미라 아이든 (31) · 데이터 기자
 @cast SWETA | 스베타 모로소바 (42) · 기자
 @cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
 @cast HELENE | 헬레네 브란트 (59) · 편집장
 @cast LEON | 레온 피셔 (24) · 기자
-@cast BÄRBEL | 배르벨 크뤼거 (56) · 방문간병 «Pflege daheim Wedding» 대표 (베를린 사투리)
+@cast BÄRBEL | 배르벨 크란츠 (56) · 방문간병 «Pflege daheim Wedding» 대표 (베를린 사투리)
 @cast NESRIN | 네스린 악소이 (39) · 같은 업체 요양사
 @cast HORST | 호르스트 렘케 (84) · 엘케의 오랜 단골, 혼자 사는 연금생활자
 @cast SANITÄTER | 카이 (33) · 응급구조사
@@ -24,9 +24,9 @@ BÄRBEL: Danke für die Suppe. Wir ham seit heute Mittag nüscht jejessen. Erst 
 > 수프 고마워요. 점심부터 아무것도 못 먹었어요. 먼저 방문 순회, 그다음 청구 정리, 그다음엔 여기 올 엄두가 안 났어요.
 JAN: Sie müssen sich nicht trauen. Sie sind hier. Erzählen Sie. Wer sind Sie, und was ist passiert?
 > 엄두 낼 필요 없어요. 여기 오셨잖아요. 말씀해 보세요. 누구시고, 무슨 일이 있었어요?
-BÄRBEL: Bärbel Krüger. Ick hab vor fuffzehn Jahren «Pflege daheim Wedding» jejründet. Und dit is Nesrin, meine beste Pflegerin. Wir sind zu zweet, plus drei Teilzeitkräfte und een Transporter.
-= Bärbel Krüger. Ich habe vor fünfzehn Jahren «Pflege daheim Wedding» gegründet. Und das ist Nesrin, meine beste Pflegerin. Wir sind zu zweit, plus drei Teilzeitkräfte und ein Transporter.
-> 배르벨 크뤼거예요. 15년 전에 «Pflege daheim Wedding»을 세웠어요. 그리고 이쪽은 네스린, 제일 잘하는 요양사예요. 우리 둘에, 시간제 셋, 승합차 하나.
+BÄRBEL: Bärbel Kranz. Ick hab vor fuffzehn Jahren «Pflege daheim Wedding» jejründet. Und dit is Nesrin, meine beste Pflegerin. Wir sind zu zweet, plus drei Teilzeitkräfte und een Transporter.
+= Bärbel Kranz. Ich habe vor fünfzehn Jahren «Pflege daheim Wedding» gegründet. Und das ist Nesrin, meine beste Pflegerin. Wir sind zu zweit, plus drei Teilzeitkräfte und ein Transporter.
+> 배르벨 크란츠예요. 15년 전에 «Pflege daheim Wedding»을 세웠어요. 그리고 이쪽은 네스린, 제일 잘하는 요양사예요. 우리 둘에, 시간제 셋, 승합차 하나.
 NESRIN: Seit Februar steht im Internet, dass wir alte Menschen quälen. Bewertungen, Posts, ein Foto von unserem Transporter mit dem Satz «Hier fährt die Gewalt».
 > 2월부터 인터넷에 우리가 노인을 학대한다고 돼 있어요. 리뷰, 게시물, 우리 승합차 사진에 «여기 폭력이 달린다»라는 문장까지.
 SWETA: Darf ich die Bewertungen sehen? … Das sind fast alles Konten ohne Vorgeschichte. Gleiche Satzlänge, gleiche Uhrzeit. Ich kenne dieses Muster.
@@ -230,8 +230,8 @@ NESRIN: Seit Sonntag… Ich war sechs Jahre jeden Morgen bei ihm. Er hat mir jed
 TOBI: Dit hätt er nie verjessen, dass Se det nie jesacht ham.
 = Das hätte er nie vergessen, dass Sie das nie gesagt haben.
 > 그거 한 번도 말 안 하신 거, 그분은 절대 안 잊었을 거예요.
-JAN: Frau Krüger, ich muss Sie etwas fragen. Ganz offen. Was bringt es Ihnen, wenn wir über Sonnenhof berichten?
-> 크뤼거 씨, 하나 여쭤봐야 해요. 아주 솔직하게. 우리가 조넨호프를 보도하면 당신한테 뭐가 좋아요?
+JAN: Frau Kranz, ich muss Sie etwas fragen. Ganz offen. Was bringt es Ihnen, wenn wir über Sonnenhof berichten?
+> 크란츠 씨, 하나 여쭤봐야 해요. 아주 솔직하게. 우리가 조넨호프를 보도하면 당신한테 뭐가 좋아요?
 BÄRBEL: Wat et mir bringt? Ehrlich? Vielleicht krieg ick meine Patienten zurück. Vielleicht muss ick dann im Herbst nich zumachen. Dit is die Wahrheit.
 = Was es mir bringt? Ehrlich? Vielleicht kriege ich meine Patienten zurück. Vielleicht muss ich dann im Herbst nicht zumachen. Das ist die Wahrheit.
 > 나한테 뭐가 좋냐고요? 솔직히? 어쩌면 환자들을 되찾겠죠. 어쩌면 가을에 문 안 닫아도 되겠죠. 그게 진실이에요.
@@ -259,8 +259,8 @@ SWETA: «Die Kleinen müssen weg, damit die Großen die Preise machen.» Lea hat
 BÄRBEL: Den Satz hätt ick ooch schreiben können. Nur mit mehr Schimpfwörtern.
 = Den Satz hätte ich auch schreiben können. Nur mit mehr Schimpfwörtern.
 > 그 문장 나도 쓸 수 있었겠네요. 욕만 더 넣어서.
-JAN: Gehen Sie nach Hause, Frau Krüger. Schlafen Sie. Morgen um sieben haben Sie zwölf Patienten. Die brauchen Sie ausgeschlafen.
-> 집에 가세요, 크뤼거 씨. 주무세요. 내일 일곱 시에 환자 열둘이 있잖아요. 그분들은 푹 잔 당신이 필요해요.
+JAN: Gehen Sie nach Hause, Frau Kranz. Schlafen Sie. Morgen um sieben haben Sie zwölf Patienten. Die brauchen Sie ausgeschlafen.
+> 집에 가세요, 크란츠 씨. 주무세요. 내일 일곱 시에 환자 열둘이 있잖아요. 그분들은 푹 잔 당신이 필요해요.
 BÄRBEL: Zwölf. Und morjen vielleicht dreizehn. Wenn Horst zurückwill.
 = Zwölf. Und morgen vielleicht dreizehn. Wenn Horst zurückwill.
 > 열둘. 그리고 내일은 어쩌면 열셋. 호르스트가 돌아오고 싶다면.
