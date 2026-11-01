@@ -1,0 +1,356 @@
+@part 7
+@ep 4
+@title Cum-Cum
+@sub 쿰쿰 · 배당일 앞뒤로 움직이는 주식
+@info 대사 150턴 · 난이도 C1 · 배경: 2028년 12월, 미테의 Thal & Partner 사무실, 프랑크푸르트행 ICE와 프랑크푸르트의 카페, 베딩 묘지, Spreewerk 편집국
+@cast JAN | 얀 코발치크 (45) · Thal & Partner '위기 커뮤니케이션' 자문역 (위장)
+@cast KASPER | 루벤 카스퍼 (43) · Thal & Partner 실무 책임자 (1부)
+@cast SANDMANN | 그레고어 잔트만 (58) · 서클 보안 책임자
+@cast THAL | 막시밀리안 탈 박사 (65) · Thal & Partner 대표
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast ROTHE | 한나 로테 (58) · 프랑크푸르트 전직 은행원, 배당 거래 전문가
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast LEON | 레온 피셔 (24) · 기자
+@cast VOLLMER | 헨드릭 폴머 (61) · 한 연정 파트너 정당의 주 재무 담당
+@note ※ 얀의 첫 '자문 업무'는 서클 펀드의 배당 거래 구조를 '언론 대응용'으로 설명하는 자료를 만드는 것이다. 배당일 앞뒤로 주식을 넘겨 원천징수세를 피하는 '쿰쿰(Cum-Cum)' 구조. 얀은 몰래 녹음하거나 문서를 훔치지 않고, 자기가 맡은 업무 범위에서 본 것을 기억해 기록한다. 바깥 팀은 프랑크푸르트의 전직 은행원에게 구조를 배운다. 등장 인물·회사·은행 가상, 제도 설명은 극 중 단순화.
+@note ※ 표현 초점: die Dividende · die Kapitalertragsteuer · die Steuerhinterziehung · die Wertpapierleihe · die Rückforderung · der Dividendenstichtag
+@next 7부 5화 — «Koalitionspoker»(연정 포커) — 새 연정의 예산 협상에서 '공공주택 기금'과 '템펠호프 개발 조항'이 막판에 바뀐다.
+
+# 콜드 오픈 — MONTAG, NEUN UHR
+KASPER: Herr Kowalczyk. Willkommen bei Thal und Partner. Ruben Kasper. Wir kennen uns.
+> 코발치크 씨. 탈 & 파트너에 오신 걸 환영합니다. 루벤 카스퍼. 우리 아는 사이죠.
+JAN: Aus Teil eins. Spreeblick. Sie haben meinen Fotografen enttarnt.
+> 1부에서. 슈프레블릭. 제 사진 기자 정체를 밝혀냈죠.
+KASPER: Über eine Bildunterschrift. «Foto: Tobias Rehberg / Spreewerk.» Zweihundertvierzig Treffer. Sie hätten ihm einen anderen Namen geben sollen.
+> 사진 출처 표기로요. «사진: 토비아스 레베르크 / Spreewerk.» 검색 결과 240건. 다른 이름을 줬어야죠.
+JAN: Wir haben daraus gelernt.
+> 거기서 배웠어요.
+KASPER: Ich auch. Deshalb hat Gregor Ihr Telefon schon am Freitag geprüft. Neben der Heizung. Es war erstaunlich leer. Für einen Journalisten.
+> 저도요. 그래서 그레고어가 금요일에 벌써 당신 휴대폰을 점검했죠. 난방기 옆에서. 놀랄 만큼 텅 비어 있더군요. 기자치곤.
+JAN: Ich habe es nach der Recherche in Teil sechs neu bekommen. Von der Polizei. Personenschutz.
+> 6부 취재 뒤에 새로 받은 거예요. 경찰한테서. 신변 보호.
+KASPER: Das wissen wir. Deshalb haben wir Ihnen ein neues gegeben. Hier. Ein Firmentelefon. Alle Ihre Gespräche laufen ab heute darüber.
+> 알죠. 그래서 새 걸 드리는 거예요. 여기. 회사 휴대폰. 오늘부터 모든 통화는 이걸로 하세요.
+JAN: Und das alte?
+> 그럼 옛날 건요?
+KASPER: Das geben Sie Gregor. Er bewahrt es auf. Sicher.
+> 그레고어한테 주세요. 보관해 줄 거예요. 안전하게.
+SANDMANN: Danke, Herr Kowalczyk. Sie bekommen es zurück, wenn Sie gehen. Falls Sie gehen.
+> 고마워요, 코발치크 씨. 나갈 때 돌려받을 거예요. 나간다면요.
+
+# 장면 1 — DIE ERSTE AUFGABE
+KASPER: Ihre erste Aufgabe. Ein Fonds, den wir beraten. «Havel Dividend Opportunities». Im Frühjahr wird es Fragen geben. Von Journalisten. Vielleicht von Ihren ehemaligen Kollegen. Wir brauchen Antworten. Bevor jemand fragt.
+> 첫 업무. 우리가 자문하는 펀드. «하펠 배당 기회 펀드». 봄에 질문이 있을 거예요. 기자들한테서. 어쩌면 당신 옛 동료들한테서. 답이 필요해요. 누가 묻기 전에.
+JAN: Welche Fragen?
+> 어떤 질문이요?
+KASPER: Fragen zu Wertpapierleihen rund um den Dividendenstichtag. Sie werden das Wort «Cum-Cum» hören. Ein hässliches Wort. Wir sagen lieber «Dividendenarbitrage».
+> 배당 기준일 전후의 증권 대차에 대한 질문. «쿰쿰»이라는 말을 듣게 될 거예요. 추한 말이죠. 우린 «배당 차익 거래»라고 하는 걸 좋아해요.
+JAN: Und was soll ich tun?
+> 그럼 전 뭘 해야 하죠?
+KASPER: Einen Fragen-und-Antworten-Katalog. Zwanzig Fragen, die ein guter Journalist stellen würde. Und zwanzig Antworten, die ihn beruhigen. Niemand kann das besser als Sie. Sie haben sechs Teile lang die Fragen gestellt.
+> 질의응답 목록. 좋은 기자가 할 법한 질문 스무 개. 그리고 그 기자를 안심시킬 답 스무 개. 당신보다 잘할 사람 없죠. 여섯 부 동안 질문을 해 왔으니까.
+JAN: Und dafür brauche ich die Unterlagen. Die Transaktionen. Sonst schreibe ich Antworten, die nicht stimmen.
+> 그러려면 자료가 필요해요. 거래 내역. 안 그러면 맞지 않는 답을 쓰게 되죠.
+KASPER: Sie bekommen eine Übersicht. Kein Original. Hier, im Besprechungsraum. Nicht zum Mitnehmen. Gregor sitzt dabei.
+> 개요를 받을 거예요. 원본 말고. 여기, 회의실에서. 가지고 나가는 건 안 돼요. 그레고어가 같이 앉아 있을 거고요.
+JAN: Wie bei einer Klausur.
+> 시험 보는 것처럼요.
+KASPER: Wie bei einer Klausur. Und Sie haben, wie man hört, ein gutes Gedächtnis.
+> 시험 보는 것처럼요. 그리고 듣기로 기억력이 좋으시다죠.
+
+# 장면 1-2 — DAS FOTO IM FLUR
+KASPER: Ihr Büro ist am Ende des Flurs. Mit Blick auf den Gendarmenmarkt. Das hatte vor Ihnen ein Mann, der jetzt im Bundestag sitzt. Ein guter Platz für Karrieren.
+> 당신 사무실은 복도 끝이에요. 잔다르멘마르크트가 보이는. 당신 전엔 지금 연방의회에 앉아 있는 남자가 썼어요. 경력에 좋은 자리죠.
+JAN: Lenz?
+> 렌츠요?
+KASPER: Lenz war im Frankfurter Büro. Nicht hier. Ein anderer. Sie werden ihn bei einem Abendessen kennenlernen.
+> 렌츠는 프랑크푸르트 사무실이었어요. 여기 아니고. 다른 사람이에요. 저녁 식사 때 만나게 될 거예요.
+JAN: … Und die Fotos an der Wand?
+> … 그럼 벽에 걸린 사진들은요?
+KASPER: Unsere Geschichte. Zwanzig Jahre Thal und Partner. Hier: Dr. Thal mit einem Bundesminister. Hier: mit einem Botschafter. Hier: bei einer Gala für Pressefreiheit.
+> 우리 역사예요. 탈 & 파트너 20년. 여기: 탈 박사님과 연방 장관. 여기: 대사와. 여기: 언론 자유를 위한 갈라에서.
+JAN: Eine Gala für Pressefreiheit. Wann war das?
+> 언론 자유를 위한 갈라. 그게 언제였어요?
+KASPER: Vor sieben Jahren. Eine Benefizveranstaltung. Für die Gründung eines neuen Mediums. Ein gemeinnütziges. Dr. Thal war einer der ersten Spender. Anonym, natürlich.
+> 7년 전이요. 자선 행사. 새 매체 설립을 위한. 비영리. 탈 박사님이 첫 기부자 중 하나였죠. 물론 익명으로.
+JAN: Und der Mann neben ihm? Mit der Fliege?
+> 그럼 그 옆 남자는요? 나비넥타이 맨?
+KASPER: Ein Professor. Ein alter Freund von Dr. Thal. Aus Studienzeiten. Sie kennen ihn vielleicht.
+> 교수예요. 탈 박사님의 오랜 친구. 학창 시절부터. 아실지도 몰라요.
+JAN: … Ich kenne ihn. Er sitzt im Stiftungsrat meiner ehemaligen Redaktion.
+> … 알아요. 제 옛 편집국 재단 이사회에 있죠.
+KASPER: Wie klein die Welt ist, nicht wahr? Ihr Büro, Herr Kowalczyk. Kaffee gibt es in der Küche. Hafermilch auch.
+> 세상 참 좁죠? 당신 사무실이에요, 코발치크 씨. 커피는 탕비실에. 귀리 우유도 있어요.
+
+# 장면 2 — IM ZUG NACH FRANKFURT
+SWETA: Mira. Wach auf. Wir sind in Kassel.
+> 미라. 일어나요. 카셀이에요.
+MIRA: Ich habe nicht geschlafen. Ich habe gelesen. Cum-Cum, Cum-Ex, Wertpapierleihe. Ich verstehe jedes Wort einzeln. Aber nicht die Sätze.
+> 안 잤어요. 읽고 있었어요. 쿰쿰, 쿰엑스, 증권 대차. 단어 하나하나는 이해해요. 근데 문장은 아니에요.
+SWETA: Deshalb fahren wir zu ihr. Helene hat gesagt, sie ist die Beste. Sie hat zwanzig Jahre in einer Bank gearbeitet, die genau so etwas gemacht hat. Und dann hat sie ausgesagt.
+> 그래서 그분한테 가는 거예요. 헬레네 말로는 최고래요. 바로 그런 걸 하던 은행에서 20년 일했대요. 그리고 증언했고.
+MIRA: Gegen ihre eigene Bank?
+> 자기 은행에 맞서서요?
+SWETA: Gegen ihre eigene Bank. Und danach hat sie nie wieder einen Job in Frankfurt bekommen. Jetzt gibt sie Kurse an einer Volkshochschule. «Steuern für Anfänger.»
+> 자기 은행에 맞서서요. 그리고 그 뒤로 프랑크푸르트에서 다시는 일자리를 못 얻었대요. 지금은 시민 대학에서 강의해요. «초보자를 위한 세금.»
+MIRA: Und Jan? Was macht er gerade?
+> 그럼 얀은요? 지금 뭐 해요?
+SWETA: Er sitzt in einem Besprechungsraum in Mitte. Mit Sandmann. Und schreibt Antworten auf Fragen, die wir in drei Monaten stellen werden.
+> 미테의 회의실에 앉아 있어요. 잔트만이랑. 그리고 우리가 석 달 뒤에 할 질문들에 대한 답을 쓰고 있죠.
+MIRA: Das ist absurd.
+> 말도 안 돼요.
+SWETA: Das ist Journalismus von der anderen Seite. Ich habe ihn zwanzig Jahre gemacht.
+> 그게 반대편에서 하는 저널리즘이에요. 제가 20년 했죠.
+
+# 장면 3 — HANNA ROTHE ERKLÄRT
+ROTHE: Setzen Sie sich. Ich habe einen Apfelkuchen bestellt. Steuern versteht man besser mit Zucker.
+> 앉으세요. 사과 케이크 시켰어요. 세금은 설탕이 있어야 더 잘 이해돼요.
+MIRA: Frau Rothe, erklären Sie uns Cum-Cum. Als wären wir Ihre Volkshochschulklasse.
+> 로테 씨, 쿰쿰을 설명해 주세요. 우리가 시민 대학 수강생인 것처럼.
+ROTHE: Gut. Ein ausländischer Investor besitzt deutsche Aktien. Wenn eine deutsche Firma eine Dividende zahlt, behält der Staat einen Teil als Kapitalertragsteuer ein. Ausländer bekommen diese Steuer in der Regel nicht zurück. Deutsche Banken schon. Sie können sie mit ihrer eigenen Steuer verrechnen.
+> 좋아요. 외국 투자자가 독일 주식을 갖고 있어요. 독일 회사가 배당을 주면 국가가 일부를 자본 소득세로 원천징수해요. 외국인은 원칙적으로 그 세금을 못 돌려받아요. 독일 은행은 돼요. 자기 세금과 상계할 수 있거든요.
+SWETA: Und?
+> 그래서요?
+ROTHE: Also leiht der Ausländer seine Aktien kurz vor dem Dividendenstichtag einer deutschen Bank. Die Bank kassiert die Dividende und lässt sich die Steuer anrechnen. Nach dem Stichtag gehen die Aktien zurück. Und der Steuervorteil wird geteilt. Zwischen Bank und Investor.
+> 그래서 외국인이 배당 기준일 직전에 독일 은행한테 주식을 빌려줘요. 은행은 배당을 받고 세금을 공제받죠. 기준일이 지나면 주식은 돌아가고. 그리고 세금 혜택은 나눠요. 은행과 투자자가.
+MIRA: Und der Staat verliert die Steuer.
+> 그리고 국가는 세금을 잃고요.
+ROTHE: Der Staat verliert Milliarden. Über die Jahre. Die Gerichte haben das inzwischen klar als Gestaltungsmissbrauch gesehen. Die Finanzämter fordern zurück. Aber nur, wenn sie wissen, wo sie suchen müssen.
+> 국가는 수십억을 잃어요. 수년에 걸쳐. 법원은 그사이 그걸 명백한 조세 회피 남용으로 봤어요. 세무서는 환수하고요. 근데 어디를 찾아야 할지 알 때만.
+SWETA: Und wie erkennt man es? Von außen?
+> 그럼 밖에서 어떻게 알아봐요?
+ROTHE: An drei Dingen. Erstens: Aktien wechseln wenige Tage vor dem Stichtag den Besitzer und kommen wenige Tage danach zurück. Zweitens: Die Bank verdient fast nichts an der Leihe selbst. Drittens: Es gibt eine Gegenpartei, die man nicht kennt. Eine Treuhand, eine Kommanditgesellschaft, ein Name ohne Gesicht.
+> 세 가지로요. 첫째: 주식이 기준일 며칠 전에 주인이 바뀌었다가 며칠 뒤 돌아온다. 둘째: 은행이 대차 자체로는 거의 아무것도 안 번다. 셋째: 모르는 거래 상대가 있다. 신탁, 합자회사, 얼굴 없는 이름.
+MIRA: Ein Name ohne Gesicht. Wie in Teil eins. Wie in jedem Teil.
+> 얼굴 없는 이름. 1부처럼. 모든 부처럼.
+ROTHE: Wie in jedem Geschäft, das das Licht scheut.
+> 빛을 꺼리는 모든 사업처럼요.
+
+# 장면 3-2 — WAS ES ROTHE GEKOSTET HAT
+SWETA: Frau Rothe, darf ich fragen, wie es war? Als Sie gegen Ihre Bank ausgesagt haben?
+> 로테 씨, 어땠는지 여쭤봐도 될까요? 자기 은행에 맞서 증언했을 때요?
+ROTHE: Am ersten Tag haben mich alle angerufen. Kollegen, Freunde, sogar mein Exmann. «Hanna, bist du verrückt?» Am zweiten Tag hat niemand mehr angerufen.
+> 첫날엔 다들 전화했어요. 동료들, 친구들, 심지어 전남편까지. «한나, 미쳤어?» 둘째 날엔 아무도 안 했죠.
+MIRA: Niemand?
+> 아무도요?
+ROTHE: Niemand aus der Bank. Und nach einem Jahr habe ich verstanden, warum. Nicht, weil sie mich hassten. Sondern weil sie Angst hatten, dass man sie mit mir sieht.
+> 은행 사람은 아무도. 그리고 1년 뒤에 이유를 알았어요. 날 미워해서가 아니라. 나랑 같이 있는 걸 누가 볼까 봐 두려웠던 거예요.
+SWETA: Das kenne ich. Aus Moskau.
+> 그거 알아요. 모스크바에서.
+ROTHE: Dann wissen Sie, was ich jetzt sage. Die Menschen, die Sie da untersuchen, haben keine Angst vor dem Gesetz. Sie haben Angst davor, allein zu sein. Wer die Gruppe verlässt, wird nicht verfolgt. Er wird vergessen.
+> 그럼 제가 지금 하는 말을 아시겠네요. 당신들이 조사하는 사람들은 법을 두려워하지 않아요. 혼자가 되는 걸 두려워하죠. 무리를 떠나는 사람은 쫓기지 않아요. 잊히죠.
+MIRA: Und was sollen wir damit machen?
+> 그걸로 우린 뭘 해야 해요?
+ROTHE: Finden Sie den, der schon vergessen wurde. Einen, der früher am Tisch saß und jetzt nicht mehr eingeladen wird. Der redet. Weil er nichts mehr zu verlieren hat außer seiner Wut.
+> 이미 잊힌 사람을 찾으세요. 예전엔 식탁에 앉았는데 지금은 더는 초대받지 못하는 사람. 그 사람이 말해요. 분노 말고는 잃을 게 없으니까.
+SWETA: Haase.
+> 하제.
+ROTHE: Ich kenne keinen Haase. Aber wenn er nicht mehr eingeladen wird, rufen Sie ihn an.
+> 하제는 몰라요. 근데 그 사람이 더는 초대받지 못하면 전화하세요.
+MIRA: Und Sie? Bereuen Sie es?
+> 그럼 로테 씨는요? 후회하세요?
+ROTHE: Jeden Montag, wenn ich die Miete zahle. Und keinen einzigen Sonntag, wenn ich in den Spiegel schaue.
+> 월세 낼 때 월요일마다요. 그리고 거울 볼 때 일요일엔 단 한 번도 안 해요.
+
+# 장면 4 — DER BESPRECHUNGSRAUM
+SANDMANN: Sie haben zwei Stunden, Herr Kowalczyk. Lesen Sie. Schreiben Sie Ihre Fragen. Ich lese Zeitung.
+> 두 시간 있어요, 코발치크 씨. 읽으세요. 질문을 쓰세요. 난 신문 볼게요.
+JAN: Welche Zeitung?
+> 무슨 신문이요?
+SANDMANN: Ihre ehemalige. Spreewerk. Ein Artikel über Parteispenden. Von einem Leon Fischer. Recht ordentlich.
+> 당신 옛 신문. Spreewerk. 정당 후원금 기사. 레온 피셔라는 사람 거. 꽤 괜찮네요.
+JAN: Leon ist gut.
+> 레온은 잘해요.
+SANDMANN: Er fragt nach kleinen Spenden. Knapp unter der Grenze. Wer hat ihm diese Idee gegeben?
+> 소액 후원금을 묻네요. 기준선 바로 아래. 누가 그 아이디어를 줬을까요?
+JAN: Er ist gründlich. Ideen hat er selbst.
+> 철저한 사람이에요. 아이디어는 스스로 내요.
+SANDMANN: Natürlich. Lesen Sie.
+> 물론이죠. 읽으세요.
+JAN: … Havel Dividend Opportunities. Luxemburg. Investoren nicht genannt. Wertpapierleihen mit einem Bankhaus Albrecht und Söhne. Jedes Jahr im April und Mai. Rund um die Hauptversammlungen der großen DAX-Konzerne.
+> … 하펠 배당 기회 펀드. 룩셈부르크. 투자자 미공개. 알브레히트 & 아들들 은행과 증권 대차. 매년 4월과 5월. 대형 DAX 기업 주주총회 전후.
+JAN: … Ausleihe drei Tage vor dem Stichtag. Rückgabe vier Tage danach. Leihgebühr: null Komma null zwei Prozent. Fast nichts.
+> … 기준일 사흘 전 대여. 나흘 뒤 반환. 대여 수수료: 0.02퍼센트. 거의 아무것도.
+JAN: … Und eine Gegenpartei auf der letzten Seite. «Ausgleichszahlungen an Treuhandkonto VFH Beteiligungs KG, Berlin.»
+> … 그리고 마지막 쪽에 거래 상대. «VFH 지분 합자회사 신탁 계좌로 조정 지급, 베를린.»
+SANDMANN: Sind Sie fertig, Herr Kowalczyk? Sie lesen die letzte Seite zum dritten Mal.
+> 다 하셨어요, 코발치크 씨? 마지막 쪽을 세 번째 읽고 계시네요.
+JAN: Ich lese langsam. Ich bin Journalist. Ehemaliger.
+> 천천히 읽어요. 기자니까요. 전직.
+SANDMANN: Ein Journalist liest einmal. Ein Spion liest dreimal.
+> 기자는 한 번 읽어요. 스파이는 세 번 읽죠.
+JAN: Und ein Mann, der keine Fehler machen will, liest viermal. Darf ich?
+> 그리고 실수하고 싶지 않은 남자는 네 번 읽죠. 그래도 될까요?
+
+# 장면 5 — WAS JAN SCHREIBT
+KASPER: Und? Haben Sie Ihre zwanzig Fragen?
+> 그래서요? 질문 스무 개 있어요?
+JAN: Neunzehn. Die zwanzigste ist zu gefährlich.
+> 열아홉 개. 스무 번째는 너무 위험해요.
+KASPER: Welche?
+> 뭔데요?
+JAN: «Wer steht hinter der VFH Beteiligungs KG?» Wenn ein Journalist das fragt, gibt es keine beruhigende Antwort. Nur eine ehrliche. Oder keine.
+> «VFH 지분 합자회사 뒤엔 누가 있나?» 기자가 그걸 물으면 안심시킬 답이 없어요. 정직한 답만 있죠. 아니면 아예 없거나.
+KASPER: Und was empfehlen Sie?
+> 그럼 뭘 권하세요?
+JAN: Dafür zu sorgen, dass kein Journalist bis zur letzten Seite kommt. Oder dass auf der letzten Seite ein anderer Name steht.
+> 어떤 기자도 마지막 쪽까지 오지 못하게 하는 것. 아니면 마지막 쪽에 다른 이름이 있게 하는 것.
+KASPER: … Sie sind gut, Herr Kowalczyk. Sie sind sehr gut.
+> … 잘하시네요, 코발치크 씨. 아주 잘하세요.
+THAL: Ruben hat recht. Das ist genau der Rat, für den ich Sie geholt habe. Nicht, wie man Fragen beantwortet. Sondern wie man verhindert, dass sie gestellt werden.
+> 루벤 말이 맞아요. 바로 그 조언 때문에 당신을 데려온 거예요. 질문에 어떻게 답하느냐가 아니라. 질문이 나오지 않게 하는 법.
+JAN: Und der Name auf der letzten Seite?
+> 그럼 마지막 쪽의 이름은요?
+THAL: Wird geändert. Bis Freitag. Danke für den Hinweis.
+> 바뀔 거예요. 금요일까지. 귀띔 고마워요.
+JAN: … Dafür bin ich da.
+> … 그러려고 제가 있는 거죠.
+
+# 장면 5-2 — DER ANRUF BEI ELKE
+JAN: Elke? Ich bin's.
+> 엘케? 저예요.
+ELKE: Wer is «ich»? Ick kenn nur 'nen Jan, der weg is.
+= Wer ist «ich»? Ich kenne nur einen Jan, der weg ist.
+> «저»가 누구야? 난 떠난 얀밖에 몰라.
+JAN: Ich wollte nur hören, wie es bei dir ist. Ob die Musikbox wieder spielt.
+> 그냥 거기 어떤지 듣고 싶었어요. 주크박스가 다시 틀어지는지.
+ELKE: Die spielt. Um vier. Wie immer. Und Horst verliert beim Skat. Wie immer. Und Gisela fragt jeden Tag, ob de anjerufen hast.
+= Die spielt. Um vier. Wie immer. Und Horst verliert beim Skat. Wie immer. Und Gisela fragt jeden Tag, ob du angerufen hast.
+> 틀어지지. 네 시에. 늘 그렇듯. 그리고 호르스트는 스카트에서 져. 늘 그렇듯. 그리고 기젤라는 매일 네가 전화했냐고 물어.
+JAN: Sag ihr, ich habe angerufen. Und dass ich Fallada lese. Abends. Seite hundertzwanzig.
+> 전화했다고 전해 줘요. 그리고 팔라다를 읽는다고. 저녁마다. 120쪽.
+ELKE: … Fallada. Nich Soljanka.
+= … Fallada. Nicht Soljanka.
+> … 팔라다. 솔랸카 말고.
+JAN: Soljanka vermisse ich nicht. Die hatte ich in Brandenburg genug.
+> 솔랸카는 안 그리워요. 브란덴부르크에서 충분히 먹었어요.
+ELKE: Jut. Denn weeß ick Bescheid. Und Jan — Tobi sitzt hier. Er hört zu. Er will nich mit dir reden.
+= Gut. Dann weiß ich Bescheid. Und Jan — Tobi sitzt hier. Er hört zu. Er will nicht mit dir reden.
+> 좋아. 그럼 알았어. 그리고 얀 — 토비가 여기 앉아 있어. 듣고 있어. 너랑 말하기 싫대.
+TOBI: Sach ihm, er soll sich seinen Fallada sonst wohin stecken.
+= Sag ihm, er soll sich seinen Fallada sonst wohin stecken.
+> 그 팔라다 딴 데나 처박으라고 전해.
+ELKE: Tobi sacht, er grüßt.
+= Tobi sagt, er grüßt.
+> 토비가 안부 전한대.
+JAN: … Sag ihm, ich grüße zurück. Und dass sein Golf ein Fahrtenbuch hat. Seit 2019. Er soll es weiterführen.
+> … 나도 안부 전한다고 해 줘요. 그리고 그 골프엔 운행 일지가 있다고. 2019년부터. 계속 쓰라고.
+TOBI: Wat? Wat soll dit heißen?
+= Was? Was soll das heißen?
+> 뭐? 그게 무슨 뜻이야?
+ELKE: Weeß ick nich. Aber er hat uffjelegt. Und Tobi — schreib in dein Fahrtenbuch. Wat immer dit heißt.
+= Weiß ich nicht. Aber er hat aufgelegt. Und Tobi — schreib in dein Fahrtenbuch. Was immer das heißt.
+> 몰라. 근데 끊었어. 그리고 토비 — 운행 일지에 써. 그게 무슨 뜻이든.
+
+# 장면 6 — SONNTAG, UNTER DER BANK
+DANA: Sonntag. Zehn Uhr. Ein Umschlag unter der Bank. Von Jan. Ich lege ihn ungeöffnet in meine Tasche. Und bringe ihn zu Helene.
+> 일요일. 10시. 벤치 밑 봉투 하나. 얀한테서. 열지 않고 가방에 넣을게. 그리고 헬레네한테 가져가고.
+HELENE: Lies vor, Mira.
+> 읽어, 미라.
+MIRA: «Fonds: Havel Dividend Opportunities, Luxemburg. Bank: Albrecht und Söhne, Frankfurt. Leihe drei Tage vor Stichtag, Rückgabe vier Tage danach, Gebühr null Komma null zwei Prozent. Jedes Jahr April und Mai. Gegenpartei für Ausgleichszahlungen: Treuhandkonto VFH Beteiligungs KG, Berlin. Ich habe Thal geraten, den Namen zu ändern. Er ändert ihn bis Freitag. Sichert den alten. Heute.»
+> «펀드: 하펠 배당 기회 펀드, 룩셈부르크. 은행: 알브레히트 & 아들들, 프랑크푸르트. 기준일 사흘 전 대여, 나흘 뒤 반환, 수수료 0.02퍼센트. 매년 4월과 5월. 조정 지급 거래 상대: VFH 지분 합자회사 신탁 계좌, 베를린. 탈한테 이름을 바꾸라고 조언했음. 금요일까지 바꿈. 옛 이름을 보존할 것. 오늘.»
+KATRIN: Er hat Thal geraten, eine Spur zu verwischen?
+> 탈한테 흔적을 지우라고 조언했다고?
+SWETA: Er hat Thal dazu gebracht, eine Spur zu ändern. Und eine Änderung hinterlässt zwei Spuren. Die alte und die neue. Und den Zeitpunkt dazwischen.
+> 탈이 흔적을 바꾸게 만든 거예요. 그리고 변경은 흔적 둘을 남겨요. 옛것과 새것. 그리고 그 사이의 시점.
+KATRIN: Rechtlich ist das… heikel. Ein Ratschlag zur Verschleierung kann Beihilfe sein.
+> 법적으로 그건… 아슬아슬해. 은폐에 대한 조언은 방조가 될 수 있어.
+HELENE: Dann dokumentieren wir es. Heute. Mit Zeitstempel. Dass der Ratschlag gegeben wurde, um die alte Spur zu sichern. Bevor sie geändert wurde.
+> 그럼 문서화하자. 오늘. 타임스탬프 붙여서. 옛 흔적을 보존하려고 그 조언을 했다는 걸. 바뀌기 전에.
+MIRA: Und die VFH Beteiligungs KG? Ich prüfe das Handelsregister. Jetzt.
+> 그리고 VFH 지분 합자회사는요? 상업등기 확인할게요. 지금.
+
+# 장면 7 — VFH
+MIRA: VFH Beteiligungs KG. Gegründet vor sechs Jahren. Sitz in Berlin-Dahlem. Komplementärin ist eine GmbH. Und die Kommanditisten…
+> VFH 지분 합자회사. 6년 전 설립. 본사 베를린 달렘. 무한책임 사원은 GmbH 하나. 그리고 유한책임 사원들은…
+SWETA: Lies.
+> 읽어요.
+MIRA: Drei Personen. Mit demselben Nachnamen. Eine Hannelore, ein Florian, ein Hendrik. Nachname: Vollmer.
+> 세 사람. 같은 성. 하넬로레, 플로리안, 헨드릭. 성: 폴머.
+HELENE: Vollmer. Der Landesschatzmeister. Der am Freitag mit Jan am Tisch saß.
+> 폴머. 주 재무 담당. 금요일에 얀이랑 같은 식탁에 앉았던.
+MIRA: VFH. Vollmer Familien-Holding. Steht nicht im Namen. Aber in der Gesellschafterliste.
+> VFH. 폴머 가족 지주회사. 이름엔 없어요. 근데 사원 명부엔 있어요.
+KATRIN: Und das ist öffentlich?
+> 그리고 그게 공개 정보야?
+MIRA: Das Handelsregister ist öffentlich. Jeder kann es lesen. Für ein paar Euro.
+> 상업등기는 공개예요. 누구나 읽을 수 있어요. 몇 유로면.
+SWETA: Ein Fonds, der dem Staat Steuern vorenthält, zahlt Ausgleich an die Familienholding eines Mannes, der für eine Partei das Geld verwaltet, die gerade über den Haushalt des Staates verhandelt.
+> 국가의 세금을 빼돌리는 펀드가, 지금 국가 예산을 협상 중인 정당의 돈을 관리하는 남자의 가족 지주회사에 조정금을 준다.
+HELENE: Und Leon recherchiert gerade, wer an dieselbe Partei spendet.
+> 그리고 레온은 지금 바로 그 정당에 누가 후원하는지 취재 중이고.
+DANA: Und ich habe nichts gehört. Aber das Finanzamt für Fahndung und Strafsachen hat eine sehr gute Telefonnummer. Wenn ihr sie braucht.
+> 그리고 난 아무것도 못 들었어. 근데 조세 수사·형사 담당 세무서엔 아주 좋은 전화번호가 있지. 필요하면.
+
+# 장면 7-2 — LEONS ERSTE ZAHLEN
+LEON: Helene. Ich habe etwas. Die kleinen Spenden an Vollmers Partei. Knapp unter der Veröffentlichungsgrenze. In den letzten zwei Jahren.
+> 헬레네. 뭐가 있어요. 폴머 정당의 소액 후원금. 공개 기준선 바로 아래. 지난 2년.
+HELENE: Wie viele?
+> 몇 건이야?
+LEON: Dreihundertachtzig Einzelspenden. Alle zwischen neuntausend und neuntausendneunhundert Euro. Alle von Privatpersonen. Und alle in Berlin.
+> 단일 후원 380건. 전부 9천에서 9,900유로 사이. 전부 개인. 그리고 전부 베를린.
+SWETA: Fast zehntausend. Aber nie zehntausend.
+> 거의 만. 근데 절대 만은 아니고.
+LEON: Und ich habe die Namen. Nicht veröffentlicht, weil sie unter der Grenze liegen. Aber die Partei muss sie intern führen. Und eine Mitarbeiterin der Partei hat mir eine Liste gegeben. Weil sie sich geschämt hat.
+> 그리고 이름이 있어요. 기준선 아래라 공개는 안 됐지만. 정당은 내부적으로 관리해야 해요. 그리고 정당 직원 한 명이 저한테 명단을 줬어요. 부끄러워서.
+KATRIN: Eine Quelle in der Partei. Leon, wer weiß davon?
+> 정당 내부 취재원. 레온, 그걸 누가 알아?
+LEON: Nur ich. Und jetzt ihr.
+> 저만요. 그리고 이제 여러분.
+HELENE: Und die Namen?
+> 그리고 이름들은?
+LEON: Ich kenne einige. Ein Hausmeister aus Gerichtstraße einundsechzig. Eine Pflegehelferin von Sonnenhof. Ein Praktikant von Hype und Hafen.
+> 몇 명은 알아요. 게리히트슈트라세 61의 관리인. 조넨호프 간병 보조원 한 명. 하이프 운트 하펜 인턴 한 명.
+MIRA: Menschen aus unseren Teilen. Die nie zehntausend Euro hatten.
+> 우리 부들에 나온 사람들. 만 유로를 가져 본 적 없는 사람들.
+LEON: Und ich fahre morgen zu jedem. Einzeln. Und frage sie, ob sie gespendet haben.
+> 그리고 내일 한 명 한 명 찾아갈 거예요. 따로따로. 그리고 후원했는지 물어볼 거예요.
+HELENE: … Leon. Wer hat dir gesagt, dass du das tun sollst?
+> … 레온. 누가 그렇게 하라고 했어?
+LEON: Niemand. Ich habe es selbst entschieden. Wie Jan es getan hätte. Bevor er gegangen ist.
+> 아무도요. 제가 정했어요. 얀이라면 그랬을 것처럼. 떠나기 전에.
+
+# 엔딩 — FREITAG
+JAN: Freitag. Neunzehn Uhr. Villa am Hubertussee. Das zweite Abendessen.
+> 금요일. 19시. 후베르투스 호숫가 저택. 두 번째 저녁 식사.
+THAL: Herr Kowalczyk. Setzen Sie sich. Heute neben Hendrik. Er möchte sich bei Ihnen bedanken.
+> 코발치크 씨. 앉으세요. 오늘은 헨드릭 옆에. 당신한테 감사 인사를 하고 싶대요.
+VOLLMER: Für den Rat mit der letzten Seite. Wir haben den Namen geändert. Die Ausgleichszahlungen gehen jetzt an eine Stiftung. Gemeinnützig. Sehr elegant.
+> 마지막 쪽에 대한 조언 감사해요. 이름을 바꿨어요. 조정금은 이제 재단으로 가요. 공익 재단. 아주 우아하죠.
+JAN: Welche Stiftung?
+> 무슨 재단이요?
+VOLLMER: Eine kleine. Für Medienvielfalt. Die fördert unter anderem unabhängigen Journalismus. Ist das nicht schön? Steuergeld, das über Umwege zu Journalisten zurückkehrt.
+> 작은 거예요. 미디어 다양성을 위한. 특히 독립 저널리즘을 지원하죠. 멋지지 않아요? 세금이 돌고 돌아 기자들한테 돌아가는 거.
+JAN: … Wie heißt sie?
+> … 이름이 뭐예요?
+VOLLMER: Ich bin nicht sicher, ob ich das sagen darf. Max?
+> 말해도 되는지 모르겠네요. 막스?
+THAL: Sag es ruhig, Hendrik. Herr Kowalczyk gehört jetzt zu uns.
+> 말해도 돼, 헨드릭. 코발치크 씨는 이제 우리 사람이야.
+VOLLMER: Die Stiftung Spreewerk.
+> 슈프레베르크 재단.
+THAL: Sehen Sie, Herr Kowalczyk? Wir haben immer an Ihre Redaktion geglaubt. Wir haben sie sogar mitfinanziert. Seit sieben Jahren.
+> 보셨죠, 코발치크 씨? 우린 늘 당신 편집국을 믿었어요. 심지어 같이 돈도 댔죠. 7년째.
+SANDMANN: Herr Kowalczyk. Eine persönliche Frage. Ihre Halbschwester in Danzig — rufen Sie sie noch jeden Monat an?
+> 코발치크 씨. 개인적인 질문 하나. 그단스크의 이복누이 말이에요 — 아직 매달 전화하세요?
+JAN: Meine… was? Ich habe keine Schwester. Keine Halbschwester. Nirgendwo.
+> 내… 뭐요? 저 누이 없어요. 이복누이도. 어디에도.
+SANDMANN: Nicht? Dann habe ich mich geirrt. Man hört so vieles. Man verwechselt so vieles.
+> 없어요? 그럼 내가 착각했나 보네요. 이것저것 듣다 보니. 이것저것 헷갈리죠.
+THAL: Gregor. Wir sind beim Essen.
+> 그레고어. 식사 중이야.
+JAN: … Woher haben Sie das, Herr Sandmann?
+> … 그건 어디서 들으셨어요, 잔트만 씨?
+SANDMANN: Von einem Freund. Einem alten. Der Ihre Redaktion sehr gut kennt.
+> 친구한테서요. 오랜. 당신 편집국을 아주 잘 아는.
+THAL: Genug. Herr Kowalczyk, Sie haben gute Arbeit geleistet. Montag geht es weiter.
+> 그만. 코발치크 씨, 잘해 줬어요. 월요일에 계속합시다.
+JAN: (leise, auf der Treppe) Danzig. Nur fünf Menschen wussten von Danzig. Und nur einer davon frühstückt samstags mit Helene.
+> (조용히, 계단에서) 그단스크. 그단스크를 아는 사람은 다섯뿐이었어. 그리고 그중 한 명만 토요일마다 헬레네와 아침을 먹지.
+JAN: Ich bin noch da. Und jetzt weiß ich, wo das Ohr sitzt.
+> 난 아직 여기 있어. 그리고 이제 그 귀가 어디 있는지 알아.
