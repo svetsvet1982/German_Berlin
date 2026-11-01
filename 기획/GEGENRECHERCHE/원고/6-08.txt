@@ -1,0 +1,355 @@
+@part 6
+@ep 8
+@title Woher wissen die das?
+@sub 그들은 어떻게 알았나 · 배포 명단의 이름 하나
+@info 대사 150턴 · 난이도 C1− · 배경: 2028년 10월 초, 엘케의 선술집(밤샘 뒤 아침), LKA 회의실, Spreewerk 편집국
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast REITER | 안야 라이터 박사 (46) · 연방헌법수호청 분석관
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@cast BONDAR | 올렉산드르 본다르 (52) · 전자 부품 회사 대표
+@cast KURATOR | 큐레이터 · 채널 관리자 (텔레그램 메시지)
+@note ※ 중간 반전. 본다르의 '초록 문'은 다나의 보호 계획서에만 적혀 있었다. 그 계획서는 경찰 보호 부서 몇 곳, 그리고 우크라이나 납품업체 위협에 관한 연방의회 국방위원회 비공개 브리핑 자료의 부록으로만 배포됐다. 그 자료를 열람할 수 있는 사람 가운데 3부에서 얀에게 접근했던 야당 의원실 보좌관 도미니크 렌츠가 있다. 의심과 증거를 엄격히 구분한다. 등장 인물·정당 가상.
+@note ※ 표현 초점: der Geheimschutz · die Einstufung · die Zugriffsberechtigung · der Mitarbeiter · die Bundestagsverwaltung · die Verteilerliste
+@next 6부 9화 — «Jakob-Kaiser-Haus»(야코프 카이저 하우스) — 얀이 기자 출입증으로 의원회관에 들어가 렌츠를 만난다. 둘은 겉으로는 친근하게, 속으로는 서로를 떠본다.
+
+# 콜드 오픈 — SECHS UHR MORGENS BEI ELKE
+ELKE: So. Kaffee für alle, die uff meinem Billardtisch jeschlafen ham. Und für die, die uff'm Boden jeschlafen ham, doppelt.
+= So. Kaffee für alle, die auf meinem Billardtisch geschlafen haben. Und für die, die auf dem Boden geschlafen haben, doppelt.
+> 자. 내 당구대에서 잔 사람들 다 커피. 그리고 바닥에서 잔 사람들은 두 잔.
+TOBI: Ick hab uff'm Boden jeschlafen. Neben der Musikbox.
+= Ich habe auf dem Boden geschlafen. Neben der Musikbox.
+> 난 바닥에서 잤어. 주크박스 옆에서.
+LEON: Und die Musikbox hat um vier Uhr angefangen zu spielen. Von allein. «Ein Bett im Kornfeld.»
+> 그리고 주크박스가 4시에 저절로 틀어졌어요. «옥수수밭의 침대.»
+ELKE: Die macht dit, wenn's kalt wird. Seit 1987.
+= Die macht das, wenn es kalt wird. Seit 1987.
+> 추워지면 그래. 1987년부터.
+HELENE: Dana ist da. Sie hat nicht geschlafen.
+> 다나 왔어. 안 잤대.
+DANA: Ich habe die Verteilerliste geöffnet. Und ich sage euch jetzt, was ich darf. Und nicht mehr.
+> 배포 명단을 열었어. 그리고 이제 말해도 되는 걸 말할게. 그 이상은 안 해.
+JAN: Setz dich. Kaffee?
+> 앉아. 커피?
+DANA: Doppelt. Ich habe auch auf dem Boden geschlafen. Zwei Stunden. In meinem Büro.
+> 두 잔. 나도 바닥에서 잤어. 두 시간. 내 사무실에서.
+
+# 장면 1 — DIE VERTEILERLISTE
+DANA: Mein Schutzkonzept für Herrn Bondar ging an drei Stellen. Erstens: unsere eigene Abteilung für Personenschutz. Zweitens: das Bundeskriminalamt. Drittens…
+> 본다르 씨에 대한 내 보호 계획서는 세 곳으로 갔어. 첫째: 우리 신변 보호 부서. 둘째: 연방범죄수사청. 셋째…
+JAN: Drittens?
+> 셋째는?
+DANA: Im April gab es eine Unterrichtung für den Verteidigungsausschuss des Bundestages. Nicht öffentlich. Thema: Bedrohung von Unternehmen, die die Ukraine beliefern. Die Bundesregierung wollte zeigen, dass sie die Lieferanten schützt.
+> 4월에 연방의회 국방위원회 보고가 있었어. 비공개. 주제: 우크라이나 납품 기업에 대한 위협. 정부는 납품업체를 보호하고 있다는 걸 보여 주고 싶어 했지.
+SWETA: Und Ihr Schutzkonzept war dabei?
+> 그리고 당신 보호 계획서가 거기 있었어요?
+DANA: Als Anlage. Mit fünf anderen. Anonymisiert, dachte ich. Ohne Namen. Aber mit Beschreibungen. «Unternehmer, Adlershof, Elektronik, grüne Haustür, Nachbar mit Hunden.»
+> 부록으로. 다른 다섯 개랑 같이. 익명 처리됐다고 생각했어. 이름 없이. 근데 묘사는 있었지. «기업가, 아들러스호프, 전자, 초록 현관문, 개 키우는 이웃.»
+MIRA: Wer Adlershof und Elektronik liest und die Ausschreibung kennt, weiß sofort, wer gemeint ist.
+> 아들러스호프랑 전자를 읽고 입찰 공고를 아는 사람이면 누군지 바로 알죠.
+DANA: Ja. Das war mein Fehler. Ich übernehme die Verantwortung dafür. Heute noch, schriftlich.
+> 그래. 그건 내 실수야. 책임질게. 오늘 안에, 서면으로.
+HELENE: Und wer hatte Zugang zu der Unterrichtung?
+> 그 보고엔 누가 접근할 수 있었어?
+DANA: Die Abgeordneten des Ausschusses. Und eine begrenzte Zahl von Mitarbeitern, die für Verschlusssachen ermächtigt sind. Sicherheitsüberprüft.
+> 위원회 의원들. 그리고 기밀 취급 인가를 받은 제한된 수의 보좌진. 신원 조사를 거친.
+JAN: Wie viele?
+> 몇 명?
+DANA: Das darf ich nicht sagen. Aber ich darf sagen: Es sind mehr, als man denkt. Und weniger, als man befürchtet.
+> 그건 말 못 해. 근데 이건 말할 수 있어. 생각보다는 많고. 걱정하는 것보다는 적어.
+
+# 장면 1-2 — DANAS FEHLER
+HELENE: Dana. Du hast «mein Fehler» gesagt. Wie meinst du das genau?
+> 다나. «내 실수»라고 했지. 정확히 무슨 뜻이야?
+DANA: Ich hätte die Beschreibung nicht so genau machen dürfen. «Grüne Haustür.» Das war für die Kollegen vom Personenschutz gedacht. Damit sie das Haus finden. Ich habe nicht daran gedacht, dass dasselbe Papier in einen Ausschuss geht.
+> 그렇게 자세히 묘사하면 안 됐어. «초록 현관문.» 신변 보호 동료들을 위한 거였어. 집을 찾을 수 있게. 같은 문서가 위원회로 간다는 생각은 못 했어.
+HELENE: Wer hat entschieden, dass es in den Ausschuss geht?
+> 위원회로 보내기로 누가 결정했어?
+DANA: Das Ministerium. Nicht ich. Aber ich habe es geschrieben.
+> 부처가. 내가 아니라. 근데 쓴 건 나야.
+JAN: Dana. Du hast ein Schutzkonzept geschrieben, das einen Mann schützen sollte. Jemand anderes hat es benutzt, um ihn zu bedrohen. Das ist nicht dein Fehler.
+> 다나. 넌 한 사람을 지키려는 보호 계획서를 썼어. 다른 누가 그걸 그를 위협하는 데 썼고. 그건 네 실수가 아니야.
+DANA: Es ist mein Fehler, dass es so genau war. Und ich werde es melden. Intern. Auch wenn es mir schadet.
+> 그렇게 자세했던 건 내 실수야. 그리고 보고할 거야. 내부에. 나한테 해가 되더라도.
+SWETA: Das ist das, was wir bei Patrick vermisst haben. Jemand, der sagt: Das war ich.
+> 그게 파트리크 때 우리가 아쉬워했던 거예요. «그건 나였다»라고 말하는 사람.
+DANA: Patrick hat es am Ende auch gesagt.
+> 파트리크도 결국엔 말했어.
+SWETA: Am Ende. Nachdem er erwischt wurde. Sie sagen es vorher.
+> 결국엔요. 잡힌 뒤에. 당신은 그 전에 말하잖아요.
+HELENE: Und wenn sie dich deshalb von dem Fall abziehen?
+> 그것 때문에 널 사건에서 빼면?
+DANA: Dann zieht man mich ab. Und ein anderer macht weiter. Ein Fall ist nicht wichtiger als die Wahrheit über den Fall.
+> 그럼 빼겠지. 그리고 다른 사람이 이어 가고. 사건이 사건에 대한 진실보다 중요하진 않아.
+ELKE: Dit hat se schön jesacht. Dafür kriegt se 'n drittes Kaffee.
+= Das hat sie schön gesagt. Dafür kriegt sie einen dritten Kaffee.
+> 멋지게 말했네. 그 값으로 세 번째 커피 준다.
+
+# 장면 2 — GEHEIMSCHUTZ
+REITER: Ich erkläre Ihnen etwas Grundsätzliches. Unter drei.
+> 기본적인 걸 하나 설명할게요. 운터 드라이로.
+LEON: Unter drei.
+> 운터 드라이.
+REITER: Verschlusssachen haben Stufen. «Nur für den Dienstgebrauch» ist die niedrigste. Dann «vertraulich», «geheim», «streng geheim». Die Unterrichtung im April war «vertraulich». Das heißt: Lesen darf nur, wer ermächtigt ist. Und wer es weitergibt, macht sich strafbar.
+> 기밀 자료엔 등급이 있어요. «업무용 한정»이 가장 낮고. 그다음 «대외비», «비밀», «극비». 4월 보고는 «대외비»였어요. 그 말은: 인가받은 사람만 읽을 수 있다. 그리고 그걸 넘기는 사람은 처벌받는다.
+KATRIN: Und für Journalisten? Wenn uns jemand ein solches Dokument geben würde?
+> 기자들은요? 누가 그런 문서를 우리한테 주면?
+REITER: Seit einigen Jahren ist die bloße Veröffentlichung durch Journalisten in der Regel nicht mehr als Beihilfe strafbar. Aber das ist nicht unsere Frage. Unsere Frage ist: Wer hat das Dokument an einen Kanal gegeben, der Saboteure bezahlt?
+> 몇 년 전부터 기자의 단순 공개는 원칙적으로 더는 방조로 처벌되지 않아요. 근데 그건 우리 질문이 아니에요. 우리 질문은: 누가 그 문서를 사보타주 요원에게 돈을 대는 채널에 넘겼나?
+SWETA: Oder nicht das Dokument. Nur zwei Zeilen daraus. «Grüne Haustür. Nachbar mit Hunden.» Das ist kein Dokument. Das ist ein Satz, den man sich merken kann.
+> 아니면 문서 말고. 거기서 두 줄만. «초록 현관문. 개 키우는 이웃.» 그건 문서가 아니에요. 외울 수 있는 문장이죠.
+REITER: Genau das ist das Problem. Wer klug ist, kopiert nichts. Er liest, merkt sich und erzählt. Keine Datei, kein Ausdruck, keine Spur.
+> 바로 그게 문제예요. 영리한 사람은 아무것도 복사하지 않아요. 읽고, 외우고, 말해요. 파일도, 출력물도, 흔적도 없이.
+JAN: Wie Patrick. Der hat auch gesagt: Ich hinterlasse keine Spuren.
+> 파트리크처럼요. 그도 흔적 안 남긴다고 했죠.
+MIRA: Und dann hat er um drei Uhr nachts ein Passwort falsch getippt.
+> 그리고 새벽 3시에 비밀번호를 잘못 쳤죠.
+REITER: Jeder Mensch hinterlässt eine Spur. Die Frage ist nur, wo man sucht.
+> 모든 사람은 흔적을 남겨요. 문제는 어디서 찾느냐뿐이죠.
+
+# 장면 3 — DIE ZEITLINIE
+MIRA: Ich habe eine Zeitlinie gebaut. Nur aus dem, was wir selbst wissen. Nicht aus dem, was Dana uns gesagt hat.
+> 타임라인을 만들었어요. 우리가 직접 아는 것만으로. 다나가 말해 준 것 말고.
+HELENE: Zeig.
+> 보여 줘.
+MIRA: Erster April: Bondar beantragt die Auskunftssperre. Das hat er uns selbst erzählt. Mitte April: laut Dana eine nicht öffentliche Unterrichtung. Das wissen wir nur von Dana, also streiche ich es für den Artikel. Vierzehnter April: der erste Brief an die gesperrte Adresse. Das hat Bondar uns gezeigt.
+> 4월 1일: 본다르가 열람 제한 신청. 본인이 직접 말해 줬어요. 4월 중순: 다나에 따르면 비공개 보고. 그건 다나한테서만 들었으니 기사에선 지울게요. 4월 14일: 열람 제한된 주소로 첫 편지. 본다르가 보여 줬어요.
+JAN: Zwei Wochen zwischen Sperre und Brief.
+> 제한과 편지 사이 2주.
+MIRA: Und wenn die Unterrichtung, sagen wir, am zehnten April war, dann sind es vier Tage zwischen Unterrichtung und Brief.
+> 그리고 보고가, 예를 들어, 4월 10일이었다면 보고와 편지 사이 나흘이에요.
+DANA: Den zehnten April habe ich nicht gesagt.
+> 4월 10일이라고는 안 했어.
+MIRA: Ich weiß. Deshalb «sagen wir». Ich rate. Und mein Raten ist kein Beleg.
+> 알아요. 그래서 «예를 들어»예요. 추측하는 거예요. 그리고 제 추측은 증거가 아니에요.
+DANA: … Dein Raten ist ziemlich gut.
+> … 네 추측 꽤 좋네.
+KATRIN: Das hat sie nicht gesagt. Und das schreiben wir nicht ins Protokoll.
+> 그건 다나가 말한 게 아니야. 그리고 그건 기록에 안 써.
+HELENE: Und dann?
+> 그다음엔?
+MIRA: Dann September. Der Kurator fragt Janek nach Bondars Adresse. Und als Janek ablehnt, nennt er die grüne Tür. Also: Seit April liegt eine Beschreibung aus einem vertraulichen Papier bei jemandem, der Saboteure anwirbt.
+> 그다음 9월. 큐레이터가 야넥한테 본다르 주소를 물어요. 그리고 야넥이 거절하자 초록 문을 말하죠. 그러니까: 4월부터 대외비 문서의 묘사가 사보타주 요원을 포섭하는 누군가한테 가 있다.
+
+# 장면 4 — WER HAT ZUGANG?
+LEON: Ich habe öffentlich recherchiert. Die Mitglieder des Verteidigungsausschusses sind öffentlich. Vierunddreißig Abgeordnete. Und ihre Büros. Jedes Büro hat zwei bis fünf Mitarbeiter.
+> 공개 자료로 조사했어요. 국방위원회 위원은 공개예요. 의원 서른넷. 그리고 그 의원실들. 의원실마다 보좌진이 둘에서 다섯.
+SWETA: Und wer davon ist für Verschlusssachen ermächtigt?
+> 그중 누가 기밀 취급 인가를 받았어요?
+LEON: Das ist nicht öffentlich. Aber manche Mitarbeiter schreiben in ihr Profil auf Karrierenetzwerken: «Referent für Sicherheitspolitik, VS-ermächtigt.» Sie sind stolz darauf.
+> 그건 비공개예요. 근데 어떤 보좌관들은 경력 네트워크 프로필에 이렇게 써요. «안보 정책 담당, 기밀 취급 인가 보유.» 자랑스러워하죠.
+MIRA: Wie viele?
+> 몇 명이에요?
+LEON: Ich habe einundzwanzig gefunden, die das öffentlich angeben. Es sind sicher mehr.
+> 공개적으로 밝힌 사람 스물하나 찾았어요. 분명 더 있겠죠.
+JAN: Lies mir die Namen vor. Nur die Namen.
+> 이름 읽어 줘. 이름만.
+LEON: … Bei Nummer vierzehn höre ich auf.
+> … 14번에서 멈출게요.
+JAN: Warum?
+> 왜?
+LEON: Weil ich den Namen kenne. Und du auch. «Dominik Lenz, Büroleiter, Opposition, Verteidigungsausschuss, VS-ermächtigt seit 2026.»
+> 그 이름을 아니까요. 얀도요. «도미니크 렌츠, 의원실 실장, 야당, 국방위원회, 2026년부터 기밀 취급 인가.»
+JAN: Lenz.
+> 렌츠.
+HELENE: Der Mann aus Teil drei. Der dich eingeladen hat. Der deine Unterlagen über Skyward wollte.
+> 3부의 그 남자. 널 초대했던. 스카이워드 자료를 원했던.
+JAN: Und dem ich keine Unterlagen gegeben habe. Nur bessere Fragen.
+> 그리고 내가 자료를 안 준. 더 나은 질문만 줬지.
+
+# 장면 4-2 — WER IST LENZ?
+MIRA: Ich habe alles Öffentliche über Dominik Lenz gesammelt. Vierzig Jahre. Geboren in Cottbus. Studium der Politikwissenschaft in Potsdam. Und dann ein Auslandsjahr.
+> 도미니크 렌츠에 대한 공개 정보 다 모았어요. 마흔. 코트부스 출생. 포츠담에서 정치학. 그리고 해외 1년.
+JAN: Wo?
+> 어디?
+MIRA: Moskau. Zwei Semester an einer Hochschule für internationale Beziehungen. Zweitausendneun bis zweitausendzehn. Steht in seinem eigenen Lebenslauf. Er ist stolz darauf. «Fließend Russisch.»
+> 모스크바. 국제관계 대학에서 두 학기. 2009년부터 2010년. 본인 이력서에 있어요. 자랑스러워해요. «러시아어 유창.»
+LEON: Das ist kein Verbrechen. Viele haben in Moskau studiert. Damals war das normal.
+> 그건 범죄가 아니에요. 많은 사람이 모스크바에서 공부했어요. 그땐 평범한 일이었고요.
+SWETA: Leon hat recht. Ich habe in Moskau studiert. Bin ich deshalb verdächtig?
+> 레온 말이 맞아요. 저도 모스크바에서 공부했어요. 그래서 제가 의심스러워요?
+HELENE: Nein. Und Lenz auch nicht. Nicht deshalb. Ein Studienjahr ist kein Indiz. Es ist eine Biografie.
+> 아니. 렌츠도 아니야. 그것 때문엔. 1년 유학은 정황이 아니야. 이력이지.
+MIRA: Dann das Zweite. Seit zweitausendvierundzwanzig ist er Büroleiter. Davor war er drei Jahre bei einer Beratungsfirma in Frankfurt.
+> 그럼 두 번째. 2024년부터 의원실 실장이에요. 그 전엔 프랑크푸르트 컨설팅 회사에서 3년.
+JAN: Welche Firma?
+> 무슨 회사?
+MIRA: Steht nicht im Lebenslauf. Nur: «Strategische Beratung, Frankfurt am Main.» Bei einer Bewerbung fürs Parlament verschweigt man doch nicht, wo man gearbeitet hat?
+> 이력서엔 없어요. 그냥: «전략 컨설팅, 프랑크푸르트 암 마인.» 의회에 지원하면서 어디서 일했는지 숨기진 않잖아요?
+KATRIN: Man darf. Aber es fällt auf.
+> 숨겨도 돼. 근데 눈에 띄지.
+SWETA: Frankfurt. Strategische Beratung. Ich kenne in Frankfurt eine Beratungsfirma, die in jedem unserer Teile vorkommt.
+> 프랑크푸르트. 전략 컨설팅. 프랑크푸르트에 우리 모든 부에 등장하는 컨설팅 회사를 하나 알죠.
+HELENE: Und genau deshalb schreiben wir das nicht. Noch nicht. Eine Stadt ist kein Name.
+> 그리고 바로 그래서 그건 안 써. 아직은. 도시는 이름이 아니야.
+
+# 장면 5 — VERDACHT IST KEIN BEWEIS
+KATRIN: Stopp. Bevor jemand weiterredet. Was wissen wir über Lenz?
+> 멈춰. 누가 더 말하기 전에. 렌츠에 대해 뭘 알아?
+LEON: Dass er Zugang hatte. Wahrscheinlich. Wie mindestens zwanzig andere.
+> 접근권이 있었다는 거. 아마도. 최소 스무 명 다른 사람들처럼.
+KATRIN: Und was noch?
+> 그리고 또?
+JAN: Dass er mich vor einem Jahr nach meinen Unterlagen gefragt hat. Was ein Büroleiter der Opposition tun darf. Und was viele tun.
+> 1년 전 나한테 자료를 물었다는 거. 야당 의원실 실장이 해도 되는 일이고. 많이들 하는 일이지.
+KATRIN: Also wissen wir nichts. Wir haben einen Namen, der auf einer Liste mit einundzwanzig anderen steht. Und eine Erinnerung an ein Gespräch, das völlig legal war.
+> 그러니까 아무것도 모르는 거야. 스물한 명 명단에 있는 이름 하나. 그리고 완전히 합법이었던 대화에 대한 기억 하나.
+SWETA: Und ein Gefühl. Jan hat das Gesicht, das er bei Patrick hatte.
+> 그리고 느낌. 얀이 파트리크 때 그 얼굴을 하고 있어요.
+HELENE: Gefühle sind Kompasse. Keine Karten. Wir haben Leon in Teil vier verdächtigt, weil alles auf ihn zeigte. Und es war falsch.
+> 느낌은 나침반이야. 지도가 아니라. 4부 때 모든 게 레온을 가리켜서 우린 레온을 의심했어. 그리고 틀렸지.
+LEON: Danke, dass du das sagst.
+> 그 말 해 줘서 고마워요.
+HELENE: Ich sage es, weil es stimmt. Lenz bekommt dieselbe Fairness wie du. Wir prüfen ihn. Wir prüfen die anderen zwanzig auch. Und wir nennen keinen Namen, bevor wir etwas haben, das mehr ist als ein Gefühl.
+> 사실이니까 말하는 거야. 렌츠도 너와 같은 공정함을 받아. 그를 검증해. 나머지 스물도 검증하고. 그리고 느낌 이상의 무언가를 갖기 전엔 이름 하나도 안 대.
+DANA: Und ich sage euch noch etwas. Wenn es ein Mitarbeiter des Bundestages ist, ist das ein Fall für die Bundesanwaltschaft und die Bundestagspolizei. Nicht für mich. Und nicht für euch.
+> 그리고 하나 더 말할게. 연방의회 보좌관이라면 그건 연방검찰과 연방의회 경찰 사건이야. 내 사건이 아니고. 너희 사건도 아니고.
+JAN: Aber die Geschichte ist unsere.
+> 근데 이야기는 우리 거야.
+DANA: Die Geschichte ja. Der Fall nein.
+> 이야기는 그렇지. 사건은 아니고.
+
+# 장면 5-2 — BONDAR ERFÄHRT ES
+BONDAR: Frau Schuster hat mich angerufen. Sie hat gesagt, die Beschreibung meiner Haustür lag in einem Papier für den Bundestag.
+> 슈스터 씨가 전화했어요. 제 현관문 묘사가 연방의회용 문서에 들어 있었대요.
+JAN: Herr Bondar, es tut mir leid.
+> 본다르 씨, 유감이에요.
+BONDAR: Warum Ihnen? Sie haben das Papier nicht geschrieben. Und Sie haben nein gesagt, als man Sie gefragt hat.
+> 왜 당신이요? 당신은 그 문서를 안 썼어요. 그리고 질문받았을 때 거절했잖아요.
+JAN: Was machen Sie jetzt?
+> 이제 어떻게 하실 거예요?
+BONDAR: Meine Frau und ich ziehen für ein paar Wochen zu ihrer Schwester. Nach Potsdam. Die Hunde des Nachbarn passen auf das Haus auf. Und die Polizei.
+> 아내랑 저는 몇 주 동안 처제네로 가요. 포츠담으로. 집은 이웃 개들이 지켜요. 그리고 경찰도.
+SWETA: Und Ihre Arbeit?
+> 그리고 일은요?
+BONDAR: Geht weiter. Die Platinen werden gebraucht. Mein Bruder hat heute Nacht wieder Drohnen gehört. Zwei weniger als letzte Woche. Ich weiß nicht, ob es an meinen Platinen liegt. Aber ich will es glauben.
+> 계속하죠. 기판이 필요하니까요. 형이 어젯밤에 또 드론 소리를 들었대요. 지난주보다 두 대 적게. 제 기판 덕인지는 몰라요. 근데 그렇게 믿고 싶어요.
+JAN: Herr Bondar, darf ich etwas fragen? Wurde Ihnen im April jemand aus dem Bundestag vorgestellt? Bei einer Veranstaltung? Einem Besuch?
+> 본다르 씨, 하나 여쭤봐도 될까요? 4월에 연방의회 사람을 소개받은 적 있어요? 행사에서? 방문에서?
+BONDAR: Im Mai. Eine Delegation des Verteidigungsausschusses hat Firmen in Adlershof besucht. Drei Abgeordnete und ihre Mitarbeiter. Sie waren eine Stunde in meiner Halle. Sehr interessiert. Sie haben viel gefragt.
+> 5월에요. 국방위원회 대표단이 아들러스호프 기업들을 방문했어요. 의원 셋이랑 보좌진. 제 작업장에 한 시간 있었어요. 아주 관심이 많았죠. 많이 물었어요.
+JAN: Erinnern Sie sich an einen Mitarbeiter, der Russisch konnte?
+> 러시아어 하는 보좌관 기억나세요?
+BONDAR: … Ja. Einer hat mit meinem Vorarbeiter Russisch gesprochen. Mein Vorarbeiter kommt aus Odesa. Er hat später gesagt: «Der Mann spricht wie ein Moskauer. Nicht wie einer, der es in der Schule gelernt hat.»
+> … 네. 한 명이 우리 작업반장이랑 러시아어로 얘기했어요. 작업반장은 오데사 출신이에요. 나중에 그러더라고요. «그 사람 모스크바 사람처럼 말해요. 학교에서 배운 사람처럼이 아니라.»
+KATRIN: Das ist eine Beobachtung. Von einem Vorarbeiter. Über einen Akzent. Kein Beweis.
+> 그건 관찰이야. 작업반장의. 억양에 대한. 증거가 아니라.
+BONDAR: Ich weiß. Ich bin Ingenieur. Ich unterscheide zwischen Messwert und Gefühl. Aber manchmal stimmt das Gefühl schneller als das Messgerät.
+> 알아요. 전 엔지니어예요. 측정값과 느낌을 구분해요. 근데 가끔은 느낌이 측정기보다 빨리 맞아요.
+
+# 장면 6 — WAS LENZ DAMALS WOLLTE
+SWETA: Jan. Erzähl mir das Gespräch mit Lenz aus Teil drei. Genau. Was hat er gefragt?
+> 얀. 3부 때 렌츠와의 대화를 얘기해 줘요. 정확히. 뭘 물었어요?
+JAN: Er hat gesagt, er will die Skyward-Vergabe im Parlament aufklären. Er hat nach meinen Unterlagen gefragt. Vertraulich. Ich habe nein gesagt. Er hat gefragt, warum ich ihm misstraue.
+> 스카이워드 계약을 의회에서 규명하고 싶다고 했어. 내 자료를 물었어. 비공개로. 난 거절했지. 왜 자기를 못 믿냐고 물었어.
+SWETA: Und dann?
+> 그다음엔?
+JAN: Dann hat er gefragt, was ich ihm stattdessen anbieten kann. Und ich habe ihm Fragen gegeben. Fragen, die man im Ausschuss stellen kann. Er hat gesagt: «Diese Fragen hätte ich auch selbst gestellt.»
+> 그다음 대신 뭘 줄 수 있냐고 물었어. 그래서 질문들을 줬지. 위원회에서 할 수 있는 질문들. 그가 그랬어. «이 질문들은 저도 할 수 있었을 텐데요.»
+SWETA: Und hat er sie gestellt? Im Ausschuss?
+> 그래서 그 질문들을 했어요? 위원회에서?
+MIRA: Ich habe nachgesehen. Die Protokolle der öffentlichen Sitzungen. Sein Abgeordneter hat im Herbst letzten Jahres zu Skyward zwei Fragen gestellt. Keine davon war eine von Jans Fragen.
+> 확인했어요. 공개 회의록. 그의 의원은 작년 가을 스카이워드에 대해 질문 두 개를 했어요. 그중 얀의 질문은 하나도 없었어요.
+SWETA: Er wollte die Fragen nicht stellen. Er wollte wissen, welche Fragen du hast. Weil deine Fragen verraten, was du weißt.
+> 그는 질문을 하고 싶었던 게 아니에요. 당신이 어떤 질문을 가졌는지 알고 싶었던 거예요. 당신 질문이 당신이 뭘 아는지 드러내니까요.
+JAN: … Ich habe ihm meine Recherche gegeben. In Form von Fragen.
+> … 내 취재를 그한테 줬구나. 질문의 형태로.
+HELENE: Du hast ihm das gegeben, was du jedem Abgeordneten gegeben hättest. Öffentlich verwertbare Fragen. Das war richtig. Wenn er sie missbraucht hat, ist das seine Schuld. Nicht deine.
+> 넌 어떤 의원한테든 줬을 걸 준 거야. 공개적으로 쓸 수 있는 질문. 그건 옳았어. 그가 그걸 악용했다면 그건 그의 잘못이야. 네 잘못이 아니라.
+SWETA: Aber es ist eine Methode. Ich kenne sie. Man fragt einen Journalisten nicht nach seinen Quellen. Man fragt nach seinen Fragen. Und aus den Fragen baut man die Karte seiner Recherche.
+> 근데 그건 하나의 방법이에요. 저 알아요. 기자한테 취재원을 묻지 않아요. 질문을 묻죠. 그리고 질문들로 그 사람 취재의 지도를 그려요.
+
+# 장면 6-2 — JAN UND TOBI AM FENSTER
+TOBI: Du ärgerst dich. Über die Fragen von damals.
+> 짜증 났지. 그때 질문들 때문에.
+JAN: Ich habe gedacht, ich bin klug. Keine Unterlagen, nur Fragen. Und vielleicht habe ich ihm gerade damit die Karte gegeben.
+> 내가 영리한 줄 알았어. 자료는 안 주고 질문만. 근데 어쩌면 바로 그걸로 그한테 지도를 준 거야.
+TOBI: Weeßte, wat Elke sacht? Wer sich ärgert, dass er zu ehrlich war, is uff dem richtigen Weg. Nur zu langsam.
+= Weißt du, was Elke sagt? Wer sich ärgert, dass er zu ehrlich war, ist auf dem richtigen Weg. Nur zu langsam.
+> 엘케가 뭐라는지 알아? 너무 정직했던 걸로 짜증 내는 사람은 옳은 길에 있는 거래. 너무 느릴 뿐.
+JAN: Und wie wird man schneller?
+> 그럼 어떻게 빨라져?
+TOBI: Indem man den Nächsten nich wieder so nah ranlässt. Morjen sitzte ihm jejenüber. Und diesmal jibste ihm keene Fragen. Diesmal stellste welche.
+= Indem man den Nächsten nicht wieder so nah ranlässt. Morgen sitzt du ihm gegenüber. Und diesmal gibst du ihm keine Fragen. Diesmal stellst du welche.
+> 다음 놈을 다시 그렇게 가까이 들이지 않는 거지. 내일 그 사람이랑 마주 앉잖아. 그리고 이번엔 질문을 주지 마. 이번엔 네가 물어.
+JAN: Tobi. Wann bist du so weise geworden?
+> 토비. 언제 이렇게 현명해졌어?
+TOBI: Seit ick uff Elkes Boden schlafe. Neben der Musikbox. Die spielt um vier Uhr «Ein Bett im Kornfeld». Da wird man philosophisch.
+= Seit ich auf Elkes Boden schlafe. Neben der Musikbox. Die spielt um vier Uhr «Ein Bett im Kornfeld». Da wird man philosophisch.
+> 엘케네 바닥에서 자면서부터. 주크박스 옆에서. 4시에 «옥수수밭의 침대»를 틀어 주거든. 그러면 철학적이 돼.
+
+# 장면 7 — DER KURATOR SCHREIBT
+MIRA: Er schreibt. Der Kurator. Zum ersten Mal seit der grünen Tür.
+> 써요. 큐레이터. 초록 문 이후 처음으로.
+KURATOR: Janek. Ich hoffe, Sie sind nicht verärgert. Wir haben Sie getestet. Das gehört dazu. Ich habe einen neuen Auftrag. Einen, der zu Ihren Grenzen passt.
+> 야넥. 화나지 않으셨길 바랍니다. 당신을 시험했습니다. 그것도 일의 일부죠. 새 과제가 있습니다. 당신의 한계에 맞는.
+SWETA: «Der zu Ihren Grenzen passt.» Er hat dich kalibriert.
+> «당신의 한계에 맞는.» 당신을 보정했네요.
+JAN: «Wat für 'n Auftrag?»
+> «무슨 과제?»
+KURATOR: Noch nicht. In ein paar Tagen. Ich muss erst mit jemandem sprechen. Bis dahin: Ruhen Sie sich aus. Sie haben es verdient.
+> 아직은 아닙니다. 며칠 뒤에. 먼저 누군가와 얘기해야 합니다. 그때까진: 쉬십시오. 그럴 자격이 있으니까요.
+MIRA: «Ich muss erst mit jemandem sprechen.» Zum ersten Mal sagt er, dass er jemanden fragt.
+> «먼저 누군가와 얘기해야 합니다.» 처음으로 누구한테 묻는다고 말하네요.
+SWETA: Oder er will, dass wir das glauben. Damit wir nicht denken, er sei oben.
+> 아니면 우리가 그렇게 믿길 원하거나. 자기가 꼭대기라고 생각하지 않게.
+DANA: Wann hat er das geschrieben?
+> 그거 언제 썼어?
+MIRA: Mittwoch, elf Uhr zweiundvierzig.
+> 수요일, 11시 42분.
+LEON: Mittwoch, elf Uhr zweiundvierzig. Da tagt der Verteidigungsausschuss. Jeden Mittwoch in Sitzungswochen. Von neun bis dreizehn Uhr. Das steht im Kalender des Bundestages.
+> 수요일, 11시 42분. 그때 국방위원회가 열려요. 회기 주간마다 수요일. 9시부터 13시까지. 연방의회 일정표에 있어요.
+JAN: Und wer in der Sitzung sitzt, kann nicht mit jemandem sprechen. Erst danach.
+> 그리고 회의에 앉아 있는 사람은 누구랑 얘기할 수 없지. 끝난 뒤에야.
+KATRIN: Das ist ein Zufall, bis es keiner mehr ist.
+> 그건 우연이야, 더는 우연이 아니게 될 때까진.
+
+# 엔딩 — EINE EINLADUNG
+HELENE: Was jetzt?
+> 이제 어떡해?
+JAN: Jetzt gehe ich in den Bundestag.
+> 이제 연방의회에 갈 거야.
+HELENE: Als Jan oder als Janek?
+> 얀으로, 아니면 야넥으로?
+JAN: Als Jan. Mit meinem Presseausweis. Ganz offiziell. Ich bitte Lenz um ein Hintergrundgespräch. Über Sabotage und den Schutz von Lieferanten. Ein Thema, das jeder Journalist gerade recherchiert.
+> 얀으로. 기자증 들고. 아주 공식적으로. 렌츠한테 배경 취재를 요청할 거야. 사보타주와 납품업체 보호에 대해. 지금 모든 기자가 취재하는 주제지.
+KATRIN: Und was willst du fragen?
+> 그리고 뭘 물을 건데?
+JAN: Nichts, was er nicht beantworten darf. Ich will nur sehen, wie er reagiert. Und welche Fragen er mir stellt.
+> 그가 답하면 안 되는 건 아무것도. 그냥 어떻게 반응하는지 보고 싶어. 그리고 그가 나한테 무슨 질문을 하는지.
+SWETA: Und wenn er Lenz ist — der Lenz, den wir fürchten — dann weiß er nicht, dass du Janek bist.
+> 그리고 그가 렌츠라면 — 우리가 두려워하는 그 렌츠 — 당신이 야넥이라는 걸 모르겠죠.
+JAN: Dann sitzen wir uns gegenüber. Und jeder weiß etwas, was der andere nicht weiß.
+> 그럼 마주 앉게 되겠지. 그리고 각자 상대가 모르는 걸 알고 있고.
+DANA: Kowalczyk. Die Bundestagspolizei und die Bundesanwaltschaft sind ab heute informiert. Ich kann dich nicht davon abhalten, einen Büroleiter um ein Gespräch zu bitten. Das ist dein Recht. Aber du gehst ohne Janeks Telefon. Und ohne irgendetwas, das ihn auf dich bringen könnte.
+> 코발치크. 연방의회 경찰과 연방검찰은 오늘부터 알고 있어. 네가 실장한테 면담을 청하는 건 못 막아. 그건 네 권리니까. 근데 야넥 폰은 두고 가. 그리고 그를 너한테로 이끌 수 있는 건 아무것도 가져가지 마.
+JAN: Und Marek?
+> 그리고 마렉은?
+ELKE: Marek nimmste mit. Der hat noch nie wat verraten.
+= Marek nimmst du mit. Der hat noch nie was verraten.
+> 마렉은 데려가. 그 사람은 한 번도 뭘 누설한 적 없어.
+LEON: Die Mail an Lenz ist geschrieben. «Sehr geehrter Herr Lenz, wir erinnern uns an unser Gespräch im letzten Jahr…» Soll ich schicken?
+> 렌츠한테 보낼 메일 다 썼어요. «존경하는 렌츠 씨, 작년 대화를 기억하며…» 보낼까요?
+JAN: Schick.
+> 보내.
+LEON: … Und er hat schon geantwortet. Nach vier Minuten. «Lieber Herr Kowalczyk, wie schön, von Ihnen zu hören. Donnerstag, zehn Uhr, Jakob-Kaiser-Haus? Ich freue mich.»
+> … 그리고 벌써 답했어요. 4분 만에. «친애하는 코발치크 씨, 연락 주셔서 반갑습니다. 목요일 10시, 야코프 카이저 하우스 어떠세요? 기대됩니다.»
+SWETA: Vier Minuten. Er hat auf dich gewartet.
+> 4분. 당신을 기다리고 있었네요.
+HELENE: Und Jan — ein letzter Satz für heute.
+> 그리고 얀 — 오늘 마지막 문장.
+JAN: «Ich bin noch Journalist. Morgen sitze ich einem Mann gegenüber, der vielleicht weiß, wer ich bin. Und ich weiß vielleicht, wer er ist. Vielleicht.»
+> «난 아직 기자다. 내일 어쩌면 내가 누군지 아는 남자와 마주 앉는다. 그리고 나는 어쩌면 그가 누군지 안다. 어쩌면.»
+HELENE: Zweimal «vielleicht». Gut. Behalte beide.
+> «어쩌면» 두 번. 좋아. 둘 다 간직해.
+TOBI: Und ick bring dich hin. Bis zur Tür. Mit dem Golf. Is ja Donnerstag, aber dit is wieder 'n Notfall.
+= Und ich bringe dich hin. Bis zur Tür. Mit dem Golf. Ist ja Donnerstag, aber das ist wieder ein Notfall.
+> 그리고 내가 데려다줄게. 문 앞까지. 골프로. 목요일이지만 또 비상이잖아.
+JAN: Und ins Fahrtenbuch schreibst du: «Bundestag. Kein Notfall. Nur ein Gespräch.»
+> 그리고 운행 일지엔 이렇게 써. «연방의회. 비상 아님. 대화일 뿐.»
