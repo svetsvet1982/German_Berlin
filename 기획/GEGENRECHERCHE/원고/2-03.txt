@@ -1,0 +1,333 @@
+@part 2
+@ep 3
+@title Prepper-Chat
+@sub 대비족 채팅방 · 4월 말, 3만 8천 명의 텔레그램 방과 72시간 전의 할인 코드
+@info 대사 150턴 · 난이도 B1+ · 배경: 2-2화 사흘 뒤(2027년 4월 말), Spreewerk 편집국(밤), 헬러스도르프의 차고, 첼렌도르프 페터스 씨의 집 앞
+@cast MIRA | 미라 아이든 (31) · 데이터·OSINT 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast SWETA | 스베타 모로소바 (42) · 허위정보 전문 기자
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast UWE | 우베 크라머 (58) · 헬러스도르프의 대비족(Prepper), 전직 화물차 기사
+@cast PETERS | 마르쿠스 페터스 (38) · 첼렌도르프 주민, 공무원
+@note ※ '프레퍼(Prepper)'는 재난이나 위기에 대비해 식량, 물, 전기를 미리 준비하는 사람들입니다. 연방 시민보호재난구호청(BBK)은 가정마다 열흘 치 비상 물품을 갖추라고 권합니다. 대비 자체는 합리적이지만, 일부 채팅방은 음모론이나 상업 광고의 통로가 되기도 합니다. 이 화의 채팅방과 기업은 가상입니다.
+@note ※ 표현 초점: Kanal · Admin · Beitrag · Zeitstempel · Rabattcode · Postleitzahl · Impressum · Muttergesellschaft · Korrelation ≠ Kausalität
+@next 2부 4화 — «Sentinel»(센티넬) — 센티넬은 1월 정전 뒤 구청, 요양원, 학교의 비상전원·경비 계약 2,300만 유로를 긴급 수의계약으로 따냈다. 얀이 구청 조달 담당자를 인터뷰한다.
+
+# 콜드 오픈 — ZWEI UHR NACHTS
+LEON: Mira? Du bist noch hier? Es ist zwei Uhr.
+> 미라? 아직 여기 있어요? 두 시예요.
+MIRA: Ich lese. Achtunddreißigtausend Menschen. Ein Kanal. «Blackout Berlin – Vorbereitet sein».
+> 읽고 있어. 3만 8천 명. 채널 하나. «블랙아웃 베를린 – 대비하자».
+LEON: Ich habe Falafel mitgebracht. Aus dem Laden an der Ecke. Der hat bis drei offen.
+> 팔라펠 사 왔어요. 모퉁이 가게에서요. 거기 세 시까지 해요.
+MIRA: Du bist ein guter Mensch, Leon. Für einen Schwaben.
+> 넌 좋은 사람이야, 레온. 슈바벤 사람치고는.
+LEON: Was ist ein Telegram-Kanal genau? Ist das wie eine WhatsApp-Gruppe?
+> 텔레그램 채널이 정확히 뭐예요? 왓츠앱 단톡방 같은 거예요?
+MIRA: Fast. In einer Gruppe dürfen alle schreiben. In einem Kanal schreiben nur die Admins. Die anderen lesen. Und es gibt eine Chatgruppe daneben, für Kommentare.
+> 거의 비슷해. 그룹에선 다들 글을 쓸 수 있어. 채널에선 관리자만 쓰고 나머지는 읽기만 하지. 그리고 옆에 댓글용 대화방이 따로 있어.
+LEON: Und was schreiben die Admins?
+> 관리자들은 뭘 써요?
+MIRA: Tipps. Wasser, Konserven, Kerzen, Batterien. Viel Sinnvolles. Und viel Angst.
+> 요령들. 물, 통조림, 초, 건전지. 쓸모 있는 것도 많아. 그리고 공포도 많고.
+LEON: Angst?
+> 공포요?
+MIRA: «Der nächste Blackout kommt bestimmt.» «Die Regierung schützt euch nicht.» «Nur wer vorbereitet ist, überlebt.» Jeden Tag.
+> «다음 블랙아웃은 반드시 온다.» «정부는 너희를 지켜 주지 않는다.» «준비된 자만 살아남는다.» 매일매일.
+LEON: Und warum liest du das um zwei Uhr nachts?
+> 그런데 그걸 왜 새벽 두 시에 읽고 있어요?
+MIRA: Weil ich etwas gefunden habe. Und ich will sicher sein, bevor ich es Jan zeige.
+> 뭘 찾았거든. 얀한테 보여 주기 전에 확실히 하고 싶어서.
+
+# 장면 1 — ZEITSTEMPEL
+MIRA: Schau. Ich habe alle Beiträge der letzten sechs Monate heruntergeladen. Mit Datum und Uhrzeit. Fast neuntausend.
+> 봐. 지난 6개월 동안 올라온 글을 전부 내려받았어. 날짜랑 시간까지. 거의 9천 개.
+LEON: Neuntausend? Wie geht das?
+> 9천 개요? 그게 어떻게 돼요?
+MIRA: Mit einem kleinen Programm. Öffentliche Kanäle kann man exportieren. Das ist legal. Alles öffentlich.
+> 작은 프로그램으로. 공개 채널은 내보낼 수 있어. 합법이야. 전부 공개된 거니까.
+LEON: Und dann?
+> 그다음엔요?
+MIRA: Dann habe ich nach Werbung gesucht. Nach Links zu Shops. Normalerweise gibt es zwei oder drei pro Woche. Notstrom, Konserven, Wasserfilter.
+> 그다음엔 광고를 찾았어. 쇼핑몰로 가는 링크들. 보통은 일주일에 두세 개야. 비상전원, 통조림, 정수 필터.
+LEON: Und vor dem Stromausfall?
+> 그럼 정전 전에는요?
+MIRA: Hier. Diese Kurve. Am Sonntag, drei Tage vor dem Anschlag, beginnt es. Siebenundvierzig Werbebeiträge in zweiundsiebzig Stunden.
+> 여기. 이 곡선. 공격 사흘 전 일요일부터 시작돼. 72시간 동안 광고 글이 마흔일곱 개.
+LEON: Siebenundvierzig statt drei?
+> 세 개 대신 마흔일곱 개요?
+MIRA: Und alle für das Gleiche. «Blackout-Paket Ost. Notstrom plus Licht plus Wärme. Jetzt dreißig Prozent Rabatt.»
+> 그리고 전부 같은 상품이야. «블랙아웃 패키지 동부. 비상전원 + 조명 + 난방. 지금 30퍼센트 할인.»
+LEON: «Ost». Warum «Ost»?
+> «동부». 왜 «동부»예요?
+MIRA: Weil der Rabattcode nur für bestimmte Postleitzahlen gilt. Lies.
+> 할인 코드가 특정 우편번호에만 적용되거든. 읽어 봐.
+LEON: «Gültig für 12679, 12681, 12685, 12687.» Was sind das für Postleitzahlen?
+> «12679, 12681, 12685, 12687 지역에 한해 유효.» 이게 어디 우편번호예요?
+MIRA: Marzahn. Genau die Gebiete, die drei Tage später keinen Strom hatten.
+> 마르찬. 사흘 뒤에 정전된 바로 그 지역들이야.
+LEON: Oh.
+> 아.
+MIRA: Ja. Oh.
+> 그래. 아.
+LEON: Wer hat das gepostet?
+> 누가 올렸어요?
+MIRA: Nicht die Admins. Sogenannte «Partner». Fünf Accounts. Alle erst im Februar erstellt. Alle mit Profilbildern aus Bilddatenbanken.
+> 관리자들이 아니야. 이른바 «파트너». 계정 다섯 개. 전부 2월에 만들어졌어. 프로필 사진은 전부 이미지 데이터베이스에서 가져온 거고.
+LEON: Woher weißt du das mit den Bildern?
+> 사진은 어떻게 알았어요?
+MIRA: Bildersuche. Diesmal habe ich alles gesucht. Gesicht, Name, Bildnachweis. Ich habe von Tobi gelernt.
+> 이미지 검색. 이번엔 다 찾아봤어. 얼굴, 이름, 출처 표기까지. 토비 일로 배웠지.
+LEON: Und die Leute im Kanal? Haben die das gemerkt?
+> 채널 사람들은요? 눈치챘어요?
+MIRA: Einige. Hier, in den Kommentaren: «Warum nur Marzahn? Wisst ihr etwas, was wir nicht wissen?»
+> 몇 명은. 여기 댓글에. «왜 마르찬만이야? 너희 우리가 모르는 거 알아?»
+LEON: Und die Antwort?
+> 답은요?
+MIRA: «Nur ein Regionalangebot. Andere Bezirke folgen.» Und dann wurde der Kommentar gelöscht.
+> «지역 한정 상품일 뿐입니다. 다른 구도 곧 이어집니다.» 그리고 그 댓글은 삭제됐어.
+LEON: Gelöscht? Aber du hast ihn trotzdem?
+> 삭제됐다고요? 그런데 갖고 계세요?
+MIRA: Ich exportiere jeden Abend. Was gelöscht wird, habe ich schon.
+> 매일 저녁 내려받거든. 삭제된 건 이미 갖고 있어.
+LEON: Mira, das ist… gruselig.
+> 미라, 그거… 소름 끼쳐요.
+MIRA: Das ist OSINT. Open Source Intelligence. Öffentliche Quellen, gut sortiert.
+LEON: Und wer sind die Admins vom Kanal?
+> 그럼 채널 관리자들은 누구예요?
+MIRA: Zwei. Einer heißt «Wolfsrudel_Berlin», der andere «Notfallmama». Den Kanal gibt es seit 2022. Damals hatte er dreihundert Mitglieder.
+> 두 명이야. 하나는 «볼프스루델_베를린», 다른 하나는 «노트팔마마». 채널은 2022년부터 있었어. 그때는 회원이 3백 명이었고.
+LEON: Und jetzt achtunddreißigtausend?
+> 그런데 지금은 3만 8천 명이요?
+MIRA: Nach dem Januar 2026 sind in einer Woche zwanzigtausend dazugekommen. Angst ist das beste Wachstumsprogramm.
+> 2026년 1월 뒤로 일주일 만에 2만 명이 늘었어. 공포만큼 좋은 성장 전략은 없지.
+LEON: Wissen die Admins von den «Partnern»?
+> 관리자들은 그 «파트너»들을 알아요?
+MIRA: Sie haben sie selbst hinzugefügt. Partner dürfen posten. Das muss man erlauben.
+> 자기들이 직접 추가했어. 파트너는 글을 올릴 수 있거든. 그건 허락을 해 줘야 돼.
+LEON: Also bekommen die Admins Geld?
+> 그럼 관리자들이 돈을 받는 거예요?
+MIRA: Das weiß ich nicht. Noch nicht. Aber niemand gibt seinen Kanal umsonst her.
+> 그건 몰라. 아직은. 그래도 자기 채널을 공짜로 내주는 사람은 없지.
+> 그게 OSINT야. 공개 출처 정보. 공개된 자료를 잘 정리한 것뿐이지.
+
+# 장면 2 — GEGENRECHERCHE UM ACHT UHR
+JAN: Siebenundvierzig Beiträge, Postleitzahlen von Marzahn, drei Tage vorher. Das ist… stark.
+> 글 마흔일곱 개, 마르찬 우편번호, 사흘 전. 이건… 강력하네.
+SWETA: Stark. Aber erst die Gegenrecherche. Welche anderen Erklärungen gibt es?
+> 강력하지. 그래도 먼저 반대 취재. 다른 설명은 뭐가 있을까?
+LEON: Vielleicht gab es eine Warnung? Von der Netzgesellschaft? Wartungsarbeiten?
+> 경고가 있었을 수도 있잖아요? 전력망 회사에서요? 정비 작업이라든가?
+MIRA: Habe ich geprüft. Keine angekündigten Arbeiten in Marzahn. Nicht im April, nicht im März.
+> 확인했어. 마르찬엔 예고된 작업이 없었어. 4월에도, 3월에도.
+SWETA: Vielleicht macht der Shop immer regionale Angebote? Diese Woche Marzahn, nächste Woche Spandau?
+> 그 쇼핑몰이 원래 지역별 할인을 하는 걸 수도 있잖아? 이번 주는 마르찬, 다음 주는 슈판다우 하는 식으로?
+MIRA: Gute Frage. Ich habe alle sechs Monate geprüft. Es gab vorher genau ein regionales Angebot. Im Februar. Für Steglitz-Zehlendorf.
+> 좋은 질문이야. 6개월 치를 다 확인했어. 그 전엔 지역 한정 상품이 딱 하나 있었어. 2월에. 슈테글리츠-첼렌도르프용.
+JAN: Wo im Januar 2026 der große Stromausfall war.
+> 2026년 1월에 대정전이 있었던 곳이네.
+MIRA: Ein Jahr danach. Zum Jahrestag. «Erinnern Sie sich an den Januar? Seien Sie diesmal vorbereitet.»
+> 1년 뒤에. 기념일에 맞춰서. «1월 기억나세요? 이번엔 대비하세요.»
+SWETA: Das ist geschmacklos, aber normales Marketing. Angst verkauft gut.
+> 그건 몰상식하지만 흔한 마케팅이야. 공포는 잘 팔리니까.
+HELENE: Und Marzahn?
+> 그럼 마르찬은요?
+MIRA: Marzahn ist anders. Vorher gab es dort nichts. Keinen Grund, dort Angst zu verkaufen. Keinen Jahrestag. Nichts.
+> 마르찬은 달라요. 그 전엔 거기에 아무 일도 없었어요. 거기서 공포를 팔 이유가 없었죠. 기념일도 없고. 아무것도요.
+HELENE: Korrelation ist nicht Kausalität. Das wisst ihr.
+> 상관관계는 인과관계가 아니에요. 알죠.
+JAN: Wir wissen. Wir sagen nicht: Der Shop hat den Anschlag gemacht. Wir fragen nur: Woher wusste der Shop, wo er Werbung machen soll?
+> 알아요. 그 쇼핑몰이 공격을 했다고 말하는 게 아니에요. 그냥 묻는 거예요. 그 쇼핑몰은 어디에 광고를 해야 할지 어떻게 알았나?
+SWETA: Es gibt noch eine dritte Erklärung. Zufall. Ein Marketingmensch hat gewürfelt. Marzahn. Und dann ist zufällig der Strom ausgefallen.
+> 세 번째 설명도 있어요. 우연. 마케팅 담당자가 주사위를 굴렸는데 마르찬이 나왔고, 그다음에 우연히 정전이 된 거죠.
+LEON: Wie groß ist die Wahrscheinlichkeit dafür?
+> 그럴 확률이 얼마나 돼요?
+MIRA: Berlin hat zwölf Bezirke. Man kann rechnen. Aber ehrlich: Ich glaube nicht an diesen Zufall.
+> 베를린엔 구가 열두 개야. 계산은 할 수 있지. 그래도 솔직히 난 그런 우연은 안 믿어.
+HELENE: Glauben ist nicht unser Beruf, Mira.
+> 믿는 건 우리 일이 아니에요, 미라.
+MIRA: Ich weiß. Deshalb will ich den Shop finden. Wem gehört er?
+> 알아요. 그래서 그 쇼핑몰을 찾고 싶어요. 누구 거냐고요.
+JAN: Und was steht im Impressum?
+> 회사 정보란엔 뭐라고 적혀 있어?
+MIRA: «NotstromDirekt24». Betrieben von der «NSD Handels GmbH», Berlin-Adlershof.
+> «노트슈트롬디렉트24». 운영사는 «NSD 무역 유한회사», 베를린 아들러스호프.
+JAN: Und wem gehört die NSD Handels GmbH?
+> 그럼 NSD 무역 유한회사는 누구 소유야?
+MIRA: Das schaue ich gleich im Handelsregister nach. Die Daten brauchen ein paar Stunden.
+> 상업 등기에서 바로 찾아볼게. 자료 받는 데 몇 시간 걸려.
+HELENE: Und Leon? Was machst du?
+> 그럼 레온은요? 뭐 해요?
+LEON: Ich will mit einem echten Prepper reden. Einem, der im Kanal ist. Um zu verstehen, wie die Leute denken.
+> 진짜 대비족이랑 얘기해 보고 싶어요. 그 채널에 있는 사람이요. 사람들이 어떻게 생각하는지 이해하려고요.
+HELENE: Gut. Aber du gehst nicht verdeckt. Du sagst, wer du bist.
+> 좋아요. 대신 위장은 안 돼요. 누군지 밝혀요.
+LEON: Natürlich. Ich habe aus Tobis Geschichte gelernt.
+> 당연하죠. 토비 일로 배웠어요.
+
+# 장면 3 — UWES GARAGE
+UWE: Du bist der Journalist? Komm rein. Vorsicht, die Kisten.
+> 네가 그 기자야? 들어와. 조심해, 상자들.
+LEON: Guten Tag, Herr Kramer. Leon Fischer, Spreewerk. Wow. Das ist ja…
+> 안녕하세요, 크라머 씨. 슈프레베르크의 레온 피셔예요. 와. 이건 정말…
+UWE: Viel? Sag es ruhig. Alle sagen das. Meine Frau sagt das jeden Tag.
+> 많지? 편하게 말해. 다들 그래. 우리 마누라는 매일 그 소리야.
+LEON: Wie viel Wasser ist das?
+> 물이 얼마나 돼요?
+UWE: Zweihundert Liter. Für zwei Personen, zehn Tage, mit Kochen. Das empfiehlt das Bundesamt für Bevölkerungsschutz. Ich habe nur ein bisschen mehr.
+> 200리터. 두 사람이 열흘 동안 밥까지 해 먹을 양이야. 연방 시민보호청이 권하는 거지. 난 조금 더 갖고 있을 뿐이고.
+LEON: Und das hier? Ein Generator?
+> 그리고 이건요? 발전기예요?
+UWE: Ein kleiner Benzingenerator. Zweitausend Watt. Für den Kühlschrank und das Licht. Nicht für die Heizung.
+> 작은 휘발유 발전기야. 2천 와트. 냉장고랑 조명용. 난방용은 아니고.
+LEON: Seit wann bereiten Sie sich vor?
+> 언제부터 대비하셨어요?
+UWE: Seit Corona. Damals gab es kein Klopapier. Ich bin Lkw-Fahrer gewesen. Ich weiß, wie schnell Lieferketten kaputtgehen.
+> 코로나 때부터. 그때 화장지가 없었잖아. 난 화물차 기사였어. 공급망이 얼마나 빨리 무너지는지 알지.
+LEON: Und dann kam der Januar 2026.
+> 그러다 2026년 1월이 왔고요.
+UWE: Dann kam Lichterfelde. Und alle haben gesagt: «Uwe, du hattest recht.» Seitdem bin ich im Kanal. Als normales Mitglied.
+> 리히터펠데 사건이 났지. 그리고 다들 그러더라. «우베, 네 말이 맞았어.» 그 뒤로 그 채널에 있어. 그냥 일반 회원으로.
+LEON: Was halten Sie von dem Kanal?
+> 그 채널은 어떻게 생각하세요?
+UWE: Am Anfang gut. Gute Tipps. Jetzt… Jetzt ist es zu viel Angst. Und zu viel Werbung.
+> 처음엔 좋았어. 요령도 쓸 만하고. 지금은… 지금은 공포가 너무 많아. 광고도 너무 많고.
+LEON: Die «Partner»?
+> 그 «파트너»들이요?
+UWE: Du kennst die? Die kamen im Februar. Plötzlich. Immer mit Links. Immer mit Rabatt.
+> 알아? 그 사람들 2월에 왔어. 갑자기. 늘 링크를 달고. 늘 할인을 들고.
+LEON: Ist Ihnen vor dem Stromausfall in Marzahn etwas aufgefallen?
+> 마르찬 정전 전에 눈에 띈 게 있었어요?
+UWE: Ja. Ich wohne in Hellersdorf. Direkt neben Marzahn. Und ich habe gedacht: Warum gilt der Rabatt für Marzahn, aber nicht für mich? Fünf Minuten entfernt.
+> 그래. 난 마르찬 바로 옆 헬러스도르프에 살아. 그래서 생각했지. 왜 할인이 마르찬은 되고 나는 안 되지? 5분 거리인데.
+LEON: Haben Sie das gefragt?
+> 그거 물어보셨어요?
+UWE: Im Kommentar. Und mein Kommentar wurde gelöscht. Und dann wurde ich aus der Chatgruppe geworfen.
+> 댓글로. 그런데 내 댓글이 삭제됐어. 그러고는 대화방에서 쫓겨났지.
+LEON: Der gelöschte Kommentar! «Warum nur Marzahn? Wisst ihr etwas, was wir nicht wissen?» Das waren Sie?
+> 그 삭제된 댓글! «왜 마르찬만이야? 너희 우리가 모르는 거 알아?» 그게 아저씨였어요?
+UWE: Das war ich. Woher weißt du das?
+> 나였어. 그걸 어떻게 알아?
+LEON: Meine Kollegin speichert alles.
+> 제 동료가 전부 저장하거든요.
+UWE: Kluges Mädchen. Hör zu, Junge. Ich bin Prepper. Ich bin kein Spinner. Ich glaube nicht an Echsenmenschen. Ich glaube an Konserven.
+> 똑똑한 아가씨네. 잘 들어, 젊은이. 난 대비족이야. 미치광이가 아니라고. 난 파충류 인간 같은 건 안 믿어. 난 통조림을 믿지.
+LEON: Darf ich das so schreiben?
+> 그대로 써도 돼요?
+UWE: Schreib das. Mit Namen. Und schreib auch: Vorbereitung ist gut. Aber wer mit der Angst Geld verdient, ist kein Freund.
+> 써. 실명으로. 그리고 이것도 써. 대비는 좋은 거야. 하지만 공포로 돈을 버는 놈은 친구가 아니야.
+
+# 장면 4 — DIE RECHNUNG VON HERRN PETERS
+PETERS: Herr Fischer? Rita hat gesagt, Sie kommen. Hier. Die Rechnung. Ich hebe alles auf.
+> 피셔 씨? 리타 씨가 오실 거라고 하더라고요. 여기요. 영수증. 전 뭐든 다 보관해요.
+LEON: Vielen Dank, Herr Peters. Darf ich ein Foto machen?
+> 정말 감사해요, 페터스 씨. 사진 찍어도 될까요?
+PETERS: Bitte. Ich habe nichts zu verbergen. Ich habe nur viel zu viel bezahlt.
+> 그러세요. 숨길 거 없어요. 그냥 돈을 너무 많이 냈을 뿐이죠.
+LEON: «Notstrompaket Komfort, eintausendeinhundertneunzig Euro, bar bezahlt, fünfter Januar 2026.»
+> «비상전원 패키지 컴포트, 1,190유로, 현금 결제, 2026년 1월 5일.»
+PETERS: Bar. Die Kartenterminals gingen ja nicht. Kein Strom.
+> 현금이요. 카드 단말기가 안 됐거든요. 전기가 없었으니까.
+LEON: Und oben? Wer hat die Rechnung ausgestellt?
+> 그럼 위쪽엔요? 영수증을 발행한 곳이 어디예요?
+PETERS: Lesen Sie selbst. Mit dem Ritter.
+> 직접 읽어 보세요. 기사 그림 있는 거.
+LEON: «Sentinel Mobile Services GmbH. Ein Unternehmen der Sentinel Hauptstadt Gruppe.»
+> «센티넬 모바일 서비스 유한회사. 센티넬 하우프트슈타트 그룹 계열사.»
+PETERS: Sentinel. Ja. Jetzt erinnere ich mich. Auf dem Wagen stand «Sentinel – Wir wachen über Berlin».
+> 센티넬. 네. 이제 기억나네요. 차에 «센티넬 – 우리가 베를린을 지킨다»라고 적혀 있었어요.
+LEON: Hat Ihnen der Generator geholfen?
+> 그 발전기는 도움이 됐어요?
+PETERS: Zwei Tage. Dann war das Benzin leer. Und es gab kein Benzin. Die Tankstellen hatten auch keinen Strom.
+> 이틀이요. 그다음엔 휘발유가 떨어졌어요. 그런데 휘발유를 구할 데가 없었어요. 주유소도 전기가 없었으니까.
+LEON: Also tausendeinhundertneunzig Euro für zwei Tage.
+> 그러니까 이틀에 1,190유로였네요.
+PETERS: Für zwei Tage Milch für mein Baby. Ich würde es wieder tun. Aber ich bin wütend.
+> 우리 아기 이틀 치 우유를 위해서였죠. 다시 그래야 한다면 또 살 거예요. 그래도 화가 나요.
+LEON: Auf wen?
+> 누구한테요?
+PETERS: Auf alle. Auf die, die den Strom abgestellt haben. Auf den Staat, der nicht vorbereitet war. Und auf die, die daran verdient haben.
+> 모두한테요. 전기를 끊은 놈들한테. 대비가 안 돼 있던 나라한테. 그리고 그걸로 돈을 번 사람들한테.
+LEON: Sie sind selbst Beamter. Darf ich fragen, wo?
+> 공무원이시잖아요. 어디서 일하시는지 여쭤봐도 될까요?
+PETERS: Im Finanzamt. Ich prüfe Steuererklärungen. Deshalb hebe ich alles auf.
+> 세무서요. 세금 신고서를 검토해요. 그래서 뭐든 다 보관하죠.
+LEON: Dann wissen Sie, was die Rechnung bedeutet.
+> 그럼 이 영수증이 무슨 뜻인지 아시겠네요.
+PETERS: Ich weiß nur: Wer bar kassiert und keine Steuernummer aufdruckt, hat ein Problem mit dem Finanzamt.
+> 제가 아는 건 이거예요. 현금으로 받으면서 세금 번호를 안 찍는 사람은 세무서랑 문제가 생긴다는 거.
+LEON: Keine Steuernummer?
+> 세금 번호가 없어요?
+PETERS: Schauen Sie unten. Leer. Das habe ich damals schon gesehen. Aber es war dunkel und kalt.
+> 아래쪽 보세요. 비어 있죠. 그때도 봤어요. 근데 어둡고 추웠으니까.
+
+# 장면 5 — ZWEI PUZZLETEILE
+LEON: Ich habe die Rechnung! Sentinel Mobile Services. Januar 2026. Und keine Steuernummer.
+> 영수증 받았어요! 센티넬 모바일 서비스. 2026년 1월. 그리고 세금 번호가 없어요.
+MIRA: Und ich habe das Handelsregister. Die NSD Handels GmbH, die den Shop betreibt.
+> 그리고 난 상업 등기를 받았어. 그 쇼핑몰을 운영하는 NSD 무역 유한회사.
+JAN: Und?
+> 그래서?
+MIRA: Gesellschafterin: zu hundert Prozent die «Sentinel Hauptstadt Holding GmbH».
+> 출자자: 100퍼센트 «센티넬 하우프트슈타트 지주 유한회사».
+TOBI: Sentinel. Der Ritter mit dem Schild. Schon wieder.
+= Sentinel. Der Ritter mit dem Schild. Schon wieder.
+> 센티넬. 방패 든 기사. 또 나왔네.
+SWETA: Also: Im Januar 2026 verkauft Sentinel Generatoren auf der Straße in Zehlendorf. Im April 2027 bewirbt eine Sentinel-Tochter Notstrom für Marzahn, drei Tage vor dem Stromausfall.
+> 그러니까 2026년 1월엔 센티넬이 첼렌도르프 길거리에서 발전기를 팔았고. 2027년 4월엔 센티넬 자회사가 정전 사흘 전에 마르찬에 비상전원을 광고했고.
+HELENE: Das sind zwei Puzzleteile. Kein Bild.
+> 그건 퍼즐 조각 두 개예요. 그림이 아니라.
+JAN: Ein Unternehmen, das an Stromausfällen verdient. Das ist noch nicht verboten.
+> 정전으로 돈을 버는 회사. 그건 아직 불법이 아니죠.
+HELENE: Richtig. Ein Bäcker verdient auch, wenn Leute Hunger haben.
+> 맞아요. 사람들이 배고프면 빵집도 돈을 벌죠.
+LEON: Aber der Bäcker weiß nicht drei Tage vorher, wann die Leute Hunger haben.
+> 그런데 빵집은 사람들이 언제 배고플지 사흘 전에 알지는 못하잖아요.
+HELENE: Guter Satz, Leon. Aber noch kein Beweis.
+> 좋은 문장이에요, 레온. 그래도 아직 증거는 아니에요.
+JAN: Was brauchen wir?
+> 뭐가 필요하죠?
+HELENE: Wir brauchen eine Verbindung. Zwischen dem, was Sentinel wusste, und dem, was passiert ist. Und eine Quelle, die erklärt, woher sie es wusste.
+> 연결 고리가 필요해요. 센티넬이 알고 있던 것과 실제로 일어난 일 사이의. 그리고 그걸 어떻게 알았는지 설명해 줄 취재원도.
+JAN: Dana hat gesagt: «Fragt, wer die Liste bekommen hat.» Die Liste mit den Schwachstellen.
+> 다나가 그랬어요. «누가 그 목록을 받았는지 물어보라.» 취약 지점 목록 말이에요.
+HELENE: Also, Aufgaben. Leon: Rita, Peters, Uwe. Die Menschen und das Geld. Das ist deine Geschichte.
+> 자, 할 일. 레온: 리타, 페터스, 우베. 사람과 돈. 그게 당신 기사예요.
+LEON: Verstanden.
+> 알겠어요.
+HELENE: Jan: Sentinel. Wer sie sind, was sie verdienen, welche Aufträge sie haben.
+> 얀: 센티넬. 그 회사가 누군지, 얼마를 버는지, 어떤 계약을 갖고 있는지.
+JAN: Ich fange bei den Bezirksämtern an. Notstrom für Schulen und Pflegeheime nach dem Januar. Das wurde damals schnell vergeben.
+> 구청들부터 시작할게요. 1월 뒤에 학교랑 요양원용 비상전원 계약이요. 그때 그게 급하게 체결됐거든요.
+HELENE: Sweta: das Bekennerschreiben. Wer schreibt so? Und Tobi: Kabelbrücken. Alle, die keine Kamera haben.
+> 스베타: 범행 주장문. 누가 이렇게 쓰는지. 그리고 토비: 케이블 다리. 카메라 없는 곳 전부.
+TOBI: Sechsunddreißig Stück. Det wird 'ne lange Fahrradtour.
+= Sechsunddreißig Stück. Das wird eine lange Fahrradtour.
+> 서른여섯 곳. 긴 자전거 여행이 되겠네.
+MIRA: Und noch etwas. Ich habe die Zahlungsseite vom Shop analysiert. Wenn man bezahlt, landet man nicht bei NSD.
+> 그리고 하나 더. 쇼핑몰 결제 페이지를 분석했어요. 결제를 하면 NSD로 가는 게 아니에요.
+
+# 엔딩 — DIE ZAHLUNGSSEITE
+JAN: Sondern?
+> 그럼?
+MIRA: Bei einem Zahlungskonto. Und der Kontoinhaber steht im Zertifikat der Seite.
+> 결제 계좌로 가요. 그리고 계좌 주인 이름이 그 페이지 인증서에 있어요.
+LEON: Wer?
+> 누군데요?
+MIRA: «Sentinel Hauptstadt GmbH». Nicht die Holding. Nicht die Tochter. Die Hauptfirma selbst.
+> «센티넬 하우프트슈타트 유한회사». 지주회사도, 자회사도 아니고. 본사 그 자체.
+SWETA: Warum ist das wichtig?
+> 그게 왜 중요해요?
+MIRA: Weil ich vor einer Stunde etwas anderes gefunden habe. Auf der Vergabeplattform des Landes. Die Kameras für die Kabelbrücken.
+> 한 시간 전에 다른 걸 찾았거든요. 주 정부 조달 플랫폼에서. 케이블 다리 카메라 건이요.
+JAN: Der Auftrag. Die Dringlichkeitsvergabe vom Juli 2026.
+> 그 계약. 2026년 7월의 긴급 수의계약.
+MIRA: Ein Nachtrag wurde veröffentlicht. Mit dem Namen des Auftragnehmers.
+> 추가 공고가 올라왔어요. 수급자 이름까지 해서요.
+TOBI: Sag nich…
+= Sag nicht…
+> 설마…
+MIRA: «Sentinel Hauptstadt GmbH.» Dieselbe Firma, die die Kameras an den Kabelbrücken aufhängen sollte, verkauft Notstrom, wenn die Kabelbrücken brennen.
+> «센티넬 하우프트슈타트 유한회사.» 케이블 다리에 카메라를 달아야 했던 바로 그 회사가, 케이블 다리가 불타면 비상전원을 팔고 있어요.
