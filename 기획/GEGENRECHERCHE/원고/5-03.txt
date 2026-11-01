@@ -1,0 +1,361 @@
+@part 5
+@ep 3
+@title Abrechnung
+@sub 청구 · 바닥에 누운 사람이 청구서가 되는 법
+@info 대사 150턴 · 난이도 B2+ · 배경: 2028년 5월, Spreewerk 편집국, 제슈트라세 빵집, 배르벨의 사무실, 브란덴부르크 클라인마흐노의 정원
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast KAI | 카이 (33) · 응급구조사
+@cast BÄRBEL | 배르벨 크뤼거 (56) · «Pflege daheim Wedding» 대표 (베를린 사투리)
+@cast UWE | 우베 렘케 (52) · 호르스트의 조카 (슈투트가르트)
+@cast WALLNER | 게르트 발너 (68) · 은퇴한 간병보험 감사관
+@note ※ 미라가 간병보험(Pflegekasse) 청구 구조를 공부한다. 서비스 묶음(Leistungskomplex) 단위 청구, 수행 확인서, 의료감정원(Medizinischer Dienst)의 정기 감사가 왜 허위 청구를 잘 못 잡는지 짚는다. 은퇴 감사관 인터뷰. 등장 인물 가상. 금액은 극 중 단순화한 예시.
+@note ※ 표현 초점: die Pflegekasse · der Leistungskomplex · der Abrechnungsbetrug · die Qualitätsprüfung · der Medizinische Dienst · die Leistungsübersicht
+@next 5부 4화 — «Die Toten zahlen weiter»(죽은 사람도 계속 낸다) — 미라가 사망 공고와 청구 패턴을 대조해 '유령 환자'를 찾는다.
+
+# 콜드 오픈 — DIE WAND
+MIRA: Ich habe die ganze Wand vollgeklebt. Bitte nicht erschrecken.
+> 벽 전체에 붙여 놨어요. 놀라지 마세요.
+LEON: Das sieht aus wie ein Stammbaum. Nur mit Geld.
+> 족보 같네요. 돈으로 된.
+MIRA: Genau das ist es. Oben die Pflegeversicherung. Darunter die Pflegekassen. Darunter die Pflegedienste. Und ganz unten: Horst.
+> 바로 그거예요. 맨 위에 간병보험 제도. 그 아래 간병보험 금고들. 그 아래 요양 업체들. 그리고 맨 아래: 호르스트.
+JAN: Erklär es mir, als wäre ich Elke.
+> 엘케한테 설명하듯 설명해 줘.
+MIRA: Gut. Horst hat Pflegegrad drei. Damit hat er Anspruch auf Pflegesachleistungen. Ein Budget, sagen wir rund fünfzehnhundert Euro im Monat. Das Geld bekommt nicht Horst. Das bekommt der Pflegedienst. Direkt von der Kasse.
+> 좋아요. 호르스트는 등급 3이에요. 그래서 현물 돌봄 급여 권리가 있어요. 예산이죠, 대략 월 1,500유로라고 해요. 그 돈은 호르스트가 아니라 요양 업체가 받아요. 금고에서 직접.
+JAN: Und wofür genau?
+> 정확히 뭐에 대해?
+MIRA: Für Leistungskomplexe. Kleine Pakete. «Kleine Morgentoilette.» «Große Morgentoilette.» «Hilfe bei der Nahrungsaufnahme.» Jedes Paket hat einen Preis. Und dazu kommen ärztlich verordnete Leistungen wie Insulin. Die zahlt sogar eine andere Kasse, die Krankenkasse.
+> 서비스 묶음에 대해. 작은 패키지들. «간단한 아침 세면.» «전체 아침 세면.» «식사 보조.» 패키지마다 가격이 있어요. 거기에 인슐린 같은 의사 처방 서비스가 더해져요. 그건 심지어 다른 금고, 건강보험이 내요.
+LEON: Zwei Kassen für einen Morgen. Das ist kompliziert.
+> 아침 한 번에 금고 둘. 복잡하네요.
+MIRA: Kompliziert ist gut für Betrüger. Je mehr Töpfe, desto weniger sieht einer das Ganze.
+> 복잡한 건 사기꾼한테 좋아요. 냄비가 많을수록 전체를 보는 사람이 줄어요.
+HELENE: Und wer kontrolliert, ob der Morgen stattgefunden hat?
+> 그럼 그 아침이 실제로 있었는지는 누가 확인해?
+MIRA: Der Zettel am Kühlschrank. Unterschrieben von der Pflegekraft. Und vom Patienten.
+> 냉장고의 종이. 요양사가 서명하고. 환자가 서명하고.
+JAN: Also niemand.
+> 그러니까 아무도.
+MIRA: Also fast niemand. Und genau das will ich heute verstehen.
+> 그러니까 거의 아무도. 그리고 바로 그걸 오늘 이해하고 싶어요.
+
+# 장면 1 — DIE BÄCKEREI IN DER SEESTRASSE
+TOBI: Kai? Tobi. Wir ham uns bei Horst Lemke jesehen. Malplaquetstraße. Der uff'm Boden.
+= Kai? Tobi. Wir haben uns bei Horst Lemke gesehen. Malplaquetstraße. Der auf dem Boden.
+> 카이? 토비야. 호르스트 렘케 집에서 봤잖아. 말플라케 슈트라세. 바닥에 있던 분.
+KAI: Der Fotograf. Ja. Wie geht es ihm?
+> 사진사. 네. 그분 어때요?
+TOBI: Er lebt. Spielt Skat mit unserem Jüngsten und zockt ihn ab.
+= Er lebt. Spielt Skat mit unserem Jüngsten und zockt ihn ab.
+> 살아 있어. 우리 막내랑 스카트 치면서 털어먹고 있지.
+KAI: Gut. Das hört man selten. Meistens erfahren wir nie, was aus ihnen wird.
+> 좋네요. 그런 소식 드물어요. 보통은 어떻게 됐는지 영영 몰라요.
+TOBI: Kann ick dir 'n Kaffee hinstellen? Ick will dich nich ausfragen. Nur wat fragen. Een Mal. Und wenn de nee sachst, is jut.
+= Kann ich dir einen Kaffee hinstellen? Ich will dich nicht ausfragen. Nur etwas fragen. Ein Mal. Und wenn du nein sagst, ist gut.
+> 커피 한 잔 사도 돼? 캐묻진 않을게. 하나만 물을게. 한 번. 싫다고 하면 그걸로 끝.
+KAI: Frag.
+> 물어봐요.
+TOBI: Wie oft findest du Leute wie Horst? Die uff'm Papier versorgt sind und in Wirklichkeit nich?
+= Wie oft findest du Leute wie Horst? Die auf dem Papier versorgt sind und in Wirklichkeit nicht?
+> 호르스트 같은 사람을 얼마나 자주 봐? 서류상으론 돌봄 받는데 실제론 아닌?
+KAI: Zu oft. Ich kann dir keine Namen sagen. Aber ich kann dir sagen, was ich sehe. Ich sehe Kühlschränke. Und auf vielen Kühlschränken hängt ein Zettel, auf dem alles erledigt ist. Und daneben steht ein Mensch, bei dem nichts erledigt ist.
+> 너무 자주요. 이름은 못 말해요. 근데 뭘 보는지는 말할 수 있어요. 냉장고를 봐요. 그리고 많은 냉장고에 다 완료됐다는 종이가 붙어 있어요. 그리고 그 옆엔 아무것도 완료 안 된 사람이 있고요.
+TOBI: Und meldet ihr dit?
+= Und meldet ihr das?
+> 그거 신고해?
+KAI: Wir schreiben es ins Einsatzprotokoll. Das Protokoll geht ans Krankenhaus. Nicht an die Pflegekasse. Nicht an die Polizei. Niemand liest es mit dieser Frage.
+> 출동 기록에 적어요. 기록은 병원으로 가요. 간병보험으로도 경찰로도 안 가요. 아무도 그 질문을 품고 읽지 않아요.
+TOBI: Also wissen dit alle, und keener weeß et.
+= Also wissen das alle, und keiner weiß es.
+> 그러니까 다들 아는데, 아무도 모르는 거네.
+KAI: Das ist der beste Satz über das Gesundheitssystem, den ich je gehört habe. Von einem Fotografen.
+> 보건 체계에 대해 들은 말 중 최고네요. 사진사한테서.
+TOBI: Ick bin Berliner. Wir sajen die Wahrheit kurz.
+= Ich bin Berliner. Wir sagen die Wahrheit kurz.
+> 베를린 사람이거든. 우린 진실을 짧게 말해.
+KAI: Ich denke darüber nach, ob ich mehr sage. Gib mir deine Nummer. Nicht die von der Redaktion. Deine.
+> 더 말할지 생각해 볼게요. 번호 줘요. 편집국 거 말고. 당신 거.
+
+# 장면 1-2 — KAI RUFT ZURÜCK
+KAI: Tobi? Kai. Ich habe nachgedacht. Ich sage dir nichts über Patienten. Aber ich erzähle dir, wie ein Einsatz aussieht. Allgemein.
+> 토비? 카이예요. 생각해 봤어요. 환자 얘긴 안 해요. 근데 출동이 어떤지는 말해 줄게요. 일반적으로.
+TOBI: Mehr will ick nich. Ehrlich.
+= Mehr will ich nicht. Ehrlich.
+> 그 이상 원하지 않아. 진짜로.
+KAI: Wir kommen rein. Es riecht. Nach Urin, nach altem Essen. Der Mensch liegt im Bett oder auf dem Boden. Und an der Wand hängt ein Plan, auf dem steht, dass heute früh jemand ihn gewaschen hat.
+> 들어가요. 냄새가 나요. 소변, 오래된 음식. 사람은 침대나 바닥에 누워 있고. 벽엔 오늘 아침 누가 그를 씻겼다는 계획표가 걸려 있어요.
+TOBI: Und denn?
+= Und dann?
+> 그다음엔?
+KAI: Dann frage ich: Wann war der Pflegedienst zuletzt hier? Und sie sagen: Weiß nicht. Manche sagen: Heute früh. Weil sie es glauben wollen. Weil die Wahrheit zu weh tut.
+> 그다음 물어요. 요양 업체가 마지막으로 언제 왔어요? 그러면 그래요. 몰라요. 어떤 분은: 오늘 아침. 그렇게 믿고 싶으니까. 진실이 너무 아프니까.
+TOBI: Haste mal eenen Pflegedienst anjerufen? Direkt aus der Wohnung?
+= Hast du mal einen Pflegedienst angerufen? Direkt aus der Wohnung?
+> 업체에 전화해 본 적 있어? 그 집에서 바로?
+KAI: Einmal. Die Frau am Telefon sagte: «Unsere Mitarbeiterin war um neun da, der Patient war wohlauf.» Ich stand vor dem Patienten. Er war seit einem Tag bewusstlos.
+> 한 번. 전화 받은 여자가 그러더라고요. «저희 직원이 9시에 갔고 환자는 멀쩡했습니다.» 전 환자 앞에 서 있었어요. 하루째 의식이 없었어요.
+TOBI: Welcher Dienst?
+> 어느 업체?
+KAI: Das sage ich dir nicht. Noch nicht. Aber das Logo auf dem Zettel war eine Sonne.
+> 그건 말 안 해요. 아직은. 근데 종이에 있던 로고가 해였어요.
+TOBI: Eene Sonne. Danke, Kai. Mehr frag ick nich.
+= Eine Sonne. Danke, Kai. Mehr frage ich nicht.
+> 해. 고마워, 카이. 더는 안 물을게.
+KAI: Doch. Frag mich in einem Monat noch mal. Vielleicht habe ich dann den Mut, den Aylin schon hat.
+> 아니요. 한 달 뒤에 다시 물어봐요. 그땐 아일린한테 이미 있는 용기가 저한테도 있을지 몰라요.
+TOBI: Woher kennste Aylin?
+= Woher kennst du Aylin?
+> 아일린을 어떻게 알아?
+KAI: Jeder Sanitäter in Mitte kennt Aylin. Sie ist die, die uns um drei Uhr nachts Kaffee hinstellt, obwohl sie selbst keinen trinkt.
+> 미테 구급대원은 다 아일린을 알아요. 자기는 안 마시면서 새벽 3시에 우리한테 커피 놔 주는 사람이에요.
+
+# 장면 2 — DER NEFFE IN DER REDAKTION
+UWE: Uwe Lemke. Ich bin heute früh aus Stuttgart gekommen. Ich war zuerst bei meinem Onkel. Und jetzt bin ich hier, weil ich wissen will, wer ihm das angetan hat.
+> 우베 렘케예요. 오늘 아침 슈투트가르트에서 왔어요. 먼저 삼촌한테 갔다가요. 그리고 누가 삼촌한테 그런 짓을 했는지 알고 싶어서 여기 왔어요.
+JAN: Das wollen wir auch. Aber Herr Lemke, wir sind keine Ermittler. Wir können Ihnen nicht sagen, wer schuld ist. Wir können nur herausfinden, was passiert ist.
+> 우리도요. 근데 렘케 씨, 우린 수사관이 아니에요. 누구 잘못인지 말씀드릴 순 없어요. 무슨 일이 있었는지 알아낼 수 있을 뿐이에요.
+UWE: Man hat ihm gesagt, ich hätte den Wechsel gewollt. Ich! Ich habe ihn sechs Jahre gebeten, bei Frau Krüger zu bleiben.
+> 제가 바꾸길 원했다고 삼촌한테 말했대요. 제가요! 6년 동안 크뤼거 씨한테 계속 있으라고 부탁한 게 저예요.
+MIRA: Herr Lemke, Sie sind der Bevollmächtigte Ihres Onkels, richtig?
+> 렘케 씨, 삼촌의 대리인이시죠?
+UWE: Ja. Seit seinem Schlaganfall vor drei Jahren. Vorsorgevollmacht.
+> 네. 3년 전 뇌졸중 이후로. 사전 위임장이요.
+MIRA: Dann haben Sie ein Recht, das kaum jemand nutzt. Sie können bei der Pflegekasse eine Leistungsübersicht anfordern. Eine Liste, was der Pflegedienst in seinem Namen abgerechnet hat.
+> 그럼 거의 아무도 안 쓰는 권리가 있으세요. 간병보험에 급여 내역서를 요청하실 수 있어요. 업체가 삼촌 이름으로 뭘 청구했는지 목록이요.
+UWE: Das geht?
+> 그게 돼요?
+MIRA: Das geht. Es dauert ein paar Wochen. Aber es geht. Und diese Liste ist kein Zettel am Kühlschrank. Das ist die Rechnung selbst.
+> 돼요. 몇 주 걸려요. 근데 돼요. 그리고 그 목록은 냉장고의 종이가 아니에요. 청구서 그 자체예요.
+UWE: Dann fordere ich sie heute an. Und wenn da steht, dass sie meinen Onkel versorgt haben, während er in der Charité lag…
+> 그럼 오늘 요청할게요. 그리고 거기에 삼촌이 샤리테에 있을 때 돌봤다고 돼 있으면…
+JAN: Dann gehört diese Liste Ihnen. Nicht uns. Was Sie damit machen, entscheiden Sie. Wenn Sie sie uns zeigen wollen, danken wir Ihnen. Wenn Sie direkt zur Polizei gehen, verstehen wir das auch.
+> 그럼 그 목록은 당신 거예요. 우리 게 아니라. 뭘 할지는 당신이 정해요. 보여 주시면 감사하고. 바로 경찰에 가셔도 이해해요.
+UWE: Warum sind Sie so vorsichtig? Andere Journalisten hätten mich längst gefragt, ob ich vor die Kamera gehe.
+> 왜 그렇게 조심하세요? 다른 기자들은 진작 카메라 앞에 서겠냐고 물었을 텐데.
+HELENE: Weil Ihr Onkel kein Bild ist, Herr Lemke. Er ist Ihr Onkel. Und wir wollen, dass Sie uns am Ende noch in die Augen sehen können.
+> 삼촌은 그림이 아니니까요, 렘케 씨. 당신 삼촌이죠. 그리고 우린 끝에 가서도 당신이 우리 눈을 볼 수 있길 원해요.
+UWE: Das isch… Entschuldigung. Das ist das Erste in dieser Stadt, das mich beruhigt.
+= Das ist… Entschuldigung. Das ist das Erste in dieser Stadt, das mich beruhigt.
+> 그건… 죄송해요. 이 도시에서 절 진정시킨 첫 번째 거네요.
+LEON: Sie schwäbeln, wenn Sie aufgeregt sind. Ich auch. Woher kommen Sie genau?
+> 흥분하시면 슈바벤 말이 나오네요. 저도요. 정확히 어디 출신이세요?
+UWE: Bad Cannstatt. Und Sie?
+> 바트 칸슈타트. 당신은?
+LEON: Esslingen. Zwanzig Minuten. Mir sind quasi Nachbarn.
+= Esslingen. Zwanzig Minuten. Wir sind quasi Nachbarn.
+> 에슬링겐. 20분 거리. 거의 이웃이네요.
+
+# 장면 3 — EIN EHRLICHER ZETTEL
+BÄRBEL: Hier. Mein Ordner. März und April. Allet, wat wir abjerechnet ham. Mit den Zetteln.
+= Hier. Mein Ordner. März und April. Alles, was wir abgerechnet haben. Mit den Zetteln.
+> 여기. 내 자료철. 3월하고 4월. 우리가 청구한 거 전부. 종이들이랑.
+MIRA: Danke. Wir geben Ihnen den Ordner morgen zurück. Wir kopieren nur, was wir brauchen, und schwärzen die Namen.
+> 고마워요. 내일 돌려드릴게요. 필요한 것만 복사하고 이름은 가릴게요.
+BÄRBEL: Kuckense ruhig. Da is 'n Kaffeefleck uff dem von Frau Schulz. Die hat mir den Becher umjeworfen, weil se mir unbedingt 'n Stück Kuchen jeben wollte.
+= Gucken Sie ruhig. Da ist ein Kaffeefleck auf dem von Frau Schulz. Die hat mir den Becher umgeworfen, weil sie mir unbedingt ein Stück Kuchen geben wollte.
+> 마음대로 보세요. 슐츠 부인 거에 커피 얼룩 있어요. 나한테 기어이 케이크 한 조각 주려다 컵을 엎었거든요.
+LEON: Die Uhrzeiten sind ganz unterschiedlich. Acht Uhr zwölf. Acht Uhr fünfundvierzig. Neun Uhr dreißig.
+> 시각이 다 달라요. 8시 12분. 8시 45분. 9시 30분.
+BÄRBEL: Weil die U-Bahn mal fährt und mal nich. Weil Herr Becker mal sein Jebiss sucht und mal nich. Pflege is keene Fabrik.
+= Weil die U-Bahn mal fährt und mal nicht. Weil Herr Becker mal sein Gebiss sucht und mal nicht. Pflege ist keine Fabrik.
+> 지하철이 다닐 때도 있고 안 다닐 때도 있으니까. 베커 씨가 틀니를 찾을 때도 있고 안 찾을 때도 있으니까. 돌봄은 공장이 아니에요.
+MIRA: Und die Unterschriften der Patienten? Jeden Tag einzeln?
+> 그리고 환자 서명은요? 매일 따로?
+BÄRBEL: Jeden Tag. Manche zittrig, manche mit 'nem Kreuz, weil se nich mehr schreiben können. Denn unterschreibt 'n Angehöriger am Wochenende jejen. Mit Datum.
+= Jeden Tag. Manche zittrig, manche mit einem Kreuz, weil sie nicht mehr schreiben können. Dann unterschreibt ein Angehöriger am Wochenende gegen. Mit Datum.
+> 매일. 어떤 건 떨리고, 어떤 건 엑스 표시고, 더는 글을 못 쓰니까. 그러면 주말에 가족이 확인 서명해요. 날짜 넣어서.
+JAN: Und eine Unterschrift für die ganze Woche im Voraus?
+> 한 주 치 서명을 미리 받는 건요?
+BÄRBEL: Dit is verboten. Und dit weeß jede Pflegerin im ersten Monat. Wer dit macht, weeß, wat er macht.
+= Das ist verboten. Und das weiß jede Pflegerin im ersten Monat. Wer das macht, weiß, was er macht.
+> 그건 금지예요. 그리고 요양사라면 첫 달에 다 알아요. 그걸 하는 사람은 자기가 뭘 하는지 알아요.
+MIRA: Aber vielleicht nicht die junge Frau, die kaum Deutsch spricht. Vielleicht weiß es nur der, der ihr den Zettel gegeben hat.
+> 근데 독일어 거의 못 하는 젊은 여자는 모를 수도 있어요. 어쩌면 그녀한테 종이를 준 사람만 알겠죠.
+BÄRBEL: … Da ham Se recht. Die Mädchen wissen nüscht. Die machen, wat man ihnen sacht. Wie ick vor dreißig Jahren.
+= … Da haben Sie recht. Die Mädchen wissen nichts. Die machen, was man ihnen sagt. Wie ich vor dreißig Jahren.
+> … 그 말이 맞네요. 그 아가씨들은 아무것도 몰라요. 시키는 대로 하죠. 30년 전의 나처럼.
+
+# 장면 4 — DER GARTEN IN KLEINMACHNOW
+WALLNER: Sie sind die Datenjournalistin. Kommen Sie, setzen Sie sich zwischen die Tomaten. Ich bin seit drei Jahren in Rente und rede am liebsten im Garten. Da hört keiner mit außer den Schnecken.
+> 데이터 기자시군요. 이리 와서 토마토 사이에 앉으세요. 은퇴한 지 3년인데 정원에서 말하는 게 제일 좋아요. 달팽이 말고는 아무도 안 들으니까.
+MIRA: Herr Wallner, danke. Sie haben dreißig Jahre bei einer Pflegekasse gearbeitet?
+> 발너 씨, 고마워요. 간병보험 금고에서 30년 일하셨죠?
+WALLNER: Einunddreißig. Die letzten zwölf in der Abrechnungsprüfung. Ich war das, was man einen Erbsenzähler nennt. Ich war stolz darauf.
+> 31년. 마지막 12년은 청구 감사에서. 사람들이 '콩알 세는 사람'이라고 부르는 그거였죠. 자랑스러웠어요.
+MIRA: Wie findet man Abrechnungsbetrug in der ambulanten Pflege?
+> 방문간병 허위 청구는 어떻게 찾아요?
+WALLNER: Ehrliche Antwort? Fast gar nicht. Wir sehen die Rechnung. Wir sehen nicht die Wohnung. Wir sehen, dass jemand «große Morgentoilette» abrechnet. Wir sehen nicht, ob die Badewanne nass war.
+> 솔직한 답? 거의 못 찾아요. 우린 청구서를 봐요. 집은 못 봐요. 누가 «전체 아침 세면»을 청구한 건 봐요. 욕조가 젖어 있었는지는 못 봐요.
+MIRA: Und der Medizinische Dienst? Der prüft doch die Pflegedienste.
+> 의료감정원은요? 거기서 요양 업체를 감사하잖아요.
+WALLNER: Der Medizinische Dienst prüft Qualität. Einmal im Jahr. Meistens am Vortag angekündigt. Dann schauen sie sich ein paar Patienten an, die der Pflegedienst selbst auswählt. Raten Sie, welche.
+> 의료감정원은 질을 감사해요. 1년에 한 번. 보통 하루 전에 통보하고. 그다음 업체가 직접 고른 환자 몇 명을 봐요. 어떤 환자일지 맞혀 보세요.
+MIRA: Die, die wirklich versorgt werden.
+> 진짜로 돌봄 받는 환자들.
+WALLNER: Die mit den saubersten Wohnungen und den zufriedensten Gesichtern. Ein Betrüger ist nicht dumm. Er betrügt nicht bei allen. Er betrügt bei denen, die niemand besucht.
+> 집이 제일 깨끗하고 얼굴이 제일 만족스러운 환자들. 사기꾼은 멍청하지 않아요. 모두에게 사기 치지 않아요. 아무도 찾아오지 않는 사람한테 사기 쳐요.
+MIRA: Die Einsamen.
+> 외로운 사람들.
+WALLNER: Die Einsamen. Ohne Angehörige in der Nähe. Mit hohem Pflegegrad. Mit wenig Kraft, sich zu beschweren. Ein Mensch, den niemand besucht, ist für einen Betrüger eine Goldmine.
+> 외로운 사람들. 가까이 가족 없고. 등급 높고. 항의할 힘 없는. 아무도 찾지 않는 사람은 사기꾼한테 금광이에요.
+
+# 장면 5 — DIE MUSTER
+MIRA: Wenn man nicht in die Wohnungen kann — gibt es Muster in den Daten?
+> 집 안에 못 들어가면 — 데이터에 패턴이 있어요?
+WALLNER: Natürlich. Drei klassische. Erstens: zu perfekte Pläne. Jeden Tag dieselbe Uhrzeit, dieselben Leistungen, keine Ausfälle. Kein echter Patient ist so regelmäßig. Echte Patienten haben Arzttermine, Durchfall, Besuch von der Tochter.
+> 물론이죠. 고전적인 세 가지. 첫째: 너무 완벽한 계획. 매일 같은 시각, 같은 서비스, 빠지는 날 없음. 진짜 환자는 그렇게 규칙적이지 않아요. 진짜 환자는 병원 예약도 있고, 설사도 하고, 딸이 찾아오기도 하죠.
+MIRA: Neun Uhr null. Jeden Tag. Wie bei Horst.
+> 9시 정각. 매일. 호르스트처럼.
+WALLNER: Zweitens: unmögliche Touren. Eine Pflegekraft, die laut Abrechnung um neun in Wedding und um neun Uhr zehn in Spandau ist. Das schafft nicht einmal ein Hubschrauber.
+> 둘째: 불가능한 순회. 청구상 9시에 베딩에, 9시 10분에 슈판다우에 있는 요양사. 헬리콥터로도 안 돼요.
+MIRA: Und drittens?
+> 그리고 셋째는요?
+WALLNER: Drittens: Abrechnungen während Krankenhausaufenthalten. Die Krankenkasse weiß, dass jemand im Krankenhaus liegt. Die Pflegekasse weiß, dass jemand zu Hause gepflegt wurde. Und weil das zwei verschiedene Abteilungen sind, vergleicht es keiner automatisch.
+> 셋째: 입원 기간 중 청구. 건강보험은 누가 병원에 있는 걸 알아요. 간병보험은 누가 집에서 돌봄 받은 걸 알고요. 근데 서로 다른 부서라서 아무도 자동으로 대조 안 해요.
+MIRA: Das kann nicht sein. Im Jahr zweitausendachtundzwanzig?
+> 그럴 리가요. 2028년에?
+WALLNER: Es gibt Abgleiche. Aber sie sind langsam, lückenhaft und oft erst Monate später. Bis dahin ist das Geld ausgegeben. Und wenn man nachfragt, sagt der Pflegedienst: Ein Versehen. Die Software. Und zahlt den Betrag zurück. Ohne Strafe.
+> 대조는 있어요. 근데 느리고, 구멍 투성이고, 종종 몇 달 뒤예요. 그때쯤이면 돈은 다 썼죠. 그리고 물어보면 업체가 말해요. 실수예요. 소프트웨어가요. 그리고 금액을 돌려줘요. 처벌 없이.
+MIRA: Zurückzahlen, wenn man erwischt wird. Behalten, wenn nicht. Das ist kein Risiko. Das ist ein Geschäftsmodell.
+> 걸리면 돌려주고. 안 걸리면 갖고. 그건 위험이 아니에요. 사업 모델이죠.
+WALLNER: Jetzt reden Sie wie ich vor zehn Jahren. Bevor ich müde wurde.
+> 이제 10년 전 저처럼 말하시네요. 제가 지치기 전에.
+
+# 장면 5-2 — WER HAT EIN INTERESSE?
+MIRA: Eine Frage, die mich wundert. Die Kassen verlieren Geld. Warum jagen sie die Betrüger nicht härter?
+> 이상한 게 하나 있어요. 금고는 돈을 잃잖아요. 왜 사기꾼을 더 세게 안 쫓아요?
+WALLNER: Weil Prüfen Geld kostet und keins bringt. Ein Prüfer kostet ein Gehalt. Ein eingestelltes Verfahren bringt nichts zurück. Für den Vorstand sieht die Prüfabteilung aus wie ein Loch in der Bilanz.
+> 감사는 돈이 들고 돈을 안 벌어 주니까요. 감사관 하나에 월급 하나. 중단된 절차는 아무것도 돌려주지 않고. 이사회 눈엔 감사 부서가 대차대조표의 구멍처럼 보여요.
+MIRA: Obwohl sie Millionen retten könnte.
+> 수백만을 구할 수 있는데도.
+WALLNER: Könnte. Das Wort «könnte» steht in keiner Bilanz.
+> 구할 수 있다. «수 있다»라는 말은 어느 대차대조표에도 없어요.
+MIRA: Und die Pflegedienste? Gibt es Ehrliche, die sich beschweren?
+> 그리고 요양 업체들은요? 항의하는 정직한 업체도 있어요?
+WALLNER: Die Ehrlichen beschweren sich am lautesten. Weil sie gegen Betrüger nicht ankommen. Wer nicht pflegt, hat niedrigere Kosten und kann höhere Löhne zahlen. Der Ehrliche geht pleite. Der Betrüger wächst.
+> 정직한 업체가 제일 크게 항의해요. 사기꾼을 못 이기니까. 돌보지 않는 쪽은 비용이 낮아서 임금을 더 줄 수 있어요. 정직한 쪽은 망하고. 사기꾼은 커요.
+MIRA: Wie Bärbel. Und Sonnenhof.
+> 배르벨처럼. 그리고 조넨호프처럼.
+WALLNER: Ich kenne Ihre Bärbel nicht. Aber ich kenne hundert Bärbels. Die meisten haben aufgegeben.
+> 당신의 배르벨은 몰라요. 근데 배르벨 백 명을 알아요. 대부분 포기했어요.
+MIRA: Und die Politik?
+> 그럼 정치는요?
+WALLNER: Die Politik redet über Fachkräftemangel. Zu Recht. Aber niemand redet darüber, dass ein Teil des Geldes, das für Fachkräfte da wäre, in erfundenen Besuchen verschwindet. Das ist kein schönes Thema für Sonntagsreden.
+> 정치는 인력난 얘기를 해요. 옳게도. 근데 인력에 쓰일 돈의 일부가 지어낸 방문으로 사라진다는 얘기는 아무도 안 해요. 일요일 연설에 좋은 주제가 아니니까요.
+
+# 장면 6 — WARUM SIND SIE MÜDE GEWORDEN?
+MIRA: Warum sind Sie müde geworden?
+> 왜 지치셨어요?
+WALLNER: Weil ich einen Fall hatte. Zwanzigachtzehn. Ein Dienst in Neukölln. Ich hatte alles. Unmögliche Touren, perfekte Pläne, Abrechnungen während Krankenhausaufenthalten. Ich habe einen Bericht von vierzig Seiten geschrieben.
+> 사건 하나가 있었어요. 2018년. 노이쾰른의 업체. 다 있었어요. 불가능한 순회, 완벽한 계획, 입원 중 청구. 40쪽짜리 보고서를 썼죠.
+MIRA: Und?
+> 그래서요?
+WALLNER: Die Staatsanwaltschaft hat das Verfahren nach zwei Jahren eingestellt. Gegen eine Geldauflage. Der Inhaber hat die Firma auf seinen Schwager überschrieben und weitergemacht. Unter neuem Namen. Im selben Büro.
+> 검찰이 2년 뒤 절차를 중단했어요. 벌금 조건으로. 사장은 회사를 매부 앞으로 돌리고 계속했어요. 새 이름으로. 같은 사무실에서.
+MIRA: Wie hieß der neue Name?
+> 새 이름이 뭐였어요?
+WALLNER: Das weiß ich nicht mehr. Aber ich weiß, dass er zwei Jahre später einem Verbund beigetreten ist. Der Verbund hieß damals noch anders. Heute heißt er Pflege Plus Berlin.
+> 기억 안 나요. 근데 2년 뒤 어떤 연합에 들어간 건 알아요. 그 연합은 그땐 이름이 달랐어요. 지금은 Pflege Plus Berlin이라고 하죠.
+MIRA: Herr Wallner, darf ich Ihren alten Bericht sehen?
+> 발너 씨, 그 옛 보고서 볼 수 있을까요?
+WALLNER: Er gehört der Kasse. Nicht mir. Ich darf ihn Ihnen nicht geben. Aber ich darf Ihnen sagen, was öffentlich ist. Der Einstellungsbeschluss wurde damals in einer Fachzeitschrift zitiert. Mit Aktenzeichen.
+> 그건 금고 거예요. 제 게 아니라. 드릴 수 없어요. 근데 공개된 건 말해 드릴 수 있어요. 그 중단 결정은 당시 전문지에 인용됐어요. 사건번호와 함께.
+MIRA: Das reicht mir. Danke.
+> 그거면 충분해요. 고마워요.
+WALLNER: Und Frau Aydın? Wenn Sie es diesmal schaffen — schicken Sie mir eine Tomate zurück. Ich habe zu viele.
+> 그리고 아이든 씨? 이번에 해내시면 — 토마토 하나 돌려보내 주세요. 너무 많거든요.
+
+# 장면 7 — ZURÜCK IN DER REDAKTION
+MIRA: Ich habe drei Muster. Und alle drei können wir prüfen, ohne eine einzige Wohnung zu betreten.
+> 패턴 세 개 얻었어요. 그리고 셋 다 집에 한 발도 안 들이고 확인할 수 있어요.
+HELENE: Wie?
+> 어떻게?
+MIRA: Perfekte Pläne: Wenn wir Leistungsübersichten bekommen, von Angehörigen wie Uwe. Unmögliche Touren: Wenn wir Tourenpläne bekommen. Und Krankenhausaufenthalte: Uwes Übersicht wird zeigen, ob Sonnenhof abgerechnet hat, während Horst in der Charité lag.
+> 완벽한 계획: 우베 같은 가족한테서 급여 내역서를 받으면. 불가능한 순회: 순회표를 받으면. 입원 기간: 우베의 내역서가 호르스트가 샤리테에 있는 동안 조넨호프가 청구했는지 보여 줄 거예요.
+JAN: Und die Tourenpläne?
+> 그리고 순회표는?
+MIRA: Die bekommt nur jemand, der dort arbeitet.
+> 거기서 일하는 사람만 받아요.
+HELENE: Noch nicht. Darüber reden wir, wenn wir alles andere ausgeschöpft haben.
+> 아직은 아니야. 다른 걸 다 해 보고 나서 얘기하자.
+LEON: Und Wallners alter Fall? Der Dienst in Neukölln?
+> 그리고 발너 씨 옛 사건은요? 노이쾰른 업체?
+MIRA: Ich habe das Aktenzeichen in der Fachzeitschrift gefunden. Der Inhaber hieß damals Ralf Siebert. Die Firma wurde auf seinen Schwager umgeschrieben. Und heute steht Siebert im Handelsregister als Geschäftsführer einer Firma namens «Sonnenhof Ambulante Pflege».
+> 전문지에서 사건번호 찾았어요. 당시 사장 이름은 랄프 지베르트. 회사는 매부 앞으로 넘어갔고요. 그리고 지금 지베르트는 상업등기에 «Sonnenhof Ambulante Pflege»라는 회사 대표로 올라 있어요.
+JAN: Sonnenhof. Horsts Dienst.
+> 조넨호프. 호르스트 업체.
+MIRA: Und «S. B.» auf Horsts Zettel. Siebert hat einen Schwager. Er heißt Bernd. Aber ich warne euch: Das ist ein Zufall, bis wir das Gegenteil beweisen. «S. B.» kann hunderttausend Menschen heißen.
+> 그리고 호르스트 종이의 «S. B.». 지베르트한텐 매부가 있어요. 이름이 베른트. 근데 경고할게요. 반대를 증명하기 전까진 우연이에요. «S. B.»는 십만 명일 수 있어요.
+HELENE: Gut, dass du es selbst sagst. Ab in den Ordner. «Was gegen uns spricht.»
+> 네가 직접 말해서 다행이야. 자료철로. «우리에게 불리한 것.»
+
+# 장면 7-2 — DER MANN AN DER SPITZE
+LEON: Wer leitet eigentlich Pflege Plus Berlin? Den Verbund, nicht Sonnenhof.
+> Pflege Plus Berlin은 대체 누가 이끌어요? 조넨호프 말고 연합을.
+MIRA: Ein Dr. Clemens Haase. Gesundheitsökonom. Sitzt als Sachverständiger im Gesundheitsausschuss. Gibt Interviews über «innovative Pflege».
+> 클레멘스 하제 박사. 보건경제학자. 보건위원회 전문가로 앉아 있어요. «혁신적 돌봄»에 대해 인터뷰하고요.
+JAN: Ein Experte. Kein Siebert.
+> 전문가네. 지베르트 같은 사람이 아니라.
+MIRA: Überhaupt nicht. Sauberer Lebenslauf, gute Reden, ein Buch über den Pflegenotstand. Er sagt Dinge, die stimmen.
+> 전혀요. 깨끗한 이력, 좋은 연설, 간병 위기에 대한 책 한 권. 맞는 말을 해요.
+HELENE: Das sind die schwierigsten Fälle. Leute, die Richtiges sagen und vielleicht Falsches dulden.
+> 그게 제일 어려운 경우야. 옳은 말을 하면서 어쩌면 틀린 걸 묵인하는 사람들.
+JAN: «Vielleicht». Wir wissen nicht, ob Haase etwas weiß. Ein Verbund hat viele Mitglieder. Vielleicht ist Sonnenhof sein schwarzes Schaf.
+> «어쩌면». 하제가 뭘 아는지 우린 몰라. 연합엔 회원사가 많아. 조넨호프가 그의 검은 양일 수도 있어.
+LEON: Aber elf Fälle bei vier verschiedenen Mitgliedern?
+> 근데 서로 다른 회원사 넷에서 11건인데요?
+JAN: Genau das müssen wir herausfinden. Ein schwarzes Schaf oder eine schwarze Herde.
+> 바로 그걸 알아내야 해. 검은 양 한 마리냐, 검은 양 떼냐.
+MIRA: Und wer hat Haases Imagefilm gemacht? Hype und Hafen. Ich habe ihn im Archiv gefunden. Elf Aufträge, erinnert ihr euch?
+> 그리고 하제의 홍보 영상은 누가 만들었을까요? 하이프 운트 하펜. 자료실에서 찾았어요. 일감 열한 건, 기억나죠?
+HELENE: Ein ehrlicher Experte braucht keine Desinformationsfabrik.
+> 정직한 전문가는 허위정보 공장이 필요 없어.
+JAN: Das ist ein Argument. Kein Beweis. Aber es ist ein gutes Argument.
+> 그건 논거야. 증거가 아니라. 근데 좋은 논거지.
+LEON: Ich will ihn kennenlernen. Haase. Wie spricht so jemand?
+> 만나 보고 싶어요. 하제. 그런 사람은 어떻게 말할까요?
+JAN: Bald. Erst brauchen wir genug, um die richtigen Fragen zu stellen. Wer zu früh fragt, bekommt nur die Antworten, die vorbereitet sind.
+> 곧. 먼저 제대로 된 질문을 할 만큼 모아야 해. 너무 일찍 물으면 준비된 답만 받아.
+
+# 엔딩 — DIE LETZTE TOMATE
+WALLNER: Frau Aydın? Wallner. Ich habe nicht geschlafen. Mir ist noch etwas eingefallen. Etwas, das ich Ihnen im Garten nicht gesagt habe.
+> 아이든 씨? 발너예요. 잠을 못 잤어요. 하나 더 떠올랐어요. 정원에서 말 안 한 거.
+MIRA: Ich höre.
+> 듣고 있어요.
+WALLNER: Sie haben gefragt, wie man Betrug findet. Aber Sie haben nicht gefragt, wie man ihn am einfachsten macht.
+> 사기를 어떻게 찾냐고 물으셨죠. 근데 어떻게 하면 제일 쉽게 하냐고는 안 물으셨어요.
+MIRA: Wie macht man ihn am einfachsten?
+> 어떻게 하면 제일 쉬워요?
+WALLNER: Der einfachste Weg? Patient und Pflegekraft machen gemeinsame Sache. Ein bisschen Geld für die Unterschrift, ein Auge zudrücken. Das findet keiner.
+> 제일 쉬운 방법이요? 환자와 간병인이 짜는 거죠. 서명 대가로 돈 조금, 눈 감아 주기. 아무도 못 찾아요.
+MIRA: Und der zweiteinfachste?
+> 그다음 쉬운 건요?
+WALLNER: Oder der Patient ist schon tot. Tote beschweren sich nicht. Tote haben keine Kühlschränke, an denen jemand nachsieht. Und manchmal erfahren die Kassen erst nach Monaten, dass jemand gestorben ist.
+> 아니면 환자가 이미 죽었거나. 죽은 사람은 항의 안 해요. 죽은 사람한텐 누가 들여다볼 냉장고도 없고. 그리고 가끔 금고는 몇 달 지나서야 누가 죽었는지 알아요.
+MIRA: Tote. Herr Wallner, wie würde man das prüfen?
+> 죽은 사람. 발너 씨, 그건 어떻게 확인해요?
+WALLNER: Todesanzeigen. Die stehen in der Zeitung. Die stehen im Internet. Und sie haben ein Datum. Den Rest wissen Sie besser als ich. Sie sind die mit den Daten.
+> 부고. 신문에 나요. 인터넷에도. 그리고 날짜가 있죠. 나머진 저보다 잘 아실 거예요. 데이터 다루는 분이니까.
+MIRA: Jan? Ich weiß, was ich heute Nacht mache.
+> 얀? 오늘 밤 뭘 할지 알았어요.
+JAN: Heute Nacht? Mira, du hast seit drei Tagen kaum geschlafen.
+> 오늘 밤? 미라, 너 사흘째 거의 못 잤어.
+MIRA: Ich schlafe, wenn die Zahlen schlafen.
+> 숫자가 잘 때 잘게요.
+JAN: Zahlen schlafen nie. Deshalb machst du um Mitternacht Schluss. Das ist keine Bitte.
+> 숫자는 절대 안 자. 그러니까 자정에 끝내. 부탁 아니야.
+MIRA: Zwei Uhr.
+> 두 시.
+JAN: Mitternacht. Und morgen erzählst du mir, was die Toten sagen.
+> 자정. 그리고 내일 죽은 사람들이 뭐라는지 말해 줘.
+MIRA: Tote sagen nichts, Jan. Das ist ja das Problem.
+> 죽은 사람은 아무 말도 안 해요, 얀. 그게 문제죠.
+JAN: Dann sagen es ihre Daten. Und wir hören zu. Mit Respekt.
+> 그럼 그들의 데이터가 말하겠지. 그리고 우린 들어. 존중을 담아서.
+MIRA: Mit Respekt. Und ich schicke Herrn Wallner eine Tomate. Später.
+> 존중을 담아서. 그리고 발너 씨한테 토마토 보낼게요. 나중에.
