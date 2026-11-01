@@ -1,0 +1,349 @@
+@part 2
+@ep 4
+@title Sentinel
+@sub 센티넬 · 5월 첫째 주, 2,300만 유로의 긴급 계약과 '우리가 베를린을 지킨다'는 회사
+@info 대사 150턴 · 난이도 B1+ · 배경: 2-3화 일주일 뒤(2027년 5월 초), 선술집 «Zum letzten Groschen», Spreewerk 편집국, 슈테글리츠-첼렌도르프 구청, 아들러스호프의 Sentinel 본사
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast LEON | 레온 피셔 (24) · 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast MATTHES | 뤼디거 마테스 (61) · 슈테글리츠-첼렌도르프 구청 조달 담당 팀장
+@cast HOLT | 스벤야 홀트 (34) · Sentinel 홍보 책임자
+@cast DANA | 다나 슈스터 (48) · LKA 국가 보안 경찰 수사관
+@cast WALLNER | 디르크 발너 (54) · Sentinel Hauptstadt GmbH 대표, 전직 연방군 헌병 장교
+@note ※ 긴급 수의계약(Dringlichkeitsvergabe): 재난처럼 예측할 수 없는 급한 상황에서는 공공기관이 정식 입찰 없이 바로 계약할 수 있습니다. 2026년 1월 대정전 직후 여러 기관이 비상전원과 경비 서비스를 급히 사들였습니다. 이 화의 Sentinel 그룹과 계약 내용은 가상입니다.
+@note ※ 표현 초점: Dringlichkeitsvergabe · Auftragsvolumen · Tagessatz · Marktpreis · Resilienz · Lieferkette · Beirat · Bohrloch
+@next 2부 5화 — «KRITIS-Lücke»(KRITIS의 공백) — 전력망 회사의 엔지니어 베른트 쿨만이 '취약 지점 목록'이 외부 용역사와 공유되었다고 털어놓는다. 목록을 받은 용역사 세 곳 가운데 하나가 센티넬이다.
+
+# 콜드 오픈 — MARCOS LISTE
+ELKE: Jan, du liest seit 'ner Stunde dieselbe Seite. Is det 'n Liebesbrief?
+= Jan, du liest seit einer Stunde dieselbe Seite. Ist das ein Liebesbrief?
+> 얀, 한 시간째 같은 쪽만 읽고 있네. 연애편지라도 돼?
+JAN: Fast. Das ist Marcos Liste. Die Termine von Ruben Kasper aus dem letzten Jahr.
+> 거의. 마르코 명단이야. 작년 루벤 카스퍼 일정.
+KATRIN: Und ich habe sie geprüft. Marco ist geschützt. Er hat nur seinen eigenen Kalender weitergegeben. Keine Geschäftsgeheimnisse von Spreeblick.
+> 그리고 내가 검토했어. 마르코는 보호받아. 자기 달력만 넘긴 거니까. 슈프레블릭의 영업 비밀은 없어.
+ELKE: Und wat steht drin?
+= Und was steht drin?
+> 그래서 뭐가 적혀 있는데?
+JAN: Dreiundvierzig Termine. Die meisten mit Immobilienleuten. Aber hier: «Adlershof, Sentinel, D. Wallner». Viermal.
+> 일정 마흔세 개. 대부분 부동산 쪽 사람들이야. 근데 여기. «아들러스호프, 센티넬, D. 발너». 네 번.
+KATRIN: Wann?
+> 언제?
+JAN: Februar 2026. März 2026. Juni 2026. Und der vierte: dritter Juli 2026.
+> 2026년 2월. 2026년 3월. 2026년 6월. 그리고 네 번째는 2026년 7월 3일.
+KATRIN: Und wann war die Dringlichkeitsvergabe für die Kameras?
+> 카메라 긴급 수의계약은 언제였지?
+JAN: Mira sagt: siebzehnter Juli 2026. Zwei Wochen danach.
+> 미라 말로는 2026년 7월 17일. 그 2주 뒤야.
+ELKE: Ick versteh nur Bahnhof. Aber ick seh dein Jesicht. Det is dein «Jetzt hab ick wat»-Jesicht.
+= Ich verstehe nur Bahnhof. Aber ich sehe dein Gesicht. Das ist dein «Jetzt habe ich was»-Gesicht.
+> 난 하나도 못 알아듣겠어. 근데 네 얼굴은 보여. 그거 네 «이제 뭔가 잡았다» 얼굴이야.
+JAN: Es ist mein «Ich habe eine Frage»-Gesicht. Das ist etwas anderes.
+> 이건 내 «질문이 생겼다» 얼굴이야. 그건 다른 거야.
+
+# 장면 1 — DREIUNDZWANZIG MILLIONEN
+MIRA: Ich habe alle Aufträge an Sentinel seit Januar 2026 gesucht. Vergabeplattform, Bezirke, Senat, Krankenhäuser.
+> 2026년 1월 이후 센티넬에 간 계약을 전부 찾아봤어요. 조달 플랫폼, 구청, 주 정부, 병원.
+HELENE: Und?
+> 그래서요?
+MIRA: Vierzehn Aufträge. Zusammen dreiundzwanzig Komma vier Millionen Euro. Notstrom, Wachschutz, Kameras.
+> 계약 열네 건. 합쳐서 2,340만 유로. 비상전원, 경비, 카메라.
+LEON: Und vorher? Vor Januar 2026?
+> 그럼 그 전엔요? 2026년 1월 전에는요?
+MIRA: Vorher hatte Sentinel genau zwei öffentliche Aufträge. Zusammen dreihunderttausend Euro. Wachschutz für zwei Bürgerämter.
+> 그 전엔 센티넬의 공공 계약이 딱 두 건이었어. 합쳐서 30만 유로. 주민센터 두 곳 경비.
+SWETA: Von dreihunderttausend auf dreiundzwanzig Millionen. In einem Jahr.
+> 30만에서 2,300만으로. 1년 만에.
+MIRA: Und von den vierzehn Aufträgen waren elf Dringlichkeitsvergaben. Ohne normale Ausschreibung.
+> 그리고 열네 건 중 열한 건이 긴급 수의계약이었어. 정상적인 입찰 없이.
+HELENE: Nach so einem Stromausfall ist das verständlich. Die Behörden mussten schnell handeln.
+> 그런 대정전 뒤라면 이해할 만해요. 관청들은 빨리 움직여야 했으니까요.
+MIRA: Für die ersten Wochen: ja. Aber zwei Dringlichkeitsvergaben waren im Juli. Sechs Monate danach. Was ist im Juli noch dringlich?
+> 처음 몇 주는 그렇죠. 그런데 긴급 수의계약 두 건은 7월이었어요. 여섯 달 뒤에요. 7월에 아직도 뭐가 급해요?
+JAN: Die Kameras. Und?
+> 카메라. 그리고?
+MIRA: Notstrom für zwölf Pflegeheime. Miete, nicht Kauf. Drei Jahre Vertrag.
+> 요양원 열두 곳 비상전원. 구매가 아니라 임대. 3년 계약.
+LEON: Miete? Warum mietet man Generatoren für drei Jahre?
+> 임대요? 발전기를 왜 3년 동안 빌려요?
+MIRA: Gute Frage. Ich habe die Preise verglichen. Sentinel nimmt pro Aggregat einen Tagessatz von hundertachtzig Euro.
+> 좋은 질문이야. 가격을 비교해 봤어. 센티넬은 발전기 한 대당 하루 180유로를 받아.
+LEON: Und der Marktpreis?
+> 그럼 시장 가격은요?
+MIRA: Andere Firmen nehmen fünfundsiebzig bis neunzig Euro. Für das gleiche Gerät.
+> 다른 회사들은 같은 기계에 75유로에서 90유로를 받아.
+SWETA: Also doppelt so viel.
+> 그러니까 두 배네.
+MIRA: Doppelt so viel. Drei Jahre lang. Für zwölf Pflegeheime. Das sind fast vier Millionen Euro. Für Generatoren, die meistens im Keller stehen.
+> 두 배. 3년 동안. 요양원 열두 곳에. 그게 거의 400만 유로야. 대부분 지하실에 서 있기만 하는 발전기에.
+HELENE: Wer hat diese Verträge unterschrieben?
+> 이 계약엔 누가 서명했어요?
+MIRA: Verschiedene Stellen. Die meisten in Steglitz-Zehlendorf. Wo der große Stromausfall war.
+> 여러 부서요. 대부분은 슈테글리츠-첼렌도르프. 대정전이 있었던 곳이요.
+JAN: Dann fahre ich nach Steglitz. Zum Bezirksamt.
+> 그럼 슈테글리츠에 갈게요. 구청으로.
+HELENE: Mit wem willst du reden?
+> 누구랑 얘기하려고요?
+JAN: Mit dem Leiter der Vergabestelle. Herr Matthes. Er hat schon zugesagt. Er sagt, er hat «nichts zu verbergen, aber viel zu erzählen».
+> 조달 담당 팀장이요. 마테스 씨. 벌써 승낙했어요. «숨길 건 없고 할 말은 많다»고 하더라고요.
+HELENE: Das sind die besten Gesprächspartner.
+> 그런 사람이 최고의 대화 상대죠.
+LEON: Und ich?
+> 그럼 저는요?
+HELENE: Du schreibst deine Geschichte fertig. Rita, Peters, Uwe. Wir brauchen sie bald.
+> 당신은 기사를 마무리해요. 리타, 페터스, 우베. 곧 필요해요.
+LEON: Zweite Fassung ist fast fertig. Katrin hat nur zwölf Stellen gestrichen.
+> 두 번째 원고 거의 다 됐어요. 카트린이 열두 군데만 지웠어요.
+KATRIN: «Nur». Er lernt.
+> «만»이라니. 배우고 있네.
+
+# 장면 2 — HERR MATTHES ERZÄHLT
+MATTHES: Herr Kowalczyk, setzen Sie sich. Kaffee? Er ist schlecht, aber heiß.
+> 코발치크 씨, 앉으세요. 커피? 맛은 없지만 뜨거워요.
+JAN: Heiß reicht. Danke, dass Sie Zeit haben.
+> 뜨거우면 충분해요. 시간 내 주셔서 감사합니다.
+MATTHES: Ich gehe in sieben Monaten in Rente. Ich habe nichts mehr zu verlieren. Und ich habe den Januar 2026 nicht vergessen.
+> 일곱 달 뒤면 은퇴해요. 더는 잃을 게 없죠. 그리고 2026년 1월을 잊지 않았어요.
+JAN: Erzählen Sie mir davon.
+> 그 얘기를 해 주세요.
+MATTHES: Samstag, sechs Uhr morgens. Kein Strom. Am Montag waren immer noch fünfundvierzigtausend Haushalte dunkel. Und dreißig Pflegeheime.
+> 토요일 아침 여섯 시. 전기가 없었어요. 월요일에도 여전히 4만 5천 가구가 깜깜했죠. 요양원도 서른 곳이나요.
+JAN: Dreißig Pflegeheime ohne Strom.
+> 요양원 서른 곳이 정전이었다.
+MATTHES: Ohne Strom, ohne Heizung, mit Menschen an Sauerstoffgeräten. Die Feuerwehr hatte nicht genug Notstrom. Das THW auch nicht.
+> 전기도 난방도 없이, 산소 기계에 의지하는 사람들이 있는 채로요. 소방대도 비상전원이 모자랐어요. 연방기술구호청도 마찬가지였고요.
+JAN: Und dann?
+> 그래서요?
+MATTHES: Und dann, am Sonntag um zehn Uhr, stand ein Lastwagen vor dem Rathaus. Mit zehn Aggregaten. Und einem freundlichen Mann. «Sentinel. Wir können sofort liefern.»
+> 그런데 일요일 오전 열 시에 구청 앞에 트럭 한 대가 서 있었어요. 발전기 열 대를 싣고. 그리고 친절한 남자 하나. «센티넬입니다. 즉시 공급 가능합니다.»
+JAN: Am Sonntag. Einen Tag nach dem Anschlag.
+> 일요일에요. 공격 하루 뒤에.
+MATTHES: Einen Tag danach. Mit zehn Aggregaten. Ich habe damals gedacht: Gott sei Dank. Wir haben unterschrieben. Sofort. Dringlichkeitsvergabe.
+> 하루 뒤에요. 발전기 열 대를 들고. 그땐 생각했죠. 하느님 감사합니다. 바로 서명했어요. 긴급 수의계약으로.
+JAN: Und heute? Was denken Sie heute?
+> 그럼 지금은요? 지금은 어떻게 생각하세요?
+MATTHES: Heute frage ich mich: Woher hatte eine kleine Wachschutzfirma an einem Sonntagmorgen im Januar zehn Aggregate auf einem Lastwagen?
+> 지금은 이런 생각이 들어요. 작은 경비 업체가 1월의 일요일 아침에 어떻게 트럭에 발전기 열 대를 싣고 있었을까?
+JAN: Haben Sie das damals gefragt?
+> 그때 물어보셨어요?
+MATTHES: Ich habe gefragt. Der Mann hat gesagt: «Wir sind vorbereitet. Das ist unser Geschäft.» Und damals war das eine gute Antwort.
+> 물어봤죠. 그 남자가 그러더군요. «저희는 대비하고 있습니다. 그게 저희 사업이니까요.» 그땐 그게 좋은 대답이었어요.
+JAN: Und die Verträge im Juli? Drei Jahre Miete, doppelter Preis?
+> 그럼 7월 계약들은요? 3년 임대에 두 배 가격인 거?
+MATTHES: Die kamen nicht von mir. Die kamen von oben. Mit einem Schreiben aus der Senatsverwaltung: «Die Resilienz kritischer Einrichtungen hat höchste Priorität.» Und ein Hinweis auf «bewährte Partner».
+> 그건 제가 한 게 아니에요. 위에서 내려왔어요. 주 정부 부처에서 공문이 왔죠. «핵심 시설의 회복력이 최우선이다.» 그리고 «검증된 파트너»를 언급하면서요.
+JAN: «Bewährte Partner». Stand da Sentinel?
+> «검증된 파트너». 거기에 센티넬이라고 적혀 있었어요?
+MATTHES: Nicht direkt. Aber jeder wusste, wer gemeint war. Es gab nur einen Partner, der sich im Januar «bewährt» hatte.
+> 직접적으로는 아니었어요. 그래도 누구를 말하는지는 다 알았죠. 1월에 «검증된» 파트너는 하나뿐이었으니까.
+JAN: Darf ich das Schreiben sehen?
+> 그 공문 볼 수 있을까요?
+MATTHES: Ich darf es Ihnen nicht geben. Aber Sie können einen Antrag stellen. Nach dem Informationsfreiheitsgesetz. Das Aktenzeichen sage ich Ihnen zufällig beim Rausgehen.
+> 드릴 수는 없어요. 그래도 정보공개법으로 청구할 수 있죠. 문서 번호는 나가실 때 우연히 말씀드릴게요.
+JAN: Herr Matthes, warum erzählen Sie mir das?
+> 마테스 씨, 왜 저한테 이런 얘기를 해 주세요?
+MATTHES: Weil ich achtunddreißig Jahre ehrlich gearbeitet habe. Und weil ich im Januar 2026 Angst hatte. Und jemand hat mit meiner Angst Geld verdient.
+> 38년 동안 정직하게 일했으니까요. 그리고 2026년 1월에 저도 무서웠으니까요. 그런데 누군가가 내 두려움으로 돈을 벌었어요.
+JAN: Darf ich Sie zitieren?
+> 인용해도 될까요?
+MATTHES: Unter zwei. «Ein langjähriger Mitarbeiter der Bezirksverwaltung.» Bis zur Rente. Danach können Sie meinen Namen schreiben. Groß.
+> unter zwei로요. «구청에서 오래 일한 한 직원.» 은퇴할 때까지는요. 그다음엔 이름을 쓰셔도 돼요. 크게.
+
+# 장면 3 — BESUCH IN ADLERSHOF
+HOLT: Herr Kowalczyk! Willkommen bei Sentinel. Ich bin Svenja Holt, Kommunikation. Darf ich Ihnen zuerst unser Lagezentrum zeigen?
+> 코발치크 씨! 센티넬에 오신 걸 환영해요. 커뮤니케이션 담당 스벤야 홀트예요. 먼저 상황실부터 보여 드려도 될까요?
+JAN: Gern. Und danach habe ich Fragen.
+> 좋습니다. 그다음에 질문이 있어요.
+HOLT: Natürlich. Herr Wallner nimmt sich zwanzig Minuten Zeit. Das ist sehr viel für ihn.
+> 물론이죠. 발너 대표님이 20분 시간을 내셨어요. 대표님한텐 아주 긴 시간이에요.
+JAN: Viele Bildschirme.
+> 화면이 많네요.
+HOLT: Achtzig Kameras live. Pflegeheime, Schulen, Bürgerämter. Rund um die Uhr. Hier wachen wir über Berlin.
+> 카메라 여든 대가 실시간으로 나와요. 요양원, 학교, 주민센터. 24시간 내내. 여기서 저희가 베를린을 지키죠.
+JAN: Und die Kabelbrücken? Sind die auch hier?
+> 그럼 케이블 다리는요? 그것도 여기 나와요?
+HOLT: Zwölf davon. Da oben. Die anderen folgen.
+> 그중 열두 곳이요. 저 위에요. 나머지도 곧 나올 거예요.
+WALLNER: Herr Kowalczyk. Dirk Wallner. Ich habe Ihre Artikel über die Gerichtstraße gelesen. Gute Arbeit.
+> 코발치크 씨. 디르크 발너입니다. 게리히트슈트라세 기사 읽었어요. 잘 쓰셨더군요.
+JAN: Danke. Herr Wallner, Sie waren früher bei der Bundeswehr?
+> 감사합니다. 발너 씨, 예전에 연방군에 계셨죠?
+WALLNER: Feldjäger. Zwanzig Jahre. Kosovo, Afghanistan. Ich weiß, was Sicherheit bedeutet. Und was passiert, wenn sie fehlt.
+> 헌병이었어요. 20년. 코소보, 아프가니스탄. 안보가 뭔지 알고, 그게 없으면 무슨 일이 생기는지도 알아요.
+JAN: Erste Frage. Im Januar 2026 standen Sie einen Tag nach dem Anschlag mit zehn Aggregaten vor dem Rathaus Zehlendorf. Woher hatten Sie die so schnell?
+> 첫 번째 질문이요. 2026년 1월, 공격 하루 뒤에 발전기 열 대를 싣고 첼렌도르프 구청 앞에 계셨죠. 그렇게 빨리 어디서 구하셨어요?
+WALLNER: Aus unserem Lager. Wir sind vorbereitet. Das ist unser Geschäftsmodell. Andere schlafen, wir sind da.
+> 저희 창고에서요. 저희는 대비하고 있어요. 그게 저희 사업 모델이에요. 남들이 잘 때 저희는 거기 있죠.
+JAN: Zweite Frage. Gleichzeitig hat Ihre Tochterfirma auf der Straße Generatoren verkauft. Für tausendeinhundertneunzig Euro. Bar. Ohne Steuernummer.
+> 두 번째 질문이요. 같은 시기에 자회사가 길에서 발전기를 팔았어요. 1,190유로에요. 현금으로. 세금 번호도 없이.
+WALLNER: Das höre ich zum ersten Mal. Wenn eine Rechnung fehlerhaft war, korrigieren wir das. Frau Holt, notieren Sie das.
+> 그건 처음 듣는 얘기네요. 영수증이 잘못됐다면 바로잡겠습니다. 홀트 씨, 메모해 둬요.
+JAN: Dritte Frage. Drei Tage vor dem Anschlag in Marzahn hat Ihr Shop NotstromDirekt24 Notstrom beworben. Nur für Marzahner Postleitzahlen.
+> 세 번째 질문이요. 마르찬 공격 사흘 전에 귀사의 쇼핑몰 노트슈트롬디렉트24가 비상전원을 광고했어요. 마르찬 우편번호에만요.
+WALLNER: Unser Shop macht ständig regionale Kampagnen. Das entscheidet eine Marketingagentur. Mit Algorithmen. Ich kenne die Details nicht.
+> 저희 쇼핑몰은 늘 지역별 캠페인을 해요. 그건 마케팅 대행사가 정하죠. 알고리즘으로요. 세부 사항은 저도 몰라요.
+JAN: Vor Marzahn gab es in sechs Monaten genau eine regionale Kampagne. Zum Jahrestag in Zehlendorf.
+> 마르찬 전엔 여섯 달 동안 지역 캠페인이 딱 한 번 있었어요. 첼렌도르프 1주년 때요.
+WALLNER: Dann war es eben Zufall. Herr Kowalczyk, Sie suchen eine Verschwörung. Ich biete Generatoren an.
+> 그럼 우연이었겠죠. 코발치크 씨, 당신은 음모를 찾고 있어요. 저는 발전기를 팔고요.
+JAN: Letzte Frage. Sie haben im Juli 2026 achtundvierzig Kameras für Kabelbrücken beauftragt bekommen. Zwölf hängen. Warum?
+> 마지막 질문이요. 2026년 7월에 케이블 다리 카메라 마흔여덟 대 계약을 따내셨죠. 달린 건 열두 대예요. 왜죠?
+WALLNER: Lieferketten. Die Kameras kommen aus Asien. Und für jede Brücke brauchen wir eine Genehmigung von der Bahn und von der Netzgesellschaft. Das dauert in Deutschland.
+> 공급망 때문이에요. 카메라가 아시아에서 와요. 그리고 다리마다 철도청과 전력망 회사 허가가 필요하죠. 독일에선 그게 오래 걸려요.
+JAN: An drei Brücken gab es Kameras. Jetzt sind sie weg. Wer hat sie abgebaut?
+> 다리 세 곳에는 카메라가 있었어요. 지금은 없어졌고요. 누가 뗐죠?
+WALLNER: Davon weiß ich nichts. Frau Holt?
+> 그건 모르는 일이에요. 홀트 씨?
+HOLT: Wir prüfen das und melden uns schriftlich.
+> 확인해서 서면으로 연락드리겠습니다.
+WALLNER: Ihre zwanzig Minuten sind um, Herr Kowalczyk. Ich schätze kritische Presse. Aber in Zeiten hybrider Bedrohungen sollten wir zusammenhalten.
+> 20분 다 됐네요, 코발치크 씨. 비판적인 언론은 존중해요. 그래도 하이브리드 위협의 시대엔 서로 힘을 합쳐야죠.
+JAN: Wir halten zusammen. Mit den Menschen im Dunkeln.
+> 힘을 합치고 있어요. 어둠 속에 있는 사람들이랑요.
+
+# 장면 4 — DREI LEERE HALTERUNGEN
+TOBI: Sechsunddreißig Brücken. Vier Tage. Zweihundertzehn Kilometer uff'm Fahrrad. Meine Beene sind tot.
+= Sechsunddreißig Brücken. Vier Tage. Zweihundertzehn Kilometer auf dem Fahrrad. Meine Beine sind tot.
+> 다리 서른여섯 곳. 나흘. 자전거로 210킬로미터. 내 다리 죽었어.
+MIRA: Und?
+> 그래서?
+TOBI: Dreiundzwanzig Brücken: jar nischt. Keen Mast, keene Kamera. Neun Brücken: 'n Mast mit 'nem Kabel, det ins Nischts führt. Wie in Marzahn.
+= Dreiundzwanzig Brücken: gar nichts. Kein Mast, keine Kamera. Neun Brücken: ein Mast mit einem Kabel, das ins Nichts führt. Wie in Marzahn.
+> 스물세 곳: 아무것도 없어. 기둥도 카메라도. 아홉 곳: 아무 데로도 안 이어지는 케이블 달린 기둥. 마르찬처럼.
+JAN: Und die letzten vier?
+> 그럼 나머지 네 곳은?
+TOBI: Eene hat 'ne Kamera. Die funktioniert. Und drei… kiekt euch det an.
+= Eine hat eine Kamera. Die funktioniert. Und drei… guckt euch das an.
+> 한 곳은 카메라가 있어. 작동도 하고. 그리고 세 곳은… 이것 좀 봐.
+LEON: Eine Halterung. Aber leer.
+> 거치대네요. 근데 비어 있어요.
+TOBI: Und hier. Die Schrauben. Kiek mal, die sind sauber. Keen Rost. Und die Bohrlöcher in der Wand sind frisch. Da war vor kurzem 'ne Kamera. Und jemand hat se abjebaut.
+= Und hier. Die Schrauben. Guck mal, die sind sauber. Kein Rost. Und die Bohrlöcher in der Wand sind frisch. Da war vor kurzem eine Kamera. Und jemand hat sie abgebaut.
+> 그리고 여기. 나사들. 봐, 깨끗하지. 녹이 없어. 그리고 벽의 구멍들도 새것이야. 얼마 전까지 카메라가 있었어. 그리고 누가 뗐고.
+SWETA: Diebe?
+> 도둑?
+TOBI: Diebe nehmen nich die Schrauben mit und lassen die Halterung hängen. Det war 'n Techniker. Mit Werkzeug.
+= Diebe nehmen nicht die Schrauben mit und lassen die Halterung hängen. Das war ein Techniker. Mit Werkzeug.
+> 도둑은 나사까지 챙겨 가면서 거치대는 남겨 두지 않아. 그건 기술자 짓이야. 공구 들고.
+JAN: Wo sind diese drei Brücken?
+> 그 세 곳은 어디야?
+TOBI: Spandau. Alle drei in Spandau.
+= Spandau. Alle drei in Spandau.
+> 슈판다우. 세 곳 다 슈판다우야.
+MIRA: Und der Spatz hat geschrieben: «Die Kamera wurde bestellt. Und wieder abbestellt.»
+> 그리고 참새가 그랬지. «카메라는 주문됐다가 다시 취소됐다.»
+LEON: Warum baut jemand Kameras in Spandau ab?
+> 누가 왜 슈판다우에서 카메라를 떼요?
+TOBI: Weil er nich jesehen werden will. In Spandau.
+= Weil er nicht gesehen werden will. In Spandau.
+> 들키고 싶지 않으니까. 슈판다우에서.
+HELENE: Tobi. Das ist eine Vermutung.
+> 토비. 그건 추측이에요.
+TOBI: Det is 'ne Beobachtung. Drei leere Halterungen, frische Bohrlöcher, keen Rost. Die Vermutung macht jeder selbst.
+= Das ist eine Beobachtung. Drei leere Halterungen, frische Bohrlöcher, kein Rost. Die Vermutung macht jeder selbst.
+> 이건 관찰이야. 빈 거치대 세 개, 새 구멍, 녹 없음. 추측은 각자 하는 거고.
+HELENE: Gut formuliert. Das darfst du so schreiben.
+> 잘 표현했네요. 그건 그렇게 써도 돼요.
+
+# 장면 5 — DONNERSTAG, EIN UHR
+DANA: Currywurst ohne Darm. Pommes rot-weiß. Wie immer.
+> 껍질 없는 커리부어스트. 감자튀김 케첩이랑 마요네즈. 늘 먹던 걸로.
+JAN: Für mich das Gleiche. Guten Tag, Frau Schuster.
+> 저도 같은 걸로요. 안녕하세요, 슈스터 씨.
+DANA: Ich kenne Sie nicht. Aber Sie dürfen neben mir stehen.
+> 난 당신 몰라요. 그래도 내 옆에 서 있는 건 괜찮아요.
+JAN: Sentinel Hauptstadt GmbH. Sagt Ihnen der Name etwas?
+> 센티넬 하우프트슈타트 유한회사. 그 이름 아세요?
+DANA: Jeder in Berlin kennt den Ritter mit dem Schild. Die stehen vor jedem zweiten Pflegeheim.
+> 베를린 사람이면 다 방패 든 기사를 알죠. 요양원 두 곳 중 한 곳 앞엔 그 사람들이 서 있으니까.
+JAN: Sie haben die Kameras für die Kabelbrücken. Drei davon wurden in Spandau wieder abgebaut.
+> 그 회사가 케이블 다리 카메라 계약을 갖고 있어요. 그중 세 대가 슈판다우에서 다시 떼어졌고요.
+DANA: Wann?
+> 언제요?
+JAN: In den letzten Wochen. Die Bohrlöcher sind frisch.
+> 최근 몇 주 사이에요. 구멍이 새것이에요.
+DANA: Hm.
+> 흠.
+JAN: Das ist das erste Mal, dass Sie «Hm» sagen.
+> «흠»이라고 하신 건 처음이네요.
+DANA: Das war kein Hm. Das war die Currywurst. Sie ist heute zu scharf.
+> 그건 '흠'이 아니었어요. 커리부어스트 때문이에요. 오늘은 너무 맵네요.
+JAN: Frau Schuster, ich frage nicht nach Ermittlungen. Ich frage nur: Sollte ich bei Sentinel vorsichtig sein?
+> 슈스터 씨, 수사 내용을 묻는 게 아니에요. 그냥 이것만요. 센티넬 쪽은 조심해야 할까요?
+DANA: Herr Wallner hat viele Freunde. Bei der Bundeswehr, bei der Polizei. Ehemalige Kollegen. Manche ehemalige Kollegen haben noch Zugang zu Dingen.
+> 발너 씨는 친구가 많아요. 연방군에도, 경찰에도. 예전 동료들이죠. 그런 예전 동료들 중 일부는 아직도 어떤 것들에 접근할 수 있어요.
+JAN: Zu welchen Dingen?
+> 어떤 것들에요?
+DANA: Das war jetzt schon zu viel Currywurst. Aber ein Rat, umsonst: Spandau ist ein großer Bezirk. Schauen Sie sich die Brücken genau an.
+> 커리부어스트를 너무 많이 먹었네요. 그래도 공짜로 조언 하나 할게요. 슈판다우는 큰 구예요. 다리들을 잘 살펴보세요.
+JAN: Warum Spandau?
+> 왜 슈판다우예요?
+DANA: Habe ich Spandau gesagt? Ich habe nur über Brücken geredet. Und über Würste.
+> 내가 슈판다우라고 했어요? 난 다리랑 소시지 얘기만 했는데.
+JAN: Danke, Frau Schuster.
+> 감사합니다, 슈스터 씨.
+DANA: Wir haben nicht geredet. Und, Herr Kowalczyk? Ihr Fotograf auf dem Fahrrad. Er soll nachts nicht allein an Kabelbrücken stehen.
+> 우린 얘기 안 했어요. 그리고 코발치크 씨? 자전거 타는 그 사진기자요. 밤에 혼자 케이블 다리 앞에 서 있지 말라고 하세요.
+JAN: Woher wissen Sie von Tobi?
+> 토비를 어떻게 아세요?
+DANA: Ein Mann mit Kamera an sechsunddreißig Kabelbrücken in vier Tagen fällt auf. Nicht nur uns.
+> 카메라 든 남자가 나흘 동안 케이블 다리 서른여섯 곳에 나타나면 눈에 띄죠. 우리 눈에만이 아니라.
+
+# 장면 6 — WAS WIR HABEN
+HELENE: Fassen wir zusammen. Sentinel hat seit dem Januar 2026 dreiundzwanzig Millionen Euro an öffentlichen Aufträgen bekommen.
+> 정리해 봐요. 센티넬은 2026년 1월 이후 공공 계약으로 2,300만 유로를 받았어요.
+MIRA: Elf davon ohne normale Ausschreibung. Bei Pflegeheimen zum doppelten Marktpreis.
+> 그중 열한 건은 정상 입찰 없이. 요양원 건은 시장 가격의 두 배로.
+JAN: Ein Schreiben aus der Senatsverwaltung empfiehlt «bewährte Partner». Ich habe heute den IFG-Antrag gestellt.
+> 주 정부 부처의 공문이 «검증된 파트너»를 추천했어요. 오늘 정보공개 청구를 냈어요.
+LEON: Eine Tochterfirma hat im Januar 2026 Generatoren auf der Straße verkauft. Bar, ohne Steuernummer.
+> 자회사는 2026년 1월에 길에서 발전기를 팔았어요. 현금으로, 세금 번호 없이.
+SWETA: Ein anderer Teil der Gruppe hat drei Tage vor dem Anschlag in Marzahn gezielt Notstrom beworben.
+> 그룹의 다른 계열사는 마르찬 공격 사흘 전에 비상전원을 콕 집어 광고했고요.
+TOBI: Von achtundvierzig Kameras hängen zwölf. Drei wurden in Spandau wieder abjebaut.
+= Von achtundvierzig Kameras hängen zwölf. Drei wurden in Spandau wieder abgebaut.
+> 카메라 마흔여덟 대 중에 열두 대만 달려 있어. 슈판다우에선 세 대가 다시 떼어졌고.
+JAN: Und Ruben Kasper hat Herrn Wallner viermal getroffen. Das letzte Mal zwei Wochen vor der Kamera-Vergabe.
+> 그리고 루벤 카스퍼는 발너 씨를 네 번 만났어요. 마지막은 카메라 계약 2주 전이었고요.
+HELENE: Viele Fakten. Und was haben wir nicht?
+> 사실이 많네요. 그럼 없는 건 뭐죠?
+JAN: Wer den Anschlag gemacht hat. Woher Sentinel Dinge vorher wusste. Und ob Sentinel überhaupt etwas wusste.
+> 누가 공격을 했는지. 센티넬이 어떻게 미리 알았는지. 그리고 센티넬이 애초에 뭔가를 알긴 했는지.
+HELENE: Genau. Und deshalb schreiben wir noch nicht über Sentinel und den Anschlag. Nur über Sentinel und das Geld.
+> 바로 그거예요. 그래서 아직은 센티넬과 공격에 대해서는 안 써요. 센티넬과 돈에 대해서만 써요.
+LEON: Und meine Geschichte? Die Menschen im Dunkeln?
+> 그럼 제 기사는요? 어둠 속의 사람들은요?
+HELENE: Deine Geschichte erscheint am Freitag. Mit Rita, Uwe, Herrn Peters und Herrn Wendler. Und mit der Frage: Wer verdient an der Dunkelheit?
+> 당신 기사는 금요일에 나가요. 리타, 우베, 페터스 씨, 벤들러 씨와 함께. 그리고 이 질문과 함께요. 어둠으로 누가 돈을 버는가?
+LEON: Das ist ja der Titel der ganzen Recherche.
+> 그건 이 취재 전체의 제목이잖아요.
+HELENE: Dann leihst du ihn dir. Für den ersten Teil.
+> 그럼 빌려 써요. 1부용으로.
+
+# 엔딩 — DER BEIRAT
+MIRA: Jan. Komm mal. Die Website von Sentinel. Ganz unten. «Über uns».
+> 얀. 이리 와 봐. 센티넬 웹사이트. 맨 아래. «회사 소개».
+JAN: Gründer, Geschäftsführung, Standorte… Und?
+> 설립자, 경영진, 지점… 그리고?
+MIRA: Ganz unten. Klein gedruckt. «Unser Beirat».
+> 맨 아래. 작은 글씨로. «자문위원회».
+JAN: Ein Professor für Sicherheitspolitik. Ein ehemaliger Polizeipräsident aus Brandenburg. Und…
+> 안보 정책 교수 한 명. 브란덴부르크 전 경찰청장 한 명. 그리고…
+MIRA: Lies den dritten Namen.
+> 세 번째 이름 읽어 봐.
+JAN: «Ruben Kasper, Partner, Thal & Partner, Berlin.»
+> «루벤 카스퍼, 파트너, 탈 & 파트너, 베를린.»
+LEON: Der Mann aus der Gerichtstraße.
+> 게리히트슈트라세의 그 남자네요.
+TOBI: Der is ja überall. Wie Schimmel im Altbau.
+= Der ist ja überall. Wie Schimmel im Altbau.
+> 그 인간은 어디에나 있네. 옛날 건물 곰팡이처럼.
+JAN: Seit wann steht er da?
+> 언제부터 거기 있었어?
+MIRA: Im Webarchiv taucht sein Name zum ersten Mal im Februar 2026 auf. Einen Monat nach dem großen Stromausfall.
+> 웹 아카이브에선 2026년 2월에 처음 이름이 나와. 대정전 한 달 뒤에.
