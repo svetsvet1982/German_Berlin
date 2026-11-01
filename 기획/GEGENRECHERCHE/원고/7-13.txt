@@ -1,0 +1,388 @@
+@part 7
+@ep 13
+@title SLAPP
+@sub 입막음 소송 · 4천만 유로짜리 편지
+@info 대사 150턴 · 난이도 C1 · 배경: 2029년 1월, Spreewerk 편집국(엘케네 뒷방), 카트린의 사무실, 엘케네 선술집, 게리히트슈트라세 61, LKA
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast JAN | 얀 코발치크 (45) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@cast HORST | 호르스트 (74) · 단골 (베를린 사투리)
+@cast GISELA | 기젤라 호프만 (79) · Gerichtstraße 61 세입자 (베를린 사투리)
+@cast WERNICKE | 클라우디아 베르니케 박사 (58) · Thal & Partner 측 변호사
+@cast WEBER | 베버 박사 (63) · 재단 이사장
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast KEVIN | 케빈 (19) · 토비의 조카 (베를린 사투리)
+@cast BEHRENS | 잉그리트 베렌스 (54) · 내무 행정청 국장, 공익 제보자
+@note ※ 서클의 반격. Thal & Partner가 Spreewerk와 얀 개인을 상대로 거액의 손해배상 소송, 보도 금지 가처분, 형사 고소를 동시에 낸다. 목적은 이기는 것보다 지치게 하는 것 — 이른바 SLAPP. 위장 취재로 얻은 정보의 보도 허용성(공익과의 형량), 보호 서면, EU 반SLAPP 지침과 국내 이행, 소송 비용 모금을 다룬다. 엘케가 선술집에 모금함을 놓는다. 인물·소송 가상, 법률 내용은 극 중 단순화.
+@note ※ 표현 초점: die Unterlassungsklage · der Schadensersatz · die einstweilige Verfügung · die Schutzschrift · die Anti-SLAPP-Richtlinie · die Beweisverwertung · die Prozesskostenhilfe
+@next 7부 14화 — «Landgericht Berlin»(베를린 지방법원) — 법정에서 일곱 부의 인물들이 증인석에 오른다.
+
+# 콜드 오픈 — DER BOTE
+TOBI: Elke, da is 'n Bote. Mit 'nem Karton. Für Spreewerk. Er sacht, er braucht 'ne Unterschrift.
+= Elke, da ist ein Bote. Mit einem Karton. Für Spreewerk. Er sagt, er braucht eine Unterschrift.
+> 엘케, 배달원 왔어. 상자 들고. Spreewerk 앞으로. 서명이 필요하대.
+ELKE: Een Karton? Für 'ne Zeitung, die inne Hinterstube sitzt?
+= Ein Karton? Für eine Zeitung, die in der Hinterstube sitzt?
+> 상자? 뒷방에 앉아 있는 신문사한테?
+KATRIN: Ich unterschreibe. — Drei Schriftsätze. Kanzlei Wernicke Hollstein. Fünfhundertvierzig Seiten.
+> 내가 서명할게. — 서면 세 통. 베르니케 홀슈타인 법률사무소. 540쪽.
+HELENE: Was steht drin?
+> 뭐라고 쓰여 있어?
+KATRIN: Erstens: ein Antrag auf einstweilige Verfügung. Spreewerk soll verboten werden, irgendetwas über Thal und Partner zu veröffentlichen, das Jan bei seiner Tätigkeit dort erfahren hat.
+> 첫째: 가처분 신청. Spreewerk가 얀이 거기서 일하며 알게 된 탈 & 파트너에 관한 어떤 것도 보도하지 못하게 해 달라.
+JAN: Irgendetwas.
+> 어떤 것도.
+KATRIN: Zweitens: eine Klage auf Schadensersatz. Gegen Spreewerk und gegen dich persönlich. Vierzig Millionen Euro. Wegen Rufschädigung, Verletzung des Arbeitsvertrags und Verrat von Geschäftsgeheimnissen.
+> 둘째: 손해배상 소송. Spreewerk와 너 개인을 상대로. 4천만 유로. 명예 훼손, 근로계약 위반, 영업 비밀 누설로.
+TOBI: Vierzig Millionen. Dit is mehr, als Elke in zweehundert Jahren Bier verkooft.
+= Vierzig Millionen. Das ist mehr, als Elke in zweihundert Jahren Bier verkauft.
+> 4천만. 엘케가 2백 년 동안 맥주 판 것보다 많네.
+ELKE: In dreihundert. Ick bin nich so jut im Verkoofen.
+= In dreihundert. Ich bin nicht so gut im Verkaufen.
+> 3백 년. 난 장사를 그렇게 잘하진 못해.
+KATRIN: Drittens: eine Strafanzeige gegen Jan. Wegen Betrugs bei der Einstellung. Und wegen Verrats von Geschäftsgeheimnissen.
+> 셋째: 얀에 대한 형사 고소. 채용 사기. 그리고 영업 비밀 누설.
+HELENE: Und eine Antwort auf unsere zwanzig Fragen?
+> 그럼 우리 질문 스무 개에 대한 답은?
+KATRIN: Ein Satz. Seite eins. «Unsere Mandantin wird sich zu Fragen, die auf rechtswidrig erlangten Informationen beruhen, nicht äußern.»
+> 한 문장. 1쪽. «당 의뢰인은 위법하게 취득한 정보에 근거한 질문에는 입장을 밝히지 않을 것입니다.»
+
+# 장면 1 — WAS EIN SLAPP IST
+LEON: Katrin, kann Thal das gewinnen?
+> 카트린, 탈이 이걸 이길 수 있어요?
+KATRIN: Das ist nicht die richtige Frage, Leon. Die richtige Frage ist: Muss er gewinnen, um zu gewinnen?
+> 그건 맞는 질문이 아니야, 레온. 맞는 질문은: 이기기 위해 꼭 이겨야 하나?
+LEON: Wie meinen Sie das?
+> 무슨 뜻이에요?
+KATRIN: Eine Klage über vierzig Millionen kostet uns Anwälte, Zeit, Schlaf. Spender bekommen Angst. Quellen bekommen Angst. Jeder Journalist in Berlin sieht, was passiert, wenn man über Thal schreibt. Das ist der Zweck. Nicht das Urteil. Der Weg dorthin.
+> 4천만짜리 소송은 우리한테 변호사, 시간, 잠을 빼앗아. 후원자들이 겁먹고. 취재원들이 겁먹고. 베를린의 모든 기자가 탈에 대해 쓰면 무슨 일이 생기는지 보게 되지. 그게 목적이야. 판결이 아니라. 거기까지 가는 길.
+SWETA: In Moskau nennt man das: Man muss niemanden ins Gefängnis stecken, wenn alle Angst vor dem Gefängnis haben.
+> 모스크바에선 이렇게 말해요: 다들 감옥을 무서워하면 아무도 감옥에 넣을 필요가 없다.
+KATRIN: In Brüssel nennt man es SLAPP. Strategic Lawsuit Against Public Participation. Eine Klage, die nicht Recht sucht, sondern Schweigen.
+> 브뤼셀에선 SLAPP이라고 해. 공적 참여에 대한 전략적 봉쇄 소송. 정의가 아니라 침묵을 찾는 소송.
+MIRA: Und dagegen gibt es eine Richtlinie. Die Anti-SLAPP-Richtlinie der EU. Von 2024.
+> 그리고 그걸 막는 지침이 있어요. EU 반SLAPP 지침. 2024년 거.
+KATRIN: Und seit letztem Jahr ein Gesetz bei uns, das sie umsetzt. Bei grenzüberschreitenden Fällen kann ein Gericht eine offensichtlich unbegründete Klage früh abweisen. Und der Kläger muss eine Sicherheit für die Kosten hinterlegen.
+> 그리고 작년부터는 그걸 이행하는 국내법이 있지. 국경을 넘는 사건에선 법원이 명백히 근거 없는 소송을 일찍 기각할 수 있어. 그리고 원고가 비용 담보를 맡겨야 해.
+JAN: Ist unser Fall grenzüberschreitend?
+> 우리 사건이 국경을 넘어?
+MIRA: Die Fonds sind in Luxemburg. Die Bank arbeitet in Frankfurt und Zürich. Und wir wollen mit drei ausländischen Partnermedien gleichzeitig veröffentlichen.
+> 펀드들이 룩셈부르크에 있어요. 은행은 프랑크푸르트랑 취리히에서 일하고. 그리고 우린 해외 파트너 매체 세 곳이랑 동시에 보도하려고 하잖아요.
+KATRIN: Dann ist er es. Dann kämpfen wir auf zwei Ebenen. Gegen die Klage. Und gegen die Methode.
+> 그럼 넘는 거지. 그럼 두 층위에서 싸워. 소송에 맞서. 그리고 그 방식에 맞서.
+
+# 장면 2 — DIE SCHUTZSCHRIFT
+KATRIN: Das Gefährlichste ist die einstweilige Verfügung. Ein Gericht kann sie ohne uns erlassen. Ohne Anhörung. An einem Nachmittag. Und dann dürfen wir nichts drucken, bis jemand entscheidet.
+> 제일 위험한 건 가처분이야. 법원은 우리 없이도 내릴 수 있어. 심문 없이. 하루 오후 만에. 그럼 누가 결정할 때까지 아무것도 못 실어.
+HELENE: Und was machen wir dagegen?
+> 그럼 그걸 막으려면?
+KATRIN: Eine Schutzschrift. Heute Nacht. Sie liegt im zentralen Register. Jedes Gericht in Deutschland muss sie lesen, bevor es entscheidet. Darin steht unsere Seite. Damit niemand über uns entscheidet, ohne uns zu hören.
+> 보호 서면. 오늘 밤. 중앙 등록부에 올라가. 독일의 모든 법원은 결정 전에 그걸 읽어야 해. 거기에 우리 쪽 입장을 써. 아무도 우리 말을 안 듣고 우리에 대해 결정하지 못하게.
+JAN: Und was ist unsere Seite?
+> 그럼 우리 쪽 입장은 뭐야?
+KATRIN: Dass du nichts gestohlen hast. Nichts aufgenommen. Nichts gefälscht. Dass ein Prokurist den Safe geöffnet hat. Dass alles bei der Polizei liegt. Und dass das, was du gesehen hast, ein überragendes öffentliches Interesse betrifft.
+> 네가 아무것도 훔치지 않았다는 것. 아무것도 녹음 안 했다는 것. 아무것도 위조 안 했다는 것. 지배인이 금고를 열었다는 것. 전부 경찰한테 있다는 것. 그리고 네가 본 게 압도적인 공익에 관한 거라는 것.
+SWETA: Und das reicht?
+> 그걸로 충분해요?
+KATRIN: Es gibt ein altes Urteil. Aus den Achtzigern. Ein Journalist hatte sich unter falschem Namen bei einer Zeitung eingeschlichen und darüber geschrieben. Das Bundesverfassungsgericht hat gesagt: Auch rechtswidrig erlangte Informationen dürfen veröffentlicht werden, wenn das öffentliche Interesse überwiegt. Es kommt auf die Abwägung an.
+> 오래된 판결이 있어. 80년대. 한 기자가 가짜 이름으로 어떤 신문사에 잠입해서 그걸 썼지. 연방헌법재판소가 말했어: 위법하게 얻은 정보라도 공익이 더 크면 보도할 수 있다. 형량이 관건이다.
+JAN: Und wir haben nicht mal rechtswidrig erlangt.
+> 그리고 우린 위법하게 얻은 것도 아니잖아.
+KATRIN: Das sage ich auch. Aber ich schreibe beides. Erstens: nicht rechtswidrig. Zweitens: und selbst wenn — das Interesse überwiegt. Ein Anwalt hat immer zwei Füße.
+> 나도 그렇게 말할 거야. 근데 둘 다 써. 첫째: 위법이 아니다. 둘째: 설령 그렇다 해도 — 공익이 크다. 변호사는 늘 발이 두 개야.
+HELENE: Und die Strafanzeige?
+> 그럼 형사 고소는?
+KATRIN: Für Journalisten gibt es im Geschäftsgeheimnisgesetz eine Ausnahme. Wer ein Geheimnis zur Aufdeckung einer rechtswidrigen Handlung offenlegt und dabei im öffentlichen Interesse handelt, macht sich nicht strafbar. Die Anzeige ist Lärm. Aber Lärm, den die Staatsanwaltschaft prüfen muss.
+> 영업 비밀 보호법엔 기자를 위한 예외가 있어. 위법 행위를 드러내려고 비밀을 공개하고 공익을 위해 행동하는 사람은 처벌받지 않아. 그 고소는 소음이야. 근데 검찰이 검토해야 하는 소음.
+
+# 장면 2-2 — VIERZIG MILLIONEN, NACHTS
+HELENE: Du schläfst nicht.
+> 안 자는구나.
+JAN: Vierzig Millionen, Helene. Ich habe eine Zweizimmerwohnung, die jemand aufgebrochen hat. Und einen Golf, der Tobi gehört.
+> 4천만이야, 헬레네. 난 누가 문 따고 들어온 투룸이랑 토비 거인 골프 한 대가 있어.
+HELENE: Niemand will deine Wohnung. Sie wollen deine Angst. Gib sie ihnen nicht.
+> 아무도 네 집을 원하지 않아. 그들은 네 두려움을 원해. 주지 마.
+JAN: Weißt du, was das Schlimmste ist? Ich habe keine Angst vor dem Geld. Ich habe Angst, dass Behrens ihre Stelle verliert. Dass Kasper seine Tochter nicht mehr sieht. Dass Gisela im Februar über Glatteis zum Gericht geht.
+> 제일 끔찍한 게 뭔지 알아? 돈은 안 무서워. 베렌스가 자리를 잃을까 봐 무서워. 카스퍼가 딸을 못 보게 될까 봐. 기젤라가 2월에 빙판길을 걸어 법원에 갈까 봐.
+HELENE: Dann weißt du, wofür der Prozess ist. Nicht für uns. Für die, die mit Namen geredet haben.
+> 그럼 이 소송이 뭘 위한 건지 알겠네. 우릴 위한 게 아니야. 이름을 걸고 말한 사람들을 위한 거지.
+JAN: Und wenn wir verlieren?
+> 지면?
+HELENE: Dann haben wir laut verloren. Vor Gericht. Mit Zeugen. Nicht leise. Nicht in einem Hinterzimmer um drei Uhr nachts.
+> 그럼 크게 진 거야. 법정에서. 증인들이랑. 조용히가 아니라. 새벽 세 시 뒷방에서가 아니라.
+JAN: Das klingt fast wie ein Sieg.
+> 거의 승리처럼 들리네.
+HELENE: Das ist einer. Nur ohne Urteil.
+> 승리야. 판결만 없을 뿐.
+
+# 장면 3 — DAS KONTO
+WEBER: Ich habe die Zahlen. Spreewerk hat Rücklagen für vier Monate. Wenn wir einen Prozess über drei Instanzen führen, reicht das für zwei.
+> 숫자 가져왔어요. Spreewerk는 넉 달 치 예비금이 있어요. 세 심급까지 소송을 하면 두 달 치밖에 안 돼요.
+HELENE: Und die eins Komma sieben Millionen, die wir zurückzahlen wollen?
+> 그럼 돌려주려던 170만은?
+WEBER: Liegen auf einem Treuhandkonto. Bis ein Gericht sagt, wem sie gehören. Wir können sie nicht für Anwälte nehmen. Das wäre, als würden wir Thals Geld benutzen, um gegen Thal zu prozessieren.
+> 신탁 계좌에 있어요. 법원이 누구 건지 말할 때까지. 그걸 변호사 비용으로 쓸 순 없어요. 탈의 돈으로 탈을 상대로 소송하는 꼴이니까.
+SWETA: Was eigentlich poetisch wäre.
+> 사실 그건 시적이겠지만.
+WEBER: Poesie zahlt keine Anwälte, Frau Morosowa.
+> 시는 변호사 비용을 안 내 줘요, 모로소바 씨.
+KATRIN: Ich arbeite für den halben Satz. Wie in Teil eins.
+> 난 반값에 일할게. 1부 때처럼.
+HELENE: Du hast in Teil eins für gar nichts gearbeitet.
+> 너 1부 때는 공짜로 했잖아.
+KATRIN: Eben. Ich steigere mich.
+> 그러니까. 오르는 중이지.
+LEON: Und die Leser? Wir könnten sie fragen.
+> 독자들은요? 독자들한테 물어볼 수 있잖아요.
+HELENE: Wir haben ihnen am Anfang des Textes gesagt, dass siebzig Prozent unseres Gründungsgeldes aus dem Umfeld des Kreises kamen. Ich weiß nicht, ob sie uns danach noch Geld geben.
+> 기사 첫머리에서 우리 설립 자금 70퍼센트가 서클 주변에서 나왔다고 독자들한테 말할 거잖아. 그 뒤에도 우리한테 돈을 줄지 모르겠어.
+MIRA: Der Text ist noch nicht erschienen.
+> 기사는 아직 안 나갔어요.
+HELENE: Und er erscheint nicht ohne diesen Satz. Auch wenn er uns alles kostet.
+> 그리고 그 문장 없인 안 나가. 그게 우리 전부를 앗아 가도.
+
+# 장면 4 — DIE SAMMELBÜCHSE
+ELKE: Horst. Hol ma dit Jlas vom Rejal. Dit große. Wo früher die sauren Jurken drin waren.
+= Horst. Hol mal das Glas vom Regal. Das große. Wo früher die sauren Gurken drin waren.
+> 호르스트. 선반에서 그 유리병 좀 가져와. 큰 거. 예전에 오이 피클 들어 있던 거.
+HORST: Dit riecht noch nach Jurke.
+= Das riecht noch nach Gurke.
+> 아직 오이 냄새 나는데.
+ELKE: Jut so. Dann wissen die Leute, wo et herkommt. — (schreibt) «Für die Anwälte von unserer Zeitung. Jeder Euro is 'n Satz, den keener verbieten kann.»
+= Gut so. Dann wissen die Leute, wo es herkommt. — (schreibt) «Für die Anwälte von unserer Zeitung. Jeder Euro ist ein Satz, den keiner verbieten kann.»
+> 잘됐네. 그럼 사람들이 어디서 왔는지 알겠지. — (쓴다) «우리 신문 변호사를 위해. 1유로 하나하나가 아무도 금지할 수 없는 문장 하나.»
+HORST: «Unserer Zeitung»? Seit wann is dit deine Zeitung?
+= «Unserer Zeitung»? Seit wann ist das deine Zeitung?
+> «우리 신문»? 언제부터 그게 네 신문이야?
+ELKE: Seit die in meener Hinterstube sitzt. Und meene Pfannkuchen frisst. — Hier. Zwanzig Euro. Von mir. Dit erste.
+= Seit die in meiner Hinterstube sitzt. Und meine Pfannkuchen frisst. — Hier. Zwanzig Euro. Von mir. Das erste.
+> 우리 뒷방에 앉아 있고 내 도넛을 먹어 치우기 시작한 뒤로. — 여기. 20유로. 내 거. 첫 번째.
+HORST: Und hier fünf. Mehr hab ick nich. Ick hab beim Skat verloren.
+= Und hier fünf. Mehr habe ich nicht. Ich habe beim Skat verloren.
+> 그리고 여기 5유로. 더는 없어. 스카트에서 졌거든.
+ELKE: Wie immer.
+> 늘 그렇듯.
+
+# 장면 4-2 — DIE ZAHLEN DER LESER
+MIRA: Seit der Meldung über die Silvesternacht: dreihundertzwölf Kündigungen. Viele mit demselben Satz. «Ihr habt einen Mann eingeschleust. Das ist nicht besser als die.»
+> 섣달그믐 밤 단신 이후로: 해지 312건. 다들 같은 문장이에요. «사람을 잠입시켰다. 그건 그들보다 나을 게 없다.»
+JAN: Das ist eine berechtigte Kritik.
+> 정당한 비판이야.
+MIRA: Und viertausendsechshundert neue Unterstützer. Im Durchschnitt acht Euro im Monat. Einer hat geschrieben: «Ich habe Spreewerk nie gelesen. Ab heute schon. Weil jemand euch zum Schweigen bringen will.»
+> 그리고 새 후원자 4,600명. 평균 월 8유로. 한 명은 이렇게 썼어요: «Spreewerk를 읽은 적 없다. 오늘부터 읽는다. 누가 너희 입을 막으려 하니까.»
+SWETA: Der Streisand-Effekt. Wer etwas verbieten will, macht es berühmt.
+> 스트라이샌드 효과. 뭔가 금지하려는 사람은 그걸 유명하게 만들지.
+HELENE: Und den Kündigern antworten wir. Jedem. Mit einem Satz: «Sie haben recht, das zu fragen. Hier steht, warum wir es getan haben und welche Grenzen wir uns gesetzt haben.» Und dann die Regeln. Alle fünf.
+> 그리고 해지한 사람들한텐 답장해. 한 명 한 명. 이 문장으로: «그렇게 물으시는 게 맞습니다. 여기 우리가 왜 그렇게 했고 어떤 경계를 정했는지 있습니다.» 그리고 규칙들. 다섯 개 전부.
+LEON: Das sind dreihundertzwölf Mails.
+> 그럼 메일 312통이에요.
+HELENE: Dann schreibst du die ersten hundert. Wer fragt, bekommt eine Antwort. Das ist unser Beruf. Auch wenn die Frage wehtut.
+> 그럼 처음 백 통은 네가 써. 묻는 사람은 답을 받아. 그게 우리 직업이야. 질문이 아파도.
+
+# 장면 5 — WERNICKE AM TELEFON
+WERNICKE: Frau Dr. Wolny. Claudia Wernicke. Ich rufe an, um Ihnen ein Angebot zu machen. Unter Kollegen.
+> 볼니 박사님. 클라우디아 베르니케예요. 제안을 하나 드리려고 전화했어요. 동료끼리.
+KATRIN: Ich höre.
+> 듣고 있어요.
+WERNICKE: Spreewerk verzichtet auf die Veröffentlichung. Herr Kowalczyk gibt eine Unterlassungserklärung ab. Dafür zieht meine Mandantin die Schadensersatzklage zurück. Und die Strafanzeige.
+> Spreewerk가 보도를 포기한다. 코발치크 씨가 부작위 서약서를 낸다. 대신 우리 의뢰인은 손해배상 소송을 취하한다. 형사 고소도.
+KATRIN: Und das Treuhandkonto?
+> 그럼 신탁 계좌는요?
+WERNICKE: Meine Mandantin verzichtet großzügig auf die Rückzahlung. Spreewerk darf das Geld behalten. Als Spende. Für die Pressefreiheit.
+> 우리 의뢰인은 너그럽게 반환을 포기합니다. Spreewerk가 그 돈을 가져도 돼요. 후원금으로. 언론 자유를 위해.
+KATRIN: Frau Kollegin, Sie bieten uns an, schweigen zu dürfen. Und dafür bezahlt zu werden.
+> 동료분, 지금 우리한테 입 다물 권리를 주고 그 대가로 돈까지 주겠다는 거네요.
+WERNICKE: Ich biete Ihnen an, zu überleben. Das ist mehr, als die meisten Redaktionen bekommen.
+> 살아남을 기회를 드리는 거예요. 대부분의 편집국이 받는 것보다 많죠.
+KATRIN: Darf ich Sie etwas fragen? Unter Kolleginnen? Haben Sie den Absatz über Tempelhof selbst geschrieben? Um drei Uhr nachts?
+> 하나 물어봐도 될까요? 동료끼리? 템펠호프 단락 직접 쓰셨어요? 새벽 세 시에?
+WERNICKE: … Ich äußere mich nicht zu Mandatsgeheimnissen.
+> … 의뢰인 비밀에 관해선 입장을 밝히지 않습니다.
+KATRIN: Dann äußere ich mich auch nicht zu Ihrem Angebot. Wir sehen uns vor Gericht. Und bringen Sie Ihre Initialen mit.
+> 그럼 저도 그 제안엔 입장을 안 밝힐게요. 법정에서 봬요. 이니셜도 가져오시고요.
+
+# 장면 5-2 — UNTERSUCHUNGSHAFT
+DANA: Sandmann ist in Untersuchungshaft. Der Haftrichter hat Fluchtgefahr und Verdunkelungsgefahr angenommen. Und die Bundesanwaltschaft hat die Zielliste übernommen.
+> 잔트만은 구속됐어요. 구속 심사 판사가 도주 우려와 증거 인멸 우려를 인정했어요. 그리고 연방검찰이 목표물 목록을 넘겨받았고요.
+SWETA: Und Thal?
+> 탈은요?
+DANA: Thal war mit Wernicke bei mir. Zwei Stunden. Er hat jeden Satz im Konjunktiv beantwortet. «Ich hätte nie zugelassen, dass…» «Es wäre mir neu, wenn…»
+> 탈은 베르니케랑 나한테 왔었어요. 두 시간. 모든 문장을 접속법으로 답했죠. «난 절대 그걸 용납하지 않았을 것이다…» «그랬다면 처음 듣는 일일 것이다…»
+JAN: Und die Liste? Hat er gesagt, woher er wusste, dass sie im Safe war?
+> 그럼 목록은요? 그게 금고에 있는 걸 어떻게 알았는지 말했어요?
+DANA: Er hat gesagt, das hätte er nie gesagt. Albers und Vollmer sagen etwas anderes. Albers: wörtlich wie Jan. Vollmer: «Ich erinnere mich nicht genau.»
+> 그런 말 한 적 없다고 했어요. 알버스랑 폴머는 다르게 말해요. 알버스: 얀이 말한 그대로. 폴머: «정확히 기억나지 않는다.»
+MIRA: «Nicht genau» ist kein «Nein».
+> «정확히 안 난다»는 «아니오»가 아니죠.
+DANA: Das habe ich ihm auch gesagt. Er hat geschwitzt. Im Januar.
+> 나도 그렇게 말했어요. 땀 흘리더군요. 1월에.
+SWETA: Gegen Thal wird ermittelt?
+> 탈은 수사받아요?
+DANA: Seit gestern. Beihilfe. Und wegen der Stiftung: Untreue im Umfeld der Cum-Cum-Gelder. Das ist kein Lärm mehr. Das ist ein Aktenzeichen.
+> 어제부터요. 방조. 그리고 재단 건으로: 쿰쿰 자금 관련 배임. 이제 소음이 아니에요. 사건 번호예요.
+
+# 장면 6 — DIE ABSTIMMUNG IN DER HINTERSTUBE
+HELENE: Ich will, dass jeder von euch sagt, was er denkt. Wir können das Angebot annehmen. Dann gibt es Spreewerk im März noch. Ohne den Text.
+> 각자 생각을 말해 줬으면 해. 그 제안을 받아들일 수 있어. 그럼 3월에도 Spreewerk는 있어. 그 기사 없이.
+LEON: Nein. Daria K. hat keinen Cent behalten. Wir behalten auch keinen.
+> 아니요. 다리아 K.는 한 푼도 안 가졌어요. 우리도 안 가져요.
+MIRA: Nein. Ich habe drei Jahre an der Wand gearbeitet. Ich hänge sie nicht ab, weil jemand Geld bietet.
+> 아니요. 3년 동안 그 벽 작업을 했어요. 누가 돈 준다고 떼진 않아요.
+SWETA: Nein. Ich bin aus einem Land gegangen, in dem man Redaktionen das Überleben anbietet. Ich habe dort gesehen, wie sie überleben. Ohne Zähne.
+> 아니요. 편집국한테 살아남을 기회를 주는 나라를 떠나왔어요. 거기서 그들이 어떻게 살아남는지 봤죠. 이빨 빠진 채로.
+TOBI: Nee. Und wenn wir pleite jehen, mach ick Hochzeitsfotos. Dit konnt ick schon immer.
+= Nein. Und wenn wir pleitegehen, mache ich Hochzeitsfotos. Das konnte ich schon immer.
+> 싫어. 그리고 우리가 망하면 결혼식 사진 찍을게. 그건 원래 잘했어.
+KATRIN: Ich bin eure Anwältin. Ich stimme nicht ab. Aber ich sage: Ich würde nicht annehmen.
+> 난 너희 변호사야. 투표는 안 해. 근데 말할게: 나라면 안 받아.
+JAN: Und ich bin der, gegen den sie vierzig Millionen wollen. Ich habe zehn Jahre lang mit einer Schuld gelebt, die nicht meine war. Ich unterschreibe keine Unterlassungserklärung für eine Schuld, die ihre ist.
+> 그리고 난 그들이 4천만을 원하는 상대고. 10년 동안 내 것이 아닌 죄를 지고 살았어. 그들 것인 죄 때문에 부작위 서약서엔 서명 안 해.
+HELENE: Dann ist es entschieden. Kein Vergleich. Kein Schweigen. — Weber?
+> 그럼 정해졌어. 화해 없음. 침묵 없음. — 베버?
+WEBER: Der Stiftungsrat steht hinter euch. Sechs zu null. Ein Stuhl ist leer.
+> 재단 이사회는 여러분 뒤에 있어요. 6대 0. 의자 하나는 비었고.
+
+# 장면 7 — GISELA BRINGT GELD
+GISELA: Elke, wo is dit Jlas? Dit mit die Jurken?
+= Elke, wo ist das Glas? Das mit den Gurken?
+> 엘케, 그 병 어디 있어? 오이 그거?
+ELKE: Gisela! Du sollst doch nich bei Glatteis raus!
+= Gisela! Du sollst doch nicht bei Glatteis raus!
+> 기젤라! 빙판길엔 나오지 말라니까!
+GISELA: Tadek hat Salz jestreut. Von der Haustür bis hierher. Er hat jesacht, dit is sein Beitrag. — Hier. Fuffzig Euro. Und 'n Brief.
+= Tadek hat Salz gestreut. Von der Haustür bis hierher. Er hat gesagt, das ist sein Beitrag. — Hier. Fünfzig Euro. Und ein Brief.
+> 타덱이 소금 뿌렸어. 현관에서 여기까지. 그게 자기 기여래. — 여기. 50유로. 그리고 편지 하나.
+JAN: Frau Hoffmann. Das ist zu viel. Von Ihrer Rente.
+> 호프만 부인. 너무 많아요. 연금에서.
+GISELA: Jannek, wat zu ville is, entscheid ick. Und der Brief is nich für dich. Der is für den Richter.
+= Jannek, was zu viel ist, entscheide ich. Und der Brief ist nicht für dich. Der ist für den Richter.
+> 얀넥, 뭐가 너무 많은지는 내가 정해. 그리고 편지는 너한테 아니야. 판사한테 거야.
+KATRIN: Was steht darin?
+> 뭐라고 쓰셨어요?
+GISELA: Dass ick noch in meener Wohnung wohne. Seit einundfuffzig Jahren. Und dass ick dit nich täte, wenn dieser Junge nich jefragt hätte. Wenn der Richter wissen will, wat 'ne Zeitung nützt — soll er mich fragen.
+= Dass ich noch in meiner Wohnung wohne. Seit einundfünfzig Jahren. Und dass ich das nicht täte, wenn dieser Junge nicht gefragt hätte. Wenn der Richter wissen will, was eine Zeitung nützt — soll er mich fragen.
+> 아직 내 집에 산다고. 51년째. 그리고 이 애가 묻지 않았으면 그러지 못했을 거라고. 판사가 신문이 무슨 쓸모인지 알고 싶으면 — 나한테 물어보라고.
+KATRIN: … Frau Hoffmann. Würden Sie das auch als Zeugin sagen? Vor Gericht?
+> … 호프만 부인. 그걸 증인으로도 말씀하실 수 있어요? 법정에서?
+GISELA: Mit neunundsiebzig? Im Landgericht? — Ick zieh mein jutet Kleid an. Dit von '74.
+= Mit neunundsiebzig? Im Landgericht? — Ich ziehe mein gutes Kleid an. Das von '74.
+> 일흔아홉에? 지방법원에서? — 내 좋은 옷 입고 갈게. 74년 거.
+
+# 장면 8 — DIE ZEUGENLISTE
+KATRIN: Wenn es eine mündliche Verhandlung gibt, will ich, dass der Richter nicht nur Papier sieht. Ich will, dass er Menschen sieht. Das öffentliche Interesse hat Gesichter.
+> 구두 변론이 열리면 판사가 서류만 보지 않았으면 해. 사람을 봤으면 해. 공익엔 얼굴이 있어.
+MIRA: Wen?
+> 누구요?
+KATRIN: Aus jedem Teil einen. Gisela Hoffmann, Teil eins. Herr Kuhlmann, Teil zwei, der Ingenieur aus dem Stromausfall. Herr Voigt, Teil drei. Lea, Teil vier. Ioana, Teil fünf. Kevin, Teil sechs. Und Frau Behrens, Teil sieben.
+> 각 부에서 한 명씩. 기젤라 호프만, 1부. 쿨만 씨, 2부, 정전 때 그 엔지니어. 포크트 씨, 3부. 레아, 4부. 이오아나, 5부. 케빈, 6부. 그리고 베렌스 씨, 7부.
+JAN: Kevin ist neunzehn.
+> 케빈은 열아홉이야.
+KATRIN: Kevin hat einen Brandsatz nicht gezündet, weil er einen Text gelesen hat. Das ist das stärkste Argument, das ich je vor Gericht hatte.
+> 케빈은 기사 하나를 읽고 화염병에 불을 안 붙였어. 그건 내가 법정에서 가져 본 가장 강력한 논거야.
+BEHRENS: Und meine Stelle? Die Senatsverwaltung hat mich bis zur Klärung vom Dienst freigestellt. Bei vollen Bezügen. Das ist das Gesetz, das ich mitgeschrieben habe.
+> 그럼 제 자리는요? 내무 행정청이 사안이 밝혀질 때까지 직무를 면제했어요. 급여는 전액 받고. 제가 같이 쓴 법 덕분이죠.
+DANA: Und Thal hat Anzeige gegen Sie erstattet. Wegen Verletzung des Dienstgeheimnisses. Für eine E-Mail von 2016, die Sie bei einer privaten Firma bekommen haben.
+> 그리고 탈이 당신을 고소했어요. 공무상 비밀 누설로. 2016년에 민간 회사에서 받은 이메일 때문에.
+BEHRENS: Ich war 2016 keine Beamtin. Ich war eine Angestellte mit einem befristeten Vertrag und einer Backform.
+> 2016년엔 공무원이 아니었어요. 계약직 직원이었죠. 케이크 틀 하나 가진.
+KATRIN: Dann ist auch das Lärm. Lauter Lärm.
+> 그럼 그것도 소음이네요. 시끄러운 소음.
+
+# 장면 8-2 — KEVIN AM TELEFON
+TOBI: Kevin. Hier is dein Onkel. Hör zu. Wir brauchen dich. Vor Gericht. Als Zeuge.
+= Kevin. Hier ist dein Onkel. Hör zu. Wir brauchen dich. Vor Gericht. Als Zeuge.
+> 케빈. 삼촌이야. 들어 봐. 네가 필요해. 법정에. 증인으로.
+KEVIN: Ick? Vorm Richter? Onkel Tobi, ick hab da letztet Jahr schon jesessen. Uff der anderen Seite.
+= Ich? Vor dem Richter? Onkel Tobi, ich habe da letztes Jahr schon gesessen. Auf der anderen Seite.
+> 내가? 판사 앞에? 토비 삼촌, 나 작년에 이미 거기 앉아 봤어. 반대편에.
+TOBI: Diesmal sitzte uff der richtigen Seite. Du sollst nur erzählen, warum de damals nich anjezündet hast.
+= Diesmal sitzt du auf der richtigen Seite. Du sollst nur erzählen, warum du damals nicht angezündet hast.
+> 이번엔 맞는 편에 앉는 거야. 그때 왜 불을 안 붙였는지만 말하면 돼.
+KEVIN: Weil ick den Text jelesen hab. Den mit den Fragen. «Keine Frage. Keine Antwort. Keine Fragen mehr.» Und weil Jan uff der Bank 'n kalten Kaffee hinjestellt hat.
+= Weil ich den Text gelesen habe. Den mit den Fragen. «Keine Frage. Keine Antwort. Keine Fragen mehr.» Und weil Jan auf die Bank einen kalten Kaffee hingestellt hat.
+> 그 글을 읽었으니까. 질문 있는 거. «질문 없음. 대답 없음. 더는 질문 없음.» 그리고 얀이 벤치에 식은 커피를 놔뒀으니까.
+TOBI: Jenau dit. Dit erzählste.
+= Genau das. Das erzählst du.
+> 바로 그거. 그걸 말하면 돼.
+KEVIN: Und wat zieh ick an? Ick hab nur Trainingshosen. Und die Arbeitshose aus der Werkstatt.
+= Und was ziehe ich an? Ich habe nur Trainingshosen. Und die Arbeitshose aus der Werkstatt.
+> 그럼 뭐 입어? 나 트레이닝 바지밖에 없어. 그리고 정비소 작업복 바지.
+TOBI: Die Arbeitshose. Dit is die ehrlichste Hose, die de hast.
+= Die Arbeitshose. Das ist die ehrlichste Hose, die du hast.
+> 작업복 바지. 그게 네가 가진 제일 정직한 바지야.
+KEVIN: Detlef sacht, ick krieg im März meine Zwischenprüfung. Wenn ick vorher vor Gericht muss, lernt er mit mir abends.
+= Detlef sagt, ich kriege im März meine Zwischenprüfung. Wenn ich vorher vor Gericht muss, lernt er mit mir abends.
+> 데틀레프가 그러는데 3월에 중간 시험이래. 그 전에 법원 가야 하면 저녁에 같이 공부해 준대.
+TOBI: Siehste. Dit is der Unterschied. Früher hat dich keener wat jefragt. Jetzt fragt dich 'n Richter. Und 'n Meister.
+= Siehst du. Das ist der Unterschied. Früher hat dich keiner etwas gefragt. Jetzt fragt dich ein Richter. Und ein Meister.
+> 봐. 그게 차이야. 예전엔 아무도 너한테 안 물었어. 이젠 판사가 묻잖아. 그리고 장인도.
+
+# 장면 8-3 — DIE PARTNER
+SWETA: Drei Partner. Eine Redaktion in Wien. Eine in Luxemburg. Eine Rechercheplattform in Amsterdam. Alle drei haben den Text gelesen. Alle drei wollen gleichzeitig veröffentlichen.
+> 파트너 세 곳. 빈의 편집국 하나. 룩셈부르크 하나. 암스테르담의 탐사 플랫폼 하나. 셋 다 기사를 읽었어요. 셋 다 동시에 보도하고 싶어 해요.
+HELENE: Und wenn das Gericht uns verbietet?
+> 법원이 우리를 금지하면?
+SWETA: Dann veröffentlichen sie trotzdem. In ihren Ländern gilt kein Berliner Beschluss. Das hat Luxemburg gesagt. Wörtlich: «Ihr verliert vielleicht in Berlin. Aber die Geschichte nicht.»
+> 그래도 보도할 거래요. 그 나라들엔 베를린 결정이 안 통하니까. 룩셈부르크가 그랬어요. 그대로: «베를린에선 질 수도 있다. 근데 이야기는 지지 않는다.»
+KATRIN: Und genau deshalb dürfen wir nicht vorher etwas an sie weitergeben, was wir selbst nicht drucken dürften. Sonst umgehen wir das Gericht. Und das Gericht merkt es.
+> 바로 그래서 우리가 실을 수 없는 걸 그들한테 미리 넘기면 안 돼. 그럼 법원을 우회하는 거야. 그리고 법원은 알아채.
+SWETA: Sie haben ihre eigenen Quellen. Die Fonds in Luxemburg. Die Bank in Zürich. Sie recherchieren selbst. Wir teilen nur, was ohnehin öffentlich ist.
+> 그쪽도 자기 취재원이 있어요. 룩셈부르크 펀드들. 취리히 은행. 자기들이 직접 취재해요. 우린 어차피 공개된 것만 공유하고요.
+HELENE: Dann warten alle bis zum vierzehnten. Wir veröffentlichen gemeinsam. Oder gar nicht.
+> 그럼 모두 14일까지 기다려. 같이 내든가. 아니면 아무도 안 내든가.
+SWETA: Gemeinsam. Das Wort hatte ich in Moskau nicht.
+> 같이. 모스크바에선 그런 말이 없었어요.
+HELENE: Hier hast du es. Sogar auf Berlinerisch. Elke sagt «zusammen».
+> 여기선 있어. 베를린 말로도. 엘케는 «zusammen»이라고 해.
+
+# 장면 9 — DAS GLAS
+HORST: Elke. Dit Jlas is voll.
+= Elke. Das Glas ist voll.
+> 엘케. 병이 꽉 찼어.
+ELKE: Wat? Schon?
+= Was? Schon?
+> 뭐? 벌써?
+HORST: Die Leute vom Hinterhof. Die Taxifahrer. Der Späti-Mann aus Kreuzberg mit seinen drei Töchtern. Und 'n Mann im Anzug, der nich jesacht hat, wie er heeßt. Der hat 'n Fuffziger rinjestopft und is jejangen.
+= Die Leute vom Hinterhof. Die Taxifahrer. Der Späti-Mann aus Kreuzberg mit seinen drei Töchtern. Und ein Mann im Anzug, der nicht gesagt hat, wie er heißt. Der hat einen Fünfziger reingestopft und ist gegangen.
+> 뒷마당 사람들. 택시 기사들. 딸 셋 있는 크로이츠베르크 슈페티 아저씨. 그리고 이름 안 밝힌 정장 입은 남자. 50유로짜리 쑤셔 넣고 갔어.
+ELKE: Wie sah der aus?
+= Wie sah der aus?
+> 어떻게 생겼어?
+HORST: Wie eener, der früher Mappen jetragen hat.
+= Wie einer, der früher Mappen getragen hat.
+> 예전에 서류철 나르던 사람 같았어.
+JAN: Kasper.
+> 카스퍼.
+ELKE: Denn hol dit nächste Jlas. Dit mit die Rote Bete.
+= Dann hol das nächste Glas. Das mit der Roten Bete.
+> 그럼 다음 병 가져와. 비트 절임 그거.
+
+# 엔딩 — DER BESCHLUSS
+KATRIN: Das Landgericht hat entschieden. Nicht über die Sache. Über den Weg.
+> 지방법원이 결정했어. 본안이 아니라. 절차를.
+HELENE: Und?
+> 그래서?
+KATRIN: Die Pressekammer erlässt die einstweilige Verfügung nicht ohne uns. Sie hat unsere Schutzschrift gelesen. Sie ordnet eine mündliche Verhandlung an. In drei Wochen.
+> 언론 담당 재판부는 우리 없이 가처분을 내리지 않아. 우리 보호 서면을 읽었어. 구두 변론을 명했어. 3주 뒤에.
+MIRA: Und bis dahin?
+> 그때까지는요?
+KATRIN: Bis dahin haben wir zugesagt, nicht zu veröffentlichen. Freiwillig. Damit das Gericht nicht ohne uns entscheidet. Und Wernicke muss für ihre vierzig Millionen eine Sicherheit hinterlegen. Das Gericht hat das Gesetz angewendet.
+> 그때까지는 보도하지 않겠다고 약속했어. 자발적으로. 법원이 우리 없이 결정하지 않도록. 그리고 베르니케는 4천만 소송에 대해 담보를 맡겨야 해. 법원이 그 법을 적용했어.
+SWETA: Wie viel?
+> 얼마요?
+KATRIN: Genug, dass Thal zum ersten Mal merkt, was ein Prozess kostet.
+> 탈이 처음으로 소송이 얼마나 드는지 느낄 만큼.
+JAN: Drei Wochen.
+> 3주.
+KATRIN: Am vierzehnten Februar. Landgericht Berlin. Saal einhundertdrei. An dem Tag wird entschieden, ob «Der Grunewalder Kreis» erscheinen darf.
+> 2월 14일. 베를린 지방법원. 103호 법정. 그날 «그루네발트 서클»이 나갈 수 있는지 결정돼.
+TOBI: Valentinstag.
+> 밸런타인데이네.
+ELKE: Passt. Dit is 'n Liebesbrief. An die Stadt.
+= Passt. Das ist ein Liebesbrief. An die Stadt.
+> 딱이네. 그건 연애편지야. 도시한테 보내는.
