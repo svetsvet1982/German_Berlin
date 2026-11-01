@@ -1,0 +1,369 @@
+@part 7
+@ep 7
+@title Die Abhörsoftware
+@sub 도청 프로그램 · 듣지 않고 읽는 사람
+@info 대사 150턴 · 난이도 C1 · 배경: 2028년 12월 하순, Thal & Partner 사무실, 크로이츠베르크의 디지털 포렌식 연구실(가상 단체), Spreewerk 편집국, 카트린의 사무실, 엘케네 선술집
+@cast SANDMANN | 그레고어 잔트만 (58) · 서클 보안 책임자, 전직 LKA
+@cast JAN | 얀 코발치크 (45) · Thal & Partner 자문역 (위장)
+@cast KASPER | 루벤 카스퍼 (43) · Thal & Partner 실무 책임자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast NIKO | 니코 바르텔 (36) · 비영리 디지털 포렌식 연구실 '슈푸어 e.V.' 분석가 (가상)
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast BRENNER | 홀거 브레너 (54) · 전 구청 주택과 팀장 (1부)
+@cast KEMAL | 케말 (60) · 얀 임시 숙소 근처 슈페티 주인 (베를린 사투리)
+@cast THAL | 막시밀리안 탈 박사 (65) · Thal & Partner 대표
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@note ※ 잔트만이 얀의 휴대폰을 '점검'한다. 바깥에서는 스베타가 Spreewerk 기자들의 휴대폰을 포렌식 연구실에 맡겨 상업용 스파이웨어 흔적을 찾는다. 국가의 '국가 트로이 목마'(법원 영장 필요)와 민간의 불법 해킹(형법상 데이터 탐지)의 차이, 언론인 보호, 정보 기술 시스템의 기밀성에 대한 기본권을 다룬다. 프로그램 이름·연구실·인물 가상, 기술 설명은 극 중 단순화.
+@note ※ 표현 초점: die Spähsoftware · der Staatstrojaner · die Überwachung · die Forensik · das Grundrecht · ausspähen
+@next 7부 8화 — «Marek»(마렉) — 얀이 잔트만의 금고에서 2016년 파일을 찾는다.
+
+# 콜드 오픈 — DAS TELEFON AUF DEM TISCH
+SANDMANN: Legen Sie es hier hin. Bildschirm nach oben. Entsperrt.
+> 여기 놓아요. 화면 위로. 잠금 풀고.
+JAN: Ist das jetzt Routine? Oder Misstrauen?
+> 이게 이제 일상 점검이에요? 아니면 불신?
+SANDMANN: Bei mir gibt es keinen Unterschied. Herr Brenner hat Sie über die Zentrale angerufen. Ein Mann, gegen den ermittelt wird. Und der über einen «Mann im grauen Mantel» redet.
+> 나한텐 차이가 없어요. 브레너 씨가 대표 번호로 당신한테 전화했죠. 수사받는 남자가. 그리고 «회색 코트 입은 남자» 얘기를 하는.
+JAN: Er hat über Sie geredet. Nicht mit mir. An mir vorbei. Mit Ihnen.
+> 당신 얘기를 했죠. 나랑 한 게 아니라. 나를 거쳐서. 당신한테.
+SANDMANN: Das habe ich verstanden. Ich habe mitgehört. Die Zentrale nimmt auf. Das steht im Arbeitsvertrag. Seite neun. Haben Sie ihn nicht gelesen?
+> 그건 알아들었어요. 같이 들었으니까. 대표 번호는 녹음돼요. 근로계약서에 있어요. 9쪽. 안 읽었어요?
+JAN: Dreimal. Ein Spion liest dreimal. Haben Sie mir selbst gesagt.
+> 세 번이요. 스파이는 세 번 읽는다. 당신이 직접 말했잖아요.
+SANDMANN: Dann wissen Sie auch, was auf Seite zehn steht. Firmentelefone dürfen jederzeit überprüft werden. — Ihre Nachrichten sind langweilig. Ein Mann, der jeden Abend an niemanden schreibt.
+> 그럼 10쪽에 뭐가 있는지도 알겠네요. 회사 전화는 언제든 점검할 수 있다. — 메시지가 지루하네요. 매일 저녁 아무한테도 안 쓰는 남자.
+JAN: Ich habe niemanden mehr.
+> 이제 아무도 없으니까요.
+SANDMANN: Das glaube ich Ihnen fast. Fast. — Wissen Sie, Herr Kowalczyk, ich höre nie mit. Zuhören ist alt. Ich lese mit. Lesen ist leiser.
+> 거의 믿겠어요. 거의. — 있잖아요, 코발치크 씨, 난 절대 엿듣지 않아요. 엿듣는 건 구식이에요. 난 같이 읽어요. 읽는 건 더 조용하죠.
+JAN: Was lesen Sie?
+> 뭘 읽는데요?
+SANDMANN: Alles, was Menschen glauben, nur sich selbst zu schreiben. Notizen. Entwürfe. Gelöschte Sätze. Ihr Telefon ist sauber. Zu sauber für einen Journalisten. Journalisten haben immer schmutzige Telefone.
+> 사람들이 자기 자신한테만 쓴다고 믿는 모든 거요. 메모. 초안. 지운 문장. 당신 전화는 깨끗해요. 기자치고는 너무 깨끗하죠. 기자들 전화는 늘 지저분하거든요.
+JAN: Ich bin kein Journalist mehr.
+> 전 이제 기자가 아니에요.
+SANDMANN: Das sagen Sie oft. Ich zähle mit.
+> 그 말 자주 하네요. 세고 있어요.
+
+# 장면 1 — DIE WARME BATTERIE
+MIRA: Sweta, fühl mal. Mein Telefon ist heiß. Und ich habe es seit zwei Stunden nicht benutzt.
+> 스베타, 만져 봐. 내 폰 뜨거워. 두 시간 동안 안 썼는데.
+SWETA: Seit wann?
+> 언제부터?
+MIRA: Seit ein paar Wochen. Ich dachte, der Akku ist alt.
+> 몇 주 됐어. 배터리가 낡았나 했지.
+SWETA: In Moskau haben wir gesagt: Wenn das Telefon warm ist und du nicht, dann redet es mit jemand anderem.
+> 모스크바에선 이렇게 말했어: 전화기는 따뜻한데 너는 아니면, 그건 딴 사람이랑 얘기하는 중이라고.
+HELENE: Was heißt das?
+> 그게 무슨 뜻이야?
+SWETA: Das heißt, wir bringen alle Telefone in ein Labor. Heute. Nicht nur Miras. Alle. Auch Ihres, Helene.
+> 모든 전화기를 연구실에 가져간다는 뜻이에요. 오늘. 미라 것만 말고. 전부. 헬레네 것도요.
+HELENE: Meins? Ich habe nichts auf dem Telefon außer Termine und Fotos von meiner Katze.
+> 내 거? 내 폰엔 일정이랑 고양이 사진밖에 없어.
+SWETA: Und Ihre Termine verraten, mit wem Sie frühstücken.
+> 그리고 그 일정이 누구랑 아침 먹는지 알려 주죠.
+LEON: Und wohin bringen wir sie?
+> 어디로 가져가요?
+SWETA: Zu Leuten, die keine Behörde sind. Und keine Firma. Ein Verein. Sie untersuchen Telefone von Journalisten. Umsonst. Weil sie glauben, dass das ein Grundrecht ist.
+> 관청도 아니고 회사도 아닌 사람들한테. 협회예요. 기자들 전화를 조사해요. 무료로. 그게 기본권이라고 믿으니까.
+
+# 장면 1-2 — DER SPÄTI, ZWEIUNDZWANZIG UHR
+KEMAL: Herr Jan. Wie jeden Abend? Een Wasser und mein Telefon?
+= Herr Jan. Wie jeden Abend? Ein Wasser und mein Telefon?
+> 얀 씨. 매일 저녁처럼? 물 하나랑 내 전화기?
+JAN: Wie jeden Abend, Kemal. Zwei Nachrichten. Dann gebe ich es zurück.
+> 매일 저녁처럼요, 케말. 메시지 두 개. 그리고 돌려드릴게요.
+KEMAL: Ick frag nich, an wen. Ick hab drei Töchter. Ick weeß, wie Männer aussehen, die jemandem «Gute Nacht» schreiben müssen.
+= Ich frage nicht, an wen. Ich habe drei Töchter. Ich weiß, wie Männer aussehen, die jemandem «Gute Nacht» schreiben müssen.
+> 누구한테인지 안 물어. 딸이 셋이야. 누군가한테 «잘 자»라고 써야 하는 남자들이 어떤 얼굴인지 알아.
+JAN: «Ich bin noch da.» Und: «Ich bin noch Journalist.»
+> «난 아직 여기 있어.» 그리고: «난 아직 기자야.»
+KEMAL: Dit sind keene Gute-Nacht-Sätze. Dit sind Sätze von eenem, der uff 'ner Brücke steht und sacht, er springt nich.
+= Das sind keine Gute-Nacht-Sätze. Das sind Sätze von einem, der auf einer Brücke steht und sagt, er springt nicht.
+> 그건 잘 자 문장이 아니야. 다리 위에 서서 안 뛰어내린다고 말하는 사람 문장이지.
+JAN: Ich springe nicht, Kemal. Ich gehe nur jeden Tag ein Stück weiter über die Brücke.
+> 안 뛰어내려요, 케말. 그냥 매일 다리를 조금씩 더 건너는 거예요.
+KEMAL: Denn nimm 'n zweitet Wasser. Uff Brücken kriegt man Durst.
+= Dann nimm ein zweites Wasser. Auf Brücken kriegt man Durst.
+> 그럼 물 하나 더 가져가. 다리 위에선 목마르거든.
+JAN: Und löschen Sie die Nachrichten?
+> 그리고 메시지 지워 주실 거죠?
+KEMAL: Jeden Abend. Wie meine Frau meine Lottoscheine.
+= Jeden Abend. Wie meine Frau meine Lottoscheine.
+> 매일 저녁. 우리 마누라가 내 로또 용지 버리듯이.
+
+# 장면 2 — DAS LABOR
+NIKO: Sieben Telefone. Legt sie in die Kiste. Mit Deckel. Die Kiste lässt keine Signale durch. Ab jetzt redet keines mehr mit irgendwem.
+> 전화기 일곱 대. 상자에 넣어요. 뚜껑 덮고. 그 상자는 신호를 통과시키지 않아요. 이제부터 어느 것도 누구랑도 얘기 못 해요.
+HELENE: Wie lange dauert es?
+> 얼마나 걸려요?
+NIKO: Zwei Tage. Wir machen eine Kopie von jedem Telefon. Dann suchen wir Spuren. Prozesse, die nicht da sein sollten. Verbindungen zu Servern, die niemand kennt. Dateien mit falschen Namen.
+> 이틀이요. 전화기마다 복사본을 만들어요. 그다음 흔적을 찾죠. 있으면 안 되는 프로세스. 아무도 모르는 서버로의 연결. 엉뚱한 이름을 단 파일.
+LEON: Und wenn Sie etwas finden — wissen Sie dann, wer es war?
+> 뭘 찾으면 — 누가 했는지도 알 수 있어요?
+NIKO: Selten. Spähsoftware hat keine Unterschrift. Aber sie hat einen Stil. Wie ein Einbrecher, der immer dasselbe Werkzeug benutzt.
+> 드물게요. 스파이웨어엔 서명이 없어요. 근데 스타일은 있죠. 늘 같은 도구 쓰는 빈집털이처럼.
+MIRA: Kann es der Staat sein?
+> 국가일 수도 있어요?
+NIKO: Der Staat darf in Deutschland Telefone hacken. Mit einem Staatstrojaner. Aber nur mit richterlichem Beschluss. Bei schweren Straftaten. Und Journalisten sind besonders geschützt. Wenn es der Staat war, gibt es irgendwo einen Beschluss.
+> 독일에선 국가가 전화기를 해킹할 수 있어요. 국가 트로이 목마로. 근데 법관의 결정이 있어야만. 중대 범죄일 때. 그리고 기자는 특별히 보호받죠. 국가가 했다면 어딘가에 결정문이 있어요.
+DANA: Und ich sage euch gleich: Bei uns gibt es keinen. Ich habe nachgesehen. Gestern. Als Sweta angerufen hat.
+> 그리고 지금 말해 둘게요: 우리 쪽엔 없어요. 확인했어요. 어제. 스베타가 전화했을 때.
+NIKO: Dann war es jemand ohne Beschluss. Und das ist eine Straftat. Ausspähen von Daten.
+> 그럼 결정문 없는 누군가였네요. 그리고 그건 범죄예요. 데이터 탐지.
+KATRIN: Und ein Eingriff in ein Grundrecht. Das Bundesverfassungsgericht hat es 2008 so genannt: das Grundrecht auf Vertraulichkeit und Integrität informationstechnischer Systeme.
+> 그리고 기본권 침해지. 연방헌법재판소가 2008년에 그렇게 이름 붙였어: 정보 기술 시스템의 기밀성과 무결성에 대한 기본권.
+TOBI: Dit längste Grundrecht der Welt.
+= Das längste Grundrecht der Welt.
+> 세상에서 제일 긴 기본권이네.
+KATRIN: Und das wichtigste, wenn man ein Telefon in der Tasche hat.
+> 그리고 주머니에 전화기 있는 사람한텐 제일 중요한 거고.
+
+# 장면 3 — KASPER UND DAS NEUE TELEFON
+KASPER: Gregor hat Ihnen ein neues Telefon gegeben? Dann sind Sie jetzt einer von uns. Ich habe meins seit acht Jahren von ihm.
+> 그레고어가 새 전화기를 줬어요? 그럼 이제 우리 사람이네요. 난 8년째 그 사람이 준 걸 써요.
+JAN: Und Sie wissen, was er darauf liest?
+> 그 사람이 그걸로 뭘 읽는지 알아요?
+KASPER: Alles. Natürlich. Das ist der Preis. Dafür liest niemand sonst. Gregor sagt: Ein Telefon, das ich schütze, kann kein anderer öffnen.
+> 전부요. 당연히. 그게 대가예요. 대신 다른 사람은 아무도 못 읽죠. 그레고어 말로는: 내가 지키는 전화기는 아무도 못 연다.
+JAN: Und wer schützt Sie vor Gregor?
+> 그럼 그레고어로부터는 누가 당신을 지켜요?
+KASPER: … Das habe ich mich nie gefragt.
+> … 그건 한 번도 생각 안 해 봤네요.
+JAN: Herr Kasper, haben Sie Kinder?
+> 카스퍼 씨, 아이 있어요?
+KASPER: Eine Tochter. Neun. Warum?
+> 딸 하나. 아홉 살. 왜요?
+JAN: Hat sie ein Telefon?
+> 딸도 전화기 있어요?
+KASPER: Seit ihrem Geburtstag. Gregor hat es eingerichtet. Als Geschenk. — Warum fragen Sie das?
+> 생일 이후로요. 그레고어가 설정해 줬어요. 선물로. — 왜 그런 걸 물어요?
+JAN: Weil ich lange Journalist war. Und Journalisten fragen, was andere sich nie fragen.
+> 오래 기자였으니까요. 그리고 기자는 남들이 절대 안 묻는 걸 묻죠.
+
+# 장면 3-2 — DURCH DIE TÜR
+THAL: Gregor, wie viele Telefone liest du im Moment?
+> 그레고어, 지금 전화기 몇 대를 읽고 있지?
+SANDMANN: Alle, die zählen. Und zwei, die bald zählen werden.
+> 중요한 건 전부요. 그리고 곧 중요해질 두 대.
+THAL: Und Kowalczyks?
+> 코발치크 건?
+SANDMANN: Sauber. Das stört mich. Ein Mann, der seit vierzehn Jahren nachts Quellen anruft, und jetzt ruft er niemanden an? Er hat einen anderen Weg.
+> 깨끗해요. 그게 거슬려요. 14년 동안 밤마다 취재원한테 전화하던 남자가 이제 아무한테도 안 한다? 다른 길이 있는 거예요.
+THAL: Oder er ist wirklich müde.
+> 아니면 정말 지쳤거나.
+SANDMANN: Müde Männer schreiben ihren Müttern. Ihren Exfrauen. Irgendwem. Er schreibt keinem. Das ist nicht Müdigkeit. Das ist Disziplin.
+> 지친 남자들은 엄마한테 써요. 전처한테. 누구한테든. 그는 아무한테도 안 써요. 그건 피로가 아니에요. 규율이죠.
+THAL: Dann beobachte ihn. Aber er bleibt. Ich will ihn bis Silvester am Tisch haben. Danach entscheiden wir.
+> 그럼 지켜봐. 하지만 그는 남아. 섣달그믐까지 식탁에 앉혀 둘 거야. 그다음에 정하지.
+SANDMANN: Und wenn er etwas findet?
+> 그가 뭘 찾으면요?
+THAL: Dann findet er es in deinem Safe. Und dein Safe ist sicher. Oder?
+> 그럼 네 금고에서 찾겠지. 그리고 네 금고는 안전하잖아. 안 그래?
+JAN: (im Flur, zu sich) Silvester. Neun Tage. Und ein Safe.
+> (복도에서, 혼잣말) 섣달그믐. 9일. 그리고 금고 하나.
+
+# 장면 4 — BRENNER BEI KATRIN
+BRENNER: Ich rede mit Ihnen. Weil Sie Anwältin sind. Nicht Journalistin. Und weil Kowalczyk am Telefon «Nicht am Telefon» gesagt hat. Das hat er vor zwei Jahren auch gesagt.
+> 당신이랑 얘기하죠. 변호사니까. 기자가 아니라. 그리고 코발치크가 전화로 «전화로는 말고요»라고 했으니까. 2년 전에도 그렇게 말했어요.
+KATRIN: Herr Brenner, ich vertrete Sie nicht. Ich bin die Anwältin von Spreewerk. Alles, was Sie mir sagen, kann in einem Artikel landen. Wollen Sie trotzdem reden?
+> 브레너 씨, 전 당신을 대리하지 않아요. Spreewerk 변호사예요. 저한테 하시는 말은 전부 기사에 실릴 수 있어요. 그래도 얘기하시겠어요?
+BRENNER: Ja. Ich habe einen eigenen Anwalt. Er hat gesagt, ich bin verrückt. Ich habe gesagt: Ich war zwei Jahre vernünftig, und es hat mir nichts gebracht.
+> 네. 제 변호사는 따로 있어요. 미쳤다고 하더군요. 그래서 말했죠: 2년 동안 분별 있게 굴었는데 아무것도 얻은 게 없다고.
+LEON: Was haben Sie für uns?
+> 저희한테 뭘 주실 수 있어요?
+BRENNER: Drei Überweisungsträger. Kopien. Ich habe sie fotografiert, bevor ich unterschrieben habe. Und einen Zettel, auf dem steht, was man mir versprochen hat. Handschriftlich. Nicht von mir.
+> 이체 신청서 세 장. 사본이요. 서명하기 전에 사진 찍어 뒀어요. 그리고 나한테 뭘 약속했는지 적힌 쪽지 하나. 손 글씨. 내 글씨 아니에요.
+KATRIN: Was steht darauf?
+> 뭐라고 쓰여 있어요?
+BRENNER: «Nach dem Verfahren: Beratervertrag, Feldrand Entwicklung. 4.000 monatlich.» Und ein Kürzel. «G. S.»
+> «재판 후: 자문 계약, 펠트란트 개발. 월 4,000.» 그리고 이니셜. «G. S.»
+LEON: Gregor Sandmann.
+> 그레고어 잔트만.
+BRENNER: Ich habe nicht gesagt, wer das ist. Ich habe nur gesagt, was draufsteht.
+> 누군지는 말 안 했어요. 쓰여 있는 것만 말했지.
+KATRIN: Das ist genau der richtige Satz, Herr Brenner. Bleiben Sie dabei.
+> 그게 딱 맞는 문장이에요, 브레너 씨. 그대로 유지하세요.
+BRENNER: Und sagen Sie Kowalczyk… Nein. Sagen Sie ihm nichts. Er arbeitet ja jetzt für die.
+> 그리고 코발치크한테… 아니. 아무 말도 하지 마요. 이제 그쪽에서 일하잖아요.
+
+# 장면 5 — DIE ERGEBNISSE
+NIKO: Fünf Telefone sind sauber. Zwei nicht.
+> 다섯 대는 깨끗해요. 두 대는 아니고.
+HELENE: Welche?
+> 어느 거요?
+NIKO: Frau Aydins. Und Ihres, Frau Brandt.
+> 아이든 씨 거. 그리고 브란트 씨 거.
+HELENE: Meins.
+> 내 거.
+NIKO: Eine kommerzielle Spähsoftware. Wir nennen sie intern «Echo», weil sie alles zurückschickt. Nachrichten, Kalender, Standort. Sie kann das Mikrofon einschalten. Aber sie tut es selten. Wer sie benutzt, liest lieber.
+> 상업용 스파이웨어예요. 우린 내부적으로 «에코»라고 불러요. 모든 걸 되돌려 보내니까. 메시지, 일정, 위치. 마이크를 켤 수도 있어요. 근데 드물게만 해요. 쓰는 사람이 읽는 걸 더 좋아하죠.
+SWETA: Seit wann?
+> 언제부터요?
+NIKO: Bei Frau Aydin seit Oktober. Bei Frau Brandt seit zwei Jahren.
+> 아이든 씨는 10월부터. 브란트 씨는 2년 전부터.
+HELENE: Zwei Jahre. Seit Teil eins.
+> 2년. 1부부터.
+MIRA: Dann war es vielleicht gar nicht Seidel. Dann war es das Telefon.
+> 그럼 자이델이 아니었을 수도 있어요. 전화기였던 거죠.
+SWETA: Nein. Danzig wurde nie am Telefon gesagt. Nie geschrieben. Nur beim Frühstück. Mündlich. Das Telefon erklärt vieles. Aber nicht Danzig.
+> 아니. 그단스크는 전화로 말한 적이 없어. 쓴 적도. 아침 식사 때만. 말로. 전화기로 많은 게 설명되지. 근데 그단스크는 아니야.
+HELENE: Und die Soljanka?
+> 그럼 솔랸카는?
+SWETA: Die stand in Ihrem Kalender, Helene. «Thermoskanne Soljanka für J.» Mit Uhrzeit. Vielleicht beides. Ein Ohr im Rat. Und ein Echo im Telefon.
+> 헬레네 일정에 있었어요. «J.에게 솔랸카 보온병.» 시간까지. 둘 다일 수도 있어요. 이사회의 귀. 그리고 전화기 속 에코.
+HELENE: Wer installiert so etwas?
+> 누가 그런 걸 설치해?
+NIKO: Jemand, der Zugang zu Ihrem Telefon hatte. Wenige Minuten reichen. Oder ein Link, den Sie geöffnet haben. Erinnern Sie sich an einen Link? Vor zwei Jahren? Von jemandem, dem Sie vertrauen?
+> 당신 전화기에 접근할 수 있던 사람. 몇 분이면 돼요. 아니면 당신이 연 링크 하나. 링크 기억나요? 2년 전에? 믿는 사람한테서 온?
+HELENE: … Ein Fotoalbum. Von einer Stiftungsfeier. «Unsere schönsten Momente, Helene.» Von Ulrich.
+> … 사진 앨범. 재단 행사 때. «우리의 가장 아름다운 순간들, 헬레네.» 울리히한테서.
+
+# 장면 6 — WAS WIR NICHT WISSEN
+KATRIN: Langsam. Wir wissen: Ein Link kam von Seidels Adresse. Wir wissen nicht: ob er ihn selbst geschickt hat. Adressen kann man fälschen. Konten kann man übernehmen.
+> 천천히. 아는 것: 링크가 자이델 주소에서 왔다. 모르는 것: 그가 직접 보냈는지. 주소는 위조할 수 있어. 계정은 탈취할 수 있고.
+HELENE: Danke, Katrin. Ich brauche heute einen Menschen, der «wir wissen nicht» sagt.
+> 고마워, 카트린. 오늘은 «우린 모른다»고 말해 주는 사람이 필요해.
+DANA: Ich kann Anzeige erstatten. Ausspähen von Daten. Gegen unbekannt. Dann ermittelt die Cybercrime-Abteilung.
+> 고소장을 낼 수 있어요. 데이터 탐지. 성명불상자 상대로. 그럼 사이버범죄과가 수사해요.
+SWETA: Und dann weiß die Gegenseite, dass wir es wissen. Und Jan sitzt mitten in ihrem Büro.
+> 그럼 상대가 우리가 아는 걸 알게 돼요. 그리고 얀은 그들 사무실 한복판에 있고.
+HELENE: Dann warten wir. Wir legen die Telefone in die Kiste. Wir benutzen alte Telefone für Termine, die die anderen lesen sollen. Und neue für alles andere.
+> 그럼 기다리자. 전화기는 상자에 넣어 둬. 저쪽이 읽어야 할 일정엔 옛 전화기를 쓰고. 나머지 전부는 새 걸로.
+MIRA: Wir füttern das Echo.
+> 에코한테 먹이를 주자는 거네요.
+HELENE: Mit Katzenfotos. Und mit Marzahn.
+> 고양이 사진이랑. 마르찬으로.
+NIKO: Noch etwas. Es gibt ein achtes Telefon, oder? Herr Kowalczyks. Sein Firmentelefon haben wir nicht. Aber hatte er früher ein anderes?
+> 하나 더요. 여덟 번째 전화기가 있죠? 코발치크 씨 거. 회사 전화기는 우리한테 없지만. 전에 다른 걸 썼어요?
+HELENE: Er hatte viele. Aber eines hat er nie weggeworfen. Er hat es mir vor zehn Jahren gegeben. «Heb es auf. Ich will es nie wieder anfassen.»
+> 여러 대 있었죠. 근데 하나는 절대 안 버렸어요. 10년 전에 나한테 줬어요. «보관해 줘요. 다시는 만지고 싶지 않아요.»
+SWETA: Von 2016.
+> 2016년 거.
+HELENE: Es liegt in meinem Safe. Neben seinem ersten Presseausweis.
+> 내 금고에 있어. 그의 첫 기자증 옆에.
+
+# 장면 7 — ELKE UND DIE ALTEN TELEFONE
+TOBI: Elke, haste noch dein altet Telefon? Dit mit den Tasten?
+= Elke, hast du noch dein altes Telefon? Das mit den Tasten?
+> 엘케, 아직 그 옛날 전화기 있어? 버튼 달린 거?
+ELKE: Dit Nokia? Dit liegt inne Schublade. Neben die Bierdeckel von 1998. Wieso?
+= Das Nokia? Das liegt in der Schublade. Neben den Bierdeckeln von 1998. Wieso?
+> 그 노키아? 서랍에 있어. 1998년 맥주 받침 옆에. 왜?
+TOBI: Weil die Neuen allet weitererzählen. Und die Alten nur telefonieren.
+= Weil die Neuen alles weitererzählen. Und die Alten nur telefonieren.
+> 새것들은 다 일러바치거든. 옛날 건 통화만 하고.
+ELKE: Dit hab ick dir seit Jahren jesacht. Wer 'n Telefon hat, dit klüger is als er selbst, der hat 'n Spion inne Hosentasche.
+= Das habe ich dir seit Jahren gesagt. Wer ein Telefon hat, das klüger ist als er selbst, der hat einen Spion in der Hosentasche.
+> 그거 몇 년째 말했잖아. 자기보다 똑똑한 전화기를 가진 사람은 바지 주머니에 스파이를 넣고 다니는 거라고.
+TOBI: Kann ick dit leihen? Für Helene.
+= Kann ich das leihen? Für Helene.
+> 빌려줄 수 있어? 헬레네 쓰게.
+ELKE: Für Helene immer. Aber sie muss lernen, wie man mit Tasten schreibt. Dreimal die Sieben für 'n S.
+= Für Helene immer. Aber sie muss lernen, wie man mit Tasten schreibt. Dreimal die Sieben für ein S.
+> 헬레네라면 언제든. 근데 버튼으로 쓰는 법 배워야 해. S는 7을 세 번.
+TOBI: Und für 'n J?
+= Und für ein J?
+> 그럼 J는?
+ELKE: Einmal die Fünf. Für Jan reicht einmal.
+= Einmal die Fünf. Für Jan reicht einmal.
+> 5를 한 번. 얀은 한 번이면 돼.
+
+# 장면 6-3 — DREIMAL DIE SIEBEN
+HELENE: (tippt) Sieben, sieben, sieben. S. Eins. Neun… Wie bekomme ich ein Leerzeichen?
+> (자판을 누르며) 7, 7, 7. S. 1. 9… 띄어쓰기는 어떻게 하지?
+ELKE: Die Null. Helene, du schreibst wie meene Oma.
+= Die Null. Helene, du schreibst wie meine Oma.
+> 0번. 헬레네, 우리 할머니처럼 쓰네.
+HELENE: Deine Oma hatte keine Spähsoftware im Kalender.
+> 너희 할머니 일정엔 스파이웨어가 없었잖아.
+ELKE: Nee. Die hatte 'n Blockwart im Treppenhaus. Is dit selbe. Nur langsamer.
+= Nein. Die hatte einen Blockwart im Treppenhaus. Ist das Gleiche. Nur langsamer.
+> 아니. 계단에 블록바르트가 있었지. 똑같은 거야. 좀 느릴 뿐.
+HELENE: Elke, ich habe zwanzig Jahre lang jemandem alles erzählt. Und vielleicht hat er alles weitererzählt.
+> 엘케, 20년 동안 한 사람한테 다 털어놨어. 그리고 그 사람이 다 옮겼을지도 몰라.
+ELKE: Denn weeßte jetzt wat, wat de vorher nich wusstest. Dit is schlimm. Aber dit is besser als umjekehrt.
+= Dann weißt du jetzt etwas, was du vorher nicht wusstest. Das ist schlimm. Aber das ist besser als umgekehrt.
+> 그럼 이제 전엔 몰랐던 걸 아는 거야. 끔찍하지. 근데 그 반대보단 나아.
+HELENE: Und was mache ich am Samstag?
+> 그럼 토요일엔 어떡해?
+ELKE: Du frühstückst. Und du bestellst dit Teuerste. Er zahlt doch immer, oder?
+= Du frühstückst. Und du bestellst das Teuerste. Er zahlt doch immer, oder?
+> 아침 먹어. 그리고 제일 비싼 거 시켜. 늘 그 사람이 내잖아, 안 그래?
+
+# 엔딩 — DAS TELEFON AUS DEM SAFE
+NIKO: Das Telefon von 2016. Es hatte noch Akku. Nach zehn Jahren. Er hat es nie ganz leer werden lassen.
+> 2016년 전화기. 아직 배터리가 남아 있었어요. 10년이 지났는데. 완전히 방전되게 둔 적이 없나 봐요.
+HELENE: Er hat es alle paar Monate aufgeladen. Bei mir im Büro. Ohne es anzuschauen.
+> 몇 달마다 충전했어요. 내 사무실에서. 쳐다보지도 않고.
+NIKO: Es ist infiziert. Eine ältere Version. Derselbe Stil. Dieselben Server. Dasselbe Werkzeug wie bei Ihnen.
+> 감염돼 있어요. 더 오래된 버전. 같은 스타일. 같은 서버. 당신 것과 같은 도구.
+SWETA: Seit wann?
+> 언제부터요?
+NIKO: Installiert am elften Februar 2016. Abends. Einundzwanzig Uhr vierzig.
+> 2016년 2월 11일 설치. 저녁. 21시 40분.
+HELENE: Der elfte Februar.
+> 2월 11일.
+SWETA: Was war am elften Februar?
+> 2월 11일에 뭐가 있었어요?
+HELENE: (leise) Da hat Jan Marek zum ersten Mal getroffen. Bei Elke. Am Fenstertisch. Er hat es mir am nächsten Morgen erzählt. «Ich habe einen Polen kennengelernt, der keine Angst hat.»
+> (조용히) 얀이 마렉을 처음 만난 날이야. 엘케네서. 창가 테이블에서. 다음 날 아침에 나한테 말했어. «겁 없는 폴란드 사람을 만났어요.»
+NIKO: Und hier. Die Software hat jede Nachricht kopiert. Auch die an Marek. Mit Treffpunkten. Mit seinem Namen. Mit der Baustelle.
+> 그리고 여기. 프로그램이 메시지를 전부 복사했어요. 마렉한테 보낸 것도. 만날 장소까지. 그의 이름까지. 공사 현장까지.
+DANA: Drei Wochen vor dem Artikel. Und sechs Wochen vor seinem Tod.
+> 기사 3주 전. 그리고 그가 죽기 6주 전.
+HELENE: Zehn Jahre lang hat Jan geglaubt, sein Artikel hätte Marek verraten.
+> 10년 동안 얀은 자기 기사가 마렉을 노출시켰다고 믿었어.
+SWETA: Es war nicht sein Artikel. Es war sein Telefon.
+> 기사가 아니었어요. 전화기였어요.
+HELENE: Und er sitzt jetzt jeden Tag neben dem Mann, der mitliest.
+> 그리고 그는 지금 매일 같이 읽는 그 남자 옆에 앉아 있어.
+
+# 에필로그 1 — SAGEN ODER NICHT SAGEN
+HELENE: Er muss es wissen. Heute. Er hat zehn Jahre lang jeden Morgen an Marek gedacht.
+> 그는 알아야 해. 오늘. 10년 동안 매일 아침 마렉을 생각했어.
+DANA: Wenn er es heute erfährt, steht er morgen in Sandmanns Büro. Und dann ist er tot. Oder Sandmann. Oder beide im Gefängnis.
+> 오늘 알면 내일 잔트만 사무실에 서 있을 거예요. 그럼 그가 죽어요. 아니면 잔트만이. 아니면 둘 다 감옥에.
+SWETA: Er muss es wissen. Aber er muss es auch überleben.
+> 알아야 해요. 근데 그걸 견뎌 내기도 해야 하고.
+LEON: Darf ich etwas sagen? Ich bin der Jüngste hier, und ich weiß nicht, was Jan tut. Aber ich weiß, dass er nie einen Satz gedruckt hat, den er nicht belegen konnte.
+> 한마디 해도 돼요? 제가 여기서 제일 어리고, 얀이 뭘 하는지도 몰라요. 근데 그가 입증할 수 없는 문장은 한 번도 싣지 않았다는 건 알아요.
+HELENE: Und?
+> 그래서?
+LEON: Dann wird er es auch nicht glauben, wenn er es nur auf einem Zettel liest. Er wird es selbst sehen wollen. Mit Beleg.
+> 그럼 쪽지로만 읽으면 안 믿을 거예요. 직접 보고 싶어 할 거예요. 증거로.
+SWETA: Leon hat recht. Wir schreiben ihm: «Dein altes Telefon war nicht sauber. Seit dem 11.2.2016. Such nicht nach Schuld. Such nach dem Werkzeug.»
+> 레온 말이 맞아요. 이렇게 쓰죠: «네 옛 전화기는 깨끗하지 않았다. 2016년 2월 11일부터. 죄를 찾지 마. 도구를 찾아.»
+DANA: Und ich lege dazu: «Nichts allein. Fallada, wenn es eng wird.»
+> 그리고 저는 덧붙일게요: «혼자서는 아무것도. 위험해지면 팔라다.»
+HELENE: Und ich schreibe drunter: «Es war nicht dein Artikel.» Das muss da stehen. Auch ohne Beleg. Das ist kein Satz für die Zeitung. Das ist ein Satz für ihn.
+> 그리고 난 그 아래 쓸게: «네 기사가 아니었어.» 그건 꼭 있어야 해. 증거 없이도. 신문용 문장이 아니야. 그를 위한 문장이지.
+LEON: … Was ist das für ein Artikel, von dem ihr redet?
+> … 지금 말하는 그 기사가 뭔데요?
+HELENE: Bald, Leon. Bald erzähle ich dir alles. Und du darfst mich anschreien.
+> 곧, 레온. 곧 다 말해 줄게. 그리고 나한테 소리 질러도 돼.
+
+# 에필로그 2 — SONNTAG, ZEHN UHR, DIE BANK
+JAN: (liest unter der Bank) «Dein altes Telefon war nicht sauber. Seit dem 11.2.2016.»
+> (벤치 밑에서 읽는다) «네 옛 전화기는 깨끗하지 않았다. 2016년 2월 11일부터.»
+JAN: Der elfte Februar. Elke. Der Fenstertisch. Marek hat über meinen Witz gelacht. Über den mit dem Polier.
+> 2월 11일. 엘케네. 창가 테이블. 마렉이 내 농담에 웃었지. 현장 반장 농담에.
+JAN: «Such nicht nach Schuld. Such nach dem Werkzeug.» — Sweta.
+> «죄를 찾지 마. 도구를 찾아.» — 스베타.
+JAN: «Nichts allein. Fallada, wenn es eng wird.» — Dana.
+> «혼자서는 아무것도. 위험해지면 팔라다.» — 다나.
+JAN: «Es war nicht dein Artikel.» — Helene.
+> «네 기사가 아니었어.» — 헬레네.
+JAN: … Papa. Hast du das gehört? Zehn Jahre. Und es war ein Telefon.
+> … 아빠. 들었어요? 10년. 그런데 전화기였대요.
+JAN: Ich glaube es nicht. Noch nicht. Ich glaube es, wenn ich es sehe.
+> 안 믿어요. 아직은. 직접 보면 믿을 거예요.
+JAN: Heiligabend. Noch sieben Tage bis Silvester. Und ein Safe.
+> 크리스마스이브. 섣달그믐까지 7일. 그리고 금고 하나.
+JAN: Ich bin noch da, Papa. Und jetzt bin ich wütend.
+> 아직 여기 있어요, 아빠. 그리고 이제 화가 나요.
