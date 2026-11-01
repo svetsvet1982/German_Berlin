@@ -1,0 +1,400 @@
+@part 7
+@ep 14
+@title Landgericht Berlin
+@sub 베를린 지방법원 · 103호 법정의 일곱 증인
+@info 대사 150턴 · 난이도 C1 · 배경: 2029년 2월 14일, 베를린 지방법원 언론 담당 민사 재판부 103호 법정과 복도, 엘케네 선술집, 법원 계단
+@cast RICHTERIN | 하르트비히 박사 · 재판장 (언론 담당 민사 재판부)
+@cast WERNICKE | 클라우디아 베르니케 박사 (58) · Thal & Partner 측 변호사
+@cast KATRIN | 카트린 볼니 박사 (52) · Spreewerk 측 변호사
+@cast JAN | 얀 코발치크 (45) · 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast GISELA | 기젤라 호프만 (79) · Gerichtstraße 61 세입자 (베를린 사투리)
+@cast KUHLMANN | 베른트 쿨만 (56) · 전력망 회사 설비 안전 엔지니어 (2부)
+@cast VOIGT | 라이너 포크트 중령 (55) · 국방부 조달 기획국 장교 (3부)
+@cast LEA | 레아 (27) · 전 HH 소셜 미디어 매니저 (4부)
+@cast IOANA | 이오아나 포페스쿠 (29) · 간병 보조원 (5부)
+@cast KEVIN | 케빈 (19) · 정비 직업 훈련생 (6부, 베를린 사투리)
+@cast BEHRENS | 잉그리트 베렌스 (54) · 내무 행정청 국장, 공익 제보자 (7부)
+@cast THAL | 막시밀리안 탈 박사 (65) · Thal & Partner 대표
+@cast LEON | 레온 피셔 (24) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast HORST | 호르스트 (74) · 단골 (베를린 사투리)
+@cast KEMAL | 케말 (60) · 슈페티 주인 (베를린 사투리)
+@cast KASPER | 루벤 카스퍼 (43) · 전 Thal & Partner 지배인, 제보자
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@note ※ 법정 드라마. 가처분 절차에서는 즉시 조사할 수 있는 증거만 쓸 수 있어, 카트린은 증인들을 직접 법정에 데려온다('출석한 증인'). 각 부의 인물이 한 사람씩 증인석에 올라 '보도의 공익'에 얼굴을 준다. 재판부는 위장 취재의 방식과 공익을 형량해 가처분 신청을 기각하고, 기사 «Der Grunewalder Kreis»가 Spreewerk와 해외 파트너 매체에 동시에 실린다. 인물·재판 가상, 절차는 극 중 단순화.
+@note ※ 표현 초점: die Zeugenaussage · das Urteil · die Abwägung · die Pressefreiheit · präsente Zeugen · *Im Namen des Volkes*
+@next 7부 15화 — «Gegenrecherche»(끝까지 묻다) — 몇 달 뒤, 시리즈 최종화.
+
+# 콜드 오픈 — SAAL EINHUNDERTDREI, NEUN UHR
+TOBI: Kiek ma. Die janze Bank voll. Gisela im Kleid von '74. Kevin in der Arbeitshose. Und Elke hat 'n Thermoskanne mit.
+= Guck mal. Die ganze Bank voll. Gisela im Kleid von '74. Kevin in der Arbeitshose. Und Elke hat eine Thermoskanne mit.
+> 봐. 방청석 꽉 찼어. 74년 원피스 입은 기젤라. 작업복 바지 입은 케빈. 그리고 엘케는 보온병 들고 왔어.
+ELKE: Kamille. Für die Nerven. Nich für mich. Für den Richter.
+= Kamille. Für die Nerven. Nicht für mich. Für den Richter.
+> 캐모마일. 신경 안정용. 나 말고. 판사용.
+JAN: Elke, man bringt dem Gericht keinen Tee.
+> 엘케, 법원에 차를 갖다주는 게 아니에요.
+ELKE: Wer sacht dit? Steht dit im Jesetz?
+= Wer sagt das? Steht das im Gesetz?
+> 누가 그래? 법에 나와 있어?
+KATRIN: Wahrscheinlich nicht. Aber lass sie in der Tasche.
+> 아마 없을 거예요. 그래도 가방에 넣어 둬요.
+RICHTERIN: Ich eröffne die mündliche Verhandlung in der Sache Thal und Partner gegen Spreewerk und Kowalczyk. Antrag auf Erlass einer einstweiligen Verfügung. Die Kammer hat die Schutzschrift gelesen. Die Antragsgegnerseite hat präsente Zeugen mitgebracht. Wie viele, Frau Dr. Wolny?
+> 탈 & 파트너 대 Spreewerk 및 코발치크 사건의 구두 변론을 개시합니다. 가처분 발령 신청. 재판부는 보호 서면을 읽었습니다. 피신청인 측이 출석 증인을 데려왔군요. 몇 명입니까, 볼니 박사?
+KATRIN: Sieben, Frau Vorsitzende. Aus sieben Recherchen.
+> 일곱 명입니다, 재판장님. 일곱 개의 취재에서.
+WERNICKE: Das ist Theater, Frau Vorsitzende. Hier geht es um einen Vertragsbruch. Nicht um eine Revue.
+> 연극입니다, 재판장님. 이건 계약 위반에 관한 사건입니다. 레뷔가 아니라.
+RICHTERIN: Ob es Theater ist, entscheide ich, Frau Kollegin. Bitte.
+> 연극인지는 내가 판단합니다, 변호사님. 계속하세요.
+
+# 장면 1 — WERNICKES ANTRAG
+WERNICKE: Herr Kowalczyk hat sich unter einem falschen Vorwand bei meiner Mandantin anstellen lassen. Er hat Erschöpfung vorgetäuscht. Er hat einen öffentlichen Abschied inszeniert. Er hat drei Wochen lang vertrauliche Gespräche gehört, um sie zu veröffentlichen.
+> 코발치크 씨는 거짓 구실로 제 의뢰인에게 채용되었습니다. 피로를 꾸몄습니다. 공개 작별을 연출했습니다. 3주 동안 비공개 대화를 들었습니다. 보도하기 위해서.
+WERNICKE: Er hat einen Prokuristen dazu gebracht, einen Safe zu öffnen. Und er hat seine Redaktion benutzt, um einen Kreis von Bürgern zu verleumden, die nichts getan haben, außer gemeinsam zu essen.
+> 그는 지배인을 부추겨 금고를 열게 했습니다. 그리고 자기 편집국을 이용해 함께 식사한 것 말고는 아무것도 하지 않은 시민 모임을 비방하려 합니다.
+WERNICKE: Wenn das erlaubt ist, ist kein Unternehmen in Deutschland mehr sicher. Jede Redaktion kann jemanden einschleusen. Wir beantragen, die Veröffentlichung zu untersagen.
+> 이게 허용된다면 독일의 어떤 기업도 더는 안전하지 않습니다. 어떤 편집국이든 누군가를 잠입시킬 수 있습니다. 보도 금지를 신청합니다.
+RICHTERIN: Danke. Frau Dr. Wolny.
+> 감사합니다. 볼니 박사.
+KATRIN: Frau Vorsitzende. Meine Kollegin hat in einem Punkt recht: Herr Kowalczyk hat über seine Müdigkeit gelogen. Das räumen wir ein. Alles andere nicht.
+> 재판장님. 제 동료 변호사 말이 한 가지는 맞습니다: 코발치크 씨는 자기 피로에 대해 거짓말했습니다. 그건 인정합니다. 나머지는 아닙니다.
+KATRIN: Er hat nichts gestohlen. Nichts aufgenommen. Kein Geld genommen — sein Gehalt liegt auf einem Treuhandkonto. Der Safe wurde vom Prokuristen geöffnet, aus Sorge um seine neunjährige Tochter, deren Telefon ausgespäht wurde. Alles liegt bei der Polizei. Nicht bei uns.
+> 그는 아무것도 훔치지 않았습니다. 아무것도 녹음하지 않았습니다. 돈도 받지 않았습니다 — 급여는 신탁 계좌에 있습니다. 금고는 지배인이 열었습니다. 감시당한 아홉 살 딸의 전화기가 걱정돼서. 모든 건 경찰에 있습니다. 우리가 아니라.
+KATRIN: Und die Gespräche, die er gehört hat, betreffen einen Haushalt, der um drei Uhr nachts geändert wurde. Parteispenden über Strohmänner. Eine Zielliste für Sabotage. Und den Tod eines Gerüstbauers. Das ist kein gemeinsames Essen. Das ist das, wofür es Pressefreiheit gibt.
+> 그리고 그가 들은 대화는 새벽 세 시에 바뀐 예산에 관한 것입니다. 차명으로 쪼갠 정당 후원금. 사보타주 목표물 목록. 그리고 한 비계공의 죽음. 그건 함께한 식사가 아닙니다. 언론 자유가 존재하는 이유입니다.
+
+# 장면 2 — JAN IM ZEUGENSTAND
+RICHTERIN: Herr Kowalczyk. Sie sind Partei, nicht Zeuge. Aber ich möchte Sie etwas fragen. Haben Sie in diesen drei Wochen irgendetwas heimlich aufgenommen?
+> 코발치크 씨. 당신은 증인이 아니라 당사자입니다. 그래도 묻고 싶군요. 그 3주 동안 뭐든 몰래 녹음했습니까?
+JAN: Nein, Frau Vorsitzende. Kein Wort.
+> 아니요, 재판장님. 한 마디도.
+RICHTERIN: Woher stammen dann die wörtlichen Zitate in Ihrem Text?
+> 그럼 기사 속 직접 인용은 어디서 나왔습니까?
+JAN: Aus Gedächtnisprotokollen. Jedes am selben Abend geschrieben. Mit Datum, Uhrzeit und einer Spalte «Was ich nicht weiß». Jedes mit einem Hashwert beim Notar hinterlegt. Das letzte habe ich in einem Weinkeller gesprochen. Mit meiner eigenen Stimme. Über das, was ich gehört hatte.
+> 기억 기록에서요. 하나하나 그날 저녁에 썼어요. 날짜, 시간, 그리고 «내가 모르는 것» 칸까지. 하나하나 해시값을 공증인에게 맡겼어요. 마지막 건 와인 저장고에서 말로 남겼어요. 제 목소리로. 제가 들은 것에 대해.
+WERNICKE: Erinnerungen. Frau Vorsitzende, Erinnerungen sind subjektiv.
+> 기억입니다. 재판장님, 기억은 주관적입니다.
+JAN: Deshalb habe ich jede mit zwei Zeugen abgeglichen, die am Tisch saßen. Frau Dr. Albers hat ihre Aussage bei der Polizei gemacht. Wort für Wort dieselbe.
+> 그래서 식탁에 앉았던 증인 두 명과 하나하나 대조했어요. 알버스 박사가 경찰에서 진술했어요. 한 마디 한 마디 똑같이.
+RICHTERIN: Und warum haben Sie über Ihre Müdigkeit gelogen?
+> 그럼 왜 피로에 대해 거짓말했습니까?
+JAN: Weil ich anders nicht an den Tisch gekommen wäre, an dem um drei Uhr nachts Haushalte geschrieben werden. Ich habe vierzehn Jahre lang gefragt. Mit Frist. Schriftlich. Sie haben nie geantwortet. Dr. Thal hat mir selbst gesagt: «Ich antworte nicht schriftlich. Ein Brief ist ein Beweis.»
+> 그러지 않고는 새벽 세 시에 예산이 쓰이는 식탁에 갈 수 없었으니까요. 14년 동안 물었어요. 기한 붙여서. 서면으로. 한 번도 답하지 않았어요. 탈 박사가 직접 그랬죠: «서면으로는 답하지 않는다. 편지는 증거다.»
+RICHTERIN: Danke. Setzen Sie sich.
+> 감사합니다. 앉으세요.
+
+# 장면 2-2 — WERNICKE FRAGT
+WERNICKE: Herr Kowalczyk. Sie haben einen Arbeitsvertrag unterschrieben. Mit einer Verschwiegenheitsklausel. Haben Sie ihn gelesen?
+> 코발치크 씨. 근로계약서에 서명했죠. 비밀 유지 조항이 있는. 읽었습니까?
+JAN: Dreimal.
+> 세 번이요.
+WERNICKE: Und Sie haben ihn trotzdem gebrochen.
+> 그런데도 어겼고요.
+JAN: Eine Verschwiegenheitsklausel schützt Geschäftsgeheimnisse. Keine Straftaten. Das steht im Gesetz. Nicht in meinem Vertrag.
+> 비밀 유지 조항은 영업 비밀을 보호해요. 범죄가 아니라. 그건 법에 있어요. 제 계약서가 아니라.
+WERNICKE: Woher wollen Sie wissen, dass es Straftaten sind? Es gibt kein Urteil.
+> 그게 범죄라는 걸 어떻게 압니까? 판결이 없는데.
+JAN: Ich weiß es nicht. Deshalb steht in meinem Text bei jedem Vorwurf, wer ihn erhebt. Die Staatsanwaltschaft. Die Bundesanwaltschaft. Die Bundestagsverwaltung. Und bei jedem: «Es gilt die Unschuldsvermutung.»
+> 몰라요. 그래서 제 기사엔 혐의마다 누가 제기하는지 적혀 있어요. 검찰. 연방검찰. 연방의회 사무처. 그리고 혐의마다: «무죄 추정 원칙이 적용된다.»
+WERNICKE: Auch für meine Mandantin?
+> 제 의뢰인에게도?
+JAN: Gerade für Ihre Mandantin. Wenn wir die Regeln für Dr. Thal aufheben, heben wir sie morgen für Kevin auf.
+> 당신 의뢰인한테는 더더욱. 탈 박사한테 규칙을 없애면 내일은 케빈한테도 없애게 돼요.
+WERNICKE: Und Ihr Gehalt? Sie haben es angenommen.
+> 그럼 급여는요? 받았잖아요.
+JAN: Es liegt auf einem Treuhandkonto. Ungenutzt. Ich habe die Kontoauszüge mitgebracht. Sie können sie lesen. Dreimal, wenn Sie wollen.
+> 신탁 계좌에 있어요. 손도 안 댔어요. 계좌 내역 가져왔어요. 읽으셔도 돼요. 원하시면 세 번.
+
+# 장면 2-3 — DER KREIS SCHWEIGT
+RICHTERIN: Dr. Thal. Sie sind Geschäftsführer der Antragstellerin. Möchten Sie etwas sagen? Zum Beispiel, ob Sie die Stiftung Spreewerk mitfinanziert haben?
+> 탈 박사. 신청인 회사의 대표시죠. 하실 말씀 있습니까? 예를 들어 Spreewerk 재단에 돈을 댔는지?
+THAL: Frau Vorsitzende, gegen mich wird ermittelt. Ich mache von meinem Recht Gebrauch, mich dazu nicht zu äußern.
+> 재판장님, 저는 수사를 받고 있습니다. 그에 관해 진술하지 않을 권리를 행사하겠습니다.
+RICHTERIN: Das ist Ihr gutes Recht.
+> 정당한 권리입니다.
+THAL: Ich möchte nur eines sagen. Im Konjunktiv. Wenn ich einer freien Presse geholfen hätte, dann hätte ich nie gewollt, dass sie so frei ist.
+> 한 가지만 말하겠습니다. 접속법으로. 내가 자유 언론을 도왔다면, 그게 이렇게까지 자유롭길 바라진 않았을 겁니다.
+JAN: (leise zu Katrin) Er hat es gerade zugegeben.
+> (카트린에게 조용히) 방금 인정했네.
+KATRIN: (leise) Im Konjunktiv. Aber die Richterin hat es gehört. Und sie hat Deutsch studiert. Vor Jura.
+> (조용히) 접속법으로. 근데 판사가 들었어. 그리고 그분은 법학 전에 독문학을 전공했지.
+
+# 장면 3 — GISELA
+GISELA: Gisela Hoffmann. Neunundsiebzig. Gerichtstraße einundsechzig. Seit einundfuffzig Jahren. Dritter Stock, links.
+= Gisela Hoffmann. Neunundsiebzig. Gerichtstraße einundsechzig. Seit einundfünfzig Jahren. Dritter Stock, links.
+> 기젤라 호프만. 일흔아홉. 게리히트슈트라세 61. 51년째. 4층 왼쪽.
+RICHTERIN: Frau Hoffmann, was hat die Berichterstattung von Spreewerk für Sie bedeutet?
+> 호프만 부인, Spreewerk의 보도가 부인께 어떤 의미였습니까?
+GISELA: Dass ick noch da wohne. Die wollten mich raushaben. Mit 'nem Brief, wo «Eigenbedarf» drinstand, und mit 'ner Heizung, die nich jing. Dann kam der Jannek. Der hat jefragt. Und jefragt. Und denn haben die uffjehört.
+= Dass ich noch da wohne. Die wollten mich raushaben. Mit einem Brief, wo «Eigenbedarf» drinstand, und mit einer Heizung, die nicht ging. Dann kam der Jannek. Der hat gefragt. Und gefragt. Und dann haben die aufgehört.
+> 내가 아직 거기 산다는 거요. 그 사람들이 날 내보내려 했어요. «자기 사용 필요»라고 쓴 편지랑, 안 되는 난방으로. 그러다 얀넥이 왔어요. 묻더라고요. 계속 묻고. 그러니까 그쪽이 그만뒀어요.
+WERNICKE: Frau Hoffmann, das war ein anderer Fall. Teil eins. Das hat mit meiner Mandantin nichts zu tun.
+> 호프만 부인, 그건 다른 사건입니다. 1부. 제 의뢰인과는 아무 관련이 없습니다.
+GISELA: Nee? Ihr Mandant hat damals den Vermieter beraten. Dit stand inne Zeitung. Mit Quelle. Ick hab dit ausjeschnitten. Hier. Mit Datum.
+= Nein? Ihr Mandant hat damals den Vermieter beraten. Das stand in der Zeitung. Mit Quelle. Ich habe das ausgeschnitten. Hier. Mit Datum.
+> 아니라고요? 그때 당신 의뢰인이 집주인한테 자문했잖아요. 신문에 나왔어요. 출처까지. 내가 오려 놨어요. 여기. 날짜도.
+RICHTERIN: (lächelt kaum merklich) Die Kammer nimmt den Zeitungsausschnitt zur Kenntnis.
+> (알아채기 힘들 만큼 미소) 재판부는 신문 스크랩을 참고하겠습니다.
+GISELA: Und noch wat, Frau Richterin. Ick hab 'nen Brief für Sie jeschrieben. Der is aber privat. Den lesen Se zu Hause.
+= Und noch was, Frau Richterin. Ich habe einen Brief für Sie geschrieben. Der ist aber privat. Den lesen Sie zu Hause.
+> 그리고 하나 더요, 판사님. 판사님께 편지를 썼어요. 근데 개인적인 거예요. 집에서 읽으세요.
+RICHTERIN: Frau Hoffmann, ich darf keine privaten Briefe annehmen.
+> 호프만 부인, 저는 개인 편지를 받을 수 없습니다.
+GISELA: Denn lesen Se ihn eben hier. Is nur een Satz. «Wenn Se wissen wollen, wozu 'ne Zeitung jut is, fragen Se mich.»
+= Dann lesen Sie ihn eben hier. Ist nur ein Satz. «Wenn Sie wissen wollen, wozu eine Zeitung gut ist, fragen Sie mich.»
+> 그럼 여기서 읽으세요. 한 문장이에요. «신문이 무슨 쓸모인지 알고 싶으면 나한테 물어보세요.»
+
+# 장면 4 — KUHLMANN UND VOIGT
+KUHLMANN: Bernd Kuhlmann. Sicherheitsingenieur. Ich habe vor dem Stromausfall schriftlich gewarnt. Meine Warnung ist verschwunden. Die Analyse ging an eine Firma, die Dr. Thal beraten hat. Ohne Spreewerk wüsste niemand, dass es eine Warnung gab.
+> 베른트 쿨만. 안전 엔지니어. 정전 전에 서면으로 경고했습니다. 제 경고는 사라졌습니다. 분석은 탈 박사가 자문한 회사로 갔고요. Spreewerk가 없었다면 경고가 있었다는 걸 아무도 몰랐을 겁니다.
+RICHTERIN: Hat Ihnen jemand Geld oder einen Vorteil für Ihre Aussage angeboten?
+> 진술 대가로 누가 돈이나 이익을 제안했습니까?
+KUHLMANN: Die Journalisten nicht. Die andere Seite schon. Einen Beratervertrag. Ich habe ihn in meiner Schublade für wichtige Dinge. Neben einer Visitenkarte von Herrn Kasper.
+> 기자들은 아닙니다. 상대편은 했습니다. 자문 계약. 제 '중요한 것 서랍'에 넣어 뒀어요. 카스퍼 씨 명함 옆에.
+VOIGT: Rainer Voigt. Oberstleutnant. Ich habe als einziger meinen Nebenjob bei einer Tochter von Thal und Partner gemeldet. Und ich habe gesehen, wie Beschaffungsentscheidungen vorher in Grunewald besprochen wurden. Ich habe es Herrn Kowalczyk erzählt. Einmal. Im Freien. Ohne Aufnahme.
+> 라이너 포크트. 중령. 탈 & 파트너 자회사 겸직을 신고한 건 저 혼자였습니다. 그리고 조달 결정이 미리 그루네발트에서 논의되는 걸 봤습니다. 코발치크 씨한테 말했어요. 한 번. 야외에서. 녹음 없이.
+WERNICKE: Herr Oberstleutnant, Sie haben Dienstgeheimnisse an einen Journalisten weitergegeben.
+> 중령님, 당신은 공무상 비밀을 기자에게 넘겼습니다.
+VOIGT: Ich habe meinem Dienstherrn zuerst gemeldet, was ich wusste. Drei Monate vor dem Gespräch. Der Vorgang liegt im Ministerium. Ich habe ihn mitgebracht.
+> 저는 먼저 제 상관에게 아는 걸 보고했습니다. 그 대화 석 달 전에. 그 문건은 국방부에 있습니다. 가져왔습니다.
+RICHTERIN: Danke, Herr Oberstleutnant. Die Kammer nimmt auch das zur Kenntnis.
+> 감사합니다, 중령님. 재판부는 그것도 참고하겠습니다.
+
+# 장면 5 — LEA UND IOANA
+LEA: Lea. Ich habe in einer Agentur gearbeitet, die Fake-Profile betrieben hat. Wir haben Journalisten angegriffen. Auch Herrn Kowalczyk. Mit einem gefälschten Video.
+> 레아입니다. 가짜 프로필을 운영하던 에이전시에서 일했어요. 우린 기자들을 공격했어요. 코발치크 씨도요. 조작된 영상으로.
+RICHTERIN: Und warum sind Sie heute hier?
+> 그럼 오늘은 왜 여기 왔습니까?
+LEA: Weil die Leute, die das bezahlt haben, jetzt sagen, Herr Kowalczyk hätte ihren Ruf geschädigt. Ich habe meinen Job gekündigt, weil ich mich vor dem geekelt habe, was wir mit seinem Ruf gemacht haben. Wer hier von Rufschädigung spricht, sollte sich zuerst das Video ansehen.
+> 그 돈을 댄 사람들이 지금 코발치크 씨가 자기들 명예를 훼손했다고 하니까요. 전 우리가 그의 명예에 한 짓이 역겨워서 그만뒀어요. 여기서 명예 훼손을 말하는 사람은 먼저 그 영상부터 봐야 해요.
+IOANA: Ioana Popescu. Ich pflege alte Menschen. Ich habe Formulare unterschrieben, die ich nicht verstanden habe. Und ich habe gesehen, dass Menschen Leistungen nicht bekommen haben, für die ihre Kasse bezahlt hat.
+> 이오아나 포페스쿠. 노인들을 돌봐요. 이해 못 하는 서류에 서명했어요. 그리고 보험이 돈을 낸 서비스를 사람들이 못 받는 걸 봤어요.
+RICHTERIN: Was hat das mit diesem Verfahren zu tun, Frau Popescu?
+> 그게 이 사건과 무슨 관련이 있습니까, 포페스쿠 씨?
+IOANA: Ein Teil des Geldes ist als Spende an eine Partei gegangen. Unter dem Namen einer Kollegin. Daria. Sie hat keinen Cent behalten. Und eine Partei hat dann einen Haushalt geschrieben. Ich habe es in Spreewerk gelesen. Auf Rumänisch habe ich es meiner Mutter vorgelesen. Sie hat gesagt: «Das ist wie bei uns früher.» Ich habe gesagt: «Nein, Mama. Hier steht es in der Zeitung.»
+> 그 돈 일부가 정당 후원금으로 갔어요. 동료 이름으로. 다리아. 그 애는 한 푼도 안 가졌어요. 그리고 그 정당이 예산을 썼어요. Spreewerk에서 읽었어요. 루마니아어로 엄마한테 읽어 줬어요. 엄마가 그랬어요: «옛날 우리나라 같네.» 제가 말했죠: «아니야, 엄마. 여기선 그게 신문에 나와.»
+
+# 장면 5-2 — NACHFRAGEN
+WERNICKE: Frau Lea, Sie haben selbst Journalisten angegriffen. Warum sollte die Kammer Ihnen glauben?
+> 레아 씨, 당신 자신이 기자들을 공격했죠. 재판부가 왜 당신을 믿어야 합니까?
+LEA: Weil ich es zugebe. Unter meinem Vornamen. Vor Gericht. Die Leute, die mich bezahlt haben, geben gar nichts zu.
+> 인정하니까요. 제 이름으로. 법정에서. 저한테 돈 준 사람들은 아무것도 인정 안 해요.
+WERNICKE: Frau Popescu, Sie haben Formulare unterschrieben, die gefälscht waren. Sie sind selbst Beschuldigte.
+> 포페스쿠 씨, 당신은 조작된 서류에 서명했죠. 당신 자신이 피의자입니다.
+IOANA: Ich war Beschuldigte. Das Verfahren gegen mich wurde eingestellt. Weil ich ausgesagt habe. Und weil eine Journalistin mir gezeigt hat, dass man fragen darf, was man unterschreibt.
+> 피의자였죠. 제 사건은 종결됐어요. 제가 진술했으니까. 그리고 한 기자가 서명하는 걸 물어봐도 된다는 걸 보여 줬으니까.
+
+# 장면 6 — KEVIN
+KEVIN: Kevin. Neunzehn. Azubi Kfz-Mechatroniker in Reinickendorf. Zweites Lehrjahr. — Darf ick so reden, wie ick rede?
+= Kevin. Neunzehn. Azubi Kfz-Mechatroniker in Reinickendorf. Zweites Lehrjahr. — Darf ich so reden, wie ich rede?
+> 케빈. 열아홉. 라이니켄도르프 자동차 정비 직업 훈련생. 2년 차. — 제 말투대로 말해도 돼요?
+RICHTERIN: Hier darf jeder so reden, wie er redet.
+> 여기선 누구나 자기 말투대로 말해도 됩니다.
+KEVIN: Jut. Letzten Herbst hab ick Jeld jekriegt. Über 'ne App. Für Fotos. Denn für 'n Paket. Denn sollt ick wat anzünden. 'n Lager mit Generatoren. Die Liste mit dem Lager, die lag in dem Safe. Hab ick jelesen.
+= Gut. Letzten Herbst habe ich Geld gekriegt. Über eine App. Für Fotos. Dann für ein Paket. Dann sollte ich etwas anzünden. Ein Lager mit Generatoren. Die Liste mit dem Lager, die lag in dem Safe. Habe ich gelesen.
+> 좋아요. 작년 가을에 돈을 받았어요. 앱으로. 사진 찍는 대가로. 그다음엔 소포. 그다음엔 뭘 불태우래요. 발전기 창고. 그 창고 적힌 목록이 그 금고에 있었대요. 읽었어요.
+RICHTERIN: Und warum haben Sie es nicht getan?
+> 그럼 왜 하지 않았습니까?
+KEVIN: Weil ick 'n Text jelesen hab. Von denen da. «Keine Frage. Keine Antwort. Keine Fragen mehr.» Da stand, dass die, die uns bezahlen, uns wegwerfen. Wie 'ne Kippe. Und da hab ick jedacht: Ick bin keene Kippe.
+= Weil ich einen Text gelesen habe. Von denen da. «Keine Frage. Keine Antwort. Keine Fragen mehr.» Da stand, dass die, die uns bezahlen, uns wegwerfen. Wie eine Kippe. Und da habe ich gedacht: Ich bin keine Kippe.
+> 글 하나를 읽었으니까요. 저 사람들이 쓴. «질문 없음. 대답 없음. 더는 질문 없음.» 우리한테 돈 주는 놈들이 우릴 버린다고 쓰여 있었어요. 담배꽁초처럼. 그래서 생각했죠: 난 꽁초가 아니야.
+WERNICKE: Frau Vorsitzende, ein junger Mann mit einer Vorgeschichte…
+> 재판장님, 전력이 있는 젊은이가…
+KEVIN: Mit 'ner Vorjeschichte und 'ner Zwischenprüfung im März. Ick lern abends. Mit meinem Meister. Wenn der Text verboten wird, liest ihn der nächste Kevin nich. Und der zündet dit Lager vielleicht an.
+= Mit einer Vorgeschichte und einer Zwischenprüfung im März. Ich lerne abends. Mit meinem Meister. Wenn der Text verboten wird, liest ihn der nächste Kevin nicht. Und der zündet das Lager vielleicht an.
+> 전력이 있고 3월에 중간 시험이 있는 젊은이요. 저녁마다 공부해요. 장인이랑. 그 기사가 금지되면 다음 케빈은 그걸 못 읽어요. 그리고 그 애는 창고에 불을 지를지도 몰라요.
+RICHTERIN: … Danke, Herr… Kevin.
+> … 감사합니다, 음… 케빈 씨.
+
+# 장면 7 — BEHRENS
+BEHRENS: Ingrid Behrens. Ich habe zwölf Jahre lang anonym Hinweise gegeben. Heute sage ich mit meinem Namen aus.
+> 잉그리트 베렌스. 12년 동안 익명으로 제보했습니다. 오늘은 제 이름으로 증언합니다.
+BEHRENS: Am ersten März zweitausendsechzehn kam eine E-Mail mit dem Namen eines Gerüstbauers an meinen damaligen Chef. Unterschrift «G. S.». Dreiundzwanzig Tage später war der Mann tot. Das Original liegt bei der Staatsanwaltschaft.
+> 2016년 3월 1일, 한 비계공의 이름이 담긴 이메일이 당시 제 상사에게 왔습니다. 서명 «G. S.». 23일 뒤 그 남자는 죽었습니다. 원본은 검찰에 있습니다.
+WERNICKE: Das betrifft Herrn Sandmann. Nicht meine Mandantin.
+> 그건 잔트만 씨에 관한 겁니다. 제 의뢰인이 아니라.
+BEHRENS: Herr Sandmann hat zwanzig Jahre lang jeden Freitag eine Mappe in die Villa Ihrer Mandantin gebracht. Ich habe die Mappe einmal gesehen. Auf dem Weg vom Gendarmenmarkt zu einem Auto. Sie wurde getragen, als wäre sie heiß.
+> 잔트만 씨는 20년 동안 매주 금요일 당신 의뢰인의 저택에 서류철을 가져갔습니다. 그 서류철을 한 번 봤어요. 잔다르멘마르크트에서 차로 가는 길에. 뜨거운 걸 든 것처럼 들고 가더군요.
+RICHTERIN: Frau Behrens, warum haben Sie zwölf Jahre gewartet?
+> 베렌스 씨, 왜 12년을 기다렸습니까?
+BEHRENS: Weil ich Angst hatte. Und weil ich gelernt habe, dass Angst nicht weniger wird, wenn man wartet. Nur der Schrank, in dem man sie versteckt, wird voller.
+> 무서웠으니까요. 그리고 기다린다고 두려움이 줄지 않는다는 걸 배웠으니까요. 그걸 숨기는 찬장만 꽉 찰 뿐이에요.
+
+# 장면 7-2 — AUF DER BANK IM FLUR
+KEVIN: Frau Hoffmann. Sie waren jut. Det mit dem Zeitungsausschnitt.
+= Frau Hoffmann. Sie waren gut. Das mit dem Zeitungsausschnitt.
+> 호프만 할머니. 잘하셨어요. 신문 스크랩 그거.
+GISELA: Du ooch, Junge. Det mit der Kippe. Dit hat se jerührt. Ick hab dit jesehn. Sie hat mit der Brille jespielt.
+= Du auch, Junge. Das mit der Kippe. Das hat sie gerührt. Ich habe das gesehen. Sie hat mit der Brille gespielt.
+> 너도, 얘야. 꽁초 얘기. 판사가 감동했어. 내가 봤어. 안경을 만지작거리더라.
+KEVIN: Woher wissen Sie dit?
+= Woher wissen Sie das?
+> 그걸 어떻게 알아요?
+GISELA: Ick bin seit einundfuffzig Jahren Mieterin. Ick seh, wenn Leute was fühlen. Vermieter fühlen nie wat. Richter manchmal.
+= Ich bin seit einundfünfzig Jahren Mieterin. Ich sehe, wenn Leute etwas fühlen. Vermieter fühlen nie etwas. Richter manchmal.
+> 51년째 세입자야. 사람들이 뭘 느끼면 보여. 집주인은 아무것도 안 느껴. 판사는 가끔 느끼고.
+KEVIN: Wollen Se 'n Kaffee? Aus'm Automaten?
+= Wollen Sie einen Kaffee? Aus dem Automaten?
+> 커피 드실래요? 자판기 거?
+BEHRENS: (lächelt) Nehmen Sie ihn, Frau Hoffmann. Kaffee aus dem Automaten hat eine lange Tradition in dieser Geschichte.
+> (미소) 받으세요, 호프만 부인. 자판기 커피는 이 이야기에서 오랜 전통이 있어요.
+ELKE: (zur Richterin, die vorbeigeht) Frau Richterin. Kamillentee? Für die Nerven?
+= (zur Richterin, die vorbeigeht) Frau Richterin. Kamillentee? Für die Nerven?
+> (지나가는 판사에게) 판사님. 캐모마일 차? 신경 안정용?
+RICHTERIN: Danke, nein. Ich darf nichts annehmen. Aber riecht gut.
+> 고맙지만 괜찮아요. 아무것도 받으면 안 돼요. 그래도 냄새는 좋네요.
+ELKE: Wenn Se pensioniert sind, kommen Se vorbei. Wedding. Die Kneipe mit dem Fallada uff der Theke. Denn kriegen Se 'n Bier.
+= Wenn Sie pensioniert sind, kommen Sie vorbei. Wedding. Die Kneipe mit dem Fallada auf der Theke. Dann kriegen Sie ein Bier.
+> 은퇴하시면 들르세요. 베딩. 카운터에 팔라다 있는 선술집. 그럼 맥주 드릴게요.
+
+# 장면 8 — IM FLUR, MITTAGSPAUSE
+THAL: Herr Kowalczyk. Ein schönes Schauspiel. Eine Rentnerin, ein Lehrling, eine Pflegerin. Sie haben die Stadt in den Gerichtssaal geholt.
+> 코발치크 씨. 멋진 공연이네요. 연금 생활자, 견습생, 간병인. 도시를 법정에 데려왔군요.
+JAN: Die Stadt war schon immer da, Dr. Thal. Sie haben nur nie mit ihr gegessen.
+> 도시는 원래 거기 있었어요, 탈 박사님. 당신이 한 번도 같이 밥을 안 먹었을 뿐이죠.
+THAL: Und wenn die Kammer mir recht gibt?
+> 재판부가 내 손을 들어 주면요?
+JAN: Dann erscheint der Text in Wien, in Luxemburg und in Amsterdam. Und Gisela liest ihn in der Zeitung, die Tadek ihr aus Wien ausdruckt. Mit der Lupe.
+> 그럼 기사는 빈에서, 룩셈부르크에서, 암스테르담에서 나가요. 그리고 기젤라는 타덱이 빈에서 출력해 준 신문으로 읽겠죠. 돋보기로.
+THAL: Sie sind sehr sicher.
+> 아주 확신하는군요.
+JAN: Nein. Ich habe eine Spalte mit dem, was ich nicht weiß. Sie ist heute ziemlich lang.
+> 아니요. 난 내가 모르는 것 칸이 있어요. 오늘은 꽤 길어요.
+
+# 장면 8-2 — DAS WARTEN
+HELENE: Die Kammer berät seit zweiundvierzig Minuten.
+> 재판부가 42분째 합의 중이야.
+SWETA: In Moskau dauert so etwas vier Minuten. Und das Ergebnis steht vorher fest.
+> 모스크바에선 그런 거 4분 걸려요. 그리고 결과는 미리 정해져 있죠.
+JAN: Helene. Wenn wir verlieren, schreibe ich den Text trotzdem weiter. Für die Hauptsache. Für die Berufung. Für Wien.
+> 헬레네. 지면 그래도 계속 기사 쓸 거예요. 본안을 위해. 항소를 위해. 빈을 위해.
+HELENE: Ich weiß. Und wenn wir gewinnen?
+> 알아. 그럼 이기면?
+JAN: Dann auch. Die Geschichte ist nicht fertig, nur weil eine Richterin «Im Namen des Volkes» sagt.
+> 그래도요. 판사가 «국민의 이름으로»라고 말한다고 이야기가 끝나는 건 아니니까요.
+HELENE: Du klingst wie ich vor dreißig Jahren.
+> 30년 전의 나 같네.
+JAN: Und wie klangst du vor dreißig Jahren?
+> 30년 전엔 어땠는데요?
+HELENE: Wie jemand, der noch nicht wusste, von wem er seine Sätze hat. — Jetzt weiß ich es. Und sie sind trotzdem meine.
+> 자기 문장을 누구한테서 받았는지 아직 몰랐던 사람. — 이젠 알아. 그래도 그건 내 문장이야.
+SWETA: Die Tür geht auf.
+> 문 열려요.
+
+# 장면 9 — IM NAMEN DES VOLKES
+RICHTERIN: Ich verkünde das Urteil. Im Namen des Volkes. Der Antrag auf Erlass einer einstweiligen Verfügung wird zurückgewiesen. Die Antragstellerin trägt die Kosten des Verfahrens.
+> 판결을 선고합니다. 국민의 이름으로. 가처분 발령 신청을 기각합니다. 절차 비용은 신청인이 부담합니다.
+ELKE: (leise) Jawoll.
+= (leise) Jawohl.
+> (조용히) 그렇지.
+RICHTERIN: Zur Begründung, kurz. Die Kammer hat abgewogen. Auf der einen Seite das Interesse eines Unternehmens am Schutz vertraulicher Gespräche. Auf der anderen Seite das Interesse der Öffentlichkeit an Informationen über die Einflussnahme auf einen Landeshaushalt, auf Parteispenden, auf die Sicherheit kritischer Infrastruktur und über den möglichen Zusammenhang mit dem Tod eines Menschen.
+> 이유를 짧게. 재판부는 형량했습니다. 한쪽엔 비공개 대화를 보호받으려는 기업의 이익. 다른 쪽엔 주 예산, 정당 후원금, 핵심 기반 시설의 안전에 대한 영향력 행사, 그리고 한 사람의 죽음과의 관련 가능성에 관한 정보에 대한 공중의 이익.
+RICHTERIN: Die Täuschung über die Motive bei der Einstellung wiegt nicht leicht. Die Kammer billigt sie nicht. Aber der Antragsgegner hat erkennbar Grenzen eingehalten: keine heimlichen Aufnahmen, keine Entwendung von Unterlagen, keine Vorteilsannahme, sorgfältige Dokumentation und eine ausführliche Gelegenheit zur Stellungnahme.
+> 채용 시 동기에 관한 기망은 가볍지 않습니다. 재판부는 그것을 용인하지 않습니다. 그러나 피신청인은 분명히 경계를 지켰습니다: 몰래 녹음하지 않았고, 문서를 빼돌리지 않았으며, 이익을 받지 않았고, 꼼꼼히 기록했으며, 충분한 반론 기회를 주었습니다.
+RICHTERIN: Das überragende öffentliche Interesse überwiegt. Die Presse darf berichten. — Und, Frau Hoffmann: Die Kammer hat verstanden, wozu eine Zeitung gut ist.
+> 압도적인 공익이 우월합니다. 언론은 보도할 수 있습니다. — 그리고 호프만 부인: 재판부는 신문이 무슨 쓸모인지 이해했습니다.
+GISELA: Na also. Hat doch jar nich lange jedauert.
+= Na also. Hat doch gar nicht lange gedauert.
+> 그것 봐. 하나도 안 오래 걸렸네.
+
+# 장면 9-2 — DIE LETZTE REIHE
+KASPER: Herr Kowalczyk.
+> 코발치크 씨.
+JAN: Herr Kasper. Sie waren hier? Die ganze Zeit?
+> 카스퍼 씨. 여기 계셨어요? 내내?
+KASPER: Letzte Reihe. Mit Mütze. Ich wollte nicht, dass Dr. Thal mich sieht. Und ich wollte sehen, wie es ausgeht.
+> 맨 뒷줄에. 모자 쓰고. 탈 박사가 날 보는 건 싫었어요. 그리고 어떻게 끝나는지 보고 싶었고.
+JAN: Und Ihre Tochter?
+> 따님은요?
+KASPER: Lotte hat ein neues Telefon. Ohne Geschenkband. Sie hat gefragt, warum ich nicht mehr ins Büro gehe. Ich habe gesagt: «Weil ich eine Mappe nicht mehr tragen wollte.»
+> 로테는 새 전화기가 있어요. 리본 없이. 왜 이제 사무실에 안 가냐고 묻더군요. 그래서 말했죠: «서류철을 더는 나르고 싶지 않아서.»
+JAN: Und was hat sie gesagt?
+> 그랬더니 뭐래요?
+KASPER: «Dann trag doch meinen Ranzen.» Seitdem trage ich jeden Morgen einen Schulranzen. Er ist leichter.
+> «그럼 내 책가방 들어 줘.» 그 뒤로 매일 아침 책가방을 들어요. 더 가벼워요.
+
+# 장면 10 — VIERZEHN UHR, DIE VERÖFFENTLICHUNG
+LEON: (am Telefon, in der Hinterstube) Wien ist bereit. Luxemburg ist bereit. Amsterdam ist bereit. Mira?
+> (전화로, 뒷방에서) 빈 준비됐어요. 룩셈부르크 준비됐어요. 암스테르담 준비됐어요. 미라?
+MIRA: Katrin hat den letzten Satz freigegeben. Vom Gerichtsflur aus. Mit dem Daumen.
+> 카트린이 마지막 문장을 승인했어. 법원 복도에서. 엄지손가락으로.
+LEON: Helene?
+> 헬레네?
+HELENE: (am Telefon) Erster Absatz. Lies ihn vor, Leon. Bevor du drückst.
+> (전화로) 첫 단락. 읽어 봐, 레온. 누르기 전에.
+LEON: «Diese Redaktion wurde 2021 zu siebzig Prozent mit Geld gegründet, das nach unseren Recherchen aus dem Umfeld der Menschen stammt, über die wir hier berichten. Wir zahlen es zurück. Und wir berichten trotzdem.»
+> «이 편집국은 2021년, 우리 취재에 따르면 여기서 보도하는 사람들 주변에서 나온 돈으로 70퍼센트가 설립되었다. 우리는 그 돈을 돌려준다. 그리고 그럼에도 보도한다.»
+HELENE: Drück.
+> 눌러.
+LEON: Vierzehn Uhr null null. «Der Grunewalder Kreis». Veröffentlicht. In vier Ländern.
+> 14시 00분. «그루네발트 서클». 게시. 네 나라에서.
+TOBI: (im Gerichtsflur, ins Telefon) Horst! Musikbox! Is mir ejal, dit is nich vier!
+= (im Gerichtsflur, ins Telefon) Horst! Musikbox! Ist mir egal, das ist nicht vier!
+> (법원 복도에서, 전화에 대고) 호르스트! 주크박스! 네 시 아니어도 상관없어!
+
+# 장면 10-2 — BEI ELKE, VIERZEHN UHR ZWEI
+HORST: Elke is noch im Jericht. Wer zapft denn jetzt?
+= Elke ist noch im Gericht. Wer zapft denn jetzt?
+> 엘케는 아직 법원이야. 그럼 지금 누가 맥주 따라?
+KEMAL: Ick. Ick hab 'nen Späti. Ick kann allet, wat mit Flaschen zu tun hat.
+= Ich. Ich habe einen Späti. Ich kann alles, was mit Flaschen zu tun hat.
+> 내가. 슈페티 하잖아. 병 관련된 건 다 할 줄 알아.
+HORST: Dit is 'n Zapfhahn. Keene Flasche.
+= Das ist ein Zapfhahn. Keine Flasche.
+> 그건 생맥주 꼭지야. 병이 아니고.
+KEMAL: Een Zapfhahn is 'ne Flasche, die nich uffhört. — Uff wen trinken wa?
+= Ein Zapfhahn ist eine Flasche, die nicht aufhört. — Auf wen trinken wir?
+> 생맥주 꼭지는 끝나지 않는 병이야. — 누구를 위해 마셔?
+HORST: Uff Gisela. Uff den Jungen in der Arbeitshose. Uff die Frau mit dem Automatenkaffee.
+= Auf Gisela. Auf den Jungen in der Arbeitshose. Auf die Frau mit dem Automatenkaffee.
+> 기젤라를 위해. 작업복 바지 입은 녀석을 위해. 자판기 커피 그 여자를 위해.
+KEMAL: Und uff mein Handy. Dit war ooch dabei.
+= Und auf mein Handy. Das war auch dabei.
+> 그리고 내 폰을 위해. 그것도 한몫했잖아.
+HORST: Uff dein Handy. Und uff Fallada. Der hat ooch nich verloren. Er hat nur länger jebraucht.
+= Auf dein Handy. Und auf Fallada. Der hat auch nicht verloren. Er hat nur länger gebraucht.
+> 네 폰을 위해. 그리고 팔라다를 위해. 그 사람도 진 게 아니야. 좀 더 오래 걸렸을 뿐이지.
+
+# 장면 10-3 — DIE ERSTEN STUNDEN
+MIRA: Vierzehn Uhr zwanzig. Achtzigtausend Leser. Die Bundestagsverwaltung hat eine Prüfung der Rechenschaftsberichte angekündigt.
+> 14시 20분. 독자 8만 명. 연방의회 사무처가 회계 보고서 심사를 발표했어요.
+LEON: Vierzehn Uhr fünfunddreißig. Die Senatskanzlei: Der Wohnungsbaufonds wird neu verhandelt. Herr Vollmer hat sein Amt als Landesschatzmeister ruhen lassen.
+> 14시 35분. 시 총리실: 주택 기금 재협상. 폴머 씨는 주 재무 담당 직무를 정지했어요.
+SWETA: Fünfzehn Uhr. Luxemburg: Die Finanzaufsicht prüft die Fonds. Wien: Ein Abgeordneter fragt, warum dieselbe Bank auch dort Dividendengeschäfte gemacht hat. Amsterdam hat einen eigenen Teil über die Treuhandkonten.
+> 15시. 룩셈부르크: 금융 감독 당국이 펀드들을 조사해요. 빈: 한 의원이 같은 은행이 거기서도 배당 거래를 했는지 물어요. 암스테르담은 신탁 계좌에 관한 자체 파트를 냈고요.
+MIRA: Und dreihundertzwölf Menschen, die vor drei Wochen gekündigt haben — zweihundertachtzig haben Leons Antwort gelesen. Einundsechzig sind zurückgekommen.
+> 그리고 3주 전에 해지한 312명 중 — 280명이 레온 답장을 읽었어요. 61명이 돌아왔어요.
+LEON: Einundsechzig. Wegen einer Mail.
+> 61명. 메일 한 통 때문에.
+HELENE: Wegen einer Antwort, Leon. Das ist mehr als eine Mail.
+> 답장 때문이야, 레온. 그건 메일 이상이야.
+
+# 엔딩 — DIE GERICHTSTREPPE
+ELKE: Jan. Komm. Die Kneipe wartet. Kemal zapft. Dit kann nich lange jutjehen.
+= Jan. Komm. Die Kneipe wartet. Kemal zapft. Das kann nicht lange gutgehen.
+> 얀. 가자. 선술집이 기다려. 케말이 맥주 따르고 있대. 오래 못 갈 거야.
+JAN: Gleich, Elke. Ich muss noch einen Satz hören.
+> 금방요, 엘케. 한 문장만 더 들어야 해요.
+ELKE: Von dem da? Mit dem Kaschmirmantel?
+= Von dem da? Mit dem Kaschmirmantel?
+> 저 사람한테서? 캐시미어 코트 입은?
+JAN: Er hat noch nie verloren. Ich will hören, wie er es sagt.
+> 저 사람은 한 번도 진 적이 없어요. 그걸 어떻게 말하는지 듣고 싶어요.
+THAL: Herr Kowalczyk.
+> 코발치크 씨.
+JAN: Dr. Thal.
+> 탈 박사님.
+THAL: Ich lese Ihren Text heute Abend. Am Kamin. Dreimal. Wie ein Spion.
+> 오늘 밤 당신 기사를 읽을게요. 벽난로 앞에서. 세 번. 스파이처럼.
+JAN: Und dann?
+> 그다음엔요?
+THAL: Dann rufe ich Dr. Wernicke an. Es gibt eine Berufung. Ein Hauptsacheverfahren. Eine Schadensersatzklage. Und ein Strafverfahren, in dem ich vielleicht sehr gut aussehe. Wer weiß.
+> 그다음엔 베르니케 박사한테 전화하죠. 항소가 있어요. 본안 소송이. 손해배상 소송이. 그리고 내가 아주 좋아 보일 수도 있는 형사 재판이. 누가 알겠어요.
+JAN: Ich weiß es nicht. Das steht in meiner zweiten Spalte.
+> 저도 몰라요. 그건 제 두 번째 칸에 있어요.
+THAL: (bleibt auf der letzten Stufe stehen) Sie haben gewonnen. Für heute.
+> (마지막 계단에서 멈춘다) 당신이 이겼어요. 오늘은.
