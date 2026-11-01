@@ -1,0 +1,367 @@
+@part 7
+@ep 10
+@title Seidel
+@sub 자이델 · 마지막 아침 식사
+@info 대사 150턴 · 난이도 C1 · 배경: 2028년 12월 30일 토요일, 샤를로텐부르크의 오래된 카페와 맞은편 카페, 엘케네 선술집, Spreewerk 편집국, 재단 사무국
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast SEIDEL | 울리히 자이델 교수 (71) · Spreewerk 재단 이사, 공동 설립자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast KELLNERIN | 카페 종업원
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@cast GISELA | 기젤라 호프만 (79) · Gerichtstraße 61 세입자 (베를린 사투리)
+@cast WEBER | 베버 박사 (63) · 재단 이사장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast JAN | 얀 코발치크 (45) · Thal & Partner 자문역 (위장)
+@cast THAL | 막시밀리안 탈 박사 (65) · Thal & Partner 대표
+@cast KEMAL | 케말 (60) · 슈페티 주인 (베를린 사투리)
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@note ※ 시리즈의 정서적 정점. 헬레네가 30년 전 자신에게 «우리가 아는 것 / 우리가 모르는 것»을 가르친 멘토와 마주 앉는다. 자이델은 '독립 언론을 통제 가능한 범위에 두기 위해' 서클의 돈으로 Spreewerk를 함께 세웠다. 헬레네는 처음으로 그에게 'du' 대신 'Sie'를 쓴다. Spreewerk는 자기 설립 자금의 출처도 스스로 보도하기로 한다. 인물·재단 가상.
+@note ※ 표현 초점: die Gründung · die Kontrolle · der Verrat · das Lebenswerk · siezen und duzen · *Ich habe Ihnen vertraut, Ulrich.*
+@next 7부 11화 — «Auffliegen»(발각) — 섣달그믐 밤, 얀의 정체가 서클에 드러난다.
+
+# 콜드 오픈 — CAFÉ, NEUN UHR
+SEIDEL: Helene. Du bist pünktlich. Das bist du sonst nie. Ist etwas passiert?
+> 헬레네. 시간 맞춰 왔네. 평소엔 절대 안 그러잖아. 무슨 일 있어?
+HELENE: Ich habe nicht geschlafen. Da ist man früh fertig.
+> 잠을 못 잤어. 그러면 일찍 준비가 끝나.
+KELLNERIN: Herr Professor, wie immer? Zwei Eier im Glas, Schwarzbrot, Kamillentee?
+> 교수님, 늘 드시던 걸로요? 유리잔 반숙 달걀 두 개, 흑빵, 캐모마일 차?
+SEIDEL: Wie immer. Und für Frau Brandt auch wie immer. Croissant und einen großen Milchkaffee.
+> 늘 먹던 걸로. 브란트 씨도 늘 먹던 걸로. 크루아상이랑 큰 밀크 커피.
+HELENE: Nein. Heute nicht. Ich nehme das Frühstück «Berliner Salon». Mit Lachs. Mit Sekt. Und den frisch gepressten Orangensaft.
+> 아니. 오늘은 말고. «베를리너 살롱» 아침으로 할게. 연어랑. 젝트랑. 갓 짠 오렌지 주스도.
+SEIDEL: Sekt um neun? Feiern wir etwas?
+> 아홉 시에 젝트? 뭐 축하해?
+HELENE: Ich weiß noch nicht. Vielleicht ein Ende. Vielleicht einen Anfang.
+> 아직 몰라. 끝일 수도. 시작일 수도.
+SEIDEL: Du klingst wie jemand, der eine Rede vorbereitet hat.
+> 연설 준비해 온 사람처럼 말하네.
+HELENE: Ich habe keine Rede. Ich habe eine Frage. Du hast sie mir selbst beigebracht. Vor dreißig Jahren. An einer Tafel.
+> 연설은 없어. 질문이 하나 있어. 네가 직접 가르쳐 준 거야. 30년 전에. 칠판에서.
+SEIDEL: «Was wir wissen. Was wir nicht wissen.» Du hast sie nie vergessen.
+> «우리가 아는 것. 우리가 모르는 것.» 한 번도 안 잊었구나.
+HELENE: Nie. Und heute fülle ich die Spalten mit dir.
+> 한 번도. 그리고 오늘은 그 칸들을 너로 채울 거야.
+
+# 장면 0-2 — EIN BRIEF VON WEBER
+SEIDEL: Weber hat mir heute früh einen Brief geschickt. Per Boten. Eine «förmliche Prüfung möglicher Interessenkonflikte im Stiftungsrat». An alle Mitglieder. Weißt du davon?
+> 베버가 오늘 아침 편지를 보냈어. 인편으로. «재단 이사회 내 이해 충돌 가능성에 대한 정식 심사». 이사 전원한테. 알고 있었어?
+HELENE: Ja.
+> 응.
+SEIDEL: Weber ist ein Bürokrat. Er liebt Verfahren.
+> 베버는 관료야. 절차를 사랑하지.
+HELENE: Du hast mir mal gesagt: «Verfahren sind die Zärtlichkeit der Demokratie.»
+> 네가 언젠가 그랬지: «절차는 민주주의의 다정함이다.»
+SEIDEL: Habe ich das gesagt? Das klingt nach mir. Als ich jünger war.
+> 내가 그런 말을 했어? 나다운 말이네. 젊었을 때.
+HELENE: Du warst fünfundvierzig. So alt wie Jan heute.
+> 마흔다섯이었어. 지금 얀 나이.
+
+# 장면 1 — DANZIG
+HELENE: Fangen wir mit etwas Kleinem an. Vor drei Wochen habe ich dir beim Frühstück erzählt, Jan hätte eine Halbschwester in Danzig. Erinnerst du dich?
+> 작은 것부터 시작하자. 3주 전에 아침 먹으면서 너한테 얀한테 그단스크에 이복누이가 있다고 했잖아. 기억나?
+SEIDEL: Vage. Du erzählst so viel über Jan.
+> 어렴풋이. 넌 얀 얘기를 워낙 많이 하잖아.
+HELENE: Jan hat keine Halbschwester. Nirgendwo. Ich habe sie erfunden. Nur für dich. Nur an diesem Tisch.
+> 얀은 이복누이가 없어. 어디에도. 내가 지어냈어. 너만을 위해. 이 식탁에서만.
+SEIDEL: … Warum solltest du so etwas erfinden?
+> … 왜 그런 걸 지어내?
+HELENE: Weil ich wissen wollte, ob sie irgendwo ankommt. Und sie ist angekommen. Eine Woche später. An einem Tisch in Grunewald. Gregor Sandmann hat Jan gefragt, ob er seine Schwester in Danzig noch jeden Monat anruft.
+> 어딘가에 도착하는지 알고 싶었으니까. 그리고 도착했어. 일주일 뒤에. 그루네발트의 한 식탁에. 그레고어 잔트만이 얀한테 그단스크 누이한테 아직 매달 전화하냐고 물었대.
+SEIDEL: Helene, du weißt nicht, wem du noch davon erzählt hast. Vielleicht hast du es am Telefon…
+> 헬레네, 네가 그 얘길 또 누구한테 했는지 모르잖아. 어쩌면 전화로…
+HELENE: Nie am Telefon. Nie geschrieben. Nur hier. Das ist die erste Spalte.
+> 전화로는 절대 안 했어. 글로도 안 썼고. 여기서만. 그게 첫 번째 칸이야.
+SEIDEL: (rückt seine Fliege zurecht) Das ist ein Zufall. Sandmann hat überall Ohren.
+> (나비넥타이를 고친다) 우연이야. 잔트만은 사방에 귀가 있어.
+HELENE: Deine Fliege sitzt schief, Ulrich.
+> 나비넥타이가 비뚤어졌어, 울리히.
+
+# 장면 2 — DIE ANDEREN SPALTEN
+HELENE: Café Einstein. Unter den Linden. Ein Frühstück mit Patrick Wendt. Du hast bezahlt. Und mir eine Woche später gesagt: «Ich kenne da einen jungen IT-Mann. Sehr fähig.»
+> 카페 아인슈타인. 운터 덴 린덴. 파트리크 벤트와의 아침 식사. 네가 냈지. 그리고 일주일 뒤 나한테 말했어: «젊은 IT 전문가를 하나 알아. 아주 유능해.»
+SEIDEL: Ich habe viele junge Menschen empfohlen. Das ist mein Beruf. Gewesen.
+> 젊은 사람들을 많이 추천했어. 그게 내 일이었어. 예전에.
+HELENE: Die Sondersitzung im Frühjahr. Du bist um einundzwanzig Uhr fünf gegangen. Arzttermin. Sieben Minuten später stand unsere Diskussion in einem Blog.
+> 봄의 임시 회의. 21시 5분에 나갔지. 병원 예약. 7분 뒤에 우리 논의가 블로그에 올라왔어.
+SEIDEL: Das ist ein Indiz. Kein Beweis. Das hast du von mir gelernt.
+> 그건 정황이야. 증거가 아니라. 그것도 나한테 배웠잖아.
+HELENE: Paragraf sieben der Satzung. Der Stifter mit mehr als der Hälfte des Kapitals benennt ein Mitglied auf Lebenszeit. Er hat dich benannt. Eins Komma sieben Millionen. Über einen Notar. Von einem Treuhandkonto beim Bankhaus Albrecht und Söhne.
+> 정관 7조. 출연 재산 절반 이상을 낸 출연자는 종신 이사 한 명을 지명한다. 그가 널 지명했어. 170만. 공증인을 통해서. 알브레히트 운트 죄네 은행 신탁 계좌에서.
+SEIDEL: Ein anonymer Freund der Pressefreiheit.
+> 언론 자유의 익명 친구지.
+HELENE: Und ein Fotoalbum. «Unsere schönsten Momente, Helene.» Von deiner Adresse. Seit diesem Link liest jemand mein Telefon. Meinen Kalender. Seit zwei Jahren.
+> 그리고 사진 앨범 하나. «우리의 가장 아름다운 순간들, 헬레네.» 네 주소에서. 그 링크 이후로 누가 내 전화기를 읽어. 내 일정을. 2년째.
+SEIDEL: … Das Album.
+> … 그 앨범.
+HELENE: Fünf Zettel, Ulrich. Ein Name. Und ich weiß es immer noch nicht. Ich vermute es. Mit sehr gutem Grund. Deshalb frage ich dich. Warst du es?
+> 쪽지 다섯 장, 울리히. 이름 하나. 그리고 난 여전히 몰라. 추정하는 거야. 아주 좋은 근거로. 그래서 너한테 묻는 거야. 너였어?
+SEIDEL: Wenn ich es gewesen wäre — was würdest du dann tun?
+> 만약 나였다면 — 넌 어떻게 할 건데?
+HELENE: Kein Konjunktiv. Nicht heute. Du hast mir beigebracht, dass der Konjunktiv die Sprache derer ist, die nichts gesagt haben wollen.
+> 접속법은 안 돼. 오늘은. 접속법은 아무 말도 안 한 걸로 하고 싶은 사람들의 언어라고 네가 가르쳤잖아.
+
+# 장면 3 — GEGENÜBER
+SWETA: (am Fenster gegenüber, ins Nokia) Katrin. Er hat seine Fliege zweimal zurechtgerückt. Sie hat ihren Sekt nicht angerührt.
+> (맞은편 창가에서, 노키아에 대고) 카트린. 나비넥타이를 두 번 고쳤어요. 헬레네는 젝트에 손도 안 댔고요.
+KATRIN: Redet er?
+> 말하고 있어?
+SWETA: Er hält die Teetasse mit beiden Händen. Wie jemand, dem kalt ist. Oder wie jemand, der sich an etwas festhält.
+> 찻잔을 두 손으로 쥐고 있어요. 추운 사람처럼. 아니면 뭔가 붙잡고 있는 사람처럼.
+KATRIN: Und Helene?
+> 헬레네는?
+SWETA: Helene sitzt gerade. Zum ersten Mal, seit ich sie kenne. Sie sitzt nicht schief.
+> 헬레네는 똑바로 앉아 있어요. 내가 알고 나서 처음으로. 비스듬히 안 앉아 있어요.
+KATRIN: Wer gerade sitzt, will gut aussehen, sagt Thal.
+> 똑바로 앉는 사람은 잘 보이고 싶은 거라고 탈이 그랬지.
+SWETA: Nein. Wer gerade sitzt, will nicht umfallen.
+> 아니요. 똑바로 앉는 사람은 쓰러지기 싫은 거예요.
+
+# 장면 4 — DAS GESTÄNDNIS
+SEIDEL: 2020. Maximilian hat mich angerufen. Wir hatten zwanzig Jahre nicht gesprochen. Er hat gesagt: «Ulrich, in Berlin entsteht gerade etwas. Junge Journalisten. Ohne Verlag. Ohne Geld. Mit Helene.»
+> 2020년. 막시밀리안이 전화했어. 20년 동안 연락 안 하던 사이였어. 그가 말했지: «울리히, 지금 베를린에 뭔가 생기고 있어. 젊은 기자들. 출판사도 없고. 돈도 없고. 헬레네랑 같이.»
+HELENE: Er kannte meinen Namen?
+> 그가 내 이름을 알았어?
+SEIDEL: Er kannte alle Namen. Er hat gesagt: «So eine Redaktion wird es geben. Mit uns oder ohne uns. Mit uns kann sie leben. Ohne uns wird sie gefährlich. Oder sie stirbt.»
+> 모든 이름을 알았어. 그러더군: «그런 편집국은 생길 거야. 우리가 있든 없든. 우리가 있으면 살 수 있어. 우리가 없으면 위험해지거나. 죽거나.»
+HELENE: Und du hast «mit uns» gewählt.
+> 그리고 넌 «우리가 있으면»을 골랐구나.
+SEIDEL: Ich habe gedacht, ich rette sie. Ohne das Geld hättet ihr kein halbes Jahr überlebt. Ich habe gedacht: Eine freie Redaktion ist wie ein Feuer. Man braucht einen Kamin. Sonst brennt das Haus ab.
+> 내가 구한다고 생각했어. 그 돈 없으면 너희는 반년도 못 버텼을 거야. 이렇게 생각했지: 자유로운 편집국은 불 같은 거다. 벽난로가 필요하다. 안 그러면 집이 다 타 버린다.
+HELENE: Und du warst der Kamin.
+> 그리고 네가 그 벽난로였고.
+SEIDEL: Ich war der, der ihm erzählt hat, wie warm es ist. Mehr nicht. Ich habe nie eine Geschichte verhindert. Nie einen Satz geändert.
+> 난 그한테 얼마나 따뜻한지 알려 준 사람이었어. 그 이상은 아니야. 기사 하나 막은 적 없어. 문장 하나 바꾼 적 없어.
+HELENE: Du hast im Frühjahr für Jans Suspendierung gestimmt. Wegen eines Videos, das gefälscht war.
+> 넌 봄에 얀 직무 정지에 찬성표를 던졌어. 조작된 영상 때문에.
+SEIDEL: Weil ich dachte, das Feuer ist zu groß geworden.
+> 불이 너무 커졌다고 생각했으니까.
+HELENE: Und die Soljanka? Die Thermoskanne, die ich Jan nach Brandenburg gebracht habe? Die hast du ihm auch erzählt?
+> 그럼 솔랸카는? 내가 얀한테 브란덴부르크로 가져갔던 보온병? 그것도 그한테 말했어?
+SEIDEL: Du hast so liebevoll davon erzählt. Ich habe es weitererzählt, weil es eine schöne Geschichte war. Ich wusste nicht, dass jemand daraus ein Werkzeug macht.
+> 네가 너무 다정하게 얘기했잖아. 예쁜 이야기라서 옮긴 거야. 누가 그걸로 도구를 만들 줄은 몰랐어.
+HELENE: Du wolltest es nicht wissen. Das ist die zweite Spalte, Ulrich. Du hast sie leer gelassen. Zwanzig Jahre lang.
+> 알고 싶지 않았던 거지. 그게 두 번째 칸이야, 울리히. 넌 그걸 비워 뒀어. 20년 동안.
+SEIDEL: Und das Album… Gregor hat es mir gegeben. Auf einem Stick. «Schöne Fotos von der Gala, schick sie Helene.» Ich habe nicht gefragt, warum er Fotos von unserer Feier hatte.
+> 그리고 그 앨범은… 그레고어가 줬어. USB로. «갈라 때 예쁜 사진들이에요, 헬레네한테 보내세요.» 왜 그가 우리 행사 사진을 갖고 있는지 묻지 않았어.
+HELENE: Du hast nicht gefragt. Der Mann, der mir beigebracht hat, dass Journalismus mit einer Frage anfängt.
+> 넌 묻지 않았어. 저널리즘은 질문에서 시작한다고 나한테 가르친 사람이.
+
+# 장면 5 — SIE
+SEIDEL: Helene. Ich habe dich geliebt. Wie eine Tochter. Ich habe Spreewerk geliebt. Ich habe nur gewollt, dass es überlebt.
+> 헬레네. 널 사랑했어. 딸처럼. Spreewerk를 사랑했어. 그저 살아남길 바랐어.
+HELENE: Es hat überlebt. Nicht wegen Ihnen. Trotz Ihnen.
+> 살아남았어요. 당신 덕분이 아니라. 당신에도 불구하고.
+SEIDEL: … «Ihnen»?
+> … «당신»?
+HELENE: Ich sieze Sie ab heute, Herr Professor. Ein «Du» ist für Menschen, denen man den Rücken zudreht, ohne nachzudenken.
+> 오늘부터 존댓말 쓸게요, 교수님. «너»는 생각 없이 등을 보여도 되는 사람한테 쓰는 거예요.
+SEIDEL: Helene, bitte.
+> 헬레네, 제발.
+HELENE: Dreißig Jahre. Ich habe Ihnen meine erste Kündigung erzählt. Meine Scheidung. Den Tod meiner Mutter. Jede Geschichte, bevor sie erschienen ist. Jeden Samstag. Ich habe Ihnen alles erzählt, weil ich dachte, bei Ihnen ist es sicher.
+> 30년이에요. 내 첫 해고를 당신한테 말했어요. 이혼도. 엄마 죽음도. 기사 하나하나, 나가기 전에. 토요일마다. 다 말했어요. 당신한텐 안전하다고 생각해서.
+SEIDEL: Es war sicher. Bei mir.
+> 안전했어. 나한텐.
+HELENE: Und bei ihm? Bei Gregor? Bei einem Mann, der einen Ordner hat, auf dem «Problem erledigt» steht?
+> 그럼 그한텐? 그레고어한텐? «문제 해결»이라고 적힌 서류철을 가진 남자한텐?
+SEIDEL: Was für ein Ordner?
+> 무슨 서류철?
+HELENE: Marek Nowicki. 2016. Ein Gerüstbauer. Er ist gefallen, nachdem Gregor seinen Namen weitergegeben hat. Jan hat zehn Jahre lang geglaubt, es war seine Schuld.
+> 마렉 노비츠키. 2016년. 비계공. 그레고어가 이름을 넘긴 뒤에 떨어졌어요. 얀은 10년 동안 자기 탓이라고 믿었고요.
+SEIDEL: (sehr leise) Das wusste ich nicht. Das schwöre ich dir.
+> (아주 조용히) 그건 몰랐어. 맹세해.
+HELENE: Ich glaube Ihnen sogar. Und das ist das Schlimmste. Sie wussten es nicht. Weil Sie nie gefragt haben.
+> 그 말은 믿어요. 그리고 그게 제일 끔찍해요. 당신은 몰랐어요. 한 번도 묻지 않았으니까.
+HELENE: (steht auf) Ich habe Ihnen vertraut, Ulrich.
+> (일어선다) 당신을 믿었어요, 울리히.
+SEIDEL: Ich weiß.
+> 알아.
+HELENE: Nein. Sie wissen es nicht. Sie haben es nie gewusst. Sonst hätten Sie es nicht verkauft.
+> 아니요. 당신은 몰라요. 한 번도 몰랐어요. 알았으면 그걸 팔지 않았겠죠.
+
+# 장면 5-2 — KEINE AUSSAGE
+HELENE: Werden Sie aussagen? Bei der Staatsanwaltschaft? Über Thal? Über das Geld?
+> 증언할 거예요? 검찰에서? 탈에 대해? 돈에 대해?
+SEIDEL: Ich bin einundsiebzig, Helene. Maximilian und ich haben zusammen in einer Wohngemeinschaft in Bockenheim gewohnt. Ich gehe nicht vor Gericht gegen den Mann, mit dem ich 1978 meinen letzten Joghurt geteilt habe.
+> 난 일흔하나야, 헬레네. 막시밀리안이랑 보켄하임에서 셰어하우스에 같이 살았어. 1978년에 마지막 요구르트를 나눠 먹은 남자를 상대로 법정에 서진 않아.
+HELENE: Aber gegen mich sind Sie zwanzig Jahre lang zum Frühstück gekommen.
+> 근데 나를 상대로는 20년 동안 아침 먹으러 왔잖아요.
+SEIDEL: Das war nicht gegen dich. Das war… neben dir.
+> 그건 널 상대로 한 게 아니야. 그건… 네 옆에서였지.
+HELENE: Neben mir. Mit einem Ohr, das nach Grunewald führt.
+> 내 옆에서. 그루네발트로 이어지는 귀를 달고.
+SEIDEL: Ich trete heute aus dem Stiftungsrat zurück. Schriftlich. Das ist alles, was ich geben kann.
+> 오늘 재단 이사회에서 사임할게. 서면으로. 내가 줄 수 있는 건 그게 다야.
+HELENE: Dann bleiben Sie in der ersten Spalte, Herr Professor. Bei dem, was wir wissen. Mehr steht da nicht über Sie.
+> 그럼 첫 번째 칸에 남으세요, 교수님. 우리가 아는 것에. 당신에 대해선 거기 그 이상은 없어요.
+SEIDEL: Und in der zweiten?
+> 그럼 두 번째 칸엔?
+HELENE: Warum. Das werden wir nie wissen. Und ich werde aufhören, es wissen zu wollen.
+> 왜. 그건 영영 모르겠죠. 그리고 난 알고 싶어 하는 걸 그만둘 거예요.
+
+# 장면 6 — WAS SEIDEL BEIM GEHEN SAGT
+SEIDEL: Helene. Eins noch. Damit du nicht denkst, ich habe nichts mehr zu geben.
+> 헬레네. 하나만 더. 내가 더 줄 게 없다고 생각하지 않게.
+HELENE: Ich höre.
+> 듣고 있어요.
+SEIDEL: Gestern Abend hat Maximilian mich angerufen. Er hat gefragt, ob du mich zum Frühstück bestellt hast. Ich habe ja gesagt. Er hat gesagt: «Dann weiß sie es. Und wenn sie es weiß, weiß es auch er.»
+> 어젯밤 막시밀리안이 전화했어. 네가 나를 아침 식사에 불렀냐고 물었어. 그렇다고 했지. 그러더군: «그럼 그 여자는 알아. 그 여자가 알면 그도 알지.»
+HELENE: «Er»?
+> «그»?
+SEIDEL: Jan. — Helene. Sie wissen es. Seit dem Safe. Seit Weihnachten. Gregor hat den Prokuristen beobachtet, wie er in ein Auto vor dem Gendarmenmarkt gestiegen ist.
+> 얀. — 헬레네. 그들은 알아. 금고 이후로. 크리스마스 이후로. 그레고어가 그 지배인이 잔다르멘마르크트 앞에서 차에 타는 걸 지켜봤어.
+HELENE: Und trotzdem laden sie ihn an Silvester an den Tisch.
+> 그런데도 섣달그믐에 그를 식탁에 초대해.
+SEIDEL: Maximilian will wissen, was ihr habt. Und er will, dass Jan es ihm selbst sagt. An seinem Tisch. Er hat gesagt: «Jeder Mann redet, wenn er glaubt, er hat gewonnen.»
+> 막시밀리안은 너희가 뭘 가졌는지 알고 싶어 해. 그리고 얀이 직접 말하길 원해. 자기 식탁에서. 그러더군: «누구나 자기가 이겼다고 믿으면 말한다.»
+HELENE: Warum sagen Sie mir das?
+> 왜 나한테 그걸 말해요?
+SEIDEL: Weil ich einmal in meinem Leben die zweite Spalte ausfüllen will. — Jan ist für ihn kein Gast mehr, Helene. Wo Jan heute ist und wohin er morgen geht — das weiß Thal schon.
+> 평생에 한 번은 두 번째 칸을 채우고 싶어서. — 얀은 이제 그한테 손님이 아니야, 헬레네. 얀이 오늘 어디 있고 내일 어디로 가는지 — 탈은 이미 알아.
+
+# 장면 6-2 — AUF DER STRASSE
+SWETA: Helene. Hier. Setzen Sie sich. Die Bank ist kalt, aber sie hält.
+> 헬레네. 여기. 앉으세요. 벤치가 차갑지만 버텨 줄 거예요.
+HELENE: Ich habe nicht geweint. Siehst du? Kein bisschen.
+> 안 울었어. 봐? 조금도.
+SWETA: Ich sehe es. Und ich sehe, dass Ihre Hände zittern.
+> 보여요. 그리고 손이 떨리는 것도 보여요.
+HELENE: Er wusste es, Sweta. Sie wissen, dass Jan bei ihnen ist. Seit Weihnachten.
+> 그가 알았어, 스베타. 그들은 얀이 자기들 쪽에 있다는 걸 알아. 크리스마스부터.
+SWETA: Dann wissen wir jetzt etwas, was sie nicht wissen. Dass wir es wissen.
+> 그럼 이제 우린 그들이 모르는 걸 하나 알아요. 우리가 안다는 걸.
+HELENE: Das ist ein sehr russischer Satz.
+> 그거 아주 러시아적인 문장이네.
+SWETA: Das ist ein sehr Moskauer Satz. In Moskau lebt man davon, dass die anderen nicht wissen, was man weiß.
+> 아주 모스크바적인 문장이죠. 모스크바에선 남들이 내가 아는 걸 모른다는 걸로 살아요.
+HELENE: Und wie überlebt man, wenn man gerade einen Bruder verloren hat?
+> 그럼 방금 오빠를 잃은 사람은 어떻게 살아남아?
+SWETA: Man geht zu Elke. Und lässt sich von einer Neunundsiebzigjährigen Kamillentee einschenken.
+> 엘케네 가요. 그리고 일흔아홉 살한테 캐모마일 차를 얻어 마셔요.
+
+# 장면 7 — BEI ELKE
+ELKE: Helene. Setz dich. Nee, nich da. Hier. Uff Jans Platz. Der is frei.
+= Helene. Setz dich. Nein, nicht da. Hier. Auf Jans Platz. Der ist frei.
+> 헬레네. 앉아. 아니, 거기 말고. 여기. 얀 자리에. 비어 있어.
+HELENE: Elke, ich habe ihn gesiezt. Nach dreißig Jahren.
+> 엘케, 그 사람한테 존댓말을 썼어. 30년 만에.
+ELKE: Jut so. Wer dich verkooft, kriegt keen Du mehr. Dit is wie mit Stammjästen. Wer anschreiben lässt und nich zahlt, kriegt keen Bier mehr.
+= Gut so. Wer dich verkauft, kriegt kein Du mehr. Das ist wie mit Stammgästen. Wer anschreiben lässt und nicht zahlt, kriegt kein Bier mehr.
+> 잘했어. 널 판 사람은 반말 못 들어. 단골이랑 똑같아. 외상 달고 안 갚는 사람은 맥주 못 받지.
+GISELA: Helene, Kindchen. Ick hab jehört. Tadek hat mich herjefahren. Mit'm Bus. Zwee Stationen.
+= Helene, Kindchen. Ich habe gehört. Tadek hat mich hergefahren. Mit dem Bus. Zwei Stationen.
+> 헬레네, 얘야. 들었어. 타덱이 데려다줬어. 버스로. 두 정거장.
+HELENE: Frau Hoffmann. Sie sollten bei der Kälte nicht raus.
+> 호프만 부인. 이렇게 추운데 나오시면 안 돼요.
+GISELA: Ick bin neunundsiebzig. Wenn ick nich mehr rausjeh, wenn eene Freundin weint, kann ick jleich liejen bleiben.
+= Ich bin neunundsiebzig. Wenn ich nicht mehr rausgehe, wenn eine Freundin weint, kann ich gleich liegen bleiben.
+> 난 일흔아홉이야. 친구가 우는데 안 나가면 그냥 누워만 있는 게 낫지.
+HELENE: Ich weine nicht.
+> 안 울어요.
+GISELA: Doch. Innen. Dit sieht man. Mein Werner hat ooch immer innen jeweint. Hat ihm nischt jenützt. Wein ma richtig. Dit spült.
+= Doch. Innen. Das sieht man. Mein Werner hat auch immer innen geweint. Hat ihm nichts genützt. Wein mal richtig. Das spült.
+> 울고 있어. 속으로. 보여. 우리 베르너도 늘 속으로 울었지. 아무 소용 없었어. 제대로 울어. 그래야 씻겨 내려가.
+HELENE: … Er hat mir alles beigebracht. Und dann hat er alles verkauft.
+> … 그 사람이 나한테 다 가르쳤어요. 그러고는 다 팔았어요.
+ELKE: Nee. Er hat dir allet beijebracht. Und dann hat er verjessen, wat er dir beijebracht hat. Du nich. Dit is der Unterschied. Deshalb sitzt du hier. Und er nich.
+= Nein. Er hat dir alles beigebracht. Und dann hat er vergessen, was er dir beigebracht hat. Du nicht. Das ist der Unterschied. Deshalb sitzt du hier. Und er nicht.
+> 아니. 그 사람이 다 가르쳤지. 그러고는 자기가 가르친 걸 잊었어. 넌 안 잊었고. 그게 차이야. 그래서 넌 여기 앉아 있고. 그 사람은 아니고.
+GISELA: Und jetzt trink. Kamillentee. Wie '74 uff meener Hochzeit.
+= Und jetzt trink. Kamillentee. Wie '74 auf meiner Hochzeit.
+> 이제 마셔. 캐모마일 차. 74년 내 결혼식 때처럼.
+
+# 장면 7-2 — EIN GESCHENK AUS GRUNEWALD
+THAL: Herr Kowalczyk. Ein Bote hat etwas für Sie gebracht. Von mir. Für morgen Abend.
+> 코발치크 씨. 인편으로 뭘 보냈어요. 내가. 내일 저녁용으로.
+JAN: Eine Fliege.
+> 나비넥타이네요.
+THAL: Seide. Dunkelblau. Am engsten Tisch tragen alle Fliege. Das ist Tradition. Seit Frankfurt.
+> 실크. 짙은 파랑. 가장 가까운 식탁에선 다들 나비넥타이를 매요. 전통이에요. 프랑크푸르트 때부터.
+JAN: Ich kann keine Fliege binden.
+> 전 나비넥타이 맬 줄 몰라요.
+THAL: Dann bindet sie Ihnen morgen jemand. Ein alter Freund von mir kann das sehr gut. Oder er konnte es. Heute Morgen soll sie ihm schief gesessen haben.
+> 그럼 내일 누가 매 줄 거예요. 내 오랜 친구가 그걸 아주 잘해요. 아니, 잘했죠. 오늘 아침엔 비뚤어졌다던데.
+JAN: … Woher wissen Sie, wie seine Fliege heute Morgen saß?
+> … 그분 나비넥타이가 오늘 아침 어땠는지 어떻게 알아요?
+THAL: Ich weiß vieles, Herr Kowalczyk. Das habe ich Ihnen schon auf der Terrasse gesagt. Bis morgen. Acht Uhr. Seien Sie pünktlich. Wir haben viel zu besprechen.
+> 난 많은 걸 알아요, 코발치크 씨. 테라스에서 이미 말했죠. 내일 봐요. 여덟 시. 시간 맞춰 와요. 할 얘기가 많으니까.
+KEMAL: (abends) Herr Jan. Wat is dit? 'Ne Fliege? Jehste uff 'ne Hochzeit?
+= (abends) Herr Jan. Was ist das? Eine Fliege? Gehst du auf eine Hochzeit?
+> (저녁에) 얀 씨. 그게 뭐야? 나비넥타이? 결혼식 가?
+JAN: Auf eine Beerdigung, Kemal. Ich weiß nur noch nicht, auf wessen.
+> 장례식이요, 케말. 누구 건지는 아직 모르지만.
+
+# 장면 8 — DER ZETTEL FÜR MORGEN
+DANA: Dann holen wir ihn heute raus. Jetzt. Ich fahre zu seiner Wohnung.
+> 그럼 오늘 빼내요. 지금. 그의 숙소로 갈게요.
+KATRIN: Wir haben eine Vereinbarung. Er entscheidet. Er hat das Recht, es zu wissen. Und zu entscheiden.
+> 우린 합의가 있어. 그가 정해. 그는 알 권리가 있어. 그리고 정할 권리도.
+DANA: Er hat kein Telefon. Er schreibt uns. Wir können ihn nicht anrufen.
+> 그는 전화기가 없어요. 그가 우리한테 쓰는 거지. 우리가 전화할 수가 없어요.
+SWETA: Doch. Morgen um zehn. Die Bank. Er geht jeden Sonntag. Auch an Silvester.
+> 할 수 있어요. 내일 열 시. 벤치. 일요일마다 가요. 섣달그믐에도.
+HELENE: Dann schreibe ich ihm. Drei Sätze. «Thal weiß es. Seit dem Safe. Du entscheidest — wir sind draußen.»
+> 그럼 내가 쓸게. 세 문장. «탈이 알아. 금고 이후로. 네가 정해 — 우린 밖에 있어.»
+TOBI: Und een vierter. Von mir. «Ick hau dich trotzdem.»
+= Und ein vierter. Von mir. «Ich haue dich trotzdem.»
+> 그리고 네 번째. 내 거. «그래도 한 대 칠 거야.»
+LEON: Und ein fünfter. «Ich habe an Teil vier gedacht.»
+> 그리고 다섯 번째. «4부 생각했어요.»
+DANA: Fünf Sätze unter einer Bank. Das ist ein Brief.
+> 벤치 밑에 다섯 문장. 그건 편지네요.
+HELENE: Das ist eine Redaktion.
+> 그건 편집국이야.
+
+# 장면 8-2 — DER RÜCKTRITT
+WEBER: Vierzehn Uhr. Ulrichs Rücktritt. Per Fax. Ein Satz: «Ich lege mein Amt mit sofortiger Wirkung nieder.» Keine Begründung.
+> 14시. 울리히 사임서. 팩스로. 한 문장: «즉시 직에서 물러납니다.» 이유는 없음.
+KATRIN: Das reicht nicht. Der Rücktritt beendet nicht die Prüfung. Die Stiftung muss wissen, welche Beschlüsse befangen waren. Und das Geld prüfen.
+> 그걸로 충분하지 않아요. 사임한다고 심사가 끝나는 건 아니에요. 재단은 어떤 의결이 편파적이었는지 알아야 해요. 그리고 돈도 심사해야 하고.
+WEBER: Die Suspendierungsabstimmung im Frühjahr. Vier zu drei gegen die Suspendierung. Ulrich hat dafür gestimmt. Ohne seine Stimme wäre es fünf zu zwei gewesen.
+> 봄의 직무 정지 표결. 4대 3으로 직무 정지 반대. 울리히는 찬성했어요. 그의 표가 없었으면 5대 2였겠죠.
+MIRA: Dann hat er nichts verhindert. Er hat es nur versucht.
+> 그럼 아무것도 못 막았네요. 시도만 했지.
+WEBER: Das ist kein Trost. Das ist ein Glück.
+> 그건 위로가 아니에요. 운이죠.
+KATRIN: Und Sie, Dr. Weber? Was sagen Sie öffentlich?
+> 그럼 베버 박사님은요? 공개적으로 뭐라고 하실 거예요?
+WEBER: Dass der Stiftungsrat einen Interessenkonflikt nicht erkannt hat. Sieben Jahre lang. Und dass ich der Vorsitzende war. Das schreibe ich selbst. Mit meinem Namen.
+> 재단 이사회가 이해 충돌을 알아보지 못했다고. 7년 동안. 그리고 내가 의장이었다고. 그건 내가 직접 쓸게요. 내 이름으로.
+
+# 엔딩 — DIE ERSTE SPALTE ÜBER UNS
+MIRA: Helene. Wenn wir den Text über den Kreis veröffentlichen — dann steht da auch, wer Spreewerk gegründet hat. Mit welchem Geld.
+> 헬레네. 서클 기사를 내면 — 거기엔 Spreewerk를 누가 세웠는지도 나와요. 무슨 돈으로.
+LEON: Dann schreiben wir das auch. Im ersten Absatz. Nicht im letzten.
+> 그럼 그것도 써요. 첫 단락에. 마지막 단락 말고.
+HELENE: Im ersten Absatz. «Diese Redaktion wurde 2021 zu siebzig Prozent mit Geld gegründet, das nach unseren Recherchen aus dem Umfeld der Menschen stammt, über die wir hier berichten.»
+> 첫 단락에. «이 편집국은 2021년, 우리 취재에 따르면 여기서 보도하는 사람들 주변에서 나온 돈으로 70퍼센트가 설립되었다.»
+WEBER: Das wird uns Leser kosten. Spender. Vielleicht alles.
+> 그러면 독자를 잃을 거예요. 후원자도. 어쩌면 전부.
+HELENE: Dann kostet es uns alles. Aber wir lassen keine Spalte leer. Nicht über die anderen. Und nicht über uns.
+> 그럼 전부 잃는 거죠. 근데 우린 어떤 칸도 비워 두지 않아요. 남들에 대해서도. 우리 자신에 대해서도.
+WEBER: Und die eins Komma sieben Millionen?
+> 그럼 170만은요?
+HELENE: Die zahlen wir zurück. Oder an eine Stelle, die das Gericht bestimmt. Und wenn wir dafür bei Elke in der Kneipe Redaktionssitzungen machen müssen.
+> 돌려줄 거예요. 아니면 법원이 정하는 곳에. 그러려면 엘케네 선술집에서 편집 회의를 해야 한다 해도.
+ELKE: Die Hinterstube is frei. Die Musikbox spielt um vier. Dit müsst ihr aushalten.
+= Die Hinterstube ist frei. Die Musikbox spielt um vier. Das müsst ihr aushalten.
+> 뒷방 비어 있어. 주크박스는 네 시에 틀어져. 그건 참아야 해.
+
+# 에필로그 — DREIUNDZWANZIG UHR, VOR JANS WOHNUNG
+DANA: (im Auto, ins Funkgerät) Ich stehe vor seinem Haus. Licht im dritten Stock. Er ist da.
+> (차 안에서, 무전기에 대고) 그의 집 앞이야. 4층에 불 켜져 있어. 집에 있어.
+TOBI: (im Funk) Und?
+= (im Funk) Und?
+> (무전) 그래서?
+DANA: Und gegenüber steht ein grauer Audi. Seit einer Stunde. Motor aus. Ein Mann mit kurzen grauen Haaren. Er raucht nicht. Er schaut nur.
+> 그리고 맞은편에 회색 아우디가 서 있어. 한 시간째. 시동 끄고. 짧은 회색 머리 남자. 담배도 안 피워. 그냥 보고 있어.
+TOBI: Sandmann.
+> 잔트만.
+DANA: Seidel hatte recht. Sie wissen, wo er ist.
+> 자이델 말이 맞았어. 그들은 그가 어디 있는지 알아.
+TOBI: Und wir wissen, wo sie sind. Ick bleib hier. Bis zehn Uhr. Bis zur Bank.
+= Und wir wissen, wo sie sind. Ich bleibe hier. Bis zehn Uhr. Bis zur Bank.
+> 그리고 우린 그놈들이 어디 있는지 알지. 난 여기 있을게. 열 시까지. 벤치까지.
