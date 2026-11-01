@@ -1,0 +1,344 @@
+@part 7
+@ep 2
+@title Villa am Hubertussee
+@sub 후베르투스 호숫가의 저택 · 정중한 위협의 식탁
+@info 대사 150턴 · 난이도 C1 · 배경: 2028년 12월 초 금요일 밤, 그루네발트 후베르투스 호숫가 저택(현관·서재·식당·테라스), 저택 앞 거리
+@cast JAN | 얀 코발치크 (45) · 전 Spreewerk 탐사팀장
+@cast THAL | 막시밀리안 탈 박사 (65) · 전 차관, Thal & Partner 대표
+@cast SANDMANN | 그레고어 잔트만 (58) · 전직 LKA 경찰, 서클 보안 책임자 (2부에서 기소, 재판 대기 중)
+@cast ALBERS | 헨리케 알버스 박사 (52) · 부동산 펀드 운용사 대표
+@cast HAASE | 클레멘스 하제 박사 (54) · Pflege Plus Berlin 대표(직무 정지 중)
+@cast ZELLER | 콘라트 첼러 (49) · 방산 투자 펀드 파트너
+@cast VOLLMER | 헨드릭 폴머 (61) · 한 연정 파트너 정당의 주 재무 담당
+@cast HELENE | 헬레네 브란트 (59) · 편집장 (전화)
+@cast DANA | 다나 슈스터 (48) · LKA 수사관 (문자)
+@cast BUTLER | 집사 (60대)
+@note ※ 잠입 시작. 첫 저녁 모임. 부동산, 경비·보안, 방산, 돌봄으로 돈을 번 사람들과 연정 협상에 관여하는 한 정당의 재무 담당이 한 식탁에 앉는다. 모두 1~5부에서 '작은 손실'을 입었다. 얀은 완벽한 표준어로 그들의 시험을 통과해야 한다. 2부에서 기소된 잔트만이 탈의 보안 책임자로 앉아 있다. 정당은 특정하지 않는다. 등장 인물·회사 가상.
+@note ※ 표현 초점: das Tischgespräch · die Andeutung · die Diskretion · der Konjunktiv II · Man könnte sagen… · die Tischordnung
+@next 7부 3화 — «Der Bruch»(결별) — 바깥 팀의 시점. 얀의 '변절'이 언론계에 퍼진다. 진실을 모르는 토비가 분노한다.
+
+# 콜드 오픈 — DAS TOR
+BUTLER: Herr Kowalczyk. Sie werden erwartet. Darf ich Ihren Mantel nehmen? Und Ihr Telefon.
+> 코발치크 씨. 기다리고 계십니다. 코트 받아 드릴까요? 그리고 휴대폰도.
+JAN: Mein Telefon?
+> 제 휴대폰이요?
+BUTLER: Eine Hausregel, Herr Kowalczyk. Kein Gast behält sein Telefon am Tisch. Herr Dr. Thal schätzt ungestörte Gespräche. Sie bekommen es beim Gehen zurück.
+> 집안 규칙입니다, 코발치크 씨. 식탁에서 휴대폰을 가지고 계신 손님은 없습니다. 탈 박사님은 방해받지 않는 대화를 중시하십니다. 나가실 때 돌려드리겠습니다.
+JAN: Selbstverständlich.
+> 물론이죠.
+SANDMANN: Herr Kowalczyk. Wir kennen uns. Aus Ihrer Zeitung. Teil zwei, wenn ich mich richtig erinnere. Sie haben mich auf Seite eins gesetzt.
+> 코발치크 씨. 우린 아는 사이죠. 당신 신문에서. 2부였던가요. 날 1면에 올리셨죠.
+JAN: Herr Sandmann. Sie dürfen Berlin nicht verlassen. Ich sehe, Sie halten sich daran. Grunewald ist Berlin.
+> 잔트만 씨. 베를린을 떠나시면 안 되죠. 지키고 계시네요. 그루네발트도 베를린이니까.
+SANDMANN: Ich halte mich an alles, was ein Gericht mir sagt. Das unterscheidet mich von manchen Journalisten.
+> 법원이 말하는 건 다 지켜요. 그게 날 몇몇 기자들과 구분 짓죠.
+JAN: Und was unterscheidet Sie von einem Mann, der Sicherheitslücken verkauft?
+> 그럼 보안 구멍을 파는 남자와 당신을 구분 짓는 건 뭔가요?
+SANDMANN: Ein Urteil, das noch nicht gesprochen ist. Bis dahin bin ich unschuldig. So steht es in Ihrem eigenen Pressekodex. Ziffer dreizehn.
+> 아직 내려지지 않은 판결이요. 그때까진 난 무죄예요. 당신네 언론윤리강령에도 그렇게 쓰여 있죠. 제13조.
+THAL: Gregor. Nicht im Flur. Herr Kowalczyk — willkommen. Kommen Sie herein. Es ist kalt, und der Wein ist es nicht.
+> 그레고어. 복도에선 말고. 코발치크 씨 — 환영합니다. 들어오시죠. 날은 춥고, 와인은 그렇지 않습니다.
+
+# 장면 1 — DIE BIBLIOTHEK
+THAL: Setzen Sie sich. Wo Sie wollen. Schief, wenn es Ihnen lieber ist.
+> 앉으세요. 원하시는 데 아무 데나. 비스듬히가 편하시면 그렇게.
+JAN: Sie haben meine Sitzhaltung zum Gesprächsthema gemacht, Herr Dr. Thal. Auf einer Einladungskarte.
+> 제 앉는 자세를 대화 주제로 삼으셨더군요, 탈 박사님. 초대장에.
+THAL: Weil man über Menschen mehr erfährt, wenn man weiß, wie sie sitzen. Wer gerade sitzt, will gefallen. Wer schief sitzt, will bleiben. Sie, Herr Kowalczyk, wollen bleiben. Das gefällt mir.
+> 사람이 어떻게 앉는지 알면 그 사람에 대해 더 많이 알게 되니까요. 똑바로 앉는 사람은 잘 보이고 싶어 하고. 비스듬히 앉는 사람은 머물고 싶어 하죠. 당신은, 코발치크 씨, 머물고 싶어 하는 사람이에요. 그게 마음에 듭니다.
+JAN: Sie haben sechs Mal nicht geantwortet. Warum jetzt?
+> 여섯 번 답하지 않으셨죠. 왜 지금이에요?
+THAL: Weil ich Fragen nie schriftlich beantworte. Ich bin zu alt für Schriftlichkeit. Ein Brief ist ein Beweis. Ein Gespräch ist ein Gespräch.
+> 질문엔 절대 서면으로 답하지 않으니까요. 서면으로 하기엔 너무 늙었어요. 편지는 증거죠. 대화는 대화고.
+JAN: Und ein Abendessen?
+> 그럼 저녁 식사는요?
+THAL: Ein Abendessen ist das Gegenteil eines Beweises. Ein Abendessen ist Vertrauen. Man könnte sagen: die älteste Form von Diplomatie.
+> 저녁 식사는 증거의 정반대죠. 저녁 식사는 신뢰예요. 이렇게 말할 수 있겠죠. 가장 오래된 형태의 외교라고.
+JAN: Man könnte auch sagen: die älteste Form der Bestechung.
+> 이렇게도 말할 수 있죠. 가장 오래된 형태의 매수라고.
+THAL: Ha. Man könnte. Aber Sie haben noch nicht gegessen. Warten Sie mit dem Urteil bis zum Dessert.
+> 하. 그럴 수도 있겠죠. 근데 아직 안 드셨잖아요. 판단은 디저트까지 미뤄 두시죠.
+JAN: Wer sitzt noch am Tisch?
+> 식탁엔 또 누가 앉아요?
+THAL: Menschen, die Sie kennen. Und die Sie noch nicht kennen. Alle haben eines gemeinsam: Sie haben in den letzten zwei Jahren durch Ihre Arbeit etwas verloren. Nicht viel. Aber etwas. Ich fand, es wäre höflich, Sie einander vorzustellen.
+> 당신이 아는 사람들. 그리고 아직 모르는 사람들. 다들 공통점이 하나 있어요. 지난 2년간 당신 일 때문에 뭔가를 잃었다는 것. 많진 않지만. 뭔가를. 서로 소개하는 게 예의겠다 싶었죠.
+
+# 장면 2 — DIE TISCHORDNUNG
+BUTLER: Meine Damen und Herren, es ist angerichtet.
+> 신사 숙녀 여러분, 식사가 준비됐습니다.
+THAL: Herr Kowalczyk, Sie sitzen zu meiner Rechten. Gegenüber von Frau Dr. Albers. Neben Dr. Haase. Ich glaube, Sie kennen sich.
+> 코발치크 씨, 제 오른편에 앉으세요. 알버스 박사 맞은편. 하제 박사 옆. 서로 아시죠.
+HAASE: Herr Kowalczyk. Wir haben telefoniert. Ich habe Ihnen geraten, schief zu sitzen.
+> 코발치크 씨. 통화했었죠. 비스듬히 앉으라고 권했었고.
+JAN: Und ich habe Ihnen gesagt, dass ich nie mit Herrn Brandes gesprochen habe. Beides war wahr.
+> 그리고 전 브란데스 씨와 얘기한 적 없다고 했죠. 둘 다 사실이었어요.
+ALBERS: Henrike Albers. Ich verwalte Wohnimmobilienfonds. Unter anderem einen, der Nordlicht hieß. Bevor Ihr Artikel uns gezwungen hat, ihn umzubenennen.
+> 헨리케 알버스예요. 주거용 부동산 펀드를 운용해요. 그중 하나가 노르트리히트였죠. 당신 기사 때문에 이름을 바꿔야 하기 전엔.
+JAN: Gerichtstraße einundsechzig. Gisela Hoffmann. Sie wohnt noch dort.
+> 게리히트슈트라세 61. 기젤라 호프만. 아직 거기 사세요.
+ALBERS: Ich weiß. Die Wohnung ist inzwischen verkauft. An eine Genossenschaft. Zu einem Preis, der uns zwei Millionen gekostet hat. Ich hoffe, Frau Hoffmann ist glücklich.
+> 알아요. 그 집은 그사이 팔렸어요. 조합에. 우리한테 2백만이 든 가격으로. 호프만 씨가 행복하시길 바라요.
+JAN: Sie ist neunundsiebzig und trinkt Kamillentee. Ja. Sie ist glücklich.
+> 일흔아홉에 캐모마일 차를 드세요. 네. 행복하세요.
+ZELLER: Konrad Zeller. Zeitenwende Ventures. Wir haben uns nie getroffen. Aber Sie haben unsere Pressemitteilung im Archiv gefunden. Respekt. Das hat nicht einmal die Staatsanwaltschaft geschafft.
+> 콘라트 첼러. 차이텐벤데 벤처스. 만난 적은 없죠. 근데 우리 보도 자료를 아카이브에서 찾아내셨더군요. 존경해요. 검찰도 못 한 일이에요.
+JAN: Die Staatsanwaltschaft hat nicht gesucht. Wir schon.
+> 검찰은 안 찾았죠. 우린 찾았고요.
+VOLLMER: Und ich bin Hendrik Vollmer. Landesschatzmeister. Welcher Partei, ist heute Abend unwichtig. Ich bin hier als Freund des Hauses. Und als jemand, der Ihre Artikel mit großem Interesse liest. Besonders die über Spenden.
+> 그리고 전 헨드릭 폴머예요. 주 재무 담당. 어느 정당인지는 오늘 저녁엔 중요하지 않아요. 이 집의 친구로 왔어요. 그리고 당신 기사를 아주 흥미롭게 읽는 사람으로서. 특히 후원금에 관한 것들.
+JAN: Ich habe nie über Spenden geschrieben.
+> 후원금에 대해 쓴 적 없는데요.
+VOLLMER: Noch nicht. Man könnte sagen: Ich lese vorausschauend.
+> 아직은요. 이렇게 말할 수 있겠죠. 전 앞을 내다보며 읽는다고.
+
+# 장면 3 — DIE VORSPEISE
+THAL: Ein Toast. Auf die Pressefreiheit. Ohne sie säßen wir heute Abend nicht zusammen.
+> 건배. 언론의 자유를 위하여. 그게 없었다면 우린 오늘 저녁 같이 앉아 있지 않았겠죠.
+ALBERS: Auf die Pressefreiheit. Und auf ihre Grenzen.
+> 언론의 자유를 위하여. 그리고 그 한계를 위하여.
+HAASE: Herr Kowalczyk, eine Frage, ganz ohne Hintergedanken. Wie geht es Ihrer Kollegin? Frau Aydın. Ich habe gehört, sie war erschöpft. Nach der Pflegerecherche.
+> 코발치크 씨, 아무 의도 없는 질문 하나. 동료분은 어떠세요? 아이든 씨. 지쳤다고 들었어요. 돌봄 취재 뒤에.
+JAN: Sie ist wieder gesund. Und sie schreibt. Danke.
+> 다시 건강해요. 그리고 쓰고 있어요. 고마워요.
+HAASE: Das freut mich. Wirklich. Es wäre ja tragisch, wenn eine so begabte junge Frau ihren Beruf aufgeben müsste. Wegen einer einzigen Geschichte.
+> 다행이네요. 진심으로. 그렇게 재능 있는 젊은 여성이 이야기 하나 때문에 직업을 그만둬야 한다면 비극이겠죠.
+JAN: Sie gibt nicht auf.
+> 그만두지 않아요.
+ZELLER: Niemand gibt auf. Bis er es tut. Das habe ich in der Rüstungsbranche gelernt. Die Entschlossensten sind oft die Ersten, die verkaufen. Wenn das Angebot stimmt.
+> 아무도 그만두지 않죠. 그만둘 때까지는. 방산 업계에서 배운 거예요. 가장 단호한 사람들이 종종 제일 먼저 팔아요. 제안이 맞으면.
+VOLLMER: Konrad, das klingt, als würden wir Herrn Kowalczyk ein Angebot machen.
+> 콘라트, 그건 우리가 코발치크 씨한테 제안이라도 하는 것처럼 들리는데.
+ZELLER: Würden wir das? Ich weiß nicht. Man könnte es so verstehen.
+> 우리가 그럴까요? 모르겠네요. 그렇게 이해할 수도 있겠죠.
+JAN: Man könnte vieles so verstehen, Herr Zeller. Heute Abend wird viel im Konjunktiv gesprochen.
+> 많은 걸 그렇게 이해할 수 있죠, 첼러 씨. 오늘 저녁엔 접속법이 많이 쓰이네요.
+THAL: Der Konjunktiv ist die Sprache der Höflichkeit, Herr Kowalczyk. Und der Vorsicht. Man sagt, was man meinen könnte. Damit niemand sagen kann, man hätte es gemeint.
+> 접속법은 공손함의 언어예요, 코발치크 씨. 그리고 신중함의. 의미할 수 있는 걸 말하는 거죠. 아무도 그렇게 의미했다고 말할 수 없게.
+
+# 장면 3-2 — ZWISCHEN DEN GÄNGEN
+VOLLMER: Konrad, wie laufen die Gespräche im Roten Rathaus? Man hört, die Koalitionsrunde hängt am Haushalt.
+> 콘라트, 시청 쪽 협상은 어때? 연정 협상이 예산에서 막혔다던데.
+ZELLER: Am Haushalt hängt immer alles. Die Frage ist nur, welche Zeile man wann ändert. Und wer die Feder hält.
+> 예산에선 늘 다 막히지. 문제는 어느 줄을 언제 바꾸느냐야. 그리고 누가 펜을 쥐느냐.
+ALBERS: Die Feder hält diesmal ein junger Mann aus der Verhandlungsgruppe. Sehr fleißig. Sehr dankbar.
+> 이번엔 협상단의 젊은 남자가 펜을 쥐고 있어. 아주 부지런하고. 아주 고마워할 줄 알고.
+THAL: Henrike. Wir haben einen Gast.
+> 헨리케. 손님 계셔.
+ALBERS: Herr Kowalczyk ist heute Abend kein Journalist. Oder, Herr Kowalczyk? Ein Abendessen ist ein Abendessen.
+> 코발치크 씨는 오늘 저녁 기자가 아니잖아요. 그렇죠, 코발치크 씨? 저녁 식사는 저녁 식사니까.
+JAN: Ein Abendessen ist ein Abendessen. Und ein Gedächtnis ist ein Gedächtnis.
+> 저녁 식사는 저녁 식사죠. 그리고 기억은 기억이고요.
+ALBERS: Ha. Dann reden wir über das Wetter. Es soll schneien. Auf dem Tempelhofer Feld. Zum ersten Mal seit Jahren.
+> 하. 그럼 날씨 얘기나 하죠. 눈이 온대요. 템펠호프 들판에. 몇 년 만에 처음으로.
+JAN: Das Tempelhofer Feld. Das gehört nach dem Volksentscheid doch allen.
+> 템펠호프 들판. 주민투표 뒤엔 모두의 것 아닌가요.
+VOLLMER: Volksentscheide gelten für Gesetze. Gesetze kann man ändern. Mit einer Mehrheit. In einem Haushaltsbegleitgesetz, zum Beispiel. Das liest niemand.
+> 주민투표는 법률에 적용되죠. 법률은 바꿀 수 있어요. 과반으로. 예를 들면 예산 부속법 안에서. 그건 아무도 안 읽죠.
+THAL: Hendrik. Das Wetter.
+> 헨드릭. 날씨.
+VOLLMER: Natürlich. Schnee auf dem Feld. Wie schön.
+> 물론이죠. 들판에 눈. 아름답네요.
+JAN: … Wie schön.
+> … 아름답네요.
+
+# 장면 4 — DER HAUPTGANG: DIE PRÜFUNG
+ALBERS: Herr Kowalczyk. Ehrlich. Was würde passieren, wenn Sie morgen nicht mehr bei Spreewerk wären?
+> 코발치크 씨. 솔직히. 내일 당신이 더는 Spreewerk에 없다면 무슨 일이 일어날까요?
+JAN: Dann würde Spreewerk weitermachen. Mit Helene Brandt. Mit Mira Aydın. Mit Leon Fischer.
+> 그럼 Spreewerk는 계속하겠죠. 헬레네 브란트와. 미라 아이든과. 레온 피셔와.
+ALBERS: Aber nicht mit Ihnen. Und Sie? Was würden Sie tun?
+> 근데 당신 없이. 그럼 당신은요? 뭘 하시겠어요?
+JAN: Ich weiß es nicht. Ich habe nie etwas anderes gemacht. Ich habe keine Ersparnisse. Ich habe eine Wohnung, deren Tür man aufgebrochen hat. Und einen Personenschutz, der mir sagt, wo ich schlafen darf.
+> 모르겠어요. 다른 걸 해 본 적이 없어요. 저축도 없고요. 누가 문을 따고 들어간 집 하나. 그리고 어디서 자도 되는지 말해 주는 신변 보호.
+SANDMANN: Stufe zwei, wenn ich richtig informiert bin. Seit Dienstag.
+> 내가 제대로 들었다면 2단계죠. 화요일부터.
+JAN: Sie sind gut informiert, Herr Sandmann.
+> 정보가 좋으시네요, 잔트만 씨.
+SANDMANN: Das ist mein Beruf. Sicherheit beginnt mit Information.
+> 그게 내 직업이니까요. 보안은 정보에서 시작하죠.
+THAL: Gregor. Wir sind beim Essen.
+> 그레고어. 식사 중이야.
+VOLLMER: Darf ich eine direkte Frage stellen, Herr Kowalczyk? Wenn Sie eine Quelle hätten — sagen wir, jemanden in einer Behörde —, würden Sie uns sagen, wer es ist? Hypothetisch.
+> 직접적인 질문 하나 해도 될까요, 코발치크 씨? 취재원이 있다면 — 예컨대 어느 관청의 누군가 —, 그게 누군지 우리한테 말씀하시겠어요? 가정이지만.
+JAN: Nein.
+> 아니요.
+VOLLMER: Auch nicht hypothetisch?
+> 가정으로도요?
+JAN: Auch nicht hypothetisch. Auch nicht im Konjunktiv. Auch nicht nach dem Dessert.
+> 가정으로도요. 접속법으로도요. 디저트 뒤에도요.
+THAL: … Sehen Sie, Hendrik? Das meinte ich.
+> … 봤지, 헨드릭? 내가 말한 게 그거야.
+VOLLMER: Was?
+> 뭐가?
+THAL: Ein Mann, der seine Quellen nicht verrät, verrät auch uns nicht. Das ist mehr wert als jede Quelle.
+> 자기 취재원을 배신하지 않는 남자는 우리도 배신하지 않아. 그게 어떤 취재원보다 값지지.
+
+# 장면 4-2 — HAASE, LEISE
+HAASE: Herr Kowalczyk. Darf ich etwas sagen, das nicht im Konjunktiv ist?
+> 코발치크 씨. 접속법 아닌 말 하나 해도 될까요?
+JAN: Bitte.
+> 하세요.
+HAASE: Meine Mutter hatte Demenz. Das war keine Werbegeschichte. Das war wahr. Und ich habe Pflege Plus gegründet, weil ich glaubte, es besser zu machen.
+> 어머니가 치매셨어요. 그건 광고 얘기가 아니었어요. 사실이었죠. 그리고 더 잘할 수 있다고 믿어서 Pflege Plus를 세웠어요.
+JAN: Und dann?
+> 그다음엔요?
+HAASE: Dann kamen Investoren. Und Berater. Und ein Mann, der sagte: «Clemens, Wachstum braucht Struktur.» Die Struktur war eine Software. Die grauen Listen. Ich habe nie gefragt, woher sie kam.
+> 그다음 투자자들이 왔어요. 그리고 자문가들. 그리고 한 남자가 그랬죠. «클레멘스, 성장엔 구조가 필요해.» 그 구조가 소프트웨어였어요. 회색 목록. 그게 어디서 왔는지 한 번도 안 물었어요.
+JAN: Wer war der Mann?
+> 그 남자가 누구였어요?
+HAASE: Sie sitzen neben ihm.
+> 그 사람 옆에 앉아 계시잖아요.
+JAN: … Thal.
+> … 탈.
+HAASE: Ich habe nichts gesagt. Ich habe nur erzählt, wie meine Mutter gestorben ist. Und dass ich mich manchmal frage, ob sie heute auf einer grauen Liste stünde.
+> 전 아무 말도 안 했어요. 어머니가 어떻게 돌아가셨는지 말했을 뿐이에요. 그리고 가끔 어머니가 오늘날이면 회색 목록에 올라 있을까 자문한다는 것.
+JAN: Herr Haase, warum sagen Sie mir das?
+> 하제 씨, 왜 저한테 그 말을 하세요?
+HAASE: Weil ich nicht mehr im Ausschuss sitze. Und weil ich hier sitze, obwohl ich nicht mehr will. Man verlässt diesen Tisch nicht. Man wird verlassen.
+> 더는 위원회에 앉아 있지 않으니까요. 그리고 더는 원하지 않는데도 여기 앉아 있으니까요. 이 식탁은 떠나는 게 아니에요. 버려지는 거죠.
+
+# 장면 5 — DAS EMBLEM
+JAN: Darf ich fragen, was das für ein Zeichen ist? Auf den Servietten. Ein Kreis. Und darin Bäume.
+> 이게 무슨 표식인지 여쭤봐도 될까요? 냅킨에 있는 거. 원 하나. 그리고 그 안에 나무들.
+THAL: Ein altes Familienwappen. Von dem Mann, der dieses Haus gebaut hat. Neunzehnhundertzwölf. Ein Bankier. Er hat jeden Freitag hier Freunde zum Essen eingeladen. Man nannte es «den Kreis».
+> 오래된 가문 문장이에요. 이 집을 지은 사람의. 1912년. 은행가였죠. 매주 금요일 여기 친구들을 식사에 초대했어요. 사람들은 그걸 «서클»이라고 불렀고요.
+JAN: Den Grunewalder Kreis.
+> 그루네발트 서클.
+THAL: Man hat ihn damals so genannt. Ich habe die Tradition nur fortgeführt. Freitags. Mit Freunden. Ist das verboten?
+> 당시엔 그렇게 불렀죠. 전 전통을 이어 갔을 뿐이에요. 금요일마다. 친구들과. 그게 금지인가요?
+JAN: Nein. Aber in Teil vier hat jemand über einen «Gärtner» gesprochen. Mit einem Kreis und Bäumen als Zeichen.
+> 아니요. 근데 4부에서 누가 «정원사»에 대해 말했어요. 원과 나무가 표식인.
+SANDMANN: Teil vier. Patrick Wendt. Ein unzuverlässiger Zeuge, Herr Kowalczyk. Spielschulden.
+> 4부. 파트리크 벤트. 믿을 수 없는 증인이죠, 코발치크 씨. 도박 빚.
+JAN: Woher wissen Sie, wer in Teil vier über den Gärtner gesprochen hat? Das stand in keinem Artikel.
+> 4부에서 누가 정원사에 대해 말했는지 어떻게 아세요? 어느 기사에도 없었는데.
+SANDMANN: …
+> …
+THAL: Gregor liest Akten. Das ist sein Beruf. Und jetzt: das Dessert. Crème brûlée. Man muss die Kruste brechen, um an das Weiche zu kommen.
+> 그레고어는 기록을 읽어요. 그게 그의 직업이죠. 그리고 이제: 디저트. 크렘 브륄레. 부드러운 데 닿으려면 껍질을 깨야 해요.
+
+# 장면 5-2 — IM FLUR, MIT SANDMANN
+SANDMANN: Herr Kowalczyk. Die Toilette ist dort. Ich begleite Sie. Hausregel.
+> 코발치크 씨. 화장실은 저쪽이에요. 같이 가죠. 집안 규칙.
+JAN: Gibt es in diesem Haus eine Regel, die nicht von Ihnen ist?
+> 이 집엔 당신이 만들지 않은 규칙도 있어요?
+SANDMANN: Die Weinkarte. Die ist von Dr. Thal.
+> 와인 목록. 그건 탈 박사님 거예요.
+JAN: Sie haben Patrick Wendt geschickt. In Teil zwei. Und Sie haben die Wanzen bestellt.
+> 당신이 파트리크 벤트를 보냈죠. 2부에서. 그리고 도청기도 주문했고.
+SANDMANN: Das behauptet eine Anklageschrift. Behauptungen sind billig, Herr Kowalczyk. Sie haben sechs Teile lang davon gelebt.
+> 그건 기소장이 주장하는 거죠. 주장은 싸요, 코발치크 씨. 당신은 여섯 부 동안 그걸로 먹고살았고.
+JAN: Ich habe von Belegen gelebt.
+> 전 증거로 먹고살았어요.
+SANDMANN: Dann haben Sie sicher auch Belege dafür, was zwanzigsechzehn auf einer Baustelle passiert ist. Bei einem Polen. Marek, nicht wahr?
+> 그럼 2016년 공사장에서 일어난 일에 대한 증거도 분명 있으시겠네요. 폴란드 사람한테. 마렉이었죠?
+JAN: … Woher kennen Sie Mareks Namen?
+> … 마렉 이름을 어떻게 아세요?
+SANDMANN: Es stand in Ihrer Zeitung. Damals. In Ihrem Artikel. Sie haben ihn verraten, Herr Kowalczyk. Nicht ich.
+> 당신 신문에 있었죠. 그때. 당신 기사에. 당신이 그를 노출시켰어요, 코발치크 씨. 내가 아니라.
+JAN: Mein Artikel hat seinen Namen nie genannt. Nie.
+> 내 기사는 그의 이름을 한 번도 밝히지 않았어요. 한 번도.
+SANDMANN: … Dann habe ich mich wohl geirrt. Man verwechselt so viel. Die Toilette, Herr Kowalczyk. Ich warte hier.
+> … 그럼 내가 착각했나 보네요. 이것저것 헷갈리죠. 화장실이요, 코발치크 씨. 여기서 기다릴게요.
+JAN: … Nicht zittern. Nicht jetzt. Wasser ins Gesicht. Und merken. Jedes Wort. «Sie haben ihn verraten. Nicht ich.»
+> … 떨지 마. 지금은 말고. 얼굴에 물. 그리고 기억해. 한 마디도 빠짐없이. «당신이 그를 노출시켰어요. 내가 아니라.»
+JAN: … Er hat «nicht ich» gesagt. Niemand hat ihn gefragt. Und er hat «nicht ich» gesagt.
+> … 그가 «내가 아니라»라고 했어. 아무도 그에게 묻지 않았는데. 그런데 «내가 아니라»라고 했어.
+
+# 장면 6 — DIE TERRASSE
+THAL: Kommen Sie, Herr Kowalczyk. Frische Luft. Nur wir beide. Gregor bleibt drinnen.
+> 가시죠, 코발치크 씨. 바깥 공기. 우리 둘만. 그레고어는 안에 있어요.
+JAN: Ein schöner See.
+> 아름다운 호수네요.
+THAL: Hubertussee. Im Winter friert er zu. Dann gehen die Kinder aus Grunewald darauf Schlittschuh laufen. Die Kinder aus Marzahn nicht. Die wissen nicht einmal, dass es ihn gibt.
+> 후베르투스 호수. 겨울엔 얼어요. 그럼 그루네발트 아이들이 그 위에서 스케이트를 타죠. 마르찬 아이들은 아니고. 이 호수가 있는지도 모르죠.
+JAN: Kevin weiß es jetzt.
+> 케빈은 이제 알아요.
+THAL: Kevin. Ja. Ich habe Ihren Artikel gelesen. Sehr bewegend. Und sehr gefährlich für Leute wie mich. Nicht, weil er falsch ist. Sondern weil er richtig ist. Und weil er Menschen dazu bringt, Fragen zu stellen.
+> 케빈. 네. 기사 읽었어요. 아주 감동적이었죠. 그리고 저 같은 사람들한텐 아주 위험했고요. 틀려서가 아니라. 맞아서. 그리고 사람들이 질문하게 만들어서.
+JAN: Und was wollen Sie von mir, Herr Dr. Thal?
+> 그래서 저한테 원하시는 게 뭔가요, 탈 박사님?
+THAL: Ich möchte, dass Sie aufhören, Fragen zu stellen. Und anfangen, Antworten zu geben. Uns. Als Berater. Krisenkommunikation. Sie wissen besser als jeder andere, wie Journalisten denken. Wo sie suchen. Was sie finden werden.
+> 질문을 멈추셨으면 해요. 그리고 답을 주기 시작하셨으면. 우리에게. 자문역으로. 위기 커뮤니케이션. 당신은 누구보다 기자들이 어떻게 생각하는지 잘 아시잖아요. 어디를 찾을지. 뭘 찾아낼지.
+JAN: Sie wollen, dass ich Ihnen sage, wo die nächsten Löcher sind.
+> 다음 구멍이 어디 있는지 말해 달라는 거네요.
+THAL: Ich möchte, dass Sie uns helfen, keine Löcher mehr zu haben. Das ist ein Unterschied. Man könnte sagen: Prävention.
+> 더는 구멍이 없게 도와 달라는 거예요. 그건 달라요. 이렇게 말할 수 있겠죠. 예방이라고.
+JAN: Und warum sollte ich das tun?
+> 그리고 제가 왜 그래야 하죠?
+THAL: Weil Sie müde sind. Weil Sie Angst haben. Weil Ihnen jemand die Tür aufgebrochen hat und Ihre Zeitung Ihnen nur eine Thermoskanne Soljanka schicken konnte. Ich biete Ihnen ein Gehalt, eine Wohnung mit einer Tür, die niemand aufbricht. Und Ruhe.
+> 지치셨으니까. 무서우시니까. 누가 당신 문을 따고 들어갔는데 당신 신문은 보온병에 솔랸카나 보낼 수 있었으니까. 전 월급을 제안해요. 아무도 따고 들어오지 못하는 문이 달린 집. 그리고 평온.
+JAN: … Woher wissen Sie von der Soljanka?
+> … 솔랸카는 어떻게 아세요?
+THAL: Ich weiß vieles, Herr Kowalczyk. Das ist mein Beruf.
+> 많은 걸 알아요, 코발치크 씨. 그게 제 직업이죠.
+
+# 장면 7 — DIE ANTWORT
+JAN: Ich brauche Zeit.
+> 시간이 필요해요.
+THAL: Bis morgen früh. Danach ist das Angebot nicht mehr da. Ich mache Angebote nur einmal. Wie Sie Ihre Fragen nur einmal stellen.
+> 내일 아침까지. 그 뒤엔 제안이 없어요. 전 제안을 한 번만 해요. 당신이 질문을 한 번만 하듯이.
+JAN: Und wenn ich ja sage — was dann?
+> 그리고 제가 좋다고 하면 — 그다음엔요?
+THAL: Dann kündigen Sie bei Spreewerk. Öffentlich. Mit einem Text, der überzeugt. Ich bin sicher, Sie schreiben gute Texte. Und dann beginnen Sie am Montag. Hier. Freitags beim Essen. Und unter der Woche in meinem Büro in Mitte.
+> 그럼 Spreewerk에 사직하는 거죠. 공개적으로. 설득력 있는 글로. 좋은 글을 쓰실 거라 확신해요. 그리고 월요일에 시작하는 거예요. 여기서. 금요일마다 식사 때. 그리고 주중엔 미테의 제 사무실에서.
+JAN: Und Sandmann?
+> 그럼 잔트만은요?
+THAL: Gregor wird Ihr Telefon prüfen. Ihr Leben. Ihre Kontakte. Das ist seine Aufgabe. Nehmen Sie es nicht persönlich. Er prüft auch meines.
+> 그레고어가 당신 휴대폰을 점검할 거예요. 당신 삶을. 연락처를. 그게 그의 일이죠. 개인적으로 받아들이지 마세요. 그는 제 것도 점검해요.
+JAN: Und wenn er etwas findet, was ihm nicht gefällt?
+> 그리고 그가 마음에 안 드는 걸 찾으면요?
+THAL: Dann würden wir darüber reden. Im Konjunktiv. Wie heute Abend.
+> 그럼 얘기해 보겠죠. 접속법으로. 오늘 저녁처럼.
+BUTLER: Herr Kowalczyk. Ihr Mantel. Und Ihr Telefon.
+> 코발치크 씨. 코트요. 그리고 휴대폰.
+JAN: Danke. … Mein Telefon ist warm. Als hätte es jemand lange in der Hand gehalten.
+> 고마워요. … 휴대폰이 따뜻하네요. 누가 오래 손에 쥐고 있었던 것처럼.
+BUTLER: Es lag neben der Heizung, Herr Kowalczyk. Gute Nacht.
+> 난방기 옆에 있었습니다, 코발치크 씨. 안녕히 가십시오.
+
+# 엔딩 — DER SATZ AM TOR
+THAL: Herr Kowalczyk. Noch eines. Am Tor.
+> 코발치크 씨. 하나 더. 대문에서.
+JAN: Ja?
+> 네?
+THAL: Sie waren an jedem Tisch, an dem wir verloren haben. In Wedding, in Adlershof, in Friedrichshain, in Spandau, im Bundestag. Sechs Mal. Jedes Mal ein kleiner Verlust für uns. Und jedes Mal ein großer Sieg für Sie, der Sie nichts gekostet hat außer Ihrer Ruhe.
+> 당신은 우리가 졌던 모든 식탁에 있었어요. 베딩에서, 아들러스호프에서, 프리드리히스하인에서, 슈판다우에서, 연방의회에서. 여섯 번. 매번 우리에겐 작은 손실. 그리고 매번 당신에겐 평온 말고는 아무 비용도 안 든 큰 승리.
+JAN: Ruhe ist nicht nichts.
+> 평온은 아무것도 아닌 게 아니에요.
+THAL: Nein. Deshalb biete ich sie Ihnen an. Sie waren an jedem Tisch, an dem wir verloren haben. Jetzt setzen Sie sich an den, an dem wir gewinnen.
+> 아니죠. 그래서 그걸 제안하는 거예요. 당신은 우리가 졌던 모든 식탁에 있었어요. 이제 우리가 이기는 식탁에 앉아 보세요.
+JAN: … Gute Nacht, Herr Dr. Thal.
+> … 안녕히 주무세요, 탈 박사님.
+THAL: Gute Nacht. Und sitzen Sie heute Nacht, wie Sie wollen. Morgen sitzen Sie hier.
+> 안녕히 주무세요. 그리고 오늘 밤은 원하시는 대로 앉으세요. 내일은 여기 앉으실 테니.
+
+# 에필로그 — NACHT, IM TAXI
+JAN: … Leopoldplatz, bitte. Nein. Warten Sie. Fahren Sie einfach. Irgendwohin. Ich muss nachdenken.
+> … 레오폴트 광장 부탁해요. 아니. 잠깐만요. 그냥 가 주세요. 아무 데나. 생각 좀 해야 해서.
+JAN: … Er kennt die Soljanka. Die Thermoskanne. Das wussten Helene, Katrin, Okafor. Und wer noch? Wem hat Helene es erzählt? Samstags beim Frühstück?
+> … 그는 솔랸카를 알아. 보온병. 그건 헬레네, 카트린, 오카포르가 알았어. 그리고 또 누가? 헬레네가 누구한테 얘기했지? 토요일 아침 식사 때?
+JAN: … Und Soljanka ist unser Notfallwort. Wenn er das Wort kennt, ist es kein Notfallwort mehr. Es ist eine Falle.
+> … 그리고 솔랸카는 우리 비상 암호야. 그가 그 단어를 안다면 그건 더는 비상 암호가 아니야. 덫이지.
+DANA: «Kowalczyk. Ich bin wach. Schreib.»
+> «코발치크. 깨어 있어. 써.»
+JAN: «Ich bin noch da. Neues Wort nötig. Das alte kennt der Gastgeber.»
+> «아직 여기 있음. 새 단어 필요. 옛 단어는 집주인이 앎.»
+DANA: «Verstanden. Neues Wort kommt Sonntag. Unter der Bank.»
+> «알았어. 새 단어는 일요일. 벤치 밑으로.»
+HELENE: Jan? Es ist zwei Uhr. Ich habe gewartet.
+> 얀? 새벽 2시야. 기다렸어.
+JAN: «Ich bin noch Journalist.» Und Helene — er hat mir angeboten, was ich wollte. Ein Gehalt. Eine Tür. Ruhe. Und für einen Moment, auf der Terrasse, am See, wollte ich es wirklich.
+> «난 아직 기자다.» 그리고 헬레네 — 그가 내가 원하던 걸 제안했어. 월급. 문. 평온. 그리고 잠깐, 테라스에서, 호숫가에서, 정말 그걸 원했어.
+HELENE: Und jetzt?
+> 그리고 지금은?
+JAN: Jetzt schreibe ich dir meine Kündigung. Schriftlich. So, dass sie echt klingt. Und dann schreibe ich den Post für morgen früh.
+> 지금은 너한테 사직서를 써. 서면으로. 진짜처럼 들리게. 그다음 내일 아침 올릴 글을 쓰고.
+HELENE: … Schreib sie. Ich lese sie. Und ich werde so tun, als würde ich weinen. Das wird nicht schwer.
+> … 써. 읽을게. 그리고 우는 척할게. 어렵지 않을 거야.
+JAN: Helene. Erzähl niemandem von der Soljanka. Nie wieder. Niemandem.
+> 헬레네. 솔랸카 얘긴 아무한테도 하지 마. 다시는. 아무한테도.
+HELENE: … Ich habe es nur einem Menschen erzählt. Am Samstag. Beim Frühstück.
+> … 딱 한 사람한테만 얘기했어. 토요일에. 아침 먹으면서.
+JAN: … Dann ist das die erste Seite in meinem neuen Notizbuch. Ohne Namen. Nur ein Datum. Samstag. Frühstück.
+> … 그럼 그게 내 새 수첩의 첫 쪽이야. 이름 없이. 날짜만. 토요일. 아침 식사.
