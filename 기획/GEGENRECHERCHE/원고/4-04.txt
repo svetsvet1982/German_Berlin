@@ -1,0 +1,338 @@
+@part 4
+@ep 4
+@title Volksentscheid Tempelhof
+@sub 템펠호프 주민투표 · 찬반 양쪽에 같은 손이 뿌리는 증오
+@info 대사 150턴 · 난이도 B2 · 배경: 2028년 봄, Spreewerk 편집국과 템펠호프 들판
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자, 디스인포 전문
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast LEON | 레온 피셔 (24) · 수습기자 (슈바벤 사투리)
+@cast GISELA | 기젤라 (71) · 1부의 세입자, 템펠호프 인근 거주
+@cast BORIS | 보리스 (29) · 개발 찬성 시민단체 활동가
+@cast NELE | 넬레 (26) · 개발 반대 시민단체 활동가
+@note ※ 템펠호프 들판(2014 주민투표로 개발 부결된 실제 장소)을 가상의 2027~28 재투표로 설정. 양극화·봇·네트워크 분석·증오(Hetze)를 다룹니다. 찬반 어느 쪽도 악이 아니라 '진심인 시민'이며, 진짜 악은 양쪽을 조종해 분열 자체로 이득 보는 세력임을 보여 줍니다. 등장 인물은 가상.
+@note ※ 표현 초점: der Volksentscheid · die Polarisierung · der Bot · die Netzwerkanalyse · die Hetze · das Freivs gegeneinander ausspielen
+@next 4부 5화 «Hype & Hafen» — HH 에이전시의 실체. 전직 직원 레아가 익명으로 인터뷰한다.
+
+# 콜드 오픈 — ZWEI LAGER
+MIRA: Jan, schau dir das an. Der Volksentscheid über Tempelhof ist in drei Wochen. Und die sozialen Netzwerke kochen. Beide Seiten.
+> 얀, 이것 좀 봐요. 템펠호프 주민투표가 3주 남았어요. 그리고 소셜 미디어가 끓어요. 양쪽 다.
+JAN: Tempelhof. Das Feld aus Teil eins. Damals ging es um Wohnungen am Rand. Jetzt wird neu abgestimmt. Worüber genau?
+> 템펠호프. 1부의 그 들판. 그땐 가장자리 주택 얘기였지. 이제 다시 투표하네. 정확히 뭘 두고?
+MIRA: Ob am Rand des Feldes gebaut werden darf. Wohnungen, Schulen, ein Park in der Mitte. Vernünftige Leute streiten vernünftig darüber. Eigentlich.
+> 들판 가장자리에 건축을 허용할지요. 주택, 학교, 가운데 공원. 분별 있는 사람들이 분별 있게 다투죠. 원래는요.
+JAN: «Eigentlich.» Das Wort gefällt mir nicht. Was ist nicht mehr vernünftig?
+> «원래는.» 그 단어가 마음에 안 드네. 뭐가 더는 분별 있지 않아?
+MIRA: Der Ton. Schau die Kommentare. «Betonmafia zerstört unsere Heimat.» Gegen: «Wohnungsverhinderer lassen junge Familien im Stich.» Keiner redet mehr über Sachen. Nur noch über Feinde.
+> 어조요. 댓글을 봐요. «콘크리트 마피아가 우리 고향을 파괴한다.» 반대로 «주택 방해꾼들이 젊은 가정을 저버린다.» 아무도 사안을 얘기 안 해요. 적만 얘기하죠.
+SWETA: Das ist kein normaler Streit mehr. Normaler Streit sucht eine Lösung. Das hier sucht einen Feind. Und Feindsuche hat immer jemanden, der sie organisiert.
+> 이건 더는 평범한 다툼이 아니에요. 평범한 다툼은 해법을 찾아요. 이건 적을 찾죠. 그리고 적 찾기는 늘 그걸 조직하는 누군가가 있어요.
+JAN: Du denkst, jemand heizt beide Seiten an. Nicht für eine Seite. Sondern für den Streit selbst.
+> 누가 양쪽을 다 부추긴다고 생각하는구나. 한쪽을 위해서가 아니라. 다툼 자체를 위해서.
+SWETA: Genau das denke ich. Und wenn ich recht habe, dann ist das kein Zufall drei Wochen vor der Abstimmung. Und drei Wochen nach dem Doppelgänger gegen uns.
+> 바로 그렇게 생각해요. 그리고 제가 맞으면, 투표 3주 전이 우연이 아니에요. 그리고 우리에 대한 도플갱어 3주 뒤도요.
+JAN: Dann ist Tempelhof vielleicht nicht nur ein zweiter Fall. Vielleicht ist es derselbe Fall. Mira, zeig mir die Netzwerke. Beide Lager, nebeneinander.
+> 그럼 템펠호프는 두 번째 사건이 아닐지도 몰라. 어쩌면 같은 사건이지. 미라, 네트워크를 보여 줘. 양쪽 진영, 나란히.
+LEON: Und wenn es nur ein normaler, heftiger Streit ist? Tempelhof erhitzt die Leute seit Jahren. Vielleicht ist es diesmal einfach besonders emotional.
+> 그냥 평범하고 격한 다툼이면요? 템펠호프는 몇 년째 사람들을 달아오르게 해요. 어쩌면 이번엔 그냥 유난히 감정적인 걸 수도요.
+JAN: Das ist die Gegenprobe, die wir immer machen müssen, Leon. Bevor wir eine Verschwörung sehen, fragen wir: Reicht eine einfache Erklärung? Oft reicht sie.
+> 그게 우리가 늘 해야 하는 반대 검증이야, 레온. 음모를 보기 전에 물어. 단순한 설명으로 충분한가? 흔히 충분해.
+MIRA: Deshalb teste ich genau das. Wenn es echter Bürgerstreit ist, sieht das Netzwerk anders aus als bei einer Kampagne. Echte Empörung ist chaotisch. Kampagnen sind ordentlich.
+> 그래서 바로 그걸 검사해요. 진짜 시민 다툼이면 네트워크가 캠페인과 다르게 보여요. 진짜 분노는 혼란스러워요. 캠페인은 정돈돼 있고요.
+JAN: Ordentlich. Wie meinst du das?
+> 정돈돼 있다니. 무슨 뜻이야?
+MIRA: Echte Wut hat keine Bürozeiten. Sie kommt abends, wenn Leute vom Arbeiten müde und gereizt sind. Eine Kampagne kommt um neun, macht Mittagspause und hört um fünf auf.
+> 진짜 분노는 근무 시간이 없어요. 저녁에 와요, 사람들이 일에 지치고 짜증 날 때. 캠페인은 9시에 와서 점심 쉬고 5시에 끝나죠.
+JAN: Dann zeig mir die Uhrzeiten. Wenn Tempelhofs Wut Mittagspause macht, ist es keine Wut. Dann ist es ein Beruf.
+> 그럼 시간대를 보여 줘. 템펠호프의 분노가 점심을 쉬면 그건 분노가 아니야. 직업이지.
+
+# 장면 1 — DIE NETZWERKANALYSE
+MIRA: Das hier ist das Lager «Pro Bebauung». Grün. Und das hier «Contra Bebauung». Blau. Jeder Punkt ist ein Konto. Jede Linie ist eine Interaktion.
+> 이쪽이 «개발 찬성» 진영. 초록. 그리고 이쪽이 «개발 반대». 파랑. 점 하나가 계정 하나. 선 하나가 상호작용이에요.
+JAN: Zwei große Wolken. Grün und Blau. Weit voneinander. Das sieht aus wie zwei getrennte Welten.
+> 큰 구름 둘. 초록과 파랑. 서로 멀리. 분리된 두 세계처럼 보이네.
+MIRA: So soll es aussehen. Zwei Lager, die sich hassen. Aber jetzt zeige ich dir etwas. Ich blende die normalen Nutzer aus und lasse nur die aktivsten Konten übrig.
+> 그렇게 보여야 하죠. 서로 증오하는 두 진영. 근데 이제 뭔가 보여 드릴게요. 평범한 사용자를 지우고 가장 활동적인 계정만 남길게요.
+JAN: Und jetzt… warte. Jetzt sind da nicht mehr zwei Wolken. In der Mitte ist eine kleine Gruppe, die zu beiden gehört.
+> 그리고 이제… 잠깐. 이제 구름이 둘이 아니네. 가운데에 양쪽 다 속하는 작은 무리가 있어.
+MIRA: Genau. Etwa vierzig Konten. Sie posten im grünen Lager und im blauen Lager. Sie greifen sich scheinbar gegenseitig an. Aber sie sind dieselbe Gruppe.
+> 바로요. 계정 약 40개. 초록 진영에도 파랑 진영에도 올려요. 겉으론 서로 공격하죠. 근데 같은 무리예요.
+SWETA: Das ist die Signatur, Jan. Das ist die klassische Doppelstrategie. Du spielst nicht eine Seite. Du spielst beide. Du bist dein eigener Gegner.
+> 그게 서명이에요, 얀. 전형적인 양동 작전이에요. 한쪽만 운용하는 게 아니라. 양쪽을 운용해요. 자기가 자기 적이 되는 거죠.
+LEON: Das klingt nach sehr viel Arbeit für wenig Sinn. Warum macht sich jemand die Mühe, gegen sich selbst zu posten?
+> 별 의미 없는 것치곤 일이 아주 많아 보여요. 왜 누가 자기한테 맞서 글 쓰는 수고를 해요?
+SWETA: Weil der Streit das Produkt ist, Leon. Nicht das Ergebnis. Solange gestritten wird, läuft das Geschäft. Ein beendeter Streit ist ein verlorener Kunde.
+> 다툼이 제품이니까, 레온. 결과가 아니라. 다투는 동안 사업이 돌아가요. 끝난 다툼은 잃은 고객이죠.
+JAN: Ein beendeter Streit ist ein verlorener Kunde. Das ist der kälteste Satz, den ich seit Langem gehört habe. Und wahrscheinlich der wahrste über dieses Geschäft.
+> 끝난 다툼은 잃은 고객. 오랜만에 들은 가장 차가운 문장이야. 그리고 이 사업에 대해 아마 가장 참된 문장이고.
+MIRA: Und deshalb enden diese Streits nie von selbst. Sobald die Leute müde werden und sich annähern, kommt eine neue Provokation. Immer genau dann. Ich kann die Spitzen im Graph zeigen.
+> 그래서 이 다툼은 저절로 안 끝나요. 사람들이 지쳐 가까워지려 하면 새 도발이 와요. 늘 바로 그때. 그래프의 뾰족한 봉우리를 보여 줄 수 있어요.
+JAN: Zeig sie später. Erst will ich die echten Menschen treffen. Einen von jeder Seite. Bevor ich über die Maschine schreibe, muss ich die verstehen, die sie benutzt.
+> 나중에 보여 줘. 먼저 진짜 사람을 만나고 싶어. 양쪽에서 한 명씩. 기계에 대해 쓰기 전에, 기계가 이용하는 사람들을 이해해야 해.
+LEON: Aber warum? Was bringt es, beide Seiten anzugreifen? Dann hebt sich das doch auf.
+> 근데 왜요? 양쪽을 다 공격해서 뭘 얻어요? 그럼 상쇄되잖아요.
+SWETA: Es hebt sich nicht auf, Leon. Es multipliziert sich. Das Ziel ist nicht, dass eine Seite gewinnt. Das Ziel ist, dass beide Seiten einander hassen. Dass die Mitte stirbt.
+> 상쇄 안 돼, 레온. 곱해져. 목표는 한쪽이 이기는 게 아니야. 양쪽이 서로 증오하는 거지. 중간이 죽는 거.
+JAN: Wenn die Mitte stirbt, stirbt das Gespräch. Und ohne Gespräch entscheidet nicht mehr das beste Argument, sondern die lauteste Wut.
+> 중간이 죽으면 대화가 죽어. 그리고 대화 없이는 최선의 논거가 아니라 가장 큰 분노가 결정하지.
+LEON: Aber woher weißt du, dass die vierzig Konten in der Mitte keine echten Menschen sind? Vielleicht sind es einfach Leute, die beide Seiten lesen.
+> 근데 가운데 계정 40개가 진짜 사람이 아닌 걸 어떻게 알아요? 어쩌면 그냥 양쪽을 다 읽는 사람들일 수도요.
+MIRA: Gute Frage, Leon. Deshalb prüfe ich nicht nur, wo sie posten, sondern wann. Echte Menschen lesen beide Seiten, aber sie posten zu menschlichen Zeiten.
+> 좋은 질문이야, 레온. 그래서 어디에 올리는지만이 아니라 언제인지도 봐. 진짜 사람은 양쪽을 읽지만 인간적인 시간에 올려.
+LEON: Und diese vierzig?
+> 그럼 이 마흔은?
+MIRA: Posten im Durchschnitt zweihundert Mal am Tag. Zweihundert. Kein Mensch tippt zweihundert wütende Kommentare am Tag und geht dann arbeiten.
+> 하루 평균 이백 번 올려요. 이백. 하루에 분노한 댓글 이백 개를 치고 출근하는 사람은 없어요.
+JAN: Zweihundert am Tag, an sieben Tagen, ohne Pause. Das ist keine Überzeugung. Das ist eine Schicht. Jemand bezahlt für diese Schicht.
+> 하루 이백, 이레 내내, 쉬지 않고. 그건 신념이 아니야. 교대 근무야. 누가 이 교대 근무 값을 내.
+SWETA: Und manchmal machen sie Fehler. Schau, hier: Ein Konto schreibt um 11 Uhr «Als besorgte Mutter...» und um 11 Uhr 03 «Als Bauarbeiter seit 20 Jahren...». Dieselbe Person. Zwei Masken, drei Minuten.
+> 그리고 가끔 실수해요. 봐요, 여기. 한 계정이 11시에 «걱정하는 엄마로서...» 11시 3분에 «20년 된 건설노동자로서...»라고 써요. 같은 사람. 가면 둘, 3분 사이.
+JAN: Eine Mutter und ein Bauarbeiter in drei Minuten. Das ist der Moment, in dem die Maske verrutscht. Genau danach suchen wir. Mira, sammle jeden solchen Ausrutscher.
+> 3분 사이 엄마와 건설노동자. 그게 가면이 미끄러지는 순간이야. 바로 그걸 우린 찾아. 미라, 그런 실수를 전부 모아.
+
+# 장면 2 — WER PROFITIERT VON DER WUT?
+HELENE: Dann ist die Frage, die wir immer stellen: Wer profitiert? Wenn beide Seiten nur noch hassen, wer gewinnt dabei?
+> 그럼 우리가 늘 하는 질문. 누가 이득 보나? 양쪽이 증오만 하면 거기서 누가 이기죠?
+JAN: Nicht die Bürger. Die verlieren beide. Egal, wie die Abstimmung ausgeht, sie hassen danach ihre Nachbarn. Das Feld ist nur der Anlass.
+> 시민은 아니에요. 양쪽 다 져요. 투표가 어떻게 끝나든 그 뒤에 이웃을 증오하죠. 들판은 계기일 뿐이에요.
+SWETA: Es profitiert, wer will, dass die Stadt sich nicht einig wird. Eine gespaltene Stadt entscheidet schlecht. Und eine Stadt, die schlecht entscheidet, lässt sich leichter lenken.
+> 도시가 하나로 안 되길 바라는 자가 이득 봐요. 분열된 도시는 결정을 잘 못 해요. 그리고 결정을 잘 못 하는 도시는 더 쉽게 조종돼요.
+JAN: Das ist abstrakt, Sweta. Wer ganz konkret? Jemand zahlt für vierzig Konten, die Tag und Nacht arbeiten. Das kostet Geld. Wer gibt es aus?
+> 그건 추상적이야, 스베타. 아주 구체적으로 누구? 누가 밤낮으로 일하는 계정 40개 값을 내. 돈이 들어. 누가 그걸 써?
+MIRA: Ich habe die vierzig Konten analysiert. Zwei Muster. Ein Teil postet in perfektem, aber seltsamem Deutsch. Übersetzt. Wie beim Deepfake.
+> 그 계정 40개를 분석했어요. 패턴 둘. 일부는 완벽하지만 이상한 독일어로 올려요. 번역된. 딥페이크 때처럼.
+JAN: Das ist die ausländische Spur. Und der andere Teil?
+> 그게 외국 쪽 흔적이군. 그럼 다른 일부는?
+MIRA: Der andere Teil postet in echtem Berliner Deutsch. Lokale Details, richtige Straßennamen, echte Sorgen. Das sind keine Ausländer. Das ist jemand von hier.
+> 다른 일부는 진짜 베를린 독일어로 올려요. 지역 세부, 정확한 거리 이름, 진짜 걱정들. 외국인이 아니에요. 여기 사람이죠.
+LEON: Könnte der einheimische Teil nicht einfach echte wütende Berliner sein? Die man gar nicht steuern muss?
+> 토박이 쪽이 그냥 조종할 필요도 없는 진짜 화난 베를린 사람일 순 없어요?
+MIRA: Könnte. Aber echte Berliner posten nicht auf beiden Seiten. Diese Konten schon. Dasselbe Konto schreibt pro und contra, nur mit anderem Profilbild. Das macht kein echter Mensch.
+> 그럴 수 있지. 근데 진짜 베를린 사람은 양쪽에 안 올려. 이 계정들은 올리지. 같은 계정이 찬성도 반대도 써, 프로필 사진만 바꿔서. 진짜 사람은 그렇게 안 해.
+SWETA: Zwei Hände an denselben Konten. Eine ausländische, eine einheimische. Genau wie Marta es beschrieben hat. Die Idee von außen, die Umsetzung von hier.
+> 같은 계정에 손이 둘. 하나는 외국, 하나는 토박이. 마르타가 묘사한 그대로예요. 아이디어는 밖에서, 실행은 여기서.
+JAN: Und die einheimische Hand kennt Berlin zu gut, um ein Zufall zu sein. Jemand, der weiß, welche Worte hier wehtun. Ein Profi für lokale Wut.
+> 그리고 토박이 손은 우연이기엔 베를린을 너무 잘 알아. 여기서 어떤 말이 아픈지 아는 자. 지역 분노 전문가.
+HELENE: Aber wir müssen aufpassen. Nicht jeder wütende Bürger ist ein Bot. Die meisten sind echt. Wenn wir die echten Sorgen als Fälschung abtun, machen wir es nur schlimmer.
+> 근데 조심해야 해요. 분노한 시민이 다 봇은 아니에요. 대부분은 진짜예요. 진짜 걱정을 조작이라고 치부하면 우린 더 나쁘게만 만들어요.
+JAN: Das ist ein wichtiger Punkt, Helene. Wo ist die Grenze? Wie unterscheiden wir den echten besorgten Bürger vom bezahlten Konto?
+> 중요한 점이에요, 헬레네. 경계가 어디죠? 진짜 걱정하는 시민과 돈 받은 계정을 어떻게 구별해요?
+MIRA: Am Verhalten, nicht am Inhalt. Ein echter Bürger postet zu einem Thema, das ihn betrifft. Ein Konto postet zu allem, überall, immer, mit derselben Energie.
+> 내용이 아니라 행태로요. 진짜 시민은 자기 일인 주제에 올려요. 계정은 모든 것에, 어디에나, 늘, 같은 에너지로 올리죠.
+SWETA: Und ein echter Bürger widerspricht sich manchmal. Hat einen schlechten Tag, schreibt mal nett, mal gereizt. Ein Konto ist immer gleich wütend. Menschen haben Stimmungen. Maschinen nicht.
+> 그리고 진짜 시민은 가끔 자기모순이에요. 기분 나쁜 날도 있고, 어떤 땐 상냥, 어떤 땐 짜증. 계정은 늘 똑같이 분노해요. 사람은 기분이 있어요. 기계는 없고요.
+JAN: Also schützen wir die echten Bürger, indem wir nur die Maschinen benennen. Wir sagen nie «Die Gegner sind Bots». Wir sagen «Diese vierzig bestimmten Konten sind es».
+> 그럼 우린 기계만 지목해서 진짜 시민을 지켜. «반대측은 봇이다»라고 결코 안 해. «이 특정 계정 40개가 그렇다»고 하지.
+HELENE: Genau. Die Präzision ist der Respekt. Wer pauschal «alles Bots» ruft, beleidigt die echten Menschen und tut genau das, was die Spalter wollen.
+> 바로요. 정밀함이 곧 존중이에요. 뭉뚱그려 «다 봇»이라 외치는 사람은 진짜 사람을 모욕하고, 분열시키는 자들이 원하는 바로 그걸 하죠.
+
+# 장면 3 — GISELA UND DAS ECHTE LEBEN
+GISELA: Herr Kowalczyk! Schön, dass Se ma vorbeikommen. Setzen Se sich. Kaffee? Ick hab och Kekse, die richtig juten.
+> 코발치크 씨! 들러 줘서 반가워요. 앉아요. 커피? 과자도 있어요, 진짜 맛있는 거.
+JAN: Danke, Frau Gisela. Gern einen Kaffee. Ich wollte Sie etwas fragen. Über die Abstimmung. Sie wohnen ja direkt am Feld.
+> 고마워요, 기젤라 씨. 커피 좋아요. 뭘 좀 물으려고요. 투표에 대해서요. 들판 바로 옆에 사시잖아요.
+GISELA: Ach, die Abstimmung. Weeßte, früher ham wa uns am Gartenzaun unterhalten, ob gebaut wird oder nich. Jetzt schrein se sich im Internet an.
+> 아, 그 투표. 있잖아요, 예전엔 정원 울타리에서 건축할지 말지 얘기했어요. 이제 인터넷에서 서로 소리 질러요.
+JAN: Und Sie? Was denken Sie über das Bauen am Feldrand?
+> 그럼 당신은요? 들판 가장자리 건축에 대해 어떻게 생각하세요?
+GISELA: Ehrlich? Ick bin hin- und hergerissen. Mein Enkel findet keene Wohnung. Da wär ick für Bauen. Aber det Feld, det is unsere Luft, unser Himmel. Da bin ick dagegen.
+> 솔직히? 이랬다저랬다 해요. 손주가 집을 못 구해요. 그럼 건축에 찬성이죠. 근데 그 들판, 그건 우리 공기, 우리 하늘이에요. 그럼 반대고요.
+JAN: Also sind Sie nicht einfach dafür oder dagegen. Sie sehen beide Seiten.
+> 그럼 단순히 찬성도 반대도 아니네요. 양쪽을 다 보시는군요.
+GISELA: Und weeßte, wat det Schlimme is? Online darf ick det nich sagen. Hab ick ma probiert. «Ick seh beide Seiten», hab ick jeschrieben. Da ham mir beide anjejriffen.
+= Und weißt du, was das Schlimme ist? Online darf ich das nicht sagen. Habe ich mal probiert. «Ich sehe beide Seiten», habe ich geschrieben. Da haben mich beide angegriffen.
+> 근데 뭐가 나쁜지 알아요? 온라인에선 그 말을 하면 안 돼요. 한번 해 봤어요. «난 양쪽을 다 본다»고 썼죠. 그랬더니 양쪽이 다 날 공격했어요.
+JAN: Beide Seiten haben Sie angegriffen? Für denselben Satz?
+> 양쪽이 다 공격했다고요? 같은 문장 때문에?
+GISELA: Beide! Die eene Seite schrieb, ick wär 'ne Verräterin. Die andre, ick wär naiv. Da hab ick det Ding ausjemacht. Mit sowat red ick nich mehr.
+= Beide! Die eine Seite schrieb, ich wäre eine Verräterin. Die andere, ich wäre naiv. Da habe ich das Ding ausgemacht. Mit so etwas rede ich nicht mehr.
+> 둘 다요! 한쪽은 내가 배신자래요. 다른 쪽은 내가 순진하대요. 그래서 그 물건을 꺼 버렸어요. 그런 것들하곤 더는 말 안 해요.
+SWETA: Frau Gisela, genau das ist der Beweis. Wenn beide Lager denselben Menschen für denselben vernünftigen Satz angreifen, dann steuert jemand beide Lager. Sie haben es selbst erlebt.
+> 기젤라 씨, 바로 그게 증거예요. 양쪽 진영이 같은 사람을 같은 분별 있는 문장 때문에 공격하면, 누가 양쪽 진영을 다 조종하는 거예요. 몸소 겪으신 거죠.
+GISELA: Ach, deshalb! Ick dachte, die Menschen sind alle verrückt jeworden. Aber et sind jar nich die Menschen. Et is die Maschine dahinter.
+= Ach, deshalb! Ich dachte, die Menschen sind alle verrückt geworden. Aber es sind gar nicht die Menschen. Es ist die Maschine dahinter.
+> 아, 그래서! 난 사람들이 다 미친 줄 알았어요. 근데 사람들이 아니네요. 그 뒤의 기계네요.
+GISELA: Natürlich seh ick beide Seiten! Ick bin doch keen Computer. Im echten Leben is fast nie allet nur schwarz oder weiß. Det wissen die im Internet bloß nich mehr.
+> 당연히 양쪽을 보죠! 내가 컴퓨터도 아니고. 진짜 삶에선 거의 모든 게 흑 아니면 백이 아니에요. 인터넷 사람들만 그걸 더는 모르죠.
+JAN: Frau Gisela, Sie haben gerade das Klügste gesagt, was ich zu diesem Thema gehört habe. Darf ich das zitieren? Ohne Ihren Namen, wenn Sie wollen.
+> 기젤라 씨, 방금 이 주제에 대해 제가 들은 가장 현명한 말을 하셨어요. 인용해도 될까요? 원하시면 이름 없이요.
+GISELA: Mit Namen, Jungchen! Ick steh dazu. Gisela, einundsiebzig, wohnt am Feld und denkt noch selba. Schreib det ruhig so.
+> 이름 넣어서요, 젊은이! 난 책임져요. 기젤라, 일흔하나, 들판 옆에 살고 아직 스스로 생각함. 그렇게 쓰세요.
+JAN: Darf ich Sie noch etwas fragen? Bekommen Sie auch diese wütenden Nachrichten? Auf dem Handy, meine ich.
+> 하나 더 물어도 될까요? 당신도 그런 분노한 메시지를 받으세요? 휴대폰으로요.
+GISELA: Ach, mein Enkel hat mir so 'ne App eingerichtet. Da kommt den ganzen Tach Krach. «Rette det Feld!» Und gleich drunter «Bau endlich!». Ick werd ganz wirr davon.
+= Ach, mein Enkel hat mir so eine App eingerichtet. Da kommt den ganzen Tag Krach. «Rette das Feld!» Und gleich darunter «Bau endlich!». Ich werde ganz wirr davon.
+> 아, 손주가 그런 앱을 깔아 줬어요. 하루 종일 소란이 와요. «들판을 구하라!» 바로 밑에 «이제 좀 지어라!». 완전 정신이 없어져요.
+JAN: Und was machen Sie mit diesem Krach?
+> 그 소란을 어떻게 하세요?
+GISELA: Ick mach det Ding aus und jeh raus aufs Feld. Da steht keen Kommentar. Da fliejen Lerchen. Die streiten nich, die singen. Det beruhigt.
+= Ich mache das Ding aus und gehe raus aufs Feld. Da steht kein Kommentar. Da fliegen Lerchen. Die streiten nicht, die singen. Das beruhigt.
+> 그 물건을 끄고 들판으로 나가요. 거긴 댓글이 없어요. 종달새가 날죠. 걔들은 안 싸워요, 노래해요. 그게 진정돼요.
+SWETA: Frau Gisela, Sie haben gerade in einem Satz beschrieben, was Millionen verlernt haben. Den Bildschirm ausmachen und das echte Feld ansehen.
+> 기젤라 씨, 방금 한 문장으로 수백만이 잊어버린 걸 말씀하셨어요. 화면을 끄고 진짜 들판을 보는 것.
+GISELA: Na, dafür bin ick ja alt. Ick hab det Feld, bevor et Internet jab. Und ick werd et noch haben, wenn der janze Online-Krach vorbei is.
+= Na, dafür bin ich ja alt. Ich habe das Feld, bevor es Internet gab. Und ich werde es noch haben, wenn der ganze Online-Krach vorbei ist.
+> 뭐, 그러라고 내가 나이 든 거죠. 인터넷 생기기 전부터 그 들판이 있었어요. 그리고 그 온라인 소란이 다 지나가도 여전히 있을 거고요.
+
+# 장면 4 — DIE ZWEI AKTIVISTEN
+BORIS: Ihr seid von Spreewerk? Gut. Dann sagt es laut: Die Gegner lügen. Sie wollen keine Wohnungen, weil sie selbst schon welche haben. Egoisten.
+> Spreewerk에서 왔다고요? 좋아요. 그럼 크게 말해요. 반대측은 거짓말해요. 자기들은 이미 집이 있으니까 주택을 안 원하죠. 이기주의자들.
+JAN: Herr Boris, ich bin nicht hier, um eine Seite laut zu machen. Ich bin hier, um zu verstehen. Woher wissen Sie, dass die Gegner lügen?
+> 보리스 씨, 전 한쪽을 크게 하려고 온 게 아니에요. 이해하려고 왔어요. 반대측이 거짓말한다는 걸 어떻게 아세요?
+BORIS: Das steht überall. Online. Hunderte Leute sagen es. Die Gegner sind bezahlte Immobilien-Blockierer. Das kann nicht alles falsch sein.
+> 어디에나 있어요. 온라인에. 수백 명이 말해요. 반대측은 돈 받은 부동산 차단꾼이라고. 그게 다 틀릴 순 없죠.
+JAN: Hunderte Leute oder hundert Konten? Das ist nicht dasselbe. Darf ich Ihnen etwas zeigen? Mira, die Grafik.
+> 수백 명일까요 계정 백 개일까요? 그건 같지 않아요. 뭘 보여 드려도 될까요? 미라, 그래픽을.
+MIRA: Sehen Sie diese vierzig Konten, Herr Boris? Die Ihnen sagen, die Gegner seien bezahlt? Dieselben Konten sagen auf der anderen Seite, Sie seien die Betonmafia.
+> 이 계정 40개 보이세요, 보리스 씨? 반대측이 돈 받았다고 당신한테 말하는? 같은 계정들이 반대편에선 당신들이 콘크리트 마피아라고 말해요.
+BORIS: Das… das kann nicht sein. Die sind doch auf meiner Seite. Die kämpfen mit mir.
+> 그건… 그럴 리가. 그들은 내 편이잖아요. 나랑 같이 싸우는데.
+JAN: Herr Boris, ich verstehe, dass das schwer zu hören ist. Niemand gibt gern zu, dass die lautesten Unterstützer Fremde waren. Aber schauen Sie selbst auf die Zeiten.
+> 보리스 씨, 듣기 힘든 거 이해해요. 가장 큰 소리의 지지자가 낯선 자였다고 아무도 선뜻 인정 안 해요. 근데 시간대를 직접 보세요.
+BORIS: Was ist mit den Zeiten?
+> 시간대가 뭐요?
+MIRA: Ihre treuesten Unterstützer posten montags bis freitags, neun bis siebzehn Uhr. Am Wochenende schweigen sie. Kämpft jemand für seine Heimat nur zu Bürozeiten?
+> 당신의 가장 충성스러운 지지자들은 월요일부터 금요일, 9시부터 17시에 올려요. 주말엔 침묵하고요. 자기 고향을 위해 근무 시간에만 싸우는 사람이 있어요?
+BORIS: Nein. Wer das ernst meint, schreibt abends, nachts, am Wochenende. So wie ich. Ich poste meistens nach der Schicht im Krankenhaus.
+> 아니요. 진심인 사람은 저녁에, 밤에, 주말에 써요. 저처럼. 전 보통 병원 교대 근무 끝나고 올려요.
+SWETA: Nein, Herr Boris. Die kämpfen nicht mit Ihnen. Die benutzen Sie. Und auf der anderen Straßenseite benutzen sie Nele genauso. Mit denselben Worten, nur umgedreht.
+> 아니에요, 보리스 씨. 그들은 당신과 싸우는 게 아니에요. 당신을 이용해요. 그리고 길 건너편에선 넬레를 똑같이 이용하죠. 같은 말로, 뒤집어서만.
+NELE: Moment, ihr habt mit Boris geredet? Der Mann hetzt seit Wochen gegen uns. Er nennt uns Fortschrittsfeinde.
+> 잠깐, 보리스랑 얘기했어요? 저 사람 몇 주째 우릴 선동해요. 우릴 진보의 적이라고 불러요.
+JAN: Und Boris sagt, Sie nennen ihn Betonmafia. Haben Sie das je gesagt, Frau Nele? Mit diesen Worten?
+> 그리고 보리스는 당신이 자길 콘크리트 마피아라고 부른댔어요. 그런 말 한 적 있어요, 넬레 씨? 그 말로?
+NELE: Nein. Nie. Ich habe nie «Betonmafia» geschrieben. Das klingt nicht mal nach mir. Woher kommt das?
+> 아니요. 결코. «콘크리트 마피아»라고 쓴 적 없어요. 저답지도 않은 말이에요. 그게 어디서 왔죠?
+MIRA: Von einem Konto, das vorgibt, zu Ihrer Gruppe zu gehören. «Nele_TeamFeld». Mit einem f mehr als Ihr echtes Konto. Ein Klon. Wie bei uns.
+> 당신 그룹 소속인 척하는 계정한테서요. «Nele_TeamFeld». 당신 진짜 계정보다 f가 하나 많아요. 복제예요. 우리 때처럼.
+NELE: Jemand hat ein Konto gemacht, das aussieht wie ich, und schreibt in meinem Namen «Betonmafia»? Und Boris glaubt, das sei ich?
+> 누가 저처럼 보이는 계정을 만들어서 제 이름으로 «콘크리트 마피아»라고 쓰고요? 그리고 보리스는 그게 저라고 믿고요?
+SWETA: Genau so funktioniert es. Sie bekommen nicht nur ein falsches Bild von Boris. Boris bekommt ein falsches Bild von Ihnen. Beide hassen eine Erfindung.
+> 바로 그렇게 작동해요. 당신만 보리스에 대한 가짜 상을 받는 게 아니에요. 보리스도 당신에 대한 가짜 상을 받죠. 둘 다 지어낸 걸 증오하는 거예요.
+NELE: Ich hasse also einen Boris, den es gar nicht gibt. Und er hasst eine Nele, die es nicht gibt. Und die echten Boris und Nele haben sich nie getroffen.
+> 그럼 전 존재하지도 않는 보리스를 증오하는 거네요. 그리고 그는 존재하지 않는 넬레를 증오하고요. 그리고 진짜 보리스와 넬레는 한 번도 안 만났고요.
+JAN: Deshalb bin ich hier. Damit sich der echte Boris und die echte Nele einmal treffen. Alles, was danach passiert, dürfen Sie selbst entscheiden. Aber treffen sollten Sie sich.
+> 그래서 제가 왔어요. 진짜 보리스와 진짜 넬레가 한번 만나도록요. 그 뒤에 일어나는 건 전부 스스로 결정하세요. 근데 만나긴 하셔야 해요.
+NELE: Und wenn er mich doch anschreit? Wenn er wirklich so ist, wie das Konto tut?
+> 근데 그가 절 소리 질러 대면요? 그가 정말 그 계정처럼 그러면요?
+SWETA: Dann sind Sie es, die ruhig bleibt. Und dann wissen Sie wenigstens, dass es der echte Boris war und nicht ein Konto. Das ist mehr Wahrheit, als Sie jetzt haben.
+> 그럼 당신이 차분히 있는 사람이 되는 거죠. 그리고 그럼 적어도 그게 진짜 보리스였고 계정이 아니었다는 걸 알잖아요. 지금보다 더 많은 진실이에요.
+
+# 장면 5 — DIE BEIDEN AN EINEN TISCH
+JAN: Frau Nele, Herr Boris sitzt in unserem Auto. Würden Sie ihm gegenübersitzen? Nur zehn Minuten. Ich garantiere, es wird niemand schreien.
+> 넬레 씨, 보리스 씨가 우리 차에 있어요. 마주 앉아 주시겠어요? 10분만요. 아무도 소리 안 지른다고 보장해요.
+NELE: Dem Mann gegenüber? Der mich online fertigmacht? Warum sollte ich?
+> 저 사람 앞에요? 날 온라인에서 깔아뭉개는? 제가 왜요?
+SWETA: Weil Sie beide dasselbe Opfer sind, Frau Nele. Und weil die, die Sie gegeneinander hetzen, am meisten fürchten, dass Sie sich einmal in die Augen sehen.
+> 두 분 다 같은 피해자니까요, 넬레 씨. 그리고 두 분을 서로 부추기는 자들이 가장 두려워하는 게 두 분이 한번 서로 눈을 보는 거니까요.
+NELE: Na gut. Zehn Minuten. Aber nur, weil Sie von Spreewerk sind und nicht von denen, die sonst anrufen.
+> 좋아요. 10분. 근데 당신들이 Spreewerk라서예요, 보통 전화하는 그치들이 아니라.
+BORIS: Sie sind Nele? Ich dachte, Sie wären… ich weiß auch nicht. Älter. Aggressiver. So, wie Sie online rüberkommen.
+> 당신이 넬레예요? 전 당신이… 저도 모르겠네요. 더 나이 들고. 더 공격적이고. 당신이 온라인에서 보이는 것처럼요.
+NELE: Und ich dachte, Sie wären ein kaltherziger Investor-Lakai. Sie sehen aus wie… ein ganz normaler Typ.
+> 그리고 전 당신이 냉혈한 투자자 하수인인 줄 알았어요. 당신은 보기에… 그냥 평범한 사람이네요.
+BORIS: Ich bin Krankenpfleger. Ich will nur, dass mein Bruder eine Wohnung findet. Das ist alles. Deshalb bin ich für das Bauen.
+> 전 간호사예요. 그냥 제 동생이 집을 구했으면 할 뿐이에요. 그게 다예요. 그래서 건축에 찬성해요.
+NELE: Und ich bin Biologin. Ich habe auf dem Feld gezählt, wie viele Lerchen dort brüten. Deshalb bin ich dagegen. Nicht, weil ich gegen Wohnungen bin.
+> 그리고 전 생물학자예요. 들판에서 종달새가 몇 마리 번식하는지 셌어요. 그래서 반대해요. 주택에 반대해서가 아니라.
+JAN: Hören Sie beide zu, was gerade passiert ist. In zwei Minuten Gespräch haben Sie mehr Gemeinsames gefunden als in zwei Monaten Internet. Das ist die Geschichte.
+> 두 분 다 방금 무슨 일이 일어났는지 들어 보세요. 2분 대화에서 2개월 인터넷보다 더 많은 공통점을 찾았어요. 그게 기사예요.
+BORIS: Warten Sie. Nele, Sie zählen Lerchen? Meine Oma hat mir als Kind die Lerchen auf dem Feld gezeigt. Ich dachte, die gibt es da gar nicht mehr.
+> 잠깐요. 넬레 씨, 종달새를 세요? 우리 할머니가 어릴 때 들판의 종달새를 보여 주셨어요. 거기 이제 없는 줄 알았는데.
+NELE: Es gibt noch dreizehn Brutpaare. Genau am Rand, wo gebaut werden soll. Deshalb kämpfe ich. Nicht gegen Wohnungen. Für die dreizehn Paare.
+> 아직 번식 쌍 열셋이 있어요. 바로 건축하려는 가장자리에요. 그래서 싸워요. 주택에 맞서서가 아니라. 그 열세 쌍을 위해서.
+BORIS: Und ich kämpfe für meinen Bruder, der mit Frau und Kind in einem Zimmer wohnt. Vielleicht… vielleicht geht beides? Bauen, aber nicht genau dort?
+> 그리고 전 아내랑 아이와 방 하나에 사는 동생을 위해 싸워요. 어쩌면… 어쩌면 둘 다 될까요? 짓되, 바로 거기는 아니게?
+NELE: Das… das habe ich noch nie jemanden von der anderen Seite sagen hören. «Vielleicht geht beides.» Online sagt das niemand.
+> 그건… 반대편 사람한테서 한 번도 들어 본 적 없어요. «어쩌면 둘 다.» 온라인에선 아무도 그 말 안 해요.
+JAN: Online darf das auch niemand sagen. Wer «vielleicht beides» sagt, bekommt von beiden Lagern Hass. Die Konten belohnen nur die Extreme. Das ist das System.
+> 온라인에선 아무도 그 말 하면 안 돼요. «어쩌면 둘 다»라고 하면 양쪽 진영한테서 증오를 받아요. 계정들은 극단만 보상해요. 그게 시스템이에요.
+SWETA: Die Maschine hat keine Verwendung für ein «vielleicht». Ein «vielleicht» kann man nicht aufhetzen. Deshalb löschen die Algorithmen die leisen Zwischentöne und verstärken das Geschrei.
+> 기계는 «어쩌면»을 쓸 데가 없어요. «어쩌면»은 선동할 수 없거든요. 그래서 알고리즘은 조용한 중간 음을 지우고 고함을 증폭해요.
+BORIS: Dann sind wir beide hier gerade genau das, was die Maschine am meisten fürchtet. Zwei Leute, die «vielleicht» sagen.
+> 그럼 우리 둘이 지금 바로 기계가 가장 두려워하는 거네요. «어쩌면»이라고 말하는 두 사람.
+JAN: Ganz genau. Und das ist die Geschichte, die wir schreiben. Nicht «Pro gegen Contra». Sondern «Zwei Menschen gegen eine Maschine, die sie verfeinden wollte».
+> 정확히요. 그리고 그게 우리가 쓸 기사예요. «찬성 대 반대»가 아니라. «그들을 원수로 만들려던 기계에 맞선 두 사람».
+
+# 장면 6 — WAS MAN SIEHT, WENN DIE WUT WEG IST
+BORIS: Also, wenn ich das richtig verstehe: Die Konten, die mich am meisten anfeuern, sind dieselben, die Nele am meisten beschimpfen?
+> 그러니까, 제가 제대로 이해했다면. 절 가장 응원하는 계정들이 넬레를 가장 욕하는 그 계정들과 같다고요?
+MIRA: Genau. Hier, Ihr meistgeteilter Post, Herr Boris. Geteilt von Konto «Berlin_Zukunft_2028». Und hier, Neles meistbeschimpfter Post. Beschimpft von demselben Konto.
+> 맞아요. 여기, 가장 많이 공유된 당신 글이에요, 보리스 씨. 계정 «Berlin_Zukunft_2028»이 공유했죠. 그리고 여기, 가장 많이 욕먹은 넬레 글. 같은 계정이 욕했어요.
+NELE: Dasselbe Konto feuert ihn an und beschimpft mich. Am selben Nachmittag. Das ist… das ist krank.
+> 같은 계정이 그를 응원하고 절 욕해요. 같은 날 오후에. 그건… 그건 병적이에요.
+SWETA: Es ist nicht krank. Es ist Arbeit. Für die ist das ein Job. Sie stehen morgens auf und spalten eine Stadt. Acht Stunden. Dann machen sie Feierabend.
+> 병적인 게 아니에요. 일이에요. 그들한텐 직업이죠. 아침에 일어나 도시를 쪼개요. 여덟 시간. 그리고 퇴근하죠.
+BORIS: Und ich habe denen geglaubt. Ich habe Nele gehasst, weil ein Konto mir gesagt hat, ich soll sie hassen. Mir wird schlecht.
+> 그리고 전 그들을 믿었어요. 넬레를 증오했어요, 어떤 계정이 증오하라고 해서. 속이 안 좋네요.
+JAN: Sie sollen sich nicht schlecht fühlen, Herr Boris. Sie sollen sich wehren. Und die beste Wehr ist genau das hier: Sie und Nele, an einem Tisch, ohne die Konten.
+> 속상해하실 것 없어요, 보리스 씨. 맞서 싸우세요. 그리고 최선의 방어가 바로 이거예요. 당신과 넬레가, 한 탁자에, 계정들 없이.
+NELE: Können wir das öffentlich machen? Ein Foto von uns beiden. «Wir streiten über das Feld. Aber wir hassen uns nicht. Und wir lassen uns nicht hetzen.»
+> 이걸 공개할 수 있어요? 우리 둘 사진. «우린 들판을 두고 다툰다. 근데 서로 증오하진 않는다. 그리고 선동당하지 않는다.»
+SWETA: Das, Frau Nele, ist das stärkste Gegengift, das es gibt. Kein Faktencheck wirkt so wie zwei Gegner, die sich die Hand geben. Das kann keine KI fälschen.
+> 그게요, 넬레 씨, 있을 수 있는 가장 강한 해독제예요. 어떤 팩트체크도 손을 맞잡는 두 적수만큼 효과 없어요. 그건 어떤 AI도 조작 못 해요.
+LEON: Aber wird so ein Foto nicht auch einfach zerrissen? Die Konten werden sagen, ihr seid gekauft, ihr seid Verräter an eurer eigenen Sache.
+> 근데 그런 사진도 그냥 찢기지 않아요? 계정들이 당신들더러 매수됐다고, 자기 대의의 배신자라고 할 텐데요.
+SWETA: Das werden sie, Leon. Garantiert. Und genau das wird der Beweis sein. Wenn ein Foto von zwei sich versöhnenden Bürgern einen Shitstorm auslöst, fragt jeder: Warum stört das jemanden so sehr?
+> 그럴 거야, 레온. 틀림없이. 그리고 바로 그게 증거가 될 거야. 화해하는 두 시민 사진이 악플 폭풍을 일으키면 다들 물어. 왜 이게 누군가를 그렇게 거슬리게 하지?
+NELE: Also soll der Angriff auf unser Foto ruhig kommen. Er beweist nur, dass wir etwas Richtiges tun.
+> 그럼 우리 사진에 대한 공격이 얼마든지 오라죠. 우리가 옳은 걸 한다는 걸 증명할 뿐이니까요.
+BORIS: Ich habe keine Angst mehr vor den Kommentaren. Vorhin dachte ich, Tausende hassen mich. Jetzt weiß ich, es sind vierzig Konten und ein paar Verwirrte wie ich es war.
+> 전 더는 댓글이 안 무서워요. 아까는 수천 명이 절 증오한다고 생각했어요. 이제 계정 40개랑 저처럼 헷갈린 몇 명뿐인 걸 알아요.
+JAN: Das ist die wichtigste Erkenntnis von heute, Herr Boris. Die Wut im Netz sieht riesig aus. Aber oft ist sie nur laut, nicht groß. Laut und groß sind nicht dasselbe.
+> 그게 오늘의 가장 중요한 깨달음이에요, 보리스 씨. 인터넷의 분노는 거대해 보여요. 근데 흔히 클 뿐이지 많은 게 아니에요. 큰 소리와 많은 수는 같지 않아요.
+NELE: Laut, nicht groß. Das schreibe ich mir auf. Das hilft mir mehr als jeder Faktencheck.
+> 큰 소리지 많은 게 아니다. 적어 둘게요. 어떤 팩트체크보다 도움돼요.
+BORIS: Und ich nehme etwas anderes mit: Wenn ich das nächste Mal online so richtig wütend werde, frage ich erst, wer will, dass ich gerade jetzt wütend bin.
+> 그리고 전 다른 걸 가져갈게요. 다음에 온라인에서 제대로 화날 때, 먼저 물을게요. 누가 내가 바로 지금 화나길 원하는지.
+JAN: Das, Herr Boris, ist die beste Medienkompetenz in einem Satz. Nicht «ist das wahr», sondern «wer will, dass ich das gerade jetzt fühle». Das schützt besser als jedes Programm.
+> 그게요, 보리스 씨, 한 문장으로 된 최고의 미디어 리터러시예요. «이게 참인가»가 아니라 «누가 내가 바로 지금 이걸 느끼길 원하는가». 어떤 프로그램보다 잘 지켜 줘요.
+HELENE: Dann haben wir heute zwei Menschen gewonnen und eine Maschine ein Stück entlarvt. Für einen Tag ist das viel. Fotografieren wir die beiden. Und dann an die Arbeit.
+> 그럼 오늘 두 사람을 얻고 기계를 조금 폭로했네요. 하루치고 많아요. 두 사람을 찍어요. 그리고 일하러.
+
+# 엔딩 — DIE LIZENZ
+MIRA: Jan, ich habe die Kampagnenvideos von beiden Seiten verglichen. Pro und Contra. Die professionell gemachten.
+> 얀, 양쪽 캠페인 영상을 비교했어요. 찬성과 반대. 전문적으로 만든 거요.
+JAN: Und? Sag mir, dass du gefunden hast, was ich vermute.
+> 그래서? 내가 짐작하는 걸 찾았다고 말해 줘.
+MIRA: Beide. Das Pro-Video und das Contra-Video. Dieselbe Bearbeitungssoftware. Dieselbe Lizenz. Dasselbe Studio. «HH-Studio».
+> 둘 다요. 찬성 영상이랑 반대 영상. 같은 편집 소프트웨어. 같은 라이선스. 같은 스튜디오. «HH-슈투디오».
+JAN: Dieselbe Werkstatt macht die Werbung für beide Seiten. Für das Bauen und gegen das Bauen. Sie verkaufen den Krieg an beide Lager.
+> 같은 공방이 양쪽 광고를 다 만들어. 건축 찬성과 건축 반대. 전쟁을 양쪽 진영에 다 팔아.
+SWETA: Das ist kein politisches Motiv mehr. Das ist ein Geschäftsmodell. Spaltung als Dienstleistung. Du zahlst, sie liefern Wut. Egal, auf welcher Seite du stehst.
+> 더는 정치적 동기가 아니에요. 사업 모델이에요. 서비스로서의 분열. 돈을 내면 분노를 배달해요. 당신이 어느 편이든.
+JAN: Spaltung als Dienstleistung. Das ist ein kalter Satz. Aber er erklärt alles. Warum beide Seiten. Warum so professionell. Warum kein klares politisches Lager.
+> 서비스로서의 분열. 차가운 문장이야. 근데 전부를 설명해. 왜 양쪽인지. 왜 그렇게 전문적인지. 왜 명확한 정치 진영이 없는지.
+MIRA: Und es erklärt die Verbindung zum Deepfake gegen uns. HH-Studio hat uns angegriffen und spaltet Tempelhof. Dieselbe Firma, zwei Aufträge. Vielleicht zwei Kunden.
+> 그리고 우리에 대한 딥페이크와의 연결도 설명해요. HH-슈투디오가 우릴 공격하고 템펠호프를 쪼개요. 같은 회사, 두 일감. 어쩌면 고객 둘.
+SWETA: Das ist die Frage, die mich nachts wach hält. Sind es zwei Kunden? Oder ist es ein Kunde, der beides will — uns stumm und die Stadt gespalten?
+> 그게 밤에 절 깨어 있게 하는 질문이에요. 고객이 둘일까요? 아니면 둘 다 원하는 한 고객일까요 — 우릴 침묵시키고 도시를 쪼개는?
+JAN: Wenn es ein Kunde ist, dann hängt der Angriff auf uns direkt mit Tempelhof zusammen. Und Tempelhof hängt mit Teil eins zusammen. Mit dem Fonds. Mit Thal.
+> 한 고객이면, 우리에 대한 공격이 템펠호프와 직접 이어져. 그리고 템펠호프는 1부와 이어지고. 그 펀드. 탈과.
+SWETA: Genau das müssen wir herausfinden. Und das geht nur von innen. Wer bei HH die Aufträge verwaltet, weiß, ob es einer ist oder zwei. Diese Antwort liegt in der Revaler Straße.
+> 바로 그걸 알아내야 해요. 그리고 그건 안에서만 가능해요. HH에서 일감을 관리하는 사람은 하나인지 둘인지 알아요. 그 답이 레발러 거리에 있어요.
+LEON: Aber jemand muss doch beide Seiten bezahlen. Zwei Kampagnen kosten doppelt. Wer hat ein Interesse, dass überhaupt nur gestritten wird?
+> 근데 누가 양쪽을 다 돈 내야 하잖아요. 캠페인 둘이면 두 배 들어요. 애초에 다투기만 하는 데 누가 이해관계가 있어요?
+LEON: Aber jemand muss doch beide Seiten bezahlen. Zwei Kampagnen kosten doppelt. Wer hat ein Interesse, dass überhaupt nur gestritten wird?
+> 근데 누가 양쪽을 다 돈 내야 하잖아요. 캠페인 둘이면 두 배 들어요. 애초에 다투기만 하는 데 누가 이해관계가 있어요?
+JAN: Das, Leon, ist die Frage, die uns zu HH führt. Und durch HH hindurch zu dem, der dahintersteht. Wir gehen nach Friedrichshain. In die Revaler Straße.
+> 그게, 레온, 우릴 HH로 이끄는 질문이야. 그리고 HH를 지나 그 배후로. 우린 프리드리히스하인으로 가. 레발러 거리로.
+HELENE: Aber nicht mit Gewalt durch die Tür. Wir brauchen jemanden von innen. Sweta hatte recht. Diesmal müssen wir hinein. In die Fabrik selbst.
+> 근데 문을 부수고 들어가는 게 아니에요. 안에서 도와줄 사람이 필요해요. 스베타가 맞았어요. 이번엔 안으로 들어가야 해요. 공장 자체로.
+JAN: Sweta, bevor wir das auch nur erwägen: Das ist gefährlicher als alles bisher. Bei HH sitzen Leute, die Marta kennt. Leute, die aus deiner alten Welt stammen könnten.
+> 스베타, 그걸 고려하기도 전에. 이건 지금까지보다 위험해. HH엔 마르타가 아는 사람들이 앉아 있어. 네 옛 세계 출신일 수 있는 사람들.
+SWETA: Das weiß ich, Jan. Und genau deshalb bin ich die Einzige, die es kann. Ich kenne ihre Sprache, ihre Codes, ihre Art zu denken. Jemand anderes würde in einer Stunde auffliegen.
+> 알아요, 얀. 그래서 바로 제가 유일하게 할 수 있는 사람이에요. 전 그들의 언어, 암호, 사고방식을 알아요. 다른 사람은 한 시간 만에 들통날 거예요.
+JAN: Und wenn jemand dort dich von früher erkennt?
+> 그리고 거기 누가 널 예전부터 알아보면?
+SWETA: Dann wird es sehr schnell sehr ernst. Aber nach vielen Jahren und mit einem anderen Namen ist das Risiko kleiner als die Chance. Ich habe mein Aussehen verändert. Und meinen Namen sowieso.
+> 그럼 아주 빨리 아주 심각해져요. 근데 여러 해가 지났고 다른 이름으로면 위험이 기회보다 작아요. 전 외모를 바꿨어요. 이름은 어차피 바꿨고요.
+HELENE: Wir entscheiden das nicht heute. Und nicht allein. Katrin muss die rechtliche Seite prüfen. Verdeckte Recherche hat strenge Regeln, auch bei einer Agentur.
+> 오늘 결정 안 해요. 그리고 혼자서도 아니고요. 카트린이 법적 측면을 검토해야 해요. 위장 취재엔 엄격한 규칙이 있어요, 에이전시 상대로도.
+SWETA: Natürlich. Ich dränge nicht. Aber ich sage: Wenn wir wissen wollen, ob hinter allem ein Kunde steht oder zwei, dann gibt es keinen anderen Weg als hinein. Das ist die Wahrheit.
+> 물론이죠. 재촉 안 해요. 근데 말할게요. 이 모든 것 뒤에 고객이 하나인지 둘인지 알고 싶으면 안으로 들어가는 것 말곤 길이 없어요. 그게 진실이에요.
+JAN: Dann bereiten wir es sorgfältig vor. Langsam. Und mit jedem Schutz, den es gibt. Wenn Sweta hineingeht, dann so sicher, wie Menschen so etwas überhaupt machen können.
+> 그럼 꼼꼼히 준비해. 천천히. 있는 모든 보호 장치와 함께. 스베타가 들어가면, 사람이 그런 걸 할 수 있는 한 가장 안전하게.
+HELENE: Und bis dahin bringen wir die Tempelhof-Geschichte. Boris und Nele, Hand in Hand gegen die Maschine. Das ist unser erster Gegenschlag. Und er kommt von Menschen, nicht von Technik.
+> 그리고 그때까지 템펠호프 기사를 내요. 보리스와 넬레, 손잡고 기계에 맞선. 그게 우리 첫 반격이에요. 그리고 그건 기술이 아니라 사람한테서 와요.
