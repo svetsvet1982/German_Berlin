@@ -1,0 +1,333 @@
+@part 3
+@ep 13
+@title Die Akte Voigt
+@sub 포크트 파일 · 1월, 국방부의 서한과 경찰, 그리고 기자의 침묵권
+@info 대사 150턴 · 난이도 B2 · 배경: 2028년 1월, Spreewerk 편집국
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast BEAMTIN | 크나우어 검사보 (44) · 수사 지휘 검사
+@note ※ 핵심 법 개념: Quellenschutz(취재원 보호)·Zeugnisverweigerungsrecht(증언거부권, §53 StPO)·Beschlagnahmeverbot(압수금지, §97 StPO)·Durchsuchung(수색)·Redaktionsgeheimnis(편집 비밀). 경찰·검사는 적이 아니라 '법대로 하려는 사람'으로 공정하게 그립니다. 등장 인물은 가상입니다.
+@next 3부 14화 — «Was Sicherheit kostet»(안보의 값) — 포크트가 금요일에 답을 준다. 증언이냐 침묵이냐. 그리고 Spreewerk는 드론 기사(라벨 사기)를 언제, 누구를 보호하며 낼지 최종 결정한다.
+
+# 콜드 오픈 — DER BRIEF
+HELENE: Alle da? Gut. Der Brief liegt auf dem Tisch. Ungeöffnet. Katrin, du zuerst.
+> 다 왔어요? 좋아요. 편지가 탁자에 있어요. 안 뜯은 채로. 카트린, 당신 먼저.
+KATRIN: Bundesministerium der Verteidigung. Einschreiben. Per Boten, nicht per Post. Das heißt: Sie wollten, dass es heute ankommt.
+> 국방부. 등기. 우편이 아니라 인편으로. 그건 오늘 도착하길 원했다는 뜻이에요.
+JAN: Am selben Tag, an dem ich Voigt getroffen habe. Sie wussten es.
+> 내가 포크트를 만난 바로 그날. 그들은 알고 있었어.
+KATRIN: Vielleicht. Vielleicht Zufall. Ich öffne ihn jetzt. Alle sehen zu. Niemand fasst ihn allein an.
+> 어쩌면요. 어쩌면 우연이고요. 지금 열게요. 다 보세요. 아무도 혼자 안 만져요.
+HELENE: Lies vor.
+> 소리 내어 읽어요.
+KATRIN: «Sehr geehrte Damen und Herren. Uns liegen Hinweise vor, dass Verschlusssachen unbefugt an Ihre Redaktion gelangt sein könnten.»
+> «관계자 귀하. 비밀 자료가 귀 편집국에 무단으로 전달되었을 수 있다는 정황이 저희에게 있습니다.»
+JAN: Verschlusssachen. Sie meinen die Prioritätenliste. Die wir nie hatten.
+> 비밀 자료. 우선순위 목록을 말하는 거야. 우리가 가진 적도 없는.
+KATRIN: Weiter: «Wir fordern Sie auf, sämtliche Unterlagen und deren Quellen offenzulegen und bis zum 20. Januar schriftlich Stellung zu nehmen.»
+> 계속요. «모든 자료와 그 출처를 공개하고, 1월 20일까지 서면으로 입장을 밝힐 것을 요구합니다.»
+SWETA: Quellen offenlegen. Das werden wir nie tun. Niemals. Das ist die eine rote Linie.
+> 출처 공개. 우린 절대 안 해요. 결코. 그게 단 하나의 금지선이에요.
+LEON: Auch nicht, wenn ein Gericht es anordnet?
+> 법원이 명령해도요?
+KATRIN: Ein Gericht kann es gar nicht anordnen, Leon. Nicht gegen einen Journalisten. Das ist der ganze Sinn des Zeugnisverweigerungsrechts.
+> 법원은 명령 자체를 할 수 없어요, 레온. 기자한테는요. 그게 증언거부권의 전부의 의미예요.
+HELENE: Und selbst wenn irgendjemand irgendwann käme und es forderte: Dann gingen wir eher ins Gefängnis, als einen Namen zu nennen. So ist das.
+> 그리고 설령 언젠가 누군가 와서 요구해도요. 그럼 우린 이름을 대느니 차라리 감옥에 가요. 그런 거예요.
+KATRIN: Richtig. Und sie wissen das. Dieser Brief ist kein echter Wunsch. Er ist ein Test. Und eine Drohung.
+> 맞아요. 그리고 그들도 알아요. 이 편지는 진짜 바람이 아니에요. 시험이에요. 그리고 협박이고요.
+
+# 장면 1 — WAS SIE DÜRFEN
+LEON: Können die uns zwingen? Kann ein Ministerium einfach verlangen, dass wir die Quelle nennen?
+> 그들이 우릴 강제할 수 있어요? 부처가 그냥 취재원을 대라고 요구할 수 있어요?
+KATRIN: Nein. Kein Ministerium kann das. Journalisten haben ein Zeugnisverweigerungsrecht. Paragraf dreiundfünfzig Strafprozessordnung.
+> 아니요. 어떤 부처도 못 해요. 기자는 증언거부권이 있어요. 형사소송법 53조.
+LEON: Was heißt das genau?
+> 그게 정확히 무슨 뜻이에요?
+KATRIN: Ihr dürft schweigen. Über jede Quelle, jedes Material, jeden Namen. Kein Richter, kein Staatsanwalt kann euch zwingen zu reden.
+> 여러분은 침묵할 수 있어요. 모든 취재원, 모든 자료, 모든 이름에 대해. 어떤 판사도, 검사도 말하라고 강제 못 해요.
+JAN: Und unser Material? Können sie es beschlagnahmen? Eine Durchsuchung?
+> 그럼 우리 자료는? 압수할 수 있어요? 수색?
+KATRIN: Da gibt es den Paragrafen siebenundneunzig. Beschlagnahmeverbot. Was dem Zeugnisverweigerungsrecht unterliegt, darf nicht beschlagnahmt werden.
+> 97조가 있어요. 압수금지. 증언거부권에 속하는 건 압수할 수 없어요.
+SWETA: In der Theorie. In der Praxis stehen manchmal trotzdem Polizisten in der Redaktion. Ich habe das erlebt. Woanders.
+> 이론상으론요. 실무에선 가끔 그래도 경찰이 편집국에 서 있어요. 전 겪었어요. 다른 데서.
+KATRIN: Sweta hat recht. Das Recht schützt. Aber es schützt nicht automatisch. Man muss es durchsetzen. Laut. Sofort. Mit einem Anwalt.
+> 스베타 말이 맞아요. 법은 보호해요. 근데 자동으로 보호하지 않아요. 관철해야 해요. 큰 소리로. 즉시. 변호사와 함께.
+LEON: Aber wir haben die Prioritätenliste nie gehabt. Warum glauben sie, wir hätten sie?
+> 근데 우린 우선순위 목록을 가진 적이 없어요. 왜 우리가 가졌다고 믿죠?
+JAN: Weil wir Fragen gestellt haben, die nur jemand stellt, der den Inhalt kennt. Die Fragen selbst verraten Wissen.
+> 우리가 내용을 아는 사람만 하는 질문을 했으니까. 질문 자체가 지식을 드러내.
+KATRIN: Genau. Und das ist legal. Wissen ist nicht strafbar. Nur der Diebstahl der Unterlage wäre es. Und den hat nicht ihr begangen, sondern eine Quelle.
+> 바로요. 그리고 그건 합법이에요. 아는 건 처벌 안 돼요. 자료를 훔친 것만 처벌되고요. 그건 여러분이 아니라 취재원이 저지른 거죠.
+SWETA: Und selbst wenn die Quelle etwas Verbotenes getan hat, darf der Journalist das Ergebnis veröffentlichen. Wenn es öffentliches Interesse gibt.
+> 그리고 취재원이 금지된 일을 했어도, 기자는 그 결과를 보도할 수 있어요. 공익이 있으면요.
+KATRIN: Richtig. Das nennt man das Mitführen von Informationen. Der Bote wird nicht für die Botschaft bestraft. Das hat das Verfassungsgericht mehrfach bestätigt.
+> 맞아요. 그걸 정보 매개라고 해요. 전령은 전갈 때문에 처벌받지 않아요. 헌법재판소가 여러 번 확인했어요.
+HELENE: Dann setzen wir es durch. Katrin, was ist der nächste Schritt?
+> 그럼 관철해요. 카트린, 다음 단계가 뭐예요?
+KATRIN: Wir antworten knapp. Höflich. Wir legen nichts offen. Und wir bereiten uns auf eine Durchsuchung vor. Für den Fall.
+> 간결하게 답해요. 정중하게. 아무것도 공개 안 해요. 그리고 수색에 대비해요. 만일을 위해.
+
+# 장면 2 — VORBEREITUNG
+MIRA: Wie bereitet man sich auf eine Durchsuchung vor? Alles verstecken?
+> 수색은 어떻게 대비해요? 다 숨겨요?
+KATRIN: Nein. Nichts verstecken. Nichts löschen. Das wäre Strafvereitelung. Wir machen das Gegenteil: Wir sortieren.
+> 아니요. 아무것도 안 숨겨요. 아무것도 안 지워요. 그건 범인 은닉이 돼요. 반대로 해요. 정리해요.
+MIRA: Sortieren?
+> 정리요?
+KATRIN: Alles, was eine Quelle verrät, kommt an einen Ort. Klar als «Redaktionsmaterial» gekennzeichnet. Verschlossen. Damit es unter Paragraf siebenundneunzig fällt.
+> 취재원을 드러내는 모든 건 한 곳에 둬요. «편집 자료»라고 분명히 표시해서. 잠가서. 97조에 들어가도록요.
+JAN: Und unsere digitalen Sachen? Mira, die Originale von Tobis Foto?
+> 그럼 디지털 자료는? 미라, 토비 사진 원본은?
+MIRA: Dreifach offline. Verschlüsselt. An drei Orten, die nicht in der Redaktion sind. Das habe ich seit dem ersten Tag so gemacht.
+> 3중 오프라인. 암호화. 편집국에 없는 세 곳에. 첫날부터 그렇게 해 왔어요.
+JAN: Gut. Dann kann hier nichts verschwinden, was nicht woanders noch existiert.
+> 좋아. 그럼 여기선 다른 데 남아 있지 않은 건 아무것도 사라질 수 없어.
+MIRA: Genau. Eine Durchsuchung kann uns Zeit kosten. Aber keine einzige Information. Die ist längst in Sicherheit.
+> 바로요. 수색은 우리 시간을 뺏을 수 있어요. 근데 정보는 하나도 못 뺏어요. 벌써 안전한 곳에 있거든요.
+HELENE: Das ist der Unterschied zwischen uns und einem kleinen Blog. Wir haben uns vorbereitet, bevor die Angst kam.
+> 그게 우리랑 작은 블로그의 차이예요. 우린 두려움이 오기 전에 대비했어요.
+KATRIN: Gut. Aber ein Punkt ist heikel. Das Foto von der Bank. Der Mann, den Dana kennt. Das ist kein Quellenmaterial. Das ist eine Beobachtung.
+> 좋아요. 근데 한 가지가 미묘해요. 벤치 사진. 다나가 아는 남자. 그건 취재원 자료가 아니에요. 그건 관찰이에요.
+JAN: Also nicht geschützt?
+> 그럼 보호 안 돼요?
+KATRIN: Grauzone. Deshalb: Wir behandeln es wie Quellenmaterial, bis ein Gericht etwas anderes sagt. Vorsicht schützt mehr als Mut.
+> 회색지대예요. 그래서, 법원이 달리 말할 때까지 취재원 자료처럼 다뤄요. 조심이 용기보다 더 지켜 줘요.
+LEON: Und wenn sie trotzdem kommen und alles mitnehmen wollen?
+> 그래도 그들이 와서 전부 가져가려 하면요?
+KATRIN: Dann widersprechen wir jedem einzelnen Gegenstand. Protokollieren alles. Und wir rufen sofort die Presse. Andere Journalisten. Öffentlichkeit ist unser Schutz.
+> 그럼 물건 하나하나에 이의를 제기해요. 전부 기록하고요. 그리고 즉시 언론을 불러요. 다른 기자들을. 공개성이 우리 보호예요.
+LEON: Soll ich schon mal die Nummern von ein paar Kollegen heraussuchen? Für den Fall?
+> 미리 동료 몇 명 번호를 찾아 둘까요? 만일을 위해?
+HELENE: Ja. Vom Verband, von zwei großen Zeitungen, vom Rundfunk. Aber anrufen erst, wenn es wirklich losgeht. Nicht vorher Panik machen.
+> 네. 협회, 큰 신문 두 곳, 방송에서. 근데 전화는 진짜 시작될 때만 해요. 미리 공황 만들지 말고요.
+KATRIN: Und noch etwas: Jeder von euch merkt sich einen Satz. Nur einen. «Zu allen Fragen äußert sich unsere Anwältin.» Mehr sagt niemand.
+> 그리고 하나 더. 여러분 각자 한 문장을 외워요. 딱 하나만. «모든 질문엔 저희 변호사가 답합니다.» 그 이상은 아무도 말 안 해요.
+SWETA: Das ist wichtig. Ein freundlicher Beamter stellt eine harmlose Frage, man antwortet nett — und schon hat man eine Quelle verraten. Freundlichkeit ist eine Technik.
+> 그게 중요해요. 친절한 공무원이 무해한 질문을 하고, 상냥하게 답하면 — 벌써 취재원을 드러낸 거예요. 친절함은 기술이에요.
+JAN: Leon, das gilt besonders für dich. Nicht weil du schwach bist. Sondern weil du höflich bist. Höflichkeit ist genau die Lücke.
+> 레온, 그건 특히 너한테 해당돼. 네가 약해서가 아니라. 네가 예의 바르니까. 예의가 바로 그 틈이야.
+LEON: Verstanden. Ein Satz. «Zu allen Fragen äußert sich unsere Anwältin.» Sonst nichts.
+> 알겠어요. 한 문장. «모든 질문엔 저희 변호사가 답합니다.» 그 외엔 없음.
+
+# 장면 3 — DER ANRUF VON DANA
+DANA: Herr Kowalczyk. Nicht über Currywurst diesmal. Das ist ein offizieller Anruf. Halb offiziell.
+> 코발치크 씨. 이번엔 커리부어스트가 아니에요. 공식 전화예요. 반쯤 공식.
+JAN: Frau Schuster. Was ist passiert?
+> 슈스터 씨. 무슨 일이에요?
+DANA: Der Mann auf dem Foto. Den Sie mir geschickt haben. Ich sage Ihnen nur: Lassen Sie die Finger von ihm. Das ist kein Thal-Mann.
+> 사진 속 남자. 저한테 보낸. 이것만 말할게요. 그 사람 건드리지 마세요. 탈 쪽 사람이 아니에요.
+JAN: Kein Thal-Mann. Dann wer? MAD?
+> 탈 쪽이 아니면. 그럼 누구? MAD?
+DANA: Das sage ich nicht. Aber wenn ein Dienst einen Offizier beobachtet und Sie fotografiert dabei auftauchen, dann sind Sie plötzlich Teil einer Akte. Einer, die nicht Ihre ist.
+> 그건 말 안 해요. 근데 어떤 기관이 장교를 감시하는데 당신이 거기 사진에 찍혀 나타나면, 당신은 갑자기 한 파일의 일부가 돼요. 당신 것이 아닌 파일의.
+JAN: Ich bin in einer MAD-Akte. Als jemand, der sich mit Voigt trifft.
+> 내가 MAD 파일 안에 있다고요. 포크트를 만나는 사람으로서.
+DANA: Das haben Sie gesagt. Ich sage: Seien Sie sauber. Peinlich sauber. Die suchen jetzt einen Grund. Und ein Journalist, der Verschlusssachen hat, ist ein guter Grund.
+> 그건 당신이 말한 거예요. 전 말해요. 깨끗하게 하세요. 지나칠 만큼 깨끗하게. 그들은 지금 구실을 찾아요. 그리고 비밀 자료를 가진 기자는 좋은 구실이죠.
+JAN: Wir haben keine Verschlusssachen. Wir hatten nie welche.
+> 우린 비밀 자료 없어요. 가진 적도 없고요.
+DANA: Das glaube ich Ihnen sogar. Aber wissen Sie, was das Problem ist? Es spielt keine Rolle, was wahr ist. Es spielt eine Rolle, was man beweisen kann.
+> 그건 저도 믿어요. 근데 문제가 뭔지 아세요? 뭐가 진실인지는 중요하지 않아요. 뭘 증명할 수 있는지가 중요하죠.
+JAN: Das sagt eine Polizistin. Erschreckend.
+> 경찰이 그런 말을 하네요. 섬뜩하네요.
+DANA: Deshalb sage ich es. Ich sehe jeden Tag, wie Unschuldige in Verfahren geraten, weil jemand eine gute Geschichte erzählt hat. Eine anonyme.
+> 그래서 말하는 거예요. 전 매일 봐요. 누군가 그럴듯한 이야기를 지어내서 무고한 사람이 수사에 걸리는 걸. 익명의 이야기로요.
+JAN: Und wie schützt man sich gegen eine anonyme Geschichte?
+> 그럼 익명의 이야기로부터 어떻게 자신을 지켜요?
+DANA: Mit Protokollen. Mit Zeugen. Mit einer guten Anwältin, die jeden Schritt dokumentiert. Dokumentation ist Ihre Rüstung. Haben Sie eine?
+> 조서로요. 증인으로. 모든 단계를 기록하는 좋은 변호사로. 기록이 당신의 갑옷이에요. 있어요?
+JAN: Dr. Wollny. Die beste, die ich kenne.
+> 볼니 박사요. 제가 아는 최고요.
+DANA: Dann hören Sie auf sie. Nicht auf mich. Ich bin nur eine Stimme am Telefon, die es offiziell nie gab. Und noch etwas, Herr Kowalczyk.
+> 그럼 그분 말을 들으세요. 제 말 말고요. 전 공식적으론 존재한 적 없는 전화 속 목소리일 뿐이에요. 그리고 하나 더요, 코발치크 씨.
+JAN: Ja?
+> 네?
+DANA: Voigt. Passen Sie auf ihn auf. Ein Mann, der von zwei Seiten beobachtet wird und mit einem Journalisten redet, der hat nicht mehr viele ruhige Nächte.
+> 포크트요. 그 사람을 챙기세요. 양쪽에서 감시당하면서 기자랑 얘기하는 사람은, 조용한 밤이 얼마 안 남았어요.
+HELENE: Was hat sie gesagt? Dein Gesicht ist grau.
+> 뭐라고 했어요? 당신 얼굴이 잿빛이에요.
+JAN: Der Mann auf der Bank ist kein Thal-Mann. Wir sind in einer Akte, die uns nicht gehört. Und Dana sorgt sich um Voigt.
+> 벤치의 남자는 탈 쪽이 아니야. 우린 우리 것이 아닌 파일 안에 있어. 그리고 다나가 포크트를 걱정해.
+SWETA: Dann müssen wir Voigt eine Warnung schicken. Vorsichtig. Nicht über sein Diensthandy.
+> 그럼 포크트한테 경고를 보내야 해요. 조심히. 그 사람 업무 전화로 말고요.
+JAN: Keine Warnung. Jeder Kontakt von uns macht es für ihn schlimmer. Wenn er beobachtet wird, ist unser Anruf ein weiterer Beweis gegen ihn.
+> 경고 금지. 우리 쪽 접촉 하나하나가 그 사람한테 더 나빠지게 해. 감시당하면, 우리 전화가 그 사람한테 또 하나의 증거가 돼.
+SWETA: Also lassen wir ihn allein? Das fühlt sich falsch an.
+> 그럼 혼자 두는 거예요? 잘못된 느낌이에요.
+JAN: Wir lassen ihn nicht allein. Wir warten auf seinen Anruf. Am Freitag. Und bis dahin tun wir nichts, was ihn gefährdet. Manchmal ist Nichtstun der Schutz.
+> 혼자 두는 게 아니야. 그 사람 전화를 기다려. 금요일에. 그때까진 그 사람을 위태롭게 할 일을 아무것도 안 해. 가끔은 아무것도 안 하는 게 보호야.
+
+# 장면 4 — DIE FRAGE DER MACHT
+HELENE: Also ist das hier größer als eine Baufirma oder ein Pflegedienst. Hier geht es um einen Nachrichtendienst. Um das Ministerium.
+> 그럼 이건 건설사나 요양 서비스보다 커요. 여기선 정보기관이 걸려 있어요. 부처가요.
+JAN: Ja. Zum ersten Mal haben wir es nicht nur mit Geld zu tun. Sondern mit dem Staat selbst. Mit seiner Macht.
+> 응. 처음으로 우린 돈만 상대하는 게 아니야. 국가 자체. 그 권력을.
+SWETA: Und der Staat ist nicht böse. Das ist der Unterschied zu Moskau. Hier gibt es Regeln. Gerichte. Aber die Macht ist trotzdem da.
+> 그리고 국가가 악한 게 아니에요. 그게 모스크바와의 차이예요. 여기엔 규칙이 있어요. 법원이. 근데 권력은 그래도 있죠.
+KATRIN: Genau. In einem Rechtsstaat verliert der Staat manchmal vor Gericht. Das ist das Beste an ihm. Darauf verlassen wir uns.
+> 바로요. 법치국가에선 국가가 가끔 법정에서 져요. 그게 국가의 가장 좋은 점이에요. 우린 그걸 믿어요.
+LEON: Aber warum verschickt das Ministerium so einen Brief? Wenn sie wissen, dass wir schweigen dürfen?
+> 근데 왜 부처가 그런 편지를 보내요? 우리가 침묵해도 되는 걸 알면서?
+JAN: Weil es nicht um den Brief geht, Leon. Es geht um die Angst, die er macht. Ein kleiner Verlag denkt zweimal nach, wenn das Ministerium schreibt.
+> 편지가 목적이 아니니까, 레온. 그게 만드는 두려움이 목적이야. 작은 출판사는 부처가 편지를 쓰면 두 번 생각하거든.
+HELENE: Und genau deshalb denken wir nicht zweimal nach. Wir machen weiter. Sauber, aber weiter.
+> 그래서 바로 우린 두 번 생각 안 해요. 계속해요. 깨끗하게, 근데 계속요.
+SWETA: Es gibt einen alten Satz im Journalismus: Nachricht ist das, was jemand nicht gedruckt sehen will. Alles andere ist Werbung.
+> 저널리즘에 오래된 말이 있어요. 뉴스는 누군가 인쇄되길 원치 않는 거다. 나머지는 전부 광고다.
+JAN: Und dieser Brief sagt uns genau, was jemand nicht gedruckt sehen will. Er ist fast eine Bestätigung.
+> 그리고 이 편지는 누군가 인쇄되길 원치 않는 게 뭔지 정확히 말해 줘. 거의 확인서야.
+MIRA: Mich beunruhigt etwas anderes. Woher weiß das Ministerium, dass wir überhaupt etwas haben? Wir haben nichts veröffentlicht.
+> 저는 다른 게 불안해요. 부처가 우리가 뭔가 갖고 있다는 걸 애초에 어떻게 알죠? 우린 아무것도 안 냈는데요.
+JAN: Gute Frage. Entweder von Voigt. Oder von jemandem, der weiß, dass Voigt mit mir geredet hat.
+> 좋은 질문이야. 포크트한테서. 아니면 포크트가 나랑 얘기한 걸 아는 누군가한테서.
+SWETA: Der Mann auf der Bank. Er hat euch fotografiert. Und wenige Tage später kommt der Brief. Das ist die Kette.
+> 벤치의 남자. 당신들을 찍었어요. 그리고 며칠 뒤 편지가 오고요. 그게 연결 고리예요.
+MIRA: Also war die Beobachtung nicht nur, um Voigt zu kontrollieren. Sie war auch, um uns unter Druck zu setzen.
+> 그럼 감시는 포크트를 통제하기 위해서만이 아니었어요. 우릴 압박하기 위한 것이기도 했고요.
+HELENE: Oder beides zugleich. Wir wissen es nicht. Und genau das ist der Punkt: Sie wollen, dass wir im Dunkeln raten.
+> 아니면 둘 다 동시에요. 우린 몰라요. 그리고 바로 그게 핵심이에요. 그들은 우리가 어둠 속에서 짐작하길 원해요.
+JAN: Dann raten wir nicht. Wir schreiben auf, was wir wissen, und was wir nicht wissen. Getrennt. Diszipliniert.
+> 그럼 짐작 안 해. 우리가 아는 것과 모르는 걸 적어. 따로. 규율 있게.
+HELENE: Dann antworten wir. Höflich, kurz, und ohne ein einziges Zugeständnis. Katrin schreibt den Entwurf.
+> 그럼 답해요. 정중하게, 짧게, 단 하나의 양보도 없이. 카트린이 초안을 써요.
+
+# 장면 5 — ES KLINGELT
+LEON: Es hat geklingelt. Unten. Drei Personen. Einer in Uniform. Zwei in Zivil.
+> 벨이 울렸어요. 아래층에. 세 사람. 한 명은 제복. 둘은 사복.
+KATRIN: Ruhig. Niemand rennt. Niemand löscht etwas. Niemand sagt etwas außer mir. Ich gehe zur Tür. Jan, du filmst. Offen.
+> 침착하게. 아무도 안 뛰어요. 아무도 뭘 안 지워요. 저 말고 아무도 말 안 해요. 제가 문으로 가요. 얀, 당신은 촬영해요. 공개적으로.
+JAN: Ich filme. Gut sichtbar. Damit alle wissen, dass es dokumentiert ist.
+> 촬영해. 잘 보이게. 기록되는 걸 다들 알도록.
+BEAMTIN: Guten Tag. Staatsanwaltschaft Berlin. Mein Name ist Knauer. Wir haben einen Durchsuchungsbeschluss. Hier.
+> 안녕하세요. 베를린 검찰. 제 이름은 크나우어예요. 수색영장이 있어요. 여기요.
+KATRIN: Guten Tag, Frau Knauer. Ich bin Dr. Wollny, die Anwältin der Redaktion. Darf ich den Beschluss sehen? In Ruhe lesen?
+> 안녕하세요, 크나우어 씨. 전 볼니 박사, 편집국 변호사예요. 영장을 봐도 될까요? 차분히 읽어도요?
+BEAMTIN: Natürlich. Lesen Sie. Wir haben Zeit. Ich will hier keinen Konflikt. Ich will nur meinen Auftrag erfüllen.
+> 물론이죠. 읽으세요. 시간 있어요. 전 여기서 갈등을 원치 않아요. 그저 제 임무를 다하고 싶을 뿐이에요.
+KATRIN: Das glaube ich Ihnen. Dann erfüllen wir beide unsere Pflicht. Ihre ist der Beschluss. Meine ist der Quellenschutz.
+> 믿어요. 그럼 우리 둘 다 의무를 다해요. 당신 의무는 영장. 제 의무는 취재원 보호고요.
+BEAMTIN: Einverstanden. Ich bin keine Feindin der Presse, Frau Dr. Wollny. Aber ein Beschluss ist ein Beschluss.
+> 동의해요. 전 언론의 적이 아니에요, 볼니 박사. 근데 영장은 영장이죠.
+
+# 장면 6 — DER BESCHLUSS
+KATRIN: Der Beschluss nennt «Unterlagen zu Beschaffungsvorgängen». Aber er nennt keinen konkreten Gegenstand. Das ist zu weit.
+> 영장은 «조달 절차 관련 자료»라고 해요. 근데 구체적 물건은 안 적혀 있어요. 너무 광범위해요.
+BEAMTIN: Er ist von einem Richter unterschrieben.
+> 판사가 서명했어요.
+KATRIN: Das bestreite ich nicht. Aber Paragraf siebenundneunzig schützt Redaktionsmaterial. Alles, was eine Quelle preisgibt, ist nicht beschlagnahmefähig.
+> 그건 다투지 않아요. 근데 97조가 편집 자료를 보호해요. 취재원을 드러내는 모든 건 압수 대상이 아니에요.
+BEAMTIN: Das muss im Einzelfall geprüft werden. Nicht pauschal.
+> 그건 개별 사안으로 검토해야 해요. 일괄적으로가 아니라.
+KATRIN: Dann prüfen wir im Einzelfall. Gegenstand für Gegenstand. Und bei jedem, der eine Quelle berührt, lege ich Widerspruch ein. Sofort, protokolliert.
+> 그럼 개별로 검토해요. 물건 하나하나. 그리고 취재원에 닿는 것마다 제가 이의를 제기해요. 즉시, 기록으로요.
+BEAMTIN: Darf ich eine Sache sagen, ganz menschlich? Ich mache das nicht gern. Eine Redaktion zu durchsuchen gehört zum Unangenehmsten in meinem Beruf.
+> 하나 말해도 될까요, 아주 인간적으로? 전 이걸 좋아서 안 해요. 편집국을 수색하는 건 제 일에서 가장 불쾌한 축에 들어요.
+KATRIN: Warum tun Sie es dann?
+> 그럼 왜 하세요?
+BEAMTIN: Weil ich den Beschluss nicht ignorieren darf. Ein Richter hat ihn unterschrieben. Wenn ich ihn für falsch halte, ist der Weg der Widerspruch. Nicht die Verweigerung.
+> 영장을 무시하면 안 되니까요. 판사가 서명했어요. 틀렸다고 생각하면 길은 이의예요. 거부가 아니라.
+KATRIN: Das ist genau meine Haltung auch. Nur von der anderen Seite. Wir sind uns ähnlicher, als Sie denken.
+> 그게 바로 제 태도이기도 해요. 반대편에서요. 우린 당신 생각보다 닮았어요.
+BEAMTIN: Vielleicht. Beide an das Gesetz gebunden. Beide nicht frei. Fangen wir an. Welcher Gegenstand zuerst?
+> 어쩌면요. 둘 다 법에 매여 있고. 둘 다 자유롭지 않고요. 시작하죠. 어느 물건 먼저요?
+LEON: Darf ich zusehen? Ich schreibe mit. Für das Protokoll der Redaktion.
+> 지켜봐도 돼요? 받아 적을게요. 편집국 조서용으로요.
+BEAMTIN: Schreiben Sie ruhig mit. Wer sauber arbeitet, hat nichts gegen Zeugen.
+> 얼마든지 적으세요. 깨끗하게 일하는 사람은 증인을 꺼리지 않죠.
+BEAMTIN: Das ist Ihr gutes Recht. Dann versiegeln wir die strittigen Sachen. Ein Gericht entscheidet später. So machen wir es korrekt.
+> 그건 당신의 정당한 권리예요. 그럼 다투는 물건은 봉인해요. 법원이 나중에 결정하고요. 그렇게 제대로 해요.
+JAN: Versiegeln? Nicht mitnehmen und öffnen?
+> 봉인요? 가져가서 열지 않고요?
+BEAMTIN: Versiegeln. Niemand öffnet es, bis ein Gericht über den Widerspruch entschieden hat. Ich halte mich an das Gesetz, Herr Kowalczyk. Auch wenn Sie mir das nicht zutrauen.
+> 봉인이요. 법원이 이의에 대해 결정하기 전엔 아무도 안 열어요. 전 법을 지켜요, 코발치크 씨. 당신이 절 못 믿어도요.
+JAN: Ich traue es Ihnen zu. Entschuldigung. Ich bin es nur nicht gewohnt, dass jemand mit Macht sich an die Regeln hält.
+> 믿어요. 죄송해요. 그저 권력 가진 사람이 규칙을 지키는 게 익숙지 않아서요.
+BEAMTIN: Dann haben Sie bisher die Falschen getroffen. Es gibt uns beide. Die, die Regeln beugen. Und die, die sie halten.
+> 그럼 지금까지 잘못된 사람들을 만난 거예요. 우린 둘 다 있어요. 규칙을 구부리는 사람. 그리고 지키는 사람.
+
+# 장면 7 — WAS VERSIEGELT WIRD
+MIRA: Sie wollen meinen Rechner. Da sind keine Quellen drauf, aber sie wissen das nicht.
+> 제 컴퓨터를 원해요. 거기 취재원은 없는데, 그들은 그걸 몰라요.
+KATRIN: Dann sagen wir es, aber öffnen nichts. Wir erklären: Arbeitsrechner, kein Quellenmaterial. Und wenn sie zweifeln, wird er versiegelt. Nicht durchsucht.
+> 그럼 그렇게 말하되 아무것도 안 열어요. 설명해요. 업무용 컴퓨터, 취재원 자료 없음. 그래도 의심하면 봉인돼요. 수색이 아니라.
+BEAMTIN: Gibt es auf diesem Gerät Kommunikation mit Informanten?
+> 이 기기에 제보자와의 교신이 있어요?
+KATRIN: Diese Frage beantworten wir nicht. Nicht weil wir etwas verbergen, sondern weil die Antwort selbst schon eine Quelle verraten könnte.
+> 그 질문엔 답 안 해요. 뭘 숨겨서가 아니라, 답 자체가 이미 취재원을 드러낼 수 있어서요.
+BEAMTIN: Verstanden. Dann versiegelt. Herr Schulz, bitte protokollieren Sie: Rechner Aydın, versiegelt, nicht geöffnet, auf Widerspruch der Verteidigung.
+> 알겠어요. 그럼 봉인. 슐츠 씨, 기록하세요. 아이든 컴퓨터, 봉인, 미개봉, 변호인 이의에 따라.
+JAN: Und das Foto von der Bank? Sie wissen nichts davon. Sollen wir es erwähnen?
+> 그럼 벤치 사진은? 그들은 모르잖아. 언급해야 해?
+KATRIN: Nein. Wir bieten nichts an, wonach nicht gefragt wird. Wir lügen nicht, aber wir helfen der Durchsuchung nicht. Das ist der Unterschied.
+> 아니요. 묻지 않은 건 내놓지 않아요. 거짓말은 안 하되, 수색을 돕지도 않아요. 그게 차이예요.
+BEAMTIN: Und dieser Aktenschrank? Verschlossen. Beschriftet «Redaktionsmaterial».
+> 그럼 이 서류 캐비닛은요? 잠겨 있고. «편집 자료»라고 적혀 있네요.
+KATRIN: Genau das. Alles darin unterliegt dem Zeugnisverweigerungsrecht. Ich widerspreche einer Öffnung. Vollständig.
+> 바로 그거예요. 그 안의 모든 건 증언거부권에 속해요. 개봉에 이의를 제기해요. 전부요.
+BEAMTIN: Dann wird der Schrank als Ganzes versiegelt. Ungeöffnet. Herr Schulz, Siegel anbringen, Nummer drei.
+> 그럼 캐비닛을 통째로 봉인해요. 미개봉. 슐츠 씨, 봉인 부착, 3번.
+JAN: Sie öffnen ihn wirklich nicht?
+> 정말 안 여세요?
+BEAMTIN: Ich sagte es schon. Ein Siegel ist ein Versprechen an das Gericht. Breche ich es, bin ich die Täterin. Das will ich nicht sein.
+> 이미 말했잖아요. 봉인은 법원에 대한 약속이에요. 깨면 제가 가해자가 돼요. 그러고 싶지 않아요.
+LEON: Das fühlt sich seltsam an. Als wären wir die Verdächtigen. Dabei haben wir nur unsere Arbeit gemacht.
+> 이상해요. 우리가 용의자 같아요. 우린 그저 할 일을 했을 뿐인데요.
+JAN: So fühlt es sich an, Leon. Jedes Mal. Die Wahrheit zu sagen macht dich nie zum Helden. Erst zum Verdächtigen.
+> 그렇게 느껴지지, 레온. 매번. 진실을 말한다고 결코 영웅이 되진 않아. 먼저 용의자가 되지.
+SWETA: Und dann, viel später, manchmal zum Helden. Wenn du lange genug durchhältst. Die meisten halten nicht durch.
+> 그리고 한참 뒤에, 가끔 영웅이 되죠. 충분히 오래 버티면요. 대부분은 못 버텨요.
+KATRIN: Fürs Protokoll, Frau Knauer: Die Verteidigung hält fest, dass drei Gegenstände nur versiegelt, nicht durchsucht wurden. Und dass kein Quellenname genannt wurde.
+> 조서를 위해 하나, 크나우어 씨. 변호인은 세 물건이 수색이 아니라 봉인만 됐음을 확인합니다. 그리고 어떤 취재원 이름도 거명되지 않았음을요.
+BEAMTIN: Das halte ich fest. Wörtlich. Sie haben eine gründliche Anwältin, meine Herrschaften. Nutzen Sie das.
+> 그걸 기록해요. 그대로. 여러분은 꼼꼼한 변호사를 뒀네요. 그걸 활용하세요.
+
+# 엔딩 — NACH DER DURCHSUCHUNG
+BEAMTIN: Wir sind fertig. Drei versiegelte Gegenstände. Das Protokoll, bitte gegenzeichnen. Und eine Kopie für Sie.
+> 끝났어요. 봉인 물건 셋. 조서에 공동 서명 부탁해요. 그리고 사본 한 부 드려요.
+KATRIN: Danke. Und, Frau Knauer, eine Frage, ganz offen: Wer hat die Durchsuchung beantragt? Das Ministerium?
+> 고마워요. 그리고 크나우어 씨, 아주 솔직하게 하나 물을게요. 수색을 누가 신청했어요? 부처가요?
+BEAMTIN: Das steht im Beschluss. Eine Strafanzeige wegen Verrats von Dienstgeheimnissen. Anzeigenerstatter: unbekannt. Die Anzeige kam anonym.
+> 영장에 적혀 있어요. 직무상 비밀 누설 혐의 고발. 고발인: 미상. 고발은 익명으로 왔어요.
+JAN: Anonym. Wieder anonym. Wie bei Roloff. Wie der Hinweis auf die Steuerprüfung.
+> 익명. 또 익명. 롤로프 때처럼. 세무조사 제보처럼.
+KATRIN: Eine anonyme Anzeige setzt den ganzen Staatsapparat in Bewegung. Gegen eine Redaktion. Das ist elegant. Und feige.
+> 익명 고발 하나가 국가 기관 전체를 움직여요. 편집국을 향해. 우아하죠. 그리고 비겁하고요.
+BEAMTIN: Das haben Sie gesagt, Frau Dr. Wollny. Nicht ich. Auf Wiedersehen. Und, Herr Kowalczyk: Was auch immer Sie haben, bringen Sie es sauber vor Gericht. Nicht in die Schlagzeile.
+> 그건 당신이 말한 거예요, 볼니 박사. 제가 아니라. 안녕히 계세요. 그리고 코발치크 씨, 뭘 가졌든 법정에 깨끗하게 내세요. 헤드라인이 아니라.
+JAN: Das war fast ein Rat.
+> 거의 조언이었네.
+HELENE: Es war ein Rat. Von einer, die ihre Arbeit ernst nimmt. Die gibt es auch. Vergiss das nie, Jan.
+> 조언이었어요. 자기 일을 진지하게 여기는 사람의. 그런 사람도 있어요. 절대 잊지 마요, 얀.
+JAN: Ich vergesse es nicht. Und jetzt? Die versiegelten Sachen sind weg. Aber die Originale von Tobis Foto sind sicher. Dreifach.
+> 안 잊어요. 그럼 이제? 봉인 물건은 갔어. 근데 토비 사진 원본은 안전해. 3중으로.
+KATRIN: Jetzt kommt die Arbeit nach der Durchsuchung. Ich lege Beschwerde gegen den Beschluss ein. Er war zu unbestimmt. Das Gericht wird das prüfen.
+> 이제 수색 뒤의 일이 와요. 영장에 항고를 넣어요. 너무 불특정했어요. 법원이 검토할 거예요.
+JAN: Und wenn das Gericht uns recht gibt?
+> 법원이 우리 손을 들어 주면?
+KATRIN: Dann waren die versiegelten Sachen rechtswidrig genommen. Sie kommen zurück. Und wir haben ein Urteil, das uns beim nächsten Mal schützt.
+> 그럼 봉인 물건은 위법하게 가져간 게 돼요. 돌아와요. 그리고 우린 다음번에 우릴 지켜 줄 판결을 얻고요.
+SWETA: Und wenn nicht?
+> 안 그러면요?
+KATRIN: Dann gehen wir höher. Bis zum Verfassungsgericht, wenn es sein muss. Das dauert Jahre. Aber wir geben keine Quelle preis. Nie.
+> 그럼 더 위로 가요. 필요하면 헌법재판소까지. 몇 년 걸려요. 근데 취재원은 안 내줘요. 결코.
+HELENE: Und bis dahin erscheint die Geschichte trotzdem. Die Durchsuchung ändert nichts an den Fakten. Nur an unserem Mut, sie zu drucken.
+> 그리고 그때까지 기사는 그래도 나와요. 수색은 사실을 바꾸지 않아요. 그걸 인쇄할 우리 용기만 건드리죠.
+JAN: Dann drucken wir mit Mut. Leon, schreib die Durchsuchung auf. Jedes Detail. Das wird selbst eine Geschichte.
+> 그럼 용기 있게 인쇄해. 레온, 수색을 기록해. 세부 하나하나. 그게 그 자체로 기사가 돼.
+LEON: Eine Geschichte über eine Durchsuchung bei denen, die eine Geschichte vorbereiten.
+> 기사를 준비하는 사람들에 대한 수색 기사요.
+JAN: Genau. Nichts fürchtet die Macht so wie das Licht auf sich selbst. Mira, und am Freitag?
+> 바로 그거야. 권력은 자기 자신에게 비치는 빛만큼 무서운 게 없어. 미라, 그럼 금요일은?
+MIRA: Und am Freitag ruft Voigt an. Dann wissen wir, ob wir einen Zeugen haben. Oder nur eine Akte.
+> 그리고 금요일에 포크트가 전화해요. 그때 알아요. 우리한테 증인이 있는지. 아니면 파일만 있는지.
+MIRA: Ich habe Angst, dass er nicht anruft, Jan. Ein Mann, der von zwei Diensten beobachtet wird, überlegt es sich oft anders.
+> 그 사람이 전화 안 할까 봐 무서워요, 얀. 두 기관한테 감시당하는 사람은 자주 마음을 바꾸거든요.
+JAN: Dann haben wir die Fakten ohne ihn. Aber mit ihm hätten wir ein Gesicht. Und ein Gesicht erklärt mehr als jede Akte.
+> 그럼 그 사람 없이 사실을 갖는 거지. 근데 그 사람이 있으면 우린 얼굴을 갖게 돼. 그리고 얼굴 하나가 어떤 파일보다 더 많이 설명해.
