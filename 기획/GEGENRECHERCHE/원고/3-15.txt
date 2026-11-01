@@ -1,0 +1,334 @@
+@part 3
+@ep 15
+@title Jonas geht zur Musterung
+@sub 요나스가 신체검사를 받으러 간다 · 토요일, 기사가 나간 뒤의 세상
+@info 대사 150턴 · 난이도 B2 · 배경: 2028년 1월 토요일, 레온의 가족 집(노이쾰른)과 징병검사소 앞, 그리고 월요일 편집국 · 3부 피날레
+@cast LEON | 레온 피셔 (24) · 기자
+@cast JONAS | 요나스 피셔 (18) · 레온의 동생, 고졸 예정
+@cast MUTTER | 피셔 부인 (51) · 레온·요나스의 어머니, 간호조무사
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast VOIGT | 라이너 포크트 중령 (54) · 국방부 조달 기획국 현역 장교
+@note ※ 3부 피날레. 액션이 아니라 '사람'의 에피소드입니다. '안보·조달·드론'이 추상이 아니라 18세 청년 한 명임을 가족의 눈으로 봅니다. 2025~2026년 독일의 병역 논쟁(신병역 모델·설문·자원 우선)을 반영하되 정치 선동 없이. 기사가 세상에 나간 뒤의 잔잔한 여파로 3부를 닫고 4부(선거·디스인포)로 넘어갑니다. 등장 인물은 가상.
+@note ※ 표현 초점: die Musterung · der Fragebogen · wehrpflichtig · der Wehrdienst · die Tauglichkeit · freiwillig · Verantwortung
+@next 4부 1화 — «Doppelgänger»(도플갱어) — 선거를 앞두고 한 지역 정치인의 '가짜 영상'이 퍼진다. Spreewerk가 처음으로 디스인포메이션(허위조작정보)과 딥페이크의 세계로 들어선다. 스베타의 과거가 중심에 온다.
+
+# 콜드 오픈 — SAMSTAGMORGEN
+MUTTER: Jonas! Steh auf! Du darfst nicht zu spät zur Musterung kommen. Nicht heute.
+> 요나스! 일어나! 신체검사에 늦으면 안 돼. 오늘은 안 돼.
+JONAS: Ich bin wach, Mama. Seit sechs. Ich konnte sowieso nicht schlafen.
+> 깨어 있어요, 엄마. 6시부터요. 어차피 못 잤어요.
+MUTTER: Hast du den Brief? Den Fragebogen? Deinen Ausweis?
+> 편지 챙겼어? 설문지? 신분증은?
+JONAS: Alles hier. Dreimal nachgeschaut. Mama, es ist nur eine Untersuchung. Noch kein Einzug.
+> 다 여기요. 세 번 확인했어요. 엄마, 그냥 검사일 뿐이에요. 아직 입대가 아니라.
+MUTTER: Nur eine Untersuchung. So fängt es immer an. Mit einem «nur». Leon, sag ihm, dass das nicht «nur» ist.
+> 그냥 검사라니. 늘 그렇게 시작하지. '그냥'으로. 레온, 네가 걔한테 그게 '그냥'이 아니라고 말해 줘.
+LEON: Mama, lass ihn. Er ist ruhig. Das ist gut. Panik hilft niemandem heute Morgen.
+> 엄마, 걔 놔둬요. 침착하잖아요. 좋은 거예요. 오늘 아침엔 공황이 아무한테도 도움 안 돼요.
+MUTTER: Du redest wie dein Vater. Der war auch immer ruhig. Bis zu dem Tag, an dem er nicht mehr da war.
+> 네 아빠처럼 말하는구나. 그이도 늘 침착했지. 더는 곁에 없던 그날까지.
+LEON: Papa ist an einem Herzinfarkt gestorben, Mama. Nicht beim Militär. Das ist nicht dasselbe.
+> 아빤 심근경색으로 돌아가셨어요, 엄마. 군대에서가 아니라. 그건 같지 않아요.
+MUTTER: Ich weiß. Ich weiß. Ich habe nur Angst, wenn ich einen meiner Söhne irgendwohin gehen lasse, wo ich nicht mitkann.
+> 알아. 알아. 그저 내 아들 하나를 내가 따라갈 수 없는 어딘가로 보내는 게 무서울 뿐이야.
+JONAS: Du kommst doch mit bis zur Tür, Mama. Weiter lassen sie dich nicht. Das ist bei allen so.
+> 문까지는 같이 가잖아요, 엄마. 더는 못 들어가게 해요. 다 그래요.
+MUTTER: Iss wenigstens etwas. Du kannst nicht mit leerem Magen zu so etwas gehen.
+> 뭐라도 먹어. 빈속으로 그런 데 가면 안 돼.
+JONAS: Mama, es ist keine Operation. Es ist eine Untersuchung. Aber gut, ich esse ein Brot. Für dich.
+> 엄마, 수술이 아니에요. 검사예요. 근데 알았어요, 빵 하나 먹을게요. 엄마 위해서.
+MUTTER: Nicht für mich. Für dich. Und Leon, du fährst? Ich zittere zu sehr.
+> 날 위해서가 아니라. 널 위해서. 그리고 레온, 네가 운전하지? 난 너무 떨려.
+LEON: Ich fahre, Mama. Setz dich, trink deinen Kaffee. Wir haben genug Zeit. Ich habe extra früh Schluss gemacht gestern.
+> 제가 몰아요, 엄마. 앉아서 커피 드세요. 시간 넉넉해요. 어제 일부러 일찍 끝냈어요.
+MUTTER: Du hast wegen deines Bruders früher Schluss gemacht? Bei dieser wichtigen Arbeit?
+> 동생 때문에 일찍 끝냈어? 그 중요한 일인데?
+LEON: Meine Chefin hat gesagt, ich soll heute nur ein Bruder sein. Kein Journalist. Sie ist klüger als ich in solchen Dingen.
+> 제 상사가 오늘은 그냥 형만 되라고 했어요. 기자 말고. 그런 일엔 저보다 현명한 분이에요.
+MUTTER: Dann ist sie eine gute Frau, deine Chefin. Richte ihr das aus.
+> 그럼 좋은 사람이구나, 네 상사가. 그렇게 전해 줘.
+
+# 장면 1 — DER FRAGEBOGEN
+JONAS: Leon, du hast doch Ahnung. Was fragen die da? Im Fragebogen?
+> 레온, 형은 좀 알잖아. 거기서 뭘 물어? 설문지에서?
+LEON: Gesundheit vor allem. Brille, Allergien, Operationen. Wie fit du bist. Ob du Sport machst. Ob du rauchst.
+> 무엇보다 건강. 안경, 알레르기, 수술. 얼마나 건강한지. 운동하는지. 담배 피우는지.
+JONAS: Und fragen die auch, ob ich will? Ob ich freiwillig dienen würde?
+> 그리고 내가 원하는지도 물어? 자원해서 복무할지?
+LEON: Ja. Genau das steht jetzt drin. Seit der Reform. Ob du dir vorstellen kannst, freiwillig zu dienen. Und in welchem Bereich.
+> 응. 바로 그게 이제 들어 있어. 개혁 이후로. 자원 복무를 상상할 수 있는지. 그리고 어느 분야에서.
+JONAS: Und was schreibt man da? Die Wahrheit?
+> 거기 뭐라고 써? 진실을?
+LEON: Immer die Wahrheit, Jonas. Was du wirklich denkst. Das ist kein Vertrag. Das ist eine Frage. Du darfst ehrlich sein.
+> 늘 진실을, 요나스. 네가 정말 생각하는 거. 그건 계약이 아니야. 질문이야. 솔직해도 돼.
+JONAS: Und wenn ich schreibe, ich weiß es nicht? Ist das erlaubt?
+> 모르겠다고 쓰면? 그래도 돼?
+LEON: Das ist die ehrlichste Antwort, die es gibt. Mit achtzehn weiß kaum jemand, ob er dienen will. Ich wusste es auch nicht.
+> 그게 있을 수 있는 가장 솔직한 답이야. 열여덟에 복무하고 싶은지 아는 사람은 거의 없어. 나도 몰랐어.
+JONAS: Du warst nie beim Bund. Wie hast du das gemacht?
+> 형은 군대 안 갔잖아. 어떻게 한 거야?
+LEON: Mein Jahrgang war noch anders. Und ich habe studiert. Aber ehrlich, Jonas: Ich habe mich auch ein bisschen gedrückt. Das sage ich dir offen.
+> 내 연도는 아직 달랐어. 그리고 난 공부했고. 근데 솔직히, 요나스, 나도 좀 피했어. 그건 너한테 터놓고 말할게.
+JONAS: Warum erzählst du mir das? Du könntest den großen Bruder spielen.
+> 왜 그걸 나한테 말해? 멋진 형 노릇을 할 수도 있잖아.
+LEON: Weil ich dich nicht belügen will. Heute nicht. Du gehst gleich los und entscheidest etwas über dich. Da hast du ein Recht auf einen ehrlichen Bruder.
+> 너한테 거짓말하고 싶지 않으니까. 오늘은 아니야. 넌 곧 나가서 너 자신에 대한 뭔가를 결정해. 그럴 땐 솔직한 형을 가질 권리가 있어.
+JONAS: Darf ich dich was Ernstes fragen? Hast du manchmal das Gefühl, du hast dich gedrückt, als du jünger warst?
+> 진지한 거 물어도 돼? 형 가끔 어릴 때 피했다는 기분 들어?
+LEON: Ehrlich? Ja. Manchmal. Nicht oft, aber manchmal, wenn ich über Soldaten schreibe, die ich bewundere.
+> 솔직히? 응. 가끔. 자주는 아니고, 근데 가끔, 내가 존경하는 병사들에 대해 쓸 때.
+JONAS: Und was machst du mit dem Gefühl?
+> 그럼 그 기분을 어떻게 해?
+LEON: Ich versuche, meine Arbeit so gut zu machen, dass sie auf ihre Art ein Dienst ist. Jeder dient anders. Manche mit der Waffe. Manche mit der Wahrheit.
+> 난 내 일을 아주 잘하려고 해. 그게 나름의 방식으로 봉사가 되도록. 사람마다 다르게 봉사해. 어떤 사람은 무기로. 어떤 사람은 진실로.
+JONAS: Dienst mit der Wahrheit. Das klingt groß.
+> 진실로 봉사. 거창하게 들리네.
+LEON: Es ist nicht groß. Es ist oft langweilig. Tabellen, Telefonate, Absagen. Aber hin und wieder ändert es etwas. Und dann ist es jeden langweiligen Tag wert.
+> 거창하지 않아. 자주 지루해. 표, 전화, 거절. 근데 이따금 뭔가를 바꿔. 그럼 지루했던 모든 날이 값어치가 있지.
+JONAS: Dann sind wir vielleicht gar nicht so verschieden. Du mit deiner Wahrheit, ich vielleicht mal mit meinem Dienst.
+> 그럼 우리 어쩌면 그렇게 다르지 않네. 형은 형 진실로, 나는 어쩌면 언젠가 내 복무로.
+LEON: Vielleicht nicht. Und das hier, dieses Gespräch im Auto, werde ich nie vergessen. Egal, was du heute ankreuzt.
+> 어쩌면 아니지. 그리고 이거, 차 안에서의 이 대화는, 난 결코 안 잊을 거야. 네가 오늘 뭘 표시하든.
+
+# 장면 2 — WAS LEON WEISS, ABER NICHT SAGT
+JONAS: Du arbeitest doch bei dieser Zeitung. Dieser Investigativ-Sache. Schreibt ihr über die Bundeswehr?
+> 형 그 신문에서 일하잖아. 그 탐사 보도. 연방군에 대해 써?
+LEON: Manchmal. Im Moment an einer großen Sache. Aber darüber darf ich nicht reden. Nicht mal mit dir. Besonders nicht heute.
+> 가끔. 지금은 큰 건을 하고 있어. 근데 그건 얘기하면 안 돼. 너한테도. 특히 오늘은.
+JONAS: Ist es was Schlimmes? Über die Ausrüstung? Ich hab gehört, manches funktioniert nicht.
+> 나쁜 거야? 장비에 대한? 어떤 건 작동 안 한다고 들었어.
+LEON: Jonas. Ich kann wirklich nichts sagen. Aber ich sage dir eins, als dein Bruder, nicht als Journalist.
+> 요나스. 난 정말 아무 말도 못 해. 근데 하나는 말할게, 네 형으로서, 기자로서가 아니라.
+JONAS: Was?
+> 뭔데?
+LEON: Es gibt Leute, die dafür kämpfen, dass das, was du vielleicht mal in die Hand bekommst, funktioniert. Wirklich funktioniert. Das ist meine Arbeit.
+> 네가 언젠가 손에 쥘지도 모르는 게 작동하도록, 진짜로 작동하도록 싸우는 사람들이 있어. 그게 내 일이야.
+JONAS: Dann schreibt ihr nicht gegen die Soldaten. Ihr schreibt für sie.
+> 그럼 형들은 병사들에 맞서 쓰는 게 아니네. 병사들을 위해 쓰는 거네.
+LEON: Genau das, Jonas. Genau das. Und dass du das verstehst, ohne dass ich es erklären darf, macht mich stolz.
+> 바로 그거야, 요나스. 바로 그거. 그리고 내가 설명할 수 없는데도 네가 그걸 이해한다는 게 날 자랑스럽게 해.
+JONAS: Ich bin nicht dumm, nur weil ich der Kleine bin.
+> 내가 막내라고 멍청한 게 아니야.
+LEON: Das warst du nie. Komm, Mama wartet am Auto. Und sie hat garantiert dreimal gefragt, ob du gefrühstückt hast.
+> 넌 한 번도 안 그랬어. 가자, 엄마가 차에서 기다려. 그리고 분명 네가 아침 먹었는지 세 번은 물었을걸.
+
+# 장면 3 — VOR DEM KREISWEHRERSATZAMT
+MUTTER: So viele junge Leute. Schau, Jonas. Du bist nicht allein. Das ganze Land schickt heute seine Kinder.
+> 젊은 사람이 참 많네. 봐, 요나스. 너 혼자가 아니야. 온 나라가 오늘 자기 아이들을 보내.
+JONAS: Die meisten sehen genauso nervös aus wie ich. Das ist irgendwie beruhigend.
+> 대부분 나만큼 긴장돼 보여. 어쩐지 안심이 돼.
+MUTTER: Siehst du das Mädchen da? Mädchen müssen jetzt auch den Fragebogen ausfüllen. Das war zu meiner Zeit anders.
+> 저기 여자애 보이니? 여자애들도 이제 설문지를 작성해야 해. 내 시절엔 달랐지.
+LEON: Ausfüllen ja, Mama. Zur Musterung müssen vorerst nur die jungen Männer. Aber die Debatte läuft. Vielleicht ändert sich auch das.
+> 작성은 그래요, 엄마. 신체검사는 당분간 젊은 남자만요. 근데 논쟁이 진행 중이에요. 어쩌면 그것도 바뀌겠죠.
+JONAS: Wäre das gerechter? Wenn alle müssten? Jungs und Mädchen?
+> 그게 더 공정할까? 모두가 해야 한다면? 남자도 여자도?
+LEON: Das ist eine der großen Fragen gerade. Es gibt gute Argumente auf beiden Seiten. Ich habe selbst keine fertige Meinung.
+> 그게 지금 큰 질문 중 하나야. 양쪽에 다 좋은 논거가 있어. 나도 완성된 의견은 없어.
+JONAS: Ein Journalist ohne Meinung. Komisch.
+> 의견 없는 기자라니. 이상하네.
+LEON: Ein guter Journalist hat über manche Dinge erst eine Meinung, wenn er alle Seiten gehört hat. Sonst sucht man nur Bestätigung.
+> 좋은 기자는 어떤 것들에 대해선 모든 쪽을 다 듣고 나서야 의견을 가져. 안 그러면 확증만 찾게 되거든.
+MUTTER: Dein Vater hätte eine Meinung gehabt. Sofort. Und laut.
+> 네 아빠라면 의견이 있었을 거야. 당장. 그리고 큰 소리로.
+LEON: Ja. Und manchmal vermisse ich das. Diese Sicherheit. Aber mein Beruf hat mir das Zweifeln beigebracht. Das ist nicht schlechter. Nur anders.
+> 네. 가끔 그게 그리워요. 그 확신이. 근데 제 직업이 저한테 의심하는 걸 가르쳤어요. 그게 더 나쁜 건 아니에요. 그냥 다른 거죠.
+JONAS: Da drüben, der Mann mit dem Schild. Was steht da? «Kriegsdienst? Nein danke.»
+> 저쪽, 팻말 든 남자. 뭐라고 쓰여 있어? «전쟁 복무? 사양합니다.»
+LEON: Ein Kriegsdienstgegner. Der hat auch ein Recht, da zu stehen. Das Recht, Nein zu sagen, gehört zu dem, wofür Soldaten da sind.
+> 병역 거부자야. 저 사람도 거기 설 권리가 있어. 아니라고 말할 권리는 병사들이 지키려는 것의 일부야.
+JONAS: Das ist verwirrend. Der Soldat schützt das Recht, kein Soldat sein zu müssen?
+> 헷갈리네. 병사가 병사 안 돼도 될 권리를 지킨다고?
+LEON: Genau das. Das ist der Kern einer Demokratie, Jonas. Du darfst sogar gegen das sein, was dich beschützt. Das gibt es nicht überall.
+> 바로 그거야. 그게 민주주의의 핵심이야, 요나스. 넌 널 지켜 주는 것에 반대할 수조차 있어. 그건 어디에나 있는 게 아니야.
+MUTTER: In meiner alten Heimat gab es das nicht. Da stand man in der Reihe und schwieg. Hier darf einer ein Schild halten. Das ist ein Unterschied.
+> 내 옛 고향엔 그런 게 없었어. 줄에 서서 입 다물었지. 여기선 누가 팻말을 들 수 있어. 그게 차이야.
+JONAS: Ich wusste gar nicht, dass du das so siehst, Mama.
+> 엄마가 그렇게 보는 줄 몰랐어요.
+MUTTER: Es gibt viel, was du noch nicht über mich weißt. Heute lernst du etwas über dich. Vielleicht lernst du auch etwas über mich.
+> 네가 아직 나에 대해 모르는 게 많아. 오늘 넌 너 자신에 대해 뭔가 배우지. 어쩌면 나에 대해서도 뭔가 배우고.
+
+# 장면 4 — DER ABSCHIED AN DER TÜR
+JONAS: Okay. Das ist die Tür. Ab hier allein. Mama, nicht weinen. Bitte.
+> 자. 저게 문이야. 여기부턴 혼자야. 엄마, 울지 마요. 제발.
+MUTTER: Ich weine nicht. Ich habe nur was im Auge. Beide Augen. Geh. Und sei ehrlich bei den Fragen.
+> 안 울어. 그냥 눈에 뭐가 들어갔어. 양쪽 다. 가. 그리고 질문엔 솔직하게.
+JONAS: Werde ich. Leon hat gesagt, immer die Wahrheit. Sogar wenn die Wahrheit «ich weiß es nicht» ist.
+> 그럴게요. 레온이 그랬어요, 늘 진실을. 진실이 '모르겠다'일 때조차도.
+LEON: Genau. Und Jonas: Egal, was heute rauskommt — tauglich, untauglich, egal. Du bist danach derselbe Mensch. Vergiss das nicht.
+> 맞아. 그리고 요나스, 오늘 뭐가 나오든 — 적격이든, 부적격이든, 상관없어. 넌 그 뒤에도 같은 사람이야. 잊지 마.
+JONAS: Und wenn ich tauglich bin und mich dann freiwillig melde? Wärst du dann sauer?
+> 적격이 나와서 내가 자원하면? 그럼 형 화낼 거야?
+LEON: Sauer? Nein. Ich hätte Angst. Das gebe ich zu. Aber sauer nicht. Es wäre deine Entscheidung. Und ich würde sie respektieren.
+> 화? 아니. 무서울 거야. 그건 인정해. 근데 화는 안 나. 네 결정일 테니까. 그리고 난 그걸 존중할 거야.
+JONAS: Auch wenn du Angst hast?
+> 형이 무서워해도?
+LEON: Gerade dann. Respekt ist nicht, wenn man einverstanden ist. Respekt ist, wenn man Angst hat und trotzdem die Entscheidung des anderen stehen lässt.
+> 바로 그때야. 존중은 동의할 때가 아니야. 존중은 무서워하면서도 상대의 결정을 그대로 두는 거야.
+JONAS: Das klingt wie ein Satz aus deinen Artikeln.
+> 그거 형 기사에 나오는 문장 같아.
+LEON: Vielleicht. Oder meine Artikel klingen wie das, was ich heute meinem Bruder sage. Manchmal weiß ich nicht, was zuerst da war.
+> 어쩌면. 아니면 내 기사가 오늘 내가 동생한테 하는 말처럼 들리거나. 가끔 뭐가 먼저였는지 모르겠어.
+MUTTER: Geh jetzt, mein Junge. Sie rufen deine Nummer schon. Wir sind hier. Die ganze Zeit. Direkt vor dieser Tür.
+> 이제 가, 우리 아들. 벌써 네 번호를 불러. 우린 여기 있어. 내내. 바로 이 문 앞에.
+
+# 장면 5 — DAS WARTEN
+MUTTER: Drei Stunden. Was machen die drei Stunden mit einem Achtzehnjährigen?
+> 세 시간. 세 시간 동안 열여덟 살한테 뭘 하는 거니?
+LEON: Messen, wiegen, Augen, Ohren, Blut, ein Gespräch. Und der Fragebogen wird besprochen. Es ist gründlich. Aber es tut nicht weh.
+> 재고, 몸무게 달고, 눈, 귀, 피, 면담. 그리고 설문지를 함께 검토해요. 꼼꼼해요. 근데 아프진 않아요.
+MUTTER: Und dann wissen die, ob mein Sohn «tauglich» ist. Als wäre er ein Werkzeug. Tauglich oder nicht.
+> 그리고 그들은 내 아들이 '적격'인지 알게 되지. 걔가 무슨 도구인 것처럼. 적격이냐 아니냐.
+LEON: Das Wort ist hart, ich weiß. «Tauglich.» Aber dahinter steckt auch Fürsorge. Sie wollen keinen schicken, dem es schadet.
+> 그 단어가 딱딱한 거 알아요. '적격'. 근데 그 뒤엔 보살핌도 있어요. 해가 될 사람은 안 보내려는 거예요.
+MUTTER: Fürsorge. Von einem Amt. Das glaubst du wirklich?
+> 보살핌. 관청한테서. 정말 그렇게 믿니?
+LEON: Ich habe gelernt, Mama, dass es beides gibt. Ämter, die Menschen zu Nummern machen. Und Menschen in Ämtern, die ihre Arbeit mit Gewissen tun.
+> 전 배웠어요, 엄마. 둘 다 있다는 걸. 사람을 번호로 만드는 관청도. 그리고 관청 안에서 양심으로 일하는 사람도요.
+MUTTER: Wann bist du so weise geworden? Gestern warst du noch der Junge, der seine Socken nicht findet.
+> 언제 그렇게 지혜로워졌니? 어제만 해도 양말을 못 찾던 애였는데.
+LEON: Ich finde meine Socken immer noch nicht, Mama. Ich habe nur gelernt, bei anderen Dingen genauer hinzuschauen.
+> 지금도 양말 못 찾아요, 엄마. 그냥 다른 것들을 더 자세히 보는 법을 배웠을 뿐이에요.
+MUTTER: Erzählst du mir von deiner Arbeit? Nur so viel, wie du darfst. Ich würde gern verstehen, was dich diese Woche so müde gemacht hat.
+> 네 일 얘기 좀 해 줄래? 네가 할 수 있는 만큼만. 이번 주에 뭐가 널 그렇게 지치게 했는지 알고 싶구나.
+LEON: Ich darf nicht viel sagen, Mama. Aber so viel: Es geht um Ausrüstung für Soldaten. Ob sie das bekommen, was sie brauchen. Oder nur das, was jemand verkaufen will.
+> 많이는 말 못 해요, 엄마. 근데 이 정도는. 병사들 장비에 관한 거예요. 그들이 필요한 걸 받는지. 아니면 누가 팔고 싶은 것만 받는지.
+MUTTER: Und heute sitzt dein Bruder da drin, der vielleicht genau diese Ausrüstung mal braucht.
+> 그리고 오늘 네 동생이 저 안에 앉아 있지, 어쩌면 바로 그 장비가 언젠가 필요할.
+LEON: Genau das. Deshalb war diese Woche nicht nur Arbeit. Es war plötzlich persönlich. Und das macht es schwerer. Und wichtiger.
+> 바로 그거예요. 그래서 이번 주는 그냥 일이 아니었어요. 갑자기 개인적인 게 됐어요. 그래서 더 힘들어요. 그리고 더 중요하고요.
+MUTTER: Dann ist es gut, dass du es machst. Gerade weil es dir nahegeht. Ein Mensch, dem es egal ist, sollte so etwas nicht schreiben.
+> 그럼 네가 하는 게 잘된 일이야. 바로 너한테 와닿으니까. 아무래도 상관없는 사람은 그런 걸 쓰면 안 돼.
+LEON: Das hat meine Chefin fast genauso gesagt. Ihr würdet euch gut verstehen, du und Helene.
+> 제 상사도 거의 똑같이 말했어요. 둘이 잘 통할 거예요, 엄마랑 헬레네.
+MUTTER: Dein Vater wäre stolz auf euch beide. Auf den, der schreibt. Und auf den, der heute da drin ist.
+> 네 아빠라면 너희 둘 다 자랑스러워했을 거야. 글 쓰는 애도. 그리고 오늘 저 안에 있는 애도.
+LEON: Ich weiß, Mama. Ich denke oft, was er sagen würde. Besonders diese Woche. Ich hatte eine harte Woche.
+> 알아요, 엄마. 전 자주 생각해요, 아빠라면 뭐라고 할지. 특히 이번 주에. 힘든 한 주였어요.
+
+# 장면 6 — JONAS KOMMT HERAUS
+JONAS: Fertig. Das war… tatsächlich nicht schlimm. Die waren sogar nett.
+> 끝났어요. 그게… 사실 안 나빴어요. 심지어 친절하던데요.
+MUTTER: Und? Was ist rausgekommen? Sag schon.
+> 그래서? 뭐가 나왔어? 어서 말해.
+JONAS: Tauglich. Voll tauglich. Der Arzt hat gelacht und gesagt, ich sei gesünder als er.
+> 적격. 완전 적격. 의사가 웃으면서 자기보다 내가 건강하다고 했어요.
+MUTTER: Tauglich. Oh Gott.
+> 적격. 세상에.
+JONAS: Mama, das heißt nicht, dass ich gehe. Es heißt nur, dass ich könnte. Die Entscheidung kommt später. Und sie ist meine.
+> 엄마, 그게 제가 간다는 뜻은 아니에요. 그냥 갈 수 있다는 뜻이에요. 결정은 나중에 와요. 그리고 그건 제 거예요.
+LEON: Was hast du beim Fragebogen angekreuzt? Bei der Frage nach dem freiwilligen Dienst?
+> 설문지엔 뭐라고 표시했어? 자원 복무 질문에?
+JONAS: «Noch unentschlossen. Interesse an Sanitätsbereich.» Weil… wenn schon, dann will ich Menschen helfen. Nicht schießen.
+> «아직 미정. 의무 분야에 관심.» 왜냐면… 할 거면 사람을 돕고 싶어. 쏘는 게 아니라.
+MUTTER: Sanitätsbereich. Wie ich. Krankenpflege. Mein Sohn.
+> 의무 분야. 나처럼. 간호. 내 아들.
+JONAS: Hab ich von dir, Mama. Das steht sogar so im Gespräch. Ich hab gesagt: Meine Mutter ist in der Pflege, ich weiß, was das heißt.
+> 엄마한테 물려받았죠. 면담에도 그렇게 적혀 있어요. 전 말했어요. 우리 엄만 간병 일을 해요, 그게 뭔지 안다고요.
+LEON: Das ist eine gute Antwort, Jonas. Eine ehrliche. Und egal, was du später entscheidest — du hast heute wie ein Erwachsener geantwortet.
+> 좋은 답이야, 요나스. 솔직한. 그리고 네가 나중에 뭘 결정하든 — 넌 오늘 어른처럼 답했어.
+JONAS: Einer im Gespräch hat was Komisches gefragt. Ob ich weiß, dass manche Ausrüstung Probleme macht. Ob mir das Angst macht.
+> 면담에서 한 사람이 이상한 걸 물었어. 어떤 장비가 문제를 일으키는 걸 아느냐고. 그게 무섭냐고.
+LEON: Und was hast du geantwortet?
+> 그래서 뭐라고 답했어?
+JONAS: Ich hab gesagt: Mein Bruder ist Journalist, und er sagt, es gibt Leute, die dafür sorgen, dass es besser wird. Das hat den Mann überrascht.
+> 난 말했어. 우리 형이 기자인데, 더 나아지도록 애쓰는 사람들이 있다고 말한다고. 그 남자가 놀라더라.
+LEON: Das hast du gesagt? Im Gespräch bei der Musterung?
+> 그걸 말했어? 신체검사 면담에서?
+JONAS: Ja. War das falsch? Er hat nur genickt und gesagt: «Dann hast du ja schon einen guten Grund, genau hinzusehen.»
+> 응. 잘못한 거야? 그 사람은 그냥 끄덕이면서 «그럼 넌 벌써 자세히 볼 좋은 이유가 있구나»라고 했어.
+LEON: Nein, Jonas. Das war nicht falsch. Das war… genau richtig. Du hast einem Fremden erklärt, was ich meiner eigenen Mutter kaum erklären kann.
+> 아니, 요나스. 잘못 아니야. 그건… 딱 맞았어. 넌 낯선 사람한테 내가 우리 엄마한테도 겨우 설명하는 걸 설명했어.
+MUTTER: Hey. Ich verstehe mehr, als ihr denkt. Ich höre euch beiden zu. Die ganze Zeit.
+> 얘. 난 너희 생각보다 많이 이해해. 너희 둘 얘길 다 들어. 내내.
+JONAS: Dann weißt du jetzt, Mama, dass heute nichts Schlimmes passiert ist. Nur etwas Ehrliches.
+> 그럼 이제 아시겠네요, 엄마. 오늘 나쁜 일은 없었다는 거. 그냥 솔직한 일만요.
+LEON: Ich weiß, Mama. Entschuldige. Komm, lasst uns frühstücken. Richtig. Ich lade ein. Der große Bruder zahlt heute.
+> 알아요, 엄마. 미안해요. 가요, 아침 먹어요. 제대로. 제가 쏠게요. 오늘은 큰형이 내요.
+
+# 장면 7 — MONTAG, DIE REDAKTION
+HELENE: Leon, du siehst besser aus als Freitag. Wie war das Wochenende? Dein Bruder?
+> 레온, 금요일보다 좋아 보이네. 주말은 어땠어? 동생은?
+LEON: Tauglich. Aber ruhig. Er hat «Sanitätsbereich» angekreuzt. Und «noch unentschlossen». Ich bin seltsam erleichtert.
+> 적격이요. 근데 차분했어요. '의무 분야'에 표시했어요. 그리고 '아직 미정'에도요. 이상하게 안심돼요.
+HELENE: Erleichtert, obwohl er tauglich ist?
+> 적격인데도 안심이 돼?
+LEON: Erleichtert, weil er die Frage ernst genommen hat. Weil er nicht weggelaufen ist und nicht blind Ja gesagt hat. Er hat nachgedacht.
+> 안심돼요, 걔가 질문을 진지하게 받아서. 도망치지도, 맹목적으로 예라고 하지도 않아서요. 생각을 했어요.
+JAN: Das ist das Beste, was man über einen Achtzehnjährigen sagen kann. Er denkt nach. Die meisten Erwachsenen tun das nicht.
+> 열여덟 살에 대해 할 수 있는 최고의 말이야. 생각을 한다. 어른 대부분은 안 그러거든.
+SWETA: Und weißt du was, Leon? Diese Woche hast du etwas gelernt, das kein Seminar lehrt. Du hast gesehen, für wen wir schreiben.
+> 그리고 있잖아, 레온? 이번 주에 넌 어떤 세미나도 못 가르치는 걸 배웠어. 우리가 누굴 위해 쓰는지 봤지.
+LEON: Für Jonas. Und für tausend andere Jonas, die ich nicht kenne. Die Drohne, die funktioniert, ist nicht abstrakt. Sie ist für meinen Bruder.
+> 요나스를 위해. 그리고 제가 모르는 천 명의 다른 요나스를 위해. 작동하는 드론은 추상이 아니에요. 제 동생을 위한 거예요.
+MIRA: Apropos. Die Drohnen-Geschichte geht heute Nachmittag online. Die Konfrontationsfrist ist abgelaufen. Skyward hat nicht geantwortet.
+> 말 나온 김에. 드론 기사는 오늘 오후에 온라인으로 나가요. 반론 기한이 지났어요. 스카이워드는 답 안 했고요.
+HELENE: Und Thal?
+> 그럼 탈은?
+MIRA: Thal und Partner schreibt, man habe «rein beratend» gewirkt und weise alle Vorwürfe zurück. Vier Zeilen. Keine einzige Zahl widerlegt.
+> 탈 & 파트너는 «순수 자문»만 했고 모든 혐의를 부인한다고 써요. 네 줄. 숫자는 하나도 반박 못 하고요.
+JAN: Vier Zeilen, die nichts widerlegen. Das ist fast ein Geständnis. Wir drucken ihre Antwort vollständig. Jedes Wort. Das ist nur fair.
+> 아무것도 반박 못 하는 네 줄. 거의 자백이야. 우린 그들 답변을 전문 그대로 실어. 한 마디도 빠짐없이. 그게 공정한 거야.
+SWETA: Und das Ministerium? Nach der Durchsuchung müsste da doch auch eine Antwort kommen.
+> 그럼 부처는요? 수색 뒤라면 거기서도 답이 와야 할 텐데요.
+MIRA: Das Ministerium «nimmt zu laufenden Verfahren keine Stellung». Der Standardsatz. Aber Katrins Beschwerde gegen die Durchsuchung hat schon Wirkung.
+> 부처는 «진행 중인 절차엔 입장을 밝히지 않는다»예요. 상투적 문구. 근데 수색에 대한 카트린 항고가 벌써 효과가 있어요.
+HELENE: Welche Wirkung?
+> 어떤 효과요?
+MIRA: Das Gericht hat die Akten angefordert. Es prüft, ob der Beschluss zu weit war. Ein Richter nimmt unseren Widerspruch ernst.
+> 법원이 서류를 요청했어요. 영장이 너무 광범위했는지 검토해요. 한 판사가 우리 이의를 진지하게 받아요.
+JAN: Das ist gut. Das ist sehr gut. Wenn das Gericht uns recht gibt, ist die Durchsuchung selbst eine Geschichte über den Umgang mit der Presse.
+> 잘됐어. 아주 잘됐어. 법원이 우리 손을 들어 주면, 수색 자체가 언론을 다루는 방식에 대한 기사가 돼.
+LEON: Soll ich die anfangen? Die Geschichte über die Durchsuchung? Ich habe jedes Detail protokolliert.
+> 제가 그걸 시작할까요? 수색에 대한 기사요? 세부 하나하나 다 기록해 뒀어요.
+HELENE: Ja, Leon. Fang du sie an. Du warst dabei, du hast mitgeschrieben, und du weißt jetzt, warum es zählt. Das ist deine Geschichte.
+> 응, 레온. 네가 시작해. 넌 거기 있었고, 받아 적었고, 이제 그게 왜 중요한지 알아. 그건 네 기사야.
+JAN: Und schreib sie ruhig. Ohne Wut. Eine Durchsuchung bei einer Redaktion erklärt sich von selbst, wenn man sie nur genau beschreibt.
+> 그리고 차분하게 써. 분노 없이. 편집국 수색은 정확히 묘사하기만 하면 저절로 설명돼.
+LEON: Ohne Wut. Ich versuche es. Obwohl ich wütend bin.
+> 분노 없이. 해 볼게요. 화가 나는데도요.
+SWETA: Genau deshalb schreibst du gut. Wer wütend ist und trotzdem ruhig schreibt, dem glaubt der Leser. Wut, die sich beherrscht, ist am lautesten.
+> 바로 그래서 네가 잘 쓰는 거야. 화가 나는데도 차분히 쓰는 사람을 독자가 믿어. 자제하는 분노가 가장 큰 소리야.
+
+# 엔딩 — EIN ANRUF ZUM SCHLUSS
+MIRA: Jan, ein Anruf für dich. Kein Name. Aber die Stimme kenne ich. Es ist Voigt.
+> 얀, 전화 왔어요. 이름은 없어요. 근데 목소리를 알아요. 포크트예요.
+JAN: Herr Voigt. Alles in Ordnung?
+> 포크트 씨. 괜찮으세요?
+VOIGT: Ich habe heute Morgen bei der Staatsanwaltschaft ausgesagt. Vollständig. Mein Anwalt war dabei. Ich bin jetzt offiziell Zeuge. Und Beschuldigter.
+> 오늘 아침 검찰에 증언했어요. 전부. 제 변호사가 함께였고요. 전 이제 공식적으로 증인이에요. 그리고 피의자고요.
+JAN: Dann haben Sie es wirklich getan. Ich weiß, was das Sie gekostet hat.
+> 그럼 정말 하셨네요. 그게 당신한테 어떤 값을 치르게 했는지 알아요.
+VOIGT: Meine Frau weiß es jetzt auch. Sie hat zuerst geweint. Und dann gesagt: «Endlich bist du wieder der Mann, den ich geheiratet habe.» Das war der schwerste und beste Satz.
+> 제 아내도 이제 알아요. 처음엔 울었어요. 그다음에 말했죠. «드디어 당신이 내가 결혼한 그 사람으로 돌아왔네»라고. 가장 무겁고 가장 좋은 말이었어요.
+JAN: Herr Voigt, Sie haben das Recht, dass wir Ihr Motiv so erzählen, wie Sie es mir gesagt haben. Fair. Vollständig. Das halten wir.
+> 포크트 씨, 당신은 제가 들은 그대로 당신 동기를 전할 권리가 있어요. 공정하게. 온전하게. 그걸 지킬게요.
+VOIGT: Darum rufe ich an. Sie dürfen jetzt schreiben. Mit meinem Namen. Ich stehe dazu. Zu allem. Auch zu dem, was falsch war.
+> 그래서 전화해요. 이제 쓰셔도 돼요. 제 이름으로. 전 책임져요. 전부에. 잘못됐던 것에도요.
+JAN: Danke, Herr Voigt. Für Ihr Vertrauen. Und für Ihren Mut, auch wenn Sie es Erschöpfung nennen.
+> 고마워요, 포크트 씨. 당신의 신뢰에. 그리고 당신의 용기에, 당신이 그걸 소진이라 부르더라도요.
+VOIGT: Nennen Sie es, wie Sie wollen. Schreiben Sie nur die Wahrheit. Und, Herr Kowalczyk — passen Sie auf sich auf. Sandmann vergisst nicht.
+> 뭐라 부르든요. 그저 진실만 쓰세요. 그리고 코발치크 씨 — 몸조심하세요. 잔트만은 잊지 않아요.
+JAN: Eine letzte Frage, Herr Voigt, wenn ich darf. Würden Sie es wieder tun? Nicht den Verrat. Das Reden mit mir.
+> 마지막으로 하나, 포크트 씨, 괜찮으시면. 다시 하시겠어요? 누설이 아니라. 저랑 얘기한 거요.
+VOIGT: Das Reden? Sofort. Es war das Erste in zwei Jahren, das ich ohne Scham getan habe. Den Verrat bereue ich. Das Reden nie.
+> 얘기한 거요? 당장요. 2년 만에 처음으로 부끄럼 없이 한 일이었어요. 누설은 후회해요. 얘기한 건 결코.
+JAN: Dann haben wir beide etwas richtig gemacht. Sie mit dem Reden. Ich mit dem Zuhören.
+> 그럼 우리 둘 다 뭔가 제대로 한 거네요. 당신은 얘기함으로. 전 들음으로.
+VOIGT: Das Zuhören war selten, Herr Kowalczyk. Alle wollten mich reden hören, um mich zu benutzen. Sie waren der Erste, der zuhörte, um zu verstehen.
+> 들어 준 건 드물었어요, 코발치크 씨. 다들 절 이용하려고 제 말을 듣고 싶어 했죠. 당신은 이해하려고 들어 준 첫 사람이었어요.
+JAN: Das ist das Einzige, was uns von denen unterscheidet. Wir hören zu, um zu verstehen. Nicht, um zu benutzen. Danke, Herr Voigt.
+> 그게 우릴 그들과 구별하는 유일한 거예요. 우린 이해하려고 들어요. 이용하려고가 아니라. 고마워요, 포크트 씨.
+VOIGT: Leben Sie wohl. Und wenn Sie Sandmann schreiben: Schreiben Sie ihn nicht als Monster. Schreiben Sie ihn als das, was er ist. Ein sehr höflicher Mann.
+> 안녕히 계세요. 그리고 잔트만을 쓰시면, 괴물로 쓰지 마세요. 있는 그대로 쓰세요. 아주 정중한 남자로요.
+JAN: Das weiß ich. Leben Sie wohl, Herr Voigt. Wir hören voneinander.
+> 알아요. 안녕히 계세요, 포크트 씨. 또 연락해요.
+HELENE: Das war der dritte Teil des Netzes. Der Mann, der getäuscht wurde, steht jetzt im Licht. Freiwillig.
+> 그게 그물의 세 번째 조각이었어요. 속았던 사람이 이제 빛 속에 서요. 자발적으로.
+JAN: Drei Teile offen. Einer bleibt. Sandmann. Und über ihm ein Name, den wir jetzt zum ersten Mal auf Papier haben. Grunewald.
+> 세 조각이 드러났어. 하나가 남았어. 잔트만. 그리고 그 위에, 이제 처음으로 종이에 남은 이름. 그루네발트.
+SWETA: Aber das ist eine andere Geschichte. Und sie fängt mit einem gefälschten Video an. Mit einer Wahl. Und, fürchte ich, mit mir.
+> 근데 그건 다른 이야기예요. 그리고 그건 조작된 영상으로 시작돼요. 선거와 함께. 그리고, 두렵지만, 저와 함께요.
