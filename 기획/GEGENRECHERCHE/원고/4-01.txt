@@ -1,0 +1,350 @@
+@part 4
+@ep 1
+@title Das Video
+@sub 그 영상 · 아침 7시, 얀의 딥페이크가 조회수 200만을 넘다
+@info 대사 150턴 · 난이도 B2 · 배경: 2028년 봄, Spreewerk 편집국과 엘케의 선술집
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast ELKE | 엘케 (58) · 선술집 «Zum letzten Groschen» 주인 (베를린 사투리)
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast SWETA | 스베타 모로소바 (42) · 기자, 디스인포 전문
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast LEON | 레온 피셔 (24) · 수습기자 (슈바벤 사투리)
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@note ※ 4부 시작. 디스인포메이션·딥페이크 편. 2026 베를린 선거 후 양극화, 친러 '도플갱어'·'Storm-1516'류 위장 사이트 수법, 생성형 AI 딥페이크를 반영. 엘케·토비는 베를린 사투리(ick/det/wat/jut/keen/wa?)에 = 표준 독일어 대역. 레온은 슈바벤 사투리. 등장 인물·회사는 가상.
+@note ※ 표현 초점: Deepfake · viral gehen · die Klickzahlen · der Rufmord · Dit bin ick nich! · künstliche Intelligenz
+@next 4부 2화 «Kündigungswelle»(해지의 물결) — 후원자 수백 명이 해지하고, 재단 이사회가 얀의 직무 정지를 논의한다.
+
+# 콜드 오픈 — SIEBEN UHR MORGENS
+ELKE: Jan! Jan, wach uff! Kuck ma uff dein Handy! Bist du det? Du redest ja wie 'n Russe!
+= Jan! Jan, wach auf! Guck mal auf dein Handy! Bist du das? Du redest ja wie ein Russe!
+> 얀! 얀, 일어나! 네 휴대폰 좀 봐! 이거 너야? 말투가 꼭 러시아 사람 같잖아!
+JAN: Elke, es ist sieben Uhr. Was ist los? Warum rufst du mich an?
+> 엘케, 7시예요. 무슨 일이에요? 왜 전화해요?
+ELKE: Weil det janze Internet voll is mit dir! Een Video. Du sitzt da und sachst, du arbeetst für Moskau.
+= Weil das ganze Internet voll ist mit dir! Ein Video. Du sitzt da und sagst, du arbeitest für Moskau.
+> 온 인터넷이 너로 도배됐으니까! 영상 하나. 네가 앉아서 모스크바를 위해 일한다고 말해.
+JAN: Ich arbeite für Moskau? Das habe ich nie gesagt. Niemals. Was ist das für ein Video?
+> 내가 모스크바를 위해 일한다고요? 전 그런 말 한 적 없어요. 결코. 그게 무슨 영상이에요?
+ELKE: Det seh ick doch, dit du so wat nich sachst. Aba det Video, dit sieht aus wie du. Und klingt wie du. Ick krich Jänsehaut.
+= Das sehe ich doch, dass du so etwas nicht sagst. Aber das Video, das sieht aus wie du. Und klingt wie du. Ich kriege Gänsehaut.
+> 네가 그런 말 안 하는 거야 당연히 알지. 근데 그 영상, 꼭 너처럼 보여. 목소리도 너 같고. 소름이 돋아.
+JAN: Schick es mir sofort. Und lösch deinen Kommentar nicht, falls du einen geschrieben hast. Ich muss das sehen.
+> 당장 보내 줘요. 그리고 댓글 썼으면 지우지 말고. 봐야겠어요.
+ELKE: Ick hab jeschrieben: «Dit is nich der Jan, den ick kenne!» Groß, mit drei Ausrufezeichen. Der janze Kiez weeß, wer du bist.
+= Ich habe geschrieben: «Das ist nicht der Jan, den ich kenne!» Groß, mit drei Ausrufezeichen. Der ganze Kiez weiß, wer du bist.
+> 「이건 내가 아는 얀이 아니야!」라고 썼어. 크게, 느낌표 세 개로. 온 동네가 네가 누군지 알아.
+JAN: Danke, Elke. Das bedeutet mir mehr, als du denkst. Ich fahre sofort in die Redaktion.
+> 고마워요, 엘케. 생각보다 큰 힘이 돼요. 바로 편집국으로 갈게요.
+ELKE: Fahr vorsichtig. Und, Jan — iss wenigstens 'n Brötchen vorher. Mit leerem Magen kämpft man schlecht.
+= Fahr vorsichtig. Und, Jan — iss wenigstens ein Brötchen vorher. Mit leerem Magen kämpft man schlecht.
+> 조심히 운전해. 그리고 얀 — 가기 전에 빵이라도 하나 먹어. 빈속으로는 싸우기 힘들어.
+JAN: Elke, eine Frage noch. Wer hat dir das Video geschickt? Von wem kam es bei dir an?
+> 엘케, 질문 하나만 더. 그 영상 누가 보냈어요? 누구한테서 받았어요?
+ELKE: Von meine Nichte. Die hat's in so 'ner Gruppe jesehen. «Berlin Aktuell» oder so. Mit lauter Leuten, die ick jar nich kenne.
+= Von meiner Nichte. Die hat es in so einer Gruppe gesehen. «Berlin Aktuell» oder so. Mit lauter Leuten, die ich gar nicht kenne.
+> 내 조카한테서. 걔가 어떤 그룹에서 봤대. «베를린 악투엘»인가 뭔가. 내가 전혀 모르는 사람들만 잔뜩 있는.
+JAN: «Berlin Aktuell». Eine Gruppe, die lokal aussieht, aber voller Fremder ist. Das merke ich mir. Das ist wichtig, Elke.
+> «베를린 악투엘». 지역처럼 보이는데 낯선 사람 투성이인 그룹. 기억해 둘게요. 중요해요, 엘케.
+ELKE: Siehste, und ick dachte, ick quatsch bloß. Wenn ick noch wat hör im Laden, sach ick dir Bescheid. Die Leute reden ja bei mir. Nach'm zweeten Bier sowieso.
+= Siehst du, und ich dachte, ich quatsche bloß. Wenn ich noch etwas höre im Laden, sage ich dir Bescheid. Die Leute reden ja bei mir. Nach dem zweiten Bier sowieso.
+> 봐, 난 그냥 수다 떤다고 생각했는데. 가게에서 더 들리면 알려 줄게. 사람들이 내 가게선 말하거든. 두 잔째 맥주 뒤엔 어차피.
+JAN: Du bist besser als jede Suchmaschine, Elke. Danke. Ich melde mich.
+> 엘케는 어떤 검색엔진보다 나아요. 고마워요. 또 연락할게요.
+
+# 장면 1 — DIE REDAKTION UM ACHT
+MIRA: Zwei Millionen Aufrufe. Über Nacht. TikTok, Telegram, X. Es verbreitet sich schneller, als wir es melden können.
+> 조회수 200만. 하룻밤 사이에. 틱톡, 텔레그램, X. 우리가 신고하는 것보다 빨리 퍼져요.
+JAN: Zeig mir das Video. Ganz. Ich will jedes Wort hören, das ich angeblich sage.
+> 영상 보여 줘. 전부. 내가 말했다는 모든 단어를 듣고 싶어.
+MIRA: Bist du sicher? Es ist… unangenehm. Es ist dein Gesicht, deine Stimme. Aber die Worte sind Gift.
+> 확실해요? 그게… 불쾌해요. 당신 얼굴, 당신 목소리예요. 근데 말은 독이에요.
+JAN: Gerade deshalb muss ich es sehen. Man kann nur bekämpfen, was man kennt. Spiel es ab.
+> 바로 그래서 봐야 해. 아는 것만 맞서 싸울 수 있어. 틀어 줘.
+MIRA: Gut. Hör zu. «Ich, Jan Kowalczyk, gebe zu: Unsere Recherchen werden aus Moskau finanziert. Wir folgen einer Agenda.»
+> 좋아요. 들어 봐요. «나, 얀 코발치크는 인정한다. 우리 취재는 모스크바에서 자금을 받는다. 우리는 어떤 의도를 따른다.»
+JAN: Das ist meine Stimme. Exakt. Die Betonung, die Pause vor «Agenda». Das ist unheimlich gut gemacht.
+> 내 목소리야. 정확히. 억양, «의도» 앞의 멈춤까지. 섬뜩할 만큼 잘 만들었어.
+MIRA: Und das Bild? Schau dir deine Augen an. Blinzelst du im Video eigentlich normal?
+> 그럼 화면은요? 당신 눈을 봐요. 영상에서 눈을 정상적으로 깜빡여요?
+JAN: Ich… weiß es nicht. Ich habe mich noch nie so genau angeschaut. Das ist das Verrückte: Ich kann nicht einmal sagen, ob ich das bin.
+> 난… 모르겠어. 날 이렇게 자세히 본 적이 없어. 그게 미친 거야. 이게 나인지조차 말을 못 하겠어.
+MIRA: Genau das ist der Effekt. Selbst das Opfer zweifelt an sich. Deshalb müssen wir es messen, nicht anschauen. Das Auge lässt sich täuschen, die Messung weniger.
+> 바로 그게 효과예요. 피해자조차 자신을 의심해요. 그래서 우린 보는 게 아니라 측정해야 해요. 눈은 속지만, 측정은 덜 속죠.
+HELENE: Zu gut. Das ist keine Bastelarbeit von einem Teenager. Das ist professionell. Jemand hat Geld und Zeit investiert.
+> 너무 잘 만들었어요. 10대의 장난질이 아니에요. 전문적이에요. 누군가 돈과 시간을 들였어요.
+SWETA: Und jemand hat gute Trainingsdaten gehabt. Für so eine Stimme braucht man Minuten, besser Stunden, von echtem Material. Woher?
+> 그리고 누군가 좋은 학습 데이터를 가졌어요. 이런 목소리엔 몇 분, 더 좋게는 몇 시간의 진짜 자료가 필요해요. 어디서?
+JAN: Von meinen Interviews. Ich rede ständig öffentlich. Podcasts, Vorträge. Da ist genug Material.
+> 내 인터뷰에서. 난 늘 공개적으로 말해. 팟캐스트, 강연. 거기 자료가 충분해.
+SWETA: Vielleicht. Aber lass mich das genau prüfen. Bei Deepfakes verrät oft die Quelle den Täter. Nicht das Ergebnis.
+> 어쩌면요. 근데 제가 정확히 살펴볼게요. 딥페이크는 결과가 아니라 출처가 범인을 드러낼 때가 많아요.
+TOBI: Darf ick ma wat Dummet fragen? Wie macht man denn so wat überhaupt? So 'n Video?
+= Darf ich mal etwas Dummes fragen? Wie macht man denn so etwas überhaupt? So ein Video?
+> 바보 같은 거 물어도 돼? 대체 그런 걸 어떻게 만들어? 그런 영상을?
+MIRA: Gar nicht mehr so schwer, Tobi. Du brauchst Bilder von einem Gesicht und Aufnahmen von einer Stimme. Eine KI lernt daraus und baut neue Sätze.
+> 이제 그렇게 어렵지 않아, 토비. 얼굴 사진들이랑 목소리 녹음이 필요해. AI가 거기서 배워서 새 문장을 지어.
+TOBI: Also kann jeder Depp mir een Video andrehen, in dem ick wat sage, wat ick nie jesacht hab?
+= Also kann jeder Depp mir ein Video andrehen, in dem ich etwas sage, was ich nie gesagt habe?
+> 그럼 아무 멍청이나 내가 한 번도 안 한 말을 하는 영상을 나한테 뒤집어씌울 수 있다는 거야?
+MIRA: Ein Depp nicht. Aber jemand mit Zeit, Geld und den richtigen Programmen. Und gutem Ausgangsmaterial. Je mehr Material, desto besser der Fake.
+> 멍청이는 못 해. 근데 시간, 돈, 맞는 프로그램을 가진 사람은. 그리고 좋은 원본 자료를. 자료가 많을수록 가짜가 좋아져.
+SWETA: Und das ist die gute Nachricht in all dem Schlechten. Ein perfekter Fake ist teuer. Wer so viel investiert, hat ein großes Ziel. Und große Ziele hinterlassen Spuren.
+> 그리고 그게 이 모든 나쁜 것 속의 좋은 소식이에요. 완벽한 가짜는 비싸요. 그만큼 투자하는 자는 큰 목표가 있어요. 그리고 큰 목표는 흔적을 남겨요.
+JAN: Also suchen wir nicht nach einem gelangweilten Hacker. Wir suchen nach jemandem, der ein Interesse hat. Ein teures Interesse.
+> 그럼 우린 심심한 해커를 찾는 게 아니야. 이해관계가 있는 사람을 찾아. 비싼 이해관계를.
+HELENE: Das klingt schon weniger nach Chaos und mehr nach einem Fall. Gut. Ein Fall hat einen Anfang und ein Ende. Chaos nicht.
+> 그건 벌써 혼돈보다 사건처럼 들리네요. 좋아요. 사건은 시작과 끝이 있어요. 혼돈은 아니고요.
+
+# 장면 2 — WIE MAN NICHT REAGIERT
+LEON: Wir müssen sofort ein Dementi rausgeben. Ein Video, in dem Jan sagt, es ist gefälscht. Noch heute Morgen.
+> 즉시 반박 성명을 내야 해요. 얀이 이건 조작이라고 말하는 영상으로. 오늘 아침 당장.
+HELENE: Nein, Leon. Genau das nicht. Ein Dementi-Video neben dem Fake-Video verwirrt die Leute nur mehr. Zwei Jans, die sich widersprechen.
+> 아니, 레온. 바로 그건 안 돼. 가짜 영상 옆에 반박 영상을 두면 사람들이 더 헷갈려. 서로 모순되는 얀 둘.
+LEON: Aber wir können doch nicht einfach schweigen! Zwei Millionen Menschen haben es gesehen!
+> 근데 그냥 침묵할 순 없잖아요! 200만 명이 봤어요!
+SWETA: Schweigen und Nichtstun sind nicht dasselbe, Leon. Wir schweigen öffentlich und arbeiten im Stillen. Panik ist genau das, was der Täter will.
+> 침묵과 아무것도 안 하는 건 달라, 레온. 우린 공개적으론 침묵하고 조용히 일해. 공황이야말로 범인이 원하는 거야.
+JAN: Sweta hat recht. Wenn ich jetzt aufgeregt dementiere, sieht es aus wie ein ertappter Mann, der sich rausredet. Ruhe ist stärker.
+> 스베타 말이 맞아. 지금 내가 흥분해서 부인하면, 들킨 사람이 변명하는 것처럼 보여. 침착함이 더 강해.
+KATRIN: Und juristisch: Wir dokumentieren alles, bevor wir irgendetwas sagen. Screenshot, Uhrzeit, URL, Aufrufzahlen. Beweise sichern, dann handeln.
+> 그리고 법적으로. 뭘 말하기 전에 전부 기록해요. 스크린샷, 시각, 주소, 조회수. 증거를 확보한 뒤에 움직여요.
+LEON: Entschuldigung. Ich wollte nur helfen. Ich dachte, schnell sein ist wichtig.
+> 죄송해요. 그냥 돕고 싶었어요. 빠른 게 중요하다고 생각했어요.
+JAN: Du willst helfen, das ist gut. Aber im Krisenfall ist der erste Instinkt oft falsch. Schnell ist nicht gleich klug. Das lernt man mit der Zeit.
+> 돕고 싶은 거, 좋아. 근데 위기 땐 첫 본능이 틀릴 때가 많아. 빠른 게 곧 현명한 건 아니야. 그건 시간이 지나야 배워.
+LEON: Und was ist mit den Fernsehanfragen? Drei Sender haben schon angerufen. Sie wollen Jan live im Studio.
+> 그럼 방송 문의는요? 벌써 방송국 세 곳이 전화했어요. 얀을 생방송 스튜디오에 원해요.
+HELENE: Alle absagen. Höflich, aber alle. Ein Live-Interview heute wäre eine Katastrophe. Sie würden das Fake-Video einspielen und Jans Gesicht daneben zeigen.
+> 전부 거절해. 정중하게, 근데 전부. 오늘 생방송은 재앙일 거야. 가짜 영상을 틀고 그 옆에 얀 얼굴을 보여 줄 테니까.
+JAN: Und egal, was ich sage — die Zuschauer sehen zwei Gesichter und hören zwei Stimmen, die sich widersprechen. Der Zweifel bleibt. Immer.
+> 그리고 내가 뭘 말하든 — 시청자는 얼굴 둘을 보고 서로 모순되는 목소리 둘을 들어. 의심은 남아. 늘.
+SWETA: Das ist die perfideste Wirkung eines Deepfakes. Er muss nicht überzeugen. Er muss nur Zweifel säen. Zweifel reicht, um Vertrauen zu töten.
+> 그게 딥페이크의 가장 교활한 효과예요. 설득할 필요가 없어요. 의심만 심으면 돼요. 의심만으로 신뢰를 죽이기에 충분하죠.
+LEON: Aber wenn wir alle Interviews absagen, heißt es dann nicht: «Seht her, er versteckt sich»?
+> 근데 인터뷰를 다 거절하면 «봐라, 숨는다»가 되지 않아요?
+HELENE: Das Risiko nehmen wir. Zwischen «er versteckt sich» und «er rechtfertigt sich im Fernsehen» ist das Erste harmlos. Das Zweite ist tödlich.
+> 그 위험은 감수해. «숨는다»와 «TV에서 변명한다» 사이에서 전자는 무해해. 후자는 치명적이야.
+KATRIN: Und wir geben eine schriftliche Erklärung an alle Sender gleich. Dieselbe für alle. So kann niemand sagen, er sei übergangen worden.
+> 그리고 모든 방송국에 서면 설명을 똑같이 줘요. 전부 같은 걸로. 그래야 아무도 소외됐다고 못 해요.
+HELENE: Wir machen Folgendes: eine kurze, sachliche Mitteilung. Drei Sätze. «Das Video ist eine Fälschung. Wir ermitteln. Belege folgen.» Mehr nicht.
+> 이렇게 해요. 짧고 사실적인 공지. 세 문장. «영상은 조작입니다. 조사 중입니다. 증거가 뒤따릅니다.» 그 이상은 안 돼요.
+
+# 장면 3 — DIE DREI SÄTZE
+MIRA: Ich stelle die drei Sätze auf unsere Seite und unsere Kanäle. Sachlich, kein Ausrufezeichen, kein Foto von Jan.
+> 세 문장을 우리 사이트랑 채널에 올릴게요. 사실적으로, 느낌표 없이, 얀 사진 없이.
+JAN: Kein Foto von mir. Gut gedacht. Je weniger mein Gesicht, desto weniger Material für den nächsten Fake.
+> 내 사진 없이. 잘 생각했어. 내 얼굴이 적을수록 다음 가짜에 쓸 자료가 적어지지.
+LEON: Soll ich die Kommentare moderieren? Unter unserer Mitteilung? Es kommen schon hunderte.
+> 제가 댓글을 관리할까요? 우리 공지 밑에? 벌써 수백 개 와요.
+HELENE: Nein. Schließ die Kommentare ganz. Heute diskutieren wir nicht. Eine Kommentarspalte voller Streit sieht aus wie Schuld. Ruhe sieht aus wie Gewissheit.
+> 아니. 댓글을 아예 닫아. 오늘은 토론 안 해. 싸움으로 가득한 댓글란은 죄처럼 보여. 침묵은 확신처럼 보이고.
+LEON: Aber verlieren wir dann nicht die Chance, unsere Seite zu erklären?
+> 근데 그럼 우리 입장을 설명할 기회를 잃지 않아요?
+JAN: Unsere Seite erklären wir mit Belegen, in ein paar Tagen. Nicht im Streit um sieben Uhr morgens, wenn alle wütend sind. Timing ist alles.
+> 우리 입장은 며칠 뒤에 증거로 설명해. 다들 화난 아침 7시의 말다툼에서가 아니라. 타이밍이 전부야.
+SWETA: Und noch etwas: Wir dürfen den Fake nicht selbst verbreiten. Auch nicht, um ihn zu widerlegen. Jedes Teilen, auch unseres, erhöht die Klickzahlen.
+> 그리고 하나 더. 우린 가짜를 직접 퍼뜨리면 안 돼요. 반박하려고도요. 모든 공유가, 우리 것도, 조회수를 올려요.
+JAN: Richtig. Wir zeigen nie das ganze Video. Nur Standbilder, nur Ausschnitte, nur mit Analyse daneben. Nie als Ganzes, nie teilbar.
+> 맞아. 우린 영상 전체를 결코 안 보여 줘. 정지 화면만, 일부만, 옆에 분석을 붙여서만. 통째로는 결코, 공유 가능하게는 결코.
+MIRA: Verstanden. Ich baue einen Faktencheck, der das Original gar nicht einbettet. Man kann ihn lesen, ohne den Fake je ganz zu sehen.
+> 알겠어요. 원본을 아예 포함하지 않는 팩트체크를 만들게요. 가짜를 통째로 한 번도 안 보고도 읽을 수 있게.
+SWETA: Genau das ist der Punkt. Jedes Bild, jedes Video von dir ab heute ist potenzielles Trainingsmaterial. Wir müssen vorsichtiger werden.
+> 바로 그게 핵심이에요. 오늘부터 당신의 모든 사진, 모든 영상이 잠재적 학습 자료예요. 우린 더 조심해야 해요.
+HELENE: Das ist bitter. Ein Journalist, der sich nicht mehr zeigen darf. Unsere Arbeit lebt von Öffentlichkeit, und jetzt wird Öffentlichkeit zur Waffe.
+> 쓰라려요. 더는 모습을 드러낼 수 없는 기자라니. 우리 일은 공개성으로 사는데, 이제 공개성이 무기가 돼요.
+JAN: Das ist die neue Welt, Helene. Früher war die Gefahr, dass man dich zum Schweigen bringt. Jetzt lässt man dich reden — nur die falschen Worte.
+> 그게 새로운 세상이에요, 헬레네. 예전엔 당신을 침묵시키는 게 위험이었죠. 이젠 말하게 둬요 — 틀린 말만.
+SWETA: In Moskau nannten wir das «die Stimme stehlen». Sie töten den Menschen nicht. Sie ersetzen seine Worte. Am Ende weiß keiner mehr, was echt war.
+> 모스크바에선 그걸 «목소리 훔치기»라고 불렀어요. 사람을 죽이지 않아요. 그 사람의 말을 갈아 치우죠. 끝엔 뭐가 진짜였는지 아무도 몰라요.
+LEON: Das ist ja fast schlimmer. Man kann sich nicht wehren, wenn das Opfer und der Täter dasselbe Gesicht haben.
+> 그게 거의 더 나쁘네요. 피해자랑 가해자가 같은 얼굴이면 맞설 수가 없잖아요.
+JAN: Doch, man kann. Mit genau dem, was sie nicht fälschen können: eine lange, überprüfbare Geschichte von echter Arbeit. Die ist unser Schutz.
+> 아니, 맞설 수 있어. 그들이 조작할 수 없는 바로 그것으로. 길고, 검증 가능한 진짜 작업의 역사. 그게 우리 보호막이야.
+LEON: Darf ich etwas fragen, das mich wirklich beschäftigt? Wie sollen normale Leute das überhaupt noch unterscheiden? Echt von Fake?
+> 정말 신경 쓰이는 걸 물어도 돼요? 평범한 사람들이 대체 그걸 어떻게 구별해요? 진짜랑 가짜를?
+SWETA: Gar nicht mehr sicher, Leon. Das ist die bittere Wahrheit. Am Einzelbild erkennt bald niemand mehr den Fake. Auch Experten nicht.
+> 더는 확실히 못 해, 레온. 그게 쓰라린 진실이야. 낱개 영상만 봐선 곧 아무도 가짜를 못 알아봐. 전문가도.
+LEON: Aber wenn selbst Experten es nicht erkennen — was bleibt dann?
+> 근데 전문가조차 못 알아보면 — 그럼 뭐가 남아요?
+SWETA: Der Kontext bleibt. Nicht «Sieht das echt aus?», sondern «Woher kommt das? Wer profitiert? Passt es zum Rest des Lebens dieser Person?»
+> 맥락이 남아. «이게 진짜처럼 보이나?»가 아니라 «이게 어디서 왔나? 누가 이득 보나? 이 사람의 나머지 삶과 맞나?»
+JAN: Das ist eine Lebenskompetenz geworden. Früher brachte man Kindern bei, nicht mit Fremden mitzugehen. Heute: nicht jedem Video zu glauben.
+> 그게 삶의 능력이 됐어. 예전엔 아이들한테 낯선 사람 따라가지 말라고 가르쳤지. 오늘은, 아무 영상이나 믿지 말라고.
+HELENE: Und genau das ist am Ende auch unsere Aufgabe. Nicht nur Geschichten liefern. Sondern den Leuten zeigen, wie man überhaupt noch prüft, was wahr ist.
+> 그리고 그게 결국 우리 임무이기도 해요. 이야기만 내는 게 아니라. 사람들한테 뭐가 진실인지 대체 어떻게 확인하는지 보여 주는 거죠.
+MIRA: Medienkompetenz. Das klingt nach Schulfach. Aber es ist Notwehr geworden. Gegen eine Industrie, die vom Zweifel lebt.
+> 미디어 리터러시. 학교 과목처럼 들려요. 근데 정당방위가 됐어요. 의심으로 먹고사는 산업에 맞선.
+JAN: Dann machen wir aus diesem Angriff genau das. Wir erklären nicht nur, dass es fake ist. Wir erklären, wie wir das wissen. Öffentlich. Als Lektion.
+> 그럼 이 공격을 바로 그걸로 만들자. 가짜라고만 설명하는 게 아니라. 우리가 그걸 어떻게 아는지 설명해. 공개적으로. 하나의 수업으로.
+
+# 장면 4 — DER ERSTE RISS
+MIRA: Die drei Sätze sind draußen. Reaktionen kommen. Gemischt. Viele glauben uns. Aber nicht alle.
+> 세 문장 나갔어요. 반응이 와요. 엇갈려요. 많은 사람이 믿어요. 근데 전부는 아니에요.
+JAN: Lies mir ein paar vor. Die kritischen. Nicht die netten. Ich muss wissen, was die Zweifler denken.
+> 몇 개 읽어 줘. 비판적인 걸로. 좋은 거 말고. 의심하는 사람들이 뭘 생각하는지 알아야 해.
+MIRA: «Natürlich sagen die, es sei fake. Was sollen sie sonst sagen?» Und: «Erst Russland-Geschichten, jetzt selbst von Russland bezahlt. Passt doch.»
+> «당연히 가짜라고 하겠지. 달리 뭐라고 하겠어?» 그리고 «러시아 기사 쓰더니 이젠 자기가 러시아 돈을 받아. 딱 맞네.»
+JAN: Da. Genau da. «Passt doch.» Das ist die Falle. Der Fake passt zu dem, was manche ohnehin glauben wollten.
+> 바로. 바로 거기야. «딱 맞네.» 그게 함정이야. 가짜가 어차피 믿고 싶어 하던 것에 들어맞는 거지.
+SWETA: Deshalb ist er so gefährlich. Eine gute Desinformation erfindet keine neue Meinung. Sie bestätigt eine alte. Sie gibt den Leuten, was sie wollen.
+> 그래서 위험한 거예요. 좋은 허위정보는 새 의견을 지어내지 않아요. 옛 의견을 확인시켜 주죠. 사람들한테 원하는 걸 줘요.
+HELENE: Und wer hat ein Interesse, dass Deutschland Spreewerk nicht mehr glaubt? Wer gewinnt, wenn unsere Recherchen als russisch gelten?
+> 그럼 누가 독일이 Spreewerk를 더는 안 믿는 데 이해관계가 있죠? 우리 취재가 러시아 거라고 통하면 누가 이기죠?
+JAN: Jeder, über den wir je geschrieben haben. Thal. Skyward. Die halbe Lobbywelt. Das ist das Problem — es gibt zu viele Verdächtige.
+> 우리가 쓴 모든 사람. 탈. 스카이워드. 로비 업계 절반. 그게 문제야 — 용의자가 너무 많아.
+SWETA: Nicht zu viele. Nur einer hat den Zugang zu dem, was dieser Fake braucht. Und das ist der Faden, den ich jetzt ziehe.
+> 너무 많지 않아요. 이 가짜에 필요한 것에 접근 가능한 건 하나뿐이에요. 그리고 그게 제가 지금 당길 실이에요.
+MIRA: Jan, ich muss dir noch etwas zeigen. Es wird nicht leichter. Schau dir die Kommentare unter dem Fake an. Die Sprache.
+> 얀, 하나 더 보여 드려야 해요. 더 쉬워지진 않아요. 가짜 밑의 댓글을 봐요. 그 언어를.
+JAN: Was ist mit der Sprache?
+> 언어가 뭐?
+MIRA: Viele Kommentare sind perfektes Deutsch, aber mit kleinen Fehlern, die kein Muttersprachler macht. Falsche Artikel. «Das Agenda». «Der Wahrheit ist tot».
+> 많은 댓글이 완벽한 독일어인데, 원어민은 안 하는 작은 실수가 있어요. 틀린 관사. «그 의도(중성 오류)». «진실은 죽었다(성 오류)».
+SWETA: Das ist ein Muster, das ich kenne. Übersetzte Kommentare. Jemand schreibt sie in einer anderen Sprache und lässt sie übersetzen. Schnell, billig, massenhaft.
+> 그건 제가 아는 패턴이에요. 번역된 댓글. 누군가 다른 언어로 쓰고 번역시켜요. 빠르고, 싸고, 대량으로.
+JAN: Also sitzen hinter den empörten «Bürgern» teils gar keine Bürger. Sondern eine Übersetzungsmaschine und ein Auftrag.
+> 그럼 분노한 «시민들» 뒤엔 시민이 아예 없기도 하네. 번역기랑 지시서가 있을 뿐.
+MIRA: Teils. Nicht alle. Und das ist das Gemeine: Zwischen den falschen Empörten stehen echte Menschen, die wirklich zweifeln. Die kann man nicht ignorieren.
+> 일부요. 전부는 아니에요. 그리고 그게 고약해요. 가짜 분노자들 사이에 정말로 의심하는 진짜 사람들이 있어요. 그들은 무시할 수 없죠.
+HELENE: Richtig. Wir dürfen nie sagen, alle Kritiker seien Bots. Das wäre genauso eine Lüge. Manche Zweifel sind echt und verdienen eine echte Antwort.
+> 맞아요. 우린 모든 비판자가 봇이라고 결코 말하면 안 돼요. 그것도 똑같이 거짓이에요. 어떤 의심은 진짜고 진짜 답을 받을 자격이 있어요.
+JAN: Das ist die schwerste Linie: die echten Zweifler ernst nehmen und die Maschine entlarven. Beides gleichzeitig. Ohne das eine mit dem anderen zu verwechseln.
+> 그게 가장 어려운 선이야. 진짜 의심하는 사람을 진지하게 받고 기계를 폭로하기. 둘을 동시에. 하나를 다른 하나와 혼동하지 않고.
+
+# 장면 5 — WAS SWETA HÖRT
+SWETA: Jan, spiel mir das Video noch einmal vor. Nur den Ton. Ich schließe die Augen. Ich höre auf etwas Bestimmtes.
+> 얀, 영상을 다시 틀어 줘요. 소리만. 눈을 감을게요. 특정한 걸 들어 봐요.
+JAN: Hier. Der ganze Ton. Worauf hörst du?
+> 여기. 전체 소리. 뭘 들어?
+SWETA: Still jetzt. … Da. Hörst du das? Das kleine Räuspern vor «Agenda». Und das «äh», das du machst, wenn du nachdenkst.
+> 이제 조용히. … 거기. 들려요? «의도» 앞의 작은 헛기침. 그리고 당신이 생각할 때 내는 «어».
+JAN: Das ist mein «äh». Das mache ich wirklich. Aber… das mache ich nur, wenn ich frei rede. Nicht in Podcasts. Da bin ich vorbereitet.
+> 그건 내 «어»야. 진짜 그래. 근데… 난 자유롭게 말할 때만 그래. 팟캐스트에선 아니야. 거긴 준비돼 있으니까.
+SWETA: Genau. Dieses «äh» und dieses Räuspern gibt es in keinem öffentlichen Material. Nur wenn du entspannt bist. Intern. Unter Kollegen.
+> 바로요. 이 «어»랑 이 헛기침은 어떤 공개 자료에도 없어요. 당신이 편안할 때만. 내부에서. 동료들 사이에서.
+JAN: Das heißt… die Trainingsdaten für diesen Fake kommen nicht aus dem Internet. Sie kommen aus einer internen Aufnahme.
+> 그 말은… 이 가짜의 학습 데이터가 인터넷에서 온 게 아니라는 거야. 내부 녹음에서 온 거야.
+SWETA: So ist es. Jemand hatte Zugang zu einer vertraulichen Aufnahme aus diesem Raum. Oder einem Raum wie diesem. Wo du dich sicher fühlst.
+> 그래요. 누군가 이 방에서의 비공개 녹음에 접근했어요. 아니면 이런 방. 당신이 안전하다고 느끼는 곳.
+MIRA: Kann man das beweisen? Dass das «äh» nur intern vorkommt? Ein Gericht glaubt uns nicht auf dein Gehör allein, Sweta.
+> 그걸 입증할 수 있어요? 그 «어»가 내부에서만 나온다는 걸? 법원은 당신 청력만으론 안 믿어요, 스베타.
+SWETA: Nein, mein Gehör ist nur der erste Hinweis. Beweisen muss die Technik. Wir vergleichen den Fake mit allem öffentlichen Material, Sekunde für Sekunde.
+> 아니요, 제 청력은 첫 단서일 뿐이에요. 입증은 기술이 해야죠. 가짜를 모든 공개 자료와 비교해요, 1초씩.
+JAN: Und wenn kein öffentliches Material dieses «äh» enthält, dann muss die Quelle nichtöffentlich sein. Das ist dann ein Beleg, kein Gefühl.
+> 그리고 어떤 공개 자료에도 이 «어»가 없으면, 출처는 비공개일 수밖에 없어. 그럼 그건 느낌이 아니라 증거야.
+SWETA: Genau. Aber das dauert. Ich brauche jede Aufnahme von dir, die es gibt. Jeden Podcast, jedes Interview, jede Rede. Mira baut mir eine Datenbank.
+> 바로요. 근데 오래 걸려요. 당신의 존재하는 모든 녹음이 필요해요. 모든 팟캐스트, 모든 인터뷰, 모든 연설. 미라가 데이터베이스를 만들어 줘요.
+MIRA: Mache ich. Und ich vergleiche die Tonspur des Fakes auf Artefakte. KI-Stimmen haben oft winzige Muster im Frequenzbild. Für das Ohr unhörbar.
+> 할게요. 그리고 가짜의 음성을 인공물 흔적으로 비교해요. AI 음성은 주파수 그림에 아주 작은 패턴이 있을 때가 많아요. 귀엔 안 들리는.
+SWETA: Und diese Muster verraten manchmal, welches Programm benutzt wurde. Und manche Programme sind teuer, selten, lizenziert. Das führt zu Rechnungen. Rechnungen zu Namen.
+> 그리고 그 패턴이 가끔 어떤 프로그램이 쓰였는지 드러내요. 어떤 프로그램은 비싸고, 드물고, 라이선스예요. 그게 청구서로 이어지죠. 청구서는 이름으로요.
+JAN: Also hat selbst eine perfekte Fälschung einen Fingerabdruck. Wie überall. Wer etwas macht, hinterlässt, womit er es gemacht hat.
+> 그럼 완벽한 조작조차 지문이 있네. 어디서나처럼. 뭔가를 만드는 자는 그걸로 만든 도구를 남기지.
+HELENE: Dann ist das unser Weg. Nicht das Video widerlegen — jeder kann «Fake» rufen. Sondern beweisen, womit und woher. Das überzeugt sogar die Zweifler.
+> 그럼 그게 우리 길이에요. 영상을 반박하는 게 아니라 — 누구나 «가짜»라고 외칠 수 있어요. 무엇으로 어디서인지 입증하는 거죠. 그건 의심하는 사람도 설득해요.
+HELENE: Das verändert alles. Das ist kein Angriff von außen. Oder nicht nur. Jemand hat uns von innen Material gegeben.
+> 모든 게 바뀌어요. 이건 외부 공격이 아니에요. 아니면 외부만이 아니거나. 누군가 우리한테 안에서 자료를 줬어요.
+JAN: Ein Leck. Schon wieder. Wie bei Roloff. Wie bei der Durchsuchung. Immer weiß jemand zu viel.
+> 유출. 또. 롤로프 때처럼. 수색 때처럼. 늘 누군가 너무 많이 알아.
+
+# 장면 6 — DER VERDACHT, DEN KEINER AUSSPRICHT
+HELENE: Moment. Bevor jemand etwas Falsches denkt: Wer hatte in den letzten Monaten Zugang zu internen Aufnahmen?
+> 잠깐. 누가 잘못된 걸 생각하기 전에. 지난 몇 달간 내부 녹음에 접근할 수 있던 게 누구예요?
+MIRA: Technisch? Fast alle. Die Aufnahmen liegen auf dem gemeinsamen Server. Verschlüsselt, aber intern zugänglich. Das war bequem. Zu bequem.
+> 기술적으로? 거의 다요. 녹음은 공용 서버에 있어요. 암호화됐지만 내부에선 접근 가능해요. 편했죠. 너무 편했어요.
+JAN: Also jeder von uns. Theoretisch. Das ist kein guter Gedanke an einem Morgen wie diesem.
+> 그럼 우리 모두. 이론상. 이런 아침에 좋은 생각은 아니네.
+SWETA: Nicht jeder. Wer die Aufnahme nimmt, muss wissen, welche wertvoll ist. Welche dein «äh» enthält. Das ist kein Zufall. Das ist Auswahl.
+> 전부는 아니에요. 녹음을 가져가는 사람은 어느 게 값진지 알아야 해요. 어느 게 당신 «어»를 담았는지. 그건 우연이 아니에요. 선택이죠.
+LEON: Ihr schaut mich an. Warum schaut ihr mich an? Isch hab nix gmacht, ehrlich!
+= Ihr schaut mich an. Warum schaut ihr mich an? Ich habe nichts gemacht, ehrlich!
+> 다들 절 봐요. 왜 절 봐요? 전 아무것도 안 했어요, 정말로!
+JAN: Niemand schaut dich an, Leon. Niemand beschuldigt niemanden. Das ist genau die Spaltung, die der Täter will. Dass wir uns gegenseitig verdächtigen.
+> 아무도 널 안 봐, 레온. 아무도 아무도 비난 안 해. 그게 바로 범인이 원하는 분열이야. 우리가 서로 의심하는 것.
+LEON: Danke, Jan. Aber ich sehe doch, dass meine Tage am meisten auffallen. Ich bin der Neue. Ich bin der Einfachste zum Verdächtigen.
+> 고마워요, 얀. 근데 제 근무일이 제일 눈에 띄는 거 다 보여요. 제가 신입이잖아요. 의심하기 제일 쉬운 사람이고요.
+JAN: Leon, hör mir zu. Der Einfachste zum Verdächtigen ist fast nie der Richtige. Ein Profi sorgt genau dafür, dass ein anderer verdächtig aussieht.
+> 레온, 들어 봐. 의심하기 제일 쉬운 사람이 범인인 경우는 거의 없어. 프로는 다른 사람이 수상해 보이도록 공들여.
+SWETA: Das ist wahr. In meinem alten Büro hatten wir dafür ein Wort. «Den Blick lenken.» Man legt die Spur zum Unschuldigsten. Weil der sich am schlechtesten wehrt.
+> 사실이에요. 제 옛 사무실엔 그걸 가리키는 말이 있었어요. «시선 돌리기.» 가장 결백한 사람한테 흔적을 놔요. 그 사람이 가장 못 방어하니까.
+LEON: Also könnte genau die Tatsache, dass ich verdächtig aussehe, ein Beweis dafür sein, dass ich es nicht bin?
+> 그럼 제가 수상해 보인다는 바로 그 사실이, 제가 범인이 아니라는 증거일 수도 있어요?
+JAN: So weit würde ich nicht gehen. Es beweist nichts. In beide Richtungen nicht. Deshalb prüfen wir mit Daten, nicht mit Gefühl. Daten lügen weniger als Gesichter.
+> 거기까진 안 가. 그건 아무것도 증명 안 해. 어느 쪽으로도. 그래서 느낌이 아니라 데이터로 확인해. 데이터는 얼굴보다 덜 거짓말하거든.
+HELENE: Jan hat recht. Ab jetzt gilt: Wir verdächtigen niemanden ohne Beweis. Aber wir prüfen alles. Ruhig. Ohne Blick, ohne Flüstern.
+> 얀 말이 맞아요. 이제부턴 이래요. 증거 없인 아무도 의심 안 해요. 근데 전부 확인해요. 차분히. 눈짓 없이, 속삭임 없이.
+TOBI: Dit is 'n schwerer Morjen. Aba ick sach ma so: Wer uns von innen anjreift, der kennt uns. Und wer uns kennt, der unterschätzt uns ooch.
+= Das ist ein schwerer Morgen. Aber ich sage mal so: Wer uns von innen angreift, der kennt uns. Und wer uns kennt, der unterschätzt uns auch.
+> 힘든 아침이야. 근데 이렇게 말할게. 우릴 안에서 치는 자는 우릴 알아. 그리고 우릴 아는 자는 우릴 얕보기도 하지.
+
+# 장면 7 — MITTAGS BEI ELKE
+ELKE: Jan! Komm rein, setz dir. Ick hab Soljanka jemacht. Du siehst aus wie drei Tage keen Schlaf.
+= Jan! Komm rein, setz dich. Ich habe Soljanka gemacht. Du siehst aus wie drei Tage kein Schlaf.
+> 얀! 들어와, 앉아. 솔랸카 끓였어. 사흘 못 잔 꼴이야.
+JAN: Danke, Elke. Ich habe keinen Hunger. Aber der Geruch… gut, einen Teller.
+> 고마워요, 엘케. 배는 안 고파요. 근데 냄새가… 좋아요, 한 그릇만.
+ELKE: Iss. Und hör zu. Heute Morjen kamen drei Stammgäste rin und ham jefracht, ob dit Video echt is. Weeßte, wat ick jesacht hab?
+= Iss. Und hör zu. Heute Morgen kamen drei Stammgäste rein und haben gefragt, ob das Video echt ist. Weißt du, was ich gesagt habe?
+> 먹어. 그리고 들어. 오늘 아침 단골 셋이 들어와서 그 영상이 진짜냐고 물었어. 내가 뭐라고 했는지 알아?
+JAN: Was hast du gesagt?
+> 뭐라고 했어요?
+ELKE: Ick hab jesacht: «Der Jan sitzt seit zwölf Jahren bei mir am Tresen. Der redet nich so. Der denkt nich so. Punkt.» Da war Ruhe.
+= Ich habe gesagt: «Der Jan sitzt seit zwölf Jahren bei mir am Tresen. Der redet nicht so. Der denkt nicht so. Punkt.» Da war Ruhe.
+> 「얀은 12년째 내 가게 카운터에 앉아. 걘 그렇게 말 안 해. 그렇게 생각 안 해. 끝.」 그러니까 조용해지더라.
+JAN: Elke… das ist das Beste, was ich heute gehört habe. Besser als jede juristische Erklärung.
+> 엘케… 오늘 들은 말 중 최고예요. 어떤 법적 설명보다 나아요.
+ELKE: Siehste. Die Leute hier kennen dir. Deine Nachbarn, dein Kiez. Die glauben keen Video, die glauben, wat se mit eijene Oogen sehen. Zwölf Jahre lang.
+= Siehst du. Die Leute hier kennen dich. Deine Nachbarn, dein Kiez. Die glauben kein Video, die glauben, was sie mit eigenen Augen sehen. Zwölf Jahre lang.
+> 봐. 여기 사람들은 널 알아. 네 이웃, 네 동네. 영상을 안 믿어, 자기 눈으로 본 걸 믿지. 12년 동안.
+JAN: Das ist es, Elke. Du hast gerade gesagt, was unsere ganze Verteidigung ist. Niemand kann zwölf Jahre echtes Leben fälschen. Nur einen Moment.
+> 그거예요, 엘케. 방금 우리 방어 전부를 말했어요. 아무도 12년의 진짜 삶은 조작 못 해요. 한순간만 조작하죠.
+ELKE: Na also. Dann iss deine Soljanka, und dann jehste und beweist et. Und der, der dit jemacht hat — dem wünsch ick 'n Monat Schluckauf.
+= Na also. Dann iss deine Soljanka, und dann gehst du und beweist es. Und der, der das gemacht hat — dem wünsche ich einen Monat Schluckauf.
+> 그렇지. 그럼 솔랸카 먹고, 가서 증명해. 그리고 이걸 만든 놈 — 한 달 내내 딸꾹질이나 하라지.
+
+# 엔딩 — DIE SPUR
+SWETA: Ich fange beim Video an. Nicht bei uns. Ich gehe den Weg zurück, den es genommen hat. Wer hat es zuerst geteilt? Und von wo?
+> 전 영상부터 시작해요. 우리한테서가 아니라. 그게 간 길을 거슬러 올라가요. 누가 처음 공유했어? 그리고 어디서?
+MIRA: Ich helfe dir. Die ersten Konten, die es verbreitet haben, sind oft der Schlüssel. Echte Menschen teilen spät. Bots teilen zuerst.
+> 제가 도울게요. 처음 퍼뜨린 계정들이 흔히 열쇠예요. 진짜 사람은 늦게 공유해요. 봇은 먼저 공유하고요.
+SWETA: Genau. Und schon jetzt sehe ich ein Muster. Die ersten fünfzig Konten haben alle in derselben Stunde gepostet. Nachts um drei. Koordiniert.
+> 바로요. 그리고 벌써 패턴이 보여요. 처음 50개 계정이 전부 같은 시간에 올렸어요. 새벽 3시에. 조율된 거죠.
+JAN: Nachts um drei teilt kein normaler Berliner ein Video über mich. Das ist eine Maschine. Oder ein Büro. In einer anderen Zeitzone.
+> 새벽 3시에 날 다룬 영상을 공유하는 평범한 베를린 사람은 없어. 그건 기계야. 아니면 사무실. 다른 시간대의.
+SWETA: Oder ein Büro hier, das nachts arbeitet, weil es nach einem Briefing arbeitet. Ich kenne solche Büros, Jan. Ich habe in einem gesessen. Früher.
+> 아니면 여기 있는 사무실이 밤에 일하는 거예요, 브리핑에 따라 일하니까. 전 그런 사무실을 알아요, 얀. 거기 앉아 있었어요. 예전에.
+MIRA: Du hast in so einem Büro gearbeitet? In Moskau?
+> 그런 사무실에서 일했어요? 모스크바에서?
+SWETA: Ganz am Anfang. Ich war jung. Ich dachte, ich mache Marketing. Erst nach Monaten verstand ich, was wir wirklich produzierten. Und für wen.
+> 아주 처음에요. 어렸죠. 마케팅을 하는 줄 알았어요. 몇 달 뒤에야 우리가 진짜 뭘 만드는지 이해했어요. 그리고 누굴 위해선지.
+MIRA: Und dann?
+> 그다음엔요?
+SWETA: Dann bin ich gegangen. Und habe darüber geschrieben. Deshalb musste ich Russland verlassen. Deshalb bin ich hier. Ich kenne diese Maschine von innen.
+> 그다음에 나왔어요. 그리고 그에 대해 썼죠. 그래서 러시아를 떠나야 했어요. 그래서 여기 있고요. 전 이 기계를 안에서부터 알아요.
+JAN: Und genau deshalb haben sie vielleicht diesen Fake gemacht. Nicht nur gegen mich. Vielleicht wissen sie, dass du bei uns bist. Und wollen uns beide treffen.
+> 그래서 어쩌면 이 가짜를 만든 거야. 나만 노린 게 아니라. 어쩌면 네가 우리랑 있는 걸 아는 거지. 그리고 우리 둘 다 치고 싶은 거고.
+SWETA: Der Gedanke ist mir auch gekommen. Wenn das stimmt, ist das kein Zufall, dass ausgerechnet «Russland» im Fake vorkommt. Es ist eine Botschaft an mich.
+> 저도 그 생각이 들었어요. 그게 맞으면, 하필 가짜에 «러시아»가 나오는 게 우연이 아니에요. 저한테 보내는 메시지죠.
+JAN: Sweta, dieser Fall… er wird dich an Orte bringen, an die du nicht zurückwolltest. Bist du sicher, dass du das willst?
+> 스베타, 이 사건… 돌아가고 싶지 않던 곳들로 널 데려갈 거야. 그걸 원하는 거 확실해?
+SWETA: Nein. Ich bin nicht sicher. Aber ich bin die Einzige, die diese Sprache spricht. Und nicht nur die russische. Auch die Sprache der Angst.
+> 아니요. 확실하지 않아요. 근데 이 언어를 할 줄 아는 건 저뿐이에요. 러시아어만이 아니라. 두려움의 언어도요.
+HELENE: Dann machen wir es zusammen. Keiner geht allein. Nicht in diesem Fall. Zu viel steht auf dem Spiel. Unser Name. Und Swetas Vergangenheit.
+> 그럼 같이 해요. 아무도 혼자 안 가요. 이 사건에선 안 돼요. 걸린 게 너무 많아요. 우리 이름. 그리고 스베타의 과거.
+MIRA: Ich habe gerade noch etwas gefunden. Die Gruppe, die Elkes Nichte erwähnt hat. «Berlin Aktuell». Die gibt es siebzehnmal. Mit leicht verschiedenen Namen.
+> 방금 하나 더 찾았어요. 엘케 조카가 말한 그룹. «베를린 악투엘». 그게 열일곱 개 있어요. 조금씩 다른 이름으로.
+JAN: Siebzehn Gruppen, die alle «lokal» aussehen. Berlin Aktuell, Berlin Heute, Hauptstadt News. Alle mit demselben Video, zur selben Minute.
+> 전부 «지역»처럼 보이는 열일곱 그룹. 베를린 악투엘, 베를린 호이테, 하웁트슈타트 뉴스. 전부 같은 영상을, 같은 분에.
+MIRA: Und alle verwalten von einer Handvoll Konten. Dieselben Admins tauchen immer wieder auf. Das ist kein Graswuchs. Das ist eine Plantage.
+> 그리고 전부 한 줌의 계정이 관리해요. 같은 관리자들이 거듭 나와요. 그건 자생적 풀이 아니에요. 농장이에요.
+SWETA: «Astroturfing» nennt man das. Falsche Graswurzeln. Es soll aussehen wie viele empörte Bürger. In Wahrheit sind es wenige Hände an vielen Konten.
+> 그걸 «애스트로터핑»이라고 해요. 가짜 풀뿌리. 분노한 시민이 많은 것처럼 보이게 하죠. 사실은 많은 계정을 쥔 적은 손이에요.
+HELENE: Dann ist die erste Geschichte vielleicht gar nicht das Deepfake selbst. Sondern die Maschine dahinter. Wer baut siebzehn falsche Lokalgruppen?
+> 그럼 첫 기사는 어쩌면 딥페이크 자체가 아닐 수도요. 그 뒤의 기계죠. 누가 가짜 지역 그룹 열일곱 개를 만들죠?
+JAN: Genau die Frage. Das Deepfake ist der Angriff. Aber die Maschine ist die Geschichte. Und Maschinen haben Besitzer. Mira, zeichne sie. Die ganze Plantage.
+> 바로 그 질문이야. 딥페이크는 공격이야. 근데 기계는 기사야. 그리고 기계는 주인이 있어. 미라, 그걸 그려. 농장 전체를.
+MIRA: Mache ich. Es wird ein großer Graph. Und, Jan — ich sehe jetzt schon eine Linie, die wir kennen. Zu einer Agentur in Friedrichshain.
+> 할게요. 큰 그래프가 될 거예요. 그리고 얀 — 벌써 우리가 아는 선 하나가 보여요. 프리드리히스하인의 한 에이전시로.
+JAN: Fangen wir an. Jemand hat meine Stimme gestohlen. Jetzt holen wir sie zurück. Wort für Wort.
+> 시작하자. 누군가 내 목소리를 훔쳤어. 이제 되찾아 와. 한 마디씩.
