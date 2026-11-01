@@ -1,0 +1,351 @@
+@part 1
+@ep 1
+@title Der Zettel im Treppenhaus
+@sub 계단의 쪽지 · 11월 말 월요일, 베딩의 선술집과 낡은 건물
+@info 대사 150턴 · 난이도 B1 · 배경: 2026년 11월 말, Wedding — 선술집 «Zum letzten Groschen», Spreewerk 편집국, Gerichtstraße 61
+@cast JAN | 얀 코발치크 (45) · Spreewerk 탐사팀장 · 베딩 토박이
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 «Zum letzten Groschen» 주인
+@cast GISELA | 기젤라 호프만 (78) · Gerichtstraße 61 세입자, 52년째 거주
+@cast HELENE | 헬레네 브란트 (59) · Spreewerk 편집장
+@cast MIRA | 미라 아이든 (31) · 데이터·OSINT 기자
+@cast TOBI | 토비아스 „토비" 레베르크 (37) · 사진기자
+@cast SWETA | 스베타 모로소바 (42) · 러시아어권·허위정보 전문 기자
+@cast LEON | 레온 피셔 (24) · 수습기자, 오늘 첫 출근 · 슈투트가르트 출신
+@cast DEMIR | 외머 데미르 (55) · 같은 건물 1층 키오스크 주인
+@cast PAULA | 파울라 (23) · 같은 건물 4층 단기 세입자, 대학생
+@note ※ 베를린 베딩(Wedding). 비영리 탐사보도 매체 Spreewerk의 편집국은 단골 선술집에서 걸어서 5분 거리에 있습니다. 엘케와 토비는 진한 베를린 말(Berlinerisch)을 쓰며, 그런 대사 아래에는 ≈ 표시로 표준어 풀이를 달았습니다. 얀은 동네 사람 앞에서는 베를린 말, 회의나 취재에서는 표준어를 씁니다. 레온은 슈바벤 사투리가 조금 섞입니다.
+@note ※ 표현 초점: Kündigung · Modernisierung · Mieterhöhung · Frist · Hausverwaltung — 베를린 말: ick, det, wat, nich, jut, wa?
+@next 1부 2화 — «Briefkasten in Luxemburg»(룩셈부르크의 우편함) — 미라가 Gerichtstraße 61의 등기부를 떼 본다. 소유주는 룩셈부르크의 우편함 하나뿐인 회사. 헬레네는 "부동산 기사는 독자들이 지겨워한다"며 회의적이다.
+
+# 콜드 오픈 — MONTAG IM GROSCHEN
+ELKE: Na, Jan? Wieder 'n Kaffee schwarz, wie immer?
+= Na, Jan? Wieder einen Kaffee schwarz, wie immer?
+> 어이, 얀? 늘 그렇듯 블랙커피?
+JAN: Wie immer, Elke. Und 'ne Schrippe mit Käse, bitte.
+> 늘 그렇지, 엘케. 그리고 치즈 넣은 슈리페 하나.
+ELKE: Kriegste. Aber erst musste dir wat ankieken.
+= Bekommst du. Aber erst musst du dir etwas ansehen.
+> 줄게. 근데 먼저 뭘 좀 봐야 해.
+JAN: Elke, es ist acht Uhr morgens. Ich will nur frühstücken.
+> 엘케, 지금 아침 여덟 시야. 난 그냥 아침 먹고 싶어.
+ELKE: Det is wichtig. Gisela sitzt da hinten. Seit sieben.
+= Das ist wichtig. Gisela sitzt da hinten. Seit sieben.
+> 이거 중요해. 기젤라가 저 안쪽에 앉아 있어. 일곱 시부터.
+JAN: Gisela Hoffmann? Aus der Gerichtstraße?
+> 기젤라 호프만? 게리히트슈트라세의?
+ELKE: Jenau die. Sie hat 'n Brief jekriegt. Sie weint nich, aber fast.
+= Genau die. Sie hat einen Brief bekommen. Sie weint nicht, aber fast.
+> 바로 그 사람. 편지를 받았대. 울진 않는데, 거의 울 것 같아.
+GISELA: Jannek? Bist du das? Mensch, du bist ja grau geworden.
+> 야넥? 너니? 세상에, 너 머리가 하얘졌구나.
+JAN: Frau Hoffmann. Guten Morgen. Ja, die Zeit läuft.
+> 호프만 아주머니. 안녕하세요. 네, 시간이 흐르네요.
+GISELA: Elke sagt, du schreibst jetzt für eine Zeitung.
+> 엘케가 그러는데 너 지금 신문에 글 쓴다며.
+JAN: Keine Zeitung. Ein Recherchebüro. Aber ja, ich schreibe.
+> 신문은 아니고요. 탐사보도 사무실이에요. 그래도 네, 글 써요.
+GISELA: Dann lies das hier. Bitte. Ich verstehe nur die Hälfte.
+> 그럼 이거 좀 읽어 봐. 부탁이야. 난 절반밖에 모르겠어.
+
+# 장면 1 — DIE MODERNISIERUNG
+JAN: «Ankündigung von Modernisierungsmaßnahmen.» Hm.
+> «현대화 공사 안내.» 흠.
+GISELA: Was heißt das? Sie wollen etwas reparieren?
+> 그게 무슨 뜻이야? 뭘 고치겠다는 거야?
+JAN: Nicht reparieren. Modernisieren. Neue Fenster, Aufzug, Dämmung.
+> 고치는 게 아니라 현대화요. 새 창문, 엘리베이터, 단열 공사.
+ELKE: 'n Uffzug? In dem ollen Haus? Da fällt doch der Putz von der Wand.
+= Ein Aufzug? In dem alten Haus? Da fällt doch der Putz von der Wand.
+> 엘리베이터? 그 낡은 건물에? 거긴 벽에서 회반죽이 떨어지는데.
+JAN: Und hier, Seite zwei. «Voraussichtliche Mieterhöhung: 298 Euro monatlich.»
+> 그리고 여기, 2쪽. «예상 임대료 인상: 월 298유로.»
+GISELA: Zweihundertachtundneunzig? Jeden Monat?
+> 298유로? 매달?
+JAN: Jeden Monat. Was zahlen Sie jetzt?
+> 매달요. 지금 얼마 내세요?
+GISELA: Vierhundertzwölf. Kalt. Seit Jahren schon.
+> 412유로. 관리비 빼고. 몇 년째 그대로야.
+ELKE: Det sind ja fast siebzig Prozent mehr! Det is keene Modernisierung, det is 'ne Kündigung durch die Hintertür.
+= Das sind ja fast siebzig Prozent mehr! Das ist keine Modernisierung, das ist eine Kündigung durch die Hintertür.
+> 거의 70퍼센트나 더잖아! 그건 현대화가 아니라 뒷문으로 내쫓는 거야.
+GISELA: Ich habe nur meine Rente. Tausendeinhundert Euro.
+> 난 연금밖에 없어. 1,100유로.
+JAN: Wann soll das beginnen?
+> 언제 시작한대요?
+GISELA: Steht da. Erster März.
+> 거기 적혀 있어. 3월 1일.
+JAN: Erster März 2027. Und wer hat den Brief geschickt?
+> 2027년 3월 1일. 편지는 누가 보냈어요?
+GISELA: Eine Hausverwaltung. Den Namen kenne ich nicht.
+> 관리회사. 이름은 모르는 데야.
+JAN: «Spreeblick Hausverwaltung GmbH.» Nie gehört.
+> «슈프레블릭 관리회사 유한회사.» 처음 들어 보네요.
+ELKE: Früher war det 'n alter Herr. Herr Lindner. Der hat noch selbst die Treppe jefegt.
+= Früher war das ein alter Herr. Herr Lindner. Der hat noch selbst die Treppe gefegt.
+> 예전엔 나이 든 아저씨가 주인이었어. 린트너 씨. 계단도 직접 쓸던 사람이었지.
+GISELA: Herr Lindner ist vor zwei Jahren gestorben. Seine Kinder haben verkauft.
+> 린트너 씨는 2년 전에 돌아가셨어. 자식들이 팔았고.
+JAN: An wen?
+> 누구한테요?
+GISELA: Das weiß keiner. Es kam nur ein Brief: «Neue Eigentümerin.» Ohne Namen.
+> 아무도 몰라. 편지만 한 통 왔어: «새 소유주.» 이름도 없이.
+JAN: Frau Hoffmann, ich verstehe Ihren Ärger. Aber das ist leider normal in Berlin.
+> 호프만 아주머니, 화나시는 거 이해해요. 그런데 안타깝게도 베를린에선 흔한 일이에요.
+ELKE: Normal? Jan Kowalczyk, det hab ick jetzt nich jehört.
+= Normal? Jan Kowalczyk, das habe ich jetzt nicht gehört.
+> 흔한 일? 얀 코발치크, 내가 방금 못 들은 걸로 할게.
+JAN: Elke, ich meine: Das passiert jeden Tag. Tausendmal.
+> 엘케, 내 말은, 이런 일은 매일 일어난다는 거야. 수천 번씩.
+ELKE: Und deswegen is et egal, oder wat?
+= Und deswegen ist es egal, oder was?
+> 그러니까 아무래도 상관없다, 뭐 그런 거야?
+JAN: Nein. Aber ein Brief ist noch keine Geschichte.
+> 아니. 그래도 편지 한 장으론 아직 기사가 안 돼.
+GISELA: Ich will keine Geschichte, Jannek. Ich will in meiner Wohnung bleiben.
+> 난 기사 같은 건 바라지 않아, 야넥. 내 집에 남고 싶을 뿐이야.
+JAN: Dann brauchen Sie zuerst den Mieterverein. Die helfen bei so was.
+> 그럼 먼저 세입자 협회에 가셔야 해요. 그런 일을 도와줘요.
+GISELA: Mieterverein. Gut. Schreibst du mir die Adresse auf?
+> 세입자 협회. 알았어. 주소 좀 적어 줄래?
+JAN: Natürlich. Und es gibt Fristen. Bitte nichts unterschreiben.
+> 물론이죠. 그리고 기한이 있어요. 제발 아무것도 서명하지 마세요.
+ELKE: Hörste, Gisela? Nischt unterschreiben. Jar nischt.
+= Hörst du, Gisela? Nichts unterschreiben. Gar nichts.
+> 들었지, 기젤라? 아무것도 서명하지 마. 하나도.
+JAN: Ich muss los. Heute fängt ein neuer Kollege an.
+> 나 가 봐야 해. 오늘 새 동료가 첫 출근이거든.
+ELKE: Jeh nur. Aber die Schrippe nimmste mit. Und denk nach, Jan.
+= Geh nur. Aber die Schrippe nimmst du mit. Und denk nach, Jan.
+> 가 봐. 근데 슈리페는 들고 가. 그리고 생각 좀 해 봐, 얀.
+
+# 장면 2 — DER ERSTE TAG
+LEON: Grüß Gott! Äh, guten Morgen. Ich bin Leon Fischer, der neue Volontär.
+> 그뤼스 고트! 어, 안녕하세요. 레온 피셔입니다, 새로 온 수습기자요.
+TOBI: «Grüß Gott»? Hier in Wedding? Na, det fängt ja jut an.
+= «Grüß Gott»? Hier in Wedding? Na, das fängt ja gut an.
+> «그뤼스 고트»? 여기 베딩에서? 야, 시작 한번 좋네.
+LEON: Entschuldigung. Das sagt man bei uns in Stuttgart so.
+> 죄송해요. 저희 슈투트가르트에선 그렇게 인사해요.
+TOBI: Hier sagste «Morjen». Oder jar nischt. Ick bin Tobi, Fotos.
+= Hier sagst du «Morgen». Oder gar nichts. Ich bin Tobi, Fotos.
+> 여기선 «모르옌»이라고 해. 아니면 아무 말도 안 하든가. 난 토비, 사진 담당.
+MIRA: Hör nicht auf ihn, Leon. Ich bin Mira. Daten, Register, alles mit Zahlen.
+> 쟤 말 듣지 마, 레온. 난 미라야. 데이터, 등기부, 숫자 들어간 건 다 내 거.
+SWETA: Swetlana Morosowa. Sag einfach Sweta. Willkommen bei Spreewerk.
+> 스베틀라나 모로소바. 그냥 스베타라고 불러. 슈프레베르크에 온 걸 환영해.
+LEON: Danke. Ich bin echt aufgeregt. Ich hab eure Recherchen alle gelesen.
+> 감사합니다. 진짜 떨려요. 여러분 기사 다 읽었어요.
+HELENE: Alle? Dann wissen Sie mehr als unser Stiftungsrat. Guten Morgen, Herr Fischer.
+> 전부요? 그럼 우리 재단 이사회보다 많이 아시겠네요. 좋은 아침이에요, 피셔 씨.
+LEON: Guten Morgen, Frau Dr. Brandt.
+> 안녕하세요, 브란트 박사님.
+HELENE: Frau Brandt reicht. Und Jan? Wo ist Jan?
+> 브란트 씨면 돼요. 그런데 얀은? 얀은 어디 있죠?
+JAN: Hier. Entschuldigung. Ich hatte ein… Frühstücksgespräch.
+> 여기요. 죄송해요. 아침 식사 겸… 대화가 있었어요.
+TOBI: Bei Elke, wa? Du riechst nach Kaffee und Ärger.
+= Bei Elke, nicht wahr? Du riechst nach Kaffee und Ärger.
+> 엘케네 갔지? 커피랑 골칫거리 냄새가 나.
+JAN: Du bist Leon? Jan Kowalczyk. Willkommen.
+> 네가 레온이구나? 얀 코발치크야. 환영해.
+LEON: Herr Kowalczyk, ich hab Ihren Text über die Paketfahrer gelesen. Der war super.
+> 코발치크 씨, 택배기사 기사 읽었어요. 정말 대단했어요.
+JAN: Danke. Aber hier sagen wir du. Sonst fühle ich mich alt.
+> 고마워. 근데 여기선 말 놔. 안 그러면 내가 늙은 기분이 들어.
+LEON: Okay. Du. Gut. Isch… ich meine, ich gewöhne mich dran.
+> 알았어요. 말 놓을게요. 좋아요. 이쉬… 아니, 익숙해질게요.
+HELENE: Gut, Themenkonferenz. Zehn Minuten, dann gehen alle an die Arbeit.
+> 좋아요, 주제 회의. 10분 하고 다들 일하러 갑니다.
+MIRA: Ich habe die Pflegeheim-Daten. Noch nicht fertig, aber interessant.
+> 요양원 데이터 있어요. 아직 다 안 됐지만 흥미로워요.
+SWETA: Und ich habe neue Telegram-Kanäle. Viel Propaganda, wenig Neues.
+> 전 새 텔레그램 채널들이요. 선전은 많은데 새로운 건 별로 없어요.
+HELENE: Jan? Du warst letzte Woche ruhig.
+> 얀? 지난주엔 조용했죠.
+JAN: Ich habe nichts. Nur einen Brief von einer Nachbarin. Modernisierung, Mieterhöhung.
+> 아무것도 없어요. 이웃 할머니가 받은 편지 한 장뿐. 현대화, 임대료 인상.
+HELENE: Mieten. Hm. Ehrlich gesagt: Darüber schreiben alle.
+> 임대료라. 흠. 솔직히 그건 다들 써요.
+JAN: Genau das habe ich ihr auch gesagt.
+> 저도 바로 그렇게 말했어요.
+LEON: Darf ich was fragen? Wer ist denn der Vermieter?
+> 하나 여쭤봐도 돼요? 집주인이 누군데요?
+JAN: Das weiß niemand. Nur eine Hausverwaltung.
+> 아무도 몰라. 관리회사뿐이야.
+LEON: Aber… ist das nicht komisch? Bei uns in Stuttgart kennt man den Vermieter. Der wohnt meistens im Erdgeschoss.
+> 근데… 그거 이상하지 않아요? 슈투트가르트에선 집주인을 다 알아요. 보통 1층에 살거든요.
+TOBI: Willkommen in Berlin, Kleener. Hier wohnt der Vermieter uff de Cayman-Inseln.
+= Willkommen in Berlin, Kleiner. Hier wohnt der Vermieter auf den Cayman-Inseln.
+> 베를린에 온 걸 환영한다, 꼬맹이. 여기 집주인은 케이맨 제도에 살아.
+MIRA: Oder in Luxemburg. Oder auf Zypern.
+> 아니면 룩셈부르크. 아니면 키프로스.
+HELENE: Jan, sieh es dir an. Einen Tag. Wenn nichts da ist, ist nichts da.
+> 얀, 한번 봐요. 하루만. 아무것도 없으면 없는 거예요.
+JAN: Einen Tag. Okay.
+> 하루. 알겠어요.
+HELENE: Und nimm Herrn Fischer mit. Er soll sehen, wie wir arbeiten.
+> 그리고 피셔 씨를 데려가요. 우리가 어떻게 일하는지 봐야 하니까.
+LEON: Echt? Gleich am ersten Tag?
+> 진짜요? 첫날부터요?
+JAN: Zieh dir was Warmes an. Im Hinterhof ist es kalt.
+> 따뜻하게 입어. 안뜰은 추워.
+
+# 장면 3 — GERICHTSTRASSE 61
+LEON: Das ist es? Das sieht ja… alt aus.
+> 여기예요? 꽤… 낡아 보이네요.
+JAN: Altbau, Baujahr 1905. Vorderhaus, Seitenflügel, Hinterhaus. Typisch Wedding.
+> 옛날 건물, 1905년에 지었어. 앞채, 옆채, 뒤채. 전형적인 베딩이지.
+LEON: Du kennst dich hier aus.
+> 여기 잘 아시네요.
+JAN: Ich habe hier gewohnt. Seitenflügel, dritter Stock. Bis ich zwölf war.
+> 내가 여기 살았어. 옆채 3층. 열두 살 때까지.
+LEON: Wirklich? Hier?
+> 진짜요? 여기서요?
+JAN: Da oben. Das Fenster mit dem Riss. Meine Mutter hat da immer Geranien gehabt.
+> 저 위. 금 간 창문. 우리 어머니가 늘 거기에 제라늄을 키웠지.
+LEON: Und du hast Frau Hoffmann deshalb erkannt?
+> 그래서 호프만 할머니를 알아보신 거예요?
+JAN: Sie hat mir Kakao gemacht, wenn meine Mutter Nachtschicht hatte.
+> 어머니가 야간 근무하실 때 코코아를 타 주셨어.
+DEMIR: Suchen Sie jemanden? Ah… Moment. Jan? Der kleine Jan vom Seitenflügel?
+> 누구 찾으세요? 아… 잠깐. 얀? 옆채 꼬마 얀?
+JAN: Herr Demir! Sie haben den Kiosk immer noch?
+> 데미르 아저씨! 아직도 키오스크 하세요?
+DEMIR: Noch. Aber nicht mehr lange, glaube ich. Hast du den Zettel gesehen?
+> 아직은. 근데 오래는 못 할 것 같아. 그 쪽지 봤어?
+JAN: Welchen Zettel?
+> 무슨 쪽지요?
+DEMIR: Im Treppenhaus. Komm, ich zeige ihn dir.
+> 계단에. 와 봐, 보여 줄게.
+LEON: «Mitteilung an alle Mieter: Ab Januar Bauarbeiten im Keller. Heizung und Warmwasser können ausfallen.»
+> «모든 세입자께 알림: 1월부터 지하실 공사. 난방과 온수가 끊길 수 있음.»
+JAN: «Können ausfallen.» Wie lange?
+> «끊길 수 있음.» 얼마나 오래?
+DEMIR: Steht nicht da. Und schau, unten: «Für Fragen: Spreeblick Hausverwaltung.» Nur eine E-Mail. Keine Telefonnummer.
+> 안 적혀 있어. 그리고 봐, 아래: «문의: 슈프레블릭 관리회사.» 이메일 하나뿐. 전화번호는 없어.
+LEON: Ich mache ein Foto, ja?
+> 사진 찍을게요, 괜찮죠?
+JAN: Mach. Von allem. Auch vom Briefkasten.
+> 찍어. 전부. 우편함도.
+DEMIR: Die Briefkästen? Da ist die Hälfte leer. Die Leute sind schon weg.
+> 우편함? 절반은 비었어. 사람들이 벌써 나갔거든.
+JAN: Wie viele Wohnungen hat das Haus?
+> 이 건물에 집이 몇 채예요?
+DEMIR: Vierundzwanzig. Vor einem Jahr waren noch zwanzig bewohnt. Jetzt vielleicht zwölf.
+> 스물네 채. 1년 전엔 스무 집에 사람이 살았지. 지금은 열두 집 정도.
+LEON: Und die leeren Wohnungen? Bleiben die leer?
+> 그럼 빈집들은요? 계속 비어 있어요?
+DEMIR: Nein. Da kommen neue Leute. Junge Leute, mit Koffern. Drei Monate, sechs Monate, dann wieder neue.
+> 아니. 새 사람들이 와. 캐리어 끄는 젊은 사람들. 석 달, 여섯 달 살고 또 바뀌어.
+PAULA: Entschuldigung, darf ich mal vorbei? Ich muss zur Uni.
+> 죄송한데 좀 지나가도 될까요? 학교 가야 해서요.
+JAN: Natürlich. Darf ich kurz fragen: Sie wohnen hier?
+> 물론이죠. 잠깐 여쭤봐도 될까요? 여기 사세요?
+PAULA: Seit Oktober. Vierter Stock. Möbliert, auf Zeit.
+> 10월부터요. 4층. 가구 딸린 기간 한정이에요.
+JAN: Darf ich fragen, wie viel Sie zahlen?
+> 얼마 내시는지 여쭤봐도 될까요?
+PAULA: Warum? Sind Sie von der Hausverwaltung?
+> 왜요? 관리회사에서 나오셨어요?
+JAN: Nein. Ich bin Journalist. Jan Kowalczyk, von Spreewerk.
+> 아니요. 기자예요. 얀 코발치크, 슈프레베르크에서 왔습니다.
+PAULA: Oh. Okay… Tausenddreihundertfünfzig. Für fünfunddreißig Quadratmeter. Alles inklusive.
+> 아. 네… 1,350유로요. 35제곱미터에. 다 포함해서요.
+LEON: Tausenddreihundertfünfzig? Für ein Zimmer?
+> 1,350유로? 방 하나에?
+PAULA: Ich weiß. Aber ich habe sechs Monate gesucht. Das war die einzige Wohnung.
+> 알아요. 근데 여섯 달을 찾았어요. 그게 유일한 집이었어요.
+JAN: Haben Sie einen Mietvertrag? Mit dem Namen des Vermieters?
+> 임대차 계약서 있어요? 집주인 이름이 들어간?
+PAULA: Ja, aber da steht auch nur «Spreeblick». Ich muss jetzt wirklich los. Viel Glück.
+> 네, 근데 거기도 «슈프레블릭»이라고만 적혀 있어요. 저 진짜 가야 해요. 행운을 빌어요.
+LEON: Jan, Frau Hoffmann zahlt vierhundertzwölf. Und das Mädchen da oben über tausenddreihundert.
+> 얀, 호프만 할머니는 412유로 내는데. 저 위 학생은 1,300유로가 넘어요.
+JAN: Ja. Und jetzt weißt du, warum der Zettel im Treppenhaus hängt.
+> 그래. 이제 계단에 왜 그 쪽지가 붙어 있는지 알겠지.
+LEON: Weil sie wollen, dass die alten Mieter gehen.
+> 옛 세입자들이 나가길 바라니까요.
+JAN: Weil jede alte Mieterin, die geht, fast tausend Euro mehr bedeutet. Jeden Monat.
+> 옛 세입자가 한 명 나갈 때마다 매달 거의 천 유로가 더 들어오니까.
+
+# 장면 4 — ZURÜCK IM GROSCHEN
+ELKE: Na? Haste dir det Haus anjekiekt?
+= Na? Hast du dir das Haus angesehen?
+> 그래서? 그 건물 보고 왔어?
+JAN: Habe ich. Elke, das ist Leon. Erster Tag.
+> 봤어. 엘케, 얘는 레온이야. 오늘 첫날.
+ELKE: Erster Tag und gleich bei mir? Det is 'n juter Anfang. Wat trinkste, Kleener?
+= Erster Tag und gleich bei mir? Das ist ein guter Anfang. Was trinkst du, Kleiner?
+> 첫날부터 우리 가게? 시작이 좋네. 뭐 마실래, 꼬맹이?
+LEON: Eine Apfelschorle, bitte.
+> 사과 탄산수 주세요.
+ELKE: 'ne Apfelschorle. In 'ner Kneipe. Na jut, ick hab ooch so wat.
+= Eine Apfelschorle. In einer Kneipe. Na gut, ich habe auch so etwas.
+> 사과 탄산수. 선술집에서. 뭐, 그런 것도 있긴 하지.
+GISELA: Jannek. Und? Was hast du gesehen?
+> 야넥. 그래서? 뭘 봤니?
+JAN: Halbe Briefkästen leer. Neue Mieter mit Koffern. Und ein Zettel über die Heizung.
+> 우편함 절반이 비었어요. 캐리어 든 새 세입자들. 그리고 난방에 관한 쪽지.
+GISELA: Die Heizung? Im Januar?
+> 난방? 1월에?
+JAN: «Kann ausfallen», steht da. Das ist Druck, Frau Hoffmann. Damit Sie freiwillig gehen.
+> «끊길 수 있음»이라고 적혀 있어요. 그건 압박이에요, 아주머니. 스스로 나가시게 하려는 거죠.
+GISELA: Ich gehe nicht. Ich habe hier zweiundfünfzig Jahre gelebt. Mein Mann ist hier gestorben.
+> 난 안 나가. 여기서 52년을 살았어. 남편도 여기서 세상을 떠났고.
+ELKE: Und du, Jan? Bleibste bei «det is normal in Berlin»?
+= Und du, Jan? Bleibst du bei «das ist normal in Berlin»?
+> 그리고 너, 얀? 아직도 «베를린에선 흔한 일»이라고 할 거야?
+JAN: Nein. Normal ist es vielleicht. Aber richtig ist es nicht.
+> 아니. 흔한 일일 수는 있어. 그래도 옳은 일은 아니야.
+LEON: Und eine Geschichte? Ist es jetzt eine Geschichte?
+> 그럼 기사는요? 이제 기사가 돼요?
+JAN: Noch nicht. Eine Geschichte braucht einen Namen. Wer steckt hinter Spreeblick?
+> 아직. 기사엔 이름이 필요해. 슈프레블릭 뒤에 누가 있지?
+LEON: Kann man das herausfinden?
+> 그걸 알아낼 수 있어요?
+JAN: Mira kann das. Grundbuch, Handelsregister. Ich rufe sie an.
+> 미라는 할 수 있어. 등기부, 상업 등기. 전화해 볼게.
+GISELA: Jannek, ich will aber nicht in die Zeitung. Mit Foto und so.
+> 야넥, 근데 난 신문에 나오고 싶진 않아. 사진이랑 그런 거.
+JAN: Sie entscheiden das. Ohne Ihr Ja steht da kein Name, kein Foto. Versprochen.
+> 그건 아주머니가 정하세요. 허락 없이는 이름도 사진도 안 나가요. 약속해요.
+ELKE: Er hält seine Versprechen. Meistens.
+= Er hält seine Versprechen. Meistens.
+> 얘는 약속은 지켜. 대부분은.
+LEON: Darf ich eine Frage zum Mieterverein stellen? Muss Frau Hoffmann sofort antworten?
+> 세입자 협회에 대해 하나 물어봐도 돼요? 호프만 할머니가 바로 답해야 해요?
+JAN: Gute Frage. Bei einer Modernisierung gibt es Fristen. Man kann Härtegründe nennen. Alter, Rente, Gesundheit.
+> 좋은 질문이야. 현대화 공사엔 기한이 있어. 사정이 어렵다는 이유를 댈 수 있지. 나이, 연금, 건강.
+GISELA: Härtegründe. Davon habe ich genug.
+> 어려운 사정. 그건 나한테 차고 넘치지.
+JAN: Aber die Frist ist wichtig. Morgen gehen Sie zum Mieterverein. Leon kommt mit, wenn Sie wollen.
+> 그래도 기한이 중요해요. 내일 세입자 협회에 가세요. 원하시면 레온이 같이 갈 거예요.
+LEON: Ich? Ja. Klar. Gerne, Frau Hoffmann.
+> 저요? 네. 물론이죠. 기꺼이요, 호프만 할머니.
+GISELA: Der Junge ist höflich. Nicht so wie ihr Berliner.
+> 이 청년은 예의가 바르네. 너희 베를린 사람들이랑 달라.
+ELKE: Ick bin höflich! Uff meine Art.
+= Ich bin höflich! Auf meine Art.
+> 나도 예의 발라! 내 방식대로.
+
+# 엔딩 — EIN NAME, ZWEIMAL
+MIRA: Jan? Du hast angerufen. Ich habe schon geschaut. Spreeblick Hausverwaltung GmbH.
+> 얀? 전화했었지. 벌써 찾아봤어. 슈프레블릭 관리회사 유한회사.
+JAN: Und?
+> 그래서?
+MIRA: Gegründet vor achtzehn Monaten. Sitz in Mitte. Ein Geschäftsführer, den niemand kennt.
+> 18개월 전에 설립. 본사는 미테. 아무도 모르는 대표 한 명.
+JAN: Das ist alles?
+> 그게 다야?
+MIRA: Nein. Das Komische kommt jetzt. Ich kenne den Namen. Von letzter Woche.
+> 아니. 이상한 건 지금부터야. 나 그 이름 알아. 지난주에 봤어.
+JAN: Woher?
+> 어디서?
+MIRA: Aus einem Artikel über Neukölln. Schillerkiez. Ein Haus, ein Zettel, eine Mieterhöhung. Dieselbe Hausverwaltung.
+> 노이쾰른 기사에서. 실러키츠. 건물 하나, 쪽지 하나, 임대료 인상. 같은 관리회사야.
+JAN: Zufall?
+> 우연?
+MIRA: Vielleicht. Aber ich habe noch nicht weitergesucht. Soll ich?
+> 그럴지도. 근데 아직 더 안 찾아봤어. 찾아볼까?
+JAN: Such weiter, Mira. Ich glaube, das ist kein Haus. Das ist ein System.
+> 계속 찾아, 미라. 이건 건물 하나가 아닌 것 같아. 이건 시스템이야.
