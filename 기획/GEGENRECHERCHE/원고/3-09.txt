@@ -1,0 +1,405 @@
+@part 3
+@ep 9
+@title Nachtschicht
+@sub 야간 근무 · 12월 초, 라벨이 바뀐 드론과 한 장의 사진
+@info 대사 150턴 · 난이도 B2 · 배경: 3-8화 며칠 뒤(2027년 12월 초), Skyward 공장(야간), Spreewerk 편집국
+@cast TOBI | 토비 레베르크 (37) · 야간 경비로 잠입 중
+@cast MAREK | 마레크 (46) · 폴란드 출신 경비, 토비의 동료
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast LEON | 레온 피셔 (24) · 기자
+@note ※ 이 화는 '증거를 찍지 말라는 약속'과 '증거' 사이의 윤리 긴장을 다룹니다. 토비는 개인 집·기술 세부는 안 찍는다는 규칙을 받았지만, '라벨 바꿔치기'라는 사기 정황은 기술이 아니라 '속임수'입니다. 그 경계에서 그는 사진 한 장을 찍고, CCTV에 잡힙니다. 등장 인물과 회사는 가상입니다.
+@note ※ 표현 초점: Umetikettierung · Herkunft · Zulieferer · Exportkontrolle · Dual Use · Beweis · CCTV · Gewissensentscheidung
+@next 3부 10화 — «Roloffs Absturz»(롤로프의 추락) — 제보자 롤로프의 회사가 돌연 세무조사와 대출 회수를 맞는다. 보복인가 우연인가. 취재원이 무너지면 기사도 무너진다.
+
+# 콜드 오픈 — DRITTE NACHT
+TOBI: Marek? Du bist ooch wieder Nachtschicht?
+= Marek? Du bist auch wieder Nachtschicht?
+> 마레크? 당신도 또 야간이야?
+MAREK: Immer Nachtschicht. Tag ist für andere. Nacht ist für uns. Die Billigen.
+> 늘 야간. 낮은 다른 사람들 거야. 밤은 우리 거고. 싼 사람들.
+TOBI: Die Billigen. Jenau. Kaffee?
+= Die Billigen. Genau. Kaffee?
+> 싼 사람들. 맞아. 커피?
+MAREK: Danke. Du bist anders als die anderen Wachleute. Du redest mit mir.
+> 고마워. 넌 다른 경비들이랑 달라. 나랑 얘기해 줘.
+TOBI: Wieso soll ick nich mit dir reden? Wir sitzen beide die janze Nacht hier.
+= Wieso soll ich nicht mit dir reden? Wir sitzen beide die ganze Nacht hier.
+> 왜 너랑 얘기 안 해? 둘 다 밤새 여기 앉아 있잖아.
+MAREK: Die anderen denken: Pole, spricht schlecht Deutsch, dumm. Aber ich bin nicht dumm. Ich war Ingenieur. In Polen.
+> 다른 사람들은 이렇게 생각해. 폴란드인, 독일어 서툴러, 멍청해. 근데 난 안 멍청해. 엔지니어였어. 폴란드에서.
+TOBI: Ingenieur? Und jetzt Nachtwache?
+= Ingenieur? Und jetzt Nachtwache?
+> 엔지니어? 그런데 지금은 야간 경비?
+MAREK: Deutschland erkennt mein Diplom nicht an. «Nicht gleichwertig», sagen sie. Also bewache ich Drohnen, die ich besser verstehe als die, die sie bauen.
+> 독일이 내 학위를 인정 안 해. «동등하지 않다»는 거야. 그래서 난 드론을 지켜. 그걸 만드는 사람들보다 내가 더 잘 아는 드론을.
+TOBI: Du verstehst die Drohnen?
+= Du verstehst die Drohnen?
+> 드론을 이해해?
+MAREK: Ich verstehe genug. Und was ich verstehe, gefällt mir nicht. Nicht gut hier, Tobi. Nicht gut.
+> 충분히 이해해. 그리고 내가 이해하는 게 마음에 안 들어. 여기 안 좋아, 토비. 안 좋아.
+TOBI: Wie lange arbeitest du schon hier, Marek?
+= Wie lange arbeitest du schon hier, Marek?
+> 여기서 일한 지 얼마나 됐어, 마레크?
+MAREK: Drei Monate. Lang genug, um zu sehen. Kurz genug, um noch Angst zu haben.
+> 석 달. 보기엔 충분히 길고. 아직 무서워할 만큼 짧고.
+TOBI: Wovor hast du Angst?
+= Wovor hast du Angst?
+> 뭐가 무서워?
+MAREK: Vor allem. Vor dem Job verlieren. Vor dem Aufenthalt. Meine Papiere sind… kompliziert.
+> 전부 다. 일자리 잃는 거. 체류 자격. 내 서류가… 복잡해.
+TOBI: Und trotzdem sagst du «nicht gut hier». Immer wieder.
+= Und trotzdem sagst du «nicht gut hier». Immer wieder.
+> 그런데도 «여기 안 좋아»라고 해. 계속.
+MAREK: Weil es wahr ist. Manchmal ist die Wahrheit stärker als die Angst. Nur manchmal.
+> 사실이니까. 가끔은 진실이 두려움보다 강해. 가끔만.
+TOBI: Det kenn ick. Det kenn ick jut.
+= Das kenne ich. Das kenne ich gut.
+> 그거 알아. 잘 알아.
+
+# 장면 1 — MAREK ÖFFNET SICH
+TOBI: Wat jenau jefällt dir nich, Marek?
+= Was genau gefällt dir nicht, Marek?
+> 정확히 뭐가 마음에 안 들어, 마레크?
+MAREK: Darf ich dir vertrauen? Du bist Wachmann. Vielleicht erzählst du es dem Chef.
+> 널 믿어도 돼? 넌 경비잖아. 어쩌면 사장한테 말할지도.
+TOBI: Ick erzähl dem Chef jar nischt. Der Chef erzählt mir ja ooch nischt.
+= Ich erzähle dem Chef gar nichts. Der Chef erzählt mir ja auch nichts.
+> 난 사장한테 아무것도 말 안 해. 사장도 나한테 아무것도 안 말하잖아.
+MAREK: Gut. Dann komm. Ich zeige dir was. In der Halle. Aber leise.
+> 좋아. 그럼 와. 뭘 보여 줄게. 공장에. 근데 조용히.
+TOBI: Wat is in der Halle?
+= Was ist in der Halle?
+> 공장에 뭐가 있는데?
+MAREK: Die Drohnen für die «Vorführung». Nächste Woche kommt die Bundeswehr. Zum Abnehmen. Die erste Lieferung.
+> «시연»용 드론들. 다음 주에 연방군이 와. 인수하러. 첫 납품.
+TOBI: Und?
+= Und?
+> 그래서?
+MAREK: Schau. Diese Kiste. Siehst du den Aufkleber? «Skyward Defence. Made in Germany.» Neu. Frisch aufgeklebt.
+> 봐. 이 상자. 스티커 보여? «스카이워드 디펜스. 메이드 인 저머니.» 새거. 방금 붙인 거.
+TOBI: Jut, und?
+= Gut, und?
+> 그래, 그래서?
+MAREK: Zieh ihn ab. Vorsichtig. Darunter.
+> 떼어 봐. 조심히. 그 밑에.
+TOBI: Darunter is noch 'n Aufkleber. In 'ner fremden Sprache. Und 'n Herkunftsland.
+= Darunter ist noch ein Aufkleber. In einer fremden Sprache. Und ein Herkunftsland.
+> 밑에 스티커가 또 있어. 외국어로. 그리고 원산지 국가.
+MAREK: «Made in Germany» klebt über dem echten Aufkleber. Die ganze Lieferung. Ich habe es gesehen, als ich half, sie zu stapeln.
+> «메이드 인 저머니»가 진짜 스티커 위에 붙어 있어. 납품 전체가. 쌓는 거 도우면서 봤어.
+TOBI: Die janze Lieferung? Wie viele Kisten?
+= Die ganze Lieferung? Wie viele Kisten?
+> 납품 전체? 상자가 몇 개야?
+MAREK: Zwanzig. Für die erste Abnahme. Zwanzig Drohnen. Alle importiert. Alle überklebt.
+> 스무 개. 첫 인수용. 드론 스무 개. 전부 수입. 전부 덮어 붙였어.
+TOBI: Und die Bundeswehr merkt det nich?
+= Und die Bundeswehr merkt das nicht?
+> 연방군은 그걸 모르나?
+MAREK: Die Bundeswehr sieht, was man ihr zeigt. Eine Vorführung. Eine schöne Halle. Einen jungen Helden. Niemand zieht Aufkleber ab.
+> 연방군은 보여 주는 걸 봐. 시연. 멋진 공장. 젊은 영웅. 아무도 스티커를 떼지 않아.
+TOBI: Außer eener, der die Wahrheit stärker findet als die Angst.
+= Außer einer, der die Wahrheit stärker findet als die Angst.
+> 진실을 두려움보다 강하게 여기는 한 사람만 빼고.
+MAREK: Vielleicht. Vielleicht bin ich dumm. Ein dummer, ehrlicher Pole.
+> 어쩌면. 어쩌면 난 멍청해. 멍청하고 정직한 폴란드인.
+TOBI: Ehrlich is nich dumm, Marek. Ehrlich is selten. Det is wat anderes.
+= Ehrlich ist nicht dumm, Marek. Ehrlich ist selten. Das ist was anderes.
+> 정직한 건 멍청한 게 아니야, 마레크. 정직한 건 드문 거야. 그건 다른 거지.
+
+# 장면 2 — DIE ENTSCHEIDUNG
+TOBI: Jan. Ick bin's. Mitten in der Nacht. Et is dringend.
+= Jan. Ich bin es. Mitten in der Nacht. Es ist dringend.
+> 얀. 나야. 한밤중에. 급해.
+JAN: Tobi. Was ist los? Bist du okay?
+> 토비. 무슨 일이야? 괜찮아?
+TOBI: Mir jeht's jut. Aber ick hab wat jesehen. Die janze erste Lieferung an die Bundeswehr. Importierte Drohnen. Mit «Made in Germany» überklebt.
+= Mir geht es gut. Aber ich habe was gesehen. Die ganze erste Lieferung an die Bundeswehr. Importierte Drohnen. Mit «Made in Germany» überklebt.
+> 난 괜찮아. 근데 뭘 봤어. 연방군 첫 납품 전체. 수입 드론. «메이드 인 저머니»로 덮어 붙인.
+JAN: Umetikettierung. Das ist Betrug. An der Bundeswehr. Und am Steuerzahler.
+> 라벨 바꿔치기. 그건 사기야. 연방군을 상대로. 그리고 납세자를 상대로.
+TOBI: Jenau. Und jetzt kommt die Frage. Darf ick det fotografieren?
+= Genau. Und jetzt kommt die Frage. Darf ich das fotografieren?
+> 바로 그거야. 그리고 이제 질문. 이거 사진 찍어도 돼?
+JAN: Warte. Nicht sofort. Ich hole Helene und Katrin ans Telefon. Das entscheiden wir nicht allein.
+> 기다려. 당장은 말고. 헬레네랑 카트린을 전화로 부를게. 이건 우리끼리 안 정해.
+HELENE: Tobi, erklär genau. Was würdest du fotografieren?
+> 토비, 정확히 설명해요. 뭘 찍을 건데요?
+TOBI: 'ne Kiste. Mit zwee Aufklebern. Oben «Made in Germany», drunter 'n fremder. Keene Technik. Nur zwee Aufkleber.
+= Eine Kiste. Mit zwei Aufklebern. Oben «Made in Germany», drunter ein fremder. Keine Technik. Nur zwei Aufkleber.
+> 상자 하나. 스티커 두 개랑. 위에 «메이드 인 저머니», 밑에 외국 거. 기술 아니야. 스티커 두 개뿐.
+KATRIN: Das ist die Grenze. Zwei Aufkleber sind keine Militärtechnik. Sie sind ein Beweis für Täuschung. Das dürfen wir dokumentieren.
+> 그게 선이야. 스티커 두 개는 군사 기술이 아니야. 기만의 증거지. 그건 기록해도 돼.
+JAN: Aber vorsichtig. Keine Seriennummern im Bild. Keine technischen Details. Nur die zwei Aufkleber.
+> 근데 조심히. 사진에 일련번호 안 나오게. 기술 세부 안 나오게. 스티커 두 개만.
+KATRIN: Und, Tobi: Ist dort eine Kamera? Eine Überwachungskamera?
+> 그리고 토비, 거기 카메라 있어? 감시 카메라?
+TOBI: Ick kiek. … Ja. Eene. In der Ecke. Aber die zeigt zur Tür, nich zu den Kisten.
+= Ich gucke. … Ja. Eine. In der Ecke. Aber die zeigt zur Tür, nicht zu den Kisten.
+> 볼게. … 응. 하나. 구석에. 근데 문 쪽을 봐, 상자 쪽이 아니라.
+KATRIN: Bist du sicher? Ganz sicher?
+> 확실해? 완전히 확실해?
+TOBI: Ziemlich sicher. Nich janz. Et is dunkel.
+= Ziemlich sicher. Nicht ganz. Es ist dunkel.
+> 꽤 확실해. 완전히는 아니고. 어두워서.
+MIRA: Tobi, beschreib mir die Kamera. Genau. Form, Farbe, Position.
+> 토비, 그 카메라를 설명해 봐. 정확히. 모양, 색, 위치.
+TOBI: Rund, schwarz, an der Decke. In der Ecke bei der Tür. Keene Kuppel, 'n Zylinder.
+= Rund, schwarz, an der Decke. In der Ecke bei der Tür. Keine Kuppel, ein Zylinder.
+> 둥글고, 검고, 천장에. 문 옆 구석에. 돔 아니고, 원통.
+MIRA: Ein Zylinder zeigt in eine Richtung. Eine Kuppel sieht alles. Ein Zylinder sieht nur, wohin er zeigt. Das ist gut.
+> 원통은 한 방향을 봐. 돔은 전부 보고. 원통은 향한 데만 봐. 그건 좋은 거야.
+TOBI: Und er zeigt zur Tür. Nich zu den Kisten.
+= Und er zeigt zur Tür. Nicht zu den Kisten.
+> 그리고 문 쪽을 봐. 상자 쪽이 아니라.
+MIRA: Dann müsstest du außerhalb des Bildwinkels sein. Wenn du an den Kisten stehst. Aber «müsstest» ist nicht «bist».
+> 그럼 상자 앞에 서면 화각 밖일 거야. 근데 «일 거야»는 «이다»가 아니야.
+TOBI: «Müsstest» is nich «bist». Verstanden.
+= «Müsstest» ist nicht «bist». Verstanden.
+> «일 거야»는 «이다»가 아니다. 알겠어.
+
+# 장면 3 — EIN BILD
+JAN: «Ziemlich sicher» reicht nicht, Tobi. Wenn die Kamera dich filmt, haben sie dich. Und die Quelle.
+> «꽤 확실해»론 안 돼, 토비. 카메라가 널 찍으면 그들이 널 잡아. 그리고 취재원까지.
+LEON: Könnten wir nicht warten? Bis die Kisten woanders stehen? An einem Ort ohne Kamera?
+> 기다리면 안 돼요? 상자들이 다른 데 놓일 때까지? 카메라 없는 데에?
+JAN: Die Kisten stehen nur eine Woche. Dann sind sie bei der Bundeswehr. Dann ist der Beweis weg. Für immer.
+> 상자는 일주일만 거기 있어. 그다음엔 연방군한테. 그럼 증거는 사라져. 영영.
+LEON: Also haben wir nur diese eine Nacht.
+> 그럼 이 하룻밤뿐이네요.
+SWETA: So ist es oft. Die wichtigsten Entscheidungen hat man nachts. Allein. In Sekunden.
+> 자주 그래. 제일 중요한 결정은 밤에 하지. 혼자. 몇 초 안에.
+HELENE: Aber nicht allein. Tobi hat uns. Und er hat Marek. Die Entscheidung teilt er mit uns. Das ist der Unterschied zu früher.
+> 근데 혼자는 아니에요. 토비한텐 우리가 있어요. 그리고 마레크가 있고. 결정을 우리랑 나눠요. 그게 예전과의 차이예요.
+TOBI: Ick weeß. Aber nächste Woche sind die Kisten weg. Bei der Bundeswehr. Dann is der Beweis futsch.
+= Ich weiß. Aber nächste Woche sind die Kisten weg. Bei der Bundeswehr. Dann ist der Beweis futsch.
+> 알아. 근데 다음 주면 상자들이 사라져. 연방군한테. 그럼 증거는 날아가.
+HELENE: Dann ist er futsch. Tobi, hör mir zu. Kein Bild ist einen Menschen wert. Wenn du unsicher bist, fotografierst du nicht.
+> 그럼 날아가는 거예요. 토비, 내 말 들어요. 어떤 사진도 사람 한 명만큼 가치 없어요. 확신이 안 서면 안 찍어요.
+TOBI: Und wenn ick den Beweis verlier?
+= Und wenn ich den Beweis verliere?
+> 그럼 증거를 잃으면?
+HELENE: Dann finden wir einen anderen Weg. Zolldaten. Importstatistiken. Mareks Aussage, wenn er will. Ein Bild ist nicht der einzige Weg.
+> 그럼 다른 방법을 찾아요. 통관 데이터. 수입 통계. 마레크가 원하면 그의 증언. 사진이 유일한 방법이 아니에요.
+TOBI: Marek will nich aussagen. Der hat Angst. Und Zolldaten zeigen nich, det se die Aufkleber überkleben.
+= Marek will nicht aussagen. Der hat Angst. Und Zolldaten zeigen nicht, dass sie die Aufkleber überkleben.
+> 마레크는 증언 안 해. 무서워해. 그리고 통관 데이터론 라벨을 덮어 붙인다는 걸 못 보여 줘.
+SWETA: Tobi, eine Frage. Wenn du fotografierst und die Kamera dich doch sieht. Was passiert mit Marek?
+> 토비, 질문 하나. 네가 찍는데 카메라가 그래도 널 보면. 마레크는 어떻게 돼?
+TOBI: Marek… Der hat mir die Kiste jezeigt. Wenn ick uffflieje, flieg ick mit ihm uff.
+= Marek… Der hat mir die Kiste gezeigt. Wenn ich auffliege, fliege ich mit ihm auf.
+> 마레크… 나한테 상자를 보여 줬어. 내가 들키면 그 사람도 같이 들켜.
+SWETA: Dann ist die Entscheidung nicht nur deine. Es ist auch seine.
+> 그럼 그 결정은 너만의 게 아니야. 그 사람 것이기도 하지.
+TOBI: Marek. Ick muss dich wat fragen. Ehrlich.
+= Marek. Ich muss dich was fragen. Ehrlich.
+> 마레크. 하나 물어봐야 해. 솔직하게.
+
+# 장면 4 — MAREKS ANTWORT
+MAREK: Du bist kein normaler Wachmann. Ich habe es gewusst. Von Anfang an.
+> 넌 평범한 경비가 아니야. 알고 있었어. 처음부터.
+TOBI: Nee. Ick bin kein normaler Wachmann. Ick bin Fotograf. Für 'ne Zeitung. Die über sowat schreibt.
+= Nein. Ich bin kein normaler Wachmann. Ich bin Fotograf. Für eine Zeitung. Die über so was schreibt.
+> 응. 난 평범한 경비가 아니야. 사진기자야. 신문사의. 이런 거 쓰는.
+MAREK: Eine Zeitung. Deswegen redest du mit mir. Nicht weil du nett bist.
+> 신문사라. 그래서 나랑 얘기한 거구나. 네가 착해서가 아니라.
+TOBI: Beides, Marek. Ick bin nett. Und ick bin Fotograf. Det eene schließt det andere nich aus.
+= Beides, Marek. Ich bin nett. Und ich bin Fotograf. Das eine schließt das andere nicht aus.
+> 둘 다야, 마레크. 난 착해. 그리고 사진기자야. 하나가 다른 걸 배제하지 않아.
+MAREK: Und jetzt willst du die Kiste fotografieren. Und ich bin dann… mit drin.
+> 그리고 이제 상자를 찍으려는 거지. 그럼 난… 같이 엮이고.
+TOBI: Deswejen frag ick dich. Ick fotografier nur, wenn du et willst. Wenn nich, lass ick et. Dein Leben, deine Entscheidung.
+= Deswegen frage ich dich. Ich fotografiere nur, wenn du es willst. Wenn nicht, lasse ich es. Dein Leben, deine Entscheidung.
+> 그래서 너한테 묻는 거야. 네가 원할 때만 찍어. 안 원하면 안 해. 네 인생, 네 결정.
+MAREK: Warum sollte ich das wollen? Ich verliere den Job. Vielleicht mehr.
+> 왜 그걸 원하겠어? 일자리를 잃어. 어쩌면 더.
+TOBI: Weil du «nicht gut hier» jesagt hast. Zehnmal. Weil du Ingenieur bist und weeßt, det det Betrug is.
+= Weil du «nicht gut hier» gesagt hast. Zehnmal. Weil du Ingenieur bist und weißt, dass das Betrug ist.
+> 네가 «여기 안 좋아»라고 했으니까. 열 번도 더. 네가 엔지니어고, 이게 사기라는 걸 아니까.
+MAREK: Betrug an der Bundeswehr. Mit Drohnen, die vielleicht nicht funktionieren. Für junge Soldaten.
+> 연방군을 상대로 한 사기. 어쩌면 작동도 안 할 드론으로. 젊은 병사들을 위한.
+TOBI: Jenau. Und wenn du Nein sagst, is det ooch okay. Ick verstehe det.
+= Genau. Und wenn du Nein sagst, ist das auch okay. Ich verstehe das.
+> 맞아. 그리고 네가 거절해도 괜찮아. 이해해.
+MAREK: Mein Sohn ist neunzehn. In Polen. Vielleicht muss auch er einmal dienen. Mit so einer Drohne.
+> 내 아들이 열아홉이야. 폴란드에. 어쩌면 걔도 언젠가 복무해야 해. 그런 드론이랑.
+TOBI: Dann verstehst du, warum ick frage.
+= Dann verstehst du, warum ich frage.
+> 그럼 왜 내가 묻는지 알겠네.
+MAREK: Fotografiere. Aber schnell. Und wenn die Kamera dich sieht, sagst du: Ich habe geschlafen. Du warst allein. Ich wusste nichts.
+> 찍어. 근데 빨리. 그리고 카메라가 널 보면 이렇게 말해. 난 자고 있었다. 넌 혼자였다. 난 아무것도 몰랐다.
+TOBI: Marek. Wenn se dich doch finden. Hast du 'n Plan?
+= Marek. Wenn sie dich doch finden. Hast du einen Plan?
+> 마레크. 그래도 널 찾으면. 계획 있어?
+MAREK: Ich sage die Wahrheit. Ich habe gesehen, was ich gesehen habe. Ein Ingenieur lügt nicht über Technik. Das ist meine Würde.
+> 사실을 말해. 본 걸 봤다고. 엔지니어는 기술에 대해 거짓말 안 해. 그게 내 존엄이야.
+TOBI: Und dein Job? Deine Papiere?
+= Und dein Job? Deine Papiere?
+> 그럼 네 일자리? 네 서류?
+MAREK: Einen Job finde ich wieder. Meine Würde nicht. Die habe ich nur einmal.
+> 일자리는 또 찾아. 존엄은 아니야. 그건 한 번뿐이지.
+TOBI: Marek. Wenn du Hilfe brauchst. 'ne Anwältin. Ruf an. Die Nummer jeb ick dir. Die heißt Katrin. Streng und jut.
+= Marek. Wenn du Hilfe brauchst. Eine Anwältin. Ruf an. Die Nummer gebe ich dir. Die heißt Katrin. Streng und gut.
+> 마레크. 도움이 필요하면. 변호사. 전화해. 번호 줄게. 이름은 카트린. 엄격하고 좋아.
+MAREK: Eine strenge, gute Anwältin für einen polnischen Nachtwächter. Das Leben ist manchmal doch freundlich.
+> 폴란드 야간 경비를 위한 엄격하고 좋은 변호사라. 삶이 가끔은 친절하네.
+TOBI: Abjemacht, Marek. Du wusstest nischt.
+= Abgemacht, Marek. Du wusstest nichts.
+> 좋아, 마레크. 넌 아무것도 몰랐어.
+MAREK: Und, Tobi. Noch etwas. Wenn du das fotografierst, ändert es dann wirklich etwas? Oder ist es nur ein Bild?
+> 그리고 토비. 하나 더. 이걸 찍으면 정말 뭔가 바뀌어? 아니면 그냥 사진일 뿐이야?
+TOBI: Ick weeß et nich. Manchmal ändert 'n Bild allet. Manchmal nischt. Aber ohne Bild ändert sich nie wat.
+= Ich weiß es nicht. Manchmal ändert ein Bild alles. Manchmal nichts. Aber ohne Bild ändert sich nie was.
+> 몰라. 가끔 사진 하나가 전부를 바꿔. 가끔 아무것도. 근데 사진 없이는 아무것도 안 바뀌어.
+MAREK: Ohne Bild ändert sich nie was. Das ist ein guter Satz. Vielleicht der beste heute Nacht.
+> 사진 없이는 아무것도 안 바뀐다. 좋은 말이네. 어쩌면 오늘 밤 최고의.
+TOBI: Den hab ick von meiner Chefin. Die hat viele jute Sätze.
+= Den habe ich von meiner Chefin. Die hat viele gute Sätze.
+> 우리 편집장한테 배운 거야. 좋은 말이 많은 사람이지.
+MAREK: Deine Chefin. Sie schickt dich nachts in eine Rüstungshalle. Ist das gut?
+> 네 편집장. 널 밤에 방산 공장으로 보내. 그게 좋아?
+TOBI: Sie schickt mich nich. Sie lässt mich jehen. Und sie holt mich raus, wenn et brennt. Det is 'n Unterschied.
+= Sie schickt mich nicht. Sie lässt mich gehen. Und sie holt mich raus, wenn es brennt. Das ist ein Unterschied.
+> 보내는 게 아니야. 가게 두는 거지. 그리고 불나면 빼내 줘. 그건 차이야.
+
+# 장면 5 — DER MOMENT
+TOBI: So. Kiste. Oberer Aufkleber. «Made in Germany».
+= So. Kiste. Oberer Aufkleber. «Made in Germany».
+> 자. 상자. 위쪽 스티커. «메이드 인 저머니».
+TOBI: Ick zieh ihn 'n Stück hoch. Nur 'n Stück. Darunter der fremde.
+= Ich ziehe ihn ein Stück hoch. Nur ein Stück. Darunter der fremde.
+> 조금 들어 올려. 조금만. 그 밑에 외국 거.
+TOBI: Beide Aufkleber in einem Bild. Keene Seriennummer. Keene Technik. Nur der Betrug.
+= Beide Aufkleber in einem Bild. Keine Seriennummer. Keine Technik. Nur der Betrug.
+> 스티커 두 개가 한 사진에. 일련번호 없이. 기술 없이. 사기만.
+TOBI: Klick. Een Bild. Scharf. Fertig.
+= Klick. Ein Bild. Scharf. Fertig.
+> 찰칵. 한 장. 선명하게. 끝.
+TOBI: Und jetzt den Aufkleber wieder andrücken. Als wäre nischt jewesen.
+= Und jetzt den Aufkleber wieder andrücken. Als wäre nichts gewesen.
+> 이제 스티커를 다시 눌러 붙여. 아무 일도 없었던 것처럼.
+MAREK: Fertig? Dann geh weiter. Normal. Dein Rundgang.
+> 끝났어? 그럼 계속 가. 평소처럼. 네 순찰.
+TOBI: Jan. Ick hab et. Eh Bild. Zwee Aufkleber. Und die Kamera hat zur Tür jezeigt. Ick jloob, se hat mich nich.
+= Jan. Ich habe es. Ein Bild. Zwei Aufkleber. Und die Kamera hat zur Tür gezeigt. Ich glaube, sie hat mich nicht.
+> 얀. 찍었어. 한 장. 스티커 두 개. 그리고 카메라는 문 쪽을 봤어. 날 안 잡은 것 같아.
+JAN: «Ich glaube.» Tobi, komm raus. Jetzt. Deine Schicht ist fast um. Geh normal, aber geh.
+> «것 같아.» 토비, 나와. 지금. 네 근무 거의 끝났잖아. 평소처럼, 근데 나와.
+TOBI: Und, Jan. Noch wat. Marek hat jesagt, die Abnahme is nächste Woche. Dienstag. Da kommt die Bundeswehr.
+= Und, Jan. Noch was. Marek hat gesagt, die Abnahme ist nächste Woche. Dienstag. Da kommt die Bundeswehr.
+> 그리고 얀. 하나 더. 마레크가 그러는데 인수가 다음 주래. 화요일. 연방군이 와.
+JAN: Dienstag. Dann müssen wir vorher veröffentlichen. Oder zumindest fragen. Konfrontation.
+> 화요일. 그럼 그 전에 보도해야 해. 아니면 적어도 물어봐야 하고. 반론 질의.
+TOBI: Wenn ihr vorher fragt, wissen se, det jemand drin war. Und dann suchen se den.
+= Wenn ihr vorher fragt, wissen sie, dass jemand drin war. Und dann suchen sie den.
+> 그 전에 물으면 누가 안에 있었다는 걸 알아. 그럼 그 사람을 찾아.
+JAN: Das ist das Problem. Timing. Zu früh fragen, und wir verraten dich und Marek. Zu spät, und die Drohnen sind weg.
+> 그게 문제야. 타이밍. 너무 일찍 물으면 너랑 마레크를 팔고. 너무 늦으면 드론은 사라져.
+MIRA: Deshalb brauchen wir einen zweiten Beweis. Einen, der nicht aus der Halle kommt. Zolldaten. Damit die Frage nicht auf dich zeigt.
+> 그래서 두 번째 증거가 필요해요. 공장에서 나온 게 아닌. 통관 데이터. 질문이 당신을 가리키지 않게.
+JAN: Mira hat recht. Erst der zweite Beweis, dann die Frage. Das schützt die Quellen.
+> 미라 말이 맞아. 먼저 두 번째 증거, 그다음에 질문. 그게 취재원을 지켜.
+TOBI: Ick jeh. Noch 'ne halbe Stunde, dann Schichtwechsel. Dann bin ick draußen.
+= Ich gehe. Noch eine halbe Stunde, dann Schichtwechsel. Dann bin ich draußen.
+> 나갈게. 30분 더 있으면 교대야. 그럼 밖이야.
+
+# 장면 6 — DAS ROTE LICHT
+TOBI: Jan. Warte. Die Kamera in der Ecke. Da is 'n rotes Licht. Et blinkt.
+= Jan. Warte. Die Kamera in der Ecke. Da ist ein rotes Licht. Es blinkt.
+> 얀. 잠깐. 구석의 카메라. 빨간 불이 있어. 깜빡여.
+JAN: Ein rotes Licht? War das vorhin auch an?
+> 빨간 불? 아까도 켜져 있었어?
+TOBI: Ick… weeß nich. Ick hab nich druff jeachtet. Mist.
+= Ich… weiß nicht. Ich habe nicht darauf geachtet. Mist.
+> 난… 모르겠어. 신경 안 썼어. 젠장.
+MIRA: Ein blinkendes rotes Licht heißt oft: Die Kamera nimmt auf. Oder sie sendet. Tobi, geh sofort raus.
+> 깜빡이는 빨간 불은 흔히 녹화 중이란 뜻이야. 아니면 송신 중이거나. 토비, 지금 당장 나가.
+TOBI: Ick kann nich einfach jehen. Schichtwechsel is in zwanzig Minuten. Wenn ick zu früh jeh, is det verdächtig.
+= Ich kann nicht einfach gehen. Schichtwechsel ist in zwanzig Minuten. Wenn ich zu früh gehe, ist das verdächtig.
+> 그냥 갈 순 없어. 교대가 20분 뒤야. 너무 일찍 가면 수상해.
+HELENE: Dann bleib die zwanzig Minuten. Ganz normal. Mach deinen Rundgang zu Ende. Und dann geh. Pünktlich.
+> 그럼 20분 있어요. 아주 평소처럼. 순찰을 끝까지 돌고. 그다음에 나가요. 정시에.
+JAN: Und, Tobi: Schick mir das Bild. Jetzt. Über den sicheren Kanal. Falls dir drinnen etwas passiert, ist das Bild wenigstens draußen.
+> 그리고 토비, 사진 보내. 지금. 안전한 경로로. 혹시 안에서 무슨 일이 생겨도 사진은 적어도 밖에 있게.
+TOBI: Jut. Jesendet. Habt ihr et?
+= Gut. Gesendet. Habt ihr es?
+> 좋아. 보냈어. 받았어?
+MIRA: Wir haben es. Zwei Aufkleber. Deutlich. «Made in Germany» über einem fremden Herkunftsland. Es ist perfekt, Tobi.
+> 받았어. 스티커 두 개. 또렷하게. «메이드 인 저머니»가 외국 원산지 위에. 완벽해, 토비.
+TOBI: Dann is et wenigstens draußen. Egal, wat jetzt passiert.
+= Dann ist es wenigstens draußen. Egal, was jetzt passiert.
+> 그럼 적어도 밖에 있는 거네. 이제 무슨 일이 생기든.
+JAN: Sag nicht «egal, was passiert». Es ist nicht egal. Du kommst da heil raus. Das ist der Plan.
+> «무슨 일이 생기든»이라고 하지 마. 상관있어. 넌 거기서 무사히 나와. 그게 계획이야.
+TOBI: Ick weeß. Aber et beruhigt mich. Zu wissen, det det Bild sicher is. Falls ick nich so sicher bin.
+= Ich weiß. Aber es beruhigt mich. Zu wissen, dass das Bild sicher ist. Falls ich nicht so sicher bin.
+> 알아. 근데 마음이 놓여. 사진이 안전하다는 걸 아는 게. 내가 그만큼 안전하지 않더라도.
+JAN: Du bist sicher. Noch zwanzig Minuten. Geh deinen Rundgang. Pfeif ein Lied. Sei der langweiligste Wachmann der Welt.
+> 넌 안전해. 20분 더. 순찰 돌아. 노래나 흥얼거리고. 세상에서 제일 지루한 경비가 돼.
+TOBI: 'n Lied. Welches?
+= Ein Lied. Welches?
+> 노래. 뭘로?
+JAN: Irgendwas Harmloses. Nicht «Die Internationale». Und nicht Rammstein.
+> 아무 무해한 거. «인터내셔널가»는 말고. 람슈타인도 말고.
+TOBI: Ick pfeif «Berlin, Berlin». Det is harmlos jenug.
+= Ich pfeife «Berlin, Berlin». Das ist harmlos genug.
+> «베를린, 베를린» 흥얼거릴게. 그건 충분히 무해해.
+MIRA: Und, Tobi: Das Bild hat Metadaten. Uhrzeit, Ort. Ich entferne nichts. Aber ich sichere das Original. Dreifach. Offline.
+> 그리고 토비, 그 사진엔 메타데이터가 있어. 시간, 장소. 난 아무것도 안 지워. 근데 원본을 보관해. 세 겹으로. 오프라인으로.
+TOBI: Wieso dreifach?
+= Wieso dreifach?
+> 왜 세 겹?
+MIRA: Weil ein Beweis, der nur einmal existiert, kein Beweis ist. Er ist ein Risiko. Dreifach ist sicher.
+> 한 번만 존재하는 증거는 증거가 아니니까. 위험이지. 세 겹이면 안전해.
+SWETA: In Moskau haben wir Beweise fünffach gesichert. An fünf Orten. In drei Ländern. Hier reicht dreifach.
+> 모스크바에선 증거를 다섯 겹으로 보관했어. 다섯 군데에. 세 나라에. 여긴 세 겹이면 돼.
+TOBI: Fünf Orte, drei Länder. Du hast 'n hartes Leben jehabt, Sweta.
+= Fünf Orte, drei Länder. Du hast ein hartes Leben gehabt, Sweta.
+> 다섯 군데, 세 나라. 넌 힘든 삶을 살았구나, 스베타.
+SWETA: Ich habe ein ehrliches Leben gehabt. Das war das Harte daran.
+> 난 정직한 삶을 살았어. 그게 힘든 부분이었지.
+
+# 엔딩 — SCHICHTWECHSEL
+TOBI: Schichtwechsel. Da kommt der Tagdienst. Ick jeb die Karte ab und jeh.
+= Schichtwechsel. Da kommt der Tagdienst. Ich gebe die Karte ab und gehe.
+> 교대. 주간 근무가 온다. 카드 반납하고 가야지.
+WACHLEITER: Herr Kowalski. Moment. Bleiben Sie kurz.
+> 코발스키 씨. 잠깐. 잠시만요.
+TOBI: Wat is, Chef? Meine Schicht is um.
+= Was ist, Chef? Meine Schicht ist um.
+> 왜요, 대장? 제 근무 끝났어요.
+WACHLEITER: Nur eine Formalität. Die Geschäftsleitung möchte alle Nachtwachen noch einmal überprüfen. Vor der Bundeswehr-Abnahme. Sicherheitshalber.
+> 형식적인 거예요. 경영진이 야간 경비 전원을 한 번 더 심사하고 싶어 해요. 연방군 인수 전에. 만약을 위해.
+TOBI: Überprüfen? Wie denn?
+= Überprüfen? Wie denn?
+> 심사요? 어떻게요?
+WACHLEITER: Führungszeugnis, Personalausweis, und ein kurzes Gespräch. Mit einem externen Berater. Herr Kasper. Er wartet schon.
+> 범죄 경력 증명서, 신분증, 그리고 짧은 면담. 외부 자문가랑요. 카스퍼 씨. 벌써 기다리고 있어요.
+TOBI: Jan. Hörst du mit? Kasper is hier. Er will mich «überprüfen».
+= Jan. Hörst du mit? Kasper ist hier. Er will mich «überprüfen».
+> 얀. 듣고 있어? 카스퍼가 여기 있어. 날 «심사»하겠대.
+JAN: Kasper. Der Mann, der mich gestern gesehen hat. Als Koval. Tobi, geh da nicht rein. Erfinde eine Ausrede.
+> 카스퍼. 어제 날 본 사람. 코발로. 토비, 거기 들어가지 마. 핑계를 대.
+TOBI: Zu spät, Jan. Er kommt schon auf mich zu. Und er lächelt.
+= Zu spät, Jan. Er kommt schon auf mich zu. Und er lächelt.
+> 늦었어, 얀. 벌써 나한테 오고 있어. 그리고 웃고 있어.
+JAN: Dann bleib Kowalski. Nicht Tobi. Nicht Rehberg. Kowalski, der müde Nachtwächter.
+> 그럼 코발스키로 있어. 토비 말고. 레베르크 말고. 코발스키, 피곤한 야간 경비.
+TOBI: Ick bin Kowalski. Müde. Dumm. Freundlich.
+= Ich bin Kowalski. Müde. Dumm. Freundlich.
+> 난 코발스키야. 피곤하고. 멍청하고. 친절한.
+KASPER: Herr Kowalski. Guten Morgen. Eine kurze Formalität. Darf ich Ihren Ausweis sehen?
+> 코발스키 씨. 좋은 아침이에요. 짧은 형식 절차예요. 신분증 봐도 될까요?
+TOBI: Klar, Chef. Hier. Lange Nacht jewesen. Ick will nur noch ins Bett.
+= Klar, Chef. Hier. Lange Nacht gewesen. Ich will nur noch ins Bett.
+> 그럼요, 대장. 여기요. 긴 밤이었어요. 그냥 자러 가고 싶어요.
+KASPER: Kowalski. Hm. Ihr Gesicht. Komisch. Ich habe neulich ein sehr ähnliches Gesicht gesehen. Nur mit einem anderen Namen.
+> 코발스키. 흠. 그 얼굴. 이상하네요. 얼마 전에 아주 비슷한 얼굴을 봤어요. 다른 이름으로요.
+TOBI: Viele Leute sehen aus wie ick, Chef. Ick hab so 'n Allerweltsjesicht.
+= Viele Leute sehen aus wie ich, Chef. Ich habe so ein Allerweltsgesicht.
+> 저처럼 생긴 사람 많아요, 대장. 제가 흔한 얼굴이라서요.
+KASPER: Ein Allerweltsgesicht. Das hat vor Kurzem jemand anderes zu mir gesagt. Fast mit denselben Worten.
+> 흔한 얼굴. 얼마 전에 다른 사람이 저한테 그 말을 했어요. 거의 같은 표현으로요.
