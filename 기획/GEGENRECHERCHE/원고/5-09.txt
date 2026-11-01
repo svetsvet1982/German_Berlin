@@ -1,0 +1,383 @@
+@part 5
+@ep 9
+@title Neue Grundsicherung
+@sub 신기초보장 · 줄을 서는 사람들, 줄을 서지 않는 사람들
+@info 대사 150턴 · 난이도 B2+ · 배경: 2028년 6월, 잡센터 슈판다우 대기실·복도·앞 광장, Spreewerk 편집국
+@cast LEON | 레온 피셔 (24) · 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast DETLEF | 데틀레프 (58) · 대기실의 수급자, 실직한 배관공 (베를린 사투리)
+@cast YASMIN | 야스민 (31) · 대기실의 수급자, 혼자 아이를 키움
+@cast LANGE | 자비네 랑게 (50) · 잡센터 홍보 담당
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자, 잠입 중
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast GÜNTER | 귄터 (70) · 엘케네 단골 (베를린 사투리)
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@note ※ 2026년 7월 시민수당(Bürgergeld)이 '신기초보장(Neue Grundsicherung)'으로 바뀐 뒤의 현장(극 중 설정). 협조 의무(Mitwirkungspflicht) 강화, 약속 불이행 시 급여 삭감(Leistungsminderung). 한쪽에는 진짜 수급자들의 고통, 다른 쪽에는 조직적 악용이 있다. 레온은 사회보장 남용 담론이 약자 혐오로 번지지 않도록 균형을 잡는다. 등장 인물 가상, 제도 세부는 극 중 단순화.
+@note ※ 표현 초점: die Grundsicherung · die Mitwirkungspflicht · die Leistungsminderung · der Leistungsmissbrauch · das Stigma · der Termin
+@next 5부 10화 — «Der Kunde»(손님) — 얀이 '간병업체를 인수하려는 투자자'로 위장해 하제의 측근을 만난다. 잠입(2).
+
+# 콜드 오픈 — NUMMER 214
+LEON: Sweta, wir sind seit vierzig Minuten hier. Auf der Anzeige steht «Nummer 187». Wir haben keine Nummer.
+> 스베타, 여기 온 지 40분이에요. 전광판엔 «187번». 우린 번호도 없고요.
+SWETA: Wir brauchen keine. Wir sind hier, um zu sitzen. Setz dich. Und hör auf, auf dein Handy zu schauen. Hier schaut niemand auf sein Handy, der einen Termin hat. Alle starren auf die Anzeige.
+> 필요 없어. 앉으려고 온 거야. 앉아. 그리고 폰 그만 봐. 여기서 예약 있는 사람은 아무도 폰 안 봐. 다들 전광판만 쳐다봐.
+LEON: Warum?
+> 왜요?
+SWETA: Weil wer seinen Aufruf verpasst, einen neuen Termin bekommt. In drei Wochen. Und wer drei Wochen wartet, hat drei Wochen kein Geld.
+> 호명을 놓치면 새 예약을 받으니까. 3주 뒤로. 그리고 3주 기다리는 사람은 3주 동안 돈이 없어.
+DETLEF: Recht hat se. Ick sitz hier seit halb acht. Nummer zweihundertvierzehn. Und dit Ding da zeigt hundertsiebenundachtzig.
+= Recht hat sie. Ich sitze hier seit halb acht. Nummer zweihundertvierzehn. Und das Ding da zeigt hundertsiebenundachtzig.
+> 저 양반 말이 맞아. 난 7시 반부터 여기 앉아 있어. 214번. 그리고 저 기계는 187번이야.
+LEON: Seit halb acht? Es ist elf.
+> 7시 반부터요? 지금 11시예요.
+DETLEF: Siehste. Dreieinhalb Stunden. Für eenen Zettel, den ick letzte Woche schon abjejeben hab. Den hamse verschlampt.
+= Siehst du. Dreieinhalb Stunden. Für einen Zettel, den ich letzte Woche schon abgegeben habe. Den haben sie verschlampt.
+> 봐. 세 시간 반. 지난주에 벌써 낸 종이 한 장 때문에. 그걸 잃어버렸대.
+SWETA: Und wenn Sie ihn heute nicht noch einmal abgeben?
+> 오늘 다시 안 내시면요?
+DETLEF: Denn kürzense mir die Leistung. Mitwirkungspflicht. Dit Wort hab ick seit zwee Jahren öfter jehört als meinen eijenen Namen.
+= Dann kürzen sie mir die Leistung. Mitwirkungspflicht. Das Wort habe ich seit zwei Jahren öfter gehört als meinen eigenen Namen.
+> 그럼 급여를 깎아. 협조 의무. 그 말을 2년째 내 이름보다 자주 들었어.
+
+# 장면 1 — DETLEF
+LEON: Darf ich fragen, was Sie früher gemacht haben?
+> 예전엔 뭐 하셨는지 여쭤봐도 될까요?
+DETLEF: Klempner. Dreißig Jahre. Denn kam der Rücken. Bandscheibe. Zwee Operationen. Jetzt darf ick nüscht mehr heben. Und wat macht 'n Klempner, der nüscht heben darf?
+= Klempner. Dreißig Jahre. Dann kam der Rücken. Bandscheibe. Zwei Operationen. Jetzt darf ich nichts mehr heben. Und was macht ein Klempner, der nichts heben darf?
+> 배관공. 30년. 그다음 허리가 왔지. 디스크. 수술 두 번. 이제 아무것도 못 들어. 아무것도 못 드는 배관공이 뭘 하겠어?
+LEON: Umschulen?
+> 직업 재교육이요?
+DETLEF: Mit achtundfuffzig? Ick hab drei Kurse jemacht. Computer, Lager, Pförtner. Zweehundert Bewerbungen. Weeßte, wat die sajen? «Überqualifiziert.» Dit heißt: zu alt.
+= Mit achtundfünfzig? Ich habe drei Kurse gemacht. Computer, Lager, Pförtner. Zweihundert Bewerbungen. Weißt du, was die sagen? «Überqualifiziert.» Das heißt: zu alt.
+> 쉰여덟에? 과정 세 개 들었어. 컴퓨터, 창고, 경비. 지원서 2백 통. 걔들이 뭐라는지 알아? «과잉 자격.» 그 말은: 너무 늙었다.
+SWETA: Und wie ist es, seit das neue System gilt?
+> 새 제도가 시행된 뒤로는 어때요?
+DETLEF: Strenger. Früher hamse jesacht: Herr Krause, wir helfen Ihnen. Heute sajense: Herr Krause, Sie müssen. Jeder Termin is 'ne Prüfung. Und wer eenen verpasst, kriegt weniger.
+= Strenger. Früher haben sie gesagt: Herr Krause, wir helfen Ihnen. Heute sagen sie: Herr Krause, Sie müssen. Jeder Termin ist eine Prüfung. Und wer einen verpasst, kriegt weniger.
+> 더 엄격해. 예전엔: 크라우제 씨, 도와드릴게요. 지금은: 크라우제 씨, 하셔야 해요. 예약마다 시험이야. 그리고 하나 놓치면 덜 받아.
+LEON: Haben Sie schon einmal eine Kürzung bekommen?
+> 삭감 받아 보신 적 있어요?
+DETLEF: Eenmal. Weil ick im Krankenhaus war und der Brief zu Hause lach. Hab den Widerspruch jewonnen. Nach vier Monaten. Vier Monate mit dreißig Prozent weniger.
+= Einmal. Weil ich im Krankenhaus war und der Brief zu Hause lag. Habe den Widerspruch gewonnen. Nach vier Monaten. Vier Monate mit dreißig Prozent weniger.
+> 한 번. 병원에 있었는데 편지가 집에 와 있었거든. 이의 신청은 이겼어. 넉 달 뒤에. 넉 달 동안 30퍼센트 깎인 채로.
+LEON: Darf ich Sie zitieren? Mit Vornamen?
+> 인용해도 될까요? 이름만이라도?
+DETLEF: Mit vollem Namen. Detlef Krause. Ick schäm mir nich. Die sollen sich schämen.
+= Mit vollem Namen. Detlef Krause. Ich schäme mich nicht. Die sollen sich schämen.
+> 전체 이름으로. 데틀레프 크라우제. 난 안 부끄러워. 걔들이 부끄러워해야지.
+
+# 장면 2 — YASMIN
+YASMIN: Entschuldigung, können Sie kurz auf meinen Sohn aufpassen? Ich muss zur Toilette, und wenn meine Nummer kommt…
+> 실례지만, 잠깐 제 아들 좀 봐 주실 수 있어요? 화장실 가야 하는데, 제 번호가 나오면…
+SWETA: Natürlich. Wie heißt er?
+> 물론이죠. 이름이 뭐예요?
+YASMIN: Emil. Er ist vier. Er beißt nicht. Meistens.
+> 에밀. 네 살이에요. 안 물어요. 대부분은.
+LEON: Hallo, Emil. Ich bin Leon. Magst du Autos?
+> 안녕, 에밀. 난 레온이야. 자동차 좋아해?
+YASMIN: Danke. Ich bin wieder da. Er mag Busse, nicht Autos. Er will Busfahrer werden. Damit er die Leute zum Jobcenter fahren kann, sagt er.
+> 고마워요. 다녀왔어요. 자동차 말고 버스를 좋아해요. 버스 기사가 되고 싶대요. 사람들을 잡센터에 태워다 주게요, 그러더라고요.
+SWETA: Warum sind Sie heute hier?
+> 오늘은 왜 오셨어요?
+YASMIN: Weil ich einen Termin verpasst habe. Emil hatte Fieber. Vierzig Grad. Ich habe angerufen, aber niemand ist rangegangen. Jetzt muss ich beweisen, dass er wirklich krank war. Mit einem Attest. Das der Kinderarzt erst nächste Woche ausstellen kann.
+> 예약을 놓쳐서요. 에밀이 열이 났어요. 40도. 전화했는데 아무도 안 받았어요. 이제 정말 아팠다는 걸 증명해야 해요. 진단서로. 소아과는 다음 주에야 떼 줄 수 있대요.
+LEON: Und bis dahin?
+> 그때까지는요?
+YASMIN: Bis dahin bin ich «nicht mitwirkend». Das steht in dem Brief. Als hätte ich keine Lust gehabt.
+> 그때까지 전 «협조하지 않음»이에요. 편지에 그렇게 쓰여 있어요. 마치 하기 싫어서 안 온 것처럼.
+SWETA: Arbeiten Sie?
+> 일하세요?
+YASMIN: Zwanzig Stunden. Im Supermarkt. Mehr geht nicht, weil die Kita um drei schließt. Und weil ich zwanzig Stunden arbeite, bin ich Aufstockerin. Und weil ich Aufstockerin bin, sitze ich hier. Jeden Monat.
+> 20시간. 슈퍼마켓에서. 어린이집이 3시에 닫아서 더는 안 돼요. 그리고 20시간 일하니까 보충 급여 수급자예요. 그리고 보충 급여 수급자니까 여기 앉아 있어요. 매달.
+LEON: Darf ich darüber schreiben?
+> 이 얘기 써도 될까요?
+YASMIN: Ohne meinen Namen. Und ohne Emil. Ich will nicht, dass er in zehn Jahren googelt und liest, dass seine Mutter beim Amt war.
+> 제 이름 없이. 그리고 에밀 없이. 10년 뒤에 아이가 검색해서 엄마가 관청에 다녔다는 걸 읽는 건 싫어요.
+
+# 장면 2-2 — SWETAS NUMMER
+LEON: Sweta, du hast gesagt, du hast vier Monate in so einem Saal gesessen.
+> 스베타, 이런 대기실에서 넉 달 앉아 있었다고 했죠.
+SWETA: Im Ausländeramt. Nicht im Jobcenter. Aber die Stühle sind dieselben. Orange. Festgeschraubt.
+> 외국인청에서. 잡센터 말고. 근데 의자는 똑같아. 주황색. 바닥에 나사로 고정된.
+LEON: Warum festgeschraubt?
+> 왜 고정돼 있어요?
+SWETA: Damit niemand sie wirft. Das sagt alles darüber, was die Behörde von den Wartenden denkt.
+> 아무도 못 던지게. 관청이 기다리는 사람들을 어떻게 생각하는지 다 말해 주지.
+LEON: Was war das Schlimmste?
+> 제일 힘든 게 뭐였어요?
+SWETA: Nicht das Warten. Das Gefühl, dass jeder, der aufgerufen wird, eine Chance hat, die du nicht hast. Man fängt an, die anderen zu hassen. Die, die vor dir dran sind. Dabei sitzen sie genau da, wo du sitzt.
+> 기다리는 게 아니라. 호명되는 사람마다 네가 못 가진 기회를 가진 것 같은 느낌. 다른 사람들을 미워하기 시작해. 너보다 먼저인 사람들을. 정작 그들도 너랑 똑같은 자리에 앉아 있는데.
+LEON: Und deshalb ist der Satz «die Ausländer werden bevorzugt» so gefährlich. Wenn er einmal stimmt.
+> 그래서 «외국인이 우대받는다»는 말이 그렇게 위험하네요. 한 번이라도 맞으면.
+SWETA: Genau. Wenn Detlef sieht, dass zwanzig Frauen ohne Nummer durch eine Hintertür gehen, denkt er nicht: Eine Firma betrügt. Er denkt: Die Ausländerinnen werden bevorzugt.
+> 바로 그거야. 데틀레프 씨가 여자 스무 명이 번호표 없이 뒷문으로 들어가는 걸 보면, 회사가 사기 친다고 생각하지 않아. 외국인 여자들이 우대받는다고 생각하지.
+LEON: Obwohl die Frauen auf Matratzen schlafen und ihre Diplome nicht zurückbekommen.
+> 그 여자들은 매트리스에서 자고 졸업장도 못 돌려받는데도.
+SWETA: Deshalb ist diese Firma doppelt schuldig. Sie betrügt den Staat. Und sie macht die Opfer zu Sündenböcken.
+> 그래서 이 회사는 두 배로 죄가 있어. 국가를 속이고. 피해자를 희생양으로 만들어.
+
+# 장면 3 — DAS STIGMA
+LEON: Sweta, ich habe ein Problem. Wir recherchieren über Leistungsmissbrauch. Und ich sitze neben Menschen, die seit Stunden warten, weil sie ehrlich sind.
+> 스베타, 문제가 있어요. 우린 급여 남용을 취재하는데. 전 정직해서 몇 시간째 기다리는 사람들 옆에 앉아 있어요.
+SWETA: Das ist kein Problem. Das ist die Geschichte.
+> 그건 문제가 아니야. 그게 이야기야.
+LEON: Aber wenn wir schreiben «Betrug mit Grundsicherung», dann liest jeder Stammtisch in Deutschland: «Siehste, die Arbeitslosen betrügen.» Und Detlef und Yasmin bekommen noch strengere Termine.
+> 근데 우리가 «기초보장 사기»라고 쓰면, 독일의 모든 술자리 논객이 이렇게 읽을 거예요. «거봐, 실업자들이 사기 친다니까.» 그리고 데틀레프 씨와 야스민 씨는 더 엄격한 예약을 받겠죠.
+SWETA: Dann schreiben wir nicht «Betrug mit Grundsicherung». Wir schreiben, wer betrügt. Nicht die Menschen in diesem Saal. Eine Firma, die Menschen in Matratzenlager steckt und ihre Anträge selbst schreibt.
+> 그럼 «기초보장 사기»라고 쓰지 마. 누가 사기 치는지를 써. 이 대기실 사람들이 아니라. 사람들을 매트리스 숙소에 처넣고 신청서를 직접 쓰는 회사.
+LEON: Das Subjekt entscheidet, wer schuld ist.
+> 주어가 누구 책임인지 정한다.
+SWETA: Du hast zugehört.
+> 잘 들었네.
+LEON: Und noch etwas. Wenn ich die Zahlen richtig verstehe, ist der größte Teil des Geldes, das im Sozialsystem verloren geht, nicht bei den Empfängern. Es ist bei Unternehmen, die das System ausnutzen. Schwarzarbeit, Scheinfirmen, Abrechnungsbetrug.
+> 그리고 하나 더. 숫자를 제대로 이해했다면, 사회 체계에서 새는 돈의 대부분은 수급자한테 있지 않아요. 체계를 악용하는 기업한테 있어요. 불법 고용, 유령 회사, 허위 청구.
+SWETA: Das schreibst du in den ersten Absatz. Nicht in den letzten.
+> 그걸 첫 단락에 써. 마지막 단락이 아니라.
+LEON: Mit Quelle.
+> 출처 붙여서.
+SWETA: Mit Quelle. Sonst ist es nur unsere Meinung gegen die Meinung des Stammtischs. Und der Stammtisch ist lauter.
+> 출처 붙여서. 안 그러면 우리 의견 대 술자리 의견일 뿐이야. 그리고 술자리가 더 시끄러워.
+
+# 장면 4 — DIE PRESSESTELLE
+LANGE: Herr Fischer? Sabine Lange, Pressestelle. Sie haben um ein Hintergrundgespräch gebeten. Ich habe zwanzig Minuten.
+> 피셔 씨? 자비네 랑게, 홍보실이에요. 배경 취재를 요청하셨죠. 20분 있어요.
+LEON: Danke. Ich recherchiere zur Umsetzung der Neuen Grundsicherung. Wie lange dauert ein Erstantrag im Durchschnitt?
+> 고맙습니다. 신기초보장 시행에 대해 취재하고 있어요. 첫 신청은 평균 얼마나 걸려요?
+LANGE: Das hängt von der Vollständigkeit der Unterlagen ab. Bei vollständigen Unterlagen streben wir drei bis vier Wochen an. In der Praxis sind es oft sechs.
+> 서류 완비 여부에 달려 있어요. 서류가 다 갖춰지면 3~4주를 목표로 해요. 실제로는 종종 6주고요.
+LEON: Gibt es Fälle, in denen es drei Tage dauert?
+> 사흘 걸리는 경우도 있어요?
+LANGE: Drei Tage? In Notfällen gibt es Vorschüsse. Aber eine vollständige Bewilligung in drei Tagen — das wäre außergewöhnlich.
+> 사흘이요? 긴급한 경우엔 선지급이 있어요. 근데 사흘 만에 완전 승인은 — 이례적이죠.
+LEON: Außergewöhnlich. Darf ich Sie damit zitieren?
+> 이례적. 그 말 인용해도 될까요?
+LANGE: Als Sprecherin des Jobcenters, ja. Warum fragen Sie?
+> 잡센터 대변인으로서라면, 네. 왜 물으세요?
+LEON: Weil wir Bescheide gesehen haben, die in drei Tagen bewilligt wurden. Mehrere. Von derselben Stelle.
+> 사흘 만에 승인된 통지서들을 봤거든요. 여러 장. 같은 부서에서.
+LANGE: Das kann ich so nicht kommentieren. Wenn Sie konkrete Hinweise auf Unregelmäßigkeiten haben, gibt es die Innenrevision. Und das Hinweisgeberportal.
+> 그렇게는 논평할 수 없어요. 부정에 대한 구체적 단서가 있으시면 내부 감사가 있어요. 그리고 공익 제보 포털도요.
+LEON: Danke. Das hilft.
+> 감사합니다. 도움이 됐어요.
+LANGE: Herr Fischer — inoffiziell. Die Kolleginnen hier arbeiten am Limit. Wenn Sie schreiben, schreiben Sie bitte nicht, dass das Jobcenter versagt. Schreiben Sie, wo es versagt. Das ist ein Unterschied.
+> 피셔 씨 — 비공식적으로요. 여기 동료들은 한계에서 일해요. 쓰실 때 잡센터가 실패했다고 쓰지 말아 주세요. 어디서 실패했는지를 써 주세요. 차이가 있어요.
+LEON: Den Unterschied verstehe ich. Wir machen ihn jeden Tag.
+> 그 차이 이해해요. 우린 매일 그걸 해요.
+
+# 장면 4-2 — DER STAMMTISCH
+GÜNTER: Elke, haste dit jelesen? In der Zeitung? «Sozialbetrug in Millionenhöhe.» Ick sach's ja immer. Die Hälfte von denen, die beim Amt sitzen, will nich arbeiten.
+= Elke, hast du das gelesen? In der Zeitung? «Sozialbetrug in Millionenhöhe.» Ich sage es ja immer. Die Hälfte von denen, die beim Amt sitzen, will nicht arbeiten.
+> 엘케, 이거 읽었어? 신문에? «수백만 유로대 복지 사기.» 내가 늘 말하잖아. 관청에 앉아 있는 놈들 절반은 일하기 싫은 거야.
+ELKE: Günter, du sitzt seit zwanzig Jahren an meinem Tresen und hast seit fuffzehn nich jearbeitet.
+= Günter, du sitzt seit zwanzig Jahren an meinem Tresen und hast seit fünfzehn nicht gearbeitet.
+> 귄터, 넌 20년째 내 카운터에 앉아 있고 15년째 일 안 했잖아.
+GÜNTER: Ick bin in Rente! Dit is wat anderet!
+= Ich bin in Rente! Das ist etwas anderes!
+> 난 연금 받잖아! 그건 다르지!
+TOBI: Und der Detlef Krause aus Spandau? Klempner, zwee Bandscheiben-OPs, zweehundert Bewerbungen? Der will ooch nich arbeiten?
+= Und der Detlef Krause aus Spandau? Klempner, zwei Bandscheiben-OPs, zweihundert Bewerbungen? Der will auch nicht arbeiten?
+> 그럼 슈판다우의 데틀레프 크라우제는? 배관공, 디스크 수술 두 번, 지원서 2백 통? 그 사람도 일하기 싫은 거야?
+GÜNTER: Den kenn ick nich.
+= Den kenne ich nicht.
+> 그 사람 몰라.
+ELKE: Eben. Du kennst keenen. Du kennst nur die Zeitung. Und die Zeitung schreibt «Sozialbetrug», und du denkst an Detlef. Dabei sind dit Firmen, Günter. Firmen mit Anwälten.
+= Eben. Du kennst keinen. Du kennst nur die Zeitung. Und die Zeitung schreibt «Sozialbetrug», und du denkst an Detlef. Dabei sind das Firmen, Günter. Firmen mit Anwälten.
+> 바로 그거야. 넌 아무도 몰라. 신문만 알지. 신문이 «복지 사기»라고 쓰면 넌 데틀레프를 떠올려. 근데 그건 회사들이야, 귄터. 변호사 딸린 회사들.
+GÜNTER: Woher weeßte dit?
+= Woher weißt du das?
+> 그걸 어떻게 알아?
+ELKE: Weil der Schwabe da hinten jeden Abend sein Notizbuch uff meinem Tresen liejen lässt. Und ick lese mit. Ohne Brille.
+= Weil der Schwabe da hinten jeden Abend sein Notizbuch auf meinem Tresen liegen lässt. Und ich lese mit. Ohne Brille.
+> 저 뒤의 슈바벤 청년이 매일 저녁 내 카운터에 수첩을 두고 가거든. 그리고 같이 읽지. 안경 없이.
+LEON: Elke! Das ist vertraulich!
+> 엘케! 그건 기밀이에요!
+ELKE: Denn lass et nich liejen. Erste Regel im Kiez.
+= Dann lass es nicht liegen. Erste Regel im Kiez.
+> 그럼 두고 가지 마. 동네 제1 규칙.
+GÜNTER: … Jut. Vielleicht hab ick zu schnell jeredet. Aber wenn die Firmen betrügen, warum schreiben die Zeitungen denn immer über die Arbeitslosen?
+= … Gut. Vielleicht habe ich zu schnell geredet. Aber wenn die Firmen betrügen, warum schreiben die Zeitungen denn immer über die Arbeitslosen?
+> … 좋아. 내가 너무 빨리 말했는지도 몰라. 근데 회사들이 사기 치면 신문은 왜 늘 실업자 얘기만 써?
+LEON: Weil Arbeitslose keine Anwälte haben, die Abmahnungen schicken.
+> 실업자한텐 경고장 보내는 변호사가 없으니까요.
+GÜNTER: Dit war jetzt 'n juter Satz, Schwabe.
+= Das war jetzt ein guter Satz, Schwabe.
+> 그거 좋은 말이네, 슈바벤 청년.
+ELKE: Der steht uff Seite vier. Ick hab's jelesen.
+= Der steht auf Seite vier. Ich habe es gelesen.
+> 그거 4쪽에 있어. 내가 읽었지.
+
+# 장면 5 — ABENDANRUF MIT MIRA
+MIRA: Leon? Ich habe zehn Minuten. Ich liege auf dem Boden, weil mein Rücken nicht mehr will.
+> 레온? 10분 있어. 허리가 말을 안 들어서 바닥에 누워 있어.
+LEON: Wie war dein erster Tag allein?
+> 혼자 한 첫날 어땠어요?
+MIRA: Zwanzig Namen, elf grau, neun weiß. Ich habe die neun besucht. Und ich habe bei Herrn Gerlach zehn Minuten länger gesessen. Er hat mir gezeigt, wie man Bleisatz liest. Spiegelverkehrt.
+> 이름 스물, 회색 열하나, 흰색 아홉. 아홉을 방문했어. 그리고 게를라흐 씨 집에서 10분 더 앉아 있었어. 활자 읽는 법을 보여 주셨어. 거꾸로.
+LEON: Und bei dir? Fragt jemand?
+> 미라 씨 쪽은요? 누가 물어봐요?
+MIRA: Niemand. Schott ist freundlich. Zu freundlich. Wie bei dir heute?
+> 아무도. 쇼트는 친절해. 너무 친절해. 너는 오늘 어땠어?
+LEON: Ich habe einen Klempner kennengelernt, der seit zwei Jahren nicht heben darf. Und eine Mutter, die einen Termin verpasst hat, weil ihr Sohn vierzig Grad Fieber hatte. Und eine Pressesprecherin, die sagt, drei Tage wären außergewöhnlich.
+> 2년째 아무것도 못 드는 배관공을 만났어요. 그리고 아들이 40도 열이 나서 예약을 놓친 엄마. 그리고 사흘이면 이례적이라는 홍보 담당자.
+MIRA: Für Detlef sind sechs Wochen normal. Für Anca drei Tage.
+> 데틀레프 씨한텐 6주가 정상이고. 안카한텐 사흘.
+LEON: Genau. Und ich weiß nicht, ob ich wütend sein soll oder traurig.
+> 맞아요. 그리고 화를 내야 할지 슬퍼해야 할지 모르겠어요.
+MIRA: Beides. Und dann schreibst du. Wütend und traurig sind die besten Voraussetzungen. Solange du genau bleibst.
+> 둘 다. 그리고 그다음 써. 화나고 슬픈 게 최고의 조건이야. 정확함만 지키면.
+
+# 장면 6 — DIE REDAKTION
+HELENE: Leon, deine Notizen sind gut. Und sie sind gefährlich. Weil sie zwei Geschichten sind.
+> 레온, 네 메모 좋아. 그리고 위험해. 이야기가 둘이라서.
+LEON: Welche zwei?
+> 어떤 둘이요?
+HELENE: Die erste: Ehrliche Menschen werden durch ein strenges System gequält. Die zweite: Eine Firma nutzt dasselbe System aus. Wenn wir sie zusammen erzählen, verstehen die Leser vielleicht nur eine.
+> 첫째: 정직한 사람들이 엄격한 제도에 시달린다. 둘째: 어떤 회사가 같은 제도를 악용한다. 둘을 같이 말하면 독자는 하나만 이해할 수도 있어.
+JAN: Oder sie verstehen, dass sie zusammenhängen. Wenn ein Sachbearbeiter für eine Firma in drei Tagen arbeitet, warten andere sechs Wochen. Die Ungerechtigkeit ist dieselbe. Von zwei Seiten.
+> 아니면 둘이 연결돼 있다는 걸 이해할 수도 있지. 담당자 한 명이 회사를 위해 사흘 만에 일하면, 다른 사람들은 6주를 기다려. 같은 불의야. 양쪽에서.
+LEON: Darf ich das so schreiben? Dass Detlef wartet, weil 524-07 für Pflege Plus arbeitet?
+> 그렇게 써도 돼요? 데틀레프 씨가 기다리는 건 524-07이 Pflege Plus를 위해 일해서라고?
+KATRIN: Nein. Das ist eine Behauptung, die du nicht beweisen kannst. Detlef ist in einem anderen Team. Du kannst schreiben: In derselben Behörde, in der ehrliche Antragsteller sechs Wochen warten, wurden Anträge eines bestimmten Arbeitgebers in drei Tagen bewilligt.
+> 안 돼. 증명할 수 없는 주장이야. 데틀레프 씨는 다른 팀이야. 이렇게는 쓸 수 있어. 정직한 신청자가 6주를 기다리는 같은 관청에서, 특정 고용주의 신청은 사흘 만에 승인됐다.
+LEON: Das ist weniger schön. Aber es ist wahr.
+> 덜 멋있네요. 근데 사실이에요.
+HELENE: Weniger schön, aber wahr. Das ist unser Stil. Seit sieben Jahren.
+> 덜 멋있지만 사실. 그게 우리 스타일이야. 7년째.
+
+# 장면 6-2 — YASMIN RUFT AN
+YASMIN: Herr Fischer? Hier ist Yasmin. Aus dem Wartesaal. Sie haben mir Ihre Karte gegeben.
+> 피셔 씨? 야스민이에요. 대기실에서. 명함 주셨잖아요.
+LEON: Natürlich. Wie geht es Emil?
+> 물론이죠. 에밀은 어때요?
+YASMIN: Besser. Fieber ist weg. Aber ich habe einen Brief bekommen. Dreißig Prozent weniger. Ab nächstem Monat. Ich weiß nicht, was ich tun soll.
+> 나아졌어요. 열은 내렸고요. 근데 편지를 받았어요. 30퍼센트 삭감. 다음 달부터. 어떻게 해야 할지 모르겠어요.
+LEON: Frau… Yasmin. Ich bin Journalist. Ich kann Sie nicht beraten. Das wäre nicht richtig. Aber ich kann Ihnen eine Nummer geben. Eine unabhängige Sozialberatung. Kostenlos.
+> 야스민 씨. 전 기자예요. 상담해 드릴 순 없어요. 그건 옳지 않아요. 근데 번호 하나는 드릴 수 있어요. 독립 사회 상담 기관. 무료예요.
+YASMIN: Warum können Sie mir nicht einfach sagen, was ich schreiben soll?
+> 그냥 뭘 써야 하는지 말해 주시면 안 돼요?
+LEON: Weil ich über Sie schreiben will. Und wenn ich Ihnen helfe, ist es nicht mehr Ihre Geschichte, sondern meine. Bei der Beratung sind Menschen, die das besser können als ich.
+> 당신에 대해 쓰고 싶으니까요. 그리고 제가 도우면 그건 더는 당신 이야기가 아니라 제 이야기가 돼요. 상담 기관엔 저보다 잘하는 사람들이 있어요.
+YASMIN: Das ist komisch. Aber irgendwie ehrlich.
+> 이상하네요. 근데 왠지 정직해요.
+LEON: Und noch etwas: Ein Widerspruch hat Fristen. Ein Monat. Rufen Sie morgen an. Nicht übermorgen.
+> 그리고 하나 더: 이의 신청엔 기한이 있어요. 한 달. 내일 전화하세요. 모레 말고.
+YASMIN: Morgen. Ich schreibe es mir auf. Emil malt gerade einen Bus. Er sagt, er fährt Sie mal kostenlos.
+> 내일. 적어 둘게요. 에밀이 지금 버스를 그리고 있어요. 언젠가 공짜로 태워 주겠대요.
+LEON: Sagen Sie ihm, ich nehme das Angebot an. Ohne Taxameter.
+> 그 제안 받겠다고 전해 주세요. 미터기 없이.
+YASMIN: Busse haben keine Taxameter, Herr Fischer.
+> 버스엔 미터기가 없어요, 피셔 씨.
+LEON: Eben deshalb.
+> 그래서 더 좋죠.
+
+# 엔딩 — DIE ANDERE TÜR
+DETLEF: Na, Schwabe? Biste wieder da? Haste keene Arbeit?
+= Na, Schwabe? Bist du wieder da? Hast du keine Arbeit?
+> 어, 슈바벤 청년? 또 왔어? 일 없어?
+LEON: Doch. Das hier ist meine Arbeit. Wie ist es gelaufen, Herr Krause?
+> 있어요. 이게 제 일이에요. 어떻게 됐어요, 크라우제 씨?
+DETLEF: Den Zettel hamse anjenommen. Zum zweeten Mal. Diesmal mit Stempel. Ick hab mir 'n Foto vom Stempel jemacht. Man lernt.
+= Den Zettel haben sie angenommen. Zum zweiten Mal. Diesmal mit Stempel. Ich habe mir ein Foto vom Stempel gemacht. Man lernt.
+> 종이를 받아 줬어. 두 번째로. 이번엔 도장 찍어서. 도장 사진 찍어 뒀어. 배우는 거지.
+SWETA: Herr Krause, darf ich Sie etwas fragen? Sehen Sie hier manchmal Gruppen? Ausländische Pflegekräfte, zehn, zwanzig auf einmal?
+> 크라우제 씨, 하나 여쭤봐도 돼요? 여기서 가끔 무리를 보세요? 외국인 요양사들, 한 번에 열 명, 스무 명?
+DETLEF: Die Mädels mit den Kitteln? Klar. Die seh ick. Aber nich hier im Saal.
+= Die Mädels mit den Kitteln? Klar. Die sehe ich. Aber nicht hier im Saal.
+> 가운 입은 아가씨들? 물론. 봐. 근데 이 대기실에선 아니야.
+LEON: Wo dann?
+> 그럼 어디서요?
+DETLEF: Die stehen nich in der Schlange. Die kommen mit 'nem Kleinbus. Hinten, am Seiteneingang. Da, wo die Mitarbeiter rauchen. Und denn macht eener von drinnen die Tür uff. Und die jehen rin. Ohne Nummer.
+= Die stehen nicht in der Schlange. Die kommen mit einem Kleinbus. Hinten, am Seiteneingang. Da, wo die Mitarbeiter rauchen. Und dann macht einer von drinnen die Tür auf. Und die gehen rein. Ohne Nummer.
+> 걔들은 줄 안 서. 소형 버스로 와. 뒤쪽, 옆문으로. 직원들 담배 피우는 데. 그러면 안에서 누가 문을 열어 줘. 그리고 들어가. 번호표 없이.
+SWETA: Wer macht die Tür auf?
+> 누가 문을 열어요?
+DETLEF: Een Mann. Anzug, Krawatte. Hier trägt keener Krawatte. Ick hab ihn mir jemerkt, weil ick dachte: Der hat's besser als wir. Der hat 'ne Tür.
+= Ein Mann. Anzug, Krawatte. Hier trägt keiner Krawatte. Ich habe ihn mir gemerkt, weil ich dachte: Der hat es besser als wir. Der hat eine Tür.
+> 남자 하나. 정장, 넥타이. 여기선 아무도 넥타이 안 매. 기억해 뒀지, 생각했거든. 저 사람은 우리보다 낫네. 문이 있으니까.
+LEON: Wann kommt der Bus?
+> 버스는 언제 와요?
+DETLEF: Immer am Ersten. Und am Fünfzehnten. Neun Uhr. Pünktlich wie die Rente.
+= Immer am Ersten. Und am Fünfzehnten. Neun Uhr. Pünktlich wie die Rente.
+> 늘 1일. 그리고 15일. 9시. 연금처럼 정확하게.
+SWETA: Der Fünfzehnte ist übermorgen.
+> 15일이면 모레예요.
+DETLEF: Denn kiekt ma hin. Ick bin ooch da. Ick hab um zehn 'n Termin. Wie immer.
+= Dann guckt mal hin. Ich bin auch da. Ich habe um zehn einen Termin. Wie immer.
+> 그럼 가서 봐. 나도 있을 거야. 10시에 예약 있거든. 늘 그렇듯.
+# 에필로그 — DER FÜNFZEHNTE
+JAN: Übermorgen um neun. Seiteneingang. Wer geht?
+> 모레 9시. 옆문. 누가 가?
+TOBI: Ick. Mit Teleobjektiv. Von der anderen Straßenseite. Öffentlicher Raum.
+= Ich. Mit Teleobjektiv. Von der anderen Straßenseite. Öffentlicher Raum.
+> 나. 망원 렌즈로. 길 건너편에서. 공공장소.
+KATRIN: Öffentlicher Raum, ja. Aber die Frauen sind keine Personen der Zeitgeschichte. Keine erkennbaren Gesichter. Der Mann mit der Krawatte — wenn er ein Amtsträger ist, der seine Befugnisse missbraucht, sieht es anders aus. Aber erst, wenn wir es wissen.
+> 공공장소, 그래. 근데 그 여자들은 시사 인물이 아니야. 알아볼 수 있는 얼굴 금지. 넥타이 남자는 — 권한을 남용하는 공무원이라면 얘기가 달라. 근데 그건 우리가 알게 된 뒤야.
+JAN: Also fotografieren wir alles, veröffentlichen nichts, bis wir wissen, wer er ist.
+> 그러니까 다 찍되, 그가 누군지 알 때까진 아무것도 공개 안 해.
+HELENE: Und Mira? Die Frauen im Bus — vielleicht ist Ioana dabei.
+> 그리고 미라? 버스의 여자들 — 이오아나가 있을지도 몰라.
+MIRA: Ioana hat geschrieben. Sie ist dabei. Sie hat gesagt: «Wenn ihr da seid, schaue ich nicht zu euch. Aber ich weiß, dass ihr da seid.»
+> 이오아나가 문자했어요. 있대요. «너희가 거기 있으면 너희 쪽은 안 볼게. 근데 너희가 거기 있다는 건 알아.»
+LEON: Und Detlef sitzt drinnen mit Nummer zweihundertirgendwas und wartet.
+> 그리고 데틀레프 씨는 안에서 2백 몇 번 번호표 들고 기다리고 있겠죠.
+JAN: Dann haben wir übermorgen beide Türen. Die vordere und die hintere. Und genau das ist die Geschichte.
+> 그럼 모레 우린 두 문을 다 갖게 돼. 앞문과 뒷문. 그리고 바로 그게 이야기야.
+
+# 에필로그 2 — NEUN UHR, SEITENEINGANG
+TOBI: Kleinbus biegt ein. Weiß, ohne Logo. Acht Uhr achtundfuffzig.
+= Kleinbus biegt ein. Weiß, ohne Logo. Acht Uhr achtundfünfzig.
+> 소형 버스 진입. 흰색, 로고 없음. 8시 58분.
+LEON: Ich sehe ihn. Er hält direkt am Raucherplatz.
+> 보여요. 흡연 구역 바로 앞에 서요.
+TOBI: Türen uff. Eens, zwee… sechzehn Frauen. Kittel unter den Jacken. Die zweete von links — Ioana. Sie kiekt nich her.
+= Türen auf. Eins, zwei… sechzehn Frauen. Kittel unter den Jacken. Die zweite von links — Ioana. Sie guckt nicht her.
+> 문 열림. 하나, 둘… 여자 열여섯. 재킷 아래 가운. 왼쪽에서 두 번째 — 이오아나. 이쪽 안 봐.
+LEON: Gut so. Und die Seitentür?
+> 잘했어요. 옆문은요?
+TOBI: Geht uff. Von innen. Mann im Anzug. Dunkelblau. Krawatte. Fuffzig, vielleicht. Er kiekt uff die Uhr und winkt sie rin.
+= Geht auf. Von innen. Mann im Anzug. Dunkelblau. Krawatte. Fünfzig, vielleicht. Er guckt auf die Uhr und winkt sie rein.
+> 열림. 안에서. 정장 남자. 짙은 남색. 넥타이. 쉰쯤. 시계를 보고 손짓해서 들여보내.
+LEON: Hat er einen Ausweis um den Hals?
+> 목에 출입증 있어요?
+TOBI: Hat er. Aber umjedreht. Die Rückseite nach vorn. Als ob er wüsste, dass eener kiekt.
+= Hat er. Aber umgedreht. Die Rückseite nach vorn. Als ob er wüsste, dass einer guckt.
+> 있어. 근데 뒤집혀 있어. 뒷면이 앞으로. 누가 보는 걸 아는 것처럼.
+LEON: Hast du sein Gesicht?
+> 얼굴 찍었어요?
+TOBI: Hab ick. Scharf. Aber dit bleibt im Bunker, bis Katrin Ja sacht.
+= Habe ich. Scharf. Aber das bleibt im Bunker, bis Katrin Ja sagt.
+> 찍었어. 선명하게. 근데 그건 카트린이 좋다고 할 때까지 벙커에 있어.
+LEON: Und der Busfahrer?
+> 버스 기사는요?
+TOBI: Steigt aus, raucht. Und jetzt kommt's. Er jibt dem Mann mit der Krawatte 'nen Umschlag. Braun. Dick. Und der Mann steckt ihn in die Innentasche. Ohne rinzukieken.
+= Steigt aus, raucht. Und jetzt kommt es. Er gibt dem Mann mit der Krawatte einen Umschlag. Braun. Dick. Und der Mann steckt ihn in die Innentasche. Ohne reinzugucken.
+> 내려서 담배 피워. 그리고 이제 나와. 넥타이 남자한테 봉투를 건네. 갈색. 두툼해. 그리고 남자가 안 열어 보고 안주머니에 넣어.
+LEON: Ein Umschlag kann alles sein. Anträge. Formulare.
+> 봉투는 뭐든 될 수 있어요. 신청서. 서식.
+TOBI: Kann. Aber Anträge steckt man nich in die Innentasche. Anträge trägt man in der Hand.
+= Kann. Aber Anträge steckt man nicht in die Innentasche. Anträge trägt man in der Hand.
+> 그럴 수도. 근데 신청서는 안주머니에 안 넣어. 신청서는 손에 들고 다니지.
+LEON: Detlef hat mir gerade geschrieben. «Nummer 231. Anzeige steht bei 198. Wie immer.»
+> 데틀레프 씨가 방금 문자했어요. «231번. 전광판은 198. 늘 그렇듯.»
+TOBI: Und die sechzehn Frauen sind schon drin. Ohne Nummer.
+> 그리고 여자 열여섯은 벌써 안에 있지. 번호표 없이.
+LEON: Vordere Tür, hintere Tür. Ich habe beide gesehen. Und jetzt weiß ich, was ich auf Seite fünf schreibe.
+> 앞문, 뒷문. 둘 다 봤어요. 그리고 이제 5쪽에 뭘 쓸지 알겠어요.
+TOBI: Wat schreibste?
+= Was schreibst du?
+> 뭐라고 쓸 건데?
+LEON: «Die Schlange ist für die Ehrlichen. Die Hintertür ist für die, die verdienen.»
+> «줄은 정직한 사람들을 위한 것. 뒷문은 돈 버는 자들을 위한 것.»
+TOBI: Dit drucken wa nich. Aber dit stimmt.
+= Das drucken wir nicht. Aber das stimmt.
+> 그건 인쇄 안 해. 근데 맞는 말이야.
+LEON: Ich weiß. Deshalb steht es im Notizbuch. Nicht im Artikel.
+> 알아요. 그래서 기사가 아니라 수첩에 있는 거예요.
+TOBI: Und dit Notizbuch lässte nich bei Elke liejen.
+= Und das Notizbuch lässt du nicht bei Elke liegen.
+> 그리고 그 수첩 엘케네 두고 오지 마.
+LEON: Nie wieder. Erste Regel im Kiez.
+> 다시는요. 동네 제1 규칙.
