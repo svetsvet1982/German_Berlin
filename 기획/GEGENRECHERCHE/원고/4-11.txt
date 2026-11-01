@@ -1,0 +1,336 @@
+@part 4
+@ep 11
+@title Honeypot
+@sub 꿀단지 · 가짜 스캔들 하나가 48시간 뒤 적의 기획표에 오른다
+@info 대사 150턴 · 난이도 B2 · 배경: 2028년 봄, Spreewerk 편집국(비밀 회의)·HH 에이전시
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast SWETA | 스베타 모로소바 (42) · 기자, HH 잠입 중
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@note ※ 함정(Honeypot) 편. 수색을 이틀 미루고, 파트리크만 접근 가능한 곳에 '존재하지 않는 장관 스캔들' 초안을 심어, 그것이 파트리크→HH 경로로 흘러 HH 기획표에 오르는지 스베타가 확인한다. 핵심: 함정과 교사(Anstiftung)의 법적 경계를 끝까지 지킨다. 등장 인물 가상.
+@note ※ 표현 초점: der Köder · die Falle · der Testlauf · die Rückverfolgung · die Anstiftung · Jetzt wird's spannend, wa?
+@next 4부 12화 «Patrick Wendt» — 색출. 파트리크와 대면하고, 다나 입회 아래 증거를 넘긴다. 파트리크: "난 작은 고기예요. 당신들 재단에도 친구가 있어요." (7부 복선)
+
+# 콜드 오픈 — ZWEI TAGE AUFSCHUB
+DANA: Ich habe die Durchsuchung verschoben. Um zwei Tage. Und bevor Sie protestieren, Herr Kowalczyk: Das ist eine gute Nachricht, keine schlechte.
+> 수색을 미뤘어요. 이틀. 그리고 항의하기 전에, 코발치크 씨. 그건 나쁜 소식이 아니라 좋은 소식이에요.
+JAN: Verschoben? Ich dachte, Patricks Löschversuche reichen für den Beschluss. Warum warten, wenn wir ihn schon haben? Jeder Tag mehr ist ein Tag mehr Risiko für Leon und für Sweta.
+> 미뤘다고요? 파트리크 삭제 시도가 영장에 충분한 줄 알았는데. 이미 잡았는데 왜 기다려요? 하루 더는 레온이랑 스베타한텐 위험 하루 더예요.
+DANA: Das verstehe ich, und ich nehme es ernst. Aber lassen Sie mich erklären, warum zwei Tage mehr am Ende weniger Risiko bedeuten, nicht mehr. Es klingt widersprüchlich, ist es aber nicht.
+> 이해해요, 진지하게 받아요. 근데 왜 이틀 더가 결국 위험이 더가 아니라 덜인지 설명하게 해 주세요. 모순처럼 들리는데 아니에요.
+JAN: Dann erklären Sie es mir. Denn mein Instinkt sagt: Je länger es dauert, desto mehr kann schiefgehen.
+> 그럼 설명해 주세요. 제 본능은 말하거든요. 오래 끌수록 더 많이 틀어질 수 있다고.
+DANA: Ihr Instinkt ist bei einem einzelnen Täter richtig. Aber hier geht es um ein Netz. Wenn ich heute nur Patrick festnehme, dann warne ich das Netz, und das Netz überlebt. In drei Monaten sitzt bei einer anderen Redaktion ein neuer Patrick. Das Problem wäre nicht gelöst, nur verschoben.
+> 단일 가해자한텐 당신 본능이 맞아요. 근데 여긴 그물이에요. 오늘 파트리크만 체포하면 그물을 경고하고, 그물은 살아남아요. 석 달 뒤 다른 편집국에 새 파트리크가 앉아요. 문제는 해결이 아니라 미뤄질 뿐이죠.
+JAN: Also sind die zwei Tage der Preis dafür, nicht nur den Mann, sondern das System zu treffen. Einmal richtig statt zehnmal halb. Verstanden. Dann trage ich die zwei Tage mit. Schweren Herzens, aber ich trage sie.
+> 그럼 이틀은 사람만이 아니라 시스템을 치기 위한 값이네요. 열 번 어설프게 말고 한 번 제대로. 알겠어요. 그럼 이틀을 함께 지겠어요. 무거운 마음으로, 근데 지겠어요.
+DANA: Weil ich ihn nur halb habe. Die Löschversuche beweisen, dass er Daten manipuliert hat. Das ist Paragraf 303a, Datenveränderung. Gut. Aber es beweist nicht, dass er für HH arbeitet. Dafür brauche ich die Verbindung. Lebend, in Aktion.
+> 반만 잡았으니까요. 삭제 시도는 그가 데이터를 조작한 걸 증명해요. 303a조, 데이터 변경. 좋아요. 근데 그가 HH를 위해 일한다는 건 증명 안 해요. 그걸 위해선 연결이 필요해요. 살아 있는, 작동 중인.
+JAN: Also eine Durchsuchung, die nur Patrick kriegt, ist Ihnen zu wenig. Sie wollen die ganze Kette: Patrick, der Daten stiehlt, und HH, das sie verwertet. In einem Zug.
+> 그럼 파트리크만 잡는 수색은 당신한텐 부족하네요. 사슬 전체를 원해요. 데이터를 훔치는 파트리크, 그걸 써먹는 HH. 한 번에.
+DANA: Richtig. Und wenn möglich noch einen Schritt weiter: den Beweis, wer HH bezahlt. Aber das ist vielleicht zu viel für eine Durchsuchung. Ich nehme, was ich kriegen kann. Patrick und HH wären schon ein historischer Erfolg.
+> 맞아요. 그리고 가능하면 한 걸음 더. 누가 HH에 돈을 내는지 증거. 근데 그건 수색 하나엔 너무 많을지도. 전 얻을 수 있는 걸 얻어요. 파트리크랑 HH만 해도 역사적 성과죠.
+JAN: Wer HH bezahlt — das führt zu Thal und Partner und am Ende nach Grunewald. Aber ich verstehe: Das ist eine andere Ermittlung, für eine andere Zeit. Erst die Hand und die Fabrik. Der Kopf kommt später.
+> 누가 HH에 돈을 내는지 — 그건 탈 & 파트너로, 결국 그루네발트로 이어져요. 근데 이해해요. 그건 다른 수사, 다른 때를 위한 거죠. 먼저 손과 공장. 머리는 나중에.
+DANA: So baut man einen großen Fall, Herr Kowalczyk: Stufe für Stufe, nicht alles auf einmal. Wer nach dem Kopf greift, bevor er die Hand hat, greift ins Leere. Geduld ist auch bei der Polizei die halbe Miete.
+> 큰 사건은 그렇게 짓는 거예요, 코발치크 씨. 단계마다, 한 번에 전부가 아니라. 손을 갖기 전에 머리를 잡으려는 자는 허공을 잡아요. 인내는 경찰한테도 절반의 몫이에요.
+DANA: Genau. Wenn ich nur Patrick hochnehme, warnt das HH. Die löschen alles und sind weg. Dann habe ich einen kleinen Fisch und das ganze Netz entkommt. Ich will das Netz. Dafür lohnen sich zwei Tage.
+> 바로요. 파트리크만 잡으면 HH를 경고해요. 다 지우고 사라지죠. 그럼 전 작은 물고기 하나 잡고 그물 전체는 달아나요. 전 그물을 원해요. 그래서 이틀은 그럴 값어치가 있어요.
+JAN: Und was tun wir in diesen zwei Tagen? Nur warten? Das ist gefährlich. Patrick könnte in zwei Tagen fliehen oder noch mehr löschen.
+> 그럼 이 이틀 동안 뭘 해요? 그냥 기다려요? 위험해요. 파트리크가 이틀 안에 달아나거나 더 지울 수 있어요.
+DANA: Deshalb warten wir nicht. Wir bauen eine Falle. Eine, die beweist, dass Patrick und HH eine Kette sind. Und das ist Ihr Teil, nicht meiner. Journalisten dürfen Dinge, die Polizei nicht darf. Noch. Ich höre, Sie haben da schon eine Idee.
+> 그래서 안 기다려요. 함정을 놔요. 파트리크랑 HH가 한 사슬임을 증명하는. 그리고 그건 제 몫이 아니라 당신들 몫이에요. 기자는 경찰이 못 하는 걸 할 수 있어요. 아직은. 듣기로 당신들한테 벌써 아이디어가 있다던데요.
+HELENE: Moment, Dana. Bevor wir über Fallen reden: Ist das nicht gefährlich für Patrick selbst? Wenn wir ihm eine Gelegenheit geben, eine neue Straftat zu begehen, machen wir ihn dann nicht schlimmer, als er ohnehin ist?
+> 잠깐요, 다나. 함정을 얘기하기 전에. 그게 파트리크 자신한테 위험하지 않아요? 그에게 새 범죄를 저지를 기회를 주면, 그를 어차피 그런 것보다 더 나쁘게 만드는 거 아니에요?
+DANA: Das ist eine sehr anständige Frage, Frau Brandt, und ich nehme sie ernst. Antwort: Nein. Wir geben ihm keine neue Straftat. Wir geben ihm eine Gelegenheit, die er selbst nutzt oder nicht. Ein ehrlicher Mensch geht an unserem Köder vorbei. Nur wer ohnehin stiehlt, greift zu.
+> 아주 점잖은 질문이에요, 브란트 씨, 진지하게 받아요. 답은, 아니요. 우린 그에게 새 범죄를 주는 게 아니에요. 그가 스스로 쓰거나 안 쓰는 기회를 줘요. 정직한 사람은 우리 미끼를 지나쳐요. 어차피 훔치는 자만 손대죠.
+HELENE: Also testen wir nur, ob er das tut, was er ohnehin tut. Wir erschaffen keinen neuen Täter, wir machen einen vorhandenen sichtbar.
+> 그럼 우린 그가 어차피 하는 걸 하는지만 시험하네요. 새 가해자를 만드는 게 아니라, 있는 가해자를 보이게 하는 거고요.
+DANA: Genau. Das ist der moralische und der juristische Kern. Deshalb muss der Köder so gebaut sein, dass ein unschuldiger Patrick ihn ignorieren würde, ohne Schaden. Wenn er ihn ignoriert, haben wir nichts verloren und niemandem geschadet. Wenn er zugreift, hat er sich selbst entlarvt. Fair in beide Richtungen.
+> 바로요. 그게 도덕적·법적 핵심이에요. 그래서 미끼는 결백한 파트리크라면 해 없이 무시할 수 있게 지어야 해요. 무시하면 우린 잃은 것도, 누굴 다치게 한 것도 없어요. 손대면 스스로 폭로한 거고요. 양쪽으로 공정해요.
+JAN: Fair in beide Richtungen. Das ist genau das Prinzip, nach dem wir auch Leon behandelt haben. Dieselbe Sorgfalt für den Verdächtigen wie für den Unschuldigen. Gut. Dann bauen wir einen Köder, der nur den Schuldigen fängt und den Unschuldigen in Ruhe lässt.
+> 양쪽으로 공정. 그게 바로 우리가 레온을 다룬 원칙이야. 용의자한테도 결백한 사람한테도 같은 정성. 좋아. 그럼 죄 있는 자만 잡고 결백한 자는 가만두는 미끼를 짓자.
+
+# 장면 1 — DIE IDEE
+MIRA: Die Idee ist ein Honeypot. Ein Honigtopf. Wir legen einen Köder aus, der so süß ist, dass Patrick nicht widerstehen kann. Eine Information, die HH unbedingt haben will.
+> 아이디어는 허니팟이에요. 꿀단지. 파트리크가 못 참을 만큼 달콤한 미끼를 놓아요. HH가 꼭 원하는 정보 하나.
+JAN: Und wenn diese Information dann bei HH auftaucht, obwohl sie nur an einem einzigen Ort lag, zu dem nur Patrick Zugang hatte, dann ist bewiesen: Patrick hat sie weitergegeben. Die Kette ist komplett.
+> 그리고 그 정보가, 파트리크만 접근 가능한 단 한 곳에 있었는데, HH에 나타나면, 증명되는 거야. 파트리크가 넘겼다고. 사슬이 완성돼.
+KATRIN: Moment. Hier wird es juristisch heikel. Der Köder darf keine echte, schützenswerte Information sein. Sonst gäbe es ein Problem, wenn sie wirklich an die Öffentlichkeit kommt. Er muss erfunden sein. Eine Information, die es gar nicht gibt.
+> 잠깐. 여기서 법적으로 미묘해져요. 미끼는 진짜, 보호할 가치 있는 정보여선 안 돼요. 안 그럼 진짜 공개되면 문제가 돼요. 지어낸 거라야 해요. 아예 존재하지 않는 정보.
+MIRA: Deshalb schlage ich einen erfundenen Skandal vor. Einen, der real klingt, aber frei erfunden ist. Zum Beispiel: ein Entwurf für einen Artikel über einen Minister, der angeblich etwas Verbotenes getan hat. Etwas, das nie passiert ist.
+> 그래서 지어낸 스캔들을 제안해요. 진짜처럼 들리는데 순전히 지어낸 거. 예를 들어, 한 장관이 금지된 뭔가를 했다는 기사 초안. 한 번도 일어난 적 없는 일.
+HELENE: Hier müssen wir sehr vorsichtig sein. Wir erfinden keinen Skandal über einen echten Minister. Das wäre selbst Desinformation, selbst wenn wir ihn nie drucken. Wir würden tun, was wir bekämpfen. Der Minister muss erfunden sein. Alles muss erfunden sein.
+> 여기서 아주 조심해야 해요. 우린 진짜 장관에 대한 스캔들을 지어내지 않아요. 그건 인쇄 안 해도 그 자체로 허위정보예요. 우리가 맞서는 걸 하는 거죠. 장관도 지어내야 해요. 전부 지어내야 해요.
+KATRIN: Helene hat vollkommen recht. Das ist die rote Linie. Wir erschaffen einen fiktiven Staatssekretär in einem fiktiven Ministerium mit einem fiktiven Namen. Niemand Echtes kommt vor. Dann schadet der Köder niemandem, selbst wenn er leakt.
+> 헬레네 말이 완전히 맞아요. 그게 금지선이에요. 우린 가상의 이름을 가진 가상의 부처의 가상의 차관을 만들어요. 진짜는 아무도 안 나와요. 그럼 미끼가 유출돼도 아무도 안 다쳐요.
+JAN: Gut. Ein frei erfundener Mann in einem frei erfundenen Amt. So echt, dass HH anbeißt, aber so erfunden, dass niemand Schaden nimmt. Das ist die Kunst. Mira, kannst du so etwas bauen?
+> 좋아. 완전히 지어낸 부처의 완전히 지어낸 사람. HH가 물 만큼 진짜 같고, 아무도 안 다칠 만큼 지어낸. 그게 기술이야. 미라, 그런 거 만들 수 있어?
+MIRA: Ich kann. Aber es gibt eine Falle in der Falle, auf die ich achten muss. Der Name darf nicht zufällig einem echten Menschen gehören. Ich prüfe jeden erfundenen Namen gegen alle öffentlichen Register, bevor ich ihn benutze. Nicht, dass es irgendwo doch einen echten Dr. Brehme im Digitalbereich gibt.
+> 할 수 있어요. 근데 제가 신경 써야 할 함정 속 함정이 있어요. 이름이 우연히 진짜 사람 것이면 안 돼요. 지어낸 이름마다 쓰기 전에 모든 공개 등기와 대조해요. 어딘가 디지털 분야에 진짜 브레메 박사가 있으면 안 되니까요.
+JAN: Sehr wichtig. Ein erfundener Name, der zufällig einem echten Menschen gehört, würde genau diesen Menschen in Gefahr bringen. Wir müssen sicher sein, dass unser Brehme wirklich niemandem gehört.
+> 아주 중요해. 우연히 진짜 사람 것인 지어낸 이름은 바로 그 사람을 위험에 빠뜨려. 우리 브레메가 정말 아무 것도 아니란 걸 확실히 해야 해.
+MIRA: Deshalb nehme ich einen Namen, den ich vorher geprüft habe und der in keinem Register vorkommt. Und ein Ministerium mit einer leicht falschen Bezeichnung, die es so offiziell nicht gibt. Jeder Fachmann erkennt, dass es erfunden ist. Nur HH, in ihrer Gier, prüft das nicht.
+> 그래서 미리 확인해서 어떤 등기에도 없는 이름을 써요. 그리고 공식적으론 그렇게 없는, 살짝 틀린 명칭의 부처. 전문가는 지어낸 걸 알아봐요. HH만, 탐욕에 눈이 멀어, 그걸 확인 안 하죠.
+KATRIN: Und genau das ist zusätzlich elegant: Dass HH den Köder schluckt, ohne zu prüfen, ob Brehme überhaupt existiert, beweist nebenbei, wie sie arbeiten. Sie verbreiten, was ihnen nützt, ohne eine Sekunde zu prüfen, ob es wahr ist. Der Köder entlarvt ihre ganze Methode.
+> 그리고 바로 그게 추가로 우아해요. HH가 브레메가 존재하는지조차 확인 않고 미끼를 삼키는 게, 곁다리로 그들이 어떻게 일하는지 증명해요. 자기들한테 득 되는 걸 참인지 1초도 확인 않고 퍼뜨려요. 미끼가 그들 방법 전체를 폭로하죠.
+HELENE: Dann hat der Köder zwei Funktionen: Er fängt Patrick, und er beweist HHs Arbeitsweise. Zwei Fliegen mit einer Klappe. Aber Mira, präg dir und uns ein: Diese Datei wird niemals, unter keinen Umständen, veröffentlicht. Sie existiert nur als Falle und wird danach gelöscht.
+> 그럼 미끼는 기능이 둘이네요. 파트리크를 잡고, HH 작업 방식을 증명하고. 일석이조. 근데 미라, 너랑 우리한테 새겨. 이 파일은 결코, 어떤 상황에서도 공개 안 돼. 함정으로만 존재하고 그 뒤 삭제돼.
+MIRA: Das ist in Stein gemeißelt. Die Datei trägt sogar intern eine Warnung im Dateikopf: «Fiktiv. Honeypot. Niemals veröffentlichen.» Damit kein Kollege sie je versehentlich für echt hält. Wir schützen uns vor unserem eigenen Köder.
+> 돌에 새겼어요. 파일은 심지어 내부적으로 머리말에 경고를 달아요. «허구. 꿀단지. 절대 공개 금지.» 어떤 동료도 실수로 진짜로 여기지 않도록. 우리 자신의 미끼로부터 우릴 지켜요.
+JAN: Moment — wenn Patrick die Datei öffnet, sieht er die Warnung «Honeypot» dann nicht auch? Dann wüsste er sofort, dass es eine Falle ist.
+> 잠깐 — 파트리크가 파일을 열면 «꿀단지» 경고도 보지 않아? 그럼 함정인 걸 바로 알 텐데.
+MIRA: Nein. Die Warnung steht nicht im sichtbaren Text, sondern in einem versteckten Feld, das nur wir kennen und das er nicht aufschlägt. Für ihn sieht die Datei aus wie ein echter, brisanter Entwurf. Derselbe Text zeigt uns «Falle» und ihm «Schatz».
+> 아니요. 경고는 보이는 텍스트가 아니라 우리만 아는, 그가 안 펼치는 숨은 필드에 있어요. 그한텐 진짜 민감한 초안처럼 보여요. 같은 텍스트가 우리한텐 «함정», 그한텐 «보물»로 보이죠.
+KATRIN: Und juristisch ist das entscheidend: Die Warnung existiert, mit Zeitstempel. Sollte je jemand behaupten, wir hätten Desinformation gestreut, können wir beweisen, dass die Datei von Anfang an als fiktiver Honeypot markiert war. Unsere Absicht ist in die Datei selbst eingeschrieben.
+> 그리고 법적으로 결정적이에요. 경고가 타임스탬프와 함께 존재해요. 누가 우리가 허위정보를 뿌렸다고 주장하면, 파일이 처음부터 허구 꿀단지로 표시됐음을 증명할 수 있어요. 우리 의도가 파일 자체에 새겨져 있어요.
+
+# 장면 2 — DER KÖDER WIRD GEBAUT
+MIRA: Ich habe einen Entwurf. Hört zu. «Staatssekretär Dr. Ortwin Brehme, Ministerium für Digitale Infrastruktur, soll Aufträge an eine Firma seines Schwagers vergeben haben.» Alles frei erfunden. Es gibt keinen Brehme, kein solches Ministerium in der Form, keinen Schwager.
+> 초안이 있어요. 들어 봐요. «디지털 인프라부 오르트빈 브레메 박사 차관이 매부 회사에 일감을 몰아줬다는 의혹.» 전부 지어냈어요. 브레메도, 그런 형태의 부처도, 매부도 없어요.
+JAN: Warum ein Schwager und keine große Summe? Wäre ein Millionenskandal nicht verlockender für HH?
+> 왜 거액이 아니라 매부야? 수백만 스캔들이 HH한텐 더 유혹적이지 않아?
+MIRA: Nein, gerade nicht. Ein zu großer Skandal wäre leicht überprüfbar und würde Misstrauen wecken. «Hätten wir davon nicht schon gehört?» Ein kleiner, plausibler Vetternwirtschafts-Verdacht dagegen klingt genau richtig: groß genug, um verwertbar zu sein, klein genug, um glaubhaft übersehen worden zu sein. Das ist der ideale Köder.
+> 아니요, 오히려 아니에요. 너무 큰 스캔들은 확인하기 쉽고 의심을 깨워요. «이걸 벌써 안 들었겠어?» 반면 작고 그럴듯한 족벌 의혹은 딱 맞게 들려요. 써먹을 만큼 크고, 그동안 간과됐을 만큼 작게. 그게 이상적 미끼예요.
+JAN: Also ist die Kunst nicht, möglichst spektakulär zu sein, sondern möglichst glaubwürdig. Ein Köder, der zu glänzt, weckt Misstrauen. Ein matter, realistischer Köder wird geschluckt. Du denkst wie sie, Mira, nur um den Spieß umzudrehen.
+> 그럼 기술은 최대한 화려한 게 아니라 최대한 믿음직한 거네. 너무 번쩍이는 미끼는 의심을 깨워. 흐릿하고 현실적인 미끼가 삼켜지고. 넌 그들처럼 생각하네, 미라, 창을 거꾸로 돌리려고.
+MIRA: Genau. Um einen Fälscher zu fangen, muss man denken wie ein Fälscher, aber handeln wie ein Journalist. Ich weiß, wie man einen überzeugenden Köder baut, weil ich verstehe, wie Desinformation funktioniert. Der Unterschied ist, wofür ich es benutze. Sie, um zu täuschen. Ich, um zu entlarven.
+> 바로요. 위조자를 잡으려면 위조자처럼 생각하되 기자처럼 행동해야 해요. 전 설득력 있는 미끼 만드는 법을 알아요, 허위정보가 어떻게 작동하는지 이해하니까요. 차이는 그걸 어디에 쓰느냐예요. 그들은 속이려고. 전 폭로하려고.
+JAN: Klingt gut. Echt genug. Und gefährlich genug, dass HH es als wertvolle Munition sieht. Aber woher weiß HH, dass dieser Entwurf existiert? Wir müssen ihn so platzieren, dass nur Patrick ihn findet.
+> 좋네. 충분히 진짜 같고. 그리고 HH가 값진 탄약으로 볼 만큼 위험해. 근데 HH가 이 초안이 존재하는 걸 어떻게 알아? 파트리크만 찾도록 배치해야 해.
+MIRA: Genau da liegt der Trick. Ich lege den Entwurf in einen Ordner, zu dem nur drei Personen Zugang haben: Jan, ich, und — durch sein Admin-Konto — Patrick. Jan und ich wissen, dass es ein Köder ist. Patrick nicht.
+> 바로 거기 수법이 있어요. 초안을 세 사람만 접근하는 폴더에 둬요. 얀, 저, 그리고 — 관리자 계정으로 — 파트리크. 얀이랑 저는 미끼인 걸 알아요. 파트리크는 모르고요.
+KATRIN: Und hier ist die juristisch entscheidende Frage: Fordern wir Patrick auf, zuzugreifen? Nein. Wir legen die Datei einfach ab, als wäre sie normale Arbeit. Ob er zugreift, ist allein seine Entscheidung. Wir laden ihn nicht ein. Wir lassen die Tür nur unverschlossen.
+> 그리고 여기 법적으로 결정적인 질문. 우리가 파트리크한테 접속하라고 요구해요? 아니요. 그냥 평범한 작업인 것처럼 파일을 둬요. 접속하느냐는 오로지 그의 결정이에요. 우린 그를 초대하지 않아요. 문을 안 잠가 둘 뿐이에요.
+JAN: Die Tür unverschlossen lassen ist kein Einbruch-Befehl. Wenn jemand durch eine unverschlossene Tür geht, die ihn nichts angeht, ist das seine Tat, nicht unsere Einladung. Das ist der schmale Grat, und wir bleiben auf der richtigen Seite.
+> 문을 안 잠가 두는 건 침입 명령이 아니야. 누가 자기랑 상관없는 안 잠긴 문으로 들어가면 그건 그의 행위지 우리 초대가 아니야. 그게 좁은 능선이고, 우린 옳은 쪽에 머물러.
+DANA: Und genau diese Unterscheidung ist es, die vor Gericht zählt. Ich darf euch das als Polizistin nicht anordnen — das wäre Anstiftung durch den Staat. Aber wenn ihr als Journalisten ohnehin an einer echten Geschichte arbeitet und eine Datei ablegt, dann ist das eure Pressefreiheit. Ich sehe nur zu.
+> 그리고 바로 그 구분이 법정에서 중요해요. 전 경찰로서 당신들한테 그걸 지시 못 해요 — 국가에 의한 교사가 되니까요. 근데 당신들이 기자로서 어차피 진짜 기사를 작업하며 파일을 두면, 그건 당신들 언론 자유예요. 전 지켜보기만 해요.
+HELENE: Dann halten wir fest: Der Köder ist erfunden, er schadet keinem echten Menschen, wir fordern niemanden zu nichts auf, und die Polizei ordnet nichts an. Jeder Schritt sauber. Nur so taugt das Ergebnis am Ende vor Gericht.
+> 그럼 확정해요. 미끼는 지어낸 거고, 진짜 사람을 안 다치게 하고, 우린 아무도 뭘 하라고 안 하고, 경찰은 아무것도 안 지시해요. 모든 걸음이 깨끗하게. 그래야 결과가 끝에 법정에서 쓸모 있어요.
+
+# 장면 3 — DER KÖDER WIRD AUSGELEGT
+MIRA: So. Die Datei liegt im Ordner. Dateiname: «Recherche_Brehme_Entwurf_vertraulich.docx». Letzte Änderung: heute, 14 Uhr 03. Zugriffsberechtigt: Jan, ich, pw_admin. Niemand sonst.
+> 자. 파일이 폴더에 있어요. 파일명: «취재_브레메_초안_대외비.docx». 최종 수정: 오늘 14시 3분. 접근 권한: 얀, 저, pw_admin. 그 외엔 아무도.
+JAN: Und wir müssen uns ganz normal verhalten. Wir reden am Schreibtisch über «die Brehme-Recherche», als wäre sie echt. So, dass Patrick, der ja mithört, neugierig wird. Aber ohne ihn zu drängen.
+> 그리고 아주 평소대로 행동해야 해. 책상에서 «브레메 취재»를 진짜인 것처럼 얘기해. 엿듣는 파트리크가 궁금해지도록. 근데 그를 몰아붙이지 않고.
+MIRA: Ich habe mir ein paar Sätze überlegt, die wir fallen lassen. «Die Brehme-Sache wird groß.» «Wenn das stimmt, muss der Mann zurücktreten.» Beiläufig, nicht übertrieben. Köder, keine Ansage.
+> 흘릴 문장 몇 개를 생각해 뒀어요. «브레메 건은 커질 거야.» «이게 사실이면 그 사람은 사퇴해야 해.» 지나가듯, 과장 없이. 미끼지 공지가 아니라.
+KATRIN: Achtet auf die Grenze. «Die Brehme-Sache wird groß» ist ein Satz über unsere Arbeit. Erlaubt. «Patrick, sieh dir mal die Brehme-Datei an» wäre eine Aufforderung. Verboten. Sagt nie etwas, das ihn direkt auf die Datei lenkt. Lasst ihn selbst stolpern.
+> 경계를 지켜요. «브레메 건은 커질 거야»는 우리 작업에 대한 문장. 허용. «파트리크, 브레메 파일 좀 봐»는 요구. 금지. 그를 파일로 직접 이끄는 건 절대 말하지 마요. 그가 스스로 걸려 넘어지게 둬요.
+JAN: Verstanden. Kein Wort, das ihn hinschickt. Nur das normale Gerede über eine Geschichte, die ihn, wenn er ehrlich wäre, gar nichts anginge. Dass er trotzdem hinschaut, verrät ihn. Ein ehrlicher Kollege würde die Datei nie öffnen.
+> 알겠어. 그를 보내는 말은 한마디도. 그가 정직하다면 상관도 없을 기사에 대한 평범한 잡담만. 그래도 그가 들여다보면 그게 그를 드러내. 정직한 동료라면 그 파일을 결코 안 열어.
+HELENE: Und wir müssen unsere Sätze vorher absprechen, damit keiner von uns im Eifer etwas Falsches sagt. Jeder von uns kennt genau die zwei, drei Sätze, die er fallen lassen darf. Mehr nicht. Improvisation ist hier gefährlich.
+> 그리고 우린 미리 문장을 맞춰야 해요. 아무도 열의에 틀린 말 안 하도록. 우리 각자가 흘려도 되는 두세 문장을 정확히 알아요. 그 이상은 아니고. 여기서 즉흥은 위험해요.
+MIRA: Ich mache eine kleine Liste. Erlaubte Sätze. «Die Brehme-Sache wird groß.» «Da müssen wir vorsichtig recherchieren.» Verbotene Sätze: alles, was eine Datei, einen Ordner oder einen Zugriff erwähnt. Wir sprechen nur über das Thema, nie über die Technik.
+> 작은 목록을 만들게요. 허용 문장. «브레메 건은 커질 거야.» «신중히 취재해야 해.» 금지 문장: 파일, 폴더, 접근을 언급하는 모든 것. 우린 주제만 얘기하지 기술은 결코.
+JAN: Gut. Und wenn Patrick uns direkt fragt — «Was ist das für eine Brehme-Sache?» — was antworten wir? Das ist der heikelste Moment. Wir dürfen ihn nicht hinschicken, aber auch nicht misstrauisch machen.
+> 좋아. 그리고 파트리크가 직접 물으면 — «브레메 건이 뭐예요?» — 뭐라고 답해? 그게 가장 미묘한 순간이야. 그를 보내서도 안 되고 의심하게 해서도 안 돼.
+KATRIN: Dann antwortet ihr ausweichend, wie bei jeder vertraulichen Recherche. «Noch zu früh, um darüber zu reden.» Das ist die Wahrheit für jede echte Geschichte und lenkt ihn nicht zur Datei. Es weckt höchstens seine Neugier, aber das ist seine Sache, nicht eure Aufforderung.
+> 그럼 모든 비밀 취재처럼 둘러대요. «아직 얘기하기엔 일러.» 그건 모든 진짜 기사에 대한 진실이고 그를 파일로 안 이끌어요. 기껏해야 그의 호기심을 깨우는데, 그건 그의 일이지 당신들 요구가 아니에요.
+JAN: «Noch zu früh.» Perfekt. Das ist genau das, was ich zu jedem Kollegen über jede laufende Recherche sagen würde. Es ist wahr, es ist normal, und es lenkt niemanden. Wenn Patrick trotzdem nachts heimlich die Datei öffnet, dann aus eigenem Antrieb. Dann haben wir ihn.
+> «아직 일러.» 완벽해. 그건 내가 모든 동료한테 진행 중인 모든 취재에 대해 할 말이야. 참되고, 평범하고, 아무도 안 이끌어. 그래도 파트리크가 밤에 몰래 파일을 열면 자기 의지로야. 그럼 그를 잡아.
+MIRA: Und jetzt kommt der zweite, elegantere Teil. In der Datei ist ein unsichtbares Signal. Ein sogenannter Tracking-Pixel und eine eindeutige, nie zuvor verwendete Formulierung. Wenn dieser Text irgendwo bei HH auftaucht, wissen wir hundertprozentig, dass er aus genau dieser Datei stammt.
+> 그리고 이제 두 번째, 더 우아한 부분. 파일에 보이지 않는 신호가 있어요. 이른바 추적 픽셀과, 한 번도 안 쓴 유일한 표현. 이 텍스트가 HH 어딘가에 나타나면, 그게 정확히 이 파일에서 왔다는 걸 100퍼센트 알아요.
+DANA: Das ist sauber und clever. Der Tracking-Pixel meldet, wann und von wo die Datei geöffnet wurde. Und die einzigartige Formulierung ist wie ein genetischer Fingerabdruck. Taucht sie bei HH auf, gibt es nur eine mögliche Herkunft. Das hält vor jedem Gericht.
+> 깨끗하고 영리해요. 추적 픽셀이 파일이 언제 어디서 열렸는지 알려 줘요. 그리고 유일한 표현은 유전자 지문 같아요. HH에 나타나면 가능한 출처가 하나뿐이에요. 어떤 법정에서도 버텨요.
+JAN: Eine Sorge habe ich noch. Was, wenn Patrick den Tracking-Pixel erkennt? Er ist IT-Fachmann. Wenn er so etwas entdeckt, weiß er, dass es eine Falle ist, und wir sind aufgeflogen.
+> 걱정 하나가 더 있어. 파트리크가 추적 픽셀을 알아보면? 그는 IT 전문가야. 그런 걸 발견하면 함정인 걸 알고, 우린 들통나.
+MIRA: Daran habe ich gedacht. Deshalb habe ich keinen Standard-Pixel genommen, den jeder Fachmann kennt. Ich habe ihn in etwas versteckt, das in jedem Dokument völlig normal ist: in die Formatierungsdaten. Selbst ein Profi wie Patrick würde dort nicht suchen. Es sieht aus wie ein belangloser technischer Rest.
+> 그 생각 했어요. 그래서 전문가라면 다 아는 표준 픽셀을 안 썼어요. 모든 문서에서 완전히 평범한 것에 숨겼어요. 서식 데이터에. 파트리크 같은 프로도 거긴 안 찾아요. 하찮은 기술적 찌꺼기처럼 보이죠.
+JAN: Also schlägst du ihn mit seinen eigenen Waffen. Er versteckt ein Programm als «svchost-update», wir verstecken ein Signal in Formatierungsdaten. Der Jäger wird mit seiner eigenen Tarnkunst gefangen.
+> 그럼 그의 무기로 그를 치네. 그가 프로그램을 «svchost-update»로 숨기듯, 우린 신호를 서식 데이터에 숨겨. 사냥꾼이 자기 위장술로 잡히는 거야.
+MIRA: So ist es. Und es gibt noch eine Sicherung. Selbst wenn Patrick den Pixel fände und entfernte — die einzigartige Formulierung im Text bleibt. Die kann er nicht entfernen, ohne den ganzen Text umzuschreiben. Und dann wäre es nicht mehr derselbe Köder, der bei HH auftaucht. Zwei Sicherungen, nicht eine.
+> 그래요. 그리고 안전장치가 하나 더. 파트리크가 픽셀을 찾아 지워도 — 텍스트의 유일한 표현은 남아요. 전체를 다시 쓰지 않곤 못 지워요. 그럼 HH에 나타나는 게 더는 같은 미끼가 아니죠. 안전장치 둘, 하나가 아니라.
+DANA: Zwei unabhängige Spuren in einem Köder. Das ist professionelle Arbeit, Frau Aydın. Besser als manches, was ich von Kollegen sehe. Wenn Sie je genug vom Journalismus haben, die Kriminaltechnik nimmt Sie mit Kusshand.
+> 미끼 하나에 독립적 흔적 둘. 전문적인 일이에요, 아이든 씨. 제가 동료들한테서 보는 것보다 나아요. 저널리즘이 지겨워지면 과학수사대가 두 팔 벌려 모실 거예요.
+
+# 장면 4 — DAS WARTEN
+TOBI: Und jetzt? Jetzt heeßt et warten, wa? Dit is der schlimmste Teil. Ick hass warten. Beim Fotojrafieren wart ick manchmal Stunden uff det eene Bild. Aba det hier is schlimmer.
+= Und jetzt? Jetzt heißt es warten, oder? Das ist der schlimmste Teil. Ich hasse warten. Beim Fotografieren warte ich manchmal Stunden auf das eine Bild. Aber das hier ist schlimmer.
+> 그럼 이제? 이제 기다리는 거지, 응? 그게 최악의 부분이야. 난 기다리기 싫어. 사진 찍을 땐 가끔 한 장 때문에 몇 시간 기다려. 근데 이건 더 나빠.
+JAN: Es ist schlimmer, weil wir nichts tun können außer normal zu sein. Jede Stunde fragen wir uns: Hat er zugegriffen? Und wir dürfen es nicht einmal prüfen, solange Sweta nicht aus HH meldet.
+> 더 나쁜 건, 평소대로 있는 것 말곤 할 수 있는 게 없어서야. 매시간 자문해. 그가 접속했나? 그리고 스베타가 HH에서 알릴 때까진 확인조차 못 해.
+MIRA: Falsch. Den Tracking-Pixel kann ich prüfen. Und… Moment. Da. Die Datei «Brehme_Entwurf» wurde geöffnet. Heute, 17 Uhr 48. Von einem Gerät, das nicht in unserem Büro steht.
+> 틀렸어요. 추적 픽셀은 제가 확인할 수 있어요. 그리고… 잠깐. 저기. «브레메_초안» 파일이 열렸어요. 오늘, 17시 48분. 우리 사무실에 없는 기기에서.
+JAN: Nicht in unserem Büro. Also hat jemand die Datei aus der Ferne geöffnet. Um 17 Uhr 48, nach Feierabend, als niemand mehr da war. Wer außer Patrick hat Fernzugriff auf diesen Ordner?
+> 우리 사무실에 없는. 그럼 누가 원격으로 파일을 열었어. 17시 48분, 퇴근 뒤, 아무도 없을 때. 파트리크 말고 누가 이 폴더에 원격 접속해?
+MIRA: Niemand. Nur pw_admin. Und das Gerät, das die Datei geöffnet hat, hat dieselbe Kennung wie das, das damals das Fake-Video verbreitet hat. Es ist dasselbe Gerät. Die Kette schließt sich, Jan.
+> 아무도 없어요. pw_admin만. 그리고 파일을 연 기기는 그때 가짜 영상을 퍼뜨린 것과 같은 식별자예요. 같은 기기예요. 사슬이 닫혀요, 얀.
+JAN: Dasselbe Gerät wie beim Deepfake. Das ist ein weiterer Mosaikstein. Mira, kannst du beweisen, dass es wirklich dasselbe Gerät ist und nicht nur ein ähnliches? Ein Verteidiger würde sofort sagen, zwei Geräte könnten dieselbe Kennung zeigen.
+> 딥페이크 때랑 같은 기기. 또 하나의 모자이크 조각이야. 미라, 그게 비슷한 게 아니라 정말 같은 기기란 걸 증명할 수 있어? 변호인은 바로 두 기기가 같은 식별자를 보일 수 있다고 할 거야.
+MIRA: Kann ich. Die Gerätekennung allein wäre anfechtbar. Aber ich habe zusätzlich den Hardware-Fingerabdruck: Taktrate, Treiberversionen, ein winziger Uhrzeit-Versatz, der für jedes Gerät einzigartig ist. Das ist wie ein Fingerabdruck, nicht wie ein Name. Namen kann man fälschen, Fingerabdrücke praktisch nicht.
+> 할 수 있어요. 기기 식별자만으론 반박 가능해요. 근데 추가로 하드웨어 지문이 있어요. 클럭 속도, 드라이버 버전, 기기마다 유일한 아주 작은 시각 오차. 이름이 아니라 지문 같아요. 이름은 위조할 수 있지만 지문은 사실상 못 해요.
+JAN: Ein Hardware-Fingerabdruck. Also kein «ähnliches Gerät», sondern zweifelsfrei dasselbe. Und damit ist bewiesen: Das Gerät, das das Deepfake gegen mich verbreitet hat, ist dasselbe, das jetzt heimlich unsere Köder-Datei geöffnet hat. Zwei Taten, ein Gerät, eine Hand.
+> 하드웨어 지문. 그럼 «비슷한 기기»가 아니라 의심 없이 같은 거야. 그리고 그걸로 증명돼. 날 겨눈 딥페이크를 퍼뜨린 기기가, 이제 몰래 우리 미끼 파일을 연 것과 같아. 두 행위, 한 기기, 한 손.
+MIRA: Eine Hand. Und diese Hand gehört zu pw_admin. Zu Patrick. Von hier führt kein Weg mehr weg, Jan. Nur noch der zweite Teil fehlt — dass der Inhalt bei HH ankommt. Und darauf wartet jetzt alles.
+> 한 손. 그리고 그 손은 pw_admin 거예요. 파트리크. 여기서 더는 빠져나갈 길이 없어요, 얀. 두 번째 부분만 빠졌어요 — 내용이 HH에 도착하는 것. 그리고 이제 전부가 거기 달렸어요.
+KATRIN: Aber noch nicht ganz. Dass Patrick die Datei geöffnet hat, beweist, dass er neugierig war. Das reicht noch nicht. Erst wenn der Inhalt bei HH auftaucht, ist bewiesen, dass er ihn weitergegeben hat. Öffnen ist noch keine Weitergabe. Wir brauchen den zweiten Teil.
+> 근데 아직 완전히는 아니에요. 파트리크가 파일을 연 건 그가 궁금했다는 걸 증명해요. 아직 부족해요. 내용이 HH에 나타나야 그가 넘겼다는 게 증명돼요. 여는 건 아직 넘김이 아니에요. 두 번째 부분이 필요해요.
+JAN: Also hängt jetzt alles an Sweta. Wenn der erfundene Brehme morgen auf einer HH-Themenliste steht, haben wir ihn. Wenn nicht, haben wir nur einen neugierigen Kollegen. Jetzt entscheidet sich alles bei ihr.
+> 그럼 이제 전부가 스베타한테 달렸어. 지어낸 브레메가 내일 HH 주제 목록에 오르면 그를 잡아. 아니면 궁금해한 동료 하나만 있고. 이제 전부가 그 사람한테서 갈려.
+TOBI: Und ick sitz hier und kann nüscht machen außer Kaffee kochen. Weeßte, Jan, dit is dit Härteste an unserm Job. Nich die Jefahr. Det Warten. Wenn andre dit Risiko tragen und man selba bloß dasitzt und hofft.
+= Und ich sitze hier und kann nichts machen außer Kaffee kochen. Weißt du, Jan, das ist das Härteste an unserem Job. Nicht die Gefahr. Das Warten. Wenn andere das Risiko tragen und man selber bloß dasitzt und hofft.
+> 그리고 난 여기 앉아서 커피 끓이는 것 말곤 아무것도 못 해. 있잖아, 얀, 그게 우리 일에서 제일 힘든 거야. 위험이 아니라. 기다림. 남이 위험을 지고 자긴 그냥 앉아서 바라기만 할 때.
+JAN: Ich weiß, Tobi. Als du in der Drohnenfabrik warst, saß ich genauso da und konnte nichts tun. Es ist leichter, selbst das Risiko zu tragen, als jemanden, den man mag, hineingehen zu sehen. Warten ist eine eigene Art von Mut.
+> 알아, 토비. 네가 드론 공장에 있을 때 나도 똑같이 앉아서 아무것도 못 했어. 자기가 위험을 지는 게 아끼는 사람이 들어가는 걸 보는 것보다 쉬워. 기다림은 그 자체로 하나의 용기야.
+TOBI: Warten als Mut. Dit jefällt mir. Macht det Rumsitzen 'n büschen erträglicher. Aba ehrlich: Mir wär lieber, ick wär da drin statt die Sweta. Ick hab keene Familie, die se bedrohen können. Sweta schon.
+= Warten als Mut. Das gefällt mir. Macht das Rumsitzen ein bisschen erträglicher. Aber ehrlich: Mir wäre lieber, ich wäre da drin statt der Sweta. Ich habe keine Familie, die sie bedrohen können. Sweta schon.
+> 용기로서의 기다림. 마음에 들어. 멍하니 앉아 있는 걸 좀 견딜 만하게 해. 근데 솔직히, 스베타 대신 내가 거기 있는 게 나아. 난 걔네가 협박할 가족이 없어. 스베타는 있고.
+JAN: Das ehrt dich, Tobi. Aber du könntest nicht drin sein. Du sprichst kein Russisch, du kennst ihre Codes nicht. Sweta ist die Einzige, die das kann. Und genau deshalb tragen wir zusammen die Sorge um sie. Du mit Kaffee, ich mit dem Telefon. Jeder, wie er kann.
+> 그건 널 명예롭게 해, 토비. 근데 넌 거기 못 있어. 러시아어를 못 하고, 그들 암호를 몰라. 스베타가 유일하게 할 수 있는 사람이야. 그래서 바로 우린 함께 그 사람 걱정을 져. 넌 커피로, 난 전화로. 각자 할 수 있는 만큼.
+TOBI: Jeder, wie er kann. Na jut. Denn koch ick noch 'ne Kanne Kaffee. Und wenn Sweta heil rauskommt, denn jeb ick 'ne Runde aus. Die jrößte Runde, die Elke je jesehen hat.
+= Jeder, wie er kann. Na gut. Dann koche ich noch eine Kanne Kaffee. Und wenn Sweta heil rauskommt, dann gebe ich eine Runde aus. Die größte Runde, die Elke je gesehen hat.
+> 각자 할 수 있는 만큼. 좋아. 그럼 커피 한 주전자 더 끓일게. 그리고 스베타가 성하게 나오면 한턱 쏠게. 엘케가 본 것 중 제일 큰 한턱.
+
+# 장면 5 — SWETA IM FEUER
+SWETA: Jan, hörst du mich? Ich bin im Großraum unten. Ich tue, als suchte ich Material für Gegenfeuer. Ich sehe mir die Themenliste für morgen an. Ganz ruhig. Ich lese sie von oben nach unten.
+> 얀, 들려요? 전 아래층 대형 사무실이에요. 맞불 자료를 찾는 척해요. 내일 주제 목록을 봐요. 아주 차분히. 위에서 아래로 읽어요.
+JAN: Ich höre dich klar, Sweta. Beschreib mir kurz die Lage, bevor du liest. Wie viele Leute sind im Raum? Wo ist die Liste? Wie lange kannst du ungestört hinschauen?
+> 또렷이 들려, 스베타. 읽기 전에 상황을 짧게 묘사해 줘. 방에 몇 명 있어? 목록은 어디 있어? 방해 없이 얼마나 볼 수 있어?
+SWETA: Vier Leute im Raum, alle an ihren Bildschirmen. Die Liste hängt am Whiteboard, zwei Meter von der Kaffeemaschine. Ich kann davorstehen, solange ich einen Kaffee mache. Vielleicht eine Minute, ohne aufzufallen.
+> 방에 네 명, 다 자기 화면 앞에. 목록은 화이트보드에 걸려 있어요, 커피머신에서 2미터. 커피 만드는 동안 앞에 설 수 있어요. 안 띄고 아마 1분.
+JAN: Eine Minute. Das reicht. Mach dir einen Kaffee, trink ihn langsam, und lies in der Zeit. Wenn jemand kommt, hörst du auf und rührst in deiner Tasse. Du bist nur eine müde Kollegin an der Kaffeemaschine. Ganz normal.
+> 1분. 충분해. 커피 만들고, 천천히 마시고, 그동안 읽어. 누가 오면 멈추고 잔을 저어. 넌 커피머신 앞의 피곤한 동료일 뿐이야. 아주 평범하게.
+SWETA: Kaffee ist gemacht. Ich stehe davor, Tasse in der Hand, Blick scheinbar ins Leere, in Wahrheit auf die Liste. Niemand achtet auf mich. Vier Rücken, vier Bildschirme. Gut. Jetzt lese ich.
+> 커피 만들었어요. 앞에 서 있어요, 잔 들고, 겉보기엔 허공을 보는데 사실은 목록을. 아무도 절 신경 안 써요. 등 넷, 화면 넷. 좋아요. 이제 읽어요.
+JAN: Ruhig, Sweta. Lies einfach. Sag nichts Auffälliges. Wenn Brehme da ist, nenn ihn nicht beim Namen laut. Sag ein harmloses Codewort. Zum Beispiel: «interessant».
+> 차분히, 스베타. 그냥 읽어. 눈에 띄는 말 하지 마. 브레메가 있으면 이름을 크게 부르지 마. 무해한 암호를 말해. 예를 들어 «흥미롭네».
+SWETA: Ich lese, als suchte ich nur mein eigenes Projekt. Ich blättere langsam, gelangweilt, wie jemand, der seinen Namen auf einer langen Liste sucht. Niemand schaut zu mir. Gut. Ich habe Zeit.
+> 제 프로젝트만 찾는 척 읽어요. 천천히, 지루하게 넘겨요, 긴 목록에서 자기 이름 찾는 사람처럼. 아무도 절 안 봐요. 좋아요. 시간 있어요.
+JAN: Gut. Nimm dir Zeit. Hetz nicht. Ein gehetzter Blick fällt auf. Ein gelangweilter nicht. Lies, als wäre es die langweiligste Liste der Welt.
+> 좋아. 천천히. 서두르지 마. 서두르는 눈길은 띄어. 지루한 눈길은 안 띄고. 세상에서 제일 지루한 목록인 것처럼 읽어.
+SWETA: Ich lese. Tempelhof, Pflege, ein Energiethema… und dann… da ist eine neue Zeile. Ganz unten. Handschriftlich ergänzt, heute Morgen. «Brehme — Digitalministerium — prüfen, ob verwertbar.» Interessant.
+> 읽어요. 템펠호프, 요양, 에너지 주제… 그리고… 새 줄이 있어요. 맨 아래. 손으로 추가됨, 오늘 아침. «브레메 — 디지털부 — 써먹을 수 있는지 검토.» 흥미롭네요.
+JAN: «Interessant.» Sweta, das ist das Codewort. Du hast es gesagt. Brehme steht auf der HH-Liste. Der Mann, den wir gestern erfunden haben. Den es nicht gibt. Er steht auf ihrer Themenliste, einen Tag später.
+> «흥미롭네.» 스베타, 그게 암호야. 네가 말했어. 브레메가 HH 목록에 있어. 우리가 어제 지어낸 사람. 존재하지 않는. 그 사람이 그들 주제 목록에, 하루 뒤에.
+SWETA: Ja. Und ich sehe noch mehr. Daneben steht ein Kürzel. Dasselbe, das ich beim Whiteboard gesehen habe. Der Vermerk, woher das Thema kam. Ich präge es mir ein. Ich lese es nur einmal und schaue dann weg.
+> 네. 그리고 더 봐요. 옆에 약어가 있어요. 화이트보드에서 본 그것. 주제가 어디서 왔는지 메모. 외워요. 한 번만 읽고 눈을 돌려요.
+JAN: Welches Kürzel, Sweta? Sag es, ganz leise, als wäre es nichts.
+> 어떤 약어야, 스베타? 말해, 아주 조용히, 아무것도 아닌 것처럼.
+SWETA: Warte. Jemand kommt. Nadja. Sie geht direkt an der Liste vorbei. Ich lege sie zurück und tue, als suchte ich einen Stift. … «Ach, Frau Nadja, haben Sie einen Kugelschreiber? Meiner ist leer.»
+> 잠깐. 누가 와요. 나자. 목록 바로 옆을 지나가요. 되돌려 놓고 펜 찾는 척해요. … «아, 나자 씨, 볼펜 있어요? 제 게 다 됐어요.»
+JAN: Gut reagiert. Ruhig bleiben. Lass sie nicht sehen, dass du die Liste angeschaut hast. Ein Stift ist ein perfekter Vorwand. Niemand misstraut einer Frau, die einen Stift sucht.
+> 잘 대응했어. 차분히. 네가 목록 본 걸 그 사람이 못 보게 해. 펜은 완벽한 구실이야. 펜 찾는 여자를 아무도 의심 안 해.
+SWETA: Sie hat mir einen Stift gegeben und ist weitergegangen. Kein seltsamer Blick diesmal. Nur ein freundliches Nicken. Gut. Ich atme einmal durch und lese die letzte Zeile zu Ende. Jetzt, wo niemand mehr in der Nähe ist.
+> 펜을 주고 지나갔어요. 이번엔 이상한 눈빛 없이. 그냥 친근하게 끄덕였어요. 좋아요. 한 번 숨 고르고 마지막 줄을 끝까지 읽어요. 이제 아무도 근처에 없으니까.
+JAN: Gut. Nimm dir die Sekunde. Und dann sag mir das Kürzel. Ganz beiläufig.
+> 좋아. 그 1초를 가져. 그다음 약어를 말해 줘. 아주 지나가듯.
+SWETA: Es sind Initialen. Von der Person, die das Thema eingebracht hat. Zwei Buchstaben. P. W. Und daneben, in Klammern: «interne Quelle Spreewerk». Es steht schwarz auf weiß, Jan. P. W., interne Quelle Spreewerk.
+> 이니셜이에요. 주제를 들여온 사람의. 글자 둘. P. W. 그리고 옆에 괄호로 «Spreewerk 내부 소스». 흑백으로 적혀 있어요, 얀. P. W., Spreewerk 내부 소스.
+JAN: P. W. Patrick Wendt. Und daneben «interne Quelle Spreewerk». Das ist es. Das ist die ganze Kette, dokumentiert auf ihrer eigenen Liste. Der erfundene Brehme ist von unserem Ordner über Patrick zu HH gewandert. In achtzehn Stunden.
+> P. W. 파트리크 벤트. 그리고 옆에 «Spreewerk 내부 소스». 그거야. 사슬 전체야, 그들 자신의 목록에 기록된. 지어낸 브레메가 우리 폴더에서 파트리크를 거쳐 HH로 갔어. 18시간 만에.
+SWETA: Und, Jan, es gibt noch ein Detail, das mir das Blut gefrieren lässt. Neben «Brehme» hat jemand handschriftlich dazugeschrieben: «Vorsicht, könnte Falle sein. Quelle PW aber zuverlässig.» Sie haben den Verdacht gehabt. Und ihn verworfen, weil sie Patrick vertrauen.
+> 그리고 얀, 피를 얼어붙게 하는 세부가 하나 더 있어요. «브레메» 옆에 누가 손으로 덧적었어요. «주의, 함정일 수 있음. 근데 소스 PW는 믿을 만함.» 그들은 의심을 품었어요. 그리고 파트리크를 믿어서 버렸고요.
+JAN: Sie hatten den Verdacht, dass es eine Falle sein könnte, und haben ihn weggewischt, weil sie «ihrem Mann» vertrauen. Das ist fast poetisch. Ihr Vertrauen in ihren Verräter ist das, was sie am Ende zu Fall bringt.
+> 그들은 함정일 수 있다는 의심을 품고, «자기들 사람»을 믿어서 지워 버렸어. 거의 시적이야. 자기들 배신자에 대한 그들의 신뢰가 결국 그들을 무너뜨리는 거야.
+SWETA: Genau. Und das ist auch ein Beweis für ihre Methode. Sie prüfen nicht, ob Brehme existiert. Sie prüfen nur, ob die Quelle «zuverlässig» ist. Für sie zählt nicht die Wahrheit, sondern die Herkunft. Das ist der Kernunterschied zwischen ihnen und uns, auf einem Zettel.
+> 바로요. 그리고 그게 그들 방법의 증거이기도 해요. 그들은 브레메가 존재하는지 확인 안 해요. 소스가 «믿을 만한지»만 확인하죠. 그들한텐 진실이 아니라 출처가 중요해요. 그게 그들과 우리의 핵심 차이예요, 쪽지 한 장에.
+JAN: Und wir prüfen immer die Sache selbst, nie nur die Quelle. Deshalb konnten sie auf einen erfundenen Mann hereinfallen und wir nie. Weil sie fragen «wer sagt es», und wir fragen «ist es wahr». Das ist der ganze Unterschied, Sweta. Und du hast ihn gerade auf ihrer eigenen Liste gefunden.
+> 그리고 우린 늘 사안 자체를 확인하지 출처만이 아니야. 그래서 그들은 지어낸 사람한테 넘어갈 수 있었고 우린 결코 아니었어. 그들은 «누가 말하나»를 묻고 우린 «참인가»를 물으니까. 그게 전부의 차이야, 스베타. 그리고 넌 방금 그걸 그들 자신의 목록에서 찾았어.
+SWETA: Ich habe es gefunden. Und jetzt lege ich die Liste zurück, genau wie sie lag, und gehe zur Kaffeeküche, als wäre nichts gewesen. Noch einen Tag, Jan. Nur noch einen Tag Swetlana Below, dann ist alles vorbei.
+> 찾았어요. 그리고 이제 목록을 있던 그대로 되돌려 놓고, 아무 일 없던 것처럼 커피 탕비실로 가요. 하루 더예요, 얀. 스베틀라나 벨로가 딱 하루 더, 그다음 다 끝나요.
+HELENE: Sweta, ich muss das noch einmal sagen, auch wenn Dana gleich seufzt: Diese letzten Beweise sind schön, aber nicht nötig. Wir hatten schon genug. Wenn du dich auch nur eine Sekunde unsicher fühlst, komm raus. Sofort.
+> 스베타, 다나가 곧 한숨 쉬어도 한 번 더 말해야겠어요. 이 마지막 증거들은 좋지만 필수는 아니에요. 우린 이미 충분했어요. 1초라도 불안하면 나와요. 즉시.
+DANA: Ich seufze nicht, Frau Brandt. Ich stimme Ihnen zu. Das, was Sweta gerade gesehen hat, ist das Sahnehäubchen, nicht die Torte. Die Torte hatten wir schon: Patricks Zugriff plus Tracking-Pixel. Sweta, Sie müssen für mich kein Risiko mehr eingehen. Ab jetzt zählt nur noch, dass Sie heil rauskommen.
+> 전 한숨 안 쉬어요, 브란트 씨. 동의해요. 스베타가 방금 본 건 케이크 위의 크림이지 케이크가 아니에요. 케이크는 이미 있었어요. 파트리크 접속에 추적 픽셀. 스베타, 날 위해 더는 위험을 감수할 필요 없어요. 이제부턴 당신이 성하게 나오는 것만 중요해요.
+SWETA: Das zu hören, nimmt mir Druck. Danke, euch beiden. Dann mache ich ab jetzt nur noch das Nötigste. Keine neuen Blicke auf Listen, kein Herumschnüffeln. Ich bin eine Angestellte, die ihre letzten zwei Tage absitzt und an den Feierabend denkt. Grau, langweilig, unsichtbar.
+> 그 말을 들으니 압박이 덜어져요. 고마워요, 둘 다. 그럼 이제부턴 꼭 필요한 것만 해요. 목록에 새로 눈길 안 주고, 기웃거리지 않고. 전 마지막 이틀을 때우며 퇴근을 생각하는 직원이에요. 회색, 지루, 안 보임.
+JAN: Genau so, Sweta. Du hast die Torte gebacken. Das Sahnehäubchen war ein Bonus, kein Auftrag. Ab jetzt ist deine einzige Aufgabe, am übermorgigen Morgen nicht zur Arbeit zu erscheinen und bei Elke aufzutauchen. Das ist die wichtigste Aufgabe von allen.
+> 바로 그렇게, 스베타. 넌 케이크를 구웠어. 크림은 보너스였지 임무가 아니었어. 이제부터 네 유일한 임무는 모레 아침 출근 안 하고 엘케네 나타나는 거야. 그게 모든 것 중 가장 중요한 임무야.
+SWETA: Die wichtigste Aufgabe: lebend bei Elke auftauchen. Die übernehme ich gern. Das ist die erste Aufgabe seit Wochen, die ich mit einem Lächeln annehme. Bis übermorgen, bei Elke, mit dem dunklen Bier.
+> 가장 중요한 임무: 산 채로 엘케네 나타나기. 기꺼이 맡아요. 몇 주 만에 처음으로 미소로 받는 임무예요. 모레 봐요, 엘케네서, 흑맥주와 함께.
+
+# 장면 6 — DIE KETTE IST GESCHLOSSEN
+DANA: Sweta, Frau Morosowa, hören Sie mir zu. Was Sie gerade sehen, ist für mich Gold. Aber ich darf es nur verwenden, wenn es sauber dokumentiert ist. Sie dürfen nichts fotografieren, nichts mitnehmen. Nur sehen und mir später aussagen. Verstehen Sie?
+> 스베타, 모로소바 씨, 제 말 들어요. 방금 당신이 보는 건 저한텐 금이에요. 근데 깨끗하게 기록돼야만 쓸 수 있어요. 아무것도 찍지 말고, 가져오지 마요. 보고 나중에 저한테 증언만. 알겠어요?
+SWETA: Ich verstehe. Ich fasse nichts an. Ich habe es gesehen, ich habe es im Kopf, und ich sage es später aus, wenn Sie mich fragen. Die Liste bleibt, wo sie ist. Ich bin nur eine Kollegin, die Gegenfeuer-Material sucht.
+> 알겠어요. 아무것도 안 만져요. 봤고, 머릿속에 있고, 나중에 물으면 증언해요. 목록은 있던 자리에. 전 그냥 맞불 자료 찾는 동료예요.
+DANA: Perfekt. Und jetzt kommt mein Teil. Mit dem, was ich jetzt habe — Patricks Zugriff aus der Ferne, der Tracking-Pixel, Swetas Zeugnis über die HH-Liste — habe ich genug für zwei Durchsuchungsbeschlüsse. Einen für Patrick. Einen für HH. Gleichzeitig.
+> 완벽해요. 그리고 이제 제 몫이에요. 지금 가진 걸로 — 파트리크의 원격 접속, 추적 픽셀, HH 목록에 대한 스베타 증언 — 수색영장 둘에 충분해요. 하나는 파트리크. 하나는 HH. 동시에.
+JAN: Gleichzeitig. Das ist der Schlüssel. Wenn Sie beide zur selben Minute durchsuchen, kann keiner den anderen warnen. Patrick kann HH nicht warnen, HH kann nicht alles löschen, bevor Sie da sind.
+> 동시에. 그게 열쇠네요. 둘을 같은 분에 수색하면 누구도 상대를 경고 못 해요. 파트리크가 HH를 경고 못 하고, HH가 당신이 오기 전에 다 못 지워요.
+DANA: Genau. Übermorgen früh, sechs Uhr, beide Orte gleichzeitig. Aber eins ist dafür entscheidend: Sweta muss bis dahin drinbleiben und sich völlig normal verhalten. Wenn sie jetzt plötzlich verschwindet, wird HH misstrauisch und räumt auf.
+> 바로요. 모레 아침 6시, 두 곳 동시에. 근데 하나가 결정적이에요. 스베타가 그때까지 안에 머물며 완전히 평소처럼 행동해야 해요. 지금 갑자기 사라지면 HH가 의심하고 치워요.
+KATRIN: Ich will für die Durchsuchung noch eines sicherstellen. Sweta, du bist Journalistin, verdeckt tätig. Bei der Durchsuchung darfst du dort nicht angetroffen werden, als wärst du eine Verdächtige. Du musst vorher sauber ausgeschieden sein, sonst wird es rechtlich kompliziert für dich.
+> 수색을 위해 하나 더 확실히 해 둬야겠어요. 스베타, 당신은 위장 활동 중인 기자예요. 수색 때 거기서 용의자처럼 발견되면 안 돼요. 미리 깨끗하게 빠져나와야 해요, 안 그럼 당신한테 법적으로 복잡해져요.
+SWETA: Deshalb melde ich mich am Morgen der Durchsuchung krank. Dann bin ich nicht im Gebäude, wenn die Polizei kommt. Ich bin einfach eine Angestellte, die an diesem Tag Fieber hat. Sauber raus, bevor es losgeht.
+> 그래서 수색 날 아침 병가를 내요. 그럼 경찰이 올 때 전 건물에 없어요. 그냥 그날 열이 난 직원이에요. 시작 전에 깨끗하게 나와요.
+DANA: Genau richtig. Und ich sorge dafür, dass in keinem Polizeiprotokoll der Name Swetlana Below auftaucht. Ihre Aussage läuft über mich, vertraulich, als Zeugin, nicht als Verdächtige. Ihr Tarnname verschwindet, sobald HH geschlossen ist. Niemand erfährt je, dass es Swetlana Below gab.
+> 정확해요. 그리고 전 어떤 경찰 조서에도 스베틀라나 벨로라는 이름이 안 뜨게 해요. 당신 증언은 저를 통해, 비밀로, 용의자가 아니라 증인으로. HH가 문 닫는 순간 당신 위장명은 사라져요. 스베틀라나 벨로가 있었다는 걸 아무도 영영 몰라요.
+SWETA: Swetlana Below verschwindet, sobald HH schließt. Das gefällt mir. Sie war nur eine Maske, die ich für eine Weile tragen musste. Und wenn alles vorbei ist, lege ich sie ab und niemand hat sie je wirklich gekannt. Dann bin ich wieder ganz Sweta. Ohne Rest.
+> HH가 닫는 순간 스베틀라나 벨로가 사라진다. 마음에 들어요. 걘 제가 한동안 써야 했던 가면일 뿐이에요. 다 끝나면 벗고, 아무도 걜 진짜로 안 적 없어요. 그럼 전 다시 온전히 스베타예요. 찌꺼기 없이.
+JAN: Ohne Rest. Das ist wichtig, Sweta. Manche Menschen bleiben nach so einem Einsatz für immer ein Stück die Rolle, die sie gespielt haben. Du nicht. Du legst die Maske ab, und darunter ist die ganze Sweta, unversehrt. Das ist deine größte Stärke.
+> 찌꺼기 없이. 그게 중요해, 스베타. 어떤 사람은 그런 잠입 뒤에 영영 자기가 연기한 역할의 일부로 남아. 넌 아니야. 넌 가면을 벗고, 그 아래엔 온전한 스베타 전부가 멀쩡해. 그게 네 가장 큰 강점이야. Er arbeitet weiter bei uns, hört weiter über die Mikrofone mit. Müssen wir nicht aufpassen, dass er nicht merkt, dass die Durchsuchung kommt?
+> 그럼 이 이틀 동안 파트리크는? 계속 우리랑 일하고, 계속 마이크로 엿들어. 수색이 온다는 걸 그가 눈치 못 채게 조심해야 하지 않아?
+DANA: Unbedingt. Deshalb reden Sie nie, nie, über die Durchsuchung an einem Ort, wo ein Mikrofon sein könnte. Kein Schreibtisch, kein Büro, kein Telefon. Nur hier, in diesem abgeschirmten Raum, oder bei dieser Elke, von der Sie immer sprechen.
+> 반드시요. 그래서 수색에 대해 마이크가 있을 수 있는 데선 절대, 절대 얘기 마요. 책상도, 사무실도, 전화도 안 돼요. 여기, 이 차폐된 방에서나, 당신들이 늘 말하는 그 엘케네서만.
+JAN: Und das Gegenteil nutzen wir sogar aus. Patrick hört über die Mikrofone, dass wir ganz normal weiterarbeiten. Dass wir über Brehme reden, über Alltägliches. Nichts über eine Durchsuchung. Das wiegt ihn in Sicherheit. Sein eigenes Ohr erzählt ihm, dass alles ruhig ist.
+> 그리고 그 반대를 오히려 이용해. 파트리크는 마이크로 우리가 아주 평소대로 계속 일하는 걸 들어. 브레메 얘기, 일상 얘기. 수색에 대해선 아무것도. 그게 그를 안심시켜. 그의 귀가 그에게 모든 게 조용하다고 말해 줘.
+DANA: Richtig. Sein Abhören, mit dem er uns schaden wollte, wird in diesen zwei Tagen zu unserem Werkzeug. Er hört genau das, was wir ihn hören lassen: Normalität. Und je ruhiger es für ihn klingt, desto weniger rechnet er mit dem, was übermorgen um sechs passiert.
+> 맞아요. 우릴 해치려던 그의 도청이 이 이틀간 우리 도구가 돼요. 그는 우리가 듣게 하는 것만 들어요. 평소대로. 그리고 그한테 조용하게 들릴수록 모레 6시에 일어날 일을 덜 예상하죠.
+JAN: Sein eigenes Ohr gegen ihn. Das ist die eleganteste Wendung des ganzen Falls. Der Mann, der uns belauscht hat, um uns zu überraschen, wird durch genau dieses Belauschen überrascht. Er hört Ruhe und schläft gut, während der Sturm sich zusammenzieht.
+> 그의 귀를 그에게. 사건 전체에서 가장 우아한 반전이야. 우릴 놀래키려고 도청한 남자가 바로 그 도청으로 놀라게 돼. 그는 고요를 듣고 잘 자, 폭풍이 모여드는 동안.
+SWETA: Dann bleibe ich. Noch anderthalb Tage. Als Swetlana Below, die brav Gegenfeuer-Material sortiert. Und am Morgen der Durchsuchung bin ich einfach nicht zur Arbeit erschienen. Krank gemeldet. So verschwinde ich sauber, ohne Verdacht.
+> 그럼 남을게요. 하루 반 더. 맞불 자료를 얌전히 분류하는 스베틀라나 벨로로. 그리고 수색 날 아침엔 그냥 출근 안 해요. 병가 내고. 그렇게 의심 없이 깨끗하게 사라져요.
+HELENE: Das gefällt mir nicht, Sweta. Anderthalb Tage sind lang. Du hast, was wir brauchen. Warum nicht morgen schon krank melden und rauskommen?
+> 마음에 안 들어요, 스베타. 하루 반은 길어요. 당신은 우리가 필요한 걸 가졌어요. 왜 벌써 내일 병가 내고 안 나와요?
+DANA: Weil ein plötzliches Verschwinden genau jetzt verdächtig wäre. Sweta hat heute die Themenliste gesehen. Wenn sie morgen nicht kommt, könnte jemand zwei und zwei zusammenzählen. Normalität bis zuletzt ist ihr bester Schutz. So paradox es klingt: Drinbleiben ist sicherer als fliehen.
+> 지금 갑자기 사라지는 게 바로 수상하니까요. 스베타가 오늘 주제 목록을 봤어요. 내일 안 오면 누가 둘에 둘을 더할 수 있어요. 끝까지 평소대로가 최선의 보호예요. 역설적이지만, 안에 머무는 게 달아나는 것보다 안전해요.
+HELENE: Drinbleiben ist sicherer als fliehen. Das widerspricht allem, was mein Bauch sagt. Aber ich verstehe die Logik. Eine Frau, die zwei Tage normal weiterarbeitet und dann krank wird, ist unauffällig. Eine, die am Tag nach dem Listen-Blick verschwindet, ist ein Alarmsignal.
+> 안에 머무는 게 달아나는 것보다 안전하다. 제 직감이 말하는 전부와 어긋나요. 근데 논리는 이해해요. 이틀 평소처럼 더 일하다 아프면 눈에 안 띄어요. 목록을 본 다음 날 사라지면 경보 신호죠.
+SWETA: Genau. Und ich kann das. Ich habe drei Wochen durchgehalten, ich halte auch die letzten anderthalb Tage durch. Die Kunst ist, in diesen Tagen nicht zu triumphieren. Nicht einmal innerlich. Ich muss so gelangweilt bleiben wie am ersten Tag. Triumph riecht man.
+> 바로요. 그리고 전 할 수 있어요. 3주를 버텼으니 마지막 하루 반도 버텨요. 기술은 이 며칠간 승리감에 젖지 않는 거예요. 속으로도. 첫날처럼 지루하게 있어야 해요. 승리감은 냄새가 나요.
+JAN: Triumph riecht man. Das ist die gefährlichste Phase, Sweta. Nicht am Anfang, wenn man ängstlich ist. Am Ende, wenn man gewonnen hat und sich sicher fühlt. Da machen die meisten den einen Fehler zu viel. Bleib so vorsichtig wie am ersten Tag. Vorsichtiger.
+> 승리감은 냄새가 난다. 그게 가장 위험한 단계야, 스베타. 두려운 처음이 아니라. 이기고 안심하는 끝이야. 거기서 대부분이 하나 지나친 실수를 해. 첫날처럼 조심해. 더 조심히.
+SWETA: Ich weiß, Jan. Der letzte Schritt ist der gefährlichste, weil man ihn für sicher hält. Ich werde nicht triumphieren. Ich werde gähnen, Kaffee holen und auf die Uhr schauen wie jemand, der nur auf den Feierabend wartet. Bis ganz zum Schluss. Das verspreche ich.
+> 알아요, 얀. 마지막 걸음이 가장 위험해요, 안전하다고 여기니까. 승리감에 안 젖어요. 하품하고, 커피 가지러 가고, 퇴근만 기다리는 사람처럼 시계를 봐요. 끝까지. 약속해요.
+
+# 엔딩 — DIE LETZTE NACHT DRINNEN
+SWETA: Es ist die vorletzte Nacht, Jan. Morgen noch ein Tag, dann die Durchsuchung, dann bin ich raus. Ich sitze gerade zu Hause und schreibe mein letztes Gedächtnisprotokoll. Es fühlt sich an wie das Ende eines langen Atemanhaltens.
+> 끝에서 두 번째 밤이에요, 얀. 내일 하루 더, 그다음 수색, 그다음 전 밖이에요. 지금 집에 앉아 마지막 기억 기록을 써요. 긴 숨 참기의 끝 같은 느낌이에요.
+JAN: Du hast es fast geschafft, Sweta. Anderthalb Tage noch. Und dann nie wieder. Wie fühlst du dich, so kurz vor dem Ende?
+> 거의 해냈어, 스베타. 하루 반 더. 그다음 영영 안 해. 끝을 코앞에 두고 기분이 어때?
+SWETA: Seltsam ruhig. Und zugleich habe ich eine Sorge, die ich dir sagen muss. Heute hat Nadja mich länger angesehen als sonst. Nur eine Sekunde zu lang. Vielleicht Einbildung. Aber in meinem alten Leben habe ich gelernt, solche Sekunden ernst zu nehmen.
+> 이상하게 차분해요. 그리고 동시에 말해야 할 걱정이 있어요. 오늘 나자가 평소보다 절 오래 봤어요. 딱 1초 너무 길게. 어쩌면 착각. 근데 제 옛 삶에서 그런 1초를 진지하게 받는 법을 배웠어요.
+JAN: Eine Sekunde zu lang. Sweta, wenn du auch nur den kleinsten Zweifel hast, kommst du sofort raus. Die Durchsuchung findet auch ohne deine letzten anderthalb Tage statt. Wir haben genug. Dein Leben ist mehr wert als ein weiterer Beweis.
+> 1초 너무 길게. 스베타, 아주 작은 의심이라도 있으면 즉시 나와. 수색은 네 마지막 하루 반 없이도 이뤄져. 우린 충분히 가졌어. 네 목숨이 증거 하나보다 값져.
+SWETA: Ich weiß. Und ich verspreche: Beim nächsten seltsamen Blick sage ich «Meine Mutter ruft an» und gehe. Aber noch war es nur eine Sekunde. Vielleicht war Nadja einfach müde. Ich beobachte sie morgen genau. Wenn es mehr wird, bin ich weg.
+> 알아요. 그리고 약속해요. 다음 이상한 눈빛이면 «엄마가 전화해요»라고 하고 나가요. 근데 아직은 1초였을 뿐이에요. 어쩌면 나자가 그냥 피곤했거나. 내일 그 사람을 자세히 봐요. 더 심해지면 전 떠나요.
+MIRA: Sweta, ich kann von außen etwas prüfen, das dir Gewissheit gibt. Wenn Nadja oder HH anfangen würden, dich zu überprüfen — deinen Namen, dein Profil — dann würde mein System es sehen. Jede Suchanfrage zu «Swetlana Below» löst bei mir einen Alarm aus. Bisher: null. Niemand sucht nach dir.
+> 스베타, 밖에서 당신한테 확신을 줄 걸 확인할 수 있어요. 나자나 HH가 당신을 조사하기 시작하면 — 이름, 프로필 — 제 시스템이 봐요. «스베틀라나 벨로»에 대한 모든 검색이 저한테 경보를 울려요. 지금까지: 0. 아무도 당신을 안 찾아요.
+SWETA: Niemand sucht nach mir. Das ist beruhigend. Dann war Nadjas Blick wahrscheinlich wirklich nur Müdigkeit. Aber ich bleibe vorsichtig. Lieber einmal zu viel misstrauisch als einmal zu wenig.
+> 아무도 날 안 찾는다. 안심되네요. 그럼 나자 눈빛은 아마 정말 피곤함이었어요. 근데 조심히 있을게요. 한 번 덜 의심하느니 한 번 더 의심하는 게 나아요.
+MIRA: Genau diese Haltung hält dich am Leben. Und ich lasse den Alarm die ganze Nacht laufen. Sollte in den nächsten Stunden irgendwer deinen Tarnnamen googeln, in irgendeinem Netzwerk, weiß ich es in Sekunden und rufe dich sofort an. Du bist nicht allein da drin, Sweta. Ich bin dein zweites Augenpaar, von außen.
+> 바로 그 태도가 널 살려요. 그리고 밤새 경보를 돌릴게요. 앞으로 몇 시간 안에 누가 어떤 네트워크에서든 당신 위장명을 검색하면 몇 초 안에 알고 바로 전화해요. 거기서 당신은 혼자가 아니에요, 스베타. 전 밖에서 당신의 두 번째 눈이에요.
+SWETA: Ein zweites Augenpaar von außen. Das ist mehr, als ich in Moskau je hatte. Dort war ich wirklich allein. Hier wacht jemand, während ich schlafe. Weißt du, Mira, genau das ist der Unterschied, für den sich der ganze Aufwand lohnt. Nicht allein zu sein.
+> 밖에서 두 번째 눈. 모스크바에서 제가 가졌던 것보다 많아요. 거긴 전 정말 혼자였어요. 여긴 제가 자는 동안 누가 지켜봐요. 있잖아요, 미라, 바로 그게 이 모든 수고가 값진 이유예요. 혼자가 아닌 것.
+JAN: Nicht allein zu sein. Das ist das Gegenteil von allem, was HH baut. Die bauen Einsamkeit — jeder gegen jeden, jeder misstrauisch gegen jeden. Wir bauen das Gegenteil. Und deshalb gewinnen wir am Ende. Nicht weil wir schlauer sind. Weil wir zusammen sind.
+> 혼자가 아닌 것. 그게 HH가 짓는 모든 것의 정반대야. 그들은 외로움을 지어 — 모두가 모두에 맞서, 모두가 모두를 의심하게. 우린 정반대를 지어. 그래서 끝에 우리가 이겨. 우리가 더 똑똑해서가 아니라. 우리가 함께라서.
+JAN: Gut. Und, Sweta — was auch morgen passiert: Du hast schon jetzt mehr geleistet als jeder von uns. Du bist in das Feuer zurückgegangen, vor dem du geflohen bist, und hast es gezähmt. Egal, wie es endet, das nimmt dir niemand.
+> 좋아. 그리고 스베타 — 내일 뭐가 일어나든. 넌 이미 우리 누구보다 많이 해냈어. 네가 도망친 불로 돌아가 그걸 길들였어. 어떻게 끝나든 아무도 그걸 네게서 못 뺏어.
+SWETA: Danke, Jan. Weißt du, was ich morgen Abend mache, wenn alles gut geht? Ich gehe zu Elke, bestelle das dunkle Bier, und zum ersten Mal seit Wochen muss ich mir für keine einzige Sekunde merken, wer ich gerade sein soll. Ich bin einfach Sweta. Für immer. Jetzt wird's spannend, wa?
+> 고마워요, 얀. 다 잘되면 내일 저녁에 뭘 할지 알아요? 엘케네 가서, 흑맥주를 시키고, 몇 주 만에 처음으로 단 1초도 내가 누구여야 하는지 외울 필요가 없어요. 전 그냥 스베타예요. 영원히. 이제부터가 흥미진진하죠, 안 그래요?
+JAN: «Jetzt wird's spannend, wa?» — du klingst schon fast wie Tobi. Dieses «wa» hast du dir bei uns angewöhnt. Vielleicht bist du mehr Berlinerin geworden, als du denkst, in all den Jahren.
+> «이제부터가 흥미진진하죠, 안 그래요?» — 너 벌써 거의 토비처럼 들려. 그 «wa»는 우리한테서 물든 거야. 어쩌면 넌 그 세월 동안 생각보다 더 베를린 사람이 됐어.
+SWETA: Vielleicht. Weißt du, Jan, als ich nach Berlin kam, dachte ich, ich sei für immer heimatlos. Eine, die nirgends ganz dazugehört. Aber dieses «wa», das ich mir ungewollt angewöhnt habe — vielleicht ist das ein kleines Stück neue Heimat. Zusammengesetzt aus euch allen.
+> 어쩌면요. 있잖아요, 얀, 베를린에 왔을 때 전 영원히 고향 없는 사람일 거라 생각했어요. 어디에도 온전히 못 속하는. 근데 제가 저도 모르게 물든 이 «wa» — 어쩌면 그게 작은 새 고향 한 조각이에요. 당신들 모두로 짜 맞춰진.
+JAN: Das ist das Schönste, was ich seit Langem gehört habe, Sweta. Du bist nicht heimatlos. Du hast eine Heimat gefunden, die man nicht auf einer Landkarte findet. Eine aus Menschen. Aus Elke, Tobi, Mira, Helene, Leon. Und aus einem «wa».
+> 오랜만에 들은 가장 아름다운 말이야, 스베타. 넌 고향이 없지 않아. 지도에선 못 찾는 고향을 찾았어. 사람으로 된 고향. 엘케, 토비, 미라, 헬레네, 레온으로. 그리고 «wa» 하나로.
+SWETA: Und genau diese Heimat verteidige ich morgen zum letzten Mal von innen. Nicht Russland, nicht Deutschland. Diese kleine Redaktion und die Menschen darin. Dafür gehe ich noch einen Tag ins Feuer. Und dann komme ich nach Hause. Zu Elke. Zu euch.
+> 그리고 바로 그 고향을 내일 마지막으로 안에서 지켜요. 러시아도, 독일도 아니라. 이 작은 편집국과 그 안의 사람들. 그걸 위해 하루 더 불에 들어가요. 그다음 집에 와요. 엘케네로. 당신들한테로.
+JAN: Dann komm nach Hause, Sweta. Morgen Abend. Wir warten auf dich. Mit dem dunklen Bier und ohne eine einzige Maske. Alle. Und Tobi gibt die größte Runde aus, die Elke je gesehen hat. Das hat er geschworen.
+> 그럼 집에 와, 스베타. 내일 저녁. 우린 널 기다려. 흑맥주와 함께 단 하나의 가면도 없이. 다. 그리고 토비가 엘케가 본 것 중 제일 큰 한턱을 쏴. 그렇게 맹세했어.
+SWETA: Eine Sache noch, Jan, bevor wir auflegen. Ich habe während dieser Wochen viel über Patrick nachgedacht. Nicht mit Hass. Mit etwas, das fast Mitleid ist. Er glaubt, er ist einer von ihnen. Dabei ist er nur ein Werkzeug, wie Nadja selbst gesagt hat. Er wird fallen, und seine Auftraggeber werden ihn fallen lassen.
+> 끊기 전에 하나 더요, 얀. 이 몇 주간 파트리크에 대해 많이 생각했어요. 증오로가 아니라. 거의 연민에 가까운 것으로. 그는 자기가 그들 일원이라 믿어요. 근데 나자 말대로 도구일 뿐이죠. 그는 떨어질 거고, 발주자들이 그를 버릴 거예요.
+JAN: Mitleid mit dem Mann, der uns verraten hat. Das ist sehr groß von dir, Sweta. Aber verlier dich nicht darin. Er hat eine Wahl gehabt. Leon hat auch gelitten, ohne eine Wahl zu haben. Der Unterschied zählt.
+> 우릴 배신한 남자에 대한 연민. 아주 큰 마음이야, 스베타. 근데 거기에 빠지지 마. 그는 선택이 있었어. 레온도 선택 없이 고생했어. 그 차이가 중요해.
+SWETA: Du hast recht. Mein Mitleid gilt nicht seiner Tat, sondern seiner Blindheit. Dass ein Mensch sein Gewissen verkauft und dabei glaubt, er sei auf der Siegerseite — das ist eine traurige Art zu leben. Aber du hast recht: Leon hatte keine Wahl, Patrick schon. Mitleid ja, Entschuldigung nein.
+> 맞아요. 제 연민은 그의 행위가 아니라 그의 눈멂에 가요. 사람이 양심을 팔면서 자기가 승자 편이라 믿는 것 — 그건 슬픈 삶의 방식이에요. 근데 맞아요. 레온은 선택이 없었고 파트리크는 있었어요. 연민은 예, 면죄는 아니오.
+JAN: Mitleid ja, Entschuldigung nein. Das ist genau die richtige Haltung, Sweta. Deshalb wirst du morgen eine faire Geschichte über ihn schreiben können. Eine, die ihn weder zum Monster macht noch entschuldigt. Die ihn genau so groß zeichnet, wie er ist. Das ist die schwerste Kunst, und du beherrschst sie.
+> 연민은 예, 면죄는 아니오. 바로 맞는 태도야, 스베타. 그래서 넌 내일 그에 대한 공정한 기사를 쓸 수 있어. 그를 괴물로 만들지도 면죄하지도 않는. 딱 있는 그대로 그리는. 그게 가장 어려운 기술이고, 넌 그걸 해내.
+SWETA: Dann schreibe ich sie. Morgen, als freie Sweta, über einen Mann, der sich selbst verkauft hat. Fair, genau, ohne Hass. Und übermorgen, wenn die Durchsuchung läuft, sitze ich bei Elke und sehe zum ersten Mal seit Wochen zu, wie die Wahrheit ans Licht kommt, ohne dass ich eine Maske tragen muss.
+> 그럼 쓸게요. 내일, 자유로운 스베타로, 자기를 판 남자에 대해. 공정하게, 정밀하게, 증오 없이. 그리고 모레, 수색이 진행될 때, 엘케네 앉아 몇 주 만에 처음으로 진실이 빛으로 나오는 걸 봐요, 가면 안 쓰고.
