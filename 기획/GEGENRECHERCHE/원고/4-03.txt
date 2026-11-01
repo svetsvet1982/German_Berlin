@@ -1,0 +1,332 @@
+@part 4
+@ep 3
+@title Gefälschte Zeitungen
+@sub 가짜 신문들 · 스베타가 Spreewerk를 그대로 베낀 가짜 사이트를 찾아내다
+@info 대사 150턴 · 난이도 B2 · 배경: 2028년 봄, Spreewerk 편집국
+@cast SWETA | 스베타 모로소바 (42) · 기자, 디스인포 전문
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast LEON | 레온 피셔 (24) · 수습기자 (슈바벤 사투리)
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast MARTA | 마르타 (38) · 팩트체크 네트워크 '코렉티프'류 협력 기자 (오스트리아 억양)
+@note ※ 실제 2024~26 '도플갱어' 작전(Spiegel·Bild 등 복제 사이트, EU 제재)과 '위장 언론' 수법을 반영. 가짜 사이트는 진짜를 베끼되 한두 기사만 조작해 신뢰를 빌려 쓴다. 등장 인물·사이트·도메인은 가상.
+@note ※ 표현 초점: die Klon-Website · die Domain · das Impressum · die Desinformationskampagne · der Faktencheck · täuschend echt
+@next 4부 4화 «Volksentscheid Tempelhof»(템펠호프 주민투표) — 1부의 템펠호프 들판이 돌아온다. 찬반 양쪽에 같은 계정 묶음이 서로를 공격하는 콘텐츠를 뿌린다.
+
+# 콜드 오픈 — DIE ZWEITE SEITE
+SWETA: Jan, komm her. Die angekündigten «Dokumente» sind da. Aber nicht als Mail. Als ganze Website. Schau.
+> 얀, 와 봐요. 예고된 «문서들»이 왔어요. 근데 메일이 아니라. 통째로 웹사이트로요. 봐요.
+JAN: Das ist… das ist unsere Seite. Unser Logo, unsere Schrift, unsere Farben. Das ist Spreewerk.
+> 그건… 그건 우리 사이트야. 우리 로고, 우리 서체, 우리 색. 저건 Spreewerk야.
+SWETA: Nein. Sieh die Adresse. «spreewerk-recherche.info». Wir sind «spreewerk.org». Ein Buchstabe anders. Eine andere Endung. Alles andere kopiert.
+> 아니요. 주소를 봐요. «spreewerk-recherche.info». 우린 «spreewerk.org»예요. 글자 하나 다르고. 끝이 다르고. 나머지는 전부 복사했어요.
+JAN: Das ist unheimlich. Es sieht aus wie wir. Es liest sich wie wir. Sogar die alten Artikel sind da. Meine echten Artikel.
+> 섬뜩하다. 우리처럼 보여. 우리처럼 읽히고. 심지어 옛 기사도 있어. 내 진짜 기사들.
+SWETA: Genau das ist der Trick. Sie klauen unsere echten Artikel, damit die Seite glaubwürdig wirkt. Und zwischen den echten platzieren sie einen gefälschten.
+> 바로 그게 수법이에요. 우리 진짜 기사를 훔쳐서 사이트를 믿음직하게 만들어요. 그리고 진짜들 사이에 가짜 하나를 끼워 넣죠.
+JAN: Welcher ist der gefälschte?
+> 어느 게 가짜야?
+SWETA: Der oben. «Enthüllung: Wie Spreewerk aus dem Ausland finanziert wird.» Angeblich von mir geschrieben. Mit meinem Namen. Meinem Foto.
+> 맨 위요. «폭로: Spreewerk가 어떻게 외국에서 자금을 받는가.» 제가 썼다는 거예요. 제 이름으로. 제 사진으로.
+JAN: Sie benutzen deinen Namen, um uns zu beschuldigen. Das ist perfide. Der Angreifer schlüpft in unsere Haut und sagt mit unserer Stimme das Gegenteil.
+> 네 이름으로 우릴 고발해. 교활하다. 공격자가 우리 피부 속으로 들어와 우리 목소리로 정반대를 말해.
+SWETA: Das kenne ich. Das ist keine neue Erfindung. Das hat einen Namen. In der Branche heißt es «Doppelgänger». Und ich habe gesehen, wie es gebaut wird.
+> 전 이걸 알아요. 새로운 발명이 아니에요. 이름이 있어요. 업계에선 «도플갱어»라고 해요. 그리고 이게 어떻게 만들어지는지 봤어요.
+HELENE: Moment, bevor wir weitermachen. Ist das Video von gestern damit vom Tisch? Oder gehören beide zusammen?
+> 잠깐, 더 나가기 전에. 그럼 어제 영상은 끝난 거예요? 아니면 둘이 한 묶음이에요?
+SWETA: Beide gehören zusammen, Helene. Das Video war der Lärm. Es sollte alle aufschrecken. Diese Seite ist die Substanz. Sie soll bleiben, nachdem der Lärm verklungen ist.
+> 둘이 한 묶음이에요, 헬레네. 영상은 소음이었어요. 다들 놀라게 하려는. 이 사이트는 알맹이예요. 소음이 가신 뒤에도 남으려는 거죠.
+JAN: Also war das Video ein Ablenkungsmanöver? Damit wir nach oben schauen, während die eigentliche Falle unten gebaut wird?
+> 그럼 영상은 교란 작전이었어? 우리가 위를 보는 동안 진짜 함정은 아래서 짓도록?
+SWETA: Nicht nur Ablenkung. Das Video brachte uns in die Schlagzeilen. Jetzt sucht jeder «Spreewerk». Und wer sucht, findet nun auch den Doppelgänger. Das Video ist die Werbung für die Fälschung.
+> 교란만이 아니에요. 영상은 우릴 헤드라인에 올렸어요. 이제 다들 «Spreewerk»를 검색해요. 그리고 검색하는 사람은 이제 도플갱어도 찾죠. 영상은 가짜를 위한 광고예요.
+JAN: Das ist teuflisch elegant. Sie zwingen uns, berühmt zu werden, und verkaufen dann unter unserem berühmten Namen ihr Gift.
+> 악마같이 우아하네. 우릴 유명해지게 강제하고, 그다음 우리 유명한 이름으로 자기들 독을 팔아.
+SWETA: Genau. Deshalb dürfen wir nicht nur reagieren. Wir müssen das ganze Konstrukt sichtbar machen. Sonst bleibt der Doppelgänger, auch wenn das Video vergessen ist.
+> 바로요. 그래서 우린 반응만 하면 안 돼요. 구조 전체를 보이게 만들어야죠. 안 그럼 영상이 잊혀도 도플갱어는 남아요.
+
+# 장면 1 — WAS EIN DOPPELGÄNGER IST
+LEON: Doppelgänger? Wie in den alten Geschichten, wo ein Mensch seinem Zwilling begegnet?
+> 도플갱어? 사람이 자기 쌍둥이를 만나는 옛날이야기처럼요?
+SWETA: Fast. Nur ist dieser Zwilling böse. Man baut eine exakte Kopie einer echten Zeitung. Dann schmuggelt man Lügen hinein, die echt aussehen, weil der Rahmen echt ist.
+> 거의요. 근데 이 쌍둥이는 악해요. 진짜 신문의 정확한 복제를 만들어요. 그다음 거짓말을 밀반입해요, 진짜처럼 보이게, 틀이 진짜니까.
+LEON: Aber warum klont man ausgerechnet uns? Wir sind klein. Es gibt größere Zeitungen.
+> 근데 왜 하필 우릴 복제해요? 우린 작잖아요. 더 큰 신문도 있는데.
+SWETA: Weil wir glaubwürdig sind, Leon. Gerade weil wir klein und unabhängig sind. Niemand glaubt einem Konzern. Aber einem kleinen, ehrlichen Blatt glaubt man.
+> 우리가 믿음직하니까, 레온. 바로 작고 독립적이니까. 아무도 대기업은 안 믿어요. 근데 작고 정직한 신문은 믿죠.
+JAN: Sie stehlen genau das, was wir uns über Jahre erarbeitet haben. Unser Vertrauen. Sie machen unseren größten Schatz zu ihrer Waffe.
+> 우리가 몇 년에 걸쳐 쌓은 바로 그걸 훔쳐. 우리 신뢰를. 우리 최대 보물을 자기 무기로 만들어.
+SWETA: So funktioniert Desinformation heute. Nicht mehr «Hier ist eine Lüge». Sondern «Hier ist eine Quelle, der du vertraust» — und die Quelle ist gefälscht.
+> 오늘날 허위정보는 그렇게 작동해요. 더는 «여기 거짓말이 있다»가 아니라. «여기 네가 믿는 출처가 있다» — 그 출처가 가짜인 거죠.
+MIRA: Und das ist viel schwerer zu bekämpfen. Gegen eine plumpe Lüge hilft ein Faktencheck. Gegen eine gefälschte Identität hilft was?
+> 그리고 그게 훨씬 맞서기 어려워요. 조잡한 거짓말엔 팩트체크가 통해요. 가짜 신원엔 뭐가 통하죠?
+SWETA: Gegen eine gefälschte Identität hilft nur eins: die echte Identität so stark machen, dass die Fälschung dagegen billig aussieht. Und die Fälschung technisch zerlegen.
+> 가짜 신원엔 하나만 통해요. 진짜 신원을 아주 강하게 만들어 가짜가 그 옆에서 싸구려로 보이게. 그리고 가짜를 기술적으로 해부하는 것.
+LEON: Aber wie merkt ein normaler Leser den Unterschied? Wenn beide Seiten gleich aussehen?
+> 근데 평범한 독자가 어떻게 차이를 알아요? 두 사이트가 똑같아 보이면요?
+SWETA: Fast gar nicht, auf den ersten Blick. Deshalb muss man den Leuten drei Fragen beibringen. Wer sagt das? Woher weiß ich, dass die Seite echt ist? Und: Wer profitiert?
+> 첫눈엔 거의 못 해, 레온. 그래서 사람들한테 질문 셋을 가르쳐야 해. 누가 말하나? 이 사이트가 진짜인 걸 어떻게 아나? 그리고, 누가 이득 보나?
+LEON: Und wenn ich nicht weiß, ob eine Seite echt ist — wie finde ich es heraus?
+> 그리고 사이트가 진짜인지 모르면 — 어떻게 알아내요?
+SWETA: Du gehst nie über einen Link, den dir jemand schickt. Du tippst die Adresse selbst. Du prüfst das Impressum. Und du schaust, wie alt die Domain ist.
+> 누가 보낸 링크로 절대 안 들어가. 주소를 직접 타이핑해. 임프레숨을 확인하고. 도메인이 얼마나 오래됐는지 봐.
+JAN: Das klingt nach viel Arbeit für einen einzelnen Artikel.
+> 기사 하나에 일이 많이 드는 것처럼 들리네.
+SWETA: Ist es auch. Und genau darauf baut die Fabrik. Sie wissen, dass niemand drei Minuten investiert, bevor er wütend wird. Empörung ist schneller als Prüfung.
+> 맞아요. 그리고 공장은 바로 그걸 노려요. 아무도 화내기 전에 3분을 안 쓴다는 걸 알죠. 분노는 검증보다 빨라요.
+MIRA: Deshalb ist unsere eigentliche Aufgabe nicht, diese eine Seite zu widerlegen. Sondern die drei Minuten zur Gewohnheit zu machen. Bei möglichst vielen Menschen.
+> 그래서 우리 진짜 과제는 이 한 사이트를 반박하는 게 아니에요. 그 3분을 습관으로 만드는 거죠. 가능한 많은 사람한테.
+
+# 장면 2 — DIE SPUR IM IMPRESSUM
+MIRA: Fangen wir technisch an. Jede Website braucht ein Impressum. Mal sehen, was die Fälscher da reingeschrieben haben.
+> 기술적으로 시작해요. 모든 웹사이트엔 임프레숨(발행 정보)이 필요해요. 위조자들이 거기 뭘 적었는지 봐요.
+JAN: Haben Fälscher ein Impressum? Das wäre dumm.
+> 위조자가 임프레숨을 넣어? 멍청한 짓일 텐데.
+MIRA: Sie müssen so tun, als ob. Sonst sieht die Seite sofort verdächtig aus. Hier: «Spreewerk Recherche, c/o Media Services Ltd., London.» Eine Briefkastenfirma.
+> 넣는 척해야 해요. 안 그럼 사이트가 당장 수상해 보이니까. 여기요. «Spreewerk Recherche, c/o Media Services Ltd., 런던.» 페이퍼컴퍼니예요.
+SWETA: Media Services Ltd. Den Namen kenne ich. Oder einen wie ihn. Diese Firmen tauchen immer wieder auf. Immer London oder Zypern. Immer leer.
+> Media Services Ltd. 그 이름을 알아요. 아니면 비슷한 걸. 이런 회사들이 거듭 나와요. 늘 런던 아니면 키프로스. 늘 비어 있고요.
+MIRA: Und die Domain? «spreewerk-recherche.info» wurde vor elf Tagen registriert. Elf Tage. Unsere echte Domain gibt es seit neun Jahren.
+> 그럼 도메인은? «spreewerk-recherche.info»는 11일 전에 등록됐어요. 11일. 우리 진짜 도메인은 9년 됐고요.
+LEON: Kann man sehen, wer die Domain registriert hat? Steht da ein Name?
+> 누가 도메인을 등록했는지 볼 수 있어요? 거기 이름이 있어요?
+MIRA: Normalerweise ist das durch einen Datenschutzdienst verborgen. Hier auch. «Registrant: geschützt.» Aber der Dienst selbst verrät etwas. Er sitzt in Zypern.
+> 보통은 개인정보 보호 서비스로 가려져 있어요. 여기도요. «등록자: 보호됨.» 근데 그 서비스 자체가 뭔가 드러내요. 키프로스에 있거든요.
+SWETA: Zypern. Wieder Zypern. Dieselben Dienste, dieselben Länder, immer wieder. Es ist, als würde man denselben Lieferanten an der Kleidung erkennen.
+> 키프로스. 또 키프로스. 같은 서비스, 같은 나라, 거듭거듭. 같은 공급자를 옷차림으로 알아보는 것 같아요.
+JAN: Und wenn der Registrant verborgen ist — bringt uns das überhaupt weiter?
+> 그리고 등록자가 가려져 있으면 — 그게 우리한테 도움이 돼?
+MIRA: Direkt nicht. Aber der Zeitpunkt der Registrierung hilft. Elf Tage. Und die Uhrzeit: nachts um zwei unserer Zeit. Das ist morgens um vier in Moskau. Arbeitsbeginn irgendwo östlich.
+> 직접은 아니에요. 근데 등록 시점이 도움돼요. 11일. 그리고 시각. 우리 시간 새벽 2시. 모스크바 아침 4시예요. 어딘가 동쪽의 업무 시작.
+SWETA: Nicht unbedingt Moskau. Aber jemand, der in dieser Zeitzone denkt. Und der die Domain registrierte, lange bevor das Video online ging. Alles war geplant. In Ruhe.
+> 꼭 모스크바는 아니에요. 근데 그 시간대로 생각하는 누군가. 그리고 영상이 올라가기 한참 전에 도메인을 등록한 자. 전부 계획됐어요. 느긋하게.
+JAN: Elf Tage Vorbereitung für einen Angriff auf eine kleine Berliner Redaktion. Ich weiß nicht, ob ich mich geschmeichelt oder bedroht fühlen soll.
+> 작은 베를린 편집국 하나 공격하려고 11일 준비. 우쭐해야 할지 위협을 느껴야 할지 모르겠네.
+SWETA: Beides, Jan. Sie fürchten dich genug, um elf Tage zu investieren. Das ist ein Kompliment in der Sprache der Angst. Und eine Drohung in derselben Sprache.
+> 둘 다요, 얀. 11일을 투자할 만큼 당신을 두려워해요. 그건 두려움의 언어로 된 칭찬이에요. 그리고 같은 언어로 된 협박이고요.
+JAN: Elf Tage. Also wussten sie schon vor elf Tagen, dass sie uns angreifen würden. Das Video war geplant. Das hier war vorbereitet.
+> 11일. 그럼 11일 전에 이미 우릴 공격할 걸 알았네. 영상은 계획됐고. 이건 준비됐고.
+MIRA: Und schau: Dieselbe Technik, dieselbe Server-Struktur wie bei siebzehn anderen Klon-Seiten. Nicht nur wir. Sie klonen ein ganzes Ökosystem.
+> 그리고 봐요. 다른 복제 사이트 열일곱 개랑 같은 기술, 같은 서버 구조예요. 우리만이 아니에요. 생태계 전체를 복제해요.
+SWETA: Siebzehn. Dieselbe Zahl wie die falschen Lokalgruppen von gestern. Das ist kein Zufall. Das ist eine Fabrik. Eine einzige Fabrik für viele Masken.
+> 열일곱. 어제 가짜 지역 그룹이랑 같은 숫자예요. 우연이 아니에요. 공장이에요. 많은 가면을 위한 단 하나의 공장.
+JAN: Dann suchen wir nicht siebzehn Täter. Wir suchen eine Werkstatt, die siebzehn Masken näht. Das ist greifbarer.
+> 그럼 우린 위조자 열일곱을 찾는 게 아니야. 가면 열일곱을 꿰매는 공방 하나를 찾아. 그게 더 손에 잡혀.
+MIRA: Und noch etwas verraten die Server. Die Seiten wurden alle zur selben Uhrzeit aktualisiert. Jeden Tag um die gleiche Zeit. Wie bei einem Büro mit festen Arbeitszeiten.
+> 그리고 서버가 하나 더 드러내요. 사이트들이 전부 같은 시각에 갱신됐어요. 매일 같은 시간에. 고정 근무 시간이 있는 사무실처럼요.
+JAN: Ein Büro mit Arbeitszeiten. Also keine Hobby-Trolle in ihren Kinderzimmern. Angestellte. Leute, die morgens kommen und abends gehen.
+> 근무 시간이 있는 사무실. 그럼 자기 방의 취미 트롤이 아니네. 직원들. 아침에 와서 저녁에 가는 사람들.
+MIRA: So sieht es aus. Und die Zeiten passen zu einer mitteleuropäischen Arbeitswoche. Montag bis Freitag. Am Wochenende kaum Aktivität.
+> 그렇게 보여요. 그리고 시간이 중부유럽 근무 주간에 맞아요. 월요일부터 금요일. 주말엔 활동이 거의 없고요.
+SWETA: Das ist wichtig. Eine Fabrik, die Wochenende macht, ist keine ferngesteuerte Bot-Farm. Das ist ein echtes Büro mit echten Menschen. Hier. In unserer Zeitzone.
+> 그게 중요해요. 주말을 쉬는 공장은 원격 조종 봇 농장이 아니에요. 진짜 사람이 있는 진짜 사무실이에요. 여기. 우리 시간대에.
+JAN: Menschen machen Fehler. Maschinen wiederholen nur. Wenn hinter den Masken Menschen sitzen, finden wir einen, der müde wird. Einen, der redet.
+> 사람은 실수해. 기계는 반복만 하지. 가면 뒤에 사람이 있으면, 우린 지치는 사람 하나를 찾아. 말하는 사람 하나를.
+
+# 장면 3 — DIE HILFE VON AUSSEN
+MARTA: Grüß euch. Marta hier, aus Wien. Schön, dass ihr anruft. Diese Doppelgänger-Seiten verfolgen wir im Netzwerk schon lange.
+> 안녕들 하세요. 빈에서 마르타예요. 전화해 줘서 반가워요. 이 도플갱어 사이트들을 우리 네트워크가 오래 추적해 왔어요.
+SWETA: Marta, danke. Du hast Erfahrung mit genau diesem Muster. Wir sind neu betroffen. Was können wir sofort tun?
+> 마르타, 고마워요. 당신은 바로 이 패턴에 경험이 있잖아요. 우린 이제 막 당했어요. 지금 당장 뭘 할 수 있어요?
+MARTA: Erstens: Nicht verlinken. Verlinkt die Fälschung nie direkt. Jeder Klick, jeder Link macht sie in den Suchmaschinen stärker. Beschreibt sie, aber verlinkt sie nicht.
+> 첫째, 링크 걸지 마요. 가짜를 절대 직접 링크하지 마요. 클릭 하나, 링크 하나가 검색엔진에서 그걸 강하게 만들어요. 묘사하되 링크는 걸지 마요.
+MIRA: Das ist derselbe Rat wie beim Video. Nie das Original selbst verbreiten.
+> 영상 때랑 같은 조언이네요. 원본 자체를 절대 퍼뜨리지 마라.
+MARTA: Genau. Zweitens: Meldet die Domain. «.info»-Domains haben Regeln. Eine Marke zu fälschen ist ein Verstoß. Oft wird die Seite in Tagen abgeschaltet.
+> 바로요. 둘째, 도메인을 신고해요. «.info» 도메인엔 규칙이 있어요. 상표를 위조하는 건 위반이에요. 흔히 사이트가 며칠 안에 내려가요.
+KATRIN: Das übernehme ich. Spreewerk ist eine eingetragene Marke. Markenrechtsverletzung plus Identitätsmissbrauch. Ich schreibe die Beschwerde heute.
+> 그건 제가 맡을게요. Spreewerk는 등록 상표예요. 상표권 침해에 신원 도용. 오늘 이의 신청서를 쓸게요.
+MARTA: Drittens, das Wichtigste: Macht daraus eine Geschichte. Nicht nur «wir wurden geklont». Sondern «so funktioniert die Fälschungsindustrie». Lehrt die Leute, es zu erkennen.
+> 셋째, 가장 중요한 거. 그걸 기사로 만들어요. «우린 복제됐다»만이 아니라. «위조 산업은 이렇게 작동한다»로요. 사람들한테 알아보는 법을 가르쳐요.
+JAN: Das ist unser Plan. Aus dem Angriff eine Lektion machen. Je mehr Menschen einen Doppelgänger erkennen, desto wertloser wird er.
+> 그게 우리 계획이에요. 공격을 수업으로 만드는 것. 도플갱어를 알아보는 사람이 많을수록 그게 쓸모없어져요.
+MARTA: So ist es. Ein Doppelgänger lebt von Unwissen. Wissen ist das Desinfektionsmittel. Und, Sweta — schön, dass du auf der richtigen Seite bist. Wir brauchen Leute wie dich.
+> 그래요. 도플갱어는 무지로 살아요. 지식이 소독제죠. 그리고 스베타 — 당신이 옳은 편에 있어서 기뻐요. 당신 같은 사람이 필요해요.
+SWETA: Marta, darf ich dich etwas Persönliches fragen? Hast du je Angst? Diese Leute vergessen nicht, wer gegen sie arbeitet.
+> 마르타, 개인적인 거 물어도 돼요? 무서운 적 있어요? 이 사람들은 자기들에 맞서 일하는 자를 안 잊잖아요.
+MARTA: Jeden Tag ein bisschen. Aber ich habe gelernt, dass Angst und Arbeit nebeneinander wohnen können. Du kennst das besser als ich, Sweta.
+> 매일 조금요. 근데 두려움과 일이 나란히 살 수 있다는 걸 배웠어요. 당신이 저보다 잘 알죠, 스베타.
+SWETA: Ich kenne es. Ich bin deshalb aus Moskau weg. Ich dachte, in Berlin sei die Angst kleiner. Jetzt merke ich, sie ist nur anders gekleidet.
+> 알아요. 그래서 모스크바를 떠났어요. 베를린에선 두려움이 작을 줄 알았죠. 이제 보니 그냥 옷만 다르게 입었더군요.
+MARTA: Anders gekleidet, aber dieselbe Sorte. Und der beste Schutz ist dasselbe: Nie allein arbeiten. Immer im Netzwerk. Allein zerbricht man. Zusammen hält man.
+> 옷만 다르지 같은 종류예요. 그리고 최선의 보호도 같아요. 절대 혼자 일하지 않기. 늘 네트워크로. 혼자면 부서져요. 같이면 버티고요.
+JAN: Deshalb rufen wir dich an, Marta. Nicht nur für den Rat. Auch, damit noch jemand weiß, woran wir arbeiten. Wissen, geteilt, ist auch Schutz.
+> 그래서 당신한테 전화하는 거예요, 마르타. 조언만을 위해서가 아니라. 우리가 뭘 작업하는지 또 누군가 알도록요. 나눈 지식도 보호죠.
+MARTA: Richtig. Haltet mich auf dem Laufenden. Und wenn die Klon-Seite verschwindet, macht sofort Screenshots. Fälscher löschen schnell, wenn sie gefunden werden.
+> 맞아요. 계속 알려 줘요. 그리고 복제 사이트가 사라지면 즉시 스크린샷을 찍어요. 위조자는 들키면 빨리 지워요.
+MIRA: Schon erledigt. Ich habe die ganze Seite archiviert, mit Zeitstempel, bevor wir überhaupt telefoniert haben. Jede Unterseite. Dreifach gesichert.
+> 벌써 했어요. 전화하기도 전에 사이트 전체를 타임스탬프와 함께 아카이브했어요. 모든 하위 페이지를. 3중으로요.
+
+# 장면 4 — DER GEFÄLSCHTE ARTIKEL
+SWETA: Lest den gefälschten Artikel. Genau. Er ist klug gemacht. Er lügt nicht plump. Er dreht Wahres ins Falsche.
+> 가짜 기사를 읽어 봐요. 자세히. 영리하게 만들었어요. 조잡하게 거짓말 안 해요. 참을 거짓으로 비틀죠.
+JAN: «Spreewerk erhielt 2026 eine Förderung von einer europäischen Medienstiftung.» Das stimmt sogar. Die Stiftung ist in unserem Bericht.
+> «Spreewerk는 2026년 한 유럽 미디어 재단에서 후원을 받았다.» 이건 사실이기까지 해. 그 재단은 우리 보고서에 있어.
+SWETA: Siehst du? Der erste Satz ist wahr. Deshalb liest man weiter und senkt die Wache. Dann kommt der zweite Satz.
+> 봐요? 첫 문장은 참이에요. 그래서 계속 읽으며 경계를 낮춰요. 그다음 두 번째 문장이 와요.
+JAN: «Diese Stiftung wird nach Recherchen von Spreewerk-Recherche von russischen Oligarchen kontrolliert.» Das ist die Lüge. Und sie schreiben sie uns zu.
+> «이 재단은 Spreewerk-Recherche의 취재에 따르면 러시아 올리가르히들이 통제한다.» 그게 거짓말이야. 그리고 그걸 우리한테 돌려.
+SWETA: Das ist die Technik. Wahr, wahr, Lüge. Der Leser merkt den Bruch nicht, weil der Rhythmus stimmt. Und die Lüge trägt unseren Namen als Beweis.
+> 그게 기술이에요. 참, 참, 거짓. 독자는 리듬이 맞아서 균열을 못 느껴요. 그리고 거짓말이 우리 이름을 증거로 달고 있죠.
+JAN: Und das Wort «nach Recherchen von Spreewerk». Das ist das Scharnier. Es verwandelt eine Behauptung in ein scheinbares Ergebnis unserer Arbeit.
+> 그리고 «Spreewerk의 취재에 따르면»이라는 말. 그게 경첩이야. 주장 하나를 우리 작업의 겉보기 결과로 바꿔.
+SWETA: Genau dieses Scharnier zerlegen wir öffentlich. Wir zeigen: Dieser Satz existiert in keiner einzigen echten Recherche von uns. Er ist frei erfunden und uns untergeschoben.
+> 바로 그 경첩을 우리가 공개적으로 해부해요. 보여 주죠. 이 문장은 우리 어떤 진짜 취재에도 없다고. 순전히 지어내서 우리한테 뒤집어씌운 거라고.
+MIRA: Können wir die Stiftung bitten, das zu dementieren? Dann haben wir eine zweite, unabhängige Stimme.
+> 그 재단한테 부인해 달라고 할 수 있어요? 그럼 두 번째, 독립적인 목소리를 얻잖아요.
+JAN: Ja. Und das ist wichtig: Wir dementieren nicht nur selbst. Wir lassen den Dritten sprechen. Ein Opfer, das sich verteidigt, ist schwächer als ein Zeuge, der bestätigt.
+> 응. 그리고 그게 중요해. 우리만 부인하는 게 아니야. 제3자가 말하게 둬. 자신을 변호하는 피해자는 확인해 주는 증인보다 약해.
+HELENE: Die Stiftung wird froh sein zu dementieren. Sie ist genauso ein Opfer wie wir. Ihr Name wird genauso missbraucht. Ruf sie an, Mira.
+> 그 재단은 부인하게 돼서 기쁠 거예요. 우리처럼 피해자니까요. 자기 이름도 똑같이 도용당했어요. 전화해요, 미라.
+LEON: Eine Frage noch zu dem Trick. Wenn der erste Satz immer wahr ist — könnte man nicht einfach den letzten Satz prüfen und fertig?
+> 그 수법에 질문 하나 더요. 첫 문장이 늘 참이면 — 그냥 마지막 문장만 확인하고 끝내면 안 돼요?
+SWETA: Könnte man. Wenn man wüsste, dass man prüfen muss. Aber die meisten lesen nur die Überschrift und den ersten Satz. Und beide sind wahr. Also teilen sie.
+> 그럴 수 있지. 확인해야 하는 걸 안다면. 근데 대부분은 제목과 첫 문장만 읽어. 그리고 둘 다 참이야. 그래서 공유하지.
+LEON: Also gewinnt die Lüge, weil die Leute faul sind?
+> 그럼 사람들이 게을러서 거짓말이 이겨요?
+SWETA: Nicht faul. Beschäftigt. Überflutet. Niemand hat Zeit, jeden Satz zu prüfen. Die Fabrik rechnet mit unserer Erschöpfung. Erschöpfung ist ihr bester Verbündeter.
+> 게으른 게 아니야. 바쁜 거지. 넘쳐나는 거고. 아무도 모든 문장을 확인할 시간이 없어. 공장은 우리 피로를 셈에 넣어. 피로가 그들의 최고 아군이야.
+JAN: Deshalb schreiben wir unseren Faktencheck nicht lang. Drei Sätze, ein Bild. Die Wahrheit muss genauso schnell sein wie die Lüge. Sonst verliert sie das Rennen.
+> 그래서 우린 팩트체크를 길게 안 써. 세 문장, 사진 하나. 진실은 거짓말만큼 빨라야 해. 안 그럼 경주에서 져.
+MIRA: Die Wahrheit, die sich beeilt. Das klingt fast falsch. Aber du hast recht. Gründlich sein und trotzdem schnell. Das ist die neue Kunst.
+> 서두르는 진실. 거의 틀린 것처럼 들려요. 근데 맞아요. 꼼꼼하면서도 빠르기. 그게 새로운 기술이에요.
+SWETA: Und so wächst unsere Verteidigung: nicht ein Spreewerk gegen einen Doppelgänger, sondern viele echte Stimmen gegen eine Fabrik aus Masken.
+> 그렇게 우리 방어가 자라요. 도플갱어 하나에 맞선 Spreewerk 하나가 아니라, 가면 공장 하나에 맞선 여러 진짜 목소리로요.
+LEON: Eine Sache verstehe ich nicht. Der gefälschte Artikel trägt Swetas Namen und Foto. Ist das nicht strafbar? Kann Sweta nicht einfach klagen?
+> 하나 이해가 안 돼요. 가짜 기사에 스베타 이름이랑 사진이 있잖아요. 그거 처벌 안 돼요? 스베타가 그냥 고소하면 안 돼요?
+KATRIN: Doch, es ist strafbar. Identitätsmissbrauch, üble Nachrede, Markenverletzung. Aber gegen wen klagt man? Der Täter sitzt hinter einer Briefkastenfirma in London.
+> 돼, 처벌돼. 신원 도용, 명예훼손, 상표 침해. 근데 누굴 고소해? 범인은 런던 페이퍼컴퍼니 뒤에 앉아 있어.
+LEON: Also nützt das Gesetz nichts?
+> 그럼 법이 소용없어요?
+KATRIN: Das Gesetz nützt, aber langsam. Eine Klage dauert Jahre. Der Doppelgänger wirkt heute. Deshalb klagen wir und handeln gleichzeitig journalistisch. Zwei Spuren.
+> 법은 소용 있어, 근데 느리게. 소송은 몇 년 걸려. 도플갱어는 오늘 먹히고. 그래서 고소하면서 동시에 기자로 움직여. 두 갈래로.
+SWETA: Und für mich persönlich ist das Foto fast das Schlimmste. Mein Gesicht unter einer Lüge. Genau das sollte mich einschüchtern. Mich zum Schweigen bringen.
+> 그리고 저 개인적으론 그 사진이 거의 최악이에요. 거짓말 밑의 제 얼굴. 바로 그게 절 겁주려는 거예요. 입 다물게 하려는.
+JAN: Und tut es das? Schüchtert es dich ein?
+> 그래서 돼? 겁먹었어?
+SWETA: Früher hätte es das. Heute macht es mich wütend. Und wütend bin ich gründlicher als ängstlich. Sie haben sich die falsche Frau ausgesucht.
+> 예전 같으면 그랬죠. 오늘은 절 화나게 해요. 그리고 화나면 전 두려울 때보다 더 꼼꼼해져요. 그들은 상대를 잘못 골랐어요.
+HELENE: Dann nutzen wir diese Wut. Aber kontrolliert. Sweta, du schreibst den Artikel über den Doppelgänger. Dein Name, der echte, über der echten Geschichte.
+> 그럼 그 분노를 써요. 근데 통제해서. 스베타, 도플갱어에 대한 기사는 당신이 써요. 당신 이름, 진짜가, 진짜 이야기 위에.
+
+# 장면 5 — WER STECKT HINTER DER FABRIK?
+SWETA: Marta, noch eine Frage. Die siebzehn Klon-Seiten — habt ihr je herausgefunden, wer dahintersteckt?
+> 마르타, 질문 하나 더. 복제 사이트 열일곱 개 — 배후가 누군지 알아낸 적 있어요?
+MARTA: Teilweise. Die Technik zeigt oft nach Osten. Server, Zahlungen, Arbeitszeiten in einer bestimmten Zeitzone. Aber die Fabrik selbst steht oft woanders.
+> 일부요. 기술은 흔히 동쪽을 가리켜요. 서버, 결제, 특정 시간대의 근무 시간. 근데 공장 자체는 다른 데 있을 때가 많아요.
+SWETA: Was meinst du mit «woanders»?
+> «다른 데»가 무슨 뜻이에요?
+MARTA: Die Idee kommt aus dem Osten. Aber die Umsetzung kaufen sie lokal ein. Eine Marketingagentur hier, ein Grafiker dort. Leute, die oft nicht mal wissen, für wen sie arbeiten.
+> 아이디어는 동쪽에서 와요. 근데 실행은 현지에서 사요. 여기 마케팅 에이전시, 저기 그래픽 디자이너. 자기가 누굴 위해 일하는지 모를 때도 많은 사람들.
+JAN: Also sitzt ein Teil der Fabrik mitten in Berlin. Deutsche Hände, die für fremdes Geld fremde Masken nähen. Vielleicht ohne es zu wissen.
+> 그럼 공장 일부가 베를린 한복판에 있네. 외국 돈을 받고 외국 가면을 꿰매는 독일 손들. 어쩌면 모른 채로.
+MARTA: Sehr wahrscheinlich. Und das ist eure Chance. An eine Agentur in Berlin kommt ihr näher heran als an einen Server in Übersee. Sucht die lokale Hand.
+> 아주 그럴듯해요. 그리고 그게 당신들 기회예요. 베를린의 에이전시엔 해외 서버보다 가까이 갈 수 있어요. 현지의 손을 찾아요.
+JAN: Und wenn die lokale Hand wirklich nicht weiß, für wen sie arbeitet? Dann klagen wir Unschuldige an.
+> 그리고 현지의 손이 정말 누굴 위해 일하는지 모르면? 그럼 우리가 무고한 사람을 고발하는 거잖아요.
+MARTA: Deshalb ist die Frage nie «Wer hat es getan?», sondern «Wer hat es wissentlich getan?». Eine Agentur, die bewusst Lügen baut, ist verantwortlich. Ein Praktikant, der ein Bild schneidet, nicht.
+> 그래서 질문은 결코 «누가 했나?»가 아니라 «누가 알고 했나?»예요. 의식적으로 거짓을 짓는 에이전시는 책임이 있어요. 이미지를 자르는 인턴은 아니고요.
+JAN: Also müssen wir das Wissen beweisen. Nicht die Tat. Die Tat sehen wir schon. Das Wissen ist das Schwere.
+> 그럼 우린 '앎'을 입증해야 하네. 행위가 아니라. 행위는 이미 보여. 앎이 어려운 거지.
+MARTA: Genau. Und Wissen beweist man meist durch einen Menschen, der aussteigt. Einen, der drin war und redet. Sucht nicht nur die Agentur. Sucht den, der sie verlassen hat.
+> 바로요. 그리고 앎은 대개 발 빼는 사람 하나로 입증돼요. 안에 있다가 말하는 사람. 에이전시만 찾지 마요. 거길 떠난 사람을 찾아요.
+SWETA: Einen ehemaligen Mitarbeiter. Jemand, der gegangen ist, weil ihm etwas nicht gefiel. Die gibt es fast immer. Niemand baut Lügen, ohne dass einer das Gewissen bekommt.
+> 전직 직원. 뭔가 마음에 안 들어서 떠난 사람. 그런 사람은 거의 늘 있어요. 아무도 양심을 느끼는 사람 하나 없이 거짓을 짓진 않아요.
+JAN: Dann suchen wir ab morgen zwei Dinge: die Agentur von außen und den, der sie im Groll verlassen hat. Danke, Marta. Du hast uns Wochen gespart.
+> 그럼 내일부터 두 가지를 찾아. 밖에서 본 에이전시, 그리고 원한을 품고 떠난 사람. 고마워요, 마르타. 우리 몇 주를 아껴 줬어요.
+MARTA: Dafür sind Netzwerke da. Und passt auf euch auf. Besonders du, Sweta. Die mögen es gar nicht, wenn eine von ihren Ehemaligen auf unserer Seite steht.
+> 네트워크는 그러라고 있는 거죠. 그리고 몸조심해요. 특히 당신, 스베타. 그들은 자기들 전직이 우리 편에 서는 걸 아주 싫어해요.
+SWETA: Die lokale Hand. Mira, kannst du die Metadaten der Grafiken auf der Klon-Seite auslesen? Logos, Bilder. Wer sie bearbeitet hat?
+> 현지의 손. 미라, 복제 사이트 그래픽의 메타데이터를 읽을 수 있어요? 로고, 이미지. 누가 편집했는지?
+MIRA: Ich versuche es. Oft vergessen Leute, die Metadaten zu löschen. Besonders unter Zeitdruck. Und elf Tage sind Zeitdruck. Moment… da ist was.
+> 해 볼게요. 사람들이 메타데이터 지우는 걸 자주 잊어요. 특히 시간에 쫓기면. 그리고 11일은 시간에 쫓기는 거죠. 잠깐… 뭔가 있어요.
+SWETA: Nimm dir Zeit. Ein einziges Feld kann uns Wochen sparen. Oder uns auf eine falsche Fährte setzen, wenn sie es absichtlich dort gelassen haben.
+> 천천히 해요. 필드 하나가 우리 몇 주를 아껴 줄 수 있어요. 아니면 일부러 거기 남겨 뒀다면 우릴 엉뚱한 길로 보내거나.
+MIRA: Daran denke ich auch. Deshalb prüfe ich nicht ein Bild, sondern alle. Wenn derselbe Name in zwölf von vierzehn Grafiken steht, ist es kein gelegter Köder. Es ist Schlamperei.
+> 저도 그 생각해요. 그래서 이미지 하나가 아니라 전부 확인해요. 같은 이름이 그래픽 열넷 중 열둘에 있으면 그건 놓인 미끼가 아니에요. 부주의죠.
+JAN: Und, wie viele?
+> 그래서, 몇 개야?
+MIRA: Dreizehn von vierzehn. Dasselbe Lizenzfeld. Das ist keine Falle. Das ist jemand, der im Akkord gearbeitet und vergessen hat, aufzuräumen.
+> 열넷 중 열셋. 같은 라이선스 필드. 함정이 아니에요. 할당량 맞춰 일하다 정리를 잊은 누군가예요.
+JAN: Was hast du genau?
+> 정확히 뭐가 나와?
+MIRA: Die Grafik im Kopf der Seite. Bearbeitet mit einer lizenzierten Software. Der Lizenzname im Metadatenfeld lautet: «HH-Studio».
+> 사이트 상단 그래픽. 라이선스 소프트웨어로 편집됐어요. 메타데이터 필드의 라이선스 이름은 «HH-Studio»예요.
+
+# 장면 6 — HH-STUDIO
+JAN: HH-Studio. Derselbe Name, den du gestern bei den Kampagnenvideos gefunden hast. Bei Tempelhof.
+> HH-슈투디오. 어제 네가 캠페인 영상에서 찾은 이름이잖아. 템펠호프 때.
+MIRA: Genau derselbe. Die Klon-Seite und die Tempelhof-Videos kommen aus derselben Werkstatt. HH-Studio verbindet beides.
+> 완전히 같아요. 복제 사이트랑 템펠호프 영상이 같은 공방에서 나와요. HH-슈투디오가 둘을 이어요.
+SWETA: HH. Zwei Buchstaben. Das kann vieles heißen. Aber wenn es eine Berliner Agentur ist, finden wir den vollen Namen. Agenturen wollen gefunden werden. Das ist ihr Geschäft.
+> HH. 글자 둘. 많은 걸 뜻할 수 있어요. 근데 베를린 에이전시면 전체 이름을 찾아내요. 에이전시는 찾아지길 원해요. 그게 그들 사업이니까.
+LEON: Hype und Hafen? Ich habe neulich ein Werbeplakat gesehen. Eine Influencer-Agentur in Friedrichshain. Die hatten dieses Logo, zwei H.
+> 하이프 운트 하펜? 얼마 전 광고판을 봤어요. 프리드리히스하인의 인플루언서 에이전시요. 그 로고가 있었어요, H 두 개.
+SWETA: Leon. Sag das noch einmal. Hype und Hafen?
+> 레온. 다시 말해 봐. 하이프 운트 하펜?
+LEON: Ja. Hype und Hafen. In der Revaler Straße, glaube ich. Die machen Werbung für Getränke, Mode, so Zeug. Warum?
+> 네. 하이프 운트 하펜. 레발러 거리였던 거 같아요. 음료, 패션, 그런 거 광고해요. 왜요?
+JAN: Weil «Hype und Hafen» auf Englisch und Deutsch gemischt genau «HH» ergibt. Und weil Friedrichshain genau der Ort ist, auf den Miras Graph seit gestern zeigt.
+> «하이프 운트 하펜»이 영어랑 독일어 섞으면 정확히 «HH»가 되니까. 그리고 프리드리히스하인이 어제부터 미라 그래프가 가리키는 바로 그곳이니까.
+SWETA: Eine Influencer-Agentur, die offiziell Getränke bewirbt und inoffiziell Doppelgänger näht. Das ist die lokale Hand, von der Marta spricht.
+> 공식적으론 음료를 광고하고 비공식적으론 도플갱어를 꿰매는 인플루언서 에이전시. 마르타가 말한 현지의 손이에요.
+HELENE: Dann haben wir ein Ziel. Keine Spekulation mehr. Ein Name, eine Adresse, eine Revaler Straße. Von hier an wird aus dem Opfer wieder ein Jäger.
+> 그럼 우린 목표가 생겼어요. 더는 추측이 아니에요. 이름 하나, 주소 하나, 레발러 거리. 여기서부터 피해자가 다시 사냥꾼이 돼요.
+JAN: Aber vorsichtig. Wir dürfen nicht hinstürmen. Eine Agentur, die Getränke bewirbt, ist legal. Wir brauchen Beweise, dass sie auch Doppelgänger näht.
+> 근데 조심히. 들이닥치면 안 돼. 음료를 광고하는 에이전시는 합법이야. 그들이 도플갱어도 꿰맨다는 증거가 필요해.
+SWETA: Das Lizenzfeld allein reicht nicht. Jemand könnte sagen: «Ein Grafiker von uns hat nebenbei etwas gemacht, ohne unser Wissen.» Das ist eine leichte Ausrede.
+> 라이선스 필드만으론 부족해요. 누가 «우리 디자이너 하나가 우리 모르게 부업으로 했다»고 할 수 있어요. 쉬운 변명이죠.
+JAN: Also brauchen wir mehr. Nicht nur, dass eine Grafik von dort kam. Sondern dass die Agentur selbst den Auftrag kannte. Dass es System hat, nicht Zufall.
+> 그럼 더 필요해. 그래픽 하나가 거기서 왔다는 것만이 아니라. 에이전시 자체가 그 일감을 알았다는 것. 우연이 아니라 체계라는 것.
+SWETA: Und das findet man nicht von außen. Das findet man nur von innen. Jemand muss dort hinein. In die Agentur.
+> 그리고 그건 밖에서 못 찾아요. 안에서만 찾죠. 누가 거기 들어가야 해요. 에이전시 안으로.
+HELENE: Das ist ein großer Gedanke, Sweta. Und ein gefährlicher. Darüber reden wir, aber nicht heute und nicht so schnell. Erst sammeln wir, was von außen geht.
+> 큰 생각이에요, 스베타. 그리고 위험한. 그건 얘기하되, 오늘은 아니고 그렇게 빨리도 아니에요. 먼저 밖에서 되는 걸 모아요.
+LEON: Und ich? Ich habe die Agentur erkannt. Kann ich irgendwie helfen? Ich will nicht nur danebenstehen.
+> 그럼 저는요? 제가 에이전시를 알아봤잖아요. 어떻게든 도울 수 있어요? 그냥 옆에 서 있고 싶지 않아요.
+JAN: Du hast schon geholfen, Leon. Ohne deinen Werbeplakat-Blick hätten wir nur zwei Buchstaben. Du bleibst bei der Recherche von außen. Öffentliche Quellen, Handelsregister.
+> 넌 벌써 도왔어, 레온. 네 광고판 눈이 없었으면 우린 글자 둘만 있었어. 넌 밖에서 하는 취재를 맡아. 공개 자료, 상업 등기.
+
+# 엔딩 — DIE EIGENE VORSCHAU
+MIRA: Jan, warte. Es gibt noch etwas auf der Klon-Seite. Ganz unten. Eine Rubrik: «Demnächst bei Spreewerk-Recherche».
+> 얀, 잠깐만. 복제 사이트에 하나 더 있어요. 맨 아래. 코너 하나. «Spreewerk-Recherche 곧 공개».
+JAN: Eine Vorschau? Die Fälscher kündigen an, was angeblich als Nächstes kommt. Was steht da?
+> 예고? 위조자들이 다음에 나온다는 걸 예고해. 거기 뭐라고 쓰여 있어?
+MIRA: «Demnächst: Die wahren Hintergründe der Tempelhof-Abstimmung.» Und darunter drei Stichpunkte. Lies sie, Jan. Langsam.
+> «곧: 템펠호프 투표의 진짜 배경.» 그리고 그 밑에 요점 셋. 읽어 봐요, 얀. 천천히.
+JAN: «Die Rolle eines Immobilienfonds. Ein Bezirksamt, das wegschaut. Ein Name aus Grunewald.» … Das sind unsere Themen. Unsere echten, unveröffentlichten Themen.
+> «한 부동산 펀드의 역할. 눈감는 구청. 그루네발트의 한 이름.» … 이건 우리 주제야. 우리의 진짜, 미공개 주제들.
+SWETA: Das ist unmöglich, außer… außer jemand weiß, woran wir gerade arbeiten. Jemand, der unsere internen Pläne kennt.
+> 그건 불가능해요, 다만… 누가 우리가 지금 뭘 작업하는지 안다면 모를까. 우리 내부 계획을 아는 누군가.
+MIRA: Oder sie raten. Vielleicht ist es nur eine clevere Vermutung. Tempelhof, ein Fonds, Grunewald — darüber haben wir in Teil eins schon öffentlich geschrieben.
+> 아니면 짐작하거나요. 어쩌면 영리한 추측일 뿐일지도요. 템펠호프, 펀드, 그루네발트 — 그건 우리가 1부에서 이미 공개적으로 썼잖아요.
+JAN: Teil eins ja. Aber «ein Name aus Grunewald» haben wir nie gedruckt. Das ist genau die Formulierung aus unserer internen Planung von letzter Woche.
+> 1부는 그렇지. 근데 «그루네발트의 한 이름»은 우리가 인쇄한 적 없어. 그건 지난주 우리 내부 기획의 바로 그 표현이야.
+SWETA: Wort für Wort. Nicht der Inhalt ist verräterisch, sondern die Formulierung. Niemand rät zufällig genau unsere Worte. Das ist abgeschrieben, nicht erraten.
+> 한 글자씩. 내용이 아니라 표현이 유출의 증거예요. 아무도 우연히 우리 표현을 정확히 짐작 못 해요. 베낀 거지 짐작한 게 아니에요.
+MIRA: Dann nehme ich das zurück. Du hast recht. Das ist zu genau für einen Zufall. Es ist dieselbe Handschrift wie bei Jans «äh».
+> 그럼 제 말 취소할게요. 당신 말이 맞아요. 우연이기엔 너무 정확해요. 얀의 «어»랑 같은 필체예요.
+JAN: Wieder das Leck. Erst meine Stimme aus einer internen Aufnahme. Jetzt unsere Themenplanung auf einer Fälscher-Seite. Es ist derselbe Verrat.
+> 또 유출. 처음엔 내부 녹음에서 내 목소리. 이제 우리 주제 기획이 위조자 사이트에. 같은 배신이야.
+HELENE: Dann ist eines jetzt sicher: Der Mensch, der uns verrät, sitzt nicht in Friedrichshain. Er sitzt hier. In diesem Raum oder sehr nah daran.
+> 그럼 이제 하나는 확실해요. 우릴 배신하는 사람은 프리드리히스하인에 없어요. 여기 있어요. 이 방에, 아니면 아주 가까이에.
+LEON: In diesem Raum… ihr meint doch nicht… ich war's nicht. Bitte glaubt mir. Isch schwör, isch hab nix verrota.
+= Ich war es nicht. Bitte glaubt mir. Ich schwöre, ich habe nichts verraten.
+> 이 방에… 설마 절… 제가 아니에요. 제발 믿어 주세요. 맹세해요, 전 아무것도 안 흘렸어요.
+HELENE: Leon, hör auf. Niemand hat deinen Namen gesagt. Dass du sofort an dich denkst, heißt gar nichts. Das heißt nur, dass du Angst hast. Wie wir alle.
+> 레온, 그만. 아무도 네 이름을 말 안 했어. 네가 바로 자신을 떠올린다고 아무 뜻도 아니야. 그냥 네가 무섭다는 뜻일 뿐. 우리 모두처럼.
+SWETA: Und genau das ist der zweite Schaden. Der erste ist der Doppelgänger draußen. Der zweite ist das Misstrauen hier drinnen. Das ist beabsichtigt. Beides.
+> 그리고 바로 그게 두 번째 피해예요. 첫째는 밖의 도플갱어. 둘째는 여기 안의 불신. 그건 의도된 거예요. 둘 다.
+JAN: Richtig. Wer das Leck legt, will nicht nur Informationen stehlen. Er will, dass wir uns gegenseitig ansehen und zweifeln. Ein zerstrittenes Team recherchiert nicht.
+> 맞아. 유출을 놓는 자는 정보만 훔치려는 게 아니야. 우리가 서로를 보며 의심하길 원해. 반목하는 팀은 취재를 못 하거든.
+HELENE: Deshalb machen wir es anders. Ab heute gibt es zwei Kreise. Einen großen, der weiter normal arbeitet. Und einen sehr kleinen, der die Agentur-Sache kennt. Drei Personen.
+> 그래서 우린 다르게 해요. 오늘부터 원이 둘이에요. 큰 원은 계속 평소대로 일해요. 그리고 아주 작은 원이 에이전시 건을 알고요. 세 사람.
+LEON: Drei Personen. Also nicht ich. Ihr schließt mich aus.
+> 세 사람. 그럼 전 아니네요. 절 배제하는 거예요.
+JAN: Wir schließen fast alle aus, Leon. Nicht nur dich. Das ist kein Urteil über dich. Das ist Schutz. Auch für dich. Wer nichts weiß, kann nichts verraten und nichts beweisen müssen.
+> 거의 다 배제해, 레온. 너만이 아니라. 그건 너에 대한 판단이 아니야. 보호야. 너를 위한 것이기도 하고. 모르는 사람은 흘릴 것도, 증명할 것도 없거든.
+SWETA: In meinem alten Leben nannten wir das «Zellenprinzip». Jeder weiß nur, was er wissen muss. Nicht aus Misstrauen. Aus Vorsicht. So überlebt man.
+> 제 옛 삶에선 그걸 «세포 원칙»이라고 불렀어요. 각자 알아야 할 것만 알아요. 불신이 아니라. 신중함에서. 그렇게 살아남죠.
+JAN: Niemand sagt, dass du es warst, Leon. Aber von jetzt an wissen wir: Es gibt zwei Fälle. Die Fabrik in Friedrichshain. Und den Verräter unter uns. Und sie hängen zusammen.
+> 아무도 너라고 안 해, 레온. 근데 이제부턴 알아. 사건이 둘이야. 프리드리히스하인의 공장. 그리고 우리 중의 배신자. 그리고 둘은 이어져 있어.
