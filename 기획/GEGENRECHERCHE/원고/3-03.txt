@@ -1,0 +1,343 @@
+@part 3
+@ep 3
+@title Musterung
+@sub 징병 신체검사 · 10월 초, 열여덟 살의 통지서와 편집국의 세대 논쟁
+@info 대사 150턴 · 난이도 B2 · 배경: 2027년 10월 초, Spreewerk 편집국, 엘케의 선술집, 슈투트가르트(전화), 징병 검사소 앞
+@cast LEON | 레온 피셔 (24) · 기자
+@cast JONAS | 요나스 (18) · 레온의 사촌, 슈투트가르트 거주
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인
+@cast BRÜCKNER | 하인츠 브뤼크너 (71) · 은퇴한 세무사
+@cast WEHRDIENSTBERATER | 병역 상담관
+@note ※ 독일은 2026년 새 병역 제도를 시행했습니다. 2008년 이후 출생 남성에게 설문과 신체검사(Musterung)를 의무화하고, 지원병을 늘리는 방향입니다. 병역·평화·안보를 둘러싼 논쟁은 세대마다 다릅니다. 이 화는 '내가 쓸 장비가 부정하게 조달됐다면?'이라는 개인적 질문으로 3부 전체를 떠받칩니다. 등장 인물은 가상입니다.
+@note ※ 표현 초점: Wehrdienst · Musterung · Fragebogen · Freiwilligkeit · Pflicht · Tauglichkeit · Zivildienst · Gewissen
+@next 3부 4화 — «Der Bundesrechnungshof»(연방감사원) — 감사원 보고서 행간 읽기. 특별기금 사업 다수가 비판받았고, Skyward 계약은 '긴급성'을 이유로 심사가 생략됐다. 감사관 한 명이 "그 우선순위 목록, 원래 비밀 등급이었다"고 흘린다.
+
+# 콜드 오픈 — EIN ANRUF AUS STUTTGART
+LEON: Jonas? Was ist los? Du rufst sonst nie an.
+> 요나스? 무슨 일이야? 평소엔 전화 안 하잖아.
+JONAS: Leon. Isch hab Post bekomme. Vom Bundesamt. Musterung. Ich muss zur Musterung.
+> 레온 형. 나 우편물 받았어. 연방청에서. 징병 검사. 신체검사 받으러 가야 해.
+LEON: Du bist achtzehn geworden. Im August. Dann kommt das jetzt.
+> 너 열여덟 됐잖아. 8월에. 그럼 이제 오는 거지.
+JONAS: Isch weiß net, was isch machen soll. Mama sagt, ich soll verweigern. Papa sagt, ich soll dienen. Und ich… ich weiß gar nix.
+> 어떻게 해야 할지 모르겠어. 엄마는 거부하래. 아빠는 복무하래. 그리고 난… 아무것도 모르겠어.
+LEON: Jonas, atme. Erst mal: Musterung heißt nicht Einberufung. Es heißt nur, sie schauen, ob du tauglich bist.
+> 요나스, 숨 쉬어. 일단, 신체검사가 입영은 아니야. 그냥 네가 복무 가능한지 보는 거야.
+JONAS: Und dann? Wenn isch tauglich bin?
+> 그다음엔? 내가 복무 가능하면?
+LEON: Dann entscheidest du. Freiwillig oder nicht. So ist das neue Gesetz. Noch.
+> 그럼 네가 결정해. 자원할지 말지. 새 법이 그래. 아직은.
+JONAS: «Noch.» Was heißt «noch»?
+> «아직». «아직»이 무슨 뜻이야?
+LEON: Das erkläre ich dir. Aber nicht am Telefon. Komm nach Berlin. Am Wochenende. Wir reden.
+> 그건 설명해 줄게. 근데 전화로는 말고. 베를린으로 와. 주말에. 얘기하자.
+JONAS: Zu dir? In die Redaktion?
+> 형네로? 편집국으로?
+LEON: Zu mir. Und du lernst meine Kollegen kennen. Die haben zu allem eine Meinung. Besonders zu so was.
+> 우리 집으로. 그리고 내 동료들도 만나. 그 사람들은 뭐든 의견이 있어. 특히 이런 거엔.
+JONAS: Leon. Eine Sache noch. Mama und Papa streiten die ganze Zeit. Wegen mir. Wegen der Musterung.
+> 레온 형. 하나 더. 엄마 아빠가 계속 싸워. 나 때문에. 신체검사 때문에.
+LEON: Das tut mir leid, Jonas.
+> 안됐다, 요나스.
+JONAS: Mama weint. Papa schreit. Und keiner fragt, was isch will.
+> 엄마는 울어. 아빠는 소리쳐. 그리고 아무도 내가 뭘 원하는지 안 물어.
+LEON: Dann frage ich dich. Was willst du, Jonas? Nicht Mama, nicht Papa. Du.
+> 그럼 내가 물을게. 넌 뭘 원해, 요나스? 엄마 말고, 아빠 말고. 너.
+JONAS: Isch will net sterben. Und isch will net feige sein. Beides gleichzeitig. Geht das?
+> 죽고 싶지 않아. 그리고 비겁하고 싶지도 않아. 둘 다 동시에. 그게 돼?
+LEON: Das ist keine feige Frage. Das ist die ehrlichste Frage, die es gibt. Komm nach Berlin. Wir reden.
+> 그건 비겁한 질문이 아니야. 세상에서 제일 정직한 질문이지. 베를린으로 와. 얘기하자.
+
+# 장면 1 — DIE GENERATIONENFRAGE
+HELENE: Dein Cousin kommt? Gut. Dann haben wir endlich eine echte Stimme. Nicht nur unsere alten Meinungen.
+> 사촌이 온다고요? 좋아요. 그럼 드디어 진짜 목소리를 듣겠네요. 우리 낡은 의견 말고.
+TOBI: Ick war bei der Bundeswehr. Freiwillig. Zwee Jahre. Marzahn, dann Kosovo.
+= Ich war bei der Bundeswehr. Freiwillig. Zwei Jahre. Marzahn, dann Kosovo.
+> 나 연방군에 있었어. 자원해서. 2년. 마르찬, 그다음 코소보.
+LEON: Das wusste ich nicht.
+> 그건 몰랐어요.
+TOBI: Keener weeß det. Ick red nich drüber. Aber ick weeß, wat 'ne Musterung is. Und wat Angst is, wenn man achtzehn is.
+= Keiner weiß das. Ich rede nicht drüber. Aber ich weiß, was eine Musterung ist. Und was Angst ist, wenn man achtzehn ist.
+> 아무도 몰라. 그 얘긴 안 해. 근데 신체검사가 뭔지는 알아. 그리고 열여덟에 느끼는 두려움이 뭔지도.
+SWETA: Ich komme aus einem Land mit Wehrpflicht. In Russland bedeutet die Armee: Du gehst rein als Junge und kommst raus als… etwas anderes. Oft Schlimmeres.
+> 전 징병제가 있는 나라 출신이에요. 러시아에서 군대란, 소년으로 들어가 나올 땐… 다른 게 돼요. 흔히 더 나쁜 것.
+HELENE: Deutschland ist nicht Russland.
+> 독일은 러시아가 아니에요.
+SWETA: Das sagen Sie oft, Helene. Und Sie haben recht. Aber eine Armee ist eine Armee. Man sollte nie leichtfertig jemanden hineinschicken.
+> 그 말 자주 하시네요, 헬레네. 그리고 맞아요. 근데 군대는 군대예요. 누군가를 가볍게 집어넣어선 안 돼요.
+JAN: Und man sollte auch nicht leichtfertig sagen: Verweigere. Es gibt Gründe, warum Länder sich verteidigen müssen. Frag die Ukraine.
+> 그리고 가볍게 «거부해»라고 말해서도 안 돼. 나라가 스스로를 지켜야 하는 이유가 있어. 우크라이나한테 물어봐.
+MIRA: Also seid ihr euch uneinig.
+> 그럼 다들 의견이 다르네요.
+JAN: Völlig. Und das ist gut. Wir sind eine Redaktion, kein Verein mit einer Meinung.
+> 완전히. 그리고 그게 좋은 거야. 우린 편집국이지 의견 하나 가진 동호회가 아니야.
+HELENE: Aber eins eint uns: Jonas soll selbst entscheiden. Mit guten Informationen. Nicht mit Angst.
+> 근데 하나는 우리를 묶어요. 요나스가 스스로 정해야 한다는 거. 좋은 정보로. 두려움이 아니라.
+LEON: Genau deshalb bringe ich ihn her. Damit er alle Seiten hört.
+> 바로 그래서 데려오는 거예요. 모든 입장을 듣게요.
+MIRA: Und wir müssen aufpassen, dass wir ihn nicht benutzen. Er ist kein Symbol. Er ist ein Junge mit einer Entscheidung.
+> 그리고 우리가 그 애를 이용하지 않게 조심해야 해요. 상징이 아니에요. 결정을 앞둔 소년이죠.
+HELENE: Guter Punkt, Mira. Wir schreiben nicht über Jonas. Jonas ist kein Artikel.
+> 좋은 지적이에요, 미라. 우린 요나스에 대해 쓰지 않아요. 요나스는 기삿거리가 아니에요.
+JAN: Aber Jonas' Frage ist ein Artikel. «Taugt die Ausrüstung, für die junge Menschen ihr Leben riskieren?» Die Frage gehört uns. Der Junge nicht.
+> 근데 요나스의 질문은 기사가 돼. «젊은이들이 목숨을 거는 그 장비는 쓸 만한가?» 그 질문은 우리 거야. 그 애는 아니고.
+SWETA: Die Grenze ist schmal. Zwischen einem Menschen zuhören und einen Menschen benutzen.
+> 경계가 좁아요. 사람의 말을 듣는 것과 사람을 이용하는 것 사이의.
+HELENE: Deshalb reden wir darüber. Immer. Bevor wir schreiben.
+> 그래서 우린 그걸 얘기해요. 늘. 쓰기 전에.
+
+# 장면 2 — JONAS IN BERLIN
+JONAS: Das ist also eine Redaktion. Isch dachte, es wäre größer. Und sauberer.
+> 이게 편집국이구나. 더 크고 깨끗할 줄 알았어.
+LEON: Willkommen im unabhängigen Journalismus, Jonas. Viel Herz, wenig Geld.
+> 독립 언론에 온 걸 환영한다, 요나스. 열정은 많고 돈은 적어.
+JAN: Du bist Jonas. Setz dich. Kaffee? Oder bist du zu jung für Kaffee?
+> 네가 요나스구나. 앉아. 커피? 아니면 커피 마시기엔 너무 어려?
+JONAS: Isch bin achtzehn. Alt genug für die Armee, aber zu jung für Kaffee?
+> 저 열여덟이에요. 군대 가기엔 충분히 늙고, 커피엔 너무 어려요?
+JAN: Guter Punkt. Das ist genau die richtige Frage für diesen Beruf.
+> 좋은 지적이야. 이 일에 딱 맞는 질문이네.
+JONAS: Isch hab den Fragebogen dabei. Den vom Bundesamt. Zwölf Seiten.
+> 설문지 가져왔어요. 연방청에서 온 거. 열두 쪽이요.
+MIRA: Zeig mal. «Sind Sie bereit, im Verteidigungsfall Dienst mit der Waffe zu leisten?» Frage drei.
+> 보여 줘. «유사시 무기를 들고 복무할 의향이 있습니까?» 3번 질문.
+JONAS: Und isch soll Ja oder Nein ankreuzen. Mit achtzehn. Über Krieg.
+> 그리고 예스나 노에 표시하래요. 열여덟에. 전쟁에 대해.
+SWETA: Das ist eine schwere Frage. Für jedes Alter. Ich kenne Männer von fünfzig, die sie nicht beantworten können.
+> 그건 어려운 질문이에요. 어느 나이든. 전 쉰 살인데도 답 못 하는 남자들을 알아요.
+JONAS: Und wenn isch Nein ankreuze? Was passiert dann?
+> 그럼 제가 노에 표시하면요? 어떻게 돼요?
+JAN: Nach dem jetzigen Gesetz: nichts Schlimmes. Du bist dann kein Freiwilliger. Aber das Gesetz kann sich ändern.
+> 지금 법으로는 나쁜 일 없어. 자원병이 안 되는 거지. 근데 법은 바뀔 수 있어.
+JONAS: «Das Gesetz kann sich ändern.» Alle sagen das. Was heißt das wirklich?
+> «법은 바뀔 수 있다.» 다들 그래요. 그게 진짜 무슨 뜻이에요?
+HELENE: Es heißt: Heute ist es freiwillig. Aber die Lage ist angespannt. Wenn sie sich verschärft, kann aus «freiwillig» schnell «verpflichtend» werden.
+> 이런 뜻이에요. 오늘은 자원이에요. 근데 상황이 긴장돼 있어요. 더 나빠지면 «자원»이 금세 «의무»가 될 수 있죠.
+JONAS: Und wer entscheidet, ob es «verpflichtend» wird?
+> 그럼 «의무»가 될지는 누가 정해요?
+HELENE: Der Bundestag. Mit einem Gesetz. In einer Spannungslage oder im Verteidigungsfall.
+> 연방의회요. 법으로. 긴장 상황이나 방위 상황에서.
+JONAS: Und wie nah sind wir an so einer Lage?
+> 그런 상황에 얼마나 가까워요?
+JAN: Niemand weiß das genau. Es gibt Sabotage, Drohnen über Militärbasen, Spionage. Die Lage ist ernster als vor zehn Jahren. Aber es ist kein Krieg.
+> 아무도 정확히 몰라. 사보타주, 군 기지 위 드론, 간첩이 있어. 상황이 10년 전보다 심각해. 근데 전쟁은 아니야.
+SWETA: «Kein Krieg, aber auch kein Frieden.» So nennt man das. Eine Grauzone. Und in Grauzonen verdienen manche Leute viel Geld.
+> «전쟁은 아니지만 평화도 아니다.» 그걸 그렇게 불러요. 회색 지대. 그리고 회색 지대에선 어떤 사람들이 큰돈을 벌죠.
+JONAS: Die Leute, über die ihr schreibt.
+> 형들이 쓰는 그 사람들이요.
+JAN: Genau die. Angst ist ein Geschäft. In jeder Branche. Auch bei der Verteidigung.
+> 바로 그 사람들. 두려움은 장사야. 모든 분야에서. 국방에서도.
+
+# 장면 3 — VIER MEINUNGEN, EIN JUNGE
+TOBI: Jonas, ick sag dir, wie et für mich war. Die Bundeswehr hat mir wat jejeben. Struktur. Freunde. Und 'n Beruf.
+= Jonas, ich sage dir, wie es für mich war. Die Bundeswehr hat mir was gegeben. Struktur. Freunde. Und einen Beruf.
+> 요나스, 나한텐 어땠는지 말해 줄게. 연방군이 나한테 뭔가를 줬어. 규율. 친구들. 그리고 직업.
+JONAS: Aber du warst im Kosovo. War das net gefährlich?
+> 근데 코소보에 계셨잖아요. 위험하지 않았어요?
+TOBI: Doch. Manchmal. Aber ick hab Menschen jeholfen. Und ick hab jesehen, wat passiert, wenn 'n Land sich nich wehren kann.
+= Doch. Manchmal. Aber ich habe Menschen geholfen. Und ich habe gesehen, was passiert, wenn ein Land sich nicht wehren kann.
+> 그래. 가끔. 근데 사람들을 도왔어. 그리고 나라가 스스로를 못 지키면 무슨 일이 생기는지 봤지.
+SWETA: Und ich habe gesehen, was passiert, wenn eine Armee zu mächtig wird. Wenn sie nach innen schaut statt nach außen.
+> 그리고 전 군대가 너무 강해지면 무슨 일이 생기는지 봤어요. 밖이 아니라 안을 볼 때요.
+JAN: Beides ist wahr. Eine Armee kann schützen. Und eine Armee kann gefährlich werden. Es kommt darauf an, wer sie kontrolliert.
+> 둘 다 사실이야. 군대는 지킬 수도 있어. 그리고 군대는 위험해질 수도 있고. 누가 통제하느냐에 달렸지.
+JONAS: Und wer kontrolliert sie in Deutschland?
+> 그럼 독일에선 누가 통제해요?
+HELENE: Das Parlament. Der Bundestag. Kein Soldat zieht ohne Beschluss des Parlaments in den Einsatz. Das ist eine Lehre aus der Geschichte.
+> 의회요. 연방의회. 어떤 군인도 의회 의결 없이는 작전에 나가지 않아요. 그건 역사에서 얻은 교훈이에요.
+JONAS: Und das Geld? Wer entscheidet, was gekauft wird? Die Waffen, die Drohnen?
+> 그럼 돈은요? 뭘 살지 누가 정해요? 무기, 드론?
+LEON: Das ist genau die Frage, an der wir gerade arbeiten, Jonas.
+> 그게 바로 우리가 지금 매달리는 질문이야, 요나스.
+JONAS: Ihr arbeitet an Rüstung? Isch dachte, ihr macht Mieten und Strom.
+> 형들 방산 취재해요? 전 임대료랑 전기 하는 줄 알았는데.
+JAN: Alles hängt zusammen. Miete, Strom, Rüstung. Überall, wo der Staat viel Geld ausgibt, gibt es Leute, die mitverdienen wollen.
+> 다 연결돼 있어. 임대료, 전기, 방산. 국가가 돈을 많이 쓰는 곳엔 어디든 같이 벌려는 사람들이 있어.
+JONAS: Auch bei den Drohnen? Bei den Waffen für die Bundeswehr?
+> 드론도요? 연방군 무기도요?
+MIRA: Wir prüfen gerade genau das. Ob eine Ausschreibung für ein Drohnenabwehrsystem manipuliert war.
+> 저희가 지금 바로 그걸 확인해요. 드론 방어 시스템 입찰이 조작됐는지.
+JONAS: Moment. Wenn isch zur Bundeswehr gehe, benutze isch dann vielleicht Waffen, die… die durch Bestechung gekauft wurden?
+> 잠깐만요. 제가 연방군에 가면, 그럼 어쩌면… 뇌물로 산 무기를 쓰게 되는 거예요?
+JAN: Das ist die beste Frage, die heute jemand gestellt hat.
+> 그게 오늘 누가 한 질문 중에 제일 좋은 질문이야.
+HELENE: Und sie zeigt, warum unsere Arbeit wichtig ist. Nicht abstrakt. Konkret. Für Jonas. Für jeden, der dient.
+> 그리고 그 질문은 우리 일이 왜 중요한지 보여 줘요. 추상적으로가 아니라. 구체적으로. 요나스를 위해. 복무하는 모든 사람을 위해.
+JONAS: Isch dachte immer, Journalismus ist Politik. Weit weg. Aber das hier ist… nah.
+> 전 늘 저널리즘이 정치인 줄 알았어요. 먼 데 있는. 근데 이건… 가까워요.
+JAN: Guter Journalismus ist immer nah. Er fängt bei einem Menschen an. Einer Oma, die ihre Heizung verliert. Einem Jungen, der nicht weiß, was er ankreuzen soll.
+> 좋은 저널리즘은 늘 가까워. 사람 하나에서 시작하지. 난방을 잃는 할머니. 뭘 표시할지 모르는 소년.
+LEON: Und von diesem einen Menschen aus sieht man das ganze System. Das habe ich hier gelernt.
+> 그리고 그 사람 하나에서 시스템 전체가 보여. 난 여기서 그걸 배웠어.
+JONAS: Vielleicht sollte isch auch Journalist werden. Statt Soldat.
+> 어쩌면 저도 기자가 돼야 할까 봐요. 군인 대신.
+JAN: Werd erst mal achtzehneinhalb. Dann reden wir weiter.
+> 일단 열여덟 반은 되고. 그다음에 더 얘기하자.
+
+# 장면 4 — DIE FRAGE DES JUNGEN
+JONAS: Isch meine es ernst. Wenn isch mein Leben riskiere und das Gerät, das misch schützen soll, taugt nix, weil jemand Geld verdienen wollte…
+> 진지하게 하는 말이에요. 제가 목숨을 거는데 절 지켜 줄 장비가 쓸모없으면, 누가 돈 벌려고 해서 그렇게 됐다면…
+SWETA: Dann riskierst du dein Leben zweimal. Einmal für dein Land. Und einmal für die Rendite von jemandem.
+> 그럼 넌 목숨을 두 번 거는 거야. 한 번은 나라를 위해. 한 번은 누군가의 수익을 위해.
+TOBI: Det is et, wat mich am meisten wütend macht. Wenn Jungs wie Jonas mit schlechtem Material in den Einsatz jehen. Weil eener jespart oder jetrickst hat.
+= Das ist es, was mich am meisten wütend macht. Wenn Jungs wie Jonas mit schlechtem Material in den Einsatz gehen. Weil einer gespart oder getrickst hat.
+> 그게 날 제일 화나게 하는 거야. 요나스 같은 애들이 나쁜 장비 들고 작전에 나가는 거. 누가 아끼거나 수작을 부려서.
+JONAS: Hast du schlechtes Material gehabt? Im Kosovo?
+> 아저씨도 나쁜 장비 썼어요? 코소보에서?
+TOBI: Manchmal. Funkjeräte, die nich jingen. Westen, die zu schwer waren. Und immer hieß et: «Kein Jeld.» Aber det Jeld war da. Et war nur woanders.
+= Manchmal. Funkgeräte, die nicht gingen. Westen, die zu schwer waren. Und immer hieß es: «Kein Geld.» Aber das Geld war da. Es war nur woanders.
+> 가끔. 안 되는 무전기. 너무 무거운 방탄복. 그리고 늘 «돈 없다»고 했지. 근데 돈은 있었어. 다른 데 있었을 뿐이지.
+JONAS: Wo war es?
+> 어디 있었어요?
+JAN: Das ist die Frage, die wir immer stellen, Jonas. Wo war das Geld wirklich? Und wer hat es bekommen?
+> 그게 우리가 늘 하는 질문이야, 요나스. 돈이 정말 어디 있었나? 그리고 누가 가져갔나?
+JONAS: Und findet ihr das immer raus? Wo das Geld war?
+> 그리고 형들은 늘 알아내요? 돈이 어디 있었는지?
+JAN: Nicht immer. Manchmal verlieren wir. Manchmal ist die Spur zu gut versteckt. Aber wir hören nie auf zu fragen.
+> 늘은 아니야. 가끔 져. 가끔 흔적이 너무 잘 숨겨져 있어. 근데 우린 묻기를 절대 멈추지 않아.
+JONAS: Das klingt anstrengend.
+> 그거 힘들게 들려요.
+TOBI: Et is anstrengend. Aber et is besser als wegsehen. Ick hab lange wegjesehen. Det macht müder als Fragen.
+= Es ist anstrengend. Aber es ist besser als wegsehen. Ich habe lange weggesehen. Das macht müder als Fragen.
+> 힘들어. 근데 눈 돌리는 것보단 나아. 난 오래 눈을 돌렸어. 그게 묻는 것보다 더 지치게 해.
+JONAS: Warum hast du weggesehen?
+> 왜 눈을 돌렸어요?
+TOBI: Weil et einfacher war. Bis meine Oma ihre Wohnung verlor. Da hab ick aufjehört wegzusehen. Für immer.
+= Weil es einfacher war. Bis meine Oma ihre Wohnung verlor. Da habe ich aufgehört wegzusehen. Für immer.
+> 더 쉬우니까. 우리 할머니가 집을 잃을 때까지. 그때 눈 돌리길 그만뒀어. 영원히.
+JONAS: Und jetzt fotografierst du für Gerechtigkeit.
+> 그리고 이제 정의를 위해 사진을 찍고요.
+TOBI: Ick fotografier, wat is. Ob det Jerechtigkeit is, entscheiden andere. Ick halt nur drauf.
+= Ich fotografiere, was ist. Ob das Gerechtigkeit ist, entscheiden andere. Ich halte nur drauf.
+> 난 있는 그대로를 찍어. 그게 정의인지는 다른 사람들이 정해. 난 그냥 셔터를 누를 뿐이야.
+HELENE: Und deshalb ist unsere Arbeit auch für dich wichtig. Auch wenn du nie zur Bundeswehr gehst. Denn es ist dein Steuergeld. Und vielleicht dein Leben.
+> 그래서 우리 일이 너한테도 중요한 거야. 네가 연방군에 안 가더라도. 네 세금이니까. 그리고 어쩌면 네 목숨이고.
+JONAS: Isch versteh das jetzt besser. Aber isch weiß immer noch net, was isch ankreuzen soll. Ja oder Nein.
+> 이제 더 잘 알겠어요. 근데 여전히 뭘 표시해야 할지 모르겠어요. 예스냐 노냐.
+JAN: Das müssen wir dir auch nicht sagen. Das ist deine Entscheidung. Wir geben dir nur die Informationen. Den Rest machst du.
+> 그건 우리가 말해 줄 것도 아니야. 네 결정이야. 우린 정보만 줘. 나머진 네가 하고.
+LEON: Aber eins kann ich dir sagen: Niemand hier verurteilt dich. Egal, was du ankreuzt.
+> 근데 하나는 말해 줄 수 있어. 여기 아무도 널 비난 안 해. 네가 뭘 표시하든.
+JONAS: Auch nicht Sweta? Sie ist gegen Armeen.
+> 스베타 씨도요? 군대에 반대하잖아요.
+SWETA: Ich bin nicht gegen Armeen, Jonas. Ich bin gegen Armeen ohne Kontrolle. Das ist ein Unterschied.
+> 난 군대에 반대하는 게 아니야, 요나스. 통제 없는 군대에 반대하는 거지. 그건 달라.
+JONAS: Und eine Armee mit Kontrolle?
+> 그럼 통제가 있는 군대는요?
+SWETA: Die kann ein Land schützen. Aber die Kontrolle muss echt sein. Ein Parlament, das wirklich fragt. Eine Presse, die wirklich prüft.
+> 나라를 지킬 수 있어. 근데 그 통제가 진짜여야 해. 진짜로 묻는 의회. 진짜로 확인하는 언론.
+JONAS: Und wenn die Presse nicht prüft?
+> 그럼 언론이 확인 안 하면요?
+SWETA: Dann kauft jemand Drohnen für vierhundert Millionen, die vielleicht nicht funktionieren. Und ein Junge wie du riskiert sein Leben dafür.
+> 그럼 누가 어쩌면 작동도 안 할 드론을 4억 유로에 사. 그리고 너 같은 소년이 그 때문에 목숨을 걸지.
+JONAS: Dann ist eure Arbeit Teil der Kontrolle.
+> 그럼 형들 일이 통제의 일부네요.
+HELENE: Genau. Die vierte Gewalt. So nennt man die Presse. Nach Parlament, Regierung und Gerichten.
+> 맞아. 제4부. 언론을 그렇게 불러. 의회, 정부, 법원 다음으로.
+JONAS: Die vierte Gewalt in einer Kneipe mit Apfelschorle.
+> 사과 탄산수 파는 선술집의 제4부라.
+LEON: Die beste Art von vierter Gewalt, Jonas.
+> 제4부 중에 최고지, 요나스.
+
+# 장면 5 — BRÜCKNER UND DER JUNGE
+ELKE: Setzt euch, setzt euch. Und der Junge kriegt 'ne Apfelschorle. Ohne Diskussion.
+= Setzt euch, setzt euch. Und der Junge kriegt eine Apfelschorle. Ohne Diskussion.
+> 앉아, 앉아. 그리고 꼬마는 사과 탄산수. 토 달지 말고.
+JONAS: Danke. Alle hier trinken Apfelschorle?
+> 고맙습니다. 여기 다들 사과 탄산수 마셔요?
+LEON: Nur die Schwaben. Und die, die wie Schwaben trinken.
+> 슈바벤 사람들만. 그리고 슈바벤처럼 마시는 사람들.
+BRÜCKNER: Ein neuer Schwabe! Komm her, Junge. Ick bin Heinz. Ick war bei der Bundeswehr, als ihr noch nich mal jeplant wart.
+= Ein neuer Schwabe! Komm her, Junge. Ich bin Heinz. Ich war bei der Bundeswehr, als ihr noch nicht mal geplant wart.
+> 새 슈바벤 친구네! 이리 와, 꼬마. 난 하인츠야. 너희가 계획도 되기 전에 연방군에 있었어.
+JONAS: Sie auch? Wann war das?
+> 아저씨도요? 언제요?
+BRÜCKNER: 1972. Wehrpflicht. Fünfzehn Monate. Ick hab Panzer jezählt und Formulare ausjefüllt. Danach wusste ick: Ick werde Steuerberater. Weniger jefährlich.
+= 1972. Wehrpflicht. Fünfzehn Monate. Ich habe Panzer gezählt und Formulare ausgefüllt. Danach wusste ich: Ich werde Steuerberater. Weniger gefährlich.
+> 1972년. 징병. 열다섯 달. 탱크 세고 서류 작성했지. 그 뒤에 알았어. 난 세무사가 되겠다고. 덜 위험하니까.
+JONAS: War es schlimm?
+> 힘들었어요?
+BRÜCKNER: Langweilig war et. Und ungerecht. Die Söhne von den Reichen hatten immer 'n Attest. «Nicht tauglich.» Die Söhne von den Arbeitern mussten ran.
+= Langweilig war es. Und ungerecht. Die Söhne von den Reichen hatten immer ein Attest. «Nicht tauglich.» Die Söhne von den Arbeitern mussten ran.
+> 지루했어. 그리고 불공평했지. 부잣집 아들들은 늘 진단서가 있었어. «복무 부적합.» 노동자 아들들은 가야 했고.
+JONAS: Ist das heute auch so?
+> 지금도 그래요?
+BRÜCKNER: Weeß ick nich. Aber frag deine Freunde von der Redaktion. Die finden so wat raus. Det is ihr Job.
+= Weiß ich nicht. Aber frag deine Freunde von der Redaktion. Die finden so was raus. Das ist ihr Job.
+> 몰라. 근데 편집국 친구들한테 물어봐. 그 사람들이 그런 걸 알아내. 그게 걔들 일이야.
+MIRA: Das ist eine gute Idee, Herr Brückner. Wer wird eigentlich gemustert, und wer nicht? Das könnte man prüfen.
+> 그거 좋은 생각이에요, 브뤼크너 씨. 누가 신체검사를 받고, 누가 안 받나? 그건 확인해 볼 수 있겠네요.
+JAN: Später. Erst Skyward. Eins nach dem anderen.
+> 나중에. 먼저 스카이워드. 하나씩.
+BRÜCKNER: Immer eins nach dem anderen. So macht ihr euch die Welt. Und so wird se auch 'n bisschen besser. Manchmal.
+= Immer eins nach dem anderen. So macht ihr euch die Welt. Und so wird sie auch ein bisschen besser. Manchmal.
+> 늘 하나씩. 너희는 그렇게 세상을 만들어 가지. 그리고 그렇게 세상이 조금 나아지기도 해. 가끔.
+
+# 장면 6 — DIE MUSTERUNG
+WEHRDIENSTBERATER: Herr Fischer? Jonas Fischer? Kommen Sie rein. Das hier ist nur das Vorgespräch. Keine Sorge.
+> 피셔 씨? 요나스 피셔 씨? 들어오세요. 이건 사전 면담일 뿐이에요. 걱정 마세요.
+JONAS: Darf mein Cousin mit rein? Er ist Journalist.
+> 사촌이 같이 들어가도 돼요? 기자예요.
+WEHRDIENSTBERATER: Ihr Cousin kann draußen warten. Das hier ist vertraulich. Aber keine Angst, ich erkläre Ihnen alles.
+> 사촌분은 밖에서 기다려 주세요. 이건 비밀이에요. 근데 겁내지 마세요, 다 설명해 드릴게요.
+JONAS: Isch hab eine Frage, bevor wir anfangen. Eine wichtige.
+> 시작하기 전에 질문이 있어요. 중요한 거요.
+WEHRDIENSTBERATER: Bitte.
+> 하세요.
+JONAS: Wenn isch diene und eine Drohnenabwehr benutze. Woher weiß isch, dass die gut ist? Dass sie nicht durch Tricks gekauft wurde?
+> 제가 복무하면서 드론 방어 시스템을 쓴다면요. 그게 좋은 건지 어떻게 알아요? 수작으로 산 게 아니란 걸요?
+WEHRDIENSTBERATER: Das ist eine… ungewöhnliche Frage. Die Beschaffung ist nicht mein Bereich. Wir prüfen Ihre Tauglichkeit, nicht die Technik.
+> 그건… 흔치 않은 질문이네요. 조달은 제 분야가 아니에요. 저흰 복무 가능 여부를 봐요, 장비가 아니라.
+JONAS: Aber jemand muss doch dafür verantwortlich sein. Dass die Technik gut ist.
+> 근데 누군가는 책임져야 하잖아요. 장비가 좋은지.
+WEHRDIENSTBERATER: Das ist das Beschaffungsamt. Und der Bundestag kontrolliert es. Und der Bundesrechnungshof prüft es.
+> 그건 조달청이에요. 그리고 연방의회가 통제하고. 연방감사원이 검사하고요.
+JONAS: Der Bundesrechnungshof. Prüft der auch, ob Ausschreibungen manipuliert wurden?
+> 연방감사원. 거기서 입찰이 조작됐는지도 검사해요?
+WEHRDIENSTBERATER: Das… ja, das tun sie. In ihren Berichten. Woher wissen Sie von solchen Dingen? Sie sind achtzehn.
+> 그건… 네, 해요. 보고서에서요. 그런 걸 어떻게 아세요? 열여덟이잖아요.
+JONAS: Isch hab Freunde, die Journalisten sind. Die bringen einem solche Fragen bei.
+> 기자인 친구들이 있어요. 그런 질문을 가르쳐 줘요.
+
+# 엔딩 — DER BUNDESRECHNUNGSHOF
+LEON: Und? Wie war es?
+> 그래서? 어땠어?
+JONAS: Isch hab noch nix angekreuzt. Der Berater sagt, isch hab Zeit. Vier Wochen.
+> 아직 아무것도 표시 안 했어. 상담관이 시간 있대. 4주.
+LEON: Gut. Dann überlegst du in Ruhe.
+> 좋아. 그럼 천천히 생각해.
+JONAS: Aber isch hab was gelernt. Der Berater hat gesagt: Der Bundesrechnungshof prüft, ob bei der Beschaffung alles sauber war.
+> 근데 뭘 배웠어. 상담관이 그랬어. 연방감사원이 조달이 다 깨끗했는지 검사한대.
+JAN: Das hat er gesagt?
+> 그렇게 말했어?
+JONAS: Wörtlich. Und isch hab gedacht: Wenn die das prüfen, dann gibt es vielleicht einen Bericht. Über Skyward.
+> 그대로요. 그리고 생각했어요. 거기서 검사한다면 보고서가 있을지도 모른다고. 스카이워드에 대한.
+MIRA: Jonas. Das ist… ein guter Gedanke. Ich habe nach dem Skyward-Vertrag gesucht. Aber nicht nach einem Rechnungshof-Bericht.
+> 요나스. 그건… 좋은 생각이야. 난 스카이워드 계약을 찾아봤어. 근데 감사원 보고서는 안 찾아봤어.
+JAN: Gibt es einen?
+> 있어?
+MIRA: Der letzte Prüfbericht des Bundesrechnungshofs zum Sondervermögen ist letzte Woche erschienen. Vierhundert Seiten. Und ich habe ihn noch nicht gelesen.
+> 특별기금에 관한 연방감사원 최신 감사 보고서가 지난주에 나왔어요. 400쪽. 그리고 전 아직 안 읽었어요.
+JAN: Dann lesen wir ihn. Alle. Heute Nacht. Jonas, du hast uns gerade die nächste Spur gegeben.
+> 그럼 읽자. 다 같이. 오늘 밤에. 요나스, 너 방금 우리한테 다음 단서를 줬어.
+JONAS: Isch? Isch wollte doch nur wissen, was isch ankreuzen soll.
+> 제가요? 전 그냥 뭘 표시할지 알고 싶었을 뿐인데.
+LEON: So fängt es immer an, Jonas. Mit einer einfachen Frage, auf die niemand eine gute Antwort hat.
+> 늘 그렇게 시작해, 요나스. 아무도 좋은 답을 못 주는 단순한 질문 하나로.
+JONAS: Und was kreuze isch jetzt an? Im Fragebogen?
+> 그럼 저 이제 뭘 표시해요? 설문지에?
+JAN: Das weißt nur du. Aber du kreuzt es mit offenen Augen an. Das ist mehr, als die meisten tun.
+> 그건 너만 알아. 근데 넌 눈을 뜨고 표시하는 거야. 대부분이 하는 것보다 나은 거지.
+JONAS: Isch glaube, isch kreuze erst mal gar nix an. Isch warte die vier Wochen. Und isch lese diesen Rechnungshof-Bericht. Mit euch.
+> 전 일단 아무것도 표시 안 할래요. 4주를 기다릴래요. 그리고 그 감사원 보고서를 읽을래요. 형들이랑.
+MIRA: Du willst einen vierhundert Seiten langen Prüfbericht lesen? Freiwillig?
+> 400쪽짜리 감사 보고서를 읽겠다고? 자원해서?
+JONAS: Freiwillig. Das erste Mal, dass isch wirklich «freiwillig» sage. Und es fühlt sich gut an.
+> 자원해서요. 제가 진짜로 «자원해서»라고 말하는 건 처음이에요. 그리고 기분이 좋아요.
+HELENE: Dann hol dir einen Kaffee, Jonas. Du bist jetzt alt genug. Und wir lesen die ganze Nacht.
+> 그럼 커피 한 잔 가져와, 요나스. 이제 충분히 나이 들었어. 그리고 우린 밤새 읽는 거야.
