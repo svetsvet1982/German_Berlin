@@ -1,0 +1,373 @@
+@part 5
+@ep 2
+@title Charité, Notaufnahme
+@sub 샤리테 응급실 · "서류상으로는 다 돌봄을 받고 있는데"
+@info 대사 150턴 · 난이도 B2+ · 배경: 2028년 5월, 샤리테 미테 캠퍼스 응급실·휴게실·병동, 엘케의 선술집
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast ELKE | 엘케 (58) · 선술집 주인 (베를린 사투리)
+@cast AYLIN | 아일린 야만 (34) · 샤리테 응급실 간호사
+@cast HORST | 호르스트 렘케 (84) · 엘케의 단골
+@cast LEON | 레온 피셔 (24) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast ROTH | 로트 박사 (51) · 응급실 과장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@note ※ 응급실 간호사 아일린이 "요즘 이런 환자가 너무 많다"고 말한다. 배경: 병원 개혁(Krankenhausreform)에 따른 지역 병원 통합·폐원 논쟁, 간병 인력난, 과중한 교대 근무. 환자 정보 보호(의료 비밀)와 공익 제보의 경계를 다룬다. 등장 인물 가상.
+@note ※ 표현 초점: die Notaufnahme · der Pflegenotstand · die Krankenhausreform · die Schicht · die Überlastung · die Schweigepflicht
+@next 5부 3화 — «Abrechnung»(청구) — 미라가 간병보험 청구 구조를 파고들고, 은퇴한 보험 감사관을 만난다.
+
+# 콜드 오픈 — HALB SIEBEN
+AYLIN: Herr Kowalczyk? Elke hat gesagt, Sie kommen. Ich habe zwölf Minuten. Dann fängt meine Schicht an.
+> 코발치크 씨? 엘케가 오실 거라고 했어요. 12분 있어요. 그다음 근무 시작이에요.
+JAN: Zwölf Minuten reichen für den Anfang. Danke, dass Sie gekommen sind.
+> 시작으론 12분이면 충분해요. 와 주셔서 고마워요.
+AYLIN: Ich komme nicht wegen Ihnen. Ich komme wegen Herrn Lemke. Und wegen der anderen.
+> 당신 때문에 온 거 아니에요. 렘케 씨 때문에. 그리고 다른 분들 때문에.
+JAN: Welche anderen?
+> 다른 분들이요?
+AYLIN: Die, die so aussehen wie er, wenn sie hier ankommen. Ausgetrocknet. Wundgelegen. Blutzucker irgendwo bei sechshundert. Und dann frage ich: Haben Sie einen Pflegedienst? Und sie sagen: Ja.
+> 여기 도착할 때 그분처럼 보이는 분들이요. 탈수되고. 욕창 생기고. 혈당은 600 근처. 그리고 제가 물어요. 요양 업체 있으세요? 그러면 그래요: 네.
+JAN: Wie oft passiert das?
+> 얼마나 자주 그래요?
+AYLIN: Früher einmal im Vierteljahr. Seit letztem Herbst fast jede Woche.
+> 예전엔 분기에 한 번. 지난가을부터는 거의 매주.
+JAN: Was hat sich im Herbst geändert?
+> 가을에 뭐가 바뀌었는데요?
+AYLIN: Das St.-Agnes-Krankenhaus in Reinickendorf hat seine Innere geschlossen. Wegen der Reform. Seitdem kommen alle zu uns. Und die Pflegedienste sind plötzlich überall, wo das Krankenhaus fehlt.
+> 라이니켄도르프 성 아그네스 병원이 내과를 닫았어요. 개혁 때문에. 그 뒤로 다 우리한테 와요. 그리고 병원이 빠진 자리마다 갑자기 요양 업체가 생겼고요.
+JAN: Gleiche Pflegedienste?
+> 같은 업체들이요?
+AYLIN: Das sage ich Ihnen nicht hier. Nicht auf dem Flur. Kommen Sie heute Abend um zehn ins Café gegenüber. Wenn ich bis dahin nicht umgefallen bin.
+> 여기선 말 안 해요. 복도에선. 오늘 밤 10시에 맞은편 카페로 오세요. 그때까지 제가 쓰러지지 않으면.
+
+# 장면 1 — HORST WACHT AUF
+ELKE: Na, du alter Sturkopp. Biste wach?
+= Na, du alter Sturkopf. Bist du wach?
+> 어이, 이 고집쟁이 영감. 깼어?
+HORST: Wo bin ick? Dit is nich meine Decke.
+= Wo bin ich? Das ist nicht meine Decke.
+> 여기 어디야? 내 이불이 아닌데.
+ELKE: Charité. Seit zwee Tagen. Du hast uns 'n Schreck injejagt.
+= Charité. Seit zwei Tagen. Du hast uns einen Schreck eingejagt.
+> 샤리테. 이틀째. 너 우리 간 떨어지게 했어.
+HORST: Zwee Tage uff'm Boden, zwee Tage im Bett. Allet in Zweiern. Wie beim Skat.
+= Zwei Tage auf dem Boden, zwei Tage im Bett. Alles in Zweiern. Wie beim Skat.
+> 이틀 바닥, 이틀 침대. 다 두 개씩. 스카트처럼.
+LEON: Guten Tag, Herr Lemke. Ich bin Leon. Ich habe Ihnen ein Skatblatt mitgebracht.
+> 안녕하세요, 렘케 씨. 레온이에요. 스카트 카드 가져왔어요.
+HORST: Een Schwabe. Ick hör dit. Könnt ihr Schwaben überhaupt Skat?
+= Ein Schwabe. Ich höre das. Könnt ihr Schwaben überhaupt Skat?
+> 슈바벤 사람이네. 들려. 너희 슈바벤 사람들이 스카트를 할 줄은 알아?
+LEON: Mir spielet Binokel. Aber i lern schnell.
+= Wir spielen Binokel. Aber ich lerne schnell.
+> 저흰 비노켈 해요. 근데 빨리 배워요.
+HORST: Binokel. Jott steh mir bei. Setz dich, Junge.
+= Binokel. Gott steh mir bei. Setz dich, Junge.
+> 비노켈. 하느님 맙소사. 앉아, 젊은이.
+ELKE: Horst, eene Frage. Wer kommt sonst morgens zu dir? Von Sonnenhof?
+= Horst, eine Frage. Wer kommt sonst morgens zu dir? Von Sonnenhof?
+> 호르스트, 하나만. 평소에 아침에 누가 와? 조넨호프에서?
+HORST: Mal 'ne Junge. Mal keener. Die Junge war nett. Spricht kaum Deutsch. Hat mir jezeigt, wie man unterschreibt. Uff so 'nem Blatt. Für die janze Woche.
+= Mal eine Junge. Mal keiner. Die Junge war nett. Spricht kaum Deutsch. Hat mir gezeigt, wie man unterschreibt. Auf so einem Blatt. Für die ganze Woche.
+> 가끔 젊은 여자. 가끔 아무도. 그 젊은 여잔 친절했어. 독일어는 거의 못 하고. 서명하는 법을 알려 줬어. 그런 종이에. 한 주 치를 통째로.
+LEON: Für die ganze Woche? Im Voraus?
+> 한 주 치요? 미리요?
+HORST: Sie hat jesacht, dit is so üblich. Damit ick nich jeden Tag meine Brille suchen muss.
+= Sie hat gesagt, das ist so üblich. Damit ich nicht jeden Tag meine Brille suchen muss.
+> 원래 그렇게 한대. 내가 매일 안경 안 찾아도 되게.
+ELKE: Und du hast dit jemacht.
+= Und du hast das gemacht.
+> 그리고 넌 그렇게 했고.
+HORST: Ick bin vierundachtzig, Elke. Wenn 'ne nette Frau mir sacht, dit is üblich, denn is dit üblich.
+= Ich bin vierundachtzig, Elke. Wenn eine nette Frau mir sagt, das ist üblich, dann ist das üblich.
+> 난 여든넷이야, 엘케. 친절한 여자가 원래 그렇다고 하면, 원래 그런 거지.
+LEON: Das ist nicht Ihre Schuld, Herr Lemke. Überhaupt nicht.
+> 렘케 씨 잘못이 아니에요. 전혀요.
+HORST: Weeß ick. Aber 't fühlt sich so an. Jib die Karten her. Ick will jetzt nich mehr reden. Ick will jewinnen.
+= Weiß ich. Aber es fühlt sich so an. Gib die Karten her. Ich will jetzt nicht mehr reden. Ich will gewinnen.
+> 알아. 근데 그렇게 느껴져. 카드 줘. 이제 그만 얘기하고 싶어. 이기고 싶어.
+
+# 장면 1-2 — SKAT AM KRANKENBETT
+HORST: So. Achtzehn. Sagste wat?
+= So. Achtzehn. Sagst du was?
+> 자. 18. 뭐라고 할 거야?
+LEON: Zwanzig?
+> 20?
+HORST: Zwanzig, sacht er. Mit dem Blatt. Junge, du reizt wie 'n Schwabe. Vorsichtig.
+= Zwanzig, sagt er. Mit dem Blatt. Junge, du reizt wie ein Schwabe. Vorsichtig.
+> 20이래. 그 패로. 젊은이, 슈바벤 사람처럼 부르네. 조심스럽게.
+LEON: Wie reizt man denn als Berliner?
+> 베를린 사람은 어떻게 부르는데요?
+HORST: Laut. Und denn kuckt man, ob der andere zittert.
+= Laut. Und dann guckt man, ob der andere zittert.
+> 크게. 그리고 상대가 떠는지 보는 거지.
+LEON: Herr Lemke, darf ich Sie etwas fragen? Nicht als Journalist. Als Skatpartner.
+> 렘케 씨, 하나 여쭤봐도 돼요? 기자로 말고. 스카트 상대로.
+HORST: Als Skatpartner darfste allet. Als Journalist nur die Hälfte.
+= Als Skatpartner darfst du alles. Als Journalist nur die Hälfte.
+> 스카트 상대로는 다 돼. 기자로는 반만.
+LEON: Hatten Sie Angst, als Sie auf dem Boden lagen?
+> 바닥에 누워 계실 때 무서우셨어요?
+HORST: Am ersten Tag nich. Da dacht ick, gleich kommt die vom Dienst. Am zweeten Tag ja. Da hab ick jemerkt, dass keener kommt. Dit is 'n anderer Hunger als der im Bauch.
+= Am ersten Tag nicht. Da dachte ich, gleich kommt die vom Dienst. Am zweiten Tag ja. Da habe ich gemerkt, dass keiner kommt. Das ist ein anderer Hunger als der im Bauch.
+> 첫날은 아니었어. 곧 업체 사람이 올 줄 알았지. 둘째 날엔 무서웠어. 아무도 안 온다는 걸 알았거든. 그건 배고픔이랑은 다른 허기야.
+LEON: Darf ich diesen Satz aufschreiben? Später. Wenn Sie es erlauben.
+> 그 문장 적어도 될까요? 나중에. 허락하시면.
+HORST: Schreib. Aber erst spielste aus. Und Junge — du hast den Kreuzbuben. Ick seh dit an deinem Jesicht.
+= Schreib. Aber erst spielst du aus. Und Junge — du hast den Kreuzbuben. Ich sehe das an deinem Gesicht.
+> 적어. 근데 먼저 카드 내. 그리고 젊은이 — 너 클로버 잭 있지. 얼굴에 다 보여.
+LEON: Woher wissen Sie das?
+> 어떻게 아세요?
+HORST: Weil du ehrlich kuckst. Dit is beim Skat 'n Nachteil. Im Leben nich.
+= Weil du ehrlich guckst. Das ist beim Skat ein Nachteil. Im Leben nicht.
+> 네가 정직하게 쳐다보니까. 스카트에선 약점이지. 인생에선 아니고.
+
+# 장면 2 — DER STATIONSARZT
+ROTH: Sie sind der Journalist? Elke hat Sie angekündigt. Ich bin Dr. Roth, ich leite die Notaufnahme. Ich sage Ihnen gleich: Über Patienten sage ich nichts. Schweigepflicht.
+> 기자세요? 엘케가 말했어요. 응급실 과장 로트예요. 미리 말씀드리죠. 환자에 대해선 아무 말도 안 해요. 비밀유지 의무.
+JAN: Das verstehe ich. Ich frage nicht nach Patienten. Ich frage nach Ihrer Notaufnahme.
+> 이해해요. 환자에 대해 묻는 게 아니에요. 응급실에 대해 묻는 거예요.
+ROTH: Meine Notaufnahme ist voll. Seit Monaten. Wir hatten letzte Nacht vierzehn Patienten auf dem Flur.
+> 우리 응급실은 꽉 찼어요. 몇 달째. 어젯밤 복도에 환자가 열넷 있었어요.
+JAN: Wegen der Krankenhausreform?
+> 병원 개혁 때문에요?
+ROTH: Die Reform hat richtige Ziele. Weniger kleine Häuser, die alles ein bisschen machen, mehr Zentren, die etwas richtig können. Aber die Übergangszeit ist brutal. Die Kleinen schließen schneller, als die Großen wachsen.
+> 개혁 목표는 옳아요. 전부 조금씩 하는 작은 병원은 줄이고, 뭘 제대로 하는 센터는 늘리고. 근데 과도기가 잔인해요. 작은 데가 닫히는 속도가 큰 데가 크는 속도보다 빨라요.
+JAN: Die Kleinen müssen weg, damit die Großen… Entschuldigung. Ein Satz, der mich gerade verfolgt.
+> 작은 데가 없어져야 큰 데가… 죄송해요. 요즘 저를 따라다니는 문장이라서.
+ROTH: Bei uns ist es kein Plan, sondern ein Loch. Und in dieses Loch strömen ambulante Dienste. Manche gut. Manche… sagen wir: geschäftstüchtig.
+> 우리 쪽은 계획이 아니라 구멍이에요. 그리고 그 구멍으로 방문 서비스들이 쏟아져 들어와요. 좋은 데도 있고. 어떤 덴… 말하자면: 장사 수완이 좋죠.
+JAN: Darf ich Sie damit zitieren?
+> 그 말 인용해도 될까요?
+ROTH: Mit «geschäftstüchtig» nicht. Mit dem Loch ja. Das Loch ist kein Geheimnis.
+> «장사 수완»은 안 돼요. 구멍은 돼요. 구멍은 비밀이 아니니까.
+JAN: Und wie geht es Ihren Leuten? Den Pflegekräften?
+> 그리고 직원들은 어때요? 간호 인력은?
+ROTH: Fragen Sie Frau Yaman. Sie arbeitet seit drei Wochen ohne einen freien Sonntag. Und sie ist nicht die Einzige.
+> 야만 씨한테 물어보세요. 3주째 쉬는 일요일 없이 일해요. 그리고 그녀만 그런 게 아니에요.
+JAN: Danke, Dr. Roth. Eine letzte Frage. Haben Sie schon einmal einen Pflegedienst angezeigt?
+> 고마워요, 로트 박사님. 마지막 질문. 요양 업체를 고발해 본 적 있으세요?
+ROTH: Wir melden Verdacht auf Vernachlässigung ans Gesundheitsamt. Was dann passiert, erfahren wir fast nie. Es ist, als würde man Briefe in einen Brunnen werfen.
+> 방치가 의심되면 보건소에 신고해요. 그다음 어떻게 되는지는 거의 몰라요. 우물에 편지 던지는 것 같아요.
+
+# 장면 3 — DAS CAFÉ GEGENÜBER
+AYLIN: Ich habe zwanzig Minuten. Dann muss ich schlafen. Morgen Frühdienst.
+> 20분 있어요. 그다음 자야 해요. 내일 아침 근무.
+JAN: Dann bestellen Sie, was Sie wollen, und ich höre zu.
+> 그럼 원하시는 거 시키세요, 전 들을게요.
+AYLIN: Pfefferminztee. Kaffee wirkt bei mir seit Jahren nicht mehr.
+> 페퍼민트 차요. 커피는 몇 년째 안 들어요.
+JAN: Sie haben gesagt: fast jede Woche. Haben Sie sich die Fälle gemerkt?
+> 거의 매주라고 하셨죠. 사례들을 기억하세요?
+AYLIN: Ich habe sie aufgeschrieben. Nicht die Namen. Nur das Alter, das Datum, den Zustand. Und den Pflegedienst, wenn die Patienten ihn wussten.
+> 적어 뒀어요. 이름 말고. 나이, 날짜, 상태만. 그리고 환자가 알면 요양 업체도.
+JAN: Warum?
+> 왜요?
+AYLIN: Weil ich irgendwann dachte: Ich bilde mir das ein. Ich bin müde, ich sehe Muster, wo keine sind. Und dann habe ich angefangen zu zählen. Zahlen sind nicht müde.
+> 어느 순간 생각했거든요. 내가 착각하나. 피곤해서 없는 패턴을 보나. 그래서 세기 시작했어요. 숫자는 안 피곤하니까.
+JAN: Das ist der klügste Satz, den ich diese Woche gehört habe.
+> 이번 주에 들은 가장 현명한 말이에요.
+AYLIN: Sagen Sie das nicht. Klug wäre gewesen, es früher jemandem zu zeigen.
+> 그런 말 마세요. 현명했다면 더 일찍 누군가에게 보여 줬겠죠.
+JAN: Warum haben Sie es nicht getan?
+> 왜 안 하셨어요?
+AYLIN: Schweigepflicht. Angst um meinen Job. Und weil ich nach zwölf Stunden Schicht nicht mehr die Kraft habe, gegen irgendwas zu kämpfen. Nur noch fürs Duschen.
+> 비밀유지 의무. 일자리 걱정. 그리고 12시간 근무 뒤엔 뭐랑 싸울 힘이 없어요. 샤워할 힘만 남아요.
+JAN: Ich will Sie nicht in Gefahr bringen. Ich brauche keine Namen von Patienten. Ich brauche keine Akten aus dem Krankenhaus. Ich brauche nur zu wissen, wo ich suchen muss.
+> 당신을 위험에 빠뜨리고 싶지 않아요. 환자 이름 필요 없어요. 병원 기록도 필요 없어요. 어디를 찾아야 하는지만 알면 돼요.
+AYLIN: Das hat Elke auch gesagt. «Der Jan nimmt nur, was er braucht, und den Rest lässt er liegen.»
+> 엘케도 그렇게 말했어요. «얀은 필요한 것만 가져가고 나머진 놔둬.»
+
+# 장면 4 — WAS IST ERLAUBT?
+KATRIN: Jan, bevor du die Liste nimmst: Wir müssen klären, was das ist. Rechtlich.
+> 얀, 그 목록 받기 전에. 그게 뭔지 정리해야 해. 법적으로.
+JAN: Deshalb bist du hier.
+> 그래서 네가 여기 있는 거지.
+KATRIN: Frau Yaman, Sie sind an die Schweigepflicht gebunden. Paragraf zweihundertdrei Strafgesetzbuch. Wenn Sie Patientengeheimnisse weitergeben, machen Sie sich strafbar.
+> 야만 씨, 당신은 비밀유지 의무에 묶여 있어요. 형법 203조. 환자 비밀을 넘기면 처벌받아요.
+AYLIN: Ich weiß. Deshalb stehen keine Namen drauf.
+> 알아요. 그래서 이름이 없어요.
+KATRIN: Gut. Aber ein Alter, ein Datum und eine Straße können zusammen eine Person erkennbar machen. Darf ich die Liste sehen, ohne sie anzufassen?
+> 좋아요. 근데 나이, 날짜, 거리가 합쳐지면 사람을 알아볼 수 있게 돼요. 만지지 않고 목록 봐도 될까요?
+AYLIN: Bitte.
+> 보세요.
+KATRIN: Keine Straßen. Nur Bezirke. Alter in Fünferschritten. Gut gemacht. Das ist schon fast anonymisiert.
+> 거리 없음. 구만. 나이는 5세 단위. 잘하셨어요. 거의 익명화돼 있네요.
+AYLIN: Ich habe mal einen Datenschutzkurs gemacht. Pflichtfortbildung. Das einzige Mal, dass ich dabei nicht eingeschlafen bin.
+> 개인정보 보호 교육 받은 적 있어요. 의무 연수. 안 졸았던 유일한 때예요.
+KATRIN: Und die Namen der Pflegedienste sind keine Patientengeheimnisse. Das sind Unternehmen. Die darf man nennen.
+> 그리고 요양 업체 이름은 환자 비밀이 아니에요. 기업이죠. 말해도 돼요.
+JAN: Und wenn das Krankenhaus fragt, woher wir das wissen?
+> 병원이 우리가 어디서 알았냐고 물으면요?
+KATRIN: Dann gilt Quellenschutz. Paragraf dreiundfünfzig Strafprozessordnung. Ihr müsst nicht sagen, woher. Und Frau Yaman, Sie haben einen Missstand gemeldet, der Menschenleben gefährdet. Dafür gibt es inzwischen das Hinweisgeberschutzgesetz.
+> 그럼 취재원 보호가 적용돼. 형사소송법 53조. 어디서인지 말할 필요 없어. 그리고 야만 씨, 당신은 사람 목숨을 위협하는 폐해를 알린 거예요. 그걸 위해 요즘은 공익제보자 보호법이 있어요.
+AYLIN: Es gibt ein Gesetz für Leute wie mich?
+> 저 같은 사람을 위한 법이 있어요?
+KATRIN: Seit ein paar Jahren. Es ist nicht perfekt. Aber es ist da. Und ich erkläre es Ihnen gern. Kostenlos.
+> 몇 년 전부터. 완벽하진 않아요. 근데 있어요. 기꺼이 설명해 드릴게요. 무료로.
+
+# 장면 5 — ZWÖLF STUNDEN
+JAN: Frau Yaman, darf ich Sie etwas fragen, das nichts mit der Liste zu tun hat?
+> 야만 씨, 목록이랑 상관없는 거 하나 여쭤봐도 돼요?
+AYLIN: Wenn es schnell geht.
+> 빨리 끝나면요.
+JAN: Warum machen Sie diesen Beruf noch?
+> 왜 아직 이 일을 하세요?
+AYLIN: Das fragt mich jeder. Meine Mutter, meine Freundinnen, mein Vermieter. Die ehrliche Antwort ist: Weil ich gut darin bin. Und weil, wenn ich gehe, die Lücke noch größer wird.
+> 다들 물어요. 엄마도, 친구들도, 집주인도. 솔직한 답은: 잘하니까요. 그리고 제가 떠나면 구멍이 더 커지니까.
+JAN: Wie groß ist die Lücke?
+> 구멍이 얼마나 커요?
+AYLIN: Auf meiner Station fehlen sechs Vollzeitstellen. Sechs. Wir sind eigentlich achtzehn. Wir sind zwölf. Und zwei davon sind Leasingkräfte, die jede Woche wechseln.
+> 우리 병동에 정규직 여섯 자리가 비어요. 여섯. 원래 열여덟인데. 열둘이에요. 그중 둘은 매주 바뀌는 파견 인력이고.
+JAN: Und die Leute, die gehen — wohin gehen sie?
+> 떠나는 사람들은 — 어디로 가요?
+AYLIN: Manche in die Schweiz. Manche in Teilzeit. Und manche — das tut am meisten weh — zu genau den Pflegediensten, über die wir reden. Die zahlen Prämien. Fünftausend Euro Wechselbonus.
+> 일부는 스위스로. 일부는 시간제로. 그리고 일부는 — 이게 제일 아파요 — 바로 우리가 얘기하는 그 요양 업체로. 장려금을 줘요. 이직 보너스 5천 유로.
+JAN: Fünftausend Euro. Woher hat ein Pflegedienst so viel Geld für Prämien?
+> 5천 유로. 요양 업체가 장려금으로 그 돈을 어디서 내요?
+AYLIN: Das habe ich mich auch gefragt. Ich habe gedacht: Entweder sind die genial. Oder die rechnen Dinge ab, die nie passiert sind.
+> 저도 그게 궁금했어요. 생각했죠. 천재거나. 아니면 일어나지 않은 걸 청구하거나.
+JAN: Die zweite Möglichkeit erklärt auch Herrn Lemke.
+> 두 번째 가능성이 렘케 씨도 설명하네요.
+AYLIN: Ja. Und das macht mich wütend. Wir arbeiten zwölf Stunden für echte Patienten. Und jemand anders verdient Geld mit erfundenen.
+> 네. 그리고 그게 화나요. 우린 진짜 환자를 위해 12시간 일해요. 그리고 다른 누군가는 지어낸 환자로 돈을 벌어요.
+
+# 장면 6 — BEI ELKE, NACH MITTERNACHT
+ELKE: Na, Aylin, haste ihm allet erzählt? Denn kriegste jetzt 'ne Soljanka. Uff Kosten des Hauses.
+= Na, Aylin, hast du ihm alles erzählt? Dann kriegst du jetzt eine Soljanka. Auf Kosten des Hauses.
+> 어, 아일린, 다 얘기했어? 그럼 이제 솔랸카 먹어. 가게가 쏜다.
+AYLIN: Elke, du bist die Einzige in Berlin, die um ein Uhr nachts noch Suppe macht.
+> 엘케, 새벽 1시에 아직 수프 끓이는 사람은 베를린에서 당신뿐이에요.
+ELKE: Weil um eens die Leute kommen, die keener sieht. Pflegerinnen, Taxifahrer, Bäcker. Die Stadt, die nachts arbeitet.
+= Weil um eins die Leute kommen, die keiner sieht. Pflegerinnen, Taxifahrer, Bäcker. Die Stadt, die nachts arbeitet.
+> 새벽 1시엔 아무도 안 보는 사람들이 오니까. 간호사, 택시 기사, 제빵사. 밤에 일하는 도시.
+MIRA: Ich habe die Liste digitalisiert. Ohne Bezirke, nur Monate und Dienste. Darf ich vorlesen?
+> 목록 디지털화했어요. 구 빼고, 월과 업체만. 읽어도 돼요?
+JAN: Lies.
+> 읽어.
+MIRA: Seit Oktober achtundzwanzig Fälle. Bei elf ist kein Dienst bekannt. Bei siebzehn ist einer bekannt.
+> 10월부터 28건. 11건은 업체 미상. 17건은 업체를 알아요.
+HELENE: Und von den siebzehn?
+> 그럼 17건 중에서?
+MIRA: Sechs bei verschiedenen kleinen Diensten. Elf bei Mitgliedern von Pflege Plus Berlin. Sonnenhof viermal. Dazu «Lebensabend Mitte», «Pflegeteam Nord» und «Herbstzeit Spandau».
+> 6건은 여러 작은 업체. 11건은 Pflege Plus Berlin 회원사. 조넨호프 4번. 그리고 «Lebensabend Mitte», «Pflegeteam Nord», «Herbstzeit Spandau».
+JAN: Elf. Wie viele Patienten hat Pflege Plus insgesamt in Berlin?
+> 11건. Pflege Plus는 베를린에 환자가 모두 몇 명이야?
+MIRA: Laut eigener Werbung etwa dreitausend. Damit wären sie ungefähr ein Zehntel der ambulanten Pflege im Norden.
+> 자체 광고로는 약 3천 명. 그러면 북부 방문간병의 약 10분의 1이에요.
+HELENE: Ein Zehntel der Patienten, aber zwei Drittel der bekannten Fälle. Das ist kein Zufall mehr.
+> 환자는 10분의 1인데 알려진 사례의 3분의 2. 더는 우연이 아니네요.
+JAN: Vorsicht. Das ist die Liste einer einzigen Pflegerin in einer einzigen Notaufnahme. Das ist ein Hinweis. Kein Beweis.
+> 조심해. 이건 응급실 하나, 간호사 한 명의 목록이야. 단서야. 증거가 아니라.
+AYLIN: Das weiß ich. Deshalb habe ich es Hinweis genannt.
+> 알아요. 그래서 단서라고 불렀어요.
+
+# 장면 6-2 — DIE GEGENPROBE
+JAN: Bevor wir weitermachen: Was spricht gegen die Liste? Ich will die Gegenargumente hören. Jetzt, nicht wenn Pflege Plus sie uns entgegenhält.
+> 계속하기 전에: 목록에 반하는 건 뭐야? 반론을 듣고 싶어. 지금. Pflege Plus가 들이밀 때 말고.
+MIRA: Erstens: Die Charité Mitte bekommt vor allem Patienten aus dem Norden. Wenn Pflege Plus im Norden stark ist, sehen wir dort natürlich mehr ihrer Patienten.
+> 첫째: 샤리테 미테는 주로 북부 환자를 받아요. Pflege Plus가 북부에서 강하면 당연히 그 환자를 더 많이 보죠.
+HELENE: Guter Einwand. Aber ein Zehntel bleibt ein Zehntel. Auch im Norden.
+> 좋은 반론. 근데 10분의 1은 10분의 1이야. 북부에서도.
+MIRA: Zweitens: Große Dienste übernehmen schwierigere Patienten. Pflegegrad drei und mehr. Die stürzen öfter. Ganz ohne Betrug.
+> 둘째: 큰 업체는 더 어려운 환자를 맡아요. 등급 3 이상. 그런 분들은 더 자주 넘어져요. 사기 없이도.
+TOBI: Aber die liejen nich zwee Tage, wenn jeden Morjen eener kommt.
+= Aber die liegen nicht zwei Tage, wenn jeden Morgen einer kommt.
+> 근데 매일 아침 누가 오면 이틀씩 누워 있진 않지.
+MIRA: Genau. Deshalb ist nicht die Zahl der Stürze entscheidend. Sondern die Liegezeit. Wie lange lagen die Menschen, bevor sie gefunden wurden?
+> 맞아요. 그래서 중요한 건 낙상 횟수가 아니에요. 방치 시간이에요. 발견되기 전에 얼마나 오래 누워 있었나?
+JAN: Steht das auf Aylins Liste?
+> 아일린 목록에 그게 있어?
+MIRA: Bei neun von elf. Und bei allen neun mehr als vierundzwanzig Stunden. Bei den kleinen Diensten liegt der Durchschnitt bei drei Stunden.
+> 11건 중 9건에. 그리고 9건 모두 24시간 넘어요. 작은 업체들은 평균 3시간이고요.
+HELENE: Drei Stunden gegen mehr als einen Tag. Das ist der Unterschied zwischen einem Unfall und einem leeren Tourenplan.
+> 3시간 대 하루 이상. 그게 사고와 텅 빈 순회표의 차이네요.
+JAN: Gut. Dieses Argument halten wir fest. Und die anderen Einwände schreiben wir auch auf. Alle. In den Ordner «Was gegen uns spricht».
+> 좋아. 그 논거는 잡아 두자. 그리고 다른 반론도 적어. 전부. «우리에게 불리한 것» 자료철에.
+TOBI: Den Ordner hamwa ooch schon bei Teil vier jehabt.
+= Den Ordner haben wir auch schon bei Teil vier gehabt.
+> 그 자료철 4부 때도 있었잖아.
+JAN: Und er hat uns damals gerettet. Jeder Teil bekommt einen.
+> 그리고 그때 우릴 살렸지. 부마다 하나씩 만들어.
+
+# 장면 7 — WARUM JETZT?
+HELENE: Frau Yaman, eine unangenehme Frage. Warum jetzt? Sie haben monatelang gezählt. Was hat sich heute geändert?
+> 야만 씨, 불편한 질문 하나. 왜 지금이에요? 몇 달 동안 세셨잖아요. 오늘 뭐가 바뀌었어요?
+AYLIN: Herr Lemke. Er hat mich angesehen und gesagt: «Ick hab zwee Tage jerufen.» Und ich dachte: Ich auch. Ich rufe seit Monaten. Nur leise. In mein Notizbuch.
+> 렘케 씨요. 저를 보고 말했어요. «이틀 동안 불렀어.» 그리고 생각했어요. 나도. 몇 달째 부르고 있어. 조용히. 내 수첩에다.
+ELKE: Und jetzt rufste laut.
+= Und jetzt rufst du laut.
+> 그리고 이제 크게 부르는구나.
+AYLIN: Jetzt rufe ich zu jemandem, der hört.
+> 이제 듣는 사람한테 불러요.
+JAN: Wir hören. Und wir versprechen Ihnen drei Dinge. Ihr Name taucht nirgends auf. Wir prüfen alles, bevor wir etwas schreiben. Und wir sagen Ihnen vorher, wenn wir etwas veröffentlichen.
+> 우린 들어요. 그리고 세 가지를 약속해요. 당신 이름은 어디에도 안 나와요. 쓰기 전에 전부 확인해요. 그리고 뭘 공개하기 전에 미리 알려 드려요.
+AYLIN: Und wenn Pflege Plus herausfindet, dass die Liste von mir kommt?
+> 그런데 Pflege Plus가 목록이 저한테서 나온 걸 알아내면요?
+KATRIN: Dann rufen Sie mich an. Tag und Nacht. Und Ihr Krankenhaus darf Sie dafür nicht benachteiligen. Das steht im Gesetz.
+> 그럼 저한테 전화하세요. 밤낮 상관없이. 그리고 병원은 그걸로 당신한테 불이익을 줄 수 없어요. 법에 있어요.
+AYLIN: Gut. Dann schlafe ich jetzt. Sechs Stunden. Das ist Luxus.
+> 좋아요. 그럼 이제 잘게요. 여섯 시간. 사치죠.
+
+# 엔딩 — EIN ZETTEL IN DER SUPPENSCHÜSSEL
+ELKE: Jan. Aylin is weg. Aber sie hat wat unter ihre Schüssel jelecht.
+= Jan. Aylin ist weg. Aber sie hat etwas unter ihre Schüssel gelegt.
+> 얀. 아일린 갔어. 근데 그릇 밑에 뭘 두고 갔어.
+JAN: Zeig her. … Ein Zettel. Handschrift. «Die Liste ist nur die Notaufnahme. Fragen Sie den Rettungsdienst. Die sehen die Wohnungen.»
+> 보여 줘요. … 쪽지. 손글씨. «목록은 응급실 것뿐이에요. 구급대에 물어보세요. 그 사람들은 집 안을 봐요.»
+MIRA: Der Sanitäter. Kai. Er hat Horsts Kühlschrank gesehen.
+> 구급대원. 카이. 호르스트 냉장고를 봤잖아요.
+HELENE: Und Hunderte andere Kühlschränke.
+> 그리고 다른 수백 개 냉장고도.
+JAN: Noch etwas auf der Rückseite. «Elf Fälle. Alle Pflege Plus. Und alle hatten Pflegegrad drei oder höher. Die, die am meisten Geld bringen.»
+> 뒷면에 하나 더. «11건. 전부 Pflege Plus. 그리고 전부 요양 등급 3 이상. 돈이 제일 많이 나오는 사람들.»
+MIRA: Pflegegrad drei oder höher. Mehr Leistungen, mehr Abrechnung. Wenn man schon erfindet, dann erfindet man teuer.
+> 등급 3 이상. 서비스가 많을수록 청구도 많아요. 지어낼 거면 비싸게 지어내는 거죠.
+JAN: Mira, morgen lernst du, wie eine Pflegekasse rechnet. Ich will wissen, wie man aus einem Menschen, der auf dem Boden liegt, eine Rechnung macht.
+> 미라, 내일 간병보험이 어떻게 계산하는지 배워. 바닥에 누운 사람을 어떻게 청구서로 만드는지 알고 싶어.
+ELKE: Und ick will wissen, wer dit erfunden hat. Damit ick weeß, wer bei mir nie wieder 'ne Suppe kriegt.
+= Und ich will wissen, wer das erfunden hat. Damit ich weiß, wer bei mir nie wieder eine Suppe kriegt.
+> 그리고 난 누가 그걸 생각해 냈는지 알고 싶어. 우리 가게에서 다시는 수프 못 얻어먹을 놈이 누군지 알게.
+TOBI: Und ick? Wat mach ick morjen?
+= Und ich? Was mache ich morgen?
+> 그럼 난? 난 내일 뭐 해?
+JAN: Du findest Kai. Den Sanitäter. Nicht über die Feuerwehr. Privat. Und nur, wenn er reden will.
+> 카이를 찾아. 구급대원. 소방서 통해서 말고. 개인적으로. 그리고 그가 얘기하고 싶을 때만.
+TOBI: Sanitäter trinken nach der Nachtschicht in der Bäckerei an der Seestraße. Dit weeß jeder Taxifahrer.
+= Sanitäter trinken nach der Nachtschicht in der Bäckerei an der Seestraße. Das weiß jeder Taxifahrer.
+> 구급대원들은 야간 근무 끝나면 제슈트라세 빵집에서 마셔. 택시 기사는 다 알아.
+HELENE: Kaffee, Tobi. Sie trinken Kaffee.
+> 커피, 토비. 커피를 마신다고.
+TOBI: Hab ick doch jesacht. Trinken.
+= Habe ich doch gesagt. Trinken.
+> 그렇게 말했잖아. 마신다고.
+MIRA: Und Bärbel? Sie wollte uns ihre eigenen Leistungsnachweise zeigen.
+> 그리고 배르벨은요? 자기 수행 확인서를 보여 주겠다고 했잖아요.
+JAN: Die holen wir als Vergleich. Wie sieht ein ehrlicher Zettel aus, wie ein unehrlicher. Kaffeeflecken gegen Schönschrift.
+> 비교용으로 받자. 정직한 종이와 정직하지 않은 종이가 어떻게 다른지. 커피 얼룩 대 예쁜 글씨.
+HELENE: Und wir zahlen Bärbel nichts. Keinen Cent. Nicht mal einen Kaffee, solange die Recherche läuft.
+> 그리고 배르벨한텐 아무것도 안 줘. 한 푼도. 취재 중엔 커피 한 잔도.
+ELKE: Den Kaffee zahl ick. Ick bin keene Journalistin.
+= Den Kaffee zahle ich. Ich bin keine Journalistin.
+> 커피는 내가 사. 난 기자가 아니니까.
+JAN: Elke, du bist die beste Rechercheurin in diesem Kiez. Nur ohne Ausweis.
+> 엘케, 당신은 이 동네 최고의 취재원이에요. 기자증만 없을 뿐.
+ELKE: Und ohne Jehalt. Prost.
+= Und ohne Gehalt. Prost.
+> 그리고 월급도 없고. 건배.
+LEON: Ich habe übrigens beim Skat verloren. Dreimal.
+> 참고로 저 스카트 졌어요. 세 번.
+JAN: Absichtlich?
+> 일부러?
+LEON: Nein. Er ist einfach besser. Er hat gesagt, ich gucke zu ehrlich.
+> 아니요. 그냥 그분이 더 잘해요. 제가 너무 정직하게 쳐다본대요.
+ELKE: Dit sacht er zu jedem, den er mag.
+= Das sagt er zu jedem, den er mag.
+> 좋아하는 사람한텐 다 그렇게 말해.
+JAN: Dann ist das ein Kompliment, Leon. Schreib es auf. Zu den anderen Sätzen.
+> 그럼 칭찬이야, 레온. 적어 둬. 다른 문장들이랑 같이.
+LEON: Schon passiert. Seite eins: «Zwei Tage lang hat er gerufen.» Seite zwei: «Das ist ein anderer Hunger als der im Bauch.»
+> 벌써 했어요. 1쪽: «이틀 동안 그는 불렀다.» 2쪽: «그건 배고픔이랑은 다른 허기야.»
+HELENE: Und Seite drei schreiben wir, wenn wir wissen, wer daran verdient hat.
+> 그리고 3쪽은 누가 그걸로 돈을 벌었는지 알게 되면 쓰자.
