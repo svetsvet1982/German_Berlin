@@ -1,0 +1,327 @@
+@part 3
+@ep 5
+@title Die Prioritätenliste
+@sub 우선순위 목록 · 10월 말, 여섯 달 먼저 적힌 숫자들
+@info 대사 150턴 · 난이도 B2 · 배경: 3-4화 며칠 뒤(2027년 10월 말), Spreewerk 편집국, 포츠담의 거절당한 투자자 사무실, 엘케의 선술집
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast JONAS | 요나스 (18) · 취재 보조
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast WINKLER | 토마스 빙클러 (46) · 거절당한 벤처 투자자
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인
+@note ※ 벤처 투자자에게 보내는 '피치덱(Pitch-Deck)'은 사업 계획과 제품 사양을 담은 발표 자료입니다. 문서의 작성 날짜와 수정 이력(메타데이터)은 '무엇을 언제 알았는가'를 증명하는 핵심 증거가 됩니다. 비밀 등급 정보가 그 전에 민간 문서에 담겨 있었다면 중대한 문제입니다. 등장 인물과 회사는 가상입니다.
+@note ※ 표현 초점: Pitch-Deck · Spezifikation · Metadaten · Erstellungsdatum · Verschlusssache · Abgleich · Zeitlinie · Geheimnisverrat
+@next 3부 6화 — «Ein Wachmann namens Tobi»(경비원 토비) — Skyward 공장 경비 용역 공고에 토비가 지원한다. 2부의 위장 노출 경험 때문에 헬레네가 반대하지만, 조건부로 승인한다.
+
+# 콜드 오픈 — JONAS LERNT RECHERCHE
+MIRA: Jonas, erste Lektion. Wie findet man einen Investor, der abgelehnt wurde?
+> 요나스, 첫 수업. 거절당한 투자자를 어떻게 찾을까?
+JONAS: Keine Ahnung. Steht das irgendwo?
+> 모르겠어요. 어디 적혀 있어요?
+MIRA: Nirgends direkt. Aber Investoren reden. In Podcasts, auf Konferenzen, auf LinkedIn. Man muss nur zuhören.
+> 어디에도 직접은 없어. 근데 투자자들은 말해. 팟캐스트에서, 콘퍼런스에서, 링크드인에서. 들을 줄만 알면 돼.
+JONAS: Und wonach hören wir?
+> 뭘 듣는데요?
+MIRA: Nach Ärger. Ein abgelehnter Investor ist selten still. Er sagt Dinge wie: «Ich hätte gern investiert, aber man hat mich nicht gelassen.»
+> 불만을 듣는 거야. 거절당한 투자자는 좀처럼 조용하지 않아. 이런 말을 하지. «투자하고 싶었는데, 못 하게 하더라.»
+JONAS: Und so einen suchst du jetzt?
+> 그런 사람을 지금 찾는 거예요?
+MIRA: So einen suchen wir. Du und ich. Hör dir diesen Podcast an. Minute 34. Ein Investor spricht über Skyward.
+> 그런 사람을 찾는 거지. 너랑 나랑. 이 팟캐스트 들어 봐. 34분. 한 투자자가 스카이워드 얘기를 해.
+JONAS: «Skyward war ein merkwürdiger Fall. Die Runde war schon voll, bevor sie offiziell offen war. Ich durfte nicht rein.»
+> «스카이워드는 이상한 경우였어요. 라운드가 공식적으로 열리기도 전에 이미 다 찼더라고요. 전 못 들어갔어요.»
+MIRA: Hörst du das? «Schon voll, bevor sie offen war.» Das ist unser Mann. Wer spricht da?
+> 들려? «열리기도 전에 다 찼다.» 저 사람이 우리 사람이야. 누가 말하는 거지?
+JONAS: Steht in der Beschreibung. Thomas Winkler. Ein Risikokapitalgeber aus Potsdam.
+> 소개란에 있어요. 토마스 빙클러. 포츠담의 벤처 투자자예요.
+MIRA: Thomas Winkler. Sehr gut, Jonas. Erste Recherche, erster Treffer. Jetzt schreiben wir ihm. Höflich.
+> 토마스 빙클러. 아주 잘했어, 요나스. 첫 취재, 첫 성과. 이제 그 사람한테 메시지를 쓰는 거야. 정중하게.
+JONAS: Was schreiben wir? «Hallo, wir recherchieren gegen Skyward»?
+> 뭐라고 써요? «안녕하세요, 저흰 스카이워드를 캐고 있어요»?
+MIRA: Nie. Niemals sagt man, gegen wen man recherchiert. Man sagt, worüber man recherchiert.
+> 절대 안 돼. 누구를 캐는지는 절대 말 안 해. 뭘 취재하는지를 말하지.
+JONAS: Was ist der Unterschied?
+> 차이가 뭐예요?
+MIRA: «Gegen Skyward» klingt wie ein Angriff. Da macht niemand mit. «Über Beschaffung in der Rüstung» klingt wie ein Thema. Da reden die Leute gern.
+> «스카이워드를 상대로»는 공격처럼 들려. 아무도 안 끼어들어. «방산 조달에 대해»는 주제처럼 들리지. 사람들이 기꺼이 말해.
+JONAS: Also lügt man ein bisschen.
+> 그럼 조금 거짓말하는 거네요.
+MIRA: Nein. Man sagt die Wahrheit, aber nicht die ganze. Das ist ein Unterschied. Wir recherchieren wirklich über Beschaffung. Skyward ist nur ein Teil davon.
+> 아니. 진실을 말하되 전부는 아니야. 그건 차이야. 우린 정말 조달을 취재해. 스카이워드는 그 일부일 뿐이고.
+JONAS: Das ist kompliziert.
+> 복잡하네요.
+MIRA: Das ist Ethik. Immer kompliziert. Wenn es einfach wäre, bräuchte man nicht darüber nachzudenken.
+> 그게 윤리야. 늘 복잡하지. 간단하면 고민할 필요도 없어.
+
+# 장면 1 — DER ABGELEHNTE INVESTOR
+WINKLER: Sie sind von Spreewerk? Die mit dem Sentinel-Artikel? Dann setzen Sie sich. Ich rede gern über Skyward.
+> 슈프레베르크에서 오셨죠? 센티넬 기사 쓴? 그럼 앉으세요. 스카이워드 얘긴 기꺼이 하죠.
+JAN: Herr Winkler, Sie wollten in Skyward investieren?
+> 빙클러 씨, 스카이워드에 투자하고 싶으셨어요?
+WINKLER: Ich wollte. Ich habe das Pitch-Deck gesehen, im Dezember 2025. Das Produkt war gut. Das Team war dünn, aber okay.
+> 하고 싶었어요. 피치덱을 봤어요, 2025년 12월에. 제품은 좋았어요. 팀은 빈약했지만 괜찮았고요.
+JAN: Und warum haben Sie nicht investiert?
+> 그럼 왜 투자 안 하셨어요?
+WINKLER: Weil ich nicht durfte. Ich habe angerufen, gesagt, ich will mit zehn Millionen rein. Die Antwort: «Die Runde ist bereits gezeichnet. Von strategischen Partnern.»
+> 못 했으니까요. 전화해서 천만 유로 넣겠다고 했어요. 답은 «라운드는 이미 다 찼습니다. 전략적 파트너들이요.»
+SWETA: «Strategische Partner.» Wer waren die?
+> «전략적 파트너.» 그게 누구였어요?
+WINKLER: Ein Luxemburger Fonds. Und ein Pensionsfonds. Ich kam nicht rein. Obwohl mein Geld so grün war wie ihres.
+> 룩셈부르크 펀드. 그리고 연금 기금. 전 못 들어갔어요. 제 돈도 그 사람들 돈만큼 똑같았는데도요.
+JAN: Herr Winkler, Sie haben noch das Pitch-Deck. Von Dezember 2025?
+> 빙클러 씨, 그 피치덱 아직 갖고 계세요? 2025년 12월 거요?
+WINKLER: Natürlich. Ich lösche nie ein Pitch-Deck. Man weiß nie, wann man es braucht.
+> 당연하죠. 피치덱은 절대 안 지워요. 언제 필요할지 모르니까요.
+JAN: Dürfen wir es sehen?
+> 저희가 봐도 될까요?
+WINKLER: Warum sollte ich es Ihnen geben?
+> 왜 당신들한테 줘야 하죠?
+JAN: Weil Sie wütend sind. Und weil wir vielleicht herausfinden, warum Ihr Geld nicht gut genug war.
+> 화가 나셨으니까요. 그리고 저희가 어쩌면 왜 당신 돈이 충분히 좋지 않았는지 알아낼 수 있으니까요.
+WINKLER: Das ist ein ehrliches Argument. Besser als «für die Öffentlichkeit».
+> 그건 정직한 논리네요. «대중을 위해»보다 나아요.
+JAN: Herr Winkler, erzählen Sie mir mehr über den Anruf. Wer hat gesagt, dass die Runde voll ist?
+> 빙클러 씨, 그 통화에 대해 더 얘기해 주세요. 라운드가 찼다고 누가 말했어요?
+WINKLER: Nicht Arendt. Ein Berater. Höflich, glatt, sehr sicher. Er sagte: «Wir schätzen Ihr Interesse, aber die Plätze sind vergeben.»
+> 아렌트가 아니에요. 자문가요. 공손하고, 매끄럽고, 아주 확신에 차서. «관심은 감사하지만 자리는 이미 배정됐습니다»라고 했어요.
+JAN: Hat er einen Namen genannt?
+> 이름을 말했어요?
+WINKLER: Nur den Vornamen. «Ruben.» Ich habe nicht nachgefragt. Damals dachte ich, es sei normal.
+> 이름만요. «루벤.» 더 안 물었어요. 그땐 정상인 줄 알았죠.
+SWETA: Ruben. Ruben Kasper. Von Thal und Partner.
+> 루벤. 루벤 카스퍼. 탈 & 파트너의.
+WINKLER: Sie kennen ihn?
+> 그 사람을 아세요?
+JAN: Wir kennen ihn aus drei anderen Fällen. Immobilien, Energie, jetzt Rüstung. Er verteilt überall die Plätze.
+> 다른 사건 세 개에서 알아요. 부동산, 에너지, 이제 방산. 그 사람은 어디서나 자리를 나눠 줘요.
+WINKLER: Dann bin ich nicht der Einzige, dem er «Nein» gesagt hat.
+> 그럼 그 사람이 «안 된다»고 한 사람이 저만은 아니군요.
+JAN: Sie sind nur der Erste, der es laut sagt.
+> 당신은 그걸 소리 내어 말한 첫 사람일 뿐이에요.
+
+# 장면 2 — DAS PITCH-DECK
+MIRA: Herr Winkler, bevor Sie es uns geben: Dürfen wir die Metadaten sehen? Nicht nur den Inhalt. Die Datei selbst.
+> 빙클러 씨, 저희한테 주시기 전에요. 메타데이터를 봐도 될까요? 내용만이 아니라. 파일 자체요.
+WINKLER: Metadaten? Warum?
+> 메타데이터요? 왜요?
+MIRA: Weil das Erstellungsdatum wichtig ist. Wann die Datei gemacht wurde. Das kann man nicht fälschen. Nicht leicht.
+> 작성 날짜가 중요하니까요. 파일이 언제 만들어졌는지. 그건 위조 못 해요. 쉽게는요.
+WINKLER: Hier. Die Originaldatei. So, wie ich sie bekommen habe. Im Dezember 2025.
+> 여기요. 원본 파일. 제가 받은 그대로. 2025년 12월에.
+MIRA: Erstellungsdatum: achtzehnter Dezember 2025. Letzte Änderung: zwanzigster Dezember 2025. Autor: ein Kürzel. «tp-advisory».
+> 작성일: 2025년 12월 18일. 최종 수정: 2025년 12월 20일. 작성자: 약어. «tp-advisory».
+JAN: «tp-advisory». Thal und Partner Advisory.
+> «tp-advisory». 탈 & 파트너 자문.
+SWETA: Das Pitch-Deck von Skyward wurde von Thal und Partner erstellt. Nicht von Arendt.
+> 스카이워드 피치덱을 탈 & 파트너가 만들었네요. 아렌트가 아니라.
+WINKLER: Das wusste ich nicht. Ich dachte, der junge Gründer hätte es gemacht.
+> 그건 몰랐어요. 그 젊은 창업자가 만든 줄 알았죠.
+MIRA: Jetzt der wichtigste Teil. Die technischen Spezifikationen. Seite neun.
+> 이제 제일 중요한 부분. 기술 사양. 9쪽.
+JAN: Lies.
+> 읽어 봐.
+MIRA: «Betriebstemperatur: minus 42 bis plus 55 Grad. Gewicht: 23,3 Kilogramm. Reichweite: 4,2 Kilometer.» Die elf Zahlen. Alle elf.
+> «작동 온도: 영하 42도에서 영상 55도. 중량: 23.3킬로그램. 사정거리: 4.2킬로미터.» 숫자 열한 개. 열한 개 전부.
+SWETA: Dieselben elf Zahlen, die später in der Ausschreibung standen. In einem Pitch-Deck vom Dezember 2025.
+> 나중에 입찰 공고에 들어간 그 열한 개 숫자가. 2025년 12월 피치덱에.
+JAN: Und die geheime Prioritätenliste wurde erst im Juni 2026 freigegeben. Sechs Monate später.
+> 그리고 비밀 우선순위 목록은 2026년 6월에야 공개됐어. 여섯 달 뒤에.
+JONAS: Isch versteh das net ganz. Warum ist das so schlimm? Vielleicht ist Skyward einfach gut, und die Liste passt zufällig.
+> 완전히는 이해가 안 돼요. 왜 그렇게 나쁜 거예요? 어쩌면 스카이워드가 그냥 좋고, 목록이 우연히 맞는 걸 수도 있잖아요.
+MIRA: Gute Frage, Jonas. Immer die Gegenfrage stellen. Aber rechne nach. Elf Spezifikationen. Jede auf ein Hundertstel genau. Alle elf gleich. Zufällig?
+> 좋은 질문이야, 요나스. 늘 반대 질문을 던져. 근데 계산해 봐. 사양 열한 개. 각각 백분의 일까지 정확히. 열한 개 다 같아. 우연히?
+JONAS: Das ist… unwahrscheinlich.
+> 그건… 있을 법하지 않네요.
+MIRA: Sehr unwahrscheinlich. Eine Zahl kann Zufall sein. Elf identische Zahlen sind kein Zufall. Das ist Mathematik.
+> 아주 있을 법하지 않지. 숫자 하나는 우연일 수 있어. 똑같은 숫자 열한 개는 우연이 아니야. 그건 수학이지.
+JONAS: Und wenn jemand sagt, Skyward hat die Liste beeinflusst, statt umgekehrt?
+> 그럼 누가, 반대가 아니라 스카이워드가 목록에 영향을 줬다고 하면요?
+JAN: Genau das ist der Punkt. Entweder Skyward hatte die Liste zu früh. Oder Skyward hat die Liste geschrieben. Beides ist ein Skandal.
+> 바로 그게 핵심이야. 스카이워드가 목록을 너무 일찍 가졌거나. 스카이워드가 목록을 썼거나. 둘 다 스캔들이지.
+JONAS: Isch lerne hier mehr Mathematik als in der Schule.
+> 전 여기서 학교보다 수학을 더 많이 배워요.
+SWETA: Journalismus ist angewandte Mathematik. Mit einem Gewissen.
+> 저널리즘은 응용 수학이야. 양심을 곁들인.
+
+# 장면 3 — DIE ZEITLINIE
+HELENE: Fassen wir die Zeitlinie zusammen. Genau. Jedes Datum.
+> 시간대를 정리해요. 정확히. 날짜 하나하나.
+MIRA: Dezember 2025: Das Skyward-Pitch-Deck mit den elf Spezifikationen. Erstellt von Thal und Partner.
+> 2025년 12월: 열한 개 사양이 든 스카이워드 피치덱. 탈 & 파트너가 작성.
+JONAS: Juni 2026: Die geheime Prioritätenliste des Ministeriums wird freigegeben. Mit denselben Spezifikationen.
+> 2026년 6월: 부처의 비밀 우선순위 목록이 공개됨. 같은 사양이랑 같이.
+SWETA: Oktober 2026: Die offizielle Ausschreibung. Mit den elf Zahlen.
+> 2026년 10월: 공식 입찰 공고. 열한 개 숫자랑 같이.
+LEON: September 2027: Skyward gewinnt. Weil nur Skyward alle elf Zahlen erfüllt.
+> 2027년 9월: 스카이워드가 이김. 스카이워드만 열한 개를 다 충족하니까.
+JAN: Also hatte Skyward die geheimen Spezifikationen sechs Monate, bevor sie geheim wurden. Oder: Die geheime Liste wurde nach dem Pitch-Deck geschrieben.
+> 그럼 스카이워드는 비밀 사양이 비밀이 되기 여섯 달 전에 그걸 가진 거야. 아니면, 비밀 목록이 피치덱 뒤에 쓰인 거거나.
+HELENE: Das ist der Unterschied zwischen zwei Verbrechen. Entweder jemand hat ein Geheimnis verraten. Oder jemand hat die geheime Liste nach dem Produkt geschrieben.
+> 그게 두 범죄의 차이예요. 누가 비밀을 누설했거나. 아니면 누가 제품에 맞춰 비밀 목록을 썼거나.
+SWETA: Das zweite ist schlimmer. Dann wurde die staatliche Prioritätenliste von einer Firma diktiert. Über einen Berater.
+> 두 번째가 더 나빠요. 그럼 국가 우선순위 목록을 한 회사가 받아쓰게 한 거죠. 자문가를 통해.
+JAN: Und der Berater ist Thal und Partner. Beide Male. Beim Pitch-Deck und bei der «Fachexpertise» im Ministerium.
+> 그리고 그 자문가가 탈 & 파트너야. 두 번 다. 피치덱에서도, 부처 «전문가 자문»에서도.
+KATRIN: Vorsicht. Wir wissen, dass Thal das Pitch-Deck erstellt hat. Die Metadaten belegen das. Aber wir wissen nicht sicher, dass Thal auch die Ministeriumsliste geschrieben hat.
+> 조심해요. 탈이 피치덱을 만든 건 알아요. 메타데이터가 증명하죠. 근데 탈이 부처 목록도 썼다는 건 확실히 몰라요.
+JAN: Noch nicht. Aber die Metadaten der Ministeriumsliste könnten es zeigen. Wenn wir sie bekommen.
+> 아직은. 근데 부처 목록의 메타데이터가 그걸 보여 줄 수 있어요. 손에 넣으면.
+HELENE: Die ist Verschlusssache. Die bekommen wir nicht legal.
+> 그건 비밀 등급이에요. 합법적으로는 못 구해요.
+
+# 장면 4 — DIE GRENZE
+JAN: Der Prüfer in Bonn hat die Metadaten der Ministeriumsliste gesehen. In seinem internen Vermerk.
+> 본의 그 감사관이 부처 목록의 메타데이터를 봤어요. 자기 내부 메모에서.
+KATRIN: Gesehen, ja. Aber er darf sie uns nicht geben. Die Liste ist eingestuft. Wenn er sie weitergibt, macht er sich strafbar. Schwer.
+> 봤지, 맞아. 근데 우리한테 줄 순 없어. 그 목록은 등급 분류됐어. 넘기면 처벌받아. 무겁게.
+SWETA: Und wenn er es trotzdem will? Aus Gewissen?
+> 그래도 하고 싶어 하면요? 양심 때문에?
+KATRIN: Dann müssen wir ihn schützen. Und wir müssen uns fragen: Rechtfertigt das öffentliche Interesse, dass ein Mensch sich strafbar macht? Für uns?
+> 그럼 우리가 그 사람을 지켜야 해. 그리고 스스로 물어야 하지. 공익이, 한 사람이 처벌받을 짓을 하는 걸 정당화하나? 우리를 위해서?
+JAN: Nein. Das dürfen wir nicht verlangen. Wir fragen ihn nicht nach der geheimen Liste. Das ist die Grenze.
+> 아니. 그걸 요구하면 안 돼요. 그 사람한테 비밀 목록을 달라고 안 해요. 그게 선이에요.
+HELENE: Dann brauchen wir einen anderen Weg. Einen legalen. Was haben wir?
+> 그럼 다른 방법이 필요해요. 합법적인. 우리한테 뭐가 있죠?
+MIRA: Wir haben das Pitch-Deck. Mit den elf Zahlen. Datiert Dezember 2025. Erstellt von Thal und Partner. Das ist legal und belegt.
+> 우리한텐 피치덱이 있어요. 열한 개 숫자랑. 2025년 12월 날짜. 탈 & 파트너가 작성. 그건 합법이고 증거가 있어요.
+JAN: Und wir haben den Rechnungshof-Bericht. Der sagt: Die Spezifikationen tauchten in einem Investorendokument auf. Vor der Freigabe.
+> 그리고 감사원 보고서가 있어요. 거기서 말하죠. 사양이 한 투자자 문서에 등장했다. 공개 이전에.
+SWETA: Das Pitch-Deck ist das Investorendokument, das der Rechnungshof meint. Wir können es beweisen. Mit den Metadaten.
+> 그 피치덱이 감사원이 말하는 그 투자자 문서예요. 우린 증명할 수 있어요. 메타데이터로.
+HELENE: Dann brauchen wir die geheime Liste gar nicht. Wir haben die zwei Enden. Den Rechnungshof und das Pitch-Deck. Die Mitte können die Leser denken.
+> 그럼 비밀 목록은 필요도 없네요. 우린 양쪽 끝을 가졌어요. 감사원이랑 피치덱. 가운데는 독자들이 생각하게요.
+JAN: Das ist sauber. Kein Geheimnisverrat. Nur legale Dokumente, nebeneinandergelegt.
+> 그게 깨끗해요. 비밀 누설 없이. 합법 문서들만, 나란히 놓고.
+JONAS: Darf isch was fragen? Warum gebt ihr euch so viel Mühe mit «legal»? Ihr habt doch den Beweis.
+> 뭐 좀 물어봐도 돼요? 왜 «합법»에 그렇게 공을 들여요? 증거가 있잖아요.
+KATRIN: Weil ein Beweis, der illegal beschafft wurde, vor Gericht nichts wert sein kann. Und weil wir sonst genauso werden wie die, über die wir schreiben.
+> 불법으로 얻은 증거는 법정에서 아무 가치가 없을 수 있으니까. 그리고 안 그러면 우리가 쓰는 대상들이랑 똑같아지니까.
+JONAS: Wie die, über die ihr schreibt.
+> 쓰는 대상들이랑 똑같이요.
+JAN: Thal bricht nie ein Gesetz. Das ist seine Stärke. Wenn wir ein Gesetz brechen, um ihn zu fangen, hat er gewonnen. Auch wenn er verliert.
+> 탈은 절대 법을 안 어겨. 그게 그 사람 강점이야. 우리가 그를 잡으려고 법을 어기면, 그가 이긴 거야. 그 사람이 지더라도.
+JONAS: Das ist fast wie bei der Bundeswehr. Regeln, auch wenn es schwer ist.
+> 그거 거의 연방군 같네요. 규칙, 어렵더라도.
+SWETA: Genau. Nur dass unsere Waffe ein Notizbuch ist. Und unsere Regel heißt: die Wahrheit, sauber.
+> 맞아. 단지 우리 무기는 수첩이지. 그리고 우리 규칙은 진실, 깨끗하게.
+JONAS: Die Wahrheit, sauber. Das sollte auf dem Fragebogen stehen. Statt «Bist du bereit zu dienen?»
+> 진실, 깨끗하게. 그게 설문지에 있어야 해요. «복무할 의향이 있나?» 대신.
+
+# 장면 5 — WINKLER WILL MEHR
+WINKLER: Und? Haben Sie gefunden, was Sie suchten?
+> 그래서요? 찾으시던 걸 찾으셨어요?
+JAN: Mehr als das, Herr Winkler. Darf ich fragen: Würden Sie das öffentlich sagen? Dass man Sie nicht investieren ließ?
+> 그 이상이에요, 빙클러 씨. 여쭤봐도 될까요? 그걸 공개적으로 말씀하시겠어요? 투자를 못 하게 했다는 거?
+WINKLER: Mit Namen?
+> 실명으로요?
+JAN: Mit Namen wäre es stärker. Aber Sie entscheiden. Es kann Konsequenzen haben. In Ihrer Branche.
+> 실명이면 더 강해요. 근데 결정은 당신이 하세요. 결과가 따를 수 있어요. 당신 업계에서.
+WINKLER: Welche Konsequenzen?
+> 어떤 결과요?
+SWETA: Vielleicht lässt man Sie bei der nächsten guten Runde auch nicht rein. Die Branche ist klein. Man erinnert sich.
+> 어쩌면 다음 좋은 라운드에도 못 들어가게 할 거예요. 업계는 좁아요. 사람들이 기억하죠.
+WINKLER: Das Risiko kenne ich. Aber wissen Sie was? Ich bin es leid. Dieses «strategische Partner»-Spiel. Immer dieselben zehn Leute, die alles unter sich aufteilen.
+> 그 위험은 알아요. 근데 그거 아세요? 지쳤어요. 이 «전략적 파트너» 놀음. 늘 같은 열 사람이 모든 걸 자기들끼리 나눠 먹는 거.
+JAN: Dann sagen Sie es. Mit Namen?
+> 그럼 말씀하세요. 실명으로요?
+WINKLER: Mit Namen. Thomas Winkler. Und schreiben Sie dazu: Ich habe sauberes Geld. Und trotzdem durfte ich nicht.
+> 실명으로요. 토마스 빙클러. 그리고 이것도 써 주세요. 전 깨끗한 돈이 있어요. 그런데도 못 했어요.
+KATRIN: Herr Winkler, bevor Sie das tun: Ich bin Anwältin. Wir besprechen vorher, was Sie sagen dürfen. Und was Sie beweisen können.
+> 빙클러 씨, 그러시기 전에요. 전 변호사예요. 뭘 말해도 되는지, 뭘 증명할 수 있는지 미리 상의해요.
+WINKLER: Eine Anwältin, die mich schützt, bevor ich rede. Das habe ich bei einem Journalisten noch nie erlebt.
+> 제가 말하기 전에 절 지켜 주는 변호사라. 기자한테 그런 건 처음 겪네요.
+JAN: Dann haben Sie bisher mit den falschen Journalisten geredet.
+> 그럼 지금까지 잘못된 기자들이랑 얘기하신 거예요.
+WINKLER: Vielleicht. Noch etwas, Herr Kowalczyk. Ich habe gehört, wie die Plätze verteilt wurden. Nicht am Telefon. Vorher.
+> 그럴지도요. 하나 더요, 코발치크 씨. 그 자리들이 어떻게 나눠졌는지 들었어요. 전화로가 아니라. 그 전에요.
+JAN: Wo?
+> 어디서요?
+WINKLER: Bei einem Abendessen. Im Frühjahr 2026. In einer Villa. Ich war nicht eingeladen, aber ein Kollege von mir war da.
+> 어느 저녁 식사에서요. 2026년 봄에. 어느 저택에서. 전 초대 안 됐지만 제 동료가 거기 있었어요.
+JAN: Wo war die Villa?
+> 그 저택이 어디였어요?
+WINKLER: In Grunewald. Am Wasser. Mein Kollege sagte: «Da wird nicht verhandelt. Da wird verteilt.»
+> 그루네발트에요. 물가에. 제 동료가 그랬어요. «거긴 협상하는 데가 아니야. 나눠 주는 데지.»
+SWETA: «Da wird verteilt.» Was wird verteilt?
+> «나눠 주는 데.» 뭘 나눠요?
+WINKLER: Alles. Investitionen, Aufträge, Posten. Wer am Tisch sitzt, bekommt. Wer nicht, bekommt nicht. So einfach.
+> 전부요. 투자, 계약, 자리. 식탁에 앉은 사람은 받아요. 안 앉은 사람은 못 받고. 그렇게 단순해요.
+JAN: Kennt Ihr Kollege Namen? Wer am Tisch saß?
+> 당신 동료가 이름을 알아요? 누가 식탁에 앉았는지?
+WINKLER: Ein paar. Er würde vielleicht reden. Anonym. Er hat auch Angst. Wie alle.
+> 몇 명이요. 어쩌면 얘기할 거예요. 익명으로. 그 사람도 무서워해요. 다들 그렇듯이.
+JAN: Dann fragen Sie ihn. Vorsichtig. Und wenn er will, reden wir. Geschützt.
+> 그럼 물어봐 주세요. 조심해서. 그 사람이 원하면 얘기해요. 보호받으면서.
+
+# 장면 6 — JONAS WÄCHST
+ELKE: Und der kleine Schwabe? Der sitzt ja immer öfter bei uns. Jonas, wat trinkste?
+= Und der kleine Schwabe? Der sitzt ja immer öfter bei uns. Jonas, was trinkst du?
+> 그럼 꼬마 슈바벤은? 점점 자주 우리한테 앉아 있네. 요나스, 뭐 마실래?
+JONAS: Apfelschorle, bitte. Isch gehöre jetzt zum Club.
+> 사과 탄산수요. 저 이제 그 클럽 소속이에요.
+ELKE: Zum Club. Na denn. Und, Junge, haste dich entschieden? Wegen der Armee?
+= Zum Club. Na denn. Und, Junge, hast du dich entschieden? Wegen der Armee?
+> 그 클럽. 그래 뭐. 그리고 꼬마, 정했어? 군대 문제?
+JONAS: Fast. Isch glaube, isch kreuze «noch nicht entschieden» an. Es gibt ein Feld dafür. Isch will erst sehen, ob das System sauber wird.
+> 거의요. «아직 결정 안 함»에 표시할 것 같아요. 그런 칸이 있어요. 시스템이 깨끗해지는지 먼저 보고 싶어요.
+JAN: Das ist eine mutige Entscheidung. Nicht Ja, nicht Nein. Sondern: «Zeigt mir erst, dass ihr es ernst meint.»
+> 그건 용감한 결정이야. 예스도 노도 아니고. «너희가 진심인지 먼저 보여 줘»지.
+JONAS: Isch hab das von euch gelernt. Nicht glauben. Prüfen.
+> 형들한테 배웠어요. 믿지 말고. 확인하라.
+SWETA: Und, Jonas, dein erster Treffer. Winkler. Du hast ihn gefunden. Mit einem Podcast und einem Ohr.
+> 그리고 요나스, 네 첫 성과. 빙클러. 네가 찾았어. 팟캐스트 하나랑 귀 하나로.
+JONAS: Isch hab nur zugehört. Das war gar net schwer.
+> 전 그냥 들었을 뿐이에요. 어렵지도 않았어요.
+MIRA: Zuhören ist das Schwerste von allem. Die meisten Menschen hören nicht zu. Sie warten nur, bis sie reden dürfen.
+> 듣는 게 모든 것 중에 제일 어려워. 대부분 사람들은 안 들어. 자기가 말할 차례만 기다리지.
+LEON: Jonas hört zu. Deshalb wird er ein guter Journalist. Oder ein guter Soldat. Oder beides.
+> 요나스는 들어. 그래서 좋은 기자가 될 거야. 아니면 좋은 군인이. 아니면 둘 다.
+JONAS: Oder ein guter Mensch, der weiß, warum er tut, was er tut.
+> 아니면 자기가 왜 그 일을 하는지 아는 좋은 사람이요.
+ELKE: Der Junge redet wie 'n alter Mann. Noch 'ne Apfelschorle?
+= Der Junge redet wie ein alter Mann. Noch eine Apfelschorle?
+> 이 꼬마 늙은이처럼 말하네. 사과 탄산수 더?
+
+# 엔딩 — DIE KONFRONTATION NAHT
+HELENE: Also. Wir haben genug für Teil zwei. Das Pitch-Deck. Die Metadaten. Winklers Aussage.
+> 자. 2편에 충분해요. 피치덱. 메타데이터. 빙클러 증언.
+JAN: Und bald müssen wir fragen. Skyward, Thal und Partner, das Ministerium. Konfrontation.
+> 그리고 곧 물어봐야 해요. 스카이워드, 탈 & 파트너, 부처. 반론 질의.
+SWETA: Diesmal ist es Thal direkt. Zum ersten Mal haben wir ein Dokument mit seinem Kürzel darauf. «tp-advisory».
+> 이번엔 탈이 직접이에요. 처음으로 그 사람 약어가 찍힌 문서를 가졌어요. «tp-advisory».
+MIRA: Ein Kürzel in Metadaten ist stark. Aber Thal wird sagen: «Ein Mitarbeiter, nicht ich.» Oder: «Routine, kein Geheimnis.»
+> 메타데이터의 약어는 강력해요. 근데 탈은 이렇게 말할 거예요. «직원이지 내가 아니다.» 아니면 «일상 업무지 비밀이 아니다.»
+JAN: Soll er. Diesmal legen wir die Dokumente nebeneinander. Das Pitch-Deck, den Rechnungshof, die Daten. Die Fakten sprechen.
+> 그러라지. 이번엔 문서들을 나란히 놓는 거야. 피치덱, 감사원, 날짜. 사실이 말하게.
+HELENE: Und wir müssen vorsichtiger sein als je zuvor. Je näher wir an Thal kommen, desto gefährlicher wird es.
+> 그리고 그 어느 때보다 조심해야 해요. 탈에 가까워질수록 위험해져요.
+JAN: Mein Handy. Eine Nachricht. Signal.
+> 내 휴대폰. 메시지. 시그널.
+LEON: Der Spatz?
+> 참새예요?
+JAN: Der Spatz. «Ihr habt das Pitch-Deck. Gut. Aber fragt euch: Warum durfte Winkler nicht investieren? Wer hat die Plätze verteilt?»
+> 참새야. «피치덱을 손에 넣었군요. 좋아요. 하지만 스스로 물어봐요. 왜 빙클러는 투자를 못 했을까요? 누가 그 자리들을 나눠 줬을까요?»
+MIRA: Der Spatz weiß, dass wir das Pitch-Deck haben. Woher?
+> 참새가 우리가 피치덱 가진 걸 알아요. 어떻게요?
+JAN: Da ist noch eine Zeile. «Die Plätze wurden in Grunewald verteilt. Bei einem Abendessen. Fragt, wer am Tisch saß.»
+> 한 줄 더 있어. «그 자리들은 그루네발트에서 나눠졌어요. 어느 저녁 식사에서. 누가 그 식탁에 앉아 있었는지 물어봐요.»
+SWETA: Dasselbe sagt Winkler. Ein Abendessen in Grunewald. Zwei Quellen, unabhängig voneinander.
+> 빙클러도 같은 말을 해요. 그루네발트의 저녁 식사. 취재원 둘이, 서로 독립적으로.
+JAN: Zwei unabhängige Quellen, die dasselbe sagen. Das ist der Moment, in dem aus einem Gerücht eine Spur wird.
+> 같은 말을 하는 독립된 취재원 둘. 그게 소문이 단서가 되는 순간이야.
+HELENE: Aber eine Villa in Grunewald ist noch keine Adresse. Und ein Abendessen ist noch keine Straftat.
+> 근데 그루네발트의 저택은 아직 주소가 아니에요. 그리고 저녁 식사는 아직 범죄가 아니고요.
+JAN: Noch nicht. Aber wir kommen näher. Winklers Kollege könnte Namen nennen. Und der Spatz führt uns an denselben Tisch.
+> 아직은. 근데 가까워지고 있어요. 빙클러 동료가 이름을 댈 수 있어요. 그리고 참새가 우릴 같은 식탁으로 이끌고 있고요.
+MIRA: Oder der Spatz und Winkler reden von zwei verschiedenen Abendessen. Wir dürfen nicht zu schnell glauben.
+> 아니면 참새랑 빙클러가 서로 다른 저녁 식사를 말하는 걸 수도 있어요. 너무 빨리 믿으면 안 돼요.
+SWETA: Mira hat recht. Erst prüfen. Datum, Ort, Gäste. Dann glauben.
+> 미라 말이 맞아요. 먼저 확인. 날짜, 장소, 손님들. 그다음에 믿기.
+JAN: Dann ist das unser Weg zu Grunewald. Schritt für Schritt. Über ein Abendessen, das jemand verteilt hat.
+> 그럼 그게 그루네발트로 가는 우리 길이야. 한 걸음씩. 누가 나눠 준 저녁 식사 하나를 거쳐서.
+HELENE: Aber erst die Rüstungsgeschichte. Eins nach dem anderen. Grunewald kommt. Aber noch nicht heute.
+> 근데 먼저 방산 기사예요. 하나씩. 그루네발트는 와요. 근데 아직 오늘은 아니에요.
