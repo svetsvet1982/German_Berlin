@@ -1,0 +1,333 @@
+@part 1
+@ep 11
+@title Das Vorkaufsrecht
+@sub 선매권 · 1월 셋째 주, 먹칠한 서류 40쪽과 이틀 빨랐던 초안
+@info 대사 150턴 · 난이도 B1+ · 배경: 10화 다음 주(2027년 1월 중순), Spreewerk 편집국, 카트린 법률사무소, 미테 구청 의회(BVV) 회의장
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast AHRENS | 필립 아렌스 박사 (39) · «Wohnraum am Feld» 대변인 (전화)
+@cast LEON | 레온 피셔 (24) · 수습기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast TOBI | 토비 레베르크 (37) · 관리인으로 잠입 중 (전화)
+@cast LINDEMANN | 페트라 린데만 (57) · 구청 도시개발 담당 구청 의원(Bezirksstadträtin)
+@cast BRENNER | 홀거 브레너 (52) · 구청 주택과 팀장
+@note ※ 구청의 선매권(Vorkaufsrecht): 주거환경 보호구역에서 건물이 팔리면 구청이 일정 기간 안에 그 건물을 대신 사들일 수 있습니다. 매수인은 '회피 합의서(Abwendungsvereinbarung)'에 서명해 세입자 보호를 약속하고 선매를 피할 수 있습니다. 2021년 연방행정법원 판결 이후 선매권의 행사 범위는 크게 좁아졌습니다. 베딩은 행정구역상 미테 구(Bezirk Mitte)에 속합니다.
+@note ※ 표현 초점: Vorkaufsrecht · Abwendungsvereinbarung · Milieuschutz · Frist · geschwärzt · Metadaten · Bezirksstadträtin · Akteneinsicht
+@next 1부 12화 — «Wer im Amt redet»(구청에서 누가 말하나) — 구청 내부 정보원 후보는 세 명. 얀은 사람마다 다른 가짜 일정을 흘리는 함정을 판다.
+
+# 콜드 오픈 — EIN SCHWIERIGER ANRUF
+AHRENS: Herr Kowalczyk? Sie wollten mich vor der Veröffentlichung sprechen?
+> 코발치크 씨? 기사 내기 전에 저랑 얘기하고 싶다고 하셨죠?
+JAN: Ja. Ich möchte, dass Sie etwas wissen, bevor es in der Zeitung steht.
+> 네. 기사에 나가기 전에 알려 드리고 싶은 게 있어요.
+AHRENS: Das klingt nicht gut.
+> 좋은 소식은 아닌 것 같네요.
+JAN: Ihr größter Spender, die TF Projektentwicklung, gehört zu hundert Prozent einem Fonds. Und dieser Fonds besitzt Grundstücke am Rand vom Feld.
+> 가장 큰 후원자인 TF 프로젝트 개발은 100퍼센트 한 펀드 소유예요. 그리고 그 펀드는 들판 가장자리에 땅을 갖고 있어요.
+AHRENS: Was? Das… das wusste ich nicht.
+> 네? 그건… 몰랐어요.
+JAN: Ich glaube Ihnen. Und ich werde das so schreiben.
+> 믿어요. 그리고 그렇게 쓸 거예요.
+AHRENS: Unser Kassenwart hat gesagt, das sei eine «Baufirma aus Berlin». Mehr nicht.
+> 우리 회계 담당은 그냥 «베를린 건설사»라고만 했어요. 그게 다였어요.
+JAN: Möchten Sie dazu eine Stellungnahme abgeben? Sie haben bis Freitag Zeit.
+> 이에 대해 입장을 밝히시겠어요? 금요일까지 시간이 있어요.
+AHRENS: Ich spreche heute Abend mit dem Vorstand. Wenn das stimmt, geben wir das Geld zurück.
+> 오늘 저녁에 이사회와 얘기할게요. 그게 사실이면 돈을 돌려줄 거예요.
+JAN: Das ist eine starke Entscheidung.
+> 대단한 결정이네요.
+AHRENS: Nein. Das ist eine normale Entscheidung. Ich will Wohnungen für Familien. Nicht Gewinne für Fonds.
+> 아니요. 당연한 결정이에요. 전 가족들을 위한 집을 원하지, 펀드의 이익을 원하는 게 아니에요.
+JAN: Danke, Herr Ahrens. Und es tut mir leid.
+> 고마워요, 아렌스 씨. 그리고 유감이에요.
+
+# 장면 1 — VIERZIG SEITEN, HALB SCHWARZ
+LEON: Sie ist da! Die Antwort vom Bezirksamt! Auf meine IFG-Anfrage!
+> 왔어요! 구청 답변이요! 제 정보공개 청구에 대한!
+MIRA: Zeig! Wie viele Seiten?
+> 보여 줘! 몇 쪽이야?
+LEON: Vierzig. Aber… schau mal.
+> 40쪽이요. 근데… 이것 좀 보세요.
+MIRA: Oh. Geschwärzt. Fast jede zweite Zeile.
+> 아. 먹칠했네. 거의 한 줄 걸러 한 줄씩.
+LEON: «Schwärzungen zum Schutz personenbezogener Daten und von Betriebs- und Geschäftsgeheimnissen.»
+> «개인정보와 영업 비밀 보호를 위한 먹칠 처리.»
+JAN: Das ist normal. Aber auch zwischen den schwarzen Balken steht viel. Lass uns lesen.
+> 흔한 일이야. 그래도 검은 줄 사이에도 내용이 많아. 읽어 보자.
+LEON: Seite eins: «Gerichtstraße 61. Verkaufsanzeige des Notars eingegangen am 20. Januar 2025.»
+> 1쪽: «게리히트슈트라세 61. 공증인 매매 신고 접수 2025년 1월 20일.»
+MIRA: Also war es ein normaler Kauf. Das Haus wurde direkt verkauft. Von Lindners Erben an GS 61.
+> 그러니까 평범한 매매였네. 건물이 직접 팔린 거야. 린트너 씨 상속인들한테서 GS 61로.
+JAN: Und bei einem normalen Kauf im Milieuschutzgebiet prüft das Bezirksamt das Vorkaufsrecht.
+> 그리고 주거환경 보호구역에서 평범한 매매가 이뤄지면 구청이 선매권을 검토하지.
+LEON: Seite drei: «Interne Vorlage: Prüfung der Ausübung des Vorkaufsrechts. Besprechung am 14. Februar 2025.»
+> 3쪽: «내부 안건: 선매권 행사 검토. 회의 2025년 2월 14일.»
+LEON: Seite neun: «Abwendungsvereinbarung, unterzeichnet am 3. März 2025 durch GS 61 Immobilien S.à r.l.»
+> 9쪽: «회피 합의서, 2025년 3월 3일 GS 61 부동산 유한회사 서명.»
+JAN: Sie haben also unterschrieben. Damit das Bezirksamt nicht kauft.
+> 그러니까 서명을 했군. 구청이 사들이지 못하게.
+MIRA: Und was steht in der Vereinbarung?
+> 그럼 합의서엔 뭐라고 적혀 있어?
+LEON: Ab Seite zehn. Viele Paragrafen. Ich verstehe die Hälfte.
+> 10쪽부터요. 조항이 엄청 많아요. 절반밖에 모르겠어요.
+LEON: Und hier, ganz hinten, Seite achtunddreißig: «Genehmigung nach Paragraf 172 Baugesetzbuch. Begründung von Wohnungseigentum.» September 2025.
+> 그리고 여기, 맨 뒤 38쪽이요. «건축법전 제172조에 따른 허가. 소유 주택 설정.» 2025년 9월.
+JAN: Die Genehmigung für die Umwandlung. Wer hat unterschrieben?
+> 전환 허가서네. 누가 서명했어?
+LEON: «Im Auftrag» und dann… ein schwarzer Balken.
+> «위임에 따라», 그리고… 검은 줄이요.
+MIRA: Natürlich. Der Name ist geschwärzt.
+> 그럼 그렇지. 이름에 먹칠했네.
+JAN: Dann fragen wir jemanden, der alles versteht.
+> 그럼 전부 이해하는 사람한테 물어보자.
+MIRA: Katrin?
+> 카트린?
+JAN: Katrin. Leon, nimm die Akte. Wir fahren nach Kreuzberg.
+> 카트린. 레온, 서류 챙겨. 크로이츠베르크로 가자.
+LEON: Darf ich noch etwas sagen?
+> 하나만 더 말해도 돼요?
+JAN: Schnell.
+> 빨리.
+LEON: Ich bin ein bisschen stolz. Das ist meine erste IFG-Anfrage. Und sie hat funktioniert.
+> 저 조금 뿌듯해요. 제 첫 정보공개 청구거든요. 그리고 성공했어요.
+JAN: Du darfst stolz sein. Aber erst nach dem Lesen.
+> 뿌듯해해도 돼. 근데 다 읽고 나서.
+MIRA: Ich mache inzwischen Kopien. Digital. Und ich schaue mir die PDF-Datei genauer an.
+> 그동안 난 사본 떠 둘게. 디지털로. 그리고 PDF 파일을 좀 더 자세히 볼게.
+JAN: Was suchst du?
+> 뭘 찾는데?
+MIRA: Das, was nicht geschwärzt werden kann. Die Metadaten.
+> 먹칠할 수 없는 것. 메타데이터.
+
+# 장면 2 — WAS DIE VEREINBARUNG VERSPRICHT
+KATRIN: Eine Abwendungsvereinbarung. Lange keine gesehen. Seit dem Urteil von 2021 sind die selten geworden.
+> 회피 합의서. 오랜만에 보네. 2021년 판결 이후로 드물어졌거든.
+LEON: Welches Urteil?
+> 무슨 판결이요?
+KATRIN: Das Bundesverwaltungsgericht hat gesagt: Ein Bezirk darf das Vorkaufsrecht nicht einfach deshalb ausüben, weil er befürchtet, dass der Käufer die Mieter verdrängt.
+> 연방행정법원이 이렇게 판결했어요. 구청은 매수인이 세입자를 쫓아낼까 걱정된다는 이유만으로 선매권을 행사할 수 없다.
+JAN: Das hat die Bezirke damals sehr geschwächt.
+> 그때 그 판결로 구청들 힘이 많이 빠졌지.
+KATRIN: Sehr. Aber in diesem Fall hat das Bezirksamt trotzdem geprüft. Das Haus hatte Mängel. Feuchter Keller, alte Leitungen.
+> 많이. 그래도 이 사건에서는 구청이 검토를 했어. 건물에 하자가 있었거든. 눅눅한 지하실, 낡은 배관.
+LEON: Das stimmt. Tobi sagt, der Keller riecht wie eine Höhle.
+> 맞아요. 토비가 지하실에서 동굴 냄새가 난대요.
+KATRIN: Und der Käufer hatte Angst. Deshalb hat er unterschrieben. Hier: Paragraf vier.
+> 그리고 매수인은 겁이 났지. 그래서 서명한 거야. 여기, 제4조.
+JAN: Lies vor.
+> 읽어 줘.
+KATRIN: «Die Käuferin verpflichtet sich, für die Dauer von zwanzig Jahren keine Begründung von Wohnungseigentum vorzunehmen.»
+> «매수인은 20년 동안 소유 주택 설정을 하지 않을 것을 약속한다.»
+LEON: Begründung von Wohnungseigentum. Heißt das…
+> 소유 주택 설정. 그 말은…
+KATRIN: Keine Umwandlung. Zwanzig Jahre lang keine Eigentumswohnungen.
+> 전환 금지. 20년 동안 소유 주택으로 쪼갤 수 없다는 거예요.
+JAN: Aber die Wohnung von Gisela wurde im Oktober 2025 umgewandelt. Und an Dr. Sommer verkauft.
+> 그런데 기젤라의 집은 2025년 10월에 전환됐어. 그리고 조머 박사한테 팔렸고.
+KATRIN: Sieben Monate nach dieser Unterschrift. Genau.
+> 이 서명을 하고 일곱 달 뒤에. 바로 그거야.
+LEON: Aber das geht doch nicht! Das ist ein Vertragsbruch!
+> 그건 말이 안 되잖아요! 계약 위반이에요!
+KATRIN: Das ist ein Vertragsbruch. Und noch etwas: Für die Umwandlung brauchte man eine Genehmigung. Vom selben Bezirksamt.
+> 계약 위반이죠. 그리고 하나 더. 전환하려면 허가가 필요했어요. 같은 구청의 허가가.
+JAN: Das gleiche Amt verbietet im März die Umwandlung und genehmigt sie im September.
+> 같은 관청이 3월엔 전환을 금지하고 9월엔 허가했다는 거네.
+KATRIN: In einem Monat. Mira hat das schon gesehen, oder?
+> 그것도 한 달 만에. 미라가 이미 봤지?
+JAN: Antrag im August, Genehmigung im September.
+> 8월에 신청, 9월에 허가.
+LEON: Hat da niemand die Vereinbarung gelesen?
+> 아무도 그 합의서를 안 읽었어요?
+KATRIN: Entweder hat niemand sie gelesen. Oder jemand hat sie gelesen und trotzdem unterschrieben.
+> 아무도 안 읽었거나. 아니면 누군가 읽고도 서명했거나.
+JAN: Was bedeutet das juristisch für Gisela?
+> 그게 기젤라한테는 법적으로 무슨 의미야?
+KATRIN: Sehr viel. Wenn die Umwandlung gegen die Vereinbarung war, kann das Bezirksamt sie angreifen. Und Dr. Sommer hat dann ein großes Problem.
+> 아주 큰 의미지. 전환이 합의서 위반이었다면 구청이 그걸 문제 삼을 수 있어. 그럼 조머 박사는 큰 곤란에 빠지고.
+LEON: Und die Eigenbedarfskündigung?
+> 그럼 자가 사용 해지는요?
+KATRIN: Die war sowieso schwach. Jetzt ist sie fast tot.
+> 그건 원래도 약했어. 이제는 거의 죽은 거나 마찬가지야.
+JAN: Danke, Katrin. Darf ich das so schreiben?
+> 고마워, 카트린. 이렇게 써도 될까?
+KATRIN: Du darfst schreiben, was in den Akten steht. Und du fragst das Bezirksamt, wie das passieren konnte. Vorher keine Schlussfolgerungen.
+> 서류에 적힌 건 써도 돼. 그리고 이런 일이 어떻게 생겼는지 구청에 물어봐. 그 전에 결론부터 내리지 말고.
+
+# 장면 3 — ZWEI TAGE ZU FRÜH
+MIRA: Ihr seid zurück. Gut. Setzt euch. Ich habe etwas.
+> 왔구나. 잘됐다. 앉아. 뭘 좀 찾았어.
+JAN: Die Metadaten?
+> 메타데이터?
+MIRA: Die Metadaten. Das Bezirksamt hat die Abwendungsvereinbarung als PDF geschickt. Eingescannt? Nein. Original-Datei. Vom Käufer.
+> 메타데이터. 구청이 회피 합의서를 PDF로 보냈는데. 스캔본? 아니야. 원본 파일이야. 매수인 쪽에서 만든.
+LEON: Und was steht in den Metadaten?
+> 메타데이터엔 뭐가 있어요?
+MIRA: Wer die Datei erstellt hat. Mit welchem Programm. Und wann.
+> 누가 파일을 만들었는지. 어떤 프로그램으로. 그리고 언제.
+JAN: Wer?
+> 누가?
+MIRA: «Autor: hv-anwaelte». Hardenberg & Voss. Dieselbe Kanzlei, die uns den Drohbrief geschickt hat.
+> «작성자: hv-anwaelte». 하르덴베르크 & 포스. 우리한테 협박 편지 보낸 바로 그 법률사무소야.
+LEON: Und wann?
+> 그럼 언제요?
+MIRA: «Erstellt: 12. Februar 2025, 10:14 Uhr.»
+> «작성: 2025년 2월 12일 오전 10시 14분.»
+JAN: Und die interne Besprechung im Bezirksamt war…
+> 그리고 구청 내부 회의가…
+LEON: Am 14. Februar. Seite drei.
+> 2월 14일이요. 3쪽에 있어요.
+JAN: Zwei Tage vorher. Die Anwälte haben die Vereinbarung geschrieben, bevor das Bezirksamt überhaupt entschieden hat, das Vorkaufsrecht zu prüfen.
+> 이틀 전에. 구청이 선매권을 검토하기로 결정하기도 전에 변호사들이 합의서를 써 둔 거야.
+MIRA: Als ob sie wussten, was passieren wird. Und wann.
+> 무슨 일이 언제 일어날지 알았던 것처럼.
+LEON: Vielleicht ist das normal? Vielleicht bereiten Anwälte immer alles vor?
+> 그게 정상일 수도 있지 않아요? 변호사들은 늘 다 미리 준비하잖아요?
+MIRA: Gute Gegenrecherche, Leon. Ich habe das auch gedacht. Deshalb habe ich verglichen.
+> 좋은 반대 취재야, 레온. 나도 그렇게 생각했어. 그래서 비교해 봤지.
+JAN: Womit?
+> 뭐랑?
+MIRA: Mit fünf anderen Häusern aus unserer Liste. Alle im Bezirk Mitte. Alle mit Abwendungsvereinbarung.
+> 우리 목록에 있는 다른 건물 다섯 채랑. 전부 미테 구에 있고, 전부 회피 합의서가 있어.
+LEON: Und?
+> 그래서요?
+MIRA: In allen fünf Fällen wurde die Datei ein bis drei Tage vor der internen Besprechung erstellt. Immer von Hardenberg & Voss.
+> 다섯 건 모두 내부 회의 하루에서 사흘 전에 파일이 만들어졌어. 늘 하르덴베르크 & 포스가.
+JAN: Fünf von fünf. Das ist kein Zufall.
+> 다섯 건 중 다섯 건. 우연이 아니야.
+HELENE: Was ist kein Zufall?
+> 뭐가 우연이 아니에요?
+JAN: Helene. Jemand im Bezirksamt kennt die Termine. Und gibt sie weiter.
+> 헬레네. 구청 안의 누군가가 일정을 알고, 그걸 넘기고 있어요.
+HELENE: Das ist ein schwerer Vorwurf. Gegen eine Behörde.
+> 그건 심각한 의혹이에요. 관청을 상대로 하는.
+JAN: Ich weiß. Deshalb gehen wir morgen hin. Und fragen.
+> 알아요. 그래서 내일 직접 가서 물어보려고요.
+HELENE: Wohin?
+> 어디로요?
+JAN: In die Bezirksverordnetenversammlung. Die Stadträtin für Stadtentwicklung ist dort. Öffentliche Sitzung.
+> 구 의회요. 도시개발 담당 구청 의원이 거기 나와요. 공개 회의예요.
+HELENE: Gut. Aber du stellst Fragen, keine Anklagen.
+> 좋아요. 대신 질문만 해요, 고발하지 말고.
+
+# 장면 4 — IM RATHAUS
+LINDEMANN: Sie sind von Spreewerk? Die Sitzung ist gleich vorbei. Ich habe fünf Minuten.
+> 슈프레베르크에서 오셨다고요? 회의가 곧 끝나요. 5분 있어요.
+JAN: Danke, Frau Lindemann. Es geht um Gerichtstraße 61. Und um eine Abwendungsvereinbarung von März 2025.
+> 고맙습니다, 린데만 의원님. 게리히트슈트라세 61번지 건이에요. 그리고 2025년 3월의 회피 합의서요.
+LINDEMANN: Gerichtstraße 61. Ja, ich erinnere mich. Wir haben das Vorkaufsrecht geprüft. Der Käufer hat unterschrieben. Ein Erfolg für die Mieter.
+> 게리히트슈트라세 61번지. 네, 기억나요. 선매권을 검토했고, 매수인이 서명했죠. 세입자들한테는 성과였어요.
+JAN: In der Vereinbarung steht: zwanzig Jahre keine Umwandlung.
+> 합의서엔 20년 동안 전환 금지라고 적혀 있어요.
+LINDEMANN: Richtig. Das ist Standard.
+> 맞아요. 그게 표준이에요.
+JAN: Im September 2025 hat Ihr Amt eine Umwandlung für dasselbe Haus genehmigt.
+> 2025년 9월에 의원님 부서가 같은 건물의 전환을 허가했어요.
+LINDEMANN: Das… das kann nicht sein.
+> 그건… 그럴 리가 없어요.
+LEON: Hier ist das Dokument. Aus unserer IFG-Anfrage.
+> 여기 서류가 있어요. 저희 정보공개 청구로 받은 거예요.
+LINDEMANN: Zeigen Sie… Das ist unser Briefkopf. Aber diese Genehmigung habe ich nie gesehen.
+> 보여 줘요… 우리 구청 공문 양식이 맞네요. 그런데 이 허가서는 본 적이 없어요.
+JAN: Wer unterschreibt solche Genehmigungen?
+> 그런 허가서엔 누가 서명해요?
+LINDEMANN: Normalerweise der Fachbereich. Bei Konflikten gehen sie über meinen Tisch. Diese hier nicht.
+> 보통은 해당 부서가 해요. 문제가 있는 건 제 책상을 거치고요. 이건 안 거쳤어요.
+BRENNER: Frau Lindemann? Alles in Ordnung? Kann ich helfen?
+> 린데만 의원님? 괜찮으세요? 제가 도와드릴까요?
+LINDEMANN: Herr Brenner. Gut, dass Sie da sind. Das ist Herr Brenner, Leiter unseres Fachbereichs Wohnen.
+> 브레너 씨. 마침 잘 왔네요. 이쪽은 브레너 씨, 우리 주택과 팀장이에요.
+BRENNER: Holger Brenner. Freut mich. Ich lese Spreewerk gern. Gute Arbeit, wirklich.
+> 홀거 브레너입니다. 반갑습니다. 슈프레베르크 즐겨 읽어요. 정말 훌륭한 일을 하세요.
+JAN: Danke. Herr Brenner, kennen Sie diese Genehmigung?
+> 감사합니다. 브레너 씨, 이 허가서 아세요?
+BRENNER: Gerichtstraße… Wir haben jedes Jahr hunderte Anträge. Ich müsste in der Akte nachsehen.
+> 게리히트슈트라세라… 저희는 매년 신청이 수백 건씩 들어와요. 서류를 찾아봐야 알 것 같네요.
+LINDEMANN: Dann sehen wir nach. Morgen früh, Herr Brenner. Gemeinsam.
+> 그럼 찾아보죠. 내일 아침에, 브레너 씨. 같이.
+BRENNER: Natürlich. Selbstverständlich.
+> 물론이죠. 당연하죠.
+LINDEMANN: Herr Kowalczyk, ich melde mich bei Ihnen. Das verspreche ich. Ich will das selbst verstehen.
+> 코발치크 씨, 제가 연락드릴게요. 약속해요. 저도 이걸 직접 이해하고 싶어요.
+JAN: Danke. Wir schicken Ihnen unsere Fragen auch schriftlich.
+> 감사합니다. 질문은 서면으로도 보내 드릴게요.
+BRENNER: Darf ich Ihnen meine Karte geben? Wenn Sie Fragen haben, rufen Sie einfach direkt an. Ohne Pressestelle. Geht schneller.
+> 명함 드려도 될까요? 궁금한 게 있으면 그냥 직접 전화 주세요. 홍보실 거치지 말고요. 그게 더 빨라요.
+JAN: Sehr freundlich. Danke.
+> 친절하시네요. 감사합니다.
+
+# 장면 5 — DREI NAMEN
+LEON: Er war sehr nett. Fast zu nett.
+> 그분 엄청 친절했어요. 너무 친절할 정도로.
+JAN: Ja. «Ohne Pressestelle. Geht schneller.»
+> 그래. «홍보실 거치지 말고. 그게 더 빨라요.»
+LEON: Ist das verdächtig?
+> 그게 수상한 거예요?
+JAN: Allein nicht. Viele Beamte sind nett. Wir verdächtigen niemanden, weil er nett ist.
+> 그것만으로는 아니지. 친절한 공무원은 많아. 친절하다고 누구를 의심하진 않아.
+HELENE: Was wissen wir? Ohne Gefühle.
+> 우리가 아는 게 뭐죠? 감정 빼고.
+MIRA: Wer kannte die Termine der internen Besprechungen? Laut Organigramm drei Personen.
+> 내부 회의 일정을 아는 사람이 누구였나? 조직도상으로는 세 명이에요.
+HELENE: Welche?
+> 누구요?
+MIRA: Frau Lindemann, die Stadträtin. Herr Brenner, der Fachbereichsleiter. Und Frau Sevgi Aktaş, die Sachbearbeiterin für Vorkaufsrechte.
+> 구청 의원 린데만 씨. 팀장 브레너 씨. 그리고 선매권 담당 실무자 세브기 악타쉬 씨.
+LEON: Und wer bekam die E-Mail von Herrn Demir über die Mieterversammlung?
+> 그럼 세입자 모임에 관한 데미르 씨 이메일은 누가 받았어요?
+MIRA: «An die zuständige Stelle weitergeleitet.» Zuständig für Mieterberatung im Milieuschutz ist… der Fachbereich Wohnen.
+> «담당 부서로 전달됨.» 주거환경 보호구역 세입자 상담 담당은… 주택과야.
+JAN: Also wieder Brenner. Oder Frau Aktaş.
+> 그럼 또 브레너. 아니면 악타쉬 씨.
+HELENE: Oder jemand, den wir nicht kennen. Eine Sekretärin. Ein Praktikant. Ein Hacker.
+> 아니면 우리가 모르는 누군가. 비서. 인턴. 해커.
+JAN: Richtig. Drei Namen sind keine Antwort. Sie sind nur eine Frage.
+> 맞아요. 이름 세 개는 답이 아니에요. 질문일 뿐이죠.
+LEON: Und Frau Lindemann? Können wir ihr vertrauen?
+> 그럼 린데만 의원님은요? 믿어도 될까요?
+HELENE: Sie war überrascht. Oder sie ist eine gute Schauspielerin.
+> 놀란 것 같았어요. 아니면 연기를 잘하는 거고요.
+JAN: Sie hat gesagt: «Ich will das selbst verstehen.» Das sagen Täter normalerweise nicht.
+> «저도 이걸 직접 이해하고 싶어요»라고 했어요. 범인들은 보통 그런 말 안 하죠.
+HELENE: Normalerweise. Und Herr Brenner hat dir seine Karte gegeben.
+> 보통은요. 그리고 브레너 씨는 당신한테 명함을 줬고요.
+JAN: Mit Handynummer. Privat.
+> 휴대폰 번호까지. 개인 번호로.
+MIRA: Das kann Hilfsbereitschaft sein. Oder Neugier. Er will wissen, was wir wissen.
+> 도와주려는 걸 수도 있고, 호기심일 수도 있어요. 우리가 뭘 아는지 알고 싶은 거죠.
+HELENE: Und Frau Aktaş? Wer ist sie?
+> 그럼 악타쉬 씨는요? 어떤 사람이에요?
+MIRA: Seit zwei Jahren im Amt. Vorher Studium Stadtplanung. Keine Verbindungen, die ich sehe. Aber das heißt nichts.
+> 구청에서 일한 지 2년이요. 그 전엔 도시계획을 전공했고. 제가 보기엔 연결 고리가 없어요. 그래도 그게 아무 의미도 없을 수 있죠.
+LEON: Wie findet man die Antwort?
+> 그럼 답은 어떻게 찾아요?
+JAN: Ich habe eine Idee. Eine alte Methode. Aber Helene muss Ja sagen.
+> 생각이 하나 있어. 오래된 방법이야. 근데 헬레네가 허락해야 해.
+HELENE: Erzähl. Morgen. Heute bin ich zu müde für deine Ideen.
+> 말해 봐요. 내일. 오늘은 당신 아이디어 듣기엔 너무 피곤해요.
+TOBI: Jan, kurz, zwanzig Uhr. Marco hat heute jesagt: «Im Bezirksamt haben wir einen Freund. Der regelt das.»
+= Jan, kurz, zwanzig Uhr. Marco hat heute gesagt: «Im Bezirksamt haben wir einen Freund. Der regelt das.»
+> 얀, 짧게, 여덟 시야. 마르코가 오늘 그러더라. «구청에 우리 친구가 있어요. 그 사람이 다 처리해요.»
+JAN: «Einen Freund.» Hat er einen Namen gesagt?
+> «친구»라. 이름도 말했어?
+TOBI: Nee. Nur «der». Also 'n Mann.
+= Nein. Nur «der». Also ein Mann.
+> 아니. «그 사람»이라고만. 그러니까 남자야.
+
+# 엔딩 — DIE AKTE
+JAN: Mein Handy. Unbekannte Nummer. Kowalczyk?
+> 휴대폰. 모르는 번호네. 코발치크입니다?
+LINDEMANN: Herr Kowalczyk, hier ist Petra Lindemann. Entschuldigen Sie die späte Stunde.
+> 코발치크 씨, 페트라 린데만이에요. 늦은 시간에 죄송해요.
+JAN: Kein Problem. Haben Sie die Akte gefunden?
+> 괜찮습니다. 서류 찾으셨어요?
+LINDEMANN: Nein. Das ist das Problem. Ich bin nicht bis morgen früh geblieben. Ich bin selbst ins Archiv gegangen. Heute Abend.
+> 아니요. 그게 문제예요. 내일 아침까지 기다리지 않았어요. 오늘 저녁에 제가 직접 기록 보관실에 갔어요.
+JAN: Und?
+> 그래서요?
+LINDEMANN: Die Akte zur Umwandlung Gerichtstraße 61 ist nicht da. Der Ordner ist leer.
+> 게리히트슈트라세 61번지 전환 서류가 없어요. 서류철이 비어 있어요.
+JAN: Leer?
+> 비어 있다고요?
+LINDEMANN: Und die Akten zu den fünf anderen Häusern aus Ihren schriftlichen Fragen auch. Herr Kowalczyk, ich glaube, ich habe ein Problem in meinem eigenen Haus.
+> 서면 질문에 있던 다른 건물 다섯 채 서류도요. 코발치크 씨, 제 집안에 문제가 있는 것 같아요.
