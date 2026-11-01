@@ -1,0 +1,379 @@
+@part 7
+@ep 6
+@title Gestückelte Spenden
+@sub 쪼갠 후원금 · 만 유로가 되지 않는 돈
+@info 대사 150턴 · 난이도 C1 · 배경: 2028년 12월 중순, 게리히트슈트라세 61, 마르차온의 한 아파트, 크로이츠베르크의 공유 오피스, 토비의 골프 안, Thal & Partner 사무실, 엘케네 선술집, Spreewerk 편집국
+@cast LEON | 레온 피셔 (24) · 기자
+@cast KRAHL | 우베 크랄 (61) · 게리히트슈트라세 61의 새 관리인 (베를린 사투리)
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast DARIA | 다리아 코발 (29) · 간병 보조원, 전 조넨호프 직원
+@cast JONAS | 요나스 베르크만 (23) · 전 Hype und Hafen 인턴
+@cast JAN | 얀 코발치크 (45) · Thal & Partner 자문역 (위장)
+@cast KASPER | 루벤 카스퍼 (43) · Thal & Partner 실무 책임자
+@cast THAL | 막시밀리안 탈 박사 (65) · Thal & Partner 대표
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@cast OPITZ | 베른트 오피츠 (63) · 그루네발트 저택 정원사 (베를린 사투리)
+@cast SEIDEL | 울리히 자이델 교수 (71) · Spreewerk 재단 이사, 공동 설립자
+@cast SANDMANN | 그레고어 잔트만 (58) · 서클 보안 책임자
+@cast BRENNER | 홀거 브레너 (54) · 전 구청 주택과 팀장, 직무 배제·수사 중 (1부)
+@note ※ 공개 기준액 바로 아래로 쪼갠 정당 후원금 수백 건. 이름을 빌려준 사람들은 1부 건물의 관리인, 5부 간병업체 직원, 4부 에이전시 인턴처럼 만 유로를 가져 본 적 없는 사람들이다. 레온이 한 명씩 찾아가 확인한다. 이름 빌려준 사람들도 피해자일 수 있다는 점, 실명 보도의 무게(윤리강령 제8조)를 다룬다. 인물·단체 가상, 정당법 내용은 극 중 단순화.
+@note ※ 표현 초점: die Parteispende · die Stückelung · der Strohmann · der Rechenschaftsbericht · die Bundestagsverwaltung · die Veröffentlichungsgrenze
+@next 7부 7화 — «Die Abhörsoftware»(도청 프로그램) — 잔트만이 얀의 휴대폰을 '점검'하고, 스베타는 Spreewerk 휴대폰들에서 스파이웨어 흔적을 찾는다.
+
+# 콜드 오픈 — GERICHTSTRASSE EINUNDSECHZIG, HOF
+LEON: Herr Krahl? Leon Fischer, Spreewerk. Darf ich Ihnen eine Frage stellen? Eine ungewöhnliche.
+> 크랄 씨? 레온 피셔, Spreewerk입니다. 질문 하나 드려도 될까요? 좀 이상한 거요.
+KRAHL: Spreewerk. Ihr seid doch die, die den Laden hier umjekrempelt ham. Der Hausmeister vor mir war ja ooch eener von euch.
+= Spreewerk. Ihr seid doch die, die den Laden hier umgekrempelt haben. Der Hausmeister vor mir war ja auch einer von euch.
+> Spreewerk. 너희가 여기 판을 뒤집어 놨던 그 사람들이지. 내 전임 관리인도 너희 쪽 사람이었다며.
+LEON: Tobi. Ja. Er lässt grüßen.
+> 토비요. 네. 안부 전하래요.
+KRAHL: Der hat die Heizung besser jekonnt als ick. Also. Frage.
+= Der hat die Heizung besser gekonnt als ich. Also. Frage.
+> 그 친구가 나보다 난방은 잘 만졌지. 그래. 질문.
+LEON: Haben Sie im März letzten Jahres neuntausendneunhundert Euro an eine Partei gespendet?
+> 작년 3월에 한 정당에 9,900유로를 후원하셨어요?
+KRAHL: Ick? Neuntausend? Junge, ick hab nich ma neunhundert uff'm Konto. Ick hab 'nen Dispo.
+= Ich? Neuntausend? Junge, ich habe nicht mal neunhundert auf dem Konto. Ich habe einen Dispo.
+> 내가? 9천? 이봐, 난 통장에 9백도 없어. 마이너스 통장이야.
+LEON: Ihr Name steht auf einer Liste. Uwe Krahl. Gerichtstraße einundsechzig. Neuntausendneunhundert Euro. Am vierzehnten März.
+> 성함이 명단에 있어요. 우베 크랄. 게리히트슈트라세 61. 9,900유로. 3월 14일.
+KRAHL: … Vierzehnter März. Da hab ick… Warten Se ma.
+= … Vierzehnter März. Da habe ich… Warten Sie mal.
+> … 3월 14일. 그때 내가… 잠깐만.
+LEON: Ja?
+> 네?
+KRAHL: Da kam 'n Mann. Vom Verein. Hat jesacht, ick soll wat unterschreiben. Für die Mieterbeiräte. Hat mir zweehundert Euro jejeben. Für die Mühe.
+= Da kam ein Mann. Vom Verein. Hat gesagt, ich soll etwas unterschreiben. Für die Mieterbeiräte. Hat mir zweihundert Euro gegeben. Für die Mühe.
+> 그때 남자가 왔어. 협회에서. 뭐 하나 서명하래. 세입자 자문회를 위한 거라고. 수고비로 2백 유로 주더라.
+LEON: Welcher Verein, Herr Krahl?
+> 어떤 협회요, 크랄 씨?
+KRAHL: Dit Bündnis. Für privatet Wohneijentum. Die ham hier früher ooch schon rumjestanden.
+= Das Bündnis. Für privates Wohneigentum. Die haben hier früher auch schon herumgestanden.
+> 그 연합. 사적 주택 소유를 위한. 예전에도 여기 서성대던 놈들이야.
+
+# 장면 1 — WIE MAN STÜCKELT
+LEON: Das Bündnis für privates Wohneigentum. Teil eins. Brenners Verein.
+> 사적 주택 소유를 위한 연합. 1부. 브레너의 협회.
+HELENE: Erklär es mir, als wüsste ich nichts.
+> 내가 아무것도 모른다고 치고 설명해 봐.
+LEON: Parteien müssen jede Spende über zehntausend Euro im Rechenschaftsbericht mit Namen veröffentlichen. Darunter nicht. Wer also hunderttausend spenden will, ohne genannt zu werden, teilt sie auf. Elf Spenden zu neuntausend. Von elf Menschen.
+> 정당은 만 유로 넘는 후원금은 전부 회계 보고서에 이름과 함께 공개해야 해요. 그 아래는 안 해도 되고. 그러니까 이름 안 나오게 10만을 후원하려면 쪼개요. 9천씩 열한 건. 열한 사람한테서.
+KATRIN: Und das ist verboten. Wer Spenden unter fremdem Namen weiterleitet, verschleiert den wahren Spender. Das ist eine Strohmannspende. Die Partei muss so eine Spende zurückgeben oder abführen. Und sie kann sehr teuer werden.
+> 그리고 그건 금지야. 남의 이름으로 후원금을 넘기면 진짜 후원자를 감추는 거지. 차명 후원이야. 정당은 그런 돈을 돌려주거나 국고에 내야 해. 그리고 비용이 아주 커질 수 있어.
+LEON: Wer prüft das?
+> 그건 누가 조사해요?
+KATRIN: Die Bundestagsverwaltung. Sie prüft die Rechenschaftsberichte. Aber sie sieht nur Namen. Keine Geschichten. Die Geschichten müssen andere finden.
+> 연방의회 사무처. 회계 보고서를 심사해. 근데 이름만 봐. 이야기는 못 봐. 이야기는 다른 사람들이 찾아야 해.
+HELENE: Wie viele Namen hast du?
+> 이름이 몇 개야?
+LEON: Dreihundertachtzig. Ich habe sie in vier Gruppen geteilt. Gerichtstraße und Umgebung. Pflegedienste. Agenturen. Und eine Gruppe, die ich nicht verstehe.
+> 380개요. 네 그룹으로 나눴어요. 게리히트슈트라세와 그 주변. 간병 업체들. 에이전시들. 그리고 제가 이해 못 하는 그룹 하나.
+MIRA: Welche?
+> 어떤 거?
+LEON: Zwölf Namen. Alle mit derselben Postleitzahl. 14193. Grunewald.
+> 이름 열두 개. 전부 같은 우편번호. 14193. 그루네발트.
+SWETA: Die Reichen stückeln auch?
+> 부자들도 쪼갠다고?
+LEON: Die Reichen stückeln für ihre Hausangestellten. Die Namen sind Köchinnen. Fahrer. Ein Gärtner.
+> 부자들은 자기 가사 직원 이름으로 쪼개요. 이름들이 요리사들이에요. 운전기사들. 정원사 한 명.
+HELENE: Ein Gärtner.
+> 정원사.
+LEON: Ich weiß. Ich habe auch an Teil vier gedacht.
+> 알아요. 저도 4부 생각났어요.
+
+# 장면 2 — WIE MAN FRAGT
+SWETA: Leon. Bevor du losgehst. Wie willst du fragen?
+> 레온. 나가기 전에. 어떻게 물어볼 거야?
+LEON: Direkt. «Haben Sie gespendet?»
+> 직접적으로요. «후원하셨어요?»
+SWETA: Und wenn die Frau vor dir neuntausend Euro bekommen hat, die sie für die Miete ihrer Mutter gebraucht hat? Und jetzt steht ein Journalist vor ihrer Tür?
+> 그럼 네 앞의 여자가 엄마 월세에 쓸 9천 유로를 받았던 사람이라면? 그리고 지금 기자가 문 앞에 서 있다면?
+LEON: Dann schließt sie die Tür.
+> 그럼 문을 닫겠죠.
+SWETA: Oder sie lügt. Und dann hast du eine Lüge in deinem Block. Und eine Frau, die nachts nicht schläft.
+> 아니면 거짓말하거나. 그럼 네 수첩엔 거짓말 하나가. 그리고 밤에 못 자는 여자 하나가 생기지.
+LEON: Wie dann?
+> 그럼 어떻게요?
+SWETA: Sag ihr zuerst, was du nicht willst. Du willst sie nicht anzeigen. Du willst ihren Namen nicht drucken, wenn sie es nicht will. Du willst wissen, wer ihr das Geld gegeben hat.
+> 먼저 네가 원하지 않는 걸 말해. 신고할 생각 없다. 그 사람이 원치 않으면 이름 안 싣는다. 누가 그 돈을 줬는지 알고 싶다.
+KATRIN: Und versprich nichts, was du nicht halten kannst. Wenn die Staatsanwaltschaft später fragt, hast du ein Zeugnisverweigerungsrecht. Sie nicht.
+> 그리고 지킬 수 없는 건 약속하지 마. 나중에 검찰이 물으면 넌 증언 거부권이 있어. 그 사람은 없고.
+LEON: Also sage ich: «Ich kann Sie schützen. Aber nicht vor allem.»
+> 그럼 이렇게 말할게요: «보호해 드릴 수 있어요. 근데 모든 것으로부터는 아니에요.»
+SWETA: Das ist ehrlich. Ehrliche Sätze öffnen mehr Türen als schöne.
+> 그건 정직하네. 정직한 문장이 예쁜 문장보다 문을 더 많이 열어.
+
+# 장면 3 — IM GOLF
+TOBI: Marzahn. Dann Kreuzberg. Dann Grunewald. Ick fahr dich. Aber im Grunewald bleib ick im Auto.
+= Marzahn. Dann Kreuzberg. Dann Grunewald. Ich fahre dich. Aber im Grunewald bleibe ich im Auto.
+> 마르찬. 그다음 크로이츠베르크. 그다음 그루네발트. 태워 줄게. 근데 그루네발트에선 차에 있을 거야.
+LEON: Warum?
+> 왜요?
+TOBI: Weil ick da letztet Jahr 'nen Strafzettel jekriegt hab. Für Parken vor 'ner Villa. Achtundzwanzig Euro. Die Villa kostet zwölf Millionen.
+= Weil ich da letztes Jahr einen Strafzettel gekriegt habe. Für Parken vor einer Villa. Achtundzwanzig Euro. Die Villa kostet zwölf Millionen.
+> 작년에 거기서 딱지 뗐거든. 저택 앞에 주차했다고. 28유로. 그 저택은 1,200만 유로고.
+LEON: Tobi, darf ich dich was fragen? Wenn Jan zurückkommt. Haust du ihn wirklich?
+> 토비, 하나 물어봐도 돼요? 얀이 돌아오면. 진짜 칠 거예요?
+TOBI: Uff die Schulter. Nich ins Jesicht. Dit Jesicht braucht er noch. Für Interviews.
+= Auf die Schulter. Nicht ins Gesicht. Das Gesicht braucht er noch. Für Interviews.
+> 어깨를. 얼굴 말고. 얼굴은 아직 필요하잖아. 인터뷰용으로.
+LEON: Das ist fast nett.
+> 그건 거의 다정하네요.
+TOBI: Sach dit keenem. — Hier. Marzahn. Elfter Stock. Der Fahrstuhl is kaputt. Wie immer.
+= Sag das keinem. — Hier. Marzahn. Elfter Stock. Der Fahrstuhl ist kaputt. Wie immer.
+> 아무한테도 말하지 마. — 여기. 마르찬. 11층. 엘리베이터 고장. 늘 그렇듯.
+
+# 장면 4 — DARIA
+DARIA: Sie sind von der Zeitung? Ich habe nichts gemacht. Ich arbeite nicht mehr bei Sonnenhof.
+> 신문사에서 왔어요? 전 아무것도 안 했어요. 조넨호프에서 이제 일 안 해요.
+LEON: Frau Kowal, ich will Sie nicht anzeigen. Und ich drucke Ihren Namen nicht, wenn Sie es nicht wollen. Ich will nur wissen, wer Ihnen Geld gegeben hat. Im April. Neuntausendachthundert Euro.
+> 코발 씨, 신고하려는 거 아니에요. 그리고 원치 않으시면 성함 안 실어요. 그냥 누가 돈을 줬는지 알고 싶어요. 4월에. 9,800유로.
+DARIA: … Ich habe es nicht behalten. Ich schwöre. Ich habe es überwiesen. Am selben Tag.
+> … 안 가졌어요. 맹세해요. 송금했어요. 같은 날.
+LEON: Wer hat es Ihnen gegeben?
+> 누가 줬어요?
+DARIA: Der Chef von Sonnenhof. Er hat gesagt, es ist eine Prämie. Für alle, die Überstunden gemacht haben. Und dann kam ein Mann mit einem ausgefüllten Überweisungsträger. Ich musste nur unterschreiben.
+> 조넨호프 사장이요. 보너스라고 했어요. 초과 근무한 사람 전부에게. 그러고 나서 한 남자가 다 채워진 이체 신청서를 들고 왔어요. 전 서명만 하면 됐어요.
+LEON: Wussten Sie, dass es an eine Partei ging?
+> 그게 정당으로 가는 줄 아셨어요?
+DARIA: Ich habe es gelesen. Aber ich dachte, das ist hier so. In Deutschland. Man spendet für eine Partei, und dann bekommt man ein Visum für den Bruder.
+> 읽었어요. 근데 여기선 원래 그런 줄 알았어요. 독일에선. 정당에 후원하면 오빠 비자가 나온다고.
+LEON: Hat Ihnen das jemand versprochen?
+> 누가 그렇게 약속했어요?
+DARIA: Der Mann mit dem Überweisungsträger. Er hat gesagt: «Die Partei vergisst ihre Freunde nicht.»
+> 이체 신청서 들고 온 남자요. «정당은 친구를 잊지 않는다»고 했어요.
+LEON: Und? Hat Ihr Bruder ein Visum bekommen?
+> 그래서요? 오빠는 비자 받았어요?
+DARIA: Nein. Er ist in Lwiw. Er wartet noch.
+> 아니요. 르비우에 있어요. 아직 기다려요.
+LEON: Frau Kowal. Das, was Ihnen passiert ist, heißt Ausnutzung. Nicht Spende. Darf ich das so schreiben? Ohne Ihren Namen?
+> 코발 씨. 당하신 건 착취라고 해요. 후원이 아니라. 그렇게 써도 될까요? 성함 없이?
+DARIA: Wenn Sie schreiben, dass ich nichts behalten habe.
+> 제가 아무것도 안 가졌다고 써 주시면요.
+LEON: Das schreibe ich. In den ersten Satz.
+> 그렇게 쓸게요. 첫 문장에.
+
+# 장면 5 — JAN SCHREIBT NICHT
+KASPER: Spreewerk hat Mittwoch veröffentlicht. «Der Satz um drei Uhr nachts». Mit Wernickes Initialen. Der Senat hat den Tempelhof-Absatz am Donnerstag gestrichen. Der Fonds bleibt bei sechshundert Millionen.
+> Spreewerk가 수요일에 보도했어요. «새벽 세 시의 문장». 베르니케 이니셜까지. 시 정부가 목요일에 템펠호프 단락을 삭제했어요. 기금은 6억 그대로고.
+JAN: Und Kleefeld?
+> 클레펠트는요?
+KASPER: Beurlaubt. Er hat einen Anwalt genommen. Einen, den wir nicht kennen. Das ist schlecht.
+> 휴직이요. 변호사를 선임했어요. 우리가 모르는 변호사. 그게 안 좋아요.
+JAN: Und was soll ich tun?
+> 그럼 전 뭘 하죠?
+KASPER: Spreewerk hat jetzt die nächsten Fragen geschickt. Über Parteispenden. Dr. Thal möchte, dass Sie die Antwort schreiben. Sie kennen die Leute dort. Sie wissen, was sie hören wollen.
+> Spreewerk가 이제 다음 질문을 보냈어요. 정당 후원금에 관해. 탈 박사님은 당신이 답변을 쓰길 원해요. 거기 사람들을 알잖아요. 뭘 듣고 싶어 하는지 알고.
+JAN: Nein.
+> 아니요.
+KASPER: Nein?
+> 아니요?
+JAN: Sie würden meinen Stil erkennen. In zwei Sätzen. Helene Brandt erkennt meine Kommas. Dann wissen sie, dass ich für Sie schreibe. Und ich will nicht, dass sie das wissen. Noch nicht.
+> 제 문체를 알아볼 거예요. 두 문장 만에. 헬레네 브란트는 제 쉼표를 알아봐요. 그럼 제가 당신들 위해 쓴다는 걸 알게 되죠. 그리고 그걸 알게 되는 건 싫어요. 아직은.
+THAL: (in der Tür) Eitelkeit. Endlich. Ich hatte mich schon gefragt, wann sie kommt.
+> (문간에서) 허영심. 드디어. 언제 나오나 했어요.
+JAN: Ich nenne es Würde.
+> 전 그걸 품위라고 부르죠.
+THAL: Alle Eitelkeit nennt sich Würde, Herr Kowalczyk. — Ruben, schreib du die Antwort. Kurz. «Wir äußern uns nicht zu Spekulationen.» Und Herr Kowalczyk liest sie Korrektur. Damit kein Komma von ihm darin ist.
+> 모든 허영심은 자기를 품위라고 부르죠, 코발치크 씨. — 루벤, 네가 답변을 써. 짧게. «추측에는 입장을 밝히지 않습니다.» 그리고 코발치크 씨가 교정을 봐요. 그의 쉼표가 하나도 안 들어가게.
+
+# 장면 6 — JONAS
+JONAS: Hype und Hafen. Ja. Ich war da Praktikant. Bis die ganze Sache mit den Doppelgängern rauskam. Dann war die Agentur weg. Und mein Praktikumszeugnis auch.
+> 하이프 운트 하펜. 네. 거기 인턴이었어요. 도플갱어 사건 다 터질 때까지. 그러고 나서 에이전시가 없어졌죠. 제 인턴 수료증도.
+LEON: Neuntausendneunhundert Euro. Im Februar. Unter Ihrem Namen.
+> 9,900유로. 2월에. 당신 명의로.
+JONAS: Ich wusste, dass das irgendwann jemand fragt. Ich habe es aufgeschrieben. Alles. Seit dem Tag.
+> 언젠가 누가 물을 줄 알았어요. 적어 놨어요. 전부. 그날부터.
+LEON: Sie haben es aufgeschrieben?
+> 적어 놨다고요?
+JONAS: Ich habe Ihre Artikel gelesen. Über Gedächtnisprotokolle. Datum, Uhrzeit, wer, was. Ich dachte, wenn das ein Journalist kann, kann das ein Praktikant auch.
+> 당신들 기사를 읽었거든요. 기억 기록에 관한. 날짜, 시간, 누가, 무엇을. 기자가 할 수 있으면 인턴도 할 수 있다고 생각했어요.
+LEON: Was steht drin?
+> 뭐라고 쓰여 있어요?
+JONAS: Vierter Februar, siebzehn Uhr. Mein Chef. Ein Umschlag mit Bargeld. Zehntausend. Ein Formular, schon ausgefüllt. «Unterschreib, überweis, behalte hundert. Für die Mühe.» Und daneben stand ein Mann mit einem grauen Mantel. Er hat nichts gesagt. Er hat nur geschaut, ob ich unterschreibe.
+> 2월 4일 17시. 제 상사. 현금 든 봉투. 만 유로. 이미 채워진 신청서. «서명하고, 송금하고, 백은 가져. 수고비로.» 그리고 옆에 회색 코트 입은 남자가 서 있었어요. 아무 말도 안 했어요. 제가 서명하는지만 봤어요.
+LEON: Können Sie den Mann beschreiben?
+> 그 남자 묘사할 수 있어요?
+JONAS: Älter. Kurze graue Haare. Er hat sich nicht hingesetzt. Er hat die ganze Zeit an der Tür gestanden. Wie jemand, der gewohnt ist, Türen zu bewachen.
+> 나이 좀 있고. 짧은 회색 머리. 앉지 않았어요. 내내 문가에 서 있었어요. 문 지키는 데 익숙한 사람처럼.
+LEON: Darf ich Ihnen ein Foto zeigen? Von einer Konferenz. Teil drei.
+> 사진 하나 보여 드려도 돼요? 한 컨퍼런스 사진. 3부.
+JONAS: … Das ist er.
+> … 이 사람이에요.
+LEON: Gregor Sandmann.
+> 그레고어 잔트만.
+JONAS: Sie kennen ihn?
+> 아세요?
+LEON: Er hat einen Namen. Mehr weiß ich noch nicht. Und das schreibe ich auch nicht, bevor ich mehr weiß.
+> 이름이 있다는 것만. 더는 아직 몰라요. 그리고 더 알기 전엔 그것도 안 써요.
+
+# 장면 7 — BEI ELKE, ABENDS
+ELKE: Leon, setz dich. Du siehst aus, als hättste heute zehn Treppen zu ville jeloofen.
+= Leon, setz dich. Du siehst aus, als hättest du heute zehn Treppen zu viel gelaufen.
+> 레온, 앉아. 오늘 계단을 열 개는 더 오른 얼굴이네.
+LEON: Elf Stockwerke in Marzahn. Vier in Kreuzberg. Und in Grunewald hat mir niemand aufgemacht.
+> 마르찬에서 11층. 크로이츠베르크에서 4층. 그리고 그루네발트에선 아무도 문을 안 열어 줬어요.
+ELKE: Im Grunewald macht keener uff. Da ham die Türen 'ne Klingel für Leute und 'ne andre für Lieferanten.
+= Im Grunewald macht keiner auf. Da haben die Türen eine Klingel für Leute und eine andere für Lieferanten.
+> 그루네발트에선 아무도 안 열어. 거긴 문에 사람용 초인종이랑 배달원용 초인종이 따로 있어.
+LEON: Elke, wie hat Jan das gemacht? Jeden Tag Leute fragen, die Angst haben?
+> 엘케, 얀은 어떻게 했어요? 매일 겁먹은 사람들한테 묻는 거?
+ELKE: Er hat zujehört. Länger, als die andern jedacht ham. Und er hat nie mehr versprochen, als er hatte. Dit hat er von seinem Vater. Zbigniew hat nie 'n Bier bestellt, wenn er's nich bezahlen konnte.
+= Er hat zugehört. Länger, als die anderen gedacht haben. Und er hat nie mehr versprochen, als er hatte. Das hat er von seinem Vater. Zbigniew hat nie ein Bier bestellt, wenn er es nicht bezahlen konnte.
+> 들어 줬지. 남들 생각보다 더 오래. 그리고 가진 것보다 더 약속한 적이 없어. 그건 아빠한테 물려받은 거야. 즈비그니에프는 낼 수 없으면 맥주를 시킨 적이 없어.
+LEON: Eine Frau in Marzahn hat ihr Geld überwiesen, weil sie dachte, ihr Bruder bekommt dann ein Visum.
+> 마르찬의 한 여자는 오빠가 비자를 받는 줄 알고 돈을 송금했어요.
+ELKE: Und? Haste ihr wat versprochen?
+= Und? Hast du ihr etwas versprochen?
+> 그래서? 뭘 약속했어?
+LEON: Dass ich in den ersten Satz schreibe, dass sie nichts behalten hat.
+> 그 사람이 아무것도 안 가졌다고 첫 문장에 쓰겠다고요.
+ELKE: Denn biste een Journalist. Und keener von denen.
+= Dann bist du ein Journalist. Und keiner von denen.
+> 그럼 넌 기자야. 그놈들 중 하나가 아니라.
+
+# 장면 7-2 — DER GÄRTNER AM ZAUN
+OPITZ: Sie da im Golf. Sie stehen vor meiner Einfahrt. Also, vor der Einfahrt von meinen Herrschaften.
+= Sie da im Golf. Sie stehen vor meiner Einfahrt. Also, vor der Einfahrt meiner Herrschaften.
+> 거기 골프 탄 양반. 우리 집 진입로 앞에 섰잖아. 아니, 우리 주인 양반들 진입로.
+TOBI: Tschuldigung. Ick wart uff 'nen Kollegen. Der klingelt grade bei Ihren Nachbarn. Keener macht uff.
+= Entschuldigung. Ich warte auf einen Kollegen. Der klingelt gerade bei Ihren Nachbarn. Keiner macht auf.
+> 죄송해요. 동료 기다려요. 지금 이웃집 초인종 누르는 중이에요. 아무도 안 열어 줘요.
+OPITZ: Die machen nie uff. Die ham Personal fürs Uffmachen. Und dit Personal hat heut frei. Wat will er denn?
+= Die machen nie auf. Die haben Personal fürs Aufmachen. Und das Personal hat heute frei. Was will er denn?
+> 절대 안 열어. 문 여는 직원이 따로 있어. 그 직원은 오늘 쉬는 날이고. 뭘 원하는데?
+TOBI: Wissen, ob die Köchin von nebenan neuntausend Euro an 'ne Partei jespendet hat.
+= Wissen, ob die Köchin von nebenan neuntausend Euro an eine Partei gespendet hat.
+> 옆집 요리사가 정당에 9천 유로 후원했는지 알고 싶대요.
+OPITZ: (lacht) Die Köchin? Die Marianne? Die spart seit zehn Jahren für 'ne Hüfte. — Aber ick sach Ihnen wat. Ick hab ooch unterschrieben. Letzten Sommer.
+= (lacht) Die Köchin? Die Marianne? Die spart seit zehn Jahren für eine Hüfte. — Aber ich sage Ihnen etwas. Ich habe auch unterschrieben. Letzten Sommer.
+> (웃음) 요리사? 마리안네? 고관절 수술비 10년째 모으는 중이야. — 근데 내가 하나 말해 줄게. 나도 서명했어. 작년 여름에.
+TOBI: Sie och?
+= Sie auch?
+> 아저씨도요?
+OPITZ: Der Herr hat jesacht, dit is für die Demokratie. Er hat dit Jeld jejeben, ick hab dit Papier unterschrieben. Ick dachte, so machen dit die Reichen. Die spenden durch uns. Damit's bescheidener aussieht.
+= Der Herr hat gesagt, das ist für die Demokratie. Er hat das Geld gegeben, ich habe das Papier unterschrieben. Ich dachte, so machen das die Reichen. Die spenden durch uns. Damit es bescheidener aussieht.
+> 주인 양반이 민주주의를 위한 거라더군. 그 양반이 돈을 주고, 난 종이에 서명하고. 부자들은 원래 그렇게 하나 보다 했지. 우리를 통해서 후원한다고. 더 겸손해 보이게.
+TOBI: Würden Se dit meinem Kollegen erzählen?
+= Würden Sie das meinem Kollegen erzählen?
+> 그거 제 동료한테 얘기해 주실래요?
+OPITZ: Wenn er mir sacht, wie ick meine Stelle behalte, wenn's inne Zeitung steht.
+= Wenn er mir sagt, wie ich meine Stelle behalte, wenn es in der Zeitung steht.
+> 신문에 나도 내가 일자리 지킬 방법을 말해 주면.
+TOBI: Dit kann er nich. Aber er kann Ihren Namen weglassen. Und er hat 'ne Anwältin, die Leuten wie Ihnen hilft. Umsonst.
+= Das kann er nicht. Aber er kann Ihren Namen weglassen. Und er hat eine Anwältin, die Leuten wie Ihnen hilft. Umsonst.
+> 그건 못 해요. 근데 이름은 뺄 수 있어요. 그리고 아저씨 같은 사람 돕는 변호사가 있어요. 공짜로.
+OPITZ: Denn holen Se ihn. Aber schnell. Um fünf kommt der Herr nach Hause.
+= Dann holen Sie ihn. Aber schnell. Um fünf kommt der Herr nach Hause.
+> 그럼 불러 와. 근데 빨리. 다섯 시에 주인 양반 와.
+
+# 장면 8 — DIE ZAHLEN
+MIRA: Ich habe Leons Liste mit den Kontobewegungen abgeglichen. Soweit wir sie haben. Dreihundertachtzig Spenden. Zusammen drei Komma sechs Millionen Euro. In zwei Jahren.
+> 레온 명단을 계좌 흐름이랑 맞춰 봤어요. 우리가 가진 범위 안에서. 후원 380건. 합계 360만 유로. 2년간.
+HELENE: Für eine Landespartei ist das viel.
+> 주 정당치고는 많네.
+MIRA: Und es kommt zurück. Dreihundertachtzig Spender, aber das Geld kommt aus sieben Quellen. Sonnenhof. Hype und Hafen. Zwei Wohnungsunternehmen. Und drei Treuhandkonten. Eines davon kennen wir.
+> 그리고 다시 모여요. 후원자는 380명인데 돈은 일곱 군데서 나와요. 조넨호프. 하이프 운트 하펜. 주택 회사 두 곳. 그리고 신탁 계좌 세 개. 그중 하나는 우리가 알아요.
+SWETA: VFH Beteiligungs KG.
+> VFH 지분 합자회사.
+MIRA: Das Geld aus den Cum-Cum-Ausgleichszahlungen geht als Spenden an die Partei. Und die Partei schreibt Haushalte, die die Grundstücke wertvoller machen. Ein Kreis.
+> 쿰쿰 정산금이 후원금이 돼서 정당으로 가요. 그리고 정당은 땅값을 올리는 예산을 쓰고. 하나의 원이죠.
+HELENE: Mit Bäumen darin.
+> 안에 나무가 있는.
+KATRIN: Wir können die Partei fragen. Und die Bundestagsverwaltung informieren? Nein. Wir sind keine Behörde. Wir veröffentlichen. Dann prüfen die.
+> 정당에 물어볼 수 있어. 그럼 연방의회 사무처에 알려? 아니. 우린 관청이 아니야. 보도하는 거지. 그럼 그쪽이 조사해.
+LEON: Und die Strohmänner? Wenn wir veröffentlichen, kommt die Staatsanwaltschaft zu ihnen. Zu Daria. Zu Herrn Krahl.
+> 그럼 차명 후원자들은요? 보도하면 검찰이 그 사람들한테 가요. 다리아한테. 크랄 씨한테.
+KATRIN: Dann brauchen sie Anwälte. Und das ist das Erste, was wir organisieren. Bevor ein Wort erscheint.
+> 그럼 변호사가 필요하지. 그게 우리가 제일 먼저 마련할 거야. 한 마디라도 나가기 전에.
+HELENE: Leon. Das war deine Recherche. Du schreibst den Text. Und du rufst morgen den letzten Namen auf der Liste an. Den du nicht verstehst.
+> 레온. 네 취재였어. 네가 기사 써. 그리고 내일 명단의 마지막 이름에 전화해. 네가 이해 못 하는 그 이름.
+LEON: Den in Lichterfelde. Holger Brenner. Dreimal neuntausendneunhundert.
+> 리히터펠데의 그 사람. 홀거 브레너. 9,900 세 번.
+
+# 장면 8-2 — SAMSTAG, FRÜHSTÜCK
+SEIDEL: Helene, du siehst müde aus. Ist es Jan? Du vermisst ihn.
+> 헬레네, 피곤해 보여. 얀 때문이야? 보고 싶구나.
+HELENE: Ich vermisse ihn jeden Morgen. Um neun, wenn er nicht da ist und ich niemanden anschreien kann.
+> 매일 아침 보고 싶어. 아홉 시에, 그가 없어서 소리 지를 사람이 없을 때.
+SEIDEL: Und woran arbeitet ihr jetzt? Ohne ihn?
+> 그럼 지금은 뭘 하고 있어? 그 없이?
+HELENE: An der Pflege. Weiter. Teil fünf hat noch offene Fragen. Leon fährt viel nach Marzahn.
+> 간병이야. 계속. 5부에 아직 열린 질문이 있어. 레온이 마르찬에 자주 가.
+SEIDEL: Marzahn. Gut. Pflege ist wichtig. Und weniger gefährlich als Grunewald, nicht wahr?
+> 마르찬. 좋네. 간병은 중요하지. 그리고 그루네발트보단 덜 위험하고, 안 그래?
+HELENE: Wer redet von Grunewald, Ulrich?
+> 누가 그루네발트 얘기를 했어, 울리히?
+SEIDEL: Niemand. Ich meine nur. Nach allem, was mit Jan passiert ist. Ich mache mir Sorgen um dich.
+> 아무도. 그냥 하는 말이야. 얀한테 일어난 일 다음이니까. 네가 걱정돼.
+HELENE: Ich weiß, Ulrich. Du machst dir immer Sorgen. Seit zwanzig Jahren. — Noch Kaffee?
+> 알아, 울리히. 넌 늘 걱정하지. 20년째. — 커피 더?
+
+# 장면 8-3 — DER ERSTE SATZ
+LEON: Helene. Mein erster Satz. «Daria K. hat keinen Cent behalten.»
+> 헬레네. 제 첫 문장이요. «다리아 K.는 한 푼도 갖지 않았다.»
+HELENE: Und der zweite?
+> 두 번째는?
+LEON: «Trotzdem steht ihr Name im Spendenregister einer Berliner Partei. Neben dreihundertneunundsiebzig anderen.»
+> «그런데도 그녀의 이름은 한 베를린 정당의 후원 명부에 있다. 다른 379명 옆에.»
+HELENE: Gut. Und wo steht die Partei? Die Zahl? Die Treuhandkonten?
+> 좋아. 그럼 정당은 어디 나와? 액수는? 신탁 계좌는?
+LEON: Im dritten Absatz. Jan hat immer gesagt: Erst der Mensch. Dann die Zahl. Sonst liest niemand bis zur Zahl.
+> 세 번째 단락에요. 얀이 늘 말했어요: 먼저 사람. 그다음 숫자. 안 그러면 아무도 숫자까지 안 읽는다고.
+HELENE: … Das hat er nicht gesagt. Das habe ich gesagt. Zu ihm. Vor zwölf Jahren.
+> … 그건 그가 한 말이 아니야. 내가 한 말이야. 그한테. 12년 전에.
+LEON: Dann hat er es gut gelernt.
+> 그럼 잘 배웠네요.
+HELENE: Und du auch. Streich «einer Berliner Partei». Nenn sie, wenn Katrin es freigibt. Und frag morgen den letzten Namen.
+> 너도. «한 베를린 정당»은 지워. 카트린이 허락하면 이름을 대. 그리고 내일 마지막 이름한테 물어봐.
+LEON: Mache ich.
+> 그럴게요.
+
+# 장면 9 — BRENNERS TÜR
+LEON: Herr Brenner? Leon Fischer, Spreewerk.
+> 브레너 씨? 레온 피셔, Spreewerk입니다.
+BRENNER: Spreewerk. Natürlich. Sie haben mich vor zwei Jahren meine Stelle gekostet. Was wollen Sie noch? Mein Haus?
+> Spreewerk. 당연하지. 2년 전에 당신들 때문에 일자리 잃었어요. 뭘 더 원해요? 내 집?
+LEON: Ich will wissen, warum Sie dreimal neuntausendneunhundert Euro an eine Partei gespendet haben. Als Sie keinen Job mehr hatten.
+> 왜 일자리도 없을 때 정당에 9,900유로를 세 번 후원하셨는지 알고 싶어요.
+BRENNER: … Das habe ich nicht. Das war ich nicht.
+> … 안 했어요. 내가 아니었어요.
+LEON: Ihr Name steht auf dem Überweisungsträger.
+> 이체 신청서에 성함이 있어요.
+BRENNER: Mein Name stand auf vielen Papieren. Die ich nicht geschrieben habe. Das wollte damals auch niemand hören. Am wenigsten Ihre Zeitung.
+> 내 이름은 많은 서류에 있었어요. 내가 쓰지 않은. 그때도 아무도 듣고 싶어 하지 않았지. 당신네 신문이 제일 그랬고.
+LEON: Ich höre jetzt zu.
+> 지금은 제가 들을게요.
+BRENNER: Sie? Sie sind ein Kind. Mit Ihnen rede ich nicht. Gehen Sie.
+> 당신이? 애잖아요. 당신이랑은 얘기 안 해요. 가요.
+
+# 엔딩 — EIN ANRUF IN MITTE
+KASPER: Herr Kowalczyk. Ein Anruf für Sie. Über die Zentrale. Ein Herr Brenner. Er sagt, er hat Ihre alte Nummer nicht mehr. Kennen Sie einen Brenner?
+> 코발치크 씨. 전화 왔어요. 대표 번호로. 브레너란 사람이요. 옛 번호가 없대요. 브레너 알아요?
+JAN: … Teil eins. Ein Bezirksbeamter. Ich habe über ihn geschrieben.
+> … 1부. 구청 공무원이요. 그 사람에 대해 썼어요.
+KASPER: Dann reden Sie mit ihm. Und erzählen Sie mir danach alles. Er hat gerade einen Besuch von Ihrer alten Zeitung bekommen.
+> 그럼 얘기해 봐요. 그리고 나중에 다 말해 줘요. 방금 당신 옛 신문사에서 찾아갔다더군요.
+JAN: Herr Brenner. Kowalczyk.
+> 브레너 씨. 코발치크예요.
+BRENNER: Kowalczyk. Sie haben mich ruiniert. Und Sie sind trotzdem der Einzige, der mir damals zugehört hat. Bevor Sie geschrieben haben.
+> 코발치크. 당신이 날 망쳤어요. 그런데도 그때 내 말을 들어 준 사람은 당신뿐이었어요. 쓰기 전에.
+JAN: Sie haben angerufen. Bei Thal und Partner.
+> 탈 & 파트너로 전화하셨네요.
+BRENNER: Weil ich gelesen habe, dass Sie jetzt dort sind. Bei denen. Und ich will, dass die wissen, dass ich mit Ihnen rede. Damit sie aufhören, meinen Namen zu benutzen.
+> 당신이 이제 거기 있다고 읽었으니까. 그놈들 쪽에. 그리고 내가 당신이랑 얘기한다는 걸 그놈들이 알았으면 해서요. 내 이름 그만 쓰라고.
+JAN: Herr Brenner, das ist kein guter Ort für dieses Gespräch.
+> 브레너 씨, 여긴 이 대화에 좋은 곳이 아니에요.
+BRENNER: Für mich gibt es keinen guten Ort mehr. Ich habe Unterlagen. Wer mir die Formulare gebracht hat. Wer mir gesagt hat, ich bekomme meine Stelle zurück, wenn ich unterschreibe. Und wer daneben stand. Ein Mann mit grauem Mantel.
+> 나한텐 이제 좋은 곳이 없어요. 서류가 있어요. 누가 신청서를 가져왔는지. 서명하면 자리를 돌려받는다고 누가 말했는지. 그리고 누가 옆에 서 있었는지. 회색 코트 입은 남자.
+JAN: (leise) Nicht am Telefon.
+> (조용히) 전화로는 말고요.
+BRENNER: Doch. Am Telefon. Damit der Mann im grauen Mantel es hört. Er hört doch immer zu, oder?
+> 아니. 전화로. 회색 코트 남자가 듣게. 그 사람은 항상 듣잖아요, 안 그래요?
+SANDMANN: (in der Tür, ruhig) Herr Kowalczyk. Wenn Sie fertig sind — ich möchte mir Ihr Telefon ansehen.
+> (문간에서, 차분하게) 코발치크 씨. 끝나면 — 당신 전화기를 좀 봤으면 하는데요.
