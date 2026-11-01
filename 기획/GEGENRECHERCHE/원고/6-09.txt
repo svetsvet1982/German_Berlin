@@ -1,0 +1,345 @@
+@part 6
+@ep 9
+@title Jakob-Kaiser-Haus
+@sub 야코프 카이저 하우스 · 겉으로는 친근하게, 속으로는 떠보며
+@info 대사 150턴 · 난이도 C1− · 배경: 2028년 10월, Spreewerk 편집국, 연방의회 의원회관 야코프 카이저 하우스(보안 검색대·렌츠의 사무실·구내식당), 슈프레강 변
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast LENZ | 도미니크 렌츠 (40) · 야당 의원실 실장, 국방위원회 담당
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast MERTENS | 프랑크 메르텐스 (58) · 야당 연방의회 의원, 국방위원회 위원 (렌츠의 의원)
+@cast PFORTE | 출입 관리 직원 (50대)
+@cast KURATOR | 큐레이터 · 채널 관리자 (텔레그램 메시지)
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@note ※ 얀이 기자 출입증으로 의원회관에 들어가 렌츠를 만난다. 렌츠는 얀이 '야넥'이라는 걸 모른다. 팀은 4부의 '꿀단지'처럼, 존재하지 않는 허구의 정보 하나를 대화에 흘려 그것이 큐레이터에게 닿는지 보기로 한다(실존 인물·장소 피해 없음, 공개하지 않음). 등장 인물·정당 가상.
+@note ※ 표현 초점: der Hausausweis · der Büroleiter · das Hintergrundgespräch · die Diskretion · das doppelte Spiel · der Köder
+@next 6부 10화 — «Leipzig»(라이프치히) — 스베타와 미라가 라이프치히 드론 사건 공판과 현지 취재로 같은 요원망의 흔적을 찾는다.
+
+# 콜드 오픈 — DER KÖDER
+KATRIN: Bevor du gehst: Was genau willst du ihm sagen? Den Köder. Wort für Wort.
+> 가기 전에: 정확히 뭘 말할 거야? 미끼. 한 글자 한 글자.
+JAN: «Wir haben Hinweise, dass am einundzwanzigsten Oktober eine Lieferung von Filterplatinen über den Hafen Rostock geht. Nachts. In einem Container mit falscher Deklaration.»
+> «10월 21일에 필터 기판 화물이 로스토크 항을 통해 나간다는 단서가 있습니다. 밤에. 허위 신고된 컨테이너로.»
+MIRA: Und das ist komplett erfunden. Es gibt keine solche Lieferung. Ich habe mit Bondar gesprochen. Seine Platinen gehen nicht über Rostock. Und am einundzwanzigsten geht gar nichts.
+> 그리고 그건 완전히 지어낸 거예요. 그런 화물은 없어요. 본다르랑 얘기했어요. 그의 기판은 로스토크로 안 가요. 그리고 21일엔 아무것도 안 나가요.
+KATRIN: Und niemand kann dadurch zu Schaden kommen? Kein Hafenarbeiter, keine Reederei, kein echtes Schiff?
+> 그리고 그걸로 피해 볼 사람은 없어? 항만 노동자도, 선사도, 실제 배도?
+MIRA: Am einundzwanzigsten liegt laut öffentlichem Hafenplan nur eine Fähre nach Dänemark am Kai. Mit Urlaubern. Keine Fracht in die Ukraine.
+> 공개 항만 일정표에 따르면 21일엔 덴마크행 여객선만 부두에 있어요. 휴가객들 태운. 우크라이나행 화물은 없어요.
+HELENE: Und wenn jemand auf die Idee kommt, die Fähre anzugreifen?
+> 누가 그 여객선을 공격할 생각을 하면?
+DANA: Dann steht am einundzwanzigsten in Rostock mehr Polizei als Urlauber. Ich habe die Kollegen informiert. Diesmal mit ganzem Konzept. Ohne Beschreibung von Haustüren.
+> 그럼 21일 로스토크엔 휴가객보다 경찰이 더 많을 거야. 동료들한테 알렸어. 이번엔 완전한 계획서로. 현관문 묘사 없이.
+SWETA: Wie bei Brehme in Teil vier. Ein Mann, den es nicht gibt. Diesmal ein Container, den es nicht gibt.
+> 4부의 브레메처럼. 존재하지 않는 남자. 이번엔 존재하지 않는 컨테이너.
+JAN: Und wenn der Kurator Janek in den nächsten Tagen nach Rostock schickt — dann wissen wir, wohin der Satz gewandert ist. Und von wem.
+> 그리고 큐레이터가 며칠 안에 야넥을 로스토크로 보내면 — 그 문장이 어디로 갔는지 알게 되지. 그리고 누구한테서.
+KATRIN: Und wenn er es nicht tut, weißt du nichts. Und Lenz ist so unschuldig wie gestern.
+> 그리고 안 보내면 아무것도 모르는 거고. 렌츠는 어제만큼 결백한 거야.
+JAN: Genau. Das ist der faire Teil des Köders. Er beweist nur, wenn jemand ihn schluckt.
+> 맞아. 그게 미끼의 공정한 부분이야. 누가 삼킬 때만 증명하지.
+
+# 장면 1 — DIE SICHERHEITSKONTROLLE
+PFORTE: Guten Morgen. Ausweis, bitte. Und Ihren Besuchstermin.
+> 안녕하세요. 신분증 부탁드립니다. 그리고 방문 약속도.
+JAN: Jan Kowalczyk. Presse. Termin um zehn bei Herrn Lenz. Büro im dritten Stock.
+> 얀 코발치크. 언론. 10시에 렌츠 씨와 약속. 4층 사무실.
+PFORTE: Telefon, Schlüssel, Gürtel in die Schale. Haben Sie Aufnahmegeräte dabei?
+> 휴대폰, 열쇠, 벨트는 바구니에. 녹음 기기 갖고 계세요?
+JAN: Ein Telefon. Mein normales. Und ein Notizbuch.
+> 휴대폰 하나. 평소 쓰는 거. 그리고 수첩.
+PFORTE: Und was ist das im Portemonnaie? Ein Foto?
+> 그리고 지갑에 그건 뭐예요? 사진?
+JAN: Ein alter Freund.
+> 오랜 친구요.
+PFORTE: Sieht nett aus. Mit dem Bier. Bitte. Ihr Tagesausweis. Herr Lenz holt Sie unten ab.
+> 좋아 보이네요. 맥주 들고. 여기요. 일일 출입증. 렌츠 씨가 아래로 데리러 오실 거예요.
+LENZ: Herr Kowalczyk! Wie schön. Ein Jahr ist es her, oder? Sie sehen müde aus.
+> 코발치크 씨! 반갑네요. 1년 만이죠? 피곤해 보이세요.
+JAN: Sie sehen gut aus. Ausgeschlafen.
+> 당신은 좋아 보이네요. 푹 잔 얼굴이고.
+LENZ: Sitzungswoche. Da schläft man nie aus. Aber man lernt, so auszusehen. Kommen Sie, wir nehmen den Aufzug. Die Treppen in diesem Haus sind ein Labyrinth.
+> 회기 주간이에요. 그땐 푹 못 자죠. 근데 그렇게 보이는 법을 배워요. 가시죠, 엘리베이터 타요. 이 건물 계단은 미로예요.
+
+# 장면 2 — IM BÜRO
+LENZ: Setzen Sie sich. Kaffee? Unsere Maschine ist besser als die in der Kantine. Mein Abgeordneter hat sie selbst gekauft. Italienisch.
+> 앉으세요. 커피? 우리 기계가 구내식당 것보다 나아요. 의원님이 직접 사셨어요. 이탈리아산.
+JAN: Gern. Schwarz.
+> 좋아요. 블랙.
+LENZ: Also. Sie recherchieren zu Sabotage? Zum Schutz von Lieferanten?
+> 그러니까. 사보타주를 취재하신다고요? 납품업체 보호에 대해?
+JAN: Allgemein. Wie Unternehmen, die die Ukraine beliefern, geschützt werden. Wo die Lücken sind. Was das Parlament tut.
+> 일반적으로요. 우크라이나에 납품하는 기업들이 어떻게 보호되는지. 구멍이 어디 있는지. 의회가 뭘 하는지.
+LENZ: Ein wichtiges Thema. Und ein schwieriges. Vieles ist eingestuft. Ich kann Ihnen nur sagen, was öffentlich ist.
+> 중요한 주제죠. 그리고 어려운 주제고. 많은 게 기밀이에요. 공개된 것만 말씀드릴 수 있어요.
+JAN: Das verstehe ich. Ich frage nichts Eingestuftes.
+> 이해해요. 기밀은 안 물을게요.
+LENZ: Sehr gut. Sie sind einer der wenigen, der das versteht. Letztes Jahr haben Sie mir auch nichts gegeben, was Sie nicht geben wollten. Ich habe Sie dafür respektiert. Ehrlich.
+> 아주 좋아요. 그걸 이해하는 몇 안 되는 분이죠. 작년에도 주고 싶지 않은 건 아무것도 안 주셨잖아요. 그 점을 존중했어요. 진심으로.
+JAN: Und die Fragen, die ich Ihnen damals gegeben habe? Haben Sie sie gestellt?
+> 그리고 그때 드린 질문들은요? 하셨어요?
+LENZ: Einige. Nicht alle. Mein Abgeordneter hat seine eigenen Prioritäten. Sie wissen ja, wie das ist.
+> 일부는요. 다는 아니고. 의원님한텐 자기 우선순위가 있으니까요. 어떤지 아시잖아요.
+JAN: Ich weiß. Ich habe in den Protokollen nachgesehen. Keine davon.
+> 알아요. 회의록에서 찾아봤어요. 하나도 없더군요.
+LENZ: … Sie sind gründlich. Das mag ich. Vielleicht habe ich sie in internen Vorbesprechungen verwendet. Nicht alles steht im Protokoll.
+> … 철저하시네요. 그거 좋아요. 어쩌면 내부 사전 회의에서 썼을 수도 있어요. 다 회의록에 있는 건 아니니까요.
+
+# 장면 3 — DIE ERSTE FRAGE VON LENZ
+LENZ: Darf ich Sie auch etwas fragen? Sie haben in Teil vier — so nennen Sie das doch, «Teile» — über Desinformation geschrieben. Hype und Hafen. Großartig. Haben Sie eigentlich auch Kontakt zu solchen Telegram-Kanälen? Die, die Saboteure anwerben?
+> 저도 하나 물어봐도 될까요? 4부에서 — 그렇게 부르시죠, «부» — 허위정보에 대해 쓰셨잖아요. 하이프 운트 하펜. 훌륭했어요. 혹시 그런 텔레그램 채널들이랑도 접촉하세요? 사보타주 요원 포섭하는 그런 데?
+JAN: Kontakt? Nein. Wir lesen öffentliche Kanäle. Wie jeder Journalist.
+> 접촉이요? 아니요. 공개 채널을 읽죠. 모든 기자처럼.
+LENZ: Natürlich. Ich frage nur, weil ich gehört habe, dass sich vor ein paar Wochen ein junger Mann gestellt hat. Aus dem Osten der Stadt. Neunzehn, zwanzig. Er soll mit einem solchen Kanal zu tun gehabt haben.
+> 물론이죠. 그냥 몇 주 전에 한 젊은이가 자수했다고 들어서요. 시 동쪽 출신. 열아홉, 스물. 그런 채널과 관련 있었다던데.
+JAN: Wo haben Sie das gehört?
+> 그걸 어디서 들으셨어요?
+LENZ: Man hört so einiges. In den Gängen. Im Ausschuss. Sie wissen, wie das ist.
+> 이것저것 듣죠. 복도에서. 위원회에서. 어떤지 아시잖아요.
+JAN: Und warum interessiert Sie das?
+> 그리고 왜 그게 궁금하세요?
+LENZ: Weil mein Abgeordneter eine Anfrage vorbereitet. Über die Anwerbung junger Menschen. Wenn Sie etwas wissen, könnten wir es in die Anfrage aufnehmen. Ohne Ihren Namen.
+> 의원님이 질의를 준비하고 있어서요. 젊은이 포섭에 대해. 아시는 게 있으면 질의에 넣을 수 있어요. 당신 이름 없이.
+JAN: Ich weiß nichts über einen jungen Mann aus dem Osten. Und wenn ich etwas wüsste, würde ich es nicht weitergeben. Quellenschutz.
+> 동쪽 출신 젊은이에 대해선 아는 게 없어요. 그리고 안다 해도 넘기지 않을 거예요. 취재원 보호.
+LENZ: Natürlich. Quellenschutz. Ich hätte es wissen müssen. Verzeihen Sie.
+> 물론이죠. 취재원 보호. 알았어야 했는데. 죄송해요.
+
+# 장면 3-2 — DER ABGEORDNETE
+MERTENS: Dominik, die Zahl für die Rede… Oh, Entschuldigung. Ich wusste nicht, dass Sie Besuch haben.
+> 도미니크, 연설용 숫자… 아, 실례. 손님 계신 줄 몰랐네.
+LENZ: Herr Mertens, das ist Herr Kowalczyk. Spreewerk. Ein Hintergrundgespräch.
+> 메르텐스 의원님, 이분은 코발치크 씨예요. Spreewerk. 배경 취재요.
+MERTENS: Spreewerk! Die Pflege-Geschichte. Ich habe sie gelesen. Mit dem Herrn Lemke. Im Ausschuss hat eine Kollegin daraus zitiert. Hervorragend.
+> Spreewerk! 그 돌봄 기사. 읽었어요. 렘케 씨 나오는. 위원회에서 동료 한 명이 거기서 인용했죠. 훌륭했어요.
+JAN: Danke, Herr Mertens.
+> 고맙습니다, 메르텐스 의원님.
+MERTENS: Dominik ist mein bester Mann. Ohne ihn wüsste ich nicht, was im Ausschuss passiert. Er liest alles. Wirklich alles. Auch das, was ich nicht lese.
+> 도미니크는 우리 최고예요. 그 사람 없으면 위원회에서 무슨 일이 일어나는지 모를 거예요. 다 읽어요. 정말 다. 내가 안 읽는 것까지.
+JAN: Auch die vertraulichen Unterlagen?
+> 기밀 자료도요?
+MERTENS: Die vor allem. Ich habe keine Zeit für hundert Seiten Anlagen. Dominik fasst mir das auf einer Seite zusammen. Er ist ein Genie im Zusammenfassen.
+> 그건 특히요. 부록 백 쪽 읽을 시간이 없어요. 도미니크가 한 쪽으로 요약해 줘요. 요약의 천재죠.
+LENZ: Herr Mertens übertreibt.
+> 의원님이 과장하시는 거예요.
+MERTENS: Gar nicht. Ohne ihn wäre ich verloren. So, ich muss weiter. Die Rede. Herr Kowalczyk — schreiben Sie weiter so. Wir brauchen Leute wie Sie.
+> 전혀. 그 사람 없으면 난 길을 잃을 거예요. 자, 가 봐야겠어요. 연설. 코발치크 씨 — 계속 그렇게 써 주세요. 당신 같은 사람이 필요해요.
+JAN: … Danke.
+> … 고맙습니다.
+LENZ: Er ist ein guter Mann. Ehrlich. Manchmal zu ehrlich für dieses Haus.
+> 좋은 분이에요. 정직하고. 가끔 이 건물엔 너무 정직하죠.
+
+# 장면 4 — DER KÖDER WIRD AUSGELEGT
+JAN: Aber ich kann Ihnen etwas anderes erzählen. Unter drei. Wenn Sie wollen.
+> 근데 다른 걸 말씀드릴 순 있어요. 운터 드라이로. 원하시면.
+LENZ: Unter drei. Natürlich. Ich höre.
+> 운터 드라이. 물론이죠. 듣고 있어요.
+JAN: Wir haben Hinweise, dass am einundzwanzigsten Oktober eine Lieferung von Filterplatinen über den Hafen Rostock geht. Nachts. In einem Container mit falscher Deklaration. Damit sie nicht auffällt.
+> 10월 21일에 필터 기판 화물이 로스토크 항을 통해 나간다는 단서가 있어요. 밤에. 허위 신고된 컨테이너로. 눈에 띄지 않게.
+LENZ: Rostock. Interessant. Woher haben Sie das?
+> 로스토크. 흥미롭네요. 어디서 들으셨어요?
+JAN: Quellenschutz.
+> 취재원 보호.
+LENZ: Natürlich. Und warum erzählen Sie mir das?
+> 물론이죠. 그런데 왜 저한테 말씀하세요?
+JAN: Weil ich mir Sorgen mache. Wenn wir davon wissen, wissen es vielleicht auch andere. Und Ihr Abgeordneter sitzt im Ausschuss. Vielleicht kann er dafür sorgen, dass der Hafen geschützt wird.
+> 걱정돼서요. 우리가 안다면 다른 사람들도 알지 모르잖아요. 그리고 의원님이 위원회에 계시니까. 어쩌면 항만이 보호받게 해 주실 수 있을지도.
+LENZ: Das ist sehr verantwortungsvoll von Ihnen. Ich gebe es weiter. An die richtigen Stellen.
+> 아주 책임감 있으시네요. 전달할게요. 적절한 곳에.
+JAN: Danke. Mehr wollte ich nicht.
+> 고마워요. 그 이상은 바라지 않았어요.
+LENZ: Und das bleibt unter uns?
+> 그리고 이건 우리끼리죠?
+JAN: Unter drei. Wie besprochen.
+> 운터 드라이. 말씀드린 대로.
+
+# 장면 5 — ZWEI TELEFONE
+LENZ: Entschuldigen Sie mich kurz. Mein Abgeordneter. Er braucht eine Zahl für die Plenarrede. Zwei Minuten.
+> 잠깐 실례할게요. 의원님이요. 본회의 연설에 숫자가 필요하대요. 2분이요.
+JAN: Natürlich.
+> 그러세요.
+JAN: … Zwei Telefone auf dem Schreibtisch. Eines liegt offen. Schwarz, mit dem Bundesadler auf der Hülle. Das Diensttelefon. Das zweite liegt mit dem Display nach unten. Graue Hülle. Ohne Logo. Daneben ein Ladekabel, das nicht zum ersten passt.
+> … 책상 위 휴대폰 두 대. 하나는 화면이 위로. 검은색, 케이스에 연방 독수리. 업무폰. 두 번째는 화면이 아래로. 회색 케이스. 로고 없음. 옆에 첫 번째랑 안 맞는 충전 케이블.
+JAN: … Das zweite vibriert. Einmal. Kurz. Er hat es nicht mitgenommen. Er hat das Diensttelefon mitgenommen.
+> … 두 번째가 진동해. 한 번. 짧게. 그건 안 가져갔어. 업무폰을 가져갔지.
+JAN: … Nicht anfassen. Nicht umdrehen. Nur schauen. Nicht länger, als man braucht, um eine Jacke vom Haken zu nehmen.
+> … 만지지 마. 뒤집지 마. 보기만. 재킷을 고리에서 내리는 시간보다 길게는 말고.
+LENZ: So. Erledigt. Wo waren wir?
+> 자. 해결했어요. 어디까지 했죠?
+JAN: Beim Hafen. Und bei der Frage, ob Sie Russisch können. Ich habe gelesen, Sie haben in Moskau studiert.
+> 항만이요. 그리고 러시아어 하시는지. 모스크바에서 공부하셨다고 읽었어요.
+LENZ: Ein Jahr. Zweitausendneun. Andere Zeiten. Damals dachten wir, wir bauen Brücken. Heute sind die Brücken gesprengt.
+> 1년이요. 2009년. 다른 시절이었죠. 그땐 다리를 놓는다고 생각했어요. 지금은 다리가 다 폭파됐고요.
+JAN: Und die Freunde von damals?
+> 그때 친구들은요?
+LENZ: Die meisten habe ich verloren. Einige sind ausgewandert. Einige sind… verstummt. Man schreibt sich nicht mehr. Es ist sicherer so. Für alle.
+> 대부분 잃었어요. 일부는 이민 갔고. 일부는… 침묵했죠. 이제 서로 연락 안 해요. 그게 더 안전하니까. 모두에게.
+JAN: Sicherer für alle.
+> 모두에게 더 안전하다.
+LENZ: Sie verstehen das sicher. Sie haben eine russische Kollegin, oder? Frau Morosowa. Ich habe ihre Kolumne gelesen. Sehr mutig.
+> 이해하시겠죠. 러시아인 동료가 계시잖아요? 모로소바 씨. 칼럼 읽었어요. 아주 용감하더군요.
+
+# 장면 5-2 — DIE ZWEITE FRAGE VON LENZ
+LENZ: Darf ich noch etwas fragen? Rein aus Neugier. Wie finanziert sich Spreewerk eigentlich? Eine Stiftung, richtig?
+> 하나 더 물어봐도 될까요? 순전히 호기심으로. Spreewerk는 재정을 어떻게 해요? 재단이죠?
+JAN: Eine Stiftung und Fördermitglieder. Keine Werbung, keine Konzerne.
+> 재단이랑 후원 회원. 광고 없음, 대기업 없음.
+LENZ: Sehr sauber. Und der Stiftungsrat? Mischt der sich ein?
+> 아주 깔끔하네요. 그럼 이사회는요? 간섭해요?
+JAN: Nie. Das ist die Regel.
+> 절대요. 그게 규칙이에요.
+LENZ: Natürlich. Ich kenne übrigens jemanden aus Ihrem Stiftungsrat. Aus meiner Frankfurter Zeit. Ein kluger Kopf. Er spricht sehr gut über Sie.
+> 물론이죠. 그나저나 당신네 이사회에 아는 사람이 있어요. 프랑크푸르트 시절부터. 머리 좋은 분이죠. 당신 얘기를 아주 좋게 해요.
+JAN: Wer?
+> 누구요?
+LENZ: Oh, ich will niemanden in Verlegenheit bringen. Stiftungsräte reden nicht gern über ihre Bekanntschaften. Diskretion. Sie verstehen das sicher besser als jeder andere.
+> 아, 아무도 곤란하게 하고 싶지 않아요. 이사들은 자기 인맥 얘기를 좋아하지 않거든요. 신중함. 누구보다 잘 이해하시겠죠.
+JAN: Diskretion. Natürlich.
+> 신중함. 물론이죠.
+LENZ: Er hat mir übrigens erzählt, dass Sie immer schief sitzen. Am Tresen einer Kneipe in Wedding. Ich fand das sehr sympathisch.
+> 그분이 그러던데 당신은 늘 비스듬히 앉는다면서요. 베딩 선술집 카운터에서. 아주 호감 가더군요.
+JAN: … Das hat er Ihnen erzählt?
+> … 그분이 그런 얘길 했어요?
+LENZ: Bei einem Abendessen. Im Sommer. In Grunewald. Ganz harmlos. Er mag Sie wirklich.
+> 저녁 식사 자리에서요. 여름에. 그루네발트에서. 아주 무해한 얘기였어요. 정말 당신을 좋아해요.
+JAN: Grunewald.
+> 그루네발트.
+LENZ: Ein schöner Stadtteil. Viel Wald. Viele Füchse.
+> 멋진 동네죠. 숲이 많고. 여우도 많고.
+JAN: … Viele Füchse. Ja. Das habe ich auch gehört.
+> … 여우가 많죠. 네. 저도 들었어요.
+LENZ: Ach ja? Von wem?
+> 아 그래요? 누구한테서요?
+JAN: Von einem Taxifahrer. Der war mal nachts da. Er hat nur Füchse gesehen. Und keinen Zug.
+> 택시 기사한테서요. 한번 밤에 거기 갔었대요. 여우만 봤대요. 그리고 열차는 없었고.
+LENZ: … Ha. Lustig. Taxifahrer erzählen die besten Geschichten.
+> … 하. 재밌네요. 택시 기사들이 제일 좋은 얘기를 해 주죠.
+
+# 장면 6 — IN DER KANTINE
+LENZ: Kommen Sie, ich lade Sie in die Kantine ein. Das Essen ist schlecht, aber die Aussicht auf die Spree ist gut.
+> 가시죠, 구내식당에서 대접할게요. 음식은 별로지만 슈프레강 전망은 좋아요.
+JAN: Ich zahle selbst. Das ist bei uns eine Regel.
+> 제가 낼게요. 우리 규칙이에요.
+LENZ: Natürlich. Unabhängigkeit. Ich habe es nicht anders erwartet.
+> 물론이죠. 독립성. 다른 걸 기대하진 않았어요.
+JAN: Herr Lenz, darf ich eine persönliche Frage stellen? Warum Politik? Sie hätten in der Beratung bleiben können. In Frankfurt. Da verdient man mehr.
+> 렌츠 씨, 개인적인 질문 하나 해도 될까요? 왜 정치예요? 컨설팅에 남을 수도 있었잖아요. 프랑크푸르트에. 거기가 더 벌잖아요.
+LENZ: Frankfurt? Woher wissen Sie, dass ich in Frankfurt war?
+> 프랑크푸르트? 제가 프랑크푸르트에 있었던 걸 어떻게 아세요?
+JAN: Aus Ihrem öffentlichen Lebenslauf. «Strategische Beratung, Frankfurt am Main.» Ohne Firmennamen.
+> 공개 이력서에서요. «전략 컨설팅, 프랑크푸르트 암 마인.» 회사명 없이.
+LENZ: Sie haben sich vorbereitet.
+> 준비하고 오셨네요.
+JAN: Ich bereite mich immer vor. Das haben Sie letztes Jahr selbst gesagt. «Gründlich.»
+> 전 늘 준비해요. 작년에 직접 그러셨잖아요. «철저하다.»
+LENZ: Eine kleine Firma. Unwichtig. Sie existiert nicht mehr. Und warum Politik? Weil ich glaube, dass man von innen mehr verändern kann als von außen.
+> 작은 회사예요. 중요하지 않아요. 이제 없어요. 그리고 왜 정치냐고요? 밖에서보다 안에서 더 많이 바꿀 수 있다고 믿으니까요.
+JAN: Von innen. Wie ein Journalist, der sich einschleust.
+> 안에서. 잠입하는 기자처럼.
+LENZ: … Ha. Ein schöner Vergleich. Aber nein. Ich bin kein Journalist. Ich bin nur ein Büroleiter.
+> … 하. 멋진 비유네요. 근데 아니에요. 전 기자가 아니에요. 그냥 실장일 뿐이죠.
+
+# 장면 7 — AN DER SPREE
+TOBI: Und? Wie war er?
+= Und? Wie war er?
+> 그래서? 어땠어?
+JAN: Freundlich. Gründlich. Und er hat «ha» gesagt.
+> 친절했어. 철저했고. 그리고 «하»라고 했어.
+SWETA: «Ha»?
+> «하»요?
+JAN: Kurz. Gegen seinen Willen. Als ich «wie ein Journalist, der sich einschleust» gesagt habe.
+> 짧게. 자기도 모르게. 내가 «잠입하는 기자처럼»이라고 했을 때.
+SWETA: Der Kurator schreibt «ha». Zweimal bisher. Immer dann, wenn ihn etwas überrascht.
+> 큐레이터도 «하»라고 써요. 지금까지 두 번. 늘 뭔가에 놀랐을 때.
+SWETA: Ich weiß. Aber ich schreibe es auf. In die Spalte «Gefühl».
+> 알아요. 근데 적어 둘게요. «느낌» 칸에.
+JAN: Und Sweta — ich habe einen Fehler gemacht. Er hat von Grunewald und Füchsen geredet. Und ich habe gesagt: «Ein Taxifahrer hat mir erzählt, er war nachts dort. Nur Füchse. Kein Zug.»
+> 그리고 스베타 — 실수했어. 그가 그루네발트랑 여우 얘기를 했어. 그리고 내가 그랬어. «택시 기사가 그러는데 밤에 거기 갔었대요. 여우만. 열차는 없고.»
+SWETA: … Du hast was gesagt? Das ist Janeks Satz. Wort für Wort. Aus dem Kanal.
+> … 뭐라고 했다고요? 그건 야넥의 문장이에요. 한 글자도 안 틀리고. 채널에서 나온.
+JAN: Ich weiß. Es kam aus mir heraus, bevor ich denken konnte. Er hat «ha» gesagt. Und gelacht. Als hätte er es nicht verstanden.
+> 알아. 생각하기도 전에 튀어나왔어. 그가 «하»라고 했어. 그리고 웃었지. 이해 못 한 것처럼.
+SWETA: Oder als hätte er es sehr gut verstanden. Wenn Lenz nur der Lieferant ist, weiß er vielleicht nichts von Janeks Nachrichten. Aber wenn er sie dem Kurator erzählt… Ab heute schläfst du nicht mehr zu Hause. Ab heute zählen wir Tage.
+> 아니면 아주 잘 이해한 것처럼. 렌츠가 정보 공급자일 뿐이면 야넥 메시지는 모를 수도 있어요. 근데 그가 그 얘길 큐레이터한테 하면… 오늘부터 집에서 자지 마요. 오늘부터 날짜를 세요.
+MIRA: Und das Telefon? Das zweite?
+> 그리고 폰은요? 두 번째?
+JAN: Grau. Ohne Logo. Mit dem Display nach unten. Es hat einmal vibriert. Um zehn Uhr achtundzwanzig. Ich habe auf die Uhr an der Wand geschaut.
+> 회색. 로고 없음. 화면이 아래로. 한 번 진동했어. 10시 28분. 벽시계를 봤어.
+MIRA: Zehn Uhr achtundzwanzig. Ich prüfe den Kanal. … Um zehn Uhr achtundzwanzig hat der Kanal einen neuen Beitrag gepostet. Eine Anzeige. «Fahrer gesucht. Mit eigenem Auto. Für Fahrten an die Ostsee.»
+> 10시 28분. 채널 확인할게요. … 10시 28분에 채널에 새 게시물이 올라왔어요. 광고. «운전자 구함. 자가용 소지. 발트해 연안 운행.»
+KATRIN: Ein Kanal postet eine Anzeige. Ein Telefon vibriert. Zur selben Minute. Das kann tausend Gründe haben.
+> 채널이 광고를 올린다. 폰이 진동한다. 같은 분에. 그건 이유가 천 가지일 수 있어.
+JAN: Ich weiß. Aber es kann auch einen haben.
+> 알아. 근데 하나일 수도 있지.
+
+# 장면 7-2 — «VERZEIHEN SIE»
+SWETA: Jan. Gib mir dein Gedächtnisprotokoll. Ich will etwas vergleichen.
+> 얀. 기억 기록 줘요. 비교할 게 있어요.
+JAN: Was?
+> 뭘?
+SWETA: Seine Wörter. Nicht den Inhalt. Die kleinen Wörter. Wie oft hat er «natürlich» gesagt?
+> 그의 단어들. 내용 말고. 작은 단어들. «물론이죠»를 몇 번 했어요?
+JAN: Oft. Sehr oft. Sechs, sieben Mal.
+> 자주. 아주 자주. 여섯, 일곱 번.
+SWETA: Und hat er sich entschuldigt?
+> 그리고 사과했어요?
+JAN: Zweimal. «Verzeihen Sie.» Nicht «Entschuldigung». «Verzeihen Sie.»
+> 두 번. «Verzeihen Sie.» «Entschuldigung»이 아니라. «Verzeihen Sie.»
+SWETA: Der Kurator hat sich in neunzehn Tagen dreimal entschuldigt. Immer mit «Verzeihen Sie». Nie «Entschuldigung». Nie «sorry».
+> 큐레이터는 19일 동안 세 번 사과했어요. 늘 «Verzeihen Sie»로. «Entschuldigung»도 «sorry»도 한 번도 안 썼어요.
+KATRIN: «Verzeihen Sie» lernt man auch im Lehrbuch. Oder an einer Hochschule. Schreib es in die Spalte «Gefühl», Sweta. Nicht in die Spalte «Beleg».
+> «Verzeihen Sie»는 교과서에서도 배워. 아니면 대학에서. «느낌» 칸에 써, 스베타. «증거» 칸 말고.
+
+# 엔딩 — DIE OSTSEE
+HELENE: «Fahrten an die Ostsee.» Das ist eine Stunde nachdem du ihm Rostock erzählt hast.
+> «발트해 연안 운행.» 네가 그한테 로스토크 얘기한 지 한 시간 뒤야.
+SWETA: Nicht eine Stunde. Siebzehn Minuten. Du hast um zehn Uhr elf von Rostock gesprochen. Ich habe dein Gedächtnisprotokoll.
+> 한 시간이 아니에요. 17분. 10시 11분에 로스토크 얘기를 했어요. 기억 기록 갖고 있어요.
+KATRIN: Und Rostock steht nicht in der Anzeige. «Ostsee» ist eine Küste. Siebenhundert Kilometer.
+> 그리고 광고엔 로스토크가 없어. «발트해»는 해안이야. 7백 킬로미터.
+JAN: Dann warten wir, ob er Janek fragt.
+> 그럼 그가 야넥한테 묻는지 기다리자.
+MIRA: Janeks Telefon liegt in der Box. Soll ich nachsehen?
+> 야넥 폰은 상자에 있어요. 확인할까요?
+HELENE: Sieh nach.
+> 확인해.
+MIRA: … Eine Nachricht. Vor sechs Minuten.
+> … 메시지 하나. 6분 전.
+KURATOR: Janek. Sie haben gesagt, Ihr Kumpel leiht Ihnen am Wochenende sein Auto. Haben Sie Lust auf einen Ausflug an die Ostsee? Am einundzwanzigsten Oktober. Nachts. Dreitausend Euro. Nur schauen. Ein Hafen. Ein Container.
+> 야넥. 친구가 주말에 차를 빌려준다고 하셨죠. 발트해로 나들이 가실 생각 있으십니까? 10월 21일. 밤에. 3천 유로. 보기만 하면 됩니다. 항구 하나. 컨테이너 하나.
+SWETA: Am einundzwanzigsten. Ein Hafen. Ein Container.
+> 21일. 항구 하나. 컨테이너 하나.
+LEON: Den Container gibt es nicht. Den gibt es nur in einem Gespräch, das Jan heute um zehn Uhr elf im Jakob-Kaiser-Haus geführt hat. Unter drei.
+> 그 컨테이너는 없어요. 얀이 오늘 10시 11분 야코프 카이저 하우스에서 운터 드라이로 나눈 대화에만 있어요.
+KATRIN: … Gesichert. Vierzehn Uhr dreizehn. Und Jan — jetzt ist es kein Gefühl mehr.
+> … 보존. 14시 13분. 그리고 얀 — 이제 이건 더는 느낌이 아니야.
+JAN: Nein. Jetzt ist es ein Container, den es nicht gibt. Und ein Mann, der ihn weitergegeben hat.
+> 아니지. 이제 이건 존재하지 않는 컨테이너야. 그리고 그걸 넘긴 남자고.
+DANA: Ich habe eure Nachricht. Und ich rufe jetzt die Bundesanwaltschaft an. Persönlich.
+> 너희 메시지 받았어. 그리고 지금 연방검찰에 전화할게. 직접.
+KATRIN: Eine Frage noch. Lenz hat gesagt, er gibt es «an die richtigen Stellen» weiter. Wenn er das getan hat, dann kann der Satz auch dort durchgesickert sein. Nicht bei ihm.
+> 질문 하나 더. 렌츠가 «적절한 곳에» 전달하겠다고 했어. 그걸 했다면 그 문장이 거기서 샜을 수도 있어. 그가 아니라.
+DANA: Das prüfe ich. Sofort. … Die Hafenpolizei Rostock, das Lagezentrum, der Verfassungsschutz, das Verteidigungsministerium. Keine Meldung zu Rostock. Von niemandem aus dem Bundestag.
+> 그건 확인할게. 즉시. … 로스토크 항만 경찰, 상황실, 헌법수호청, 국방부. 로스토크 관련 신고 없음. 연방의회 누구에게서도.
+JAN: Er hat es nicht an die richtigen Stellen gegeben.
+> 적절한 곳에 안 넘겼네.
+DANA: Er hat es an eine Stelle gegeben. Nur nicht an die richtige.
+> 한 곳에 넘겼지. 적절한 곳이 아닐 뿐.
+HELENE: Und jetzt? Was macht Janek?
+> 그럼 이제? 야넥은 뭘 해?
+SWETA: Janek sagt ja. Wie jeder Mann mit Schulden zu dreitausend Euro. Und er fährt nicht. Weil es keinen Container gibt.
+> 야넥은 좋다고 해요. 3천 유로면 빚진 남자라면 누구나 그러듯. 그리고 안 가요. 컨테이너가 없으니까.
+DANA: Nein. Janek sagt gar nichts mehr, bis die Bundesanwaltschaft entschieden hat. Ab jetzt ist das ein laufendes Verfahren. Und ihr seid Zeugen.
+> 아니. 연방검찰이 결정할 때까지 야넥은 아무 말도 안 해. 이제부턴 진행 중인 절차야. 그리고 너희는 증인이고.
+KATRIN: Zeugen mit Zeugnisverweigerungsrecht. Wir sagen aus über das, was Jan selbst erlebt hat. Nicht über unsere Quellen. Nicht über Kevin. Nicht über Bondar.
+> 증언 거부권이 있는 증인. 얀이 직접 겪은 것에 대해선 진술해. 취재원에 대해선 아니고. 케빈도 아니고. 본다르도 아니고.
+JAN: Und Helene — mein Satz.
+> 그리고 헬레네 — 내 문장.
+HELENE: Ich warte.
+> 기다리고 있어.
+JAN: «Ich bin noch Journalist. Heute habe ich einem Mann einen Container geschenkt, den es nicht gibt. Und er hat ihn weitergegeben.»
+> «난 아직 기자다. 오늘 한 남자에게 존재하지 않는 컨테이너를 선물했다. 그리고 그는 그걸 넘겼다.»
