@@ -1,0 +1,321 @@
+@part 3
+@ep 11
+@title Der Ausschuss
+@sub 위원회 · 12월 말, 보좌관의 부탁과 기자의 독립
+@info 대사 150턴 · 난이도 B2 · 배경: 3-10화 며칠 뒤(2027년 12월 말), 연방의회 의원회관, Spreewerk 편집국, 의회 식당
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast LENZ | 도미니크 렌츠 (39) · 야당 의원실 보좌관
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@note ※ 국방위원회는 대부분 비공개로 열립니다. 야당은 '소질의(Kleine Anfrage)'로 정부에 답변을 강제할 수 있습니다. 기자가 의원실에 자료를 주면 정보가 빨리 공론화되지만, 기자가 특정 정당의 '도구'가 되면 독립성을 잃습니다. 이 화의 보좌관 렌츠는 6부에서 다시 중요해집니다(복선). 등장 인물은 가상입니다.
+@note ※ 표현 초점: Verteidigungsausschuss · Kleine Anfrage · Abgeordneter · Obmann · Unabhängigkeit · Instrumentalisierung · auf Augenhöhe
+@next 3부 12화 — «Der Freund im Ministerium»(국방부 안의 친구) — 국방부 기획국의 후보는 세 명. 유출자는 현역 중령 포크트. 동기는 돈보다 "관료주의 때문에 장비가 늦게 오는 게 더 위험하다"는 왜곡된 신념이었다.
+
+# 콜드 오픈 — EINE EINLADUNG INS PARLAMENT
+LENZ: Herr Kowalczyk? Dominik Lenz. Büroleiter bei der Opposition. Verteidigungsausschuss. Danke, dass Sie kommen.
+> 코발치크 씨? 도미니크 렌츠입니다. 야당 의원실장이에요. 국방위원회. 와 주셔서 감사해요.
+JAN: Herr Lenz. Ich war überrascht über Ihren Anruf. Ein Büroleiter, der einen Journalisten einlädt. Das ist ungewöhnlich.
+> 렌츠 씨. 전화 받고 놀랐어요. 보좌관이 기자를 초대하다니. 흔치 않은 일이죠.
+LENZ: Wir lesen Spreewerk. Ihre Rüstungsrecherche. Der Rechnungshof-Artikel. Sehr gut. Sehr mutig.
+> 저흰 슈프레베르크를 읽어요. 방산 취재요. 감사원 기사. 아주 좋았어요. 아주 용감했고요.
+JAN: Danke. Aber Sie haben mich nicht für ein Kompliment eingeladen.
+> 감사합니다. 근데 칭찬하려고 부르신 건 아니죠.
+LENZ: Nein. Ich komme direkt zur Sache. Mein Abgeordneter sitzt im Verteidigungsausschuss. Wir wollen die Skyward-Vergabe aufklären. Im Parlament.
+> 아니요. 바로 본론으로 가죠. 저희 의원이 국방위원회에 있어요. 스카이워드 계약을 밝히고 싶어요. 의회에서.
+JAN: Das ist Ihre Arbeit. Gut so.
+> 그게 당신들 일이죠. 좋아요.
+LENZ: Dafür brauchen wir Fakten. Die wir nicht haben, aber Sie vielleicht. Würden Sie uns Ihre Unterlagen geben? Vertraulich.
+> 그러려면 사실이 필요해요. 저흰 없는데 당신들은 있을지도 모르는. 자료를 저희한테 주시겠어요? 비밀로.
+JAN: Das, Herr Lenz, ist genau die Frage, die ich befürchtet habe.
+> 그게, 렌츠 씨, 바로 제가 걱정한 질문이에요.
+
+# 장면 1 — DER VORSCHLAG
+LENZ: Warum befürchtet? Wir wollen dasselbe wie Sie. Die Wahrheit über Skyward.
+> 왜 걱정이에요? 저흰 당신들이랑 같은 걸 원해요. 스카이워드에 대한 진실.
+JAN: Vielleicht. Aber Sie wollen sie für Ihre Partei. Für die Opposition. Ich will sie für die Öffentlichkeit.
+> 그럴지도요. 근데 당신들은 그걸 당을 위해 원해요. 야당을 위해. 전 대중을 위해 원하고요.
+LENZ: Ist das nicht dasselbe?
+> 그게 같은 거 아니에요?
+JAN: Nein. Wenn ich Ihnen meine Unterlagen gebe, werde ich Teil Ihrer Kampagne. Dann bin ich kein unabhängiger Journalist mehr. Dann bin ich ein Zulieferer der Opposition.
+> 아니요. 제 자료를 당신들한테 주면 전 당신들 캠페인의 일부가 돼요. 그럼 더는 독립 기자가 아니에요. 야당의 납품업자죠.
+LENZ: Sie misstrauen mir.
+> 절 못 믿으시네요.
+JAN: Nicht persönlich. Aber heute ist Ihre Partei in der Opposition. In zwei Jahren vielleicht in der Regierung. Dann will dieselbe Partei vielleicht, dass ich schweige.
+> 개인적으로는 아니에요. 근데 오늘은 당신 당이 야당이에요. 2년 뒤면 여당일지도 몰라요. 그럼 같은 당이 제가 침묵하길 바랄지도 몰라요.
+LENZ: Das ist zynisch.
+> 냉소적이네요.
+JAN: Das ist Erfahrung. Ich habe Oppositionen Regierung werden sehen. Und Regierungen Opposition. Die Rolle ändert sich. Das Interesse bleibt: Macht.
+> 경험이에요. 야당이 여당 되는 걸 봤어요. 그리고 여당이 야당 되는 것도. 역할은 바뀌어요. 이해관계는 그대로죠. 권력.
+LENZ: Und was wollen Sie dann? Warum sind Sie überhaupt gekommen?
+> 그럼 뭘 원하세요? 애초에 왜 오셨어요?
+JAN: Weil ich zuhören will. Was Sie wissen. Und weil ich Ihnen etwas anbiete. Aber nicht meine Unterlagen.
+> 들으려고요. 당신들이 뭘 아는지. 그리고 뭘 제안하려고요. 근데 제 자료는 아니에요.
+LENZ: Darf ich offen sein? Ihre Haltung ist selten. Die meisten Journalisten, die ich kenne, geben uns gern Material. Gegen einen Tipp. Gegen Nähe zur Macht.
+> 솔직해도 될까요? 당신 태도는 드물어요. 제가 아는 대부분 기자들은 저희한테 기꺼이 자료를 줘요. 제보 하나 받고. 권력과의 가까움을 받고.
+JAN: Ich kenne diese Journalisten auch. Sie bekommen die besten Geschichten. Für eine Weile. Und dann sind sie nur noch Lautsprecher.
+> 저도 그런 기자들을 알아요. 제일 좋은 기삿거리를 받죠. 한동안은. 그러다 그냥 확성기가 돼요.
+LENZ: Lautsprecher der Macht.
+> 권력의 확성기.
+JAN: Lautsprecher von irgendwem. Heute der Opposition, morgen der Regierung. Immer von dem, der gerade Material gibt.
+> 아무나의 확성기죠. 오늘은 야당, 내일은 여당. 늘 지금 자료를 주는 쪽의.
+LENZ: Und das wollen Sie nicht sein.
+> 그리고 당신은 그게 되고 싶지 않고요.
+JAN: Ich will ein Lautsprecher der Fakten sein. Die gehören niemandem. Außer der Öffentlichkeit.
+> 전 사실의 확성기가 되고 싶어요. 그건 아무의 것도 아니에요. 대중 말곤.
+
+# 장면 2 — AUF AUGENHÖHE
+LENZ: Was bieten Sie an, wenn nicht Ihre Unterlagen?
+> 자료가 아니면 뭘 제안하세요?
+JAN: Fragen. Wir reden. Sie erzählen mir, was im Ausschuss passiert. Ich erzähle Ihnen nichts Vertrauliches. Aber ich kann Ihnen sagen, welche Fragen sich lohnen.
+> 질문이요. 우린 얘기해요. 당신들은 위원회에서 뭐가 일어나는지 말해 주고요. 전 비밀은 아무것도 말 안 해요. 근데 어떤 질문이 가치 있는지는 말해 줄 수 있어요.
+LENZ: Welche Fragen sich lohnen. Zum Beispiel?
+> 어떤 질문이 가치 있는지. 예를 들면?
+JAN: Zum Beispiel: Stellen Sie eine Kleine Anfrage. Fragen Sie, wer die Leistungsbeschreibung geschrieben hat. Welche externen Berater beteiligt waren. Und ob diese von der Industrie bezahlt wurden.
+> 예를 들면, 소질의를 내세요. 성능 명세서를 누가 썼는지 물어보세요. 어떤 외부 자문가가 관여했는지. 그리고 그들이 업계한테서 돈을 받았는지.
+LENZ: Diese Fragen hätte ich auch selbst gestellt.
+> 그 질문들은 저도 직접 냈을 거예요.
+JAN: Vielleicht. Aber nicht so präzise. «Externe Fachexpertise» ist vage. «Welche namentlich benannten Berater» ist präzise. Präzise Fragen bekommen präzise Antworten. Oder entlarvende Ausweichmanöver.
+> 그럴지도요. 근데 그렇게 정확히는 아니죠. «외부 전문가 자문»은 모호해요. «이름이 명시된 어떤 자문가들»은 정확해요. 정확한 질문은 정확한 답을 받죠. 아니면 폭로적인 회피를.
+LENZ: Sie geben mir also keine Fakten. Sie geben mir bessere Fragen.
+> 그럼 사실을 주는 게 아니네요. 더 좋은 질문을 주는 거죠.
+JAN: Fragen sind öffentlich. Jeder darf sie stellen. Fakten sind meine Recherche. Die gehören mir, bis ich sie veröffentliche. Für alle. Gleichzeitig.
+> 질문은 공개예요. 누구나 할 수 있어요. 사실은 제 취재예요. 제가 공개할 때까진 제 거예요. 모두에게. 동시에.
+LENZ: «Für alle gleichzeitig.» Auch für die Regierung? Die Sie kritisieren?
+> «모두에게 동시에.» 당신이 비판하는 정부한테도요?
+JAN: Auch für die Regierung. Am selben Morgen, zur selben Minute. So kann niemand sagen, ich hätte jemanden bevorzugt.
+> 정부한테도요. 같은 아침, 같은 분에. 그래야 아무도 제가 누굴 편애했다고 말 못 해요.
+LENZ: Und die Regierung erfährt es nicht vorher? Nicht mal einen Tag?
+> 그럼 정부가 미리 안 알게 돼요? 하루도요?
+JAN: Nur die Konfrontation. Die Fragen, die wir stellen, bevor wir schreiben. Den Artikel sieht niemand vorher. Auch Sie nicht.
+> 반론 질의만요. 우리가 쓰기 전에 하는 질문. 기사는 아무도 미리 못 봐요. 당신도요.
+LENZ: Das ist hart.
+> 냉정하네요.
+JAN: Das ist fair. Hart und fair sind oft dasselbe.
+> 공정한 거죠. 냉정함과 공정함은 종종 같아요.
+LENZ: Das ist fair. Unbequem, aber fair.
+> 공정하네요. 불편하지만 공정해요.
+JAN: Und wenn Sie eine Antwort bekommen, die etwas enthüllt, dann ist die Antwort öffentlich. Dann darf ich darüber schreiben. Wie jeder.
+> 그리고 당신들이 뭔가를 폭로하는 답을 받으면, 그 답은 공개예요. 그럼 전 그에 대해 써도 돼요. 누구나처럼.
+LENZ: Dann helfen wir uns gegenseitig. Ohne uns zu gehören.
+> 그럼 우리가 서로 도우면서 서로에게 속하진 않는 거네요.
+JAN: Genau. Auf Augenhöhe. Jeder in seiner Rolle.
+> 맞아요. 대등하게. 각자 자기 역할로.
+LENZ: Auf Augenhöhe. Das sagen viele. Wenige meinen es.
+> 대등하게. 많은 사람이 그 말을 해요. 진심인 사람은 적고요.
+JAN: Augenhöhe bedeutet: Ich brauche Sie nicht, und Sie brauchen mich nicht. Wir arbeiten zusammen, weil es nützt. Nicht, weil wir voneinander abhängen.
+> 대등하다는 건 이런 뜻이에요. 전 당신이 필요 없고, 당신도 제가 필요 없어요. 유용해서 같이 일하는 거지, 서로에게 의존해서가 아니에요.
+LENZ: Und wenn Sie mich morgen kritisieren müssten? In einem Artikel?
+> 그럼 당신이 내일 저를 비판해야 한다면요? 기사에서?
+JAN: Dann kritisiere ich Sie. Ohne zu zögern. Das ist der Preis der Augenhöhe. Für uns beide.
+> 그럼 당신을 비판하죠. 망설임 없이. 그게 대등함의 대가예요. 우리 둘 다한테.
+LENZ: Ein unbequemer Partner.
+> 불편한 파트너네요.
+JAN: Der einzige Partner, der sein Geld wert ist, ist der unbequeme. Alle anderen sagen nur, was man hören will.
+> 값어치 하는 유일한 파트너는 불편한 파트너예요. 나머지는 다 듣고 싶은 말만 하죠.
+
+# 장면 3 — LENZ WILL MEHR
+LENZ: Aber ehrlich, Herr Kowalczyk: Ein paar Dokumente würden uns sehr helfen. Niemand müsste wissen, woher sie kommen.
+> 근데 솔직히, 코발치크 씨, 문서 몇 개면 저희한테 큰 도움이 될 거예요. 어디서 왔는지 아무도 몰라도 되고요.
+JAN: Sehen Sie, Herr Lenz. Genau da ist die Grenze. «Niemand müsste wissen.» Das ist der Satz, nach dem Journalisten ihre Seele verlieren.
+> 보세요, 렌츠 씨. 바로 거기가 선이에요. «아무도 몰라도 된다.» 그게 기자들이 영혼을 잃는 바로 그 문장이에요.
+LENZ: So dramatisch?
+> 그렇게 극적이에요?
+JAN: So dramatisch. Wenn ich einmal heimlich Dokumente weitergebe, an eine Seite, bin ich erpressbar. Für immer. Dann habe ich ein Geheimnis mit Ihnen. Und Geheimnisse sind Fesseln.
+> 그렇게 극적이에요. 한 번 몰래 문서를 한쪽에 넘기면 전 협박당할 수 있어요. 영원히. 그럼 당신들이랑 비밀을 공유하는 거예요. 그리고 비밀은 족쇄죠.
+LENZ: Niemand würde Sie erpressen.
+> 아무도 당신을 협박 안 할 거예요.
+JAN: Heute nicht. Aber Sie wechseln den Job. Ihr Nachfolger findet die Mail. «Kowalczyk hat uns heimlich geholfen.» Und schon bin ich käuflich. In den Augen aller.
+> 오늘은요. 근데 당신이 직장을 옮겨요. 후임이 그 메일을 찾죠. «코발치크가 우릴 몰래 도왔다.» 그럼 전 돈으로 살 수 있는 사람이 돼요. 모두의 눈에.
+LENZ: Sie denken weit.
+> 멀리 생각하시네요.
+JAN: Das ist mein Beruf. Ich denke an das, was in zwei Jahren in einer Akte steht. Nicht nur an heute.
+> 그게 제 일이에요. 2년 뒤에 어느 서류에 뭐가 적힐지를 생각해요. 오늘만이 아니라.
+LENZ: Gut. Keine Dokumente. Nur Fragen. Ich akzeptiere das. Widerwillig.
+> 좋아요. 문서는 없이. 질문만. 받아들일게요. 마지못해.
+JAN: «Widerwillig» ist die ehrlichste Zustimmung. Danke.
+> «마지못해»가 제일 정직한 동의예요. 감사합니다.
+LENZ: Eine Sache noch. Falls die Regierung ausweicht. Falls sie die Frage nicht beantwortet. Was dann?
+> 하나 더요. 정부가 회피하면요. 질문에 답을 안 하면. 그럼 어떡해요?
+JAN: Dann ist das Ausweichen selbst die Nachricht. «Regierung verweigert Antwort zu Offizier mit Nebentätigkeit.» Das ist eine Schlagzeile.
+> 그럼 그 회피 자체가 뉴스예요. «정부, 겸직 장교 관련 답변 거부.» 그게 헤드라인이죠.
+LENZ: Sie machen aus einem Schweigen eine Geschichte.
+> 침묵을 기사로 만드시네요.
+JAN: Das Schweigen der Mächtigen ist oft die lauteste Geschichte, die es gibt. Man muss nur hinhören.
+> 권력자의 침묵은 흔히 세상에서 제일 시끄러운 기사예요. 귀만 기울이면 돼요.
+LENZ: Das werde ich mir merken.
+> 그 말은 기억해 둘게요.
+JAN: Merken Sie es sich. Aber benutzen Sie es für die Wahrheit. Nicht nur gegen die Regierung.
+> 기억하세요. 근데 진실을 위해 쓰세요. 정부를 공격하는 데만이 아니라.
+
+# 장면 4 — WAS LENZ WEISS
+LENZ: Dann erzähle ich Ihnen, was im Ausschuss passiert ist. Das ist öffentlich genug. In der letzten Sitzung ging es um Skyward.
+> 그럼 위원회에서 뭐가 있었는지 말해 드릴게요. 그건 충분히 공개예요. 지난 회의에서 스카이워드 얘기가 나왔어요.
+JAN: Und?
+> 그래서?
+LENZ: Das Ministerium hat erklärt, die Vergabe sei «korrekt und dringlichkeitsbegründet» gewesen. Auf Nachfrage wurde es ausweichend.
+> 부처가 그 계약이 «정당하고 긴급성에 근거했다»고 설명했어요. 캐묻자 회피적으로 변했고요.
+JAN: Ausweichend wie?
+> 어떻게 회피적으로요?
+LENZ: Mein Abgeordneter fragte: «Wer hat die Leistungsbeschreibung erstellt?» Antwort: «Das Beschaffungsamt, unter Einbindung externer Expertise.» Er fragte: «Welche Expertise?» Antwort: «Das unterliegt der Vertraulichkeit.»
+> 저희 의원이 물었어요. «성능 명세서를 누가 작성했나?» 답: «조달청이, 외부 전문가를 포함해서.» 다시 물었죠. «어떤 전문가?» 답: «그건 비밀 대상이다.»
+JAN: «Unterliegt der Vertraulichkeit.» Das ist der Punkt, an dem man weiterbohren muss.
+> «비밀 대상이다.» 바로 거기서 더 파고들어야 해요.
+LENZ: Genau da brauche ich Ihre bessere Frage.
+> 바로 거기에 당신의 더 좋은 질문이 필요해요.
+JAN: Dann fragen Sie schriftlich: «War unter den externen Experten ein aktiver Offizier der Bundeswehr? Und hatte dieser eine Nebentätigkeit für ein Beratungsunternehmen?»
+> 그럼 서면으로 물으세요. «외부 전문가 중에 연방군 현역 장교가 있었나? 그리고 그 사람이 자문 회사에 겸직을 했나?»
+LENZ: Ein aktiver Offizier mit Nebentätigkeit für einen Berater. Das ist sehr konkret. Woher wissen Sie das?
+> 자문사에 겸직하는 현역 장교. 그건 아주 구체적이네요. 그걸 어떻게 아세요?
+JAN: Das kann ich nicht sagen. Quellenschutz. Aber stellen Sie die Frage. Die Antwort wird öffentlich. Und dann sehen wir weiter.
+> 그건 말할 수 없어요. 취재원 보호. 근데 그 질문을 내세요. 답은 공개돼요. 그다음에 봐요.
+LENZ: Wenn das stimmt, ist es ein Skandal.
+> 그게 사실이면 스캔들이에요.
+JAN: Wenn es stimmt. Stellen Sie die Frage so, dass die Regierung entweder lügen oder es zugeben muss. Das ist Ihre Kunst, nicht meine.
+> 사실이면요. 정부가 거짓말을 하거나 인정하거나 둘 중 하나를 하게 질문을 내세요. 그게 당신 기술이지 제 기술이 아니에요.
+LENZ: Und wenn mein Abgeordneter zögert? Eine so konkrete Frage ist riskant. Wenn sie ins Leere geht, blamieren wir uns.
+> 그럼 저희 의원이 망설이면요? 그렇게 구체적인 질문은 위험해요. 허탕이면 저희가 망신당해요.
+JAN: Dann stellen Sie sie vorsichtig. «Gab es Hinweise auf…» statt «War es so…». Aber präzise genug, dass ein Ja oder Nein nötig wird.
+> 그럼 조심스럽게 내세요. «~였나?» 대신 «~에 대한 정황이 있었나?»로. 근데 예스나 노가 필요할 만큼 정확하게요.
+LENZ: Sie formulieren wie ein Jurist.
+> 법률가처럼 표현하시네요.
+JAN: Ich arbeite mit einer Juristin. Sie färbt ab. Jede Frage, die wir stellen, geht durch sie.
+> 전 법률가랑 일해요. 물들죠. 우리가 내는 모든 질문이 그 사람을 거쳐요.
+LENZ: Ich hätte gern so eine Juristin.
+> 저도 그런 법률가가 있으면 좋겠네요.
+JAN: Finden Sie eine, die auch Nein zu Ihnen sagt. Das ist die beste Sorte.
+> 당신한테도 안 된다고 말하는 사람을 찾으세요. 그게 최고예요.
+LENZ: Eine, die Nein sagt. Davon habe ich im Parlament genug.
+> 안 된다고 말하는 사람이요. 의회엔 그런 사람 넘쳐요.
+JAN: Dann hören Sie auf sie. Die, die Nein sagen, retten einen vor den größten Fehlern.
+> 그럼 그 사람들 말을 들으세요. 안 된다고 말하는 사람들이 가장 큰 실수에서 구해 줘요.
+
+# 장면 5 — DIE WARNUNG IN DER REDAKTION
+HELENE: Du hast Lenz keine Dokumente gegeben. Gut.
+> 렌츠한테 문서를 안 줬네요. 잘했어요.
+JAN: Keine. Nur Fragen. Öffentliche Fragen. Er stellt sie, die Antworten werden öffentlich, wir berichten darüber. Jeder in seiner Rolle.
+> 안 줬어요. 질문만. 공개 질문. 그가 내고, 답은 공개되고, 우린 그걸 보도해요. 각자 자기 역할로.
+SWETA: Und doch bin ich vorsichtig. Lenz wollte sehr viel. Sehr schnell. Das macht mich nervös.
+> 그래도 전 조심스러워요. 렌츠가 아주 많이 원했어요. 아주 빨리. 그게 불안하게 해요.
+MIRA: Ich habe Lenz geprüft. Dominik Lenz. Neununddreißig. Büroleiter seit vier Jahren. Vorher… interessant.
+> 렌츠를 확인했어요. 도미니크 렌츠. 서른아홉. 4년째 보좌관. 그 전엔… 흥미롭네요.
+JAN: Was ist interessant?
+> 뭐가 흥미로운데?
+MIRA: Er hat in Moskau studiert. Politikwissenschaft. Zwei Jahre. Vor zehn Jahren. Steht in seinem Lebenslauf. Offen.
+> 모스크바에서 공부했어요. 정치학. 2년. 10년 전에. 이력서에 있어요. 공개적으로.
+SWETA: In Moskau. Das heißt nichts. Viele studieren im Ausland. Auch in Moskau.
+> 모스크바에서. 그게 아무 뜻도 아니에요. 많은 사람이 외국에서 공부해요. 모스크바에서도.
+MIRA: Das heißt nichts. Ich sage es nur, damit wir es wissen. Nicht als Verdacht. Als Information.
+> 아무 뜻도 아니죠. 그냥 우리가 알도록 말하는 거예요. 의심으로가 아니라. 정보로.
+HELENE: Richtig. Keine Vorverurteilung. Ein Auslandsstudium ist kein Verbrechen. Wir notieren es und gehen weiter.
+> 맞아요. 미리 재단하지 말아요. 외국 유학은 범죄가 아니에요. 적어 두고 넘어가요.
+JAN: Aber wir sind vorsichtig mit Lenz. Wir geben ihm Fragen, keine Fakten. Falls er doch nicht nur für seine Partei arbeitet.
+> 근데 렌츠한텐 조심해요. 질문을 주지 사실을 안 줘요. 혹시 그가 당만을 위해 일하는 게 아니라면.
+LEON: Für wen könnte er sonst arbeiten?
+> 그럼 누굴 위해 일할 수 있는데요?
+JAN: Das weiß ich nicht. Wahrscheinlich für niemanden außer seiner Partei. Aber «vorsichtig» kostet nichts. «Vertrauen» kann teuer werden.
+> 몰라. 아마 자기 당 말곤 아무도 아닐 거야. 근데 «조심»은 비용이 안 들어. «신뢰»는 비싸질 수 있고.
+SWETA: Noch etwas über Lenz. Er hat in Moskau studiert. Und ich kenne die Universität. Es ist eine gute. Aber auch eine, an der der Geheimdienst gern rekrutiert.
+> 렌츠에 대해 하나 더. 모스크바에서 공부했어요. 그리고 전 그 대학을 알아요. 좋은 데예요. 근데 정보기관이 즐겨 포섭하는 곳이기도 해요.
+HELENE: Das ist eine schwere Andeutung, Sweta.
+> 그건 심각한 암시예요, 스베타.
+SWETA: Es ist keine Anklage. Es ist Kontext. Ich sage nicht, Lenz ist etwas. Ich sage, die Universität ist bekannt. Das ist ein Unterschied.
+> 고발이 아니에요. 맥락이에요. 렌츠가 뭐라고 하는 게 아니라. 그 대학이 유명하다고 하는 거예요. 그건 달라요.
+JAN: Und wir dürfen diesen Kontext niemals veröffentlichen. Nicht ohne Beweise. «Hat in Moskau studiert» ist kein Verdacht. Es ist ein Lebenslauf.
+> 그리고 우린 그 맥락을 절대 보도하면 안 돼. 증거 없이는. «모스크바에서 공부했다»는 의심이 아니야. 이력서지.
+SWETA: Ich weiß. Deshalb sage ich es nur hier. Im Raum. Damit wir die Augen offen halten. Nicht um Lenz zu verurteilen.
+> 알아요. 그래서 여기서만 말하는 거예요. 이 방 안에서. 우리가 눈을 뜨고 있도록. 렌츠를 재단하려는 게 아니라.
+HELENE: Augen offen, Mund zu. Bis wir etwas wissen. Das ist die Regel.
+> 눈은 뜨고, 입은 닫고. 뭔가 알 때까지. 그게 규칙이에요.
+LEON: Und wenn Lenz ganz harmlos ist? Dann verdächtigen wir einen unschuldigen Mann.
+> 그럼 렌츠가 완전히 무해하면요? 그럼 결백한 사람을 의심하는 거잖아요.
+JAN: Wir verdächtigen ihn nicht. Wir vertrauen ihm nur nicht blind. Das ist der Unterschied. Vertrauen muss man sich verdienen. Auch ein netter Büroleiter.
+> 의심하는 게 아니야. 그냥 맹목적으로 믿지 않는 거지. 그게 차이야. 신뢰는 얻어야 하는 거야. 친절한 보좌관도.
+
+# 장면 6 — MITTAGESSEN IM PARLAMENT
+LENZ: Herr Kowalczyk, ein letztes Mittagessen, bevor Weihnachten alles lahmlegt. Im Besucherrestaurant. Ich lade ein.
+> 코발치크 씨, 크리스마스가 다 멈추기 전에 마지막으로 점심 한 끼. 방문객 식당에서. 제가 살게요.
+JAN: Danke. Aber ich zahle selbst. Das ist auch eine Regel. Journalisten lassen sich nicht einladen.
+> 고맙습니다. 근데 제 건 제가 낼게요. 그것도 규칙이에요. 기자는 얻어먹지 않아요.
+LENZ: Nicht einmal ein Schnitzel im Bundestag?
+> 연방의회 슈니첼 한 접시도요?
+JAN: Nicht einmal das. Ein Schnitzel heute, ein Gefallen morgen. So fängt es an.
+> 그것도요. 오늘 슈니첼, 내일 호의. 그렇게 시작되죠.
+LENZ: Sie sind der vorsichtigste Mensch, den ich kenne.
+> 제가 아는 사람 중에 제일 조심스러운 분이네요.
+JAN: In diesem Beruf ist Vorsicht keine Schwäche. Sie ist die Rüstung.
+> 이 일에선 조심이 약점이 아니에요. 갑옷이죠.
+LENZ: Eine Frage, privat. Warum machen Sie das? Der Job ist schlecht bezahlt, gefährlich, undankbar.
+> 질문 하나, 사적으로. 왜 이 일을 하세요? 돈도 적고, 위험하고, 보람도 없잖아요.
+JAN: Weil jemand es machen muss. Und weil ich einmal einen Fehler gemacht habe. Vor Jahren. Seitdem mache ich es richtig. Oder versuche es.
+> 누군가는 해야 하니까요. 그리고 전 한 번 실수를 했거든요. 몇 년 전에. 그 뒤로 제대로 해요. 아니면 노력하죠.
+LENZ: Einen Fehler. Darf ich fragen, welchen?
+> 실수요. 어떤 건지 여쭤봐도 될까요?
+JAN: Nein. Das behalte ich für mich. Wir haben alle unsere Geheimnisse, Herr Lenz. Auch Journalisten.
+> 아니요. 그건 제 안에 간직할게요. 우린 다 비밀이 있잖아요, 렌츠 씨. 기자들도요.
+LENZ: Auch Büroleiter. Guten Appetit, Herr Kowalczyk. Und frohe Weihnachten.
+> 보좌관들도요. 맛있게 드세요, 코발치크 씨. 그리고 메리 크리스마스.
+JAN: Frohe Weihnachten, Herr Lenz. Und viel Erfolg mit der Anfrage.
+> 메리 크리스마스, 렌츠 씨. 그리고 질의 잘 되길 바라요.
+LENZ: Eine allerletzte Frage. Rein aus Neugier. Woher wissen Sie so viel über einen aktiven Offizier? Das ist tief drin. Sehr tief.
+> 정말 마지막 질문 하나요. 순전히 호기심에서. 현역 장교에 대해 그렇게 많이 어떻게 아세요? 그건 깊숙한 데예요. 아주 깊숙한.
+JAN: Und genau deshalb sage ich es nicht. Quellenschutz ist nicht verhandelbar. Nicht mit Ihnen, nicht mit der Polizei, nicht mit meiner eigenen Mutter.
+> 그리고 바로 그래서 말 안 해요. 취재원 보호는 협상 대상이 아니에요. 당신하고도, 경찰하고도, 제 어머니하고도.
+LENZ: Das respektiere ich. Aber es macht mich neugierig, wer Ihnen so nah ans Ministerium herankommt.
+> 존중해요. 근데 누가 당신을 부처에 그렇게 가까이 데려다주는지 궁금해지네요.
+JAN: Neugier ist gut, Herr Lenz. Aber manche Neugier ist gefährlich. Für die Quelle. Lassen Sie sie los.
+> 호기심은 좋아요, 렌츠 씨. 근데 어떤 호기심은 위험해요. 취재원한테. 그 호기심은 놓으세요.
+LENZ: Sie haben recht. Ich lasse sie los. Frohe Weihnachten, wirklich.
+> 맞는 말씀이에요. 놓을게요. 메리 크리스마스, 진심으로요.
+
+# 엔딩 — DIE KLEINE ANFRAGE
+MIRA: Jan. Lenz hat die Kleine Anfrage gestellt. Heute. Offiziell. Mit deiner präzisen Frage.
+> 얀. 렌츠가 소질의를 냈어요. 오늘. 공식적으로. 당신의 그 정확한 질문으로.
+JAN: Wortlaut?
+> 문구는?
+MIRA: «War unter der externen Fachexpertise ein aktiver Offizier der Bundeswehr, der zugleich eine Nebentätigkeit für ein privates Beratungsunternehmen ausübte?»
+> «외부 전문가 자문 중에, 동시에 민간 자문 회사에 겸직하던 연방군 현역 장교가 있었습니까?»
+SWETA: Das ist genau die Frage. Jetzt muss die Regierung antworten. In vierzehn Tagen.
+> 바로 그 질문이에요. 이제 정부가 답해야 해요. 14일 안에.
+HELENE: Und sie hat nur zwei Möglichkeiten. Lügen. Oder zugeben.
+> 그리고 선택지는 둘뿐이에요. 거짓말. 아니면 인정.
+JAN: Und wenn sie lügt, haben wir Voigts Nebentätigkeit schwarz auf weiß. Aus dem Handelsregister. Dann ist die Lüge beweisbar.
+> 그리고 거짓말하면, 우린 포크트의 겸직을 문서로 갖고 있어요. 상업 등기에서. 그럼 거짓말을 증명할 수 있죠.
+MIRA: Eine Regierung, die beim Lügen erwischt wird. Das ist größer als Skyward.
+> 거짓말하다 걸린 정부. 그건 스카이워드보다 커요.
+LEON: Aber was, wenn die Regierung einfach die Wahrheit sagt? «Ja, es gab einen Offizier mit Nebentätigkeit, das war ein Fehler.»
+> 근데 정부가 그냥 진실을 말하면요? «네, 겸직한 장교가 있었고 그건 실수였다.»
+JAN: Dann haben wir die Bestätigung. Offiziell. Und können über die Hintergründe schreiben. Beide Antworten helfen uns.
+> 그럼 우린 확인을 얻는 거야. 공식적으로. 그리고 배경을 쓸 수 있어. 두 답 다 우릴 도와.
+SWETA: Eine Frage, auf die beide Antworten gut sind. Das ist die beste Art von Frage.
+> 두 답 다 좋은 질문. 그게 최고의 질문이에요.
+HELENE: Aber erst reden wir mit Voigt. Bevor er in einer Parlamentsantwort auftaucht. Wir schulden ihm eine faire Chance. Auch wenn er ein Täter ist.
+> 근데 먼저 포크트랑 얘기해요. 의회 답변에 등장하기 전에. 우린 그 사람한테 공정한 기회를 빚졌어요. 가해자라도.
+JAN: Auch ein Täter hat das Recht, seine Seite zu erzählen. Das unterscheidet uns von denen, über die wir schreiben.
+> 가해자도 자기 입장을 말할 권리가 있어요. 그게 우리가 쓰는 대상들이랑 우리의 차이예요.
+MIRA: Ich habe Voigts dienstliche Adresse. Und seine private. Aber wir gehen nicht einfach hin.
+> 포크트의 근무지 주소가 있어요. 그리고 집 주소도. 근데 그냥 찾아가진 않아요.
+JAN: Wir schreiben ihm einen Brief. Höflich. Mit der Bitte um ein Gespräch. Und wir warten. Wie immer.
+> 편지를 써. 정중하게. 대화를 부탁하면서. 그리고 기다려. 늘 그렇듯이.
+JAN: Deshalb müssen wir vorher mit Voigt reden. Bevor die Regierung antwortet. Wir müssen ihn fragen, bevor er zum Symbol wird.
+> 그래서 그 전에 포크트랑 얘기해야 해. 정부가 답하기 전에. 그가 상징이 되기 전에 물어봐야 해.
+HELENE: Dann ist das unsere nächste Aufgabe. Den Offizier finden. Und ihm eine faire Chance geben. Bevor alle anderen über ihn reden.
+> 그럼 그게 우리 다음 과제예요. 그 장교를 찾는 것. 그리고 공정한 기회를 주는 것. 다른 모두가 그에 대해 떠들기 전에.
+JAN: Und wir müssen vorsichtig mit Voigt umgehen. Ein aktiver Offizier, der redet, riskiert alles. Karriere, Pension, vielleicht ein Verfahren.
+> 그리고 포크트를 조심히 대해야 해요. 입을 여는 현역 장교는 전부를 걸어요. 경력, 연금, 어쩌면 소송.
+MIRA: Warum sollte er überhaupt reden? Er ist der Täter. Er hat die Spezifikationen geliefert.
+> 왜 애초에 입을 열겠어요? 그 사람은 가해자예요. 사양을 넘겼잖아요.
+JAN: Täter reden manchmal. Wenn sie glauben, sie hätten das Richtige getan. Oder wenn sie merken, dass sie fallen gelassen werden.
+> 가해자도 가끔 입을 열어. 자기가 옳은 일을 했다고 믿으면. 아니면 버려진다는 걸 알아채면.
+SWETA: Und Voigt wird fallen gelassen. Das haben wir bei Kasper gehört. «Er sitzt am Rand. Er bekommt Umschläge, keine Einladungen.»
+> 그리고 포크트는 버려져요. 카스퍼한테 들었잖아요. «가장자리에 앉아 있다. 초대가 아니라 봉투를 받는다.»
+JAN: Genau. Ein Mann am Rand, der gleich fällt. Das ist der Moment, in dem Menschen reden. Wenn sie merken, dass die Loyalität nur in eine Richtung geht.
+> 맞아. 곧 떨어질 가장자리의 남자. 그게 사람들이 입을 여는 순간이야. 충성이 한 방향으로만 간다는 걸 알아챌 때.
+HELENE: Dann schreiben wir den Brief heute. Vor Weihnachten. Damit er über die Feiertage nachdenken kann. Allein.
+> 그럼 오늘 편지를 써요. 크리스마스 전에. 연휴 동안 생각할 수 있게. 혼자서.
+LEON: Allein über Weihnachten nachdenken. Das klingt traurig.
+> 크리스마스 내내 혼자 생각하기. 슬프게 들리네요.
+JAN: Es ist traurig. Aber Einsamkeit macht ehrlich. Vielleicht ist Weihnachten der beste Zeitpunkt, um einen einsamen Mann zu fragen.
+> 슬프지. 근데 외로움은 정직하게 만들어. 어쩌면 크리스마스가 외로운 사람한테 묻기 제일 좋은 때일지도.
