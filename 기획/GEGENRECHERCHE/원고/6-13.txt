@@ -1,0 +1,380 @@
+@part 6
+@ep 13
+@title Jan wird gejagt
+@sub 쫓기는 얀 · 배신자 낙서와 은신처
+@info 대사 150턴 · 난이도 C1− · 배경: 2028년 11월 초, 얀의 아파트, 엘케의 선술집 앞, 브란덴부르크의 은신처, Spreewerk 편집국
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast OKAFOR | 오카포르 (34) · LKA 신변 보호 요원
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@cast HORST | 호르스트 렘케 (84) · 엘케의 단골
+@cast GISELA | 기젤라 호프만 (79) · Gerichtstraße 61 세입자
+@cast KEVIN | 케빈 (19) · 토비의 조카 (베를린 사투리)
+@cast KURATOR | 큐레이터 · 채널 관리자 (텔레그램 게시물)
+@note ※ 큐레이터가 얀의 정체를 공개한다. 얀의 아파트가 털리고, 엘케 선술집 앞에 '배신자' 낙서가 생긴다. 얀은 신변 보호 아래 잠적한다. 동네와 팀의 연대, 그리고 위협 앞에서의 두려움. 마지막에 익명 제보자 «Spatz»의 메시지가 은신처로 온다. 등장 인물 가상.
+@note ※ 표현 초점: der Racheakt · der Zeugenschutz · untertauchen · die Solidarität · die Angst · Keener vertreibt mir meine Jäste.
+@next 6부 14화 — «500 Euro»(500유로) — 기사를 낸다. 일회용 요원들의 이야기, 렌츠 체포, 요원망의 구조. 청년들이 어떻게 국가의 도구가 되는지를 보여 준다.
+
+# 콜드 오픈 — DER KANAL POSTET
+MIRA: Jan. Bist du wach? Ich schicke dir etwas. Der Kanal. Vor zehn Minuten. Ein neuer Beitrag. An alle viertausendzweihundert Abonnenten.
+> 얀. 깼어요? 뭐 보낼게요. 채널. 10분 전. 새 게시물. 구독자 4,200명 전원에게.
+KURATOR: Achtung, werte Freunde. Ein Mann hat sich unter dem Namen «Janek» als Taxifahrer ausgegeben. Er ist ein Journalist. Er hat unser Vertrauen missbraucht. Er hat Brüder an die Polizei verraten. Sein Name ist Jan Kowalczyk. Er sitzt gern schief.
+> 주의, 친애하는 벗들이여. 한 남자가 «야넥»이라는 이름으로 택시 기사 행세를 했습니다. 그는 기자입니다. 우리의 신뢰를 악용했습니다. 형제들을 경찰에 팔았습니다. 그의 이름은 얀 코발치크입니다. 그는 비스듬히 앉기를 좋아합니다.
+JAN: «Er sitzt gern schief.»
+> «그는 비스듬히 앉기를 좋아합니다.»
+SWETA: Das ist kein Hinweis für die Abonnenten. Das ist eine Nachricht an dich. «Wir wissen alles. Auch das Kleinste.»
+> 그건 구독자들을 위한 정보가 아니에요. 당신한테 보내는 메시지예요. «우린 다 안다. 가장 작은 것까지.»
+MIRA: Und es geht weiter. Darunter ein Foto. Von dir. Vor Elkes Kneipe. Aus dem Sommer. Mit Bier.
+> 그리고 계속돼요. 그 아래 사진. 당신. 엘케네 가게 앞. 여름 거. 맥주 들고.
+OKAFOR: Herr Kowalczyk, ich muss Sie bitten, das Telefon jetzt wegzulegen. Und sich anzuziehen. Wir fahren. In zehn Minuten.
+> 코발치크 씨, 이제 휴대폰 내려놓으시라고 부탁드려야겠어요. 그리고 옷 입으세요. 출발해요. 10분 뒤에.
+JAN: Wohin?
+> 어디로?
+OKAFOR: Das erfahren Sie im Auto. Und Ihr Telefon bleibt hier. Sie bekommen ein neues.
+> 차에서 알게 되실 거예요. 그리고 휴대폰은 여기 두세요. 새 걸 드릴게요.
+JAN: Und die Redaktion?
+> 그럼 편집국은?
+OKAFOR: Ist informiert. Frau Brandt ist schon wach. Sie hat gesagt, Sie sollen nicht diskutieren.
+> 알고 있어요. 브란트 씨는 벌써 깨어 계세요. 토 달지 말라고 하셨어요.
+
+# 장면 1 — DIE WOHNUNG
+TOBI: Jan, ick bin mit Dana in deiner Wohnung. Wejen dem Fallada. Und… Jan, setz dich hin, wo immer du jetzt bist.
+= Jan, ich bin mit Dana in deiner Wohnung. Wegen dem Fallada. Und… Jan, setz dich hin, wo immer du jetzt bist.
+> 얀, 다나랑 네 집에 왔어. 팔라다 때문에. 그리고… 얀, 지금 어디 있든 앉아.
+JAN: Was ist?
+> 뭔데?
+TOBI: Die Tür is uffjebrochen. Professionell. Keen Kratzer am Schloss, nur am Rahmen. Drinnen… allet durchwühlt. Die Schubladen uff'm Boden. Die Bücher aus'm Regal.
+= Die Tür ist aufgebrochen. Professionell. Kein Kratzer am Schloss, nur am Rahmen. Drinnen… alles durchwühlt. Die Schubladen auf dem Boden. Die Bücher aus dem Regal.
+> 문이 따여 있어. 전문적으로. 자물쇠엔 긁힌 자국 없고, 문틀에만. 안은… 다 뒤집혀 있어. 서랍들 바닥에. 책들 책장 밖에.
+DANA: Und es fehlt fast nichts. Kein Fernseher, kein Geld. Sie haben nicht geklaut. Sie haben gesucht.
+> 그리고 거의 없어진 게 없어. 텔레비전도, 돈도. 훔친 게 아니야. 찾은 거지.
+JAN: Was gesucht?
+> 뭘 찾았는데?
+DANA: Notizbücher. Telefone. Festplatten. Alles, was nach Quellen aussieht.
+> 수첩. 휴대폰. 하드 디스크. 취재원처럼 보이는 건 전부.
+KATRIN: Und sie haben nichts gefunden. Weil nichts da war. Alle Notizen liegen im Bunker, verschlüsselt. Seit Teil vier.
+> 그리고 아무것도 못 찾았어. 아무것도 없었으니까. 메모는 전부 벙커에, 암호화돼 있어. 4부 때부터.
+TOBI: Und noch wat. Uff deinem Küchentisch. Die haben wat hinjelegt. Een Taxameter. Een alter. Mechanisch.
+= Und noch was. Auf deinem Küchentisch. Die haben was hingelegt. Ein Taxameter. Ein alter. Mechanisch.
+> 그리고 하나 더. 네 부엌 탁자 위에. 뭘 놓고 갔어. 택시 미터기. 오래된 거. 기계식.
+JAN: … Meiner ist bei Willi.
+> … 내 건 빌리 씨한테 있는데.
+TOBI: Dit is nich deiner. Dit is 'n anderer. Jekooft. Uff 'nem Flohmarkt wahrscheinlich. Und er läuft. Er tickt.
+= Das ist nicht deiner. Das ist ein anderer. Gekauft. Auf einem Flohmarkt wahrscheinlich. Und er läuft. Er tickt.
+> 네 거 아니야. 다른 거야. 산 거. 아마 벼룩시장에서. 그리고 돌아가. 째깍거려.
+SWETA: Die Uhr läuft. Das ist die Botschaft.
+> 미터기가 돌아간다. 그게 메시지예요.
+
+# 장면 1-2 — DIE NACHBARIN
+DANA: Ich habe mit Ihrer Nachbarin gesprochen. Frau Yıldız, zweiter Stock. Sie hat um drei Uhr nachts Schritte gehört. Zwei Männer. Sie dachte, Sie kommen spät nach Hause.
+> 이웃이랑 얘기했어. 이을드즈 씨, 3층. 새벽 3시에 발소리를 들었대. 남자 둘. 네가 늦게 들어오는 줄 알았대.
+JAN: Ich komme nie um drei nach Hause. Das weiß sie.
+> 난 3시에 집에 온 적 없어. 그 사람도 알아.
+DANA: Deshalb hat sie um drei Uhr zwanzig aus dem Fenster geschaut. Und zwei Männer gesehen, die in ein graues Auto gestiegen sind. Ohne Kennzeichen vorne. Sie hat es aufgeschrieben. Auf einen Einkaufszettel. Neben «Milch» und «Zwiebeln».
+> 그래서 3시 20분에 창밖을 봤대. 그리고 남자 둘이 회색 차에 타는 걸 봤고. 앞 번호판 없이. 그걸 적었대. 장보기 목록에. «우유»랑 «양파» 옆에.
+TOBI: Een graues Auto. Wie bei Teil drei. Vor der Fabrik von Roloff. Die haben damals ooch fotografiert und sind langsam wechjefahren.
+= Ein graues Auto. Wie bei Teil drei. Vor der Fabrik von Roloff. Die haben damals auch fotografiert und sind langsam weggefahren.
+> 회색 차. 3부 때처럼. 롤로프 공장 앞. 그때도 사진 찍고 천천히 떠났잖아.
+DANA: Ein graues Auto ist kein Beweis. Es gibt in Berlin zweihunderttausend graue Autos.
+> 회색 차는 증거가 아니야. 베를린엔 회색 차가 20만 대야.
+KATRIN: Aber zweihunderttausend graue Autos ohne vorderes Kennzeichen gibt es nicht.
+> 근데 앞 번호판 없는 회색 차가 20만 대는 아니지.
+DANA: Nein. Deshalb habe ich den Einkaufszettel mitgenommen. Mit Frau Yıldız' Erlaubnis. Und einer Quittung.
+> 아니지. 그래서 장보기 목록을 가져왔어. 이을드즈 씨 허락 받고. 영수증도 써 주고.
+JAN: Eine Quittung für einen Einkaufszettel.
+> 장보기 목록에 영수증.
+DANA: Ordnung muss sein. Gerade jetzt.
+> 질서는 있어야지. 특히 지금은.
+
+# 장면 2 — DIE KNEIPE
+ELKE: Wat is dit denn? Wer hat dit an meine Tür jeschmiert?
+= Was ist das denn? Wer hat das an meine Tür geschmiert?
+> 이게 뭐야? 누가 우리 문에 이걸 칠했어?
+HORST: Rote Farbe. In der Nacht. «VERRÄTER». Und darunter: «Hier säuft Janek.»
+> 빨간 페인트. 밤에. «배신자». 그리고 그 아래: «야넥이 여기서 퍼마신다.»
+ELKE: Janek. Die wissen nich mal, wie man richtig schmiert. Kiek ma, dit «R» is schief.
+= Janek. Die wissen nicht mal, wie man richtig schmiert. Guck mal, das «R» ist schief.
+> 야넥. 칠하는 법도 모르네. 봐 봐, «R»이 삐뚤어졌어.
+HORST: Elke, dit is nich lustig.
+> 엘케, 이거 안 웃겨.
+ELKE: Weeß ick, Horst. Ick lach, damit ick nich heule. Hol mir den Eimer. Und die Bürste. Und den Lack aus'm Keller.
+= Weiß ich, Horst. Ich lache, damit ich nicht heule. Hol mir den Eimer. Und die Bürste. Und den Lack aus dem Keller.
+> 알아, 호르스트. 안 울려고 웃는 거야. 양동이 갖다줘. 솔이랑. 지하실에서 페인트도.
+TOBI: Elke, warte. Ick fotografier dit erst. Für Dana. Beweis.
+= Elke, warte. Ich fotografiere das erst. Für Dana. Beweis.
+> 엘케, 기다려. 먼저 찍을게. 다나용으로. 증거.
+ELKE: Mach. Und denn wisch ick et wech. Und denn mal ick wat anderet hin.
+= Mach. Und dann wische ich es weg. Und dann male ich was anderes hin.
+> 찍어. 그다음 내가 지울게. 그다음 다른 걸 그릴 거야.
+HORST: Wat denn?
+> 뭘?
+ELKE: Wirste sehen. Bis heute Mittag. Und Horst — du hilfst. Mit deinem Rücken? Nee. Du hältst den Eimer. Dit reicht.
+= Wirst du sehen. Bis heute Mittag. Und Horst — du hilfst. Mit deinem Rücken? Nein. Du hältst den Eimer. Das reicht.
+> 보면 알아. 오늘 점심때까지. 그리고 호르스트 — 너도 도와. 그 허리로? 아니. 양동이만 들고 있어. 그거면 돼.
+
+# 장면 3 — DAS VERSTECK
+OKAFOR: Hier sind wir. Ein Ferienhaus in Brandenburg. Am See. Niemand wohnt in der Nähe. Der nächste Nachbar ist ein Bauer, der seit vierzig Jahren mit der Polizei zusammenarbeitet. Ohne es jemandem zu erzählen.
+> 여기예요. 브란덴부르크의 휴가용 별장. 호숫가. 근처에 사는 사람 없어요. 가장 가까운 이웃은 40년째 경찰과 협력해 온 농부예요. 아무한테도 말 안 하고.
+JAN: Wie lange?
+> 얼마나요?
+OKAFOR: Bis Frau Schuster sagt, dass es sicher ist. Eine Woche. Vielleicht zwei.
+> 슈스터 씨가 안전하다고 할 때까지. 일주일. 어쩌면 2주.
+JAN: Und meine Arbeit?
+> 그럼 제 일은요?
+OKAFOR: Sie haben einen Laptop ohne Internet. Und ein Telefon, das nur drei Nummern anrufen kann. Frau Brandt, Frau Schuster, Frau Dr. Wolny.
+> 인터넷 안 되는 노트북이 있어요. 그리고 번호 세 개만 걸 수 있는 휴대폰. 브란트 씨, 슈스터 씨, 볼니 박사님.
+JAN: Und Elke?
+> 그럼 엘케는요?
+OKAFOR: Elke ist keine Nummer. Elke ist eine Adresse. Und Adressen sind gerade gefährlich.
+> 엘케는 번호가 아니에요. 주소죠. 그리고 지금은 주소가 위험해요.
+JAN: Ich bin noch nie weggelaufen.
+> 난 한 번도 도망친 적 없어요.
+OKAFOR: Sie laufen nicht weg. Sie gehen in Deckung. Das ist ein Unterschied. Wer wegläuft, kommt nicht zurück. Wer in Deckung geht, kommt zurück. Wenn es vorbei ist.
+> 도망치는 게 아니에요. 엄폐하는 거예요. 그건 달라요. 도망친 사람은 안 돌아와요. 엄폐한 사람은 돌아와요. 끝나면.
+JAN: Und wenn es nicht vorbei ist?
+> 끝나지 않으면요?
+OKAFOR: Dann gehen wir weiter in Deckung. Bis es vorbei ist. Das ist mein Job, Herr Kowalczyk. Nicht Ihrer. Ihrer ist schreiben. Schreiben Sie.
+> 그럼 계속 엄폐하는 거죠. 끝날 때까지. 그게 제 일이에요, 코발치크 씨. 당신 일이 아니라. 당신 일은 쓰는 거예요. 쓰세요.
+
+# 장면 3-2 — DIE ERSTE NACHT AM SEE
+OKAFOR: Sie schlafen nicht.
+> 안 주무시네요.
+JAN: Sie auch nicht.
+> 당신도요.
+OKAFOR: Ich schlafe nie in der ersten Nacht. Bei niemandem. Ich höre mir das Haus an. Jedes Haus hat eigene Geräusche. Ich muss wissen, welche normal sind.
+> 전 첫날 밤엔 절대 안 자요. 누구랑 있든. 집 소리를 들어요. 집마다 고유한 소리가 있거든요. 어떤 게 정상인지 알아야 해요.
+JAN: Wie lange machen Sie das schon?
+> 이 일 얼마나 하셨어요?
+OKAFOR: Elf Jahre. Richter, Staatsanwälte, Zeugen. Einmal eine Bürgermeisterin, die Morddrohungen bekam, weil sie ein Flüchtlingsheim genehmigt hatte. Und einmal einen Journalisten. Vor Ihnen.
+> 11년. 판사, 검사, 증인. 난민 숙소를 허가했다고 살해 협박을 받은 시장 한 명도. 그리고 기자 한 명. 당신 전에.
+JAN: Was ist aus ihm geworden?
+> 그 사람은 어떻게 됐어요?
+OKAFOR: Er hat sein Buch fertig geschrieben. In einem Haus wie diesem. Und dann ist er zurückgegangen. Nach drei Monaten. Er schreibt heute noch. Über dieselben Leute.
+> 책을 다 썼어요. 이런 집에서. 그리고 돌아갔어요. 석 달 뒤에. 지금도 써요. 같은 사람들에 대해.
+JAN: Hatte er Angst?
+> 무서워했어요?
+OKAFOR: Jede Nacht. Und jeden Morgen hat er trotzdem geschrieben. Er hat gesagt: «Die Angst ist mein Lektor. Sie streicht alles, was nicht wahr genug ist.»
+> 매일 밤. 그리고 매일 아침 그래도 썼어요. 그러더라고요. «두려움은 내 편집자다. 충분히 진실하지 않은 건 다 지운다.»
+JAN: Die Angst ist mein Lektor. Das schreibe ich mir auf.
+> 두려움은 내 편집자다. 적어 둘게요.
+OKAFOR: Schreiben Sie lieber den Artikel. Ich passe auf. Das ist die Arbeitsteilung.
+> 차라리 기사를 쓰세요. 지키는 건 제가 해요. 그게 분업이죠.
+
+# 장면 4 — DIE ANGST
+JAN: Helene? Ich bin's. Das Telefon mit den drei Nummern.
+> 헬레네? 나야. 번호 세 개짜리 폰.
+HELENE: Wie geht es dir?
+> 어때?
+JAN: Ich sitze an einem See in Brandenburg. Es ist still. Ein Reiher steht im Wasser. Seit einer Stunde. Er bewegt sich nicht. Und ich habe Angst.
+> 브란덴부르크 호숫가에 앉아 있어. 조용해. 왜가리 한 마리가 물에 서 있어. 한 시간째. 꼼짝도 안 해. 그리고 난 무서워.
+HELENE: Das ist gut.
+> 그거 좋은 거야.
+JAN: Gut?
+> 좋다고?
+HELENE: Seit drei Wochen sagst du jeden Abend «Ich bin noch Journalist». Heute sagst du «Ich habe Angst». Das ist der ehrlichste Satz seit Wochen. Wer Angst hat, ist noch bei Verstand.
+> 3주째 매일 저녁 «난 아직 기자다»라고 했지. 오늘은 «무섭다»고 하고. 몇 주 만에 가장 정직한 문장이야. 무서운 사람은 아직 정신이 멀쩡한 거야.
+JAN: Ich habe Angst um Elke. Um Tobi. Um Kevin. Um alle, die mit mir gesehen wurden.
+> 엘케가 걱정돼. 토비도. 케빈도. 나랑 같이 보인 모든 사람이.
+HELENE: Dana hat für die Kneipe eine Streife bestellt. Dreimal pro Nacht. Und Kevin ist bei Tobi. Tobi hat ein Sofa und einen Baseballschläger aus den Neunzigern, den er nie benutzt hat.
+> 다나가 가게에 순찰을 배치했어. 밤에 세 번. 그리고 케빈은 토비네 있어. 토비는 소파랑 한 번도 안 쓴 90년대 야구 방망이가 있고.
+JAN: Und du?
+> 그리고 너는?
+HELENE: Ich schlafe bei Katrin. Sie hat einen Hund. Einen kleinen. Er bellt bei jedem Geräusch. Ich habe die ganze Nacht nicht geschlafen. Aber ich habe mich sicher gefühlt.
+> 카트린네서 자. 개가 있어. 작은 거. 소리마다 짖어. 밤새 못 잤어. 근데 안전하다고 느꼈어.
+
+# 장면 5 — SWETA WEISS, WIE ES IST
+SWETA: Jan, Helene hat mir die Nummer gegeben. Sie hat gesagt, ich darf einmal anrufen. Nur einmal.
+> 얀, 헬레네가 번호를 줬어요. 한 번만 전화해도 된대요. 딱 한 번.
+JAN: Sweta. Wie hast du das damals ausgehalten? Als sie hinter dir her waren?
+> 스베타. 그때 어떻게 견뎠어? 그들이 널 쫓을 때?
+SWETA: Schlecht. Ich bin in achtundvierzig Stunden aus Moskau geflohen. Ohne mich von meiner Mutter zu verabschieden. Du bist in Brandenburg. Und morgen kannst du Helene anrufen. Das ist ein großer Unterschied.
+> 형편없이요. 48시간 만에 모스크바를 탈출했어요. 엄마한테 작별 인사도 못 하고. 당신은 브란덴부르크에 있어요. 그리고 내일 헬레네한테 전화할 수 있고요. 그건 큰 차이예요.
+JAN: Und was hat dir geholfen?
+> 그럼 뭐가 도움이 됐어?
+SWETA: Zu wissen, dass sie das wollen. Dass du Angst hast. Dass du dich versteckst. Dass du aufhörst. Jede Stunde, die du in Angst verbringst, ist für sie eine gewonnene Stunde. Also verbringst du die Stunden anders.
+> 그들이 그걸 원한다는 걸 아는 것. 당신이 무서워하는 걸. 숨는 걸. 그만두는 걸. 무서워하며 보내는 한 시간 한 시간이 그들한텐 이긴 한 시간이에요. 그러니 그 시간을 다르게 보내는 거죠.
+JAN: Wie?
+> 어떻게?
+SWETA: Schreib. Den Artikel. Ich weiß, du hast einen Laptop ohne Internet. Umso besser. Niemand stört dich. Keine Nachrichten. Kein Kurator. Nur du und der See und der Reiher.
+> 써요. 기사를. 인터넷 안 되는 노트북이 있잖아요. 그럼 더 좋아요. 아무도 방해 안 해요. 메시지도. 큐레이터도. 당신이랑 호수랑 왜가리뿐.
+JAN: Woher weißt du von dem Reiher?
+> 왜가리는 어떻게 알아?
+SWETA: Helene hat es mir erzählt. Sie hat gesagt, du hast eine Stunde lang einem Reiher zugesehen. Ich habe gesagt: Dann ist er bereit. Wer eine Stunde lang still sein kann, kann auch schreiben.
+> 헬레네가 말해 줬어요. 한 시간 동안 왜가리를 지켜봤다고. 제가 그랬죠. 그럼 준비된 거네요. 한 시간 동안 가만히 있을 수 있는 사람은 쓸 수도 있어요.
+
+# 장면 5-2 — KEVIN SCHREIBT
+TOBI: Kevin. Du schläfst ooch nich. Wat machste da?
+= Kevin. Du schläfst auch nicht. Was machst du da?
+> 케빈. 너도 안 자네. 뭐 해?
+KEVIN: Ick schreib Jan 'nen Brief. Uff Papier. Helene hat jesacht, se bringt ihm wat. Per Kurier.
+= Ich schreibe Jan einen Brief. Auf Papier. Helene hat gesagt, sie bringt ihm was. Per Kurier.
+> 얀한테 편지 써. 종이에. 헬레네가 뭘 갖다준대. 인편으로.
+TOBI: Wat schreibste denn?
+= Was schreibst du denn?
+> 뭐라고 쓰는데?
+KEVIN: Dass ick weeß, wie dit is, wenn die wissen, wo man wohnt. Und dass man trotzdem schlafen kann. Irjendwann. Und dass Dennis jetzt ooch 'ne Ausbildung will. Und dass dit wejen ihm is. Wejen Jan.
+= Dass ich weiß, wie das ist, wenn die wissen, wo man wohnt. Und dass man trotzdem schlafen kann. Irgendwann. Und dass Dennis jetzt auch eine Ausbildung will. Und dass das wegen ihm ist. Wegen Jan.
+> 그놈들이 내가 어디 사는지 알 때 어떤 기분인지 안다고. 그래도 잠은 잘 수 있다고. 언젠가는. 그리고 데니스도 이제 직업 교육 받고 싶어 한다고. 그리고 그게 그 사람 덕이라고. 얀 덕이라고.
+TOBI: Dit wird ihn freuen.
+= Das wird ihn freuen.
+> 그거 좋아할 거야.
+KEVIN: Onkel. Is dit meine Schuld? Wenn ick nich jeantwortet hätte im Juni, wär Jan nie in dem Kanal jewesen.
+= Onkel. Ist das meine Schuld? Wenn ich nicht geantwortet hätte im Juni, wäre Jan nie in dem Kanal gewesen.
+> 삼촌. 이거 내 탓이야? 내가 6월에 답 안 했으면 얀은 그 채널에 안 들어갔을 거잖아.
+TOBI: Nee. Wenn du nich jeantwortet hättest, hätte een anderer jeantwortet. Und Jan wär trotzdem rinjejangen. Wejen dem anderen. So is Jan.
+= Nein. Wenn du nicht geantwortet hättest, hätte ein anderer geantwortet. Und Jan wäre trotzdem reingegangen. Wegen dem anderen. So ist Jan.
+> 아니. 네가 답 안 했으면 다른 애가 답했겠지. 그리고 얀은 그래도 들어갔을 거야. 그 다른 애 때문에. 얀이 그래.
+KEVIN: Und der Baseballschläger? Brauchste den?
+= Und der Baseballschläger? Brauchst du den?
+> 그럼 야구 방망이는? 그거 필요해?
+TOBI: Den hab ick 1996 jekooft. Für 'n Baseballverein, den et nie jejeben hat. Der is nur Deko. Wenn eener kommt, ruf ick die Polizei. Wie jeder vernünftige Mensch.
+= Den habe ich 1996 gekauft. Für einen Baseballverein, den es nie gegeben hat. Der ist nur Deko. Wenn einer kommt, rufe ich die Polizei. Wie jeder vernünftige Mensch.
+> 1996년에 샀어. 있지도 않았던 야구 클럽 하려고. 그냥 장식이야. 누가 오면 경찰 불러. 분별 있는 사람이라면 다 그러듯.
+KEVIN: Und dit Foto von Opa? Mit der Kamera? Dit häng ick neben mein Bett.
+= Und das Foto von Opa? Mit der Kamera? Das hänge ich neben mein Bett.
+> 그럼 할아버지 사진은? 카메라 든 거? 그거 내 침대 옆에 걸게.
+TOBI: Mach. Opa hat immer jesacht: Wer Angst hat, soll wat in der Hand halten. Bei ihm war et 'ne Kamera.
+= Mach. Opa hat immer gesagt: Wer Angst hat, soll was in der Hand halten. Bei ihm war es eine Kamera.
+> 그래. 할아버지가 늘 그랬어. 무서운 사람은 손에 뭘 쥐고 있으라고. 할아버지한텐 카메라였지.
+
+# 장면 6 — DIE NEUE TÜR
+HORST: Elke. Et is zwölf. Wat haste da hinjemalt?
+= Elke. Es ist zwölf. Was hast du da hingemalt?
+> 엘케. 12시야. 거기 뭘 그렸어?
+ELKE: Lies vor, Horst. Laut. Damit die janze Straße et hört.
+= Lies vor, Horst. Laut. Damit die ganze Straße es hört.
+> 읽어, 호르스트. 크게. 거리 전체가 듣게.
+HORST: «Hier trinkt Jan Kowalczyk. Seit zwölf Jahren. Schief. Wer wat dagegen hat, kann reinkommen und et mir ins Jesicht sajen. Elke.»
+= «Hier trinkt Jan Kowalczyk. Seit zwölf Jahren. Schief. Wer was dagegen hat, kann reinkommen und es mir ins Gesicht sagen. Elke.»
+> «여기서 얀 코발치크가 마신다. 12년째. 비스듬히. 불만 있는 놈은 들어와서 내 얼굴에 대고 말해라. 엘케.»
+GISELA: Elke, ick hab dit von meinem Fenster jesehen. Ick will unterschreiben. Wie bei Sweta.
+= Elke, ich habe das von meinem Fenster gesehen. Ich will unterschreiben. Wie bei Sweta.
+> 엘케, 우리 집 창문에서 봤어. 서명하고 싶어. 스베타 때처럼.
+ELKE: Denn unterschreib. Unten links. Neben Horst.
+= Dann unterschreib. Unten links. Neben Horst.
+> 그럼 서명해. 왼쪽 아래. 호르스트 옆에.
+GISELA: Und Tadek will ooch. Und Herr Demir vom Kiosk. Und die Kleene vom vierten Stock. Und Bärbel kommt nach der Tour.
+= Und Tadek will auch. Und Herr Demir vom Kiosk. Und die Kleine vom vierten Stock. Und Bärbel kommt nach der Tour.
+> 그리고 타덱도 하고 싶대. 그리고 키오스크의 데미르 씨도. 그리고 4층 꼬마도. 그리고 배르벨은 순회 끝나고 온대.
+HORST: Elke. Dit is schon die zweete Tür mit Unterschriften. Die Leute halten uns bald für 'ne Behörde.
+= Elke. Das ist schon die zweite Tür mit Unterschriften. Die Leute halten uns bald für eine Behörde.
+> 엘케. 서명 있는 문이 벌써 두 번째야. 사람들이 곧 우릴 관청인 줄 알겠어.
+ELKE: Wir sind 'ne Behörde, Horst. Die einzige, die hier nachts uff hat. Keener vertreibt mir meine Jäste. Keener.
+= Wir sind eine Behörde, Horst. Die einzige, die hier nachts auf hat. Keiner vertreibt mir meine Gäste. Keiner.
+> 우린 관청이야, 호르스트. 여기서 밤에 문 여는 유일한 관청. 아무도 내 손님을 쫓아내지 못해. 아무도.
+TOBI: Und ick fotografier die Tür. Für Jan. Und für den Artikel. Mit allen Unterschriften.
+= Und ich fotografiere die Tür. Für Jan. Und für den Artikel. Mit allen Unterschriften.
+> 그리고 내가 문을 찍을게. 얀을 위해. 그리고 기사를 위해. 서명 전부랑 같이.
+ELKE: Und mit dem schiefen «R». Dit lass ick stehen. Klein. In der Ecke. Damit die wissen, dass wir dit jesehen ham.
+= Und mit dem schiefen «R». Das lasse ich stehen. Klein. In der Ecke. Damit die wissen, dass wir das gesehen haben.
+> 그리고 삐뚤어진 «R»도. 그건 남겨 둘게. 작게. 구석에. 우리가 그걸 봤다는 걸 그놈들이 알게.
+
+# 장면 7 — DIE REDAKTION ARBEITET
+LEON: Ich habe heute zum ersten Mal ohne Jan in der Redaktion gesessen. Es ist so still.
+> 오늘 처음으로 얀 없이 편집국에 앉아 있었어요. 너무 조용해요.
+MIRA: Er schreibt. In Brandenburg. Helene hat gesagt, er hat schon zwölf Seiten.
+> 쓰고 있어요. 브란덴부르크에서. 헬레네 말로는 벌써 12쪽이래요.
+KATRIN: Und wir prüfen jede davon. Wenn sie zurückkommen. Per Kurier. Auf Papier.
+> 그리고 우린 한 쪽 한 쪽 검토할 거야. 돌아오면. 인편으로. 종이로.
+SWETA: Und ich habe etwas gefunden. Im Kanal. Seit dem Beitrag über Jan haben zweihundertdreißig Abonnenten den Kanal verlassen.
+> 그리고 뭘 찾았어요. 채널에서. 얀에 대한 게시물 이후로 구독자 230명이 채널을 떠났어요.
+LEON: Warum?
+> 왜요?
+SWETA: Ich habe Kommentare gelesen, die noch nicht gelöscht wurden. Einer schreibt: «Wenn ein Journalist hier drin war, war vielleicht auch die Polizei hier drin. Ich bin raus.» Ein anderer: «Bruder? Ihr habt einen Mann verraten, der nur Fotos gemacht hat.»
+> 아직 안 지워진 댓글들을 읽었어요. 하나는 이래요. «기자가 여기 있었다면 경찰도 있었을지 몰라. 난 나간다.» 다른 하나는: «형제? 사진만 찍은 남자를 너희가 배신했잖아.»
+MIRA: Sie haben Jan verraten. Und damit gezeigt, dass sie jeden verraten.
+> 그들이 얀을 폭로했어요. 그리고 그걸로 그들이 누구든 배신한다는 걸 보여 줬죠.
+SWETA: Der Kurator hat einen Fehler gemacht. Er hat seine eigene Leine gezeigt. Wer «Bruder» sagt und dann öffentlich hinrichtet, verliert seine Brüder.
+> 큐레이터가 실수했어요. 자기 목줄을 보여 줬죠. «형제»라고 부르다가 공개 처형하는 자는 형제를 잃어요.
+HELENE: Schreib das auf, Sweta. Für Jans Artikel. Als letzten Absatz vielleicht.
+> 그거 적어, 스베타. 얀 기사용으로. 어쩌면 마지막 단락으로.
+
+# 장면 7-2 — HELENE AM SEE
+HELENE: Ich bin mit Katrin gekommen. Mit dem Kurier. Mit zwei Taschen Papier. Und einem Brief von Kevin. Und Elkes Soljanka in einer Thermoskanne.
+> 카트린이랑 왔어. 인편으로. 종이 두 가방. 그리고 케빈 편지. 그리고 보온병에 엘케 솔랸카.
+JAN: Elke hat Soljanka nach Brandenburg geschickt?
+> 엘케가 브란덴부르크까지 솔랸카를 보냈어?
+HELENE: Elke sagt, Brandenburg hat keine gute Soljanka. Und sie hat recht.
+> 엘케 말로는 브란덴부르크엔 제대로 된 솔랸카가 없대. 그리고 맞는 말이야.
+KATRIN: Und ich habe deine zwölf Seiten gelesen. Gut. Sehr gut. Und mit sieben Stellen, die so nicht gehen.
+> 그리고 네 12쪽 읽었어. 좋아. 아주 좋아. 그리고 그대로는 안 되는 곳이 일곱 군데.
+JAN: Nur sieben?
+> 일곱 개뿐?
+KATRIN: Sieben. Drei davon sind Stellen, wo du über Lenz schreibst, als wäre er verurteilt. Zwei, wo du Thal nennst, ohne Beleg. Und zwei, wo du über dich selbst zu hart bist.
+> 일곱. 그중 셋은 렌츠가 유죄 판결받은 것처럼 쓴 곳. 둘은 증거 없이 탈을 언급한 곳. 그리고 둘은 너 자신한테 너무 가혹한 곳.
+JAN: Zu hart?
+> 너무 가혹하다고?
+KATRIN: «Ich habe einen unverzeihlichen Fehler gemacht.» Das ist kein Fakt. Das ist ein Urteil. Und Urteile fällen wir nicht. Auch nicht über uns selbst. Schreib: «Ich habe einen Fehler gemacht. Er hat mich enttarnt.»
+> «용서받을 수 없는 실수를 했다.» 그건 사실이 아니야. 판결이지. 그리고 우린 판결 안 내려. 우리 자신에 대해서도. 이렇게 써. «실수를 했다. 그 실수로 정체가 드러났다.»
+HELENE: Und lies Kevins Brief. Jetzt. Bevor du weiterschreibst.
+> 그리고 케빈 편지 읽어. 지금. 계속 쓰기 전에.
+JAN: … «Lieber Jan. Ick weeß, wie dit is, wenn die wissen, wo man wohnt. Man kann trotzdem schlafen. Irjendwann. Dennis will jetzt ooch 'ne Ausbildung. Dit is wejen dir. Kevin.»
+> … «얀에게. 그놈들이 어디 사는지 알 때 어떤지 알아요. 그래도 잘 수 있어요. 언젠가는. 데니스도 이제 직업 교육 받고 싶대요. 그건 얀 덕이에요. 케빈.»
+HELENE: Wegen dir. Nicht trotz dir.
+> 네 덕이래. 네 탓이 아니라.
+
+# 엔딩 — DER SPATZ
+OKAFOR: Herr Kowalczyk. Ihr Telefon. Das mit den drei Nummern. Es hat eine Nachricht bekommen. Von einer vierten Nummer.
+> 코발치크 씨. 휴대폰이요. 번호 세 개짜리. 메시지를 받았어요. 네 번째 번호에서.
+JAN: Das ist unmöglich. Es kann nur drei Nummern.
+> 그럴 리가 없어요. 번호 세 개만 되는데.
+OKAFOR: Es kann nur drei Nummern anrufen. Empfangen kann es alles. Eine verschlüsselte Nachricht. Signal. Ohne Namen. Nur ein Bild.
+> 거는 건 세 번호만이에요. 받는 건 다 돼요. 암호화된 메시지. 시그널. 이름 없이. 사진 하나.
+JAN: Zeig.
+> 보여 줘요.
+OKAFOR: Ein Spatz. Auf einer Stromleitung.
+> 참새. 전선 위에.
+JAN: … Spatz.
+> … 슈파츠.
+DANA: Kowalczyk. Ich habe die Nachricht auch gesehen. Okafor hat sie mir weitergeleitet. Wer ist Spatz?
+> 코발치크. 나도 그 메시지 봤어. 오카포르가 전달해 줬어. 슈파츠가 누구야?
+JAN: Ein Hinweisgeber. Seit Teil eins. Ich weiß nicht, wer. Ich habe nie gefragt. Und Spatz hat nie etwas Falsches geschrieben.
+> 제보자. 1부 때부터. 누군지 몰라. 한 번도 안 물었어. 그리고 슈파츠는 틀린 걸 한 번도 쓴 적 없어.
+DANA: Und woher hat Spatz diese Nummer? Die kennen drei Menschen. Und ich.
+> 그럼 슈파츠는 이 번호를 어디서 알았어? 아는 사람이 셋이야. 그리고 나.
+JAN: Ich weiß es nicht.
+> 몰라.
+OKAFOR: Unter dem Bild steht ein Satz.
+> 사진 아래 문장이 하나 있어요.
+JAN: Lies.
+> 읽어 줘요.
+OKAFOR: «Jetzt bist du so weit wie Marek damals. Aber du hast etwas, was er nicht hatte. Bleib, wo du bist. Und schreib.»
+> «이제 너는 그때의 마렉만큼 와 있어. 하지만 넌 그가 갖지 못한 걸 가졌어. 거기 있어. 그리고 써.»
+DANA: «Etwas, was er nicht hatte.» Was meint Spatz damit?
+> «그가 갖지 못한 것.» 슈파츠는 무슨 뜻으로 그 말을 했을까?
+JAN: Eine Redaktion. Eine Wirtin. Einen Kiez, der Türen unterschreibt. Und eine Polizistin, die Quittungen für Einkaufszettel schreibt.
+> 편집국. 선술집 주인. 문에 서명하는 동네. 그리고 장보기 목록에 영수증 써 주는 경찰.
+DANA: Und jemanden, der eine Nummer kennt, die nur vier Menschen kennen.
+> 그리고 네 사람만 아는 번호를 아는 누군가.
+JAN: Das macht mir mehr Angst als der Kurator.
+> 그게 큐레이터보다 더 무서워.
+DANA: Mir auch. Ich prüfe es. Heute Nacht.
+> 나도. 확인할게. 오늘 밤.
+OKAFOR: Herr Kowalczyk. Sie zittern.
+> 코발치크 씨. 떨고 계세요.
+JAN: Es ist kalt am See.
+> 호숫가가 추워서요.
+OKAFOR: Es sind zwölf Grad im Zimmer. Sie zittern nicht wegen der Kälte.
+> 방 안은 12도예요. 추워서 떠는 게 아니잖아요.
+JAN: Nein. Jemand, den ich nie gesehen habe, kennt meinen Namen, meinen Tisch, meinen toten Freund. Und schreibt mir, dass ich bleiben soll.
+> 아니에요. 한 번도 본 적 없는 누군가가 내 이름, 내 테이블, 내 죽은 친구를 알아요. 그리고 나한테 여기 있으라고 써요.
+OKAFOR: Dann bleiben Sie. Das sagt nicht nur Spatz. Das sage ich auch.
+> 그럼 여기 계세요. 슈파츠만 그러는 게 아니라. 저도 그래요.
+JAN: Helene. Die dritte Nummer. Mein Satz.
+> 헬레네. 세 번째 번호. 내 문장.
+HELENE: Ich höre.
+> 듣고 있어.
+JAN: «Ich bin noch Journalist. Ich habe Angst. Ich habe einen Reiher, eine Thermoskanne Soljanka und einen Brief von Kevin. Und morgen schreibe ich Seite dreizehn.»
+> «난 아직 기자다. 무섭다. 왜가리 한 마리, 보온병의 솔랸카, 케빈의 편지가 있다. 그리고 내일 13쪽을 쓴다.»
+HELENE: Seite dreizehn. Gut. Und Jan — Spatz hat recht. Du hast etwas, was Marek nicht hatte.
+> 13쪽. 좋아. 그리고 얀 — 슈파츠 말이 맞아. 넌 마렉이 갖지 못한 걸 가졌어.
+JAN: Was?
+> 뭘?
+HELENE: Zeit. Marek hatte drei Wochen. Du hast so lange, wie du brauchst.
+> 시간. 마렉은 3주였어. 넌 필요한 만큼 있어.
