@@ -1,0 +1,345 @@
+@part 1
+@ep 10
+@title Tempelhofer Feld
+@sub 템펠호프 들판 · 1월 둘째 주, 휴대폰 검사와 들판 위의 두 목소리
+@info 대사 150턴 · 난이도 B1 · 배경: 9화 직후(2027년 1월 6일)부터 사흘간, Gerichtstraße 61 관리인실, Spreewerk 편집국, 템펠호프 들판, 노이쾰른 Oderstraße
+@cast TOBI | 토비 레베르크 (37) · 관리인으로 잠입 중
+@cast MARCO | 마르코 하버란트 (35) · Spreeblick 오브젝트 매니저
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast LEON | 레온 피셔 (24) · 수습기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KÖHLER | 레나테 쾰러 (68) · 들판 보존 시민단체 «Feld bleibt Feld» 활동가
+@cast AHRENS | 필립 아렌스 박사 (39) · 개발 찬성 시민단체 «Wohnraum am Feld» 대변인
+@note ※ 템펠호프 들판(Tempelhofer Feld)은 2008년 문을 닫은 옛 공항 부지로, 300헥타르가 넘는 베를린 최대의 열린 공간입니다. 2014년 주민투표로 개발을 막는 법(ThF-Gesetz)이 생겼고, 그 뒤로도 가장자리 개발(Randbebauung)을 두고 논쟁이 계속되고 있습니다. 이 화의 두 시민단체와 그 후원 관계는 가상입니다.
+@note ※ 표현 초점: Volksentscheid · Randbebauung · Freifläche · Wohnungsnot · Bürgerinitiative · Spender · Ausgewogenheit — 토론 표현: Einerseits… andererseits… / Ich verstehe Ihr Argument, aber…
+@next 1부 11화 — «Das Vorkaufsrecht»(선매권) — 구청이 공공 매입권을 쓸 수 있었는데, 펀드는 늘 심사 마감 직전에 '회피 합의서'를 낸다. 마치 구청 일정을 미리 아는 것처럼.
+
+# 콜드 오픈 — DAS HANDY
+TOBI: Mein privates Handy? Wieso det denn?
+= Mein privates Handy? Wieso das denn?
+> 내 개인 폰? 그건 왜?
+MARCO: Weil die Mail nur an dich ging. Und weil Herr Kasper Fragen stellt. Ich will ihm Antworten geben.
+> 그 메일이 토비한테만 갔으니까요. 그리고 카스퍼 씨가 질문을 해요. 난 그 사람한테 답을 줘야 하고요.
+TOBI: Hier. Kiek rin. Ick hab nischt zu verstecken.
+= Hier. Guck rein. Ich habe nichts zu verstecken.
+> 여기. 봐. 숨길 거 없어.
+MARCO: Fotos… Eine Hochzeit. Noch eine Hochzeit. Ein Hund.
+> 사진… 결혼식. 또 결혼식. 개 한 마리.
+TOBI: Der Hund von meiner Mutter. Bruno. Der is dreizehn.
+= Der Hund von meiner Mutter. Bruno. Der ist dreizehn.
+> 우리 어머니 개. 브루노. 열세 살이야.
+MARCO: WhatsApp… Deine Mutter. Ein Fußballverein. Eine Elke.
+> 왓츠앱… 어머니. 축구 클럽. 엘케라는 사람.
+TOBI: Meine Stammkneipe. Die schreibt mir, wenn's Eisbein jibt.
+= Meine Stammkneipe. Die schreibt mir, wenn es Eisbein gibt.
+> 내 단골 선술집. 아이스바인 나오는 날이면 문자 보내 줘.
+MARCO: Hm. Nichts von der Mail.
+> 흠. 메일 관련된 건 없네.
+TOBI: Sag ick doch.
+= Sage ich doch.
+> 내가 그랬잖아.
+MARCO: Aber wie haben die Mieter es dann erfahren?
+> 그럼 세입자들은 그걸 어떻게 알았죠?
+TOBI: Ick hab die Mail ausjedruckt. Für die Fachfirma. Die lag im Hausmeisterraum. Und der Raum is nie abjeschlossen.
+= Ich habe die Mail ausgedruckt. Für die Fachfirma. Die lag im Hausmeisterraum. Und der Raum ist nie abgeschlossen.
+> 메일을 출력했어. 전문 업체 주려고. 그게 관리인실에 놓여 있었고. 그 방은 늘 안 잠겨 있잖아.
+MARCO: Nie abgeschlossen? Warum nicht?
+> 늘 안 잠겨 있다고요? 왜요?
+TOBI: Weil da der Schlüssel für die Waschküche hängt. Paula holt den jeden Tag. Und die andern ooch.
+= Weil da der Schlüssel für die Waschküche hängt. Paula holt den jeden Tag. Und die anderen auch.
+> 거기 세탁실 열쇠가 걸려 있으니까. 파울라가 매일 가져가. 다른 사람들도 그렇고.
+
+# 장면 1 — EIN SAUBERES HANDY
+MARCO: Okay. Ab jetzt wird der Raum abgeschlossen. Und Ausdrucke gibt es nicht mehr. Verstanden?
+> 알았어요. 이제부터 그 방은 잠가요. 출력도 더는 하지 말고요. 알겠죠?
+TOBI: Verstanden, Chef.
+= Verstanden, Chef.
+> 알겠어, 대장.
+MARCO: Und, Tobi: Ich mag dich. Wirklich. Aber Herr Kasper mag niemanden. Pass auf.
+> 그리고 토비, 난 토비가 좋아요. 진심으로. 근데 카스퍼 씨는 아무도 안 좋아해요. 조심해요.
+TOBI: Mach ick.
+= Mache ich.
+> 그럴게.
+JAN: Tobi? Zwanzig Uhr. Wie war der Tag?
+> 토비? 여덟 시야. 오늘 어땠어?
+TOBI: Marco wollte mein Handy sehen. Mein privates.
+= Marco wollte mein Handy sehen. Mein privates.
+> 마르코가 내 휴대폰을 보자고 했어. 개인 폰.
+JAN: Und?
+> 그래서?
+TOBI: Ick hab ihm det jejeben. Det saubere. Det von Sweta.
+= Ich habe ihm das gegeben. Das saubere. Das von Sweta.
+> 줬지. 깨끗한 걸로. 스베타가 준 거.
+SWETA: Ich habe es dir gesagt, Tobi. Bei verdeckter Recherche immer zwei Telefone. Das habe ich in Moskau gelernt.
+> 내가 말했잖아, 토비. 위장 취재할 땐 늘 전화기 두 대. 모스크바에서 배운 거야.
+TOBI: Hochzeitsfotos, Bruno, Elke. Det war allet. Marco hat nischt jefunden.
+= Hochzeitsfotos, Bruno, Elke. Das war alles. Marco hat nichts gefunden.
+> 결혼식 사진, 브루노, 엘케. 그게 다였어. 마르코는 아무것도 못 찾았어.
+JAN: Und das andere Handy?
+> 그럼 다른 휴대폰은?
+TOBI: Liegt bei meiner Mutter in Marzahn. Unter Brunos Körbchen.
+= Liegt bei meiner Mutter in Marzahn. Unter Brunos Körbchen.
+> 마르찬 우리 어머니 집에 있어. 브루노 바구니 밑에.
+MIRA: Der sicherste Ort in Berlin.
+> 베를린에서 제일 안전한 곳이네.
+JAN: Tobi, Helene sagt: Wenn sie dich noch einmal kontrollieren, brichst du ab.
+> 토비, 헬레네가 그러는데, 한 번만 더 검사받으면 그만두래.
+TOBI: Noch zwee Wochen. Dann hab ick allet.
+= Noch zwei Wochen. Dann habe ich alles.
+> 2주만 더. 그럼 다 모을 수 있어.
+JAN: Wir reden morgen. Jetzt etwas anderes. Mira hat etwas gefunden.
+> 내일 얘기하자. 지금은 다른 거. 미라가 뭘 찾았어.
+MIRA: Ich habe die siebenunddreißig Firmen noch mal durchsucht. Zwei passen nicht ins Muster.
+> 회사 서른일곱 개를 다시 뒤져 봤어. 두 개가 패턴에 안 맞아.
+LEON: Wieso nicht?
+> 왜요?
+MIRA: Die anderen heißen wie Straßen. «GS» für Gerichtstraße, «SK» für Schillerkiez. Aber diese zwei heißen «TF 3» und «TF 7».
+> 다른 것들은 거리 이름을 땄어. «GS»는 게리히트슈트라세, «SK»는 실러키츠. 그런데 이 두 개는 «TF 3»랑 «TF 7»이야.
+SWETA: TF. Tempelhofer Feld.
+> TF. 템펠호프 들판.
+MIRA: Genau. Und sie besitzen keine Wohnhäuser. Sie besitzen Grundstücke. Direkt am Rand vom Feld. Eins in Neukölln, eins in Tempelhof.
+> 맞아. 그리고 이 회사들은 주택이 아니라 땅을 갖고 있어. 들판 바로 가장자리에. 하나는 노이쾰른, 하나는 템펠호프.
+JAN: Was ist auf den Grundstücken?
+> 그 땅엔 뭐가 있는데?
+MIRA: Ein alter Parkplatz. Und eine Kleingartenkolonie.
+> 낡은 주차장 하나. 그리고 텃밭 단지 하나.
+LEON: Warum kauft ein Wohnungsfonds einen Parkplatz?
+> 주택 펀드가 왜 주차장을 사요?
+HELENE: Weil er auf etwas wartet. Ein Parkplatz am Rand vom Feld ist heute wenig wert. Wenn man dort bauen darf, ist er ein Vermögen.
+> 뭔가를 기다리고 있으니까요. 들판 가장자리 주차장은 지금은 별 가치가 없어요. 하지만 거기에 건물을 지을 수 있게 되면 큰 재산이 되죠.
+JAN: Morgen fahren wir aufs Feld.
+> 내일 들판에 가 보자.
+LEON: Im Januar? Ist es da nicht eiskalt?
+> 1월에요? 거기 엄청 춥지 않아요?
+JAN: Eiskalt und windig. Zieh zwei Mützen an.
+> 엄청 춥고 바람도 불어. 모자 두 개 써.
+
+# 장면 2 — AUF DEM FELD
+LEON: Wow. Das ist ja riesig.
+> 와. 엄청 넓네요.
+JAN: Dreihundert Hektar. Früher ein Flughafen. Seit 2010 ein Park. Für alle.
+> 300헥타르. 예전엔 공항이었어. 2010년부터 공원이 됐지. 모두를 위한.
+MIRA: Hier sind die Flugzeuge gelandet. Auf dieser Bahn. Jetzt fahren hier Kinder Fahrrad.
+> 여기에 비행기들이 내렸어. 이 활주로에. 지금은 아이들이 자전거를 타고.
+LEON: Und die Leute mit den Drachen? Bei minus drei Grad?
+> 저 연 날리는 사람들은요? 영하 3도에?
+JAN: Kitesurfer. Berliner sind verrückt. Und das Feld gehört ihnen.
+> 카이트서퍼야. 베를린 사람들은 미쳤어. 그리고 이 들판은 그 사람들 거야.
+LEON: Wem gehört es offiziell?
+> 공식적으로는 누구 거예요?
+MIRA: Dem Land Berlin. Und 2014 haben die Berliner abgestimmt: Hier wird nicht gebaut. Volksentscheid.
+> 베를린 주. 그리고 2014년에 베를린 시민들이 투표로 정했어. 여기엔 아무것도 짓지 않는다. 주민투표.
+LEON: Und das gilt noch?
+> 그게 아직 유효해요?
+JAN: Es ist ein Gesetz. Aber ein Gesetz kann man ändern. Das Parlament kann es ändern.
+> 법이니까. 하지만 법은 바꿀 수 있어. 의회가 바꿀 수 있지.
+MIRA: In den letzten Jahren wollten einige Politiker den Rand bebauen. Wohnungen. Es gab einen Ideenwettbewerb.
+> 지난 몇 년 동안 일부 정치인들이 가장자리를 개발하고 싶어 했어. 주택으로. 아이디어 공모전도 있었고.
+LEON: Und jetzt? Nach der Wahl im September?
+> 그럼 지금은요? 9월 선거 뒤에는요?
+JAN: Die Linke hat gewonnen. Sie ist gegen eine Bebauung. Aber in einer Koalition muss man Kompromisse machen.
+> 좌파당이 이겼어. 개발에 반대하지. 하지만 연정에서는 타협을 해야 하니까.
+MIRA: Deshalb ist der Rand gerade so spannend. Für Investoren.
+> 그래서 지금 가장자리가 그렇게 흥미로운 거야. 투자자들한테는.
+LEON: Da hinten. Ist das der Parkplatz?
+> 저기 뒤에. 저게 그 주차장이에요?
+MIRA: Ja. «TF 3». Hinter dem Zaun. Zweitausend Quadratmeter Asphalt.
+> 응. «TF 3». 울타리 뒤에. 2천 제곱미터 아스팔트.
+JAN: Und daneben die Kleingärten?
+> 그리고 그 옆이 텃밭이야?
+MIRA: Nein, die sind auf der anderen Seite. In Tempelhof. «TF 7».
+> 아니, 그건 반대편이야. 템펠호프 쪽. «TF 7».
+LEON: Jan, darf ich ein Foto machen? Für mich?
+> 얀, 사진 찍어도 돼요? 제가 간직하려고요.
+JAN: Mach. Das Feld darf jeder fotografieren. Es gehört ja allen.
+> 찍어. 들판은 누구나 찍어도 돼. 모두의 거니까.
+LEON: In Stuttgart gibt es so etwas nicht. Bei uns wird jeder freie Platz bebaut.
+> 슈투트가르트엔 이런 데가 없어요. 저희 동네는 빈 땅마다 다 건물이 들어서요.
+JAN: Deshalb kämpfen die Berliner so hart dafür.
+> 그래서 베를린 사람들이 이렇게 열심히 싸우는 거야.
+MIRA: Wir sind gleich mit Frau Köhler verabredet. Am alten Tower.
+> 곧 쾰러 씨랑 만나기로 했어. 옛 관제탑 앞에서.
+LEON: Und morgen mit der anderen Seite?
+> 그럼 내일은 반대편 사람이랑요?
+JAN: Morgen mit der anderen Seite. Wir hören beiden zu. Gleich lang, gleich fair.
+> 내일은 반대편이랑. 양쪽 다 듣는 거야. 똑같이 길게, 똑같이 공정하게.
+
+# 장면 3 — «FELD BLEIBT FELD»
+KÖHLER: Sie sind von Spreewerk? Schön. Ich lese euch. Manchmal ärgere ich mich, aber ich lese euch.
+> 슈프레베르크에서 오셨죠? 반가워요. 기사 읽어요. 가끔 화도 나지만 읽긴 읽어요.
+JAN: Das ist ein gutes Zeichen. Danke, dass Sie Zeit haben, Frau Köhler.
+> 좋은 신호네요. 시간 내 주셔서 감사합니다, 쾰러 씨.
+KÖHLER: Ich bin Rentnerin. Ich habe immer Zeit. Und für das Feld sowieso.
+> 난 연금 생활자예요. 시간은 늘 있어요. 들판을 위해서라면 더더욱.
+LEON: Ist das der alte Tower? Vom Flughafen?
+> 저게 옛 관제탑이에요? 공항 거?
+KÖHLER: Ja. Und wissen Sie, was hier 1948 passiert ist?
+> 네. 그리고 1948년에 여기서 무슨 일이 있었는지 알아요?
+LEON: Die Luftbrücke? Die Rosinenbomber?
+> 베를린 공수 작전이요? 건포도 폭격기?
+KÖHLER: Genau. Westberlin war blockiert. Und hier sind jeden Tag hunderte Flugzeuge gelandet. Mit Kohle, Mehl, Milch.
+> 맞아요. 서베를린이 봉쇄됐었죠. 그리고 여기에 매일 수백 대의 비행기가 내렸어요. 석탄, 밀가루, 우유를 싣고.
+JAN: Und Rosinen für die Kinder.
+> 그리고 아이들 줄 건포도도.
+KÖHLER: Meine Mutter war eins von diesen Kindern. Sie hat am Zaun gestanden und gewartet. Dieses Feld hat Berlin schon einmal gerettet.
+> 우리 어머니가 그 아이들 중 하나였어요. 울타리 앞에 서서 기다렸대요. 이 들판은 이미 한 번 베를린을 구했어요.
+LEON: Das wusste ich nicht. Also, die Geschichte schon. Aber nicht so… persönlich.
+> 그건 몰랐어요. 그러니까, 역사는 알았는데. 이렇게… 개인적으로는 아니었어요.
+KÖHLER: In Berlin ist jede Geschichte persönlich, junger Mann.
+> 베를린에서는 모든 역사가 개인적이에요, 젊은이.
+LEON: Seit wann engagieren Sie sich?
+> 언제부터 활동하셨어요?
+KÖHLER: Seit 2013. Ich habe für den Volksentscheid Unterschriften gesammelt. Hier, bei Wind und Regen.
+> 2013년부터요. 주민투표 서명을 받았어요. 여기서, 비바람 맞으면서.
+JAN: Warum ist Ihnen das Feld so wichtig?
+> 들판이 왜 그렇게 중요하세요?
+KÖHLER: Schauen Sie sich um. Hier ist Himmel. In Neukölln gibt es sonst keinen Himmel. Nur Hinterhöfe.
+> 둘러보세요. 여기엔 하늘이 있어요. 노이쾰른에는 이것 말고 하늘이 없어요. 안뜰뿐이죠.
+LEON: Aber Berlin braucht Wohnungen. Das sagen viele.
+> 그래도 베를린엔 주택이 필요하잖아요. 많은 사람들이 그렇게 말해요.
+KÖHLER: Natürlich braucht Berlin Wohnungen. Bezahlbare Wohnungen. Aber hier werden keine bezahlbaren Wohnungen gebaut. Hier werden Luxuswohnungen mit Blick aufs Feld gebaut.
+> 물론 베를린엔 주택이 필요하죠. 감당할 수 있는 주택이요. 그런데 여기엔 그런 집이 안 지어질 거예요. 들판 전망이 딸린 고급 주택이 지어지겠죠.
+JAN: Woher wissen Sie das?
+> 그걸 어떻게 아세요?
+KÖHLER: Weil es überall so ist. Am Mauerpark. An der Spree. Erst heißt es «Wohnungen für alle». Dann kostet der Quadratmeter zwanzig Euro.
+> 어디서나 그러니까요. 마우어파크에서도, 슈프레강 변에서도. 처음엔 «모두를 위한 주택»이라고 하죠. 그러다 제곱미터당 20유로가 돼요.
+LEON: Gibt es Beweise dafür?
+> 그에 대한 증거가 있어요?
+KÖHLER: Junger Mann, Sie sind gut. Sie fragen nach Beweisen. Ich habe keine Beweise für die Zukunft. Nur Erfahrung.
+> 젊은이, 잘하네요. 증거를 묻다니. 미래에 대한 증거는 없어요. 경험만 있을 뿐이죠.
+JAN: Kennen Sie die Grundstücke am Rand? Den Parkplatz an der Oderstraße?
+> 가장자리 땅들 아세요? 오더슈트라세의 주차장이요?
+KÖHLER: Der wurde letztes Jahr verkauft. Niemand weiß, an wen. Wir haben gefragt. Keine Antwort.
+> 그건 작년에 팔렸어요. 누구한테 팔렸는지 아무도 몰라요. 물어봤는데 답이 없었어요.
+MIRA: Wir wissen es. Noch nicht öffentlich. Aber bald.
+> 저희는 알아요. 아직 공개는 못 하지만 곧이요.
+KÖHLER: Dann schreiben Sie es. Bitte. Und schreiben Sie auch, dass wir nicht gegen Wohnungen sind. Wir sind gegen Spekulation.
+> 그럼 써 주세요. 부탁이에요. 그리고 우리가 주택에 반대하는 게 아니라는 것도 써 주세요. 우린 투기에 반대하는 거예요.
+JAN: Darf ich Sie mit Namen zitieren?
+> 실명으로 인용해도 될까요?
+KÖHLER: Mit Namen, mit Foto, mit Adresse, wenn Sie wollen. Ich habe keine Angst mehr. Ich bin achtundsechzig.
+> 이름, 사진, 원하면 주소까지 다 써요. 난 이제 무서운 게 없어요. 예순여덟이니까.
+JAN: Die Adresse lassen wir weg.
+> 주소는 빼겠습니다.
+KÖHLER: Schade. Ich hätte gern Besuch.
+> 아쉽네요. 손님이 오면 좋을 텐데.
+
+# 장면 4 — «WOHNRAUM AM FELD»
+AHRENS: Guten Tag. Philipp Ahrens. Kommen Sie rein, es ist warm hier. Meine Tochter schläft, bitte etwas leise.
+> 안녕하세요. 필립 아렌스입니다. 들어오세요, 안은 따뜻해요. 딸이 자고 있어서 조금만 조용히 부탁드려요.
+JAN: Danke, Herr Dr. Ahrens. Jan Kowalczyk, und das ist mein Kollege Leon Fischer.
+> 감사합니다, 아렌스 박사님. 얀 코발치크고요, 이쪽은 동료 레온 피셔예요.
+AHRENS: Sagen Sie einfach Ahrens. Den Doktor brauche ich nur im Labor.
+> 그냥 아렌스라고 부르세요. 박사 칭호는 연구실에서나 필요하죠.
+LEON: Sie wohnen hier in der Oderstraße?
+> 여기 오더슈트라세에 사세요?
+AHRENS: Zu viert in zwei Zimmern. Meine Frau, zwei Kinder, ich. Wir suchen seit drei Jahren eine größere Wohnung.
+> 방 두 개에 네 식구요. 아내, 아이 둘, 그리고 저. 3년째 더 큰 집을 찾고 있어요.
+JAN: Und deshalb engagieren Sie sich für die Bebauung?
+> 그래서 개발 운동에 참여하시는 거예요?
+AHRENS: Deshalb. Ich bin Biologe. Ich liebe Natur. Aber ich liebe auch meine Kinder. Und die brauchen ein Kinderzimmer.
+> 그래서요. 전 생물학자예요. 자연을 사랑하죠. 하지만 제 아이들도 사랑해요. 그 애들한텐 아이 방이 필요하고요.
+LEON: Frau Köhler sagt, am Feld werden nur Luxuswohnungen gebaut.
+> 쾰러 씨는 들판에는 고급 주택만 지어질 거라고 하던데요.
+AHRENS: Frau Köhler hat eine schöne Altbauwohnung mit alter Miete. Das sage ich ohne Vorwurf. Aber sie hat ihre Wohnung schon.
+> 쾰러 씨는 옛날 월세로 좋은 옛 건물 집에 사시죠. 비난하려는 게 아니에요. 그래도 그분은 이미 집이 있잖아요.
+JAN: Das ist ein Argument.
+> 그것도 하나의 논리네요.
+AHRENS: Wir fordern: Ein Rand. Nicht das ganze Feld. Nur zehn Prozent. Und die Hälfte Sozialwohnungen. Das steht in unserem Papier.
+> 저희 요구는 이거예요. 가장자리만. 들판 전체가 아니라. 딱 10퍼센트. 그리고 그 절반은 사회주택. 저희 문서에 그렇게 적혀 있어요.
+LEON: Und wer garantiert die Sozialwohnungen?
+> 그럼 사회주택은 누가 보장해요?
+AHRENS: Die Politik. Ein Gesetz. Das muss man fordern.
+> 정치가요. 법으로요. 그걸 요구해야죠.
+JAN: Herr Ahrens, wer finanziert Ihre Initiative?
+> 아렌스 씨, 이 시민단체는 누가 후원해요?
+AHRENS: Mitgliedsbeiträge. Spenden. Wir sind ein eingetragener Verein. Alles ist transparent.
+> 회비. 기부금. 저희는 등록된 사단법인이에요. 다 투명해요.
+JAN: Auch große Spenden? Von Firmen?
+> 큰 기부금도요? 기업한테서요?
+AHRENS: Einige. Von Bauunternehmen, von einer Genossenschaft, von Projektentwicklern. Das ist legal. Die wollen auch bauen.
+> 몇 건 있어요. 건설사, 협동조합, 개발업체에서요. 그건 합법이에요. 그 사람들도 짓고 싶어 하니까요.
+LEON: Kennen Sie die Spender persönlich?
+> 후원자들을 개인적으로 아세요?
+AHRENS: Nicht alle. Ich bin Sprecher, nicht Kassenwart. Aber im Jahresbericht stehen alle Spenden über tausend Euro.
+> 다는 몰라요. 전 대변인이지 회계 담당이 아니니까요. 그래도 연례 보고서에 천 유로 넘는 기부는 다 나와요.
+JAN: Dürfen wir den Bericht sehen?
+> 그 보고서 볼 수 있을까요?
+AHRENS: Er ist auf unserer Website. Ich habe nichts zu verstecken. Ehrlich gesagt: Ich hoffe, Sie schreiben fair über uns.
+> 저희 웹사이트에 있어요. 숨길 게 없어요. 솔직히 말하면, 저희에 대해서도 공정하게 써 주셨으면 해요.
+JAN: Das verspreche ich Ihnen. Sie und Frau Köhler bekommen gleich viel Platz.
+> 약속드릴게요. 아렌스 씨도 쾰러 씨도 똑같은 분량을 받으실 거예요.
+AHRENS: Das ist mehr, als ich erwartet habe. Danke.
+> 기대한 것보다 낫네요. 감사합니다.
+AHRENS: Oh, Moment. Meine Tochter ist wach. Lotte, sag Hallo.
+> 아, 잠깐만요. 딸이 깼네요. 로테, 인사해.
+LEON: Hallo, Lotte. Wie alt bist du?
+> 안녕, 로테. 몇 살이야?
+AHRENS: Vier. Sie schläft in unserem Schlafzimmer. Ihr Bruder im Wohnzimmer. Das ist unsere Wohnungsnot.
+> 네 살이에요. 우리 침실에서 자요. 오빠는 거실에서 자고요. 그게 우리의 주택난이에요.
+JAN: Danke, dass Sie uns das gezeigt haben, Herr Ahrens.
+> 그걸 보여 주셔서 고마워요, 아렌스 씨.
+
+# 장면 5 — WER HAT RECHT?
+LEON: Ich bin verwirrt. Ich finde, beide haben recht.
+> 헷갈려요. 둘 다 맞는 말 같아요.
+HELENE: Willkommen im Journalismus, Herr Fischer.
+> 언론계에 온 걸 환영해요, 피셔 씨.
+LEON: Aber was schreiben wir dann? Wer ist der Gute?
+> 그럼 우린 뭘 써요? 누가 좋은 편이에요?
+HELENE: Wir schreiben nicht über Gute und Böse. Wir schreiben, was ist. Die Leser entscheiden selbst.
+> 우린 선악에 대해 쓰는 게 아니에요. 있는 그대로를 쓰죠. 판단은 독자가 해요.
+JAN: Frau Köhler und Herr Ahrens sind beide ehrlich. Das ist nicht unsere Geschichte.
+> 쾰러 씨도 아렌스 씨도 둘 다 정직해요. 그건 우리 기삿거리가 아니에요.
+SWETA: Unsere Geschichte ist die Frage: Wer benutzt die ehrlichen Leute?
+> 우리 기삿거리는 이 질문이야. 누가 그 정직한 사람들을 이용하고 있나?
+LEON: Benutzt? Wie meinst du das?
+> 이용한다고요? 무슨 뜻이에요?
+SWETA: Wenn ein Fonds Grundstücke am Feld kauft und gleichzeitig eine Bürgerinitiative für die Bebauung bezahlt, dann ist die Initiative nicht mehr nur eine Initiative.
+> 펀드가 들판 가장자리 땅을 사면서 동시에 개발을 주장하는 시민단체에 돈을 댄다면, 그 단체는 더 이상 그냥 시민단체가 아니게 되지.
+HELENE: Dann ist sie ein Werkzeug. Ohne es zu wissen.
+> 그럼 그 단체는 도구가 되는 거예요. 자기도 모르는 사이에.
+LEON: Aber Herr Ahrens wusste es nicht. Ich glaube ihm.
+> 그런데 아렌스 씨는 몰랐어요. 전 그분 말을 믿어요.
+JAN: Ich glaube ihm auch. Deshalb müssen wir sehr vorsichtig schreiben. Er ist kein Täter.
+> 나도 믿어. 그래서 아주 조심해서 써야 해. 그 사람은 가해자가 아니야.
+MIRA: Ich habe den Jahresbericht. «Wohnraum am Feld e.V., Spenden über tausend Euro.» Zwölf Namen.
+> 연례 보고서 찾았어. «주택은 들판에 사단법인, 천 유로 이상 기부.» 이름이 열두 개.
+HELENE: Lies vor.
+> 읽어 봐요.
+MIRA: Zwei Baugenossenschaften. Drei Bauunternehmen. Ein Architekturbüro. Ein Verband…
+> 건설 협동조합 두 곳. 건설사 세 곳. 건축 사무소 하나. 협회 하나…
+JAN: Welcher Verband?
+> 어떤 협회?
+MIRA: «Bündnis für privates Wohneigentum e.V.» Dreißigtausend Euro.
+> «민간 주택 소유 연합(사단법인)». 3만 유로.
+SWETA: Der Kunde von Thal & Partner. Aus dem Lobbyregister.
+> 탈 & 파트너의 고객이네. 로비 등록부에 있던.
+MIRA: Und es gibt noch einen Namen. Der größte Spender von allen.
+> 그리고 이름이 하나 더 있어. 모든 후원자 중에 제일 큰 손.
+
+# 엔딩 — DER GRÖSSTE SPENDER
+JAN: Wie viel?
+> 얼마?
+MIRA: Fünfundachtzigtausend Euro. In einem Jahr.
+> 8만 5천 유로. 1년 동안.
+LEON: Fünfundachtzigtausend für eine Bürgerinitiative?
+> 시민단체 하나에 8만 5천 유로요?
+MIRA: Davon bezahlen sie Plakate, Flyer, eine Website, Anzeigen bei Instagram. Und eine Agentur für Kampagnen.
+> 그걸로 포스터, 전단지, 웹사이트, 인스타그램 광고를 하는 거지. 그리고 캠페인 대행사까지.
+HELENE: Und wer ist der Spender?
+> 그럼 후원자가 누구예요?
+MIRA: «TF Projektentwicklung GmbH, Berlin.»
+> «TF 프로젝트 개발 유한회사, 베를린.»
+SWETA: TF. Schon wieder.
+> TF. 또야.
+MIRA: Ich habe das Handelsregister geprüft. Die TF Projektentwicklung gehört zu hundert Prozent dem Fonds Nordlicht Wohnen.
+> 상업 등기를 확인했어. TF 프로젝트 개발은 100퍼센트 노르트리히트 보넨 펀드 소유야.
+JAN: Also bezahlt der Fonds, der die Grundstücke am Rand gekauft hat, die Kampagne für die Bebauung am Rand.
+> 그러니까 가장자리 땅을 산 펀드가 가장자리 개발 캠페인에 돈을 대고 있는 거네.
+LEON: Und Herr Ahrens weiß es nicht.
+> 그리고 아렌스 씨는 그걸 모르고요.
+JAN: Noch nicht. Morgen rufe ich ihn an. Bevor wir eine Zeile schreiben.
+> 아직은. 내일 전화할게. 한 줄이라도 쓰기 전에.
