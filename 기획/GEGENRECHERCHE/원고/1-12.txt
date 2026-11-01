@@ -1,0 +1,360 @@
+@part 1
+@ep 12
+@title Wer im Amt redet
+@sub 구청에서 누가 말하나 · 1월 마지막 주, 세 개의 날짜와 봉인된 봉투
+@info 대사 150턴 · 난이도 B1+ · 배경: 11화 다음 날부터 일주일, 선술집 «Zum letzten Groschen»(아침 7시), Spreewerk 편집국, Gerichtstraße 61
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast LINDEMANN | 페트라 린데만 (57) · 구청 도시개발 담당 의원
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast LEON | 레온 피셔 (24) · 수습기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast TOBI | 토비 레베르크 (37) · 관리인으로 잠입 중
+@cast MARCO | 마르코 하버란트 (35) · Spreeblick 오브젝트 매니저
+@cast GISELA | 기젤라 호프만 (78) · 세입자
+@cast OLSZEWSKI | 타데우시 올셰프스키 (80) · 세입자
+@cast KRÜGER | 자비네 크뤼거 (41) · 세입자
+@cast DEMIR | 외머 데미르 (55) · 키오스크 주인
+@cast BRENNER | 홀거 브레너 (52) · 구청 주택과 팀장
+@note ※ '카나리아 함정(Kanarienvogel-Falle)': 의심 가는 사람마다 조금씩 다른 정보를 주고, 그중 어떤 정보가 밖으로 새는지 보고 누설자를 찾는 방법입니다. 이 화에서 함정을 놓는 사람은 구청 의원 자신이고, 기자들은 결과를 관찰만 합니다. 언론이 수사기관이 되어서는 안 된다는 경계가 이 화의 쟁점입니다.
+@note ※ 표현 초점: Maulwurf · Falle · Dienstgeheimnis · Vorteilsannahme · Interessenkonflikt · versiegelt · Beisitzer · Vereinsregister — 베를린 말: Jetz ham wa ihn.
+@next 1부 13화 — «Einstweilige Verfügung»(가처분) — 보도 직전, 펀드 측 대형 로펌이 보도 금지 가처분을 신청한다. 토비의 위장이 새어 나가 관리회사가 그를 고소한다. 팀이 흔들린다.
+
+# 콜드 오픈 — SIEBEN UHR IM GROSCHEN
+ELKE: Jan, da sitzt 'ne Dame im Mantel. Seit halb sieben. Die trinkt Tee. In meiner Kneipe!
+= Jan, da sitzt eine Dame im Mantel. Seit halb sieben. Die trinkt Tee. In meiner Kneipe!
+> 얀, 저기 외투 입은 부인이 앉아 있어. 여섯 시 반부터. 차를 마셔. 우리 선술집에서!
+JAN: Frau Lindemann? Sie hier?
+> 린데만 의원님? 여기 웬일이세요?
+LINDEMANN: Ich wollte Sie nicht im Rathaus treffen. Und nicht in Ihrer Redaktion. Ihre Wirtin hat mir gesagt, Sie kommen jeden Morgen.
+> 구청에서 만나고 싶지 않았어요. 편집국에서도요. 주인분이 매일 아침 오신다고 하더라고요.
+ELKE: Ick hab jar nischt jesagt! Die hat jefragt, und ick hab jenickt.
+= Ich habe gar nichts gesagt! Die hat gefragt, und ich habe genickt.
+> 난 아무 말도 안 했어! 저분이 묻길래 그냥 고개만 끄덕였지.
+JAN: Kaffee, Elke. Bitte. Und ein bisschen Ruhe.
+> 커피 줘, 엘케. 부탁해. 그리고 조금만 조용히.
+ELKE: Ruhe kost' extra.
+= Ruhe kostet extra.
+> 조용히는 따로 돈 받아.
+LINDEMANN: Ich habe nicht geschlafen. Fünf Akten sind weg. Aus meinem Archiv.
+> 잠을 못 잤어요. 서류 다섯 개가 없어졌어요. 우리 기록 보관실에서요.
+JAN: Wer hat einen Schlüssel zum Archiv?
+> 기록 보관실 열쇠는 누가 갖고 있어요?
+LINDEMANN: Zwölf Personen. Das hilft nicht.
+> 열두 명이요. 그걸로는 소용없어요.
+JAN: Und wer kennt die Termine der Besprechungen zum Vorkaufsrecht?
+> 그럼 선매권 회의 일정을 아는 사람은요?
+LINDEMANN: Drei. Ich, Herr Brenner, Frau Aktaş. Ich weiß, was Sie denken. Ich denke es auch.
+> 세 명이요. 저, 브레너 씨, 악타쉬 씨. 무슨 생각하시는지 알아요. 저도 같은 생각이에요.
+JAN: Frau Lindemann, warum erzählen Sie das ausgerechnet einem Journalisten?
+> 린데만 의원님, 왜 하필 기자한테 이런 얘기를 하세요?
+LINDEMANN: Weil Sie es zuerst gesehen haben. Und weil ich nicht weiß, wem ich in meinem eigenen Haus noch trauen kann.
+> 당신이 먼저 봤으니까요. 그리고 제 집안에서 누굴 더 믿어야 할지 모르겠으니까요.
+
+# 장면 1 — DIE KANARIENVOGEL-FALLE
+JAN: Sie will etwas tun. Sie fragt, ob wir helfen.
+> 그분이 뭔가 하고 싶어 해요. 우리가 도울 수 있는지 묻더라고요.
+HELENE: Helfen? Wir sind Journalisten, Jan. Keine Detektive für Behörden.
+> 돕는다고요? 우린 기자예요, 얀. 관청을 위한 탐정이 아니라.
+JAN: Ich weiß. Hör mir trotzdem zu. Es gibt eine alte Methode. Die Kanarienvogel-Falle.
+> 알아요. 그래도 들어 봐요. 오래된 방법이 있어요. 카나리아 함정.
+LEON: Kanarienvogel? Wie im Bergwerk?
+> 카나리아요? 광산에서처럼요?
+SWETA: Nein, wie im Roman. Man gibt jedem Verdächtigen eine etwas andere Information. Dann schaut man, welche Version draußen auftaucht.
+> 아니, 소설에서처럼. 용의자마다 조금씩 다른 정보를 주는 거야. 그리고 어떤 버전이 밖에서 나타나는지 보는 거지.
+LEON: Und wer die Version weitergegeben hat, ist der Maulwurf.
+> 그리고 그 버전을 넘긴 사람이 첩자고요.
+SWETA: Genau. In Moskau haben Redaktionen das mit eigenen Leuten gemacht. Leider oft mit Erfolg.
+> 바로 그거야. 모스크바에선 편집국들이 자기 사람들한테 그걸 썼어. 안타깝게도 성공하는 경우가 많았지.
+HELENE: Und wo tauchen die Informationen bei uns auf?
+> 그럼 우리 경우엔 정보가 어디서 나타나요?
+JAN: Bei Spreeblick. Und wir haben jemanden bei Spreeblick.
+> 슈프레블릭에서요. 그리고 우린 슈프레블릭 안에 사람이 있죠.
+MIRA: Tobi.
+> 토비.
+JAN: Tobi hört, was Marco sagt. Wenn Marco von einem bestimmten Termin redet, wissen wir, woher er ihn hat.
+> 토비는 마르코가 하는 말을 들어요. 마르코가 어떤 특정한 날짜를 얘기하면, 그게 어디서 나왔는지 알 수 있죠.
+KATRIN: Moment. Wer stellt die Falle? Wer erfindet die falschen Termine?
+> 잠깐. 함정은 누가 놓는데? 가짜 날짜는 누가 지어내고?
+JAN: Frau Lindemann. Es ist ihre Behörde. Sie darf ihren Mitarbeitern Termine nennen. Auch falsche, für eine interne Prüfung.
+> 린데만 의원님이요. 그분 관청이잖아요. 자기 직원들한테 날짜를 알려 줄 수 있죠. 내부 조사를 위해서라면 가짜 날짜도요.
+KATRIN: Und wir?
+> 그럼 우리는?
+JAN: Wir beobachten nur. Was Tobi bei der Arbeit sowieso hört.
+> 우린 관찰만 해요. 토비가 일하면서 어차피 듣는 것만요.
+KATRIN: Das ist eine dünne Linie, Jan. Wenn wir die Falle mitplanen, sind wir Teil der Ermittlung.
+> 그건 아주 아슬아슬한 선이야, 얀. 우리가 함정을 같이 짜면 우리도 조사의 일부가 되는 거야.
+HELENE: Und eine Redaktion, die für eine Behörde ermittelt, ist nicht mehr unabhängig.
+> 그리고 관청을 위해 조사하는 편집국은 더 이상 독립적이지 않아요.
+JAN: Dann planen wir nichts mit. Frau Lindemann macht ihre Falle allein. Wir sagen ihr nur, dass Tobi bei Spreeblick zuhört. Nein, nicht mal das.
+> 그럼 아무것도 같이 짜지 말죠. 린데만 의원님은 혼자 함정을 놓고. 우린 토비가 슈프레블릭에서 듣고 있다는 것만 말하고. 아니, 그것조차 말하지 말죠.
+HELENE: Nicht mal das. Tobi bleibt geheim. Auch für sie.
+> 그것조차 안 돼요. 토비는 비밀로 남아요. 그분한테도.
+LEON: Aber wie wissen wir dann, welchen Termin sie wem gesagt hat?
+> 그럼 그분이 누구한테 어떤 날짜를 말했는지 우린 어떻게 알아요?
+JAN: Sie schreibt die drei Termine auf. Mit den drei Namen. Und gibt uns das Papier in einem versiegelten Umschlag. Vorher.
+> 그분이 날짜 세 개를 적어요. 이름 세 개랑 같이. 그리고 그 종이를 봉인된 봉투에 넣어서 우리한테 미리 주는 거예요.
+SWETA: Und wir öffnen ihn erst, wenn Tobi etwas gehört hat. Dann kann niemand sagen, wir haben die Antwort angepasst.
+> 그리고 토비가 뭔가를 들은 다음에야 열고. 그럼 아무도 우리가 답을 끼워 맞췄다고 말할 수 없지.
+KATRIN: Das gefällt mir besser. Sauber dokumentiert. Und die Entscheidung liegt bei ihr.
+> 그게 더 마음에 들어. 깔끔하게 기록되고, 결정은 그분 몫이고.
+HELENE: Und ihr eigener Name? Sie ist auch eine der drei.
+> 그럼 그분 본인 이름은요? 그분도 세 명 중 한 명이잖아요.
+JAN: Deshalb steht ihr Name auch im Umschlag. Mit einem eigenen Termin. Den sie niemandem sagt.
+> 그래서 그분 이름도 봉투 안에 들어가요. 자기만의 날짜랑 같이. 아무한테도 말하지 않는 날짜요.
+HELENE: Gut. Unter diesen Bedingungen: Ja.
+> 좋아요. 그 조건이라면 허락해요.
+
+# 장면 2 — DREI TERMINE
+LINDEMANN: Herr Kowalczyk? Ich habe es gemacht. Wie besprochen.
+> 코발치크 씨? 했어요. 얘기한 대로.
+JAN: Ohne Details am Telefon, bitte.
+> 전화로는 자세한 얘기 하지 마세요.
+LINDEMANN: Natürlich. Ich habe jedem gesagt: Die Bauaufsicht macht eine unangekündigte Begehung in der Gerichtstraße 61. Wegen der Heizung und der Umwandlung.
+> 물론이죠. 모두한테 이렇게 말했어요. 건축 감독관이 게리히트슈트라세 61번지를 불시에 점검한다. 난방이랑 전환 문제 때문에.
+JAN: Jedem mit einem anderen Tag.
+> 사람마다 다른 날짜로.
+LINDEMANN: Jedem mit einem anderen Tag. Unter vier Augen. Mit der Bitte um absolute Vertraulichkeit.
+> 사람마다 다른 날짜로요. 단둘이 있을 때. 절대 비밀을 지켜 달라고 부탁하면서요.
+JAN: Und der Umschlag?
+> 그럼 봉투는요?
+LINDEMANN: Liegt bei Ihrer Chefredakteurin. Ich habe ihn heute Morgen persönlich gebracht. Versiegelt, mit Datum und Unterschrift.
+> 편집장님한테 있어요. 오늘 아침에 직접 가져다드렸어요. 봉인하고, 날짜랑 서명까지 해서요.
+HELENE: Er liegt in meinem Tresor. Ich habe ihn nicht geöffnet.
+> 내 금고에 있어요. 열지 않았어요.
+LINDEMANN: Und wie erfahren Sie, ob jemand redet?
+> 그럼 누가 말을 흘렸는지 어떻게 알아요?
+JAN: Das darf ich Ihnen nicht sagen. Quellenschutz.
+> 그건 말씀드릴 수 없어요. 취재원 보호예요.
+LINDEMANN: Verstehe. Ich mache meine Arbeit, Sie machen Ihre.
+> 알겠어요. 저는 제 일을 하고, 당신은 당신 일을 하는 거죠.
+JAN: Genau so. Und, Frau Lindemann: Falls eine Begehung wirklich nötig ist, wegen der Heizung… dann wäre das kein Schaden.
+> 바로 그거예요. 그리고 의원님, 혹시 난방 때문에 정말로 점검이 필요하다면… 그것도 나쁘진 않겠죠.
+LINDEMANN: Glauben Sie mir, Herr Kowalczyk: Die Bauaufsicht kommt. Ganz echt. Am Freitag. Das ist mein vierter Termin. Den kennt niemand.
+> 제 말 믿으세요, 코발치크 씨. 건축 감독관은 와요. 진짜로요. 금요일에. 그게 제 네 번째 날짜예요. 아무도 몰라요.
+LEON: Sie hat einen echten Termin gemacht?
+> 진짜 점검 날짜를 잡았대요?
+JAN: Sie ist schlauer als wir alle zusammen.
+> 그분이 우리 모두를 합친 것보다 똑똑하네.
+SWETA: Und jetzt?
+> 그럼 이제는?
+JAN: Jetzt warten wir. Und Tobi hört zu.
+> 이제 기다리는 거지. 그리고 토비가 듣고.
+MIRA: Wie lange?
+> 얼마나?
+JAN: Wenn jemand redet, dann schnell. Spreeblick muss sich ja vorbereiten.
+> 누가 말을 흘린다면 금방일 거야. 슈프레블릭은 준비를 해야 하니까.
+LEON: Darf ich die Zeit nutzen? Ich will mir das Vereinsregister ansehen. Von dem «Bündnis für privates Wohneigentum».
+> 그동안 뭘 좀 해도 될까요? 등기된 단체 명부를 보고 싶어요. «민간 주택 소유 연합» 거요.
+JAN: Warum?
+> 왜?
+LEON: Weil dort steht, wer im Vorstand sitzt. Und im Beirat. Das ist öffentlich.
+> 거기에 이사회랑 자문위원회에 누가 있는지 나와 있으니까요. 공개된 정보예요.
+JAN: Gute Idee. Mach.
+> 좋은 생각이야. 해 봐.
+MIRA: Ich helfe dir. Das Register ist auf Altdeutsch geschrieben. Also, auf Behördendeutsch.
+> 내가 도와줄게. 그 명부는 옛날 독일어로 쓰여 있거든. 그러니까, 관청 독일어로.
+
+# 장면 3 — MARCO HAT ES EILIG
+MARCO: Tobi! Komm sofort! Wir haben ein Problem.
+> 토비! 지금 당장 와요! 문제가 생겼어요.
+TOBI: Wat is? Rohrbruch?
+= Was ist? Rohrbruch?
+> 뭔데? 배관 터졌어?
+MARCO: Schlimmer. Die Bauaufsicht kommt. Unangekündigt. Zur Gerichtstraße 61.
+> 더 심해요. 건축 감독관이 와요. 불시에. 게리히트슈트라세 61번지로.
+TOBI: Unangekündigt? Und woher weeßt du det dann?
+= Unangekündigt? Und woher weißt du das dann?
+> 불시에? 그럼 넌 그걸 어떻게 알아?
+MARCO: Das ist egal. Wir haben Freunde. Wichtig ist: Bis Montagabend muss die Heizung wieder überall laufen. Alle vier Stränge.
+> 그건 중요하지 않아요. 우린 친구들이 있으니까. 중요한 건 이거예요. 월요일 저녁까지 난방이 다시 전부 돌아가야 해요. 배관 네 개 다.
+TOBI: Bis Montagabend? Wann kommen die denn?
+= Bis Montagabend? Wann kommen die denn?
+> 월요일 저녁까지? 그 사람들이 언제 오는데?
+MARCO: Dienstag. Dienstag früh. Und die Fachfirma muss weg. Keine Baustelle, kein Lärm. Alles muss normal aussehen.
+> 화요일. 화요일 아침. 그리고 전문 업체는 철수해야 해요. 공사 현장도, 소음도 없이. 다 평범해 보여야 해요.
+TOBI: Aber die Strangsanierung? Die drei Wochen?
+= Aber die Strangsanierung? Die drei Wochen?
+> 그럼 배관 교체 공사는? 그 3주는?
+MARCO: Vergiss die Strangsanierung. Mach einfach die Ventile auf. Du weißt, wie.
+> 배관 교체는 잊어요. 그냥 밸브를 열어요. 방법 알잖아요.
+TOBI: Ick weeß, wie. Ick hab's dir am ersten Tag jezeigt.
+= Ich weiß, wie. Ich habe es dir am ersten Tag gezeigt.
+> 방법은 알지. 첫날 내가 보여 줬잖아.
+MARCO: Dann mach es. Jetzt.
+> 그럼 해요. 지금.
+TOBI: Jut. Ick mach se uff. Alle vier.
+= Gut. Ich mache sie auf. Alle vier.
+> 좋아. 열게. 네 개 다.
+MARCO: Und die Heizlüfter? Die müssen verschwinden. Das sieht nach Notfall aus.
+> 그리고 온풍기들은? 다 치워야 해요. 비상 상황처럼 보이잖아요.
+TOBI: Die jehören den Mietern, Marco. Die kann ick nich einfach wegnehmen.
+= Die gehören den Mietern, Marco. Die kann ich nicht einfach wegnehmen.
+> 그건 세입자들 거야, 마르코. 내가 그냥 가져갈 수는 없어.
+MARCO: Mist. Dann eben nicht. Mach die Heizung an. Das ist das Wichtigste.
+> 젠장. 그럼 됐어요. 난방이나 켜요. 그게 제일 중요해요.
+TOBI: Jan, ick bin's. Nich zwanzig Uhr, aber dringend. Marco sagt: Die Bauaufsicht kommt am Dienstag. Dienstag früh.
+= Jan, ich bin es. Nicht zwanzig Uhr, aber dringend. Marco sagt: Die Bauaufsicht kommt am Dienstag. Dienstag früh.
+> 얀, 나야. 여덟 시는 아니지만 급해. 마르코가 그러는데 건축 감독관이 화요일에 온대. 화요일 아침.
+JAN: Dienstag. Bist du sicher? Nicht Mittwoch? Nicht Donnerstag?
+> 화요일. 확실해? 수요일 아니고? 목요일도 아니고?
+TOBI: Dienstag. Er hat et zweimal jesagt. Und er hat jesagt: «Wir haben Freunde.»
+= Dienstag. Er hat es zweimal gesagt. Und er hat gesagt: «Wir haben Freunde.»
+> 화요일. 두 번이나 말했어. 그리고 «우린 친구들이 있으니까»라고 했어.
+JAN: Danke, Tobi. Und jetzt mach die Heizung an. Für alle.
+> 고마워, 토비. 이제 난방 켜. 모두를 위해.
+TOBI: Mit Verjnüjen.
+= Mit Vergnügen.
+> 기꺼이.
+GISELA: Herr Rehberg? Herr Rehberg! Die Heizung! Sie wird warm! Richtig warm!
+> 레베르크 씨? 레베르크 씨! 난방이요! 따뜻해져요! 진짜 따뜻해요!
+TOBI: Ick weeß, Frau Hoffmann. Det Ersatzteil is endlich jekommen.
+= Ich weiß, Frau Hoffmann. Das Ersatzteil ist endlich gekommen.
+> 알아요, 호프만 씨. 드디어 부품이 왔거든요.
+GISELA: Das Ersatzteil. Ja, ja. Ich glaube Ihnen kein Wort, Herr Rehberg. Aber danke.
+> 부품이라. 그래요, 그래요. 한 마디도 안 믿어요, 레베르크 씨. 그래도 고마워요.
+GISELA: Tadeusz! Hörst du? Warm! Dreimal klopfen!
+> 타데우시! 들려? 따뜻해! 세 번 두드려!
+
+# 장면 4 — WARM
+ELKE: Na, Leute? Wie is et in der Gerichtstraße?
+= Na, Leute? Wie ist es in der Gerichtstraße?
+> 어때들? 게리히트슈트라세는 좀 어때?
+GISELA: Warm, Elke! Zweiundzwanzig Grad im Wohnzimmer. Ich habe den zweiten Pullover ausgezogen.
+> 따뜻해, 엘케! 거실이 22도야. 스웨터 하나 벗었어.
+OLSZEWSKI: Und ich habe zum ersten Mal seit Wochen ohne Mütze geschlafen.
+> 그리고 난 몇 주 만에 처음으로 모자 없이 잤어.
+KRÜGER: Die Kinder haben gestern in ihrem Zimmer gespielt. Nicht in der Küche am Ofen.
+> 아이들이 어제 자기 방에서 놀았어요. 부엌 오븐 옆이 아니라.
+ELKE: Und Spandau, Sabine?
+= Und Spandau, Sabine?
+> 그럼 슈판다우는, 자비네?
+KRÜGER: Ich habe abgesagt. Ich bleibe. Wenn die Heizung geht, gehe ich nicht.
+> 거절했어요. 남을 거예요. 난방이 들어오면 전 안 나가요.
+DEMIR: Weiß jemand, warum die Heizung plötzlich wieder geht?
+> 근데 난방이 왜 갑자기 다시 들어오는지 아는 사람 있어?
+GISELA: Der Hausmeister sagt: «Ersatzteil.»
+> 관리인은 «부품»이래.
+OLSZEWSKI: Das Ersatzteil heißt Gerechtigkeit. Aber das darf man nicht laut sagen.
+> 그 부품 이름은 정의야. 근데 그건 크게 말하면 안 돼.
+ELKE: Uff det Ersatzteil! Prost!
+= Auf das Ersatzteil! Prost!
+> 부품을 위하여! 건배!
+
+# 장면 5 — DER UMSCHLAG
+HELENE: Alle hier? Gut. Katrin, du bist Zeugin.
+> 다 모였어요? 좋아요. 카트린, 증인이 돼 줘요.
+KATRIN: Datum und Uhrzeit: Freitag, neunundzwanzigster Januar, neun Uhr fünfzehn. Siegel unversehrt.
+> 날짜와 시간: 1월 29일 금요일 오전 9시 15분. 봉인은 손상되지 않았음.
+HELENE: Ich öffne jetzt den Umschlag.
+> 이제 봉투를 열게요.
+LEON: Ich bin nervös. Warum bin ich nervös?
+> 떨려요. 왜 떨리는 거죠?
+SWETA: Weil die Wahrheit immer ein bisschen Angst macht.
+> 진실은 늘 조금 무서운 법이니까.
+HELENE: «Frau Aktaş: Mittwoch, 27. Januar. Herr Brenner: Dienstag, 26. Januar. Petra Lindemann: Donnerstag, 28. Januar.» Unterschrift, Datum.
+> «악타쉬 씨: 1월 27일 수요일. 브레너 씨: 1월 26일 화요일. 페트라 린데만: 1월 28일 목요일.» 서명, 날짜.
+JAN: Dienstag. Brenner.
+> 화요일. 브레너.
+MIRA: Und die Bauaufsicht kam heute. Freitag. Der echte Termin.
+> 그리고 건축 감독관은 오늘 왔어. 금요일에. 진짜 날짜에.
+LEON: Und die Heizung lief schon. Seit Montag. Wegen Brenner.
+> 그리고 난방은 이미 돌아가고 있었고요. 월요일부터. 브레너 덕분에.
+TOBI: Det is det Witzigste an der janzen Jeschichte. Der Maulwurf hat den Mietern die Heizung zurückjebracht.
+= Das ist das Witzigste an der ganzen Geschichte. Der Maulwurf hat den Mietern die Heizung zurückgebracht.
+> 이 얘기에서 제일 웃긴 게 그거야. 첩자가 세입자들한테 난방을 되돌려 줬다는 거.
+HELENE: Eine Falle ist noch kein Beweis. Es ist ein starkes Indiz. Was haben wir noch?
+> 함정은 아직 증거가 아니에요. 강력한 정황일 뿐이죠. 뭐가 더 있어요?
+LEON: Das Vereinsregister. «Bündnis für privates Wohneigentum e.V.» Mira und ich haben es gelesen.
+> 단체 명부요. «민간 주택 소유 연합». 미라랑 같이 읽었어요.
+MIRA: Im Beirat des Vereins sitzt seit 2023 ein «Holger Brenner, Diplom-Verwaltungswirt, Berlin».
+> 그 단체 자문위원회에 2023년부터 «홀거 브레너, 행정학 학사, 베를린»이 있어요.
+KATRIN: Ein Beamter, der Umwandlungen genehmigt, sitzt im Beirat eines Lobbyvereins für Eigentumswohnungen.
+> 전환을 허가하는 공무원이 소유 주택 로비 단체 자문위원회에 앉아 있다.
+JAN: Und der Lobbyverein ist Kunde von Thal & Partner. Und spendet an die Kampagne am Tempelhofer Feld.
+> 그리고 그 로비 단체는 탈 & 파트너의 고객이고. 템펠호프 들판 캠페인에 후원도 하고.
+HELENE: Ist das legal? Ein Beamter in einem Beirat?
+> 그게 합법이에요? 공무원이 자문위원회에 있는 게?
+KATRIN: Er hätte es als Nebentätigkeit anzeigen müssen. Und bei einem so klaren Interessenkonflikt hätte er sich bei den Akten für befangen erklären müssen.
+> 겸직으로 신고했어야 해요. 그리고 이렇게 명백한 이해충돌이면 해당 서류에서 스스로 빠졌어야 하고요.
+MIRA: Hat er nicht. Er hat die Genehmigungen «im Auftrag» unterschrieben. Ich wette, unter dem schwarzen Balken steht sein Name.
+> 안 그랬죠. «위임에 따라» 허가서에 서명했어요. 장담하는데, 그 검은 줄 밑엔 그 사람 이름이 있을 거예요.
+TOBI: Jetz ham wa ihn.
+= Jetzt haben wir ihn.
+> 이제 잡았다.
+HELENE: Noch nicht, Tobi. Jetzt haben wir eine Frage an ihn. Und er hat das Recht zu antworten.
+> 아직 아니에요, 토비. 이제 그 사람한테 할 질문이 생긴 거예요. 그리고 그 사람한테는 답할 권리가 있어요.
+
+# 장면 6 — DIE FRAGEN
+HELENE: Jan, du schreibst den Fragenkatalog an Herrn Brenner. Sachlich. Konkret.
+> 얀, 브레너 씨한테 보낼 질문 목록을 써요. 사실에 근거해서. 구체적으로.
+JAN: Frage eins: Sind Sie Mitglied im Beirat des Bündnisses für privates Wohneigentum?
+> 질문 1. 민간 주택 소유 연합의 자문위원이십니까?
+LEON: Frage zwei: Haben Sie diese Tätigkeit Ihrem Dienstherrn angezeigt?
+> 질문 2. 그 활동을 소속 기관에 신고하셨습니까?
+MIRA: Frage drei: Haben Sie die Umwandlung Gerichtstraße 61 genehmigt, obwohl eine Abwendungsvereinbarung die Umwandlung verbot?
+> 질문 3. 회피 합의서가 전환을 금지했는데도 게리히트슈트라세 61번지 전환을 허가하셨습니까?
+SWETA: Frage vier: Haben Sie Termine interner Besprechungen an Dritte weitergegeben?
+> 질문 4. 내부 회의 일정을 제3자에게 넘기셨습니까?
+KATRIN: Frage vier vorsichtiger. «Haben Sie Kenntnis davon, wie Informationen über interne Termine nach außen gelangt sind?»
+> 질문 4는 더 조심스럽게. «내부 일정에 관한 정보가 어떻게 외부로 나갔는지 알고 계십니까?»
+JAN: Okay. Und Frage fünf: Wissen Sie, wo sich die Akten zu den Umwandlungen befinden?
+> 좋아. 그리고 질문 5. 전환 관련 서류들이 어디 있는지 아십니까?
+LEON: Darf ich etwas fragen? Herr Brenner hat Familie. Kinder vielleicht. Schreiben wir seinen Namen?
+> 하나 여쭤봐도 될까요? 브레너 씨도 가족이 있잖아요. 아이들도 있을지 모르고요. 그 사람 이름을 쓰나요?
+HELENE: Gute Frage. Was meinst du, Katrin?
+> 좋은 질문이에요. 카트린, 어떻게 생각해?
+KATRIN: Er ist ein Amtsträger in einer leitenden Funktion. Es geht um seine Amtsführung. Da ist eine identifizierende Berichterstattung eher zulässig.
+> 그 사람은 관리직에 있는 공직자야. 그리고 문제는 그의 직무 수행이지. 그런 경우엔 신원을 밝히는 보도가 비교적 허용돼.
+LEON: Eher? Nicht sicher?
+> 비교적이요? 확실한 건 아니고요?
+KATRIN: Es hängt davon ab, wie stark unsere Belege sind. Und ob wir seine Antwort fair darstellen.
+> 우리 증거가 얼마나 강한지에 달렸어요. 그리고 그 사람 답변을 공정하게 전하는지에도.
+JAN: Seine Familie kommt nicht vor. Keine Frau, keine Kinder, keine Wohnadresse.
+> 가족은 안 나와. 아내도, 아이도, 집 주소도.
+LEON: Gut. Das beruhigt mich.
+> 다행이에요. 그럼 마음이 놓여요.
+HELENE: Frist?
+> 기한은요?
+KATRIN: Eine Woche. Das ist fair.
+> 일주일. 그게 공정해.
+JAN: Und die Kanarienvogel-Falle? Schreiben wir darüber?
+> 그럼 카나리아 함정은요? 그것도 써요?
+HELENE: Darüber entscheidet Frau Lindemann. Es ist ihre Falle. Wir schreiben nur, was wir selbst beobachtet haben.
+> 그건 린데만 의원님이 정해요. 그분 함정이니까. 우린 우리가 직접 본 것만 써요.
+TOBI: Und ick? Wann komm ick raus?
+= Und ich? Wann komme ich raus?
+> 그럼 난? 나는 언제 빠져?
+HELENE: Bald, Tobi. Sehr bald. Wenn die Fragen an Brenner rausgehen, weiß Spreeblick, dass wir viel wissen. Dann bist du in Gefahr.
+> 곧이요, 토비. 아주 곧. 브레너 씨한테 질문이 나가면 슈프레블릭은 우리가 많이 안다는 걸 알게 돼요. 그럼 당신이 위험해져요.
+TOBI: Noch eene Woche. Marco hat Montag 'ne Besprechung mit Kasper. Ick soll dabei sein.
+= Noch eine Woche. Marco hat Montag eine Besprechung mit Kasper. Ich soll dabei sein.
+> 일주일만 더. 월요일에 마르코가 카스퍼랑 회의가 있어. 나도 들어가기로 했어.
+HELENE: Bis Montag. Dann bist du raus. Keine Diskussion.
+> 월요일까지. 그다음엔 빠져요. 토론은 없어요.
+JAN: Ich schicke die Fragen am Montagabend. Nach Tobis Besprechung.
+> 질문은 월요일 저녁에 보낼게요. 토비 회의가 끝나고.
+
+# 엔딩 — DER ANRUF
+JAN: Sonntagabend. Wer ruft denn jetzt an? Kowalczyk.
+> 일요일 저녁. 이 시간에 누구지? 코발치크입니다.
+BRENNER: Herr Kowalczyk. Hier ist Holger Brenner. Sie haben meine Karte, ich habe Ihre.
+> 코발치크 씨. 홀거 브레너입니다. 당신은 제 명함이 있고, 저는 당신 명함이 있죠.
+JAN: Herr Brenner. Woher haben Sie meine private Nummer?
+> 브레너 씨. 제 개인 번호는 어디서 아셨어요?
+BRENNER: Das ist nicht wichtig. Hören Sie mir zu. Ich weiß, dass Frau Lindemann mir einen falschen Termin genannt hat.
+> 그건 중요하지 않아요. 제 말 들어 보세요. 린데만 의원님이 저한테 가짜 날짜를 알려 줬다는 거 알아요.
+JAN: Woher wissen Sie das?
+> 그걸 어떻게 아세요?
+BRENNER: Weil die Bauaufsicht am Freitag kam. Nicht am Dienstag. Ich bin nicht dumm.
+> 건축 감독관이 화요일이 아니라 금요일에 왔으니까요. 전 바보가 아니에요.
+JAN: Möchten Sie etwas dazu sagen? Offiziell?
+> 그에 대해 하실 말씀이 있으세요? 공식적으로요?
+BRENNER: Nicht offiziell. Nicht am Telefon. Aber ich sage Ihnen eins: Ich bin nicht der, den Sie suchen.
+> 공식적으로는 아니고요. 전화로도 아니고요. 그래도 하나만 말할게요. 전 당신이 찾는 사람이 아니에요.
+JAN: Sie haben den Termin weitergegeben.
+> 날짜를 넘기신 건 당신이잖아요.
+BRENNER: Ich habe vieles weitergegeben. Aber ich habe nie etwas entschieden. Hören Sie auf, nach unten zu schauen, Herr Kowalczyk. Schauen Sie nach oben.
+> 많은 걸 넘겼죠. 하지만 전 아무것도 결정한 적이 없어요. 아래를 그만 보세요, 코발치크 씨. 위를 보세요.
