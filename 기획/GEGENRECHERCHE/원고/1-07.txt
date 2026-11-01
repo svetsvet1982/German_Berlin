@@ -1,0 +1,408 @@
+@part 1
+@ep 7
+@title Der neue Hausmeister
+@sub 새 관리인 · 수요일, 아홉 시 면접에서 저녁 여덟 시 보고까지
+@info 대사 150턴 · 난이도 B1 · 배경: 6화 다음 날(12월 둘째 주), Mitte의 공유 오피스 → Wedding Gerichtstraße 61의 지하실·보일러실·기젤라의 집
+@cast TOBI | 토비 레베르크 (37) · 사진기자, 오늘부터 '관리인' 위장 잠입
+@cast MARCO | 마르코 하버란트 (35) · Spreeblick 관리회사 '오브젝트 매니저' · 하노버 출신
+@cast EMPFANG | 공유 오피스 안내 직원
+@cast GISELA | 기젤라 호프만 (78) · 세입자 (토비의 정체를 모름)
+@cast OLSZEWSKI | 타데우시 올셰프스키 (80) · 세입자
+@cast PAULA | 파울라 (23) · 4층 단기 세입자
+@cast JAN | 얀 코발치크 (45) · 탐사팀장 (저녁 보고 전화)
+@note ※ 이번 화부터 토비가 관리회사에 잠입합니다. 세입자들은 토비가 기자라는 사실을 모릅니다. 토비는 헬레네의 조건에 따라 개인 집 안에서는 사진도 메모도 남기지 않고, 자기에게 맡겨진 업무 자료만 기록합니다.
+@note ※ 표현 초점: Vorstellungsgespräch · Probezeit · Schlüsselbund · Heizungsraum · Steigleitung · Ventil · entlüften · Anweisung — 마르코의 말투: 친절한 경영 용어(Teamplayer, Prozesse, Kommunikation)
+@next 1부 8화 — «Nicht der Vermieter»(집주인이 아니다) — 미라가 회사 서른일곱 개의 지분을 끝까지 거슬러 올라간다. 펀드의 운용 자문사로 처음 등장하는 이름은 Thal & Partner. 얀이 처음으로 막시밀리안 탈의 사진을 본다.
+
+# 콜드 오픈 — 8:55 UHR, MITTE
+EMPFANG: Guten Morgen! Willkommen im «Hive». Haben Sie einen Termin?
+> 좋은 아침이에요! «하이브»에 오신 걸 환영해요. 약속 있으세요?
+TOBI: Morjen. Ick hab 'n Termin bei Spreeblick. Um neun.
+= Morgen. Ich habe einen Termin bei Spreeblick. Um neun.
+> 안녕하쇼. 슈프레블릭이랑 약속 있어요. 아홉 시에.
+EMPFANG: Spreeblick… Ah, Marco! Der sitzt heute in der Telefonbox drei. Möchten Sie einen Hafer-Cappuccino?
+> 슈프레블릭… 아, 마르코요! 오늘은 3번 전화 부스에 있어요. 귀리 우유 카푸치노 드실래요?
+TOBI: 'n Hafer… wat? Nee danke. 'n normaler Kaffee, wenn's jeht.
+= Ein Hafer… was? Nein danke. Einen normalen Kaffee, wenn es geht.
+> 귀리… 뭐요? 아뇨, 됐어요. 그냥 평범한 커피 되면 주세요.
+EMPFANG: Normaler Kaffee… Ich schaue mal, ob wir das haben.
+> 평범한 커피라… 있는지 볼게요.
+TOBI: Spreeblick hat hier 'n Büro?
+= Spreeblick hat hier ein Büro?
+> 슈프레블릭이 여기 사무실이 있어요?
+EMPFANG: Ein Büro? Nein. Sie haben einen Briefkasten und manchmal einen Schreibtisch. Wie die meisten hier.
+> 사무실이요? 아니요. 우편함 하나에, 가끔 책상 하나 써요. 여기 있는 회사 대부분이 그래요.
+TOBI: Und wie viele Firmen sind det so?
+= Und wie viele Firmen sind das so?
+> 그럼 그런 회사가 몇 개쯤 돼요?
+EMPFANG: Über zweihundert. Aber hier arbeiten vielleicht dreißig Leute.
+> 이백 개가 넘어요. 근데 실제로 여기서 일하는 사람은 서른 명쯤이에요.
+MARCO: Moin! Sie müssen Herr Rehberg sein. Marco Haberland. Kommen Sie, wir nehmen die Box.
+> 모인! 레베르크 씨죠. 마르코 하버란트예요. 이리 오세요, 부스에서 얘기하죠.
+TOBI: Morjen.
+= Morgen.
+> 안녕하쇼.
+MARCO: Morjen! Herrlich. Ein echter Berliner. Das brauchen wir.
+> 모르옌! 좋네요. 진짜 베를린 사람이시네. 저희가 딱 필요한 사람이에요.
+
+# 장면 1 — DAS VORSTELLUNGSGESPRÄCH
+MARCO: Also, ganz locker. Wir duzen uns hier alle. Ich bin Marco.
+> 자, 편하게 하죠. 저희는 다 말 놓고 지내요. 마르코예요.
+TOBI: Tobi.
+= Tobi.
+> 토비.
+MARCO: Tobi. Super. Ich habe deinen Lebenslauf gelesen. Anlagenmechaniker, Heizung, Sanitär. Das ist genau, was wir suchen.
+> 토비. 좋아요. 이력서 읽었어요. 난방·배관 기술자. 저희가 찾던 바로 그 사람이에요.
+TOBI: Altbau is mein Ding. Die alten Heizungen, die keener mehr versteht.
+= Altbau ist mein Ding. Die alten Heizungen, die keiner mehr versteht.
+> 옛날 건물은 내 전문이야. 이제 아무도 모르는 옛날 난방들.
+MARCO: Und die letzten Jahre? «Selbstständig, Fotografie und Haustechnik.» Fotografie?
+> 그럼 지난 몇 년은요? «자영업, 사진 및 건물 설비.» 사진이요?
+TOBI: Hochzeiten. Familienfeiern. Wenn keene Heizung kaputt is, macht man halt wat anderes.
+= Hochzeiten. Familienfeiern. Wenn keine Heizung kaputt ist, macht man halt was anderes.
+> 결혼식. 가족 행사. 고장 난 난방이 없으면 다른 일도 하는 거지.
+MARCO: Ha! Gefällt mir. Flexibel. Das ist bei uns wichtig.
+> 하! 마음에 드네요. 유연하시고. 저희한텐 그게 중요해요.
+TOBI: Wat genau macht der Hausmeister bei euch?
+= Was genau macht der Hausmeister bei euch?
+> 여기 관리인은 정확히 무슨 일을 해요?
+MARCO: Wir verwalten zurzeit vierzig Objekte. Du bist für fünf Häuser zuständig. Wedding und Neukölln.
+> 지금 저희가 건물 마흔 곳을 관리해요. 토비는 다섯 채를 맡게 돼요. 베딩이랑 노이쾰른.
+TOBI: Fünf Häuser für eenen Hausmeister? Det is viel.
+= Fünf Häuser für einen Hausmeister? Das ist viel.
+> 관리인 한 명한테 다섯 채? 그거 많은데.
+MARCO: Die meisten Häuser sind im Umbau. Da gibt es weniger Mieter. Weniger Arbeit.
+> 대부분 개조 중이에요. 그래서 세입자가 적어요. 일도 적고요.
+TOBI: Im Umbau. Verstehe.
+= Im Umbau. Verstehe.
+> 개조 중이라. 알겠어요.
+MARCO: Gerichtstraße 61 ist dein Hauptobjekt. Kennst du Wedding?
+> 게리히트슈트라세 61번지가 메인 건물이에요. 베딩 알아요?
+TOBI: Ick bin Marzahner. Aber Wedding kenn ick. Jute Kneipen.
+= Ich bin Marzahner. Aber Wedding kenne ich. Gute Kneipen.
+> 난 마르찬 사람이야. 그래도 베딩은 알지. 선술집이 좋아.
+MARCO: Ha. Ich bin aus Hannover. Ich kenne in Berlin nur Coworking-Spaces.
+> 하. 전 하노버 출신이에요. 베를린에선 공유 오피스밖에 몰라요.
+TOBI: Det merkt man.
+= Das merkt man.
+> 티 나네.
+MARCO: Wie bitte?
+> 네?
+TOBI: Na, du sagst «Brötchen», wa? Nich «Schrippe».
+= Na, du sagst «Brötchen», nicht wahr? Nicht «Schrippe».
+> 아니, '브뢰트헨'이라고 하잖아요? '슈리페'가 아니라.
+MARCO: Ich habe gar nichts über Brötchen gesagt.
+> 저 브뢰트헨 얘기는 한 적 없는데요.
+TOBI: Noch nich. Aber du wirst.
+= Noch nicht. Aber du wirst.
+> 아직은. 근데 하게 될 거야.
+MARCO: Ha! Du bist lustig. Okay, wichtige Frage: Bist du ein Teamplayer?
+> 하! 재밌는 분이네. 좋아요, 중요한 질문. 팀플레이어예요?
+TOBI: Kommt druff an, wer im Team is.
+= Kommt darauf an, wer im Team ist.
+> 팀에 누가 있느냐에 따라 다르지.
+MARCO: Gute Antwort. Ehrlich. Bei uns heißt Teamplayer: Du machst, was die Verwaltung sagt. Und du redest nicht zu viel mit den Mietern.
+> 좋은 답이에요. 솔직하고. 저희한테 팀플레이어란 관리회사가 시키는 대로 하고 세입자들이랑 말을 너무 많이 안 하는 거예요.
+TOBI: Wieso nich?
+= Wieso nicht?
+> 왜 안 되는데?
+MARCO: Die Mieter sind manchmal… emotional. Wegen der Bauarbeiten. Du reparierst, du gehst. Kommunikation macht die Verwaltung.
+> 세입자들이 가끔… 감정적이거든요. 공사 때문에요. 고치고, 가면 돼요. 소통은 관리회사가 해요.
+TOBI: Reparieren, jehen. Kann ick.
+= Reparieren, gehen. Kann ich.
+> 고치고, 가고. 할 수 있어.
+MARCO: Perfekt. Probezeit sechs Monate. Zweitausendsechshundert brutto. Und ein Diensthandy.
+> 완벽해요. 수습 6개월. 세전 2,600유로. 그리고 업무용 휴대폰.
+TOBI: Wann fang ick an?
+= Wann fange ich an?
+> 언제부터 시작해?
+MARCO: Heute? Ich zeige dir das Haus. Um elf in der Gerichtstraße.
+> 오늘? 건물 보여 줄게요. 열한 시에 게리히트슈트라세에서.
+TOBI: Heute? Na jut. Ick hab eh nischt vor.
+= Heute? Na gut. Ich habe eh nichts vor.
+> 오늘? 뭐 좋아. 어차피 할 일도 없으니까.
+
+# 장면 2 — DER SCHLÜSSELBUND
+MARCO: So. Das ist der Schlüsselbund für Gerichtstraße 61. Haustür, Keller, Heizungsraum, Dachboden, Müllraum.
+> 자. 이게 게리히트슈트라세 61번지 열쇠꾸러미예요. 현관, 지하실, 보일러실, 다락, 쓰레기실.
+TOBI: Und die Wohnungen?
+= Und die Wohnungen?
+> 집 열쇠는?
+MARCO: Für die leeren Wohnungen gibt es einen Generalschlüssel. Für die bewohnten nicht. Da klingelst du.
+> 빈집은 마스터키가 있어요. 사람 사는 집은 없어요. 거긴 초인종을 누르세요.
+TOBI: Klar. Wie viele sind leer?
+= Klar. Wie viele sind leer?
+> 당연하지. 몇 채가 비었어?
+MARCO: Gerade zwölf. Bald mehr. Komm, der Keller.
+> 지금은 열두 채. 곧 더 늘 거예요. 와요, 지하실로.
+TOBI: Gasheizung, Baujahr… 1998. Die is alt, aber die läuft. Wenn man se lässt.
+= Gasheizung, Baujahr… 1998. Die ist alt, aber die läuft. Wenn man sie lässt.
+> 가스 보일러, 1998년식… 낡았는데 잘 돌아가. 내버려 두기만 하면.
+MARCO: «Wenn man sie lässt.» Was meinst du?
+> «내버려 두기만 하면»이라니, 무슨 뜻이에요?
+TOBI: Kiek mal hier. Vier Steigleitungen. Vorderhaus links, Vorderhaus rechts, Seitenflügel, Hinterhaus.
+= Guck mal hier. Vier Steigleitungen. Vorderhaus links, Vorderhaus rechts, Seitenflügel, Hinterhaus.
+> 여기 봐요. 수직 배관이 네 개. 앞채 왼쪽, 앞채 오른쪽, 옆채, 뒤채.
+MARCO: Okay…
+> 네…
+TOBI: Und hier sind die Ventile. Vorderhaus rechts: offen. Die anderen drei: halb zu. Det is keen Zufall.
+= Und hier sind die Ventile. Vorderhaus rechts: offen. Die anderen drei: halb zu. Das ist kein Zufall.
+> 그리고 여기가 밸브들이야. 앞채 오른쪽은 열려 있고, 나머지 셋은 반쯤 잠겨 있어. 이건 우연이 아니지.
+MARCO: Du siehst das sofort?
+> 그게 바로 보여요?
+TOBI: Ick bin Heizungsmann. Ick seh det in drei Sekunden.
+= Ich bin Heizungsmann. Ich sehe das in drei Sekunden.
+> 난 난방쟁이야. 3초면 보여.
+MARCO: Gut. Dann sage ich es dir direkt. Das bleibt so.
+> 좋아요. 그럼 바로 말할게요. 그건 그대로 둬요.
+TOBI: Wieso?
+= Wieso?
+> 왜?
+MARCO: Vorderhaus rechts: Da wohnen die neuen Mieter. Möbliert. Die zahlen gut. Die bekommen volle Wärme.
+> 앞채 오른쪽엔 새 세입자들이 살아요. 가구 딸린 집. 돈을 잘 내요. 거긴 난방을 다 줘요.
+TOBI: Und die anderen?
+= Und die anderen?
+> 그럼 나머지는?
+MARCO: Die anderen haben alte Verträge. Energiesparen ist wichtig, Tobi. Gaspreise, Klima und so weiter.
+> 나머지는 옛날 계약이에요. 에너지 절약은 중요해요, 토비. 가스값이며 기후며 그런 거요.
+TOBI: Und wenn eener anruft und sagt, et is kalt?
+= Und wenn einer anruft und sagt, es ist kalt?
+> 그런데 누가 전화해서 춥다고 하면?
+MARCO: Dann gehst du hin. Du bist freundlich. Du sagst: «Ersatzteil ist bestellt. Dauert leider.»
+> 그럼 가 봐요. 친절하게요. 이렇게 말해요. «부품을 주문했어요. 안타깝게도 시간이 좀 걸려요.»
+TOBI: Und is et bestellt?
+= Und ist es bestellt?
+> 그럼 진짜 주문했어?
+MARCO: Tobi. Wir verstehen uns, oder? Das ist eine Anweisung vom Eigentümer. Nicht von mir.
+> 토비. 우리 말 통하죠? 이건 소유주 지시예요. 내 지시가 아니라.
+TOBI: Vom Eigentümer. Und wer is det, der Eigentümer?
+= Vom Eigentümer. Und wer ist das, der Eigentümer?
+> 소유주 지시라. 그럼 소유주가 누군데?
+MARCO: Ein Fonds. Sehr professionell. Du wirst die nie sehen. Ich auch fast nie.
+> 펀드예요. 아주 전문적인. 토비는 평생 못 볼 거예요. 나도 거의 못 보고.
+MARCO: Ich muss los, nach Neukölln. Im Hausmeisterraum liegt eine Objektmappe. Da steht alles drin. Lies sie heute.
+> 난 노이쾰른에 가 봐야 해요. 관리인실에 건물 파일이 있어요. 거기 다 적혀 있으니까 오늘 읽어 둬요.
+MARCO: Willkommen im Team, Tobi. Du wirst hier viel Spaß haben.
+> 팀에 온 걸 환영해요, 토비. 여기서 아주 즐거울 거예요.
+
+# 장면 3 — EIN KALTER HEIZKÖRPER
+TOBI: Diensthandy. Wer ruft denn jetzt schon an? … Hausmeister Rehberg?
+= Diensthandy. Wer ruft denn jetzt schon an? … Hausmeister Rehberg?
+> 업무용 폰. 벌써 누가 전화하는 거야? … 관리인 레베르크입니다?
+GISELA: Ein neuer Hausmeister? Endlich! Hier ist Hoffmann, Vorderhaus, zweiter Stock links. Meine Heizung ist kalt.
+> 새 관리인이에요? 드디어! 여기 호프만이에요, 앞채 2층 왼쪽. 우리 집 난방이 차가워요.
+TOBI: Ick komm sofort, Frau Hoffmann.
+= Ich komme sofort, Frau Hoffmann.
+> 바로 갈게요, 호프만 씨.
+GISELA: Sofort? Das hat hier noch nie jemand gesagt.
+> 바로요? 여기서 그런 말 하는 사람은 처음이네요.
+TOBI: Juten Tag. Rehberg, der neue Hausmeister. Darf ick rein?
+= Guten Tag. Rehberg, der neue Hausmeister. Darf ich rein?
+> 안녕하세요. 새 관리인 레베르크예요. 들어가도 될까요?
+GISELA: Kommen Sie, kommen Sie. Schuhe können Sie anlassen.
+> 들어와요, 들어와요. 신발은 신고 있어도 돼요.
+TOBI: Danke. Wo is der kalte Heizkörper?
+= Danke. Wo ist der kalte Heizkörper?
+> 고마워요. 차가운 라디에이터가 어디예요?
+GISELA: Alle. Aber am schlimmsten im Schlafzimmer.
+> 전부요. 근데 침실이 제일 심해요.
+TOBI: Ick entlüfte mal. Haben Se 'n Lappen?
+= Ich entlüfte mal. Haben Sie einen Lappen?
+> 공기 좀 빼 볼게요. 걸레 있어요?
+GISELA: Hier. Was machen Sie da?
+> 여기요. 지금 뭐 하는 거예요?
+TOBI: Da is Luft drin. Hören Se? Det zischt. Wenn Luft drin is, kommt det warme Wasser nich rein.
+= Da ist Luft drin. Hören Sie? Das zischt. Wenn Luft drin ist, kommt das warme Wasser nicht rein.
+> 안에 공기가 찼어요. 들려요? 쉭쉭 소리. 공기가 차 있으면 따뜻한 물이 안 들어와요.
+GISELA: Das hat mir der alte Hausmeister nie erklärt.
+> 예전 관리인은 그런 걸 한 번도 설명해 준 적이 없어요.
+TOBI: Gab's denn eenen?
+= Gab es denn einen?
+> 예전에 관리인이 있긴 했어요?
+GISELA: Herr Lindner, der Eigentümer, hat alles selbst gemacht. Danach kam niemand. Ein Jahr lang.
+> 소유주였던 린트너 씨가 다 직접 했죠. 그 뒤론 아무도 안 왔어요. 1년 동안.
+TOBI: So. Jetzt wird er 'n bisschen wärmer. Nich janz warm. Aber besser.
+= So. Jetzt wird er ein bisschen wärmer. Nicht ganz warm. Aber besser.
+> 자. 이제 조금 따뜻해질 거예요. 완전히는 아니지만 좀 나을 거예요.
+GISELA: Warum nicht ganz?
+> 왜 완전히는 아니에요?
+TOBI: Det Problem is unten im Keller. Det… äh… da fehlt 'n Teil.
+= Das Problem ist unten im Keller. Das… äh… da fehlt ein Teil.
+> 문제는 아래 지하실에 있어요. 그게… 어… 부품이 하나 모자라서요.
+GISELA: Ein Teil. Das sagen sie immer.
+> 부품. 다들 늘 그렇게 말하죠.
+TOBI: Ick weeß. Det tut mir leid. Ehrlich.
+= Ich weiß. Das tut mir leid. Ehrlich.
+> 알아요. 정말 죄송해요. 진심으로요.
+GISELA: Sie sehen aus, als würden Sie das ernst meinen. Möchten Sie einen Kakao?
+> 진심으로 하는 말 같네요. 코코아 한잔 할래요?
+TOBI: 'n Kakao? Ick… ja. Jerne.
+= Einen Kakao? Ich… ja. Gerne.
+> 코코아요? 저… 네. 좋아요.
+GISELA: Wie viel Zucker?
+> 설탕은 얼마나?
+TOBI: Drei Löffel.
+= Drei Löffel.
+> 세 숟가락이요.
+GISELA: Drei Löffel. Ich kannte mal einen kleinen Jungen hier im Haus, der hat auch drei genommen. Und heimlich vier.
+> 세 숟가락. 예전에 이 건물에 살던 꼬마도 세 숟가락씩 넣었는데. 몰래 네 숟가락.
+TOBI: Wirklich? Wat is aus dem jeworden?
+= Wirklich? Was ist aus dem geworden?
+> 정말요? 그 애는 어떻게 됐어요?
+GISELA: Er schreibt jetzt. Für die Wahrheit, sagt er. Ich glaube, er ist ein guter Mensch.
+> 지금은 글을 써요. 진실을 위해서래요. 좋은 사람인 것 같아요.
+TOBI: Det gloob ick ooch, Frau Hoffmann.
+= Das glaube ich auch, Frau Hoffmann.
+> 저도 그렇게 생각해요, 호프만 씨.
+OLSZEWSKI: Gisela? Ist das der neue Hausmeister? Meine Heizung ist auch kalt!
+> 기젤라? 그 사람이 새 관리인이야? 우리 집 난방도 차가워!
+TOBI: Ick komm, Herr… ?
+= Ich komme, Herr… ?
+> 갈게요, 성함이…?
+OLSZEWSKI: Olszewski. Seitenflügel, zweiter Stock. Und bringen Sie Geduld mit. Ich rede viel.
+> 올셰프스키. 옆채 2층. 그리고 인내심 좀 갖고 와요. 내가 말이 많거든.
+TOBI: Jeduld hab ick. Und 'n Lappen.
+= Geduld habe ich. Und einen Lappen.
+> 인내심은 있어요. 걸레도 있고.
+
+# 장면 4 — BEI HERRN OLSZEWSKI
+OLSZEWSKI: Kommen Sie rein. Vorsicht, die Bücher. Ich habe zu viele Bücher und zu wenig Regale.
+> 들어와요. 조심해요, 책. 책은 너무 많고 책장은 너무 적어서.
+TOBI: Polnische Bücher?
+= Polnische Bücher?
+> 폴란드 책이에요?
+OLSZEWSKI: Polnisch, Deutsch, Russisch. Ich bin 1981 nach Berlin gekommen. Nach Westberlin. Wegen der Politik.
+> 폴란드어, 독일어, 러시아어. 1981년에 베를린에 왔어요. 서베를린으로. 정치 때문에.
+TOBI: Solidarność?
+= Solidarność?
+> 솔리다르노시치?
+OLSZEWSKI: Sie kennen das? Ein junger Mann aus Marzahn kennt Solidarność?
+> 그걸 알아요? 마르찬 출신 젊은이가 솔리다르노시치를 알아?
+TOBI: Mein Opa hat davon erzählt. Der war im Osten. Der fand euch mutig.
+= Mein Opa hat davon erzählt. Der war im Osten. Der fand euch mutig.
+> 우리 할아버지가 얘기해 줬어요. 동독에 사셨는데, 당신들이 용감하다고 하셨어요.
+OLSZEWSKI: Mutig. Wir hatten Angst. Aber wir hatten mehr Wut als Angst.
+> 용감하긴. 우린 무서웠어요. 그래도 두려움보다 분노가 더 컸지.
+TOBI: So. Ihr Heizkörper. Gleiche Sache wie bei Frau Hoffmann. Luft drin.
+= So. Ihr Heizkörper. Gleiche Sache wie bei Frau Hoffmann. Luft drin.
+> 자. 라디에이터요. 호프만 씨네랑 똑같아요. 공기가 찼어요.
+OLSZEWSKI: Und unten im Keller fehlt ein Teil. Ich weiß. Gisela hat es mir schon gesagt. Durch die Wand.
+> 그리고 아래 지하실에 부품이 모자라고. 알아요. 기젤라가 벌써 말해 줬어요. 벽 너머로.
+TOBI: Durch die Wand?
+= Durch die Wand?
+> 벽 너머로요?
+OLSZEWSKI: Altbau. Hier hört jeder alles. Das ist unser Internet.
+> 옛날 건물이잖아요. 여기선 다들 다 들려요. 그게 우리 인터넷이지.
+TOBI: Herr Olszewski, wohnen Se alleene?
+= Herr Olszewski, wohnen Sie alleine?
+> 올셰프스키 씨, 혼자 사세요?
+OLSZEWSKI: Seit meine Frau gestorben ist. 2019. Aber ich bin nicht allein. Ich habe Gisela, Ömer und meine Bücher.
+> 아내가 세상을 떠난 뒤로요. 2019년에. 그래도 외롭진 않아요. 기젤라, 외머, 그리고 내 책들이 있으니까.
+TOBI: Und wenn wat is? Nachts?
+= Und wenn was ist? Nachts?
+> 그럼 무슨 일이 생기면요? 밤에?
+OLSZEWSKI: Dann klopfe ich an die Wand. Dreimal. Gisela klopft zurück.
+> 그럼 벽을 두드리죠. 세 번. 기젤라가 답으로 두드려요.
+TOBI: Hier is meine Nummer. Diensthandy. Rufen Se an. Ooch nachts.
+= Hier ist meine Nummer. Diensthandy. Rufen Sie an. Auch nachts.
+> 여기 제 번호예요. 업무용 폰. 전화하세요. 밤에도요.
+OLSZEWSKI: Ein Hausmeister, der nachts ans Telefon geht? Sie sind nicht von hier, oder?
+> 밤에 전화 받는 관리인이라고? 여기 사람이 아니구먼, 그렇죠?
+TOBI: Ick bin aus Marzahn. Da macht man det so.
+= Ich bin aus Marzahn. Da macht man das so.
+> 전 마르찬 출신이에요. 거기선 원래 그렇게 해요.
+
+# 장면 5 — DIE OBJEKTMAPPE
+TOBI: So. Hausmeisterraum. Objektmappe Gerichtstraße 61.
+= So. Hausmeisterraum. Objektmappe Gerichtstraße 61.
+> 자. 관리인실. 게리히트슈트라세 61번지 건물 파일.
+TOBI: Seite eins: Wartungsplan. Seite zwei: Notfallnummern. Seite drei… «Freizugsplanung».
+= Seite eins: Wartungsplan. Seite zwei: Notfallnummern. Seite drei… «Freizugsplanung».
+> 1쪽, 점검 계획. 2쪽, 비상 연락처. 3쪽… «퇴거 계획».
+TOBI: Freizug. Det Wort kenn ick. Det heißt: Wohnung frei machen.
+= Freizug. Das Wort kenne ich. Das heißt: Wohnung frei machen.
+> 퇴거. 이 말은 알지. 집을 비우게 만든다는 뜻이야.
+TOBI: 'ne Tabelle. Wohnung, Mieter, Status, Maßnahme, Zielmonat.
+= Eine Tabelle. Wohnung, Mieter, Status, Maßnahme, Zielmonat.
+> 표가 있네. 집, 세입자, 상태, 조치, 목표 월.
+TOBI: «Hinterhaus erster Stock, Krüger. Status: verunsichert. Maßnahme: Mietrückstand thematisieren. Zielmonat: Januar.»
+= «Hinterhaus erster Stock, Krüger. Status: verunsichert. Maßnahme: Mietrückstand thematisieren. Zielmonat: Januar.»
+> «뒤채 1층, 크뤼거. 상태: 동요함. 조치: 밀린 월세 문제 제기. 목표 월: 1월.»
+TOBI: Verunsichert. Die haben se verunsichert. Und det steht hier wie 'n Wetterbericht.
+= Verunsichert. Die haben sie verunsichert. Und das steht hier wie ein Wetterbericht.
+> 동요함. 저 사람들이 동요하게 만든 거지. 그런데 그게 일기예보처럼 적혀 있어.
+TOBI: «Vorderhaus erster Stock, Demir. Status: Gewerbe. Maßnahme: Gewerbemietvertrag nicht verlängern. Zielmonat: Juni.»
+= «Vorderhaus erster Stock, Demir. Status: Gewerbe. Maßnahme: Gewerbemietvertrag nicht verlängern. Zielmonat: Juni.»
+> «앞채 1층, 데미르. 상태: 상업 공간. 조치: 상가 임대 계약 연장 거부. 목표 월: 6월.»
+TOBI: Der Kiosk. Die wollen den Kiosk ooch weg haben.
+= Der Kiosk. Die wollen den Kiosk auch weg haben.
+> 키오스크. 키오스크도 없애려는 거야.
+TOBI: «Seitenflügel zweiter Stock, Olszewski. Alter: 80. Maßnahme: keine. Bemerkung: natürliche Fluktuation abwarten.»
+= «Seitenflügel zweiter Stock, Olszewski. Alter: 80. Maßnahme: keine. Bemerkung: natürliche Fluktuation abwarten.»
+> «옆채 2층, 올셰프스키. 나이: 80. 조치: 없음. 비고: 자연 감소 기다릴 것.»
+TOBI: Natürliche Fluktuation. Die warten, bis er stirbt.
+= Natürliche Fluktuation. Die warten, bis er stirbt.
+> 자연 감소. 그 양반이 죽기를 기다리는 거야.
+TOBI: Und hier. Die letzte Zeile.
+= Und hier. Die letzte Zeile.
+> 그리고 여기. 마지막 줄.
+TOBI: Ruhig, Tobi. Fotos. Det is meine Arbeitsmappe. Ick bin der Empfänger. Erlaubt.
+= Ruhig, Tobi. Fotos. Das ist meine Arbeitsmappe. Ich bin der Empfänger. Erlaubt.
+> 진정해, 토비. 사진 찍자. 이건 내 업무 파일이야. 내가 수신자고. 허용된 거야.
+PAULA: Hallo? Sind Sie der neue Hausmeister? Ich brauche den Schlüssel für die Waschküche.
+> 저기요? 새 관리인이세요? 세탁실 열쇠가 필요해서요.
+TOBI: Moment. Hier. Vierter Stock, wa? Paula?
+= Moment. Hier. Vierter Stock, nicht wahr? Paula?
+> 잠깐만요. 여기요. 4층이죠? 파울라 씨?
+PAULA: Woher wissen Sie meinen Namen?
+> 제 이름은 어떻게 아세요?
+TOBI: Steht in meiner Liste. Is Ihre Heizung warm?
+= Steht in meiner Liste. Ist Ihre Heizung warm?
+> 제 명단에 있어요. 집 난방은 따뜻해요?
+PAULA: Ja, sehr. Manchmal zu warm. Ich mache das Fenster auf.
+> 네, 아주요. 가끔 너무 더워요. 창문을 열어요.
+TOBI: Und unten bei Frau Krüger sind's vierzehn Grad.
+= Und unten bei Frau Krüger sind es vierzehn Grad.
+> 그런데 아래 크뤼거 씨네는 14도예요.
+PAULA: Ich weiß. Das ist so unfair. Ich habe es Marco gesagt.
+> 알아요. 너무 불공평해요. 마르코한테도 말했어요.
+TOBI: Und wat hat Marco jesagt?
+= Und was hat Marco gesagt?
+> 그랬더니 마르코가 뭐래요?
+PAULA: Er hat gesagt: «Die alten Mieter sind schwierig. Rede am besten nicht mit ihnen.» Und dass ich sonst Probleme mit meinem Vertrag bekommen kann.
+> «옛 세입자들은 까다로워요. 웬만하면 말 섞지 마세요.» 그리고 안 그러면 제 계약에 문제가 생길 수 있대요.
+TOBI: Hat er det wirklich so jesagt?
+= Hat er das wirklich so gesagt?
+> 정말 그렇게 말했어요?
+PAULA: Per WhatsApp. Warum fragen Sie?
+> 왓츠앱으로요. 왜 물어보세요?
+TOBI: Nur so. Ick bin neu hier. Ick will wissen, wie det hier läuft.
+= Nur so. Ich bin neu hier. Ich will wissen, wie das hier läuft.
+> 그냥요. 여기 처음이라서. 여기가 어떻게 돌아가는지 알고 싶어서요.
+
+# 엔딩 — ZWANZIG UHR
+JAN: Zwanzig Uhr. Tobi? Bist du okay?
+> 여덟 시. 토비? 괜찮아?
+TOBI: Mir jeht's jut. Physisch.
+= Mir geht es gut. Physisch.
+> 난 괜찮아. 몸은.
+JAN: Und sonst?
+> 다른 건?
+TOBI: Ick hab bei Gisela Kakao jetrunken. Mit drei Löffeln Zucker. Sie hat von dir erzählt.
+= Ich habe bei Gisela Kakao getrunken. Mit drei Löffeln Zucker. Sie hat von dir erzählt.
+> 기젤라네서 코코아 마셨어. 설탕 세 숟가락 넣고. 네 얘기 하시더라.
+JAN: Sie weiß nicht, wer du bist?
+> 네가 누군지는 모르시지?
+TOBI: Nee. Det war det Schlimmste am janzen Tag.
+= Nein. Das war das Schlimmste am ganzen Tag.
+> 응. 그게 오늘 하루 중에 제일 힘들었어.
+JAN: Was hast du gefunden?
+> 뭘 찾았어?
+TOBI: 'ne Tabelle. Freizugsplanung. Jede Wohnung, jeder Mieter, 'n Plan, 'n Monat. Krüger Januar. Demir Juni. Olszewski: «natürliche Fluktuation».
+= Eine Tabelle. Freizugsplanung. Jede Wohnung, jeder Mieter, ein Plan, ein Monat. Krüger Januar. Demir Juni. Olszewski: «natürliche Fluktuation».
+> 표 하나. 퇴거 계획. 집마다, 세입자마다, 계획 하나에 달 하나. 크뤼거 1월. 데미르 6월. 올셰프스키는 «자연 감소».
+JAN: Und Gisela?
+> 그럼 기젤라는?
+TOBI: «Vorderhaus zweiter Stock links, Hoffmann. Maßnahme: Eigenbedarf plus Bauphase. Zielmonat: März.»
+= «Vorderhaus zweiter Stock links, Hoffmann. Maßnahme: Eigenbedarf plus Bauphase. Zielmonat: März.»
+> «앞채 2층 왼쪽, 호프만. 조치: 자가 사용 + 공사 단계. 목표 월: 3월.»
