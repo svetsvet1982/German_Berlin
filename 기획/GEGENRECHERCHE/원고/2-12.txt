@@ -1,0 +1,342 @@
+@part 2
+@ep 12
+@title Zwei Lecks
+@sub 두 개의 구멍 · 7월 중순, 미끼를 문 사람과 두 세계를 오가던 한 사람
+@info 대사 150턴 · 난이도 B2 · 배경: 2-11화 며칠 뒤(2027년 7월 중순), 엘케의 선술집, 프리드리히스하인 가판대, Spreewerk 편집국
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast DANA | 다나 슈스터 (48) · LKA 국가 보안 경찰 수사관
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인
+@cast PATRICK | 파트리크 벤트 (39) · IT 보안 전문가
+@note ※ 색출 편입니다. 누설은 하나가 아니라 둘로 보였지만, 실제로는 두 세계를 오가던 한 사람으로 모입니다. 이 화에서 기자(얀)와 경찰(다나)은 서로를 의심하다가, 각자의 조각을 맞춰야만 진실에 닿는다는 것을 깨닫습니다. 등장 인물과 회사는 가상입니다.
+@note ※ 표현 초점: Köder · anbeißen · Doppelrolle · Ex-Polizist · Berater · Drehtür · Vertrauen · zusammenarbeiten
+@next 2부 13화 — «Drohbrief»(협박 편지) — 미라의 신분이 노출되고 집 앞에 협박 편지가 놓인다. 미라의 가족은 취재를 그만두라고 한다. 팀 안에서도 흔들림이 생긴다. 그리고 넬레가 마티와 나눈 대화 녹음을 들고 온다.
+
+# 콜드 오픈 — DER KÖDER WIRD ANGEBISSEN
+MIRA: Jan. Der Köder. Jemand hat angebissen.
+> 얀. 미끼요. 누가 물었어요.
+JAN: Die Wasserwerke?
+> 상수도?
+MIRA: Heute Nacht, drei Uhr siebzehn. Jemand hat das Dokument «Recherche Wasserwerke» geöffnet. Auf dem Köder-Server.
+> 오늘 새벽 세 시 십칠 분에요. 누가 «상수도 취재» 문서를 열었어요. 미끼 서버에서.
+SWETA: Von wo?
+> 어디서?
+MIRA: Über den Zugang, den wir Patrick gegeben haben. Nur er hat diesen Zugang.
+> 우리가 파트리크한테 준 접근 권한으로요. 그 권한은 그 사람만 갖고 있어요.
+LEON: Also ist Patrick das Leck.
+> 그럼 파트리크가 그 구멍이네요.
+JAN: Langsam. Patrick hat den Zugang. Aber hat Patrick das Dokument geöffnet? Oder jemand mit Patricks Zugangsdaten?
+> 천천히. 파트리크한테 권한이 있지. 근데 파트리크가 문서를 열었을까? 아니면 파트리크 접속 정보를 가진 누군가가?
+MIRA: Gute Frage. Deshalb habe ich noch etwas eingebaut. Das Dokument meldet, von welchem Gerät es geöffnet wurde.
+> 좋은 질문이에요. 그래서 하나 더 넣어 뒀어요. 그 문서는 어느 기기에서 열렸는지 알려 줘요.
+JAN: Und?
+> 그래서?
+MIRA: Von einem Gerät, das ich schon kenne. Es war schon einmal in unserem Netzwerk. In der Nacht des Hacks.
+> 제가 이미 아는 기기에서요. 전에도 우리 네트워크에 있었어요. 해킹당한 그 밤에.
+SWETA: Patrick war in der Nacht des Hacks noch gar nicht bei uns.
+> 파트리크는 해킹당한 밤엔 아직 우리한테 안 왔었잖아요.
+MIRA: Genau. Das Gerät, das den Köder geöffnet hat, hat auch den Hack gemacht. Und es benutzt jetzt Patricks Zugang.
+> 맞아요. 미끼를 연 그 기기가 해킹도 했어요. 그리고 지금 파트리크 권한을 쓰고 있고요.
+JAN: Also ist Patrick entweder der Hacker. Oder jemand benutzt ihn. Mit oder ohne sein Wissen.
+> 그럼 파트리크가 해커거나. 아니면 누가 그를 이용하는 거지. 그가 알든 모르든.
+HELENE: Das müssen wir herausfinden. Aber nicht hier. Nicht unter der Wanze.
+> 그걸 알아내야 해요. 근데 여기선 말고요. 도청기 밑에선 안 돼요.
+LEON: Moment. Warum liegt überhaupt ein Köder-Dokument bereit, das genau so ein Gerät verrät?
+> 잠깐만요. 애초에 왜 그런 기기를 밝혀내는 미끼 문서가 준비돼 있었어요?
+MIRA: Weil ich nach dem Hack damit gerechnet habe. Wer einmal einbricht, kommt wieder. Also habe ich eine Tür gebaut, die beim Öffnen klingelt.
+> 해킹당한 뒤에 그럴 거라고 예상했으니까. 한 번 침입한 자는 또 와. 그래서 열면 종이 울리는 문을 만들어 둔 거야.
+LEON: Du denkst immer drei Schritte voraus.
+> 늘 세 수 앞을 보네요.
+MIRA: In diesem Beruf muss man das. Der Gegner denkt auch voraus. Wer stehenbleibt, verliert.
+> 이 일에선 그래야 해. 상대도 앞을 봐. 멈추는 사람이 지는 거야.
+SWETA: Und manchmal denkt der Gegner einen Schritt weiter als wir. Deshalb prüfen wir alles doppelt.
+> 그리고 가끔은 상대가 우리보다 한 수 더 봐요. 그래서 전부 두 번 확인하는 거죠.
+
+# 장면 1 — BEI ELKE, MIT MUSIK
+ELKE: Ihr wollt wieder den Tisch ganz hinten. Mit der lauten Musik. Wat besprecht ihr, dit ihr immer Musik braucht?
+= Ihr wollt wieder den Tisch ganz hinten. Mit der lauten Musik. Was besprecht ihr, dass ihr immer Musik braucht?
+> 또 맨 뒤 테이블이네. 시끄러운 음악 틀고. 대체 뭘 얘기하길래 늘 음악이 필요해?
+JAN: Dinge, die der Tisch nicht hören soll, Elke.
+> 테이블이 들으면 안 되는 것들이야, 엘케.
+ELKE: Mein Tisch is aus Eiche. Der petzt nich. Aber jut, ick dreh die Musik lauter. Udo Lindenberg?
+= Mein Tisch ist aus Eiche. Der petzt nicht. Aber gut, ich drehe die Musik lauter. Udo Lindenberg?
+> 내 테이블은 참나무야. 고자질 안 해. 근데 좋아, 음악 키워 줄게. 우도 린덴베르크?
+JAN: Perfekt. Laut genug.
+> 완벽해. 충분히 시끄러워.
+ELKE: Und ihr esst wat. Ick bring Soljanka. Jemand hat mir 'n Rezept jebracht. 'ne türkische Mama-Variante.
+= Und ihr esst was. Ich bringe Soljanka. Jemand hat mir ein Rezept gebracht. Eine türkische Mama-Variante.
+> 그리고 뭐 좀 먹어. 솔랸카 갖다줄게. 누가 레시피를 줬어. 튀르키예 엄마표로.
+MIRA: Soljanka? Das ist… ein Zufall.
+> 솔랸카요? 그건… 우연이네요.
+ELKE: Nischt is Zufall in meiner Kneipe. Esst.
+= Nichts ist Zufall in meiner Kneipe. Esst.
+> 내 선술집에 우연은 없어. 먹어.
+LEON: Elke, darf ich etwas fragen? Du nimmst uns so selbstverständlich auf. Mit den geheimen Gesprächen. Warum?
+> 엘케, 뭐 좀 물어봐도 돼요? 우릴 이렇게 당연하게 받아 줘요. 비밀 얘기까지. 왜요?
+ELKE: Weil meine Kneipe immer 'n Ort für Leute war, die reden müssen. Wo andere nich zuhören. Seit vierzig Jahren.
+= Weil meine Kneipe immer ein Ort für Leute war, die reden müssen. Wo andere nicht zuhören. Seit vierzig Jahren.
+> 내 선술집은 늘 말해야 하는 사람들을 위한 곳이었으니까. 남들이 안 듣는 데. 40년째.
+LEON: Vierzig Jahre?
+> 40년이요?
+ELKE: Früher ham hier Leute jesessen, die vor der Stasi Angst hatten. Dann vor'm Vermieter. Jetzt vor Firmen mit jetönten Scheiben. Die Angst ändert sich. Die Kneipe bleibt.
+= Früher haben hier Leute gesessen, die vor der Stasi Angst hatten. Dann vor dem Vermieter. Jetzt vor Firmen mit getönten Scheiben. Die Angst ändert sich. Die Kneipe bleibt.
+> 예전엔 슈타지를 무서워하던 사람들이 여기 앉았어. 그다음엔 집주인을. 이제는 선팅한 차 모는 회사들을. 두려움은 바뀌어도 선술집은 그대로야.
+SWETA: Das ist der klügste Satz, den ich heute gehört habe.
+> 오늘 들은 말 중에 제일 현명하네요.
+ELKE: Ick bin Wirtin, nich dumm. Det verwechseln die Leute. Esst eure Soljanka.
+= Ich bin Wirtin, nicht dumm. Das verwechseln die Leute. Esst eure Soljanka.
+> 난 선술집 주인이지 바보가 아니야. 사람들이 그걸 헷갈려. 솔랸카나 먹어.
+JAN: Also. Patrick. Was wissen wir wirklich?
+> 자. 파트리크. 우리가 정말 아는 게 뭐지?
+MIRA: Sein Gerät hat den Hack gemacht und den Köder geöffnet. Das ist sicher. Technisch.
+> 그 사람 기기가 해킹을 했고 미끼를 열었어요. 그건 확실해요. 기술적으로.
+SWETA: Aber warum würde er so dumm sein? Mit demselben Gerät? Ein Profi macht das nicht.
+> 근데 왜 그렇게 멍청하게 굴까요? 같은 기기로? 프로는 그렇게 안 해요.
+JAN: Es sei denn, er ist kein Profi. Oder er will, dass wir ihn finden.
+> 프로가 아니라면 몰라도. 아니면 우리가 그를 찾길 바라거나.
+LEON: Warum sollte er wollen, dass wir ihn finden?
+> 왜 우리가 그를 찾길 바라겠어요?
+MIRA: Vielleicht ist Patrick selbst ein Köder. Von denen. Sie opfern ihn, damit wir aufhören zu suchen. «Wir haben das Leck gefunden», denken wir. Und suchen nicht weiter.
+> 어쩌면 파트리크 자신이 미끼일지도 몰라요. 저쪽이 놓은. 우리가 그만 찾게 하려고 그를 버리는 거죠. «구멍을 찾았다»고 우리가 생각하게요. 그리고 더 안 찾게.
+HELENE: Ein Köder gegen unseren Köder. Das wäre raffiniert.
+> 우리 미끼를 겨눈 미끼라. 그건 교묘하네요.
+JAN: Dann dürfen wir Patrick nicht konfrontieren. Noch nicht. Wir müssen wissen, wer hinter ihm steht.
+> 그럼 파트리크를 추궁하면 안 돼요. 아직은. 그 뒤에 누가 있는지 알아야 해요.
+HELENE: Und wie verhalten wir uns morgen? Patrick kommt um neun.
+> 그럼 내일은 어떻게 행동해요? 파트리크가 아홉 시에 와요.
+JAN: Normal. Freundlich. Wir danken ihm, dass er die Hintertür geschlossen hat. Wir lächeln.
+> 평소대로요. 친절하게. 뒷문 닫아 줘서 고맙다고 하고요. 웃으면서.
+TOBI: Ick kann nich lächeln, wenn ick weeß, det eener uns belauscht.
+= Ich kann nicht lächeln, wenn ich weiß, dass einer uns belauscht.
+> 누가 우릴 엿듣는 걸 알면서는 못 웃어.
+SWETA: Dann lächle nicht, Tobi. Sei einfach einsilbig. Das passt zu dir.
+> 그럼 웃지 마, 토비. 그냥 말 짧게 해. 너한테 어울려.
+TOBI: Danke, Sweta. Sehr nett.
+= Danke, Sweta. Sehr nett.
+> 고마워, 스베타. 참 친절하네.
+HELENE: Genug. Morgen ist jeder normal. Und wir reden über Wichtiges nur bei Elke. Verstanden?
+> 그만. 내일은 다들 평소대로예요. 그리고 중요한 건 엘케네서만 얘기해요. 알겠죠?
+
+# 장면 2 — DANA RUFT AN
+DANA: Herr Kowalczyk. Mein Telefon hat wieder eine Taste gedrückt. In meiner Tasche.
+> 코발치크 씨. 또 제 전화가 버튼을 눌렀네요. 주머니 속에서요.
+JAN: Frau Schuster. Schöner Zufall.
+> 슈스터 씨. 좋은 우연이네요.
+DANA: Ich muss Sie etwas fragen. Und diesmal ist es ernst. Haben Sie bei sich in der Redaktion ein Problem? Ein Informationsleck?
+> 하나 물어봐야 해요. 그리고 이번엔 진지해요. 편집국에 문제가 있어요? 정보 유출이요?
+JAN: Warum fragen Sie?
+> 왜 물어보세요?
+DANA: Weil ich bei uns eins habe. Und weil ich den Verdacht habe, dass es dasselbe ist.
+> 저희한테도 하나 있으니까요. 그리고 그게 같은 거라는 의심이 들어서요.
+JAN: Erklären Sie.
+> 설명해 주세요.
+DANA: Ihr Hinweis zu Spandau. Donnerstag, drei Brücken. Ich habe ihn nur an eine Person weitergegeben. An meinen Vorgesetzten.
+> 슈판다우 제보 말이에요. 목요일, 다리 세 곳. 전 그걸 딱 한 사람한테만 전달했어요. 제 상관한테요.
+JAN: Und?
+> 그래서요?
+DANA: Und am selben Abend wurde die «Kampagne» abgesagt. Wegen «zu viel Aufmerksamkeit». Jemand hat gewarnt. Von meiner Seite.
+> 그리고 같은 날 저녁에 «캠페인»이 취소됐어요. «관심이 너무 많다»며. 누가 경고한 거예요. 제 쪽에서.
+JAN: Ihr Vorgesetzter?
+> 당신 상관이요?
+DANA: Oder jemand, dem mein Vorgesetzter vertraut. Ich weiß es nicht. Aber ich weiß: Ich habe korrekt gehandelt, und trotzdem ist es durchgesickert.
+> 아니면 제 상관이 믿는 누군가거나요. 모르겠어요. 근데 이건 알아요. 전 제대로 처리했는데도 샜어요.
+JAN: Frau Schuster, warum erzählen Sie mir das? Das ist ein internes Polizeiproblem.
+> 슈스터 씨, 왜 저한테 이걸 얘기해요? 그건 경찰 내부 문제잖아요.
+DANA: Weil ich allein nicht weiterkomme. Und weil ich glaube, dass Sie ein Teil des Puzzles haben, das mir fehlt. Und ich eins, das Ihnen fehlt.
+> 저 혼자서는 더 못 나가니까요. 그리고 당신이 제게 없는 퍼즐 조각을 갖고 있다고 믿으니까요. 그리고 전 당신한테 없는 조각을 갖고 있고요.
+JAN: Sie schlagen vor, dass wir zusammenarbeiten?
+> 같이 일하자는 말씀이세요?
+DANA: Ich schlage nichts vor. Das wäre gegen die Regeln. Ich sage nur: Wenn zwei Menschen zufällig dasselbe suchen, ist es dumm, sich gegenseitig zu misstrauen.
+> 전 아무것도 제안 안 해요. 그건 규칙에 어긋나니까. 그냥 이렇게 말할게요. 두 사람이 공교롭게도 같은 걸 찾는다면, 서로를 의심하는 건 멍청한 짓이죠.
+JAN: Und doch misstrauen wir uns. Sie mir, ich Ihnen.
+> 그런데도 우린 서로 의심하죠. 당신은 나를, 나는 당신을.
+DANA: Natürlich. Misstrauen ist die Basis jeder guten Zusammenarbeit. Vertrauen kommt später. Vielleicht.
+> 당연하죠. 불신은 모든 좋은 협업의 바탕이에요. 신뢰는 나중에 와요. 어쩌면.
+JAN: Das klingt wie etwas, das Mira sagen würde.
+> 그건 미라가 할 법한 말인데요.
+DANA: Dann ist Ihre Mira klug. Grüßen Sie sie. Von niemandem.
+> 그럼 당신네 미라가 현명하네요. 안부 전해 줘요. 아무도 안 보낸 걸로.
+JAN: Ich kenne keine Mira.
+> 전 미라를 몰라요.
+DANA: Sehr gut. Sie lernen wirklich.
+> 아주 좋아요. 정말 배우시네요.
+
+# 장면 3 — MISSTRAUEN UND VERTRAUEN
+HELENE: Du willst mit einer Polizistin zusammenarbeiten. Das ist gegen alles, was wir sind.
+> 경찰관이랑 같이 일하겠다는 거죠. 그건 우리의 모든 원칙에 어긋나요.
+JAN: Ich will nicht zusammenarbeiten. Ich will Informationen tauschen. Vorsichtig. Jeder behält seine Rolle.
+> 같이 일하려는 게 아니에요. 정보를 교환하려는 거죠. 조심해서. 각자 자기 역할은 지키고요.
+SWETA: In Russland nennt man Journalisten, die mit der Polizei tauschen, «Mitarbeiter». Das ist kein Kompliment.
+> 러시아에선 경찰이랑 정보를 주고받는 기자를 «협력자»라고 불러요. 칭찬이 아니에요.
+JAN: Ich weiß, Sweta. Deshalb sind die Regeln wichtig. Wir geben ihr nichts über unsere Quellen. Nichts über Sabine, nichts über Kuhlmann, nichts über Nele.
+> 알아요, 스베타. 그래서 규칙이 중요한 거예요. 취재원에 대해선 아무것도 안 줘요. 자비네도, 쿨만도, 넬레도 아무것도.
+KATRIN: Und sie gibt euch nichts aus laufenden Ermittlungen, was ihr nicht sowieso selbst findet.
+> 그리고 그 사람도 너희가 어차피 스스로 찾을 것 말고는 진행 중인 수사 내용을 안 줘.
+HELENE: Was tauscht ihr dann überhaupt?
+> 그럼 대체 뭘 교환해요?
+JAN: Namen, die wir beide schon haben. Patterns. Ein «Das passt zu dem, was ich sehe». Oder «Das passt nicht».
+> 우리 둘 다 이미 가진 이름들. 패턴. «그건 내가 보는 거랑 맞다.» 아니면 «안 맞는다.»
+MIRA: Eine Verifikation, keine Enthüllung. Das ist ein Unterschied.
+> 폭로가 아니라 검증. 그건 다른 거죠.
+HELENE: Und wenn sie uns benutzt? Die Polizei benutzt Journalisten gern.
+> 그러다 그 사람이 우릴 이용하면요? 경찰은 기자 이용하길 좋아해요.
+JAN: Dann benutzen wir sie auch. Das ist ehrlicher als Freundschaft. Beide wissen, woran sie sind.
+> 그럼 우리도 그 사람을 이용하는 거죠. 그게 우정보다 정직해요. 둘 다 서로의 처지를 아니까요.
+SWETA: Und wenn Dana selbst das Leck ist? Sie kommt genau im richtigen Moment.
+> 그럼 다나 자신이 그 구멍이면요? 딱 맞는 순간에 나타났잖아요.
+JAN: Das ist möglich. Deshalb teste ich sie. Mit einem Köder. Wie Patrick.
+> 가능하죠. 그래서 그 사람도 시험할 거예요. 미끼로. 파트리크처럼.
+HELENE: Du gibst Dana eine falsche Information. Und schaust, ob sie bei der Gegenseite landet.
+> 다나한테 가짜 정보를 주고. 그게 상대편한테 가는지 보는 거군요.
+JAN: Genau. Vertrauen ist gut. Ein Köder ist besser.
+> 맞아요. 신뢰는 좋죠. 미끼가 더 낫고요.
+
+# 장면 4 — DER TEST
+JAN: Frau Schuster. Ich habe etwas für Sie. Aber nur unter uns.
+> 슈스터 씨. 드릴 게 있어요. 근데 우리끼리만요.
+DANA: Ich höre.
+> 듣고 있어요.
+JAN: Wir haben einen Hinweis, dass am nächsten Dienstag etwas an einem Umspannwerk in Köpenick passieren soll. Wir prüfen es noch.
+> 다음 주 화요일에 쾨페닉의 변전소에서 뭔가 일어날 거라는 제보를 받았어요. 아직 확인 중이고요.
+DANA: Köpenick. Dienstag. Verstanden. Danke.
+> 쾨페닉. 화요일. 알겠어요. 고마워요.
+JAN: Prüfen Sie es vorsichtig. Es ist noch nicht sicher.
+> 조심해서 확인해 보세요. 아직 확실하진 않아요.
+MIRA: Das war der Köder. Köpenick, Dienstag. Es gibt keinen solchen Hinweis. Ich habe ihn erfunden.
+> 그게 미끼였어요. 쾨페닉, 화요일. 그런 제보는 없어요. 제가 지어냈어요.
+SWETA: Und jetzt beobachten wir die Gruppe. Wenn «Köpenick, Dienstag» dort auftaucht, kommt das Leck über Dana.
+> 그리고 이제 그룹을 지켜봐요. «쾨페닉, 화요일»이 거기 뜨면, 그 구멍은 다나를 통한 거예요.
+JAN: Und wenn es nicht auftaucht, ist Dana sauber. Oder vorsichtig genug.
+> 그리고 안 뜨면, 다나는 깨끗한 거고요. 아니면 충분히 신중하거나.
+LEON: Wie lange warten wir?
+> 얼마나 기다려요?
+MIRA: Beim letzten Mal waren es Stunden. Von der Warnung bis zur Absage.
+> 지난번엔 몇 시간이었어요. 경고에서 취소까지.
+MIRA: Jan. Es ist zwei Stunden her. Und schau. In der Gruppe.
+> 얀. 두 시간 지났어요. 그리고 봐요. 그룹에.
+JAN: Lies.
+> 읽어 봐.
+MIRA: «Elektriker_Spandau: Achtung, Köpenick ist beobachtet. Dienstag nichts machen. Die wissen Bescheid.»
+> «일렉트리커_슈판다우: 주의, 쾨페닉 감시당하고 있음. 화요일엔 아무것도 하지 말 것. 저쪽이 알고 있음.»
+SWETA: Köpenick, Dienstag. Genau unser Köder. Zwei Stunden nach Dana.
+> 쾨페닉, 화요일. 딱 우리 미끼예요. 다나한테 준 지 두 시간 뒤에요.
+JAN: Also kommt das Leck wirklich über Dana. Oder über ihren Vorgesetzten.
+> 그럼 그 구멍은 정말 다나를 통한 거네. 아니면 그 상관을 통하거나.
+HELENE: Dana hat es nur einer Person gegeben. Ihrem Vorgesetzten. Also ist das Leck ihr Vorgesetzter. Oder jemand, der ihm nahesteht.
+> 다나는 그걸 딱 한 사람한테만 줬어요. 상관한테요. 그럼 그 구멍은 상관이거나. 아니면 상관과 가까운 사람이거나.
+LEON: Aber Moment. Könnte es nicht auch so sein, dass Dana selbst es weitergegeben hat? Und uns jetzt eine Geschichte erzählt?
+> 근데 잠깐만요. 다나가 직접 넘기고 지금 우리한테 이야기를 지어내는 걸 수도 있잖아요?
+JAN: Könnte sein. Deshalb war der Test so gebaut, dass auch Dana nicht wusste, dass es ein Test ist.
+> 그럴 수 있지. 그래서 그 시험을 다나조차 시험인 줄 모르게 짰어.
+MIRA: Wenn Dana das Leck wäre, hätte sie «Köpenick, Dienstag» selbst weitergegeben. Dann wüsste sie, dass es eine Falle sein könnte. Und wäre vorsichtig.
+> 다나가 그 구멍이라면 «쾨페닉, 화요일»을 직접 넘겼겠죠. 그럼 그게 함정일 수 있다는 걸 알고 조심했을 거예요.
+SWETA: War sie vorsichtig?
+> 조심했어?
+MIRA: Nein. Sie hat ganz normal reagiert. Sie hat es an Reinhardt gegeben, wie immer. Ohne Zögern. Das spricht für sie.
+> 아니요. 아주 평소처럼 반응했어요. 라인하르트한테 넘겼어요, 늘 그렇듯이. 망설임 없이. 그건 그 사람한테 유리해요.
+JAN: Es spricht für sie. Aber es beweist nichts. Deshalb bleiben wir auch bei Dana vorsichtig.
+> 유리하지. 근데 증명은 아니야. 그래서 다나한테도 계속 조심하는 거고.
+
+# 장면 5 — DER MANN DAZWISCHEN
+DANA: Sie haben mich getestet.
+> 저를 시험했군요.
+JAN: Ja. Entschuldigung. Ich musste.
+> 네. 죄송해요. 그래야 했어요.
+DANA: Ich hätte dasselbe getan. Und? Habe ich bestanden?
+> 저도 똑같이 했을 거예요. 그래서요? 제가 통과했어요?
+JAN: Sie haben bestanden. Das Leck ist nicht bei Ihnen. Es ist über Ihren Hinweis gegangen. An den «Elektriker».
+> 통과했어요. 구멍은 당신이 아니에요. 당신 제보를 거쳐 갔어요. «일렉트리커»한테.
+DANA: Mein Vorgesetzter heißt Reinhardt. Kriminaldirektor. Ich habe ihm vertraut. Zwanzig Jahre.
+> 제 상관 이름은 라인하르트예요. 수사국장. 20년 동안 믿었어요.
+JAN: Glauben Sie, dass Reinhardt das Leck ist?
+> 라인하르트가 그 구멍이라고 생각하세요?
+DANA: Nein. Reinhardt ist alt und faul, aber nicht korrupt. Er gibt solche Hinweise weiter. An einen externen Berater. Für «Lagebeurteilungen».
+> 아니요. 라인하르트는 늙고 게으르지만 부패하진 않았어요. 그런 제보를 넘겨요. 외부 자문가한테요. «상황 평가»를 위해서요.
+JAN: Einen externen Berater. Bei der Polizei?
+> 외부 자문가요. 경찰에?
+DANA: Nach dem großen Stromausfall hat das Land externe Sicherheitsberater eingekauft. Für die «Resilienz». Einer davon berät meine Abteilung.
+> 대정전 뒤에 주 정부가 외부 보안 자문가들을 샀어요. «회복력»을 위해서요. 그중 하나가 우리 부서에 자문을 해요.
+JAN: Wie heißt er?
+> 이름이 뭐예요?
+DANA: Ein ehemaliger Kollege. Ex-Polizist. Vor drei Jahren pensioniert, dann in die Privatwirtschaft. Er sitzt bei uns und bei den Firmen. Gleichzeitig.
+> 전 동료예요. 전직 경찰. 3년 전에 퇴직하고 민간으로 갔죠. 우리 쪽에도 앉아 있고 회사들 쪽에도 앉아 있어요. 동시에.
+JAN: Eine Drehtür. Wie bei Thal.
+> 회전문이네요. 탈처럼요.
+DANA: Genau wie bei Thal. Sein Name ist Gregor Sandmann. Und, Herr Kowalczyk: Den Namen haben Sie nicht von mir.
+> 탈이랑 똑같아요. 이름은 그레고어 잔트만이에요. 그리고 코발치크 씨, 그 이름은 저한테서 들은 게 아니에요.
+JAN: Welchen Namen?
+> 무슨 이름이요?
+DANA: Sehen Sie. Sie lernen.
+> 보세요. 배우시네요.
+JAN: Eine Frage noch, Frau Schuster. Warum riskieren Sie das? Einen Kollegen verdächtigen. Mit einem Journalisten reden. Das kann Ihre Karriere kosten.
+> 질문 하나 더요, 슈스터 씨. 왜 이걸 감수하세요? 동료를 의심하고. 기자랑 얘기하고. 경력을 날릴 수도 있잖아요.
+DANA: Ich bin achtundvierzig. Ich habe zwanzig Jahre Dienst. Ich habe genug gesehen, um zu wissen, wann ich den Mund halte. Und wann nicht.
+> 전 마흔여덟이에요. 근무 20년. 입을 닫을 때와 열 때를 알 만큼 충분히 봤어요.
+JAN: Und jetzt ist nicht?
+> 그럼 지금은 열 때라는 거네요?
+DANA: Jemand benutzt meine Arbeit, um Menschen in Gefahr zu bringen. Und verdient Geld damit. Das ist der Moment, in dem ich nicht mehr schweige.
+> 누가 제 일을 이용해서 사람들을 위험에 빠뜨려요. 그리고 그걸로 돈을 벌고요. 그게 제가 더는 침묵하지 않는 순간이에요.
+JAN: Dann sind wir uns ähnlich. Beide hören auf zu schweigen, wenn es um Leben geht.
+> 그럼 우린 닮았네요. 둘 다 생명이 걸리면 침묵을 멈추니까요.
+DANA: Nur dass ich eine Waffe trage und Sie einen Notizblock. Manchmal ist der Notizblock gefährlicher.
+> 단지 전 총을 차고 당신은 수첩을 들었죠. 가끔은 수첩이 더 위험하고요.
+
+# 엔딩 — GREGOR SANDMANN
+MIRA: Gregor Sandmann. Ich habe ihn. Ex-Polizist, LKA, bis 2024. Dann selbstständig als «Sicherheitsberater».
+> 그레고어 잔트만. 찾았어요. 전직 경찰, LKA, 2024년까지. 그다음에 «보안 자문가»로 독립.
+JAN: Für wen berät er?
+> 누구한테 자문을 해?
+MIRA: Für das Land Berlin, Abteilung Staatsschutz. Und, parallel, für drei private Firmen.
+> 베를린 주 정부, 국가 보안 부서요. 그리고 동시에 민간 회사 세 곳.
+SWETA: Welche drei?
+> 어느 세 곳?
+MIRA: Sentinel Hauptstadt. Castra Security. Und eine Beratungsfirma als Dach über allem.
+> 센티넬 하우프트슈타트. 카스트라 시큐리티. 그리고 그 전부를 덮는 자문 회사 하나.
+LEON: Lass mich raten. Thal und Partner.
+> 맞혀 볼게요. 탈 & 파트너.
+MIRA: Thal und Partner. Sandmann ist dort «Senior Advisor Sicherheit».
+> 탈 & 파트너요. 잔트만은 거기 «보안 수석 자문»이에요.
+JAN: Also ist Sandmann der Mann dazwischen. Er sitzt bei der Polizei und hört die Hinweise. Und er sitzt bei Sentinel und gibt sie weiter.
+> 그럼 잔트만이 그 사이의 사람이야. 경찰에 앉아 제보를 듣고. 센티넬에 앉아 그걸 넘기고.
+HELENE: Zwei Lecks waren nie zwei. Es war immer eins. Ein Mann mit zwei Stühlen.
+> 구멍 두 개는 애초에 둘이 아니었어요. 늘 하나였죠. 의자 두 개를 가진 한 남자.
+JAN: Und derselbe Mann hat wahrscheinlich Patrick zu uns geschickt. Und die Wanze bestellt.
+> 그리고 같은 남자가 아마 파트리크를 우리한테 보냈을 거예요. 그리고 도청기도 주문했고요.
+MIRA: Jan. Ich habe ein Foto von Sandmann gefunden. Von einer Sicherheitskonferenz. Und neben ihm steht jemand.
+> 얀. 잔트만 사진을 찾았어요. 보안 콘퍼런스에서요. 그리고 그 옆에 누가 서 있어요.
+JAN: Kasper?
+> 카스퍼?
+MIRA: Nicht Kasper. Höher. Der Mann, der nur zehn Minuten in Adlershof war. Im schwarzen SUV. Es ist Maximilian Thal.
+> 카스퍼가 아니에요. 더 위요. 아들러스호프에 딱 10분 있었던 그 남자. 검은 SUV의. 막시밀리안 탈이에요.
+HELENE: Vorsicht. Ein Foto von zwei Männern auf einer Konferenz beweist keine Verschwörung. Thal redet mit vielen Menschen.
+> 조심해요. 콘퍼런스에서 찍은 두 남자 사진이 음모를 증명하진 않아요. 탈은 많은 사람과 얘기하니까요.
+MIRA: Ich weiß. Es ist kein Beweis. Es ist eine Linie. Thal, Sandmann, Sentinel, Castra, Patrick, die Wanze, Marty.
+> 알아요. 증거가 아니죠. 선이에요. 탈, 잔트만, 센티넬, 카스트라, 파트리크, 도청기, 마티.
+JAN: Eine Linie, die wir sehen. Die wir aber nicht alle beweisen können.
+> 우리 눈엔 보이는 선. 근데 전부 증명할 수는 없는.
+SWETA: Noch nicht. Wir haben Sandmann. Das ist konkret. Ein Mann mit zwei Stühlen, das ist eine Geschichte.
+> 아직은요. 우린 잔트만을 잡았어요. 그건 구체적이에요. 의자 둘 가진 남자, 그건 기사가 돼요.
+HELENE: Dann ist das unsere nächste Geschichte. Sandmann, die Drehtür, das Leck. Mit Belegen. Ohne Spekulation über Thal.
+> 그럼 그게 다음 기사예요. 잔트만, 회전문, 누설. 증거와 함께. 탈에 대한 추측은 빼고.
+JAN: Und Thal bleibt im Hintergrund. Wie immer. Sauber. Auf dem Papier.
+> 그리고 탈은 배경에 남고요. 늘 그렇듯이. 깨끗하게. 서류상으로는.
+MIRA: Bis jemand redet. Irgendwann redet immer jemand.
+> 누가 입을 열 때까지요. 언젠가는 늘 누군가 입을 열어요.
+LEON: Und wenn niemand redet?
+> 그럼 아무도 입을 안 열면요?
+JAN: Dann suchen wir weiter. Das ist der Beruf. Gegenrecherche. Bis zum Ende.
+> 그럼 계속 찾는 거야. 그게 이 일이야. 반대 취재. 끝까지.
+TOBI: Und Patrick? Wat machen wir mit dem?
+= Und Patrick? Was machen wir mit dem?
+> 그럼 파트리크는? 걔는 어떡해?
+JAN: Patrick bleibt. Noch. Er ist unsere Verbindung zu Sandmann. Solange er glaubt, wir vertrauen ihm, führt er uns weiter.
+> 파트리크는 둬. 아직. 그 사람이 잔트만으로 가는 우리 연결 고리야. 우릴 믿는다고 생각하는 한, 우릴 더 끌고 가 줄 거야.
+HELENE: Ein gefährliches Spiel. Aber das einzige, das wir haben.
+> 위험한 게임이네요. 근데 우리한테 있는 유일한 거고요.
+JAN: Dann spielen wir es. Vorsichtig. Und wir vergessen nie, wer uns zuhört.
+> 그럼 하는 거죠. 조심해서. 그리고 누가 우릴 듣는지 절대 잊지 않고요.
