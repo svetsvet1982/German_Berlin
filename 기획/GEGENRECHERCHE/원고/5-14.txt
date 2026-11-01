@@ -1,0 +1,375 @@
+@part 5
+@ep 14
+@title Wer pflegt, wer kassiert
+@sub 누가 돌보고 누가 챙기나 · 답변, 공개, 그리고 공청회
+@info 대사 150턴 · 난이도 B2+ · 배경: 2028년 7월 말~8월 초, Spreewerk 편집국, 엘케의 선술집, 연방의회 파울뢰베하우스 보건위원회 회의실
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@cast HORST | 호르스트 렘케 (84) · 증인
+@cast IOANA | 이오아나 (29) · 증인
+@cast BÄRBEL | 배르벨 크란츠 (56) · «Pflege daheim Wedding» 대표 (베를린 사투리)
+@cast WEBER | 베버 박사 (63) · 재단 이사장
+@cast GERLACH | 쿠르트 게를라흐 (79) · 전 조넨호프 환자
+@cast HAASE | 클레멘스 하제 박사 (54) · Pflege Plus Berlin 대표
+@cast HOLM | 카린 홀름 (49) · 연방의회 의원, 보건위원회 위원
+@cast VORSITZ | 위원장 (60) · 보건위원회 위원장
+@note ※ 반론 요청(질문서) 답변이 돌아오고, 기사·증언 영상·청구 데이터를 함께 공개한다. 하제는 "개별 업체의 일탈"이라 답하고 문제 회원사를 연합에서 '정지'한다. 공개는 연방의회 보건위원회 공청회 당일 아침. 의원 한 명이 기사를 들고 하제에게 묻는다. 등장 인물·정당·업체 가상.
+@note ※ 표현 초점: die Anhörung · der Einzelfall · systematisch · die Konsequenzen · die Kontrolle · die Stellungnahme
+@next 5부 15화 — «Horst kommt nach Hause»(호르스트, 집에 오다) — 간병보험 대규모 감사, 하제의 위원회 직 사퇴, 이오아나는 피해자 지위를 인정받는다. 5부 피날레.
+
+# 콜드 오픈 — ACHT UHR
+LEON: Acht Uhr. Neun E-Mails. Neun Adressaten. Hundertzwölf Fragen. Frist: sieben Tage, bis Freitag, achtzehn Uhr.
+> 8시. 메일 아홉 통. 수신자 아홉. 질문 112개. 기한: 7일, 금요일 18시까지.
+HELENE: Abgeschickt?
+> 보냈어?
+LEON: Abgeschickt. Mit Lesebestätigung. Und als Brief, per Einschreiben. Damit niemand sagen kann, die Mail sei im Spam gelandet.
+> 보냈어요. 수신 확인 요청 붙여서. 그리고 등기 우편으로도. 메일이 스팸함에 들어갔다고 아무도 말 못 하게.
+KATRIN: Gut. Und jede Frage ist eine Frage. Keine versteckte Behauptung. Ich habe sie dreimal gelesen.
+> 좋아. 그리고 질문 하나하나가 질문이야. 숨은 주장 없이. 세 번 읽었어.
+JAN: Wie viele davon gehen an Haase persönlich?
+> 그중 몇 개가 하제 개인한테 가?
+LEON: Achtzehn. Die wichtigste ist Nummer sieben: «Wussten Sie oder Mitarbeiter der Verbundzentrale, dass Mitgliedsdienste Leistungen abrechnen, die nicht erbracht wurden? Wenn ja, seit wann?»
+> 열여덟. 제일 중요한 건 7번. «당신 또는 연합 본부 직원은 회원사들이 제공되지 않은 서비스를 청구한다는 걸 알았습니까? 그렇다면 언제부터입니까?»
+SWETA: Und Nummer acht?
+> 그리고 8번은?
+LEON: «Warum hat die Verbundzentrale im Juni die Personalliste von Sonnenhof mit Pressefotos abgleichen lassen?»
+> «연합 본부는 왜 6월에 조넨호프 직원 명단을 언론 사진과 대조하게 했습니까?»
+HELENE: Die Frage wird ihm nicht gefallen.
+> 그 질문 마음에 안 들 거야.
+JAN: Fragen müssen nicht gefallen. Sie müssen fair sein. Und beantwortbar.
+> 질문은 마음에 들 필요 없어. 공정해야 하고. 답할 수 있어야지.
+
+# 장면 1 — DIE ERSTEN ANTWORTEN
+MIRA: Dienstag. Die erste Antwort. Von Sonnenhof. Über ihren Anwalt. Kanzlei Hardenberg und Voss.
+> 화요일. 첫 답변. 조넨호프에서. 변호사를 통해서. 하르덴베르크 & 포스 법률사무소.
+JAN: Hardenberg und Voss. Die Kanzlei aus Teil eins. Die für Urban Nest geschrieben hat.
+> 하르덴베르크 & 포스. 1부의 그 사무소. 어반 네스트를 대리했던.
+MIRA: Dieselbe. Inhalt: Alle Vorwürfe werden zurückgewiesen. Etwaige Abrechnungsfehler beruhen auf einer fehlerhaften Software, die inzwischen ersetzt wurde. Frau Aydın hat Patienten vernachlässigt. Und eine Unterlassungserklärung liegt bei.
+> 같은 데요. 내용: 모든 의혹을 부인. 혹시 있을 청구 오류는 이미 교체된 잘못된 소프트웨어 탓. 아이든 씨가 환자를 방치했다. 그리고 부작위 서약서 첨부.
+KATRIN: Die Software. Wallner hat es vorhergesagt. «Ein Versehen. Die Software.»
+> 소프트웨어. 발너 씨가 예측했지. «실수예요. 소프트웨어가요.»
+LEON: Und Brandes?
+> 그리고 브란데스는요?
+MIRA: Brandes schreibt selbst. Drei Sätze. «Ein Gespräch mit Frau Kranz hat stattgefunden. Die von Ihnen zitierten Äußerungen wurden in dieser Form nicht getätigt. Weitere Fragen beantworte ich nicht.»
+> 브란데스는 직접 썼어요. 세 문장. «크란츠 씨와의 대화는 있었다. 당신들이 인용한 발언은 그런 형태로 하지 않았다. 추가 질문엔 답하지 않겠다.»
+SWETA: «In dieser Form.» Das heißt: in einer anderen Form schon.
+> «그런 형태로.» 그 말은: 다른 형태로는 했다는 거죠.
+KATRIN: So lesen wir es. So schreiben wir es nicht. Wir zitieren seine Antwort vollständig. Und daneben, was zwei unabhängige Zeugen protokolliert haben.
+> 우린 그렇게 읽지. 그렇게 쓰진 않아. 그의 답변을 전부 인용해. 그리고 그 옆에 독립 증인 둘이 기록한 걸.
+MIRA: Mittwoch. Nordlicht Wohnen. «Die Verwaltung der Immobilie Spandau ist an einen Dienstleister delegiert. Der Fonds hatte keine Kenntnis von der Belegungssituation und hat den Dienstleister zur Stellungnahme aufgefordert.»
+> 수요일. 노르트리히트 보넨. «슈판다우 부동산 관리는 서비스 업체에 위임돼 있다. 펀드는 거주 상황을 알지 못했으며 서비스 업체에 해명을 요구했다.»
+JAN: Keine Kenntnis. Wie in Teil eins. Ein Fonds weiß nie, wer in seinen Häusern wohnt. Nur, wie viel sie zahlen.
+> 알지 못했다. 1부 때처럼. 펀드는 자기 집에 누가 사는지 절대 몰라. 얼마 내는지만 알지.
+
+# 장면 2 — THAL SCHWEIGT. WIEDER.
+MIRA: Donnerstag. Thal und Partner. Keine Antwort auf die Fragen. Stattdessen ein Schreiben ihrer Anwälte. «Unsere Mandantin hat keinerlei Geschäftsbeziehung zu Herrn Kessler oder der MK Personalberatung. Die TP Compliance Services GmbH vertreibt eine handelsübliche Software. Jede gegenteilige Darstellung wird rechtliche Schritte nach sich ziehen.»
+> 목요일. 탈 & 파트너. 질문엔 답 없음. 대신 변호사 서한. «우리 의뢰인은 케슬러 씨나 MK 인사컨설팅과 어떤 거래 관계도 없다. TP 컴플라이언스 서비스 GmbH는 시판 소프트웨어를 판매한다. 이와 다른 묘사는 법적 조치로 이어질 것이다.»
+SWETA: Wie bei Tempelhof. Keine Antwort. Nur eine Warnung.
+> 템펠호프 때처럼. 답 없음. 경고만.
+KATRIN: Und hier wird es schwierig. Was wissen wir über TP Compliance aus eigener Quelle?
+> 그리고 여기서 어려워져. TP 컴플라이언스에 대해 우리 자체 출처로 아는 게 뭐야?
+JAN: Nichts. Die Zahlungen kennen wir nur von Dana. Inoffiziell. Und sie hat gesagt: «Das hast du nicht von mir.»
+> 없어. 지불 내역은 다나한테서만 알아. 비공식으로. 그리고 다나가 그랬지. «이건 나한테서 들은 거 아니야.»
+HELENE: Dann schreiben wir es nicht. Nicht in diesem Artikel.
+> 그럼 안 써. 이 기사엔.
+LEON: Aber das ist die wichtigste Verbindung! Kessler zahlt zwanzig Prozent an eine Thal-Tochter!
+> 근데 그게 제일 중요한 연결 고리잖아요! 케슬러가 탈 자회사에 20퍼센트를 낸다고요!
+HELENE: Es ist die wichtigste Verbindung, die wir nicht belegen können. Wenn wir sie drucken und Thal klagt, müssen wir Dana als Quelle nennen oder verlieren. Beides werden wir nicht tun.
+> 우리가 입증할 수 없는 가장 중요한 연결 고리지. 그걸 인쇄하고 탈이 소송 걸면, 다나를 출처로 밝히든지 지든지 해야 해. 우린 둘 다 안 할 거야.
+SWETA: Dann warten wir, bis die Staatsanwaltschaft Anklage erhebt. Dann steht es in einer öffentlichen Anklageschrift. Und wir zitieren die.
+> 그럼 검찰이 기소할 때까지 기다려요. 그러면 공개 기소장에 나와요. 그리고 우린 그걸 인용하고.
+JAN: Geduld ist auch eine Waffe. Thal rechnet damit, dass wir ungeduldig sind.
+> 인내도 무기야. 탈은 우리가 조급할 거라고 계산하고 있어.
+LEON: Ich hasse das.
+> 이거 정말 싫어요.
+HELENE: Gut. Hassen ist erlaubt. Drucken nicht.
+> 좋아. 싫어하는 건 허용돼. 인쇄는 안 되고.
+
+# 장면 2-2 — IOANA HÖRT SICH ZU
+MIRA: Ioana, das ist der Schnitt. Elf Minuten. Willst du ihn hören, bevor er online geht?
+> 이오아나, 편집본이야. 11분. 온라인에 올라가기 전에 들어 볼래?
+IOANA: Ja. … Meine Stimme klingt komisch. Wie eine Fremde.
+> 응. … 내 목소리 이상하게 들려. 낯선 사람처럼.
+SWETA: Das sagt jeder beim ersten Mal. Man hört sich selbst nie so, wie andere einen hören.
+> 처음엔 다들 그래. 자기 목소린 남들이 듣는 것처럼 절대 안 들려.
+IOANA: Stopp. Minute sieben. Der Satz über Anca. «Sie hat zwei Kinder in Iași.» Bitte nimm ihn raus.
+> 멈춰. 7분. 안카에 대한 문장. «이아시에 아이가 둘 있어.» 빼 줘.
+MIRA: Warum?
+> 왜?
+IOANA: Weil es nicht meine Geschichte ist. Es ist ihre. Und sie hat nicht Ja gesagt. Sie ist in Leipzig und weiß nicht einmal, dass ich rede.
+> 내 이야기가 아니니까. 안카 거야. 그리고 안카는 좋다고 안 했어. 라이프치히에 있고 내가 말하는 것조차 몰라.
+MIRA: Raus. Sofort.
+> 뺄게. 바로.
+IOANA: Und der Rest bleibt. Auch der Satz über mich selbst. Dass ich acht Monate nichts gemacht habe.
+> 그리고 나머진 둬. 나에 대한 문장도. 8개월 동안 아무것도 안 했다는 거.
+SWETA: Der ist hart. Bist du sicher?
+> 그건 가혹한데. 확실해?
+IOANA: Er ist wahr. Wenn ich nur die anderen beschuldige und mich nicht, glaubt mir niemand.
+> 사실이잖아요. 다른 사람만 탓하고 날 안 탓하면 아무도 내 말 안 믿어요.
+MIRA: Das ist genau das, was wir in jedem Artikel versuchen. «Was wir falsch gemacht haben» steht bei uns auch drin.
+> 그게 바로 우리가 기사마다 하려는 거야. «우리가 잘못한 것»도 우리 기사에 들어가.
+IOANA: Dann sind wir uns ähnlich, Emine. Ein bisschen.
+> 그럼 우리 닮았네, 에미네. 조금은.
+
+# 장면 3 — HAASES BRIEF
+MIRA: Freitag, siebzehn Uhr achtundfünfzig. Zwei Minuten vor Fristende. Dr. Haase. Vier Seiten.
+> 금요일 17시 58분. 기한 2분 전. 하제 박사. 4쪽.
+JAN: Lies die wichtigsten Sätze.
+> 핵심 문장들 읽어.
+MIRA: «Pflege Plus Berlin ist ein Verbund unabhängiger Unternehmen. Die Verbundzentrale hat keinen Einblick in die Abrechnungen einzelner Mitglieder.» Dann: «Wir haben die Mitgliedschaft der Sonnenhof Ambulante Pflege mit sofortiger Wirkung ruhend gestellt.»
+> «Pflege Plus Berlin은 독립 기업들의 연합이다. 연합 본부는 개별 회원사의 청구를 들여다볼 수 없다.» 그다음: «우린 조넨호프 방문간병의 회원 자격을 즉시 정지했다.»
+SWETA: Sonnenhof wird geopfert.
+> 조넨호프를 희생시키네요.
+MIRA: Weiter: «Sollte es bei einzelnen Mitgliedern zu Verfehlungen gekommen sein, handelt es sich um individuelle Verfehlungen, die wir aufs Schärfste verurteilen.» Und zu Frage acht: «Der Abgleich von Personallisten dient der Prävention von Industriespionage.»
+> 계속: «개별 회원사에서 잘못이 있었다면 그건 개별적 일탈이며 우린 이를 가장 강력히 규탄한다.» 그리고 8번 질문에: «직원 명단 대조는 산업 스파이 방지 목적이다.»
+TOBI: Industriespionage. Mira, du bist 'ne Industriespionin.
+= Industriespionage. Mira, du bist eine Industriespionin.
+> 산업 스파이. 미라, 넌 산업 스파이야.
+MIRA: Ich habe Strümpfe angezogen. Das ist die Industrie, die ich ausspioniert habe.
+> 전 스타킹을 신겼어요. 그게 제가 염탐한 산업이에요.
+HELENE: Und Frage sieben? Wusste er es?
+> 그리고 7번은? 그는 알았대?
+MIRA: «Weder ich noch Mitarbeiter der Verbundzentrale hatten Kenntnis von Abrechnungsunregelmäßigkeiten.»
+> «나도, 연합 본부 직원도 청구 부정에 대해 알지 못했다.»
+JAN: Dann haben wir drei Dinge, die dagegen sprechen. Seine eigene Forderung im Ausschuss nach weniger Kontrolle. Die vierhundert, deren Verbleib er nicht kennt. Und seinen Satz bei der Sommerfeier über «Einzelfälle» — drei Tage vor dem ersten.
+> 그럼 우리한텐 그에 반하는 게 셋 있어. 위원회에서 통제를 줄이자고 한 그의 요구. 행방을 모르는 4백 명. 그리고 첫 사건 사흘 전 여름 파티에서 한 «개별 사례» 발언.
+KATRIN: Das sind Indizien, keine Beweise, dass er es wusste. Wir legen sie nebeneinander. Ohne Schlussfolgerung. Die Leser sind nicht dumm.
+> 그건 그가 알았다는 정황이지 증거가 아니야. 나란히 놓자. 결론 없이. 독자는 멍청하지 않아.
+HELENE: Und wir drucken seinen Brief. Vollständig. Als Anhang. Vier Seiten. Jeder soll ihn lesen können.
+> 그리고 그의 편지를 인쇄해. 전부. 부록으로. 4쪽. 누구나 읽을 수 있게.
+
+# 장면 3-2 — DIE ZWEI WOCHEN SIND UM
+BÄRBEL: Brandes' zwee Wochen sind um. Und wat passiert? Jestern Nacht vierzig neue Bewertungen. Eene Sterne. «Hier sterben Senioren.» «Finger weg.»
+= Brandes' zwei Wochen sind um. Und was passiert? Gestern Nacht vierzig neue Bewertungen. Ein Stern. «Hier sterben Senioren.» «Finger weg.»
+> 브란데스의 2주가 끝났어요. 그리고 무슨 일이 생겼게요? 어젯밤 새 리뷰 마흔 개. 별 하나. «여기선 노인이 죽는다.» «손대지 마.»
+SWETA: Zeig her. … Dieselben Muster. Neue Konten, gleiche Uhrzeit, gleiche Satzlänge. Hype und Hafen ist geschlossen. Aber jemand hat ihre Werkzeuge.
+> 보여 줘요. … 같은 패턴. 새 계정, 같은 시각, 같은 문장 길이. 하이프 운트 하펜은 문 닫았어요. 근데 누가 그 도구를 갖고 있어요.
+BÄRBEL: Und heute Morjen? Kiek ma.
+= Und heute Morgen? Guck mal.
+> 그리고 오늘 아침엔? 봐 봐.
+SWETA: … Hundertzwölf neue Bewertungen. Fünf Sterne. Mit echten Namen. «Bärbel hat meine Mutter acht Jahre gepflegt.» «Sie kam im Schneesturm.» «Der Transporter ist alt, das Herz ist jung.»
+> … 새 리뷰 112개. 별 다섯. 실명으로. «배르벨이 우리 엄마를 8년 돌봤다.» «눈보라 속에도 왔다.» «승합차는 낡았지만 마음은 젊다.»
+BÄRBEL: Elke hat 'nen Zettel uffjehängt. «Wer Bärbel kennt, schreibt.» Und denn ham se jeschrieben. Der halbe Kiez. Mit Namen.
+= Elke hat einen Zettel aufgehängt. «Wer Bärbel kennt, schreibt.» Und dann haben sie geschrieben. Der halbe Kiez. Mit Namen.
+> 엘케가 쪽지를 붙였어요. «배르벨을 아는 사람은 써라.» 그리고 다들 썼어요. 동네 절반이. 실명으로.
+SWETA: Gefälschte Stimmen ohne Gesicht gegen echte Stimmen mit Namen. Das ist das Duell, das ich in Teil vier verloren hätte, wenn ich allein gewesen wäre.
+> 얼굴 없는 가짜 목소리 대 이름 있는 진짜 목소리. 4부 때 혼자였다면 졌을 결투네요.
+BÄRBEL: Und noch wat. Drei Patienten von Sonnenhof ham anjerufen. Die wollen zurück. Zu mir.
+= Und noch was. Drei Patienten von Sonnenhof haben angerufen. Die wollen zurück. Zu mir.
+> 그리고 하나 더. 조넨호프 환자 셋이 전화했어요. 돌아오고 싶대요. 나한테.
+JAN: Dann sind es fünfzehn.
+> 그럼 열다섯이네요.
+BÄRBEL: Fuffzehn. Und Horst macht sechzehn. Wenn er will.
+= Fünfzehn. Und Horst macht sechzehn. Wenn er will.
+> 열다섯. 그리고 호르스트가 오면 열여섯. 원한다면.
+
+# 장면 4 — HORST VOR DER KAMERA
+TOBI: Horst, kiek mich an. Nich in die Kamera. Mich. Und erzähl.
+= Horst, guck mich an. Nicht in die Kamera. Mich. Und erzähl.
+> 호르스트, 날 봐. 카메라 말고. 나. 그리고 얘기해.
+HORST: Der Schlips sitzt?
+> 넥타이 괜찮아?
+TOBI: Sitzt wie 1965.
+> 1965년처럼 딱 맞아.
+HORST: 1971. Da hab ick jeheiratet. Also. Ick heiße Horst Lemke. Ick bin vierundachtzig. Ick wohn seit fuffzig Jahren in Wedding. Im Mai bin ick in meiner Wohnung hinjefallen. Ick hab zwee Tage uff'm Boden jelegen. Ick hab jerufen. Mit'm Schuh jeklopft. Keener kam.
+= 1971. Da habe ich geheiratet. Also. Ich heiße Horst Lemke. Ich bin vierundachtzig. Ich wohne seit fünfzig Jahren in Wedding. Im Mai bin ich in meiner Wohnung hingefallen. Ich habe zwei Tage auf dem Boden gelegen. Ich habe gerufen. Mit dem Schuh geklopft. Keiner kam.
+> 1971. 그때 결혼했지. 자. 내 이름은 호르스트 렘케. 여든넷. 50년째 베딩에 살아. 5월에 집에서 넘어졌어. 이틀 동안 바닥에 누워 있었어. 불렀어. 신발로 두드렸어. 아무도 안 왔어.
+TOBI: Und dann?
+> 그다음엔?
+HORST: Denn kam Elke. Mit meinem Schlüssel. Und uff'm Kühlschrank hing 'n Zettel. Da stand: Montag, neun Uhr, erledigt. Dienstag, neun Uhr, erledigt. Und meine Unterschrift. Die hab ick vorher jemacht. Weil 'ne nette junge Frau jesacht hat, dit is so üblich.
+= Dann kam Elke. Mit meinem Schlüssel. Und auf dem Kühlschrank hing ein Zettel. Da stand: Montag, neun Uhr, erledigt. Dienstag, neun Uhr, erledigt. Und meine Unterschrift. Die habe ich vorher gemacht. Weil eine nette junge Frau gesagt hat, das ist so üblich.
+> 그다음 엘케가 왔어. 내 열쇠로. 그리고 냉장고에 종이가 붙어 있었어. 거기 적혀 있었지. 월요일 9시 완료. 화요일 9시 완료. 그리고 내 서명. 그건 미리 해 둔 거야. 친절한 젊은 여자가 원래 그렇다고 해서.
+TOBI: Wat willste den Leuten sajen, die dit sehen?
+= Was willst du den Leuten sagen, die das sehen?
+> 이걸 보는 사람들한테 뭐라고 하고 싶어?
+HORST: Dass se ihre Alten besuchen sollen. Nich weil die Firma lügt. Sondern weil 'n Zettel keen Mensch is. Und dass die junge Frau nüscht dafür kann. Die hat nur jemacht, wat man ihr jesacht hat. Die Schuldigen sitzen woanders. In Büros. Mit Schlips. Aber nich mit so 'nem schönen wie meiner.
+= Dass sie ihre Alten besuchen sollen. Nicht weil die Firma lügt. Sondern weil ein Zettel kein Mensch ist. Und dass die junge Frau nichts dafür kann. Die hat nur gemacht, was man ihr gesagt hat. Die Schuldigen sitzen woanders. In Büros. Mit Schlips. Aber nicht mit so einem schönen wie meiner.
+> 자기 노인들을 찾아가라고. 회사가 거짓말해서가 아니라. 종이는 사람이 아니니까. 그리고 그 젊은 여자는 잘못 없다고. 시키는 대로 했을 뿐이야. 죄 있는 놈들은 다른 데 앉아 있어. 사무실에. 넥타이 매고. 근데 내 것처럼 예쁜 건 아니겠지.
+TOBI: Danke, Horst. Dit war perfekt.
+= Danke, Horst. Das war perfekt.
+> 고마워, 호르스트. 완벽했어.
+HORST: Ick weeß. Ick hab jeübt. Vor'm Spiegel. Mit Elke.
+= Ich weiß. Ich habe geübt. Vor dem Spiegel. Mit Elke.
+> 알아. 연습했거든. 거울 앞에서. 엘케랑.
+
+# 장면 5 — DIE LETZTE NACHT
+HELENE: Elf Uhr abends. Letzte Runde. Mira, die Zahlen.
+> 밤 11시. 마지막 점검. 미라, 숫자.
+MIRA: Tour vierzehn: zwanzig abgerechnet, neun besucht, an jedem Tag meiner Arbeit. Belegt durch meine Protokolle und Ioanas Screenshots. Tour sieben: drei von sechzehn Patienten vor dem Abrechnungsmonat verstorben. Belegt durch die Liste, die Frau Neumann der Polizei übergeben hat, und öffentliche Todesanzeigen. Jobcenter: dreihundertvierzig Bescheide in durchschnittlich zwei Komma acht Tagen, alle anderen einundvierzig. Bestätigt durch die Bundesagentur.
+> 순회 14번: 청구 스물, 방문 아홉, 내가 일한 모든 날. 내 기록과 이오아나 스크린숏으로 입증. 순회 7번: 환자 열여섯 중 셋이 청구 월 전에 사망. 노이만 씨가 경찰에 낸 목록과 공개 부고로 입증. 잡센터: 결정 3백40건 평균 2.8일, 나머지 41일. 연방고용청이 확인.
+HELENE: Und was wir nicht wissen?
+> 그리고 우리가 모르는 건?
+LEON: Ob Dr. Haase von den Abrechnungen wusste. Wohin die vierhundert Pflegekräfte verschwunden sind. Wie viele Touren bei anderen Mitgliedern genauso aussehen. Und wer die Agenturen kontrolliert, die die Diplome behalten.
+> 하제 박사가 청구에 대해 알았는지. 4백 명의 요양사가 어디로 사라졌는지. 다른 회원사의 순회도 얼마나 똑같은지. 그리고 졸업장을 쥔 에이전시를 누가 통제하는지.
+HELENE: Gut. Das steht so drin. Als Fragen. Nicht als Andeutungen.
+> 좋아. 그렇게 들어가. 질문으로. 암시가 아니라.
+ELKE: Und ick hab dit jelesen. Zweemal. Wie beim letzten Mal.
+= Und ich habe das gelesen. Zweimal. Wie beim letzten Mal.
+> 그리고 나 그거 읽었어. 두 번. 지난번처럼.
+HELENE: Und, Testleserin?
+> 그래서, 시험 독자님?
+ELKE: Dit Wort «Leistungskomplex» versteht keener. Schreibt «Paket». Und dit Wort «Aufstockerleistung» ooch nich. Schreibt «Zuschuss vom Amt, weil der Lohn nich reicht».
+= Das Wort «Leistungskomplex» versteht keiner. Schreibt «Paket». Und das Wort «Aufstockerleistung» auch nicht. Schreibt «Zuschuss vom Amt, weil der Lohn nicht reicht».
+> «서비스 묶음»이란 말은 아무도 몰라. «패키지»라고 써. 그리고 «보충 급여»도 몰라. «임금이 모자라서 관청이 주는 보조금»이라고 써.
+MIRA: Geändert. Beides.
+> 고쳤어요. 둘 다.
+ELKE: Und die Stelle mit dem Klopfen. Die lasst ihr so. Bei der hab ick jeheult.
+= Und die Stelle mit dem Klopfen. Die lasst ihr so. Bei der habe ich geheult.
+> 그리고 노크 부분. 그건 그대로 둬. 거기서 울었어.
+
+# 장면 5-2 — EIN ANRUF BEIM STIFTUNGSRAT
+WEBER: Frau Brandt, Herr Kowalczyk. Ich wollte Sie informieren. Heute Mittag hat mich ein Anwalt angerufen. Im Auftrag von Pflege Plus. Er hat «angeregt», dass der Stiftungsrat die Veröffentlichung «noch einmal prüft».
+> 브란트 씨, 코발치크 씨. 알려 드리려고요. 오늘 정오에 변호사한테서 전화가 왔어요. Pflege Plus 대리로. 이사회가 공개를 «다시 검토해 보길» «권했어요».
+HELENE: Und was haben Sie gesagt?
+> 뭐라고 하셨어요?
+WEBER: Dass der Stiftungsrat keine Artikel prüft. Dass das die Redaktion tut. Und dass genau dafür die Stiftung gegründet wurde.
+> 이사회는 기사를 검토하지 않는다고. 그건 편집국이 한다고. 그리고 바로 그걸 위해 재단이 세워졌다고.
+JAN: Danke, Herr Dr. Weber.
+> 고맙습니다, 베버 박사님.
+WEBER: Danken Sie mir nicht. Fragen Sie sich lieber, woher der Anwalt meine private Nummer hatte. Die steht nirgends. Nur in der internen Liste des Rates.
+> 고마워하지 마세요. 차라리 그 변호사가 제 개인 번호를 어디서 알았는지 자문해 보세요. 어디에도 없는 번호예요. 이사회 내부 명단에만 있어요.
+HELENE: Wer hat Zugang zu der Liste?
+> 그 명단엔 누가 접근할 수 있어요?
+WEBER: Sieben Ratsmitglieder. Und die Geschäftsstelle. Ich nenne keinen Namen. So, wie Sie es mir beigebracht haben. Aber ich wollte, dass Sie es wissen.
+> 이사 일곱. 그리고 사무국. 이름은 안 대요. 당신들이 가르쳐 준 대로. 근데 알고 계셨으면 했어요.
+JAN: Und Haase wusste, dass ich schief sitze. Das hat er mir am Telefon gesagt. Das wurde nur bei Elke erzählt.
+> 그리고 하제는 제가 비스듬히 앉는다는 걸 알았어요. 전화로 그렇게 말했어요. 그건 엘케네서만 나온 얘기예요.
+WEBER: Bei Elke? Wer war an dem Abend da?
+> 엘케네서요? 그날 저녁 누가 있었죠?
+HELENE: Unser Team. Lea. Der halbe Kiez. Und Sie, Herr Dr. Weber. Sie kamen später. Zum Anstoßen.
+> 우리 팀. 레아. 동네 절반. 그리고 당신, 베버 박사님. 늦게 오셨죠. 건배하러.
+WEBER: … Dann gehöre ich auch auf die Liste. Gut so. Prüfen Sie mich zuerst.
+> … 그럼 저도 명단에 올라야겠네요. 좋아요. 저부터 확인하세요.
+JAN: Nach dem Artikel. Mit Belegen. Nicht mit Verdacht.
+> 기사 뒤에. 증거로. 의심이 아니라.
+
+# 장면 6 — SECHS UHR MORGENS
+LEON: Sechs Uhr. Online. Artikel, drei Videos, die Daten, Haases Brief als Anhang.
+> 6시. 온라인. 기사, 영상 셋, 데이터, 하제 편지 부록.
+SWETA: Titel?
+> 제목은?
+LEON: «Wer pflegt, wer kassiert. Wie ein Pflegeverbund Besuche abrechnete, die nie stattfanden — und wer dafür bezahlte.»
+> «누가 돌보고, 누가 챙기나. 한 돌봄 연합이 일어나지 않은 방문을 어떻게 청구했나 — 그리고 누가 그 값을 치렀나.»
+JAN: Erste Reaktion?
+> 첫 반응은?
+MIRA: Ein Kommentar unter Horsts Video. «Ich habe meine Mutter heute angerufen. Zum ersten Mal seit drei Wochen.»
+> 호르스트 영상 아래 댓글 하나. «오늘 엄마한테 전화했어요. 3주 만에 처음으로.»
+TOBI: Dit is mehr wert als jeder Preis.
+= Das ist mehr wert als jeder Preis.
+> 그게 어떤 상보다 값져.
+MIRA: Und noch einer. «Ich bin Pflegerin bei einem anderen Dienst. Bei uns gibt es auch graue Namen. Wie kann ich Sie erreichen?»
+> 그리고 하나 더. «다른 업체 요양사예요. 우리한테도 회색 이름이 있어요. 어떻게 연락드릴 수 있죠?»
+HELENE: Antworte ihr mit der Adresse für vertrauliche Hinweise. Und mit der Nummer der Beratungsstelle. In dieser Reihenfolge.
+> 기밀 제보 주소로 답해. 그리고 상담 기관 번호도. 그 순서로.
+JAN: Und Haase?
+> 그리고 하제는?
+LEON: Ist um neun im Ausschuss. Als Sachverständiger. Sein Platz steht noch auf der Liste.
+> 9시에 위원회에 있어요. 전문가로. 그 자리는 아직 명단에 있어요.
+
+# 장면 6-2 — EIN DRUCKER LIEST ZEITUNG
+GERLACH: Spreewerk? Hier ist Gerlach. Der Drucker. Geben Sie mir die Höfliche.
+> Spreewerk? 게를라흐요. 인쇄공. 예의 바른 아가씨 바꿔 줘요.
+MIRA: Herr Gerlach! Ich bin's.
+> 게를라흐 씨! 저예요.
+GERLACH: Ich habe den Artikel gelesen. Auf dem Telefon von meiner Nichte. Schrift zu klein, aber ich habe ihn gelesen.
+> 기사 읽었어. 조카딸 휴대폰으로. 글씨가 너무 작았지만 읽었어.
+MIRA: Und?
+> 그래서요?
+GERLACH: Kein Name. Keine Straße. Kein Drucker. Nur «ein Patient, dem der Pflegedienst monatlich fünfzig Euro zahlte». Das Subjekt stimmt. Gut gesetzt.
+> 이름 없음. 거리 없음. 인쇄공 없음. 그냥 «요양 업체가 매달 50유로를 준 환자 한 명». 주어 맞고. 잘 조판했어.
+MIRA: Danke. Das bedeutet mir viel. Von Ihnen.
+> 고마워요. 게를라흐 씨한테 그 말 들으니 의미가 커요.
+GERLACH: Und ich habe etwas gemacht. Gestern. Ich war beim Amt. Selbst. Mit dem Formular. Grundsicherung im Alter. Beantragt. Nicht gebettelt.
+> 그리고 나도 뭘 했어. 어제. 관청에 갔어. 직접. 서식 들고. 노령 기초보장. 신청했어. 구걸 안 하고.
+MIRA: Herr Gerlach!
+> 게를라흐 씨!
+GERLACH: Die Frau dort war freundlich. Sie hat gesagt, ich hätte das schon vor fünf Jahren machen können. Fünf Jahre Abendbrot in der letzten Woche des Monats. Verschenkt. Aus Stolz.
+> 거기 여자가 친절했어. 5년 전에 이미 할 수 있었다더군. 5년 동안 월말 마지막 주 저녁밥을. 날렸어. 자존심 때문에.
+LEON: Darf ich das schreiben? Ohne Namen?
+> 그거 써도 돼요? 이름 없이?
+GERLACH: Schreib es. Damit andere alte Esel es nicht auch fünf Jahre verschenken.
+> 써. 다른 늙은 당나귀들이 5년을 날리지 않게.
+MIRA: Und die neue Pflegerin? Klopft sie?
+> 그리고 새 요양사는요? 노크해요?
+GERLACH: Seit heute ja. Ich habe ihr den Artikel gezeigt. Die Stelle mit dem Klopfen. Sie hat rot bekommen. Und dann hat sie geklopft.
+> 오늘부턴 해. 기사 보여 줬거든. 노크 부분. 얼굴이 빨개지더니. 그다음 노크하더라.
+
+# 장면 7 — DIE ANHÖRUNG
+VORSITZ: Ich eröffne die öffentliche Anhörung zum Thema «Fachkräftesicherung und Qualität in der ambulanten Pflege». Als ersten Sachverständigen begrüße ich Herrn Dr. Clemens Haase, Pflege Plus Berlin.
+> «방문간병의 인력 확보와 질»을 주제로 한 공개 공청회를 개회합니다. 첫 전문가로 Pflege Plus Berlin의 클레멘스 하제 박사를 환영합니다.
+HAASE: Vielen Dank, Herr Vorsitzender. Bevor ich zu meinem Statement komme, ein Wort zu einem Artikel, der heute Morgen erschienen ist. Ich verurteile jede Form von Abrechnungsbetrug. Wir haben das betroffene Mitglied suspendiert. Es handelt sich um einen Einzelfall, der nicht die engagierte Arbeit von tausenden Pflegekräften überschatten darf.
+> 감사합니다, 위원장님. 진술에 앞서 오늘 아침 나온 기사에 대해 한 말씀. 전 모든 형태의 허위 청구를 규탄합니다. 해당 회원사를 정지했습니다. 이는 개별 사례이며, 수천 명 요양사의 헌신적 노동을 가려선 안 됩니다.
+HOLM: Herr Vorsitzender, eine Frage an den Sachverständigen. Holm, Gesundheitsausschuss.
+> 위원장님, 전문가께 질문 하나. 홀름, 보건위원회.
+VORSITZ: Bitte, Frau Abgeordnete.
+> 하세요, 의원님.
+HOLM: Herr Dr. Haase, ich habe hier den Artikel, den Sie erwähnen. Und ich habe die Protokolle dieses Ausschusses. Sie haben hier dreimal gefordert, tägliche Unterschriften auf Leistungsnachweisen abzuschaffen und unangemeldete Prüfungen zu reduzieren. Ist das richtig?
+> 하제 박사님, 언급하신 기사가 제 손에 있어요. 그리고 이 위원회 회의록도요. 박사님은 여기서 세 번, 수행 확인서의 매일 서명을 폐지하고 불시 감사를 줄이자고 요구하셨죠. 맞나요?
+HAASE: Das ist richtig. Zur Entlastung der Pflegekräfte von Bürokratie.
+> 맞습니다. 요양사들의 관료적 부담을 덜기 위해.
+HOLM: Laut diesem Artikel waren die täglichen Unterschriften das Einzige, was einen Mann namens Horst Lemke von seiner Abrechnung unterschied. Er lag zwei Tage auf dem Boden. Auf dem Papier war er versorgt. Haben Sie, Herr Dr. Haase, als Sie hier weniger Kontrolle forderten, gewusst, dass in Ihrem eigenen Verbund Besuche abgerechnet wurden, die nie stattfanden?
+> 이 기사에 따르면 매일 서명이 호르스트 렘케라는 남자와 그의 청구서를 구분해 주는 유일한 것이었어요. 그는 이틀 동안 바닥에 누워 있었어요. 서류상으론 돌봄을 받았고요. 하제 박사님, 여기서 통제를 줄이자고 요구하실 때, 박사님 연합 안에서 일어나지 않은 방문이 청구되고 있다는 걸 아셨습니까?
+HAASE: Ich… habe dazu schriftlich Stellung genommen.
+> 그에 대해선… 서면으로 입장을 밝혔습니다.
+HOLM: Ich habe Ihre Stellungnahme gelesen. Vier Seiten. Sie ist im Anhang des Artikels. Ich frage Sie trotzdem. Hier. Öffentlich. Ja oder nein?
+> 그 입장문 읽었어요. 4쪽. 기사 부록에 있더군요. 그래도 묻겠습니다. 여기서. 공개적으로. 예입니까, 아니오입니까?
+
+# 엔딩 — AM FENSTER
+ELKE: Horst. Kiek. Die Frau im Fernsehen. Die hat deinen Namen jesacht.
+= Horst. Guck. Die Frau im Fernsehen. Die hat deinen Namen gesagt.
+> 호르스트. 봐. 텔레비전의 저 여자. 네 이름 말했어.
+HORST: Hab ick jehört. Horst Lemke. Im Bundestag.
+= Habe ich gehört. Horst Lemke. Im Bundestag.
+> 들었어. 호르스트 렘케. 연방의회에서.
+TOBI: Und du hast den Schlips an.
+> 그리고 넥타이 맸네.
+HORST: Hab ick doch jesacht. Für die Kleene.
+= Habe ich doch gesagt. Für die Kleine.
+> 말했잖아. 꼬마를 위해.
+MIRA: Was antwortet er? Was antwortet Haase?
+> 뭐라고 답해요? 하제가 뭐라고 답해요?
+LEON: Er schaut auf seine Unterlagen. Er schaut zum Vorsitzenden. Er schaut zur Abgeordneten.
+> 서류를 봐요. 위원장을 봐요. 의원을 봐요.
+SWETA: Er sucht eine Hintertür.
+> 뒷문을 찾고 있네요.
+JAN: Und diesmal macht ihm niemand eine auf.
+> 그리고 이번엔 아무도 열어 주지 않아.
+HAASE: … Nein. Ich wusste es nicht.
+> … 아니오. 몰랐습니다.
+HOLM: Danke. Dann eine zweite Frage. Warum hat Ihre Verbundzentrale im Juni die Personalliste eines Mitglieds mit Pressefotos abgleichen lassen? Wenn Sie nichts wussten — wovor hatten Sie Angst?
+> 감사합니다. 그럼 두 번째 질문. 왜 박사님 연합 본부는 6월에 한 회원사의 직원 명단을 언론 사진과 대조하게 했습니까? 아무것도 몰랐다면 — 무엇이 두려우셨던 거죠?
+HAASE: Industriespionage ist in unserer Branche ein ernstes…
+> 산업 스파이는 우리 업계에서 심각한…
+HOLM: Herr Dr. Haase. Die «Spionin» hat Kompressionsstrümpfe angezogen. Das steht im Artikel. Mit Zitat einer Pflegerin.
+> 하제 박사님. 그 «스파이»는 압박 스타킹을 신겼어요. 기사에 있어요. 요양사 인용과 함께.
+VORSITZ: Frau Abgeordnete, ich bitte um Fragen zum Thema der Anhörung.
+> 의원님, 공청회 주제에 관한 질문을 부탁드립니다.
+HOLM: Das ist das Thema der Anhörung, Herr Vorsitzender. Qualität in der ambulanten Pflege. Ich beantrage, Herrn Dr. Haase für die Dauer der Ermittlungen nicht mehr als Sachverständigen zu laden.
+> 이게 공청회 주제입니다, 위원장님. 방문간병의 질. 수사 기간 동안 하제 박사를 더는 전문가로 소환하지 말 것을 제안합니다.
+ELKE: Hörste dit, Horst? Die schmeißt ihn raus. Mit deinem Namen.
+= Hörst du das, Horst? Die schmeißt ihn raus. Mit deinem Namen.
+> 들었어, 호르스트? 저 여자가 그놈을 내쫓아. 네 이름으로.
+HORST: Nich mit meinem Namen. Mit unserem. Mit Bärbels. Mit der Kleenen. Mit der Rumänin, die jesungen hat.
+= Nicht mit meinem Namen. Mit unserem. Mit Bärbels. Mit der Kleinen. Mit der Rumänin, die gesungen hat.
+> 내 이름으로가 아니야. 우리 이름으로. 배르벨 이름으로. 꼬마 이름으로. 노래하던 루마니아 아가씨 이름으로.
+MIRA: Mit Ernas.
+> 에르나 할머니 이름으로도요.
+HORST: Mit Ernas. Die kannt ick. Vom Tanzen. 1962. Die hat besser jetanzt als ick.
+= Mit Ernas. Die kannte ich. Vom Tanzen. 1962. Die hat besser getanzt als ich.
+> 에르나 이름으로도. 그 사람 알았어. 춤추다가. 1962년. 나보다 춤 잘 췄지.
+JAN: Elke. Eine Runde. Für alle. Auf mich.
+> 엘케. 한 잔씩. 모두에게. 제가 살게요.
+ELKE: Um zehn Uhr morjens?
+= Um zehn Uhr morgens?
+> 아침 10시에?
+JAN: Für Mut gibt es keine Uhrzeit. Hat mir jemand beigebracht.
+> 용기엔 시간이 없다. 누가 가르쳐 줬거든요.
+ELKE: Denn jeht die Runde uff dich. Und die nächste uff Horst. Im Schlips.
+= Dann geht die Runde auf dich. Und die nächste auf Horst. Im Schlips.
+> 그럼 이번 잔은 네가 사. 그리고 다음 잔은 호르스트가. 넥타이 맨 채로.
