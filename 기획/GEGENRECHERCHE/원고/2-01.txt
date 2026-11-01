@@ -1,0 +1,390 @@
+@part 2
+@ep 1
+@title Kerzen in Marzahn
+@sub 마르찬의 촛불 · 4월 중순 밤, 11층 조립식 아파트의 어둠과 불탄 케이블
+@info 대사 150턴 · 난이도 B1+ · 배경: 2027년 4월 중순, Marzahn의 조립식 아파트(Plattenbau) 11층과 계단, 변전소 앞, Spreewerk 편집국, 선술집 «Zum letzten Groschen»
+@cast TOBI | 토비 레베르크 (37) · 사진기자 · 마르찬 출신
+@cast MONIKA | 모니카 레베르크 (63) · 토비의 어머니, 은퇴한 간호조무사
+@cast WENDLER | 귄터 벤들러 (74) · 같은 아파트 주민
+@cast NGUYEN | 응우옌 티 란 (52) · 같은 층 주민, 1층 꽃가게 주인
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast POLIZIST | 현장 경찰관
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 허위정보 전문 기자
+@cast LEON | 레온 피셔 (24) · 기자 (수습 통과)
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인
+@cast BRÜCKNER | 하인츠 브뤼크너 (71) · 은퇴한 세무사
+@note ※ 실제 사건: 2026년 1월 3일, 베를린 남서부 리히터펠데 발전소의 케이블 다리에 불이 나 수만 가구가 며칠 동안 전기 없이 지냈습니다. 좌파 무정부주의 단체를 자처한 '불칸그루페'가 범행을 주장했고, 연방검찰이 수사를 맡았습니다. 이 화의 마르찬 정전 미수 사건과 등장 기업은 가상입니다.
+@note ※ 표현 초점: Stromausfall · Umspannwerk · Kabelbrücke · Brandanschlag · Notstrom · Kerze · Aufzug steckt fest · Absperrung — 마르찬 말: 토비와 어머니는 진한 베를린 말을 씁니다.
+@next 2부 2화 — «Das Bekennerschreiben»(범행 주장문) — 좌파 사이트에 범행 주장문이 올라온다. 스베타가 문체를 분석하자 1월 사건의 주장문과 어휘 패턴이 다르다. 경찰과 범인만 알 수 있는 세부가 하나 들어 있는데, 그 세부가 틀렸다.
+
+# 콜드 오픈 — 22:40 UHR, ELFTER STOCK
+MONIKA: Tobi, noch 'n Stück Kuchen? Ick hab zu viel jebacken.
+= Tobi, noch ein Stück Kuchen? Ich habe zu viel gebacken.
+> 토비, 케이크 한 조각 더 먹을래? 너무 많이 구웠어.
+TOBI: Mama, ick hab schon drei. Bruno kriegt den Rest.
+= Mama, ich habe schon drei. Bruno kriegt den Rest.
+> 엄마, 벌써 세 조각 먹었어. 나머진 브루노 줘.
+MONIKA: Bruno kriegt keenen Kuchen. Der is dreizehn und hat 'n Bauch wie 'n Fass.
+= Bruno kriegt keinen Kuchen. Der ist dreizehn und hat einen Bauch wie ein Fass.
+> 브루노는 케이크 안 줘. 열세 살에 배가 술통 같아.
+TOBI: Mama? Wat war det? Det Licht hat jeflackert.
+= Mama? Was war das? Das Licht hat geflackert.
+> 엄마? 방금 뭐였어? 불이 깜빡였어.
+MONIKA: Det macht et manchmal. Alte Leitungen.
+= Das macht es manchmal. Alte Leitungen.
+> 가끔 그래. 낡은 전선 때문에.
+TOBI: Nee. Jetzt is et janz aus. Allet.
+= Nein. Jetzt ist es ganz aus. Alles.
+> 아니야. 이번엔 완전히 나갔어. 전부.
+MONIKA: Ach du Schreck. Nich schon wieder. Wie im Januar letztes Jahr. Bei Tante Hilde in Zehlendorf.
+= Ach du Schreck. Nicht schon wieder. Wie im Januar letztes Jahr. Bei Tante Hilde in Zehlendorf.
+> 어머나 세상에. 또야. 작년 1월처럼. 첼렌도르프 힐데 이모네처럼.
+TOBI: Wo sind die Kerzen?
+= Wo sind die Kerzen?
+> 초 어디 있어?
+MONIKA: Küchenschublade, links. Ick hab noch zwanzig Stück. Seit Januar letztes Jahr liegen die da. Für alle Fälle.
+= Küchenschublade, links. Ich habe noch zwanzig Stück. Seit Januar letztes Jahr liegen die da. Für alle Fälle.
+> 부엌 서랍 왼쪽. 아직 스무 개 있어. 작년 1월부터 거기 넣어 뒀지. 만일을 위해서.
+TOBI: Bruno bellt. Wat hat er?
+= Bruno bellt. Was hat er?
+> 브루노가 짖네. 왜 그러지?
+MONIKA: Der hört wat. Im Flur.
+= Der hört was. Im Flur.
+> 뭘 들은 거야. 복도에서.
+WENDLER: Hallo? Hallo! Ist da jemand? Der Aufzug! Ich stecke fest!
+> 여보세요? 여보세요! 누구 없어요? 엘리베이터요! 갇혔어요!
+TOBI: Det is Herr Wendler. Mama, gib mir die Taschenlampe.
+= Das ist Herr Wendler. Mama, gib mir die Taschenlampe.
+> 벤들러 씨야. 엄마, 손전등 줘.
+
+# 장면 1 — IM DUNKLEN TREPPENHAUS
+TOBI: Herr Wendler? Hier is Tobi. Der Sohn von Monika. Wo sind Se?
+= Herr Wendler? Hier ist Tobi. Der Sohn von Monika. Wo sind Sie?
+> 벤들러 씨? 토비예요. 모니카 아들이요. 어디 계세요?
+WENDLER: Zwischen dem zehnten und dem elften Stock. Ich sehe nichts. Gar nichts.
+> 10층이랑 11층 사이요. 아무것도 안 보여요. 하나도.
+TOBI: Keene Panik. Haben Se Luft? Jeht's Ihnen jut?
+= Keine Panik. Haben Sie Luft? Geht es Ihnen gut?
+> 당황하지 마세요. 숨은 쉬어져요? 괜찮으세요?
+WENDLER: Luft habe ich. Aber ich habe Angst. Ich habe ein schwaches Herz.
+> 숨은 쉬어져요. 근데 무서워요. 심장이 약하거든요.
+TOBI: Ick bleib hier. Ick red mit Ihnen. Ick ruf die Feuerwehr.
+= Ich bleibe hier. Ich rede mit Ihnen. Ich rufe die Feuerwehr.
+> 제가 여기 있을게요. 계속 말 걸어 드릴게요. 소방서에 전화할게요.
+TOBI: Mist. Keen Netz. Det Handy hat keen Netz.
+= Mist. Kein Netz. Das Handy hat kein Netz.
+> 젠장. 안 터져. 휴대폰이 안 터져.
+NGUYEN: Tobi? Bist du das? Ich habe auch kein Netz. Die Mobilfunkmasten haben keinen Strom.
+> 토비? 너야? 나도 안 터져. 기지국에 전기가 안 들어가서 그래.
+TOBI: Frau Nguyen! Haben Se 'n Radio? Mit Batterie?
+= Frau Nguyen! Haben Sie ein Radio? Mit Batterie?
+> 응우옌 아주머니! 라디오 있어요? 건전지로 되는 거요?
+NGUYEN: Ja. Seit letztem Januar. Die Regierung hat gesagt: Jeder Haushalt soll ein Notfallradio haben. Ich habe zwei gekauft.
+> 응. 작년 1월부터. 정부가 집집마다 비상용 라디오를 갖추라고 했잖아. 두 개 샀어.
+TOBI: Wat sagen se im Radio?
+= Was sagen sie im Radio?
+> 라디오에서 뭐래요?
+NGUYEN: Moment… «Stromausfall in Teilen von Marzahn und Hellersdorf. Ursache unklar. Die Feuerwehr ist im Einsatz.»
+> 잠깐만… «마르찬과 헬러스도르프 일부 지역 정전. 원인 불명. 소방대가 출동 중.»
+WENDLER: Die Feuerwehr kommt? Zu mir?
+> 소방대가 와요? 나한테?
+TOBI: Die kommt. Bestimmt. Wie heißt Ihre Frau, Herr Wendler?
+= Die kommt. Bestimmt. Wie heißt Ihre Frau, Herr Wendler?
+> 올 거예요. 분명히요. 사모님 성함이 뭐예요, 벤들러 씨?
+WENDLER: Ingrid. Sie ist vor fünf Jahren gestorben.
+> 잉그리트요. 5년 전에 세상을 떠났어요.
+TOBI: Erzählen Se mir von Ingrid. Wo haben Se se kennenjelernt?
+= Erzählen Sie mir von Ingrid. Wo haben Sie sie kennengelernt?
+> 잉그리트 얘기 좀 해 주세요. 어디서 만나셨어요?
+WENDLER: Im Elektrokombinat. 1975. Sie war Ingenieurin. Ich war nur Elektriker. Sie hat immer gesagt, ich kann keine Sicherung wechseln.
+> 전기 국영 공장에서요. 1975년에. 그 사람은 엔지니어였고, 난 그냥 전기공이었어요. 늘 내가 퓨즈 하나 못 간다고 놀렸죠.
+TOBI: Und? Konnten Se?
+= Und? Konnten Sie?
+> 그래서요? 가실 수 있었어요?
+WENDLER: Nein. Sie hatte recht.
+> 아니요. 그 사람 말이 맞았어요.
+MONIKA: Tobi! Komm mal ans Fenster. Kiek mal da hinten.
+= Tobi! Komm mal ans Fenster. Guck mal da hinten.
+> 토비! 창가로 좀 와 봐. 저기 뒤쪽 좀 봐.
+TOBI: Wat is da?
+= Was ist da?
+> 저기 뭐가 있는데?
+MONIKA: Orange. Da brennt wat. Am Umspannwerk an der Bahn.
+= Orange. Da brennt was. Am Umspannwerk an der Bahn.
+> 주황색이야. 뭔가 불타고 있어. 철길 옆 변전소에서.
+TOBI: Det is keen Kurzschluss. Det is 'n Feuer.
+= Das ist kein Kurzschluss. Das ist ein Feuer.
+> 저건 합선이 아니야. 불이야.
+NGUYEN: Wie im Januar. In Lichterfelde. Ich habe die Bilder im Fernsehen gesehen.
+> 1월처럼. 리히터펠데에서처럼. 텔레비전에서 그 장면 봤어.
+TOBI: Ick mach Fotos. Mama, bleib bei Herrn Wendler. Rede mit ihm. Über Ingrid.
+= Ich mache Fotos. Mama, bleib bei Herrn Wendler. Rede mit ihm. Über Ingrid.
+> 사진 찍을게. 엄마, 벤들러 씨 옆에 있어. 계속 말 걸어. 잉그리트 얘기로.
+MONIKA: Und du? Du jehst doch nich da hin?
+= Und du? Du gehst doch nicht da hin?
+> 그럼 넌? 설마 거기 가는 건 아니지?
+TOBI: Nur bis zum Fenster im Treppenhaus. Det Teleobjektiv reicht.
+= Nur bis zum Fenster im Treppenhaus. Das Teleobjektiv reicht.
+> 계단 창문까지만. 망원 렌즈면 충분해.
+WENDLER: Junger Mann! Das Licht! Es ist wieder da!
+> 젊은이! 불이요! 다시 들어왔어요!
+TOBI: Eins Uhr dreißig. Fast drei Stunden. Herr Wendler, drücken Se uff den Knopf. Elfter Stock.
+= Ein Uhr dreißig. Fast drei Stunden. Herr Wendler, drücken Sie auf den Knopf. Elfter Stock.
+> 새벽 한 시 반. 거의 세 시간이네. 벤들러 씨, 버튼 누르세요. 11층.
+WENDLER: Er fährt! Er fährt! Die Tür geht auf!
+> 움직여요! 움직여! 문이 열려요!
+MONIKA: Günter! Komm rein. Setz dich. Ick mach dir 'n Tee. Jetzt jeht ja der Wasserkocher wieder.
+= Günter! Komm rein. Setz dich. Ich mache dir einen Tee. Jetzt geht ja der Wasserkocher wieder.
+> 귄터! 들어와. 앉아. 차 한 잔 타 줄게. 이제 전기 주전자도 다시 되니까.
+WENDLER: Danke, Monika. Und danke, junger Mann. Die Feuerwehr ist nie gekommen.
+> 고마워, 모니카. 그리고 고마워요, 젊은이. 소방대는 끝내 안 왔네요.
+TOBI: Die hatten heute Nacht bestimmt hundert Aufzüge. In janz Marzahn.
+= Die hatten heute Nacht bestimmt hundert Aufzüge. In ganz Marzahn.
+> 오늘 밤엔 엘리베이터가 백 대는 멈췄을 거예요. 마르찬 전체에서요.
+WENDLER: Hundert Aufzüge. Und in jedem ein alter Mensch mit einem schwachen Herzen.
+> 엘리베이터 백 대. 그리고 그 안마다 심장 약한 노인이 하나씩.
+
+# 장면 2 — DIE ABSPERRUNG
+JAN: Tobi! Du hast um zwei Uhr nachts angerufen. Ich bin sofort losgefahren.
+> 토비! 새벽 두 시에 전화했잖아. 바로 출발했어.
+TOBI: Und jetzt is et sieben. Wo warste fünf Stunden?
+= Und jetzt ist es sieben. Wo warst du fünf Stunden?
+> 근데 지금 일곱 시야. 다섯 시간 동안 어디 있었어?
+JAN: Im Stau. Und dann im Schlaf. Im Auto. Entschuldigung.
+> 차 막혀서. 그다음엔 잤어. 차 안에서. 미안.
+TOBI: Kiek mal. Da. Hinter der Absperrung. Die Kabelbrücke.
+= Guck mal. Da. Hinter der Absperrung. Die Kabelbrücke.
+> 봐 봐. 저기. 출입 통제선 뒤에. 케이블 다리.
+JAN: Was ist eine Kabelbrücke genau?
+> 케이블 다리가 정확히 뭐야?
+TOBI: 'ne Brücke für Kabel. Über die Bahn. Da laufen die Stromleitungen vom Umspannwerk zu den Häusern. Wie 'ne Autobahn für Strom.
+= Eine Brücke für Kabel. Über die Bahn. Da laufen die Stromleitungen vom Umspannwerk zu den Häusern. Wie eine Autobahn für Strom.
+> 케이블을 위한 다리야. 철길 위로 지나가. 변전소에서 집들로 가는 전선이 거기로 지나가지. 전기의 고속도로 같은 거야.
+JAN: Und die ist verbrannt?
+> 그게 불탔다고?
+TOBI: Teilweise. Kiek, die Kabel sind schwarz. Aber nur uff eener Seite.
+= Teilweise. Guck, die Kabel sind schwarz. Aber nur auf einer Seite.
+> 일부만. 봐, 케이블이 까맣지. 근데 한쪽만 그래.
+POLIZIST: Sie da! Hier ist abgesperrt. Weitergehen, bitte.
+> 거기 두 분! 여긴 통제 구역이에요. 지나가 주세요.
+JAN: Jan Kowalczyk, Presse. Hier ist mein Ausweis. Können Sie uns etwas sagen?
+> 얀 코발치크, 기자예요. 여기 제 기자증이요. 뭐 좀 말씀해 주실 수 있어요?
+POLIZIST: Ich darf nichts sagen. Die Pressestelle gibt um zehn Uhr eine Erklärung ab.
+> 저는 아무 말도 못 해요. 홍보실에서 열 시에 발표할 거예요.
+JAN: Ist es ein Brandanschlag?
+> 방화 공격이에요?
+POLIZIST: Ich darf nichts sagen. Aber Sie sehen ja selbst, wer hier ist.
+> 아무 말도 못 해요. 그래도 여기 누가 와 있는지는 직접 보이시잖아요.
+TOBI: Der weiße Bus da. Det sind keene normalen Polizisten. Det is Staatsschutz.
+= Der weiße Bus da. Das sind keine normalen Polizisten. Das ist Staatsschutz.
+> 저기 흰색 버스. 일반 경찰이 아니야. 국가 보안 경찰이야.
+JAN: Staatsschutz. Dann denken sie an einen politischen Anschlag.
+> 국가 보안 경찰이라. 그럼 정치적 공격으로 보는 거네.
+POLIZIST: Bitte. Weitergehen.
+> 제발요. 지나가 주세요.
+JAN: Danke. Wir gehen.
+> 고맙습니다. 갈게요.
+TOBI: Jan, die haben Jlück jehabt. Nur eene von drei Leitungen hat jebrannt. Im Januar in Lichterfelde waren et alle.
+= Jan, die haben Glück gehabt. Nur eine von drei Leitungen hat gebrannt. Im Januar in Lichterfelde waren es alle.
+> 얀, 운이 좋았던 거야. 세 개 중에 하나만 탔어. 1월 리히터펠데 땐 전부 탔거든.
+JAN: Glück. Oder es war ein Versuch.
+> 운이라. 아니면 시험이었거나.
+TOBI: Wat meinste?
+= Was meinst du?
+> 무슨 뜻이야?
+JAN: Jemand probiert, ob es funktioniert. Und wie schnell die Feuerwehr kommt.
+> 누군가 이게 통하는지 시험해 보는 거지. 그리고 소방대가 얼마나 빨리 오는지도.
+TOBI: Und noch wat. Kiek mal den Mast da. Neben der Brücke.
+= Und noch was. Guck mal den Mast da. Neben der Brücke.
+> 그리고 하나 더. 저기 기둥 좀 봐. 다리 옆에.
+JAN: Ein leerer Mast. Was soll da sein?
+> 빈 기둥이네. 거기 뭐가 있어야 하는데?
+TOBI: 'ne Kamera. Nach Januar letztes Jahr hat der Senat jesagt: An allen kritischen Kabelbrücken kommen Kameras hin. Det war vor fünfzehn Monaten.
+= Eine Kamera. Nach Januar letztes Jahr hat der Senat gesagt: An allen kritischen Kabelbrücken kommen Kameras hin. Das war vor fünfzehn Monaten.
+> 카메라. 작년 1월 뒤에 주 정부가 그랬어. 중요한 케이블 다리마다 카메라를 단다고. 그게 15개월 전이야.
+JAN: Und hier ist keine.
+> 그런데 여긴 없네.
+TOBI: Nur 'n Mast. Mit 'nem Kabel, det ins Nischts führt.
+= Nur ein Mast. Mit einem Kabel, das ins Nichts führt.
+> 기둥뿐이야. 아무 데로도 안 이어진 케이블 하나랑.
+
+# 장면 3 — DIE REDAKTIONSKONFERENZ
+HELENE: Marzahn. Dreiundzwanzigtausend Haushalte, drei Stunden ohne Strom. Was wissen wir?
+> 마르찬. 2만 3천 가구가 세 시간 동안 정전. 우리가 아는 게 뭐죠?
+LEON: Die Polizei sagt um zehn Uhr: «Wir gehen von Brandstiftung aus. Der Staatsschutz ermittelt.»
+> 경찰이 열 시에 발표했어요. «방화로 보고 있으며 국가 보안 경찰이 수사 중이다.»
+MIRA: Und die Netzgesellschaft sagt: «Die Versorgung ist wiederhergestellt. Wir arbeiten eng mit den Behörden zusammen.»
+> 그리고 전력망 회사는 «전력 공급이 복구되었으며 당국과 긴밀히 협력하고 있다»고 했어요.
+SWETA: Keine Bekennung bis jetzt. Im Januar 2026 kam das Bekennerschreiben schnell. Nach wenigen Stunden.
+> 아직 범행 주장은 없어요. 2026년 1월엔 주장문이 빨리 나왔죠. 몇 시간 만에.
+LEON: Die Vulkangruppe. Ich habe darüber gelesen. Linksextreme, die gegen «Technologie» und «Kapitalismus» kämpfen.
+> 불칸그루페요. 그거 읽어 봤어요. '기술'과 '자본주의'에 맞서 싸운다는 극좌파들이요.
+SWETA: So nennen sie sich. Es gab mehrere Schreiben. Eines hat sogar gesagt: «Wir haben nichts mit Russland zu tun.»
+> 그렇게 자칭하죠. 주장문이 여러 개 있었어요. 그중 하나는 아예 «우리는 러시아와 아무 관련이 없다»고 했고요.
+HELENE: Warum sagt man so etwas?
+> 왜 그런 말을 하죠?
+SWETA: Weil viele sofort an Russland gedacht haben. Sabotage an Infrastruktur ist eine bekannte Methode. Hybride Kriegsführung.
+> 많은 사람들이 바로 러시아를 떠올렸으니까요. 기반시설 사보타주는 잘 알려진 수법이에요. 하이브리드 전쟁.
+JAN: Und die Wahrheit?
+> 그럼 진실은요?
+SWETA: Die Wahrheit ist: Bis heute wissen wir nicht alles. Das ist das Gefährliche. Jeder kann seine Geschichte erzählen.
+> 진실은, 지금까지도 우리가 다 알지 못한다는 거예요. 그게 위험한 점이죠. 누구나 자기 이야기를 할 수 있으니까.
+HELENE: Und wir erzählen keine Geschichte. Wir sammeln Fakten.
+> 그리고 우린 이야기를 지어내지 않아요. 사실을 모으죠.
+JAN: Helene, da ist noch etwas. Die Nachricht von «Spatz». Vor vier Wochen.
+> 헬레네, 하나 더 있어요. «슈파츠»의 메시지. 4주 전에 온 거.
+HELENE: «Wartet, bis das Licht ausgeht.»
+> «불이 꺼질 때까지 기다려요.»
+MIRA: Und jetzt ist das Licht ausgegangen. In Marzahn.
+> 그리고 이제 불이 꺼졌어요. 마르찬에서.
+LEON: Spatz wusste es? Vorher?
+> 슈파츠가 미리 알았다는 거예요?
+HELENE: Oder Spatz hat geraten. Oder Spatz will, dass wir glauben, dass er es wusste.
+> 아니면 짐작한 거거나. 아니면 자기가 알았다고 우리가 믿게 만들고 싶은 거거나.
+SWETA: Das ist meine größte Sorge. Eine anonyme Quelle, die genau im richtigen Moment schreibt. Das kann auch eine Manipulation sein.
+> 그게 제일 걱정이에요. 딱 맞는 순간에 메시지를 보내는 익명의 취재원. 그건 조작일 수도 있어요.
+JAN: Oder eine sehr gute Quelle.
+> 아니면 아주 좋은 취재원이거나.
+HELENE: Beides ist möglich. Deshalb gilt für Spatz dasselbe wie für alle: Wir prüfen alles. Wir glauben nichts.
+> 둘 다 가능해요. 그러니까 슈파츠한테도 모든 취재원과 똑같은 원칙을 적용해요. 전부 확인하고, 아무것도 믿지 않는다.
+LEON: Können wir Spatz zurückschreiben? Fragen, wer er ist?
+> 슈파츠한테 답장할 수 있어요? 누군지 물어보면요?
+JAN: Ich habe es versucht. Vor drei Wochen. Keine Antwort.
+> 해 봤어. 3주 전에. 답이 없었어.
+HELENE: Gut. Dann arbeiten wir ohne Spatz. Tobi, deine Fotos?
+> 좋아요. 그럼 슈파츠 없이 일해요. 토비, 사진은요?
+TOBI: Achtzig Stück. Det Feuer, die Kabelbrücke, die Absperrung. Und der leere Mast.
+= Achtzig Stück. Das Feuer, die Kabelbrücke, die Absperrung. Und der leere Mast.
+> 여든 장. 불, 케이블 다리, 통제선. 그리고 빈 기둥.
+HELENE: Der leere Mast?
+> 빈 기둥이요?
+JAN: Dort sollte eine Kamera hängen. Der Senat hat das nach Januar 2026 versprochen.
+> 거기 카메라가 달려 있어야 했어요. 주 정부가 2026년 1월 뒤에 약속했거든요.
+HELENE: Das ist eine konkrete Frage. Mira, finde heraus, wer die Kameras installieren sollte. Und warum dort keine ist.
+> 그건 구체적인 질문이네요. 미라, 누가 카메라를 설치하기로 했는지 알아봐요. 그리고 왜 거기엔 없는지도.
+MIRA: Ausschreibungen, Vergaben, Pressemitteilungen. Ich fange sofort an.
+> 입찰 공고, 계약 체결, 보도자료. 바로 시작할게요.
+
+# 장면 4 — KERZEN VOM JANUAR
+ELKE: Marzahn? Wieder dunkel? Ick hab noch Kerzen vom Januar. Zwee Kisten.
+= Marzahn? Wieder dunkel? Ich habe noch Kerzen vom Januar. Zwei Kisten.
+> 마르찬? 또 깜깜해졌어? 나 1월에 쓰던 초가 아직 있어. 두 상자.
+JAN: Du hattest im Januar gar keinen Stromausfall. Wedding war nicht betroffen.
+> 엘케넨 1월에 정전 안 됐잖아. 베딩은 피해가 없었는데.
+ELKE: Ick nich. Aber meine Cousine Rita in Zehlendorf. Vier Tage, Jan. Vier Tage ohne Strom. Im Januar. Bei minus acht Grad.
+= Ich nicht. Aber meine Cousine Rita in Zehlendorf. Vier Tage, Jan. Vier Tage ohne Strom. Im Januar. Bei minus acht Grad.
+> 난 아니지. 근데 첼렌도르프 사는 사촌 리타가. 나흘이야, 얀. 나흘 동안 전기 없이. 1월에. 영하 8도에.
+LEON: Vier Tage? Wie hat sie das geschafft?
+> 나흘이요? 어떻게 버티셨대요?
+ELKE: Se hat bei mir jeschlafen. Uff der Bank da. Mit ihrer Katze.
+= Sie hat bei mir geschlafen. Auf der Bank da. Mit ihrer Katze.
+> 우리 집에서 잤어. 저기 저 벤치 위에서. 고양이랑 같이.
+BRÜCKNER: Und die Alten, die niemanden hatten? Die saßen im Dunkeln. Ohne Heizung, ohne Telefon, ohne Aufzug.
+> 그럼 아무도 없는 노인들은? 어둠 속에 앉아 있었지. 난방도, 전화도, 엘리베이터도 없이.
+ELKE: Rita hat erzählt: Die Feuerwehr is von Tür zu Tür jejangen. Mit Taschenlampen. «Leben Se noch?»
+= Rita hat erzählt: Die Feuerwehr ist von Tür zu Tür gegangen. Mit Taschenlampen. «Leben Sie noch?»
+> 리타 말이, 소방대가 집집마다 문을 두드리고 다녔대. 손전등 들고. «살아 계세요?»
+LEON: Das klingt wie im Krieg.
+> 전쟁 같네요.
+BRÜCKNER: Meine Eltern haben die Blockade 1948 erlebt. Mein Vater hat erzählt: zwei Stunden Strom am Tag. Aber damals wusste man, wer der Feind ist.
+> 우리 부모님이 1948년 봉쇄를 겪으셨지. 아버지 말씀이, 하루에 전기가 두 시간 들어왔대. 그래도 그땐 적이 누군지는 알았어.
+JAN: Und heute nicht.
+> 그런데 지금은 모르고요.
+BRÜCKNER: Heute nicht. Linksextreme? Russen? Irgendein Verrückter? Und alle streiten im Fernsehen, statt Kameras aufzuhängen.
+> 지금은 모르지. 극좌파? 러시아? 어떤 미치광이? 그런데 다들 카메라를 달 생각은 안 하고 텔레비전에서 싸우기만 해.
+ELKE: Weeßte wat, Jan? Ick hab Angst. Nich vor der Dunkelheit. Vor den Leuten, die im Dunkeln wat machen.
+= Weißt du was, Jan? Ich habe Angst. Nicht vor der Dunkelheit. Vor den Leuten, die im Dunkeln was machen.
+> 그거 알아, 얀? 나 무서워. 어둠이 무서운 게 아니야. 어둠 속에서 뭔가 하는 사람들이 무서운 거지.
+LEON: Elke, Sie haben… du hast Angst? Ich dachte, du hast vor nichts Angst.
+> 엘케, 무서우세요… 아니, 무서워? 엘케는 아무것도 안 무서워하는 줄 알았어.
+ELKE: Jeder hat vor wat Angst, Kleener. Wer det nich zujibt, lügt.
+= Jeder hat vor was Angst, Kleiner. Wer das nicht zugibt, lügt.
+> 누구나 뭔가를 무서워해, 꼬맹이. 그걸 인정 안 하는 사람은 거짓말하는 거야.
+JAN: Elke, kannst du Rita fragen, ob sie mit uns redet? Über den Januar?
+> 엘케, 리타한테 우리랑 얘기해 줄 수 있는지 물어봐 줄래? 1월 일에 대해서?
+ELKE: Rita redet mit jedem. Det Problem is, se hört nich uff.
+= Rita redet mit jedem. Das Problem ist, sie hört nicht auf.
+> 리타는 누구하고든 얘기해. 문제는 멈추질 않는다는 거지.
+BRÜCKNER: Dann ist sie die perfekte Zeugin.
+> 그럼 완벽한 증인이네.
+
+# 장면 5 — DER LEERE MAST
+MIRA: Ich habe es gefunden. Die Kameras. Sie wurden ausgeschrieben.
+> 찾았어. 카메라. 입찰 공고가 났었어.
+JAN: Wann?
+> 언제?
+MIRA: März 2026. Zwei Monate nach Lichterfelde. «Videoüberwachung kritischer Kabelbrücken, Los 1 bis 4.» Acht Millionen Euro.
+> 2026년 3월. 리히터펠데 사건 두 달 뒤에. «중요 케이블 다리 영상 감시, 1~4구역.» 800만 유로.
+TOBI: Und? Wer hat den Auftrag jekriegt?
+= Und? Wer hat den Auftrag gekriegt?
+> 그래서? 누가 계약을 따냈어?
+MIRA: Das ist das Seltsame. Im Juli 2026 wurde der Auftrag vergeben. Aber nicht durch die normale Ausschreibung. «Dringlichkeitsvergabe».
+> 그게 이상한 점이야. 2026년 7월에 계약이 체결됐는데, 일반 입찰로가 아니야. «긴급 수의계약».
+LEON: Was heißt das?
+> 그게 무슨 뜻이에요?
+MIRA: Wenn etwas sehr dringend ist, darf man den Auftrag schneller vergeben. Ohne lange Ausschreibung. Manchmal direkt an eine Firma.
+> 아주 급한 일이면 계약을 더 빨리 맺을 수 있어. 긴 입찰 절차 없이. 가끔은 한 회사한테 바로.
+JAN: Und an welche Firma?
+> 어떤 회사한테?
+MIRA: Der Name ist in der Veröffentlichung nicht genannt. Nur: «Auftragnehmer: ein Berliner Sicherheitsunternehmen.»
+> 공고에 이름은 안 나와. «수급자: 베를린의 한 보안 업체»라고만.
+TOBI: Und die Kameras? Hängen die irjendwo?
+= Und die Kameras? Hängen die irgendwo?
+> 그럼 카메라는? 어디 달려 있기는 해?
+MIRA: Laut Senat: «An zwölf von achtundvierzig Standorten installiert.» Zwölf von achtundvierzig. In fünfzehn Monaten.
+> 주 정부 말로는 «48곳 중 12곳에 설치 완료». 48곳 중 12곳. 15개월 동안.
+JAN: Und Marzahn gehört nicht zu den zwölf.
+> 그리고 마르찬은 그 12곳에 안 들어가고.
+MIRA: Marzahn ist auf der Liste. Aber «in Planung».
+> 마르찬은 목록에 있어. 근데 «계획 중».
+LEON: Acht Millionen Euro, eine Dringlichkeitsvergabe, und nach fünfzehn Monaten ein Viertel fertig?
+> 800만 유로에 긴급 수의계약인데, 15개월 뒤에 4분의 1만 끝났다고요?
+JAN: «Dringlich» war offenbar nur die Vergabe. Nicht die Arbeit.
+> «긴급»했던 건 계약뿐이었나 보네. 일은 아니고.
+TOBI: Wer is det Sicherheitsunternehmen?
+= Wer ist das Sicherheitsunternehmen?
+> 그 보안 업체는 누군데?
+MIRA: Das finde ich morgen raus. Heute bin ich zu müde. Ich habe seit sechs Uhr Daten gelesen.
+> 그건 내일 알아낼게. 오늘은 너무 피곤해. 여섯 시부터 데이터만 읽었어.
+TOBI: Und noch wat, Mira. Herr Wendler hat drei Stunden im Aufzug jesteckt. Die Feuerwehr is nie jekommen. Kannste rausfinden, wie viele Notrufe et in der Nacht jab?
+= Und noch was, Mira. Herr Wendler hat drei Stunden im Aufzug gesteckt. Die Feuerwehr ist nie gekommen. Kannst du herausfinden, wie viele Notrufe es in der Nacht gab?
+> 그리고 하나 더, 미라. 벤들러 씨가 세 시간 동안 엘리베이터에 갇혀 있었어. 소방대는 끝내 안 왔고. 그날 밤 긴급 신고가 몇 건이었는지 알아볼 수 있어?
+MIRA: Die Feuerwehr veröffentlicht Einsatzzahlen. Ich frage nach.
+> 소방대가 출동 건수를 공개하거든. 물어볼게.
+LEON: Das wäre eine zweite Geschichte. Nicht nur: Wer war es? Sondern auch: Sind wir vorbereitet?
+> 그건 또 다른 기사가 되겠네요. '누가 했나?'뿐 아니라 '우린 대비가 돼 있나?'까지요.
+HELENE: Gut, Leon. Das übernimmst du. Die Menschen im Dunkeln.
+> 좋아요, 레온. 그건 당신이 맡아요. 어둠 속의 사람들.
+LEON: Mache ich. Ich fange mit Herrn Wendler an. Und mit Rita in Zehlendorf.
+> 할게요. 벤들러 씨부터 시작할게요. 그리고 첼렌도르프의 리타 씨도요.
+JAN: Geh nach Hause, Mira. Morgen.
+> 집에 가, 미라. 내일 하자.
+
+# 엔딩 — DER ZWEITE SPATZ
+JAN: Mein Handy. Signal. Wieder der Spatz.
+> 휴대폰. 시그널. 또 참새야.
+LEON: Was schreibt er?
+> 뭐라고 해요?
+JAN: «Jetzt ist das Licht ausgegangen. Ihr habt den leeren Mast gesehen.»
+> «이제 불이 꺼졌어요. 빈 기둥을 봤겠죠.»
+TOBI: Woher weeß der, det wir den Mast jesehen haben?
+= Woher weiß der, dass wir den Mast gesehen haben?
+> 우리가 그 기둥을 본 걸 그 사람이 어떻게 알아?
+JAN: Vielleicht weiß er es nicht. Vielleicht weiß er nur, dass gute Journalisten ihn sehen.
+> 모를 수도 있지. 좋은 기자라면 그걸 볼 거라는 것만 아는 거겠지.
+LEON: Steht da noch mehr?
+> 더 적혀 있어요?
+JAN: «Die Kamera wurde bestellt. Und wieder abbestellt. Fragt, wer den Auftrag hatte. Und wer ihn nicht erfüllen wollte.»
+> «카메라는 주문됐어요. 그리고 다시 취소됐죠. 누가 그 계약을 따냈는지 물어보세요. 그리고 누가 그걸 이행하고 싶어 하지 않았는지도.»
+HELENE: Abbestellt? Warum bestellt jemand eine Kamera ab, die er selbst installieren soll?
+> 취소요? 자기가 설치해야 할 카메라를 왜 취소해요?
+TOBI: Weil 'ne Kabelbrücke ohne Kamera mehr Jeld bringt als eene mit.
+= Weil eine Kabelbrücke ohne Kamera mehr Geld bringt als eine mit.
+> 카메라 없는 케이블 다리가 카메라 달린 다리보다 돈이 더 되니까.
+JAN: Das ist eine schwere Vermutung, Tobi.
+> 그건 심각한 추측이야, 토비.
+TOBI: Ick weeß. Deswejen sag ick et nur hier. Und nich im Artikel.
+= Ich weiß. Deswegen sage ich es nur hier. Und nicht im Artikel.
+> 알아. 그래서 여기서만 말하는 거야. 기사에선 말고.
