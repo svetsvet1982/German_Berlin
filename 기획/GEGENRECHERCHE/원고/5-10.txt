@@ -1,0 +1,376 @@
+@part 5
+@ep 10
+@title Der Kunde
+@sub 손님 · 작은 업체를 사러 온 남자
+@info 대사 150턴 · 난이도 B2+ · 배경: 2028년 6월 말, Spreewerk 편집국, «Pflege daheim Wedding» 사무실, 엘케의 선술집, 길가의 토비 택시
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast BÄRBEL | 배르벨 크란츠 (56) · «Pflege daheim Wedding» 대표 (베를린 사투리)
+@cast BRÜCKNER | 하인츠 브뤼크너 (72) · 은퇴한 세무사, 엘케네 단골 (1부)
+@cast BRANDES | 홀거 브란데스 (47) · Pflege Plus 인수 담당 이사
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자, 잠입 중
+@cast LEON | 레온 피셔 (24) · 기자
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@note ※ 잠입(2). 얀은 4부 딥페이크 사건과 하제 인터뷰로 얼굴이 알려져 직접 위장할 수 없다. 대신 폐업 위기의 배르벨에게 Pflege Plus가 실제로 인수를 제안해 오고, 배르벨은 오랜 지인인 은퇴 세무사 브뤼크너를 진짜 자문역으로 데려간다. 기자는 그 자리에 없다. 비공개 대화 녹음은 형법 제201조 위반이므로 녹음하지 않고, 두 사람의 기억 기록만 남긴다. 등장 인물·업체 가상.
+@note ※ 표현 초점: die Übernahme · das Geschäftsmodell · die Rendite · die Abkürzung · Mit Verlaub, das klingt illegal. · die Vertraulichkeit des Wortes
+@next 5부 11화 — «Ioana redet»(이오아나가 말한다) — 이오아나가 녹음 인터뷰를 결심한다. 그러나 체류 자격과 생계가 걸려 있다.
+
+# 콜드 오픈 — EIN ANGEBOT
+BÄRBEL: Ick hab 'nen Brief jekriecht. Von Pflege Plus. Die wollen meinen Laden koofen.
+= Ich habe einen Brief gekriegt. Von Pflege Plus. Die wollen meinen Laden kaufen.
+> 편지를 받았어요. Pflege Plus에서. 내 가게를 사고 싶대요.
+JAN: Kaufen? Nach allem, was sie gegen Sie gemacht haben?
+> 산다고요? 당신한테 그 짓을 다 해 놓고?
+BÄRBEL: Gerade deswegen. Erst machense dich klein. Denn biet'se dir 'n Trostpreis. «Wir übernehmen Ihre verbliebenen Patienten und Ihr Personal zu fairen Konditionen.»
+= Gerade deswegen. Erst machen sie dich klein. Dann bieten sie dir einen Trostpreis. «Wir übernehmen Ihre verbliebenen Patienten und Ihr Personal zu fairen Konditionen.»
+> 바로 그래서죠. 먼저 사람을 작게 만들고. 그다음 위로상을 내밀어요. «남은 환자와 직원을 공정한 조건으로 인수하겠습니다.»
+HELENE: Wer hat den Brief unterschrieben?
+> 편지에 누가 서명했어요?
+BÄRBEL: Een Holger Brandes. «Bereichsleiter Akquisition». Er will mich nächste Woche treffen. In meinem Büro.
+= Ein Holger Brandes. «Bereichsleiter Akquisition». Er will mich nächste Woche treffen. In meinem Büro.
+> 홀거 브란데스라는 사람. «인수 부문장». 다음 주에 날 만나고 싶대요. 내 사무실에서.
+JAN: Wollen Sie verkaufen, Frau Kranz?
+> 파실 생각이에요, 크란츠 씨?
+BÄRBEL: Ehrlich? Ick weeß et nich. Wenn ick im Herbst zumachen muss, sind meine zwölf Patienten sowieso weg. Vielleicht is verkoofen besser als zumachen. Für die Patienten.
+= Ehrlich? Ich weiß es nicht. Wenn ich im Herbst zumachen muss, sind meine zwölf Patienten sowieso weg. Vielleicht ist verkaufen besser als zumachen. Für die Patienten.
+> 솔직히? 모르겠어요. 가을에 문 닫아야 하면 내 환자 열둘은 어차피 떠나요. 어쩌면 닫는 것보다 파는 게 나을지도. 환자들한텐.
+HELENE: Dann ist das Ihre Entscheidung. Nicht unsere. Und wir werden Sie nicht bitten, etwas vorzuspielen.
+> 그럼 그건 당신 결정이에요. 우리 게 아니고. 그리고 우린 당신한테 뭔가를 연기해 달라고 부탁하지 않을 거예요.
+BÄRBEL: Ick spiel nüscht vor. Ick hör mir dit Angebot an. Und ick nehm meinen Steuerberater mit. Wie jeder vernünftige Mensch.
+= Ich spiele nichts vor. Ich höre mir das Angebot an. Und ich nehme meinen Steuerberater mit. Wie jeder vernünftige Mensch.
+> 연기 안 해요. 제안을 들어 볼 거예요. 그리고 세무사를 데려갈 거고. 분별 있는 사람이라면 다 그러듯.
+JAN: Wer ist Ihr Steuerberater?
+> 세무사가 누군데요?
+BÄRBEL: Seit zwanzig Jahren? Heinz Brückner. Der sitzt bei Elke am Fenster.
+> 20년째? 하인츠 브뤼크너. 엘케네 창가에 앉는 사람.
+
+# 장면 1 — HEINZ BRÜCKNER
+BRÜCKNER: Kowalczyk. Ich dachte mir schon, dass Sie irgendwann wieder an meinem Tisch stehen. Diesmal nicht wegen Luxemburg?
+> 코발치크. 언젠가 또 내 탁자 앞에 설 줄 알았지. 이번엔 룩셈부르크 때문이 아니고?
+JAN: Doch. Ein bisschen. Herr Brückner, Frau Kranz sagt, Sie sind seit zwanzig Jahren ihr Steuerberater.
+> 맞아요. 조금은. 브뤼크너 씨, 크란츠 씨가 당신이 20년째 세무사라던데요.
+BRÜCKNER: Ehrenamtlich, seit ich in Rente bin. Sie zahlt mich mit Kuchen. Und mit der Gewissheit, dass ihre Bücher die saubersten in Wedding sind.
+> 은퇴하고는 무보수로. 케이크로 갚아. 그리고 자기 장부가 베딩에서 제일 깨끗하다는 확신으로.
+JAN: Sie geht nächste Woche zu einem Gespräch mit Pflege Plus. Über einen möglichen Verkauf. Sie will Sie dabeihaben.
+> 다음 주에 Pflege Plus와 면담하러 가요. 매각 가능성에 대해. 당신이 함께 있길 원해요.
+BRÜCKNER: Und Sie wollen wissen, was gesagt wird.
+> 그리고 당신은 무슨 말이 오가는지 알고 싶고.
+JAN: Ich will Sie um nichts bitten, was Sie nicht ohnehin tun würden. Sie gehen als ihr Berater. Sie beraten sie. Ehrlich. Und wenn Sie danach mit uns reden wollen, hören wir zu.
+> 어차피 하실 일 이상은 아무것도 부탁하지 않을게요. 그녀의 자문역으로 가세요. 자문하세요. 정직하게. 그리고 그 뒤에 우리랑 얘기하고 싶으시면 들을게요.
+BRÜCKNER: Ein Mikrofon?
+> 마이크는?
+KATRIN: Auf keinen Fall. Das nichtöffentlich gesprochene Wort heimlich aufzunehmen ist strafbar. Paragraf zweihunderteins. Kein Handy in der Tasche mit laufender Aufnahme. Nichts.
+> 절대 안 돼요. 비공개 대화를 몰래 녹음하는 건 처벌 대상이에요. 201조. 녹음 켜진 휴대폰을 주머니에 넣는 것도 안 되고. 아무것도.
+BRÜCKNER: Dann bleibt mein Gedächtnis. Es ist zweiundsiebzig Jahre alt. Aber es hat vierzig Jahre lang Zahlen behalten, die andere vergessen wollten.
+> 그럼 내 기억이 남지. 일흔두 살이야. 근데 40년 동안 남들이 잊고 싶어 한 숫자를 기억해 왔어.
+KATRIN: Und Frau Kranz macht ihr eigenes Gedächtnisprotokoll. Getrennt. Ohne sich mit Ihnen abzusprechen. Zwei unabhängige Erinnerungen sind stärker als eine abgestimmte.
+> 그리고 크란츠 씨는 따로 기억 기록을 써요. 별도로. 당신과 맞추지 않고. 독립된 기억 둘이 맞춘 기억 하나보다 강해요.
+BRÜCKNER: Das ist die erste kluge Regel, die ich heute höre. Und es ist schon fünf Uhr.
+> 오늘 들은 첫 번째 현명한 규칙이네. 벌써 다섯 시인데.
+
+# 장면 1-2 — ELKE ÜBER BÄRBEL
+ELKE: Heinz, du jehst mit Bärbel zu dem Schnösel? Denn trink erst ma 'n Schnaps. Uff meine Kosten.
+= Heinz, du gehst mit Bärbel zu dem Schnösel? Dann trink erst mal einen Schnaps. Auf meine Kosten.
+> 하인츠, 배르벨이랑 그 건방진 놈 만나러 가? 그럼 먼저 슈납스 한 잔 해. 내가 살게.
+BRÜCKNER: Um fünf Uhr nachmittags, Elke?
+> 오후 다섯 시에, 엘케?
+ELKE: Für Mut jibt et keene Uhrzeit.
+= Für Mut gibt es keine Uhrzeit.
+> 용기엔 시간이 없어.
+JAN: Elke, wie lange kennst du Bärbel?
+> 엘케, 배르벨을 얼마나 오래 알았어요?
+ELKE: Seit sie sechzehn war. Da hat se bei mir gekellnert. Für 'n Moped. Hat jedes Glas jezählt. Nich een Pfennig hat jefehlt. Nie.
+= Seit sie sechzehn war. Da hat sie bei mir gekellnert. Für ein Moped. Hat jedes Glas gezählt. Nicht ein Pfennig hat gefehlt. Nie.
+> 열여섯 살 때부터. 그때 우리 가게에서 서빙했어. 오토바이 사려고. 잔 하나하나 셌지. 1페니히도 빈 적 없어. 한 번도.
+JAN: Und dann Pflege?
+> 그다음 돌봄?
+ELKE: Denn hat ihre Mutter 'n Schlaganfall jekriecht. Und Bärbel hat se sieben Jahre jepflegt. Alleene. Danach hat se jesacht: «Elke, dit kann ick. Und ick will, dass keener so alleene is wie ick damals.» Und hat den Laden uffjemacht.
+= Dann hat ihre Mutter einen Schlaganfall gekriegt. Und Bärbel hat sie sieben Jahre gepflegt. Alleine. Danach hat sie gesagt: «Elke, das kann ich. Und ich will, dass keiner so alleine ist wie ich damals.» Und hat den Laden aufgemacht.
+> 그다음 엄마가 뇌졸중이 왔어. 그리고 배르벨이 7년을 돌봤어. 혼자. 그 뒤에 그러더라. «엘케, 이거 할 수 있어. 그리고 아무도 그때의 나처럼 혼자이지 않았으면 해.» 그리고 가게를 열었지.
+BRÜCKNER: Und deshalb verkauft sie nicht an jemanden, der Menschen auf graue Listen setzt.
+> 그래서 사람들을 회색 목록에 올리는 사람한텐 안 파는 거지.
+ELKE: Wenn se verkooft, denn red ick nie wieder mit ihr. Und dit weeß se.
+= Wenn sie verkauft, dann rede ich nie wieder mit ihr. Und das weiß sie.
+> 팔면 다신 걔랑 말 안 해. 그리고 걔도 그걸 알아.
+JAN: Elke, das ist ihre Entscheidung.
+> 엘케, 그건 그녀 결정이에요.
+ELKE: Weeß ick. Ick hab ja ooch nich jesacht, dass ick se nich mehr liebhab. Nur, dass ick nich mehr mit ihr rede.
+= Weiß ich. Ich habe ja auch nicht gesagt, dass ich sie nicht mehr liebhabe. Nur, dass ich nicht mehr mit ihr rede.
+> 알아. 걔를 더는 안 아낀다고 하진 않았잖아. 더는 말 안 한다고만 했지.
+
+# 장면 2 — DIE VORBEREITUNG
+HELENE: Frau Kranz, eines müssen Sie wissen. Sie dürfen jederzeit Nein sagen. Zu dem Gespräch, zu Pflege Plus, zu uns.
+> 크란츠 씨, 알아 두셔야 할 게 있어요. 언제든 거절하셔도 돼요. 면담도, Pflege Plus도, 우리도.
+BÄRBEL: Weeß ick. Aber ick will wissen, wat die mit meinen zwölf vorhaben. Wenn die meine Leute kriegen und die denn uff 'ner grauen Liste landen…
+= Weiß ich. Aber ich will wissen, was die mit meinen zwölf vorhaben. Wenn die meine Leute kriegen und die dann auf einer grauen Liste landen…
+> 알아요. 근데 그쪽이 내 열둘을 어떻게 할 건지 알고 싶어요. 내 사람들을 가져가서 회색 목록에 올리면…
+JAN: Das ist eine legitime Frage. Stellen Sie sie. Als Inhaberin. Nicht als Journalistin.
+> 정당한 질문이에요. 물어보세요. 대표로서. 기자로서가 아니라.
+SWETA: Und noch etwas. Menschen wie Brandes erzählen gern, wie klug sie sind. Wenn Sie beeindruckt aussehen, erzählen sie mehr. Wenn Sie misstrauisch aussehen, erzählen sie weniger.
+> 그리고 하나 더. 브란데스 같은 사람들은 자기가 얼마나 영리한지 말하길 좋아해요. 감탄한 표정이면 더 말하고. 의심하는 표정이면 덜 말하죠.
+BÄRBEL: Ick soll beeindruckt kieken? Vor dem?
+= Ich soll beeindruckt gucken? Vor dem?
+> 감탄한 표정을 지으라고? 그 사람 앞에서?
+SWETA: Nicht lügen. Nur nicht unterbrechen.
+> 거짓말하라는 게 아니에요. 끊지만 마세요.
+BRÜCKNER: Das übernehme ich. Ich habe vierzig Jahre lang Mandanten zugehört, die mir erzählt haben, wie klug ihre Steuersparmodelle sind. Ich kann sehr beeindruckt schweigen.
+> 그건 내가 맡지. 40년 동안 자기 절세 모델이 얼마나 영리한지 떠드는 고객들 얘기를 들었어. 아주 감탄한 듯 침묵할 수 있어.
+TOBI: Und ick steh mit'm Taxi zwee Häuser weiter. Wenn wat is, ruft ihr «Pfefferminztee».
+= Und ich stehe mit dem Taxi zwei Häuser weiter. Wenn etwas ist, ruft ihr «Pfefferminztee».
+> 그리고 난 택시로 두 집 떨어져 서 있을게. 무슨 일 있으면 «페퍼민트 차».
+BÄRBEL: Dit is euer Notfallwort? Pfefferminztee?
+= Das ist euer Notfallwort? Pfefferminztee?
+> 그게 당신들 비상 암호야? 페퍼민트 차?
+TOBI: Hat sich bewährt.
+> 효과 검증됐어.
+
+# 장면 2-2 — MIRAS ABENDANRUF
+MIRA: Jan? Kurz. Ich habe heute etwas gehört. Nicht gesucht. Gehört.
+> 얀? 짧게. 오늘 뭘 들었어요. 찾은 게 아니라. 들은 거예요.
+JAN: Erzähl.
+> 말해 봐.
+MIRA: Schott hat im Büro telefoniert. Laut. Die Tür war offen. Sie hat gesagt: «Brandes kauft nächste Woche die Kranz. Dann ist Wedding-Ost sauber.»
+> 쇼트가 사무실에서 통화했어요. 크게. 문이 열려 있었어요. 이랬어요. «브란데스가 다음 주에 크란츠를 사. 그러면 베딩 동쪽은 깨끗해.»
+JAN: «Sauber.» Hat sie das so gesagt?
+> «깨끗해.» 정확히 그렇게 말했어?
+MIRA: Wörtlich. Ich habe es um vierzehn Uhr zwölf ins Protokoll geschrieben. Auf der Toilette. Aus dem Gedächtnis.
+> 그대로요. 14시 12분에 기록에 적었어요. 화장실에서. 기억으로.
+JAN: Sauber heißt: keine Konkurrenz mehr. Niemand mehr, mit dem man vergleichen kann.
+> 깨끗하다는 건: 더는 경쟁자가 없다. 비교할 상대가 아무도 없다.
+MIRA: Und niemand mehr, zu dem ein Patient wechseln kann, wenn er zwei Tage auf dem Boden lag.
+> 그리고 이틀 바닥에 누워 있던 환자가 옮겨 갈 데도 더는 없고요.
+JAN: Wie geht es dir sonst?
+> 그거 말고 넌 어때?
+MIRA: Die grauen Namen sind heute zwölf. Gestern elf. Herr Gerlach ist jetzt auch dienstags grau.
+> 오늘 회색 이름이 열둘이에요. 어젠 열하나. 게를라흐 씨가 이제 화요일에도 회색이에요.
+JAN: Warst du trotzdem da?
+> 그래도 갔어?
+MIRA: In meiner Mittagspause. Mit einem Brötchen. Als Besuch. Nicht als Pflegerin. Ich habe ihm die Strümpfe angezogen. Und nichts in die App getippt.
+> 점심시간에요. 빵 하나 들고. 손님으로. 요양사로 말고. 스타킹 신겨 드렸어요. 그리고 앱엔 아무것도 안 쳤어요.
+JAN: Mira. Das ist genau die Grenze, über die Helene gesprochen hat. Du kannst nicht alle grauen Namen in deiner Mittagspause besuchen.
+> 미라. 그게 바로 헬레네가 말한 경계야. 회색 이름을 전부 점심시간에 방문할 순 없어.
+MIRA: Ich weiß. Nur ihn. Nur heute. Weil er gesagt hat, dienstags ist es am stillsten.
+> 알아요. 그분만. 오늘만. 화요일이 제일 조용하다고 하셔서.
+JAN: Noch zwei Wochen, Mira. Dann ist es vorbei.
+> 2주만 더, 미라. 그러면 끝이야.
+MIRA: Für mich. Für ihn nicht.
+> 저한텐요. 그분한텐 아니고요.
+
+# 장면 3 — DAS GESPRÄCH, ERSTER TEIL
+BRANDES: Frau Kranz, Herr Brückner. Holger Brandes. Danke für Ihre Zeit. Ich komme direkt zum Punkt, das schätzen Sie sicher.
+> 크란츠 씨, 브뤼크너 씨. 홀거 브란데스예요. 시간 내 주셔서 감사해요. 바로 본론으로 갈게요, 그걸 좋아하실 테니.
+BÄRBEL: Bitte.
+> 그러세요.
+BRANDES: Ihr Dienst ist sympathisch. Fünfzehn Jahre, treue Patienten, gute Bewertungen — bis vor Kurzem. Aber Sie wissen so gut wie ich: Kleine Dienste haben keine Zukunft. Die Fixkosten, die Dokumentation, der Personalmangel.
+> 당신 업체는 호감 가요. 15년, 충성스러운 환자, 좋은 평판 — 최근까지는. 근데 저만큼 아시잖아요. 작은 업체엔 미래가 없어요. 고정비, 기록, 인력난.
+BRÜCKNER: Die Bewertungen waren gut, bis jemand sie schlecht gemacht hat.
+> 평판은 누가 나쁘게 만들기 전까진 좋았죠.
+BRANDES: Das Internet ist grausam. Leider. Wir bieten Ihnen einen Ausweg. Wir übernehmen Ihre zwölf Patienten, Ihre drei Teilzeitkräfte und Frau Aksoy. Sie bekommen achtzigtausend Euro. Und einen Beratervertrag für zwei Jahre.
+> 인터넷은 잔인하죠. 안타깝게도. 출구를 드릴게요. 환자 열둘, 시간제 셋, 그리고 악소이 씨를 인수해요. 당신은 8만 유로를 받고. 2년짜리 자문 계약도.
+BÄRBEL: Achtzigtausend. Für fuffzehn Jahre.
+= Achtzigtausend. Für fünfzehn Jahre.
+> 8만. 15년에 대해.
+BRANDES: Für zwölf Patienten. Ehrlich gesagt ist das großzügig. Wir zahlen nicht für Ihre Vergangenheit. Wir zahlen für die Zukunft Ihrer Patienten.
+> 환자 열둘에 대해. 솔직히 후한 거예요. 당신 과거에 돈 내는 게 아니에요. 환자들의 미래에 내는 거죠.
+BRÜCKNER: Interessant. Und wie rechnet sich das für Sie? Zwölf Patienten, achtzigtausend Euro Kaufpreis plus Beratervertrag. Bei normalen Margen in der ambulanten Pflege dauert es Jahre, bis das zurückkommt.
+> 흥미롭군요. 그럼 그쪽은 어떻게 수지가 맞아요? 환자 열둘, 인수가 8만 유로에 자문 계약까지. 방문간병의 보통 마진이면 회수하는 데 몇 년 걸리는데.
+BRANDES: Bei normalen Margen, ja. Unsere Margen sind nicht normal, Herr Brückner. Wir sind effizient.
+> 보통 마진이면 그렇죠. 우리 마진은 보통이 아니에요, 브뤼크너 씨. 우린 효율적이니까.
+BRÜCKNER: Effizient. Das Wort habe ich von vielen Mandanten gehört. Meistens kurz bevor ich ihnen sagen musste, dass das Finanzamt anders darüber denkt.
+> 효율적. 그 말 많은 고객한테서 들었어요. 대개 세무서 생각은 다르다고 말해 줘야 하기 직전에.
+BRANDES: Ha! Sie gefallen mir. Ein Mann mit Humor.
+> 하! 마음에 드네요. 유머 있는 분이시네.
+
+# 장면 4 — DAS GESPRÄCH, ZWEITER TEIL
+BÄRBEL: Wat passiert mit meinen Patienten? Konkret. Wer kommt morgens? Wie oft?
+= Was passiert mit meinen Patienten? Konkret. Wer kommt morgens? Wie oft?
+> 내 환자들은 어떻게 돼요? 구체적으로. 아침에 누가 와요? 얼마나 자주?
+BRANDES: Unsere Tourenplanung ist digital. Eine App entscheidet, wer wann versorgt wird. Nach Bedarf. Nicht jeder Patient braucht jeden Tag dasselbe.
+> 우리 순회 계획은 디지털이에요. 앱이 누가 언제 돌봄 받을지 정해요. 필요에 따라. 모든 환자가 매일 같은 걸 필요로 하진 않으니까.
+BÄRBEL: Aber abjerechnet wird jeden Tag dasselbe?
+= Aber abgerechnet wird jeden Tag dasselbe?
+> 근데 청구는 매일 같은 걸로 돼요?
+BRANDES: Abgerechnet wird, was im Pflegeplan steht. Der Pflegeplan ist der Anspruch. Was davon genau an welchem Tag erbracht wird, ist eine Frage der Organisation.
+> 청구는 돌봄 계획에 있는 대로 돼요. 돌봄 계획이 권리예요. 그중 정확히 무엇이 어느 날 제공되는지는 조직의 문제고요.
+BRÜCKNER: Mit Verlaub, das klingt illegal.
+> 외람되지만, 그건 불법처럼 들리는데요.
+BRANDES: Es klingt so, Herr Brückner. Es ist es nicht. Es ist eine Grauzone. Und in einer Grauzone gewinnt, wer die besseren Juristen hat. Wir haben die besseren Juristen.
+> 그렇게 들리죠, 브뤼크너 씨. 근데 아니에요. 회색 지대예요. 그리고 회색 지대에선 더 나은 법률가를 가진 쪽이 이겨요. 우리가 더 나은 법률가를 가졌고요.
+BRÜCKNER: Und das Personal? Frau Kranz hat drei Teilzeitkräfte. Die verdienen nicht viel.
+> 직원은요? 크란츠 씨한텐 시간제 셋이 있어요. 많이 못 벌어요.
+BRANDES: Bei uns verdienen sie auch nicht viel. Aber sie bekommen ein Gesamtpaket. Unterkunft, wenn nötig. Und wir helfen bei allen Behördengängen. Aufstockung, Anträge, das ganze Programm.
+> 우리한테서도 많이 못 벌어요. 근데 종합 패키지를 받죠. 필요하면 숙소. 그리고 관청 일은 다 도와요. 보충 급여, 신청서, 전 과정.
+BÄRBEL: Und dit Amt macht dit so schnell, wie Se wollen?
+= Und das Amt macht das so schnell, wie Sie wollen?
+> 그리고 관청이 그걸 원하시는 만큼 빨리 해 줘요?
+BRANDES: Den Jobcenter-Papierkram regeln wir. Wir haben da sehr gute Kontakte. Herr K. macht das alles für uns. Sie würden staunen, wie schnell eine Behörde sein kann, wenn man den richtigen Menschen kennt.
+> 잡센터 서류 문제는 우리가 해결해요. 거기 아주 좋은 인맥이 있거든요. K 씨가 다 알아서 해 줘요. 맞는 사람을 알면 관청이 얼마나 빠를 수 있는지 놀라실 거예요.
+BRÜCKNER: Herr K.?
+> K 씨?
+BRANDES: Ein Name ist ein Name. Er heißt M. K., wenn Sie es genau wissen wollen. Aber das tut nichts zur Sache. Wichtig ist: Es funktioniert.
+> 이름은 이름일 뿐이죠. 정확히 알고 싶으시면 M. K.예요. 근데 그건 중요하지 않아요. 중요한 건: 작동한다는 거예요.
+
+# 장면 4-2 — DAS GESPRÄCH, DRITTER TEIL
+BÄRBEL: Und wenn ick nich verkoofe? Wat denn?
+= Und wenn ich nicht verkaufe? Was dann?
+> 그럼 내가 안 팔면? 그땐 어쩔 건데요?
+BRANDES: Dann machen Sie weiter. Mit zwölf Patienten. Und mit den Bewertungen, die Sie jetzt haben.
+> 그럼 계속하시는 거죠. 환자 열둘이랑. 그리고 지금 가진 평판이랑.
+BRÜCKNER: Die Bewertungen. Sie kommen wieder darauf zurück.
+> 평판. 또 그 얘기로 돌아오시네요.
+BRANDES: Weil sie Ihr größtes Problem sind, Herr Brückner. Und weil Probleme manchmal von selbst verschwinden. Wenn ein Dienst Teil einer großen Familie wird, zum Beispiel. Das Internet vergisst schnell, wenn man es freundlich bittet.
+> 그게 가장 큰 문제니까요, 브뤼크너 씨. 그리고 문제는 가끔 저절로 사라지거든요. 예를 들어 업체가 큰 가족의 일원이 되면. 인터넷은 친절하게 부탁하면 빨리 잊어요.
+BÄRBEL: Wer bittet dit Internet?
+= Wer bittet das Internet?
+> 누가 인터넷한테 부탁하는데요?
+BRANDES: Wir haben eine sehr gute Kommunikationsagentur. Hatten. Sie hat leider im Frühjahr geschlossen. Aber es gibt andere.
+> 아주 좋은 커뮤니케이션 에이전시가 있어요. 있었죠. 안타깝게도 봄에 문을 닫았어요. 근데 다른 데도 있으니까요.
+BRÜCKNER: Im Frühjahr geschlossen. Wie schade.
+> 봄에 문을 닫았다. 아쉽네요.
+BRANDES: Ja. Eine Geschichte mit Journalisten. Spreewerk, kennen Sie? Die haben sie kaputtgeschrieben. Diese Leute machen alles kaputt, was funktioniert.
+> 네. 기자들이랑 얽힌 얘기예요. Spreewerk 아세요? 그 사람들이 기사로 망가뜨렸어요. 그 사람들은 잘 굴러가는 건 다 망가뜨려요.
+BÄRBEL: Ick les keene Zeitung.
+= Ich lese keine Zeitung.
+> 난 신문 안 읽어요.
+BRÜCKNER: Ich schon. Aber nur den Wirtschaftsteil.
+> 난 읽어요. 근데 경제면만.
+BRANDES: Dann sind Sie klüger als die meisten. Also, Frau Kranz: Sie haben zwei Wochen. Danach ziehen wir das Angebot zurück. Und dann… nun, dann sehen wir weiter.
+> 그럼 대부분보다 현명하시네요. 그러니까 크란츠 씨: 2주 드릴게요. 그 뒤엔 제안을 거둬요. 그리고 그다음엔… 뭐, 그다음은 두고 봐야죠.
+BÄRBEL: Is dit 'ne Drohung?
+= Ist das eine Drohung?
+> 그거 협박이에요?
+BRANDES: Das ist ein Zeitplan, Frau Kranz. Wir sind ein großes Unternehmen. Wir haben Zeitpläne.
+> 그건 일정이에요, 크란츠 씨. 우린 큰 회사예요. 일정이 있죠.
+
+# 장면 5 — IM TAXI
+TOBI: Und? Wie war's? Ihr seht beede aus, als hättet ihr Essig jetrunken.
+= Und? Wie war es? Ihr seht beide aus, als hättet ihr Essig getrunken.
+> 그래서? 어땠어? 둘 다 식초 마신 얼굴이네.
+BÄRBEL: Nüscht sajen. Nich jetzt. Katrin hat jesacht, jeder schreibt erst alleene uff.
+= Nichts sagen. Nicht jetzt. Katrin hat gesagt, jeder schreibt erst alleine auf.
+> 아무 말도 하지 마. 지금은. 카트린이 각자 먼저 혼자 적으랬어.
+BRÜCKNER: Richtig. Ich steige an der nächsten Ecke aus und schreibe im Café. Frau Kranz schreibt im Taxi. Und Herr Rehberg schaut aus dem Fenster und sagt nichts.
+> 맞아. 다음 모퉁이에서 내려서 카페에서 쓸게. 크란츠 씨는 택시에서 쓰고. 그리고 레베르크 씨는 창밖 보면서 아무 말 안 하고.
+TOBI: Dit fällt mir schwer.
+= Das fällt mir schwer.
+> 그거 나한테 어려운데.
+BRÜCKNER: Ich weiß. Deshalb ist es eine Übung.
+> 알아. 그래서 연습이야.
+BÄRBEL: Heinz… eene Sache sach ick doch. Der hat jelacht, als er «Grauzone» jesacht hat. Jelacht. Wie über 'n Witz.
+= Heinz… eine Sache sage ich doch. Der hat gelacht, als er «Grauzone» gesagt hat. Gelacht. Wie über einen Witz.
+> 하인츠… 하나는 말할게. 그 사람 «회색 지대»라고 할 때 웃었어. 웃었다고. 농담하듯이.
+BRÜCKNER: Schreib es auf, Bärbel. Genau so. Mit dem Lachen.
+> 적어, 배르벨. 정확히 그렇게. 웃음까지.
+
+# 장면 6 — ZWEI PROTOKOLLE
+KATRIN: Ich habe beide Protokolle. Getrennt geschrieben, getrennt verschickt. Und jetzt vergleiche ich sie. Zum ersten Mal.
+> 기록 둘 다 받았어. 따로 쓰고, 따로 보냈지. 이제 비교할게. 처음으로.
+HELENE: Und?
+> 그래서?
+KATRIN: Achtzigtausend Euro: beide. Beratervertrag: beide. «Die App entscheidet»: beide. «Grauzone» und «bessere Juristen»: beide. Frau Kranz schreibt zusätzlich, dass er dabei gelacht hat.
+> 8만 유로: 둘 다. 자문 계약: 둘 다. «앱이 정한다»: 둘 다. «회색 지대»와 «더 나은 법률가»: 둘 다. 크란츠 씨는 그가 그때 웃었다고 추가로 썼어.
+JAN: Und der Name?
+> 그리고 이름은?
+KATRIN: Herr Brückner schreibt: «Den Jobcenter-Papierkram regeln wir. Herr K. macht das alles. Auf Nachfrage: M. K.» Frau Kranz schreibt: «Er hat gesagt, ein Herr K. vom Amt regelt alles, M. K., hat er gesagt, wie so ein Kürzel.»
+> 브뤼크너 씨: «잡센터 서류는 우리가 해결. K 씨가 다 함. 재차 묻자: M. K.» 크란츠 씨: «관청의 K 씨가 다 해결한대, M. K.라고 했어, 무슨 약자처럼.»
+SWETA: Zwei unabhängige Erinnerungen. Dieselben Initialen.
+> 독립된 기억 둘. 같은 이니셜.
+JAN: «Vom Amt» — hat Brandes das so gesagt? Oder hat Frau Kranz das ergänzt?
+> «관청의» — 브란데스가 그렇게 말했어? 아니면 크란츠 씨가 덧붙인 거야?
+KATRIN: Herr Brückner schreibt «Jobcenter-Papierkram» und «sehr gute Kontakte da». Der Zusammenhang ist klar. Aber das Wort «vom Amt» steht nur bei Frau Kranz. Wir zitieren nur, was in beiden steht.
+> 브뤼크너 씨는 «잡센터 서류»와 «거기 아주 좋은 인맥»이라고 썼어. 맥락은 분명해. 근데 «관청의»라는 말은 크란츠 씨 기록에만 있어. 둘 다에 있는 것만 인용해.
+HELENE: Das ist hart. Aber das ist richtig.
+> 엄격하네. 근데 옳아.
+LEON: Darf ich etwas einwerfen? Im Jobcenter Spandau, Team 524. Ich habe das Organigramm gesucht. Öffentlich, auf der Website des Bezirks. Teamleitung 524: Martin Kessler.
+> 한마디 해도 돼요? 잡센터 슈판다우, 팀 524. 조직도를 찾았어요. 공개돼 있어요, 구청 웹사이트에. 팀 524 팀장: 마르틴 케슬러.
+JAN: M. K.
+> M. K.
+LEON: M. K. Aber auch das ist erst einmal ein Zufall. Wie «S. B.».
+> M. K. 근데 이것도 일단은 우연이에요. «S. B.»처럼.
+HELENE: Du lernst, Leon. Ab in den Ordner. «Was gegen uns spricht.» Und gleich daneben: «Was für uns spricht.»
+> 배우고 있네, 레온. 자료철로. «우리에게 불리한 것.» 그리고 바로 옆에: «우리에게 유리한 것.»
+
+# 장면 6-2 — WAR DAS SAUBER?
+HELENE: Bevor wir weitermachen, eine Frage, die uns ein Richter stellen würde: Waren Frau Kranz und Herr Brückner unsere Agenten?
+> 계속하기 전에, 판사가 우리한테 물을 질문 하나: 크란츠 씨와 브뤼크너 씨는 우리 요원이었나?
+KATRIN: Nein. Frau Kranz hat das Angebot selbst bekommen. Sie hat sich selbst entschieden, es anzuhören. Sie hat ihren echten Berater mitgenommen. Wir haben ihnen keine Fragen vorgegeben und nichts bezahlt.
+> 아니. 크란츠 씨가 제안을 직접 받았어. 들어 보기로 스스로 정했고. 진짜 자문역을 데려갔어. 우린 질문을 정해 주지도 않았고 돈도 안 줬어.
+JAN: Sweta hat ihr gesagt: nicht unterbrechen.
+> 스베타가 끊지 말라고 했잖아.
+KATRIN: Ein Rat zur Gesprächsführung ist keine Steuerung. Aber schreibt es auf. Transparent. Falls jemand fragt.
+> 대화 요령 조언은 조종이 아니야. 근데 적어 둬. 투명하게. 누가 물을 경우에 대비해.
+SWETA: Und Brandes hat über Spreewerk gesprochen. Ohne zu wissen, dass Spreewerk am nächsten Tag sein Zitat liest.
+> 그리고 브란데스가 Spreewerk 얘기를 했죠. 다음 날 Spreewerk가 자기 발언을 읽을 줄도 모르고.
+HELENE: Und genau deshalb bekommt er vor der Veröffentlichung jede Frage schriftlich. Er soll die Chance haben, zu sagen, dass Herr Brückner sich verhört hat.
+> 그리고 바로 그래서 공개 전에 모든 질문을 서면으로 받게 돼. 브뤼크너 씨가 잘못 들었다고 말할 기회가 있어야 하니까.
+BRÜCKNER: Ich habe mich nicht verhört. Aber er darf es gern behaupten. Ich habe vierzig Jahre lang Mandanten gehabt, die behauptet haben, sie hätten nie gesagt, was sie gesagt haben.
+> 잘못 듣지 않았어. 근데 그렇게 주장하는 건 얼마든지. 40년 동안 자기가 한 말을 한 적 없다고 주장하는 고객들이 있었지.
+LEON: Und HH? Brandes hat gesagt, «eine sehr gute Kommunikationsagentur, leider im Frühjahr geschlossen».
+> 그리고 HH는요? 브란데스가 «아주 좋은 커뮤니케이션 에이전시, 안타깝게도 봄에 폐쇄»라고 했잖아요.
+SWETA: Er hat zugegeben, dass Pflege Plus mit Hype und Hafen gearbeitet hat. Und er hat die schlechten Bewertungen in einem Atemzug mit «das Internet vergisst, wenn man es bittet» genannt.
+> Pflege Plus가 하이프 운트 하펜과 일했다는 걸 인정한 거예요. 그리고 나쁜 평판을 «부탁하면 인터넷이 잊는다»와 한숨에 엮어 말했고요.
+JAN: Das ist kein Geständnis. Aber es ist ein Satz, den man ihm vorlegen kann. Mit der Frage: Was meinten Sie damit?
+> 그건 자백이 아니야. 근데 그에게 들이밀 수 있는 문장이지. 이런 질문과 함께. 그게 무슨 뜻이었나요?
+HELENE: Und mit der Frist von zwei Wochen, die er Bärbel gesetzt hat. «Dann sehen wir weiter.» Wir beobachten, was in zwei Wochen mit Pflege daheim passiert.
+> 그리고 그가 배르벨한테 준 2주 기한까지. «그다음은 두고 봐야죠.» 2주 뒤에 Pflege daheim에 무슨 일이 생기는지 지켜보자.
+
+# 엔딩 — DAS FOTO IM BUNKER
+TOBI: Leon, wenn der Teamleiter Kessler heißt — jibt et 'n Foto von dem? Irjendwo öffentlich?
+= Leon, wenn der Teamleiter Kessler heißt — gibt es ein Foto von dem? Irgendwo öffentlich?
+> 레온, 팀장 이름이 케슬러면 — 그 사람 사진 있어? 어디 공개된 거?
+LEON: Ein einziges. Von einer Veranstaltung des Bezirks vor zwei Jahren. «Jobcenter und Arbeitgeber im Dialog.» Er steht in der zweiten Reihe.
+> 딱 한 장. 2년 전 구청 행사 사진. «잡센터와 고용주의 대화.» 둘째 줄에 서 있어요.
+TOBI: Zeig her. … Mira, mach den Bunker uff. Mein Foto vom Fünfzehnten. Der Mann mit der umjedrehten Karte.
+= Zeig her. … Mira, mach den Bunker auf. Mein Foto vom Fünfzehnten. Der Mann mit der umgedrehten Karte.
+> 보여 줘. … 미라, 벙커 열어. 15일에 찍은 내 사진. 출입증 뒤집은 남자.
+MIRA: Hier. Ich lege sie nebeneinander.
+> 여기. 나란히 놓을게요.
+SWETA: Gleiche Brille. Gleiche Haarlinie. Gleiche Art, den Kopf leicht schief zu halten.
+> 같은 안경. 같은 이마 선. 고개를 살짝 기울이는 같은 버릇.
+JAN: Ähnlich ist nicht dasselbe. Wir sind keine Gesichtserkennungssoftware.
+> 비슷한 건 같은 게 아니야. 우린 얼굴 인식 소프트웨어가 아니야.
+TOBI: Nee. Aber wir ham noch wat. Kiek ma uff dem Veranstaltungsfoto, wer in der ersten Reihe steht. Janz links.
+= Nein. Aber wir haben noch was. Guck mal auf dem Veranstaltungsfoto, wer in der ersten Reihe steht. Ganz links.
+> 아니지. 근데 하나 더 있어. 행사 사진 첫째 줄 맨 왼쪽에 누가 서 있는지 봐 봐.
+LEON: Das ist… Holger Brandes. Pflege Plus. Als «Arbeitgebervertreter».
+> 이건… 홀거 브란데스. Pflege Plus. «고용주 대표»로.
+HELENE: Vor zwei Jahren. Auf demselben Foto. Der Mann, der kauft, und der Mann, der die Tür aufmacht.
+> 2년 전. 같은 사진에. 사는 남자와 문 열어 주는 남자.
+JAN: Das beweist nicht, dass sie zusammenarbeiten. Auf so einer Veranstaltung stehen hundert Leute.
+> 그게 둘이 같이 일한다는 증거는 아니야. 그런 행사엔 백 명이 서 있어.
+BÄRBEL: Aber nur eener von denen hat zu mir jesacht: «Herr K. macht dit alles für uns.»
+= Aber nur einer von denen hat zu mir gesagt: «Herr K. macht das alles für uns.»
+> 근데 그중 딱 한 명만 나한테 이랬지. «K 씨가 우리 대신 다 해 줘요.»
+JAN: Frau Kranz — und was machen Sie mit dem Angebot?
+> 크란츠 씨 — 그럼 그 제안은 어떻게 하실 거예요?
+BÄRBEL: Ick verkoof nich. Nich an die. Lieber mach ick zu. Und wenn ick zumache, denn mit sauberen Büchern. Heinz, sach ihm dit.
+= Ich verkaufe nicht. Nicht an die. Lieber mache ich zu. Und wenn ich zumache, dann mit sauberen Büchern. Heinz, sag ihm das.
+> 안 팔아요. 그 사람들한텐. 차라리 문 닫을래요. 그리고 닫는다면 깨끗한 장부로 닫을 거예요. 하인츠, 그 사람한테 그렇게 말해.
+BRÜCKNER: Mit Vergnügen. Schriftlich. Mit Kopie an meinen Kuchenvorrat.
+> 기꺼이. 서면으로. 사본은 내 케이크 비축분 앞으로.
+JAN: Gut. Dann haben wir jetzt drei Türen. Die Kühlschranktür von Horst. Die Hintertür des Jobcenters. Und die Bürotür von Frau Kranz.
+> 좋아. 그럼 이제 문이 셋이야. 호르스트의 냉장고 문. 잡센터의 뒷문. 그리고 크란츠 씨의 사무실 문.
+MIRA: Und eine vierte. Ioana. Sie hat mir heute geschrieben. Sie will reden. Mit Aufnahme. Mit ihrer Stimme.
+> 그리고 넷째. 이오아나. 오늘 문자 보냈어요. 말하고 싶대요. 녹음해서. 자기 목소리로.
+HELENE: Hat sie die Beratungsstelle angerufen?
+> 상담 기관에 전화했대?
+MIRA: Gestern. Die Beraterin heißt Doina. Sie spricht Rumänisch. Ioana hat eine Stunde mit ihr geredet. Und danach hat sie mir geschrieben: «Jetzt habe ich keine Angst mehr vor meiner eigenen Geschichte.»
+> 어제요. 상담원 이름은 도이나. 루마니아어 해요. 이오아나가 한 시간 얘기했대요. 그리고 그다음 저한테 이렇게 썼어요. «이제 내 이야기가 더는 무섭지 않아.»
+KATRIN: Dann sprechen wir vorher mit Doina. Über Opferschutz, Aufenthalt, Unterkunft. Bevor Ioana ein Wort ins Mikrofon sagt.
+> 그럼 그 전에 도이나랑 얘기하자. 피해자 보호, 체류, 숙소에 대해. 이오아나가 마이크에 한 마디 하기 전에.
+JAN: Und Mira — du bist dabei. Als Mira. Nicht als Emine.
+> 그리고 미라 — 너도 가. 미라로. 에미네가 아니라.
+MIRA: Dann muss ich ihr sagen, wer ich bin.
+> 그럼 제가 누군지 말해야 하네요.
+JAN: Ja. Und sie wird entscheiden, ob sie dir dann noch vertraut.
+> 그래. 그리고 그다음에도 널 믿을지는 그녀가 정할 거야.
+MIRA: Ich habe Angst davor. Mehr als vor Brandes.
+> 그게 무서워요. 브란데스보다 더.
+ELKE: Mädchen. Wer die Wahrheit sacht, verliert manchmal 'n Freund. Aber wer se nich sacht, verliert ihn immer. Nur später.
+= Mädchen. Wer die Wahrheit sagt, verliert manchmal einen Freund. Aber wer sie nicht sagt, verliert ihn immer. Nur später.
+> 아가. 진실을 말하는 사람은 가끔 친구를 잃어. 근데 말 안 하는 사람은 언제나 잃어. 나중에 잃을 뿐.
+MIRA: Dann sage ich es ihr morgen. Alles. Mit meinem ganzen Namen.
+> 그럼 내일 말할게요. 전부. 제 이름 전부로.
