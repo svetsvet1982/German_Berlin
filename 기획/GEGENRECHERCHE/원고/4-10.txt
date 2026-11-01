@@ -1,0 +1,367 @@
+@part 4
+@ep 10
+@title Leon
+@sub 레온 · 의심받은 청년이 떠나려 하고, 두 사투리가 처음으로 진심으로 부딪친다
+@info 대사 150턴 · 난이도 B2 · 배경: 2028년 봄, Spreewerk 편집국과 엘케의 선술집
+@cast LEON | 레온 피셔 (24) · 수습기자 (슈바벤 사투리)
+@cast JAN | 얀 코발치크 (45) · 탐사팀장 (베를린)
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast ELKE | 엘케 (58) · 선술집 주인 (베를린 사투리)
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@note ※ 인물 에피소드. 레온이 의심의 무게를 못 견뎌 사직서를 쓴다. 팀은 다나의 규칙 때문에 진실을 아직 말할 수 없다. 엘케의 선술집에서 얀(베를린)과 레온(슈바벤)이 처음으로 사투리 섞어 진심으로 부딪친다. 결말: 레온 노트북의 원격 프로그램이 파트리크가 '보안 패치'로 설치한 것이었음이 드러나 레온을 향한 의심이 공식적으로 풀린다(다나 수색 하루 앞당겨짐). 등장 인물 가상.
+@note ※ 표현 초점: die Kündigung · die Entschuldigung · das Vertrauen · zurücknehmen · Unrecht tun · Mir schwätzet jetzt mal ehrlich
+@next 4부 11화 «Honeypot» — 팀이 파트리크만 접근할 수 있는 곳에 가짜 기사 초안(존재하지 않는 장관 스캔들)을 심고, 48시간 뒤 HH 기획표에 그것이 오르는지 스베타가 확인한다.
+
+# 콜드 오픈 — DER UMSCHLAG
+HELENE: Leon, du wolltest mich sprechen? Setz dich. Du siehst müde aus. Hast du wieder nicht geschlafen?
+> 레온, 나랑 얘기하고 싶었어? 앉아. 피곤해 보여. 또 못 잤어?
+LEON: Frau Brandt, ich… ich habe etwas geschrieben. Hier. Lesen Sie es bitte, bevor ich den Mut verliere, es Ihnen zu geben.
+> 브란트 씨, 전… 뭘 썼어요. 여기요. 드릴 용기를 잃기 전에 읽어 주세요.
+HELENE: Ein Umschlag. Leon, bevor ich ihn öffne — sag mir, was drin ist. Ich will es von dir hören, nicht von einem Blatt Papier.
+> 봉투. 레온, 열기 전에 — 안에 뭐가 있는지 말해 줘. 종잇장이 아니라 너한테서 듣고 싶어.
+LEON: Meine Kündigung. Ich gehe, Frau Brandt. Ich kann nicht mehr. Seit Wochen schauen mich alle an, als wäre ich der Verräter. Und ich ertrage es nicht länger.
+> 제 사직서예요. 떠나요, 브란트 씨. 더는 못 하겠어요. 몇 주째 다들 절 배신자처럼 봐요. 그리고 더는 못 견디겠어요.
+HELENE: Leon. Niemand hier hält dich für den Verräter. Das habe ich dir gesagt, und ich meine es.
+> 레온. 여기 아무도 널 배신자로 안 봐. 그렇게 말했잖아, 진심이야.
+LEON: Mit Verlaub, Frau Brandt, aber «niemand hält dich dafür» und «niemand prüft, ob du es bist» sind zwei verschiedene Dinge. Ihr prüft. Ich habe es gemerkt. Und Prüfen heißt: Es ist zumindest denkbar, dass ich es war.
+> 외람되지만, 브란트 씨, «아무도 널 그렇게 안 본다»와 «아무도 네가 그런지 확인 안 한다»는 다른 거예요. 당신들은 확인해요. 전 알아챘어요. 그리고 확인한다는 건, 적어도 제가 그랬을 수도 있다고 여긴다는 거죠.
+HELENE: Du hast recht, wir prüfen. Aber weißt du, warum? Nicht, weil wir dich für schuldig halten. Sondern weil wir dich für unschuldig halten und das beweisen wollen. Eine Prüfung kann in beide Richtungen gehen, Leon. Unsere geht in deine.
+> 맞아, 우린 확인해. 근데 왜인지 알아? 널 유죄로 봐서가 아니라. 널 결백하다고 보고 그걸 증명하고 싶어서. 확인은 양쪽으로 갈 수 있어, 레온. 우리 건 네 쪽으로 가.
+LEON: Eine Prüfung, die meine Unschuld beweisen will. So habe ich es noch nie gesehen. Aber selbst wenn es so ist — warum sagt ihr mir das Ergebnis nicht? Wenn ihr etwas gefunden habt, das mich entlastet, warum schweigt ihr?
+> 제 결백을 증명하려는 확인. 그렇게는 생각 못 해 봤어요. 근데 그렇다 쳐도 — 왜 결과를 말 안 해요? 절 벗겨 줄 뭔가를 찾았으면 왜 침묵해요?
+HELENE: Und genau diese Frage ist die, die ich dir gerade nicht beantworten darf. Nicht weil es dich belasten würde. Im Gegenteil. Sondern weil die Antwort noch andere Dinge berührt. Das ist der Knoten, Leon. Und ich kann ihn heute nicht für dich lösen.
+> 그리고 바로 그 질문이 내가 지금 답 못 하는 거야. 널 불리하게 해서가 아니라. 오히려. 답이 다른 것들도 건드려서. 그게 매듭이야, 레온. 그리고 난 오늘 그걸 널 위해 못 풀어.
+LEON: Sie sagen das, Frau Brandt. Aber ich sehe die Blicke. Ich höre, wie Gespräche verstummen, wenn ich den Raum betrete. Ich spüre, dass es Dinge gibt, die man mir nicht sagt. Und das Schlimmste ist: Ich verstehe es sogar.
+> 그렇게 말씀하시죠, 브란트 씨. 근데 전 눈초리를 봐요. 제가 방에 들어가면 대화가 멎는 걸 들어요. 저한테 말 안 하는 것들이 있다는 걸 느껴요. 그리고 최악은, 전 이해하기까지 한다는 거예요.
+HELENE: Was verstehst du, Leon?
+> 뭘 이해해, 레온?
+LEON: Dass ich an deren Stelle genauso handeln würde. Die Daten zeigen auf mich. Natürlich misstrauen sie mir. Ich an ihrer Stelle würde mir auch misstrauen. Und genau deshalb muss ich gehen. Ein Team, das seinem Mitglied misstrauen muss, kann mit diesem Mitglied nicht arbeiten.
+> 제가 그들 입장이어도 똑같이 할 거란 걸요. 데이터가 절 가리켜요. 당연히 절 의심하죠. 저라도 저를 의심할 거예요. 그래서 바로 떠나야 해요. 자기 구성원을 의심해야 하는 팀은 그 구성원과 일할 수 없어요.
+HELENE: Du hast dir das sehr gründlich zurechtgelegt. Zu gründlich. Das tut jemand, der tagelang allein mit einem Gedanken gekreist ist. Hast du mit niemandem geredet? Mit deinem Bruder, deiner Mutter?
+> 아주 꼼꼼히 정리했구나. 너무 꼼꼼히. 그건 며칠째 혼자 한 생각을 맴돈 사람이 하는 거야. 아무하고도 얘기 안 했어? 네 동생, 어머니랑?
+LEON: Nein. Was soll ich meiner Mutter sagen? «Mama, mein Traumjob glaubt, ich bin ein Verräter»? Sie hat sich so gefreut, dass ich hier arbeite. Investigativjournalismus. Ihr Sohn deckt die Wahrheit auf. Das kann ich ihr nicht nehmen.
+> 아니요. 어머니한테 뭐라고 해요? «엄마, 제 꿈의 직장이 절 배신자로 여겨요»? 제가 여기서 일하는 걸 그렇게 기뻐하셨어요. 탐사보도. 아들이 진실을 파헤친다고. 그걸 뺏을 순 없어요.
+HELENE: Also trägst du es ganz allein. Seit Wochen. Ohne deine Familie, ohne uns. Leon, das ist zu viel für einen Menschen. Egal, ob du bleibst oder gehst — versprich mir, dass du es nicht mehr allein trägst.
+> 그럼 혼자 다 지는구나. 몇 주째. 네 가족도, 우리도 없이. 레온, 그건 한 사람한테 너무 많아. 남든 떠나든 — 더는 혼자 지지 않겠다고 약속해.
+LEON: Wie soll ich es nicht allein tragen, wenn der Einzige, der die Wahrheit kennt, sie mir nicht sagt? Alleinsein ist keine Entscheidung, Frau Brandt. Es ist das, was übrig bleibt, wenn alle anderen schweigen.
+> 진실을 아는 유일한 사람이 저한테 말을 안 하는데 어떻게 혼자 안 져요? 혼자 있는 건 결정이 아니에요, 브란트 씨. 다른 모두가 침묵할 때 남는 거예요.
+
+# 장면 1 — HELENE KANN NICHTS SAGEN
+HELENE: Leon, hör mir zu. Ich bitte dich, die Kündigung zurückzuhalten. Nur ein paar Tage. Es gibt Dinge, die ich dir gerade nicht sagen kann. Aber bald. Bitte vertrau mir diese paar Tage.
+> 레온, 들어 봐. 사직서를 거둬 달라고 부탁해. 며칠만. 지금 너한테 말 못 하는 게 있어. 근데 곧. 그 며칠만 날 믿어 줘.
+LEON: Sehen Sie, genau das meine ich. «Dinge, die ich dir nicht sagen kann.» Immer dieselben halben Sätze. Entweder vertraut man mir, oder man vertraut mir nicht. Ein halbes Vertrauen ist schlimmer als gar keins.
+> 봐요, 바로 그걸 말하는 거예요. «너한테 말 못 하는 것». 늘 같은 반쪽 문장. 날 믿거나 안 믿거나죠. 반쪽 신뢰가 아예 없는 것보다 나빠요.
+HELENE: Ich verstehe, dass es sich so anfühlt. Und ich kann dir nicht einmal erklären, warum ich schweige, ohne das zu brechen, was ich schützen muss. Das ist eine fast unmögliche Lage, Leon. Für dich und für mich.
+> 그렇게 느껴지는 거 이해해. 그리고 내가 지켜야 할 걸 깨뜨리지 않고는 왜 침묵하는지조차 설명 못 해. 거의 불가능한 상황이야, 레온. 너한테도 나한테도.
+LEON: Dann machen Sie es sich leicht, Frau Brandt. Nehmen Sie die Kündigung. Dann müssen Sie nichts mehr schützen und ich nichts mehr ertragen. Für uns beide ist es das Einfachste.
+> 그럼 쉽게 가세요, 브란트 씨. 사직서를 받으세요. 그럼 당신은 더 지킬 것도, 전 더 견딜 것도 없어요. 우리 둘 다한텐 그게 제일 간단해요.
+HELENE: Das Einfachste ist selten das Richtige, Leon. Das hast du von uns gelernt, erinnerst du dich? Die bequeme Geschichte ist fast nie die wahre. Das gilt auch hier. Die bequeme Lösung wäre, dich gehen zu lassen. Die richtige ist eine andere.
+> 제일 간단한 게 옳은 경우는 드물어, 레온. 그거 우리한테 배웠잖아, 기억나? 편한 이야기는 거의 참된 게 아니야. 여기도 그래. 편한 해법은 널 보내는 거야. 옳은 건 다른 거고.
+LEON: Aber Sie sagen mir nicht, was die richtige ist. Sie sagen nur «vertrau mir» und «bald». Frau Brandt, ich bin vierundzwanzig, nicht fünf. Ich brauche mehr als ein «bald».
+> 근데 옳은 게 뭔지 말 안 해 주시잖아요. 그저 «믿어라» «곧»만 하시고. 브란트 씨, 전 스물넷이지 다섯 살이 아니에요. «곧»보다 더가 필요해요.
+HELENE: Dann gebe ich dir das Einzige, was ich darf: Geh heute nicht. Lass die Kündigung bei mir, undatiert, unwirksam. Wenn ich dir in einer Woche nicht alles erklärt habe, zerreiße ich sie vor deinen Augen nicht — dann unterschreibe ich sie selbst. Eine Woche.
+> 그럼 내가 줄 수 있는 유일한 걸 줄게. 오늘 가지 마. 사직서를 나한테 둬, 날짜 없이, 효력 없이. 일주일 안에 내가 너한테 전부 설명 못 하면, 네 눈앞에서 찢지 않고 — 내가 직접 서명할게. 일주일.
+LEON: Eine Woche. … Warum fällt es mir so schwer, Nein zu sagen? Vielleicht, weil ein Teil von mir bleiben will. Also gut. Eine Woche. Aber danach, Frau Brandt, danach will ich die Wahrheit. Die ganze.
+> 일주일. … 왜 아니라고 말하기가 이렇게 어렵죠? 어쩌면 제 일부가 남고 싶어서요. 그럼 좋아요. 일주일. 근데 그 뒤엔, 브란트 씨, 그 뒤엔 진실을 원해요. 전부.
+HELENE: Die bekommst du. Das schwöre ich dir. Jedes Detail, jeden Tag, warum wir geschwiegen haben. Und wenn du dann immer noch gehen willst, lasse ich dich gehen, mit einem Zeugnis, das jede Tür öffnet. Aber ich hoffe sehr, du willst dann bleiben.
+> 받을 거야. 맹세해. 모든 세부, 모든 날, 우리가 왜 침묵했는지. 그리고 그때도 떠나고 싶으면, 어떤 문이든 열어 줄 추천서와 함께 보낼게. 근데 그때 네가 남고 싶어 하길 간절히 바라.
+LEON: Warum hoffen Sie das? Nach allem, was Sie mit mir durchmachen? Ich bin seit Wochen nur ein Problem für Sie.
+> 왜 그걸 바라세요? 저랑 이 모든 걸 겪고도요? 전 몇 주째 당신한테 문제일 뿐인데요.
+HELENE: Du bist kein Problem, Leon. Du bist der Beweis, dass unsere Arbeit funktioniert. Weißt du, was mir an dir aufgefallen ist, vom ersten Tag an? Du nimmst nichts einfach hin. Du zweifelst, du fragst, du bohrst. Genau das macht einen guten Journalisten. Die meisten verlieren das mit den Jahren. Du hast es noch.
+> 넌 문제가 아니야, 레온. 넌 우리 일이 작동한다는 증거야. 첫날부터 너한테서 눈에 띈 게 뭔지 알아? 넌 아무것도 그냥 받아들이지 않아. 의심하고, 묻고, 파고들어. 바로 그게 좋은 기자를 만들어. 대부분은 세월이 가면 그걸 잃어. 넌 아직 가졌어.
+LEON: Das höre ich zum ersten Mal. Ich dachte immer, mein Zweifeln nervt Sie alle. Dass ich zu viel frage, zu unsicher bin.
+> 그 말 처음 들어요. 전 늘 제 의심이 다들 거슬리게 한다고 생각했어요. 제가 너무 많이 묻고, 너무 불안하다고.
+HELENE: Dein Zweifeln ist dein größtes Talent, nicht dein Fehler. Ein Journalist, der nicht zweifelt, druckt irgendwann ein Deepfake als Wahrheit. Ein Journalist, der zweifelt, prüft es. Behalte das, Leon. Egal, ob hier oder woanders. Dein Zweifel ist Gold.
+> 네 의심은 네 가장 큰 재능이지 네 결점이 아니야. 의심 안 하는 기자는 언젠가 딥페이크를 진실로 인쇄해. 의심하는 기자는 확인하고. 간직해, 레온. 여기든 다른 데든. 네 의심은 금이야.
+
+# 장면 2 — TOBI FÄNGT IHN AB
+TOBI: Leon! Da biste ja. Komm, wir jehn Mittach essen. Ick hab Hunger wie 'n Bär. Und du isst ooch wat, du siehst aus wie drei Tage altet Brot.
+= Leon! Da bist du ja. Komm, wir gehen Mittag essen. Ich habe Hunger wie ein Bär. Und du isst auch etwas, du siehst aus wie drei Tage altes Brot.
+> 레온! 거기 있구나. 가자, 점심 먹으러. 곰처럼 배고파. 너도 뭐 좀 먹어, 사흘 묵은 빵 꼴이야.
+LEON: Ich habe keinen Hunger, Tobi. Und ehrlich gesagt keine Lust auf Gesellschaft. Ich will allein sein.
+> 배 안 고파, 토비. 그리고 솔직히 누구랑 있고 싶지 않아. 혼자 있고 싶어.
+TOBI: Jenau deshalb jehste nich allein. Wer allein sein will, wenn't ihm schlecht jeht, der grübelt sich nur tiefer rin. Komm, ick lad dich ein. Currywurst. Die beste in Wedding. Keene Widerrede.
+= Genau deshalb gehst du nicht allein. Wer allein sein will, wenn es ihm schlecht geht, der grübelt sich nur tiefer rein. Komm, ich lade dich ein. Currywurst. Die beste in Wedding. Keine Widerrede.
+> 바로 그래서 혼자 안 가. 힘들 때 혼자 있고 싶은 사람은 더 깊이 파고들 뿐이야. 가자, 내가 쏠게. 커리부어스트. 베딩 최고. 토 달지 마.
+LEON: Du gibst nicht auf, oder?
+> 포기 안 하지, 응?
+TOBI: Nee. Ick bin 'n Fotojraf. Ick jeb nich uff, bevor ick dit Bild hab. Und dein Bild heute is: Leon isst 'ne Currywurst und lacht eenmal. Dit krich ick hin. Komm.
+= Nee. Ich bin ein Fotograf. Ich gebe nicht auf, bevor ich das Bild habe. Und dein Bild heute ist: Leon isst eine Currywurst und lacht einmal. Das kriege ich hin. Komm.
+> 응. 난 사진가야. 사진을 얻기 전엔 포기 안 해. 그리고 오늘 네 사진은, 레온이 커리부어스트를 먹고 한 번 웃는 거야. 해낼 수 있어. 가자.
+LEON: Tobi, weißt du, was das Verrückte ist? Du bist der Einzige, der mich nicht komisch ansieht. Warum eigentlich?
+> 토비, 뭐가 이상한지 알아? 넌 날 이상하게 안 보는 유일한 사람이야. 대체 왜?
+TOBI: Weil ick nüscht weeß, Kleener. Und wat ick nich weeß, kann ick dir ooch nich nachtragen. Ick seh bloß 'n jungen Kollejen, der 'n schweren Monat hat. Mehr seh ick nich. Und mehr muss ick ooch nich sehn.
+= Weil ich nichts weiß, Kleiner. Und was ich nicht weiß, kann ich dir auch nicht nachtragen. Ich sehe bloß einen jungen Kollegen, der einen schweren Monat hat. Mehr sehe ich nicht. Und mehr muss ich auch nicht sehen.
+> 난 아무것도 모르니까, 꼬마야. 그리고 모르는 건 너한테 탓할 수도 없어. 난 그냥 힘든 달을 보내는 젊은 동료를 봐. 그 이상 안 봐. 그 이상 볼 필요도 없고.
+LEON: Vielleicht ist das genau das, was ich gerade brauche. Jemanden, der nichts weiß und mich einfach in Ruhe eine Currywurst essen lässt. Also gut, Tobi. Du hast gewonnen. Gehen wir.
+> 어쩌면 그게 바로 지금 제게 필요한 거예요. 아무것도 모르면서 그냥 날 조용히 커리부어스트 먹게 두는 사람. 좋아, 토비. 네가 이겼어. 가자.
+TOBI: Na also. Und weeßte, wat ick dir erzähl beim Essen? Von meinem ersten verdeckten Einsatz. Da hab ick mir fast verraten, weil ick vor Nervosität die janze Zeit meinen Kaffee umjerührt hab, obwohl keen Zucker drin war. Drei Stunden lang. Rührrührrühr.
+= Na also. Und weißt du, was ich dir erzähle beim Essen? Von meinem ersten verdeckten Einsatz. Da hätte ich mich fast verraten, weil ich vor Nervosität die ganze Zeit meinen Kaffee umgerührt habe, obwohl kein Zucker drin war. Drei Stunden lang. Rührrührrühr.
+> 그렇지. 그리고 밥 먹으면서 뭘 얘기해 줄지 알아? 내 첫 위장 잠입 얘기. 거기서 하마터면 들킬 뻔했어, 긴장해서 내내 커피를 저었거든, 설탕도 안 넣었는데. 세 시간 내내. 젓고젓고젓고.
+LEON: Drei Stunden einen Kaffee ohne Zucker umrühren? Das ist ja absurd.
+> 세 시간 설탕 없는 커피를 저어요? 황당하네요.
+TOBI: Absurd, aba wahr. Der Typ nebenan hat irjendwann jefracht: «Lösen sich die Zuckerwürfel nich uff?» Und ick, janz cool: «Ick mach dit aus Jewohnheit, ick war ma Barista.» War jelogen, aba et hat jepasst. Siehste, Leon, selbst die Profis machen Fehler. Man muss se nur jut erklären.
+= Absurd, aber wahr. Der Typ nebenan hat irgendwann gefragt: «Lösen sich die Zuckerwürfel nicht auf?» Und ich, ganz cool: «Ich mache das aus Gewohnheit, ich war mal Barista.» War gelogen, aber es hat gepasst. Siehst du, Leon, selbst die Profis machen Fehler. Man muss sie nur gut erklären.
+> 황당하지만 사실이야. 옆 사람이 언젠가 물었어. «각설탕이 안 녹아요?» 그리고 난, 아주 쿨하게. «습관이에요, 예전에 바리스타였어요.» 거짓말이었는데 맞아떨어졌지. 봐, 레온, 프로도 실수해. 그냥 잘 설명하면 돼.
+LEON: Du erzählst mir das, damit ich mich besser fühle, oder? Damit ich sehe, dass sogar der große Tobi mal unsicher war.
+> 제 기분 나아지라고 그 얘기 하는 거지, 응? 대단한 토비도 한 번 불안했다는 걸 보여 주려고.
+TOBI: Kann sein. Aba et is trotzdem wahr. Jeder, der wat kann, war ma 'n Anfänger, der fast allet versaut hat. Der Unterschied zwischen 'nem Profi und 'nem Anfänger is nich, dat der Profi keene Fehler macht. Et is, dat der Profi weiterjemacht hat. Mehr nich.
+= Kann sein. Aber es ist trotzdem wahr. Jeder, der etwas kann, war mal ein Anfänger, der fast alles versaut hat. Der Unterschied zwischen einem Profi und einem Anfänger ist nicht, dass der Profi keine Fehler macht. Es ist, dass der Profi weitergemacht hat. Mehr nicht.
+> 그럴 수도. 근데 그래도 사실이야. 뭔가 할 줄 아는 사람은 다 한때 거의 다 망칠 뻔한 초보였어. 프로와 초보의 차이는 프로가 실수를 안 하는 게 아니야. 프로가 계속했다는 거지. 그게 다야.
+LEON: Weitermachen. Das ist gerade mein ganzes Problem. Ich weiß nicht, ob ich weitermachen kann. Oder soll.
+> 계속하기. 그게 바로 제 모든 문제예요. 제가 계속할 수 있는지, 아니 해야 하는지 모르겠어요.
+TOBI: Dit musste heute ooch nich wissen. Heute musste bloß die Currywurst essen. Morjen die nächste Entscheidung. Übermorjen die nächste. So macht man dit. Nich die janze Treppe uff eenmal, bloß die nächste Stufe.
+= Das musst du heute auch nicht wissen. Heute musst du bloß die Currywurst essen. Morgen die nächste Entscheidung. Übermorgen die nächste. So macht man das. Nicht die ganze Treppe auf einmal, bloß die nächste Stufe.
+> 그건 오늘 몰라도 돼. 오늘은 그냥 커리부어스트만 먹으면 돼. 내일 다음 결정. 모레 그다음. 그렇게 하는 거야. 계단 전체를 한 번에가 아니라, 그냥 다음 한 칸.
+LEON: Nur die nächste Stufe. Du und Frau Morosowa, ihr sagt im Grunde dasselbe. Nichts Großes auf einmal entscheiden. Nur den nächsten kleinen Schritt.
+> 그냥 다음 한 칸. 당신이랑 모로소바 씨, 둘이 근본적으로 같은 말을 하네요. 큰 걸 한 번에 결정하지 마라. 그냥 다음 작은 한 걸음.
+TOBI: Weil dit die eenzije Wahrheit is, die bei sowat hilft. Alle klugen Leute sajen dasselbe, bloß mit andre Worte. Und jetzt: Currywurst. Mit oder ohne Darm? Ick nehm mit. Immer mit. Dit is die eenzije Entscheidung, die de heute wirklich treffen musst.
+= Weil das die einzige Wahrheit ist, die bei so etwas hilft. Alle klugen Leute sagen dasselbe, bloß mit anderen Worten. Und jetzt: Currywurst. Mit oder ohne Darm? Ich nehme mit. Immer mit. Das ist die einzige Entscheidung, die du heute wirklich treffen musst.
+> 그게 이런 일에 도움 되는 유일한 진실이니까. 똑똑한 사람들은 다 같은 말을 해, 그저 다른 말로. 그리고 이제, 커리부어스트. 창자 있는 거 없는 거? 난 있는 거. 늘 있는 거. 그게 네가 오늘 진짜 내려야 할 유일한 결정이야.
+
+# 장면 3 — WAS LEON NICHT WEISS
+MIRA: Jan, ich mache mir Sorgen um Leon. Er hat Helene eine Kündigung gegeben. Sie hat sie vorerst zurückgehalten, aber er ist am Rand. Dana hat gesagt, wenn er von sich aus geht, müssen wir es ihm sagen.
+> 얀, 레온이 걱정돼요. 헬레네한테 사직서를 냈어요. 일단 거뒀는데, 그가 가장자리에 있어요. 다나가 그가 스스로 떠나면 우리가 말해야 한다고 했어요.
+JAN: Eine Kündigung. Dann sind wir an der Grenze, die Dana gezogen hat. Noch ist er geblieben. Aber das war die letzte Warnung. Wir können das nicht mehr lange so laufen lassen. Es zerreißt ihn.
+> 사직서. 그럼 우린 다나가 그은 경계에 와 있어. 아직 남았어. 근데 그게 마지막 경고였어. 더는 이렇게 둘 수 없어. 그를 찢어.
+HELENE: Ich habe ihm eine Woche abgerungen. Aber ehrlich, Jan: Ich glaube nicht, dass er eine Woche durchhält. Heute hat er mir in die Augen gesehen und gesagt: «Ein halbes Vertrauen ist schlimmer als gar keins.» Das saß. Weil es stimmt.
+> 일주일을 얻어 냈어요. 근데 솔직히, 얀. 그가 일주일을 버틸 것 같지 않아요. 오늘 제 눈을 보며 «반쪽 신뢰가 아예 없는 것보다 나쁘다»고 했어요. 꽂혔어요. 맞으니까요.
+SWETA: Darf ich etwas vorschlagen? Ich bin die Einzige hier, die drei Wochen lang jeden Tag gelogen hat. Ich weiß genau, wie es sich anfühlt, eine Wahrheit festzuhalten, die rauswill. Lasst mich mit Leon reden. Nicht die Wahrheit sagen. Aber ihm das Warten erträglich machen.
+> 하나 제안해도 돼요? 여기서 3주간 매일 거짓말한 건 저뿐이에요. 밖으로 나오려는 진실을 붙들고 있는 게 어떤 건지 정확히 알아요. 제가 레온이랑 얘기하게 해 줘요. 진실을 말하는 게 아니라. 그에게 기다림을 견딜 만하게.
+JAN: Wie willst du das machen, ohne die Wahrheit zu verraten?
+> 진실을 발설하지 않고 어떻게 하려고?
+SWETA: Indem ich ihm von mir erzähle. Nicht von Patrick, nicht vom Fall. Von mir. Davon, wie es ist, verdächtigt und missverstanden zu werden, und wie man es übersteht. Ich gebe ihm keine Information. Ich gebe ihm ein Beispiel. Das ist etwas anderes.
+> 제 얘기를 해 줘서요. 파트리크도, 사건도 아니라. 제 얘기. 의심받고 오해받는 게 어떤 건지, 그걸 어떻게 견디는지. 정보를 주는 게 아니에요. 본보기를 줘요. 그건 다른 거죠.
+HELENE: Ein Beispiel statt einer Information. Das ist klug und das ist erlaubt. Aber sei vorsichtig, Sweta. Leon ist feinfühlig. Er merkt, wenn jemand ihm ausweicht. Wenn er spürt, dass auch du etwas verbirgst, verlieren wir ihn ganz.
+> 정보 대신 본보기. 영리하고 허용돼요. 근데 조심해요, 스베타. 레온은 섬세해요. 누가 자길 피하면 알아채요. 당신도 뭔가 숨긴다고 느끼면 그를 완전히 잃어요.
+SWETA: Ich weiß. Deshalb verberge ich nichts von mir. Ich erzähle ihm meine ganze Wahrheit, offen, bis auf die eine Sache, die nicht meine ist, sondern die des Falls. Ehrlichkeit über mich selbst ist der beste Schutz für das eine Geheimnis.
+> 알아요. 그래서 제 얘긴 아무것도 안 숨겨요. 제 진실 전부를 터놓고 얘기해요, 제 것이 아니라 사건의 것인 그 한 가지만 빼고. 저 자신에 대한 정직함이 그 한 비밀의 최선의 보호예요.
+
+# 장면 4 — SWETA UND LEON
+SWETA: Leon, darf ich mich setzen? Ich will dir eine Geschichte erzählen. Meine. Du musst nichts sagen, nur zuhören, wenn du magst.
+> 레온, 앉아도 돼? 이야기 하나 해 주고 싶어. 내 거. 넌 아무 말 안 해도 돼, 원하면 듣기만 해.
+LEON: Setzen Sie sich, Frau Morosowa. Aber wenn Sie gekommen sind, um mich zum Bleiben zu überreden, sparen Sie sich die Mühe. Ich habe genug Überredung für heute.
+> 앉으세요, 모로소바 씨. 근데 절 남으라고 설득하러 오셨으면 수고 아끼세요. 오늘 설득은 충분히 받았어요.
+SWETA: Weißt du, Leon, ich bin wahrscheinlich die Letzte hier, die dich zu irgendetwas überreden würde. Ich habe mein halbes Leben damit verbracht, Menschen zu überreden. Für die falsche Seite. Jetzt überrede ich niemanden mehr. Ich erzähle nur.
+> 있잖아, 레온, 난 여기서 아마 널 뭔가로 설득할 마지막 사람이야. 난 인생의 절반을 사람을 설득하는 데 썼어. 틀린 편을 위해. 이제 아무도 설득 안 해. 그냥 얘기할 뿐이야.
+LEON: Sie haben Menschen überredet? Für die falsche Seite? Das müssen Sie mir erklären, Frau Morosowa. Was heißt das?
+> 사람을 설득했다고요? 틀린 편을 위해? 그건 설명해 주셔야 해요, 모로소바 씨. 무슨 뜻이에요?
+SWETA: Das ist meine Geschichte, und ich erzähle sie dir gleich. Aber nur, damit du eines verstehst: Wenn ich dir heute etwas sage, dann nicht, um dich zu lenken. Ich habe das Lenken aufgegeben. Ich sage dir die Wahrheit und lasse dich selbst entscheiden. Das ist der Unterschied zwischen damals und heute.
+> 그게 내 이야기고, 곧 얘기해 줄게. 근데 하나만 이해하라고. 오늘 너한테 뭘 말하면 널 조종하려는 게 아니야. 난 조종을 그만뒀어. 너한테 진실을 말하고 네가 직접 결정하게 둬. 그게 그때와 오늘의 차이야.
+LEON: Jemand, der das Überreden aufgegeben hat. Das ist in dieser Branche fast ein Wunder. Gut. Dann erzählen Sie. Ich höre zu. Und ich entscheide selbst. Einverstanden.
+> 설득을 그만둔 사람. 이 업계에선 거의 기적이네요. 좋아요. 그럼 얘기하세요. 들을게요. 그리고 제가 직접 결정해요. 동의해요.
+SWETA: Ich überrede dich zu nichts. Ich erzähle dir nur, wie es war, als ich einmal genau dort saß, wo du jetzt sitzt. Verdächtigt. Von Menschen, die ich für meine Familie hielt.
+> 널 아무것도 설득 안 해. 그저 내가 한때 네가 지금 앉은 바로 거기 앉았을 때 어땠는지 얘기해 줘. 의심받으며. 내 가족이라 여긴 사람들한테.
+LEON: Sie? Verdächtigt? Von wem?
+> 당신이요? 의심받았다고요? 누구한테?
+SWETA: In Moskau, in meiner alten Redaktion. Jemand hatte etwas nach außen gegeben, und der Verdacht fiel auf mich. Weil ich die Neue war. Weil ich anders war. Weil ich die Einfachste zum Verdächtigen war. Kommt dir das bekannt vor?
+> 모스크바에서, 제 옛 편집국에서. 누가 뭘 밖으로 흘렸고 의심이 저한테 떨어졌어. 내가 신입이라서. 내가 달라서. 내가 의심하기 제일 쉬워서. 익숙하게 들려?
+LEON: Zu bekannt. Und? Was haben Sie gemacht?
+> 너무 익숙해요. 그래서요? 어떻게 하셨어요?
+SWETA: Ich habe gekündigt. Sofort. Aus genau dem Gefühl, das du jetzt hast. «Wenn sie mir nicht vertrauen, will ich nicht bleiben.» Ich bin gegangen, stolz und verletzt. Und weißt du, was das Schlimmste war?
+> 사직했어. 즉시. 바로 네가 지금 느끼는 그 기분에서. «날 안 믿으면 남고 싶지 않다.» 떠났어, 자존심 상하고 다친 채로. 그리고 뭐가 최악이었는지 알아?
+LEON: Was?
+> 뭔데요?
+SWETA: Zwei Wochen später stellte sich heraus, wer es wirklich war. Nicht ich. Und meine alten Kollegen wollten sich entschuldigen, wollten mich zurückholen. Aber ich war schon weg, hatte alles hingeschmissen. Ich hatte mir selbst die Tür zugeschlagen, aus Stolz. Das bereue ich bis heute.
+> 2주 뒤 진짜 누구였는지 밝혀졌어. 내가 아니라. 그리고 옛 동료들이 사과하려고, 날 다시 부르려고 했어. 근데 난 벌써 떠났고, 전부 내던진 뒤였지. 내가 자존심 때문에 스스로 문을 닫은 거야. 지금까지 후회해.
+LEON: Aber wer wirklich der Verräter war — fühlten Sie sich nicht erleichtert, als es rauskam? Dass endlich alle wussten, dass Sie unschuldig waren?
+> 근데 진짜 배신자가 누구였는지 — 밝혀졌을 때 안도되지 않았어요? 드디어 모두가 당신이 결백한 걸 알았다고?
+SWETA: Erleichtert, ja. Aber auch wütend auf mich selbst. Weil die Wahrheit zu spät kam für meine Entscheidung. Hätte ich zwei Wochen länger ausgehalten, wäre ich geblieben, rehabilitiert, mit erhobenem Kopf. Stattdessen stand ich ohne Job da, und meine Unschuld nützte mir nichts mehr.
+> 안도됐지, 응. 근데 나 자신한테도 화났어. 진실이 내 결정엔 너무 늦게 왔으니까. 2주만 더 버텼으면 남았을 거야, 복권돼서, 고개 들고. 대신 난 직장 없이 서 있었고, 내 결백은 더는 소용없었어.
+LEON: Meine Unschuld nützte mir nichts mehr. Das ist ein furchtbarer Satz. Also sagen Sie: Selbst wenn ich im Recht bin, kann meine Entscheidung mich im Nachhinein ins Unrecht setzen?
+> 내 결백이 더는 소용없었다. 끔찍한 문장이네요. 그럼 이렇게 말씀하시는 거예요. 제가 옳아도, 제 결정이 나중에 절 틀린 쪽에 놓을 수 있다고?
+SWETA: Genau das. Recht haben und richtig handeln sind zwei verschiedene Dinge, Leon. Du hast recht, dass dir Unrecht geschieht. Aber ob du richtig handelst, hängt davon ab, was du mit diesem Unrecht machst. Gehen ist eine Möglichkeit. Aber nicht immer die kluge.
+> 바로 그거야. 옳은 것과 옳게 행동하는 건 다른 거야, 레온. 네가 부당한 일을 당하는 건 맞아. 근데 네가 옳게 행동하는지는 그 부당함으로 뭘 하느냐에 달렸어. 떠나는 건 한 가지 가능성이야. 근데 늘 현명한 건 아니고.
+LEON: Und woher weiß ich, was klug ist, wenn ich nicht weiß, was wirklich passiert?
+> 그리고 뭐가 진짜 일어나는지 모르는데 뭐가 현명한지 어떻게 알아요?
+SWETA: Das weißt du nicht sicher. Niemand weiß das. Deshalb ist die einzige kluge Regel: Mach keine unumkehrbare Entscheidung, solange du im Nebel stehst. Eine Kündigung ist unumkehrbar. Warten ist umkehrbar. Wähle das Umkehrbare, bis der Nebel sich lichtet.
+> 확실히는 몰라. 아무도 몰라. 그래서 유일하게 현명한 규칙은, 안개 속에 서 있는 동안 돌이킬 수 없는 결정을 하지 마라. 사직은 돌이킬 수 없어. 기다림은 돌이킬 수 있고. 안개가 걷힐 때까지 돌이킬 수 있는 걸 택해.
+
+# 장면 5 — DIE FRAGE
+LEON: Sie bereuen, dass Sie gegangen sind, obwohl man Sie zu Unrecht verdächtigt hat?
+> 부당하게 의심받았는데도 떠난 걸 후회하신다고요?
+SWETA: Ja. Weil ich im Zorn eine Entscheidung getroffen habe, die ich im Frieden nie getroffen hätte. Der Verdacht war das Unrecht der anderen. Aber dass ich gegangen bin, war mein eigener Fehler. Und meinen eigenen Fehler muss ich tragen, nicht ihren.
+> 응. 분노 속에서, 평온할 땐 결코 안 했을 결정을 했으니까. 의심은 남들의 잘못이었어. 근데 내가 떠난 건 내 잘못이었지. 그리고 내 잘못은 내가 져야 해, 그들 것이 아니라.
+LEON: Aber woher hätten Sie wissen sollen, dass sich die Wahrheit noch zeigt? Sie konnten doch nicht ahnen, dass es zwei Wochen später rauskommt.
+> 근데 진실이 아직 드러날 걸 어떻게 알았겠어요? 2주 뒤 밝혀질 거라고 짐작 못 했잖아요.
+SWETA: Das ist genau der Punkt, Leon. Man weiß es nie. Die Wahrheit kommt manchmal einen Tag zu spät für den, der nicht gewartet hat. Deshalb sage ich dir nicht «bleib, es wird gut». Ich sage dir nur: Triff die Entscheidung nicht im Zorn. Triff sie, wenn du ruhig bist. Dann ist sie deine, egal wie sie ausfällt.
+> 그게 바로 핵심이야, 레온. 아무도 몰라. 진실은 가끔 안 기다린 사람한테 하루 늦게 와. 그래서 난 «남아, 잘될 거야»라고 안 해. 그저 이렇게 말해. 분노 속에서 결정하지 마. 차분할 때 결정해. 그럼 어떻게 나오든 네 결정이야.
+LEON: Aber ich bin seit Wochen nicht mehr ruhig. Wie soll ich eine ruhige Entscheidung treffen, wenn ich keine ruhige Minute mehr habe?
+> 근데 전 몇 주째 차분하지 않아요. 차분한 1분도 없는데 차분한 결정을 어떻게 해요?
+SWETA: Indem du dir die ruhige Minute nimmst. Nicht hier, nicht am Schreibtisch. Geh zu Elke. Trink ein Bier, ein echtes, langsames. Und triff die Entscheidung erst, wenn das Bier leer ist, nicht vorher. Eine Entscheidung, die ein ganzes Bier übersteht, ist eine ruhige.
+> 차분한 1분을 스스로 내서. 여기서도, 책상에서도 말고. 엘케네 가. 맥주 하나 마셔, 진짜, 천천히. 그리고 맥주가 빌 때 결정해, 그 전에 말고. 맥주 한 잔을 견디는 결정은 차분한 거야.
+LEON: Ein Bier bei Elke. Und erst entscheiden, wenn es leer ist. Das klingt fast zu einfach. Aber vielleicht ist es genau das, was ich brauche. Danke, Frau Morosowa. Sie haben mir nichts versprochen. Und gerade deshalb glaube ich Ihnen.
+> 엘케네서 맥주 하나. 그리고 빌 때에야 결정. 거의 너무 간단하게 들려요. 근데 어쩌면 바로 그게 제게 필요한 거예요. 고마워요, 모로소바 씨. 저한테 아무것도 약속 안 하셨어요. 그래서 바로 당신을 믿어요.
+SWETA: Noch eine Sache, Leon, und dann lasse ich dich in Ruhe. Du hast gesagt, deine Mutter hat sich so gefreut, dass du hier arbeitest. Darf ich dir sagen, was ich von außen sehe? Eine Mutter freut sich nicht über eine Stelle. Sie freut sich über ihren Sohn, der etwas tut, an das er glaubt.
+> 하나 더, 레온, 그다음 널 가만둘게. 어머니가 네가 여기서 일하는 걸 그렇게 기뻐했다고 했지. 밖에서 본 걸 말해도 돼? 어머니는 일자리를 기뻐하는 게 아니야. 자기가 믿는 걸 하는 아들을 기뻐하는 거야.
+LEON: Meinen Sie, es wäre ihr egal, ob es Spreewerk ist oder eine andere Redaktion?
+> 그게 Spreewerk든 다른 편집국이든 어머니한텐 상관없을 거란 말이에요?
+SWETA: Ich meine, ihr ist wichtig, dass du du selbst bleibst. Ob hier oder woanders. Wenn du gehst, weil du im Frieden entschieden hast, dass es besser für dich ist — das wird sie verstehen und respektieren. Wenn du gehst, weil du gebrochen wurdest, das wird ihr das Herz brechen. Nicht der Jobverlust. Der Bruch.
+> 내 말은, 네가 너 자신으로 남는 게 어머니한테 중요하다는 거야. 여기든 다른 데든. 네가 평온 속에서 그게 너한테 낫다고 결정해서 떠나면 — 어머니는 이해하고 존중할 거야. 네가 부서져서 떠나면, 그게 어머니 가슴을 찢을 거야. 일자리 상실이 아니라. 부서짐이.
+LEON: Also soll ich nicht für meine Mutter bleiben, sondern für mich. Und erst, wenn ich wieder ganz bin. Nicht als Gebrochener, der flüchtet, sondern als Mensch, der wählt.
+> 그럼 어머니를 위해서가 아니라 저를 위해서 남아야 하네요. 그리고 제가 다시 온전할 때에야. 도망치는 부서진 자가 아니라, 선택하는 사람으로.
+SWETA: Genau. Und jetzt gehe ich wirklich und lasse dich mit deinem Bier allein. Trink es langsam. Und was auch immer du am Boden des Glases entscheidest — es wird deine Entscheidung sein, und das ist das Einzige, was zählt.
+> 바로. 그리고 이제 정말 가서 널 맥주랑 혼자 둘게. 천천히 마셔. 그리고 잔 바닥에서 뭘 결정하든 — 그건 네 결정일 거고, 그게 유일하게 중요한 거야.
+
+# 장면 6 — BEI ELKE
+ELKE: Leon, mein Junge. Komm rin. Du siehst aus, als hättste 'n Sack Steine uff'm Rücken. Setz dir an den Tresen. Wat trinkste?
+= Leon, mein Junge. Komm rein. Du siehst aus, als hättest du einen Sack Steine auf dem Rücken. Setz dich an den Tresen. Was trinkst du?
+> 레온, 우리 애. 들어와. 등에 돌자루 짊어진 꼴이야. 카운터에 앉아. 뭐 마실래?
+LEON: Ein Bier, Frau Elke. Ein dunkles. Und — Zeit. Ich soll es langsam trinken. Jemand hat gesagt, ich soll erst entscheiden, wenn das Glas leer ist.
+> 맥주요, 엘케 씨. 흑맥주. 그리고 — 시간. 천천히 마시래요. 누가 잔이 빌 때에야 결정하라고 했어요.
+ELKE: Oh, der Spruch is von die Sweta, wa? Den kenn ick. Der is jut. Die hat den von mir, aber sach ihr det nich. Also, du entscheidest wat Großet heute?
+= Oh, der Spruch ist von der Sweta, oder? Den kenne ich. Der ist gut. Die hat den von mir, aber sag ihr das nicht. Also, du entscheidest etwas Großes heute?
+> 오, 그 말 스베타 거지, 응? 나도 알아. 좋은 말이지. 걔가 나한테서 배운 건데, 걔한텐 말하지 마. 그래서, 오늘 큰 걸 결정해?
+LEON: Ob ich bei Spreewerk bleibe oder gehe. Ich habe schon gekündigt. Fast. Die Kündigung liegt bei Frau Brandt.
+> Spreewerk에 남을지 떠날지요. 벌써 사직했어요. 거의. 사직서가 브란트 씨한테 있어요.
+ELKE: Hm. Weeßte, Leon, ick kenn den Jan seit zwölf Jahren. Und ick sach dir een: Der Mann schmeißt keen Menschen weg. Nie. Wenn der dich nich jehen lässt, denn hat det 'n Grund. Een juten.
+= Hm. Weißt du, Leon, ich kenne den Jan seit zwölf Jahren. Und ich sage dir eins: Der Mann schmeißt keinen Menschen weg. Nie. Wenn der dich nicht gehen lässt, dann hat das einen Grund. Einen guten.
+> 흠. 있잖아, 레온, 난 얀을 12년째 알아. 하나 말할게. 그 남자는 사람을 내버리지 않아. 결코. 그가 널 안 보내면 이유가 있는 거야. 좋은 이유가.
+LEON: Aber er sagt mir den Grund nicht. Das ist ja das Problem.
+> 근데 이유를 말 안 해 줘요. 그게 문제예요.
+ELKE: Vielleicht darf er nich. Hast du daran jedacht? Manchmal schweijen Menschen nich jejen dir, sondern für dir. Det sieht von außen jenauso aus, aber et is dit Jejenteil. Trink dein Bier, Junge. Langsam.
+= Vielleicht darf er nicht. Hast du daran gedacht? Manchmal schweigen Menschen nicht gegen dich, sondern für dich. Das sieht von außen genauso aus, aber es ist das Gegenteil. Trink dein Bier, Junge. Langsam.
+> 어쩌면 못 하는 걸 수도. 그 생각 해 봤어? 가끔 사람은 너한테 맞서 침묵하는 게 아니라 널 위해 침묵해. 밖에서 보면 똑같지만 정반대야. 맥주 마셔, 애야. 천천히.
+LEON: Schweigen für mich, nicht gegen mich. Daran habe ich ehrlich nie gedacht. Ich habe das Schweigen immer als Mauer gesehen. Nicht als Schutz.
+> 저한테 맞서가 아니라 저를 위한 침묵. 솔직히 그 생각은 못 해 봤어요. 전 침묵을 늘 벽으로 봤어요. 보호가 아니라.
+ELKE: Siehste, und jenau da liejt dein Fehler, Junge. Du bist jung, du siehst 'ne Mauer und denkst, die is jejen dir. Dabei stehn manche Mauern um dir rum, damit dir keener wat tut. Erst später merkt man, welche Mauer wat war.
+= Siehst du, und genau da liegt dein Fehler, Junge. Du bist jung, du siehst eine Mauer und denkst, die ist gegen dich. Dabei stehen manche Mauern um dich herum, damit dir keiner etwas tut. Erst später merkt man, welche Mauer was war.
+> 봐, 바로 거기 네 실수가 있어, 애야. 넌 젊어, 벽을 보고 그게 너한테 맞선 거라 생각해. 근데 어떤 벽은 아무도 너한테 해 못 하게 네 주위에 서 있어. 어느 벽이 뭐였는지는 나중에야 알지.
+LEON: Und wie unterscheidet man die beiden? Eine Mauer gegen einen und eine Mauer um einen?
+> 그럼 둘을 어떻게 구별해요? 나한테 맞선 벽이랑 날 둘러싼 벽을?
+ELKE: Jar nich, von innen. Du musst den Leuten vertraun, die die Mauer jebaut ham. Wenn't jute Leute sind, is die Mauer 'n Schutz. Wenn't schlechte sind, 'n Jefängnis. Die Frage is also nich «wat is die Mauer», sondern «wer hat se jebaut». Und den Jan kenn ick. Der baut keene Jefängnisse.
+= Gar nicht, von innen. Du musst den Leuten vertrauen, die die Mauer gebaut haben. Wenn es gute Leute sind, ist die Mauer ein Schutz. Wenn es schlechte sind, ein Gefängnis. Die Frage ist also nicht «was ist die Mauer», sondern «wer hat sie gebaut». Und den Jan kenne ich. Der baut keine Gefängnisse.
+> 안에서는 못 해. 벽을 지은 사람들을 믿어야 해. 좋은 사람들이면 벽은 보호야. 나쁜 사람들이면 감옥이고. 그러니 질문은 «벽이 뭐냐»가 아니라 «누가 지었냐»야. 그리고 난 얀을 알아. 그 사람은 감옥을 안 지어.
+LEON: «Wer hat sie gebaut.» Das ist eine kluge Frage, Frau Elke. Klüger als alles, was ich mir in Wochen ausgedacht habe. Vielleicht trinke ich mein Bier doch ein bisschen langsamer. Ich glaube, ich bin noch nicht bei der Entscheidung.
+> «누가 지었냐.» 현명한 질문이에요, 엘케 씨. 제가 몇 주간 궁리한 뭣보다 현명해요. 어쩌면 맥주를 좀 더 천천히 마실게요. 아직 결정에 못 온 것 같아요.
+
+# 장면 7 — JAN KOMMT
+JAN: Elke, ein Bier für mich auch. Und — Leon. Ich habe gehofft, dich hier zu finden. Darf ich mich dazusetzen? Du musst nicht Ja sagen.
+> 엘케, 나도 맥주 하나. 그리고 — 레온. 여기서 널 찾길 바랐어. 옆에 앉아도 돼? 예라고 안 해도 돼.
+LEON: Setzen Sie sich, Jan. Aber ich warne Sie: Ich bin nicht in der Stimmung für halbe Sätze. Wenn Sie «vertrau mir» und «bald» sagen wollen, trinke ich lieber allein.
+> 앉으세요, 얀. 근데 경고할게요. 전 반쪽 문장에 어울리는 기분이 아니에요. «믿어라» «곧»을 말하실 거면 차라리 혼자 마실래요.
+JAN: Ich sage dir keine halben Sätze mehr. Ich sage dir, was ich sagen darf, ganz. Und wo ich schweigen muss, sage ich dir ehrlich: Hier schweige ich, und es tut mir weh. Kein «bald». Nur die Wahrheit über mein Schweigen.
+> 더는 반쪽 문장 안 해. 내가 말해도 되는 걸 온전히 말할게. 그리고 침묵해야 하는 데선 정직하게 말할게. 여기선 침묵하고, 그게 아파. «곧»은 없어. 내 침묵에 대한 진실만.
+LEON: Das ist zumindest ehrlicher als vorhin. Also gut. Fangen Sie an. Was dürfen Sie sagen?
+> 그건 적어도 아까보단 정직하네요. 그럼 좋아요. 시작하세요. 뭘 말할 수 있어요?
+JAN: Ich darf dir sagen: Ich glaube nicht, dass du der Verräter bist. Das ist kein «ich glaube», das ich sage, um dich zu beruhigen. Das ist ein «ich weiß». Mehr als «ich glaube». Aber woher ich es weiß, das darf ich dir heute nicht sagen.
+> 말해도 되는 건, 난 네가 배신자라고 안 믿어. 그건 널 달래려고 하는 «믿는다»가 아니야. «안다»야. «믿는다»보다 더. 근데 어떻게 아는지는 오늘 말 못 해.
+LEON: Sie wissen es? Nicht glauben, wissen? Jan, verstehen Sie, was das für mich bedeutet? Wenn Sie es wissen, dann wissen Sie auch, wer es wirklich war. Und Sie sagen es mir nicht.
+> 안다고요? 믿는 게 아니라, 안다? 얀, 그게 저한테 무슨 뜻인지 아세요? 아신다면 진짜 누군지도 아시는 거예요. 그리고 저한테 말 안 하시고요.
+JAN: Ja. Genau das ist die Lage. Und sie ist grausam, ich weiß. Ich kenne die Wahrheit und darf sie dir nicht geben. Noch nicht. Jeden Tag, an dem ich schweige, obwohl ich die Wahrheit habe, schäme ich mich vor dir. Aber ich tue es trotzdem. Weil Schweigen heute dich mehr schützt als Reden.
+> 응. 바로 그게 상황이야. 그리고 잔인하지, 알아. 난 진실을 아는데 너한테 줄 수 없어. 아직은. 진실을 가졌는데 침묵하는 날 하나하나, 네 앞에서 부끄러워. 근데 그래도 해. 지금은 침묵이 말보다 널 더 지키니까.
+LEON: Wie kann Schweigen mich schützen? Erklären Sie mir wenigstens das. Nicht was Sie wissen. Nur, warum Schweigen Schutz sein soll. Das ist doch keine Quelle, die Sie verraten.
+> 침묵이 어떻게 절 지켜요? 적어도 그건 설명해 주세요. 뭘 아시는지가 아니라. 그저 왜 침묵이 보호인지만. 그건 취재원을 발설하는 게 아니잖아요.
+JAN: Das darf ich erklären, ja. Stell dir vor, es gibt einen Grund, warum alle gerade so tun müssen, als wüssten sie nichts. Nicht nur du. Alle. Und wenn einer aus der Reihe tanzt, und sei es aus Erleichterung, dann zerbricht etwas, das viele Menschen schützt. Auch dich.
+> 그건 설명해도 돼, 응. 상상해 봐. 지금 모두가 아무것도 모르는 척해야 하는 이유가 있어. 너만이 아니라. 전부. 그리고 한 명이 대열에서 벗어나면, 그게 안도에서라도, 많은 사람을 지키는 뭔가가 부서져. 너도.
+LEON: Also wenn ich jetzt wüsste, was Sie wissen, und mir die Erleichterung anmerken würde, dann würde ich damit nicht nur mir schaden, sondern allen? Weil jemand meine Erleichterung bemerken könnte?
+> 그럼 제가 지금 당신이 아는 걸 알고 안도가 티 나면, 저뿐 아니라 모두한테 해가 된다고요? 누가 제 안도를 알아챌 수 있어서?
+JAN: Genau das. Dein ehrliches Gesicht, das sonst dein größter Schatz ist, wäre in diesem einen Moment deine größte Gefahr. Du kannst nämlich nicht lügen, Leon. Das ehre ich an dir. Aber gerade jetzt müsste ich dich bitten zu lügen, und das will ich dir ersparen. Darum schweige ich.
+> 바로 그거야. 평소엔 네 가장 큰 보물인 네 정직한 얼굴이, 이 한 순간엔 네 가장 큰 위험일 거야. 넌 거짓말을 못 하거든, 레온. 그걸 난 너한테서 존경해. 근데 바로 지금 난 너한테 거짓말하라고 부탁해야 할 텐데, 그걸 면하게 해 주고 싶어. 그래서 침묵해.
+LEON: Sie schweigen, damit ich nicht lügen muss. Das… das ergibt plötzlich Sinn. Und es ist das Gegenteil von dem, was ich gedacht habe. Ich dachte, Sie trauen mir nicht. Dabei vertrauen Sie darauf, dass ich zu ehrlich bin, um ein Geheimnis zu tragen.
+> 제가 거짓말 안 하도록 침묵하신다. 그건… 갑자기 말이 되네요. 그리고 제가 생각한 거랑 정반대예요. 전 절 안 믿으시는 줄 알았어요. 근데 제가 비밀을 지니기엔 너무 정직하다는 걸 믿으시는 거네요.
+JAN: Du hast es verstanden, Leon. Dein Problem war nie, dass wir dir misstrauen. Dein Problem ist, dass du zu ehrlich bist für dieses eine Spiel. Und ehrlich sein ist in unserem Beruf das Wertvollste, was es gibt. Verlier das nie, auch wenn es dir gerade wehtut.
+> 이해했어, 레온. 네 문제는 우리가 널 못 믿는 게 결코 아니었어. 네 문제는 네가 이 한 게임엔 너무 정직하다는 거야. 그리고 정직함은 우리 직업에서 있을 수 있는 가장 값진 거야. 지금 아파도 결코 잃지 마.
+
+# 장면 8 — ZWEI DIALEKTE, EINE WAHRHEIT
+LEON: Wissen Sie was, Jan? Isch glaub Ihne. Und des macht mi grad no wütender. Weil wenn i Ihne glaub, dann muss i bleibe. Und wenn i bleib, muss i des aushalte. Des isch zum Verrücktwerde.
+= Wissen Sie was, Jan? Ich glaube Ihnen. Und das macht mich gerade noch wütender. Weil wenn ich Ihnen glaube, dann muss ich bleiben. Und wenn ich bleibe, muss ich das aushalten. Das ist zum Verrücktwerden.
+> 있잖아요, 얀? 전 당신을 믿어요. 그리고 그게 지금 절 더 화나게 해요. 당신을 믿으면 남아야 하니까요. 그리고 남으면 이걸 견뎌야 하고요. 미칠 노릇이에요.
+JAN: Ick versteh dir, Leon. Wirklich. Und weeßte wat? Dein Schwäbisch, wenn de wütend bist, dit is dit Ehrlichste an dir. Jetzt redste endlich wie du selba, nich wie 'n Praktikant, der allet richtich machen will.
+= Ich verstehe dich, Leon. Wirklich. Und weißt du was? Dein Schwäbisch, wenn du wütend bist, das ist das Ehrlichste an dir. Jetzt redest du endlich wie du selber, nicht wie ein Praktikant, der alles richtig machen will.
+> 이해해, 레온. 진짜로. 그리고 있잖아? 네가 화날 때 쓰는 슈바벤 말, 그게 너한테서 제일 정직한 거야. 이제야 드디어 너 자신처럼 말해, 다 잘하려는 수습처럼이 아니라.
+LEON: Vielleicht, weil ich grad nicht alles richtig machen will. Ich will bloß, dass es aufhört. Mir schwätzet jetzt mal ehrlich, Jan: Hab i was falsch gmacht? Irgendwas, wasmi verdächtig macht? Saget Sie's mir grad raus.
+= Vielleicht, weil ich gerade nicht alles richtig machen will. Ich will bloß, dass es aufhört. Wir reden jetzt mal ehrlich, Jan: Habe ich etwas falsch gemacht? Irgendetwas, was mich verdächtig macht? Sagen Sie es mir gerade heraus.
+> 어쩌면 지금 다 잘하고 싶지 않아서요. 그냥 멈추길 바라요. 우리 이제 솔직하게 얘기해요, 얀. 제가 뭘 잘못했어요? 절 수상하게 만드는 뭔가를? 대놓고 말해 주세요.
+JAN: Nee, Leon. Du hast nüscht falsch jemacht. Jar nüscht. Dit is ja det Schlimme. Du bist unschuldich, und trotzdem triffts dir. Nich, weil de wat jetan hast, sondern weil jemand jewollt hat, dat et so aussieht. Verstehste den Unterschied?
+= Nee, Leon. Du hast nichts falsch gemacht. Gar nichts. Das ist ja das Schlimme. Du bist unschuldig, und trotzdem trifft es dich. Nicht, weil du etwas getan hast, sondern weil jemand gewollt hat, dass es so aussieht. Verstehst du den Unterschied?
+> 아니야, 레온. 넌 아무것도 안 잘못했어. 전혀. 그게 나쁜 거야. 넌 결백한데 그래도 네가 당해. 네가 뭘 해서가 아니라, 누가 그렇게 보이길 원해서. 차이를 알겠어?
+LEON: Jemand hat gewollt, dass es so aussieht. Also… es war von Anfang an gegen mich gerichtet? Gezielt? Jan, das ist ja fast schlimmer. Und zugleich… es ist eine Erleichterung. Weil es heißt, ich bin nicht verrückt. Ich habe wirklich etwas gespürt.
+> 누가 그렇게 보이길 원했다. 그럼… 처음부터 절 겨냥한 거예요? 의도적으로? 얀, 그건 거의 더 나빠요. 그리고 동시에… 안도돼요. 제가 미친 게 아니란 뜻이니까요. 전 정말 뭔가를 느꼈어요.
+JAN: Du bist nich verrückt, Leon. Du hast dit Richtije jespürt. Jemand hat dir 'n Schatten übergeworfen, und du hast den Schatten jespürt, ohne zu wissen, woher er kommt. Dit war keene Einbildung. Dit war echt. Und bald zeijen wir dir, wer den Schatten jeworfen hat.
+= Du bist nicht verrückt, Leon. Du hast das Richtige gespürt. Jemand hat dir einen Schatten übergeworfen, und du hast den Schatten gespürt, ohne zu wissen, woher er kommt. Das war keine Einbildung. Das war echt. Und bald zeigen wir dir, wer den Schatten geworfen hat.
+> 넌 안 미쳤어, 레온. 넌 옳은 걸 느꼈어. 누가 너한테 그림자를 씌웠고, 넌 어디서 왔는지 모른 채 그 그림자를 느꼈어. 착각이 아니었어. 진짜였어. 그리고 곧 누가 그림자를 던졌는지 보여 줄게.
+LEON: Des erschta Mol seit Woche fühl i mi net wie 'n Idiot. Sie glaubet mir, dass i was gspürt hab. Des isch mehr wert, als Sie denket, Jan.
+= Das erste Mal seit Wochen fühle ich mich nicht wie ein Idiot. Sie glauben mir, dass ich etwas gespürt habe. Das ist mehr wert, als Sie denken, Jan.
+> 몇 주 만에 처음으로 전 제가 바보처럼 안 느껴져요. 제가 뭘 느꼈다는 걸 믿어 주시네요. 그게 생각보다 더 값져요, 얀.
+JAN: Ick weeß, wat det wert is, Leon. Mir ham se ooch mal 'n Schatten übergeworfen. Dit Deepfake. Een janzet Video, in dem ick wat jesacht hab, wat ick nie jesacht hab. Ick weeß jenau, wie sich det anfühlt, wenn allet uff eenen zeicht und keener eenem jlaubt.
+= Ich weiß, was das wert ist, Leon. Mir haben sie auch mal einen Schatten übergeworfen. Das Deepfake. Ein ganzes Video, in dem ich etwas gesagt habe, was ich nie gesagt habe. Ich weiß genau, wie sich das anfühlt, wenn alles auf einen zeigt und keiner einem glaubt.
+> 그게 얼마나 값진지 알아, 레온. 나한테도 한 번 그림자를 씌웠어. 그 딥페이크. 내가 한 번도 안 한 말을 하는 영상 통째로. 모든 게 한 사람을 가리키고 아무도 안 믿을 때가 어떤 느낌인지 정확히 알아.
+LEON: Stimmt. Des hab i ganz vergessa. Sie wisset des wirklich. Besser als jeder andere hier. Vielleicht deshalb glaub i Ihne grad am meiste. Weil Sie's selber erlebt hen.
+= Stimmt. Das habe ich ganz vergessen. Sie wissen das wirklich. Besser als jeder andere hier. Vielleicht deshalb glaube ich Ihnen gerade am meisten. Weil Sie es selber erlebt haben.
+> 맞아요. 그걸 까맣게 잊었어요. 당신은 정말 아시네요. 여기 누구보다 잘. 어쩌면 그래서 지금 당신을 제일 믿어요. 직접 겪으셨으니까요.
+JAN: Und weeßte, wat mir damals jeholfen hat? Eene alte Frau, die Elke, die hat in 'n Kiez-Chat jeschrieben: «Der Jan is nich so.» Een eenzijer Satz von eenem Menschen, der mir kennt. Dit war mehr wert als jeder Faktencheck. Du hast ooch solche Menschen, Leon. Du siehst se bloß jrade nich.
+= Und weißt du, was mir damals geholfen hat? Eine alte Frau, die Elke, die hat in einen Kiez-Chat geschrieben: «Der Jan ist nicht so.» Ein einziger Satz von einem Menschen, der mich kennt. Das war mehr wert als jeder Faktencheck. Du hast auch solche Menschen, Leon. Du siehst sie bloß gerade nicht.
+> 그리고 그때 뭐가 날 도왔는지 알아? 늙은 여자, 엘케가 동네 채팅방에 썼어. «얀은 그런 사람 아니야.» 날 아는 사람의 단 한 문장. 어떤 팩트체크보다 값졌어. 너한테도 그런 사람들이 있어, 레온. 지금 그저 안 보일 뿐이야.
+LEON: Vielleicht sitzt einer davon grad neben mir. Und einer steht hinter dem Tresen. Isch glaub, i hab die ganze Zeit no mehr Leut g'habt, als i dacht hab. I war bloß so im Schatten, dass i's Licht net gseha hab.
+= Vielleicht sitzt einer davon gerade neben mir. Und einer steht hinter dem Tresen. Ich glaube, ich habe die ganze Zeit noch mehr Leute gehabt, als ich dachte. Ich war bloß so im Schatten, dass ich das Licht nicht gesehen habe.
+> 어쩌면 그중 하나가 지금 제 옆에 앉아 있네요. 그리고 하나는 카운터 뒤에 서 있고요. 제가 생각보다 내내 더 많은 사람을 가졌던 것 같아요. 그저 그림자 속에 있어서 빛을 못 봤을 뿐이에요.
+JAN: Weeßte, Leon, dit is 'n schöner Satz. Und 'n wahrer. Im Schatten sieht man dit Licht nich, aba dit Licht is trotzdem da. Deine Mutter, dein Bruder, Elke, Tobi, wir alle. Wir warn die janze Zeit da. Du konntest uns bloß nich sehn.
+= Weißt du, Leon, das ist ein schöner Satz. Und ein wahrer. Im Schatten sieht man das Licht nicht, aber das Licht ist trotzdem da. Deine Mutter, dein Bruder, Elke, Tobi, wir alle. Wir waren die ganze Zeit da. Du konntest uns bloß nicht sehen.
+> 있잖아, 레온, 아름다운 문장이야. 그리고 참된. 그림자 속에선 빛을 못 봐, 근데 빛은 그래도 거기 있어. 네 어머니, 동생, 엘케, 토비, 우리 모두. 우린 내내 거기 있었어. 넌 그저 우릴 못 봤을 뿐이야.
+LEON: Und jetzt? Jetzt kann i Euch wieder seha. A bissle wenigschtens. Jan, i nimm die Kündigung z'ruck. Net heut, net im Affekt. Aber i merk grad: I will des net. I will net gehe. I war bloß so müd vom Verdächtigtwerde, dass i vergessa hab, dass i des hier lieb.
+= Und jetzt? Jetzt kann ich euch wieder sehen. Ein bisschen wenigstens. Jan, ich nehme die Kündigung zurück. Nicht heute, nicht im Affekt. Aber ich merke gerade: Ich will das nicht. Ich will nicht gehen. Ich war bloß so müde vom Verdächtigtwerden, dass ich vergessen habe, dass ich das hier liebe.
+> 그럼 이제? 이제 다시 여러분을 볼 수 있어요. 적어도 조금은. 얀, 사직서를 거둬요. 오늘도, 충동으로도 아니에요. 근데 지금 깨달아요. 전 그걸 원치 않아요. 떠나기 싫어요. 그저 의심받는 데 너무 지쳐서 제가 여기를 사랑한다는 걸 잊었을 뿐이에요.
+JAN: Nimm dir trotzdem noch die paar Tage, Leon. Entscheide nich jetzt, im ersten Moment der Erleichterung. Entscheide, wenn die Erleichterung sich jesetzt hat. Aber ick sach dir eins: Wenn de bleibst, bist de willkommen. Und wenn de jehst, bleibste trotzdem einer von uns. Beides is okay.
+= Nimm dir trotzdem noch die paar Tage, Leon. Entscheide nicht jetzt, im ersten Moment der Erleichterung. Entscheide, wenn die Erleichterung sich gesetzt hat. Aber ich sage dir eins: Wenn du bleibst, bist du willkommen. Und wenn du gehst, bleibst du trotzdem einer von uns. Beides ist okay.
+> 그래도 며칠 더 가져, 레온. 지금, 안도의 첫 순간에 결정하지 마. 안도가 가라앉았을 때 결정해. 근데 하나 말할게. 남으면 환영이야. 떠나도 넌 여전히 우리 중 하나야. 둘 다 괜찮아.
+LEON: Beides isch okay. Des isch des Schönschte, was i heut ghört hab. Koin Druck, koi «du musch». Bloß: Du bisch willkommen. I glaub, grad des macht, dass i bleibe will. Weil mi koiner zwingt.
+= Beides ist okay. Das ist das Schönste, was ich heute gehört habe. Kein Druck, kein «du musst». Bloß: Du bist willkommen. Ich glaube, gerade das macht, dass ich bleiben will. Weil mich keiner zwingt.
+> 둘 다 괜찮다. 오늘 들은 말 중 제일 아름다워요. 압박 없이, «해야 한다»도 없이. 그냥, 넌 환영이야. 바로 그게 제가 남고 싶게 만드는 것 같아요. 아무도 절 강요 안 하니까요.
+
+# 엔딩 — DER ANRUF VON MIRA
+MIRA: Jan! Ich erreiche dich endlich. Ihr seid bei Elke, oder? Hör zu, es gibt eine Entwicklung. Eine große. Dana hat die Durchsuchung vorgezogen. Auf morgen früh.
+> 얀! 드디어 연결됐네요. 엘케네죠? 들어요, 진전이 있어요. 큰 거. 다나가 수색을 앞당겼어요. 내일 아침으로.
+JAN: Vorgezogen? Warum? Ist etwas passiert?
+> 앞당겼다고? 왜? 무슨 일 있었어?
+MIRA: Patrick ist nervös geworden. Er hat heute versucht, Dateien von den Rechnern zu löschen. Fernzugriff, mitten am Nachmittag. Aber ich habe jeden Löschversuch protokolliert und gesichert. Er hat sich selbst überführt. Dana sagt, das reicht für den Beschluss.
+> 파트리크가 초조해졌어요. 오늘 컴퓨터에서 파일을 지우려 했어요. 원격 접속, 오후 한복판에. 근데 전 삭제 시도 하나하나를 기록·보존했어요. 그가 스스로 자길 유죄로 만들었어요. 다나가 영장에 충분하다고 해요.
+JAN: Warum ist er gerade jetzt nervös geworden? Haben wir etwas falsch gemacht? Hat ihn jemand von uns gewarnt, ohne es zu wollen?
+> 왜 하필 지금 초조해졌지? 우리가 뭘 잘못했어? 우리 중 누가 의도치 않게 그를 경고했어?
+MIRA: Nein. Genau das habe ich auch befürchtet, aber es war das Gegenteil. Er ist nervös geworden, weil wir so ruhig waren. Unsere demonstrative Normalität hat ihn beunruhigt. Er dachte, wir müssten doch längst etwas merken — und als wir nichts taten, bekam er Angst, wir würden im Stillen etwas vorbereiten.
+> 아니요. 저도 바로 그걸 걱정했는데 정반대였어요. 우리가 너무 차분해서 초조해졌어요. 우리의 과시적 평소대로가 그를 불안하게 했어요. 그는 우리가 진작 뭔가 알아챘어야 한다고 생각했는데 — 우리가 아무것도 안 하니까, 우리가 조용히 뭘 준비한다고 무서워졌죠.
+JAN: Also hat unsere Ruhe ihn mehr erschreckt als jede Panik. Dana hatte recht. Wer nichts zeigt, beunruhigt einen schuldigen Menschen am meisten. Sein eigenes schlechtes Gewissen hat ihm eingeredet, dass unsere Stille ein Sturm vor dem Sturm ist.
+> 그럼 우리 침착함이 어떤 공황보다 그를 겁줬네. 다나가 맞았어. 아무것도 안 보이는 게 죄 있는 사람을 제일 불안하게 해. 그의 양심이 우리 침묵이 폭풍 전의 폭풍이라고 그를 꼬드긴 거야.
+MIRA: Genau. Und als er dann die Dateien löschen wollte, um Spuren zu beseitigen, hat er die größte Spur von allen hinterlassen. Jeder Löschversuch ist dokumentiert. Ein Unschuldiger löscht nichts. Nur wer etwas zu verbergen hat, räumt auf.
+> 바로요. 그리고 흔적을 지우려고 파일을 지우려 했을 때, 그가 모든 것 중 가장 큰 흔적을 남겼어요. 삭제 시도 하나하나가 기록됐어요. 결백한 사람은 아무것도 안 지워요. 뭘 숨길 게 있는 사람만 치우죠.
+JAN: Seine eigene Panik war das Geständnis, das uns noch fehlte. Gut, Mira. Dann ist morgen früh die Durchsuchung. Und heute Abend — heute Abend darf ich wenigstens Leon ein Stück Wahrheit zurückgeben. Das ist mehr wert als alles andere heute.
+> 그의 공황이 우리한테 아직 빠졌던 자백이었네. 잘했어, 미라. 그럼 내일 아침 수색. 그리고 오늘 저녁 — 오늘 저녁 적어도 레온한테 진실 한 조각은 돌려줄 수 있어. 그게 오늘 뭣보다 값져.
+JAN: Also hat seine eigene Panik ihn verraten. Und, Mira — das heißt, wir brauchen die Woche nicht mehr. Wir können Leon erlösen. Heute. Jetzt.
+> 그럼 그의 공황이 자길 드러냈네. 그리고 미라 — 그 말은 우리가 일주일이 더는 필요 없다는 거야. 레온을 풀어 줄 수 있어. 오늘. 지금.
+MIRA: Fast. Dana sagt: erst nach der Durchsuchung morgen früh. Aber es gibt etwas, das du Leon heute schon sagen darfst. Das Fernzugriffsprogramm auf seinem Rechner — ich kann jetzt beweisen, dass Patrick es installiert hat. Mit Patricks Konto, nicht Leons. Das entlastet Leon vollständig und sofort.
+> 거의요. 다나는 내일 아침 수색 뒤에야래요. 근데 오늘 벌써 레온한테 말해도 되는 게 있어요. 그의 컴퓨터 원격 프로그램 — 이제 파트리크가 설치했다고 증명할 수 있어요. 레온 계정이 아니라 파트리크 계정으로. 그게 레온을 완전히 즉시 벗겨 줘요.
+JAN: Das darf ich ihm sagen? Dass das Programm von Patrick kam, nicht von ihm?
+> 그걸 말해도 돼? 그 프로그램이 레온이 아니라 파트리크한테서 왔다고?
+MIRA: Das darfst du. Das belastet Patrick nicht mehr, als er sich heute selbst belastet hat, und es entlastet Leon. Dana hat zugestimmt. Sag es ihm, Jan. Gib dem Jungen heute wenigstens das zurück: dass niemand mehr an ihm zweifelt.
+> 돼요. 그건 파트리크가 오늘 스스로 자길 옭아맨 것 이상으로 그를 옭아매지 않고, 레온을 벗겨 줘요. 다나가 동의했어요. 말해요, 얀. 오늘 적어도 그 애한테 이건 돌려줘요. 아무도 더는 그를 의심 안 한다는 걸.
+JAN: Bist du sicher, dass das Dana-konform ist? Ich will nicht, dass meine Erleichterung über Leon uns die ganze Ermittlung kaputt macht. Lieber frage ich einmal zu viel als einmal zu wenig.
+> 그게 다나 규칙에 맞는 거 확실해? 레온에 대한 내 안도가 수사 전체를 망치는 걸 원치 않아. 한 번 덜 묻느니 한 번 더 묻는 게 나아.
+MIRA: Ich habe Dana genau diese Frage gestellt. Ihre Antwort: Das Programm auf Leons Rechner ist ohnehin Teil des Durchsuchungsbeschlusses für morgen. Es ist kein Geheimnis mehr, das wir hüten müssten. Du darfst Leon sagen, dass es nicht von ihm war. Das ist die rote Linie, und sie liegt davor, nicht dahinter.
+> 다나한테 바로 그 질문을 했어요. 답은, 레온 컴퓨터의 프로그램은 어차피 내일 수색영장의 일부예요. 우리가 지켜야 할 비밀이 더는 아니에요. 그게 레온한테서 온 게 아니라고 말해도 돼요. 그게 금지선이고, 그 앞에 있지 뒤에 있지 않아요.
+JAN: Gut. Dann habe ich einmal zu viel gefragt, und das war richtig. Ich sage es ihm. Aber nur genau das, nicht mehr. Dass das Programm nicht seins war. Kein Wort über Patrick, kein Wort über HH, kein Wort über morgen.
+> 좋아. 그럼 한 번 더 물었고, 그게 옳았어. 그에게 말할게. 근데 딱 그것만, 그 이상은 아니야. 프로그램이 그의 게 아니었다는 것. 파트리크도, HH도, 내일도 한마디 없이.
+MIRA: Genau so. Ein Satz, der entlastet, ohne etwas zu verraten. Das ist die Kunst, die wir die ganze Zeit üben. Und bei Leon ist sie heute endlich mal eine gute Nachricht, keine schwere.
+> 바로 그렇게요. 아무것도 발설하지 않으면서 벗겨 주는 한 문장. 그게 우리가 내내 연습하는 기술이에요. 그리고 레온한텐 오늘 드디어 그게 무거운 게 아니라 좋은 소식이에요.
+HELENE: Dann gib ihm diese eine gute Nachricht, Jan. Nach allem, was er getragen hat, hat er einen guten Abend verdient. Gib ihm den Anfang davon zurück. Den Rest geben wir ihm nächste Woche. Vollständig.
+> 그럼 그 좋은 소식 하나를 줘요, 얀. 그가 짊어진 모든 것 뒤에, 좋은 저녁 하나 받을 자격 있어요. 그 시작을 돌려줘요. 나머지는 다음 주에 줘요. 온전히.
+JAN: Leon. Hör zu. Ich darf dir noch nicht alles sagen. Aber eines darf ich, und es ist das Wichtigste: Das Programm auf deinem Rechner, das alles ausgelöst hat — es war nicht deins. Jemand hat es installiert. Wir können es beweisen. Du bist frei von jedem Verdacht. Ab jetzt. Endgültig.
+> 레온. 들어. 아직 전부는 말 못 해. 근데 하나는 되고, 그게 제일 중요해. 네 컴퓨터의 프로그램, 전부를 일으킨 그것 — 네 게 아니었어. 누가 설치했어. 우린 증명할 수 있어. 넌 모든 의심에서 자유야. 지금부터. 영원히.
+LEON: Es war nicht meins. Jemand hat es installiert. … Jan, ich… entschuldigen Sie, ich muss kurz rausgehen. Ich glaube, ich muss das allein verarbeiten. Nicht aus Wut. Aus Erleichterung. Zum ersten Mal seit Wochen kann ich wieder atmen.
+> 제 게 아니었어요. 누가 설치했어요. … 얀, 전… 죄송해요, 잠깐 나가야겠어요. 혼자 삭여야 할 것 같아요. 화가 아니라. 안도감에서요. 몇 주 만에 처음으로 다시 숨을 쉴 수 있어요.
+JAN: Geh ruhig, Leon. Nimm dir die Zeit, die du brauchst. Und wenn du zurückkommst — du musst nichts entscheiden. Deine Kündigung liegt bei Helene, undatiert. Du kannst sie zerreißen oder liegen lassen. Heute musst du gar nichts. Heute darfst du einfach atmen.
+> 나가, 레온. 필요한 만큼 시간을 써. 그리고 돌아오면 — 아무것도 결정 안 해도 돼. 네 사직서는 헬레네한테 있어, 날짜 없이. 찢든 그냥 두든. 오늘은 아무것도 안 해도 돼. 오늘은 그냥 숨 쉬면 돼.
+ELKE: Jeh raus an die Luft, Junge. Aber lass dein Bier hier. Ick heb et dir uff. Und wenn de wiederkommst, is et noch da. Jenau wie dein Platz hier. Jenau wie deine Leute. Allet noch da.
+= Geh raus an die Luft, Junge. Aber lass dein Bier hier. Ich hebe es dir auf. Und wenn du wiederkommst, ist es noch da. Genau wie dein Platz hier. Genau wie deine Leute. Alles noch da.
+> 바람 쐬러 나가, 애야. 근데 맥주는 여기 둬. 내가 맡아 둘게. 그리고 돌아오면 아직 거기 있어. 여기 네 자리처럼. 네 사람들처럼. 다 아직 거기 있어.
+LEON: Danke, Frau Elke. Danke, Jan. Ich… ich komme wieder rein. In ein paar Minuten. Ich muss nur einmal den Himmel sehen und wissen, dass er echt ist. Nach all den Wochen voller Fälschungen will ich einfach etwas Echtes anschauen.
+> 고마워요, 엘케 씨. 고마워요, 얀. 전… 다시 들어올게요. 몇 분 뒤에. 그냥 한 번 하늘을 보고 그게 진짜인 걸 알아야겠어요. 가짜로 가득한 그 몇 주 뒤에 전 그냥 진짜인 뭔가를 보고 싶어요.
+JAN: Der Himmel ist echt, Leon. Das verspreche ich dir. Und bald ist alles andere auch wieder echt. Geh, schau ihn dir an. Wir sind hier, wenn du zurückkommst.
+> 하늘은 진짜야, 레온. 약속해. 그리고 곧 다른 모든 것도 다시 진짜야. 가, 봐. 네가 돌아오면 우린 여기 있어.
+ELKE: So 'n juter Junge. Jan, du passt mir uff den uff, hörste? Der is aus 'nem besonderen Holz. Zu ehrlich für diese Welt, aber jenau solche brauchen wir. Verlier den nich.
+= So ein guter Junge. Jan, du passt mir auf den auf, hörst du? Der ist aus einem besonderen Holz. Zu ehrlich für diese Welt, aber genau solche brauchen wir. Verlier den nicht.
+> 참 좋은 애야. 얀, 쟤 좀 챙겨, 알았어? 쟤는 특별한 재목이야. 이 세상엔 너무 정직한데, 바로 그런 사람이 우리한텐 필요해. 쟤를 잃지 마.
+JAN: Das habe ich nicht vor, Elke. Leon ist genau der Grund, warum sich diese Arbeit lohnt. Ein Mensch, der zu ehrlich ist, um ein Geheimnis zu tragen — das ist kein Fehler. Das ist Hoffnung. In einer Welt voller Masken ist ein Mensch ohne Maske das Kostbarste, was es gibt.
+> 그럴 생각 없어요, 엘케. 레온은 바로 이 일이 값진 이유예요. 비밀을 지니기엔 너무 정직한 사람 — 그건 결점이 아니에요. 희망이죠. 가면으로 가득한 세상에서 가면 없는 사람이 있을 수 있는 가장 귀한 거예요.
+
