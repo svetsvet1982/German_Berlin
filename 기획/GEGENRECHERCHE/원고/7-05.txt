@@ -1,0 +1,363 @@
+@part 7
+@ep 5
+@title Koalitionspoker
+@sub 연정 포커 · 새벽 세 시에 바뀐 문장
+@info 대사 150턴 · 난이도 C1 · 배경: 2028년 12월, 미테의 Thal & Partner 사무실, 시청 근처 카페, 템펠호퍼 펠트, 엘케네 선술집, Spreewerk 편집국
+@cast JAN | 얀 코발치크 (45) · Thal & Partner '위기 커뮤니케이션' 자문역 (위장)
+@cast KASPER | 루벤 카스퍼 (43) · Thal & Partner 실무 책임자
+@cast THAL | 막시밀리안 탈 박사 (65) · Thal & Partner 대표
+@cast KLEEFELD | 모리츠 클레펠트 (34) · 연정 '협상 실무단' 실무자 (가상)
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast SCHOLZE | 우테 숄체 (57) · 한 연정 정당의 주의회 의원, 협상단 주거 분과 (가상)
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast LEON | 레온 피셔 (24) · 기자
+@cast HORST | 호르스트 (74) · 단골, 스카트 꾼 (베를린 사투리)
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@note ※ 새 연정의 예산 협상 막바지, '공공주택 기금'이 줄고 '템펠호프 가장자리 개발 검토' 문장이 예산 부속법에 끼어든다. 문장을 고친 사람은 서클의 재무 담당과 가까운 젊은 협상 실무자. 얀은 탈 사무소에서 '언론 대응 문구'를 맡아 최종안을 공개 전에 본다. 실제 정당명은 특정하지 않으며 협상단·인물·로펌 모두 가상, 절차는 극 중 단순화.
+@note ※ 표현 초점: der Koalitionsvertrag · die Verhandlungsrunde · der Haushaltsentwurf · die Formulierung · das Hinterzimmer · das Haushaltsbegleitgesetz
+@next 7부 6화 — «Gestückelte Spenden»(쪼갠 후원금) — 레온이 이름을 빌려준 후원자들을 한 명씩 찾아간다.
+
+# 콜드 오픈 — MONTAG, ACHT UHR DREISSIG
+KASPER: Herr Kowalczyk. Ihre zweite Aufgabe. Die Koalition stellt am Donnerstag ihren Haushalt vor. Wir brauchen bis Mittwoch eine Sprachregelung.
+> 코발치크 씨. 두 번째 업무예요. 연정이 목요일에 예산안을 발표해요. 수요일까지 언론 대응 문구가 필요해요.
+JAN: Für wen? Für die Koalition?
+> 누구를 위한 거죠? 연정이요?
+KASPER: Für unsere Mandanten. Die Wohnungswirtschaft. Wenn die Presse fragt, warum der Wohnungsbaufonds kleiner wird.
+> 우리 의뢰인들이요. 주택 업계. 언론이 왜 주택 기금이 줄어드는지 물으면.
+JAN: Wird er kleiner?
+> 줄어들어요?
+KASPER: Ab Donnerstag. Von zwei Milliarden auf sechshundert Millionen. Das steht noch nirgends. Außer hier.
+> 목요일부터요. 20억에서 6억으로. 아직 어디에도 안 나와 있어요. 여기 말고는.
+JAN: Und woher haben wir einen Haushalt, den die Koalition noch nicht vorgestellt hat?
+> 그럼 연정이 아직 발표도 안 한 예산을 우린 어디서 구했죠?
+KASPER: Wir haben ihn nicht. Wir haben eine Formulierungshilfe. Die wir selbst geschrieben haben.
+> 구한 게 아니에요. 문안 지원을 한 거죠. 우리가 직접 쓴.
+JAN: … Sie schreiben den Haushalt der Stadt?
+> … 시 예산을 당신들이 쓴다고요?
+KASPER: Wir schreiben Sätze. Andere unterschreiben sie. So funktioniert Politik, Herr Kowalczyk. Willkommen auf der anderen Seite des Tisches.
+> 우린 문장을 써요. 서명은 다른 사람들이 하고. 정치는 그렇게 돌아가요, 코발치크 씨. 식탁 반대편에 오신 걸 환영해요.
+
+# 장면 1 — DIE MAPPE
+KASPER: Seite elf. Der Absatz über das Tempelhofer Feld. Den lesen Sie besonders genau.
+> 11쪽. 템펠호퍼 펠트 단락이요. 그건 특히 꼼꼼히 읽으세요.
+JAN: «Der Senat prüft im Rahmen des Haushaltsbegleitgesetzes eine behutsame Randbebauung.» Behutsam.
+> «시 정부는 예산 부속법의 틀 안에서 신중한 가장자리 개발을 검토한다.» 신중한.
+KASPER: Das Wort war meine Idee. Niemand ist gegen behutsam.
+> 그 단어는 제 아이디어였어요. 신중한 거에 반대하는 사람은 없죠.
+JAN: Die Berliner haben 2014 abgestimmt. Das Feld bleibt frei. Ein Volksentscheid.
+> 베를린 사람들이 2014년에 투표했어요. 펠트는 비워 둔다. 주민 투표로.
+KASPER: Ein Volksentscheid ist ein Gesetz. Gesetze kann man ändern. Und ein Haushaltsbegleitgesetz liest niemand. Herr Vollmer hat es Ihnen erklärt. Am ersten Freitag.
+> 주민 투표도 법률일 뿐이에요. 법률은 바꿀 수 있고. 그리고 예산 부속법은 아무도 안 읽어요. 폴머 씨가 설명했잖아요. 첫 금요일에.
+JAN: Und wer bringt den Satz in den Text?
+> 그럼 그 문장은 누가 본문에 넣죠?
+KASPER: Ein junger Mann. Fleißig. Dankbar. Er trinkt um elf einen Kaffee mit uns. Sie sind dabei. Sie sagen nichts. Sie hören zu.
+> 젊은 남자요. 부지런하고. 고마워할 줄 알고. 열한 시에 우리랑 커피 마셔요. 당신도 같이 있어요. 아무 말 하지 말고. 듣기만 해요.
+JAN: Das kann ich. Zuhören.
+> 그건 할 수 있어요. 듣는 거.
+KASPER: Deshalb sind Sie hier.
+> 그래서 여기 계신 거죠.
+
+# 장면 2 — ELF UHR, CAFÉ AM ROTEN RATHAUS
+KLEEFELD: Herr Kasper. Ich habe nur zwanzig Minuten. Die Verhandlungsrunde geht um zwölf weiter.
+> 카스퍼 씨. 20분밖에 없어요. 협상 회의가 열두 시에 재개돼요.
+KASPER: Moritz, das ist Herr Kowalczyk. Er arbeitet jetzt bei uns.
+> 모리츠, 이분은 코발치크 씨. 이제 우리랑 일해요.
+KLEEFELD: Der Kowalczyk? Von Spreewerk? Ich habe Ihre Artikel gelesen. Im Studium. Über den Gerichtsstraßen-Fonds.
+> 그 코발치크요? Spreewerk의? 기사 읽었어요. 대학 때. 게리히트슈트라세 펀드 기사.
+JAN: Und jetzt sitzen wir an einem Tisch.
+> 그리고 이제 한 식탁에 앉아 있네요.
+KLEEFELD: Jeder wird erwachsen. — Herr Kasper, Seite elf ist drin. Der Wohnungsbaufonds auch. Aber auf der anderen Seite des Tisches hat die Kollegin Scholze hat Fragen gestellt.
+> 다들 어른이 되죠. — 카스퍼 씨, 11쪽 들어갔어요. 주택 기금도요. 근데 협상 테이블의 — 죄송, 상대 쪽 — 숄체 의원이 질문을 했어요.
+KASPER: Welche Fragen?
+> 무슨 질문이요?
+KLEEFELD: Wer das Wort «behutsam» vorgeschlagen hat. Ich habe gesagt: ich. Sie hat gesagt: «Seit wann schreiben Sie so schön, Herr Kleefeld?»
+> 누가 «신중한»이라는 단어를 제안했냐고요. 제가 했다고 했죠. 그랬더니: «언제부터 그렇게 글을 예쁘게 쓰셨어요, 클레펠트 씨?»
+KASPER: Und dann?
+> 그래서요?
+KLEEFELD: Dann wurde es drei Uhr nachts. Und um drei Uhr nachts liest niemand mehr genau. Die Fassung ist durch. Donnerstag wird sie vorgestellt.
+> 그다음엔 새벽 세 시가 됐죠. 새벽 세 시엔 아무도 꼼꼼히 안 읽어요. 그 안은 통과했어요. 목요일에 발표돼요.
+JAN: Sie verhandeln für eine Partei. Und trinken Kaffee mit einer Lobbyagentur.
+> 당신은 한 정당을 위해 협상하잖아요. 그런데 로비 회사랑 커피를 마시고.
+KLEEFELD: Ich trinke Kaffee mit Freunden. Herr Vollmer hat mir das Studium bezahlt. Ein Stipendium. Seine Familienstiftung. Das ist kein Geheimnis.
+> 전 친구들이랑 커피 마셔요. 폴머 씨가 제 학비를 대 줬어요. 장학금이요. 그분 가족 재단. 비밀도 아니에요.
+KASPER: Moritz. Danke. Grüßen Sie Ihre Mutter.
+> 모리츠. 고마워요. 어머님께 안부 전해요.
+KLEEFELD: Und Sie, Herr Kowalczyk — schreiben Sie bitte nichts mehr über mich. Jetzt, wo Sie auf unserer Seite sind.
+> 그리고 코발치크 씨 — 이제 저에 대해선 아무것도 쓰지 마세요. 이제 우리 편이 됐으니까요.
+JAN: Ich schreibe nicht mehr. Ich formuliere.
+> 전 이제 안 써요. 문안을 다듬죠.
+
+# 장면 3 — SPREEWERK, DIE WAND
+MIRA: Ich habe zwei Fassungen des Koalitionsvertrags. Eine vom Freitag. Eine vom Montag. Von einer Quelle in der Senatskanzlei.
+> 연정 협약 두 버전이 있어요. 금요일 거랑. 월요일 거. 시 총리실의 취재원한테서요.
+HELENE: Und?
+> 그래서?
+MIRA: Freitag: «Der öffentliche Wohnungsbaufonds wird auf zwei Milliarden Euro aufgestockt.» Montag: «auf sechshundert Millionen Euro». Und Seite elf ist neu. Tempelhof. «Behutsame Randbebauung.»
+> 금요일: «공공주택 기금을 20억 유로로 증액한다.» 월요일: «6억 유로로.» 그리고 11쪽이 새로 생겼어요. 템펠호프. «신중한 가장자리 개발.»
+SWETA: Das Wort «behutsam» ist kein Wort von Politikern. Das ist ein Wort von Agenturen.
+> «신중한»은 정치인 단어가 아니에요. 에이전시 단어예요.
+KATRIN: Bevor ihr weitermacht. Mira, hat die Quelle die Dokumente aus dem Dienst mitgenommen?
+> 더 가기 전에. 미라, 취재원이 문서를 업무 중에 가지고 나왔어?
+MIRA: Sie hat sie mir gezeigt. Ich habe sie abfotografiert. In einem Café.
+> 보여 줬어요. 제가 사진 찍었고. 카페에서.
+KATRIN: Gut. Journalisten machen sich nicht strafbar, wenn sie ein Dienstgeheimnis entgegennehmen und veröffentlichen. Das steht seit 2012 im Gesetz. Aber die Quelle schon. Sie schützt du. Mit allem.
+> 좋아. 기자는 공무상 비밀을 받아서 보도해도 처벌받지 않아. 2012년부터 법에 있어. 근데 취재원은 달라. 그 사람은 네가 지켜. 모든 걸로.
+MIRA: Mit allem.
+> 모든 걸로.
+HELENE: Was wissen wir? Und was wissen wir nicht?
+> 뭘 알지? 그리고 뭘 모르지?
+MIRA: Wir wissen: zwischen Freitag und Montag hat jemand zwei Sätze geändert. Wir wissen nicht: wer. Und warum.
+> 아는 것: 금요일과 월요일 사이에 누군가 두 문장을 바꿨다. 모르는 것: 누가. 그리고 왜.
+SWETA: Und wer davon profitiert. Wenn am Tempelhofer Feld gebaut wird — wer baut?
+> 그리고 누가 이득을 보는지. 템펠호퍼 펠트에 짓는다면 — 누가 짓죠?
+MIRA: Das kann ich herausfinden. Grundstücksoptionen. Bauträger mit Erbbaurechten am Rand. Gebt mir zwei Tage.
+> 그건 알아낼 수 있어요. 토지 옵션. 가장자리에 지상권 가진 시행사. 이틀만 줘요.
+
+# 장면 4 — DIE ABGEORDNETE
+SCHOLZE: Sie sind von Spreewerk? Die Zeitung, die jetzt ohne Kowalczyk ist?
+> Spreewerk에서 오셨어요? 이제 코발치크 없는 신문?
+SWETA: Mit sieben anderen. Frau Scholze, Sie sitzen in der Arbeitsgruppe Wohnen. Wer hat das Wort «behutsam» vorgeschlagen?
+> 다른 일곱 명이랑요. 숄체 의원님, 주거 분과에 계시죠. 누가 «신중한»이란 단어를 제안했어요?
+SCHOLZE: Woher wissen Sie… Gut. Ich sage nichts unter eins. Unter drei. Nur für Ihr Verständnis.
+> 그걸 어떻게… 좋아요. 인용 가능한 건 없어요. 오프 더 레코드. 이해를 위해서만.
+SWETA: Unter drei. Einverstanden.
+> 오프 더 레코드. 동의해요.
+SCHOLZE: Ein Referent. Jung. Ehrgeizig. Er kam nach Mitternacht mit einem ausgedruckten Absatz. Auf Papier. Nicht aus unserem System. Das Papier roch nach einer anderen Druckerei.
+> 보좌관이요. 젊고. 야심 있는. 자정 넘어 출력된 단락을 들고 왔어요. 종이로. 우리 시스템에서 나온 게 아니었어요. 종이에서 다른 인쇄소 냄새가 났죠.
+SWETA: Nach einer anderen Druckerei.
+> 다른 인쇄소 냄새.
+SCHOLZE: Unsere Drucker sind alt. Die Buchstaben verschmieren. Dieses Papier war schwer. Mit Wasserzeichen. Ich habe es mir gemerkt, weil ich dachte: Wer bringt um drei Uhr nachts so teures Papier mit?
+> 우리 프린터는 낡았어요. 글자가 번져요. 그 종이는 묵직했어요. 워터마크도 있고. 기억해 둔 건 이런 생각 때문이었어요: 새벽 세 시에 누가 이렇게 비싼 종이를 들고 오지?
+SWETA: Haben Sie widersprochen?
+> 반대하셨어요?
+SCHOLZE: Ich habe gefragt. Dann hat mein Fraktionschef gesagt: «Ute, wir wollen heute fertig werden.» Um drei Uhr nachts will jeder fertig werden. Das wissen die, die solche Absätze schreiben.
+> 질문했죠. 그랬더니 원내대표가 «우테, 오늘 끝내자» 하더군요. 새벽 세 시엔 다들 끝내고 싶어요. 그런 단락 쓰는 사람들은 그걸 알아요.
+SWETA: Wenn wir das Papier finden — würden Sie es wiedererkennen?
+> 그 종이를 찾으면 — 알아보시겠어요?
+SCHOLZE: Ich würde das Wasserzeichen wiedererkennen. Ein Kreis. Mit Bäumen darin.
+> 워터마크는 알아볼 거예요. 원. 안에 나무들이 있는.
+SWETA: … Danke, Frau Scholze. Das war mehr als Verständnis.
+> … 감사해요, 숄체 의원님. 이해 이상이었어요.
+
+# 장면 5 — DAS BRIEFPAPIER
+JAN: Herr Kasper. Ich brauche Papier. Für den Entwurf der Sprachregelung.
+> 카스퍼 씨. 종이가 필요해요. 언론 대응 문구 초안용.
+KASPER: Im Schrank. Aber nicht das schwere. Das schwere ist für Dr. Thal. Und für Formulierungshilfen.
+> 캐비닛에요. 근데 묵직한 건 말고요. 묵직한 건 탈 박사님용이에요. 그리고 문안 지원용.
+JAN: Mit dem Wasserzeichen?
+> 워터마크 있는 거요?
+KASPER: Das Wappen der Villa. Dr. Thal liebt Traditionen. Sie haben es gesehen. Auf den Servietten.
+> 저택 문장이에요. 탈 박사님은 전통을 사랑하시죠. 보셨잖아요. 냅킨에서.
+JAN: Ein Kreis mit Bäumen.
+> 나무가 든 원.
+KASPER: Warum fragen Sie?
+> 왜 물어요?
+JAN: Weil ich meine Sätze auf billiges Papier schreibe. Damit niemand glaubt, sie seien wichtig.
+> 전 제 문장을 싸구려 종이에 쓰니까요. 아무도 그게 중요하다고 생각하지 않게.
+KASPER: Das ist der erste kluge Satz von Ihnen, der nicht ironisch klang.
+> 당신이 한 말 중에 처음으로 비꼬는 소리로 안 들리는 똑똑한 말이네요.
+
+# 장면 5-2 — DAS HINTERZIMMER
+THAL: Herr Kowalczyk. Setzen Sie sich. Wie war der Kaffee mit dem jungen Kleefeld?
+> 코발치크 씨. 앉아요. 젊은 클레펠트와의 커피는 어땠어요?
+JAN: Lehrreich. Er hat meine Artikel im Studium gelesen. Und jetzt schreibt er Ihre Sätze ab.
+> 배울 게 많았어요. 대학 때 제 기사를 읽었대요. 그리고 지금은 당신들 문장을 베끼고요.
+THAL: Er schreibt nicht ab. Er übernimmt. Das ist ein Unterschied, den Journalisten nie verstehen. Politik ist kein Wettbewerb der besten Ideen. Sie ist ein Wettbewerb der besten Formulierungen. Wer zuerst einen guten Satz hat, gewinnt.
+> 베끼는 게 아니에요. 받아들이는 거지. 기자들은 절대 이해 못 하는 차이죠. 정치는 최고의 아이디어 경쟁이 아니에요. 최고의 문장 경쟁이죠. 먼저 좋은 문장을 가진 쪽이 이겨요.
+JAN: Und wer hat die besten Sätze?
+> 그럼 최고의 문장은 누가 가졌죠?
+THAL: Wer nachts wach ist. Wenn die anderen müde werden. Das Hinterzimmer ist kein Raum, Herr Kowalczyk. Es ist eine Uhrzeit. Drei Uhr nachts.
+> 밤에 깨어 있는 사람이요. 다른 사람들이 지칠 때. 뒷방은 방이 아니에요, 코발치크 씨. 시간이에요. 새벽 세 시.
+JAN: Und die Berliner, die 2014 abgestimmt haben? Die schlafen um drei.
+> 그럼 2014년에 투표한 베를린 사람들은요? 세 시엔 자는데요.
+THAL: Die Berliner wollen Wohnungen. Und ein freies Feld. Beides geht nicht. Wir haben nur entschieden, welcher Wunsch lauter ist.
+> 베를린 사람들은 집을 원해요. 그리고 빈 들판도. 둘 다는 안 돼요. 우린 어떤 소원이 더 큰지 정했을 뿐이에요.
+JAN: Mit sechshundert Millionen statt zwei Milliarden für die Wohnungen.
+> 주택에 20억 대신 6억으로요.
+THAL: Öffentliche Wohnungen sind teuer und langsam. Private sind schnell. Am Rand des Feldes werden private Wohnungen gebaut. Sehen Sie? Der Wunsch wird erfüllt. Nur von anderen.
+> 공공 주택은 비싸고 느려요. 민간은 빠르고. 펠트 가장자리엔 민간 주택이 지어질 거예요. 보이죠? 소원은 이뤄져요. 다른 사람들에 의해서일 뿐.
+JAN: Von Herrn Vollmers Familie.
+> 폴머 씨 가족에 의해서요.
+THAL: (lächelt) Sie lernen schnell. Zu schnell, sagt Gregor. Ich sage: genau richtig. Schreiben Sie mir bis Mittwoch eine Sprachregelung, in der das Wort «Vollmer» nicht vorkommt.
+> (미소) 빨리 배우네요. 너무 빠르다고 그레고어는 말하죠. 난 딱 맞다고 해요. 수요일까지 «폴머»란 단어가 안 나오는 언론 대응 문구를 써 줘요.
+
+# 장면 6 — TEMPELHOFER FELD
+TOBI: Kiek ma, Leon. Dit is dit größte Wohnzimmer von Berlin. Dreihundert Hektar. Kein Haus. Keen Zaun. Nur Wind.
+= Guck mal, Leon. Das ist das größte Wohnzimmer von Berlin. Dreihundert Hektar. Kein Haus. Kein Zaun. Nur Wind.
+> 봐, 레온. 이게 베를린에서 제일 큰 거실이야. 300헥타르. 집도 없고. 울타리도 없고. 바람뿐.
+LEON: Hier bist du als Kind Drachen geflogen?
+> 어릴 때 여기서 연 날렸어?
+TOBI: Als Kind? Ick flieg hier jetzt noch. Jeden Herbst. Und 2014 hab ick mit meener Mutter abjestimmt. Sie hat jeweint. Weil wa jewonnen ham. Jegen die Großen.
+= Als Kind? Ich fliege hier jetzt noch. Jeden Herbst. Und 2014 habe ich mit meiner Mutter abgestimmt. Sie hat geweint. Weil wir gewonnen haben. Gegen die Großen.
+> 어릴 때? 지금도 날려. 가을마다. 그리고 2014년에 엄마랑 투표했어. 엄마가 울었지. 우리가 이겨서. 큰 놈들 상대로.
+LEON: Mira sagt, die Koalition will am Rand bauen. «Behutsam».
+> 미라가 그러는데 연정이 가장자리에 짓고 싶어 한대. «신중하게».
+TOBI: Behutsam. Dit Wort sagen Leute, die dir die Brieftasche behutsam aus der Jacke ziehen.
+= Behutsam. Das Wort sagen Leute, die dir die Brieftasche behutsam aus der Jacke ziehen.
+> 신중하게. 그 말은 네 지갑을 재킷에서 신중하게 빼 가는 놈들이 쓰는 말이야.
+LEON: Tobi. Glaubst du immer noch, dass Jan uns verkauft hat?
+> 토비. 아직도 얀이 우릴 팔았다고 생각해?
+TOBI: Ick gloob jar nischt mehr. Elke sacht, ick soll in mein Fahrtenbuch schreiben. Weeßte, wat da drinsteht? Nur Jans Kilometer. 2019 bis jetzt. Jede Fahrt.
+= Ich glaube gar nichts mehr. Elke sagt, ich soll in mein Fahrtenbuch schreiben. Weißt du, was da drinsteht? Nur Jans Kilometer. 2019 bis jetzt. Jede Fahrt.
+> 이제 아무것도 안 믿어. 엘케가 운행 일지에 쓰래. 거기 뭐가 있는지 알아? 얀의 킬로미터뿐이야. 2019년부터 지금까지. 모든 운행.
+LEON: Und?
+> 그래서?
+TOBI: Und am letzten Blatt hat er wat hinjeschrieben. Mit Bleistift. «Ick bin noch da. Fahr weiter.» Dit Datum: der Freitag, bevor er jegangen is.
+= Und auf dem letzten Blatt hat er etwas hingeschrieben. Mit Bleistift. «Ich bin noch da. Fahr weiter.» Das Datum: der Freitag, bevor er gegangen ist.
+> 그리고 마지막 장에 뭘 써 놨더라. 연필로. «난 아직 여기 있어. 계속 달려.» 날짜: 걔가 떠나기 전 금요일.
+LEON: … Das heißt, er wusste, dass er geht. Und wollte, dass du es irgendwann findest.
+> … 그 말은, 떠날 걸 알았다는 거네. 그리고 언젠가 네가 찾길 바랐고.
+TOBI: Dit heeßt, er is 'n Idiot. Und ick hau ihn, wenn er wiederkommt.
+= Das heißt, er ist ein Idiot. Und ich haue ihn, wenn er wiederkommt.
+> 그 말은 걔가 바보라는 거야. 그리고 돌아오면 한 대 칠 거야.
+LEON: Aber du glaubst, dass er wiederkommt.
+> 근데 돌아올 거라고 믿는구나.
+TOBI: Halt die Klappe und halt den Drachen.
+= Halt den Mund und halt den Drachen.
+> 입 다물고 연이나 잡아.
+
+# 장면 7 — DIE ERBBAURECHTE
+MIRA: Ich habe es. Am Südrand des Feldes gibt es drei Flächen mit alten Erbbaurechten. Aus den Neunzigern. Niemand hat sie je genutzt, weil man dort nicht bauen durfte.
+> 찾았어요. 펠트 남쪽 가장자리에 오래된 지상권이 있는 부지가 세 곳 있어요. 90년대 거. 지을 수 없었으니 아무도 안 썼죠.
+HELENE: Und wem gehören sie?
+> 누구 거야?
+MIRA: Seit vierzehn Monaten: einer Projektgesellschaft. «Feldrand Entwicklung GmbH». Gesellschafter: eine Holding in Luxemburg. Und ein Treuhänder in Dahlem.
+> 14개월 전부터: 한 프로젝트 회사. «펠트란트 개발 유한회사». 지분 보유자: 룩셈부르크의 지주 회사. 그리고 달렘의 수탁자.
+SWETA: Dahlem. VFH Beteiligungs KG.
+> 달렘. VFH 지분 합자회사.
+MIRA: Dieselbe Adresse. Vollmers Familie. Sie haben die Rechte für fast nichts gekauft. Als niemand bauen durfte. Wenn der Satz durchgeht, sind sie hundertmal so viel wert.
+> 같은 주소예요. 폴머 가족. 아무도 지을 수 없을 때 헐값에 사들였어요. 그 문장이 통과되면 가치가 백 배가 되고요.
+KATRIN: Und Vollmer ist der Landesschatzmeister einer Partei, die gerade den Haushalt verhandelt.
+> 그리고 폴머는 지금 예산을 협상하는 정당의 주 재무 담당이고.
+HELENE: Das ist ein Interessenkonflikt. Ob es eine Straftat ist, wissen wir nicht.
+> 그건 이해 충돌이야. 범죄인지는 몰라.
+SWETA: Und das Stipendium für den Referenten. Kleefeld. Woher wissen wir das?
+> 그리고 그 보좌관 장학금. 클레펠트. 그건 우리가 어떻게 알지?
+MIRA: Wir wissen es nicht. Noch nicht. Aber die Vollmer-Stiftung veröffentlicht ihre Stipendiaten. Stolz. Mit Foto.
+> 아직 몰라요. 아직은. 근데 폴머 재단은 장학생을 공개해요. 자랑스럽게. 사진까지.
+
+# 장면 7-2 — DER ANRUF VON KLEEFELD
+KLEEFELD: Herr Kowalczyk? Ich habe Ihre Nummer von Herrn Kasper. Darf ich Sie etwas fragen? Unter uns?
+> 코발치크 씨? 카스퍼 씨한테 번호 받았어요. 하나 물어봐도 될까요? 우리끼리?
+JAN: Unter uns gibt es bei Thal und Partner nicht. Aber fragen Sie.
+> 탈 & 파트너엔 우리끼리란 게 없어요. 근데 물어보세요.
+KLEEFELD: Eine Abgeordnete hat heute gefragt, ob ich mit Journalisten rede. Von Spreewerk. Rede ich mit Journalisten, wenn ich mit Ihnen rede?
+> 오늘 한 의원이 제가 기자들이랑 얘기하냐고 물었어요. Spreewerk 기자들이랑. 당신이랑 얘기하면 기자랑 얘기하는 건가요?
+JAN: Ich bin kein Journalist mehr. Das stand überall.
+> 전 이제 기자가 아니에요. 어디에나 나왔잖아요.
+KLEEFELD: Ja. Aber Sie haben mich heute angeschaut wie einer. Wie mein Professor, wenn ich etwas abgegeben habe, das nicht von mir war.
+> 네. 근데 오늘 저를 기자처럼 쳐다봤어요. 제가 제 거 아닌 걸 냈을 때 교수님처럼.
+JAN: Und war es von Ihnen? Seite elf?
+> 그럼 당신 거였어요? 11쪽?
+KLEEFELD: … Ich muss auflegen. Vergessen Sie den Anruf.
+> … 끊어야겠어요. 이 전화는 잊어 주세요.
+JAN: Herr Kleefeld. Noch etwas. Wenn Sie je jemandem erzählen wollen, wie es um drei Uhr nachts war — erzählen Sie es nicht mir. Erzählen Sie es einem Anwalt.
+> 클레펠트 씨. 하나만 더. 혹시 새벽 세 시가 어땠는지 누군가한테 말하고 싶어지면 — 저한테 말하지 마세요. 변호사한테 말하세요.
+
+# 장면 8 — SONNTAG, UNTER DER BANK
+DANA: (liest) «Formulierungshilfe Thal und Partner. Seite elf. Wort ‹behutsam› von R. K. Übergabe durch M. K. nachts, auf Wasserzeichenpapier. Fonds: zwei Milliarden auf sechshundert Millionen.»
+> (읽는다) «탈 & 파트너 문안 지원. 11쪽. ‹신중한›이란 단어는 R. K.가. M. K.가 밤에 워터마크 종이로 전달. 기금: 20억에서 6억으로.»
+HELENE: Er hat es aufgeschrieben. Aus dem Gedächtnis.
+> 적어 놨네. 기억으로.
+DANA: Mit Uhrzeit und einer Liste, wer am Tisch saß. Und hier unten: «Ich habe nichts formuliert, was in den Vertrag kam. Meine Sprachregelung liegt im Entwurf. Ungedruckt.»
+> 시간이랑 누가 앉아 있었는지 목록까지. 그리고 여기 아래: «협약에 들어간 문장은 하나도 내가 쓰지 않았다. 내 언론 대응 문구는 초안 상태. 인쇄 안 됨.»
+KATRIN: Gut. Er beteiligt sich nicht. Er schaut zu. Das ist die Grenze.
+> 좋아. 가담하지 않아. 지켜볼 뿐. 그게 경계야.
+HELENE: Und hier? Ganz unten?
+> 그리고 여기? 맨 아래?
+DANA: «Danzig ist am Tisch angekommen. Ihr wisst, was das heißt. Nicht anrufen. Nicht fragen. Frühstückt weiter.»
+> «그단스크가 식탁에 도착했다. 무슨 뜻인지 알 거다. 전화하지 마. 묻지 마. 아침 식사 계속해.»
+HELENE: … Weiterfrühstücken. Mit ihm.
+> … 계속 아침 먹으라고. 그 사람이랑.
+SWETA: Sonst merkt er, dass wir es wissen. Helene, Sie können das.
+> 안 그러면 우리가 아는 걸 눈치채요. 헬레네, 할 수 있어요.
+HELENE: Ich habe dreißig Jahre lang Menschen zugehört, die gelogen haben. Ich habe noch nie mit einem gefrühstückt, den ich liebe.
+> 30년 동안 거짓말하는 사람들 말을 들었어. 사랑하는 사람이랑 아침을 먹으면서 그래 본 적은 없어.
+DANA: Lieben?
+> 사랑이요?
+HELENE: Wie einen Bruder, Dana. Wie einen Bruder.
+> 오빠처럼, 다나. 오빠처럼.
+
+# 장면 9 — BEI ELKE
+ELKE: Leon. Du siehst aus wie eener, der zu viel jelesen hat.
+= Leon. Du siehst aus wie einer, der zu viel gelesen hat.
+> 레온. 너무 많이 읽은 사람 얼굴이네.
+LEON: Koalitionsverträge. Zweihundertvierzig Seiten. Dreimal.
+> 연정 협약이요. 240쪽. 세 번.
+ELKE: Und? Wat steht drin?
+= Und? Was steht drin?
+> 그래서? 뭐라고 쓰여 있어?
+LEON: Dass Tempelhof «behutsam» bebaut wird.
+> 템펠호프를 «신중하게» 개발한대요.
+HORST: Behutsam! Dit hat der Senat '89 och jesacht. Über die Mauer. Die is ooch behutsam jefallen.
+= Behutsam! Das hat der Senat '89 auch gesagt. Über die Mauer. Die ist auch behutsam gefallen.
+> 신중하게! 89년에 시 정부도 그랬지. 장벽 두고. 그것도 신중하게 무너졌지.
+ELKE: Horst, dit war die DDR. Nich der Senat.
+= Horst, das war die DDR. Nicht der Senat.
+> 호르스트, 그건 동독이었어. 시 정부가 아니고.
+HORST: Is doch ejal. Wenn eener «behutsam» sacht, nimm dein Portemonnaie in die Hand.
+= Ist doch egal. Wenn einer «behutsam» sagt, nimm dein Portemonnaie in die Hand.
+> 뭐 어때. 누가 «신중하게»라고 하면 지갑을 손에 쥐어.
+LEON: Das hat Tobi auch gesagt.
+> 토비도 그렇게 말했어요.
+ELKE: Weil dit Berlin is. Hier lernt man dit, bevor man laufen kann.
+= Weil das Berlin ist. Hier lernt man das, bevor man laufen kann.
+> 그게 베를린이니까. 여기선 걷기도 전에 배워.
+
+# 장면 9-2 — DIE KONFRONTATION
+HELENE: Donnerstag wird der Haushalt vorgestellt. Wenn wir am Mittwoch nicht veröffentlichen, ist der Satz Gesetz, bevor jemand ihn liest.
+> 목요일에 예산이 발표돼. 수요일에 보도 안 하면 누가 읽기도 전에 그 문장이 법이 돼.
+KATRIN: Dann brauchen wir die Fragen heute. Mit Frist. Senatskanzlei, Kleefeld, Vollmer, Feldrand Entwicklung GmbH. Und Thal und Partner.
+> 그럼 질문을 오늘 보내야 해. 기한 붙여서. 시 총리실, 클레펠트, 폴머, 펠트란트 개발 유한회사. 그리고 탈 & 파트너.
+SWETA: Thal und Partner. Und wer liest dort die Fragen?
+> 탈 & 파트너. 그럼 거기서 질문은 누가 읽죠?
+HELENE: … Der neue Berater für Krisenkommunikation.
+> … 새 위기 커뮤니케이션 자문역이.
+MIRA: Jan beantwortet unsere Fragen? An uns?
+> 얀이 우리 질문에 답한다고요? 우리한테?
+KATRIN: Das darf er nicht. Er schreibt keinen Satz, der uns dient. Und keinen, der ihnen dient. Wenn er die Antwort schreiben soll, lehnt er ab. Mit einer Begründung, die sie glauben.
+> 그건 안 돼. 우리한테 도움 되는 문장은 하나도 못 써. 저쪽에 도움 되는 문장도. 답변을 쓰라고 하면 거절해. 저쪽이 믿을 이유를 대고.
+SWETA: «Ich will nicht, dass meine alte Redaktion meinen Stil erkennt.»
+> «옛 편집국이 내 문체를 알아보는 건 싫어요.»
+HELENE: Das würde Thal glauben. Weil es eitel klingt. Und Thal glaubt an Eitelkeit.
+> 탈은 그걸 믿을 거야. 허영심처럼 들리니까. 그리고 탈은 허영심을 믿어.
+DANA: Und wie sagt ihr ihm das? Die Bank ist erst nächsten Sonntag.
+> 그걸 그한테 어떻게 전해요? 벤치는 다음 주 일요일인데.
+HELENE: Gar nicht. Er weiß es schon. Er hat es selbst geschrieben. Ganz unten. «Meine Sprachregelung liegt im Entwurf. Ungedruckt.»
+> 안 전해. 이미 알아. 자기가 직접 썼잖아. 맨 아래. «내 언론 대응 문구는 초안 상태. 인쇄 안 됨.»
+MIRA: Frist?
+> 기한은요?
+HELENE: Mittwoch, zwölf Uhr. Und schreibt dazu: «Was wir nicht wissen». Ob es eine Straftat ist. Ob Kleefeld wusste, woher der Absatz kam. Fair bis zum Schluss.
+> 수요일 열두 시. 그리고 덧붙여: «우리가 모르는 것». 범죄인지. 클레펠트가 그 단락이 어디서 왔는지 알았는지. 끝까지 공정하게.
+
+# 엔딩 — DIE ÄNDERUNGSHISTORIE
+MIRA: Helene. Kommt alle her. Die Quelle hat mir die Datei geschickt. Nicht das Foto. Die Datei. Mit Änderungsverfolgung.
+> 헬레네. 다들 와 봐요. 취재원이 파일을 보냈어요. 사진 말고. 파일 자체를. 변경 내용 추적이 켜진.
+HELENE: Und?
+> 그래서?
+MIRA: Jede Änderung hat ein Kürzel. Und eine Uhrzeit. «Zwei Milliarden» gelöscht um drei Uhr zwölf. Kürzel «MK». Kleefeld.
+> 변경마다 이니셜이 있어요. 그리고 시간. «20억» 삭제, 새벽 3시 12분. 이니셜 «MK». 클레펠트.
+SWETA: Das wussten wir.
+> 그건 알았어.
+MIRA: Aber Seite elf. Der Absatz über Tempelhof. Kleefeld hat ihn nicht getippt. Er hat ihn eingefügt. Aus einer anderen Datei. Und die andere Datei hat ihren Autor mitgebracht. In den Metadaten.
+> 근데 11쪽. 템펠호프 단락. 클레펠트가 타이핑한 게 아니에요. 붙여 넣었어요. 다른 파일에서. 그리고 그 다른 파일이 자기 작성자를 데려왔어요. 메타데이터에.
+KATRIN: Wer?
+> 누구?
+MIRA: «CW». Und ein Firmenname. «Wernicke Hollstein Rechtsanwälte».
+> «CW». 그리고 회사 이름. «베르니케 홀슈타인 법률사무소».
+KATRIN: … Dr. Claudia Wernicke. Ich kenne sie. Sie vertritt Thal und Partner. Seit zwanzig Jahren.
+> … 클라우디아 베르니케 박사. 알아. 탈 & 파트너를 대리해. 20년째.
+HELENE: Die Anwältin des Kreises hat einen Satz in den Haushalt der Stadt geschrieben.
+> 서클의 변호사가 시 예산에 문장을 써 넣었네.
+SWETA: Um drei Uhr nachts. Auf Papier mit Bäumen.
+> 새벽 세 시에. 나무 그려진 종이에.
+KATRIN: Dann schicken wir noch eine Frage. An Wernicke Hollstein. «Hat Ihre Kanzlei an der Formulierung des Haushaltsbegleitgesetzes mitgewirkt?»
+> 그럼 질문을 하나 더 보내자. 베르니케 홀슈타인에. «귀 사무소가 예산 부속법 문안 작성에 참여했습니까?»
+MIRA: Sie werden «nein» sagen.
+> «아니오»라고 할 거예요.
+HELENE: Dann drucken wir ihr «Nein». Neben ihre Initialen.
+> 그럼 그 «아니오»를 실어. 그 사람 이니셜 옆에.
