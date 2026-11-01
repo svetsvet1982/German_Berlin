@@ -1,0 +1,356 @@
+@part 2
+@ep 8
+@title Marty ist kein Aktivist
+@sub 마티는 활동가가 아니다 · 6월 둘째 주 목요일 밤, 미행하는 카메라와 울리는 서버 경보
+@info 대사 150턴 · 난이도 B2 · 배경: 2-7화 다음 주 목요일(2027년 6월), 슈판다우의 다리와 거리, 아들러스호프의 Sentinel 본사 앞, Spreewerk 편집국(심야)
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자 (위장: Sabine)
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast DANA | 다나 슈스터 (48) · LKA 국가 보안 경찰 수사관
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@note ※ 미행과 관찰은 공공장소에서만, 그리고 공익이 분명할 때만 신중하게 합니다. 누군가를 범죄로 유도하거나 사생활을 침해해서는 안 됩니다. 사이버 침입(해킹)은 피해자에게 심각한 위협이며, 기자는 취재원 보호를 위해 즉시 대응해야 합니다. 이 화의 사건과 회사는 가상입니다.
+@note ※ 표현 초점: observieren · Observation · beschatten · Werkstor · Einbruchsalarm · Datenleck · Quellenschutz · Zufall gibt es nicht
+@next 2부 9화 — «Der Hack»(해킹) — 편집국 이메일 일부가 유출된다. 취재원 보호가 비상이다. 헬레네가 외부 IT 보안 전문가 파트리크 벤트를 긴급 고용한다.
+
+# 콜드 오픈 — DONNERSTAG, 18 UHR
+TOBI: Leon, kiek ma unauffällig. Der Mann an der mittleren Brücke. Mit der Kappe.
+= Leon, guck mal unauffällig. Der Mann an der mittleren Brücke. Mit der Kappe.
+> 레온, 티 안 나게 봐 봐. 가운데 다리에 있는 남자. 모자 쓴.
+LEON: Ich sehe ihn. Er schaut auf sein Handy. Das machen alle.
+> 보여요. 휴대폰을 보고 있어요. 다들 그러잖아요.
+TOBI: Nee. Der schaut nich uff sein Handy. Der tut nur so. Kiek, er kiekt nach oben. Zur Halterung.
+= Nein. Der schaut nicht auf sein Handy. Der tut nur so. Guck, er schaut nach oben. Zur Halterung.
+> 아니. 저 사람 휴대폰 보는 거 아니야. 그런 척하는 거야. 봐, 위를 봐. 거치대 쪽으로.
+LEON: Zur leeren Kamerahalterung.
+> 빈 카메라 거치대 쪽으로요.
+TOBI: Jenau. Er prüft, ob da 'ne Kamera is. Wie ick vor drei Wochen. Nur andersrum.
+= Genau. Er prüft, ob da eine Kamera ist. Wie ich vor drei Wochen. Nur andersrum.
+> 바로 그거야. 저기 카메라가 있는지 확인하는 거야. 3주 전 나처럼. 단지 반대 목적으로.
+LEON: Soll ich ein Foto machen?
+> 사진 찍을까요?
+TOBI: Ick mach die Fotos. Du telefonierst. Ruf Jan an. Sag: Die Kappe is da. Und guckt die Kamera-Plätze ab.
+= Ich mache die Fotos. Du telefonierst. Ruf Jan an. Sag: Die Kappe ist da. Und guckt die Kamera-Plätze ab.
+> 사진은 내가 찍어. 넌 전화해. 얀한테. 모자 쓴 남자가 왔다고. 그리고 카메라 자리들을 살피고 있다고.
+LEON: Woher weißt du, dass er nicht einfach ein Spaziergänger ist?
+> 그냥 산책하는 사람이 아니라는 걸 어떻게 알아요?
+TOBI: 'n Spaziergänger kiekt ins Wasser. Oder uff Hunde. Der kiekt uff Technik. Immer nur uff Technik.
+= Ein Spaziergänger guckt ins Wasser. Oder auf Hunde. Der guckt auf Technik. Immer nur auf Technik.
+> 산책하는 사람은 물을 봐. 아니면 개를 보든가. 저 사람은 기계만 봐. 계속 기계만.
+LEON: Du beobachtest Menschen genau.
+> 사람을 아주 잘 관찰하네요.
+TOBI: Det is mein Beruf. 'n Fotograf wartet. Und während er wartet, kiekt er. Jahrelang.
+= Das ist mein Beruf. Ein Fotograf wartet. Und während er wartet, guckt er. Jahrelang.
+> 그게 내 일이야. 사진기자는 기다려. 그리고 기다리는 동안 보지. 몇 년씩.
+LEON: Mein Herz klopft. Ist das normal?
+> 심장이 뛰어요. 이거 정상이에요?
+TOBI: Beim ersten Mal is det normal. Atme ruhig. Und tu so, als redest du mit deiner Freundin am Telefon.
+= Beim ersten Mal ist das normal. Atme ruhig. Und tu so, als redest du mit deiner Freundin am Telefon.
+> 처음엔 정상이야. 숨 고르게 쉬어. 그리고 여자친구랑 통화하는 척해.
+LEON: Ich habe keine Freundin.
+> 저 여자친구 없는데요.
+TOBI: Dann tu so, als hättste eene. Det is doch dein Job als Reporter. So tun als ob.
+= Dann tu so, als hättest du eine. Das ist doch dein Job als Reporter. So tun als ob.
+> 그럼 있는 척해. 그게 기자 일이잖아. ~인 척하기.
+
+# 장면 1 — DIE KAPPE
+LEON: Jan? Wir haben jemanden. An der mittleren Brücke. Er prüft die leeren Halterungen.
+> 얀? 누가 왔어요. 가운데 다리에. 빈 거치대들을 확인하고 있어요.
+JAN: Beschreib ihn.
+> 묘사해 봐.
+LEON: Groß. Durchtrainiert. Kappe. Saubere Schuhe. Und… eine Uhr. Eine große Uhr.
+> 키 크고. 탄탄하고. 모자. 깨끗한 신발. 그리고… 시계요. 큰 시계.
+JAN: Eine Taucheruhr?
+> 다이버 시계?
+LEON: Von hier sieht sie so aus. Warum fragst du?
+> 여기서 보면 그렇게 생겼어요. 왜 물어보세요?
+JAN: Weil Nele gesagt hat: Marty trägt eine teure Taucheruhr. Tobi, kannst du die Uhr fotografieren?
+> 넬레가 그랬거든. 마티가 비싼 다이버 시계를 찬다고. 토비, 그 시계 찍을 수 있어?
+TOBI: Mit dem Teleobjektiv. Wenn er den Arm hebt. Warte… Jetzt. Hab ick.
+= Mit dem Teleobjektiv. Wenn er den Arm hebt. Warte… Jetzt. Hab ich.
+> 망원 렌즈로. 팔을 들면. 기다려… 지금. 찍었어.
+MIRA: Jan, ich bin's. Sabine ist online. In der Gruppe ist gerade etwas passiert.
+> 얀, 나야. 자비네 접속 중. 그룹에서 방금 무슨 일이 생겼어.
+JAN: Was?
+> 뭔데?
+MIRA: «Elektriker_Spandau» hat geschrieben: «Bin vor Ort. Alles ruhig. Zu viele Leute heute. Wir verschieben.»
+> «일렉트리커_슈판다우»가 썼어. «현장에 와 있음. 다 조용함. 오늘은 사람이 너무 많음. 연기함.»
+LEON: «Bin vor Ort.» Der Mann mit der Kappe tippt gerade auf sein Handy.
+> «현장에 와 있음.» 모자 쓴 남자가 지금 휴대폰을 치고 있어요.
+TOBI: Und im selben Moment kommt die Nachricht. Det is keen Zufall mehr.
+= Und im selben Moment kommt die Nachricht. Das ist kein Zufall mehr.
+> 그리고 바로 그 순간 메시지가 와. 이건 이제 우연이 아니야.
+JAN: Mira, «zu viele Leute heute». Warum sind heute viele Leute da?
+> 미라, «오늘은 사람이 너무 많음». 왜 오늘 사람이 많은데?
+MIRA: Weil ich Dana einen anonymen Hinweis gegeben habe. Über euch. Und Dana hat… wahrscheinlich etwas getan.
+> 내가 다나한테 익명 제보를 했거든. 너희를 통해서. 그리고 다나가… 아마 뭔가 했겠지.
+JAN: Streifenwagen. Wie beim Volksfest. «Zufällig» in der Nähe.
+> 순찰차. 축제 때처럼. «공교롭게» 근처에.
+TOBI: Die Kappe jeht. Er steigt in 'n Auto. Dunkelgrauer Kombi. Ick hab det Kennzeichen.
+= Die Kappe geht. Er steigt in ein Auto. Dunkelgrauer Kombi. Ich habe das Kennzeichen.
+> 모자가 가네. 차에 타. 짙은 회색 왜건. 번호판 땄어.
+JAN: Folgt ihm nicht mit dem Fahrrad. Das ist zu gefährlich. Notiert die Richtung. Und kommt zurück.
+> 자전거로 쫓지 마. 너무 위험해. 방향만 적어. 그리고 돌아와.
+TOBI: Er fährt Richtung Stadtautobahn. Nach Osten. Richtung… Adlershof.
+= Er fährt Richtung Stadtautobahn. Nach Osten. Richtung… Adlershof.
+> 도시 고속도로 쪽으로 가. 동쪽으로. 방향은… 아들러스호프.
+JAN: Adlershof. Wo Sentinel sitzt.
+> 아들러스호프. 센티넬이 있는 곳.
+LEON: Soll ich das Dana sagen? Den Kombi, das Kennzeichen?
+> 이거 다나한테 말할까요? 왜건, 번호판?
+JAN: Nicht du. Und nicht direkt. Mira hat einen Weg. Anonym. Dana darf nie wissen, dass es von uns kommt.
+> 네가 하지 마. 그리고 직접 하지도 말고. 미라한테 경로가 있어. 익명으로. 다나는 그게 우리한테서 왔다는 걸 절대 알면 안 돼.
+LEON: Warum nicht? Sie hilft uns doch.
+> 왜요? 우릴 돕잖아요.
+JAN: Sie hilft uns, solange wir getrennt bleiben. Wenn wir ein Team werden, verliert sie ihre Unabhängigkeit. Und wir unsere.
+> 우리가 분리돼 있는 한 도와주는 거야. 우리가 한 팀이 되면 그 사람은 독립성을 잃어. 그리고 우리도.
+LEON: Das ist kompliziert.
+> 복잡하네요.
+JAN: Das ist die Regel. Eine Quelle bei der Polizei ist kein Partner. Sie ist eine Quelle. Der Unterschied rettet uns beide.
+> 그게 원칙이야. 경찰 쪽 취재원은 파트너가 아니야. 취재원이지. 그 차이가 우리 둘 다를 지켜 줘.
+
+# 장면 2 — EINE ENTSCHEIDUNG
+HELENE: Niemand folgt einem Auto quer durch Berlin. Das ist kein Film.
+> 아무도 베를린을 가로질러 차를 쫓지 않아요. 이건 영화가 아니에요.
+JAN: Ich weiß. Aber wir wissen die Richtung. Und wir wissen, wo Sentinel ist. Ich fahre hin. Mit dem Auto. Legal, auf der Straße.
+> 알아요. 근데 방향을 알고, 센티넬이 어디 있는지 알아요. 제가 가 볼게요. 차로. 합법적으로, 도로에서.
+HELENE: Allein?
+> 혼자서요?
+JAN: Mit Tobi. Zwei Augen mehr. Wir parken auf der öffentlichen Straße. Wir schauen, ob der graue Kombi auf das Werksgelände fährt. Mehr nicht.
+> 토비랑요. 눈이 두 개 더 있는 거죠. 공공 도로에 주차하고요. 그 회색 왜건이 공장 부지로 들어가는지 봐요. 그 이상은 안 하고요.
+KATRIN: Das ist erlaubt. Ein Werkstor ist öffentlich einsehbar. Aber: Ihr geht nicht aufs Gelände. Kein Zaun, keine Kamera von innen.
+> 그건 허용돼. 공장 정문은 공개적으로 보이는 곳이니까. 근데 부지 안에는 들어가지 마. 울타리도, 내부 카메라도 안 돼.
+JAN: Kein Zaun. Versprochen. Wir sind zwei müde Männer in einem Auto.
+> 울타리 안은 안 가요. 약속해요. 우린 차 안의 지친 남자 둘이에요.
+SWETA: Und Mira? Sabine ist noch online.
+> 그럼 미라는? 자비네가 아직 접속 중이잖아요.
+MIRA: Sabine bleibt wach. «Elektriker_Spandau» ist noch in der Gruppe. Vielleicht schreibt er mehr.
+> 자비네는 깨어 있어요. «일렉트리커_슈판다우»가 아직 그룹에 있어요. 더 쓸지도 몰라요.
+HELENE: Gut. Aber hört mir alle zu. Ab jetzt gilt: höchste Vorsicht. Wenn Sentinel dahintersteckt, sind das keine Amateure.
+> 좋아요. 근데 다들 들어요. 이제부터는 최고 수위 경계예요. 센티넬이 배후라면 아마추어가 아니에요.
+JAN: Herr Wallner war zwanzig Jahre Feldjäger.
+> 발너 씨는 20년 동안 헌병이었어요.
+HELENE: Genau. Also kein Heldentum. Beobachten, dokumentieren, zurückkommen. Leon, du bleibst hier und hilfst Mira.
+> 맞아요. 그러니까 영웅 노릇은 금지. 관찰하고, 기록하고, 돌아오기. 레온, 넌 여기 남아서 미라를 도와요.
+LEON: Ich würde lieber mit.
+> 저도 같이 가고 싶은데요.
+HELENE: Ich weiß. Deshalb bleibst du. Zwei sind genug im Auto. Und ich will dich nicht in Adlershof.
+> 알아요. 그래서 남는 거예요. 차에 둘이면 충분해요. 그리고 난 당신이 아들러스호프에 있는 게 싫어요.
+SWETA: Und ich? Ich kann die Gruppe mit Mira beobachten. Zwei Augenpaare sehen mehr.
+> 그럼 저는요? 미라랑 같이 그룹을 볼 수 있어요. 눈 두 쌍이 더 많이 보니까.
+HELENE: Gut. Sweta und Mira an den Chats. Leon am Telefon mit Tobi. Ich koordiniere.
+> 좋아요. 스베타랑 미라는 채팅. 레온은 토비랑 전화. 난 총괄할게요.
+JAN: Und wenn etwas schiefgeht?
+> 그러다 뭔가 잘못되면요?
+HELENE: Dann rufst du mich an, und wir hören auf. Keine Geschichte ist einen Menschen wert. Das ist unsere erste Regel.
+> 그럼 나한테 전화하고, 우린 멈춰요. 어떤 기사도 사람 한 명만큼 가치 있지 않아요. 그게 우리 첫째 규칙이에요.
+JAN: Deine erste Regel.
+> 당신의 첫째 규칙이죠.
+HELENE: Seit dreißig Jahren. Und sie hat noch nie jemanden enttäuscht.
+> 30년째요. 그리고 한 번도 누굴 실망시킨 적이 없어요.
+
+# 장면 3 — VOR DEM WERKSTOR
+TOBI: Da. Der dunkelgraue Kombi. Selbes Kennzeichen. Er fährt aufs Jelände.
+= Da. Der dunkelgraue Kombi. Selbes Kennzeichen. Er fährt aufs Gelände.
+> 저기. 짙은 회색 왜건. 같은 번호판. 부지로 들어가네.
+JAN: Durch das Werkstor von Sentinel. Um zweiundzwanzig Uhr.
+> 센티넬 공장 정문으로. 밤 열 시에.
+TOBI: Und kiek, wer am Tor steht und ihm die Schranke öffnet.
+= Und guck, wer am Tor steht und ihm die Schranke öffnet.
+> 그리고 봐, 정문에서 차단기를 열어 주는 사람이 누군지.
+JAN: Ein Wachmann im Sentinel-Pulli. Er kennt den Fahrer. Er winkt ihn durch.
+> 센티넬 조끼 입은 경비원. 운전자를 알아. 그냥 통과시켜 주네.
+TOBI: Der Mann mit der Kappe gehört dazu. Zu Sentinel.
+= Der Mann mit der Kappe gehört dazu. Zu Sentinel.
+> 모자 쓴 남자는 한패야. 센티넬의.
+JAN: Warte. Das wissen wir noch nicht sicher. Vielleicht liefert er nur etwas.
+> 기다려. 아직 확실하지 않아. 뭘 배달하는 걸 수도 있어.
+TOBI: Um zweiundzwanzig Uhr? Mit 'nem Privatauto? Und der Wachmann kennt ihn?
+= Um zweiundzwanzig Uhr? Mit einem Privatauto? Und der Wachmann kennt ihn?
+> 밤 열 시에? 자가용으로? 그리고 경비원이 알아?
+JAN: Du hast wahrscheinlich recht. Aber «wahrscheinlich» ist kein Beweis. Mach Fotos. Vom Tor, vom Auto, von der Uhrzeit.
+> 네 말이 맞을 거야. 근데 «아마»는 증거가 아니야. 사진 찍어. 정문, 차, 시간.
+TOBI: Mach ick. Ohne Blitz. Von der öffentlichen Straße. Allet legal.
+= Mache ich. Ohne Blitz. Von der öffentlichen Straße. Alles legal.
+> 찍을게. 플래시 없이. 공공 도로에서. 다 합법으로.
+JAN: Und jetzt fahren wir. Wir haben, was wir brauchen.
+> 이제 가자. 필요한 건 다 얻었어.
+TOBI: Moment. Noch eener kommt. 'n zweites Auto. 'n schwarzer SUV. Teuer.
+= Moment. Noch einer kommt. Ein zweites Auto. Ein schwarzer SUV. Teuer.
+> 잠깐. 또 하나 온다. 두 번째 차. 검은 SUV. 비싼.
+JAN: Kannst du den Fahrer sehen?
+> 운전자 보여?
+TOBI: Nee. Getönte Scheiben. Aber det Kennzeichen. B… warte… Ick hab's.
+= Nein. Getönte Scheiben. Aber das Kennzeichen. B… warte… Ich hab's.
+> 아니. 선팅 유리. 근데 번호판은. B… 기다려… 찍었어.
+JAN: Zwei Autos, nachts, bei Sentinel. Das reicht für heute. Fahr, Tobi.
+> 차 두 대, 밤에, 센티넬에서. 오늘은 그걸로 충분해. 출발해, 토비.
+TOBI: Und der SUV? Den kenn ick doch. So eener stand mal in Grunewald. Uff 'nem Foto von Mira.
+= Und der SUV? Den kenne ich doch. So einer stand mal in Grunewald. Auf einem Foto von Mira.
+> 그 SUV? 본 적 있는데. 그런 차가 그루네발트에 서 있었어. 미라 사진에서.
+TOBI: Jan, ick muss dir wat sagen. Ick hab Angst. Zum ersten Mal bei 'ner Recherche.
+= Jan, ich muss dir was sagen. Ich habe Angst. Zum ersten Mal bei einer Recherche.
+> 얀, 할 말이 있어. 나 무서워. 취재하면서 처음으로.
+JAN: Das ist gut. Angst macht vorsichtig. Wovor genau?
+> 좋은 거야. 두려움은 조심하게 만들어. 정확히 뭐가 무서운데?
+TOBI: In der Gerichtstraße ging et um Omas und Heizungen. Hier jeht et um Strom für 'ne janze Stadt. Und um Leute, die Autos mit jetönten Scheiben fahren.
+= In der Gerichtstraße ging es um Omas und Heizungen. Hier geht es um Strom für eine ganze Stadt. Und um Leute, die Autos mit getönten Scheiben fahren.
+> 게리히트슈트라세에선 할머니랑 난방 얘기였어. 여긴 도시 전체 전기 얘기야. 그리고 선팅한 차 모는 사람들 얘기고.
+JAN: Ich habe auch Angst, Tobi. Seit 2016. Die Frage ist nur, was man mit der Angst macht.
+> 나도 무서워, 토비. 2016년부터. 문제는 그 두려움으로 뭘 하느냐지.
+TOBI: Und wat macht man?
+= Und was macht man?
+> 그래서 뭘 하는데?
+JAN: Man arbeitet langsamer. Man prüft dreimal. Und man lässt niemanden allein. Auch sich selbst nicht.
+> 더 천천히 일해. 세 번 확인하고. 그리고 아무도 혼자 두지 않아. 자기 자신도.
+
+# 장면 4 — DER ALARM
+LEON: Jan! Ruf an! Mira, der Bildschirm! Was ist das?
+> 얀! 전화해 봐요! 미라, 화면이요! 이게 뭐예요?
+MIRA: Ein Einbruchsalarm. Unser Server. Jemand versucht, sich einzuloggen. Immer wieder.
+> 침입 경보예요. 우리 서버. 누가 로그인하려고 해요. 계속해서.
+SWETA: Von wo?
+> 어디서?
+MIRA: Verschiedene Länder. Aber das ist Tarnung. Der eigentliche Angriff ist strukturiert. Professionell. Das ist kein Script-Kiddie.
+> 여러 나라에서요. 근데 그건 위장이에요. 실제 공격은 짜임새가 있어요. 전문적이고요. 애송이가 아니에요.
+LEON: Was sollen wir tun?
+> 어떡해요?
+MIRA: Netzwerk trennen. Sofort. Alle Server offline. Jetzt.
+> 네트워크 끊어. 당장. 서버 전부 오프라인으로. 지금.
+SWETA: Mach ich. Hauptschalter im Technikraum.
+> 내가 할게. 기술실 메인 스위치.
+MIRA: Und niemand verbindet sein Handy mit dem WLAN. Niemand öffnet Mails. Bis wir wissen, was passiert ist.
+> 그리고 아무도 휴대폰을 와이파이에 연결하지 마요. 아무도 메일 열지 말고요. 무슨 일인지 알 때까지.
+JAN: Mira, wir sind unterwegs. Was ist los?
+> 미라, 우리 가는 중이야. 무슨 일이야?
+MIRA: Jemand greift unseren Server an. Genau jetzt. In der Nacht, in der wir Sentinel beobachten.
+> 누가 우리 서버를 공격하고 있어. 바로 지금. 우리가 센티넬을 지켜보는 이 밤에.
+JAN: Zufall?
+> 우연?
+MIRA: Jan. Du hast es mir beigebracht. Zufall gibt es nicht. Nicht zweimal am selben Abend.
+> 얀. 네가 나한테 가르쳐 줬잖아. 우연은 없다고. 같은 저녁에 두 번은.
+JAN: Was haben sie bekommen?
+> 뭘 가져갔어?
+MIRA: Noch nichts, glaube ich. Wir waren schnell. Aber ich bin nicht sicher. Ich muss alles prüfen. Das dauert Tage.
+> 아직 아무것도 없는 것 같아. 우리가 빨랐으니까. 근데 확신은 못 해. 전부 확인해야 해. 며칠 걸려.
+JAN: Die Quellen. Kuhlmann. Nele. Die anonyme Mail. Sind sie geschützt?
+> 취재원들. 쿨만. 넬레. 익명 메일. 그들은 안전해?
+MIRA: Ihre Namen stehen nirgendwo im Klartext. Das war immer die Regel. Verschlüsselt, getrennt, offline. Ich habe mich daran gehalten.
+> 그들 이름은 어디에도 평문으로 없어. 늘 그게 원칙이었으니까. 암호화하고, 분리하고, 오프라인으로. 난 지켰어.
+JAN: Dann haben wir Glück im Unglück.
+> 그럼 불행 중 다행이네.
+MIRA: Glück hat damit nichts zu tun. Nur Disziplin.
+> 다행이랑은 상관없어. 오직 규율이지.
+SWETA: Mira, hat der Angriff aufgehört, seit Sweta den Hauptschalter gezogen hat?
+> 미라, 스베타가 메인 스위치를 내린 뒤로 공격이 멈췄어?
+MIRA: Ja. Keine Verbindung mehr, kein Angriff mehr. Logisch. Aber jetzt sind wir blind. Wir sehen nicht, was sie als Nächstes tun.
+> 응. 연결이 끊기니 공격도 멈췄어. 당연하지. 근데 이제 우린 눈이 멀었어. 그들이 다음에 뭘 하는지 못 봐.
+SWETA: Blind und sicher ist besser als sehend und offen.
+> 눈멀고 안전한 게 보이면서 열려 있는 것보다 나아.
+MIRA: Für heute ja. Ab morgen brauchen wir jemanden, der das Loch findet und schließt.
+> 오늘은 그래. 내일부터는 그 구멍을 찾아서 막을 사람이 필요해.
+LEON: Mira, du zitterst.
+> 미라, 떨고 있어요.
+MIRA: Ja. Nicht vor Angst. Vor Wut. Jemand war in unserem Haus. Digital. Das fühlt sich an wie ein Einbruch.
+> 응. 무서워서가 아니야. 화가 나서. 누가 우리 집에 들어왔어. 디지털로. 도둑맞은 기분이야.
+LEON: Was machen wir jetzt?
+> 이제 뭘 해요?
+MIRA: Wir ändern alle Passwörter. Über andere Geräte. Und wir nehmen an, dass sie alles mitgelesen haben könnten. Bis wir das Gegenteil wissen.
+> 비밀번호를 전부 바꿔. 다른 기기로. 그리고 그들이 전부 읽었을 수도 있다고 가정해. 아니라는 걸 알 때까지.
+SWETA: Das Schlimmste ist nicht, was sie gestohlen haben. Das Schlimmste ist, dass wir es nicht genau wissen.
+> 제일 나쁜 건 그들이 뭘 훔쳤느냐가 아니야. 제일 나쁜 건 우리가 그걸 정확히 모른다는 거지.
+MIRA: Genau. Unsicherheit ist die Waffe. Nicht der Diebstahl.
+> 맞아요. 무기는 불확실성이에요. 절도가 아니라.
+
+# 장면 5 — WER UND WARUM
+HELENE: Fassen wir zusammen. Ein Mann, vermutlich «Marty» alias «Elektriker_Spandau», prüft eine Kabelbrücke. Im selben Moment postet «Elektriker_Spandau» in Miras Gruppe.
+> 정리해 봐요. 한 남자, 아마도 «마티»이자 «일렉트리커_슈판다우»가 케이블 다리를 확인해요. 그 순간 «일렉트리커_슈판다우»가 미라 그룹에 글을 올리고요.
+JAN: Danach fährt er zu Sentinel. Der Wachmann kennt ihn. Und ein zweites Auto kommt. Ein SUV wie in Grunewald.
+> 그다음에 센티넬로 가요. 경비원이 그를 알아요. 그리고 두 번째 차가 와요. 그루네발트에서 본 것 같은 SUV.
+SWETA: Und während das passiert, greift jemand unseren Server an. Professionell.
+> 그리고 그 일이 벌어지는 동안 누군가 우리 서버를 공격해요. 전문적으로.
+HELENE: Was heißt das? Vorsichtig.
+> 그게 무슨 뜻이죠? 조심스럽게.
+JAN: Es heißt: Der angebliche linke Aktivist, der zu Anschlägen auf Strom aufstachelt, hat eine Verbindung zu Sentinel. Einer Firma, die an Stromausfällen verdient.
+> 이런 뜻이에요. 전력 공격을 부추기던 그 소위 좌파 활동가가 센티넬과 연결돼 있다. 정전으로 돈을 버는 회사와.
+KATRIN: «Hat eine Verbindung» ist noch zu stark. Was wir sicher wissen: Der Mann mit der Kappe fuhr durch das Tor von Sentinel. Das ist eine Beobachtung. Mehr nicht.
+> «연결돼 있다»는 아직 너무 세. 우리가 확실히 아는 건, 모자 쓴 남자가 센티넬 정문을 통과했다는 거야. 그건 관찰이야. 그 이상은 아니고.
+JAN: Du hast recht. Wir haben eine Beobachtung und einen Verdacht. Keinen Beweis.
+> 네 말이 맞아. 우리한테는 관찰과 의심이 있지. 증거는 없고.
+SWETA: Das ist der Moment, in dem Journalisten Fehler machen. Wenn der Verdacht so schön passt.
+> 바로 이 순간에 기자들이 실수를 해요. 의심이 이렇게 딱 들어맞을 때.
+HELENE: Genau. Deshalb: kein Wort über Sentinel und Marty. Nicht, bis wir eine echte Verbindung haben. Einen Namen, einen Vertrag, eine Zahlung.
+> 맞아요. 그래서 센티넬과 마티에 대해선 한 마디도 안 써요. 진짜 연결 고리가 생기기 전엔. 이름, 계약, 송금 같은.
+LEON: Aber der Server-Angriff. Darüber können wir doch schreiben?
+> 근데 서버 공격은요. 그건 쓸 수 있잖아요?
+HELENE: Darüber schreiben wir. Aber erst, wenn Mira weiß, was passiert ist. Und ob jemand verraten wurde.
+> 그건 써요. 근데 미라가 무슨 일이 있었는지 알고 나서요. 그리고 누가 노출됐는지도.
+JAN: Und wir brauchen Hilfe. Mira kann nicht allein einen professionellen Angriff untersuchen und gleichzeitig Sabine sein.
+> 그리고 도움이 필요해요. 미라가 혼자 전문적인 공격을 조사하면서 동시에 자비네까지 될 순 없어요.
+HELENE: Ich kenne jemanden. Einen IT-Sicherheitsexperten. Teuer, aber gut. Patrick Wendt.
+> 내가 아는 사람이 있어요. IT 보안 전문가. 비싸지만 실력 있어요. 파트리크 벤트.
+MIRA: Patrick Wendt. Woher kennst du ihn?
+> 파트리크 벤트. 어떻게 알아요?
+HELENE: Er war mir empfohlen worden. Von jemandem aus unserem Stiftungsrat. Vor ein paar Monaten. Für genau so einen Fall.
+> 추천받았어요. 우리 재단 이사회의 누군가한테서요. 몇 달 전에. 딱 이런 경우에 대비해서요.
+
+# 엔딩 — EINE SMS VON DANA
+JAN: Mein Handy. Nicht das WLAN. Mobilfunk. Eine SMS. «D».
+> 내 휴대폰. 와이파이 말고. 데이터망. 문자. «D».
+SWETA: Dana. Was schreibt sie?
+> 다나. 뭐라고 썼어요?
+JAN: «Spandau war heute ruhig. Danke für den Hinweis. Interessant: Das Kennzeichen, nach dem Sie bestimmt gleich fragen, ist auf eine Firma zugelassen.»
+> «슈판다우는 오늘 조용했어요. 제보 고마워요. 흥미로운 건, 당신이 곧 물어볼 그 번호판이 한 회사 명의로 등록돼 있다는 거예요.»
+LEON: Sie weiß, dass wir das Kennzeichen haben?
+> 우리가 번호판 가진 걸 알아요?
+JAN: Sie weiß alles. Das ist das Beunruhigende an ihr. Da ist noch eine Zeile.
+> 그 사람은 다 알아. 그게 그 사람의 불안한 점이지. 한 줄 더 있어.
+MIRA: Lies.
+> 읽어 봐.
+JAN: «Fragen Sie mich nicht, auf welche Firma. Fragen Sie das Handelsregister. Und dann fragen Sie sich, warum ein Aktivist einen Dienstwagen fährt.»
+> «어느 회사인지 나한테 묻지 마세요. 상업 등기에 물어보세요. 그리고 왜 활동가가 회사 차를 모는지 스스로 물어보세요.»
+TOBI: 'n Dienstwagen. Der Aktivist Marty fährt 'n Dienstwagen.
+= Ein Dienstwagen. Der Aktivist Marty fährt einen Dienstwagen.
+> 회사 차. 활동가 마티가 회사 차를 몬다.
+MIRA: Ich prüfe das Kennzeichen. Jetzt. Über Mobilfunk, nicht über den Server.
+> 번호판 확인할게. 지금. 데이터망으로, 서버 말고.
+JAN: Und, Mira? Welche Firma?
+> 그래서, 미라? 어느 회사야?
+MIRA: Einen Moment… Das Auto ist zugelassen auf die «Sentinel Mobile Services GmbH». Die Firma, die im Januar die Generatoren verkauft hat.
+> 잠깐만… 그 차는 «센티넬 모바일 서비스 유한회사» 명의야. 1월에 발전기를 판 그 회사.
+JAN: Dann haben wir es. Der Aktivist Marty fährt ein Auto von Sentinel.
+> 그럼 잡은 거네. 활동가 마티가 센티넬 차를 몰아.
+KATRIN: Nein, Jan. Wir haben nicht «es». Wir haben ein Kennzeichen, zugelassen auf eine Firma. Wer das Auto fährt, wissen wir nicht sicher.
+> 아니, 얀. «잡은» 게 아니야. 우리한텐 회사 명의 번호판이 있어. 누가 그 차를 모는지는 확실히 몰라.
+JAN: Aber Tobi hat gesehen…
+> 근데 토비가 봤잖아…
+KATRIN: Tobi hat einen Mann mit Kappe gesehen, der durch ein Tor fuhr. Und ein Auto, zugelassen auf Sentinel. Das ist viel. Aber es ist kein «Marty arbeitet für Sentinel».
+> 토비는 모자 쓴 남자가 정문을 통과하는 걸 봤어. 그리고 센티넬 명의 차를. 그건 많은 거야. 근데 «마티가 센티넬에서 일한다»는 아니야.
+HELENE: Katrin hat recht. Zwischen dem, was wir glauben, und dem, was wir beweisen können, liegt noch viel Arbeit.
+> 카트린 말이 맞아요. 우리가 믿는 것과 증명할 수 있는 것 사이엔 아직 할 일이 많아요.
+JAN: Dann machen wir diese Arbeit. Schritt für Schritt.
+> 그럼 그 일을 하는 거죠. 한 걸음씩.
+SWETA: Und wir machen sie offline. Bis unser Server wieder sicher ist.
+> 그리고 오프라인으로 해요. 우리 서버가 다시 안전해질 때까지.
+MIRA: Ich rufe morgen früh diesen Patrick Wendt an. Ob ich will oder nicht. Allein schaffe ich das nicht.
+> 내일 아침에 그 파트리크 벤트한테 전화할게요. 내키든 안 내키든. 혼자서는 못 하니까.
+HELENE: Du klingst nicht begeistert.
+> 별로 안 반가운 목소리네요.
+MIRA: Ich mag es nicht, wenn ein Fremder in unsere Systeme schaut. Aber ein Loch, das man nicht sieht, ist gefährlicher als ein Fremder.
+> 낯선 사람이 우리 시스템을 들여다보는 게 싫어요. 근데 안 보이는 구멍이 낯선 사람보다 더 위험하죠.
+TOBI: Und noch wat zu dem SUV. Der schwarze mit den jetönten Scheiben. Der stand nich lang. Zehn Minuten, dann war er wieder weg.
+= Und noch was zu dem SUV. Der schwarze mit den getönten Scheiben. Der stand nicht lang. Zehn Minuten, dann war er wieder weg.
+> 그리고 그 SUV 얘긴데. 선팅한 검은 거. 오래 안 있었어. 10분 있다가 다시 갔어.
+JAN: Zehn Minuten. Jemand, der kurz etwas bespricht. Und wieder verschwindet.
+> 10분. 잠깐 뭔가 얘기하고. 다시 사라지는 사람.
+TOBI: Wie 'n Chef, der mal kurz vorbeikommt. Und nich jesehen werden will.
+= Wie ein Chef, der mal kurz vorbeikommt. Und nicht gesehen werden will.
+> 잠깐 들르는 사장처럼. 들키고 싶지 않은.
+JAN: Woher kennt ihn der Stiftungsrat, Helene?
+> 재단 이사회는 그 사람을 어떻게 알아요, 헬레네?
+HELENE: Das weiß ich nicht genau. Er wurde mir empfohlen. Mit guten Worten. Ich habe nicht weiter gefragt.
+> 정확히는 몰라요. 추천받았어요. 좋은 말과 함께. 더 안 물어봤고요.
+MIRA: Vielleicht sollten wir das tun. Nachfragen. Bei allem, was uns «empfohlen» wird. Gerade jetzt.
+> 어쩌면 그래야 할지도 몰라요. 물어보는 거요. 우리한테 «추천»되는 건 전부. 특히 지금은.
