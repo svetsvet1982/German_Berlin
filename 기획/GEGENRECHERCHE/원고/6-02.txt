@@ -1,0 +1,432 @@
+@part 6
+@ep 2
+@title Kevin
+@sub 케빈 · 새벽 네 시의 커피 두 잔
+@info 대사 150턴 · 난이도 C1− · 배경: 2028년 9월 초, 마르찬 고층 건물 앞 벤치, 노르트링 산업단지, 산드라의 부엌, 형사 변호사 사무실, Spreewerk 편집국
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast KEVIN | 케빈 (19) · 토비의 조카 (베를린 사투리)
+@cast SANDRA | 산드라 (41) · 토비의 누나 (베를린 사투리)
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast OSTERMANN | 랄프 오스터만 (58) · 형사 변호사
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast LEON | 레온 피셔 (24) · 기자
+@note ※ 케빈이 삼촌에게 고백한다. 이미 두 번 '사진 일'을 했다: 산업단지 안 군용 차량 정비 기지의 울타리와 출입문. 무슨 뜻인지 몰랐다고 한다. 토비 가족의 위기, 그리고 기자와 삼촌 사이에서 토비가 지켜야 할 선. 등장 인물·장소 가상, 법 조항은 극 중 단순화.
+@note ※ 표현 초점: das Geständnis · die Ahnungslosigkeit · die Spionage · die Strafbarkeit · der Strafverteidiger · Ick wusst nich, wat det is, Onkel!
+@next 6부 3화 — «Hybride Bedrohung»(하이브리드 위협) — 다나와 헌법수호청 분석관 라이터 박사의 배경 브리핑. 케빈을 어떻게 보호할 것인가.
+
+# 콜드 오픈 — DREI UHR VIERZIG
+KEVIN: Onkel? Wat machst du hier? Um vier Uhr morgens?
+= Onkel? Was machst du hier? Um vier Uhr morgens?
+> 삼촌? 여기서 뭐 해? 새벽 네 시에?
+TOBI: Drei Uhr vierzig. Ick warte. Mit zwee Kaffee. Die sind kalt. Willste trotzdem eenen?
+= Drei Uhr vierzig. Ich warte. Mit zwei Kaffee. Die sind kalt. Willst du trotzdem einen?
+> 3시 40분. 기다리고 있어. 커피 두 잔이랑. 식었어. 그래도 하나 마실래?
+KEVIN: … Gib her.
+> … 줘.
+TOBI: Setz dich. Ick frach nüscht. Ick sitz hier nur.
+= Setz dich. Ich frage nichts. Ich sitze hier nur.
+> 앉아. 아무것도 안 물어. 그냥 여기 앉아 있는 거야.
+KEVIN: Du fragst immer wat.
+= Du fragst immer was.
+> 삼촌은 맨날 뭘 물어.
+TOBI: Heute nich. Heute trink ick kalten Kaffee mit meinem Neffen. Uff der Bank, wo ick dir dit Fahrradfahren beijebracht hab.
+= Heute nicht. Heute trinke ich kalten Kaffee mit meinem Neffen. Auf der Bank, wo ich dir das Fahrradfahren beigebracht habe.
+> 오늘은 아니야. 오늘은 조카랑 식은 커피 마시는 거야. 너한테 자전거 타는 법 가르쳤던 벤치에서.
+KEVIN: Da bin ick hinjefallen. Hier. Am Bordstein. Hab jeblutet wie Sau.
+= Da bin ich hingefallen. Hier. Am Bordstein. Habe geblutet wie Sau.
+> 거기서 넘어졌잖아. 여기. 연석에. 피 엄청 났어.
+TOBI: Und denn biste wieder uffjestiegen. Weil ick jesacht hab: Wer liejen bleibt, fährt nie.
+= Und dann bist du wieder aufgestiegen. Weil ich gesagt habe: Wer liegen bleibt, fährt nie.
+> 그리고 다시 올라탔지. 내가 그랬으니까. 넘어진 채로 있는 놈은 절대 못 탄다.
+KEVIN: … Onkel. Ick hab Scheiße jebaut.
+= … Onkel. Ich habe Scheiße gebaut.
+> … 삼촌. 나 사고 쳤어.
+TOBI: Erzähl. Oder erzähl nich. Beides is in Ordnung.
+= Erzähl. Oder erzähl nicht. Beides ist in Ordnung.
+> 말해. 아니면 말하지 마. 둘 다 괜찮아.
+
+# 장면 1 — DAS GESTÄNDNIS
+KEVIN: Im Juni hat mir eener uff Telegram jeschrieben. Hat jesacht, er sucht Leute für Fotos. Für 'nen Immobilienblog. Gewerbegebäude. Achtzig Euro pro Serie.
+= Im Juni hat mir einer auf Telegram geschrieben. Hat gesagt, er sucht Leute für Fotos. Für einen Immobilienblog. Gewerbegebäude. Achtzig Euro pro Serie.
+> 6월에 누가 텔레그램으로 연락했어. 사진 찍을 사람 찾는대. 부동산 블로그용. 상업용 건물. 시리즈당 80유로.
+TOBI: Und denn?
+= Und dann?
+> 그다음엔?
+KEVIN: Die ersten drei waren Bürohäuser. Langweilig. Fassaden. Hab achtzig jekriegt. In so 'ner Krypto-Wallet. Die musst ick extra installieren.
+= Die ersten drei waren Bürohäuser. Langweilig. Fassaden. Habe achtzig gekriegt. In so einer Krypto-Wallet. Die musste ich extra installieren.
+> 처음 세 번은 사무 건물이었어. 지루했지. 건물 정면. 80 받았어. 무슨 암호화폐 지갑으로. 따로 깔아야 했어.
+TOBI: Und denn?
+= Und dann?
+> 그다음엔?
+KEVIN: Denn kam Nordring. Tor drei. «Fotografier den Zaun. Das Tor. Die Kameras am Tor. Und wenn möglich, was hinter dem Tor parkt.» Zweihundert Euro.
+= Dann kam Nordring. Tor drei. «Fotografier den Zaun. Das Tor. Die Kameras am Tor. Und wenn möglich, was hinter dem Tor parkt.» Zweihundert Euro.
+> 그다음 노르트링이었어. 3번 게이트. «울타리를 찍어. 게이트. 게이트의 카메라들. 그리고 가능하면 게이트 뒤에 뭐가 주차돼 있는지.» 2백 유로.
+TOBI: Und wat parkte hinter dem Tor?
+= Und was parkte hinter dem Tor?
+> 게이트 뒤엔 뭐가 주차돼 있었어?
+KEVIN: Lkws. Grüne. Mit so Planen drüber. Und een Schild am Tor. Irgendwat mit «Instandsetzung». Ick hab nich drüber nachjedacht.
+= Lkws. Grüne. Mit so Planen drüber. Und ein Schild am Tor. Irgendwas mit «Instandsetzung». Ich habe nicht darüber nachgedacht.
+> 트럭. 초록색. 위에 덮개 씌운. 그리고 게이트에 표지판 하나. 뭔가 «정비»라는 말이 있었어. 생각 안 했어.
+TOBI: Grüne Lkws mit Planen. Kevin. Dit sind Militärfahrzeuge.
+= Grüne Lkws mit Planen. Kevin. Das sind Militärfahrzeuge.
+> 덮개 씌운 초록 트럭. 케빈. 그건 군용 차량이야.
+KEVIN: Ick wusst nich, wat det is, Onkel! Ick schwör! Ick dachte, dit sind so Baufirmen. Ick bin doch nich blöd!
+= Ich wusste nicht, was das ist, Onkel! Ich schwöre! Ich dachte, das sind so Baufirmen. Ich bin doch nicht blöd!
+> 그게 뭔지 몰랐어, 삼촌! 맹세해! 건설 회사 같은 건 줄 알았어. 나 바보 아니야!
+TOBI: Du bist nich blöd. Du bist neunzehn. Dit is wat anderet. Und wie oft?
+= Du bist nicht blöd. Du bist neunzehn. Das ist etwas anderes. Und wie oft?
+> 넌 바보 아니야. 열아홉이야. 그건 달라. 그래서 몇 번?
+KEVIN: Zweemal. Eenmal im Juli, tagsüber. Eenmal im August, nachts. Mit Blitz. Nachts hamse dreihundert jezahlt.
+= Zweimal. Einmal im Juli, tagsüber. Einmal im August, nachts. Mit Blitz. Nachts haben sie dreihundert gezahlt.
+> 두 번. 한 번은 7월, 낮에. 한 번은 8월, 밤에. 플래시 터뜨려서. 밤엔 3백 줬어.
+TOBI: Mit Blitz. Nachts. Vor 'nem Militärdepot.
+> 플래시로. 밤에. 군 기지 앞에서.
+KEVIN: Ick hab erst hinterher jemerkt, dass da 'n Wachmann war. Der hat mich anjekiekt. Ick bin wegjerannt.
+= Ich habe erst hinterher gemerkt, dass da ein Wachmann war. Der hat mich angeguckt. Ich bin weggerannt.
+> 나중에야 경비원이 있었다는 걸 알았어. 날 쳐다보더라. 도망쳤어.
+
+# 장면 2 — WAS NUN?
+KEVIN: Komm ick jetzt in'n Knast?
+= Komme ich jetzt in den Knast?
+> 나 이제 감옥 가?
+TOBI: Weeß ick nich. Ick bin keen Anwalt. Aber ick weeß, wer eener is. Und ick weeß, dass du nich alleene bist.
+= Weiß ich nicht. Ich bin kein Anwalt. Aber ich weiß, wer einer ist. Und ich weiß, dass du nicht alleine bist.
+> 몰라. 난 변호사가 아니야. 근데 누가 변호사인지는 알아. 그리고 네가 혼자가 아니라는 건 알아.
+KEVIN: Sachst du's Mama?
+= Sagst du es Mama?
+> 엄마한테 말할 거야?
+TOBI: Nee. Du sachst et ihr. Ick sitz daneben.
+= Nein. Du sagst es ihr. Ich sitze daneben.
+> 아니. 네가 말해. 난 옆에 앉아 있을게.
+KEVIN: Und deine Zeitung? Schreibt ihr über mich?
+= Und deine Zeitung? Schreibt ihr über mich?
+> 그럼 삼촌 신문은? 나에 대해 써?
+TOBI: Nich ohne dich. Dit, wat du mir heute Nacht erzählst, is zwischen Onkel und Neffe. Nich zwischen Fotograf und Quelle.
+= Nicht ohne dich. Das, was du mir heute Nacht erzählst, ist zwischen Onkel und Neffe. Nicht zwischen Fotograf und Quelle.
+> 너 없이는 안 써. 오늘 밤 네가 나한테 한 말은 삼촌과 조카 사이 거야. 사진사와 취재원 사이가 아니라.
+KEVIN: Echt?
+> 진짜?
+TOBI: Echt. Dit hat meine Chefin so festjelecht. Und die is strenger als jeder Richter.
+= Echt. Das hat meine Chefin so festgelegt. Und die ist strenger als jeder Richter.
+> 진짜. 우리 편집장이 그렇게 정했어. 그리고 그 사람은 어떤 판사보다 엄격해.
+KEVIN: Onkel… ick hab Angst. Nich vor'm Knast. Vor denen. Die wissen, wo ick wohne. Ick musste am Anfang 'n Foto vom Ausweis schicken. «Zur Verifizierung.»
+= Onkel… ich habe Angst. Nicht vor dem Knast. Vor denen. Die wissen, wo ich wohne. Ich musste am Anfang ein Foto vom Ausweis schicken. «Zur Verifizierung.»
+> 삼촌… 무서워. 감옥이 아니라. 그놈들이. 내가 어디 사는지 알아. 처음에 신분증 사진을 보내야 했어. «인증용»이라고.
+TOBI: Dein Ausweis. Mit Adresse.
+> 네 신분증. 주소까지.
+KEVIN: Mit Adresse. Elfter Stock. Wo Mama wohnt.
+> 주소까지. 11층. 엄마 사는 데.
+TOBI: Denn trinken wir jetzt den Kaffee aus. Und um acht rufen wir zusammen jemanden an. Nich die Polizei. Erst 'nen Anwalt. Deinen.
+= Dann trinken wir jetzt den Kaffee aus. Und um acht rufen wir zusammen jemanden an. Nicht die Polizei. Erst einen Anwalt. Deinen.
+> 그럼 이제 커피 다 마시자. 그리고 8시에 같이 누구한테 전화하자. 경찰 말고. 먼저 변호사. 네 변호사.
+
+# 장면 2-2 — DER MORGENSPAZIERGANG
+KEVIN: Onkel. Darf ick dich wat fragen?
+= Onkel. Darf ich dich was fragen?
+> 삼촌. 뭐 하나 물어봐도 돼?
+TOBI: Heute darfst du allet.
+= Heute darfst du alles.
+> 오늘은 다 돼.
+KEVIN: Mama sacht, du warst früher ooch so. Dass du Mist jebaut hast. Stimmt dit?
+= Mama sagt, du warst früher auch so. Dass du Mist gebaut hast. Stimmt das?
+> 엄마가 그러는데 삼촌도 예전에 그랬대. 사고 쳤다고. 진짜야?
+TOBI: Stimmt. Autoradios. Mit fuffzehn. Für 'nen Typen, der jesacht hat: «Keene Fragen.»
+= Stimmt. Autoradios. Mit fünfzehn. Für einen Typen, der gesagt hat: «Keine Fragen.»
+> 진짜야. 카 오디오. 열다섯에. «질문 없음»이라던 녀석을 위해.
+KEVIN: Echt jetzt? Du?
+> 진짜? 삼촌이?
+TOBI: Ick. Und weeßte, wat der Unterschied zwischen uns is? Bei mir hat der Typ in der Kneipe jesessen. Ick konnt ihm ins Jesicht kieken. Bei dir sitzt der Typ irjendwo. Du weeßt nich mal, ob et een Typ is.
+= Ich. Und weißt du, was der Unterschied zwischen uns ist? Bei mir hat der Typ in der Kneipe gesessen. Ich konnte ihm ins Gesicht gucken. Bei dir sitzt der Typ irgendwo. Du weißt nicht mal, ob es ein Typ ist.
+> 나. 그리고 우리 둘 차이가 뭔지 알아? 내 땐 그 녀석이 술집에 앉아 있었어. 얼굴을 볼 수 있었지. 네 땐 그 녀석이 어딘가에 앉아 있어. 그게 녀석인지도 몰라.
+KEVIN: Und wie biste da rausjekommen?
+= Und wie bist du da rausgekommen?
+> 그럼 삼촌은 어떻게 빠져나왔어?
+TOBI: Een Polizist hat mich erwischt und nach Hause jefahren. Und Opa hat mir 'ne Kamera jeschenkt. «Klau keene Sachen. Klau Bilder.»
+= Ein Polizist hat mich erwischt und nach Hause gefahren. Und Opa hat mir eine Kamera geschenkt. «Klau keine Sachen. Klau Bilder.»
+> 경찰이 날 잡아서 집에 데려다줬어. 그리고 할아버지가 카메라를 주셨어. «물건 훔치지 마. 사진을 훔쳐.»
+KEVIN: Opa? Der mit dem Schnurrbart uff dem Foto bei Mama?
+> 할아버지? 엄마 집 사진 속 콧수염 난?
+TOBI: Der. Und jetzt hör zu. Du hast ooch Bilder jeklaut. Für die Falschen. Aber du kannst se noch für die Richtigen klauen.
+= Der. Und jetzt hör zu. Du hast auch Bilder geklaut. Für die Falschen. Aber du kannst sie noch für die Richtigen klauen.
+> 그분. 그리고 이제 들어. 너도 사진을 훔쳤어. 잘못된 놈들을 위해. 근데 아직 옳은 사람들을 위해 훔칠 수 있어.
+KEVIN: Wie meinste dit?
+= Wie meinst du das?
+> 그게 무슨 말이야?
+TOBI: Weeß ick selber noch nich jenau. Aber ick hab 'ne alte Kamera übrig. Die von Opa. Die hab ick noch.
+= Weiß ich selber noch nicht genau. Aber ich habe eine alte Kamera übrig. Die von Opa. Die habe ich noch.
+> 나도 아직 정확히 몰라. 근데 남는 옛날 카메라가 하나 있어. 할아버지 거. 아직 갖고 있어.
+
+# 장면 3 — SANDRAS KÜCHE
+SANDRA: Wat is los? Ihr beede seht aus, als hättet ihr die Nacht uff'm Friedhof verbracht.
+= Was ist los? Ihr beide seht aus, als hättet ihr die Nacht auf dem Friedhof verbracht.
+> 무슨 일이야? 둘 다 묘지에서 밤샌 얼굴이네.
+KEVIN: Mama. Setz dich. Bitte.
+> 엄마. 앉아. 부탁이야.
+SANDRA: Wenn ick mich setzen muss, is et schlimm.
+= Wenn ich mich setzen muss, ist es schlimm.
+> 앉아야 하면 나쁜 일이네.
+KEVIN: Die Fotos. Für die Firma. Dit war keene Firma. Ick hab Militärsachen fotografiert. Für Leute uff Telegram. Für Jeld. Ick wusst et nich. Aber jetzt weeß ick et.
+= Die Fotos. Für die Firma. Das war keine Firma. Ich habe Militärsachen fotografiert. Für Leute auf Telegram. Für Geld. Ich wusste es nicht. Aber jetzt weiß ich es.
+> 사진. 회사 거라던 거. 회사 아니었어. 군사 시설을 찍었어. 텔레그램 사람들 위해. 돈 받고. 몰랐어. 근데 이제 알아.
+SANDRA: … Für wen?
+> … 누굴 위해?
+KEVIN: Weeß ick nich. Die schreiben Deutsch wie wir. Aber manchmal komisch. «Werter Freund.» Wer sacht denn so wat?
+= Weiß ich nicht. Die schreiben Deutsch wie wir. Aber manchmal komisch. «Werter Freund.» Wer sagt denn so was?
+> 몰라. 우리처럼 독일어를 써. 근데 가끔 이상하게. «친애하는 벗이여.» 누가 그런 말을 해?
+SANDRA: Und die hundert Euro für den Strom? Für Mama?
+> 그럼 전기세 백 유로는? 엄마한테 준 거?
+KEVIN: Von denen. Ick wollte dir wat jeben. Du hast so viel jeweint wegen der Nachzahlung.
+= Von denen. Ich wollte dir was geben. Du hast so viel geweint wegen der Nachzahlung.
+> 그놈들 거. 엄마한테 뭘 주고 싶었어. 추가 납부 때문에 엄청 울었잖아.
+SANDRA: … Kevin. Mein Junge. Ick hätte lieber im Dunkeln jesessen.
+= … Kevin. Mein Junge. Ich hätte lieber im Dunkeln gesessen.
+> … 케빈. 우리 아들. 차라리 깜깜한 데 앉아 있을걸.
+TOBI: Sandra. Er hat et uns erzählt. Von alleene. Um vier Uhr morjens. Dit zählt.
+= Sandra. Er hat es uns erzählt. Von alleine. Um vier Uhr morgens. Das zählt.
+> 산드라. 쟤가 우리한테 말했어. 스스로. 새벽 네 시에. 그게 중요해.
+SANDRA: Und jetzt? Kommt die Polizei?
+> 그럼 이제? 경찰이 와?
+TOBI: Erst kommt 'n Anwalt. Um acht. Ick hab eenen. Nich von der Zeitung. Eenen für Kevin.
+= Erst kommt ein Anwalt. Um acht. Ich habe einen. Nicht von der Zeitung. Einen für Kevin.
+> 먼저 변호사가 와. 8시에. 아는 사람 있어. 신문사 사람 말고. 케빈을 위한 사람.
+
+# 장면 3-2 — GESCHWISTER
+SANDRA: Tobi. Komm mit uff'n Balkon. Ick brauch 'ne Zigarette. Ick hab vor zehn Jahren uffjehört.
+= Tobi. Komm mit auf den Balkon. Ich brauche eine Zigarette. Ich habe vor zehn Jahren aufgehört.
+> 토비. 발코니로 같이 가. 담배 한 대 필요해. 10년 전에 끊었는데.
+TOBI: Ick hab keene.
+= Ich habe keine.
+> 나 없어.
+SANDRA: Denn stehen wa eben so da. … Weeßte, wat ick jedacht hab, als er dit jesacht hat? Nich «mein Sohn is 'n Spion». Sondern: «Er hat dit für mich jemacht. Für die Stromrechnung.»
+= Dann stehen wir eben so da. … Weißt du, was ich gedacht habe, als er das gesagt hat? Nicht «mein Sohn ist ein Spion». Sondern: «Er hat das für mich gemacht. Für die Stromrechnung.»
+> 그럼 그냥 이렇게 서 있자. … 걔가 그 말 할 때 내가 무슨 생각 했는지 알아? «내 아들이 간첩이다»가 아니라. «나 때문에 했구나. 전기세 때문에.»
+TOBI: Sandra, dit is nich deine Schuld.
+= Sandra, das ist nicht deine Schuld.
+> 산드라, 그거 네 잘못 아니야.
+SANDRA: Ick hab vor ihm jeweint. Wegen der Nachzahlung. Vierhundertachtzig Euro. Ick hab am Küchentisch jesessen und jeheult. Und er hat dit jesehen.
+= Ich habe vor ihm geweint. Wegen der Nachzahlung. Vierhundertachtzig Euro. Ich habe am Küchentisch gesessen und geheult. Und er hat das gesehen.
+> 걔 앞에서 울었어. 추가 납부 때문에. 480유로. 부엌 탁자에 앉아서 엉엉 울었어. 그리고 걔가 그걸 봤어.
+TOBI: Und hat sich jesacht: Ick muss wat tun.
+= Und hat sich gesagt: Ich muss was tun.
+> 그리고 생각했겠지. 내가 뭘 해야겠다.
+SANDRA: Und die Einzigen, die ihm wat anjeboten ham, waren die da. Uff'm Handy. Keen Amt. Keen Ausbildungsbetrieb. Keen Vater. Nur die.
+= Und die Einzigen, die ihm was angeboten haben, waren die da. Auf dem Handy. Kein Amt. Kein Ausbildungsbetrieb. Kein Vater. Nur die.
+> 그리고 걔한테 뭘 제안한 유일한 게 저놈들이었어. 폰 속. 관청도 아니고. 직업훈련 업체도 아니고. 아빠도 아니고. 저놈들뿐.
+TOBI: Und ick ooch nich. Ick war in Wedding. Mit meinen Geschichten. Und hab vergessen, dass elf Stockwerke über dem Spielplatz meine eijene Geschichte wohnt.
+= Und ich auch nicht. Ich war in Wedding. Mit meinen Geschichten. Und habe vergessen, dass elf Stockwerke über dem Spielplatz meine eigene Geschichte wohnt.
+> 그리고 나도 아니었지. 베딩에 있었어. 내 기사들이랑. 놀이터 위 11층에 내 이야기가 산다는 걸 잊고.
+SANDRA: Denn erinner dich jetzt. Und lass ihn nich alleene. Ick schaff dit nich alleene.
+= Dann erinnere dich jetzt. Und lass ihn nicht alleine. Ich schaffe das nicht alleine.
+> 그럼 이제 기억해. 그리고 걔 혼자 두지 마. 나 혼자선 못 해.
+TOBI: Du bist nich alleene. Dit war'n wa nie. Ooch nich, als Papa jestorben is.
+= Du bist nicht alleine. Das waren wir nie. Auch nicht, als Papa gestorben ist.
+> 넌 혼자가 아니야. 우린 한 번도 그런 적 없어. 아빠 돌아가셨을 때도.
+
+# 장면 4 — DER STRAFVERTEIDIGER
+OSTERMANN: Kevin, ich bin Ralf Ostermann. Strafverteidiger. Seit dreißig Jahren. Ich vertrete Sie, nicht Ihren Onkel, nicht Ihre Mutter, nicht irgendeine Zeitung. Alles, was Sie mir sagen, bleibt bei mir.
+> 케빈, 랄프 오스터만이에요. 형사 변호사. 30년째. 난 당신을 대리해요. 삼촌도, 어머니도, 어떤 신문사도 아니라. 나한테 하는 말은 전부 나한테만 남아요.
+KEVIN: Auch vor Onkel Tobi?
+> 토비 삼촌한테도요?
+OSTERMANN: Auch vor Onkel Tobi. Deshalb bitte ich Sie beide jetzt kurz rauszugehen.
+> 토비 삼촌한테도요. 그래서 두 분은 잠깐 나가 주시길 부탁드려요.
+TOBI: Klar. Kevin, wir sind vor der Tür.
+> 그럼요. 케빈, 문 앞에 있을게.
+OSTERMANN: So. Kevin. Was Sie getan haben, kann unter Umständen als Agententätigkeit zu Sabotagezwecken gewertet werden. Oder als geheimdienstliche Agententätigkeit. Beides sind ernste Vorwürfe.
+> 자. 케빈. 당신이 한 일은 경우에 따라 사보타주 목적의 요원 활동으로 평가될 수 있어요. 아니면 정보기관 요원 활동으로. 둘 다 무거운 혐의예요.
+KEVIN: Ick wusste nich, für wen.
+= Ich wusste nicht, für wen.
+> 누굴 위한 건지 몰랐어요.
+OSTERMANN: Das ist wichtig. Und das müssen wir zeigen. Aber ein Gericht fragt auch: Hätten Sie es wissen können? Ein Neunzehnjähriger, der nachts mit Blitz Militärfahrzeuge fotografiert — hätte der Fragen stellen müssen?
+> 그게 중요해요. 그리고 그걸 보여 줘야 해요. 근데 법원은 이것도 물어요. 알 수 있었나? 밤에 플래시로 군용 차량을 찍는 열아홉 살 — 질문을 했어야 하지 않나?
+KEVIN: «Keene Fragen.» Dit stand ja da. Dit war ja der Witz.
+= «Keine Fragen.» Das stand ja da. Das war ja der Witz.
+> «질문 없음.» 그렇게 써 있었잖아요. 그게 핵심이었어요.
+OSTERMANN: Genau. Und das ist der Trick. Sie verkaufen Ihnen die Ahnungslosigkeit als Teil des Jobs. Damit Sie hinterher sagen: Ich wusste es nicht. Und damit es trotzdem nicht reicht.
+> 바로 그거예요. 그게 수법이에요. 무지를 일의 일부로 팔아요. 나중에 '몰랐다'고 말하게 하려고. 그리고 그래도 그걸로는 충분하지 않게.
+KEVIN: Wat kann ick tun?
+= Was kann ich tun?
+> 내가 뭘 할 수 있어요?
+OSTERMANN: Sie können der Erste sein, der freiwillig zu den Behörden geht. Bevor die Behörden zu Ihnen kommen. Mit allem: den Chats, der Wallet, den Fotos. Das ist der wichtigste Unterschied zwischen einem Täter und einem Zeugen, der Fehler gemacht hat.
+> 당국이 당신한테 오기 전에 스스로 당국에 가는 첫 사람이 될 수 있어요. 전부 들고: 대화, 지갑, 사진. 그게 가해자와 실수한 증인 사이의 가장 중요한 차이예요.
+KEVIN: Und wenn die mich denn als Verräter sehen? Die da uff Telegram?
+= Und wenn die mich dann als Verräter sehen? Die da auf Telegram?
+> 그럼 그놈들이 날 배신자로 보면요? 텔레그램 저쪽 놈들이?
+OSTERMANN: Dann sind Sie ein Verräter an Leuten, die Sie für zweihundert Euro benutzt haben. Damit kann man leben. Besser als mit dem anderen.
+> 그럼 당신은 2백 유로에 당신을 이용한 자들한테 배신자가 되는 거죠. 그건 안고 살 수 있어요. 다른 것보단 나아요.
+
+# 장면 4-2 — VOR DER TÜR
+OSTERMANN: Herr Rehberg, ein Wort. Ohne Kevin.
+> 레베르크 씨, 한마디만. 케빈 없이.
+TOBI: Wat is?
+= Was ist?
+> 뭔데요?
+OSTERMANN: Ich weiß, wofür Sie arbeiten. Spreewerk. Ich habe Ihre Artikel gelesen. Gute Arbeit. Aber ich bitte Sie: Nichts über Kevin, solange das Verfahren nicht klar ist. Kein Wort.
+> 어디서 일하시는지 알아요. Spreewerk. 기사 읽었어요. 좋은 작업이더군요. 근데 부탁해요. 절차가 분명해질 때까지 케빈에 대해선 아무것도. 한 마디도.
+TOBI: Dit hat meine Chefin schon festjelecht. Bevor Sie fragen konnten.
+= Das hat meine Chefin schon festgelegt. Bevor Sie fragen konnten.
+> 그건 우리 편집장이 이미 정했어요. 물으시기도 전에.
+OSTERMANN: Gut. Dann eine zweite Sache. Es gibt eine Regelung im Strafrecht für Menschen, die Aufklärung leisten. Die sogenannte Kronzeugenregelung. Wer hilft, größere Taten aufzuklären, kann mit einer milderen Strafe rechnen. Manchmal mit gar keiner.
+> 좋아요. 그럼 두 번째. 형법엔 규명에 기여하는 사람을 위한 규정이 있어요. 이른바 주요 증인 규정. 더 큰 범행을 규명하는 데 도우면 더 가벼운 형을 기대할 수 있어요. 가끔은 아예 없을 수도 있고.
+TOBI: Und dit heißt für Kevin?
+= Und das heißt für Kevin?
+> 그게 케빈한텐 무슨 뜻이에요?
+OSTERMANN: Dass seine Chats wichtiger sind als seine Fotos. Die Fotos sind das, was er getan hat. Die Chats sind das, was andere getan haben. Und wenn er die Chats freiwillig gibt, bevor man ihn findet, zeigt er, auf welcher Seite er stehen will.
+> 그의 사진보다 그의 대화가 더 중요하다는 거죠. 사진은 그가 한 일이에요. 대화는 다른 사람들이 한 일이고. 그리고 누가 그를 찾기 전에 스스로 대화를 넘기면, 어느 편에 서고 싶은지 보여 주는 거예요.
+TOBI: Und die Jefahr? Die wissen, wo er wohnt.
+= Und die Gefahr? Die wissen, wo er wohnt.
+> 그럼 위험은요? 그놈들이 그 애 사는 데를 알아요.
+OSTERMANN: Das muss die Polizei beantworten. Nicht ich. Aber ich sage Ihnen meine Erfahrung: Die Leute hinter solchen Kanälen kommen selten selbst. Sie schicken den Nächsten. Und der Nächste ist ein anderer Kevin, der fünfhundert Euro braucht.
+> 그건 경찰이 답해야 해요. 내가 아니라. 근데 내 경험을 말씀드리죠. 그런 채널 뒤의 사람들은 직접 오는 일이 드물어요. 다음 사람을 보내요. 그리고 다음 사람은 5백 유로가 필요한 또 다른 케빈이고요.
+TOBI: Een anderer Kevin. Dit is dit Schlimmste, wat Se mir sajen konnten.
+= Ein anderer Kevin. Das ist das Schlimmste, was Sie mir sagen konnten.
+> 또 다른 케빈. 저한테 하실 수 있는 말 중 최악이네요.
+OSTERMANN: Ich weiß. Deshalb habe ich es gesagt.
+> 알아요. 그래서 말씀드린 거예요.
+
+# 장면 5 — DIE REDAKTION
+TOBI: Ick muss euch wat sajen. Und ick darf euch nich allet sajen.
+= Ich muss euch was sagen. Und ich darf euch nicht alles sagen.
+> 너희한테 할 말이 있어. 근데 다 말하면 안 돼.
+HELENE: Dann sag nur, was du darfst.
+> 그럼 해도 되는 것만 말해.
+TOBI: Kevin hat 'nen Anwalt. Ostermann. Und Kevin überlecht, freiwillig zur Polizei zu jehen. Dit is allet. Den Rest weeß nur der Anwalt.
+= Kevin hat einen Anwalt. Ostermann. Und Kevin überlegt, freiwillig zur Polizei zu gehen. Das ist alles. Den Rest weiß nur der Anwalt.
+> 케빈한테 변호사가 생겼어. 오스터만. 그리고 케빈이 자진해서 경찰에 갈지 생각 중이야. 그게 다야. 나머진 변호사만 알아.
+JAN: Das ist genug. Und Tobi — du hast es richtig gemacht. Zuerst Onkel. Dann Anwalt. Dann die Zeitung. Und bei der Zeitung nur das, was er erlaubt.
+> 그거면 충분해. 그리고 토비 — 제대로 했어. 먼저 삼촌. 그다음 변호사. 그다음 신문. 그리고 신문엔 그 애가 허락한 것만.
+TOBI: Und wenn ick ehrlich bin: Ick hab heute Nacht nich eenmal an die Geschichte jedacht. Nur an Kevin.
+= Und wenn ich ehrlich bin: Ich habe heute Nacht nicht einmal an die Geschichte gedacht. Nur an Kevin.
+> 그리고 솔직히 말하면: 오늘 밤 기사 생각은 한 번도 안 했어. 케빈만 생각했어.
+HELENE: Das ist das Beste, was ein Journalist über sich sagen kann. Dass er manchmal vergisst, Journalist zu sein.
+> 그게 기자가 자기에 대해 할 수 있는 최고의 말이야. 가끔 기자라는 걸 잊는다는 거.
+SWETA: Darf ich etwas über den Kanal sagen? Nicht über Kevin. Über das Muster.
+> 채널에 대해 한마디 해도 될까요? 케빈 말고. 패턴에 대해.
+HELENE: Bitte.
+> 해.
+SWETA: Erst Bürohäuser. Harmlos. Dann ein Tor. Dann ein Tor bei Nacht. Das sind die Stufen. Und das Ausweisfoto am Anfang ist der wichtigste Teil. Nicht für die Bezahlung. Als Pfand. Wer seinen Ausweis geschickt hat, kann nicht mehr einfach aussteigen.
+> 먼저 사무 건물. 무해하죠. 그다음 게이트. 그다음 밤의 게이트. 그게 계단이에요. 그리고 처음의 신분증 사진이 제일 중요한 부분이에요. 보수 때문이 아니라. 담보로. 신분증을 보낸 사람은 더는 쉽게 못 빠져나가요.
+MIRA: Und die Wallet? Hat Kevin dir die Adresse gegeben, Tobi?
+> 그리고 지갑은요? 케빈이 토비한테 주소를 줬어요?
+TOBI: Nee. Und ick frach ooch nich. Wenn Ostermann et der Polizei jibt, denn kriegt Dana et. Und wenn Dana et uns jeben will, denn will se. Ick bin nich der Weg.
+= Nein. Und ich frage auch nicht. Wenn Ostermann es der Polizei gibt, dann kriegt Dana es. Und wenn Dana es uns geben will, dann will sie. Ich bin nicht der Weg.
+> 아니. 그리고 묻지도 않아. 오스터만이 경찰한테 주면 다나가 받겠지. 그리고 다나가 우리한테 주고 싶으면 주겠지. 난 통로가 아니야.
+
+# 장면 5-2 — URTEILE
+LEON: Ich habe Gerichtsentscheidungen gesucht. Öffentlich zugänglich. Fälle wie Kevins. Junge Menschen, über Messenger angeworben.
+> 판결을 찾아봤어요. 공개된 것들. 케빈 같은 사례. 메신저로 포섭된 젊은이들.
+HELENE: Und?
+> 그래서?
+LEON: Die Bandbreite ist riesig. Ein Achtzehnjähriger, der Fotos von Kasernen gemacht hat: Jugendstrafe auf Bewährung, weil er sich selbst gestellt hat. Ein Zwanzigjähriger, der einen Brandsatz an ein Fahrzeug gelegt hat: mehrere Jahre Haft.
+> 범위가 엄청나요. 병영 사진을 찍은 열여덟 살: 자수했다고 집행유예 소년형. 차량에 발화 장치를 놓은 스무 살: 몇 년 징역.
+MIRA: Der Unterschied ist nicht das Alter. Der Unterschied ist die Stufe. Und ob man von selbst kommt.
+> 차이는 나이가 아니에요. 차이는 계단 칸이에요. 그리고 스스로 왔느냐.
+LEON: Und in fast jedem Urteil steht ein Satz wie dieser: «Der Angeklagte handelte aus finanzieller Not und ohne Kenntnis des Auftraggebers. Dies entlastet ihn jedoch nicht vollständig.»
+> 그리고 거의 모든 판결에 이런 문장이 있어요. «피고인은 경제적 곤궁에서 지시자를 모른 채 행동했다. 그러나 이것이 그를 완전히 면책하지는 않는다.»
+JAN: Nicht vollständig. Das ist der Raum, in dem Kevin jetzt steht.
+> 완전히는 아니다. 그게 지금 케빈이 서 있는 공간이야.
+SWETA: Und der Auftraggeber? Steht der in irgendeinem Urteil?
+> 그럼 지시자는요? 어느 판결에라도 나와요?
+LEON: In keinem. In jedem Urteil steht «ein unbekannter Auftraggeber». Kein Name. Kein Land. Manchmal ein Satz der Bundesanwaltschaft: «Es bestehen Anhaltspunkte für eine staatliche Steuerung.» Mehr nicht.
+> 아무 데도요. 모든 판결에 «성명 불상의 지시자». 이름 없음. 나라 없음. 가끔 연방검찰의 문장 하나. «국가적 조종의 단서가 있다.» 그 이상은 없어요.
+HELENE: Dann ist das unsere Frage für diesen Teil. Nicht: Wer ist Kevin? Sondern: Wer ist «ein unbekannter Auftraggeber»?
+> 그럼 그게 이번 부의 우리 질문이야. 케빈이 누구냐가 아니라. «성명 불상의 지시자»가 누구냐.
+
+# 장면 6 — NORDRING, TOR DREI
+TOBI: Ick bin hier. Uff der anderen Straßenseite. Öffentlicher Raum. Ick fotografier nüscht, wat hinter dem Zaun is. Nur dit Schild. Dit is öffentlich.
+= Ich bin hier. Auf der anderen Straßenseite. Öffentlicher Raum. Ich fotografiere nichts, was hinter dem Zaun ist. Nur das Schild. Das ist öffentlich.
+> 여기 왔어. 길 건너편. 공공장소. 울타리 뒤에 있는 건 아무것도 안 찍어. 표지판만. 그건 공개된 거니까.
+JAN: Was steht drauf?
+> 뭐라고 써 있어?
+TOBI: «Heeresinstandsetzungslogistik. Betriebsstätte Nordring.» Darunter een Logo. Een Firmenname. Een Dienstleister, der für die Bundeswehr Fahrzeuge repariert.
+> «육군 정비 물류. 노르트링 사업장.» 그 아래 로고 하나. 회사명. 연방군 차량을 수리하는 업체.
+JAN: Ein ziviler Dienstleister. Im Auftrag des Militärs.
+> 민간 업체. 군의 위탁을 받은.
+TOBI: Und weeßte, wat am Tor hängt? 'N Zettel. Laminiert. «Fotografieren verboten. Militärischer Sicherheitsbereich.»
+= Und weißt du, was am Tor hängt? Ein Zettel. Laminiert. «Fotografieren verboten. Militärischer Sicherheitsbereich.»
+> 그리고 게이트에 뭐가 걸려 있는지 알아? 쪽지. 코팅된. «촬영 금지. 군사 보안 구역.»
+JAN: Den hat Kevin nicht gesehen?
+> 케빈은 그걸 못 봤대?
+TOBI: Nachts mit Blitz siehste dit Schild. Dit is der Punkt. Er hat et jesehen. Und hat trotzdem abjedrückt. Weil «keene Fragen».
+= Nachts mit Blitz siehst du das Schild. Das ist der Punkt. Er hat es gesehen. Und hat trotzdem abgedrückt. Weil «keine Fragen».
+> 밤에 플래시 터뜨리면 표지판이 보여. 그게 핵심이야. 봤어. 그리고 그래도 셔터를 눌렀어. «질문 없음»이니까.
+JAN: Tobi, das darfst du ihm nicht vorwerfen. Nicht heute.
+> 토비, 그걸로 그 애를 탓하면 안 돼. 오늘은.
+TOBI: Ick werf ihm nüscht vor. Ick werf mir wat vor. Dass ick nich da war, als er dit erste Mal «keene Fragen» jelesen hat.
+= Ich werfe ihm nichts vor. Ich werfe mir etwas vor. Dass ich nicht da war, als er das erste Mal «keine Fragen» gelesen hat.
+> 그 애 탓 안 해. 내 탓 하는 거야. 그 애가 처음 «질문 없음»을 읽었을 때 내가 곁에 없었던 걸.
+
+# 엔딩 — EINE NEUE NACHRICHT
+KEVIN: Onkel. Onkel! Kiek. Ick hab dit Handy nich mehr anjefasst, wie der Anwalt jesacht hat. Aber et hat jeleuchtet.
+= Onkel. Onkel! Guck. Ich habe das Handy nicht mehr angefasst, wie der Anwalt gesagt hat. Aber es hat geleuchtet.
+> 삼촌. 삼촌! 봐. 변호사가 말한 대로 폰 안 만졌어. 근데 불이 들어왔어.
+TOBI: Nich anfassen. Ick les nur, wat uff'm Sperrbildschirm steht.
+= Nicht anfassen. Ich lese nur, was auf dem Sperrbildschirm steht.
+> 만지지 마. 잠금 화면에 뜬 것만 읽을게.
+KEVIN: Wat steht da?
+> 뭐라고 써 있어?
+TOBI: «Werter Freund. Sie haben gute Arbeit geleistet. Ein neuer Auftrag. Diesmal fünfzehnhundert Euro.»
+> «친애하는 벗이여. 훌륭히 일하셨습니다. 새 과제. 이번엔 1,500유로.»
+KEVIN: Fünfzehnhundert…
+> 1,500…
+TOBI: Und darunter. Eene zweete Nachricht. Eene Zeile.
+> 그리고 그 아래. 두 번째 메시지. 한 줄.
+KEVIN: Wat?
+> 뭐?
+TOBI: «Sie brauchen dafür nur einen Kanister Benzin.»
+> «필요한 건 휘발유 한 통뿐입니다.»
+SANDRA: Oh Jott. Oh Jott, Tobi.
+= Oh Gott. Oh Gott, Tobi.
+> 세상에. 세상에, 토비.
+KEVIN: Onkel, ick mach dit nich. Ick schwör. Ick mach dit nich!
+= Onkel, ich mache das nicht. Ich schwöre. Ich mache das nicht!
+> 삼촌, 나 그거 안 해. 맹세해. 안 해!
+TOBI: Weeß ick, Kevin. Weeß ick. Aber jetzt rufen wa Ostermann an. Und denn Dana. Heute noch.
+= Weiß ich, Kevin. Weiß ich. Aber jetzt rufen wir Ostermann an. Und dann Dana. Heute noch.
+> 알아, 케빈. 알아. 근데 이제 오스터만한테 전화하자. 그다음 다나. 오늘 안에.
+
+# 에필로그 — DANA
+DANA: Rehberg. Ostermann hat mich angerufen. Ich bin in zwanzig Minuten da. Und Kevin — fass das Handy nicht an. Nicht antworten. Nicht löschen.
+> 레베르크. 오스터만이 전화했어. 20분 뒤에 갈게. 그리고 케빈 — 폰 만지지 마. 답장도 하지 말고. 지우지도 말고.
+KEVIN: Und wenn die merken, dass ick nich antworte?
+= Und wenn die merken, dass ich nicht antworte?
+> 내가 답 안 하는 걸 그놈들이 알아채면요?
+DANA: Dann denken sie, du überlegst. Das ist normal bei fünfzehnhundert Euro. Jeder überlegt bei fünfzehnhundert Euro.
+> 그럼 고민 중이라고 생각하겠지. 1,500유로면 정상이야. 1,500유로면 누구나 고민하지.
+TOBI: Dana. Wat passiert mit ihm?
+= Dana. Was passiert mit ihm?
+> 다나. 쟤 어떻게 돼?
+DANA: Heute? Er macht eine Aussage. Mit seinem Anwalt. Und dann reden wir darüber, wie wir ihn und seine Mutter schützen. Und darüber, wer an seiner Stelle antwortet.
+> 오늘? 진술해. 변호사랑. 그다음 쟤랑 엄마를 어떻게 지킬지 얘기하자. 그리고 쟤 대신 누가 답할지도.
+TOBI: An seiner Stelle?
+> 쟤 대신?
+DANA: Das erkläre ich dir nicht am Telefon. Morgen. Mit jemandem vom Verfassungsschutz. Bring Kowalczyk mit.
+> 그건 전화로 설명 안 해. 내일. 헌법수호청 사람이랑 같이. 코발치크 데려와.
+SANDRA: Tobi. Wer is Kowalczyk?
+> 토비. 코발치크가 누구야?
+TOBI: Mein Chef. Der schief sitzt. Und der jetzt jerade 'ne sehr dumme Idee kriegt. Ick seh dit schon kommen.
+= Mein Chef. Der schief sitzt. Und der jetzt gerade eine sehr dumme Idee kriegt. Ich sehe das schon kommen.
+> 우리 팀장. 비스듬히 앉는 사람. 그리고 지금 아주 멍청한 생각을 하고 있을 사람. 벌써 보여.
+JAN: Tobi? Dana hat mich angerufen. Morgen, zehn Uhr. Mit jemandem vom Verfassungsschutz.
+> 토비? 다나가 전화했어. 내일 10시. 헌법수호청 사람이랑.
+TOBI: Ick weeß. Und Jan — wat immer du denkst: denk et nich.
+= Ich weiß. Und Jan — was immer du denkst: denk es nicht.
+> 알아. 그리고 얀 — 무슨 생각을 하든: 하지 마.
+JAN: Ich denke gar nichts.
+> 아무 생각도 안 해.
+TOBI: Du denkst. Ick hör dit durch's Telefon.
+= Du denkst. Ich höre das durchs Telefon.
+> 하고 있어. 전화로 들려.
+JAN: Morgen, Tobi. Bring Kaffee mit. Warmen diesmal.
+> 내일 봐, 토비. 커피 가져와. 이번엔 따뜻한 걸로.
+TOBI: Und Kevin bleibt heute Nacht bei mir. In Wedding. Uff'm Sofa.
+= Und Kevin bleibt heute Nacht bei mir. In Wedding. Auf dem Sofa.
+> 그리고 케빈은 오늘 밤 우리 집에 있어. 베딩에. 소파에서.
+JAN: Gut. Und Sandra?
+> 좋아. 그리고 산드라는?
+TOBI: Kommt mit. Elke hat oben noch 'n Zimmer. Neben Ioana.
+= Kommt mit. Elke hat oben noch ein Zimmer. Neben Ioana.
+> 같이 와. 엘케네 위층에 방이 하나 더 있어. 이오아나 옆에.
