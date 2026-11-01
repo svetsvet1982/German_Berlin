@@ -1,0 +1,331 @@
+@part 4
+@ep 12
+@title Patrick Wendt
+@sub 파트리크 벤트 · 색출, 그리고 "난 작은 고기예요"
+@info 대사 150턴 · 난이도 B2 · 배경: 2028년 봄, 수색 당일 아침, Spreewerk 편집국
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast PATRICK | 파트리크 벤트 (34) · IT·보안 담당, HH의 내부자
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast BEAMTIN | 크나우어 검사보 (44) · 수사 지휘 검사
+@note ※ 색출 편. 수색과 대면. 파트리크는 돈과 '구원자 환상'으로 움직인 도구였고, 색출되자 '난 작은 고기, 당신들 재단에도 친구가 있다'며 7부(그루네발트)를 복선으로 연다. 기자는 그를 괴물로도 면죄도 하지 않고 있는 그대로 그린다. 등장 인물 가상.
+@note ※ 표현 초점: die Einschleusung · der Datendiebstahl · das Geständnis · die Strafanzeige · der Auftraggeber · ich bin nur ein kleiner Fisch
+@next 4부 13화 «Sweta ist aufgeflogen» — 파트리크 체포 소식에 HH가 내부 조사를 시작하고, 스베타가 노출되어 러시아어권 계정들이 그녀와 가족을 협박한다.
+
+# 콜드 오픈 — SECHS UHR
+DANA: Sechs Uhr. Beide Teams sind in Position. Meine Kollegen stehen vor der HH-Agentur in Friedrichshain. Ich bin hier, vor Ihrer Redaktion. Wir gehen zur selben Minute rein. Herr Kowalczyk, Sie bleiben im Hintergrund. Ab jetzt ist das Polizeiarbeit.
+> 6시. 두 팀 다 자리 잡았어요. 제 동료들은 프리드리히스하인 HH 에이전시 앞에. 전 여기, 당신들 편집국 앞에. 같은 분에 들어가요. 코발치크 씨, 뒤에 계세요. 이제부턴 경찰 일이에요.
+JAN: Ich bleibe im Hintergrund. Aber ich darf dabei sein, oder? Nicht als Journalist, der eine Story will. Als jemand, dem dieser Mann über ein Jahr ins Gesicht gelogen hat.
+> 뒤에 있을게요. 근데 자리엔 있어도 되죠? 특종 원하는 기자로서가 아니라. 이 남자가 1년 넘게 면전에 거짓말한 사람으로서.
+DANA: Dabei sein ja. Eingreifen nein. Was immer er sagt, was immer Sie fühlen — Sie überlassen mir das Reden. Ein falscher Satz von Ihnen, und ein Anwalt dreht uns das später zu einer «Pressehetze» um. Verstanden?
+> 자리엔 네. 개입은 아니요. 그가 뭐라 하든, 당신이 뭘 느끼든 — 말은 저한테 맡겨요. 당신의 틀린 문장 하나면 나중에 변호사가 «언론 린치»로 뒤집어요. 알겠어요?
+JAN: Verstanden. Ich schweige und schaue zu. Aber Dana — eine Bitte. Wenn es einen Moment gibt, in dem ich ihm eine einzige Frage stellen darf, geben Sie mir ein Zeichen. Eine Frage. Die ich seit einem Jahr mit mir trage.
+> 알겠어요. 침묵하고 지켜봐요. 근데 다나 — 부탁 하나. 그에게 질문 하나 할 수 있는 순간이 오면 신호를 줘요. 질문 하나. 1년째 안고 있는.
+DANA: Welche Frage ist das? Sagen Sie es mir vorher. Dann kann ich einschätzen, ob sie das Verfahren gefährdet oder nicht.
+> 어떤 질문이에요? 미리 말해 주세요. 그래야 그게 수사를 위태롭게 하는지 판단할 수 있어요.
+JAN: Ich will ihn nur fragen, ab wann er gelogen hat. Nicht wie, nicht für wen. Nur ab welchem Tag. Für die Ermittlung ist das irrelevant. Für mich ist es die Frage, die mich seit Monaten nachts wach hält.
+> 그가 언제부터 거짓말했는지만 묻고 싶어요. 어떻게도, 누구를 위해서도 아니고. 어느 날부터인지만. 수사엔 무관해요. 저한텐 몇 달째 밤에 절 깨어 있게 하는 질문이에요.
+DANA: Das ist eine harmlose Frage, verfahrensrechtlich. Wenn der Moment passt und sein Anwalt noch nicht da ist, gebe ich Ihnen ein Nicken. Eine Frage, Herr Kowalczyk. Dann schweigen Sie wieder. Abgemacht?
+> 절차적으로 무해한 질문이네요. 순간이 맞고 그의 변호사가 아직 없으면 끄덕여 줄게요. 질문 하나, 코발치크 씨. 그다음 다시 침묵해요. 약속?
+JAN: Abgemacht. Eine Frage, ein Nicken von Ihnen, und danach Stille. Danke, Dana. Diese eine Antwort brauche ich nicht für die Geschichte. Ich brauche sie, um wieder schlafen zu können.
+> 약속. 질문 하나, 당신의 끄덕임, 그다음 침묵. 고마워요, 다나. 그 답 하나는 기사엔 필요 없어요. 다시 잠들 수 있으려고 필요해요.
+DANA: Wenn es dazu kommt, entscheide ich das vor Ort. Vielleicht. Jetzt konzentrieren Sie sich. Es ist sechs Uhr zwei. Patrick kommt jeden Morgen um Viertel nach sechs als Erster. Er schließt auf, bevor die anderen da sind. Gleich ist er hier.
+> 그 상황이 오면 현장에서 제가 정해요. 어쩌면. 이제 집중해요. 6시 2분이에요. 파트리크는 매일 아침 6시 15분에 제일 먼저 와요. 다른 사람들 오기 전에 문을 열죠. 곧 여기 와요.
+JAN: Als Erster da sein, aufschließen, bevor die anderen kommen. Das hat mir immer gefallen an ihm. Ich dachte, er sei besonders engagiert. Jetzt verstehe ich: Er wollte allein im Büro sein. Zeit an den Rechnern, bevor jemand zusieht.
+> 제일 먼저 와서, 다른 사람 오기 전에 문을 연다. 그게 늘 그 사람의 마음에 드는 점이었어요. 특별히 열성적인 줄 알았죠. 이제 이해해요. 혼자 사무실에 있고 싶었던 거예요. 아무도 안 볼 때 컴퓨터 앞 시간.
+DANA: So ist es fast immer. Das, was wie eine Tugend aussieht, ist beim Täter das Werkzeug. Da kommt er. Grauer Rucksack, Kaffeebecher. Ganz normaler Morgen für ihn. Gleich ist er nicht mehr normal. Bleiben Sie ruhig, Herr Kowalczyk.
+> 거의 늘 그래요. 미덕처럼 보이는 게 가해자한텐 도구예요. 저기 와요. 회색 배낭, 커피잔. 그한텐 아주 평범한 아침이죠. 곧 평범하지 않게 돼요. 차분히 계세요, 코발치크 씨.
+JAN: Es ist seltsam, ihn so zu sehen. Ganz entspannt, mit seinem Kaffee. Er weiß nicht, dass dies der letzte normale Morgen seines bisherigen Lebens ist. Einen Moment lang tut er mir fast leid. Und dann denke ich an Leon, und das Mitleid ist weg.
+> 그를 이렇게 보는 게 이상해요. 아주 편안하게, 커피 들고. 이게 지금까지 삶의 마지막 평범한 아침인 걸 그는 몰라요. 한순간 거의 불쌍해요. 그리고 레온을 생각하면 연민은 사라져요.
+DANA: Dieses Hin und Her zwischen Mitleid und Zorn ist normal, Herr Kowalczyk. Behalten Sie beides, aber lassen Sie keines davon Ihr Handeln bestimmen. Ein Ermittler, der nur hasst, macht Fehler. Einer, der nur Mitleid hat, auch. Die Mitte ist der richtige Ort.
+> 연민과 분노 사이 오락가락은 정상이에요, 코발치크 씨. 둘 다 간직하되 어느 것도 당신 행동을 정하게 두지 마요. 증오만 하는 조사관은 실수해요. 연민만 하는 자도요. 중간이 옳은 자리예요.
+JAN: Die Mitte zwischen Mitleid und Zorn. Das ist genau die Haltung, die wir im Journalismus auch brauchen. Einen Menschen genau so groß zeichnen, wie er ist. Nicht größer vor Hass, nicht kleiner vor Mitleid. Vielleicht sind unsere Berufe sich ähnlicher, als ich dachte.
+> 연민과 분노 사이 중간. 그게 바로 우리가 저널리즘에서도 필요한 태도예요. 사람을 딱 있는 그대로 그리기. 증오로 더 크게도, 연민으로 더 작게도 아니라. 어쩌면 우리 직업이 제 생각보다 닮았네요.
+DANA: Das sind sie, Herr Kowalczyk. Wir suchen beide die Wahrheit, nur mit anderen Werkzeugen. Sie mit Worten, ich mit Beschlüssen. Und beide müssen wir aufpassen, dass uns das Gefühl nicht die Sicht verstellt. Jetzt still. Er ist da.
+> 닮았어요, 코발치크 씨. 우린 둘 다 진실을 찾아요, 도구만 다르게. 당신은 말로, 전 영장으로. 그리고 둘 다 감정이 시야를 가리지 않게 조심해야 해요. 이제 조용히. 그가 왔어요.
+
+# 장면 1 — DIE DURCHSUCHUNG
+PATRICK: Frau… wer sind Sie? Was machen Sie vor unserer Tür um diese Uhrzeit? Jan? Was ist hier los?
+> 저기… 누구세요? 이 시간에 우리 문 앞에서 뭘 해요? 얀? 무슨 일이에요?
+PATRICK: Jan, warum sagst du nichts? Warum stehen hier Polizisten? Ist etwas passiert? Wurden wir wieder gehackt? Sag mir, dass alles in Ordnung ist.
+> 얀, 왜 아무 말 안 해? 왜 여기 경찰이 있어? 무슨 일 났어? 또 해킹당했어? 다 괜찮다고 말해 줘.
+JAN: …
+> …
+PATRICK: Dein Schweigen macht mir Angst, Jan. Nach einem Jahr, in dem wir jeden Tag zusammengearbeitet haben, schaust du mich an, als wäre ich ein Fremder. Was habe ich getan? Sag es mir doch einfach.
+> 네 침묵이 날 무섭게 해, 얀. 매일 같이 일한 1년 뒤에, 넌 날 낯선 사람처럼 봐. 내가 뭘 했어? 그냥 말해 줘.
+JAN: Du weißt genau, was du getan hast, Patrick. Und das Einzige, was ich jetzt tue, ist schweigen, weil Dana es so will. Aber glaub mir: Nach einem Jahr habe ich dir heute sehr viel zu sagen. Nur nicht jetzt. Und nicht so, wie du es gern hättest.
+> 네가 뭘 했는지 넌 정확히 알아, 파트리크. 그리고 내가 지금 하는 유일한 건 침묵이야, 다나가 그러길 원하니까. 근데 믿어. 1년 뒤인 오늘 난 너한테 할 말이 아주 많아. 다만 지금은 아니야. 그리고 네가 원하는 식으로도 아니고.
+DANA: Herr Patrick Wendt? Staatsanwaltschaft Berlin, Kriminalpolizei. Mein Name ist Schuster. Ich habe einen Durchsuchungsbeschluss gegen Sie. Wegen Ausspähens von Daten, Datenveränderung und Verdachts der geheimdienstlichen Agententätigkeit. Hier ist der Beschluss.
+> 파트리크 벤트 씨? 베를린 검찰, 수사경찰입니다. 제 이름은 슈스터예요. 당신에 대한 수색영장이 있어요. 데이터 염탐, 데이터 변경, 그리고 정보기관 첩보 활동 혐의로요. 여기 영장이에요.
+PATRICK: Gegen mich? Das muss ein Irrtum sein. Ich bin der IT-Verantwortliche hier. Ich schütze diese Redaktion vor genau solchen Dingen. Jan, sag ihr das. Sag ihr, dass ich auf eurer Seite bin.
+> 저한테요? 착오일 거예요. 전 여기 IT 책임자예요. 바로 그런 것들로부터 이 편집국을 지켜요. 얀, 그렇게 말해 줘요. 제가 당신들 편이라고 말해 줘요.
+JAN: …
+> …
+DANA: Herr Kowalczyk sagt gar nichts, Herr Wendt. Er muss nicht. Die Beweise sprechen. Sie haben das Recht zu schweigen und das Recht auf einen Anwalt. Ich rate Ihnen, beides zu nutzen. Bitte treten Sie von den Rechnern weg. Fassen Sie nichts an.
+> 코발치크 씨는 아무 말 안 해요, 벤트 씨. 할 필요 없어요. 증거가 말하죠. 당신은 묵비권과 변호인 선임권이 있어요. 둘 다 쓰시길 권해요. 컴퓨터에서 떨어지세요. 아무것도 만지지 마세요.
+PATRICK: Ich fasse nichts an, aber das ist absurd. «Geheimdienstliche Agententätigkeit»? Ich bin ein Berliner IT-Dienstleister. Ich habe nie für irgendeinen Dienst gearbeitet. Das ist eine Verwechslung, oder — oder jemand will mir etwas anhängen.
+> 아무것도 안 만져요, 근데 황당해요. «정보기관 첩보 활동»? 전 베를린 IT 용역업자예요. 어떤 기관을 위해서도 일한 적 없어요. 혼동이거나 — 아니면 누가 저한테 뒤집어씌우려는 거예요.
+DANA: Herr Wendt, die Männer, die jetzt hereinkommen, sind von der Spurensicherung. Sie werden jeden Rechner, zu dem Sie Zugang hatten, forensisch sichern. Bitte nennen Sie mir jetzt die Passwörter zu Ihren Dienstgeräten. Sie müssen das nicht, aber Verweigerung ändert nichts am Ergebnis, nur an Ihrer Kooperationsbewertung.
+> 벤트 씨, 지금 들어오는 사람들은 과학수사대예요. 당신이 접근한 모든 컴퓨터를 포렌식으로 보전해요. 이제 업무용 기기 비밀번호를 말해 주세요. 안 해도 되지만, 거부는 결과를 안 바꾸고 당신 협조 평가만 바꿔요.
+PATRICK: Ich sage gar nichts zu Passwörtern. Das ist mein gutes Recht. Und wenn Sie meine Geräte forensisch untersuchen, werden Sie feststellen, dass da nichts ist. Ich bin Fachmann. Ich hinterlasse keine Spuren.
+> 비밀번호에 대해 아무 말도 안 해요. 제 정당한 권리예요. 그리고 제 기기를 포렌식으로 조사하면 거기 아무것도 없다는 걸 알게 돼요. 전 전문가예요. 흔적을 안 남겨요.
+MIRA: «Ich hinterlasse keine Spuren.» Patrick, hörst du dich selbst? Ein unschuldiger Mensch sagt nicht «ihr werdet nichts finden, weil ich keine Spuren hinterlasse». Ein unschuldiger Mensch sagt «sucht, ich habe nichts getan». Du redest wie jemand, der weiß, dass es etwas zu finden gäbe — und stolz darauf ist, es versteckt zu haben.
+> «흔적을 안 남겨요.» 파트리크, 네 말이 들려? 결백한 사람은 «내가 흔적을 안 남겨서 못 찾을 거다»라고 안 해. 결백한 사람은 «찾아라, 난 아무것도 안 했다»고 해. 넌 찾을 게 있다는 걸 아는 사람처럼 말해 — 그걸 숨긴 걸 자랑스러워하면서.
+PATRICK: Du verdrehst wieder jedes Wort, Mira. Das ist genau die Art, wie ihr arbeitet. Ihr nehmt einen harmlosen Satz und macht ein Geständnis daraus.
+> 넌 또 모든 말을 비틀어, 미라. 그게 바로 너희가 일하는 방식이야. 무해한 문장을 가져다 자백으로 만들어.
+JAN: Niemand verdreht etwas, Patrick. Wir hören nur genau zu. Das ist unser Beruf. Und das Problem ist nicht, dass wir deine Worte verdrehen. Das Problem ist, dass deine Worte, gerade gesprochen, in eine einzige Richtung zeigen. Du hörst es selbst, deshalb wirst du so laut.
+> 아무도 뭘 안 비틀어, 파트리크. 우린 그저 자세히 들어. 그게 우리 직업이야. 그리고 문제는 우리가 네 말을 비트는 게 아니야. 문제는 네 말이, 방금 한 말이, 한 방향만 가리킨다는 거야. 넌 스스로 들어, 그래서 그렇게 커지는 거고.
+MIRA: Jemand will dir etwas anhängen. Dieselben Worte, die du vor Wochen über Leon gesagt hast, Patrick. «Vielleicht hat jemand Beweise auf meinen Rechner gelegt.» Erinnerst du dich? Damals war es gelogen. Und jetzt auch.
+> 누가 너한테 뒤집어씌우려 한다. 몇 주 전 레온에 대해 네가 한 바로 그 말이야, 파트리크. «누가 제 컴퓨터에 증거를 심었을지도.» 기억나? 그땐 거짓말이었어. 그리고 지금도.
+PATRICK: Wo ist Leon überhaupt? Wenn ihr so sicher seid, dass ich es war, warum ist der Junge nicht hier, um es zu genießen?
+> 레온은 대체 어디 있어? 내가 범인이라고 그렇게 확신하면 왜 그 애가 즐기러 여기 안 와 있어?
+JAN: Leon ist nicht hier, weil er kein Mensch ist, der Rache genießt. Er hat wochenlang gelitten, weil du ihn als Blitzableiter benutzt hast. Das steht in euren eigenen Unterlagen. «Leon als Blitzableiter nutzen.» Deine Handschrift, Patrick, oder die deiner Auftraggeber.
+> 레온이 여기 없는 건 복수를 즐기는 사람이 아니라서야. 네가 그를 피뢰침으로 써서 몇 주째 고생했어. 너희 자신의 자료에 적혀 있어. «레온을 피뢰침으로 활용.» 네 필체야, 파트리크, 아니면 네 발주자들 것이거나.
+PATRICK: Das kann jeder geschrieben haben. Ein Vermerk in einer Datei beweist nicht, dass er von mir stammt.
+> 그건 누구나 쓸 수 있어. 파일의 메모가 내 거란 걸 증명 안 해.
+MIRA: Stimmt. Ein Vermerk allein nicht. Aber der Vermerk lag in demselben Ordner, den nur pw_admin bei HH befüllt hat. Und pw_admin, das haben wir auf drei Wegen bewiesen, bist du. Du hast einen unschuldigen jungen Mann gezielt als Sündenbock aufgebaut, Patrick. Das ist für mich fast schlimmer als der Rest.
+> 맞아. 메모만으론 아니야. 근데 그 메모는 HH에서 pw_admin만 채운 바로 그 폴더에 있었어. 그리고 pw_admin은, 우리가 세 경로로 증명했듯이, 너야. 넌 결백한 젊은이를 일부러 희생양으로 세웠어, 파트리크. 그게 나한텐 나머지보다 거의 더 나빠.
+HELENE: Ein junger Mensch, der an sich selbst zu zweifeln begann, weil du einen Schatten auf ihn geworfen hast. Das ist es, was ich dir am schwersten verzeihe, Patrick. Nicht, dass du uns bestohlen hast. Dass du bereit warst, einen Unschuldigen zu opfern, um dich zu decken.
+> 자기 자신을 의심하기 시작한 젊은이, 네가 그한테 그림자를 던져서. 그게 내가 너한테 가장 용서하기 힘든 거야, 파트리크. 네가 우릴 훔친 게 아니라. 자길 가리려고 결백한 사람을 희생시킬 각오가 됐던 거.
+
+# 장면 2 — DER ERSTE RISS
+PATRICK: Mira. Du. Natürlich. Du hast schon immer zu viel in allem gesehen. Das ist deine Rache, weil ich besser war als du in deinem eigenen Fach. Du hast mir nie verziehen, dass die Redaktion mich für die Sicherheit geholt hat und nicht dich.
+> 미라. 너구나. 당연하지. 넌 늘 모든 걸 너무 많이 봤어. 이게 네 복수야, 네 분야에서 내가 너보다 나아서. 편집국이 보안에 널 아니라 날 데려온 걸 넌 결코 용서 못 했지.
+MIRA: Das ist eine interessante Geschichte, Patrick. Aber sie hilft dir nicht. Denn meine angebliche Eifersucht hat weder dein Admin-Konto bei HH angelegt noch das Deepfake von Jan verbreitet noch gestern Nacht unsere Köder-Datei geöffnet. Das warst du. Und ich kann jeden einzelnen Schritt beweisen.
+> 흥미로운 이야기야, 파트리크. 근데 너한테 도움 안 돼. 내 소위 질투가 HH에 네 관리자 계정을 만든 것도, 얀 딥페이크를 퍼뜨린 것도, 어젯밤 우리 미끼 파일을 연 것도 아니니까. 그건 너였어. 그리고 난 모든 걸음을 하나하나 증명할 수 있어.
+PATRICK: Köder-Datei? Was für eine Köder-Datei? Ich weiß nicht, wovon du redest.
+> 미끼 파일? 무슨 미끼 파일? 네가 무슨 말 하는지 모르겠어.
+DANA: Herr Wendt, ich rate Ihnen dringend, jetzt nichts mehr zu sagen. Jeder Satz, mit dem Sie sich zu verteidigen versuchen, kann gegen Sie verwendet werden. Warten Sie auf Ihren Anwalt.
+> 벤트 씨, 지금 더는 말 안 하시길 강력히 권해요. 변호하려는 문장 하나하나가 당신한테 불리하게 쓰일 수 있어요. 변호사를 기다리세요.
+PATRICK: Nein, ich lasse mir das nicht gefallen. Ich habe nichts getan. Fragen Sie doch, woher diese angeblichen Beweise kommen. Von Mira, die eifersüchtig ist. Von Jan, der mich nie gemocht hat. Das ist kein Beweis, das ist eine Intrige.
+> 아니요, 전 이걸 못 참아요. 전 아무것도 안 했어요. 이 소위 증거가 어디서 왔는지 물어보세요. 질투하는 미라한테서. 절 좋아한 적 없는 얀한테서. 그건 증거가 아니라 음모예요.
+HELENE: Patrick, ich habe dich über ein Jahr lang wie einen Kollegen behandelt. Ich habe dir vertraut, dir Kaffee gekocht, nach deiner Mutter gefragt, als sie krank war. Und die ganze Zeit hast du unsere Gespräche an eine Agentur verkauft, die uns zerstören wollte. Das ist es, was ich am wenigsten verstehe. Nicht die Tat. Die Kälte dabei.
+> 파트리크, 난 1년 넘게 널 동료처럼 대했어. 널 믿었고, 커피를 끓여 줬고, 네 어머니가 아플 때 안부를 물었어. 그리고 내내 넌 우리 대화를 우릴 파괴하려는 에이전시에 팔았지. 그게 내가 제일 이해 못 하는 거야. 행위가 아니라. 그 와중의 차가움.
+PATRICK: Kälte. Sie nennen es Kälte. Ich nenne es Überleben. Sie haben leicht reden, Frau Brandt, mit Ihrer Stiftung und Ihrem guten Gewissen. Ich hatte nichts von alledem. Ich hatte nur Rechnungen und Leute, die mir drohten.
+> 차가움. 그걸 차가움이라 하네요. 전 생존이라 해요. 말이야 쉽죠, 브란트 씨, 재단이랑 좋은 양심을 가진 당신은. 전 그런 게 하나도 없었어요. 청구서랑 절 협박하는 사람들만 있었죠.
+HELENE: Ich habe nicht leicht reden, Patrick. Ich habe diese Stiftung aus dem Nichts aufgebaut, in dreißig Jahren, gegen hundert Widerstände. Und ich hatte auch Momente, in denen mir jemand Geld anbot, um eine Geschichte sterben zu lassen. Ich habe immer Nein gesagt. Nicht, weil es leicht war. Weil es richtig war.
+> 말이야 쉬운 게 아니야, 파트리크. 난 이 재단을 무에서 지었어, 30년에 걸쳐, 백 가지 저항에 맞서. 그리고 나도 누가 기사를 죽이라고 돈을 내민 순간들이 있었어. 난 늘 아니라고 했어. 쉬워서가 아니라. 옳아서.
+PATRICK: Dann sind Sie eine bessere Person als ich. Glückwunsch. Aber nicht jeder hat die Kraft, immer Nein zu sagen. Manche von uns zerbrechen. Und dann nehmen sie das Geld.
+> 그럼 당신은 저보다 나은 사람이에요. 축하해요. 근데 누구나 늘 아니라고 할 힘이 있는 건 아니에요. 우리 중 일부는 부서져요. 그리고 돈을 받죠.
+JAN: Das stimmt, Patrick. Nicht jeder hat die Kraft. Und wer zerbricht, verdient Mitgefühl. Aber du bist nicht einfach zerbrochen und hast Geld genommen. Du hast aktiv geholfen, andere zu zerstören. Du hast ein Deepfake gefüttert, das mich fast ruiniert hätte. Du hast einen Jungen zum Sündenbock gemacht. Das ist nicht Zerbrechen. Das ist Mittäterschaft.
+> 맞아, 파트리크. 누구나 힘이 있는 건 아니야. 그리고 부서지는 사람은 연민받을 자격이 있어. 근데 넌 그냥 부서져서 돈을 받은 게 아니야. 다른 사람을 파괴하는 걸 능동적으로 도왔어. 날 거의 파멸시킬 뻔한 딥페이크를 먹였어. 애를 희생양으로 만들었어. 그건 부서짐이 아니야. 공범이야.
+PATRICK: Mittäterschaft. Ja. Vielleicht. Aber wisst ihr was? Ich habe nie den Abzug gedrückt. Ich habe nur die Munition geliefert. Die, die wirklich zielen, sitzen woanders. Und die werdet ihr nie kriegen. Nie.
+> 공범. 네. 어쩌면. 근데 있잖아요? 전 방아쇠를 당긴 적 없어요. 탄약만 댔죠. 진짜 조준하는 자들은 다른 데 앉아 있어요. 그리고 그들을 당신들은 결코 못 잡아요. 결코.
+
+# 장면 3 — DIE BEWEISE
+DANA: Herr Wendt, ich lege Ihnen jetzt dar, was wir haben. Nicht, um mit Ihnen zu diskutieren, sondern damit Sie Ihre Lage verstehen. Erstens: ein Fernzugriffsprogramm, von Ihrem Admin-Konto installiert, auf drei Redaktionsrechnern. Dokumentiert.
+> 벤트 씨, 이제 우리가 가진 걸 제시할게요. 당신과 토론하려는 게 아니라, 당신 처지를 이해하도록. 첫째, 당신 관리자 계정으로 설치된 원격 접속 프로그램, 편집국 컴퓨터 세 대에. 기록됨.
+DANA: Zweitens: Dieses Programm sendete Audio in einem Format, das für KI-Stimmtraining geeignet ist. Kurz bevor ein Deepfake von Herrn Kowalczyk mit genau seiner internen Sprechweise auftauchte. Drittens: Das Gerät, das das Deepfake verbreitete, hat denselben Hardware-Fingerabdruck wie das, mit dem gestern Nacht eine bestimmte Datei geöffnet wurde.
+> 둘째, 이 프로그램은 AI 음성 학습에 적합한 형식으로 음성을 보냈어요. 코발치크 씨의 바로 그 내부 말투를 담은 딥페이크가 나타나기 직전에. 셋째, 딥페이크를 퍼뜨린 기기는 어젯밤 특정 파일을 연 것과 같은 하드웨어 지문을 가졌어요.
+PATRICK: Das beweist gar nichts. Formate, Fingerabdrücke — das kann man alles manipulieren. Ich bin Fachmann, ich weiß, wie leicht man so etwas fälscht. Sie haben nichts Konkretes. Nur Technik, die man drehen kann, wie man will.
+> 그건 아무것도 증명 안 해요. 형식, 지문 — 다 조작할 수 있어요. 전 전문가예요, 그런 걸 얼마나 쉽게 위조하는지 알아요. 당신들은 구체적인 게 없어요. 마음대로 돌릴 수 있는 기술뿐이죠.
+DANA: Dann kommt das Konkrete. Viertens, und das ist entscheidend: Die gestern geöffnete Datei enthielt den erfundenen Namen eines nicht existierenden Staatssekretärs. Dieser Name, den es auf der ganzen Welt nur in dieser einen Datei gab, steht seit heute früh auf einer Themenliste der Agentur Hype und Hafen. Mit Ihren Initialen daneben.
+> 그럼 구체적인 게 와요. 넷째, 그리고 이게 결정적이에요. 어제 열린 파일엔 존재하지 않는 차관의 지어낸 이름이 들어 있었어요. 온 세상에 이 한 파일에만 있던 이 이름이, 오늘 아침부터 하이프 운트 하펜 에이전시의 주제 목록에 있어요. 당신 이니셜과 함께요.
+PATRICK: Das… das ist unmöglich. Niemand konnte wissen, dass… Ich meine, ich weiß nichts von einer solchen Liste.
+> 그건… 그건 불가능해요. 아무도 알 수 없었는데… 그러니까, 전 그런 목록 몰라요.
+JAN: «Niemand konnte wissen, dass.» Das war fast ein Geständnis, Patrick. Du wolltest sagen: Niemand konnte wissen, dass du die Datei zu HH getragen hast. Weil du dachtest, es sei geheim. Aber es war kein Geheimnis. Es war eine Falle. Und du bist hineingegangen.
+> «아무도 알 수 없었는데.» 거의 자백이었어, 파트리크. 넌 말하려 했어. 네가 파일을 HH로 가져간 걸 아무도 알 수 없었다고. 비밀인 줄 알았으니까. 근데 비밀이 아니었어. 함정이었어. 그리고 넌 들어갔지.
+PATRICK: Eine Falle mit einem erfundenen Namen. Clever. Zu clever für euch allein. Wer hat sich das ausgedacht? Mira? Das riecht nach Mira.
+> 지어낸 이름으로 된 함정. 영리하네. 너희만으론 너무 영리해. 누가 생각해 냈어? 미라? 미라 냄새가 나.
+JAN: Es ist egal, wer es sich ausgedacht hat, Patrick. Wichtig ist, dass es funktioniert hat. Und dass es nur funktionieren konnte, weil du genau das getan hast, was ein Verräter tut: eine Datei stehlen, die dich nichts anging, und zu deinen Auftraggebern tragen. Hätten wir uns in dir geirrt, wäre nie etwas passiert. Die Falle fängt nur den, der zugreift.
+> 누가 생각해 냈는지는 상관없어, 파트리크. 중요한 건 그게 통했다는 거야. 그리고 그게 통할 수 있던 건 오로지 네가 배신자가 하는 짓을 정확히 했기 때문이야. 상관없는 파일을 훔쳐 발주자한테 가져가는 것. 우리가 널 오해했다면 아무 일도 안 일어났어. 함정은 손대는 자만 잡아.
+PATRICK: Die Falle fängt nur den, der zugreift. Ja. Ich weiß. Ich habe selbst genug Fallen gebaut, um zu erkennen, wenn ich in einer sitze. Nur habe ich sie zu spät erkannt. Das ist der bitterste Teil: von der eigenen Kunst gefangen zu werden.
+> 함정은 손대는 자만 잡는다. 네. 알아. 내가 함정에 앉았는지 알아볼 만큼 함정을 많이 지어 봤어. 다만 너무 늦게 알아봤지. 그게 가장 쓰라린 부분이야. 자기 기술에 잡히는 것.
+MIRA: Ja, Patrick, ich habe die Falle gebaut. Und ich habe sie genau nach deinem Vorbild gebaut. Du hast ein Programm als harmlosen Dienst getarnt — ich habe ein Signal in Formatierungsdaten getarnt. Du hast mich gelehrt, wie man etwas versteckt. Ich habe nur besser gelernt als du gelehrt hast.
+> 그래, 파트리크, 내가 함정을 지었어. 그리고 정확히 네 본보기대로 지었지. 넌 프로그램을 무해한 서비스로 위장했어 — 난 신호를 서식 데이터에 위장했고. 넌 나한테 뭔가 숨기는 법을 가르쳤어. 난 네가 가르친 것보다 잘 배웠을 뿐이야.
+DANA: Und, Herr Wendt, bevor Sie das als «Manipulation» abtun: Die Datei existierte auf der ganzen Welt nur ein einziges Mal, auf einem einzigen Server, zu dem drei Personen Zugang hatten. Zwei davon stehen neben mir und haben die Datei nie weitergegeben. Die dritte sind Sie. Mathematisch bleibt keine andere Möglichkeit.
+> 그리고 벤트 씨, 그걸 «조작»으로 치부하기 전에. 그 파일은 온 세상에 단 한 번, 세 사람만 접근하는 단 하나의 서버에 존재했어요. 그중 둘은 제 옆에 서 있고 파일을 넘긴 적 없어요. 세 번째가 당신이에요. 수학적으로 다른 가능성이 안 남아요.
+PATRICK: Mathematisch. Als wäre das Leben Mathematik. Es gibt immer eine andere Möglichkeit. Vielleicht hat jemand den Server gehackt. Vielleicht hat einer von euch gelogen.
+> 수학적으로. 삶이 수학인 것처럼. 늘 다른 가능성이 있어요. 누가 서버를 해킹했을지도. 당신들 중 하나가 거짓말했을지도.
+MIRA: Den Server hat niemand gehackt. Das kann ich beweisen: Es gab in der fraglichen Nacht nur einen einzigen Fernzugriff, und der kam von deinem Gerät, mit deinem Hardware-Fingerabdruck. Kein fremder Zugriff, keine Hackerspur. Nur du, Patrick. Allein.
+> 서버는 아무도 해킹 안 했어. 증명할 수 있어. 그날 밤 원격 접속은 단 하나뿐이었고, 네 기기에서, 네 하드웨어 지문으로 왔어. 외부 접속도, 해커 흔적도 없어. 너뿐이야, 파트리크. 혼자.
+PATRICK: Mein Gerät kann gestohlen worden sein. Jemand kann sich als ich ausgegeben haben.
+> 내 기기가 도난당했을 수도. 누가 나인 척했을 수도.
+MIRA: Dein Gerät hat in derselben Nacht, in der es angeblich gestohlen war, dreimal auf deinen privaten E-Mail-Account zugegriffen. Ein Dieb liest keine Privatmails. Ein Dieb löscht Spuren und verschwindet. Das Gerät war die ganze Nacht bei dir, Patrick. In deiner Hand.
+> 네 기기는 소위 도난당한 그날 밤에 네 개인 이메일 계정에 세 번 접속했어. 도둑은 개인 메일을 안 읽어. 도둑은 흔적을 지우고 사라져. 기기는 밤새 네 곁에 있었어, 파트리크. 네 손에.
+PATRICK: Das… das kann Zufall sein. Eine automatische Synchronisation.
+> 그건… 우연일 수도. 자동 동기화거나.
+MIRA: Eine automatische Synchronisation tippt nicht um drei Uhr nachts ein Passwort falsch ein und beim zweiten Versuch richtig. Das tut nur ein müder Mensch. Du warst es, nachts um drei, müde, und hast dich bei deinem eigenen Konto vertippt. Maschinen vertippen sich nicht. Menschen schon.
+> 자동 동기화는 새벽 3시에 비밀번호를 틀리게 치고 두 번째에 맞게 안 쳐. 그건 피곤한 사람만 해. 너였어, 새벽 3시에, 피곤하게, 네 계정에 오타를 냈지. 기계는 오타를 안 내. 사람은 내고.
+PATRICK: … Ihr habt wirklich an alles gedacht.
+> … 너희 정말 전부를 생각했구나.
+PATRICK: Ein getippter Fehler um drei Uhr nachts. Ausgerechnet das bringt mich zu Fall. Nicht die großen Dinge, die ich so sorgfältig verborgen habe. Ein müder Fingerdruck.
+> 새벽 3시의 오타 하나. 하필 그게 날 무너뜨리네. 내가 그렇게 조심히 숨긴 큰 것들이 아니라. 피곤한 손가락 하나.
+MIRA: So ist es fast immer, Patrick. Die großen Dinge verbirgt jeder sorgfältig. Es sind die kleinen, menschlichen Momente, die einen verraten. Ein Tippfehler, ein «äh», ein Blick zu lang. Deine Fabrik baut perfekte Lügen. Aber ihr seid alle Menschen, und Menschen machen menschliche Fehler. Daran erkennt man euch.
+> 거의 늘 그래, 파트리크. 큰 것들은 다들 조심히 숨겨. 사람을 드러내는 건 작고 인간적인 순간이야. 오타 하나, «어» 하나, 1초 긴 눈길. 네 공장은 완벽한 거짓을 지어. 근데 너흰 다 사람이고, 사람은 인간적인 실수를 해. 그걸로 너흴 알아봐.
+JAN: Und das ist am Ende unsere größte Hoffnung, Patrick. Solange die, die Lügen bauen, Menschen bleiben, machen sie menschliche Fehler. Und solange es Menschen gibt, die genau hinschauen, werden diese Fehler gefunden. Das ist kein Triumph der Technik. Es ist ein Triumph der Aufmerksamkeit.
+> 그리고 그게 결국 우리 가장 큰 희망이야, 파트리크. 거짓을 짓는 자들이 사람으로 남는 한, 인간적인 실수를 해. 그리고 자세히 보는 사람이 있는 한, 그 실수는 발견돼. 기술의 승리가 아니야. 주의 깊음의 승리지.
+JAN: Nein, Patrick. Wir haben nicht an alles gedacht. Wir haben nur genau hingeschaut. Das ist der Unterschied zwischen uns und der Fabrik, für die du gearbeitet hast. Sie erfinden. Wir schauen hin. Und am Ende gewinnt fast immer der, der genauer hinschaut. Nicht der, der besser erfindet.
+> 아니야, 파트리크. 우린 전부를 생각한 게 아니야. 그저 자세히 봤을 뿐이야. 그게 우리랑 네가 일한 공장의 차이야. 그들은 지어내. 우린 들여다봐. 그리고 끝엔 거의 늘 더 자세히 보는 자가 이겨. 더 잘 지어내는 자가 아니라.
+DANA: Dann hätten Sie den Diebstahl gemeldet, Herr Wendt. Haben Sie aber nicht. Ein Mann, dessen Gerät gestohlen wird und der damit Straftaten begangen sieht, geht zur Polizei. Sie sind nicht zur Polizei gegangen. Weil nichts gestohlen wurde. Weil Sie es selbst waren. Jede Ihrer Ausreden erzeugt eine neue Lücke, die gegen Sie spricht.
+> 그럼 도난 신고를 하셨겠죠, 벤트 씨. 안 하셨어요. 기기를 도난당하고 그걸로 범죄가 저질러지는 걸 보는 사람은 경찰에 가요. 당신은 경찰에 안 갔어요. 아무것도 안 도둑맞았으니까. 당신 자신이었으니까. 당신의 변명 하나하나가 당신한테 불리한 새 틈을 만들어요.
+
+# 장면 4 — DER ZUSAMMENBRUCH
+PATRICK: Eine Falle. Ihr habt mir eine Falle gestellt. Das ist illegal. Das ist Anstiftung. Jeder Anwalt kippt das.
+> 함정. 너희가 나한테 함정을 놨어. 그건 불법이야. 교사야. 어떤 변호사든 뒤집어.
+KATRIN: Nein, Herr Wendt. Ich bin Juristin, ich erkläre es Ihnen genau. Anstiftung wäre, wenn wir Sie aufgefordert hätten, die Datei zu HH zu bringen. Das haben wir nie getan. Wir haben nur eine Datei abgelegt und ganz normal über eine Recherche gesprochen. Dass Sie die Datei heimlich geöffnet und weitergegeben haben, war allein Ihre Entscheidung. Das ist keine Anstiftung. Das ist Ihre Tat.
+> 아니에요, 벤트 씨. 전 법률가예요, 정확히 설명할게요. 교사는 우리가 당신한테 파일을 HH로 가져가라고 요구했을 때예요. 우린 그런 적 없어요. 우린 파일을 두고 아주 평범하게 취재 얘기를 했을 뿐이에요. 당신이 몰래 파일을 열고 넘긴 건 오로지 당신 결정이었어요. 그건 교사가 아니에요. 당신 행위예요.
+PATRICK: Ihr habt es mir leicht gemacht. Ihr habt gewusst, dass ich nicht widerstehen kann.
+> 너희가 나한테 쉽게 만들었어. 내가 못 참는 걸 알았잖아.
+JAN: Hör, was du gerade sagst, Patrick. «Ihr habt gewusst, dass ich nicht widerstehen kann.» Du gibst gerade zu, dass du stiehlst, sobald sich eine Gelegenheit bietet. Ein ehrlicher Mensch widersteht einer offenen Tür. Du nicht. Und das ist nicht unsere Schuld. Das bist du.
+> 네가 방금 하는 말을 들어, 파트리크. «내가 못 참는 걸 알았잖아.» 넌 지금 기회만 있으면 훔친다고 인정하는 거야. 정직한 사람은 열린 문을 견뎌. 넌 아니고. 그리고 그건 우리 잘못이 아니야. 너야.
+PATRICK: Ihr versteht das nicht. Keiner von euch versteht das. Ihr sitzt hier in eurer sauberen kleinen Redaktion und fühlt euch moralisch überlegen. Ich habe Schulden gehabt. Zweiundfünfzigtausend Euro. Spielschulden. Die Leute, denen ich das Geld schuldete, waren nicht die Sorte, die man warten lässt.
+> 너흰 이해 못 해. 너희 중 아무도 이해 못 해. 너흰 여기 깨끗한 작은 편집국에 앉아 도덕적으로 우월하다고 느끼지. 난 빚이 있었어. 5만 2천 유로. 도박 빚. 내가 돈을 빚진 사람들은 기다려 주는 부류가 아니었어.
+HELENE: Du hattest Schulden. Das ist ein Grund, es zu verstehen. Es ist kein Grund, es zu entschuldigen. Viele Menschen haben Schulden, Patrick, und verraten trotzdem nicht ihre Kollegen an fremde Mächte. Die Schulden erklären das Warum. Sie löschen nicht das Was.
+> 넌 빚이 있었어. 그건 이해할 이유야. 면죄할 이유가 아니라. 많은 사람이 빚이 있어, 파트리크, 그래도 동료를 외세에 안 팔아. 빚은 '왜'를 설명해. '무엇을'은 안 지워.
+PATRICK: Und was hätten Sie an meiner Stelle getan, Frau Brandt? Wenn vor Ihrer Wohnungstür zwei Männer stehen und sagen, das wäre schade um Ihre Mutter in ihrem Pflegeheim?
+> 그럼 제 입장이면 뭘 하셨겠어요, 브란트 씨? 집 문 앞에 두 남자가 서서 요양원의 당신 어머니가 안됐겠다고 하면?
+HELENE: Dann wäre ich zur Polizei gegangen, Patrick. Genau wie du es gestern hättest tun können, als du Angst bekamst. Du hattest in jedem Moment die Wahl, die Seite zu wechseln. Du hast sie nie genutzt. Nicht nach einem Monat, nicht nach einem Jahr. Das ist der Punkt.
+> 그럼 난 경찰에 갔을 거야, 파트리크. 네가 무서워졌을 때 어제 그럴 수 있었던 것처럼. 넌 매 순간 편을 바꿀 선택이 있었어. 결코 안 썼지. 한 달 뒤에도, 1년 뒤에도. 그게 핵심이야.
+PATRICK: Zur Polizei. Als ob die mich beschützt hätten vor Leuten, die überall Freunde haben. Sie sind naiv, Frau Brandt. Rührend naiv.
+> 경찰에. 어디에나 친구가 있는 자들로부터 그들이 절 지켜 준 것처럼. 순진하세요, 브란트 씨. 가슴 아플 만큼 순진해요.
+DANA: Da muss ich einhaken, Herr Wendt. Es gibt Zeugenschutz. Es gibt Kronzeugenregelungen. Hätten Sie sich vor einem Jahr bei uns gemeldet und ausgesagt, säßen Sie heute vielleicht geschützt da statt als Beschuldigter. Die Tür stand die ganze Zeit offen. Sie sind nicht hindurchgegangen. Auch das war Ihre Entscheidung.
+> 거기 끼어들어야겠어요, 벤트 씨. 증인 보호가 있어요. 주요 증인 규정이 있고요. 1년 전 우리한테 알리고 증언했으면 오늘 피의자가 아니라 보호받으며 앉아 있었을지도요. 문은 내내 열려 있었어요. 당신은 안 지나갔고요. 그것도 당신 결정이었어요.
+PATRICK: Vielleicht. Vielleicht war ich feige. Vielleicht habe ich mir eingeredet, ich hätte keine Wahl, weil das leichter war, als eine zu treffen. Das ist das Einzige, was ich zugebe. Ich war feige. Den Rest sagt mein Anwalt.
+> 어쩌면요. 어쩌면 전 비겁했어요. 어쩌면 선택을 내리는 것보다 쉬워서 '선택이 없다'고 스스로 꼬드겼어요. 그게 제가 인정하는 유일한 거예요. 전 비겁했어요. 나머진 제 변호사가 말해요.
+HELENE: Feigheit zuzugeben ist mehr, als die meisten können, Patrick. Ich nehme das zur Kenntnis, ohne es zu einer Entschuldigung zu machen. Du warst feige, und Feigheit hat einen Preis. Den zahlst du jetzt. Aber dass du es selbst so nennst, zeigt, dass in dir noch etwas ist, das die Wahrheit erkennt.
+> 비겁을 인정하는 건 대부분이 못 하는 거야, 파트리크. 그걸 면죄로 만들지 않고 받아들일게. 넌 비겁했고, 비겁은 값이 있어. 그걸 이제 치러. 근데 네가 스스로 그렇게 부른다는 게, 네 안에 아직 진실을 알아보는 뭔가가 있다는 걸 보여 줘.
+PATRICK: Etwas, das die Wahrheit erkennt. Vielleicht. Zu spät, um mir zu nützen, aber vielleicht nicht zu spät, um ein Mensch zu bleiben. Ich weiß es nicht. Ich bin müde. Ich will jetzt wirklich nur noch meinen Anwalt.
+> 진실을 알아보는 뭔가. 어쩌면요. 저한테 득 되기엔 너무 늦었지만, 어쩌면 사람으로 남기엔 안 늦었어요. 몰라요. 피곤해요. 이제 정말 변호사만 원해요.
+DANA: Ihr Anwalt ist verständigt und auf dem Weg. Bis er da ist, sagen Sie nichts mehr, das rate ich Ihnen als jemand, der Ihnen trotz allem einen fairen Prozess wünscht. Setzen Sie sich. Trinken Sie einen Schluck Wasser. Der schwerste Teil für Sie beginnt erst.
+> 변호사는 연락됐고 오는 중이에요. 올 때까진 더 말 마세요, 뭐에도 불구하고 당신한테 공정한 재판을 바라는 사람으로서 권해요. 앉으세요. 물 한 모금 드세요. 당신한텐 가장 힘든 부분이 이제 시작이에요.
+
+# 장면 5 — WIE ES ANFING
+JAN: Dana, darf ich jetzt die eine Frage stellen? Die, die ich seit einem Jahr mit mir trage?
+> 다나, 이제 그 질문 하나 해도 돼요? 1년째 안고 있던?
+DANA: Eine Frage. Keine Anklage, keine Provokation. Eine sachliche Frage. Und Herr Wendt, Sie müssen nicht antworten. Es ist Ihr gutes Recht zu schweigen.
+> 질문 하나. 비난도, 도발도 아니고. 사실적인 질문. 그리고 벤트 씨, 답 안 해도 돼요. 침묵은 당신의 정당한 권리예요.
+JAN: Patrick, ich will nur eines wissen. Wann hat es angefangen? Nicht wie, nicht warum. Nur wann. Ab welchem Tag hast du mir ins Gesicht gelächelt und gleichzeitig alles verkauft, was ich sagte?
+> 파트리크, 하나만 알고 싶어. 언제 시작됐어? 어떻게도, 왜도 아니고. 언제인지만. 어느 날부터 넌 내 면전에 웃으면서 동시에 내가 하는 모든 말을 팔았어?
+PATRICK: … Vom ersten Tag an. Der Hackerangriff, nach dem ihr mich eingestellt habt — den habe ich selbst mit organisiert. Ich wurde geschickt. Ich war nie euer IT-Mann, der nebenbei verraten hat. Ich war von Anfang an ihr Mann, der bei euch IT gespielt hat. Es gab keinen Tag, an dem ich ehrlich war. Keinen einzigen.
+> … 첫날부터. 너희가 날 고용한 그 해커 공격 — 내가 직접 같이 조직했어. 난 보내졌어. 난 옆다리로 배신한 너희 IT 담당이 결코 아니었어. 난 처음부터 너희한테 IT를 연기한 그들 사람이었어. 내가 정직했던 날은 없었어. 단 하루도.
+JAN: Kein einziger Tag. Ein Jahr lang, kein einziger ehrlicher Tag. Danke, Patrick. Das ist die Antwort, die ich gebraucht habe. Nicht, um dich zu hassen. Um aufzuhören, mich zu fragen, ob ich etwas übersehen habe. Ich habe nichts übersehen. Es war von Anfang an eine Lüge. Da kann man nichts übersehen.
+> 단 하루도. 1년 내내, 정직한 날 단 하루도. 고마워, 파트리크. 그게 내가 필요했던 답이야. 널 증오하려고가 아니라. 내가 뭘 놓쳤나 자문하길 멈추려고. 난 아무것도 안 놓쳤어. 처음부터 거짓말이었어. 거기선 놓칠 게 없어.
+PATRICK: Der Hackerangriff — ich habe ihn mit organisiert. Wir haben eure alten Systeme lahmgelegt, gerade genug, dass ihr Panik bekamt und schnell jemanden brauchtet. Und dann stand ich da. Mit perfekten Referenzen. Alle gefälscht, alle von meinen Auftraggebern besorgt. Ihr habt mich mit offenen Armen empfangen.
+> 해커 공격 — 제가 같이 조직했어요. 당신들 옛 시스템을 마비시켰죠, 딱 당신들이 공황에 빠져 급히 누가 필요할 만큼. 그러고 제가 거기 있었어요. 완벽한 추천서와 함께. 다 위조, 다 제 발주자들이 마련한. 당신들은 두 팔 벌려 절 맞았죠.
+JAN: Wir haben dich eingestellt, weil wir in Panik waren und dankbar für jede Hilfe. Deine Auftraggeber haben genau diese Panik erst erzeugt. Sie haben die Krankheit geschickt und gleich den Arzt dazu. Und wir haben dem Arzt vertraut, weil wir die Krankheit so fürchteten.
+> 우린 공황에 빠져 어떤 도움에도 고마워서 널 고용했어. 네 발주자들이 바로 그 공황을 먼저 만들었고. 병을 보내고 거기에 의사까지 바로 붙였어. 그리고 우린 병이 너무 무서워서 의사를 믿었지.
+PATRICK: Genau. Das ist das Schöne an der Methode. Man schafft das Problem, für das man die Lösung schon in der Tasche hat. Niemand misstraut dem Retter in der Not. Ich war euer Retter. Deshalb habt ihr ein Jahr lang nichts gemerkt.
+> 바로요. 그게 그 방법의 아름다운 점이에요. 해법을 이미 주머니에 가진 문제를 만들어요. 아무도 위기의 구원자를 안 의심해요. 전 당신들 구원자였죠. 그래서 1년 동안 아무것도 못 알아챈 거예요.
+HELENE: Du sagst «das Schöne an der Methode», Patrick. Über etwas, das Menschen zerstört. Das ist genau der Punkt, der mich kalt macht. Du bewunderst die Eleganz des Betrugs mehr, als dich sein Schaden kümmert. Das haben dir deine Auftraggeber beigebracht. Und du hast es gut gelernt.
+> 넌 «그 방법의 아름다운 점»이라고 해, 파트리크. 사람을 파괴하는 것에 대해. 그게 바로 날 오싹하게 하는 점이야. 넌 그 피해를 신경 쓰는 것보다 사기의 우아함을 더 감탄해. 네 발주자들이 가르쳤지. 그리고 넌 잘 배웠고.
+PATRICK: Vielleicht. Vielleicht habe ich zu gut gelernt. Es gibt einen Moment, in dem man aufhört, die Opfer zu sehen, und nur noch die Technik bewundert. Da war ich. Und ehrlich — ich weiß nicht, ob ich je wieder zurückfinde. Vielleicht ist das meine eigentliche Strafe. Nicht das Gefängnis. Dass ich so geworden bin.
+> 어쩌면요. 어쩌면 너무 잘 배웠어요. 피해자를 보기를 멈추고 기술만 감탄하게 되는 순간이 있어요. 전 거기 있었어요. 그리고 솔직히 — 제가 다시 돌아올 수 있을지 몰라요. 어쩌면 그게 제 진짜 벌이에요. 감옥이 아니라. 제가 이렇게 됐다는 거.
+JAN: Das ist das Ehrlichste, was du heute gesagt hast, Patrick. Und das Traurigste. Nicht das Gefängnis ist die Strafe, sondern dass man aufgehört hat, Menschen zu sehen. Da sind wir uns zum ersten Mal einig. Behalte diesen einen klaren Moment. Vielleicht ist er der Anfang des Rückwegs.
+> 그게 오늘 네가 한 가장 정직한 말이야, 파트리크. 그리고 가장 슬픈. 감옥이 벌이 아니라 사람을 보기를 멈춘 게 벌이다. 거기서 우린 처음으로 뜻이 같아. 그 하나의 맑은 순간을 간직해. 어쩌면 그게 돌아오는 길의 시작이야.
+PATRICK: Du klingst fast erleichtert. Das verstehe ich nicht. Ich habe dich ein Jahr lang betrogen, und du bist erleichtert?
+> 넌 거의 안도한 것처럼 들려. 이해 못 하겠어. 난 널 1년 동안 속였는데, 넌 안도해?
+JAN: Ja. Weil die quälendste Frage nicht «wer war es» war. Die war «habe ich jemanden Gutes zu Unrecht verdächtigt, während ich dir vertraute». Leon. Wochenlang hat Leon gelitten, weil dein Schatten auf ihn fiel. Jetzt weiß ich sicher, dass ich ihm Unrecht getan habe, und kann es gutmachen. Dafür bin ich erleichtert. Nicht deinetwegen. Seinetwegen.
+> 응. 가장 괴로운 질문이 «누구였나»가 아니었으니까. 그건 «너를 믿는 동안 내가 좋은 누군가를 부당하게 의심했나»였어. 레온. 몇 주째 레온이 고생했어, 네 그림자가 그한테 떨어져서. 이제 내가 그에게 부당했다는 걸 확실히 알고, 바로잡을 수 있어. 그래서 안도해. 너 때문이 아니라. 그 애 때문에.
+PATRICK: Du machst dir Sorgen um den Jungen. Rührend. Weißt du, warum ausgerechnet er der Blitzableiter werden sollte? Weil er zu ehrlich war. Jemand, der nicht lügen kann, sieht immer verdächtig aus, wenn man ihm einen Schatten überwirft. Das war keine Grausamkeit. Das war Handwerk.
+> 넌 그 애를 걱정하는구나. 가슴 아프네. 하필 걔가 피뢰침이 될 뻔한 이유를 알아? 너무 정직해서야. 거짓말 못 하는 사람은 그림자를 씌우면 늘 수상해 보여. 잔인함이 아니었어. 기술이었지.
+JAN: Du nennst es Handwerk, einen ehrlichen jungen Menschen so zu zeichnen, dass seine eigenen Kollegen an ihm zweifeln. Hörst du eigentlich, wie das klingt? Das ist genau die Sprache von Sandmann. Von denen, die dich geschickt haben. Du hast ihre Sprache übernommen, ohne es zu merken.
+> 정직한 젊은이를 자기 동료들이 의심하도록 그리는 걸 기술이라 부르다니. 그게 어떻게 들리는지 알긴 해? 그건 바로 잔트만의 언어야. 널 보낸 자들의. 넌 알아채지도 못하고 그들 언어를 받아들였어.
+PATRICK: Sandmann. Du kennst den Namen. Interessant. Dann weißt du ja schon mehr, als gut für dich ist.
+> 잔트만. 넌 그 이름을 알아. 흥미롭네. 그럼 너한테 이로운 것보다 벌써 많이 아네.
+DANA: Herr Wendt, Sie haben gerade einen Namen bestätigt, den Herr Kowalczyk genannt hat. Das ist für das Protokoll relevant. Wollen Sie wirklich weiterreden, ohne Anwalt? Ich frage zum dritten Mal.
+> 벤트 씨, 방금 코발치크 씨가 댄 이름을 확인했어요. 그건 조서에 중요해요. 정말 변호사 없이 계속 말하시겠어요? 세 번째 물어요.
+PATRICK: Nein. Ab jetzt schweige ich. Fast. Einen Satz sage ich noch. Weil Jan mir eine ehrliche Frage gestellt hat und ich ihm eine ehrliche Antwort schulde. Danach: Anwalt.
+> 아니요. 이제부턴 침묵해요. 거의. 한 문장만 더 할게요. 얀이 저한테 정직한 질문을 했고 제가 정직한 답을 빚졌으니까요. 그다음엔, 변호사.
+
+# 장면 6 — DER KLEINE FISCH
+PATRICK: Dann lass mich dir etwas sagen, Jan. Als Dank, dass du mir eine ehrliche Frage gestellt hast. Du glaubst, ihr habt gewonnen. Ihr habt mich. Aber ich bin nur ein kleiner Fisch. Der kleinste von allen.
+> 그럼 하나 말해 줄게, 얀. 나한테 정직한 질문을 해 준 보답으로. 넌 너희가 이겼다고 믿지. 날 잡았으니까. 근데 난 작은 고기일 뿐이야. 전부 중 제일 작은.
+DANA: Herr Wendt, überlegen Sie gut, was Sie jetzt sagen. Ohne Anwalt sollten Sie schweigen. Jedes Wort wird protokolliert.
+> 벤트 씨, 지금 뭘 말하는지 잘 생각하세요. 변호사 없인 침묵해야 해요. 모든 말이 기록돼요.
+PATRICK: Vielleicht will ich, dass es protokolliert wird, Frau Schuster. Vielleicht ist das das Einzige, was mir bleibt. Wenn ich schon falle, dann will ich wenigstens, dass festgehalten wird: Ich war nicht der Erfinder. Ich war der Lieferjunge. Es gibt einen Unterschied, auch wenn beide ins Gefängnis gehen.
+> 어쩌면 전 그게 기록되길 원해요, 슈스터 씨. 어쩌면 그게 저한테 남은 유일한 거예요. 이미 떨어질 거면 적어도 이건 기록되길 원해요. 전 발명자가 아니었어요. 배달원이었죠. 둘 다 감옥 가도 차이가 있어요.
+JAN: Es gibt einen Unterschied, Patrick. Da hast du recht. Aber der Unterschied macht dich nicht unschuldig, nur weniger wichtig. Und das ist bitter für einen Menschen: zu erkennen, dass man für etwas Böses nicht einmal wichtig genug war. Nur ein Lieferjunge, austauschbar.
+> 차이가 있어, 파트리크. 그건 맞아. 근데 그 차이가 널 결백하게 만들지 않고 덜 중요하게만 만들어. 그리고 그게 사람한테 쓰라려. 나쁜 일에 중요할 만큼도 안 됐다는 걸 깨닫는 것. 그저 갈아 끼울 수 있는 배달원.
+PATRICK: Austauschbar. Ja. Das ist das Wort, das mich am meisten quält. Nicht «Verräter». «Austauschbar». Ich dachte, ich sei ihnen wichtig. Ich dachte, ich sei einer von ihnen. Und jetzt merke ich: Wenn ich falle, bedauern sie mich keine Sekunde. Sie suchen einfach den nächsten.
+> 갈아 끼울 수 있는. 네. 그게 절 제일 괴롭히는 말이에요. «배신자»가 아니라. «갈아 끼울 수 있는». 전 제가 그들한테 중요한 줄 알았어요. 그들 일원인 줄 알았죠. 그리고 이제 알아요. 제가 떨어지면 1초도 안 애석해해요. 그냥 다음 사람을 찾죠.
+HELENE: Das ist die Wahrheit über jedes solche System, Patrick. Es kennt keine Treue, nur Nützlichkeit. Du warst nützlich, jetzt bist du eine Last, und morgen bist du vergessen. Deine Auftraggeber haben dir nie Loyalität geschuldet, nur Geld. Und Geld endet, sobald du im Polizeiwagen sitzt.
+> 그게 그런 시스템 전부에 대한 진실이야, 파트리크. 충성을 몰라, 쓸모만 알아. 넌 쓸모 있었고, 이제 짐이고, 내일은 잊혀. 네 발주자들은 네게 결코 충성을 빚진 적 없어, 돈만. 그리고 돈은 네가 경찰차에 앉는 순간 끝나.
+PATRICK: Dann habe ich alles für nichts verkauft. Meine Ehre, meinen Beruf, euer Vertrauen — für Leute, die mich wie einen kaputten Gegenstand wegwerfen. Das ist… ich weiß nicht, ob das Reue ist oder nur Selbstmitleid. Aber es tut weh. Zum ersten Mal seit einem Jahr tut mir etwas weh.
+> 그럼 전 모든 걸 헛되이 팔았네요. 제 명예, 제 직업, 당신들 신뢰 — 절 고장 난 물건처럼 버리는 자들한테. 그건… 그게 후회인지 자기연민인지 모르겠어요. 근데 아파요. 1년 만에 처음으로 뭔가 아파요.
+JAN: Ob Reue oder Selbstmitleid — der Schmerz ist echt, und ein Schmerz ist ein Anfang. Mehr kann ich dir heute nicht wünschen, Patrick. Nicht Vergebung, das steht mir nicht zu. Aber dass dieser Schmerz dich eines Tages zu einem Menschen zurückführt, der wieder Menschen sieht. Das wünsche ich dir. Ehrlich.
+> 후회든 자기연민이든 — 아픔은 진짜고, 아픔은 시작이야. 오늘 너한테 그 이상 못 바라, 파트리크. 용서는 아니야, 그건 내 몫이 아니거든. 근데 이 아픔이 언젠가 다시 사람을 보는 사람으로 널 되돌려 주길. 그걸 바라. 진심으로.
+PATRICK: Ich weiß, dass es protokolliert wird. Vielleicht will ich das sogar. Hören Sie: Ich habe Daten gestohlen und ein Video gefüttert. Dafür gehe ich ins Gefängnis. Gut. Aber die, die mich geschickt haben, sitzen in warmen Büros und werden nie angefasst. Und wisst ihr, warum? Weil sie überall Freunde haben.
+> 기록되는 거 알아요. 어쩌면 그걸 원하기까지 해요. 들어요. 전 데이터를 훔치고 영상에 먹였어요. 그걸로 감옥 가요. 좋아요. 근데 절 보낸 자들은 따뜻한 사무실에 앉아 결코 안 건드려져요. 그리고 왜인지 알아요? 어디에나 친구가 있으니까요.
+JAN: Überall Freunde. Was meinst du damit, Patrick? Sag es genau.
+> 어디에나 친구. 그게 무슨 뜻이야, 파트리크? 정확히 말해.
+PATRICK: Ich meine, dass ihr nur die unterste Ebene seht. Mich. Die HH-Agentur. Vielleicht noch eine Beratungsfirma dahinter. Aber das ist alles nur die Hand. Der Kopf ist weiter oben, viel weiter. Und der Kopf hat gelernt, nie selbst anzufassen.
+> 제 말은, 너흰 가장 낮은 층만 봐요. 나. HH 에이전시. 어쩌면 그 뒤의 컨설팅 회사 하나까지. 근데 그건 다 손일 뿐이에요. 머리는 더 위, 훨씬 위에 있어요. 그리고 머리는 결코 직접 손대지 않는 법을 배웠어요.
+JAN: Der Kopf, der nie selbst anfasst. Du beschreibst ein System, Patrick, keine einzelne Firma. Ein System, in dem Leute wie du die Risiken tragen und Leute weiter oben die Gewinne. Und wenn es schiefgeht, fällt immer nur die Hand. Nie der Kopf.
+> 결코 직접 손대지 않는 머리. 넌 시스템을 묘사하네, 파트리크, 단일 회사가 아니라. 너 같은 사람들이 위험을 지고 더 위 사람들이 이득을 가져가는 시스템. 그리고 틀어지면 늘 손만 떨어져. 머리는 결코.
+PATRICK: Jetzt verstehst du es. Und genau deshalb lohnt es sich für den Kopf. Weil Leute wie ich billig sind und austauschbar. Ich falle, und morgen sitzt ein neuer Patrick bei einer anderen Redaktion. Das System überlebt. Es überlebt immer. Ihr fangt eine Hand und glaubt, ihr hättet gewonnen.
+> 이제 이해하네. 그리고 바로 그래서 머리한텐 수지가 맞아. 나 같은 사람은 싸고 갈아 끼울 수 있으니까. 난 떨어지고, 내일 다른 편집국에 새 파트리크가 앉아. 시스템은 살아남아. 늘 살아남지. 너흰 손 하나 잡고 이겼다고 믿어.
+JAN: Du hast recht und unrecht zugleich, Patrick. Recht, dass du nur die Hand bist. Unrecht, dass wir glauben, gewonnen zu haben. Wir wissen genau, dass du die Hand bist. Deshalb hören wir heute nicht auf. Eine Hand zu fangen ist der erste Schritt, den Kopf zu finden. Nicht der letzte.
+> 넌 동시에 맞고 틀려, 파트리크. 네가 손일 뿐이란 건 맞아. 우리가 이겼다고 믿는다는 건 틀렸고. 우린 네가 손이란 걸 정확히 알아. 그래서 오늘 멈추지 않아. 손 하나를 잡는 건 머리를 찾는 첫 걸음이야. 마지막이 아니라.
+PATRICK: Du redest, als hättest du Zeit. Aber der Kopf hat auch Zeit, Jan. Mehr als du. Der Kopf wartet, bis Gras über die Sache gewachsen ist, und macht dann weiter. Ihr habt eine Schlacht gewonnen. Der Krieg läuft seit Jahrzehnten und läuft weiter.
+> 넌 시간이 있는 것처럼 말하네. 근데 머리도 시간이 있어, 얀. 너보다 많이. 머리는 일에 풀이 자랄 때까지 기다렸다 계속해. 너흰 전투 하나를 이겼어. 전쟁은 수십 년째고 계속돼.
+JAN: Dann führen wir ihn eben weiter, den Krieg. Schlacht für Schlacht. Du hast etwas Wichtiges gesagt, Patrick, ohne es zu merken: dass der Kopf geduldig ist. Weißt du, was unsere Antwort darauf ist? Wir sind auch geduldig. Wir haben beim Wohnungsfonds angefangen und sind über drei Jahre nicht müde geworden. Geduld gegen Geduld.
+> 그럼 우린 그 전쟁을 계속해. 전투마다. 넌 모른 채 중요한 걸 말했어, 파트리크. 머리가 참을성 있다는 거. 거기에 대한 우리 답이 뭔지 알아? 우리도 참을성 있어. 주택 펀드에서 시작해 3년 넘게 안 지쳤어. 인내 대 인내야.
+PATRICK: Geduld gegen Geduld. Vielleicht habt ihr da eine Chance. Vielleicht. Aber unterschätzt nicht, wie weit der Kopf reicht. Ich sagte es schon: auch in eure Stiftung. Glaubt mir nicht, prüft es. Aber prüft es. Sonst wacht ihr eines Tages auf und merkt, dass der nächste Patrick längst bei euch sitzt.
+> 인내 대 인내. 거기서 어쩌면 너희한테 기회가 있어. 어쩌면. 근데 머리가 얼마나 멀리 닿는지 얕보지 마. 이미 말했지. 너희 재단에도. 날 믿지 말고, 확인해. 근데 확인은 해. 안 그럼 언젠가 깨어나 다음 파트리크가 진작 너희한테 앉아 있는 걸 알게 돼.
+JAN: Das werden wir prüfen, Patrick. Mit Beweisen, nicht mit Verdacht. Und falls bei uns wirklich jemand sitzt, werden wir ihn genauso finden, wie wir dich gefunden haben. Geduldig, gründlich, ohne Panik. Danke für die Warnung. Auch wenn du sie nicht aus Freundlichkeit gibst, sondern um uns zu quälen — wir nehmen sie ernst.
+> 확인할 거야, 파트리크. 의심이 아니라 증거로. 그리고 우리한테 정말 누가 앉아 있으면, 널 찾은 것처럼 그를 찾아. 참을성 있게, 철저히, 공황 없이. 경고 고마워. 친절이 아니라 우릴 괴롭히려고 주는 거라도 — 우린 진지하게 받아.
+PATRICK: Dann viel Glück beim Suchen des Kopfes. Ihr werdet ihn nie finden. Er ist zu gut versteckt, zu gut vernetzt. Aber ich gebe euch einen Anfang. Weil Jan höflich war. Und weil ich, ehrlich gesagt, gern sehen würde, wie der Kopf einmal selbst fällt, nachdem er mich hat fallen lassen.
+> 그럼 머리 찾는 데 행운을 빌어. 결코 못 찾아. 너무 잘 숨었고, 너무 잘 엮였어. 근데 시작을 하나 줄게. 얀이 정중했으니까. 그리고 솔직히, 머리가 날 떨어뜨린 뒤에 한 번 제 발로 떨어지는 걸 보고 싶어서.
+PATRICK: Ich meine: Glaubt nicht, dass eure kleine saubere Redaktion sauber ist, nur weil ihr mich erwischt habt. Die Leute, für die ich gearbeitet habe, haben auch bei euch jemanden. Nicht bei den Journalisten. Höher. In eurer Stiftung. Einer, der mitentscheidet, wohin euer Geld fließt und welche Geschichten nicht zu groß werden dürfen.
+> 제 말은, 너희가 날 잡았다고 너희 작고 깨끗한 편집국이 깨끗하다고 믿지 마. 내가 일한 자들은 너희한테도 사람이 있어. 기자들 사이가 아니라. 더 위. 너희 재단에. 너희 돈이 어디로 흐르고 어떤 기사가 너무 커지면 안 되는지 함께 결정하는 자.
+HELENE: In unserer Stiftung. Patrick, das ist eine schwere Behauptung. Hast du einen Namen? Oder ist das nur ein letzter Versuch, uns zu spalten, bevor du abgeführt wirst?
+> 우리 재단에. 파트리크, 그건 무거운 주장이야. 이름이 있어? 아니면 끌려가기 전에 우릴 쪼개려는 마지막 시도야?
+PATRICK: Vielleicht beides. Einen Namen gebe ich euch nicht umsonst. Aber ich gebe euch ein Wort, als Zugabe, weil Jan höflich war. Das Wort heißt Grunewald. Und jetzt rufe ich meinen Anwalt. Mehr sage ich nicht. Nie mehr, ohne dass es für mich etwas bringt.
+> 어쩌면 둘 다. 이름은 공짜로 안 줘. 근데 얀이 정중했으니 덤으로 단어 하나 줄게. 그 단어는 그루네발트야. 그리고 이제 변호사를 부를게. 더는 말 안 해. 나한테 득 되는 거 없인 다신.
+JAN: Patrick, ein Letztes, und du musst nicht antworten. Dieser Jemand in unserer Stiftung — ist das eine echte Information oder ein Abschiedsgeschenk, das uns gegeneinander aufhetzen soll? Ich frage, weil ich den Unterschied kennen muss, bevor ich jemandem bei uns misstraue.
+> 파트리크, 마지막 하나, 답 안 해도 돼. 우리 재단의 그 누군가 — 그건 진짜 정보야 아니면 우릴 서로 반목시키려는 작별 선물이야? 묻는 건, 우리 중 누굴 의심하기 전에 그 차이를 알아야 해서야.
+PATRICK: Siehst du, genau das ist die Frage, die dich auffrisst. Und das ist mein letztes Geschenk: dass du sie dir stellst. Ob es wahr ist oder nicht, sage ich nicht. Aber jetzt wirst du jeden in deiner Stiftung ansehen und dich fragen. Genau wie du Leon angesehen hast. Willkommen auf meiner Seite des Verdachts.
+> 봐, 바로 그게 널 갉아먹는 질문이야. 그리고 그게 내 마지막 선물이야. 네가 그 질문을 스스로 던지는 것. 참인지 아닌지는 말 안 해. 근데 이제 넌 재단의 모든 사람을 보며 자문할 거야. 네가 레온을 봤던 것처럼. 의심의 내 편에 온 걸 환영해.
+JAN: Nein, Patrick. Da irrst du dich. Du hast mir gerade genau gezeigt, wie dein Gift wirkt, und damit hast du es wirkungslos gemacht. Ich werde jeden in der Stiftung mit Beweisen prüfen, nicht mit Verdacht. Genau wie bei Leon, genau wie bei dir. Dein «Geschenk» ist eine Falle, aber ich kenne sie jetzt. Danke, dass du sie mir gezeigt hast.
+> 아니야, 파트리크. 거기서 틀렸어. 넌 방금 네 독이 어떻게 작동하는지 정확히 보여 줬고, 그걸로 그걸 무력하게 만들었어. 난 재단의 모든 사람을 의심이 아니라 증거로 검증할 거야. 레온 때처럼, 너 때처럼. 네 «선물»은 함정이지만 난 이제 그걸 알아. 보여 줘서 고마워.
+PATRICK: Du bist klüger, als ich dachte, Kowalczyk. Vielleicht findet ihr den Kopf doch. Vielleicht nicht. Aber eines ist sicher: Ich war nur der Anfang. Hinter mir kommt mehr. Viel mehr. Und jetzt: mein Anwalt. Dieses Mal wirklich.
+> 넌 내 생각보다 똑똑해, 코발치크. 어쩌면 머리를 찾을지도. 어쩌면 아니고. 근데 하나는 확실해. 난 시작일 뿐이었어. 내 뒤엔 더 와. 훨씬 더. 그리고 이제, 변호사. 이번엔 진짜.
+DANA: Das Recht auf einen Anwalt wird selbstverständlich gewährt. Herr Wendt, Sie werden jetzt zur Dienststelle gebracht. Alles Weitere besprechen Sie mit Ihrer Verteidigung. Meine Kollegen, bitte.
+> 변호인 선임권은 당연히 보장돼요. 벤트 씨, 이제 서로 이송돼요. 나머지는 변호인과 상의하세요. 동료들, 부탁해요.
+
+# 엔딩 — NACH DER FESTNAHME
+BEAMTIN: Herr Kowalczyk, ich bin Knauer, die zuständige Staatsanwältin. Wir kennen uns, von der Durchsuchung bei Ihnen damals. Diesmal stehe ich auf einer anderen Seite Ihres Falls. Angenehmer, nicht wahr?
+> 코발치크 씨, 전 크나우어, 담당 검사예요. 우리 알죠, 그때 당신들 수색 때. 이번엔 당신 사건의 다른 편에 서 있네요. 더 유쾌하죠, 안 그래요?
+JAN: Frau Knauer. Ja, angenehmer. Damals standen Sie mit einem Beschluss vor meiner Tür. Heute stehen Sie mit einem Beschluss vor der Tür dessen, der mich verraten hat. Das Gesetz kann in beide Richtungen zeigen. Das habe ich damals von Ihnen gelernt.
+> 크나우어 씨. 네, 더 유쾌해요. 그땐 영장 들고 제 문 앞에 서 계셨죠. 오늘은 절 배신한 자의 문 앞에 영장 들고 서 계시고요. 법은 양쪽으로 향할 수 있어요. 그때 당신한테 배웠어요.
+BEAMTIN: Das haben Sie gut gelernt. Und Sie haben etwas noch besser gemacht: Sie haben nichts überstürzt. Sie haben Beweise gesichert, die Polizei eingeschaltet, nichts selbst zerstört. Deshalb hält dieser Fall. Viele Journalisten hätten vorschnell gedruckt und alles ruiniert. Sie nicht.
+> 잘 배우셨네요. 그리고 더 잘한 게 있어요. 서두르지 않았어요. 증거를 보전하고, 경찰을 끌어들이고, 아무것도 직접 파괴 안 했어요. 그래서 이 사건이 버텨요. 많은 기자가 성급히 인쇄해서 전부 망쳤을 거예요. 당신들은 아니고.
+JAN: Wir haben gelernt, dass Geduld die halbe Recherche ist. Und, Frau Knauer — eine Sache. Patrick hat ein Wort gesagt, bevor er den Anwalt verlangte. «Grunewald.» Und er hat behauptet, es gebe jemanden in unserer Stiftung. Ich muss wissen: Ermitteln Sie auch in diese Richtung?
+> 우린 인내가 취재의 절반이란 걸 배웠어요. 그리고 크나우어 씨 — 하나. 파트리크가 변호사를 요구하기 전에 단어 하나를 말했어요. «그루네발트.» 그리고 우리 재단에 누가 있다고 주장했어요. 알아야겠어요. 그쪽으로도 수사하세요?
+BEAMTIN: Herr Kowalczyk, zu laufenden Ermittlungen sage ich grundsätzlich nichts. Aber ich sage Ihnen das: Ein Wort wie «Grunewald» aus dem Mund eines gerade Gefassten ist entweder eine Lüge, um abzulenken, oder der Anfang von etwas sehr viel Größerem. Mein Job ist herauszufinden, welches von beidem. Und Ihrer vermutlich auch.
+> 코발치크 씨, 진행 중인 수사엔 원칙적으로 아무 말 안 해요. 근데 이건 말할게요. 막 잡힌 자의 입에서 나온 «그루네발트» 같은 단어는 눈 돌리려는 거짓이거나, 훨씬 큰 뭔가의 시작이에요. 제 일은 둘 중 뭔지 알아내는 거예요. 그리고 당신 일도 아마.
+BEAMTIN: Und eine persönliche Bemerkung, die nicht ins Protokoll gehört: Ich habe in zwanzig Jahren viele Journalisten erlebt, die sich für Ermittler hielten und dabei Verfahren ruiniert haben. Sie, Herr Kowalczyk, sind anders. Sie wissen, wo Ihre Arbeit endet und meine beginnt. Das ist selten. Behalten Sie es.
+> 그리고 조서에 안 들어갈 개인적 소견 하나. 전 20년간 자길 수사관으로 여기다 사건을 망친 기자를 많이 봤어요. 당신은, 코발치크 씨, 달라요. 당신 일이 어디서 끝나고 제 일이 어디서 시작되는지 알아요. 드물어요. 간직하세요.
+JAN: Das sage ich Ihnen zurück, Frau Knauer. Ich habe in zwanzig Jahren viele Ermittler erlebt, die sich für Richter hielten. Sie nicht. Sie halten sich an die Regeln, auch wenn es langsamer ist. Deshalb halten Ihre Fälle. Vielleicht sind Journalismus und Ermittlung doch dieselbe Kunst, nur mit verschiedenen Werkzeugen.
+> 저도 같은 말을 돌려드려요, 크나우어 씨. 전 20년간 자길 판사로 여기는 수사관을 많이 봤어요. 당신은 아니고요. 당신은 느려도 규칙을 지켜요. 그래서 당신 사건이 버텨요. 어쩌면 저널리즘과 수사는 결국 같은 기술이네요, 도구만 다른.
+BEAMTIN: Dieselbe Kunst, verschiedene Werkzeuge. Das gefällt mir. Und wissen Sie, was die wichtigste Regel in beiden ist? Niemals mehr behaupten, als man beweisen kann. Sie haben heute keinen Satz zu viel gesagt. Ihr Schweigen bei Herrn Wendt war Gold. Ein Satz zu viel, und sein Anwalt hätte eine Handhabe gehabt.
+> 같은 기술, 다른 도구. 마음에 들어요. 그리고 둘의 가장 중요한 규칙이 뭔지 아세요? 증명할 수 있는 것보다 결코 더 주장하지 않기. 당신은 오늘 한 문장도 더 안 했어요. 벤트 씨 앞에서 당신의 침묵은 금이었어요. 한 문장만 더 했어도 그의 변호사가 빌미를 잡았을 거예요.
+JAN: Das Schweigen fiel mir schwer, Frau Knauer. Ein Jahr lang hat mich dieser Mann belogen, und ich durfte ihm nur eine einzige Frage stellen. Aber ich habe gelernt: Manchmal ist Schweigen die stärkere Waffe. Nicht nur gegen Lügenfabriken. Auch im eigenen Zorn.
+> 침묵은 힘들었어요, 크나우어 씨. 1년 동안 이 남자가 절 속였고, 전 질문 하나만 할 수 있었죠. 근데 배웠어요. 가끔 침묵이 더 강한 무기예요. 거짓말 공장에 맞서서만이 아니라. 자기 분노 속에서도.
+JAN: Mein Job ist genau das. Und ich habe das Gefühl, Teil vier endet heute, aber eine viel größere Geschichte fängt gerade erst an. «Grunewald.» Ein Wort, das immer wiederkommt. Beim Wohnungsfonds, beim Rüstungsdeal, bei der Desinformationsfabrik. Und jetzt aus dem Mund eines Verräters. Irgendwann werde ich wissen, was es bedeutet.
+> 제 일이 바로 그거예요. 그리고 4부가 오늘 끝나지만 훨씬 큰 이야기가 이제 막 시작되는 느낌이에요. «그루네발트.» 거듭 돌아오는 단어. 주택 펀드에서, 방산 거래에서, 허위정보 공장에서. 그리고 이제 배신자의 입에서. 언젠가 전 그게 무슨 뜻인지 알게 될 거예요.
+HELENE: Irgendwann, Jan. Aber nicht heute. Heute haben wir einen Verräter überführt, eine Fabrik ausgehoben und einen unschuldigen jungen Kollegen rehabilitiert. Das ist genug für einen Tag. Das Wort Grunewald legen wir in den Ordner zu den anderen. Und wenn seine Zeit kommt, holen wir es wieder heraus.
+> 언젠가요, 얀. 근데 오늘은 아니에요. 오늘 우린 배신자를 밝혔고, 공장을 적발했고, 결백한 젊은 동료를 복권시켰어요. 하루치곤 충분해요. 그루네발트란 말은 나머지와 함께 자료철에 넣어요. 그리고 때가 오면 다시 꺼내요.
+MIRA: Jan, eine Nachricht von den Kollegen in Friedrichshain. Die Durchsuchung bei HH läuft. Sie haben die untere Etage versiegelt, bevor jemand etwas löschen konnte. Server, Festplatten, die Whiteboards — alles gesichert. Es hat funktioniert. Beide zur selben Minute. Niemand konnte den anderen warnen.
+> 얀, 프리드리히스하인 동료들한테서 메시지. HH 수색이 진행 중이에요. 누가 뭘 지우기 전에 아래층을 봉인했어요. 서버, 하드디스크, 화이트보드 — 다 보전됐어요. 통했어요. 둘 다 같은 분에. 누구도 상대를 경고 못 했어요.
+JAN: Beide gleichzeitig, und alles gesichert. Dann war die ganze Vorsicht, das Warten, der Honeypot — alles richtig. Mira, du hast heute mit deiner Geduld mehr erreicht als jeder Hitzkopf mit einem schnellen Zugriff. Danke.
+> 둘 다 동시에, 다 보전. 그럼 그 모든 신중함, 기다림, 꿀단지 — 다 옳았어. 미라, 넌 오늘 네 인내로 성급한 자가 빠른 접속으로 이룰 것보다 더 이뤘어. 고마워.
+MIRA: Wir haben es zusammen erreicht, Jan. Und weißt du, was das Schönste ist? Auf einem der Whiteboards in Friedrichshain stand noch unser erfundener Brehme. Der Mann, den es nie gab. Er hat eine ganze Desinformationsfabrik zu Fall gebracht und existiert nicht einmal. Das ist fast poetisch.
+> 우린 같이 이뤘어요, 얀. 그리고 뭐가 제일 아름다운지 알아요? 프리드리히스하인 화이트보드 중 하나에 우리 지어낸 브레메가 아직 있었어요. 한 번도 없던 남자. 그가 허위정보 공장 전체를 무너뜨렸는데 존재하지도 않아요. 거의 시적이에요.
+JAN: Ein erfundener Mann, der die Lügenfabrik zu Fall bringt. Das ist die beste Überschrift, die wir nie drucken werden, weil sie zu schön ist, um wahr zu klingen. Aber wir werden sie kennen. Wir, die wir dabei waren.
+> 거짓말 공장을 무너뜨린 지어낸 남자. 우리가 결코 인쇄 안 할 최고의 제목이야, 참이라기엔 너무 아름다워서. 근데 우린 그걸 알아. 거기 있었던 우리는.
+HELENE: Und jetzt, Jan, geh nach Hause. Oder besser: Geh zu Elke. Sweta wartet dort. Heute ist der Tag, an dem sie zum ersten Mal seit Wochen wieder ganz sie selbst sein kann. Und Leon kommt auch. Heute Abend sagen wir ihm alles. Die ganze Wahrheit. So, wie wir es ihm versprochen haben.
+> 그리고 이제, 얀, 집에 가요. 아니 더 낫게, 엘케네 가요. 스베타가 거기 기다려요. 오늘은 그 사람이 몇 주 만에 처음으로 다시 온전히 자신일 수 있는 날이에요. 그리고 레온도 와요. 오늘 저녁 그에게 전부 말해요. 진실 전부를. 약속한 대로.
+JAN: Heute Abend bei Elke, mit Sweta, die wieder Sweta ist, und mit Leon, dem wir seine Ehre vollständig zurückgeben. Das ist das Ende von Teil vier, Helene. Kein Triumph mit Blitzlicht. Nur ein paar Menschen in einer Kneipe, die wieder sie selbst sein dürfen. Das ist mehr wert als jede Schlagzeile.
+> 오늘 저녁 엘케네서, 다시 스베타인 스베타와, 명예를 온전히 돌려줄 레온과. 그게 4부의 끝이에요, 헬레네. 플래시 터지는 승리가 아니라. 그저 다시 자신일 수 있는 선술집의 몇 사람. 그게 어떤 헤드라인보다 값져요.
+HELENE: Und die Geschichte selbst? Wann drucken wir sie? Ganz Deutschland wird wissen wollen, was in Friedrichshain gefunden wurde.
+> 그럼 기사 자체는요? 언제 인쇄해요? 온 독일이 프리드리히스하인에서 뭐가 발견됐는지 알고 싶어 할 거예요.
+JAN: Wir drucken, wenn Dana es erlaubt, keinen Tag früher. Und dann drucken wir nicht «Spreewerk hat gesiegt». Wir drucken, wie eine Desinformationsfabrik funktioniert, wie man sie erkennt, und wie zwei Kunden dieselbe Maschine fütterten. Der Fall ist nicht unser Triumph. Er ist unsere Lektion an die Leser.
+> 다나가 허락하면 인쇄해요, 하루도 일찍 말고. 그리고 «Spreewerk가 이겼다»를 인쇄 안 해요. 허위정보 공장이 어떻게 작동하는지, 어떻게 알아보는지, 두 고객이 어떻게 같은 기계를 먹였는지 인쇄해요. 사건은 우리 승리가 아니에요. 독자에게 주는 우리 수업이에요.
+HELENE: Eine Lektion statt eines Triumphs. Das ist genau der Unterschied zwischen uns und denen. Sie wollen, dass die Leute weniger verstehen. Wir wollen, dass sie mehr verstehen. Am Ende ist das die einzige Waffe, die wirklich wirkt: ein Leser, der selbst erkennt, wenn man ihn täuschen will.
+> 승리 대신 수업. 그게 바로 우리랑 그들의 차이예요. 그들은 사람들이 덜 이해하길 원해요. 우린 더 이해하길 원하고요. 결국 그게 정말 통하는 유일한 무기예요. 자길 속이려 할 때 스스로 알아보는 독자.
+JAN: Ein Leser, der selbst erkennt. Das ist das Ziel von allem, was wir tun, Helene. Nicht ein einzelner Fall, nicht ein einzelner gefangener Verräter. Sondern Menschen, die klüger sind als die Lüge. Patrick sagte, der Krieg läuft seit Jahrzehnten. Dann ist das unsere Kriegsführung: nicht Menschen gegen Menschen, sondern Klarheit gegen Verwirrung. Und Klarheit gewinnt. Langsam, aber sie gewinnt.
+> 스스로 알아보는 독자. 그게 우리가 하는 모든 것의 목표예요, 헬레네. 단일 사건도, 잡은 배신자 하나도 아니라. 거짓말보다 똑똑한 사람들. 파트리크가 전쟁이 수십 년째라고 했죠. 그럼 그게 우리 전쟁 방식이에요. 사람 대 사람이 아니라 명료함 대 혼란. 그리고 명료함이 이겨요. 천천히, 근데 이겨요.
