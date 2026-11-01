@@ -1,0 +1,339 @@
+@part 2
+@ep 10
+@title Spandau, Donnerstag
+@sub 슈판다우, 목요일 · 6월 말, 생명이 먼저냐 증거가 먼저냐, 그리고 비어 있던 현장
+@info 대사 150턴 · 난이도 B2 · 배경: 2-9화 며칠 뒤(2027년 6월 말), Spreewerk 편집국, 슈판다우의 다리, 가판대
+@cast MIRA | 미라 아이든 (31) · 데이터 기자 (위장: Sabine)
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast DANA | 다나 슈스터 (48) · LKA 국가 보안 경찰 수사관
+@note ※ 이 화의 핵심은 언론의 한계입니다. 임박한 범죄로 사람의 생명이 위험하면, 기자는 기사보다 사람을 먼저 생각해야 합니다. 그러나 경찰에 알리는 순간 취재의 독립성과 취재원 보호가 흔들릴 수 있습니다. 그리고 정보가 새어 나가면 범인은 사라집니다. 이 화의 사건은 가상입니다.
+@note ※ 표현 초점: Gefahrenabwehr · Leben geht vor · anonymer Hinweis · Quellenschutz · Abwägung · Verantwortung · das Leck
+@next 2부 11화 — «Kuhlmanns Liste»(쿨만의 목록) — 엔지니어 쿨만이 원본 목록을 넘겨준다. 목록에는 공격당한 두 곳과 '다음 후보' 다섯 곳이 정확히 들어 있다. 그리고 쿨만이 회사에서 정직 처분을 받는다.
+
+# 콜드 오픈 — DREI TAGE VORHER
+MIRA: Jan. In der Gruppe. Es wird konkreter.
+> 얀. 그룹에서요. 점점 구체적이 돼요.
+JAN: Lies.
+> 읽어 봐.
+MIRA: «Elektriker_Spandau: Donnerstag ist der Tag. Haltet euch bereit. Die Pakete stehen. Wenn das Licht ausgeht, seid ihr die Ersten.»
+> «일렉트리커_슈판다우: 목요일이 그날이다. 대기하라. 패키지는 준비됐다. 불이 꺼지면 너희가 첫 번째다.»
+SWETA: «Wenn das Licht ausgeht.» Das ist fast eine Ankündigung.
+> «불이 꺼지면.» 그건 거의 예고네요.
+JAN: Fast. Oder es ist Werbung mit dramatischen Worten. «Wenn das Licht ausgeht, seid ihr die Ersten» könnte auch heißen: Ihr seid die ersten Kunden.
+> 거의요. 아니면 극적인 말로 하는 광고거나. «불이 꺼지면 너희가 첫 번째다»는 «너희가 첫 고객이다»일 수도 있어요.
+MIRA: Das dachte ich auch. Aber dann kam das.
+> 저도 그렇게 생각했어요. 근데 이게 왔어요.
+JAN: Was?
+> 뭐가?
+MIRA: Eine Antwort. Von einem Account «Nordwind_88». «Und wenn es diesmal richtig dunkel wird?» Und «Elektriker» antwortet: «Dann ist es nicht mehr nur Werbung.»
+> 답글이요. «노르트빈트_88»이라는 계정이. «이번엔 진짜로 깜깜해지면?» 그러자 «일렉트리커»가 답해요. «그럼 더 이상 광고만은 아니지.»
+SWETA: Das ist etwas anderes. Das ist eine Andeutung.
+> 그건 다른 거예요. 그건 암시예요.
+MIRA: Eine Andeutung. Keine klare Ankündigung. Aber eine Andeutung auf Donnerstag. In Spandau. Mit drei Brücken ohne Kamera.
+> 암시요. 분명한 예고는 아니고요. 근데 목요일을 암시하는. 슈판다우에서. 카메라 없는 다리 세 곳이 있는.
+JAN: Helene muss das sofort sehen. Und Katrin.
+> 헬레네가 당장 봐야 해. 그리고 카트린도.
+MIRA: Noch etwas. «Nordwind_88». Den Account kenne ich. Er ist neu. Drei Wochen alt. Und er stellt immer genau die Fragen, die den «Elektriker» zum Reden bringen.
+> 하나 더요. «노르트빈트_88». 그 계정 알아요. 새거예요. 3주 됐어요. 그리고 늘 «일렉트리커»가 입을 열게 만드는 질문만 던져요.
+JAN: Als ob «Nordwind» und «Elektriker» zusammenspielen?
+> «노르트빈트»랑 «일렉트리커»가 짜고 치는 것처럼?
+MIRA: Oder als ob «Nordwind» auch kein echter Prepper ist. Sondern jemand, der die Drohung lauter machen will.
+> 아니면 «노르트빈트»도 진짜 대비족이 아니거나요. 위협을 더 크게 키우려는 누군가거나.
+SWETA: Zwei Fake-Accounts, die sich gegenseitig die Bälle zuspielen. Für ein Publikum von echten, ängstlichen Menschen.
+> 서로 공을 주고받는 가짜 계정 둘. 진짜로 겁먹은 사람들을 관객으로 두고요.
+JAN: Das ist Theater. Aber wozu? Um Angst zu verkaufen? Oder um einen echten Anschlag vorzubereiten?
+> 그건 연극이야. 근데 왜? 공포를 팔려고? 아니면 진짜 공격을 준비하려고?
+MIRA: Das ist genau die Frage, die ich nicht beantworten kann. Noch nicht.
+> 그게 바로 제가 답할 수 없는 질문이에요. 아직은요.
+
+# 장면 1 — DIE ABWÄGUNG
+HELENE: Lies es noch einmal. Laut. Jedes Wort.
+> 다시 읽어요. 소리 내어. 한 마디도 빠짐없이.
+MIRA: «Donnerstag ist der Tag. Haltet euch bereit. Wenn das Licht ausgeht, seid ihr die Ersten.» Und: «Dann ist es nicht mehr nur Werbung.»
+> «목요일이 그날이다. 대기하라. 불이 꺼지면 너희가 첫 번째다.» 그리고 «그럼 더 이상 광고만은 아니지.»
+KATRIN: Juristisch ist das keine klare Ankündigung einer Straftat. Kein Ort im Detail. Keine Methode. Nur Andeutungen.
+> 법적으로는 범죄의 명확한 예고가 아니에요. 구체적인 장소도 없고. 방법도 없고. 암시뿐이에요.
+JAN: Aber zusammen mit allem anderen? Die leeren Kameras, die Postleitzahlen, der Mann an der Brücke?
+> 근데 나머지 전부랑 합치면요? 빈 카메라, 우편번호, 다리의 그 남자?
+KATRIN: Zusammen ergibt es einen begründeten Verdacht. Aber für die Polizei zählt das anders als für uns.
+> 합치면 합리적 의심이 돼요. 근데 경찰한테는 우리랑 다르게 계산돼요.
+HELENE: Lassen wir das Juristische. Die eigentliche Frage ist einfacher. Und schwerer. Was, wenn am Donnerstag wirklich der Strom ausfällt? In Spandau? In Pflegeheimen?
+> 법 얘긴 접어 둬요. 진짜 질문은 더 단순해요. 그리고 더 어렵고요. 목요일에 정말 정전이 되면요? 슈판다우에서? 요양원에서?
+SWETA: Dann haben wir es gewusst. Und geschwiegen. Für eine bessere Geschichte.
+> 그럼 우린 알고 있었던 거죠. 그리고 침묵한 거고요. 더 좋은 기사를 위해.
+LEON: Das können wir nicht. Oder?
+> 그럴 순 없잖아요. 그렇죠?
+JAN: Nein. Das können wir nicht. Leben geht vor. Immer. Das ist keine Frage.
+> 응. 그럴 순 없어. 생명이 먼저야. 언제나. 그건 질문거리가 아니야.
+HELENE: Dann ist die Frage nur: Wie warnen wir? Ohne uns selbst und unsere Quellen zu verbrennen?
+> 그럼 질문은 이것뿐이에요. 어떻게 경고하느냐? 우리 자신과 취재원을 태우지 않고?
+MIRA: Wenn ich die Chats der Polizei gebe, ist Sabine verbrannt. Und meine Monate Arbeit sind weg.
+> 제가 그 대화를 경찰한테 주면 자비네는 끝이에요. 그리고 제 몇 달 작업도 사라지고요.
+JAN: Und schlimmer: Vielleicht erkennen sie, dass eine «Sabine» die Quelle war. Und suchen sie.
+> 그리고 더 나쁜 건, 그들이 «자비네»가 출처였다는 걸 알아챌 수도 있어요. 그리고 그 사람을 찾을 수도 있고요.
+KATRIN: Es gibt einen Weg. Ein anonymer Hinweis an die Polizei. Ohne Quelle, ohne Chats. Nur: «Achtet am Donnerstag auf diese drei Brücken in Spandau.»
+> 방법이 있어. 경찰에 익명 제보. 출처도, 대화 내용도 없이. 그냥 «목요일에 슈판다우의 이 다리 세 곳을 주시하라»고만.
+HELENE: Reicht das, damit sie handeln?
+> 그걸로 그들이 움직일까요?
+KATRIN: Vielleicht. Wenn der Hinweis konkret genug ist. Und wenn jemand bei der Polizei ihn ernst nimmt.
+> 어쩌면요. 제보가 충분히 구체적이면요. 그리고 경찰 쪽 누군가가 진지하게 받아들이면요.
+JAN: Dana nimmt ihn ernst. Wenn er von mir kommt.
+> 다나는 진지하게 받아들여요. 그게 저한테서 오면요.
+HELENE: Aber dann weiß Dana, dass wir eine Quelle in der Szene haben. Oder in der Gruppe.
+> 근데 그럼 다나는 우리가 운동권에 취재원이 있다는 걸 알게 돼요. 아니면 그 그룹에.
+JAN: Dana weiß das längst. Sie ist nicht dumm. Die Frage ist, ob sie es beweisen kann. Und ob sie es will.
+> 다나는 벌써 알아요. 바보가 아니니까. 문제는 그걸 증명할 수 있느냐. 그리고 그러고 싶으냐죠.
+LEON: Könnten wir nicht einfach anonym schreiben? Einen Artikel. «Mögliche Gefahr am Donnerstag.» Dann wären alle gewarnt.
+> 그냥 익명으로 쓰면 안 돼요? 기사로요. «목요일 위험 가능성.» 그럼 다들 경고받잖아요.
+JAN: Und der Täter auch. Er liest Zeitung. Dann verschiebt er es. Und wir haben Panik erzeugt, ohne etwas zu verhindern.
+> 그럼 범인도 경고받아. 그 사람도 신문 읽어. 그럼 연기하겠지. 그리고 우린 아무것도 못 막으면서 공포만 일으킨 거고.
+HELENE: Panik ist genau das, womit diese Leute Geld verdienen. Wir dürfen nicht ihr Werkzeug werden.
+> 공포는 바로 그 사람들이 돈 버는 수단이에요. 우리가 그들의 도구가 돼선 안 돼요.
+SWETA: Der beste Journalismus ist manchmal der, den niemand sieht. Ein Anschlag, der nicht passiert, steht in keiner Zeitung.
+> 최고의 저널리즘은 가끔 아무도 못 보는 거예요. 일어나지 않은 공격은 어느 신문에도 안 실리니까요.
+
+# 장면 2 — LEBEN GEHT VOR
+JAN: Ich habe eine Entscheidung. Aber ich treffe sie nicht allein. Nicht diese.
+> 결정했어요. 근데 혼자 내리진 않을게요. 이건 아니에요.
+HELENE: Sag.
+> 말해요.
+JAN: Wir warnen. Heute. Einen anonymen, konkreten Hinweis an Dana. Wir opfern vielleicht Monate Arbeit. Aber kein Leben.
+> 경고해요. 오늘. 익명으로, 구체적으로 다나한테 제보. 어쩌면 몇 달 작업을 버리게 되죠. 하지만 생명은 안 버려요.
+MIRA: Und Sabine?
+> 그럼 자비네는?
+JAN: Sabine bleibt vorsichtig. Wir geben Dana die drei Brücken und den Donnerstag. Nicht die Gruppe. Nicht die Chats. Nicht «Sabine».
+> 자비네는 조심하는 거야. 다나한테 다리 세 곳이랑 목요일만 줘. 그룹은 말고. 대화 내용도 말고. «자비네»도 말고.
+SWETA: Das ist ein Kompromiss. Wir schützen die Quelle und wir schützen Leben. Nicht perfekt. Aber ehrlich.
+> 그건 타협이에요. 취재원을 지키고 생명도 지키는. 완벽하진 않지만. 정직하죠.
+LEON: Und die Geschichte? Verlieren wir sie?
+> 그럼 기사는요? 날리는 거예요?
+JAN: Vielleicht. Wenn die Polizei Donnerstag Streifen schickt, passiert nichts. Und wenn nichts passiert, haben wir keinen Anschlag. Nur einen Verdacht.
+> 어쩌면. 경찰이 목요일에 순찰을 보내면 아무 일도 안 일어나. 그리고 아무 일도 안 일어나면 공격이 없는 거지. 의심만 남고.
+HELENE: Das ist das Paradox unserer Arbeit. Wenn wir erfolgreich warnen, sieht es aus, als hätten wir uns geirrt.
+> 그게 우리 일의 역설이에요. 성공적으로 경고하면, 우리가 틀린 것처럼 보이죠.
+KATRIN: Und das ist in Ordnung. Ein verhinderter Anschlag ist besser als eine gute Geschichte über einen echten.
+> 그리고 그게 맞는 거예요. 막은 공격이 실제로 일어난 공격에 대한 좋은 기사보다 나아요.
+JAN: Stimmen wir ab. Wer ist dafür, zu warnen?
+> 투표해요. 경고하는 데 찬성하는 사람?
+MIRA: Ich. Obwohl es meine Arbeit kostet. Ich.
+> 저요. 제 작업이 날아가도요. 저요.
+SWETA: Ich.
+> 저요.
+LEON: Ich.
+> 저요.
+TOBI: Ick ooch. Klar.
+= Ich auch. Klar.
+> 나도. 당연하지.
+HELENE: Einstimmig. Dann warnt ihr. Jan, du rufst Dana an. Vom Mobiltelefon. Kurz. Klar. Keine Namen.
+> 만장일치네요. 그럼 경고해요. 얀, 당신이 다나한테 전화해요. 휴대폰으로. 짧게. 명확하게. 이름은 없이.
+JAN: Und wenn sie fragt, woher ich das weiß?
+> 그 사람이 어떻게 아냐고 물으면요?
+HELENE: Dann sagst du die Wahrheit, die du sagen darfst: aus einer Recherche. Quellenschutz. Punkt.
+> 그럼 말할 수 있는 진실을 말해요. 취재 과정에서 알았다. 취재원 보호. 끝.
+JAN: Und wenn sie fragt, ob wir in der Prepper-Szene eine Quelle haben?
+> 그 사람이 우리가 대비족 쪽에 취재원이 있냐고 물으면요?
+HELENE: Dann sagst du gar nichts. Schweigen ist auch eine Antwort. Und die einzige, die eine Quelle schützt.
+> 그럼 아무 말도 하지 마요. 침묵도 답이에요. 그리고 취재원을 지키는 유일한 답이고요.
+KATRIN: Wichtig: Du darfst Dana nicht belügen. Aber du musst ihr auch nicht alles sagen. Zwischen diesen beiden liegt unser Beruf.
+> 중요한 건, 다나한테 거짓말하면 안 돼. 근데 다 말할 필요도 없어. 그 둘 사이에 우리 직업이 있어.
+JAN: Nicht lügen, nicht alles sagen. Ich mache das seit zwanzig Jahren. Es wird nie leichter.
+> 거짓말 안 하기, 다 말하지 않기. 20년째 하는데. 한 번도 쉬워진 적이 없어요.
+
+# 장면 3 — DER ANRUF AN DANA
+DANA: Schuster.
+> 슈스터입니다.
+JAN: Frau Schuster. Jan Kowalczyk. Nicht als Journalist jetzt. Als Mensch. Hören Sie bitte zu.
+> 슈스터 씨. 얀 코발치크입니다. 지금은 기자가 아니라. 사람으로서요. 들어 주세요.
+DANA: Ich höre.
+> 듣고 있어요.
+JAN: Am Donnerstag könnte in Spandau etwas passieren. An drei Kabelbrücken. Die Postleitzahlen: 13589, 13593, 13595. Die Brücken ohne Kameras.
+> 목요일에 슈판다우에서 무슨 일이 생길 수 있어요. 케이블 다리 세 곳에. 우편번호는 13589, 13593, 13595. 카메라 없는 다리들이요.
+DANA: Woher wissen Sie das?
+> 그걸 어떻게 아세요?
+JAN: Aus einer Recherche. Mehr darf ich nicht sagen. Quellenschutz. Aber ich würde nicht anrufen, wenn ich es nicht ernst meinte.
+> 취재 과정에서요. 그 이상은 말 못 해요. 취재원 보호. 근데 진심이 아니면 전화 안 했을 거예요.
+DANA: Sie wissen, dass ein anonymer Hinweis von einem Journalisten mich in eine schwierige Lage bringt?
+> 기자한테서 온 익명 제보가 날 곤란한 처지에 놓는 거 아세요?
+JAN: Ich weiß. Und ich weiß, dass Sie trotzdem das Richtige tun. Deshalb rufe ich Sie an und nicht die Pressestelle.
+> 알아요. 그리고 그래도 옳은 일을 하실 분이란 걸 알아요. 그래서 홍보실 말고 당신한테 전화하는 거예요.
+DANA: Ein konkreter Tag, drei konkrete Orte. Das reicht für erhöhte Präsenz. Mehr kann ich nicht versprechen.
+> 구체적인 날, 구체적인 장소 세 곳. 그걸론 경비를 강화할 수 있어요. 그 이상은 약속 못 해요.
+JAN: Erhöhte Präsenz reicht. Wenn jemand sieht, dass die Polizei da ist, macht er nichts.
+> 경비 강화면 충분해요. 경찰이 있는 걸 보면 아무것도 안 할 테니까요.
+DANA: Oder er verschiebt es. Auf einen Tag, an dem wir nicht da sind.
+> 아니면 연기하겠죠. 우리가 없는 날로.
+JAN: Das ist das Risiko. Aber am Donnerstag ist dann niemand in Gefahr.
+> 그게 위험이죠. 그래도 목요일엔 아무도 위험하지 않아요.
+DANA: Herr Kowalczyk. Eine Frage, und Sie müssen nicht antworten. Ist Ihre Quelle in Gefahr?
+> 코발치크 씨. 질문 하나요, 답 안 하셔도 돼요. 당신 취재원이 위험한가요?
+JAN: Jede Quelle, die der Wahrheit nahekommt, ist in Gefahr. Das wissen Sie besser als ich.
+> 진실에 가까이 가는 취재원은 전부 위험해요. 저보다 잘 아시잖아요.
+DANA: Gut. Ich kümmere mich um Donnerstag. Und, Herr Kowalczyk: Danke. Das war der Mensch, nicht der Journalist. Das weiß ich zu schätzen.
+> 좋아요. 목요일은 제가 맡을게요. 그리고 코발치크 씨, 고마워요. 방금은 사람이었지 기자가 아니었어요. 그건 높이 사요.
+JAN: Wir sind beides. Immer gleichzeitig. Das ist das Schwere.
+> 우린 둘 다예요. 늘 동시에. 그게 어려운 점이죠.
+DANA: Noch etwas, Herr Kowalczyk. Wenn das klappt und am Donnerstag nichts passiert, bekommen Sie keine Geschichte. Stört Sie das?
+> 하나 더요, 코발치크 씨. 이게 잘돼서 목요일에 아무 일도 없으면, 당신은 기삿거리를 못 얻어요. 그게 신경 쓰여요?
+JAN: Es stört mich, wenn Menschen zu Schaden kommen. Nicht, wenn eine Geschichte klein bleibt.
+> 사람이 다치는 게 신경 쓰이죠. 기사가 작아지는 건 아니고요.
+DANA: Dann sind wir uns ähnlicher, als ich dachte. Auf Wiederhören. Und wir haben nicht geredet.
+> 그럼 우린 제 생각보다 닮았네요. 안녕히 계세요. 그리고 우린 얘기 안 했어요.
+JAN: Wir haben nie geredet, Frau Schuster.
+> 우린 한 번도 얘기한 적 없죠, 슈스터 씨.
+
+# 장면 4 — DONNERSTAG
+TOBI: Donnerstag, achtzehn Uhr. Ick steh in Spandau. An der mittleren Brücke.
+= Donnerstag, achtzehn Uhr. Ich stehe in Spandau. An der mittleren Brücke.
+> 목요일 여섯 시. 슈판다우에 와 있어. 가운데 다리에.
+JAN: Siehst du Polizei?
+> 경찰 보여?
+TOBI: Nee. Keen einziger Streifenwagen. Nischt.
+= Nein. Kein einziger Streifenwagen. Nichts.
+> 아니. 순찰차 한 대도 없어. 아무것도.
+JAN: Keine Polizei? Dana hat doch «erhöhte Präsenz» gesagt.
+> 경찰이 없어? 다나가 «경비 강화»한다고 했는데.
+TOBI: Ick seh keene. Und, Jan: Ick seh ooch keene Kappe. Niemand an den Brücken. Allet ruhig.
+= Ich sehe keine. Und, Jan: Ich sehe auch keine Kappe. Niemand an den Brücken. Alles ruhig.
+> 안 보여. 그리고 얀, 모자 쓴 남자도 안 보여. 다리에 아무도 없어. 다 조용해.
+MIRA: In der Gruppe ist es auch still. Seit heute Morgen. Keine Nachricht. Nichts von «Elektriker».
+> 그룹도 조용해요. 오늘 아침부터요. 메시지 없음. «일렉트리커»도 아무 말 없고요.
+SWETA: Entweder haben wir den Anschlag verhindert. Oder es gab nie einen.
+> 공격을 막았거나. 아니면 애초에 공격이 없었거나.
+JAN: Oder er wusste, dass die Polizei kommen würde. Und hat alles abgesagt. Vorher.
+> 아니면 경찰이 올 걸 알았거나. 그래서 전부 취소했거나. 미리.
+MIRA: Jan. Warte. Eine neue Nachricht. Von «Elektriker_Spandau». Gerade eben.
+> 얀. 잠깐. 새 메시지. «일렉트리커_슈판다우»한테서. 방금.
+HELENE: Lies.
+> 읽어요.
+MIRA: «Kampagne abgesagt. Zu viel Aufmerksamkeit. Jemand hat geplaudert. Wir finden raus, wer.»
+> «캠페인 취소. 관심이 너무 많음. 누가 입을 놀렸다. 누군지 알아낼 것.»
+SWETA: «Wir finden raus, wer.» Das ist eine Drohung an die eigene Gruppe.
+> «누군지 알아낼 것.» 그건 자기 그룹을 향한 협박이에요.
+MIRA: Und an Sabine. Sabine ist in dieser Gruppe. Elf Leute, und einer soll der Verräter sein.
+> 그리고 자비네한테도요. 자비네가 그 그룹에 있어요. 열한 명, 그중 하나가 배신자라는 거죠.
+HELENE: Mira, ab jetzt schreibt Sabine gar nichts mehr. Nur lesen. Keine Frage, kein Kommentar. Nichts, was Aufmerksamkeit zieht.
+> 미라, 이제부터 자비네는 아무것도 안 써요. 읽기만. 질문도, 댓글도 없이. 관심을 끄는 건 아무것도요.
+MIRA: Verstanden. Sabine wird unsichtbar. Eine stille alte Frau mit einem Hund.
+> 알겠어요. 자비네는 투명 인간이 돼요. 개 한 마리 있는 조용한 노인.
+JAN: Und wenn sie Sabine direkt fragen? «Wo warst du am Donnerstag?»
+> 그럼 자비네한테 직접 물으면? «목요일에 어디 있었어?»
+MIRA: Dann sagt Sabine die Wahrheit, die Sabine sagen würde: «Zu Hause, mit Fussel, bei schlechtem Wetter.» Nichts Verdächtiges.
+> 그럼 자비네는 자비네가 할 만한 진실을 말해요. «집에, 푸셀이랑, 날씨가 안 좋아서.» 수상할 것 없죠.
+LEON: «Jemand hat geplaudert.» Sie wissen, dass gewarnt wurde.
+> «누가 입을 놀렸다.» 경고가 있었다는 걸 아는 거예요.
+JAN: Und sie suchen das Leck. In ihrer eigenen Gruppe.
+> 그리고 그 구멍을 찾는 거지. 자기들 그룹 안에서.
+MIRA: In einer Gruppe, in der auch Sabine ist.
+> 자비네도 있는 그룹에서요.
+JAN: Mira. Wie viele Leute wussten vom Donnerstag und von den drei Brücken? Genau diese Kombination?
+> 미라. 목요일이랑 다리 세 곳을 안 사람이 몇 명이야? 정확히 그 조합을?
+MIRA: In der Gruppe: alle elf. Aber außerhalb? Nur wir. Und Dana. Und wer bei der Polizei den Hinweis bekommen hat.
+> 그룹에선 열한 명 전부요. 근데 밖에서는요? 우리뿐이에요. 그리고 다나. 그리고 경찰에서 그 제보를 받은 사람.
+SWETA: Und wenn das Leck nicht bei uns ist, sondern bei der Polizei?
+> 그럼 그 구멍이 우리 쪽이 아니라 경찰 쪽이면요?
+JAN: Dann hat jemand bei der Polizei dem «Elektriker» gesagt, dass gewarnt wurde. Das wäre… ein großes Problem.
+> 그럼 경찰 쪽 누군가가 «일렉트리커»한테 경고가 있었다고 말해 준 거지. 그건… 큰 문제야.
+MIRA: Oder das Leck ist bei uns. Und das ist ein noch größeres Problem.
+> 아니면 그 구멍이 우리 쪽이거나요. 그럼 더 큰 문제죠.
+HELENE: Ruhig. Wir haben zwei Verdächtige: die Polizei und Patrick. Beide sind möglich. Keiner ist bewiesen.
+> 진정해요. 용의자는 둘이에요. 경찰과 파트리크. 둘 다 가능하고. 둘 다 증명 안 됐어요.
+JAN: Und wir haben einen Vorteil. Sie wissen nicht, dass wir Patrick verdächtigen.
+> 그리고 우리한텐 유리한 점이 있어요. 그들은 우리가 파트리크를 의심하는 걸 몰라요.
+SWETA: Solange wir normal tun. Freundlich. Als wäre alles in Ordnung.
+> 우리가 평소처럼 구는 한요. 친절하게. 다 괜찮은 것처럼요.
+LEON: Das ist schwer. Jemandem freundlich zu sein, den man verdächtigt.
+> 그거 어려워요. 의심하는 사람한테 친절하게 구는 거요.
+JAN: Das ist das Schwerste an diesem Beruf, Leon. Schwerer als jede Recherche.
+> 그게 이 일에서 제일 어려운 거야, 레온. 어떤 취재보다도.
+
+# 장면 5 — ZWEI LECKS, EINE FRAGE
+HELENE: Also haben wir heute nichts verhindert. Oder doch? Wir wissen es nicht.
+> 그럼 오늘 우린 아무것도 못 막은 거예요. 아니 막았나? 우린 몰라요.
+KATRIN: Ihr habt das Richtige getan. Das ist das Einzige, was zählt. Das Ergebnis kennt niemand.
+> 너희는 옳은 일을 했어. 중요한 건 그것뿐이야. 결과는 아무도 몰라.
+JAN: Aber jetzt haben wir ein neues Problem. Sie suchen ein Leck. Und wir müssen wissen: Sind wir das Leck? Oder jemand anderes?
+> 근데 이제 새 문제가 생겼어요. 그들이 구멍을 찾아요. 그리고 우린 알아야 해요. 우리가 그 구멍인가? 아니면 다른 사람인가?
+MIRA: Ich bin es nicht. Sabine hat nie über Donnerstag und die drei Brücken zusammen geschrieben. Ich habe nur gelesen.
+> 전 아니에요. 자비네는 목요일이랑 다리 세 곳을 묶어서 쓴 적이 없어요. 읽기만 했어요.
+SWETA: Dann bleiben zwei Möglichkeiten. Entweder jemand bei der Polizei. Oder jemand, der unsere Warnung mitbekommen hat.
+> 그럼 두 가지 가능성이 남아요. 경찰 쪽 누군가. 아니면 우리 경고를 엿들은 누군가.
+JAN: Wer wusste von unserem Anruf an Dana?
+> 다나한테 전화한 걸 아는 사람이 누구야?
+LEON: Wir alle. Und… Patrick war im Haus. Als du telefoniert hast.
+> 우리 전부요. 그리고… 파트리크가 집에 있었어요. 전화하실 때.
+JAN: Patrick war im Serverraum. Zwei Türen weiter.
+> 파트리크는 서버실에 있었어. 문 두 개 너머에.
+MIRA: Mit Zugang zu unserem Netzwerk. Und vielleicht zu unseren Telefonen über das WLAN.
+> 우리 네트워크에 접근할 수 있는. 그리고 어쩌면 와이파이로 우리 전화에도.
+HELENE: Du hast nicht über WLAN telefoniert, Jan?
+> 와이파이로 통화 안 했죠, 얀?
+JAN: Nein. Mobilfunk. Wie immer in solchen Fällen.
+> 아니요. 데이터망으로. 이런 경우엔 늘 그렇듯이요.
+MIRA: Aber du hast den Hinweis vorher im Besprechungsraum laut besprochen. Mit uns. Und der Köder-Server zeichnet nichts im Raum auf. Aber ein Mikrofon schon.
+> 근데 그 제보를 미리 회의실에서 소리 내어 논의했잖아요. 우리랑. 그리고 미끼 서버는 방 안 소리를 녹음 안 하지만, 마이크라면 녹음하죠.
+SWETA: Ein Mikrofon. In unserem Besprechungsraum. Das müssen wir prüfen.
+> 마이크. 우리 회의실에. 그건 확인해야 해요.
+JAN: Heute Nacht. Wenn Patrick weg ist. Wir durchsuchen den Raum. Jede Steckdose, jeden Rauchmelder.
+> 오늘 밤에. 파트리크가 가면. 방을 뒤지는 거야. 콘센트 하나하나, 화재경보기 하나하나.
+HELENE: Und wenn wir etwas finden?
+> 그러다 뭘 찾으면요?
+JAN: Dann wissen wir, dass das Leck in unserem eigenen Haus sitzt. Und einen Namen hat.
+> 그럼 그 구멍이 우리 집 안에 있다는 걸 아는 거죠. 그리고 이름이 있다는 것도.
+KATRIN: Und wenn ihr etwas findet, fasst ihr es nicht an. Kein Fingerabdruck von euch. Ihr fotografiert, dokumentiert, und dann reden wir.
+> 그리고 뭘 찾으면 손대지 마. 너희 지문이 묻으면 안 돼. 사진 찍고, 기록하고, 그다음에 얘기해.
+JAN: Warum nicht anfassen? Es ist unser Raum.
+> 왜 손대면 안 돼? 우리 방인데.
+KATRIN: Weil es ein Beweismittel sein könnte. Wenn das vor Gericht geht, zählt jede Spur. Und weil ihr nicht wisst, ob noch etwas daran hängt.
+> 증거물일 수 있으니까. 재판까지 가면 흔적 하나하나가 중요해. 그리고 거기 뭐가 더 달려 있는지 모르니까.
+SWETA: Ein Mikrofon kann einen Sender haben. Wer es anfasst, warnt vielleicht den, der zuhört.
+> 마이크엔 송신기가 있을 수 있어요. 손대는 사람이 어쩌면 듣고 있는 자한테 경고하는 거죠.
+HELENE: Also: suchen, nicht anfassen, fotografieren. Und niemand sagt ein Wort in diesem Raum, bis wir sicher sind.
+> 그러니까 찾고, 손대지 말고, 사진 찍기. 그리고 확신할 때까지 이 방에선 누구도 한 마디도 안 해요.
+
+# 엔딩 — EIN KLEINES LICHT
+TOBI: Jan. Ick bin noch in Spandau. Ick wollte noch wat kieken.
+= Jan. Ich bin noch in Spandau. Ich wollte noch was gucken.
+> 얀. 나 아직 슈판다우에 있어. 뭘 좀 더 보고 싶어서.
+JAN: Was denn?
+> 뭘?
+TOBI: Die mittlere Brücke. Die leere Kamerahalterung. Da hängt jetzt wieder 'ne Kamera.
+= Die mittlere Brücke. Die leere Kamerahalterung. Da hängt jetzt wieder eine Kamera.
+> 가운데 다리. 그 빈 카메라 거치대. 거기 지금 카메라가 다시 달려 있어.
+JAN: Wieder eine Kamera? Seit wann?
+> 카메라가 다시? 언제부터?
+TOBI: Keene Ahnung. Aber die is neu. Die Schrauben glänzen noch. Jemand hat se heute anjebracht. Am Tag des «Anschlags».
+= Keine Ahnung. Aber die ist neu. Die Schrauben glänzen noch. Jemand hat sie heute angebracht. Am Tag des «Anschlags».
+> 몰라. 근데 새거야. 나사가 아직 반짝여. 누가 오늘 달았어. «공격» 당일에.
+SWETA: Sie hängen die Kamera wieder auf. Genau an dem Tag, an dem sie wissen, dass die Polizei kommt.
+> 카메라를 다시 다는 거예요. 경찰이 오는 걸 아는 바로 그날에.
+MIRA: Damit es so aussieht, als hätten sie immer eine Kamera gehabt. Als wäre nie eine abgebaut worden.
+> 늘 카메라가 있었던 것처럼 보이게요. 떼어진 적이 없는 것처럼요.
+JAN: Sie löschen ihre Spuren. In Echtzeit.
+> 흔적을 지우는 거야. 실시간으로.
+TOBI: Und, Jan: Der Mann, der die Kamera anbringt. Der trägt 'n Sentinel-Pulli. Und… 'ne teure Taucheruhr.
+= Und, Jan: Der Mann, der die Kamera anbringt. Der trägt einen Sentinel-Pulli. Und… eine teure Taucheruhr.
+> 그리고 얀. 카메라 다는 남자 말이야. 센티넬 조끼를 입었어. 그리고… 비싼 다이버 시계를 찼어.
+JAN: Marty. Marty hängt die Kamera auf, die Marty abgebaut hat. Fotografier ihn, Tobi. Von der öffentlichen Straße. Und dann komm nach Hause.
+> 마티. 마티가 떼어 낸 그 카메라를 마티가 다시 달고 있어. 찍어, 토비. 공공 도로에서. 그리고 집에 와.
+TOBI: Hab ick. Scharf. Jesicht, Pulli, Uhr, Kamera. Allet uff einem Bild.
+= Hab ich. Scharf. Gesicht, Pulli, Uhr, Kamera. Alles auf einem Bild.
+> 찍었어. 선명하게. 얼굴, 조끼, 시계, 카메라. 다 한 장에.
+JAN: Das ist das erste klare Foto von Marty. Mit einem Sentinel-Pulli. Beim Aufhängen einer Kamera.
+> 그게 마티의 첫 선명한 사진이야. 센티넬 조끼를 입고. 카메라를 다는 중에.
+MIRA: Aber beweist es etwas? Ein Mann im Sentinel-Pulli hängt eine Sentinel-Kamera auf. Das ist sein Job.
+> 근데 그게 뭘 증명해요? 센티넬 조끼 입은 남자가 센티넬 카메라를 달아요. 그게 그 사람 일이잖아요.
+JAN: Für sich allein, nein. Aber zusammen mit dem Foto aus der «Grube»? Derselbe Mann, dieselbe Uhr. Einmal Aktivist, einmal Sentinel-Mitarbeiter.
+> 그것만으론 안 되지. 근데 «그루베» 사진이랑 합치면? 같은 남자, 같은 시계. 한 번은 활동가, 한 번은 센티넬 직원.
+SWETA: Das ist die Verbindung, die Katrin wollte. Ein Gesicht, zwei Rollen.
+> 그게 카트린이 원하던 연결 고리예요. 한 얼굴, 두 역할.
+KATRIN: Es ist ein Anfang. Noch kein Beweis, dass Sentinel die Anschläge steuert. Aber ein Beweis, dass «Marty» kein Aktivist ist.
+> 시작이야. 센티넬이 공격을 조종한다는 증거는 아직 아니야. 근데 «마티»가 활동가가 아니라는 증거는 되지.
+HELENE: Und das ist schon viel. Damit entlasten wir die ganze linke Szene. Das ist eine Geschichte für sich.
+> 그것만으로도 큰 거예요. 그걸로 좌파 운동권 전체의 혐의를 벗겨요. 그 자체로 하나의 기사죠.
+JAN: Aber erst, wenn der Raum sauber ist. Kommt. Wir haben eine lange Nacht vor uns.
+> 근데 방이 깨끗해진 다음에요. 가죠. 긴 밤이 우릴 기다려요.
