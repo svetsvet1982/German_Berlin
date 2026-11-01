@@ -1,0 +1,369 @@
+@part 1
+@ep 15
+@title Gisela bleibt
+@sub 기젤라는 남는다 · 3월 중순, 철회된 해지와 선술집의 긴 밤, 그리고 낯선 메시지
+@info 대사 150턴 · 난이도 B1+ · 배경: 14화 4주 뒤(2027년 3월 중순), 선술집 «Zum letzten Groschen», Spreewerk 편집국, 베를린 주의회 도시개발위원회, 베딩의 심야 구멍가게(Späti)
+@cast GISELA | 기젤라 호프만 (78) · 세입자
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast LEON | 레온 피셔 (24) · 수습기자
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast ABGEORDNETE | 주의회 도시개발위원회 의원
+@cast STAATSSEKRETÄRIN | 주 정부 주택 담당 차관
+@cast MARCO | 마르코 하버란트 (35) · 전 Spreeblick 오브젝트 매니저
+@cast OLSZEWSKI | 타데우시 올셰프스키 (80) · 세입자
+@cast DEMIR | 외머 데미르 (55) · 키오스크 주인
+@cast BRÜCKNER | 하인츠 브뤼크너 (71) · 은퇴한 세무사
+@cast LINDEMANN | 페트라 린데만 (57) · 구청 도시개발 담당 의원
+@cast PAULA | 파울라 (23) · 4층 단기 세입자
+@cast ALLE | 모두
+@note ※ 1부 마지막 화입니다. 탐사보도는 모든 것을 해결하지 못합니다. 이 화는 '무엇을 바꿨고 무엇을 못 바꿨는지'를 솔직하게 정리하는 것으로 끝납니다. 베를린의 건배사 «Uff dit Haus!»는 엘케식 표현으로 '이 집을 위하여!'라는 뜻입니다.
+@note ※ 표현 초점: Rücknahme · vorläufig des Dienstes enthoben · Ermittlungsverfahren · Anhörung · Bundesratsinitiative · Bilanz · Neuanfang — 베를린 말 총정리: icke, det/dit, wat, jut, keene, ooch, wa?, Uff…!
+@next 2부 1화 — «Kerzen in Marzahn»(마르찬의 촛불) — 토비의 어머니가 사는 마르찬 조립식 아파트 단지에서 정전 미수 사건이 일어난다. 변전소 옆에 불탄 케이블. 1월의 악몽을 기억하는 주민들. 그리고 «Spatz»가 말한 '불이 꺼지는' 순간이 온다.
+
+# 콜드 오픈 — EIN BRIEF OHNE ANGST
+GISELA: Elke! Elke! Mach mal das Radio leiser!
+> 엘케! 엘케! 라디오 소리 좀 줄여 봐!
+ELKE: Wat is denn, Jisela? Du schreist ja wie 'ne Möwe.
+= Was ist denn, Gisela? Du schreist ja wie eine Möwe.
+> 왜 그래, 기젤라? 갈매기처럼 소리를 지르네.
+GISELA: Ein Brief. Von Dr. Sommer. Ich habe ihn noch nicht aufgemacht. Ich habe Angst.
+> 편지야. 조머 박사한테서. 아직 안 뜯었어. 무서워.
+ELKE: Jib her. Ick mach det.
+= Gib her. Ich mache das.
+> 이리 줘. 내가 할게.
+ELKE: «Sehr geehrte Frau Hoffmann, hiermit nehme ich die Kündigung vom Dezember 2026 zurück.»
+= «Sehr geehrte Frau Hoffmann, hiermit nehme ich die Kündigung vom Dezember 2026 zurück.»
+> «존경하는 호프만 님, 2026년 12월의 해지 통보를 이로써 철회합니다.»
+GISELA: Zurück? Was heißt «zurück»?
+> 철회? «철회»가 무슨 뜻이야?
+ELKE: Det heißt, du bleibst, Jisela! Die Kündigung is weg!
+= Das heißt, du bleibst, Gisela! Die Kündigung ist weg!
+> 네가 남는다는 뜻이야, 기젤라! 해지가 없어졌어!
+GISELA: Weg? Einfach so?
+> 없어졌다고? 그냥 이렇게?
+ELKE: Nich einfach so. Mit 'nem Jericht, 'ner Anwältin, 'nem Hausmeister mit Kakao und 'ner janzen Kneipe.
+= Nicht einfach so. Mit einem Gericht, einer Anwältin, einem Hausmeister mit Kakao und einer ganzen Kneipe.
+> 그냥은 아니지. 법원이랑, 변호사랑, 코코아 마시는 관리인이랑, 선술집 하나가 통째로 나섰잖아.
+GISELA: Ich muss Jannek anrufen.
+> 야넥한테 전화해야겠다.
+ELKE: Der weeß et schon. Kiek mal, wer da an der Tür steht.
+= Der weiß es schon. Guck mal, wer da an der Tür steht.
+> 걔는 벌써 알아. 저 문 앞에 누가 서 있는지 봐.
+JAN: Katrin hat die Kopie heute Morgen bekommen. Herzlichen Glückwunsch, Frau Hoffmann. Sie bleiben.
+> 카트린이 오늘 아침에 사본을 받았어요. 축하드려요, 호프만 아주머니. 남으시는 거예요.
+GISELA: Jannek… Ich muss mich setzen.
+> 야넥… 나 좀 앉아야겠다.
+ELKE: Du sitzt schon, Jisela.
+= Du sitzt schon, Gisela.
+> 너 벌써 앉아 있잖아, 기젤라.
+GISELA: Dann muss ich aufstehen. Und dich umarmen, Jannek.
+> 그럼 일어나야겠네. 그리고 너를 안아 줘야지, 야넥.
+
+# 장면 1 — BILANZ
+HELENE: Bilanz. Vier Wochen nach dem Artikel. Was hat sich geändert? Mira, du fängst an.
+> 결산. 기사가 나가고 4주. 뭐가 바뀌었죠? 미라, 시작해요.
+MIRA: Erstens: Herr Brenner ist vorläufig des Dienstes enthoben. Die Staatsanwaltschaft ermittelt wegen Vorteilsannahme.
+> 첫째, 브레너 씨는 직무에서 잠정 배제됐어요. 검찰이 금품 수수 혐의로 수사하고 있고요.
+LEON: Weil er für den Beirat Geld bekommen hat?
+> 자문위원회 일로 돈을 받아서요?
+MIRA: «Aufwandsentschädigungen». Achtzehntausend Euro in zwei Jahren. Für zwei Sitzungen pro Jahr.
+> «활동비»래. 2년 동안 1만 8천 유로. 1년에 회의 두 번 하고.
+SWETA: Neuntausend Euro pro Jahr für zwei Abendessen. Teure Abendessen.
+> 저녁 두 끼에 1년에 9천 유로. 비싼 저녁이네.
+HELENE: Zweitens?
+> 둘째는요?
+MIRA: Das Bezirksamt hat die sechs Umwandlungsgenehmigungen zurückgenommen. Dr. Sommer und die anderen Käufer klagen dagegen. Das dauert.
+> 구청이 전환 허가 여섯 건을 취소했어요. 조머 박사랑 다른 매수인들이 이에 맞서 소송을 냈고요. 오래 걸릴 거예요.
+KATRIN: Aber die Eigenbedarfskündigungen sind zurückgenommen. Alle vier von Dr. Sommer. Er will kein zweites Gerichtsverfahren.
+> 그래도 자가 사용 해지는 철회됐어. 조머 박사가 낸 네 건 전부. 두 번째 소송은 원치 않는 거지.
+JAN: Und die zwei alten Mieter, die schon ausgezogen sind?
+> 그럼 이미 이사 나간 예전 세입자 두 명은?
+KATRIN: Eine Mieterin klagt jetzt auf Schadensersatz. Wegen vorgetäuschtem Eigenbedarf. Mira hat sie gefunden. Über das Klingelschild.
+> 한 분이 지금 손해배상 소송을 내고 있어. 거짓 자가 사용을 이유로. 미라가 찾아냈지. 초인종 명패로.
+HELENE: Drittens?
+> 셋째는요?
+SWETA: Der Fonds hat eine «interne Prüfung» angekündigt. Und Spreeblick hat einen neuen Geschäftsführer. Marco Haberland ist nicht mehr dort.
+> 펀드는 «내부 조사»를 발표했어요. 그리고 슈프레블릭은 대표가 바뀌었고요. 마르코 하버란트는 이제 거기 없어요.
+TOBI: Rausjeflogen?
+= Rausgeflogen?
+> 잘렸어?
+SWETA: Das weiß ich nicht. Sein Profil sagt nur: «Neue Herausforderung».
+> 그건 모르겠어. 프로필엔 «새로운 도전»이라고만 적혀 있어.
+LEON: Und das Tempelhofer Feld? Herr Ahrens?
+> 그럼 템펠호프 들판은요? 아렌스 씨는요?
+MIRA: «Wohnraum am Feld» hat die fünfundachtzigtausend Euro zurückgezahlt. Und eine Erklärung veröffentlicht: «Wir lassen uns nicht instrumentalisieren.»
+> «주택은 들판에»는 8만 5천 유로를 돌려줬어. 그리고 성명을 냈어. «우리는 이용당하지 않겠다.»
+SWETA: Und Frau Köhler hat ihm eine Nachricht geschrieben. «Respekt.» Ein Wort.
+> 그리고 쾰러 씨가 그 사람한테 메시지를 보냈대. «존경합니다.» 한 마디.
+JAN: Die beiden sind immer noch nicht einer Meinung. Aber sie reden jetzt miteinander.
+> 두 사람은 여전히 의견이 달라. 그래도 이제는 서로 얘기를 하지.
+HELENE: Das ist mehr, als die meisten Politiker schaffen.
+> 그건 대부분의 정치인들이 해내는 것보다 나은 거예요.
+LEON: Und die TF-Grundstücke? Der Parkplatz und die Kleingärten?
+> 그럼 TF 땅들은요? 주차장이랑 텃밭은요?
+MIRA: Gehören immer noch dem Fonds. Und warten. Wie alle Investoren am Feld.
+> 여전히 펀드 소유예요. 그리고 기다리고 있죠. 들판 주변의 모든 투자자들처럼.
+HELENE: Und was haben wir nicht geschafft? Ehrlich.
+> 그럼 우리가 못 해낸 건 뭐죠? 솔직하게.
+JAN: Share Deals sind immer noch legal. Neunundachtzig Komma neun Prozent ist immer noch die schönste Zahl in Berlin.
+> 셰어딜은 여전히 합법이에요. 89.9퍼센트는 여전히 베를린에서 제일 아름다운 숫자고요.
+MIRA: Der Senat hat eine Bundesratsinitiative angekündigt. Aber das ist ein langer Weg.
+> 주 정부가 연방 상원 발의를 예고했어요. 그래도 갈 길이 멀어요.
+SWETA: Und Thal & Partner? Gegen Thal & Partner ermittelt niemand. Thal ist sauber. Auf dem Papier.
+> 그리고 탈 & 파트너는요? 탈 & 파트너를 수사하는 사람은 아무도 없어요. 탈은 깨끗해요. 서류상으로는.
+JAN: Wir haben das Haus. Nicht den Mann.
+> 우린 건물을 지켰어요. 그 사람을 잡은 게 아니고.
+HELENE: Ein Haus ist viel, Jan. Für vierundzwanzig Familien ist es alles.
+> 건물 하나도 큰 거예요, 얀. 스물네 가구한테는 그게 전부예요.
+LEON: Zwölf. Zwölf Familien wohnen noch dort.
+> 열두 가구요. 아직 거기 사는 건 열두 가구예요.
+HELENE: Zwölf. Danke, Herr Fischer. Immer genau.
+> 열두 가구. 고마워요, 피셔 씨. 늘 정확하네요.
+
+# 장면 2 — IM AUSSCHUSS
+LEON: So sieht das Abgeordnetenhaus von innen aus. Ich dachte, es wäre größer.
+> 주의회 안이 이렇게 생겼군요. 더 클 줄 알았어요.
+JAN: Das hier ist nur der Ausschuss für Stadtentwicklung. Die großen Reden finden im Plenarsaal statt. Die echte Arbeit hier.
+> 여긴 도시개발위원회일 뿐이야. 거창한 연설은 본회의장에서 하고, 진짜 일은 여기서 하지.
+ABGEORDNETE: Frau Staatssekretärin, wie viele Häuser in Berlin gehören heute Firmen, die über Share Deals gekauft wurden?
+> 차관님, 오늘날 베를린에서 셰어딜로 매입된 회사가 소유한 건물은 몇 채나 됩니까?
+STAATSSEKRETÄRIN: Dazu liegen dem Senat keine vollständigen Zahlen vor. Share Deals tauchen im Grundbuch nicht auf.
+> 그에 관해서는 주 정부에 완전한 수치가 없습니다. 셰어딜은 등기부에 나타나지 않으니까요.
+ABGEORDNETE: Eine kleine Redaktion aus Wedding hat siebenunddreißig Häuser gefunden. Mit einem Laptop und Bierdeckeln. Der Senat hat keine Zahlen?
+> 베딩의 작은 편집국 하나가 건물 서른일곱 채를 찾아냈어요. 노트북 한 대랑 맥주잔 받침으로. 그런데 주 정부엔 수치가 없다고요?
+LEON: Sie redet über uns!
+> 우리 얘기를 하고 있어요!
+JAN: Pst. Wir sind nicht das Thema. Die Häuser sind das Thema.
+> 쉿. 우리가 주제가 아니야. 건물들이 주제지.
+STAATSSEKRETÄRIN: Wir werden ein Register prüfen. Für Eigentümer hinter Firmen. Gemeinsam mit den Bezirken.
+> 회사 뒤에 있는 소유주를 위한 등록부를 검토하겠습니다. 구청들과 함께요.
+ABGEORDNETE: «Prüfen.» Bis wann?
+> «검토»라. 언제까지요?
+STAATSSEKRETÄRIN: Bis zum Ende des Jahres legen wir einen Bericht vor.
+> 연말까지 보고서를 제출하겠습니다.
+ABGEORDNETE: Und die Mieter in der Gerichtstraße? Sind sie jetzt sicher?
+> 그럼 게리히트슈트라세 세입자들은요? 이제 안전한가요?
+STAATSSEKRETÄRIN: Das Bezirksamt Mitte hat die rechtswidrigen Genehmigungen zurückgenommen. Die Mieterinnen und Mieter genießen vollen Kündigungsschutz.
+> 미테 구청이 위법한 허가를 취소했습니다. 세입자들은 해지로부터 완전히 보호받습니다.
+ABGEORDNETE: Danke. Ich habe keine weiteren Fragen. Heute.
+> 감사합니다. 더 이상 질문은 없습니다. 오늘은.
+LEON: «Heute.» Sie kommt wieder.
+> «오늘은.» 또 오겠네요.
+JAN: Gute Politikerinnen kommen immer wieder. Wie gute Journalisten.
+> 좋은 정치인은 늘 다시 와. 좋은 기자처럼.
+LINDEMANN: Herr Kowalczyk. Herr Fischer. Ich wusste, dass Sie hier sind.
+> 코발치크 씨. 피셔 씨. 여기 계실 줄 알았어요.
+JAN: Frau Lindemann. Wie geht es Ihnen?
+> 린데만 의원님. 어떻게 지내세요?
+LINDEMANN: Anstrengend. Ich habe ein neues Vier-Augen-Prinzip eingeführt. Keine Genehmigung mehr ohne zwei Unterschriften.
+> 고단해요. 새로운 '4개의 눈' 원칙을 도입했어요. 이제 서명 두 개 없이는 어떤 허가도 안 나가요.
+LEON: Vier Augen. Wie bei der Kanarienvogel-Falle. Nur ohne Vogel.
+> 눈 네 개. 카나리아 함정처럼요. 새만 없을 뿐.
+LINDEMANN: Sie haben nichts von einer Falle gehört, Herr Fischer.
+> 함정 얘기는 들은 적 없으시죠, 피셔 씨.
+LEON: Nein. Natürlich nicht. Nie.
+> 아니요. 당연히 없죠. 한 번도요.
+LINDEMANN: Danke. Für alles. Und kommen Sie wieder, wenn Sie etwas finden. Diesmal direkt zu mir.
+> 고마워요. 모든 게. 그리고 뭔가 찾으면 또 오세요. 이번엔 저한테 바로요.
+
+# 장면 3 — SPÄTI UM MITTERNACHT
+TOBI: Marco? Du hast jeschrieben. Hier bin ick.
+= Marco? Du hast geschrieben. Hier bin ich.
+> 마르코? 문자 보냈더라. 왔어.
+MARCO: Tobi. Danke, dass du gekommen bist. Willst du ein Bier? Ich lade dich ein.
+> 토비. 와 줘서 고마워요. 맥주 마실래요? 내가 살게요.
+TOBI: 'n Späti-Bier. Jut. Det is ehrlicher als Hafer-Cappuccino.
+= Ein Späti-Bier. Gut. Das ist ehrlicher als Hafer-Cappuccino.
+> 심야 가게 맥주라. 좋아. 귀리 카푸치노보단 솔직하지.
+MARCO: Ich habe gekündigt. Nicht sie mich. Ich sie. Am Tag nach eurem Artikel.
+> 나 그만뒀어요. 저쪽이 날 자른 게 아니라 내가 그만둔 거예요. 기사 나간 다음 날.
+TOBI: Wieso?
+= Wieso?
+> 왜?
+MARCO: Ich habe den Artikel gelesen. Die Tabelle. «Natürliche Fluktuation abwarten.» Das war meine Tabelle, Tobi. Ich habe die Spalten gemacht.
+> 기사를 읽었어요. 그 표도. «자연 감소 기다릴 것.» 그거 내 표였어요, 토비. 칸도 내가 만들었고요.
+TOBI: Ick weeß.
+= Ich weiß.
+> 알아.
+MARCO: In der Zeitung sah es aus wie… wie etwas Böses. Bei der Arbeit sah es aus wie Excel.
+> 신문에서 보니까… 무슨 악한 짓처럼 보였어요. 일할 땐 그냥 엑셀처럼 보였는데.
+TOBI: Det is det Problem mit Excel. Da sieht allet harmlos aus.
+= Das ist das Problem mit Excel. Da sieht alles harmlos aus.
+> 그게 엑셀의 문제야. 거기선 다 무해해 보이거든.
+MARCO: Ich habe eine neue Stelle. Bei einer Wohnungsbaugenossenschaft in Lichtenberg. Weniger Geld. Keine Prämien.
+> 새 일자리를 구했어요. 리히텐베르크의 주택 협동조합이에요. 돈은 덜 받아요. 성과급도 없고요.
+TOBI: Keene Prämien pro Oma?
+= Keine Prämien pro Oma?
+> 할머니당 성과급 없어?
+MARCO: Keine. Da gehören die Wohnungen den Mietern. Ich verwalte nur. Ich repariere Probleme, statt sie zu machen.
+> 없어요. 거긴 집이 세입자들 거예요. 난 관리만 해요. 문제를 만드는 대신 고치는 거죠.
+TOBI: Na, kiek mal an. Du bist ja fast 'n Hausmeister.
+= Na, guck mal an. Du bist ja fast ein Hausmeister.
+> 이야, 이것 봐라. 너 거의 관리인이네.
+MARCO: Und noch etwas. Ich habe etwas für euch. Für Jan.
+> 그리고 하나 더요. 당신들한테 줄 게 있어요. 얀한테.
+TOBI: Wat?
+= Was?
+> 뭔데?
+MARCO: Eine Liste. Alle Termine mit Herrn Kasper aus dem letzten Jahr. Wo, wann, mit wem. Aus meinem Kalender.
+> 명단이요. 작년에 카스퍼 씨랑 잡았던 일정 전부. 어디서, 언제, 누구랑. 내 달력에서 뽑은 거예요.
+TOBI: Marco, det kann dich Ärger kosten.
+= Marco, das kann dich Ärger kosten.
+> 마르코, 그거 너 곤란해질 수도 있어.
+MARCO: Ich weiß. Aber ich habe fünfhundert Euro pro Oma bekommen. Ich schulde euch was.
+> 알아요. 그래도 난 할머니당 500유로를 받았잖아요. 빚진 게 있어요.
+TOBI: Gib et Jan. Nich mir. Und lass Katrin vorher draufschauen. Damit du jeschützt bist.
+= Gib es Jan. Nicht mir. Und lass Katrin vorher draufschauen. Damit du geschützt bist.
+> 얀한테 줘. 나 말고. 그리고 그 전에 카트린한테 보여 줘. 너도 보호받을 수 있게.
+MARCO: Wer ist Katrin?
+> 카트린이 누군데요?
+TOBI: Die strengste Frau Berlins. Du wirst se lieben.
+= Die strengste Frau Berlins. Du wirst sie lieben.
+> 베를린에서 제일 엄격한 여자. 너도 좋아하게 될 거야.
+MARCO: Tobi… Waren wir eigentlich Freunde? Ein bisschen?
+> 토비… 우리 사실 친구였어요? 조금은?
+TOBI: 'n bisschen. Uff Probe. Wie dein Vertrag.
+= Ein bisschen. Auf Probe. Wie dein Vertrag.
+> 조금은. 수습 기간이지. 네 계약처럼.
+
+# 장면 4 — UFF DIT HAUS!
+ELKE: So, Leute! Alle da? Ruhe! Ick will wat sagen!
+= So, Leute! Alle da? Ruhe! Ich will was sagen!
+> 자, 다들! 다 왔어? 조용! 나 할 말 있어!
+BRÜCKNER: Elke hält eine Rede. Das gab es zuletzt 1989.
+> 엘케가 연설을 한대. 1989년 이후 처음이네.
+ELKE: Halt die Klappe, Heinz. Also. Ick bin keene Rednerin. Ick bin Wirtin. Aber heute is 'n juter Tag.
+= Halt die Klappe, Heinz. Also. Ich bin keine Rednerin. Ich bin Wirtin. Aber heute ist ein guter Tag.
+> 입 다물어, 하인츠. 그러니까. 난 연설가가 아니야. 선술집 주인이지. 근데 오늘은 좋은 날이야.
+ELKE: Jisela bleibt. Tadeusz bleibt. Sabine bleibt. Ömer bleibt. Und die Heizung bleibt ooch an.
+= Gisela bleibt. Tadeusz bleibt. Sabine bleibt. Ömer bleibt. Und die Heizung bleibt auch an.
+> 기젤라는 남는다. 타데우시도 남는다. 자비네도 남는다. 외머도 남는다. 그리고 난방도 계속 켜져 있다.
+DEMIR: Ich bleibe auch? Mein Gewerbevertrag?
+> 나도 남아? 내 상가 계약은?
+KATRIN: Der neue Geschäftsführer von Spreeblick hat mir geschrieben. Ihr Vertrag wird verlängert, Herr Demir. Fünf Jahre.
+> 슈프레블릭 새 대표가 나한테 편지를 보냈어요. 계약 연장된대요, 데미르 씨. 5년.
+DEMIR: Fünf Jahre! Dann gibt es heute Tee umsonst. Für alle.
+> 5년! 그럼 오늘은 차가 공짜야. 모두한테.
+ELKE: In meiner Kneipe jibt et keen Tee. Hier jibt et Bier. Und Apfelschorle für den Schwaben.
+= In meiner Kneipe gibt es keinen Tee. Hier gibt es Bier. Und Apfelschorle für den Schwaben.
+> 우리 선술집엔 차 없어. 여긴 맥주야. 그리고 슈바벤 친구는 사과 탄산수.
+LEON: Heute trinke ich ein Bier. Ein kleines.
+> 오늘은 맥주 마실게요. 작은 걸로.
+TOBI: Hört, hört! Der Schwabe wird Berliner!
+= Hört, hört! Der Schwabe wird Berliner!
+> 들어 봐, 들어 봐! 슈바벤 친구가 베를린 사람이 되네!
+GISELA: Darf ich auch etwas sagen?
+> 나도 한마디 해도 될까?
+ELKE: Klar, Jisela. Du am meisten.
+= Klar, Gisela. Du am meisten.
+> 그럼, 기젤라. 네가 제일 많이 해야지.
+GISELA: Ich habe zweiundfünfzig Jahre in diesem Haus gewohnt. Ich habe gedacht, das Haus gehört niemandem. Oder irgendeiner Firma.
+> 나는 52년을 그 건물에서 살았어. 그 건물은 아무의 것도 아니라고 생각했어. 아니면 어떤 회사의 것이거나.
+GISELA: Aber jetzt weiß ich: Ein Haus gehört den Menschen, die darin wohnen. Und denen, die für sie kämpfen.
+> 근데 이제는 알아. 건물은 그 안에 사는 사람들의 것이야. 그리고 그 사람들을 위해 싸우는 사람들의 것이고.
+OLSZEWSKI: Brava, Gisela!
+> 브라바, 기젤라!
+GISELA: Jannek. Tobi. Leon. Mira. Alle. Danke. Und Elke, für die Heizlüfter.
+> 야넥. 토비. 레온. 미라. 모두. 고마워. 그리고 엘케, 온풍기 고마워.
+ELKE: Det war Heinz. Der olle Geizhals.
+= Das war Heinz. Der alte Geizhals.
+> 그건 하인츠야. 그 구두쇠 영감.
+BRÜCKNER: Zwei Heizlüfter. Steuerlich nicht absetzbar. Menschlich schon.
+> 온풍기 두 대. 세금 공제는 안 되지. 사람 도리로는 되고.
+PAULA: Darf ich auch kurz? Ich bin die Neue aus dem vierten Stock. Die mit dem Koffer.
+> 저도 잠깐 해도 될까요? 4층에 새로 온 사람이에요. 캐리어 끌고 온 사람.
+GISELA: Paula! Komm her, Kind.
+> 파울라! 이리 와, 얘야.
+PAULA: Mein Vertrag läuft im Sommer aus. Elf Monate. Aber ich habe gefragt, ob ich bleiben kann. Mit einem normalen Vertrag.
+> 제 계약은 여름에 끝나요. 11개월이요. 그래도 남을 수 있는지 물어봤어요. 일반 계약으로요.
+KATRIN: Und? Was hat die Verwaltung gesagt?
+> 그래서요? 관리회사가 뭐래요?
+PAULA: Sie prüfen es. Das hat vorher niemand gesagt. Vorher hieß es nur: «Elf Monate, dann raus.»
+> 검토하겠대요. 전엔 아무도 그런 말 안 했어요. 전에는 «11개월, 그다음엔 나가세요»뿐이었거든요.
+GISELA: Dann bist du keine Neue mehr. Dann bist du eine Nachbarin.
+> 그럼 넌 이제 새로 온 사람이 아니야. 이웃이지.
+SWETA: Mira, stoßen wir an? Auf die Matroschka?
+> 미라, 우리도 건배할까? 마트료시카를 위해?
+MIRA: Auf die Matroschka. Und auf die Puppe ganz innen, die wir noch nicht aufgemacht haben.
+> 마트료시카를 위해. 그리고 아직 열어 보지 못한 맨 안쪽 인형을 위해.
+ELKE: Also, alle Gläser hoch! Uff dit Haus!
+= Also, alle Gläser hoch! Auf das Haus!
+> 자, 다들 잔 들어! 이 집을 위하여!
+ALLE: Uff dit Haus!
+= Auf das Haus!
+> 이 집을 위하여!
+JAN: Und auf alle, die nicht packen.
+> 그리고 짐 싸지 않는 모든 사람을 위하여.
+
+# 장면 5 — NACH DER FEIER
+HELENE: Herr Fischer. Haben Sie kurz Zeit? Draußen.
+> 피셔 씨. 잠깐 시간 있어요? 밖에서요.
+LEON: Habe ich etwas falsch gemacht?
+> 제가 뭘 잘못했나요?
+HELENE: Ihre Probezeit endet nächste Woche. Ich wollte es Ihnen persönlich sagen.
+> 다음 주에 수습 기간이 끝나요. 직접 말해 주고 싶었어요.
+LEON: Oh. Okay. Ich verstehe, wenn…
+> 아. 네. 만약…이라도 이해해요.
+HELENE: Sie bleiben. Natürlich bleiben Sie. Sie haben die IFG-Anfrage gestellt, die Liste mit dem Leck gemacht, die Thermometer verteilt. Und Sie haben mir die Wahrheit über Jan gesagt.
+> 남는 거예요. 당연히 남죠. 정보공개 청구를 했고, 새는 곳을 찾는 목록을 만들었고, 온도계를 나눠 줬죠. 그리고 얀에 관한 진실을 나한테 말해 줬고요.
+LEON: Danke. Wirklich. Danke, Frau Brandt.
+> 감사합니다. 정말로요. 감사합니다, 브란트 씨.
+HELENE: Helene. Nach fast vier Monaten dürfen Sie mich duzen.
+> 헬레네라고 불러요. 거의 넉 달이 지났으니 말 놔도 돼요.
+LEON: Danke, Helene. Das fühlt sich komisch an.
+> 고마워요, 헬레네. 기분이 이상하네요.
+HELENE: Das geht vorbei. Wie die Apfelschorle.
+> 곧 괜찮아질 거예요. 사과 탄산수처럼.
+JAN: Ihr zwei? Was flüstert ihr da?
+> 둘이 뭘 그렇게 속닥거려요?
+HELENE: Personalfragen. Jan, du hast Marcos Liste bekommen?
+> 인사 문제요. 얀, 마르코의 명단은 받았어요?
+JAN: Katrin prüft sie. Dreiundvierzig Termine von Kasper. Mit Leuten aus Immobilien, Energie, Sicherheit. Und zwei Termine in einer Villa in Grunewald.
+> 카트린이 검토 중이에요. 카스퍼 일정 마흔세 개. 부동산, 에너지, 보안 쪽 사람들과의 만남이에요. 그리고 그루네발트의 한 저택에서 잡힌 일정이 두 개 있어요.
+HELENE: Grunewald. Wer wohnt dort?
+> 그루네발트. 거기 누가 살아요?
+JAN: Das weiß ich noch nicht. Aber Energie und Sicherheit… Das hat nichts mit Mieten zu tun.
+> 아직 몰라요. 그런데 에너지랑 보안이라… 그건 임대료랑 아무 상관이 없잖아요.
+HELENE: Dann ist das die nächste Geschichte. Aber nicht heute Nacht.
+> 그럼 그게 다음 이야기겠네요. 그래도 오늘 밤은 아니에요.
+LEON: Jan, darf ich dich etwas fragen? Hast du Thal geantwortet? Auf die SMS?
+> 얀, 하나 물어봐도 돼요? 탈 문자에 답장했어요?
+JAN: Nein. Man antwortet nicht auf so etwas. Man arbeitet weiter.
+> 아니. 그런 데엔 답하지 않아. 그냥 계속 일하는 거지.
+LEON: Und Kasia? In Poznań?
+> 그럼 카시아는요? 포즈난의?
+JAN: Ich habe ihr gestern geschrieben. Nicht im Oktober. Einfach so. Ich habe ihr den Artikel geschickt.
+> 어제 편지를 썼어. 10월도 아닌데. 그냥. 기사를 보냈어.
+LEON: Hat sie geantwortet?
+> 답장 왔어요?
+JAN: Noch nicht. Vielleicht nie. Aber diesmal war es keine Entschuldigung. Es war ein Bericht.
+> 아직. 영영 안 올지도 몰라. 그래도 이번엔 사과가 아니었어. 보고였지.
+
+# 엔딩 — SPATZ
+JAN: Halb zwei. Mein Handy. Signal. Eine Nachricht. Unbekannter Kontakt.
+> 새벽 한 시 반. 휴대폰. 시그널. 메시지 하나. 모르는 연락처.
+LEON: Schon wieder Thal?
+> 또 탈이에요?
+JAN: Nein. Thal schreibt SMS. Das hier ist verschlüsselt. Und der Name ist… ein Vogel.
+> 아니. 탈은 문자를 보내. 이건 암호화된 거야. 그리고 이름이… 새네.
+LEON: Ein Vogel?
+> 새요?
+JAN: «Spatz». Und ein Bild. Ein kleiner Spatz auf einem Stromkabel.
+> «슈파츠». 참새. 그리고 사진 한 장. 전선 위에 앉은 작은 참새.
+HELENE: Was schreibt er? Oder sie?
+> 뭐라고 썼어요? 그 사람이든 그 여자든?
+JAN: «Ihr habt das Haus gerettet. Gut gemacht.»
+> «당신들이 그 건물을 구했어요. 잘했어요.»
+LEON: Ein Fan?
+> 팬인가요?
+JAN: Da ist noch eine Zeile.
+> 한 줄 더 있어.
+HELENE: Lies.
+> 읽어 봐요.
+JAN: «Aber wartet, bis das Licht ausgeht. Kasper war nicht nur wegen Häusern in Grunewald.»
+> «하지만 불이 꺼질 때까지 기다려요. 카스퍼가 그루네발트에 간 건 건물 때문만은 아니었어요.»
