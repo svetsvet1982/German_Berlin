@@ -1,0 +1,335 @@
+@part 2
+@ep 11
+@title Kuhlmanns Liste
+@sub 쿨만의 목록 · 7월 초, 회의실의 작은 장치와 공격당한 두 곳·다음 다섯 곳
+@info 대사 150턴 · 난이도 B2 · 배경: 2-10화 그날 밤부터 며칠(2027년 7월 초), Spreewerk 편집국, 쾨페닉 호숫가 카페, 카트린 사무실
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast KUHLMANN | 베른트 쿨만 (56) · 전력망 회사 엔지니어
+@cast PATRICK | 파트리크 벤트 (39) · IT 보안 전문가
+@note ※ 내부 고발자는 자료를 넘기기 전에 자신을 법적으로 보호해야 합니다. 동시에, 회사는 고발자를 '정보 유출'을 이유로 징계하려 할 수 있습니다. 이 화에서 쿨만은 원본 목록을 넘기고, 곧 회사에서 정직 처분을 받습니다. 그의 이름을 아는 사람이 적은데도 회사가 그를 지목했다는 것이 다음 화의 수수께끼입니다.
+@note ※ 표현 초점: Wanze · Beweismittel · Original · Authentizität · Whistleblower · Suspendierung · Verschwiegenheitspflicht · Chain of Custody
+@next 2부 12화 — «Zwei Lecks»(두 개의 구멍) — 경찰 쪽 누설과 회사 쪽 누설. 다나와 얀이 서로를 의심하다 공조한다. 범인은 LKA와 센티넬 사이를 오가던 퇴직 경찰 출신 컨설턴트였다.
+
+# 콜드 오픈 — DIE STILLE SUCHE
+JAN: Patrick ist weg. Die Tür ist zu. Mira, ist das WLAN aus?
+> 파트리크 갔어. 문 닫혔고. 미라, 와이파이 꺼졌어?
+MIRA: Aus. Und mein Störsender läuft. Falls hier etwas sendet, sendet es jetzt nichts mehr.
+> 꺼졌어요. 그리고 제 전파 차단기 돌아가요. 여기 뭔가 송신하는 게 있어도 지금은 아무것도 못 보내요.
+SWETA: Wir schreiben auf Papier. Keine Stimmen zu wichtigen Dingen. Noch nicht.
+> 종이에 써요. 중요한 얘긴 소리 내지 말고요. 아직은요.
+JAN: Leon, du nimmst die Steckdosen. Tobi, die Rauchmelder und die Lampen. Mira, die Technik. Ich den Rest.
+> 레온, 넌 콘센트. 토비, 화재경보기랑 조명. 미라, 전자기기. 난 나머지.
+TOBI: Ick kenn Rauchmelder. Als Hausmeister hab ick hunderte jewechselt. Wenn da wat nich stimmt, seh ick det.
+= Ich kenne Rauchmelder. Als Hausmeister habe ich hunderte gewechselt. Wenn da was nicht stimmt, sehe ich das.
+> 화재경보기는 내가 알아. 관리인 하면서 수백 개 갈았거든. 뭔가 이상하면 보여.
+LEON: Die Steckdosen sehen normal aus. Alle.
+> 콘센트는 다 정상으로 보여요. 전부.
+MIRA: Normal ist gut. Eine Wanze, die man sieht, ist eine schlechte Wanze. Such das, was zu neu aussieht. Oder zu sauber.
+> 정상이 좋은 거야. 눈에 보이는 도청기는 나쁜 도청기지. 너무 새것으로 보이는 걸 찾아. 아니면 너무 깨끗한 거.
+TOBI: Moment. Der Rauchmelder überm Besprechungstisch. Der is anders.
+= Moment. Der Rauchmelder über dem Besprechungstisch. Der ist anders.
+> 잠깐. 회의 탁자 위 화재경보기. 이건 달라.
+JAN: Anders wie?
+> 어떻게 달라?
+TOBI: Dieselbe Marke wie die andern. Aber der hängt seit vier Wochen. Die andern seit Jahren. Kiek, keen Staub. Und die Schraube is 'ne andere.
+= Dieselbe Marke wie die anderen. Aber der hängt seit vier Wochen. Die anderen seit Jahren. Guck, kein Staub. Und die Schraube ist eine andere.
+> 다른 거랑 같은 상표야. 근데 이건 4주째 걸려 있어. 나머진 몇 년째고. 봐, 먼지가 없어. 그리고 나사가 달라.
+MIRA: Vier Wochen. Das ist, seit Patrick das erste Mal hier war.
+> 4주. 그건 파트리크가 처음 온 때네요.
+JAN: Nicht anfassen. Katrin hat es gesagt. Fotografieren. Alles.
+> 손대지 마. 카트린이 말했잖아. 사진 찍어. 전부.
+MIRA: Von allen Seiten. Und mit einem Lineal daneben. Für die Größe.
+> 모든 방향에서. 그리고 옆에 자를 두고. 크기 때문에.
+LEON: Warum ein Lineal?
+> 왜 자요?
+MIRA: Damit ein Gutachter später die Maße prüfen kann. Ohne das Gerät anzufassen. Chain of Custody. Die Beweiskette darf nie brechen.
+> 나중에 감정인이 크기를 확인할 수 있게요. 장치를 안 만지고도요. 증거 연속성. 증거 사슬은 절대 끊기면 안 돼요.
+TOBI: Ick fühl mich wie bei der Spurensicherung im Fernsehen.
+= Ich fühle mich wie bei der Spurensicherung im Fernsehen.
+> 텔레비전 과학수사대가 된 기분이야.
+MIRA: Nur dass wir nicht die Polizei sind. Und keiner uns beschützt. Deshalb müssen wir genauer sein als die Polizei.
+> 단지 우린 경찰이 아니죠. 그리고 아무도 우릴 지켜 주지 않고요. 그래서 경찰보다 더 정확해야 해요.
+SWETA: Und leiser. Sprecht nicht über die Wanze. In der Nähe der Wanze.
+> 그리고 더 조용히요. 도청기 얘긴 하지 마요. 도청기 근처에서.
+JAN: Richtig. Ab jetzt ist dieser Raum verseucht. Wir reden woanders.
+> 맞아. 이제부터 이 방은 오염됐어. 다른 데서 얘기하자.
+
+# 장면 1 — DIE WANZE
+KATRIN: Ich habe mir die Fotos angesehen. Und ich habe einen Experten gefragt. Einen, dem ich vertraue. Nicht Patrick.
+> 사진 봤어. 그리고 전문가한테 물어봤어. 내가 믿는 사람. 파트리크 말고.
+HELENE: Und?
+> 그래서?
+KATRIN: Es ist wahrscheinlich ein Rauchmelder mit Mikrofon. Ein handelsübliches Gerät. Man kann es online kaufen. Es sendet über das Mobilfunknetz.
+> 마이크가 든 화재경보기일 가능성이 높아요. 시중에서 파는 장치예요. 온라인으로 살 수 있어요. 이동통신망으로 송신하고요.
+JAN: Also hat jemand jedes Wort in unserem Besprechungsraum gehört. Vier Wochen lang.
+> 그럼 누군가 우리 회의실의 모든 말을 들은 거네요. 4주 동안.
+KATRIN: Wenn es sendet, ja. Aber jetzt wissen wir es. Und das ist ein Vorteil. Ein Raum mit einer bekannten Wanze ist ein Werkzeug.
+> 송신한다면요. 근데 이제 우린 알아요. 그게 유리한 점이죠. 도청기를 아는 방은 하나의 도구예요.
+MIRA: Wir können hineinreden, was wir wollen, dass sie hören.
+> 그들이 듣길 바라는 걸 그 방에서 말할 수 있어요.
+SWETA: Eine Falle. Wieder. Wir werden gut darin.
+> 함정이네요. 또. 우리 이거 점점 잘하네요.
+HELENE: Aber zuerst: Wer hat die Wanze installiert? Patrick war erst vor zwei Wochen hier. Die Wanze hängt seit vier.
+> 근데 먼저. 누가 도청기를 설치했죠? 파트리크는 2주 전에 처음 왔어요. 도청기는 4주째 걸려 있고요.
+MIRA: Das ist der Punkt. Patrick kann es nicht gewesen sein. Jedenfalls nicht persönlich. Nicht beim ersten Besuch.
+> 그게 핵심이에요. 파트리크일 수가 없어요. 적어도 직접은요. 첫 방문 때는요.
+JAN: Also war jemand anderes vorher hier. Vor vier Wochen. Wer war vor vier Wochen in diesem Raum?
+> 그럼 그 전에 다른 사람이 여기 있었던 거네. 4주 전에. 4주 전에 누가 이 방에 있었지?
+LEON: Soll ich das Besucherbuch prüfen? Wir haben eins am Empfang.
+> 방문자 명부를 확인할까요? 접수대에 하나 있어요.
+HELENE: Prüf es. Jeder Besucher der letzten sechs Wochen. Handwerker, Lieferanten, Bewerber. Alle.
+> 확인해요. 지난 6주 방문자 전부. 기술자, 배달원, 지원자. 전부요.
+KATRIN: Und lasst die Wanze hängen. Noch. Wenn ihr sie abnehmt, wisst ihr nicht mehr, wer zuhört. Und ihr warnt den, der zuhört.
+> 그리고 도청기는 그대로 둬. 아직. 떼면 누가 듣는지 더는 모르게 되고. 듣는 자한테 경고하는 꼴이 돼.
+JAN: Also tun wir so, als wüssten wir nichts. Und benutzen den Raum, um falsche Spuren zu legen.
+> 그럼 우린 아무것도 모르는 척해요. 그리고 그 방을 써서 가짜 흔적을 남기는 거죠.
+HELENE: Genau. Ab jetzt sagen wir im Besprechungsraum nur das, was die Gegenseite hören soll.
+> 맞아요. 이제부터 회의실에선 상대편이 듣길 바라는 것만 말해요.
+SWETA: Und das Echte besprechen wir bei Elke. In der Kneipe. Mit Musik im Hintergrund.
+> 그리고 진짜 얘긴 엘케네서 해요. 선술집에서. 뒤에 음악 틀고요.
+MIRA: Bei Elke gibt es kein WLAN. Und Elkes Musik ist laut genug für zwei Wanzen.
+> 엘케넨 와이파이가 없어요. 그리고 엘케 음악은 도청기 둘을 가릴 만큼 시끄럽고요.
+LEON: Elkes Kneipe als sicherer Raum. Das hätte ich am Anfang nicht gedacht.
+> 엘케 선술집이 안전 가옥이라니. 처음엔 상상도 못 했어요.
+JAN: Der sicherste Raum in Berlin ist der, in dem man dich kennt. Und dich beschützt.
+> 베를린에서 제일 안전한 방은 사람들이 널 알고, 널 지켜 주는 방이야.
+
+# 장면 2 — DAS BESUCHERBUCH
+LEON: Ich habe das Besucherbuch. Sechs Wochen. Und ich habe etwas.
+> 방문자 명부 확인했어요. 6주 치. 그리고 뭘 찾았어요.
+JAN: Erzähl.
+> 말해 봐.
+LEON: Vor genau vier Wochen. Ein Techniker. «Wartung Brandmelder. Firma: SafeHaus GmbH.» Zwei Stunden im Haus.
+> 정확히 4주 전에요. 기술자 한 명. «화재경보기 점검. 회사: 자페하우스 유한회사.» 두 시간 머물렀어요.
+MIRA: Hat jemand eine Brandmelderwartung bestellt?
+> 화재경보기 점검을 누가 신청했어요?
+HELENE: Nein. Ich nicht. Und ich bestelle so etwas immer selbst.
+> 아니요. 난 안 했어요. 그리고 그런 건 늘 내가 직접 신청해요.
+SWETA: Also kam ein Techniker für eine Wartung, die niemand bestellt hat. Und hat einen Rauchmelder ausgetauscht.
+> 그러니까 아무도 신청 안 한 점검을 하러 기술자가 왔고, 화재경보기를 갈아 끼운 거네요.
+LEON: Und wer hat ihn reingelassen?
+> 그 사람을 누가 들여보냈어요?
+HELENE: Hier steht eine Unterschrift. «Angemeldet durch: Stiftungsbüro.»
+> 여기 서명이 있어요. «신청: 재단 사무국.»
+JAN: Das Stiftungsbüro. Also jemand aus der Verwaltung der Stiftung. Nicht aus der Redaktion.
+> 재단 사무국. 그럼 재단 행정부의 누군가예요. 편집국이 아니라.
+MIRA: Wer arbeitet im Stiftungsbüro?
+> 재단 사무국엔 누가 일해요?
+HELENE: Eine Sekretärin. Ein Buchhalter. Und der Geschäftsführer der Stiftung. Der dem Stiftungsrat berichtet.
+> 비서 한 명. 회계사 한 명. 그리고 재단 사무국장. 재단 이사회에 보고하는.
+SWETA: Und im Stiftungsrat sitzt der, der Patrick empfohlen hat.
+> 그리고 재단 이사회엔 파트리크를 추천한 사람이 있고요.
+HELENE: Vorsicht, Sweta. Das ist eine Kette von Vermutungen. Jedes Glied muss geprüft werden.
+> 조심해요, 스베타. 그건 추측의 사슬이에요. 고리 하나하나를 확인해야 해요.
+JAN: Dann prüfen wir sie. SafeHaus GmbH. Mira?
+> 그럼 확인하자. 자페하우스 유한회사. 미라?
+MIRA: Schon dabei. Gegründet vor sechs Monaten. Ein Geschäftsführer. Eine Adresse in einem Coworking-Space.
+> 벌써 하고 있어요. 6개월 전 설립. 대표 한 명. 주소는 공유 오피스.
+LEON: Wie Spreeblick damals. In der Gerichtstraße.
+> 그때 슈프레블릭처럼요. 게리히트슈트라세의.
+MIRA: Dasselbe Muster. Eine neue Firma für einen Zweck. Und rate, wem der Coworking-Space gehört.
+> 같은 패턴이에요. 목적 하나를 위한 새 회사. 그리고 그 공유 오피스가 누구 건지 맞혀 봐요.
+JAN: Sag es.
+> 말해.
+MIRA: Noch nicht. Ich muss es dreimal prüfen. Aber ich habe ein ungutes Gefühl. Und ein Gefühl ist kein Beweis.
+> 아직요. 세 번 확인해야 해요. 근데 느낌이 안 좋아요. 그리고 느낌은 증거가 아니죠.
+HELENE: Und was machen wir jetzt mit Patrick? Er kommt morgen wieder.
+> 그럼 파트리크는 이제 어떡해요? 내일 또 와요.
+JAN: Wir behandeln ihn gut. Wir danken ihm für die gefundene Hintertür. Und wir füttern ihn.
+> 잘 대해 줘요. 찾아낸 뒷문에 고마워하고요. 그리고 먹이는 거죠.
+MIRA: Ich habe den Köder vorbereitet. Auf dem Köder-Server liegt jetzt ein Dokument. «Recherche Wasserwerke – streng vertraulich.»
+> 미끼는 준비해 뒀어요. 미끼 서버에 지금 문서 하나가 있어요. «상수도 취재 – 극비.»
+SWETA: Wasserwerke? Wir recherchieren gar nicht zu Wasserwerken.
+> 상수도요? 우린 상수도 취재 안 하잖아요.
+MIRA: Genau. Deshalb ist es ein perfekter Köder. Wenn jemand plötzlich an Wasserwerken interessiert ist, wissen wir, dass er den Köder gefunden hat.
+> 맞아요. 그래서 완벽한 미끼예요. 누가 갑자기 상수도에 관심을 가지면, 그 사람이 미끼를 찾았다는 걸 아는 거죠.
+JAN: Clever. Ein Köder, der sich selbst meldet.
+> 영리하네. 스스로 알리는 미끼라.
+
+# 장면 3 — KUHLMANN ENTSCHEIDET SICH
+KUHLMANN: Herr Kowalczyk. Ich habe mit Ihrer Anwältin gesprochen. Zweimal. Sie ist gründlich.
+> 코발치크 씨. 당신 변호사랑 얘기했어요. 두 번. 철저한 분이에요.
+JAN: Das ist sie.
+> 맞아요.
+KUHLMANN: Sie hat mir erklärt, wie ich geschützt bin. Und wie nicht. Und ich habe eine Entscheidung getroffen.
+> 제가 어떻게 보호받고 어떻게 안 받는지 설명해 줬어요. 그리고 전 결정을 내렸어요.
+JAN: Sie müssen gar nichts tun, Herr Kuhlmann. Das haben wir immer gesagt.
+> 아무것도 안 하셔도 돼요, 쿨만 씨. 늘 그렇게 말했어요.
+KUHLMANN: Ich weiß. Aber ich will. Hier. Das Original der Schwachstellenanalyse. Und meine Warn-Mail. Und noch etwas.
+> 알아요. 근데 하고 싶어요. 여기요. 취약 지점 분석 원본. 그리고 제 경고 메일. 그리고 하나 더요.
+JAN: Was?
+> 뭔데요?
+KUHLMANN: Eine Liste. Meine eigene. Ich habe nach dem Marzahn-Anschlag etwas gemacht. Ich habe die beiden Anschläge mit meiner Analyse verglichen.
+> 목록이요. 제가 만든. 마르찬 공격 뒤에 뭘 했어요. 두 공격을 제 분석이랑 비교했죠.
+JAN: Lichterfelde 2026 und Marzahn 2027.
+> 2026년 리히터펠데랑 2027년 마르찬이요.
+KUHLMANN: Beide Tatorte stehen in meiner Analyse. Als Schwachstellen mit hoher Priorität. Und ohne Kamera.
+> 두 범행 장소 다 제 분석에 있어요. 우선순위 높은 취약 지점으로. 그리고 카메라 없이.
+JAN: Das heißt, der Täter kannte Ihre Analyse.
+> 그 말은, 범인이 당신 분석을 알았다는 거네요.
+KUHLMANN: Oder hatte dieselben Informationen. Aber hören Sie. Es gibt in meiner Analyse sieben Stellen mit höchster Priorität. Zwei wurden angegriffen.
+> 아니면 같은 정보를 가졌거나요. 근데 들어 보세요. 제 분석엔 최우선 지점이 일곱 곳 있어요. 그중 둘이 공격당했죠.
+JAN: Und die anderen fünf?
+> 그럼 나머지 다섯 곳은요?
+KUHLMANN: Die anderen fünf sind noch nicht angegriffen worden. Noch nicht. Drei davon haben immer noch keine Kamera. Darunter eine in Spandau.
+> 나머지 다섯 곳은 아직 공격 안 당했어요. 아직은요. 그중 셋은 여전히 카메라가 없고요. 그중 하나가 슈판다우에 있어요.
+JAN: Spandau. Die Brücke, an der Marty war.
+> 슈판다우. 마티가 있던 그 다리.
+KUHLMANN: Genau diese. Herr Kowalczyk, wer auch immer das plant, er arbeitet meine Liste ab. Der Reihe nach.
+> 바로 그거예요. 코발치크 씨, 이걸 계획하는 자가 누구든 제 목록을 차례대로 해치우고 있어요.
+
+# 장면 4 — WAS DIE LISTE BEDEUTET
+JAN: Herr Kuhlmann, das ist sehr ernst. Darf ich das Katrin und meiner Chefin zeigen?
+> 쿨만 씨, 이건 아주 심각해요. 이걸 카트린이랑 편집장한테 보여 줘도 될까요?
+KUHLMANN: Dafür bin ich hier. Aber eine Bedingung: Die technischen Details der Schwachstellen bleiben geheim. Immer.
+> 그러려고 왔어요. 근데 조건이 하나. 취약 지점의 기술적 세부는 비밀로. 영원히.
+JAN: Das ist auch unsere Regel. Wir drucken keine Anleitung für den nächsten Anschlag.
+> 그건 우리 원칙이기도 해요. 다음 공격을 위한 설명서는 안 찍어요.
+KUHLMANN: Gut. Und noch etwas. Ich habe meiner Firma gesagt, dass ich gegen die Weitergabe an Sentinel war. Offiziell. Mit einer Beschwerde.
+> 좋아요. 그리고 하나 더요. 회사에 센티넬 전달에 반대했다고 말했어요. 공식적으로. 이의 제기로요.
+JAN: Mutig. Und gefährlich.
+> 용감하네요. 그리고 위험하고요.
+KUHLMANN: Ich bin sechsundfünfzig. In vier Jahren bin ich in Rente. Wenn ich jetzt nicht den Mund aufmache, wann dann?
+> 전 쉰여섯이에요. 4년 뒤면 은퇴해요. 지금 입을 안 열면 언제 열겠어요?
+JAN: Hat Ihre Firma reagiert?
+> 회사가 반응했어요?
+KUHLMANN: Noch nicht. Aber ich spüre es. Die Blicke. Die Meetings, zu denen ich nicht mehr eingeladen werde.
+> 아직요. 근데 느껴져요. 시선들. 더는 초대받지 못하는 회의들.
+JAN: Herr Kuhlmann, wenn Sie Probleme bekommen, ruft Katrin Sie an. Nicht umgekehrt. Sie sind nicht allein.
+> 쿨만 씨, 문제가 생기면 카트린이 전화 드릴 거예요. 반대가 아니라. 혼자가 아니에요.
+KUHLMANN: Das sagt Heinz auch. «Du bist nicht allein, Bernd.» Beim Skat, jeden Freitag.
+> 하인츠도 그 말을 해요. «넌 혼자가 아니야, 베른트.» 금요일마다 카드 칠 때요.
+JAN: Brückner spielt Skat mit Ihnen?
+> 브뤼크너 씨가 당신이랑 카드를 쳐요?
+KUHLMANN: Seit zwanzig Jahren. Er gewinnt immer. Und er schimpft immer über die Steuer. Auch als Rentner.
+> 20년째요. 늘 이겨요. 그리고 늘 세금 욕을 해요. 연금 생활자가 돼서도요.
+JAN: Manche Dinge ändern sich nie.
+> 어떤 건 절대 안 변하네요.
+KUHLMANN: Zum Glück. Sonst könnte man niemandem mehr vertrauen.
+> 다행이죠. 안 그럼 아무도 못 믿을 테니까요.
+JAN: Herr Kuhlmann, eine letzte Frage. Die fünf Stellen, die noch nicht angegriffen wurden. Kennt die außer Ihnen noch jemand?
+> 쿨만 씨, 마지막 질문이요. 아직 공격 안 당한 다섯 곳. 당신 말고 아는 사람이 또 있어요?
+KUHLMANN: Mein Team. Drei Ingenieure. Der Vorstand, drei Personen. Und die drei Dienstleister, die die Analyse bekommen haben.
+> 제 팀이요. 엔지니어 셋. 이사회, 세 명. 그리고 분석을 받은 용역사 세 곳이요.
+JAN: Also wieder Sentinel.
+> 그럼 또 센티넬이네요.
+KUHLMANN: Wieder Sentinel. Und deshalb habe ich die Liste Ihnen gegeben. Nicht der Polizei.
+> 또 센티넬이에요. 그래서 그 목록을 당신한테 준 거예요. 경찰한테가 아니라.
+JAN: Warum nicht der Polizei?
+> 왜 경찰한테가 아니에요?
+KUHLMANN: Weil ich nicht weiß, wer bei der Polizei meine Liste lesen würde. Und weil ich weiß, dass Sentinel viele ehemalige Polizisten beschäftigt.
+> 경찰 쪽에서 누가 제 목록을 읽을지 모르니까요. 그리고 센티넬이 전직 경찰을 많이 쓴다는 걸 아니까요.
+JAN: Das ist auch unsere Sorge.
+> 그건 우리 걱정이기도 해요.
+KUHLMANN: Dann sind wir uns einig. Passen Sie auf sich auf, Herr Kowalczyk. Und auf die fünf Stellen.
+> 그럼 우린 생각이 같네요. 몸조심하세요, 코발치크 씨. 그리고 그 다섯 곳도요.
+
+# 장면 5 — DIE SUSPENDIERUNG
+MIRA: Jan. Kuhlmann hat angerufen. Eben. Er klingt schlecht.
+> 얀. 쿨만이 전화했어요. 방금. 목소리가 안 좋아요.
+JAN: Was ist?
+> 무슨 일이야?
+MIRA: Er ist suspendiert. Vom Dienst. Seit heute Morgen. «Wegen des Verdachts der unbefugten Weitergabe vertraulicher Unterlagen.»
+> 정직당했어요. 직무에서. 오늘 아침부터요. «기밀 자료 무단 유출 혐의로.»
+SWETA: Sie werfen ihm genau das vor, was er getan hat. Uns die Liste gegeben.
+> 그 사람이 한 일을 바로 그대로 뒤집어씌우네요. 우리한테 목록을 준 거.
+JAN: Aber woher weiß die Firma das? Er hat sie uns gestern gegeben. Heute früh ist er suspendiert.
+> 근데 회사가 그걸 어떻게 알았지? 어제 우리한테 줬는데. 오늘 아침에 정직이라니.
+MIRA: Das ist die Frage. Wer wusste, dass Kuhlmann mit uns redet?
+> 그게 문제예요. 쿨만이 우리랑 얘기하는 걸 누가 알았죠?
+LEON: Wir. Katrin. Und…
+> 우리요. 카트린. 그리고…
+JAN: Und wir haben darüber im Besprechungsraum geredet. Unter dem Rauchmelder.
+> 그리고 우린 그걸 회의실에서 얘기했어. 화재경보기 밑에서.
+SWETA: Die Wanze. Wir haben Kuhlmanns Namen in der Nähe der Wanze gesagt.
+> 도청기. 우리가 쿨만 이름을 도청기 근처에서 말했어요.
+HELENE: Haben wir das? Denkt nach. Genau.
+> 그랬어요? 생각해 봐요. 정확히.
+MIRA: Ja. Vor drei Tagen. Jan hat gesagt: «Kuhlmann gibt uns das Original. Morgen.» Im Besprechungsraum.
+> 네. 사흘 전에요. 얀이 «쿨만이 원본을 줘요. 내일»이라고 했어요. 회의실에서요.
+JAN: Dann habe ich ihn verraten. Mit einem Satz. Wie Marek.
+> 그럼 내가 그를 팔아넘긴 거네. 한 문장으로. 마렉처럼.
+HELENE: Nein, Jan. Nicht wie Marek. Damals war es ein Detail im Text. Diesmal war es eine Wanze, die wir nicht kannten.
+> 아니에요, 얀. 마렉 때랑 달라요. 그땐 기사 속 세부였죠. 이번엔 우리가 모르던 도청기였고요.
+JAN: Das Ergebnis ist dasselbe. Ein mutiger Mann wird bestraft, weil er mit mir geredet hat.
+> 결과는 같아요. 용감한 사람이 나랑 얘기했다는 이유로 벌을 받아요.
+SWETA: Jan. Hör auf. Du bist nicht schuld an der Wanze. Schuld ist der, der sie installiert hat.
+> 얀. 그만해요. 도청기는 당신 잘못이 아니에요. 설치한 자가 잘못이죠.
+JAN: Ich hätte vorsichtiger sein müssen. Nach 2016.
+> 2016년 뒤로는 더 조심했어야 해요.
+SWETA: Niemand sucht in seinem eigenen Besprechungsraum nach einer Wanze. Bevor er weiß, dass es eine gibt. Das ist nicht Nachlässigkeit. Das ist das Leben.
+> 아무도 자기 회의실에서 도청기를 찾지 않아요. 그게 있다는 걸 알기 전엔. 그건 부주의가 아니에요. 그게 삶이죠.
+JAN: Sag das Kuhlmann.
+> 그걸 쿨만한테 말해 봐요.
+SWETA: Kuhlmann weiß es. Er hat gewusst, was er riskiert. Er ist ein erwachsener Mann, kein Opfer. Behandle ihn nicht wie eins.
+> 쿨만은 알아요. 자기가 뭘 거는지 알았어요. 어른이에요, 피해자가 아니라. 피해자처럼 대하지 마요.
+JAN: Du hast recht. Entschuldige. Ich sehe manchmal überall Marek.
+> 당신 말이 맞아요. 미안해요. 가끔 어디서나 마렉이 보여요.
+HELENE: Das ist menschlich. Aber jetzt brauchen wir den Journalisten. Nicht den Mann mit der Schuld.
+> 그건 인간적인 거예요. 근데 지금은 기자가 필요해요. 죄책감 짊어진 사람 말고.
+KATRIN: Das Ergebnis ist nicht dasselbe. Kuhlmann lebt. Kuhlmann hat eine Anwältin. Und eine Suspendierung ist kein Ende. Es ist der Anfang eines Verfahrens, das wir gewinnen können.
+> 결과는 같지 않아. 쿨만은 살아 있어. 쿨만한텐 변호사가 있고. 그리고 정직은 끝이 아니야. 우리가 이길 수 있는 절차의 시작이지.
+JAN: Wie gewinnen wir es?
+> 어떻게 이겨?
+KATRIN: Das Hinweisgeberschutzgesetz. Kuhlmann hat intern gewarnt, es wurde ignoriert, es ging um die öffentliche Sicherheit. Er ist geschützt.
+> 내부고발자보호법으로. 쿨만은 내부에 경고했고, 무시당했고, 공공 안전이 걸린 문제였어. 그 사람은 보호받아.
+MIRA: Aber die Firma sagt, er hat vertrauliche Unterlagen weitergegeben. An uns.
+> 근데 회사는 그 사람이 기밀 자료를 유출했다고 하잖아요. 우리한테.
+KATRIN: Die Frage ist: Was wiegt schwerer? Die Verschwiegenheitspflicht oder das öffentliche Interesse, einen möglichen Anschlag zu verhindern? Ich sage: das öffentliche Interesse.
+> 문제는 이거야. 뭐가 더 무거운가? 비밀 유지 의무냐, 공격 가능성을 막는 공익이냐? 난 공익이라고 봐.
+SWETA: Das würde ein Richter entscheiden.
+> 그건 판사가 정하겠죠.
+KATRIN: Ja. Und bis dahin ist Kuhlmann suspendiert, aber nicht gekündigt. Er bekommt sein Gehalt. Er hat Zeit. Und er hat uns.
+> 응. 그때까지 쿨만은 정직이지만 해고는 아니야. 월급은 받아. 시간이 있고. 그리고 우리가 있지.
+HELENE: Dann kämpfen wir. Katrin, du vertrittst ihn. Spreewerk zahlt, was nötig ist.
+> 그럼 싸워요. 카트린, 당신이 그를 변호해요. 필요한 비용은 슈프레베르크가 내요.
+KATRIN: Spreewerk hat kein Geld.
+> 슈프레베르크는 돈이 없잖아.
+HELENE: Dann sammeln wir es. Unsere Leser haben schon einmal für Prozesskosten gespendet. Sie tun es wieder.
+> 그럼 모아요. 우리 독자들이 전에도 소송 비용을 후원했어요. 또 할 거예요.
+
+# 엔딩 — WER WUSSTE ES?
+HELENE: Also. Die Wanze hat Kuhlmanns Namen gehört. Und jemand hat die Firma gewarnt. Sehr schnell.
+> 자. 도청기가 쿨만 이름을 들었어요. 그리고 누군가 회사에 경고했어요. 아주 빨리.
+MIRA: Oder nicht die Wanze. Vielleicht war es das Leck bei der Polizei. Oder bei uns. Wir haben jetzt drei mögliche Lecks.
+> 아니면 도청기가 아니거나요. 경찰 쪽 구멍이었을 수도 있어요. 아니면 우리 쪽. 이제 가능한 구멍이 셋이에요.
+JAN: Drei Lecks sind zu viele. Entweder es ist eins, das alles erklärt. Oder wir verstehen etwas grundsätzlich falsch.
+> 구멍 셋은 너무 많아. 하나가 전부를 설명하거나. 아니면 우리가 뭔가 근본적으로 잘못 이해하는 거지.
+SWETA: Was, wenn es gar kein Leck ist? Was, wenn jemand einfach alles sieht? Die Chats, die Anrufe, den Besprechungsraum?
+> 애초에 구멍이 없는 거라면요? 누군가 그냥 전부 보고 있는 거라면요? 대화방도, 통화도, 회의실도?
+LEON: Das wäre… ein Albtraum.
+> 그건… 악몽이네요.
+MIRA: Oder es ist eine Person, die an mehreren Stellen gleichzeitig sitzt. Bei der Polizei. Bei Sentinel. Und in unserer Nähe.
+> 아니면 여러 곳에 동시에 앉아 있는 한 사람이거나요. 경찰에. 센티넬에. 그리고 우리 가까이에.
+JAN: Mira. Die SafeHaus GmbH. Der Coworking-Space. Du wolltest es dreimal prüfen. Hast du?
+> 미라. 자페하우스 유한회사. 공유 오피스. 세 번 확인하겠다고 했잖아. 했어?
+MIRA: Dreimal geprüft. Der Coworking-Space, in dem SafeHaus seine Adresse hat, gehört einer Immobiliengesellschaft. Und die wird beraten von…
+> 세 번 확인했어요. 자페하우스가 주소를 둔 그 공유 오피스는 한 부동산 회사 소유예요. 그리고 그 회사는 자문을 받아요…
+JAN: Von wem?
+> 누구한테?
+MIRA: Thal und Partner. Es ist immer Thal und Partner. Egal, wo ich grabe.
+> 탈 & 파트너요. 늘 탈 & 파트너예요. 어딜 파든.
+JAN: Dann haben wir ein Problem und eine Geschichte. Die Geschichte: Ein Mann entlastet die linke Szene. Marty ist Sentinel.
+> 그럼 우리한텐 문제 하나와 기사 하나가 있어. 기사는, 한 남자가 좌파 운동권의 혐의를 벗긴다. 마티는 센티넬이다.
+HELENE: Das ist die eine Geschichte. Sauber belegt. Zwei Fotos, ein Gesicht, zwei Rollen. Die schreiben wir zuerst.
+> 그게 첫 번째 기사예요. 깔끔하게 증명됐죠. 사진 둘, 한 얼굴, 두 역할. 그걸 먼저 써요.
+JAN: Und die zweite Geschichte? Sentinel, die Liste, Kuhlmann, die Wanze, Thal?
+> 그럼 두 번째 기사는요? 센티넬, 목록, 쿨만, 도청기, 탈?
+HELENE: Die zweite Geschichte ist größer. Und gefährlicher. Die braucht mehr. Einen Namen. Eine Zahlung. Ein Geständnis.
+> 두 번째 기사는 더 커요. 그리고 더 위험하고요. 그건 더 필요해요. 이름. 송금. 자백.
+SWETA: Und wir müssen das Leck finden. Sonst schreiben wir, und am selben Tag wissen sie es.
+> 그리고 우린 그 구멍을 찾아야 해요. 안 그럼 우리가 쓰는 날 그들도 알게 돼요.
+JAN: Dann ist die Reihenfolge klar. Erst das Leck. Dann die kleine Geschichte. Dann die große.
+> 그럼 순서가 분명하네. 먼저 구멍. 그다음 작은 기사. 그다음 큰 기사.
+MIRA: Und das Leck finden wir, indem wir den Köder beobachten. Wer an den Wasserwerken knabbert, ist unser Verräter.
+> 그리고 구멍은 미끼를 지켜봐서 찾아요. 상수도를 갉아먹는 자가 우리 배신자죠.
+HELENE: Dann warten wir. Und tun so, als wüssten wir nichts. Das wird der schwerste Teil.
+> 그럼 기다려요. 그리고 아무것도 모르는 척해요. 그게 제일 어려운 부분일 거예요.
+JAN: Warten können wir. Das Kapitel kennen wir inzwischen gut.
+> 기다리는 건 할 수 있어요. 그 장은 이제 우리가 잘 알죠.
