@@ -1,0 +1,333 @@
+@part 4
+@ep 6
+@title Wer redet mit wem?
+@sub 누가 누구와 말하나 · 유출 시점이 한 사람의 근무일과 겹친다
+@info 대사 150턴 · 난이도 B2 · 배경: 2028년 봄, Spreewerk 편집국
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast LEON | 레온 피셔 (24) · 수습기자 (슈바벤 사투리)
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast PATRICK | 파트리크 벤트 (34) · IT·보안 담당, 2부 해킹 후 입사
+@cast SWETA | 스베타 모로소바 (42) · 기자, 디스인포 전문
+@note ※ 내부 첩자 의심 편. 핵심 긴장: 데이터가 레온을 가리키지만, 진짜 범인은 '구원자'로 위장 취업한 IT 담당 파트리크다. 성급한 의심이 무고한 사람을 어떻게 다치게 하는지, 그리고 '데이터도 조작될 수 있다'는 교훈. 등장 인물은 가상.
+@note ※ 표현 초점: der Verdacht · die Zeitachse · der Zugriff · das Misstrauen · der Fernzugriff · die unbewiesene Vermutung
+@next 4부 7화 «Sweta wird Content-Strategin» — 스베타가 HH에 '러시아어권 콘텐츠 전략가'로 지원해 합격한다. 잠입이 시작된다.
+
+# 콜드 오픈 — DIE ZEITACHSE
+MIRA: Ich habe etwas gebaut, das ich euch zeigen muss. Aber ich sage vorweg: Es gefällt mir nicht. Gar nicht. Deshalb bitte ruhig bleiben.
+> 여러분한테 보여 줘야 할 걸 만들었어요. 근데 미리 말할게요. 마음에 안 들어요. 전혀. 그러니 제발 차분히요.
+JAN: Zeig es, Mira. Wir haben vereinbart, nichts zu beschönigen und nichts zu dramatisieren. Zeig es, wie es ist.
+> 보여 줘, 미라. 미화도 과장도 안 하기로 했잖아. 있는 그대로 보여 줘.
+MIRA: Das ist eine Zeitachse. Drei Lecks: Jans Stimme im Deepfake, unsere Themenplanung auf der Klon-Seite, und die interne Vorstandsdebatte, die im Blog landete.
+> 타임라인이에요. 유출 셋. 딥페이크 속 얀 목소리, 복제 사이트의 우리 주제 기획, 그리고 블로그에 뜬 이사회 내부 논의.
+HELENE: Drei Lecks. Und du hast geschaut, wer an diesen drei Tagen jeweils Zugang hatte und im Haus war.
+> 유출 셋. 그리고 그 사흘 각각에 누가 접근 권한이 있고 사무실에 있었는지 봤구나.
+MIRA: Genau. Und ich habe es doppelt geprüft, bevor ich es überhaupt ausspreche. Weil ich weiß, was so eine Tabelle anrichten kann, wenn sie falsch gelesen wird.
+> 맞아요. 그리고 입 밖에 내기 전에 두 번 확인했어요. 그런 표가 잘못 읽히면 뭘 저지를 수 있는지 아니까요.
+JAN: Erklär uns, wie du es doppelt geprüft hast. Damit alle verstehen, dass das keine leichtfertige Behauptung ist.
+> 어떻게 두 번 확인했는지 설명해 줘. 이게 가벼운 주장이 아니란 걸 모두 이해하도록.
+MIRA: Ich habe zuerst nur die Zugänge genommen. Dann habe ich die Anwesenheit abgeglichen, über die Türprotokolle. Und dann habe ich nach Leuten gesucht, die trotz Zugang NICHT passten. Zum Ausschluss.
+> 먼저 접근 권한만 봤어요. 그다음 출입문 기록으로 출근을 대조했죠. 그리고 접근 권한이 있어도 안 맞는 사람을 찾았어요. 배제하려고요.
+HELENE: Du hast also aktiv nach Entlastung gesucht, nicht nur nach Belastung. Das ist gute Arbeit, Mira. So verhindert man, dass man nur findet, was man finden will.
+> 그럼 불리한 것만이 아니라 유리한 것도 능동적으로 찾았네요. 좋은 일이에요, 미라. 그래야 찾고 싶은 것만 찾는 걸 막죠.
+MIRA: Ich habe es versucht. Aber am Ende blieb nur eine Person, die auf alle drei Tage passt. Und das ist genau das, was mir Angst macht. Nicht dass es Leon ist. Sondern dass es so eindeutig aussieht.
+> 시도했어요. 근데 끝에 사흘 다 맞는 사람이 한 명만 남았어요. 그리고 그게 바로 절 무섭게 해요. 레온이라서가 아니라. 그게 그렇게 명백해 보여서요.
+LEON: Ich? Nein. Nein, das kann nicht sein. Ich habe nichts weitergegeben. Mira, das muss ein Fehler sein. Bitte.
+> 저요? 아니요. 아니, 그럴 리 없어요. 전 아무것도 안 흘렸어요. 미라, 이건 실수일 거예요. 제발.
+JAN: Niemand beschuldigt dich, Leon. Noch nicht. Eine Zeitachse ist kein Beweis. Sie ist eine Frage. Und Fragen muss man stellen dürfen, auch unbequeme.
+> 아무도 널 비난 안 해, 레온. 아직은. 타임라인은 증거가 아니야. 질문이지. 그리고 질문은 할 수 있어야 해, 불편한 것도.
+MIRA: Jan hat recht. Ich zeige euch eine Korrelation, keine Schuld. Leon war da. Das heißt nicht, dass Leon es war. Es heißt nur, dass ich weiterprüfen muss.
+> 얀 말이 맞아요. 전 상관관계를 보여 주지 죄를 보여 주는 게 아니에요. 레온이 거기 있었어요. 레온이 했다는 뜻이 아니에요. 제가 더 확인해야 한다는 뜻일 뿐이죠.
+LEON: Aber ihr schaut mich alle an. Ich seh doch, wie ihr mich anschaut. Isch halt des net aus, wenn ihr mich so anguckt.
+= Ich halte das nicht aus, wenn ihr mich so anguckt.
+> 근데 다들 절 봐요. 어떻게 보는지 다 보여요. 그렇게 쳐다보면 전 못 견뎌요.
+MIRA: Leon, ich schaue dich nicht anders an als vorhin. Ich zeige eine Tabelle. Tabellen zeigen Muster, keine Menschen. Das musst du auseinanderhalten, sonst macht es dich kaputt.
+> 레온, 난 아까랑 다르게 안 봐. 난 표를 보여 줘. 표는 패턴을 보여 주지 사람을 보여 주는 게 아니야. 그걸 구분해야 해, 안 그럼 널 망가뜨려.
+LEON: Aber die Tabelle zeigt doch auf mich. Was soll ich damit machen, dass ein Muster auf mich zeigt? Das fühlt sich an wie eine Anklage, auch wenn du es anders nennst.
+> 근데 표가 절 가리키잖아요. 패턴이 절 가리키는 걸 제가 어떻게 해요? 당신이 다르게 불러도 고발처럼 느껴져요.
+JAN: Ich erkläre dir, was du damit machst. Du atmest. Du bleibst. Und du lässt uns arbeiten. Eine Anklage verlangt eine Verteidigung. Eine Frage verlangt nur Geduld. Das hier ist eine Frage.
+> 그걸 어떻게 하는지 알려 줄게. 숨 쉬어. 남아 있어. 그리고 우리가 일하게 둬. 고발은 변호를 요구해. 질문은 인내만 요구하고. 이건 질문이야.
+HELENE: Und noch etwas, Leon. Wenn du wirklich unschuldig bist — und ich glaube, du bist es — dann ist diese Prüfung deine beste Freundin. Sie wird deine Unschuld beweisen, nicht nur behaupten.
+> 그리고 하나 더, 레온. 네가 정말 결백하면 — 그리고 난 그렇다고 믿어 — 이 검증은 네 가장 좋은 친구야. 네 결백을 주장만 하는 게 아니라 증명해 줄 거야.
+LEON: Meine beste Freundin. So habe ich eine Untersuchung gegen mich noch nie gesehen. Aber vielleicht haben Sie recht. Dann will ich, dass sie gründlich ist. Sehr gründlich.
+> 제 가장 좋은 친구. 저에 대한 조사를 그렇게 본 적 없어요. 근데 어쩌면 맞으세요. 그럼 철저하길 바라요. 아주 철저하게.
+
+# 장면 1 — WIE EIN VERDACHT ENTSTEHT
+KATRIN: Hört mir zu, alle. Als Juristin sage ich: Was Mira hat, würde vor keinem Gericht standhalten. Anwesenheit ist kein Beweis. Zugang ist kein Beweis. Gelegenheit ist kein Beweis.
+> 다들 들으세요. 법률가로서 말해요. 미라가 가진 건 어떤 법정에서도 못 버텨요. 출근은 증거가 아니에요. 접근 권한은 증거가 아니에요. 기회는 증거가 아니에요.
+JAN: Erklär das genauer, Katrin. Warum ist Gelegenheit kein Beweis?
+> 더 자세히 설명해 줘, 카트린. 왜 기회가 증거가 아니야?
+KATRIN: Weil tausend Menschen die Gelegenheit zu einem Verbrechen haben und es nicht tun. Wer an einem Bahnsteig steht, hätte jemanden schubsen können. Hat er aber nicht. Gelegenheit sagt nichts über die Tat.
+> 수천 명이 범죄의 기회가 있어도 안 저질러요. 승강장에 선 사람은 누굴 밀 수 있었어요. 근데 안 했죠. 기회는 행위에 대해 아무것도 말 안 해요.
+HELENE: Und doch ist es menschlich, dass wir jetzt anders auf Leon schauen. Das ist genau die Gefahr. Der Verdacht vergiftet, auch wenn er unbewiesen ist. Vielleicht gerade dann.
+> 그래도 지금 레온을 다르게 보는 건 인간적이에요. 그게 바로 위험이에요. 의심은 입증 안 돼도 중독시켜요. 어쩌면 바로 그때 더.
+MIRA: Deshalb habe ich lange gezögert, ob ich das überhaupt zeige. Aber es zu verschweigen wäre auch falsch. Dann würde ich allein mit einem Verdacht sitzen. Das ist noch schlimmer.
+> 그래서 이걸 보여 줄지 오래 망설였어요. 근데 숨기는 것도 틀려요. 그럼 저 혼자 의심을 안고 앉아 있게 되죠. 그게 더 나빠요.
+LEON: Warum ist es schlimmer, wenn du es allein weißt? Dann würde mich wenigstens keiner so ansehen.
+> 당신 혼자 아는 게 왜 더 나빠요? 그럼 적어도 아무도 절 그렇게 안 볼 텐데요.
+MIRA: Weil ein geheimer Verdacht wächst, Leon. Im Dunkeln wird aus einer Tabelle eine Gewissheit, ganz von selbst. Im Licht, vor allen, bleibt sie eine Tabelle, die man prüfen kann. Geheimnisse vergiften. Offenheit heilt.
+> 비밀 의심은 자라니까, 레온. 어둠 속에선 표가 저절로 확신이 돼. 빛 속에선, 모두 앞에선, 확인할 수 있는 표로 남고. 비밀은 중독시켜. 공개는 치유하고.
+JAN: Du hast richtig gehandelt, Mira. Ein Verdacht, den einer allein trägt, wird zum Gift. Ein Verdacht, den alle offen sehen, wird zu einer Aufgabe. Jetzt ist es eine Aufgabe.
+> 잘했어, 미라. 혼자 지는 의심은 독이 돼. 모두가 터놓고 보는 의심은 과제가 되지. 이제 과제야.
+LEON: Eine Aufgabe. Das heißt, ihr wollt rausfinden, ob ich es war. Gut. Macht das. Ich habe nichts zu verbergen. Prüft alles. Mein Konto, meinen Rechner, meine Nachrichten. Alles.
+> 과제. 그럼 제가 그랬는지 알아내고 싶으신 거네요. 좋아요. 하세요. 전 숨길 게 없어요. 전부 확인하세요. 제 계정, 제 컴퓨터, 제 메시지. 전부요.
+KATRIN: Leon, warte. Als deine Kollegin und als Juristin rate ich dir: Gib nicht einfach alles frei. Nicht aus Schuld, sondern aus Prinzip. Auch ein Unschuldiger hat ein Recht auf Privatsphäre.
+> 레온, 잠깐. 네 동료이자 법률가로서 조언할게. 그냥 전부 넘기지 마. 죄가 있어서가 아니라 원칙으로. 결백한 사람도 사생활 권리가 있어.
+JAN: Katrin spricht einen wichtigen Punkt an. Dasselbe gilt für ganze Gesellschaften. «Wer nichts zu verbergen hat, hat nichts zu befürchten» — dieser Satz klingt gut und ist brandgefährlich.
+> 카트린이 중요한 점을 짚어. 사회 전체에도 똑같이 적용돼. «숨길 게 없으면 두려울 것도 없다» — 이 문장은 좋게 들리는데 지독히 위험해.
+LEON: Warum gefährlich? Mir klingt er vernünftig. Wenn ich sauber bin, warum nicht alles zeigen?
+> 왜 위험해요? 전 분별 있게 들리는데요. 제가 깨끗하면 왜 다 안 보여줘요?
+KATRIN: Weil er die Beweislast umdreht, Leon. Plötzlich musst du deine Unschuld beweisen, statt dass jemand deine Schuld beweist. In einem Rechtsstaat ist es umgekehrt. Das ist kein Detail. Das ist das Fundament.
+> 입증 책임을 뒤집으니까, 레온. 갑자기 네가 결백을 증명해야 해, 누가 네 죄를 증명하는 게 아니라. 법치국가에선 반대야. 그건 사소한 게 아니야. 토대야.
+SWETA: In meinem alten Land galt genau dieser Satz. «Wer nichts zu verbergen hat...» Und am Ende hatte jeder etwas zu verbergen, weil alles verdächtig gemacht wurde. Ein Tagebuch. Ein Witz. Ein Buch im Regal.
+> 제 옛 나라에선 바로 이 문장이 통했어요. «숨길 게 없으면...» 그리고 끝엔 다들 숨길 게 생겼어요, 모든 게 수상하게 만들어졌으니까. 일기 하나. 농담 하나. 책꽂이의 책 한 권.
+LEON: Also schützt die Privatsphäre nicht die Schuldigen, sondern die Unschuldigen? Das hätte ich umgekehrt gedacht.
+> 그럼 사생활은 죄 있는 사람이 아니라 결백한 사람을 지키는 거예요? 전 반대로 생각했어요.
+JAN: Fast alle denken es zuerst umgekehrt, Leon. Deshalb ist es so wichtig, es einmal richtig verstanden zu haben. Die Schuldigen kommen meist durch. Es sind die Unschuldigen, die ohne Schutz zermalmt werden.
+> 거의 다 처음엔 반대로 생각해, 레온. 그래서 한번 제대로 이해하는 게 그렇게 중요해. 죄 있는 자는 대개 빠져나가. 보호 없이 짓이겨지는 건 결백한 사람들이야.
+
+# 장면 2 — DER EIFER DES UNSCHULDIGEN
+LEON: Aber wenn ich nichts freigebe, denkt doch jeder, ich verstecke was. Ich will, dass ihr seht, dass da nichts ist.
+> 근데 제가 아무것도 안 넘기면 다들 제가 뭘 숨긴다고 생각하잖아요. 거기 아무것도 없다는 걸 보시길 바라요.
+KATRIN: Das ist der Reflex des Unschuldigen, Leon. Und er ist gefährlich. Wer in Panik alles freigibt, macht sich angreifbar. Stell dir vor, auf deinem Rechner ist etwas, von dem du nichts weißt.
+> 그게 결백한 사람의 반사야, 레온. 그리고 위험해. 공황에 빠져 전부 넘기는 사람은 공격당하기 쉬워져. 네 컴퓨터에 네가 모르는 뭔가가 있다고 상상해 봐.
+LEON: Wie sollte auf meinem Rechner etwas sein, von dem ich nichts weiß? Das ist mein Rechner.
+> 어떻게 제 컴퓨터에 제가 모르는 게 있어요? 제 컴퓨터인데요.
+MIRA: Leon, das ist technisch leichter, als du denkst. Ein Rechner kann Dinge tun, von denen sein Besitzer nichts ahnt. Programme im Hintergrund. Fernzugriffe. Vieles.
+> 레온, 그건 네 생각보다 기술적으로 쉬워. 컴퓨터는 주인이 짐작도 못 하는 일을 할 수 있어. 백그라운드 프로그램. 원격 접속. 많아.
+JAN: Und genau deshalb prüfen wir nicht, um dich zu überführen, Leon. Wir prüfen, um dich zu entlasten. Das ist ein großer Unterschied. Dieselbe Handlung, ein anderes Ziel.
+> 그래서 바로 우린 널 유죄로 만들려고 확인하는 게 아니야, 레온. 널 벗겨 주려고 확인해. 큰 차이야. 같은 행동, 다른 목표.
+LEON: Mich entlasten. Das klingt besser als mich überführen. Also gut. Aber ich will dabei sein. Ich will sehen, was ihr seht.
+> 절 벗긴다. 유죄로 만드는 것보다 낫게 들리네요. 그럼 좋아요. 근데 전 함께 있을래요. 당신들이 보는 걸 보고 싶어요.
+HELENE: Das ist fair. Und richtig. Niemand prüft Leons Sachen ohne Leon. Transparenz in beide Richtungen. Wer geprüft wird, darf zusehen. Das ist die Regel.
+> 공정해요. 그리고 옳고요. 아무도 레온 없이 레온 물건을 확인 안 해요. 양방향 투명성. 확인받는 사람이 지켜봐도 돼요. 그게 규칙이에요.
+KATRIN: Gut. Dann machen wir es juristisch sauber. Wir prüfen nur den Dienstrechner, nicht die privaten Geräte. Und Leon ist die ganze Zeit dabei. Einverstanden, Leon?
+> 좋아요. 그럼 법적으로 깨끗하게 해요. 업무용 컴퓨터만 확인하고 개인 기기는 안 해요. 그리고 레온이 내내 함께. 동의해, 레온?
+LEON: Einverstanden. Macht es. Lieber heute die Wahrheit als noch eine Nacht mit diesen Blicken.
+> 동의해요. 하세요. 이 눈초리로 하룻밤 더 보내느니 오늘 진실이 나아요.
+
+# 장면 3 — DER DIENSTRECHNER
+MIRA: Ich schaue zuerst nach laufenden Prozessen. Was tut der Rechner gerade, während niemand ihn benutzt? … Moment.
+> 먼저 실행 중인 프로세스를 봐요. 아무도 안 쓰는 동안 컴퓨터가 지금 뭘 하는지. … 잠깐.
+JAN: Was ist, Mira?
+> 뭐야, 미라?
+MIRA: Da läuft ein Programm im Hintergrund. Es hat keinen normalen Namen. Es heißt «svchost-update». Das klingt wie ein Windows-Dienst, ist aber keiner. Es ist getarnt.
+> 백그라운드에서 프로그램이 돌아요. 정상적인 이름이 아니에요. «svchost-update»예요. 윈도우 서비스처럼 들리는데 아니에요. 위장됐어요.
+LEON: Was ist das? Ich habe das nie installiert. Ich schwöre, ich kenne das nicht. Was macht das auf meinem Rechner?
+> 그게 뭐예요? 전 그거 설치한 적 없어요. 맹세해요, 그거 몰라요. 그게 제 컴퓨터에서 뭘 해요?
+MIRA: Es ist ein Fernzugriffsprogramm. Jemand kann sich von außen auf diesen Rechner schalten. Bildschirm sehen, Dateien kopieren, sogar das Mikrofon anschalten. Ohne dass du etwas merkst.
+> 원격 접속 프로그램이에요. 누가 밖에서 이 컴퓨터에 접속할 수 있어요. 화면을 보고, 파일을 복사하고, 심지어 마이크를 켤 수도. 네가 아무것도 모르는 채로.
+LEON: Das Mikrofon? Das heißt, jemand könnte gehört haben, was ich am Schreibtisch sage? Jedes Telefonat? Jedes Gespräch im Raum?
+> 마이크요? 그럼 누가 제가 책상에서 하는 말을 들었을 수도요? 모든 통화를? 방 안 모든 대화를?
+MIRA: Theoretisch ja. Und genau hier wird es wichtig für Jan. Jans «äh», das nur intern vorkommt — erinnert ihr euch? Das Deepfake hatte es. Ein eingeschaltetes Mikrofon erklärt, woher.
+> 이론상 네. 그리고 바로 여기서 얀한테 중요해져요. 내부에서만 나오는 얀의 «어» — 기억나요? 딥페이크에 있었죠. 켜진 마이크가 어디서 왔는지 설명해요.
+JAN: Das ist es. Das fehlende Stück. Niemand hat eine geheime Aufnahme gestohlen. Jemand hat über mein eigenes Mikrofon live mitgehört. Monatelang. Durch ein Programm auf meinem Rechner.
+> 그거야. 빠진 조각. 아무도 비밀 녹음을 훔치지 않았어. 누가 내 마이크로 생중계로 엿들었어. 몇 달간. 내 컴퓨터의 프로그램으로.
+HELENE: Dann war das Deepfake von Anfang an von innen gespeist. Nicht ein Hack von außen, sondern ein Ohr in unserer Mitte. Die ganze Zeit. Das ist ein kalter Gedanke.
+> 그럼 딥페이크는 처음부터 안에서 공급됐네요. 외부 해킹이 아니라 우리 한가운데의 귀. 내내. 차가운 생각이에요.
+MIRA: Ein kalter Gedanke, aber ein nützlicher. Denn jetzt wissen wir, wo wir suchen müssen. Nicht draußen. Hier. Bei dem, der dieses Ohr installiert hat.
+> 차가운 생각이지만 유용해요. 이제 어디를 찾아야 하는지 아니까요. 밖이 아니라. 여기. 이 귀를 설치한 자한테.
+HELENE: Also war es vielleicht gar nicht Leon, der die Daten weitergab. Sondern jemand, der sich heimlich auf Leons Rechner geschaltet hat. Durch Leon hindurch, ohne Leon.
+> 그럼 데이터를 흘린 게 레온이 아닐 수도 있네요. 몰래 레온 컴퓨터에 접속한 누군가. 레온을 관통해서, 레온 없이.
+JAN: Das verändert alles. Die Zeitachse zeigt, wann Leons Rechner die Daten hatte. Nicht, dass Leon sie verschickt hat. Der Rechner war das Werkzeug. Nicht unbedingt der Mensch.
+> 모든 게 바뀌어. 타임라인은 레온 컴퓨터가 데이터를 가졌던 때를 보여 줘. 레온이 보냈다는 게 아니라. 컴퓨터가 도구였어. 꼭 사람이 아니라.
+LEON: Also… also war ich es vielleicht wirklich nicht? Es war dieses Programm? Jemand hat mich benutzt?
+> 그럼… 그럼 정말 제가 아니었을 수도요? 이 프로그램이었어요? 누가 절 이용했어요?
+MIRA: Langsam, Leon. Das ist jetzt genauso eine Vermutung wie vorher die gegen dich. Wir dürfen nicht von einem schnellen Verdacht in einen anderen springen. Ich muss herausfinden, wer das Programm installiert hat.
+> 천천히, 레온. 이제 그것도 아까 너에 대한 것만큼이나 추측이야. 성급한 의심에서 다른 의심으로 건너뛰면 안 돼. 누가 이 프로그램을 설치했는지 알아내야 해.
+LEON: Aber es beweist doch wenigstens, dass es auch anders gewesen sein kann. Dass nicht nur ich infrage komme. Oder?
+> 근데 적어도 다르게였을 수도 있다는 걸 증명하잖아요. 저만 해당하는 게 아니란 걸. 아니에요?
+JAN: Ja, das beweist es. Und das ist wichtig, Leon. Eine einzige andere Erklärung reicht, um einen Verdacht zu entkräften. Du bist nicht mehr die einzige mögliche Antwort. Das ist schon viel.
+> 응, 증명해. 그리고 그게 중요해, 레온. 단 하나의 다른 설명만으로 의심이 약해져. 넌 더는 유일하게 가능한 답이 아니야. 그것만으로 큰 거야.
+MIRA: Aber — und das ist der Punkt, an dem ich vorsichtig sein muss — ein Fernzugriffsprogramm beweist nicht, dass Leon unschuldig ist. Es beweist nur, dass es einen anderen Weg gab. Wer ihn benutzt hat, wissen wir noch nicht.
+> 근데 — 그게 제가 조심해야 할 지점인데 — 원격 접속 프로그램이 레온이 결백하다는 걸 증명하진 않아요. 다른 길이 있었다는 것만 증명하죠. 누가 그걸 썼는지는 아직 몰라요.
+HELENE: Theoretisch könnte Leon das Programm sogar selbst installiert haben, um sich eine Ausrede zu bauen. Ich sage nicht, dass er das tat. Ich sage, ein guter Ermittler denkt auch das mit.
+> 이론상 레온이 변명거리를 만들려고 그 프로그램을 직접 깔았을 수도 있어요. 그랬다는 게 아니에요. 좋은 조사관은 그것도 염두에 둔다는 거예요.
+LEON: Das ist hart. Gerade als ich dachte, es geht in meine Richtung, drehen Sie es wieder gegen mich.
+> 가혹하네요. 막 제 쪽으로 간다고 생각했는데 다시 저한테 돌리시네요.
+HELENE: Nicht gegen dich, Leon. Gegen die Bequemlichkeit. Es wäre bequem, jetzt aufzuatmen und zu sagen «war das Programm». Aber bequem und wahr sind nicht dasselbe. Wir wollen wahr.
+> 너한테가 아니야, 레온. 편의에 맞서는 거야. 지금 한숨 돌리며 «프로그램이었다»고 하는 게 편하겠지. 근데 편한 거랑 참인 건 달라. 우린 참을 원해.
+
+# 장면 4 — WER HAT ES INSTALLIERT?
+JAN: Kann man sehen, wann und von wem das Programm auf Leons Rechner kam?
+> 그 프로그램이 언제 누구한테서 레온 컴퓨터에 왔는지 볼 수 있어?
+MIRA: Ja. Jede Installation hinterlässt ein Protokoll. Installiert am… vor vier Monaten. Und zwar nicht aus dem Internet. Von innen. Über unser eigenes Netzwerk. Von einem Administrator-Konto.
+> 네. 설치마다 기록이 남아요. 설치일이… 4개월 전. 그것도 인터넷에서가 아니라. 안에서. 우리 자체 네트워크를 통해. 관리자 계정으로.
+HELENE: Ein Administrator-Konto. Wer hat bei uns Administrator-Rechte? Das sind nicht viele.
+> 관리자 계정. 우리 중에 관리자 권한이 있는 게 누구죠? 많지 않아요.
+MIRA: Genau genommen nur zwei. Ich. Und die Person, die unsere gesamte IT und Sicherheit betreut, seit wir nach dem Hack von Teil zwei aufgerüstet haben. Patrick.
+> 엄밀히 둘뿐이에요. 저. 그리고 2부 해킹 이후 우리가 보안을 강화한 뒤로 전체 IT와 보안을 맡아 온 사람. 파트리크.
+LEON: Und du, Mira? Du hast auch Admin-Rechte. Müsste man nach eurer eigenen Regel nicht auch dich prüfen? Damit es fair bleibt?
+> 그럼 당신은요, 미라? 당신도 관리자 권한이 있잖아요. 당신들 규칙대로면 당신도 확인해야 하지 않아요? 공정하려면?
+MIRA: Du hast vollkommen recht, Leon. Und ich bin froh, dass du es sagst. Ja, prüft mich. Jan, nimm du die Prüfung meines Kontos. Ich will nicht die Einzige sein, die sich selbst prüft.
+> 네 말이 완전히 맞아, 레온. 그리고 네가 말해 줘서 기뻐. 응, 날 확인해. 얀, 네가 내 계정 검증을 맡아. 나 혼자 스스로를 검증하는 사람이 되고 싶지 않아.
+JAN: Gut. Ich prüfe Miras Zugänge, Mira prüft die Rechner. Zwei Augenpaare, kein blinder Fleck. So macht man es, wenn man es ernst meint. Niemand ist über jeden Verdacht erhaben. Auch wir nicht.
+> 좋아. 내가 미라 접근 권한을 검증하고, 미라가 컴퓨터를 검증해. 두 쌍의 눈, 사각지대 없이. 진지하면 그렇게 하는 거야. 아무도 모든 의심 위에 있지 않아. 우리도.
+LEON: Das beruhigt mich tatsächlich. Nicht weil ich Mira verdächtige. Sondern weil jetzt für alle dieselbe Regel gilt. Auch für die, die die Regel aufgestellt haben.
+> 그게 정말 안심돼요. 제가 미라를 의심해서가 아니라. 이제 모두한테 같은 규칙이 적용되니까요. 규칙을 세운 사람한테도요.
+HELENE: Das, Leon, ist der Unterschied zwischen uns und einer Agentur wie HH. Bei denen gilt die Regel nur für die unten. Bei uns gilt sie für alle. Oder sie gilt für niemanden.
+> 그게, 레온, 우리랑 HH 같은 에이전시의 차이야. 거긴 규칙이 아래층한테만 적용돼. 우린 모두한테 적용되거나. 아무한테도 안 되거나.
+JAN: Patrick. Unser IT-Mann. Der nach dem Hack kam. Der uns «sicherer» gemacht hat.
+> 파트리크. 우리 IT 담당. 해킹 뒤에 온. 우릴 «더 안전하게» 만들어 준.
+MIRA: Ich will fair sein, wie bei Leon. Dass Patrick Admin-Rechte hat, ist sein Job. Dass er Programme installiert, ist sein Job. Das allein beweist nichts. Genau wie Leons Anwesenheit nichts bewies.
+> 레온 때처럼 공정하고 싶어요. 파트리크가 관리자 권한을 가진 건 그 사람 일이에요. 프로그램을 설치하는 것도 일이고요. 그것만으론 아무것도 증명 안 돼요. 레온 출근이 아무것도 증명 못 했듯이.
+KATRIN: Sehr richtig, Mira. Wir machen jetzt nicht denselben Fehler zum zweiten Mal. Erst haben wir vorschnell auf Leon gezeigt. Jetzt zeigen wir nicht vorschnell auf Patrick. Wir prüfen. Ruhig.
+> 아주 맞아요, 미라. 같은 실수를 두 번째로 안 해요. 처음엔 성급히 레온을 가리켰어요. 이제 성급히 파트리크를 안 가리켜요. 확인해요. 차분히.
+LEON: Aber für mich fühlt es sich an wie eine Befreiung. Zum ersten Mal zeigt etwas weg von mir. Ihr wisst nicht, wie das ist, wenn alle Spuren auf einen zeigen.
+> 근데 저한텐 해방처럼 느껴져요. 처음으로 뭔가 저한테서 멀어지는 쪽을 가리켜요. 모든 흔적이 한 사람을 가리킬 때가 어떤지 모르실 거예요.
+JAN: Doch, Leon. Ich weiß genau, wie das ist. Vor ein paar Wochen zeigte ein Deepfake auf mich, und eine ganze Stadt glaubte es. Genau deshalb tun wir Patrick nicht an, was man uns angetan hat.
+> 알아, 레온. 정확히 어떤지 알아. 몇 주 전 딥페이크가 날 가리켰고 도시 전체가 믿었어. 그래서 바로 우린 우리가 당한 걸 파트리크한테 안 해.
+MIRA: Trotzdem muss ich etwas sagen, das unangenehm ist. Wenn Patrick das Programm installiert hat und wenn er der Verräter wäre — dann wäre das eine sehr dunkle Logik.
+> 그래도 불편한 걸 말해야겠어요. 파트리크가 그 프로그램을 깔았고 만약 그가 배신자라면 — 그건 아주 어두운 논리예요.
+JAN: Sag es. Welche Logik?
+> 말해 줘. 어떤 논리?
+MIRA: Patrick kam nach dem Hack aus Teil zwei zu uns. Als Retter. Als der Mann, der uns sicher macht. Was, wenn der Brandstifter sich als Feuerwehrmann einstellen lässt?
+> 파트리크는 2부 해킹 뒤에 우리한테 왔어요. 구원자로. 우릴 안전하게 만드는 사람으로. 방화범이 소방관으로 취직한 거라면요?
+HELENE: Der Brandstifter als Feuerwehrmann. Das ist ein schwerer Verdacht, Mira. Bedenke, was wir Leon gerade erklärt haben. Das gilt auch für Patrick. Ein Verdacht ist keine Tat.
+> 소방관인 방화범. 무거운 의심이에요, 미라. 방금 레온한테 설명한 걸 생각해요. 파트리크한테도 적용돼요. 의심은 행위가 아니에요.
+MIRA: Ich weiß, Helene. Und genau deshalb sage ich es laut und nicht leise. Ein lauter Verdacht, den alle prüfen, ist fair. Ein leiser, den ich für mich behalte, wäre feige. Ich prüfe jetzt alle Rechner.
+> 알아요, 헬레네. 그래서 바로 조용히가 아니라 크게 말해요. 모두가 검증하는 큰 의심은 공정해요. 혼자 품는 조용한 의심은 비겁하고요. 지금 모든 컴퓨터를 확인할게요.
+JAN: Tu das. Und, Leon: Siehst du, was gerade passiert? Derselbe Verdacht, der dich fast zerdrückt hätte, wird jetzt an Patrick mit derselben Vorsicht angelegt. Das ist Gerechtigkeit. Langsam, aber gleich für alle.
+> 그렇게 해. 그리고 레온, 방금 뭐가 일어나는지 보여? 널 거의 짓누를 뻔한 같은 의심이 이제 파트리크한테 같은 신중함으로 적용돼. 그게 정의야. 느리지만, 모두에게 똑같은.
+LEON: Ich sehe es. Und ehrlich, Jan: Jetzt, wo es jemand anderen trifft, wünsche ich es nicht einmal Patrick. Ich weiß jetzt, wie es sich anfühlt. Keiner sollte das durchmachen, der es nicht war.
+> 보여요. 그리고 솔직히, 얀. 이제 다른 사람한테 가니까, 파트리크한테조차 안 바라요. 이제 그게 어떤 느낌인지 아니까요. 안 한 사람은 누구도 그걸 겪으면 안 돼요.
+
+# 장면 5 — DAS GESPRÄCH MIT PATRICK
+PATRICK: Ihr wolltet mich sprechen? Mira sagte, es geht um einen Sicherheitsvorfall. Gut, dafür bin ich ja da. Was ist passiert? Zeigt mir die Logs.
+> 저랑 얘기하고 싶으셨다고요? 미라가 보안 사고 건이랬어요. 좋아요, 그러라고 제가 있는 거죠. 무슨 일이에요? 로그를 보여 주세요.
+JAN: Setz dich, Patrick. Wir haben auf Leons Dienstrechner ein Fernzugriffsprogramm gefunden. Getarnt als «svchost-update». Installiert vor vier Monaten über ein Admin-Konto.
+> 앉아, 파트리크. 레온 업무용 컴퓨터에서 원격 접속 프로그램을 찾았어. «svchost-update»로 위장된. 4개월 전 관리자 계정으로 설치된.
+PATRICK: Ach, das. Ja, das war ich. Das ist ein Sicherheits-Patch. Ein Monitoring-Tool. Ich habe es nach dem Hack auf allen Rechnern installiert, damit ich Angriffe früh sehe. Steht in meinem Protokoll.
+> 아, 그거요. 네, 제가 했어요. 그건 보안 패치예요. 모니터링 도구. 해킹 뒤에 공격을 일찍 보려고 모든 컴퓨터에 깔았어요. 제 기록에 있어요.
+JAN: Ein Monitoring-Tool, das sich als «svchost-update» tarnt? Warum tarnt ein internes Sicherheitswerkzeug sich vor den eigenen Leuten? Ein ehrliches Tool trägt seinen echten Namen.
+> «svchost-update»로 위장하는 모니터링 도구? 왜 내부 보안 도구가 자기 사람들한테 위장해? 정직한 도구는 진짜 이름을 달아.
+PATRICK: Das ist Standard. Man tarnt Sicherheitssoftware, damit ein echter Angreifer sie nicht erkennt und ausschaltet. Das ist mein Handwerk. Ihr versteht das nur nicht.
+> 그게 표준이에요. 진짜 공격자가 알아보고 끄지 못하게 보안 소프트웨어를 위장해요. 그게 제 기술이에요. 당신들이 이해를 못 할 뿐이죠.
+MIRA: Das stimmt für Tarnung nach außen, Patrick. Aber dein Tool versteckt sich auch im internen Protokoll, das nur wir sehen. Vor wem tarnt es sich da? Vor uns. Das ist kein Schutz. Das ist Verstecken.
+> 외부에 대한 위장은 맞아, 파트리크. 근데 네 도구는 우리만 보는 내부 기록에서도 숨어. 거기선 누구한테 위장해? 우리한테. 그건 보호가 아니야. 숨기기지.
+MIRA: Auf allen Rechnern? Dann müsste es auch auf meinem sein. Und auf Jans. Lass mich das kurz prüfen, Patrick. Nur zur Vollständigkeit.
+> 모든 컴퓨터에요? 그럼 제 것에도 있어야겠네요. 얀 것에도. 잠깐 확인할게요, 파트리크. 완전성을 위해서요.
+PATRICK: Natürlich. Prüf ruhig. Es ist auf allen. Transparenz ist mir wichtig. Ich habe nichts zu verbergen, im Gegensatz zu manch anderem hier vielleicht.
+> 물론이죠. 얼마든지 확인하세요. 전부에 있어요. 투명성이 저한텐 중요해요. 전 숨길 게 없어요, 여기 누구와는 달리 말이죠.
+KATRIN: «Transparenz ist mir wichtig» und «ich habe nichts zu verbergen» — Patrick, du benutzt genau die Sätze, vor denen ich Leon vorhin gewarnt habe. Das ist interessant.
+> «투명성이 중요하다»와 «숨길 게 없다» — 파트리크, 넌 방금 내가 레온한테 경고한 바로 그 문장을 써. 흥미롭네.
+PATRICK: Weil es stimmt. Nur wer etwas verbirgt, fürchtet die Prüfung. Ich fürchte sie nicht. Ich habe sie sogar selbst eingerichtet. Jede Prüfung, die ihr macht, läuft auf einem System, das ich gebaut habe.
+> 사실이니까요. 뭘 숨기는 사람만 검증을 두려워해요. 전 안 두려워요. 심지어 제가 직접 구축했어요. 당신들이 하는 모든 검증이 제가 만든 시스템에서 돌아가요.
+MIRA: Das stimmt nicht ganz, Patrick. Die Prüfung, die ich jetzt mache, läuft nicht auf deinem System. Sie läuft auf einem Rechner, der nie mit unserem Netz verbunden war. Den habe ich selbst aufgesetzt. Letzte Woche.
+> 완전히 맞진 않아, 파트리크. 내가 지금 하는 검증은 네 시스템에서 안 돌아가. 우리 망에 한 번도 연결된 적 없는 컴퓨터에서 돌아가. 내가 직접 설치했어. 지난주에.
+PATRICK: Du hast ein System aufgesetzt, von dem ich nichts weiß? Ohne mich zu informieren? Das ist ein Verstoß gegen unsere Sicherheitsrichtlinie. Meine Richtlinie.
+> 내가 모르는 시스템을 설치했어? 나한테 알리지도 않고? 그건 우리 보안 지침 위반이야. 내 지침.
+JAN: Und warum stört dich das so sehr, Patrick? Ein unabhängiges Prüfsystem sollte dir doch recht sein. Es sei denn, es sieht etwas, das dein System absichtlich nicht gezeigt hätte.
+> 그리고 그게 왜 그렇게 거슬려, 파트리크? 독립적 검증 시스템은 너한테 오히려 반가워야지. 네 시스템이 일부러 안 보여 줬을 뭔가를 그게 볼 경우만 빼면.
+PATRICK: Ihr unterstellt mir die ganze Zeit etwas. Ich lasse mich hier nicht in die Enge treiben. Macht eure Prüfung. Aber ich sage euch: Ihr findet nichts, weil da nichts ist.
+> 당신들은 내내 저한테 뭘 뒤집어씌워요. 전 여기서 몰리지 않아요. 검증하세요. 근데 말할게요. 거기 아무것도 없으니 아무것도 못 찾아요.
+JAN: Was meinst du mit «manch anderem»?
+> «여기 누구»가 무슨 뜻이야?
+PATRICK: Na, ich meine ja nur. Die Zeitachse zeigt doch ziemlich klar auf Leon, oder? Ich will niemandem zu nahe treten. Aber Fakten sind Fakten. Der Junge war immer da, wenn etwas durchsickerte.
+> 아니, 그냥 하는 말이에요. 타임라인이 레온을 꽤 분명히 가리키잖아요, 아닌가요? 누굴 몰아세우고 싶진 않아요. 근데 사실은 사실이죠. 뭔가 샐 때마다 그 친구가 늘 있었어요.
+SWETA: Interessant, Patrick. Woher weißt du so genau, was die Zeitachse zeigt? Wir haben sie heute Morgen zum ersten Mal besprochen. In einem kleinen Kreis. Du warst nicht dabei.
+> 흥미롭네, 파트리크. 타임라인이 뭘 보여 주는지 그렇게 정확히 어떻게 알아? 우린 오늘 아침 처음 그걸 논의했어. 작은 자리에서. 넌 없었고.
+PATRICK: Ich habe doch nur gesagt, was logisch ist. Jeder mit Zugang zu den Logs sieht das. Der Neue, der oft da ist — das ist naheliegend. Da braucht man keine Insider-Infos für.
+> 전 그냥 논리적인 걸 말했을 뿐이에요. 로그에 접근하는 사람은 다 봐요. 자주 있는 신입 — 자연스럽죠. 내부 정보 필요 없어요.
+MIRA: Aber du hast nicht gesagt «der Neue». Du hast «Leon» gesagt. Und du hast «Zeitachse» gesagt. Das Wort «Zeitachse» habe ich erfunden, heute Morgen. Es steht nirgends. Nur wir vier kennen es.
+> 근데 넌 «신입»이라고 안 했어. «레온»이라고 했어. 그리고 «타임라인»이라고 했어. «타임라인»이란 말은 내가 오늘 아침 지어냈어. 어디에도 없어. 우리 넷만 알아.
+PATRICK: Das ist doch ein normales Wort. Zeitachse. Das sagt jeder.
+> 그건 평범한 단어잖아요. 타임라인. 다들 쓰는.
+SWETA: Es ist ein normales Wort. Aber du hast es im selben Atemzug mit «Leon» benutzt, Minuten nachdem wir beides zum ersten Mal verbunden haben. In einem Raum, in dem du nicht warst. Das ist kein Wort. Das ist ein Echo.
+> 평범한 단어지. 근데 넌 그걸 «레온»과 한 호흡에 썼어, 우리가 둘을 처음 연결한 지 몇 분 뒤에. 네가 없던 방에서. 그건 단어가 아니야. 메아리야.
+JAN: Patrick, ich will fair bleiben. Es gibt eine harmlose Erklärung für fast alles. Vielleicht hast du die Logs gesehen und selbst kombiniert. Dann sag uns einfach, wann und wie. Ganz ruhig.
+> 파트리크, 공정하고 싶어. 거의 모든 것엔 무해한 설명이 있어. 어쩌면 네가 로그를 보고 스스로 짜맞췄을 수도. 그럼 그냥 언제 어떻게인지 말해 줘. 아주 차분히.
+PATRICK: Ich… ich weiß es nicht mehr genau. Vielleicht habe ich eine Mail mitgelesen. Als Sicherheitsverantwortlicher scanne ich den Mailverkehr auf Bedrohungen. Vielleicht stand es da.
+> 전… 정확히 기억 안 나요. 어쩌면 메일을 같이 읽었을지도. 보안 책임자로서 위협 탐지하려고 메일 트래픽을 스캔해요. 거기 있었을지도요.
+KATRIN: Du liest unseren Mailverkehr mit? Das ist eine sehr wichtige Information, Patrick. Hast du eine Einwilligung dafür? Denn ohne Einwilligung wäre genau das eine Straftat.
+> 넌 우리 메일 트래픽을 같이 읽어? 그건 아주 중요한 정보야, 파트리크. 그에 대한 동의가 있어? 동의 없이면 바로 그게 범죄거든.
+
+# 장면 6 — DER KLEINE FEHLER
+PATRICK: Ich… na ja, Mira muss es erwähnt haben. Oder ich habe die Logs selbst gesehen, als Sicherheitsverantwortlicher. Das ist doch mein Job, so etwas zu sehen.
+> 전… 뭐, 미라가 언급했겠죠. 아니면 보안 책임자로서 제가 로그를 직접 봤거나. 그런 걸 보는 게 제 일이잖아요.
+MIRA: Ich habe es mit niemandem besprochen außer den vier Leuten heute Morgen. Und die Zeitachse liegt auf einem Rechner, der nicht in unserem Netzwerk ist. Da kommst du technisch nicht ran, Patrick.
+> 전 오늘 아침 네 사람 말곤 아무하고도 논의 안 했어. 그리고 타임라인은 우리 네트워크에 없는 컴퓨터에 있어. 넌 기술적으로 거기 못 닿아, 파트리크.
+PATRICK: Dann habe ich es mir eben zusammengereimt. Der Junge ist neu, er ist oft da, es liegt doch nahe. Macht aus einer logischen Vermutung keine Verschwörung.
+> 그럼 그냥 짜맞춘 거죠. 그 친구는 신입이고, 자주 있고, 자연스럽잖아요. 논리적 추측을 음모로 만들지 마세요.
+JAN: Patrick, niemand hat «Verschwörung» gesagt. Du bist der Erste, der das Wort benutzt. Und du bist der Erste, der Leon beschuldigt, obwohl wir alle vorsichtig waren. Das fällt mir auf.
+> 파트리크, 아무도 «음모»라고 안 했어. 네가 그 말을 쓴 첫 사람이야. 그리고 우리 모두 조심했는데 레온을 비난한 첫 사람이고. 그게 눈에 띄네.
+KATRIN: Und ich als Juristin stelle fest: Du hast gerade zweimal erklärt, woher du etwas weißt. Erst «Mira sagte es». Dann «ich sah die Logs». Zwei verschiedene Erklärungen für dasselbe Wissen. Das ist ungewöhnlich.
+> 그리고 법률가로서 확인해요. 넌 방금 뭔가를 어떻게 아는지 두 번 설명했어. 처음엔 «미라가 말했다». 그다음 «내가 로그를 봤다». 같은 앎에 대한 서로 다른 설명 둘. 그건 이례적이야.
+PATRICK: Ihr dreht mir die Worte im Mund herum. Ich bin derjenige, der euch nach dem Hack gerettet hat. Ich habe diese Firma sicher gemacht. Und so dankt ihr es mir? Mit einem Verhör?
+> 당신들이 제 말을 비틀어요. 전 해킹 뒤 당신들을 구한 사람이에요. 이 회사를 안전하게 만들었어요. 그런데 이렇게 보답해요? 심문으로?
+HELENE: Niemand verhört dich, Patrick. Das ist ein Gespräch. Genau wie bei Leon. Wir stellen Fragen. Wenn du nichts getan hast, helfen dir ehrliche Antworten mehr als Empörung.
+> 아무도 널 심문 안 해, 파트리크. 대화야. 레온 때처럼. 우린 질문해. 네가 아무것도 안 했으면 분노보다 정직한 답이 널 더 도와.
+SWETA: Und mir fällt noch etwas auf. Du hast gesagt, du hast das Programm auf allen Rechnern installiert. Für die Sicherheit. Aber Mira prüft gerade. Warten wir einfach, was sie findet. Ganz ruhig.
+> 그리고 하나 더 눈에 띄네. 넌 그 프로그램을 모든 컴퓨터에 깔았댔어. 보안을 위해. 근데 미라가 지금 확인 중이야. 그냥 그 사람이 뭘 찾는지 기다리자. 아주 차분히.
+PATRICK: Warum behandelt ihr mich plötzlich wie einen Verdächtigen? Vor zehn Minuten war Leon der Verräter. Jetzt soll ich es sein? Ihr sucht euch doch nur den Nächstbesten.
+> 왜 갑자기 절 용의자처럼 다뤄요? 10분 전엔 레온이 배신자였죠. 이제 저래요? 당신들은 그냥 아무나 골라요.
+JAN: Niemand hat Leon den Verräter genannt, Patrick. Das Wort kam von dir. Zweimal. Erst jetzt, und schon vorhin, als du «der Junge war immer da» gesagt hast.
+> 아무도 레온을 배신자라고 안 했어, 파트리크. 그 말은 너한테서 나왔어. 두 번. 방금, 그리고 아까 «그 친구가 늘 있었다»고 했을 때.
+PATRICK: Ihr verdreht mir jedes Wort. Das ist doch kein faires Gespräch mehr. Ich habe zwei Jahre alles für diese Firma gegeben. Nachtschichten. Wochenenden. Und das ist der Dank.
+> 당신들이 제 모든 말을 비틀어요. 더는 공정한 대화가 아니에요. 전 2년간 이 회사에 다 바쳤어요. 야간 근무. 주말. 그런데 이게 보답이네요.
+HELENE: Patrick, hör mir zu. Wenn du unschuldig bist, dann ist das hier unangenehm, aber harmlos. Mira prüft, findet nichts Belastendes, und wir entschuldigen uns bei dir. Genau wie bei Leon.
+> 파트리크, 들어 봐. 네가 결백하면 이건 불쾌하지만 무해해. 미라가 확인하고, 불리한 걸 못 찾고, 우린 너한테 사과해. 레온 때처럼.
+PATRICK: Und wenn eure Prüfung lügt? Software kann manipuliert werden. Vielleicht hat jemand Beweise auf meinen Rechner gelegt. So wie ihr es Leon unterstellt habt.
+> 그리고 당신들 검증이 거짓말하면요? 소프트웨어는 조작될 수 있어요. 누가 제 컴퓨터에 증거를 심었을지도요. 당신들이 레온한테 뒤집어씌운 것처럼요.
+MIRA: Das ist ein faires Argument, Patrick. Deshalb prüfe ich nicht nur, was auf den Rechnern ist, sondern auch die Protokolle auf einem separaten System, an das niemand herankommt. Auch du nicht.
+> 공정한 논거야, 파트리크. 그래서 난 컴퓨터에 뭐가 있는지만이 아니라, 아무도 못 닿는 별도 시스템의 기록도 확인해. 너도 못 닿는.
+SWETA: Und, Patrick, du sagst «so wie ihr es Leon unterstellt habt». Aber niemand hat Leon etwas unterstellt. Wir haben eine Tabelle gezeigt und sofort gesagt, dass sie nichts beweist. Du erzählst die Geschichte anders, als sie war.
+> 그리고 파트리크, 넌 «당신들이 레온한테 뒤집어씌운 것처럼»이라고 해. 근데 아무도 레온한테 뭘 안 씌웠어. 우린 표를 보여 주고 즉시 그게 아무것도 증명 안 한다고 했어. 넌 이야기를 있던 것과 다르게 말해.
+
+# 엔딩 — WAS MIRA FINDET
+MIRA: Ich bin fertig mit der Prüfung. Und das Ergebnis ist eindeutig. Das Programm «svchost-update» ist auf genau drei Rechnern. Nicht auf allen.
+> 확인 끝냈어요. 그리고 결과는 명확해요. «svchost-update» 프로그램은 정확히 세 대에 있어요. 전부가 아니라.
+JAN: Auf welchen drei?
+> 어느 셋에?
+MIRA: Auf Leons Rechner. Auf meinem. Und auf Jans. Genau auf den Rechnern der Leute, die am meisten mit den geleakten Themen zu tun hatten. Nicht «alle». Gezielt ausgewählt.
+> 레온 컴퓨터. 제 것. 그리고 얀 것. 정확히 유출된 주제와 가장 관련 있는 사람들의 컴퓨터예요. «전부»가 아니라. 겨냥해서 고른.
+JAN: Gezielt die drei, die an den heikelsten Geschichten arbeiten. Leon, weil er meine Termine kennt. Mira, weil sie die Daten hat. Ich, weil ich die Quellen führe. Wer das auswählt, kennt uns genau.
+> 가장 민감한 기사를 다루는 셋을 겨냥해. 레온은 내 일정을 아니까. 미라는 데이터를 가졌으니까. 난 취재원을 관리하니까. 그걸 고르는 자는 우릴 정확히 알아.
+MIRA: Und wer kennt uns so genau und hatte die Admin-Rechte, um es zu installieren? Die Liste ist sehr kurz. Sie hat genau einen Namen, der nicht ich bin.
+> 그리고 우릴 그렇게 정확히 알고 설치할 관리자 권한이 있는 게 누구죠? 목록이 아주 짧아요. 제가 아닌 이름 정확히 하나예요.
+PATRICK: Das… das muss ein Fehler in der Prüfung sein. Ich habe es überall installiert. Vielleicht hat dein Prüftool nicht alle erfasst.
+> 그건… 확인 오류일 거예요. 전 전부에 깔았어요. 당신 검사 도구가 전부 못 잡았겠죠.
+MIRA: Patrick, mein Prüftool ist dasselbe, mit dem du dich zertifiziert hast. Du hast mir beigebracht, es zu benutzen. Es erfasst alles. Es gibt keinen Fehler. Es sind drei Rechner.
+> 파트리크, 내 검사 도구는 네가 자격증 딴 바로 그거야. 네가 나한테 쓰는 법을 가르쳤어. 전부 잡아. 오류 없어. 세 대야.
+JAN: Patrick, ich stelle dir jetzt eine einzige, einfache Frage. Und ich bitte dich, sie ehrlich zu beantworten. Warum nur diese drei Rechner? Warum nicht auch deiner?
+> 파트리크, 이제 단 하나, 간단한 질문을 할게. 그리고 정직하게 답해 주길 부탁해. 왜 이 세 대뿐이지? 왜 네 것은 아니고?
+PATRICK: Weil… weil meiner als Admin-Rechner anders konfiguriert ist. Das ist normal. Das hat nichts zu bedeuten. Ich muss jetzt gehen, ich habe einen Termin.
+> 왜냐면… 내 건 관리자 컴퓨터라 다르게 설정돼 있어서. 그건 정상이에요. 아무 뜻도 없어요. 전 이제 가야 해요, 약속이 있어요.
+KATRIN: Niemand hält dich fest, Patrick. Du darfst jederzeit gehen. Aber ich sage dir als Juristin: Ein Termin mitten in diesem Gespräch sieht nicht gut aus. Für dich nicht.
+> 아무도 널 붙잡지 않아, 파트리크. 언제든 가도 돼. 근데 법률가로서 말할게. 이 대화 한복판의 약속은 좋아 보이지 않아. 너한테.
+JAN: Geh ruhig zu deinem Termin, Patrick. Wir sprechen uns wieder. Und bis dahin rührt niemand einen einzigen Rechner an. Mira sichert ab jetzt jedes Protokoll. Dreifach. Du weißt, wie das geht. Du hast es uns beigebracht.
+> 약속에 가, 파트리크. 우린 또 얘기해. 그때까지 아무도 컴퓨터 한 대도 안 건드려. 미라가 지금부터 모든 기록을 보존해. 3중으로. 어떻게 하는지 알잖아. 네가 우리한테 가르쳤으니까.
+PATRICK: Macht, was ihr wollt. Ihr findet nichts, was ihr mir anhängen könnt. Und wenn doch, dann habt ihr es selbst gelegt. Ich war der Einzige, der diese Firma ernst genommen hat.
+> 마음대로 하세요. 저한테 씌울 건 아무것도 못 찾아요. 찾으면 당신들이 직접 심은 거고요. 이 회사를 진지하게 받은 건 저뿐이었어요.
+PATRICK: Ihr werdet schon sehen, was ihr davon habt. Ich bin nicht allein. Da gibt es Leute, mit denen legt man sich besser nicht an. Auch ihr nicht.
+> 그게 당신들한테 뭐가 되는지 보게 될 거예요. 전 혼자가 아니에요. 함부로 건드리지 않는 게 좋은 사람들이 있어요. 당신들도요.
+JAN: Das, Patrick, war fast eine Drohung. Und Drohungen kommen selten von Unschuldigen. Aber ich halte dich nicht fest. Geh. Deine Worte haben wir alle gehört.
+> 그건, 파트리크, 거의 협박이었어. 그리고 협박은 결백한 사람한테서 좀처럼 안 나와. 근데 널 안 붙잡아. 가. 네 말은 우리 모두 들었어.
+PATRICK: Ihr werdet das bereuen. Alle. Besonders du, Kowalczyk.
+> 당신들은 후회할 거예요. 전부. 특히 너, 코발치크.
+LEON: Habt ihr das gehört? Er hat Jan gedroht. Und… und mir wird gerade klar: Die ganze Zeit dachte ich, ich sei der Verdächtige. Und der echte Täter stand jeden Tag neben mir.
+> 들으셨어요? 얀을 협박했어요. 그리고… 이제 깨달아요. 내내 제가 용의자인 줄 알았어요. 그리고 진짜 범인이 매일 제 옆에 서 있었고요.
+JAN: Noch ist Patrick nicht überführt, Leon. Fast, aber noch nicht ganz. Was wir heute haben, ist stark, aber es ist Indizien. Für den Beweis brauchen wir mehr. Und den Beweis holt uns jemand, der schon drin ist.
+> 아직 파트리크는 유죄로 안 밝혀졌어, 레온. 거의, 근데 완전히는 아니야. 오늘 가진 건 강하지만 정황이야. 증거를 위해선 더 필요해. 그리고 그 증거는 이미 안에 있는 누군가가 가져와.
+SWETA: Jemand, der schon drin ist. Ihr meint mich. Bei HH. Wenn Patrick zu HH gehört, dann finde ich den Faden, der ihn mit der Agentur verbindet. Von innen. Jetzt wird meine Mission noch wichtiger.
+> 이미 안에 있는 누군가. 절 말하는 거네요. HH에서. 파트리크가 HH 소속이면 그를 에이전시와 잇는 실을 제가 찾아요. 안에서. 이제 제 임무가 더 중요해졌어요.
+HELENE: Und gefährlicher. Patrick weiß jetzt, dass wir ihm auf der Spur sind. Wenn er zu denen gehört, warnt er sie. Sweta, wir müssen schneller sein, als Patrick reden kann.
+> 그리고 더 위험해졌어요. 파트리크는 이제 우리가 자길 쫓는 걸 알아요. 그가 그들 소속이면 그들한테 경고할 거예요. 스베타, 우린 파트리크가 말할 수 있는 것보다 빨라야 해요.
+JAN: Dann beschleunigen wir. Sweta geht früher hinein als geplant. Und, Leon — du hast heute etwas über dich erfahren, das selten ist: Wie es ist, verdächtigt zu werden, und trotzdem fair zu bleiben. Das vergisst man nicht.
+> 그럼 서두르자. 스베타가 계획보다 일찍 들어가. 그리고 레온 — 넌 오늘 드문 걸 겪었어. 의심받으면서도 공정하게 남는 게 어떤 건지. 그건 안 잊혀.
+LEON: Nein, das vergesse ich nicht. Und das nächste Mal, wenn eine Zeitachse auf irgendwen zeigt, bin ich der Erste, der sagt: Wartet. Prüft. Ein Muster ist kein Mensch.
+> 네, 안 잊어요. 그리고 다음에 타임라인이 누굴 가리키면, 제가 제일 먼저 말할 거예요. 기다려. 확인해. 패턴은 사람이 아니야.
+MIRA: Eine Sache noch, bevor wir uns in Sicherheit wiegen. Wenn Patrick uns monatelang übers Mikrofon abgehört hat, dann weiß er vielleicht auch von Swetas Plan.
+> 안심하기 전에 하나 더요. 파트리크가 몇 달간 마이크로 우릴 도청했으면, 어쩌면 스베타 계획도 알지도요.
+SWETA: Nein. Über Swetas Plan haben wir nie an einem Rechner gesprochen. Nie am Schreibtisch. Immer nur bei Elke, mit lauter Musik, ohne ein einziges Gerät im Raum. Genau aus diesem Grund.
+> 아니요. 스베타 계획은 컴퓨터 앞에서 얘기한 적 없어요. 책상에서 결코. 늘 엘케네서만, 음악 크게, 방에 기기 하나 없이. 바로 이 이유 때문에요.
+JAN: Das war die klügste Entscheidung, die wir getroffen haben. Schon bevor wir von dem Mikrofon wussten, haben wir uns so verhalten, als würde jemand mithören. Vorsicht hat uns gerettet.
+> 그게 우리가 내린 가장 현명한 결정이었어. 마이크를 알기도 전에 누가 엿듣는 것처럼 행동했어. 조심이 우릴 구했어.
+HELENE: Und deshalb weiß Patrick nicht, dass Sweta hineingeht. Das ist unser letzter Vorteil. Das Einzige, was er nicht weiß. Den dürfen wir nicht verlieren.
+> 그래서 파트리크는 스베타가 들어가는 걸 몰라요. 그게 우리 마지막 이점이에요. 그가 모르는 유일한 것. 그걸 잃으면 안 돼요.
+SWETA: Dann gebe ich ab jetzt kein Wort mehr in diesem Gebäude von mir, das mit HH zu tun hat. Ab jetzt lebe ich schon meine Rolle. Hier drin bin ich nur noch die Kollegin, die Urlaub plant.
+> 그럼 지금부터 이 건물에서 HH 관련된 말은 한마디도 안 해요. 지금부터 전 벌써 제 역할을 살아요. 여기 안에선 전 그냥 휴가 계획하는 동료예요.
+JAN: Dann ist es so weit. Patrick ist fast überführt. Das Mikrofon ist erklärt. Und Sweta geht hinein. Ab morgen beginnt der gefährlichste Teil. Heute Abend aber gehen wir alle zu Elke. Einmal noch zusammen.
+> 그럼 때가 됐어. 파트리크는 거의 밝혀졌고. 마이크도 설명됐고. 스베타는 들어가. 내일부터 가장 위험한 부분이 시작돼. 근데 오늘 저녁엔 다 같이 엘케네 가자. 한 번 더 같이.
+
