@@ -1,0 +1,363 @@
+@part 5
+@ep 1
+@title Horst hat nicht aufgemacht
+@sub 호르스트가 문을 안 열었다 · 쓰러진 단골, 그리고 냉장고의 방문 기록
+@info 대사 150턴 · 난이도 B2+ · 배경: 2028년 5월, 엘케의 선술집, 베딩 Malplaquetstraße의 호르스트 집, Spreewerk 편집국
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast ELKE | 엘케 (58) · 선술집 주인 (베를린 사투리)
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast LEON | 레온 피셔 (24) · 기자
+@cast BÄRBEL | 배르벨 크뤼거 (56) · 방문간병 «Pflege daheim Wedding» 대표 (베를린 사투리)
+@cast NESRIN | 네스린 악소이 (39) · 같은 업체 요양사
+@cast HORST | 호르스트 렘케 (84) · 엘케의 오랜 단골, 혼자 사는 연금생활자
+@cast SANITÄTER | 카이 (33) · 응급구조사
+@note ※ 5부 첫 화. 핵심 현안: 방문간병 허위 청구(유령 방문, 서명 위조). 엘케가 열쇠로 호르스트 집에 들어가 쓰러진 그를 발견한다. 냉장고의 방문 기록에는 그가 쓰러져 있던 날에도 '방문 완료'와 서명이 있다. 등장 인물·업체는 모두 가상.
+@note ※ 표현 초점: der Pflegedienst · der Hausbesuch · der Notruf · der Pflegegrad · der Leistungsnachweis · Der lag da seit zwee Tagen!
+@next 5부 2화 — «Charité, Notaufnahme»(샤리테 응급실) — 호르스트는 살아남는다. 응급실 간호사 아일린: "요즘 이런 환자가 너무 많아요. 서류상으로는 다 돌봄을 받고 있는데."
+
+# 콜드 오픈 — ZWEI FRAUEN UND EIN TRANSPORTER
+BÄRBEL: Danke für die Suppe. Wir ham seit heute Mittag nüscht jejessen. Erst die Touren, denn die Abrechnung, denn hamwa uns nich jetraut, herzukommen.
+= Danke für die Suppe. Wir haben seit heute Mittag nichts gegessen. Erst die Touren, dann die Abrechnung, dann haben wir uns nicht getraut, herzukommen.
+> 수프 고마워요. 점심부터 아무것도 못 먹었어요. 먼저 방문 순회, 그다음 청구 정리, 그다음엔 여기 올 엄두가 안 났어요.
+JAN: Sie müssen sich nicht trauen. Sie sind hier. Erzählen Sie. Wer sind Sie, und was ist passiert?
+> 엄두 낼 필요 없어요. 여기 오셨잖아요. 말씀해 보세요. 누구시고, 무슨 일이 있었어요?
+BÄRBEL: Bärbel Krüger. Ick hab vor fuffzehn Jahren «Pflege daheim Wedding» jejründet. Und dit is Nesrin, meine beste Pflegerin. Wir sind zu zweet, plus drei Teilzeitkräfte und een Transporter.
+= Bärbel Krüger. Ich habe vor fünfzehn Jahren «Pflege daheim Wedding» gegründet. Und das ist Nesrin, meine beste Pflegerin. Wir sind zu zweit, plus drei Teilzeitkräfte und ein Transporter.
+> 배르벨 크뤼거예요. 15년 전에 «Pflege daheim Wedding»을 세웠어요. 그리고 이쪽은 네스린, 제일 잘하는 요양사예요. 우리 둘에, 시간제 셋, 승합차 하나.
+NESRIN: Seit Februar steht im Internet, dass wir alte Menschen quälen. Bewertungen, Posts, ein Foto von unserem Transporter mit dem Satz «Hier fährt die Gewalt».
+> 2월부터 인터넷에 우리가 노인을 학대한다고 돼 있어요. 리뷰, 게시물, 우리 승합차 사진에 «여기 폭력이 달린다»라는 문장까지.
+SWETA: Darf ich die Bewertungen sehen? … Das sind fast alles Konten ohne Vorgeschichte. Gleiche Satzlänge, gleiche Uhrzeit. Ich kenne dieses Muster.
+> 리뷰 좀 봐도 돼요? … 거의 다 이력 없는 계정이네요. 문장 길이 같고, 시각 같고. 이 패턴 알아요.
+MIRA: Hype und Hafen. Lea hat euch damals erwähnt. «Zwei Pflegerinnen und ein Transporter.»
+> 하이프 운트 하펜. 레아가 그때 당신들을 언급했어요. «요양사 둘과 승합차 하나.»
+BÄRBEL: Wer is Lea? Ick kenn keene Lea.
+= Wer ist Lea? Ich kenne keine Lea.
+> 레아가 누구예요? 레아라는 사람 몰라요.
+JAN: Jemand, der Ihnen geholfen hat, ohne dass Sie es wussten. Was ist mit Ihren Patienten passiert?
+> 당신들이 모르는 새 당신들을 도운 사람이에요. 환자들은 어떻게 됐어요?
+NESRIN: Wir hatten im Januar einunddreißig. Jetzt sind es zwölf. Die meisten sind zu «Sonnenhof Ambulante Pflege» gewechselt.
+> 1월에 31명이었어요. 지금은 12명. 대부분 «Sonnenhof Ambulante Pflege»로 옮겼어요.
+MIRA: Sonnenhof. Mitglied im Verbund Pflege Plus Berlin. Steht auf deren Webseite ganz oben.
+> 조넨호프. Pflege Plus Berlin 연합 회원사. 그쪽 웹사이트 맨 위에 있어요.
+BÄRBEL: Da kam immer so 'ne Beraterin. Hat bei unseren Leuten jeklingelt, mit Blumen und 'nem Flyer. «Wollen Se wirklich bei denen bleiben? Haben Se nich jelesen, wat im Internet steht?»
+= Da kam immer so eine Beraterin. Hat bei unseren Leuten geklingelt, mit Blumen und einem Flyer. «Wollen Sie wirklich bei denen bleiben? Haben Sie nicht gelesen, was im Internet steht?»
+> 웬 상담사가 늘 왔어요. 우리 사람들 집 초인종을 눌렀죠, 꽃이랑 전단지 들고. «정말 그 사람들한테 계속 있을 거예요? 인터넷에 뭐라고 돼 있는지 안 읽으셨어요?»
+SWETA: Erst das Gift im Netz, dann die Blumen an der Tür. Das ist ein Zangengriff.
+> 먼저 인터넷에 독, 그다음 문 앞에 꽃. 집게 공격이네요.
+
+# 장면 1 — HORST
+ELKE: Wartet ma. Ihr sagt Sonnenhof? Is Horst ooch zu denen?
+= Wartet mal. Ihr sagt Sonnenhof? Ist Horst auch zu denen?
+> 잠깐. 조넨호프라고? 호르스트도 거기로 갔어?
+NESRIN: Horst Lemke? Ja. Vor drei Monaten. Er war sechs Jahre bei uns. Er hat geweint, als er gekündigt hat. Er sagte, sein Neffe hätte es so gewollt.
+> 호르스트 렘케요? 네. 석 달 전에. 6년 동안 우리 환자였어요. 해지할 때 울었어요. 조카가 그러길 원했다고.
+ELKE: Sein Neffe wohnt in Stuttgart und ruft zweemal im Jahr an. Der hat nüscht jewollt. Dit war die Blumenfrau.
+= Sein Neffe wohnt in Stuttgart und ruft zweimal im Jahr an. Der hat nichts gewollt. Das war die Blumenfrau.
+> 걔 조카는 슈투트가르트에 살고 1년에 두 번 전화해. 걘 아무것도 원한 적 없어. 그 꽃 여자였지.
+JAN: Wer ist Horst, Elke?
+> 호르스트가 누군데요, 엘케?
+ELKE: Mein ältester Stammgast. Vierundachtzig. Sitzt seit vierzig Jahren da hinten am Fenster. Jeden Sonntag Skat. Seit seine Frau tot is, hab ick seinen Schlüssel. Für den Notfall.
+= Mein ältester Stammgast. Vierundachtzig. Sitzt seit vierzig Jahren da hinten am Fenster. Jeden Sonntag Skat. Seit seine Frau tot ist, habe ich seinen Schlüssel. Für den Notfall.
+> 내 제일 오랜 단골. 여든넷. 40년째 저 뒤 창가에 앉아. 일요일마다 스카트. 부인 죽은 뒤로 내가 열쇠를 갖고 있어. 비상용으로.
+BÄRBEL: Horst hat Pflegegrad drei. Diabetes, Insulin, schlechte Beine. Er braucht jeden Morgen jemanden. Jeden.
+> 호르스트는 요양 등급 3이에요. 당뇨, 인슐린, 다리가 안 좋고. 매일 아침 누가 있어야 해요. 매일.
+ELKE: Letzten Sonntag war er nich zum Skat. Ick dachte, er is erkältet. Hab anjerufen, keener jing ran. Ick dachte, er schläft.
+= Letzten Sonntag war er nicht zum Skat. Ich dachte, er ist erkältet. Habe angerufen, keiner ging ran. Ich dachte, er schläft.
+> 지난 일요일에 스카트하러 안 왔어. 감기인 줄 알았지. 전화했는데 아무도 안 받았어. 자는 줄 알았어.
+JAN: Wann haben Sie ihn zuletzt gesehen?
+> 마지막으로 본 게 언제예요?
+ELKE: Freitag. Heute is Dienstag. Nee, schon Mittwoch, is ja nach Mitternacht.
+= Freitag. Heute ist Dienstag. Nein, schon Mittwoch, es ist ja nach Mitternacht.
+> 금요일. 오늘이 화요일이고. 아니, 벌써 수요일이네, 자정 넘었으니.
+NESRIN: Aber er hat doch jetzt Sonnenhof. Die kommen jeden Morgen. Wenn etwas wäre, hätten die es gemerkt.
+> 근데 지금은 조넨호프가 있잖아요. 매일 아침 와요. 무슨 일이 있으면 알아챘겠죠.
+BÄRBEL: Hätten. Wenn se kommen.
+= Hätten. Wenn sie kommen.
+> 알아챘겠지. 온다면.
+ELKE: Ick jeh morgen früh hin. Gleich um sieben. Jan, kommste mit?
+= Ich gehe morgen früh hin. Gleich um sieben. Jan, kommst du mit?
+> 내일 아침 가 볼래. 일곱 시에 바로. 얀, 같이 갈래?
+JAN: Warum nicht jetzt?
+> 왜 지금은 안 돼요?
+ELKE: Weil er um die Zeit jeden ins Treppenhaus brüllt, der ihn weckt. … Nee. Du hast recht. Wir jehen jetzt.
+= Weil er um die Zeit jeden ins Treppenhaus brüllt, der ihn weckt. … Nein. Du hast recht. Wir gehen jetzt.
+> 이 시간엔 자기 깨우는 놈한테 계단에다 대고 고함치니까. … 아니. 네 말이 맞아. 지금 가자.
+
+# 장면 2 — MALPLAQUETSTRASSE
+TOBI: Dritter Stock, Hinterhaus. Licht is aus. Ick kling ma. … Nüscht.
+= Dritter Stock, Hinterhaus. Licht ist aus. Ich klingle mal. … Nichts.
+> 4층, 뒤채. 불은 꺼져 있어. 초인종 눌러 볼게. … 아무 반응 없어.
+ELKE: Horst! Ick bin's, Elke! Mach uff, du alter Sturkopp!
+= Horst! Ich bin es, Elke! Mach auf, du alter Sturkopf!
+> 호르스트! 나야, 엘케! 문 열어, 이 고집쟁이 영감아!
+JAN: Hören Sie was?
+> 무슨 소리 들려요?
+ELKE: Wartet. Da… da is wat. Janz leise. Als ob eener klopft. Uff'm Boden.
+= Wartet. Da… da ist etwas. Ganz leise. Als ob einer klopft. Auf dem Boden.
+> 기다려. 저기… 뭐가 있어. 아주 작게. 누가 두드리는 것 같아. 바닥에서.
+JAN: Elke, der Schlüssel. Jetzt.
+> 엘케, 열쇠. 지금.
+ELKE: Horst? Horst! Oh Jott. Oh Jott, Jan, der liegt hier!
+= Horst? Horst! Oh Gott. Oh Gott, Jan, der liegt hier!
+> 호르스트? 호르스트! 세상에. 세상에, 얀, 여기 쓰러져 있어!
+HORST: Elke… Wasser…
+> 엘케… 물…
+JAN: Tobi, ruf den Notruf. Eins-eins-zwei. Sag: männlich, vierundachtzig, Diabetiker, am Boden gefunden, ansprechbar.
+> 토비, 응급 신고해. 112. 이렇게 말해: 남성, 84세, 당뇨, 바닥에서 발견, 의식 있음.
+TOBI: Mach ick. Hallo? Ja, Notfall, Malplaquetstraße…
+= Mache ich. Hallo? Ja, Notfall, Malplaquetstraße…
+> 할게. 여보세요? 네, 응급 상황이에요, 말플라케 슈트라세…
+ELKE: Hier, Horst, kleene Schlücke. Nich so schnell. Wie lange liechste schon hier?
+= Hier, Horst, kleine Schlucke. Nicht so schnell. Wie lange liegst du schon hier?
+> 자, 호르스트, 조금씩. 너무 빨리 말고. 여기 얼마나 누워 있었어?
+HORST: Sonntag… früh… bin ausjerutscht. Beim Klo. Kam nich mehr hoch.
+= Sonntag… früh… bin ausgerutscht. Beim Klo. Kam nicht mehr hoch.
+> 일요일… 아침… 미끄러졌어. 화장실에서. 못 일어났어.
+ELKE: Sonntag? Dit sind ja… Der lag da seit zwee Tagen! Zwee Tage, Jan!
+= Sonntag? Das sind ja… Der lag da seit zwei Tagen! Zwei Tage, Jan!
+> 일요일? 그럼… 이틀째 여기 누워 있었던 거야! 이틀이야, 얀!
+JAN: Ruhig, Elke. Er lebt. Er spricht. Das ist jetzt das Wichtigste.
+> 진정해요, 엘케. 살아 있어요. 말하잖아요. 지금은 그게 제일 중요해요.
+HORST: Hab jerufen. Keener kam. Hab jeklopft. Mit'm Schuh. Bis ick nich mehr konnte.
+= Habe gerufen. Keiner kam. Habe geklopft. Mit dem Schuh. Bis ich nicht mehr konnte.
+> 불렀어. 아무도 안 왔어. 두드렸어. 신발로. 더 못 할 때까지.
+JAN: Und der Pflegedienst? Kam am Montag jemand? Heute?
+> 그리고 요양 업체는요? 월요일에 누구 왔어요? 오늘은?
+HORST: Keener. Die kommen… manchmal. Manchmal nich.
+= Keiner. Die kommen… manchmal. Manchmal nicht.
+> 아무도. 걔들은 와… 가끔. 가끔은 안 오고.
+TOBI: Rettungswagen is in sechs Minuten da. Ick soll ihn nich bewejen und ihm keen Essen jeben.
+= Rettungswagen ist in sechs Minuten da. Ich soll ihn nicht bewegen und ihm kein Essen geben.
+> 구급차 6분 뒤 도착. 움직이지 말고 먹을 건 주지 말래.
+
+# 장면 3 — DER ZETTEL AM KÜHLSCHRANK
+SANITÄTER: Guten Abend, Kai, Rettungsdienst. Herr Lemke, hören Sie mich? Können Sie mir sagen, wo Sie sind?
+> 안녕하세요, 구급대 카이입니다. 렘케 씨, 제 말 들리세요? 여기가 어딘지 말씀하실 수 있어요?
+HORST: Zu Hause. Uff'm Fußboden. Wie 'n Idiot.
+= Zu Hause. Auf dem Fußboden. Wie ein Idiot.
+> 집이요. 바닥에. 바보처럼.
+SANITÄTER: Kein Idiot. Ein Sturz. Das passiert. Blutzucker… sehr hoch. Wann haben Sie zuletzt Insulin bekommen?
+> 바보 아니에요. 낙상이에요. 그럴 수 있어요. 혈당이… 아주 높네요. 마지막으로 인슐린 맞은 게 언제예요?
+HORST: Weeß nich. Sonnabend?
+= Weiß nicht. Samstag?
+> 몰라. 토요일?
+SANITÄTER: Hat er einen Pflegedienst? Ich brauche den Medikamentenplan.
+> 요양 업체가 있나요? 투약 계획표가 필요해요.
+ELKE: Hängt meistens am Kühlschrank. Wartense. … Hier. Medikamentenplan. Und hier noch wat. «Leistungsnachweis Sonnenhof Ambulante Pflege».
+= Hängt meistens am Kühlschrank. Warten Sie. … Hier. Medikamentenplan. Und hier noch etwas. «Leistungsnachweis Sonnenhof Ambulante Pflege».
+> 보통 냉장고에 붙어 있어요. 잠깐만요. … 여기. 투약 계획표. 그리고 여기 하나 더. «조넨호프 방문간병 서비스 수행 확인서».
+SANITÄTER: Gut, den Plan nehme ich mit. Der Rest geht mich nichts an. Wir bringen ihn in die Charité. Wer fährt mit?
+> 좋아요, 계획표는 가져갈게요. 나머진 제 일 아니고. 샤리테로 모실게요. 누가 같이 타세요?
+ELKE: Ick. Natürlich ick.
+= Ich. Natürlich ich.
+> 나. 당연히 나지.
+JAN: Elke, warte. Bevor du gehst. Schau dir das Blatt an. Die Zeile für Montag.
+> 엘케, 잠깐. 가기 전에. 그 종이 좀 봐요. 월요일 줄.
+ELKE: Montag… «Neun Uhr. Hausbesuch. Grundpflege. Insulingabe. Erledigt.» Und 'n Kürzel. Und… Moment… Dienstag ooch. «Neun Uhr. Erledigt.»
+= Montag… «Neun Uhr. Hausbesuch. Grundpflege. Insulingabe. Erledigt.» Und ein Kürzel. Und… Moment… Dienstag auch. «Neun Uhr. Erledigt.»
+> 월요일… «9시. 가정 방문. 기본 돌봄. 인슐린 투여. 완료.» 그리고 약자 서명. 그리고… 잠깐… 화요일도. «9시. 완료.»
+SANITÄTER: Moment. Darf ich? … Das kann nicht sein. Wenn hier am Montag jemand gewesen wäre, hätte er ihn gefunden. Er liegt zwei Meter von der Tür.
+> 잠깐요. 봐도 될까요? … 이럴 리가 없어요. 월요일에 누가 왔다면 그를 발견했을 거예요. 문에서 2미터 거리에 누워 있었잖아요.
+TOBI: Und der Insulinpen liegt noch versiegelt uff'm Tisch. Neben der Pillendose. Kuckt ma. Sonntag, Montag, Dienstag — allet noch voll.
+= Und der Insulinpen liegt noch versiegelt auf dem Tisch. Neben der Pillendose. Guckt mal. Sonntag, Montag, Dienstag — alles noch voll.
+> 그리고 인슐린 펜은 아직 봉인된 채 탁자 위에 있어. 약통 옆에. 봐. 일요일, 월요일, 화요일 — 전부 아직 꽉 찼어.
+SANITÄTER: Das muss ich im Protokoll vermerken. «Laut Dokumentation versorgt, tatsächlich unversorgt aufgefunden.» Das ist kein Kavaliersdelikt.
+> 이건 기록에 남겨야 해요. «기록상 돌봄 완료, 실제로는 미돌봄 상태로 발견.» 가벼운 일이 아니에요.
+
+# 장면 4 — DARF MAN DAS FOTOGRAFIEREN?
+TOBI: Jan, soll ick dit Blatt fotografieren? Bevor dit verschwindet?
+= Jan, soll ich das Blatt fotografieren? Bevor das verschwindet?
+> 얀, 그 종이 찍을까? 사라지기 전에?
+JAN: Nicht ohne ihn. Es ist sein Zettel, seine Wohnung, sein Leben. Horst. Hören Sie mich? Ich bin Jan. Elkes Freund. Ich bin Journalist.
+> 그의 허락 없인 안 돼. 그의 종이, 그의 집, 그의 삶이야. 호르스트. 들리세요? 전 얀이에요. 엘케 친구. 기자예요.
+HORST: Weeß ick. Der Kowalczyk. Der vom Tresen. Der immer schief sitzt.
+= Weiß ich. Der Kowalczyk. Der vom Tresen. Der immer schief sitzt.
+> 알아. 코발치크. 카운터의 그 녀석. 맨날 비스듬히 앉는.
+ELKE: Siehste. Fälschungssicher.
+= Siehst du. Fälschungssicher.
+> 봐. 위조 방지.
+JAN: Darf mein Kollege das Blatt am Kühlschrank fotografieren? Es könnte wichtig sein. Für Sie. Und vielleicht für andere.
+> 제 동료가 냉장고의 종이를 찍어도 될까요? 중요할 수 있어요. 당신한테. 그리고 어쩌면 다른 사람들한테도.
+HORST: Mach ruhig, Junge. Und schreib uff, dass ick jerufen hab. Zwee Tage lang. Dit soll eener wissen.
+= Mach ruhig, Junge. Und schreib auf, dass ich gerufen habe. Zwei Tage lang. Das soll einer wissen.
+> 찍어, 젊은이. 그리고 내가 불렀다고 적어. 이틀 동안. 누군가는 그걸 알아야 해.
+JAN: Ich schreibe es auf. Versprochen.
+> 적을게요. 약속해요.
+TOBI: Jemacht. Vorder- und Rückseite. Und den Pen und die Pillendose, mit Datum.
+= Gemacht. Vorder- und Rückseite. Und den Pen und die Pillendose, mit Datum.
+> 찍었어. 앞뒤로. 그리고 펜이랑 약통도, 날짜까지.
+SANITÄTER: Wir fahren. Frau Elke, Sie kommen vorne mit.
+> 출발합니다. 엘케 씨, 앞에 타세요.
+ELKE: Horst, ick bin hier. Ick bleib bei dir. Und am Sonntag spielste wieder Skat. Und verlierst wieder.
+= Horst, ich bin hier. Ich bleibe bei dir. Und am Sonntag spielst du wieder Skat. Und verlierst wieder.
+> 호르스트, 나 여기 있어. 네 곁에 있을게. 그리고 일요일엔 다시 스카트 해. 그리고 또 지고.
+HORST: Ick verlier nie. Ick lass dich jewinnen.
+= Ich verliere nie. Ich lasse dich gewinnen.
+> 난 절대 안 져. 너 이기게 해 주는 거지.
+
+# 장면 5 — IM TREPPENHAUS
+TOBI: Jan, ick zitter. Ick hab schon Leichen fotografiert, im Krieg, in Kiew. Aber dit hier… dit is Wedding. Dit is drei Straßen von uns.
+= Jan, ich zittere. Ich habe schon Leichen fotografiert, im Krieg, in Kiew. Aber das hier… das ist Wedding. Das ist drei Straßen von uns.
+> 얀, 나 떨려. 전쟁터에서, 키이우에서 시신도 찍어 봤어. 근데 이건… 베딩이야. 우리한테서 세 블록이야.
+JAN: Ich weiß. Und darum dürfen wir jetzt keinen Fehler machen.
+> 알아. 그래서 지금 실수하면 안 돼.
+TOBI: Wat für 'n Fehler? Dit is doch klar. Die ham nich jepflegt und trotzdem abjerechnet.
+= Was für ein Fehler? Das ist doch klar. Die haben nicht gepflegt und trotzdem abgerechnet.
+> 무슨 실수? 분명하잖아. 돌보지도 않고 청구했어.
+JAN: Wir wissen, dass auf dem Zettel «erledigt» steht. Wir wissen nicht, ob sie es abgerechnet haben. Wir wissen nicht, wer das Kürzel geschrieben hat. Und wir wissen nicht, ob es ein Einzelfall ist.
+> 종이에 «완료»라고 쓰인 건 알아. 청구했는지는 몰라. 누가 약자 서명을 썼는지도 몰라. 그리고 이게 개별 사례인지도 몰라.
+TOBI: Du klingst wie Mira.
+> 너 미라처럼 말한다.
+JAN: Danke. Das ist das größte Kompliment, das ich heute Nacht bekommen kann.
+> 고마워. 오늘 밤 받을 수 있는 최고의 칭찬이야.
+TOBI: Und die Blumenfrau? Die Bärbel ihre Patienten abjeworben hat?
+= Und die Blumenfrau? Die Bärbel ihre Patienten abgeworben hat?
+> 그럼 그 꽃 여자는? 배르벨 환자들을 빼 간?
+JAN: Die Blumenfrau, die Bewertungen, Pflege Plus, Thal. Das sind Fäden. Aber Horst ist kein Faden. Horst ist ein Mensch, der zwei Tage auf dem Boden lag. Den vergessen wir nicht, während wir Fäden ziehen.
+> 꽃 여자, 리뷰, Pflege Plus, 탈. 그건 실이야. 근데 호르스트는 실이 아니야. 호르스트는 이틀 동안 바닥에 누워 있던 사람이야. 실을 당기는 동안 그를 잊으면 안 돼.
+
+# 장면 5-2 — ZURÜCK IM GROSCHEN
+BÄRBEL: Und? Wie jeht's ihm? Wir ham jewartet. Wir konnten nich nach Hause.
+= Und? Wie geht es ihm? Wir haben gewartet. Wir konnten nicht nach Hause.
+> 그래서? 어때요? 기다렸어요. 집에 갈 수가 없었어요.
+JAN: Er lebt. Er lag seit Sonntag auf dem Boden. Elke ist mit ihm in der Charité.
+> 살아 있어요. 일요일부터 바닥에 누워 있었어요. 엘케가 같이 샤리테에 갔어요.
+NESRIN: Seit Sonntag… Ich war sechs Jahre jeden Morgen bei ihm. Er hat mir jeden Morgen dieselbe Geschichte erzählt. Wie er neunzehnhundertachtundachtzig den Kiez-Pokal gewonnen hat. Ich habe nie gesagt, dass ich sie kenne.
+> 일요일부터… 6년 동안 매일 아침 그 집에 갔어요. 매일 아침 같은 얘기를 해 줬어요. 1988년에 동네 우승컵을 탄 얘기. 안다고 한 번도 말 안 했어요.
+TOBI: Dit hätt er nie verjessen, dass Se det nie jesacht ham.
+= Das hätte er nie vergessen, dass Sie das nie gesagt haben.
+> 그거 한 번도 말 안 하신 거, 그분은 절대 안 잊었을 거예요.
+JAN: Frau Krüger, ich muss Sie etwas fragen. Ganz offen. Was bringt es Ihnen, wenn wir über Sonnenhof berichten?
+> 크뤼거 씨, 하나 여쭤봐야 해요. 아주 솔직하게. 우리가 조넨호프를 보도하면 당신한테 뭐가 좋아요?
+BÄRBEL: Wat et mir bringt? Ehrlich? Vielleicht krieg ick meine Patienten zurück. Vielleicht muss ick dann im Herbst nich zumachen. Dit is die Wahrheit.
+= Was es mir bringt? Ehrlich? Vielleicht kriege ich meine Patienten zurück. Vielleicht muss ich dann im Herbst nicht zumachen. Das ist die Wahrheit.
+> 나한테 뭐가 좋냐고요? 솔직히? 어쩌면 환자들을 되찾겠죠. 어쩌면 가을에 문 안 닫아도 되겠죠. 그게 진실이에요.
+JAN: Danke, dass Sie das so sagen. Das macht Sie glaubwürdiger, nicht weniger. Aber ich werde alles prüfen, was Sie mir erzählen. Auch Ihre eigenen Unterlagen.
+> 그렇게 말해 줘서 고마워요. 그게 당신을 덜이 아니라 더 믿게 해요. 근데 말씀하시는 건 전부 확인할 거예요. 당신 서류도요.
+BÄRBEL: Prüfense. Ick hab nüscht zu verstecken. Meine Leistungsnachweise sehen aus wie Schlachtfelder. Kaffeeflecken, Kritzeleien, mal acht Uhr zwanzig, mal neun Uhr vierzig. So sieht Pflege aus.
+= Prüfen Sie. Ich habe nichts zu verstecken. Meine Leistungsnachweise sehen aus wie Schlachtfelder. Kaffeeflecken, Kritzeleien, mal acht Uhr zwanzig, mal neun Uhr vierzig. So sieht Pflege aus.
+> 확인하세요. 숨길 거 없어요. 우리 수행 확인서는 전쟁터 같아요. 커피 얼룩, 낙서, 어떤 날은 8시 20분, 어떤 날은 9시 40분. 돌봄이란 게 원래 그래요.
+SWETA: Darf ich fragen, wie viel Sie für einen Morgen wie bei Horst bekommen?
+> 호르스트 같은 아침 방문 한 번에 얼마 받으시는지 여쭤봐도 돼요?
+BÄRBEL: Kommt uff die Leistungskomplexe an. Waschen, Anziehen, Insulin, Frühstück hinstellen. Vielleicht vierzig, fuffzig Euro. Dafür bin ick 'ne Stunde da, wenn ick ehrlich bin. Abrechnen darf ick fuffzehn Minuten für Insulin. Den Rest mach ick, weil er 'n Mensch is.
+= Kommt auf die Leistungskomplexe an. Waschen, Anziehen, Insulin, Frühstück hinstellen. Vielleicht vierzig, fünfzig Euro. Dafür bin ich eine Stunde da, wenn ich ehrlich bin. Abrechnen darf ich fünfzehn Minuten für Insulin. Den Rest mache ich, weil er ein Mensch ist.
+> 서비스 묶음(Leistungskomplex)에 따라 달라요. 씻기기, 옷 입히기, 인슐린, 아침 차려 두기. 40, 50유로쯤. 솔직히 그걸로 한 시간 있어요. 인슐린엔 15분만 청구할 수 있고. 나머진 그가 사람이니까 하는 거죠.
+LEON: Und wenn jemand gar nicht hingeht, aber trotzdem abrechnet?
+> 그럼 누가 아예 안 가고도 청구하면요?
+BÄRBEL: Denn hat er fuffzig Euro für nüscht. Mal zwanzig Patienten. Mal dreißig Tage. Rechnense selbst.
+= Dann hat er fünfzig Euro für nichts. Mal zwanzig Patienten. Mal dreißig Tage. Rechnen Sie selbst.
+> 그럼 아무것도 안 하고 50유로죠. 곱하기 환자 20명. 곱하기 30일. 직접 계산해 보세요.
+MIRA: Dreißigtausend Euro im Monat. Für einen einzigen Tourenplan. Ohne einen Schritt ins Treppenhaus.
+> 한 달에 3만 유로. 순회표 하나로. 계단에 한 발도 안 들이고.
+NESRIN: Und deshalb können die mehr zahlen als wir. Die locken Pflegekräfte mit Prämien. Die kaufen Werbung. Die schicken Blumen. Und wir stehen im Regen mit unserem Transporter.
+> 그래서 그쪽은 우리보다 많이 줄 수 있어요. 요양사들을 장려금으로 꾀어 가요. 광고를 사요. 꽃을 보내요. 그리고 우린 승합차랑 비 맞고 서 있고.
+SWETA: «Die Kleinen müssen weg, damit die Großen die Preise machen.» Lea hat diesen Satz aus einem Briefing zitiert.
+> «작은 데가 없어져야 큰 데가 가격을 정한다.» 레아가 브리핑에서 인용한 문장이에요.
+BÄRBEL: Den Satz hätt ick ooch schreiben können. Nur mit mehr Schimpfwörtern.
+= Den Satz hätte ich auch schreiben können. Nur mit mehr Schimpfwörtern.
+> 그 문장 나도 쓸 수 있었겠네요. 욕만 더 넣어서.
+JAN: Gehen Sie nach Hause, Frau Krüger. Schlafen Sie. Morgen um sieben haben Sie zwölf Patienten. Die brauchen Sie ausgeschlafen.
+> 집에 가세요, 크뤼거 씨. 주무세요. 내일 일곱 시에 환자 열둘이 있잖아요. 그분들은 푹 잔 당신이 필요해요.
+BÄRBEL: Zwölf. Und morjen vielleicht dreizehn. Wenn Horst zurückwill.
+= Zwölf. Und morgen vielleicht dreizehn. Wenn Horst zurückwill.
+> 열둘. 그리고 내일은 어쩌면 열셋. 호르스트가 돌아오고 싶다면.
+
+# 장면 6 — FRÜHMORGENS IN DER REDAKTION
+HELENE: Ich habe Elkes Nachricht um vier gelesen. Wie geht es ihm?
+> 네 시에 엘케 메시지 읽었어. 그분 어때?
+JAN: Er liegt auf der Intensivstation. Dehydriert, Blutzucker entgleist, Druckstellen. Aber er lebt. Elke sitzt bei ihm.
+> 중환자실에 있어요. 탈수, 혈당 이탈, 욕창. 그래도 살아 있어요. 엘케가 곁에 있어요.
+LEON: Ich habe die Nacht gelesen. Über ambulante Pflege. Wusstet ihr, dass die Pflegekasse pro Hausbesuch zahlt, ohne dass irgendjemand vor Ort kontrolliert?
+> 밤새 읽었어요. 방문간병에 대해. 간병보험이 방문 건별로 돈을 내는데 현장에서 아무도 확인 안 한다는 거 아셨어요?
+MIRA: Kontrolliert wird, aber selten und angemeldet. Und der Leistungsnachweis ist die Grundlage der Abrechnung. Was da drauf steht, wird bezahlt.
+> 확인은 해요, 근데 드물고 미리 통보하고요. 그리고 수행 확인서가 청구의 근거예요. 거기 적힌 대로 돈이 나가요.
+SWETA: Das heißt: Der Zettel am Kühlschrank ist nicht nur ein Zettel. Er ist eine Rechnung.
+> 그 말은: 냉장고의 종이는 그냥 종이가 아니라는 거네요. 청구서예요.
+HELENE: Und Bärbel? Kann sie uns helfen, die Abrechnung zu verstehen?
+> 배르벨은요? 청구 구조 이해하는 걸 도와줄 수 있어요?
+JAN: Sie hat es angeboten. Aber Vorsicht. Sie ist eine Konkurrentin von Sonnenhof. Sie hat ein Interesse. Wir müssen alles, was sie sagt, doppelt prüfen.
+> 자청했어요. 근데 조심해요. 조넨호프의 경쟁자예요. 이해관계가 있어요. 그녀가 하는 말은 전부 두 번 확인해야 해요.
+LEON: Aber sie hat doch nur Gutes getan. Sie hat Horst sechs Jahre gepflegt.
+> 근데 좋은 일만 했잖아요. 호르스트를 6년 돌봤고요.
+JAN: Gerade deshalb. Wer recht hat und ein Interesse hat, muss doppelt sauber geprüft werden. Sonst sagt Pflege Plus morgen: «Spreewerk lässt sich von der Konkurrenz benutzen.»
+> 바로 그래서. 옳으면서 이해관계도 있는 사람은 두 배로 깨끗하게 확인해야 해. 안 그러면 내일 Pflege Plus가 «Spreewerk가 경쟁사한테 이용당한다»고 할 거야.
+HELENE: Und keine Konfrontation. Kein Anruf bei Sonnenhof. Noch nicht. Wer gewarnt wird, schreibt Zettel neu.
+> 그리고 반론 요청은 아직. 조넨호프에 전화 금지. 아직은. 경고받은 자는 종이를 새로 써.
+SWETA: Was ist mit der Polizei? Ein Mann wäre fast gestorben.
+> 경찰은요? 사람이 죽을 뻔했어요.
+JAN: Der Sanitäter hat es im Protokoll vermerkt. Und Horsts Neffe muss informiert werden. Er ist der Angehörige. Wenn Anzeige erstattet wird, dann von der Familie oder vom Krankenhaus. Nicht von uns. Wir sind keine Partei.
+> 구급대원이 기록에 남겼어. 그리고 호르스트 조카한테 알려야 해. 그가 보호자야. 고발을 한다면 가족이나 병원이 하는 거지. 우리가 아니라. 우린 당사자가 아니야.
+
+# 장면 6-2 — DER NEFFE
+LEON: Ich habe Horsts Neffen erreicht. Herr Lemke in Stuttgart. Er war völlig ahnungslos.
+> 호르스트 조카랑 연락됐어요. 슈투트가르트의 렘케 씨. 전혀 몰랐대요.
+HELENE: Was hat er gesagt?
+> 뭐라고 했어?
+LEON: Dass er nie einen Wechsel des Pflegedienstes verlangt hat. Er wusste nicht einmal, dass sein Onkel gewechselt hat. Er hat geschwäbelt vor Schreck. «Des isch doch net wahr!»
+> 요양 업체를 바꾸라고 한 적 없대요. 삼촌이 바꾼 것조차 몰랐대요. 놀라서 슈바벤 사투리가 나오더라고요. «그럴 리가 없잖아요!»
+JAN: Also hat jemand Horst erzählt, der Neffe wolle es so. Und Horst hat es geglaubt, weil er seinem Neffen vertraut.
+> 그러니까 누가 호르스트한테 조카가 원한다고 말했고. 호르스트는 조카를 믿으니까 믿었고.
+SWETA: Man benutzt die Liebe der Menschen als Werkzeug. Das ist die älteste Technik der Welt.
+> 사람들의 사랑을 도구로 쓰는 거죠. 세상에서 제일 오래된 수법이에요.
+LEON: Er kommt morgen mit dem ersten Zug. Und er fragt, ob er Anzeige erstatten soll.
+> 내일 첫 기차로 온대요. 그리고 고발해야 하는지 물어요.
+HELENE: Das ist seine Entscheidung, nicht unsere. Gib ihm die Nummer von Katrin. Sie kann ihn beraten. Aber Katrin berät ihn als Anwältin, nicht als unsere Quelle.
+> 그건 그의 결정이지 우리 게 아니야. 카트린 번호를 줘. 상담해 줄 수 있어. 근데 카트린은 우리 취재원이 아니라 변호사로 상담하는 거야.
+LEON: Verstanden. Getrennte Rollen.
+> 알겠어요. 역할 분리.
+JAN: Und noch etwas, Leon. Frag ihn, ob er uns erlaubt, über seinen Onkel zu schreiben. Mit Namen oder ohne. Horst hat ja gesagt. Aber Horst liegt auf der Intensivstation.
+> 그리고 하나 더, 레온. 삼촌에 대해 써도 되는지 물어봐. 실명으로든 아니든. 호르스트는 좋다고 했어. 근데 호르스트는 지금 중환자실에 있잖아.
+LEON: Und wer auf der Intensivstation ja sagt, sagt vielleicht nicht frei ja. Ich frage beide. Später. Wenn Horst wieder klar ist.
+> 그리고 중환자실에서 좋다고 한 건 자유로운 동의가 아닐 수도 있죠. 둘 다 물어볼게요. 나중에. 호르스트 정신이 다시 맑아지면.
+
+# 장면 7 — DAS KÜRZEL
+MIRA: Tobi, das Foto. Ich habe es vergrößert. Schaut euch das Kürzel an.
+> 토비, 그 사진. 확대했어요. 약자 서명 좀 봐요.
+TOBI: «S. B.» Jeden Tag dieselben zwee Buchstaben. Sauber, rund, wie aus'm Schönschreibheft.
+= «S. B.» Jeden Tag dieselben zwei Buchstaben. Sauber, rund, wie aus dem Schönschreibheft.
+> «S. B.» 매일 똑같은 두 글자. 깔끔하고 동글동글, 습자 공책에서 나온 것처럼.
+MIRA: Zu sauber. Jemand, der jeden Morgen um neun bei einem Patienten im Treppenhaus steht, schreibt nicht jeden Tag gleich. Mal schief, mal hastig. Das hier sieht aus, als wäre es an einem Tag geschrieben worden.
+> 너무 깔끔해요. 매일 아침 9시에 환자 집 계단에 서 있는 사람은 매일 똑같이 안 써요. 가끔 비뚤게, 가끔 급하게. 이건 하루에 다 쓴 것처럼 보여요.
+LEON: An einem Tag. Für die ganze Woche. Im Voraus.
+> 하루에. 일주일 치를. 미리.
+SWETA: Und die Uhrzeit. Neun Uhr, jeden Tag. Nicht neun Uhr zwölf, nicht acht Uhr fünfzig. Neun Uhr null. Kein Mensch arbeitet so pünktlich. Nur ein Formular.
+> 그리고 시각. 매일 9시. 9시 12분도, 8시 50분도 아니고. 9시 정각. 그렇게 정확하게 일하는 사람은 없어요. 서식만 그렇죠.
+JAN: Gut beobachtet. Aber das sind Indizien. Keine Beweise. Ein Gutachter würde sagen: Vielleicht hatte die Pflegerin eine schöne Schrift.
+> 잘 봤어. 근데 그건 정황이야. 증거가 아니라. 감정인은 이럴 거야: 요양사 글씨가 예뻤을 수도 있다.
+MIRA: Dann gibt es noch eine Zeile. Ganz unten. Die habe ich erst beim Vergrößern gesehen.
+> 그럼 줄이 하나 더 있어요. 맨 아래. 확대하고서야 봤어요.
+HELENE: Welche Zeile?
+> 무슨 줄?
+MIRA: «Unterschrift des Pflegebedürftigen.» Die Unterschrift des Patienten. Zur Bestätigung, dass er versorgt wurde.
+> «피돌봄인 서명.» 환자 서명이요. 돌봄을 받았다는 확인용.
+JAN: Und?
+> 그래서?
+MIRA: Für Montag steht da: «H. Lemke». Und für Dienstag auch. «H. Lemke».
+> 월요일 칸에: «H. 렘케». 그리고 화요일도. «H. 렘케».
+TOBI: Dit kann nich sein. Der lag uff'm Boden. Der konnte nich mal 'n Glas halten.
+= Das kann nicht sein. Der lag auf dem Boden. Der konnte nicht mal ein Glas halten.
+> 그럴 리가 없어. 바닥에 누워 있었다고. 컵 하나도 못 들었어.
+SWETA: Entweder hat jemand für ihn unterschrieben. Oder er hat vorher unterschrieben. Für Tage, die noch nicht passiert waren.
+> 누가 대신 서명했거나. 아니면 그가 미리 서명했거나. 아직 오지 않은 날짜에.
+JAN: Beides wäre ein Verbrechen. Aber nur eins davon macht Horst zu einem Opfer, das man benutzt hat. Das müssen wir herausfinden. Ganz behutsam.
+> 둘 다 범죄야. 근데 그중 하나만 호르스트를 이용당한 피해자로 만들어. 그걸 알아내야 해. 아주 조심스럽게.
+
+# 엔딩 — EINE SMS AUS DER CHARITÉ
+ELKE: Jan? Ick bin's. Horst schläft. Die Ärzte sajen, er schafft dit. Aber hör zu. Die Schwester hier, Aylin, die hat wat jesacht.
+= Jan? Ich bin es. Horst schläft. Die Ärzte sagen, er schafft das. Aber hör zu. Die Schwester hier, Aylin, die hat etwas gesagt.
+> 얀? 나야. 호르스트는 자. 의사들이 버틸 거래. 근데 들어 봐. 여기 간호사 아일린이 뭘 말했어.
+JAN: Was hat sie gesagt?
+> 뭐라고 했어요?
+ELKE: Sie hat jefracht, welcher Pflegedienst. Ick sach: Sonnenhof. Und sie kuckt mich an und sacht: «Schon wieder.»
+= Sie hat gefragt, welcher Pflegedienst. Ich sage: Sonnenhof. Und sie guckt mich an und sagt: «Schon wieder.»
+> 어느 요양 업체냐고 물었어. 내가: 조넨호프. 그랬더니 날 보고 말하더라: «또요.»
+JAN: «Schon wieder.» Elke, frag sie, ob sie mit mir redet. Nicht heute. Wenn sie Zeit hat. Und nur, wenn sie will.
+> «또요.» 엘케, 나랑 얘기해 줄 수 있는지 물어봐 줘요. 오늘 말고. 시간 될 때. 그리고 원할 때만.
+ELKE: Mach ick. Und Jan — du hast ihm wat versprochen. Dass de uffschreibst, dass er jerufen hat.
+= Mache ich. Und Jan — du hast ihm etwas versprochen. Dass du aufschreibst, dass er gerufen hat.
+> 그럴게. 그리고 얀 — 너 그한테 약속했어. 그가 불렀다는 걸 적겠다고.
+JAN: Ich habe es nicht vergessen. Es ist der erste Satz in meinem Notizbuch. «Zwei Tage lang hat er gerufen. Und auf dem Zettel stand: erledigt.»
+> 안 잊었어요. 내 수첩 첫 문장이에요. «이틀 동안 그는 불렀다. 그리고 종이엔 이렇게 적혀 있었다: 완료.»
