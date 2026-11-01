@@ -1,0 +1,334 @@
+@part 2
+@ep 7
+@title Mira geht rein
+@sub 미라, 들어가다 · 6월 초, 두 번째 기기와 가짜 한 사람, 그리고 '다음은 슈판다우'
+@info 대사 150턴 · 난이도 B2 · 배경: 2-6화 며칠 뒤(2027년 6월 초), Spreewerk 편집국의 '깨끗한 방', 미라의 집, 온라인 채팅 화면
+@cast MIRA | 미라 아이든 (31) · 데이터 기자 → 위장 신분 'Sabine Vogt'
+@cast SWETA | 스베타 모로소바 (42) · 허위정보·보안 전문 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast NUR | 미라의 어머니 누르 (58)
+@note ※ 디지털 위장 취재는 가짜 신분(Legende)과 분리된 기기, 그리고 엄격한 규칙이 필요합니다. 기자는 스스로 범죄를 저지르거나 남을 범죄로 꼬드기면 안 됩니다. 독일에서 몰래 통화를 녹음하는 것은 형법 201조로 처벌받습니다. 온라인 대화의 '화면 저장'은 녹음과 법적 성격이 다르지만, 신중해야 합니다.
+@note ※ 표현 초점: Legende · Fake-Profil · Metadaten · VPN · Verschlüsselung · Einladungslink · Admin · nicht anstiften
+@next 2부 8화 — «Marty ist kein Aktivist»(마티는 활동가가 아니다) — 토비가 마티를 미행·촬영한다. 마티는 밤에 Sentinel 본사로 들어간다. 같은 밤, Spreewerk 서버에 침입 경보가 울린다.
+
+# 콜드 오픈 — DIE LEGENDE
+SWETA: Bevor du online gehst, baust du eine Legende. Eine zweite Person. Komplett.
+> 온라인에 들어가기 전에 가짜 신분을 만들어. 두 번째 사람을. 완전하게.
+MIRA: Ich habe schon einen Namen. Sabine Vogt. Siebenundfünfzig. Aus Spandau. Frührentnerin.
+> 이름은 벌써 정했어요. 자비네 포크트. 쉰일곱. 슈판다우 출신. 조기 연금 생활자.
+SWETA: Warum siebenundfünfzig? Warum nicht jung, wie du?
+> 왜 쉰일곱이야? 왜 너처럼 젊게 안 하고?
+MIRA: Weil im Prepper-Chat viele älter sind. Und weil niemand eine ältere Frau verdächtigt. Alte Frauen sind unsichtbar.
+> 대비족 방엔 나이 든 사람이 많으니까요. 그리고 나이 든 여자는 아무도 의심 안 하니까요. 나이 든 여자는 투명 인간이거든요.
+SWETA: Gut gedacht. Und warum Spandau?
+> 잘 생각했어. 그럼 왜 슈판다우야?
+MIRA: Weil das Gespräch dorthin geht. Wenn Marty nach Spandau will, will Sabine aus Spandau mitreden.
+> 대화가 그쪽으로 가니까요. 마티가 슈판다우를 노리면, 슈판다우에 사는 자비네가 끼어들 수 있죠.
+HELENE: Moment. Das klingt, als willst du etwas auslösen.
+> 잠깐. 그건 뭔가를 유발하려는 것처럼 들려요.
+MIRA: Nein. Sabine löst nichts aus. Sabine hört zu. Sabine hat Angst vor dem nächsten Blackout. Wie dreißigtausend andere.
+> 아니에요. 자비네는 아무것도 유발하지 않아요. 자비네는 듣기만 해요. 다음 블랙아웃이 무서운 거죠. 다른 3만 명처럼요.
+HELENE: Genau das ist die Grenze. Zuhören ja. Anstiften nein. Nie.
+> 바로 그게 경계예요. 듣는 건 돼요. 부추기는 건 안 돼요. 절대로.
+JAN: Und wenn jemand dich fragt, ob du mitmachst? Bei einer Aktion?
+> 그럼 누가 너한테 같이하겠냐고 물으면? 어떤 행동에?
+MIRA: Dann sage ich: «Ich bin zu alt dafür. Ich kaufe mir lieber einen Generator.» Sabine ist vorsichtig. Wie eine echte Rentnerin.
+> 그럼 이렇게 말해요. «난 그러기엔 너무 늙었어요. 차라리 발전기를 살래요.» 자비네는 조심스러워요. 진짜 연금 생활자처럼요.
+SWETA: Gut. Du lenkst ab, ohne zu lügen über eine Tat. Du sagst nie «Ja, machen wir». Und nie «Nein, das ist falsch, lasst es».
+> 좋아. 범행에 대해 거짓말하지 않으면서 화제를 돌리는 거야. «그래, 하자»라고도 절대 안 하고. «안 돼, 그건 잘못이야, 하지 마»라고도 안 하고.
+LEON: Warum nicht «Nein, lasst es»? Das wäre doch gut.
+> 왜 «하지 마»도 안 돼요? 그게 좋은 거잖아요.
+SWETA: Weil Sabine dann auffällt. Eine Rentnerin, die moralisch predigt, ist verdächtig. Sabine hat nur Angst und einen Hund.
+> 그럼 자비네가 눈에 띄니까. 도덕을 설교하는 연금 생활자는 수상해. 자비네는 그냥 겁이 많고 개가 한 마리 있을 뿐이야.
+
+# 장면 1 — ZWEI GERÄTE, EIN MENSCH
+SWETA: Regel eins: ein eigenes Gerät. Nur für Sabine. Nie dein echtes Handy.
+> 규칙 1. 전용 기기. 자비네 전용으로만. 네 진짜 휴대폰은 절대 안 돼.
+MIRA: Habe ich. Ein altes Telefon. Bar gekauft. Neue SIM-Karte, auch bar.
+> 있어요. 오래된 전화기. 현금으로 샀어요. 새 유심도 현금으로.
+SWETA: Regel zwei: ein eigenes Netz. Nie das WLAN der Redaktion. Immer über VPN.
+> 규칙 2. 전용 네트워크. 편집국 와이파이는 절대 안 돼. 늘 VPN으로.
+MIRA: VPN läuft. Und das Telefon war nie in der Nähe der Redaktion. Nie gleichzeitig mit meinem echten an.
+> VPN 돌아가요. 그리고 이 전화기는 편집국 근처에 간 적이 없어요. 제 진짜 폰이랑 동시에 켜진 적도 없고요.
+SWETA: Warum nie gleichzeitig?
+> 왜 동시에 켜면 안 되지?
+MIRA: Weil zwei Telefone, die immer zusammen sind, dasselbe Bewegungsmuster haben. Das verrät, dass eine Person beide hat.
+> 늘 같이 다니는 두 전화기는 이동 경로가 똑같으니까요. 그럼 한 사람이 둘 다 갖고 있다는 게 드러나요.
+SWETA: Sehr gut. Du hast gelernt. Regel drei: Sabine hat eine Geschichte. Eine ganze. Kinder, Hund, Lieblingsessen.
+> 아주 좋아. 배웠네. 규칙 3. 자비네한테는 이야기가 있어. 완전한 이야기. 아이들, 개, 좋아하는 음식.
+MIRA: Sabine hat einen Sohn in Hamburg. Einen Hund, einen Spitz, heißt Fussel. Und sie mag Soljanka.
+> 자비네는 함부르크에 아들이 있어요. 개는 스피츠, 이름은 푸셀. 그리고 솔랸카를 좋아해요.
+SWETA: Soljanka. Eine ostdeutsche Suppe. Gut für Spandau. Glaubwürdig.
+> 솔랸카. 동독 수프네. 슈판다우에 딱 맞아. 그럴듯해.
+LEON: Woher kennst du so viel über Spandau?
+> 슈판다우에 대해 어떻게 그렇게 많이 알아요?
+MIRA: Ich habe zwei Tage dort verbracht. Als Mira. Ich war auf dem Markt, in der Kneipe, im Späti. Ich habe zugehört.
+> 거기서 이틀 보냈어요. 미라로서요. 시장, 선술집, 심야 가게에 갔어요. 듣기만 했죠.
+SWETA: Das ist der wichtigste Teil. Eine gute Legende ist nicht erfunden. Sie ist beobachtet.
+> 그게 제일 중요한 부분이야. 좋은 가짜 신분은 지어내는 게 아니야. 관찰하는 거지.
+KATRIN: Und jetzt die juristischen Regeln. Mira, hör gut zu.
+> 이제 법적 규칙이야. 미라, 잘 들어.
+MIRA: Ich höre.
+> 듣고 있어요.
+KATRIN: Erstens: Du stiftest niemanden zu einer Straftat an. Nie. Keine Frage wie «Sollen wir nicht mal…?».
+> 첫째, 아무도 범죄로 꼬드기지 마. 절대. «우리 한번 …할까?» 같은 질문도 안 돼.
+MIRA: Verstanden.
+> 알겠어요.
+KATRIN: Zweitens: Du nimmst keine Telefonate auf. Paragraf 201. Online-Chats darfst du speichern, sie sind Text, kein gesprochenes Wort. Aber vorsichtig.
+> 둘째, 통화는 녹음하지 마. 201조. 온라인 대화는 저장해도 돼, 음성이 아니라 글이니까. 그래도 조심해.
+KATRIN: Drittens: Wenn jemand einen konkreten Anschlag plant, mit Ort und Zeit, dann endet der Journalismus. Dann geht es um Leben. Dann reden wir mit Helene und mit der Polizei.
+> 셋째, 누가 장소와 시간까지 정해 구체적인 공격을 계획하면 거기서 저널리즘은 끝이야. 그땐 생명의 문제야. 그럼 헬레네랑, 경찰이랑 얘기해.
+MIRA: Auch das verstehe ich.
+> 그것도 이해해요.
+HELENE: Und viertens, meine Regel: Jeden Abend ein Bericht an mich und Sweta. Was hast du gesehen, was hast du geschrieben. Jedes Wort.
+> 그리고 넷째, 내 규칙. 매일 저녁 나랑 스베타한테 보고. 뭘 봤고 뭘 썼는지. 한 마디도 빠짐없이.
+
+# 장면 2 — SABINE VOGT WIRD MITGLIED
+MIRA: So. Profilbild. Kein echtes Gesicht. Kein KI-Gesicht, das kann man erkennen. Was dann?
+> 자. 프로필 사진. 진짜 얼굴은 안 돼요. AI 얼굴도 안 돼요, 들키니까. 그럼 뭘로?
+SWETA: Ein Hund. Oder ein Garten. Oder ein Sonnenuntergang. Wie Millionen echte ältere Frauen.
+> 개. 아니면 정원. 아니면 노을. 진짜 나이 든 여자 수백만 명처럼.
+MIRA: Fussel der Spitz. Ein Foto aus einer freien Bilddatenbank. Mit Lizenz. Ich habe sie notiert.
+> 스피츠 푸셀. 자유 이미지 데이터베이스 사진으로요. 라이선스 확인했어요. 적어 뒀고요.
+SWETA: Gut. Jetzt der Beitritt. Der Kanal ist öffentlich. Da kommt jeder rein.
+> 좋아. 이제 가입. 채널은 공개야. 아무나 들어가.
+MIRA: Ich bin drin. Achtunddreißigtausend Mitglieder. Und die Chatgruppe daneben.
+> 들어갔어요. 회원 3만 8천 명. 그리고 옆에 대화방.
+SWETA: In der Chatgruppe schreibst du nicht sofort. Erst lesen. Zwei Tage. Lernen, wie man dort spricht.
+> 대화방에 바로 글 쓰지 마. 먼저 읽어. 이틀. 거기서 어떻게 말하는지 익혀.
+MIRA: Zwei Tage nur lesen? Das ist schwer.
+> 이틀 동안 읽기만요? 그거 힘든데요.
+SWETA: Das Schwerste am verdeckten Arbeiten ist das Warten. Das hat Jan dir doch gesagt.
+> 위장 취재에서 제일 힘든 게 기다리기야. 얀이 말해 줬잖아.
+MIRA: Hat er. «Das Kapitel, das niemand liest.»
+> 했어요. «아무도 안 읽는 그 장.»
+JAN: Und du liest es gerade. Herzlichen Glückwunsch.
+> 그리고 넌 지금 그걸 읽고 있지. 축하해.
+MIRA: Darf ich fragen, Sweta? Du hast das in Moskau gemacht. Verdeckt gearbeitet. Wie war das?
+> 물어봐도 돼요, 스베타? 모스크바에서 이거 했잖아요. 위장 취재. 어땠어요?
+SWETA: Anders. Dort war es gefährlich für den Körper. Hier ist es gefährlich für die Seele.
+> 달랐어. 거긴 몸이 위험했어. 여긴 영혼이 위험해.
+MIRA: Für die Seele?
+> 영혼이요?
+SWETA: Du wirst Menschen mögen, die du belügst. Das ist das Schwerste. Nicht die Technik. Die Technik ist leicht.
+> 넌 네가 속이는 사람들을 좋아하게 될 거야. 그게 제일 힘들어. 기술이 아니라. 기술은 쉬워.
+MIRA: Und wie geht man damit um?
+> 그럼 그걸 어떻게 견뎌요?
+SWETA: Man erinnert sich jeden Tag, warum man es tut. Für die Menschen im Dunkeln. Nicht gegen die im Chat.
+> 매일 왜 하는지를 떠올려. 어둠 속의 사람들을 위해서. 채팅방 사람들에 맞서서가 아니라.
+MIRA: Erster Eindruck: Die meisten sind normale, ängstliche Menschen. Rezepte für Vorräte. Fragen zu Batterien. Ein Mann sorgt sich um sein Aquarium bei Stromausfall.
+> 첫인상은요. 대부분 평범하고 불안해하는 사람들이에요. 비축 식량 레시피. 건전지 질문. 어떤 남자는 정전 때 수족관 걱정을 하고요.
+SWETA: Und die anderen?
+> 그럼 나머지는?
+MIRA: Ein kleiner Teil ist anders. Die reden von «dem System». Von «denen da oben». Und immer kommen die «Partner» mit ihren Links.
+> 작은 일부는 달라요. 그들은 «체제» 얘기를 해요. «저 위에 있는 놈들» 얘기도. 그리고 늘 그 «파트너»들이 링크를 들고 나타나요.
+JAN: Und die Admins? Wolfsrudel und Notfallmama?
+> 그럼 관리자들은? 볼프스루델이랑 노트팔마마는?
+MIRA: Notfallmama postet Rezepte und Ruhe. Wolfsrudel postet Angst. Und Wolfsrudel lädt die «Partner» ein.
+> 노트팔마마는 레시피랑 차분한 글을 올려요. 볼프스루델은 공포를 올리고요. 그리고 볼프스루델이 그 «파트너»들을 초대해요.
+JAN: Dann ist Wolfsrudel interessant.
+> 그럼 볼프스루델이 흥미롭네.
+MIRA: Und noch etwas. Wolfsrudel schreibt immer zwischen acht und zehn Uhr abends. Nie tagsüber. Nie am Wochenende.
+> 그리고 하나 더. 볼프스루델은 늘 저녁 여덟 시에서 열 시 사이에 써요. 낮엔 안 쓰고. 주말에도 안 쓰고.
+JAN: Wie jemand, der tagsüber einen anderen Job hat.
+> 낮에 다른 일을 하는 사람처럼.
+MIRA: Genau. Und Notfallmama schreibt tagsüber. Oft mit Kindergeräuschen im Hintergrund, wenn sie Sprachnachrichten schickt.
+> 맞아요. 그리고 노트팔마마는 낮에 써요. 음성 메시지 보낼 때 뒤에서 아이 소리가 자주 들리고요.
+SWETA: Notfallmama ist echt. Eine echte besorgte Mutter. Wolfsrudel ist etwas anderes.
+> 노트팔마마는 진짜야. 진짜로 걱정하는 엄마. 볼프스루델은 뭔가 달라.
+JAN: Vielleicht zwei Menschen, die denselben Kanal benutzen. Für zwei verschiedene Ziele.
+> 어쩌면 같은 채널을 쓰는 두 사람일지도. 서로 다른 목적으로.
+
+# 장면 3 — ERSTE WORTE
+SWETA: Zwei Tage sind um. Jetzt schreibt Sabine ihren ersten Beitrag. Harmlos. Menschlich.
+> 이틀 지났어. 이제 자비네가 첫 글을 쓰는 거야. 무해하게. 인간적으로.
+MIRA: «Hallo zusammen, ich bin neu hier. Nach dem Januar letztes Jahr in Zehlendorf (meine Schwester) habe ich Angst bekommen. Was ist das Wichtigste für den Anfang?»
+> «여러분 안녕하세요, 저 여기 처음이에요. 작년 1월 첼렌도르프 일(제 언니가 거기 살아요) 이후로 겁이 났어요. 처음에 제일 중요한 게 뭘까요?»
+SWETA: Perfekt. Eine Frage, keine Meinung. Jetzt warten.
+> 완벽해. 질문만, 의견은 없이. 이제 기다려.
+MIRA: Oh. Schnell. «Notfallmama: Willkommen Sabine! Wasser, Licht, Wärme, Radio. In der Reihenfolge. Kein Grund zur Panik.»
+> 어. 빠르네요. «노트팔마마: 환영해요 자비네! 물, 조명, 난방, 라디오. 이 순서대로요. 당황할 필요 없어요.»
+MIRA: Und: «Wolfsrudel_Berlin: Panik ist angebracht. Der Staat lässt uns im Stich. Schau dir das an, Sabine:» Und ein Link.
+> 그리고. «볼프스루델_베를린: 당황할 만해요. 국가는 우릴 버렸어요. 이것 좀 봐요, 자비네:» 그리고 링크.
+JAN: Wohin führt der Link?
+> 링크가 어디로 가는데?
+MIRA: Zu NotstromDirekt24. Zum «Blackout-Paket». Dreißig Prozent Rabatt. Code: «WOLF30».
+> 노트슈트롬디렉트24로요. «블랙아웃 패키지»로. 30퍼센트 할인. 코드 «WOLF30».
+SWETA: Der Admin hat einen eigenen Rabattcode. Das heißt: Er bekommt Geld für jeden Verkauf.
+> 관리자한테 전용 할인 코드가 있네. 그건 판매마다 돈을 받는다는 뜻이야.
+MIRA: Affiliate-Marketing. Ich kann das prüfen. Wenn ich auf den Link klicke und bis zur Kasse gehe, sehe ich den Partnercode in der Adresse.
+> 제휴 마케팅이에요. 확인할 수 있어요. 링크를 눌러 결제창까지 가면 주소에서 파트너 코드가 보여요.
+HELENE: Klicken ja. Kaufen nein. Wir kaufen nichts.
+> 클릭은 돼요. 구매는 안 돼요. 우린 아무것도 안 사요.
+MIRA: Natürlich nicht. Nur bis zur Kasse. Da. «ref=wolfsrudel_berlin». Der Admin verdient mit.
+> 당연하죠. 결제창까지만요. 여기. «ref=wolfsrudel_berlin». 관리자가 같이 버는 거예요.
+LEON: Also macht Wolfsrudel Angst und verkauft dann die Lösung gegen die Angst.
+> 그러니까 볼프스루델이 공포를 만들고, 그 공포에 대한 해결책을 파는 거네요.
+SWETA: Das ist ein altes Geschäft. So alt wie die Angst selbst.
+> 그건 오래된 장사야. 공포만큼이나 오래된.
+JAN: Aber Angst verkaufen ist nicht dasselbe wie Anschläge machen. Das müssen wir trennen.
+> 그래도 공포를 파는 것과 공격을 하는 건 다른 일이야. 그건 구분해야 해.
+MIRA: Ich weiß. Deshalb will ich tiefer. In die geschlossene Gruppe. Da, wo die «Partner» und Wolfsrudel privat reden.
+> 알아요. 그래서 더 깊이 들어가고 싶어요. 비공개 그룹으로. «파트너»들이랑 볼프스루델이 사적으로 얘기하는 곳으로.
+
+# 장면 4 — DIE EINLADUNG
+MIRA: Nach zwei Wochen schreibt mich jemand privat an. «Wolfsrudel_Berlin».
+> 2주 뒤에 누가 개인적으로 메시지를 보냈어요. «볼프스루델_베를린».
+SWETA: Was schreibt er?
+> 뭐라고 썼어?
+MIRA: «Sabine, du stellst gute Fragen. Du denkst mit. Wir haben eine kleinere Gruppe für ernsthafte Leute. Interesse?»
+> «자비네, 질문을 잘하시네요. 생각할 줄 아시고. 저희한테 진지한 사람들을 위한 소그룹이 있어요. 관심 있으세요?»
+JAN: «Ernsthafte Leute.» Das ist die Einladung.
+> «진지한 사람들.» 그게 초대네.
+KATRIN: Mira, bevor du zusagst: Was ist diese Gruppe? Reden ist erlaubt. Mitplanen nicht.
+> 미라, 승낙하기 전에. 그 그룹이 뭐야? 대화는 돼. 같이 계획하는 건 안 돼.
+MIRA: Ich weiß es noch nicht. Deshalb will ich rein. Ich sage ja, und ich höre zu. Mehr nicht.
+> 아직 몰라요. 그래서 들어가려는 거예요. 좋다고 하고, 듣기만 해요. 그 이상은 안 하고요.
+HELENE: Und beim ersten Zeichen eines konkreten Plans ziehst du dich zurück und meldest es. Versprich es.
+> 그리고 구체적인 계획의 첫 신호가 보이면 바로 빠져서 보고해요. 약속해요.
+MIRA: Ich verspreche es.
+> 약속할게요.
+MIRA: Ich bin drin. «Vorbereitungskreis Ost». Elf Mitglieder. Vier davon sind die «Partner».
+> 들어갔어요. «동부 대비 모임». 회원 열한 명. 그중 넷이 «파트너»예요.
+SWETA: Lies den Anfang. Langsam.
+> 처음 부분 읽어. 천천히.
+MIRA: Oben steht eine angepinnte Nachricht. Von Wolfsrudel. «Regeln: keine Klarnamen, keine Orte in der Gruppe, keine Screenshots. Wer dagegen verstößt, fliegt.»
+> 위에 고정된 메시지가 있어요. 볼프스루델이 올린. «규칙: 실명 금지, 그룹 내 장소 언급 금지, 화면 저장 금지. 어기면 퇴출.»
+LEON: Keine Screenshots. Aber Mira macht welche.
+> 화면 저장 금지. 근데 미라는 저장하잖아요.
+KATRIN: Das ist ein Punkt. Mira, du dokumentierst für dich. Aber du weißt: Das Material darf nur das öffentliche Interesse rechtfertigen. Nicht die Neugier.
+> 그게 쟁점이야. 미라, 넌 네 기록용으로 저장해. 근데 알아 둬. 그 자료는 공익만이 정당화할 수 있어. 호기심이 아니라.
+MIRA: Ich dokumentiere alles. Aber wir veröffentlichen nur, was wir müssen. Und nichts, was jemanden in Gefahr bringt.
+> 전부 기록해요. 근데 보도는 꼭 필요한 것만 해요. 그리고 누군가를 위험에 빠뜨리는 건 아무것도 안 하고요.
+JAN: Was reden sie in der Gruppe?
+> 그룹에서 무슨 얘기를 해?
+MIRA: Viel Geschäft. Welches Paket sich wo verkauft. Welche Postleitzahl «dran» ist. Und wer wie viel Provision bekommt.
+> 장사 얘기가 많아요. 어느 패키지가 어디서 팔리는지. 어느 우편번호가 «차례»인지. 그리고 누가 수수료를 얼마 받는지.
+JAN: «Welche Postleitzahl dran ist.» Das ist seltsam formuliert.
+> «어느 우편번호가 차례인지.» 표현이 이상한데.
+MIRA: Ja. Als ob jemand eine Reihenfolge kennt. Als ob jemand weiß, wo als Nächstes Werbung gut läuft.
+> 네. 누가 순서를 아는 것처럼요. 다음에 어디서 광고가 잘 먹힐지 아는 것처럼요.
+HELENE: Oder wo als Nächstes etwas passiert.
+> 아니면 다음에 어디서 무슨 일이 일어날지요.
+JAN: Das sagen wir nicht laut. Noch nicht. Mira, wer schreibt diese Postleitzahl-Nachrichten?
+> 그건 소리 내어 말하지 말죠. 아직은. 미라, 그 우편번호 메시지는 누가 써?
+MIRA: Ein Account namens «Elektriker_Spandau». Still, sachlich. Schreibt selten. Aber wenn er schreibt, hören alle zu.
+> «일렉트리커_슈판다우»라는 계정이요. 조용하고, 사무적이고. 자주 안 써요. 근데 쓰면 다들 귀를 기울여요.
+JAN: Elektriker. Jemand, der sich mit Strom auskennt.
+> 전기공. 전기를 잘 아는 사람.
+MIRA: Und der aus Spandau ist. Oder so tut.
+> 그리고 슈판다우 출신인. 아니면 그런 척하는.
+SWETA: Marty hat in der Grube nach «Leuten gesucht, die sich mit Strom auskennen». Und jetzt gibt es einen «Elektriker_Spandau».
+> 마티가 그루베에서 «전기 잘 아는 사람»을 찾았지. 그리고 이제 «일렉트리커_슈판다우»가 있고.
+JAN: Das kann Zufall sein. Oder nicht. Mira, beobachte den Account. Nur beobachten.
+> 우연일 수도 있어. 아닐 수도 있고. 미라, 그 계정을 지켜봐. 지켜보기만.
+KATRIN: Und, Mira: Wenn dieser «Elektriker» dich direkt anschreibt und fragt, ob du mithilfst, dann ziehst du dich zurück. Sofort.
+> 그리고 미라, 그 «전기공»이 너한테 직접 메시지를 보내서 같이하겠냐고 물으면 빠져. 바로.
+MIRA: Und wenn ich dann etwas verpasse?
+> 그러다 뭔가 놓치면요?
+KATRIN: Lieber etwas verpassen als eine Straftat mitplanen. Eine verpasste Information ist traurig. Eine Mittäterschaft ist das Ende.
+> 범죄를 같이 계획하느니 뭔가 놓치는 게 나아. 놓친 정보는 아쉬운 거고, 공범이 되는 건 끝이야.
+MIRA: Verstanden. Zurückziehen vor jeder Tat.
+> 알겠어요. 어떤 범행 앞에서도 물러나기.
+HELENE: Und du bist nicht allein, Mira. Jeden Abend reden wir. Wenn es zu viel wird, hören wir auf. Sofort. Ohne Diskussion.
+> 그리고 넌 혼자가 아니야, 미라. 매일 저녁 얘기해요. 감당이 안 되면 그만둬요. 바로. 토론 없이.
+
+# 장면 5 — NACH HAUSE
+NUR: Mira, du bist schon wieder die ganze Nacht wach gewesen. Dein Licht war an.
+> 미라, 너 또 밤새 안 잤구나. 불이 켜져 있더라.
+MIRA: Ich arbeite an etwas Wichtigem, Mama.
+> 중요한 일을 하고 있어, 엄마.
+NUR: Du arbeitest immer an etwas Wichtigem. Und immer nachts. Und immer allein.
+> 넌 늘 중요한 일을 해. 그리고 늘 밤에. 그리고 늘 혼자서.
+MIRA: Das ist mein Beruf, Mama.
+> 그게 내 일이야, 엄마.
+NUR: Dein Beruf ist gefährlich. Ich lese doch, was ihr schreibt. Über diese Firmen. Über diese Männer.
+> 네 일은 위험해. 나도 너희가 쓰는 거 읽어. 그 회사들에 대해. 그 남자들에 대해.
+MIRA: Deshalb bin ich vorsichtig. Vorsichtiger als alle anderen. Das weißt du.
+> 그래서 조심하잖아. 다른 누구보다도 더. 엄마도 알잖아.
+NUR: Deine Großmutter hat in İzmir auch «vorsichtig» gesagt. Bevor sie wegen eines Artikels ins Gefängnis kam.
+> 네 할머니도 이즈미르에서 «조심한다»고 했어. 기사 하나 때문에 감옥에 가기 전에.
+MIRA: Hier ist nicht İzmir, Mama. Hier gibt es Gesetze, die uns schützen. Eine Anwältin. Eine Chefin, die aufpasst.
+> 여긴 이즈미르가 아니야, 엄마. 여긴 우릴 지켜 주는 법이 있어. 변호사도. 챙겨 주는 편집장도.
+NUR: Ich weiß. Ich bin stolz auf dich. Und ich habe Angst. Beides. Jeden Tag.
+> 알아. 네가 자랑스러워. 그리고 무섭기도 해. 둘 다. 매일.
+MIRA: Das verstehe ich. Mama… darf ich dich etwas fragen? Beruflich?
+> 이해해. 엄마… 하나 물어봐도 돼? 일 때문에?
+NUR: Beruflich. Natürlich.
+> 일 때문에. 그럼.
+MIRA: Du kochst Soljanka. Was kommt da rein? Ich muss es wissen. Für… eine Rolle.
+> 엄마 솔랸카 끓이잖아. 거기 뭐가 들어가? 알아야 해. 그… 어떤 역할 때문에.
+NUR: Eine Rolle? Du spielst jetzt Theater?
+> 역할? 너 이제 연극도 해?
+MIRA: So ähnlich. Ich bin für ein paar Wochen eine andere Frau. Sie heißt Sabine. Sie mag Soljanka.
+> 비슷해. 몇 주 동안 다른 여자가 되는 거야. 이름은 자비네. 솔랸카를 좋아해.
+NUR: Dann soll Sabine es richtig machen. Setz dich. Ich zeige es dir. Mit Gurken. Viele machen das falsch.
+> 그럼 자비네는 제대로 해야지. 앉아. 알려 줄게. 오이 넣고. 많은 사람이 틀리게 해.
+MIRA: Danke, Mama.
+> 고마워, 엄마.
+NUR: Und schreib das Rezept nicht in deinen Chat. Sonst wissen die, dass Sabine eine türkische Mutter hat.
+> 그리고 그 레시피는 채팅방에 쓰지 마. 안 그럼 자비네한테 튀르키예 엄마가 있다는 걸 알아챌 거야.
+MIRA: Mama! Du denkst wie eine Spionin.
+> 엄마! 스파이처럼 생각하네.
+NUR: Ich bin eine Mutter. Das ist fast dasselbe.
+> 난 엄마야. 거의 같은 거지.
+NUR: Und, Mira. Wenn diese Sabine Freunde findet in ihrem Chat… vergiss nicht, wer du bist. Wenn das vorbei ist.
+> 그리고 미라. 그 자비네가 채팅방에서 친구를 사귀거든… 끝나고 나면 네가 누군지 잊지 마.
+MIRA: Das vergesse ich nie, Mama.
+> 절대 안 잊어, 엄마.
+
+# 엔딩 — SPANDAU, DONNERSTAG
+MIRA: Jan. Helene. Sofort. Lest das.
+> 얀. 헬레네. 지금 당장. 이것 좀 봐요.
+HELENE: Was ist?
+> 무슨 일이에요?
+MIRA: In der geschlossenen Gruppe. Vor zehn Minuten. Von einem Account namens «Elektriker_Spandau».
+> 비공개 그룹에서요. 10분 전에. «일렉트리커_슈판다우»라는 계정이요.
+JAN: Lies.
+> 읽어 봐.
+MIRA: «Nächste Woche läuft die Kampagne für PLZ 13589, 13593, 13595. Haltet die Pakete bereit. Donnerstag geht es los.»
+> «다음 주엔 우편번호 13589, 13593, 13595 캠페인이 돌아갑니다. 패키지 준비해 두세요. 목요일에 시작합니다.»
+LEON: Das sind Postleitzahlen von…
+> 그건 어디 우편번호냐면…
+MIRA: Spandau. Genau die drei Gebiete, wo Tobi die leeren Kamerahalterungen gefunden hat.
+> 슈판다우예요. 토비가 빈 카메라 거치대를 찾은 바로 그 세 지역이요.
+SWETA: Eine Werbekampagne. Für Notstrom. Mit Datum. Donnerstag.
+> 광고 캠페인이에요. 비상전원. 날짜까지. 목요일.
+JAN: Eine Werbekampagne ist kein Anschlag. Aber letztes Mal kam der Anschlag drei Tage nach der Werbung.
+> 광고 캠페인은 공격이 아니야. 근데 지난번엔 광고 사흘 뒤에 공격이 왔어.
+HELENE: Und dieses Mal haben wir die Werbung vorher gesehen. Nicht hinterher.
+> 그리고 이번엔 광고를 미리 봤어요. 사후가 아니라.
+KATRIN: Mira, hat jemand einen Anschlag angekündigt? Mit Ort und Zeit? Konkret?
+> 미라, 누가 공격을 예고했어? 장소랑 시간까지? 구체적으로?
+MIRA: Nein. Nur eine Werbekampagne. Aber die Postleitzahlen. Und «Donnerstag».
+> 아니요. 광고 캠페인뿐이에요. 근데 그 우편번호들. 그리고 «목요일».
+HELENE: Das reicht noch nicht für die Polizei als «Gefahr». Aber es reicht für uns, um sehr wach zu sein.
+> 그건 아직 경찰한테 «위험»으로 신고할 정도는 아니에요. 그래도 우리가 바짝 깨어 있을 정도는 되죠.
+JAN: Tobi fährt nach Spandau. Zu den drei Brücken. Nicht nachts. Am Tag. Mit offenen Augen.
+> 토비가 슈판다우에 가. 그 다리 세 곳으로. 밤이 아니라. 낮에. 눈을 크게 뜨고.
+TOBI: Und ick nehm Leon mit. Zwee fallen weniger uff als einer, der sich umkiekt.
+= Und ich nehme Leon mit. Zwei fallen weniger auf als einer, der sich umschaut.
+> 그리고 레온 데려갈게. 둘이면 혼자 두리번거리는 것보다 덜 눈에 띄어.
+LEON: Ich? In Spandau? Ich war noch nie in Spandau.
+> 저요? 슈판다우에? 저 슈판다우 한 번도 안 가 봤어요.
+TOBI: Dann wird's Zeit, Schwabe. Spandau is schön. Wie 'ne eigene Stadt. Die sagen da sojar «wir fahren nach Berlin».
+= Dann wird es Zeit, Schwabe. Spandau ist schön. Wie eine eigene Stadt. Die sagen da sogar «wir fahren nach Berlin».
+> 그럼 갈 때가 됐네, 슈바벤 친구. 슈판다우 좋아. 독립된 도시 같아. 거기선 심지어 «베를린에 간다»고 말해.
+LEON: Aber Spandau ist doch Berlin.
+> 근데 슈판다우도 베를린이잖아요.
+TOBI: Sag det nich zu laut in Spandau.
+= Sag das nicht zu laut in Spandau.
+> 슈판다우에선 그 말 크게 하지 마.
+HELENE: Genug Geografie. Tobi, Leon: nur schauen. Fotos von den Brücken, von öffentlichem Grund. Keine Helden.
+> 지리 수업은 그만. 토비, 레온: 보기만 해요. 다리 사진, 공공장소에서. 영웅 노릇은 금지.
+JAN: Und wenn ihr jemanden an einer Brücke seht, der dort nichts zu suchen hat: nicht ansprechen. Fotografieren, Nummernschild, weg.
+> 그리고 다리에서 거기 있을 이유가 없는 사람을 보면, 말 걸지 마. 사진, 번호판, 그리고 빠지기.
+TOBI: Keene Helden. Verstanden, Chefin.
+= Keine Helden. Verstanden, Chefin.
+> 영웅 노릇 안 하기. 알겠어, 편집장님.
+MIRA: Und ich bleibe Sabine. Und höre zu. Bis Donnerstag.
+> 그리고 난 자비네로 남아요. 그리고 들어요. 목요일까지.
