@@ -1,0 +1,333 @@
+@part 3
+@ep 1
+@title Die Zeitenwende hat einen Preis
+@sub 시대 전환의 값 · 9월 중순, 밀려난 중소기업과 경쟁사 사양 그대로의 입찰 공고
+@info 대사 150턴 · 난이도 B2 · 배경: 2027년 9월 중순, Spreewerk 편집국, 엘케의 선술집, 슈판다우의 작은 방산 공장
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast ROLOFF | 자비네 롤로프 (49) · 중소 방산기업 «Roloff Wehrtechnik» 대표
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인
+@note ※ 2022년 이후 독일은 '시대 전환(Zeitenwende)'을 선언하고 연방군 특별기금(약 천억 유로)과 국방비 대폭 증액을 추진했습니다. 조달이 급해지면서, 입찰 공고가 특정 업체 제품에 맞춰 쓰였다는 의혹이 되풀이됩니다. 공공 조달은 원칙적으로 '제품 중립적'이어야 합니다. 이 화의 기업과 사건은 가상입니다.
+@note ※ 표현 초점: Zeitenwende · Sondervermögen · Ausschreibung · Leistungsbeschreibung · produktneutral · Mittelstand · Zuschlag · Drohnenabwehr
+@next 3부 2화 — «Adlershof, Halle 7»(아들러스호프 7동) — 얀과 미라가 Skyward 오픈데이에 기자로 참석한다. 젊은 창업자 펠릭스 아렌트는 우크라이나 전선 경험을 앞세운 화려한 발표를 하고, 투자자 명단에 Thal & Partner 펀드가 있다.
+
+# 콜드 오픈 — EINE UNANGEMELDETE BESUCHERIN
+LEON: Jan, da ist eine Frau am Empfang. Ohne Termin. Sie sagt, es ist dringend.
+> 얀, 접수대에 여자분이 와 있어요. 약속 없이요. 급하다고 하세요.
+JAN: Wer ist sie?
+> 누군데?
+LEON: Sabine Roloff. Sie sagt, sie hat eine Rüstungsfirma. Und sie hat euren Sentinel-Artikel gelesen.
+> 자비네 롤로프요. 방산 회사를 한다고 하세요. 그리고 여러분 센티넬 기사를 읽었대요.
+JAN: Eine Rüstungsfirma. Dann hol sie rein. Aber nicht in den Besprechungsraum. In Helenes Büro.
+> 방산 회사라. 그럼 들여보내. 근데 회의실 말고. 헬레네 사무실로.
+ROLOFF: Herr Kowalczyk. Danke, dass Sie Zeit haben. Ich weiß, ich komme unangemeldet.
+> 코발치크 씨. 시간 내 주셔서 감사해요. 약속 없이 온 거 알아요.
+JAN: Das ist in Ordnung, Frau Roloff. Setzen Sie sich. Was führt Sie zu uns?
+> 괜찮아요, 롤로프 씨. 앉으세요. 무슨 일로 오셨어요?
+ROLOFF: Ich habe eine Firma. Roloff Wehrtechnik. Vierzig Mitarbeiter. Wir bauen Systeme zur Drohnenabwehr. Seit zwölf Jahren.
+> 회사가 하나 있어요. 롤로프 베어테히니크. 직원 마흔 명. 드론 방어 시스템을 만들어요. 12년째요.
+JAN: Darf ich fragen, wie Sie zu Rüstung gekommen sind? Das ist kein typischer Weg.
+> 어떻게 방산을 하게 되셨는지 여쭤봐도 될까요? 흔한 길은 아니잖아요.
+ROLOFF: Mein Vater hatte eine Werkstatt für Funktechnik. Ich habe Elektrotechnik studiert. Und nach 2022 brauchte plötzlich jeder Drohnenabwehr. Wir waren schon da.
+> 아버지가 무선 기술 공방을 하셨어요. 전 전기공학을 전공했고요. 그리고 2022년 뒤에 갑자기 모두가 드론 방어를 원했어요. 우린 이미 거기 있었고요.
+JAN: Sie waren vorbereitet, bevor die Zeitenwende kam.
+> 시대 전환이 오기 전에 준비돼 있었군요.
+ROLOFF: Vorbereitet und erfahren. Das dachte ich zumindest. Ich dachte, Erfahrung zählt. In Wahrheit zählt etwas anderes.
+> 준비됐고 경험도 있었죠. 적어도 전 그렇게 생각했어요. 경험이 중요한 줄 알았죠. 사실은 다른 게 중요하더군요.
+JAN: Was zählt in Wahrheit?
+> 사실은 뭐가 중요한데요?
+ROLOFF: Die richtigen Berater. Die richtigen Investoren. Das richtige Netzwerk. Erfahrung baut man in zwölf Jahren. Ein Netzwerk kauft man in zwölf Monaten.
+> 제대로 된 자문가. 제대로 된 투자자. 제대로 된 인맥. 경험은 12년에 걸쳐 쌓죠. 인맥은 12개월에 사고요.
+JAN: Drohnenabwehr. Das ist gerade sehr gefragt.
+> 드론 방어. 요즘 아주 수요가 많죠.
+ROLOFF: Sehr gefragt. Deshalb bin ich hier. Ich habe eine Ausschreibung verloren. Eine große. Und ich glaube, sie war von Anfang an für jemand anderen bestimmt.
+> 아주 많죠. 그래서 왔어요. 입찰에서 졌거든요. 큰 거요. 그리고 그게 처음부터 다른 사람 거였다고 생각해요.
+
+# 장면 1 — DIE VERLORENE AUSSCHREIBUNG
+JAN: Erzählen Sie von Anfang an. Was war die Ausschreibung?
+> 처음부터 얘기해 주세요. 어떤 입찰이었어요?
+ROLOFF: Die Bundeswehr wollte ein mobiles System zur Drohnenabwehr. Zweihundert Stück. Auftragsvolumen: vierhundert Millionen Euro.
+> 연방군이 이동식 드론 방어 시스템을 원했어요. 200대. 계약 규모는 4억 유로.
+LEON: Vierhundert Millionen.
+> 4억 유로요.
+ROLOFF: Für den Mittelstand ist das riesig. Mein Jahresumsatz ist acht Millionen. So ein Auftrag verändert alles.
+> 중소기업한테는 어마어마하죠. 제 연 매출이 800만 유로예요. 그런 계약은 모든 걸 바꿔요.
+LEON: Und wenn Sie den Auftrag bekommen hätten? Was wäre passiert?
+> 그 계약을 따냈으면요? 어떻게 됐을까요?
+ROLOFF: Ich hätte hundert Leute eingestellt. Eine neue Halle gebaut. In Brandenburg, wo es Arbeitsplätze braucht. Das war mein Traum.
+> 사람 백 명을 뽑았을 거예요. 새 공장을 지었을 거고요. 브란덴부르크에, 일자리가 필요한 곳에. 그게 제 꿈이었어요.
+LEON: Und jetzt?
+> 그럼 지금은요?
+ROLOFF: Jetzt entlasse ich vielleicht zehn. Wenn die Bank die Kredite kündigt, vielleicht mehr. Deshalb sitze ich hier. Für die vierzig Leute, die noch da sind.
+> 지금은 어쩌면 열 명을 해고해요. 은행이 대출을 끊으면 어쩌면 더. 그래서 여기 앉아 있는 거예요. 아직 남아 있는 마흔 명을 위해서요.
+JAN: Und Sie haben sich beworben.
+> 그래서 응찰하셨고요.
+ROLOFF: Natürlich. Mein System ist gut. Erprobt. In der Ukraine im Einsatz. Günstiger als die Konkurrenz. Und trotzdem habe ich verloren.
+> 당연하죠. 제 시스템은 좋아요. 검증됐고요. 우크라이나에서 실전 투입됐어요. 경쟁사보다 싸고요. 그런데도 졌어요.
+SWETA: An wen haben Sie verloren?
+> 누구한테 졌어요?
+ROLOFF: An eine Firma namens Skyward Defence. Gegründet vor achtzehn Monaten. Kein einziges System im Einsatz. Keine Erfahrung.
+> 스카이워드 디펜스라는 회사한테요. 18개월 전에 설립. 실전 투입 시스템 하나도 없어요. 경험도 없고요.
+JAN: Eine Firma ohne Erfahrung gewinnt einen Auftrag über vierhundert Millionen gegen eine erprobte Firma?
+> 경험 없는 회사가 검증된 회사를 제치고 4억 유로짜리 계약을 따낸다고요?
+ROLOFF: Genau. Und als ich die Ausschreibung noch einmal gelesen habe, verstand ich, warum.
+> 바로 그거예요. 그리고 그 입찰 공고를 다시 읽어 보고 왜인지 알았어요.
+JAN: Warum?
+> 왜요?
+ROLOFF: Die Leistungsbeschreibung. Die Liste der Anforderungen. Sie war geschrieben wie das Datenblatt von Skyward. Punkt für Punkt.
+> 성능 명세서요. 요구 사항 목록이요. 스카이워드 제품 사양서처럼 쓰여 있었어요. 조목조목.
+
+# 장면 2 — PRODUKTNEUTRAL?
+MIRA: Das ist ein ernster Vorwurf. Eine Ausschreibung muss produktneutral sein. Das steht im Vergaberecht.
+> 그건 심각한 의혹이에요. 입찰은 제품 중립적이어야 해요. 조달법에 나와 있어요.
+ROLOFF: Ich weiß. Deshalb bin ich hier. Schauen Sie. Eine Anforderung: «Gewicht unter 23,4 Kilogramm.» Nicht 23, nicht 24. 23,4.
+> 알아요. 그래서 왔어요. 보세요. 요구 사항 하나. «중량 23.4킬로그램 미만.» 23도 24도 아닌. 23.4요.
+JAN: Warum ist 23,4 wichtig?
+> 왜 23.4가 중요한데요?
+ROLOFF: Weil das Skyward-System exakt 23,3 Kilogramm wiegt. Und meines 24,1. Eine Anforderung, die nur ein einziges Produkt erfüllt.
+> 스카이워드 시스템이 정확히 23.3킬로그램이니까요. 그리고 제 건 24.1이고요. 단 하나의 제품만 충족하는 요구 사항이죠.
+SWETA: Das kann Zufall sein.
+> 우연일 수 있잖아요.
+ROLOFF: Einmal ist Zufall. Aber es sind elf solche Anforderungen. Elf Zahlen, die genau auf Skyward passen. Und nur auf Skyward.
+> 한 번이면 우연이죠. 근데 그런 요구 사항이 열한 개예요. 스카이워드에 딱 맞는 숫자 열한 개. 그리고 스카이워드한테만 맞는.
+JAN: Elf.
+> 열한 개.
+ROLOFF: Elf. Reichweite, Stromverbrauch, Betriebstemperatur. Jede Zahl ein Maßanzug für Skyward. Ich habe dreißig Jahre Erfahrung. So eine Ausschreibung habe ich noch nie gesehen.
+> 열한 개요. 사정거리, 전력 소비, 작동 온도. 숫자 하나하나가 스카이워드 맞춤 양복이에요. 전 30년 경력이에요. 이런 입찰은 처음 봤어요.
+MIRA: Haben Sie die Ausschreibung noch? Das Dokument?
+> 그 입찰 공고 아직 갖고 계세요? 그 문서요?
+ROLOFF: Natürlich. Ich hebe alles auf. Hier, auf einem USB-Stick. Und ausgedruckt.
+> 당연하죠. 전 뭐든 다 보관해요. 여기, USB에요. 그리고 출력본도요.
+KATRIN: Frau Roloff, bevor wir weitergehen. Haben Sie Ihre Niederlage angefochten? Vor der Vergabekammer?
+> 롤로프 씨, 더 나가기 전에요. 패배에 이의를 제기하셨어요? 조달 심판소에?
+ROLOFF: Ich habe es versucht. Mein Anwalt hat abgeraten. «Zu teuer, zu lang, zu aussichtslos gegen den Bund.» Also habe ich aufgegeben. Juristisch.
+> 해 보려고 했어요. 변호사가 말렸어요. «너무 비싸고, 너무 길고, 연방 정부 상대론 가망 없다»고요. 그래서 포기했어요. 법적으로는요.
+JAN: Und jetzt kommen Sie zu uns. Warum?
+> 그리고 이제 저희한테 오셨고요. 왜요?
+ROLOFF: Weil ein Gericht das Geld zählt. Aber eine Zeitung die Wahrheit. Und ich will, dass die Wahrheit irgendwo steht. Bevor meine Firma stirbt.
+> 법원은 돈을 세니까요. 근데 신문은 진실을 세죠. 그리고 전 그 진실이 어딘가에 남길 바라요. 제 회사가 죽기 전에.
+HELENE: Frau Roloff, ich muss ehrlich sein. Wir sind eine kleine Redaktion. Wir können Ihre Firma nicht retten.
+> 롤로프 씨, 솔직히 말할게요. 저흰 작은 편집국이에요. 당신 회사를 구할 순 없어요.
+ROLOFF: Das erwarte ich nicht. Ich will nur, dass es nicht umsonst war. Zwölf Jahre Arbeit. Und dass die Nächste es vielleicht leichter hat.
+> 그걸 바라는 게 아니에요. 그냥 헛되지 않길 바라요. 12년의 일이요. 그리고 다음 사람은 어쩌면 더 쉽길 바라고요.
+HELENE: Das können wir versuchen. Wir prüfen alles. Und wenn Ihre Vorwürfe stimmen, schreiben wir darüber. Fair. Mit beiden Seiten.
+> 그건 해 볼 수 있어요. 전부 확인해요. 그리고 당신 주장이 맞으면 그걸 써요. 공정하게. 양쪽 다.
+ROLOFF: Mehr will ich nicht. Nur fair.
+> 그 이상 바라지 않아요. 공정하기만 하면.
+JAN: «Nur fair.» Das sagen alle unsere besten Quellen. Immer dasselbe Wort.
+> «공정하기만.» 우리 최고의 취재원들이 다 그 말을 해요. 늘 같은 단어를요.
+
+# 장면 3 — DIE PRÜFUNG
+HELENE: Frau Roloff ist weg. Jetzt die ehrliche Frage: Glauben wir ihr?
+> 롤로프 씨는 갔어요. 이제 솔직한 질문이에요. 우린 그분을 믿어요?
+JAN: Ich glaube niemandem. Ich prüfe. Aber die elf Zahlen sind ein starker Anfang.
+> 전 아무도 안 믿어요. 확인하죠. 근데 그 숫자 열한 개는 강력한 시작이에요.
+MIRA: Ich habe schon angefangen. Die Ausschreibung ist öffentlich. Ich vergleiche sie mit dem Datenblatt von Skyward.
+> 벌써 시작했어요. 입찰 공고는 공개돼 있어요. 그걸 스카이워드 사양서랑 비교할게요.
+SWETA: Und wir müssen die andere Seite verstehen. Vielleicht gibt es gute Gründe für die Zahlen.
+> 그리고 우린 반대편도 이해해야 해요. 그 숫자들에 타당한 이유가 있을지도 몰라요.
+LEON: Welche Gründe könnte es geben?
+> 어떤 이유가 있을 수 있어요?
+JAN: Vielleicht braucht die Bundeswehr wirklich genau 23,4 Kilogramm. Weil ein Soldat es tragen muss. Mit anderer Ausrüstung zusammen.
+> 어쩌면 연방군이 정말로 딱 23.4킬로그램이 필요할 수도 있어. 병사가 들어야 하니까. 다른 장비랑 같이.
+MIRA: Möglich. Aber dann müsste die Zahl begründet sein. In der Ausschreibung. Ist sie das?
+> 가능하죠. 근데 그럼 그 숫자가 근거가 있어야 해요. 입찰 공고에. 그런가요?
+JAN: Lies nach.
+> 찾아봐.
+MIRA: «Das Gesamtgewicht darf 23,4 kg nicht überschreiten.» Keine Begründung. Nur die Zahl.
+> «총중량은 23.4kg를 넘지 않아야 한다.» 근거 없음. 숫자만 있어요.
+SWETA: Eine Zahl ohne Begründung. Das ist auffällig. Aber kein Beweis.
+> 근거 없는 숫자. 그건 눈에 띄네요. 근데 증거는 아니에요.
+JAN: Deshalb reden wir mit Fachleuten. Jemandem, der Ausschreibungen für die Bundeswehr kennt. Von innen.
+> 그래서 전문가랑 얘기해요. 연방군 입찰을 아는 사람. 안에서부터.
+HELENE: Und wir müssen Skyward selbst anschauen. Wer sind die? Woher kommt das Geld für eine Firma, die in achtzehn Monaten vierhundert Millionen gewinnt?
+> 그리고 스카이워드 자체를 봐야 해요. 그 사람들이 누구죠? 18개월 만에 4억 유로를 따낸 회사의 돈은 어디서 나와요?
+MIRA: Das schaue ich mir an. Handelsregister, Investoren, Beirat. Das Übliche.
+> 그건 제가 볼게요. 상업 등기, 투자자, 자문위원회. 늘 하던 거요.
+JAN: Und rate, was wir finden.
+> 그리고 뭘 찾을지 맞혀 봐.
+MIRA: Ich rate nicht. Ich prüfe. Aber wenn ich raten müsste… drei Buchstaben. T, P und Thal.
+> 전 안 맞혀요. 확인하죠. 근데 맞혀야 한다면… 세 글자. T, P, 그리고 탈.
+
+# 장면 4 — DER FACHMANN
+JAN: Herr Doktor, danke, dass Sie mit mir reden. Unter drei, wie besprochen.
+> 박사님, 저랑 얘기해 주셔서 감사해요. 논의한 대로 unter drei로요.
+SWETA: Unser Gesprächspartner war zwanzig Jahre im Beschaffungsamt der Bundeswehr. Er ist jetzt pensioniert. Wir nennen ihn nicht.
+> 저희 대화 상대는 연방군 조달청에 20년 있었어요. 지금은 퇴직했고요. 이름은 밝히지 않아요.
+JAN: Herr Doktor, kann eine Ausschreibung für ein einziges Produkt geschrieben werden? Ohne dass es jemand merkt?
+> 박사님, 입찰 공고를 단 하나의 제품에 맞춰 쓸 수 있어요? 아무도 모르게요?
+JAN: Er sagt: Ja. Es ist verboten, aber es passiert. Man nennt es «zuschneiden». Die Anforderungen werden auf das Wunschprodukt zugeschnitten.
+> 박사가 그래요. 그렇다고. 금지돼 있지만 일어난다고요. 그걸 «맞춤 재단»이라고 부른대요. 요구 사항을 원하는 제품에 맞춰 재단하는 거죠.
+SWETA: Und wie macht man das, ohne aufzufallen?
+> 그럼 어떻게 눈에 안 띄게 해요?
+JAN: Er sagt: Man nimmt echte technische Anforderungen. Aber man wählt die Werte so eng, dass nur ein Produkt passt. 23,4 statt 25. Niemand kann beweisen, dass 25 auch gereicht hätte.
+> 박사가 그래요. 진짜 기술 요구 사항을 쓴다고. 근데 값을 아주 좁게 잡아서 한 제품만 맞게 한대요. 25 대신 23.4. 25로도 충분했을 거라는 걸 아무도 증명 못 하죠.
+JAN: Und wer schreibt die Leistungsbeschreibung?
+> 그럼 성능 명세서는 누가 써요?
+JAN: Er sagt: Offiziell das Amt. Aber oft helfen «externe Experten». Berater. Manchmal zahlt die Industrie diese Berater sogar mit.
+> 박사가 그래요. 공식적으로는 청이라고. 근데 자주 «외부 전문가»가 돕는대요. 자문가들. 가끔은 업계가 그 자문가 비용을 대기도 하고요.
+SWETA: Die Industrie bezahlt die Berater, die die Anforderungen für die Industrie schreiben.
+> 업계가 업계를 위한 요구 사항을 쓰는 자문가들한테 돈을 대는군요.
+JAN: Er sagt: So ist es manchmal. Nicht immer. Aber die Zeitenwende hat alles beschleunigt. Schnelligkeit schlägt Sorgfalt. Und in der Eile wird viel zugeschnitten.
+> 박사가 그래요. 가끔 그렇다고. 늘은 아니고. 근데 시대 전환이 모든 걸 빠르게 만들었대요. 속도가 신중함을 이긴다고. 그리고 급한 와중에 많은 게 맞춤 재단된대요.
+JAN: Letzte Frage. Wenn ich eine solche Ausschreibung beweisen will, was brauche ich?
+> 마지막 질문이에요. 그런 입찰을 증명하려면 뭐가 필요해요?
+JAN: Er sagt: Zeigen, dass die Anforderungen nur zu einem Produkt passen. Und zeigen, wer sie geschrieben hat. Das Zweite ist fast unmöglich. Das Erste ist Rechenarbeit.
+> 박사가 그래요. 요구 사항이 한 제품에만 맞는다는 걸 보이고. 누가 썼는지를 보이라고. 두 번째는 거의 불가능하대요. 첫 번째는 계산 작업이고요.
+SWETA: Rechenarbeit ist Miras Spezialität.
+> 계산 작업은 미라 전문이죠.
+JAN: Herr Doktor, eine Sache noch. Kennen Sie die Firma Skyward Defence?
+> 박사님, 하나 더요. 스카이워드 디펜스라는 회사 아세요?
+JAN: Er sagt: Dem Namen nach. Eine neue Firma, die plötzlich überall ist. Auf jeder Konferenz, in jedem Ministeriumsgespräch.
+> 박사가 그래요. 이름은 안다고. 갑자기 어디에나 있는 새 회사. 모든 콘퍼런스에, 모든 부처 면담에.
+SWETA: Ist das normal für eine so junge Firma?
+> 그렇게 젊은 회사한테 그게 정상이에요?
+JAN: Er sagt: Nein. Normalerweise braucht eine Firma Jahre, um in diese Räume zu kommen. Skyward war in Monaten drin. Jemand hat Türen geöffnet.
+> 박사가 그래요. 아니라고. 보통 회사는 그런 자리에 들어가는 데 몇 년이 걸린대요. 스카이워드는 몇 달 만에 들어갔고요. 누가 문을 열어 준 거죠.
+JAN: Wer öffnet solche Türen?
+> 그런 문은 누가 열어 줘요?
+JAN: Er sagt: Leute, die früher drin saßen. Ehemalige Staatssekretäre. Ehemalige Generäle. Die Drehtür, Herr Kowalczyk. Immer die Drehtür.
+> 박사가 그래요. 예전에 그 안에 앉았던 사람들이라고. 전직 차관. 전직 장성. 회전문이에요, 코발치크 씨. 늘 회전문.
+
+# 장면 5 — DAS DATENBLATT
+MIRA: Ich habe gerechnet. Die ganze Nacht. Elf Anforderungen, drei Produkte am Markt.
+> 계산했어요. 밤새도록. 요구 사항 열한 개, 시장에 나온 제품 세 개.
+JAN: Drei Produkte? Nicht nur Roloff und Skyward?
+> 제품 셋이요? 롤로프랑 스카이워드뿐이 아니고요?
+MIRA: Es gibt noch einen großen Hersteller. Einen Konzern. Und Roloff. Und Skyward. Drei Anbieter.
+> 큰 제조사가 하나 더 있어요. 대기업이요. 그리고 롤로프. 그리고 스카이워드. 공급사 셋이에요.
+SWETA: Und?
+> 그래서?
+MIRA: Von elf Anforderungen erfüllt der Konzern acht. Roloff erfüllt neun. Skyward erfüllt alle elf.
+> 요구 사항 열한 개 중에 대기업은 여덟 개를 충족해요. 롤로프는 아홉 개. 스카이워드는 열한 개 전부요.
+LEON: Also war es wirklich zugeschnitten.
+> 그럼 정말 맞춤 재단된 거네요.
+MIRA: Es sieht so aus. Aber ich war noch gründlicher. Ich habe geschaut, welche Anforderungen den Unterschied machen. Zwei Zahlen entscheiden alles.
+> 그래 보여요. 근데 전 더 철저히 봤어요. 어떤 요구 사항이 차이를 만드는지 봤어요. 숫자 두 개가 전부를 결정해요.
+JAN: Welche zwei?
+> 어떤 두 개?
+MIRA: Das Gewicht, 23,4. Und die Betriebstemperatur bis minus 42 Grad. Keine Drohnenabwehr in Europa braucht minus 42 Grad.
+> 중량 23.4. 그리고 작동 온도 영하 42도까지. 유럽의 어떤 드론 방어도 영하 42도는 필요 없어요.
+SWETA: Minus 42 Grad. Wo ist es so kalt?
+> 영하 42도. 어디가 그렇게 추워요?
+MIRA: In Jakutien. In Sibirien. Oder in einem Labor. Skyward hat sein System in einem Kältelabor getestet. Bis minus 42. Steht in ihrer Broschüre.
+> 야쿠티야요. 시베리아요. 아니면 실험실. 스카이워드는 시스템을 저온 실험실에서 시험했어요. 영하 42도까지. 자기들 안내책자에 나와 있어요.
+JAN: Also hat jemand eine Zahl aus der Skyward-Broschüre in die Bundeswehr-Ausschreibung geschrieben. Eine Zahl, die militärisch keinen Sinn ergibt.
+> 그럼 누가 스카이워드 안내책자의 숫자를 연방군 입찰 공고에 써 넣은 거네. 군사적으로 말이 안 되는 숫자를.
+MIRA: Genau. Und diese Zahl ist unser Beweis. Nicht wer es geschrieben hat. Aber dass es zugeschnitten war.
+> 맞아요. 그리고 그 숫자가 우리 증거예요. 누가 썼는지는 아니고요. 맞춤 재단됐다는 거요.
+HELENE: Und wie sicher ist diese Zahl? Könnte minus 42 nicht einen militärischen Grund haben? NATO-Ostflanke, Winter?
+> 그 숫자는 얼마나 확실해요? 영하 42도가 군사적 이유가 있을 수도 있잖아요? 나토 동부 전선, 겨울?
+MIRA: Gute Gegenrecherche. Ich habe die NATO-Standards geprüft. Für mobile Systeme in Europa gilt minus 32. Nicht minus 42.
+> 좋은 반대 취재예요. 나토 기준을 확인했어요. 유럽의 이동식 시스템은 영하 32도가 기준이에요. 영하 42도가 아니라.
+SWETA: Minus 32 ist Standard. Minus 42 ist Skyward.
+> 영하 32도가 기준. 영하 42도는 스카이워드.
+MIRA: Genau. Zehn Grad zu viel. Zehn Grad, die niemand braucht. Außer der, der die Zahl aus der Broschüre abgeschrieben hat.
+> 맞아요. 10도가 더 많아요. 아무도 필요 없는 10도. 안내책자에서 그 숫자를 베껴 쓴 사람만 빼고요.
+JAN: Das ist stark. Aber wir müssen auch die Bundeswehr fragen. Vielleicht gibt es einen geheimen Grund. Einen, den wir nicht kennen.
+> 강력하네. 근데 연방군한테도 물어봐야 해. 비밀 이유가 있을 수도 있어. 우리가 모르는.
+MIRA: Deshalb schreibe ich «scheint zugeschnitten». Nicht «ist zugeschnitten». Bis die Bundeswehr antwortet.
+> 그래서 «맞춤 재단된 것으로 보인다»고 쓰는 거예요. «맞춤 재단됐다»가 아니라. 연방군이 답할 때까지요.
+LEON: Der Unterschied zwischen «scheint» und «ist». Das lerne ich langsam.
+> «~로 보인다»와 «~이다»의 차이. 조금씩 배우고 있어요.
+JAN: Dieser Unterschied ist unser ganzer Beruf, Leon. In einem Wort.
+> 그 차이가 우리 직업의 전부야, 레온. 한 단어에.
+
+# 장면 6 — WER STECKT HINTER SKYWARD
+MIRA: Und jetzt Skyward selbst. Gegründet im März 2026. Geschäftsführer: Felix Arendt, zweiunddreißig Jahre.
+> 이제 스카이워드 자체요. 2026년 3월 설립. 대표: 펠릭스 아렌트, 서른두 살.
+LEON: Zweiunddreißig. Jung für eine Rüstungsfirma.
+> 서른둘. 방산 회사 치곤 젊네요.
+MIRA: Er war in der Ukraine. Als Freiwilliger. Hat dort Drohnen gebaut, sagt seine Website. Ein Kriegsheld mit Start-up.
+> 우크라이나에 있었어요. 자원봉사자로. 거기서 드론을 만들었대요, 웹사이트에. 스타트업 가진 전쟁 영웅이죠.
+SWETA: Das ist eine gute Geschichte. Fast zu gut.
+> 좋은 이야기네요. 거의 너무 좋은.
+MIRA: Und die Investoren. Skyward hat in zwei Runden hundertzwanzig Millionen Euro Risikokapital bekommen. Von wem?
+> 그리고 투자자들. 스카이워드는 두 차례에 걸쳐 1억 2천만 유로의 벤처 자본을 받았어요. 누구한테서?
+JAN: Sag es.
+> 말해 봐.
+MIRA: Ein Fonds. «Zeitenwende Ventures SCSp». Luxemburg.
+> 펀드예요. «차이텐벤데 벤처스 SCSp». 룩셈부르크.
+SWETA: SCSp. Luxemburg. Wie Nordlicht Wohnen.
+> SCSp. 룩셈부르크. 노르트리히트 보넨처럼.
+MIRA: Gleiche Struktur. Und ratet, wer der Investment Advisor ist.
+> 같은 구조예요. 그리고 투자 자문사가 누군지 맞혀 봐요.
+LEON: Thal und Partner.
+> 탈 & 파트너.
+MIRA: Thal und Partner Advisory GmbH. Es steht im Investoren-Dokument. Schwarz auf weiß.
+> 탈 & 파트너 자문 유한회사. 투자자 문서에 나와 있어요. 분명하게.
+LEON: Und Sandmann? Der Mann aus dem Sentinel-Fall? Ist er auch bei Skyward?
+> 그럼 잔트만은요? 센티넬 사건의 그 남자? 스카이워드에도 있어요?
+MIRA: Im Beirat von Skyward. Genau wie der Spatz gesagt hat. «Senior Advisor Sicherheit». Dieselbe Rolle wie bei Sentinel.
+> 스카이워드 자문위원회에요. 참새가 말한 그대로요. «보안 수석 자문». 센티넬이랑 같은 역할이에요.
+JAN: Also sitzt Sandmann bei Sentinel, bei Castra und bei Skyward. Und Thal berät sie alle.
+> 그럼 잔트만이 센티넬, 카스트라, 스카이워드에 앉아 있고. 탈이 그 전부에 자문하고.
+SWETA: Ein kleines Netz. Immer dieselben Namen. In jeder Branche: Immobilien, Energie, Rüstung.
+> 작은 그물망이에요. 늘 같은 이름들. 모든 분야에. 부동산, 에너지, 방산.
+MIRA: Und jedes Mal mit Staatsgeld. Mieten, Notstrom, Sondervermögen. Immer, wo der Staat zahlt, sind sie da.
+> 그리고 매번 국가 돈이랑 같이. 임대료, 비상전원, 특별기금. 국가가 돈 내는 곳엔 늘 그들이 있어요.
+JAN: Das ist das Muster. Nicht eine Branche. Ein Prinzip. Wo der Staat in Eile Geld ausgibt, stehen sie bereit.
+> 그게 패턴이야. 한 분야가 아니라. 하나의 원리지. 국가가 급하게 돈을 쓰는 곳에 그들이 대기하고 있어.
+HELENE: Das wäre die größte Geschichte von allen. Aber auch die gefährlichste. Einen Schritt nach dem anderen.
+> 그게 모든 것 중 가장 큰 기사겠죠. 근데 가장 위험한 것이기도 하고요. 한 걸음씩.
+JAN: Also berät Thal den Fonds, der Skyward finanziert. Und Skyward gewinnt eine Ausschreibung, die auf Skyward zugeschnitten ist.
+> 그럼 탈이 스카이워드에 투자하는 펀드에 자문하고. 스카이워드는 스카이워드에 맞춰 재단된 입찰을 따내고.
+HELENE: Das ist eine Linie. Aber Vorsicht.HELENE: Das ist eine Linie. Aber Vorsicht. Zwischen «Thal berät den Fonds» und «Thal hat die Ausschreibung geschrieben» liegt noch viel.
+> 그건 선이에요. 근데 조심해요. «탈이 펀드에 자문한다»와 «탈이 입찰 공고를 썼다» 사이엔 아직 많은 게 있어요.
+JAN: Ich weiß. Deshalb fragen wir weiter. Wer hat die Leistungsbeschreibung geschrieben? Gab es externe Berater?
+> 알아요. 그래서 계속 물어요. 성능 명세서를 누가 썼나? 외부 자문가가 있었나?
+MIRA: Ich habe eine kleine Anfrage gefunden. Eine Oppositionsabgeordnete hat genau das gefragt. Vor drei Monaten.
+> 작은 질의를 하나 찾았어요. 야당 의원 한 명이 바로 그걸 물었어요. 석 달 전에.
+JAN: Und die Antwort?
+> 그래서 답은?
+MIRA: «Die Leistungsbeschreibung wurde unter Hinzuziehung externer Fachexpertise erstellt.» Welche Experten, steht nicht da.
+> «성능 명세서는 외부 전문가의 자문을 받아 작성되었다.» 어떤 전문가인지는 안 나와요.
+SWETA: «Externe Fachexpertise.» Das ist das schönste Behördenwort für «Berater, die wir nicht nennen».
+> «외부 전문가 자문.» 그건 «우리가 밝히지 않을 자문가들»을 가리키는 제일 예쁜 관청 용어네요.
+JAN: Dann stellen wir unsere eigene Anfrage. Konkreter. Welche Firma? Welcher Name? Und: Wurde sie von der Industrie mitbezahlt?
+> 그럼 우리가 직접 질의해요. 더 구체적으로. 어떤 회사? 어떤 이름? 그리고, 업계가 비용을 보탰나?
+HELENE: Und parallel fragen wir Skyward. Und Thal. Fair, mit Frist. Aber noch nicht. Erst mehr Belege.
+> 그리고 동시에 스카이워드한테 물어요. 그리고 탈한테도. 공정하게, 기한을 두고. 근데 아직은 아니에요. 증거부터 더.
+
+# 엔딩 — ROLOFF RUFT AN
+JAN: Mein Handy. Frau Roloff.
+> 휴대폰. 롤로프 씨예요.
+ROLOFF: Herr Kowalczyk. Es tut mir leid, dass ich so spät anrufe. Aber ich habe Angst.
+> 코발치크 씨. 이렇게 늦게 전화해서 죄송해요. 근데 무서워서요.
+JAN: Was ist passiert?
+> 무슨 일이에요?
+ROLOFF: Heute kam ein Brief vom Finanzamt. Eine Betriebsprüfung. Rückwirkend, fünf Jahre. Und meine Bank hat angerufen. Sie prüft meine Kredite «neu».
+> 오늘 세무서에서 편지가 왔어요. 세무조사요. 소급해서 5년치. 그리고 은행이 전화했어요. 제 대출을 «재검토»한대요.
+JAN: Beides am selben Tag?
+> 둘 다 같은 날에요?
+ROLOFF: Beides am selben Tag. Nachdem ich bei Ihnen war. Herr Kowalczyk, ich habe nichts falsch gemacht. Meine Firma ist sauber.
+> 둘 다 같은 날에요. 제가 거기 다녀온 뒤에요. 코발치크 씨, 전 아무 잘못도 안 했어요. 제 회사는 깨끗해요.
+JAN: Frau Roloff, bleiben Sie ruhig. Ändern Sie nichts. Unterschreiben Sie nichts. Ich schicke Ihnen morgen früh eine Anwältin. Sie heißt Katrin.
+> 롤로프 씨, 침착하세요. 아무것도 바꾸지 마세요. 아무것도 서명하지 마시고요. 내일 아침에 변호사를 보낼게요. 이름은 카트린이에요.
+ROLOFF: Eine Anwältin. Danke. Aber Herr Kowalczyk… woher wissen die, dass ich bei Ihnen war?
+> 변호사라니. 고마워요. 근데 코발치크 씨… 그들이 제가 거기 다녀온 걸 어떻게 알죠?
+JAN: Das ist genau die Frage, die ich mir auch stelle, Frau Roloff.
+> 그게 바로 저도 스스로 묻는 질문이에요, 롤로프 씨.
+MIRA: Jan. Frau Roloff war in Helenes Büro. Nicht im Besprechungsraum. Die Wanze ist weg. Wie haben die es erfahren?
+> 얀. 롤로프 씨는 헬레네 사무실에 있었어요. 회의실이 아니라. 도청기는 없어졌고요. 그들이 어떻게 알았죠?
+JAN: Vielleicht nicht über uns. Vielleicht beobachten sie Roloff selbst. Sie ist die Verliererin der Ausschreibung. Die logische Whistleblowerin.
+> 어쩌면 우릴 통해서가 아닐 거야. 어쩌면 롤로프를 직접 감시하는 거지. 입찰에서 진 사람이잖아. 논리적인 내부 고발자지.
+SWETA: Sie erwarten, dass sie zur Presse geht. Also beobachten sie, zu welcher Presse.
+> 그 사람이 언론으로 갈 걸 예상하죠. 그래서 어느 언론으로 가는지 지켜보고요.
+MIRA: Dann wissen sie jetzt, dass sie zu uns gekommen ist. Und sie bestrafen sie. Als Warnung an alle anderen.
+> 그럼 이제 그 사람이 우리한테 온 걸 아는 거네요. 그리고 그 사람을 벌하고요. 다른 모두한테 보내는 경고로.
+JAN: Steuerprüfung und Kreditkündigung am selben Tag. Das ist keine Warnung an Roloff. Das ist eine Warnung an uns.
+> 세무조사랑 대출 해지가 같은 날에. 그건 롤로프한테 보내는 경고가 아니야. 우리한테 보내는 경고지.
+HELENE: Dann beschützen wir sie. Wie jede Quelle. Katrin fährt morgen zu ihr. Und wir schreiben vorsichtig. Aber wir schreiben.
+> 그럼 그분을 지켜요. 모든 취재원처럼. 카트린이 내일 그분한테 가요. 그리고 조심해서 써요. 근데 써요.
+LEON: Und wie fangen wir an? Das ist so groß. Vierhundert Millionen. Das Sondervermögen. Thal.
+> 그럼 어디서 시작해요? 너무 커요. 4억 유로. 특별기금. 탈.
+JAN: Wir fangen klein an. Mit einer Firma, einer Ausschreibung, elf Zahlen. Große Geschichten baut man aus kleinen Steinen.
+> 작게 시작해. 회사 하나, 입찰 하나, 숫자 열한 개로. 큰 기사는 작은 벽돌로 쌓는 거야.
+HELENE: Und morgen gehen Jan und Mira nach Adlershof. Skyward hat einen Tag der offenen Tür. Wir schauen uns den Kriegshelden an.
+> 그리고 내일 얀이랑 미라가 아들러스호프에 가요. 스카이워드가 오픈데이를 해요. 그 전쟁 영웅을 한번 봐요.
