@@ -1,0 +1,332 @@
+@part 3
+@ep 12
+@title Der Freund im Ministerium
+@sub 국방부 안의 친구 · 1월 초, 세 명의 후보와 왜곡된 신념
+@info 대사 150턴 · 난이도 B2 · 배경: 2028년 1월 초, Spreewerk 편집국, 포츠담 숲가의 벤치(포크트와의 만남)
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast VOIGT | 라이너 포크트 중령 (54) · 국방부 조달 기획국 현역 장교
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast LEON | 레온 피셔 (24) · 기자
+@note ※ 색출 편입니다. 유출자는 돈이 아니라 '관료주의 때문에 장비가 늦으면 병사가 죽는다'는 왜곡된 신념으로 움직였습니다. 악당이 아니라, 잘못된 확신을 가진 사람입니다. 기자는 그를 단죄하지 않고, 그의 동기를 공정하게 전합니다. 등장 인물은 가상입니다.
+@note ※ 표현 초점: Geheimnisverrat · Dienstvergehen · Überzeugung · Motiv · Suspendierung · Kronzeuge · die drei Verdächtigen
+@next 3부 13화 — «Die Akte Voigt»(포크트 파일) — 국방부가 Spreewerk에 비밀문서 유출 혐의로 수사를 요청한다. 기자도 비밀누설 방조가 될 수 있는가. 경찰이 편집국 문 앞에 온다.
+
+# 콜드 오픈 — DREI NAMEN
+HELENE: Bevor wir Voigt treffen: Sind wir sicher, dass er es ist? Es gibt drei Personen im Beschaffungsamt mit Zugang.
+> 포크트를 만나기 전에, 그 사람이 확실해요? 조달청에 접근 권한 가진 사람이 셋이에요.
+MIRA: Drei. Oberstleutnant Voigt. Eine Referatsleiterin, Frau Dr. Henkel. Und ein ziviler Sachbearbeiter, Herr Baumann.
+> 셋이요. 포크트 중령. 과장 헨켈 박사. 그리고 민간 실무자 바우만 씨.
+JAN: Und warum verdächtigen wir Voigt?
+> 그럼 왜 포크트를 의심해?
+MIRA: Nur Voigt hat eine angemeldete Nebentätigkeit. Für die Thal-Tochter. Die anderen zwei haben keine.
+> 포크트만 신고된 겸직이 있어요. 탈 자회사에. 나머지 둘은 없고요.
+SWETA: Das ist ein Indiz, kein Beweis. Vielleicht ist die Nebentätigkeit harmlos. Und der echte Verräter ist einer der anderen zwei.
+> 그건 정황이지 증거가 아니에요. 어쩌면 겸직이 무해하고. 진짜 유출자는 나머지 둘 중 하나일 수도요.
+HELENE: Richtig. Wir verurteilen Voigt nicht, nur weil er eine Nebentätigkeit hat. Wir müssen alle drei prüfen.
+> 맞아요. 포크트가 겸직 있다고 단죄하지 않아요. 셋 다 확인해야 해요.
+JAN: Dann prüfen wir alle drei. Mira, was weißt du über Henkel und Baumann?
+> 그럼 셋 다 확인하자. 미라, 헨켈이랑 바우만에 대해 뭘 알아?
+MIRA: Henkel ist seit zwanzig Jahren im Amt. Unauffällig. Kein Vermögen, keine Verbindungen, die ich finde. Baumann ist jung, neu, schlecht bezahlt.
+> 헨켈은 20년째 청에 있어요. 눈에 안 띄어요. 재산도, 제가 찾을 수 있는 연결 고리도 없어요. 바우만은 젊고, 새로 왔고, 박봉이에요.
+JAN: Schlecht bezahlt und neu. Das ist ein Motiv. Geld.
+> 박봉에 신입. 그건 동기야. 돈.
+SWETA: Und Voigt? Was ist sein Motiv? Er verdient gut. Er ist Offizier. Warum würde er verraten?
+> 그럼 포크트는요? 동기가 뭐예요? 돈 잘 벌어요. 장교고요. 왜 유출하겠어요?
+JAN: Das ist die wichtigste Frage. Ohne Motiv kein Verständnis. Und ohne Verständnis keine faire Geschichte.
+> 그게 제일 중요한 질문이야. 동기 없이는 이해가 없어. 그리고 이해 없이는 공정한 기사가 없고.
+LEON: Darf ich etwas sagen? Ich finde, wir reden zu früh von Voigt. Wir haben die anderen zwei noch gar nicht gehört.
+> 한마디 해도 돼요? 제 생각엔 우리가 너무 일찍 포크트 얘길 해요. 나머지 둘은 아직 들어 보지도 않았는데요.
+JAN: Du hast recht, Leon. Das ist genau der Fehler, den wir nicht machen dürfen. Wir suchen uns nicht den Bequemsten aus.
+> 네 말이 맞아, 레온. 그게 바로 우리가 하면 안 되는 실수야. 제일 편한 사람을 고르는 거.
+SWETA: Der Bequemste ist immer der mit dem Register-Eintrag. Weil wir ihn schon sehen. Die anderen zwei sind unsichtbar.
+> 제일 편한 건 늘 등기에 기록 있는 사람이에요. 벌써 보이니까요. 나머지 둘은 안 보이죠.
+MIRA: Dann mache ich sie sichtbar. Ich prüfe alle drei gleich hart. Keine Bevorzugung. Wer sauber ist, bleibt sauber.
+> 그럼 제가 그들을 보이게 만들게요. 셋 다 똑같이 엄격하게 봐요. 편애 없이. 깨끗한 사람은 깨끗한 채로요.
+HELENE: Gut. Und eine Regel: Niemand außerhalb dieses Raums hört drei Namen. Wir nennen keinen, bevor wir sicher sind. Nicht einen.
+> 좋아요. 그리고 규칙 하나. 이 방 밖의 누구도 세 이름을 듣지 않아요. 확실하기 전엔 아무도 거명 안 해요. 한 사람도.
+LEON: Und wenn wir uns irren? Wenn es am Ende Baumann war und wir haben nur Voigt angeschaut?
+> 그런데 우리가 틀리면요? 끝에 가서 바우만이었는데 우린 포크트만 봤으면요?
+JAN: Dann haben wir versagt. Genau davor habe ich Angst, Leon. Deshalb prüfen wir weiter, auch wenn wir glauben, es schon zu wissen.
+> 그럼 우린 실패한 거야. 바로 그게 내가 무서워하는 거야, 레온. 그래서 이미 안다고 믿어도 계속 확인하는 거고.
+
+# 장면 1 — DIE FALSCHE FÄHRTE
+MIRA: Ich habe eine Falle gebaut. Wie im Bezirksamt damals. Drei leicht verschiedene Informationen. Für drei Verdächtige.
+> 함정을 놨어요. 그때 구청 때처럼. 조금씩 다른 정보 셋. 용의자 셋한테.
+HELENE: Und wie spielst du sie aus, ohne dass es auffällt?
+> 그럼 어떻게 흘리죠, 티 안 나게?
+MIRA: Über die Kleine Anfrage von Lenz. Die Regierung muss antworten. Die Antwort wird intern vorbereitet. Von genau diesen drei Leuten.
+> 렌츠 소질의를 통해서요. 정부가 답해야 해요. 답변은 내부에서 준비돼요. 바로 이 세 사람이.
+JAN: Und du gibst jedem der drei eine andere Nuance. Und schaust, welche bei Thal landet.
+> 그리고 셋한테 각각 다른 뉘앙스를 주고. 어느 게 탈한테 가는지 보고.
+MIRA: So ähnlich. Aber vorsichtiger. Ich kann nicht direkt mit den dreien reden. Ich bin kein Beamter. Ich nutze einen Umweg.
+> 비슷해요. 근데 더 조심히. 전 그 셋이랑 직접 얘기 못 해요. 공무원이 아니니까요. 우회로를 써요.
+SWETA: Welchen Umweg?
+> 어떤 우회로?
+MIRA: Lenz. Ich bitte Lenz, drei leicht verschiedene Nachfragen zu stellen. An drei verschiedene Stellen. Jede Nachfrage enthält ein anderes Detail.
+> 렌츠요. 렌츠한테 조금씩 다른 추가 질의 셋을 내 달라고 부탁해요. 서로 다른 부서에. 추가 질의마다 다른 세부가 들어가요.
+HELENE: Moment. Damit machen wir Lenz zum Werkzeug. Und uns von ihm abhängig.
+> 잠깐. 그럼 렌츠를 도구로 만드는 거예요. 그리고 우리가 그 사람한테 의존하게 되고요.
+JAN: Helene hat recht. Das ist zu nah an Lenz. Und Lenz ist nicht geprüft. Wir dürfen ihn nicht in unsere Falle einweihen.
+> 헬레네 말이 맞아. 그건 렌츠한테 너무 가까워. 그리고 렌츠는 검증 안 됐어. 우리 함정을 그 사람한테 알려선 안 돼.
+MIRA: Dann anders. Ich baue die Falle ohne Lenz. Nur mit öffentlichen Mitteln. Drei verschiedene Fragen über drei verschiedene Kanäle. Presse, Petition, Anwalt.
+> 그럼 다르게요. 렌츠 없이 함정을 놔요. 공개 수단으로만. 세 가지 질문을 세 경로로. 언론, 청원, 변호사.
+KATRIN: Das ist sauberer. Und legal. Jeder darf Fragen stellen. Über jeden Kanal.
+> 그게 더 깨끗해. 그리고 합법이고. 누구나 질문할 수 있어. 어떤 경로로든.
+JAN: Gut. Aber die Falle dauert. Und wir haben wenig Zeit. Die Regierung muss bald antworten.
+> 좋아. 근데 함정은 오래 걸려. 그리고 우린 시간이 없어. 정부가 곧 답해야 해.
+LEON: Und die drei Kanäle? Was war das Detail bei jedem?
+> 그럼 세 경로는요? 각각 세부가 뭐였어요?
+MIRA: Beim ersten eine falsche Stückzahl. Beim zweiten ein falsches Datum. Beim dritten ein Tippfehler im Firmennamen. Jeder Fehler ist ein Fingerabdruck.
+> 첫 번째엔 틀린 수량. 두 번째엔 틀린 날짜. 세 번째엔 회사명의 오타. 오류 하나하나가 지문이에요.
+JAN: Wenn Thal später mit genau diesem Tippfehler argumentiert, wissen wir, aus welchem Kanal es kam.
+> 탈이 나중에 바로 그 오타로 주장하면, 어느 경로에서 나왔는지 알게 되는 거지.
+MIRA: Genau. Aber das ist die langsame Falle. Wochen. Vielleicht Monate.
+> 바로요. 근데 그건 느린 함정이에요. 몇 주. 어쩌면 몇 달.
+SWETA: Und bis dahin wissen wir nicht, ob Voigt wirklich der ist. Wir haben nur sein Register und sein Schweigen.
+> 그때까진 포크트가 진짜 그 사람인지 몰라요. 우린 그 사람 등기랑 침묵만 있고요.
+MIRA: Deshalb habe ich noch etwas versucht. Direkter. Ich habe mit Dana geredet.
+> 그래서 뭘 더 시도했어요. 더 직접적으로. 다나랑 얘기했어요.
+
+# 장면 2 — WAS DANA WEISS
+DANA: Herr Kowalczyk. Currywurst. Donnerstag. Sie wissen.
+> 코발치크 씨. 커리부어스트. 목요일. 아시죠.
+JAN: Ich weiß. Frau Schuster, es geht um einen Offizier. Oberstleutnant Voigt. Beschaffungsamt.
+> 알아요. 슈스터 씨, 한 장교 건이에요. 포크트 중령. 조달청.
+DANA: Voigt. Hm. Der Name ist mir nicht neu.
+> 포크트. 흠. 낯선 이름이 아니네요.
+JAN: Nicht neu? Woher?
+> 낯설지 않다고요? 어디서요?
+DANA: Das sage ich nicht. Aber ich sage: Gegen einen aktiven Offizier ermittelt nicht die normale Polizei. Das macht der MAD. Der Militärische Abschirmdienst.
+> 그건 말 안 해요. 근데 이건 말할게요. 현역 장교는 일반 경찰이 수사 안 해요. MAD가 해요. 군 방첩대.
+JAN: Ermittelt der MAD schon gegen Voigt?
+> MAD가 벌써 포크트를 수사해요?
+DANA: Das sage ich auch nicht. Aber wenn ein Offizier Geheimnisse an einen Berater gibt, ist das Landesverrat-nah. Das nimmt man ernst. Sehr ernst.
+> 그것도 말 안 해요. 근데 장교가 비밀을 자문가한테 주면 그건 국가 반역에 가까워요. 심각하게 봐요. 아주 심각하게.
+JAN: Wenn der MAD schon ermittelt, dann sind wir nicht die Einzigen, die Voigt im Blick haben.
+> MAD가 벌써 수사하면 포크트를 주시하는 게 우리뿐이 아니네요.
+DANA: Das haben Sie gesagt. Nicht ich. Und, Herr Kowalczyk: Wenn Sie Voigt treffen, seien Sie vorsichtig. Vielleicht wird er beobachtet. Dann werden Sie es auch.
+> 그건 당신이 말한 거예요. 제가 아니라. 그리고 코발치크 씨, 포크트를 만나면 조심하세요. 어쩌면 그 사람이 감시당할 거예요. 그럼 당신도요.
+JAN: Beobachtet vom MAD.
+> MAD한테 감시당한다고요.
+DANA: Oder von denen, die ihn fallen lassen wollen. Ein fallender Mann hat viele, die zusehen. Keiner hilft. Alle warten.
+> 아니면 그를 버리려는 사람들한테요. 떨어지는 사람은 지켜보는 자가 많아요. 아무도 안 돕고. 다들 기다리죠.
+JAN: Danke, Frau Schuster.
+> 고마워요, 슈스터 씨.
+DANA: Wir haben nicht geredet. Und, Herr Kowalczyk: Treffen Sie ihn draußen. Nie drinnen. Draußen kann man sehen, wer zuhört.
+> 우린 얘기 안 했어요. 그리고 코발치크 씨, 그 사람을 밖에서 만나세요. 절대 안에서 말고. 밖에선 누가 듣는지 볼 수 있어요.
+
+# 장면 3 — VOIGT ANTWORTET
+MIRA: Jan. Voigt hat geantwortet. Auf deinen Brief. Über Weihnachten hat er nachgedacht.
+> 얀. 포크트가 답했어요. 당신 편지에. 크리스마스 동안 생각했대요.
+JAN: Was schreibt er?
+> 뭐라고 썼어?
+MIRA: Kurz. «Ich treffe Sie. Einmal. Draußen. Ohne Aufnahme. Und ohne Zeugen. Sie allein.»
+> 짧게요. «만나겠다. 한 번. 밖에서. 녹음 없이. 그리고 증인 없이. 당신 혼자.»
+HELENE: Du allein. Draußen. Mit einem Offizier, der vielleicht vom MAD beobachtet wird. Das ist gefährlich.
+> 혼자. 밖에서. 어쩌면 MAD한테 감시당하는 장교랑. 그건 위험해요.
+JAN: Ich weiß. Aber es ist seine Bedingung. Und er ist die Quelle, die alles erklären kann. Das Motiv. Die Methode.
+> 알아요. 근데 그 사람 조건이에요. 그리고 모든 걸 설명할 수 있는 취재원이에요. 동기. 방법.
+KATRIN: Keine Aufnahme ist gut. Dann gibt es kein Problem mit Paragraf 201. Aber mach dir sofort ein Gedächtnisprotokoll. Danach. Jedes Wort.
+> 녹음 없음은 좋아. 그럼 201조 문제가 없어. 근데 바로 기억 기록을 써. 끝나고. 한 마디도 빠짐없이.
+SWETA: Und wo trefft ihr euch?
+> 그럼 어디서 만나?
+MIRA: Er schlägt eine Bank vor. Am Waldrand bei Potsdam. Mittags. Offenes Feld. Man sieht jeden, der kommt.
+> 벤치를 제안해요. 포츠담 숲가에. 정오에. 트인 들판. 오는 사람을 다 볼 수 있어요.
+JAN: Ein offenes Feld. Das ist klug. Er hat Angst vor dem Belauschtwerden. Genau wie wir.
+> 트인 들판. 영리하네. 그 사람도 도청을 무서워해. 우리처럼.
+HELENE: Und ich will, dass Mira in der Nähe ist. Im Auto. Zu weit, um zu hören. Nah genug, um zu sehen.
+> 그리고 미라가 근처에 있었으면 해요. 차에. 들릴 만큼 가깝진 않게. 볼 수 있을 만큼 가깝게.
+JAN: Einverstanden. Mira sieht, ich rede. Und wenn etwas Seltsames passiert, ruft sie an.
+> 동의해요. 미라가 보고, 내가 얘기하고. 뭔가 이상한 일이 생기면 미라가 전화하고.
+
+# 장면 4 — DIE BANK AM WALDRAND
+VOIGT: Herr Kowalczyk. Setzen Sie sich. Nicht zu nah. Zwei Meter. Man weiß nie.
+> 코발치크 씨. 앉으세요. 너무 가깝진 않게. 2미터. 모르는 일이니까.
+JAN: Herr Oberstleutnant. Danke, dass Sie gekommen sind.
+> 중령님. 와 주셔서 감사합니다.
+VOIGT: Nennen Sie mich nicht Oberstleutnant. Nicht mehr lange. Ich weiß, warum Sie hier sind. Die Kleine Anfrage. Die Nebentätigkeit. Sie haben alles.
+> 중령이라고 부르지 마세요. 오래 안 남았으니까. 왜 오셨는지 알아요. 소질의. 겸직. 전부 갖고 계시죠.
+JAN: Ich habe eine Nebentätigkeit, die im Register steht. Mehr nicht. Ich bin hier, um Sie zu fragen. Nicht um Sie zu verurteilen.
+> 전 등기에 있는 겸직만 갖고 있어요. 그 이상은 아니고요. 전 당신한테 물으러 왔어요. 당신을 단죄하러가 아니라.
+VOIGT: Alle anderen verurteilen mich schon. Ohne zu fragen. Sie sind der Erste, der fragt.
+> 다른 모두는 벌써 절 단죄해요. 묻지도 않고. 당신이 묻는 첫 사람이에요.
+JAN: Dann fragen wir. Haben Sie Spezifikationen aus der internen Prioritätenliste weitergegeben? An Thal und Partner?
+> 그럼 물을게요. 내부 우선순위 목록의 사양을 넘기셨어요? 탈 & 파트너한테?
+VOIGT: Ja.
+> 네.
+JAN: Einfach so? Ja?
+> 그냥요? 네?
+VOIGT: Warum soll ich lügen? Sie wissen es ohnehin. Und ich bin es leid zu lügen. Seit zwei Jahren lüge ich. Das ist genug.
+> 왜 거짓말해요? 어차피 아시잖아요. 그리고 거짓말에 지쳤어요. 2년째 거짓말해요. 충분해요.
+JAN: Warum haben Sie es getan? Geld?
+> 왜 하셨어요? 돈?
+VOIGT: Geld? Nein. Ich habe keinen Cent genommen. Keinen einzigen. Suchen Sie meine Konten. Da ist nichts.
+> 돈이요? 아니요. 한 푼도 안 받았어요. 단 한 푼도. 제 계좌를 뒤져 보세요. 아무것도 없어요.
+JAN: Kein Geld. Dann warum?
+> 돈이 아니라. 그럼 왜요?
+
+# 장면 5 — DAS MOTIV
+VOIGT: Waren Sie je im Einsatz, Herr Kowalczyk? Haben Sie je gewartet? Auf Material, das nicht kommt?
+> 작전에 나가 본 적 있어요, 코발치크 씨? 기다려 본 적 있어요? 오지 않는 장비를?
+JAN: Nein. Ich bin Journalist. Ich habe nur darüber geschrieben.
+> 아니요. 전 기자예요. 그에 대해 쓰기만 했어요.
+VOIGT: Dann erkläre ich es Ihnen. Unsere Beschaffung dauert Jahre. Fünf, sieben, zehn Jahre für ein System. Und währenddessen sterben Menschen. In der Ukraine. Vielleicht bald bei uns.
+> 그럼 설명해 드릴게요. 우리 조달은 몇 년씩 걸려요. 시스템 하나에 5년, 7년, 10년. 그동안 사람들이 죽어요. 우크라이나에서. 어쩌면 곧 우리한테서.
+VOIGT: Ich habe junge Leute ausgebildet. Dreißig Jahre lang. Und ich habe sie in Einsätze geschickt mit Gerät, das zehn Jahre alt war. Weil das neue im Verfahren feststeckte.
+> 전 젊은이들을 훈련시켰어요. 30년 동안. 그리고 10년 된 장비로 그들을 작전에 보냈어요. 새 장비가 절차에 막혀 있어서요.
+JAN: Das ist bitter. Aber es ist noch kein Grund, ein Geheimnis zu verraten.
+> 쓰라린 일이네요. 근데 아직 비밀을 누설할 이유는 아니에요.
+VOIGT: Für Sie nicht. Für mich war es irgendwann der einzige Grund. Ich dachte: Wenn das Verfahren tötet, dann ist das Verfahren der Feind.
+> 당신한테는요. 저한텐 언젠가부터 그게 유일한 이유였어요. 전 생각했죠. 절차가 죽인다면, 절차가 적이라고.
+JAN: Das Verfahren ist aber auch das, was uns vor Korruption schützt. Dasselbe Verfahren.
+> 근데 그 절차가 우리를 부패에서 지켜 주는 것이기도 해요. 같은 절차가요.
+VOIGT: Das sehe ich jetzt. Damals habe ich nur die Toten gesehen, nicht den Schutz. Man zeigt einem die eine Seite, bis man die andere vergisst.
+> 그걸 이제 봐요. 그땐 죽은 자들만 봤지 보호는 못 봤어요. 한쪽만 보여 주면 다른 쪽을 잊게 돼요.
+JAN: Wer hat Ihnen diese eine Seite gezeigt?
+> 누가 그 한쪽을 보여 줬어요?
+VOIGT: Sandmann. Immer wieder. Er kannte Namen von Gefallenen. Er brachte sie ins Gespräch. Jedes Mal. Bis ich nur noch an sie dachte.
+> 잔트만이요. 거듭거듭. 그 사람은 전사자들 이름을 알았어요. 대화에 꺼냈죠. 매번. 제가 그들만 생각할 때까지요.
+JAN: Er hat Ihre Trauer benutzt.
+> 그 사람이 당신의 슬픔을 이용했군요.
+VOIGT: Ja. Und das Schlimmste ist: Es hat sich richtig angefühlt. Verrat fühlt sich nie wie Verrat an. Er fühlt sich wie Pflicht an.
+> 네. 그리고 최악은, 그게 옳게 느껴졌다는 거예요. 배신은 결코 배신처럼 느껴지지 않아요. 의무처럼 느껴지죠.
+JAN: Und Sie wollten es beschleunigen.
+> 그래서 앞당기고 싶으셨군요.
+VOIGT: Ich wollte, dass die beste Technik schnell kommt. Skyward hatte die beste Drohnenabwehr. Ich habe gesehen, was sie kann. In Tests.
+> 최고의 기술이 빨리 오길 바랐어요. 스카이워드가 최고의 드론 방어를 갖고 있었어요. 전 그게 뭘 할 수 있는지 봤어요. 시험에서.
+JAN: Aber Sie haben die Ausschreibung auf Skyward zugeschnitten. Andere Firmen hatten keine Chance.
+> 근데 입찰을 스카이워드에 맞춰 재단하셨잖아요. 다른 회사들은 기회가 없었고요.
+VOIGT: Die anderen waren langsamer. Schwächer. Ich habe das Verfahren beschleunigt, indem ich den Besten geholfen habe. Für die Soldaten.
+> 다른 데는 더 느리고 약했어요. 전 최고를 도와서 절차를 앞당긴 거예요. 병사들을 위해.
+JAN: Woher wissen Sie, dass Skyward der Beste ist? Skywards Drohnen sind importiert. Mit «Made in Germany» überklebt.
+> 스카이워드가 최고인 걸 어떻게 아세요? 스카이워드 드론은 수입품이에요. «메이드 인 저머니»로 덮어 붙인.
+VOIGT: Was?
+> 뭐라고요?
+JAN: Die erste Lieferung. Zwanzig Drohnen. Alle importiert. Alle überklebt. Ich habe Beweise.
+> 첫 납품. 드론 스무 대. 전부 수입. 전부 덮어 붙였어요. 증거가 있어요.
+VOIGT: Das… das wusste ich nicht. Mir hat man gesagt, die Entwicklung sei deutsch. Ich habe das geglaubt.
+> 그건… 그건 몰랐어요. 개발이 독일이라고 들었어요. 그걸 믿었죠.
+JAN: Darf ich Ihnen ein Foto zeigen? Nicht als Beweis gegen Sie. Nur, damit Sie es sehen.
+> 사진 하나 보여 드려도 돼요? 당신에 대한 증거로가 아니라. 그냥 보시라고요.
+VOIGT: Zeigen Sie.
+> 보여 주세요.
+JAN: Das ist ein Typenschild. «Entwickelt und gefertigt in Deutschland.» Darunter, abgekratzt, ein anderer Schriftzug. Eine andere Sprache.
+> 이건 명판이에요. «독일에서 개발·제조.» 그 밑에, 긁어낸, 다른 글자. 다른 언어요.
+VOIGT: Das ist dieselbe Drohne, die ich im Test gesehen habe. Dieselbe Seriennummer-Form. Mein Gott.
+> 이건 제가 시험에서 본 바로 그 드론이에요. 같은 일련번호 형식. 세상에.
+JAN: Sie haben eine echte Drohne getestet. Aber vielleicht die einzige echte. Der Rest kam aus einem Container.
+> 당신은 진짜 드론을 시험했어요. 근데 어쩌면 유일한 진짜였고요. 나머지는 컨테이너에서 왔어요.
+VOIGT: Ein Vorführgerät. Natürlich. Man zeigt dir das eine gute Stück. Und liefert dann zwanzig schlechte.
+> 시연용 한 대. 당연하죠. 좋은 한 대만 보여 주고. 그다음 나쁜 스무 대를 납품하고요.
+JAN: So funktioniert es oft. Bei Autos. Bei Waffen. Bei allem.
+> 흔히 그래요. 자동차에서. 무기에서. 뭐든지요.
+VOIGT: Und ich, der alte Offizier, bin darauf hereingefallen wie ein Rekrut am ersten Tag.
+> 그리고 늙은 장교인 제가, 첫날 신병처럼 거기 넘어갔네요.
+
+# 장면 6 — DER GETÄUSCHTE TÄTER
+VOIGT: Wenn das stimmt, dann war alles umsonst. Dann habe ich meine Ehre für eine Lüge verkauft.
+> 그게 사실이면 다 헛된 거예요. 그럼 전 제 명예를 거짓말에 판 거예요.
+JAN: Herr Voigt, Sie haben ein Geheimnis verraten. Das ist strafbar. Aber Sie wurden auch getäuscht. Über das, wofür.
+> 포크트 씨, 비밀을 누설하셨어요. 그건 처벌받아요. 근데 당신도 속았어요. 무엇을 위한 건지에 대해.
+VOIGT: Getäuscht. Ja. Ich dachte, ich helfe. Und ich habe nur geholfen, dass jemand reich wird. Mit importierten Drohnen. Die vielleicht nicht funktionieren.
+> 속았죠. 네. 전 돕는 줄 알았어요. 그런데 누가 부자 되는 걸 도왔을 뿐이에요. 수입 드론으로. 어쩌면 작동도 안 할.
+JAN: Wer hat Sie getäuscht? Wer hat Ihnen gesagt, es sei deutsche Entwicklung?
+> 누가 속였어요? 누가 독일 개발이라고 했어요?
+VOIGT: Mein Kontakt bei Thal und Partner. Der Berater, der mich angeworben hat. Nicht mit Geld. Mit Überzeugung. «Für die Truppe», hat er gesagt.
+> 탈 & 파트너의 제 연락책이요. 저를 포섭한 자문가. 돈으로가 아니라. 신념으로. «부대를 위해»라고 했어요.
+JAN: Wie hieß er?
+> 이름이 뭐였어요?
+VOIGT: Zuerst ein Jüngerer. Kasper. Dann ein Älterer. Sandmann. Sandmann hat mir die Prioritätenliste abgenommen. Blatt für Blatt.
+> 처음엔 젊은 사람. 카스퍼. 그다음에 나이 든 사람. 잔트만. 잔트만이 우선순위 목록을 받아 갔어요. 한 장 한 장.
+JAN: Sandmann. Gregor Sandmann.
+> 잔트만. 그레고어 잔트만.
+VOIGT: Sie kennen ihn. Dann wissen Sie, wie er arbeitet. Er findet Menschen mit einer Überzeugung. Und dreht die Überzeugung gegen sie.
+> 그를 아시네요. 그럼 그가 어떻게 일하는지 아시겠죠. 신념을 가진 사람을 찾아요. 그리고 그 신념을 그 사람한테 거꾸로 써요.
+JAN: Es gibt ein Gesetz. Für Hinweisgeber. Wer früh aussagt und mithilft, kann als Kronzeuge milder behandelt werden. Sie wären nicht der Erste.
+> 법이 있어요. 제보자를 위한. 일찍 증언하고 돕는 사람은 주요 증인으로서 더 가볍게 다뤄질 수 있어요. 당신이 처음은 아닐 거예요.
+VOIGT: Kronzeuge. Ein hässliches Wort. Es klingt, als würde ich andere verkaufen, um mich zu retten.
+> 주요 증인. 추한 말이네요. 절 구하려고 남들을 파는 것처럼 들려요.
+JAN: Oder es klingt, als würden Sie das Netz offenlegen, in dem Sie selbst gefangen waren. Das ist ein Unterschied.
+> 아니면 당신 자신이 걸려 있던 그물을 드러내는 것처럼 들리죠. 그건 차이가 있어요.
+VOIGT: Ein feiner Unterschied. Und mein Name? Wenn Sie schreiben, bin ich erledigt. Pension weg. Ehre weg. Meine Frau muss es in der Zeitung lesen.
+> 미묘한 차이네요. 그리고 제 이름은요? 쓰시면 전 끝장이에요. 연금도 날아가고. 명예도 날아가고. 아내가 신문에서 읽어야 하고요.
+JAN: Ich schreibe nichts über Sie ohne Vorwarnung. Sie bekommen die Konfrontation. Jede Behauptung, bevor sie gedruckt wird. Das verspreche ich.
+> 전 예고 없이 당신에 대해 아무것도 안 써요. 당신은 반론 기회를 받아요. 모든 주장을, 인쇄 전에요. 약속해요.
+VOIGT: Und wenn ich schweige? Wenn ich einfach nichts mehr sage?
+> 제가 침묵하면요? 그냥 더는 아무 말도 안 하면요?
+JAN: Dann schreibe ich, was ich belegen kann, und zitiere Sie mit «wollte sich nicht äußern». Fair, aber ohne Ihre Seite.
+> 그럼 제가 입증할 수 있는 걸 쓰고, 당신을 «대답을 원치 않았다»로 인용하죠. 공정하지만 당신 쪽 얘기는 없이요.
+VOIGT: Dann wäre ich nur der Verräter. Nicht der Getäuschte.
+> 그럼 전 그냥 배신자일 뿐이겠네요. 속은 사람이 아니라.
+JAN: Richtig. Ihre Version existiert nur, wenn Sie sie erzählen. Das ist der ganze Unterschied, Herr Voigt.
+> 맞아요. 당신 버전은 당신이 얘기해야만 존재해요. 그게 전부의 차이예요, 포크트 씨.
+JAN: Würden Sie das wiederholen? Offiziell? Mit Namen?
+> 그걸 반복하시겠어요? 공식적으로? 실명으로?
+VOIGT: Ich überlege es. Aber nicht heute. Heute wollte ich nur einem Menschen die Wahrheit sagen. Bevor alle anderen ihre Version erzählen.
+> 생각해 볼게요. 근데 오늘은 아니에요. 오늘은 그냥 한 사람한테 진실을 말하고 싶었어요. 다른 모두가 자기 버전을 말하기 전에.
+VOIGT: Geben Sie mir Zeit bis Ende der Woche. Freitag. Dann sage ich Ihnen, ob ich aussage.
+> 주말까지 시간을 주세요. 금요일. 그때 증언할지 말씀드릴게요.
+
+# 엔딩 — DER MANN AUF DER ANDEREN BANK
+MIRA: Jan. Komm ins Auto. Schnell. Nicht rennen. Normal gehen.
+> 얀. 차로 와요. 빨리. 뛰지 말고. 평소처럼 걸어요.
+JAN: Was ist los?
+> 무슨 일이야?
+MIRA: Auf der Bank hundert Meter weiter sitzt ein Mann. Seit du da warst. Er liest eine Zeitung. Dieselbe Seite. Seit vierzig Minuten.
+> 백 미터쯤 떨어진 벤치에 남자가 앉아 있어요. 당신이 거기 있는 동안 내내. 신문을 읽어요. 같은 면을. 40분째.
+JAN: Dieselbe Seite seit vierzig Minuten. Das ist kein Leser.
+> 40분째 같은 면. 그건 독자가 아니야.
+MIRA: Und er hat kein einziges Mal umgeblättert. Aber dreimal zu euch geschaut. Und einmal fotografiert. Mit dem Handy.
+> 그리고 한 번도 안 넘겼어요. 근데 세 번 당신들 쪽을 봤어요. 그리고 한 번 찍었어요. 휴대폰으로.
+JAN: Fotografiert. Voigt und mich. Zusammen. Auf einer Bank.
+> 찍었어. 포크트랑 날. 같이. 벤치에서.
+MIRA: Ist das der MAD? Der Voigt beobachtet?
+> MAD예요? 포크트를 감시하는?
+JAN: Vielleicht. Oder jemand von Thal, der sieht, mit wem Voigt redet. In beiden Fällen: Jetzt wissen sie, dass Voigt mit uns gesprochen hat.
+> 어쩌면. 아니면 포크트가 누구랑 얘기하는지 보는 탈 쪽 사람이거나. 둘 다, 이제 그들은 포크트가 우리랑 얘기한 걸 알아.
+MIRA: Dann ist Voigt in Gefahr. Und du auch.
+> 그럼 포크트가 위험해요. 그리고 당신도요.
+MIRA: Soll ich das Foto von dem Mann an Dana schicken?
+> 그 남자 사진을 다나한테 보낼까요?
+JAN: Ja. Aber ohne Erklärung. Nur das Bild. Lass sie entscheiden, ob sie es kennt.
+> 응. 근데 설명 없이. 사진만. 그 사람이 아는 얼굴인지 다나가 판단하게 둬.
+MIRA: Gesendet. Sie schreibt sofort zurück. Drei Worte.
+> 보냈어요. 바로 답이 와요. 세 단어.
+JAN: Welche drei Worte?
+> 어떤 세 단어?
+MIRA: «Kenne ich. Vorsicht.» Mehr nicht.
+> «아는 사람. 조심.» 그게 다예요.
+JAN: Dana kennt den Mann auf der Bank. Dann ist er kein Zufall und kein harmloser Spaziergänger.
+> 다나가 벤치의 그 남자를 알아. 그럼 우연도 아니고 무해한 산책자도 아니야.
+MIRA: Und dein Gedächtnisprotokoll? Katrin hat gesagt, sofort.
+> 그럼 당신 기억 기록은요? 카트린이 바로 하랬어요.
+JAN: Ich diktiere es jetzt. Im Auto. Solange jedes Wort frisch ist. Du schreibst mit.
+> 지금 받아 적게 할게. 차에서. 모든 단어가 생생한 동안. 네가 받아 적어.
+MIRA: Bereit. Fang an.
+> 준비됐어요. 시작해요.
+JAN: Zwölf Uhr vierzehn. Bank am Waldrand. Voigt bestätigt: Spezifikationen an Thal weitergegeben. Kein Geld genommen. Motiv: Überzeugung.
+> 12시 14분. 숲가 벤치. 포크트 확인. 사양을 탈에 넘김. 돈은 안 받음. 동기: 신념.
+MIRA: Weiter.
+> 계속요.
+JAN: Anwerber: Kasper, dann Sandmann. Sandmann nutzte Namen von Gefallenen. Voigt glaubte an deutsche Entwicklung. War getäuscht.
+> 포섭자: 카스퍼, 이후 잔트만. 잔트만은 전사자 이름을 이용. 포크트는 독일 개발이라 믿음. 속았음.
+MIRA: Und die Bedingung?
+> 그리고 조건은요?
+JAN: Voigt entscheidet bis Freitag, ob er offiziell aussagt. Bis dahin: kein Name in keinem Text. Punkt.
+> 포크트는 금요일까지 공식 증언 여부를 결정. 그때까지 어떤 기사에도 이름 없음. 끝.
+HELENE: Jan. Ich habe mitgehört, über die Freisprechanlage. Ihr kommt sofort her. Und Katrin ist schon unterwegs ins Büro.
+> 얀. 스피커폰으로 다 들었어요. 당장 이리 와요. 그리고 카트린은 벌써 사무실로 오는 중이에요.
+JAN: Warum Katrin? Was ist passiert?
+> 왜 카트린이요? 무슨 일 있어요?
+HELENE: Ein Brief. Per Boten. Vom Verteidigungsministerium. Adressiert an die Redaktion. Ich habe ihn noch nicht geöffnet.
+> 편지예요. 인편으로. 국방부에서. 편집국 앞으로. 아직 안 열었어요.
+JAN: Ein Brief vom Ministerium. Am selben Tag, an dem ich Voigt treffe. Das ist kein Zufall.
+> 같은 날 국방부 편지. 내가 포크트를 만나는 바로 그날. 우연이 아니야.
+HELENE: Nein. Und darum öffne ich ihn nicht allein. Kommt her. Wir machen ihn zusammen auf. Mit der Anwältin daneben.
+> 아니죠. 그래서 혼자 안 열어요. 와요. 다 같이 열어요. 변호사를 옆에 두고.
+JAN: Ruf Katrin an. Und Dana. Voigt hat gerade, ohne es zu wissen, alles riskiert. Für die Wahrheit. Wir müssen ihn schützen.
+> 카트린한테 전화해. 그리고 다나한테도. 포크트는 방금, 자기도 모르게, 전부를 걸었어. 진실을 위해. 우리가 그를 지켜야 해.
