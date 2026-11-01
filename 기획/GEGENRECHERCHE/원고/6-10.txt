@@ -1,0 +1,355 @@
+@part 6
+@ep 10
+@title Leipzig
+@sub 라이프치히 · 방청석에서 들은 같은 목소리
+@info 대사 150턴 · 난이도 C1− · 배경: 2028년 10월, 라이프치히 고등법원 법정·복도·카페, 귀경 열차, Spreewerk 편집국
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast LEON | 레온 피셔 (24) · 기자
+@cast VORSITZENDE | 재판장 (56) · 라이프치히 고등법원 국가보안 형사부
+@cast ANGEKLAGTER | 피고인 막심 (23) · 공항 드론 사건 피고인
+@cast KRANICH | 우테 크라니히 (55) · 라이프치히 지역 법정 기자
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@cast KEVIN | 케빈 (19) · 토비의 조카 (베를린 사투리)
+@cast KURATOR | 큐레이터 · 채널 관리자 (텔레그램 메시지)
+@note ※ 스베타와 미라가 공항 드론 사건의 공개 공판을 방청한다. 증거로 제시된 지시 메시지의 문체와 결제 패턴이 베를린 채널의 큐레이터와 같다. 연방검찰은 얀에게 채널과의 연락을 '계속해 달라'고 부탁하고 싶어 하지만, 그건 언론을 도구로 쓰는 일이 된다. 공판·인물은 극 중 가상이며, 실제 사건은 배경으로만 쓴다.
+@note ※ 표현 초점: der Sprengstoff · die Anklage · das Muster · das Täterprofil · die Hauptverhandlung · die Instrumentalisierung
+@next 6부 11화 — «Das Paket»(소포) — 소포 안에는 발화 장치가 들어 있을 수 있다. 통제된 전달 작전. 기자인가, 정보원인가.
+
+# 콜드 오픈 — SAAL ZWEI
+KRANICH: Sie sind von Spreewerk? Aus Berlin? Setzen Sie sich neben mich. Ute Kranich, ich mache seit dreißig Jahren Gericht hier. Wer hier sitzt, ist entweder Familie oder Presse. Sie sehen nicht aus wie Familie.
+> Spreewerk에서 오셨어요? 베를린에서? 제 옆에 앉으세요. 우테 크라니히, 여기서 30년째 법정 취재해요. 여기 앉는 사람은 가족 아니면 언론이에요. 가족처럼 안 보이시네요.
+SWETA: Sweta Morosowa. Und das ist Mira Aydın. Wir hören nur zu.
+> 스베타 모로소바. 그리고 이쪽은 미라 아이든. 듣기만 할 거예요.
+KRANICH: Das tun alle am Anfang. Heute ist der vierzehnte Verhandlungstag. Heute werden die Chats verlesen. Die Nachrichten, die der Angeklagte bekommen hat.
+> 처음엔 다들 그래요. 오늘이 14번째 공판일이에요. 오늘 대화 내용이 낭독돼요. 피고인이 받은 메시지들.
+MIRA: Öffentlich?
+> 공개로요?
+KRANICH: Öffentlich. Alles, was in der Hauptverhandlung verlesen wird, ist öffentlich. Das ist der Rechtsstaat. Schreiben Sie mit, so viel Sie wollen. Nur keine Fotos, keine Aufnahmen.
+> 공개로요. 공판에서 낭독되는 건 다 공개예요. 그게 법치국가죠. 원하는 만큼 받아 적으세요. 사진이랑 녹음만 안 돼요.
+VORSITZENDE: Bitte erheben Sie sich. … Setzen Sie sich. Wir setzen die Hauptverhandlung fort. Die Vertreterin der Bundesanwaltschaft verliest die sichergestellten Nachrichten.
+> 모두 일어서 주십시오. … 앉으십시오. 공판을 속행합니다. 연방검찰 측이 압수된 메시지를 낭독합니다.
+ANGEKLAGTER: …
+> …
+SWETA: Er ist dreiundzwanzig. Er sieht aus wie siebzehn.
+> 스물셋이래요. 열일곱처럼 보여요.
+KRANICH: Maxim. Aus Halle. Spätaussiedler, mit zehn nach Deutschland gekommen. Abgebrochene Lehre. Spielschulden. Er hat eine Drohne mit Sprengstoff über den Zaun des Flughafens fliegen lassen. Sie ist auf einem Parkplatz explodiert. Niemand wurde verletzt. Das war Glück.
+> 막심. 할레 출신. 후기 귀환 이주민, 열 살에 독일 왔어요. 직업 교육 중퇴. 도박 빚. 폭발물 실은 드론을 공항 울타리 너머로 날렸어요. 주차장에서 터졌죠. 아무도 안 다쳤어요. 운이었죠.
+
+# 장면 1 — DIE VERLESUNG
+VORSITZENDE: Nachricht vom zwölften März. Absender: ein Konto mit dem Namen «Kurator». Ich zitiere: «Werter Freund. Sie haben gute Arbeit geleistet. Ein neuer Auftrag. Etwas anspruchsvoller. Und deutlich besser bezahlt.»
+> 3월 12일 메시지. 발신: «큐레이터»라는 이름의 계정. 인용합니다. «친애하는 벗이여. 훌륭히 일하셨습니다. 새 과제. 조금 더 까다롭고. 보수는 훨씬 좋습니다.»
+MIRA: … Das ist derselbe Satz. Wörtlich. Den hat Janek vor zwei Wochen bekommen.
+> … 같은 문장이에요. 그대로. 야넥이 2주 전에 받은.
+SWETA: Schreib mit. Jedes Wort. Und zeig keine Reaktion.
+> 받아 적어. 한 글자도 빠짐없이. 그리고 반응 보이지 마.
+VORSITZENDE: Nachricht vom neunzehnten März: «Verzeihen Sie die Verzögerung. Wir prüfen jede Lieferung sorgfältig.»
+> 3월 19일 메시지. «늦어서 죄송합니다(Verzeihen Sie). 우리는 모든 배송을 신중히 검토합니다.»
+SWETA: «Verzeihen Sie.» Nicht «Entschuldigung».
+> «Verzeihen Sie.» «Entschuldigung»이 아니라.
+VORSITZENDE: Nachricht vom zweiten April: «Männer mit Grenzen sind berechenbar. Sie haben uns Ihre Grenze gezeigt. Das schätzen wir.»
+> 4월 2일 메시지. «한계가 있는 남자는 예측 가능합니다. 당신의 한계를 보여 주셨죠. 그 점을 높이 삽니다.»
+MIRA: Auch das. Wörtlich. Das hat er Janek nach Bondar geschrieben.
+> 그것도. 그대로. 본다르 건 뒤에 야넥한테 쓴 거예요.
+VORSITZENDE: Herr Angeklagter, was war Ihre Grenze?
+> 피고인, 당신의 한계는 무엇이었습니까?
+ANGEKLAGTER: Ich habe gesagt, ich fahre nicht mit Sprengstoff im Auto. Ich habe gesagt, ich mache nur Fotos. Und dann haben sie gesagt: Gut, keine Fahrt. Nur eine Drohne. Aus der Ferne. Niemand sieht dich.
+> 차에 폭발물 싣고는 안 간다고 했어요. 사진만 찍겠다고 했어요. 그랬더니 그러더라고요. 좋다, 운전은 없다. 드론만. 멀리서. 아무도 너를 못 본다.
+VORSITZENDE: Und das war für Sie keine Grenze mehr?
+> 그건 당신에게 더 이상 한계가 아니었습니까?
+ANGEKLAGTER: Sie haben die Grenze verschoben. Ein bisschen. Immer ein bisschen. Und jedes Mal habe ich gedacht: Das ist ja fast dasselbe wie vorher.
+> 그들이 한계를 옮겼어요. 조금씩. 늘 조금씩. 그리고 매번 생각했어요. 이건 전이랑 거의 똑같잖아.
+
+# 장면 1-2 — «BRUDER»
+VORSITZENDE: Herr Angeklagter, Sie haben ausgesagt, Sie seien über eine Gruppe in einem Messenger in Kontakt gekommen. Beschreiben Sie diese Gruppe.
+> 피고인, 메신저의 한 모임을 통해 연락이 닿았다고 진술했습니다. 그 모임을 묘사해 보십시오.
+ANGEKLAGTER: Eine Gruppe für Russlanddeutsche. Für Leute wie mich. Die hier nicht richtig ankommen. Da haben sie Witze gemacht, Rezepte geteilt, Jobs. Alle haben sich «Bruder» genannt.
+> 러시아계 독일인 모임이요. 저 같은 사람들. 여기서 제대로 자리 못 잡는. 거기서 농담하고, 요리법 나누고, 일자리도. 다들 서로 «형제»라고 불렀어요.
+VORSITZENDE: Und wer hat Ihnen den ersten Auftrag gegeben?
+> 그럼 누가 첫 과제를 줬습니까?
+ANGEKLAGTER: Niemand aus der Gruppe direkt. Jemand hat einen Link geteilt. «Für Brüder, die Geld brauchen.» Dann kam der Kurator.
+> 모임 사람이 직접 준 건 아니에요. 누가 링크를 공유했어요. «돈이 필요한 형제들을 위해.» 그다음 큐레이터가 왔어요.
+VORSITZENDE: Haben Sie den Kurator jemals gesehen? Gehört?
+> 큐레이터를 본 적 있습니까? 목소리를 들은 적은?
+ANGEKLAGTER: Nie. Nur gelesen. Er hat sehr schön geschrieben. Wie ein Lehrer. Ich hatte nie einen Lehrer, der so mit mir geredet hat.
+> 한 번도요. 읽기만 했어요. 아주 멋지게 썼어요. 선생님처럼. 저한테 그렇게 말해 준 선생님은 없었어요.
+VORSITZENDE: Was meinen Sie damit?
+> 무슨 뜻입니까?
+ANGEKLAGTER: Respektvoll. «Werter Freund.» In der Schule hat man mich «der Russe» genannt. In der Lehre «der Faule». Der Kurator hat mich «werter Freund» genannt.
+> 존중하며. «친애하는 벗이여.» 학교에선 절 «러시아 놈»이라고 불렀어요. 직업 교육에선 «게으름뱅이». 큐레이터는 절 «친애하는 벗»이라고 불렀어요.
+KRANICH: Das ist der Satz. Den schreibe ich. Morgen, Seite drei.
+> 그게 그 문장이에요. 그거 쓸 거예요. 내일, 3면.
+SWETA: Und das ist die Methode. Man gibt den Menschen das Wort, das ihnen alle anderen verweigert haben.
+> 그리고 그게 방법이에요. 다른 모두가 거부한 말을 사람들한테 주는 거죠.
+VORSITZENDE: Danke, Herr Angeklagter. Wir unterbrechen für zwanzig Minuten.
+> 감사합니다, 피고인. 20분 휴정합니다.
+
+# 장면 2 — IN DER PAUSE
+KRANICH: Sie sind blass geworden. Bei «Werter Freund». Beide.
+> 창백해지셨네요. «친애하는 벗이여»에서. 둘 다.
+SWETA: Es ist ein ungewöhnlicher Ausdruck.
+> 흔치 않은 표현이잖아요.
+KRANICH: Ich mache das dreißig Jahre. Ich weiß, wann jemand im Saal etwas wiedererkennt. Sie kennen diese Sätze.
+> 30년째 이 일 해요. 법정에서 누가 뭘 알아볼 때 알아요. 이 문장들 아시죠.
+MIRA: Frau Kranich, wir können nicht darüber reden.
+> 크라니히 씨, 그 얘긴 못 해요.
+KRANICH: Müssen Sie nicht. Ich schreibe für eine Lokalzeitung. Ich schreibe über Maxim aus Halle. Nicht über Berlin. Aber ich sage Ihnen etwas, was im Saal nicht gesagt wird.
+> 안 하셔도 돼요. 전 지역 신문에 써요. 할레의 막심에 대해 쓰죠. 베를린이 아니라. 근데 법정에서 안 나오는 걸 하나 말씀드릴게요.
+SWETA: Bitte.
+> 말씀하세요.
+KRANICH: Maxims Mutter sitzt jeden Tag in der dritten Reihe. Sie hat mir erzählt, dass Maxim am Anfang über eine Gruppe für Spätaussiedler angeworben wurde. Eine russischsprachige Gruppe. «Für Landsleute, die es schwer haben in Deutschland.»
+> 막심 어머니가 매일 셋째 줄에 앉아요. 그분이 그러는데 막심은 처음에 후기 귀환 이주민 모임을 통해 포섭됐대요. 러시아어 모임. «독일에서 힘든 동포들을 위해.»
+SWETA: «Werter Freund. Eine gute Möglichkeit für ehrliche Menschen, die vorübergehend in Schwierigkeiten sind.»
+> «친애하는 벗이여. 일시적으로 어려움에 처한 정직한 분들을 위한 좋은 기회.»
+KRANICH: Genau so. Woher wissen Sie das?
+> 바로 그거예요. 그걸 어떻게 아세요?
+SWETA: Weil ich diesen Satz vor zwanzig Jahren selbst geschrieben habe. Nicht diesen. Aber seinen Großvater.
+> 20년 전에 제가 그 문장을 직접 썼으니까요. 이 문장은 아니고. 그 할아버지 격을.
+KRANICH: … Dann sollten Sie mit Maxims Mutter reden. Nicht über Berlin. Über ihren Sohn. Sie will, dass jemand versteht, wie es passiert ist.
+> … 그럼 막심 어머니랑 얘기해 보세요. 베를린 말고. 아들에 대해. 누군가 그게 어떻게 일어났는지 이해해 주길 원하세요.
+
+# 장면 3 — DAS MUSTER DER ZAHLUNGEN
+MIRA: Jan, hörst du mich? Ich bin auf dem Flur. Die Bundesanwaltschaft hat heute auch die Zahlungen vorgelegt. Öffentlich. Wallet-Adressen, Beträge, Zeitpunkte.
+> 얀, 들려요? 복도예요. 연방검찰이 오늘 지불 내역도 제시했어요. 공개로. 지갑 주소, 금액, 시점.
+JAN: Und?
+> 그래서?
+MIRA: Maxim wurde aus einer Sammel-Adresse bezahlt. Ich habe die Adresse mitgeschrieben. Sie ist nicht dieselbe wie bei Janek. Aber sie hat ihr Geld von derselben Börse. Und im Februar gab es eine Direktzahlung. Zwanzigtausend.
+> 막심은 집합 주소에서 돈을 받았어요. 주소 받아 적었어요. 야넥 거랑은 달라요. 근데 같은 거래소에서 돈을 받았어요. 그리고 2월에 직접 지불이 있었어요. 2만.
+JAN: Zwanzigtausend. Wie bei Janeks Sammel-Adresse im Januar.
+> 2만. 야넥 집합 주소의 1월처럼.
+MIRA: Und von derselben Quell-Adresse. Die von Zeitenwende Ventures. Aus der gelöschten Pressemitteilung.
+> 그리고 같은 출처 주소에서. 차이텐벤데 벤처스 거. 삭제된 보도 자료의.
+HELENE: Zwei Zahlungen. Zwei Monate. Zwei Sammel-Adressen. Eine Quelle.
+> 지불 둘. 두 달. 집합 주소 둘. 출처 하나.
+MIRA: Und die Bundesanwaltschaft hat die Quell-Adresse im Gerichtssaal genannt. Als «eine Adresse, deren Inhaber derzeit ermittelt wird». Ohne Namen.
+> 그리고 연방검찰이 법정에서 그 출처 주소를 말했어요. «현재 소유자를 수사 중인 주소»라고. 이름 없이.
+KATRIN: Dann ist die Verbindung jetzt öffentlich. Nicht der Name. Aber die Adresse. Und dass die Adresse in einer gelöschten Pressemitteilung von Zeitenwende stand, haben wir selbst herausgefunden.
+> 그럼 연결은 이제 공개된 거야. 이름은 아니지만. 주소는. 그리고 그 주소가 차이텐벤데의 삭제된 보도 자료에 있었다는 건 우리가 직접 알아냈고.
+JAN: Können wir das drucken?
+> 그거 인쇄할 수 있어?
+KATRIN: Bald. Wenn wir alles zusammenhaben. Und wenn Zeitenwende die Chance hatte, zu antworten. Mit Frist.
+> 곧. 다 모이면. 그리고 차이텐벤데가 답할 기회를 가졌으면. 기한 붙여서.
+
+# 장면 3-2 — DIE FRAGEN AN ZEITENWENDE
+LEON: Ich habe die Fragen an Zeitenwende vorbereitet. Sechs Stück. Katrin hat sie dreimal gelesen.
+> 차이텐벤데한테 보낼 질문 준비했어요. 여섯 개. 카트린이 세 번 읽었어요.
+HELENE: Lies die erste.
+> 첫 번째 읽어.
+LEON: «Ist die Wallet-Adresse, die Sie im März letzten Jahres in einer Pressemitteilung als offizielle Investitionsadresse genannt haben, weiterhin in Ihrem Besitz?»
+> «작년 3월 보도 자료에서 공식 투자 주소로 밝힌 지갑 주소를 지금도 소유하고 있습니까?»
+KATRIN: Neutral. Keine Unterstellung. Gut.
+> 중립적. 넘겨짚기 없음. 좋아.
+LEON: Die zweite: «Hat diese Adresse im Januar und Februar dieses Jahres Zahlungen in Höhe von jeweils zwanzigtausend US-Dollar in Stablecoins an zwei andere Adressen geleistet? Wenn ja, zu welchem Zweck?»
+> 두 번째. «이 주소에서 올해 1월과 2월에 각각 스테이블코인 2만 달러가 다른 두 주소로 지불됐습니까? 그렇다면 무슨 목적이었습니까?»
+HELENE: Und die dritte?
+> 세 번째는?
+LEON: «Warum wurde die Pressemitteilung drei Monate nach Veröffentlichung gelöscht?»
+> «왜 그 보도 자료는 게시 석 달 뒤 삭제됐습니까?»
+SWETA: Die gefällt mir am besten. Die harmloseste Frage ist oft die gefährlichste.
+> 그게 제일 마음에 들어요. 가장 무해한 질문이 종종 가장 위험하죠.
+KATRIN: Und die sechste ist an Thal und Partner. Als Kontakt im Impressum. «Waren Sie im März letzten Jahres für die Investorenkommunikation von Zeitenwende Ventures zuständig?»
+> 그리고 여섯 번째는 탈 & 파트너한테. 법적 고지의 연락처로서. «작년 3월 차이텐벤데 벤처스의 투자자 커뮤니케이션을 담당했습니까?»
+HELENE: Frist?
+> 기한은?
+KATRIN: Zehn Tage. Mehr als sonst. Weil es um ein laufendes Strafverfahren in Leipzig geht und wir niemandem vorwerfen wollen, er hätte nicht genug Zeit gehabt.
+> 열흘. 평소보다 길게. 라이프치히에서 진행 중인 형사 절차가 걸려 있으니, 시간이 모자랐다고 누구도 탓하지 못하게.
+JAN: Und wenn sie wieder nicht antworten? Wie bei Tempelhof, wie bei der Pflege?
+> 또 답 안 하면? 템펠호프 때처럼, 돌봄 때처럼?
+HELENE: Dann schreiben wir zum dritten Mal: «Thal und Partner hat die Fragen nicht beantwortet.» Und irgendwann fällt den Lesern auf, dass es immer derselbe Satz ist.
+> 그럼 세 번째로 쓰지. «탈 & 파트너는 질문에 답하지 않았다.» 그리고 언젠가 독자들이 그게 늘 같은 문장이라는 걸 알아채겠지.
+
+# 장면 4 — MAXIMS MUTTER
+SWETA: Frau… darf ich mich setzen?
+> 저기… 앉아도 될까요?
+MIRA: Sie spricht nur Russisch. Ich warte draußen.
+> 러시아어만 하세요. 전 밖에서 기다릴게요.
+SWETA: … Sie sagt: «Mein Sohn ist kein Terrorist. Er ist ein Junge, der dachte, er hilft seiner Mutter.»
+> … 이러세요. «내 아들은 테러리스트가 아니에요. 엄마를 돕는다고 생각한 아이예요.»
+SWETA: Ich habe ihr gesagt: «Ich weiß. Ich kenne einen Jungen in Berlin, der dasselbe dachte.»
+> 제가 그랬어요. «알아요. 베를린에도 똑같이 생각한 아이를 알아요.»
+SWETA: Sie fragt, ob der Junge in Berlin auch ins Gefängnis kommt.
+> 베를린 그 아이도 감옥에 가냐고 물으세요.
+SWETA: Ich habe gesagt: «Er hat rechtzeitig nein gesagt. Weil sein Onkel um vier Uhr morgens mit kaltem Kaffee auf ihn gewartet hat.»
+> 제가 그랬어요. «그 애는 제때 거절했어요. 삼촌이 새벽 네 시에 식은 커피 들고 기다려 줬거든요.»
+SWETA: Sie weint. Sie sagt: «Maxim hatte keinen Onkel. Er hatte nur eine Gruppe im Internet, die ihn ‹Bruder› genannt hat.»
+> 우세요. 이러세요. «막심한텐 삼촌이 없었어요. 그 애를 ‹형제›라고 부르는 인터넷 모임만 있었죠.»
+JAN: Sweta. Bist du in Ordnung?
+> 스베타. 괜찮아?
+SWETA: Nein. Aber ich bin hier. Und sie redet. Das ist mehr, als ich vor zwanzig Jahren für die Mütter getan habe, deren Söhne meine Anzeigen gelesen haben.
+> 아니요. 근데 여기 있어요. 그리고 그분이 말하고 있어요. 그건 20년 전 제 광고를 읽은 아들들의 어머니들한테 제가 한 것보다 많아요.
+HELENE: Darf sie zitiert werden?
+> 인용해도 되는 분이야?
+SWETA: Sie sagt ja. Ohne Namen. «Die Mutter eines Angeklagten.» Und sie will, dass ein Satz drinsteht: «Sie haben ihn ‹Bruder› genannt. Und dann haben sie ihn weggeworfen.»
+> 좋대요. 이름 없이. «한 피고인의 어머니.» 그리고 한 문장이 들어가길 원하세요. «그들은 그 애를 ‹형제›라고 불렀어요. 그리고 버렸어요.»
+
+# 장면 4-2 — KRANICH AM AUSGANG
+KRANICH: Frau Morosowa. Wie war es?
+> 모로소바 씨. 어땠어요?
+SWETA: Schwer. Sie hat mir einen Satz für die Zeitung gegeben. Ohne Namen.
+> 힘들었어요. 신문에 쓸 문장 하나를 주셨어요. 이름 없이.
+KRANICH: Den Satz mit «Bruder»? Den hat sie mir auch gegeben. Vor drei Wochen. Ich habe ihn nicht gedruckt.
+> «형제» 문장이요? 저한테도 줬어요. 3주 전에. 인쇄 안 했어요.
+SWETA: Warum nicht?
+> 왜요?
+KRANICH: Weil mein Chefredakteur gesagt hat, das klingt nach Mitleid mit einem Terroristen. Die Leser in Leipzig hatten Angst. Ein Flughafen. Eine Explosion. Mitleid verkauft sich schlecht, wenn Menschen Angst haben.
+> 우리 편집장이 테러리스트에 대한 동정처럼 들린다고 해서요. 라이프치히 독자들은 겁에 질려 있었어요. 공항. 폭발. 사람들이 겁먹었을 땐 동정이 안 팔려요.
+SWETA: Es ist kein Mitleid. Es ist eine Erklärung.
+> 동정이 아니에요. 설명이에요.
+KRANICH: Ich weiß. Und vielleicht kann eine Berliner Zeitung drucken, was eine Leipziger nicht kann. Nehmen Sie den Satz. Er gehört Ihnen jetzt auch.
+> 알아요. 그리고 어쩌면 베를린 신문은 라이프치히 신문이 못 하는 걸 인쇄할 수 있겠죠. 그 문장 가져가세요. 이제 당신 것이기도 해요.
+SWETA: Und Sie? Was schreiben Sie morgen?
+> 그럼 당신은요? 내일 뭘 써요?
+KRANICH: «Angeklagter: ‹Der Kurator nannte mich werter Freund.›» Seite drei. Mehr traut sich mein Chef nicht. Aber es ist ein Anfang.
+> «피고인: ‹큐레이터는 날 친애하는 벗이라고 불렀다.›» 3면. 우리 편집장이 감당할 수 있는 건 거기까지예요. 근데 시작이죠.
+SWETA: Danke, Frau Kranich. Für dreißig Jahre Zuhören.
+> 고마워요, 크라니히 씨. 30년의 경청에.
+KRANICH: Danken Sie mir, wenn Sie den Kurator gefunden haben. Und schicken Sie mir dann eine Postkarte. Aus Berlin.
+> 큐레이터를 찾으면 그때 고마워하세요. 그리고 그때 엽서 한 장 보내 주세요. 베를린에서.
+
+# 장면 5 — DIE BUNDESANWALTSCHAFT WILL ETWAS
+DANA: Kowalczyk. Die Bundesanwaltschaft hat mich gebeten, dir etwas auszurichten. Ich sage es dir wörtlich, damit niemand später behauptet, ich hätte etwas hinzugefügt.
+> 코발치크. 연방검찰이 너한테 뭘 전해 달라고 했어. 그대로 말할게, 나중에 누가 내가 뭘 덧붙였다고 못 하게.
+JAN: Ich höre.
+> 듣고 있어.
+DANA: «Die Bundesanwaltschaft würde es begrüßen, wenn der Kontakt zum Kanal nicht abbricht.»
+> «연방검찰은 채널과의 연락이 끊기지 않는다면 환영할 것이다.»
+KATRIN: «Würde es begrüßen.» Das ist keine Bitte. Das ist eine Bitte, die so tut, als wäre sie keine.
+> «환영할 것이다.» 그건 부탁이 아니야. 부탁이 아닌 척하는 부탁이지.
+HELENE: Und wenn wir den Kontakt auf Wunsch der Bundesanwaltschaft halten, sind wir ihr Werkzeug.
+> 그리고 연방검찰 바람대로 연락을 유지하면, 우린 그들의 도구야.
+JAN: Und wenn wir ihn abbrechen, geht der nächste Auftrag an einen anderen Maxim.
+> 그리고 끊으면 다음 과제는 다른 막심한테 가.
+LEON: Gibt es einen dritten Weg? Es gibt immer einen dritten Weg. Das hast du selbst gesagt.
+> 세 번째 길은 없어요? 늘 세 번째 길이 있다고 직접 그러셨잖아요.
+KATRIN: Der dritte Weg ist: Wir entscheiden selbst. Unabhängig. Aus journalistischen Gründen. Und wir dokumentieren, dass wir es nicht auf Wunsch der Behörden tun. Und wir informieren weiter, aber wir nehmen keine Anweisungen an.
+> 세 번째 길은: 우리가 스스로 결정하는 거야. 독립적으로. 저널리즘적 이유로. 그리고 당국의 바람으로 하는 게 아니라는 걸 문서화해. 그리고 계속 알리되, 지시는 받지 않아.
+HELENE: Und welche journalistischen Gründe hätten wir?
+> 그럼 우리한테 어떤 저널리즘적 이유가 있지?
+SWETA: Dass wir die Treppe bis oben sehen wollen. Wir wissen jetzt, wer die Information liefert. Vielleicht. Aber wir wissen nicht, was mit ihr passiert. Wer sie benutzt. Wofür.
+> 계단 꼭대기까지 보고 싶다는 거요. 이제 누가 정보를 대는지는 알아요. 아마도. 근데 그게 어떻게 되는지 몰라요. 누가 쓰는지. 뭐에.
+HELENE: Dann gilt: Janek antwortet nur, wenn wir es für die Geschichte wollen. Nicht, weil eine Behörde es «begrüßt». Und Dana — sag der Bundesanwaltschaft genau das. Wörtlich.
+> 그럼 이렇게 해. 야넥은 우리가 기사를 위해 원할 때만 답해. 어떤 기관이 «환영»해서가 아니라. 그리고 다나 — 연방검찰에 정확히 그렇게 전해. 그대로.
+DANA: Mit Vergnügen. Und ich sage dazu: Ich habe nichts hinzugefügt.
+> 기꺼이. 그리고 덧붙여 말할게. 난 아무것도 덧붙이지 않았다고.
+
+# 장면 6-2 — BEI ELKE, ABENDS
+ELKE: Jan. Du sitzt wieder an Mareks Tisch.
+= Jan. Du sitzt wieder an Mareks Tisch.
+> 얀. 또 마렉 자리에 앉았네.
+JAN: Ich warte auf Sweta und Mira. Sie kommen aus Leipzig. Sie haben am Telefon nicht viel gesagt.
+> 스베타랑 미라 기다려요. 라이프치히에서 와요. 전화로는 별말 안 했어요.
+TOBI: Wenn Sweta am Telefon nüscht sacht, war et schlimm.
+= Wenn Sweta am Telefon nichts sagt, war es schlimm.
+> 스베타가 전화로 아무 말 안 하면 심했던 거야.
+KEVIN: Darf ick wat sajen? Ick hab heute den Vertrag unterschrieben. Ausbildung. Kfz-Mechatroniker. Bei der Werkstatt in Reinickendorf. Ab November.
+= Darf ich was sagen? Ich habe heute den Vertrag unterschrieben. Ausbildung. Kfz-Mechatroniker. Bei der Werkstatt in Reinickendorf. Ab November.
+> 뭐 하나 말해도 돼요? 오늘 계약서에 서명했어요. 직업 교육. 자동차 정비. 라이니켄도르프 정비소에서. 11월부터.
+JAN: Kevin! Das ist großartig.
+> 케빈! 정말 잘됐다.
+KEVIN: Und der Meister hat jesacht, wenn ick pünktlich bin, kriegt er keene Probleme mit mir. Und Herr Krause, der Klempner, hat mir 'n Werkzeugkasten jeschenkt. Seinen alten.
+= Und der Meister hat gesagt, wenn ich pünktlich bin, kriegt er keine Probleme mit mir. Und Herr Krause, der Klempner, hat mir einen Werkzeugkasten geschenkt. Seinen alten.
+> 그리고 마이스터가 내가 시간 지키면 나 때문에 문제 생길 일 없대요. 그리고 배관공 크라우제 씨가 공구함을 줬어요. 자기 옛날 거.
+ELKE: Siehste, Jan. So jeht dit. Eener schenkt dem anderen wat Altes. Und dit Alte wird wat Neues.
+= Siehst du, Jan. So geht das. Einer schenkt dem anderen etwas Altes. Und das Alte wird etwas Neues.
+> 봐, 얀. 그렇게 되는 거야. 하나가 다른 이한테 옛것을 주고. 그 옛것이 새것이 되고.
+JAN: Wie die Kamera von Tobis Vater.
+> 토비 아버지의 카메라처럼.
+TOBI: Und die Taxiuhr von deinem.
+= Und die Taxiuhr von deinem.
+> 그리고 너희 아버지 택시 미터기처럼.
+KEVIN: Und Ostermann hat jesacht, die Bundesanwaltschaft hat mein Verfahren… wie hieß dit… «eingestellt gegen Auflagen». Ick muss sechzig Stunden gemeinnützige Arbeit machen. In 'ner Jugendberatung. Ick soll anderen erzählen, wie dit war.
+= Und Ostermann hat gesagt, die Bundesanwaltschaft hat mein Verfahren… wie hieß das… «eingestellt gegen Auflagen». Ich muss sechzig Stunden gemeinnützige Arbeit machen. In einer Jugendberatung. Ich soll anderen erzählen, wie das war.
+> 그리고 오스터만 씨가 그러는데 연방검찰이 내 절차를… 뭐라더라… «조건부 중단»했대요. 60시간 사회봉사 해야 돼요. 청소년 상담소에서. 다른 애들한테 어땠는지 얘기해 주래요.
+JAN: Das ist das Beste, was passieren konnte. Du wirst der Gegen-Kurator.
+> 그게 일어날 수 있는 최선이야. 넌 반(反)큐레이터가 되는 거야.
+KEVIN: Der wat?
+= Der was?
+> 뭐요?
+JAN: Der, der den Jungen sagt: «Keine Fragen» heißt: Stell eine.
+> 애들한테 «질문 없음»은 «하나 물어봐라»라는 뜻이라고 말해 주는 사람.
+
+# 장면 6 — IM ZUG ZURÜCK
+MIRA: Sweta. Du hast seit Halle kein Wort gesagt.
+> 스베타. 할레 이후로 한 마디도 안 했어요.
+SWETA: Ich denke an den Großvater. Den Satz, den ich damals geschrieben habe. Er hat Kinder bekommen. Und Enkel. Und einer davon hat einen Dreiundzwanzigjährigen aus Halle dazu gebracht, eine Drohne über einen Flughafen zu fliegen.
+> 할아버지 문장을 생각해요. 그때 제가 쓴 문장. 그게 자식을 낳았어요. 그리고 손주를. 그리고 그중 하나가 할레의 스물세 살을 공항 위로 드론을 날리게 했어요.
+MIRA: Du hast ihn nicht dazu gebracht.
+> 당신이 그렇게 만든 게 아니에요.
+SWETA: Ich habe die Sprache mitgebaut, die ihn dazu gebracht hat. Das ist nicht dasselbe. Aber es ist auch nicht nichts.
+> 그를 그렇게 만든 언어를 같이 만들었어요. 그건 같은 게 아니에요. 근데 아무것도 아닌 것도 아니죠.
+MIRA: Und was machst du damit?
+> 그럼 그걸 어떻게 할 거예요?
+SWETA: Ich schreibe die Gegensprache. Den Text, den Maxim hätte lesen müssen, bevor er «Werter Freund» gelesen hat. Kurz. Einfach. Auf Russisch und Deutsch. «Wenn dich jemand ‹Bruder› nennt und dir Geld für Dinge anbietet, über die du nicht reden darfst — dann bist du nicht sein Bruder. Du bist sein Werkzeug.»
+> 대항 언어를 쓸 거예요. 막심이 «친애하는 벗이여»를 읽기 전에 읽었어야 할 글. 짧게. 쉽게. 러시아어와 독일어로. «누가 너를 ‹형제›라고 부르며 말하면 안 되는 일에 돈을 준다면 — 넌 그의 형제가 아니야. 넌 그의 도구야.»
+MIRA: Das ist gut.
+> 좋아요.
+SWETA: Es ist ein Anfang. Die Sprache des Kurators hat zwanzig Jahre Vorsprung. Meine Gegensprache hat drei Stunden.
+> 시작이에요. 큐레이터의 언어는 20년 앞서 있어요. 제 대항 언어는 세 시간.
+MIRA: Darf ich etwas hinzufügen? Zu deiner Gegensprache?
+> 하나 덧붙여도 돼요? 당신 대항 언어에?
+SWETA: Bitte.
+> 해요.
+MIRA: «Und wenn du schon geantwortet hast — es ist nicht zu spät. Ein Junge in Berlin hat um vier Uhr morgens nein gesagt. Heute macht er eine Ausbildung.»
+> «그리고 이미 답했더라도 — 늦지 않았어. 베를린의 한 아이는 새벽 네 시에 거절했어. 지금은 직업 교육을 받고 있어.»
+SWETA: Das ist besser als mein Satz. Weil es eine Tür offen lässt.
+> 그게 제 문장보다 나아요. 문을 하나 열어 두니까.
+MIRA: Keine Tür. Ein Ausgang.
+> 문이 아니라. 출구.
+SWETA: Ein Ausgang. Ja. Das hat der Kurator nie angeboten.
+> 출구. 그래요. 큐레이터는 그걸 한 번도 제안한 적 없죠.
+
+# 엔딩 — DAS PAKET
+LEON: Ihr seid zurück? Gut. Janeks Telefon. Vor einer Stunde. Wir haben noch nicht geantwortet.
+> 돌아왔어요? 잘됐네요. 야넥 폰. 한 시간 전에. 아직 답 안 했어요.
+JAN: Lies vor.
+> 읽어.
+KURATOR: Janek. Wegen Rostock: Wir haben umgeplant. Kein Hafen. Ich habe etwas Einfacheres für Sie. Ein Paket. Nächsten Dienstag. Ein Logistikzentrum in Lichtenberg. Sie holen es ab und bringen es an eine Adresse, die ich Ihnen am Dienstag schicke. Fünfhundert Euro. Keine Fragen.
+> 야넥. 로스토크 건: 계획을 바꿨습니다. 항구는 없습니다. 더 간단한 걸 드리죠. 소포 하나. 다음 주 화요일. 리히텐베르크의 물류센터. 그걸 찾아서 화요일에 보내 드릴 주소로 가져다주십시오. 5백 유로. 질문 없음.
+KATRIN: Rote Linie zwei. Kein Paket, dessen Inhalt du nicht kennst.
+> 레드라인 둘. 내용물 모르는 소포 금지.
+SWETA: «Wir haben umgeplant.» Rostock ist abgesagt. Weil jemand gewarnt wurde? Oder weil jemand gemerkt hat, dass der Container nicht existiert?
+> «계획을 바꿨다.» 로스토크는 취소. 누가 경고를 받아서? 아니면 누가 컨테이너가 없다는 걸 알아채서?
+DANA: Oder weil in Rostock seit gestern mehr Polizei steht als Urlauber. Das sieht man.
+> 아니면 어제부터 로스토크에 휴가객보다 경찰이 많아서. 그건 보이니까.
+JAN: Und ein Paket. Keine Fragen. Wie bei Kevin. Wie bei Maxim.
+> 그리고 소포. 질문 없음. 케빈처럼. 막심처럼.
+HELENE: Janek fährt nicht. Rote Linie zwei.
+> 야넥은 안 가. 레드라인 둘.
+DANA: Und genau da muss ich jetzt etwas sagen, was ich nicht gern sage. Wenn in dem Paket ein Brandsatz ist und Janek es nicht abholt, holt es ein anderer ab. Und bringt es irgendwohin. Und wir wissen nicht, wohin.
+> 그리고 바로 거기서 내가 하기 싫은 말을 해야 해. 소포에 발화 장치가 있는데 야넥이 안 가져가면, 다른 사람이 가져가. 그리고 어딘가로 가져가지. 그리고 우린 어디로인지 몰라.
+KATRIN: Dana. Das ist genau der Satz, mit dem eine Behörde einen Journalisten zum Werkzeug macht.
+> 다나. 그게 바로 기관이 기자를 도구로 만드는 문장이야.
+DANA: Ich weiß. Deshalb sage ich ihn laut. Damit ihr ihn ablehnen könnt.
+> 알아. 그래서 크게 말하는 거야. 너희가 거절할 수 있게.
+JAN: … Und wenn ich ihn nicht ablehnen will?
+> … 그리고 내가 거절하고 싶지 않으면?
+HELENE: Dann sag mir, warum. Nicht heute Abend. Morgen früh. Vor dem Kaffee.
+> 그럼 왜인지 말해. 오늘 밤 말고. 내일 아침. 커피 전에.
+JAN: Weil ein Paket keine Adresse ist. Ein Paket ist ein Gegenstand. Wenn ich es abhole und direkt zur Polizei bringe, liefere ich nichts an niemanden. Ich nehme etwas aus dem Verkehr.
+> 소포는 주소가 아니니까. 소포는 물건이야. 내가 찾아서 바로 경찰한테 가져가면 누구한테도 아무것도 안 넘기는 거야. 뭔가를 유통에서 빼는 거지.
+KATRIN: Rechtlich ist das… nicht unmöglich. Wer einen gefährlichen Gegenstand sofort den Behörden übergibt, macht sich in der Regel nicht strafbar. Aber du kennst den Inhalt nicht. Wenn es ein Brandsatz ist, der beim Transport zündet…
+> 법적으로 그건… 불가능하진 않아. 위험물을 즉시 당국에 넘기는 사람은 원칙적으로 처벌받지 않아. 근데 넌 내용물을 몰라. 운반 중에 터지는 발화 장치면…
+DANA: Dann holt Janek es nicht ab. Dann holt es ein Kollege von mir ab, der aussieht wie ein müder Taxifahrer. Das nennt man kontrollierte Übergabe. Das ist unsere Arbeit. Nicht eure.
+> 그럼 야넥은 안 가져가. 피곤한 택시 기사처럼 생긴 내 동료가 가져가지. 그걸 통제된 전달이라고 해. 그건 우리 일이야. 너희 일이 아니라.
+HELENE: Und Janek?
+> 그럼 야넥은?
+DANA: Janek schreibt «Bin dabei». Mehr nicht. Was danach passiert, passiert ohne ihn.
+> 야넥은 «함»이라고 써. 그 이상은 아니고. 그다음 일은 그 없이 일어나.
+KATRIN: Und genau da liegt die Grenze. Wenn Janek «Bin dabei» schreibt, damit die Polizei eine Operation machen kann — dann schreibt er für die Polizei. Nicht für die Zeitung.
+> 그리고 바로 거기에 경계가 있어. 경찰이 작전을 할 수 있게 야넥이 «함»이라고 쓰면 — 그건 경찰을 위해 쓰는 거야. 신문을 위해서가 아니라.
+JAN: Und wenn ich es nicht schreibe, holt ein Maxim das Paket.
+> 그리고 안 쓰면 막심 같은 애가 소포를 가져가.
+HELENE: Morgen. Vor dem Kaffee. Mit allen. Und Jan — dein Satz.
+> 내일. 커피 전에. 다 같이. 그리고 얀 — 네 문장.
+JAN: «Ich bin noch Journalist. Und ich weiß zum ersten Mal nicht, ob das reicht.»
+> «난 아직 기자다. 그리고 처음으로 그걸로 충분한지 모르겠다.»
+HELENE: Das ist der ehrlichste Satz, den du bisher geschickt hast. Schlaf. Bei Elke.
+> 지금까지 보낸 것 중 가장 정직한 문장이네. 자. 엘케네서.
+ELKE: Billardtisch is frei. Und die Musikbox spielt heute Nacht nüscht. Ick hab den Stecker jezogen.
+= Billardtisch ist frei. Und die Musikbox spielt heute Nacht nichts. Ich habe den Stecker gezogen.
+> 당구대 비어 있어. 그리고 주크박스는 오늘 밤 아무것도 안 틀어. 플러그 뽑았거든.
