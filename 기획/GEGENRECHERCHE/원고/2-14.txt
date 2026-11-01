@@ -1,0 +1,335 @@
+@part 2
+@ep 14
+@title Licht an
+@sub 불을 켜라 · 8월 초, 반론 질의와 잘려 나간 꼬리, 그리고 압수수색
+@info 대사 150턴 · 난이도 B2 · 배경: 2-13화 며칠 뒤(2027년 8월 초), Spreewerk 편집국, 엘케의 선술집, Sentinel 본사, 온라인 공개 직후
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast HOLT | 스벤야 홀트 (34) · Sentinel 홍보 책임자
+@cast WALLNER | 디르크 발너 (54) · Sentinel 대표
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인
+@note ※ 반론 질의(Konfrontation)는 보도 전 당사자에게 공정하게 답할 기회를 주는 절차입니다. 큰 조직은 '개인의 일탈'이라며 꼬리 자르기(Bauernopfer)로 대응하곤 합니다. 기사가 나간 뒤 수사기관의 압수수색은 보도의 결과이지 기자의 공로가 아닙니다. 등장 인물과 회사는 가상입니다.
+@note ※ 표현 초점: Fragenkatalog · Stellungnahme · Einzeltäter · Bauernopfer · Distanzierung · Durchsuchungsbeschluss · Beschlagnahme · Veröffentlichung
+@next 2부 15화 — «Nach dem Kurzschluss»(합선 이후) — 수의계약 전면 재검토, 조사위원회 요구. 하지만 '진짜 극좌 공격'도 실재한다는 사실이 남고, 팀은 단순화의 유혹을 경계한다. 그리고 다음 부의 실마리가 드러난다.
+
+# 콜드 오픈 — DIE FRAGEN
+HELENE: Die Fragenkataloge. Lest sie mir vor. Sentinel zuerst.
+> 질문 목록들이요. 읽어 봐요. 센티넬부터.
+JAN: Frage eins: Beschäftigt Sentinel einen Mitarbeiter, der unter dem Namen «Marty» in linken Hausprojekten zu Anschlägen aufgerufen hat?
+> 질문 1. 센티넬은 «마티»라는 이름으로 좌파 자치 주택에서 공격을 선동한 직원을 고용하고 있습니까?
+LEON: Frage zwei: Fährt dieser Mitarbeiter einen Dienstwagen, zugelassen auf Sentinel Mobile Services?
+> 질문 2. 그 직원은 센티넬 모바일 서비스 명의로 등록된 회사 차를 몹니까?
+MIRA: Frage drei: Hat Sentinel die Schwachstellenanalyse der Netzgesellschaft erhalten? Und wurde sie nach Projektende gelöscht?
+> 질문 3. 센티넬은 전력망 회사의 취약 지점 분석을 받았습니까? 그리고 프로젝트 종료 후 삭제되었습니까?
+SWETA: Frage vier: Warum sind von achtundvierzig Kameras erst zwölf installiert, und warum wurden in Spandau Kameras wieder abgebaut?
+> 질문 4. 카메라 마흔여덟 대 중 왜 열두 대만 설치됐고, 슈판다우에서는 왜 카메라가 다시 철거됐습니까?
+JAN: Frage fünf: In welcher Geschäftsbeziehung steht Sentinel zu Thal und Partner und zu Herrn Gregor Sandmann?
+> 질문 5. 센티넬은 탈 & 파트너 및 그레고어 잔트만 씨와 어떤 사업 관계에 있습니까?
+KATRIN: Jede Frage ist belegt. Jede Frage ist sachlich. Keine Unterstellung. Gut.
+> 질문마다 증거가 있어. 질문마다 사실에 근거하고. 단정은 없고. 좋아.
+HELENE: Und Thal und Partner?
+> 그럼 탈 & 파트너는요?
+JAN: Nur drei Fragen. Weil wir über Thal weniger beweisen können. Berät Thal und Partner Sentinel? Sitzt Herr Kasper im Beirat? Welche Rolle hat Herr Sandmann?
+> 세 개뿐이에요. 탈에 대해선 증명할 수 있는 게 적으니까요. 탈 & 파트너가 센티넬에 자문합니까? 카스퍼 씨가 자문위원입니까? 잔트만 씨의 역할은 무엇입니까?
+HELENE: Und Sandmann selbst?
+> 그럼 잔트만 본인은요?
+MIRA: Berät Herr Sandmann gleichzeitig die Polizei und private Sicherheitsfirmen? Hat er Informationen aus Polizeikreisen an Dritte weitergegeben?
+> 잔트만 씨는 경찰과 민간 보안 업체에 동시에 자문합니까? 경찰 쪽 정보를 제3자에게 넘겼습니까?
+JAN: Frist: eine Woche. Für alle gleich.
+> 기한은 일주일. 모두 똑같이.
+HELENE: Dann schickt sie. Nicht vom Besprechungsraum aus. Von Katrins Büro.
+> 그럼 보내요. 회의실에서 말고. 카트린 사무실에서.
+LEON: Eine Frage. Wenn die Wanze noch hängt, warum schreiben wir die Fragen nicht einfach dort? Damit sie glauben, wir wissen weniger?
+> 질문이요. 도청기가 아직 걸려 있으면, 왜 그냥 거기서 질문을 안 써요? 우리가 덜 안다고 그들이 믿게요?
+JAN: Guter Gedanke. Aber die Konfrontation kommt sowieso per Mail an sie. Sie werden merken, wie viel wir wissen.
+> 좋은 생각이야. 근데 반론 질의는 어차피 메일로 그들한테 가. 우리가 얼마나 아는지 알게 될 거야.
+MIRA: Deshalb nutzen wir die Wanze anders. Für Dinge, die wir noch nicht haben. «Wir suchen noch den Vertrag mit Sandmann.» Dann denken sie, wir hätten ihn nicht.
+> 그래서 도청기를 다르게 써요. 아직 우리한테 없는 것들을 위해. «잔트만 계약서를 아직 찾는 중» 같은 거. 그럼 그들은 우리가 그걸 안 가졌다고 생각하죠.
+HELENE: Und so lenken wir sie in die falsche Richtung. Clever. Aber vorsichtig. Zu viel Theater fliegt auf.
+> 그렇게 그들을 틀린 방향으로 이끄는 거군요. 영리해요. 근데 조심해요. 연극이 지나치면 들통나요.
+SWETA: Die beste Täuschung ist einfach. Ein Satz, kein Theater.
+> 최고의 기만은 단순해요. 문장 하나, 연극은 없이.
+
+# 장면 1 — DIE ANTWORTEN
+MIRA: Erste Antwort. Sentinel. Nach drei Tagen. Von Frau Holt.
+> 첫 답변. 센티넬. 사흘 만에. 홀트 씨한테서.
+JAN: Lies.
+> 읽어 봐.
+MIRA: «Die Sentinel Hauptstadt GmbH distanziert sich von jeglicher Form von Gewalt. Der von Ihnen genannte Mitarbeiter wurde bereits vor Wochen freigestellt.»
+> «센티넬 하우프트슈타트 유한회사는 어떠한 형태의 폭력과도 거리를 둡니다. 귀하가 언급한 직원은 이미 몇 주 전에 직무에서 배제되었습니다.»
+SWETA: «Bereits vor Wochen freigestellt.» Sie geben zu, dass es ihn gibt. Und werfen ihn sofort über Bord.
+> «이미 몇 주 전에 직무 배제.» 그 직원이 있다는 걸 인정하네요. 그리고 바로 배 밖으로 던져 버리고요.
+LEON: Ein Bauernopfer.
+> 꼬리 자르기네요.
+JAN: Genau. «Marty» ist ab jetzt ein «Einzeltäter». Ein schlechter Apfel. Nicht das System.
+> 맞아. «마티»는 이제부터 «단독범»이야. 썩은 사과 한 개. 시스템이 아니라.
+MIRA: Weiter: «Zur Schwachstellenanalyse äußern wir uns aus Sicherheitsgründen nicht. Die Kamera-Verzögerungen liegen an Lieferketten.»
+> 계속. «취약 지점 분석에 대해서는 보안상 언급하지 않습니다. 카메라 지연은 공급망 때문입니다.»
+SWETA: Und zu Thal und Sandmann?
+> 그럼 탈이랑 잔트만은?
+MIRA: «Geschäftsbeziehungen zu Beratern unterliegen der Vertraulichkeit.» Also: kein Kommentar.
+> «자문사와의 사업 관계는 비밀 유지 대상입니다.» 그러니까 노코멘트요.
+HELENE: Und Thal und Partner?
+> 탈 & 파트너는?
+LEON: «Thal und Partner berät eine Vielzahl von Mandanten und hat sich stets an Recht und Gesetz gehalten. Weitere Auskünfte erteilen wir nicht.»
+> «탈 & 파트너는 다수의 의뢰인에게 자문하며 언제나 법과 규정을 지켜 왔습니다. 그 밖의 정보는 제공하지 않습니다.»
+JAN: Derselbe Satz wie in der Gerichtstraße. Wort für Wort. «Stets an Recht und Gesetz gehalten.»
+> 게리히트슈트라세 때랑 같은 문장이네. 한 글자도 안 틀리고. «언제나 법과 규정을 지켜 왔다.»
+MIRA: Und Sandmann?
+> 그럼 잔트만은?
+JAN: Sandmann hat über einen Anwalt geantwortet. «Mein Mandant weist alle Vorwürfe zurück und behält sich rechtliche Schritte vor.»
+> 잔트만은 변호사를 통해 답했어. «본인은 모든 혐의를 부인하며 법적 조치를 유보합니다.»
+KATRIN: «Behält sich rechtliche Schritte vor.» Das ist eine Drohung mit einer Klage. Die kennen wir.
+> «법적 조치를 유보한다.» 그건 소송하겠다는 협박이야. 우리가 아는 거지.
+HELENE: Und die Polizei? Habt ihr auch die Pressestelle gefragt, wegen Sandmann als Berater?
+> 그럼 경찰은요? 잔트만이 자문가라는 것 때문에 경찰 홍보실에도 물어봤어요?
+MIRA: Ja. Antwort: «Zu einzelnen Beraterverträgen äußern wir uns nicht. Die interne Prüfung läuft.»
+> 네. 답변. «개별 자문 계약에 대해서는 언급하지 않습니다. 내부 조사가 진행 중입니다.»
+JAN: «Die interne Prüfung läuft.» Das heißt, sie wissen schon, dass etwas nicht stimmt.
+> «내부 조사가 진행 중.» 그 말은, 뭔가 잘못됐다는 걸 이미 안다는 거지.
+HELENE: Fassen wir die Antworten zusammen. Was gibt uns jede Antwort?
+> 답변들을 정리해요. 각 답변이 우리한테 뭘 주죠?
+MIRA: Sentinel gibt zu: «Marty» existiert. Das ist ihr größter Fehler. Sie bestätigen unsere wichtigste Behauptung.
+> 센티넬은 «마티»가 존재한다고 인정해요. 그게 그들의 가장 큰 실수죠. 우리의 가장 중요한 주장을 확인해 주는 거예요.
+SWETA: Thal gibt nichts zu. Aber der Standardsatz zeigt: Thal und Sentinel teilen dieselben Anwälte. Dieselbe Sprache.
+> 탈은 아무것도 인정 안 해요. 근데 그 상투적인 문장이 보여 주죠. 탈과 센티넬이 같은 변호사를 쓴다는 걸. 같은 언어를요.
+LEON: Und Sandmann droht mit einer Klage. Das ist die Reaktion von jemandem, der etwas zu verlieren hat.
+> 그리고 잔트만은 소송으로 협박해요. 그건 잃을 게 있는 사람의 반응이죠.
+JAN: Und die Polizei sagt, die Prüfung läuft. Das ist fast ein Geständnis. Sie wissen von Sandmanns Doppelrolle.
+> 그리고 경찰은 조사가 진행 중이라고 해요. 그건 거의 자백이에요. 잔트만의 이중 역할을 안다는 거죠.
+HELENE: Vier Antworten, vier Bestätigungen. Keine davon sagt Ja. Aber alle zusammen sagen alles.
+> 답변 넷, 확인 넷. 어느 것도 예스라고 안 하죠. 근데 다 합치면 전부를 말해요.
+
+# 장면 2 — THAL RUFT AN
+JAN: Mein Handy. Unbekannt. Kowalczyk.
+> 휴대폰. 모르는 번호. 코발치크입니다.
+WALLNER: Herr Kowalczyk. Dirk Wallner, Sentinel. Ich wollte persönlich mit Ihnen sprechen. Nicht über Anwälte.
+> 코발치크 씨. 센티넬의 디르크 발너입니다. 직접 얘기하고 싶었어요. 변호사 말고.
+JAN: Herr Wallner. Ich höre.
+> 발너 씨. 듣고 있어요.
+WALLNER: Dieser «Marty». Ein ehemaliger Mitarbeiter. Ein Einzelgänger. Er hat auf eigene Faust Unsinn gemacht. Wir haben ihn entlassen.
+> 그 «마티». 전직 직원이에요. 외톨이죠. 혼자서 멋대로 헛짓을 했어요. 우리가 해고했고요.
+JAN: Herr Wallner, dieser «Einzelgänger» ist mit einem Sentinel-Pulli Kameras auf- und abgehängt. Im Auftrag.
+> 발너 씨, 그 «외톨이»는 센티넬 조끼를 입고 카메라를 달고 뗐어요. 지시를 받고요.
+WALLNER: Monteure tragen unsere Kleidung. Das beweist keinen Auftrag.
+> 설치 기사들은 우리 옷을 입어요. 그게 지시를 증명하진 않아요.
+JAN: Und derselbe Mann ruft in linken Projekten zu Anschlägen auf Strom auf. Während Ihre Firma an Stromausfällen verdient.
+> 그리고 같은 사람이 좌파 프로젝트에서 전력 공격을 선동해요. 당신 회사가 정전으로 돈을 버는 동안에요.
+WALLNER: Das ist eine Unterstellung, Herr Kowalczyk. Ich warne Sie. Wir haben gute Anwälte.
+> 그건 단정이에요, 코발치크 씨. 경고합니다. 우린 좋은 변호사들이 있어요.
+JAN: Ich unterstelle nichts. Ich stelle Fragen. Und ich zitiere Ihre Antwort korrekt. Das ist alles.
+> 전 아무것도 단정 안 해요. 질문을 하죠. 그리고 당신 답변을 정확히 인용해요. 그게 다예요.
+WALLNER: Herr Kowalczyk. Wir leben in gefährlichen Zeiten. Hybride Bedrohungen. Sabotage. Sie sollten auf der richtigen Seite stehen.
+> 코발치크 씨. 우린 위험한 시대에 살아요. 하이브리드 위협. 사보타주. 당신은 올바른 편에 서야 해요.
+JAN: Ich stehe auf der Seite der Menschen, die im Dunkeln saßen. In Marzahn. In Pflegeheimen.
+> 전 어둠 속에 앉아 있던 사람들 편에 서요. 마르찬에서. 요양원에서.
+WALLNER: Das klingt gut in einem Artikel. Aber die Realität ist komplizierter.
+> 기사엔 좋게 들리죠. 근데 현실은 더 복잡해요.
+JAN: Dann erklären Sie mir die komplizierte Realität. Offiziell. Mit Namen. Ich drucke jedes Wort.
+> 그럼 그 복잡한 현실을 설명해 주세요. 공식적으로. 실명으로. 한 마디도 빠짐없이 인쇄할게요.
+WALLNER: Sie bekommen unsere schriftliche Stellungnahme. Mehr nicht. Guten Tag.
+> 서면 입장을 받으실 거예요. 그 이상은 없어요. 좋은 하루 되세요.
+JAN: Er hat aufgelegt. Und er hat «Marty» endgültig fallen lassen. «Auf eigene Faust.»
+> 끊었어요. 그리고 «마티»를 완전히 버렸어요. «혼자서 멋대로.»
+SWETA: «Auf eigene Faust.» Damit opfert er Marty. Aber damit gibt er auch zu, dass Marty bei ihm war.
+> «혼자서 멋대로.» 그걸로 마티를 버리는 거예요. 근데 동시에 마티가 자기 밑에 있었다는 것도 인정하는 거죠.
+LEON: Warum machen kluge Leute solche Fehler?
+> 왜 똑똑한 사람들이 그런 실수를 해요?
+JAN: Weil sie unter Druck sind. Und weil sie glauben, ein kleines Opfer rettet das große Ganze. Marty ist ihr kleines Opfer.
+> 압박을 받으니까. 그리고 작은 희생이 큰 전체를 구한다고 믿으니까. 마티가 그들의 작은 희생양이야.
+SWETA: Und das kleine Opfer wird irgendwann wütend. Wer geopfert wird, redet.
+> 그리고 그 작은 희생양은 언젠가 화가 나요. 버려진 자는 입을 열죠.
+JAN: Deshalb sucht der Spatz Sandmann. Sandmann ist das nächste Opfer. Und das nächste, das reden könnte.
+> 그래서 참새가 잔트만을 찾는 거야. 잔트만이 다음 희생양이야. 그리고 입을 열 수 있는 다음 사람이고.
+
+# 장면 3 — DIE LETZTE PRÜFUNG
+HELENE: Bevor wir veröffentlichen. Katrin, der juristische Check. Satz für Satz.
+> 공개하기 전에. 카트린, 법률 검토. 문장마다.
+KATRIN: Absatz eins: «Marty» ist belegt durch zwei Fotos. Grube und Spandau. Gleicher Mann, gleiche Uhr, einmal Aktivist, einmal Sentinel-Pulli. Das ist wasserdicht.
+> 첫 문단. «마티»는 사진 두 장으로 증명됨. 그루베랑 슈판다우. 같은 남자, 같은 시계, 한 번은 활동가, 한 번은 센티넬 조끼. 빈틈없어.
+JAN: Und der Dienstwagen?
+> 그럼 회사 차는?
+KATRIN: Das Kennzeichen ist auf Sentinel Mobile Services zugelassen. Belegt durch das Foto am Werkstor. Vorsichtig formuliert: «fuhr ein auf Sentinel zugelassenes Fahrzeug».
+> 번호판은 센티넬 모바일 서비스 명의로 등록됨. 공장 정문 사진으로 증명됨. 조심스럽게 표현해서. «센티넬 명의로 등록된 차량을 몰았다».
+SWETA: Nicht «Marty arbeitet für Sentinel»?
+> «마티가 센티넬에서 일한다»가 아니고요?
+KATRIN: Nein. Das sagt Sentinel selbst, mit «freigestellter Mitarbeiter». Wir zitieren sie. Ihre eigene Antwort ist unser bester Beleg.
+> 아니. 그건 센티넬이 «직무 배제된 직원»이라며 스스로 말해. 우린 그걸 인용하고. 그들 자신의 답변이 우리의 가장 좋은 증거야.
+LEON: Clever. Sie beweisen selbst, was wir nicht beweisen konnten.
+> 영리하네요. 우리가 증명 못 한 걸 자기들이 증명해 주네요.
+KATRIN: Absatz drei: Die Schwachstellenanalyse. Hier nur, dass Sentinel sie bekommen hat. Ohne Inhalt. Ohne technische Details.
+> 셋째 문단. 취약 지점 분석. 여긴 센티넬이 그걸 받았다는 것만. 내용은 없이. 기술적 세부도 없이.
+JAN: Und Sandmann?
+> 그럼 잔트만은?
+KATRIN: Sandmann berät Polizei und Firmen. Das ist belegt durch öffentliche Register und seine eigene Firmenwebsite. Die Drehtür, nicht die Tat.
+> 잔트만은 경찰과 회사들에 자문해. 그건 공개 등기랑 본인 회사 웹사이트로 증명돼. 회전문이지, 범행이 아니라.
+HELENE: Und Thal?
+> 그럼 탈은?
+KATRIN: Thal taucht nur als Berater auf. Mit dem Zitat «stets an Recht und Gesetz». Keine Behauptung. Nur die Verbindung. Die Leser denken selbst.
+> 탈은 자문가로만 나와. «언제나 법과 규정» 인용과 함께. 주장은 없이. 연결만. 판단은 독자가 하고.
+SWETA: Das ist die eleganteste Art. Die Fakten nebeneinander. Und der Satz von Thal daneben.
+> 그게 제일 우아한 방식이에요. 사실을 나란히. 그리고 그 옆에 탈의 문장을.
+HELENE: Dann ist es sauber. Titel?
+> 그럼 깨끗하네요. 제목은요?
+JAN: «Wer verdient an der Dunkelheit?»
+> «어둠으로 누가 돈을 버는가?»
+LEON: Das war schon der Titel meiner ersten Geschichte. Über die Menschen im Dunkeln.
+> 그건 제 첫 기사 제목이었잖아요. 어둠 속의 사람들에 관한.
+HELENE: Dann ist das jetzt Teil zwei. Dieselbe Frage, eine andere Antwort.
+> 그럼 이건 이제 2편이에요. 같은 질문, 다른 답.
+MIRA: Und Teil eins war über die Opfer. Teil zwei über die Täter. Fehlt Teil drei.
+> 그리고 1편은 피해자들에 관한 거였어요. 2편은 가해자들에 관한 거고요. 3편이 빠졌네요.
+JAN: Teil drei ist die große Geschichte. Thal, Grunewald, das ganze Netz. Den schreiben wir noch nicht.
+> 3편은 큰 기사야. 탈, 그루네발트, 전체 그물망. 그건 아직 안 써.
+HELENE: Erst muss Teil zwei wirken. Ein Artikel verändert nichts allein. Er braucht Zeit. Und Leser.
+> 먼저 2편이 효과를 내야 해요. 기사 하나로는 아무것도 안 바뀌어요. 시간이 필요해요. 그리고 독자도.
+SWETA: Und manchmal braucht er eine Durchsuchung. Oder eine Anhörung. Oder einen, der endlich redet.
+> 그리고 가끔은 수색이 필요하죠. 아니면 청문회. 아니면 드디어 입을 여는 누군가.
+LEON: Also warten wir wieder.
+> 그럼 또 기다리는 거네요.
+JAN: Wir warten und arbeiten. Das Kapitel kennst du ja jetzt gut, Leon.
+> 기다리면서 일해. 그 장은 이제 너도 잘 알잖아, 레온.
+
+# 장면 4 — VERÖFFENTLICHUNG
+ELKE: Sechs Uhr. Kaffee für alle. Und für den Schwaben die Apfelschorle. Wie immer, wenn wat Großes passiert.
+= Sechs Uhr. Kaffee für alle. Und für den Schwaben die Apfelschorle. Wie immer, wenn was Großes passiert.
+> 여섯 시. 다들 커피. 슈바벤 친구는 사과 탄산수. 큰일이 생길 때마다 늘 그렇듯이.
+MIRA: Online. Der Artikel ist draußen. «Wer verdient an der Dunkelheit? Teil 2.»
+> 온라인. 기사 나갔어요. «어둠으로 누가 돈을 버는가? 2편.»
+JAN: Und die Fotos. Marty in der Grube, Marty in Spandau. Nebeneinander.
+> 그리고 사진들. 그루베의 마티, 슈판다우의 마티. 나란히.
+SWETA: Erste Reaktionen. Ein Abgeordneter der Linken: «Endlich der Beweis, dass die Szene nicht hinter den Anschlägen steht.»
+> 첫 반응들이에요. 좌파당 의원 한 명. «드디어 운동권이 공격 배후가 아니라는 증거다.»
+LEON: Und die Grube? Nele?
+> 그럼 그루베는요? 넬레는?
+JAN: Nele hat geschrieben: «Danke. Zum ersten Mal entlastet uns jemand mit Beweisen, statt uns nur zu verdächtigen.»
+> 넬레가 썼어. «고마워. 처음으로 누가 우릴 의심만 하는 게 아니라 증거로 혐의를 벗겨 줬어.»
+MIRA: Und die andere Seite. Sentinel hat eine Pressemitteilung rausgeschickt. «Haltlose Verdächtigungen. Wir prüfen rechtliche Schritte.»
+> 그리고 반대편. 센티넬이 보도자료를 냈어요. «근거 없는 의혹. 법적 조치를 검토한다.»
+HELENE: «Haltlos», obwohl wir nur ihre eigene Antwort zitiert haben. Das ist fast lustig.
+> «근거 없는», 우린 그들 자신의 답변만 인용했는데요. 거의 웃기네요.
+TOBI: Und kiek, Jan. Die großen Medien ziehen nach. «Spreewerk enthüllt.» Mit Link zu uns.
+= Und guck, Jan. Die großen Medien ziehen nach. «Spreewerk enthüllt.» Mit Link zu uns.
+> 그리고 봐, 얀. 큰 언론들이 받아쓰네. «슈프레베르크 폭로.» 우리 링크 걸고.
+JAN: Das ist gut. Je mehr es lesen, desto schwerer ist es, es zu begraben.
+> 좋은 거야. 많이 읽을수록 묻어 버리기 어려워지니까.
+MIRA: Jan. Dana. Eine SMS.
+> 얀. 다나. 문자예요.
+JAN: Lies.
+> 읽어 봐.
+MIRA: «Guter Artikel. Mein Telefon hat gleich wieder eine Taste gedrückt. Halten Sie es bereit.»
+> «좋은 기사네요. 제 전화가 곧 또 버튼을 누를 거예요. 대기해 두세요.»
+SWETA: «Halten Sie es bereit.» Das heißt, sie weiß etwas. Etwas, das gleich passiert.
+> «대기해 두세요.» 그 말은, 뭔가 안다는 거예요. 곧 일어날 뭔가를.
+JAN: Und die Leserreaktionen? Was schreiben die Menschen?
+> 그럼 독자 반응은? 사람들이 뭐라고 써?
+MIRA: Tausende Kommentare. Hier eine Frau aus einem Pflegeheim: «Bei uns stand im Januar auch so ein Generator. Jetzt verstehe ich, warum.»
+> 댓글 수천 개요. 여기 요양원에서 일하는 여자분. «우리도 1월에 그런 발전기가 있었어요. 이제 왜인지 알겠네요.»
+LEON: Und hier ein Techniker: «Ich habe Kameras für Sentinel montiert. Und wieder abmontiert. Ich dachte, das sei normal.»
+> 그리고 여기 기술자 한 명. «센티넬 카메라를 달았어요. 그리고 다시 뗐고요. 전 그게 정상인 줄 알았어요.»
+JAN: Der Techniker. Mira, kannst du ihn kontaktieren? Vorsichtig. Er könnte ein Zeuge sein.
+> 그 기술자. 미라, 연락할 수 있어? 조심해서. 증인이 될 수 있어.
+MIRA: Ich schreibe ihm. Über einen sicheren Kanal. Wenn er echt ist, haben wir einen Monteur, der das Abbauen bestätigt.
+> 메시지 보낼게요. 안전한 경로로. 진짜면 철거를 증언해 줄 설치 기사가 생기는 거죠.
+SWETA: Ein Kommentar kann ein Köder sein. Auch von der Gegenseite. Prüf ihn gut.
+> 댓글은 미끼일 수 있어요. 상대편이 쓴 것도요. 잘 확인해요.
+MIRA: Immer. Ich glaube keinem Kommentar. Ich prüfe jeden.
+> 늘요. 전 어떤 댓글도 안 믿어요. 전부 확인하죠.
+
+# 장면 5 — DURCHSUCHUNG
+DANA: Herr Kowalczyk. Mein Telefon. Sie wissen.
+> 코발치크 씨. 제 전화예요. 아시죠.
+JAN: Ich weiß. Was ist los?
+> 압니다. 무슨 일이에요?
+DANA: In zwanzig Minuten durchsucht die Polizei die Räume der Sentinel Hauptstadt GmbH. Und die Privatwohnung von Gregor Sandmann.
+> 20분 뒤에 경찰이 센티넬 하우프트슈타트 유한회사 사무실을 수색해요. 그리고 그레고어 잔트만의 자택도요.
+JAN: Wegen unseres Artikels?
+> 우리 기사 때문에요?
+DANA: Nicht nur. Die Ermittlungen liefen schon. Ihr Artikel hat den Druck erhöht. Und einen Staatsanwalt überzeugt.
+> 그것만은 아니에요. 수사는 이미 진행 중이었어요. 당신 기사가 압박을 키웠죠. 그리고 검사 한 명을 설득했고요.
+JAN: Was suchen sie?
+> 뭘 찾아요?
+DANA: Verträge. Zahlungen. Kommunikation zwischen Sentinel, Sandmann und Thal und Partner. Und Hinweise auf «Marty».
+> 계약. 송금. 센티넬, 잔트만, 탈 & 파트너 사이의 통신. 그리고 «마티»에 대한 단서.
+JAN: Darf ich darüber schreiben?
+> 그걸 써도 돼요?
+DANA: Die Durchsuchung ist gleich öffentlich. Ihr könnt einen Fotografen schicken. Auf die öffentliche Straße. Wie immer.
+> 수색은 곧 공개돼요. 사진기자를 보내셔도 돼요. 공공 도로에. 늘 그렇듯이.
+JAN: Danke, Frau Schuster.
+> 고마워요, 슈스터 씨.
+DANA: Danken Sie mir nicht. Danken Sie den Leuten, die im Dunkeln saßen. Die haben das möglich gemacht. Nicht ich.
+> 저한테 고마워하지 마요. 어둠 속에 앉아 있던 사람들한테 고마워하세요. 그 사람들이 이걸 가능하게 했어요. 제가 아니라.
+JAN: Frau Schuster, eine Frage. Nach der Durchsuchung. Was passiert mit Sandmann?
+> 슈스터 씨, 질문 하나요. 수색 뒤에. 잔트만은 어떻게 돼요?
+DANA: Das entscheidet die Staatsanwaltschaft. Wenn sie etwas finden, gibt es ein Ermittlungsverfahren. Vielleicht Untersuchungshaft. Vielleicht nichts.
+> 그건 검찰이 정해요. 뭘 찾으면 수사 절차가 열려요. 어쩌면 구속. 어쩌면 아무것도 아니고요.
+JAN: Und seine Doppelrolle? Berater bei der Polizei und bei Firmen?
+> 그럼 그 이중 역할은요? 경찰이랑 회사들 자문가인 거?
+DANA: Die wird jetzt intern geprüft. Und ich sage Ihnen etwas, das Sie nicht von mir haben: Sein Beratervertrag mit uns wurde heute Morgen gekündigt.
+> 그건 이제 내부에서 조사돼요. 그리고 저한테서 들은 게 아닌 걸 하나 말씀드릴게요. 우리랑 맺은 자문 계약이 오늘 아침에 해지됐어요.
+JAN: Heute Morgen. Nach unserem Artikel.
+> 오늘 아침에요. 우리 기사 뒤에.
+DANA: Zufälle gibt es nicht, Herr Kowalczyk. Das haben Sie mir beigebracht.
+> 우연은 없어요, 코발치크 씨. 당신이 저한테 가르쳐 줬잖아요.
+JAN: Das habe ich nicht. Das haben Sie mir beigebracht.
+> 제가 안 했어요. 당신이 저한테 가르쳐 줬죠.
+DANA: Dann haben wir uns gegenseitig unterrichtet. Auf Wiederhören. Wir haben nicht geredet.
+> 그럼 우리가 서로 가르친 거네요. 안녕히 계세요. 우린 얘기 안 했어요.
+TOBI: Ick fahr sofort nach Adlershof. Mit zwee Kameras.
+= Ich fahre sofort nach Adlershof. Mit zwei Kameras.
+> 바로 아들러스호프로 갈게. 카메라 두 대 들고.
+HELENE: Von der öffentlichen Straße, Tobi. Keine Helden.
+> 공공 도로에서요, 토비. 영웅 노릇은 금지.
+TOBI: Keene Helden. Ick weeß. Aber dit Foto will ick. Polizei vor dem Ritter mit dem Schild.
+= Keine Helden. Ich weiß. Aber das Foto will ich. Polizei vor dem Ritter mit dem Schild.
+> 영웅 노릇 안 해. 알아. 근데 그 사진은 꼭 찍을 거야. 방패 든 기사 앞의 경찰.
+
+# 엔딩 — NICHT DAS ENDE
+HELENE: Also. Durchsuchung bei Sentinel und bei Sandmann. Das ist groß.
+> 자. 센티넬이랑 잔트만 수색. 이건 큰 거예요.
+JAN: Es ist ein Anfang. Nicht das Ende. Eine Durchsuchung ist keine Verurteilung.
+> 시작이에요. 끝이 아니라. 수색이 유죄 판결은 아니니까요.
+MIRA: Und Thal? Bei Thal durchsuchen sie nicht.
+> 그럼 탈은요? 탈은 수색 안 하잖아요.
+JAN: Bei Thal nie. Thal ist immer nur der Berater. Sauber. Auf dem Papier.
+> 탈은 절대 안 해. 탈은 늘 자문가일 뿐이야. 깨끗하지. 서류상으로는.
+SWETA: Aber Sandmann wird reden. Irgendwann. Wenn er sieht, dass er das Bauernopfer wird.
+> 근데 잔트만은 입을 열 거예요. 언젠가. 자기가 꼬리 자르기 대상이 되는 걸 보면요.
+JAN: Vielleicht. Menschen reden, wenn sie allein gelassen werden. Und Thal lässt alle allein. Irgendwann.
+> 어쩌면. 사람은 혼자 남겨지면 입을 열어. 그리고 탈은 결국 모두를 혼자 남겨 두지.
+MIRA: Und wenn Sandmann nicht redet? Wenn er lieber schweigt und bezahlt wird?
+> 그럼 잔트만이 입을 안 열면요? 차라리 침묵하고 돈을 받으면요?
+JAN: Dann suchen wir einen anderen Weg. Es gibt immer einen. Eine Zahlung, ein Dokument, einen zweiten Enttäuschten.
+> 그럼 다른 길을 찾아. 늘 있어. 송금 하나, 문서 하나, 실망한 또 다른 사람 하나.
+SWETA: In so einem Netz gibt es immer einen, der sich übergangen fühlt. Den finden wir.
+> 그런 그물망엔 늘 자기가 홀대받았다고 느끼는 사람이 있어요. 그 사람을 찾는 거죠.
+LEON: Und bis dahin?
+> 그때까지는요?
+HELENE: Bis dahin schützen wir unsere Leute. Mira bleibt in der Pension, bis Dana Entwarnung gibt. Die Wanze bleibt hängen, bis wir sie brauchen.
+> 그때까지 우리 사람들을 지켜요. 미라는 다나가 경보를 해제할 때까지 여관에 있어요. 도청기는 우리가 필요할 때까지 그대로 두고요.
+JAN: Und Patrick?
+> 그럼 파트리크는요?
+HELENE: Patrick arbeitet weiter. Lächelnd. Und wir lächeln zurück. Bis wir wissen, wer ihn geschickt hat.
+> 파트리크는 계속 일해요. 웃으면서. 그리고 우리도 웃어 줘요. 누가 보냈는지 알 때까지.
+LEON: Was machen wir jetzt?
+> 이제 뭘 해요?
+HELENE: Jetzt schreiben wir weiter. Über die Durchsuchung. Und wir warten. Auf das, was in den Akten steht.
+> 이제 계속 써요. 수색에 대해. 그리고 기다려요. 서류에 뭐가 있는지.
+JAN: Und wir bleiben vorsichtig. Die Wanze hängt noch. Patrick kommt noch. Das Spiel ist nicht vorbei.
+> 그리고 계속 조심해요. 도청기는 아직 걸려 있고. 파트리크는 아직 와요. 게임은 안 끝났어요.
+MIRA: Jan. Signal. Der Spatz.
+> 얀. 시그널. 참새예요.
+JAN: Was schreibt er?
+> 뭐라고 했어?
+MIRA: «Gut gemacht. Ihr habt das Licht angemacht. Aber der Schalter sitzt woanders. In Grunewald. Fragt Sandmann, bevor es jemand anderes tut.»
+> «잘했어요. 당신들이 불을 켰어요. 하지만 스위치는 다른 데 있어요. 그루네발트에. 다른 누군가가 하기 전에 잔트만한테 물어봐요.»
+SWETA: «Bevor es jemand anderes tut.» Was heißt das? Bevor die Polizei ihn hat? Oder bevor jemand ihn zum Schweigen bringt?
+> «다른 누군가가 하기 전에.» 그게 무슨 뜻이죠? 경찰이 그를 잡기 전에? 아니면 누가 그를 입막음하기 전에?
+JAN: Beides ist möglich. Und beides heißt: Wir müssen schnell sein. Aber nicht hastig. Nie hastig.
+> 둘 다 가능해. 그리고 둘 다 이런 뜻이지. 우린 빨라야 한다. 근데 서두르진 말고. 절대 서두르지 않고.
