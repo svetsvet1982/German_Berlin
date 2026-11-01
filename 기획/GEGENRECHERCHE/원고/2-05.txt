@@ -1,0 +1,339 @@
+@part 2
+@ep 5
+@title KRITIS-Lücke
+@sub KRITIS의 공백 · 5월 둘째 주, 취약 지점 목록과 그것을 받은 세 회사
+@info 대사 150턴 · 난이도 B2 · 배경: 2-4화 며칠 뒤(2027년 5월 중순), Spreewerk 편집국, 쾨페닉의 한 조용한 호숫가 카페, 전력망 회사 앞
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast KUHLMANN | 베른트 쿨만 (56) · 전력망 회사의 설비 안전 엔지니어
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@note ※ KRITIS는 '핵심 기반시설(Kritische Infrastruktur)'의 약자로, 전기·물·통신처럼 사회가 꼭 필요로 하는 시설을 뜻합니다. 2025년 발효된 핵심기반시설보호법(KRITIS-Dachgesetz)은 운영사에 위험 분석과 보호 조치를 의무화했습니다. 내부 고발자는 내부고발자보호법(HinSchG, 2023년)으로 보호받습니다. 이 화의 회사와 인물은 가상입니다.
+@note ※ 표현 초점: kritische Infrastruktur · Schwachstellenanalyse · Dienstleister · Geheimhaltungsvereinbarung · Whistleblower · Hinweisgeberschutz · Verschwiegenheit · Gewissen
+@next 2부 6화 — «Im Hausprojekt»(자치 주택 프로젝트 안에서) — 얀이 오랜 인맥으로 좌파 자치공간에 들어간다. 활동가 넬레는 "우린 저 공격과 무관하다, 누군가 우리 이름을 쓰고 있다"고 말한다.
+
+# 콜드 오픈 — EINE MAIL OHNE WORTE
+MIRA: Jan? Eine Mail. Ohne Text. Nur ein Anhang. Und ein Absender, den ich nicht kenne.
+> 얀? 메일이 왔어. 본문 없이. 첨부파일만. 그리고 모르는 발신자야.
+JAN: Öffne den Anhang nicht. Noch nicht. Wie heißt die Datei?
+> 첨부파일 열지 마. 아직. 파일 이름이 뭐야?
+MIRA: «Fuer_Spreewerk.pdf». Und die Mail kam über einen anonymen Dienst. Nicht zurückzuverfolgen.
+> «Spreewerk를_위하여.pdf». 그리고 익명 서비스를 통해 왔어. 추적이 안 돼.
+JAN: Kann das ein Virus sein?
+> 바이러스일 수 있어?
+MIRA: Ich öffne es auf einem Rechner ohne Netz. Immer so. Gib mir eine Minute.
+> 인터넷 없는 컴퓨터에서 열게. 늘 이렇게 해. 1분만 줘.
+JAN: Und?
+> 그래서?
+MIRA: Kein Virus. Ein Dokument. Zwölf Seiten. Oben steht: «Netzgesellschaft Berlin – Vertraulich – Schwachstellenanalyse Kabelinfrastruktur Ost».
+> 바이러스는 아니야. 문서야. 열두 쪽. 위에 적혀 있어. «베를린 전력망 회사 – 대외비 – 동부 케이블 기반시설 취약 지점 분석».
+JAN: Das ist die Liste. Die Liste, von der Dana gesprochen hat.
+> 그 목록이야. 다나가 말했던 그 목록.
+MIRA: Vielleicht. Aber wir wissen nicht, ob sie echt ist. Oder wer sie geschickt hat. Oder warum.
+> 그럴지도. 근데 진짜인지 몰라. 누가 보냈는지도, 왜 보냈는지도.
+JAN: Helene muss das sehen. Sofort.
+> 헬레네가 봐야 해. 지금 당장.
+
+# 장면 1 — EIN GEFÄHRLICHES DOKUMENT
+HELENE: Niemand öffnet diese Datei auf einem Rechner mit Internet. Niemand leitet sie weiter. Niemand druckt sie.
+> 아무도 이 파일을 인터넷 연결된 컴퓨터에서 열지 마요. 아무한테도 전달하지 말고. 출력도 하지 마요.
+LEON: Ist sie so gefährlich?
+> 그렇게 위험해요?
+KATRIN: Sie kann es sein. Wenn das eine echte Schwachstellenanalyse ist, dann steht darin, wo Berlin verletzlich ist. Welche Brücke, welches Werk, welche Leitung.
+> 그럴 수 있어요. 이게 진짜 취약 지점 분석이라면, 베를린이 어디가 취약한지가 적혀 있는 거예요. 어느 다리, 어느 발전소, 어느 선로인지.
+SWETA: Eine Anleitung für den nächsten Anschlag.
+> 다음 공격을 위한 설명서죠.
+HELENE: Und deshalb veröffentlichen wir kein einziges technisches Detail daraus. Niemals. Egal, wie gut die Geschichte wäre.
+> 그래서 거기서 나온 기술적 세부는 한 글자도 보도하지 않아요. 절대로. 기사가 아무리 좋아도요.
+JAN: Einverstanden. Aber wir dürfen prüfen, was das Dokument über die Verteilung sagt. Wer es bekommen hat.
+> 동의해요. 그래도 이 문서가 배포에 대해 뭐라고 하는지는 확인해도 돼요. 누가 받았는지요.
+MIRA: Auf der letzten Seite ist ein Verteiler. «Dieses Dokument wurde freigegeben für:» Und dann drei externe Dienstleister.
+> 마지막 쪽에 배포처가 있어요. «이 문서는 다음에 공개됨:» 그리고 외부 용역사 세 곳.
+HELENE: Lies die drei.
+> 세 곳 읽어 봐요.
+MIRA: «Wartungspartner Nord GmbH. Ingenieurbüro Glaser. Und Sentinel Hauptstadt GmbH, im Rahmen des Projekts Videoüberwachung.»
+> «바르퉁스파트너 노르트 유한회사. 글라저 엔지니어링 사무소. 그리고 센티넬 하우프트슈타트 유한회사, 영상 감시 프로젝트 범위에서.»
+LEON: Sentinel hat die Liste mit den Schwachstellen bekommen.
+> 센티넬이 취약 지점 목록을 받았어요.
+JAN: Weil sie die Kameras aufhängen sollten. Dafür müssen sie wissen, wo die wichtigen Stellen sind. Das ergibt Sinn.
+> 카메라를 달아야 했으니까. 그러려면 중요한 지점이 어딘지 알아야 하죠. 말은 돼요.
+SWETA: Es ergibt Sinn. Und genau das ist das Problem. Der Dienstleister, der schützen soll, bekommt die Landkarte der Schwächen.
+> 말은 되죠. 그런데 그게 바로 문제예요. 보호해야 할 용역사가 약점 지도를 받는 거잖아요.
+LEON: Was heißt eigentlich KRITIS genau? Ich höre das Wort überall.
+> KRITIS가 정확히 무슨 뜻이에요? 그 말을 여기저기서 듣는데요.
+SWETA: Kritische Infrastruktur. Alles, was eine Gesellschaft zum Leben braucht. Strom, Wasser, Telefon, Krankenhäuser.
+> 핵심 기반시설. 사회가 살아가는 데 꼭 필요한 모든 것. 전기, 물, 전화, 병원.
+KATRIN: Seit 2025 gibt es ein Gesetz dazu. Die Betreiber müssen Risiken analysieren und melden. Genau so eine Analyse haben wir hier.
+> 2025년부터 그에 관한 법이 있어요. 운영사는 위험을 분석하고 신고해야 해요. 지금 우리한테 있는 게 바로 그런 분석이고요.
+LEON: Und warum ist eine Kabelbrücke so wichtig? Es ist doch nur ein Kabel.
+> 근데 케이블 다리가 왜 그렇게 중요해요? 그냥 케이블이잖아요.
+SWETA: Weil ein Kabel ein ganzes Viertel versorgt. Ein Schnitt, und zehntausend Menschen sitzen im Dunkeln. Ohne Panzer, ohne Bombe. Nur mit einem Feuerzeug.
+> 케이블 하나가 동네 전체에 전기를 대니까. 한 번 끊으면 만 명이 어둠 속에 앉게 돼. 탱크도, 폭탄도 없이. 라이터 하나로.
+HELENE: Das ist der Grund, warum diese Liste Gold wert ist. Für die, die schützen wollen. Und für die, die zerstören wollen.
+> 그게 이 목록이 금값인 이유예요. 보호하려는 자들한테도, 파괴하려는 자들한테도.
+> 말은 되죠. 그런데 그게 바로 문제예요. 보호해야 할 용역사가 약점 지도를 받는 거잖아요.
+HELENE: Noch wissen wir nicht, ob das Dokument echt ist. Wir brauchen jemanden, der es bestätigt. Von innen.
+> 아직 이 문서가 진짜인지 몰라요. 확인해 줄 사람이 필요해요. 내부에서.
+MIRA: Auf Seite zwei steht der Name des Verfassers. Geschwärzt. Aber die Dateieigenschaften nicht. «Autor: B. Kuhlmann».
+> 2쪽에 작성자 이름이 있어요. 먹칠돼 있고요. 그런데 파일 속성은 안 그래요. «작성자: B. Kuhlmann».
+JAN: Dann suchen wir B. Kuhlmann. Vorsichtig. Er kann derjenige sein, der uns das geschickt hat. Oder jemand, der in Gefahr ist.
+> 그럼 B. 쿨만을 찾자. 조심해서. 그 사람이 이걸 우리한테 보낸 사람일 수도 있고, 위험에 처한 사람일 수도 있어.
+
+# 장면 2 — WER IST B. KUHLMANN?
+MIRA: Bernd Kuhlmann. Sechsundfünfzig. Ingenieur bei der Netzgesellschaft. Abteilung Anlagensicherheit. Seit vierundzwanzig Jahren.
+> 베른트 쿨만. 쉰여섯. 전력망 회사 엔지니어. 설비 안전 부서. 24년째.
+LEON: Wie hast du das gefunden?
+> 그걸 어떻게 찾았어요?
+MIRA: Ein Fachartikel von 2019. Über Brandschutz an Umspannwerken. Mit Foto. Und ein altes Profil in einem Ingenieursnetzwerk.
+> 2019년 전문 기고문이야. 변전소 화재 방지에 관한. 사진도 있어. 그리고 엔지니어 네트워크의 오래된 프로필도.
+JAN: Steht da eine Kontaktmöglichkeit?
+> 연락처 같은 게 있어?
+MIRA: Keine Telefonnummer. Aber er ist in einem Kleingartenverein in Köpenick. Im Vorstand. «Schriftführer: B. Kuhlmann».
+> 전화번호는 없어. 근데 쾨페닉 텃밭 조합에 있어. 임원이야. «서기: B. 쿨만».
+SWETA: Ein Kleingartenverein. Das ist gut. Dort kann man ihn ansprechen, ohne dass es auffällt.
+> 텃밭 조합이라. 좋네. 거기선 눈에 안 띄게 말을 걸 수 있어.
+HELENE: Aber vorsichtig. Wir wissen nicht, ob er uns das Dokument geschickt hat. Vielleicht hat es jemand anderes getan. Um ihm zu schaden.
+> 그래도 조심해요. 그 사람이 우리한테 문서를 보냈는지 몰라요. 다른 사람이 보냈을 수도 있어요. 그 사람을 해치려고.
+JAN: Deshalb nenne ich das Dokument nicht. Ich sage nur: Ich recherchiere zur Sicherheit der Stromnetze. Ob er reden will, entscheidet er.
+> 그래서 문서 얘기는 안 꺼낼 거예요. 그냥 전력망 안전을 취재하고 있다고만 할게요. 얘기할지는 그 사람이 정하는 거고요.
+LEON: Darf ich mit?
+> 저도 가도 돼요?
+JAN: Nein. Zu zweit wirkt es wie ein Termin. Ich komme allein. Ein Mann, der sich für Kleingärten interessiert.
+> 아니. 둘이면 약속한 것처럼 보여. 혼자 갈게. 텃밭에 관심 있는 남자 한 명으로.
+TOBI: Und ick? Soll ick Fotos machen?
+= Und ich? Soll ich Fotos machen?
+> 그럼 난? 사진 찍을까?
+JAN: Keine Fotos. Nicht bei diesem Mann. Wenn er echt ist, ist er in Gefahr. Ein Foto kann sein Todesurteil sein.
+> 사진은 안 돼. 이 사람은 안 돼. 진짜라면 위험에 처한 사람이야. 사진 한 장이 그 사람을 끝장낼 수 있어.
+SWETA: Jan hat recht. Bei Quellen wie dieser gilt: kein Foto, kein Name, keine Spur. Bis er selbst Ja sagt.
+> 얀 말이 맞아. 이런 취재원한테는 원칙이 있어. 사진도, 이름도, 흔적도 없이. 본인이 좋다고 할 때까지.
+HELENE: Und wie sprichst du ihn an, Jan? Einfach so am Zaun?
+> 그럼 그 사람한테 어떻게 말을 걸어요, 얀? 그냥 울타리 앞에서요?
+JAN: Mit Geduld. Ich frage nach einer Parzelle. Ich lobe seine Bohnen. Ich bin ein Mensch, kein Reporter.
+> 참을성 있게요. 구획 하나 있냐고 물어보고, 그 사람 콩을 칭찬하고. 전 사람이지 기자가 아닌 거예요.
+SWETA: Und wenn er dich wegschickt?
+> 그러다 쫓아내면?
+JAN: Dann gehe ich. Und komme nächste Woche wieder. Quellen brauchen Zeit. Vertrauen kann man nicht kaufen.
+> 그럼 가는 거지. 그리고 다음 주에 다시 와. 취재원한테는 시간이 필요해. 신뢰는 돈으로 못 사.
+LEON: Das steht in keinem Lehrbuch.
+> 그건 어떤 교과서에도 안 나와요.
+JAN: Doch. In einem. Aber das Kapitel liest niemand. Es heißt «Warten».
+> 아니, 하나엔 나와. 근데 그 장은 아무도 안 읽어. 제목이 «기다리기»거든.
+HELENE: Geh. Und, Jan: Wenn du ein schlechtes Gefühl hast, brich ab. Sofort.
+> 가요. 그리고 얀, 느낌이 안 좋으면 그만둬요. 바로.
+> 얀 말이 맞아. 이런 취재원한테는 원칙이 있어. 사진도, 이름도, 흔적도 없이. 본인이 좋다고 할 때까지.
+
+# 장면 3 — AM GARTENZAUN
+KUHLMANN: Wir haben leider keine freien Parzellen. Die Warteliste ist zehn Jahre lang.
+> 아쉽게도 빈 구획이 없어요. 대기자 명단이 10년이에요.
+JAN: Ich suche keine Parzelle, Herr Kuhlmann. Ich bin Journalist. Jan Kowalczyk, Spreewerk.
+> 구획을 찾는 게 아니에요, 쿨만 씨. 전 기자예요. 얀 코발치크, 슈프레베르크.
+KUHLMANN: Journalist. Dann gehen Sie bitte. Ich rede nicht mit der Presse.
+> 기자라고요. 그럼 가 주세요. 전 언론이랑 얘기 안 해요.
+JAN: Ich verstehe das. Ich lasse Ihnen nur meine Karte hier am Zaun. Und ich sage Ihnen, worüber ich recherchiere. Dann gehe ich.
+> 이해해요. 명함만 여기 울타리에 두고 갈게요. 그리고 제가 뭘 취재하는지만 말씀드리고 갈게요.
+KUHLMANN: Worüber?
+> 뭘요?
+JAN: Über die Sicherheit der Stromnetze. Darüber, dass nach dem Januar 2026 viel versprochen wurde. Und wenig passiert ist.
+> 전력망 안전이요. 2026년 1월 뒤에 많은 게 약속됐는데, 별로 안 지켜졌다는 거요.
+KUHLMANN: Da haben Sie recht. Aber das wissen Sie ja schon. Wozu brauchen Sie mich?
+> 그건 맞아요. 근데 그건 이미 아시잖아요. 제가 왜 필요하세요?
+JAN: Weil ich den Unterschied verstehen will. Zwischen dem, was in den Pressemitteilungen steht, und dem, was ein Ingenieur sieht.
+> 차이를 이해하고 싶어서요. 보도자료에 적힌 것과 엔지니어가 실제로 보는 것 사이의 차이요.
+KUHLMANN: Der Unterschied ist groß, Herr Kowalczyk. Sehr groß.
+> 차이는 커요, 코발치크 씨. 아주 커요.
+JAN: Erzählen Sie es mir. Ohne Namen. Wie Sie wollen.
+> 말씀해 주세요. 이름 없이. 원하시는 대로요.
+KUHLMANN: Warum sollte ich einem Fremden am Gartenzaun vertrauen?
+> 울타리 앞의 낯선 사람을 왜 믿어야 하죠?
+JAN: Müssen Sie nicht. Fragen Sie andere nach mir. Fragen Sie die Mieter aus der Gerichtstraße. Oder einen alten Steuerberater namens Brückner.
+> 안 믿으셔도 돼요. 다른 사람들한테 저에 대해 물어보세요. 게리히트슈트라세 세입자들한테요. 아니면 브뤼크너라는 늙은 세무사한테도요.
+KUHLMANN: Brückner? Heinz Brückner? Mit der Kneipe in Wedding?
+> 브뤼크너? 하인츠 브뤼크너요? 베딩 선술집에 다니는?
+JAN: Sie kennen ihn?
+> 그분을 아세요?
+KUHLMANN: Er hat vierzig Jahre meine Steuererklärung gemacht. Der redet nur gut über Menschen, die es verdienen.
+> 40년 동안 제 세금 신고를 해 준 사람이에요. 그 양반은 그럴 만한 사람에 대해서만 좋게 말하죠.
+JAN: Dann rufen Sie ihn an. Ich warte hier. Bei den Tomaten.
+> 그럼 전화해 보세요. 전 여기서 기다릴게요. 토마토 옆에서요.
+KUHLMANN: Die Tomaten sind von Frau Özdemir. Meine sind die Bohnen. Setzen Sie sich. Ich hole uns einen Kaffee.
+> 그 토마토는 외즈데미르 부인 거예요. 제 건 콩이에요. 앉으세요. 커피 가져올게요.
+
+# 장면 4 — WAS KUHLMANN WEISS
+KUHLMANN: Heinz sagt, Sie halten Ihr Wort. Das reicht mir. Aber: unter drei. Zuerst.
+> 하인츠가 그러는데 당신은 약속을 지킨다고요. 그걸로 충분해요. 근데 일단은 unter drei로요.
+JAN: Unter drei. Nichts davon erscheint. Es hilft mir nur zu verstehen.
+> unter drei로요. 아무것도 기사에 안 나가요. 제가 이해하는 데만 도움이 되는 거예요.
+KUHLMANN: Gut. Nach dem Januar 2026 hat der Vorstand gesagt: «Wir machen eine komplette Schwachstellenanalyse. Jede Brücke, jedes Werk.»
+> 좋아요. 2026년 1월 뒤에 이사회가 말했어요. «완전한 취약 지점 분석을 하겠다. 다리마다, 발전소마다.»
+JAN: Und Sie haben sie gemacht.
+> 그걸 쿨만 씨가 하셨고요.
+KUHLMANN: Mein Team und ich. Ein Jahr Arbeit. Jede Lücke, jede alte Leitung, jede Stelle ohne Kamera. Zwölf Seiten. Streng vertraulich.
+> 제 팀이랑 저요. 1년 작업이었죠. 모든 허점, 낡은 선로, 카메라 없는 지점 전부. 열두 쪽. 극비였어요.
+JAN: Und dann?
+> 그다음엔요?
+KUHLMANN: Dann sollte die Analyse geschützt werden. Nur drei Personen im Vorstand sollten sie sehen. So war der Plan.
+> 그다음엔 그 분석이 보호받아야 했어요. 이사회 세 명만 봐야 했죠. 그게 계획이었어요.
+JAN: War es so?
+> 그렇게 됐어요?
+KUHLMANN: Nein. Im Projekt «Videoüberwachung» hieß es plötzlich: Der Dienstleister braucht die Analyse. Sonst weiß er nicht, wo die Kameras hinsollen.
+> 아니요. «영상 감시» 프로젝트에서 갑자기 그러더군요. 용역사가 그 분석이 필요하다고. 안 그러면 카메라를 어디 달지 모른다고.
+JAN: Das klingt logisch.
+> 그럴듯하게 들리는데요.
+KUHLMANN: Zu logisch. Ich habe gesagt: Dann gebt dem Dienstleister nur die Standorte für die Kameras. Nicht die ganze Analyse mit allen Schwächen.
+> 너무 그럴듯하죠. 제가 그랬어요. 그럼 용역사한텐 카메라 설치 지점만 줘라. 모든 약점이 든 분석 전체가 아니라.
+JAN: Und?
+> 그래서요?
+KUHLMANN: Und man hat mir gesagt: «Herr Kuhlmann, das ist eine Entscheidung von oben. Der Partner ist geprüft. Mischen Sie sich nicht ein.»
+> 그랬더니 이러더군요. «쿨만 씨, 이건 위에서 내린 결정이에요. 그 파트너는 검증됐어요. 끼어들지 마세요.»
+JAN: Der Partner. Welcher Partner?
+> 그 파트너. 어떤 파트너요?
+KUHLMANN: Drei haben die Analyse bekommen. Zwei kenne ich seit Jahren. Seriöse Ingenieure. Der dritte war neu. Eine Sicherheitsfirma.
+> 세 곳이 분석을 받았어요. 둘은 몇 년째 아는 데예요. 믿을 만한 엔지니어들이죠. 세 번째는 처음이었어요. 보안 업체요.
+JAN: Sentinel.
+> 센티넬.
+KUHLMANN: Sie wissen es also schon. Dann sage ich es laut: Ja. Sentinel.
+> 벌써 아시는군요. 그럼 소리 내어 말할게요. 네. 센티넬이요.
+JAN: Herr Kuhlmann, hat Sentinel die ganze Analyse bekommen? Oder nur die Standorte?
+> 쿨만 씨, 센티넬이 분석 전체를 받았어요? 아니면 설치 지점만요?
+KUHLMANN: Die ganze. Zwölf Seiten. Ich habe gegen die Freigabe geschrieben. Schriftlich. Mit Datum. Man hat es ignoriert.
+> 전체요. 열두 쪽. 전 공개에 반대한다고 썼어요. 서면으로. 날짜까지 넣어서요. 무시당했죠.
+JAN: Haben Sie diese E-Mail noch?
+> 그 이메일 아직 갖고 계세요?
+KUHLMANN: Ich habe alles. Ich bin Ingenieur. Wir dokumentieren.
+> 전부 갖고 있어요. 전 엔지니어예요. 우린 기록하거든요.
+JAN: Herr Kuhlmann, eine Frage noch. Wer hat die Freigabe für Sentinel unterschrieben?
+> 쿨만 씨, 질문 하나만 더요. 센티넬 공개를 누가 결재했어요?
+KUHLMANN: Das weiß ich nicht genau. Die Freigabe kam aus dem Projektbüro. Unterschrift unleserlich. «Im Auftrag».
+> 정확히는 몰라요. 결재는 프로젝트 사무실에서 왔어요. 서명은 알아볼 수 없고요. «위임에 따라».
+JAN: «Im Auftrag». Das habe ich schon einmal gehört. Bei einer anderen Geschichte.
+> «위임에 따라». 그 말 전에 들어 봤어요. 다른 기사에서요.
+KUHLMANN: Aber es gab eine Besprechung. Externe Berater waren da. Einer hat besonders viel geredet. Über «Resilienz» und «Marktlösungen».
+> 근데 회의가 있었어요. 외부 자문가들이 왔죠. 한 명이 유독 말을 많이 했어요. «회복력»이랑 «시장형 해법»에 대해서요.
+JAN: Erinnern Sie sich an einen Namen?
+> 이름 기억나세요?
+KUHLMANN: Ein junger Mann. Teurer Anzug. Er hat eine Visitenkarte verteilt. Ich habe sie noch irgendwo. In meiner Schublade mit den wichtigen Dingen.
+> 젊은 남자였어요. 비싼 양복. 명함을 돌렸죠. 어딘가 아직 있어요. 중요한 것들 넣어 둔 서랍에.
+JAN: Könnten Sie nachsehen? Es wäre sehr wichtig.
+> 찾아봐 주실 수 있어요? 아주 중요할 거예요.
+KUHLMANN: Später. Nicht jetzt. Mein Nachbar hört mit. Herr Pietsch. Der erzählt alles weiter.
+> 나중에요. 지금은 안 돼요. 옆집 사람이 엿듣거든요. 피치 씨. 그 양반은 뭐든 다 퍼뜨려요.
+JAN: Ich verstehe. Ein Kleingartenverein ist wie ein Dorf.
+> 이해해요. 텃밭 조합은 마을 같죠.
+KUHLMANN: Schlimmer. Ein Dorf mit Zaun und Vorschriften.
+> 더해요. 울타리랑 규칙까지 있는 마을이죠.
+> 전부 갖고 있어요. 전 엔지니어예요. 우린 기록하거든요.
+
+# 장면 5 — GEWISSEN UND GESETZ
+KUHLMANN: Darf ich Sie etwas fragen, Herr Kowalczyk?
+> 하나 여쭤봐도 될까요, 코발치크 씨?
+JAN: Natürlich.
+> 물론이죠.
+KUHLMANN: Wenn ich Ihnen etwas gebe. Dokumente. Mache ich mich strafbar? Ich habe eine Geheimhaltungsvereinbarung unterschrieben.
+> 제가 뭔가를 드리면요. 문서를요. 저 처벌받나요? 비밀 유지 계약서에 서명했거든요.
+JAN: Das kann ich nicht allein beantworten. Aber ich habe eine Anwältin. Sie kennt sich mit dem Hinweisgeberschutzgesetz aus. Darf ich sie fragen?
+> 그건 저 혼자 답할 수 없어요. 그런데 저희한테 변호사가 있어요. 내부고발자보호법을 잘 알아요. 물어봐도 될까요?
+KUHLMANN: Ohne meinen Namen.
+> 제 이름 없이요.
+JAN: Ohne Ihren Namen. Ich sage nur: ein Ingenieur, eine Schwachstellenanalyse, eine Geheimhaltung.
+> 이름 없이요. 그냥 엔지니어 한 명, 취약 지점 분석, 비밀 유지, 이렇게만요.
+KUHLMANN: Rufen Sie an. Jetzt.
+> 전화하세요. 지금.
+JAN: Katrin? Ich habe eine Frage. Hypothetisch. Ein Angestellter deckt auf, dass sicherheitsrelevante Dokumente an einen privaten Dienstleister gegeben wurden, gegen interne Regeln. Er hat eine Geheimhaltungsvereinbarung. Ist er geschützt?
+> 카트린? 질문이 있어. 가정이야. 한 직원이, 보안 관련 문서가 내부 규정을 어기고 민간 용역사에 넘어갔다는 걸 폭로해. 그 사람은 비밀 유지 계약서를 썼어. 보호받아?
+KATRIN: Das Hinweisgeberschutzgesetz schützt ihn, wenn er einen Rechtsverstoß oder eine ernste Gefahr für die öffentliche Sicherheit meldet. Und wenn er den richtigen Weg geht.
+> 내부고발자보호법은 그 사람이 법 위반이나 공공 안전에 대한 심각한 위험을 신고하면 보호해 줘. 그리고 올바른 경로를 거치면.
+JAN: Was ist der richtige Weg?
+> 올바른 경로가 뭔데?
+KATRIN: Zuerst intern melden. Hat er das getan?
+> 먼저 내부에 신고하는 거야. 그 사람 그렇게 했어?
+JAN: Ja. Schriftlich. Es wurde ignoriert.
+> 응. 서면으로. 무시당했어.
+KATRIN: Dann darf er sich an eine externe Meldestelle wenden. Oder, wenn das öffentliche Interesse überwiegt und intern nichts passiert, auch an die Presse. Aber: keine technischen Details, die neue Gefahren schaffen.
+> 그럼 외부 신고 기관에 갈 수 있어. 아니면 공익이 더 크고 내부에서 아무 일도 안 일어나면 언론에도 올 수 있고. 단, 새로운 위험을 만드는 기술적 세부는 안 돼.
+JAN: Keine technischen Details. Das ist auch unsere Regel.
+> 기술적 세부는 안 된다. 그건 우리 원칙이기도 해.
+KATRIN: Dann sagen Sie dem Ingenieur: Er soll nichts überstürzen. Er soll mit mir reden, bevor er etwas gibt. Kostenlos, vertraulich.
+> 그럼 그 엔지니어한테 전하세요. 서두르지 말라고. 뭔가 주기 전에 저랑 먼저 얘기하라고요. 무료로, 비밀로.
+KUHLMANN: Sie hat «kostenlos» gesagt?
+> «무료»라고 했어요?
+JAN: Sie macht das. Bei Menschen, die es verdienen.
+> 그렇게 해요. 그럴 만한 사람들한테는요.
+KUHLMANN: Wie Heinz. Gut. Ich treffe Ihre Anwältin. Und dann entscheide ich, was ich Ihnen gebe.
+> 하인츠처럼요. 좋아요. 당신 변호사를 만날게요. 그다음에 뭘 드릴지 정하죠.
+JAN: Das ist mehr, als ich erhofft habe. Danke.
+> 기대했던 것보다 많네요. 감사합니다.
+KUHLMANN: Danken Sie mir nicht. Ich mache das nicht für Sie. Ich mache es, weil im Januar fast Menschen gestorben wären. In den Pflegeheimen.
+> 고마워하지 마세요. 당신을 위해 하는 게 아니에요. 1월에 사람들이 죽을 뻔했으니까 하는 거예요. 요양원에서요.
+
+# 엔딩 — DREI NAMEN, EINE FRAGE
+HELENE: Also hat Kuhlmann es bestätigt. Sentinel hat die ganze Analyse bekommen. Gegen den Rat des Fachmanns.
+> 그러니까 쿨만이 확인해 준 거네요. 센티넬이 분석 전체를 받았다. 전문가의 조언을 무시하고.
+JAN: Bestätigt. Und er hat Beweise. Seine eigene Warn-Mail. Mit Datum.
+> 확인했어요. 그리고 증거도 있어요. 자기가 보낸 경고 메일. 날짜까지.
+MIRA: Damit haben wir eine Geschichte. Nicht über den Anschlag. Über das Versagen davor.
+> 그걸로 기사가 돼요. 공격에 대한 게 아니라. 그 전의 실패에 대한.
+SWETA: «Wer schützen sollte, bekam die Landkarte der Schwächen.»
+> «보호해야 할 자가 약점 지도를 받았다.»
+LEON: Aber wer hat uns das Dokument geschickt? Kuhlmann sagt, er war es nicht?
+> 근데 문서는 누가 우리한테 보냈어요? 쿨만은 자기가 아니라는데요?
+JAN: Er sagt, er war es nicht. Und ich glaube ihm. Er ist zu vorsichtig. Er hätte zuerst mit einer Anwältin geredet.
+> 자기가 아니라고 하고, 난 믿어. 그 사람은 너무 신중해. 변호사부터 찾았을 거야.
+HELENE: Dann hat jemand anderes das Dokument. Und wollte, dass wir es haben.
+> 그럼 다른 사람이 그 문서를 갖고 있다는 거네요. 그리고 우리가 갖길 바랐고요.
+MIRA: Der Spatz?
+> 참새?
+JAN: Vielleicht. Aber der Spatz schreibt über Signal. Diese Mail kam anders. Über einen anderen Dienst.
+> 그럴지도. 근데 참새는 시그널로 써. 이 메일은 다르게 왔어. 다른 서비스로.
+SWETA: Zwei Quellen. Oder eine Quelle, die vorsichtig ist und zwei Wege nutzt.
+> 취재원이 둘이거나. 아니면 신중해서 두 경로를 쓰는 한 명이거나.
+HELENE: Oder jemand, der uns benutzen will. Vergesst das nie.
+> 아니면 우릴 이용하려는 누군가거나. 그건 절대 잊지 마요.
+JAN: Mira, prüf eine Sache. Die drei Dienstleister. Wartungspartner Nord, Ingenieurbüro Glaser, Sentinel. Wer von ihnen hat Verbindung zu einem der Anschläge?
+> 미라, 한 가지만 확인해 줘. 용역사 세 곳. 바르퉁스파트너 노르트, 글라저 사무소, 센티넬. 그중에 공격 중 하나랑 연결되는 데가 있어?
+MIRA: Ich habe schon geschaut. Wartungspartner Nord und Glaser arbeiten im Westen und Süden. Nur Sentinel arbeitet auch im Osten. In Marzahn. Und in Spandau.
+> 벌써 봤어. 바르퉁스파트너 노르트랑 글라저는 서부랑 남부에서 일해. 동부에서도 일하는 건 센티넬뿐이야. 마르찬에서. 그리고 슈판다우에서.
+JAN: Spandau. Wo Tobi die drei leeren Halterungen gefunden hat.
+> 슈판다우. 토비가 빈 거치대 세 개를 찾은 곳.
+MIRA: Und noch etwas. Ich habe die Verträge von Wartungspartner Nord und Glaser geprüft. Beide haben in ihren Verträgen eine Löschklausel.
+> 그리고 하나 더. 바르퉁스파트너 노르트랑 글라저 계약을 확인했어. 둘 다 계약서에 삭제 조항이 있어.
+LEON: Eine Löschklausel?
+> 삭제 조항이요?
+MIRA: «Der Dienstleister löscht die Analyse nach Projektende und bestätigt dies schriftlich.» Normal. Vernünftig.
+> «용역사는 프로젝트 종료 후 분석을 삭제하고 이를 서면으로 확인한다.» 평범하고, 합리적이지.
+JAN: Und bei Sentinel?
+> 그럼 센티넬은?
+MIRA: Keine Löschklausel. Das Projekt läuft noch. Also hat Sentinel die Analyse bis heute. Ganz legal.
+> 삭제 조항이 없어. 프로젝트가 아직 진행 중이니까. 그러니까 센티넬은 지금도 그 분석을 갖고 있어. 완전히 합법으로.
+SWETA: Solange sie die Kameras nicht fertig aufhängen, dürfen sie die Schwachstellenliste behalten.
+> 카메라를 다 안 다는 한, 그 취약 지점 목록을 계속 가질 수 있는 거네.
+TOBI: Also je langsamer se bauen, desto länger ham se die Liste.
+= Also je langsamer sie bauen, desto länger haben sie die Liste.
+> 그러니까 공사를 느리게 할수록 그 목록을 더 오래 갖는 거잖아.
+HELENE: Das ist ein Anreiz in die falsche Richtung. Und es ist ein Satz für den Artikel. Mira, kannst du das belegen?
+> 그건 잘못된 방향의 유인이네요. 그리고 기사에 들어갈 문장이고요. 미라, 그거 증빙할 수 있어요?
+MIRA: Mit den Verträgen selbst. Die sind über die Vergabeplattform teils öffentlich. Ich schwärze die Details.
+> 계약서 자체로요. 조달 플랫폼에서 일부는 공개돼 있어요. 세부는 제가 먹칠할게요.
+> 슈판다우. 토비가 빈 거치대 세 개를 찾은 곳.
+TOBI: Und wo nächste Woche 'n Volksfest is. Mit 'nem jroßen Stromnetz. Hab ick heut im Radio jehört.
+= Und wo nächste Woche ein Volksfest ist. Mit einem großen Stromnetz. Habe ich heute im Radio gehört.
+> 그리고 다음 주에 큰 축제가 있는 곳. 전력망을 많이 쓰는. 오늘 라디오에서 들었어.
+JAN: Ein Volksfest in Spandau. Mit vielen Menschen. Und drei Kabelbrücken ohne Kamera.
+> 슈판다우의 축제. 사람이 많은. 그리고 카메라 없는 케이블 다리 세 곳.
+HELENE: Tobi, das ist eine Vermutung. Wir warnen keine Stadt wegen eines Gefühls.
+> 토비, 그건 추측이에요. 느낌 하나로 도시 전체에 경고하진 않아요.
+TOBI: Ick warne nich die Stadt. Ick sag's nur euch. Und vielleicht einer Kommissarin, die donnerstags Currywurst isst.
+= Ich warne nicht die Stadt. Ich sage es nur euch. Und vielleicht einer Kommissarin, die donnerstags Currywurst isst.
+> 도시한테 경고하는 거 아니야. 너희한테만 말하는 거지. 그리고 어쩌면 목요일마다 커리부어스트 먹는 수사관한테도.
+JAN: Das ist keine schlechte Idee. Nicht als Geschichte. Als Hinweis. Menschen zuerst.
+> 나쁜 생각이 아니야. 기삿거리가 아니라 제보로. 사람이 먼저지.
+HELENE: Das ist die Grenze, über die wir immer reden. Wann sind wir Journalisten, und wann sind wir einfach Menschen?
+> 그게 우리가 늘 얘기하는 경계예요. 언제 우리가 기자이고, 언제 그냥 사람인가.
+SWETA: Wenn Leben in Gefahr ist, sind wir zuerst Menschen. Immer.
+> 생명이 위험할 땐 우린 먼저 사람이에요. 언제나.
+HELENE: Dann ruf Dana an, Jan. Nicht für einen Artikel. Für Spandau.
+> 그럼 다나한테 전화해요, 얀. 기사 때문이 아니라. 슈판다우를 위해서.
+> 슈판다우의 축제. 사람이 많은. 그리고 카메라 없는 케이블 다리 세 곳.
