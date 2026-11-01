@@ -1,0 +1,337 @@
+@part 2
+@ep 9
+@title Der Hack
+@sub 해킹 · 6월 셋째 주, 유출된 메일과 '구원자'처럼 나타난 보안 전문가
+@info 대사 150턴 · 난이도 B2 · 배경: 2-8화 다음 날부터 며칠(2027년 6월), Spreewerk 편집국, 선술집, 편집국 기술실
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast PATRICK | 파트리크 벤트 (39) · 외부 IT 보안 전문가
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진기자
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인
+@note ※ 취재원 보호는 기자의 가장 중요한 의무 중 하나입니다. 서버가 공격받으면 어떤 데이터가 유출됐는지, 취재원이 노출됐는지 먼저 확인해야 합니다. 외부 전문가를 들일 때도 그 사람 자체를 검증해야 합니다. 이 화에서 파트리크 벤트는 '너무 빨리, 너무 잘 맞는' 구원자로 등장합니다(4부 첩자 복선).
+@note ※ 표현 초점: Datenleck · Forensik · Zugangsdaten · Phishing · Backdoor · Protokoll · Vertraulichkeit · zu gut, um wahr zu sein
+@next 2부 10화 — «Spandau, Donnerstag»(슈판다우, 목요일) — 미라가 얻은 정보로 공격 예정일을 알게 된다. 경찰에 알릴 것인가, 증거를 더 모을 것인가. 팀은 생명이 먼저라며 다나에게 알린다. 그런데 현장은 비어 있다. 정보가 샜다.
+
+# 콜드 오픈 — WAS FEHLT
+MIRA: Ich habe die ganze Nacht die Logs gelesen. Und ich habe schlechte Nachrichten.
+> 밤새 로그를 읽었어요. 그리고 나쁜 소식이 있어요.
+HELENE: Sag.
+> 말해요.
+MIRA: Der Angriff war kein Zufallstreffer. Sie wussten, wo sie suchen. Sie sind direkt zum Mailserver gegangen.
+> 그 공격은 무작위가 아니었어요. 어디를 뒤질지 알고 있었어요. 곧장 메일 서버로 갔어요.
+JAN: Haben sie Mails bekommen?
+> 메일을 가져갔어?
+MIRA: Ein Teil. Aus einem alten Postfach. Nicht die aktuellen Recherchen. Aber Mails von vor zwei Jahren.
+> 일부요. 오래된 사서함에서. 최근 취재는 아니에요. 근데 2년 전 메일들이요.
+SWETA: Was steht in zwei Jahre alten Mails?
+> 2년 된 메일엔 뭐가 있는데?
+MIRA: Terminabsprachen. Rechnungen. Und… einige Kontakte. Keine Klarnamen von geschützten Quellen. Aber E-Mail-Adressen von Menschen, mit denen wir geredet haben.
+> 일정 조율. 청구서. 그리고… 연락처 일부요. 보호 취재원의 실명은 없어요. 근데 우리가 얘기한 사람들의 이메일 주소가 있어요.
+HELENE: Das ist ein Schaden. Aber kein Desaster.
+> 손해긴 하죠. 근데 재앙은 아니에요.
+MIRA: Das Problem ist nicht, was sie haben. Das Problem ist, dass ich nicht sicher sagen kann, was sie nicht haben.
+> 문제는 그들이 뭘 가졌느냐가 아니에요. 문제는 그들이 뭘 안 가졌는지 제가 확실히 말할 수 없다는 거예요.
+JAN: Deshalb der Experte.
+> 그래서 전문가가 필요한 거지.
+MIRA: Deshalb der Experte. Den ich nicht mag. Aber brauche.
+> 그래서 전문가가 필요해요. 내키진 않지만. 필요하니까.
+LEON: Warum magst du ihn nicht? Du kennst ihn doch noch gar nicht.
+> 왜 안 내켜요? 아직 그 사람을 알지도 못하잖아요.
+MIRA: Genau deshalb. Jemand von außen in unseren Systemen ist wie ein Fremder in deiner Wohnung. Egal, wie nett er ist.
+> 바로 그래서요. 외부 사람이 우리 시스템에 들어오는 건 낯선 사람이 내 집에 들어오는 거랑 같아요. 아무리 친절해도요.
+JAN: Aber wir haben keine Wahl.
+> 근데 선택의 여지가 없잖아.
+MIRA: Wir haben eine Wahl: Wie viel wir ihm zeigen. Und wie genau wir hinsehen.
+> 선택의 여지가 있어요. 그 사람한테 얼마나 보여 줄지. 그리고 얼마나 자세히 지켜볼지.
+HELENE: Dann ist die Entscheidung: Wir holen ihn. Und wir behandeln ihn wie jede neue Quelle. Mit Respekt und mit Misstrauen.
+> 그럼 결정은 이거예요. 그를 데려온다. 그리고 모든 새 취재원처럼 대한다. 존중과 불신으로.
+SWETA: Respekt und Misstrauen. Das ist fast eine Definition unseres Berufs.
+> 존중과 불신. 그건 거의 우리 직업의 정의네요.
+
+# 장면 1 — PATRICK WENDT
+PATRICK: Guten Morgen. Patrick Wendt. Ich bin hier wegen des Vorfalls. Wo ist Ihr Serverraum?
+> 안녕하세요. 파트리크 벤트입니다. 사고 때문에 왔어요. 서버실이 어디죠?
+HELENE: Erst setzen wir uns. Kaffee? Und dann erzählen Sie uns, wer Sie sind.
+> 먼저 앉죠. 커피? 그리고 당신이 누군지 말씀해 주세요.
+PATRICK: Natürlich. Ich war acht Jahre bei einer großen Sicherheitsfirma. Dann selbstständig. Ich helfe Redaktionen, NGOs, kleinen Firmen. Nach Angriffen.
+> 물론이죠. 큰 보안 회사에서 8년 있었어요. 그다음엔 독립했고요. 편집국, NGO, 작은 회사들을 도와요. 공격 뒤에요.
+JAN: Wer hat Sie uns empfohlen?
+> 누가 당신을 우리한테 추천했어요?
+PATRICK: Das darf ich nicht sagen. Vertraulichkeit. Aber jemand aus Ihrem Umfeld. Mit gutem Ruf, nehme ich an.
+> 그건 말씀드릴 수 없어요. 비밀 유지죠. 근데 당신들 주변의 누군가예요. 평판 좋은 사람이겠죠.
+MIRA: Ich bin Mira. Ich mache die IT hier. Ich habe schon eine erste Analyse gemacht.
+> 전 미라예요. 여기 IT 담당이에요. 1차 분석은 이미 했어요.
+PATRICK: Gut. Dann sind wir schnell. Darf ich sehen?
+> 좋아요. 그럼 빨리 끝나겠네요. 봐도 될까요?
+MIRA: Gleich. Zuerst eine Frage: Wie würden Sie so einen Angriff untersuchen?
+> 곧요. 먼저 질문 하나요. 이런 공격을 어떻게 조사하시겠어요?
+PATRICK: Image von allen Servern ziehen. Logs sichern. Dann in einer isolierten Umgebung analysieren. Nichts am Original verändern.
+> 모든 서버 이미지를 뜨고. 로그를 보존하고. 그다음에 격리된 환경에서 분석해요. 원본은 아무것도 바꾸지 않고요.
+MIRA: Richtige Antwort.
+> 맞는 답이에요.
+PATRICK: Es ist die einzige Antwort. Forensik ist Handwerk, kein Zauber.
+> 그게 유일한 답이에요. 포렌식은 수공예지 마법이 아니에요.
+HELENE: Und Ihre Vertraulichkeit? Sie werden hier Dinge sehen. Recherchen. Namen.
+> 그럼 비밀 유지는요? 여기서 이것저것 보게 될 거예요. 취재. 이름들.
+PATRICK: Ich sehe nur die Technik. Nicht die Inhalte. Und ich unterschreibe alles, was Sie wollen. Jede Vereinbarung.
+> 전 기술만 봐요. 내용은 안 보고요. 그리고 원하시는 건 뭐든 서명해요. 어떤 계약서든.
+KATRIN: Das werden Sie. Ich habe eine Vereinbarung vorbereitet. Streng. Sehr streng.
+> 그렇게 하셔야 할 거예요. 제가 계약서를 준비했어요. 엄격한. 아주 엄격한.
+PATRICK: Je strenger, desto lieber. Dann vertrauen Sie mir schneller.
+> 엄격할수록 좋아요. 그래야 저를 더 빨리 믿으실 테니까요.
+JAN: Eine Frage noch, Herr Wendt. Wie viel kostet uns das?
+> 질문 하나 더요, 벤트 씨. 비용이 얼마나 들어요?
+PATRICK: Für eine Redaktion wie Ihre? Einen symbolischen Betrag. Pressefreiheit ist mir wichtig.
+> 당신들 같은 편집국이라면? 상징적인 금액만요. 언론 자유는 제게 중요하니까요.
+MIRA: Ein günstiger Experte. Das ist ungewöhnlich.
+> 저렴한 전문가라. 흔치 않은데요.
+PATRICK: Ich habe größere Kunden, die gut zahlen. Banken, Konzerne. Bei Redaktionen mache ich einen Freundschaftspreis.
+> 돈 잘 내는 큰 고객이 있어요. 은행, 대기업. 편집국엔 우정 가격으로 해 드려요.
+JAN: Konzerne. Welche, wenn ich fragen darf?
+> 대기업. 여쭤봐도 된다면, 어디요?
+PATRICK: Das darf ich nicht sagen. Vertraulichkeit. Das verstehen Sie als Journalisten doch am besten.
+> 그건 말씀드릴 수 없어요. 비밀 유지. 기자시니까 제일 잘 이해하시겠죠.
+JAN: Das verstehen wir. Und wir fragen trotzdem. Das ist unser Beruf.
+> 이해해요. 그래도 물어보죠. 그게 우리 일이니까요.
+PATRICK: Ein fairer Punkt. Aber meine Antwort bleibt dieselbe.
+> 맞는 지적이에요. 근데 제 답은 똑같아요.
+
+# 장면 2 — ZU GUT, UM WAHR ZU SEIN
+MIRA: Jan, kurz unter vier Augen.
+> 얀, 잠깐 둘이서.
+JAN: Was ist?
+> 무슨 일이야?
+MIRA: Er ist gut. Zu gut. Jede Antwort perfekt. Jede Geste richtig. Er hat sogar meine Analyse gelobt. An der richtigen Stelle.
+> 이 사람 잘해요. 너무 잘해요. 대답마다 완벽하고. 몸짓마다 정확해요. 심지어 제 분석도 칭찬했어요. 딱 맞는 대목에서요.
+JAN: Ist das nicht gut? Wir wollen jemanden, der gut ist.
+> 그게 좋은 거 아니야? 우린 실력 있는 사람을 원하잖아.
+MIRA: Doch. Aber «zu gut, um wahr zu sein» ist ein Warnsignal. Du hast es mir beigebracht.
+> 맞아요. 근데 «사실이라기엔 너무 좋다»는 건 경고 신호예요. 얀이 가르쳐 줬잖아요.
+JAN: Das habe ich. Also, was schlägst du vor?
+> 그랬지. 그래서 뭘 제안하는데?
+MIRA: Wir lassen ihn arbeiten. Aber wir geben ihm nur Zugang zu einem Teilsystem. Nicht zu allem. Und ich schaue ihm über die Schulter. Die ganze Zeit.
+> 일하게 두되, 일부 시스템만 접근을 줘요. 전부는 말고요. 그리고 제가 어깨너머로 봐요. 내내.
+JAN: Und wir prüfen ihn. Wer ist Patrick Wendt wirklich?
+> 그리고 우리가 그 사람을 검증하자. 파트리크 벤트가 진짜 누구인지.
+MIRA: Genau. Ich recherchiere ihn. Wie eine Quelle. Wie einen Verdächtigen.
+> 바로 그거예요. 제가 그 사람을 취재할게요. 취재원처럼. 용의자처럼.
+JAN: Gegenrecherche gegen den eigenen Helfer.
+> 우리 조력자를 상대로 하는 반대 취재.
+MIRA: Besonders gegen den eigenen Helfer. Die gefährlichste Tür ist die, die man selbst aufmacht.
+> 특히 우리 조력자를 상대로요. 제일 위험한 문은 자기가 직접 여는 문이에요.
+JAN: Sag es Helene. Aber vorsichtig. Es ist ihre Empfehlung.
+> 헬레네한테 말해. 근데 조심해서. 그 사람 추천한 게 헬레네니까.
+MIRA: Deshalb sage ich es ihr. Gerade deshalb. Niemand soll sich ausgenommen fühlen. Auch die Chefin nicht.
+> 그래서 말하는 거예요. 바로 그래서요. 누구도 예외라고 느끼면 안 돼요. 편집장도요.
+JAN: Und wenn Helene beleidigt ist?
+> 그럼 헬레네가 기분 나빠하면?
+MIRA: Helene ist nie beleidigt, wenn man gründlich arbeitet. Sie ist nur beleidigt, wenn man faul ist.
+> 헬레네는 철저하게 일하는 걸론 절대 기분 나빠하지 않아요. 게으른 것에만 기분 나빠하죠.
+JAN: Da hast du sie gut verstanden.
+> 그 사람을 잘 이해했네.
+MIRA: In fünf Jahren lernt man seine Chefin kennen. Und, Jan: Ich prüfe auch dich. Falls du dich fragst.
+> 5년이면 편집장을 알게 돼요. 그리고 얀, 당신도 검증해요. 혹시 궁금해할까 봐.
+JAN: Mich?
+> 나를?
+MIRA: Du hast einen blinden Fleck. Thal. Marek. Wenn es um ihn geht, bist du nicht objektiv. Das weißt du.
+> 당신한텐 사각지대가 있어요. 탈. 마렉. 그 사람 얘기가 나오면 객관적이지 못해요. 알잖아요.
+JAN: Ich weiß. Deshalb prüft Helene jeden Satz über Thal. Und jetzt prüfst du mich. Gut. So soll es sein.
+> 알아. 그래서 헬레네가 탈에 관한 문장을 전부 검토하지. 그리고 이제 네가 날 검증하고. 좋아. 그래야 해.
+
+# 장면 3 — DIE REGEL FÜR ALLE
+HELENE: Du willst den Mann prüfen, den ich empfohlen habe. Mich eingeschlossen.
+> 내가 추천한 사람을 검증하겠다는 거죠. 나까지 포함해서요.
+MIRA: Ja. Und ich sage es dir offen. Das ist der einzige Weg, wie ich arbeiten kann.
+> 네. 그리고 솔직하게 말하는 거예요. 그래야만 제가 일할 수 있어요.
+HELENE: Du hast recht. Es wäre falsch, eine Ausnahme zu machen. Für mich.
+> 당신 말이 맞아요. 예외를 두는 건 틀린 거예요. 나한테라도요.
+JAN: Das ist, warum Spreewerk funktioniert. Niemand ist über der Prüfung. Nicht mal die, die die Regeln macht.
+> 그래서 슈프레베르크가 굴러가는 거예요. 누구도 검증 위에 있지 않아요. 규칙을 만드는 사람조차도.
+HELENE: Dann prüft ihn. Gründlich. Wenn er sauber ist, haben wir einen guten Experten. Wenn nicht, haben wir ein großes Problem früh erkannt.
+> 그럼 검증해요. 철저하게. 깨끗하면 좋은 전문가를 얻는 거고. 아니면 큰 문제를 일찍 발견한 거죠.
+SWETA: Und wie prüfen wir einen IT-Experten? Die verstecken ihre Spuren besser als andere.
+> 그럼 IT 전문가를 어떻게 검증해요? 그 사람들은 흔적을 남들보다 잘 숨기잖아요.
+MIRA: Genau deshalb schaue ich nicht auf seine digitale Seite. Da ist er perfekt. Ich schaue auf die analoge.
+> 바로 그래서 디지털 쪽은 안 봐요. 거긴 완벽하니까요. 전 아날로그 쪽을 봐요.
+LEON: Die analoge Seite?
+> 아날로그 쪽이요?
+MIRA: Wo hat er studiert? Wo hat er gewohnt? Wer kennt ihn aus der Zeit, bevor er «der perfekte Experte» war? Menschen lügen online. Offline haben sie eine Vergangenheit.
+> 어디서 공부했나? 어디서 살았나? «완벽한 전문가»가 되기 전 시절부터 그를 아는 사람이 누구인가? 사람은 온라인에선 거짓말해요. 오프라인엔 과거가 있죠.
+JAN: Das ist clever. Leon, du hilfst Mira. Zwei recherchieren schneller.
+> 영리하네. 레온, 미라를 도와. 둘이면 더 빨라.
+LEON: Und Patrick? Merkt er, dass wir ihn prüfen?
+> 그럼 파트리크는요? 우리가 검증하는 걸 눈치챌까요?
+MIRA: Nicht, wenn wir vorsichtig sind. Und wenn doch — ein unschuldiger Mensch versteht, dass eine Redaktion vorsichtig ist. Nach einem Hack.
+> 우리가 조심하면 몰라요. 그리고 설령 눈치채도, 결백한 사람이라면 편집국이 조심하는 걸 이해해요. 해킹당한 뒤니까요.
+HELENE: Eine Sache noch. Wir behandeln ihn fair. Auch wenn wir misstrauisch sind. Kein Mensch wird bei uns vorverurteilt. Nicht mal ein Verdächtiger.
+> 하나 더요. 그를 공정하게 대해요. 의심스러워도요. 우리한텐 누구도 미리 유죄가 되지 않아요. 용의자조차도요.
+MIRA: Einverstanden. Misstrauen ja. Unfairness nein.
+> 동의해요. 불신은 돼요. 불공정은 안 되고요.
+SWETA: Das ist der schmale Grat. Wir müssen ihn beobachten, ohne ihn zu verurteilen. Beweise, nicht Gefühle.
+> 그게 아슬아슬한 선이에요. 그를 재단하지 않으면서 관찰해야 해요. 증거지, 감정이 아니라.
+JAN: Beweise, nicht Gefühle. Wenn wir das auf einen Stein schreiben, ist es das Spreewerk-Motto.
+> 증거지 감정이 아니다. 그걸 돌에 새기면 그게 슈프레베르크 좌우명이네요.
+TOBI: Und wenn er nich unschuldig is?
+= Und wenn er nicht unschuldig ist?
+> 그럼 결백하지 않으면?
+MIRA: Dann ist er gewarnt. Deshalb zeigen wir ihm nichts Wichtiges. Bis wir sicher sind.
+> 그럼 경계하게 되죠. 그래서 중요한 건 아무것도 안 보여 줘요. 확신할 때까지.
+
+# 장면 4 — PATRICK FINDET ETWAS
+PATRICK: Ich habe etwas. Kommen Sie alle. Das sollten Sie sehen.
+> 뭔가 찾았어요. 다들 오세요. 이건 보셔야 해요.
+HELENE: Was?
+> 뭔데요?
+PATRICK: Der Angriff kam über eine Phishing-Mail. Jemand hat vor drei Wochen auf einen Link geklickt. Von einem Ihrer Rechner.
+> 공격은 피싱 메일로 들어왔어요. 3주 전에 누군가 링크를 눌렀어요. 여기 컴퓨터 한 대에서요.
+JAN: Welcher Rechner?
+> 어느 컴퓨터요?
+PATRICK: Der im Besprechungsraum. Der, den alle benutzen. Die Mail sah aus wie eine Rechnung. «Büromaterial».
+> 회의실 거요. 다들 쓰는 거. 메일은 청구서처럼 생겼어요. «사무용품».
+SWETA: Und durch diesen Klick kamen sie rein?
+> 그 클릭으로 들어온 거예요?
+PATRICK: Nicht sofort. Sie haben eine Hintertür installiert. Und drei Wochen gewartet. Dann, in der richtigen Nacht, sind sie durch.
+> 바로는 아니에요. 뒷문을 설치했어요. 그리고 3주를 기다렸죠. 그러다 딱 맞는 밤에 들어왔어요.
+MIRA: Das deckt sich mit meinen Logs. Gut gefunden.
+> 제 로그랑 맞아떨어지네요. 잘 찾았어요.
+PATRICK: Ich kann die Hintertür schließen. Und ein System aufsetzen, das so etwas in Zukunft erkennt. Das dauert ein paar Tage.
+> 그 뒷문은 제가 닫을 수 있어요. 그리고 앞으로 이런 걸 잡아내는 시스템을 세울 수 있고요. 며칠 걸려요.
+HELENE: Tun Sie das. Aber Mira schaut zu. Bei jedem Schritt.
+> 그렇게 하세요. 근데 미라가 지켜봐요. 모든 단계마다.
+PATRICK: Natürlich. Ich erkläre jeden Schritt. Transparenz schafft Vertrauen.
+> 물론이죠. 모든 단계를 설명할게요. 투명성이 신뢰를 만드니까요.
+JAN: Herr Wendt, wer war der Angreifer? Können Sie das sehen?
+> 벤트 씨, 공격자가 누구였어요? 그걸 볼 수 있어요?
+PATRICK: Schwer. Die Tarnung ist gut. Aber der Stil ist… professionell. Das war keine Einzelperson. Das war ein Team. Mit Ressourcen.
+> 어려워요. 위장이 잘됐어요. 근데 스타일이… 전문적이에요. 개인이 아니었어요. 팀이었어요. 자원을 갖춘.
+SWETA: Ein staatlicher Akteur?
+> 국가 행위자요?
+PATRICK: Möglich. Oder eine gut finanzierte private Gruppe. Das kann ich nicht sicher sagen. Niemand kann das sicher sagen.
+> 가능해요. 아니면 자금이 넉넉한 민간 집단이거나. 확실히는 말 못 해요. 아무도 확실히는 말 못 하죠.
+MIRA: «Niemand kann das sicher sagen.» Das ist ehrlich. Ehrlicher als erwartet.
+> «아무도 확실히는 말 못 한다.» 정직하네요. 기대보다 더.
+PATRICK: Ich verkaufe keine Gewissheit, Frau Aydın. Nur Arbeit.
+> 전 확신을 팔지 않아요, 아이든 씨. 일만 팔죠.
+HELENE: Herr Wendt, haben Sie eine Vermutung, warum genau wir angegriffen wurden?
+> 벤트 씨, 왜 하필 우리가 공격당했는지 짐작 가는 게 있어요?
+PATRICK: Sie recherchieren offenbar etwas, das jemandem wehtut. Das ist der einzige Grund für so einen Aufwand.
+> 분명히 누군가를 아프게 하는 뭔가를 취재하고 계시죠. 이만한 공을 들이는 이유는 그것뿐이에요.
+JAN: Woher wissen Sie, dass wir an etwas Großem arbeiten?
+> 우리가 큰 걸 취재한다는 걸 어떻게 아세요?
+PATRICK: Weil niemand eine kleine Redaktion mit einem Team-Angriff überzieht, wenn es um nichts geht. Der Aufwand verrät das Ziel.
+> 아무것도 아닌 일로 작은 편집국에 팀 단위 공격을 퍼붓진 않으니까요. 들인 공이 목표를 말해 주죠.
+MIRA: Das ist eine kluge Beobachtung.
+> 영리한 관찰이네요.
+PATRICK: Ich bin nicht neugierig, Frau Aydın. Ich muss nur wissen, wie wertvoll das Ziel ist, um die Verteidigung richtig zu bauen.
+> 전 호기심이 많은 게 아니에요, 아이든 씨. 방어를 제대로 세우려면 목표가 얼마나 값진지만 알면 돼요.
+MIRA: Natürlich. Nur die Technik. Nicht die Inhalte.
+> 물론이죠. 기술만. 내용은 말고요.
+PATRICK: Genau. Sie hören gut zu.
+> 맞아요. 잘 들으시네요.
+
+# 장면 5 — WAS LEON FINDET
+LEON: Mira, ich habe Patrick Wendt recherchiert. Analog. Wie du gesagt hast.
+> 미라, 파트리크 벤트를 조사했어요. 아날로그로. 말한 대로요.
+MIRA: Und?
+> 그래서?
+LEON: Studium in Darmstadt, Informatik. Stimmt, das kann man überprüfen. Dann acht Jahre bei einer Firma. Auch das stimmt.
+> 다름슈타트에서 정보학 전공. 사실이에요, 확인 가능해요. 그다음에 8년 동안 한 회사. 그것도 사실이고요.
+MIRA: Also sauber?
+> 그럼 깨끗해?
+LEON: Fast. Die Firma, bei der er acht Jahre war. Ich habe ihren Namen gesucht. Sie heißt «Castra Security Solutions».
+> 거의요. 그 사람이 8년 있던 회사요. 이름을 찾아봤어요. «카스트라 시큐리티 솔루션스»예요.
+MIRA: Nie gehört.
+> 처음 듣는데.
+LEON: Ich auch nicht. Aber schau, wer im Beirat von Castra sitzt. Bis heute.
+> 저도요. 근데 카스트라 자문위원회에 누가 있는지 봐요. 지금까지.
+MIRA: Zeig.
+> 보여 줘.
+LEON: Ein Professor für Sicherheitspolitik. Ein ehemaliger Polizeipräsident aus Brandenburg. Und Ruben Kasper. Thal und Partner.
+> 안보 정책 교수 한 명. 브란덴부르크 전 경찰청장 한 명. 그리고 루벤 카스퍼. 탈 & 파트너.
+MIRA: Das ist derselbe Beirat wie bei Sentinel.
+> 그건 센티넬이랑 똑같은 자문위원회잖아.
+LEON: Fast derselbe. Castra und Sentinel teilen sich zwei von drei Beiräten. Und beide sind mit Thal und Partner verbunden.
+> 거의 똑같아요. 카스트라랑 센티넬은 자문위원 세 명 중 둘을 공유해요. 그리고 둘 다 탈 & 파트너랑 연결돼 있고요.
+MIRA: Patrick Wendt hat acht Jahre bei einer Firma gearbeitet, die mit Kasper verbunden ist. Und jetzt sitzt er in unserem Serverraum.
+> 파트리크 벤트는 카스퍼랑 연결된 회사에서 8년을 일했어. 그리고 지금 우리 서버실에 앉아 있고.
+LEON: Heißt das, er ist ein Spion?
+> 그럼 그 사람이 첩자라는 거예요?
+MIRA: Nein. Es heißt, wir dürfen ihm nicht trauen. Das ist etwas anderes. Und es heißt: Wir hatten recht, ihn zu prüfen.
+> 아니. 그 사람을 믿으면 안 된다는 뜻이야. 그건 다른 거야. 그리고 검증한 게 옳았다는 뜻이고.
+LEON: Aber vielleicht ist es Zufall? Die IT-Welt ist klein. Vielleicht kennen sich alle.
+> 근데 우연일 수도 있잖아요? IT 업계는 좁아요. 다들 서로 알지도 몰라요.
+MIRA: Vielleicht. Das ist die faire Möglichkeit, und wir müssen sie ernst nehmen. Aber dreimal Kasper in drei Wochen? Gerichtstraße, Sentinel, jetzt Castra?
+> 그럴지도. 그게 공정한 가능성이고, 진지하게 받아들여야 해. 근데 3주 만에 카스퍼가 세 번? 게리히트슈트라세, 센티넬, 이제 카스트라?
+LEON: Das sind viele Zufälle.
+> 우연이 많네요.
+MIRA: Jan sagt immer: Ein Zufall ist Zufall. Zwei sind interessant. Drei sind ein Muster.
+> 얀이 늘 그래. 우연 하나는 우연이다. 둘이면 흥미롭다. 셋이면 패턴이다.
+LEON: Und was machen wir mit dem Muster?
+> 그럼 그 패턴으로 뭘 해요?
+MIRA: Wir schreiben es nicht. Noch nicht. Wir merken es uns. Und wir sind doppelt vorsichtig mit Patrick.
+> 안 써. 아직은. 기억해 두는 거야. 그리고 파트리크를 두 배로 조심하는 거고.
+LEON: Soll ich weiter zu Castra recherchieren?
+> 카스트라를 더 조사할까요?
+MIRA: Ja. Aber über dein privates Gerät. Nicht über unsere Server. Solange Patrick im Haus ist, ist nichts hier sicher.
+> 응. 근데 네 개인 기기로. 우리 서버 말고. 파트리크가 여기 있는 한 여긴 아무것도 안전하지 않아.
+
+# 엔딩 — EIN STILLES ABENDBIER
+ELKE: Ihr seht aus wie 'n Haufen Jespenster. Wat is los?
+= Ihr seht aus wie ein Haufen Gespenster. Was ist los?
+> 너희 유령 떼처럼 보여. 무슨 일이야?
+JAN: Jemand hat in unser Haus eingebrochen, Elke. Digital.
+> 누가 우리 집에 침입했어, 엘케. 디지털로.
+ELKE: Digital. Ick versteh det nich. Aber ick versteh «Einbruch». Habt ihr die Polizei jerufen?
+= Digital. Ich verstehe das nicht. Aber ich verstehe «Einbruch». Habt ihr die Polizei gerufen?
+> 디지털. 그건 모르겠어. 근데 «침입»은 알아. 경찰 불렀어?
+JAN: Das ist kompliziert. Bei uns ist die Polizei nicht immer der Freund. Und manchmal wissen wir nicht, wer Freund ist.
+> 복잡해. 우리한텐 경찰이 늘 친구는 아니야. 그리고 가끔은 누가 친구인지도 몰라.
+ELKE: Weeßte, Jan. In meiner Kneipe weeß ick immer, wer Freund is. Der, der die Rechnung bezahlt und sich bedankt.
+= Weißt du, Jan. In meiner Kneipe weiß ich immer, wer Freund ist. Der, der die Rechnung bezahlt und sich bedankt.
+> 그거 알아, 얀. 내 선술집에선 누가 친구인지 늘 알아. 계산하고 고맙다고 하는 사람이지.
+JAN: Wenn es nur so einfach wäre.
+> 그렇게 간단하면 좋겠네.
+ELKE: Et is so einfach. Ihr macht et euch nur schwer.
+= Es ist so einfach. Ihr macht es euch nur schwer.
+> 간단해. 너희가 어렵게 만드는 거지.
+MIRA: Elke hat recht. Ein Mann kommt, sagt alles Richtige, kennt alle Antworten, und will in unser Innerstes. Freunde drängen sich nicht auf.
+> 엘케 말이 맞아요. 한 남자가 와서, 다 맞는 말을 하고, 모든 답을 알고, 우리 가장 깊은 곳에 들어오려 해요. 친구는 억지로 밀고 들어오지 않죠.
+JAN: Also lassen wir ihn die Hintertür schließen. Und dann verabschieden wir ihn. Höflich.
+> 그럼 뒷문은 닫게 두고. 그다음에 작별 인사를 하는 거지. 정중하게.
+MIRA: Nein. Noch nicht. Wenn wir ihn jetzt wegschicken, warnen wir die, die ihn geschickt haben.
+> 아니요. 아직은요. 지금 보내면, 그를 보낸 사람들한테 경고하는 꼴이에요.
+SWETA: Mira denkt wie ein Geheimdienst. Wieder.
+> 미라가 또 정보기관처럼 생각하네.
+MIRA: Ich denke wie jemand, die gerade gelernt hat, dass der Helfer vielleicht der Einbrecher ist. Wir lassen ihn da. Und wir füttern ihn mit dem, was er sehen soll.
+> 전 조력자가 어쩌면 침입자일지도 모른다는 걸 방금 배운 사람처럼 생각해요. 그 사람을 두는 거예요. 그리고 그가 봐야 할 것만 먹이는 거죠.
+HELENE: Das ist gefährlich. Und klug. Aber die Entscheidung treffe ich nicht allein. Nicht diese.
+> 위험하네요. 그리고 영리하고요. 근데 이 결정은 혼자 안 내려요. 이건 아니에요.
+JAN: Dann stimmen wir ab. Zum ersten Mal seit langem.
+> 그럼 투표하죠. 오랜만에 처음으로.
+HELENE: Die Frage ist: Lassen wir Patrick weiterarbeiten, obwohl wir ihm misstrauen? Oder schicken wir ihn weg und riskieren, die Hintermänner zu warnen?
+> 질문은 이거예요. 의심하면서도 파트리크를 계속 일하게 둘 것인가? 아니면 보내서 배후를 경고할 위험을 감수할 것인가?
+TOBI: Ick sage: behalten. Aber wie 'n Haustier, det man nich allein lässt.
+= Ich sage: behalten. Aber wie ein Haustier, das man nicht allein lässt.
+> 난 두자는 쪽. 근데 혼자 두면 안 되는 애완동물처럼.
+SWETA: Ich auch. Einen bekannten Gegner im Haus zu haben ist besser als einen unbekannten draußen.
+> 저도요. 아는 적을 집에 두는 게 모르는 적을 밖에 두는 것보다 나아요.
+LEON: Ich bin unsicher. Aber ich vertraue Mira. Wenn sie sagt, sie kann ihn kontrollieren, dann behalten.
+> 전 잘 모르겠어요. 근데 미라를 믿어요. 통제할 수 있다고 하면 두는 거죠.
+JAN: Behalten. Und füttern mit dem, was er sehen soll.
+> 두자. 그리고 그가 봐야 할 것만 먹이고.
+HELENE: Dann ist es einstimmig. Behalten, beobachten, kontrollieren. Mira führt. Und bei der kleinsten echten Gefahr brechen wir ab.
+> 그럼 만장일치네요. 두고, 관찰하고, 통제한다. 미라가 지휘해요. 그리고 진짜 위험의 아주 작은 조짐에도 중단해요.
+MIRA: Einverstanden. Und ich baue einen zweiten Server. Geheim. Den kennt Patrick nicht. Dorthin kommt alles Wichtige.
+> 동의해요. 그리고 두 번째 서버를 만들게요. 비밀로. 파트리크는 몰라요. 중요한 건 전부 거기로 가요.
+JAN: Ein Köder-Server und ein echter Server.
+> 미끼 서버와 진짜 서버라.
+MIRA: Genau. Wenn jemand im Köder wühlt, wissen wir es. Und wir wissen, wer.
+> 맞아요. 누가 미끼를 뒤지면 우린 알아요. 그리고 누구인지도 알고요.
+HELENE: Dann haben wir einen Plan. Und zum ersten Mal seit dem Hack kann ich wieder atmen.
+> 그럼 계획이 생겼네요. 그리고 해킹 이후 처음으로 다시 숨을 쉴 수 있겠어요.
+JAN: Atme nicht zu tief, Helene. Das ist erst der Anfang.
+> 너무 깊게는 쉬지 마요, 헬레네. 이제 시작이니까요.
