@@ -1,0 +1,380 @@
+@part 1
+@ep 9
+@title Heizung aus im Januar
+@sub 1월에 끊긴 난방 · 12월 중순의 현장 점검부터 새해 첫 주의 추위까지
+@info 대사 150턴 · 난이도 B1 · 배경: 8화 사흘 뒤(12월 14일 월요일)부터 2027년 1월 6일까지, Spreewerk 편집국, Gerichtstraße 61, 선술집 «Zum letzten Groschen»
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast LEON | 레온 피셔 (24) · 수습기자
+@cast TOBI | 토비 레베르크 (37) · 관리인으로 잠입 중
+@cast MARCO | 마르코 하버란트 (35) · Spreeblick 오브젝트 매니저
+@cast KASPER | 루벤 카스퍼 (41) · Thal & Partner 파트너
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인
+@cast GISELA | 기젤라 호프만 (78) · 세입자
+@cast OLSZEWSKI | 타데우시 올셰프스키 (80) · 세입자
+@cast DEMIR | 외머 데미르 (55) · 키오스크 주인
+@cast KRÜGER | 자비네 크뤼거 (41) · 뒤채 세입자
+@cast PAULA | 파울라 (23) · 앞채 오른쪽 4층 단기 세입자
+@note ※ 현대화 공사는 석 달 전에 알려야 합니다. 유지·보수 공사도 세입자에게 '제때' 알려야 하고, 난방처럼 꼭 필요한 설비가 끊기면 세입자는 월세를 깎을 수 있습니다(Mietminderung). 겨울에 대체 난방도 없이 난방을 오래 끊는 것은 법적 분쟁의 단골 소재입니다.
+@note ※ 표현 초점: Entmietung · Schikane · Strangsanierung · außer Betrieb · Heizlüfter · Mietminderung · Beweissicherung — 베를린 연말: Silvester, Böller, «Juten Rutsch!»
+@next 1부 10화 — «Tempelhofer Feld»(템펠호프 들판) — 같은 펀드가 템펠호프 들판 가장자리 개발을 노리고 주변 땅을 사들이고 있다. 팀은 들판 지키기 운동과 개발 찬성 측을 각각 인터뷰한다.
+
+# 콜드 오픈 — BEFANGEN
+HELENE: Herr Fischer, Sie wollten mich sprechen?
+> 피셔 씨, 나랑 얘기하고 싶다고요?
+LEON: Ja. Jan hat mich gebeten, Ihnen etwas zu sagen. Weil er sonst die Hälfte weglässt.
+> 네. 얀이 저보고 말씀드리라고 했어요. 자기가 하면 절반은 빼먹을 거라고요.
+HELENE: Das klingt nach Jan. Bitte.
+> 얀다운 말이네요. 말해요.
+LEON: Es geht um Marek Nowicki. Und um Maximilian Thal. Jan kennt Thal von einem Foto aus 2016. Von der Baustelle.
+> 마렉 노비츠키 일이에요. 그리고 막시밀리안 탈이요. 얀은 2016년 공사 현장 사진에서 탈을 알아봤어요.
+HELENE: Ich weiß von Marek. Ich wusste nicht, dass Thal auf dem Foto war.
+> 마렉 일은 알아요. 그 사진에 탈이 있었다는 건 몰랐어요.
+JAN: Jetzt weißt du es. Ich bin befangen, Helene. Doppelt.
+> 이제 알았네요. 난 이해충돌이에요, 헬레네. 이중으로.
+HELENE: Willst du aufhören?
+> 그만두고 싶어요?
+JAN: Nein. Aber du sollst entscheiden.
+> 아니요. 그래도 당신이 결정해야 해요.
+HELENE: Dann entscheide ich: Du bleibst. Aber alles über Thal und Kasper prüfe ich selbst. Jeden Satz.
+> 그럼 결정할게요. 당신은 남아요. 대신 탈이랑 카스퍼에 관한 건 전부 내가 직접 확인해요. 한 문장도 빠짐없이.
+JAN: Einverstanden.
+> 동의해요.
+HELENE: Und, Herr Fischer: Danke. Das war nicht leicht.
+> 그리고 피셔 씨, 고마워요. 쉽지 않았을 거예요.
+LEON: Es war leichter als die Bierdeckel-Vorlesung.
+> 맥주잔 받침 강의보다는 쉬웠어요.
+
+# 장면 1 — DIE BEGEHUNG
+MARCO: Tobi, Hemd in die Hose. Herr Kasper kommt in fünf Minuten.
+> 토비, 셔츠 바지 안에 넣어요. 카스퍼 씨가 5분 뒤에 와요.
+TOBI: Is der so wichtig?
+= Ist der so wichtig?
+> 그 사람이 그렇게 중요해?
+MARCO: Er ist… Er entscheidet, ob ich hier weiterarbeite. Bitte. Sag nicht so viel.
+> 그 사람이… 내가 여기서 계속 일할지 그 사람이 정해요. 부탁이에요. 말 많이 하지 마요.
+KASPER: Guten Tag, Herr Haberland. Und Sie sind der neue Haustechniker?
+> 안녕하세요, 하버란트 씨. 그리고 이분이 새 건물 기술자인가요?
+TOBI: Rehberg. Tag.
+= Rehberg. Tag.
+> 레베르크입니다. 안녕하쇼.
+KASPER: Ruben Kasper. Ich berate den Eigentümer. Schön, Sie kennenzulernen. Ich habe gehört, Sie sind sehr… menschennah.
+> 루벤 카스퍼입니다. 소유주에게 자문을 하고 있죠. 만나서 반가워요. 아주… 사람들과 가깝다고 들었어요.
+TOBI: Menschennah?
+= Menschennah?
+> 사람들과 가깝다고?
+KASPER: Frau Hoffmann ist seit Ihrem Besuch viel ruhiger. Sie beschwert sich nicht mehr bei der Verwaltung. Kakao, habe ich gehört?
+> 호프만 씨가 당신이 다녀간 뒤로 훨씬 조용해졌어요. 관리회사에 더는 불평을 안 해요. 코코아였다고 들었는데요?
+TOBI: Woher wissen Se det?
+= Woher wissen Sie das?
+> 그걸 어떻게 아쇼?
+KASPER: Ich weiß gern, was in meinen Häusern passiert. Das ist mein Beruf.
+> 내 건물에서 무슨 일이 일어나는지 아는 걸 좋아해요. 그게 내 직업이죠.
+MARCO: Herr Kasper, der Keller. Bitte hier entlang.
+> 카스퍼 씨, 지하실이요. 이쪽으로 오세요.
+KASPER: Danke. Herr Haberland, der Zeitplan. Wo stehen wir?
+> 고마워요. 하버란트 씨, 일정은요? 어디까지 왔죠?
+MARCO: Zwölf von vierundzwanzig Einheiten frei. Krüger ist verunsichert. Bei Hoffmann läuft die Eigenbedarfskündigung.
+> 스물네 채 중 열두 채가 비었습니다. 크뤼거는 동요하고 있고요. 호프만은 자가 사용 해지가 진행 중입니다.
+KASPER: «Läuft.» Sie hat eine Anwältin. Und einen Härteeinwand. Das ist nicht «läuft», das ist «stockt».
+> «진행 중»이라. 그 사람한텐 변호사가 있어요. 하드니스 이의도 냈고요. 그건 «진행 중»이 아니라 «막힌» 거예요.
+MARCO: Wir arbeiten daran.
+> 지금 처리하고 있습니다.
+KASPER: Der Fonds hat im Februar eine Bewertung. Bis dahin brauchen wir sechzehn freie Einheiten. Mindestens.
+> 펀드는 2월에 가치 평가가 있어요. 그때까지 빈집이 열여섯 채는 필요해요. 최소한.
+MARCO: Sechzehn bis Februar. Das ist schnell.
+> 2월까지 열여섯 채. 빠듯한데요.
+KASPER: Deshalb ziehen wir die Strangsanierung vor. Heizung Vorderhaus links und Seitenflügel. Ab Anfang Januar.
+> 그래서 배관 교체 공사를 앞당기는 거예요. 앞채 왼쪽이랑 옆채 난방. 1월 초부터.
+TOBI: Im Januar? Die Heizung? Det sind die kältesten Wochen.
+= Im Januar? Die Heizung? Das sind die kältesten Wochen.
+> 1월에? 난방을? 그때가 제일 추운 주들인데.
+KASPER: Gerade deshalb, Herr Rehberg. Die Handwerker haben im Januar Zeit. Im Sommer nicht.
+> 바로 그래서죠, 레베르크 씨. 기술자들이 1월엔 시간이 있어요. 여름엔 없고요.
+TOBI: Und die Mieter? Die alten Leute?
+= Und die Mieter? Die alten Leute?
+> 그럼 세입자들은? 그 노인들은?
+KASPER: Die Mieter werden informiert. Rechtzeitig. Herr Haberland kümmert sich darum.
+> 세입자들한텐 알릴 거예요. 제때. 하버란트 씨가 맡을 거고요.
+KASPER: Herr Rehberg, Sie haben ein gutes Herz. Das sieht man. Aber Sie sind Techniker. Lassen Sie die Kommunikation uns.
+> 레베르크 씨, 마음이 착하시네요. 보여요. 하지만 당신은 기술자예요. 소통은 우리한테 맡겨요.
+TOBI: Jut.
+= Gut.
+> 알겠소.
+KASPER: Schön. Herr Haberland, kommen Sie, wir gehen die Wohnungen im Seitenflügel durch.
+> 좋아요. 하버란트 씨, 갑시다. 옆채 집들을 둘러보죠.
+TOBI: Darf ick fragen… Wer is eigentlich der Eigentümer? Damit ick weeß, für wen ick arbeite.
+= Darf ich fragen… Wer ist eigentlich der Eigentümer? Damit ich weiß, für wen ich arbeite.
+> 물어봐도 되나… 소유주가 대체 누구요? 내가 누구를 위해 일하는지 알고 싶어서.
+KASPER: Sie arbeiten für Spreeblick, Herr Rehberg. Mehr müssen Sie nicht wissen.
+> 당신은 슈프레블릭을 위해 일해요, 레베르크 씨. 그 이상은 알 필요 없어요.
+
+MARCO: Puh. Das war's. Danke, dass du nicht so viel geredet hast.
+> 휴. 끝났다. 말 많이 안 해 줘서 고마워요.
+TOBI: Ick hab jenug jeredet. Sag mal, Marco… Hast du Angst vor dem?
+= Ich habe genug geredet. Sag mal, Marco… Hast du Angst vor dem?
+> 할 만큼 했지. 근데 마르코… 그 사람 무서워?
+MARCO: Angst? Nein. Respekt. Mein Vertrag ist befristet, Tobi. Bis März.
+> 무섭냐고요? 아뇨. 존중하는 거죠. 내 계약은 기간제예요, 토비. 3월까지.
+TOBI: Und dann?
+= Und dann?
+> 그다음엔?
+MARCO: Wenn die Zahlen gut sind, verlängern sie. Wenn nicht, bin ich weg.
+> 실적이 좋으면 연장해 주고. 아니면 나는 끝이에요.
+TOBI: Wat für Zahlen?
+= Was für Zahlen?
+> 무슨 실적?
+MARCO: Freie Einheiten. Für jede freie Wohnung bekomme ich eine Prämie. Fünfhundert Euro.
+> 빈집이요. 집이 하나 빌 때마다 성과급을 받아요. 500유로.
+TOBI: Fünfhundert Euro pro Oma.
+= Fünfhundert Euro pro Oma.
+> 할머니 한 명당 500유로.
+MARCO: So darfst du das nicht sagen.
+> 그렇게 말하면 안 돼요.
+TOBI: Wie soll ick et denn sagen?
+= Wie soll ich es denn sagen?
+> 그럼 어떻게 말해야 하는데?
+MARCO: «Freizugsprämie». Steht so im Vertrag. Ich habe auch Miete zu zahlen, Tobi. Sechzehnhundert für zwei Zimmer in Friedrichshain.
+> «퇴거 성과급». 계약서에 그렇게 적혀 있어요. 나도 월세 내야 해요, 토비. 프리드리히스하인 방 두 개짜리에 1,600유로.
+TOBI: Dann bist du ooch nur 'n Mieter.
+= Dann bist du auch nur ein Mieter.
+> 그럼 너도 그냥 세입자네.
+MARCO: Ich bin ein Mieter mit einem Bonus. Das ist der Unterschied. Bis morgen.
+> 난 성과급 받는 세입자예요. 그게 차이죠. 내일 봐요.
+
+# 장면 2 — DIE MAIL VOM 30. DEZEMBER
+TOBI: Jan. 'ne Mail. Eben jekommen. Dreißigster Dezember, sechzehn Uhr.
+= Jan. Eine Mail. Eben gekommen. Dreißigster Dezember, sechzehn Uhr.
+> 얀. 메일 왔어. 방금. 12월 30일 오후 네 시.
+JAN: Lies vor.
+> 읽어 봐.
+TOBI: «An: Haustechnik GS 61. Ab 04.01. Heizung Vorderhaus links und Seitenflügel außer Betrieb wegen Strangsanierung. Dauer: ca. drei Wochen.»
+= «An: Haustechnik GS 61. Ab 04.01. Heizung Vorderhaus links und Seitenflügel außer Betrieb wegen Strangsanierung. Dauer: ca. drei Wochen.»
+> «수신: GS 61 건물 설비. 1월 4일부터 배관 교체 공사로 앞채 왼쪽과 옆채 난방 가동 중단. 기간: 약 3주.»
+JAN: Weiter.
+> 계속.
+TOBI: «Mieter per Aushang informieren am 02.01. Keine Ersatzgeräte (Heizlüfter o. ä.) bereitstellen. Bei Nachfragen auf Verwaltung verweisen.»
+= «Mieter per Aushang informieren am 02.01. Keine Ersatzgeräte (Heizlüfter o. ä.) bereitstellen. Bei Nachfragen auf Verwaltung verweisen.»
+> «1월 2일 게시물로 세입자에게 알릴 것. 대체 기기(전기 온풍기 등) 제공하지 말 것. 문의가 오면 관리회사로 넘길 것.»
+JAN: «Keine Ersatzgeräte bereitstellen.» Das steht da wirklich so?
+> «대체 기기를 제공하지 말 것.» 정말 그렇게 적혀 있어?
+TOBI: Schwarz uff weiß. Ick hab 'n Foto jemacht. Und 'n Screenshot. Det is meine Mail, ick bin der Empfänger.
+= Schwarz auf weiß. Ich habe ein Foto gemacht. Und einen Screenshot. Das ist meine Mail, ich bin der Empfänger.
+> 분명하게 적혀 있어. 사진 찍었어. 화면 캡처도 하고. 내 메일이고, 내가 수신자야.
+JAN: Gut. Ich rufe Katrin an. Bleib dran.
+> 좋아. 카트린한테 전화할게. 끊지 마.
+KATRIN: Jan, es ist der dreißigste Dezember. Ich packe gerade meinen Koffer.
+> 얀, 오늘 12월 30일이야. 나 지금 짐 싸는 중이야.
+JAN: Nur zwei Minuten. Drei Wochen ohne Heizung im Januar. Aushang zwei Tage vorher. Und ausdrücklich keine Heizlüfter.
+> 2분만. 1월에 3주 동안 난방 없음. 이틀 전에 게시물로 공지. 그리고 대놓고 온풍기 제공 금지.
+KATRIN: Zwei Tage vorher? Für drei Wochen ohne Heizung? Das ist nicht «rechtzeitig». Das ist eine Schikane.
+> 이틀 전에? 3주간 난방이 끊기는데? 그건 «제때»가 아니야. 그건 괴롭힘이야.
+TOBI: Und meine Regel vier? Muss ick jetzt kündigen?
+= Und meine Regel vier? Muss ich jetzt kündigen?
+> 그럼 내 규칙 4번은? 이제 그만둬야 해?
+KATRIN: Wer dreht die Heizung ab? Du?
+> 난방은 누가 꺼? 토비가?
+TOBI: Nee. 'ne Fachfirma. Ick soll nur die Tür uffschließen.
+= Nein. Eine Fachfirma. Ich soll nur die Tür aufschließen.
+> 아니. 전문 업체. 난 문만 열어 주면 돼.
+KATRIN: Dann tust du nichts Illegales. Die Sanierung selbst ist nicht verboten. Nur die Art und Weise ist ein Problem. Das ist zivilrechtlich, nicht strafrechtlich.
+> 그럼 넌 불법적인 일을 하는 게 아니야. 배관 교체 자체는 금지된 게 아니거든. 방식이 문제인 거지. 그건 민사 문제지 형사 문제가 아니야.
+JAN: Und die Mieter? Was können sie tun?
+> 그럼 세입자들은? 뭘 할 수 있어?
+KATRIN: Miete mindern. Alles dokumentieren. Temperaturen, Fotos, Datum. Und einen Eilantrag beim Amtsgericht, wenn es schlimm wird.
+> 월세를 깎는 거지. 전부 기록하고. 온도, 사진, 날짜. 그리고 상황이 나빠지면 구법원에 긴급 신청.
+JAN: Und die Heizlüfter?
+> 그럼 온풍기는?
+KATRIN: Die darf jeder Mensch kaufen und verschenken. Auch ein Journalist. Auch eine Kneipenwirtin.
+> 그건 누구든 사서 선물할 수 있어. 기자도. 선술집 주인도.
+TOBI: Aber nich der Hausmeister.
+= Aber nicht der Hausmeister.
+> 근데 관리인은 안 되지.
+KATRIN: Nicht der Hausmeister. Sonst fliegst du sofort auf. Guten Rutsch, ihr zwei.
+> 관리인은 안 돼. 그랬다간 바로 들통나. 새해 잘 맞아, 너희 둘.
+JAN: Guten Rutsch, Katrin. Danke.
+> 새해 잘 맞아, 카트린. 고마워.
+TOBI: Jan. Det is det Schlimmste. Ick weeß, wat kommt, und ick darf nischt sagen.
+= Jan. Das ist das Schlimmste. Ich weiß, was kommt, und ich darf nichts sagen.
+> 얀. 이게 제일 끔찍해. 뭐가 닥칠지 아는데 아무 말도 하면 안 된다는 거.
+JAN: Du darfst nichts sagen. Aber wir dürfen. Ich habe eine Idee. Elke wird sie lieben.
+> 넌 말하면 안 되지. 하지만 우린 돼. 나한테 생각이 있어. 엘케가 좋아할 거야.
+
+# 장면 3 — ZWEITER JANUAR, DER AUSHANG
+GISELA: Sabine, hast du das gelesen? Im Treppenhaus?
+> 자비네, 이거 읽었니? 계단에 붙은 거?
+KRÜGER: «Ab dem vierten Januar Heizung außer Betrieb. Dauer: ca. drei Wochen. Wir bitten um Verständnis.» Verständnis!
+> «1월 4일부터 난방 가동 중단. 기간: 약 3주. 양해 부탁드립니다.» 양해라니!
+PAULA: Bei mir steht das nicht. Ich wohne Vorderhaus rechts.
+> 우리 쪽엔 그런 거 없어요. 저는 앞채 오른쪽에 살아요.
+KRÜGER: Natürlich nicht. Für dich bleibt es warm.
+> 당연히 없겠지. 너네는 계속 따뜻할 테니까.
+PAULA: Frau Krüger, das ist nicht meine Schuld.
+> 크뤼거 씨, 그건 제 잘못이 아니에요.
+KRÜGER: Ich weiß. Entschuldige. Ich bin einfach so müde.
+> 알아. 미안해. 그냥 너무 지쳐서 그래.
+GISELA: Hast du einen Heizlüfter? Von Elke?
+> 온풍기 있니? 엘케가 준 거?
+KRÜGER: Ja. Aber zwei Kinder in vierzehn Grad, Gisela… Ich habe mir eine Wohnung in Spandau angesehen.
+> 응. 근데 열네 도에 아이 둘이야, 기젤라… 슈판다우에 집 하나 보고 왔어.
+GISELA: Spandau? Das ist ja Jottwedee!
+> 슈판다우? 거긴 세상 끝이잖아!
+PAULA: Jottwedee? Was heißt das?
+> 요트베데? 그게 무슨 뜻이에요?
+GISELA: «Janz weit draußen.» Das sagt Elke immer. Ganz weit weg.
+> «엄청 먼 바깥.» 엘케가 늘 그렇게 말해. 아주 멀다는 뜻이야.
+KRÜGER: Weit weg, aber warm. Und keine Briefe, keine Anrufe, keine Männer an der Tür.
+> 멀어도 따뜻하잖아. 그리고 편지도, 전화도, 문 앞에 찾아오는 남자들도 없고.
+PAULA: Bitte bleiben Sie noch ein bisschen. Ich glaube, bald passiert etwas.
+> 조금만 더 버텨 주세요. 곧 무슨 일이 일어날 것 같아요.
+KRÜGER: Was soll denn passieren?
+> 대체 무슨 일이 일어난다는 거야?
+PAULA: Ich weiß nicht. Aber der neue Hausmeister schaut so, als ob er etwas weiß.
+> 모르겠어요. 근데 새 관리인 아저씨 표정이 뭔가 아는 사람 같아요.
+
+# 장면 4 — HEIZLÜFTER FÜR DIE GERICHTSTRASSE
+ELKE: Silvester, und ick steh hier mit 'nem Karton voller Heizlüfter. Wat für 'n Jahr.
+= Silvester, und ich stehe hier mit einem Karton voller Heizlüfter. Was für ein Jahr.
+> 섣달그믐에 온풍기 가득 든 상자를 들고 서 있다니. 이게 무슨 한 해야.
+LEON: Wie viele sind das?
+> 몇 개예요?
+ELKE: Neun. Von meinen Stammjästen. Heinz hat zwee jekooft. Der olle Geizhals.
+= Neun. Von meinen Stammgästen. Heinz hat zwei gekauft. Der alte Geizhals.
+> 아홉 개. 우리 단골들이 준 거야. 하인츠가 두 개 샀어. 그 구두쇠 영감이.
+JAN: Herr Brückner? Der spendet?
+> 브뤼크너 씨가요? 그분이 기부를 해요?
+ELKE: Der hat jesagt: «Steuerlich absetzbar is det nich, aber menschlich.» Dann hat er bezahlt.
+= Der hat gesagt: «Steuerlich absetzbar ist das nicht, aber menschlich.» Dann hat er bezahlt.
+> 그 양반 말이, «세금 공제는 안 되지만 사람 도리로는 해야지.» 그러더니 돈을 냈어.
+GISELA: Elke, was ist das? Heizlüfter? Für wen?
+> 엘케, 이게 뭐야? 온풍기? 누구 주려고?
+ELKE: Für dich, Jisela. Und für Tadeusz. Und für die andern im Haus.
+= Für dich, Gisela. Und für Tadeusz. Und für die anderen im Haus.
+> 너 주려고, 기젤라. 그리고 타데우시랑. 그리고 그 건물 다른 사람들도.
+GISELA: Aber die Heizung geht doch. Ein bisschen.
+> 근데 난방은 들어오잖아. 조금은.
+JAN: Frau Hoffmann, wir haben gehört, dass ab dem vierten Januar die Heizung ganz ausgeht. Drei Wochen.
+> 호프만 아주머니, 1월 4일부터 난방이 완전히 끊긴다고 들었어요. 3주 동안요.
+GISELA: Drei Wochen? Im Januar? Woher weißt du das?
+> 3주? 1월에? 그걸 어떻게 알아?
+JAN: Ich kann Ihnen meine Quelle nicht sagen. Das ist mein Beruf. Aber bitte glauben Sie mir.
+> 출처는 말씀드릴 수 없어요. 그게 제 일이에요. 그래도 믿어 주세요.
+OLSZEWSKI: Ich glaube ihm. Ein Kowalczyk lügt nicht.
+> 난 믿어. 코발치크는 거짓말 안 해.
+DEMIR: Und mein Kiosk? Der hat auch Heizung vom Haus.
+> 내 키오스크는? 거기도 건물 난방을 쓰는데.
+JAN: Vorderhaus rechts bleibt warm. Ihr Kiosk ist vorne rechts, oder?
+> 앞채 오른쪽은 계속 따뜻할 거예요. 키오스크가 앞쪽 오른편이죠?
+DEMIR: Vorne rechts. Glück gehabt. Aber dann bekommen meine Nachbarn ihre Heizlüfter, und ich verkaufe ihnen heißen Tee. Umsonst.
+> 앞쪽 오른편. 운이 좋네. 그럼 이웃들은 온풍기 받고, 난 따뜻한 차를 주지. 공짜로.
+LEON: Und noch etwas. Bitte schreiben Sie jeden Tag die Temperatur auf. Morgens und abends. Mit Datum.
+> 그리고 하나 더요. 매일 온도를 적어 주세요. 아침저녁으로. 날짜랑 같이.
+GISELA: Warum?
+> 왜?
+LEON: Dann können Sie die Miete mindern. Und es ist ein Beweis. Ich habe Ihnen eine Tabelle gemacht.
+> 그럼 월세를 깎을 수 있어요. 그리고 증거가 되고요. 표를 만들어 왔어요.
+GISELA: Eine Tabelle mit Kästchen. Wie in der Schule.
+> 칸 나뉜 표. 학교 다닐 때처럼.
+LEON: Genau. Und ein Thermometer für jede Wohnung. Von mir.
+> 맞아요. 그리고 집마다 온도계 하나씩. 제가 드리는 거예요.
+OLSZEWSKI: Der Schwabe ist ja großzügig. Ich dachte, Schwaben sparen.
+> 슈바벤 사람이 인심이 후하네. 슈바벤 사람들은 아끼는 줄 알았는데.
+LEON: Wir sparen. Deshalb habe ich die Thermometer im Angebot gekauft.
+> 아끼죠. 그래서 온도계를 할인할 때 샀어요.
+ELKE: Jut, Leute. Heizlüfter, Thermometer, Tabellen. Und jetzt: Sekt! Et is Silvester!
+= Gut, Leute. Heizlüfter, Thermometer, Tabellen. Und jetzt: Sekt! Es ist Silvester!
+> 좋아, 다들. 온풍기, 온도계, 표. 그리고 이제 샴페인! 섣달그믐이잖아!
+GISELA: Auf was trinken wir?
+> 뭘 위해 건배할까?
+ELKE: Uff warme Füße. Und uff 'n besseres Jahr.
+= Auf warme Füße. Und auf ein besseres Jahr.
+> 따뜻한 발을 위해. 그리고 더 나은 한 해를 위해.
+JAN: Und auf alle, die nicht packen.
+> 그리고 짐 싸지 않는 모든 사람을 위해.
+GISELA: Auf alle, die nicht packen! Juten Rutsch, wie Elke sagt.
+> 짐 싸지 않는 모든 사람을 위해! 엘케 말대로 새해 잘 맞아.
+ELKE: Siehste, Jisela. Du lernst Berlinerisch.
+= Siehst du, Gisela. Du lernst Berlinerisch.
+> 봤지, 기젤라. 너도 베를린 말 배운다니까.
+
+# 장면 5 — VIERTER JANUAR, NACHTS
+TOBI: Diensthandy. Zwei Uhr nachts. Hausmeister Rehberg?
+= Diensthandy. Zwei Uhr nachts. Hausmeister Rehberg?
+> 업무용 폰. 새벽 두 시. 관리인 레베르크입니다?
+OLSZEWSKI: Herr Rehberg? Hier Olszewski. Entschuldigung. Das Licht ist aus. Alles. Und es ist so kalt.
+> 레베르크 씨? 올셰프스키예요. 미안해요. 불이 나갔어요. 전부. 그리고 너무 추워요.
+TOBI: Ick komm. Zehn Minuten. Bleiben Se unter der Decke.
+= Ich komme. Zehn Minuten. Bleiben Sie unter der Decke.
+> 갈게요. 10분. 이불 덮고 계세요.
+OLSZEWSKI: Sie sind schnell.
+> 빨리 왔네요.
+TOBI: Ick wohn… nich weit. Wat is passiert?
+= Ich wohne… nicht weit. Was ist passiert?
+> 사는 데가… 멀지 않아서요. 무슨 일이에요?
+OLSZEWSKI: Ich habe den Heizlüfter angemacht. Den Geschenk-Heizlüfter. Und dann: zack. Dunkel.
+> 온풍기를 켰어요. 선물로 받은 온풍기. 그랬더니, 딱. 깜깜해졌어요.
+TOBI: Die Sicherung. Die Leitungen hier sind von neunzehnhundertsechzig. Die schaffen keene zweitausend Watt.
+= Die Sicherung. Die Leitungen hier sind von neunzehnhundertsechzig. Die schaffen keine zweitausend Watt.
+> 퓨즈예요. 여기 전선이 1960년 거예요. 2천 와트를 못 버텨요.
+OLSZEWSKI: Und jetzt?
+> 그럼 이제?
+TOBI: Jetzt stell ick den Heizlüfter uff Stufe eins. Tausend Watt. Und keen Wasserkocher gleichzeitig.
+= Jetzt stelle ich den Heizlüfter auf Stufe eins. Tausend Watt. Und kein Wasserkocher gleichzeitig.
+> 이제 온풍기를 1단으로 맞출게요. 천 와트. 그리고 전기 주전자는 동시에 쓰지 마세요.
+OLSZEWSKI: Kein Tee?
+> 차도 안 돼요?
+TOBI: Erst Tee, dann Heizlüfter. Nich beides. So. Licht is wieder da.
+= Erst Tee, dann Heizlüfter. Nicht beides. So. Licht ist wieder da.
+> 차 먼저, 그다음에 온풍기. 둘 다는 안 돼요. 자. 불 다시 들어왔어요.
+OLSZEWSKI: Danke. Woher kommen die Heizlüfter eigentlich? Elke sagt, von «Freunden».
+> 고마워요. 근데 온풍기는 대체 어디서 온 거예요? 엘케는 «친구들»이 줬다던데.
+TOBI: Dann sind se von Freunden.
+= Dann sind sie von Freunden.
+> 그럼 친구들이 준 거겠죠.
+OLSZEWSKI: Sie wissen etwas, Herr Rehberg. Ich sehe das. Ich habe vierzig Jahre in Polen und Berlin Menschen beobachtet.
+> 뭔가 알고 있군요, 레베르크 씨. 보여요. 폴란드랑 베를린에서 40년 동안 사람들을 지켜봤거든요.
+TOBI: Ick weeß nur, wo die Sicherungen sind.
+= Ich weiß nur, wo die Sicherungen sind.
+> 난 퓨즈가 어디 있는지만 알아요.
+OLSZEWSKI: Gut. Dann sage ich nichts. Und Sie sagen nichts. Wie früher in Danzig.
+> 좋아요. 그럼 나도 아무 말 안 하고, 당신도 아무 말 안 하는 거예요. 예전 그단스크에서처럼.
+TOBI: Wie früher in Danzig. Jute Nacht, Herr Olszewski.
+= Wie früher in Danzig. Gute Nacht, Herr Olszewski.
+> 예전 그단스크에서처럼. 안녕히 주무세요, 올셰프스키 씨.
+OLSZEWSKI: Zwölf Grad im Schlafzimmer. Ich schreibe es in die Tabelle vom Schwaben.
+> 침실 12도. 슈바벤 친구가 준 표에 적어 둘게요.
+TOBI: Jan? Ick weeß, et is halb drei. Aber du wolltest et wissen. Zwölf Grad bei Olszewski. Und die Fachfirma kommt erst am Montag. Nich heute.
+= Jan? Ich weiß, es ist halb drei. Aber du wolltest es wissen. Zwölf Grad bei Olszewski. Und die Fachfirma kommt erst am Montag. Nicht heute.
+> 얀? 새벽 두 시 반인 거 알아. 근데 알고 싶다고 했잖아. 올셰프스키네 12도. 그리고 전문 업체는 오늘이 아니라 월요일에야 온대.
+JAN: Am Montag? Dann ist die Heizung eine Woche aus, bevor überhaupt jemand arbeitet.
+> 월요일? 그럼 아무도 일을 시작하기 전에 난방이 일주일 동안 꺼져 있는 거네.
+TOBI: Jenau. Det is keene Sanierung. Det is 'n Kühlschrank.
+= Genau. Das ist keine Sanierung. Das ist ein Kühlschrank.
+> 바로 그거야. 이건 공사가 아니야. 냉장고지.
+JAN: Schreib alles auf. Uhrzeit, Temperatur. Wir haben jetzt Beweise.
+> 전부 적어 둬. 시간, 온도. 이제 우리한테 증거가 있어.
+
+# 엔딩 — SECHSTER JANUAR
+MARCO: Tobi. Komm mal in den Hausmeisterraum.
+> 토비. 관리인실로 좀 와 봐요.
+TOBI: Wat is?
+= Was ist?
+> 무슨 일이야?
+MARCO: Die alten Mieter haben auf einmal Heizlüfter. Neun Stück. Alle gleich. Woher?
+> 옛 세입자들한테 갑자기 온풍기가 생겼어요. 아홉 대. 전부 똑같은 거. 어디서 났죠?
+TOBI: Keene Ahnung. Weihnachten?
+= Keine Ahnung. Weihnachten?
+> 모르지. 크리스마스 선물?
+MARCO: Neun gleiche Heizlüfter zu Weihnachten. Und alle wussten zwei Tage vor dem Aushang, dass die Heizung ausgeht.
+> 크리스마스에 똑같은 온풍기 아홉 대. 그리고 다들 게시물이 붙기 이틀 전에 난방이 끊긴다는 걸 알았고요.
+TOBI: Vielleicht hat eener die Mail jesehen.
+= Vielleicht hat einer die Mail gesehen.
+> 누가 그 메일을 봤나 보지.
+MARCO: Die Mail ging an genau eine Adresse, Tobi. An dich.
+> 그 메일은 딱 한 주소로만 갔어요, 토비. 토비한테.
+TOBI: Marco, ick…
+= Marco, ich…
+> 마르코, 나는…
+MARCO: Herr Kasper hat angerufen. Er ist nicht glücklich. Gib mir mal dein Handy. Dein privates.
+> 카스퍼 씨가 전화했어요. 기분이 안 좋아요. 휴대폰 좀 줘 봐요. 개인 폰으로.
