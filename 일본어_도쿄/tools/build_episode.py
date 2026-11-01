@@ -65,9 +65,11 @@ def build(path):
         raise SystemExit(f"{path}: 턴 수 {total} (≠{TURNS})")
     names = {n for n, _ in cast}
     for _, lines in scenes:
-        for spk, _, _ in lines:
+        for spk, ja, _ in lines:
             if spk not in names:
                 raise SystemExit(f"{path}: 등장인물 목록에 없는 화자 {spk}")
+            if re.search(r"[\uac00-\ud7a3]", spk + ja):
+                raise SystemExit(f"{path}: 일본어 칸에 한글: {ja}")
 
     doc = Document()
     sec = doc.sections[0]
