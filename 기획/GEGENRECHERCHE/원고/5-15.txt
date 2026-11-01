@@ -1,0 +1,382 @@
+@part 5
+@ep 15
+@title Horst kommt nach Hause
+@sub 호르스트, 집에 오다 · 5부 피날레
+@info 대사 150턴 · 난이도 B2+ · 배경: 2028년 8월, 베딩 묘지, Spreewerk 편집국, 라이프치히와의 통화, 호르스트의 집, 엘케의 선술집
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast LEON | 레온 피셔 (24) · 기자
+@cast SWETA | 스베타 모로소바 (42) · 기자
+@cast TOBI | 토비 레베르크 (37) · 사진·위장 담당 (베를린 사투리)
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@cast HORST | 호르스트 렘케 (84) · 엘케의 단골
+@cast BÄRBEL | 배르벨 크란츠 (56) · «Pflege daheim Wedding» 대표 (베를린 사투리)
+@cast NESRIN | 네스린 악소이 (39) · 요양사
+@cast IOANA | 이오아나 (29) · 증인
+@cast DOINA | 도이나 (45) · 상담원
+@cast WALLNER | 게르트 발너 (68) · 은퇴한 감사관
+@cast PETRA | 페트라 노이만 (57) · 고인 베르너 노이만의 딸
+@cast GISELA | 기젤라 호프만 (79) · Gerichtstraße 61 세입자
+@cast OLSZEWSKI | 타데우시 올셰프스키 (81) · Gerichtstraße 61 세입자
+@cast DETLEF | 데틀레프 크라우제 (58) · 잡센터 수급자 (베를린 사투리)
+@cast DANA | 다나 슈스터 (48) · LKA 수사관
+@note ※ 5부 피날레. 간병보험 금고들이 대규모 감사에 착수하고, 하제는 위원회 전문가 직에서 물러나며, 이오아나는 피해자 지위를 인정받는다. 미라에 대한 고발은 중단되고, 호르스트는 배르벨의 업체로 돌아와 엘케 선술집 단골 자리에 앉는다. 다음 부 실마리: 케슬러 휴대폰 포렌식에서 나온 러시아어 텔레그램 채널 링크. 등장 인물·업체 가상.
+@note ※ 표현 초점: die Sonderprüfung · der Rücktritt · der Opferstatus · die Einstellung des Verfahrens · Uff Horst! · der Nebenjob
+@next 6부 1화 — «Wegwerfagenten»(일회용 요원) — 베를린 곳곳에서 소규모 방화·사보타주가 잇따른다. 범인들은 모두 '하루 500유로, 질문 없음' 광고를 보고 온 아르바이트생이다.
+
+# 콜드 오픈 — EIN LIED AM GRAB
+IOANA: Darf ich etwas singen? Sie hat es immer mitgesungen. Falsch. Aber laut.
+> 노래해도 될까요? 할머니가 늘 따라 부르셨어요. 틀리게. 근데 크게.
+MIRA: Sing, Ioana.
+> 불러, 이오아나.
+IOANA: «Ce frumoasă e iubirea…» … Das war es. Mehr Strophen kannte sie nicht. Also singe ich auch nicht mehr.
+> «사랑은 얼마나 아름다운가…» … 이게 다예요. 할머니는 그 이상 가사를 모르셨어요. 그러니까 저도 더 안 불러요.
+HELENE: Danke. Das war schön.
+> 고마워. 아름다웠어.
+MIRA: Ihre Enkelin hat aus Toronto geschrieben. Sie konnte nicht kommen. Sie hat gefragt, wer «die Rumänin» ist, von der ihre Großmutter am Telefon immer erzählt hat.
+> 손녀가 토론토에서 연락했어요. 올 수 없었대요. 할머니가 전화로 늘 얘기하던 «루마니아 아가씨»가 누구냐고 물었어요.
+IOANA: Was hast du ihr geantwortet?
+> 뭐라고 답했어?
+MIRA: Dass die Rumänin ihre zweite Enkelin war. Für acht Monate. Und dass ihre Großmutter es gewusst hat.
+> 루마니아 아가씨는 할머니의 두 번째 손녀였다고. 8개월 동안. 그리고 할머니가 그걸 알고 계셨다고.
+IOANA: Und was hat sie gesagt?
+> 그랬더니 뭐래?
+MIRA: «Dann danke ich meiner Schwester.»
+> «그럼 제 언니한테 감사해요.»
+ELKE: Komm, Mädchen. Nach'm Friedhof jibt et Kaffee. Und Kuchen. Ausjepackt.
+= Komm, Mädchen. Nach dem Friedhof gibt es Kaffee. Und Kuchen. Ausgepackt.
+> 가자, 아가씨. 묘지 다녀오면 커피 있어. 그리고 케이크. 포장 뜯은 거.
+
+# 장면 1 — DIE SONDERPRÜFUNG
+LEON: Eilmeldung. Die großen Pflegekassen in Berlin kündigen eine Sonderprüfung an. Alle Mitglieder von Pflege Plus. Rückwirkend zwei Jahre. Unangemeldet.
+> 속보. 베를린 주요 간병보험 금고들이 특별 감사를 발표했어요. Pflege Plus 회원사 전부. 2년 소급. 불시에.
+JAN: Unangemeldet. Das Wort hätte Haase nicht gern gehört.
+> 불시에. 하제가 듣기 싫어했을 말이네.
+LEON: Und die Kassen gleichen ab sofort Abrechnungen der Pflege mit Krankenhausaufenthalten automatisch ab. Nicht nach Monaten. Wöchentlich.
+> 그리고 금고들이 앞으로 돌봄 청구와 입원 기간을 자동으로 대조한대요. 몇 달 뒤가 아니라. 매주.
+MIRA: Wallners drittes Muster. Abrechnungen während Krankenhausaufenthalten. Jetzt sieht es jemand.
+> 발너 씨의 세 번째 패턴. 입원 중 청구. 이제 누가 보네요.
+WALLNER: Frau Aydın? Wallner. Ich habe die Meldung gelesen. Im Garten. Mit einer Tomate in der Hand.
+> 아이든 씨? 발너예요. 속보 읽었어요. 정원에서. 토마토 손에 들고.
+MIRA: Herr Wallner! Ich wollte Sie gerade anrufen. Ich schulde Ihnen eine Tomate.
+> 발너 씨! 막 전화하려던 참이에요. 토마토 하나 빚졌잖아요.
+WALLNER: Sie schulden mir nichts. Meine alte Abteilung hat mich heute früh angerufen. Sie wollen mich als Berater für die Sonderprüfung. Zwei Tage die Woche.
+> 빚진 거 없어요. 옛 부서가 오늘 아침 전화했어요. 특별 감사 자문역으로 원한대요. 일주일에 이틀.
+MIRA: Und? Machen Sie es?
+> 그래서요? 하실 거예요?
+WALLNER: Ich habe zehn Jahre gesagt, ich bin zu müde. Heute nicht. Heute bin ich zweiundsechzig Jahre jung. Oder achtundsechzig. Egal.
+> 10년 동안 너무 지쳤다고 했어요. 오늘은 아니에요. 오늘은 예순둘처럼 젊어요. 아니면 예순여덟. 상관없죠.
+MIRA: Und der Bericht von 2018? Der mit den vierzig Seiten?
+> 그럼 2018년 보고서는요? 40쪽짜리?
+WALLNER: Liegt seit heute früh wieder auf einem Schreibtisch. Ich habe ihn selbst hingelegt. Und Frau Aydın — die Tomate schicke ich Ihnen. Nicht umgekehrt.
+> 오늘 아침부터 다시 책상 위에 있어요. 제가 직접 올려놨어요. 그리고 아이든 씨 — 토마토는 제가 보낼게요. 반대가 아니라.
+
+# 장면 1-2 — DREI WOCHEN SPÄTER
+LEON: Frau Neumann? Leon Fischer. Ich habe versprochen, nach drei Wochen noch einmal zu fragen.
+> 노이만 씨? 레온 피셔예요. 3주 뒤에 다시 여쭤보겠다고 약속했었죠.
+PETRA: Ich habe auf Ihren Anruf gewartet. Und meine Antwort ist dieselbe wie vor drei Wochen. Aber jetzt ist sie ruhig. Nicht wütend.
+> 전화 기다렸어요. 그리고 제 답은 3주 전과 같아요. 근데 이제 차분해요. 화나서가 아니라.
+LEON: Darf ich den Namen Ihres Vaters nennen?
+> 아버님 성함을 써도 될까요?
+PETRA: Werner Neumann. Straßenbahnfahrer. Linie fünfzig. Dreißig Jahre. Nennen Sie ihn. Und nennen Sie die Linie. Er war stolz auf die Linie.
+> 베르너 노이만. 트램 기사. 50번 노선. 30년. 써 주세요. 그리고 노선도 써 주세요. 그 노선을 자랑스러워하셨어요.
+LEON: Und die Rechnung über den Eigenanteil?
+> 그리고 본인 부담금 청구서는요?
+PETRA: Sonnenhof hat sie zurückgezogen. Schriftlich. Mit einer Entschuldigung. Drei Zeilen. Unterschrieben von einem Insolvenzverwalter.
+> 조넨호프가 철회했어요. 서면으로. 사과와 함께. 세 줄. 파산 관재인 서명으로.
+LEON: Insolvenzverwalter? Seit wann?
+> 파산 관재인이요? 언제부터요?
+PETRA: Seit letzter Woche. Steht im Brief. Sonnenhof hat Insolvenz angemeldet. Mein Vater hat nie eine Rechnung zu spät bezahlt. Und die Firma, die in seinem Namen Rechnungen geschrieben hat, kann jetzt ihre eigenen nicht mehr bezahlen.
+> 지난주부터요. 편지에 있어요. 조넨호프가 파산 신청을 했어요. 아버지는 청구서를 한 번도 늦게 낸 적이 없는데. 아버지 이름으로 청구서를 쓰던 회사는 이제 자기 청구서를 못 내네요.
+LEON: Darf ich diesen Satz zitieren?
+> 그 문장 인용해도 될까요?
+PETRA: Mit Linie fünfzig.
+> 50번 노선이랑 같이요.
+
+# 장면 2 — DER RÜCKTRITT
+SWETA: Pflege Plus hat eine Mitteilung veröffentlicht. Haase legt sein Amt als Sachverständiger im Gesundheitsausschuss nieder. «Um die Aufklärung nicht zu belasten.»
+> Pflege Plus가 성명을 냈어요. 하제가 보건위원회 전문가 직을 내려놓는대요. «규명에 부담을 주지 않기 위해.»
+HELENE: Und den Vorsitz des Verbunds?
+> 그럼 연합 대표직은?
+SWETA: «Ruht vorübergehend.» Ein Interimsvorstand übernimmt.
+> «일시 정지.» 임시 이사회가 맡는대요.
+JAN: Ruht. Nicht beendet.
+> 정지. 끝난 게 아니라.
+KATRIN: Er ist nicht angeklagt. Er ist nicht einmal beschuldigt. Er hat die Konsequenz gezogen, die ihn am wenigsten kostet.
+> 그는 기소되지 않았어. 피의자도 아니고. 자기한테 비용이 제일 적게 드는 결론을 낸 거지.
+LEON: Dann hat er gewonnen?
+> 그럼 그가 이긴 거예요?
+HELENE: Er hat nicht verloren. Das ist etwas anderes. Er sitzt nicht mehr in dem Raum, in dem die Regeln gemacht werden. Für einen Mann wie ihn ist das der größte Verlust. Nicht das Geld. Der Raum.
+> 진 건 아니지. 그건 달라. 그는 더는 규칙이 만들어지는 방에 앉아 있지 않아. 그런 사람한텐 그게 가장 큰 손실이야. 돈이 아니라. 그 방.
+SWETA: Und Sonnenhof? Siebert?
+> 그럼 조넨호프는요? 지베르트는?
+KATRIN: Ermittlungsverfahren wegen gewerbsmäßigen Betrugs. Die Staatsanwaltschaft hat die Räume durchsucht. Und Schott sagt aus. Als Zeugin. Sie hat einen Anwalt, der ihr gesagt hat, dass Pflegedienstleitungen nicht ewig für Geschäftsführer schweigen.
+> 영업적 사기 혐의로 수사 절차. 검찰이 사무실을 압수 수색했어. 그리고 쇼트가 증언해. 증인으로. 간호 책임자는 영원히 대표를 위해 침묵하지 않는다고 알려 준 변호사가 있대.
+MIRA: Schott sagt aus.
+> 쇼트가 증언한다.
+KATRIN: Und ihre erste Aussage war offenbar: «Die grauen Listen kamen nicht von mir. Sie kamen aus der Verbundsoftware. Von oben.»
+> 그리고 첫 진술이 이랬대. «회색 목록은 내가 만든 게 아니다. 연합 소프트웨어에서 왔다. 위에서.»
+JAN: Von oben. Aus der Software, deren Einführung der Verbund für alle Mitglieder empfohlen hat.
+> 위에서. 연합이 모든 회원사에 도입을 권한 그 소프트웨어에서.
+HELENE: Das ist eine Aussage. Kein Urteil. Aber es ist die erste Tür, die sich nach oben öffnet.
+> 그건 진술이야. 판결이 아니라. 근데 위쪽으로 열리는 첫 번째 문이지.
+
+# 장면 3 — LEIPZIG
+DOINA: Ioana? Ich habe Neuigkeiten aus Leipzig. Setz dich.
+> 이오아나? 라이프치히 소식이에요. 앉아요.
+IOANA: Anca?
+> 안카요?
+DOINA: Die sächsische Polizei hat das Haus heute früh betreten. Zusammen mit dem Zoll und einer Beratungsstelle vor Ort. Vierzehn Menschen. Alle sind in Sicherheit. Anca auch.
+> 작센 경찰이 오늘 아침 그 건물에 들어갔어요. 세관이랑 현지 상담 기관이랑 같이. 열네 명. 전원 안전해요. 안카도.
+IOANA: Gott sei Dank. Gott sei Dank.
+> 다행이다. 정말 다행이다.
+DOINA: Und noch etwas. In einem Büro im Erdgeschoss lag ein Karton. Mit Pässen. Siebzehn Stück. Und Originalzeugnissen. Darunter ein rumänischer Pass auf den Namen Ioana Popescu.
+> 그리고 하나 더. 1층 사무실에 상자가 하나 있었어요. 여권이 든. 열일곱 개. 그리고 원본 증명서들. 그중에 이오아나 포페스쿠 이름의 루마니아 여권이 있었어요.
+IOANA: Mein Pass.
+> 내 여권.
+DOINA: Und ein Krankenpflegediplom aus Iași. Auf den Namen Anca Dumitru.
+> 그리고 이아시의 간호사 졸업장. 안카 두미트루 이름으로.
+IOANA: Ancas Diplom! Sie hat es zwei Jahre nicht gesehen.
+> 안카 졸업장! 2년 동안 못 봤는데.
+DOINA: Sie hat es heute Mittag in der Hand gehalten. Sie hat mich angerufen. Sie hat geweint. Und dann hat sie gesagt: «Ich fahre nach Hause. Mit dem Bus. Am Samstag. Zu Andrei und Maria.»
+> 오늘 점심에 손에 쥐었어요. 저한테 전화했어요. 울었어요. 그리고 이랬어요. «집에 갈 거예요. 버스로. 토요일에. 안드레이와 마리아한테.»
+IOANA: Und dann? Bleibt sie dort?
+> 그다음엔요? 거기 남아요?
+DOINA: Sie sagt: Erst Kinder. Dann Anerkennung. Mit dem Original. Bei einer seriösen Stelle. Und dann kommt sie zurück. Als Krankenschwester. Nicht als Pflegehelferin.
+> 이렇게 말해요. 먼저 아이들. 그다음 자격 인정. 원본으로. 제대로 된 기관에서. 그리고 돌아올 거래요. 간병 보조원 말고 간호사로.
+
+# 장면 3-2 — TADEK BEKOMMT POST
+OLSZEWSKI: Kowalczyk! Ich habe einen Brief bekommen. Von der Pflegekasse. Lies vor. Meine Brille ist bei Gisela.
+> 코발치크! 편지 받았어. 간병보험에서. 읽어 줘. 안경이 기젤라네 있어.
+JAN: «Sehr geehrter Herr Olszewski, im Rahmen einer Sonderprüfung haben wir festgestellt, dass für Sie Leistungen abgerechnet wurden, die nicht erbracht wurden. Sie sind hiervon nicht betroffen und müssen nichts zurückzahlen. Ihr Pflegegrad wird neu begutachtet.»
+> «존경하는 올셰프스키 씨, 특별 감사 과정에서 당신 명의로 제공되지 않은 서비스가 청구된 사실을 확인했습니다. 당신은 이와 무관하며 아무것도 반환할 필요가 없습니다. 당신의 요양 등급은 재감정될 예정입니다.»
+OLSZEWSKI: Neu begutachtet. Dann kommt jemand zu mir?
+> 재감정. 그럼 누가 나한테 와?
+JAN: Diesmal wirklich. Vom Medizinischen Dienst.
+> 이번엔 진짜로요. 의료감정원에서.
+OLSZEWSKI: Gut. Dann zeige ich ihm, wie ich drei Stockwerke hochgehe. Mit Gisela's Wasserkästen.
+> 좋아. 그럼 3층을 어떻게 올라가는지 보여 줘야지. 기젤라 물 상자 들고.
+GISELA: Und denn kriegste keenen Pflegegrad mehr, Tadek.
+= Und dann kriegst du keinen Pflegegrad mehr, Tadek.
+> 그럼 넌 이제 등급 못 받아, 타덱.
+OLSZEWSKI: Wunderbar. Ich wollte nie einen. Ich wollte nur, dass niemand für mich krank ist.
+> 잘됐네. 원한 적 없어. 그냥 아무도 나 대신 아프지 않길 바랐을 뿐이야.
+JAN: Und der, der für Sie krank war?
+> 그럼 당신 대신 아팠던 사람은요?
+OLSZEWSKI: Der schuldet mir immer noch ein Pierogi. Schreib das auf, Kowalczyk.
+> 그놈은 아직도 나한테 피에로기 하나 빚졌어. 적어 둬, 코발치크.
+
+# 장면 4 — IOANAS ENTSCHEIDUNG
+KATRIN: Ioana, die Staatsanwaltschaft hat dich offiziell als Verletzte im Verfahren wegen Arbeitsausbeutung anerkannt. Das heißt: Du hast Rechte. Akteneinsicht über deine Anwältin. Und Anspruch auf Entschädigung.
+> 이오아나, 검찰이 너를 노동 착취 사건의 피해자로 공식 인정했어. 그 말은: 권리가 있다는 거야. 변호사를 통한 기록 열람. 그리고 배상 청구권.
+IOANA: Und die Schuld? Die vierzehnhundert Euro?
+> 그럼 빚은요? 1,400유로?
+DOINA: Gibt es nicht mehr. Die Agentur hat über ihren Anwalt erklärt, keine Forderungen mehr geltend zu machen. Sie haben Angst vor dem, was ein Gericht dazu sagen würde.
+> 이제 없어요. 에이전시가 변호사를 통해 더는 청구하지 않겠다고 밝혔어요. 법원이 뭐라고 할지 무서운 거죠.
+IOANA: Und der Lohn? Acht Monate?
+> 그럼 임금은요? 8개월?
+DOINA: Die Arbeitsrechtlerin verhandelt. Mit dem Insolvenzverwalter von Sonnenhof, wenn es so weit kommt. Es wird dauern. Aber es kommt.
+> 노동법 변호사가 협상 중이에요. 상황이 그렇게 되면 조넨호프 파산 관재인과. 시간이 걸릴 거예요. 근데 와요.
+IOANA: Dann habe ich eine Frage an Frau Kranz. Ist sie hier?
+> 그럼 크란츠 씨한테 질문이 있어요. 여기 계세요?
+BÄRBEL: Ick bin hier. Wat willste wissen, Mädchen?
+= Ich bin hier. Was willst du wissen, Mädchen?
+> 나 여기 있어. 뭐가 궁금해, 아가씨?
+IOANA: Sie haben jetzt fünfzehn Patienten. Bald sechzehn. Brauchen Sie eine Pflegehelferin? Ich klopfe. Ich singe. Falsch, aber laut.
+> 이제 환자가 열다섯이시잖아요. 곧 열여섯. 간병 보조원 필요하세요? 노크해요. 노래해요. 틀리게, 근데 크게.
+BÄRBEL: … Zwanzig Stunden. Und zwanzig Stunden heißt bei mir zwanzig Stunden. Wer länger bleibt, kriegt dit bezahlt. Oder ick schick ihn nach Hause.
+= … Zwanzig Stunden. Und zwanzig Stunden heißt bei mir zwanzig Stunden. Wer länger bleibt, kriegt das bezahlt. Oder ich schicke ihn nach Hause.
+> … 20시간. 그리고 우리한테 20시간은 20시간이야. 더 남으면 그만큼 줘. 아니면 집에 보내.
+IOANA: Und eine Unterkunft?
+> 그리고 숙소는요?
+BÄRBEL: Keene. Ick bin keene Vermieterin. Aber Elke hat oben 'n Zimmer frei. Mit Bett. Und mit 'nem Fenster zum Hof.
+= Keine. Ich bin keine Vermieterin. Aber Elke hat oben ein Zimmer frei. Mit Bett. Und mit einem Fenster zum Hof.
+> 없어. 난 집주인이 아니야. 근데 엘케네 위층에 방이 하나 비어 있어. 침대 있고. 마당 쪽 창문도 있고.
+ELKE: Für zweihundertfuffzig warm. Und Sonntags hilfste beim Spülen. Dit is keen Lohnabzug. Dit is Familie.
+= Für zweihundertfünfzig warm. Und sonntags hilfst du beim Spülen. Das ist kein Lohnabzug. Das ist Familie.
+> 난방 포함 250. 그리고 일요일엔 설거지 도와. 그건 임금 공제가 아니야. 가족이지.
+
+# 장면 5 — DAS VERFAHREN GEGEN MIRA
+KATRIN: Mira. Post von der Staatsanwaltschaft. Das Verfahren gegen dich ist eingestellt. Mangels hinreichenden Tatverdachts. Alle drei Vorwürfe.
+> 미라. 검찰에서 우편. 너에 대한 절차가 중단됐어. 충분한 혐의 부족으로. 세 가지 혐의 전부.
+MIRA: Alle drei?
+> 세 가지 다요?
+KATRIN: Vernachlässigung: widerlegt durch deine Protokolle, Ioanas Screenshots und die Aussage von Frau Schott. Betrug: Die Abrechnungen hat das Büro gemacht, nicht du. Hausfriedensbruch: Du hattest einen Arbeitsvertrag und wurdest jedes Mal hereingebeten.
+> 방치: 네 기록, 이오아나 스크린숏, 쇼트 씨 진술로 반박. 사기: 청구는 네가 아니라 사무실이 했고. 주거 침입: 근로계약이 있었고 매번 들어오라고 했지.
+MIRA: Und das Boulevardportal?
+> 그럼 타블로이드 포털은요?
+KATRIN: Hat eine Gegendarstellung veröffentlicht. Klein. Unten. Aber sie steht da. Mit deinem Namen. Diesmal richtig geschrieben.
+> 반론 보도를 냈어. 작게. 아래쪽에. 근데 있어. 네 이름으로. 이번엔 제대로 써서.
+HELENE: Und das Gehalt von Sonnenhof? Das Treuhandkonto?
+> 그리고 조넨호프 급여는? 신탁 계좌는?
+MIRA: Zweitausendeinhundert Euro. Ich habe es heute überwiesen. An die Beratungsstelle in Kreuzberg. Verwendungszweck: «Für ein Bett. Nicht für eine Matratze.»
+> 2,100유로. 오늘 송금했어요. 크로이츠베르크 상담 기관으로. 송금 목적: «침대를 위해. 매트리스 말고.»
+JAN: Und du? Wie geht es dir?
+> 그리고 넌? 어때?
+MIRA: Leiser. Wie Frau Paulsen gesagt hat. Nicht weg. Leiser. Und ich habe beschlossen, dass ich nächstes Mal wieder klopfe. Bei jeder Geschichte. Auch wenn keine Tür da ist.
+> 조용해졌어요. 파울젠 씨 말대로. 사라진 게 아니라. 조용해졌어요. 그리고 다음에도 노크하기로 했어요. 모든 이야기에서. 문이 없더라도.
+
+# 장면 5-2 — DETLEF HAT EINEN TERMIN
+DETLEF: Schwabe! Rat ma, wat passiert is.
+= Schwabe! Rate mal, was passiert ist.
+> 슈바벤 청년! 무슨 일 있었는지 맞혀 봐.
+LEON: Sie haben eine Stelle?
+> 일자리 구하셨어요?
+DETLEF: Noch besser. Ick hab 'nen Termin bekommen. Bei der Sonderjruppe. Und die Frau da hat mir zujehört. Zwanzig Minuten. Und denn hat se jesacht: «Herr Krause, Sie sind Klempner. Sie können nicht heben. Aber Sie können erklären. Wie wäre es mit Ausbilder?»
+= Noch besser. Ich habe einen Termin bekommen. Bei der Sondergruppe. Und die Frau da hat mir zugehört. Zwanzig Minuten. Und dann hat sie gesagt: «Herr Krause, Sie sind Klempner. Sie können nicht heben. Aber Sie können erklären. Wie wäre es mit Ausbilder?»
+> 그보다 좋아. 예약을 받았어. 특별반에서. 그리고 거기 여자가 내 말을 들어 줬어. 20분. 그다음 이러더라. «크라우제 씨, 배관공이시죠. 들 순 없어도 설명은 하실 수 있잖아요. 직업 교관은 어떠세요?»
+LEON: Ausbilder! Für junge Klempner?
+> 교관! 젊은 배관공들을 위한?
+DETLEF: In der Berufsschule in Reinickendorf. Ab September. Ick muss nüscht heben. Nur kieken, dass die Jungen richtig heben.
+= In der Berufsschule in Reinickendorf. Ab September. Ich muss nichts heben. Nur gucken, dass die Jungen richtig heben.
+> 라이니켄도르프 직업학교에서. 9월부터. 아무것도 안 들어도 돼. 젊은 애들이 제대로 드는지 보기만 하면 돼.
+LEON: Herr Krause, das ist wunderbar.
+> 크라우제 씨, 정말 멋져요.
+DETLEF: Und weeßte, wat dit Beste is? Ick hab zwee Jahre jewartet. Und denn hat eene Frau zwanzig Minuten zujehört. Mehr war et nich. Zwanzig Minuten.
+= Und weißt du, was das Beste ist? Ich habe zwei Jahre gewartet. Und dann hat eine Frau zwanzig Minuten zugehört. Mehr war es nicht. Zwanzig Minuten.
+> 그리고 제일 좋은 게 뭔지 알아? 2년을 기다렸어. 그런데 한 여자가 20분 들어 줬어. 그게 다였어. 20분.
+LEON: Und Yasmin? Haben Sie von ihr gehört?
+> 그리고 야스민 씨는요? 소식 들으셨어요?
+DETLEF: Die mit dem Kleenen? Die hat ihren Widerspruch jewonnen. Hat se mir im Wartesaal erzählt. Der Kleene hat 'nen Bus jemalt. Für dich. Hat se mir mitjejeben.
+= Die mit dem Kleinen? Die hat ihren Widerspruch gewonnen. Hat sie mir im Wartesaal erzählt. Der Kleine hat einen Bus gemalt. Für dich. Hat sie mir mitgegeben.
+> 꼬마 있는 그 엄마? 이의 신청 이겼어. 대기실에서 얘기해 주더라. 꼬마가 버스 그림을 그렸어. 너 주려고. 나한테 맡기더라.
+LEON: Ein Bus. Ohne Taxameter.
+> 버스. 미터기 없는.
+DETLEF: Busse ham keene Taxameter, Schwabe.
+= Busse haben keine Taxameter, Schwabe.
+> 버스엔 미터기가 없어, 슈바벤 청년.
+
+# 장면 6 — DER ERSTE MORGEN
+NESRIN: Herr Lemke? Pflege daheim Wedding. Ich bin's, Nesrin. Darf ich reinkommen?
+> 렘케 씨? 플레게 다하임 베딩이에요. 저예요, 네스린. 들어가도 될까요?
+HORST: Nesrin! Mädchen! Komm rin! Ick hab Kaffee jemacht. Den schlechten. Wie früher.
+= Nesrin! Mädchen! Komm rein! Ich habe Kaffee gemacht. Den schlechten. Wie früher.
+> 네스린! 아가씨! 들어와! 커피 끓였어. 맛없는 거. 예전처럼.
+NESRIN: Erst das Insulin. Dann der schlechte Kaffee. Und dann die Geschichte vom Kiez-Pokal neunzehnhundertachtundachtzig.
+> 먼저 인슐린. 그다음 맛없는 커피. 그다음 1988년 동네 우승컵 얘기.
+HORST: Die kennste doch.
+= Die kennst du doch.
+> 그거 알잖아.
+NESRIN: Ich habe sie sechs Jahre lang gehört. Und ich habe Ihnen nie gesagt, dass ich sie kenne. Heute sage ich es. Ich kenne sie. Und ich will sie trotzdem hören.
+> 6년 동안 들었어요. 그리고 안다고 한 번도 말 안 했어요. 오늘은 말할게요. 알아요. 그래도 듣고 싶어요.
+HORST: … Dit is dit Schönste, wat mir eener in drei Monaten jesacht hat.
+= … Das ist das Schönste, was mir einer in drei Monaten gesagt hat.
+> … 석 달 동안 누가 나한테 한 말 중에 제일 좋은 말이네.
+BÄRBEL: Und der Zettel, Horst. Hier. Unser Leistungsnachweis. Kiek ihn dir an. Er hängt am Kühlschrank. Mit Kaffeefleck. Und du unterschreibst jeden Tag. Nich vorher. Jeden Tag.
+= Und der Zettel, Horst. Hier. Unser Leistungsnachweis. Guck ihn dir an. Er hängt am Kühlschrank. Mit Kaffeefleck. Und du unterschreibst jeden Tag. Nicht vorher. Jeden Tag.
+> 그리고 종이, 호르스트. 여기. 우리 수행 확인서. 봐 봐. 냉장고에 붙어 있어. 커피 얼룩까지. 그리고 매일 서명해. 미리 말고. 매일.
+HORST: Mit Brille.
+> 안경 끼고.
+BÄRBEL: Mit Brille. Und wenn de die Brille nich findest, suchen wa se zusammen. Dit jehört zur Pflege.
+= Mit Brille. Und wenn du die Brille nicht findest, suchen wir sie zusammen. Das gehört zur Pflege.
+> 안경 끼고. 그리고 안경 못 찾으면 같이 찾자. 그것도 돌봄이야.
+
+# 장면 6-2 — WAS DIESER TEIL GELEHRT HAT
+HELENE: Bevor wir zu Elke gehen: drei Sätze. Wie immer.
+> 엘케네 가기 전에: 세 문장. 늘 그렇듯.
+JAN: Drei Sätze, Helene.
+> 세 문장, 헬레네.
+HELENE: Erstens: Ein Zettel am Kühlschrank kann lügen. Ein Mensch, der klopft, nicht.
+> 첫째: 냉장고의 종이는 거짓말할 수 있다. 노크하는 사람은 아니다.
+HELENE: Zweitens: Wer über Betrug am Sozialstaat schreibt, muss zuerst die Menschen in der Schlange sehen. Und dann die an der Hintertür.
+> 둘째: 사회 국가에 대한 사기를 쓰는 사람은 먼저 줄 선 사람들을 봐야 한다. 그다음 뒷문의 사람들을.
+HELENE: Drittens: Die Kleinen müssen nicht weg. Die Kleinen sind die, die noch klopfen.
+> 셋째: 작은 데가 없어질 필요는 없다. 작은 데야말로 아직 노크하는 사람들이다.
+SWETA: Und ein vierter? Von mir?
+> 그리고 넷째 하나? 제가?
+HELENE: Einer. Kurz.
+> 하나만. 짧게.
+SWETA: Niemand soll allein sein. Das war nicht Haases Satz. Das war Ernas. Und jetzt gehört er wieder ihr.
+> 아무도 혼자여선 안 된다. 그건 하제의 문장이 아니었어요. 에르나 할머니 거였어요. 그리고 이제 다시 그분 거예요.
+MIRA: Und Ioanas.
+> 그리고 이오아나 거.
+LEON: Und Horsts. Er hat zwei Tage gerufen. Jetzt hört ihn jemand.
+> 그리고 호르스트 씨 거. 이틀 동안 불렀잖아요. 이제 누가 들어요.
+TOBI: Und jetzt jehen wa. Elke hat 'n Grand im Ärmel. Und Horst 'ne Revanche.
+= Und jetzt gehen wir. Elke hat einen Grand im Ärmel. Und Horst eine Revanche.
+> 그리고 이제 가자. 엘케는 소매에 그랑을 숨겼고. 호르스트는 설욕전을 벼르고.
+HELENE: Und keiner liegt auf dem Boden. Das ist alles, was ich heute will.
+> 그리고 아무도 바닥에 누워 있지 않기를. 오늘 내가 바라는 건 그게 다야.
+
+# 장면 7 — SONNTAG, SKAT
+ELKE: So. Sonntag. Fenster. Horst an seinem Platz. Mira jegenüber. Leon als Dritter. Ick jeb.
+= So. Sonntag. Fenster. Horst an seinem Platz. Mira gegenüber. Leon als Dritter. Ich gebe.
+> 자. 일요일. 창가. 호르스트는 제자리에. 미라는 맞은편. 레온이 세 번째. 내가 카드 돌릴게.
+HORST: Achtzehn.
+> 18.
+MIRA: Zwanzig.
+> 20.
+HORST: Zwanzig sacht se. Mit dem Jesicht. Mädchen, du kiekst nich ehrlich. Du kiekst wie 'ne Buchhalterin.
+= Zwanzig sagt sie. Mit dem Gesicht. Mädchen, du guckst nicht ehrlich. Du guckst wie eine Buchhalterin.
+> 20이래. 그 얼굴로. 아가씨, 넌 정직하게 안 봐. 경리처럼 봐.
+MIRA: Ich habe von einer Buchhalterin gelernt. Vierzig Jahre BVG.
+> 경리한테 배웠거든요. BVG 40년.
+HORST: Erna. Na denn. Dreiundzwanzig.
+> 에르나. 그렇다면. 23.
+MIRA: Vierundzwanzig.
+> 24.
+LEON: Ich passe. Ich passe immer. Ich habe ein ehrliches Gesicht.
+> 패스. 전 늘 패스예요. 정직한 얼굴이라서.
+HORST: Siebenundzwanzig.
+> 27.
+MIRA: Dreißig.
+> 30.
+HORST: … Spiel.
+> … 해 봐.
+TOBI: Und? Wer hat jewonnen?
+= Und? Wer hat gewonnen?
+> 그래서? 누가 이겼어?
+ELKE: Mira. Mit 'nem Grand. Zum ersten Mal in vierzig Jahren hat Horst an seinem eijenen Fenster verloren.
+= Mira. Mit einem Grand. Zum ersten Mal in vierzig Jahren hat Horst an seinem eigenen Fenster verloren.
+> 미라. 그랑으로. 40년 만에 처음으로 호르스트가 자기 창가에서 졌어.
+HORST: Ick hab se jewinnen lassen.
+= Ich habe sie gewinnen lassen.
+> 내가 이기게 해 준 거야.
+ELKE: Nee, haste nich. Ick hab dein Jesicht jesehen.
+= Nein, hast du nicht. Ich habe dein Gesicht gesehen.
+> 아니, 안 그랬어. 네 얼굴 봤어.
+HORST: … Na jut. Sie hat jewonnen. Ehrlich. Dit is dit Zweetschönste heute.
+= … Na gut. Sie hat gewonnen. Ehrlich. Das ist das Zweitschönste heute.
+> … 그래. 쟤가 이겼어. 정직하게. 오늘 두 번째로 좋은 일이야.
+ELKE: Und dit Schönste?
+= Und das Schönste?
+> 그럼 제일 좋은 건?
+HORST: Dass ick hier sitze. An meinem Fenster. Und keener liecht uff'm Boden.
+= Dass ich hier sitze. An meinem Fenster. Und keiner liegt auf dem Boden.
+> 내가 여기 앉아 있다는 거. 내 창가에. 그리고 아무도 바닥에 누워 있지 않다는 거.
+ELKE: Denn: Uff Horst!
+= Dann: Auf Horst!
+> 그럼: 호르스트를 위하여!
+ALLE: Uff Horst!
+= Auf Horst!
+> 호르스트를 위하여!
+
+# 엔딩 — EIN LINK
+DANA: Kowalczyk. Hast du einen Moment? Draußen. Nicht am Tresen.
+> 코발치크. 잠깐 시간 돼? 밖에서. 카운터 말고.
+JAN: Am Sonntag? Beim Skat?
+> 일요일에? 스카트 중에?
+DANA: Gerade am Sonntag. Unter der Woche hören zu viele zu. Die Forensiker sind mit Kesslers Handy fertig.
+> 일요일이니까. 평일엔 너무 많은 사람이 들어. 포렌식 팀이 케슬러 휴대폰 분석을 마쳤어.
+JAN: Und?
+> 그래서?
+DANA: Das meiste ist, was wir erwartet haben. Nachrichten an Brandes. Fotos von Bescheiden. Aber eine Sache passt nicht. Ein Link. In einem gelöschten Chat. Russischsprachig. Ein Telegram-Kanal.
+> 대부분은 예상한 거야. 브란데스한테 보낸 메시지. 결정문 사진. 근데 하나가 안 맞아. 링크 하나. 삭제된 대화에서. 러시아어. 텔레그램 채널.
+JAN: Ein russischer Kanal? Bei einem Jobcenter-Teamleiter aus Spandau?
+> 러시아 채널? 슈판다우 잡센터 팀장한테?
+DANA: Der Kanal heißt «Berliner Nebenjobs». Darunter: «Fünfhundert Euro am Tag. Keine Fragen.» Kessler hat den Link an niemanden geschickt. Er hat ihn bekommen. Von einer Nummer, die es nicht mehr gibt. Mit einer Frage: «Haben Sie noch Kontakte zu Leuten, die schnell Geld brauchen?»
+> 채널 이름은 «베를린 소일거리». 그 아래: «하루 500유로. 질문 없음.» 케슬러는 그 링크를 아무한테도 안 보냈어. 받았어. 이제 없는 번호에서. 이런 질문과 함께. «돈이 급한 사람들과 아직 연줄 있습니까?»
+JAN: Leute, die schnell Geld brauchen. Wie die Menschen in seinem Wartesaal.
+> 돈이 급한 사람들. 그의 대기실 사람들처럼.
+DANA: Genau. Er hatte Zugang zu Tausenden von Menschen in Not. Mit Adresse, Konto, Lebenslauf. Und jemand wollte diese Liste.
+> 바로 그거야. 그는 곤궁한 사람 수천 명에게 접근할 수 있었어. 주소, 계좌, 이력까지. 그리고 누군가 그 명단을 원했어.
+JAN: Wofür?
+> 뭐 하려고?
+DANA: Das weiß ich nicht. Noch nicht. Aber in den letzten drei Wochen gab es in Berlin elf kleine Brände. Kabelschächte, Bahnanlagen, ein Lieferwagen einer Rüstungsfirma. Und bei zwei der Festgenommenen haben wir denselben Kanal auf dem Handy gefunden.
+> 몰라. 아직은. 근데 지난 3주 동안 베를린에서 작은 화재가 열한 건 있었어. 케이블 덕트, 철도 시설, 방산 업체 배송 차량 한 대. 그리고 체포된 자 중 둘의 휴대폰에서 같은 채널을 찾았어.
+JAN: Fünfhundert Euro am Tag. Keine Fragen.
+> 하루 500유로. 질문 없음.
+DANA: Geh wieder rein. Lass Horst verlieren. Aber ab morgen, Kowalczyk — schau dir den Kanal an.
+> 다시 들어가. 호르스트가 지게 둬. 근데 내일부터, 코발치크 — 그 채널을 들여다봐.
