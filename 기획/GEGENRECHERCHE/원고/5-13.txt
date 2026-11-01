@@ -1,0 +1,364 @@
+@part 5
+@ep 13
+@title Mira ist erschöpft
+@sub 미라, 지치다 · 위장 취재가 남기는 것
+@info 대사 150턴 · 난이도 B2+ · 배경: 2028년 7월 하순, 에르나 베르크의 집, 조넨호프 사무실, 미라의 집, 수퍼비전 상담실, 엘케의 선술집, 샤리테 병동
+@cast MIRA | 미라 아이든 (31) · 데이터 기자
+@cast ERNA | 에르나 베르크 (88) · 조넨호프 환자
+@cast SCHOTT | 모니카 쇼트 (49) · 조넨호프 간호 책임자
+@cast JAN | 얀 코발치크 (45) · 탐사팀장
+@cast HELENE | 헬레네 브란트 (59) · 편집장
+@cast KATRIN | 카트린 볼니 박사 (52) · 변호사
+@cast HATICE | 하티제 아이든 (58) · 미라의 어머니
+@cast PAULSEN | 리자 파울젠 (61) · 기자 대상 수퍼비전 심리상담가
+@cast ELKE | 엘케 푸쉬 (66) · 선술집 주인 (베를린 사투리)
+@cast HORST | 호르스트 렘케 (84) · 엘케의 단골
+@cast GERLACH | 쿠르트 게를라흐 (79) · 조넨호프 환자, 전직 인쇄공
+@cast IOANA | 이오아나 (29) · 증인
+@cast LEON | 레온 피셔 (24) · 기자
+@note ※ 잠입 막바지. 미라가 돌보던 에르나 베르크가 밤사이 자연사한다(방치와 무관). 같은 날 업체는 미라의 정체를 알아채고, 회색 목록에 찍힌 그녀의 약자를 근거로 '환자 방치'로 고발하며 평판을 공격한다. 미라는 번아웃에 빠진다. 위장 취재가 기자에게 남기는 마음의 상처와 수퍼비전을 다룬다. 등장 인물·업체 가상.
+@note ※ 표현 초점: die Erschöpfung · die Trauer · die Anzeige · die Rufschädigung · die Supervision · der Abschied
+@next 5부 14화 — «Wer pflegt, wer kassiert»(누가 돌보고 누가 챙기나) — 하제는 공청회 직전 반론 질의를 받고 "개별 업체의 일탈"이라 답한다. 기사, 증언 영상, 청구 데이터를 함께 공개한다.
+
+# 콜드 오픈 — SIEBEN UHR ZWÖLF
+MIRA: Frau Berg? Ich bin's, Emine. Darf ich reinkommen?
+> 베르크 부인? 저예요, 에미네. 들어가도 될까요?
+MIRA: Frau Berg?
+> 베르크 부인?
+MIRA: Frau Berg… Sie schlafen noch. Ich komme rein. Ich mache jetzt das Licht an. Ganz langsam.
+> 베르크 부인… 아직 주무시네요. 들어갈게요. 이제 불 켤게요. 아주 천천히.
+MIRA: … Frau Berg. Erna.
+> … 베르크 부인. 에르나 할머니.
+MIRA: Jan. Pfefferminztee. Nein. Nicht Gefahr. Sie ist… sie ist tot. Im Bett. Sie sieht aus, als würde sie schlafen. Ihre Hände sind gefaltet. Der Kuchen steht noch auf dem Tisch. Ausgepackt.
+> 얀. 페퍼민트 차. 아니. 위험한 게 아니에요. 할머니가… 돌아가셨어요. 침대에서. 주무시는 것 같아요. 손을 모으고 계세요. 케이크가 아직 탁자에 있어요. 포장 뜯은 채로.
+JAN: Mira. Atme. Was musst du jetzt tun? Als Pflegerin.
+> 미라. 숨 쉬어. 지금 뭘 해야 해? 요양사로서.
+MIRA: Den Notarzt rufen. Er muss den Tod feststellen. Die Pflegedienstleitung informieren. Die Angehörigen. Nichts verändern im Zimmer.
+> 응급의를 불러요. 사망을 확인해야 해요. 간호 책임자한테 알려요. 가족한테도. 방 안의 건 아무것도 바꾸지 않아요.
+JAN: Dann tu genau das. In dieser Reihenfolge. Und dann ruf mich wieder an.
+> 그럼 정확히 그렇게 해. 그 순서로. 그다음 다시 전화해.
+MIRA: Jan… gestern war sie weiß. In der App. Ich war hier. Um zwölf. Sie hat gesagt, die Enkelin aus Toronto ruft am Sonntag an.
+> 얀… 어제 할머니는 흰색이었어요. 앱에서. 제가 여기 왔었어요. 12시에. 토론토 손녀가 일요일에 전화한대요, 그러셨어요.
+JAN: Du warst da. Du warst gestern da. Das ist das Wichtigste, was du heute wissen musst.
+> 넌 거기 있었어. 어제 거기 있었어. 그게 오늘 네가 알아야 할 가장 중요한 거야.
+
+# 장면 1 — DER NOTARZT IST GEGANGEN
+MIRA: Der Notarzt sagt: Herzversagen. Im Schlaf. Irgendwann nach Mitternacht. Natürlicher Tod. Achtundachtzig Jahre.
+> 응급의 말로는: 심부전. 자다가. 자정 지나 언젠가. 자연사. 여든여덟.
+HELENE: Mira, wo bist du jetzt?
+> 미라, 지금 어디야?
+MIRA: Auf der Treppe vor ihrer Wohnung. Ich kann nicht weiterfahren. Ich habe noch acht Patienten auf der Liste.
+> 할머니 집 앞 계단에요. 계속 못 가겠어요. 목록에 환자가 아직 여덟 명 있어요.
+HELENE: Hast du die Leitstelle informiert?
+> 관리실에 알렸어?
+MIRA: Schott weiß es. Sie hat gesagt: «Kommen Sie ins Büro. Sofort.» Nicht: «Wie geht es Ihnen?» Nicht: «Das tut mir leid.» Nur: «Sofort.»
+> 쇼트가 알아요. «사무실로 와요. 당장.» «괜찮아요?»도 아니고. «유감이에요»도 아니고. 그냥 «당장».
+JAN: Dann gehst du nicht allein. Leon holt dich ab. Er wartet unten. Er geht nicht mit rein. Aber er wartet.
+> 그럼 혼자 가지 마. 레온이 데리러 가. 아래서 기다릴 거야. 같이 들어가진 않아. 근데 기다려.
+MIRA: Was ist mit Frau Bergs Enkelin? Wer ruft sie an?
+> 베르크 부인 손녀는요? 누가 전화해요?
+HELENE: Das macht der Dienst. Nicht du. Das ist nicht deine Aufgabe.
+> 그건 업체가 해. 네가 아니라. 네 일이 아니야.
+MIRA: Aber sie wird am Sonntag anrufen. Und niemand geht ran.
+> 근데 손녀가 일요일에 전화할 거예요. 그리고 아무도 안 받겠죠.
+HELENE: Mira. Hör mir zu. Du hast heute einen Menschen gefunden, den du gemocht hast. Das ist Trauer. Keine Recherche. Du darfst traurig sein, ohne etwas zu tun.
+> 미라. 내 말 들어. 넌 오늘 좋아하던 사람을 발견했어. 그건 슬픔이야. 취재가 아니라. 아무것도 안 하고 슬퍼해도 돼.
+
+# 장면 2 — IM BÜRO
+SCHOTT: Setzen Sie sich, Frau Aydın. Oder soll ich sagen: Frau Aydın von Spreewerk?
+> 앉아요, 아이든 씨. 아니면 이렇게 불러야 하나: Spreewerk의 아이든 씨?
+MIRA: …
+> …
+SCHOTT: Sie müssen nicht antworten. Dr. Haase hat gestern Abend eine Liste geschickt. Mitarbeiter, die in den letzten drei Monaten eingestellt wurden. Mit der Bitte, sie gegen Pressefotos und Bylines abzugleichen. Es gibt kein Foto von Ihnen. Aber es gibt eine Mira Aydın. Und eine Emine Mira Aydın in unseren Personalakten.
+> 대답 안 해도 돼요. 하제 박사님이 어젯밤 명단을 보냈어요. 지난 석 달 동안 채용된 직원들. 언론 사진과 기사 서명이랑 대조해 보라고. 당신 사진은 없어요. 근데 미라 아이든이 있어요. 그리고 우리 인사 기록에 에미네 미라 아이든이 있고요.
+MIRA: Ich habe nie gelogen. Mein Name steht in meinem Pass. Ich habe jeden Patienten richtig gepflegt.
+> 거짓말한 적 없어요. 제 이름은 여권에 있어요. 환자 한 명 한 명 제대로 돌봤어요.
+SCHOTT: Richtig gepflegt? Frau Berg ist heute Nacht gestorben. Auf Ihrer Tour.
+> 제대로 돌봤다고요? 베르크 부인이 오늘 밤 돌아가셨어요. 당신 순회에서.
+MIRA: Natürlicher Tod. Der Notarzt hat es festgestellt. Ich war gestern um zwölf bei ihr.
+> 자연사예요. 응급의가 확인했어요. 전 어제 12시에 할머니 댁에 있었어요.
+SCHOTT: Das sagen Sie. Und auf den Listen der letzten vier Wochen steht Ihr Kürzel bei zwölf Patienten, die laut unseren Unterlagen nicht versorgt wurden. Wissen Sie, wie das aussieht?
+> 그건 당신 말이죠. 그리고 지난 4주 목록에 우리 기록상 돌봄 받지 못한 환자 열두 명 옆에 당신 약자가 있어요. 그게 어떻게 보이는지 알아요?
+MIRA: Die grauen Namen. Sie haben mein Kürzel bei den grauen Namen eingetragen. Nicht ich.
+> 회색 이름들. 회색 이름 옆에 제 약자를 넣은 건 당신들이에요. 제가 아니라.
+SCHOTT: Das ist Ihre Version. Unsere Version ist: Eine Journalistin hat sich eingeschlichen, Patienten vernachlässigt, um eine Geschichte zu produzieren. Und eine alte Frau ist gestorben. Sie sind fristlos entlassen. Unser Anwalt erstattet heute Anzeige.
+> 그건 당신 버전이고. 우리 버전은: 기자가 잠입해서 기사를 만들려고 환자를 방치했다. 그리고 노부인이 돌아가셨다. 당신은 즉시 해고예요. 우리 변호사가 오늘 고발할 거예요.
+MIRA: Wegen was?
+> 무슨 혐의로요?
+SCHOTT: Vernachlässigung Schutzbefohlener. Betrug. Und Hausfriedensbruch. Und wir informieren die Presse. Die anderen. Die, die nicht lügen.
+> 피보호자 방치. 사기. 그리고 주거 침입. 그리고 언론에 알릴 거예요. 다른 언론에. 거짓말 안 하는 데.
+MIRA: Ich habe Frau Berg gemocht.
+> 전 베르크 부인을 좋아했어요.
+SCHOTT: Das schreiben Sie dann in Ihren Artikel. Die Tür ist da.
+> 그건 당신 기사에 쓰세요. 문은 저쪽이에요.
+
+# 장면 2-2 — EIN LETZTER BESUCH
+MIRA: Herr Gerlach? Ich bin's. Ich klopfe. Aber ich komme heute nicht als Pflegerin.
+> 게를라흐 씨? 저예요. 노크해요. 근데 오늘은 요양사로 온 게 아니에요.
+GERLACH: Komm rein, Höfliche. Ich hab's schon gehört. Die Neue war heute früh da. Hat nicht geklopft. Hat gesagt, du bist eine Spionin.
+> 들어와, 예의 바른 아가씨. 벌써 들었어. 새로 온 애가 오늘 아침에 왔었어. 노크도 안 하더군. 네가 스파이라더라.
+MIRA: Ich bin Journalistin. Ich heiße Emine Mira Aydın. Ich habe hier gearbeitet, um herauszufinden, warum Menschen wie Sie an manchen Tagen grau sind.
+> 기자예요. 에미네 미라 아이든이에요. 왜 게를라흐 씨 같은 분들이 어떤 날엔 회색인지 알아내려고 여기서 일했어요.
+GERLACH: Emine. Wie deine Großmutter?
+> 에미네. 할머니처럼?
+MIRA: Woher wissen Sie das?
+> 그걸 어떻게 아세요?
+GERLACH: Du hast es mir erzählt. Beim Bleisatz. Du hast gesagt, deine Großmutter hat Zeitungen gesammelt, obwohl sie nicht lesen konnte. Das vergisst ein Drucker nicht.
+> 네가 말해 줬잖아. 활판 볼 때. 할머니가 글을 못 읽으셨는데도 신문을 모으셨다고. 인쇄공은 그런 거 안 잊어.
+MIRA: Sind Sie wütend auf mich?
+> 저한테 화나셨어요?
+GERLACH: Wütend? Mädchen, ich habe vierzig Jahre lang Zeitungen gedruckt. Ich habe Artikel gesetzt über Skandale, über Korruption, über alles. Und ich habe mich immer gefragt, woher die Journalisten das wissen. Jetzt weiß ich es. Sie ziehen alten Männern Kompressionsstrümpfe an.
+> 화? 아가씨, 난 40년 동안 신문을 찍었어. 스캔들, 부패, 온갖 기사를 조판했지. 그리고 늘 궁금했어. 기자들은 그걸 어떻게 알까. 이제 알겠네. 늙은이들한테 압박 스타킹을 신겨 주는구먼.
+MIRA: Nicht immer.
+> 늘 그런 건 아니에요.
+GERLACH: Bei mir schon. Und der Umschlag? Die fünfzig Euro? Kommt das in die Zeitung?
+> 나한텐 그랬지. 그럼 봉투는? 50유로? 그거 신문에 나와?
+MIRA: Ohne Ihren Namen. Ohne Ihre Straße. Ohne «Drucker». Und das Subjekt ist die Firma, nicht Sie. «Ein Pflegedienst zahlt Patienten.»
+> 성함 없이. 거리도 없이. «인쇄공»도 없이. 그리고 주어는 회사예요, 게를라흐 씨가 아니라. «요양 업체가 환자에게 돈을 준다.»
+GERLACH: Das Subjekt. Du redest wie ein Setzer. … Gut. Dann setz es richtig. Und Mädchen — beantrag mir die Grundsicherung. Nein. Zeig mir, wie man es beantragt. Ich mach's selbst. Ich bettle nicht. Ich beantrage.
+> 주어. 조판공처럼 말하네. … 좋아. 그럼 제대로 조판해. 그리고 아가씨 — 나 기초보장 신청해 줘. 아니. 신청하는 법을 보여 줘. 내가 직접 할게. 구걸 안 해. 신청하는 거지.
+MIRA: Ich bringe Ihnen morgen das Formular. Und die Nummer einer Beratungsstelle. Und ein Brötchen.
+> 내일 서식 가져다드릴게요. 그리고 상담 기관 번호도. 그리고 빵 하나.
+GERLACH: Mit Mohn. Und klopf.
+> 양귀비 씨 박힌 걸로. 그리고 노크해.
+
+# 장면 3 — DIE GEDÄCHTNISPROTOKOLLE
+KATRIN: Mira, hör mir zu. Ich habe jedes einzelne deiner Gedächtnisprotokolle. Achtundzwanzig Tage. Mit Zeitstempel, verschlüsselt, bei mir hinterlegt. Jeder Besuch, den du gemacht hast. Jede Adresse. Jede Uhrzeit.
+> 미라, 내 말 들어. 네 기억 기록 하나하나 다 갖고 있어. 28일 치. 타임스탬프 붙여서, 암호화해서, 나한테 맡긴 것. 네가 한 모든 방문. 모든 주소. 모든 시각.
+MIRA: Und die Anzeige?
+> 그럼 고발은요?
+KATRIN: Die Anzeige ist ein Angriff, kein Beweis. Gegen jeden ihrer Vorwürfe haben wir einen Beleg. Vernachlässigung? Deine Protokolle zeigen, dass du jeden weißen Namen besucht hast. Und dass die grauen Namen vom Büro gesteuert wurden. Ioanas Screenshots zeigen dasselbe. Über acht Monate. Lange bevor du da warst.
+> 고발은 공격이지 증거가 아니야. 그들 주장 하나하나에 우린 반증이 있어. 방치? 네 기록은 네가 흰색 이름을 전부 방문했고, 회색 이름은 사무실이 통제했다는 걸 보여 줘. 이오아나 스크린숏도 똑같이 보여 주고. 8개월에 걸쳐. 네가 거기 가기 훨씬 전부터.
+MIRA: Und Frau Berg?
+> 그럼 베르크 부인은요?
+KATRIN: Frau Berg war gestern weiß. Du warst um zwölf da. Der Notarzt hat einen natürlichen Tod festgestellt. Wenn sie behaupten, du hättest sie vernachlässigt, behaupten sie etwas gegen ihre eigene App.
+> 베르크 부인은 어제 흰색이었어. 넌 12시에 거기 있었고. 응급의가 자연사라고 확인했어. 네가 방치했다고 주장하면 그건 자기들 앱에 반하는 주장을 하는 거야.
+MIRA: Und Hausfriedensbruch?
+> 그럼 주거 침입은요?
+KATRIN: Du hattest einen Arbeitsvertrag. Du wurdest hereingebeten. Jedes Mal. Du hast geklopft. Das steht in jedem Protokoll. «Geklopft. Gefragt. Hereingebeten.»
+> 넌 근로계약이 있었어. 매번 들어오라고 했고. 노크했지. 모든 기록에 있어. «노크함. 물어봄. 들어오라고 함.»
+MIRA: Das hat meine Mutter mir beigebracht.
+> 그건 엄마가 가르쳐 줬어요.
+KATRIN: Dann hat deine Mutter dir gerade eine Verteidigung geschrieben.
+> 그럼 네 어머니가 방금 너한테 변론서를 써 주신 거야.
+HELENE: Und die Pressemitteilung, die sie verschicken wollen?
+> 그럼 그들이 보내려는 보도 자료는?
+KATRIN: Wenn sie Mira öffentlich als Täterin bezeichnen, ohne Beweise, gehen wir dagegen vor. Aber ich glaube, sie werden vorsichtig sein. Sie wissen nicht, was wir haben.
+> 증거 없이 미라를 공개적으로 가해자라고 부르면 우리가 대응할 거야. 근데 조심할 것 같아. 우리가 뭘 가졌는지 모르니까.
+
+# 장면 3-2 — DER ZEITPLAN BRICHT
+HELENE: Die Fragen sollten übermorgen rausgehen. Nach Miras letztem Tag. Den gibt es jetzt nicht mehr.
+> 질문은 모레 나갈 예정이었어. 미라 마지막 날 뒤에. 그 날은 이제 없어.
+JAN: Ihre Tarnung ist weg. Es gibt keinen Grund mehr zu warten. Im Gegenteil. Jeder Tag gibt ihnen Zeit, Zettel neu zu schreiben.
+> 위장은 끝났어. 더 기다릴 이유가 없어. 오히려. 하루하루가 그들한테 종이를 새로 쓸 시간을 줘.
+KATRIN: Ioanas Screenshots liegen bei der Polizei. Miras Protokolle bei mir. Die Abrechnungen von Tour sieben bei Frau Neumann und der Polizei. Was sie jetzt neu schreiben, widerspricht dem, was wir schon haben.
+> 이오아나 스크린숏은 경찰에 있어. 미라 기록은 나한테. 순회 7번 청구서는 노이만 씨와 경찰한테. 그들이 지금 새로 쓰는 건 우리가 이미 가진 것과 모순될 뿐이야.
+HELENE: Dann gehen die Fragen morgen früh raus. Acht Uhr. Frist: sieben Tage. Nicht weniger. Auch wenn sie uns heute angreifen.
+> 그럼 질문은 내일 아침 나가. 8시. 기한: 7일. 그보다 짧게는 안 돼. 그들이 오늘 우릴 공격하더라도.
+LEON: Sieben Tage? Die haben uns zwei Stunden gegeben. Weniger als zwei Stunden.
+> 7일이요? 그쪽은 우리한테 두 시간 줬어요. 두 시간도 안 됐고요.
+HELENE: Genau deshalb sieben Tage. Wir sind nicht wie sie. Und das soll jeder sehen, der später vergleicht.
+> 바로 그래서 7일이야. 우린 그들과 달라. 그리고 나중에 비교하는 누구든 그걸 봐야 해.
+JAN: Und die Anhörung im Gesundheitsausschuss? Haase ist als Sachverständiger geladen. In neun Tagen.
+> 그리고 보건위원회 공청회는? 하제가 전문가로 소환됐어. 9일 뒤에.
+HELENE: Frist sieben Tage. Dann ein Tag, um die Antworten einzuarbeiten. Veröffentlichung am Morgen der Anhörung.
+> 기한 7일. 그다음 하루는 답변 반영. 공개는 공청회 당일 아침.
+KATRIN: Das wird man uns als Inszenierung vorwerfen.
+> 그건 연출이라고 비난받을 거야.
+HELENE: Man wird uns alles vorwerfen. Die Frage ist nur: Was dient den Lesern? Und den Abgeordneten, die an diesem Tag Haase befragen?
+> 뭐든 비난받을 거야. 문제는 하나뿐이야. 뭐가 독자한테 득이 되나? 그리고 그날 하제를 질의하는 의원들한테?
+
+# 장면 4 — MIRA ZU HAUSE
+HATICE: Mira? Ich bin hier. Ich habe den ersten Zug genommen. Mach auf.
+> 미라? 나야. 첫 기차 탔어. 문 열어.
+MIRA: Mama… Du musst nicht…
+> 엄마… 안 오셔도…
+HATICE: Doch. Ich muss. Wann hast du zuletzt gegessen?
+> 아니. 와야 해. 마지막으로 언제 먹었니?
+MIRA: Gestern. Glaube ich. Ein Stück Kuchen. Bei Frau Berg.
+> 어제요. 아마. 케이크 한 조각. 베르크 부인 댁에서.
+HATICE: Dann koche ich. Setz dich. Nein, leg dich hin. Ich koche, und du erzählst. Oder du erzählst nicht. Beides ist in Ordnung.
+> 그럼 요리할게. 앉아. 아니, 누워. 난 요리하고 넌 얘기해. 아니면 얘기 안 해도 돼. 둘 다 괜찮아.
+MIRA: Mama, wie oft ist dir das passiert? Dass jemand stirbt, den du gepflegt hast?
+> 엄마, 엄마한텐 몇 번이나 그런 일이 있었어요? 돌보던 분이 돌아가신 거?
+HATICE: In dreißig Jahren? Ich habe aufgehört zu zählen bei zweihundert.
+> 30년 동안? 2백에서 세는 걸 그만뒀어.
+MIRA: Wie hältst du das aus?
+> 어떻게 견뎌요?
+HATICE: Am Anfang gar nicht. Ich habe nach jedem Tod eine Woche geweint. Dann hat mir eine alte Kollegin gesagt: «Hatice, du kannst nicht für jeden sterben. Aber du kannst für jeden da gewesen sein.»
+> 처음엔 전혀. 돌아가실 때마다 일주일씩 울었어. 그러다 나이 든 동료가 그러더라. «하티제, 넌 모두를 위해 죽을 순 없어. 근데 모두를 위해 곁에 있었을 순 있어.»
+MIRA: Ich war für sie da. Gestern. Aber ich war auch nicht die, für die sie mich gehalten hat.
+> 어제 할머니 곁에 있었어요. 근데 할머니가 생각한 그 사람은 아니었어요.
+HATICE: Doch. Sie hat dich für eine Pflegerin gehalten, die klopft. Das warst du. Und du hast ihr gesagt, wer du bist. Bevor sie gestorben ist. Wie viele Menschen bekommen diese Wahrheit noch rechtzeitig?
+> 아니. 할머니는 널 노크하는 요양사로 생각하셨어. 그게 너였어. 그리고 넌 할머니가 돌아가시기 전에 네가 누군지 말씀드렸어. 그 진실을 제때 듣는 사람이 얼마나 되겠니?
+MIRA: Sie hat gesagt: «Schreib es richtig auf. Ich will keine Fehler in der Zeitung lesen.»
+> 할머니가 그러셨어요. «제대로 써. 신문에서 틀린 거 읽고 싶지 않다.»
+HATICE: Dann schläfst du jetzt. Und morgen schreibst du richtig.
+> 그럼 이제 자. 그리고 내일 제대로 써.
+
+# 장면 5 — DIE SUPERVISION
+PAULSEN: Frau Aydın, ich bin Lisa Paulsen. Ich arbeite seit fünfundzwanzig Jahren mit Journalisten. Kriegsreporter, Gerichtsreporter, Menschen wie Sie. Frau Brandt hat mich gebeten. Sie müssen nicht reden.
+> 아이든 씨, 리자 파울젠이에요. 25년째 기자들과 일해요. 종군 기자, 법정 기자, 당신 같은 사람들. 브란트 씨가 부탁했어요. 말 안 하셔도 돼요.
+MIRA: Ich weiß nicht, was ich sagen soll.
+> 뭘 말해야 할지 모르겠어요.
+PAULSEN: Dann sage ich etwas. Sie haben sechs Wochen lang zwei Menschen gleichzeitig gelebt. Emine, die pflegt. Und Mira, die beobachtet. Das kostet Kraft, die man nicht sieht.
+> 그럼 제가 말할게요. 당신은 6주 동안 두 사람을 동시에 살았어요. 돌보는 에미네. 그리고 관찰하는 미라. 그건 눈에 안 보이는 힘을 써요.
+MIRA: Ich habe nachts geträumt, dass ich auf einer grauen Liste stehe. Und niemand kommt.
+> 밤에 제가 회색 목록에 오른 꿈을 꿨어요. 그리고 아무도 안 와요.
+PAULSEN: Das ist ein sehr genauer Traum. Er sagt: Sie haben sich mit den Menschen identifiziert, die vergessen werden. Das ist kein Fehler. Das ist der Grund, warum Sie diese Geschichte schreiben können.
+> 아주 정확한 꿈이네요. 그 꿈은 말해요. 당신이 잊히는 사람들과 자신을 동일시했다고. 그건 잘못이 아니에요. 그게 당신이 이 기사를 쓸 수 있는 이유예요.
+MIRA: Und Schuld? Ich fühle mich schuldig. Gegenüber Frau Berg. Gegenüber Ioana. Gegenüber Herrn Gerlach.
+> 그럼 죄책감은요? 죄책감이 들어요. 베르크 부인한테. 이오아나한테. 게를라흐 씨한테.
+PAULSEN: Worin genau liegt Ihre Schuld?
+> 당신 죄가 정확히 어디에 있죠?
+MIRA: Dass ich gegangen bin. Dass ich jetzt nicht mehr klopfe. Dass Herr Gerlach morgen eine andere bekommt, die nicht klopft.
+> 제가 떠났다는 거요. 이제 더는 노크하지 않는다는 거. 내일 게를라흐 씨한테 노크 안 하는 다른 사람이 온다는 거.
+PAULSEN: Das ist keine Schuld, Frau Aydın. Das ist Verantwortung, die Sie für etwas übernehmen, das Sie nicht verursacht haben. Die Schuld liegt bei denen, die graue Listen machen. Nicht bei der, die sie sichtbar macht.
+> 그건 죄가 아니에요, 아이든 씨. 당신이 일으키지 않은 일에 대해 떠맡는 책임이에요. 죄는 회색 목록을 만드는 사람들한테 있어요. 그걸 보이게 하는 사람한테가 아니라.
+MIRA: Wie lange dauert das? Bis es aufhört wehzutun?
+> 얼마나 걸려요? 아프지 않게 될 때까지?
+PAULSEN: Es hört nicht auf. Es wird leiser. Und irgendwann wird es zu etwas, das Sie bei der nächsten Geschichte vorsichtiger macht. Nicht ängstlicher. Vorsichtiger.
+> 멈추진 않아요. 조용해지죠. 그리고 언젠가 다음 이야기에서 당신을 더 조심스럽게 만드는 무언가가 돼요. 더 겁먹게가 아니라. 더 조심스럽게.
+
+# 장면 6 — DIE GEGENKAMPAGNE
+LEON: Es geht los. Ein Boulevardportal hat einen Artikel. «Undercover-Journalistin unter Verdacht: Tod einer Seniorin in Wedding.» Mit einem Foto von Spreewerk-Logo.
+> 시작됐어요. 타블로이드 포털에 기사가 떴어요. «위장 기자 혐의: 베딩 노인 사망.» Spreewerk 로고 사진과 함께.
+JAN: Kein Name?
+> 이름은?
+LEON: Kein Name. Aber «eine Datenjournalistin von Spreewerk». Es gibt nur eine.
+> 이름 없음. 근데 «Spreewerk의 데이터 기자». 한 명밖에 없잖아요.
+HELENE: Haben sie uns um Stellungnahme gebeten?
+> 우리한테 입장 요청했어?
+LEON: Eine Mail. Gestern Abend um dreiundzwanzig Uhr. Frist bis heute neun Uhr. Der Artikel ist um sieben erschienen.
+> 메일 한 통. 어젯밤 23시. 기한은 오늘 9시. 기사는 7시에 나갔어요.
+KATRIN: Zwei Stunden vor ihrer eigenen Frist. Das ist kein Journalismus. Das ist ein Hinrichtungstermin mit Feigenblatt.
+> 자기들이 정한 기한보다 두 시간 일찍. 그건 저널리즘이 아니야. 무화과 잎으로 가린 처형 일정이지.
+JAN: Was antworten wir?
+> 뭐라고 답해?
+HELENE: Einen Satz. Öffentlich. Auf unserer Seite. «Spreewerk recherchiert seit Monaten zu Abrechnungsbetrug in der ambulanten Pflege. Unsere Reporterin hat während ihrer Recherche jeden ihr zugewiesenen Patienten versorgt. Wir werden alle Belege veröffentlichen.»
+> 한 문장. 공개적으로. 우리 사이트에. «Spreewerk는 수개월째 방문간병 허위 청구를 취재하고 있다. 우리 기자는 취재 기간 중 배정된 모든 환자를 돌봤다. 우리는 모든 증거를 공개할 것이다.»
+KATRIN: Und kein Wort über Frau Berg. Keine Diagnose, kein Detail. Ihr Tod gehört ihrer Familie. Nicht uns. Nicht denen.
+> 그리고 베르크 부인에 대해선 한 마디도 하지 마. 진단도, 세부도. 그분 죽음은 가족 거야. 우리 것도 그들 것도 아니야.
+LEON: Aber sie benutzen Frau Berg gegen Mira.
+> 근데 그들은 베르크 부인을 미라한테 반하는 데 이용하잖아요.
+HELENE: Und wir benutzen sie nicht zurück. Das ist der Unterschied zwischen ihnen und uns. Auch wenn es heute wehtut.
+> 그리고 우린 맞받아 이용하지 않아. 그게 그들과 우리의 차이야. 오늘은 아프더라도.
+
+# 장면 6-2 — IOANA RUFT AN
+IOANA: Emine? Ich habe es gehört. Frau Berg.
+> 에미네? 들었어. 베르크 부인.
+MIRA: Sie ist im Schlaf gestorben, Ioana. Mit gefalteten Händen.
+> 주무시다 돌아가셨어, 이오아나. 손을 모으고.
+IOANA: Ich wollte sie am Sonntag besuchen. Als Ioana. Sie hat gesagt, sie packt einen Kuchen aus.
+> 일요일에 찾아뵈려고 했어. 이오아나로. 케이크 포장 뜯어 주신다고 하셨는데.
+MIRA: Der Kuchen stand auf dem Tisch. Ausgepackt. Ich glaube, er war für dich.
+> 케이크가 탁자에 있었어. 포장 뜯은 채로. 너 주려던 것 같아.
+IOANA: … Sie wusste, dass ich nicht ihre Enkelin bin, oder?
+> … 내가 손녀가 아닌 거 알고 계셨지?
+MIRA: Sie wusste es. Die ganze Zeit. Sie hat dich so genannt, weil sie wollte, dass du bleibst.
+> 알고 계셨어. 처음부터. 네가 머물길 원해서 그렇게 부르셨대.
+IOANA: Dann war es keine Lüge. Dann war es ein Spiel, das wir beide gespielt haben. Damit niemand allein ist.
+> 그럼 거짓말이 아니었네. 우리 둘 다 한 놀이였네. 아무도 혼자이지 않으려고.
+MIRA: «Niemand soll allein sein.»
+> «아무도 혼자여선 안 된다.»
+IOANA: Das war nicht Haases Satz. Das war ihrer. Er hat ihn nur gestohlen.
+> 그건 하제의 문장이 아니었어. 그분 거였어. 그는 그냥 훔쳤을 뿐이야.
+MIRA: Darf ich das schreiben?
+> 그거 써도 돼?
+IOANA: Schreib es. Und schreib, dass sie gesungen hat. Rumänisch. Falsch. Aber laut.
+> 써. 그리고 그분이 노래하셨다고 써. 루마니아어로. 틀리게. 근데 크게.
+
+# 장면 7 — BEI ELKE
+ELKE: Mädchen. Setz dich. Hier is 'ne Suppe. Und hier is 'n Bier. Und hier is 'ne Schulter. Such dir wat aus.
+= Mädchen. Setz dich. Hier ist eine Suppe. Und hier ist ein Bier. Und hier ist eine Schulter. Such dir was aus.
+> 아가. 앉아. 여기 수프. 그리고 맥주. 그리고 어깨. 골라.
+MIRA: Alles drei. In umgekehrter Reihenfolge.
+> 셋 다요. 반대 순서로.
+ELKE: Komm her. … Der halbe Kiez hat den Artikel jelesen. Weeßte, wat die sajen?
+= Komm her. … Der halbe Kiez hat den Artikel gelesen. Weißt du, was die sagen?
+> 이리 와. … 동네 절반이 그 기사 읽었어. 다들 뭐라는지 알아?
+MIRA: Ich will es nicht wissen.
+> 알고 싶지 않아요.
+ELKE: Doch. Die sajen: «Die Mira? Die zählt sojar die Gläser, wenn se uns hilft. Die vernachlässigt keenen.» Und Bärbel hat jesacht: «Die hat bei Horst jesessen und Skat jelernt, obwohl se nich spielen kann.»
+= Doch. Die sagen: «Die Mira? Die zählt sogar die Gläser, wenn sie uns hilft. Die vernachlässigt keinen.» Und Bärbel hat gesagt: «Die hat bei Horst gesessen und Skat gelernt, obwohl sie nicht spielen kann.»
+> 알아야 해. 다들 그래. «미라? 걔는 우리 도울 때 잔까지 세는 애야. 아무도 방치 안 해.» 그리고 배르벨이 그랬어. «걔는 호르스트 곁에 앉아서 스카트를 배웠어, 할 줄도 모르면서.»
+MIRA: Das war Leon. Nicht ich.
+> 그건 레온이었어요. 제가 아니라.
+ELKE: Is ejal. Im Kiez seid ihr eens. Ihr seid «die vom Spreewerk». Und die vom Spreewerk vernachlässigen keenen. Dit is beschlossen.
+= Ist egal. Im Kiez seid ihr eins. Ihr seid «die vom Spreewerk». Und die vom Spreewerk vernachlässigen keinen. Das ist beschlossen.
+> 상관없어. 동네에선 너희가 한 몸이야. «슈프레베르크 사람들». 그리고 슈프레베르크 사람들은 아무도 방치 안 해. 그렇게 결정됐어.
+MIRA: Von wem beschlossen?
+> 누가 결정했는데요?
+ELKE: Von mir. Am Tresen. Dit is höchste Instanz in Wedding.
+= Von mir. Am Tresen. Das ist höchste Instanz in Wedding.
+> 내가. 카운터에서. 베딩 최고 법원이지.
+
+# 엔딩 — HORST WILL REDEN
+HORST: Elke. Is dit die Kleene vom Spreewerk? Die, die se in der Zeitung schlechtmachen?
+= Elke. Ist das die Kleine vom Spreewerk? Die, die sie in der Zeitung schlechtmachen?
+> 엘케. 저게 슈프레베르크의 꼬마야? 신문에서 나쁘게 쓰는?
+ELKE: Horst! Biste raus? Seit wann?
+= Horst! Bist du raus? Seit wann?
+> 호르스트! 퇴원했어? 언제?
+HORST: Seit heute Mittag. Uwe hat mich jeholt. Und dit Erste, wat ick seh, is die Zeitung, wo die Kleene als Mörderin dasteht.
+= Seit heute Mittag. Uwe hat mich geholt. Und das Erste, was ich sehe, ist die Zeitung, wo die Kleine als Mörderin dasteht.
+> 오늘 점심때. 우베가 데리러 왔어. 그리고 제일 먼저 본 게 그 꼬마를 살인자처럼 써 놓은 신문이야.
+MIRA: Herr Lemke, Sie sollten sich ausruhen.
+> 렘케 씨, 쉬셔야 해요.
+HORST: Ick hab mich zwee Tage uff'm Boden ausjeruht. Dit reicht für's Leben. Hör zu, Mädchen. Ick will aussajen. Vor der Polizei. Vor der Zeitung. Vor wem ooch immer.
+= Ich habe mich zwei Tage auf dem Boden ausgeruht. Das reicht fürs Leben. Hör zu, Mädchen. Ich will aussagen. Vor der Polizei. Vor der Zeitung. Vor wem auch immer.
+> 이틀 동안 바닥에서 쉬었어. 평생 쉴 만큼 쉬었지. 들어 봐, 아가씨. 증언할 거야. 경찰 앞에서. 신문 앞에서. 누구 앞에서든.
+MIRA: Was wollen Sie sagen?
+> 뭐라고 하실 거예요?
+HORST: Dass ick zwee Tage jerufen hab. Dass uff mein Zettel «erledigt» stand. Dass ick nie 'ne Spreewerk-Reporterin jesehen hab, als ick dalag. Nur 'ne Firma mit 'ner Sonne. Und dass die Kleene hier die Erste war, die jefracht hat, warum.
+= Dass ich zwei Tage gerufen habe. Dass auf meinem Zettel «erledigt» stand. Dass ich nie eine Spreewerk-Reporterin gesehen habe, als ich dalag. Nur eine Firma mit einer Sonne. Und dass die Kleine hier die Erste war, die gefragt hat, warum.
+> 내가 이틀 동안 불렀다고. 내 종이에 «완료»라고 적혀 있었다고. 내가 누워 있을 때 슈프레베르크 기자는 한 번도 못 봤다고. 해 그려진 회사만 봤다고. 그리고 여기 이 꼬마가 왜냐고 물은 첫 사람이었다고.
+JAN: Herr Lemke, wollen Sie das mit Ihrem Namen sagen? Uwe muss auch zustimmen.
+> 렘케 씨, 그걸 실명으로 말씀하시겠어요? 우베 씨도 동의해야 해요.
+HORST: Uwe hat zujestimmt. Im Auto. Er hat jesacht: «Onkel, des isch dei Gschicht. Erzähl se.»
+= Uwe hat zugestimmt. Im Auto. Er hat gesagt: «Onkel, das ist deine Geschichte. Erzähl sie.»
+> 우베는 동의했어. 차 안에서. 이러더라. «삼촌, 그건 삼촌 이야기예요. 말씀하세요.»
+ELKE: Dann wird jetzt nich mehr jeweint. Jetzt wird jearbeitet. Horst, willste 'n Bier?
+= Dann wird jetzt nicht mehr geweint. Jetzt wird gearbeitet. Horst, willst du ein Bier?
+> 그럼 이제 그만 울어. 이제 일해. 호르스트, 맥주 줄까?
+HORST: Een Wasser. Die Ärzte. Aber am Sonntag spiel ick wieder Skat. Und Mira — du spielst mit. Und du verlierst. Wie der Schwabe.
+= Ein Wasser. Die Ärzte. Aber am Sonntag spiele ich wieder Skat. Und Mira — du spielst mit. Und du verlierst. Wie der Schwabe.
+> 물 하나. 의사들이. 근데 일요일엔 다시 스카트 해. 그리고 미라 — 너도 해. 그리고 져. 슈바벤 녀석처럼.
+MIRA: Ich verliere nicht. Ich zähle Karten.
+> 전 안 져요. 카드를 세거든요.
+HORST: Denn biste die Erste, die mich schlagen kann. Dit will ick sehen.
+= Dann bist du die Erste, die mich schlagen kann. Das will ich sehen.
+> 그럼 날 이길 수 있는 첫 사람이네. 그거 보고 싶다.
+JAN: Horst, die Fragen an Sonnenhof gehen morgen früh raus. In acht Tagen erscheint der Artikel. Am Morgen der Anhörung im Bundestag.
+> 호르스트 씨, 조넨호프에 보낼 질문이 내일 아침 나가요. 8일 뒤 기사가 나가요. 연방의회 공청회 당일 아침에.
+HORST: Bundestag? Mein Name im Bundestag?
+> 연방의회? 내 이름이 연방의회에?
+JAN: Vielleicht. Wenn ein Abgeordneter den Artikel vorliest.
+> 어쩌면요. 의원 한 명이 기사를 읽으면.
+HORST: Denn zieh ick mir 'n Schlips an. Den von meiner Hochzeit. Den hab ick noch.
+= Dann ziehe ich mir einen Schlips an. Den von meiner Hochzeit. Den habe ich noch.
+> 그럼 넥타이 매야겠네. 결혼식 때 거. 아직 있어.
+ELKE: Horst, du sitzt doch nich im Bundestag. Du sitzt hier. Am Fenster.
+= Horst, du sitzt doch nicht im Bundestag. Du sitzt hier. Am Fenster.
+> 호르스트, 넌 연방의회에 안 앉아. 여기 앉아. 창가에.
+HORST: Ejal. Ick zieh ihn trotzdem an. Für die Kleene.
+= Egal. Ich ziehe ihn trotzdem an. Für die Kleine.
+> 상관없어. 그래도 맬 거야. 꼬마를 위해.
+MIRA: Herr Lemke… danke.
+> 렘케 씨… 고마워요.
+HORST: Horst. Wer mit mir Skat spielt, sacht Horst.
+= Horst. Wer mit mir Skat spielt, sagt Horst.
+> 호르스트. 나랑 스카트 치는 사람은 호르스트라고 해.
+MIRA: Horst. Danke.
+> 호르스트. 고마워요.
+HELENE: Und Mira — du schreibst den Teil über die Tour. Nicht über Frau Berg. Über die Tour. Über die grauen Namen. Und über das Klopfen.
+> 그리고 미라 — 넌 순회 부분을 써. 베르크 부인 말고. 순회에 대해. 회색 이름에 대해. 그리고 노크에 대해.
+MIRA: Morgen. Richtig. Ohne Fehler.
+> 내일. 제대로. 틀린 거 없이.
+ELKE: Und denn kommste her und isst. Und am Sonntag spielste Skat.
+= Und dann kommst du her und isst. Und am Sonntag spielst du Skat.
+> 그리고 그다음 여기 와서 먹어. 그리고 일요일엔 스카트 해.
+HORST: Und verlierst.
+> 그리고 지고.
+MIRA: Wir werden sehen, Horst.
+> 두고 보세요, 호르스트.
