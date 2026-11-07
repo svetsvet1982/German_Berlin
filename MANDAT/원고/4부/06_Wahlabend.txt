@@ -1,0 +1,267 @@
+part: 4
+ep: 6
+title_de: Wahlabend
+title_ko: 선거의 밤
+scene: 선거일 일요일, 비스바덴 주의회 앞 → 캠프 파티장
+level: C1
+setting: 헤센 주의회 선거일 일요일 오후 다섯 시 반부터 새벽 두 시까지, 비스바덴 주의회 앞 방송 부스와 근처 쿠어하우스의 Neue Mitte 선거 파티장
+cast: KATHARINA | Dr. Katharina Brandt · 선거캠프 총괄 전략가
+cast: SELIN | Selin Aydın · 디지털 캠페인·여론 분석 총괄
+cast: TOBIAS | Tobias Wendt · 공약 재원·숫자 검증 담당
+cast: HENRIKE | Dr. Henrike Sommer · Neue Mitte 주총리 후보
+cast: FALLER | Bernd Faller · Neue Mitte 헤센 주당 사무총장
+cast: LEONIE | Leonie Brück · 주당 대변인
+cast: JONAS | Jonas Petri · 캠프 디지털팀 인턴
+cast: ALBRECHT | Thomas Albrecht · 경쟁 거대정당의 주총리 후보 (전화)
+note: ※ 독일 선거의 밤은 투표가 끝나는 18시 정각에 시작됩니다. 18시 전에는 출구조사 결과를 공표할 수 없고(투표 시간 중 공표 금지), 18시에 방송사가 출구조사를 바탕으로 한 첫 예측(Prognose)을 발표합니다. 이후 실제 개표 결과를 반영한 추계(Hochrechnung)가 밤새 여러 차례 갱신되며, 밤늦게 잠정 최종 결과(vorläufiges Endergebnis)가 나옵니다. 우편투표(Briefwahl)의 비중이 크면 추계가 늦게까지 흔들릴 수 있습니다. 헤센 주의회 의석은 정당 명부 표 비율로 나누되 5% 미만 정당은 제외되므로, 작은 정당이 4.9%냐 5.1%냐에 따라 연정 계산 전체가 바뀝니다. 주총리는 주의회에서 재적 과반의 표로 선출되기 때문에, 1위를 해도 과반 연정(Koalition)을 만들지 못하면 주총리가 될 수 없습니다. 등장하는 정당·인물·수치는 모두 가상입니다. 표현 초점: die Prognose, die Hochrechnung, die Koalition, die Mehrheit, Wir haben gewonnen — und jetzt fängt die Arbeit an.
+next: 4부 7화 — «Sondierung»(연정 예비협상) — 비스바덴의 한 호텔. 생태·사회 성향의 외코조치알레, 시장 성향의 자유시민당과 동시에 마주 앉은 예비협상. 에너지·교육·이민에서 레드라인이 충돌하고, 새벽 세 시 Henrike가 스스로 결단한다.
+
+## 도입 — 17:31
+JONAS: Noch neunundzwanzig Minuten. Ich habe seit heute Morgen nichts gegessen. Nur Brezeln. Elf Brezeln.
+> 아직 29분 남았어요. 아침부터 아무것도 못 먹었어요. 브레첼만요. 열한 개.
+SELIN: Das zählt als Essen, Jonas. In Hessen ist das eine Hauptmahlzeit.
+> 그것도 먹은 거야, 요나스. 헤센에선 그게 주식이야.
+LEONIE: Die ersten Gerüchte laufen schon. Angeblich haben die Institute erste Zahlen.
+> 벌써 소문이 돌아요. 조사 기관들한테 첫 숫자가 나왔대요.
+KATHARINA: Gerüchte vor sechs sind wie Wetterberichte von gestern. Niemand schaut auf das Handy. Wer eine Zahl vor achtzehn Uhr verbreitet, fliegt aus dem Raum.
+> 여섯 시 전 소문은 어제 일기예보 같은 거예요. 아무도 휴대폰 보지 마세요. 18시 전에 숫자 퍼뜨리는 사람은 방에서 쫓아낼 거예요.
+FALLER: Sie ist strenger als mein erster Landesvorsitzender. Und der war Oberstudienrat.
+> 제 첫 주당 위원장보다 엄하시네. 그분은 고등학교 수석 교사였는데.
+TOBIAS: Die Briefwahl liegt bei sechsundvierzig Prozent. Das heißt, die ersten Hochrechnungen können noch wackeln. Bitte niemand zu früh jubeln.
+> 우편투표가 46퍼센트예요. 그러니까 초반 추계는 아직 흔들릴 수 있어요. 아무도 너무 일찍 환호하지 마세요.
+SELIN: Du hast heute schon dreimal „bitte niemand jubeln" gesagt.
+> 너 오늘 '아무도 환호하지 마'를 벌써 세 번 말했어.
+TOBIAS: Weil heute schon dreimal jemand fast gejubelt hätte.
+> 오늘 벌써 세 번이나 누가 환호할 뻔했으니까.
+HENRIKE: Frau Brandt, wo stehe ich, wenn die Zahl kommt?
+> 브란트 씨, 숫자 나올 때 저는 어디 서 있어야 하죠?
+KATHARINA: Hier hinten, mit uns. Nicht vor der Kamera. Die erste Reaktion gehört Ihnen, nicht dem Fernsehen.
+> 여기 뒤쪽, 우리랑 같이요. 카메라 앞이 아니라. 첫 반응은 방송이 아니라 장관님 거예요.
+HENRIKE: Vor acht Wochen hatten wir neun Prozent. Egal, was gleich kommt — danke. Allen.
+> 8주 전엔 9퍼센트였어요. 곧 뭐가 나오든, 고마워요. 모두에게.
+LEONIE: Achtung. Der Countdown läuft. Zehn, neun, acht …
+> 주목하세요. 카운트다운 시작됐어요. 열, 아홉, 여덟…
+
+## 분석 — ACHTZEHN UHR
+SELIN: Prognose! Neue Mitte fünfundzwanzig Komma fünf. Albrecht fünfundzwanzig Komma null. Bewegung Heimat neunzehn. Ökosoziale dreizehn. Freie Bürgerpartei vier Komma acht.
+> 예측 나왔어요! 노이에 미테 25.5. 알브레히트 25.0. 베궁 하이마트 19. 외코조치알레 13. 자유시민당 4.8.
+JONAS: Erster! Wir sind Erster!
+> 1위! 우리가 1위예요!
+TOBIAS: Mit einem halben Punkt Vorsprung. Bei sechsundvierzig Prozent Briefwahl. Bitte niemand jubeln.
+> 0.5포인트 차이로. 우편투표 46퍼센트에서. 아무도 환호하지 마세요.
+SELIN: Vier.
+> 네 번째다.
+HENRIKE: Fünfundzwanzig Komma fünf. Ich … Entschuldigung. Ich muss mich kurz setzen.
+> 25.5. 저… 죄송해요. 잠깐 앉아야겠어요.
+FALLER: Zum ersten Mal seit sechzehn Jahren liegen wir vorn. Henrike, du hast es geschafft.
+> 16년 만에 처음으로 우리가 앞서. 헨리케, 해냈어.
+KATHARINA: Sie haben es geschafft. Und jetzt sehen Sie bitte auf die letzte Zahl. Vier Komma acht.
+> 해내셨어요. 그리고 이제 마지막 숫자를 봐 주세요. 4.8.
+HENRIKE: Die Freie Bürgerpartei. Unter fünf Prozent.
+> 자유시민당. 5퍼센트 미만.
+TOBIAS: Wenn sie draußen bleibt, sind vier Parteien im Landtag. Dann haben wir mit den Ökosozialen zusammen keine Mehrheit. Dann bleibt nur eine Koalition mit Albrecht.
+> 그쪽이 못 들어가면 주의회엔 네 정당만 남아요. 그럼 외코조치알레랑 합쳐도 과반이 안 돼요. 알브레히트와의 연정밖에 안 남죠.
+SELIN: Und wenn sie die fünf schafft, reicht es knapp für eine Dreierkoalition. Neue Mitte, Ökosoziale, Freie Bürgerpartei.
+> 그리고 5퍼센트를 넘기면, 3당 연정이 아슬아슬하게 가능해요. 노이에 미테, 외코조치알레, 자유시민당.
+LEONIE: Also hängt unsere Regierung an zwei Zehnteln einer Partei, die uns nicht ausstehen kann.
+> 그러니까 우리 정부가 우리를 질색하는 정당의 0.2포인트에 달려 있다는 거네요.
+TOBIAS: So ist Demokratie. Mathematik mit Gefühlen.
+> 민주주의가 원래 그래요. 감정이 섞인 수학.
+FALLER: Ich habe die Freie Bürgerpartei dreißig Jahre lang bekämpft. Jetzt drücke ich ihr die Daumen.
+> 자유시민당이랑 30년을 싸웠는데, 이제 그쪽 잘되라고 빌고 있네.
+LEONIE: Soll ich das so posten?
+> 그거 그대로 올릴까요?
+FALLER: Untersteh dich.
+> 감히 그러기만 해 봐.
+SELIN: Erste Hochrechnung, achtzehn Uhr zweiundvierzig. Neue Mitte sechsundzwanzig. Albrecht vierundzwanzig Komma fünf. Freie Bürgerpartei fünf Komma null.
+> 첫 추계, 18시 42분. 노이에 미테 26. 알브레히트 24.5. 자유시민당 5.0.
+FALLER: Fünf Komma null. Mein Herz hält das nicht aus.
+> 5.0. 내 심장이 못 버티겠어.
+JONAS: Darf ich jetzt jubeln?
+> 이제 환호해도 돼요?
+TOBIAS: Leise.
+> 조용히.
+KATHARINA: Selin, wo kommen die Stimmen der Bewegung Heimat her?
+> 셀린, 베궁 하이마트 표는 어디서 나왔어?
+SELIN: Neunzehn Prozent. Bei der letzten Wahl waren es elf. Am stärksten in Nordhessen und im Vogelsberg, bei Männern unter fünfunddreißig und bei Arbeitern. Und von früheren Nichtwählern kommen fast hunderttausend Stimmen.
+> 19퍼센트. 지난 선거엔 11이었어. 북헤센과 포겔스베르크에서 가장 강하고, 35세 미만 남성과 노동자층에서 강해. 그리고 예전 기권자들한테서 거의 10만 표가 왔어.
+TOBIAS: Fast verdoppelt. Und viele davon sind Menschen, die vorher gar nicht gewählt haben.
+> 거의 두 배야. 그리고 그중 상당수는 전에는 아예 투표를 안 하던 사람들이고.
+HENRIKE: Kevin.
+> 케빈.
+KATHARINA: Wer?
+> 누구요?
+HENRIKE: Der junge Mann aus Offenbach. Der niemandem mehr glaubt. Ich frage mich, ob er heute gewählt hat. Und wen.
+> 오펜바흐의 그 청년이요. 이제 아무도 안 믿는다던. 오늘 투표했을까 궁금해요. 그리고 누구를 찍었을지.
+LEONIE: Zweite Hochrechnung, neunzehn Uhr dreißig: Freie Bürgerpartei fünf Komma eins. Neue Mitte sechsundzwanzig Komma drei.
+> 두 번째 추계, 19시 30분. 자유시민당 5.1. 노이에 미테 26.3.
+TOBIAS: Die Ergebnisse aus den großen Städten kommen erst später. Die Freie Bürgerpartei ist in Frankfurt und im Taunus stark. Das hilft ihr eher.
+> 대도시 결과는 나중에야 들어와요. 자유시민당은 프랑크푸르트와 타우누스에서 강하니까, 그쪽엔 유리하죠.
+SELIN: Und wir haben einundzwanzig von fünfundfünfzig Wahlkreisen direkt gewonnen. Vor fünf Jahren waren es zwei.
+> 그리고 우리는 지역구 55곳 중 21곳을 직접 이겼어. 5년 전엔 두 곳이었는데.
+FALLER: Zwei. Einer davon war meiner.
+> 두 곳. 그중 하나가 내 지역구였지.
+TOBIAS: Wenn es so bleibt, rechne ich mit hundertzehn Sitzen: Neue Mitte dreiunddreißig, Albrecht dreißig, Bewegung Heimat vierundzwanzig, Ökosoziale sechzehn, Freie Bürgerpartei sieben.
+> 이대로라면 의석 110석으로 계산하면 이래요. 노이에 미테 33, 알브레히트 30, 베궁 하이마트 24, 외코조치알레 16, 자유시민당 7.
+SELIN: Dreiunddreißig, sechzehn und sieben. Sechsundfünfzig. Von hundertzehn.
+> 33, 16, 7. 56석. 110석 중에.
+KATHARINA: Eine Stimme über der Mehrheit.
+> 과반보다 딱 한 표 많네요.
+TOBIAS: Eine Stimme. Ich hasse knappe Zahlen.
+> 한 표. 아슬아슬한 숫자는 질색이야.
+
+## 갈등 — EINE STIMME
+LEONIE: Albrecht ist am Telefon. Er will die Ministerin sprechen. Persönlich.
+> 알브레히트 전화예요. 장관님과 직접 통화하고 싶대요.
+HENRIKE: Herr Albrecht. Guten Abend.
+> 알브레히트 후보님. 안녕하세요.
+ALBRECHT: Frau Sommer, ich gratuliere Ihnen. Das war ein fairer Wahlkampf, und Sie haben ihn gewonnen. Das sage ich nicht gern, aber ich sage es.
+> 조머 후보님, 축하드립니다. 공정한 선거전이었고, 당신이 이겼습니다. 기꺼이 하는 말은 아니지만, 하겠습니다.
+HENRIKE: Danke. Das bedeutet mir viel. Und ich sage es gern: Sie waren ein harter, aber anständiger Gegner.
+> 감사합니다. 저한테는 큰 의미예요. 그리고 저는 기꺼이 말씀드리죠. 후보님은 힘들지만 품위 있는 상대였어요.
+ALBRECHT: Dann lassen Sie mich offen sein. Sie haben eine Mehrheit von einer Stimme mit zwei Parteien, die sich gegenseitig verachten. Mit uns hätten Sie dreiundsechzig Sitze. Stabil, für fünf Jahre. Denken Sie darüber nach.
+> 그럼 솔직히 말씀드리죠. 당신은 서로 경멸하는 두 정당과 함께 한 표짜리 과반을 갖고 있어요. 우리와 함께라면 63석입니다. 5년 동안 안정적이죠. 생각해 보세요.
+HENRIKE: Ich denke über alles nach, Herr Albrecht. Morgen. Heute Abend nicht mehr.
+> 모든 걸 생각해 보겠습니다, 알브레히트 후보님. 내일요. 오늘 밤은 더 이상 안 하고요.
+KATHARINA: Was hat er gesagt?
+> 뭐라고 하던가요?
+HENRIKE: Dass er uns dreiundsechzig Sitze anbietet. Und Ruhe. Er klang wie ein Mann, der genau weiß, dass er etwas zu verkaufen hat.
+> 우리한테 63석을 제안한대요. 그리고 안정도. 자기가 팔 게 있다는 걸 정확히 아는 사람처럼 들렸어요.
+FALLER: Er hat recht, Henrike. Dreiundsechzig Sitze. Mit ihm wäre das Regieren ruhig. Bei einer Stimme Mehrheit fällt jedes Gesetz um, wenn ein Abgeordneter Grippe hat.
+> 그 사람 말이 맞아, 헨리케. 63석이야. 그쪽이랑 하면 통치가 조용할 거라고. 한 표 과반이면 의원 한 명만 독감에 걸려도 법안이 다 넘어가.
+TOBIAS: Das ist kein schlechtes Argument. Eine Mehrheit von einer Stimme ist eine Krankmeldung von der Minderheit entfernt.
+> 나쁜 논거가 아니에요. 한 표 과반은 병가 한 장이면 소수파가 되는 거예요.
+SELIN: Aber die Leute haben heute nicht für „ruhig" gestimmt. Sie haben die alte Koalition abgewählt. Wenn wir jetzt mit Albrecht regieren, sieht das aus wie: Alles bleibt, wie es war, nur mit anderen Namensschildern.
+> 하지만 사람들은 오늘 '조용함'에 투표한 게 아니에요. 옛 연정을 심판했다고요. 지금 알브레히트랑 통치하면 다 그대로고 명패만 바뀐 것처럼 보일 거예요.
+FALLER: Und wenn die Dreierkoalition nach einem Jahr platzt, sieht es aus wie Chaos. Dann wählen die Leute beim nächsten Mal die, die Ordnung versprechen. Und das sind nicht wir.
+> 그리고 3당 연정이 1년 만에 깨지면 혼돈처럼 보이겠지. 그럼 사람들은 다음번엔 질서를 약속하는 쪽을 찍을 거야. 그건 우리가 아니고.
+KATHARINA: Beides ist ein Risiko. Die Frage ist, welches Risiko zu dem Versprechen passt, das wir gegeben haben. Wir haben gesagt: ein Land, das funktioniert. Nicht ein Land, das so bleibt.
+> 둘 다 위험이에요. 문제는 우리가 한 약속에 어떤 위험이 어울리느냐죠. 우리는 일하는 나라라고 했어요. 그대로 머무는 나라가 아니라.
+FALLER: Frau Brandt, Sie haben den Wahlkampf gewonnen. Bravo. Aber regieren müssen wir. Sie gehen in zwei Wochen zurück nach Berlin.
+> 브란트 씨, 선거는 당신이 이겼습니다. 브라보. 하지만 통치는 우리가 해야 해요. 당신은 2주 뒤에 베를린으로 돌아가잖습니까.
+KATHARINA: Vielleicht. Aber die Ökosozialen und die Freie Bürgerpartei gehen nicht weg. Und deren Wähler auch nicht.
+> 그럴지도요. 하지만 외코조치알레와 자유시민당은 어디 안 가요. 그 당 유권자들도요.
+LEONIE: Leute. Die Kameras warten. In zwanzig Minuten muss die Ministerin auf die Bühne. Und wir haben noch keine Rede für diesen Fall.
+> 여러분. 카메라가 기다려요. 20분 뒤에 장관님이 무대에 올라가셔야 해요. 그런데 이 경우를 위한 연설문이 아직 없어요.
+HENRIKE: Welchen Fall?
+> 어떤 경우요?
+LEONIE: Den Fall „gewonnen, aber". Wir hatten „knapp verloren" und „klar gewonnen". „Gewonnen, aber" hatte niemand.
+> '이겼지만'의 경우요. '아깝게 짐'이랑 '확실히 이김'은 준비했어요. '이겼지만'은 아무도 안 썼어요.
+TOBIAS: Typisch. Für den wahrscheinlichsten Fall gibt es keinen Plan.
+> 전형적이네요. 가장 가능성 높은 경우에 대한 계획이 없다니.
+JONAS: Und noch was. In unserer Partei-Gruppe schreiben gerade alle, die Ministerin soll heute Abend klar sagen: Mit der Bewegung Heimat niemals. Und ihre Wähler sollen sich schämen.
+> 그리고 하나 더요. 당원 단체방에서 다들 장관님이 오늘 밤 분명히 말해야 한대요. 베궁 하이마트와는 절대 안 된다고. 그리고 그 지지자들은 부끄러운 줄 알아야 한다고.
+SELIN: Der erste Teil ja. Der zweite auf keinen Fall.
+> 앞부분은 맞아. 뒷부분은 절대 안 돼.
+FALLER: Warum nicht? Neunzehn Prozent für eine Partei, deren Spitze die Wahl vorher schon „Betrug" genannt hat. Das muss man doch benennen dürfen.
+> 왜 안 되죠? 지도부가 선거 전부터 '사기'라고 불렀던 정당에 19퍼센트라니. 그건 지적할 수 있어야죠.
+SELIN: Die Spitze, ja. Die Methoden, ja. Aber wer die Wähler beschimpft, treibt sie nur weiter weg. Ein Teil von ihnen hat in Offenbach neben uns gesessen. Das waren keine Feinde. Das waren müde Leute.
+> 지도부는요, 맞아요. 방식도요, 맞아요. 하지만 유권자들을 욕하면 더 멀리 밀어낼 뿐이에요. 그중 일부는 오펜바흐에서 우리 옆에 앉아 있었어요. 적이 아니었어요. 지친 사람들이었죠.
+FALLER: Und wo ist die Grenze? Irgendwann muss man auch sagen: Wer diese Leute wählt, weiß, was er tut.
+> 그럼 선은 어디죠? 언젠가는 말해야 합니다. 그런 사람들을 찍는 사람은 자기가 뭘 하는지 안다고.
+TOBIAS: Manche wissen es. Viele haben das Gefühl, dass es sonst niemanden interessiert, was sie denken. Wenn man ihnen heute Abend sagt, dass sie sich schämen sollen, bestätigt man genau dieses Gefühl.
+> 아는 사람도 있죠. 하지만 많은 사람들은 그렇게 안 하면 자기 생각엔 아무도 관심이 없다고 느껴요. 오늘 밤 부끄러운 줄 알라고 하면 바로 그 느낌을 확인시켜 주는 거예요.
+HENRIKE: Und was würden Sie sagen, Herr Wendt? Sie kommen aus Leipzig.
+> 그럼 벤트 씨라면 뭐라고 하겠어요? 라이프치히 출신이시잖아요.
+TOBIAS: Ich würde sagen: Ich habe Ihre Stimme nicht bekommen, und ich verstehe, warum. Aber ich regiere auch für Sie.
+> 이렇게 말하겠어요. 여러분의 표를 얻지 못했고, 왜 그런지 이해합니다. 하지만 저는 여러분을 위해서도 통치합니다.
+FALLER: Und das reicht? Gegen eine Partei, die gegen alles hetzt, was wir aufgebaut haben?
+> 그걸로 충분해? 우리가 쌓아 온 모든 걸 공격하는 정당을 상대로?
+KATHARINA: Gegen die Partei: nein. Für ihre Wähler: Es ist ein Anfang. Herr Faller, Sie haben im Vogelsberg zweihundert Mitglieder wegen eines Videos verloren. Glauben Sie, Sie gewinnen sie mit Beschimpfungen zurück?
+> 그 정당을 상대로는, 아니죠. 그 유권자들을 위해서는, 시작이에요. 팔러 씨, 포겔스베르크에서 영상 하나 때문에 당원 이백 명을 잃으셨잖아요. 욕해서 그 사람들을 되찾을 수 있다고 보세요?
+FALLER: … Nein.
+> …아니요.
+FALLER: Aber ich will, dass sie die Partei klar benennt. Die Methoden, die Lügen über die Briefwahl. Nichts Weichgespültes.
+> 하지만 그 정당은 분명히 짚었으면 해. 그 방식들, 우편투표에 대한 거짓말들. 물렁한 말 말고.
+SELIN: Einverstanden. Hart in der Sache, respektvoll zu den Menschen. Das ist kein Widerspruch.
+> 동의해요. 사안엔 단호하게, 사람에겐 존중을. 그건 모순이 아니에요.
+HENRIKE: Gut. Dann schreibe ich die Rede jetzt selbst. Zehn Minuten. Und niemand redet mit mir.
+> 좋아요. 그럼 연설문은 지금 제가 직접 쓸게요. 10분이요. 아무도 말 걸지 마세요.
+KATHARINA: Das ist das erste Mal, dass Sie eine Rede selbst schreiben, seit ich Sie kenne.
+> 제가 장관님을 안 뒤로 직접 연설문을 쓰시는 건 처음이네요.
+HENRIKE: Sie haben mir beigebracht, dass niemand sonst weiß, was ich sagen will. Nicht einmal Sie.
+> 제가 하고 싶은 말은 저 말고는 아무도 모른다고 가르쳐 주셨잖아요. 브란트 씨조차도요.
+
+## 해결·설득 — GEWONNEN, ABER
+LEONIE: Meine Damen und Herren, die Spitzenkandidatin der Neuen Mitte: Dr. Henrike Sommer!
+> 신사 숙녀 여러분, 노이에 미테 대표 후보, 헨리케 조머 박사입니다!
+HENRIKE: Danke. Danke! Bitte — setzen Sie sich, wir haben noch einen langen Abend. Vor acht Wochen hat man uns neun Prozent gegeben. Heute Abend sind wir die stärkste Kraft in Hessen.
+> 고맙습니다. 고맙습니다! 자, 앉으세요. 아직 긴 밤이 남았어요. 8주 전 사람들은 우리에게 9퍼센트를 줬습니다. 오늘 밤 우리는 헤센 제1당입니다.
+JONAS: Jetzt darf ich aber jubeln.
+> 이제는 진짜 환호해도 되죠.
+TOBIAS: Jetzt ja.
+> 이제는 돼.
+HENRIKE: Ich danke allen, die an Infoständen gefroren, Flyer verteilt und an Türen geklingelt haben. Und ich danke Thomas Albrecht. Er hat mich vorhin angerufen und mir gratuliert. Das war fair, und das ist in diesen Zeiten nicht selbstverständlich.
+> 홍보 부스에서 추위에 떨고, 전단을 돌리고, 집집마다 초인종을 누른 모든 분께 감사드립니다. 그리고 토마스 알브레히트 후보께도 감사드립니다. 조금 전 전화로 축하해 주셨어요. 공정한 처사였고, 요즘 같은 때엔 당연한 일이 아닙니다.
+FALLER: Sie dankt Albrecht. Auf unserer eigenen Wahlparty.
+> 알브레히트한테 감사를 하네. 우리 선거 파티에서.
+KATHARINA: Und morgen schreibt jede Zeitung, dass sie Größe gezeigt hat. Warten Sie es ab.
+> 그리고 내일 모든 신문이 그녀가 품격을 보였다고 쓸 거예요. 두고 보세요.
+HENRIKE: Und ich sage es ehrlich: Wir haben gewonnen, aber wir haben keine Mehrheit allein. Die Hessen haben uns keinen Freibrief gegeben, sondern einen Auftrag. Den Auftrag, mit anderen zusammen ein Land zu bauen, das funktioniert.
+> 그리고 솔직히 말씀드리겠습니다. 우리는 이겼지만, 혼자서는 과반이 아닙니다. 헤센 시민들은 우리에게 백지수표를 준 게 아니라 임무를 맡겼습니다. 다른 이들과 함께 일하는 나라를 만들라는 임무를요.
+SELIN: Live-Zustimmung bei Unentschlossenen: einundsiebzig Prozent. Für „kein Freibrief, sondern ein Auftrag".
+> 미결정층 실시간 공감도 71퍼센트. '백지수표가 아니라 임무'에서.
+HENRIKE: Ich werde ab morgen mit der Ökosozialen Partei und der Freien Bürgerpartei sprechen. Und mit Herrn Albrecht. Ich werde zuhören, bevor ich entscheide. Das habe ich in diesem Wahlkampf gelernt.
+> 내일부터 외코조치알레, 자유시민당과 대화하겠습니다. 알브레히트 후보와도요. 결정하기 전에 먼저 듣겠습니다. 이번 선거에서 배운 게 그겁니다.
+FALLER: Kluger Satz. Damit hält sie sich alle Türen offen.
+> 영리한 문장이야. 이걸로 모든 문을 열어 두는 거지.
+KATHARINA: Nicht nur klug. Ehrlich. Sie weiß es wirklich noch nicht.
+> 영리할 뿐 아니라 정직한 거예요. 정말로 아직 모르니까요.
+HENRIKE: Mit einer Partei, deren Führung das Ergebnis dieser Wahl schon vorher „Betrug" genannt hat, werde ich nicht regieren. Das ist keine Frage der Taktik, sondern des Respekts vor jeder einzelnen Stimme, die heute abgegeben wurde.
+> 선거 전부터 이번 선거 결과를 '사기'라고 부른 지도부의 정당과는 통치하지 않겠습니다. 그건 전술의 문제가 아니라, 오늘 행사된 표 하나하나에 대한 존중의 문제입니다.
+HENRIKE: Aber an die fast zwanzig Prozent, die heute die Bewegung Heimat gewählt haben, sage ich: Ich habe Ihre Stimme nicht bekommen. Ich verstehe, dass viele von Ihnen das Gefühl haben, niemand höre Ihnen zu. Ich werde auch für Sie regieren. Und ich will Ihre Stimme beim nächsten Mal nicht durch Angst gewinnen, sondern durch Arbeit.
+> 하지만 오늘 베궁 하이마트를 찍은 거의 20퍼센트의 분들께 말씀드립니다. 저는 여러분의 표를 얻지 못했습니다. 여러분 중 많은 분이 아무도 자기 말을 들어 주지 않는다고 느끼신다는 걸 이해합니다. 저는 여러분을 위해서도 통치하겠습니다. 그리고 다음번엔 두려움이 아니라 일로 여러분의 표를 얻고 싶습니다.
+KATHARINA: Sie hat „Ihre Stimme" gesagt. Nicht „diese Leute".
+> '여러분의 표'라고 했어. '그런 사람들'이 아니라.
+TOBIAS: Den Satz hat sie von mir. Fast wörtlich.
+> 그 문장 나한테서 가져갔어. 거의 그대로.
+SELIN: Und besser betont.
+> 그리고 강조는 더 잘했고.
+HENRIKE: Heute Abend feiern wir. Morgen um acht fängt die Arbeit an. Wir haben gewonnen — und jetzt fängt die Arbeit an. Danke, Hessen!
+> 오늘 밤은 축하합시다. 내일 여덟 시에 일이 시작됩니다. 우리는 이겼습니다. 그리고 이제 일이 시작됩니다. 고맙습니다, 헤센!
+LEONIE: Vorläufiges amtliches Endergebnis, dreiundzwanzig Uhr achtundvierzig! Neue Mitte sechsundzwanzig Komma vier. Albrecht vierundzwanzig Komma zwei. Bewegung Heimat neunzehn Komma eins. Ökosoziale zwölf Komma sechs. Freie Bürgerpartei fünf Komma zwei.
+> 잠정 공식 최종 결과, 23시 48분! 노이에 미테 26.4. 알브레히트 24.2. 베궁 하이마트 19.1. 외코조치알레 12.6. 자유시민당 5.2.
+JONAS: Fünf Komma zwei! Freie Bürgerpartei, ich liebe euch! — Das habe ich nicht gesagt.
+> 5.2! 자유시민당, 사랑해요! — 저 이 말 안 했어요.
+SELIN: Doch. Ich habe es aufgenommen.
+> 했어. 내가 녹화했어.
+TOBIAS: Fünf Komma zwei. Sitzverteilung wie berechnet: sechsundfünfzig zu vierundfünfzig. Eine Stimme bleibt eine Stimme.
+> 5.2. 의석 배분은 계산대로예요. 56 대 54. 한 표는 여전히 한 표고요.
+FALLER: Ich habe heute Abend für die Freie Bürgerpartei gebetet. Morgen werde ich mit ihr streiten. Das ist Politik.
+> 오늘 밤 자유시민당을 위해 기도했는데, 내일은 그쪽이랑 싸우겠지. 그게 정치야.
+HENRIKE: Bernd, du verhandelst morgen mit. Frau Brandt auch. Ich will die Partei und den Verstand am selben Tisch.
+> 베른트, 내일 너도 협상에 들어와. 브란트 씨도요. 당과 이성을 한 테이블에 앉히고 싶어요.
+FALLER: Die Partei und der Verstand. Ich nehme an, ich bin die Partei.
+> 당과 이성이라. 내가 당이겠지.
+KATHARINA: Ich nehme an, wir brauchen beide.
+> 우리 둘 다 필요하다는 뜻이겠죠.
+HENRIKE: Frau Brandt, Sie bleiben doch? Nicht nur bis morgen?
+> 브란트 씨, 계속 계실 거죠? 내일까지만이 아니라?
+KATHARINA: Bis es eine Regierung gibt, Frau Ministerin. Danach reden wir.
+> 정부가 생길 때까지요, 장관님. 그 뒤엔 다시 얘기하죠.
+
+## 마무리 — ZWEI UHR NACHTS
+SELIN: Wahlbeteiligung achtundsechzig Komma neun Prozent. Sechs Punkte mehr als beim letzten Mal.
+> 투표율 68.9퍼센트. 지난번보다 6포인트 높아.
+TOBIAS: Das ist die beste Zahl des Abends. Egal, wer gewonnen hat.
+> 그게 오늘 밤 최고의 숫자네. 누가 이겼든.
+JONAS: Frau Aydın, schauen Sie mal. Eine Nachricht an den Kampagnenaccount. Von einem Kevin aus Offenbach.
+> 아이든 씨, 이것 좀 보세요. 캠페인 계정으로 메시지가 왔어요. 오펜바흐의 케빈이라는 사람한테서.
+SELIN: Was schreibt er?
+> 뭐라고 썼어?
+JONAS: „Sechs Wochen sind um. Der Bus von Detlef kommt jetzt pünktlicher, hat er erzählt. Hab gewählt. Nicht Sie. Aber gewählt. Ich schau weiter zu."
+> '6주 지났네요. 데틀레프 아저씨 버스가 요즘 더 제시간에 온대요. 투표했어요. 당신은 아니고요. 그래도 투표했어요. 계속 지켜볼게요.'
+HENRIKE: „Ich schau weiter zu." Das ist mehr wert als jede Hochrechnung.
+> '계속 지켜볼게요.' 그게 어떤 추계보다 값지네요.
+KATHARINA: Antworten Sie ihm. Selbst. Und kurz.
+> 직접 답장하세요. 짧게.
+HENRIKE: „Danke, Kevin. Bitte schauen Sie genau hin. — H. S."
+> '고마워요, 케빈 씨. 꼭 자세히 지켜봐 주세요. — H. S.'
+FALLER: Frau Brandt. Ich habe mich in Ihnen getäuscht. Ein bisschen.
+> 브란트 씨. 제가 당신을 잘못 봤습니다. 조금.
+KATHARINA: Ein bisschen reicht mir, Herr Faller.
+> 조금이면 충분해요, 팔러 씨.
+LEONIE: Die Einladungen sind raus. Morgen elf Uhr, Hotel am Kurpark. Die Ökosozialen und die Freie Bürgerpartei. Am selben Tisch.
+> 초청장 나갔어요. 내일 열한 시, 쿠어파르크 호텔. 외코조치알레와 자유시민당. 같은 테이블에.
+TOBIAS: Zwei Parteien, die sich hassen, eine Stimme Mehrheit und ein Hotel. Klingt nach einem langen Wochenende.
+> 서로 싫어하는 두 정당, 한 표짜리 과반, 그리고 호텔 하나. 긴 주말이 되겠네.

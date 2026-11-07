@@ -1,0 +1,268 @@
+part: 4
+ep: 7
+title_de: Sondierung
+title_ko: 연정 예비협상
+scene: 비스바덴 쿠어파르크 호텔 협상실, 금요일부터 일요일 새벽까지
+level: C1
+setting: 선거 닷새 뒤 금요일 오전 열한 시부터 일요일 새벽 네 시까지, 비스바덴 쿠어파르크 근처 호텔의 협상실과 복도, 그리고 각 당의 별실
+cast: KATHARINA | Dr. Katharina Brandt · 선거캠프 총괄 전략가, Neue Mitte 협상단 자문
+cast: TOBIAS | Tobias Wendt · 공약 재원·숫자 검증 담당
+cast: SELIN | Selin Aydın · 디지털 캠페인·여론 분석 총괄
+cast: HENRIKE | Dr. Henrike Sommer · Neue Mitte 대표, 차기 주총리 후보
+cast: FALLER | Bernd Faller · Neue Mitte 헤센 주당 사무총장
+cast: BEHRENS | Johanna Behrens · 외코조치알레(Ökosoziale Partei) 주당 대표 (가상)
+cast: HAGEDORN | Carsten Hagedorn · 자유시민당(Freie Bürgerpartei) 원내대표 (가상)
+cast: LEONIE | Leonie Brück · 주당 대변인
+cast: KELLNER | 호텔 직원
+note: ※ 독일의 연정은 보통 두 단계로 만들어집니다. 먼저 함께 정부를 꾸릴 수 있는지 탐색하는 예비협상(Sondierung)을 하고, 그 결과를 짧은 문서(Sondierungspapier)로 정리합니다. 각 당의 기구가 동의하면 본협상(Koalitionsverhandlungen)에 들어가 수십~수백 쪽의 연정 협약서(Koalitionsvertrag)를 쓰고, 많은 정당은 이를 당대회나 당원투표로 승인받습니다. 협상에서 절대 양보할 수 없는 조건을 '레드라인(rote Linie)', 상대에게 내주는 것을 '양보(Zugeständnis)'라고 합니다. 이번 화의 쟁점인 풍력 발전 부지는 실제로도 민감합니다. 연방 육상풍력법(Wind-an-Land-Gesetz)은 각 주에 일정 비율의 면적을 풍력용으로 지정하라고 요구하고, 숲속 풍력 발전기를 둘러싸고는 기후 보호와 자연·경관 보호가 정면으로 맞섭니다. 이민 정책에서도 '노동시장 통합을 빠르게'와 '거부된 신청자의 송환을 일관되게'라는 두 요구가 부딪칩니다. 등장하는 정당·인물·수치는 모두 가상입니다. 표현 초점: die Sondierung, die rote Linie, der Koalitionsvertrag, das Zugeständnis, Ein Kompromiss ist kein Verrat.
+next: 4부 8화 — «Regieren ist anders»(통치는 다르다) — 주총리실에 들어간 캠프 사람들이 관료 조직과 부딪친다. 고참 국장은 말한다. "선거는 몇 달, 행정은 수십 년입니다." Katharina는 처음으로 '자문의 한계'를 인정한다.
+
+## 도입 — DREI PARTEIEN, EIN TISCH
+KELLNER: Drei Sorten Wasser, zwei Sorten Kaffee, Obst und Brezeln. Wünschen die Herrschaften noch etwas?
+> 물 세 종류, 커피 두 종류, 과일과 브레첼입니다. 더 필요하신 게 있으실까요?
+TOBIAS: Ja. Bitte keine Brezeln mehr. Wir hatten am Wahlabend genug für ein Jahr.
+> 네. 브레첼은 이제 그만 주세요. 선거 날 밤에 1년 치를 먹었어요.
+SELIN: Warum drei Sorten Wasser?
+> 왜 물이 세 종류예요?
+KELLNER: Still für die Ökosozialen, sprudelnd für die Freie Bürgerpartei und medium für die Neue Mitte. So war es beim letzten Mal auch gewünscht.
+> 외코조치알레는 탄산 없는 걸로, 자유시민당은 탄산 강한 걸로, 노이에 미테는 중간으로요. 지난번에도 그렇게 요청하셨거든요.
+SELIN: Medium. Natürlich. Die Partei der Mitte trinkt mittel.
+> 중간. 당연하지. 중도 정당은 중간을 마시는구나.
+FALLER: Lachen Sie nicht. Vor fünf Jahren ist eine Sondierung an der Sitzordnung gescheitert.
+> 웃지 마세요. 5년 전엔 예비협상이 자리 배치 때문에 깨졌어요.
+KATHARINA: Dann machen wir es heute anders. Runder Tisch, keine Namensschilder, ein gemeinsames Papier, an dem alle schreiben.
+> 그럼 오늘은 다르게 하죠. 원탁, 명패 없이, 모두가 함께 쓰는 문서 하나.
+HENRIKE: Frau Brandt, ich habe in meinem Leben schon viel verhandelt. Mit Konzernen, mit dem Bund, mit Brüssel. Aber noch nie mit zwei Parteien, die sich gegenseitig für das Problem halten.
+> 브란트 씨, 저도 살면서 협상 많이 해 봤어요. 대기업이랑, 연방이랑, 브뤼셀이랑. 하지만 서로를 문제라고 생각하는 두 정당과 동시에 해 본 적은 없어요.
+KATHARINA: Das ist der Vorteil. Wenn beide Sie für das kleinere Übel halten, sitzen Sie in der Mitte. Diesmal im Wortsinn.
+> 그게 장점이에요. 두 쪽 다 장관님을 차악으로 여긴다면, 장관님이 한가운데 앉는 거죠. 이번엔 글자 그대로.
+LEONIE: Die Delegationen sind da. Die Ökosozialen mit sechs Personen, die Freie Bürgerpartei mit fünf. Und draußen stehen vierzehn Kameras.
+> 대표단 도착했어요. 외코조치알레 여섯 명, 자유시민당 다섯 명. 그리고 밖에 카메라가 열네 대예요.
+TOBIAS: Vierzehn Kameras für ein Gespräch, aus dem nichts nach außen dringen darf.
+> 아무것도 밖으로 새어 나가면 안 되는 대화에 카메라가 열네 대라.
+HENRIKE: So ist Politik, Herr Wendt. Bitte herein. Willkommen zur Sondierung.
+> 정치가 그래요, 벤트 씨. 들어오세요. 예비협상에 오신 걸 환영합니다.
+
+## 분석 — ROTE LINIEN
+BEHRENS: Danke für die Einladung. Ich sage gleich zu Beginn, wo wir stehen. Wir haben drei rote Linien: mehr Windkraft, auch im Wald. Längeres gemeinsames Lernen an den Schulen. Und keine Abschiebungen von Menschen, die eine Ausbildung machen.
+> 초대해 주셔서 감사합니다. 처음부터 우리 입장을 말씀드리죠. 레드라인이 세 개 있습니다. 숲을 포함한 풍력 확대. 학교에서 더 오래 함께 배우기. 그리고 직업훈련 중인 사람은 추방하지 않기.
+HAGEDORN: Und ich sage gleich, wo wir stehen. Kein einziges Windrad im Staatswald. Keine Schulstrukturreform, das Gymnasium bleibt. Und wer kein Bleiberecht hat und straffällig geworden ist, wird konsequent abgeschoben. Außerdem: keine neuen Schulden.
+> 그럼 저도 바로 우리 입장을 말씀드리죠. 국유림엔 풍력 발전기 단 하나도 안 됩니다. 학제 개편 반대, 김나지움은 유지. 체류 자격이 없고 범죄를 저지른 사람은 일관되게 송환. 그리고 신규 부채는 없습니다.
+FALLER: Das sind sieben rote Linien in zwei Minuten. Neuer Rekord.
+> 2분 만에 레드라인 일곱 개. 신기록이네요.
+HAGEDORN: Und das sind nur die, die wir öffentlich nennen.
+> 그리고 그건 공개적으로 밝힌 것만이에요.
+KATHARINA: Darf ich vorschlagen, dass wir die Linien nicht diskutieren, sondern die Gründe dahinter? Frau Behrens, warum Wind im Wald?
+> 선 자체가 아니라 그 뒤에 있는 이유를 논의하자고 제안해도 될까요? 베렌스 대표님, 왜 숲에 풍력인가요?
+BEHRENS: Weil Hessen nach dem Bundesgesetz bis Anfang der Dreißigerjahre zwei Komma zwei Prozent seiner Fläche für Windkraft ausweisen muss. Und weil die windstarken Flächen in Mittelgebirgen fast alle bewaldet sind. Ohne Wald kein Ziel.
+> 연방법에 따라 헤센은 2030년대 초까지 면적의 2.2퍼센트를 풍력용으로 지정해야 하니까요. 그리고 바람 좋은 땅은 중산간 지대에 있는데 거의 다 숲이에요. 숲 없이는 목표도 없어요.
+KATHARINA: Herr Hagedorn, warum kein Wind im Wald?
+> 하게도른 대표님, 왜 숲에는 안 되나요?
+HAGEDORN: Weil unsere Wähler in Dörfern wohnen, die vom Wald leben. Tourismus, Jagd, Identität. Und weil man nicht den Wald roden kann, um das Klima zu retten. Das versteht in Nordhessen kein Mensch.
+> 우리 유권자들은 숲에 기대 사는 마을에 살거든요. 관광, 사냥, 정체성. 그리고 기후를 구하겠다고 숲을 베어 낼 순 없잖아요. 북헤센에선 아무도 그걸 이해 못 합니다.
+TOBIAS: Darf ich eine Zahl beisteuern? Durch Dürre und Borkenkäfer sind in Hessen in den letzten Jahren große Fichtenflächen abgestorben. Dort steht kein Wald mehr im eigentlichen Sinn. Das sind Schadflächen.
+> 숫자 하나 보태도 될까요? 가뭄과 나무좀 때문에 헤센에선 최근 몇 년 사이 가문비나무 숲이 넓게 죽었습니다. 거긴 이제 원래 의미의 숲이 아니에요. 피해 지역이죠.
+BEHRENS: Genau. Dort könnte man bauen, ohne einen gesunden Baum zu fällen.
+> 바로 그거예요. 거기라면 건강한 나무 한 그루 안 베고 지을 수 있어요.
+HAGEDORN: Und dann steht ein zweihundert Meter hohes Windrad neben einem Dorf, das niemand gefragt hat.
+> 그럼 아무도 물어본 적 없는 마을 옆에 200미터짜리 풍력 발전기가 서는 거죠.
+SELIN: In unseren Umfragen ist die Zustimmung zu Windrädern in der Nähe dann am höchsten, wenn die Gemeinde mitverdient. Wenn das Dorf Geld bekommt, kippt die Stimmung oft.
+> 저희 조사에 따르면 근처 풍력 발전기에 대한 찬성은 지자체가 수익을 나눠 받을 때 가장 높아요. 마을이 돈을 받으면 분위기가 자주 뒤집혀요.
+KATHARINA: Dann haben wir hier schon die erste Spur. Es geht Herrn Hagedorn nicht um Windräder. Es geht um Mitsprache. Und Frau Behrens geht es nicht um Wald, sondern um Fläche.
+> 그럼 벌써 첫 실마리가 보이네요. 하게도른 대표님은 풍력 발전기가 아니라 발언권이 문제예요. 그리고 베렌스 대표님은 숲이 아니라 면적이 문제고요.
+BEHRENS: Das ist sehr elegant formuliert, Frau Brandt. Aber wir verhandeln hier nicht in einem Seminar.
+> 아주 우아하게 정리하시네요, 브란트 씨. 하지만 여기는 세미나가 아니라 협상장이에요.
+KATHARINA: Nein. Aber in Seminaren bekommt man selten eine Regierung. Hier vielleicht schon.
+> 그렇죠. 하지만 세미나에서 정부가 생기는 일은 드물죠. 여기선 생길지도 모르고요.
+HENRIKE: Kommen wir zu den Schulen. Frau Behrens, was genau wollen Sie?
+> 학교 얘기로 가죠. 베렌스 대표님, 정확히 뭘 원하세요?
+BEHRENS: Dass Kinder nicht mit zehn Jahren sortiert werden. Die Herkunft entscheidet in Hessen immer noch zu stark über den Abschluss. Das ist unser Kernthema.
+> 아이들이 열 살에 분류되지 않는 것. 헤센에선 아직도 출신이 졸업장을 너무 크게 좌우해요. 그게 우리 핵심 의제예요.
+HAGEDORN: Und die Eltern in Hessen wollen das Gymnasium. Jede Schulstrukturreform der letzten dreißig Jahre hat ihre Regierung gekostet. Das ist keine Ideologie, das ist Erfahrung.
+> 그리고 헤센 부모들은 김나지움을 원합니다. 지난 30년간 학제 개편을 시도한 정부는 모두 그 때문에 무너졌어요. 그건 이념이 아니라 경험이에요.
+TOBIAS: Beides hat empirisch etwas für sich. Aber eine Schulstrukturreform kostet in den ersten Jahren viel Geld und viele Lehrer — und genau die fehlen uns.
+> 둘 다 실증적으로 일리가 있어요. 하지만 학제 개편은 첫 몇 년간 돈과 교사가 많이 들어요. 그리고 바로 그게 지금 우리한테 없죠.
+SELIN: Die Eltern in unseren Umfragen wollen vor allem eins: dass Unterricht stattfindet. Die Schulform kommt bei ihnen auf Platz sechs.
+> 저희 조사에서 부모들이 무엇보다 원하는 건 하나예요. 수업이 실제로 열리는 것. 학교 형태는 여섯 번째예요.
+BEHRENS: Platz sechs. Das klingt, als hätten Sie nur Eltern gefragt, die ihre Kinder ohnehin aufs Gymnasium schicken.
+> 여섯 번째라. 어차피 자녀를 김나지움에 보낼 부모들한테만 물어본 것처럼 들리네요.
+SELIN: Wir haben alle gefragt, Frau Behrens. Bei Eltern ohne Abitur liegt die Schulform sogar auf Platz acht. Sie wollen Lehrer und einen Ganztagsplatz.
+> 모두에게 물어봤어요, 베렌스 대표님. 대학 입학 자격이 없는 부모들 사이에선 학교 형태가 오히려 여덟 번째예요. 그분들은 교사와 종일반 자리를 원해요.
+HENRIKE: Und die Migration. Herr Hagedorn, Sie wollen konsequent abschieben. Frau Behrens, Sie wollen niemanden abschieben, der in Ausbildung ist. Wo liegt der Widerspruch?
+> 그리고 이민. 하게도른 대표님은 일관된 송환을 원하시고, 베렌스 대표님은 직업훈련 중인 사람은 아무도 송환하지 않길 원하시죠. 어디가 모순이죠?
+HAGEDORN: Im Detail. Wer eine Ausbildung beginnt, um einer Abschiebung zu entgehen, missbraucht das System.
+> 세부에서요. 송환을 피하려고 직업훈련을 시작하는 사람은 제도를 악용하는 겁니다.
+BEHRENS: Und wer einen Azubi abschiebt, den ein Handwerksbetrieb dringend braucht, schadet der Wirtschaft. Ihre Wählerschaft, Herr Hagedorn, nicht meine.
+> 그리고 수공업체가 절실히 필요로 하는 견습생을 송환하는 사람은 경제에 해를 끼치는 거예요. 하게도른 대표님, 그건 당신 지지층이에요. 제 지지층이 아니라.
+HAGEDORN: Sehr freundlich, dass Sie sich um meine Wählerschaft sorgen.
+> 제 지지층을 걱정해 주시다니 참 친절하시네요.
+KATHARINA: Dann schreibe ich auf: Beide wollen, dass Menschen, die hier arbeiten und sich an Gesetze halten, schneller Klarheit bekommen. Und beide wollen, dass wer schwere Straftaten begeht, das Land verlässt. Ist das falsch?
+> 그럼 이렇게 적겠습니다. 두 분 다 여기서 일하고 법을 지키는 사람들이 더 빨리 확실한 결론을 받길 원한다. 그리고 두 분 다 중대 범죄를 저지른 사람은 이 나라를 떠나길 원한다. 틀렸나요?
+BEHRENS: Formal nicht.
+> 형식상으로는 아니죠.
+HAGEDORN: Formal nicht. Aber der Teufel steckt im Detail.
+> 형식상으로는 아니에요. 하지만 악마는 디테일에 있죠.
+TOBIAS: Bei mir steckt er im Haushalt. Herr Hagedorn, keine neuen Schulden. Frau Behrens, Ihre Klimaprogramme kosten im ersten Jahr achthundert Millionen. Ohne Kredit geht das nicht.
+> 저한테 악마는 예산에 있어요. 하게도른 대표님은 신규 부채 반대. 베렌스 대표님, 기후 프로그램은 첫해에 8억이 들어요. 대출 없이는 안 됩니다.
+HAGEDORN: Dann eben nicht.
+> 그럼 안 하면 되죠.
+BEHRENS: Dann eben keine Koalition.
+> 그럼 연정도 안 하면 되고요.
+HENRIKE: Und genau an diesem Punkt sind schon andere Sondierungen gescheitert. Wir nicht. Noch nicht.
+> 그리고 바로 이 지점에서 다른 예비협상들이 깨졌죠. 우리는 아니에요. 아직은.
+
+## 갈등 — DER TWEET
+FALLER: Ich schlage eine Pause vor. Zwanzig Minuten. Bevor hier jemand etwas sagt, das er nicht mehr zurücknehmen kann.
+> 휴식을 제안합니다. 20분. 여기서 누가 다시는 주워 담을 수 없는 말을 하기 전에.
+HENRIKE: Einverstanden. Getrennte Räume. Frau Brandt, Herr Wendt, Sie kommen mit mir.
+> 동의해요. 각자 다른 방으로. 브란트 씨, 벤트 씨, 저랑 같이 가요.
+SELIN: Katharina. Schau dir das an. Hagedorn hat gerade gepostet.
+> 카타리나. 이거 봐. 하게도른이 방금 게시물을 올렸어.
+KATHARINA: Während der Sondierung? Was steht da?
+> 예비협상 도중에? 뭐라고 썼어?
+SELIN: „Klare rote Linie der Freien Bürgerpartei: Kein Windrad im hessischen Wald. Darüber verhandeln wir nicht." Mit einem Foto von einer alten Buche.
+> '자유시민당의 분명한 레드라인: 헤센의 숲엔 풍력 발전기 없다. 이건 협상 대상이 아니다.' 오래된 너도밤나무 사진까지 붙여서.
+TOBIAS: Wir haben vereinbart, dass bis zum Ende nichts nach außen geht. Vertraulichkeit war die erste Bedingung.
+> 끝날 때까지 아무것도 밖으로 내보내지 않기로 합의했잖아. 비밀 유지가 첫 번째 조건이었고.
+HENRIKE: Das ist nicht nur unhöflich. Das ist ein Vertrauensbruch, bevor es überhaupt Vertrauen gibt.
+> 그건 무례한 것만이 아니에요. 신뢰가 생기기도 전에 신뢰를 깬 거예요.
+BEHRENS: Frau Sommer, ich habe es gesehen. Wenn Herr Hagedorn über soziale Medien verhandeln will, kann er das gern allein tun. Wir reisen ab.
+> 조머 대표님, 봤습니다. 하게도른 대표가 소셜미디어로 협상하겠다면 혼자 하라고 하세요. 우리는 떠나겠습니다.
+HENRIKE: Frau Behrens, bitte. Geben Sie uns eine Stunde.
+> 베렌스 대표님, 제발요. 한 시간만 주세요.
+BEHRENS: Meine Basis sitzt zu Hause und liest das. Wenn ich jetzt bleibe, sieht es aus, als würde ich mich vorführen lassen.
+> 우리 당원들이 집에서 이걸 읽고 있어요. 지금 남으면 제가 놀림감이 되는 걸 감수하는 것처럼 보일 거예요.
+KATHARINA: Und wenn Sie gehen, entscheidet ein Foto von einer Buche über die nächste Landesregierung. Frau Behrens, ist es das wert?
+> 그리고 떠나시면 너도밤나무 사진 한 장이 다음 주 정부를 결정하게 돼요. 베렌스 대표님, 그럴 가치가 있나요?
+BEHRENS: Ich gebe Ihnen eine Stunde. Nicht ihm.
+> 한 시간 드리죠. 당신한테요. 그 사람 말고.
+FALLER: Ich rede mit Hagedorn. Ich kenne ihn seit dem Studium. Er war damals schon so.
+> 하게도른이랑은 제가 얘기하죠. 대학 때부터 알아요. 그때도 그랬어요.
+KATHARINA: Herr Faller, darf ich mitkommen?
+> 팔러 씨, 같이 가도 될까요?
+FALLER: Nein. Das hier ist Partei, nicht Verstand. Lassen Sie mich das machen.
+> 아뇨. 이건 이성이 아니라 당의 일이에요. 제가 하게 해 주세요.
+HAGEDORN: Bernd. Ich wusste, dass du kommst.
+> 베른트. 네가 올 줄 알았어.
+FALLER: Carsten. Was soll das? Du hast unterschrieben, dass nichts rausgeht.
+> 카르스텐. 이게 뭐야? 아무것도 밖으로 안 나간다고 서명했잖아.
+HAGEDORN: Meine Fraktion hat mir heute Morgen gesagt: Wenn ich beim Wald nachgebe, stimmen sie gegen jeden Koalitionsvertrag. Ich musste ein Zeichen setzen. Für meine eigenen Leute.
+> 오늘 아침 우리 의원단이 그랬어. 숲 문제에서 물러서면 어떤 연정 협약서에도 반대표를 던지겠다고. 신호를 보내야 했어. 우리 쪽 사람들한테.
+FALLER: Und dafür lässt du die Regierung platzen? Mit fünf Komma zwei Prozent? Carsten, ohne diese Koalition seid ihr in fünf Jahren wieder draußen.
+> 그래서 정부를 깨겠다고? 5.2퍼센트로? 카르스텐, 이 연정이 없으면 너희는 5년 뒤에 또 밖이야.
+HAGEDORN: Und mit einer Koalition, in der wir alles aufgeben, auch.
+> 다 내주는 연정에 들어가도 마찬가지야.
+FALLER: Niemand verlangt, dass du alles aufgibst. Aber du kannst nicht sieben rote Linien haben. Du hast sieben Abgeordnete. Eine pro Kopf ist zu viel.
+> 아무도 다 내주라고 안 해. 하지만 레드라인이 일곱 개일 순 없어. 너희 의원이 일곱 명이야. 한 사람당 하나는 너무 많아.
+HAGEDORN: Das ist ein guter Satz. Hast du den von der Beraterin?
+> 좋은 문장이네. 그 컨설턴트한테서 배웠어?
+FALLER: Den habe ich selbst. Ich hatte dreißig Jahre Zeit.
+> 내가 만든 거야. 30년이 있었으니까.
+HAGEDORN: Und was soll ich meiner Fraktion sagen? Dass wir beim Wald einknicken?
+> 그럼 우리 의원단엔 뭐라고 해? 숲 문제에서 꺾였다고?
+FALLER: Sag ihnen, dass ihr den gesunden Wald gerettet habt. Wenn es stimmt, ist es keine Lüge. Und dann lösch das Foto. Oder schreib wenigstens dazu, dass ihr weiterverhandelt.
+> 건강한 숲을 지켜 냈다고 해. 그게 사실이면 거짓말이 아니잖아. 그리고 그 사진은 지워. 아니면 적어도 협상을 계속한다고 덧붙이든가.
+HAGEDORN: … Ich schreibe dazu, dass wir weiterverhandeln.
+> …협상을 계속한다고 덧붙일게.
+SELIN: Die Stimmung im Netz kippt. Die Basis der Ökosozialen schreibt: „Nicht nachgeben!" Und die Basis der Freien Bürgerpartei schreibt dasselbe. Nur mit anderen Bildern.
+> 인터넷 분위기가 기울어요. 외코조치알레 당원들은 '굴복하지 마라!'라고 쓰고, 자유시민당 당원들도 똑같이 써요. 사진만 다를 뿐.
+TOBIAS: Zwei Parteien, die beide von ihren Mitgliedern dafür gefeiert werden, dass sie nicht regieren. Das ist eine bemerkenswerte Form von Demokratie.
+> 두 정당이 둘 다 통치하지 않는다는 이유로 당원들한테 박수받고 있네. 참 놀라운 형태의 민주주의야.
+HENRIKE: Und meine eigene Partei? Was schreiben die?
+> 그럼 우리 당은요? 뭐라고 써요?
+SELIN: Die Hälfte will die Große Koalition mit Albrecht. Die andere Hälfte will, dass Sie hart bleiben. Und eine Gruppe schreibt, ein Kompromiss mit der Freien Bürgerpartei wäre Verrat an den Wählern.
+> 절반은 알브레히트와의 대연정을 원해요. 나머지 절반은 장관님이 단호하길 원하고요. 그리고 한 그룹은 자유시민당과의 타협은 유권자에 대한 배신이래요.
+HENRIKE: Verrat. Weil man miteinander redet.
+> 배신. 서로 대화한다는 이유로.
+KATHARINA: Weil man sich bewegt. In einer Kampagne ist jede Bewegung ein Zeichen von Schwäche. In einer Regierung ist sie ein Zeichen von Leben.
+> 움직인다는 이유로요. 선거운동에서는 모든 움직임이 약함의 신호예요. 정부에서는 살아 있다는 신호고요.
+HENRIKE: Schön gesagt. Aber es ist ein Uhr nachts, und ich habe zwei Parteien, die nicht miteinander in einem Raum sitzen wollen.
+> 멋진 말이네요. 하지만 지금은 새벽 한 시고, 저는 같은 방에 앉고 싶어 하지 않는 두 정당을 데리고 있어요.
+KATHARINA: Dann sitzen sie nicht zusammen. Wir gehen hin und her. Pendeldiplomatie. Raum zwölf, Raum vierzehn, und wir in der Mitte.
+> 그럼 같이 앉지 않으면 돼요. 우리가 왔다 갔다 하는 거죠. 왕복 외교. 12호실, 14호실, 그리고 우리가 가운데.
+FALLER: Medium.
+> 중간이네.
+
+## 해결·설득 — DREI UHR NACHTS
+TOBIAS: Raum vierzehn, Freie Bürgerpartei. Herr Hagedorn, eine Frage: Was brauchen Sie, damit Ihre Fraktion Ja sagen kann? Nicht was Sie wollen. Was Sie brauchen.
+> 14호실, 자유시민당. 하게도른 대표님, 질문 하나요. 의원단이 '예'라고 할 수 있으려면 뭐가 필요하세요? 원하는 거 말고, 필요한 거요.
+HAGEDORN: Dass kein gesunder Wald für Windräder gerodet wird. Dass die Dörfer mitentscheiden. Und dass wir sagen können: Ohne uns hätte es keine Haushaltsdisziplin gegeben.
+> 건강한 숲이 풍력 발전기 때문에 베이지 않을 것. 마을들이 함께 결정할 것. 그리고 우리가 없었다면 재정 규율도 없었을 거라고 말할 수 있을 것.
+KATHARINA: Raum zwölf, Ökosoziale. Frau Behrens, was brauchen Sie?
+> 12호실, 외코조치알레. 베렌스 대표님, 뭐가 필요하세요?
+BEHRENS: Dass Hessen sein Flächenziel erreicht, und zwar früher. Dass Kinder aus armen Familien bessere Chancen bekommen. Und dass niemand abgeschoben wird, den ein Betrieb ausbildet.
+> 헤센이 면적 목표를, 그것도 더 일찍 달성하는 것. 가난한 집 아이들이 더 나은 기회를 얻는 것. 그리고 기업이 훈련시키고 있는 사람은 아무도 송환되지 않는 것.
+HENRIKE: Ich habe zugehört. Jetzt mache ich einen Vorschlag. Erstens Wind: Kein gesunder Laubwald, keine alten Buchenbestände. Aber auf den Schadflächen, wo Fichten abgestorben sind, wird gebaut — schnell. Und jede Gemeinde im Umkreis wird beteiligt, mit Geld pro Kilowattstunde und mit einem Mitspracherecht beim Standort.
+> 들었습니다. 이제 제안을 하죠. 첫째, 풍력. 건강한 활엽수림과 오래된 너도밤나무 숲은 안 됩니다. 하지만 가문비나무가 죽은 피해 지역에는 짓습니다. 빠르게. 그리고 주변의 모든 지자체가 참여합니다. 킬로와트시당 수익 배분과 입지에 대한 발언권을 갖고요.
+BEHRENS: Reicht die Fläche dafür?
+> 그 면적으로 충분해요?
+TOBIAS: Nach unserer Rechnung für knapp zwei Drittel des Ziels. Der Rest kommt aus Offenland und Gewerbegebieten. Das Ziel wird nicht früher erreicht, aber sicher. Und mit weniger Klagen. Klagen kosten im Schnitt zwei Jahre pro Windpark.
+> 저희 계산으로는 목표의 3분의 2 가까이요. 나머지는 개활지와 산업단지에서 나와요. 목표를 더 일찍 달성하진 못하지만, 확실하게 달성해요. 소송도 줄고요. 소송은 풍력 단지 하나당 평균 2년을 잡아먹어요.
+HAGEDORN: Schadflächen. Damit kann ich in Nordhessen leben. Wenn die Dörfer wirklich mitreden.
+> 피해 지역이라. 그 정도면 북헤센에서도 받아들일 수 있습니다. 마을들이 정말로 발언권을 갖는다면요.
+BEHRENS: Und das Geld für die Gemeinden — wie viel?
+> 그럼 지자체에 가는 돈은 얼마나 되죠?
+TOBIAS: Bis zu null Komma zwei Cent pro Kilowattstunde, wie es das Bundesrecht schon erlaubt, plus Bürgerbeteiligung an den Betreibergesellschaften. Für ein Dorf mit drei Anlagen sind das jedes Jahr mehrere zehntausend Euro.
+> 연방법이 이미 허용하는 대로 킬로와트시당 최대 0.2센트, 거기에 운영 회사에 대한 주민 지분 참여까지. 발전기 세 기가 있는 마을이면 해마다 수만 유로예요.
+HAGEDORN: Dafür bekommt man in Nordhessen ein neues Feuerwehrhaus. Das versteht jeder.
+> 그 돈이면 북헤센에선 소방서를 새로 짓죠. 그건 누구나 이해합니다.
+HENRIKE: Zweitens Schule: keine Schulstrukturreform in dieser Legislatur. Das Gymnasium bleibt. Dafür bekommen Schulen in sozial schwierigen Vierteln mehr Personal, nach einem Sozialindex — und dreißig Schulen dürfen freiwillig längeres gemeinsames Lernen erproben. Wissenschaftlich begleitet.
+> 둘째, 학교. 이번 임기 중 학제 개편은 없습니다. 김나지움은 유지합니다. 대신 사회적으로 어려운 지역의 학교는 사회 지수에 따라 인력을 더 받고, 학교 서른 곳은 자율적으로 더 오래 함께 배우는 방식을 시범 운영할 수 있습니다. 학술적 평가와 함께요.
+BEHRENS: Freiwillig. Dreißig Schulen. Das ist weniger, als wir wollten.
+> 자율적으로. 서른 곳. 우리가 원한 것보다 적네요.
+KATHARINA: Aber es ist mehr, als Hessen in dreißig Jahren hatte. Und wenn die Ergebnisse gut sind, haben Sie in fünf Jahren den besten Beweis, den es in der Politik gibt: einen, der funktioniert.
+> 하지만 헤센이 30년 동안 가졌던 것보다는 많아요. 그리고 결과가 좋으면 5년 뒤엔 정치에서 가장 강력한 증거를 갖게 되시죠. 실제로 작동하는 증거요.
+HAGEDORN: Und das Gymnasium wird nirgends angetastet?
+> 그리고 김나지움은 어디서도 건드리지 않는 거죠?
+HENRIKE: Nirgends gegen den Willen der Eltern. Das schreibe ich so rein.
+> 부모들의 뜻에 반해서는 어디서도요. 그렇게 적겠습니다.
+BEHRENS: Und die dreißig Schulen suchen wir gemeinsam aus?
+> 그 서른 곳은 같이 고르는 거죠?
+KATHARINA: Die Schulen bewerben sich selbst. Wer will, darf. Wer nicht will, muss nicht. Dann gibt es keine Verlierer, nur Freiwillige.
+> 학교들이 직접 지원해요. 원하면 하고, 원하지 않으면 안 해도 되고. 그럼 패자는 없고 지원자만 있죠.
+HENRIKE: Drittens Migration. Ein neues Landesamt für Einwanderung, das Arbeitserlaubnisse in drei Monaten statt in acht entscheidet. Wer eine Ausbildung macht und sich nichts zuschulden kommen lässt, bleibt für die Dauer der Ausbildung und zwei Jahre danach. Wer schwere Straftaten begeht, wird konsequent abgeschoben. Beides gleich schnell.
+> 셋째, 이민. 노동 허가를 여덟 달이 아니라 석 달 안에 결정하는 주 이민청을 새로 만듭니다. 직업훈련을 받으면서 잘못을 저지르지 않은 사람은 훈련 기간과 그 뒤 2년간 머뭅니다. 중대 범죄를 저지른 사람은 일관되게 송환합니다. 둘 다 똑같이 빠르게.
+BEHRENS: „Beides gleich schnell." Das ist klug. Dann kann niemand sagen, das eine sei nur das Feigenblatt für das andere.
+> '둘 다 똑같이 빠르게.' 영리하네요. 그럼 아무도 한쪽이 다른 쪽의 가림막일 뿐이라고 말할 수 없겠어요.
+HAGEDORN: Und die Schulden?
+> 그리고 부채는요?
+TOBIAS: Keine Kredite für laufende Ausgaben. Den Spielraum der Schuldenbremse nur für Investitionen mit einer Lebensdauer von mindestens zwanzig Jahren, jährlich vom Rechnungshof geprüft. Das ist Ihre Haushaltsdisziplin, Herr Hagedorn. Und Ihr Klimaprogramm, Frau Behrens — in gestreckter Form.
+> 경상 지출을 위한 대출은 없습니다. 부채제동장치의 여지는 최소 20년 쓰는 투자에만, 매년 감사원 검사를 받는 조건으로. 하게도른 대표님, 그게 대표님의 재정 규율입니다. 그리고 베렌스 대표님, 그게 대표님의 기후 프로그램이에요. 기간을 늘린 형태로요.
+BEHRENS: Ich muss das meiner Basis erklären. Sie werden sagen, wir hätten uns verkauft.
+> 이걸 당원들한테 설명해야 해요. 우리가 팔려 갔다고 할 거예요.
+HENRIKE: Frau Behrens, darf ich Ihnen etwas sagen, das auch meiner eigenen Partei gilt? Ein Kompromiss ist kein Verrat. Verrat wäre es, Ihren Wählern ein Windrad zu versprechen und dann keins zu bauen, weil man lieber recht behält als regiert.
+> 베렌스 대표님, 우리 당에도 해당되는 얘기를 하나 해도 될까요? 타협은 배신이 아닙니다. 배신은 유권자에게 풍력 발전기를 약속해 놓고, 통치하기보다 옳은 채로 남는 걸 택해서 하나도 짓지 않는 거예요.
+BEHRENS: … Ein Kompromiss ist kein Verrat. Den Satz leihe ich mir für unseren Parteitag.
+> …타협은 배신이 아니다. 그 문장, 우리 당대회 때 빌려 쓸게요.
+HAGEDORN: Und ich nehme ihn für meine Fraktion. Wir können ja getrennt klatschen.
+> 저는 우리 의원단에 가져가죠. 박수는 따로 치면 되니까요.
+FALLER: Hauptsache, ihr klatscht im selben Takt.
+> 박자만 맞춰서 치면 돼.
+KATHARINA: Dann haben wir ein Sondierungspapier. Zwölf Seiten, drei Parteien, sechs Zugeständnisse, null Buchen.
+> 그럼 예비협상 문서가 생겼네요. 12쪽, 3개 정당, 양보 여섯 개, 너도밤나무 0그루.
+
+## 마무리 — VIER UHR MORGENS
+SELIN: Es ist vier Uhr zwölf. Und das erste gemeinsame Foto von Behrens und Hagedorn geht gerade viral. Die beiden lächeln. Fast.
+> 4시 12분이야. 그리고 베렌스와 하게도른의 첫 공동 사진이 지금 퍼지고 있어. 둘 다 웃고 있어. 거의.
+TOBIAS: Zahlen zur Stimmung?
+> 분위기 숫자는?
+SELIN: Bei den Mitgliedern aller drei Parteien je etwa sechzig Prozent Zustimmung. Bei Albrechts Wählern übrigens auch fünfundvierzig. Die Leute mögen es, wenn Politiker sich einigen.
+> 세 정당 당원들 사이에서 각각 약 60퍼센트가 찬성이야. 참고로 알브레히트 지지자들도 45퍼센트. 사람들은 정치인들이 합의하는 걸 좋아해.
+FALLER: Hagedorn hat sich bei mir entschuldigt. Zum ersten Mal seit dem Studium.
+> 하게도른이 나한테 사과했어. 대학 이후 처음으로.
+KATHARINA: Herr Faller, das war Ihr Verdienst. Ohne Sie wäre er nicht zurückgekommen.
+> 팔러 씨, 그건 팔러 씨 공이에요. 팔러 씨 아니었으면 그 사람 안 돌아왔을 거예요.
+FALLER: Ich weiß. Ich wollte nur hören, wie Sie es sagen.
+> 압니다. 당신이 그 말을 어떻게 하는지 듣고 싶었을 뿐이에요.
+HENRIKE: Frau Brandt, darf ich Sie etwas fragen? Die Koalitionsverhandlungen dauern noch vier Wochen. Danach wählt mich der Landtag hoffentlich zur Ministerpräsidentin. Und dann?
+> 브란트 씨, 하나 물어봐도 될까요? 연정 본협상은 4주 더 걸려요. 그 뒤엔 주의회가 저를 주총리로 선출하겠죠, 바라건대. 그다음엔요?
+KATHARINA: Dann regieren Sie.
+> 그다음엔 통치하시는 거죠.
+HENRIKE: Nicht ich. Wir. Ich möchte, dass Sie den Planungsstab in der Staatskanzlei leiten. Für ein Jahr. Damit aus diesen zwölf Seiten ein Land wird, das funktioniert.
+> 저 혼자가 아니라 우리가요. 브란트 씨가 주총리실 기획실을 맡아 주셨으면 해요. 1년만이요. 이 12쪽이 일하는 나라가 되도록.
+TOBIAS: Ein Jahr im Staatsdienst. Katharina, du hasst Formulare.
+> 공직에서 1년. 카타리나, 너 서류 싫어하잖아.
+KATHARINA: Ich hasse Formulare, die niemand liest. Vielleicht kann ich ein paar abschaffen.
+> 아무도 안 읽는 서류가 싫은 거지. 몇 개쯤은 없앨 수 있을지도 몰라.
+SELIN: Sag ihr Ja. Ich komme mit. Irgendjemand muss die Digitalisierung der Verwaltung machen, und es sieht nicht so aus, als würde sich jemand darum reißen.
+> 하겠다고 해. 나도 갈게. 누군가는 행정 디지털화를 해야 하는데, 서로 하겠다고 나서는 사람은 없어 보이거든.

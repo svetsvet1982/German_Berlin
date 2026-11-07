@@ -1,0 +1,274 @@
+part: 4
+ep: 16
+title_de: Nach der Wahl
+title_ko: 선거가 끝난 뒤
+scene: 선거의 밤, 베를린 캠프 → 새벽의 슈프레강변 → (에필로그) 프랑크푸르트 웨스트엔드
+level: C1
+setting: 연방의회 선거일 일요일 오후 다섯 시 오십 분부터 월요일 새벽까지, 베를린 모아비트 캠프 사무실과 슈프레강변. 에필로그는 석 달 뒤 월요일 아침, 프랑크푸르트 웨스트엔드 Bockenheimer Landstraße
+cast: KATHARINA | Dr. Katharina Brandt · 연방 선거캠프 총괄 전략가
+cast: SELIN | Selin Aydın · 디지털 캠페인·여론 분석 총괄 → (에필로그) BWA 프랑크푸르트 사무소 파트너
+cast: TOBIAS | Tobias Wendt · 공약 재원·예산 검증 담당
+cast: HENRIKE | Dr. Henrike Sommer · Neue Mitte 총리 후보
+cast: UTE | Ute Hennig · 베를린 캠프 사무실 책임자
+cast: FALLER | Bernd Faller · Neue Mitte 헤센 주당 사무총장
+cast: BRETTSCHNEIDER | Prof. Dr. Ralf Brettschneider · Neue Mitte 연방 대표
+cast: LEONIE | Leonie Brück · Neue Mitte 대변인
+cast: REUTER | Dr. Wolfgang Reuter · 경쟁 거대정당의 총리 후보 (전화)
+cast: KRÖGER | Matthias Kröger · Ebersbach AG 슈판다우 공장 노동자평의회 의장 (음성 메시지)
+cast: CLARA | Clara Ebersbach · Ebersbach 가문, 전 감사회 위원 (음성 메시지)
+cast: PAUL | Dr. Paul Asante · BWA 파트너, 프랑크푸르트 (전화)
+cast: LORENZ | Jan-Hendrik Lorenz · Reuter의 전략 자문 (음성 메시지)
+cast: BIRGIT | Birgit Hahn · (에필로그) BWA 프랑크푸르트 사무소 안내 담당, 전 Hellweg & Cie. 팀 어시스턴트
+cast: HANA | Hana Becker · (에필로그) BWA 신입 주니어 컨설턴트(데이터 분석), 베를린에서 전입 (26)
+note: ※ 연방의회 선거의 밤도 18시 예측(Prognose)으로 시작해 추계(Hochrechnung)를 거쳐 새벽의 잠정 최종 결과로 끝납니다. 2025년 선거법 개정 이후 연방의회는 630석으로 고정되었고, 지역구 1위를 해도 그 정당의 정당 투표(Zweitstimme) 몫이 받쳐 주지 않으면 의석을 얻지 못할 수 있습니다(Zweitstimmendeckung). 총리는 연방대통령의 제청을 받아 연방의회 재적 과반(이번 화에서는 316표)으로 선출되므로, 1위 정당도 연정 없이 총리를 낼 수 없습니다. 제1당과 제2당이 손잡는 대연정이 성립하면, 원내 제3당이 '최대 야당'이 된다는 점도 독일 민주주의의 오래된 고민입니다. 이번 화에는 1·2·3부의 인물들이 음성 메시지로 돌아오고, 에필로그는 시리즈 첫 화의 장소로 돌아갑니다. 등장하는 정당·인물·수치는 모두 가상입니다. 표현 초점: das Ergebnis, die Verantwortung, der Neuanfang, die Demokratie, Ein Mandat ist geliehen, nie geschenkt.
+next: MANDAT 시리즈 완결 — 프랑크푸르트 웨스트엔드의 첫날에서 시작해 연방 선거의 밤을 지나 다시 웨스트엔드의 첫날로. 컨설팅의 '수임 건'이든 유권자의 '위임'이든, Mandat는 맡겨진 것이지 소유한 것이 아니라는 문장으로 64화의 이야기를 닫습니다. 수고하셨습니다.
+
+## 도입 — 17:58
+UTE: Zwei Minuten. Wer jetzt noch aufs Handy schaut, kriegt kein Börek.
+> 2분. 지금 휴대폰 보는 사람은 뵈렉 없어.
+TOBIAS: Ich schaue nicht aufs Handy. Ich schaue auf die Uhr. Das ist etwas anderes.
+> 나 휴대폰 안 봐. 시계 보는 거야. 그건 다르지.
+SELIN: Wahlbeteiligung laut Bundeswahlleiterin um sechzehn Uhr: höher als beim letzten Mal. In Neukölln deutlich höher.
+> 연방선거관리관 발표, 16시 기준 투표율. 지난번보다 높아. 노이쾰른은 확실히 높고.
+KATHARINA: Henrike, wo bist du?
+> 헨리케, 어디 있어?
+HENRIKE: Hier. Hinten. Mit euch. Wie in Wiesbaden. Die erste Zahl gehört uns, nicht dem Fernsehen.
+> 여기. 뒤쪽에. 너희랑. 비스바덴에서처럼. 첫 숫자는 방송이 아니라 우리 거야.
+FALLER: Ich habe vor einem Jahr gesagt, Sie sind in sieben Wochen wieder weg, Frau Brandt. Ich habe mich um elf Monate verschätzt.
+> 1년 전에 브란트 씨는 7주면 떠날 거라고 했죠. 11개월 틀렸네요.
+KATHARINA: Das ist für einen Generalsekretär eine sehr kleine Abweichung, Herr Faller.
+> 사무총장님치곤 아주 작은 오차예요, 팔러 씨.
+BRETTSCHNEIDER: Egal, was gleich kommt: Wir sind vor einem Jahr bei elf Prozent gestartet. Danke. Allen.
+> 곧 뭐가 나오든, 우리는 1년 전 11퍼센트에서 시작했습니다. 고맙습니다. 모두에게.
+TOBIAS: Bitte niemand jubeln.
+> 아무도 환호하지 마.
+SELIN: Eins.
+> 하나.
+UTE: Zehn, neun, acht …
+> 열, 아홉, 여덟…
+KATHARINA: Was auch immer jetzt kommt — wir haben es anständig gemacht.
+> 지금 뭐가 나오든, 우리는 품위 있게 해냈어.
+
+## 분석 — DAS ERGEBNIS
+SELIN: Prognose! Neue Mitte siebenundzwanzig Komma eins. Reuters Partei sechsundzwanzig Komma drei. Bewegung Heimat achtzehn Komma vier. Ökosoziale elf. Freie Bürgerpartei fünf Komma drei.
+> 예측 나왔어요! 노이에 미테 27.1. 로이터 당 26.3. 베궁 하이마트 18.4. 외코조치알레 11. 자유시민당 5.3.
+UTE: Erster! Ihr seid Erster! Ick wusste es! Mein Gefühl!
+> 1위! 너희가 1위야! 알았어! 내 느낌!
+TOBIAS: Null Komma acht Punkte Vorsprung. Bitte niemand …
+> 0.8포인트 차이. 아무도…
+SELIN: Zu spät, Tobias. Faller hat schon gejubelt.
+> 늦었어, 토비아스. 팔러 씨가 벌써 환호했어.
+FALLER: Ich habe nicht gejubelt. Ich habe geatmet. Laut.
+> 환호한 거 아니에요. 숨을 쉰 거예요. 크게.
+HENRIKE: Siebenundzwanzig. Bundesweit. Vor einem Jahr kannten mich drei von vier Hessen nicht.
+> 27. 전국에서. 1년 전엔 헤센 사람 넷 중 셋이 나를 몰랐는데.
+KATHARINA: Und jetzt kennt dich das ganze Land. Und hat dich gewählt. Knapp, aber gewählt.
+> 이제는 온 나라가 너를 알아. 그리고 너를 뽑았어. 아슬아슬하게, 하지만 뽑았지.
+BRETTSCHNEIDER: Herr Wendt, was heißt das für die Sitze?
+> 벤트 씨, 의석으로는 어떻게 되죠?
+TOBIAS: Sechshundertdreißig Sitze, Mehrheit bei dreihundertsechzehn. Neue Mitte, Ökosoziale und Freie Bürgerpartei zusammen: etwa dreihundertacht. Das reicht nicht.
+> 630석, 과반은 316. 노이에 미테, 외코조치알레, 자유시민당 합쳐서 약 308. 부족해요.
+SELIN: Acht Sitze zu wenig für die Koalition aus Hessen.
+> 헤센식 연정으론 8석이 모자라.
+TOBIAS: Rechnerisch gibt es nur eine stabile Mehrheit ohne die Bewegung Heimat: Neue Mitte mit Reuters Partei. Zusammen etwa dreihundertachtzig.
+> 계산상 베궁 하이마트 없이 가능한 안정 과반은 하나뿐이에요. 노이에 미테와 로이터 당. 합쳐서 약 380.
+SELIN: Und eine Koalition mit der Bewegung Heimat schließen beide Parteien aus.
+> 그리고 두 정당 다 베궁 하이마트와의 연정은 배제하고 있어요.
+TOBIAS: Was sie rechnerisch auch nicht brauchen. Gut so.
+> 계산상 필요하지도 않고요. 다행이죠.
+FALLER: Eine Große Koalition. Mit uns vorn. Das hat es noch nie gegeben.
+> 대연정. 우리가 앞에 서서. 그런 적은 한 번도 없었는데.
+SELIN: Erste Hochrechnung, achtzehn Uhr vierzig. Neue Mitte sechsundzwanzig Komma neun, Reuter sechsundzwanzig Komma fünf. Es wird enger.
+> 첫 추계, 18시 40분. 노이에 미테 26.9, 로이터 26.5. 좁혀지고 있어.
+UTE: Nee. Nicht enger. Bitte nicht enger.
+> 안 돼. 좁혀지지 마. 제발 좁혀지지 마.
+HENRIKE: Ute, ich glaube, Sie haben in diesem Wahlkampf mehr Puls als ich.
+> 우테 씨, 이번 선거에서 우테 씨 맥박이 저보다 빠른 것 같아요.
+UTE: Det ist mein erster Wahlkampf, Henrike. Und mein letzter. Ich will ihn gewinnen.
+> 내 첫 선거운동이잖아, 헨리케. 그리고 마지막이고. 이기고 싶어.
+TOBIAS: Die Briefwahl wird zuletzt ausgezählt. Und die Briefwahlanträge in Neukölln und in der Prignitz sind gestiegen. Das hilft eher uns.
+> 우편투표는 마지막에 개표돼. 그리고 노이쾰른이랑 프리그니츠에서 우편투표 신청이 늘었지. 그건 오히려 우리한테 유리해.
+HENRIKE: Wegen einer gefälschten SMS.
+> 가짜 문자 하나 때문에.
+SELIN: Wegen einer Mutter mit einer Hausgruppe. Und einem Kiosk mit einem Zettel neben den Kaugummis.
+> 단체방 가진 엄마 한 명 덕분에. 그리고 껌 옆에 쪽지 붙인 키오스크 하나 덕분에.
+KATHARINA: Wie ist die Wahlbeteiligung jetzt?
+> 지금 투표율은?
+SELIN: Dreiundachtzig Komma vier Prozent. In Neukölln dreiundsechzig. Beim letzten Mal einundfünfzig. In Lindenbrück vierundsiebzig.
+> 83.4퍼센트. 노이쾰른 63. 지난번엔 51이었어. 린덴브뤼크 74.
+TOBIAS: Lindenbrück. Marcel ist hingegangen.
+> 린덴브뤼크. 마르셀이 갔구나.
+SELIN: Wir wissen nicht, wen er gewählt hat.
+> 누구를 찍었는지는 모르잖아.
+TOBIAS: Das ist auch nicht die Frage. Er ist hingegangen.
+> 그게 중요한 게 아니야. 갔다는 거지.
+SELIN: Und noch etwas. Zwei unserer Wahlkreisgewinner in Hessen bekommen kein Mandat. Zweitstimmendeckung. Wir haben dort mehr Wahlkreise gewonnen, als unser Zweitstimmenanteil abdeckt.
+> 그리고 하나 더. 헤센의 우리 지역구 당선자 두 명이 의석을 못 받아. 정당 투표 충족 규정 때문에. 거기서 우리가 정당 투표 몫으로 감당할 수 있는 것보다 지역구를 더 많이 이겼거든.
+FALLER: Mein alter Wahlkreis ist einer davon. Gewonnen und trotzdem draußen. Das neue Wahlrecht hat Humor.
+> 내 옛 지역구가 그중 하나네. 이기고도 못 들어가다니. 새 선거법이 유머가 있네.
+BRETTSCHNEIDER: Es hat eine Logik, Herr Faller. Der Bundestag bleibt bei sechshundertdreißig. Das wollten wir alle.
+> 논리가 있는 거예요, 팔러 씨. 연방의회가 630석으로 유지되잖아요. 우리 모두 그걸 원했고요.
+FALLER: Ich wollte es für die anderen, Herr Brettschneider. Nicht für mich.
+> 나는 다른 사람들 얘기인 줄 알았죠, 브레트슈나이더 대표님. 내 얘기가 아니라.
+SELIN: Die Bewegung Heimat erklärt gerade, das Ergebnis sei „durch Manipulation zustande gekommen". Sie verweisen auf die SMS.
+> 베궁 하이마트가 방금 결과가 '조작으로 만들어졌다'고 발표했어. 그 문자를 근거로 들고 있어.
+TOBIAS: Die SMS sollte Menschen vom Wählen abhalten. Und am Ende haben mehr Menschen gewählt als je zuvor. Das ist das Gegenteil von Manipulation.
+> 그 문자는 사람들이 투표하지 못하게 하려던 거잖아. 그런데 결국 그 어느 때보다 많은 사람이 투표했어. 그건 조작의 정반대야.
+UTE: Die Bundeswahlleiterin hat schon geantwortet. Keine Hinweise auf Unregelmäßigkeiten bei der Auszählung. Die Anzeige wegen der SMS läuft.
+> 연방선거관리관이 벌써 답했어. 개표에서 부정의 징후는 없다고. 문자 건 고발은 진행 중이고.
+
+## 갈등 — MIT WEM?
+LEONIE: Herr Reuter ist am Telefon. Für Frau Sommer, persönlich.
+> 로이터 후보님 전화예요. 조머 후보님께, 직접.
+REUTER: Frau Sommer. Ich gratuliere Ihnen. Knapp, aber eindeutig. Sie sind die stärkste Kraft.
+> 조머 후보님. 축하드립니다. 아슬아슬하지만 분명합니다. 당신이 제1당입니다.
+HENRIKE: Danke, Herr Reuter. Sie haben einen fairen Wahlkampf geführt. Bis auf ein paar Tage.
+> 고맙습니다, 로이터 후보님. 공정한 선거전을 치르셨어요. 며칠만 빼면요.
+REUTER: Ich weiß, welche Tage Sie meinen. Ich habe dafür die Verantwortung. Darüber reden wir, wenn wir uns sehen. Und ich denke, wir sollten uns sehen. Bald.
+> 어느 며칠을 말씀하시는지 압니다. 그건 제 책임입니다. 만나면 그 얘기를 하죠. 그리고 우리는 만나야 할 것 같습니다. 곧.
+HENRIKE: Sie bieten Gespräche an?
+> 대화를 제안하시는 건가요?
+REUTER: Ich biete an, Verantwortung zu übernehmen. Als zweite Kraft. Wenn die Inhalte stimmen. Das Land braucht eine stabile Regierung, und es gibt nur eine.
+> 책임을 지겠다고 제안하는 겁니다. 제2당으로서. 내용이 맞는다면. 나라엔 안정된 정부가 필요하고, 그건 하나뿐입니다.
+HENRIKE: Ich höre zu, Herr Reuter. Morgen. Heute Abend nicht mehr.
+> 들어 보겠습니다, 로이터 후보님. 내일요. 오늘 밤은 더 이상 안 하고요.
+FALLER: Das hast du in Wiesbaden auch zu Albrecht gesagt.
+> 비스바덴에서도 알브레히트한테 그렇게 말했잖아.
+HENRIKE: Und es war richtig. Also sage ich es wieder.
+> 그리고 그게 옳았지. 그러니까 또 말하는 거야.
+BRETTSCHNEIDER: Frau Sommer, ich muss etwas sagen, das heute Abend niemand hören will. Eine Große Koalition mit Reuter macht die Bewegung Heimat zur größten Oppositionspartei. Sie bekommt den Vorsitz im Haushaltsausschuss, die erste Antwort auf jede Regierungserklärung, die Bühne für vier Jahre.
+> 조머 후보님, 오늘 밤 아무도 듣고 싶어 하지 않을 말을 해야겠습니다. 로이터와 대연정을 하면 베궁 하이마트가 최대 야당이 됩니다. 예산위원장 자리를 가져가고, 모든 정부 성명에 첫 번째로 응답하고, 4년 동안 무대를 갖게 되죠.
+TOBIAS: Das ist ein ernstes Argument. Große Koalitionen stärken oft die Ränder.
+> 그건 진지한 논거예요. 대연정은 흔히 양 끝을 강하게 만들죠.
+SELIN: Unsere Daten sagen dasselbe. Nach Großen Koalitionen haben die Ränder oft zugelegt. Aber nicht immer. Es hing davon ab, ob die Regierung sichtbar etwas verändert hat.
+> 우리 데이터도 같은 말을 해요. 대연정 뒤엔 양 끝이 세를 불린 경우가 많았어요. 하지만 늘 그런 건 아니에요. 정부가 눈에 보이게 뭔가를 바꿨느냐에 달려 있었죠.
+HENRIKE: Dann ist das unsere Aufgabe: ein Neuanfang, den man sieht. In vier Jahren, nicht in vierzig.
+> 그럼 그게 우리 일이네요. 눈에 보이는 새 출발. 40년이 아니라 4년 안에.
+FALLER: Und die Alternative? Eine Minderheitsregierung mit den Ökosozialen und der Freien Bürgerpartei, die bei jedem Gesetz um acht Stimmen betteln muss?
+> 그럼 대안은요? 외코조치알레, 자유시민당이랑 소수 정부를 꾸려서 법안마다 여덟 표를 구걸하라고요?
+SELIN: In Skandinavien funktioniert so etwas manchmal.
+> 스칸디나비아에선 그런 게 가끔 통해.
+FALLER: Wir sind nicht in Skandinavien, Frau Aydın. Wir sind in Deutschland. Hier will man wissen, wer regiert. Und zwar vor dem Abendessen.
+> 여긴 스칸디나비아가 아니에요, 아이든 씨. 독일이에요. 여기선 누가 통치하는지 알고 싶어 해요. 그것도 저녁 먹기 전에.
+UTE: Det stimmt. Selbst in Berlin.
+> 그건 맞아. 베를린에서도.
+KATHARINA: Beides hat einen Preis. Eine Große Koalition kostet Profil. Eine Minderheitsregierung kostet Stabilität. Die Frage ist nicht, welche Lösung schön ist. Die Frage ist, welche das Land vier Jahre lang tragen kann.
+> 둘 다 대가가 있어요. 대연정은 정체성을 잃고, 소수 정부는 안정을 잃죠. 문제는 어느 쪽이 예쁜 해법이냐가 아니에요. 어느 쪽이 4년 동안 나라를 지탱할 수 있느냐죠.
+HENRIKE: Und was denkst du, Katharina?
+> 그럼 너는 어떻게 생각해, 카타리나?
+KATHARINA: Ich denke, dass du die Antwort schon weißt. Und dass du Angst davor hast.
+> 넌 이미 답을 알고 있고, 그게 두렵다고 생각해.
+HENRIKE: Ja. Ich habe Angst. Nicht vor Reuter. Vor der Frage, ob ich das kann. Ein Land mit vierundachtzig Millionen Menschen. Mit einem Partner, der mich bis heute Abend bekämpft hat.
+> 응. 두려워. 로이터가 아니라. 내가 이걸 할 수 있을까 하는 질문이. 8천4백만 명의 나라. 오늘 저녁까지 나랑 싸우던 파트너와 함께.
+TOBIAS: Sie haben in Hessen mit einer Stimme Mehrheit regiert. Mit zwei Partnern, die sich gehasst haben. Das hier sind siebzig Stimmen. Mit einem Partner, der Sie im Fernsehen respektiert hat.
+> 헤센에선 한 표 과반으로 통치하셨잖아요. 서로 미워하는 파트너 둘과 함께. 이번엔 일흔 표예요. 텔레비전에서 후보님을 존중했던 파트너 하나와.
+HENRIKE: Das klingt bei Ihnen immer so einfach, Herr Wendt.
+> 벤트 씨가 말하면 늘 참 쉽게 들려요.
+TOBIAS: Es ist nicht einfach. Es ist nur ausgerechnet.
+> 쉬운 게 아니에요. 계산이 끝났을 뿐이죠.
+KATHARINA: Und du musst es nicht allein können. Das ist der ganze Unterschied. Du hast ein Kabinett, einen Partner, ein Parlament. Und eine Opposition, die dich jeden Tag prüft.
+> 그리고 혼자서 할 수 있어야 하는 것도 아니야. 그게 결정적인 차이지. 너한텐 내각이 있고, 파트너가 있고, 의회가 있어. 그리고 매일 너를 검증하는 야당도.
+HENRIKE: Auch die Bewegung Heimat.
+> 베궁 하이마트도.
+KATHARINA: Gerade die. Wenn du gut regierst, ist ihre lauteste Kritik dein strengster Prüfstein.
+> 특히 그쪽이. 네가 잘 통치하면, 그쪽의 가장 큰 비판이 가장 엄격한 시금석이 될 거야.
+BRETTSCHNEIDER: Und was sagen wir den Mitgliedern? Sie haben ein Jahr lang gegen Reuter gekämpft.
+> 그럼 당원들한테는 뭐라고 합니까? 1년 내내 로이터에 맞서 싸웠는데요.
+FALLER: Das, was du in Wiesbaden gesagt hast, Henrike. Ein Kompromiss ist kein Verrat.
+> 헨리케, 비스바덴에서 네가 했던 말. 타협은 배신이 아니다.
+HENRIKE: Du zitierst mich, Bernd?
+> 나를 인용하는 거야, 베른트?
+FALLER: Ich zitiere jeden, der recht hat. Das habe ich in diesem Jahr gelernt. Von Beraterinnen.
+> 맞는 말 하는 사람은 다 인용해. 올해 배운 거야. 컨설턴트들한테서.
+SELIN: Vorläufiges Endergebnis! Neue Mitte sechsundzwanzig Komma neun. Reuter sechsundzwanzig Komma fünf. Bewegung Heimat achtzehn Komma sechs. Ökosoziale elf Komma zwei. Freie Bürgerpartei fünf Komma eins.
+> 잠정 최종 결과! 노이에 미테 26.9. 로이터 26.5. 베궁 하이마트 18.6. 외코조치알레 11.2. 자유시민당 5.1.
+TOBIAS: Hundertzweiundneunzig Sitze für uns. Hundertneunundachtzig für Reuter. Zusammen dreihunderteinundachtzig. Klare Mehrheit.
+> 우리 192석. 로이터 189석. 합쳐서 381석. 확실한 과반.
+UTE: Null Komma vier Prozent. Det sind ungefähr hundertachtzigtausend Menschen. Ein Stadion und ein bisschen.
+> 0.4퍼센트. 그게 대략 18만 명이야. 축구장 하나하고 조금 더.
+KATHARINA: Hundertachtzigtausend. Ungefähr so viele Türen hat Selin in Neukölln nicht geklingelt. Aber fast.
+> 18만. 셀린이 노이쾰른에서 그만큼 초인종을 누르진 않았지. 하지만 거의.
+
+## 해결·설득 — EIN MANDAT
+HENRIKE: Dann gehe ich jetzt raus. Und ich sage, was wir tun.
+> 그럼 이제 나갈게. 그리고 우리가 뭘 할지 말할게.
+LEONIE: Meine Damen und Herren — die Spitzenkandidatin der Neuen Mitte, Dr. Henrike Sommer!
+> 신사 숙녀 여러분, 노이에 미테 대표 후보 헨리케 조머 박사입니다!
+HENRIKE: Danke. Danke! Vor einem Jahr hat man uns elf Prozent gegeben. Heute Abend sind wir die stärkste Kraft in Deutschland. Das ist nicht mein Verdienst. Das ist das Verdienst von Menschen, die an Türen geklingelt, Zettel ohne Logo verteilt und einer Nachbarin gesagt haben, wo ihr Wahllokal ist.
+> 고맙습니다. 고맙습니다! 1년 전 사람들은 우리에게 11퍼센트를 줬습니다. 오늘 밤 우리는 독일 제1당입니다. 그건 제 공이 아닙니다. 집집마다 초인종을 누르고, 로고 없는 쪽지를 돌리고, 이웃에게 투표소가 어디인지 알려 준 분들의 공입니다.
+HENRIKE: Wir haben gewonnen, aber knapp. Und ich sage Ihnen ehrlich: Wir werden nicht allein regieren. Ich werde morgen mit Wolfgang Reuter sprechen. Er hat mich vorhin angerufen, er hat mir gratuliert, und er hat Verantwortung angeboten. Ich nehme dieses Angebot ernst.
+> 우리는 이겼지만, 근소하게 이겼습니다. 그리고 솔직히 말씀드리겠습니다. 우리 혼자서는 통치하지 않을 겁니다. 내일 볼프강 로이터 후보와 대화하겠습니다. 조금 전 전화로 축하해 주셨고, 책임을 지겠다고 제안하셨습니다. 저는 그 제안을 진지하게 받아들입니다.
+HENRIKE: An alle, die heute Reuter gewählt haben: Ihre Stimme ist in dieser Regierung nicht verloren. An alle, die die Bewegung Heimat gewählt haben: Ich habe Ihre Stimme nicht bekommen. Ich will sie mir in vier Jahren verdienen, nicht durch Angst, sondern durch Arbeit. Und an alle, die heute zum ersten Mal oder nach langer Zeit wieder gewählt haben: Danke. Sie haben eine Lüge mit einem Stimmzettel beantwortet. Das ist Demokratie.
+> 오늘 로이터 후보를 찍은 모든 분께. 여러분의 표는 이 정부에서 사라지지 않습니다. 베궁 하이마트를 찍은 모든 분께. 저는 여러분의 표를 얻지 못했습니다. 4년 뒤엔 두려움이 아니라 일로 그 표를 얻고 싶습니다. 그리고 오늘 처음으로, 혹은 오랜만에 다시 투표하신 모든 분께. 고맙습니다. 여러분은 거짓말에 투표용지로 답하셨습니다. 그게 민주주의입니다.
+HENRIKE: Ich habe in diesem Jahr gelernt, dass ein Mandat kein Besitz ist. Man bekommt es von Menschen, die einem etwas anvertrauen. Für eine Zeit. Und man muss es jeden Tag zurückverdienen. Ein Mandat ist geliehen, nie geschenkt.
+> 저는 올해 위임은 소유물이 아니라는 걸 배웠습니다. 무언가를 맡겨 주는 사람들에게서 받는 것입니다. 한동안. 그리고 매일 다시 그걸 얻어 내야 합니다. 위임은 빌려 온 것이지, 결코 선물받은 것이 아닙니다.
+SELIN: Live-Zustimmung: dreiundachtzig Prozent. Bei allen Gruppen. Bei Reuters Wählern einundsiebzig.
+> 실시간 공감도 83퍼센트. 모든 집단에서. 로이터 지지자 사이에선 71.
+TOBIAS: Den letzten Satz hat sie nicht von mir.
+> 마지막 문장은 나한테서 가져간 거 아니네.
+KATHARINA: Nein. Den hat sie von sich selbst.
+> 아니지. 그건 자기 자신한테서 가져왔지.
+HENRIKE: Katharina, Selin, Tobias. Kommt ihr mit an die Spree? Ich brauche Luft. Und ich habe euch etwas zu sagen.
+> 카타리나, 셀린, 토비아스. 슈프레강에 같이 갈래? 바람 좀 쐬어야겠어. 그리고 너희한테 할 말이 있어.
+HENRIKE: Selin, Tobias — wir haben einen Bundestagswahlkampf zusammen überlebt, eine Katze gerettet und ein Rezept für Grüne Soße veröffentlicht. Ich heiße Henrike.
+> 셀린, 토비아스. 우리 같이 연방 선거를 버텨 냈고, 고양이를 구했고, 그뤼네 조세 레시피도 공개했잖아. 나 헨리케야.
+SELIN: Selin. Danke, Henrike.
+> 셀린이에요. 고마워, 헨리케.
+TOBIAS: Tobias. Das hat ziemlich genau ein Jahr gedauert. Für mich ist das schnell.
+> 토비아스. 딱 1년쯤 걸렸네. 나치곤 빠른 거야.
+HENRIKE: Tobias, ich habe in Lindenbrück etwas versprochen. Menschen aus dem Osten in meinem Kabinett. Nicht als Beauftragte. Mit Verantwortung. Ich möchte, dass du Staatssekretär für den Haushalt im Finanzministerium wirst.
+> 토비아스, 나 린덴브뤼크에서 약속한 게 있어. 내 내각에 동쪽 출신을. 특임관이 아니라 책임 있는 자리로. 네가 재무부 예산 담당 차관이 돼 줬으면 해.
+TOBIAS: … Unter einer Bedingung.
+> …조건이 하나 있어.
+HENRIKE: Natürlich.
+> 당연하지.
+TOBIAS: Jedes Jahr fahre ich nach Lindenbrück und sage ihnen, was aus jedem Versprechen geworden ist. Mit Zahlen. Auch mit den schlechten.
+> 매년 린덴브뤼크에 가서 약속 하나하나가 어떻게 됐는지 말할 거야. 숫자로. 나쁜 숫자까지.
+HENRIKE: Das war keine Bedingung. Das war eine Stellenbeschreibung. Angenommen. — Katharina, und du? Das Kanzleramt braucht jemanden, der Formulare abschafft.
+> 그건 조건이 아니라 직무 기술서네. 받아들일게. — 카타리나, 너는? 총리실엔 서류를 없애 줄 사람이 필요해.
+KATHARINA: Nein, Henrike. Ich gehe zurück zu BWA. Jemand muss von außen prüfen, ob ihr haltet, was ihr versprochen habt. Wer prüft eigentlich die Prüfer? Und wer prüft die Regierung, wenn alle, die prüfen können, in ihr sitzen?
+> 아니, 헨리케. 나는 BWA로 돌아갈게. 누군가는 밖에서 너희가 약속을 지키는지 검증해야 해. 감사하는 사람은 누가 감사하지? 그리고 검증할 수 있는 사람이 다 정부 안에 들어가 있으면, 정부는 누가 검증하지?
+HENRIKE: Du lehnst ab.
+> 거절하는구나.
+KATHARINA: Ich nehme ein anderes Mandat an. Das Mandat, dir in einem Jahr einen Bericht zu schreiben, der dir nicht gefällt. Wenn es nötig ist.
+> 다른 위임을 받는 거야. 1년 뒤에, 필요하다면, 네 마음에 안 들 보고서를 써 주는 위임.
+HENRIKE: Dann freue ich mich auf diesen Bericht. Und ich hoffe, er wird langweilig.
+> 그럼 그 보고서 기대할게. 그리고 지루한 보고서이길 바라.
+KRÖGER: Katharina, Kröger hier, aus Spandau. Wollte nur sagen: Glückwunsch. Und: Das Werk läuft noch. Fünf Jahre waren im Vertrag. Jetzt sind es sechs. Ihr habt damals gesagt, wir suchen eine Lösung, keinen Schuldigen. Hat gestimmt. Bis bald.
+> 카타리나, 슈판다우의 크뢰거야. 그냥 축하한다고. 그리고 공장 아직 돌아가. 계약엔 5년이었는데, 이제 6년째야. 그때 너희가 범인이 아니라 해법을 찾자고 했잖아. 맞는 말이었어. 또 보자.
+CLARA: Katharina, Clara. Mein Vater hätte heute Abend gesagt: Endlich jemand, der rechnet, bevor er redet. Und dann hätte er sich geärgert, dass es keine Ebersbach war. Ich bin stolz auf euch. Ruf mich an, wenn du wieder in Hanau bist.
+> 카타리나, 클라라야. 우리 아버지라면 오늘 밤 이렇게 말했을 거야. 드디어 말하기 전에 계산하는 사람이 나왔군. 그러고는 그게 에버스바흐 집안 사람이 아니라서 짜증 냈겠지. 너희가 자랑스러워. 하나우 오면 전화해.
+PAUL: Katharina, Paul. Glückwunsch aus Frankfurt. Kurze Info: Wir haben drei neue Mandate. Eines davon ist die Prüfung des Sondervermögens im Bund. Ausgeschrieben, ordentlich, mit Schwellenwert. Ich habe gesagt, wir übernehmen es nur, wenn du zurückkommst. Komm zurück.
+> 카타리나, 폴이야. 프랑크푸르트에서 축하해. 짧게 알릴게. 새 수임 건이 세 개 들어왔어. 그중 하나가 연방 특별기금 감사야. 공개 입찰로, 정식으로, 기준 금액까지 맞춰서. 네가 돌아오면 맡겠다고 했어. 돌아와.
+LORENZ: Katharina. Ich gratuliere. Du hast gewonnen, und ich habe etwas gelernt. Für mich ein schlechtes Geschäft, für das Land ein gutes. Wenn du irgendwann einen Gegner brauchst, der dich besser macht, weißt du, wo du mich findest. Gute Nacht.
+> 카타리나. 축하해. 너는 이겼고, 나는 뭔가를 배웠어. 나한텐 나쁜 거래고, 나라한텐 좋은 거래지. 언젠가 너를 더 낫게 만들 상대가 필요하면, 내가 어디 있는지 알 거야. 잘 자.
+KATHARINA: Gute Nacht, Jan-Hendrik.
+> 잘 자요, 얀헨드릭.
+UTE: Katharina, letzte Nachricht für heute, von mir: Die Börek sind alle, der Kaffeeautomat ist kaputt, und das Büro gebe ich morgen zurück. Det war das beste Jahr meines Lebens. Erzähl det keinem.
+> 카타리나, 오늘의 마지막 메시지, 나한테서. 뵈렉 다 떨어졌고, 커피 머신 고장 났고, 사무실은 내일 돌려줄 거야. 내 인생 최고의 1년이었어. 아무한테도 말하지 마.
+
+## 마무리 — EPILOG: WESTEND, DREI MONATE SPÄTER
+BIRGIT: Guten Morgen! Sie müssen Frau Becker sein. Willkommen bei Brandt Wendt Aydın, Büro Westend.
+> 좋은 아침이에요! 베커 씨죠? Brandt Wendt Aydın 웨스트엔드 사무소에 오신 걸 환영해요.
+HANA: Guten Morgen. Ja, Hana Becker. Ich komme aus dem Berliner Büro.
+> 안녕하세요. 네, 하나 베커입니다. 베를린 사무소에서 왔어요.
+BIRGIT: Ich weiß. Ihr Ausweis ist fertig, und Ihr Laptop liegt schon auf Ihrem Tisch. Hier dauert nur der Aufzug lange. Das war schon so, als in diesem Haus noch eine andere Firma saß.
+> 알아요. 출입증은 준비됐고, 노트북은 벌써 책상 위에 있어요. 여기선 엘리베이터만 오래 걸려요. 이 건물에 다른 회사가 있을 때도 그랬죠.
+HANA: Stimmt es, dass Frau Dr. Brandt früher genau hier gearbeitet hat?
+> 브란트 박사님이 예전에 바로 여기서 일하셨다는 게 사실이에요?
+SELIN: Im vierten Stock. Und ich auch. An meinem ersten Tag habe ich eine Frage gestellt, die niemand hören wollte. Guten Morgen, Frau Becker. Selin Aydın. Erster Tag? Willkommen.
+> 4층에서요. 저도요. 첫날 아무도 듣고 싶어 하지 않는 질문을 하나 했었죠. 좋은 아침이에요, 베커 씨. 셀린 아이든이에요. 첫날이에요? 환영해요.
+HANA: Frau Aydın! Ich habe Ihre Analysen aus dem Wahlkampf gelesen. Alle. Auch die Anhänge.
+> 아이든 씨! 선거 때 분석 자료 다 읽었어요. 전부요. 부록까지요.
+SELIN: Dann sind Sie die Zweite, die die Anhänge liest. Der Erste ist jetzt Staatssekretär im Finanzministerium und schickt mir jeden Morgen um sechs eine Zahl, die nicht stimmt. — Kommen Sie, wir trinken einen Kaffee, und ich erkläre Ihnen den Plan für die erste Woche.
+> 그럼 부록을 읽은 두 번째 사람이네요. 첫 번째 사람은 지금 재무부 차관인데, 매일 아침 여섯 시에 틀린 숫자를 하나씩 보내와요. — 가요, 커피 한잔하면서 첫 주 계획을 설명해 드릴게요.
+KATHARINA: Guten Morgen, Frau Becker. Katharina Brandt. Ich muss um eins in Berlin beim Bundesrechnungshof sein. Nur ein Rat für den ersten Tag: Lassen Sie sich von Frau Aydın nicht alles erklären. Fragen Sie.
+> 좋은 아침이에요, 베커 씨. 카타리나 브란트예요. 한 시까지 베를린 연방감사원에 가야 해서요. 첫날 조언 하나만 할게요. 아이든 씨가 다 설명하게 두지 마세요. 질문하세요.
+HANA: Dann frage ich gleich. Warum heißt die erste Akte auf meinem Tisch „Mandat"?
+> 그럼 바로 질문할게요. 제 책상 위 첫 번째 파일 이름이 왜 '위임'이에요?
+SELIN: Weil jeder Auftrag hier eins ist. Ein Kunde, ein Land, eine Wählerin — sie vertrauen uns etwas an, für eine Zeit, und wir müssen es jeden Tag zurückverdienen. Das gilt für uns. Und für die Kanzlerin zuerst. Wir haben mit ihr eine Katze namens Adenauer aus dem Hochwasser getragen. Danach sagt man sich die Wahrheit.
+> 여기서 하는 모든 일이 하나의 위임이니까요. 고객이든, 나라든, 유권자든, 우리에게 뭔가를 한동안 맡기는 거고, 우리는 매일 그걸 다시 얻어 내야 해요. 우리한테도 그렇고, 총리님한테는 더더욱 그래요. 우리 그분이랑 같이 홍수 속에서 아데나워라는 고양이를 안고 나왔거든요. 그러고 나면 서로 진실을 말하게 되죠.
+HANA: Gibt es dafür einen Satz? Einen, den man sich merken kann?
+> 그걸 담은 문장이 있어요? 기억해 둘 만한 거요?
+SELIN: Ein Mandat ist geliehen, nie geschenkt.
+> 위임은 빌려 온 것이지, 결코 선물받은 것이 아니에요.

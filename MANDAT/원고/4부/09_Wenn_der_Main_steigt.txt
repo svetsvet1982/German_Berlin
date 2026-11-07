@@ -1,0 +1,268 @@
+part: 4
+ep: 9
+title_de: Wenn der Main steigt
+title_ko: 마인강이 불어날 때
+scene: 72시간, 주 위기대응센터 → 침수된 마을 젤리게나우
+level: C1
+setting: 악천후 경보 발령 당일 밤부터 사흘째 새벽까지, 비스바덴 주 내무부 상황센터와 마인킨치히 군의 가상 마을 젤리게나우(Seligenau an der Kinzig)
+cast: KATHARINA | Dr. Katharina Brandt · 주총리실 기획실장
+cast: SELIN | Selin Aydın · 주총리실 행정 디지털화 담당 특별참모
+cast: HENRIKE | Dr. Henrike Sommer · 헤센 주총리
+cast: LOHMANN | Dr. Gerhard Lohmann · 주총리실 정책조정국장
+cast: LEONIE | Leonie Brück · 주 정부 대변인
+cast: BRENNER | Dieter Brenner · 마인킨치히 군수(Landrat), 경쟁 거대정당 소속 (가상)
+cast: KAISER | Andrea Kaiser · 군 소방총감(Kreisbrandinspektorin), 현장 지휘관 (가상)
+cast: MARGOT | Margot Heil · 젤리게나우 주민, 연금생활자 (82)
+cast: REPORTER | 방송 기자
+note: ※ 독일에서 재난 대응(Katastrophenschutz)은 주(州)의 권한이며, 현장에서는 군(Landkreis)이 하급 재난관리기관으로서 재난 사태를 선포하고 지휘합니다. 연방 기술지원청(THW)과 연방군은 기본법 제35조의 행정 지원(Amtshilfe) 형태로 투입됩니다. 경보는 휴대전화 긴급 문자(Cell Broadcast), 경보 앱(NINA), 사이렌으로 전달되는데, 사이렌을 철거한 지역이 많아 고령층에게 경보가 닿지 않는 문제가 지적돼 왔습니다. 독일에서는 홍수 같은 자연재해를 보장하는 보험(Elementarschadenversicherung)에 가입한 주택이 절반 정도에 그쳐, 의무 가입을 도입할지를 두고 '연대와 예방'과 '비용과 선택의 자유'가 맞섭니다. 큰 피해 뒤에는 주 정부가 긴급 지원금(Soforthilfe)을 지급하곤 합니다. 등장하는 마을·인물·수치는 가상입니다. 표현 초점: das Hochwasser, der Katastrophenschutz, die Evakuierung, die Soforthilfe, Heute keine Pressekonferenz. Heute Sandsäcke.
+next: 4부 10화 — «Ruf aus Berlin»(베를린의 부름) — Neue Mitte 연방 지도부가 Henrike를 총리 후보로 추대한다. 팀은 베를린으로 옮기고, Ute가 베를린 캠프 사무실을 꾸린다. 그리고 경쟁 정당 후보 Reuter의 자문역이 Lorenz라는 소식이 들려온다.
+
+## 도입 — LAGEZENTRUM, 22:40
+LOHMANN: Der Krisenstab ist vollständig, Frau Ministerpräsidentin. Das Innenministerium mit dem Katastrophenschutz, Feuerwehr, THW, Polizei, Wetterdienst. Der Landrat des Main-Kinzig-Kreises ist zugeschaltet.
+> 위기대응본부 전원 모였습니다, 주총리님. 재난관리를 맡은 내무부, 소방, 기술지원청, 경찰, 기상청. 마인킨치히 군수도 화상으로 연결됐습니다.
+HENRIKE: Danke. Herr Brenner, wie ist die Lage?
+> 고마워요. 브레너 군수님, 상황이 어떤가요?
+BRENNER: Ernst. Die Kinzig steigt seit sechs Stunden um zwanzig Zentimeter pro Stunde. Und der Main ist so voll, dass sie nicht mehr abfließen kann. Das Wasser staut sich zurück.
+> 심각합니다. 킨치히강이 여섯 시간째 시간당 20센티미터씩 불어나고 있어요. 그리고 마인강이 너무 차서 킨치히 물이 더는 빠지지 못합니다. 물이 거꾸로 차오르고 있어요.
+SELIN: Pegel Hanau: sechs Meter zehn. Der bisherige Rekord liegt bei sechs Meter vierzig.
+> 하나우 수위 6미터 10. 지금까지 최고 기록이 6미터 40이에요.
+KAISER: Am stärksten betroffen ist Seligenau. Zweitausenddreihundert Einwohner, die Hälfte davon in der Niederung direkt am Fluss.
+> 가장 큰 피해가 예상되는 건 젤리게나우예요. 주민 2천3백 명, 그중 절반이 강 바로 옆 저지대에 살아요.
+HENRIKE: Was brauchen Sie, Frau Kaiser?
+> 카이저 총감님, 뭐가 필요하세요?
+KAISER: Sandsäcke, Pumpen, Boote. Und Menschen, die tragen können. Meine Feuerwehrleute sind seit vierzehn Stunden im Einsatz.
+> 모래주머니, 펌프, 보트. 그리고 나를 수 있는 사람들이요. 우리 소방대원들은 열네 시간째 투입돼 있어요.
+LEONIE: Die ersten Sender fragen, ob die Ministerpräsidentin heute Abend eine Pressekonferenz gibt.
+> 방송사들이 주총리님이 오늘 밤 기자회견을 하시는지 묻고 있어요.
+HENRIKE: Nein. Heute keine Pressekonferenz. Heute Sandsäcke.
+> 아니요. 오늘은 기자회견 없어요. 오늘은 모래주머니예요.
+KATHARINA: Frau Ministerpräsidentin, wenn Sie in die Niederung fahren, sind morgen früh überall Bilder von Ihnen in Gummistiefeln. Man wird Ihnen Katastrophentourismus vorwerfen.
+> 주총리님, 저지대로 가시면 내일 아침엔 장화 신은 주총리님 사진이 곳곳에 깔릴 거예요. 재난 관광이라는 비난을 받으실 거고요.
+HENRIKE: Dann fahre ich ohne Kameras. Ohne Fotografen, ohne Pressesprecherin. Leonie, Sie bleiben hier.
+> 그럼 카메라 없이 갈게요. 사진기자도, 대변인도 없이. 레오니, 당신은 여기 남아요.
+LEONIE: Das ist die erste Anweisung in sechs Jahren, über die ich mich freue.
+> 6년 만에 처음으로 반가운 지시네요.
+
+## 분석 — DIE NIEDERUNG
+BRENNER: Frau Sommer, bei allem Respekt. Die Einsatzleitung liegt beim Kreis. Wir haben den Katastrophenfall ausgerufen. Ich will nicht, dass morgen eine Ministerpräsidentin vor Ort Anweisungen gibt, die meinen Leuten widersprechen.
+> 조머 주총리님, 실례지만. 현장 지휘권은 군에 있습니다. 우리가 재난 사태를 선포했어요. 내일 주총리가 현장에서 우리 사람들과 다른 지시를 내리는 건 원치 않습니다.
+HENRIKE: Das werde ich nicht, Herr Brenner. Sie leiten den Einsatz. Das Land liefert, was Sie brauchen. Ich komme nicht, um zu führen, sondern um zu helfen.
+> 그러지 않을게요, 브레너 군수님. 지휘는 군수님이 하세요. 주는 필요한 걸 대겠습니다. 저는 지휘하러 가는 게 아니라 도우러 가는 거예요.
+BRENNER: Das sagen Politiker immer. Und dann stehen sie im Weg.
+> 정치인들은 늘 그렇게 말하죠. 그러고는 길을 막고 서 있어요.
+KAISER: Dieter. Wenn sie einen Sandsack trägt, steht sie nicht im Weg. Dann ist sie ein Paar Hände mehr.
+> 디터. 모래주머니를 나르면 길을 막는 게 아니야. 손이 하나 더 생기는 거지.
+SELIN: Ich habe die Warnkette ausgewertet. Die Cell-Broadcast-Warnung ist um 21:15 rausgegangen. Laut Netzbetreiber haben sie vierundneunzig Prozent der Handys in der Zone empfangen.
+> 경보 전달 경로를 분석했어요. 휴대전화 긴급 문자는 21시 15분에 나갔어요. 통신사에 따르면 해당 구역 휴대전화의 94퍼센트가 받았어요.
+KATHARINA: Und die anderen sechs Prozent?
+> 나머지 6퍼센트는?
+SELIN: Vor allem ältere Menschen mit alten Handys oder ganz ohne. In Seligenau ist jeder vierte Einwohner über siebzig. Und die Sirenen wurden dort vor fünfzehn Jahren abgebaut.
+> 주로 구형 휴대전화를 쓰거나 아예 없는 노인들이에요. 젤리게나우는 주민 넷 중 한 명이 일흔이 넘어요. 그리고 거기 사이렌은 15년 전에 철거됐고요.
+KAISER: Deshalb fahren meine Leute jetzt mit Lautsprecherwagen durch die Straßen. Wie früher.
+> 그래서 지금 우리 대원들이 확성기 차로 거리를 돌고 있어요. 옛날처럼요.
+LOHMANN: Der Bund hat ein Förderprogramm für Sirenen. Der Kreis hat einen Antrag gestellt. Er liegt seit vierzehn Monaten in Prüfung.
+> 연방에 사이렌 지원 프로그램이 있어요. 군이 신청을 했고요. 14개월째 심사 중입니다.
+HENRIKE: Merken Sie sich das, Herr Lohmann. Nach dieser Nacht.
+> 기억해 두세요, 로만 국장님. 이 밤이 지나고 나서.
+LOHMANN: Ich habe es mir schon aufgeschrieben. Mit Rotstift.
+> 벌써 적어 뒀습니다. 빨간 펜으로.
+KATHARINA: Wie viele Menschen in der Niederung könnten keine Warnung bekommen haben?
+> 저지대에 경보를 못 받았을 수 있는 사람이 몇 명이나 되죠?
+SELIN: Laut Melderegister etwa hundertsechzig Menschen über achtzig. Der Kreis hat eine Liste der Pflegebedürftigen, aber die ist zwei Jahre alt.
+> 주민등록 자료로는 여든 넘은 분이 약 160명이에요. 군에 돌봄 대상자 명단이 있긴 한데 2년 전 거예요.
+KAISER: Dann klopfen wir an jede Tür. Haus für Haus. Das dauert, aber es ist sicher.
+> 그럼 집집마다 문을 두드리죠. 한 집씩. 오래 걸리지만 확실해요.
+BRENNER: Die Evakuierung der Niederung beginnt um Mitternacht. Elfhundert Menschen. Turnhalle und Bürgerhaus sind vorbereitet.
+> 저지대 대피는 자정에 시작합니다. 천백 명. 체육관과 주민회관이 준비돼 있어요.
+SELIN: Und wir haben ein zweites Problem. Im Netz kursiert seit einer halben Stunde die Nachricht, die Talsperre oberhalb von Seligenau sei gebrochen. Mit einem Video.
+> 그리고 두 번째 문제가 있어요. 30분 전부터 인터넷에 젤리게나우 위쪽 댐이 무너졌다는 소식이 돌고 있어요. 영상까지 붙어서요.
+KAISER: Sie ist nicht gebrochen. Ich habe vor zehn Minuten mit dem Talsperrenwärter telefoniert. Sie hält, sie läuft nur über die Hochwasserentlastung.
+> 무너지지 않았어요. 10분 전에 댐 관리인이랑 통화했어요. 버티고 있고, 비상 여수로로 넘쳐흐르고 있을 뿐이에요.
+SELIN: Das Video ist drei Jahre alt und stammt aus einem anderen Land. Aber die Leute fliehen jetzt mit dem Auto auf die Bundesstraße. Genau die, die wir für die Rettungsfahrzeuge brauchen.
+> 영상은 3년 전 거고 다른 나라에서 찍힌 거예요. 그런데 사람들이 지금 차를 몰고 국도로 도망치고 있어요. 하필 구급차들이 써야 하는 그 길로.
+KATHARINA: Dann brauchen wir eine Gegenmeldung. Schnell, kurz, von einer Stimme, der man glaubt.
+> 그럼 반박 공지가 필요해요. 빠르고, 짧고, 사람들이 믿는 목소리로.
+LEONIE: Von der Ministerpräsidentin?
+> 주총리님 목소리로요?
+KATHARINA: Nein. Von Frau Kaiser. Die Leute in Seligenau kennen sie. Uns kennen sie aus dem Fernsehen.
+> 아니요. 카이저 총감님 목소리로요. 젤리게나우 사람들은 총감님을 알아요. 우리는 텔레비전으로만 알고요.
+KAISER: Ich habe keine Zeit für Videos.
+> 영상 찍을 시간 없어요.
+SELIN: Zwanzig Sekunden. Mit Ihrem Handy. Ich stelle es über den Warnkanal und alle Plattformen raus.
+> 20초요. 총감님 휴대폰으로. 제가 경보 채널과 모든 플랫폼에 올릴게요.
+KAISER: Gut. — Hier spricht Andrea Kaiser, Kreisbrandinspektorin. Die Talsperre ist nicht gebrochen. Bitte bleiben Sie von der Bundesstraße weg. Wer in der Niederung wohnt: Folgen Sie den Lautsprecherwagen. Wir holen Sie.
+> 좋아요. — 군 소방총감 안드레아 카이저입니다. 댐은 무너지지 않았습니다. 국도에서 벗어나 주세요. 저지대에 사시는 분들은 확성기 차를 따라오세요. 저희가 모시러 갑니다.
+SELIN: Neunzehn Sekunden. Perfekt. Geht raus.
+> 19초. 완벽해요. 나갑니다.
+KAISER: Neunzehn Sekunden. Für meine Feuerwehrleute ist das eine halbe Ewigkeit.
+> 19초. 우리 소방대원들한텐 반쯤 영원 같은 시간이에요.
+LOHMANN: Die Bundesstraße wird wieder frei. Die Polizei meldet weniger Verkehr.
+> 국도가 다시 뚫리고 있습니다. 경찰이 교통량이 줄었다고 보고합니다.
+HENRIKE: Frau Brandt, Sie fahren mit mir. Frau Aydın, Sie bleiben hier und halten die Gerüchte in Schach.
+> 브란트 씨, 저랑 같이 가요. 아이든 씨는 여기 남아서 소문을 막아 줘요.
+SELIN: Gerne. Gerüchte sind leichter als Sandsäcke.
+> 그럴게요. 소문이 모래주머니보다는 가볍잖아요.
+KATHARINA: Aber sie vermehren sich schneller.
+> 하지만 더 빨리 불어나지.
+KAISER: Frau Sommer, wenn Sie kommen: Gummistiefel, Regenjacke, Handschuhe. Und keine Ansprachen.
+> 조머 주총리님, 오실 거면 장화, 우비, 장갑. 그리고 연설은 금지예요.
+HENRIKE: Versprochen.
+> 약속할게요.
+BRENNER: Wir sehen uns am Deich. Und, Frau Sommer — danke, dass Sie gefragt haben, bevor Sie gekommen sind.
+> 제방에서 뵙죠. 그리고 조머 주총리님, 오시기 전에 물어봐 주셔서 고맙습니다.
+
+## 갈등 — ICH GEHE NICHT
+KAISER: Der Deich in der Mühlstraße wird weich. Wir brauchen zweitausend Sandsäcke in einer Stunde. Alle, die tragen können, in die Kette!
+> 뮐 거리 제방이 물러지고 있어요. 한 시간 안에 모래주머니 2천 개가 필요해요. 나를 수 있는 사람은 전부 줄을 서요!
+HENRIKE: Wohin?
+> 어디로요?
+KAISER: Zwischen den Mann mit der roten Mütze und die Frau vom Sportverein. Und nicht reden. Weitergeben.
+> 빨간 모자 쓴 남자랑 스포츠클럽 여자분 사이로요. 말하지 말고. 넘기기만 해요.
+KATHARINA: Ich habe in meinem Leben viele Präsentationen gehalten. Das hier ist das Erste, was sofort wirkt.
+> 살면서 발표를 많이 했는데, 이건 즉시 효과가 나는 첫 번째 일이네요.
+HENRIKE: Und niemand fragt nach den Folien.
+> 그리고 아무도 슬라이드를 묻지 않고.
+KAISER: Weniger reden, Frau Ministerpräsidentin! Weitergeben!
+> 말 줄이세요, 주총리님! 넘기세요!
+KAISER: Frau Sommer, wir haben ein Problem. In der Mühlstraße vierzehn wohnt eine Frau, die nicht gehen will. Zweiundachtzig Jahre alt. Das Wasser steht schon im Keller.
+> 조머 주총리님, 문제가 생겼어요. 뮐 거리 14번지에 안 나가겠다는 분이 계세요. 여든두 살이에요. 물이 벌써 지하실에 찼어요.
+HENRIKE: Kann man sie nicht zwingen?
+> 강제로 모실 순 없나요?
+KAISER: Im Notfall ja. Aber dann tragen wir eine weinende alte Frau aus ihrem Haus, und die Hälfte der Straße filmt es. Ich hätte lieber, dass sie selbst geht.
+> 비상시엔 할 수 있죠. 하지만 그럼 우는 할머니를 집에서 들어 옮겨야 하고, 길가 사람들 절반이 그걸 찍을 거예요. 저는 스스로 나오시는 게 좋겠어요.
+KATHARINA: Und dieses Video würde morgen jeder sehen. Selbst wenn alles richtig gemacht wurde.
+> 그리고 그 영상은 내일 모두가 보겠죠. 모든 게 옳게 처리됐다 해도요.
+HENRIKE: Ich rede mit ihr.
+> 제가 얘기해 볼게요.
+KATHARINA: Frau Ministerpräsidentin, Sie haben versprochen: keine Ansprachen.
+> 주총리님, 연설은 안 하기로 약속하셨잖아요.
+HENRIKE: Keine Ansprache. Ein Gespräch.
+> 연설 아니에요. 대화예요.
+MARGOT: Wer sind Sie denn? Noch eine von der Feuerwehr?
+> 댁은 또 누구요? 소방대에서 또 왔소?
+HENRIKE: Nein, Frau Heil. Ich heiße Henrike Sommer. Ich trage seit zwei Stunden Sandsäcke in Ihrer Straße.
+> 아니요, 하일 할머니. 헨리케 조머예요. 두 시간째 할머니 동네에서 모래주머니를 나르고 있어요.
+MARGOT: Sommer. Die aus dem Fernsehen? Die Ministerpräsidentin?
+> 조머. 텔레비전에 나오는 그 사람? 주총리?
+HENRIKE: Heute Nacht nur die mit den nassen Füßen.
+> 오늘 밤엔 그냥 발이 젖은 사람이에요.
+MARGOT: Ich gehe nicht. Mein Mann hat dieses Haus 1962 gebaut. Mit seinen eigenen Händen. Ich lasse es nicht allein.
+> 난 안 나가요. 우리 남편이 1962년에 이 집을 지었어요. 자기 손으로. 이 집을 혼자 두지 않을 거요.
+HENRIKE: Wo ist Ihr Mann jetzt?
+> 남편분은 지금 어디 계세요?
+MARGOT: Auf dem Friedhof. Seit elf Jahren. Ganz oben am Hang. Da kommt kein Wasser hin.
+> 묘지에. 11년째요. 언덕 맨 위에. 거기까진 물이 안 올라와요.
+KATHARINA: Frau Heil, das Wasser steigt weiter. In zwei Stunden steht es im Erdgeschoss.
+> 하일 할머니, 물이 계속 불어나고 있어요. 두 시간 뒤면 1층까지 차요.
+MARGOT: Dann gehe ich in den ersten Stock. Das habe ich 1984 auch gemacht.
+> 그럼 2층으로 올라가면 돼요. 1984년에도 그랬어요.
+KAISER: 1984 lag der Pegel bei fünf Meter achtzig, Frau Heil. Heute Nacht erwarten wir sechs Meter siebzig. Das ist fast ein Meter mehr.
+> 1984년 수위는 5미터 80이었어요, 하일 할머니. 오늘 밤엔 6미터 70을 예상해요. 거의 1미터가 더 높아요.
+MARGOT: Zahlen. Ihr habt immer Zahlen. Ich habe ein Haus.
+> 숫자. 당신들은 늘 숫자뿐이야. 나는 집이 있다고요.
+HENRIKE: Sie haben recht. Zahlen helfen Ihnen gerade nicht.
+> 맞는 말씀이에요. 지금은 숫자가 도움이 안 되죠.
+SELIN: Katharina, hörst du mich? Die Lage hat sich verschärft. Der Deich auf der anderen Seite ist übergelaufen. Die Mühlstraße hat vielleicht noch neunzig Minuten.
+> 카타리나, 들려? 상황이 악화됐어. 건너편 제방이 넘쳤어. 뮐 거리는 길어야 90분 남았어.
+KATHARINA: Neunzig Minuten. Frau Heil, bitte.
+> 90분. 하일 할머니, 제발요.
+MARGOT: Gehen Sie. Sie haben Wichtigeres zu tun als eine alte Frau.
+> 가세요. 당신들은 늙은이 하나보다 중요한 일이 있잖소.
+HENRIKE: Nein, Frau Heil. Heute Nacht habe ich nichts Wichtigeres zu tun.
+> 아니요, 하일 할머니. 오늘 밤 저한테 이보다 중요한 일은 없어요.
+MARGOT: Das sagen Sie jetzt, weil keine Kamera da ist.
+> 카메라가 없으니까 그렇게 말하는 거겠지.
+HENRIKE: Ich sage es, gerade weil keine Kamera da ist.
+> 카메라가 없으니까 오히려 말하는 거예요.
+BRENNER: Frau Sommer, ich brauche die Bootsmannschaft in der Bahnhofstraße. Wenn Frau Heil nicht geht, muss ich jemanden hierlassen. Und der fehlt mir woanders.
+> 조머 주총리님, 보트 팀을 반호프 거리로 보내야 합니다. 하일 할머니가 안 나가시면 누군가를 여기 남겨야 하는데, 그럼 다른 데서 사람이 모자라요.
+HENRIKE: Geben Sie mir zehn Minuten, Herr Brenner.
+> 10분만 주세요, 브레너 군수님.
+BRENNER: Zehn. Dann lasse ich sie tragen. Es tut mir leid, aber ich bin für zweitausenddreihundert Menschen verantwortlich.
+> 10분. 그다음엔 들어서라도 모시라고 하겠습니다. 죄송하지만 저는 2천3백 명을 책임지고 있어요.
+HENRIKE: Das sind Sie. Und Sie machen es gut.
+> 맞아요. 그리고 잘하고 계세요.
+
+## 해결·설득 — WAS WÜRDE ER SAGEN?
+HENRIKE: Frau Heil, darf ich mich kurz zu Ihnen setzen? Auf die Treppe?
+> 하일 할머니, 잠깐 옆에 앉아도 될까요? 계단에요?
+MARGOT: Sie sind ja eh schon nass.
+> 어차피 벌써 젖었잖소.
+HENRIKE: Mein Vater war Lokführer. Als er gestorben ist, wollte meine Mutter die Wohnung in Kassel auch nicht verlassen. Sie hat gesagt: Hier riecht es noch nach ihm.
+> 제 아버지는 기관사셨어요. 아버지가 돌아가셨을 때 어머니도 카셀의 집을 떠나지 않으려 하셨어요. 여기선 아직 그 사람 냄새가 난다고 하시면서요.
+MARGOT: Und? Ist sie geblieben?
+> 그래서요? 남으셨소?
+HENRIKE: Nein. Irgendwann hat sie gemerkt, dass sie das, was nach ihm riecht, mitnehmen kann. Seine Jacke. Seine Uhr. Ein paar Briefe. Das Haus war nur der Ort, an dem sie es aufbewahrt hat.
+> 아니요. 언젠가 그 냄새 나는 걸 가지고 갈 수 있다는 걸 깨달으셨어요. 아버지 재킷, 시계, 편지 몇 장. 집은 그걸 보관하던 장소였을 뿐이었죠.
+MARGOT: Das ist etwas anderes. Das hier hat er gebaut.
+> 그건 다르지. 이건 그 사람이 지은 거요.
+HENRIKE: Ich weiß. Frau Heil, was würde Ihr Mann sagen, wenn er jetzt hier auf der Treppe säße?
+> 알아요. 하일 할머니, 남편분이 지금 여기 계단에 앉아 계신다면 뭐라고 하실까요?
+MARGOT: … Er würde sagen: Margot, du sturer Esel. Das Haus kann ich neu bauen. Dich nicht.
+> …그 사람이라면, 마르고, 이 고집불통아. 집은 다시 지으면 돼. 너는 안 돼. 그랬겠지.
+HENRIKE: Dann hatte er recht.
+> 그럼 그분 말이 맞으셨네요.
+MARGOT: Er hatte meistens recht. Das war das Ärgerliche an ihm.
+> 그 사람은 대개 맞았지. 그게 그 사람의 짜증 나는 점이었소.
+KATHARINA: Was möchten Sie mitnehmen, Frau Heil? Wir tragen es.
+> 뭘 가져가고 싶으세요, 하일 할머니? 저희가 들어 드릴게요.
+MARGOT: Das Hochzeitsfoto im Flur. Seine Werkzeugkiste. Und die Katze. Die Katze heißt Adenauer. Sie ist sehr alt und sehr beleidigt.
+> 복도에 있는 결혼사진. 그 사람 공구 상자. 그리고 고양이. 고양이 이름은 아데나워요. 아주 늙었고 아주 삐쳐 있소.
+KAISER: Eine Katze namens Adenauer. Das schreibe ich in den Einsatzbericht.
+> 아데나워라는 고양이라. 그건 출동 보고서에 적어야겠네요.
+HENRIKE: Ich nehme die Werkzeugkiste. Frau Brandt, Sie nehmen die Katze.
+> 저는 공구 상자를 들게요. 브란트 씨는 고양이를 맡아요.
+KATHARINA: Ich habe Mandate für Banken, Konzerne und Ministerien geführt. Noch nie für eine Katze.
+> 은행, 대기업, 부처 일을 다 맡아 봤는데, 고양이는 처음이네요.
+MARGOT: Halten Sie sie fest. Sie kratzt Politiker.
+> 꽉 잡아요. 정치인은 할퀴니까.
+KATHARINA: Ich bin keine Politikerin. — Au! Sie glaubt mir nicht.
+> 저 정치인 아니에요. — 아야! 안 믿네요.
+MARGOT: Adenauer glaubt niemandem. Kluges Tier.
+> 아데나워는 아무도 안 믿어요. 똑똑한 녀석이지.
+SELIN: Mühlstraße vierzehn ist leer. Die Bootsmannschaft ist unterwegs zur Bahnhofstraße. Alle Bewohner der Niederung sind in Sicherheit.
+> 뮐 거리 14번지 비었어요. 보트 팀은 반호프 거리로 이동 중이에요. 저지대 주민 전원 안전해요.
+BRENNER: Danke, Frau Sommer. Das war nicht nötig. Und es war genau richtig.
+> 고맙습니다, 조머 주총리님. 하실 필요는 없는 일이었어요. 그리고 딱 맞는 일이었고요.
+LOHMANN: Frau Ministerpräsidentin, eine Frage zur Soforthilfe. Der Landrat bittet um eine Zusage noch heute. Die Leute haben alles verloren, und nur jeder zweite Haushalt hier ist gegen Elementarschäden versichert.
+> 주총리님, 긴급 지원금 관련 질문입니다. 군수가 오늘 안에 약속을 해 달라고 합니다. 사람들이 전부 잃었는데, 여기 가구의 절반만 자연재해 보험에 들어 있어요.
+HENRIKE: Was ist möglich, Herr Lohmann? Ohne Gesetz, ohne Nachtragshaushalt?
+> 뭐가 가능하죠, 로만 국장님? 법도 추경도 없이요?
+LOHMANN: Ein Kabinettsbeschluss im Umlaufverfahren. Jedes Kabinettsmitglied stimmt per Telefon zu, das Protokoll folgt. Eintausendfünfhundert Euro pro Haushalt sofort, fünftausend für betroffene Betriebe. Die Mittel nehmen wir aus der Haushaltsreserve.
+> 서면 순환 방식의 내각 의결이요. 각료 전원이 전화로 동의하고 회의록은 나중에 작성합니다. 가구당 즉시 1,500유로, 피해 사업장엔 5,000유로. 재원은 예산 예비비에서 씁니다.
+KATHARINA: Sie haben das schon vorbereitet.
+> 벌써 준비해 두셨군요.
+LOHMANN: Seit zwei Uhr nachts. Über den Dienstweg wäre es Mittwoch geworden. Ich dachte, diesmal nehmen wir das Telefon.
+> 새벽 두 시부터요. 공무 절차로 했으면 수요일이 됐을 겁니다. 이번엔 전화를 쓰자고 생각했죠.
+HENRIKE: Und die Debatte über eine Pflichtversicherung?
+> 그리고 의무 보험 논쟁은요?
+LOHMANN: Die Freie Bürgerpartei sagt: Freiheit und Kosten. Die Ökosozialen sagen: Solidarität und Vorsorge. Beide haben Argumente. Und beide haben heute schon Pressemitteilungen geschickt.
+> 자유시민당은 자유와 비용을 말하고, 외코조치알레는 연대와 예방을 말합니다. 양쪽 다 논거가 있어요. 그리고 양쪽 다 오늘 벌써 보도자료를 보냈습니다.
+HENRIKE: Dann führen wir die Debatte in vier Wochen, im Landtag, gründlich. Heute zahlen wir. Wer gerade seinen Keller ausschaufelt, braucht keine Grundsatzdebatte, sondern eine Überweisung.
+> 그럼 그 논쟁은 4주 뒤에 주의회에서 철저하게 하죠. 오늘은 돈을 줍니다. 지금 지하실 물을 퍼내고 있는 사람한테 필요한 건 원칙 논쟁이 아니라 송금이에요.
+
+## 마무리 — VIER UHR MORGENS AM DEICH
+REPORTER: Frau Ministerpräsidentin! Nur eine Frage! Wie fühlen Sie sich?
+> 주총리님! 질문 하나만요! 지금 기분이 어떠세요?
+HENRIKE: Nass. Und dankbar für jeden Menschen in dieser Kette. Mehr sage ich heute nicht. Sprechen Sie mit Frau Kaiser. Sie hat diese Nacht geführt.
+> 젖었어요. 그리고 이 줄에 선 모든 분께 감사해요. 오늘은 그 이상 말하지 않을게요. 카이저 총감님과 얘기하세요. 오늘 밤을 지휘한 건 그분이에요.
+LEONIE: Ich habe es gerade gesehen. Ein Bewohner hat Sie fotografiert, wie Sie mit der Werkzeugkiste durch das Wasser gehen. Das Bild ist überall. Ich schwöre, ich war es nicht.
+> 방금 봤어요. 어떤 주민이 주총리님이 공구 상자를 들고 물속을 걷는 걸 찍었어요. 그 사진이 사방에 퍼졌어요. 맹세하는데, 제가 한 거 아니에요.
+SELIN: Es ist das meistgeteilte Bild in Deutschland. Nicht nur in Hessen. In Berlin wird es gerade auf allen Kanälen gezeigt.
+> 독일에서 가장 많이 공유된 사진이에요. 헤센만이 아니라. 베를린에서도 지금 모든 채널에서 나오고 있어요.
+KATHARINA: Genau das, was wir nicht geplant haben.
+> 딱 우리가 계획하지 않은 그거네.
+HENRIKE: Frau Brandt. Wir haben in dieser Nacht zusammen eine Katze namens Adenauer gerettet. Ich finde, nach so etwas sagt man nicht mehr „Frau Brandt". Ich heiße Henrike.
+> 브란트 씨. 우리 오늘 밤에 같이 아데나워라는 고양이를 구했어요. 그런 일을 겪고 나서도 '브란트 씨'라고 부르는 건 아닌 것 같아요. 나는 헨리케예요.
+KATHARINA: Katharina. Danke, Henrike.
+> 카타리나예요. 고마워, 헨리케.
+HENRIKE: Und du hattest recht, vor vier Monaten. Ich bin gut. Aber diesmal hat es jemand gesehen, ohne dass wir es inszeniert haben.
+> 그리고 4개월 전에 네 말이 맞았어. 나는 잘해. 그런데 이번엔 우리가 연출하지 않았는데도 누군가 그걸 봤네.
+KATHARINA: Das ist der Unterschied zwischen Kampagne und Wahrheit. Die Wahrheit braucht keine Regie. Nur Zeugen.
+> 그게 캠페인과 진실의 차이야. 진실엔 연출이 필요 없어. 증인만 있으면 되지.
+LEONIE: Henrike? Entschuldigung, Frau Ministerpräsidentin. Ein Anruf aus Berlin. Der Bundesvorsitzende der Neuen Mitte. Er sagt, es ist dringend und nicht wegen des Hochwassers.
+> 헨리케? 죄송해요, 주총리님. 베를린에서 전화예요. 노이에 미테 연방 대표요. 급한 일인데 홍수 때문이 아니래요.
+HENRIKE: Sagen Sie ihm, ich rufe zurück. Wenn das Wasser sinkt.
+> 다시 전화하겠다고 전해 줘요. 물이 빠지면.
+SELIN: Pegel Hanau: sechs Meter fünfundsechzig. Zum ersten Mal seit vierzig Stunden fällt er.
+> 하나우 수위 6미터 65. 40시간 만에 처음으로 내려가고 있어.

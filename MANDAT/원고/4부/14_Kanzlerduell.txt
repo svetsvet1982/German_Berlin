@@ -1,0 +1,268 @@
+part: 4
+ep: 14
+title_de: Kanzlerduell
+title_ko: 총리 후보 토론
+scene: 일요일 저녁, 베를린 아들러스호프 방송 스튜디오와 무대 뒤 복도
+level: C1
+setting: 선거 21일 전 일요일 저녁 일곱 시부터 열한 시까지, 베를린 아들러스호프의 방송 스튜디오, 양 캠프의 대기실, 그리고 그 사이의 복도와 커피 자판기 앞
+cast: KATHARINA | Dr. Katharina Brandt · 연방 선거캠프 총괄 전략가
+cast: SELIN | Selin Aydın · 디지털 캠페인·여론 분석 총괄
+cast: TOBIAS | Tobias Wendt · 공약 재원·예산 검증 담당
+cast: HENRIKE | Dr. Henrike Sommer · Neue Mitte 총리 후보
+cast: REUTER | Dr. Wolfgang Reuter · 경쟁 거대정당의 총리 후보 (61) (가상)
+cast: LORENZ | Jan-Hendrik Lorenz · Reuter의 전략 자문
+cast: KAMPMANN | Anne Kampmann · 토론 진행자(Moderatorin) (가상)
+cast: SEIDEL | Jörg Seidel · 토론 진행자 (가상)
+cast: UTE | Ute Hennig · 베를린 캠프 사무실 책임자
+note: ※ 연방의회 선거 전 주요 정당 총리 후보들의 TV 토론(Kanzlerduell)은 독일 선거의 하이라이트입니다. 보통 공영·민영 방송 여러 곳이 함께 또는 따로 중계하며, 두 명의 진행자(Moderatorin/Moderator)가 주제별 질문을 던지고 발언 시간을 엄격히 관리합니다. 상대 발언에 대한 반박 발언을 Replik, 마지막 1분 남짓의 최종 발언을 Schlussrunde라고 합니다. 방송 직후에는 여론조사 기관이 시청자 긴급 조사로 '누가 더 설득력 있었나'를 발표합니다. 이번 화의 쟁점인 국방은 실제로도 뜨겁습니다. 나토 회원국들은 국방·안보 관련 지출을 장기적으로 크게 늘리기로 합의했고, 독일은 2025년 기본법 개정으로 일정 수준을 넘는 국방비를 부채제동장치의 예외로 두었습니다. 연방군의 장비 가동률 같은 구체적 수치는 상당 부분 기밀로 다뤄집니다. 등장하는 정당·인물·수치는 모두 가상입니다. 표현 초점: das Kanzlerduell, die Moderatorin, die Replik, die Schlussrunde, Ich weiß es nicht — aber ich weiß, wie ich es herausfinde.
+next: 4부 15화 — «Die letzte Woche»(마지막 주) — 투표일 직전 '투표소가 바뀌었다'는 허위 문자가 퍼진다. Selin의 고향 노이쾰른에서의 호별 방문. 상대 캠프 내부자가 자료를 팔겠다고 연락해 오고, Katharina는 거절한다.
+
+## 도입 — ADLERSHOF, 19:02
+UTE: Maske ist fertig, Mikrofon sitzt, und ick hab der Frau in der Garderobe gesagt, sie soll Henrike nicht so viel Puder draufmachen. Die soll aussehen wie nach dem Hochwasser, nicht wie vor der Oper.
+> 분장 끝났고, 마이크 달았고, 분장실 직원한테 헨리케한테 파우더 너무 바르지 말라고 했어. 오페라 가기 전이 아니라 홍수 직후처럼 보여야지.
+SELIN: Einschaltquote? Die Sender rechnen mit elf Millionen Zuschauern. Auf vier Kanälen gleichzeitig.
+> 시청률? 방송사들은 시청자 1,100만 명을 예상해. 채널 네 곳 동시 중계로.
+TOBIAS: Ich habe vierhundertzwölf Zahlen auf Karteikarten. Sie wird keine davon brauchen. Aber ich habe sie.
+> 숫자 412개를 카드에 적어 놨어. 하나도 필요 없을 거야. 그래도 갖고는 있어.
+KATHARINA: Henrike, wie fühlst du dich?
+> 헨리케, 기분 어때?
+HENRIKE: Als würde ich gleich eine Brücke über einen Fluss bauen, den ich nicht sehen kann.
+> 보이지도 않는 강 위에 지금 다리를 놓으러 가는 기분이야.
+KATHARINA: Du musst die Brücke nicht bauen. Du musst nur zeigen, dass du weißt, wie man eine baut.
+> 다리를 놓을 필요는 없어. 어떻게 놓는지 안다는 걸 보여 주기만 하면 돼.
+SELIN: Letzte Umfrage vor dem Duell: Reuters Partei siebenundzwanzig, Neue Mitte vierundzwanzig, Bewegung Heimat neunzehn. Bei der Kanzlerfrage steht es zweiunddreißig zu zweiunddreißig.
+> 토론 전 마지막 여론조사. 로이터 당 27, 노이에 미테 24, 베궁 하이마트 19. 총리 선호도는 32 대 32.
+TOBIAS: Gleichstand. Ich hasse Gleichstände fast so sehr wie knappe Mehrheiten.
+> 동률. 나는 동률이 아슬아슬한 과반만큼이나 싫어.
+UTE: Draußen auf dem Flur steht übrigens jemand, der dich sprechen will, Katharina. Grauer Anzug, teure Schuhe, schlechte Laune.
+> 그런데 복도에 너 찾는 사람 와 있어, 카타리나. 회색 양복, 비싼 구두, 나쁜 기분.
+KATHARINA: Lorenz.
+> 로렌츠.
+UTE: Ick hab ihm gesagt, er soll warten. Er wartet. Det hat mich gewundert.
+> 기다리라고 했어. 기다리고 있어. 그게 신기하더라.
+KAMPMANN: Noch zehn Minuten bis zur Sendung. Frau Sommer, Herr Reuter, bitte ins Studio.
+> 방송 10분 전입니다. 조머 후보님, 로이터 후보님, 스튜디오로 들어와 주세요.
+
+## 분석 — DIE ERSTE STUNDE
+SEIDEL: Guten Abend, meine Damen und Herren, willkommen zum Kanzlerduell. Neunzig Minuten, zwei Kandidaten, vier Themen. Wir beginnen mit der Wirtschaft. Herr Reuter, Sie haben das erste Wort.
+> 안녕하십니까, 시청자 여러분, 총리 후보 토론에 오신 것을 환영합니다. 90분, 후보 두 명, 주제 네 개. 경제부터 시작합니다. 로이터 후보, 첫 발언 하시죠.
+REUTER: Danke. Deutschland wächst seit Jahren kaum. Unsere Unternehmen zahlen zu hohe Steuern, zu hohe Energiepreise und ersticken in Bürokratie. Ich werde die Unternehmenssteuern senken, die Bürokratie halbieren und dafür sorgen, dass sich Leistung wieder lohnt.
+> 감사합니다. 독일은 몇 년째 거의 성장하지 못하고 있습니다. 우리 기업들은 너무 높은 세금, 너무 높은 에너지 가격을 내고 관료주의에 질식하고 있습니다. 저는 법인세를 낮추고, 관료주의를 절반으로 줄이고, 성과가 다시 보상받게 하겠습니다.
+KAMPMANN: Frau Sommer, Ihre Replik.
+> 조머 후보, 반박하시죠.
+HENRIKE: Herr Reuter hat recht, dass wir zu wenig wachsen. Aber eine Steuersenkung allein baut keine Brücke und bildet keinen Elektriker aus. Ich will, dass ein Unternehmen eine Genehmigung in drei Monaten bekommt statt in drei Jahren. Das kostet den Staat fast nichts und bringt mehr als jede Steuersenkung.
+> 우리가 너무 적게 성장한다는 로이터 후보의 말씀은 맞습니다. 하지만 세금 인하만으로는 다리 하나 놓지 못하고 전기 기사 한 명도 길러 내지 못합니다. 저는 기업이 허가를 3년이 아니라 3개월 만에 받게 하고 싶습니다. 그건 국가 돈이 거의 들지 않으면서 어떤 감세보다 효과가 큽니다.
+SELIN: Live-Kurve: Reuter bei „Leistung muss sich lohnen" plus acht. Henrike bei „drei Monate statt drei Jahre" plus zwölf.
+> 실시간 곡선. 로이터 '성과가 보상받아야' 플러스 8. 헨리케 '3년 대신 3개월' 플러스 12.
+TOBIAS: Reuters Steuersenkung kostet laut seinem eigenen Programm zweiundzwanzig Milliarden. Gegenfinanziert sind neun. Notiert.
+> 로이터 감세는 자기네 공약상 220억이 들어. 재원이 있는 건 90억. 적어 둠.
+KATHARINA: Noch nicht einsetzen. Erst wenn er sie wiederholt.
+> 아직 쓰지 마. 그 사람이 반복할 때까지.
+SEIDEL: Herr Reuter, wie bezahlen Sie das?
+> 로이터 후보, 그 비용은 어떻게 마련합니까?
+REUTER: Durch Wachstum. Wenn die Wirtschaft wächst, steigen die Steuereinnahmen. Das hat in der Geschichte dieses Landes immer funktioniert.
+> 성장을 통해서입니다. 경제가 성장하면 세수가 늘어납니다. 이 나라 역사에서 늘 그래 왔습니다.
+TOBIAS: Nicht immer. Aber manchmal. Fair genug.
+> 늘은 아니지. 가끔은. 그 정도면 공정하네.
+KATHARINA: Du wirst milde, Tobias.
+> 토비아스, 너 관대해졌다.
+TOBIAS: Ich werde gerecht. Er hat ein Argument. Es ist nur zu optimistisch.
+> 공정해진 거야. 저 사람도 논거가 있어. 너무 낙관적일 뿐이지.
+KAMPMANN: Kommen wir zur Migration. Frau Sommer, die Kommunen sagen, sie seien bei der Unterbringung an der Belastungsgrenze. Was tun Sie?
+> 이민으로 넘어가겠습니다. 조머 후보, 지자체들은 수용 문제로 한계에 와 있다고 합니다. 어떻게 하시겠습니까?
+HENRIKE: Zwei Dinge gleichzeitig, und beide gleich schnell. Wer hier arbeiten will und darf, bekommt seine Erlaubnis in drei Monaten statt in acht. Und wer kein Bleiberecht hat und schwere Straftaten begeht, wird konsequent zurückgeführt. Wer nur eines davon sagt, sagt nicht die ganze Wahrheit.
+> 두 가지를 동시에, 둘 다 똑같이 빠르게. 여기서 일하고 싶고 일할 자격이 있는 사람은 여덟 달이 아니라 석 달 안에 허가를 받습니다. 그리고 체류 자격이 없으면서 중대 범죄를 저지른 사람은 일관되게 송환합니다. 그중 하나만 말하는 사람은 진실 전체를 말하는 게 아닙니다.
+SEIDEL: Frau Sommer, Kritiker sagen, schnellere Arbeitserlaubnisse würden zusätzliche Anreize schaffen, nach Deutschland zu kommen.
+> 조머 후보, 비판자들은 노동 허가를 빨리 내주면 독일로 올 유인이 더 커진다고 하는데요.
+HENRIKE: Diese Sorge nehme ich ernst. Deshalb gilt die schnelle Erlaubnis nur für Menschen mit Arbeitsvertrag oder anerkanntem Abschluss. Wer hier arbeitet, zahlt Beiträge. Das entlastet genau die Rentenkasse, über die wir in diesem Wahlkampf so viel reden.
+> 그 우려는 진지하게 받아들입니다. 그래서 빠른 허가는 근로계약이나 인정된 자격이 있는 사람에게만 적용됩니다. 여기서 일하는 사람은 보험료를 냅니다. 그게 바로 이번 선거에서 그토록 많이 얘기하는 연금 재정을 덜어 줍니다.
+REUTER: Das klingt gut, aber es ist zu wenig. Die Zahl der irregulären Zugänge muss deutlich sinken. Dafür brauchen wir wirksame Kontrollen an den Grenzen und eine gemeinsame europäische Lösung.
+> 좋게 들리지만 부족합니다. 비정규 유입 숫자가 확실히 줄어야 합니다. 그러려면 효과적인 국경 통제와 유럽 공동의 해법이 필요합니다.
+HENRIKE: Bei der europäischen Lösung bin ich ganz bei Ihnen, Herr Reuter. Bei den Kontrollen auch, solange sie mit dem europäischen Recht vereinbar sind. Wir streiten weniger über das Ziel als über das Tempo.
+> 유럽 공동 해법에 대해선 로이터 후보님과 전적으로 같은 생각입니다. 국경 통제도 유럽법과 양립하는 한 그렇습니다. 우리는 목표보다는 속도를 두고 다투는 겁니다.
+SELIN: Interessant. Bei Wählern der Bewegung Heimat steigen beide Kandidaten. Reuter stärker bei Kontrollen, Henrike stärker bei „gleich schnell".
+> 흥미롭네. 베궁 하이마트 지지자들 사이에서 두 후보 다 올라. 로이터는 국경 통제에서 더 강하고, 헨리케는 '똑같이 빠르게'에서 더 강해.
+TOBIAS: Zwei Kandidaten, die sich in der Sache näher sind als ihre Plakate. Das wird die Leute verwirren.
+> 실제로는 포스터보다 서로 훨씬 가까운 두 후보네. 사람들이 헷갈리겠어.
+KATHARINA: Gut. Sie greift nicht an, sie sortiert. Und die Moderatorin lässt sie ausreden. Bleib so, Henrike.
+> 좋아. 공격하지 않고 정리하고 있어. 그리고 진행자가 끝까지 말하게 두고 있고. 그대로 가, 헨리케.
+SEIDEL: Klimaschutz. Herr Reuter, Sie haben angekündigt, den CO₂-Preis „mit Augenmaß" zu gestalten. Was heißt das konkret?
+> 기후 보호입니다. 로이터 후보, 탄소 가격을 '분별 있게' 설계하겠다고 하셨는데요. 구체적으로 무슨 뜻입니까?
+REUTER: Dass wir die Menschen nicht überfordern. Ein Pendler auf dem Land, der kein Elektroauto bezahlen kann, darf nicht der Verlierer des Klimaschutzes sein.
+> 사람들에게 과도한 부담을 지우지 않는다는 겁니다. 전기차 살 형편이 안 되는 시골 통근자가 기후 보호의 패자가 되어선 안 됩니다.
+SEIDEL: Heißt „mit Augenmaß", dass der CO₂-Preis langsamer steigt?
+> '분별 있게'라는 건 탄소 가격을 더 천천히 올린다는 뜻입니까?
+REUTER: Es heißt, dass er nicht schneller steigt, als die Menschen Alternativen haben. Klimaschutz, der keine Mehrheit hat, überlebt keine Legislaturperiode.
+> 사람들에게 대안이 생기는 것보다 빨리 오르진 않는다는 뜻입니다. 다수의 지지가 없는 기후 보호는 한 임기도 버티지 못합니다.
+HENRIKE: Da stimme ich zu. Deshalb will ich die Einnahmen aus dem CO₂-Preis pro Kopf an die Bürger zurückzahlen. Wer wenig verbraucht, bekommt am Ende mehr heraus, als er bezahlt hat. Das ist nicht Ideologie, das ist Arithmetik.
+> 동의합니다. 그래서 저는 탄소 가격 수입을 1인당 균등하게 시민들께 돌려드리려 합니다. 적게 쓰는 사람은 결국 낸 것보다 더 많이 돌려받게 되죠. 그건 이념이 아니라 산수입니다.
+TOBIAS: Gegenfinanziert. Sie hat es von mir.
+> 재원 있음. 나한테서 배운 거야.
+UTE: Det sagst du jedes Mal.
+> 너 매번 그 말 한다.
+TOBIAS: Weil es jedes Mal stimmt.
+> 매번 맞는 말이니까.
+SELIN: Nach der ersten Stunde: Henrike vorn, knapp. Einundvierzig zu achtunddreißig bei den Unentschlossenen.
+> 첫 한 시간 결과. 헨리케가 근소하게 앞서. 미결정층에서 41 대 38.
+KATHARINA: Knapp ist gut. Knapp heißt, dass es noch nicht entschieden ist. Ich gehe kurz raus.
+> 근소한 건 좋은 거야. 아직 결정되지 않았다는 뜻이니까. 잠깐 나갔다 올게.
+UTE: Zu ihm?
+> 그 사람한테?
+KATHARINA: Er wartet seit einer Stunde. Das ist bei ihm ein Rekord.
+> 한 시간째 기다리고 있잖아. 그 사람한텐 신기록이야.
+
+## 갈등 — DER LETZTE ZUG
+LORENZ: Katharina. Kaffee? Der aus dem Automaten ist furchtbar, aber er ist heiß.
+> 카타리나. 커피? 자판기 커피는 끔찍하지만 뜨겁긴 해.
+KATHARINA: Danke. Du siehst müde aus, Jan-Hendrik.
+> 고마워요. 피곤해 보이네요, 얀헨드릭.
+LORENZ: Ich bin über sechzig und mache einen Wahlkampf gegen meine beste Schülerin. Das ermüdet. Sie ist gut heute, deine Kandidatin. Besser, als ich dachte.
+> 예순 넘은 나이에 내 최고의 제자를 상대로 선거를 하고 있으니까. 피곤하지. 오늘 네 후보 잘하더라. 생각보다 훨씬.
+KATHARINA: Und das macht dich nervös.
+> 그래서 긴장되는군요.
+LORENZ: Es macht mich neugierig. In der zweiten Stunde kommt die Sicherheitspolitik. Reuter war vier Jahre Bundesminister der Verteidigung. Deine Kandidatin war nie in der Bundesregierung.
+> 궁금하게 만들지. 두 번째 시간엔 안보 정책이 나와. 로이터는 4년 동안 연방 국방장관이었어. 네 후보는 연방 정부에 있어 본 적이 없지.
+KATHARINA: Was hast du vorbereitet?
+> 뭘 준비했어요?
+LORENZ: Eine Frage. Nur eine. Du wirst sie gleich hören. Ich wollte, dass du mir dabei in die Augen siehst.
+> 질문 하나. 딱 하나. 곧 듣게 될 거야. 그때 네가 내 눈을 보고 있었으면 했어.
+KATHARINA: Warum?
+> 왜요?
+LORENZ: Weil ich wissen will, ob ich dich noch kenne.
+> 내가 아직도 너를 아는지 알고 싶어서.
+KATHARINA: Du kennst mich. Du kennst nur Henrike nicht.
+> 나는 알죠. 헨리케를 모를 뿐이에요.
+LORENZ: Ich kenne alle Kandidaten. Sie sind alle gleich, wenn das Licht angeht. Sie wollen gemocht werden.
+> 나는 모든 후보를 알아. 조명이 켜지면 다 똑같아. 다들 사랑받고 싶어 하지.
+KATHARINA: Sie will nicht gemocht werden. Sie will, dass man sie prüft. Dieser Unterschied fehlt in deiner Rechnung.
+> 그녀는 사랑받고 싶어 하지 않아요. 검증받고 싶어 하죠. 그 차이가 당신 계산에서 빠져 있어요.
+SEIDEL: Sicherheit. Die Lage im Osten Europas bleibt angespannt, die NATO-Partner haben deutlich höhere Verteidigungsausgaben vereinbart. Herr Reuter, Sie haben eine Frage an Frau Sommer. Bitte.
+> 안보입니다. 동유럽 정세는 여전히 긴장 상태이고, 나토 회원국들은 국방비를 대폭 늘리기로 합의했습니다. 로이터 후보, 조머 후보에게 질문이 있으시죠. 하시죠.
+REUTER: Frau Sommer, Sie wollen Kanzlerin werden, also Oberbefehlshaberin im Verteidigungsfall. Eine einfache Frage: Wie viele unserer Kampfpanzer sind heute tatsächlich einsatzbereit?
+> 조머 후보, 총리가 되시겠다는 건 유사시 최고 지휘권자가 되시겠다는 겁니다. 간단한 질문 하나 드리죠. 현재 우리 전차 중 실제로 투입 가능한 건 몇 대입니까?
+KAMPMANN: Frau Sommer, Sie haben neunzig Sekunden.
+> 조머 후보, 90초 드립니다.
+TOBIAS: Das ist keine einfache Frage. Die genaue Zahl ist eingestuft. Ich habe keine Karteikarte dafür. Niemand hat eine.
+> 그건 간단한 질문이 아니야. 정확한 숫자는 기밀이야. 그걸 적은 카드는 없어. 아무한테도 없어.
+SELIN: Wenn sie eine Zahl nennt und sie ist falsch, ist sie erledigt. Wenn sie nichts sagt, wirkt sie ahnungslos.
+> 숫자를 말했는데 틀리면 끝장이야. 아무 말도 안 하면 무지해 보이고.
+TOBIAS: Ich könnte ihr eine Schätzung aus öffentlichen Berichten geben. Aber es gibt keinen Knopf im Ohr. Das ist verboten.
+> 공개 보고서를 근거로 추정치를 줄 수는 있어. 하지만 이어폰은 없어. 금지돼 있으니까.
+KATHARINA: Und es wäre falsch. Sie muss das allein schaffen.
+> 그리고 그건 옳지도 않아. 혼자 해내야 해.
+UTE: Und wenn sie die richtige Zahl wüsste, müsste man fragen, woher.
+> 그리고 맞는 숫자를 안다면, 그걸 어떻게 아는지 물어봐야겠지.
+KATHARINA: Das ist dein Zug, Jan-Hendrik. Eine Frage ohne richtige Antwort.
+> 이게 당신 수군요, 얀헨드릭. 정답이 없는 질문.
+LORENZ: Jede Frage hat eine richtige Antwort, Katharina. Die Frage ist, ob sie sie findet. Ich wette, sie nennt eine Zahl. Politiker können nicht nicht antworten.
+> 모든 질문엔 정답이 있어, 카타리나. 문제는 그녀가 그걸 찾느냐지. 내기해도 좋아, 숫자를 말할 거야. 정치인은 대답을 안 할 줄 몰라.
+KATHARINA: Sie ist keine Politikerin wie die anderen. Das hast du nur noch nicht verstanden.
+> 그녀는 다른 정치인들 같지 않아요. 당신이 아직 그걸 이해 못 했을 뿐이죠.
+LORENZ: Du hast ihr Zahlen beigebracht. Tobias hat ihr Zahlen beigebracht. Sie wird nach einer greifen. Das ist ein Reflex.
+> 네가 그녀한테 숫자를 가르쳤어. 토비아스도 숫자를 가르쳤고. 그녀는 숫자 하나를 붙잡을 거야. 그건 반사 작용이야.
+KATHARINA: Wir haben ihr etwas anderes beigebracht. Du warst nur nicht dabei.
+> 우린 다른 걸 가르쳤어요. 당신이 그 자리에 없었을 뿐이죠.
+LORENZ: Wir werden sehen.
+> 두고 보자.
+UTE: Sie atmet. Sie schaut ihn an. Sie lässt sich Zeit. Fünf Sekunden. Sechs.
+> 숨 쉬고 있어. 그 사람을 보고 있어. 시간을 들이고 있어. 5초. 6초.
+SELIN: Sechs Sekunden Stille im Fernsehen. Das ist eine Ewigkeit.
+> 텔레비전에서 6초 침묵. 영원이야.
+KATHARINA: Nein. Das ist Nachdenken. Man sieht es nur selten.
+> 아니. 생각하는 거야. 좀처럼 볼 수 없을 뿐이지.
+KAMPMANN: Frau Sommer? Ihre Antwort, bitte.
+> 조머 후보? 답변해 주시죠.
+HENRIKE: Herr Reuter, das ist eine gute Frage. Und ich gebe Ihnen eine ehrliche Antwort: Ich weiß es nicht.
+> 로이터 후보님, 좋은 질문입니다. 그리고 정직하게 답하겠습니다. 저는 모릅니다.
+SELIN: Oh Gott.
+> 맙소사.
+TOBIAS: Warte. Sie ist noch nicht fertig.
+> 기다려. 아직 안 끝났어.
+LORENZ: Da. Sie hat …
+> 봐. 그녀가…
+KATHARINA: Hör zu, Jan-Hendrik. Nur dieses eine Mal: hör einfach zu.
+> 들어요, 얀헨드릭. 이번 한 번만, 그냥 들어요.
+
+## 해결·설득 — ICH WEISS ES NICHT
+HENRIKE: Ich weiß es nicht — aber ich weiß, wie ich es herausfinde. Die genaue Zahl ist zu Recht nicht öffentlich, und ich würde sie auch dann nicht im Fernsehen nennen, wenn ich sie kennte. Herr Reuter kennt sie. Er war vier Jahre lang Verteidigungsminister.
+> 저는 모릅니다. 하지만 어떻게 알아낼지는 압니다. 정확한 숫자는 당연히 공개되어 있지 않고, 설령 안다 해도 텔레비전에서 말하지 않을 겁니다. 로이터 후보님은 아시겠죠. 4년 동안 국방장관이셨으니까요.
+HENRIKE: Am ersten Tag meiner Amtszeit lasse ich mir vom Generalinspekteur zeigen, was einsatzbereit ist und was nicht. Nicht auf Folien, sondern in den Kasernen. Und dann sage ich dem Verteidigungsausschuss des Bundestages, was fehlt, warum es fehlt und bis wann es da ist. Dort, wo solche Zahlen hingehören.
+> 임기 첫날 저는 합참의장에게 무엇이 투입 가능하고 무엇이 아닌지 보여 달라고 하겠습니다. 슬라이드가 아니라 막사에서요. 그리고 연방의회 국방위원회에 무엇이 부족한지, 왜 부족한지, 언제까지 갖출지 보고하겠습니다. 그런 숫자가 있어야 할 자리에서요.
+HENRIKE: Und, Herr Reuter, erlauben Sie mir eine Gegenfrage. Sie waren vier Jahre zuständig. Warum ist die Zahl so, dass man sie nicht laut sagen möchte?
+> 그리고 로이터 후보님, 반문 하나 드려도 될까요. 후보님은 4년 동안 그 책임자였습니다. 그런데 왜 그 숫자는 큰 소리로 말하고 싶지 않은 숫자가 된 겁니까?
+REUTER: … Das ist eine unfaire Frage.
+> …그건 불공정한 질문입니다.
+HENRIKE: Es ist Ihre Frage, Herr Reuter. Ich habe sie nur umgedreht.
+> 후보님 질문입니다, 로이터 후보님. 저는 그걸 뒤집었을 뿐이에요.
+SEIDEL: Herr Reuter, möchten Sie darauf antworten? Dreißig Sekunden.
+> 로이터 후보, 답변하시겠습니까? 30초입니다.
+SELIN: Die Kurve! Plus neunzehn bei „Ich weiß es nicht — aber ich weiß, wie ich es herausfinde." Das ist der höchste Wert des Abends. Bei allen Gruppen. Auch bei Reuters Wählern.
+> 곡선 봐! '저는 모릅니다. 하지만 어떻게 알아낼지는 압니다'에서 플러스 19. 오늘 밤 최고치야. 모든 집단에서. 로이터 지지자들 사이에서도.
+UTE: Det ist besser als jede Zahl auf Tobias' Karteikarten.
+> 토비아스 카드에 적힌 어떤 숫자보다 낫다.
+TOBIAS: Das ist die beste Zahl, die ich nie aufgeschrieben habe.
+> 내가 한 번도 적어 둔 적 없는 최고의 숫자야.
+LORENZ: Sie hat nicht nach einer Zahl gegriffen.
+> 숫자를 붙잡지 않았어.
+KATHARINA: Nein. Nach der Wahrheit. Die lag näher.
+> 그래요. 진실을 붙잡았죠. 그게 더 가까이 있었으니까.
+REUTER: Dann will ich ehrlich antworten. Ja, die Einsatzbereitschaft ist zu niedrig. Daran war auch ich beteiligt. Die Beschaffung dauert zu lange, das ist ein Fehler im System. Ich habe ihn nicht behoben.
+> 그럼 저도 정직하게 답하겠습니다. 네, 가동률은 너무 낮습니다. 저도 거기에 책임이 있습니다. 조달이 너무 오래 걸리는데, 그건 시스템의 결함입니다. 저는 그걸 고치지 못했습니다.
+KAMPMANN: Das ist ein ungewöhnliches Eingeständnis, Herr Reuter.
+> 이례적인 인정이네요, 로이터 후보.
+REUTER: Frau Sommer hat heute Abend die Messlatte für Ehrlichkeit gelegt. Ich will nicht darunter bleiben.
+> 조머 후보가 오늘 밤 정직의 기준을 세웠습니다. 저도 그 밑에 머물고 싶지 않습니다.
+SELIN: Und jetzt steigt Reuter auch. Plus elf. Die Leute belohnen beide.
+> 이제 로이터도 올라. 플러스 11. 사람들이 둘 다한테 상을 주고 있어.
+TOBIAS: Zum ersten Mal in diesem Wahlkampf gewinnen alle.
+> 이번 선거에서 처음으로 모두가 이기고 있네.
+LORENZ: Das hat er nicht mit mir abgesprochen.
+> 저건 나랑 상의한 게 아닌데.
+KATHARINA: Ich weiß. Das war er selbst. Und das war gut, Jan-Hendrik. Für ihn. Und für das Land.
+> 알아요. 그건 그 사람 본인이었죠. 그리고 좋았어요, 얀헨드릭. 그 사람한테도, 이 나라한테도.
+LORENZ: Du hast ihr beigebracht, nicht zu bluffen. Das war der Fehler in meiner Rechnung. Ich habe mit der Frau gerechnet, die vor einem Jahr „Rahmenbedingungen" gesagt hat.
+> 너는 그녀한테 허세 부리지 않는 법을 가르쳤어. 그게 내 계산의 오류였지. 나는 1년 전에 '여건'을 말하던 그 사람을 상대로 계산했던 거야.
+KATHARINA: Und ich habe mit dem Mann gerechnet, der mir beigebracht hat, dass man den Menschen nicht unterschätzt, der einem gegenübersitzt. Du hast es nur selbst vergessen.
+> 그리고 나는 맞은편에 앉은 사람을 과소평가하지 말라고 가르쳐 준 그 사람을 믿고 계산했어요. 당신만 그걸 잊어버렸을 뿐이죠.
+LORENZ: Du warst mal meine beste Beraterin.
+> 너는 한때 내 최고의 컨설턴트였어.
+KATHARINA: Ich bin es immer noch. Nur nicht deine. Das habe ich dir schon einmal gesagt. Bei einem Abendessen.
+> 지금도 그래요. 다만 당신 컨설턴트가 아닐 뿐이죠. 전에도 한 번 말했잖아요. 어느 저녁 식사 자리에서.
+LORENZ: Ich weiß. Ich habe es damals nicht geglaubt. Heute schon.
+> 알아. 그땐 안 믿었어. 오늘은 믿어.
+KATHARINA: Dann geh zurück zu deinem Kandidaten. Er braucht dich jetzt. Er war gerade ehrlich, und das ist neu für ihn.
+> 그럼 당신 후보한테 돌아가요. 지금 당신이 필요할 거예요. 방금 정직했는데, 그 사람한텐 새로운 일이잖아요.
+SEIDEL: Wir kommen zur Schlussrunde. Jeweils sechzig Sekunden. Herr Reuter, Sie beginnen.
+> 마지막 발언입니다. 각각 60초. 로이터 후보부터 하시죠.
+REUTER: Ich bitte Sie um Ihr Vertrauen, weil ich Erfahrung habe. Und weil ich heute Abend gelernt habe, dass Erfahrung auch heißt, die eigenen Fehler zu kennen. Ich kenne meine. Ich will sie nicht wiederholen.
+> 저는 경험이 있기에 여러분의 신뢰를 부탁드립니다. 그리고 오늘 밤 경험이란 자기 잘못을 아는 것이기도 하다는 걸 배웠기 때문입니다. 저는 제 잘못을 압니다. 되풀이하고 싶지 않습니다.
+KAMPMANN: Frau Sommer, Ihre Schlussrunde.
+> 조머 후보, 마지막 발언하시죠.
+HENRIKE: Ich habe heute Abend nicht auf jede Frage eine Antwort gehabt. Ich werde auch als Kanzlerin nicht auf jede Frage eine Antwort haben. Aber ich verspreche Ihnen, dass ich nie eine erfinde. Ich will ein Land, das funktioniert — und eine Regierung, die sagt, wenn etwas nicht funktioniert. Prüfen Sie mich. Am Wahltag, und jeden Tag danach.
+> 저는 오늘 밤 모든 질문에 답을 갖고 있지 않았습니다. 총리가 되어서도 모든 질문에 답을 갖고 있진 않을 겁니다. 하지만 절대 답을 지어내지 않겠다고 약속드립니다. 저는 일하는 나라를 원합니다. 그리고 뭔가 제대로 돌아가지 않을 때 그렇다고 말하는 정부를 원합니다. 저를 검증해 주십시오. 투표일에도, 그리고 그 뒤 매일매일.
+
+## 마무리 — 22:47
+SELIN: Blitzumfrage: Wer hat überzeugt? Sommer siebenundvierzig, Reuter einundvierzig, unentschieden zwölf.
+> 긴급 조사. 누가 더 설득력 있었나? 조머 47, 로이터 41, 판단 유보 12.
+TOBIAS: Sechs Punkte. Gegen einen ehemaligen Verteidigungsminister. Mit einem „Ich weiß es nicht".
+> 6포인트. 전직 국방장관을 상대로. '모릅니다' 한마디로.
+UTE: Und bei Reuter haben auch alle geklatscht. Für sein Eingeständnis. Det war ein guter Abend für die Demokratie. Sag ick ja selten.
+> 그리고 로이터한테도 다들 박수 쳤어. 잘못 인정한 거에. 민주주의한테 좋은 밤이었다. 나 이런 말 잘 안 하는데.
+HENRIKE: Katharina, was hat Lorenz gesagt?
+> 카타리나, 로렌츠가 뭐래?
+KATHARINA: Dass er mit der Frau gerechnet hat, die vor einem Jahr „Rahmenbedingungen" gesagt hat.
+> 1년 전에 '여건'을 말하던 사람을 상대로 계산했대.
+HENRIKE: Die gibt es nicht mehr. Ich habe sie in Offenbach hinter einem Spiegel gelassen.
+> 그 사람은 이제 없어. 오펜바흐의 거울 뒤에 두고 왔거든.
+LORENZ: Frau Sommer. Entschuldigen Sie, dass ich störe. Ich wollte Ihnen nur sagen: Das war die beste Antwort, die ich in dreißig Jahren in einem Fernsehstudio gehört habe. Und ich habe sie nicht kommen sehen.
+> 조머 후보님. 방해해서 죄송합니다. 이 말씀만 드리고 싶었습니다. 30년 동안 방송 스튜디오에서 들은 답변 중 최고였습니다. 그리고 저는 그걸 예상하지 못했습니다.
+HENRIKE: Danke, Herr Lorenz. Ich habe sie auch nicht kommen sehen. Sie kam einfach.
+> 고맙습니다, 로렌츠 씨. 저도 예상 못 했어요. 그냥 나왔어요.
+LORENZ: Katharina. Gute Nacht. Wir sehen uns am Wahlabend. Auf verschiedenen Partys.
+> 카타리나. 잘 자. 선거 날 밤에 보자. 서로 다른 파티장에서.
+KATHARINA: Gute Nacht, Jan-Hendrik.
+> 잘 자요, 얀헨드릭.
+SELIN: Neue Sonntagsfrage kommt Donnerstag. Bis dahin: noch einundzwanzig Tage. Und morgen fange ich mit dem Haustürwahlkampf an. In Neukölln.
+> 새 일요 여론조사는 목요일에 나와. 그때까지 아직 21일. 그리고 나는 내일부터 호별 방문 시작해. 노이쾰른에서.
+KATHARINA: Zu Hause.
+> 고향에서네.

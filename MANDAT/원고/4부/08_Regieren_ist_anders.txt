@@ -1,0 +1,267 @@
+part: 4
+ep: 8
+title_de: Regieren ist anders
+title_ko: 통치는 다르다
+scene: 취임 3주 후, 비스바덴 주총리실 → 프랑크푸르트 그리스하임의 종합학교
+level: C1
+setting: 새 주 정부 출범 3주 뒤 월요일부터 목요일까지, 비스바덴 주총리실(Staatskanzlei) 기획실과 프랑크푸르트 그리스하임의 한 종합학교(Gesamtschule)
+cast: KATHARINA | Dr. Katharina Brandt · 주총리실 기획실장(Leiterin des Planungsstabs)
+cast: SELIN | Selin Aydın · 주총리실 행정 디지털화 담당 특별참모
+cast: TOBIAS | Tobias Wendt · BWA 공동창업자, 주 정부 예산 자문 (비상근)
+cast: HENRIKE | Dr. Henrike Sommer · 헤센 주총리(Ministerpräsidentin)
+cast: LOHMANN | Dr. Gerhard Lohmann · 주총리실 정책조정국장(Ministerialdirigent), 공직 34년 (가상)
+cast: ENGEL | Petra Engel · 그리스하임 종합학교 교장 (가상)
+cast: DEMIR | Kemal Demir · 같은 학교 수학 교사, 엔지니어 출신 경력 전환 교사(Quereinsteiger) (가상)
+cast: BEHRENS | Johanna Behrens · 외코조치알레 대표, 연정 합의로 문화교육부 장관(Kultusministerin)이 됨
+note: ※ 독일의 주 정부에서는 주총리가 정책의 큰 방향을 정하는 권한(Richtlinienkompetenz)을 갖지만, 각 부처 장관은 그 틀 안에서 자기 부처를 독자적으로 이끕니다(Ressortprinzip). 그래서 주총리실이 연정 파트너가 맡은 부처를 건너뛰고 직접 지시하면 곧바로 연정 갈등이 됩니다. 행정 안의 공식 결재·보고 경로를 '공무 절차(Dienstweg)'라고 하고, 종신직 공무원(Beamte)이 정권이 바뀌어도 행정의 연속성을 지킵니다. 학교 운영은 역할이 나뉘어 있어, 교사의 채용과 급여는 주(州)가, 학교 건물과 기자재·IT 관리는 시·군 같은 학교 설립 주체(Schulträger)가 맡습니다. 연방의 '디지털 협약(DigitalPakt Schule)'으로 기기 예산이 내려와도 유지보수를 누가 맡느냐로 기기가 상자째 쌓여 있는 일이 실제로 보고됩니다. 등장하는 학교·인물·수치는 가상입니다. 표현 초점: die Verwaltung, der Beamte, die Digitalisierung, der Dienstweg, Das haben wir immer so gemacht. — Genau deshalb.
+next: 4부 9화 — «Wenn der Main steigt»(마인강이 불어날 때) — 기록적 폭우. 위기 대응 72시간. 카메라 앞이 아닌 현장에서 주민과 함께 있는 Henrike의 모습이 전국에 퍼지고, 연방 정치권이 그를 주목하기 시작한다.
+
+## 도입 — HUNDERT TAGE
+KATHARINA: Guten Morgen, Herr Dr. Lohmann. Ich habe Ihnen am Freitag den Hundert-Tage-Plan geschickt. Haben Sie ihn gelesen?
+> 안녕하세요, 로만 박사님. 금요일에 100일 계획을 보내 드렸는데요. 읽어 보셨어요?
+LOHMANN: Guten Morgen, Frau Dr. Brandt. Ich habe ihn gelesen. Zweimal. Beim zweiten Mal mit einem Rotstift.
+> 안녕하십니까, 브란트 박사님. 읽었습니다. 두 번요. 두 번째는 빨간 펜을 들고.
+SELIN: Oh. Wie viel Rot?
+> 아. 빨간색이 얼마나요?
+LOHMANN: Mehr als Weiß, Frau Aydın.
+> 흰색보다 많습니다, 아이든 씨.
+KATHARINA: Dann lassen Sie uns darüber reden. Vierzig Maßnahmen, jede mit einem Ziel, einer Kennzahl und einem Datum.
+> 그럼 얘기해 보죠. 조치 마흔 개, 하나하나 목표와 지표와 날짜가 있어요.
+LOHMANN: Das ist das Problem. Maßnahme sieben: „Dreitausend Schulassistenzkräfte bis zum Schuljahresbeginn." Das ist in fünf Monaten.
+> 그게 문제입니다. 조치 7번. '새 학년 시작까지 학교 보조 인력 3천 명.' 다섯 달 뒤예요.
+KATHARINA: Das steht im Koalitionsvertrag.
+> 연정 협약서에 있는 거예요.
+LOHMANN: Im Koalitionsvertrag steht vieles, Frau Dr. Brandt. Ich habe in vierunddreißig Jahren sieben Koalitionsverträge erlebt. Ein Wahlkampf dauert Monate. Die Verwaltung dauert Jahrzehnte.
+> 연정 협약서엔 많은 게 적혀 있죠, 브란트 박사님. 저는 34년 동안 연정 협약서를 일곱 개 봤습니다. 선거는 몇 달이지만, 행정은 수십 년입니다.
+SELIN: Klingt wie ein Kalenderspruch.
+> 달력에 적힌 격언 같네요.
+LOHMANN: Es ist einer. Ich habe ihn selbst drucken lassen. Er hängt in jeder Abteilung.
+> 맞습니다. 제가 직접 인쇄했어요. 모든 국에 걸려 있습니다.
+HENRIKE: Guten Morgen. Ich höre, Sie haben sich schon kennengelernt.
+> 좋은 아침이에요. 벌써 인사 나누셨다고 들었어요.
+LOHMANN: Frau Ministerpräsidentin. Wir haben uns kennengelernt. Ob wir uns verstehen, wird sich zeigen.
+> 주총리님. 인사는 나눴습니다. 서로 이해할지는 두고 봐야겠지요.
+
+## 분석 — DER DIENSTWEG
+HENRIKE: Herr Lohmann, erklären Sie Frau Brandt bitte, warum dreitausend Assistenzkräfte nicht in fünf Monaten gehen.
+> 로만 국장님, 보조 인력 3천 명이 왜 다섯 달 안에 안 되는지 브란트 씨께 설명해 주세요.
+LOHMANN: Gern. Erstens: Stellen müssen im Haushalt stehen. Der Haushalt für dieses Jahr ist beschlossen, also brauchen wir einen Nachtragshaushalt. Das sind drei Monate, wenn der Landtag mitspielt.
+> 그러죠. 첫째, 정원은 예산에 반영돼 있어야 합니다. 올해 예산은 이미 확정됐으니 추경이 필요해요. 주의회가 협조하면 석 달입니다.
+TOBIAS: Oder man nutzt die Restmittel aus dem Ganztagsprogramm. Da sind vierzig Millionen nicht abgeflossen. Ich habe nachgesehen.
+> 아니면 종일반 프로그램의 잔여 예산을 쓰면 되죠. 거기 4천만이 집행 안 됐어요. 제가 확인했어요.
+LOHMANN: Herr Wendt, Sie sehen viel nach. Diese Mittel sind zweckgebunden. Man darf sie nur für Ganztag verwenden.
+> 벤트 씨, 많이도 확인하시는군요. 그 예산은 용도가 지정돼 있습니다. 종일반에만 쓸 수 있어요.
+TOBIAS: Assistenzkräfte, die im Ganztag mitarbeiten, sind Ganztag.
+> 종일반에서 같이 일하는 보조 인력은 종일반이죠.
+LOHMANN: Das ist kreativ. Ob es rechtmäßig ist, sagt Ihnen das Finanzministerium. In etwa sechs Wochen.
+> 창의적이군요. 합법인지는 재무부가 말해 줄 겁니다. 한 6주 뒤에.
+KATHARINA: Sechs Wochen für eine Rechtsauskunft?
+> 법률 검토 하나에 6주요?
+LOHMANN: Fünf, wenn Sie freundlich fragen. Sieben, wenn Sie drängeln.
+> 정중하게 물으시면 5주. 재촉하시면 7주.
+KATHARINA: Und zweitens?
+> 그럼 둘째는요?
+LOHMANN: Zweitens: Für neue Stellenprofile muss der Hauptpersonalrat beteiligt werden. Drittens: Schulen sind Sache des Kultusministeriums. Das wird von den Ökosozialen geführt. Ohne Frau Behrens geht nichts.
+> 둘째, 새 직무 유형을 만들려면 주 공무원평의회가 참여해야 합니다. 셋째, 학교는 문화교육부 소관이에요. 외코조치알레가 맡고 있죠. 베렌스 장관 없이는 아무것도 안 됩니다.
+SELIN: Und viertens?
+> 그럼 넷째는요?
+LOHMANN: Viertens: Die Schulen haben gar keinen Platz für die Leute. Kein Büro, keinen Schreibtisch, keinen Computer. Das ist Sache der Schulträger, also der Städte und Kreise.
+> 넷째, 학교엔 그 사람들을 둘 자리가 없습니다. 사무실도, 책상도, 컴퓨터도 없어요. 그건 학교 설립 주체, 즉 시와 군의 소관입니다.
+KATHARINA: Das ist eine Kette von Zuständigkeiten, in der jedes Glied Nein sagen kann.
+> 고리마다 '아니오'라고 할 수 있는 소관의 사슬이네요.
+LOHMANN: Das ist ein Rechtsstaat, Frau Dr. Brandt. Jedes Glied ist eine Sicherung. Gegen Willkür. Auch gegen gut gemeinte.
+> 그게 법치국가입니다, 브란트 박사님. 고리 하나하나가 안전장치예요. 자의적 결정을 막는. 선의에서 나온 것까지도요.
+HENRIKE: Dann fahren wir am Mittwoch in eine Schule und sehen uns an, wogegen wir uns sichern.
+> 그럼 수요일에 학교에 가서 우리가 무엇에 대비해 안전장치를 거는지 보죠.
+ENGEL: Frau Ministerpräsidentin, willkommen in Griesheim. Neunhundert Schülerinnen und Schüler, achtunddreißig Sprachen, und seit heute Morgen ein kaputter Kopierer.
+> 주총리님, 그리스하임에 오신 걸 환영합니다. 학생 구백 명, 언어 서른여덟 개, 그리고 오늘 아침부터 고장 난 복사기 하나요.
+HENRIKE: Frau Engel, sagen Sie mir ehrlich: Was fehlt Ihnen am meisten?
+> 엥엘 교장님, 솔직히 말씀해 주세요. 뭐가 가장 부족하세요?
+ENGEL: Zeit. Meine Lehrkräfte verbringen im Schnitt sechs Stunden pro Woche mit Dingen, die nichts mit Unterricht zu tun haben. Listen, Elternbriefe, Formulare, Technik.
+> 시간이요. 우리 교사들은 일주일에 평균 여섯 시간을 수업과 아무 상관 없는 일에 써요. 명단, 가정통신문, 서류, 기기 관리.
+SELIN: Sechs Stunden mal sechzig Lehrkräfte. Das sind dreihundertsechzig Stunden pro Woche. Neun volle Stellen, die nur verwalten.
+> 여섯 시간 곱하기 교사 예순 명. 일주일에 360시간이에요. 행정만 하는 정규직 아홉 자리죠.
+ENGEL: Und ich habe vier Stellen unbesetzt. Ich könnte also neun Lehrkräfte gewinnen, ohne einen einzigen Menschen einzustellen.
+> 그리고 저는 빈자리가 네 개예요. 그러니까 한 명도 새로 뽑지 않고도 교사 아홉 명을 얻을 수 있는 셈이죠.
+DEMIR: So sieht bei uns die Digitalisierung aus: Ich bin Mathelehrer und nebenbei der IT-Administrator für vierhundert Tablets. Unbezahlt. Weil ich früher Ingenieur war und als Einziger weiß, was ein Router ist.
+> 우리 학교 디지털화는 이래요. 저는 수학 교사인데, 겸사겸사 태블릿 사백 대의 IT 관리자예요. 무보수로. 예전에 엔지니어였고 라우터가 뭔지 아는 사람이 저밖에 없어서요.
+HENRIKE: Herr Demir, Sie sind Quereinsteiger?
+> 데미르 선생님, 경력 전환 교사세요?
+DEMIR: Seit drei Jahren. Ich habe zwanzig Jahre lang Brücken berechnet. Jetzt erkläre ich Fünfzehnjährigen, warum Brücken nicht einstürzen. Das ist schwerer.
+> 3년 됐어요. 20년 동안 다리 구조 계산을 했죠. 이제는 열다섯 살 애들한테 다리가 왜 안 무너지는지 설명해요. 그게 더 어려워요.
+SELIN: Vierhundert Tablets. Wie viele davon sind im Einsatz?
+> 태블릿 사백 대. 그중 몇 대가 쓰이고 있어요?
+DEMIR: Hundertzehn. Der Rest steht seit zwei Jahren in Kartons im Keller.
+> 백열 대요. 나머지는 2년째 지하실에 상자째 있어요.
+HENRIKE: Seit zwei Jahren? Warum?
+> 2년째요? 왜요?
+ENGEL: Weil das Geld für die Geräte aus dem Digitalpakt kam, aber niemand die Wartung bezahlen will. Die Stadt sagt, das ist pädagogische Aufgabe, also Land. Das Land sagt, Ausstattung ist Sache des Schulträgers, also Stadt.
+> 기기 돈은 디지털 협약에서 나왔는데, 유지보수 비용은 아무도 내려고 하지 않으니까요. 시는 그게 교육 업무니까 주 소관이래요. 주는 기자재는 설립 주체 소관이니까 시 일이래요.
+SELIN: Und dazwischen liegen zweihundertneunzig Tablets im Keller und veralten.
+> 그 사이에서 태블릿 이백구십 대가 지하실에서 구형이 돼 가고 있고요.
+TOBIAS: Bei einem Stückpreis von vierhundert Euro sind das hundertsechzehntausend Euro. In Kartons.
+> 대당 4백 유로면 11만 6천 유로예요. 상자 속에.
+DEMIR: Und das ist nur unsere Schule. In Frankfurt gibt es hundertsechzig.
+> 그리고 그건 우리 학교만이에요. 프랑크푸르트에 학교가 백육십 곳 있어요.
+ENGEL: Wir haben dreimal einen Antrag gestellt. Über den Dienstweg. Schulamt, Kultusministerium, Stadtschulamt. Wir haben drei Eingangsbestätigungen bekommen. Sonst nichts.
+> 신청을 세 번 했어요. 공무 절차를 밟아서요. 교육청, 문화교육부, 시 교육국. 접수 확인서를 세 장 받았어요. 그게 다예요.
+KATHARINA: Darf ich die Bestätigungen sehen?
+> 그 확인서들 볼 수 있을까요?
+ENGEL: Gern. Ich habe sie gerahmt. Im Lehrerzimmer. Neben dem Kopierer.
+> 그럼요. 액자에 넣어 놨어요. 교무실에. 복사기 옆에.
+
+## 갈등 — AN DER LINIE VORBEI
+KATHARINA: Selin, wir machen das jetzt anders. Du schreibst heute Abend alle fünfzehn Schulämter an. Eine Abfrage: Wie viele Geräte liegen ungenutzt, warum, und was würde es kosten, sie in Betrieb zu nehmen. Antwort bis Freitag.
+> 셀린, 이제 다르게 하자. 오늘 저녁에 교육청 열다섯 곳에 다 보내. 조사 하나. 쓰이지 않는 기기가 몇 대고, 왜 그렇고, 가동하려면 얼마가 드는지. 금요일까지 답변.
+SELIN: Direkt aus der Staatskanzlei?
+> 주총리실에서 직접?
+KATHARINA: Direkt. Mit der Unterschrift des Planungsstabs. Wir haben keine sechs Wochen für den Dienstweg.
+> 직접. 기획실 서명으로. 공무 절차에 쓸 6주가 없어.
+TOBIAS: Katharina, bist du sicher? Die Schulämter gehören zum Kultusministerium.
+> 카타리나, 확실해? 교육청은 문화교육부 소속이잖아.
+KATHARINA: Es ist nur eine Abfrage. Eine Excel-Tabelle. Niemand stirbt an einer Excel-Tabelle.
+> 그냥 조사야. 엑셀 표 하나. 엑셀 표 때문에 죽는 사람은 없어.
+TOBIAS: Ich habe schon Vorstände an Excel-Tabellen sterben sehen. Politisch.
+> 난 엑셀 표 때문에 죽는 이사들을 봤는데. 정치적으로.
+SELIN: Ich schicke sie. Aber ich setze das Kultusministerium in Kopie.
+> 보낼게. 그래도 문화교육부는 참조로 넣을게.
+KATHARINA: In Kopie, gut. Hauptsache, sie geht heute raus.
+> 참조, 좋아. 중요한 건 오늘 나가는 거야.
+LOHMANN: Frau Dr. Brandt. Haben Sie gestern Abend fünfzehn Schulämter angeschrieben?
+> 브란트 박사님. 어젯밤 교육청 열다섯 곳에 공문 보내셨습니까?
+KATHARINA: Eine Abfrage, ja. Die ersten neun haben schon geantwortet. Wir haben in einer Nacht mehr Daten bekommen als in zwei Jahren über den Dienstweg.
+> 조사요, 네. 아홉 곳이 벌써 답했어요. 공무 절차로 2년 동안 받은 것보다 하룻밤에 더 많은 데이터를 받았어요.
+LOHMANN: Und Sie haben dabei die Kultusministerin übergangen. Die Ministerin einer Koalitionspartnerin. Sie ruft gerade bei der Ministerpräsidentin an. Nicht bei mir.
+> 그리고 그 과정에서 문화교육부 장관을 건너뛰셨죠. 연정 파트너 정당의 장관을요. 그분이 지금 주총리님께 전화하고 계십니다. 제가 아니라.
+BEHRENS: Henrike, ich will das nur einmal sagen. Die Schulämter sind meine Behörden. Wenn die Staatskanzlei an mir vorbei Anweisungen verteilt, ist das kein Versehen, sondern ein Misstrauensvotum.
+> 헨리케, 한 번만 말할게. 교육청은 내 관청이야. 주총리실이 나를 건너뛰고 지시를 뿌린다면 그건 실수가 아니라 불신임이야.
+HENRIKE: Johanna, es war eine Abfrage. Keine Anweisung.
+> 요한나, 그건 조사였어. 지시가 아니라.
+BEHRENS: Ein Brief mit dem Briefkopf der Staatskanzlei ist für jede Schulamtsleiterin eine Anweisung. Das weißt du. Meine Fraktion fragt, ob wir in dieser Koalition Partner sind oder Dekoration.
+> 주총리실 공문 서식이 박힌 편지는 교육청장 누구한테나 지시야. 너도 알잖아. 우리 의원단은 이 연정에서 우리가 파트너인지 장식품인지 묻고 있어.
+HENRIKE: Ihr seid Partner. Und ich kümmere mich darum. Heute noch.
+> 너희는 파트너야. 그리고 내가 처리할게. 오늘 안에.
+BEHRENS: Heute noch. Ich warte. Und Henrike — ich mag Frau Brandt. Aber sie ist nicht gewählt. Ich schon.
+> 오늘 안에. 기다릴게. 그리고 헨리케, 나 브란트 씨 좋아해. 하지만 그 사람은 선출된 사람이 아니야. 나는 선출됐고.
+HENRIKE: Frau Brandt. In mein Büro, bitte.
+> 브란트 씨. 제 방으로 오세요.
+KATHARINA: Ich weiß, was Sie sagen wollen.
+> 무슨 말씀 하실지 알아요.
+HENRIKE: Dann sage ich es trotzdem. Sie haben in drei Wochen erreicht, was die Opposition in drei Monaten nicht geschafft hätte: Die Koalition wackelt. Wegen einer Excel-Tabelle.
+> 그래도 말할게요. 야당이 석 달 동안 못 했을 일을 브란트 씨가 3주 만에 해냈어요. 연정이 흔들려요. 엑셀 표 하나 때문에.
+KATHARINA: Die Tabelle zeigt, dass in Hessen über elftausend Geräte ungenutzt in Kellern liegen. Das ist die Wahrheit, und die Wahrheit ist schnell gekommen.
+> 그 표는 헤센에서 기기 1만 1천 대 이상이 지하실에서 놀고 있다는 걸 보여 줘요. 그게 진실이고, 진실이 빨리 도착한 거예요.
+HENRIKE: Und zu einem Preis. Frau Brandt, Sie sind keine Beraterin mehr, die einen Bericht abgibt und geht. Sie sitzen in einer Regierung. Hier hat jede Abkürzung einen Besitzer.
+> 대가를 치르고요. 브란트 씨, 당신은 이제 보고서를 내고 떠나는 컨설턴트가 아니에요. 정부 안에 있어요. 여기선 모든 지름길에 주인이 있어요.
+KATHARINA: In meinem alten Beruf hätte man mich für die Abkürzung gelobt.
+> 예전 직업에서였다면 그 지름길 때문에 칭찬받았을 거예요.
+HENRIKE: In Ihrem alten Beruf mussten Sie am nächsten Tag nicht mit Frau Behrens in einer Kabinettssitzung sitzen. Ich schon. Jeden Dienstag. Fünf Jahre lang.
+> 예전 직업에선 다음 날 베렌스 장관과 같이 내각 회의에 앉아 있을 필요가 없었죠. 저는 앉아야 해요. 매주 화요일. 5년 동안.
+KATHARINA: Ich wollte Tempo machen. Die Leute haben uns gewählt, damit sich etwas bewegt.
+> 속도를 내고 싶었어요. 사람들은 뭔가 움직이라고 우리를 뽑았으니까요.
+HENRIKE: Sie haben auch Frau Behrens gewählt. Tempo, das die Koalition sprengt, bewegt gar nichts mehr.
+> 사람들은 베렌스 장관도 뽑았어요. 연정을 날려 버리는 속도는 아무것도 움직이지 못해요.
+SELIN: Darf ich etwas sagen? Ich habe die Abfrage verschickt. Es ist genauso meine Verantwortung.
+> 한마디 해도 될까요? 조사는 제가 보냈어요. 제 책임이기도 해요.
+HENRIKE: Das ehrt Sie, Frau Aydın. Aber die Unterschrift war nicht Ihre.
+> 그 마음은 고마워요, 아이든 씨. 하지만 서명은 당신 게 아니었죠.
+LOHMANN: Wenn ich mir eine Bemerkung erlauben darf: Das haben wir immer so gemacht — über das Ministerium. Nicht aus Bosheit, sondern weil sonst jedes Ressort seine eigene Abfrage verschickt und am Ende niemand mehr weiß, welche Zahl gilt.
+> 한 말씀 드려도 된다면, 우리는 늘 이렇게 해 왔습니다. 해당 부처를 거쳐서요. 악의가 아니라, 안 그러면 모든 부처가 각자 조사를 보내고 결국 어떤 숫자가 맞는지 아무도 모르게 되니까요.
+SELIN: Das haben wir immer so gemacht — genau deshalb liegen zweihundertneunzig Tablets in Griesheim im Keller.
+> 늘 이렇게 해 왔다. 바로 그래서 그리스하임 지하실에 태블릿 이백구십 대가 있는 거예요.
+LOHMANN: Junge Frau, die Tablets liegen im Keller, weil zwei Ebenen sich nicht einigen. Nicht weil es einen Dienstweg gibt.
+> 아가씨, 태블릿이 지하실에 있는 건 두 행정 단위가 합의를 못 해서입니다. 공무 절차가 있어서가 아니라.
+SELIN: Und wer sorgt dafür, dass sie sich einigen? Der Dienstweg?
+> 그럼 그 둘이 합의하게 만드는 건 누구죠? 공무 절차인가요?
+LOHMANN: Das ist eine gute Frage. Ich habe sie mir vor achtzehn Jahren auch gestellt. Damals hat sie niemand beantwortet.
+> 좋은 질문입니다. 저도 18년 전에 그 질문을 했죠. 그때는 아무도 대답하지 않았어요.
+KATHARINA: Was ist damals passiert?
+> 그때 무슨 일이 있었는데요?
+LOHMANN: Das erzähle ich Ihnen, wenn Sie bereit sind, zuzuhören, statt zu beschleunigen.
+> 가속하는 대신 들을 준비가 되시면 말씀드리죠.
+TOBIAS: Ich glaube, das war eine Einladung. In Beamtensprache.
+> 내 생각엔 그거 초대였어. 공무원 언어로.
+
+## 해결·설득 — DIE GRENZE DER BERATUNG
+KATHARINA: Frau Ministerpräsidentin, Sie haben recht. Ich habe mich verhalten wie eine Beraterin, die in einem fremden Haus die Möbel umstellt. Das Haus gehört aber nicht mir.
+> 주총리님, 맞는 말씀이에요. 남의 집에서 가구를 옮기는 컨설턴트처럼 굴었어요. 그런데 그 집은 제 것이 아니죠.
+HENRIKE: Und was folgt daraus?
+> 그래서 어떻게 할 건데요?
+KATHARINA: Ich entschuldige mich bei Frau Behrens. Persönlich, nicht schriftlich. Und ich bitte sie, die Abfrage als ihre eigene weiterzuführen. Die Daten gehören ihrem Haus.
+> 베렌스 장관께 사과할게요. 서면이 아니라 직접. 그리고 그 조사를 장관님 이름으로 이어 가 달라고 부탁할게요. 데이터는 그 부처의 것이니까요.
+HENRIKE: Gut. Das ist der richtige Weg.
+> 좋아요. 그게 맞는 길이에요.
+KATHARINA: Und ich muss etwas zugeben, das mir schwerfällt. In der Beratung kann man Empfehlungen schreiben. Umsetzen müssen sie die, die bleiben. Ich bin an die Grenze meines Berufs gekommen.
+> 그리고 인정하기 어려운 걸 하나 인정해야겠어요. 자문에서는 권고안을 쓸 수 있어요. 하지만 실행은 남는 사람들이 해야 하죠. 저는 제 직업의 한계에 닿았어요.
+BEHRENS: Frau Brandt. Sie wollten mich sprechen.
+> 브란트 씨. 저를 보자고 하셨다고요.
+KATHARINA: Frau Ministerin, ich habe einen Fehler gemacht. Ich habe Ihre Behörden angeschrieben, ohne Sie zu fragen. Das tut mir leid. Nicht weil es Ärger gab, sondern weil es falsch war.
+> 장관님, 제가 실수했습니다. 장관님께 여쭙지도 않고 장관님 관청에 공문을 보냈어요. 죄송합니다. 문제가 생겨서가 아니라, 그게 잘못이었기 때문에요.
+BEHRENS: Das ist eine ungewöhnlich klare Entschuldigung. In der Politik hört man meistens: „Es tut mir leid, wenn sich jemand verletzt gefühlt hat."
+> 보기 드물게 분명한 사과네요. 정치판에선 대개 '누군가 상처받았다면 유감입니다'라고들 하거든요.
+KATHARINA: Diesen Satz habe ich im Wahlkampf verboten.
+> 그 문장은 선거운동 때 제가 금지했어요.
+BEHRENS: Gut. Dann zeige ich Ihnen etwas. Die Antworten der Schulämter sind auch bei mir angekommen. Elftausendvierhundert Geräte. Ich wusste das auch nicht.
+> 좋아요. 그럼 뭘 좀 보여 드리죠. 교육청들 답변이 저한테도 왔어요. 1만 1천4백 대. 저도 몰랐어요.
+LOHMANN: Darf ich jetzt von damals erzählen?
+> 이제 그때 얘기를 해도 되겠습니까?
+KATHARINA: Bitte, Herr Dr. Lohmann. Ich höre zu.
+> 부탁드려요, 로만 박사님. 듣고 있어요.
+LOHMANN: Damals habe ich eine Vereinbarung zwischen Land und Kommunen entworfen. Das Land bezahlt einen Teil der IT-Betreuung, die Kommunen stellen das Personal. Ein Rahmenvertrag, einmal verhandelt, für alle gültig. Er ist gescheitert, weil zwei Ministerien sich nicht einigen konnten, wer ihn unterschreibt.
+> 그때 주와 지자체 사이의 협약안을 하나 만들었습니다. 주가 IT 관리 비용의 일부를 내고, 지자체가 인력을 배치한다. 한 번 협상하면 모두에게 적용되는 기본 협약이었죠. 누가 서명하느냐를 두고 두 부처가 합의를 못 해서 무산됐습니다.
+TOBIAS: Und wie viel hätte er gekostet?
+> 그럼 비용은 얼마였을까요?
+LOHMANN: Damals acht Millionen im Jahr. Heute wären es vielleicht vierzehn.
+> 당시엔 연 8백만. 지금이면 아마 1천4백만쯤일 겁니다.
+TOBIAS: Bei elftausendvierhundert ungenutzten Geräten zu je vierhundert Euro liegen über viereinhalb Millionen im Keller. Und jedes Jahr veralten sie weiter. Der Vertrag rechnet sich in vier Jahren. Ohne die Pädagogik mitzurechnen.
+> 쓰이지 않는 기기 1만 1천4백 대, 대당 4백 유로면 지하실에 450만 유로 넘게 잠들어 있어요. 그리고 해마다 더 구형이 되죠. 그 협약은 4년이면 본전을 뽑아요. 교육 효과는 빼고 계산해도요.
+BEHRENS: Und wer unterschreibt diesmal?
+> 그럼 이번엔 누가 서명하죠?
+LOHMANN: Sie, Frau Ministerin. Und der Präsident des Städtetags. Die Staatskanzlei moderiert nur. Dann hat jedes Glied der Kette seinen eigenen Namen auf dem Papier. Das ist der Dienstweg, richtig benutzt.
+> 장관님이요. 그리고 도시협의회 회장. 주총리실은 중재만 합니다. 그럼 사슬의 고리마다 자기 이름이 문서에 올라가죠. 그게 제대로 쓴 공무 절차입니다.
+SELIN: Und die Assistenzkräfte? Maßnahme sieben?
+> 그럼 보조 인력은요? 조치 7번?
+LOHMANN: Im Schulgesetz steht seit Jahren eine Experimentierklausel. Schulen dürfen für eine begrenzte Zeit neue Organisationsformen erproben. Niemand hat sie je benutzt. Mit ihr bräuchten Sie für ein Pilotjahr kein neues Gesetz, nur einen Erlass der Kultusministerin.
+> 학교법에는 몇 년 전부터 실험 조항이 하나 있습니다. 학교가 한시적으로 새로운 운영 형태를 시험할 수 있다는 조항이죠. 아무도 써 본 적이 없어요. 그걸 쓰면 시범 1년에는 새 법이 필요 없습니다. 문화교육부 장관의 훈령 하나면 돼요.
+KATHARINA: Und das hätten Sie mir auch am Montag sagen können.
+> 그건 월요일에도 말씀해 주실 수 있었잖아요.
+LOHMANN: Am Montag haben Sie mir einen Plan mit vierzig Maßnahmen geschickt, Frau Dr. Brandt. Nicht eine einzige Frage.
+> 월요일에 박사님은 조치 마흔 개짜리 계획을 보내셨죠, 브란트 박사님. 질문은 단 하나도 없이.
+KATHARINA: … Touché.
+> …한 방 먹었네요.
+BEHRENS: Dann machen wir es so. Erlass aus meinem Haus, Pilot an sechzig Schulen ab Herbst, Rahmenvertrag mit den Kommunen bis Jahresende. Und Griesheim ist die erste Schule.
+> 그럼 그렇게 하죠. 우리 부처에서 훈령, 가을부터 학교 예순 곳에서 시범 운영, 연말까지 지자체와 기본 협약. 그리고 첫 학교는 그리스하임이에요.
+DEMIR: Heißt das, ich muss nicht mehr nachts Router neu starten?
+> 그 말은 이제 밤에 라우터 재부팅 안 해도 된다는 거예요?
+SELIN: Es heißt, dass es dafür bald jemanden gibt, der bezahlt wird. Und Sie können wieder Mathe unterrichten.
+> 그걸 하는 데 곧 돈 받는 사람이 생긴다는 뜻이에요. 그리고 선생님은 다시 수학을 가르치시면 되고요.
+DEMIR: Mathe. Das letzte Mal, dass ich eine ganze Stunde Mathe unterrichtet habe, war vor den Herbstferien.
+> 수학이라. 마지막으로 한 시간 내내 수학을 가르친 게 가을방학 전이었어요.
+ENGEL: Dann hänge ich die drei Eingangsbestätigungen ab und hänge den Erlass auf. Gerahmt.
+> 그럼 접수 확인서 세 장은 떼고 훈령을 걸어야겠네요. 액자에 넣어서.
+
+## 마무리 — UNWETTERWARNUNG
+LOHMANN: Frau Dr. Brandt, Sie lernen schnell. Für eine Beraterin.
+> 브란트 박사님, 빨리 배우시는군요. 컨설턴트치고는.
+KATHARINA: Und Sie sind gar nicht so langsam, Herr Dr. Lohmann. Für einen Beamten.
+> 그리고 박사님도 그렇게 느리지 않으시네요, 로만 박사님. 공무원치고는.
+LOHMANN: Ich war damals schnell. Ich habe nur achtzehn Jahre auf jemanden gewartet, der mir zuhört.
+> 저는 그때 빨랐습니다. 다만 제 말을 들어 줄 사람을 18년 동안 기다렸을 뿐이죠.
+HENRIKE: Frau Brandt, darf ich Ihren Kalenderspruch ändern? Ein Wahlkampf dauert Monate, die Verwaltung Jahrzehnte. Aber eine gute Idee hält beides aus.
+> 브란트 씨, 그 격언 좀 고쳐도 될까요? 선거는 몇 달, 행정은 수십 년. 하지만 좋은 아이디어는 그 둘을 다 견뎌 낸다.
+LOHMANN: Den lasse ich drucken. Unter meinen.
+> 그건 인쇄하겠습니다. 제 것 밑에.
+TOBIAS: Ich fahre morgen zurück nach Berlin, Paul braucht mich bei einer Prüfung. Aber ruft mich an, wenn jemand wieder Restmittel findet.
+> 나는 내일 베를린으로 돌아가. 폴이 감사 건에 내가 필요하대. 그래도 누가 또 잔여 예산 찾으면 전화해.
+HENRIKE: Moment. Mein Handy. Der Deutsche Wetterdienst hat eine Unwetterwarnung herausgegeben. Stufe vier, extremes Unwetter. Für den Main-Kinzig-Kreis und Offenbach.
+> 잠깐만요. 제 휴대폰이요. 독일 기상청이 악천후 경보를 발령했어요. 4단계, 극한 악천후. 마인킨치히 군과 오펜바흐에.
+LOHMANN: Stufe vier. Das hatten wir in Hessen erst zweimal.
+> 4단계. 헤센에서 지금까지 두 번밖에 없었던 일입니다.
+SELIN: Die Modelle zeigen bis zu hundertfünfzig Liter pro Quadratmeter in vierundzwanzig Stunden. Die Kinzig ist schon jetzt voll.
+> 모델상으론 24시간 동안 제곱미터당 최대 150리터예요. 킨치히강은 벌써 가득 찼어요.
+HENRIKE: Herr Lohmann, berufen Sie den Krisenstab ein. Heute Abend.
+> 로만 국장님, 위기대응본부를 소집해 주세요. 오늘 저녁에.
+LOHMANN: Über den Dienstweg, Frau Ministerpräsidentin?
+> 공무 절차를 밟아서요, 주총리님?
+HENRIKE: Diesmal über das Telefon, Herr Lohmann. Und zwar sofort.
+> 이번엔 전화로요, 국장님. 그것도 지금 당장.

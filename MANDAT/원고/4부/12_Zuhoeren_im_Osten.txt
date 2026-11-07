@@ -1,0 +1,270 @@
+part: 4
+ep: 12
+title_de: Zuhören im Osten
+title_ko: 동쪽에서 듣기
+scene: 베를린 마르찬-헬러스도르프 주민센터 → 브란덴부르크 소도시 린덴브뤼크의 여관
+level: C1
+setting: 선거 40일 전 토요일, 오전에는 베를린 마르찬-헬러스도르프의 조립식 아파트 단지 주민센터, 오후부터 밤까지 브란덴부르크 프리그니츠 지역의 가상 소도시 린덴브뤼크(Lindenbrück)의 여관 홀
+cast: TOBIAS | Tobias Wendt · 공약 재원·예산 검증 담당, 라이프치히 출신
+cast: KATHARINA | Dr. Katharina Brandt · 연방 선거캠프 총괄 전략가
+cast: SELIN | Selin Aydın · 디지털 캠페인·여론 분석 총괄
+cast: HENRIKE | Dr. Henrike Sommer · Neue Mitte 총리 후보
+cast: UTE | Ute Hennig · 베를린 캠프 사무실 책임자, 동베를린 출신
+cast: RENATE | Renate · 마르찬 주민, 동독 시절 탁아소 보육교사 출신 연금생활자 (72)
+cast: MANDY | Mandy · 마르찬 주민, 마트 계산원, 한부모 (38)
+cast: WOLF | Kathrin Wolf · 린덴브뤼크 시장(Bürgermeisterin) (가상)
+cast: MARCEL | Marcel · 린덴브뤼크의 전기 기사, 베궁 하이마트 지지자 (31)
+cast: SCHULZE | Hartmut Schulze · 전 국영 콤비나트 교대조장, 연금생활자 (67)
+cast: BRIGITTE | Brigitte Wendt · 토비아스의 어머니, 라이프치히 (전화)
+note: ※ 1990년 독일 통일(Wiedervereinigung) 이후 옛 동독 지역은 큰 변화를 겪었습니다. 국영 기업을 민영화한 신탁청(Treuhandanstalt) 시기에 그 기업들의 일자리 약 400만 개 가운데 남은 것은 150만 개 정도였고, 수백만 명이 서쪽으로 이주(Abwanderung)했습니다. 특히 젊은 여성이 많이 떠나 일부 농촌 지역은 고령화가 심합니다. 연금 산정 기준값은 이제 동서가 같지만, 평균 임금은 여전히 동쪽이 눈에 띄게 낮고, 상속 재산과 기업 연금의 차이 때문에 노후 소득 격차(Kluft)도 남아 있습니다. 동독 출신이 정치·경제·학계의 고위직에서 인구 비율보다 훨씬 적다는 점도 '인정(Anerkennung)'의 문제로 자주 거론됩니다. 동독 시절의 학력·자격이 통일 뒤 제대로 인정받지 못한 경험도 많은 사람의 기억에 남아 있습니다. 동쪽의 포퓰리즘 지지를 '낙오'로만 설명하는 시각에 대해 주민들이 반발하는 장면을 눈여겨보세요. 등장하는 마을·인물·수치는 가상입니다. 표현 초점: die Wiedervereinigung, die Abwanderung, die Anerkennung, die Kluft, Wir sind nicht abgehängt. Wir wurden nicht gefragt.
+next: 4부 13화 — «Die Akte»(파일) — 상대 진영이 '파일'을 언론에 흘린다. Henrike의 남편 회사가 과거 위기 때 공공 계약을 받았다는 것. 사실관계는 복잡하다. Katharina는 '모든 서류 공개'를 제안하고, Henrike는 망설인다.
+
+## 도입 — DIE REGELN
+TOBIAS: Bevor wir aussteigen, drei Regeln. Erstens: Niemand sagt „die neuen Länder". Sie sind seit über dreißig Jahren nicht mehr neu.
+> 내리기 전에 규칙 세 가지. 첫째, 아무도 '새 주들'이라는 말 하지 마. 새로워진 지 30년이 넘었으니까.
+SELIN: Okay. Zweitens?
+> 알았어. 둘째는?
+TOBIAS: Zweitens: Niemand sagt „abgehängt". Drittens: Niemand erklärt irgendwem irgendetwas. Wir sind hier, um zu hören, nicht um zu senden.
+> 둘째, 아무도 '낙오됐다'는 말 하지 마. 셋째, 아무도 누구한테 뭘 설명하지 마. 우리는 송신하러 온 게 아니라 들으러 온 거야.
+HENRIKE: Und wenn mich jemand direkt fragt?
+> 누가 저한테 직접 물으면요?
+TOBIAS: Dann antworten Sie kurz und fragen zurück. Und Sie sagen nie: „Ich verstehe Sie." Das sagen alle. Hier glaubt das niemand mehr.
+> 그럼 짧게 대답하시고 되물으세요. 그리고 절대 '이해합니다'라고 하지 마세요. 다들 그 말을 해요. 여기선 이제 아무도 안 믿어요.
+KATHARINA: Tobias, du bist nervös.
+> 토비아스, 너 긴장했구나.
+TOBIAS: Ich bin nicht nervös. Ich bin zu Hause. Das ist schlimmer.
+> 긴장한 거 아니야. 집에 온 거야. 그게 더 나빠.
+UTE: Marzahn ist nicht Leipzig, Tobias.
+> 마르찬은 라이프치히가 아니야, 토비아스.
+TOBIAS: Nein. Aber die Blicke sind dieselben. Gleich werden sie uns ansehen und denken: Schon wieder welche aus dem Westen, die uns etwas erklären wollen.
+> 그렇지. 하지만 눈빛은 똑같아. 곧 우리를 보면서 생각할 거야. 또 서쪽에서 우리한테 뭘 설명하러 온 사람들이구나.
+UTE: Dann sorgen wir dafür, dass sie sich irren. Ich gehe vor. Mich kennen sie. Ich bin hier zur Schule gegangen.
+> 그럼 그 생각이 틀리게 만들면 돼. 내가 앞장설게. 날 아는 사람들이야. 나 여기서 학교 다녔거든.
+HENRIKE: Sie sind aus Marzahn, Frau Hennig?
+> 헤니히 씨가 마르찬 출신이에요?
+UTE: Hellersdorf. Det ist für die Leute hier ein großer Unterschied. Für Sie nicht. Kommen Sie.
+> 헬러스도르프요. 여기 사람들한텐 그게 큰 차이예요. 주총리님한텐 아니겠지만. 가시죠.
+
+## 분석 — WAS FEHLT?
+RENATE: Ute Hennig! Du hier? Mit der Kanzlerkandidatin?
+> 우테 헤니히! 네가 여기 웬일이야? 총리 후보랑?
+UTE: Renate. Ick arbeite jetzt für die. Guck nicht so. Die ist in Ordnung.
+> 레나테. 나 요즘 이 사람들이랑 일해. 그렇게 보지 마. 괜찮은 사람이야.
+RENATE: Das haben alle gesagt, die hier waren. Frau Sommer, ich war dreißig Jahre Krippenerzieherin. Nach der Wiedervereinigung hieß es, meine Ausbildung zählt nicht. Ich musste mit vierzig noch einmal eine Prüfung machen, um die Arbeit weiterzumachen, die ich zwanzig Jahre lang gemacht hatte.
+> 여기 왔던 사람들이 다 그렇게 말했지. 조머 씨, 나는 30년 동안 탁아소 보육교사였어요. 통일 뒤엔 내 자격이 인정이 안 된다더군요. 20년 동안 해 온 일을 계속하려고 마흔에 시험을 다시 봐야 했어요.
+HENRIKE: Was hat das mit Ihnen gemacht?
+> 그게 어떠셨어요?
+RENATE: Ich war plötzlich jemand, der nichts konnte. Obwohl ich es seit zwanzig Jahren konnte. Das vergisst man nicht. Das ist nicht Geld. Das ist Anerkennung.
+> 갑자기 아무것도 못 하는 사람이 됐죠. 20년째 할 줄 알았는데도. 그건 안 잊혀요. 그건 돈 문제가 아니에요. 인정의 문제지.
+MANDY: Und bei mir ist es das Geld. Ich arbeite an der Kasse, genau wie meine Cousine in Hamburg. Sie verdient vierhundert Euro mehr. Für dieselbe Arbeit, am selben Band, bei derselben Kette.
+> 저한텐 돈 문제예요. 저는 마트 계산대에서 일해요. 함부르크 사는 사촌이랑 똑같이요. 그런데 사촌이 4백 유로를 더 벌어요. 같은 일, 같은 계산대, 같은 체인점에서.
+SELIN: Der Tarifvertrag im Einzelhandel ist regional unterschiedlich. Das ist …
+> 소매업 단체협약이 지역마다 달라서 그런 건데요, 그건…
+TOBIAS: Selin.
+> 셀린.
+SELIN: Entschuldigung. Ich erkläre schon wieder.
+> 미안. 또 설명하고 있네.
+MANDY: Nee, ist schon gut. Ich weiß, warum es so ist. Ich verstehe nur nicht, warum es nach dreißig Jahren immer noch so ist.
+> 아뇨, 괜찮아요. 왜 그런지는 알아요. 그게 왜 30년이 지나도 여전히 그런지를 모르겠다는 거예요.
+HENRIKE: Und was müsste passieren, damit Sie das Gefühl haben, es ändert sich?
+> 그럼 뭐가 일어나야 바뀌고 있다고 느끼시겠어요?
+MANDY: Dass mal einer von uns entscheidet. Nicht nur einer, der uns besucht.
+> 우리 중 누군가가 결정하는 거요. 우리를 방문만 하는 사람 말고.
+UTE: Det hat sie gut gesagt. Det sagt hier jeder, aber selten so kurz.
+> 잘 말했다. 여기선 다들 그 말을 하는데, 이렇게 짧게 하는 사람은 드물어.
+KATHARINA: Was sagen die Zahlen dazu, Tobias? Kurz.
+> 숫자로는 어때, 토비아스? 짧게.
+TOBIAS: Löhne im Osten im Schnitt immer noch etwa ein Sechstel niedriger. Vermögen pro Haushalt ungefähr halb so hoch. Wer hier erbt, erbt weniger. Und in den Chefetagen, auch hier im Osten, sitzen überwiegend Menschen aus dem Westen.
+> 동쪽 임금은 평균적으로 아직도 약 6분의 1 낮아. 가구당 자산은 절반 정도. 여기서 상속받는 사람은 덜 받고. 그리고 경영진 자리엔, 여기 동쪽에서도, 대부분 서쪽 출신이 앉아 있어.
+SELIN: Und die Renten?
+> 그럼 연금은?
+TOBIAS: Der Rentenwert ist inzwischen in Ost und West gleich. Aber weil die Löhne niedriger waren und es kaum Betriebsrenten gibt, ist das Alterseinkommen trotzdem kleiner. Die Kluft ist nicht im Gesetz. Sie ist in den Biografien.
+> 연금 산정 기준값은 이제 동서가 같아. 하지만 임금이 낮았고 기업 연금이 거의 없으니까 노후 소득은 여전히 적지. 격차는 법에 있는 게 아니야. 인생 이력에 있지.
+HENRIKE: Die Kluft ist in den Biografien. Das schreibe ich mir auf.
+> 격차는 인생 이력에 있다. 적어 둘게요.
+TOBIAS: Bitte nicht. Merken Sie es sich einfach.
+> 적지 마세요. 그냥 기억하세요.
+RENATE: Der junge Mann gefällt mir. Der redet wie mein Enkel.
+> 저 젊은이 마음에 드네. 우리 손자처럼 말해.
+UTE: Det ist Tobias. Der rechnet alles. Aber er merkt sich auch alles.
+> 토비아스야. 뭐든 계산해. 그런데 뭐든 기억하기도 해.
+WOLF: Willkommen in Lindenbrück. Dreitausendachthundert Einwohner. Neunzehnhundertneunzig waren es sechstausendzweihundert.
+> 린덴브뤼크에 오신 걸 환영합니다. 주민 3,800명. 1990년엔 6,200명이었어요.
+KATHARINA: Wohin sind die anderen gegangen?
+> 나머지는 어디로 갔나요?
+WOLF: Die Abwanderung ging nach Hamburg, nach München, nach Stuttgart. Vor allem die jungen Frauen. Die Männer sind länger geblieben, weil sie auf das Werk gewartet haben. Erst auf das alte. Dann auf das neue.
+> 함부르크로, 뮌헨으로, 슈투트가르트로 빠져나갔어요. 특히 젊은 여자들이. 남자들은 공장을 기다리느라 더 오래 남았죠. 처음엔 옛 공장을, 그다음엔 새 공장을.
+HENRIKE: Das neue Werk?
+> 새 공장이요?
+WOLF: Eine Batteriezellenfabrik. Zweitausend Arbeitsplätze. Angekündigt mit Ministern, Bändern und Sekt. Vor drei Jahren hat der Investor abgesagt. Die Fläche ist erschlossen, die Straße ist gebaut. Da wächst jetzt Raps.
+> 배터리 셀 공장이요. 일자리 2천 개. 장관들 오고, 테이프 커팅하고, 샴페인 터뜨리면서 발표했죠. 3년 전에 투자자가 취소했어요. 부지는 조성됐고, 도로도 놨어요. 지금은 거기 유채가 자라요.
+SELIN: Das war der Fall, über den die Bundespresse zwei Tage berichtet hat.
+> 그게 연방 언론이 이틀 보도했던 사건이구나.
+WOLF: Zwei Tage. Wir leben seit drei Jahren damit.
+> 이틀이요. 우리는 3년째 그걸 안고 살아요.
+SCHULZE: Und davor war es das Kombinat. Ich war Schichtleiter, achtzehnhundert Leute. 1991 kam einer von der Treuhand, ein junger Mann aus Düsseldorf mit einem sehr schönen Anzug. Er hat uns in der Kantine erklärt, warum wir nicht wettbewerbsfähig sind. Er hat zwanzig Minuten geredet. Er hat keine einzige Frage gestellt.
+> 그 전엔 콤비나트였소. 나는 교대조장이었고, 천팔백 명이었지. 1991년에 신탁청에서 한 사람이 왔소. 아주 멋진 양복을 입은 뒤셀도르프 출신 젊은이였지. 구내식당에서 우리가 왜 경쟁력이 없는지 설명하더군. 20분을 떠들었소. 질문은 하나도 안 했고.
+TOBIAS: Hatte er recht? Mit der Wettbewerbsfähigkeit?
+> 그 사람 말이 맞았나요? 경쟁력에 대해서는?
+SCHULZE: Teilweise. Die Maschinen waren alt. Aber ein paar Sachen hätten wir retten können, wenn uns einer gefragt hätte. Wir kannten das Werk. Er kannte die Tabelle.
+> 일부는. 기계는 낡았었소. 하지만 누가 우리한테 물어봤더라면 몇 가지는 살릴 수 있었을 거요. 우리는 공장을 알았고, 그 사람은 표를 알았지.
+KATHARINA: Er kannte die Tabelle.
+> 그 사람은 표를 알았다.
+TOBIAS: So war es bei meinem Vater auch. In Leipzig. Nur dass der Mann aus Köln kam.
+> 우리 아버지 때도 그랬어요. 라이프치히에서. 그 사람은 쾰른에서 왔다는 것만 다르고요.
+
+## 갈등 — ABGEHÄNGT?
+MARCEL: Darf ich auch mal was sagen? Oder ist das hier nur für die Alten?
+> 저도 한마디 해도 돼요? 아니면 여긴 어르신들만 하는 자리예요?
+WOLF: Marcel, natürlich.
+> 마르셀, 당연하지.
+MARCEL: Ich bin Elektriker. Ich hatte schon einen Vorvertrag bei der Batteriefabrik. Ich habe meinen alten Job gekündigt, weil die gesagt haben, in sechs Monaten geht es los. Dann war es vorbei. Kein Brief, kein Anruf. Ich habe es im Radio gehört.
+> 저는 전기 기사예요. 배터리 공장이랑 가계약까지 했었어요. 6개월 뒤면 시작한다고 해서 원래 다니던 직장도 그만뒀어요. 그러고 끝났죠. 편지도, 전화도 없이. 라디오로 들었어요.
+HENRIKE: Das tut mir …
+> 그건 정말…
+TOBIAS: Frau Sommer.
+> 조머 후보님.
+HENRIKE: … Erzählen Sie weiter.
+> …계속 말씀해 주세요.
+MARCEL: Und deshalb wähle ich die Bewegung Heimat. Ich sag's offen. Nicht weil ich alles gut finde, was die sagen. Sondern weil die die Einzigen sind, die hier überhaupt vorkommen. Die anderen kommen alle vier Jahre mit einem Bus und fahren wieder weg.
+> 그래서 저는 베궁 하이마트를 찍어요. 솔직히 말할게요. 그 사람들 말이 다 좋아서가 아니에요. 여기 얼굴이라도 비추는 사람들이 그쪽밖에 없어서예요. 나머지는 다 4년에 한 번 버스 타고 왔다가 다시 가 버려요.
+SCHULZE: Ich wähle die nicht. Aber ich verstehe den Jungen. Wer nie gefragt wird, wählt irgendwann die, die am lautesten antworten.
+> 나는 그쪽 안 찍소. 하지만 저 젊은이는 이해하오. 한 번도 질문받지 못한 사람은 결국 가장 크게 대답하는 쪽을 찍게 되지.
+SELIN: Katharina, ich habe die Analyse für den Bundesvorstand dabei. Darin steht, die Region gilt als strukturschwach und abgehängt, mit einer Zustimmung zur Bewegung Heimat von …
+> 카타리나, 연방 집행부용 분석 자료 가져왔어. 거기 이 지역이 구조적으로 취약하고 낙오된 지역으로 분류되고, 베궁 하이마트 지지율이…
+MARCEL: Abgehängt. Da ist es wieder. Sie sitzen in Berlin und schreiben „abgehängt" in ein Papier über uns.
+> 낙오됐다. 또 나왔네. 당신들은 베를린에 앉아서 우리에 관한 서류에 '낙오됐다'고 쓰는 거죠.
+SELIN: Das ist ein Fachbegriff aus der Regionalforschung, nicht böse gemeint …
+> 그건 지역 연구에서 쓰는 전문 용어예요, 나쁜 뜻이 아니라…
+MARCEL: Nein, hören Sie mal zu. Wir sind nicht abgehängt. Wir wurden nicht gefragt. Das ist ein Unterschied. Abgehängt klingt, als wären wir zu langsam gewesen. Wir waren nicht zu langsam. Über uns wurde entschieden.
+> 아뇨, 들어 보세요. 우리는 낙오된 게 아니에요. 아무도 우리한테 묻지 않았던 거예요. 그건 달라요. 낙오됐다고 하면 우리가 너무 느렸던 것처럼 들리잖아요. 우리는 느리지 않았어요. 누가 우리를 두고 결정했던 거지.
+TOBIAS: Selin. Leg das Papier weg. Bitte.
+> 셀린. 그 서류 치워. 부탁이야.
+SELIN: Ich wollte nur …
+> 나는 그냥…
+TOBIAS: Ich weiß, was du wolltest. Ihr wollt alle nur. Ihr wollt helfen, ihr wollt analysieren, ihr wollt erklären. Und ihr redet über uns wie über eine Krankheit, für die man die richtige Therapie finden muss.
+> 네가 뭘 하려 했는지 알아. 너희는 다 '그냥' 하려는 거지. 돕고 싶고, 분석하고 싶고, 설명하고 싶고. 그리고 우리 얘기를 맞는 치료법을 찾아야 하는 병처럼 해.
+KATHARINA: Tobias, nicht hier.
+> 토비아스, 여기서는 아니야.
+TOBIAS: Doch, hier. Gerade hier. Katharina, du hast heute Morgen einen Entwurf für eine Pressemitteilung geschrieben. „Sommer kündigt Ost-Offensive an." Ich habe ihn gelesen. Bevor wir einem einzigen Menschen hier zugehört hatten.
+> 아니, 여기서. 바로 여기서. 카타리나, 너 오늘 아침에 보도자료 초안 썼지. '조머, 동부 공세 발표.' 읽었어. 우리가 여기 사람 한 명 얘기도 듣기 전에.
+KATHARINA: Weil Reuter heute Mittag seine „Ost-Milliarde" verkündet. Wir brauchen eine Antwort für die Abendnachrichten.
+> 오늘 정오에 로이터가 '동부 10억'을 발표하니까. 저녁 뉴스용 답이 필요해.
+TOBIAS: Eine Milliarde. Verkündet in einem Saal in Berlin. Weißt du, wie viele Milliarden hier schon verkündet wurden? Die Leute hier haben keine Milliarde gebraucht. Sie haben jemanden gebraucht, der ihnen nach dem Radio einen Brief schreibt.
+> 10억이라. 베를린의 한 회의실에서 발표하는. 여기서 이미 몇십억이 발표됐는지 알아? 여기 사람들한테 필요했던 건 10억이 아니야. 라디오 뉴스 뒤에 편지 한 장 써 줄 사람이었지.
+KATHARINA: Und wenn wir heute Abend nichts sagen, steht morgen überall: Reuter handelt, Sommer schweigt.
+> 그리고 우리가 오늘 밤 아무 말도 안 하면, 내일 사방에 이렇게 나올 거야. 로이터는 행동하고, 조머는 침묵한다.
+TOBIAS: Dann soll es da stehen. Lieber einen Tag schweigen als dreißig Jahre lang falsch reden.
+> 그럼 그렇게 나오라고 해. 30년 동안 틀린 말을 하느니 하루 침묵하는 게 나아.
+UTE: Kinder. Hört auf. Alle beide.
+> 얘들아. 그만해. 둘 다.
+KATHARINA: Ute, du verstehst das nicht. Es geht um die Nachrichtenlage.
+> 우테, 넌 이해 못 해. 뉴스 흐름이 걸린 문제야.
+UTE: Ick verstehe det sehr gut, Katharina. Ick hab 1990 auch eine Nachrichtenlage erlebt. Die hieß „blühende Landschaften". Wir haben uns gefreut. Dann kam der Brief vom Arbeitsamt. Det war meine Nachrichtenlage.
+> 아주 잘 이해해, 카타리나. 나도 1990년에 뉴스 흐름이란 걸 겪어 봤어. 이름이 '꽃피는 풍경'이었지. 다들 좋아했어. 그다음엔 노동청에서 편지가 왔고. 그게 내 뉴스 흐름이었어.
+SCHULZE: Die Frau hat recht.
+> 저 여자분 말이 맞소.
+MARCEL: Und Ihr Kollege auch. Der redet wie einer von hier.
+> 그리고 저 동료분 말도 맞아요. 여기 사람처럼 말하네.
+TOBIAS: Ich bin von hier. Leipzig-Grünau. Plattenbau, elfter Stock. Meine Mutter hat dreimal umgeschult. Mein Vater ist mit dreiundfünfzig nie wieder richtig in Arbeit gekommen. Und ich bin nach Frankfurt gegangen und habe gelernt, so zu reden, dass niemand merkt, woher ich komme.
+> 나 여기 출신이에요. 라이프치히 그뤼나우. 조립식 아파트 11층. 우리 엄마는 직업 재교육을 세 번 받았고. 아버지는 쉰셋에 일을 잃고 다시는 제대로 된 일자리를 못 구했어요. 그리고 나는 프랑크푸르트로 가서 어디 출신인지 아무도 모르게 말하는 법을 배웠죠.
+MARCEL: Und? Hat's geklappt?
+> 그래서요? 통했어요?
+TOBIAS: Zu gut. Bis heute.
+> 너무 잘 통했죠. 오늘까지.
+WOLF: Das haben Sie uns vorhin nicht erzählt.
+> 아까는 그 얘기 안 하셨잖아요.
+TOBIAS: Ich erzähle es selten. Im Westen klingt es wie eine Ausrede. Hier klingt es wie ein Lebenslauf.
+> 잘 안 해요. 서쪽에선 변명처럼 들리거든요. 여기선 그냥 이력서처럼 들리고요.
+HENRIKE: Katharina, die Pressemitteilung geht heute nicht raus.
+> 카타리나, 보도자료는 오늘 안 나가.
+KATHARINA: Henrike …
+> 헨리케…
+HENRIKE: Ich habe entschieden. Heute keine Ankündigung, keine Milliarde, keine Offensive. Heute höre ich zu. So lange, wie die Leute hier reden wollen.
+> 결정했어. 오늘은 발표도, 10억도, 공세도 없어. 오늘은 들어. 여기 사람들이 얘기하고 싶은 만큼.
+KATHARINA: … In Ordnung. Du hast recht. Ihr beide habt recht. Ich habe schon wieder schneller gedacht als zugehört.
+> …알았어. 네 말이 맞아. 둘 다 맞아. 또 듣기보다 생각이 앞섰어.
+
+## 해결·설득 — DREI STUNDEN
+WOLF: Frau Sommer, die Leute fragen, ob Sie noch eine Rede halten.
+> 조머 후보님, 사람들이 연설은 안 하시냐고 물어요.
+HENRIKE: Nein. Ich habe eine Bitte. Wer möchte, erzählt mir, was in Lindenbrück fehlt. Und was hier gut ist. Ich schreibe nichts auf und ich antworte nicht. Ich höre nur zu. So lange, bis niemand mehr etwas sagen will.
+> 아니요. 부탁이 하나 있어요. 원하시는 분은 린덴브뤼크에 뭐가 부족한지, 그리고 여기 뭐가 좋은지 말씀해 주세요. 저는 받아 적지도, 대답하지도 않을 거예요. 듣기만 할게요. 아무도 더 말하고 싶지 않을 때까지.
+SCHULZE: Das hat hier noch keiner gemacht.
+> 여기서 그런 사람은 아직 없었소.
+MARCEL: Und wenn wir drei Stunden lang nur schimpfen?
+> 우리가 세 시간 내내 욕만 하면요?
+HENRIKE: Dann höre ich drei Stunden lang zu, wie Sie schimpfen.
+> 그럼 세 시간 내내 욕하시는 걸 들을게요.
+WOLF: Es ist halb vier.
+> 세 시 반이에요.
+SELIN: Es ist halb sieben. Drei Stunden. Einundvierzig Wortmeldungen. Sie hat nicht ein einziges Mal unterbrochen.
+> 여섯 시 반이에요. 세 시간. 발언 마흔한 건. 한 번도 말을 끊지 않으셨어요.
+UTE: Ick hab gesehen, wie sie bei dem Busfahrer fast was gesagt hätte. Hat sich auf die Lippe gebissen. Respekt.
+> 버스 기사 얘기할 때 뭐라고 할 뻔하는 거 봤어. 입술을 깨물더라. 존경스러워.
+KATHARINA: Ich habe in drei Stunden mehr über dieses Land gelernt als in zwanzig Jahren Beratung.
+> 세 시간 동안 20년 컨설팅보다 이 나라에 대해 더 많이 배웠어.
+TOBIAS: Dann weißt du jetzt, wie sich ein erster Tag anfühlt.
+> 그럼 이제 첫날이 어떤 기분인지 알겠네.
+WOLF: Frau Sommer, jetzt sind Sie dran. Die Leute wollen wissen, was Sie gehört haben.
+> 조머 후보님, 이제 후보님 차례예요. 사람들이 후보님이 뭘 들었는지 알고 싶어 해요.
+HENRIKE: Ich habe gehört, dass Frau Krüger seit zwei Jahren keinen Hausarzt hat und für jeden Termin vierzig Kilometer fährt. Dass der Bus zweimal am Tag kommt, und am Wochenende gar nicht. Dass die Grundschule geschlossen wurde und jetzt die Kinder um sechs Uhr zwanzig abgeholt werden.
+> 크뤼거 씨가 2년째 주치의가 없어서 진료 한 번에 40킬로미터를 간다는 걸 들었어요. 버스가 하루 두 번 오고 주말엔 아예 안 온다는 것도요. 초등학교가 문을 닫아서 아이들이 이제 아침 여섯 시 이십 분에 통학 버스를 탄다는 것도요.
+HENRIKE: Ich habe gehört, dass Herr Schulze sein Werk besser kannte als der Mann mit der Tabelle. Dass Marcel seinen Job gekündigt hat, weil ihm jemand ein Versprechen gemacht hat, und dass er das Ende im Radio gehört hat.
+> 슐체 씨가 표를 든 사람보다 공장을 더 잘 알았다는 걸 들었어요. 마르셀 씨가 누군가의 약속 때문에 직장을 그만뒀고, 그 끝을 라디오로 들었다는 것도요.
+HENRIKE: Und ich habe gehört, was hier gut ist. Dass der Sportverein seit hundertzwölf Jahren existiert. Dass die Feuerwehr jeden Einsatz in acht Minuten schafft, obwohl die Hälfte über sechzig ist. Und dass Sie jedes Jahr ein Rapsblütenfest feiern. Auf der Fläche, auf der die Fabrik stehen sollte.
+> 그리고 여기 뭐가 좋은지도 들었어요. 스포츠클럽이 112년째 있다는 것. 대원 절반이 예순이 넘는데도 소방대가 모든 출동을 8분 안에 해낸다는 것. 그리고 해마다 유채꽃 축제를 연다는 것. 공장이 들어설 예정이던 그 땅에서.
+MARCEL: Sie haben sich das alles gemerkt? Ohne Zettel?
+> 그걸 다 기억하셨어요? 메모도 없이?
+HENRIKE: Ohne Zettel. Ich wurde heute Morgen gebeten, es mir einfach zu merken.
+> 메모 없이요. 오늘 아침에 그냥 기억하라는 부탁을 받았거든요.
+HENRIKE: Und dann habe ich noch etwas gehört, Marcel. Sie haben gesagt: Wir sind nicht abgehängt, wir wurden nicht gefragt. Ich glaube, das ist der wichtigste Satz, den ich in diesem Wahlkampf gehört habe. Und er gilt nicht nur hier.
+> 그리고 하나 더 들었어요, 마르셀 씨. '우리는 낙오된 게 아니라, 아무도 우리한테 묻지 않았던 거다.' 저는 그게 이번 선거에서 들은 가장 중요한 문장이라고 생각해요. 그리고 그건 여기에만 해당되는 말이 아니에요.
+MARCEL: Und was machen Sie jetzt damit? Eine Milliarde?
+> 그래서 이제 그걸로 뭘 하실 건데요? 10억?
+HENRIKE: Nein. Ich verspreche Ihnen heute keine Milliarde. Ich verspreche Ihnen zwei Dinge. Erstens: Ich komme in drei Monaten wieder. Gewählt oder nicht. Und dann sage ich Ihnen zu jedem Punkt, den Sie heute genannt haben, was passiert ist — und was nicht.
+> 아니요. 오늘 10억을 약속하진 않아요. 두 가지를 약속할게요. 첫째, 석 달 뒤에 다시 올게요. 당선되든 안 되든. 그때 오늘 말씀하신 모든 것에 대해 무엇이 이뤄졌고 무엇이 안 됐는지 말씀드릴게요.
+MARCEL: Und zweitens?
+> 그럼 둘째는요?
+HENRIKE: Zweitens: Wenn ich Kanzlerin werde, wird in meinem Kabinett nicht nur über den Osten geredet. Da sitzen Menschen aus dem Osten. Nicht als Beauftragte für irgendetwas. Als Ministerinnen und Minister. Mit Verantwortung für das ganze Land.
+> 둘째, 제가 총리가 되면 제 내각에선 동쪽에 대해 말만 하지 않을 거예요. 동쪽 출신이 앉아 있을 거예요. 무슨 특임관이 아니라 장관으로. 나라 전체에 대한 책임을 지고요.
+SCHULZE: Das haben andere auch gesagt.
+> 그건 다른 사람들도 했던 말이오.
+HENRIKE: Dann prüfen Sie mich, Herr Schulze. In drei Monaten. Hier, im selben Saal.
+> 그럼 저를 검증하세요, 슐체 씨. 석 달 뒤에. 여기, 같은 홀에서.
+MARCEL: Ich wähle Sie trotzdem nicht. Ich hab mich festgelegt.
+> 그래도 당신 안 찍어요. 이미 정했거든요.
+HENRIKE: Das ist Ihr Recht, Marcel. Kommen Sie trotzdem in drei Monaten. Ich will, dass gerade Sie nachprüfen.
+> 그건 마르셀 씨 권리예요. 그래도 석 달 뒤에 와 주세요. 바로 마르셀 씨가 확인해 줬으면 해요.
+MARCEL: … Vielleicht. Wenn der Bus fährt.
+> …아마도요. 버스가 다니면.
+WOLF: Ich fahre ihn. Persönlich.
+> 내가 태워 줄게. 직접.
+SCHULZE: Und ich setze mich in die erste Reihe. Mit Zettel. Einer muss ja mitschreiben.
+> 그리고 나는 맨 앞줄에 앉겠소. 메모지 들고. 누군가는 받아 적어야 하니까.
+
+## 마무리 — GRÜNAU, ELFTER STOCK
+SELIN: Tobias. Es tut mir leid. Das mit dem Papier.
+> 토비아스. 미안해. 그 서류 일.
+TOBIAS: Mir auch. Ich war zu laut. Du hast nichts Falsches gemeint. Du hast nur in einer Sprache geredet, die hier wehtut.
+> 나도. 내가 너무 소리를 높였어. 넌 나쁜 뜻이 없었어. 그냥 여기선 아프게 들리는 언어로 말했을 뿐이야.
+SELIN: Dann bring sie mir bei. Die andere Sprache.
+> 그럼 가르쳐 줘. 다른 언어를.
+TOBIAS: Die ist einfach. Weniger Wörter. Mehr Fragen.
+> 쉬워. 단어는 적게. 질문은 많이.
+KATHARINA: Tobias, ich habe die Pressemitteilung gelöscht. Endgültig.
+> 토비아스, 보도자료 지웠어. 완전히.
+SELIN: Reuters Ost-Milliarde läuft in den Nachrichten. Aber im Netz geht gerade ein Video von heute viral. Marcel, der sagt: „Wir sind nicht abgehängt. Wir wurden nicht gefragt." Gefilmt von einem Zuhörer. Ohne uns.
+> 로이터의 '동부 10억'은 뉴스에 나오고 있어. 그런데 인터넷에선 오늘 찍힌 영상이 퍼지고 있어. 마르셀이 '우리는 낙오된 게 아니라, 아무도 우리한테 묻지 않았던 거다'라고 말하는 장면. 청중 한 명이 찍었어. 우리 없이.
+KATHARINA: Und eine Journalistin vom Hauptstadtkurier hat mir eben geschrieben. Sie fragt nach Henrikes Mann. Nach seiner Firma, und nach Aufträgen von früher. Ich antworte morgen.
+> 그리고 '하웁트슈타트쿠리어' 기자가 방금 문자를 보냈어. 헨리케 남편에 대해 묻고 있어. 그 사람 회사, 그리고 예전 계약들에 대해서. 내일 답할 거야.
+TOBIAS: Entschuldigt mich kurz. Ich muss jemanden anrufen. — Mama? Ich bin's. Nein, es ist nichts passiert. Ich wollte nur fragen, wie es dir geht.
+> 잠깐 실례할게. 전화할 사람이 있어서. — 엄마? 나야. 아니, 아무 일 없어. 그냥 어떻게 지내는지 물어보고 싶어서.
+BRIGITTE: Tobias? Du rufst an einem Samstagabend an? Ohne Grund? Bist du krank?
+> 토비아스? 토요일 저녁에 전화를 해? 이유도 없이? 어디 아프니?
+TOBIAS: Nein. Ich war heute in einem Dorf in der Prignitz. Da hat jemand erzählt, wie es nach der Wende war. Und ich habe gemerkt, dass ich dich nie gefragt habe, wie es für dich war.
+> 아니. 오늘 프리그니츠의 한 마을에 갔었어. 거기서 누가 통일 뒤에 어땠는지 얘기했어. 그런데 엄마한테는 엄마는 어땠는지 한 번도 안 물어봤다는 걸 깨달았어.
+BRIGITTE: … Das dauert länger als ein Telefonat, mein Junge.
+> …그건 전화 한 통보다 오래 걸린단다, 얘야.
+TOBIAS: Dann komme ich morgen. Ich habe Zeit. Zum ersten Mal seit Langem habe ich wirklich Zeit.
+> 그럼 내일 갈게. 시간 있어. 오랜만에 정말로 시간이 있어.

@@ -1,0 +1,264 @@
+part: 4
+ep: 1
+title_de: Die Kandidatin
+title_ko: 후보
+scene: 월요일 아침, 프랑크푸르트 Neue Mitte 헤센 주당 사무실
+level: C1
+setting: 헤센 주의회 해산 다음 날 아침, 프랑크푸르트의 Neue Mitte 헤센 주당 사무실(Landesgeschäftsstelle) 회의실. 선거까지 57일
+cast: KATHARINA | Dr. Katharina Brandt · 선거캠프 총괄 전략가(Wahlkampfleiterin), BWA 공동창업자
+cast: SELIN | Selin Aydın · 디지털 캠페인·여론 분석 총괄
+cast: HENRIKE | Dr. Henrike Sommer · 헤센 주 경제장관, Neue Mitte 주총리 후보(Spitzenkandidatin) (49)
+cast: FALLER | Bernd Faller · Neue Mitte 헤센 주당 사무총장(Generalsekretär) (가상)
+cast: LEONIE | Leonie Brück · 주당 대변인(Pressesprecherin) (가상)
+note: ※ 독일의 주(州)의회는 임기 중에도 스스로 해산할 수 있습니다. 헤센 주 헌법(제80조)에 따르면 재적 과반의 의결로 해산하면 60일 안에 새 선거를 치러야 합니다. 이번 화는 연정이 무너져 주의회가 해산된 다음 날 시작합니다. 헤센 주의회 선거에서는 유권자가 두 표를 던집니다. 지역구 후보에게 주는 표(Wahlkreisstimme)와 정당 명부에 주는 표(Landesstimme)이고, 의석 배분은 정당 명부 표가 결정하며 5% 미만 정당은 의석을 얻지 못합니다(5%-Hürde). 각 정당은 주총리 후보로 나설 대표 후보(Spitzenkandidat/in)를 내세우고, 선거 실무는 당 사무총장(Generalsekretär)이 지휘하는 경우가 많습니다. 여론조사에서는 '인지도(Bekanntheitsgrad)'와 '호감도·역량 평가'를 구분해서 보는데, 이번 화의 진단은 바로 그 차이에서 출발합니다. 등장하는 정당(Neue Mitte, Bewegung Heimat, Ökosoziale Partei, Freie Bürgerpartei)과 인물, 수치는 모두 가상입니다. 표현 초점: die Umfrage, der Bekanntheitsgrad, der Wahlkampf, die Stärke, Sie sind gut. Aber niemand weiß es.
+next: 4부 2화 — «Wofür stehen Sie?»(무엇을 대변합니까?) — 140쪽짜리 공약 초안을 받아 든 캠프. 당 기구는 '모든 걸 조금씩' 담길 원하고, Katharina는 '세 문장'을 원한다. 사무총장 Faller와의 권력 다툼 끝에 하나의 메시지가 남는다.
+
+## 도입 — SIEBENUNDFÜNFZIG TAGE
+LEONIE: Frau Dr. Brandt, Frau Aydın? Leonie Brück, Pressestelle. Willkommen in der Landesgeschäftsstelle. Entschuldigen Sie das Chaos — gestern hat sich der Landtag aufgelöst.
+> 브란트 박사님, 아이든 씨? 대변인실의 레오니 브뤼크예요. 주당 사무실에 오신 걸 환영합니다. 어수선해서 죄송해요. 어제 주의회가 해산됐거든요.
+KATHARINA: Wir haben es in den Nachrichten gesehen. Achtundfünfzig Tage bis zur Wahl, richtig?
+> 뉴스에서 봤어요. 선거까지 58일, 맞죠?
+LEONIE: Siebenundfünfzig, seit Mitternacht. Herr Faller zählt laut mit.
+> 자정부터 57일이에요. 팔러 씨가 소리 내서 세고 계세요.
+SELIN: Wer ist Herr Faller?
+> 팔러 씨가 누구예요?
+LEONIE: Bernd Faller, unser Generalsekretär. Seit dreißig Jahren in der Partei und seit zehn Minuten schlecht gelaunt.
+> 베른트 팔러, 저희 사무총장이요. 당에 몸담은 지 30년, 기분이 안 좋으신 지 10분 됐어요.
+FALLER: Ich höre Sie, Frau Brück. — Faller. Sie sind also die Beraterinnen aus Berlin.
+> 다 들려요, 브뤼크 씨. — 팔러입니다. 그러니까 베를린에서 온 컨설턴트분들이시군요.
+KATHARINA: Aus Berlin und aus Frankfurt, Herr Faller. Katharina Brandt. Und das ist Selin Aydın, sie verantwortet bei uns Daten und Digitales.
+> 베를린이자 프랑크푸르트에서 왔습니다, 팔러 씨. 카타리나 브란트입니다. 이쪽은 셀린 아이든, 데이터와 디지털을 맡고 있어요.
+FALLER: Wir haben in dieser Partei schon viele Berater kommen und gehen sehen. Meistens gehen sie mit einer Rechnung.
+> 우리 당은 컨설턴트가 오가는 걸 숱하게 봤습니다. 대개는 청구서를 들고 떠나더군요.
+SELIN: Wir gehen meistens mit einem Bericht. Die Rechnung kommt per Post.
+> 저희는 대개 보고서를 들고 떠나요. 청구서는 우편으로 가고요.
+FALLER: Humor. Gut, den werden Sie brauchen. Die Ministerin wartet im Sitzungssaal.
+> 유머라. 좋습니다, 필요하실 겁니다. 장관님은 회의실에서 기다리십니다.
+HENRIKE: Frau Brandt, Frau Aydın — danke, dass Sie gekommen sind. Ich hoffe, Sie haben Ihre Zusage noch nicht bereut.
+> 브란트 씨, 아이든 씨, 와 주셔서 고마워요. 수락하신 걸 아직 후회하고 계시진 않길 바라요.
+KATHARINA: Noch nicht, Frau Ministerin. Aber zeigen Sie uns erst einmal die Umfragen.
+> 아직은요, 장관님. 하지만 우선 여론조사부터 보여 주시죠.
+
+## 분석 — NEUN PROZENT
+HENRIKE: Frau Brück, bitte.
+> 브뤼크 씨, 부탁해요.
+LEONIE: Die neueste Umfrage von gestern Abend. Albrechts Partei liegt bei vierunddreißig Prozent, die Bewegung Heimat bei vierundzwanzig, die Ökosozialen bei sechzehn.
+> 어젯밤 나온 최신 여론조사예요. 알브레히트의 정당이 34퍼센트, 베궁 하이마트가 24, 외코조치알레가 16이에요.
+SELIN: Und die Neue Mitte?
+> 그럼 노이에 미테는요?
+LEONIE: Neun Prozent. Die Freie Bürgerpartei liegt bei sechs, der Rest verteilt sich auf Kleinparteien.
+> 9퍼센트요. 자유시민당이 6, 나머지는 군소정당들에 흩어져 있어요.
+HENRIKE: Neun. Vor einem Jahr waren es vierzehn.
+> 9. 1년 전엔 14였는데.
+KATHARINA: Und wie hoch ist Ihr Bekanntheitsgrad?
+> 그럼 장관님 인지도는 얼마나 되죠?
+LEONIE: Dreiundzwanzig Prozent. Das heißt: Drei von vier Hessen wissen nicht, wer ihre Wirtschaftsministerin ist.
+> 23퍼센트요. 그러니까 헤센 사람 넷 중 셋은 자기네 경제장관이 누군지 모른다는 거죠.
+HENRIKE: Ich habe vier Jahre lang Brücken saniert, Gewerbegebiete erschlossen und Förderprogramme entrümpelt. Offenbar heimlich.
+> 저는 4년 동안 다리를 보수하고, 산업단지를 조성하고, 지원 프로그램을 정리했어요. 아무래도 몰래 한 모양이네요.
+SELIN: Darf ich etwas ergänzen? Unter denen, die Sie kennen, ist das Bild erstaunlich gut. Einundsechzig Prozent halten Sie für kompetent.
+> 하나 덧붙여도 될까요? 장관님을 아는 사람들 사이에선 이미지가 놀라울 만큼 좋아요. 61퍼센트가 유능하다고 봐요.
+KATHARINA: Und für sympathisch?
+> 호감도는?
+SELIN: Vierunddreißig. Und bei der Aussage „Sie versteht meine Sorgen" — einundzwanzig.
+> 34. 그리고 '내 걱정을 이해한다'는 항목에서는 21이에요.
+HENRIKE: Was soll das heißen? Dass ich kalt bin?
+> 그게 무슨 뜻이죠? 제가 차갑다는 건가요?
+SELIN: Dass man Sie für eine gute Ministerin hält, aber nicht für jemanden, der zuhört. Das ist ein Befund, kein Urteil.
+> 좋은 장관으로는 보지만, 귀 기울이는 사람으로는 안 본다는 거예요. 판결이 아니라 진단 결과예요.
+KATHARINA: Frau Ministerin, ich würde gern so vorgehen wie bei einem Unternehmen. Stärken, Schwächen, Chancen, Risiken. Darf ich?
+> 장관님, 기업을 볼 때처럼 진행하고 싶은데요. 강점, 약점, 기회, 위험. 그래도 될까요?
+HENRIKE: Eine SWOT-Analyse für eine Spitzenkandidatin. Mein Doktorvater wäre entzückt. Bitte.
+> 대표 후보를 SWOT 분석이라니. 제 지도교수님이 좋아하셨겠네요. 하세요.
+KATHARINA: Stärken: Kompetenz, keine Skandale, eine Bilanz, die sich sehen lassen kann. Die Kinzigbrücke steht, weil Sie sich mit drei Behörden gleichzeitig angelegt haben.
+> 강점: 역량, 스캔들 없음, 내세울 만한 실적. 킨치히 다리가 서 있는 건 장관님이 관청 세 곳과 동시에 맞붙으셨기 때문이죠.
+SELIN: Die Brücke kenne ich gut. Wir haben damals das Gutachten geschrieben. „Das Geld ist da. Die Brücke nicht."
+> 그 다리는 저도 잘 알아요. 그때 저희가 감사보고서를 썼거든요. '돈은 있다. 다리는 없다.'
+HENRIKE: Und heute fahren täglich zweiundvierzigtausend Autos darüber. Und niemand weiß, wer das durchgesetzt hat.
+> 그리고 지금은 매일 4만 2천 대가 그 위를 지나가요. 그런데 누가 그걸 밀어붙였는지는 아무도 모르죠.
+KATHARINA: Genau das ist die erste Schwäche. Die zweite sind Ihre Reden.
+> 바로 그게 첫 번째 약점이에요. 두 번째는 장관님의 연설이고요.
+HENRIKE: Was ist mit meinen Reden?
+> 제 연설이 뭐가 어때서요?
+KATHARINA: Selin hat Ihre letzten zwölf Reden ausgewertet. Selin?
+> 셀린이 장관님의 최근 연설 열두 편을 분석했어요. 셀린?
+SELIN: Durchschnittliche Satzlänge: neunundzwanzig Wörter. Das Wort „Rahmenbedingungen" kommt dreiundvierzigmal vor. Das Wort „Sie" im Sinne von „Sie, liebe Zuhörer" fast nie.
+> 평균 문장 길이 29단어. '여건'이라는 단어가 43번 나와요. '여러분'이라는 뜻의 '당신'은 거의 안 나오고요.
+LEONIE: Ich habe es ihr gesagt. Seit zwei Jahren sage ich es ihr.
+> 제가 말씀드렸어요. 2년째 말씀드리고 있어요.
+HENRIKE: Frau Brück, Sie sind entlassen. — Das war ein Scherz. Weiter.
+> 브뤼크 씨, 해고예요. — 농담이에요. 계속하세요.
+KATHARINA: Chancen: Die Leute sind den Streit leid. Die alte Koalition ist an sich selbst zerbrochen, nicht an Ihnen. Wer jetzt ruhig und sachlich auftritt, kann gewinnen.
+> 기회: 사람들은 싸움에 지쳤어요. 옛 연정은 장관님 때문이 아니라 스스로 무너졌죠. 지금 차분하고 실질적으로 나서는 사람이 이길 수 있어요.
+SELIN: Siebenundvierzig Prozent sind noch unentschlossen oder bereit, die Partei zu wechseln. So hoch war dieser Wert in Hessen noch nie.
+> 47퍼센트가 아직 결정을 못 했거나 지지 정당을 바꿀 생각이 있어요. 헤센에서 이렇게 높았던 적은 없었어요.
+HENRIKE: Und die Risiken?
+> 그럼 위험은요?
+KATHARINA: Erstens die Zeit: siebenundfünfzig Tage. Zweitens die Bewegung Heimat, die gerade in den Kleinstädten zulegt.
+> 첫째, 시간. 57일. 둘째, 지금 소도시에서 세를 불리고 있는 베궁 하이마트.
+SELIN: Drittens: Ihre eigene Partei.
+> 셋째, 장관님 자신의 당이요.
+FALLER: Wie bitte?
+> 뭐라고요?
+SELIN: Ihre Plakate von der letzten Wahl, Herr Faller. Drei Kandidaten, ein Slogan: „Mitte. Mut. Machen." In der Nachwahlbefragung konnte sich niemand daran erinnern.
+> 지난 선거 포스터 말이에요, 팔러 씨. 후보 셋에 구호 하나. '중도. 용기. 실행.' 선거 후 조사에서 그걸 기억하는 사람이 아무도 없었어요.
+FALLER: Dieser Slogan hat mich drei Wochenenden gekostet.
+> 그 구호 만드느라 제가 주말을 세 번 날렸습니다.
+KATHARINA: Das glaube ich Ihnen. Aber die Wähler haben ihm drei Sekunden geschenkt.
+> 믿습니다. 하지만 유권자들은 거기에 3초를 내줬죠.
+
+## 갈등 — KEINE TANZVIDEOS
+FALLER: Frau Brandt, ich erkläre Ihnen, wie Wahlkampf in Hessen funktioniert. Infostände, Ortsverbände, Kreisparteitage. Die Mitglieder müssen laufen, sonst läuft gar nichts.
+> 브란트 씨, 헤센에서 선거운동이 어떻게 돌아가는지 설명드리죠. 거리 홍보 부스, 지역 당 조직, 군 단위 당대회. 당원들이 뛰어야 합니다. 안 그러면 아무것도 안 돌아가요.
+KATHARINA: Da widerspreche ich nicht. Aber Ihre Mitglieder kennen die Ministerin bereits. Wir müssen die drei Viertel erreichen, die nie an einen Infostand kommen.
+> 거기엔 반대하지 않아요. 하지만 당원들은 이미 장관님을 알아요. 우리는 홍보 부스엔 절대 오지 않는 4분의 3에게 닿아야 해요.
+FALLER: Und wie? Mit Tanzvideos im Internet?
+> 어떻게요? 인터넷 춤 영상으로요?
+SELIN: Mit kurzen Videos, ja. Ohne Tanz. Vorläufig.
+> 짧은 영상으로요, 네. 춤은 빼고요. 일단은.
+HENRIKE: Ich mache keine Tanzvideos. Ich mache auch keine Homestorys, keine Küchengespräche und keine Fotos mit Hundewelpen.
+> 저는 춤 영상 안 찍어요. 집 공개도, 부엌 대담도, 강아지랑 사진 찍는 것도 안 해요.
+KATHARINA: Niemand verlangt Welpen, Frau Ministerin. Aber die Leute wollen wissen, wer Sie sind, bevor sie hören, was Sie wollen.
+> 아무도 강아지를 요구하지 않아요, 장관님. 하지만 사람들은 장관님이 뭘 원하는지 듣기 전에 장관님이 누군지 알고 싶어 해요.
+HENRIKE: Ich bin Volkswirtin. Ich will, dass die Dinge funktionieren. Was gibt es da noch zu wissen?
+> 저는 경제학자예요. 일이 제대로 돌아가길 바라죠. 거기서 더 알 게 뭐가 있어요?
+SELIN: Zum Beispiel, warum Sie Volkswirtin geworden sind.
+> 예를 들면, 왜 경제학자가 되셨는지요.
+HENRIKE: Weil ich gut in Mathematik war.
+> 수학을 잘했으니까요.
+LEONIE: Das ist nicht die ganze Geschichte. Ihr Vater war Lokführer in Kassel, und als das Ausbesserungswerk geschlossen wurde —
+> 그게 전부는 아니잖아요. 아버님이 카셀에서 기관사셨는데, 철도 정비공장이 문을 닫았을 때 —
+HENRIKE: Frau Brück. Das ist privat.
+> 브뤼크 씨. 그건 사적인 일이에요.
+LEONIE: Entschuldigung.
+> 죄송해요.
+KATHARINA: Frau Ministerin, darf ich offen sein? Sie behandeln Ihre Biografie wie ein Betriebsgeheimnis. Die Konkurrenz behandelt ihre wie einen Werbespot.
+> 장관님, 솔직히 말씀드려도 될까요? 장관님은 자기 이력을 영업비밀처럼 다루세요. 경쟁자들은 자기 이력을 광고처럼 다루고요.
+HENRIKE: Und deshalb soll ich dasselbe tun? Ich habe nicht vor, meinen Vater auf ein Plakat zu drucken.
+> 그래서 저도 똑같이 하라고요? 아버지를 포스터에 찍어 낼 생각은 없어요.
+KATHARINA: Das sollen Sie auch nicht. Aber Sie dürfen erzählen, warum Ihnen Brücken und Arbeitsplätze nicht egal sind.
+> 그러실 필요도 없어요. 하지만 다리와 일자리가 왜 장관님께 남의 일이 아닌지는 얘기하셔도 돼요.
+FALLER: Bei allem Respekt: Die Partei hat Sie nicht geholt, damit Sie unsere Kandidatin umerziehen. Wir brauchen Material für die Fläche. Plakate, Flyer, Themen.
+> 실례지만, 당이 당신들을 부른 건 우리 후보를 재교육하라는 게 아닙니다. 우리에겐 현장에 뿌릴 재료가 필요해요. 포스터, 전단, 의제.
+KATHARINA: Und welche Themen schlagen Sie vor?
+> 그럼 어떤 의제를 제안하시죠?
+FALLER: Alle. Wirtschaft, Bildung, Verkehr, Wohnen, Pflege, Sicherheit. Wir sind eine Partei der Mitte. Wir haben auf alles eine Antwort.
+> 전부요. 경제, 교육, 교통, 주거, 돌봄, 치안. 우리는 중도 정당입니다. 모든 것에 답이 있어요.
+SELIN: Genau das ist das Problem, Herr Faller. Wer auf alles eine Antwort hat, wird zu nichts gefragt.
+> 바로 그게 문제예요, 팔러 씨. 모든 것에 답이 있는 사람에겐 아무도 아무것도 묻지 않거든요.
+FALLER: Junge Frau, ich habe Wahlkämpfe gewonnen, da konnten Sie noch nicht lesen.
+> 젊은 아가씨, 내가 선거에서 이기던 시절엔 당신은 글도 못 읽었어요.
+SELIN: Und ich habe die Ergebnisse gelesen, Herr Faller. Die letzten drei waren Niederlagen.
+> 그리고 저는 그 결과를 읽었어요, 팔러 씨. 최근 세 번은 패배였죠.
+HENRIKE: Schluss jetzt. Alle beide.
+> 그만해요. 두 사람 다.
+KATHARINA: Selin, das war unnötig. — Herr Faller, ich entschuldige mich. Aber in der Sache hat sie recht.
+> 셀린, 그건 불필요했어. — 팔러 씨, 사과드립니다. 하지만 내용상으로는 셀린 말이 맞아요.
+FALLER: In der Sache. Natürlich. Bei Beratern geht es immer um „die Sache".
+> 내용상으로는. 물론이죠. 컨설턴트들은 늘 '내용'이 문제라고 하더군요.
+HENRIKE: Bernd, bitte. Lass uns zuhören, bevor wir urteilen. — Frau Brandt, was genau schlagen Sie vor?
+> 베른트, 제발. 판단하기 전에 일단 들어 보자. — 브란트 씨, 구체적으로 뭘 제안하시는 거죠?
+KATHARINA: Raus aus Wiesbaden. Keine Pressekonferenzen hinter einem Ministeriumspult, sondern Orte, an denen man sieht, was funktioniert und was nicht.
+> 비스바덴에서 나오세요. 부처 연단 뒤의 기자회견 말고, 뭐가 돌아가고 뭐가 안 돌아가는지 눈에 보이는 곳으로요.
+SELIN: Und dazu ein Format: „Sechzig Sekunden Sommer". Jeden Tag ein Problem, eine Lösung, eine Minute. Gedreht mit dem Handy.
+> 그리고 포맷 하나. '조머의 60초'. 매일 문제 하나, 해법 하나, 1분. 휴대폰으로 찍어요.
+HENRIKE: Mit dem Handy. Ich bin Ministerin dieses Landes.
+> 휴대폰으로. 저는 이 주의 장관이에요.
+SELIN: Und die Hälfte Ihrer Wählerinnen und Wähler sieht Nachrichten fast nur noch auf dem Handy. Bei den unter Dreißigjährigen sind es achtzig Prozent.
+> 그리고 장관님 유권자의 절반은 뉴스를 거의 휴대폰으로만 봐요. 서른 살 미만은 80퍼센트고요.
+FALLER: Und die über Sechzigjährigen? Die gehen wählen. Die Jungen reden nur.
+> 그럼 예순 넘은 사람들은요? 그 사람들은 투표하러 갑니다. 젊은 사람들은 말만 하고요.
+SELIN: Bei der letzten Landtagswahl haben sechzig Prozent der unter Dreißigjährigen gewählt. Die reden nicht nur, Herr Faller.
+> 지난 주의회 선거에서 서른 살 미만의 60퍼센트가 투표했어요. 말만 하는 게 아니에요, 팔러 씨.
+HENRIKE: Und wenn ich mich lächerlich mache? Ich bin keine Schauspielerin.
+> 그러다 제가 웃음거리가 되면요? 저는 배우가 아니에요.
+KATHARINA: Gerade deshalb. Die Leute haben genug von Schauspielern.
+> 바로 그래서예요. 사람들은 배우라면 질렸거든요.
+HENRIKE: Ihnen ist klar, dass Sie mich gerade gleichzeitig kritisieren und loben?
+> 지금 저를 비판하면서 동시에 칭찬하고 계신 거, 아시죠?
+KATHARINA: Das nennt man Beratung, Frau Ministerin. Fürs Loben allein haben Sie ja Ihre Partei.
+> 그걸 자문이라고 하죠, 장관님. 칭찬만 들으시려면 당이 있잖아요.
+
+## 해결·설득 — SECHZIG SEKUNDEN
+FALLER: Sehr charmant.
+> 참 상냥하시네요.
+HENRIKE: Gut. Dann beweisen Sie es mir. Was soll ich sagen?
+> 좋아요. 그럼 증명해 보세요. 제가 뭐라고 해야 하죠?
+KATHARINA: Stellen Sie sich vor, Sie stehen an einer Bushaltestelle in Fulda. Jemand fragt Sie: Warum sollte ich ausgerechnet Sie wählen? Sie haben sechzig Sekunden. Bitte.
+> 풀다의 버스 정류장에 서 계신다고 상상해 보세요. 누가 묻습니다. 내가 왜 하필 당신을 찍어야 하죠? 60초 드릴게요. 하세요.
+HENRIKE: Jetzt? — Also gut. Angesichts der gesamtwirtschaftlichen Rahmenbedingungen und der strukturellen Herausforderungen des Standorts Hessen bedarf es einer kohärenten Strategie, die …
+> 지금요? — 좋아요. 거시경제적 여건과 헤센이라는 입지의 구조적 과제를 감안할 때, 일관성 있는 전략이 요구되며, 그 전략은…
+SELIN: Der Bus ist weg.
+> 버스 떠났어요.
+LEONIE: Der nächste auch.
+> 다음 버스도요.
+HENRIKE: Sehr witzig. Dann sagen Sie es mir doch, Frau Brandt.
+> 참 재밌네요. 그럼 브란트 씨가 말해 보시죠.
+KATHARINA: Nein. Ich erzähle Ihnen nur, was ich erlebt habe. Vor einem Jahr saß in unserem Büro eine Ministerin, die wütend war, weil eine Brücke seit sieben Jahren gesperrt war und sich niemand zuständig fühlte.
+> 아니요. 제가 겪은 걸 말씀드릴게요. 1년 전 저희 사무실에 장관 한 분이 앉아 계셨어요. 다리가 7년째 막혀 있는데 아무도 자기 소관이라고 느끼지 않아서 화가 나 있었죠.
+HENRIKE: Ich war nicht wütend. Ich war … ungeduldig.
+> 화난 게 아니었어요. 그냥… 조급했던 거죠.
+KATHARINA: Sie haben gesagt: „Ich will nicht hören, warum es nicht geht. Ich will hören, wer es macht." Dieser Satz hat mich überzeugt, für Sie zu arbeiten. Nicht Ihre Rahmenbedingungen.
+> 장관님이 그러셨어요. '왜 안 되는지는 듣고 싶지 않아요. 누가 하는지를 듣고 싶어요.' 그 말 때문에 장관님 일을 하기로 한 거예요. 여건 얘기 때문이 아니라.
+HENRIKE: Das habe ich gesagt?
+> 제가 그런 말을 했어요?
+SELIN: Wörtlich. Ich habe es mitgeschrieben.
+> 토씨 하나 안 틀리고요. 제가 받아 적었어요.
+KATHARINA: Noch einmal. Bushaltestelle, sechzig Sekunden. Ohne das Wort „Rahmenbedingungen".
+> 다시 한번. 버스 정류장, 60초. '여건'이라는 단어 없이.
+HENRIKE: Mein Vater ist dreißig Jahre lang Züge gefahren. Als das Werk in Kassel zumachte, hat ihm niemand erklärt, warum. Es hieß nur: Das ist eben so. Damals habe ich beschlossen, dass „Das ist eben so" keine Antwort ist. Ich will ein Land, in dem die Dinge wieder funktionieren — mehr verspreche ich nicht. Aber das halte ich.
+> 제 아버지는 30년 동안 기차를 모셨어요. 카셀의 공장이 문을 닫았을 때 아무도 아버지께 이유를 설명해 주지 않았죠. 그냥 '원래 그런 거'라고만 했어요. 그때 저는 '원래 그런 거'는 답이 아니라고 마음먹었어요. 저는 일이 다시 제대로 돌아가는 나라를 원해요. 그 이상은 약속하지 않아요. 하지만 그건 지킵니다.
+LEONIE: Ich habe Gänsehaut. Und ich arbeite seit sechs Jahren für sie.
+> 소름 돋았어요. 6년이나 모셨는데도요.
+FALLER: Das mit deinem Vater hast du mir nie erzählt, Henrike.
+> 아버님 얘기는 나한테 한 번도 안 했잖아, 헨리케.
+HENRIKE: Du hast nie gefragt, Bernd.
+> 네가 물어본 적이 없잖아, 베른트.
+KATHARINA: Das war es. Sechsundfünfzig Sekunden. Frau Ministerin: Sie sind gut. Aber niemand weiß es. Das ist das Einzige, was wir in den nächsten siebenundfünfzig Tagen ändern müssen.
+> 바로 그거예요. 56초. 장관님, 장관님은 훌륭해요. 그런데 아무도 몰라요. 앞으로 57일 동안 우리가 바꿔야 할 건 그것 하나예요.
+HENRIKE: Und Sie glauben im Ernst, dass ein Satz über meinen Vater aus neun Prozent einen Wahlsieg macht?
+> 정말로 제 아버지에 관한 한 문장이 9퍼센트를 선거 승리로 바꿔 놓을 거라고 믿으세요?
+KATHARINA: Ein Satz nicht. Aber einem Menschen, den man versteht, glaubt man auch die Bilanz. Ihre größte Stärke liegt längst auf dem Tisch. Wir sorgen nur dafür, dass man sie sieht.
+> 한 문장으로는 안 되죠. 하지만 이해가 되는 사람이면 그 사람의 실적도 믿게 돼요. 장관님의 가장 큰 강점은 이미 테이블 위에 있어요. 우리는 그게 보이도록 할 뿐이에요.
+SELIN: Und wir messen jede Woche, ob es wirkt. Wenn nicht, sagen wir es Ihnen als Erste.
+> 그리고 효과가 있는지 매주 측정할 거예요. 없으면 제일 먼저 말씀드릴게요.
+FALLER: Und was wird aus meinen Plakaten?
+> 그럼 내 포스터는 어떻게 됩니까?
+KATHARINA: Die brauchen wir, Herr Faller. Ihre Ortsverbände, Ihre Infostände, Ihre Leute. Ohne die Fläche gewinnt niemand. Aber auf das Plakat kommt ein Satz — nicht sechs Themen.
+> 그건 필요해요, 팔러 씨. 지역 조직도, 홍보 부스도, 사람들도요. 현장 없이는 아무도 못 이겨요. 다만 포스터엔 의제 여섯 개가 아니라 문장 하나가 들어가야 해요.
+FALLER: Welcher Satz?
+> 어떤 문장이요?
+KATHARINA: Das finden wir diese Woche heraus. Zusammen mit Ihnen. Sie kennen die Partei, wir kennen die Zahlen.
+> 그건 이번 주에 찾아낼 거예요. 팔러 씨와 함께요. 팔러 씨는 당을 알고, 우리는 숫자를 아니까요.
+FALLER: Hm. Das klang beinahe wie ein Kompliment.
+> 흠. 거의 칭찬처럼 들리는군요.
+SELIN: Es war eins. Und das von vorhin tut mir leid, Herr Faller. Das war respektlos.
+> 칭찬 맞아요. 그리고 아까 일은 죄송해요, 팔러 씨. 무례했어요.
+FALLER: Angenommen. Ärgerlich ist nur, dass Sie recht hatten. Drei Niederlagen.
+> 받아들이죠. 짜증 나는 건 당신 말이 맞았다는 거예요. 세 번의 패배.
+
+## 마무리 — WOFÜR STEHT SIE?
+HENRIKE: Frau Brandt, Frau Aydın, Sie haben Ihren Vertrag. Bis zum Wahlabend. Danach sehen wir weiter.
+> 브란트 씨, 아이든 씨, 계약하죠. 선거 날 밤까지. 그 뒤는 그때 가서 보고요.
+KATHARINA: Einverstanden. Wir fangen morgen um sieben an.
+> 좋습니다. 내일 일곱 시에 시작하죠.
+LEONIE: Um sieben? Um sieben trinkt die Ministerin ihren ersten Kaffee.
+> 일곱 시요? 장관님은 일곱 시에 첫 커피를 드시는데요.
+HENRIKE: Ab morgen trinkt die Ministerin ihn im Auto. — Bis morgen.
+> 내일부터 장관은 그걸 차 안에서 마실 거예요. — 내일 봬요.
+SELIN: Du warst ganz schön hart zu ihr.
+> 장관님한테 꽤 세게 하던데.
+KATHARINA: Und du zu Faller. Wir müssen uns einigen, wer von uns beiden die Böse spielt.
+> 너는 팔러한테 그랬고. 우리 둘 중 누가 악역을 맡을지 정해야겠어.
+SELIN: Du. Das kannst du besser. Ich bin zu jung für die Böse.
+> 네가 해. 그건 네가 더 잘하잖아. 난 악역 하기엔 너무 어려.
+KATHARINA: Danke. Sehr beruhigend. — Hast du Tobias erreicht?
+> 고맙다. 참 위로가 되네. — 토비아스랑은 연락됐어?
+SELIN: Er hat geschrieben: „Ich denke noch nach." Vor drei Wochen.
+> 문자 왔어. '아직 생각 중.' 3주 전에.
+KATHARINA: Für Tobias ist das schnell.
+> 토비아스치곤 빠른 편이네.
+LEONIE: Frau Brandt? Herr Faller schickt Ihnen schon einmal den Entwurf des Wahlprogramms. Hundertvierzig Seiten.
+> 브란트 박사님? 팔러 씨가 공약집 초안을 미리 보내 드린대요. 140쪽이에요.
+KATHARINA: Hundertvierzig Seiten. Dann lautet die Frage morgen nicht mehr: Wer ist sie? Sondern: Wofür steht sie?
+> 140쪽이라. 그럼 내일의 질문은 더 이상 '그녀는 누구인가'가 아니네요. '그녀는 무엇을 대변하는가'죠.

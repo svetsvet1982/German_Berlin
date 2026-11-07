@@ -1,0 +1,272 @@
+part: 4
+ep: 3
+title_de: Fokusgruppe Offenbach
+title_ko: 오펜바흐 포커스그룹
+scene: 목요일 저녁, 오펜바흐 시장조사 회사의 단면거울 방
+level: C1
+setting: 선거 50일 전 목요일 저녁 여섯 시부터 아홉 시까지, 오펜바흐 시장조사 회사 Mainfeld Research의 그룹 토론실과 단면거울 뒤 관찰실
+cast: KATHARINA | Dr. Katharina Brandt · 선거캠프 총괄 전략가
+cast: SELIN | Selin Aydın · 디지털 캠페인·여론 분석 총괄
+cast: HENRIKE | Dr. Henrike Sommer · Neue Mitte 주총리 후보
+cast: BREHM | Dr. Ilona Brehm · 포커스그룹 진행자, Mainfeld Research (가상)
+cast: DETLEF | Detlef · 버스 기사 (58)
+cast: NADINE | Nadine · 요양보호 전문 간호사, 한부모 (41)
+cast: GIORGOS | Giorgos · 오펜바흐 식료품점 주인 (52)
+cast: AMIRA | Amira · 대학생, 모로코계 이민 2세 (22)
+cast: GISELA | Gisela · 연금생활자, 전직 우체국 직원 (74)
+cast: KEVIN | Kevin · 물류창고 직원 (29)
+cast: MARTINA | Martina · 시청 행정직원 (47)
+cast: FRANK | Frank · 전기 기술 장인(Elektromeister), 소규모 업체 운영 (50)
+note: ※ 포커스그룹(Fokusgruppe)은 6~10명의 시민을 모아 진행자가 2시간 정도 자유 토론을 이끄는 질적 조사 방법입니다. 대표성 있는 숫자를 주는 여론조사(Umfrage)와 달리, 사람들이 어떤 단어로 생각하고 무엇에 화를 내는지, 즉 '인식(Wahrnehmung)'을 보여 줍니다. 독일에서는 참가자에게 관찰·녹화 사실을 미리 알리고 동의를 받아야 하며(개인정보보호규정 DSGVO), 의뢰인은 보통 단면거울 뒤나 별도 화면으로 지켜봅니다. 대화에 나오는 생활물가(Lebenshaltungskosten), 임대료, 이민과 지자체 부담, 돌봄 인력난은 실제 독일 선거에서도 핵심 쟁점입니다. 이번 화에서는 «Die da oben…»(위에 있는 사람들은…)처럼 정치 불신을 드러내는 표현과, 거기에 방어하지 않고 응답하는 방법을 눈여겨보세요. 오펜바흐는 프랑크푸르트 바로 옆 도시로, 주민 상당수가 이민 배경을 가진 다문화 도시입니다. 등장인물과 수치는 모두 가상입니다. 표현 초점: die Fokusgruppe, die Lebenshaltungskosten, die Sorge, die Wahrnehmung, Die da oben…
+next: 4부 4화 — «Das falsche Video»(가짜 영상) — Henrike가 연금생활자를 조롱하는 딥페이크 영상이 퍼진다. Selin의 팀은 72시간 안에 출처를 추적하고 플랫폼에 신고하며 '사과하지 않되 숨지도 않는' 대응을 설계한다. 내부에서 '맞불 영상'을 제안하자 Katharina는 거부한다.
+
+## 도입 — HINTER DEM SPIEGEL
+BREHM: Frau Ministerin, willkommen in unserem Beobachtungsraum. Bitte kein Licht, kein lautes Lachen und vor allem: kein Klopfen an die Scheibe.
+> 장관님, 저희 관찰실에 오신 걸 환영합니다. 불은 켜지 마시고, 큰 소리로 웃지 마시고, 무엇보다 유리를 두드리지 마세요.
+HENRIKE: Hat das schon einmal jemand getan?
+> 그런 사람이 있었나요?
+BREHM: Ein Marketingchef einer Joghurtmarke. Die Teilnehmer dachten, es spukt.
+> 요구르트 브랜드 마케팅 이사 한 분이요. 참가자들이 귀신이 나온 줄 알았죠.
+SELIN: Wissen die Teilnehmer, wer hier sitzt?
+> 참가자들은 여기 누가 앉아 있는지 아나요?
+BREHM: Sie wissen, dass der Auftraggeber zuhört und dass aufgezeichnet wird. Das steht in der Einwilligung. Aber nicht, wer der Auftraggeber ist. Sonst reden sie anders.
+> 의뢰인이 듣고 있고 녹화된다는 건 알아요. 동의서에 적혀 있으니까요. 하지만 의뢰인이 누군지는 몰라요. 알면 다르게 말하거든요.
+KATHARINA: Frau Ministerin, eine Bitte. Was immer Sie gleich hören — Sie hören zu. Sie widersprechen nicht, nicht einmal leise.
+> 장관님, 부탁이 하나 있어요. 곧 무슨 말을 들으시든, 그냥 들으세요. 반박하지 마세요. 작은 소리로도요.
+HENRIKE: Frau Brandt, ich sitze seit vier Jahren im Kabinett. Ich kann zuhören.
+> 브란트 씨, 저 4년째 내각에 있는 사람이에요. 들을 줄은 알아요.
+SELIN: Im Kabinett hört man Leuten zu, die einen Termin bekommen haben. Das hier sind Leute, die nie einen bekommen.
+> 내각에서는 면담 약속을 잡은 사람들 얘기를 듣잖아요. 여긴 그런 약속을 한 번도 못 잡아 본 사람들이에요.
+HENRIKE: Touché.
+> 한 방 먹었네요.
+BREHM: Acht Personen. Gemischt nach Alter, Beruf und letzter Wahlentscheidung. Drei sind unentschlossen, zwei überlegen, die Bewegung Heimat zu wählen.
+> 여덟 명입니다. 나이, 직업, 지난 선거의 선택에 따라 섞었어요. 세 명은 미정이고, 두 명은 베궁 하이마트를 찍을까 고민 중이에요.
+KATHARINA: Und wie viele kennen die Ministerin?
+> 장관님을 아는 사람은 몇 명이죠?
+BREHM: Das finden wir gleich heraus. Ich gehe jetzt rein. Zwei Stunden. Viel Vergnügen — oder viel Kraft.
+> 그건 곧 알게 되겠죠. 저 이제 들어갑니다. 두 시간이에요. 즐겁게 보세요. 아니면 힘내시든가요.
+
+## 분석 — WAS KOSTET DAS LEBEN?
+BREHM: Guten Abend und herzlich willkommen. Wir duzen uns heute, wenn das für alle in Ordnung ist. Erzählt bitte kurz: Wer seid ihr, und was beschäftigt euch gerade am meisten?
+> 안녕하세요, 환영합니다. 다들 괜찮으시면 오늘은 서로 말을 놓기로 해요. 간단히 얘기해 주세요. 누구시고, 요즘 가장 신경 쓰이는 게 뭔지.
+DETLEF: Detlef, achtundfünfzig, Busfahrer bei den Stadtwerken. Was mich beschäftigt? Dass ich um halb fünf aufstehe und mir trotzdem keine Wohnung in Offenbach mehr leisten kann.
+> 데틀레프, 쉰여덟, 시 공사 버스 기사예요. 신경 쓰이는 거요? 새벽 네 시 반에 일어나는데도 오펜바흐에선 더 이상 집을 못 구한다는 거.
+NADINE: Nadine, einundvierzig, Pflegefachkraft, alleinerziehend mit zwei Kindern. Bei mir sind es die Lebenshaltungskosten. Einkaufen, Strom, Kita. Am Zwanzigsten ist das Konto leer.
+> 나디네, 마흔하나, 요양 전문 간호사, 애 둘 키우는 한부모예요. 저는 생활물가요. 장보기, 전기, 어린이집. 20일이면 통장이 비어요.
+GIORGOS: Giorgos, zweiundfünfzig, ich habe einen Lebensmittelladen in der Innenstadt. Meine Sorge ist die Bürokratie. Ich verbringe mehr Zeit mit Formularen als mit Kunden.
+> 기오르고스, 쉰둘, 시내에서 식료품 가게를 해요. 제 걱정은 관료주의예요. 손님보다 서류랑 보내는 시간이 더 많아요.
+AMIRA: Amira, zweiundzwanzig, ich studiere Soziale Arbeit. Mich beschäftigt, dass Leute wie ich in diesem Wahlkampf nur als Problem vorkommen.
+> 아미라, 스물둘, 사회복지학 전공이에요. 저는 이번 선거에서 저 같은 사람들이 문제로만 등장한다는 게 신경 쓰여요.
+GISELA: Gisela, vierundsiebzig, vierzig Jahre bei der Post. Mich beschäftigt gar nichts mehr. Die da oben machen sowieso, was sie wollen.
+> 기젤라, 일흔넷, 우체국에서 40년 일했어요. 신경 쓰이는 거 이제 없어요. 위에 있는 사람들은 어차피 자기들 하고 싶은 대로 하니까.
+KEVIN: Kevin, neunundzwanzig, Lager am Flughafen, Schichtdienst. Ich sag's, wie es ist: Ich hab das Gefühl, für Leute wie mich macht keiner mehr Politik.
+> 케빈, 스물아홉, 공항 물류창고에서 교대근무 해요. 있는 그대로 말할게요. 나 같은 사람을 위해 정치하는 사람은 이제 아무도 없는 것 같아요.
+MARTINA: Martina, siebenundvierzig, ich arbeite in der Stadtverwaltung. Und ich höre den ganzen Tag, dass wir zu langsam sind. Was stimmt. Aber wir sind auch zu wenige.
+> 마르티나, 마흔일곱, 시청에서 일해요. 하루 종일 우리가 너무 느리다는 소릴 들어요. 맞는 말이죠. 그런데 우리는 사람도 너무 적어요.
+FRANK: Frank, fünfzig, Elektromeister, sechs Angestellte. Ich könnte zehn Aufträge mehr annehmen, wenn ich Leute fände. Ich finde keine.
+> 프랑크, 쉰, 전기 기술 장인, 직원 여섯 명이에요. 사람만 구하면 일감을 열 건은 더 받을 수 있어요. 그런데 못 구해요.
+SELIN: Wohnen, Preise, Bürokratie, Fachkräfte. Und zweimal: Wir kommen nicht vor.
+> 주거, 물가, 관료주의, 숙련 인력. 그리고 두 번이나: 우리는 안 보인다.
+KATHARINA: Und niemand hat das Wort „Klima" gesagt. Das heißt nicht, dass es ihnen egal ist. Nur, dass es heute Abend nicht obenauf liegt.
+> 그리고 아무도 '기후'라는 말을 안 했어. 관심이 없다는 뜻은 아니야. 오늘 저녁엔 맨 위에 있지 않다는 것뿐이지.
+BREHM: Bleiben wir bei der Miete. Detlef, was zahlst du?
+> 임대료 얘기를 계속해 보죠. 데틀레프, 얼마 내세요?
+DETLEF: Tausendeinhundertfünfzig warm für sechzig Quadratmeter. Vor zehn Jahren waren es siebenhundert. Mein Lohn ist nicht um zwei Drittel gestiegen.
+> 60제곱미터에 관리비 포함 1,150유로요. 10년 전엔 700이었어요. 제 월급이 3분의 2나 오르진 않았죠.
+FRANK: Und dann wundert man sich, dass keiner mehr Busfahrer werden will.
+> 그러고는 왜 버스 기사 하려는 사람이 없냐고 다들 의아해하죠.
+NADINE: In der Pflege ist es genauso. Wer in Frankfurt arbeitet, wohnt in Hanau. Wer in Hanau arbeitet, wohnt im Spessart.
+> 돌봄 쪽도 똑같아요. 프랑크푸르트에서 일하는 사람은 하나우에 살고, 하나우에서 일하는 사람은 슈페사르트에 살아요.
+GIORGOS: Und wer im Spessart wohnt, steht im Stau. Das ist der hessische Kreislauf.
+> 그리고 슈페사르트에 사는 사람은 교통 체증에 갇혀 있죠. 그게 헤센의 순환 구조예요.
+BREHM: Wer ist dafür verantwortlich?
+> 그건 누구 책임일까요?
+GISELA: Alle und keiner. Das ist ja das Schlimme. Man ruft irgendwo an, und dann ist es immer ein anderes Amt.
+> 다들이고 아무도 아니죠. 그게 최악이에요. 어디 전화를 하면 늘 다른 관청이래요.
+HENRIKE: Das ist exakt der Satz, den ich vor einem Jahr bei der Kinzigbrücke gesagt habe.
+> 저건 제가 1년 전 킨치히 다리 때 했던 말 그대로예요.
+KATHARINA: Dann sind Sie und Gisela sich schon einig. Sie weiß es nur noch nicht.
+> 그럼 장관님과 기젤라는 벌써 의견이 같네요. 기젤라가 아직 모를 뿐이죠.
+BREHM: Ich zeige euch jetzt ein paar Fotos von Politikerinnen und Politikern aus Hessen. Sagt einfach, was euch einfällt.
+> 이제 헤센 정치인 사진 몇 장을 보여 드릴게요. 떠오르는 대로 말씀해 주세요.
+NADINE: Den kenne ich. Albrecht. Der lächelt immer, als hätte er gerade einen Preis gewonnen.
+> 이 사람은 알아요. 알브레히트. 늘 방금 상이라도 받은 사람처럼 웃어요.
+KEVIN: Der da ist von der Bewegung Heimat. Kolb. Der redet wenigstens Klartext.
+> 저 사람은 베궁 하이마트예요. 콜프. 적어도 시원하게 말은 하죠.
+BREHM: Und diese Frau?
+> 그럼 이 여자분은요?
+GIORGOS: Keine Ahnung. Sieht aus wie meine Steuerberaterin.
+> 모르겠는데요. 제 세무사처럼 생겼네요.
+FRANK: Ist das nicht die Wirtschaftsministerin? Die war mal bei uns in der Innung. Hat gut geredet, aber sehr lange.
+> 경제장관 아니에요? 우리 동업조합에 한 번 왔었어요. 말은 잘했는데, 엄청 길게 했죠.
+HENRIKE: „Sehr lange." Wunderbar.
+> '엄청 길게.' 훌륭하네요.
+SELIN: Zwei von acht erkennen Sie. Das ist besser als dreiundzwanzig Prozent.
+> 여덟 명 중 두 명이 알아보네요. 23퍼센트보단 나아요.
+BREHM: Frank, was weißt du noch über sie?
+> 프랑크, 그분에 대해 또 아는 거 있어요?
+FRANK: Nichts Schlechtes. Das ist ja das Komische. Man weiß einfach gar nichts.
+> 나쁜 건 없어요. 그게 이상한 거죠. 그냥 아무것도 몰라요.
+BREHM: Und welche Sorge ist für euch die größte, wenn ihr an die nächsten fünf Jahre denkt?
+> 앞으로 5년을 생각하면 가장 큰 걱정은 뭔가요?
+MARTINA: Dass es so weitergeht. Nicht schlimmer, nicht besser. Einfach immer ein bisschen kaputter.
+> 이대로 계속 가는 거요. 더 나빠지지도, 나아지지도 않고. 그냥 계속 조금씩 더 망가지는 거.
+SELIN: Das ist der wichtigste Satz des Abends. Nicht Wut. Erschöpfung.
+> 그게 오늘 저녁 가장 중요한 문장이야. 분노가 아니라 지침.
+
+## 갈등 — DAS IST UNFAIR
+BREHM: Kommen wir zu einem schwierigen Thema. Migration. Was denkt ihr?
+> 어려운 주제로 넘어가 보죠. 이민이요. 어떻게 생각하세요?
+KEVIN: Ich sag's ehrlich, auch wenn ich dafür gleich schief angeguckt werde. In meinem Viertel gibt es keine Kitaplätze, keine Wohnungen und keine Arzttermine. Und dann kommen jedes Jahr noch mehr Leute. Das geht rechnerisch nicht auf.
+> 솔직히 말할게요, 바로 흘겨보실 거라도. 우리 동네엔 어린이집 자리도, 집도, 병원 예약도 없어요. 그런데 해마다 사람이 더 와요. 계산이 안 맞잖아요.
+AMIRA: Ich gucke dich nicht schief an. Aber meine Eltern sind vor dreißig Jahren gekommen. Meine Mutter pflegt seit zwanzig Jahren alte Menschen in Offenbach. Gehört sie zu den „Leuten, die kommen"?
+> 흘겨보는 거 아니야. 그런데 우리 부모님은 30년 전에 왔어. 우리 엄마는 20년째 오펜바흐에서 노인들을 돌봐. 우리 엄마도 그 '오는 사람들'에 들어가?
+KEVIN: Nein, so meine ich das nicht. Deine Mutter arbeitet. Ich rede von denen, wo keiner weiß, wer sie sind und ob sie bleiben dürfen.
+> 아니, 그런 뜻 아니야. 너희 엄마는 일하잖아. 내 말은 누군지도 모르고 머물러도 되는지도 모르는 사람들 얘기야.
+NADINE: Auf meiner Station arbeiten Kolleginnen aus den Philippinen, aus Bosnien und aus Kerala. Ohne die könnten wir den Laden zumachen. Das ist auch Migration.
+> 우리 병동엔 필리핀, 보스니아, 케랄라에서 온 동료들이 일해요. 그 사람들 없으면 문 닫아야 해요. 그것도 이민이에요.
+MARTINA: Darf ich etwas aus der Verwaltung sagen? Beides stimmt. Wir brauchen Fachkräfte, und gleichzeitig sind die Kommunen bei der Unterbringung am Limit. Wer nur das eine sagt, lügt ein bisschen.
+> 행정 쪽 얘기 좀 해도 될까요? 둘 다 맞아요. 숙련 인력은 필요하고, 동시에 지자체들은 수용 문제로 한계에 와 있어요. 한쪽만 말하는 사람은 조금씩 거짓말하는 거예요.
+GIORGOS: Und bei der Ausländerbehörde wartest du ein halbes Jahr auf einen Termin. Mein Neffe ist Koch, hat einen Arbeitsvertrag bei mir, und wartet seit sieben Monaten auf seine Erlaubnis.
+> 그리고 외국인청에선 예약 하나에 반년을 기다려요. 제 조카가 요리사인데, 우리 가게랑 근로계약서도 있는데, 허가를 일곱 달째 기다리고 있어요.
+FRANK: Siehst du, Kevin. Die, die arbeiten wollen, lässt man warten. Und bei den anderen schaut keiner hin. Beides ist falsch.
+> 봐, 케빈. 일하겠다는 사람은 기다리게 하고, 나머지는 아무도 안 들여다봐. 둘 다 틀렸어.
+KEVIN: Da sind wir uns mal einig.
+> 그건 우리 생각이 같네.
+HENRIKE: Das ist eine bessere Migrationsdebatte als im Landtag.
+> 주의회보다 이민 토론을 더 잘하네요.
+SELIN: Weil hier keiner gewinnen muss.
+> 여기선 아무도 이길 필요가 없으니까요.
+KATHARINA: Und weil niemand eine Kamera vor der Nase hat. Merken Sie sich das für Ihre nächste Talkshow.
+> 그리고 아무도 코앞에 카메라를 들이대고 있지 않으니까요. 다음 토크쇼 때 기억해 두세요.
+BREHM: Kevin, du hast gesagt, du überlegst, die Bewegung Heimat zu wählen. Warum?
+> 케빈, 베궁 하이마트를 찍을까 고민 중이라고 했죠. 왜요?
+KEVIN: Weil die die Einzigen sind, die zugeben, dass es Probleme gibt. Die anderen sagen immer, alles ist super, und wer was anderes sagt, ist ein Nazi. Ich bin kein Nazi. Ich bin müde.
+> 문제가 있다는 걸 인정하는 사람들이 그쪽밖에 없으니까요. 나머지는 늘 다 괜찮다고 하고, 다른 말 하면 나치래요. 난 나치가 아니에요. 지쳤을 뿐이에요.
+HENRIKE: Aber das stimmt doch nicht! Niemand von uns sagt, alles sei super. Und die Strompreise, über die Nadine geklagt hat — die werden zum großen Teil in Berlin und Brüssel entschieden, nicht in Wiesbaden.
+> 하지만 그건 사실이 아니잖아요! 우리 중 누구도 다 괜찮다고 하지 않아요. 그리고 나디네가 불평한 전기요금은 대부분 비스바덴이 아니라 베를린과 브뤼셀에서 결정된다고요.
+KATHARINA: Frau Ministerin. Leise.
+> 장관님. 조용히.
+HENRIKE: Ich bin leise. Aber das ist unfair. Ich kann doch nicht für alles verantwortlich sein, was in diesem Land schiefläuft.
+> 조용히 하고 있어요. 하지만 이건 불공평해요. 제가 이 나라에서 잘못 돌아가는 모든 일에 책임질 순 없잖아요.
+KATHARINA: Das verlangt auch niemand. Aber Kevin hat eben nicht über Zuständigkeiten geredet. Er hat über ein Gefühl geredet.
+> 아무도 그걸 요구하지 않아요. 하지만 케빈은 방금 소관을 얘기한 게 아니에요. 감정을 얘기한 거예요.
+HENRIKE: Gefühle kann man nicht regieren.
+> 감정으로 통치할 순 없어요.
+SELIN: Nein. Aber man kann sie ignorieren und dann die Wahl verlieren. Das ist in mehreren Ländern schon passiert.
+> 그렇죠. 하지만 감정을 무시하다가 선거에서 질 수는 있어요. 이미 여러 주에서 그런 일이 있었고요.
+BREHM: Ich spiele euch jetzt ein kurzes Video vor. Sechzig Sekunden. Danach sagt ihr mir bitte, was hängen bleibt.
+> 이제 짧은 영상을 하나 틀어 드릴게요. 60초예요. 끝나면 뭐가 기억에 남는지 말씀해 주세요.
+HENRIKE: Das ist mein Video. Das von der Bushaltestelle.
+> 제 영상이에요. 버스 정류장에서 찍은 거.
+NADINE: Die mit dem Vater. Das war echt, glaube ich. Das hat man gemerkt.
+> 아버지 얘기하는 사람. 그건 진짜였던 것 같아요. 느껴졌어요.
+DETLEF: „Ein Land, das funktioniert." Schöner Satz. Haben die anderen auch schon versprochen. In anderen Worten.
+> '일하는 나라.' 좋은 말이네. 다른 사람들도 이미 약속했었죠. 말만 바꿔서.
+GISELA: Sie wirkt ein bisschen kühl. Wie eine Bankdirektorin. Aber vielleicht ist das gar nicht so schlecht. Die Lustigen haben wir ja schon gehabt.
+> 좀 차가워 보여요. 은행 지점장처럼. 그래도 그게 그렇게 나쁘진 않을지도 몰라요. 재밌는 사람들은 이미 겪어 봤으니까.
+KEVIN: Ich glaub ihr nicht. Nichts gegen sie. Ich glaub halt keinem mehr.
+> 난 안 믿어요. 그 사람한테 감정 있는 건 아니고요. 그냥 이제 아무도 안 믿어요.
+AMIRA: Mir hat gefallen, dass sie nicht über Migranten geredet hat. Sondern über Busse. Die fahren wir nämlich auch.
+> 저는 그 사람이 이민자 얘기가 아니라 버스 얘기를 한 게 좋았어요. 버스는 우리도 타거든요.
+HENRIKE: Kühl. Bankdirektorin. Steuerberaterin. Ich höre schon, wie Albrecht die Plakate druckt.
+> 차갑다. 은행 지점장. 세무사. 알브레히트가 포스터 찍는 소리가 벌써 들리네요.
+KATHARINA: Sie haben „echt" überhört. Das hat Nadine gesagt. Und Gisela hat gesagt, dass kühl vielleicht nicht schlecht ist.
+> '진짜'라는 말은 흘려들으셨네요. 나디네가 그랬어요. 그리고 기젤라는 차가운 게 나쁘지 않을 수도 있다고 했고요.
+HENRIKE: Und Kevin glaubt mir nicht.
+> 그리고 케빈은 저를 안 믿죠.
+SELIN: Kevin glaubt niemandem. Das ist kein Urteil über Sie. Das ist eine Wahrnehmung, die in zwanzig Jahren Politik gewachsen ist.
+> 케빈은 아무도 안 믿어요. 그건 장관님에 대한 판단이 아니에요. 20년 정치 속에서 자라난 인식이죠.
+
+BREHM: Letzte Frage. Stellt euch vor, eine Politikerin aus Wiesbaden käme jetzt durch diese Tür. Was würdet ihr sie fragen?
+> 마지막 질문이에요. 지금 비스바덴에서 정치인 한 명이 이 문으로 들어온다고 상상해 보세요. 뭘 물어보시겠어요?
+DETLEF: Warum mein Bus seit drei Jahren dieselbe Verspätung hat.
+> 왜 내 버스가 3년째 똑같이 늦는지.
+GIORGOS: Warum mein Neffe nicht arbeiten darf.
+> 왜 제 조카가 일을 못 하는지.
+KEVIN: Warum ich ihr glauben soll.
+> 내가 왜 그 사람을 믿어야 하는지.
+
+## 해결·설득 — EINE VON DENEN DA OBEN
+BREHM: Vielen Dank. Damit ist die Gruppe offiziell beendet. Die Aufnahme ist gestoppt.
+> 감사합니다. 이것으로 그룹 토론은 공식적으로 끝났습니다. 녹화도 중단했어요.
+HENRIKE: Frau Brandt, ich gehe da jetzt rein.
+> 브란트 씨, 저 지금 들어갈게요.
+KATHARINA: Das ist methodisch …
+> 그건 방법론적으로…
+HENRIKE: Die Erhebung ist vorbei. Sie haben es selbst gehört. Ich will nicht mehr auswerten, ich will antworten.
+> 조사는 끝났어요. 직접 들으셨잖아요. 저는 이제 분석하고 싶지 않아요. 대답하고 싶어요.
+KATHARINA: Dann unter einer Bedingung: Sie erklären nicht. Kein Wort über Zuständigkeiten. Sie hören zu, und dann beantworten Sie genau die drei Fragen.
+> 그럼 조건이 하나 있어요. 설명하지 마세요. 소관에 관한 말은 한마디도 하지 마세요. 들으시고, 그 세 질문에만 정확히 답하세요.
+HENRIKE: Einverstanden.
+> 좋아요.
+BREHM: Ich frage die Gruppe, ob sie bleiben möchte. Freiwillig. — Sie sagen ja. Neugier ist stärker als Feierabend.
+> 그룹에 남아 있겠냐고 물어볼게요. 자유 의사로요. — 좋대요. 호기심이 퇴근보다 강하네요.
+HENRIKE: Guten Abend. Ich bin Henrike Sommer, die Steuerberaterin. Ich habe die letzten zwei Stunden hinter diesem Spiegel gesessen. Das tut mir nicht leid, aber ich wollte, dass Sie es wissen.
+> 안녕하세요. 헨리케 조머, 그 세무사입니다. 지난 두 시간 동안 이 거울 뒤에 앉아 있었어요. 미안하진 않지만, 알고 계셨으면 했어요.
+GIORGOS: Oh. Das mit der Steuerberaterin war nicht böse gemeint.
+> 아. 세무사 얘기는 나쁜 뜻이 아니었어요.
+HENRIKE: Meine Steuerberaterin ist sehr kompetent. Ich nehme es als Kompliment.
+> 제 세무사는 아주 유능해요. 칭찬으로 받을게요.
+GISELA: Na, jetzt sind wir gespannt. Eine von denen da oben, in echt.
+> 자, 이제 궁금하네. 위에 있는 사람들 중 하나, 실물로.
+HENRIKE: Ja. Ich bin eine von denen da oben. Und Sie haben recht mit dem Satz, dass es immer ein anderes Amt ist. Ich habe denselben Satz vor einem Jahr gesagt, als Ministerin. Das ist kein Trost, ich weiß.
+> 네. 저는 위에 있는 사람들 중 하나예요. 그리고 늘 다른 관청이라는 말, 맞아요. 저도 1년 전 장관으로서 똑같은 말을 했어요. 위로가 안 된다는 거 알아요.
+DETLEF: Und mein Bus?
+> 그럼 내 버스는요?
+HENRIKE: Ich weiß nicht, warum Ihr Bus zu spät kommt, Detlef. Ich werde Ihnen hier keine Antwort erfinden. Aber ich komme am Montag um fünf Uhr früh in Ihr Depot und fahre die Strecke mit. Dann weiß ich es.
+> 데틀레프 씨 버스가 왜 늦는지 저는 몰라요. 여기서 답을 지어내진 않을게요. 하지만 월요일 새벽 다섯 시에 차고지로 가서 그 노선을 같이 타겠습니다. 그럼 알게 되겠죠.
+DETLEF: Um fünf? Das sagen Sie jetzt so.
+> 다섯 시요? 지금은 그렇게 말하겠죠.
+KATHARINA: Sie wird da sein. Ich fahre sie hin.
+> 갈 거예요. 제가 모셔다드릴게요.
+GIORGOS: Und mein Neffe?
+> 그럼 제 조카는요?
+HENRIKE: Geben Sie mir seinen Namen und das Datum seines Antrags. Nicht, damit er bevorzugt wird. Sondern damit ich sehe, wo es bei allen hängt. Wenn es bei ihm sieben Monate dauert, dauert es bei Hunderten sieben Monate.
+> 조카 이름과 신청 날짜를 주세요. 특혜를 주려는 게 아니라, 모두에게 어디서 막히는지 보려는 거예요. 조카가 일곱 달 걸린다면 수백 명이 일곱 달 걸리는 거니까요.
+MARTINA: Bei uns im Amt sind es im Schnitt sogar acht. Wir haben elf offene Stellen.
+> 우리 관청에선 평균 여덟 달이에요. 빈자리가 열한 개고요.
+HENRIKE: Dann ist das mein erster Satz für Montag. Nicht das Formular ist das Problem, sondern die elf leeren Stühle.
+> 그럼 그게 월요일 제 첫 문장이네요. 문제는 서류가 아니라 비어 있는 의자 열한 개라고.
+KEVIN: Und warum soll ich Ihnen glauben?
+> 그럼 내가 왜 당신을 믿어야 하죠?
+HENRIKE: Sollen Sie nicht, Kevin. Wirklich nicht. Glauben Sie mir gar nichts. Prüfen Sie mich. Ich gebe Ihnen heute drei Zusagen, und in sechs Wochen schauen Sie nach, ob ich sie gehalten habe.
+> 믿지 마세요, 케빈 씨. 정말로요. 아무것도 믿지 마세요. 저를 검증하세요. 오늘 약속 세 개를 드릴 테니, 6주 뒤에 제가 그걸 지켰는지 확인해 보세요.
+KEVIN: Und wenn nicht?
+> 안 지키면요?
+HENRIKE: Dann wählen Sie mich nicht. Das ist Ihr gutes Recht. Aber dann wählen Sie bitte überhaupt. Nicht zu wählen ist die einzige Stimme, die garantiert bei denen da oben ankommt — als Schweigen.
+> 그럼 저를 찍지 마세요. 그건 당연한 권리예요. 하지만 투표는 꼭 하세요. 투표하지 않는 건 위에 있는 사람들한테 확실히 도착하는 유일한 표예요. 침묵으로요.
+KEVIN: … Okay. Sechs Wochen.
+> …알았어요. 6주.
+FRANK: Ich schreib's mir in den Kalender. Mit Erinnerung.
+> 저는 달력에 적어 둘게요. 알림도 설정해서.
+AMIRA: Darf ich ein Foto machen? Für meine Mutter. Sie glaubt mir sonst nicht, dass hier eine Ministerin war.
+> 사진 한 장 찍어도 돼요? 엄마 보여 주려고요. 안 그러면 여기 장관이 왔었다는 걸 안 믿을 거예요.
+HENRIKE: Gern. Aber ohne Hundewelpen.
+> 그러세요. 강아지는 빼고요.
+
+## 마무리 — NACHRICHT UM 21:47
+HENRIKE: Frau Brandt, ich habe in zwei Stunden mehr gelernt als in vier Jahren Kabinettssitzungen.
+> 브란트 씨, 두 시간 동안 4년간의 내각 회의보다 더 많은 걸 배웠어요.
+KATHARINA: Und Sie haben kein einziges Mal „Rahmenbedingungen" gesagt.
+> 그리고 '여건'이라는 말을 한 번도 안 하셨어요.
+HENRIKE: Das Wort ist für mich gestorben. Hinter einem Spiegel in Offenbach.
+> 그 단어는 저한테 죽었어요. 오펜바흐의 거울 뒤에서.
+SELIN: Und es gibt Neuigkeiten. Die Wochenumfrage ist da. Neue Mitte: zwölf Prozent. Plus drei seit Montag.
+> 그리고 새 소식이 있어요. 주간 여론조사가 나왔어요. 노이에 미테 12퍼센트. 월요일 이후 3포인트 상승.
+HENRIKE: Zwölf. Ich habe mich noch nie so über eine so kleine Zahl gefreut.
+> 12. 이렇게 작은 숫자에 이렇게 기뻐한 적은 처음이에요.
+KATHARINA: Freuen Sie sich bis morgen früh. Dann fahren wir zur nächsten kleinen Zahl.
+> 내일 아침까지만 기뻐하세요. 그다음엔 다음 작은 숫자를 향해 가는 거예요.
+SELIN: Moment. Jonas schreibt gerade. Er schickt einen Link. Er schreibt nur: „Bitte sofort ansehen."
+> 잠깐만. 요나스한테서 문자가 와. 링크를 보냈어. '지금 당장 봐 주세요'라고만 써 있어.
+KATHARINA: Was ist das?
+> 뭔데?
+SELIN: Ein Video. Die Ministerin, an einem Rednerpult. Sie sagt: „Wer über siebzig ist, sollte sich gut überlegen, ob er die Zukunft anderer mitbestimmen will."
+> 영상이야. 장관님이 연단에 서 계셔. 이렇게 말씀하셔. '일흔이 넘은 분들은 남의 미래를 함께 결정하고 싶은지 잘 생각해 보셔야 합니다.'
+HENRIKE: Das habe ich nie gesagt. Nie. Ich war den ganzen Abend hier.
+> 저는 그런 말 한 적 없어요. 절대로요. 저녁 내내 여기 있었잖아요.
+SELIN: Ich weiß. Aber es hat schon vierzigtausend Aufrufe. In einer Stunde.
+> 알아요. 그런데 벌써 조회 수 4만이에요. 한 시간 만에.
+KATHARINA: Dann hat der Wahlkampf gerade wirklich angefangen.
+> 그럼 선거전은 방금 진짜로 시작된 거네요.

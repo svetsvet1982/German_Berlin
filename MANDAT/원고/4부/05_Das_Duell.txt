@@ -1,0 +1,266 @@
+part: 4
+ep: 5
+title_de: Das Duell
+title_ko: 토론
+scene: 리허설 스튜디오 → 프랑크푸르트 방송국 생방송 스튜디오
+level: C1
+setting: 선거 33일 전 월요일부터 목요일 밤까지, 캠프가 빌린 프랑크푸르트 오스트엔트의 리허설 스튜디오와 가상의 지역 방송 Main-TV 생방송 스튜디오
+cast: KATHARINA | Dr. Katharina Brandt · 선거캠프 총괄 전략가
+cast: SELIN | Selin Aydın · 디지털 캠페인·여론 분석 총괄
+cast: TOBIAS | Tobias Wendt · BWA 공동창업자, 이번 화에서 캠프에 합류해 공약 재원·숫자 검증을 맡는다
+cast: HENRIKE | Dr. Henrike Sommer · Neue Mitte 주총리 후보
+cast: FALLER | Bernd Faller · Neue Mitte 헤센 주당 사무총장
+cast: ALBRECHT | Thomas Albrecht · 경쟁 거대정당의 주총리 후보 (가상)
+cast: KESSLER | Sabine Kessler · Main-TV 토론 진행자 (가상)
+note: ※ 부채제동장치(Schuldenbremse)는 연방과 주의 구조적 신규 부채를 제한하는 헌법 규정입니다(기본법 제109·115조). 2025년 개정으로 국방비 일부가 한도에서 제외되고, 5,000억 유로 규모의 인프라 특별기금(Sondervermögen)이 만들어졌으며, 그중 1,000억 유로는 주(州)에 배분됩니다. 또 그때까지 구조적 적자가 전혀 허용되지 않던 주들도 이제 합계 국내총생산(GDP)의 0.35%까지 구조적 차입을 할 수 있게 되었습니다. 헤센은 주 헌법(제141조)에도 부채제동 규정을 두고 있습니다. 그래서 '빚을 내서라도 학교와 다리에 투자할 것인가, 다음 세대를 위해 빚을 막을 것인가'는 진지한 양쪽 논리가 맞서는 쟁점입니다. 공약에는 늘 재원 대책(Gegenfinanzierung)이 따라야 하고, 방송사들은 토론 직후 발언을 검증하는 팩트체크(Faktencheck)를 내보냅니다. 토론 중 상대가 말을 끊을 때 쓰는 «Lassen Sie mich ausreden»(제 말 끝까지 들어 주세요)도 익혀 두세요. 등장하는 방송사·인물·수치는 가상입니다. 표현 초점: die Schuldenbremse, die Gegenfinanzierung, der Faktencheck, unterbrechen, Lassen Sie mich ausreden.
+next: 4부 6화 — «Wahlabend»(선거의 밤) — 18시 출구조사. 1위지만 과반은 아니다. 축배와 함께 시작되는 연정 계산, 그리고 포퓰리즘 정당의 약진에 캠프 분위기가 복잡해진다.
+
+## 도입 — DIE DRITTE NIEDERLAGE
+FALLER: „Frau Sommer, Ihre Regierung hat in fünf Jahren vierzigtausend Industriearbeitsplätze vernichtet. Wie wollen Sie das den Menschen in Rüsselsheim erklären?"
+> '조머 후보님, 당신 정부는 5년 동안 산업 일자리 4만 개를 없앴습니다. 뤼셀스하임 사람들에게 이걸 어떻게 설명하시겠습니까?'
+HENRIKE: Das ist so nicht richtig. Der Strukturwandel in der Automobilindustrie hat viele Ursachen, darunter die Energiepreise, die Zölle, die Nachfrage aus China, und außerdem muss man berücksichtigen, dass …
+> 그건 정확하지 않습니다. 자동차 산업의 구조 변화에는 여러 원인이 있습니다. 에너지 가격, 관세, 중국의 수요, 게다가 고려해야 할 것은…
+SELIN: Stopp. Neunzig Sekunden. Die Antwort hatte dreißig.
+> 그만. 90초예요. 답변 시간은 30초였어요.
+FALLER: Und ich als Albrecht hätte Sie längst unterbrochen. Dritte Probe, dritte Niederlage.
+> 그리고 알브레히트인 제가 벌써 말을 끊었을 겁니다. 세 번째 리허설, 세 번째 패배.
+HENRIKE: Ich weiß nicht einmal, ob die vierzigtausend stimmen. Bernd, woher hast du die?
+> 그 4만이 맞는지도 모르겠어요. 베른트, 그 숫자 어디서 났어?
+FALLER: Aus Albrechts Wahlkampfbroschüre. Seite drei.
+> 알브레히트 선거 책자에서. 3쪽.
+KATHARINA: Und genau da liegt das Problem. Wir proben gegen Zahlen, die wir nicht prüfen können. In drei Tagen sitzt sie live vor vierhunderttausend Zuschauern.
+> 바로 그게 문제예요. 우리가 검증할 수 없는 숫자를 상대로 연습하고 있어요. 사흘 뒤엔 시청자 40만 명 앞에서 생방송을 해야 하는데.
+TOBIAS: Die vierzigtausend stimmen nicht.
+> 그 4만은 틀렸어.
+SELIN: Tobias!
+> 토비아스!
+TOBIAS: Guten Tag. Entschuldigung, die Tür war offen. Es sind vierzehntausend, nicht vierzigtausend. Und in denselben fünf Jahren sind in Hessen einunddreißigtausend Stellen in der Industrie neu entstanden. Netto plus siebzehntausend.
+> 안녕하세요. 죄송해요, 문이 열려 있어서. 4만이 아니라 1만 4천입니다. 그리고 같은 5년 동안 헤센에서 산업 일자리 3만 1천 개가 새로 생겼어요. 순증 1만 7천.
+KATHARINA: Du bist gekommen.
+> 왔구나.
+TOBIAS: Du hast gestern Nacht gesagt, du legst nicht auf, bevor ich mich entschieden habe. Um halb drei hatte ich keine Wahl mehr.
+> 어젯밤에 내가 결정하기 전까진 안 끊는다며. 새벽 두 시 반쯤 되니까 선택의 여지가 없더라.
+
+## 분석 — WAS STIMMT?
+HENRIKE: Herr Wendt. Frau Brandt hat mir viel von Ihnen erzählt. Vor allem, dass Sie nie schnell Ja sagen.
+> 벤트 씨. 브란트 씨한테서 얘기 많이 들었어요. 특히 절대 쉽게 '예'라고 안 한다는 거요.
+TOBIAS: Das stimmt, Frau Ministerin. Ich habe auch noch nicht Ja gesagt. Ich bin erst einmal hier, um zu sehen, ob Ihre Zahlen stimmen.
+> 맞습니다, 장관님. 아직 '예'라고 하지도 않았어요. 일단 장관님 숫자가 맞는지 보러 온 겁니다.
+HENRIKE: Und wenn nicht?
+> 안 맞으면요?
+TOBIAS: Dann sage ich es Ihnen. Und dann entscheiden Sie, ob Sie mich noch haben wollen.
+> 그럼 말씀드리죠. 그다음엔 그래도 제가 필요하신지 장관님이 결정하시면 됩니다.
+FALLER: Charmant. Noch einer von der Sorte.
+> 상냥하시군. 같은 부류가 또 하나 왔네.
+SELIN: Herr Faller, das ist Tobias. Tobias, das ist Herr Faller. Ihr werdet euch hassen und dann sehr gut zusammenarbeiten.
+> 팔러 씨, 이쪽은 토비아스예요. 토비아스, 이분은 팔러 씨. 둘이 서로 싫어하다가 엄청 잘 맞을 거야.
+TOBIAS: Wie viel Zeit haben wir bis zum Duell?
+> 토론까지 시간이 얼마나 있어?
+KATHARINA: Achtundsechzig Stunden. Die Themen stehen fest: Haushalt und Schuldenbremse, Schule und Lehrermangel, Verkehr.
+> 68시간. 주제는 정해졌어. 예산과 부채제동장치, 학교와 교사 부족, 교통.
+FALLER: Und Henrike bekommt das letzte Wort in der Schlussrunde. Das hat das Los entschieden.
+> 그리고 마지막 발언은 헨리케가 합니다. 추첨으로 정해졌어요.
+TOBIAS: Gut. Fangen wir mit Albrechts Programm an. Er verspricht fünftausend zusätzliche Lehrerstellen, die Abschaffung der Kitagebühren für das zweite Kind und keinen einzigen Euro neue Schulden.
+> 좋아. 알브레히트 공약부터 시작하죠. 교사 정원 5천 명 추가, 둘째 아이 어린이집 비용 폐지, 그리고 신규 부채는 단 1유로도 없다.
+FALLER: Klingt gut. Das ist ja das Ärgerliche.
+> 좋게 들리죠. 그게 짜증 나는 거고요.
+TOBIAS: Fünftausend Stellen kosten im Jahr rund vierhundert Millionen, plus Pensionslasten. Die Kitagebühren noch einmal zweihundertsechzig. Er nennt als Gegenfinanzierung „Effizienzgewinne in der Verwaltung".
+> 교사 5천 명이면 연간 약 4억, 거기에 연금 부담이 더해져요. 어린이집 비용이 또 2억 6천. 재원 대책으로는 '행정 효율화에 따른 절감'을 들고 있죠.
+SELIN: Das ist der Klassiker. Effizienzgewinne sind das Einhorn der Haushaltspolitik.
+> 고전적이네요. 효율화 절감은 예산 정책의 유니콘이에요.
+TOBIAS: Nicht ganz. Es gibt sie. Aber nicht in dieser Höhe und nicht im ersten Jahr. Und das zweite Problem: Fünftausend Lehrer gibt es auf dem Arbeitsmarkt schlicht nicht. Man kann Stellen schaffen, aber keine Menschen.
+> 꼭 그렇진 않아. 존재하긴 해. 하지만 그 규모로는 아니고, 첫해에는 더더욱 아니지. 그리고 두 번째 문제. 노동시장에 교사 5천 명이 그냥 없어요. 자리는 만들 수 있어도, 사람은 못 만들죠.
+HENRIKE: Das ist mein Argument. Das will ich im Duell sagen.
+> 그게 제 논거예요. 토론에서 그 말을 하고 싶어요.
+TOBIAS: Dann müssen Sie Ihr eigenes Programm genauso ehrlich prüfen lassen. Darf ich?
+> 그러시려면 장관님 공약도 똑같이 정직하게 검증받으셔야 해요. 해도 될까요?
+HENRIKE: Bitte.
+> 하세요.
+TOBIAS: Die Neue Mitte verspricht zweitausend zusätzliche Lehrkräfte, dazu dreitausend Assistenzstellen für Verwaltung und IT an Schulen, ein Programm für Quereinsteiger und die Sanierung von hundertzwanzig Schulgebäuden.
+> 노이에 미테 공약은 교사 2천 명 추가, 학교 행정과 IT를 맡을 보조 인력 3천 명, 경력 전환 교사 프로그램, 그리고 학교 건물 120곳 개보수예요.
+FALLER: Alles durchgerechnet. Von unserer Fachkommission.
+> 다 계산한 겁니다. 우리 전문위원회에서.
+TOBIAS: Fast alles. Bei den Schulgebäuden rechnen Sie mit Geld aus dem Sondervermögen des Bundes. Hessen bekommt davon über zwölf Jahre rund siebeneinhalb Milliarden. Aber Sie haben dieselben Milliarden auch schon für Brücken und für Krankenhäuser eingeplant.
+> 거의 다요. 학교 건물에는 연방 특별기금 돈을 쓰겠다고 계산하셨죠. 헤센은 12년 동안 약 75억을 받아요. 그런데 같은 그 돈을 다리와 병원에도 이미 배정해 두셨어요.
+KATHARINA: Doppelt verplant?
+> 이중으로 배정했다고?
+TOBIAS: Teilweise. Es entsteht eine Lücke von etwa dreihundertvierzig Millionen pro Jahr. Ein Journalist mit einem Taschenrechner findet das in einer Stunde.
+> 일부는. 연간 약 3억 4천만의 구멍이 생겨요. 계산기 든 기자 한 명이면 한 시간 안에 찾아낼 거예요.
+FALLER: Und Albrecht mit seinem ganzen Apparat in zehn Minuten.
+> 그리고 알브레히트는 자기 조직 전체를 동원해서 10분 만에 찾겠죠.
+SELIN: Albrecht hat sechs Leute in der Programmabteilung. Wir haben Tobias.
+> 알브레히트는 정책실에 여섯 명이 있어요. 우리는 토비아스가 있고요.
+TOBIAS: Und ich bin seit zwölf Minuten hier. Das gleicht sich aus.
+> 그리고 저는 여기 온 지 12분 됐죠. 그걸로 비기는 거예요.
+HENRIKE: Wie schließen wir sie?
+> 어떻게 메우죠?
+TOBIAS: Es gibt drei Wege. Weniger versprechen, Subventionen streichen, oder den Spielraum nutzen, den die Länder seit der Reform der Schuldenbremse haben. Seitdem dürfen sie zusammen bis zu null Komma fünfunddreißig Prozent des BIP strukturell an Krediten aufnehmen.
+> 세 가지 방법이 있어요. 덜 약속하거나, 보조금을 없애거나, 부채제동장치 개혁 이후 주들에 생긴 여지를 쓰는 거죠. 그 뒤로 주들은 합쳐서 GDP의 0.35퍼센트까지 구조적 차입을 할 수 있어요.
+SELIN: Und Albrecht wird genau das „Schuldenmacherei" nennen.
+> 그리고 알브레히트는 바로 그걸 '빚잔치'라고 부르겠죠.
+TOBIAS: Das wird er. Und er hat ein ernstes Argument. Zinsen sind Ausgaben, die keinem Kind zugutekommen. Wer heute leiht, schränkt die Spielräume der nächsten Regierung ein.
+> 그렇겠죠. 그리고 그건 진지한 논거예요. 이자는 어떤 아이에게도 돌아가지 않는 지출이에요. 오늘 빌리는 사람은 다음 정부의 여지를 좁히는 거고요.
+KATHARINA: Und das Gegenargument?
+> 그럼 반론은?
+TOBIAS: Eine Schule mit undichtem Dach ist auch eine Schuld. Nur steht sie in keinem Haushalt. Beides ist wahr. Die Frage ist, wofür man leiht — für Konsum oder für etwas, das dreißig Jahre hält.
+> 지붕 새는 학교도 빚이에요. 다만 어떤 예산서에도 안 적혀 있을 뿐이죠. 둘 다 사실이에요. 문제는 무엇을 위해 빌리느냐예요. 소비를 위해서냐, 30년 가는 걸 위해서냐.
+HENRIKE: Das ist der Satz. Den sage ich im Duell.
+> 그게 그 문장이에요. 토론에서 그 말을 할게요.
+TOBIAS: Nur wenn die Lücke vorher geschlossen ist. Sonst ist es der Satz einer Frau, die Schulden machen will und das hübsch formuliert.
+> 구멍을 먼저 메운 다음에만요. 안 그러면 빚을 내고 싶어서 그걸 예쁘게 포장하는 사람의 문장이 돼요.
+
+## 갈등 — KEINE ZEIT FÜR WAHRHEIT?
+FALLER: Herr Wendt, bei allem Respekt. Das Programm ist beschlossen. Der Landesparteitag hat es vor einer Woche verabschiedet. Wir können doch jetzt nicht drei Tage vor dem Duell daran herumschrauben.
+> 벤트 씨, 실례지만. 공약은 확정됐어요. 일주일 전에 주당 대회가 채택했다고요. 토론 사흘 전에 그걸 이제 와서 뜯어고칠 순 없어요.
+TOBIAS: Doch. Genau jetzt. Nach dem Duell ist es zu spät.
+> 아뇨, 할 수 있어요. 바로 지금. 토론 끝나면 늦어요.
+FALLER: Niemand liest Seite achtundneunzig. Das haben Sie selbst gesagt, Frau Brandt.
+> 98쪽은 아무도 안 읽어요. 브란트 씨가 직접 그러셨잖아요.
+KATHARINA: Wähler lesen sie nicht. Albrechts Leute schon.
+> 유권자들은 안 읽죠. 알브레히트 쪽 사람들은 읽어요.
+FALLER: Und wenn wir jetzt das Programm ändern, heißt es morgen: „Neue Mitte rudert zurück." Das ist schlimmer als eine Lücke, die vielleicht niemand findet.
+> 그리고 지금 공약을 바꾸면 내일 '노이에 미테, 꽁무니 빼다'라는 기사가 나와요. 아무도 못 찾을 수도 있는 구멍보다 그게 더 나빠요.
+TOBIAS: „Vielleicht" ist kein Wort, mit dem ich arbeite.
+> '아마'는 제가 일할 때 쓰는 단어가 아니에요.
+FALLER: Sie sind seit vierzig Minuten in diesem Wahlkampf.
+> 이 선거운동에 들어온 지 40분 되셨죠.
+TOBIAS: Und Sie seit dreißig Jahren in dieser Partei, die seit zwölf Jahren nicht gewonnen hat. Ich habe meine Hausaufgaben gemacht.
+> 그리고 팔러 씨는 12년째 이기지 못한 이 당에 30년째 계시고요. 저도 숙제는 해 왔습니다.
+SELIN: Oh nein. Er hat den Satz geklaut.
+> 아, 안 돼. 그 문장을 훔쳤어.
+FALLER: Den kenne ich schon. Er wird nicht besser, wenn ihn jeder Berater wiederholt.
+> 그 문장 이미 들었어요. 컨설턴트마다 반복한다고 더 나아지진 않습니다.
+HENRIKE: Bernd hat in einem Punkt recht. Ein Rückzieher kurz vor dem Duell sieht schwach aus.
+> 베른트 말이 한 가지는 맞아요. 토론 직전에 물러서면 약해 보여요.
+KATHARINA: Und eine ertappte Lücke sieht unehrlich aus. Was ist schlimmer, Frau Ministerin? Schwach oder unehrlich?
+> 그리고 들킨 구멍은 정직하지 않아 보이죠. 어느 쪽이 더 나빠요, 장관님? 약한 거요, 정직하지 않은 거요?
+HENRIKE: Das ist eine rhetorische Frage.
+> 그건 수사적 질문이네요.
+KATHARINA: Nein. Es ist die einzige Frage, die zählt.
+> 아니요. 중요한 유일한 질문이에요.
+FALLER: Schön gesagt. Und wer erklärt es den Delegierten, die das Programm beschlossen haben?
+> 말은 좋네요. 그럼 공약을 의결한 대의원들한테는 누가 설명합니까?
+TOBIAS: Ich. Auf einer Seite, nicht auf achtundneunzig.
+> 제가요. 98쪽이 아니라 한 쪽으로.
+HENRIKE: Dann kommt mein eigentliches Problem. Ich will Albrecht im Duell angreifen. Seine fünftausend Lehrer, seine Effizienzgewinne, seine vierzigtausend Arbeitsplätze. Ich will ihn vorführen.
+> 그럼 제 진짜 문제를 말할게요. 토론에서 알브레히트를 공격하고 싶어요. 그 교사 5천 명, 그 효율화 절감, 그 일자리 4만 개. 망신을 주고 싶다고요.
+KATHARINA: Das würde ich lassen.
+> 저라면 안 하겠어요.
+HENRIKE: Warum? Er lügt.
+> 왜요? 거짓말을 하잖아요.
+KATHARINA: Er übertreibt. Das ist ein Unterschied, auch wenn er heute Abend klein wirkt. Und wenn Sie ihn vorführen, sehen die Leute eine Ministerin, die von oben herab einen Herausforderer belehrt.
+> 과장하는 거예요. 오늘 밤엔 작아 보여도, 그건 차이가 있어요. 그리고 장관님이 그를 망신 주면, 사람들은 도전자를 위에서 내려다보며 훈계하는 장관을 보게 될 거예요.
+SELIN: Die Fokusgruppe hat „kühl" und „Bankdirektorin" gesagt. Ein Angriff mit Zahlen bestätigt beides.
+> 포커스그룹에서 '차갑다', '은행 지점장'이라고 했잖아요. 숫자로 공격하면 둘 다 확인시켜 주는 거예요.
+HENRIKE: Also soll ich seine Zahlen einfach stehen lassen?
+> 그럼 그 사람 숫자를 그냥 내버려 두라고요?
+TOBIAS: Nein. Sie korrigieren sie. Ruhig, einmal, mit Quelle. Und dann reden Sie über etwas anderes. Wer am lautesten recht hat, verliert im Fernsehen meistens.
+> 아뇨. 바로잡으세요. 차분하게, 한 번, 출처와 함께. 그리고 다른 얘기로 넘어가세요. 텔레비전에선 가장 큰 소리로 옳은 사람이 대개 집니다.
+HENRIKE: Sie sind seit vierzig Minuten hier und reden schon wie Frau Brandt.
+> 여기 오신 지 40분 됐는데 벌써 브란트 씨처럼 말씀하시네요.
+TOBIAS: Sie hat es von mir. Das sagt sie nur nicht.
+> 브란트가 나한테 배운 거예요. 말을 안 할 뿐이죠.
+KATHARINA: Tobias.
+> 토비아스.
+TOBIAS: Gut. Dann eine ernste Frage, bevor ich weitermache. Frau Ministerin, ich bin kein Politiker. Ich glaube Zahlen, keinen Versprechen. Wenn ich bleibe, dann nur unter einer Bedingung.
+> 좋아요. 그럼 계속하기 전에 진지한 질문 하나. 장관님, 저는 정치인이 아닙니다. 저는 약속이 아니라 숫자를 믿어요. 제가 남는다면, 조건이 딱 하나 있습니다.
+HENRIKE: Welche?
+> 뭔데요?
+TOBIAS: Keine Zahl verlässt dieses Haus, die ich nicht geprüft habe. Kein Plakat, keine Rede, kein Duell. Und wenn ich sage, sie stimmt nicht, dann wird sie geändert — auch wenn es schlecht aussieht.
+> 제가 검증하지 않은 숫자는 하나도 이 건물 밖으로 나가지 않는다. 포스터도, 연설도, 토론도. 그리고 제가 틀렸다고 하면 바꾼다. 모양새가 나빠 보이더라도.
+FALLER: Ein Vetorecht. Für einen Mann, der vor vierzig Minuten durch die Tür kam.
+> 거부권이라. 40분 전에 문으로 들어온 사람한테.
+TOBIAS: Einundvierzig.
+> 41분이요.
+HENRIKE: Und warum haben Sie so lange gezögert, Herr Wendt? Frau Brandt hat Sie vor Monaten gefragt.
+> 그런데 왜 그렇게 오래 망설이셨어요, 벤트 씨? 브란트 씨가 몇 달 전에 물어봤다던데요.
+TOBIAS: Weil ich aus Leipzig komme. Ich habe als Kind viele Politiker gesehen, die Versprechen gemacht haben, und dann hat niemand nachgerechnet. Ich wollte nicht einer von denen werden, die rechnen und trotzdem schweigen.
+> 제가 라이프치히 출신이라서요. 어릴 때 약속만 하고 아무도 계산하지 않는 정치인을 많이 봤어요. 계산해 놓고도 입 다무는 사람 중 하나가 되고 싶지 않았어요.
+HENRIKE: Und was hat Sie umgestimmt?
+> 그럼 뭐가 마음을 바꿨어요?
+TOBIAS: Ihr Video aus Offenbach. Als Sie zu dem jungen Mann gesagt haben: Glauben Sie mir nicht, prüfen Sie mich. Ich dachte: Dann prüfe ich eben.
+> 오펜바흐 영상이요. 그 청년한테 '저를 믿지 말고 검증하세요'라고 하셨을 때. 그럼 내가 검증해 주지, 싶었죠.
+
+## 해결·설득 — LASSEN SIE MICH AUSREDEN
+HENRIKE: Dann haben Sie Ihr Vetorecht, Herr Wendt. Sie sind ab heute unser Faktencheck. Und Bernd — wir schließen die Lücke. Heute noch, bevor sie jemand anders findet.
+> 그럼 거부권 드리죠, 벤트 씨. 오늘부터 우리 팩트체크 담당이에요. 그리고 베른트, 구멍은 메운다. 다른 사람이 찾기 전에, 오늘 안에.
+FALLER: Wie?
+> 어떻게?
+TOBIAS: Die Schulsanierung wird gestreckt: hundertzwanzig Gebäude über sechs statt vier Jahre. Und wir streichen die Förderung für Dienstwagen mit Verbrennungsmotor in der Landesverwaltung. Damit ist die Lücke zu. Ohne neue Schulden.
+> 학교 개보수 기간을 늘려요. 건물 120곳을 4년이 아니라 6년에 걸쳐. 그리고 주 행정기관의 내연기관 관용차 지원을 없애요. 그럼 구멍이 메워져요. 신규 부채 없이.
+FALLER: Die Dienstwagen. Das wird im Kabinett Freunde kosten.
+> 관용차라. 내각에서 친구 좀 잃겠군.
+HENRIKE: Dann fange ich mit meinem eigenen an.
+> 그럼 내 차부터 시작하지.
+KESSLER: Guten Abend und herzlich willkommen zum Duell. Thomas Albrecht, Henrike Sommer — die ersten neunzig Sekunden gehören dem Haushalt. Herr Albrecht, Sie beginnen.
+> 안녕하십니까, 토론에 오신 것을 환영합니다. 토마스 알브레히트 후보, 헨리케 조머 후보. 처음 90초는 예산입니다. 알브레히트 후보부터 시작하시죠.
+ALBRECHT: Danke. Die Hessen haben ein Recht darauf zu wissen: Diese Landesregierung hat in fünf Jahren vierzigtausend Industriearbeitsplätze verloren, und Frau Sommer war die zuständige Ministerin. Jetzt will sie auch noch Schulden machen. Schulden von heute sind die Steuern unserer Kinder.
+> 감사합니다. 헤센 시민들은 알 권리가 있습니다. 이 주 정부는 5년 동안 산업 일자리 4만 개를 잃었고, 조머 후보가 그 담당 장관이었습니다. 이제는 빚까지 내겠답니다. 오늘의 빚은 우리 아이들의 세금입니다.
+HENRIKE: Herr Albrecht, eine Korrektur, dann komme ich zu Ihrer eigentlichen Frage. Laut Statistischem Landesamt sind es vierzehntausend, nicht vierzigtausend. Und im selben Zeitraum sind einunddreißigtausend neue Industriearbeitsplätze entstanden. Jede einzelne verlorene Stelle ist eine zu viel. Aber die Zahl ist falsch.
+> 알브레히트 후보님, 하나만 바로잡고 본론으로 가겠습니다. 주 통계청에 따르면 4만이 아니라 1만 4천입니다. 그리고 같은 기간에 산업 일자리 3만 1천 개가 새로 생겼습니다. 사라진 일자리는 하나하나가 다 아픕니다. 하지만 그 숫자는 틀렸습니다.
+ALBRECHT: Das sind Statistiktricks. Fragen Sie die Leute in Rüsselsheim, ob die neuen Stellen …
+> 그건 통계 장난입니다. 뤼셀스하임 사람들한테 물어보세요, 새 일자리가…
+HENRIKE: Lassen Sie mich ausreden, Herr Albrecht. Sie hatten Ihre neunzig Sekunden.
+> 제 말 끝까지 들어 주세요, 알브레히트 후보님. 후보님은 90초를 쓰셨잖아요.
+KESSLER: Frau Sommer hat das Wort.
+> 조머 후보 발언 차례입니다.
+HENRIKE: Zu den Schulden. Sie haben recht, dass Zinsen kein Kind klüger machen. Deshalb leihen wir keinen Euro für laufende Ausgaben. Aber eine Schule mit undichtem Dach ist auch eine Schuld gegenüber unseren Kindern. Sie steht nur in keinem Haushalt.
+> 빚에 대해서. 이자가 아이를 더 똑똑하게 만들지 않는다는 말씀은 옳습니다. 그래서 우리는 경상 지출을 위해선 1유로도 빌리지 않습니다. 하지만 지붕 새는 학교도 우리 아이들에 대한 빚입니다. 단지 어떤 예산서에도 적혀 있지 않을 뿐이죠.
+TOBIAS: Gut. Ruhig. Mit Quelle.
+> 좋아. 차분하게. 출처까지.
+SELIN: Die Live-Kurve geht nach oben. Bei Unentschlossenen plus elf beim Satz mit dem Dach.
+> 실시간 반응 곡선이 올라가요. 미결정층에서 지붕 문장에 플러스 11.
+KESSLER: Kommen wir zur Schule. Herr Albrecht, Sie versprechen fünftausend neue Lehrkräfte. Woher sollen die kommen?
+> 학교로 넘어가죠. 알브레히트 후보, 교사 5천 명을 새로 약속하셨는데, 그 사람들은 어디서 옵니까?
+ALBRECHT: Wir werden den Beruf wieder attraktiv machen. Bessere Bezahlung, weniger Bürokratie. Und eins sage ich Ihnen, Frau Sommer: Den Lehrermangel hat Ihre Koalition zu verantworten.
+> 교직을 다시 매력적으로 만들 겁니다. 더 나은 보수, 덜한 관료주의. 그리고 하나 말씀드리죠, 조머 후보. 교사 부족은 당신네 연정의 책임입니다.
+HENRIKE: Zum Teil, ja. Das gebe ich zu. Wir haben zu spät ausgebildet, und das war ein Fehler, an dem ich als Kabinettsmitglied beteiligt war.
+> 일부는 그렇습니다. 인정합니다. 교사 양성을 너무 늦게 시작했고, 그건 저도 내각의 일원으로서 함께한 잘못입니다.
+ALBRECHT: … Nun. Immerhin.
+> …뭐. 그나마.
+KATHARINA: Damit hat er nicht gerechnet. Seht ihr sein Gesicht?
+> 저건 예상 못 했네. 저 표정 봤어?
+SELIN: Plus vierzehn bei den Unentschlossenen. Für ein Eingeständnis.
+> 미결정층에서 플러스 14. 잘못을 인정한 것만으로.
+HENRIKE: Aber gerade deshalb verspreche ich keine Lehrer, die es nicht gibt. Fünftausend Stellen kann man schaffen, Herr Albrecht. Fünftausend Menschen nicht. Wir versprechen zweitausend Lehrkräfte und dreitausend Assistenzkräfte, die den Lehrern Verwaltung und Technik abnehmen. Damit wieder unterrichtet wird, statt kopiert.
+> 하지만 바로 그래서 저는 존재하지 않는 교사를 약속하지 않습니다. 자리 5천 개는 만들 수 있죠, 알브레히트 후보님. 사람 5천 명은 못 만듭니다. 우리는 교사 2천 명과, 교사들에게서 행정과 기술 업무를 덜어 줄 보조 인력 3천 명을 약속합니다. 복사 대신 다시 수업을 하도록.
+ALBRECHT: Und die Gegenfinanzierung? Ihr eigenes Programm hat eine Lücke von über dreihundert Millionen. Seite achtundneunzig.
+> 그럼 재원 대책은요? 당신네 공약엔 3억이 넘는 구멍이 있습니다. 98쪽.
+FALLER: Da ist es. Ich hab's gesagt.
+> 나왔다. 내가 말했잖아.
+HENRIKE: Die hatte es, Herr Albrecht. Wir haben sie am Montag geschlossen. Die Schulsanierung wird auf sechs Jahre gestreckt, und die Landesverwaltung verzichtet auf die Förderung von Verbrennerdienstwagen. Ich habe mit meinem eigenen angefangen. Das aktualisierte Kapitel steht seit heute Mittag online. Darf ich Ihnen eine Kopie geben?
+> 있었죠, 알브레히트 후보님. 월요일에 메웠습니다. 학교 개보수는 6년으로 늘리고, 주 행정기관은 내연기관 관용차 지원을 포기합니다. 제 차부터 시작했고요. 수정된 장은 오늘 정오부터 온라인에 올라가 있습니다. 한 부 드릴까요?
+KESSLER: Unser Faktencheck-Team bestätigt gerade: Das Kapitel wurde heute um zwölf Uhr aktualisiert. Und die Zahl von vierzehntausend Arbeitsplätzen stimmt.
+> 저희 팩트체크팀이 방금 확인했습니다. 해당 장은 오늘 12시에 수정됐습니다. 그리고 일자리 1만 4천이라는 숫자도 맞습니다.
+TOBIAS: Ich nehme alles zurück, was ich je über Fernsehen gesagt habe.
+> 텔레비전에 대해 내가 했던 말 전부 취소할게.
+KATHARINA: Noch nicht. Schlussrunde.
+> 아직 아니야. 마지막 발언이 남았어.
+HENRIKE: Herr Albrecht und ich sind uns in vielem nicht einig. Aber ich glaube, er will auch, dass dieses Land funktioniert. Der Unterschied ist: Ich verspreche Ihnen nur, was ich nachgerechnet habe. Und wenn ich mich verrechne, sage ich es Ihnen. Bevor es ein anderer tut.
+> 알브레히트 후보와 저는 많은 점에서 생각이 다릅니다. 하지만 저는 그분도 이 나라가 제대로 돌아가길 바란다고 믿습니다. 차이는 이겁니다. 저는 계산해 본 것만 약속합니다. 그리고 계산을 잘못하면 말씀드리겠습니다. 다른 사람이 말하기 전에.
+
+## 마무리 — ICH BIN DABEI
+SELIN: Blitzumfrage nach dem Duell: Wer hat überzeugt? Sommer vierundvierzig, Albrecht siebenunddreißig, unentschieden neunzehn.
+> 토론 직후 긴급 조사. 누가 더 설득력 있었나? 조머 44, 알브레히트 37, 판단 유보 19.
+FALLER: Vierundvierzig. Gegen Albrecht. Ich muss mich setzen.
+> 44. 알브레히트를 상대로. 좀 앉아야겠어.
+HENRIKE: Herr Wendt, das mit der Lücke — wenn Sie nicht gekommen wären, hätte er mich damit erledigt.
+> 벤트 씨, 그 구멍 말이에요. 당신이 안 왔으면 그 사람이 그걸로 저를 끝장냈을 거예요.
+TOBIAS: Er hätte es versucht. Sie haben übrigens etwas Besseres getan als jede Zahl: Sie haben einen Fehler zugegeben, live. Das habe ich bei Politikern noch nie gesehen.
+> 시도는 했겠죠. 그런데 장관님은 어떤 숫자보다 나은 걸 하셨어요. 생방송에서 잘못을 인정하셨잖아요. 정치인이 그러는 건 처음 봤습니다.
+HENRIKE: Ich auch nicht. Es war furchtbar. Und erstaunlich leicht.
+> 저도요. 끔찍했어요. 그리고 놀랄 만큼 쉬웠어요.
+KATHARINA: Und jetzt, Tobias? Du hast immer noch nicht Ja gesagt.
+> 그래서, 토비아스? 너 아직도 '예'라고 안 했어.
+TOBIAS: Muss ich das wirklich laut sagen?
+> 그걸 꼭 소리 내서 말해야 돼?
+SELIN: Ja. Das ist Tradition.
+> 응. 전통이잖아.
+TOBIAS: Gut. Ich bin dabei. Schon wieder.
+> 좋아. 나도 할게. 또다시.
+FALLER: Willkommen im Wahlkampf, Herr Wendt. Ich hasse Sie übrigens immer noch ein bisschen.
+> 선거운동에 오신 걸 환영합니다, 벤트 씨. 참고로 아직도 조금은 싫습니다.
+TOBIAS: Das ist in Ordnung, Herr Faller. Bei mir dauert Sympathie auch immer etwas länger.
+> 괜찮습니다, 팔러 씨. 저도 호감이 생기는 데는 늘 좀 오래 걸려요.
+SELIN: Neue Sonntagsfrage, gerade reingekommen: Neue Mitte neunzehn Prozent. Albrecht fünfundzwanzig. Noch neunundzwanzig Tage.
+> 새 일요 여론조사, 방금 들어왔어요. 노이에 미테 19퍼센트. 알브레히트 25. 아직 29일 남았어요.

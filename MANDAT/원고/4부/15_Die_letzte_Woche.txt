@@ -1,0 +1,271 @@
+part: 4
+ep: 15
+title_de: Die letzte Woche
+title_ko: 마지막 주
+scene: 선거 전 마지막 주, 베를린 노이쾰른 호별 방문 → 프랑크푸르트 유세 → 베를린행 ICE
+level: C1
+setting: 선거 나흘 전 수요일부터 금요일 밤까지, 베를린 노이쾰른 존넨알레 주변 주택가, 캠프 사무실, 프랑크푸르트 뢰머베르크 광장, 그리고 베를린으로 돌아오는 ICE 안
+cast: SELIN | Selin Aydın · 디지털 캠페인·여론 분석 총괄, 노이쾰른 출신
+cast: KATHARINA | Dr. Katharina Brandt · 연방 선거캠프 총괄 전략가
+cast: TOBIAS | Tobias Wendt · 공약 재원·예산 검증 담당
+cast: HENRIKE | Dr. Henrike Sommer · Neue Mitte 총리 후보
+cast: UTE | Ute Hennig · 베를린 캠프 사무실 책임자
+cast: HATICE | Hatice Aydın · 셀린의 어머니, 노이쾰른에서 수선집 운영 (58)
+cast: OSMAN | Osman · 존넨알레의 키오스크 주인, 셀린을 어릴 때부터 앎 (66)
+cast: BAUMANN | Frau Baumann · 노이쾰른 주민, 투표하지 않겠다는 연금생활자 (70)
+cast: JANNIK | Jannik · 처음 투표하는 대학생 (18)
+cast: KROLL | Fabian Kroll · 경쟁 캠프의 데이터팀 직원 (가상)
+cast: LORENZ | Jan-Hendrik Lorenz · Reuter의 전략 자문 (전화)
+cast: FALLER | Bernd Faller · Neue Mitte 헤센 주당 사무총장
+note: ※ 독일 선거 막판에는 집집마다 초인종을 누르는 호별 방문(Haustürwahlkampf)이 투표율(Wahlbeteiligung)을 끌어올리는 가장 효과적인 방법으로 꼽힙니다. 유권자는 선거 몇 주 전 지자체에서 우편으로 투표 안내문(Wahlbenachrichtigung)을 받고, 투표소가 바뀌면 이 역시 공식 우편으로만 통지됩니다. 우편투표(Briefwahl)는 보통 선거 전 금요일 18시까지 신청할 수 있고(갑작스러운 질병 같은 예외는 일요일 15시까지), 투표 봉투는 선거 당일 18시까지 선거관리 당국에 도착해야 합니다. 연방 선거관리 책임자는 연방선거관리관(Bundeswahlleiterin)입니다. 속임수로 유권자를 투표하지 못하게 하는 행위는 형법상 '유권자 기만죄(Wählertäuschung, 제108a조)'로 처벌됩니다. 상대 캠프의 내부 자료를 사들이는 것은 불법일 수 있고, 무엇보다 선거의 품위(Anstand)를 해칩니다. 등장하는 인물·수치는 가상입니다. 표현 초점: der Haustürwahlkampf, die Wahlbeteiligung, die Briefwahl, der Anstand, Gewinnen ja. Aber nicht so.
+next: 4부 16화 — «Nach der Wahl»(선거가 끝난 뒤) — 근소한 1위, 그리고 다시 연정 협상. 새벽, 네 부의 인물들이 차례로 메시지를 보낸다. 에필로그는 프랑크푸르트 웨스트엔드, 처음의 그 건물 앞이다.
+
+## 도입 — SONNENALLEE
+SELIN: Hier bin ich aufgewachsen. Zweiter Hinterhof, dritter Stock links. Das Fenster mit der Wäsche ist das meiner Mutter.
+> 나 여기서 자랐어. 두 번째 안뜰, 3층 왼쪽. 빨래 널린 창문이 우리 엄마네야.
+KATHARINA: Und du willst ausgerechnet hier Haustürwahlkampf machen? Vor deinen Nachbarn?
+> 그런데 하필 여기서 호별 방문을 하겠다고? 이웃들 앞에서?
+SELIN: Gerade hier. Die Wahlbeteiligung in diesem Wahlkreis lag beim letzten Mal bei einundfünfzig Prozent. Im Bundesschnitt waren es über achtzig. Hier entscheidet sich nicht, wen die Leute wählen. Hier entscheidet sich, ob.
+> 바로 여기라서. 지난번 이 선거구 투표율이 51퍼센트였어. 전국 평균은 80퍼센트가 넘었는데. 여기선 누구를 찍느냐가 아니라 찍느냐 마느냐가 갈려.
+OSMAN: Selin? Selin Aydın? Die Kleine von Hatice, die immer bei mir Kaugummi geklaut hat?
+> 셀린? 셀린 아이든? 맨날 우리 가게에서 껌 훔쳐 가던 하티제네 꼬맹이?
+SELIN: Osman Amca! Ich habe nie geklaut. Ich habe angeschrieben.
+> 오스만 아저씨! 저 훔친 적 없어요. 외상 한 거예요.
+OSMAN: Neunzehnhundert Kaugummis. Ich habe mitgeschrieben. Und jetzt? Bist du im Fernsehen?
+> 껌 천구백 개. 내가 다 적어 놨지. 그래서 지금은? 텔레비전에 나오냐?
+SELIN: Ich mache Wahlkampf. Für Henrike Sommer.
+> 선거운동 해요. 헨리케 조머 캠프에서.
+OSMAN: Die mit der Katze? Die finde ich gut. Aber wählen? Ich weiß nicht. Die da oben machen sowieso, was sie wollen.
+> 그 고양이 사람? 괜찮더라. 그런데 투표? 모르겠다. 위에 있는 사람들은 어차피 자기들 하고 싶은 대로 하잖아.
+KATHARINA: Den Satz habe ich in diesem Wahlkampf schon ein Dutzend Mal gehört.
+> 그 말, 이번 선거에서 벌써 열두 번은 들었어요.
+SELIN: Und jedes Mal war er ehrlich gemeint. — Osman Amca, darf ich dir in fünf Minuten erklären, warum du trotzdem wählen solltest?
+> 그리고 매번 진심이었지. — 오스만 아저씨, 그래도 왜 투표해야 하는지 5분만 설명해도 돼요?
+OSMAN: Fünf Minuten. Und du bezahlst die Kaugummis.
+> 5분. 그리고 껌값은 네가 내라.
+TOBIAS: Selin. Ute hat gerade angerufen. Wir haben ein Problem. Ein großes.
+> 셀린. 우테한테서 방금 전화 왔어. 문제가 생겼어. 큰 거.
+
+## 분석 — DIE FALSCHE SMS
+UTE: Seit acht Uhr heute Morgen geht eine SMS rum. Kiek ma: „Achtung: Ihr Wahllokal wurde verlegt. Neues Wahllokal ab Sonntag: Stadtbad Neukölln. Ihre Wahlbehörde."
+> 오늘 아침 여덟 시부터 문자가 돌고 있어. 이거 봐. '주의: 귀하의 투표소가 변경되었습니다. 일요일부터 새 투표소: 노이쾰른 시립 수영장. 선거관리 당국.'
+SELIN: Das Stadtbad ist seit Monaten wegen Sanierung geschlossen.
+> 그 시립 수영장은 보수 공사 때문에 몇 달째 문 닫았어.
+TOBIAS: Wer sie bekommt, steht am Sonntag vor einer verschlossenen Tür. Und geht wieder nach Hause.
+> 그 문자 받은 사람은 일요일에 닫힌 문 앞에 서 있다가 그냥 집에 가겠지.
+KATHARINA: Wie viele haben sie bekommen?
+> 몇 명이나 받았어?
+SELIN: Ich frage Jonas und das Datenteam. — Erste Schätzung: mindestens vierzigtausend Nummern. In Neukölln, Wedding, Marzahn, in Teilen von Leipzig und, Moment … auch in der Prignitz.
+> 요나스랑 데이터팀한테 물어볼게. — 1차 추정. 최소 4만 개 번호. 노이쾰른, 베딩, 마르찬, 라이프치히 일부, 그리고, 잠깐만… 프리그니츠까지.
+TOBIAS: Lindenbrück.
+> 린덴브뤼크.
+UTE: Genau die Ecken, wo die Wahlbeteiligung sowieso schon niedrig ist. Und wo ihr in den letzten Wochen zugelegt habt.
+> 딱 원래 투표율이 낮은 동네들이야. 그리고 너희가 최근 몇 주 동안 지지율이 오른 곳들이고.
+KATHARINA: Das ist kein Zufall. Das ist gezielt.
+> 우연이 아니야. 겨냥한 거야.
+SELIN: Und es ist eine Straftat. Wählertäuschung, Paragraf hundertacht a. Wer durch Täuschung bewirkt, dass jemand nicht wählt, macht sich strafbar.
+> 그리고 범죄야. 유권자 기만, 형법 108조 a. 속임수로 누군가 투표하지 못하게 하면 처벌받아.
+TOBIAS: Und sie ist billig. Vierzigtausend SMS kosten weniger als ein einziges Großplakat am Alexanderplatz.
+> 그리고 싸지. 문자 4만 통이 알렉산더플라츠 대형 광고판 하나보다 싸.
+TOBIAS: Wer steckt dahinter?
+> 누가 배후야?
+SELIN: Absender ist eine ausländische Kurzwahlnummer, über einen Massenversand-Dienst gebucht, bezahlt mit einer Prepaid-Karte. Wie beim Video in Hessen: Wir werden es vermutlich nie genau wissen.
+> 발신자는 해외 단축 번호야. 대량 문자 발송 서비스로 예약했고, 선불카드로 결제했어. 헤센의 그 영상 때처럼, 아마 정확히는 영영 모를 거야.
+KATHARINA: Dann reden wir nicht über die Absender, sondern über die Empfänger. Wer ist am stärksten betroffen?
+> 그럼 보낸 사람 얘기 말고 받은 사람 얘기를 하자. 누가 제일 큰 타격을 받아?
+SELIN: Ältere Menschen und Erstwähler. Die einen vertrauen einer SMS, die nach Behörde klingt. Die anderen wissen nicht, wie eine Wahlbenachrichtigung aussieht, weil sie noch nie eine bekommen haben.
+> 노인과 첫 투표자. 앞쪽은 관청처럼 들리는 문자를 믿고, 뒤쪽은 투표 안내문이 어떻게 생겼는지 몰라. 한 번도 받아 본 적이 없으니까.
+HENRIKE: Was können wir tun? Ich will nicht, dass ein einziger Mensch wegen einer Lüge nicht wählen kann. Egal, wen er wählen würde.
+> 우리가 뭘 할 수 있죠? 거짓말 하나 때문에 단 한 사람도 투표를 못 하는 일은 없었으면 해요. 그 사람이 누구를 찍든 상관없이.
+SELIN: Erstens: Die Bundeswahlleiterin informieren. Sie kann eine offizielle Warnung herausgeben, über alle Kanäle. Das wirkt stärker als jede Partei.
+> 첫째, 연방선거관리관에게 알리기. 그쪽은 모든 채널로 공식 경고를 낼 수 있어요. 어떤 정당보다 효과가 커요.
+TOBIAS: Zweitens: Die Netzbetreiber. Die können die Absendernummer sperren und eine Gegen-SMS an dieselben Nummern schicken.
+> 둘째, 통신사. 발신 번호를 차단하고 같은 번호들에 정정 문자를 보낼 수 있어.
+KATHARINA: Drittens: Anzeige. Und viertens: Wir gehen an die Türen. Nicht mit unserem Flyer, sondern mit einem Zettel, auf dem steht, wo das richtige Wahllokal ist. Ohne Logo.
+> 셋째, 고발. 그리고 넷째, 우리가 직접 집집마다 가는 거야. 우리 전단 말고, 진짜 투표소가 어디인지 적힌 쪽지를 들고. 로고 없이.
+FALLER: Ohne Logo? Frau Brandt, Sie sind vier Tage vor der Wahl in Neukölln, und Sie verteilen Zettel ohne Logo?
+> 로고 없이요? 브란트 씨, 선거 나흘 전에 노이쾰른에 계시면서 로고 없는 쪽지를 돌리신다고요?
+KATHARINA: Herr Faller, ich höre, Sie sind gerade in Berlin angekommen.
+> 팔러 씨, 방금 베를린에 도착하셨다고 들었어요.
+FALLER: Für die letzte Woche. Henrike hat mich gebeten. Und ich sage Ihnen: Ein Zettel mit Logo würde uns hier vielleicht zweitausend Stimmen bringen.
+> 마지막 한 주 동안이요. 헨리케가 부탁했어요. 그리고 말씀드리죠. 로고 달린 쪽지면 여기서 2천 표쯤은 가져올 수 있을 겁니다.
+SELIN: Und uns den Vorwurf einbringen, wir hätten eine Wahlfälschung für Werbung missbraucht. Ohne Logo hilft es allen. Auch denen, die Reuter wählen.
+> 그리고 선거 방해를 홍보에 악용했다는 비난도 가져오겠죠. 로고가 없으면 모두에게 도움이 돼요. 로이터를 찍을 사람들한테도요.
+FALLER: Allen. Auch der Bewegung Heimat.
+> 모두에게라. 베궁 하이마트한테도.
+HENRIKE: Auch der Bewegung Heimat, Bernd. Ein Wahlrecht ist kein Parteiprogramm.
+> 베궁 하이마트한테도야, 베른트. 선거권은 정당 강령이 아니야.
+FALLER: … Gut. Ein Wahlrecht ist kein Parteiprogramm. Den Satz schreibe ich mir auf.
+> …좋아. 선거권은 정당 강령이 아니다. 그 문장 적어 둬야겠다.
+UTE: Ich drucke die Zettel. Zehntausend bis heute Abend. Weißes Papier, schwarze Schrift, die Adresse vom richtigen Wahllokal und die Nummer vom Bezirkswahlamt. Det sieht aus wie vom Amt. Nur dass es stimmt.
+> 쪽지는 내가 인쇄할게. 오늘 저녁까지 만 장. 흰 종이에 검은 글씨, 진짜 투표소 주소와 구 선거관리 사무소 번호. 관청에서 나온 것처럼 보이지. 다만 내용이 맞을 뿐이고.
+KATHARINA: Und wer verteilt sie? Wir sind zwölf Leute.
+> 그럼 그걸 누가 돌려? 우리는 열두 명인데.
+SELIN: Wir sind zwölf Leute und ein ganzer Kiez. Ich rufe meine Mutter an.
+> 우리는 열두 명이고, 동네 하나가 통째로 있어. 엄마한테 전화할게.
+SELIN: Die Bundeswahlleiterin hat reagiert. In zwanzig Minuten kommt eine offizielle Warnung. Und alle großen Sender übernehmen sie.
+> 연방선거관리관이 반응했어. 20분 뒤에 공식 경고가 나가. 주요 방송사가 다 받아서 내보낸대.
+HENRIKE: Gut. Und ich sage morgen in jedem Interview nur einen Satz dazu: Prüfen Sie Ihre Wahlbenachrichtigung, nicht Ihr Handy.
+> 좋아요. 그리고 내일 모든 인터뷰에서 이 문제엔 한 문장만 말할게요. 휴대폰 말고 투표 안내문을 확인하세요.
+TOBIAS: Gut. Und jetzt die zweite Hälfte des Problems: Selbst wer die Warnung sieht, ist verunsichert. Verunsicherte Menschen bleiben gern zu Hause.
+> 좋아. 이제 문제의 나머지 절반. 경고를 본 사람도 불안해해. 불안한 사람들은 그냥 집에 있기 쉬워.
+SELIN: Deshalb Briefwahl. Man kann sie noch bis Freitag achtzehn Uhr beantragen. Persönlich im Bezirkswahlamt sogar gleich vor Ort wählen. Dann muss am Sonntag niemand ein Wahllokal suchen.
+> 그래서 우편투표야. 금요일 18시까지는 아직 신청할 수 있어. 구 선거관리 사무소에 직접 가면 그 자리에서 바로 투표할 수도 있고. 그럼 일요일에 아무도 투표소를 찾아 헤맬 필요가 없어.
+KATHARINA: Dann haben wir zwei Tage. Und zehntausend Türen.
+> 그럼 우리한텐 이틀이 있네. 그리고 문 만 개.
+
+## 갈등 — DAS ANGEBOT
+BAUMANN: Ich wähle nicht. Das habe ich schon den anderen gesagt. Seit zwanzig Jahren nicht mehr.
+> 나 투표 안 해요. 다른 사람들한테도 벌써 말했어요. 20년째 안 해요.
+SELIN: Das ist Ihr Recht, Frau Baumann. Ich will Sie nicht überreden. Ich will Ihnen nur sagen, wo Ihr Wahllokal ist. Falls Sie es sich anders überlegen. Es ist nicht im Stadtbad. Egal, was die SMS sagt.
+> 그건 할머니 권리예요, 바우만 할머니. 설득하려는 거 아니에요. 투표소가 어디인지만 말씀드리려고요. 혹시 마음이 바뀌실까 봐요. 시립 수영장이 아니에요. 문자가 뭐라고 하든.
+BAUMANN: Welche SMS?
+> 무슨 문자?
+SELIN: Eine gefälschte. Jemand will, dass Leute hier am Sonntag vor der falschen Tür stehen.
+> 가짜 문자요. 누가 여기 사람들이 일요일에 엉뚱한 문 앞에 서 있길 바라거든요.
+BAUMANN: Jemand will, dass ich nicht wähle?
+> 누가 내가 투표 안 하길 바란다고?
+SELIN: Jemand will, dass möglichst viele hier nicht wählen.
+> 누가 여기 사람들이 최대한 많이 투표 안 하길 바라는 거죠.
+BAUMANN: … Na, dem werde ich was husten. Wo ist das Wahllokal?
+> …흥, 그런 놈한텐 콧방귀를 뀌어 줘야지. 투표소가 어디라고?
+JANNIK: Entschuldigung, sind Sie von der Neuen Mitte? Ich habe die SMS auch bekommen. Ich wähle zum ersten Mal. Ist das jetzt echt oder nicht?
+> 실례지만 노이에 미테에서 오셨어요? 저도 그 문자 받았어요. 처음 투표하는 건데요. 이거 진짜예요, 아니에요?
+SELIN: Nicht echt. Hast du deine Wahlbenachrichtigung? Ein Brief vom Bezirksamt, kam vor drei Wochen.
+> 가짜야. 투표 안내문 있어? 구청에서 온 편지, 3주 전에 왔을 거야.
+JANNIK: Den habe ich weggeworfen. Ich dachte, das ist Werbung.
+> 그거 버렸어요. 광고인 줄 알았어요.
+SELIN: Macht nichts. Du kannst auch mit dem Personalausweis wählen, wenn du im Wählerverzeichnis stehst. Und dein Wahllokal ist die Grundschule zwei Straßen weiter. Ich war da selbst Schülerin.
+> 괜찮아. 선거인 명부에 있으면 신분증만으로도 투표할 수 있어. 그리고 네 투표소는 두 블록 건너 초등학교야. 나도 거기 다녔어.
+JANNIK: Und wen soll ich wählen?
+> 그럼 누구 찍어야 돼요?
+SELIN: Das sage ich dir nicht. Nicht hier an der Tür. Lies die Programme, schau dir das Duell an, frag deine Eltern — und dann mach, was du willst. Hauptsache, du gehst hin.
+> 그건 말 안 해. 여기 문 앞에선 안 해. 공약 읽어 보고, 토론 보고, 부모님한테 물어보고, 그다음엔 네 마음대로 해. 중요한 건 가는 거야.
+JANNIK: Sie sind die erste Wahlkämpferin, die mir nicht sagt, wen ich wählen soll.
+> 누구 찍으라고 안 하는 선거운동원은 처음이에요.
+SELIN: Heute bin ich auch keine Wahlkämpferin. Ich bin die Nachbarin mit dem richtigen Zettel.
+> 오늘은 선거운동원도 아니야. 맞는 쪽지를 든 이웃이지.
+UTE: Selin. Telefon für Katharina. Aber sie will, dass du mithörst. Es ist komisch.
+> 셀린. 카타리나한테 전화 왔어. 그런데 너도 같이 들었으면 한대. 이상한 전화야.
+KROLL: Frau Dr. Brandt? Mein Name tut nichts zur Sache. Ich arbeite im Datenteam von Reuters Kampagne. Ich habe etwas, das Sie interessieren wird.
+> 브란트 박사님? 제 이름은 중요하지 않습니다. 로이터 캠프 데이터팀에서 일합니다. 박사님이 관심 가지실 만한 게 있어요.
+KATHARINA: Ich höre.
+> 듣고 있어요.
+KROLL: Die interne Strategie für die letzten drei Tage. Die Zielgruppenlisten, die Anzeigenplanung, die internen Umfragen. Und ein Papier über Ihre Kandidatin, das am Samstag an die Presse gehen soll.
+> 마지막 사흘 동안의 내부 전략이요. 타깃층 명단, 광고 계획, 내부 여론조사. 그리고 토요일에 언론에 넘길 박사님 후보에 관한 문서 하나.
+TOBIAS: Was für ein Papier?
+> 무슨 문서요?
+KROLL: Darüber reden wir, wenn wir uns einig sind. Ich will nicht viel. Einen Job nach der Wahl, falls Sie gewinnen. Und eine kleine Summe für die Unannehmlichkeiten.
+> 그건 합의가 되면 얘기하죠. 많이 바라진 않아요. 이기시면 선거 뒤에 일자리 하나. 그리고 수고비 조금.
+KATHARINA: Warum tun Sie das?
+> 왜 이러시는 거죠?
+KROLL: Weil ich glaube, dass Ihre Kandidatin besser ist. Und weil man bei Reuter nicht befördert wird, wenn man jung ist und Zahlen liebt.
+> 박사님 후보가 더 낫다고 믿으니까요. 그리고 로이터 쪽에선 젊고 숫자 좋아하는 사람은 승진을 못 하거든요.
+FALLER: Frau Brandt, wenn darin wirklich ein Angriff für Samstag steht, müssen wir das wissen. Wir müssen ihn ja nicht kaufen. Nur ansehen.
+> 브란트 씨, 거기 정말 토요일 공격이 들어 있다면 우리가 알아야 합니다. 살 필요는 없어요. 보기만 하면 돼요.
+TOBIAS: Ansehen ist kaufen. Nur ohne Quittung.
+> 보는 게 사는 거예요. 영수증만 없을 뿐이지.
+FALLER: Herr Wendt, das ist naiv. Die andere Seite hat Henrikes E-Mail beschnitten und an die Presse gegeben. Und Sie wollen jetzt Gentleman spielen?
+> 벤트 씨, 그건 순진한 겁니다. 저쪽은 헨리케 이메일을 잘라서 언론에 넘겼어요. 그런데 이제 신사인 척하시겠다고요?
+SELIN: Wir wissen nicht, wer die E-Mail beschnitten hat. Wir wissen nicht, wer die SMS geschickt hat. Wir wissen nur, was wir tun. Das ist das Einzige, was wir kontrollieren.
+> 이메일을 누가 잘랐는지 우리는 몰라요. 문자를 누가 보냈는지도 몰라요. 우리는 우리가 뭘 하는지만 알아요. 그게 우리가 통제할 수 있는 유일한 거예요.
+FALLER: Und wenn wir deswegen verlieren? Um ein paar Zehntel?
+> 그러다 지면요? 0.몇 포인트 차이로?
+KATHARINA: Dann verlieren wir. Aber nicht so, dass wir uns danach nicht mehr in den Spiegel sehen können.
+> 그럼 지는 거죠. 하지만 그 뒤에 거울을 못 볼 만큼 지는 건 아니에요.
+KROLL: Frau Dr. Brandt? Sind Sie noch dran? Ich brauche bis heute Abend eine Antwort.
+> 브란트 박사님? 아직 계세요? 오늘 저녁까지 답이 필요한데요.
+KATHARINA: Sie bekommen sie jetzt. Nein. Wir kaufen nichts, wir sehen nichts an, und wir bieten Ihnen keinen Job an. Gewinnen ja. Aber nicht so.
+> 지금 드리죠. 아니요. 우리는 아무것도 사지 않고, 아무것도 보지 않고, 일자리도 제안하지 않아요. 이기는 건 좋아요. 하지만 이런 식으론 아니에요.
+KROLL: Sie machen einen Fehler.
+> 실수하시는 거예요.
+KATHARINA: Vielleicht. Aber es ist meiner. Und, Herr Kroll — ja, ich kenne Ihren Namen. Überlegen Sie sich gut, was Sie als Nächstes tun.
+> 그럴지도요. 하지만 그건 제 실수예요. 그리고 크롤 씨, 네, 이름 알아요. 다음에 뭘 할지 잘 생각해 보세요.
+TOBIAS: Woher kennst du seinen Namen?
+> 그 사람 이름은 어떻게 알았어?
+UTE: Von mir. Die Nummer steht in seinem Profil auf einem Karriereportal. Junge Leute sind gründlich. Nur nicht vorsichtig.
+> 내가 알려 줬지. 그 번호가 구직 사이트 프로필에 올라와 있더라. 젊은 사람들은 꼼꼼해. 조심성이 없을 뿐이지.
+
+## 해결·설득 — ANSTAND
+KATHARINA: Ich rufe Lorenz an.
+> 로렌츠한테 전화할게.
+FALLER: Um ihm was zu sagen? Dass er ein Leck hat? Frau Brandt, Sie sind die Wahlkampfleiterin der Gegenseite!
+> 뭐라고 하려고요? 저쪽에 정보가 새고 있다고? 브란트 씨, 당신은 상대 캠프의 선거 책임자라고요!
+KATHARINA: Genau deshalb. Wenn ich es nicht tue, verkauft er es morgen einer Zeitung. Dann redet ganz Deutschland drei Tage vor der Wahl über gestohlene Daten statt über Renten und Brücken. Das schadet nicht Reuter. Das schadet der Wahl.
+> 바로 그래서예요. 내가 안 하면 그 사람은 내일 신문사에 팔 거예요. 그럼 선거 사흘 전에 독일 전체가 연금이나 다리가 아니라 도둑맞은 데이터 얘기를 하겠죠. 그건 로이터한테 해가 되는 게 아니에요. 선거 자체에 해가 되는 거예요.
+HENRIKE: Sie hat recht, Bernd. Und ich will nicht Kanzlerin werden, weil jemand bei Reuter Akten verkauft hat.
+> 카타리나 말이 맞아, 베른트. 그리고 나는 로이터 쪽 누군가가 서류를 팔아서 총리가 되고 싶진 않아.
+FALLER: Henrike, ihr seid beide verrückt. Anständig, aber verrückt.
+> 헨리케, 너희 둘 다 미쳤어. 품위 있게 미쳤어.
+UTE: Det ist in Berlin dasselbe.
+> 베를린에선 그게 같은 말이야.
+LORENZ: Katharina. Drei Tage vor der Wahl. Entweder gratulierst du mir zu früh, oder du brauchst etwas.
+> 카타리나. 선거 사흘 전에. 너무 일찍 축하하든지, 뭐가 필요하든지 둘 중 하나겠지.
+KATHARINA: Weder noch. Ein Mitarbeiter aus eurem Datenteam hat mir eben eure interne Strategie angeboten. Gegen Geld und einen Job. Ich habe abgelehnt. Ich dachte, das solltest du wissen.
+> 둘 다 아니에요. 당신네 데이터팀 직원 한 명이 방금 나한테 당신네 내부 전략을 팔겠다고 했어요. 돈이랑 일자리를 대가로. 거절했어요. 당신이 알아야 할 것 같아서요.
+LORENZ: … Du hast abgelehnt. Und rufst mich an.
+> …거절했고. 나한테 전화를 했다.
+KATHARINA: Ja.
+> 네.
+LORENZ: Ich hätte das nicht getan. Früher nicht. Ich hätte mir die Unterlagen angesehen und gesagt, sie seien mir zugespielt worden.
+> 나라면 안 그랬을 거야. 예전엔. 서류를 보고는 누가 흘려 준 거라고 했겠지.
+KATHARINA: Ich weiß. Das ist der Grund, warum ich nicht mehr für dich arbeite.
+> 알아요. 그게 내가 더 이상 당신 밑에서 일하지 않는 이유고요.
+LORENZ: Und das Papier über Frau Sommer? Hat er es erwähnt?
+> 그럼 조머 후보에 관한 문서는? 그 사람이 언급했어?
+KATHARINA: Hat er. Für Samstag. Ich habe es nicht gesehen. Ich will es nicht sehen. Wenn es existiert, entscheidest du, ob es rausgeht.
+> 했어요. 토요일용이라고. 나는 안 봤어요. 보고 싶지도 않아요. 그게 있다면 내보낼지 말지는 당신이 정해요.
+LORENZ: Es existiert. Es ist dünn. Ich war von Anfang an dagegen. Nach diesem Anruf werde ich dafür sorgen, dass es in der Schublade bleibt.
+> 있어. 내용은 빈약해. 나는 처음부터 반대했고. 이 전화 뒤엔 그게 서랍 속에 머물도록 하겠어.
+KATHARINA: Das musst du nicht für mich tun.
+> 나 때문에 그럴 필요는 없어요.
+LORENZ: Ich tue es nicht für dich. Ich tue es, weil ich gerade gemerkt habe, dass ich gegen dich verlieren könnte und dabei trotzdem anständig bleiben will. Das ist ein neues Gefühl, Katharina. Ich bin über sechzig. Es ist nicht angenehm.
+> 너 때문에 하는 거 아니야. 너한테 질 수도 있다는 걸, 그러면서도 품위는 지키고 싶다는 걸 방금 깨달아서 하는 거야. 새로운 감정이야, 카타리나. 나 예순이 넘었어. 유쾌하진 않네.
+KATHARINA: Willkommen. Wir haben es seit Hessen jeden Tag.
+> 환영해요. 우리는 헤센 이후로 매일 그래요.
+LORENZ: Viel Glück am Sonntag, Katharina. Ich meine es so.
+> 일요일에 행운을 빌어, 카타리나. 진심이야.
+HATICE: Selin! Kızım! Du stehst seit sechs Stunden vor fremden Türen und klingelst nicht bei deiner eigenen Mutter?
+> 셀린! 우리 딸! 여섯 시간째 남의 집 문 앞에 서 있으면서 네 엄마 집 초인종은 안 누르니?
+SELIN: Anne! Ich wollte gleich kommen. Ehrlich.
+> 엄마! 곧 가려고 했어. 진짜로.
+HATICE: Gleich. Das sagst du seit Frankfurt. Komm rein. Und bring deine Chefin mit. Ich habe Börek gemacht. Für zwanzig Leute. Ich wusste, dass ihr kommt.
+> 곧. 프랑크푸르트 간 뒤로 맨날 그 소리지. 들어와. 상사분도 모시고 와. 뵈렉 만들었어. 스무 명 분. 너희 올 줄 알았지.
+KATHARINA: Frau Aydın, ich bin nicht ihre Chefin. Ich bin …
+> 아이든 씨, 저는 셀린 상사가 아니에요. 저는…
+HATICE: Sie sind die Frau, wegen der meine Tochter nachts nicht schläft. Das ist eine Chefin. Kommen Sie, essen Sie.
+> 우리 딸이 밤에 잠을 못 자는 게 당신 때문이잖아요. 그게 상사예요. 들어와요, 드세요.
+HATICE: Und hört zu. Ich habe die SMS auch bekommen. Die ganze Nachbarschaft. Ich habe sie in unserer Hausgruppe weitergeleitet — mit dem Satz: „Lüge. Wahllokal ist die Grundschule. Hatice." Zweihundert Leute haben es gelesen.
+> 그리고 들어 봐. 나도 그 문자 받았어. 동네 사람들 다. 우리 건물 단체방에 돌렸지. '거짓말. 투표소는 초등학교. 하티제.' 이백 명이 읽었어.
+SELIN: Mama, du hast gerade die beste Gegenkampagne des Wahlkampfs gemacht.
+> 엄마, 엄마가 방금 이번 선거 최고의 반박 캠페인을 했어.
+HATICE: Natürlich. In Neukölln glaubt man keiner Behörde. Aber man glaubt der Frau, die einem seit dreißig Jahren die Hosen kürzt.
+> 당연하지. 노이쾰른에선 아무도 관청은 안 믿어. 하지만 30년째 바짓단 줄여 주는 아줌마 말은 믿지.
+OSMAN: Und ich habe sie im Kiosk ausgehängt. Neben den Kaugummis.
+> 그리고 난 그걸 키오스크에 붙여 놨다. 껌 옆에.
+
+## 마무리 — ICE 1094
+FALLER: Frankfurt war gut. Römerberg voll, wie im Landtagswahlkampf. Nur dass diesmal niemand gepfiffen hat.
+> 프랑크푸르트 좋았어요. 뢰머베르크가 꽉 찼어요, 주의회 선거 때처럼. 이번엔 아무도 호루라기를 안 불었다는 것만 빼면.
+HENRIKE: Herr Wilke war da. Mit seinem Skatverein. Er hat gesagt, er wählt mich immer noch nicht. Aber er hat den anderen beigebracht, wie man ein gefälschtes Video erkennt.
+> 빌케 씨가 왔었어. 카드 모임 사람들이랑. 여전히 나는 안 찍는대. 그런데 다른 사람들한테 가짜 영상 알아보는 법을 가르쳐 줬대.
+TOBIAS: Letzte Umfrage vor der Wahl. Neue Mitte sechsundzwanzig. Reuters Partei sechsundzwanzig. Bewegung Heimat achtzehn. Ein Kopf-an-Kopf-Rennen.
+> 선거 전 마지막 여론조사. 노이에 미테 26. 로이터 당 26. 베궁 하이마트 18. 박빙이야.
+SELIN: Und die Briefwahlanträge in Neukölln sind seit Mittwoch um vierzig Prozent gestiegen. In der Prignitz um dreißig.
+> 그리고 노이쾰른 우편투표 신청이 수요일 이후 40퍼센트 늘었어. 프리그니츠는 30퍼센트.
+UTE: Wegen einer Lüge. Die Leute wählen jetzt aus Trotz.
+> 거짓말 하나 때문에. 사람들이 이제 오기로 투표하는 거야.
+KATHARINA: Trotz ist nicht das schlechteste Motiv für Demokratie.
+> 오기가 민주주의에 최악의 동기는 아니지.
+HENRIKE: Katharina, wenn wir am Sonntag verlieren — war es das wert? Das Nein zu Kroll, der Anruf bei Lorenz, die Zettel ohne Logo?
+> 카타리나, 일요일에 우리가 지면 — 그럴 가치가 있었을까? 크롤에 대한 거절, 로렌츠한테 건 전화, 로고 없는 쪽지들?
+KATHARINA: Wenn wir verlieren, verlieren wir mit allem, was wir sind. Wenn wir gewinnen, gewinnen wir mit allem, was wir sind. Das ist das Einzige, was ich mir versprochen habe, als ich bei Hellweg gekündigt habe: dass ich jeden Morgen in den Spiegel sehen kann.
+> 지면 우리 모습 그대로 지는 거고, 이기면 우리 모습 그대로 이기는 거야. 그게 Hellweg에 사표 낼 때 나 자신한테 한 유일한 약속이야. 매일 아침 거울을 볼 수 있는 사람이 되겠다고.
+TOBIAS: Und ich habe meiner Mutter am Sonntag versprochen, dass ich anrufe. Egal, wie es ausgeht.
+> 그리고 나는 일요일에 엄마한테 전화하겠다고 약속했어. 결과가 어떻든.
+SELIN: Meine Mutter hat mir zwölf Börek für den Wahlabend eingepackt. Für alle.
+> 우리 엄마는 선거 날 밤 먹으라고 뵈렉 열두 개 싸 줬어. 다 같이 먹으라고.
+FALLER: Dann haben wir wenigstens etwas zu essen, falls es eine lange Nacht wird.
+> 그럼 긴 밤이 되더라도 적어도 먹을 건 있겠네요.
+UTE: Det wird eine lange Nacht. Ick hab det im Gefühl. Und mein Gefühl hat noch nie eine Hochrechnung gebraucht.
+> 긴 밤이 될 거야. 느낌이 와. 그리고 내 느낌은 추계 같은 거 필요해 본 적 없어.

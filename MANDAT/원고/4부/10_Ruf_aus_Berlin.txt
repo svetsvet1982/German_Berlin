@@ -1,0 +1,268 @@
+part: 4
+ep: 10
+title_de: Ruf aus Berlin
+title_ko: 베를린의 부름
+scene: 베를린 Neue Mitte 연방당사 → 새 캠프 사무실 → 밤의 슈프레강변
+level: C1
+setting: 연방의회 해산 사흘 뒤 월요일 아침부터 밤까지, 베를린 미테의 Neue Mitte 연방당사, 모아비트의 빈 사무실(새 캠프), 쉬프바우어담 근처 슈프레강변. 연방의회 선거까지 58일
+cast: KATHARINA | Dr. Katharina Brandt · 헤센 주총리실 기획실장, 곧 연방 선거캠프 총괄 전략가
+cast: SELIN | Selin Aydın · 디지털 캠페인·여론 분석 총괄
+cast: TOBIAS | Tobias Wendt · 공약 재원·숫자 검증 담당, BWA 공동창업자
+cast: HENRIKE | Dr. Henrike Sommer · 헤센 주총리, Neue Mitte 총리 후보로 추대됨
+cast: BRETTSCHNEIDER | Prof. Dr. Ralf Brettschneider · Neue Mitte 연방 대표(Bundesvorsitzender) (가상)
+cast: FALLER | Bernd Faller · Neue Mitte 헤센 주당 사무총장 (전화)
+cast: UTE | Ute Hennig · BWA 사무실 매니저, 베를린 토박이 (61)
+cast: LORENZ | Jan-Hendrik Lorenz · 전 Hellweg & Cie. 시니어 파트너, 독립 전략 자문가
+cast: REUTER | Dr. Wolfgang Reuter · 경쟁 거대정당의 총리 후보 (TV 화면) (가상)
+note: ※ 독일 연방의회는 스스로 해산할 수 없습니다. 총리가 신임 투표(Vertrauensfrage, 기본법 제68조)를 요청해 부결되면, 연방대통령이 총리의 제안에 따라 21일 안에 연방의회를 해산할 수 있고, 해산 뒤 60일 안에 새 선거(Bundestagswahl)를 치러야 합니다(제39조). 각 정당은 당 집행부(Parteivorstand)나 당대회를 통해 총리 후보(Kanzlerkandidat/in)를 정합니다. 흥미롭게도 총리는 연방의회 의원일 필요가 없습니다. 연방대통령의 제청을 받아 연방의회가 재적 과반으로 선출하면 됩니다(제63조). 2025년 선거법 개정 이후 연방의회 의석은 630석으로 고정됐고, 지역구에서 1위를 해도 그 정당의 정당 투표(Zweitstimme) 몫이 받쳐 주지 않으면 의석을 얻지 못할 수 있습니다(Zweitstimmendeckung). 베를린 말투도 들어 보세요. «icke»(나), «wa?»(그치?), «Kiek ma»(이거 봐). 등장하는 정당·인물·수치는 모두 가상입니다. 표현 초점: die Kanzlerkandidatur, der Parteivorstand, die Bundestagswahl, der Gegner, Berlin ist kein größeres Wiesbaden.
+next: 4부 11화 — «Was kostet das?»(그건 얼마입니까?) — 베를린 캠프 정책실. 연금, 인구구조, 성장, 에너지, 병역, 이민. 모든 공약에 Tobias가 같은 질문을 던진다. 연금 공약을 두고 당 원로들과 정면충돌한다.
+
+## 도입 — ACHTUNDFÜNFZIG TAGE
+BRETTSCHNEIDER: Frau Sommer, danke, dass Sie so schnell gekommen sind. Ich weiß, dass in Hessen noch Keller ausgepumpt werden.
+> 조머 주총리님, 이렇게 빨리 와 주셔서 고맙습니다. 헤센에선 아직 지하실 물을 퍼내고 있다는 거 압니다.
+HENRIKE: Herr Brettschneider, Sie haben dreimal angerufen. Beim dritten Mal ahnte ich, dass es nicht um Sandsäcke geht.
+> 브레트슈나이더 대표님, 세 번이나 전화하셨잖아요. 세 번째엔 모래주머니 얘기가 아니라는 걸 눈치챘죠.
+BRETTSCHNEIDER: Der Bundeskanzler hat die Vertrauensfrage verloren, der Bundespräsident hat den Bundestag aufgelöst. In achtundfünfzig Tagen ist Bundestagswahl.
+> 연방총리가 신임 투표에서 졌고, 연방대통령이 연방의회를 해산했습니다. 58일 뒤면 연방의회 선거예요.
+KATHARINA: Und die Neue Mitte braucht eine Kanzlerkandidatin.
+> 그리고 노이에 미테에는 총리 후보가 필요하고요.
+BRETTSCHNEIDER: Sie sind schnell, Frau Dr. Brandt. Ja. Der Parteivorstand tagt um elf. Ich werde Henrike Sommer vorschlagen. Nicht mich.
+> 빠르시군요, 브란트 박사님. 그렇습니다. 당 집행부가 열한 시에 모입니다. 저는 헨리케 조머를 추천할 겁니다. 제가 아니라.
+HENRIKE: Sie wollten doch selbst antreten. Das stand in jeder Zeitung.
+> 대표님이 직접 나서려고 하셨잖아요. 모든 신문에 나왔는데요.
+BRETTSCHNEIDER: Ich wollte. Dann kam das Foto mit der Werkzeugkiste. Seitdem liegt die Neue Mitte bundesweit bei sechzehn Prozent statt bei elf. Ich bin vierundsechzig, Frau Sommer, nicht blind.
+> 그랬죠. 그러다 공구 상자 사진이 나왔어요. 그 뒤로 노이에 미테는 전국에서 11이 아니라 16퍼센트예요. 저는 예순넷입니다, 조머 주총리님. 눈이 먼 건 아니에요.
+SELIN: Bei der Kanzlerfrage liegen Sie bei neunundzwanzig Prozent. Reuter bei einunddreißig. Und Sie sind bekannter geworden. Einundsiebzig Prozent kennen Sie inzwischen.
+> 총리 선호도 조사에서 주총리님은 29퍼센트예요. 로이터가 31. 그리고 인지도도 높아지셨어요. 이제 71퍼센트가 주총리님을 알아요.
+HENRIKE: Vor einem halben Jahr waren es dreiundzwanzig. In Hessen.
+> 반년 전엔 23이었어요. 헤센에서.
+TOBIAS: Und vor einem halben Jahr hatten Sie kein Hochwasser. Ich sage das nicht zynisch. Nur genau.
+> 그리고 반년 전엔 홍수가 없었죠. 냉소적으로 하는 말이 아니에요. 정확하게 하는 말이지.
+BRETTSCHNEIDER: Frau Sommer, ich brauche Ihre Antwort bis elf Uhr.
+> 조머 주총리님, 열한 시까지 대답이 필요합니다.
+HENRIKE: Bis elf. Für die größte Entscheidung meines Lebens habe ich weniger Zeit als für ein Gutachten.
+> 열한 시까지라. 인생에서 가장 큰 결정을 하는데 감정서 하나 쓸 시간보다 짧네요.
+
+## 분석 — DIE BUNDESARITHMETIK
+HENRIKE: Frau Aydın, die bundesweiten Zahlen, bitte. Alle.
+> 아이든 씨, 전국 숫자요. 전부 다.
+SELIN: Reuters Partei dreißig. Bewegung Heimat einundzwanzig. Neue Mitte sechzehn. Ökosoziale zwölf. Freie Bürgerpartei sechs. Der Rest unter der Fünfprozenthürde.
+> 로이터 당 30. 베궁 하이마트 21. 노이에 미테 16. 외코조치알레 12. 자유시민당 6. 나머지는 5퍼센트 문턱 아래.
+TOBIAS: Das heißt: Ohne Reuters Partei gibt es rechnerisch keine Regierung außer mit der Bewegung Heimat. Und die schließen alle aus.
+> 그러니까 로이터 당 없이는 계산상 베궁 하이마트를 끼지 않는 정부가 없어요. 그런데 그쪽은 다들 배제하고 있죠.
+KATHARINA: Es sei denn, die Neue Mitte wird stärker als Reuter.
+> 노이에 미테가 로이터보다 강해지지 않는 한은.
+TOBIAS: Vierzehn Punkte in achtundfünfzig Tagen. Das ist nicht unmöglich. Es ist nur sehr unwahrscheinlich.
+> 58일에 14포인트. 불가능한 건 아니야. 그냥 아주 가능성이 낮을 뿐이지.
+SELIN: In Hessen waren es siebzehn Punkte in siebenundfünfzig Tagen.
+> 헤센에선 57일에 17포인트였어.
+TOBIAS: Hessen hatte sechs Millionen Menschen und einen Gegner, der fair war. Der Bund hat vierundachtzig Millionen und Reuter.
+> 헤센은 6백만 명에 공정한 상대가 있었지. 연방은 8천4백만 명에 로이터가 있고.
+SELIN: Und wir haben etwas, das Reuter nicht hat. Sechsundsechzig Prozent sagen, Frau Sommer „packt an". Bei Reuter sind es vierzig.
+> 그리고 우리한텐 로이터한테 없는 게 있어요. 66퍼센트가 조머 주총리님은 '직접 팔을 걷어붙인다'고 해요. 로이터는 40이고요.
+KATHARINA: Und bei „hat Erfahrung im Bund"?
+> 그럼 '연방 경험이 있다'는?
+SELIN: Reuter achtundsiebzig, Frau Sommer dreiundzwanzig. Das ist unsere offene Flanke.
+> 로이터 78, 조머 주총리님 23. 그게 우리 약점이에요.
+HENRIKE: Was wissen wir über Reuter?
+> 로이터에 대해 뭘 알고 있죠?
+KATHARINA: Einundsechzig, Jurist, zwölf Jahre Ministerpräsident in seinem Bundesland, davor Bundesminister. Erfahren, ruhig, mit einer klaren Botschaft: Erfahrung statt Experimente.
+> 예순하나, 법률가, 자기 주에서 12년간 주총리, 그 전엔 연방 장관. 노련하고, 차분하고, 메시지가 분명해요. 실험 대신 경험.
+SELIN: Und er hat gerade ein Statement gegeben. Ich schalte es ein.
+> 그리고 방금 성명을 냈어요. 틀어 볼게요.
+REUTER: Unser Land braucht in schwierigen Zeiten keine Experimente, sondern Erfahrung. Ich respektiere Frau Sommer. Sie hat ein Hochwasser gut gemanagt. Aber ein Land zu führen ist etwas anderes, als einen Deich zu halten.
+> 어려운 시기에 우리나라에 필요한 건 실험이 아니라 경험입니다. 저는 조머 후보를 존중합니다. 홍수를 잘 관리하셨죠. 하지만 나라를 이끄는 건 제방을 지키는 것과는 다른 일입니다.
+TOBIAS: Gut formuliert. Höflich und tödlich.
+> 잘 짰네. 정중하면서 치명적이고.
+KATHARINA: Das ist nicht Reuters Stil. Reuter redet sonst länger und trockener.
+> 이건 로이터 스타일이 아니야. 로이터는 원래 더 길고 건조하게 말하거든.
+SELIN: Wieso kennst du seinen Stil?
+> 네가 그 사람 스타일을 어떻게 알아?
+KATHARINA: Weil ich seine Reden seit drei Tagen lese. Und weil dieser Satz klingt wie jemand, den ich kenne. „Höflich und tödlich" ist eine Handschrift.
+> 사흘째 그 사람 연설을 읽고 있으니까. 그리고 이 문장이 내가 아는 누군가처럼 들려서. '정중하면서 치명적'인 건 필체야.
+HENRIKE: Wessen Handschrift?
+> 누구의 필체요?
+KATHARINA: Das sage ich, wenn ich sicher bin.
+> 확실해지면 말할게요.
+TOBIAS: Wenn sie das sagt, ist sie schon sicher. Sie will es nur nicht laut sagen.
+> 저렇게 말하면 이미 확실한 거예요. 소리 내서 말하고 싶지 않을 뿐이죠.
+BRETTSCHNEIDER: Frau Sommer, die Zeit läuft. Was brauchen Sie, um sich zu entscheiden?
+> 조머 주총리님, 시간이 흐르고 있어요. 결정하시려면 뭐가 필요하세요?
+HENRIKE: Eine ehrliche Antwort auf eine Frage. Herr Wendt: Muss ich mein Amt in Hessen aufgeben, um anzutreten?
+> 한 가지 질문에 대한 정직한 대답이요. 벤트 씨, 출마하려면 헤센 주총리직을 내려놔야 하나요?
+TOBIAS: Nein. Eine Kanzlerin muss nicht einmal Mitglied des Bundestages sein. Der Bundestag wählt sie auf Vorschlag des Bundespräsidenten. Sie können Ministerpräsidentin bleiben, bis Sie gewählt sind — oder eben nicht.
+> 아니요. 총리는 연방의회 의원일 필요도 없어요. 연방대통령의 제청으로 연방의회가 선출하죠. 선출될 때까지, 혹은 선출되지 않으면 그대로, 주총리로 남으실 수 있어요.
+SELIN: Und wenn Sie verlieren, bleiben Sie einfach in Wiesbaden. Das ist für viele Wähler sogar beruhigend.
+> 그리고 지시면 그냥 비스바덴에 남으시면 돼요. 많은 유권자들한테는 그게 오히려 안심이 될 거예요.
+HENRIKE: Beruhigend für die Wähler. Für Reuter ein Geschenk: „Sie hält sich den Rückweg offen."
+> 유권자들한텐 안심이겠죠. 로이터한텐 선물이고요. '그녀는 퇴로를 열어 두고 있다.'
+KATHARINA: Ein Rückweg ist kein Makel, wenn man ihn offen ausspricht. Nur wenn man ihn versteckt.
+> 퇴로는 공개적으로 말하면 흠이 아니야. 숨길 때만 흠이지.
+FALLER: Henrike, ich höre, du bist in Berlin. Sag mir bitte, dass du nicht das tust, was ich befürchte.
+> 헨리케, 베를린에 있다며. 내가 걱정하는 그걸 하는 건 아니라고 말해 줘.
+HENRIKE: Bernd, ich habe noch nichts entschieden.
+> 베른트, 아직 아무것도 결정 안 했어.
+FALLER: Du hast vor vier Monaten vor dem Landtag einen Amtseid geschworen. Du hast den Hessen fünf Jahre versprochen. Und jetzt rufen sie aus Berlin, und du packst die Koffer?
+> 넉 달 전에 주의회 앞에서 취임 선서를 했잖아. 헤센 사람들한테 5년을 약속했고. 그런데 이제 베를린에서 부르니까 짐을 싼다고?
+HENRIKE: Ich packe nichts. Ich denke nach.
+> 아무것도 안 싸. 생각하는 중이야.
+FALLER: Wer nachdenkt, hat schon halb gepackt. Ich kenne dich, Henrike.
+> 생각하는 사람은 벌써 반쯤 짐을 싼 거야. 나 너 알아, 헨리케.
+KATHARINA: Er hat nicht ganz unrecht.
+> 팔러 씨 말이 아주 틀린 건 아니에요.
+
+## 갈등 — FÜNF JAHRE VERSPROCHEN
+HENRIKE: Katharina, du auch?
+> 카타리나, 너까지?
+KATHARINA: Ich sage nicht, dass du es nicht tun sollst. Ich sage, dass Faller das stärkste Argument gegen dich hat. Und dass Reuter es nächste Woche benutzen wird.
+> 하지 말라는 게 아니야. 팔러 씨가 너한테 맞설 가장 강한 논거를 갖고 있다는 거지. 그리고 로이터가 다음 주에 그걸 쓸 거라는 거고.
+SELIN: „Sie hat Hessen nach vier Monaten verlassen." Das Plakat sehe ich schon.
+> '그녀는 넉 달 만에 헤센을 떠났다.' 그 포스터가 벌써 보여.
+TOBIAS: Und darunter, kleiner: „Wen verlässt sie als Nächstes?"
+> 그리고 그 밑에 작은 글씨로. '다음엔 누구를 떠날까?'
+HENRIKE: Und was ist die Alternative? Ich sage Nein, und Brettschneider tritt mit elf Prozent an, und Reuter regiert am Ende mit … mit wem eigentlich?
+> 그럼 대안이 뭐야? 내가 거절하면 브레트슈나이더 대표가 11퍼센트로 나서고, 결국 로이터가… 대체 누구랑 통치하지?
+TOBIAS: Mit uns. Als Juniorpartner. Oder mit niemandem, und dann gibt es Neuwahlen. Oder Reuters Partei bricht ihr Wort und redet mit der Bewegung Heimat. Das halte ich für unwahrscheinlich, aber nicht für ausgeschlossen.
+> 우리랑요. 하위 파트너로. 아니면 아무하고도 못 하고 재선거가 되든지. 아니면 로이터 당이 약속을 깨고 베궁 하이마트와 손을 잡든지. 그건 가능성이 낮다고 보지만, 배제할 수는 없어요.
+BRETTSCHNEIDER: Und als Juniorpartner unter Reuter wären wir in vier Jahren bei acht Prozent. Das haben wir schon einmal erlebt.
+> 그리고 로이터 밑의 하위 파트너가 되면 4년 뒤엔 8퍼센트가 될 겁니다. 이미 한 번 겪어 봤어요.
+BRETTSCHNEIDER: Frau Sommer, es gibt einen Unterschied zwischen einem Versprechen an ein Land und einem Versprechen an ein Amt. Sie haben den Hessen versprochen, dass die Dinge funktionieren. Nicht, dass Sie für immer in Wiesbaden sitzen.
+> 조머 주총리님, 한 지역에 한 약속과 한 자리에 한 약속은 다릅니다. 주총리님은 헤센 사람들에게 일이 제대로 돌아가게 하겠다고 약속하셨죠. 영원히 비스바덴에 앉아 있겠다고 한 게 아니라.
+FALLER: Das ist die Art Satz, die man in Berlin erfindet, um einen Wortbruch zu verpacken.
+> 그건 베를린에서 약속 위반을 포장하려고 만들어 내는 종류의 문장이지.
+BRETTSCHNEIDER: Herr Faller, ich höre Sie über Lautsprecher. Und ich verstehe Ihren Ärger. Aber in Hessen regiert dann eine Koalition weiter, die Sie selbst aufgebaut haben. Mit einem Nachfolger aus Ihrer Partei.
+> 팔러 씨, 스피커로 다 들립니다. 그리고 화나신 거 이해해요. 하지만 헤센에선 팔러 씨가 직접 만든 연정이 계속 통치합니다. 팔러 씨 당의 후임자와 함께요.
+FALLER: Mit einer Stimme Mehrheit. Wenn Henrike geht, müssen Behrens und Hagedorn einen neuen Ministerpräsidenten wählen. Glauben Sie, die tun das gern?
+> 한 표 과반으로요. 헨리케가 떠나면 베렌스와 하게도른이 새 주총리를 뽑아야 합니다. 그 사람들이 그걸 좋아서 할 것 같습니까?
+HENRIKE: Johanna und Carsten würden einen Nachfolger wählen. Ich habe mit beiden gesprochen, bevor ich in den Zug gestiegen bin.
+> 요한나와 카르스텐은 후임자를 뽑을 거야. 기차 타기 전에 둘 다랑 얘기했어.
+FALLER: Du hast mit ihnen gesprochen, bevor du mit mir gesprochen hast?
+> 나보다 그 사람들이랑 먼저 얘기했다고?
+HENRIKE: Weil ich wusste, dass du Nein sagst, Bernd. Und ich wollte wissen, ob dein Nein das einzige Argument ist.
+> 네가 반대할 걸 알았으니까, 베른트. 그리고 네 반대가 유일한 논거인지 알고 싶었어.
+KATHARINA: Das ist das Risiko, das in Berlin niemand sieht. Eine Kanzlerkandidatur kann eine Landesregierung kosten.
+> 그게 베를린에서 아무도 못 보는 위험이에요. 총리 후보 출마가 주 정부 하나를 날릴 수도 있어요.
+HENRIKE: Dann sag mir, was du tun würdest, Katharina. Nicht als Beraterin. Als jemand, der mit mir eine Katze aus dem Wasser getragen hat.
+> 그럼 네가 어떻게 할지 말해 줘, 카타리나. 컨설턴트로서 말고. 나랑 같이 물속에서 고양이를 들고 나온 사람으로서.
+KATHARINA: Das ist unfair.
+> 그건 반칙이야.
+HENRIKE: Ich weiß. Ich habe es von dir gelernt.
+> 알아. 너한테 배웠어.
+KATHARINA: Ich würde antreten. Aber nicht wie jemand, der geht. Wie jemand, der bleibt, bis die Wähler entscheiden. Kein Umzug, kein Rücktritt, keine Abschiedsrede. Du regierst Hessen jeden Tag weiter und machst nebenbei Wahlkampf. Das ist anstrengend. Und es ist ehrlich.
+> 나라면 나서. 하지만 떠나는 사람처럼 말고. 유권자가 결정할 때까지 남아 있는 사람처럼. 이사도, 사임도, 고별 연설도 없이. 매일 헤센을 계속 통치하면서 선거운동을 하는 거야. 힘들지. 그리고 정직해.
+FALLER: Und wenn sie gewinnt? Dann ist sie trotzdem weg.
+> 그럼 이기면요? 그래도 떠나는 거잖아요.
+KATHARINA: Dann hat Hessen eine Kanzlerin, die weiß, wie man eine Brücke baut und einen Deich hält. Herr Faller, Sie wissen, wie selten das in Berlin ist.
+> 그럼 헤센은 다리를 짓고 제방을 지킬 줄 아는 총리를 갖게 되는 거죠. 팔러 씨, 베를린에서 그게 얼마나 드문지 아시잖아요.
+FALLER: … Ich weiß es. Das ist ja das Schlimme. Henrike, wenn du es machst, dann mach es richtig. Und ruf mich an, bevor du es den Zeitungen sagst.
+> …알죠. 그게 문제예요. 헨리케, 할 거면 제대로 해. 그리고 신문에 말하기 전에 나한테 먼저 전화하고.
+HENRIKE: Versprochen, Bernd. Diesmal wirklich.
+> 약속할게, 베른트. 이번엔 진짜로.
+BRETTSCHNEIDER: Elf Uhr. Der Parteivorstand wartet.
+> 열한 시입니다. 당 집행부가 기다립니다.
+HENRIKE: Dann gehe ich jetzt rein. Und ich sage Ja.
+> 그럼 지금 들어갈게요. 그리고 수락하겠습니다.
+UTE: Na, da seid ihr ja endlich. Icke warte hier seit halb zehn mit zwölf Umzugskartons und einem Kaffeeautomaten, der nur Wasser macht.
+> 아, 드디어 왔네. 나 아홉 시 반부터 이삿짐 상자 열두 개랑 맹물만 나오는 커피 머신이랑 같이 기다렸어.
+SELIN: Ute! Was machst du denn hier?
+> 우테! 여기서 뭐 해?
+UTE: Wat ick hier mache? Paul hat gesagt, ihr braucht ein Büro in Berlin. Und dass ihr selber nicht mal einen Mietvertrag lesen könnt, ohne einen Ausschuss einzuberufen.
+> 내가 여기서 뭐 하냐고? 폴이 너희한테 베를린 사무실이 필요하다고 했어. 그리고 너희는 위원회 소집 안 하면 임대 계약서 하나도 못 읽는다고.
+TOBIAS: Das ist eine Verleumdung.
+> 그건 명예훼손이야.
+UTE: Det is ne Feststellung, Tobias. Kiek ma: Strom läuft, Internet läuft ab morgen, und das Klingelschild habe ich schon bestellt. „Wahlkampf Sommer". Ohne Ausrufezeichen. Det hat mir ein Herr Faller aus Hessen so diktiert.
+> 그건 사실 확인이야, 토비아스. 이거 봐. 전기 들어오고, 인터넷은 내일부터 되고, 초인종 명패도 벌써 주문했어. '조머 선거캠프'. 느낌표 없이. 헤센의 팔러라는 양반이 그렇게 불러 주더라.
+KATHARINA: Du hast mit Faller telefoniert?
+> 팔러 씨랑 통화했어?
+UTE: Zwanzig Minuten. Netter Mann. Ein bisschen umständlich. Er hat mir erklärt, wie man in Hessen Wahlkampf macht. Ich hab ihm erklärt, wie man in Berlin parkt. Wir sind quitt.
+> 20분. 괜찮은 양반이야. 좀 장황하긴 한데. 헤센에서 선거운동 어떻게 하는지 설명해 주더라. 나는 베를린에서 주차하는 법을 설명해 줬지. 그걸로 퉁쳤어.
+SELIN: Du hast Faller in zwanzig Minuten gezähmt? Wir haben dafür zwei Monate gebraucht.
+> 팔러 씨를 20분 만에 길들였다고? 우리는 두 달 걸렸는데.
+UTE: Ihr habt ihm ja auch Folien gezeigt. Ick hab ihm zugehört. Det wirkt bei Männern über sechzig Wunder.
+> 너희는 슬라이드를 보여 줬잖아. 나는 들어 줬지. 예순 넘은 남자들한텐 그게 기적처럼 먹혀.
+TOBIAS: Ich bin unter sechzig.
+> 나는 예순 안 됐는데.
+
+## 해결·설득 — DER GEGNER
+KATHARINA: Ute, das ist wunderbar. Aber ich muss kurz telefonieren. Eine Nummer, die ich seit einem Jahr nicht mehr gewählt habe.
+> 우테, 정말 고마워. 그런데 잠깐 전화 좀 해야 돼. 1년 동안 한 번도 안 건 번호야.
+LORENZ: Katharina. Ich habe mich gefragt, wie lange du brauchst.
+> 카타리나. 얼마나 걸릴까 궁금했어.
+KATHARINA: „Höflich und tödlich", Jan-Hendrik. Den Satz hast du mir vor zehn Jahren beigebracht. Du schreibst für Reuter.
+> '정중하면서 치명적', 얀헨드릭. 그 표현, 10년 전에 당신이 가르쳐 줬잖아요. 로이터 연설을 쓰고 있죠.
+LORENZ: Ich berate ihn. Strategisch. Seit Montag. Es wird morgen in der Zeitung stehen, und ich wollte, dass du es vorher von mir hörst.
+> 자문하고 있어. 전략적으로. 월요일부터. 내일 신문에 나올 거야. 그 전에 네가 나한테서 듣길 바랐어.
+KATHARINA: Dann sag es mir persönlich. Am Schiffbauerdamm, in einer Stunde.
+> 그럼 직접 말해요. 쉬프바우어담에서, 한 시간 뒤에.
+LORENZ: Du hast dich nicht verändert. Immer noch keine Zeit für Telefone.
+> 하나도 안 변했구나. 여전히 전화로 할 시간은 없지.
+LORENZ: Die Spree ist hier ruhiger als der Main. Man sieht es ihr nicht an, wie tief sie ist.
+> 슈프레강은 여기서 마인강보다 잔잔해. 얼마나 깊은지 겉으로는 안 보이지.
+KATHARINA: Warum Reuter, Jan-Hendrik?
+> 왜 로이터예요, 얀헨드릭?
+LORENZ: Weil er mich gefragt hat. Nach deinem Bericht hat mich in dieser Stadt niemand mehr angerufen. Kein Vorstand, kein Ministerium, nicht einmal meine früheren Partner. Reuter schon. Er sagt, er braucht jemanden, der weiß, wie du denkst.
+> 그가 물어봤으니까. 네 보고서 이후로 이 도시에서 나한테 전화하는 사람이 없었어. 이사회도, 부처도, 예전 파트너들조차. 로이터는 했지. 네가 어떻게 생각하는지 아는 사람이 필요하대.
+KATHARINA: Also bist du gegen mich angetreten.
+> 그러니까 나한테 맞서려고 나온 거네요.
+LORENZ: Nein. Ich bin dein Gegner, Katharina, nicht dein Feind. Das ist ein Unterschied, den du früher gekannt hast.
+> 아니. 나는 네 상대지, 적이 아니야, 카타리나. 예전엔 너도 그 차이를 알았잖아.
+KATHARINA: Ich kenne ihn immer noch. Ein Gegner hält sich an Regeln. Hältst du dich an Regeln?
+> 지금도 알아요. 상대는 규칙을 지키죠. 당신은 규칙을 지켜요?
+LORENZ: An die Gesetze, immer. An die Regeln des Anstands — so gut, wie es in einem Wahlkampf eben geht. Mehr verspreche ich nicht. Und du solltest dir auch nicht mehr versprechen.
+> 법은 언제나. 품위의 규칙은, 선거운동에서 가능한 만큼은. 그 이상은 약속 안 해. 그리고 너도 너 자신한테 그 이상은 약속하지 않는 게 좋을 거야.
+KATHARINA: Das ist genau der Satz, mit dem du früher die Grenze verschoben hast. Ein bisschen, jedes Mal.
+> 그게 바로 예전에 당신이 선을 옮길 때 쓰던 문장이에요. 매번 조금씩.
+LORENZ: Vielleicht. Und vielleicht hast du recht gehabt, damals. Das gebe ich nicht gern zu. Aber diesmal geht es nicht um einen Beratervertrag. Es geht darum, wer dieses Land regiert. Reuter wäre ein guter Kanzler. Ich glaube das wirklich.
+> 그럴지도. 그리고 그때 네가 옳았을지도 모르지. 기꺼이 인정하는 건 아니야. 하지만 이번엔 컨설팅 계약 문제가 아니야. 누가 이 나라를 통치하느냐의 문제지. 로이터는 좋은 총리가 될 거야. 진심으로 그렇게 믿어.
+KATHARINA: Und Henrike wäre eine bessere. Das glaube ich wirklich.
+> 그리고 헨리케는 더 나은 총리가 될 거예요. 나는 진심으로 그렇게 믿어요.
+LORENZ: Dann haben wir beide einen Grund, früh aufzustehen. Ein Rat, kostenlos, weil du ihn ohnehin nicht annimmst: Berlin ist kein größeres Wiesbaden. Hier hat jeder Journalist drei Quellen in deiner eigenen Partei. Und mindestens eine davon redet mit mir.
+> 그럼 우리 둘 다 일찍 일어날 이유가 있네. 공짜 조언 하나. 어차피 안 받아들일 테니까. 베를린은 좀 더 큰 비스바덴이 아니야. 여기선 기자마다 네 당 안에 취재원이 세 명씩 있어. 그리고 그중 적어도 한 명은 나랑 얘기하지.
+KATHARINA: Danke. Und einer kostenlos zurück: Henrike lässt sich nicht vorführen. Sie hat gelernt, Fehler zuzugeben. Dagegen gibt es keine Strategie.
+> 고마워요. 나도 공짜로 하나 돌려줄게요. 헨리케는 망신당하지 않아요. 잘못을 인정하는 법을 배웠거든요. 그것엔 맞설 전략이 없어요.
+LORENZ: Jede Stärke ist eine Strategie, Katharina. Man muss sie nur lange genug ansehen.
+> 모든 강점은 전략이 될 수 있어, 카타리나. 충분히 오래 들여다보기만 하면.
+KATHARINA: Dann schau gut hin, Jan-Hendrik. Sie hält länger, als du denkst.
+> 그럼 잘 봐요, 얀헨드릭. 당신 생각보다 오래 버틸 테니까.
+LORENZ: Wir sehen uns im Fernsehstudio. Grüß Tobias. Und sag Selin, ihre Grafiken sind immer noch die besten in der Stadt.
+> 방송 스튜디오에서 보자. 토비아스한테 안부 전해 줘. 그리고 셀린한테, 셀린 그래프가 여전히 이 도시 최고라고 전해 줘.
+UTE: Und? Wer war det?
+> 그래서? 누구였어?
+KATHARINA: Ein Gegner.
+> 상대.
+UTE: Lorenz, wa? Ick hab's dir am Gesicht angesehen. So guckst du nur, wenn's um ihn geht. Oder um eine Steuererklärung.
+> 로렌츠지, 그치? 얼굴 보고 알았어. 너는 그 사람 얘기할 때만 그런 표정이더라. 아니면 세금 신고서 볼 때나.
+TOBIAS: Lorenz berät Reuter? Dann wissen sie jetzt, wie wir denken.
+> 로렌츠가 로이터를 자문한다고? 그럼 이제 저쪽이 우리 생각을 다 아는 거네.
+SELIN: Sie wissen, wie wir vor einem Jahr gedacht haben. Wir haben uns verändert. Er nicht.
+> 1년 전에 우리가 어떻게 생각했는지를 알지. 우리는 변했어. 그 사람은 안 변했고.
+KATHARINA: Das hoffe ich. Henrike hat es auch.
+> 그러길 바라. 헨리케도 변했고.
+HENRIKE: Ich höre meinen Namen. — Der Parteivorstand hat einstimmig entschieden. Ich bin Kanzlerkandidatin der Neuen Mitte. Und ich bleibe Ministerpräsidentin von Hessen, bis die Wähler entscheiden.
+> 내 이름이 들리네. — 당 집행부가 만장일치로 결정했어요. 나는 노이에 미테 총리 후보예요. 그리고 유권자가 결정할 때까지 헤센 주총리로 남아요.
+
+## 마무리 — MOABIT, NACHTS
+UTE: Frau Ministerpräsidentin, willkommen im Wahlkampfbüro. Kaffee gibt's morgen. Heute gibt's Wasser. Aus dem Kaffeeautomaten.
+> 주총리님, 선거캠프에 오신 걸 환영해요. 커피는 내일부터예요. 오늘은 물이에요. 커피 머신에서 나오는.
+HENRIKE: Frau Hennig, ich habe viel von Ihnen gehört. Vor allem, dass niemand Ihnen widerspricht.
+> 헤니히 씨, 얘기 많이 들었어요. 특히 아무도 헤니히 씨한테 반박하지 못한다는 거요.
+UTE: Doch, versucht haben's einige. Paul zum Beispiel. Jetzt ist er in Frankfurt.
+> 아니요, 해 본 사람은 몇 있었어요. 폴이라든가. 그래서 지금 프랑크푸르트에 있죠.
+TOBIAS: Achtundfünfzig Tage, vierundachtzig Millionen Menschen, ein Gegner mit Lorenz. Und ein Büro ohne Kaffee.
+> 58일, 8천4백만 명, 로렌츠가 붙은 상대. 그리고 커피 없는 사무실.
+SELIN: Und morgen früh die erste Programmsitzung. Der Parteivorstand will das Rentenkonzept sehen.
+> 그리고 내일 아침엔 첫 정책 회의. 당 집행부가 연금 구상을 보고 싶어 해.
+TOBIAS: Das Rentenkonzept. Hat schon mal jemand ausgerechnet, was es kostet?
+> 연금 구상이라. 그게 얼마 드는지 계산해 본 사람은 있어?
+HENRIKE: Ich nehme an, das werden Sie morgen tun, Herr Wendt.
+> 그건 내일 벤트 씨가 하실 거라고 짐작하는데요.
+TOBIAS: Ich nehme an, das wird niemandem gefallen.
+> 그건 아무도 안 좋아할 거라고 짐작합니다.
+UTE: Na, dann seid ihr ja genau richtig in Berlin. Hier gefällt einem nie was. Und trotzdem bleibt man.
+> 그럼 너희 베를린에 딱 맞게 왔네. 여긴 아무것도 마음에 안 들어. 그런데도 다들 남아.
+KATHARINA: Henrike, eine Sache noch. Lorenz hat gesagt, er sieht uns im Fernsehstudio.
+> 헨리케, 하나만 더. 로렌츠가 방송 스튜디오에서 보자고 했어.
+HENRIKE: Dann sorgen wir dafür, dass er bis dahin etwas zu sehen bekommt.
+> 그럼 그때까지 그 사람이 볼 만한 걸 보여 주자.
+KATHARINA: Willkommen in Berlin. Es ist kein größeres Wiesbaden.
+> 베를린에 온 걸 환영해. 여긴 좀 더 큰 비스바덴이 아니야.
