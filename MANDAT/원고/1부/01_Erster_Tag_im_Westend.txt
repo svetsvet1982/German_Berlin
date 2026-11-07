@@ -1,0 +1,265 @@
+part: 1
+ep: 1
+title_de: Erster Tag im Westend
+title_ko: 웨스트엔드의 첫날
+scene: 월요일 아침, 프랑크푸르트 웨스트엔드
+level: B1+
+setting: 월요일 오전 여덟 시부터 수요일 오전 아홉 시까지, Hellweg & Cie. 프랑크푸르트 사무실(Bockenheimer Landstraße)
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트, 전직 투자은행원 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석), 베를린 사무소에서 전입 (27)
+cast: LORENZ | Jan-Hendrik Lorenz · 시니어 파트너 (58)
+cast: BIRGIT | Birgit Hahn · 팀 어시스턴트
+cast: HARTMANN | Dr. Hartmann · Mainbank AG 재무담당 이사 (가상)
+note: ※ 프랑크푸르트 웨스트엔드의 전략컨설팅사 Hellweg & Cie.는 오래되고 격식 있는 회사입니다. 사내에서는 기본적으로 Sie를 쓰고, 오래 함께 일한 Katharina와 Tobias만 서로 du를 씁니다. 베를린 사무소에서 막 전입한 Selin은 모두에게 Sie를 씁니다. 등장하는 은행(Mainbank AG, Banca Ligure)은 모두 가상입니다. 독일에서는 상장사 지분 30%를 넘기면 모든 주주에게 공개매수 제안(Pflichtangebot)을 해야 합니다. 표현 초점: das Mandat, der Pitch, die Übernahme, der Anteil, Darf ich mich kurz vorstellen?
+next: 1부 2화 — «Feindliche Übernahme»(적대적 인수) — Hellweg는 수임에 성공한다. Mainbank 이사회와의 첫 워크숍에서 Tobias의 숫자는 '독자 생존'이 생각보다 비싸다고 말하고, 이사회 의장은 그 숫자를 받아들이지 못한다. Katharina의 첫 '나쁜 소식 프레젠테이션'.
+
+## 도입 — MONTAG, ACHT UHR
+BIRGIT: Guten Morgen! Sie müssen Frau Aydın sein. Willkommen bei Hellweg & Cie.
+> 좋은 아침이에요! 아이든 씨죠? Hellweg & Cie.에 오신 걸 환영해요.
+SELIN: Guten Morgen. Ja, Selin Aydın. Ich komme aus dem Berliner Büro.
+> 안녕하세요. 네, 셀린 아이든입니다. 베를린 사무소에서 왔어요.
+BIRGIT: Ich weiß. Ihr Ausweis ist fertig, und Ihr Laptop liegt schon auf Ihrem Tisch.
+> 알아요. 출입증은 준비됐고, 노트북은 벌써 책상 위에 있어요.
+SELIN: Das ging aber schnell. In Berlin hat das zwei Wochen gedauert.
+> 정말 빠르네요. 베를린에서는 그게 2주 걸렸거든요.
+BIRGIT: Hier ist Frankfurt, Frau Aydın. Hier dauert nur der Aufzug lange.
+> 여긴 프랑크푸르트예요, 아이든 씨. 여기선 엘리베이터만 오래 걸려요.
+TOBIAS: Birgit, ist das unsere Neue? Guten Morgen. Tobias Wendt.
+> 비르기트, 이분이 새로 온 분이에요? 안녕하세요. 토비아스 벤트입니다.
+SELIN: Guten Morgen, Herr Wendt. Darf ich mich kurz vorstellen? Ich bin Datenanalystin und …
+> 안녕하세요, 벤트 씨. 잠깐 제 소개를 해도 될까요? 저는 데이터 분석가이고…
+TOBIAS: … und Sie haben in Berlin das Modell für die Krankenkassen gebaut. Ich habe es gelesen. Gute Arbeit.
+> …베를린에서 건강보험공단 모델을 만드셨죠. 읽어 봤어요. 잘하셨더군요.
+SELIN: Oh. Danke. Ich dachte, niemand liest die Anhänge.
+> 아. 감사합니다. 부록은 아무도 안 읽는 줄 알았어요.
+TOBIAS: Ich lese nur die Anhänge. Die Folien davor sind meistens Werbung.
+> 저는 부록만 읽어요. 그 앞의 슬라이드는 대개 광고거든요.
+KATHARINA: Tobias, hör auf, die Neue zu erschrecken. Frau Aydın, Katharina Brandt. Schön, dass Sie da sind.
+> 토비아스, 신입 겁주지 마. 아이든 씨, 카타리나 브란트예요. 와 주셔서 반가워요.
+SELIN: Frau Dr. Brandt, ich freue mich sehr. Ich habe schon viel über Ihre Projekte gehört.
+> 브란트 박사님, 정말 반갑습니다. 박사님 프로젝트 얘기를 많이 들었어요.
+
+## 장면 1 — EIN ANRUF AUS DER MAINBANK
+KATHARINA: Hoffentlich nur Gutes. Kommen Sie, wir trinken einen Kaffee, und ich erkläre Ihnen den Plan für die erste Woche.
+> 좋은 얘기만이었으면 좋겠네요. 가요, 커피 한잔하면서 첫 주 계획을 설명해 드릴게요.
+SELIN: Gibt es schon ein Projekt für mich?
+> 벌써 제가 맡을 프로젝트가 있나요?
+KATHARINA: Eigentlich wollte ich Ihnen eine ruhige Woche geben. Interne Schulungen, die Systeme kennenlernen …
+> 원래는 조용한 한 주를 드리려고 했어요. 사내 교육 받고, 시스템도 익히고…
+BIRGIT: Frau Dr. Brandt? Entschuldigung. Dr. Hartmann von der Mainbank ist am Telefon. Er sagt, es ist dringend.
+> 브란트 박사님? 죄송해요. 마인방크의 하르트만 박사님 전화예요. 급한 일이래요.
+KATHARINA: Die ruhige Woche ist vorbei. Stellen Sie ihn bitte in den kleinen Besprechungsraum durch. Sie beide kommen mit.
+> 조용한 한 주는 끝났네요. 작은 회의실로 연결해 주세요. 두 분도 같이 가요.
+HARTMANN: Frau Dr. Brandt? Hartmann hier. Entschuldigen Sie den frühen Anruf.
+> 브란트 박사님? 하르트만입니다. 아침 일찍 전화드려 죄송합니다.
+KATHARINA: Kein Problem, Herr Dr. Hartmann. Herr Wendt und Frau Aydın aus meinem Team hören mit. Was ist passiert?
+> 괜찮습니다, 하르트만 박사님. 저희 팀의 벤트 씨와 아이든 씨도 함께 듣고 있어요. 무슨 일이세요?
+HARTMANN: Heute um sieben Uhr hat uns die Banca Ligure informiert. Sie hält jetzt neun Komma acht Prozent unserer Aktien.
+> 오늘 아침 일곱 시에 방카 리구레가 통보해 왔습니다. 지금 저희 주식의 9.8퍼센트를 보유하고 있답니다.
+TOBIAS: Neun Komma acht? Letzten Monat waren es noch knapp fünf Prozent.
+> 9.8퍼센트요? 지난달만 해도 5퍼센트가 채 안 됐는데요.
+HARTMANN: Genau. Sie haben still und leise gekauft. Und sie wollen weiterkaufen, bis zu neunundzwanzig Prozent.
+> 맞습니다. 소리 소문 없이 사들였어요. 그리고 계속 사겠답니다, 29퍼센트까지.
+SELIN: Darf ich fragen, warum genau neunundzwanzig?
+> 왜 하필 29퍼센트인지 여쭤봐도 될까요?
+TOBIAS: Ab dreißig Prozent muss man allen Aktionären ein Übernahmeangebot machen. Neunundzwanzig ist knapp darunter.
+> 30퍼센트부터는 모든 주주에게 공개매수 제안을 해야 해요. 29는 그 바로 아래죠.
+HARTMANN: Richtig. So bekommen sie fast die Kontrolle, ohne den vollen Preis zu bezahlen. Unser Vorstand ist … nervös.
+> 맞아요. 그렇게 하면 제값을 다 치르지 않고 사실상 경영권을 쥐게 됩니다. 저희 이사회는… 초조해하고 있어요.
+KATHARINA: Das verstehe ich. Was genau erwartet der Vorstand von uns?
+> 이해합니다. 이사회가 저희에게 정확히 무엇을 기대하시나요?
+HARTMANN: Wir möchten Ihnen ein Mandat geben. Eine Strategie: Wie bleibt die Mainbank unabhängig?
+> 저희가 일을 맡기고 싶습니다. 전략이요. 마인방크가 어떻게 독립을 지킬 수 있는가.
+KATHARINA: Und wenn die Antwort lautet, dass sie es nicht kann?
+> 만약 답이 '지킬 수 없다'라면요?
+HARTMANN: … Das ist eine ehrliche Frage. Ich weiß nicht, ob der Vorstand sie hören will.
+> …솔직한 질문이군요. 이사회가 그 질문을 듣고 싶어 할지는 모르겠습니다.
+KATHARINA: Dann fangen wir anders an. Wir analysieren zuerst die Lage und zeigen Ihnen die Optionen. Alle Optionen.
+> 그럼 다르게 시작하죠. 먼저 상황을 분석하고 선택지를 보여 드리겠습니다. 모든 선택지를요.
+HARTMANN: Einverstanden. Aber wir haben nicht viel Zeit. Der Vorstand trifft sich am Mittwoch um neun. Können Sie bis dahin einen Vorschlag präsentieren?
+> 좋습니다. 하지만 시간이 많지 않아요. 이사회가 수요일 아홉 시에 모입니다. 그때까지 제안을 발표해 주실 수 있겠습니까?
+KATHARINA: Mittwoch um neun. Das sind achtundvierzig Stunden.
+> 수요일 아홉 시. 48시간이네요.
+HARTMANN: Ich weiß. Andere Beratungen haben auch schon angerufen. Aber ich wollte zuerst mit Ihnen sprechen.
+> 압니다. 다른 컨설팅사들도 벌써 전화를 했어요. 그래도 먼저 박사님과 이야기하고 싶었습니다.
+KATHARINA: Danke für Ihr Vertrauen. Sie bekommen am Mittwoch unseren Pitch.
+> 믿어 주셔서 감사합니다. 수요일에 저희 제안 발표를 보시게 될 겁니다.
+HARTMANN: Gut. Ich schicke Ihnen gleich die öffentlichen Unterlagen. Bis Mittwoch.
+> 좋습니다. 공개 자료를 바로 보내 드리죠. 수요일에 뵙겠습니다.
+SELIN: Entschuldigung, darf ich etwas fragen? Was genau ist ein Pitch? In Berlin hatten wir meistens öffentliche Ausschreibungen.
+> 죄송한데, 하나 여쭤봐도 될까요? 피치가 정확히 뭔가요? 베를린에서는 주로 공공 입찰이었거든요.
+TOBIAS: Ein Pitch ist wie ein Vorstellungsgespräch. Nur stellt sich nicht eine Person vor, sondern ein ganzes Team.
+> 피치는 면접 같은 거예요. 다만 한 사람이 아니라 팀 전체가 자기소개를 하는 거죠.
+KATHARINA: Wir zeigen dem Kunden: So verstehen wir Ihr Problem, so würden wir arbeiten, und dieses Team macht es.
+> 고객에게 보여 주는 거예요. 저희는 귀사의 문제를 이렇게 이해하고, 이렇게 일할 것이며, 이 팀이 해냅니다.
+SELIN: Und wenn er Ja sagt, haben wir das Mandat.
+> 그리고 고객이 '네'라고 하면 저희가 수임하는 거고요.
+KATHARINA: Genau. Dann beginnt das Projekt mit einem Kick-off. Aber zuerst müssen wir gewinnen.
+> 바로 그거예요. 그다음에 킥오프로 프로젝트가 시작돼요. 하지만 먼저 이겨야죠.
+TOBIAS: Ich hole mir die Geschäftsberichte der letzten fünf Jahre. Kosten, Erträge, Kapital.
+> 저는 지난 5년 치 사업보고서를 가져올게요. 비용, 수익, 자본.
+KATHARINA: Gut. Frau Aydın, Sie sind Datenanalystin. Was würden Sie als Erstes machen?
+> 좋아. 아이든 씨는 데이터 분석가죠. 제일 먼저 뭘 하시겠어요?
+SELIN: Ich würde mir die Aktionärsstruktur ansehen. Wer hält die anderen neunzig Prozent? Wer verkauft vielleicht an die Italiener?
+> 주주 구성을 보겠어요. 나머지 90퍼센트는 누가 갖고 있는지. 누가 이탈리아 쪽에 팔 수도 있는지.
+KATHARINA: Sehr gut. Genau das brauchen wir. Fangen Sie an.
+> 아주 좋아요. 딱 그게 필요해요. 시작하세요.
+SELIN: An meinem ersten Tag?
+> 첫날부터요?
+
+## 장면 2 — ZWEI MEINUNGEN
+TOBIAS: Willkommen in Frankfurt. Hier ist jeder Tag ein erster Tag.
+> 프랑크푸르트에 오신 걸 환영해요. 여기선 매일이 첫날이에요.
+LORENZ: Katharina! Ich habe gehört, die Mainbank hat angerufen.
+> 카타리나! 마인방크에서 전화 왔다며.
+KATHARINA: Guten Morgen, Jan-Hendrik. Das ging schnell. Der Anruf war vor zwanzig Minuten.
+> 좋은 아침이에요, 얀헨드릭. 빠르시네요. 전화 온 지 20분밖에 안 됐는데.
+LORENZ: In diesem Haus ist nichts schneller als eine gute Nachricht. Und wer ist die junge Kollegin?
+> 이 회사에서 좋은 소식보다 빠른 건 없지. 그런데 이 젊은 동료는 누구지?
+SELIN: Selin Aydın, aus dem Berliner Büro. Guten Morgen, Herr Lorenz.
+> 셀린 아이든입니다, 베를린 사무소에서 왔습니다. 안녕하세요, 로렌츠 씨.
+LORENZ: Willkommen. Sie haben sich einen guten Tag zum Anfangen ausgesucht. Katharina, hast du zehn Minuten?
+> 환영해요. 시작하기 좋은 날을 고르셨군. 카타리나, 10분 있어?
+KATHARINA: Für dich immer. Aber Tobias und Frau Aydın bleiben dabei. Es ist auch ihr Projekt.
+> 당신을 위해서라면 언제든지요. 하지만 토비아스와 아이든 씨도 같이 있을게요. 이 사람들 프로젝트이기도 하니까.
+LORENZ: Noch ist es niemandes Projekt. Also gut. Was will Hartmann?
+> 아직은 누구의 프로젝트도 아니야. 좋아. 하르트만이 원하는 게 뭐야?
+KATHARINA: Eine Strategie für die Unabhängigkeit der Mainbank.
+> 마인방크의 독립을 지킬 전략이요.
+LORENZ: Natürlich will er das. Jeder Vorstand will unabhängig bleiben. Es geht um seinen eigenen Posten.
+> 당연히 그걸 원하겠지. 어느 이사회든 독립을 원해. 자기 자리가 걸린 문제니까.
+KATHARINA: Vielleicht. Vielleicht geht es aber auch um sechstausend Mitarbeiter.
+> 그럴지도요. 하지만 직원 6천 명이 걸린 문제일 수도 있죠.
+LORENZ: Katharina, sieh dir die Zahlen an. Die Mainbank ist zu klein, um allein zu überleben. Die Kosten sind zu hoch, und die Zinsen sinken wieder.
+> 카타리나, 숫자를 봐. 마인방크는 혼자 살아남기엔 너무 작아. 비용은 너무 높고, 금리는 다시 내려가고 있어.
+TOBIAS: Die Zahlen sind gemischt. Die Kosten sind hoch, das stimmt. Aber das Geschäft mit dem Mittelstand ist sehr profitabel.
+> 숫자는 엇갈립니다. 비용이 높은 건 맞아요. 하지만 중견기업 대상 영업은 수익성이 아주 좋습니다.
+LORENZ: Herr Wendt, ich kenne diese Zahlen seit zwanzig Jahren. Diese Bank braucht einen Partner.
+> 벤트 씨, 나는 그 숫자를 20년째 봐 왔어요. 이 은행은 파트너가 필요해요.
+KATHARINA: Was schlägst du also vor?
+> 그래서 뭘 제안하시는데요?
+LORENZ: Ganz einfach. Wir sagen dem Vorstand am Mittwoch: Kämpfen ist teuer. Verhandeln Sie lieber mit den Italienern über einen guten Preis.
+> 간단해. 수요일에 이사회에 이렇게 말하는 거야. 싸우는 건 비쌉니다. 차라리 이탈리아 쪽과 좋은 가격으로 협상하세요.
+SELIN: Aber das war nicht die Frage des Kunden. Er hat nach Unabhängigkeit gefragt.
+> 하지만 그건 고객의 질문이 아니었어요. 고객은 독립에 대해 물었거든요.
+LORENZ: Frau Aydın, der Kunde fragt oft nach dem Falschen. Wir sind dafür da, ihm das Richtige zu sagen.
+> 아이든 씨, 고객은 종종 엉뚱한 걸 물어요. 우리는 옳은 걸 말해 주려고 있는 거고.
+KATHARINA: Da hat er nicht ganz unrecht, Frau Aydın. Aber das muss man zuerst prüfen.
+> 그 말이 아주 틀린 건 아니에요, 아이든 씨. 하지만 먼저 확인을 해 봐야죠.
+LORENZ: Und noch etwas. Eine Fusion bedeutet viel mehr Arbeit. Integration, Kostenprogramme, zwei Jahre Projekt. Das ist ein großes Mandat für unser Haus.
+> 그리고 하나 더. 합병은 일이 훨씬 많아. 통합, 비용 절감 프로그램, 2년짜리 프로젝트. 우리 회사엔 큰 수임 건이지.
+TOBIAS: Also ist die Fusion vor allem gut für uns.
+> 그러니까 합병은 무엇보다 우리한테 좋은 거군요.
+LORENZ: Sie ist gut für alle, Herr Wendt. Für die Aktionäre, für die Italiener — und ja, auch für uns. Das ist kein Verbrechen.
+> 모두에게 좋은 거예요, 벤트 씨. 주주에게도, 이탈리아 쪽에도, 그리고 그래요, 우리에게도. 그게 범죄는 아니잖아요.
+KATHARINA: Nein. Aber es ist ein Interesse. Und wir sollten unser Interesse nicht mit dem Interesse des Kunden verwechseln.
+> 아니죠. 하지만 그건 이해관계예요. 우리 이익을 고객의 이익과 혼동하면 안 돼요.
+LORENZ: Du klingst wie eine Professorin. Der Partnerausschuss trifft sich im Frühjahr, Katharina. Er achtet auch auf Umsatz.
+> 꼭 교수처럼 말하는군. 파트너 위원회가 봄에 열려, 카타리나. 위원회는 매출도 본다고.
+KATHARINA: Ich weiß, worauf der Ausschuss achtet.
+> 위원회가 뭘 보는지는 저도 알아요.
+LORENZ: Gut. Dann sind wir uns einig. Ich komme am Mittwoch mit. Hartmann kennt mich.
+> 좋아. 그럼 의견 일치네. 수요일에 나도 같이 가지. 하르트만은 나를 알거든.
+KATHARINA: Gern. Aber den Pitch macht mein Team. Mit den Zahlen, die wir finden. Nicht mit denen, die wir uns wünschen.
+> 좋아요. 하지만 발표는 제 팀이 해요. 우리가 찾아낸 숫자로요. 우리가 바라는 숫자가 아니라.
+LORENZ: Einverstanden. Überrasch mich. — Frau Aydın, noch einmal: willkommen.
+> 알았어. 날 놀라게 해 봐. — 아이든 씨, 다시 한번 환영해요.
+SELIN: … Ist er immer so?
+> …저분 원래 저러세요?
+TOBIAS: Nein. Manchmal ist er schlechter gelaunt.
+> 아니요. 가끔은 기분이 더 안 좋아요.
+KATHARINA: Tobias. — Frau Aydın, Herr Lorenz ist ein sehr guter Berater. Er hat diese Firma groß gemacht. Er hat nur eine andere Methode.
+> 토비아스. — 아이든 씨, 로렌츠 씨는 아주 훌륭한 컨설턴트예요. 이 회사를 키운 사람이죠. 그저 방법이 다를 뿐이에요.
+SELIN: Und welche Methode haben Sie?
+> 그럼 박사님 방법은 뭔가요?
+KATHARINA: Ich höre zuerst zu. Dann rechne ich. Und erst dann rede ich.
+> 먼저 들어요. 그다음에 계산하고. 말은 그다음에야 하죠.
+TOBIAS: Und ich rechne zuerst, dann rechne ich noch einmal, und dann sage ich gar nichts.
+> 저는 먼저 계산하고, 한 번 더 계산하고, 그다음엔 아무 말도 안 해요.
+SELIN: Dann bin ich wohl die, die die Daten sucht. Gut. Ich fange an.
+> 그럼 저는 데이터를 찾는 사람이겠네요. 좋아요. 시작할게요.
+
+## 절정 — DIENSTAG, ZWEIUNDZWANZIG UHR
+TOBIAS: Dienstag, zweiundzwanzig Uhr. Ich bestelle Pizza. Wer will was?
+> 화요일 밤 열 시. 피자 시킬게요. 누가 뭐 먹을래요?
+SELIN: Etwas ohne Fleisch, bitte. Und ich habe etwas gefunden.
+> 고기 없는 걸로 부탁해요. 그리고 저 뭔가 찾았어요.
+KATHARINA: Zeigen Sie mal.
+> 보여 줘 봐요.
+SELIN: Hier ist die Aktionärsstruktur. Neun Komma acht Prozent hält jetzt die Banca Ligure. Etwa zwölf Prozent halten zwei Versorgungswerke aus Hessen — Pensionskassen für Ärzte und Apotheker.
+> 여기 주주 구성이에요. 방카 리구레가 지금 9.8퍼센트. 약 12퍼센트는 헤센의 직능연금기관 두 곳이 갖고 있어요. 의사와 약사들의 연금기금이요.
+TOBIAS: Die verkaufen nicht schnell. Die denken in Jahrzehnten.
+> 그쪽은 쉽게 안 팔아요. 수십 년 단위로 생각하는 곳들이니까.
+SELIN: Genau. Dann gibt es eine Stiftung mit sieben Prozent und Mitarbeiteraktien mit drei Prozent. Zusammen sind das über zwanzig Prozent stabile Aktionäre.
+> 맞아요. 그리고 7퍼센트를 가진 재단이 하나 있고, 직원 보유 주식이 3퍼센트예요. 합치면 20퍼센트가 넘는 안정적인 주주들이죠.
+KATHARINA: Und der Rest?
+> 나머지는요?
+SELIN: Der Rest sind Fonds. Die verkaufen, wenn der Preis stimmt. Aber das Interessante kommt jetzt: Ich habe mir die Kundendaten im Geschäftsbericht angesehen.
+> 나머지는 펀드들이에요. 가격만 맞으면 팔죠. 그런데 재미있는 건 이제부터예요. 사업보고서에 있는 고객 데이터를 봤거든요.
+SELIN: Fast die Hälfte des Gewinns kommt von mittelständischen Firmen in Hessen und Baden-Württemberg. Und viele dieser Firmen sagen in Umfragen: Sie wollen eine Bank, die hier entscheidet.
+> 이익의 거의 절반이 헤센과 바덴뷔르템베르크의 중견기업에서 나와요. 그리고 그 기업들 상당수가 설문에서 이렇게 말해요. 여기서 결정하는 은행을 원한다고.
+TOBIAS: Das heißt: Wenn die Italiener übernehmen und die Entscheidungen nach Genua gehen, verlieren sie vielleicht genau das profitable Geschäft.
+> 그 말은, 이탈리아 쪽이 인수해서 결정권이 제노바로 가면, 바로 그 수익성 좋은 사업을 잃을 수도 있다는 거네요.
+KATHARINA: Das ist unser Argument. Nicht nur Gefühl, nicht nur Heimat. Ein Geschäftsargument.
+> 그게 우리 논거예요. 감정만도, 애향심만도 아닌. 사업적인 논거.
+TOBIAS: Aber Lorenz hat auch recht. Die Kosten sind zu hoch. Allein schafft es die Bank nur mit einem harten Sparprogramm.
+> 하지만 로렌츠 말도 맞아. 비용이 너무 높아. 혼자 가려면 강도 높은 긴축 프로그램이 있어야만 해.
+KATHARINA: Dann sagen wir das auch. Ehrlich.
+> 그럼 그것도 말해야지. 솔직하게.
+SELIN: Wie bauen wir den Pitch auf?
+> 발표는 어떻게 구성하죠?
+KATHARINA: Wir zeigen drei Optionen. Erstens: Die Bank bleibt allein — mit einem klaren Kostenprogramm. Zweitens: Sie sucht sich selbst einen Partner, den sie will.
+> 세 가지 선택지를 보여 줄 거예요. 첫째, 은행이 독자적으로 간다 — 명확한 비용 절감 계획과 함께. 둘째, 은행이 직접 원하는 파트너를 찾는다.
+TOBIAS: Einen weißen Ritter. Eine deutsche Bank oder eine Sparkassengruppe, die ein freundliches Angebot macht.
+> 백기사죠. 우호적인 제안을 하는 독일 은행이나 저축은행 그룹.
+SELIN: Weißer Ritter? Das klingt wie ein Märchen.
+> 백기사요? 동화 같네요.
+TOBIAS: Die Finanzwelt liebt Märchen. Vor allem die mit Drachen.
+> 금융계는 동화를 좋아해요. 특히 용이 나오는 동화를.
+KATHARINA: Drittens: Verhandlungen mit den Italienern — aber aus einer Position der Stärke, nicht aus Angst.
+> 셋째, 이탈리아 쪽과 협상한다 — 다만 두려움이 아니라 강한 위치에서.
+SELIN: Und welche Option empfehlen wir?
+> 그럼 우리는 어떤 선택지를 권하나요?
+KATHARINA: Das ist die richtige Frage. Was meinen Sie, Frau Aydın?
+> 그게 바로 맞는 질문이에요. 아이든 씨 생각은 어때요?
+SELIN: Ich … ich glaube, wir können heute noch nichts empfehlen. Wir haben nur öffentliche Daten. Wir sollten sagen: Wir prüfen alle drei Optionen in vier Wochen, und dann empfehlen wir.
+> 저는… 오늘은 아직 아무것도 권할 수 없다고 생각해요. 공개 데이터밖에 없으니까요. 이렇게 말해야 할 것 같아요. 4주 안에 세 가지를 모두 검토하고, 그다음에 권고하겠다고.
+TOBIAS: Mutig. Ein Pitch ohne Empfehlung.
+> 대담하네요. 권고 없는 피치라니.
+KATHARINA: Nicht ohne Empfehlung. Mit einer klaren Empfehlung für den Weg. Der Vorstand soll sehen: Wir verkaufen ihm keine fertige Antwort. Wir finden die richtige.
+> 권고가 없는 게 아니야. 길에 대한 분명한 권고가 있는 거지. 이사회가 알아야 해요. 우리는 정해진 답을 파는 게 아니라, 맞는 답을 찾는다는 걸.
+TOBIAS: Lorenz wird das nicht gefallen. Er will die Fusion auf Folie zwei.
+> 로렌츠는 마음에 안 들어 할 거야. 합병을 2번 슬라이드에 넣고 싶어 하니까.
+KATHARINA: Lorenz bekommt seine Fusion. Auf Folie zwölf, als Option drei. Mit allen Zahlen.
+> 로렌츠도 합병을 갖게 될 거야. 12번 슬라이드에, 세 번째 선택지로. 모든 숫자와 함께.
+SELIN: Und wenn der Vorstand lieber eine schnelle Antwort will?
+> 그런데 이사회가 빠른 답을 원하면요?
+KATHARINA: Dann verlieren wir das Mandat vielleicht. Aber dann verlieren wir es ehrlich.
+> 그럼 수임을 못 할 수도 있겠죠. 하지만 그렇다면 정직하게 지는 거예요.
+
+## 마무리 — MITTWOCH, NEUN UHR
+LORENZ: Folie zwölf, Katharina? Ich habe die Präsentation gesehen. Interessant.
+> 12번 슬라이드라고, 카타리나? 발표 자료 봤어. 흥미롭더군.
+KATHARINA: Alle Optionen, Jan-Hendrik. Wie versprochen.
+> 모든 선택지예요, 얀헨드릭. 약속한 대로.
+LORENZ: Wir werden sehen, was Hartmann dazu sagt.
+> 하르트만이 뭐라고 할지 보자고.
+BIRGIT: Frau Dr. Brandt, Dr. Hartmann und der Vorstand sind da. Konferenzraum drei.
+> 브란트 박사님, 하르트만 박사님과 이사회 분들 도착하셨어요. 3번 회의실이에요.
+TOBIAS: Nervös?
+> 긴장돼요?
+SELIN: Sehr. Ist das normal?
+> 많이요. 이거 정상이에요?
+KATHARINA: Völlig normal. Ich mache diesen Beruf seit zwölf Jahren und bin immer noch nervös. Das ist gut. Dann ist man wach.
+> 완전히 정상이에요. 저도 이 일을 12년째 하는데 아직도 긴장해요. 그게 좋은 거예요. 그래야 정신이 깨어 있거든요.
+TOBIAS: Frau Aydın — übrigens: Unter uns im Team können wir uns gern duzen. Ich bin Tobias.
+> 아이든 씨, 그런데요. 우리 팀끼리는 편하게 말 놓아도 돼요. 저는 토비아스예요.
+SELIN: Selin. Danke, Tobias.
+> 셀린이에요. 고마워요, 토비아스.
+KATHARINA: Und ich bleibe für heute noch Frau Dr. Brandt. Erst gewinnen wir.
+> 그리고 나는 오늘은 아직 브란트 박사로 남을게요. 일단 이기고 나서.
+SELIN: Verstanden. Erst gewinnen.
+> 알겠습니다. 일단 이기고 나서.
+KATHARINA: Gut. Dann los. — Guten Morgen, meine Damen und Herren. Darf ich mich kurz vorstellen? Katharina Brandt, Hellweg & Cie. Und das ist mein Team.
+> 좋아요. 그럼 가죠. — 안녕하십니까, 신사 숙녀 여러분. 잠깐 제 소개를 드려도 될까요? Hellweg & Cie.의 카타리나 브란트입니다. 그리고 이쪽이 제 팀입니다.
