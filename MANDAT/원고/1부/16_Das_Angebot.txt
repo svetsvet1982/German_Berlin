@@ -10,7 +10,7 @@ cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트 (35)
 cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
 cast: KONRAD | Konrad Ebersbach · Ebersbach AG 3세 오너, 감사회 의장 (74)
 cast: CLARA | Clara Ebersbach · Konrad의 딸, 감사회 위원 (41)
-cast: PHILIPP | Philipp Ebersbach · Konrad의 아들, 런던 거주 (38)
+cast: PHILIPP | Philipp Ebersbach · Konrad의 아들, 런던 거주 (48)
 cast: SANDER | Dr. Ulrich Sander · Hellweg & Cie. 대표 파트너(Managing Partner) (가상)
 note: ※ 독일 주식회사(AG)의 이사(Vorstand)는 주주총회가 아니라 감사회(Aufsichtsrat)가 선임하며, 임기는 최대 5년입니다(주식법 84조). 그래서 오너가 원해도 감사회의 표결이 필요합니다. 사모펀드의 차입매수(Leveraged Buy-out)는 인수 대금의 상당 부분을 대출로 마련한 뒤 그 빚을 인수한 회사에 떠넘기는 방식이 많아, 인수 후 비용 절감, 사업 매각, 공장 통합이 뒤따르기도 합니다. 가족기업은 투자 재원을 마련하기 위해 몇 년간 배당(Dividende)을 중단하기도 하며, 가족 헌장에 지분 매각 시 가족이 우선 매입하는 조항을 두어 외부 매각을 막기도 합니다. 독일에서 직원이 회사를 그만두는 것은 'kündigen(해지 통보하다)'이라고 하며, 회사가 해지 기간 동안 출근 의무를 면제하는 것을 'Freistellung'이라고 합니다. 'Ich bin dabei'는 '나도 함께할게, 끼겠다'는 뜻의 구어 표현입니다. 회사·투자사·인물은 모두 가상입니다. 표현 초점: das Angebot, die Verantwortung, kündigen, der Vorstand, Ich bin dabei.
 next: 2부 1화 — «Die neue Chefin»(새 사장) — 하나우 본사 이사회 회의실. 조언하던 사람이 결정하는 사람이 되는 첫날. 기존 이사들은 '컨설턴트 출신'을 의심하고, Clara는 약속대로 냉랭하다. 저녁에 Tobias가 숫자를 내민다. "3개월 뒤에 현금이 바닥나."
@@ -224,8 +224,8 @@ KATHARINA: Das hoffe ich, Frau Ebersbach. Ein Aufsichtsrat, der nett ist, schlä
 > 그러시길 바랍니다, 클라라 씨. 친절한 감사회는 잠든 감사회니까요.
 PHILIPP: Und ich? Fragt mich auch jemand?
 > 그럼 나는요? 나한테도 누가 물어봐요?
-KONRAD: Du hast Artikel neun, Philipp. Wenn du gehen willst, kannst du gehen. Zu einem fairen Preis. Aber nicht mit Corvalis.
-> 넌 9조가 있잖니, 필립. 떠나고 싶으면 떠나도 된다. 공정한 가격으로. 하지만 코르발리스와는 안 돼.
+KONRAD: Du hast Artikel neun, Philipp. Wenn du gehen willst, kannst du gehen. Mit einer fairen Abfindung. Aber nicht mit Corvalis.
+> 넌 9조가 있잖니, 필립. 떠나고 싶으면 떠나도 된다. 공정한 보상금을 받고. 하지만 코르발리스와는 안 돼.
 PHILIPP: … Ich denke darüber nach. Drei Jahre ohne Dividende überlebe ich vielleicht. Mit einem kleineren Wohnzimmer.
 > …생각해 볼게요. 3년간 배당 없이도 어쩌면 버틸 수 있겠죠. 거실을 좀 줄이면.
 KONRAD: Also, Frau Dr. Brandt?

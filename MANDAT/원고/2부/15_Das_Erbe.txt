@@ -9,13 +9,13 @@ cast: KATHARINA | Dr. Katharina Brandt · CEO (39)
 cast: TOBIAS | Tobias Wendt · CFO (35)
 cast: SELIN | Selin Aydın · 전환사무국장 (27)
 cast: CLARA | Clara Ebersbach · Konrad의 딸, 감사회 위원, 14세 아들 Felix의 어머니 (41)
-cast: MARTIN | Martin Ebersbach · Konrad의 아들, 취리히 거주 건축가 (47)
-cast: LEONIE | Leonie Ebersbach · Martin의 딸, 손녀 (24)
-cast: MORITZ | Moritz Ebersbach · Martin의 아들, 손자 (22)
+cast: PHILIPP | Philipp Ebersbach · Konrad의 아들, 런던 거주 투자은행원 (49)
+cast: LEONIE | Leonie Ebersbach · Philipp의 딸, 손녀 (24)
+cast: MORITZ | Moritz Ebersbach · Philipp의 아들, 손자 (22)
 cast: ALBERS | Dr. Ferdinand Albers · 공증인, 유언집행자(Testamentsvollstrecker) (가상) (66)
 cast: MONIKA | Monika Schäfer · 이사회 비서실장
 cast: KRÖGER | Matthias Kröger · 슈판다우 노동자평의회 의장 (52)
-cast: KRULL | Sebastian Krull · 사모펀드 Aldmoor Capital 파트너 (가상)
+cast: KRULL | Sebastian Krull · 사모펀드 Corvalis Capital 파트너 (가상)
 note: ※ 독일 상속세(Erbschaftsteuer)는 상속인마다 따로 계산하며, 손주(Enkel)는 부모가 살아 있으면 20만 유로까지 공제되고 고액 상속분에는 최고 30퍼센트 세율이 적용됩니다. 가업 승계를 돕기 위해 사업용 자산은 크게 감면되는데, 상속인 1인당 2,600만 유로가 넘는 대규모 취득은 감면이 단계적으로 줄어들고, 9,000만 유로를 넘으면 상속인이 개인 재산의 절반으로 낼 수 없는 만큼만 면제받는 '감면 필요성 심사(Verschonungsbedarfsprüfung)'를 신청해야 합니다. 이 경우 7년 안에 지분을 팔거나 고용(급여 총액) 조건을 지키지 못하면 면제가 취소됩니다. 부모 세대를 건너뛰고 손주에게 직접 물려주면 상속세를 한 세대 덜 내게 되어 가업에서 자주 쓰는 방식입니다. 한편 자녀는 유언에서 제외되어도 법정 상속분의 절반을 금전으로 청구할 수 있는 '유류분(Pflichtteil)'이 있고, 미리 포기 계약을 맺을 수도 있습니다. 미성년자 지분을 처분하려면 가정법원의 허가가 필요합니다. 상속 지분을 노리는 재무적 투자자(Finanzinvestor), 즉 사모펀드의 등장도 미텔슈탄트 승계의 흔한 장면입니다. 인물과 펀드는 가상입니다. 표현 초점: das Erbe, die Erbschaftsteuer, das Testament, der Finanzinvestor, Er hätte das nicht gewollt. — Er ist nicht mehr da, um zu wollen.
 next: 2부 16화 — «Der Verkauf»(매각) — 프랑크푸르트 로펌 회의실. 매각을 막을 수 없다면 조건을 만든다. Katharina와 Tobias는 슈판다우 공장 5년 존속과 고용 보장을 계약에 넣고 사임한다. 공장 정문에서 Kröger가 처음으로 손을 내밀고, 돌아오는 ICE에서 Selin이 묻는다.
 
@@ -50,14 +50,14 @@ ALBERS: Guten Morgen. Ferdinand Albers. Ich war vierzig Jahre lang Konrads Notar
 > 좋은 아침입니다. 페르디난트 알버스입니다. 40년 동안 콘라트의 공증인이었고, 그의 유언집행자입니다. 수요일에 상속법원이 유언장을 개봉했습니다. 핵심 부분을 읽어 드리겠습니다.
 ALBERS: «Meine Aktien an der Ebersbach Antriebstechnik AG — sechzig Prozent des Grundkapitals — vermache ich zu gleichen Teilen meinen drei Enkelkindern: Leonie, Moritz und Felix.»
 > «에버스바흐 안트립스테크닉 AG 주식, 자본금의 60퍼센트를 세 손주 레오니, 모리츠, 펠릭스에게 똑같이 나누어 준다.»
-ALBERS: «Meine Tochter Clara erhält das Haus in Wilhelmsbad. Mein Sohn Martin hat vor zehn Jahren auf seinen Pflichtteil verzichtet und dafür eine Abfindung erhalten.»
-> «내 딸 클라라는 빌헬름스바트의 집을 받는다. 내 아들 마르틴은 10년 전에 유류분을 포기하고 그 대가로 보상금을 받았다.»
+ALBERS: «Meine Tochter Clara erhält das Haus in Wilhelmsbad. Mein Sohn Philipp hat im vergangenen Jahr nach Artikel neun unserer Familienverfassung auf seinen Pflichtteil verzichtet und dafür eine Abfindung erhalten.»
+> «내 딸 클라라는 빌헬름스바트의 집을 받는다. 내 아들 필립은 작년에 우리 가족헌장 제9조에 따라 유류분을 포기하고 그 대가로 보상금을 받았다.»
 CLARA: … Die Enkel. Nicht ich.
 > …손주들. 내가 아니라.
-MARTIN: Das überrascht dich? Papa hat immer gesagt, du bist zu sehr wie er. Zwei Ebersbachs, die die Firma führen wollen, sind einer zu viel.
+PHILIPP: Das überrascht dich? Papa hat immer gesagt, du bist zu sehr wie er. Zwei Ebersbachs, die die Firma führen wollen, sind einer zu viel.
 > 그게 놀라워? 아버지는 늘 네가 너무 자기를 닮았다고 하셨잖아. 회사를 이끌고 싶은 에버스바흐가 둘이면 하나가 넘친다고.
-CLARA: Du hast vierzehn Jahre lang keinen Fuß in diese Firma gesetzt, Martin. Du baust Museen in Zürich.
-> 오빠는 14년 동안 이 회사에 발도 안 들여놨잖아, 마르틴. 취리히에서 박물관이나 짓고.
+CLARA: Du hast seit Jahren keinen Fuß mehr ins Werk gesetzt, Philipp. Du sitzt in London und liest Bilanzen.
+> 오빠는 몇 년째 공장에 발도 안 들여놨잖아, 필립. 런던에 앉아서 재무제표나 읽고.
 ALBERS: Bitte. Es gibt einen Grund für diese Regelung, und Konrad hat ihn mir erklärt. Wenn die Aktien direkt an die Enkel gehen, wird die Erbschaftsteuer nur einmal fällig statt zweimal — einmal heute und einmal, wenn Ihre Generation sie weitergibt.
 > 잠시만요. 이렇게 정한 데는 이유가 있고, 콘라트가 제게 설명했습니다. 주식이 손주들에게 바로 가면 상속세를 두 번이 아니라 한 번만 내게 됩니다. 오늘 한 번, 그리고 여러분 세대가 물려줄 때 또 한 번이 아니라요.
 TOBIAS: Ein Generationensprung. Das ist in Familienunternehmen nicht ungewöhnlich.
@@ -98,9 +98,9 @@ TOBIAS: Das heißt, ohne Clara und ohne einen Richter kann niemand Felix' zwanzi
 > 그러니까 클라라와 판사 없이는 아무도 펠릭스의 20퍼센트를 팔 수 없다는 거군요.
 ALBERS: Und noch etwas. Clara hat nie auf ihren Pflichtteil verzichtet. Sie hätte das Recht, ein Viertel des Nachlasswerts in Geld von den Erben zu verlangen.
 > 그리고 하나 더 있습니다. 클라라는 유류분을 포기한 적이 없어요. 상속인들에게 상속 재산 가치의 4분의 1을 금전으로 청구할 권리가 있습니다.
-MARTIN: Ein Viertel. Über hundertsechzig Millionen. Das könnten meine Kinder nie zahlen, ohne zu verkaufen.
+PHILIPP: Ein Viertel. Über hundertsechzig Millionen. Das könnten meine Kinder nie zahlen, ohne zu verkaufen.
 > 4분의 1. 1억 6,000만이 넘어. 우리 애들은 주식을 팔지 않고는 절대 못 내.
-CLARA: Ich weiß, Martin.
+CLARA: Ich weiß, Philipp.
 > 알아, 오빠.
 SELIN: Darf ich fragen, was jetzt mit dem Aufsichtsrat passiert? Herr Ebersbach war der Vorsitzende.
 > 그럼 감사회는 이제 어떻게 되는지 여쭤봐도 될까요? 에버스바흐 회장님이 의장이셨잖아요.
@@ -108,17 +108,17 @@ ALBERS: Der Aufsichtsrat wählt einen neuen Vorsitzenden aus seiner Mitte. Nach 
 > 감사회가 위원 중에서 새 의장을 뽑습니다. 공동결정법상 3분의 2 찬성이 필요하고, 안 되면 주주 측 위원들끼리 선출합니다.
 TOBIAS: Die Sitzung ist nächste Woche. Und die Anteilseignervertreter haben Clara vorgeschlagen.
 > 회의가 다음 주예요. 그리고 주주 측 위원들이 클라라를 추천했어요.
-MARTIN: Natürlich. Clara bekommt den Vorsitz, meine Kinder die Steuer.
+PHILIPP: Natürlich. Clara bekommt den Vorsitz, meine Kinder die Steuer.
 > 그렇겠지. 클라라는 의장 자리를 받고, 우리 애들은 세금을 받고.
-CLARA: Ich habe mich nicht beworben, Martin. Die Kollegen haben mich gefragt. Nach der Hauptversammlung.
+CLARA: Ich habe mich nicht beworben, Philipp. Die Kollegen haben mich gefragt. Nach der Hauptversammlung.
 > 내가 지원한 거 아니야, 오빠. 동료 위원들이 부탁했어. 주주총회가 끝난 뒤에.
 
 ## 갈등 — DER UMSCHLAG
-MONIKA: Entschuldigung. Ein Bote hat das gerade abgegeben. Ein Umschlag für die Erben. Absender: Aldmoor Capital, London.
-> 실례합니다. 방금 배달원이 이걸 두고 갔어요. 상속인분들 앞으로 온 봉투예요. 발신인은 Aldmoor Capital, 런던.
+MONIKA: Entschuldigung. Ein Bote hat das gerade abgegeben. Ein Umschlag für die Erben. Absender: Corvalis Capital, London.
+> 실례합니다. 방금 배달원이 이걸 두고 갔어요. 상속인분들 앞으로 온 봉투예요. 발신인은 Corvalis Capital, 런던.
 CLARA: Vier Tage nach seinem Tod. Sie haben nicht einmal bis zur Beerdigung gewartet.
 > 돌아가신 지 나흘 만이라. 장례식까지도 안 기다렸네.
-MARTIN: Lies vor.
+PHILIPP: Lies vor.
 > 읽어 봐.
 CLARA: «Mit tiefem Mitgefühl … in Würdigung des Lebenswerks von Konrad Ebersbach … bereit, den Erben für ihre Aktien einen Preis von vierzig Euro je Aktie zu zahlen.» Kondolenz und Kaufangebot in einem Brief.
 > «깊은 애도와 함께… 콘라트 에버스바흐의 평생의 업적을 기리며… 상속인들의 주식에 대해 주당 40유로를 지불할 용의가 있음.» 조의와 매수 제안이 편지 한 장에.
@@ -136,30 +136,30 @@ MORITZ: Ich weiß, Leonie. Entschuldige. Ich habe nur noch nie eine Zahl mit so 
 > 알아, 누나. 미안. 그냥 0이 그렇게 많이 붙은 숫자를 들어 본 적이 없어서.
 KATHARINA: Das geht jedem beim ersten Mal so. Lassen Sie sich Zeit.
 > 처음엔 누구나 그래요. 천천히 생각하세요.
-MARTIN: Zeit ist genau das, was Aldmoor uns nicht gibt. Lies den letzten Absatz, Clara.
-> 시간이야말로 올드무어가 우리한테 주지 않는 거죠. 마지막 문단 읽어 봐, 클라라.
+PHILIPP: Zeit ist genau das, was Corvalis uns nicht gibt. Lies den letzten Absatz, Clara.
+> 시간이야말로 코르발리스가 우리한테 주지 않는 거죠. 마지막 문단 읽어 봐, 클라라.
 CLARA: «Dieses Angebot gilt bis zum dreißigsten Oktober.» Sechs Wochen.
 > «본 제안은 10월 30일까지 유효함.» 6주.
-MARTIN: Ich will ehrlich sein. Meine Kinder haben mit diesem Unternehmen nichts zu tun. Sie leben in Zürich. Sie haben Hanau dreimal in ihrem Leben gesehen. Sieben Jahre lang Aktien halten, die sie nicht verkaufen dürfen, für eine Firma, die sie nicht kennen?
-> 솔직히 말할게. 우리 애들은 이 회사랑 아무 상관이 없어. 취리히에 살고, 평생 하나우를 세 번 봤어. 알지도 못하는 회사의, 팔지도 못하는 주식을 7년이나 들고 있으라고?
+PHILIPP: Ich will ehrlich sein. Meine Kinder haben mit diesem Unternehmen nichts zu tun. Sie sind in London aufgewachsen. Sie haben Hanau dreimal in ihrem Leben gesehen. Sieben Jahre lang Aktien halten, die sie nicht verkaufen dürfen, für eine Firma, die sie nicht kennen?
+> 솔직히 말할게. 우리 애들은 이 회사랑 아무 상관이 없어. 런던에서 자랐고, 평생 하나우를 세 번 봤어. 알지도 못하는 회사의, 팔지도 못하는 주식을 7년이나 들고 있으라고?
 CLARA: Es ist die Firma ihres Großvaters.
 > 할아버지 회사잖아.
-MARTIN: Es war die Firma ihres Großvaters. Clara, er ist tot.
+PHILIPP: Es war die Firma ihres Großvaters. Clara, er ist tot.
 > 할아버지 회사였지. 클라라, 아버지는 돌아가셨어.
 CLARA: Er hätte das nicht gewollt.
 > 아버지는 그걸 원하지 않으셨을 거야.
-MARTIN: Er ist nicht mehr da, um zu wollen.
+PHILIPP: Er ist nicht mehr da, um zu wollen.
 > 아버지는 이제 원하실 수도 없어. 안 계시니까.
 CLARA: Wie kannst du so etwas sagen? Hier, in seinem Arbeitszimmer?
 > 어떻게 그런 말을 해? 여기, 아버지 서재에서?
-MARTIN: Weil es wahr ist. Er hat dir das Haus gegeben und meinen Kindern die Firma. Vielleicht wollte er genau das: dass jemand anderes entscheidet als du.
+PHILIPP: Weil es wahr ist. Er hat dir das Haus gegeben und meinen Kindern die Firma. Vielleicht wollte er genau das: dass jemand anderes entscheidet als du.
 > 사실이니까. 아버지는 너한테 집을 주고 우리 애들한테 회사를 줬어. 어쩌면 바로 그걸 원하셨는지도 모르지. 네가 아닌 다른 누군가가 결정하길.
 KATHARINA: Darf ich etwas sagen? Ich weiß, dass ich hier nicht zur Familie gehöre.
 > 한마디 해도 될까요? 제가 가족이 아니라는 건 압니다.
-MARTIN: Das stimmt, Frau Brandt. Sie sind eine Angestellte. Eine gut bezahlte, aber eine Angestellte.
+PHILIPP: Das stimmt, Frau Brandt. Sie sind eine Angestellte. Eine gut bezahlte, aber eine Angestellte.
 > 맞아요, 브란트 씨. 당신은 직원이에요. 보수를 잘 받는, 하지만 직원.
-KATHARINA: Genau deshalb will ich etwas sagen, das nicht im Brief steht. Aldmoor zahlt vierzig Euro, weil sie glauben, dass sie dieses Unternehmen in fünf Jahren für siebzig verkaufen können. Wissen Sie, wie man aus vierzig siebzig macht?
-> 바로 그래서 이 편지에 없는 얘기를 하나 하려는 거예요. 올드무어가 40유로를 내는 건 5년 뒤에 이 회사를 70유로에 팔 수 있다고 믿기 때문이에요. 40을 70으로 만드는 방법이 뭔지 아세요?
+KATHARINA: Genau deshalb will ich etwas sagen, das nicht im Brief steht. Corvalis zahlt vierzig Euro, weil sie glauben, dass sie dieses Unternehmen in fünf Jahren für siebzig verkaufen können. Wissen Sie, wie man aus vierzig siebzig macht?
+> 바로 그래서 이 편지에 없는 얘기를 하나 하려는 거예요. 코르발리스가 40유로를 내는 건 5년 뒤에 이 회사를 70유로에 팔 수 있다고 믿기 때문이에요. 40을 70으로 만드는 방법이 뭔지 아세요?
 MORITZ: Durch … Wachstum?
 > 성장으로…?
 TOBIAS: Selten. Meistens durch Schulden, die das Unternehmen selbst aufnehmen muss, um den Kaufpreis zu bezahlen, und durch Kosten, die man senkt. Personal, Standorte, Forschung.
@@ -168,30 +168,30 @@ LEONIE: Spandau?
 > 슈판다우요?
 KATHARINA: Spandau wäre der erste Standort, den ein Finanzinvestor sich ansieht. Teurer als Hanau, älter, mit einem starken Betriebsrat.
 > 재무적 투자자가 제일 먼저 들여다볼 사업장이 슈판다우일 거예요. 하나우보다 비싸고, 오래됐고, 노동자평의회가 강하니까요.
-MARTIN: Das ist Ihre Spekulation, Frau Brandt. Und vielleicht auch Ihre Angst um Ihren Posten.
+PHILIPP: Das ist Ihre Spekulation, Frau Brandt. Und vielleicht auch Ihre Angst um Ihren Posten.
 > 그건 당신 추측이죠, 브란트 씨. 어쩌면 자리를 잃을까 봐 하는 걱정이기도 하고.
-KATHARINA: Um meinen Posten? Herr Ebersbach, wenn Aldmoor kommt, bin ich ohnehin nicht mehr lange da. Deshalb kann ich es mir leisten, ehrlich zu sein.
-> 제 자리요? 에버스바흐 씨, 올드무어가 들어오면 저는 어차피 오래 못 있어요. 그래서 솔직해질 여유가 있는 거죠.
+KATHARINA: Um meinen Posten? Herr Ebersbach, wenn Corvalis kommt, bin ich ohnehin nicht mehr lange da. Deshalb kann ich es mir leisten, ehrlich zu sein.
+> 제 자리요? 에버스바흐 씨, 코르발리스가 들어오면 저는 어차피 오래 못 있어요. 그래서 솔직해질 여유가 있는 거죠.
 LEONIE: Papa, sie hat recht, oder? Wenn wir verkaufen, verkaufen wir nicht nur Aktien.
 > 아빠, 저분 말이 맞죠? 우리가 팔면 주식만 파는 게 아니잖아요.
-MARTIN: Leonie, du wolltest letzte Woche noch Geld für dein Klimaprojekt in Kenia. Jetzt hast du es.
+PHILIPP: Leonie, du wolltest letzte Woche noch Geld für dein Klimaprojekt in Kenia. Jetzt hast du es.
 > 레오니, 너 지난주만 해도 케냐 기후 프로젝트에 쓸 돈이 필요하다고 했잖아. 이제 생긴 거야.
 LEONIE: Ich wollte Geld. Ich wollte nicht, dass jemand in Spandau dafür seine Arbeit verliert.
 > 돈은 원했죠. 하지만 그 돈 때문에 슈판다우의 누군가가 일자리를 잃는 건 원하지 않았어요.
 CLARA: Ich sage euch jetzt etwas, und ich sage es nur einmal. Ich werde meinen Pflichtteil nicht geltend machen. Ich will nicht diejenige sein, die euch zum Verkauf zwingt.
 > 이제 내가 한마디 할게. 딱 한 번만. 나는 유류분을 청구하지 않을 거야. 너희를 억지로 팔게 만드는 사람이 되고 싶지 않아.
-MARTIN: … Das ist großzügig, Clara.
+PHILIPP: … Das ist großzügig, Clara.
 > …통이 크구나, 클라라.
 CLARA: Das ist nicht großzügig. Das ist das Einzige, was ich noch für ihn tun kann.
 > 통이 큰 게 아니야. 아버지를 위해 내가 할 수 있는 유일한 일이야.
 
 ## 해결·설득 — DER BRIEF IN DER SCHUBLADE
-ALBERS: Bevor Sie weiterstreiten — Konrad hat mir noch etwas gegeben. Fünf Briefe. Einen für jedes Enkelkind, einen für Clara und einen für Martin. Er hat gesagt, ich soll sie erst öffnen lassen, wenn der erste Kaufpreis auf dem Tisch liegt.
-> 더 다투시기 전에, 콘라트가 제게 맡긴 게 있습니다. 편지 다섯 통. 손주마다 한 통씩, 클라라에게 한 통, 마르틴에게 한 통. 첫 매수 가격이 테이블에 오르면 그때 열게 하라고 했죠.
-MARTIN: Er hat es vorausgesehen.
+ALBERS: Bevor Sie weiterstreiten — Konrad hat mir noch etwas gegeben. Fünf Briefe. Einen für jedes Enkelkind, einen für Clara und einen für Philipp. Er hat gesagt, ich soll sie erst öffnen lassen, wenn der erste Kaufpreis auf dem Tisch liegt.
+> 더 다투시기 전에, 콘라트가 제게 맡긴 게 있습니다. 편지 다섯 통. 손주마다 한 통씩, 클라라에게 한 통, 필립에게 한 통. 첫 매수 가격이 테이블에 오르면 그때 열게 하라고 했죠.
+PHILIPP: Er hat es vorausgesehen.
 > 아버지는 이걸 내다보셨군.
-ALBERS: Er kannte Aldmoor. — Leonie, Ihrer.
-> Aldmoor를 알았으니까요. — 레오니, 당신 편지예요.
+ALBERS: Er kannte Corvalis. — Leonie, Ihrer.
+> Corvalis를 알았으니까요. — 레오니, 당신 편지예요.
 LEONIE: «Liebe Leonie. Wenn du das liest, hat jemand Geld geboten. Wahrscheinlich viel. Du darfst verkaufen. Es ist jetzt dein Erbe, nicht meines.»
 > «사랑하는 레오니. 네가 이걸 읽고 있다면 누군가 돈을 제시했겠지. 아마 큰돈을. 팔아도 된다. 이제 그건 내 것이 아니라 너의 유산이니까.»
 LEONIE: «Aber verkauf die Leute nicht mit. Ein Käufer, der die Aktien will, aber nicht die Menschen, die sie wert machen, ist kein Käufer, sondern ein Abrissunternehmer. Dein Opa.»
@@ -202,19 +202,19 @@ MORITZ: In meinem steht fast dasselbe. Und noch ein Satz: «Frag Frau Brandt, be
 > 제 편지에도 거의 똑같이 쓰여 있어요. 그리고 한 문장 더요. «서명하기 전에 브란트 박사에게 물어봐라. 듣고 싶지 않은 말을 해 줄 거다.»
 CLARA: Und in meinem steht: «Clara. Ich habe dir die Firma nicht gegeben, weil du sie nicht brauchst, um eine Ebersbach zu sein. Du brauchst nur einen Grund, für sie zu kämpfen. Jetzt hast du drei: Leonie, Moritz und Felix.»
 > 그리고 내 편지엔 이렇게 쓰여 있어. «클라라. 너한테 회사를 주지 않은 건, 에버스바흐가 되는 데 회사가 필요하지 않기 때문이다. 네게 필요한 건 회사를 위해 싸울 이유뿐이다. 이제 넌 이유가 셋이다. 레오니, 모리츠, 펠릭스.»
-MARTIN: … Und meiner?
+PHILIPP: … Und meiner?
 > …그럼 내 건?
 ALBERS: Ihrer ist der dünnste. Ein einziger Satz.
-> 마르틴 씨 것이 제일 얇습니다. 딱 한 문장이에요.
-MARTIN: «Martin, du hattest immer recht, dass du nicht hierher gehörst. Hilf deinen Kindern, trotzdem richtig zu entscheiden.»
-> «마르틴, 네가 여기 어울리지 않는다는 네 말은 늘 옳았다. 그래도 네 아이들이 올바르게 결정하도록 도와주어라.»
+> 필립 씨 것이 제일 얇습니다. 딱 한 문장이에요.
+PHILIPP: «Philipp, du hattest immer recht, dass du nicht hierher gehörst. Hilf deinen Kindern, trotzdem richtig zu entscheiden.»
+> «필립, 네가 여기 어울리지 않는다는 네 말은 늘 옳았다. 그래도 네 아이들이 올바르게 결정하도록 도와주어라.»
 LEONIE: Papa?
 > 아빠?
-MARTIN: Schon gut. Er hat mir in einem Satz mehr gesagt als in vierzig Jahren.
+PHILIPP: Schon gut. Er hat mir in einem Satz mehr gesagt als in vierzig Jahren.
 > 괜찮아. 아버지가 40년 동안 하신 말보다 이 한 문장이 더 많은 걸 말해 주네.
 KATHARINA: … Dann sage ich Ihnen jetzt etwas, das Sie nicht hören wollen. Ich glaube nicht, dass Sie diesen Verkauf verhindern können. Und ich glaube nicht, dass Sie ihn verhindern sollten, nur weil wir hier traurig sind.
 > …그럼 지금 듣고 싶지 않으실 말을 하겠습니다. 저는 여러분이 이 매각을 막을 수 있다고 생각하지 않아요. 그리고 우리가 지금 슬프다는 이유만으로 막아야 한다고도 생각하지 않고요.
-MARTIN: Das überrascht mich, Frau Brandt.
+PHILIPP: Das überrascht mich, Frau Brandt.
 > 의외네요, 브란트 씨.
 KATHARINA: Ihre Kinder sind vierundzwanzig und zweiundzwanzig. Sie leben ihr eigenes Leben. Sieben Jahre lang Aktien zu halten, die man nicht will, ist kein Erbe, sondern eine Last.
 > 자녀분들은 스물넷, 스물둘이에요. 자기 삶을 살고 있죠. 원하지도 않는 주식을 7년 동안 들고 있는 건 유산이 아니라 짐이에요.
@@ -222,22 +222,22 @@ KATHARINA: Aber wenn Sie verkaufen, dann nicht in vier Tagen an den, der den ers
 > 하지만 파신다면, 첫 편지를 보낸 사람에게 나흘 만에 파는 게 아니라, 여러 입찰자가 참여하는 질서 있는 절차를 거쳐서 파셔야 해요. 그리고 조건을 달아서요.
 TOBIAS: Ein Bieterverfahren dauert drei Monate. Wenn mehrere Interessenten mitbieten, steigt der Preis meistens. Ich kenne mindestens zwei langfristige Investoren, die sich für uns interessieren, seit wir den Verteidigungsauftrag haben.
 > 입찰 절차는 3개월 걸립니다. 여러 후보가 참여하면 보통 가격이 오르죠. 국방 수주를 따낸 뒤로 우리에게 관심을 보인 장기 투자자를 적어도 두 곳은 알아요.
-MARTIN: Und die Bedingungen?
+PHILIPP: Und die Bedingungen?
 > 그럼 조건은요?
 KATHARINA: Eine Standortgarantie für Spandau. Eine Beschäftigungssicherung für beide Werke. Und dass die Lohnsumme gehalten wird — was übrigens auch Ihre Steuer schützt, falls Sie nicht alles verkaufen.
 > 슈판다우 사업장 존속 보장. 두 공장의 고용 보장. 그리고 급여 총액 유지. 그건 참고로, 전부 팔지 않으실 경우엔 여러분의 세금도 지켜 주는 조건이에요.
-CLARA: Und noch etwas: Ohne Felix' zwanzig Prozent bekommt kein Käufer mehr als vierzig Prozent von euch. Für ein Übernahmeangebot mit Kontrolle braucht Aldmoor aber Felix' Aktien. Und die gibt es nur mit meiner Unterschrift und der des Familiengerichts.
-> 그리고 하나 더. 펠릭스의 20퍼센트 없이는 어떤 인수자도 너희한테서 40퍼센트 이상은 못 사. 그런데 지배권을 쥘 공개매수를 하려면 올드무어는 펠릭스 주식이 필요해. 그건 내 서명과 가정법원 허가가 있어야만 가능하고.
-MARTIN: Das heißt, du kannst blockieren.
+CLARA: Und noch etwas: Ohne Felix' zwanzig Prozent bekommt kein Käufer mehr als vierzig Prozent von euch. Für ein Übernahmeangebot mit Kontrolle braucht Corvalis aber Felix' Aktien. Und die gibt es nur mit meiner Unterschrift und der des Familiengerichts.
+> 그리고 하나 더. 펠릭스의 20퍼센트 없이는 어떤 인수자도 너희한테서 40퍼센트 이상은 못 사. 그런데 지배권을 쥘 공개매수를 하려면 코르발리스는 펠릭스 주식이 필요해. 그건 내 서명과 가정법원 허가가 있어야만 가능하고.
+PHILIPP: Das heißt, du kannst blockieren.
 > 그러니까 네가 막을 수 있다는 거군.
-CLARA: Das heißt, ich kann verhandeln. Das ist ein Unterschied, Martin. Papa hat mir das im Juni beigebracht, ohne es zu merken.
+CLARA: Das heißt, ich kann verhandeln. Das ist ein Unterschied, Philipp. Papa hat mir das im Juni beigebracht, ohne es zu merken.
 > 그러니까 내가 협상할 수 있다는 거지. 그건 다른 얘기야, 오빠. 아버지가 6월에 당신도 모르게 가르쳐 주셨어.
 LEONIE: Ich bin dafür. Bieterverfahren, drei Monate, Bedingungen für die Leute. Und Tante Clara verhandelt für uns alle.
 > 저는 찬성이에요. 입찰 절차, 3개월, 사람들을 위한 조건. 그리고 클라라 고모가 우리 모두를 대표해서 협상하는 거예요.
 MORITZ: Ich auch. Ehrlich gesagt verstehe ich nur die Hälfte. Aber ich verstehe den Brief.
 > 저도요. 솔직히 반밖에 못 알아들었어요. 그래도 편지는 이해해요.
-MARTIN: … Drei Monate. Keinen Tag länger. Und wenn am Ende Aldmoor das beste Angebot macht, verkaufen wir an Aldmoor.
-> …3개월. 단 하루도 더는 안 돼. 그리고 결국 올드무어가 제일 좋은 조건을 내면 올드무어에 파는 거야.
+PHILIPP: … Drei Monate. Keinen Tag länger. Und wenn am Ende Corvalis das beste Angebot macht, verkaufen wir an Corvalis.
+> …3개월. 단 하루도 더는 안 돼. 그리고 결국 코르발리스가 제일 좋은 조건을 내면 코르발리스에 파는 거야.
 KATHARINA: Wenn sie die Bedingungen unterschreiben, ja. Dann ist das Ihr gutes Recht.
 > 그쪽이 조건에 서명한다면, 네. 그건 여러분의 정당한 권리예요.
 ALBERS: Dann halte ich fest: Die Erben beauftragen den Vorstand und Frau Ebersbach, ein geordnetes Verfahren vorzubereiten. Konrad wäre — nun ja. Er wäre zufrieden gewesen. Und hätte trotzdem etwas auszusetzen gehabt.
@@ -254,8 +254,8 @@ SELIN: Frau Möller ist auch da. Mit ihrem Enkel Jonas. Er trägt die Arbeitsjac
 > 묄러 할머니도 오셨어. 손자 요나스랑. 요나스는 에버스바흐 작업복을 입고 있어.
 TOBIAS: Und am Tor steht ein Mann in einem sehr teuren Mantel, den niemand eingeladen hat.
 > 그리고 정문에 아무도 초대하지 않은 아주 비싼 코트를 입은 남자가 서 있어.
-KRULL: Frau Dr. Brandt. Sebastian Krull, Aldmoor Capital. Mein aufrichtiges Beileid. Ich wollte nur meine Karte dalassen. Für die Zeit danach.
-> 브란트 박사님. Aldmoor Capital의 제바스티안 크룰입니다. 진심으로 애도를 표합니다. 명함만 두고 가려고요. 그 이후를 위해서.
+KRULL: Frau Dr. Brandt. Sebastian Krull, Corvalis Capital. Mein aufrichtiges Beileid. Ich wollte nur meine Karte dalassen. Für die Zeit danach.
+> 브란트 박사님. Corvalis Capital의 제바스티안 크룰입니다. 진심으로 애도를 표합니다. 명함만 두고 가려고요. 그 이후를 위해서.
 KATHARINA: Herr Krull, das hier ist eine Beerdigung. Die Zeit danach beginnt morgen. Und sie beginnt mit einem Bieterverfahren.
 > 크룰 씨, 여긴 장례식장이에요. '그 이후'는 내일부터 시작돼요. 그리고 입찰 절차로 시작하죠.
 KRULL: Dann sehen wir uns im Verfahren. Ich verliere selten.

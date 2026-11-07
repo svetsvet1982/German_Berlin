@@ -551,3 +551,10 @@
 4. 숫자·통계·법률은 '가상 기업' 수치로 쓰고, 실제 제도 이름(Kurzarbeit, Mitbestimmung, Schuldenbremse 등)은 정확히 사용.
 5. 4부의 정치적 쟁점은 반드시 찬반 양측 인물이 각자 최선의 논리로 말하게 한다.
 6. 파일 명명: `MANDAT/화별_대본/1부/1부_1화_Erster_Tag_im_Westend.docx`
+
+## 5. 집필 과정에서 확정된 설정 (대본 기준)
+- **Ebersbach 가문**: Konrad(74)가 상장 지분 60%를 개인 명의로 보유. 딸 Clara(41, 아들 Felix 14세), 아들 Philipp(48, 런던 거주 투자은행원, 자녀 Leonie·Moritz). Philipp은 1부 16화 이후 가족헌장 제9조에 따라 보상금을 받고 유류분을 포기 → 2부 15화에서 지분은 세 손주에게 상속.
+- **사모펀드**: Corvalis Capital(런던) — 1부에서 Lorenz와 비밀 자문 계약, 2부 14~16화에서 다시 등장해 Ebersbach를 인수(파트너 Sebastian Krull).
+- **Hellweg & Cie.**: 대표 파트너 Dr. Ulrich Sander. Lorenz는 1부 이후에도 Hellweg에 남았다가 3부 보고서로 퇴진.
+- **4부 가상 정당**: Neue Mitte(주인공 측), 연정 파트너 Ökosoziale Partei·Freie Bürgerpartei, 포퓰리즘 신당 Bewegung Heimat, 이름 없는 거대 경쟁 정당(후보 Reuter).
+- **장면 구분**: 모든 화가 도입 / 분석 / 갈등 / 해결·설득 / 마무리 (12 / 33 / 35 / 28 / 12턴).
