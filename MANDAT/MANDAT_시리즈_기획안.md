@@ -50,7 +50,7 @@
 | **Konrad Ebersbach** (74) | Ebersbach Antriebstechnik AG(하나우 본사·베를린 슈판다우 공장, 직원 4,800명) 3세 오너 | 1 · 2 |
 | **Clara Ebersbach** (41) | Konrad의 딸, 감사회(Aufsichtsrat) 위원. 라이벌에서 동맹으로 | 1 · 2 |
 | **Matthias Kröger** (52) | 슈판다우 공장 노동자평의회 의장(Betriebsratsvorsitzender), IG Metall | 2 (3·4 카메오) |
-| **Dr. Paul Asante** (45) | 전 BaFin 조사관, 포렌식 전문가. 함부르크 출신 가나계 독일인 | 3 · 4 |
+| **Dr. Paul Asante** (45) | 전 관세수사청(Zollfahndung) 수사관, 수출통제·포렌식 전문가. 함부르크 출신 가나계 독일인 | 3 · 4 |
 | **Ute Hennig** (61) | BWA 사무실 매니저, 베를린 토박이. 독설과 커피 담당 | 3 · 4 |
 | **Dr. Henrike Sommer** (49) | 헤센 주 경제장관 → 주총리 후보 → 총리 후보. 가상 정당 **«Neue Mitte»** 소속 | 3(끝) · 4 |
 | **Dr. Wolfgang Reuter** (61) | 가상 거대정당의 경쟁 후보. Lorenz가 그의 자문을 맡는다 | 4 |
@@ -86,7 +86,7 @@
 | 상속세·사모펀드 매각 | 2부 15–16 |
 | 창업 행정·관료주의 | 3부 1 |
 | 베를린 주택난·공공 임대주택 신축 지연 | 3부 2–3 |
-| 핀테크 회계부정(Wirecard 이후)·BaFin·내부고발자 보호법 | 3부 4–5 |
+| 방산·첨단소재 붐, 원자재 중국 의존, 품질시험 조작, 이중용도 수출통제·대러 제재 우회, 내부고발자 보호법 | 3부 4–5 |
 | 축구 50+1 규정·투자자 | 3부 6–7 |
 | 지역난방·지자체 열계획·난방법(GEG) | 3부 8–9 |
 | 요양원 체인·본인부담금·사모펀드 | 3부 10 |
@@ -328,8 +328,8 @@
 
 # 3부 «Die Prüfung» — 감사
 **무대**: 베를린 모아비트(본사) / 프랑크푸르트 작센하우젠(지사) · **난이도**: B2+→C1
-**줄거리**: 세 사람은 경영감사 회사 BWA를 세운다. 전 BaFin 조사관 Paul과 사무실 매니저 Ute가 합류한다. 공공 주택회사, 핀테크, 축구 클럽, 지역 에너지공사, 요양원 체인, 인프라 특별기금 — "약속한 것과 실제 사이의 거리"를 잰다. 마지막 사건에서 옛 멘토 Lorenz가 연루된 정부 컨설팅 계약 비리를 밝히고, 그 보고서를 본 헤센 주 경제장관 Henrike Sommer가 전화를 건다.
-**표현 축**: 감사·법·조사 어휘(Prüfbericht, Feststellung, Hinweisgeber, Vergaberecht), 인터뷰 질문법, 객관적 보고 문체
+**줄거리**: 세 사람은 경영감사 회사 BWA를 세운다. 전 관세수사청 수사관 Paul과 사무실 매니저 Ute가 합류한다. 공공 주택회사, 방산 첨단소재 기업, 축구 클럽, 지역 에너지공사, 요양원 체인, 인프라 특별기금 — "약속한 것과 실제 사이의 거리"를 잰다. 마지막 사건에서 옛 멘토 Lorenz가 연루된 정부 컨설팅 계약 비리를 밝히고, 그 보고서를 본 헤센 주 경제장관 Henrike Sommer가 전화를 건다.
+**표현 축**: 감사·법·조사 어휘(Prüfbericht, Feststellung, Hinweisgeber, Ausfuhrkontrolle, Vergaberecht), 인터뷰 질문법, 객관적 보고 문체
 
 #### 1화 «Ein Schild an der Tür» — 문 앞의 간판
 - **장소**: 베를린 공증사무소 → 구청 영업신고 창구 → 빈 사무실
@@ -350,16 +350,18 @@
 - **표현**: die Feststellung, der Prüfbericht, die Empfehlung, die Zuständigkeit, Das liegt nicht in unserer Zuständigkeit. — Genau das ist das Problem.
 
 #### 4화 «Zu schön, um wahr zu sein» — 믿기엔 너무 좋은
-- **장소**: 프랑크푸르트 지사 → 결제 핀테크 Payvia 본사
-- **현안**: Wirecard 사태 이후의 회계감사·금융감독 강화
-- **줄거리**: Payvia 감사회 의장이 비밀리에 의뢰한다. 성장률이 업계 평균의 다섯 배. Paul은 "Wirecard 때도 다들 박수를 쳤다"고 말한다.
-- **표현**: die Bilanz, die Aufsicht, der Umsatz, misstrauisch, Wenn etwas zu schön ist, um wahr zu sein…
+- **장소**: 프랑크푸르트 지사 → 프랑크푸르트 페헨하임의 첨단소재 기업 Vellmann Composites AG
+- **현안**: 국방비 증액에 따른 방산·첨단소재 붐, 상장(IPO) 열기, 희토류·특수원자재의 중국 의존
+- **줄거리**: 탄소섬유·세라믹 복합 장갑재를 만드는 Vellmann은 연방군 수주로 3년 만에 매출이 다섯 배가 됐고 상장을 앞두고 있다. 감사회 의장이 비밀리에 감사를 의뢰한다. 마진은 업계 평균의 두 배, 원자재 구매처는 계속 바뀌고, 시험성적서는 너무 깨끗하다. Paul은 말한다. "숫자가 이렇게 예쁘면 나는 먼저 의심부터 합니다."
+- **갈등·설득**: 경영진은 "국가 안보 사업이니 묻지 말라"며 자료 제출을 미룬다. Katharina는 상장 일정을 지렛대로 쓴다 — "투자설명서에 서명하실 수 있습니까?"
+- **표현**: die Prüfbescheinigung, der Börsengang, der Rohstoff, die Marge, Wenn etwas zu schön ist, um wahr zu sein…
 
-#### 5화 «Das Treuhandkonto» — 신탁계좌
-- **장소**: 프랑크푸르트 카페 → BWA 지사 → 금융감독청(BaFin)
-- **현안**: 내부고발자 보호법, 해외 신탁계좌, 금융감독
-- **줄거리**: 내부고발자가 Selin에게 접촉한다. 아시아의 신탁계좌에 있다던 2억 유로는 없다. 협박 전화, 법적 위협. 보고서를 BaFin에 넘기는 순간까지.
-- **표현**: der Hinweisgeber, das Treuhandkonto, die Anzeige, die Beweislage, Sie sind geschützt. Das ist Gesetz.
+#### 5화 «Ein Umweg zu viel» — 하나 많은 우회로
+- **장소**: 프랑크푸르트 카페 → BWA 지사 → 연방경제수출통제청(BAFA)·검찰
+- **현안**: 이중용도(Dual-Use) 품목 수출통제, 제3국 경유 대러 제재 우회, 방산 품질 시험 조작, 내부고발자 보호법
+- **줄거리**: 시험실 엔지니어가 Selin에게 접촉한다. 일부 장갑판의 방탄 시험 결과가 조작됐고, 민수용으로 신고한 고강도 섬유는 제3국의 유령회사를 거쳐 러시아 드론 공장으로 흘러갔다. Paul이 화물 경로와 송장을 대조해 우회 패턴을 증명한다. 협박 전화, 소송 위협, "일자리 1,200개가 날아간다"는 압박 속에서 보고서를 당국에 넘긴다.
+- **갈등·설득**: 회사를 무너뜨리지 않고 진실을 밝힐 수 있는가. Katharina는 감사회에 '경영진 교체 + 자진 신고 + 생산 유지'라는 길을 제시한다. 정점은 "그 장갑판을 입는 사람은 누구입니까?"라는 Tobias의 질문.
+- **표현**: der Hinweisgeber, die Ausfuhrgenehmigung, das Dual-Use-Gut, die Sanktionsumgehung, Sie sind geschützt. Das ist Gesetz.
 
 #### 6화 «Der Verein» — 클럽
 - **장소**: 베를린 가상의 축구 클럽 SV Spree 1903 경기장
