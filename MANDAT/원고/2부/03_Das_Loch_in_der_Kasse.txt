@@ -1,0 +1,269 @@
+part: 2
+ep: 3
+title_de: Das Loch in der Kasse
+title_ko: 금고의 구멍
+scene: 대주단 회의, 프랑크푸르트 은행가
+level: B2
+setting: 11월 둘째 주 화요일 오전 여덟 시부터 수요일 새벽 네 시까지, 프랑크푸르트 은행가 Mainbank 타워 31층 회의실 → 마인강변
+cast: KATHARINA | Dr. Katharina Brandt · CEO (39)
+cast: TOBIAS | Tobias Wendt · CFO, 전직 투자은행원 (35)
+cast: SELIN | Selin Aydın · 전환사무국장 (27)
+cast: RUHL | Carsten Ruhl · Mainbank 구조조정 부문장, 대주단 간사은행 대표 (가상)
+cast: VOSS | Annette Voss · Landesbank Mitte 대표 (가상)
+cast: BELLINI | Marco Bellini · Banca Ligure 프랑크푸르트 지점 대표 (가상)
+cast: DITTRICH | Dittrich · Pfalzbank 대표, 대주단 최소 지분 은행 (가상)
+cast: ALBRECHT | Dr. Albrecht · 헤센 주 재무부 보증 담당관 (가상)
+cast: MONIKA | Monika Schäfer · 이사회 비서실장 (전화)
+cast: KONRAD | Konrad Ebersbach · 감사회 의장 (전화) (74)
+note: ※ 대기업 대출은 여러 은행이 함께 빌려주는 신디케이트론(Konsortialkredit)이 일반적이며, 간사은행(Konsortialführerin)이 협상을 이끕니다. 재무 약정(Kreditauflage, Covenant)의 일시 면제는 보통 대주단 3분의 2 동의로 가능하지만, 상환 유예(Stundung)나 선순위 신규 자금처럼 계약의 핵심을 바꾸는 일에는 모든 은행의 동의가 필요한 경우가 많습니다. 은행들은 흔히 독립 구조조정 감정서(IDW S 6 기준의 Sanierungsgutachten)와 은행 측 구조조정 책임자(CRO)를 요구합니다. 독일 각 주는 회생 가능성이 있는 기업에 주 정부 보증(Landesbürgschaft)을 제공하는데, 헤센 주도 재무부가 이를 운영하며 큰 금액은 주의회 예산위원회의 승인이 필요합니다. 다만 EU 국가보조금 규정상 '경영난 기업(Unternehmen in Schwierigkeiten)'에는 엄격한 제한이 있습니다. 은행과 인물은 모두 가상입니다. 표현 초점: der Kredit, die Kreditauflage, die Bürgschaft, die Stundung, Wir brauchen Zeit, nicht Geschenke.
+next: 2부 4화 — «Werk Spandau»(슈판다우 공장) — '시나리오 C' 문서가 슈판다우 공장 식당 문에 나붙었다. Katharina는 예정보다 한 달 앞서 베를린으로 향하고, 노동자평의회 의장 Matthias Kröger와 처음 마주한다. 그는 그녀를 '하나우의 칼'이라 부른다.
+
+## 도입 — DIENSTAG, ACHT UHR, BANKENVIERTEL
+TOBIAS: Einunddreißigster Stock. Von hier oben sieht man den ganzen Taunus. Und vermutlich auch, wie klein wir sind.
+> 31층이네. 여기서는 타우누스 산자락이 다 보여. 그리고 아마 우리가 얼마나 작은지도.
+KATHARINA: Du bist nervös.
+> 너 긴장했구나.
+TOBIAS: Ich habe zehn Jahre auf der anderen Seite dieses Tisches gesessen. Ich weiß genau, was die Banken heute denken.
+> 10년을 이 테이블 반대편에 앉아 있었잖아. 오늘 은행들이 무슨 생각을 하는지 정확히 알아.
+KATHARINA: Gut. Dann weißt du auch, was sie hören müssen. Heute redest du. Ich sitze daneben und halte den Mund.
+> 좋아. 그럼 그 사람들이 뭘 들어야 하는지도 알겠네. 오늘은 네가 말해. 나는 옆에 앉아서 입 다물고 있을게.
+TOBIAS: Du hast noch nie in einer Sitzung den Mund gehalten.
+> 너 회의에서 입 다물고 있었던 적 한 번도 없잖아.
+KATHARINA: Dann ist heute Premiere. Die Banken sollen sehen, dass unser Finanzvorstand die Zahlen besser kennt als sie.
+> 그럼 오늘이 첫 공연이네. 우리 CFO가 은행보다 숫자를 더 잘 안다는 걸 그 사람들이 봐야 해.
+SELIN: Ich habe die Lieferantendaten mitgebracht, wie du wolltest, Tobias. Alle Zulieferer mit Sitz in den Regionen unserer Banken.
+> 네가 원한 대로 협력업체 데이터 가져왔어, 토비아스. 우리 은행들 영업 지역에 본사가 있는 협력업체 전부.
+TOBIAS: Danke. Ich hoffe, wir brauchen sie nicht.
+> 고마워. 안 쓰게 되면 좋겠다.
+SELIN: Warum habe ich dann bis zwei Uhr nachts daran gesessen?
+> 그럼 난 왜 새벽 두 시까지 그거 붙잡고 있었는데?
+TOBIAS: Weil man in Bankgesprächen genau das braucht, was man nicht zu brauchen glaubt.
+> 은행 협상에선 필요 없을 거라고 생각한 바로 그게 필요해지거든.
+RUHL: Frau Dr. Brandt, Herr Wendt, guten Morgen. Carsten Ruhl, Mainbank, Bereich Restrukturierung. Die anderen Häuser sind vollzählig.
+> 브란트 박사님, 벤트 이사님, 안녕하십니까. 카르스텐 룰, 마인방크 구조조정 부문입니다. 다른 은행들도 모두 와 있습니다.
+KATHARINA: Restrukturierung? Letzte Woche war noch Ihr Firmenkundenbetreuer für uns zuständig.
+> 구조조정이요? 지난주만 해도 기업고객 담당자가 저희를 맡고 있었는데요.
+
+## 분석 — DREIZEHN WOCHEN
+RUHL: Seit Ihrer Ad-hoc-Meldung bin ich zuständig. Intern nennt man meine Abteilung die Intensivstation. Bitte, nehmen Sie Platz.
+> 수시공시 이후로 제가 맡게 됐습니다. 사내에서는 저희 부서를 중환자실이라고 부르죠. 앉으시죠.
+RUHL: Ich fasse zusammen: Konsortialkredit über vierhundert Millionen — zweihundertfünfzig als Darlehen, hundertfünfzig als revolvierende Linie. Fünf Banken. Die Mainbank führt das Konsortium mit dreißig Prozent.
+> 요약하겠습니다. 신디케이트론 총 4억. 기한부 대출 2억 5천, 회전 한도 1억 5천. 은행 다섯 곳. 마인방크가 30퍼센트로 간사를 맡고 있습니다.
+VOSS: Annette Voss, Landesbank Mitte, fünfundzwanzig Prozent. Wir haben Ihre Meldung gelesen, Herr Wendt. Wir hätten sie lieber vorher von Ihnen persönlich gehört.
+> 아네테 포스, 란데스방크 미테, 25퍼센트입니다. 공시는 읽었어요, 벤트 이사님. 그 전에 이사님께 직접 들었으면 더 좋았을 텐데요.
+TOBIAS: Das verstehe ich, Frau Voss. Aber vorher hätte ich es Ihnen nicht sagen dürfen, ohne gegen das Insiderrecht zu verstoßen. Deshalb sind wir heute als Erste hier.
+> 이해합니다, 포스 씨. 하지만 그 전에 말씀드렸다면 내부자 거래 규정을 어기는 거였어요. 그래서 오늘 저희가 가장 먼저 온 겁니다.
+BELLINI: Marco Bellini, Banca Ligure, Niederlassung Frankfurt, zwanzig Prozent. Kommen wir zum Punkt: Wie groß ist das Loch?
+> 마르코 벨리니, 방카 리구레 프랑크푸르트 지점, 20퍼센트입니다. 본론으로 가죠. 구멍이 얼마나 큽니까?
+TOBIAS: Ich zeige es Ihnen. Das ist unsere Liquiditätsplanung über dreizehn Wochen, rollierend, Stand gestern Abend.
+> 보여 드리죠. 이게 저희 13주 롤링 유동성 계획입니다. 어젯밤 기준이에요.
+TOBIAS: Heute haben wir vierundfünfzig Millionen auf den Konten. Für den laufenden Betrieb brauchen wir mindestens fünfundzwanzig — Löhne, Material, Energie.
+> 오늘 계좌에 5,400만이 있습니다. 운영에 최소 2,500만이 필요하죠. 임금, 자재, 에너지.
+TOBIAS: Wenn nichts passiert, unterschreiten wir diese Grenze in Woche elf. Das ist die zweite Januarwoche.
+> 아무 조치도 없으면 11주 차에 그 선 밑으로 떨어집니다. 1월 둘째 주예요.
+DITTRICH: Und die Kreditauflage?
+> 그럼 재무 약정은요?
+TOBIAS: Herr …?
+> 성함이…?
+DITTRICH: Dittrich, Pfalzbank, acht Prozent. Wir sind die Kleinsten am Tisch, aber lesen können wir.
+> 디트리히, 팔츠방크, 8퍼센트. 이 테이블에서 제일 작지만 글은 읽을 줄 압니다.
+TOBIAS: Dann lesen Sie bitte Seite drei, Herr Dittrich. Zum Jahresende erwarten wir einen Verschuldungsgrad von vier Komma vier. Erlaubt sind drei Komma fünf. Wir werden die Kreditauflage brechen — und das sage ich Ihnen heute, nicht erst im Februar.
+> 그럼 3쪽을 읽어 주시죠, 디트리히 씨. 연말 부채 배율은 4.4로 예상됩니다. 허용치는 3.5고요. 저희는 재무 약정을 위반할 겁니다. 그리고 그 사실을 2월이 아니라 오늘 말씀드리는 겁니다.
+VOSS: Damit hätten wir ein Kündigungsrecht.
+> 그럼 저희에게 대출 회수권이 생기는군요.
+TOBIAS: Das hätten Sie. Und dann hätten Sie ein Unternehmen mit viertausendachthundert Mitarbeitern in der Insolvenz und eine Rückzahlungsquote, die Ihnen Ihr Risikovorstand nicht verzeihen würde.
+> 생기죠. 그러면 직원 4,800명짜리 회사가 파산하고, 리스크 담당 이사가 절대 용서하지 않을 회수율이 남겠죠.
+RUHL: Herr Wendt, drohen Sie uns?
+> 벤트 이사님, 지금 협박하시는 겁니까?
+TOBIAS: Nein, Herr Ruhl. Ich rechne Ihnen etwas vor. Den Unterschied kennen Sie noch aus meiner Zeit bei der Bank.
+> 아닙니다, 룰 씨. 계산을 보여 드리는 거죠. 그 차이는 제가 은행에 있던 시절부터 아시잖아요.
+BELLINI: Was wollen Sie also?
+> 그래서 원하시는 게 뭡니까?
+TOBIAS: Drei Dinge. Erstens: Wir setzen die Kreditauflage bis zum Ende des nächsten Jahres aus und vereinbaren danach einen neuen, realistischen Wert.
+> 세 가지입니다. 첫째, 재무 약정을 내년 말까지 유예하고, 그 이후에 새롭고 현실적인 수치를 합의합니다.
+TOBIAS: Zweitens: eine Stundung der Tilgung. Im März sind vierzig Millionen fällig. Wir bitten um achtzehn Monate Aufschub.
+> 둘째, 원금 상환 유예. 3월에 4,000만이 만기입니다. 18개월 유예를 요청합니다.
+TOBIAS: Drittens: ein neuer Überbrückungskredit über achtzig Millionen, damit wir den Umbau finanzieren können — Kurzarbeit, neue Produktlinien, Vertrieb.
+> 셋째, 8,000만 규모의 신규 브리지 대출. 구조 전환 자금입니다. 단축근무, 신규 제품 라인, 영업.
+DITTRICH: Neues Geld? Für ein Unternehmen, das gerade ankündigt, dass es seine Auflagen bricht?
+> 신규 자금이요? 약정을 위반하겠다고 방금 선언한 회사에?
+KATHARINA: Für ein Unternehmen, das Ihnen die Wahrheit sagt, bevor es muss, Herr Dittrich.
+> 그래야 하기도 전에 진실을 말하는 회사에요, 디트리히 씨.
+RUHL: Frau Dr. Brandt, ich dachte, Herr Wendt führt heute das Gespräch.
+> 브란트 박사님, 오늘은 벤트 이사님이 협상을 이끄시는 줄 알았는데요.
+KATHARINA: Das tut er. Das war meine einzige Wortmeldung bis zum Mittagessen.
+> 그렇습니다. 방금 그게 점심 전까지 제 유일한 발언이에요.
+VOSS: Herr Wendt, das Land Hessen ist bei uns indirekt Eigentümer. Wenn wir neues Geld geben, will man in Wiesbaden wissen, was mit dem Werk in Spandau passiert.
+> 벤트 이사님, 헤센 주는 간접적으로 저희 은행 소유주예요. 저희가 신규 자금을 내면, 비스바덴에서는 슈판다우 공장이 어떻게 되는지 알고 싶어 할 겁니다.
+TOBIAS: Und in Berlin will man wissen, was mit Hanau passiert. Frau Voss, wir haben einen Plan für beide Werke — aber keinen, der heute schon fertig ist.
+> 그리고 베를린에서는 하나우가 어떻게 되는지 알고 싶어 하겠죠. 포스 씨, 저희는 두 공장 모두에 대한 계획이 있습니다. 다만 오늘 완성된 계획은 아니에요.
+BELLINI: Und die Familie? Die Familie hält sechzig Prozent. Was legt Herr Ebersbach auf den Tisch?
+> 그리고 가문은요? 가문이 60퍼센트를 갖고 있잖습니까. 에버스바흐 회장은 뭘 내놓습니까?
+TOBIAS: Darüber sprechen wir heute noch mit ihm.
+> 그건 오늘 중으로 회장님과 이야기할 겁니다.
+BELLINI: Das heißt: bis jetzt nichts.
+> 그러니까 지금까지는 아무것도 없다는 거군요.
+RUHL: Ich halte fest: Für das Aussetzen der Kreditauflage brauchen wir eine Zweidrittelmehrheit der Banken. Für eine Stundung und für neues Geld mit Vorrang brauchen wir alle fünf.
+> 정리하겠습니다. 재무 약정 유예에는 대주단 3분의 2의 동의가 필요합니다. 상환 유예와 선순위 신규 자금에는 다섯 은행 전부가 필요하고요.
+DITTRICH: Alle fünf. Merken Sie sich das, Herr Wendt.
+> 다섯 곳 전부. 그거 기억해 두세요, 벤트 이사님.
+SELIN: Darf ich fragen, wie hoch der Anteil der Pfalzbank am Gesamtkredit ist? In Euro?
+> 전체 대출에서 팔츠방크 몫이 얼마인지 여쭤봐도 될까요? 유로로요.
+DITTRICH: Zweiunddreißig Millionen. Warum, junge Frau?
+> 3,200만이요. 왜 그러시죠, 아가씨?
+
+## 갈등 — DIE BEDINGUNGEN DER BANKEN
+SELIN: Nur so. Ich sammle Zahlen.
+> 그냥요. 숫자를 모으는 중이라서요.
+RUHL: Meine Damen und Herren, ich mache einen Vorschlag für das Konsortium. Wir sind gesprächsbereit — unter vier Bedingungen.
+> 여러분, 대주단을 대표해 제안하겠습니다. 저희는 대화할 용의가 있습니다. 네 가지 조건하에서요.
+RUHL: Erstens ein unabhängiges Sanierungsgutachten nach IDW S 6, das bestätigt, dass Ebersbach sanierungsfähig ist. Zweitens zusätzliche Sicherheiten: das Werksgelände in Hanau und die Anteile an den Tochtergesellschaften.
+> 첫째, 에버스바흐가 회생 가능하다는 것을 확인하는 IDW S 6 기준 독립 구조조정 감정서. 둘째, 추가 담보. 하나우 공장 부지와 자회사 지분입니다.
+RUHL: Drittens eine höhere Marge, plus zweihundert Basispunkte. Und viertens setzt das Konsortium einen Chief Restructuring Officer ein — mit Vetorecht bei allen Zahlungen über einer Million.
+> 셋째, 가산 금리 200bp 인상. 그리고 넷째, 대주단이 구조조정 책임자, CRO를 선임합니다. 100만 유로 이상 모든 지출에 거부권을 갖고요.
+KATHARINA: Ein CRO mit Vetorecht. Also ein zweiter Vorstandsvorsitzender, den die Banken bezahlen.
+> 거부권 가진 CRO라. 그러니까 은행이 월급 주는 두 번째 대표이사네요.
+RUHL: Ein Fachmann, der den Banken berichtet. Das ist üblich.
+> 은행에 보고하는 전문가입니다. 통상적인 일이에요.
+KATHARINA: Üblich ist es, klug ist es nicht. Wenn die Belegschaft am Montag hört, dass die Banken einen Aufpasser schicken, glaubt in Hanau niemand mehr an den Plan. Und in Spandau erst recht nicht.
+> 통상적이긴 하죠. 현명하진 않고요. 월요일에 직원들이 은행이 감시인을 보낸다는 얘기를 들으면, 하나우에서는 아무도 계획을 믿지 않을 거예요. 슈판다우는 말할 것도 없고요.
+BELLINI: Mit Verlaub, Frau Dr. Brandt: Ihre Belegschaft ist nicht unser Kreditnehmer.
+> 외람되지만, 브란트 박사님, 박사님 직원들은 저희 차주가 아닙니다.
+KATHARINA: Doch, Herr Bellini. Am Ende zahlt jede Rate jemand, der an einer Maschine in Halle zwei steht.
+> 차주 맞아요, 벨리니 씨. 결국 모든 할부금은 2번 공장동 기계 앞에 서 있는 누군가가 갚는 거니까요.
+DITTRICH: Ich will offen sein. Die Pfalzbank hat kein Interesse an einer Sanierung über drei Jahre. Wir prüfen, ob wir unseren Anteil verkaufen.
+> 솔직히 말하죠. 팔츠방크는 3년짜리 구조조정에 관심 없습니다. 우리 몫을 매각할지 검토 중이에요.
+TOBIAS: An wen?
+> 누구한테요?
+DITTRICH: Es gibt Fonds, die so etwas kaufen. Mit Abschlag.
+> 이런 걸 사는 펀드들이 있죠. 할인가로.
+TOBIAS: Ich kenne diese Fonds, Herr Dittrich. Sie kaufen für sechzig Cent und wollen in einem Jahr hundert. Wenn so ein Fonds mit am Tisch sitzt, gibt es keine Stundung mehr — nur noch Druck.
+> 그 펀드들 압니다, 디트리히 씨. 60센트에 사서 1년 뒤에 100을 원하죠. 그런 펀드가 이 테이블에 앉는 순간 상환 유예는 없어요. 압박만 남죠.
+DITTRICH: Das ist dann nicht mehr mein Problem.
+> 그때는 제 문제가 아니죠.
+RUHL: Ich schlage eine Pause vor. Eine Stunde.
+> 휴회를 제안합니다. 한 시간.
+TOBIAS: Das läuft schlecht. Das läuft richtig schlecht.
+> 잘 안 풀려. 진짜 안 풀려.
+KATHARINA: Das läuft genau so, wie solche Gespräche am Anfang immer laufen. Das hast du mir selbst beigebracht.
+> 이런 협상은 처음엔 원래 이렇게 흘러가. 네가 나한테 가르쳐 준 거잖아.
+TOBIAS: Katharina, hör zu. Wir sollten den CRO akzeptieren. Dann bekommen wir das Geld schneller, und die Banken haben jemanden, dem sie vertrauen.
+> 카타리나, 들어 봐. CRO를 받아들이자. 그러면 돈이 빨리 나오고, 은행들은 믿을 사람이 생기잖아.
+KATHARINA: Nein.
+> 안 돼.
+TOBIAS: Du sagst Nein, weil du es nicht erträgst, dass dir jemand über die Schulter schaut.
+> 너 누가 어깨 너머로 보는 걸 못 견뎌서 안 된다는 거잖아.
+KATHARINA: Das ist unfair. — Und vielleicht ist ein bisschen was dran. Aber das ist nicht der Grund.
+> 그건 불공평해. — 그리고 어쩌면 조금은 맞는 말일지도. 하지만 그게 이유는 아니야.
+KATHARINA: Ein CRO mit Vetorecht heißt: Jede Entscheidung dauert zwei Wochen länger. Und wir haben elf Wochen.
+> 거부권 가진 CRO는, 모든 결정이 2주씩 늦어진다는 뜻이야. 그리고 우리한테는 11주밖에 없어.
+TOBIAS: Und ohne CRO haben wir vielleicht gar keine.
+> CRO가 없으면 그 11주조차 없을지도 몰라.
+SELIN: Darf ich etwas sagen, bevor ihr euch weiter anschreit?
+> 너희 둘이 계속 소리 지르기 전에 나 한마디 해도 돼?
+TOBIAS: Wir schreien nicht. Wir diskutieren mit Nachdruck.
+> 소리 지르는 거 아니야. 강력하게 토론하는 거지.
+SELIN: Dann diskutiert kurz leiser. — Ich habe die Lieferantendaten nach Regionen sortiert. Die Pfalzbank hat ihr Geschäftsgebiet in Rheinland-Pfalz und im Saarland.
+> 그럼 잠깐만 조용히 토론해. — 협력업체 데이터를 지역별로 정리했거든. 팔츠방크 영업 지역은 라인란트팔츠랑 자를란트야.
+SELIN: Wir kaufen dort bei hundertvierzig kleinen Zulieferern ein — Gießereien, Härtereien, Logistik. Zusammen für über sechzig Millionen Euro im Jahr.
+> 우리는 거기서 작은 협력업체 140곳에서 구매해. 주물, 열처리, 물류. 합치면 연간 6,000만 유로가 넘어.
+TOBIAS: Und wie viele davon sind Kunden der Pfalzbank?
+> 그중 팔츠방크 고객은 몇 곳이야?
+SELIN: Nach Handelsregister und Jahresabschlüssen mindestens einundfünfzig — mit eigenen Krediten bei der Pfalzbank.
+> 상업등기부랑 재무제표로 보면 최소 51곳. 팔츠방크에서 자체 대출을 받고 있어.
+KATHARINA: Wenn wir fallen, fallen einige davon mit uns. Und dann hat Herr Dittrich nicht ein Problem mit zweiunddreißig Millionen, sondern viele kleine Probleme in seinem eigenen Geschäftsgebiet.
+> 우리가 쓰러지면 그중 몇 곳도 같이 쓰러지겠지. 그럼 디트리히 씨는 3,200만짜리 문제 하나가 아니라 자기 영업 지역 안에 작은 문제를 잔뜩 안게 되는 거고.
+TOBIAS: Selin, das ist … Ich hätte dich um zwei Uhr nachts nicht gehen lassen sollen. Du hättest bis vier bleiben sollen.
+> 셀린, 이건… 새벽 두 시에 너 보내는 게 아니었는데. 네 시까지 붙잡아 둘 걸.
+SELIN: Sehr witzig.
+> 참 재밌네.
+MONIKA: Frau Dr. Brandt? Monika Schäfer aus Hanau. Ich stelle Ihnen Herrn Ebersbach durch. Er hat ein paar Minuten, bevor sein Arzt kommt.
+> 브란트 박사님? 하나우의 모니카 셰퍼예요. 에버스바흐 회장님 연결해 드릴게요. 의사가 오기 전에 몇 분 시간이 있으시대요.
+KATHARINA: Herr Ebersbach, die Banken wollen wissen, was die Familie auf den Tisch legt.
+> 회장님, 은행들이 가문에서 뭘 내놓는지 알고 싶어 해요.
+KONRAD: Das habe ich mir gedacht. — Entschuldigen Sie, dieser verdammte Husten. Sagen Sie Herrn Wendt: fünfundzwanzig Millionen aus meinem Privatvermögen. Als Darlehen, das hinter den Banken zurücksteht.
+> 그럴 줄 알았어요. — 미안합니다, 이 망할 기침. 벤트 이사에게 전해요. 내 개인 재산에서 2,500만. 은행보다 후순위로 물러서는 대출로.
+
+## 해결·설득 — WIR BRAUCHEN ZEIT
+KATHARINA: Herr Ebersbach, das ist sehr viel Geld. Weiß Clara davon?
+> 회장님, 그건 아주 큰돈이에요. 클라라 씨도 아세요?
+KONRAD: Clara sagt, das ist das Erbe ihres Sohnes. Sie hat recht. Aber ein Erbe, das man nicht verteidigt, ist bald nur noch eine Erinnerung. Geben Sie es den Banken.
+> 클라라는 그게 자기 아들 유산이라고 하더군요. 맞는 말이에요. 하지만 지키지 않는 유산은 곧 추억이 될 뿐이죠. 은행들에게 전해요.
+RUHL: Meine Damen und Herren, wir setzen fort. Herr Wendt, Sie wollten noch etwas sagen?
+> 여러분, 속개하겠습니다. 벤트 이사님, 하실 말씀이 있다고요?
+TOBIAS: Ja. Ich möchte Ihre vier Bedingungen beantworten — und dann eine eigene stellen.
+> 네. 네 가지 조건에 답하고, 그다음에 저희 조건을 하나 내겠습니다.
+TOBIAS: Das Sanierungsgutachten nach IDW S 6: ja. Wir beauftragen es nächste Woche, und Sie wählen den Gutachter aus einer Liste von drei Häusern mit aus. Sicherheiten am Werk Hanau und an den Tochtergesellschaften: ebenfalls ja.
+> IDW S 6 감정서, 좋습니다. 다음 주에 의뢰하고, 감정 기관은 세 곳의 후보 중에서 여러분이 함께 고르시죠. 하나우 공장과 자회사 지분 담보도 좋습니다.
+TOBIAS: Die Marge: Wir bieten plus hundert Basispunkte, nicht zweihundert. Jeder Basispunkt mehr ist Geld, das uns bei der Kurzarbeit fehlt.
+> 가산 금리는 200이 아니라 100bp를 제안합니다. 1bp 늘어날 때마다 단축근무에 쓸 돈이 그만큼 줄어드니까요.
+TOBIAS: Und der CRO: nein. Stattdessen monatliches Reporting an alle fünf Banken, ein gemeinsamer Lenkungsausschuss und das Recht, mich jederzeit anzurufen. Mich — nicht meine Assistentin.
+> 그리고 CRO는 안 됩니다. 대신 다섯 은행 모두에 월간 보고, 공동 운영위원회, 그리고 언제든 제게 전화할 권리. 제 비서가 아니라 저한테요.
+BELLINI: Und warum sollten wir auf den CRO verzichten?
+> 왜 저희가 CRO를 포기해야 합니까?
+TOBIAS: Weil wir keine Aufsicht brauchen, sondern Zeit. Meine Damen und Herren, wir brauchen Zeit, nicht Geschenke. Wir bitten Sie um keinen einzigen Euro, den Sie nicht mit Zinsen zurückbekommen.
+> 저희에게 필요한 건 감시가 아니라 시간이니까요. 여러분, 저희에게 필요한 건 선물이 아니라 시간입니다. 이자와 함께 돌려받지 못할 돈은 단 1유로도 요청하지 않습니다.
+TOBIAS: Herr Ebersbach gibt fünfundzwanzig Millionen aus seinem Privatvermögen, nachrangig. Das heißt: Wenn es schiefgeht, verliert er zuerst und Sie zuletzt. Eine Familie, die so etwas tut, ist kein Risiko, sondern eine Sicherheit.
+> 에버스바흐 회장님이 개인 재산에서 2,500만을 후순위로 넣습니다. 일이 잘못되면 회장님이 가장 먼저 잃고, 여러분이 가장 나중에 잃는다는 뜻이죠. 이렇게 하는 가문은 리스크가 아니라 담보입니다.
+VOSS: Das ist ein starkes Signal. Aber für achtzig Millionen neues Geld reicht es nicht.
+> 강력한 신호네요. 하지만 신규 자금 8,000만에는 부족합니다.
+TOBIAS: Deshalb haben wir für heute Abend jemanden eingeladen. Herr Dr. Albrecht vom Hessischen Finanzministerium ist seit zwanzig Minuten im Haus.
+> 그래서 오늘 저녁에 한 분을 모셨습니다. 헤센 주 재무부의 알브레히트 박사님이 20분 전에 도착하셨어요.
+ALBRECHT: Guten Abend. Albrecht, Referat Bürgschaften. Ich sage es gleich vorweg: Das Land Hessen rettet keine Unternehmen. Das Land Hessen bürgt — für Unternehmen, die eine Zukunft haben.
+> 안녕하십니까. 알브레히트, 보증 담당입니다. 미리 말씀드리죠. 헤센 주는 기업을 구제하지 않습니다. 헤센 주는 보증합니다. 미래가 있는 기업을 위해서.
+ALBRECHT: Unsere Bedingungen: ein positives Sanierungsgutachten, eine Bürgschaft für höchstens achtzig Prozent des neuen Kredits, ein Beitrag der Eigentümer und eine marktübliche Bürgschaftsprovision. Außerdem darf Ebersbach kein Unternehmen in Schwierigkeiten im Sinne des EU-Beihilferechts sein.
+> 저희 조건은 이렇습니다. 긍정적인 구조조정 감정서, 신규 대출의 최대 80퍼센트까지만 보증, 소유주의 출연, 그리고 시장 수준의 보증 수수료. 또 에버스바흐가 EU 국가보조금 규정상 '경영난 기업'이어서는 안 됩니다.
+TOBIAS: Das sind wir nicht. Unsere Eigenkapitalquote liegt bei einunddreißig Prozent. Wir haben kein Problem mit unserem Vermögen, sondern mit dem Zeitpunkt, zu dem das Geld fließt.
+> 저희는 해당하지 않습니다. 자기자본비율이 31퍼센트예요. 저희 문제는 자산이 아니라 돈이 들어오는 시점입니다.
+ALBRECHT: Dann ist der Weg grundsätzlich offen. Bei diesem Betrag muss allerdings der Haushaltsausschuss des Landtags zustimmen. Das dauert vier bis sechs Wochen.
+> 그렇다면 원칙적으로 길은 열려 있습니다. 다만 이 정도 금액이면 주의회 예산위원회 승인이 필요해요. 4주에서 6주 걸립니다.
+RUHL: Achtzig Prozent Landesbürgschaft auf achtzig Millionen. Dann tragen die Banken zusammen noch sechzehn Millionen Risiko.
+> 8,000만에 주 정부 보증 80퍼센트. 그러면 은행들이 합쳐서 1,600만의 리스크만 지는군요.
+TOBIAS: Sechzehn Millionen, Herr Ruhl, für einen Kredit mit Sicherheiten am Werk Hanau und dem Nachrang der Familie. Bei meiner alten Bank habe ich schlechtere Geschäfte genehmigt.
+> 1,600만이요, 룰 씨. 하나우 공장 담보에, 가문의 후순위 자금까지 붙은 대출에 대해서. 제가 예전 은행에 있을 때는 이보다 못한 거래도 승인했습니다.
+BELLINI: Die Banca Ligure ist dabei — wenn die Familie ihr Darlehen vor der Auszahlung leistet.
+> 방카 리구레는 참여합니다. 가문이 대출금 집행 전에 자금을 넣는다면요.
+VOSS: Die Landesbank Mitte ebenfalls. Unter dem Vorbehalt unserer Gremien.
+> 란데스방크 미테도요. 내부 위원회 승인을 조건으로.
+RUHL: Die Genobank Süd hat mir signalisiert, dass sie der Mehrheit folgt. Bleibt die Pfalzbank. Herr Dittrich?
+> 게노방크 쥐트는 다수 의견을 따르겠다는 신호를 줬습니다. 남은 건 팔츠방크군요. 디트리히 씨?
+DITTRICH: Meine Position kennen Sie. Wir wollen raus.
+> 제 입장은 아시잖습니까. 저희는 빠지고 싶습니다.
+TOBIAS: Herr Dittrich, Frau Aydın hat heute Nacht etwas gefunden. Selin?
+> 디트리히 씨, 아이든 국장이 어젯밤 뭘 찾아냈습니다. 셀린?
+SELIN: Wir arbeiten mit hundertvierzig Zulieferern in Ihrem Geschäftsgebiet. Einundfünfzig davon haben Kredite bei Ihrer Bank, zusammen rund neunzig Millionen Euro. Für viele von ihnen sind wir der größte Kunde.
+> 저희는 귀행 영업 지역에서 협력업체 140곳과 거래합니다. 그중 51곳이 귀행에서 대출을 받고 있고, 합치면 약 9,000만 유로예요. 그중 상당수에게 저희가 최대 고객입니다.
+DITTRICH: Woher haben Sie diese Zahlen?
+> 그 숫자는 어디서 구했습니까?
+SELIN: Aus öffentlichen Quellen: Handelsregister, Jahresabschlüsse, Pressemitteilungen. Ich hatte ja Zeit bis zwei Uhr nachts.
+> 공개 자료에서요. 상업등기부, 재무제표, 보도자료. 새벽 두 시까지 시간이 있었거든요.
+TOBIAS: Wenn Sie Ihren Anteil heute an einen Fonds verkaufen, verlieren Sie vielleicht ein Drittel davon. Wenn wir fallen, haben Sie zusätzlich einundfünfzig neue Problemkunden. Wenn Sie zustimmen, verdienen Sie Zinsen — und Ihre Kunden behalten ihren größten Auftraggeber.
+> 오늘 지분을 펀드에 파시면 3분의 1쯤 잃으시겠죠. 저희가 쓰러지면 거기에 51곳의 부실 고객이 추가되고요. 동의하시면 이자를 버시고, 귀행 고객들은 최대 거래처를 지키게 됩니다.
+DITTRICH: … Sie sind ein unangenehmer Mensch, Herr Wendt. — Die Pfalzbank stimmt zu. Unter Vorbehalt.
+> …벤트 이사님, 참 불편한 사람이군요. — 팔츠방크는 동의합니다. 조건부로.
+
+## 마무리 — VIER UHR MORGENS, AM MAIN
+RUHL: Drei Uhr vierzig. Ich habe in zwanzig Jahren kein Konsortium so schnell einig werden sehen. Herr Wendt, falls Sie jemals zur Bank zurückwollen …
+> 세 시 사십 분. 20년 동안 대주단이 이렇게 빨리 합의하는 건 처음 봤습니다. 벤트 이사님, 혹시 은행으로 돌아오고 싶으시면…
+TOBIAS: Danke, Herr Ruhl. Aber ich habe gerade erst gelernt, auf der anderen Seite des Tisches zu sitzen.
+> 감사합니다, 룰 씨. 하지만 이제 막 테이블 반대편에 앉는 법을 배운 참이라서요.
+KATHARINA: Du warst gut.
+> 너 잘했어.
+TOBIAS: Ich war gut, oder? Sag es noch einmal. Langsam.
+> 나 잘했지? 한 번 더 말해 줘. 천천히.
+KATHARINA: Du warst gut, Tobias. Und du hattest recht, mich vorhin anzufahren. Ich ertrage es wirklich schlecht, wenn mir jemand über die Schulter schaut.
+> 너 정말 잘했어, 토비아스. 그리고 아까 나한테 쏘아붙인 것도 맞았어. 난 누가 어깨 너머로 보는 걸 정말 못 견뎌.
+TOBIAS: Ich weiß. Deshalb schaue ich nur von vorn.
+> 알아. 그래서 난 앞에서만 봐.
+SELIN: Ihr zwei seid wie ein altes Ehepaar. — Ich bin übrigens noch wach, falls sich jemand bedanken will.
+> 너희 둘 꼭 오래된 부부 같아. — 참고로 나 아직 깨어 있어, 누가 고맙다고 하고 싶으면.
+KATHARINA: Danke, Selin. Ohne die Pfalz säßen wir jetzt noch da oben.
+> 고마워, 셀린. 팔츠 얘기가 없었으면 우린 아직 저 위에 앉아 있었을 거야.
+SELIN: Gern. Aber ich habe eine schlechte Nachricht. Gerade kam eine Nachricht aus Spandau, von der Werkleitung.
+> 천만에. 그런데 나쁜 소식이 있어. 방금 슈판다우 공장장한테서 연락이 왔어.
+KATHARINA: Um vier Uhr morgens?
+> 새벽 네 시에?
+SELIN: Die Frühschicht hat an der Kantinentür ein Blatt gefunden. Seite sechsundvierzig aus «Weitblick». Szenario C. Jemand hat es kopiert und aufgehängt.
+> 아침 교대조가 식당 문에서 종이 한 장을 발견했대. «바이트블리크» 46쪽. 시나리오 C. 누가 복사해서 붙여 놨어.
+KATHARINA: Dann fahre ich nicht erst im Dezember nach Spandau. Ich fahre morgen.
+> 그럼 12월까지 기다릴 것 없어. 내일 슈판다우에 갈 거야.

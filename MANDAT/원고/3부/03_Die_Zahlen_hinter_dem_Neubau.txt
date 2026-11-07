@@ -1,0 +1,269 @@
+part: 3
+ep: 3
+title_de: Die Zahlen hinter dem Neubau
+title_ko: 신축 뒤의 숫자
+scene: Spreewohnen 지하 기록보관실 → BWA 사무실 → 베를린 주의회(Abgeordnetenhaus) 건설·주택 위원회
+level: B2+
+setting: 11월 말 3주간, Spreewohnen 지하 기록실, 모아비트 BWA 사무실, 그리고 베를린 주의회 위원회 회의실
+cast: KATHARINA | Dr. Katharina Brandt · BWA 대표 (41)
+cast: TOBIAS | Tobias Wendt · BWA 재무감사 총괄 (37)
+cast: SELIN | Selin Aydın · BWA 파트너, 데이터 포렌식 (29)
+cast: PAUL | Dr. Paul Asante · BWA 프랑크푸르트 지사장 내정자, 전 관세수사관 (45)
+cast: UTE | Ute Hennig · BWA 사무실 매니저 (61)
+cast: SEIDEL | Prof. Dr. Hartwig Seidel · Spreewohnen 감사회 의장 (가상)
+cast: HAHNE | Dr. Volker Hahne · 주 정부 도시개발 담당 부처 차관(Staatssekretär) (가상)
+cast: VORSITZENDE | 주의회 건설·주택 위원회 위원장 (가상)
+cast: KUNZE | Bernd Kunze · 여당 소속 주의원 (가상)
+cast: YILDIZ | Derya Yıldız · 야당 소속 주의원 (가상)
+note: ※ 베를린은 도시이자 주(州)이며, 주의회를 Abgeordnetenhaus, 주 정부를 Senat라고 부릅니다. 건축 인허가(Bauaufsicht)는 12개 구청(Bezirksamt)이, 주택 정책과 지침은 주 정부 부처(Senatsverwaltung)가 맡기 때문에 책임 소재(Zuständigkeit)가 쉽게 흩어집니다. 공공 발주처가 설계 기준을 자주 바꾸면 비용이 오르고 응찰 업체가 줄어드는 것도 실제로 지적되는 문제입니다. 감사보고서(Prüfbericht)는 '발견 사항(Feststellung) → 평가(Bewertung) → 권고(Empfehlung)'의 순서로 쓰며, 피감 기관의 진술은 접속법 1식(Konjunktiv I, 예: Die Geschäftsführung erklärte, die Verzögerung sei …)으로 옮기고, 명사 중심 문체(Nominalstil)를 씁니다. 위원회 소속 의원, 차관 등 등장인물은 모두 가상입니다. 표현 초점: die Feststellung, der Prüfbericht, die Empfehlung, die Zuständigkeit, Das liegt nicht in unserer Zuständigkeit. — Genau das ist das Problem.
+next: 3부 4화 — «Zu schön, um wahr zu sein»(믿기엔 너무 좋은) — BWA 프랑크푸르트 지사의 첫 수임. 연방군 수주로 3년 만에 매출이 다섯 배가 된 첨단소재 기업 Vellmann Composites AG가 상장을 앞두고 있다. 감사회 의장의 비밀 의뢰. 마진은 업계 평균의 두 배, 시험성적서는 너무 깨끗하다.
+
+## 도입 — IM KELLER
+SELIN: Regal vierzehn, Fach drei. «Wuhlheide-Süd, Schriftverkehr Behörden, Band eins bis vier.» Vier Bände. Frau Strelow hat von einem Ordner gesprochen.
+> 14번 선반, 3번 칸. '불하이데 남부, 관청 서신, 1권부터 4권.' 네 권이네. 슈트렐로 본부장은 서류철 하나라고 했는데.
+TOBIAS: Bei einer Behörde ist ein Ordner eine Maßeinheit, keine Zahl.
+> 관청에서 서류철 하나는 숫자가 아니라 단위야.
+PAUL: Fassen Sie die Blätter bitte nur am Rand an, und nichts umsortieren. Die Reihenfolge, in der etwas abgeheftet wurde, ist oft schon eine Aussage.
+> 종이는 가장자리만 잡으시고, 순서는 절대 바꾸지 마세요. 무엇이 어떤 순서로 철해졌는지가 그 자체로 하나의 진술인 경우가 많습니다.
+SELIN: Sie behandeln das wie ein Beweismittel, Herr Dr. Asante.
+> 아산테 박사님은 이걸 증거물처럼 다루시네요.
+PAUL: Alte Gewohnheit. Aber ein Prüfbericht ist am Ende auch nichts anderes als eine Beweisführung, nur ohne Richter.
+> 오랜 습관이죠. 하지만 감사보고서도 결국은 증명 과정입니다. 판사가 없을 뿐이에요.
+TOBIAS: Erste Seite: Antrag auf Vorbescheid, eingereicht vor sechs Jahren und drei Monaten. Letzte Seite in Band vier: eine E-Mail von vor zwei Wochen.
+> 첫 장. 사전결정 신청, 6년 3개월 전 제출. 4권 마지막 장. 2주 전 이메일.
+SELIN: Und dazwischen?
+> 그 사이엔?
+TOBIAS: Dazwischen eintausendeinhundertvierzig Seiten Briefe, Vermerke, Protokolle und Gutachten. Und kein einziger Bagger.
+> 그 사이엔 편지, 메모, 회의록, 감정서 1,140쪽. 그리고 굴착기는 단 한 대도 없음.
+SELIN: Vor sechs Jahren habe ich noch an der Uni Hausarbeiten über Statistik geschrieben.
+> 6년 전이면 난 아직 대학에서 통계 리포트 쓰고 있었는데.
+PAUL: Dann lesen wir es nicht wie eine Akte, sondern wie einen Fahrplan. Wer hat wann wem geschrieben, und wie lange hat die Antwort gedauert?
+> 그럼 이걸 서류철이 아니라 운행 시간표처럼 읽읍시다. 누가 언제 누구에게 썼고, 답장은 얼마나 걸렸는가.
+SELIN: Eine Zeitleiste. Ich baue sie direkt in eine Tabelle: Datum, Absender, Empfänger, Gegenstand, Reaktionszeit.
+> 타임라인이네요. 바로 표로 만들게요. 날짜, 발신자, 수신자, 내용, 응답 기간.
+TOBIAS: Mach noch eine Spalte dazu: «Wer war laut eigener Aussage zuständig?» Ich wette, dass genau diese Spalte am Ende ziemlich leer bleibt.
+> 열 하나 더 만들어. '본인 말로는 누가 담당이었나?' 장담하는데, 바로 그 열이 결국 꽤 비어 있을 거야.
+
+## 분석 — EIN FAHRPLAN OHNE ZUG
+SELIN: Fertig. Dreihundertzwölf Vorgänge in sechs Jahren. Ich zeige euch die Kurve.
+> 다 됐어. 6년 동안 312건. 그래프 보여 줄게.
+KATHARINA: Was sehen wir?
+> 뭐가 보여?
+SELIN: Drei Phasen. Phase eins, zwei Jahre: Gutachten. Erst Baumbestand, dann Artenschutz wegen der Fledermäuse, dann Lärm. Jedes Gutachten wurde erst verlangt, nachdem das vorige abgegeben war.
+> 세 단계. 1단계, 2년. 감정서. 먼저 수목, 그다음 박쥐 때문에 종 보호, 그다음 소음. 매번 앞의 감정서를 낸 다음에야 다음 감정서를 요구했어.
+PAUL: Nacheinander statt gleichzeitig. Das allein kostet ein Jahr.
+> 동시에가 아니라 차례로. 그것만으로 1년이 날아가죠.
+SELIN: Phase zwei, anderthalb Jahre: Umplanung. Der Senat hebt den Energiestandard an, dann kommt die Vorgabe für eine Kita im Erdgeschoss, dann eine neue Stellplatzregel.
+> 2단계, 1년 반. 재설계. 주 정부가 에너지 기준을 올리고, 그다음엔 1층 어린이집 지침이, 그다음엔 새 주차 규정이 나와.
+TOBIAS: Und Phase drei?
+> 3단계는?
+SELIN: Phase drei, zwei Jahre und ein paar Monate: Pingpong. Ab hier wird deine Spalte interessant, Tobias.
+> 3단계, 2년 몇 개월. 핑퐁. 여기서부터 네 열이 흥미로워져, 토비아스.
+TOBIAS: Lass hören.
+> 말해 봐.
+SELIN: Das Bezirksamt schreibt im März, die Frage der Kita-Finanzierung liege in der Zuständigkeit der Senatsverwaltung. Die Senatsverwaltung antwortet im Juli, für die bauplanungsrechtliche Beurteilung sei der Bezirk zuständig.
+> 구청은 3월에 어린이집 재원 문제는 주 정부 부처 소관이라고 써. 주 정부 부처는 7월에 계획법상 판단은 구청 소관이라고 답하고.
+KATHARINA: Und Spreewohnen?
+> 슈프레보넨은?
+SELIN: Spreewohnen schreibt im Oktober beiden und bittet um eine gemeinsame Besprechung. Die findet vierzehn Monate später statt. Ergebnis laut Protokoll: «Die Beteiligten verständigen sich auf eine weitere Abstimmung.»
+> 슈프레보넨은 10월에 양쪽에 공동 회의를 요청해. 회의는 14개월 뒤에 열리고. 회의록상 결과: '관계자들은 추가 협의에 합의함.'
+TOBIAS: Ein Meisterwerk der Verwaltungslyrik.
+> 행정 서정시의 걸작이군.
+PAUL: Von dreihundertzwölf Vorgängen enthalten einundsechzig den Satz, man sei nicht zuständig oder nicht allein zuständig. Ich habe sie gezählt.
+> 312건 중 61건에 '소관이 아니다' 또는 '단독 소관이 아니다'라는 문장이 들어 있습니다. 세어 봤어요.
+KATHARINA: Einundsechzig Mal «nicht zuständig» für ein einziges Grundstück.
+> 땅 하나에 '소관 아님'이 61번.
+TOBIAS: Das ist nicht das Versagen eines Einzelnen. Das ist ein System, in dem jeder für sich korrekt handelt und das Ganze trotzdem scheitert.
+> 이건 한 사람의 실패가 아니야. 각자는 규정대로 움직이는데 전체는 실패하는 시스템이지.
+PAUL: Organisierte Unzuständigkeit. So haben wir das beim Zoll genannt, wenn drei Behörden denselben Container gleichzeitig nicht kontrolliert haben.
+> 조직화된 무책임이죠. 관세청에선 세 기관이 같은 컨테이너를 동시에 검사하지 않았을 때 그렇게 불렀습니다.
+SELIN: Und das ist nur ein Projekt. Ich habe stichprobenartig drei weitere geprüft. Das Muster ist dasselbe, nur kürzer.
+> 그리고 이건 프로젝트 하나일 뿐이야. 표본으로 세 건을 더 봤는데, 패턴은 같고 길이만 짧아.
+KATHARINA: Gut. Dann formulieren wir die Feststellungen. Tobias, du übernimmst die Kosten. Selin, die Zeitleiste. Herr Dr. Asante, die Vergaben.
+> 좋아. 그럼 발견 사항을 정리하자. 토비아스는 비용, 셀린은 타임라인, 아산테 박사님은 발주.
+TOBIAS: Feststellung eins, Entwurf: «Die durchschnittliche Dauer vom Bauantrag bis zur Baugenehmigung betrug im Prüfungszeitraum vierzehn Monate. Die Bauaufsicht des zuständigen Bezirks hatte nach eigenen Angaben neun von dreiundzwanzig Stellen nicht besetzt.»
+> 발견 사항 1, 초안. '감사 대상 기간 중 건축 허가 신청부터 허가까지의 평균 소요 기간은 14개월이었다. 관할 구청의 건축감독과는 자체 진술에 따르면 23개 직위 중 9개가 공석이었다.'
+SELIN: Feststellung zwei: «Im Zeitraum von vier Jahren wurden die für den Neubau maßgeblichen Vorgaben des Senats dreimal geändert. Infolgedessen mussten neun von achtunddreißig Projekten nach Abschluss der Entwurfsplanung umgeplant werden.»
+> 발견 사항 2. '4년 동안 신축에 적용되는 주 정부 지침이 세 차례 변경되었다. 그 결과 38개 프로젝트 중 9개가 기본설계 완료 후 재설계되어야 했다.'
+PAUL: Feststellung drei: «Bei vierzig Prozent der Ausschreibungen ging lediglich ein Angebot ein. Befragte Unternehmen gaben an, die Häufigkeit nachträglicher Planungsänderungen mache eine Kalkulation unwirtschaftlich.»
+> 발견 사항 3. '입찰의 40퍼센트에서 응찰은 단 한 건에 그쳤다. 조사 대상 기업들은 사후 설계 변경이 잦아 견적 산출이 수지에 맞지 않는다고 진술하였다.'
+KATHARINA: Gut — genau so. Konjunktiv bei allem, was andere behauptet haben, Indikativ bei allem, was wir selbst belegt haben.
+> 좋아, 바로 그거야. 남이 주장한 건 접속법으로, 우리가 직접 입증한 건 직설법으로.
+SELIN: Also: «Das Bezirksamt erklärte, es habe von dem Vorgang keine Kenntnis gehabt» — und nicht: «Das Bezirksamt hatte keine Kenntnis.»
+> 그러니까 '구청은 해당 사안을 알지 못했다고 진술하였다'라고 쓰고, '구청은 알지 못했다'라고는 쓰지 않는 거지.
+KATHARINA: Genau. Das eine ist ihre Aussage, das andere wäre unsere Behauptung. Der Unterschied ist ein Buchstabe, und vor Gericht ist er alles.
+> 맞아. 하나는 그쪽의 진술이고, 다른 하나는 우리의 주장이 되는 거야. 차이는 글자 하나지만, 법정에선 그게 전부야.
+SELIN: Und Spreewohnen selbst? Wir können nicht so tun, als wären nur die Behörden schuld.
+> 그리고 슈프레보넨 자체는? 관청만 잘못한 것처럼 할 순 없잖아.
+TOBIAS: Feststellung vier: «Die Schlussrechnungen der Generalunternehmer lagen im Mittel dreiundzwanzig Prozent über dem Auftragswert. Eine systematische Prüfung der Nachträge fand aufgrund unbesetzter Projektleiterstellen nicht statt.»
+> 발견 사항 4. '종합건설사의 최종 정산액은 평균적으로 계약 금액보다 23퍼센트 높았다. 프로젝트 매니저 직위가 비어 있어 추가 청구에 대한 체계적 검토는 이루어지지 않았다.'
+PAUL: Und Feststellung fünf ist eigentlich die wichtigste: Niemand führt eine gemeinsame Übersicht. Jede Stelle kennt nur ihren eigenen Teil des Fahrplans.
+> 그리고 사실 발견 사항 5가 가장 중요합니다. 공동 현황표를 관리하는 주체가 아무도 없다는 것. 각 기관이 운행표에서 자기 몫만 알고 있어요.
+KATHARINA: Ein Fahrplan, den niemand ganz kennt, und ein Zug, der nie losfährt.
+> 아무도 전체를 모르는 운행표, 그리고 한 번도 출발하지 않는 기차.
+TOBIAS: Was kostet das Ganze? Allein die Verzögerung bei Wuhlheide-Süd: Baupreissteigerung, Planungskosten, Zinsen. Ich komme auf neunzehn Millionen Euro Mehrkosten.
+> 전체 비용은? 불하이데 남부 지연만 따져도 건설물가 상승, 설계비, 이자. 추가 비용이 1,900만 유로로 나와.
+SELIN: Neunzehn Millionen für ein Grundstück, auf dem nichts steht.
+> 아무것도 없는 땅 하나에 1,900만 유로.
+KATHARINA: Und bei zweihundertvierzig Wohnungen sind das fast achtzigtausend Euro pro Wohnung, bevor überhaupt ein Stein gesetzt wurde.
+> 240세대면 벽돌 하나 놓기도 전에 세대당 거의 8만 유로야.
+PAUL: Diese Zahl wird im Ausschuss niemand gern hören.
+> 그 숫자는 위원회에서 아무도 듣고 싶어 하지 않을 겁니다.
+KATHARINA: Dann ist es die richtige Zahl.
+> 그럼 맞는 숫자인 거죠.
+
+## 갈등 — STELLUNGNAHMEN
+SEIDEL: Frau Dr. Brandt, die Stellungnahmen zum Entwurf sind eingegangen. Herr Brömmel akzeptiert Feststellung vier, wenn auch zähneknirschend. Aber die Senatsverwaltung …
+> 브란트 박사님, 초안에 대한 의견서가 들어왔습니다. 브뢰멜 대표는 이를 갈면서도 발견 사항 4를 받아들였어요. 그런데 주 정부 부처가…
+KATHARINA: … ist nicht einverstanden.
+> …동의하지 않는군요.
+SEIDEL: Staatssekretär Dr. Hahne möchte Sie persönlich sprechen. Heute noch.
+> 하네 차관이 박사님을 직접 만나고 싶어 합니다. 오늘 중으로요.
+HAHNE: Frau Dr. Brandt, ich halte mich nicht lange auf. Ihr Auftrag lautet, das Management von Spreewohnen zu prüfen, nicht die Senatsverwaltung.
+> 브란트 박사님, 오래 붙잡지 않겠습니다. 박사님이 받은 의뢰는 슈프레보넨 경영을 감사하는 것이지 주 정부 부처를 감사하는 게 아닙니다.
+KATHARINA: Unser Auftrag lautet, zu klären, warum Spreewohnen nur die Hälfte seines Ziels erreicht. Ein Teil der Antwort liegt in Ihrem Haus.
+> 저희 의뢰는 슈프레보넨이 왜 목표의 절반만 달성하는지 밝히는 겁니다. 그 답의 일부가 차관님 부처에 있어요.
+HAHNE: Die Senatsverwaltung ist kein Prüfobjekt eines Gutachters, den eine landeseigene Gesellschaft bezahlt. Dafür gibt es den Rechnungshof.
+> 주 정부 부처는 공기업이 돈을 대는 감정인의 감사 대상이 아닙니다. 그러라고 감사원이 있는 거죠.
+TOBIAS: Wir prüfen Ihr Haus auch nicht, Herr Staatssekretär. Wir zitieren nur Ihre eigenen Briefe.
+> 저희는 차관님 부처를 감사하는 게 아닙니다, 차관님. 차관님 부처의 편지를 인용할 뿐이에요.
+HAHNE: Aus dem Zusammenhang gerissen. Die Änderung des Energiestandards war eine politische Entscheidung für den Klimaschutz, und die Kita-Vorgabe ist ein Versprechen an die Familien dieser Stadt. Soll ich mich dafür entschuldigen?
+> 맥락을 잘라 낸 인용이죠. 에너지 기준 변경은 기후 보호를 위한 정치적 결정이었고, 어린이집 지침은 이 도시 가정들에 대한 약속입니다. 그걸 사과하라는 겁니까?
+SELIN: Niemand verlangt eine Entschuldigung für die Ziele. Wir stellen fest, dass sie geändert wurden, nachdem die Planungen bereits abgeschlossen waren.
+> 목표에 대해 사과하라는 사람은 없습니다. 저희는 설계가 이미 끝난 뒤에 목표가 바뀌었다는 사실을 확인할 뿐이에요.
+HAHNE: Frau Aydın, Politik findet nicht im Takt Ihrer Projektpläne statt.
+> 아이든 씨, 정치는 당신 프로젝트 일정표의 박자에 맞춰 움직이지 않습니다.
+KATHARINA: Das verlangt auch niemand. Aber wenn Politik ihre Ziele ändert, sollte sie wissen, was das kostet. Bei Wuhlheide-Süd waren es neunzehn Millionen Euro.
+> 그걸 요구하는 사람도 없어요. 하지만 정치가 목표를 바꿀 때는 그게 얼마짜리인지 알아야 하죠. 불하이데 남부의 경우 1,900만 유로였습니다.
+HAHNE: Ich bitte Sie, die Feststellungen zwei und fünf zu streichen oder zumindest in einen Anhang zu verschieben. Andernfalls wird die Senatsverwaltung den Bericht öffentlich zurückweisen.
+> 발견 사항 2와 5를 삭제하거나 최소한 부록으로 옮겨 주십시오. 그렇지 않으면 주 정부 부처는 보고서를 공개적으로 반박할 겁니다.
+KATHARINA: Das ist Ihr gutes Recht. Ihre Stellungnahme drucken wir vollständig im Bericht ab. Streichen werden wir nichts, was belegt ist.
+> 그건 차관님의 정당한 권리입니다. 차관님 의견서는 보고서에 전문 그대로 싣겠습니다. 입증된 건 아무것도 삭제하지 않을 거고요.
+HAHNE: Dann sehen wir uns im Ausschuss, Frau Dr. Brandt.
+> 그럼 위원회에서 뵙죠, 브란트 박사님.
+TOBIAS: Katharina, darf ich etwas sagen, das dir nicht gefallen wird?
+> 카타리나, 네 마음에 안 들 말 하나 해도 돼?
+KATHARINA: Das sagst du doch sowieso.
+> 어차피 할 거잖아.
+TOBIAS: Der Senat ist der größte öffentliche Auftraggeber in Berlin. Wenn wir uns mit unserem ersten Bericht einen Staatssekretär zum Feind machen, bekommen wir in dieser Stadt so schnell kein zweites Mandat.
+> 주 정부는 베를린 최대의 공공 발주처야. 첫 보고서로 차관 하나를 적으로 돌리면 이 도시에서 두 번째 수임은 한동안 없을 거야.
+SELIN: Und wenn wir streichen, haben wir überhaupt keinen Grund mehr, ein zweites Mandat zu bekommen.
+> 그리고 삭제하면, 두 번째 수임을 받을 이유가 아예 없어지고.
+TOBIAS: Ich rede nicht vom Streichen. Ich rede vom Ton. Man kann dieselbe Feststellung so schreiben, dass sie wie ein Vorwurf klingt, oder so, dass sie wie eine Einladung klingt.
+> 삭제하자는 게 아니야. 어조 얘기야. 같은 발견 사항도 비난처럼 들리게 쓸 수 있고, 초대처럼 들리게 쓸 수도 있어.
+PAUL: Herr Wendt hat nicht ganz unrecht. In der Fahndung haben wir gelernt: Wer sich angegriffen fühlt, hört auf zuzuhören.
+> 벤트 씨 말이 아주 틀린 건 아닙니다. 수사할 때 배운 게 있어요. 공격당한다고 느끼는 사람은 듣기를 멈춥니다.
+SELIN: Und wer sich nie angegriffen fühlt, ändert nichts.
+> 그리고 한 번도 공격당한다고 느끼지 않는 사람은 아무것도 바꾸지 않아요.
+KATHARINA: Ihr habt beide recht, und genau deshalb ändern wir nicht die Feststellungen, sondern die Empfehlungen. Die Feststellungen bleiben hart. Die Empfehlungen machen wir so, dass jeder Beteiligte etwas davon hat.
+> 둘 다 맞아. 그래서 발견 사항은 그대로 두고 권고를 바꾸는 거야. 발견 사항은 단단하게, 권고는 모든 관계자가 얻는 게 있도록.
+TOBIAS: Zum Beispiel?
+> 예를 들면?
+KATHARINA: Zum Beispiel eine gemeinsame Genehmigungsstelle von Bezirk, Senat und Gesellschaft, mit verbindlichen Fristen. Dann ist nicht mehr die Frage, wer zuständig ist, sondern wer bis wann entscheidet.
+> 예를 들면 구청, 주 정부, 회사가 함께하는 공동 인허가 창구. 구속력 있는 기한을 두고. 그러면 더 이상 누가 소관이냐가 아니라 누가 언제까지 결정하느냐가 문제가 되지.
+SELIN: Und eine Empfehlung an Spreewohnen, die genauso konkret ist. Sonst sieht es aus, als würden wir die Gesellschaft schonen, die uns bezahlt.
+> 그리고 슈프레보넨에 대한 권고도 똑같이 구체적이어야 해. 안 그러면 돈 대는 회사를 봐주는 것처럼 보일 거야.
+TOBIAS: Einverstanden. Harte Feststellungen, faire Empfehlungen. Und die Kostentabelle schreibe ich so, dass Hahne sie lesen kann, ohne sich beleidigt zu fühlen.
+> 동의해. 발견 사항은 단단하게, 권고는 공정하게. 그리고 비용표는 하네가 기분 상하지 않고 읽을 수 있게 쓸게.
+UTE: Entschuldigung, dass ich störe. Die Zeitung hat angerufen. Eine Frau vom Tagesblatt fragt, ob es stimmt, dass Spreewohnen neunzehn Millionen «versenkt» habe.
+> 끼어들어서 미안해요. 신문사에서 전화 왔어요. 타게스블라트 기자가 슈프레보넨이 1,900만 유로를 '날렸다'는 게 사실이냐고 묻네요.
+SELIN: Woher hat sie die Zahl? Die steht nur im Entwurf.
+> 그 숫자를 어디서 알았지? 초안에만 있는 건데.
+PAUL: Der Entwurf ging an fünf Stellen zur Stellungnahme. Irgendjemand hat ein Interesse daran, dass die Geschichte vor der Sitzung «versenkt» heißt und nicht «verzögert».
+> 초안은 의견 수렴용으로 다섯 곳에 갔습니다. 누군가는 회의 전에 이 이야기가 '지연'이 아니라 '날렸다'로 불리길 원하는 거죠.
+KATHARINA: Ute — Frau Hennig, bitte sagen Sie der Journalistin, dass wir uns vor der Ausschusssitzung nicht äußern. Und dass das Wort «versenkt» nicht von uns stammt.
+> 우테 — 헤니히 씨, 기자한테 위원회 회의 전에는 입장을 밝히지 않는다고 전해 주세요. 그리고 '날렸다'는 말은 저희 표현이 아니라고요.
+UTE: Hab ich schon gesagt. Sie hat gefragt, ob ich zitiert werden möchte. Ich hab gesagt: Nur mit Foto.
+> 이미 말했어요. 인용해도 되냐고 묻길래 그랬죠. 사진이랑 같이면요.
+TOBIAS: Ute, das ist nicht hilfreich.
+> 우테, 그건 도움이 안 돼요.
+UTE: Aber lustig. Und Sie haben eben «Ute» gesagt, Herr Wendt. Merken Sie sich das für später.
+> 그래도 웃기잖아요. 그리고 방금 '우테'라고 하셨네요, 벤트 씨. 나중을 위해 기억해 두세요.
+KATHARINA: Über Vornamen reden wir nach der Sitzung. Jetzt brauche ich eine Generalprobe. Tobias, du spielst den Staatssekretär.
+> 이름 얘기는 회의 끝나고 하자. 지금은 리허설이 필요해. 토비아스, 네가 차관 역 해.
+TOBIAS: Mit Vergnügen. «Frau Dr. Brandt, Politik findet nicht im Takt Ihrer Projektpläne statt.»
+> 기꺼이. '브란트 박사님, 정치는 박사님 프로젝트 일정표의 박자에 맞춰 움직이지 않습니다.'
+
+## 해결·설득 — AUSSCHUSS FÜR STADTENTWICKLUNG, BAUEN UND WOHNEN
+VORSITZENDE: Wir kommen zu Tagesordnungspunkt drei, dem Prüfbericht zur Neubautätigkeit der Spreewohnen GmbH. Frau Dr. Brandt, Sie haben zehn Minuten.
+> 의사일정 제3항, 슈프레보넨 유한회사의 신축 실적에 관한 감사보고서로 넘어가겠습니다. 브란트 박사님, 10분 드리겠습니다.
+KATHARINA: Vielen Dank, Frau Vorsitzende. Spreewohnen hat in den vergangenen drei Jahren durchschnittlich gut die Hälfte des vereinbarten Neubauziels erreicht. Unsere Prüfung kommt zu dem Ergebnis, dass diese Zielverfehlung nicht auf eine einzelne Ursache zurückzuführen ist, sondern auf das Zusammenwirken von fünf Faktoren.
+> 감사합니다, 위원장님. 슈프레보넨은 지난 3년간 합의된 신축 목표의 평균 절반 남짓을 달성했습니다. 저희 감사 결과, 이 목표 미달은 하나의 원인이 아니라 다섯 가지 요인의 상호작용에서 비롯된 것으로 나타났습니다.
+KATHARINA: Erstens die Dauer der Genehmigungsverfahren, zweitens die wiederholte Änderung politischer Vorgaben nach Abschluss der Planung, drittens der Mangel an Wettbewerb in den Vergaben. Viertens die unzureichende Kontrolle der Nachträge im Unternehmen selbst — und fünftens das Fehlen einer gemeinsamen Steuerung aller Beteiligten.
+> 첫째, 인허가 절차의 소요 기간. 둘째, 설계 완료 후 정치적 지침의 반복적 변경. 셋째, 발주 과정의 경쟁 부족. 넷째, 회사 내부의 추가 청구 통제 미흡. 그리고 다섯째, 모든 관계자를 아우르는 공동 관리 체계의 부재입니다.
+KUNZE: Frau Dr. Brandt, Sie wurden von Spreewohnen bezahlt. Ist es nicht bequem, die Schuld beim Senat und bei den Bezirken abzuladen?
+> 브란트 박사님, 박사님은 슈프레보넨에서 돈을 받으셨죠. 책임을 주 정부와 구청에 떠넘기는 게 편하지 않습니까?
+KATHARINA: Herr Abgeordneter, Feststellung vier betrifft ausschließlich die Gesellschaft, und sie ist die teuerste. Die Geschäftsführung hat ihr in ihrer Stellungnahme nicht widersprochen. Wir verteilen keine Schuld, wir beschreiben Ursachen.
+> 의원님, 발견 사항 4는 전적으로 회사에 관한 것이고, 가장 비용이 큰 항목입니다. 경영진은 의견서에서 이를 반박하지 않았습니다. 저희는 책임을 나눠 주는 게 아니라 원인을 기술하는 겁니다.
+KUNZE: Und warum sollten wir einem Bericht glauben, dessen Verfasserin vor einem Jahr noch ein Industrieunternehmen geführt hat?
+> 그리고 1년 전만 해도 제조 기업을 경영하던 사람이 쓴 보고서를 우리가 왜 믿어야 합니까?
+KATHARINA: Sie müssen mir nicht glauben, Herr Abgeordneter. Sie können jede Zahl in Anlage drei nachprüfen; wir haben die Quellen zu allen dreihundertzwölf Vorgängen beigefügt.
+> 저를 믿으실 필요는 없습니다, 의원님. 부록 3의 모든 숫자를 직접 확인하실 수 있습니다. 312건 전부의 출처를 첨부했습니다.
+YILDIZ: Neunzehn Millionen Euro für ein Grundstück ohne ein einziges Haus. Zeigt das nicht, dass öffentliche Wohnungsunternehmen schlicht nicht bauen können? Oder, andersherum gefragt: dass die Stadt ohne Vergesellschaftung nie genug Wohnungen haben wird?
+> 집 한 채 없는 땅에 1,900만 유로. 공공 주택회사는 그냥 집을 못 짓는다는 걸 보여 주는 것 아닙니까? 아니면 거꾸로 묻죠. 공유화 없이는 이 도시에 주택이 절대 충분해지지 않는다는 것 아닙니까?
+KATHARINA: Frau Abgeordnete, ob Wohnungen vergesellschaftet werden sollen, ist eine politische Frage, die dieses Haus entscheiden muss, nicht unser Bericht. Wir stellen fest: Wer ein Haus bauen will, braucht verlässliche Regeln, besetzte Stellen und eine Behörde, die entscheidet — egal, wem das Haus am Ende gehört.
+> 의원님, 주택을 공유화할지는 이 의회가 결정할 정치적 문제이지 저희 보고서가 판단할 문제가 아닙니다. 저희가 확인한 건 이겁니다. 집을 지으려면 믿을 수 있는 규칙, 채워진 직위, 그리고 결정을 내리는 관청이 필요합니다. 결국 그 집이 누구 소유가 되든 말이죠.
+VORSITZENDE: Herr Staatssekretär Dr. Hahne, Sie wollten Stellung nehmen.
+> 하네 차관님, 의견을 말씀하시겠다고 하셨죠.
+HAHNE: Danke. Die Senatsverwaltung hat die Ziele für Klimaschutz und Kinderbetreuung bewusst gesetzt. Die Umsetzung im Einzelfall, insbesondere die Abstimmung zwischen Bezirk und Gesellschaft, liegt nicht in unserer Zuständigkeit.
+> 감사합니다. 주 정부 부처는 기후 보호와 보육 목표를 의도적으로 설정했습니다. 개별 사안의 이행, 특히 구청과 회사 간의 조정은 저희 소관이 아닙니다.
+KATHARINA: Genau das ist das Problem, Herr Staatssekretär. In den Akten zu einem einzigen Projekt findet sich einundsechzig Mal der Satz, jemand sei nicht zuständig. Am Ende war niemand zuständig, und deshalb steht dort ein Bauzaun.
+> 바로 그게 문제입니다, 차관님. 프로젝트 하나의 서류에 '소관이 아니다'라는 문장이 61번 나옵니다. 결국 아무도 책임지지 않았고, 그래서 거기엔 공사 펜스만 서 있는 거죠.
+YILDIZ: Was empfehlen Sie konkret?
+> 구체적으로 무엇을 권고하십니까?
+KATHARINA: Erstens die Einrichtung einer gemeinsamen Genehmigungsstelle von Senat, Bezirken und landeseigenen Gesellschaften mit verbindlichen Entscheidungsfristen. Zweitens: Änderungen von Vorgaben gelten nur noch für Projekte, die noch nicht im Bauantrag sind.
+> 첫째, 주 정부, 구청, 공공 주택회사가 함께하는 공동 인허가 창구를 구속력 있는 결정 기한과 함께 설치할 것. 둘째, 지침 변경은 아직 건축 허가를 신청하지 않은 프로젝트에만 적용할 것.
+KATHARINA: Drittens: Die Gesellschaft besetzt die vier offenen Projektleiterstellen vorrangig und führt ein systematisches Nachtragsmanagement ein. Viertens: Ausschreibungen in kleineren Losen, damit sich wieder mittelständische Firmen bewerben.
+> 셋째, 회사는 공석인 프로젝트 매니저 네 자리를 우선 채우고 체계적인 추가 청구 관리를 도입할 것. 넷째, 중소 건설사들이 다시 응찰하도록 입찰을 더 작은 단위로 나눌 것.
+KUNZE: Und was bringt das? In Wohnungen, bitte, nicht in Prozent.
+> 그래서 그게 뭘 가져옵니까? 퍼센트 말고 주택 수로 말씀해 주세요.
+TOBIAS: Herr Abgeordneter, wenn ich darf: Nach unserer Modellrechnung ließen sich die Genehmigungszeiten auf etwa acht Monate senken. Das bedeutet bei gleicher Finanzierung rund sechshundert zusätzliche Wohnungen pro Jahr, ab dem dritten Jahr.
+> 의원님, 제가 말씀드려도 된다면, 저희 모형 계산으로는 인허가 기간을 약 8개월로 줄일 수 있습니다. 같은 재원으로 3년 차부터 매년 약 600호를 추가로 짓는다는 뜻입니다.
+KUNZE: Sechshundert. Das ist keine Kleinigkeit.
+> 600호. 작은 숫자가 아니군요.
+YILDIZ: Und die neunzehn Millionen? Bekommt die Stadt die zurück?
+> 그럼 1,900만 유로는요? 시가 돌려받습니까?
+TOBIAS: Nein, Frau Abgeordnete, die sind verloren. Man kann nur verhindern, dass sich so etwas wiederholt. Wuhlheide-Süd ist nicht das einzige Grundstück mit einem Bauzaun.
+> 아닙니다, 의원님. 그 돈은 사라졌습니다. 다시 반복되지 않게 막을 수 있을 뿐이죠. 공사 펜스만 있는 땅이 불하이데 남부 하나만은 아닙니다.
+HAHNE: Die Senatsverwaltung wird die Empfehlungen prüfen.
+> 주 정부 부처는 권고를 검토하겠습니다.
+YILDIZ: «Prüfen» heißt in diesem Haus erfahrungsgemäß «vergessen». Herr Staatssekretär: bis wann?
+> 이 의회에서 '검토하겠다'는 경험상 '잊겠다'는 뜻이죠. 차관님, 언제까지입니까?
+HAHNE: Ich werde dem Ausschuss im nächsten Quartal berichten.
+> 다음 분기에 위원회에 보고하겠습니다.
+VORSITZENDE: Herr Staatssekretär, ich darf für den Ausschuss festhalten: Wir erwarten in drei Monaten einen Bericht Ihres Hauses dazu, wer die gemeinsame Genehmigungsstelle bis wann einrichtet. Mit Namen.
+> 차관님, 위원회를 대표해 정리하겠습니다. 석 달 뒤까지 공동 인허가 창구를 누가 언제까지 설치할지에 대한 부처 보고서를 기대합니다. 담당자 이름과 함께요.
+HAHNE: Sie werden einen Namen bekommen, Frau Vorsitzende.
+> 이름을 받으시게 될 겁니다, 위원장님.
+SEIDEL: Frau Dr. Brandt, das ist mehr, als wir in drei Jahren Aufsichtsratssitzungen erreicht haben.
+> 브란트 박사님, 감사회 3년 동안 이룬 것보다 많네요.
+KATHARINA: Es ist ein Anfang. Aber ein Ausschuss vergisst schnell, wenn niemand nachfragt.
+> 시작일 뿐이에요. 아무도 다시 묻지 않으면 위원회는 금방 잊거든요.
+SEIDEL: Dann frage ich nach. In drei Monaten. Und der Aufsichtsrat möchte, dass Sie die Umsetzung bei uns ein Jahr lang begleiten.
+> 그럼 제가 묻겠습니다. 석 달 뒤에. 그리고 감사회는 박사님이 저희 회사의 이행 과정을 1년간 함께 점검해 주시길 바랍니다.
+
+## 마무리 — EINE RECHNUNG UND EIN VORNAME
+UTE: Post vom Finanzamt für Körperschaften. Wir haben eine Steuernummer. Ich habe gerade unsere erste Rechnung geschrieben. Fünfundneunzigtausend Euro netto, an Spreewohnen.
+> 법인 세무서에서 우편 왔어요. 세금번호 나왔어요. 방금 첫 청구서 썼어요. 순액 9만 5천 유로, 슈프레보넨 앞으로.
+SELIN: Die schönste Zahl der Woche, oder, Tobias? Schöner als sechshundert Wohnungen?
+> 이번 주 가장 아름다운 숫자지, 토비아스? 600호보다 더?
+TOBIAS: Die sechshundert Wohnungen gibt es noch nicht. Die Rechnung schon.
+> 600호는 아직 없잖아. 청구서는 있고.
+UTE: So, und jetzt mal was anderes. Ich werde den ganzen Tag «Frau Hennig» genannt, und jedes Mal fühle ich mich wie beim Arzt im Wartezimmer. Ich heiße Ute.
+> 자, 이제 다른 얘기 좀 하죠. 하루 종일 '헤니히 씨'라고 불리는데, 그때마다 병원 대기실에 앉아 있는 기분이에요. 난 우테예요.
+KATHARINA: Katharina. Und danke, Ute. Du hast mir in diesem Monat mehr abgenommen, als ich zugeben möchte.
+> 카타리나예요. 그리고 고마워, 우테. 이번 달에 네가 덜어 준 일이 내가 인정하고 싶은 것보다 많아.
+TOBIAS: Tobias. Ich habe dich ja ohnehin schon versehentlich geduzt.
+> 토비아스. 어차피 실수로 벌써 이름 불렀잖아.
+SELIN: Selin. Endlich. Ich habe dreimal fast «du» gesagt und mich gerade noch gebremst.
+> 셀린. 드디어. 세 번이나 말 놓을 뻔하다가 겨우 참았어.
+PAUL: Und ich, Frau Hennig?
+> 그럼 저는요, 헤니히 씨?
+UTE: Sie, Herr Doktor, sind erst seit sechs Wochen da. Probezeit. Wenn Sie in Frankfurt was Ordentliches abliefern, reden wir noch mal.
+> 박사님은 온 지 6주밖에 안 됐잖아요. 수습 기간이에요. 프랑크푸르트에서 제대로 된 걸 내놓으면 그때 다시 얘기해요.
+PAUL: Dann sollte ich wohl schnell einen Fall finden. Frau Dr. Brandt, gestern hat mich übrigens jemand aus Frankfurt angerufen. Ein Aufsichtsratsvorsitzender. Er wollte am Telefon nicht einmal den Namen seiner Firma nennen.
+> 그럼 빨리 사건 하나를 찾아야겠네요. 브란트 박사님, 그런데 어제 프랑크푸르트에서 누가 전화를 했어요. 감사회 의장이요. 전화로는 회사 이름도 말하려 하지 않더군요.
+KATHARINA: Und was hat er gesagt?
+> 뭐라고 했는데요?
+PAUL: Nur einen Satz: «Unsere Zahlen sind zu gut.» Ich fahre morgen früh mit dem ersten ICE.
+> 딱 한 문장이요. "저희 숫자가 너무 좋습니다." 내일 아침 첫 ICE로 가겠습니다.

@@ -1,0 +1,268 @@
+part: 3
+ep: 4
+title_de: Zu schön, um wahr zu sein
+title_ko: 믿기엔 너무 좋은
+scene: BWA 프랑크푸르트 지사(작센하우젠) → 프랑크푸르트 페헨하임, 첨단소재 기업 Vellmann Composites AG
+level: B2+→C1
+setting: 1월 중순 열흘간, 막 문을 연 작센하우젠 슈바이처 슈트라세의 BWA 지사와 페헨하임 산업단지의 Vellmann 본사·시험실
+cast: KATHARINA | Dr. Katharina Brandt · BWA 대표 (41)
+cast: TOBIAS | Tobias Wendt · BWA 재무감사 총괄 (37)
+cast: SELIN | Selin Aydın · BWA 파트너, 데이터 포렌식 (29)
+cast: PAUL | Dr. Paul Asante · BWA 프랑크푸르트 지사장, 전 관세수사관 (45)
+cast: UTE | Ute Hennig · BWA 사무실 매니저, 베를린에서 전화로 (61)
+cast: ALBERS | Dr. Georg Albers · Vellmann Composites AG 감사회 의장 (가상)
+cast: VELLMANN | Dr. Carsten Vellmann · Vellmann Composites AG 대표이사(CEO), 창업자의 아들 (가상)
+cast: ROTH | Nadine Roth · Vellmann Composites AG 재무이사(CFO) (가상)
+cast: BRENNER | Jonas Brenner · Vellmann 시험실 엔지니어 (가상)
+note: ※ 러시아의 우크라이나 침공 이후 독일은 '시대 전환(Zeitenwende)'을 선언하고 연방군 특별기금(1,000억 유로)을 만들었으며, 이후 국방비 일부를 부채제동장치에서 예외로 두는 등 방산 투자가 급증했습니다. 장갑재에 쓰이는 탄화붕소·탄화규소 세라믹 분말과 탄소섬유 원료의 상당 부분은 중국 등 소수 국가에 의존하며, 중국은 여러 핵심 원자재에 수출 통제를 도입했습니다. 독일에서 상장(Börsengang)하려면 연방금융감독청(BaFin)이 승인한 투자설명서(Prospekt)가 필요하고, 설명서 내용이 틀리면 서명한 경영진과 주관 은행이 책임을 집니다(Prospekthaftung). 군 관련 문서는 '대외비(VS-NfD)'로 분류될 수 있지만, 보안서약을 한 사람에게는 열람이 허용됩니다. Vellmann Composites AG와 등장인물은 모두 가상입니다. 표현 초점: die Prüfbescheinigung, der Börsengang, der Rohstoff, die Marge, Wenn etwas zu schön ist, um wahr zu sein …
+next: 3부 5화 — «Ein Umweg zu viel»(하나 많은 우회로) — 시험실 엔지니어가 셀린에게 접촉한다. 일부 장갑판의 방탄 시험 결과는 조작됐고, 민수용으로 신고한 고강도 섬유는 제3국의 유령회사를 거쳐 러시아로 흘러갔다. 파울이 화물 경로를 추적하고, 협박과 압박 속에서 보고서는 당국으로 향한다.
+
+## 도입 — SACHSENHAUSEN, ERSTER TAG
+UTE: Paul? Hier ist Ute aus Berlin. Ist das Frankfurter Büro schon eröffnet, oder steht ihr noch zwischen Kartons?
+> 파울? 베를린의 우테예요. 프랑크푸르트 사무실은 문 열었어요, 아니면 아직 상자 사이에 서 있어요?
+PAUL: Zwischen Kartons, aber mit Kaffee. Und Frau Hennig: Sie nennen mich Paul, aber ich soll weiter «Frau Hennig» sagen?
+> 상자 사이지만 커피는 있습니다. 그런데 헤니히 씨, 저는 파울이라고 부르시면서 저는 계속 '헤니히 씨'라고 해야 합니까?
+UTE: Probezeit, Herr Doktor. In Berlin ist das so. Ihr Klient ist übrigens schon unten. Er wollte nicht mal am Empfang seinen Namen sagen.
+> 수습 기간이잖아요, 박사님. 베를린에선 그래요. 그런데 고객은 벌써 아래층에 왔어요. 안내데스크에서도 이름을 안 밝히려 하더라고요.
+ALBERS: Dr. Georg Albers. Entschuldigen Sie die Geheimniskrämerei. Ich bin Vorsitzender des Aufsichtsrats der Vellmann Composites AG, und niemand im Vorstand weiß, dass ich hier bin.
+> 게오르크 알버스입니다. 비밀스럽게 굴어 죄송합니다. 저는 Vellmann Composites AG 감사회 의장이고, 이사회에선 아무도 제가 여기 온 걸 모릅니다.
+KATHARINA: Herr Dr. Albers, Sie haben am Telefon gesagt, Ihre Zahlen seien zu gut. Das hören wir selten als Beschwerde.
+> 알버스 박사님, 전화로 숫자가 너무 좋다고 하셨죠. 그게 불만으로 들리는 경우는 드문데요.
+ALBERS: Vellmann stellt Schutzplatten aus Keramik und Kohlefaser her, für Fahrzeuge und für Schutzwesten. Vor drei Jahren hatten wir vierundachtzig Millionen Euro Umsatz. Im letzten Geschäftsjahr waren es vierhundertzwanzig.
+> Vellmann은 세라믹과 탄소섬유로 차량용, 방탄조끼용 방호판을 만듭니다. 3년 전 매출이 8,400만 유로였어요. 지난 회계연도엔 4억 2천만 유로였습니다.
+TOBIAS: Das Fünffache in drei Jahren. Mit den Aufträgen der Bundeswehr ist das nicht unmöglich.
+> 3년 만에 다섯 배라. 연방군 수주가 있으면 불가능한 건 아니죠.
+ALBERS: Das dachte ich auch. Aber die operative Marge liegt bei einunddreißig Prozent. Die Konkurrenz kommt auf vierzehn, fünfzehn. Und in zehn Wochen wollen wir an die Börse.
+> 저도 그렇게 생각했습니다. 그런데 영업이익률이 31퍼센트예요. 경쟁사들은 14, 15퍼센트고요. 그리고 10주 뒤에 상장하려고 합니다.
+PAUL: Zehn Wochen. Und der Prospekt?
+> 10주라. 투자설명서는요?
+ALBERS: Liegt bei der BaFin zur Prüfung. Die Banken sind begeistert. Ich bin der Einzige im Aufsichtsrat, der nachts nicht schlafen kann.
+> BaFin에서 심사 중입니다. 은행들은 열광하고 있고요. 감사회에서 밤에 잠을 못 자는 사람은 저 하나뿐입니다.
+KATHARINA: Was genau sollen wir für Sie herausfinden?
+> 저희가 정확히 무엇을 밝혀 드려야 하나요?
+ALBERS: Ob diese Zahlen echt sind. Bevor ich als Aufsichtsratsvorsitzender eine Erklärung unterschreibe, die sechshundert Millionen Euro von Anlegern einsammeln soll.
+> 이 숫자가 진짜인지요. 감사회 의장으로서 투자자들에게서 6억 유로를 모으려는 서류에 서명하기 전에요.
+
+## 분석 — EINE MARGE WIE GEMALT
+SELIN: Ich habe die Daten, die Herr Dr. Albers als Aufsichtsrat einsehen darf: Jahresabschlüsse, Einkaufslisten, Prüfprotokolle. Fangen wir mit der Marge an?
+> 알버스 박사님이 감사회 자격으로 열람할 수 있는 자료를 받았어요. 결산서, 구매 목록, 시험 기록. 마진부터 볼까요?
+TOBIAS: Fang mit dem Einkauf an. Eine Marge wächst selten von allein. Entweder sind die Preise hoch oder die Kosten niedrig.
+> 구매부터 시작해. 마진은 저절로 크는 경우가 드물어. 가격이 높거나 비용이 낮거나지.
+SELIN: Die Preise sind normal. Vellmann verkauft an die Bundeswehr ungefähr zum Preis der Konkurrenz. Aber die Rohstoffkosten sind in drei Jahren von achtunddreißig auf einundzwanzig Prozent des Umsatzes gefallen.
+> 가격은 평범해요. 연방군에 경쟁사와 비슷한 가격으로 팔아요. 그런데 원자재 비용이 3년 만에 매출의 38퍼센트에서 21퍼센트로 떨어졌어요.
+TOBIAS: In einer Zeit, in der die Preise für Borcarbid und Kohlefaser weltweit gestiegen sind.
+> 탄화붕소와 탄소섬유 값이 전 세계적으로 오른 시기에 말이지.
+PAUL: Welche Lieferanten?
+> 공급업체는 어디죠?
+SELIN: Das ist das Seltsame. Vor drei Jahren kam das Borcarbidpulver von zwei Herstellern, einem chinesischen und einem europäischen. Seitdem hat der Einkauf sieben Mal den Lieferanten gewechselt.
+> 그게 이상해요. 3년 전엔 탄화붕소 분말을 두 제조사, 중국 한 곳과 유럽 한 곳에서 받았어요. 그 뒤로 구매처를 일곱 번이나 바꿨어요.
+PAUL: Hersteller oder Händler?
+> 제조사입니까, 중개상입니까?
+SELIN: Zuletzt nur noch Händler. Eine Handelsgesellschaft in Istanbul, eine in Dubai, eine in Rotterdam. Alle liefern Pulver chinesischer Herkunft, aber vierzig Prozent unter dem Marktpreis.
+> 최근엔 중개상뿐이에요. 이스탄불에 하나, 두바이에 하나, 로테르담에 하나. 전부 중국산 분말을 공급하는데, 시장가보다 40퍼센트 싸요.
+TOBIAS: Und wohin zahlt Vellmann? Ich will die Zahlungswege sehen, nicht nur die Rechnungen.
+> 그리고 Vellmann은 어디로 돈을 보내? 청구서 말고 돈의 흐름을 보고 싶어.
+SELIN: Bei zwei von drei Händlern gehen die Zahlungen nicht an die Firma selbst, sondern auf Konten in einem anderen Land. Das habe ich noch nicht zu Ende verfolgt.
+> 중개상 세 곳 중 두 곳은 돈이 그 회사가 아니라 다른 나라 계좌로 가. 그건 아직 끝까지 추적 못 했어.
+PAUL: Vierzig Prozent unter Markt für einen Rohstoff, bei dem China den Export kontrolliert. Wenn etwas zu schön ist, um wahr zu sein …
+> 중국이 수출을 통제하는 원자재가 시장가보다 40퍼센트 싸다. 믿기엔 너무 좋은 거라면…
+TOBIAS: … dann ist es meistens nicht wahr. Oder es ist wahr, und jemand anderes bezahlt den Preis.
+> …대개는 사실이 아니지. 아니면 사실인데, 다른 누군가가 그 값을 치르고 있거나.
+KATHARINA: Was könnte das bedeuten, Herr Dr. Asante?
+> 그게 뭘 의미할 수 있을까요, 아산테 박사님?
+PAUL: Drei Möglichkeiten. Entweder ist das Pulver nicht das, was auf dem Lieferschein steht. Oder der Preis ist nicht der Preis, weil Geld über einen zweiten Weg fließt. Oder die Ware kommt aus einer Quelle, die man lieber nicht nennt.
+> 세 가지 가능성이 있습니다. 분말이 납품서에 적힌 물건이 아니거나, 돈이 다른 경로로 흘러서 가격이 실제 가격이 아니거나, 아니면 이름을 밝히고 싶지 않은 출처에서 물건이 오거나.
+SELIN: Das ist noch nicht alles. Ich habe mir die Prüfbescheinigungen angesehen. Zu jeder ausgelieferten Charge gibt es eine Bescheinigung mit dem Ergebnis des Beschusstests.
+> 그게 다가 아니에요. 시험성적서도 봤어요. 출하된 모든 로트마다 사격 시험 결과가 담긴 성적서가 있어요.
+TOBIAS: Und?
+> 그래서?
+SELIN: Sie sind perfekt. Zweihundertzwölf Bescheinigungen der letzten achtzehn Monate, alle bestanden, alle mit fast identischen Werten. Die Streuung ist kleiner als bei den Referenzplatten des Prüfinstituts.
+> 완벽해. 지난 18개월 동안 성적서 212장, 전부 합격, 전부 거의 똑같은 수치. 편차가 시험기관 기준판보다도 작아.
+KATHARINA: Erklär das bitte für jemanden, der keine Statistik studiert hat.
+> 통계 공부 안 한 사람한테 설명해 줘.
+SELIN: Wenn man echte Platten beschießt, schwanken die Ergebnisse. Material ist nie ganz gleich, Munition auch nicht. Hier schwankt fast nichts. Und bei den letzten Ziffern kommen die Fünf und die Null fast doppelt so oft vor, wie sie dürften.
+> 진짜 판에 사격하면 결과가 흔들려. 재료는 절대 완전히 같지 않고 탄약도 마찬가지거든. 근데 여긴 거의 안 흔들려. 그리고 끝자리에 5와 0이 나와야 할 빈도의 거의 두 배로 나와.
+PAUL: Menschen, die Zahlen erfinden, mögen runde Zahlen. Das ist bei Zollerklärungen genauso.
+> 숫자를 지어내는 사람들은 딱 떨어지는 숫자를 좋아하죠. 세관 신고서도 똑같습니다.
+TOBIAS: Moment. Das ist ein statistischer Hinweis, kein Beweis. Vielleicht hat das Labor einfach eine sehr gute Qualitätskontrolle.
+> 잠깐. 그건 통계적 단서지 증거가 아니야. 시험실 품질 관리가 그냥 아주 좋은 걸 수도 있잖아.
+SELIN: Vielleicht. Dann sollten die Rohdaten der Messungen genauso sauber aussehen. Die haben wir aber nicht. Nur die fertigen Bescheinigungen.
+> 그럴 수도. 그럼 측정 원자료도 똑같이 깔끔해야겠지. 근데 그건 우리한테 없어. 완성된 성적서뿐이야.
+KATHARINA: Dann brauchen wir die Rohdaten, die Lieferverträge und Gespräche mit dem Einkauf und dem Labor.
+> 그럼 원자료, 공급 계약서, 그리고 구매팀과 시험실 인터뷰가 필요하네.
+ALBERS: Das wird der Vorstand nicht gern sehen. Ich beantrage morgen eine außerordentliche Sitzung und stelle Sie als vom Aufsichtsrat beauftragte Prüfer vor.
+> 이사회가 반기지 않을 겁니다. 내일 임시 회의를 소집해서 감사회가 위임한 감사인으로 여러분을 소개하겠습니다.
+UTE: Kleine Frage aus Berlin: Wer von euch hat eigentlich eine Sicherheitsüberprüfung? Ich lese hier gerade, dass man bei Rüstungsfirmen ohne die nicht mal aufs Klo darf.
+> 베를린에서 작은 질문 하나요. 당신들 중에 보안 인가 받은 사람 있어요? 방산 회사는 그거 없으면 화장실도 못 간다고 지금 읽고 있거든요.
+PAUL: Ich. Aus meiner Zeit beim Zoll. Und der Rest bekommt eine Verpflichtung für Verschlusssachen, Stufe «Nur für den Dienstgebrauch». Das reicht für die meisten Unterlagen.
+> 접니다. 관세청 시절에 받았어요. 나머지는 대외비 등급 비밀취급 서약을 하면 됩니다. 대부분의 서류는 그걸로 충분해요.
+UTE: Gut. Dann buche ich die Hotelzimmer schon mal für zwei Wochen. Und Katharina: Das ist kein Vorschlag.
+> 좋아요. 그럼 호텔 방은 2주로 잡아 둘게요. 그리고 카타리나, 이건 제안이 아니에요.
+KATHARINA: Ich wollte gar nicht widersprechen.
+> 반대하려던 거 아니었어.
+UTE: Du hast Luft geholt. Das reicht mir.
+> 숨 들이쉬었잖아. 그걸로 충분해.
+PAUL: Frau Hennig, an Ihnen ist eine hervorragende Vernehmungsbeamtin verloren gegangen.
+> 헤니히 씨는 훌륭한 신문 담당 수사관이 되셨을 텐데 아깝네요.
+TOBIAS: Eine Frage noch, Herr Dr. Albers: Wer im Vorstand verantwortet Einkauf und Qualität?
+> 하나만 더요, 알버스 박사님. 이사회에서 구매와 품질은 누가 책임집니까?
+ALBERS: Beides der Vorstandsvorsitzende selbst, Dr. Carsten Vellmann. Der Sohn des Gründers. Er hat die Firma aus einer Garage in Fechenheim zu dem gemacht, was sie heute ist.
+> 둘 다 대표이사 본인, 카르스텐 벨만 박사입니다. 창업자의 아들이죠. 페헨하임의 차고에서 시작한 회사를 지금의 회사로 만든 사람입니다.
+KATHARINA: Und vermutlich hört er nicht gern, dass jemand diese Geschichte nachprüfen will.
+> 그리고 누군가 그 이야기를 검증하겠다는 말은 아마 듣기 싫어하겠죠.
+
+## 갈등 — NATIONALE SICHERHEIT
+VELLMANN: Frau Dr. Brandt, ich habe größten Respekt vor Ihrer Arbeit bei Ebersbach. Aber Sie verstehen sicher, dass wir hier nicht über Getriebe reden. Wir schützen das Leben von Soldaten.
+> 브란트 박사님, 에버스바흐에서 하신 일엔 깊은 존경을 표합니다. 하지만 여기서 저희가 변속기 얘기를 하는 게 아니라는 건 이해하시겠죠. 저희는 군인의 생명을 지킵니다.
+KATHARINA: Genau deshalb sind wir hier, Herr Dr. Vellmann.
+> 바로 그래서 저희가 여기 있는 겁니다, 벨만 박사님.
+VELLMANN: Unsere Lieferverträge mit dem Bundesamt für Ausrüstung sind als Verschlusssache eingestuft. Unsere Lieferanten unterliegen Vertraulichkeitsvereinbarungen. Und unsere Prüfverfahren sind Betriebsgeheimnisse.
+> 연방 조달청과의 공급 계약은 비밀로 분류돼 있습니다. 공급업체들은 비밀유지 약정을 맺고 있고, 시험 절차는 영업비밀입니다.
+PAUL: Verschlusssache, Stufe «Nur für den Dienstgebrauch», wenn ich richtig informiert bin. Wir haben alle drei die entsprechende Verpflichtung unterschrieben. Ich darf sogar höhere Stufen einsehen.
+> 제가 알기로는 대외비 등급이죠. 저희 셋 다 해당 서약서에 서명했습니다. 저는 그보다 높은 등급도 열람할 수 있고요.
+VELLMANN: Es geht nicht nur um Formalien, Herr Asante. Es geht um nationale Sicherheit. Je weniger Menschen wissen, woher unser Material kommt, desto besser.
+> 형식만의 문제가 아닙니다, 아산테 씨. 국가 안보의 문제예요. 저희 재료가 어디서 오는지 아는 사람이 적을수록 좋습니다.
+TOBIAS: Das sehen die Investoren beim Börsengang vermutlich anders. Im Prospekt steht auf Seite zweiundachtzig, Ihre Lieferkette sei «diversifiziert und resilient».
+> 상장 때 투자자들은 아마 다르게 볼 겁니다. 설명서 82쪽에 귀사 공급망이 '다변화되어 있고 회복력이 있다'고 적혀 있거든요.
+ROTH: Das ist sie auch. Sieben Lieferanten in drei Jahren sind das Gegenteil einer Abhängigkeit.
+> 실제로 그렇습니다. 3년간 공급업체 일곱 곳이면 의존의 정반대죠.
+SELIN: Oder das Gegenteil von Stabilität. Frau Roth, warum kaufen Sie bei einem Händler in Dubai, der erst seit vierzehn Monaten im Handelsregister steht?
+> 아니면 안정성의 정반대이거나요. 로트 이사님, 왜 상업등기에 오른 지 14개월밖에 안 된 두바이 중개상에게서 사시나요?
+ROTH: Weil er liefert, wenn andere nicht liefern. Seit China die Ausfuhren beschränkt, ist der Markt leergefegt. Wir haben Lösungen gefunden. Dafür werden wir bezahlt.
+> 다른 데가 못 줄 때 그쪽은 주니까요. 중국이 수출을 제한한 뒤로 시장이 텅 비었어요. 저희는 해법을 찾았고, 그래서 돈을 받는 겁니다.
+PAUL: Zu vierzig Prozent unter dem Marktpreis?
+> 시장가보다 40퍼센트 싸게요?
+ROTH: Wir verhandeln gut.
+> 저희가 협상을 잘하거든요.
+PAUL: So gut verhandelt niemand, Frau Roth. Nicht in einem leergefegten Markt.
+> 그렇게 협상을 잘하는 사람은 없습니다, 로트 이사님. 텅 빈 시장에서는요.
+VELLMANN: Herr Dr. Albers, ich muss das in aller Deutlichkeit sagen. Dieses Audit gefährdet den Börsengang. Wenn die Banken davon erfahren, verschieben sie den Termin, und dann verlieren wir das Zeitfenster.
+> 알버스 박사님, 분명히 말씀드려야겠습니다. 이번 감사는 상장을 위태롭게 합니다. 은행들이 알게 되면 일정을 연기할 거고, 그럼 저희는 시기를 놓칩니다.
+ALBERS: Die Banken wissen es, Carsten. Ich habe sie gestern informiert. Das ist meine Pflicht als Aufsichtsrat.
+> 은행들은 압니다, 카르스텐. 어제 제가 알렸어요. 감사회 의장으로서 제 의무입니다.
+VELLMANN: Sie haben … ohne Rücksprache mit dem Vorstand?
+> 이사회와 상의도 없이… 그러셨다고요?
+ALBERS: Genauso wie du die Lieferanten gewechselt hast, ohne den Aufsichtsrat zu fragen.
+> 자네가 감사회에 묻지도 않고 공급업체를 바꾼 것처럼 말이야.
+VELLMANN: Georg, ich habe diese Firma groß gemacht. Ohne mich gäbe es nichts, worüber ihr einen Bericht schreiben könntet.
+> 게오르크, 이 회사를 키운 건 나야. 내가 없었으면 당신들이 보고서를 쓸 거리도 없었을 거라고.
+ALBERS: Das bestreitet niemand. Aber eine Firma, die Soldaten schützt, gehört nicht mehr nur ihrem Gründer.
+> 아무도 그걸 부정하지 않아. 하지만 군인을 지키는 회사는 더 이상 창업자만의 것이 아니야.
+VELLMANN: Ich werde keine Rohdaten aus unserem Labor herausgeben, solange ich nicht weiß, wer am Ende einen Bericht darüber liest. Vielleicht ein Konkurrent. Vielleicht ein ausländischer Dienst.
+> 결국 누가 그 보고서를 읽을지 알기 전까지는 시험실 원자료를 내주지 않겠습니다. 경쟁사일 수도 있고, 외국 정보기관일 수도 있죠.
+SELIN: Ein ausländischer Dienst würde sich vermutlich eher für Ihre Lieferanten in Dubai interessieren als für unseren Bericht.
+> 외국 정보기관이라면 아마 저희 보고서보다는 두바이에 있는 귀사 공급업체에 더 관심이 있을 텐데요.
+VELLMANN: Frau Aydın, Sie sind in diesem Raum Gast.
+> 아이든 씨, 이 방에서 당신은 손님입니다.
+KATHARINA: Dann lassen Sie mich die Frage anders stellen, Herr Dr. Vellmann. In zehn Wochen unterschreiben Sie einen Prospekt, in dem steht, Ihre Produkte erfüllten alle vertraglichen Prüfanforderungen. Können Sie das unterschreiben?
+> 그럼 질문을 바꿔 보죠, 벨만 박사님. 10주 뒤에 박사님은 귀사 제품이 모든 계약상 시험 요건을 충족한다고 적힌 투자설명서에 서명하십니다. 서명하실 수 있습니까?
+VELLMANN: Selbstverständlich.
+> 물론입니다.
+KATHARINA: Ohne zu wissen, ob die Rohdaten Ihres eigenen Labors die Bescheinigungen bestätigen?
+> 자사 시험실의 원자료가 성적서를 뒷받침하는지 모르는 채로요?
+VELLMANN: Ich weiß, dass sie es tun.
+> 뒷받침한다는 걸 압니다.
+KATHARINA: Dann haben Sie nichts zu verlieren, wenn wir sie sehen. Und wenn Sie es nicht wissen, haften Sie für einen falschen Prospekt persönlich. Sie, Frau Roth und die Banken.
+> 그럼 저희가 그걸 봐도 잃을 게 없으시겠네요. 그리고 모르신다면, 잘못된 투자설명서에 대해 개인적으로 책임지시게 됩니다. 박사님, 로트 이사님, 그리고 은행들이요.
+ROTH: Das ist eine Drohung.
+> 그건 협박이에요.
+KATHARINA: Das ist Wertpapierrecht, Frau Roth. Ich habe es nicht geschrieben.
+> 그건 증권법입니다, 로트 이사님. 제가 쓴 게 아니에요.
+TOBIAS: Ich muss etwas einwerfen, Katharina. Wenn wir den Börsengang zum Platzen bringen und die Zahlen sich am Ende als echt erweisen, ist unser Ruf in Frankfurt erledigt. Und Vellmann verklagt uns auf Schadensersatz.
+> 카타리나, 한마디만 할게. 우리가 상장을 무산시켰는데 숫자가 결국 진짜로 밝혀지면, 프랑크푸르트에서 우리 평판은 끝이야. 그리고 Vellmann은 우리한테 손해배상 소송을 걸 거고.
+PAUL: Und wenn die Zahlen falsch sind und wir schweigen, dann steht ein Soldat mit einer Platte im Feld, die den Test nie bestanden hat.
+> 그리고 숫자가 거짓인데 우리가 입을 다물면, 시험을 통과한 적 없는 판을 입은 군인이 전장에 서게 되죠.
+TOBIAS: Das weiß ich, Paul. Ich sage nur: Wir haben einen statistischen Hinweis und einen merkwürdigen Einkaufspreis. Noch keinen Beweis.
+> 알아요, 파울. 내 말은, 우리한테 있는 건 통계적 단서와 이상한 구매가뿐이라는 거예요. 아직 증거는 없어요.
+SELIN: Dann holen wir uns den Beweis — oder die Entwarnung. Beides wäre ein Ergebnis.
+> 그럼 증거를 가져오면 되지. 아니면 문제없다는 확인을. 둘 다 결과야.
+KATHARINA: Und bis dahin gilt für uns alle dasselbe: Wir behaupten nichts, was wir nicht belegen können — weder gegenüber Vellmann noch gegenüber den Banken.
+> 그리고 그때까진 우리 모두에게 같은 원칙이야. 입증할 수 없는 건 주장하지 않는다. Vellmann에게도, 은행들에게도.
+TOBIAS: Einverstanden. Aber ab heute notiere ich jede Minute, wer uns was verweigert hat. Falls wir uns später verteidigen müssen.
+> 동의해. 하지만 오늘부터 누가 우리한테 뭘 거부했는지 분 단위로 적어 둘 거야. 나중에 우리가 방어해야 할 경우를 대비해서.
+PAUL: Willkommen in der Ermittlungsarbeit, Herr Wendt. Das nennt man Aktenvermerk.
+> 수사 업무에 오신 걸 환영합니다, 벤트 씨. 그걸 수사 메모라고 하죠.
+
+## 해결·설득 — DAS LABOR
+ALBERS: Der Vorstand hat sich beraten. Sie bekommen Zugang zum Labor, unter Aufsicht der Qualitätsleitung, und zu den Lieferverträgen der letzten zwei Jahre.
+> 이사회가 협의를 했습니다. 품질 책임자 입회하에 시험실 접근권, 그리고 최근 2년 공급 계약서 열람권을 드리겠답니다.
+KATHARINA: Und die Rohdaten?
+> 원자료는요?
+ALBERS: «Soweit vorhanden.» So steht es im Beschluss.
+> '보유하고 있는 범위 내에서.' 결의문에 그렇게 적혀 있습니다.
+PAUL: «Soweit vorhanden» ist die schönste Formulierung, die ein Ermittler lesen kann. Sie bedeutet: Es gibt etwas, das man vielleicht nicht findet.
+> '보유하고 있는 범위 내에서'는 수사관이 읽을 수 있는 가장 아름다운 문구입니다. 찾지 못할 수도 있는 뭔가가 있다는 뜻이거든요.
+BRENNER: Guten Tag. Jonas Brenner, ich bin Prüfingenieur. Herr Dr. Vellmann hat gesagt, ich soll Ihnen die Beschussanlage zeigen.
+> 안녕하세요. 요나스 브레너, 시험 엔지니어입니다. 벨만 박사님이 사격 시험장을 보여 드리라고 하셨어요.
+SELIN: Danke, Herr Brenner. Wie läuft ein Test bei Ihnen ab?
+> 감사합니다, 브레너 씨. 여기선 시험이 어떻게 진행되나요?
+BRENNER: Die Platte wird eingespannt, dann wird mit festgelegter Munition und Geschwindigkeit geschossen. Hochgeschwindigkeitskameras und Sensoren messen, ob und wie tief das Geschoss eindringt. Die Software schreibt alles automatisch in eine Datenbank.
+> 판을 고정한 다음 정해진 탄약과 속도로 사격합니다. 고속 카메라와 센서가 탄이 관통하는지, 얼마나 깊이 들어가는지 측정하고요. 소프트웨어가 모든 걸 자동으로 데이터베이스에 기록합니다.
+SELIN: Automatisch. Und die Prüfbescheinigung?
+> 자동으로요. 그럼 시험성적서는요?
+BRENNER: Die wird aus der Datenbank erzeugt und vom Laborleiter unterschrieben.
+> 데이터베이스에서 생성돼서 시험실장이 서명합니다.
+SELIN: Kann man in der Datenbank nachträglich etwas ändern?
+> 데이터베이스에서 나중에 뭔가를 고칠 수 있나요?
+BRENNER: … Eigentlich nicht.
+> …원래는 안 됩니다.
+PAUL: «Eigentlich» ist das zweitschönste Wort für einen Ermittler, Herr Brenner.
+> '원래는'은 수사관에게 두 번째로 아름다운 단어예요, 브레너 씨.
+BRENNER: Ich bin nur Ingenieur. Fragen Sie den Laborleiter.
+> 저는 엔지니어일 뿐이에요. 시험실장님께 물어보세요.
+SELIN: Herr Brenner, die Datenbank hat ein Änderungsprotokoll, oder? Jede Software dieser Art protokolliert, wer wann welchen Wert gespeichert hat.
+> 브레너 씨, 데이터베이스엔 변경 기록이 있죠? 이런 소프트웨어는 누가 언제 어떤 값을 저장했는지 다 기록하잖아요.
+BRENNER: Das Protokoll wird nach neunzig Tagen automatisch gelöscht. Das war schon immer so.
+> 변경 기록은 90일 지나면 자동으로 삭제됩니다. 원래 늘 그랬어요.
+PAUL: Wer hat diese Einstellung vorgenommen?
+> 그 설정은 누가 했습니까?
+BRENNER: Die IT, auf Anweisung von … das weiß ich nicht. Vor gut einem Jahr.
+> IT 팀이요, 지시한 사람은… 모르겠어요. 1년 좀 전에요.
+SELIN: Neunzig Tage. Dann sind die letzten drei Monate noch da.
+> 90일. 그럼 최근 석 달 치는 아직 남아 있네요.
+BRENNER: Ich … darf Ihnen dazu nichts sagen.
+> 저는… 그것에 대해 아무 말도 할 수 없어요.
+KATHARINA: Herr Dr. Vellmann, wir bitten um eine Kopie des Änderungsprotokolls der letzten neunzig Tage. Heute, bevor irgendetwas automatisch gelöscht wird.
+> 벨만 박사님, 최근 90일 치 변경 기록 사본을 요청합니다. 오늘이요. 뭔가가 자동으로 지워지기 전에.
+VELLMANN: Das Protokoll ist ein technisches Systemfile. Es enthält keine relevanten Informationen.
+> 그 기록은 기술적인 시스템 파일입니다. 관련 정보는 들어 있지 않아요.
+KATHARINA: Dann kostet es Sie nichts, es uns zu geben. Herr Dr. Vellmann, ich mache Ihnen einen Vorschlag. Wir sichern die Daten gemeinsam, Ihre IT und unsere Forensikerin, mit Prüfsumme und Protokoll. Niemand kann später sagen, wir hätten etwas verändert, und niemand kann sagen, Sie hätten etwas verschwinden lassen.
+> 그럼 주셔도 손해 볼 게 없으시겠죠. 벨만 박사님, 제안을 하나 드리겠습니다. 귀사 IT 팀과 저희 포렌식 담당이 함께 데이터를 확보하는 겁니다. 체크섬과 기록을 남겨서요. 나중에 누구도 저희가 뭔가를 바꿨다고 말할 수 없고, 누구도 박사님이 뭔가를 없앴다고 말할 수 없게요.
+ALBERS: Carsten, das ist ein faires Angebot. Wenn du jetzt Nein sagst, muss ich es den Banken mitteilen.
+> 카르스텐, 공정한 제안이야. 지금 거절하면 나는 은행에 알려야 해.
+VELLMANN: … Gut. Gemeinsam. Und unter Protest.
+> …좋습니다. 함께 하죠. 이의를 남기고요.
+TOBIAS: Unter Protest ist auch eine Zustimmung. Ich nehme sie.
+> 이의를 남긴 것도 동의는 동의죠. 받겠습니다.
+ROTH: Frau Dr. Brandt, ich hoffe, Sie wissen, was Sie anrichten, wenn Sie sich irren. Hier arbeiten zwölfhundert Menschen.
+> 브란트 박사님, 틀리셨을 때 무슨 일을 저지르게 되는지 아시길 바랍니다. 여기서 1,200명이 일해요.
+KATHARINA: Das weiß ich, Frau Roth. Und ich hoffe, Sie wissen, was es anrichtet, wenn wir recht haben und niemand nachgesehen hat.
+> 압니다, 로트 이사님. 그리고 저희가 옳은데 아무도 확인하지 않았을 때 무슨 일이 생기는지 이사님도 아시길 바랍니다.
+SELIN: Prüfsumme gesichert. Siebenundvierzigtausend Einträge. Das dauert ein paar Nächte.
+> 체크섬 확보 완료. 4만 7천 건. 며칠 밤은 걸리겠어.
+
+## 마무리 — EIN ZETTEL IM MANTEL
+UTE: Selin? Hier ist Ute. Hast du schon gegessen? Und sag jetzt nicht «Datenbank».
+> 셀린? 우테야. 밥은 먹었어? 그리고 지금 '데이터베이스'라고 하지 마.
+SELIN: Ein Brötchen am Bahnhof. Zählt das?
+> 역에서 빵 하나. 그것도 쳐줘?
+UTE: In Frankfurt vielleicht. In Berlin nicht.
+> 프랑크푸르트에선 몰라도, 베를린에선 안 쳐줘.
+TOBIAS: Ich muss etwas zugeben. Bei Ebersbach habe ich Rüstungsaufträge für eine Frage der Moral gehalten. Hier ist es plötzlich eine Frage der Physik. Hält die Platte oder nicht.
+> 하나 고백할게. 에버스바흐 때 난 방산 수주를 도덕의 문제로 봤어. 여기선 갑자기 물리학의 문제야. 판이 버티느냐, 못 버티느냐.
+KATHARINA: Und wenn sie nicht hält, ist es wieder eine Frage der Moral.
+> 그리고 못 버티면 다시 도덕의 문제가 되지.
+PAUL: Frau Aydın, haben Sie heute im Labor Ihren Mantel abgelegt?
+> 아이든 씨, 오늘 시험실에서 코트 벗어 두셨습니까?
+SELIN: Ja, in der Garderobe. Warum?
+> 네, 옷걸이에요. 왜요?
+PAUL: Dann schauen Sie in die rechte Tasche. Herr Brenner stand zwei Minuten zu lange an der Garderobe.
+> 그럼 오른쪽 주머니를 보세요. 브레너 씨가 옷걸이 앞에 2분이나 너무 오래 서 있었거든요.
+SELIN: … Ein Zettel. Eine Handynummer und ein Satz: «Nicht im Werk. Nicht am Telefon. Café am Mainufer, Samstag, zehn Uhr. Nur Sie.»
+> …쪽지네요. 휴대폰 번호와 한 문장. '공장에선 안 됨. 전화로도 안 됨. 마인강변 카페, 토요일 열 시. 당신 혼자만.'
+KATHARINA: Nur du? Das gefällt mir nicht.
+> 너 혼자? 마음에 안 드는데.
+PAUL: Mir gefällt es sehr. Wer so vorsichtig ist, hat Angst. Und wer Angst hat, weiß etwas.
+> 저는 아주 마음에 듭니다. 이렇게 조심하는 사람은 두려운 거고, 두려워하는 사람은 뭔가를 알고 있는 거죠.
+SELIN: Ich gehe hin. Allein am Tisch. Aber ihr sitzt zwei Tische weiter und tut so, als würdet ihr Zeitung lesen.
+> 갈게. 테이블엔 혼자 앉을 거야. 근데 너희는 두 테이블 떨어져 앉아서 신문 읽는 척해.

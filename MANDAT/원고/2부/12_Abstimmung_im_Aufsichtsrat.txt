@@ -1,0 +1,272 @@
+part: 2
+ep: 12
+title_de: Abstimmung im Aufsichtsrat
+title_ko: 감사회 표결
+scene: 감사회 회의, 하나우 본사
+level: B2
+setting: 6월 넷째 주 목요일 오전 여덟 시부터 오후 세 시까지, 하나우 본사 감사회 회의실과 복도
+cast: KATHARINA | Dr. Katharina Brandt · CEO (39)
+cast: TOBIAS | Tobias Wendt · CFO (35)
+cast: SELIN | Selin Aydın · 전환사무국장 (27)
+cast: KONRAD | Konrad Ebersbach · 감사회 의장(주주 측) (74)
+cast: CLARA | Clara Ebersbach · 감사회 위원(주주 측) (41)
+cast: KRÖGER | Matthias Kröger · 감사회 부의장(노동자 측), 슈판다우 노동자평의회 의장 (52)
+cast: HARTUNG | Prof. Dr. Gisela Hartung · 감사회 위원(주주 측, 독립 위원), 감사위원회 위원장 (63)
+cast: SEIDEL | Dr. Volker Seidel · 감사회 위원(노동자 측, 관리직 대표), 품질 총괄 (55)
+cast: WOHLRAB | Agnes Wohlrab · 감사회 위원(노동자 측), 하나우 노동자평의회 위원 (58)
+cast: BRÜCK | Marion Brück · 감사회 위원(주주 측), 지속가능성 전문가 (47)
+cast: HENSCHEL | Dagmar Henschel · 감사회 위원(노동자 측, IG Metall 대표) (57)
+cast: MONIKA | Monika Schäfer · 이사회 비서실장
+note: ※ 직원이 2,000명을 넘는 독일 주식회사는 공동결정법(MitbestG)에 따라 감사회(Aufsichtsrat)의 절반을 노동자 대표로 채워야 합니다(동수 공동결정, Mitbestimmung). 노동자 측에는 회사 직원, 노동조합 대표, 그리고 관리직(leitende Angestellte) 대표 한 명이 반드시 포함됩니다. 감사회 규모는 법으로 정해지지만, 정관으로 더 크게 정할 수 있어서 Ebersbach는 20석(주주 측 10, 노동자 측 10)입니다. 의장은 사실상 주주 측에서, 부의장은 노동자 측에서 나옵니다. 표결이 동수로 끝나면 같은 안건으로 다시 표결하고, 그래도 동수면 의장이 두 번째 표(Zweitstimme)를 행사해 결정합니다. 그래서 '최종 결정권은 자본에 있다'는 비판과 '그래서 노사가 먼저 타협하게 된다'는 평가가 함께 존재합니다. 일정 규모 이상의 투자나 사업 결정은 정관이나 감사회 규정에 따라 감사회 동의가 필요한 '동의 유보 사항'입니다. 인물은 모두 가상입니다. 표현 초점: der Aufsichtsrat, die Mitbestimmung, die Stimme, die Tagesordnung, Ich bitte um Ihre Zustimmung.
+next: 2부 13화 — «Strom vom eigenen Dach»(지붕 위의 전기) — 슈판다우 공장 지붕에 태양광을 올리고 장기 전력구매계약(PPA)을 맺어 에너지 비용을 20퍼센트 줄이는 계획. 기술은 준비됐는데 계통연결에 2년이 걸린다고 한다. 그리고 공장 건물은 문화재다. Selin과 구청 공무원의 '관료주의 대화극'.
+
+## 도입 — ACHT UHR, SITZUNGSSAAL
+MONIKA: Zwanzig Plätze, zwanzig Namensschilder, zwanzig Wasserflaschen. Und für Herrn Ebersbach einen Stuhl mit Armlehnen. Hat sein Arzt so gewollt.
+> 자리 스무 개, 명패 스무 개, 생수 스무 병. 그리고 에버스바흐 회장님께는 팔걸이 의자. 주치의 지시예요.
+SELIN: Frau Schäfer, warum sitzen die Arbeitnehmervertreter alle auf der einen Seite und die Anteilseigner auf der anderen?
+> 셰퍼 씨, 왜 노동자 대표들은 전부 한쪽에, 주주 대표들은 다른 쪽에 앉아요?
+MONIKA: Weil das hier seit neunzehnhundertsechsundsiebzig so ist. Seit dem Mitbestimmungsgesetz. Herr Ebersbach senior hat damals gesagt: «Dann sollen sie sich wenigstens in die Augen sehen.»
+> 1976년부터 그랬으니까요. 공동결정법이 생긴 뒤로. 그때 선대 회장님이 그러셨어요. «그럼 적어도 서로 눈은 마주 보게 하자.»
+TOBIAS: Ich habe die Liste noch einmal durchgerechnet. Zehn zu zehn bleibt das wahrscheinlichste Ergebnis.
+> 명단을 다시 계산해 봤어. 여전히 10 대 10이 가장 유력해.
+KATHARINA: Wahrscheinlich ist nicht sicher. Wer ist noch offen?
+> 유력하다는 건 확실하다는 게 아니지. 아직 마음을 못 정한 사람이 누구야?
+TOBIAS: Bei den Anteilseignern Frau Professor Hartung. Bei den Arbeitnehmern Dr. Seidel, der Vertreter der leitenden Angestellten. Beide reden mit niemandem darüber.
+> 주주 쪽은 하르퉁 교수님. 노동자 쪽은 관리직 대표인 자이델 박사. 둘 다 아무한테도 얘기를 안 해.
+CLARA: Guten Morgen. Ich will nicht unhöflich sein, Frau Brandt, aber ich sage es Ihnen lieber gleich: Ich habe vier Stimmen auf meiner Seite. Mit mir fünf.
+> 좋은 아침이에요. 무례하게 굴고 싶진 않지만, 브란트 씨, 미리 말씀드리는 게 낫겠네요. 제 편에 네 표가 있어요. 저까지 다섯 표.
+KATHARINA: Danke für die Offenheit, Frau Ebersbach. Ich habe noch keine einzige sicher.
+> 솔직하게 말해 줘서 고마워요, 에버스바흐 씨. 저는 아직 확실한 표가 하나도 없어요.
+CLARA: Dann haben Sie noch drei Stunden.
+> 그럼 아직 세 시간 있네요.
+KONRAD: Guten Morgen zusammen. Monika, der Stuhl ist gut. Ich hasse ihn trotzdem.
+> 다들 좋은 아침. 모니카, 의자는 괜찮네. 그래도 싫다.
+KATHARINA: Herr Ebersbach, wie geht es Ihnen?
+> 회장님, 몸은 좀 어떠세요?
+KONRAD: Gut genug für eine Abstimmung. Ob es für zwei reicht, werden wir sehen.
+> 표결 한 번 할 정도는 됩니다. 두 번까지 버틸지는 두고 봐야겠지만.
+
+## 분석 — VOR DER SITZUNG
+TOBIAS: Was meint er mit zwei?
+> 두 번이라니 무슨 뜻이야?
+KATHARINA: Wenn es zehn zu zehn ausgeht, wird ein zweites Mal über denselben Punkt abgestimmt. Wenn es dann wieder unentschieden ist, hat der Vorsitzende eine zweite Stimme.
+> 10 대 10이 되면 같은 안건으로 한 번 더 표결해. 그래도 동수면 의장이 두 번째 표를 갖게 되고.
+SELIN: Das heißt, am Ende entscheidet doch die Kapitalseite.
+> 그러니까 결국은 자본 쪽이 결정한다는 거네.
+KATHARINA: Am Ende, ja. Aber nur, wenn vorher niemand einen Kompromiss gefunden hat. Das ist der eigentliche Sinn der Mitbestimmung: Man ist gezwungen, miteinander zu reden.
+> 결국은, 응. 하지만 그 전에 아무도 타협안을 찾지 못했을 때만이야. 그게 공동결정의 진짜 의미지. 서로 대화할 수밖에 없게 만드는 것.
+HARTUNG: Frau Dr. Brandt, haben Sie zehn Minuten? Ich möchte Ihnen meine Bedenken persönlich sagen, nicht erst in der Sitzung.
+> 브란트 박사님, 10분 있으세요? 회의에서가 아니라 직접 제 우려를 말씀드리고 싶어서요.
+KATHARINA: Gern, Frau Professor Hartung.
+> 그럼요, 하르퉁 교수님.
+HARTUNG: Ich habe kein moralisches Problem mit dem Auftrag. Ich habe ein Problem mit dem Risiko. Sie binden fünfundvierzig Millionen Investition und sechshundert Stellen an einen einzigen Kunden und einen einzigen Staatshaushalt.
+> 저는 그 수주에 도덕적인 문제는 없어요. 리스크가 문제죠. 4,500만 투자와 일자리 600개를 고객 한 곳, 국가 예산 하나에 묶으시는 거잖아요.
+KATHARINA: Mit einem Vertrag über acht Jahre, festen Mengen und einer Anzahlung von über sechzig Millionen.
+> 8년 계약에, 물량이 확정돼 있고, 선급금이 6,000만이 넘어요.
+HARTUNG: Verträge mit dem Staat haben eine Eigenschaft: Sie werden neu verhandelt, wenn sich die Regierung ändert. Ich war vor zwanzig Jahren im Aufsichtsrat eines Werftunternehmens. Ich weiß, wie das ausgeht.
+> 국가와의 계약엔 특징이 하나 있죠. 정권이 바뀌면 재협상된다는 것. 저는 20년 전에 조선 회사 감사회에 있었어요. 어떻게 끝나는지 압니다.
+KATHARINA: Was würde Ihr Risiko kleiner machen?
+> 무엇이 있으면 그 리스크가 줄어들까요?
+HARTUNG: Zwei Dinge. Eine Kündigungsklausel, die Ebersbach im Fall eines Abbruchs die Investition erstattet. Und eine Berichtspflicht des Vorstands an den Prüfungsausschuss — jedes Quartal, über das gesamte Verteidigungsgeschäft.
+> 두 가지요. 계약이 중단되면 에버스바흐에 투자금을 보전해 주는 해지 조항. 그리고 이사회가 감사위원회에 국방 사업 전반을 매 분기 보고할 의무.
+TOBIAS: Die Erstattungsklausel hat uns Rheinwerk gestern zugesagt. Schriftlich. Bei vorzeitiger Kündigung durch den Staat übernehmen sie die nicht abgeschriebene Investition.
+> 투자금 보전 조항은 어제 라인베르크가 약속했습니다. 서면으로요. 국가가 조기 해지하면 상각되지 않은 투자분을 그쪽이 떠안기로.
+HARTUNG: Das ist mehr, als ich erwartet habe. Ich bleibe trotzdem offen, Frau Dr. Brandt. Überzeugen Sie mich in der Sitzung.
+> 기대 이상이네요. 그래도 아직 결정은 보류할게요, 브란트 박사님. 회의에서 설득해 보세요.
+SEIDEL: Darf ich auch kurz? Volker Seidel, Qualität. Mein Problem ist ein anderes.
+> 저도 잠깐 괜찮을까요? 품질 담당 폴커 자이델입니다. 제 문제는 좀 달라요.
+KATHARINA: Bitte, Herr Dr. Seidel.
+> 말씀하세요, 자이델 박사님.
+SEIDEL: Ich vertrete die leitenden Angestellten. Die Hälfte davon sitzt in Hanau. Seit November bekommt Spandau eine Maschine, die Pilotlinie, jetzt fünfundvierzig Millionen und sechshundert Stellen. Und Hanau?
+> 저는 관리직 대표입니다. 그 절반이 하나우에 있어요. 11월 이후로 슈판다우는 기계도 받고, 시범 라인도 받고, 이제 4,500만에 일자리 600개까지 받죠. 그럼 하나우는요?
+SEIDEL: In Hanau erzählt man sich inzwischen, dass Sie Spandau retten und Hanau vergessen. Ein neues Gerücht, sozusagen — nur in die andere Richtung.
+> 하나우에선 요즘 박사님이 슈판다우를 구하고 하나우는 잊었다는 말이 돌아요. 새로운 소문인 셈이죠. 방향만 반대일 뿐.
+SELIN: Darf ich dazu Zahlen zeigen? Ich habe letzte Woche beide Werke befragt. In Spandau sind einundsechzig Prozent für den Auftrag. In Hanau vierundvierzig. Aber in Hanau sagen zweiundsiebzig Prozent, dass sie sich vom Vorstand weniger beachtet fühlen als Spandau.
+> 그에 대해 숫자를 보여 드려도 될까요? 지난주에 두 공장을 다 조사했어요. 슈판다우는 61퍼센트가 수주에 찬성이에요. 하나우는 44퍼센트고요. 그런데 하나우에서는 72퍼센트가 이사회가 슈판다우보다 자기들한테 관심이 덜하다고 느껴요.
+SEIDEL: Da haben Sie es.
+> 보세요.
+KATHARINA: Herr Dr. Seidel, das Kompetenzzentrum für Akustik und das Testlabor mit Longhai sitzen in Hanau. Die Entwicklung für das Militärgetriebe ebenfalls. Aber ich habe das offensichtlich nicht laut genug gesagt.
+> 자이델 박사님, 소음 역량 센터와 Longhai와의 공동 시험실은 하나우에 있어요. 군용 변속기 개발도 하나우에서 하고요. 그런데 제가 그걸 충분히 크게 말하지 않았던 게 분명하네요.
+SEIDEL: Dann sagen Sie es heute laut. Schriftlich, im Beschlussvorschlag.
+> 그럼 오늘 크게 말씀하세요. 결의안에 서면으로.
+KRÖGER: Frau Brandt, auf ein Wort. Ich habe bei uns fünf von zehn sicher. Agnes Wohlrab aus Hanau stimmt dagegen, aus Überzeugung, Tim Brauer auch. Und zwei Kollegen aus der Gewerkschaft stimmen aus Gewissensgründen mit Nein.
+> 브란트 박사, 잠깐만요. 우리 쪽 열 명 중에 다섯은 확실해요. 하나우의 아그네스 볼라프는 신념 때문에 반대할 거고, 팀 브라우어도요. 그리고 노조 쪽 동료 두 명이 양심상의 이유로 반대표를 던질 거예요.
+KATHARINA: Und der Letzte?
+> 그럼 마지막 한 명은요?
+KRÖGER: Der Letzte ist Seidel. Den haben Sie gerade gesprochen. Ich kann ihn nicht überzeugen — er gehört zu den Leitenden, nicht zur IG Metall.
+> 마지막이 자이델이에요. 방금 얘기하셨죠. 난 그 사람 설득 못 해요. 그 사람은 IG Metall이 아니라 관리직 쪽이니까.
+WOHLRAB: Matthias, ich höre dich. Frau Dr. Brandt, ich will nicht hinter Ihrem Rücken reden. Ich stimme heute mit Nein. Und ich bitte Sie nicht, mich umzustimmen.
+> 마티아스, 다 들려. 브란트 박사님, 뒤에서 말하고 싶진 않아요. 저는 오늘 반대표를 던질 거예요. 그리고 제 마음을 돌리려고 하지 말아 주세요.
+KATHARINA: Darf ich fragen, warum?
+> 이유를 여쭤봐도 될까요?
+WOHLRAB: Ich habe neunzehnhundertdreiundachtzig in Mutlangen vor dem Raketendepot gesessen. Ich habe meine Kinder so erzogen. Ich kann nicht nach vierzig Jahren für Panzergetriebe die Hand heben, nur weil die Zeiten anders sind.
+> 저는 1983년에 무틀랑겐 미사일 기지 앞에서 연좌시위를 했어요. 아이들도 그렇게 키웠고요. 시대가 달라졌다는 이유만으로 40년 뒤에 탱크 변속기에 손을 들 수는 없어요.
+KATHARINA: Ich werde Sie nicht umstimmen, Frau Wohlrab. Aber ich würde gern, dass Ihre Stimme im Protokoll mit Begründung steht. Sie gehört genauso zu dieser Entscheidung wie jede andere.
+> 마음을 돌리려 하지 않을게요, 볼라프 씨. 다만 볼라프 씨의 표가 이유와 함께 회의록에 남았으면 해요. 그 표도 다른 어떤 표 못지않게 이 결정의 일부니까요.
+
+SELIN: Und Frau Brück? Sie sitzt bei den Anteilseignern, oder? Clara hat sie bestimmt schon gefragt.
+> 그리고 브뤼크 씨는? 주주 쪽이잖아. 클라라가 분명 이미 물어봤을걸.
+TOBIAS: Frau Brück hat in ihren Mails Fjordkapital zitiert. Sie ist sicher auf Claras Seite.
+> 브뤼크 씨는 메일에서 Fjordkapital을 인용했어. 확실히 클라라 편이야.
+BRÜCK: Ich höre meinen Namen. Sie haben recht, Herr Wendt. Aber nicht wegen Fjordkapital, sondern weil unser Nachhaltigkeitsbericht dann ein neues Kapitel braucht, das niemand schreiben will.
+> 제 이름이 들리네요. 맞아요, 벤트 이사님. 하지만 Fjordkapital 때문이 아니라, 그러면 우리 지속가능성 보고서에 아무도 쓰고 싶어 하지 않는 새 장이 필요해지기 때문이에요.
+KATHARINA: Ich schreibe es, Frau Brück. Selbst. Und ehrlich.
+> 제가 쓸게요, 브뤼크 씨. 직접. 그리고 정직하게.
+BRÜCK: Dann lese ich es gern. Meine Stimme ändert das heute nicht.
+> 그럼 기꺼이 읽죠. 그래도 오늘 제 표는 달라지지 않아요.
+
+## 갈등 — TAGESORDNUNGSPUNKT VIER
+KONRAD: Meine Damen und Herren, ich eröffne die Sitzung. Der Aufsichtsrat ist mit zwanzig Mitgliedern vollständig und beschlussfähig. Wir kommen zu Tagesordnungspunkt vier.
+> 여러분, 회의를 시작하겠습니다. 감사회 위원 20명 전원이 출석했으므로 의결 정족수를 충족합니다. 4번 안건으로 넘어가겠습니다.
+KONRAD: Zustimmung zum Liefervertrag mit Rheinwerk Landsysteme und zur Investition von fünfundvierzig Millionen Euro in eine neue Fertigungslinie im Werk Spandau. Mit den vier Leitlinien des Vorstands. Frau Dr. Brandt.
+> 라인베르크 란트지스테메와의 공급 계약, 그리고 슈판다우 공장 신규 생산 라인에 대한 4,500만 유로 투자 승인 건. 이사회의 네 가지 지침을 포함합니다. 브란트 박사.
+CLARA: Herr Vorsitzender, bevor Frau Dr. Brandt spricht, stelle ich einen Antrag zur Geschäftsordnung.
+> 의장님, 브란트 박사가 발언하기 전에 의사 진행 발언을 신청합니다.
+KONRAD: … Bitte, Frau Ebersbach.
+> …하세요, 에버스바흐 위원.
+CLARA: Ich beantrage, den Tagesordnungspunkt zu teilen. Wir stimmen getrennt ab: einmal über die Investition in Spandau, einmal über den Rüstungsauftrag.
+> 안건 분리를 요청합니다. 슈판다우 투자와 방산 수주를 따로 표결하자는 겁니다.
+KRÖGER: Das ist ein Trick. Ohne den Auftrag gibt es die Investition nicht. Dann stimmen alle für Spandau und gegen den Auftrag — und am Ende steht in Spandau eine leere Halle mit einem schönen Beschluss.
+> 그건 꼼수예요. 수주가 없으면 투자도 없어요. 그러면 다들 슈판다우에는 찬성하고 수주에는 반대하겠죠. 결국 슈판다우엔 멋진 결의서 한 장과 텅 빈 공장동만 남는 거예요.
+CLARA: Herr Kröger, das ist kein Trick, sondern Ehrlichkeit. Jedes Mitglied soll sagen können: Ich bin für Spandau, aber gegen Panzer.
+> 크뢰거 씨, 그건 꼼수가 아니라 정직이에요. 위원 누구나 '나는 슈판다우엔 찬성하지만 탱크엔 반대한다'고 말할 수 있어야죠.
+TOBIAS: Herr Vorsitzender, darf ich als Finanzvorstand dazu etwas sagen? Die Investition wird zu über neunzig Prozent aus der Anzahlung finanziert. Ohne Auftrag keine Anzahlung, ohne Anzahlung keine Investition. Das ist keine Verpackung, das ist Arithmetik.
+> 의장님, CFO로서 한마디 해도 되겠습니까? 그 투자는 90퍼센트 이상이 선급금으로 조달됩니다. 수주가 없으면 선급금이 없고, 선급금이 없으면 투자도 없습니다. 이건 포장이 아니라 산수입니다.
+BRÜCK: Herr Wendt, Arithmetik ist nicht alles. Ich sitze hier als Expertin für Nachhaltigkeit. Unsere Nachhaltigkeitsberichterstattung, die Erwartungen unserer Investoren — all das ändert sich mit diesem Beschluss.
+> 벤트 이사님, 산수가 전부는 아니에요. 저는 지속가능성 전문가로 이 자리에 있어요. 우리의 지속가능성 보고, 투자자들의 기대, 그 모든 게 이 결의로 달라집니다.
+KRÖGER: Frau Brück, in Spandau gibt es keinen Nachhaltigkeitsbericht. Da gibt es Mietverträge und Kitagebühren.
+> 브뤼크 씨, 슈판다우에는 지속가능성 보고서 같은 거 없어요. 임대차 계약서랑 어린이집 비용 고지서가 있죠.
+BRÜCK: Herr Kröger, ich habe nicht gesagt, dass mir das egal ist. Ich habe gesagt, dass dieser Beschluss Folgen hat, die über dieses Jahr hinausgehen.
+> 크뢰거 씨, 그게 상관없다고 한 적 없어요. 이 결의가 올해를 넘어서는 결과를 낳는다고 했을 뿐이에요.
+HENSCHEL: Arbeitslosigkeit in Spandau hat auch Folgen, die über dieses Jahr hinausgehen. Sie stehen nur in keinem Bericht.
+> 슈판다우의 실업도 올해를 넘어서는 결과를 낳죠. 어느 보고서에도 안 실릴 뿐이고.
+KONRAD: Bitte. Wir debattieren über einen Antrag zur Geschäftsordnung, nicht über die Sache. Dazu kommen wir gleich.
+> 자, 그만. 지금은 의사 진행 안건을 논의하는 거지 본안을 논의하는 게 아닙니다. 그건 곧 다룰 겁니다.
+KONRAD: Ich lasse über den Geschäftsordnungsantrag abstimmen. Wer ist dafür, den Punkt zu teilen? — Neun. Wer ist dagegen? — Elf. Der Antrag ist abgelehnt. Es bleibt bei einer Abstimmung.
+> 의사 진행 발언 건을 표결에 부치겠습니다. 안건 분리에 찬성하는 분? — 아홉. 반대하는 분? — 열하나. 부결되었습니다. 표결은 한 번으로 갑니다.
+TOBIAS: Elf. Seidel hat mit uns gestimmt. Aber das heißt noch nichts für die Hauptabstimmung.
+> 열하나. 자이델이 우리 쪽에 섰어. 하지만 본 표결에서는 아직 모르는 거야.
+KATHARINA: Meine Damen und Herren, Sie kennen die Zahlen aus der Vorlage. Ich will Ihnen heute nicht noch einmal Zahlen vorlesen, sondern sagen, worüber Sie wirklich abstimmen.
+> 여러분, 숫자는 안건 자료로 보셨을 겁니다. 오늘은 숫자를 다시 읽어 드리기보다, 여러분이 정말로 무엇에 대해 표결하시는지 말씀드리고 싶습니다.
+KATHARINA: Sie stimmen nicht darüber ab, ob Ebersbach ein Rüstungskonzern wird. Das verhindern unsere Leitlinien. Sie stimmen darüber ab, ob sechshundert Menschen in Spandau in fünf Jahren noch Arbeit haben — und ob wir dafür bereit sind, eine unbequeme Verantwortung zu tragen.
+> 여러분은 에버스바흐가 방산 기업이 될지를 두고 표결하는 게 아닙니다. 그건 우리의 지침이 막습니다. 여러분은 슈판다우의 600명이 5년 뒤에도 일자리를 갖고 있을지, 그리고 그걸 위해 우리가 불편한 책임을 질 준비가 되어 있는지를 두고 표결하시는 겁니다.
+SEIDEL: Frau Dr. Brandt, und welche Verantwortung tragen wir für Hanau? In der Vorlage steht Spandau elfmal. Hanau zweimal.
+> 브란트 박사님, 그럼 하나우에 대해선 우리가 어떤 책임을 지죠? 안건 자료에 슈판다우는 열한 번 나와요. 하나우는 두 번이고요.
+KATHARINA: Sie haben gezählt.
+> 세어 보셨군요.
+SEIDEL: Ich bin Qualitätschef. Ich zähle immer.
+> 저는 품질 총괄이에요. 늘 셉니다.
+HARTUNG: Frau Dr. Brandt, eine Frage. Wer entscheidet in fünf Jahren, ob ein Export an einen Staat außerhalb der NATO beliefert wird?
+> 브란트 박사님, 질문 하나요. 5년 뒤에 NATO 밖의 국가로 가는 수출 건에 납품할지는 누가 결정하죠?
+KATHARINA: Dieser Aufsichtsrat. Nicht der Vorstand, nicht der Kunde. Das steht in der Vorlage als Zustimmungsvorbehalt.
+> 이 감사회요. 이사회도, 고객도 아니고요. 안건 자료에 동의 유보 사항으로 명시돼 있습니다.
+HARTUNG: Und wer prüft, ob die Grenze von zwanzig Prozent eingehalten wird?
+> 그럼 20퍼센트 한도를 지키는지는 누가 확인하죠?
+KATHARINA: Der Prüfungsausschuss. Jedes Quartal. So wie Sie es heute früh vorgeschlagen haben.
+> 감사위원회요. 매 분기. 오늘 아침 교수님이 제안하신 그대로요.
+WOHLRAB: Ich möchte, dass meine Stimme mit Begründung ins Protokoll kommt. Ich stimme mit Nein, weil ich glaube, dass ein Unternehmen auch dann bei seinen Werten bleiben muss, wenn es teuer wird. Gerade dann.
+> 제 표가 이유와 함께 회의록에 남기를 원합니다. 저는 반대합니다. 기업은 대가가 클 때조차 자기 가치를 지켜야 한다고 믿기 때문입니다. 바로 그럴 때일수록.
+KRÖGER: Und ich möchte meine Begründung auch ins Protokoll. Ich stimme mit Ja, weil ich in Spandau zweimal gesehen habe, was passiert, wenn ein Werk zumacht. Werte, die man sich nur leisten kann, solange andere die Rechnung zahlen, sind keine.
+> 그리고 제 이유도 회의록에 남기고 싶습니다. 저는 찬성합니다. 슈판다우에서 공장이 문을 닫으면 어떻게 되는지 두 번이나 봤기 때문입니다. 남이 대가를 치러 주는 동안만 지킬 수 있는 가치는 가치가 아닙니다.
+HENSCHEL: Für die IG Metall: Wir haben intern lange gestritten. Unsere Organisation hat eine Friedenstradition. Zwei meiner Kollegen stimmen deshalb anders, und das respektiere ich. Aber wir stehen zu den Beschäftigten in Spandau. Ja.
+> IG Metall을 대표해서요. 내부적으로 오래 논쟁했습니다. 우리 조직엔 평화 운동의 전통이 있어요. 그래서 동료 두 명은 다르게 투표할 거고, 저는 그걸 존중합니다. 하지만 우리는 슈판다우의 노동자들 편에 섭니다. 찬성.
+CLARA: Und ich stimme mit Nein. Nicht, weil mir Spandau egal ist. Sondern weil mein Großvater einen Satz an die Wand gehängt hat, und ich der Meinung bin, dass wir ihn nicht im ersten schwierigen Jahr abhängen.
+> 그리고 저는 반대합니다. 슈판다우가 상관없어서가 아니에요. 할아버지가 벽에 문장 하나를 걸어 두셨고, 저는 우리가 처음으로 어려운 해를 맞았다고 그걸 떼어 내선 안 된다고 생각하기 때문이에요.
+KATHARINA: Der Satz bleibt an der Wand, Frau Ebersbach. Das steht auch in der Vorlage.
+> 그 문장은 벽에 그대로 남습니다, 에버스바흐 위원. 그것도 안건 자료에 있어요.
+CLARA: Ein Satz, der an der Wand hängt, während daneben Panzergetriebe gebaut werden, ist kein Prinzip mehr. Er ist Dekoration.
+> 바로 옆에서 탱크 변속기를 만드는데 벽에 걸려 있는 문장은 더 이상 원칙이 아니에요. 장식이죠.
+KONRAD: Clara, das hast du schön gesagt. Und vielleicht hast du recht.
+> 클라라, 좋은 말이구나. 그리고 네 말이 맞을지도 모르지.
+CLARA: Dann stimm mit mir, Papa.
+> 그럼 저랑 같은 쪽에 표를 던져요, 아빠.
+KRÖGER: Herr Vorsitzender, ich glaube, alle Argumente sind ausgetauscht. Ich beantrage, abzustimmen.
+> 의장님, 논거는 다 나온 것 같습니다. 표결을 요청합니다.
+KONRAD: Wir stimmen ab. Wer stimmt dem Beschlussvorschlag zu Tagesordnungspunkt vier zu? — Ich zähle. Zehn. Wer ist dagegen? — Zehn. Enthaltungen? Keine.
+> 표결하겠습니다. 4번 안건 결의안에 찬성하는 분? — 세겠습니다. 열. 반대하는 분? — 열. 기권? 없습니다.
+KONRAD: Zehn zu zehn. Stimmengleichheit. Nach dem Mitbestimmungsgesetz wird erneut abgestimmt. Ich unterbreche die Sitzung für zwanzig Minuten.
+> 10 대 10. 가부 동수입니다. 공동결정법에 따라 재표결합니다. 20분간 정회하겠습니다.
+
+## 해결·설득 — DIE ZWANZIG MINUTEN
+TOBIAS: Seidel hat dagegen gestimmt. Bei der Geschäftsordnung war er für uns, beim Auftrag dagegen.
+> 자이델이 반대했어. 의사 진행 땐 우리 편이었는데 수주엔 반대했어.
+KATHARINA: Weil Hanau im Beschlussvorschlag nicht vorkommt. Er hat es mir heute früh gesagt, und ich habe es nicht geändert. — Selin, wie schnell kannst du einen Satz in die Vorlage schreiben?
+> 하나우가 결의안에 안 들어 있으니까. 오늘 아침에 그렇게 말했는데 내가 안 고쳤어. — 셀린, 결의안에 문장 하나 얼마나 빨리 넣을 수 있어?
+SELIN: In zwei Minuten. Aber darf man das? Die Vorlage ändern, mitten in der Sitzung?
+> 2분이면 돼. 그런데 그래도 돼? 회의 도중에 결의안을 바꾸는 게?
+KATHARINA: Der Vorstand kann den Beschlussvorschlag ergänzen, solange es derselbe Gegenstand bleibt. Das muss der Vorsitzende zulassen. Ich frage ihn.
+> 같은 안건인 한 이사회는 결의안을 보완할 수 있어. 의장이 허락하면. 내가 여쭤볼게.
+KATHARINA: Herr Dr. Seidel. Sie hatten heute früh recht. Ich habe Spandau laut gerettet und Hanau leise vergessen. Das will ich korrigieren.
+> 자이델 박사님. 오늘 아침 말씀이 맞았어요. 저는 슈판다우는 큰 소리로 구하고 하나우는 조용히 잊었어요. 그걸 바로잡고 싶어요.
+SEIDEL: Wie?
+> 어떻게요?
+KATHARINA: Mit einem Satz im Beschluss: Die Entwicklung, die Erprobung und die Endprüfung der Militärgetriebe erfolgen in Hanau. Dazu dreißig neue Stellen im Kompetenzzentrum. Finanziert aus derselben Anzahlung.
+> 결의안에 문장 하나를 넣는 거예요. 군용 변속기의 개발, 시험, 최종 검사는 하나우에서 한다. 그리고 역량 센터에 신규 인력 30명. 같은 선급금으로 조달.
+SEIDEL: Dreißig Stellen in Hanau, schriftlich im Beschluss. Das kann ich meinen Kollegen erklären. Aber Frau Dr. Brandt — wenn ich jetzt die Seite wechsle, stimmt es elf zu neun, und Herr Ebersbach muss gar nicht mehr entscheiden.
+> 하나우 30명, 결의안에 서면으로. 그거라면 동료들에게 설명할 수 있어요. 그런데 브란트 박사님, 제가 지금 편을 바꾸면 11 대 9가 되고, 에버스바흐 회장님은 결정하실 필요조차 없어지는데요.
+KATHARINA: Das wäre mir am liebsten. Ein Kompromiss ist besser als eine Zweitstimme.
+> 저는 그게 제일 좋아요. 두 번째 표보다는 타협이 낫죠.
+HARTUNG: Frau Dr. Brandt, ich habe zugehört. Inhaltlich gefällt mir der Satz zu Hanau. Aber Sie wissen, was ich von Änderungen in letzter Minute halte.
+> 브란트 박사님, 다 들었어요. 내용으로는 하나우에 관한 문장이 마음에 들어요. 하지만 막판 수정에 대해 제가 어떻게 생각하는지는 아시죠.
+KATHARINA: Ich weiß es. Und ich nehme das Risiko in Kauf, Frau Professor Hartung. Lieber ein richtiger Satz zu spät als ein falscher rechtzeitig.
+> 알아요. 그리고 그 위험은 감수할게요, 하르퉁 교수님. 제때 들어간 틀린 문장보다는 늦게라도 들어간 옳은 문장이 낫죠.
+CLARA: Ein Kompromiss, den Sie in zwanzig Minuten auf dem Flur kaufen.
+> 20분 만에 복도에서 사들인 타협이겠죠.
+KATHARINA: Einen, den Herr Dr. Seidel seit heute früh verlangt hat und den ich zu spät verstanden habe. Frau Ebersbach, ich hätte auch Ihnen gern etwas angeboten. Nicht, um Ihre Stimme zu kaufen. Die bekomme ich heute nicht, das weiß ich.
+> 자이델 박사님이 오늘 아침부터 요구하셨고 제가 너무 늦게 이해한 타협이에요. 에버스바흐 위원, 당신께도 제안하고 싶은 게 있어요. 표를 사려는 게 아니에요. 오늘 당신 표를 얻지 못하리라는 건 알아요.
+CLARA: Was dann?
+> 그럼 뭔데요?
+KATHARINA: Den Vorsitz des neuen Ausschusses für Verteidigungsgeschäfte im Aufsichtsrat. Jede Lieferung außerhalb der NATO, jede Überschreitung der zwanzig Prozent geht über Ihren Tisch. Wer könnte die Leitlinien besser überwachen als die Person, die am lautesten dagegen war?
+> 감사회에 새로 만드는 국방 사업 위원회의 위원장 자리요. NATO 밖으로 가는 모든 납품, 20퍼센트 한도를 넘는 모든 건이 당신 책상을 거치게 돼요. 가장 크게 반대한 사람보다 지침을 더 잘 감시할 사람이 누가 있겠어요?
+CLARA: … Sie wollen, dass ich Sie kontrolliere.
+> …제가 당신을 감시하길 원한다는 거군요.
+KATHARINA: Ich will, dass mich jemand kontrolliert, der keine Angst hat, Nein zu sagen. Das haben Sie heute bewiesen.
+> 반대한다고 말하기를 두려워하지 않는 누군가가 저를 감시하길 원하는 거예요. 당신은 오늘 그걸 증명했고요.
+CLARA: Und wenn ich jede einzelne Lieferung blockiere?
+> 그러다 제가 납품 건마다 다 막으면요?
+KATHARINA: Dann müssen Sie es im Ausschuss begründen. So wie ich heute hier. Das ist der Preis — für uns beide.
+> 그럼 위원회에서 이유를 대셔야겠죠. 제가 오늘 여기서 그런 것처럼요. 그게 대가예요. 우리 둘 모두에게.
+CLARA: … Ich denke darüber nach. Bis zum Ende der Sitzung.
+> …생각해 볼게요. 회의 끝날 때까지.
+KONRAD: Meine Damen und Herren, die zwanzig Minuten sind um. Der Vorstand hat beantragt, den Beschlussvorschlag um einen Satz zur Entwicklung in Hanau und um einen Ausschuss für Verteidigungsgeschäfte zu ergänzen. Ich lasse das zu. Frau Dr. Brandt?
+> 여러분, 20분이 지났습니다. 이사회가 결의안에 하나우의 개발에 관한 문장과 국방 사업 위원회 설치를 보완하겠다고 요청했습니다. 허락하겠습니다. 브란트 박사?
+KATHARINA: Meine Damen und Herren, Sie haben eben nicht gegen einen Auftrag gestimmt und nicht für einen. Sie haben gesagt: Wir sind noch nicht so weit. Die Hälfte von Ihnen hatte recht, weil Hanau fehlte. Die andere Hälfte, weil Spandau wartet.
+> 여러분, 방금 여러분은 수주에 반대하신 것도, 찬성하신 것도 아닙니다. '아직 준비가 안 됐다'고 하신 겁니다. 절반은 하나우가 빠져 있었기 때문에 옳았고, 나머지 절반은 슈판다우가 기다리고 있기 때문에 옳았습니다.
+KATHARINA: Der ergänzte Vorschlag gibt beiden Werken Arbeit, er gibt diesem Gremium die Kontrolle, und er gibt den Gegnern dieses Auftrags eine Stimme, die nicht im Protokoll verschwindet, sondern in einem Ausschuss weiterarbeitet. Ich bitte um Ihre Zustimmung.
+> 보완된 안은 두 공장 모두에 일감을 주고, 이 감사회에 통제권을 주며, 이 수주에 반대하는 분들께 회의록 속에 사라지지 않고 위원회에서 계속 일하는 목소리를 드립니다. 여러분의 동의를 부탁드립니다.
+KONRAD: Zweite Abstimmung über Tagesordnungspunkt vier in der ergänzten Fassung. Wer stimmt zu? — Zehn. Wer ist dagegen? — Zehn. Erneut Stimmengleichheit.
+> 보완된 4번 안건에 대한 두 번째 표결입니다. 찬성하는 분? — 열. 반대하는 분? — 열. 다시 가부 동수입니다.
+HARTUNG: Herr Vorsitzender, zur Erklärung: Ich habe diesmal mit Nein gestimmt. Nicht wegen des Inhalts, sondern weil ich grundsätzlich nicht über einen Text abstimme, der in zwanzig Minuten auf dem Flur entstanden ist. Das ist für mich eine Frage guter Unternehmensführung.
+> 의장님, 해명하겠습니다. 이번엔 반대했습니다. 내용 때문이 아니라, 복도에서 20분 만에 만들어진 문안에는 원칙적으로 표를 던지지 않기 때문입니다. 저에게 그건 좋은 기업 지배구조의 문제예요.
+KONRAD: Dann liegt es bei mir. Nach dem Gesetz habe ich jetzt eine zweite Stimme. — Ich stimme ein zweites Mal mit Ja. Elf zu zehn. Der Beschluss ist gefasst.
+> 그렇다면 결정은 내게 달렸군요. 법에 따라 나는 이제 두 번째 표를 갖습니다. — 두 번째로 찬성합니다. 11 대 10. 결의가 채택되었습니다.
+CLARA: Herr Vorsitzender, bevor wir weitergehen: Ich nehme den Vorsitz im Ausschuss an. Und ich werde Frau Dr. Brandt das Leben schwer machen.
+> 의장님, 다음으로 넘어가기 전에. 위원회 위원장직을 수락합니다. 그리고 브란트 박사를 아주 힘들게 할 거예요.
+KATHARINA: Darauf zähle ich, Frau Ebersbach.
+> 그걸 믿고 있을게요, 에버스바흐 위원.
+
+## 마무리 — DER LEERE SAAL
+KONRAD: Bleiben Sie noch einen Moment, Frau Brandt. Setzen Sie sich. Auf meinen Stuhl, wenn Sie wollen. Er hat Armlehnen.
+> 잠깐만 남아 있어요, 브란트 박사. 앉아요. 원하면 내 의자에. 팔걸이도 있으니까.
+KATHARINA: Ich bleibe lieber stehen. Am Ende mussten Sie doch selbst entscheiden. Ich hatte gehofft, Ihnen das zu ersparen.
+> 저는 서 있을게요. 결국 회장님이 직접 결정하셔야 했네요. 그건 면하게 해 드리고 싶었는데.
+KONRAD: Zum ersten Mal in meinem Leben habe ich gegen meinen Vater gestimmt. Mit zwei Stimmen sogar.
+> 평생 처음으로 아버지를 거스르는 표를 던졌어요. 그것도 두 표나.
+KATHARINA: Bereuen Sie es?
+> 후회하세요?
+KONRAD: Nein. Aber ein Beschluss, den zwanzig Menschen gemeinsam fassen, wäre mehr wert gewesen als einer, den ein alter Mann mit einer zweiten Stimme durchsetzt. Das hat mir Ihr Herr Kröger schon vor dreißig Jahren gesagt. Ich habe nicht zugehört.
+> 아니요. 하지만 스무 명이 함께 내린 결의였다면, 늙은이가 두 번째 표로 밀어붙인 결의보다 더 값졌겠지요. 당신네 크뢰거 씨가 30년 전에 이미 내게 했던 말이에요. 난 듣지 않았지.
+KONRAD: Hier. Das ist der Karton aus dem Keller. Mein Vater hat ihn neunzehnhundertfünfzig zugeklebt. Geben Sie ihn Frau Aydın für die Historiker.
+> 여기. 지하실에서 가져온 상자예요. 아버지가 1950년에 테이프로 봉해 두셨지. 역사학자들을 위해 아이든 씨에게 전해 줘요.
+SELIN: Herr Ebersbach … wollen Sie ihn nicht vorher selbst öffnen?
+> 회장님… 그 전에 직접 열어 보지 않으시겠어요?
+KONRAD: Nein. Ich will lesen, was andere darin finden. Mit siebzig hätte ich es noch ausgehalten. Mit vierundsiebzig und diesem Herzen lieber nicht.
+> 아뇨. 다른 사람들이 그 안에서 뭘 찾는지 읽고 싶어요. 일흔 살이었으면 견뎠겠지만, 일흔넷에 이 심장으로는 안 하는 게 낫겠어요.
+TOBIAS: Entschuldigung, ich muss euch leider wieder in die Gegenwart holen. Die neue Stromrechnung für Spandau ist da.
+> 미안한데, 다시 현재로 끌고 와야겠다. 슈판다우의 새 전기요금 고지서가 왔어.
+KATHARINA: Wie schlimm?
+> 얼마나 심해?
+TOBIAS: Mit der neuen Linie verbrauchen wir dort ab nächstem Jahr ein Drittel mehr Strom. Bei den heutigen Preisen frisst die Stromrechnung fast die Hälfte der Marge aus dem Auftrag, den wir gerade beschlossen haben.
+> 새 라인이 들어가면 내년부터 거기 전력 소비가 3분의 1 늘어. 지금 가격이면 방금 통과시킨 수주의 마진 절반 가까이를 전기요금이 잡아먹어.
+SELIN: Dann bauen wir uns den Strom eben selbst. Das Dach in Spandau ist riesig. Es ist bloß zu nichts gut außer zum Regnen.
+> 그럼 전기를 우리가 직접 만들면 되지. 슈판다우 지붕은 엄청 넓어. 비 맞는 것 말고는 아무 쓸모가 없을 뿐이고.

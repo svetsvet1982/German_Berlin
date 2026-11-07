@@ -1,0 +1,268 @@
+part: 2
+ep: 14
+title_de: Hauptversammlung
+title_ko: 주주총회
+scene: 정기 주주총회, 프랑크푸르트 메세 회의장
+level: B2
+setting: 8월 마지막 주 목요일 오전 아홉 시부터 저녁 일곱 시까지, 프랑크푸르트 메세 콩그레스 센터 대회의장과 무대 뒤 답변실(Backoffice)
+cast: KATHARINA | Dr. Katharina Brandt · CEO (39)
+cast: TOBIAS | Tobias Wendt · CFO (35)
+cast: SELIN | Selin Aydın · 전환사무국장, 답변실 총괄 (27)
+cast: CLARA | Clara Ebersbach · 감사회 위원, 오늘의 총회 의장(Versammlungsleiterin) (41)
+cast: KONRAD | Konrad Ebersbach · 감사회 의장, 입원 중 (전화) (74)
+cast: THIELEN | Dr. Marcus Thielen · 행동주의 헤지펀드 Ravensworth Capital 파트너, 지분 6% (가상)
+cast: POHLMANN | Pohlmann · 소액주주 단체 «Aktionärsforum Rhein-Main» 대표 (가상)
+cast: LINDHOLM | Astrid Lindholm · 연기금 Fjordkapital 책임투자 담당, 지분 3% (가상)
+cast: MÖLLER | Hildegard Möller · 하나우의 소액주주, 전 에버스바흐 직원, 300주 보유 (81)
+note: ※ 주주총회(Hauptversammlung)는 매년 이익 처분(배당, Dividende), 이사회와 감사회의 '면책(Entlastung)' 등을 결의합니다. 면책은 지난 1년의 경영을 승인한다는 신임 표시로, 법적 책임을 면제하지는 않지만 상징적 의미가 큽니다. 주주총회는 이사(Vorstand)를 직접 해임할 수 없습니다. 이사 선임·해임은 감사회의 권한이며, 다만 주주총회가 '신임 철회(Vertrauensentzug)'를 결의하면 감사회가 이사를 해임할 수 있는 중대한 사유가 됩니다(주식법 제84조). 자본금의 5퍼센트 이상(또는 액면 50만 유로 이상)을 가진 주주는 안건 추가(Ergänzungsverlangen)를 요구할 수 있고, 주주(Aktionär)는 총회에서 질문권(Auskunftsrecht)을 가지며 이사회는 원칙적으로 답해야 합니다. 총회는 보통 감사회 의장이 진행하는데, 의장이 출석할 수 없으면 정관에 따라 다른 주주 측 감사회 위원이 진행합니다. 구조조정 대출 계약에는 흔히 상환 유예 기간 동안 배당을 금지하는 조항이 들어 있습니다. 펀드와 인물은 모두 가상입니다. 표현 초점: die Hauptversammlung, die Dividende, der Aktionär, die Entlastung, Ich beantworte gern auch die unbequeme Frage.
+next: 2부 15화 — «Das Erbe»(유산) — Konrad Ebersbach가 세상을 떠난다. 유언장은 Clara가 아니라 세 손주에게 지분을 나누었고, 막대한 상속세와 가족 갈등 속에서 사모펀드가 다시 나타난다. 처음으로 Clara와 Katharina가 같은 편에 선다.
+
+## 도입 — NEUN UHR, HINTER DER BÜHNE
+CLARA: Zweitausendvierhundert Stühle. Ich habe noch nie vor so vielen Menschen gesprochen. Mein Vater hat das achtunddreißig Mal gemacht.
+> 의자 2,400개. 이렇게 많은 사람 앞에서 말해 본 적이 없어요. 아버지는 이걸 서른여덟 번이나 하셨는데.
+KATHARINA: Und heute macht es seine Tochter. Wie geht es ihm?
+> 그리고 오늘은 그분 따님이 하시죠. 회장님은 좀 어떠세요?
+CLARA: Er hat mich heute um sechs angerufen. Aus dem Krankenhaus. Er hat mir eine Vollmacht für seine Aktien gegeben. Für die ganzen sechzig Prozent.
+> 오늘 새벽 여섯 시에 전화하셨어요. 병원에서. 자기 주식에 대한 위임장을 저한테 주셨어요. 60퍼센트 전부에 대해서.
+TOBIAS: Mit Weisung? Hat er gesagt, wie Sie abstimmen sollen?
+> 지시 사항도 있었나요? 어떻게 투표하라고 하셨어요?
+CLARA: Ohne Weisung. Er hat gesagt: «Du entscheidest. Du hast es im Juni im Aufsichtsrat auch getan.»
+> 지시 없이요. 이러셨어요. «네가 결정해라. 6월에 감사회에서도 그렇게 했잖니.»
+KATHARINA: Dann liegt heute alles bei Ihnen. Die Entlastung, die Dividende — und das Misstrauensvotum gegen mich.
+> 그럼 오늘은 모든 게 당신 손에 달렸네요. 면책, 배당, 그리고 저에 대한 불신임 표결까지.
+CLARA: Ich weiß. Und ich weiß noch nicht, wie ich abstimme. Ich sage Ihnen das, damit Sie nicht glauben, ich hätte mich schon entschieden.
+> 알아요. 그리고 아직 어떻게 투표할지 모르겠어요. 제가 벌써 결정했다고 생각하지 않으셨으면 해서 말씀드리는 거예요.
+SELIN: Das Backoffice ist bereit. Vierzig Leute, sechs Bildschirme, alle Antworten nach Themen sortiert. Wer eine Frage stellt, bekommt in drei Minuten eine Antwort auf dem Bildschirm am Rednerpult.
+> 답변실 준비 끝났어. 40명, 모니터 여섯 대, 모든 답변을 주제별로 정리해 뒀어. 누가 질문하면 3분 안에 연단 화면에 답이 떠.
+TOBIAS: Und wenn die Frage nicht in deiner Liste steht?
+> 질문이 네 목록에 없으면?
+SELIN: Dann haben wir ein Problem. Aber ich habe zweihundertdreißig Fragen vorbereitet. Darunter auch: «Warum trägt die Vorstandsvorsitzende keine Krawatte?»
+> 그럼 문제가 생기지. 그래도 질문 230개를 준비했어. 그중엔 «대표이사는 왜 넥타이를 안 매나요?»도 있어.
+THIELEN: Frau Dr. Brandt. Marcus Thielen, Ravensworth. Ich wollte Ihnen vorher noch persönlich Guten Tag sagen. Nichts davon ist persönlich gemeint.
+> 브란트 박사님. 레이븐스워스의 마르쿠스 틸렌입니다. 그 전에 직접 인사를 드리고 싶었어요. 오늘 일은 어느 것도 개인적인 감정이 아닙니다.
+KATHARINA: Das sagen alle, kurz bevor es persönlich wird. Die Frage ist nur, wem diese Firma heute Abend noch vertraut.
+> 다들 개인적인 일이 되기 직전에 그렇게 말하더군요. 문제는 오늘 저녁에 이 회사가 누구를 믿고 있느냐는 거겠죠.
+
+## 분석 — DIE ZAHLEN DES JAHRES
+CLARA: Sehr geehrte Aktionärinnen und Aktionäre, ich begrüße Sie zur ordentlichen Hauptversammlung der Ebersbach Antriebstechnik AG. Ich vertrete heute unseren Aufsichtsratsvorsitzenden, meinen Vater, der leider im Krankenhaus ist.
+> 존경하는 주주 여러분, 에버스바흐 안트립스테크닉 AG 정기 주주총회에 오신 것을 환영합니다. 오늘은 병원에 계신 감사회 의장, 제 아버지를 대신해 제가 총회를 진행합니다.
+CLARA: Es sind einundachtzig Komma vier Prozent des Grundkapitals vertreten. Die Versammlung ist ordnungsgemäß einberufen. Ich erteile dem Vorstand das Wort.
+> 자본금의 81.4퍼센트가 출석했습니다. 총회는 적법하게 소집되었습니다. 이사회에 발언권을 드리겠습니다.
+KATHARINA: Meine Damen und Herren, vor elf Monaten hatte dieses Unternehmen Geld für elf Wochen. Heute hat es Geld für die nächsten zwei Jahre. Ich möchte Ihnen erzählen, wie — und was es gekostet hat.
+> 신사 숙녀 여러분, 11개월 전 이 회사에는 11주 치 돈밖에 없었습니다. 오늘은 앞으로 2년 치가 있습니다. 어떻게 그렇게 됐는지, 그리고 그 대가가 무엇이었는지 말씀드리겠습니다.
+KATHARINA: Wir haben mit fünf Banken und dem Land Hessen neu finanziert. Wir haben eine Lizenz an Longhai verkauft, statt unsere Patente abzugeben. Wir haben einen Tarifvertrag geschlossen, ohne einen Tag Streik.
+> 은행 다섯 곳, 헤센 주와 함께 재금융을 했습니다. 특허를 넘기는 대신 Longhai에 라이선스를 팔았습니다. 단 하루의 파업도 없이 단체협약을 맺었습니다.
+KATHARINA: Wir haben einen Cyberangriff erlebt und kein Lösegeld gezahlt. Wir haben einen Auftrag für die Verteidigung angenommen — mit Regeln, die Sie in Ihren Unterlagen finden. Und wir bauen in Spandau Strom auf einem Denkmal.
+> 사이버 공격을 겪었고 몸값을 내지 않았습니다. 국방 수주를 받아들였습니다. 그 규칙은 여러분의 자료에 있습니다. 그리고 슈판다우에서는 문화재 위에서 전기를 만들고 있습니다.
+TOBIAS: Zu den Zahlen. Umsatz: eins Komma eins sechs Milliarden, vier Prozent weniger als im Vorjahr. Aber das EBITDA ist von achtundachtzig auf siebenundneunzig Millionen gestiegen. Der Auftragseingang im Industriegeschäft liegt dreißig Prozent über Plan.
+> 숫자를 말씀드리겠습니다. 매출 11억 6,000만, 전년보다 4퍼센트 감소. 하지만 EBITDA는 8,800만에서 9,700만으로 늘었습니다. 산업 부문 수주는 계획보다 30퍼센트 많습니다.
+TOBIAS: Der Vorstand und der Aufsichtsrat schlagen vor, für dieses Jahr keine Dividende auszuschütten und den gesamten Bilanzgewinn in das Unternehmen zu investieren.
+> 이사회와 감사회는 올해 배당을 하지 않고 이익 전액을 회사에 재투자할 것을 제안합니다.
+CLARA: Danke. Wir kommen zur Aussprache. Als Erster hat sich Herr Dr. Thielen für Ravensworth Capital gemeldet. Die Redezeit beträgt zunächst fünfzehn Minuten.
+> 감사합니다. 토론으로 넘어가겠습니다. 첫 번째로 레이븐스워스 캐피털의 틸렌 박사가 발언을 신청했습니다. 발언 시간은 우선 15분입니다.
+THIELEN: Danke, Frau Versammlungsleiterin. Ich mache es kürzer. Ravensworth hält sechs Prozent. Wir haben die Tagesordnung um einen Punkt ergänzen lassen: den Entzug des Vertrauens gegenüber der Vorstandsvorsitzenden.
+> 감사합니다, 의장님. 짧게 하겠습니다. 레이븐스워스는 6퍼센트를 보유하고 있습니다. 저희는 안건을 하나 추가하도록 요구했습니다. 대표이사에 대한 신임 철회입니다.
+THIELEN: Frau Dr. Brandt hat in elf Monaten die Dividende gestrichen, zwei Mal den Kurs mit Ad-hoc-Meldungen auf Talfahrt geschickt und einen Rüstungsauftrag angenommen, wegen dem ein großer Pensionsfonds fast ausgestiegen wäre.
+> 브란트 박사는 11개월 동안 배당을 없앴고, 수시공시로 두 번이나 주가를 곤두박질치게 했으며, 대형 연기금이 거의 빠져나갈 뻔한 방산 수주를 받아들였습니다.
+THIELEN: Wir fordern erstens eine Dividende von achtzig Cent pro Aktie. Zweitens die Verweigerung der Entlastung des Vorstands. Und drittens eine unabhängige Prüfung aller strategischen Optionen.
+> 저희 요구는 첫째, 주당 80센트의 배당. 둘째, 이사회 면책 거부. 셋째, 모든 전략적 선택지에 대한 독립적 검토.
+SELIN: «Alle strategischen Optionen». Das heißt in der Sprache von Fonds: verkaufen.
+> «모든 전략적 선택지». 펀드 언어로는 '팔아라'라는 뜻이야.
+TOBIAS: Ganz oder in Teilen. Spandau zuerst, wenn ich raten müsste.
+> 통째로든 일부든. 내가 맞혀 보자면 슈판다우가 먼저겠지.
+POHLMANN: Pohlmann, Aktionärsforum Rhein-Main. Wir vertreten rund dreitausend Kleinaktionäre. Ich habe drei Fragen zum Cyberangriff.
+> 아크치오네어스포룸 라인마인의 폴만입니다. 소액주주 약 3,000명을 대표합니다. 사이버 공격에 관해 세 가지 질문이 있습니다.
+POHLMANN: Erstens: Wie hoch ist der Schaden nach Versicherung? Zweitens: Droht ein Bußgeld nach dem neuen BSI-Gesetz? Drittens: Warum wurde das Sicherheitsbudget im November gekürzt?
+> 첫째, 보험금을 제외한 피해액은 얼마입니까? 둘째, 개정 BSI법에 따른 과징금 위험이 있습니까? 셋째, 왜 11월에 보안 예산을 삭감했습니까?
+TOBIAS: Der Schaden nach Versicherung beträgt sieben Komma sechs Millionen Euro. Das BSI hat sein Verfahren abgeschlossen und auf ein Bußgeld verzichtet, mit Auflagen, die wir alle erfüllen.
+> 보험금을 제외한 피해액은 760만 유로입니다. BSI는 절차를 종결하면서 과징금을 부과하지 않았고, 조건을 붙였는데 저희는 그 조건을 모두 이행하고 있습니다.
+TOBIAS: Und zum Budget: Ich habe es gekürzt, weil wir im November Geld für elf Wochen hatten. Es war die falsche Entscheidung. Heute ist es dreimal so hoch.
+> 그리고 예산에 대해서는, 11월에 우리에게 11주 치 돈밖에 없어서 제가 삭감했습니다. 잘못된 결정이었습니다. 지금은 그때의 세 배입니다.
+POHLMANN: Ein Finanzvorstand, der auf einer Hauptversammlung einen Fehler zugibt. Das notiere ich mir. Ich habe das in dreißig Jahren selten gehört.
+> 주주총회에서 실수를 인정하는 CFO라. 적어 두겠습니다. 30년 동안 거의 들어 본 적이 없는 일이라서요.
+POHLMANN: Und eine Nachfrage an die Vorstandsvorsitzende: Was haben Sie persönlich aus dem Angriff gelernt?
+> 그리고 대표이사께 추가 질문입니다. 그 공격에서 개인적으로 무엇을 배우셨습니까?
+KATHARINA: Dass ein Vorstand nicht nur die Zahlen kontrollieren muss, sondern auch das, was er nicht versteht. Ich habe im Mai zum ersten Mal an einer Phishing-Schulung teilgenommen. In der Kantine, vor allen.
+> 이사회는 숫자만이 아니라 자기가 이해하지 못하는 것까지 관리해야 한다는 것이요. 5월에 처음으로 피싱 교육을 받았습니다. 구내식당에서, 모두가 보는 앞에서.
+POHLMANN: Und haben Sie bestanden?
+> 그래서 통과하셨습니까?
+KATHARINA: Ich ja. Herr Wendt hat auf den Link geklickt.
+> 저는요. 벤트 이사는 링크를 클릭했죠.
+TOBIAS: Und es sofort gemeldet. Das ist bei uns inzwischen die Hauptsache.
+> 그리고 바로 신고했습니다. 우리 회사에선 이제 그게 제일 중요하거든요.
+LINDHOLM: Astrid Lindholm, Fjordkapital, drei Prozent. Herr Dr. Thielen hat uns gerade erwähnt. Ich möchte das richtigstellen.
+> Fjordkapital의 아스트리드 린드홀름입니다. 3퍼센트. 틸렌 박사가 방금 저희를 언급하셨는데, 바로잡고 싶습니다.
+LINDHOLM: Frau Dr. Brandt hat mich im Mai angerufen, bevor sie den Auftrag bekannt gegeben hat. Sie hat uns ihre Regeln geschickt und unseren Mitgliedern erklärt. Unsere Mitglieder haben im Juli neu abgestimmt. Wir bleiben investiert.
+> 브란트 박사는 5월에 수주를 발표하기 전에 제게 전화를 했습니다. 규칙을 보내 주고 우리 가입자들에게 설명해 주었죠. 가입자들은 7월에 다시 투표했고, 저희는 투자를 유지합니다.
+THIELEN: Mit Verlaub, Frau Lindholm: Ihre Mitglieder sind Lehrerinnen. Meine Investoren erwarten Rendite.
+> 외람되지만, 린드홀름 씨, 당신네 가입자들은 교사들이죠. 제 투자자들은 수익을 기대합니다.
+LINDHOLM: Unsere Lehrerinnen erwarten auch Rendite, Herr Dr. Thielen. Nur über dreißig Jahre, nicht über achtzehn Monate.
+> 우리 교사들도 수익을 기대해요, 틸렌 박사. 다만 18개월이 아니라 30년에 걸쳐서죠.
+POHLMANN: Darf ich noch nach dem Verteidigungsauftrag fragen? Wie viel Umsatz bringt er im nächsten Jahr?
+> 국방 수주에 대해서도 여쭤봐도 될까요? 내년에 매출이 얼마나 나옵니까?
+TOBIAS: Im ersten Jahr rund achtzehn Millionen, ab dem dritten Jahr gut fünfzig. Die Obergrenze von zwanzig Prozent erreichen wir nicht. Der Ausschuss unter Frau Ebersbach prüft das jedes Quartal.
+> 첫해에 약 1,800만, 3년 차부터는 5,000만 남짓입니다. 20퍼센트 상한에는 미치지 않습니다. 에버스바흐 위원이 이끄는 위원회가 매 분기 확인하고요.
+CLARA: Als Vorsitzende dieses Ausschusses kann ich das bestätigen. Und ich prüfe gründlich, wie Frau Dr. Brandt inzwischen weiß.
+> 그 위원회 위원장으로서 확인해 드릴 수 있습니다. 그리고 저는 꼼꼼히 확인합니다. 브란트 박사도 이제 알다시피요.
+SELIN: Erste Stunde vorbei. Siebenundvierzig Fragen gestellt, alle beantwortet. Neunzehn Wortmeldungen stehen noch auf der Liste.
+> 첫 한 시간 끝. 질문 47개, 전부 답변 완료. 아직 발언 신청이 열아홉 개 남았어.
+TOBIAS: Und Thielen hat sich noch einmal gemeldet.
+> 그리고 틸렌이 또 발언을 신청했어.
+CLARA: Herr Dr. Thielen, Sie haben noch einmal das Wort.
+> 틸렌 박사, 다시 발언하시죠.
+
+## 갈등 — DER ANGRIFF
+THIELEN: Danke. Ich will offen sein. Wir haben in den letzten Wochen Gespräche mit Interessenten geführt, die bereit wären, für dieses Unternehmen deutlich mehr zu zahlen als die Börse.
+> 감사합니다. 솔직히 말씀드리죠. 저희는 지난 몇 주 동안 이 회사에 증시보다 훨씬 높은 값을 치를 의향이 있는 인수 후보들과 대화를 나눴습니다.
+THIELEN: Ein Finanzinvestor aus London hat uns signalisiert, dass er bei einem Übernahmeangebot achtunddreißig Euro pro Aktie für angemessen hielte. Der Kurs liegt heute bei siebenundzwanzig.
+> 런던의 한 재무적 투자자가 공개매수를 한다면 주당 38유로가 적정하다고 신호를 보내왔습니다. 오늘 주가는 27유로입니다.
+POHLMANN: Achtunddreißig? Das sind vierzig Prozent Aufschlag!
+> 38유로요? 프리미엄이 40퍼센트잖아요!
+KATHARINA: Darf ich fragen, welcher Investor?
+> 어느 투자자인지 여쭤봐도 될까요?
+THIELEN: Aldmoor Capital.
+> 올드무어 캐피털입니다.
+TOBIAS: … Aldmoor. Katharina, das sind die, mit denen Lorenz damals …
+> …올드무어. 카타리나, 그거 로렌츠가 그때…
+KATHARINA: Ich weiß, wer das ist, Tobias. — Herr Dr. Thielen, Aldmoor hat vor gut einem Jahr schon einmal versucht, dieses Unternehmen zu kaufen. Damals über einen Berater, der Herrn Ebersbach gleichzeitig beraten hat.
+> 누군지 알아, 토비아스. — 틸렌 박사, 올드무어는 1년 남짓 전에도 이 회사를 사려고 했습니다. 그때는 에버스바흐 회장님을 동시에 자문하던 한 컨설턴트를 통해서였죠.
+THIELEN: Das ist Vergangenheit. Heute geht es um den Preis.
+> 그건 지난 일입니다. 오늘의 문제는 가격이에요.
+KATHARINA: Heute geht es darum, wer dieses Unternehmen in fünf Jahren noch führt. Und was dann von Spandau übrig ist.
+> 오늘의 문제는 5년 뒤에 누가 이 회사를 이끌고 있을지, 그리고 그때 슈판다우에 무엇이 남아 있을지예요.
+THIELEN: Zur Dividende. Achtzig Cent pro Aktie sind zweiunddreißig Millionen Euro. Bei einem EBITDA von siebenundneunzig Millionen ist das tragbar.
+> 배당 얘기로 가죠. 주당 80센트면 3,200만 유로입니다. EBITDA 9,700만이면 감당할 만하죠.
+TOBIAS: Herr Dr. Thielen, selbst wenn wir wollten: Unser Kreditvertrag verbietet Ausschüttungen bis zum Ende der Stundung. Wenn die Hauptversammlung Ihren Antrag annimmt, kündigen die Banken am nächsten Morgen den Kredit.
+> 틸렌 박사, 우리가 원한다 해도 대출 계약상 상환 유예 기간이 끝날 때까지 배당은 금지돼 있습니다. 주주총회가 당신 안을 통과시키면 다음 날 아침에 은행들이 대출을 회수할 겁니다.
+THIELEN: Dann verhandeln Sie neu. Das können Sie doch so gut.
+> 그럼 재협상하세요. 그건 아주 잘하시잖아요.
+TOBIAS: Ich habe im November eine Nacht lang um Zeit verhandelt, nicht um Ihre Dividende.
+> 저는 11월에 밤새 시간을 얻으려고 협상했지, 당신 배당을 얻으려고 한 게 아닙니다.
+THIELEN: Frau Versammlungsleiterin, ich stelle fest, dass der Vorstand die Interessen der Aktionäre den Interessen der Banken unterordnet.
+> 의장님, 이사회가 주주의 이익을 은행의 이익 아래에 두고 있다는 점을 지적하겠습니다.
+CLARA: Das ist festgestellt, Herr Dr. Thielen. Ob es stimmt, entscheidet die Versammlung.
+> 지적은 기록되었습니다, 틸렌 박사. 그게 사실인지는 총회가 결정할 겁니다.
+POHLMANN: Frau Versammlungsleiterin, eine Frage an Herrn Dr. Thielen. Hat Ravensworth mit Aldmoor eine Vereinbarung für den Fall eines Übernahmeangebots?
+> 의장님, 틸렌 박사께 질문이 있습니다. 공개매수가 있을 경우에 대비해 레이븐스워스와 올드무어 사이에 합의가 있습니까?
+THIELEN: Wir haben keine Vereinbarung. Wir haben Gespräche geführt.
+> 합의는 없습니다. 대화를 나눴을 뿐이죠.
+POHLMANN: Gespräche, die Ihnen achtunddreißig Euro pro Aktie bringen würden — bei einem Einstiegskurs von etwa vierundzwanzig. Das ist kein Aktionärsinteresse, das ist ein Geschäftsmodell.
+> 매입가가 24유로쯤이었는데, 주당 38유로를 안겨 줄 대화였겠죠. 그건 주주의 이익이 아니라 사업 모델입니다.
+THIELEN: Das ist der Kapitalmarkt, Herr Pohlmann. Willkommen.
+> 그게 자본시장입니다, 폴만 씨. 환영합니다.
+SELIN: Clara hat gerade auf die Uhr gesehen. Sie macht gleich eine Pause.
+> 클라라가 방금 시계를 봤어. 곧 정회할 거야.
+CLARA: Ich unterbreche die Versammlung für dreißig Minuten.
+> 30분간 정회하겠습니다.
+THIELEN: Frau Ebersbach, haben Sie einen Moment? Als Aktionär, nicht als Gegner.
+> 에버스바흐 씨, 잠깐 시간 있으세요? 적으로서가 아니라 주주로서요.
+CLARA: Fünf Minuten.
+> 5분이요.
+THIELEN: Sie halten heute die Vollmacht für sechzig Prozent. Wenn Sie mit uns stimmen, ist Frau Dr. Brandt morgen nicht mehr Vorstandsvorsitzende. Und Sie hätten endlich, was Ihnen vor einem Jahr genommen wurde.
+> 오늘 60퍼센트에 대한 위임장을 갖고 계시죠. 저희와 같이 투표하시면 브란트 박사는 내일부터 대표이사가 아닙니다. 그리고 당신은 1년 전에 빼앗긴 걸 마침내 갖게 되겠죠.
+CLARA: Was wurde mir denn genommen?
+> 제가 뭘 빼앗겼는데요?
+THIELEN: Die Firma Ihres Vaters. Ein Familienunternehmen, das von einer Beraterin aus Frankfurt geführt wird, ist kein Familienunternehmen mehr.
+> 아버지의 회사요. 프랑크푸르트 컨설턴트가 이끄는 가족기업은 더 이상 가족기업이 아니죠.
+CLARA: Und wenn Aldmoor kauft, ist es eines?
+> 그럼 올드무어가 사면 가족기업인가요?
+THIELEN: Dann ist es wenigstens ehrlich, was es ist: ein Vermögenswert. Und Ihre Familie wäre um ein paar hundert Millionen reicher.
+> 그럼 적어도 그게 무엇인지 솔직해지죠. 자산이라는 것. 그리고 당신 가족은 몇억 유로 더 부자가 되고요.
+KATHARINA: Frau Ebersbach. Ich will Sie nicht beeinflussen. Ich will Ihnen nur sagen: Wenn Sie mich heute abwählen lassen, respektiere ich das.
+> 에버스바흐 씨. 영향을 주려는 게 아니에요. 그냥 말씀드리고 싶었어요. 오늘 저를 끌어내리게 하신다 해도 그 결정을 존중하겠다고.
+CLARA: Das sagen Sie so leicht.
+> 그 말을 참 쉽게 하시네요.
+KATHARINA: Es ist nicht leicht. Aber ich bin seit elf Monaten hier, um diese Firma zu retten, nicht meinen Posten. Wenn ich das jetzt vergesse, hätte Herr Thielen recht.
+> 쉽지 않아요. 하지만 저는 11개월 동안 제 자리가 아니라 이 회사를 구하려고 여기 있었어요. 지금 그걸 잊는다면 틸렌 씨 말이 맞는 거겠죠.
+CLARA: Ich muss meinen Vater anrufen.
+> 아버지께 전화해야겠어요.
+KONRAD: Clara. Ich habe den Livestream gesehen. Die Schwester hat es mir erlaubt, solange ich nicht laut werde.
+> 클라라. 생중계 봤다. 크게 소리만 안 지르면 된다고 간호사가 허락해 주더구나.
+CLARA: Papa, Thielen will, dass ich gegen sie stimme. Aldmoor bietet achtunddreißig Euro. Und ich weiß nicht mehr, was richtig ist.
+> 아빠, 틸렌이 저더러 저 사람한테 반대표를 던지래요. 올드무어는 38유로를 제시하고요. 이제 뭐가 옳은지 모르겠어요.
+KONRAD: Dann hör den Leuten im Saal zu, nicht den Leuten auf dem Flur. Ich habe dir keine Weisung gegeben, weil ich dir vertraue. — Und jetzt muss ich auflegen, die Schwester guckt.
+> 그럼 복도에 있는 사람들 말고 회의장 안에 있는 사람들 말을 들어라. 내가 지시를 하지 않은 건 너를 믿기 때문이야. — 이제 끊어야겠다, 간호사가 쳐다본다.
+
+## 해결·설득 — DIE LETZTE WORTMELDUNG
+CLARA: Wir setzen die Versammlung fort. Es liegt noch eine Wortmeldung vor. Frau Hildegard Möller aus Hanau.
+> 총회를 속개하겠습니다. 발언 신청이 하나 남아 있습니다. 하나우의 힐데가르트 묄러 님.
+MÖLLER: Guten Abend. Ich bin einundachtzig und halte dreihundert Aktien. Ich habe einundvierzig Jahre bei Ebersbach gearbeitet, im Sekretariat. Frau Schäfer kennt mich noch.
+> 안녕하세요. 저는 여든한 살이고 주식 300주를 갖고 있어요. 에버스바흐 비서실에서 41년을 일했어요. 셰퍼 씨는 아직 저를 기억할 거예요.
+MÖLLER: Ich habe meine erste Aktie neunzehnhundertneunundsiebzig gekauft. Seitdem habe ich jedes Jahr die Dividende bekommen und sie meinen Enkeln aufs Sparbuch gelegt. Dieses Jahr gibt es keine.
+> 첫 주식을 1979년에 샀어요. 그 뒤로 매년 배당을 받아서 손주들 적금 통장에 넣어 줬죠. 올해는 없네요.
+THIELEN: Genau das ist mein Punkt, Frau Möller.
+> 바로 그게 제 요점입니다, 묄러 씨.
+MÖLLER: Nein, junger Mann, das ist nicht Ihr Punkt. Lassen Sie mich ausreden. Mein Enkel Jonas hat am ersten September seine Ausbildung in Hanau angefangen. Mechatronik.
+> 아니요, 젊은이, 그건 당신 요점이 아니에요. 끝까지 말하게 해 줘요. 우리 손자 요나스가 9월 1일에 하나우에서 견습을 시작했어요. 메카트로닉스.
+MÖLLER: Ich hätte lieber meinen Enkel in Lohn und Brot als dreihundert mal achtzig Cent auf dem Sparbuch. Das sind zweihundertvierzig Euro. Dafür lohnt es sich nicht, eine Firma zu verkaufen.
+> 저는 적금 통장에 들어갈 300 곱하기 80센트보다 손자가 제대로 된 일자리를 갖는 게 좋아요. 그래 봐야 240유로예요. 그걸 위해 회사를 팔 가치는 없죠.
+MÖLLER: Und jetzt habe ich zwei Fragen. Die erste an Herrn Dr. Thielen: Wie lange halten Sie Ihre Aktien im Durchschnitt?
+> 그리고 이제 질문이 두 개 있어요. 첫 번째는 틸렌 박사에게. 주식을 평균 얼마나 오래 보유하세요?
+THIELEN: … Das ist eine Frage an den Vorstand, nicht an einen Aktionär.
+> …그건 이사회에 할 질문이지 주주에게 할 질문이 아닌데요.
+MÖLLER: Dann beantworten Sie sie freiwillig. Ich habe ja auch freiwillig einundvierzig Jahre hier gearbeitet.
+> 그럼 자발적으로 답해 주세요. 저도 자발적으로 여기서 41년을 일했으니까요.
+THIELEN: Im Durchschnitt … etwa achtzehn Monate.
+> 평균… 18개월쯤입니다.
+MÖLLER: Achtzehn Monate. Ich halte meine seit sechsundvierzig Jahren. Ich glaube, wir haben unterschiedliche Vorstellungen davon, was ein Aktionär ist.
+> 18개월이라. 저는 46년째 갖고 있어요. 우리 둘은 주주가 무엇인지에 대해 생각이 좀 다른 것 같네요.
+POHLMANN: Bravo!
+> 브라보!
+CLARA: Bitte keine Zwischenrufe. — Frau Möller, Ihre zweite Frage?
+> 야유나 환호는 삼가 주십시오. — 묄러 님, 두 번째 질문은요?
+MÖLLER: Die geht an Frau Dr. Brandt. Und sie ist unbequem. Herr Ebersbach ist krank. Wir wissen alle, wie alt er ist. Werden Sie diese Firma verkaufen, wenn er nicht mehr da ist?
+> 그건 브란트 박사에게 하는 거예요. 그리고 불편한 질문이에요. 에버스바흐 회장님이 아프세요. 다들 그분이 몇 살인지 알죠. 그분이 안 계시게 되면, 이 회사를 파실 건가요?
+KATHARINA: Frau Möller, ich beantworte gern auch die unbequeme Frage. Und ich beantworte sie ehrlich, auch wenn die Antwort Ihnen nicht gefällt.
+> 묄러 님, 불편한 질문에도 기꺼이 답하겠습니다. 그리고 답이 마음에 드시지 않더라도 정직하게 답하겠습니다.
+KATHARINA: Ob diese Firma verkauft wird, entscheide nicht ich. Das entscheiden die Eigentümer. Heute ist das Herr Ebersbach, eines Tages werden es seine Erben sein. Ich kann Ihnen nicht versprechen, was sie tun werden.
+> 이 회사를 팔지 말지는 제가 결정하지 않습니다. 그건 소유주가 결정합니다. 오늘은 에버스바흐 회장님이고, 언젠가는 그분의 상속인이 되겠죠. 그분들이 무엇을 할지는 약속드릴 수 없습니다.
+KATHARINA: Was ich Ihnen versprechen kann: Solange ich hier bin, führe ich dieses Unternehmen so, dass es keinen Käufer braucht. Und wenn trotzdem einer kommt, sorge ich dafür, dass Ihr Enkel Jonas danach noch seine Ausbildung beenden kann.
+> 제가 약속드릴 수 있는 건 이겁니다. 제가 여기 있는 한, 이 회사가 인수자를 필요로 하지 않도록 경영하겠습니다. 그리고 그래도 누군가 온다면, 그 뒤에도 손자 요나스가 견습을 마칠 수 있도록 하겠습니다.
+MÖLLER: Das ist keine schöne Antwort.
+> 듣기 좋은 대답은 아니네요.
+KATHARINA: Nein. Aber es ist die einzige, die ich halten kann.
+> 네. 하지만 제가 지킬 수 있는 유일한 대답이에요.
+MÖLLER: Dann ist sie mir lieber als eine schöne. Danke. Mehr wollte ich nicht.
+> 그럼 듣기 좋은 대답보다 낫네요. 고마워요. 그거면 됐어요.
+THIELEN: Frau Versammlungsleiterin, das war eine Antwort ohne eine einzige Zahl.
+> 의장님, 숫자가 단 하나도 없는 답변이었습니다.
+MÖLLER: Junger Mann, ich habe einundvierzig Jahre lang Zahlen getippt. Ich erkenne eine Antwort, die man halten kann, auch ohne Zahl.
+> 젊은이, 나는 41년 동안 숫자를 타자로 쳤어요. 지킬 수 있는 대답은 숫자가 없어도 알아봐요.
+CLARA: Es liegen keine weiteren Wortmeldungen vor. Bevor wir abstimmen, gebe ich als Versammlungsleiterin bekannt, wie ich die mir übertragenen Stimmen ausübe. Ich halte das für eine Frage der Offenheit.
+> 더 이상 발언 신청이 없습니다. 표결 전에, 총회 의장으로서 제가 위임받은 의결권을 어떻게 행사할지 밝히겠습니다. 그게 공개성의 문제라고 생각하기 때문입니다.
+CLARA: Ich habe Frau Dr. Brandt vor einem Jahr nicht gewollt. Ich habe im Aufsichtsrat gegen sie gestimmt, und im Juni gegen ihren wichtigsten Vorschlag. Daran ändert sich nichts. Ich werde ihr auch künftig widersprechen.
+> 저는 1년 전 브란트 박사를 원하지 않았습니다. 감사회에서 그분 선임에 반대했고, 6월에는 그분의 가장 중요한 제안에 반대했습니다. 그건 달라지지 않습니다. 앞으로도 그분과 의견이 다를 겁니다.
+CLARA: Aber heute hat Frau Möller eine Frage gestellt, die wir alle verstanden haben. Und ich habe zum ersten Mal begriffen, dass mein Widerspruch nur etwas wert ist, solange es diese Firma gibt.
+> 하지만 오늘 묄러 님이 우리 모두가 이해한 질문을 하셨습니다. 그리고 저는 처음으로 깨달았습니다. 제 반대도 이 회사가 존재하는 동안에만 의미가 있다는 것을.
+CLARA: Ich stimme mit den Aktien meines Vaters gegen den Antrag auf Vertrauensentzug, gegen die Dividende und für die Entlastung des Vorstands. Herr Dr. Thielen, achtzehn Monate sind für uns zu kurz.
+> 아버지의 주식으로 신임 철회안에 반대, 배당안에 반대, 이사회 면책에 찬성하겠습니다. 틸렌 박사, 우리에게 18개월은 너무 짧습니다.
+SELIN: Ergebnis kommt rein. Vertrauensentzug: abgelehnt mit dreiundneunzig Prozent. Dividende: abgelehnt. Entlastung des Vorstands: angenommen mit neunzig Komma zwei Prozent.
+> 결과 나왔어. 신임 철회안: 93퍼센트로 부결. 배당안: 부결. 이사회 면책: 90.2퍼센트로 가결.
+CLARA: Ich stelle die Ergebnisse fest und schließe die Hauptversammlung. Ich danke Ihnen — und Frau Möller ganz besonders.
+> 결과를 확인하고 주주총회를 폐회합니다. 감사합니다. 특히 묄러 님께 감사드립니다.
+
+## 마무리 — NEUNZEHN UHR, LEERER SAAL
+TOBIAS: Neunzig Komma zwei Prozent Entlastung. Für eine Chefin, die vor elf Monaten Geld für elf Wochen hatte.
+> 면책 90.2퍼센트. 11개월 전에 11주 치 돈밖에 없던 사장치고는.
+SELIN: Und eine Frau Möller, die Thielen in vier Sätzen auseinandergenommen hat. Ich will so sein, wenn ich einundachtzig bin.
+> 그리고 틸렌을 네 문장으로 해체해 버린 묄러 씨도 있었고. 나도 여든한 살이 되면 저렇게 되고 싶어.
+KATHARINA: Frau Ebersbach … danke.
+> 에버스바흐 씨… 고마워요.
+CLARA: Bedanken Sie sich nicht. Ich habe nicht für Sie gestimmt, sondern für Jonas Möller. Den kenne ich nicht einmal.
+> 고마워하지 마세요. 당신을 위해 투표한 게 아니라 요나스 묄러를 위해 투표한 거예요. 만나 본 적도 없는 애지만.
+KATHARINA: Genau deshalb bedanke ich mich.
+> 바로 그래서 고마운 거예요.
+CLARA: Wissen Sie, was mein Vater am Telefon gesagt hat? «Hör den Leuten im Saal zu.» Das hat er mir in einundvierzig Jahren nie gesagt. Er hat immer gesagt: «Hör auf mich.»
+> 아버지가 전화로 뭐라고 하셨는지 아세요? «회의장 안 사람들 말을 들어라.» 41년 동안 한 번도 그런 말씀을 안 하셨어요. 늘 «내 말을 들어라»였지.
+TOBIAS: Herr Ebersbach ist am Telefon. Er will Sie beide sprechen.
+> 에버스바흐 회장님 전화예요. 두 분 다 바꿔 달래요.
+KONRAD: Clara. Du warst gut. Besser als ich. — Frau Brandt, hören Sie mich?
+> 클라라. 잘했다. 나보다 나았어. — 브란트 박사, 들립니까?
+KATHARINA: Ich höre Sie, Herr Ebersbach. Wie geht es Ihnen?
+> 들려요, 회장님. 몸은 어떠세요?
+KONRAD: Müde. Die Ärzte sagen, das Herz macht nicht mehr lange mit. Ich habe ihnen gesagt, es hat schon länger mitgemacht, als sie dachten.
+> 피곤해요. 의사들이 심장이 오래 버티지 못할 거라는군요. 그래서 내가 그랬지, 이미 당신들 생각보다 오래 버텼다고.
+CLARA: Papa, sag so etwas nicht.
+> 아빠, 그런 말 하지 마세요.
+KONRAD: Kommt morgen beide vorbei. Zusammen. Ich habe im Frühjahr mein Testament geändert, und ihr solltet es von mir hören. Nicht von einem Notar.
+> 내일 둘 다 와라. 같이. 봄에 유언장을 바꿨는데, 공증인한테서가 아니라 나한테서 듣는 게 좋겠다.

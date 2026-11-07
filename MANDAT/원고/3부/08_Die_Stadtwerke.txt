@@ -1,0 +1,269 @@
+part: 3
+ep: 8
+title_de: Die Stadtwerke
+title_ko: 도시 에너지공사
+scene: 프랑크푸르트 인근 가상 도시 Mainstadt — 에너지공사 고객센터 → 공사 본사 → 시청
+level: C1
+setting: 4월 초 2주간, 인구 14만의 가상 도시 Mainstadt의 Stadtwerke Mainstadt GmbH 고객센터와 본사 회의실, 시청 시장실
+cast: KATHARINA | Dr. Katharina Brandt · BWA 대표 (41)
+cast: TOBIAS | Tobias Wendt · BWA 재무감사 총괄 (37)
+cast: SELIN | Selin Aydın · BWA 파트너, 데이터 포렌식 (29)
+cast: PAUL | Dr. Paul Asante · BWA 프랑크푸르트 지사장 (45)
+cast: UTE | Ute Hennig · BWA 사무실 매니저, 베를린에서 전화로 (61)
+cast: PETERSEN | Anja Petersen · Mainstadt 시의회 재정위원회 위원장 (가상)
+cast: HOFFMANN | Gisela Hoffmann · 지역난방 이용 연금생활자 (가상)
+cast: STEINHAUER | Dr. Rolf Steinhauer · Stadtwerke Mainstadt 대표이사 (가상)
+cast: KLUGE | Bettina Kluge · Stadtwerke Mainstadt 요금산정팀장 (가상)
+cast: REINHARDT | Thomas Reinhardt · Mainstadt 시장(Oberbürgermeister) (가상)
+note: ※ 독일 도시의 상당수는 시가 소유한 에너지공사(Stadtwerke)가 전기·가스·지역난방(Fernwärme)·버스·수영장 등을 함께 운영합니다. 에너지 사업의 이익으로 수영장·대중교통의 적자를 메우는 '세무상 통합 경영(steuerlicher Querverbund)'이 흔합니다. 지역난방은 한 지역에 공급자가 하나뿐인 자연독점이라 요금 통제가 중요하며, 지역난방 공급 조건령(AVBFernwärmeV) 제24조는 요금 변경 조항이 실제 원가 변동과 열 시장 상황을 반영하도록 요구합니다. 실제로 열을 가스 외의 연료로 만들면서 요금은 가스 가격에 연동한 사례가 문제가 되어 왔습니다. 2024년 시행된 열계획법(Wärmeplanungsgesetz)에 따라 인구 10만 명 이상 도시는 2026년 6월까지 지자체 열계획(kommunale Wärmeplanung)을 세워야 하며, 이는 건물에너지법(GEG)의 난방 교체 의무와 연결됩니다. Mainstadt와 등장인물은 모두 가상입니다. 표현 초점: die Fernwärme, die Wärmeplanung, der Preis, die Kalkulation, Erklären Sie es mir, als wäre ich Ihre Nachbarin.
+next: 3부 9화 — «Wärme für alle»(모두를 위한 온기) — 감사 결과를 발표하는 시민회관 주민설명회. 독점 구조와 불투명한 가격에 분노한 주민들 앞에서 셀린이 만든 '우리 집 난방비 계산기'가 분노를 대화로 바꾼다.
+
+## 도입 — KUNDENCENTER, ACHT UHR
+HOFFMANN: Entschuldigung, junge Frau, sind Sie auch von den Stadtwerken? Dann erklären Sie mir mal diese Rechnung.
+> 실례해요, 아가씨, 아가씨도 에너지공사 사람이에요? 그럼 이 청구서 좀 설명해 봐요.
+SELIN: Ich bin nicht von den Stadtwerken, sondern von einem Prüfbüro. Aber zeigen Sie gern her.
+> 저는 에너지공사가 아니라 감사 회사에서 왔어요. 그래도 보여 주세요.
+HOFFMANN: Achtundfünfzig Quadratmeter, ich wohne allein, und ich drehe die Heizung nie über drei. Nachzahlung: tausendachthundertneunzig Euro. Meine Rente ist tausendvierhundert im Monat.
+> 58제곱미터, 혼자 살고, 난방은 3 이상으로 올린 적이 없어요. 추가 정산액이 1,890유로래요. 내 연금은 한 달에 1,400유로인데.
+SELIN: Der Arbeitspreis ist in einem Jahr von dreizehn Komma neun auf neunzehn Komma fünf Cent pro Kilowattstunde gestiegen. Das sind über vierzig Prozent.
+> 사용량 요금이 1년 만에 킬로와트시당 13.9센트에서 19.5센트로 올랐네요. 40퍼센트가 넘어요.
+HOFFMANN: Und warum? Die Frau am Schalter sagt: «Preisgleitklausel.» Was ist eine Preisgleitklausel?
+> 왜요? 창구 직원은 '가격 연동 조항'이라는데. 가격 연동 조항이 뭐예요?
+SELIN: Eine Formel, nach der sich der Preis automatisch an bestimmte Kosten anpasst. Ehrlich gesagt verstehe ich sie auch noch nicht. Aber genau deshalb sind wir hier.
+> 특정 비용에 맞춰 가격이 자동으로 조정되는 공식이에요. 솔직히 저도 아직 이해 못 했어요. 그래서 저희가 여기 온 거고요.
+HOFFMANN: Wechseln kann ich ja nicht. Beim Strom gehe ich zu einem anderen Anbieter. Aber die Fernwärme kommt aus dem Rohr im Keller, und das Rohr gehört den Stadtwerken.
+> 바꿀 수도 없잖아요. 전기는 다른 회사로 옮기면 돼요. 그런데 지역난방은 지하실 배관으로 들어오고, 그 배관은 에너지공사 거예요.
+PETERSEN: Genau deshalb hat die Stadtverordnetenversammlung dieses Audit beschlossen. Anja Petersen, Vorsitzende des Haupt- und Finanzausschusses. Frau Dr. Brandt, danke, dass Sie so früh gekommen sind.
+> 바로 그래서 시의회가 이번 감사를 의결한 겁니다. 안야 페터젠, 재정위원회 위원장입니다. 브란트 박사님, 이렇게 일찍 와 주셔서 감사합니다.
+KATHARINA: Wir wollten sehen, wo die Frage entsteht, bevor wir hören, wie sie im Konferenzraum beantwortet wird.
+> 회의실에서 그 질문에 어떻게 답하는지 듣기 전에, 질문이 어디서 생기는지 보고 싶었어요.
+PETERSEN: Zweiundzwanzigtausend Haushalte in Mainstadt hängen an der Fernwärme. Fast alle haben diese Nachzahlung bekommen. Die Stadtwerke sagen, die Preise seien korrekt berechnet. Niemand im Rat kann das überprüfen.
+> Mainstadt에서 2만 2천 가구가 지역난방을 씁니다. 거의 모두가 이 추가 정산서를 받았어요. 에너지공사는 요금이 정확히 계산됐다고 합니다. 시의회에선 아무도 그걸 확인할 수 없고요.
+PAUL: Und was ist Ihre Frage?
+> 그럼 질문은 무엇입니까?
+PETERSEN: Ist der Preis gerecht? Und wenn nicht: Wer verdient daran?
+> 이 요금이 공정한가? 그리고 공정하지 않다면, 누가 그걸로 돈을 버는가?
+
+## 분석 — EINE FORMEL MIT VIER BUCHSTABEN
+STEINHAUER: Frau Dr. Brandt, ich verstehe den Ärger der Kunden. Aber unsere Kalkulation ist rechtlich einwandfrei. Die Preisänderungsklausel folgt der Verordnung über Fernwärme und wurde von zwei Kanzleien geprüft.
+> 브란트 박사님, 고객들의 분노는 이해합니다. 하지만 저희 요금 산정은 법적으로 문제가 없습니다. 가격 변경 조항은 지역난방 공급 조건령을 따르고 있고, 로펌 두 곳의 검토를 받았습니다.
+KATHARINA: Dann ist es sicher einfach, sie uns zu erklären.
+> 그럼 저희한테 설명하시는 것도 분명 간단하겠네요.
+STEINHAUER: Frau Kluge, unsere Leiterin Preisbildung, wird Ihnen die Formel zeigen.
+> 요금산정팀장 클루게 씨가 공식을 보여 드릴 겁니다.
+KLUGE: Gern. Der Arbeitspreis berechnet sich als Basispreis mal eine Summe aus vier gewichteten Indizes: fünfunddreißig Prozent Erdgas-Großhandelspreis, fünfundzwanzig Prozent Gas-Terminmarkt, zwanzig Prozent Lohnindex, zwanzig Prozent Wärmepreisindex des Statistischen Bundesamts.
+> 네. 사용량 요금은 기준 가격에 가중치를 둔 네 지수의 합을 곱해 산정합니다. 천연가스 도매가격 35퍼센트, 가스 선물시장 25퍼센트, 임금지수 20퍼센트, 연방통계청 열 가격지수 20퍼센트.
+TOBIAS: Sechzig Prozent der Formel hängen also am Gaspreis.
+> 그러니까 공식의 60퍼센트가 가스 가격에 걸려 있네요.
+KLUGE: Richtig. Das ist in der Branche üblich.
+> 맞습니다. 업계에선 일반적이에요.
+SELIN: Frau Kluge, können Sie es mir erklären, als wäre ich Ihre Nachbarin? Nicht die Formel. Den Grund. Warum muss Frau Hoffmann mehr bezahlen?
+> 클루게 팀장님, 제가 팀장님 이웃이라 치고 설명해 주실 수 있어요? 공식 말고요. 이유를요. 왜 호프만 할머니가 더 내야 하죠?
+KLUGE: … Als meine Nachbarin? Na gut. Wir verbrennen Gas, um Wasser heiß zu machen. Gas ist teurer geworden. Also wird das heiße Wasser teurer.
+> …제 이웃이라 치고요? 좋아요. 저희는 물을 데우려고 가스를 태워요. 가스가 비싸졌어요. 그래서 뜨거운 물도 비싸지는 거예요.
+SELIN: Danke. Das verstehe ich. Und wie viel Prozent der Wärme in Mainstadt kommt heute aus Gas?
+> 감사합니다. 그건 이해가 돼요. 그럼 지금 Mainstadt의 열 중 몇 퍼센트가 가스에서 나와요?
+KLUGE: Das müsste ich nachsehen.
+> 그건 확인해 봐야 해요.
+PAUL: Ich habe es nachgesehen. Laut Ihrem eigenen Nachhaltigkeitsbericht: achtunddreißig Prozent. Der Rest kommt aus der Müllverbrennungsanlage, aus Biomasse und aus der neuen Großwärmepumpe am Main.
+> 제가 확인했습니다. 귀사 지속가능성 보고서에 따르면 38퍼센트입니다. 나머지는 쓰레기 소각장, 바이오매스, 그리고 마인강의 새 대형 열펌프에서 나오고요.
+TOBIAS: Achtunddreißig Prozent Gas in der Erzeugung, aber sechzig Prozent Gas in der Preisformel.
+> 생산에선 가스가 38퍼센트인데, 요금 공식에선 60퍼센트.
+KLUGE: Die Formel stammt von vor sechs Jahren. Damals lag der Gasanteil bei fünfundachtzig Prozent.
+> 그 공식은 6년 전에 만든 거예요. 그땐 가스 비중이 85퍼센트였어요.
+SELIN: Und seitdem wurde sie nie angepasst?
+> 그 뒤로 한 번도 고친 적이 없어요?
+KLUGE: Es gab einen Entwurf. Vor zwei Jahren. Er wurde … nicht umgesetzt.
+> 초안은 있었어요. 2년 전에요. 그게… 시행되지 않았어요.
+KATHARINA: Was kostet die Wärme aus der Müllverbrennung?
+> 쓰레기 소각에서 나오는 열은 원가가 얼마죠?
+KLUGE: Sehr wenig. Die Anlage verbrennt den Müll ohnehin, die Wärme ist im Grunde ein Nebenprodukt. Die Gemeinden bezahlen uns sogar für die Entsorgung.
+> 아주 적어요. 소각장은 어차피 쓰레기를 태우니까 열은 사실상 부산물이에요. 오히려 지자체들이 처리 비용을 저희한테 내죠.
+TOBIAS: Moment, das heißt: Ein Teil der Wärme ist fast kostenlos, wird aber zum Gaspreis verkauft.
+> 잠깐, 그 말은 열의 일부는 거의 공짜인데 가스 가격으로 팔린다는 거네요.
+STEINHAUER: Herr Wendt, das ist eine verkürzte Darstellung. Wir haben enorme Investitionen vor uns. Der Ausbau des Netzes, die Wärmepumpe, die Umstellung auf klimaneutrale Wärme bis 2040.
+> 벤트 씨, 그건 단순화된 설명입니다. 저희 앞엔 막대한 투자가 있어요. 배관망 확장, 열펌프, 2040년까지 기후 중립 열로의 전환.
+SELIN: Ich habe die Zahlen grob nachgerechnet. Hätte die Formel den tatsächlichen Erzeugungsmix abgebildet, wäre der Arbeitspreis im letzten Jahr um rund achtzehn Prozent gestiegen, nicht um vierzig. Die Differenz macht etwa vierzehn Millionen Euro Mehrerlös aus.
+> 대략 계산해 봤어요. 공식이 실제 생산 구성을 반영했다면 작년 사용량 요금은 40퍼센트가 아니라 약 18퍼센트 올랐을 거예요. 그 차이가 약 1,400만 유로의 추가 수입이에요.
+TOBIAS: Vierzehn Millionen bei zweiundzwanzigtausend Haushalten. Das sind im Schnitt gut sechshundert Euro pro Haushalt.
+> 2만 2천 가구에 1,400만이면 가구당 평균 600유로가 넘어.
+KATHARINA: Und wo sind die vierzehn Millionen geblieben?
+> 그 1,400만은 어디로 갔죠?
+TOBIAS: Im Jahresergebnis. Der Gewinn der Fernwärmesparte hat sich verdreifacht. Und der Gewinn wurde an die städtische Holding abgeführt.
+> 연간 실적에요. 지역난방 부문 이익이 세 배가 됐어요. 그리고 그 이익은 시 지주회사로 넘어갔고.
+PAUL: Und die Holding?
+> 그럼 지주회사는?
+TOBIAS: Gleicht damit die Verluste der Bäder und der Busse aus. Steuerlicher Querverbund. Ganz legal, sehr deutsch.
+> 그걸로 수영장과 버스의 적자를 메우지. 세무상 통합 경영. 완전히 합법이고, 아주 독일적이야.
+SELIN: Also bezahlt Frau Hoffmann mit ihrer Heizkostennachzahlung das Hallenbad, in das sie vermutlich nie geht.
+> 그러니까 호프만 할머니는 난방비 추가 정산으로 아마 한 번도 안 가실 실내 수영장 비용을 내고 있는 거네.
+PAUL: Und das hat sich niemand ausgedacht. Es hat sich ergeben. Die Formel ist alt, und niemand hatte ein Interesse, sie zu ändern.
+> 그리고 누가 그걸 계획한 것도 아니야. 그렇게 돼 버린 거지. 공식은 낡았고, 아무도 그걸 바꿀 이유가 없었던 거야.
+KATHARINA: Und die Wärmeplanung? Die Stadt müsste ihren kommunalen Wärmeplan seit fast zwei Jahren haben.
+> 열계획은요? 시는 지자체 열계획을 거의 2년 전부터 갖고 있어야 했잖아요.
+STEINHAUER: Der Entwurf ist fertig. Er weist drei neue Fernwärmegebiete aus und sieht vor, das Gasnetz in den Wohngebieten bis 2040 schrittweise stillzulegen.
+> 초안은 완성됐습니다. 신규 지역난방 구역 세 곳을 지정하고, 2040년까지 주거지역 가스망을 단계적으로 폐쇄하는 내용입니다.
+PETERSEN: Und er liegt seit acht Monaten im Büro des Oberbürgermeisters.
+> 그리고 그게 여덟 달째 시장실에 있죠.
+TOBIAS: Warum?
+> 왜요?
+PETERSEN: Weil in den neuen Fernwärmegebieten Tausende Hausbesitzer erfahren würden, dass ihre Gasheizung eine Zukunft von zwölf Jahren hat. Und dass die Fernwärme, an die sie sich anschließen sollen, gerade um vierzig Prozent teurer geworden ist.
+> 신규 지역난방 구역의 집주인 수천 명이 자기 가스 보일러의 수명이 12년이라는 걸 알게 될 테니까요. 그리고 연결하라는 지역난방이 방금 40퍼센트 올랐다는 것도요.
+KATHARINA: Dann ist der Preis nicht nur eine Frage der Gerechtigkeit, sondern auch der Wärmewende. Wer soll sich anschließen, wenn er dem Preis nicht traut?
+> 그럼 요금은 공정성의 문제일 뿐 아니라 열 전환의 문제이기도 하네요. 요금을 믿지 못하는데 누가 연결하겠어요?
+
+## 갈등 — DAS HALLENBAD
+REINHARDT: Frau Dr. Brandt, ich habe Ihren Zwischenbericht gelesen. Sie haben recht mit der Formel. Und Sie haben keine Ahnung von Kommunalfinanzen.
+> 브란트 박사님, 중간 보고서 읽었습니다. 공식에 대해선 박사님 말이 맞아요. 그리고 지방재정에 대해선 아무것도 모르시는군요.
+KATHARINA: Dann erklären Sie es mir, Herr Oberbürgermeister.
+> 그럼 설명해 주세요, 시장님.
+REINHARDT: Mainstadt hat ein Haushaltsdefizit von achtzehn Millionen Euro. Die Bäder verlieren jedes Jahr sechs Millionen, die Busse neun. Ohne den Gewinn der Stadtwerke müsste ich das Hallenbad schließen und zwei Buslinien streichen. Oder die Grundsteuer erhöhen.
+> Mainstadt는 재정 적자가 1,800만 유로입니다. 수영장은 매년 600만, 버스는 900만을 잃어요. 에너지공사 이익이 없으면 실내 수영장을 닫고 버스 노선 두 개를 없애야 합니다. 아니면 재산세를 올리거나요.
+SELIN: Dann erhöhen Sie offen die Grundsteuer, anstatt die Kosten heimlich auf die Heizkosten der Fernwärmekunden zu legen.
+> 그럼 지역난방 고객들의 난방비에 몰래 얹지 말고, 재산세를 공개적으로 올리세요.
+REINHARDT: Frau Aydın, in elf Monaten ist Kommunalwahl. Kein Oberbürgermeister in Hessen erhöht vor einer Wahl die Grundsteuer.
+> 아이든 씨, 11개월 뒤가 지방선거예요. 헤센의 어떤 시장도 선거 앞두고 재산세를 올리지 않습니다.
+SELIN: Aber er lässt zu, dass eine Rentnerin mit tausendvierhundert Euro Rente das Hallenbad finanziert.
+> 하지만 연금 1,400유로 받는 할머니가 수영장 비용을 대는 건 내버려 두시는군요.
+REINHARDT: Die Rentnerin bekommt Wohngeld, wenn sie es beantragt. Das Hallenbad dient der ganzen Stadt. Schulschwimmen, Vereine, Senioren.
+> 그 할머니는 신청하면 주거 보조금을 받습니다. 수영장은 시 전체를 위한 거예요. 학교 수영, 동호회, 노인들.
+PETERSEN: Wohngeld bekommt nur, wer unter einer Einkommensgrenze liegt, Thomas. Frau Hoffmann liegt vierzig Euro darüber. Ich habe nachgefragt.
+> 주거 보조금은 소득 기준 아래에 있는 사람만 받아, 토마스. 호프만 할머니는 그보다 40유로 많아. 내가 확인했어.
+REINHARDT: Dann ist das ein Fall für einen Härtefonds und kein Grund für eine Systemkritik.
+> 그럼 그건 긴급 지원 기금으로 해결할 사안이지 체제 비판의 근거가 아니야.
+TOBIAS: Herr Reinhardt, ich bin nicht gegen Hallenbäder. Ich bin dagegen, dass niemand weiß, dass er eines bezahlt.
+> 라인하르트 시장님, 저는 수영장에 반대하는 게 아닙니다. 자기가 수영장 비용을 내고 있다는 걸 아무도 모르는 데 반대하는 거죠.
+STEINHAUER: Und ich muss darauf hinweisen: Wir brauchen in den nächsten fünfzehn Jahren rund eine Komma eins Milliarden Euro für den Umbau der Wärmeversorgung. Wenn die Erlöse sinken, bekommen wir keine Kredite. Dann scheitert die Wärmewende in Mainstadt, bevor sie angefangen hat.
+> 그리고 지적해야겠습니다. 저희는 향후 15년 동안 열 공급 전환에 약 11억 유로가 필요합니다. 수입이 줄면 대출을 못 받아요. 그럼 Mainstadt의 열 전환은 시작도 전에 실패합니다.
+TOBIAS: Das ist ein ernstes Argument. Ich habe es mir angesehen. Ohne Preissteigerungen ist die Investition tatsächlich nicht zu finanzieren.
+> 그건 진지한 논거야. 내가 들여다봤어. 요금 인상 없이는 그 투자는 실제로 재원 조달이 안 돼.
+SELIN: Tobias, du verteidigst jetzt die vierzig Prozent?
+> 토비아스, 너 지금 40퍼센트를 변호하는 거야?
+TOBIAS: Nein. Ich sage: Ein Teil des Preisanstiegs wäre vielleicht nötig. Aber dann muss er so heißen. «Investitionsbeitrag Wärmewende», ausgewiesen, begründet, befristet. Nicht als Gaspreis verkleidet.
+> 아니. 내 말은, 인상분의 일부는 필요할 수도 있다는 거야. 하지만 그렇다면 이름을 제대로 붙여야지. '열 전환 투자 분담금', 명시하고, 근거를 대고, 기한을 두고. 가스 가격으로 위장하지 말고.
+SELIN: Und wer kontrolliert, dass der Beitrag wirklich in Rohre fließt und nicht wieder ins Hallenbad?
+> 그럼 그 분담금이 다시 수영장이 아니라 정말 배관에 들어가는지 누가 감시해?
+TOBIAS: Ein eigenes Konto, ein jährlicher Bericht, eine Prüfung. Das ist kein Zauber, das ist Buchhaltung.
+> 별도 계좌, 연간 보고서, 감사. 마법이 아니라 회계야.
+PAUL: Und es gibt ein Problem, das hier noch niemand angesprochen hat. Die Verordnung verlangt, dass eine Preisänderungsklausel die tatsächliche Kostenentwicklung angemessen abbildet. Eine Klausel, die sechzig Prozent Gas abbildet, wo achtunddreißig Prozent verbrannt werden, ist angreifbar.
+> 그리고 아직 아무도 꺼내지 않은 문제가 있습니다. 공급 조건령은 가격 변경 조항이 실제 원가 변동을 적절히 반영할 것을 요구합니다. 실제로는 38퍼센트를 태우는데 가스 60퍼센트를 반영하는 조항은 법적으로 공격받을 수 있어요.
+STEINHAUER: Unsere Kanzleien sehen das anders.
+> 저희 로펌들은 다르게 봅니다.
+PAUL: Ihre Kanzleien haben die Klausel vor sechs Jahren geprüft, als sie noch gestimmt hat. Hat sie seitdem jemand mit dem neuen Erzeugungsmix geprüft?
+> 귀사 로펌들은 그 조항이 아직 맞았던 6년 전에 검토했죠. 그 뒤로 새 생산 구성을 놓고 다시 검토한 사람이 있습니까?
+STEINHAUER: …
+> …
+KLUGE: Nein. Niemand.
+> 아뇨. 아무도요.
+STEINHAUER: Frau Kluge, ich glaube nicht, dass Sie hier für das Unternehmen sprechen.
+> 클루게 팀장, 당신이 여기서 회사를 대변하는 것 같지는 않군요.
+KLUGE: Ich habe nur eine Frage beantwortet, Herr Dr. Steinhauer. Wahrheitsgemäß.
+> 저는 질문에 답했을 뿐이에요, 슈타인하우어 박사님. 사실대로요.
+REINHARDT: Frau Dr. Brandt, ich sage es offen: Dieser Bericht kommt zum falschen Zeitpunkt. Ich möchte, dass er erst nach der Haushaltsberatung im Rat vorgestellt wird.
+> 브란트 박사님, 솔직히 말하겠습니다. 이 보고서는 시점이 안 좋습니다. 예산 심의가 끝난 뒤에 시의회에 보고됐으면 합니다.
+PETERSEN: Thomas, der Auftrag kommt von der Stadtverordnetenversammlung, nicht vom Magistrat. Du kannst den Termin nicht verschieben.
+> 토마스, 의뢰는 시 집행부가 아니라 시의회에서 나온 거야. 당신이 일정을 미룰 수 없어.
+REINHARDT: Ich kann aber dafür sorgen, dass die Stadtwerke keine weiteren Daten herausgeben. Aus Gründen des Geschäftsgeheimnisses.
+> 하지만 에너지공사가 추가 자료를 내지 않도록 할 수는 있지. 영업비밀을 이유로.
+KATHARINA: Herr Reinhardt, wenn Sie das tun, wird es im Bericht stehen. Und dann wird die Frage in der Bürgerversammlung nicht mehr lauten, ob der Preis gerecht ist, sondern was der Oberbürgermeister zu verbergen hat.
+> 라인하르트 시장님, 그렇게 하시면 그것도 보고서에 들어갑니다. 그러면 주민설명회에서 질문은 더 이상 '요금이 공정한가'가 아니라 '시장이 무엇을 숨기는가'가 될 거예요.
+REINHARDT: Drohen Sie mir?
+> 저를 협박하는 겁니까?
+KATHARINA: Nein. Ich beschreibe Ihnen nur, wie Ihre Bürger es verstehen würden. Ich bin nicht Ihre Gegnerin. Ich suche einen Weg, auf dem Sie das Hallenbad nicht schließen und Frau Hoffmann trotzdem nicht frieren muss.
+> 아닙니다. 시민들이 그걸 어떻게 받아들일지 설명드리는 것뿐이에요. 저는 시장님의 적이 아닙니다. 수영장을 닫지 않으면서도 호프만 할머니가 추위에 떨지 않아도 되는 길을 찾고 있는 거예요.
+REINHARDT: Sie reden wie jemand, der nie eine Wahl gewinnen musste.
+> 선거에서 한 번도 이겨 볼 필요가 없었던 사람처럼 말하시는군요.
+KATHARINA: Das stimmt. Ich musste bisher nur Aufsichtsräte, Banken und zweitausend Fußballfans überzeugen. Aber ich glaube, auch Wählerinnen und Wähler merken, ob man sie ernst nimmt.
+> 맞아요. 지금까진 감사회, 은행, 축구 팬 2천 명만 설득하면 됐죠. 하지만 유권자들도 자기를 진지하게 대하는지 아닌지는 알아챈다고 생각해요.
+UTE: Katharina? Hier ist Ute. Ich habe gerade im Internet gelesen, dass in Mainstadt eine Bürgerinitiative eine Sammelklage vorbereitet. «Kalte Wohnung, heißer Preis». Achthundert Unterschriften in drei Tagen.
+> 카타리나? 우테야. 방금 인터넷에서 봤는데, Mainstadt에서 주민 단체가 집단소송을 준비하고 있대. '차가운 집, 뜨거운 요금'. 사흘 만에 서명 800명.
+KATHARINA: Danke, Ute. Das ist genau der Zeitpunkt, an dem man aufhört, über den Zeitpunkt zu streiten.
+> 고마워, 우테. 이제야말로 시점을 두고 다투는 걸 그만둘 시점이네.
+UTE: Und noch was: Zieh dich warm an. In Hessen ist es auch April.
+> 그리고 하나 더. 옷 따뜻하게 입어. 헤센도 4월이야.
+PAUL: Ute hat recht. Ist euch aufgefallen, dass dieses Rathaus selbst an der Fernwärme hängt? Und dass es hier drinnen eiskalt ist?
+> 우테 말이 맞아. 이 시청 자체가 지역난방에 연결돼 있다는 거 눈치챘어? 그리고 여기 안이 얼음장이라는 것도?
+
+## 해결·설득 — DREI MILLIONEN ODER DREISSIG
+KATHARINA: Herr Reinhardt, Herr Dr. Steinhauer, lassen Sie mich zwei Rechnungen nebeneinanderlegen. Tobias.
+> 라인하르트 시장님, 슈타인하우어 박사님, 계산 두 개를 나란히 놓아 보겠습니다. 토비아스.
+TOBIAS: Rechnung eins: Sie machen weiter wie bisher. Die Sammelklage hat nach unserer Einschätzung gute Aussichten. Wird die Klausel für unwirksam erklärt, können Kunden Erstattung für bis zu drei Jahre verlangen. Bei zweiundzwanzigtausend Haushalten sind das zwischen fünfundzwanzig und fünfunddreißig Millionen Euro.
+> 첫 번째 계산. 지금처럼 계속하신다. 저희 판단으로는 집단소송이 이길 가능성이 상당합니다. 조항이 무효로 판단되면 고객들은 최대 3년 치 환급을 청구할 수 있어요. 2만 2천 가구면 2,500만에서 3,500만 유로 사이입니다.
+STEINHAUER: Dreißig Millionen. Das wäre das gesamte Eigenkapital der Fernwärmesparte.
+> 3,000만. 그건 지역난방 부문 자기자본 전부예요.
+TOBIAS: Plus Anwaltskosten, plus Zinsen. Und dann bekommen Sie für Ihre eins Komma eins Milliarden Investitionen ganz sicher keinen Kredit mehr.
+> 거기에 변호사 비용, 이자까지. 그러면 11억 유로 투자를 위한 대출은 확실히 못 받으시겠죠.
+TOBIAS: Rechnung zwei: Sie ändern die Formel jetzt freiwillig, rückwirkend zum Jahresanfang. Gasanteil achtunddreißig Prozent, Müllverbrennung und Biomasse zu ihren echten Kosten, die Wärmepumpe mit dem Strompreis. Der Arbeitspreis sinkt um etwa achtzehn Prozent. Die Stadtwerke erstatten den Kunden rund drei Millionen für das laufende Jahr.
+> 두 번째 계산. 지금 자발적으로 공식을 바꾸고, 연초로 소급 적용하신다. 가스 비중 38퍼센트, 쓰레기 소각과 바이오매스는 실제 원가로, 열펌프는 전기 요금으로. 사용량 요금은 약 18퍼센트 내려갑니다. 에너지공사는 올해분으로 고객들에게 약 300만 유로를 환급하고요.
+STEINHAUER: Und unsere Ergebnisprognose? Die Banken schauen auf unsere Erlöse.
+> 그럼 저희 실적 전망은요? 은행들은 저희 수입을 봅니다.
+TOBIAS: Die Banken schauen auf Risiken. Eine angreifbare Preisklausel ist ein Risiko, eine geprüfte, transparente Formel ist ein Argument. Ich habe lange genug für Banken gearbeitet.
+> 은행들은 위험을 봅니다. 공격받을 수 있는 가격 조항은 위험이고, 검증된 투명한 공식은 논거죠. 저는 은행에서 충분히 오래 일했습니다.
+REINHARDT: Drei Millionen statt dreißig.
+> 3,000만 대신 300만이라.
+KATHARINA: Und dazu ein zweiter Baustein, wie Tobias vorgeschlagen hat: ein ausgewiesener, befristeter Investitionsbeitrag für die Wärmewende. Ehrlich benannt, mit einer öffentlichen Liste, wofür jeder Cent ausgegeben wird.
+> 그리고 토비아스가 제안한 대로 두 번째 요소를 더합니다. 열 전환을 위한, 명시되고 기한이 있는 투자 분담금. 이름을 정직하게 붙이고, 한 푼 한 푼이 어디에 쓰이는지 공개 목록과 함께.
+STEINHAUER: Und die Kunden akzeptieren das? Einen Zuschlag, auf dem «Zuschlag» steht?
+> 고객들이 그걸 받아들일까요? '할증'이라고 쓰인 할증을요?
+SELIN: Eher als einen Preis, den sie nicht verstehen. Herr Dr. Steinhauer, die Leute sind nicht wütend, weil Wärme Geld kostet. Sie sind wütend, weil sie sich betrogen fühlen.
+> 이해 못 하는 요금보다는 받아들이겠죠. 슈타인하우어 박사님, 사람들은 열에 돈이 든다는 것 때문에 화난 게 아니에요. 속았다고 느끼기 때문에 화난 거예요.
+KLUGE: Darf ich etwas sagen? Den Entwurf für eine neue Formel, den es vor zwei Jahren gab — den habe ich geschrieben. Er sah fast genau so aus.
+> 제가 한마디 해도 될까요? 2년 전에 있었던 새 공식 초안이요. 그거 제가 썼어요. 거의 이것과 똑같았어요.
+PAUL: Und warum wurde er nicht umgesetzt?
+> 그런데 왜 시행되지 않았습니까?
+KLUGE: Weil man mir gesagt hat, das sei «haushaltspolitisch derzeit nicht darstellbar». Das war der Satz.
+> '현재로선 예산 정책상 설명이 어렵다'고 하더군요. 딱 그 문장이었어요.
+STEINHAUER: Bettina, das …
+> 베티나, 그건…
+KLUGE: Rolf, ich bin seit sechzehn Jahren bei den Stadtwerken. Meine Mutter wohnt in der Siedlung am Mainbogen, an der Fernwärme. Sie hat dieselbe Nachzahlung bekommen wie Frau Hoffmann. Ich erkläre ihr seit Monaten eine Formel, von der ich weiß, dass sie falsch ist.
+> 롤프, 저 에너지공사에 16년 있었어요. 우리 엄마가 마인보겐 단지에, 지역난방 쓰는 집에 살아요. 호프만 할머니랑 똑같은 추가 정산서를 받으셨어요. 저는 몇 달째 틀린 걸 아는 공식을 엄마한테 설명하고 있다고요.
+STEINHAUER: … Das wusste ich nicht.
+> …그건 몰랐어요.
+KLUGE: Sie haben nie gefragt.
+> 물어보신 적이 없으니까요.
+REINHARDT: Und das Hallenbad?
+> 그럼 수영장은요?
+KATHARINA: Das Hallenbad ist eine politische Entscheidung, Herr Reinhardt. Treffen Sie sie im Rat, offen. Wenn die Stadt sechs Millionen im Jahr für ihre Bäder ausgeben will, ist das ein gutes Ziel. Aber dann muss sie es aus dem Haushalt bezahlen, nicht aus den Heizkosten.
+> 수영장은 정치적 결정입니다, 라인하르트 시장님. 시의회에서 공개적으로 결정하세요. 시가 수영장에 매년 600만 유로를 쓰고 싶다면 좋은 목표예요. 하지만 그렇다면 난방비가 아니라 예산에서 내야죠.
+REINHARDT: Vor der Wahl.
+> 선거 전에요.
+PETERSEN: Gerade vor der Wahl, Thomas. Die achthundert Unterschriften sind auch Wählerinnen und Wähler.
+> 선거 전이니까 더더욱이지, 토마스. 서명한 800명도 유권자야.
+REINHARDT: … Gut. Die Stadtwerke legen die neue Formel vor. Der Wärmeplan geht nächste Woche in die öffentliche Auslegung. Und ich gehe selbst zur Bürgerversammlung.
+> …좋습니다. 에너지공사는 새 공식을 제출합니다. 열계획은 다음 주에 공람에 들어가고요. 그리고 주민설명회엔 제가 직접 가겠습니다.
+PETERSEN: Und der Härtefonds?
+> 그럼 긴급 지원 기금은?
+REINHARDT: Eine Million aus dem städtischen Haushalt, für Haushalte knapp über der Wohngeldgrenze. Das beantrage ich selbst im Rat.
+> 시 예산에서 100만 유로. 주거 보조금 기준을 살짝 넘는 가구를 위해서. 시의회에 내가 직접 제안하겠어.
+KATHARINA: Das ist ein mutiger Satz. Ich hoffe, Sie sagen ihn dort genauso.
+> 용기 있는 말씀이네요. 거기서도 똑같이 말씀하시길 바랍니다.
+STEINHAUER: Frau Kluge, Sie übernehmen die neue Kalkulation. Mit Ihrem Entwurf von vor zwei Jahren als Grundlage.
+> 클루게 팀장, 새 요금 산정은 당신이 맡아요. 2년 전 당신 초안을 기초로.
+KLUGE: Gern. Und diesmal schreibe ich eine Fassung für Nachbarinnen dazu.
+> 기꺼이요. 그리고 이번엔 이웃용 설명문도 같이 쓸게요.
+
+## 마무리 — EIN RECHNER FÜR FRAU HOFFMANN
+SELIN: Ich habe eine Idee für die Bürgerversammlung. Ein Rechner. Man gibt seine Wohnfläche und seinen Verbrauch ein und sieht: alter Preis, neuer Preis, Investitionsbeitrag, Erstattung.
+> 주민설명회를 위한 아이디어가 있어. 계산기. 주거 면적이랑 사용량을 넣으면 보이는 거야. 옛 요금, 새 요금, 투자 분담금, 환급액.
+TOBIAS: Und wer baut den? In zwei Wochen?
+> 그걸 누가 만들어? 2주 안에?
+SELIN: Ich. Frau Kluge liefert die Formel. Und Frau Hoffmann testet ihn.
+> 내가. 클루게 팀장이 공식을 주고, 호프만 할머니가 테스트하는 거지.
+PAUL: Frau Hoffmann als Testerin. Das gefällt mir. Wenn sie es versteht, versteht es jeder.
+> 호프만 할머니가 테스터라. 마음에 드네. 그분이 이해하면 누구나 이해하는 거니까.
+HOFFMANN: Ich habe gehört, ich soll etwas testen? Mein Enkel sagt, ich darf nicht auf «Weiter» klicken, wenn ich nicht weiß, was passiert.
+> 내가 뭘 테스트해야 한다면서요? 손자가 그러는데, 무슨 일이 생길지 모르면 '다음'을 누르면 안 된대요.
+SELIN: Ihr Enkel hat völlig recht. Genau deshalb steht bei uns neben jedem Knopf, was passiert.
+> 손자분 말이 전적으로 맞아요. 바로 그래서 저희는 버튼마다 옆에 무슨 일이 생기는지 써 둘 거예요.
+HOFFMANN: Und bekomme ich etwas zurück?
+> 그럼 나도 뭘 돌려받아요?
+TOBIAS: Nach der neuen Formel etwa zweihundertsechzig Euro für dieses Jahr. Und Ihr Abschlag sinkt.
+> 새 공식에 따르면 올해분으로 약 260유로요. 그리고 월 선납금도 내려가요.
+HOFFMANN: Zweihundertsechzig. Davon kaufe ich meinem Enkel die Fußballschuhe. Und den Rest bringe ich ins Hallenbad. Da war ich nämlich seit zwanzig Jahren nicht mehr.
+> 260유로. 그걸로 손자 축구화를 사 줄 거예요. 나머지는 수영장에 가져가고. 거기 안 간 지 20년 됐거든요.
+KATHARINA: Das ist die schönste Verwendung von Fernwärmegeld, die ich je gehört habe.
+> 지역난방비가 쓰이는 방법 중 제가 들어 본 가장 아름다운 방법이네요.
+PETERSEN: Die Bürgerversammlung ist am Donnerstag in drei Wochen. Wir rechnen mit sechshundert Leuten. Und die Bürgerinitiative hat angekündigt, Trillerpfeifen mitzubringen.
+> 주민설명회는 3주 뒤 목요일이에요. 600명 정도 예상합니다. 그리고 주민 단체가 호루라기를 가져오겠다고 예고했어요.
+KATHARINA: Nach Block C machen mir Trillerpfeifen keine Angst mehr.
+> C구역을 겪고 나니 이제 호루라기는 하나도 안 무서워요.

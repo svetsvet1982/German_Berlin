@@ -1,0 +1,268 @@
+part: 1
+ep: 7
+title_de: Der Strompreis
+title_ko: 전기요금
+scene: 월요일 아침, 프랑크푸르트 서부 화학단지
+level: B1+→B2
+setting: 월요일 오전 여덟 시부터 저녁까지, 프랑크푸르트 서쪽 마인강변 Industriepark Main-West(가상)의 Mainchem AG 본관 이사회실과 복도
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
+cast: LORENZ | Jan-Hendrik Lorenz · 시니어 파트너 (58)
+cast: HOLZAPFEL | Dr. Martin Holzapfel · Mainchem AG 이사회 의장 (61, 가상)
+cast: RIECK | Dr. Susanne Rieck · Mainchem AG 재무담당 이사(CFO)
+cast: OCHS | Ralf Ochs · Mainchem 노동자평의회 의장, 화학·에너지 노조 IG BCE (59)
+cast: BRENNEIS | Carola Brenneis · 헤센 주 경제부 차관(Staatssekretärin) (가상)
+cast: GERLACH | Dr. Anja Gerlach · Mainchem AG 물류 책임자
+note: ※ 독일 화학 산업은 가스와 전기를 가장 많이 쓰는 업종 중 하나입니다. 특히 소금물을 전기분해해 염소와 가성소다를 만드는 염소-알칼리 전해(Chlor-Alkali-Elektrolyse)는 전기 자체가 원료나 마찬가지입니다. 2022년 에너지 위기 이후 독일의 산업용 전기·가스 가격은 미국보다 훨씬 높아졌고, 여러 대기업이 생산 일부를 해외로 옮기면서 '탈산업화(Deindustrialisierung)'와 '산업 이탈(Abwanderung)' 논쟁이 커졌습니다. 정부는 산업용 전기세 인하, 송전망 요금 보조, 그리고 에너지 집약 기업을 위한 '산업용 전기요금(Industriestrompreis)' 보조를 추진하고 있지만, 사용량의 일부와 몇 년의 기간에만 적용되는 등 조건이 붙습니다. 화학 업종 노조는 금속노조(IG Metall)가 아니라 IG BCE입니다. 장기 전력구매계약(PPA)은 발전소와 직접 고정 가격으로 전기를 사는 계약입니다. 회사·기관·인물은 모두 가상입니다. 표현 초점: der Standort, die Energiekosten, die Abwanderung, wettbewerbsfähig, Lassen Sie uns die Frage anders stellen.
+next: 1부 8화 — «Zölle aus Washington»(워싱턴발 관세) — 감사회 보고 직전, 미국이 EU산 화학제품 관세를 올린다는 소식이 날아든다. 모든 시나리오를 밤새 다시 계산해야 한다. 속도냐 정확성이냐 — Tobias와 Katharina가 처음으로 정면충돌한다.
+
+## 도입 — DER INDUSTRIEPARK
+GERLACH: Frau Dr. Brandt, willkommen im Industriepark. Hier wird seit über hundert Jahren Chemie gemacht. Achttausend Menschen arbeiten auf diesem Gelände.
+> 브란트 박사님, 산업단지에 오신 걸 환영해요. 여기서 100년 넘게 화학제품을 만들어 왔어요. 이 부지에서 8천 명이 일하죠.
+SELIN: Und die Rohre über der Straße? Was fließt da durch?
+> 길 위의 저 파이프들은요? 뭐가 흐르는 거예요?
+GERLACH: Dampf, Wasserstoff, Chlor, Stickstoff. Die Firmen hier sind wie Nachbarn, die sich ständig etwas leihen.
+> 증기, 수소, 염소, 질소요. 여기 회사들은 서로 늘 뭔가를 빌려 쓰는 이웃 같아요.
+TOBIAS: Und wenn ein Nachbar auszieht, fehlt den anderen der Zucker.
+> 그리고 이웃 하나가 이사 가면 다른 집들은 설탕이 떨어지는 거고요.
+GERLACH: Genau das ist die Angst. Seit drei Jahren redet jeder hier über die Abwanderung.
+> 바로 그게 걱정이에요. 3년째 여기선 다들 산업 이탈 얘기만 해요.
+KATHARINA: Was erwartet der Vorstand heute von uns?
+> 이사회는 오늘 저희에게 뭘 기대하나요?
+GERLACH: Eine Antwort in einem Wort. Frankfurt oder Texas.
+> 한 단어로 된 답이요. 프랑크푸르트냐, 텍사스냐.
+LORENZ: Guten Morgen, alle zusammen. Entschuldigt die Verspätung. Auf der A66 war ein Unfall.
+> 다들 좋은 아침. 늦어서 미안해. A66 고속도로에 사고가 있었어.
+TOBIAS: Herr Lorenz, Sie kommen auch?
+> 로렌츠 씨, 오셨네요?
+LORENZ: Ein Mandat über eine Milliarde Euro, Herr Wendt. Da kommt der Partner mit. Katharina führt, ich höre zu.
+> 10억 유로짜리 수임 건이에요, 벤트 씨. 이런 데는 파트너가 같이 오는 법이죠. 카타리나가 이끌고, 나는 듣기만 할 거요.
+KATHARINA: Das wäre das erste Mal.
+> 그럼 처음이네요.
+LORENZ: Es gibt für alles ein erstes Mal.
+> 뭐든 처음은 있는 법이지.
+
+## 장면 1 — ELF CENT GEGEN SECHS
+HOLZAPFEL: Meine Damen und Herren, ich komme direkt zur Sache. Wir wollen eine Milliarde Euro in eine neue Anlage investieren. Die Frage ist: wo?
+> 신사 숙녀 여러분, 바로 본론으로 들어가겠습니다. 저희는 신규 설비에 10억 유로를 투자하려 합니다. 질문은 이겁니다. 어디에?
+RIECK: Ich sage es offen: Ich bin für Texas. Unsere Energiekosten sind in Frankfurt fast doppelt so hoch wie an der amerikanischen Golfküste.
+> 솔직히 말씀드리죠. 저는 텍사스 쪽입니다. 저희 에너지 비용이 프랑크푸르트에서는 미국 멕시코만 연안보다 거의 두 배 높아요.
+KATHARINA: Frau Dr. Rieck, wie viel Strom verbraucht Mainchem im Jahr?
+> 리크 박사님, 마인켐은 연간 전기를 얼마나 쓰나요?
+RIECK: Zwei Komma eins Terawattstunden. So viel wie eine Stadt mit sechshunderttausend Haushalten. Den größten Teil braucht unsere Chlor-Alkali-Elektrolyse.
+> 2.1테라와트시요. 60만 가구 도시만큼이요. 대부분은 염소-알칼리 전해 공정이 씁니다.
+TOBIAS: Und welchen Preis zahlen Sie im Durchschnitt?
+> 평균적으로 얼마를 내시나요?
+RIECK: Mit allen Entlastungen etwa elf Cent pro Kilowattstunde. In Texas wären es etwa sechs. Und Gas kostet dort ungefähr ein Drittel.
+> 모든 감면을 합쳐서 킬로와트시당 약 11센트요. 텍사스라면 약 6센트일 거고요. 가스는 거기서 대략 3분의 1 값이에요.
+TOBIAS: Fünf Cent Unterschied bei zwei Komma eins Terawattstunden. Das sind gut hundert Millionen Euro im Jahr.
+> 2.1테라와트시에 5센트 차이. 연간 1억 유로가 넘네요.
+HOLZAPFEL: Hundert Millionen. Das ist ungefähr die Hälfte unseres Jahresgewinns.
+> 1억. 대략 우리 연간 이익의 절반입니다.
+RIECK: Genau. Und unsere Aktionäre können auch rechnen. Ein Fonds hat vier Prozent unserer Aktien und schreibt uns jeden Monat einen Brief.
+> 바로 그겁니다. 그리고 저희 주주들도 계산할 줄 알죠. 한 펀드가 저희 주식 4퍼센트를 갖고 매달 편지를 보내요.
+BRENNEIS: Darf ich ergänzen? Die Bundesregierung entlastet die Industrie gerade deutlich. Die Stromsteuer ist gesenkt, die Netzentgelte werden bezuschusst, und der Industriestrompreis kommt.
+> 보충해도 될까요? 연방정부가 지금 산업계 부담을 크게 덜어 주고 있습니다. 전기세는 내렸고, 송전망 요금은 보조되고, 산업용 전기요금 제도도 도입됩니다.
+RIECK: Frau Staatssekretärin, der Industriestrompreis gilt nur für einen Teil des Verbrauchs. Und nur für ein paar Jahre. Eine Anlage läuft dreißig Jahre.
+> 차관님, 산업용 전기요금은 사용량의 일부에만 적용됩니다. 그것도 몇 년만이고요. 설비는 30년을 돌아갑니다.
+BRENNEIS: Das Land Hessen kann zusätzlich bei der Infrastruktur helfen. Flächen, Genehmigungen, Anschluss an das Wasserstoffnetz.
+> 헤센 주는 추가로 인프라를 도울 수 있습니다. 부지, 인허가, 수소망 연결.
+OCHS: Und ich ergänze auch etwas. Hier arbeiten zweitausendvierhundert Menschen für Mainchem. Wenn die neue Anlage nach Texas geht, gehen in zehn Jahren auch die alten Anlagen. Das weiß jeder in diesem Raum.
+> 저도 보충하죠. 여기서 2,400명이 마인켐을 위해 일합니다. 새 설비가 텍사스로 가면, 10년 안에 낡은 설비들도 떠납니다. 이 방에 있는 사람은 다 알아요.
+HOLZAPFEL: Herr Ochs, niemand hat von Schließungen gesprochen.
+> 옥스 씨, 아무도 폐쇄 얘기는 하지 않았습니다.
+OCHS: Noch nicht, Herr Dr. Holzapfel. Noch nicht.
+> 아직은요, 홀츠아펠 박사님. 아직은.
+KATHARINA: Darf ich eine Frage an alle stellen? Was genau soll die neue Anlage produzieren?
+> 모두에게 질문 하나 드려도 될까요? 새 설비는 정확히 무엇을 생산하게 되나요?
+HOLZAPFEL: Zwei Dinge. Chlor und Natronlauge als Grundstoffe — und daraus Spezialadditive für Lacke und Batteriematerialien.
+> 두 가지입니다. 기초 원료인 염소와 가성소다, 그리고 그것으로 만드는 도료용·배터리 소재용 특수 첨가제.
+SELIN: Und wer kauft die Spezialadditive?
+> 그 특수 첨가제는 누가 사나요?
+RIECK: Vor allem Kunden in Europa. Lackhersteller, Batteriezellenwerke, die Autoindustrie.
+> 주로 유럽 고객들이요. 도료 제조사, 배터리 셀 공장, 자동차 산업.
+SELIN: Ich habe mir Ihre Kundendaten angesehen. Einundsiebzig Prozent des Umsatzes mit Spezialadditiven machen Sie in Europa. In den USA sind es zwölf.
+> 고객 데이터를 봤는데요. 특수 첨가제 매출의 71퍼센트가 유럽에서 나와요. 미국은 12퍼센트고요.
+TOBIAS: Dann würden Sie in Texas produzieren und über den Atlantik zurück nach Europa liefern.
+> 그럼 텍사스에서 만들어서 대서양을 건너 다시 유럽으로 실어 오시는 거네요.
+RIECK: Schiffe sind billig. Strom ist teuer.
+> 배는 쌉니다. 전기가 비싸죠.
+TOBIAS: Und Bauen? Was kostet eine Anlage in Texas im Vergleich zu Frankfurt?
+> 건설은요? 텍사스에서 설비를 짓는 데 프랑크푸르트와 비교해 얼마나 드나요?
+RIECK: Ungefähr gleich viel. Die Löhne für Bauarbeiter sind dort sogar höher.
+> 대략 비슷해요. 건설 인력 임금은 오히려 거기가 더 높고요.
+TOBIAS: Und die Fachkräfte für den Betrieb?
+> 운영할 숙련 인력은요?
+RIECK: Die müssen wir suchen. Die Golfküste hat viele Chemiefirmen. Alle suchen.
+> 찾아야죠. 멕시코만 연안엔 화학회사가 많아요. 다들 사람을 찾고 있죠.
+SELIN: Und hier? Ihre Mitarbeiter sind im Durchschnitt achtzehn Jahre im Unternehmen. Das ist ziemlich viel Wissen.
+> 그럼 여기는요? 직원들의 평균 근속 연수가 18년이에요. 꽤 많은 지식이죠.
+OCHS: Endlich sagt das mal jemand.
+> 드디어 누가 그 말을 하네.
+RIECK: Wissen ist schön, Herr Ochs. Aber Wissen bezahlt keine Stromrechnung.
+> 지식은 좋죠, 옥스 씨. 하지만 지식이 전기요금을 내 주진 않아요.
+OCHS: Doch, Frau Dr. Rieck. An jedem Tag, an dem eine Anlage nicht ausfällt, weil einer weiß, wie sie klingt, wenn sie krank wird.
+> 내 줍니다, 리크 박사님. 설비가 탈이 날 때 어떤 소리가 나는지 아는 사람이 있어서 고장 나지 않는 날마다요.
+HOLZAPFEL: Frau Dr. Brandt, wir brauchen keine Liste mit Vor- und Nachteilen. Die haben wir selbst. Wir brauchen eine Empfehlung.
+> 브란트 박사, 장단점 목록은 필요 없습니다. 그건 우리도 있어요. 필요한 건 권고입니다.
+KATHARINA: Die bekommen Sie heute Abend. Aber ich möchte vorher mit jedem von Ihnen einzeln sprechen.
+> 오늘 저녁에 드리겠습니다. 다만 그 전에 여러분 한 분 한 분과 따로 이야기하고 싶습니다.
+HOLZAPFEL: Gut. Pause bis vierzehn Uhr.
+> 좋습니다. 두 시까지 휴식.
+
+## 장면 2 — „TEXAS IST OFFENSICHTLICH"
+LORENZ: Katharina, auf ein Wort. Ich verstehe nicht, warum du so lange brauchst. Texas ist offensichtlich.
+> 카타리나, 잠깐. 왜 이렇게 오래 걸리는지 모르겠군. 텍사스가 뻔하잖아.
+KATHARINA: Offensichtlich für wen?
+> 누구한테 뻔한데요?
+LORENZ: Für die Aktionäre. Für Rieck. Und für jeden, der fünf Cent mit zwei Terawattstunden multiplizieren kann.
+> 주주들한테. 리크한테. 그리고 5센트에 2테라와트시를 곱할 줄 아는 모든 사람한테.
+KATHARINA: Und für die zweitausendvierhundert Menschen, von denen Herr Ochs gesprochen hat?
+> 그럼 옥스 씨가 말한 2,400명한테는요?
+LORENZ: Die sind nicht unser Kunde. Unser Kunde ist der Vorstand. Und ehrlich gesagt: Ein Werk in Texas bedeutet zwei Jahre Umsetzungsprojekt. Für uns.
+> 그 사람들은 우리 고객이 아니야. 우리 고객은 이사회야. 그리고 솔직히, 텍사스 공장이면 2년짜리 실행 프로젝트야. 우리한테.
+KATHARINA: Jan-Hendrik, das hatten wir schon bei der Mainbank.
+> 얀헨드릭, 그 얘기는 마인방크 때 이미 했잖아요.
+LORENZ: Und bei der Mainbank hast du Glück gehabt. Glück ist keine Strategie.
+> 그리고 마인방크 때는 운이 좋았지. 운은 전략이 아니야.
+OCHS: Martin, hast du kurz Zeit? Unter vier Augen.
+> 마르틴, 잠깐 시간 돼? 단둘이.
+HOLZAPFEL: Ralf. Wir sind hier nicht in der Kantine.
+> 랄프. 여긴 구내식당이 아니야.
+OCHS: Eben deshalb. Im Raum sage ich „Herr Dr. Holzapfel". Hier draußen sage ich: Martin, du weißt genau, was Texas für den Standort bedeutet. Wir haben zusammen als Chemielaboranten angefangen.
+> 그러니까 하는 말이야. 회의실 안에서는 '홀츠아펠 박사님'이라고 하지. 여기 밖에서는 이렇게 말할게. 마르틴, 텍사스가 이 사업장에 무슨 의미인지 너도 잘 알잖아. 우리 같이 화학 실험보조원으로 시작했잖아.
+HOLZAPFEL: Ich weiß. Und ich weiß auch, dass Mainchem nicht mehr wettbewerbsfähig ist, wenn wir nichts tun.
+> 알아. 그리고 우리가 아무것도 안 하면 마인켐이 더 이상 경쟁력이 없다는 것도 알아.
+OCHS: Dann tu etwas. Aber hier. Sonst rufe ich morgen die Zeitung an, und am Freitag stehen tausend Leute vor dem Tor.
+> 그럼 뭔가를 해. 하지만 여기서. 안 그러면 내일 신문사에 전화할 거고, 금요일엔 천 명이 정문 앞에 서 있을 거야.
+HOLZAPFEL: Drohst du mir, Ralf?
+> 나 협박하는 거야, 랄프?
+OCHS: Ich informiere dich. Als Freund.
+> 알려 주는 거야. 친구로서.
+BRENNEIS: Frau Dr. Brandt? Ich möchte Ihnen etwas sagen, bevor Sie Ihre Empfehlung schreiben.
+> 브란트 박사님? 권고안을 쓰시기 전에 드릴 말씀이 있어요.
+KATHARINA: Bitte, Frau Staatssekretärin.
+> 말씀하세요, 차관님.
+BRENNEIS: Das Land kann helfen, aber nur, wenn Mainchem hier investiert. Für Fördermittel brauchen wir eine Standortzusage. Für Texas gibt es aus Wiesbaden keinen Cent.
+> 주 정부는 도울 수 있습니다. 하지만 마인켐이 여기에 투자할 때만요. 지원금을 주려면 사업장 유지 약속이 필요합니다. 텍사스에 대해서는 비스바덴에서 한 푼도 안 나가요.
+KATHARINA: Und wenn die Antwort nicht „entweder oder" ist?
+> 만약 답이 '둘 중 하나'가 아니라면요?
+BRENNEIS: Dann überraschen Sie mich.
+> 그럼 저를 놀라게 해 주세요.
+SELIN: Katharina, darf ich fragen, was Herr Lorenz vorhin gemeint hat? Mit dem Glück bei der Mainbank?
+> 카타리나, 아까 로렌츠 씨가 마인방크 때 운이 좋았다고 한 거 무슨 뜻이야?
+KATHARINA: Dass er glaubt, ich gewinne nur, weil die Zahlen zufällig auf meiner Seite waren.
+> 내가 이긴 건 숫자가 우연히 내 편이었기 때문이라고 생각한다는 뜻이야.
+SELIN: Und? Waren sie zufällig auf deiner Seite?
+> 그래서? 우연히 네 편이었어?
+KATHARINA: Nein. Wir haben so lange gesucht, bis wir die richtigen gefunden hatten. Das ist der Unterschied.
+> 아니. 맞는 숫자를 찾을 때까지 오래 찾았던 거지. 그게 차이야.
+TOBIAS: Katharina, ich habe Rieck noch einmal gefragt. Sie hat die Texas-Zahlen mit einem Strompreis gerechnet, der für zehn Jahre fest ist. So einen Vertrag hat sie aber noch gar nicht.
+> 카타리나, 리크한테 다시 물어봤어. 텍사스 숫자를 10년 고정 전기요금으로 계산했더라. 그런데 그런 계약은 아직 있지도 않대.
+KATHARINA: Und die Risiken?
+> 리스크는?
+TOBIAS: Stehen auf Seite einundvierzig, ganz klein. Zölle, Wechselkurse, Hurrikans. Und dass die Kunden in Europa sitzen.
+> 41페이지에 아주 작게 적혀 있어. 관세, 환율, 허리케인. 그리고 고객이 유럽에 있다는 것.
+SELIN: Mir ist noch etwas aufgefallen. Die Elektrolyse muss nicht rund um die Uhr gleich laufen. Man kann sie hochfahren, wenn der Strom billig ist, und runterfahren, wenn er teuer ist.
+> 나도 하나 눈에 띈 게 있어. 전해 공정은 24시간 똑같이 돌아갈 필요가 없어. 전기가 쌀 때 출력을 올리고, 비쌀 때 내릴 수 있대.
+TOBIAS: Wie oft ist der Strom billig?
+> 전기가 싼 때가 얼마나 자주 있는데?
+SELIN: Öfter, als man denkt. An windigen und sonnigen Tagen ist der Börsenstrompreis manchmal fast null. Letztes Jahr gab es mehrere hundert Stunden mit negativen Preisen.
+> 생각보다 자주. 바람 불고 해 좋은 날엔 전력거래소 가격이 거의 0일 때가 있어. 작년엔 마이너스 가격인 시간이 수백 시간이었어.
+TOBIAS: Negativer Strompreis. Man bekommt Geld dafür, dass man Strom nimmt. Das ist das Deutscheste, was ich je gehört habe.
+> 마이너스 전기요금. 전기를 가져가면 돈을 받는다. 내가 들어 본 것 중에 제일 독일다운 얘기네.
+KATHARINA: Und wenn Mainchem das nutzt? Plus einen langfristigen Vertrag mit einem Windpark?
+> 마인켐이 그걸 활용한다면? 거기에 풍력발전 단지와의 장기 계약까지 더하면?
+SELIN: Dann sinkt der Durchschnittspreis. Nach meiner Simulation auf etwa acht Cent. Nicht sechs. Aber auch nicht elf.
+> 그럼 평균 가격이 내려가. 내 시뮬레이션으론 약 8센트. 6센트는 아니지. 하지만 11센트도 아니야.
+KATHARINA: Acht Cent für die Grundstoffe. Und die Spezialadditive brauchen viel weniger Strom, aber viel mehr Wissen.
+> 기초 원료는 8센트. 그리고 특수 첨가제는 전기는 훨씬 덜 들고 지식은 훨씬 더 필요하지.
+TOBIAS: Du siehst aus, als hättest du gerade eine Idee.
+> 너 방금 뭔가 떠오른 얼굴이야.
+KATHARINA: Ich habe eine Frage, die keiner gestellt hat. Kommt mit.
+> 아무도 하지 않은 질문이 하나 생겼어. 따라와.
+
+## 절정 — DIE FRAGE ANDERS STELLEN
+HOLZAPFEL: Frau Dr. Brandt. Frankfurt oder Texas?
+> 브란트 박사. 프랑크푸르트입니까, 텍사스입니까?
+KATHARINA: Herr Dr. Holzapfel, lassen Sie uns die Frage anders stellen. Nicht: Gehen wir oder bleiben wir? Sondern: Was produzieren wir wo am besten?
+> 홀츠아펠 박사님, 질문을 다르게 던져 보시죠. '떠날 것인가, 남을 것인가'가 아니라, '무엇을 어디서 가장 잘 생산하는가'로요.
+RIECK: Das klingt wie ein Kompromiss, der niemandem hilft.
+> 아무에게도 도움 안 되는 타협처럼 들리네요.
+KATHARINA: Dann zeige ich Ihnen, warum es keiner ist. Ihre Anlage hat zwei Teile. Der erste Teil, die Grundstoffe, braucht vor allem Energie. Der zweite Teil, die Spezialadditive, braucht vor allem Wissen und Nähe zu den Kunden.
+> 그럼 왜 타협이 아닌지 보여 드리죠. 이 설비는 두 부분으로 되어 있습니다. 첫 부분인 기초 원료는 무엇보다 에너지가 필요합니다. 둘째 부분인 특수 첨가제는 무엇보다 지식과 고객과의 근접성이 필요하고요.
+KATHARINA: Für den ersten Teil ist Texas wettbewerbsfähiger, das stimmt. Für den zweiten Teil ist Frankfurt der bessere Standort. Hier sind Ihre Kunden, Ihre Fachkräfte und Ihre Forschung.
+> 첫 부분은 텍사스가 더 경쟁력이 있습니다, 맞습니다. 둘째 부분은 프랑크푸르트가 더 나은 입지입니다. 여기 고객이 있고, 숙련 인력이 있고, 연구소가 있으니까요.
+HOLZAPFEL: Also zwei Anlagen statt einer?
+> 그러니까 설비 하나 대신 둘을?
+TOBIAS: Eine kleinere Grundstoffanlage in den USA für etwa vierhundert Millionen. Sie beliefert vor allem den amerikanischen Markt. Und eine Spezialanlage hier in Frankfurt für etwa vierhundertfünfzig Millionen.
+> 미국에 약 4억짜리 소규모 기초 원료 설비. 주로 미국 시장에 공급합니다. 그리고 여기 프랑크푸르트에 약 4억 5천만짜리 특수 설비.
+RIECK: Und der Strom für die bestehende Elektrolyse hier? Der bleibt teuer.
+> 그럼 여기 기존 전해 설비 전기는요? 계속 비싸잖아요.
+SELIN: Nicht ganz so teuer, Frau Dr. Rieck. Wenn die Elektrolyse flexibel läuft — viel Leistung bei billigem Strom, wenig bei teurem — und Sie einen langfristigen Vertrag mit einem Windpark abschließen, sinkt Ihr Durchschnittspreis auf etwa acht Cent.
+> 그렇게까지 비싸지는 않습니다, 리크 박사님. 전해 공정을 유연하게 돌리고 — 전기가 쌀 땐 출력을 높이고 비쌀 땐 낮추고 — 풍력 단지와 장기 계약을 맺으시면, 평균 가격이 약 8센트로 내려갑니다.
+RIECK: Acht Cent. Das ist immer noch mehr als sechs.
+> 8센트. 그래도 6센트보다는 높죠.
+TOBIAS: Ja. Aber Ihre Texas-Rechnung hat sechs Cent für zehn Jahre fest angenommen. Diesen Vertrag gibt es noch nicht. Mit realistischen Annahmen und dem Transport zurück nach Europa ist der Vorteil für die Spezialadditive fast weg.
+> 네. 하지만 박사님의 텍사스 계산은 10년 고정 6센트를 가정했습니다. 그런 계약은 아직 없죠. 현실적인 가정과 유럽으로 되돌아오는 운송비까지 넣으면, 특수 첨가제에서의 이점은 거의 사라집니다.
+RIECK: … Und was sage ich dem Fonds mit den vier Prozent?
+> …그럼 4퍼센트 가진 그 펀드엔 뭐라고 하죠?
+KATHARINA: Dass Mainchem in den USA wächst, wo es Sinn macht. Und dass das profitabelste Geschäft dort bleibt, wo die Kunden sind. Das ist keine Ideologie, das ist eine Rendite.
+> 마인켐이 합리적인 곳, 미국에서 성장한다고요. 그리고 가장 수익성 높은 사업은 고객이 있는 곳에 남는다고요. 그건 이념이 아니라 수익률입니다.
+HOLZAPFEL: Herr Ochs? Sie sind so still.
+> 옥스 씨? 아주 조용하시네요.
+OCHS: Ich rechne, Herr Dr. Holzapfel. Wie viele Arbeitsplätze in Frankfurt?
+> 계산 중입니다, 홀츠아펠 박사님. 프랑크푸르트 일자리는 몇 개죠?
+TOBIAS: Die neue Spezialanlage schafft etwa zweihundert Stellen. In der alten Grundstoffproduktion fallen in fünf Jahren etwa dreihundert weg — über Rente und natürliche Fluktuation, wenn man es gut plant.
+> 새 특수 설비가 약 200개 일자리를 만듭니다. 기존 기초 원료 생산에서는 5년 동안 약 300개가 줄고요. 잘 계획하면 정년퇴직과 자연 감소로 가능합니다.
+OCHS: Minus hundert.
+> 마이너스 100.
+KATHARINA: Minus hundert über fünf Jahre statt minus zweitausendvierhundert über zehn. Und ohne eine einzige Kündigung, wenn Betriebsrat und Vorstand das gemeinsam steuern.
+> 10년에 걸친 마이너스 2,400 대신, 5년에 걸친 마이너스 100입니다. 그리고 노동자평의회와 이사회가 함께 관리한다면 해고는 단 한 건도 없이요.
+BRENNEIS: Und das Land würde die Spezialanlage fördern. Wenn es eine Standortzusage für zehn Jahre gibt.
+> 그리고 주 정부는 특수 설비를 지원할 겁니다. 10년간 사업장 유지 약속이 있다면요.
+RIECK: Zehn Jahre sind lang.
+> 10년은 깁니다.
+KATHARINA: Eine Anlage läuft dreißig Jahre, Frau Dr. Rieck. Das haben Sie heute Morgen selbst gesagt.
+> 설비는 30년을 돌아갑니다, 리크 박사님. 오늘 아침에 직접 말씀하셨죠.
+RIECK: … Touché.
+> …한 방 먹었네요.
+HOLZAPFEL: Herr Ochs, wenn wir diesen Weg gehen — trägt der Betriebsrat ihn mit?
+> 옥스 씨, 우리가 이 길로 가면 노동자평의회가 함께해 줍니까?
+OCHS: Wenn die Zusage schriftlich kommt und wir im Lenkungskreis sitzen: ja. Das sage ich Ihnen hier im Raum, Herr Dr. Holzapfel. Und draußen sage ich es dir noch einmal, Martin.
+> 약속이 문서로 오고 우리가 운영위원회에 들어간다면, 네. 이 방 안에서는 홀츠아펠 박사님께 그렇게 말씀드리죠. 그리고 밖에서는 너한테 한 번 더 말할게, 마르틴.
+HOLZAPFEL: Das reicht mir. Drinnen und draußen.
+> 그거면 충분해요. 안에서도, 밖에서도.
+HOLZAPFEL: Herr Lorenz, Sie haben den ganzen Tag nichts gesagt. Was meinen Sie?
+> 로렌츠 씨, 하루 종일 아무 말씀 안 하셨는데요. 어떻게 생각하십니까?
+LORENZ: … Ich meine, dass Frau Dr. Brandt Ihnen eine sehr gute Empfehlung gegeben hat, Herr Dr. Holzapfel.
+> …브란트 박사가 아주 좋은 권고를 드렸다고 생각합니다, 홀츠아펠 박사님.
+HOLZAPFEL: Gut. Dann ist das unsere Richtung. In drei Wochen präsentieren Sie dem Aufsichtsrat das Detailkonzept. Mit unserer Tochter in New Jersey.
+> 좋습니다. 그럼 그게 우리 방향입니다. 3주 뒤에 감사회에 세부 구상을 발표해 주십시오. 뉴저지 자회사와 함께요.
+
+## 마무리 — AUF DEM PARKPLATZ
+OCHS: Frau Dr. Brandt, ich wollte heute eigentlich gegen Sie kämpfen. Das war schwieriger als gedacht.
+> 브란트 박사님, 사실 오늘은 박사님과 싸울 생각이었어요. 생각보다 어렵더군요.
+KATHARINA: Sie haben trotzdem gut gekämpft, Herr Ochs. Ohne Sie hätte niemand nach den achtzehn Jahren Erfahrung gefragt.
+> 그래도 잘 싸우셨어요, 옥스 씨. 옥스 씨가 아니었으면 아무도 18년의 경험에 대해 묻지 않았을 거예요.
+OCHS: Das war Ihre Kollegin. Sagen Sie ihr, sie soll mal in unsere Kantine kommen. Dienstags gibt es Schnitzel.
+> 그건 박사님 동료분이 한 거죠. 그분께 우리 식당에 한번 오시라고 전해 주세요. 화요일엔 슈니첼이 나와요.
+SELIN: Warum gibt es in jeder Firma dienstags etwas Besonderes?
+> 왜 회사마다 화요일엔 꼭 특별한 게 나와?
+TOBIAS: Weil der Montag schon schlimm genug ist.
+> 월요일이 이미 충분히 힘드니까.
+LORENZ: Katharina. Gut gemacht. Wirklich. Aber ein Rat unter Freunden: Drei Wochen sind kurz. Lass dir von Rieck nicht in die Zahlen pfuschen.
+> 카타리나. 잘했어. 진심이야. 하지만 친구로서 조언 하나. 3주는 짧아. 리크가 숫자에 손대지 못하게 해.
+KATHARINA: Danke, Jan-Hendrik. Du warst heute sehr leise.
+> 고마워요, 얀헨드릭. 오늘 아주 조용하셨네요.
+LORENZ: Ich habe gelernt, wann man zuhört. Ich habe nächste Woche übrigens ein Abendessen in Hanau. Ein alter Kunde. Vielleicht erzähle ich dir irgendwann davon.
+> 언제 들어야 하는지 배웠지. 그건 그렇고, 다음 주에 하나우에서 저녁 약속이 있어. 오랜 고객이야. 언젠가 얘기해 줄지도 모르지.
+TOBIAS: Hanau. Wer sitzt in Hanau?
+> 하나우라. 하나우에 누가 있지?
+SELIN: Viele Firmen. Warum?
+> 회사 많지. 왜?
+TOBIAS: Weil er nie „irgendwann" sagt, wenn er „nie" meint.
+> 저 사람은 '절대'를 뜻할 땐 '언젠가'라고 하지 않거든.
+KATHARINA: Konzentriert euch. Drei Wochen, ein Aufsichtsrat und eine Tochter in New Jersey. Hoffentlich passiert in Washington bis dahin nichts.
+> 집중해. 3주, 감사회 하나, 그리고 뉴저지 자회사 하나. 그때까지 워싱턴에서 아무 일도 없기를.

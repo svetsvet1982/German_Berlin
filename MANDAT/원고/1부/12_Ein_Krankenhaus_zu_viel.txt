@@ -1,0 +1,268 @@
+part: 1
+ep: 12
+title_de: Ein Krankenhaus zu viel
+title_ko: 병원 하나가 너무 많다
+scene: 월요일 아침, 베를린 Spreeklinik 본부 → 테겔 병원
+level: B2
+setting: 2주에 걸친 이야기. 첫날 월요일 오전 베를린 프리드리히스하인의 공공 병원그룹 Spreeklinik 본부와 라이니켄도르프의 테겔 병원 회의실, 2주 뒤 같은 회의실
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
+cast: SEIDEL | Dr. Martina Seidel · Spreeklinik 대표(Geschäftsführerin) (가상)
+cast: ALBERS | Prof. Dr. Henning Albers · 테겔 병원 외과 과장(Chefarzt) (61)
+cast: BRANDL | Monika Brandl · 테겔 병원 간호부장(Pflegedirektorin)
+cast: GRUBER | Thomas Gruber · 라이니켄도르프 구청장(Bezirksbürgermeister) (가상)
+cast: HAASE | Dr. Ingrid Haase · 베를린 시 보건행정청 국장 (가상)
+cast: LORENZ | Jan-Hendrik Lorenz · 시니어 파트너 (58)
+note: ※ 독일 연방 병원개혁(Krankenhausreform, 2024년 '병원진료개선법' 제정, 이후 보완)은 병원 체계를 크게 바꿉니다. 병원은 심장내과·정형외과 같은 '진료분야 그룹(Leistungsgruppe)'을 주 정부로부터 배정받아야 하고, 그룹마다 전문의·장비·인력 품질 기준이 있습니다. 보상도 진료 건수 중심에서 벗어나, 상당 부분이 진료 역량을 갖추고 대기하는 데 대한 '대기 보상(Vorhaltevergütung)'으로 바뀝니다. 연방공동위원회(G-BA)는 일부 수술에 최소 건수(Mindestmenge)를 정해 두었는데, 예를 들어 무릎 인공관절은 병원당 연 50건입니다. 2026년부터 10년간 병원 구조 전환을 지원하는 전환 기금(Transformationsfonds)이 운영되며, 작은 병원은 응급·외래·단기 입원을 묶은 '부문 통합 진료 기관(sektorenübergreifende Versorgungseinrichtung)'으로 바뀔 수 있습니다. 베를린은 시이자 주(州)라서, 병원 계획은 시 정부(Senat)가, 지역 행정은 구청(Bezirk)이 맡습니다. 간호 인력 부족으로 많은 병원이 비싼 파견 인력(Leasingkräfte)에 의존하며, 공공부문 노조는 ver.di입니다. 병원·언론·인물은 모두 가상입니다. 표현 초점: die Krankenhausreform, die Fallzahl, die Versorgung, die Schließung, Niemand will das Krankenhaus schließen. Es geht um…
+next: 1부 13화 — «Streik auf Station»(병동 파업) — 첫 번째 개편안이 유출되자 테겔 병원 간호사들이 파업에 들어간다. 정문 앞 파업 현장에서 컨설턴트는 '적'이 된다. Katharina는 병원 경영진과 노조 사이에서 '폐쇄'가 아닌 '응급·외래 거점 전환 + 인력 재배치 보장' 합의를 끌어내야 하고, Selin은 한 파업 간호사와 마주 앉는다.
+
+## 도입 — ACHT UHR, SPREEKLINIK
+TOBIAS: Ein Krankenhausmandat. Endlich ein Kunde, bei dem ich mich nach der Präsentation gleich behandeln lassen kann.
+> 병원 수임 건이라. 드디어 발표 끝나고 바로 치료받을 수 있는 고객이네.
+SELIN: Spreeklinik. Fünf Standorte, elftausend Beschäftigte, alles in öffentlicher Hand. Jeder in Berlin war schon einmal in einem dieser Häuser.
+> 슈프레클리닉. 거점 다섯 곳, 직원 1만 1천 명, 전부 공공 소유. 베를린 사람이라면 누구나 이 병원 중 한 곳엔 가 봤을 거야.
+KATHARINA: Guten Morgen. Entschuldigt, der Zug aus Hanau. Die Familie Ebersbach hat mich bis Mitternacht beschäftigt.
+> 좋은 아침. 미안, 하나우발 기차 때문에. 에버스바흐 가족이 자정까지 붙잡고 있었어.
+TOBIAS: Und? Gibt es schon eine Familienverfassung?
+> 그래서? 가족 헌장은 벌써 나왔어?
+KATHARINA: Es gibt eine Präambel. Und drei Streitpunkte. Für die Ebersbachs ist das ein Fortschritt.
+> 전문(前文) 하나. 그리고 쟁점 세 개. 에버스바흐 가족한텐 그게 진전이야.
+SELIN: Hier geht es weniger um Familie und mehr um Politik. Fünf Krankenhäuser, ein Defizit von achtzig Millionen im Jahr — und die Krankenhausreform.
+> 여긴 가족보다는 정치 얘기가 더 많아. 병원 다섯 곳, 연 8천만 적자 — 그리고 병원개혁.
+TOBIAS: Und eine Geschäftsführerin, die uns gestern um elf Uhr nachts eine Mail geschrieben hat. Betreff: „Bitte keine Schönfärberei."
+> 그리고 어젯밤 열한 시에 우리한테 메일을 보낸 대표. 제목: '제발 미화는 하지 마세요.'
+KATHARINA: Dann verstehen wir uns schon.
+> 그럼 벌써 말이 통하겠네.
+SEIDEL: Frau Dr. Brandt? Martina Seidel. Kommen Sie, wir haben nicht viel Zeit. Um neun ist Visite, um zehn der Senat, um elf der Bezirk.
+> 브란트 박사님? 마르티나 자이델입니다. 오세요, 시간이 많지 않아요. 아홉 시엔 회진, 열 시엔 시 정부, 열한 시엔 구청이에요.
+KATHARINA: Guten Morgen, Frau Dr. Seidel. Wofür genau brauchen Sie uns?
+> 안녕하세요, 자이델 박사님. 저희가 정확히 무엇을 해 드리면 될까요?
+SEIDEL: Für eine Wahrheit, die ich nicht allein aussprechen kann. Wir haben ein Krankenhaus zu viel.
+> 저 혼자서는 입 밖에 낼 수 없는 진실을 위해서요. 저희에겐 병원이 하나 너무 많아요.
+SELIN: Welches?
+> 어느 병원이요?
+
+## 장면 1 — DIE LANDKARTE DER MENSCHEN
+SEIDEL: Tegel, in Reinickendorf. Zweihundertneunzig Betten, gegründet neunzehnhundertelf. Jeder im Bezirk ist dort geboren — oder kennt jemanden, der dort gestorben ist.
+> 라이니켄도르프의 테겔이요. 병상 290개, 1911년 개원. 구민이라면 누구나 거기서 태어났거나 — 거기서 세상을 떠난 누군가를 알아요.
+TOBIAS: Wie hoch ist das Defizit am Standort Tegel?
+> 테겔 거점의 적자는 얼마나 되나요?
+SEIDEL: Neunzehn Millionen im Jahr. Die Betten sind zu einundsechzig Prozent ausgelastet.
+> 연간 1,900만이요. 병상 가동률은 61퍼센트고요.
+SELIN: Und was ändert die Krankenhausreform für Tegel?
+> 병원개혁은 테겔에 무엇을 바꾸나요?
+SEIDEL: Alles. Früher wurde jeder Fall bezahlt, egal wo. Jetzt bekommt jedes Krankenhaus Leistungsgruppen zugewiesen — Kardiologie, Orthopädie, Geburtshilfe und so weiter. Für jede Gruppe gibt es Qualitätskriterien: Fachärzte, Geräte, Pflegepersonal.
+> 전부요. 예전엔 어디서든 진료 건마다 돈이 나왔어요. 이제는 병원마다 진료분야 그룹을 배정받아요. 심장내과, 정형외과, 산과 같은 식으로요. 그룹마다 품질 기준이 있어요. 전문의, 장비, 간호 인력.
+TOBIAS: Und wer die Kriterien nicht erfüllt, bekommt die Leistungsgruppe nicht.
+> 그리고 기준을 못 맞추면 그 진료분야를 못 받는 거고요.
+SEIDEL: Genau. Und dann gibt es die Vorhaltevergütung. Ein großer Teil des Geldes kommt künftig dafür, dass man Leistungen bereithält — nicht nur für die Zahl der Fälle.
+> 맞아요. 그리고 '대기 보상'이 있어요. 앞으로는 돈의 큰 부분이 진료 건수만이 아니라, 진료 역량을 갖추고 대기하는 데 대해 나와요.
+SELIN: Darf ich mir die Fallzahlen ansehen? Pro Standort und pro Leistungsgruppe?
+> 진료 건수를 봐도 될까요? 거점별, 진료분야별로요?
+SEIDEL: Sie liegen schon auf Ihrem Laptop. Ich habe sie gestern Nacht geschickt.
+> 이미 노트북에 있을 거예요. 어젯밤에 보냈어요.
+SELIN: … Knieprothesen in Tegel: einunddreißig im letzten Jahr. Die Mindestmenge liegt bei fünfzig.
+> …테겔의 무릎 인공관절 수술: 작년 31건. 최소 건수 기준은 50건이에요.
+TOBIAS: Was passiert unter der Mindestmenge?
+> 최소 건수에 못 미치면 어떻게 돼요?
+SEIDEL: Dann dürfen die Kassen die Operation nicht mehr bezahlen. Aus gutem Grund: Wer etwas selten macht, macht es schlechter.
+> 그럼 건강보험이 그 수술비를 더 이상 낼 수 없어요. 이유가 있죠. 드물게 하는 사람은 덜 잘하니까요.
+SELIN: Herzkatheter: Tegel hat keinen Katheter rund um die Uhr. Herzinfarkte werden nachts nach Spandau gefahren. Neun Kilometer.
+> 심도자술: 테겔엔 24시간 심도자실이 없어요. 심근경색 환자는 밤엔 슈판다우로 이송돼요. 9킬로미터.
+KATHARINA: Und was macht Tegel gut?
+> 그럼 테겔이 잘하는 건 뭔가요?
+SEIDEL: Die Notaufnahme. Zweiundvierzigtausend Fälle im Jahr, mehr als in Spandau. Die Geriatrie. Und die Menschen dort kennen ihre Patienten.
+> 응급실이요. 연 4만 2천 건, 슈판다우보다 많아요. 노인의학과. 그리고 거기 사람들은 자기 환자를 알아요.
+SELIN: Zweiundvierzigtausend Notfälle. Aber nur ein Drittel davon wird stationär aufgenommen. Die anderen gehen nach ein paar Stunden wieder nach Hause.
+> 응급 4만 2천 건. 그런데 그중 3분의 1만 입원해요. 나머지는 몇 시간 뒤에 다시 집에 가고요.
+TOBIAS: Also braucht Tegel vor allem eine Notaufnahme. Nicht unbedingt zweihundertneunzig Betten.
+> 그러니까 테겔에 무엇보다 필요한 건 응급실이네요. 꼭 병상 290개가 아니라.
+SEIDEL: Herr Wendt, sagen Sie das bitte nicht so laut, wenn Professor Albers im Raum ist.
+> 벤트 씨, 알버스 교수님이 계실 땐 그 말 크게 하지 마세요.
+KATHARINA: Wer ist Professor Albers?
+> 알버스 교수님이 누구신가요?
+SEIDEL: Chefarzt der Chirurgie in Tegel, seit zweiundzwanzig Jahren. Er hat im Bezirk mehr Patienten als der Bürgermeister Wähler.
+> 테겔 외과 과장이에요, 22년째. 구청장이 가진 유권자보다 더 많은 환자를 구 안에 갖고 있죠.
+KATHARINA: Dann zeichnen wir als Erstes eine Landkarte. Nicht von Berlin. Von den Menschen, die mitentscheiden.
+> 그럼 제일 먼저 지도를 그리죠. 베를린 지도 말고요. 함께 결정하는 사람들의 지도요.
+SELIN: Eine Stakeholder-Landkarte. Wer hat Einfluss, und wer ist betroffen?
+> 이해관계자 지도. 누가 영향력을 갖고 있고, 누가 영향을 받는가?
+KATHARINA: Genau. Wer steht in der Mitte?
+> 바로 그거야. 가운데엔 누가 있지?
+SELIN: Die Patienten. Aber sie sitzen in keiner Sitzung mit am Tisch.
+> 환자들. 그런데 환자들은 어느 회의에도 테이블에 앉지 않아.
+TOBIAS: Dann der Senat. Die Senatsverwaltung für Gesundheit macht den Krankenhausplan und weist die Leistungsgruppen zu. Und sie stellt den Antrag beim Transformationsfonds.
+> 그다음은 시 정부. 시 보건행정청이 병원 계획을 세우고 진료분야를 배정하지. 그리고 전환 기금에 신청서를 내는 것도 거기고.
+SEIDEL: Der Fonds bezahlt den Umbau von Krankenhäusern. Aber nur mit einem überzeugenden Konzept. Und die Frist läuft.
+> 그 기금이 병원 개편 비용을 대요. 하지만 설득력 있는 구상이 있어야만이죠. 그리고 기한이 다가오고 있어요.
+KATHARINA: Weiter. Der Bezirk.
+> 계속하죠. 구청.
+SEIDEL: Bezirksbürgermeister Gruber. Er hat im Wahlkampf versprochen: „Tegel bleibt." Mit Plakat.
+> 그루버 구청장이요. 선거 때 '테겔은 남는다'고 약속했어요. 포스터까지 붙여서.
+TOBIAS: Ein Versprechen auf einem Plakat ist schwer zurückzunehmen.
+> 포스터에 적은 약속은 되돌리기 어렵죠.
+KATHARINA: Und die Pflege?
+> 그럼 간호 쪽은요?
+SEIDEL: Pflegedirektorin Brandl. Sie hat in Tegel vierhundert Pflegekräfte, und siebzig Stellen sind unbesetzt. Wenn wir den Standort falsch umbauen, kündigen ihr auch die anderen.
+> 간호부장 브란들이요. 테겔에 간호 인력이 400명 있는데, 일흔 자리가 비어 있어요. 거점을 잘못 개편하면 나머지도 그만둘 거예요.
+SELIN: Und die Gewerkschaft? Ver.di?
+> 노조는요? 페르디는요?
+SEIDEL: Ver.di wartet nur auf ein Wort. Das Wort heißt „Schließung".
+> 페르디는 단어 하나만 기다리고 있어요. 그 단어는 '폐쇄'예요.
+
+## 장면 2 — „TEGEL BLEIBT"
+GRUBER: Frau Dr. Brandt, ich sage es gleich: Solange ich Bürgermeister bin, wird Tegel nicht geschlossen.
+> 브란트 박사, 바로 말하겠습니다. 내가 구청장으로 있는 한 테겔은 문을 닫지 않습니다.
+KATHARINA: Herr Gruber, niemand hat heute das Wort „Schließung" gesagt.
+> 그루버 구청장님, 오늘 아무도 '폐쇄'라는 말은 하지 않았습니다.
+GRUBER: Das müssen Sie auch nicht. Wenn eine Beratung kommt, weiß jeder, was das heißt.
+> 그럴 필요도 없죠. 컨설팅사가 오면 그게 무슨 뜻인지 다들 압니다.
+ALBERS: Henning Albers. Ich operiere hier seit zweiundzwanzig Jahren. Und ich lasse mir von einer Excel-Tabelle nicht erklären, dass meine Patienten nach Spandau fahren sollen.
+> 헨닝 알버스입니다. 여기서 22년째 수술하고 있어요. 그리고 엑셀 표 하나가 내 환자들한테 슈판다우로 가라고 하는 건 받아들이지 않겠소.
+SELIN: Herr Professor Albers, darf ich eine Zahl nennen? Einunddreißig Knieprothesen im letzten Jahr. Die Mindestmenge liegt bei fünfzig.
+> 알버스 교수님, 숫자 하나 말씀드려도 될까요? 작년 무릎 인공관절 31건. 최소 건수 기준은 50건입니다.
+ALBERS: Und meine Komplikationsrate ist niedriger als in Spandau! Die Mindestmenge ist ein Durchschnitt, kein Naturgesetz.
+> 그리고 내 합병증 비율은 슈판다우보다 낮아요! 최소 건수는 평균일 뿐이지 자연법칙이 아니오.
+HAASE: Aber sie ist geltendes Recht, Herr Professor. Ab nächstem Jahr bezahlen die Kassen die Knie in Tegel nicht mehr. Das entscheidet nicht die Beratung, sondern der Gemeinsame Bundesausschuss.
+> 하지만 현행법입니다, 교수님. 내년부터 건강보험은 테겔의 무릎 수술비를 더 이상 내지 않습니다. 그건 컨설팅사가 아니라 연방공동위원회가 정하는 거예요.
+ALBERS: Frau Dr. Haase, Sie sitzen in einem Büro in Mitte. Ich stehe jeden Tag im OP.
+> 하제 박사님, 당신은 미테의 사무실에 앉아 있지요. 나는 매일 수술실에 서 있소.
+BRANDL: Henning, hör auf. So kommen wir nicht weiter.
+> 헨닝, 그만해. 이렇게는 한 발짝도 못 나가.
+ALBERS: Monika, du weißt genau, was hier passiert. Erst nehmen sie uns die Knie, dann die Bäuche, dann die Betten. Und am Ende ist Tegel ein Parkhaus.
+> 모니카, 무슨 일이 벌어지는지 너도 잘 알잖아. 처음엔 무릎을 가져가고, 그다음엔 복부 수술, 그다음엔 병상. 결국 테겔은 주차장이 될 거야.
+BRANDL: Herr Professor Albers, bei allem Respekt: Mir laufen jeden Monat drei Pflegekräfte weg. Nicht wegen der Reform. Wegen der Nachtdienste.
+> 알버스 교수님, 존경을 담아 말씀드리지만, 저는 매달 간호사가 세 명씩 떠나요. 개혁 때문이 아니라 야간 근무 때문에요.
+KATHARINA: Frau Brandl, was genau ist mit den Nachtdiensten?
+> 브란들 씨, 야간 근무가 정확히 어떤가요?
+BRANDL: Auf einer Station mit zweiunddreißig Patienten sind nachts zwei Pflegekräfte. Manchmal eine. Wer das ein Jahr macht, geht zu einer Leasingfirma oder in die Schweiz.
+> 환자 서른두 명 병동에 밤엔 간호사 두 명이에요. 가끔은 한 명. 그걸 1년 하면 파견업체로 가거나 스위스로 가요.
+TOBIAS: Was kosten Leasingkräfte das Haus?
+> 파견 인력은 병원에 얼마나 드나요?
+SEIDEL: Fast doppelt so viel wie eigene Leute. Letztes Jahr elf Millionen. Nur in Tegel.
+> 자체 인력의 거의 두 배요. 작년에 1,100만. 테겔에서만요.
+GRUBER: Dann geben Sie den Pflegekräften mehr Geld, statt Berater zu bezahlen.
+> 그럼 컨설턴트한테 돈 주지 말고 간호사들한테 돈을 더 주시오.
+TOBIAS: Herr Gruber, unser Honorar für dieses Projekt entspricht etwa vier Wochen Leasingkosten in Tegel. Das Problem ist größer als wir.
+> 그루버 구청장님, 이 프로젝트 저희 보수는 테겔 파견 인력 비용 약 4주 치에 해당합니다. 문제는 저희보다 훨씬 큽니다.
+GRUBER: Sie sind sehr schlagfertig, junger Mann.
+> 말솜씨가 아주 좋군요, 젊은이.
+TOBIAS: Das ist mein einziger Sport.
+> 제가 하는 유일한 운동입니다.
+HAASE: Frau Dr. Brandt, ich will offen sein. Der Senat braucht bis März ein Konzept für den Transformationsfonds. Ohne Konzept kein Geld. Und ohne Geld ist in zwei Jahren nicht ein Haus in Schwierigkeiten, sondern zwei.
+> 브란트 박사님, 솔직히 말씀드리죠. 시 정부는 3월까지 전환 기금용 구상이 필요합니다. 구상이 없으면 돈도 없어요. 그리고 돈이 없으면 2년 뒤엔 병원 하나가 아니라 두 곳이 어려워질 겁니다.
+GRUBER: Das ist Erpressung durch den Senat.
+> 그건 시 정부의 협박이오.
+HAASE: Das ist Haushaltsrecht, Herr Gruber.
+> 그건 예산법입니다, 그루버 구청장님.
+ALBERS: Und was ist mit den Menschen in Heiligensee und Frohnau? Mit den alten Leuten, die keinen Führerschein mehr haben? Wer fährt die nach Spandau?
+> 그럼 하일리겐제와 프로나우 사람들은요? 운전면허도 없는 노인들은? 그 사람들은 누가 슈판다우로 실어 나르오?
+SELIN: Herr Professor, das ist eine sehr gute Frage. Wir haben sie noch nicht beantwortet.
+> 교수님, 아주 좋은 질문입니다. 저희도 아직 답을 못 했어요.
+ALBERS: Dann beantworten Sie sie, bevor Sie Folien zeigen.
+> 그럼 슬라이드를 보여 주기 전에 답부터 하시오.
+GRUBER: Ich habe genug gehört. Meine Damen und Herren, ich habe um zwölf eine Bürgersprechstunde. Ich werde den Leuten sagen, was ich immer sage: Tegel bleibt.
+> 들을 만큼 들었소. 여러분, 열두 시에 주민 면담이 있어요. 주민들한테 늘 하던 말을 할 겁니다. 테겔은 남는다.
+SEIDEL: Herr Gruber, bitte! Geben Sie uns zwei Wochen.
+> 그루버 구청장님, 제발요! 2주만 주세요.
+GRUBER: Zwei Wochen. Keine Minute länger. Und kein einziges Wort an die Presse.
+> 2주. 1분도 더는 안 돼요. 그리고 언론엔 한마디도 하지 마시오.
+KATHARINA: Darauf haben Sie mein Wort.
+> 그건 약속드립니다.
+SELIN: Das lief nicht gut.
+> 잘 안 됐네.
+KATHARINA: Es lief, wie es laufen musste. Jetzt wissen wir, wo jeder steht. Selin, beantworte Albers' Frage. Wie kommen die Menschen aus Heiligensee in zwölf Minuten zu einer Notaufnahme?
+> 됐어야 할 대로 된 거야. 이제 누가 어디 서 있는지 알잖아. 셀린, 알버스의 질문에 답해 봐. 하일리겐제 사람들이 어떻게 12분 안에 응급실에 갈 수 있지?
+SELIN: Indem die Notaufnahme in Tegel bleibt.
+> 테겔에 응급실이 남는 거지.
+TOBIAS: Mit zweihundertneunzig Betten dahinter?
+> 뒤에 병상 290개를 단 채로?
+SELIN: Nein. Mit dem, was wirklich gebraucht wird. Ich rechne es durch. Heute Nacht.
+> 아니. 정말 필요한 것만 달고. 계산해 볼게. 오늘 밤에.
+TOBIAS: Dann bestelle ich schon mal Pizza. Mit oder ohne Wildkräuter?
+> 그럼 피자부터 시킬게. 들풀 토핑 넣을까, 뺄까?
+
+## 절정 — ZWEI WOCHEN SPÄTER
+KATHARINA: Meine Damen und Herren, danke, dass Sie alle wiedergekommen sind. Ich beginne mit dem Satz, den Sie von mir hören wollen — oder fürchten.
+> 신사 숙녀 여러분, 모두 다시 와 주셔서 감사합니다. 여러분이 제게서 듣고 싶어 하는 — 혹은 두려워하는 — 문장으로 시작하겠습니다.
+KATHARINA: Niemand will das Krankenhaus in Tegel schließen. Es geht um etwas anderes. Es geht darum, was die Menschen in Reinickendorf in zehn Jahren wirklich brauchen.
+> 아무도 테겔 병원을 닫고 싶어 하지 않습니다. 문제는 다른 데 있습니다. 라이니켄도르프 주민들이 10년 뒤에 정말로 필요로 하는 게 무엇이냐는 겁니다.
+GRUBER: Und das wissen Sie besser als ich?
+> 그걸 당신이 나보다 잘 안다는 거요?
+KATHARINA: Nein. Wir haben die Daten Ihrer Bürger gefragt. Frau Aydın?
+> 아닙니다. 구청장님 주민들의 데이터에 물었습니다. 아이든 씨?
+SELIN: Wir haben die Daten aller Patienten aus Reinickendorf der letzten drei Jahre ausgewertet, anonym. Siebzig Prozent kommen über die Notaufnahme oder in die Geriatrie. Für geplante große Operationen fährt schon heute über die Hälfte in andere Häuser.
+> 지난 3년간 라이니켄도르프 환자 전원의 데이터를 익명으로 분석했습니다. 70퍼센트가 응급실을 통해 오거나 노인의학과로 옵니다. 예정된 큰 수술은 이미 지금도 절반 넘게 다른 병원으로 가고요.
+ALBERS: Weil wir die Kapazität nicht haben.
+> 우리가 수용 능력이 없어서 그렇지.
+SELIN: Teilweise, ja. Aber auch, weil die Patienten sich für Spezialisten entscheiden. Für Knie, Herz, Krebs.
+> 일부는 그렇습니다. 하지만 환자들이 스스로 전문가를 선택하기 때문이기도 해요. 무릎, 심장, 암.
+KATHARINA: Deshalb schlagen wir vor: Tegel wird nicht geschlossen, sondern umgebaut. Zu einem Gesundheitszentrum für den Bezirk — einer sektorenübergreifenden Versorgungseinrichtung, wie die Reform sie vorsieht.
+> 그래서 저희는 이렇게 제안합니다. 테겔은 문을 닫는 게 아니라 개편됩니다. 개혁이 규정한 '부문 통합 진료 기관', 즉 구민을 위한 보건 센터로요.
+HAASE: Was heißt das konkret?
+> 구체적으로 무슨 뜻이죠?
+TOBIAS: Konkret: Die Notaufnahme bleibt rund um die Uhr und wird sogar größer. Dazu kommen sechzig Betten für Kurzlieger und Geriatrie, ambulante Operationen, Facharztpraxen im Haus und Pflege nach dem Krankenhaus.
+> 구체적으로는 이렇습니다. 응급실은 24시간 그대로 남고, 오히려 커집니다. 거기에 단기 입원과 노인의학용 병상 60개, 외래 수술, 원내 전문의 진료실, 그리고 퇴원 후 돌봄이 더해집니다.
+TOBIAS: Die großen geplanten Operationen — Knie, Hüfte, Herzkatheter — gehen nach Spandau. Neun Kilometer, mit einem Shuttle für Patienten und Angehörige.
+> 예정된 큰 수술 — 무릎, 고관절, 심도자술 — 은 슈판다우로 갑니다. 9킬로미터, 환자와 보호자를 위한 셔틀과 함께요.
+GRUBER: Sechzig Betten statt zweihundertneunzig. Das ist eine Schließung mit anderem Namen.
+> 290개 대신 60개라. 이름만 바꾼 폐쇄로군.
+KATHARINA: Herr Gruber, ich verstehe, dass es sich so anfühlt. Aber fragen Sie sich, was ein Bürger aus Heiligensee verliert. Nachts mit Brustschmerzen findet er in Tegel weiterhin eine Notaufnahme. Und wenn er eine neue Hüfte braucht, bekommt er sie dort, wo man sie fünfhundertmal im Jahr macht.
+> 그루버 구청장님, 그렇게 느껴지시는 건 이해합니다. 하지만 하일리겐제 주민이 잃는 게 무엇인지 물어보십시오. 한밤중에 가슴 통증이 오면 여전히 테겔에서 응급실을 찾습니다. 그리고 새 고관절이 필요하면, 1년에 500번 하는 곳에서 받습니다.
+GRUBER: Und mein Plakat? „Tegel bleibt."
+> 그럼 내 포스터는? '테겔은 남는다.'
+KATHARINA: Tegel bleibt. Nur anders. Ihr Plakat stimmt weiterhin — vielleicht sogar mehr als vorher.
+> 테겔은 남습니다. 다만 다르게요. 구청장님 포스터는 여전히 맞습니다 — 어쩌면 전보다 더요.
+HAASE: Und die Finanzierung?
+> 그럼 재원은요?
+TOBIAS: Der Umbau kostet etwa hundertzehn Millionen. Ein großer Teil ist über den Transformationsfonds förderfähig. Das Defizit in Tegel sinkt von neunzehn auf etwa fünf Millionen im Jahr.
+> 개편 비용은 약 1억 1천만입니다. 상당 부분이 전환 기금 지원 대상이고요. 테겔 적자는 연 1,900만에서 약 500만으로 줄어듭니다.
+HAASE: Das ist ein Konzept, das ich in den Ausschuss bringen kann.
+> 그건 제가 위원회에 가져갈 수 있는 구상이네요.
+BRANDL: Und meine Leute? Vierhundert Pflegekräfte in Tegel. Was passiert mit denen?
+> 그럼 우리 사람들은요? 테겔 간호 인력 400명. 그 사람들은 어떻게 되죠?
+KATHARINA: Niemand verliert seine Stelle, Frau Brandl. Wer will, bleibt in Tegel. Wer wechseln möchte, geht nach Spandau, wo siebzig Stellen offen sind. Das schreiben wir als Bedingung in das Konzept.
+> 아무도 일자리를 잃지 않습니다, 브란들 씨. 원하는 분은 테겔에 남습니다. 옮기고 싶은 분은 일흔 자리가 비어 있는 슈판다우로 갑니다. 그걸 구상에 조건으로 넣겠습니다.
+BRANDL: Und die Nachtdienste?
+> 그럼 야간 근무는요?
+SELIN: Mit sechzig statt zweihundertneunzig Betten verteilen sich die Pflegekräfte auf weniger Stationen. Nachts wären auf jeder Station mindestens drei.
+> 병상이 290개 대신 60개가 되면, 간호 인력이 더 적은 병동에 배치됩니다. 밤에도 병동마다 최소 세 명이 되고요.
+BRANDL: … Drei. Das habe ich seit Jahren nicht mehr gesehen.
+> …세 명. 그건 몇 년째 못 본 숫자예요.
+ALBERS: Und ich? Soll ich in Tegel Warzen entfernen?
+> 그럼 나는? 테겔에서 사마귀나 떼라는 거요?
+KATHARINA: Nein, Herr Professor Albers. Sie sollen in Spandau das Zentrum für Gelenkchirurgie leiten. Mit fünfhundert Operationen im Jahr, mit Ihrem Team und Ihrer Komplikationsrate.
+> 아닙니다, 알버스 교수님. 슈판다우에서 관절외과 센터를 이끌어 주셨으면 합니다. 연 500건의 수술, 교수님 팀, 그리고 교수님의 합병증 비율과 함께요.
+ALBERS: … Darüber müsste ich nachdenken.
+> …생각해 봐야겠소.
+SEIDEL: Henning, das ist das erste Mal in zehn Jahren, dass du nicht sofort Nein sagst.
+> 헨닝, 10년 만에 처음으로 당신이 바로 '아니'라고 하지 않네요.
+GRUBER: Gut, Frau Dr. Brandt. Ich will das schriftlich, bis Freitag. Und noch einmal: kein Wort an die Presse, bevor die Belegschaft informiert ist.
+> 좋소, 브란트 박사. 금요일까지 서면으로 원합니다. 그리고 다시 한번 말하는데, 직원들한테 알리기 전까지 언론엔 한마디도 하지 마시오.
+
+## 마무리 — FOLIE ZWEI
+KATHARINA: Das war besser als vor zwei Wochen.
+> 2주 전보다는 나았어.
+TOBIAS: Albers hat „nachdenken" gesagt. Bei einem Chirurgen ist das wie eine Umarmung.
+> 알버스가 '생각해 보겠다'고 했어. 외과의사한테 그건 포옹이나 마찬가지야.
+SELIN: Und Brandl hat gelächelt. Bei „drei" hat sie gelächelt.
+> 그리고 브란들 씨가 웃었어. '세 명'에서 웃더라.
+KATHARINA: Moment, Lorenz. — Jan-Hendrik?
+> 잠깐, 로렌츠야. — 얀헨드릭?
+LORENZ: Katharina, wo bleibt der Zwischenbericht für Ebersbach? Philipp fragt jeden Tag.
+> 카타리나, 에버스바흐 중간 보고서는 어떻게 됐어? 필립이 매일 물어.
+KATHARINA: Am Montag. Mit allen drei Wegen, gleich gründlich.
+> 월요일에요. 세 가지 길 전부, 똑같이 철저하게.
+LORENZ: Gleich gründlich ist schön. Aber der Verkauf gehört nach vorn. Auf Folie zwei. Konrad muss sehen, was auf dem Tisch liegt.
+> 똑같이 철저한 건 좋아. 하지만 매각은 앞쪽에 와야 해. 2번 슬라이드에. 콘라트가 테이블 위에 뭐가 있는지 봐야 하니까.
+KATHARINA: Er steht da, wo die Zahlen ihn hinstellen, Jan-Hendrik. Das hatten wir schon bei der Mainbank. Folie zwölf.
+> 매각은 숫자가 세워 두는 자리에 서요, 얀헨드릭. 그건 마인방크 때 이미 했잖아요. 12번 슬라이드.
+LORENZ: Dann schick ihn mir am Sonntag. Ich lese ihn vorher.
+> 그럼 일요일에 나한테 보내. 먼저 읽을게.
+SELIN: Katharina … schau mal. Das „Spree-Echo", online: „Klinik Tegel vor dem Aus — geheimes Gutachten."
+> 카타리나… 이것 좀 봐. '슈프레-에코' 온라인판. '테겔 병원 폐쇄 임박 — 비밀 감정서.'
+TOBIAS: Da ist ein Foto von unserer Landkarte. Von der ersten Version. Mit „Schließung" als Option eins.
+> 우리 지도 사진이 있어. 첫 번째 버전. '폐쇄'가 1번 선택지로 적힌 거.
+KATHARINA: … Ruf Frau Brandl an. Sofort. Bevor die Nachtschicht es liest.
+> …브란들 씨한테 전화해. 당장. 야간조가 읽기 전에.

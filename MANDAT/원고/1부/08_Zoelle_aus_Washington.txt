@@ -1,0 +1,268 @@
+part: 1
+ep: 8
+title_de: Zölle aus Washington
+title_ko: 워싱턴발 관세
+scene: 목요일 저녁, Hellweg 프랑크푸르트 사무실 → 금요일 오전, Mainchem 감사회
+level: B1+→B2
+setting: 3주 뒤 목요일 오후 다섯 시 반부터 금요일 정오까지. 밤새 Hellweg 프랑크푸르트 사무실 프로젝트룸(뉴저지와 화상회의), 이튿날 오전 열 시 Mainchem AG 감사회 회의실
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
+cast: BIRGIT | Birgit Hahn · 팀 어시스턴트
+cast: HOLZAPFEL | Dr. Martin Holzapfel · Mainchem AG 이사회 의장 (61)
+cast: KURTZ | Daniel Kurtz · Mainchem Inc.(뉴저지) 대표, 독일계 미국인
+cast: RIECK | Dr. Susanne Rieck · Mainchem AG 재무담당 이사(CFO)
+cast: SAUER | Prof. Dr. Elke Sauer · Mainchem AG 감사회 의장 (가상)
+cast: LORENZ | Jan-Hendrik Lorenz · 시니어 파트너 (58)
+note: ※ 2025년 미국은 EU산 수입품에 고율 관세를 부과했고, 같은 해 여름 EU와 미국은 대부분의 품목에 15% 상한을 두는 무역 합의에 이르렀습니다. 이 화에서 화학제품 관세가 30%로 오른다는 소식은 가상의 사건입니다. 관세는 수입 시점의 상품 가치(관세 가격)에 붙기 때문에, 완제품 대신 농축액이나 중간재를 수출하고 현지에서 '실질적 변형(substantial transformation)'을 거쳐 마무리하면 관세 부담을 줄일 수 있습니다. 다만 이것이 인정되는지는 원산지 규정에 따라 관세 전문가가 판단해야 합니다. 시장 가까이로 생산을 옮기는 것을 니어쇼어링(Nearshoring)이라고 합니다. 독일 감사회(Aufsichtsrat)는 대규모 투자를 승인하며, 결의(Beschluss)는 표결로 이뤄집니다. 민감도 분석(Sensitivitätsanalyse)은 어떤 가정이 결과를 얼마나 바꾸는지 시험하는 방법입니다. 회사와 인물은 모두 가상입니다. 표현 초점: der Zoll, die Lieferkette, das Szenario, die Annahme, Das ist kein Plan B, das ist Plan A mit Puffer.
+next: 1부 9화 — «Hinterhof-KI»(뒷마당의 AI) — 베를린 크로이츠베르크, 옛 공장 건물 뒷마당의 AI 스타트업 Spreemind. Hellweg의 최대 고객인 투자사가 시리즈 B 투자를 앞두고 실사를 맡긴다. 매력적인 창업자들, 진짜처럼 보이는 기술, 그리고 '정장 차림 컨설턴트'에 대한 경계심. Selin의 고향 같은 세계다.
+
+## 도입 — DONNERSTAG, SIEBZEHN UHR DREISSIG
+SELIN: Folie dreiundzwanzig ist fertig. Die Karte mit beiden Standorten. Frankfurt in Blau, Texas in Orange.
+> 23번 슬라이드 끝났어. 두 입지가 다 나온 지도. 프랑크푸르트는 파란색, 텍사스는 주황색.
+TOBIAS: Orange. Mutig.
+> 주황색이라. 대담하네.
+KATHARINA: Morgen um zehn sitzt der Aufsichtsrat. Zwölf Leute, drei Stunden. Und zum ersten Mal ist alles fertig, bevor es dunkel wird.
+> 내일 열 시에 감사회가 열려. 열두 명, 세 시간. 그리고 처음으로 해 지기 전에 모든 게 끝났어.
+TOBIAS: Das sagst du immer kurz bevor etwas passiert.
+> 넌 꼭 무슨 일 터지기 직전에 그 말을 하더라.
+BIRGIT: Ich gehe dann, Frau Dr. Brandt. Brauchen Sie noch etwas?
+> 저 이만 가 볼게요, 브란트 박사님. 더 필요하신 거 있으세요?
+KATHARINA: Nein, danke, Birgit. Heute gehen wir alle pünktlich nach Hause.
+> 아뇨, 고마워요, 비르기트. 오늘은 다들 제시간에 퇴근해요.
+BIRGIT: Das habe ich in elf Jahren noch nie gehört. Ich schreibe es in den Kalender.
+> 11년 동안 그런 말은 처음 들어요. 달력에 적어 둘게요.
+SELIN: Moment. Eine Eilmeldung. „Washington erhöht Zölle auf Chemieprodukte aus der EU auf dreißig Prozent."
+> 잠깐. 속보야. '워싱턴, EU산 화학제품 관세 30퍼센트로 인상.'
+TOBIAS: Von fünfzehn auf dreißig?
+> 15에서 30으로?
+SELIN: Ab dem ersten Februar. Für Spezialchemikalien, Kunststoffe und Lackrohstoffe.
+> 2월 1일부터. 특수 화학제품, 플라스틱, 도료 원료 대상.
+BIRGIT: Ich nehme an, das mit dem Kalender streiche ich wieder.
+> 달력에 적은 건 다시 지워야겠네요.
+BIRGIT: Ich bleibe. Und ich koche Kaffee. Sehr viel Kaffee.
+> 남을게요. 커피 끓일게요. 아주 많이요.
+
+## 장면 1 — ANRUF IN NEW JERSEY
+KATHARINA: Gut. Tobias, was bedeutet das für unsere Empfehlung?
+> 좋아. 토비아스, 이게 우리 권고에 무슨 의미야?
+TOBIAS: Das weiß ich in sechs Stunden. Vielleicht in acht. Jedes Szenario hängt an einer Annahme über die USA.
+> 여섯 시간 뒤에 알 수 있어. 어쩌면 여덟 시간. 모든 시나리오가 미국에 대한 가정에 걸려 있어.
+KATHARINA: Wir haben keine acht Stunden. Ich rufe Holzapfel an. Selin, organisier bitte eine Videokonferenz mit New Jersey.
+> 여덟 시간은 없어. 홀츠아펠한테 전화할게. 셀린, 뉴저지랑 화상회의 좀 잡아 줘.
+SELIN: Dort ist es jetzt halb zwölf mittags. Herr Kurtz ist sicher im Büro.
+> 거긴 지금 낮 열한 시 반이야. 쿠르츠 씨는 분명 사무실에 있을 거야.
+HOLZAPFEL: Frau Dr. Brandt, ich habe es gesehen. Sagen Sie mir, dass wir morgen nicht mit einer veralteten Präsentation vor dem Aufsichtsrat stehen.
+> 브란트 박사, 나도 봤어요. 내일 감사회 앞에 낡은 발표 자료를 들고 서지 않을 거라고 말해 줘요.
+KATHARINA: Das verspreche ich Ihnen. Morgen um zehn haben Sie eine aktualisierte Empfehlung.
+> 약속드립니다. 내일 열 시에 수정된 권고안을 받으실 겁니다.
+HOLZAPFEL: Frau Dr. Rieck wird sagen: Jetzt erst recht alles nach Texas.
+> 리크 박사는 이러겠죠. 이제야말로 전부 텍사스로 가야 한다고.
+KATHARINA: Dann prüfen wir das auch. Ohne Vorurteil.
+> 그럼 그것도 검토하겠습니다. 선입견 없이요.
+KURTZ: Hi, Frau Dr. Brandt! Daniel Kurtz, Mainchem Inc. Sie haben die Nachricht auch gesehen, nehme ich an.
+> 안녕하세요, 브란트 박사님! 대니얼 쿠르츠, 마인켐 미국 법인입니다. 소식 보셨겠죠.
+KATHARINA: Ja, Herr Kurtz. Wie reagieren Ihre Kunden?
+> 네, 쿠르츠 씨. 고객들 반응은 어떤가요?
+KURTZ: Zwei haben schon angerufen. Sie fragen, ob wir den Preis halten. Und ein amerikanischer Konkurrent hat ihnen gestern ein Angebot geschickt — vor der Meldung.
+> 벌써 두 곳이 전화했어요. 가격을 유지하느냐고요. 그리고 미국 경쟁사가 어제 그쪽에 견적을 보냈더군요. 발표 전에요.
+TOBIAS: Vor der Meldung? Dann wusste da jemand mehr als wir.
+> 발표 전에요? 그럼 누군가는 우리보다 더 많이 알고 있었던 거네요.
+KURTZ: In Washington weiß immer jemand mehr. Willkommen in meiner Welt.
+> 워싱턴에선 늘 누군가가 더 알죠. 제 세계에 오신 걸 환영합니다.
+SELIN: Herr Kurtz, wie viel Umsatz machen Sie mit Produkten aus Frankfurt?
+> 쿠르츠 씨, 프랑크푸르트산 제품으로 매출을 얼마나 올리시나요?
+KURTZ: Etwa hundertachtzig Millionen Dollar im Jahr. Fast alles Spezialadditive. Die werden in Frankfurt hergestellt und hier nur verpackt.
+> 연간 약 1억 8천만 달러요. 거의 다 특수 첨가제예요. 프랑크푸르트에서 만들어서 여기서는 포장만 하죠.
+SELIN: Nur verpackt? Keine Weiterverarbeitung?
+> 포장만요? 추가 가공은 없고요?
+KURTZ: Ein bisschen Mischen für zwei große Kunden. Aber im Prinzip: Container rein, Etikett drauf, Lkw raus.
+> 큰 고객 두 곳을 위해 조금 섞는 정도요. 하지만 기본적으로는 컨테이너 들어오고, 라벨 붙이고, 트럭 나가요.
+TOBIAS: Dann zahlen Sie den Zoll auf den vollen Wert.
+> 그럼 전체 가치에 관세를 내시는 거네요.
+KURTZ: Genau. Dreißig Prozent auf hundertachtzig Millionen, das sind vierundfünfzig Millionen. Das zahlt kein Kunde.
+> 맞아요. 1억 8천만의 30퍼센트면 5,400만이죠. 그걸 낼 고객은 없어요.
+SELIN: Und wenn nicht das fertige Produkt über den Atlantik geht, sondern nur ein Konzentrat? Das Mischen und Anpassen passiert dann in New Jersey.
+> 그럼 완제품이 아니라 농축액만 대서양을 건너간다면요? 섞고 맞추는 작업은 뉴저지에서 하고요.
+KURTZ: Dann fällt der Zoll nur auf das Konzentrat. Das ist vielleicht vierzig Prozent des Werts.
+> 그럼 관세는 농축액에만 붙죠. 그건 가치의 한 40퍼센트쯤 될 거예요.
+TOBIAS: Aber nur, wenn die Weiterverarbeitung in den USA zollrechtlich wesentlich ist. Das muss ein Zollanwalt prüfen.
+> 하지만 미국에서의 가공이 관세법상 실질적인 것으로 인정될 때만이죠. 그건 관세 전문 변호사가 검토해야 해요.
+KURTZ: Wir haben einen in Washington. Er ist teuer, aber er schläft nie.
+> 워싱턴에 한 명 있어요. 비싸지만 잠을 안 자요.
+KATHARINA: Wie viel kostet eine kleine Endfertigung in New Jersey?
+> 뉴저지의 소규모 마감 공장은 얼마나 드나요?
+KURTZ: Wir haben eine leere Halle neben dem Lager. Mit Anlagen vielleicht sechzig Millionen Dollar. Bauzeit zwölf bis fünfzehn Monate.
+> 창고 옆에 빈 건물이 있어요. 설비 포함 한 6천만 달러. 공사 기간은 12개월에서 15개월.
+TOBIAS: Fünfzehn Monate. Der Zoll kommt in zehn Wochen.
+> 15개월. 관세는 10주 뒤에 와요.
+KURTZ: Ich weiß. Bis dahin brauchen wir eine Brücke.
+> 압니다. 그때까지는 다리가 필요하죠.
+SELIN: Wie groß ist Ihr Lager in New Jersey? Wie viele Monate können Sie aus dem Lager liefern?
+> 뉴저지 재고는 어느 정도예요? 재고로 몇 달이나 공급할 수 있어요?
+KURTZ: Normal sind es zwei Monate. Wenn Frankfurt jetzt schnell liefert, schaffen wir bis Februar vielleicht fünf.
+> 보통은 두 달 치예요. 프랑크푸르트가 지금 빨리 보내 주면 2월까지 다섯 달 치는 될 거예요.
+TOBIAS: Und wer bezahlt das zusätzliche Lager? Und was, wenn der Zoll im Sommer wieder fällt?
+> 그럼 추가 재고는 누가 부담하죠? 그리고 관세가 여름에 다시 내려가면요?
+KURTZ: Herr Wendt, wenn ich das wüsste, wäre ich nicht in der Chemie. Dann wäre ich in Las Vegas.
+> 벤트 씨, 그걸 알면 화학 업계에 있지 않겠죠. 라스베이거스에 있을 거예요.
+KATHARINA: Danke, Herr Kurtz. Bleiben Sie bitte erreichbar. Wir melden uns in drei Stunden.
+> 감사합니다, 쿠르츠 씨. 연락 가능한 상태로 계셔 주세요. 세 시간 뒤에 연락드릴게요.
+TOBIAS: Drei Stunden? Katharina, die Lieferkette hat vierzehn Schritte. Jeder Schritt hat eine Annahme. Das ist keine Sache von drei Stunden.
+> 세 시간? 카타리나, 공급망이 열네 단계야. 단계마다 가정이 있어. 세 시간짜리 일이 아니야.
+
+## 장면 2 — „DU VERTRAUST NIEMANDEM"
+KATHARINA: Dann machen wir es grob. Drei Szenarien, gerundete Zahlen. Die Folien baue ich selbst um.
+> 그럼 대략적으로 하자. 시나리오 세 개, 반올림한 숫자. 슬라이드는 내가 직접 고칠게.
+TOBIAS: Grob? Morgen sitzen zwölf Aufsichtsräte vor dir, darunter zwei Wirtschaftsprüfer. Die finden jede grobe Zahl.
+> 대략? 내일 네 앞엔 감사 위원 열두 명이 앉아. 그중 두 명은 회계사야. 대략적인 숫자는 하나도 빠짐없이 찾아낼 거야.
+KATHARINA: Und wenn wir gar keine neue Zahl haben, fragen sie nach dem Zoll, und wir stehen mit leeren Händen da.
+> 그리고 새 숫자가 아예 없으면 관세에 대해 물을 텐데, 우린 빈손으로 서 있게 돼.
+TOBIAS: Lieber leere Hände als falsche Zahlen.
+> 틀린 숫자보다는 빈손이 나아.
+KATHARINA: Das ist keine Wahl, Tobias. Holzapfel braucht morgen eine Antwort.
+> 그건 선택지가 아니야, 토비아스. 홀츠아펠은 내일 답이 필요해.
+TOBIAS: Holzapfel braucht eine richtige Antwort. Eine schnelle braucht er nicht.
+> 홀츠아펠한테 필요한 건 맞는 답이야. 빠른 답이 아니라.
+SELIN: Darf ich kurz …
+> 잠깐만…
+KATHARINA: Gleich, Selin. Tobias, wie lange brauchst du? Realistisch.
+> 잠깐만, 셀린. 토비아스, 얼마나 걸려? 현실적으로.
+TOBIAS: Für alle drei Szenarien, sauber gerechnet, mit Sensitivitäten? Bis sieben Uhr früh.
+> 시나리오 세 개 전부, 깔끔하게 계산하고 민감도 분석까지? 아침 일곱 시까지.
+KATHARINA: Dann bleiben drei Stunden für die Folien und keine für Fehler. Gib mir dein Modell. Das Szenario mit der Endfertigung rechne ich selbst.
+> 그럼 슬라이드에 세 시간 남고 실수할 시간은 없어. 네 모델 줘. 마감 공장 시나리오는 내가 직접 계산할게.
+TOBIAS: Du willst mein Modell rechnen?
+> 네가 내 모델을 계산하겠다고?
+KATHARINA: Ich kann rechnen, Tobias.
+> 나도 계산할 줄 알아, 토비아스.
+TOBIAS: Das weiß ich. Darum geht es nicht. Es geht darum, dass du wieder alles selbst machen willst.
+> 알아. 그게 문제가 아니야. 네가 또 전부 혼자 하려고 한다는 게 문제야.
+KATHARINA: Was soll das heißen?
+> 그게 무슨 말이야?
+TOBIAS: Bei der Mainbank hast du die Präsentation zweimal neu geschrieben, nachts, allein. Bei Havelteile hast du jede Folie selbst gebaut. Und jetzt willst du mein Modell. Du vertraust niemandem, Katharina. Nicht einmal mir.
+> 마인방크 때 넌 밤에 혼자서 발표 자료를 두 번이나 새로 썼어. 하펠타일레 때는 슬라이드를 하나하나 직접 만들었고. 이제는 내 모델을 달래. 넌 아무도 안 믿어, 카타리나. 나조차도.
+KATHARINA: Das ist unfair.
+> 그건 불공평해.
+TOBIAS: Vielleicht. Aber es ist wahr.
+> 그럴지도. 하지만 사실이야.
+KATHARINA: Ich mache das, weil am Ende mein Name auf der ersten Folie steht. Wenn es schiefgeht, steht im Partnerausschuss niemand für dich. Ich stehe für alle.
+> 내가 이러는 건 결국 첫 슬라이드에 내 이름이 들어가기 때문이야. 일이 틀어지면 파트너 위원회에서 아무도 너를 대신해 서 주지 않아. 내가 모두를 대신해서 서는 거야.
+TOBIAS: Dann lass uns wenigstens unsere Arbeit machen, damit du für etwas Richtiges stehst.
+> 그럼 최소한 우리가 우리 일을 하게 해 줘. 네가 맞는 것을 위해 설 수 있게.
+BIRGIT: Kaffee. Und ein Teller Laugenbrezeln. Ich stelle ihn genau zwischen Sie beide. Das nennt man Diplomatie.
+> 커피요. 그리고 라우겐브레첼 한 접시. 두 분 딱 가운데에 놓을게요. 이런 걸 외교라고 하죠.
+TOBIAS: Danke, Birgit. Ich gehe kurz auf den Balkon.
+> 고마워요, 비르기트. 잠깐 발코니에 다녀올게요.
+SELIN: Katharina … darf ich jetzt etwas sagen?
+> 카타리나… 이제 말해도 돼?
+KATHARINA: Ja. Entschuldigung. Ich habe dich vorhin unterbrochen.
+> 응. 미안. 아까 말 끊었지.
+SELIN: Ihr habt beide recht. Wir brauchen morgen eine Antwort, und sie muss stimmen. Aber vielleicht müssen nicht alle Zahlen gleich genau sein.
+> 둘 다 맞아. 내일 답이 필요하고, 그건 맞아야 해. 그런데 모든 숫자가 똑같이 정확할 필요는 없을지도 몰라.
+KATHARINA: Wie meinst du das?
+> 무슨 뜻이야?
+SELIN: Drei Annahmen entscheiden fast alles: die Höhe des Zolls, der Anteil des Konzentrats am Wert und wie lange der Zoll bleibt. Die anderen elf ändern das Ergebnis kaum. Ich habe es eben getestet.
+> 거의 모든 걸 결정하는 가정은 세 개야. 관세 수준, 가치에서 농축액이 차지하는 비중, 그리고 관세가 얼마나 오래 가는지. 나머지 열한 개는 결과를 거의 안 바꿔. 방금 테스트해 봤어.
+KATHARINA: Dann rechnet Tobias diese drei sauber und genau. Und für den Rest nehmen wir die Zahlen von letzter Woche.
+> 그럼 토비아스가 그 세 개를 깔끔하고 정확하게 계산하고. 나머지는 지난주 숫자를 쓰면 되겠네.
+SELIN: Genau. Und du baust nicht das Modell um, sondern die Geschichte. Das kannst du besser als wir beide.
+> 바로 그거야. 그리고 너는 모델을 고치는 게 아니라 이야기를 고쳐. 그건 네가 우리 둘보다 잘하잖아.
+KATHARINA: Du klingst schon wie eine Projektleiterin.
+> 너 벌써 프로젝트 리더처럼 말한다.
+SELIN: Ich klinge wie jemand, der um zwei Uhr nachts nicht noch einen Streit hören will.
+> 새벽 두 시에 싸움을 또 듣고 싶지 않은 사람처럼 말하는 거야.
+KATHARINA: … Ich gehe zu ihm.
+> …그 사람한테 가 볼게.
+TOBIAS: Wenn du kommst, um mir zu sagen, dass ich unfair war: Ich weiß.
+> 내가 불공평했다고 말하러 온 거면, 알아.
+KATHARINA: Ich komme, um dir zu sagen, dass du recht hattest. Ich kann schlecht abgeben. Das weiß ich schon lange, ich habe es nur nie laut gehört.
+> 네 말이 맞았다고 말하러 왔어. 난 일을 잘 못 맡겨. 오래전부터 알았는데, 소리 내서 들은 건 처음이야.
+TOBIAS: Und ich hätte es nicht um zwei Uhr nachts vor Selin sagen sollen.
+> 그리고 난 그 말을 새벽 두 시에 셀린 앞에서 하지 말았어야 했어.
+KATHARINA: Doch. Sonst hättest du es nie gesagt. Also: Du rechnest die drei Annahmen, die Selin gefunden hat. Ich fasse dein Modell nicht an.
+> 아니. 안 그랬으면 넌 절대 말 안 했을 거야. 그러니까, 넌 셀린이 찾은 가정 세 개를 계산해. 난 네 모델에 손 안 댈게.
+
+## 절정 — FREITAG, ZEHN UHR
+TOBIAS: Abgemacht. Und um sieben darfst du das Ergebnis als Erste sehen. Nicht anfassen. Nur sehen.
+> 좋아. 그리고 일곱 시에 결과는 네가 제일 먼저 봐도 돼. 손대지는 말고. 보기만.
+SAUER: Meine Damen und Herren, wir beginnen. Frau Dr. Brandt, wir haben alle die Nachricht aus Washington gelesen. Ist Ihre Empfehlung noch gültig?
+> 신사 숙녀 여러분, 시작하겠습니다. 브란트 박사님, 저희 모두 워싱턴 소식을 읽었습니다. 박사님 권고안이 아직 유효합니까?
+KATHARINA: Im Kern ja, Frau Professor Sauer. Aber wir haben sie heute Nacht angepasst. Darf ich Ihnen zeigen, wie?
+> 핵심은 그렇습니다, 자우어 교수님. 다만 간밤에 조정했습니다. 어떻게 조정했는지 보여 드려도 될까요?
+RIECK: Bevor Sie anfangen: Ist es nicht offensichtlich, dass jetzt alles in die USA gehört? Wer dort produziert, zahlt keinen Zoll.
+> 시작하시기 전에요. 이제는 모든 걸 미국으로 옮겨야 하는 게 뻔하지 않나요? 거기서 생산하면 관세를 안 내잖아요.
+KATHARINA: Das haben wir geprüft, Frau Dr. Rieck. Herr Wendt?
+> 그것도 검토했습니다, 리크 박사님. 벤트 씨?
+TOBIAS: Wenn Sie die Spezialproduktion ganz in die USA verlagern, sparen Sie den Zoll auf hundertachtzig Millionen Dollar. Aber Sie verlieren die Nähe zu einundsiebzig Prozent Ihrer Kunden in Europa. Und Sie riskieren europäische Gegenzölle auf Ware aus den USA.
+> 특수 생산을 전부 미국으로 옮기시면 1억 8천만 달러에 대한 관세는 아끼십니다. 하지만 유럽에 있는 고객 71퍼센트와의 근접성을 잃으시죠. 그리고 미국산 제품에 대한 유럽의 보복 관세 위험을 지시게 됩니다.
+SAUER: Gegenzölle sind bisher nur angekündigt.
+> 보복 관세는 아직 예고만 됐을 뿐이에요.
+TOBIAS: Genau deshalb haben wir drei Szenarien. Eins: Der Zoll bleibt ein Jahr. Zwei: Er bleibt fünf Jahre. Drei: Er steigt weiter, und Europa antwortet.
+> 그래서 저희가 시나리오를 세 개 만든 겁니다. 하나, 관세가 1년 간다. 둘, 5년 간다. 셋, 더 오르고 유럽이 맞대응한다.
+SAUER: Und in welchem Szenario gewinnt Ihre Empfehlung?
+> 그럼 박사님 권고안은 어느 시나리오에서 이깁니까?
+KATHARINA: In keinem ist sie die beste. Aber in allen dreien ist sie gut. Das ist der Punkt.
+> 어느 시나리오에서도 최선은 아닙니다. 하지만 세 시나리오 모두에서 좋습니다. 그게 핵심입니다.
+SAUER: Erklären Sie das.
+> 설명해 보세요.
+KATHARINA: Erstens: Die Kernproduktion der Spezialadditive bleibt in Frankfurt, wie geplant. Dort entstehen die Wirkstoffe, das Wissen, die Qualität.
+> 첫째, 특수 첨가제 핵심 생산은 계획대로 프랑크푸르트에 남습니다. 거기서 유효 성분과 지식과 품질이 만들어지니까요.
+KATHARINA: Zweitens: In New Jersey entsteht eine kleine Endfertigung für sechzig Millionen Dollar. Dort wird das Konzentrat aus Frankfurt gemischt, angepasst und abgefüllt. Der Zoll fällt dann nur auf das Konzentrat — nach unserer Prüfung etwa vierzig Prozent des Werts.
+> 둘째, 뉴저지에 6천만 달러짜리 소규모 마감 공장을 짓습니다. 프랑크푸르트에서 온 농축액을 거기서 섞고, 맞추고, 충전합니다. 그러면 관세는 농축액에만 붙습니다. 저희 검토로는 가치의 약 40퍼센트입니다.
+SELIN: Damit sinkt die Zollbelastung von vierundfünfzig auf etwa zweiundzwanzig Millionen Dollar im Jahr. Der Zollanwalt von Mainchem Inc. hat das heute Nacht vorläufig bestätigt.
+> 그러면 관세 부담이 연간 5,400만에서 약 2,200만 달러로 줄어듭니다. 마인켐 미국 법인의 관세 변호사가 간밤에 잠정적으로 확인해 줬습니다.
+RIECK: Und bis die Anlage steht? Fünfzehn Monate lang zahlen wir den vollen Zoll.
+> 그럼 설비가 완공될 때까지는요? 15개월 동안 관세를 전액 내잖아요.
+KATHARINA: Drittens: die Brücke. Frankfurt liefert bis Ende Januar so viel wie möglich vor, damit das Lager in New Jersey bis in den Sommer reicht. Und mit den zwei größten Kunden verhandelt Herr Kurtz neue Verträge mit einer Zollklausel, die die Kosten teilt.
+> 셋째, 다리입니다. 프랑크푸르트가 1월 말까지 최대한 미리 보내서 뉴저지 재고가 여름까지 가게 합니다. 그리고 가장 큰 고객 두 곳과는 쿠르츠 씨가 비용을 나눠 지는 관세 조항이 들어간 새 계약을 협상합니다.
+RIECK: Und wenn der Zoll im Sommer wieder fällt? Dann haben wir sechzig Millionen in eine Halle gesteckt, die wir nicht brauchen.
+> 그런데 관세가 여름에 다시 내려가면요? 필요도 없는 건물에 6천만을 쏟아붓게 되잖아요.
+TOBIAS: Dann haben Sie eine Endfertigung nah an Ihren amerikanischen Kunden, schnellere Lieferzeiten und weniger Container auf dem Atlantik. Die Halle rechnet sich auch ohne Zoll in sieben Jahren. Mit Zoll in zwei.
+> 그럼 미국 고객 가까이에 마감 공장이 생기고, 납기가 빨라지고, 대서양을 건너는 컨테이너가 줄어듭니다. 그 건물은 관세가 없어도 7년이면 본전을 뽑습니다. 관세가 있으면 2년이고요.
+SAUER: Und die Grundstoffanlage in Texas?
+> 그럼 텍사스의 기초 원료 설비는요?
+KATHARINA: Bleibt im Plan, aber in zwei Stufen. Die erste sofort, die zweite erst, wenn klar ist, wie sich der Handelsstreit entwickelt. So binden wir kein Kapital, das wir später bereuen.
+> 계획에 남깁니다. 다만 두 단계로요. 1단계는 즉시, 2단계는 무역 분쟁이 어떻게 전개될지 분명해진 뒤에. 그래야 나중에 후회할 자본을 묶어 두지 않습니다.
+SAUER: Frau Dr. Brandt, das klingt für mich wie ein Plan B.
+> 브란트 박사님, 제게는 그게 플랜 B처럼 들리는군요.
+KATHARINA: Das ist kein Plan B, Frau Professor Sauer. Das ist Plan A mit Puffer. Wir ändern nicht die Richtung, wir machen sie robuster.
+> 그건 플랜 B가 아닙니다, 자우어 교수님. 완충 장치를 단 플랜 A입니다. 방향을 바꾸는 게 아니라, 더 튼튼하게 만드는 거죠.
+SAUER: Herr Dr. Holzapfel?
+> 홀츠아펠 박사님?
+HOLZAPFEL: Gestern Abend habe ich gedacht, wir müssen alles neu machen. Heute sehe ich: Wir müssen es nur besser absichern. Ich unterstütze die Empfehlung.
+> 어젯밤엔 모든 걸 새로 해야 한다고 생각했습니다. 오늘 보니 더 잘 대비하기만 하면 되는군요. 권고안을 지지합니다.
+RIECK: Ich habe eine Bedingung. Die zweite Stufe in Texas wird in einem Jahr neu bewertet. Mit denselben drei Szenarien.
+> 조건이 하나 있습니다. 텍사스 2단계는 1년 뒤에 재평가합니다. 같은 세 시나리오로요.
+KATHARINA: Einverstanden. Das schreiben wir in den Beschluss.
+> 동의합니다. 그걸 결의안에 넣겠습니다.
+SAUER: Dann stimmen wir ab. Wer ist dafür? … Einstimmig. Danke, Frau Dr. Brandt.
+> 그럼 표결하겠습니다. 찬성하시는 분? …만장일치. 감사합니다, 브란트 박사님.
+SAUER: Und, Herr Wendt — Ihre drei Szenarien waren die klarste Unsicherheit, die ich seit Langem gesehen habe.
+> 그리고 벤트 씨 — 그 세 시나리오는 제가 오랜만에 본 가장 명료한 불확실성이었어요.
+
+## 마무리 — EIN ANRUF VON OBEN
+TOBIAS: „Die klarste Unsicherheit." Das lasse ich mir auf eine Tasse drucken.
+> '가장 명료한 불확실성.' 머그잔에 새겨야겠어.
+SELIN: Du hast die ganze Nacht nicht geschlafen und machst schon wieder Witze.
+> 밤새 한숨도 안 자 놓고 벌써 또 농담이야.
+TOBIAS: Witze sind mein Puffer.
+> 농담은 내 완충 장치야.
+KATHARINA: Tobias. Danke für heute Nacht. Auch für den unangenehmen Teil.
+> 토비아스. 어젯밤 고마웠어. 불편했던 부분까지.
+TOBIAS: Der unangenehme Teil war der wichtigste. Aber erzähl es bitte nicht weiter.
+> 불편했던 부분이 제일 중요했지. 그래도 다른 데 가서 말하진 마.
+KATHARINA: Und Selin: Ab jetzt sitzt du bei jedem Streit zwischen uns in der Mitte.
+> 그리고 셀린, 이제부터 우리 둘이 싸울 땐 네가 가운데 앉아.
+SELIN: Nur, wenn es Laugenbrezeln gibt.
+> 라우겐브레첼이 있으면.
+LORENZ: Katharina, ich habe gehört: einstimmig. Gratuliere. Der Partnerausschuss hat es auch schon gehört.
+> 카타리나, 들었어. 만장일치라며. 축하해. 파트너 위원회도 벌써 들었어.
+KATHARINA: Das ging schnell, Jan-Hendrik.
+> 빠르네요, 얀헨드릭.
+LORENZ: Gute Nachrichten reisen schnell. Und jetzt eine Bitte: Taunus Capital braucht eine Due Diligence in Berlin. Ein KI-Startup vor der Series B. Taunus ist unser größter Kunde, und ich will dein Team.
+> 좋은 소식은 빨리 퍼지지. 그리고 이제 부탁 하나. 타우누스 캐피털이 베를린에서 실사가 필요하대. 시리즈 B를 앞둔 AI 스타트업이야. 타우누스는 우리 최대 고객이고, 난 네 팀이 필요해.
+SELIN: Ein KI-Startup in Berlin? Das ist ja fast mein Zuhause.
+> 베를린의 AI 스타트업? 거의 우리 집이네.
+TOBIAS: Dann pack deinen Kapuzenpulli ein. Im Anzug kommen wir da nicht durch die Tür.
+> 그럼 후드티 챙겨. 정장 입고는 거기 문도 못 통과해.

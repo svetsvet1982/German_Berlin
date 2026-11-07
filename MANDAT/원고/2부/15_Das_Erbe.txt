@@ -1,0 +1,236 @@
+part: 2
+ep: 15
+title_de: Das Erbe
+title_ko: 유산
+scene: Konrad의 저택 → 하나우 중앙묘지
+level: B2
+setting: 9월 셋째 주 화요일 새벽 다섯 시(전화)부터 금요일 오후(하나우 중앙묘지)까지, 하나우 빌헬름스바트의 에버스바흐 저택 서재
+cast: KATHARINA | Dr. Katharina Brandt · CEO (39)
+cast: TOBIAS | Tobias Wendt · CFO (35)
+cast: SELIN | Selin Aydın · 전환사무국장 (27)
+cast: CLARA | Clara Ebersbach · Konrad의 딸, 감사회 위원, 14세 아들 Felix의 어머니 (41)
+cast: MARTIN | Martin Ebersbach · Konrad의 아들, 취리히 거주 건축가 (47)
+cast: LEONIE | Leonie Ebersbach · Martin의 딸, 손녀 (24)
+cast: MORITZ | Moritz Ebersbach · Martin의 아들, 손자 (22)
+cast: ALBERS | Dr. Ferdinand Albers · 공증인, 유언집행자(Testamentsvollstrecker) (가상) (66)
+cast: MONIKA | Monika Schäfer · 이사회 비서실장
+cast: KRÖGER | Matthias Kröger · 슈판다우 노동자평의회 의장 (52)
+cast: KRULL | Sebastian Krull · 사모펀드 Aldmoor Capital 파트너 (가상)
+note: ※ 독일 상속세(Erbschaftsteuer)는 상속인마다 따로 계산하며, 손주(Enkel)는 부모가 살아 있으면 20만 유로까지 공제되고 고액 상속분에는 최고 30퍼센트 세율이 적용됩니다. 가업 승계를 돕기 위해 사업용 자산은 크게 감면되는데, 상속인 1인당 2,600만 유로가 넘는 대규모 취득은 감면이 단계적으로 줄어들고, 9,000만 유로를 넘으면 상속인이 개인 재산의 절반으로 낼 수 없는 만큼만 면제받는 '감면 필요성 심사(Verschonungsbedarfsprüfung)'를 신청해야 합니다. 이 경우 7년 안에 지분을 팔거나 고용(급여 총액) 조건을 지키지 못하면 면제가 취소됩니다. 부모 세대를 건너뛰고 손주에게 직접 물려주면 상속세를 한 세대 덜 내게 되어 가업에서 자주 쓰는 방식입니다. 한편 자녀는 유언에서 제외되어도 법정 상속분의 절반을 금전으로 청구할 수 있는 '유류분(Pflichtteil)'이 있고, 미리 포기 계약을 맺을 수도 있습니다. 미성년자 지분을 처분하려면 가정법원의 허가가 필요합니다. 상속 지분을 노리는 재무적 투자자(Finanzinvestor), 즉 사모펀드의 등장도 미텔슈탄트 승계의 흔한 장면입니다. 인물과 펀드는 가상입니다. 표현 초점: das Erbe, die Erbschaftsteuer, das Testament, der Finanzinvestor, Er hätte das nicht gewollt. — Er ist nicht mehr da, um zu wollen.
+next: 2부 16화 — «Der Verkauf»(매각) — 프랑크푸르트 로펌 회의실. 매각을 막을 수 없다면 조건을 만든다. Katharina와 Tobias는 슈판다우 공장 5년 존속과 고용 보장을 계약에 넣고 사임한다. 공장 정문에서 Kröger가 처음으로 손을 내밀고, 돌아오는 ICE에서 Selin이 묻는다.
+
+## 도입 — DIENSTAG, FÜNF UHR FRÜH
+MONIKA: Frau Dr. Brandt? Hier ist Monika Schäfer. Entschuldigen Sie die Uhrzeit. Ich … ich wollte nicht, dass Sie es von jemand anderem hören.
+> 브란트 박사님? 모니카 셰퍼예요. 이런 시간에 죄송해요. 저… 다른 사람한테서 들으시는 건 원치 않아서요.
+KATHARINA: Frau Schäfer. Ist es Herr Ebersbach?
+> 셰퍼 씨. 에버스바흐 회장님이세요?
+MONIKA: Er ist heute Nacht gestorben. Um drei Uhr zwanzig, zu Hause. Er wollte nicht im Krankenhaus bleiben. Clara war bei ihm.
+> 오늘 밤에 돌아가셨어요. 세 시 이십 분, 댁에서요. 병원에 계시기 싫어하셨거든요. 클라라가 곁에 있었어요.
+KATHARINA: … Danke, dass Sie mich angerufen haben. Wie geht es Ihnen?
+> …전화해 주셔서 고마워요. 셰퍼 씨는 괜찮으세요?
+MONIKA: Ich habe einunddreißig Jahre lang jeden Morgen um halb acht seinen Kaffee gekocht. Morgen koche ich keinen. Ich weiß noch nicht, wie das geht.
+> 31년 동안 매일 아침 일곱 시 반에 회장님 커피를 탔어요. 내일은 안 타겠죠. 그게 어떤 건지 아직 모르겠어요.
+TOBIAS: Katharina? Monika hat mir eine Nachricht geschickt. Ich komme zu dir.
+> 카타리나? 모니카가 문자 보냈어. 지금 너한테 갈게.
+KATHARINA: Nicht nötig, Tobias. Wir sehen uns um sieben im Büro. Wir müssen eine Ad-hoc-Meldung schreiben. Er war Aufsichtsratsvorsitzender und Mehrheitsaktionär.
+> 안 그래도 돼, 토비아스. 일곱 시에 사무실에서 보자. 수시공시를 써야 해. 감사회 의장이자 최대 주주셨으니까.
+TOBIAS: Katharina. Die Ad-hoc-Meldung kann warten, bis die Börse aufmacht. Du kannst eine Stunde lang einfach traurig sein.
+> 카타리나. 수시공시는 장 열릴 때까지 기다려도 돼. 한 시간쯤은 그냥 슬퍼해도 돼.
+KATHARINA: … Er hat mir vor einem Jahr gesagt, in seinem Alter sei «morgen» keine Gewissheit, sondern eine Hoffnung. Ich habe damals gelacht.
+> …1년 전에 그러셨어. 자기 나이가 되면 '내일'은 확신이 아니라 희망이라고. 그때 난 웃었는데.
+SELIN: Katharina, ich habe es gerade gehört. Soll ich nach Hanau kommen?
+> 카타리나, 방금 들었어. 하나우로 갈까?
+KATHARINA: Ja. Bitte. Und Selin — ruf Herrn Kröger an, bevor er es im Radio hört. Er hätte das gewollt.
+> 응. 부탁해. 그리고 셀린, 크뢰거 씨가 라디오로 듣기 전에 전화드려. 회장님도 그걸 원하셨을 거야.
+CLARA: Frau Brandt. Mein Vater wollte, dass Sie und Herr Wendt bei der Testamentseröffnung dabei sind. Freitag, zehn Uhr, in seinem Haus. Er hat gesagt, es geht dabei auch um die Firma.
+> 브란트 씨. 아버지는 유언장을 공개할 때 당신과 벤트 이사가 함께 있길 원하셨어요. 금요일 열 시, 아버지 집에서요. 회사에 관한 문제이기도 하다고 하셨어요.
+
+## 분석 — DAS TESTAMENT
+ALBERS: Guten Morgen. Ferdinand Albers. Ich war vierzig Jahre lang Konrads Notar und bin sein Testamentsvollstrecker. Das Nachlassgericht hat das Testament am Mittwoch eröffnet. Ich lese Ihnen den wesentlichen Teil vor.
+> 좋은 아침입니다. 페르디난트 알버스입니다. 40년 동안 콘라트의 공증인이었고, 그의 유언집행자입니다. 수요일에 상속법원이 유언장을 개봉했습니다. 핵심 부분을 읽어 드리겠습니다.
+ALBERS: «Meine Aktien an der Ebersbach Antriebstechnik AG — sechzig Prozent des Grundkapitals — vermache ich zu gleichen Teilen meinen drei Enkelkindern: Leonie, Moritz und Felix.»
+> «에버스바흐 안트립스테크닉 AG 주식, 자본금의 60퍼센트를 세 손주 레오니, 모리츠, 펠릭스에게 똑같이 나누어 준다.»
+ALBERS: «Meine Tochter Clara erhält das Haus in Wilhelmsbad. Mein Sohn Martin hat vor zehn Jahren auf seinen Pflichtteil verzichtet und dafür eine Abfindung erhalten.»
+> «내 딸 클라라는 빌헬름스바트의 집을 받는다. 내 아들 마르틴은 10년 전에 유류분을 포기하고 그 대가로 보상금을 받았다.»
+CLARA: … Die Enkel. Nicht ich.
+> …손주들. 내가 아니라.
+MARTIN: Das überrascht dich? Papa hat immer gesagt, du bist zu sehr wie er. Zwei Ebersbachs, die die Firma führen wollen, sind einer zu viel.
+> 그게 놀라워? 아버지는 늘 네가 너무 자기를 닮았다고 하셨잖아. 회사를 이끌고 싶은 에버스바흐가 둘이면 하나가 넘친다고.
+CLARA: Du hast vierzehn Jahre lang keinen Fuß in diese Firma gesetzt, Martin. Du baust Museen in Zürich.
+> 오빠는 14년 동안 이 회사에 발도 안 들여놨잖아, 마르틴. 취리히에서 박물관이나 짓고.
+ALBERS: Bitte. Es gibt einen Grund für diese Regelung, und Konrad hat ihn mir erklärt. Wenn die Aktien direkt an die Enkel gehen, wird die Erbschaftsteuer nur einmal fällig statt zweimal — einmal heute und einmal, wenn Ihre Generation sie weitergibt.
+> 잠시만요. 이렇게 정한 데는 이유가 있고, 콘라트가 제게 설명했습니다. 주식이 손주들에게 바로 가면 상속세를 두 번이 아니라 한 번만 내게 됩니다. 오늘 한 번, 그리고 여러분 세대가 물려줄 때 또 한 번이 아니라요.
+TOBIAS: Ein Generationensprung. Das ist in Familienunternehmen nicht ungewöhnlich.
+> 세대 건너뛰기군요. 가족기업에서는 드문 일이 아니죠.
+LEONIE: Entschuldigung, darf ich etwas fragen? Ich bin Leonie. Ich studiere in Zürich Umweltwissenschaften. Was bedeutet das jetzt konkret? Für uns?
+> 죄송한데, 하나 물어봐도 될까요? 저는 레오니예요. 취리히에서 환경과학을 공부하고 있어요. 그게 지금 구체적으로 무슨 뜻이에요? 우리한테?
+ALBERS: Konkret bedeutet es, dass jeder von Ihnen zwanzig Prozent eines börsennotierten Unternehmens erbt. Beim heutigen Kurs sind das etwas über zweihundert Millionen Euro pro Person.
+> 구체적으로는, 여러분 각자가 상장사 지분 20퍼센트를 상속받는다는 뜻입니다. 오늘 주가로 1인당 2억 유로가 조금 넘습니다.
+MORITZ: Zweihundert … Millionen?
+> 2억… 유로요?
+TOBIAS: Und darauf fällt Erbschaftsteuer an. Bei Enkeln, deren Eltern noch leben, gibt es einen Freibetrag von zweihunderttausend Euro. Für den Rest gilt bei dieser Höhe ein Steuersatz von dreißig Prozent.
+> 그리고 거기에 상속세가 붙습니다. 부모가 살아 있는 손주에게는 20만 유로가 공제되고요. 나머지는 이 정도 금액이면 30퍼센트 세율이 적용됩니다.
+LEONIE: Dreißig Prozent von zweihundert Millionen. Das sind …
+> 2억의 30퍼센트면…
+TOBIAS: Gut sechzig Millionen. Pro Person.
+> 6,000만 남짓. 1인당.
+MORITZ: Ich habe dreitausend Euro auf dem Konto. Und ein Fahrrad.
+> 제 통장엔 3,000유로 있어요. 그리고 자전거 한 대.
+ALBERS: Deshalb gibt es für Betriebsvermögen Verschonungsregeln. Aber bei einem Erwerb von über neunzig Millionen pro Person greift der normale Abschlag nicht mehr. Sie müssten eine sogenannte Verschonungsbedarfsprüfung beantragen.
+> 그래서 사업용 자산에는 감면 규정이 있습니다. 하지만 1인당 9,000만 유로를 넘는 취득에는 일반 감면이 더 이상 적용되지 않아요. 이른바 '감면 필요성 심사'를 신청하셔야 합니다.
+LEONIE: Was heißt das?
+> 그게 무슨 뜻이에요?
+ALBERS: Das Finanzamt prüft, ob Sie die Steuer aus Ihrem übrigen Vermögen bezahlen können. Die Hälfte davon müssen Sie einsetzen. Was darüber hinausgeht, wird erlassen. Für Sie drei wäre das fast die gesamte Steuer.
+> 세무서가 여러분이 나머지 재산으로 세금을 낼 수 있는지 심사합니다. 그 재산의 절반은 써야 하고, 그걸 넘는 부분은 면제됩니다. 여러분 셋이라면 세금 거의 전부가 면제되겠죠.
+MORITZ: Dann ist doch alles gut.
+> 그럼 다 괜찮은 거잖아요.
+ALBERS: Unter Bedingungen. Sie dürfen die Aktien sieben Jahre lang nicht verkaufen. Und das Unternehmen muss in dieser Zeit die Lohnsumme weitgehend halten. Sonst entfällt der Erlass, und die Steuer wird fällig.
+> 조건이 있습니다. 7년 동안 주식을 팔 수 없고, 그 기간 동안 회사는 급여 총액을 대체로 유지해야 합니다. 그렇지 않으면 면제가 취소되고 세금을 내야 해요.
+KATHARINA: Die Lohnsumme halten. Das heißt: Beschäftigung sichern.
+> 급여 총액 유지. 즉 고용을 지켜야 한다는 거네요.
+ALBERS: So hat Konrad es auch formuliert. Er sagte: «Dann muss das Finanzamt auf meine Leute aufpassen, wenn ich es nicht mehr kann.»
+> 콘라트도 그렇게 표현했어요. «내가 더 이상 못 하면, 그땐 세무서가 우리 사람들을 지켜 주겠지.»
+SELIN: Und Felix? Er ist vierzehn.
+> 그럼 펠릭스는요? 열네 살이잖아요.
+ALBERS: Für Felix übt seine Mutter das Sorgerecht aus. Und für jede Verfügung über seine Aktien braucht sie die Genehmigung des Familiengerichts.
+> 펠릭스의 경우 어머니가 친권을 행사합니다. 그리고 그 아이 주식을 처분하려면 어떤 경우든 가정법원 허가가 필요합니다.
+TOBIAS: Das heißt, ohne Clara und ohne einen Richter kann niemand Felix' zwanzig Prozent verkaufen.
+> 그러니까 클라라와 판사 없이는 아무도 펠릭스의 20퍼센트를 팔 수 없다는 거군요.
+ALBERS: Und noch etwas. Clara hat nie auf ihren Pflichtteil verzichtet. Sie hätte das Recht, ein Viertel des Nachlasswerts in Geld von den Erben zu verlangen.
+> 그리고 하나 더 있습니다. 클라라는 유류분을 포기한 적이 없어요. 상속인들에게 상속 재산 가치의 4분의 1을 금전으로 청구할 권리가 있습니다.
+MARTIN: Ein Viertel. Über hundertsechzig Millionen. Das könnten meine Kinder nie zahlen, ohne zu verkaufen.
+> 4분의 1. 1억 6,000만이 넘어. 우리 애들은 주식을 팔지 않고는 절대 못 내.
+CLARA: Ich weiß, Martin.
+> 알아, 오빠.
+
+## 갈등 — DER UMSCHLAG
+MONIKA: Entschuldigung. Ein Bote hat das gerade abgegeben. Ein Umschlag für die Erben. Absender: Aldmoor Capital, London.
+> 실례합니다. 방금 배달원이 이걸 두고 갔어요. 상속인분들 앞으로 온 봉투예요. 발신인은 Aldmoor Capital, 런던.
+CLARA: Vier Tage nach seinem Tod. Sie haben nicht einmal bis zur Beerdigung gewartet.
+> 돌아가신 지 나흘 만이라. 장례식까지도 안 기다렸네.
+MARTIN: Lies vor.
+> 읽어 봐.
+CLARA: «Mit tiefem Mitgefühl … in Würdigung des Lebenswerks von Konrad Ebersbach … bereit, den Erben für ihre Aktien einen Preis von vierzig Euro je Aktie zu zahlen.» Kondolenz und Kaufangebot in einem Brief.
+> «깊은 애도와 함께… 콘라트 에버스바흐의 평생의 업적을 기리며… 상속인들의 주식에 대해 주당 40유로를 지불할 용의가 있음.» 조의와 매수 제안이 편지 한 장에.
+TOBIAS: Vierzig. Zwei mehr als bei der Hauptversammlung.
+> 40유로. 주주총회 때보다 2유로 더 올렸네요.
+MORITZ: Vierzig Euro mal acht Millionen Aktien pro Person … das sind dreihundertzwanzig Millionen. Für mich allein?
+> 1인당 800만 주 곱하기 40유로면… 3억 2,000만이요. 저 혼자서요?
+TOBIAS: Brutto. Wenn Sie innerhalb der sieben Jahre verkaufen, entfällt der Erlass, und Sie zahlen die volle Erbschaftsteuer. Netto blieben Ihnen etwa zweihundertsechzig Millionen.
+> 세전이에요. 7년 안에 팔면 면제가 취소되고 상속세를 전액 내야 하죠. 세후로는 약 2억 6,000만이 남습니다.
+MORITZ: Zweihundertsechzig Millionen. Netto. Ich glaube, ich muss mich hinsetzen.
+> 2억 6,000만. 세후로. 저 좀 앉아야겠어요.
+MARTIN: Ich will ehrlich sein. Meine Kinder haben mit diesem Unternehmen nichts zu tun. Sie leben in Zürich. Sie haben Hanau dreimal in ihrem Leben gesehen. Sieben Jahre lang Aktien halten, die sie nicht verkaufen dürfen, für eine Firma, die sie nicht kennen?
+> 솔직히 말할게. 우리 애들은 이 회사랑 아무 상관이 없어. 취리히에 살고, 평생 하나우를 세 번 봤어. 알지도 못하는 회사의, 팔지도 못하는 주식을 7년이나 들고 있으라고?
+CLARA: Es ist die Firma ihres Großvaters.
+> 할아버지 회사잖아.
+MARTIN: Es war die Firma ihres Großvaters. Clara, er ist tot.
+> 할아버지 회사였지. 클라라, 아버지는 돌아가셨어.
+CLARA: Er hätte das nicht gewollt.
+> 아버지는 그걸 원하지 않으셨을 거야.
+MARTIN: Er ist nicht mehr da, um zu wollen.
+> 아버지는 이제 원하실 수도 없어. 안 계시니까.
+CLARA: Wie kannst du so etwas sagen? Hier, in seinem Arbeitszimmer?
+> 어떻게 그런 말을 해? 여기, 아버지 서재에서?
+MARTIN: Weil es wahr ist. Er hat dir das Haus gegeben und meinen Kindern die Firma. Vielleicht wollte er genau das: dass jemand anderes entscheidet als du.
+> 사실이니까. 아버지는 너한테 집을 주고 우리 애들한테 회사를 줬어. 어쩌면 바로 그걸 원하셨는지도 모르지. 네가 아닌 다른 누군가가 결정하길.
+KATHARINA: Darf ich etwas sagen? Ich weiß, dass ich hier nicht zur Familie gehöre.
+> 한마디 해도 될까요? 제가 가족이 아니라는 건 압니다.
+MARTIN: Das stimmt, Frau Brandt. Sie sind eine Angestellte. Eine gut bezahlte, aber eine Angestellte.
+> 맞아요, 브란트 씨. 당신은 직원이에요. 보수를 잘 받는, 하지만 직원.
+KATHARINA: Genau deshalb will ich etwas sagen, das nicht im Brief steht. Aldmoor zahlt vierzig Euro, weil sie glauben, dass sie dieses Unternehmen in fünf Jahren für siebzig verkaufen können. Wissen Sie, wie man aus vierzig siebzig macht?
+> 바로 그래서 이 편지에 없는 얘기를 하나 하려는 거예요. 올드무어가 40유로를 내는 건 5년 뒤에 이 회사를 70유로에 팔 수 있다고 믿기 때문이에요. 40을 70으로 만드는 방법이 뭔지 아세요?
+MORITZ: Durch … Wachstum?
+> 성장으로…?
+TOBIAS: Selten. Meistens durch Schulden, die das Unternehmen selbst aufnehmen muss, um den Kaufpreis zu bezahlen, und durch Kosten, die man senkt. Personal, Standorte, Forschung.
+> 그건 드물어요. 대개는 인수 대금을 치르려고 회사가 직접 떠안는 부채와, 줄이는 비용으로 하죠. 인력, 사업장, 연구개발.
+LEONIE: Spandau?
+> 슈판다우요?
+KATHARINA: Spandau wäre der erste Standort, den ein Finanzinvestor sich ansieht. Teurer als Hanau, älter, mit einem starken Betriebsrat.
+> 재무적 투자자가 제일 먼저 들여다볼 사업장이 슈판다우일 거예요. 하나우보다 비싸고, 오래됐고, 노동자평의회가 강하니까요.
+MARTIN: Das ist Ihre Spekulation, Frau Brandt. Und vielleicht auch Ihre Angst um Ihren Posten.
+> 그건 당신 추측이죠, 브란트 씨. 어쩌면 자리를 잃을까 봐 하는 걱정이기도 하고.
+KATHARINA: Um meinen Posten? Herr Ebersbach, wenn Aldmoor kommt, bin ich ohnehin nicht mehr lange da. Deshalb kann ich es mir leisten, ehrlich zu sein.
+> 제 자리요? 에버스바흐 씨, 올드무어가 들어오면 저는 어차피 오래 못 있어요. 그래서 솔직해질 여유가 있는 거죠.
+LEONIE: Papa, sie hat recht, oder? Wenn wir verkaufen, verkaufen wir nicht nur Aktien.
+> 아빠, 저분 말이 맞죠? 우리가 팔면 주식만 파는 게 아니잖아요.
+MARTIN: Leonie, du wolltest letzte Woche noch Geld für dein Klimaprojekt in Kenia. Jetzt hast du es.
+> 레오니, 너 지난주만 해도 케냐 기후 프로젝트에 쓸 돈이 필요하다고 했잖아. 이제 생긴 거야.
+LEONIE: Ich wollte Geld. Ich wollte nicht, dass jemand in Spandau dafür seine Arbeit verliert.
+> 돈은 원했죠. 하지만 그 돈 때문에 슈판다우의 누군가가 일자리를 잃는 건 원하지 않았어요.
+CLARA: Ich sage euch jetzt etwas, und ich sage es nur einmal. Ich werde meinen Pflichtteil nicht geltend machen. Ich will nicht diejenige sein, die euch zum Verkauf zwingt.
+> 이제 내가 한마디 할게. 딱 한 번만. 나는 유류분을 청구하지 않을 거야. 너희를 억지로 팔게 만드는 사람이 되고 싶지 않아.
+MARTIN: … Das ist großzügig, Clara.
+> …통이 크구나, 클라라.
+CLARA: Das ist nicht großzügig. Das ist das Einzige, was ich noch für ihn tun kann.
+> 통이 큰 게 아니야. 아버지를 위해 내가 할 수 있는 유일한 일이야.
+
+## 해결·설득 — DER BRIEF IN DER SCHUBLADE
+ALBERS: Bevor Sie weiterstreiten — Konrad hat mir noch etwas gegeben. Vier Briefe. Einen für jedes Enkelkind und einen für Clara. Er hat gesagt, ich soll sie erst öffnen lassen, wenn der erste Kaufpreis auf dem Tisch liegt.
+> 더 다투시기 전에, 콘라트가 제게 맡긴 게 있습니다. 편지 네 통. 손주마다 한 통씩, 그리고 클라라에게 한 통. 첫 매수 가격이 테이블에 오르면 그때 열게 하라고 했죠.
+MARTIN: Er hat es vorausgesehen.
+> 아버지는 이걸 내다보셨군.
+ALBERS: Er kannte Aldmoor. — Leonie, Ihrer.
+> Aldmoor를 알았으니까요. — 레오니, 당신 편지예요.
+LEONIE: «Liebe Leonie. Wenn du das liest, hat jemand Geld geboten. Wahrscheinlich viel. Du darfst verkaufen. Es ist jetzt dein Erbe, nicht meines.»
+> «사랑하는 레오니. 네가 이걸 읽고 있다면 누군가 돈을 제시했겠지. 아마 큰돈을. 팔아도 된다. 이제 그건 내 것이 아니라 너의 유산이니까.»
+LEONIE: «Aber verkauf die Leute nicht mit. Ein Käufer, der die Aktien will, aber nicht die Menschen, die sie wert machen, ist kein Käufer, sondern ein Abrissunternehmer. Dein Opa.»
+> «하지만 사람들까지 함께 팔지는 마라. 주식은 원하면서 그 주식의 가치를 만드는 사람들은 원하지 않는 인수자는 인수자가 아니라 철거업자다. 할아버지가.»
+CLARA: Das ist seine Handschrift. «Abrissunternehmer.» Das hat er über jeden zweiten Banker gesagt.
+> 아버지 필체예요. «철거업자.» 은행가 두 명 중 한 명한테는 그렇게 말씀하셨죠.
+MORITZ: In meinem steht fast dasselbe. Und noch ein Satz: «Frag Frau Brandt, bevor du unterschreibst. Sie wird dir etwas sagen, das du nicht hören willst.»
+> 제 편지에도 거의 똑같이 쓰여 있어요. 그리고 한 문장 더요. «서명하기 전에 브란트 박사에게 물어봐라. 듣고 싶지 않은 말을 해 줄 거다.»
+KATHARINA: … Dann sage ich Ihnen jetzt etwas, das Sie nicht hören wollen. Ich glaube nicht, dass Sie diesen Verkauf verhindern können. Und ich glaube nicht, dass Sie ihn verhindern sollten, nur weil wir hier traurig sind.
+> …그럼 지금 듣고 싶지 않으실 말을 하겠습니다. 저는 여러분이 이 매각을 막을 수 있다고 생각하지 않아요. 그리고 우리가 지금 슬프다는 이유만으로 막아야 한다고도 생각하지 않고요.
+MARTIN: Das überrascht mich, Frau Brandt.
+> 의외네요, 브란트 씨.
+KATHARINA: Ihre Kinder sind vierundzwanzig und zweiundzwanzig. Sie leben ihr eigenes Leben. Sieben Jahre lang Aktien zu halten, die man nicht will, ist kein Erbe, sondern eine Last.
+> 자녀분들은 스물넷, 스물둘이에요. 자기 삶을 살고 있죠. 원하지도 않는 주식을 7년 동안 들고 있는 건 유산이 아니라 짐이에요.
+KATHARINA: Aber wenn Sie verkaufen, dann nicht in vier Tagen an den, der den ersten Brief schickt. Sondern in einem geordneten Verfahren, mit mehreren Bietern — und mit Bedingungen.
+> 하지만 파신다면, 첫 편지를 보낸 사람에게 나흘 만에 파는 게 아니라, 여러 입찰자가 참여하는 질서 있는 절차를 거쳐서 파셔야 해요. 그리고 조건을 달아서요.
+TOBIAS: Ein Bieterverfahren dauert drei Monate. Wenn mehrere Interessenten mitbieten, steigt der Preis meistens. Ich kenne mindestens zwei langfristige Investoren, die sich für uns interessieren, seit wir den Verteidigungsauftrag haben.
+> 입찰 절차는 3개월 걸립니다. 여러 후보가 참여하면 보통 가격이 오르죠. 국방 수주를 따낸 뒤로 우리에게 관심을 보인 장기 투자자를 적어도 두 곳은 알아요.
+MARTIN: Und die Bedingungen?
+> 그럼 조건은요?
+KATHARINA: Eine Standortgarantie für Spandau. Eine Beschäftigungssicherung für beide Werke. Und dass die Lohnsumme gehalten wird — was übrigens auch Ihre Steuer schützt, falls Sie nicht alles verkaufen.
+> 슈판다우 사업장 존속 보장. 두 공장의 고용 보장. 그리고 급여 총액 유지. 그건 참고로, 전부 팔지 않으실 경우엔 여러분의 세금도 지켜 주는 조건이에요.
+CLARA: Und noch etwas: Ohne Felix' zwanzig Prozent bekommt kein Käufer mehr als vierzig Prozent von euch. Für ein Übernahmeangebot mit Kontrolle braucht Aldmoor aber Felix' Aktien. Und die gibt es nur mit meiner Unterschrift und der des Familiengerichts.
+> 그리고 하나 더. 펠릭스의 20퍼센트 없이는 어떤 인수자도 너희한테서 40퍼센트 이상은 못 사. 그런데 지배권을 쥘 공개매수를 하려면 올드무어는 펠릭스 주식이 필요해. 그건 내 서명과 가정법원 허가가 있어야만 가능하고.
+MARTIN: Das heißt, du kannst blockieren.
+> 그러니까 네가 막을 수 있다는 거군.
+CLARA: Das heißt, ich kann verhandeln. Das ist ein Unterschied, Martin. Papa hat mir das im Juni beigebracht, ohne es zu merken.
+> 그러니까 내가 협상할 수 있다는 거지. 그건 다른 얘기야, 오빠. 아버지가 6월에 당신도 모르게 가르쳐 주셨어.
+LEONIE: Ich bin dafür. Bieterverfahren, drei Monate, Bedingungen für die Leute. Und Tante Clara verhandelt für uns alle.
+> 저는 찬성이에요. 입찰 절차, 3개월, 사람들을 위한 조건. 그리고 클라라 고모가 우리 모두를 대표해서 협상하는 거예요.
+MORITZ: Ich auch. Ehrlich gesagt verstehe ich nur die Hälfte. Aber ich verstehe den Brief.
+> 저도요. 솔직히 반밖에 못 알아들었어요. 그래도 편지는 이해해요.
+MARTIN: … Drei Monate. Keinen Tag länger. Und wenn am Ende Aldmoor das beste Angebot macht, verkaufen wir an Aldmoor.
+> …3개월. 단 하루도 더는 안 돼. 그리고 결국 올드무어가 제일 좋은 조건을 내면 올드무어에 파는 거야.
+KATHARINA: Wenn sie die Bedingungen unterschreiben, ja. Dann ist das Ihr gutes Recht.
+> 그쪽이 조건에 서명한다면, 네. 그건 여러분의 정당한 권리예요.
+ALBERS: Dann halte ich fest: Die Erben beauftragen den Vorstand und Frau Ebersbach, ein geordnetes Verfahren vorzubereiten. Konrad wäre — nun ja. Er wäre zufrieden gewesen. Und hätte trotzdem etwas auszusetzen gehabt.
+> 그럼 정리하겠습니다. 상속인들은 이사회와 클라라 에버스바흐 씨에게 질서 있는 매각 절차를 준비하도록 위임합니다. 콘라트라면… 글쎄요. 만족했을 겁니다. 그래도 뭔가 트집은 잡았겠지만.
+
+## 마무리 — FREITAG, HANAUER HAUPTFRIEDHOF
+KRÖGER: Frau Brandt. Ich bin mit dem ersten Zug aus Berlin gekommen. Heinz Matuschek ist auch da. Und ungefähr vierzig Leute aus Spandau. Mit dem Bus.
+> 브란트 박사. 베를린에서 첫차 타고 왔어요. 하인츠 마투셰크도 왔고요. 그리고 슈판다우 사람들이 한 마흔 명쯤. 버스 타고.
+KATHARINA: Vierzig. Er hätte sich gefreut. Und so getan, als wäre es ihm egal.
+> 마흔 명이라. 회장님이 기뻐하셨을 거예요. 그리고 아무렇지 않은 척하셨겠죠.
+KRÖGER: Wir haben uns dreißig Jahre lang gestritten. Aber er ist jedes Mal selbst gekommen, wenn es ernst war. Das ist mehr, als die meisten tun.
+> 우린 30년 동안 싸웠어요. 하지만 일이 심각해질 때면 그 사람은 매번 직접 왔어요. 그건 대부분의 사람이 안 하는 일이죠.
+SELIN: Frau Möller ist auch da. Mit ihrem Enkel Jonas. Er trägt die Arbeitsjacke von Ebersbach.
+> 묄러 할머니도 오셨어. 손자 요나스랑. 요나스는 에버스바흐 작업복을 입고 있어.
+TOBIAS: Und am Tor steht ein Mann in einem sehr teuren Mantel, den niemand eingeladen hat.
+> 그리고 정문에 아무도 초대하지 않은 아주 비싼 코트를 입은 남자가 서 있어.
+KRULL: Frau Dr. Brandt. Sebastian Krull, Aldmoor Capital. Mein aufrichtiges Beileid. Ich wollte nur meine Karte dalassen. Für die Zeit danach.
+> 브란트 박사님. Aldmoor Capital의 제바스티안 크룰입니다. 진심으로 애도를 표합니다. 명함만 두고 가려고요. 그 이후를 위해서.
+KATHARINA: Herr Krull, das hier ist eine Beerdigung. Die Zeit danach beginnt morgen. Und sie beginnt mit einem Bieterverfahren.
+> 크룰 씨, 여긴 장례식장이에요. '그 이후'는 내일부터 시작돼요. 그리고 입찰 절차로 시작하죠.
+KRULL: Dann sehen wir uns im Verfahren. Ich verliere selten.
+> 그럼 절차에서 뵙죠. 저는 지는 일이 드물거든요.
+CLARA: Frau Brandt … Katharina. Darf ich Katharina sagen? Mein Vater hat mir vor ein paar Wochen gesagt, ich soll aufhören, Sie zu siezen, wenn ich es ernst meine.
+> 브란트 씨… 카타리나. 카타리나라고 불러도 될까요? 몇 주 전에 아버지가 그러셨어요. 진심이라면 당신한테 존댓말은 그만 쓰라고.
+KATHARINA: Gern. Clara. — Meinst du es ernst?
+> 좋아요. 클라라. — 진심이야?
+CLARA: Ich meine es ernst. Wir haben drei Monate. Und wir sind zum ersten Mal auf derselben Seite. Das hätte ihm gefallen. Er hätte nur nie zugegeben, dass er es geplant hat.
+> 진심이야. 우리한테 석 달이 있어. 그리고 처음으로 같은 편에 섰지. 아버지가 좋아하셨을 거야. 그걸 계획했다는 건 절대 인정 안 하셨겠지만.

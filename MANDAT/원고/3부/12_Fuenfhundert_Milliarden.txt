@@ -1,0 +1,270 @@
+part: 3
+ep: 12
+title_de: Fünfhundert Milliarden
+title_ko: 5,000억
+scene: 비스바덴 주 경제부 → 모아비트 BWA 사무실 → 베를린 연방의회 예산위원회 공청회 → 티어가르텐의 카페
+level: C1
+setting: 7월 초 일주일, 비스바덴 주 경제부 장관실, 모아비트 BWA 사무실, 연방의회 파울 뢰베 회관의 예산위원회 회의실, 그리고 공청회가 끝난 저녁 티어가르텐 가장자리의 카페
+cast: KATHARINA | Dr. Katharina Brandt · BWA 대표 (41)
+cast: TOBIAS | Tobias Wendt · BWA 재무감사 총괄 (37)
+cast: SELIN | Selin Aydın · BWA 파트너, 데이터 포렌식 (29)
+cast: PAUL | Dr. Paul Asante · BWA 프랑크푸르트 지사장 (45)
+cast: UTE | Ute Hennig · BWA 사무실 매니저 (61)
+cast: HENRIKE | Dr. Henrike Sommer · 헤센 주 경제장관 (49)
+cast: VORSITZENDER | 연방의회 예산위원회 위원장 (가상)
+cast: KRAMP | Dr. Stefan Kramp · 여당 소속 연방의원, 예산위원회 위원 (가상)
+cast: OSTERTAG | Miriam Ostertag · 야당 소속 연방의원, 예산위원회 위원 (가상)
+cast: IMHOF | Prof. Dr. Ralf Imhof · 경제연구소 소장, 함께 출석한 전문가 (가상)
+cast: BRECHT | Dr. Leonie Brecht · 가상의 연방 행정현대화부 장관 비서실장 (가상)
+note: ※ 연방의회 상임위원회는 법안이나 예산을 심의하기 전 외부 전문가(Sachverständige)를 불러 공개 공청회(Anhörung)를 엽니다. 전문가는 서면 의견서를 내고 짧은 모두 발언 뒤 의원들의 질문에 답합니다. 사실관계를 밝히려고 증인(Zeuge)을 소환해 선서시키는 것은 조사위원회(Untersuchungsausschuss)의 일로, 공청회와는 다릅니다. 인프라 특별기금을 둘러싼 실제 논쟁 가운데 하나는 '추가성(Zusätzlichkeit)'입니다. 특별기금은 기존 예산의 투자에 더해져야 하는데, 정부가 일반 예산의 투자를 줄이고 특별기금으로 대체하면 '돌려막기(Verschiebebahnhof)'라는 비판을 받습니다. 등장하는 의원, 연방 부처, 인물은 모두 가상입니다. 표현 초점: die Anhörung, der Ausschuss, der Zeuge, die Verantwortung, Ich bleibe bei meiner Aussage.
+next: 3부 13화 — «Ein alter Bekannter»(옛 지인) — 연방 부처의 디지털화 사업에 수억 유로의 컨설팅 계약. 대부분 Hellweg & Cie., 담당 파트너는 로렌츠. 카타리나는 이해충돌을 이유로 물러나려 하지만 팀이 막는다.
+
+## 도입 — WIESBADEN, VOR DER ANHÖRUNG
+HENRIKE: Frau Dr. Brandt, die Einladung des Haushaltsausschusses ist da. Mittwoch, vierzehn Uhr, öffentliche Anhörung zum Sondervermögen Infrastruktur. Sie haben fünf Minuten für Ihr Eingangsstatement.
+> 브란트 박사님, 예산위원회 초청장이 왔어요. 수요일 오후 두 시, 인프라 특별기금에 관한 공개 공청회. 모두 발언은 5분이에요.
+KATHARINA: Fünf Minuten für fünfhundert Milliarden. Das sind hundert Milliarden pro Minute.
+> 5,000억에 5분. 1분에 1,000억이네요.
+TOBIAS: Eins Komma sechs Milliarden pro Sekunde. Du darfst nicht stottern.
+> 1초에 16억. 말 더듬으면 안 돼.
+HENRIKE: Ich will Ihnen nichts vorschreiben. Aber Sie sollten wissen, wie es in Berlin aussieht. Die Bundesregierung will eine Erfolgsgeschichte. Das Bundesfinanzministerium hat letzte Woche gemeldet, die Mittel flössen «planmäßig».
+> 지시하려는 건 아니에요. 다만 베를린 분위기는 아셔야 해요. 연방정부는 성공담을 원해요. 연방 재무부는 지난주에 자금이 '계획대로' 집행되고 있다고 발표했고요.
+SELIN: Planmäßig nach welchem Plan?
+> 무슨 계획대로요?
+HENRIKE: Nach dem Plan, der für die ersten Jahre ohnehin wenig Abfluss vorsah. Das ist das Schöne an Plänen: Man kann sie so schreiben, dass man sie erfüllt.
+> 처음 몇 해는 어차피 집행이 적을 거라고 잡아 둔 계획대로요. 계획의 좋은 점이 그거예요. 달성할 수 있게 써 놓을 수 있다는 거.
+KATHARINA: Und die Opposition?
+> 야당은요?
+HENRIKE: Will einen Skandal. Sie wird jeden Satz von Ihnen benutzen, um zu beweisen, dass das Sondervermögen gescheitert ist. Die einen wollen Ihre Zahlen kleiner, die anderen größer.
+> 스캔들을 원하죠. 박사님 말 한마디 한마디를 특별기금이 실패했다는 증거로 쓰려 할 거예요. 한쪽은 박사님 숫자가 더 작기를, 다른 쪽은 더 크기를 바라요.
+PAUL: Dann sagen wir sie genau so groß, wie sie sind.
+> 그럼 딱 그 크기대로 말하면 되죠.
+HENRIKE: Das ist der Grund, warum ich Sie vorgeschlagen habe, Herr Dr. Asante. Und warum ich ein bisschen Angst davor habe.
+> 그래서 제가 여러분을 추천한 거예요, 아산테 박사님. 그리고 그래서 제가 조금 두렵기도 하고요.
+KATHARINA: Wovor genau, Frau Ministerin?
+> 정확히 뭐가요, 장관님?
+HENRIKE: Davor, dass Sie dort etwas über Hessen sagen, das ich selbst noch nicht öffentlich gesagt habe.
+> 제가 아직 공개적으로 말하지 않은 헤센에 관한 무언가를 박사님이 거기서 말하는 거요.
+
+## 분석 — DER VERSCHIEBEBAHNHOF
+SELIN: Ich habe alles zusammengetragen, was öffentlich ist: die Berichte des Bundesfinanzministeriums an den Haushaltsausschuss, die Haushaltspläne aller sechzehn Länder und die Daten von InfraMain.
+> 공개된 건 전부 모았어. 연방 재무부가 예산위원회에 낸 보고서, 16개 주 전체의 예산안, 그리고 InfraMain 데이터.
+TOBIAS: Und?
+> 그래서?
+SELIN: Bundesweit sind von den hundert Milliarden für Länder und Kommunen bisher etwa sechs Prozent abgeflossen. Hessen liegt mit vier Prozent darunter, InfraMain mit drei Prozent noch tiefer.
+> 주와 지자체에 배정된 1,000억 중 전국적으로 지금까지 약 6퍼센트가 집행됐어. 헤센은 4퍼센트로 그보다 낮고, InfraMain은 3퍼센트로 더 낮아.
+KATHARINA: Also ist InfraMain kein Einzelfall, sondern nur ein besonders deutliches Beispiel.
+> 그러니까 InfraMain은 예외가 아니라 특히 뚜렷한 사례일 뿐이네.
+SELIN: Ja. Und die Gründe ähneln sich überall: fehlendes Personal, lange Planungsverfahren, Förderrichtlinien mit mehrfachen Prüfschritten. In den Stellungnahmen der Kommunalverbände steht fast wortgleich, was Frau Faust uns erzählt hat.
+> 응. 그리고 이유는 어디나 비슷해. 인력 부족, 긴 계획 절차, 여러 단계 심사가 붙은 지원 지침. 지자체 협의회들의 의견서엔 파우스트 부장이 우리한테 한 얘기가 거의 그대로 적혀 있어.
+TOBIAS: Ich habe noch etwas gefunden. Und das wird Frau Sommer nicht gefallen.
+> 나도 하나 찾았어. 그리고 그건 좀머 장관 마음에 안 들 거야.
+KATHARINA: Sag es.
+> 말해.
+TOBIAS: Das Sondervermögen soll zusätzlich zu den normalen Investitionen kommen. So steht es im Gesetz und in der Begründung. Hessen hat im selben Zeitraum seine regulären Investitionen in Landesstraßen um dreihundertachtzig Millionen Euro gekürzt.
+> 특별기금은 일반 투자에 '추가로' 들어와야 해. 법률과 입법 이유서에 그렇게 돼 있어. 그런데 헤센은 같은 기간에 주도 일반 투자 예산을 3억 8천만 유로 줄였어.
+PAUL: Mit anderen Worten: Ein Teil des Sondervermögens ersetzt Geld, das Hessen sowieso ausgegeben hätte.
+> 다시 말해, 특별기금 일부가 헤센이 어차피 썼을 돈을 대체하고 있다는 거군.
+TOBIAS: Ein Verschiebebahnhof. Das Geld fährt von einem Gleis aufs andere, und am Ende kommt nicht mehr Brücke heraus, sondern nur ein kleineres Defizit im Landeshaushalt.
+> 돌려막기지. 돈이 이 선로에서 저 선로로 옮겨 갈 뿐, 결국 다리가 더 생기는 게 아니라 주 예산 적자만 작아지는 거야.
+SELIN: Machen das nur Hessen?
+> 헤센만 그래?
+TOBIAS: Nein. Nach den Haushaltsplänen tun es mindestens neun Länder, in unterschiedlichem Ausmaß. Und der Bund auch: Sein eigener Verkehrshaushalt ist im Kernhaushalt gesunken, während das Sondervermögen gewachsen ist.
+> 아니. 예산안을 보면 적어도 9개 주가 정도는 달라도 그렇게 해. 연방도 마찬가지고. 특별기금은 늘었는데 연방 일반 예산의 교통 투자는 줄었어.
+KATHARINA: Das ist der eigentliche Befund. Nicht drei Prozent, sondern dass selbst die drei Prozent zum Teil kein zusätzliches Geld sind.
+> 그게 진짜 발견 사항이야. 3퍼센트가 아니라, 그 3퍼센트조차 일부는 추가 자금이 아니라는 것.
+SELIN: Und um wie viel Geld geht es bundesweit?
+> 전국적으로는 얼마나 되는 돈이야?
+TOBIAS: Seriös kann ich nur eine Spanne nennen: Wenn die Kürzungen so bleiben, ersetzen die Länder in den ersten vier Jahren zwischen acht und vierzehn Milliarden Euro, die sie sonst selbst investiert hätten, durch Geld aus dem Sondervermögen.
+> 신뢰할 만하게 말할 수 있는 건 범위뿐이야. 삭감이 이대로 유지되면, 각 주는 첫 4년 동안 원래 직접 투자했을 80억에서 140억 유로를 특별기금 돈으로 대체하게 돼.
+PAUL: Das gehört aber nicht zu unserem Auftrag. Wir haben InfraMain geprüft, nicht den Landeshaushalt.
+> 하지만 그건 우리 의뢰 범위가 아니야. 우린 InfraMain을 감사했지 주 예산을 감사한 게 아니잖아.
+TOBIAS: Der Ausschuss fragt aber nicht nach InfraMain. Er fragt, ob das Sondervermögen wirkt. Und wenn ich dort sitze und das weiß und nichts sage, ist das eine Unterlassung.
+> 하지만 위원회는 InfraMain을 묻는 게 아니야. 특별기금이 효과가 있는지를 묻는 거지. 내가 거기 앉아서 이걸 알면서 아무 말도 안 하면 그건 누락이야.
+SELIN: Und Frau Sommer? Sie hat uns geholfen. Sie hat selbst gesagt, wir sollen sie nicht schonen.
+> 그럼 좀머 장관은? 우리를 도와줬잖아. 자기를 봐주지 말라고 직접 말했고.
+KATHARINA: Genau. Sie hat es gesagt. Jetzt finden wir heraus, ob sie es gemeint hat.
+> 맞아. 그렇게 말했지. 이제 그게 진심이었는지 알게 되겠네.
+PAUL: Noch etwas. Heute Vormittag hat das Büro eines Abgeordneten angerufen. Man wollte unser schriftliches Statement «vorab zur Kenntnis» haben, um, Zitat, «die Fragen besser vorbereiten zu können».
+> 하나 더. 오늘 오전에 한 의원 사무실에서 전화가 왔어. 우리 서면 의견서를 '사전에 참고용으로' 받고 싶대. 인용하자면, '질문을 더 잘 준비할 수 있도록'.
+TOBIAS: Welcher Abgeordnete?
+> 어느 의원?
+PAUL: Dr. Kramp, Regierungsfraktion. Er sitzt im Haushaltsausschuss.
+> 크람프 박사, 여당. 예산위원회 위원이야.
+KATHARINA: Das schriftliche Statement geht an das Ausschusssekretariat, für alle Mitglieder gleichzeitig. Niemand bekommt es vorher.
+> 서면 의견서는 위원회 사무처로 가서 모든 위원에게 동시에 배포돼. 아무도 미리 받지 못해.
+PAUL: Habe ich ihm genau so gesagt. Er war nicht erfreut.
+> 딱 그렇게 말했어. 반기지 않더라.
+UTE: Ich habe euch übrigens Besucherausweise für den Bundestag besorgt. Und ich habe den Ablauf auswendig gelernt: Sicherheitskontrolle, Garderobe, Sitzungssaal, kein Applaus, kein Kaugummi, keine Zwischenrufe von der Besuchertribüne.
+> 그건 그렇고 연방의회 방문증 받아 놨어. 순서도 외웠어. 보안 검색, 외투 보관, 회의실, 박수 금지, 껌 금지, 방청석에서 끼어들기 금지.
+SELIN: Kein Zwischenruf? Ute, schaffst du das?
+> 끼어들기 금지? 우테, 할 수 있겠어?
+UTE: Ich habe dreißig Jahre im Bezirksamt geschwiegen, wenn der Amtsleiter geredet hat. Ich schaffe auch zwei Stunden Bundestag.
+> 구청장이 말할 때 30년 동안 입 다물고 있었어. 연방의회 두 시간쯤이야.
+PAUL: Und die Kuppel?
+> 돔은?
+UTE: Morgen früh um acht. Termin seit März, wie gesagt.
+> 내일 아침 여덟 시. 말했잖아, 3월부터 예약해 놨다고.
+KATHARINA: Ich rufe Frau Sommer an. Bevor wir nach Berlin fahren.
+> 좀머 장관한테 전화할게. 베를린 가기 전에.
+HENRIKE: Frau Dr. Brandt. Sie rufen wegen der dreihundertachtzig Millionen an.
+> 브란트 박사님. 3억 8천만 유로 때문에 전화하셨군요.
+KATHARINA: Sie wussten es?
+> 알고 계셨어요?
+HENRIKE: Ich habe gegen diese Kürzung im Kabinett gestimmt und verloren. Sagen Sie, was Sie wissen. Ich werde nicht behaupten, es wäre anders.
+> 내각에서 그 삭감에 반대표를 던졌다가 졌어요. 아시는 대로 말씀하세요. 저는 다르다고 주장하지 않을 거예요.
+
+## 갈등 — DIE ANHÖRUNG
+VORSITZENDER: Ich eröffne die öffentliche Anhörung des Haushaltsausschusses zum Sondervermögen Infrastruktur und Klimaneutralität. Als erste Sachverständige hat Frau Dr. Brandt von der BWA Managementaudit GmbH das Wort.
+> 인프라·기후중립 특별기금에 관한 예산위원회 공개 공청회를 개회합니다. 첫 번째 전문가로 BWA 경영감사 유한회사의 브란트 박사님께 발언권을 드립니다.
+KATHARINA: Herr Vorsitzender, meine Damen und Herren Abgeordnete. Das Sondervermögen hat ein Geldproblem gelöst und drei andere Probleme sichtbar gemacht: zu wenig Personal, zu lange Verfahren und zu wenig Bereitschaft, Verantwortung zu übernehmen.
+> 위원장님, 의원 여러분. 특별기금은 돈 문제 하나를 해결했고, 다른 세 가지 문제를 드러냈습니다. 인력 부족, 너무 긴 절차, 그리고 책임을 지려는 의지의 부족입니다.
+KATHARINA: Am Beispiel der hessischen Infrastrukturgesellschaft InfraMain: Von eins Komma zwei Milliarden zugewiesenen Euro sind nach anderthalb Jahren drei Prozent abgeflossen, davon drei Viertel an externe Gutachter. Bundesweit liegt der Abfluss bei etwa sechs Prozent.
+> 헤센 인프라 공사 InfraMain의 사례입니다. 배정된 12억 유로 중 1년 반 만에 3퍼센트가 집행됐고, 그중 4분의 3이 외부 감정인에게 갔습니다. 전국적으로 집행률은 약 6퍼센트입니다.
+KATHARINA: Hinzu kommt ein Befund, der über unseren Auftrag hinausgeht, den ich Ihnen aber nicht verschweigen kann: In mindestens neun Ländern, darunter Hessen, und auch im Bundeshaushalt sind die regulären Investitionen gesunken, während das Sondervermögen gestiegen ist. Ein Teil des Sondervermögens ist damit nicht zusätzlich, sondern ersetzt bestehende Ausgaben.
+> 여기에 저희 의뢰 범위를 넘지만 숨길 수 없는 발견 사항이 더해집니다. 헤센을 포함한 적어도 9개 주와 연방 예산에서, 특별기금이 늘어나는 동안 일반 투자는 줄었습니다. 따라서 특별기금의 일부는 추가 자금이 아니라 기존 지출을 대체하고 있습니다.
+OSTERTAG: Frau Dr. Brandt, habe ich Sie richtig verstanden? Das Sondervermögen ist gescheitert?
+> 브란트 박사님, 제가 제대로 이해했습니까? 특별기금은 실패했다는 거죠?
+KATHARINA: Nein, Frau Abgeordnete. Das haben Sie nicht richtig verstanden. Ich habe gesagt, es wirkt langsamer und weniger zusätzlich, als es soll. Das ist ein Befund, kein Urteil.
+> 아닙니다, 의원님. 제대로 이해하지 못하셨습니다. 저는 특별기금이 의도보다 느리고, 덜 추가적으로 작동한다고 말씀드렸습니다. 그건 진단이지 판결이 아닙니다.
+OSTERTAG: Aber drei Prozent. Wenn ein Unternehmen nach anderthalb Jahren drei Prozent seines Investitionsbudgets ausgegeben hätte, würden Sie dann nicht von Scheitern sprechen?
+> 하지만 3퍼센트예요. 어떤 기업이 1년 반 만에 투자 예산의 3퍼센트를 썼다면, 박사님은 실패라고 하지 않겠습니까?
+KATHARINA: Ich würde fragen, warum. Und ich würde den Vorstand nicht entlassen, bevor ich die Antwort kenne.
+> 이유를 묻겠죠. 그리고 답을 알기 전에 이사회를 해임하진 않겠습니다.
+OSTERTAG: Sie weichen aus.
+> 회피하시는군요.
+KATHARINA: Nein. Ich weigere mich, aus einer Zahl ein Urteil zu machen, das sie nicht trägt. Diesen Unterschied kennt dieser Ausschuss besser als ich.
+> 아닙니다. 숫자가 감당하지 못하는 판결을 그 숫자로 내리기를 거부하는 겁니다. 그 차이는 이 위원회가 저보다 더 잘 아실 겁니다.
+KRAMP: Frau Dr. Brandt, Sie haben eine einzige Gesellschaft in einem einzigen Land geprüft und sprechen hier über ein Programm von fünfhundert Milliarden Euro. Ist das nicht eine kühne Verallgemeinerung?
+> 브란트 박사님, 박사님은 한 주의 회사 하나를 감사하고는 여기서 5,000억 유로 규모의 프로그램을 얘기하고 있습니다. 대담한 일반화 아닙니까?
+KATHARINA: Die drei Prozent stammen aus unserer Prüfung. Die sechs Prozent bundesweit und die Investitionskürzungen stammen aus den Berichten des Bundesfinanzministeriums und den Haushaltsplänen der Länder. Ich verallgemeinere nicht, ich zitiere.
+> 3퍼센트는 저희 감사에서 나온 겁니다. 전국 6퍼센트와 투자 삭감은 연방 재무부 보고서와 각 주의 예산안에서 나왔고요. 저는 일반화하는 게 아니라 인용하는 겁니다.
+KRAMP: Sie sind hier als Sachverständige geladen, nicht als Zeugin vor einem Untersuchungsausschuss. Ihre Aufgabe ist eine fachliche Einschätzung, keine Anklage gegen die Bundesregierung.
+> 박사님은 여기 전문가로 초청된 거지, 조사위원회 앞의 증인이 아닙니다. 박사님 일은 전문적 평가지 연방정부를 고발하는 게 아니에요.
+KATHARINA: Das ist mir bewusst, Herr Abgeordneter. Deshalb bin ich auch nicht vereidigt. Aber ich sage hier nichts anderes, als ich unter Eid sagen würde.
+> 잘 알고 있습니다, 의원님. 그래서 선서도 하지 않았죠. 하지만 저는 여기서 선서하고 할 말과 다른 말은 하지 않습니다.
+IMHOF: Wenn ich ergänzen darf, Herr Vorsitzender: Unser Institut kommt in einer eigenen Auswertung zu einem sehr ähnlichen Ergebnis. Wir schätzen, dass bis zu einem Drittel des Sondervermögens reguläre Investitionen ersetzen könnte, wenn sich nichts ändert.
+> 위원장님, 보충해도 된다면, 저희 연구소도 자체 분석에서 매우 비슷한 결과에 도달했습니다. 아무것도 바뀌지 않으면 특별기금의 최대 3분의 1이 일반 투자를 대체할 수 있다고 추정합니다.
+KRAMP: Professor Imhof, Ihr Institut ist bekannt dafür, dass es Sondervermögen grundsätzlich ablehnt.
+> 임호프 교수님, 교수님 연구소는 원래 특별기금 자체를 반대하는 걸로 유명하죠.
+IMHOF: Unser Institut ist bekannt dafür, dass es rechnet, Herr Kramp.
+> 저희 연구소는 계산하는 걸로 유명합니다, 크람프 의원님.
+VORSITZENDER: Ich bitte um Sachlichkeit, meine Herren. Herr Kollege Kramp, Ihre nächste Frage.
+> 객관성을 지켜 주십시오, 여러분. 크람프 의원님, 다음 질문 하시죠.
+KRAMP: Frau Dr. Brandt, ich habe hier eine Pressemitteilung der hessischen Landesregierung von gestern. Darin heißt es, die Investitionen in Landesstraßen seien «auf Rekordniveau». Wollen Sie Ihre Aussage zu Hessen vor diesem Hintergrund nicht noch einmal überdenken?
+> 브란트 박사님, 여기 헤센 주 정부의 어제 보도자료가 있습니다. 주도 투자가 '사상 최고 수준'이라고 돼 있어요. 이를 감안해서 헤센에 관한 발언을 다시 생각해 보시지 않겠습니까?
+KATHARINA: Die Investitionen sind auf Rekordniveau, wenn man Sondervermögen und Kernhaushalt zusammenzählt. Zählt man nur den Kernhaushalt, sind sie um dreihundertachtzig Millionen Euro gesunken. Beides ist richtig. Nur das zweite beantwortet die Frage nach der Zusätzlichkeit.
+> 특별기금과 일반 예산을 합치면 투자는 사상 최고 수준입니다. 일반 예산만 보면 3억 8천만 유로 줄었습니다. 둘 다 맞습니다. 다만 추가성에 대한 질문에 답하는 건 두 번째뿐입니다.
+KRAMP: Das heißt, Sie bleiben dabei?
+> 그러니까 그 말을 고수하시겠다는 겁니까?
+KATHARINA: Ich bleibe bei meiner Aussage.
+> 제 발언을 그대로 유지하겠습니다.
+KRAMP: Ich halte fest, dass die Sachverständige der offiziellen Darstellung der Landesregierung widerspricht.
+> 이 전문가가 주 정부의 공식 설명에 반박한다는 점을 기록해 두겠습니다.
+KATHARINA: Halten Sie bitte auch fest, dass ich beide Zahlen genannt habe: die offizielle und die vollständige.
+> 제가 숫자 두 개를 모두 말했다는 점도 기록해 주십시오. 공식 숫자와 온전한 숫자를요.
+OSTERTAG: Dann hat die hessische Landesregierung die Öffentlichkeit getäuscht?
+> 그럼 헤센 주 정부가 국민을 속인 거네요?
+KATHARINA: Auch das habe ich nicht gesagt. Eine Pressemitteilung, die die angenehmere von zwei richtigen Zahlen wählt, ist keine Täuschung. Sie ist Politik. Unsere Aufgabe ist es, beide Zahlen nebeneinanderzulegen.
+> 그것도 제가 한 말이 아닙니다. 두 개의 맞는 숫자 중 더 듣기 좋은 쪽을 고른 보도자료는 기만이 아닙니다. 정치죠. 저희 일은 두 숫자를 나란히 놓는 겁니다.
+OSTERTAG: Sie machen es sich sehr leicht, Frau Dr. Brandt.
+> 아주 쉽게 빠져나가시네요, 브란트 박사님.
+KATHARINA: Glauben Sie mir, Frau Abgeordnete: In den letzten zwanzig Minuten habe ich es mir nicht leicht gemacht.
+> 믿어 주세요, 의원님. 지난 20분 동안 저는 결코 쉽게 하지 않았습니다.
+UTE: Kein Zwischenruf. Ich habe keinen einzigen Zwischenruf gemacht. Aber ich habe sehr laut gedacht.
+> 끼어들기 안 했어. 단 한 번도. 근데 속으로 엄청 크게 생각했어.
+SELIN: Ute, wir sind auf der Tribüne. Bitte flüstern.
+> 우테, 우리 방청석이야. 제발 속삭여.
+KRAMP: Herr Vorsitzender, ich halte fest: Die Sachverständige hat ein Gutachten für das hessische Wirtschaftsministerium erstellt und kritisiert nun die hessische Landesregierung. Ich frage mich, wessen Interessen sie hier vertritt.
+> 위원장님, 기록해 두겠습니다. 이 전문가는 헤센 경제부를 위해 감정서를 썼고, 이제 헤센 주 정부를 비판하고 있습니다. 이분이 여기서 누구의 이익을 대변하는지 궁금하군요.
+KATHARINA: Niemandes, Herr Abgeordneter. Genau das ist der Punkt. Die Ministerin, die uns beauftragt hat, wusste, was ich heute sagen würde. Sie hat mich nicht gebeten, es zu ändern.
+> 아무의 이익도요, 의원님. 바로 그게 요점입니다. 저희에게 의뢰한 장관은 제가 오늘 무슨 말을 할지 알고 있었습니다. 그리고 바꿔 달라고 요청하지 않았습니다.
+KRAMP: Das behaupten Sie.
+> 그건 박사님 주장이죠.
+KATHARINA: Das können Sie überprüfen. Rufen Sie sie an.
+> 확인하실 수 있습니다. 전화해 보세요.
+TOBIAS: Katharina, ich glaube, du bist die Erste, die einem Abgeordneten im Ausschuss eine Telefonnummer empfiehlt.
+> 카타리나, 위원회에서 의원한테 전화번호를 권한 사람은 아마 네가 처음일 거야.
+
+## 해결·설득 — WAS DER AUSSCHUSS TUN KANN
+VORSITZENDER: Frau Dr. Brandt, die Kollegin Ostertag und der Kollege Kramp haben vor allem Ihre Befunde diskutiert. Ich möchte wissen, was Sie dem Ausschuss empfehlen.
+> 브란트 박사님, 오스터탁 의원과 크람프 의원은 주로 박사님 발견 사항을 두고 토론했습니다. 저는 박사님이 위원회에 무엇을 권고하시는지 알고 싶습니다.
+KATHARINA: Fünf Dinge, Herr Vorsitzender. Erstens: Die Zusätzlichkeit muss gemessen werden, nicht behauptet. Jedes Land sollte jährlich seine regulären Investitionen im Vergleich zu einem festen Basisjahr ausweisen, öffentlich und einheitlich.
+> 다섯 가지입니다, 위원장님. 첫째, 추가성은 주장할 게 아니라 측정해야 합니다. 각 주는 매년 고정된 기준 연도 대비 일반 투자를 공개적으로, 통일된 방식으로 공시해야 합니다.
+KATHARINA: Zweitens: Pauschale Budgets statt Einzelbewilligungen, mit strenger Prüfung im Nachhinein. Drittens: gebündelte Vergaben für standardisierte Bauwerke wie Brücken. Viertens: Ein Teil der Mittel sollte ausdrücklich für Personal in Planungs- und Genehmigungsbehörden eingesetzt werden dürfen.
+> 둘째, 개별 승인 대신 포괄 예산, 그리고 엄격한 사후 심사. 셋째, 교량처럼 표준화된 시설물에 대한 묶음 발주. 넷째, 자금의 일부를 계획·인허가 기관의 인력에 쓸 수 있도록 명시적으로 허용할 것.
+OSTERTAG: Personal? Aus einem Investitionsfonds? Das ist doch genau die Zweckentfremdung, die wir verhindern wollen.
+> 인력이요? 투자 기금에서요? 그건 바로 우리가 막으려는 목적 외 사용 아닙니까?
+TOBIAS: Wenn ich darf, Frau Abgeordnete: Eine Brücke, die nicht geplant wird, wird nicht gebaut. Bei InfraMain kostet eine fehlende Ingenieursstelle pro Jahr etwa neunzigtausend Euro. Ein Jahr Verzögerung bei einer einzigen Brücke kostet eins Komma acht Millionen. Die Ingenieurin ist die rentabelste Investition im ganzen Programm.
+> 제가 말씀드려도 된다면, 의원님. 설계되지 않는 다리는 지어지지 않습니다. InfraMain에서 엔지니어 한 자리를 채우는 비용은 연간 약 9만 유로입니다. 다리 하나가 1년 늦어지면 180만 유로가 듭니다. 엔지니어야말로 이 프로그램 전체에서 수익률이 가장 높은 투자입니다.
+OSTERTAG: … Das ist eine Rechnung, die ich mir merken werde.
+> …기억해 둘 만한 계산이군요.
+KRAMP: Und wie stellen Sie sicher, dass dieses Geld nicht in die allgemeine Verwaltung fließt, sondern wirklich in die Planung?
+> 그럼 그 돈이 일반 행정이 아니라 정말 설계에 들어가는지 어떻게 보장합니까?
+TOBIAS: Zweckbindung an Stellen mit konkretem Projektbezug, befristet auf die Laufzeit des Sondervermögens, mit jährlichem Nachweis. Dieselbe Technik, mit der Sie heute jede Brücke kontrollieren — nur endlich auch für die Menschen, die sie planen.
+> 구체적인 프로젝트와 연결된 직위에만 용도를 묶고, 특별기금 존속 기간으로 한정하고, 매년 증빙하게 하면 됩니다. 지금 교량 하나하나를 통제하는 것과 같은 방식이죠. 다만 이제야 그 다리를 설계하는 사람들에게도 적용하는 겁니다.
+KATHARINA: Und fünftens: Transparenz. Ein öffentliches Register für jedes Projekt, das aus dem Sondervermögen finanziert wird: bewilligt, ausgeschrieben, vergeben, gebaut. Damit jeder Bürgermeister und jeder Abgeordnete sieht, wo das Geld steht.
+> 그리고 다섯째, 투명성. 특별기금으로 재원을 받는 모든 프로젝트에 대한 공개 등록부. 승인, 입찰, 계약, 시공. 모든 읍장과 모든 의원이 돈이 어디에 있는지 볼 수 있도록.
+KRAMP: Und wer soll das alles kontrollieren? Noch eine Behörde?
+> 그럼 그걸 다 누가 감시합니까? 관청을 하나 더 만들어서요?
+KATHARINA: Nein. Sie, Herr Abgeordneter. Dieser Ausschuss. Sie haben das Geld bewilligt. Sie tragen die Verantwortung dafür, dass es ankommt. Ein Register macht es Ihnen nur leichter, diese Verantwortung wahrzunehmen.
+> 아닙니다. 의원님이요. 이 위원회요. 이 돈을 승인하신 건 여러분입니다. 그 돈이 닿도록 하는 책임도 여러분께 있습니다. 등록부는 그 책임을 다하기 쉽게 해 줄 뿐입니다.
+KRAMP: … Sie haben eine sehr direkte Art, Frau Dr. Brandt.
+> …아주 직설적이시군요, 브란트 박사님.
+KATHARINA: Ich habe fünf Minuten für fünfhundert Milliarden bekommen. Da bleibt keine Zeit für Umwege.
+> 5,000억에 5분을 받았습니다. 돌아갈 시간이 없죠.
+IMHOF: Herr Vorsitzender, ich schließe mich den Empfehlungen ausdrücklich an. Besonders der ersten. Ohne gemessene Zusätzlichkeit diskutieren wir in fünf Jahren nur noch darüber, wessen Zahl die schönere ist.
+> 위원장님, 저는 이 권고들에 분명히 동의합니다. 특히 첫 번째에요. 추가성을 측정하지 않으면 5년 뒤엔 누구 숫자가 더 예쁜지만 논쟁하게 될 겁니다.
+VORSITZENDER: Ich darf für den Ausschuss sagen, dass wir die Bundesregierung um eine Stellungnahme zu allen fünf Punkten bitten werden. Und ich darf ausnahmsweise etwas Persönliches anfügen: Es kommt selten vor, dass eine Sachverständige ihren eigenen Auftraggeber kritisiert. Danke.
+> 위원회를 대표해 다섯 항목 모두에 대해 연방정부의 의견을 요청하겠다고 말씀드립니다. 그리고 예외적으로 개인적인 말씀을 덧붙이자면, 전문가가 자기 의뢰인을 비판하는 일은 드뭅니다. 감사합니다.
+OSTERTAG: Frau Dr. Brandt, eine letzte Frage, außerhalb des Protokolls. Wenn Sie Abgeordnete wären, würden Sie dem Sondervermögen heute noch einmal zustimmen?
+> 브란트 박사님, 마지막 질문 하나, 기록 밖에서요. 박사님이 의원이라면 오늘 특별기금에 다시 찬성하시겠어요?
+KATHARINA: Ich bin keine Abgeordnete, Frau Ostertag. Und außerhalb des Protokolls gibt es in einer öffentlichen Anhörung nicht.
+> 저는 의원이 아닙니다, 오스터탁 의원님. 그리고 공개 공청회에 기록 밖이란 건 없죠.
+OSTERTAG: Touché.
+> 한 방 먹었네요.
+VORSITZENDER: Damit schließe ich die Anhörung. Das Wortprotokoll wird veröffentlicht. Vollständig.
+> 이로써 공청회를 마칩니다. 속기록은 공개됩니다. 전부.
+HENRIKE: Frau Dr. Brandt. Ich habe den Livestream gesehen. Alles.
+> 브란트 박사님. 생중계 봤어요. 전부.
+KATHARINA: Und?
+> 그래서요?
+HENRIKE: Dr. Kramp hat mich vor einer Stunde angerufen. Er wollte wissen, ob ich Sie gebeten hätte, Hessen zu schonen. Ich habe gesagt: Im Gegenteil. Und dass ich die dreihundertachtzig Millionen morgen selbst veröffentliche.
+> 한 시간 전에 크람프 의원이 전화했어요. 제가 헤센을 봐 달라고 박사님께 부탁했냐고요. 그래서 말했죠. 정반대라고. 그리고 3억 8천만 유로는 내일 제가 직접 공개한다고요.
+KATHARINA: Gegen Ihren Koalitionspartner.
+> 연정 파트너에 맞서서요.
+HENRIKE: Für meine Brücken. Sie haben heute etwas gesagt, das ich mir merken werde: Wer das Geld bewilligt, trägt die Verantwortung dafür, dass es ankommt. Das gilt auch für Ministerinnen.
+> 제 다리들을 위해서요. 박사님이 오늘 제가 기억해 둘 말을 했어요. 돈을 승인한 사람은 그 돈이 닿을 책임을 진다. 그건 장관에게도 해당되죠.
+KATHARINA: Ihr Finanzminister wird nicht begeistert sein.
+> 재무장관이 반기지 않겠네요.
+HENRIKE: Mein Finanzminister ist selten begeistert. Aber er kann rechnen. Und Herrn Wendts Ingenieursrechnung hat er inzwischen auch gesehen.
+> 우리 재무장관은 원래 반기는 일이 드물어요. 하지만 계산은 할 줄 알죠. 그리고 벤트 씨의 엔지니어 계산도 이제 봤고요.
+TOBIAS: Ich glaube, wir haben gerade eine Kundin verloren und eine Verbündete gewonnen.
+> 방금 고객 하나를 잃고 동지 하나를 얻은 것 같은데.
+HENRIKE: Sie haben keine Kundin verloren, Herr Wendt. Ich bezahle Ihre Rechnung trotzdem. Pünktlich.
+> 고객을 잃지 않으셨어요, 벤트 씨. 청구서는 그래도 낼 거예요. 제때.
+
+## 마무리 — EIN CAFÉ AM TIERGARTEN
+BRECHT: Frau Dr. Brandt? Entschuldigen Sie, dass ich Sie hier anspreche. Leonie Brecht. Ich leite das Büro der Bundesministerin für Verwaltungsmodernisierung. Ich war heute auf der Tribüne.
+> 브란트 박사님? 여기서 말을 걸어 죄송합니다. 레오니 브레히트예요. 연방 행정현대화부 장관 비서실장입니다. 오늘 방청석에 있었어요.
+KATHARINA: Dann haben Sie einen langen Nachmittag hinter sich.
+> 그럼 긴 오후를 보내셨겠네요.
+BRECHT: Einen lehrreichen. Die Ministerin ist seit vier Monaten im Amt. Sie hat ein Programm geerbt: «Verwaltung digital 2030». Sechshundertvierzig Millionen Euro in drei Jahren, davon mehr als die Hälfte für externe Beratung.
+> 배울 게 많은 오후였죠. 장관님은 취임한 지 넉 달 됐어요. '행정 디지털 2030'이라는 사업을 물려받으셨죠. 3년간 6억 4천만 유로, 그중 절반 넘게가 외부 컨설팅이에요.
+TOBIAS: Mehr als die Hälfte. Wie viele Beratungsfirmen?
+> 절반 넘게라. 컨설팅 회사가 몇 곳이죠?
+BRECHT: Sieben. Aber fast zwei Drittel der Beratungsaufträge gingen an ein einziges Haus.
+> 일곱 곳이요. 그런데 컨설팅 계약의 거의 3분의 2가 한 회사로 갔어요.
+SELIN: Und die Ministerin will das prüfen lassen?
+> 그리고 장관님은 그걸 감사받고 싶어 하시고요?
+BRECHT: Diskret. Außerhalb des Hauses. Der zuständige Staatssekretär ist seit acht Jahren im Amt und hat das Programm aufgesetzt. Er weiß noch nichts davon.
+> 조용히요. 부처 밖에서. 담당 차관은 8년째 재임 중이고 그 사업을 직접 만든 사람이에요. 아직 아무것도 모르고요.
+PAUL: Ein Auftrag am Staatssekretär vorbei. Das wird ihm nicht gefallen.
+> 차관을 건너뛴 의뢰라. 차관이 좋아하지 않겠군요.
+BRECHT: Deshalb spreche ich Sie hier an und nicht im Ministerium. Die Ministerin hat Sie heute gesehen. Sie sagt, jemand, der im Bundestag seiner eigenen Auftraggeberin widerspricht, widerspricht auch einem Staatssekretär.
+> 그래서 부처가 아니라 여기서 말을 거는 거예요. 장관님이 오늘 박사님을 보셨어요. 연방의회에서 자기 의뢰인에게 반박하는 사람이라면 차관에게도 반박할 거라고 하시더군요.
+KATHARINA: An welches Beratungshaus gingen die zwei Drittel?
+> 그 3분의 2는 어느 컨설팅 회사로 갔나요?
+BRECHT: Das lesen Sie besser selbst. Nicht hier. Hier ist der Umschlag. Öffnen Sie ihn, wenn Sie allein sind.
+> 그건 직접 읽어 보시는 게 좋겠어요. 여기서 말고요. 여기 봉투예요. 혼자 계실 때 여세요.
+UTE: Allein? Bei uns ist niemand allein. Das steht in meinem Arbeitsvertrag.
+> 혼자? 우리 회사엔 혼자인 사람 없어요. 내 근로계약서에 그렇게 쓰여 있다고요.

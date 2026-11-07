@@ -1,0 +1,266 @@
+part: 1
+ep: 10
+title_de: Rote Flaggen
+title_ko: 경고 신호
+scene: 화요일 아침, Hellweg 베를린 사무소 회의실
+level: B2
+setting: 2주 뒤 화요일 오전 여덟 시부터 오후 늦게까지, 베를린 미테 프리드리히슈트라세의 Hellweg & Cie. 베를린 사무소 회의실
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
+cast: LORENZ | Jan-Hendrik Lorenz · 시니어 파트너, Taunus Capital 담당 파트너 (58)
+cast: BEHRENDT | Jonas Behrendt · Spreemind 공동창업자·CEO (31)
+cast: PETROVIC | Dr. Ana Petrović · Spreemind 공동창업자·CTO (34)
+cast: KALTENBACH | Henning Kaltenbach · Taunus Capital Partners 파트너 (가상)
+note: ※ 소프트웨어 구독 기업의 가치는 대개 연간 반복매출(ARR)의 배수로 매겨지기 때문에, ARR에 무엇을 넣느냐가 곧 기업가치를 좌우합니다. 업계에서는 서명은 됐지만 아직 서비스가 시작되지 않은 계약까지 넣은 '확정 ARR(Committed ARR)'이라는 개념을 쓰기도 하지만, 서명조차 없는 의향서(Letter of Intent), 끝난 무료 시범 사업, 구두 약속, 해지된 계약을 넣는 것은 매출 부풀리기에 해당합니다. 투자 계약에서 창업자는 제출한 숫자가 정확하다고 보증(Garantie)하며, 의도적으로 틀린 숫자를 내면 사기 문제로 번질 수 있습니다. 실사를 맡은 컨설팅사도 고객에게 주의 의무(Sorgfaltspflicht)를 지며, 알면서 결과를 미화하면 배상 책임을 질 수 있습니다. 투자금을 목표 달성에 따라 나눠 넣는 방식을 마일스톤 트랜치(Meilenstein-Tranche)라고 합니다. 회사와 인물은 모두 가상입니다. 표현 초점: die Unregelmäßigkeit, der Vertrag, beschönigen, die Sorgfaltspflicht, Das kann ich so nicht unterschreiben.
+next: 1부 11화 — «Der Patriarch»(가장) — 하나우, Ebersbach Antriebstechnik AG 본사와 오너의 저택. 74세의 3세 오너 Konrad Ebersbach가 승계 전략을 의뢰한다. 딸 Clara, 외부 CEO, 매각 — 세 갈래 길. Konrad와 Katharina는 첫 만남부터 날카롭게 부딪치고, 담당 파트너 Lorenz는 어쩐지 한 가지 길에만 관심이 많다.
+
+## 도입 — DIENSTAG, ACHT UHR
+TOBIAS: Selin, du hast dieselben Sachen an wie gestern.
+> 셀린, 어제랑 같은 옷이네.
+SELIN: Ich war nicht zu Hause. Ich war bei Kunde Nummer hundertvierzig.
+> 집에 안 갔어. 140번 고객까지 갔다 왔어.
+KATHARINA: Und?
+> 그래서?
+SELIN: Neunzehn Kunden. Zusammen drei Komma sieben Millionen Euro im Jahr. Für keinen einzigen gibt es einen gültigen Vertrag.
+> 고객 열아홉 곳. 합쳐서 연 370만 유로. 그 어느 곳도 유효한 계약서가 없어.
+TOBIAS: Drei Komma sieben von zwölf Komma drei. Das sind dreißig Prozent.
+> 1,230만 중 370만. 30퍼센트야.
+KATHARINA: Hast du es geprüft, Tobias?
+> 토비아스, 검증했어?
+TOBIAS: Zweimal. Und einmal mit der Hoffnung, dass Selin sich verrechnet hat. Sie hat sich nicht verrechnet.
+> 두 번. 그리고 한 번은 셀린이 계산을 틀렸기를 바라면서. 안 틀렸더라.
+SELIN: Ich wollte, dass ich mich irre. Ich mag Ana. Ich mag sogar den Hund.
+> 내가 틀렸으면 했어. 나 아나 좋아해. 그 개까지 좋아.
+KATHARINA: Das ist gut so. Dann weißt du, dass du nicht aus Feindschaft gesucht hast.
+> 그건 좋은 거야. 그럼 적의 때문에 찾은 게 아니라는 걸 알잖아.
+KATHARINA: Um elf kommt Lorenz aus Frankfurt. Um vierzehn Uhr kommen Behrendt und Petrović. Bis dahin will ich jede Zahl verstehen.
+> 열한 시에 로렌츠가 프랑크푸르트에서 와. 오후 두 시엔 베렌트랑 페트로비치가 오고. 그때까지 숫자 하나하나를 다 이해하고 싶어.
+TOBIAS: Lorenz kommt persönlich nach Berlin? Für eine Due Diligence?
+> 로렌츠가 직접 베를린에 온다고? 실사 하나 때문에?
+KATHARINA: Für Taunus Capital. Das ist ein Unterschied.
+> 타우누스 캐피털 때문이지. 그건 다른 얘기야.
+
+## 장면 1 — NEUNZEHN KUNDEN
+KATHARINA: Also. Neunzehn Kunden. Was genau haben sie, wenn sie keinen Vertrag haben?
+> 자. 고객 열아홉 곳. 계약서가 없다면 정확히 뭐가 있는 거야?
+SELIN: Vier Gruppen. Sieben Kunden haben eine Absichtserklärung unterschrieben, einen Letter of Intent. Darin steht nur: Wir prüfen einen Vertrag.
+> 네 그룹이야. 일곱 곳은 의향서, 레터 오브 인텐트에 서명했어. 거기엔 '계약을 검토한다'고만 적혀 있어.
+TOBIAS: „Wir prüfen" ist kein „Wir zahlen".
+> '검토한다'는 '지불한다'가 아니지.
+SELIN: Sechs Kunden hatten ein kostenloses Pilotprojekt. Die Piloten sind ausgelaufen, aber im System stehen sie weiter als „aktiv" — mit dem Preis, den sie zahlen würden.
+> 여섯 곳은 무료 시범 프로젝트였어. 시범 기간은 끝났는데, 시스템엔 계속 '활성'으로 돼 있어 — 그들이 낸다면 낼 가격과 함께.
+KATHARINA: Wie Kunde Nummer drei.
+> 3번 고객처럼.
+SELIN: Genau. Vier Kunden haben nur mündlich zugesagt. Im System steht dazu ein Kommentar: „Hat beim Abendessen Ja gesagt."
+> 맞아. 네 곳은 구두로만 약속했어. 시스템엔 이런 메모가 있어. '저녁 먹으면서 예스라고 함.'
+TOBIAS: Ein Abendessen ist ein starker Vertrag. Besonders mit Wein.
+> 저녁 식사는 강력한 계약이지. 특히 와인이 곁들여지면.
+SELIN: Und zwei Kunden haben einen Vertrag unterschrieben — und im Sommer wieder gekündigt. Die Kündigung liegt als PDF im System. Trotzdem werden sie mitgezählt.
+> 그리고 두 곳은 계약서에 서명했다가 — 여름에 해지했어. 해지 통지서가 PDF로 시스템에 있어. 그런데도 같이 집계되고 있어.
+KATHARINA: Das ist der Teil, der mir am meisten Sorgen macht.
+> 그게 내가 제일 걱정되는 부분이야.
+TOBIAS: Dürfen Start-ups nicht auch geplante Umsätze zeigen? Viele sprechen von „Committed ARR".
+> 스타트업은 예정 매출도 보여 줄 수 있지 않아? 많은 데가 '확정 ARR'이라는 말을 쓰잖아.
+SELIN: Committed heißt: Der Vertrag ist unterschrieben, aber der Kunde nutzt die Software noch nicht. Hier ist gar nichts unterschrieben. Oder es ist schon wieder gekündigt.
+> '확정'이라는 건 계약서는 서명됐는데 고객이 아직 소프트웨어를 안 쓰는 경우야. 여긴 서명된 게 아예 없어. 아니면 이미 해지됐거나.
+KATHARINA: Hast du mit Kunden gesprochen?
+> 고객이랑 얘기해 봤어?
+SELIN: Mit fünf. Über die offizielle Liste für Kundeninterviews, die Spreemind uns gegeben hat. Kunde Nummer drei war auch dabei.
+> 다섯 곳이랑. 스프레마인드가 준 공식 고객 인터뷰 명단을 통해서. 3번 고객도 거기 있었어.
+KATHARINA: Und?
+> 그래서?
+SELIN: Der Personalleiter war sehr freundlich. Er hat gesagt: „Spreemind? Schönes Produkt. Wir haben den Piloten im Juni beendet. Zu teuer für uns."
+> 인사 책임자가 아주 친절했어. 이렇게 말했어. '스프레마인드요? 좋은 제품이죠. 6월에 시범 사업 끝냈어요. 우리한텐 너무 비싸서요.'
+TOBIAS: Und im System steht er mit achthunderttausend Euro.
+> 그런데 시스템엔 80만 유로로 올라 있고.
+KATHARINA: Also eine Unregelmäßigkeit von dreißig Prozent — im wichtigsten Wert der ganzen Bewertung.
+> 그러니까 30퍼센트짜리 이상 사항이네. 기업가치 전체에서 가장 중요한 수치에.
+TOBIAS: Wenn man die drei Komma sieben Millionen abzieht, bleiben acht Komma sechs. Mit demselben Multiplikator wäre die Bewertung nicht dreihundertzwanzig, sondern etwa zweihundertdreißig Millionen.
+> 370만을 빼면 860만이 남아. 같은 배수를 쓰면 기업가치는 3억 2천이 아니라 약 2억 3천만이야.
+SELIN: Neunzig Millionen Unterschied.
+> 9천만 차이네.
+KATHARINA: Die Frage ist: Ist das Betrug oder Optimismus?
+> 문제는 이게 사기냐, 낙관이냐야.
+TOBIAS: Bei neunzehn Kunden ist es kein Zufall. Aber vielleicht hat Behrendt sich selbst geglaubt. Darin sind Gründer sehr gut.
+> 열아홉 곳이면 우연은 아니지. 그래도 베렌트가 자기 말을 스스로 믿었을 수도 있어. 창업자들은 그걸 아주 잘하거든.
+SELIN: Und Ana? Weiß sie davon?
+> 그럼 아나는? 알고 있을까?
+KATHARINA: Das wissen wir nicht. Deshalb unterstellen wir nichts. Wir schreiben auf, was wir sehen.
+> 그건 몰라. 그러니까 아무것도 단정하지 않아. 우린 본 것을 쓰는 거야.
+TOBIAS: Was genau schreiben wir?
+> 정확히 뭐라고 써?
+KATHARINA: Den Befund. Die neunzehn Kunden, die vier Gruppen, die Zahlen vorher und nachher. Ohne Adjektive.
+> 발견 사항. 고객 열아홉 곳, 네 그룹, 조정 전후 숫자. 형용사 없이.
+SELIN: Ohne Adjektive?
+> 형용사 없이?
+KATHARINA: Adjektive sind Meinungen. Zahlen sind Befunde. Der Leser soll sich seine Meinung selbst bilden.
+> 형용사는 의견이야. 숫자는 발견이고. 의견은 읽는 사람이 스스로 만들어야 해.
+TOBIAS: Und Taunus? Wann sagen wir es Kaltenbach?
+> 그럼 타우누스는? 칼텐바흐한테는 언제 말해?
+KATHARINA: Heute. Aber zuerst rede ich mit Jan-Hendrik. Er ist der verantwortliche Partner für Taunus.
+> 오늘. 하지만 먼저 얀헨드릭이랑 얘기할 거야. 그 사람이 타우누스 담당 파트너니까.
+SELIN: Und dann mit Jonas und Ana?
+> 그다음엔 요나스랑 아나랑?
+KATHARINA: Dann mit Jonas und Ana. Sie bekommen die Chance, es zu erklären. Vielleicht gibt es Verträge, die wir nicht gefunden haben.
+> 그다음에 요나스랑 아나. 설명할 기회를 줄 거야. 우리가 못 찾은 계약서가 있을지도 모르니까.
+TOBIAS: Neunzehn Verträge, die zufällig alle in einer anderen Schublade liegen?
+> 계약서 열아홉 장이 우연히 전부 다른 서랍에 들어 있다고?
+KATHARINA: Unwahrscheinlich. Aber fair ist fair. — Da ist er schon.
+> 가능성은 낮지. 하지만 공정한 건 공정한 거야. — 벌써 왔네.
+
+## 장면 2 — „FORMULIER ES WEICHER"
+LORENZ: Katharina. Herr Wendt. Frau Aydın. Ich habe deine Nachricht gelesen: „Ein Befund, den du vor Taunus sehen musst." Das klingt dramatisch.
+> 카타리나. 벤트 씨. 아이든 씨. 메시지 읽었어. '타우누스보다 먼저 봐야 할 발견 사항.' 극적으로 들리던데.
+KATHARINA: Es ist auch dramatisch. Dreißig Prozent des wiederkehrenden Umsatzes haben keinen Vertrag. Die Bewertung fällt dadurch um etwa neunzig Millionen.
+> 극적인 거 맞아요. 반복매출의 30퍼센트가 계약서가 없어요. 그 때문에 기업가치가 약 9천만 떨어지고요.
+LORENZ: … Zeig mal.
+> …보여 줘 봐.
+LORENZ: Absichtserklärungen, Piloten, mündliche Zusagen. Katharina, das ist bei Start-ups normal. Die rechnen alle so.
+> 의향서, 시범 사업, 구두 약속. 카타리나, 스타트업에선 이게 정상이야. 다들 이렇게 계산해.
+KATHARINA: Und die zwei gekündigten Verträge? Rechnen die auch alle so?
+> 그럼 해지된 계약서 두 건은요? 그것도 다들 그렇게 계산해요?
+LORENZ: Zwei von hundertvierzig. Ein Detail.
+> 140개 중 두 개. 사소한 거지.
+TOBIAS: Mit zusammen neunhunderttausend Euro im Jahr. Ein teures Detail.
+> 합쳐서 연 90만 유로짜리요. 비싼 사소함이네요.
+LORENZ: Herr Wendt, ich rede mit Frau Dr. Brandt.
+> 벤트 씨, 나는 브란트 박사와 얘기하는 중이에요.
+LORENZ: Katharina, hör zu. Kaltenbachs Investmentkomitee hat den Deal schon freigegeben. Die wollen eine Bestätigung, keine Katastrophe.
+> 카타리나, 들어 봐. 칼텐바흐의 투자위원회는 이미 이 딜을 승인했어. 그쪽이 원하는 건 확인이지, 재앙이 아니야.
+KATHARINA: Dann hätten sie keine Due Diligence bestellen sollen.
+> 그럼 실사를 맡기지 말았어야죠.
+LORENZ: Ich sage ja nicht, dass du lügen sollst. Ich sage: Formulier es weicher. Zum Beispiel: „ARR inklusive vertraglich in Aussicht gestellter Umsätze". Mit einer Fußnote.
+> 거짓말하라는 게 아니야. 표현을 부드럽게 하라는 거지. 예를 들면, '계약 체결이 예상되는 매출을 포함한 ARR'. 각주 하나 달고.
+SELIN: In Aussicht gestellt? Ein Kunde hat gekündigt. Ein anderer hat beim Abendessen Ja gesagt.
+> 체결이 예상된다고요? 한 고객은 해지했어요. 다른 고객은 저녁 먹다가 예스라고 했고요.
+LORENZ: Frau Aydın, Sie sind seit drei Monaten in diesem Haus. Ich seit dreißig Jahren.
+> 아이든 씨, 당신은 이 회사에 온 지 석 달이에요. 나는 30년이고.
+KATHARINA: Jan-Hendrik, das ist kein Argument. Das ist ein Dienstalter.
+> 얀헨드릭, 그건 논거가 아니에요. 근속 연수죠.
+LORENZ: Dann gebe ich dir ein Argument. Taunus Capital hat dieses Jahr elf Millionen Euro Honorar bei uns bezahlt. Elf Millionen. Wenn Kaltenbach wegen uns einen Deal verliert, den sein Komitee will, ruft er nächstes Jahr eine andere Beratung an.
+> 그럼 논거를 하나 주지. 타우누스 캐피털은 올해 우리한테 수수료로 1,100만 유로를 냈어. 1,100만. 칼텐바흐가 우리 때문에 위원회가 원하는 딜을 놓치면, 내년엔 다른 컨설팅사에 전화할 거야.
+KATHARINA: Und wenn er den Deal macht, und in einem Jahr fehlen drei Komma sieben Millionen Umsatz? Wen ruft er dann an? Seinen Anwalt.
+> 그럼 딜을 했는데 1년 뒤에 매출 370만이 비면요? 그땐 누구한테 전화할까요? 변호사겠죠.
+LORENZ: Das ist hypothetisch.
+> 그건 가정이야.
+KATHARINA: Nein, das ist unsere Sorgfaltspflicht. Wir haften für diesen Bericht. Wenn wir etwas wissen und es beschönigen, ist das keine Stilfrage mehr. Dann ist es ein Haftungsfall.
+> 아뇨, 그건 우리의 주의 의무예요. 우리는 이 보고서에 책임을 져요. 알면서 미화하면 그건 더 이상 문체의 문제가 아니에요. 배상 책임 사안이죠.
+LORENZ: Niemand spricht von beschönigen.
+> 아무도 미화하자는 말은 안 했어.
+KATHARINA: Du hast gerade „weicher formulieren" gesagt. Das ist dasselbe, nur mit weicheren Worten.
+> 방금 '부드럽게 표현하라'고 했잖아요. 그게 같은 말이에요. 단어만 더 부드러울 뿐.
+LORENZ: Katharina, ich mache mir Sorgen um dich. Im Frühjahr tagt der Partnerausschuss, und ich bin dort dein Fürsprecher. Mach es mir nicht schwer.
+> 카타리나, 난 네가 걱정돼. 봄에 파트너 위원회가 열리고, 거기서 내가 네 후원자야. 날 곤란하게 하지 마.
+KATHARINA: Das klingt fast wie eine Drohung.
+> 그건 거의 협박처럼 들리네요.
+LORENZ: Es ist ein Rat.
+> 조언이야.
+KATHARINA: Dann hier meiner: Deine Fassung mit Fußnote — das kann ich so nicht unterschreiben. Ich ändere keinen Satz im Befund. Aber ich gebe den Gründern die Chance, es selbst zu korrigieren, bevor der Bericht rausgeht.
+> 그럼 제 조언은 이거예요. 각주 단 그 버전 — 그렇게는 서명 못 해요. 발견 사항의 문장은 하나도 안 바꿀 거예요. 하지만 보고서가 나가기 전에 창업자들이 직접 바로잡을 기회는 줄 거예요.
+LORENZ: Und wenn sie es nicht tun?
+> 그럼 그들이 안 하면?
+KATHARINA: Dann geht der Bericht trotzdem raus. Unverändert.
+> 그래도 보고서는 나가요. 그대로.
+LORENZ: … Wie du willst. Aber das Gespräch mit Kaltenbach führst du. Nicht ich.
+> …마음대로 해. 하지만 칼텐바흐와의 대화는 네가 해. 내가 아니라.
+KATHARINA: Gern.
+> 기꺼이요.
+BEHRENDT: Hallo! Wir sind etwas früher. Ana hat gesagt, es ist wichtig. Was ist los? Ihr seht alle aus wie bei einer Beerdigung.
+> 안녕하세요! 좀 일찍 왔어요. 아나가 중요한 일이라고 해서요. 무슨 일이에요? 다들 장례식 온 얼굴이네요.
+KATHARINA: Herr Behrendt, Frau Dr. Petrović, bitte setzen Sie sich. Wir haben im Kundensystem neunzehn Kunden gefunden, für die es keinen gültigen Vertrag gibt. Zusammen drei Komma sieben Millionen Euro.
+> 베렌트 씨, 페트로비치 박사님, 앉으세요. 고객 시스템에서 유효한 계약서가 없는 고객 열아홉 곳을 찾았습니다. 합쳐서 370만 유로입니다.
+PETROVIC: Neunzehn? Jonas … was heißt das?
+> 열아홉? 요나스… 이게 무슨 소리야?
+BEHRENDT: Das heißt gar nichts. Das sind Kunden in der Pipeline. Die unterschreiben alle. Das ist eine Frage der Zeit.
+> 아무 뜻도 없어. 파이프라인에 있는 고객들이야. 다 서명할 거야. 시간문제라고.
+SELIN: Kunde Nummer drei hat mir gesagt, er hat den Piloten im Juni beendet. Weil es ihm zu teuer war.
+> 3번 고객이 나한테 6월에 시범 사업을 끝냈다고 했어. 너무 비싸서.
+BEHRENDT: Du hast meine Kunden angerufen? Hinter meinem Rücken?
+> 내 고객한테 전화했어? 내 뒤에서?
+SELIN: Über die Liste, die du uns selbst gegeben hast, Jonas. Das ist keine Spionage. Das ist eine Due Diligence.
+> 네가 직접 준 명단을 통해서야, 요나스. 그건 염탐이 아니야. 실사야.
+
+## 절정 — ACHTUNDVIERZIG STUNDEN
+PETROVIC: Jonas, sag mir, dass das nicht stimmt. Ich habe einem Investor gesagt, unsere Zahlen sind sauber. Ich habe es unterschrieben.
+> 요나스, 이게 사실이 아니라고 말해. 난 투자자한테 우리 숫자는 깨끗하다고 했어. 서명까지 했다고.
+BEHRENDT: Ana, alle machen das so. Man zeigt das Potenzial, nicht nur den Stand von heute. Sonst bekommt man in Berlin keinen Cent.
+> 아나, 다들 이렇게 해. 오늘 상태만이 아니라 잠재력을 보여 주는 거야. 안 그러면 베를린에서 한 푼도 못 받아.
+PETROVIC: Gekündigte Verträge sind kein Potenzial. Das ist Vergangenheit.
+> 해지된 계약은 잠재력이 아니야. 과거지.
+BEHRENDT: … Die zwei hätte ich rausnehmen müssen. Das stimmt.
+> …그 두 건은 뺐어야 했어. 그건 맞아.
+KATHARINA: Herr Behrendt, ich möchte Ihnen einen Vorschlag machen. Unser Bericht geht in achtundvierzig Stunden an Taunus Capital. Der Befund steht drin, unverändert.
+> 베렌트 씨, 제안을 하나 드리고 싶습니다. 저희 보고서는 48시간 뒤에 타우누스 캐피털로 갑니다. 발견 사항은 그대로 들어갑니다.
+BEHRENDT: Dann ist die Runde tot.
+> 그럼 라운드는 끝장이에요.
+KATHARINA: Nicht unbedingt. Sie haben bis dahin zwei Möglichkeiten. Entweder Sie schweigen, und Herr Kaltenbach liest es zuerst bei uns. Oder Sie rufen ihn vorher an und korrigieren die Zahlen selbst.
+> 꼭 그렇지는 않습니다. 그때까지 두 가지 길이 있어요. 침묵하시고 칼텐바흐 씨가 저희 보고서에서 먼저 읽게 하시거나, 아니면 그 전에 직접 전화해서 숫자를 스스로 바로잡으시거나.
+BEHRENDT: Und was ist der Unterschied? Die Bewertung sinkt so oder so.
+> 그게 무슨 차이예요? 어느 쪽이든 기업가치는 떨어지잖아요.
+KATHARINA: Der Unterschied ist das Vertrauen. Ein Investor verzeiht zu optimistische Zahlen, wenn der Gründer sie selbst korrigiert. Er verzeiht es nicht, wenn er sie bei einem Berater entdeckt.
+> 차이는 신뢰입니다. 투자자는 창업자가 스스로 바로잡으면 지나치게 낙관적인 숫자를 용서합니다. 하지만 컨설턴트를 통해 발견하면 용서하지 않죠.
+TOBIAS: Und ein Investor, der Ihnen einmal nicht vertraut, sitzt fünf Jahre lang in Ihrem Beirat. Glauben Sie mir, das wollen Sie nicht.
+> 그리고 한 번 신뢰를 잃은 투자자가 5년 동안 자문위원회에 앉아 있게 됩니다. 믿으세요, 그건 원하지 않으실 겁니다.
+SELIN: Jonas, ganz ehrlich: Acht Komma sechs Millionen echter Umsatz mit einer Technik, die fair ist — das ist immer noch eine gute Firma. Die anderen drei Komma sieben brauchst du nicht.
+> 요나스, 진짜 솔직히. 공정한 기술로 진짜 매출 860만 — 그것도 여전히 좋은 회사야. 나머지 370만은 필요 없어.
+BEHRENDT: Du verstehst das nicht. In London gibt es Firmen mit halb so viel Umsatz und der doppelten Bewertung.
+> 넌 몰라. 런던엔 매출은 절반인데 기업가치는 두 배인 회사들이 있어.
+PETROVIC: Und in einem Jahr gibt es sie nicht mehr. Jonas, ich habe diese Firma nicht gegründet, um so eine Firma zu werden.
+> 그리고 1년 뒤엔 그런 회사들 없어. 요나스, 난 그런 회사가 되려고 이 회사를 세운 게 아니야.
+BEHRENDT: … Und wenn Kaltenbach dann ganz aussteigt?
+> …그런데 칼텐바흐가 아예 빠지면?
+KATHARINA: Das kann ich Ihnen nicht versprechen. Aber ich kann Ihnen sagen, was ich in zwölf Jahren gelernt habe: Mit der Wahrheit verliert man manchmal einen Deal. Mit einer Lüge verliert man irgendwann die Firma.
+> 그건 약속드릴 수 없습니다. 하지만 12년 동안 배운 건 말씀드릴 수 있어요. 진실을 말하면 가끔 딜을 잃습니다. 거짓말을 하면 언젠가 회사를 잃고요.
+BEHRENDT: … Gut. Ich rufe ihn an. Jetzt. Bevor ich es mir anders überlege.
+> …좋아요. 전화할게요. 지금. 마음이 바뀌기 전에.
+BEHRENDT: Herr Kaltenbach? Jonas Behrendt. Ich muss Ihnen etwas sagen, bevor Sie den Bericht bekommen. Unsere ARR-Zahl war zu hoch. Um drei Komma sieben Millionen.
+> 칼텐바흐 씨? 요나스 베렌트입니다. 보고서를 받으시기 전에 드려야 할 말씀이 있어요. 저희 ARR 수치가 너무 높았습니다. 370만만큼요.
+KALTENBACH: … Das ist viel, Herr Behrendt. Woher kommt die Differenz?
+> …큰 금액이군요, 베렌트 씨. 그 차이는 어디서 나온 겁니까?
+BEHRENDT: Piloten, Absichtserklärungen, zwei gekündigte Verträge. Ich habe zu viel gezählt. Das war mein Fehler, nicht Anas.
+> 시범 사업, 의향서, 해지된 계약 두 건. 제가 너무 많이 셌어요. 제 잘못이지, 아나 잘못이 아닙니다.
+KALTENBACH: Frau Dr. Brandt, sind Sie da? Wussten Sie davon?
+> 브란트 박사님, 거기 계십니까? 알고 계셨습니까?
+KATHARINA: Wir haben es gestern Nacht gefunden, Herr Kaltenbach. Der Befund steht vollständig in unserem Bericht. Herr Behrendt hat sich entschieden, es Ihnen vorher selbst zu sagen.
+> 어젯밤에 찾았습니다, 칼텐바흐 씨. 발견 사항은 저희 보고서에 빠짐없이 들어 있습니다. 베렌트 씨가 그 전에 직접 말씀드리기로 결정한 겁니다.
+KALTENBACH: Das rechne ich ihm an. Und Ihnen auch. Mein Komitee wird nicht begeistert sein, aber ich habe lieber einen ehrlichen Bericht als einen bequemen.
+> 그건 높이 사겠습니다. 박사님도요. 저희 위원회가 반기진 않겠지만, 저는 편한 보고서보다 정직한 보고서가 좋습니다.
+TOBIAS: Darf ich einen Vorschlag zur Struktur machen? Dreißig Millionen jetzt, auf Basis von acht Komma sechs. Zehn Millionen später, wenn zwölf Millionen ARR mit unterschriebenen Verträgen erreicht sind.
+> 구조에 대해 제안해도 될까요? 지금 860만 기준으로 3천만. 서명된 계약서로 ARR 1,200만에 도달하면 나중에 1천만.
+KALTENBACH: Eine Meilenstein-Tranche. Das kann ich meinem Komitee verkaufen. Herr Behrendt?
+> 마일스톤 트랜치군요. 그건 우리 위원회에 설득할 수 있겠어요. 베렌트 씨?
+BEHRENDT: … Wenn das die Alternative zu gar nichts ist: ja.
+> …그게 아무것도 없는 것의 대안이라면, 네.
+PETROVIC: Er meint: Danke.
+> 저 사람 말은, 감사하다는 거예요.
+KALTENBACH: So habe ich es verstanden. Frau Dr. Brandt, schicken Sie mir den Bericht. Unverändert.
+> 그렇게 알아들었습니다. 브란트 박사님, 보고서 보내 주세요. 그대로요.
+KATHARINA: Unverändert, Herr Kaltenbach. Morgen früh.
+> 그대로 보내겠습니다, 칼텐바흐 씨. 내일 아침에요.
+
+## 마무리 — EIN ABENDESSEN IN HANAU
+LORENZ: Glück gehabt, Katharina. Schon wieder.
+> 운이 좋았어, 카타리나. 또.
+KATHARINA: Es war kein Glück, Jan-Hendrik. Es war ein Gründer, der eine zweite Chance bekommen hat.
+> 운이 아니었어요, 얀헨드릭. 두 번째 기회를 받은 창업자였죠.
+LORENZ: Nenn es, wie du willst. Kaltenbach hat mir eben geschrieben: „Gute Arbeit, euer Team." Das freut mich. Wirklich.
+> 마음대로 불러. 칼텐바흐가 방금 나한테 문자 보냈어. '좋은 일 했습니다, 그쪽 팀.' 기뻐. 진심으로.
+LORENZ: Und weil du so gern schwierige Gespräche führst: Nächste Woche fahren wir nach Hanau. Konrad Ebersbach. Vierundsiebzig, Familienunternehmen, viertausendachthundert Mitarbeiter. Er will über seine Nachfolge reden.
+> 그리고 네가 어려운 대화를 그렇게 좋아하니까. 다음 주에 하나우에 가. 콘라트 에버스바흐. 일흔넷, 가족기업, 직원 4,800명. 자기 승계 문제를 얘기하고 싶어 해.
+TOBIAS: Hanau. Das Abendessen.
+> 하나우. 그 저녁 식사.
+LORENZ: Sie haben ein gutes Gedächtnis, Herr Wendt. Ja. Ich kenne Konrad seit zwanzig Jahren. Das Mandat habe ich geholt, ich bin der verantwortliche Partner. Katharina macht die Arbeit.
+> 기억력이 좋으시군요, 벤트 씨. 그래요. 콘라트를 20년째 알아요. 이 수임은 내가 따 왔고, 담당 파트너도 나예요. 카타리나가 실무를 하고.
+KATHARINA: Und wer schreibt den Bericht?
+> 그럼 보고서는 누가 써요?
+LORENZ: Du. Wie immer. Ich lese ihn nur vorher.
+> 너. 늘 그렇듯이. 난 먼저 읽기만 할 거야.
+SELIN: Er liest ihn „nur vorher". Warum klingt das bei ihm so … anders?
+> '먼저 읽기만' 한다고. 왜 저 사람이 말하면 그게 그렇게… 다르게 들리지?
+TOBIAS: Weil bei ihm „nur" nie nur „nur" heißt.
+> 저 사람한테 '만'은 절대 '만'이 아니니까.
+KATHARINA: Hört auf. Wir haben heute einen Bericht gerettet, eine Firma und vielleicht auch einen Gründer. Das reicht für einen Dienstag.
+> 그만해. 우리 오늘 보고서 하나, 회사 하나, 어쩌면 창업자 한 명까지 구했어. 화요일치고 그거면 충분해.
+SELIN: Und Keks. Vergiss Keks nicht.
+> 그리고 '과자'도. '과자' 잊지 마.

@@ -1,0 +1,268 @@
+part: 3
+ep: 6
+title_de: Der Verein
+title_ko: 클럽
+scene: 베를린 오버쇠네바이데, 가상의 축구 클럽 SV Spree 1903 경기장 → 클럽 사무국 → BWA 모아비트 사무실
+level: C1
+setting: 2월 둘째 주 토요일 홈경기부터 열흘간, 슈프레강변의 '슈타디온 암 슈프레보겐'과 그 지하의 클럽 사무국, 모아비트 BWA 사무실
+cast: KATHARINA | Dr. Katharina Brandt · BWA 대표 (41)
+cast: TOBIAS | Tobias Wendt · BWA 재무감사 총괄, SV Spree 1903 평생 팬·회원 (37)
+cast: SELIN | Selin Aydın · BWA 파트너, 데이터 포렌식 (29)
+cast: PAUL | Dr. Paul Asante · BWA 프랑크푸르트 지사장 (45)
+cast: UTE | Ute Hennig · BWA 사무실 매니저 (61)
+cast: GUTSCHE | Kerstin Gutsche · SV Spree 1903 e.V. 감사위원회(Aufsichtsrat des Vereins) 위원, 팬 대표 (가상)
+cast: LEHNERT | Hartmut Lehnert · SV Spree 1903 e.V. 회장(Präsident) (가상)
+cast: FELDHAUS | Marc Feldhaus · 프로축구 법인(KGaA) 대표이사 (가상)
+cast: KRANZ | Sebastian Kranz · 투자자 Meridian Sports Holding 대표 (가상)
+note: ※ 독일 프로축구 클럽은 대개 회원이 주인인 사단법인(e.V.)에서 출발했고, 프로팀은 별도 회사(GmbH, AG, KGaA)로 분리된 경우가 많습니다. 독일축구리그(DFL)의 '50+1 규정'은 모(母)클럽인 사단법인이 프로 법인 의결권의 과반을 가져야 한다는 원칙으로, 외부 투자자가 클럽을 지배하지 못하게 합니다(20년 이상 지원한 기업 등 소수 예외). 2024년에는 DFL의 투자자 유치 계획이 팬들의 대규모 항의(경기장에 테니스공 투척 등) 끝에 철회되었습니다. 클럽은 매 시즌 DFL 라이선스(Lizenz)를 받아야 하며, 그 핵심은 다음 시즌 유동성 증명입니다. 최고 의결기구는 회원총회(Mitgliederversammlung)입니다. SV Spree 1903, Meridian Sports Holding 등은 모두 가상입니다. 표현 초점: der Verein, die Mitgliederversammlung, der Investor, die Lizenz, Ein Verein ist kein Unternehmen. — Leider doch, auch.
+next: 3부 7화 — «Fünfzig plus eins»(50+1) — 2,000명이 모인 회원총회. 감사 결과는 투자자 계약의 불공정 조항과 이사회의 무능을 가리킨다. 카타리나는 야유 속에서 발표하고, 팬 대표와 투자자를 한 테이블에 앉힌다.
+
+## 도입 — REGEN AN DER SPREE
+TOBIAS: Block C, Reihe zwölf. Hier stand mein Opa jeden zweiten Samstag, seit 1961. Und ich, seit ich sieben war, jedes Mal, wenn wir aus Leipzig zu Besuch kamen.
+> C구역, 12열. 할아버지가 1961년부터 격주 토요일마다 서 계시던 자리야. 나는 일곱 살 때부터, 라이프치히에서 놀러 올 때마다 여기 섰고.
+KATHARINA: Tobias, du trägst einen Schal. Ich kenne dich seit zehn Jahren und habe dich noch nie mit einem Schal gesehen.
+> 토비아스, 너 머플러 했네. 너를 10년 동안 알았는데 머플러 한 건 처음 봐.
+TOBIAS: Rot-weiß. Für Anzüge gibt es Krawatten. Für das hier gibt es den Schal.
+> 빨강 하양. 정장엔 넥타이가 있고, 여기엔 머플러가 있는 거야.
+SELIN: Und wie steht es?
+> 점수는?
+TOBIAS: Null zu zwei, in der zweiundachtzigsten Minute, gegen den Tabellenvorletzten. Wir sind Sechzehnter. Wenn das so bleibt, spielen wir Relegation.
+> 82분에 0 대 2, 꼴찌에서 두 번째 팀 상대로. 우리가 16위야. 이대로면 승강 플레이오프야.
+GUTSCHE: Herr Wendt? Kerstin Gutsche, Aufsichtsrat des Vereins. Ich hätte nicht gedacht, dass unser Gutachter im Fanblock steht.
+> 벤트 씨? 케르스틴 구체, 클럽 감사위원회예요. 저희 감사인이 팬 구역에 서 있을 줄은 몰랐네요.
+TOBIAS: Mitgliedsnummer viertausendsiebenhundertelf, seit meinem ersten Semester in Berlin. Ich habe es in unserem Angebot offengelegt.
+> 회원번호 4711번, 베를린에서 첫 학기 때부터예요. 저희 제안서에 밝혀 뒀습니다.
+GUTSCHE: Ich weiß. Deshalb haben die Mitglieder Sie gewählt. Zweitausenddreihundert Stimmen für ein externes Managementaudit, vierhundert dagegen.
+> 알아요. 그래서 회원들이 여러분을 뽑은 거예요. 외부 경영감사에 찬성 2,300표, 반대 400표.
+KATHARINA: Frau Gutsche, wie lautet die Frage der Mitglieder, in einem Satz?
+> 구체 씨, 회원들의 질문은 뭔가요? 한 문장으로요.
+GUTSCHE: Vor drei Jahren hat ein Investor fünfundvierzig Millionen Euro in unsere Profiabteilung gesteckt. Heute stehen wir vor dem Abstieg und haben ein Liquiditätsloch. Wo ist das Geld?
+> 3년 전 투자자가 우리 프로팀에 4,500만 유로를 넣었어요. 지금 우린 강등 직전이고 유동성에 구멍이 났어요. 그 돈은 어디 있죠?
+SELIN: Und bis wann brauchen Sie die Antwort?
+> 답은 언제까지 필요하세요?
+GUTSCHE: Bis zur außerordentlichen Mitgliederversammlung in drei Wochen. Und am fünfzehnten März müssen die Lizenzunterlagen bei der DFL sein. Ohne Liquiditätsnachweis keine Lizenz.
+> 3주 뒤 임시 회원총회까지요. 그리고 3월 15일엔 라이선스 서류가 DFL에 들어가 있어야 해요. 유동성 증명이 없으면 라이선스도 없어요.
+
+## 분석 — WOHIN SIND DIE FÜNFUNDVIERZIG MILLIONEN?
+FELDHAUS: Frau Dr. Brandt, willkommen. Marc Feldhaus, Geschäftsführer der SV Spree 1903 Fußball GmbH & Co. KGaA. Ich sage Ihnen gleich: Ich halte dieses Audit für ein Misstrauensvotum der Kurve.
+> 브란트 박사님, 환영합니다. 마르크 펠트하우스, SV Spree 1903 프로축구 합자주식회사 대표입니다. 미리 말씀드리죠. 저는 이번 감사를 서포터석의 불신임 투표로 봅니다.
+KATHARINA: Das ist es vermutlich auch. Die Frage ist, ob das Misstrauen berechtigt ist.
+> 아마 그렇겠죠. 문제는 그 불신이 정당하냐는 거고요.
+FELDHAUS: Profifußball ist ein Geschäft, Frau Dr. Brandt. Wer jede Ausgabe vor zweitausend Mitgliedern rechtfertigen muss, spielt in der Regionalliga.
+> 프로축구는 비즈니스입니다, 브란트 박사님. 지출 하나하나를 회원 2천 명 앞에서 해명해야 하는 클럽은 지역 리그에서 뛰죠.
+SELIN: Dann helfen Sie uns, sie einmal zu rechtfertigen, und danach haben Sie Ruhe. Wir bräuchten den Investorenvertrag, die Buchhaltung der KGaA und alle Verträge mit Spielerberatern.
+> 그럼 한 번만 해명하실 수 있게 도와주세요. 그다음엔 조용해질 거예요. 투자자 계약서, 합자주식회사 회계 자료, 선수 에이전트와의 모든 계약서가 필요합니다.
+FELDHAUS: Die Buchhaltung bekommen Sie. Die Beraterverträge enthalten Vertraulichkeitsklauseln. Und der Investorenvertrag liegt beim Präsidium des Vereins, nicht bei mir.
+> 회계 자료는 드리죠. 에이전트 계약엔 비밀유지 조항이 있습니다. 그리고 투자자 계약서는 제가 아니라 클럽 회장단에 있어요.
+TOBIAS: Wie praktisch.
+> 편리하네요.
+SELIN: Erste Auswertung der Buchhaltung. Die fünfundvierzig Millionen kamen in zwei Tranchen. Davon gingen vierzehn Millionen in die Tilgung alter Schulden. Das ist sauber dokumentiert.
+> 회계 자료 1차 분석. 4,500만 유로는 두 차례에 나눠 들어왔어. 그중 1,400만 유로는 기존 부채 상환에 썼고, 그건 깔끔하게 기록돼 있어.
+TOBIAS: Gut. Und die restlichen einunddreißig?
+> 좋아. 나머지 3,100만은?
+SELIN: Zwölf Millionen Ablösesummen für neun Spieler. Neun Millionen Beraterhonorare. Sechs Millionen für «Projektentwicklung Stadionneubau». Und vier Millionen unter «sonstige betriebliche Aufwendungen».
+> 선수 아홉 명 이적료 1,200만. 에이전트 수수료 900만. '신축 경기장 프로젝트 개발'에 600만. 그리고 '기타 영업비용'으로 400만.
+TOBIAS: Neun Millionen Beraterhonorare auf zwölf Millionen Ablöse? Das ist eine Quote von fünfundsiebzig Prozent.
+> 이적료 1,200만에 에이전트 수수료가 900만? 비율이 75퍼센트잖아.
+KATHARINA: Ist das ungewöhnlich?
+> 그게 이례적인 거야?
+TOBIAS: Ungewöhnlich ist eine höfliche Untertreibung. In der Liga liegen Beraterhonorare bei Transfers im Schnitt eher bei zehn bis fünfzehn Prozent der Ablöse. Selbst ein gieriger Berater kommt nicht auf fünfundsiebzig.
+> 이례적이라는 말은 점잖게 줄인 표현이지. 리그에서 이적 시 에이전트 수수료는 평균적으로 이적료의 10에서 15퍼센트 정도야. 아무리 욕심 많은 에이전트도 75퍼센트까진 못 가.
+SELIN: Es wird besser. Siebeneinhalb der neun Millionen gingen an ein und dieselbe Agentur: Baltic Sports Management, Sitz in Riga.
+> 더 재밌어져. 900만 중 750만이 한 에이전시로 갔어. 발틱 스포츠 매니지먼트, 소재지는 리가.
+PAUL: Ich habe mir die Agentur angesehen. Lettisches Register, zwei Mitarbeiter, Gesellschafterin ist eine Holding in Zypern. Und deren Direktor ist im Beirat von Meridian Sports Holding, dem Investor.
+> 그 에이전시 들여다봤어. 라트비아 등기, 직원 두 명, 사원은 키프로스의 지주회사. 그리고 그 지주회사 이사가 투자자인 Meridian Sports Holding의 자문위원이야.
+TOBIAS: Paul, du bist doch in Frankfurt.
+> 파울, 너 프랑크푸르트에 있잖아.
+PAUL: Handelsregister sind online, Tobias. Auch in Riga und Nikosia. Das ist der schöne Teil der Globalisierung.
+> 상업등기부는 온라인이야, 토비아스. 리가에서도, 니코시아에서도. 그게 세계화의 좋은 점이지.
+KATHARINA: Der Investor gibt also Geld in den Club, und ein Teil davon fließt über Beraterhonorare an eine Firma zurück, die ihm nahesteht.
+> 그러니까 투자자가 클럽에 돈을 넣고, 그 일부가 에이전트 수수료로 투자자와 가까운 회사에 되돌아간다는 거네.
+PAUL: Das ist eine Hypothese. Für einen Beweis bräuchten wir die Beraterverträge. Aber das Muster kenne ich vom Zoll: Geld macht gern eine Runde und kommt dann als Gebühr nach Hause.
+> 그건 가설이야. 증거가 되려면 에이전트 계약서가 필요해. 하지만 이 패턴은 관세청에서 봤어. 돈은 한 바퀴 돈 다음에 수수료가 돼서 집으로 돌아오길 좋아하지.
+SELIN: Und die sechs Millionen Stadionprojekt gingen an eine Planungsgesellschaft, an der Meridian zu hundert Prozent beteiligt ist. Es gibt dazu genau eine Machbarkeitsstudie. Dreiundvierzig Seiten.
+> 그리고 경기장 프로젝트 600만은 Meridian이 100퍼센트 지분을 가진 설계 회사로 갔어. 그 대가로 나온 건 타당성 조사 하나. 43쪽.
+TOBIAS: Sechs Millionen Euro für dreiundvierzig Seiten. Das sind fast hundertvierzigtausend Euro pro Seite.
+> 43쪽에 600만 유로. 쪽당 거의 14만 유로네.
+UTE: Für das Geld hätte ich euch einen ganzen Stadionneubau auf Karopapier gezeichnet. Mit Würstchenbude.
+> 그 돈이면 내가 모눈종이에 경기장 하나를 통째로 그려 줬겠다. 소시지 가판대까지 넣어서.
+KATHARINA: Und die vier Millionen «sonstige Aufwendungen»?
+> 그럼 '기타 비용' 400만은?
+SELIN: Die sind das eigentliche Rätsel. Sammelbuchungen ohne Belege, freigegeben von Herrn Feldhaus persönlich. Ich habe drei Positionen gefunden, die als «Darlehenszinsen Meridian» bezeichnet sind.
+> 그게 진짜 수수께끼야. 증빙 없는 일괄 전표, 펠트하우스 대표가 직접 승인. 'Meridian 대여금 이자'라고 표시된 항목 세 개를 찾았어.
+TOBIAS: Darlehenszinsen? Ich dachte, die fünfundvierzig Millionen waren Eigenkapital.
+> 대여금 이자? 4,500만은 자기자본인 줄 알았는데.
+SELIN: Fünfundzwanzig Millionen Eigenkapital für neunundvierzig Prozent der Anteile. Und zwanzig Millionen als Darlehen. Zinssatz neun Prozent. Gesichert durch die Namensrechte am Stadion.
+> 지분 49퍼센트에 대한 자기자본 2,500만. 그리고 2,000만은 대여금이야. 이자율 9퍼센트. 경기장 명명권을 담보로.
+TOBIAS: Neun Prozent. Und wenn der Club nicht zahlt, gehört dem Investor der Name des Stadions, in dem mein Opa gestanden hat.
+> 9퍼센트. 그리고 클럽이 못 갚으면, 할아버지가 서 계시던 경기장의 이름이 투자자 것이 된다는 거고.
+KATHARINA: Tobias.
+> 토비아스.
+TOBIAS: Ich weiß. Sachlich bleiben.
+> 알아. 객관적으로.
+SELIN: Und dann das Liquiditätsloch: Für die Lizenz fehlen nach meiner Rechnung sieben Komma acht Millionen Euro bis zum Saisonende. Bei Abstieg in die dritte Liga fehlen eher zwölf, weil die Fernsehgelder einbrechen.
+> 그리고 유동성 구멍. 내 계산으로 라이선스를 받으려면 시즌 종료까지 780만 유로가 모자라. 3부 리그로 강등되면 중계권료가 급감해서 1,200만 정도가 모자라고.
+KATHARINA: Wer könnte diese Lücke schließen?
+> 그 구멍을 누가 메울 수 있지?
+SELIN: Laut Investorenvertrag … das wissen wir nicht. Den Vertrag haben wir immer noch nicht.
+> 투자자 계약서에 따르면… 모르지. 아직도 그 계약서가 없으니까.
+KATHARINA: Dann holen wir ihn uns. Wer im Präsidium hat ihn unterschrieben?
+> 그럼 가져와야지. 회장단에서 누가 서명했어?
+GUTSCHE: Der Präsident, Hartmut Lehnert. Er ist seit neunzehn Jahren im Amt. Man nennt ihn hier «den Ewigen».
+> 회장 하르트무트 레너트요. 19년째 재임 중이에요. 여기선 '영원한 회장'이라고 불러요.
+
+## 갈등 — EIN FAN IM PRÜFTEAM
+LEHNERT: Frau Dr. Brandt, ich habe diesen Verein durch zwei Insolvenzgefahren, drei Abstiege und eine Pandemie gebracht. Und jetzt soll ich mich von einer Unternehmensberaterin prüfen lassen?
+> 브란트 박사님, 저는 이 클럽을 두 번의 파산 위기, 세 번의 강등, 그리고 팬데믹에서 지켜 냈습니다. 그런데 이제 경영 컨설턴트한테 감사를 받으라고요?
+KATHARINA: Nicht von mir, Herr Lehnert. Von Ihren Mitgliedern. Wir sind nur das Werkzeug, das sie gewählt haben.
+> 저한테가 아니라요, 레너트 회장님. 회장님의 회원들한테요. 저희는 그들이 고른 도구일 뿐입니다.
+LEHNERT: Mitglieder. Die Hälfte davon kommt einmal im Jahr zur Versammlung, um zu pfeifen. Wissen Sie, wie es vor dem Investor aussah? Wir konnten die Flutlichtrechnung nicht bezahlen.
+> 회원이라. 그 절반은 1년에 한 번 총회에 와서 야유하는 게 전부예요. 투자자가 오기 전엔 어땠는지 아십니까? 조명탑 전기료도 못 냈어요.
+GUTSCHE: Und heute können wir die Zinsen nicht bezahlen. Das ist der Fortschritt, Hartmut.
+> 그리고 지금은 이자를 못 내죠. 그게 발전이에요, 하르트무트.
+LEHNERT: Ein Verein ist kein Unternehmen, Kerstin. Hier geht es um Herz, um Tradition, um die Kurve.
+> 클럽은 기업이 아니야, 케르스틴. 여긴 심장, 전통, 서포터석의 문제라고.
+TOBIAS: Leider doch, auch. Ein Verein mit einer Profiabteilung, die achtundsechzig Millionen Euro Umsatz macht, ist auch ein Unternehmen. Und das Herz bezahlt keine neun Prozent Zinsen.
+> 유감스럽지만 그렇기도 합니다. 매출 6,800만 유로를 내는 프로팀을 가진 클럽은 기업이기도 해요. 그리고 심장은 9퍼센트 이자를 내 주지 않죠.
+LEHNERT: Herr Wendt, Sie stehen in Block C. Ausgerechnet Sie sollten wissen, dass man das hier nicht in Excel rechnet.
+> 벤트 씨, 당신은 C구역에 서는 사람이죠. 하필 당신이야말로 이게 엑셀로 계산되는 게 아니라는 걸 알아야 할 텐데요.
+TOBIAS: Gerade weil ich in Block C stehe, rechne ich es in Excel. Weil ich nicht will, dass mein Opa umsonst dreißig Jahre lang im Regen gestanden hat.
+> C구역에 서니까 엑셀로 계산하는 겁니다. 할아버지가 30년 동안 괜히 빗속에 서 계셨던 게 되길 원하지 않으니까요.
+KATHARINA: Herr Lehnert, wir brauchen den Investorenvertrag. Vollständig, mit allen Anlagen und Nebenabreden.
+> 레너트 회장님, 투자자 계약서가 필요합니다. 모든 부속서와 부수 약정까지 완전하게요.
+LEHNERT: Es gibt keine Nebenabreden.
+> 부수 약정은 없습니다.
+PAUL: Interessant. In der Buchhaltung gibt es eine Zahlung an eine Anwaltskanzlei mit dem Verwendungszweck «Side Letter Meridian, Überarbeitung». Siebentausendachthundert Euro.
+> 흥미롭네요. 회계 자료에 '사이드 레터 Meridian, 수정'이라는 용도로 로펌에 지급한 기록이 있습니다. 7,800유로.
+LEHNERT: Das … betrifft ein Detail. Das ist mit der DFL abgestimmt.
+> 그건… 세부 사항일 뿐입니다. DFL과 협의된 거예요.
+KATHARINA: Dann können Sie es uns ohne Bedenken zeigen.
+> 그럼 거리낌 없이 보여 주실 수 있겠네요.
+KRANZ: Darf ich mich einschalten? Sebastian Kranz, Meridian Sports Holding. Herr Lehnert hat mich gebeten, dazuzukommen.
+> 제가 끼어들어도 될까요? 제바스티안 크란츠, Meridian Sports Holding입니다. 레너트 회장님이 와 달라고 하셨습니다.
+KRANZ: Frau Dr. Brandt, wir haben den Club gerettet, als niemand sonst einen Cent gegeben hat. Ich habe Verständnis für die Fans. Aber ein Audit, das in der Öffentlichkeit endet, schadet am Ende dem Club, nicht uns.
+> 브란트 박사님, 저희는 아무도 한 푼 안 주던 때 이 클럽을 구했습니다. 팬들 심정은 이해합니다. 하지만 공개 석상에서 끝나는 감사는 결국 저희가 아니라 클럽을 해칩니다.
+GUTSCHE: Herr Kranz, Sie sitzen hier nicht als Retter, sondern als Gläubiger. Das haben unsere Mitglieder inzwischen verstanden.
+> 크란츠 씨, 당신은 여기 구원자가 아니라 채권자로 앉아 있는 거예요. 우리 회원들도 이제 그걸 알아요.
+KRANZ: Frau Gutsche, ohne Gläubiger gäbe es an der Spree keinen Profifußball, sondern Kreisliga mit Bratwurst.
+> 구체 씨, 채권자가 없었으면 슈프레강변엔 프로축구가 아니라 소시지 굽는 동네 리그만 있었을 겁니다.
+SELIN: Herr Kranz, warum gehen siebeneinhalb Millionen Euro Beraterhonorare an eine Agentur in Riga, deren Mutter ein Direktor aus Ihrem Beirat führt?
+> 크란츠 씨, 왜 에이전트 수수료 750만 유로가, 귀사 자문위원인 이사가 운영하는 모회사를 둔 리가의 에이전시로 갑니까?
+KRANZ: Baltic Sports hat ein exzellentes Netzwerk im osteuropäischen Spielermarkt. Dass es Überschneidungen in Beiräten gibt, ist in dieser Branche normal.
+> 발틱 스포츠는 동유럽 선수 시장에 훌륭한 네트워크가 있습니다. 자문위원이 겹치는 건 이 업계에선 흔한 일이에요.
+TOBIAS: Normal? Drei der neun Spieler, die über diese Agentur kamen, haben in dieser Saison zusammen zweihundertvierzig Minuten gespielt. Der teuerste sitzt seit Oktober auf der Tribüne.
+> 흔하다고요? 그 에이전시를 통해 온 아홉 명 중 세 명은 이번 시즌에 합쳐서 240분을 뛰었습니다. 제일 비싼 선수는 10월부터 관중석에 앉아 있고요.
+KRANZ: Das ist eine sportliche Frage, Herr Wendt, keine kaufmännische.
+> 그건 스포츠적인 문제지 경영상 문제가 아닙니다, 벤트 씨.
+TOBIAS: Sportlich ist der Mann ein Totalausfall, kaufmännisch ein Geschenk an Ihre Freunde in Riga!
+> 스포츠적으로는 완전히 실패작이고, 경영상으로는 리가에 있는 당신 친구들한테 준 선물이죠!
+KATHARINA: Tobias, das reicht. Herr Kranz, entschuldigen Sie. Wir unterbrechen hier.
+> 토비아스, 그만. 크란츠 씨, 죄송합니다. 여기서 잠시 중단하죠.
+KATHARINA: Was war das?
+> 그게 뭐였어?
+TOBIAS: Das war die Wahrheit.
+> 사실이었지.
+KATHARINA: Das war eine Feststellung in der Lautstärke von Block C. Du hast ihm gerade das Argument geliefert, dass dieses Audit von einem Fan gemacht wird, der eine Rechnung offen hat.
+> 그건 C구역 데시벨로 외친 발견 사항이었어. 넌 방금 이 감사가 앙심 품은 팬이 하는 거라는 논거를 그 사람한테 쥐여 준 거야.
+TOBIAS: Ich habe meine Mitgliedschaft offengelegt. Das war deine Bedingung, und ich habe sie erfüllt.
+> 난 회원이라는 걸 밝혔어. 그게 네 조건이었고, 난 지켰어.
+KATHARINA: Offenlegen heißt nicht, dass man unbefangen ist. Es heißt, dass man besonders aufpassen muss. Ab sofort führst du keine Gespräche mehr mit Kranz und Lehnert. Nur noch Zahlen.
+> 밝힌다고 해서 공정해지는 건 아니야. 그만큼 특히 조심해야 한다는 뜻이지. 지금부터 크란츠, 레너트와의 면담은 하지 마. 숫자만 해.
+TOBIAS: Du nimmst mich aus dem Fall?
+> 나를 이 건에서 빼겠다는 거야?
+KATHARINA: Ich nehme dich aus dem Raum, nicht aus dem Fall. Das ist ein Unterschied.
+> 방에서 빼는 거지, 건에서 빼는 게 아니야. 차이가 있어.
+SELIN: Katharina hat recht, Tobias. Und du weißt es. Du hast bei Ebersbach genau dasselbe zu ihr gesagt, als sie wegen Konrad zu emotional war.
+> 카타리나 말이 맞아, 토비아스. 너도 알잖아. 에버스바흐 때 카타리나가 콘라트 때문에 감정적이었을 때 네가 똑같은 말을 했잖아.
+TOBIAS: … Ja. Das habe ich. Und es hat ihr damals auch nicht gefallen.
+> …그래. 그랬지. 그때도 카타리나는 싫어했고.
+KATHARINA: Ich will dich in diesem Fall, Tobias, gerade weil du weißt, was dieser Club bedeutet. Ich will nur nicht, dass Kranz dich benutzt, um uns alle zu diskreditieren.
+> 난 이 건에 네가 필요해, 토비아스. 네가 이 클럽이 무슨 의미인지 알기 때문에 더더욱. 다만 크란츠가 너를 이용해서 우리 모두의 신뢰를 깎아내리는 건 원하지 않아.
+TOBIAS: Verstanden. Ich bleibe bei den Zahlen. Die schreien wenigstens nicht zurück.
+> 알았어. 숫자 쪽에 있을게. 숫자는 적어도 맞받아 소리치진 않으니까.
+UTE: Wenn ich mal was sagen darf: Ich war noch nie im Stadion. Aber ich weiß, dass man einen Mann, der vor Wut rot ist wie sein Schal, besser nicht mit dem Investor in einen Raum steckt.
+> 내가 한마디 해도 된다면 말이야. 난 경기장엔 한 번도 안 가 봤어. 하지만 머플러만큼 화가 나서 빨개진 남자를 투자자랑 한 방에 넣으면 안 된다는 건 알지.
+
+## 해결·설득 — DER SIDE LETTER
+KATHARINA: Herr Lehnert, ich möchte Ihnen etwas zeigen, bevor Sie entscheiden. Am fünfzehnten März prüft die DFL Ihre Lizenzunterlagen. Wenn die Lizenzierungsabteilung später erfährt, dass es eine Nebenabrede gibt, die sie nicht kannte, ist das Ihr Problem — nicht unseres und nicht das von Meridian.
+> 레너트 회장님, 결정하시기 전에 보여 드릴 게 있습니다. 3월 15일 DFL이 라이선스 서류를 심사합니다. 나중에 라이선스 부서가 몰랐던 부수 약정이 있다는 걸 알게 되면, 그건 회장님 문제예요. 저희 문제도, Meridian 문제도 아니고요.
+LEHNERT: Kranz sagt, das sei alles abgestimmt.
+> 크란츠는 다 협의됐다고 하던데요.
+KATHARINA: Hat er Ihnen eine schriftliche Bestätigung der DFL gezeigt?
+> DFL의 서면 확인을 보여 줬나요?
+LEHNERT: … Nein.
+> …아뇨.
+PAUL: Ich habe vorhin mit der Lizenzierungsabteilung telefoniert, ohne Namen, ganz allgemein. Dort sagt man: Was nicht vorgelegt wurde, gilt als nicht geprüft.
+> 아까 라이선스 부서에 이름은 빼고 일반적으로 전화해 봤습니다. 거기서 그러더군요. 제출되지 않은 건 심사되지 않은 것으로 간주한다고.
+KATHARINA: Herr Lehnert, Sie haben diesen Verein neunzehn Jahre lang geführt. Wenn Sie eines Tages gehen, sollen die Leute in Block C sagen: Er hat uns durch drei Abstiege gebracht. Nicht: Er hat den Vertrag unterschrieben, mit dem wir die Lizenz verloren haben.
+> 레너트 회장님, 19년 동안 이 클럽을 이끄셨죠. 언젠가 떠나실 때, C구역 사람들이 "세 번의 강등을 견디게 해 준 사람"이라고 말해야지, "라이선스를 잃게 만든 계약서에 서명한 사람"이라고 말하면 안 되잖아요.
+LEHNERT: Sie sind eine harte Frau, Frau Dr. Brandt.
+> 냉정한 분이시군요, 브란트 박사님.
+KATHARINA: Ich bin eine Frau mit einer Frist. Genau wie Sie.
+> 저는 기한이 있는 사람일 뿐이에요. 회장님처럼요.
+LEHNERT: Hier. Der Side Letter, vier Seiten, englisch. Ich habe ihn seit zwei Jahren nicht mehr angesehen. Ich wollte es nicht.
+> 여기요. 사이드 레터, 4쪽, 영어. 2년 동안 다시 들여다보지 않았어요. 보고 싶지 않았거든요.
+SELIN: Tobias, das ist für dich. Zahlen, keine Gespräche.
+> 토비아스, 이건 네 몫이야. 대화 말고 숫자.
+TOBIAS: Gib her. … Klausel zwei: Meridian erhält ein Vetorecht beim jährlichen Budget der KGaA. Klausel drei: ein Zustimmungsvorbehalt bei der Bestellung von Geschäftsführung und Cheftrainer.
+> 줘 봐. …제2조. Meridian은 합자주식회사의 연간 예산에 대한 거부권을 가진다. 제3조. 경영진과 감독 선임에 대한 동의 유보권.
+KATHARINA: Ein Investor mit neunundvierzig Prozent der Anteile, der über Budget, Geschäftsführer und Trainer mitentscheidet.
+> 지분 49퍼센트를 가진 투자자가 예산, 대표, 감독까지 함께 결정한다.
+TOBIAS: Formell hält der Verein die Stimmenmehrheit. Faktisch entscheidet Meridian über alles, was zählt. Fünfzig plus eins auf dem Papier, neunundvierzig plus Veto in Wirklichkeit.
+> 형식상으로는 클럽이 의결권 과반을 갖고 있어. 실질적으로는 중요한 건 전부 Meridian이 결정하고. 서류상으론 50+1, 실제로는 49+거부권.
+GUTSCHE: Genau dagegen haben wir vor zwei Jahren mit Tennisbällen protestiert, gegen die Liga. Und die ganze Zeit stand es in unserem eigenen Vertrag.
+> 바로 그것 때문에 2년 전에 우리가 테니스공을 던지며 리그에 항의했어요. 그런데 내내 우리 계약서 안에 그게 있었네요.
+SELIN: Und Klausel fünf?
+> 제5조는?
+TOBIAS: Klausel fünf: Kann der Club das Darlehen nicht bedienen, wandelt sich die Forderung in weitere Anteile an der KGaA. Bis zu einer Grenze von … dreiundsiebzig Prozent.
+> 제5조. 클럽이 대여금을 상환하지 못하면, 채권은 합자주식회사의 추가 지분으로 전환된다. 상한은… 73퍼센트.
+GUTSCHE: Dreiundsiebzig Prozent? Das heißt …
+> 73퍼센트요? 그 말은…
+TOBIAS: Das heißt, wenn wir absteigen und die Zinsen nicht zahlen, gehört der Club dem Investor. Und die DFL müsste entscheiden, ob es überhaupt noch eine Lizenz gibt.
+> 그 말은, 우리가 강등되고 이자를 못 내면 클럽이 투자자 것이 된다는 거예요. 그리고 DFL은 라이선스를 줄 수 있기나 한지 판단해야 하고요.
+LEHNERT: Das hat mir der Anwalt damals anders erklärt. Er hat gesagt, das sei eine Standardklausel für den Notfall.
+> 그때 변호사는 다르게 설명했어요. 비상시를 위한 표준 조항이라고 했죠.
+PAUL: Wessen Anwalt, Herr Lehnert?
+> 누구 변호사였습니까, 레너트 회장님?
+LEHNERT: … Den hatte Meridian empfohlen.
+> …Meridian이 추천해 준 변호사였어요.
+KATHARINA: Herr Lehnert, ich mache Ihnen keinen Vorwurf, dass Sie in einer Notlage unterschrieben haben. Einen Vorwurf mache ich Ihnen erst, wenn Sie es jetzt, wo Sie es wissen, verschweigen.
+> 레너트 회장님, 곤경 속에서 서명하신 걸 탓하진 않아요. 탓할 건, 이제 아시게 된 지금 그걸 숨기실 때뿐이에요.
+LEHNERT: Was soll ich tun?
+> 어떻게 해야 합니까?
+KATHARINA: Den Side Letter heute noch aus eigener Initiative der DFL vorlegen. Und den Mitgliedern auf der Versammlung selbst erklären, warum Sie ihn unterschrieben haben — vor uns, nicht nach uns.
+> 오늘 안으로 회장님이 먼저 사이드 레터를 DFL에 제출하세요. 그리고 총회에서 왜 서명하셨는지 회원들에게 직접 설명하세요. 저희보다 먼저, 저희 다음이 아니라.
+LEHNERT: Neunzehn Jahre — und ausgerechnet jetzt werde ich zum ersten Mal für etwas Ehrliches ausgepfiffen.
+> 19년 만에, 하필 이제 처음으로 정직한 일 때문에 야유를 받게 되는군요.
+TOBIAS: Katharina, ich muss etwas sagen. Sachlich. Du hattest recht. Wenn ich das vor drei Tagen in Kranz' Gegenwart gelesen hätte, hätte ich den Tisch umgeworfen.
+> 카타리나, 할 말이 있어. 객관적으로. 네가 옳았어. 사흘 전에 크란츠 앞에서 이걸 읽었으면 난 테이블을 엎었을 거야.
+KATHARINA: Und jetzt?
+> 지금은?
+TOBIAS: Jetzt habe ich eine Tabelle. Sie zeigt, dass Meridian ein Interesse am Abstieg haben könnte. Das ist schlimmer als jeder umgeworfene Tisch.
+> 지금은 표가 있어. Meridian이 강등에 이해관계를 가질 수 있다는 걸 보여 주는 표. 그게 엎어진 어떤 테이블보다 더 무섭지.
+
+## 마무리 — DREI WOCHEN BIS ZUR VERSAMMLUNG
+GUTSCHE: In drei Wochen sitzen zweitausend Mitglieder in der Halle. Die Hälfte will Meridian rauswerfen, die andere Hälfte hat Angst, dass ohne Meridian kein Geld mehr kommt.
+> 3주 뒤면 회원 2천 명이 홀에 앉아요. 절반은 Meridian을 쫓아내고 싶어 하고, 나머지 절반은 Meridian 없이는 돈이 안 들어올까 봐 무서워해요.
+KATHARINA: Beide Hälften haben einen Punkt. Wir werden ihnen sagen, was in den Verträgen steht. Was sie daraus machen, entscheiden sie.
+> 양쪽 다 일리가 있어요. 저희는 계약서에 뭐가 쓰여 있는지 말할 거예요. 그걸로 뭘 할지는 그분들이 정하는 거고요.
+GUTSCHE: Sie werden ausgepfiffen werden. Von beiden Hälften.
+> 야유받으실 거예요. 양쪽 모두한테서.
+KATHARINA: Das bin ich gewohnt. Ich war auf einer Hauptversammlung.
+> 익숙해요. 주주총회에도 서 봤거든요.
+SELIN: Eine Hauptversammlung hat keine Trommeln.
+> 주주총회엔 북이 없잖아.
+UTE: Ich komme mit. Ich war noch nie bei so was. Ich bringe Ohrstöpsel und belegte Brötchen mit.
+> 나도 갈래. 그런 데 한 번도 안 가 봤어. 귀마개랑 샌드위치 챙겨 갈게.
+PAUL: Und ich prüfe bis dahin, wer hinter der Holding in Zypern steht. Wenn es dieselben Leute sind wie bei Meridian, dann ist das kein Interessenkonflikt mehr, sondern ein Geschäftsmodell.
+> 그리고 난 그때까지 키프로스 지주회사 뒤에 누가 있는지 확인할게. Meridian과 같은 사람들이라면, 그건 더 이상 이해충돌이 아니라 사업 모델이야.
+TOBIAS: Katharina, eine Bitte. Bei der Versammlung stehe ich nicht auf dem Podium.
+> 카타리나, 부탁 하나. 총회 때 난 단상에 안 설게.
+KATHARINA: Wo dann?
+> 그럼 어디?
+TOBIAS: In Block C. Unter den Mitgliedern. Da gehöre ich an diesem Abend hin.
+> C구역. 회원들 사이에. 그날 밤엔 내가 있어야 할 곳이 거기야.
+KATHARINA: Einverstanden. Aber den Schal ziehst du aus, wenn du zum Mikrofon gehst.
+> 좋아. 하지만 마이크 앞에 갈 땐 머플러는 벗어.
+TOBIAS: Den Schal ziehe ich nie aus. Aber ich verspreche dir: Ich werde leise sein. Leiser als Block C jedenfalls.
+> 머플러는 절대 안 벗어. 대신 약속할게. 조용히 할게. 적어도 C구역보다는.

@@ -1,0 +1,271 @@
+part: 3
+ep: 10
+title_de: Satt, sauber, profitabel?
+title_ko: 배부르고, 깨끗하고, 수익도?
+scene: 베를린 샤를로텐부르크, 파산한 요양원 체인 본사 → 라이니켄도르프의 요양원 '하우스 아호른' 야간 근무 → 채권자위원회
+level: C1
+setting: 5월 중순 3주간, 파산관재인 사무실과 요양원 체인 Lindenhof 본사, 라이니켄도르프 요양원의 밤(밤 9시~새벽 6시), 그리고 채권자위원회 회의실
+cast: KATHARINA | Dr. Katharina Brandt · BWA 대표 (41)
+cast: TOBIAS | Tobias Wendt · BWA 재무감사 총괄 (37)
+cast: SELIN | Selin Aydın · BWA 파트너, 데이터 포렌식 (29)
+cast: PAUL | Dr. Paul Asante · BWA 프랑크푸르트 지사장 (45)
+cast: UTE | Ute Hennig · BWA 사무실 매니저 (61)
+cast: GROTHE | Dr. Matthias Grothe · Lindenhof 체인의 파산관재인(Insolvenzverwalter) (가상)
+cast: LINDQVIST | Henrik Lindqvist · 사모펀드 Northbridge Partners 파트너, 전 소유주 (가상)
+cast: NOWAK | Agnieszka Nowak · 요양원 '하우스 아호른'의 요양 전문 간호사(Pflegefachkraft), 야간 근무 (가상)
+cast: KESSLER | Sabine Kessler · 입소자 가족, 어머니가 '하우스 아호른'에 입소 (가상)
+cast: BAUMANN | Herr Baumann · 입소자, 89세 (가상)
+cast: HANSEN | Kristina Hansen · 채권자위원회 위원, 주채권 은행 대표 (가상)
+cast: WEBER | Dr. Claudia Weber · 비영리 재단 Stiftung Spreebogen Altenhilfe 대표 (가상)
+note: ※ 독일 장기요양보험(Pflegeversicherung)은 요양 비용 전액이 아니라 일부만 부담합니다. 입소자는 요양비 본인부담분, 숙식비, 시설 투자비를 합친 '본인부담금(Eigenanteil)'을 내며, 입소 첫해 전국 평균이 월 3,000유로를 넘습니다. 오래 머물수록 요양비 본인부담분은 할인되지만, 감당하지 못하면 사회부조(Hilfe zur Pflege)에 기대야 합니다. 시설은 요양보험과 맺은 계약에서 정한 인력 기준(Personalschlüssel)을 지켜야 하며, 인력난으로 야간에는 요양 전문 인력 한 명이 수십 명을 맡는 일이 흔합니다. 사모펀드 소유 요양원에서는 건물을 계열사에 팔고 비싸게 다시 임차하는 '매각 후 재임차(Sale-and-Leaseback)'와 본사 관리 수수료가 비판받아 왔습니다. 파산관재인은 파산법(InsO)에 따라 임차 계약을 해지하거나 특수관계인에 대한 부당 지급을 취소(Insolvenzanfechtung)할 수 있습니다. 등장 기업·인물은 모두 가상입니다. 표현 초점: die Pflege, der Eigenanteil, der Personalschlüssel, die Rendite, Wie viele Bewohner haben Sie heute Nacht allein?
+next: 3부 11화 — «Das Geld kommt nicht an»(돈이 닿지 않는다) — 프랑크푸르트의 가상 인프라 공사 InfraMain. 특별기금 수십억 유로가 배정됐는데 다리 하나 착공을 못 했다. 원인은 돈이 아니라 인력, 조달 절차, 책임 회피. 헤센 주 경제장관 헨리케 좀머가 처음 등장한다.
+
+## 도입 — EIN INSOLVENZVERWALTER MIT KALENDER
+GROTHE: Frau Dr. Brandt, ich habe dreiundzwanzig Pflegeheime, zweitausendeinhundert Bewohnerinnen und Bewohner, eintausendvierhundert Beschäftigte und Liquidität für sieben Wochen. Danach muss ich verkaufen oder schließen.
+> 브란트 박사님, 저한테는 요양원 23곳, 입소자 2,100명, 직원 1,400명, 그리고 7주 치 유동성이 있습니다. 그 뒤엔 팔거나 문을 닫아야 해요.
+KATHARINA: Und was sollen wir in diesen sieben Wochen herausfinden?
+> 그 7주 동안 저희가 무엇을 밝혀야 하나요?
+GROTHE: Warum ein Unternehmen, das jeden Monat über dreitausend Euro pro Bewohner einnimmt, pleitegeht. Und an wen ich es verkaufen kann, ohne dass in zwei Jahren dasselbe passiert.
+> 매달 입소자 한 명당 3천 유로 넘게 받는 회사가 왜 파산하는지. 그리고 2년 뒤에 같은 일이 생기지 않게 누구에게 팔 수 있는지요.
+TOBIAS: Wer sind die Bieter?
+> 입찰자는 누구죠?
+GROTHE: Zwei. Ein Finanzinvestor aus London, der für alle Häuser zweiundsechzig Millionen bietet. Und eine gemeinnützige Stiftung aus Berlin, die einundvierzig bietet, aber nur für siebzehn Häuser. Die Gläubiger wollen natürlich die höhere Zahl, und ich bin ihnen verpflichtet. Aber ich bin auch dafür verantwortlich, dass morgen früh in dreiundzwanzig Häusern jemand das Frühstück bringt.
+> 두 곳입니다. 전체 시설에 6,200만 유로를 제시한 런던의 재무적 투자자. 그리고 4,100만 유로를 제시했지만 시설 17곳만 원하는 베를린의 공익 재단. 채권자들은 당연히 더 큰 숫자를 원하고, 저는 그들에게 의무가 있어요. 하지만 내일 아침 23개 시설에서 누군가 아침 식사를 가져다주도록 하는 것도 제 책임입니다.
+PAUL: Zweiundsechzig gegen einundvierzig. Ich ahne, wofür die Bank stimmen wird.
+> 6,200만 대 4,100만. 은행이 어디에 표를 던질지 짐작이 가네요.
+SELIN: Wem hat die Kette vorher gehört?
+> 그 체인은 전에 누구 소유였어요?
+GROTHE: Fünf Jahre lang einem Private-Equity-Fonds, Northbridge Partners. Der Fonds hat die Kette gekauft, umgebaut und vor vierzehn Monaten versucht, sie weiterzuverkaufen. Niemand wollte sie.
+> 5년 동안 사모펀드 Northbridge Partners 소유였습니다. 그 펀드가 체인을 사서 구조를 바꾸고, 14개월 전에 되팔려고 했죠. 아무도 사려 하지 않았어요.
+UTE: Und der Name «Lindenhof»? Klingt wie ein Kurhotel.
+> 그리고 '린덴호프'라는 이름은요? 휴양 호텔 같네요.
+GROTHE: Auf dem Prospekt steht: «Satt, sauber, geborgen.» Ich habe in drei Häusern gesehen, dass das erste Wort meistens stimmt.
+> 안내 책자엔 '배부르고, 깨끗하고, 포근하게'라고 쓰여 있습니다. 세 군데 시설을 가 봤는데, 대개 첫 단어는 맞더군요.
+KATHARINA: Und das dritte Wort?
+> 세 번째 단어는요?
+GROTHE: Das herauszufinden, ist Ihr Auftrag.
+> 그걸 알아내는 게 여러분 일입니다.
+
+## 분석 — DIE ZAHLEN DER ZENTRALE
+TOBIAS: Ich fange mit den Erlösen an. Pro Bewohner und Monat zahlen Pflegekasse und Bewohner zusammen im Schnitt fünftausendsechshundert Euro. Davon trägt der Bewohner selbst dreitausendvierhundertfünfzig. Das ist der Eigenanteil im ersten Jahr.
+> 수입부터 시작할게. 입소자 한 명당 매달 요양보험과 입소자가 합쳐서 평균 5,600유로를 내. 그중 입소자 본인이 3,450유로를 부담하고. 그게 입소 첫해 본인부담금이야.
+SELIN: Dreitausendvierhundertfünfzig. Die Durchschnittsrente in Deutschland ist weniger als die Hälfte davon.
+> 3,450유로. 독일 평균 연금은 그 절반도 안 되는데.
+TOBIAS: Deshalb sind in diesen Häusern vierzig Prozent der Bewohner auf Hilfe zur Pflege angewiesen. Das Sozialamt zahlt den Rest. Das heißt: Ein Teil der Rendite kommt aus Steuergeld.
+> 그래서 이 시설들 입소자의 40퍼센트가 사회부조에 기대고 있어. 나머지는 사회복지청이 내고. 그러니까 수익의 일부는 세금에서 나온다는 거지.
+KATHARINA: Und die Kosten?
+> 비용은?
+TOBIAS: Drei Posten sind in fünf Jahren explodiert. Erstens die Mieten. Vor fünf Jahren gehörten die Immobilien der Kette selbst. Dann wurden sie an eine Schwestergesellschaft des Fonds verkauft und zurückgemietet.
+> 다섯 해 동안 세 항목이 폭증했어. 첫째, 임대료. 5년 전엔 건물이 체인 소유였어. 그 뒤 펀드의 자매회사에 팔렸고, 다시 임차했지.
+PAUL: Sale-and-Leaseback. Die Immobilie wandert in die eine Tasche, die Miete kommt aus der anderen.
+> 매각 후 재임차. 건물은 한쪽 주머니로 가고, 임대료는 다른 쪽 주머니에서 나오는 거지.
+TOBIAS: Die Mieten sind seitdem um einunddreißig Prozent gestiegen und liegen jetzt bei einunddreißig Millionen Euro im Jahr. Ein Teil davon wird den Bewohnern als «Investitionskosten» in Rechnung gestellt.
+> 임대료는 그 뒤로 31퍼센트 올라서 지금 연 3,100만 유로야. 그 일부는 입소자들에게 '투자비'로 청구되고.
+SELIN: Die Bewohner bezahlen also die Miete für ein Gebäude, das an den Eigentümer der Firma verkauft wurde, die sie pflegt.
+> 그러니까 입소자들은 자기를 돌보는 회사의 주인한테 팔린 건물의 임대료를 내는 거네.
+TOBIAS: Zweitens: die Zentrale. Die Verwaltungskosten der Hauptverwaltung sind von vier Komma eins auf neun Komma acht Prozent des Umsatzes gestiegen. Darin enthalten: eine Managementgebühr von viereinhalb Prozent an eine Holding in Luxemburg.
+> 둘째, 본사. 본사 관리비가 매출의 4.1퍼센트에서 9.8퍼센트로 올랐어. 거기엔 룩셈부르크 지주회사에 내는 경영 수수료 4.5퍼센트가 들어 있고.
+KATHARINA: Wofür?
+> 무엇에 대한 수수료인데?
+TOBIAS: Laut Vertrag für «strategische Beratung und Zugang zum Netzwerk». Ich habe keine einzige Präsentation gefunden, die diese Beratung belegt.
+> 계약서상으로는 '전략 자문 및 네트워크 접근'. 그 자문을 증명하는 발표 자료는 단 하나도 못 찾았어.
+SELIN: Und der dritte Posten?
+> 세 번째 항목은?
+TOBIAS: Leiharbeit. Zweiundzwanzig Prozent der Pflegestunden werden von Leiharbeitskräften geleistet. Eine Leihkraft kostet die Kette fast doppelt so viel wie eine fest angestellte.
+> 파견 인력. 요양 시간의 22퍼센트를 파견 인력이 맡고 있어. 파견 인력 한 명은 정규직의 거의 두 배 비용이 들어.
+PAUL: Warum stellt man dann nicht fest ein?
+> 그럼 왜 정규직으로 안 뽑아?
+SELIN: Weil die Festangestellten gehen. Die Fluktuation in der Pflege liegt bei achtundzwanzig Prozent im Jahr. Ich habe die Austrittsgespräche ausgewertet. Häufigster Grund: «Zu wenig Personal pro Schicht.»
+> 정규직이 떠나니까. 요양 인력 이직률이 연 28퍼센트야. 퇴직 면담 기록을 분석했어. 가장 흔한 이유는 '근무조당 인력 부족'.
+TOBIAS: Ein Teufelskreis. Weniger Personal, mehr Kündigungen, mehr Leiharbeit, höhere Kosten, weniger Geld für festes Personal.
+> 악순환이지. 인력이 적으니 퇴직이 늘고, 파견이 늘고, 비용이 오르고, 정규직에 쓸 돈은 줄고.
+SELIN: Und jetzt kommt das, was mich nachts nicht schlafen lässt. In den Pflegesatzverhandlungen mit den Kassen hat die Kette einen Personalschlüssel vereinbart. Für «Haus Ahorn» in Reinickendorf sind nachts zwei Pflegefachkräfte für zweiundvierzig Bewohner vorgesehen.
+> 그리고 이제 날 잠 못 들게 하는 부분이야. 체인은 요양보험과의 요양비 협상에서 인력 기준을 합의했어. 라이니켄도르프의 '하우스 아호른'은 야간에 입소자 42명당 요양 전문 인력 두 명으로 돼 있어.
+KATHARINA: Und die Dienstpläne?
+> 근무표는?
+SELIN: In neunundsechzig Prozent aller Nächte im letzten Jahr stand dort eine Fachkraft. Eine. Abgerechnet wurden aber zwei.
+> 작년 전체 밤의 69퍼센트 동안 거기엔 전문 인력이 한 명 있었어. 한 명. 그런데 청구는 두 명으로 됐어.
+PAUL: Das ist mehr als ein Managementfehler. Wer Personal abrechnet, das nicht da war, bekommt Post von der Pflegekasse. Und vielleicht von der Staatsanwaltschaft.
+> 그건 경영 실수 이상이야. 없던 인력을 청구하면 요양보험에서 편지가 오지. 어쩌면 검찰에서도.
+TOBIAS: Ich habe die Differenz für alle dreiundzwanzig Häuser geschätzt. Über drei Jahre etwa vier Komma zwei Millionen Euro, die die Kassen zurückfordern können.
+> 23개 시설 전체의 차액을 추산해 봤어. 3년 동안 약 420만 유로. 요양보험이 환수할 수 있는 돈이야.
+KATHARINA: Und die Rendite des Fonds?
+> 그럼 펀드의 수익률은?
+TOBIAS: Über die Managementgebühr, die Mieten an die Schwestergesellschaft und eine Sonderdividende im zweiten Jahr hat Northbridge in fünf Jahren rund achtundvierzig Millionen Euro aus der Kette gezogen. Das Eigenkapital, das sie eingesetzt haben, lag bei vierzig.
+> 경영 수수료, 자매회사에 낸 임대료, 2년 차의 특별 배당을 통해 Northbridge는 5년 동안 체인에서 약 4,800만 유로를 빼 갔어. 투입한 자기자본은 4,000만이었고.
+SELIN: Also: Der Fonds hat sein Geld mit Gewinn zurück. Die Kette ist pleite. Und Frau Kessler zahlt dreitausendvierhundertfünfzig Euro im Monat.
+> 그러니까 펀드는 이익까지 붙여서 돈을 돌려받았고, 체인은 파산했고, 케슬러 씨는 매달 3,450유로를 낸다.
+KATHARINA: Wer ist Frau Kessler?
+> 케슬러 씨가 누구야?
+SELIN: Die Tochter einer Bewohnerin in Haus Ahorn. Sie hat dem Insolvenzverwalter einen Brief geschrieben, acht Seiten, handschriftlich. Ich habe ihn gelesen.
+> 하우스 아호른 입소자의 딸이야. 파산관재인한테 손으로 쓴 편지를 여덟 장이나 보냈어. 내가 읽어 봤어.
+KATHARINA: Was steht darin?
+> 뭐라고 쓰여 있어?
+SELIN: Dass ihre Mutter nachts dreimal geklingelt hat und niemand kam. Dass sie morgens im nassen Bett lag. Und dass auf der Rechnung trotzdem «Pflegegrad vier, vollstationär» stand. Ich will diese Nacht sehen, Katharina. Nicht auf einem Dienstplan.
+> 어머니가 밤에 세 번이나 벨을 눌렀는데 아무도 안 왔다고. 아침에 젖은 침대에 누워 있었다고. 그런데도 청구서엔 '요양 등급 4, 완전 입소'라고 적혀 있었다고. 그 밤을 직접 보고 싶어, 카타리나. 근무표 말고.
+GROTHE: Das kann ich ermöglichen. Mit Einverständnis der Heimleitung und unter Wahrung der Schweigepflicht. Sie begleiten eine Nachtschicht, Sie greifen nicht ein, Sie sprechen nur mit Bewohnern, die das wollen.
+> 그건 제가 가능하게 해 드릴 수 있습니다. 시설장 동의를 받고, 비밀유지 의무를 지키는 조건으로요. 야간 근무를 동행하시되 개입하지 않고, 원하는 입소자하고만 대화하시는 겁니다.
+SELIN: Einverstanden.
+> 동의해요.
+
+NOWAK: Sie sind die Frau vom Audit? Agnieszka Nowak. Ziehen Sie bequeme Schuhe an. Wir laufen heute Nacht ungefähr zwölf Kilometer.
+> 감사팀 분이세요? 아그니에슈카 노바크예요. 편한 신발 신으세요. 오늘 밤 대략 12킬로미터 걸을 거예요.
+SELIN: Zwölf Kilometer? In einem Haus?
+> 12킬로미터요? 건물 하나에서요?
+NOWAK: Zwei Etagen, zweiundvierzig Zimmer, eine Klingelanlage. Rechnen Sie selbst.
+> 2개 층, 방 42개, 호출벨 시스템 하나. 직접 계산해 보세요.
+## 갈등 — EINE NACHT IN HAUS AHORN
+SELIN: Frau Nowak, darf ich Sie etwas fragen, bevor es losgeht? Wie viele Bewohner haben Sie heute Nacht allein?
+> 노바크 씨, 시작하기 전에 하나 물어봐도 될까요? 오늘 밤 혼자 몇 명을 맡으세요?
+NOWAK: Zweiundvierzig. Dazu eine Pflegehelferin von der Leihfirma, die das Haus zum ersten Mal sieht. Sie spricht gut Deutsch, aber sie weiß nicht, wer Insulin bekommt und wer nachts wegläuft.
+> 42명이요. 거기에 이 건물을 처음 보는 파견 회사 요양보조원 한 명. 독일어는 잘하는데, 누가 인슐린을 맞고 누가 밤에 돌아다니는지는 몰라요.
+SELIN: Laut Vereinbarung mit der Pflegekasse sollten zwei Fachkräfte hier sein.
+> 요양보험과의 합의상으론 전문 인력이 두 명 있어야 하는데요.
+NOWAK: Laut Vereinbarung. Ich habe in drei Jahren vielleicht zwanzig Nächte zu zweit gearbeitet. Der Rest steht nur auf dem Papier.
+> 합의상으로는요. 3년 동안 둘이서 일한 밤은 스무 번 정도일 거예요. 나머진 서류에만 있어요.
+NOWAK: Da klingelt Zimmer zwölf. Herr Baumann. Er will jede Nacht nach Hause.
+> 12호실 벨이네요. 바우만 씨. 매일 밤 집에 가고 싶어 하세요.
+BAUMANN: Schwester, ich muss los. Meine Frau wartet mit dem Essen.
+> 간호사 양반, 나 가야 해. 아내가 밥 차려 놓고 기다려.
+NOWAK: Herr Baumann, es ist zwei Uhr nachts. Ihre Frau schläft schon. Kommen Sie, ich bringe Ihnen einen Tee, und dann schauen wir zusammen das Foto von ihr an.
+> 바우만 씨, 지금 새벽 두 시예요. 부인은 벌써 주무세요. 이리 오세요, 차 한 잔 갖다 드릴게요. 그리고 같이 부인 사진 봐요.
+BAUMANN: Ist die junge Frau neu?
+> 저 아가씨는 새로 왔어?
+SELIN: Ich bin nur zu Besuch, Herr Baumann. Ich heiße Selin.
+> 저는 그냥 방문한 거예요, 바우만 씨. 셀린이에요.
+BAUMANN: Selin. Schöner Name. Meine Frau hieß Gertrud. Sie ist tot, oder?
+> 셀린. 이름 예쁘네. 우리 집사람은 게르트루트였어. 죽었지, 그렇지?
+NOWAK: Ja, Herr Baumann. Seit sieben Jahren. Aber Sie haben sie sehr geliebt.
+> 네, 바우만 씨. 7년 됐어요. 그래도 정말 많이 사랑하셨잖아요.
+NOWAK: Zehn Minuten für Herrn Baumann. In der Zeit haben auf der zweiten Etage drei Leute geklingelt. Verstehen Sie jetzt die zwölf Kilometer?
+> 바우만 씨한테 10분. 그사이에 2층에서 세 명이 벨을 눌렀어요. 이제 12킬로미터가 이해되세요?
+SELIN: Und wenn zwei gleichzeitig etwas Dringendes haben?
+> 두 사람이 동시에 급한 일이 생기면요?
+NOWAK: Dann entscheide ich, wer warten muss. Jede Nacht. Und morgens schreibe ich in die Dokumentation, dass alles in Ordnung war, weil für «nicht in Ordnung» kein Feld vorgesehen ist.
+> 그럼 제가 누가 기다려야 할지 정해요. 매일 밤이요. 그리고 아침엔 기록지에 다 괜찮았다고 써요. '괜찮지 않음'을 적을 칸이 없거든요.
+SELIN: Warum bleiben Sie?
+> 왜 계속 일하세요?
+NOWAK: Wegen Herrn Baumann. Und weil ich weiß, dass nach mir die nächste Leihkraft kommt, die ihn nicht kennt. Aber ich habe eine Bewerbung bei einem Krankenhaus laufen. Dort zahlen sie vierhundert Euro mehr und haben nachts zu dritt.
+> 바우만 씨 때문에요. 그리고 제가 떠나면 그분을 모르는 다음 파견 인력이 올 걸 아니까요. 하지만 병원에 지원서를 내 놨어요. 거긴 400유로를 더 주고 밤에 셋이서 일해요.
+LINDQVIST: Frau Dr. Brandt, ich habe gehört, Ihre Kollegin hat eine Nacht in einem unserer ehemaligen Häuser verbracht. Sehr eindrucksvoll. Aber anekdotisch.
+> 브란트 박사님, 동료분이 저희 옛 시설에서 하룻밤을 보냈다고 들었습니다. 아주 인상적이네요. 하지만 일화에 불과하죠.
+KATHARINA: Herr Lindqvist, in neunundsechzig Prozent aller Nächte war dort nur eine Fachkraft. Abgerechnet wurden zwei. Das ist keine Anekdote, das ist eine Statistik.
+> 린드크비스트 씨, 그곳엔 전체 밤의 69퍼센트 동안 전문 인력이 한 명뿐이었어요. 청구는 두 명이었고요. 그건 일화가 아니라 통계입니다.
+LINDQVIST: Es herrscht Fachkräftemangel in ganz Deutschland. Wir haben Stellen ausgeschrieben, wir haben Prämien gezahlt. Wenn niemand kommt, kann man niemanden einstellen.
+> 독일 전역이 인력난입니다. 저희는 채용 공고도 내고 보너스도 줬어요. 아무도 안 오면 아무도 뽑을 수 없죠.
+TOBIAS: Sie haben in fünf Jahren achtundvierzig Millionen Euro aus der Kette gezogen. Mit einem Bruchteil davon hätten Sie Löhne zahlen können, bei denen die Leute kommen und bleiben.
+> 5년 동안 체인에서 4,800만 유로를 빼 가셨죠. 그 일부만으로도 사람들이 오고, 머무를 만한 임금을 줄 수 있었을 겁니다.
+LINDQVIST: Herr Wendt, wir sind ein Fonds, keine Wohlfahrtsorganisation. Unsere Investoren sind Pensionskassen. Lehrer in Kanada, Krankenschwestern in den Niederlanden. Die Rendite, die Sie so verachten, ist deren Rente.
+> 벤트 씨, 저희는 펀드지 복지 단체가 아닙니다. 저희 투자자는 연기금이에요. 캐나다의 교사, 네덜란드의 간호사들. 당신이 그렇게 경멸하는 수익이 그들의 연금입니다.
+SELIN: Und die Krankenschwester in Reinickendorf? Wessen Rente bezahlt sie mit ihren zwölf Kilometern pro Nacht?
+> 그럼 라이니켄도르프의 간호사는요? 그 사람은 매일 밤 12킬로미터로 누구의 연금을 대고 있는 거죠?
+LINDQVIST: Frau Aydın, ich verstehe Ihre Emotionen. Aber ein Bericht ist keine Nacht.
+> 아이든 씨, 감정은 이해합니다. 하지만 보고서는 밤이 아닙니다.
+SELIN: Doch. Genau das soll er diesmal sein.
+> 아니요. 이번엔 바로 그거여야 해요.
+GROTHE: Frau Dr. Brandt, ich muss Sie warnen. Die Gläubigerbank hat heute angerufen. Wenn ich an die Stiftung verkaufe und einundzwanzig Millionen Euro liegen lasse, wird sie mich verklagen. Ich bin den Gläubigern verpflichtet, nicht den Bewohnern.
+> 브란트 박사님, 경고드려야겠습니다. 오늘 채권 은행에서 전화가 왔어요. 제가 재단에 팔아서 2,100만 유로를 포기하면 저를 고소하겠답니다. 저는 입소자가 아니라 채권자에게 의무가 있어요.
+KATHARINA: Und wenn der Fonds aus London kauft?
+> 그럼 런던 펀드가 사면요?
+GROTHE: Dann bekommen die Gläubiger mehr. Und in zwei Jahren steht vielleicht wieder ein Insolvenzverwalter in denselben Häusern.
+> 그럼 채권자들은 더 많이 받겠죠. 그리고 2년 뒤엔 아마 같은 건물에 또 파산관재인이 서 있을 겁니다.
+TOBIAS: Ich habe mir das Angebot aus London angesehen. Sie wollen die Mietverträge mit der Schwestergesellschaft übernehmen, die Managementgebühr beibehalten und die Leiharbeit «optimieren». Das ist derselbe Plan mit einem anderen Logo.
+> 런던 쪽 제안을 봤어요. 자매회사와의 임대 계약을 승계하고, 경영 수수료는 유지하고, 파견 인력은 '최적화'하겠대요. 로고만 다른 같은 계획이에요.
+KESSLER: Entschuldigung, man hat mir gesagt, ich finde Sie hier. Sabine Kessler. Ich habe den Brief geschrieben.
+> 실례합니다, 여기 가면 만날 수 있다고 해서요. 자비네 케슬러예요. 그 편지를 쓴 사람이요.
+KESSLER: Ich will nur eines wissen: Wenn das Heim verkauft wird, muss meine Mutter dann umziehen? Sie ist dreiundneunzig. Ein Umzug bringt sie um.
+> 딱 하나만 알고 싶어요. 요양원이 팔리면 우리 엄마는 옮겨야 하나요? 엄마는 아흔셋이에요. 이사하면 돌아가실 거예요.
+GROTHE: Das kann ich Ihnen heute nicht sagen, Frau Kessler. Haus Ahorn gehört nicht zu den siebzehn Häusern, die die Stiftung übernehmen will. Der Fonds würde alle nehmen.
+> 오늘은 말씀드릴 수 없습니다, 케슬러 씨. 하우스 아호른은 재단이 인수하려는 17곳에 포함돼 있지 않아요. 펀드는 전부 가져가겠다고 하고요.
+KESSLER: Dann bin ich für den Fonds. So einfach ist das für mich. Ich will, dass meine Mutter in ihrem Zimmer bleibt.
+> 그럼 전 펀드 편이에요. 저한텐 그렇게 간단해요. 엄마가 자기 방에 남아 있길 원해요.
+SELIN: Auch wenn dort nachts wieder nur eine Fachkraft ist?
+> 거기에 밤에 다시 전문 인력이 한 명뿐이어도요?
+KESSLER: Frau Aydın, Sie haben eine Nacht dort verbracht. Ich verbringe dort seit drei Jahren jeden Sonntag. Sagen Sie mir nicht, was gut für meine Mutter ist.
+> 아이든 씨, 당신은 거기서 하룻밤을 보냈죠. 저는 3년째 매주 일요일을 거기서 보내요. 우리 엄마한테 뭐가 좋은지 저한테 말하지 마세요.
+KATHARINA: Niemand hier will Ihnen das sagen, Frau Kessler. Wir wollen nur, dass Sie nicht zwischen dem Zimmer Ihrer Mutter und einer zweiten Nachtschwester wählen müssen.
+> 여기서 아무도 그런 말씀을 드리려는 게 아니에요, 케슬러 씨. 다만 어머님의 방과 두 번째 야간 간호사 중 하나를 고르셔야 하는 상황이 아니었으면 하는 거예요.
+
+## 해결·설득 — DER GLÄUBIGERAUSSCHUSS
+GROTHE: Ich eröffne die Sitzung des Gläubigerausschusses. Frau Dr. Brandt stellt die Ergebnisse vor, danach entscheiden wir über das Verkaufsverfahren.
+> 채권자위원회를 개회합니다. 브란트 박사님이 결과를 발표하시고, 그다음에 매각 절차를 결정하겠습니다.
+KATHARINA: Ich beginne mit einer Zahl, die nicht in Ihren Unterlagen steht: zwölf Kilometer. So weit läuft eine Pflegefachkraft in Haus Ahorn in einer Nacht, allein für zweiundvierzig Menschen. Der Rest unseres Berichts erklärt, warum.
+> 여러분 자료에 없는 숫자로 시작하겠습니다. 12킬로미터. 하우스 아호른의 요양 전문 간호사 한 명이 혼자서 42명을 맡으며 하룻밤에 걷는 거리입니다. 보고서의 나머지는 그 이유를 설명합니다.
+KATHARINA: Die Kette ist nicht an zu niedrigen Einnahmen gescheitert, sondern an drei Abflüssen: überhöhten Mieten an eine Schwestergesellschaft des Fonds, einer Managementgebühr ohne erkennbare Gegenleistung und einer Personalpolitik, die Leiharbeit teurer gemacht hat als Festanstellung.
+> 이 체인은 수입이 너무 적어서 실패한 게 아닙니다. 세 가지 유출 때문입니다. 펀드 자매회사에 낸 과도한 임대료, 뚜렷한 대가가 없는 경영 수수료, 그리고 파견 인력을 정규직보다 비싸게 만든 인력 정책.
+HANSEN: Frau Dr. Brandt, das ist eine Analyse der Vergangenheit. Wir entscheiden heute über einen Verkauf, und das höhere Angebot liegt einundzwanzig Millionen über dem der Stiftung.
+> 브란트 박사님, 그건 과거에 대한 분석입니다. 저희는 오늘 매각을 결정하고, 더 높은 제안은 재단 제안보다 2,100만 유로 높아요.
+TOBIAS: Nur auf dem Papier. Lassen Sie mich zwei Hebel zeigen, die der Insolvenzverwalter hat. Erstens: Nach der Insolvenzordnung kann er die Mietverträge mit der Schwestergesellschaft kündigen. Ohne Mieter sind dreiundzwanzig Pflegeimmobilien nur leere Gebäude.
+> 서류상으로만요. 파산관재인이 가진 지렛대 두 개를 보여 드리죠. 첫째, 파산법에 따라 관재인은 자매회사와의 임대 계약을 해지할 수 있습니다. 임차인이 없으면 요양 시설 건물 23채는 빈 건물일 뿐이에요.
+GROTHE: Das ist richtig. Dieses Sonderkündigungsrecht steht mir zu.
+> 맞습니다. 그 특별 해지권은 제게 있습니다.
+TOBIAS: Zweitens: Zahlungen an nahestehende Gesellschaften vor der Insolvenz können angefochten werden, wenn die Kette damals schon in Schieflage war. Die Managementgebühren der letzten vier Jahre machen allein elf Millionen aus.
+> 둘째, 파산 전에 특수관계 회사에 지급한 돈은, 체인이 그때 이미 기울어 있었다면 취소를 청구할 수 있습니다. 최근 4년 경영 수수료만 1,100만 유로예요.
+LINDQVIST: Das ist absurd. Die Gebühren wurden vertraglich vereinbart.
+> 터무니없군요. 그 수수료는 계약으로 합의된 겁니다.
+PAUL: Mit sich selbst, Herr Lindqvist. Auf beiden Seiten des Vertrags hat derselbe Geschäftsführer derselben Holding unterschrieben. Wir haben die Unterschriften verglichen.
+> 자기 자신과 합의하셨죠, 린드크비스트 씨. 계약서 양쪽에 같은 지주회사의 같은 대표가 서명했습니다. 서명을 대조해 봤어요.
+HANSEN: Und was folgt daraus für das Verfahren?
+> 그래서 절차상 무엇이 따라옵니까?
+KATHARINA: Ein dritter Weg. Der Insolvenzverwalter verhandelt mit der Schwestergesellschaft neue Mieten, fünfundzwanzig Prozent niedriger, oder er kündigt. Mit diesen Mieten rechnen sich auch die sechs Häuser, die die Stiftung bisher nicht nehmen wollte.
+> 세 번째 길입니다. 관재인이 자매회사와 25퍼센트 낮은 새 임대료를 협상하거나, 아니면 해지합니다. 그 임대료라면 재단이 지금까지 원하지 않았던 시설 여섯 곳도 수지가 맞아요.
+WEBER: Das stimmt. Wir haben Haus Ahorn und die anderen fünf Häuser wegen der Mieten ausgeschlossen, nicht wegen der Pflege. Bei fünfundzwanzig Prozent weniger Miete übernehmen wir alle dreiundzwanzig.
+> 맞습니다. 하우스 아호른과 나머지 다섯 곳은 요양 때문이 아니라 임대료 때문에 뺐어요. 임대료가 25퍼센트 낮아지면 23곳 전부를 인수하겠습니다.
+HANSEN: Zu welchem Preis?
+> 얼마에요?
+WEBER: Achtundvierzig Millionen. Und wir verpflichten uns vertraglich zu dem Personalschlüssel, der mit den Kassen vereinbart ist: nachts zwei Fachkräfte in jedem Haus, mit unabhängiger Kontrolle.
+> 4,800만 유로. 그리고 요양보험과 합의된 인력 기준을 계약으로 약속합니다. 모든 시설에 야간 전문 인력 두 명, 독립적인 점검과 함께.
+HANSEN: Achtundvierzig statt zweiundsechzig. Dann fehlen immer noch vierzehn Millionen.
+> 6,200만 대신 4,800만. 그래도 1,400만이 모자랍니다.
+TOBIAS: Nicht ganz. Das Londoner Angebot steht unter dem Vorbehalt, dass keine Rückforderungen der Pflegekassen bestehen. Die bestehen aber: vier Komma zwei Millionen. Unterm Strich bringt London vielleicht achtundfünfzig, die Stiftung plus Anfechtung bis zu neunundfünfzig — und einen Käufer, der in zwei Jahren nicht wieder pleite ist.
+> 꼭 그렇진 않습니다. 런던 제안은 요양보험의 환수 청구가 없다는 조건이 붙어 있어요. 그런데 있습니다. 420만 유로. 결국 런던은 5,800만 정도, 재단에 부인권 행사를 더하면 최대 5,900만. 그리고 2년 뒤에 다시 파산하지 않을 인수자죠.
+HANSEN: Das muss ich prüfen lassen. Aber wenn die Zahlen stimmen, ist das für die Bank vertretbar.
+> 검토를 맡겨 봐야겠습니다. 하지만 숫자가 맞다면 은행으로서도 받아들일 만하네요.
+LINDQVIST: Sie unterschätzen, wie lange Anfechtungsprozesse dauern, Frau Dr. Brandt.
+> 부인권 소송이 얼마나 오래 걸리는지 과소평가하시는군요, 브란트 박사님.
+KATHARINA: Und Sie unterschätzen, wie ungern ein Fonds, der bei Pensionskassen Geld einsammelt, in einem öffentlichen Prozess erklärt, warum er Pflegepersonal abgerechnet hat, das nie da war. Ich glaube, Sie werden sich vergleichen wollen, Herr Lindqvist.
+> 그리고 연기금에서 돈을 모으는 펀드가, 있지도 않았던 요양 인력을 왜 청구했는지 공개 재판에서 해명하는 걸 얼마나 꺼릴지 과소평가하시는군요. 아마 화해를 원하시게 될 거예요, 린드크비스트 씨.
+LINDQVIST: … Wir sind zu Gesprächen bereit.
+> …대화할 용의는 있습니다.
+KATHARINA: Ich möchte noch jemanden zu Wort kommen lassen. Frau Nowak?
+> 한 분께 발언 기회를 드리고 싶습니다. 노바크 씨?
+NOWAK: Ich bin Pflegefachkraft in Haus Ahorn. Ich habe die Zusage von einem Krankenhaus, vierhundert Euro mehr, nachts zu dritt. Wenn die Stiftung kauft und nachts wirklich zwei Fachkräfte da sind, bleibe ich. Und ich kenne mindestens sechs Kolleginnen, die dasselbe sagen.
+> 저는 하우스 아호른의 요양 전문 간호사예요. 병원에서 합격 통보를 받았어요. 400유로 더, 밤엔 셋이서. 재단이 인수하고 정말로 밤에 전문 인력이 두 명 있다면, 저는 남을게요. 같은 말을 하는 동료를 적어도 여섯 명은 알아요.
+HANSEN: Warum erzählen Sie uns das?
+> 그걸 왜 저희한테 말씀하시죠?
+NOWAK: Weil Sie über Häuser abstimmen. Aber ein Pflegeheim ohne Pflegekräfte ist nur ein Gebäude mit Betten. Das zeigt Ihnen keine Bilanz.
+> 여러분은 건물에 대해 표결하시니까요. 하지만 요양 인력이 없는 요양원은 침대 있는 건물일 뿐이에요. 그건 어떤 대차대조표도 보여 주지 않아요.
+GROTHE: Ich stelle zur Abstimmung: exklusive Verhandlungen mit der Stiftung Spreebogen über alle dreiundzwanzig Häuser, parallel Neuverhandlung der Mieten und Anfechtung der Managementgebühren. — Einstimmig, bei Enthaltung der Bank.
+> 표결에 부칩니다. 23개 시설 전부에 대한 Stiftung Spreebogen과의 독점 협상, 그와 병행한 임대료 재협상 및 경영 수수료 부인. — 은행 기권, 만장일치입니다.
+KESSLER: Und meine Mutter? Haus Ahorn?
+> 그럼 우리 엄마는요? 하우스 아호른은요?
+WEBER: Ihre Mutter bleibt in ihrem Zimmer, Frau Kessler. Das schreibe ich Ihnen gern auf.
+> 어머님은 지금 방에 그대로 계십니다, 케슬러 씨. 원하시면 글로 써 드릴게요.
+KESSLER: … Frau Aydın, ich war ungerecht zu Ihnen. Sie hatten recht mit der Nacht. Ich wollte es nur nicht hören, weil ich keine andere Wahl hatte.
+> …아이든 씨, 제가 당신한테 부당했어요. 그 밤에 대해선 당신이 옳았어요. 다른 선택지가 없어서 듣고 싶지 않았을 뿐이에요.
+
+## 마무리 — EINE SUPPE UND EIN SONNTAG
+SELIN: Sie mussten nichts hören, Frau Kessler. Sie haben drei Jahre lang jeden Sonntag hingesehen.
+> 들으실 필요 없었어요, 케슬러 씨. 3년 동안 매주 일요일마다 직접 보셨잖아요.
+UTE: Selin, du hast seit vier Tagen kaum geschlafen. Ich habe dir eine Suppe hingestellt. Nicht ausrechnen. Essen.
+> 셀린, 너 나흘째 거의 못 잤잖아. 수프 갖다 놨어. 계산하지 말고, 먹어.
+SELIN: Ute, wenn ich alt bin, will ich in ein Heim, in dem du die Dienstpläne machst.
+> 우테, 나 늙으면 네가 근무표 짜는 요양원에 들어갈래.
+UTE: Wenn du alt bist, bin ich längst unter der Erde. Aber ich hinterlasse dir eine ordentliche Tabelle.
+> 네가 늙을 때면 난 진작 땅속에 있지. 대신 제대로 된 표 하나 남겨 줄게.
+TOBIAS: Achtundvierzig Millionen herausgezogen, und im Prospekt stand «geborgen». Ich lese ab jetzt keine Prospekte mehr, nur noch Dienstpläne.
+> 4,800만을 빼 가 놓고 안내 책자엔 '포근하게'라고 써 있었지. 이제부턴 안내 책자는 안 읽고 근무표만 읽을 거야.
+PAUL: Die Pflegekasse hat angerufen. Sie prüft jetzt die Abrechnungen aller Lindenhof-Häuser. Und die Heimaufsicht kündigt unangemeldete Nachtkontrollen an.
+> 요양보험에서 전화 왔어. 이제 린덴호프 전 시설의 청구 내역을 조사한대. 그리고 요양시설 감독청이 불시 야간 점검을 하겠대.
+KATHARINA: Unangemeldet und nachts. So hätte man es von Anfang an machen sollen.
+> 불시에, 그리고 밤에. 처음부터 그렇게 했어야지.
+NOWAK: Frau Aydın? Ich habe dem Krankenhaus abgesagt. Herr Baumann hat heute Nacht gefragt, wo die junge Frau mit dem schönen Namen ist.
+> 아이든 씨? 병원엔 안 간다고 했어요. 바우만 씨가 오늘 밤에 이름 예쁜 젊은 아가씨는 어디 있냐고 물으셨어요.
+SELIN: Sagen Sie ihm, ich komme am Sonntag. Mit Frau Kessler, zum Kaffee.
+> 일요일에 간다고 전해 주세요. 케슬러 씨랑 같이, 커피 마시러요.
+PAUL: Katharina, noch etwas aus Frankfurt. Die Infrastrukturgesellschaft InfraMain hat angefragt. Hessen hat Milliarden aus dem Sondervermögen bekommen, und angeblich ist noch keine einzige neue Brücke im Bau.
+> 카타리나, 프랑크푸르트에서 하나 더. 인프라 공사 InfraMain에서 문의가 왔어. 헤센이 특별기금에서 수십억을 받았는데, 새 다리는 단 하나도 착공을 못 했대.
+TOBIAS: Milliarden und keine Brücke. Klingt nach Spreewohnen mit mehr Nullen.
+> 수십억에 다리는 없다. 슈프레보넨에 0이 더 붙은 것 같네.
+KATHARINA: Und nach einer Ministerin, die wissen will, warum. Die hessische Wirtschaftsministerin will mich nächste Woche persönlich sprechen.
+> 그리고 그 이유를 알고 싶어 하는 장관 냄새도 나. 헤센 경제장관이 다음 주에 나를 직접 만나고 싶대.

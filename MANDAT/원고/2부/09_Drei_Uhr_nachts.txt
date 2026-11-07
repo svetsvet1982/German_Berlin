@@ -1,0 +1,271 @@
+part: 2
+ep: 9
+title_de: Drei Uhr nachts
+title_ko: 새벽 세 시
+scene: 랜섬웨어 공격, 하나우 위기대응실
+level: B2
+setting: 3월 마지막 주 화요일 새벽 세 시부터 아침 일곱 시까지, 하나우 본사 위기대응실(Krisenraum)과 전화·화상 연결
+cast: KATHARINA | Dr. Katharina Brandt · CEO (39)
+cast: TOBIAS | Tobias Wendt · CFO (35)
+cast: SELIN | Selin Aydın · 전환사무국장 (27)
+cast: BEHRENS | Frank Behrens · IT 총괄(CIO) (49)
+cast: RITTER | Jana Ritter · 홍보·커뮤니케이션 책임자 (38)
+cast: NOWAK | Dariusz Nowak · 슈판다우 공장장 (전화)
+cast: GERDES | Gerdes · 사이버보험사 손해 담당 (전화, 가상)
+cast: MORGENROTH | Dr. Morgenroth · 프랑크푸르트 검찰청 사이버범죄 전담부(ZIT) 검사 (화상, 가상 인물)
+cast: LENZ | Dr. Lenz · 연방정보보안청(BSI) 사고 대응 담당 (화상, 가상 인물)
+cast: WALLENSTEIN | Wallenstein · 최대 완성차 고객사 구매 총괄 (전화, 가상)
+cast: KRÖGER | Matthias Kröger · 슈판다우 노동자평의회 의장 (전화)
+cast: YILDIZ | Ömer Yıldız · 하나우 열처리 교대조장
+note: ※ 랜섬웨어(Ransomware)는 기업 시스템을 암호화(Verschlüsselung)해 마비시킨 뒤 복호화 키의 대가로 몸값(Lösegeld)을 요구하는 공격입니다. 최근에는 데이터를 먼저 빼돌린 뒤 공개하겠다고 협박하는 '이중 갈취'가 일반적입니다. 독일에서는 EU NIS2 지침을 반영한 법 개정으로 일정 규모 이상의 제조업체도 '중요 기관(wichtige Einrichtung)'으로 분류되어, 중대한 보안 사고가 나면 연방정보보안청(BSI)에 24시간 내 조기 경보, 72시간 내 신고, 한 달 내 최종 보고를 해야 합니다. 개인정보가 유출되면 GDPR에 따라 72시간 내 주 개인정보 감독기관에 신고해야 하고, 상장사는 주가에 영향을 주는 사건을 수시공시해야 합니다. 프랑크푸르트 검찰청 산하 ZIT(인터넷범죄 대응 중앙부서)는 실제 기관이며, 수사기관과 BSI는 몸값 지불을 권하지 않습니다. 표현 초점: der Cyberangriff, die Verschlüsselung, das Lösegeld, die Krisenkommunikation, Wir zahlen nicht. Und wir sagen es offen.
+next: 2부 10화 — «Wiederanlauf»(재가동) — 종이와 팩스로 3주를 버틴 공장들. 재가동 이후 Tobias는 IT 투자 비용을 따지고, Selin은 '직원 교육이 최고의 방화벽'이라고 주장한다. 그리고 BSI가 묻는다. 경영진은 무엇을 알고 있었는가?
+
+## 도입 — DREI UHR NACHTS
+BEHRENS: Frau Dr. Brandt? Behrens hier. Entschuldigen Sie die Uhrzeit. Wir haben einen Notfall.
+> 브란트 박사님? 베렌스입니다. 이런 시간에 죄송합니다. 비상 상황입니다.
+KATHARINA: Herr Behrens … es ist drei Uhr. Was ist passiert?
+> 베렌스 씨… 세 시예요. 무슨 일이에요?
+BEHRENS: Ein Cyberangriff. Seit zwei Uhr vierzig zeigen alle Bildschirme in Hanau dieselbe Nachricht. Die Server sind verschlüsselt. Das ERP, die Fertigungssteuerung, die Mails, alles.
+> 사이버 공격입니다. 두 시 사십 분부터 하나우의 모든 화면에 같은 메시지가 떠 있습니다. 서버가 암호화됐어요. ERP, 생산 관리 시스템, 메일, 전부요.
+KATHARINA: Alle Bildschirme. Auch in Spandau?
+> 모든 화면이요? 슈판다우도요?
+NOWAK: Frau Dr. Brandt, Nowak. Ich bin auf der anderen Leitung. Bei uns ist die Nachtschicht vor zwanzig Minuten stehen geblieben. Die Maschinen bekommen keine Aufträge mehr.
+> 브란트 박사님, 노바크입니다. 다른 회선에 있습니다. 여기 야간조는 20분 전에 멈췄어요. 기계들한테 작업 지시가 안 내려옵니다.
+KATHARINA: Was steht in der Nachricht, Herr Behrens?
+> 메시지엔 뭐라고 쓰여 있어요, 베렌스 씨?
+BEHRENS: «Your files are encrypted. We have downloaded your data. Contact us within seventy-two hours.» Darunter eine Adresse im Darknet.
+> «당신의 파일은 암호화되었다. 우리는 당신의 데이터를 내려받았다. 72시간 안에 연락하라.» 그 밑에 다크웹 주소가 있습니다.
+KATHARINA: Gut. Ich bin in vierzig Minuten im Krisenraum. Rufen Sie Herrn Wendt, Frau Aydın und Frau Ritter von der Kommunikation an. Und fassen Sie bis dahin nichts an, was Spuren verwischen könnte.
+> 알겠어요. 40분 안에 위기대응실로 갈게요. 벤트 이사, 아이든 국장, 그리고 홍보팀 리터 씨에게 전화해 주세요. 그때까지 흔적을 지울 수 있는 건 아무것도 건드리지 마시고요.
+BEHRENS: Verstanden. Wir haben die Verbindungen nach außen schon getrennt.
+> 알겠습니다. 외부 연결은 이미 끊었습니다.
+TOBIAS: Katharina? Behrens hat mich gerade geweckt. Ist das ein Test? Sag mir, dass das ein Test ist.
+> 카타리나? 베렌스가 방금 깨웠어. 이거 테스트야? 테스트라고 말해 줘.
+KATHARINA: Kein Test, Tobias. Zieh dich an. Die Frage, die wir bis zum Morgen beantworten müssen, ist ganz einfach: Zahlen wir — oder nicht?
+> 테스트 아니야, 토비아스. 옷 입어. 아침까지 답해야 할 질문은 아주 간단해. 돈을 낼 것인가, 말 것인가.
+SELIN: Ich bin schon unterwegs. Ich habe die Mail auf dem Handy gesehen und nicht mehr geschlafen.
+> 나 벌써 가는 중이야. 휴대폰으로 메일 보고 잠이 다 깼어.
+
+## 분석 — DER KRISENSTAB
+BEHRENS: Ich fasse zusammen, was wir wissen. Die Angreifer sind vor mindestens elf Tagen ins Netz gekommen. Sie haben sich in Ruhe umgesehen und heute Nacht zugeschlagen.
+> 알고 있는 걸 정리하겠습니다. 공격자들은 최소 11일 전에 네트워크에 들어왔습니다. 천천히 둘러보다가 오늘 밤에 공격한 거예요.
+TOBIAS: Elf Tage. Und keiner hat es gemerkt?
+> 11일이요? 그런데 아무도 몰랐어요?
+BEHRENS: Unsere Überwachung läuft nachts und am Wochenende nicht. Dafür hatten wir kein Personal.
+> 우리 모니터링은 밤과 주말에는 안 돌아갑니다. 그럴 인력이 없었어요.
+SELIN: Was ist verschlüsselt, und was nicht?
+> 뭐가 암호화됐고, 뭐가 안 됐어요?
+BEHRENS: Verschlüsselt: das ERP mit Aufträgen, Lager und Rechnungen. Die Fertigungssteuerung in beiden Werken. Die Mailserver. Und leider auch die meisten Sicherungskopien, weil sie im selben Netz lagen.
+> 암호화된 것은 주문·재고·청구가 들어 있는 ERP, 두 공장의 생산 관리 시스템, 메일 서버. 그리고 유감스럽게도 백업 대부분이요. 같은 네트워크에 있었거든요.
+KATHARINA: Die meisten. Nicht alle?
+> 대부분이요? 전부가 아니고요?
+BEHRENS: Wir haben eine Bandsicherung im Tresor. Offline. Neun Tage alt. Wenn sie sauber ist, können wir das ERP damit wiederherstellen. Das dauert zwei bis drei Wochen.
+> 금고에 테이프 백업이 하나 있습니다. 오프라인이고, 9일 전 것이에요. 그게 깨끗하다면 ERP를 복구할 수 있습니다. 2주에서 3주 걸려요.
+TOBIAS: Und die Angreifer haben in diesen neun Tagen schon im Netz gesessen.
+> 그런데 공격자들은 그 9일 동안 이미 네트워크 안에 있었잖아요.
+BEHRENS: Genau das ist das Risiko. Vielleicht ist die Sicherung sauber. Vielleicht haben sie dort schon eine Hintertür versteckt.
+> 바로 그게 리스크입니다. 백업이 깨끗할 수도 있고, 이미 거기에 뒷문을 숨겨 놨을 수도 있죠.
+KATHARINA: Was verlangen sie?
+> 요구하는 게 뭐예요?
+BEHRENS: Die Verhandlungsseite im Darknet nennt eine Summe: viereinhalb Millionen Dollar in Bitcoin. Und es gibt einen Zähler. Nach sieben Tagen veröffentlichen sie die Daten.
+> 다크웹 협상 페이지에 금액이 나와 있습니다. 비트코인으로 450만 달러. 그리고 카운터가 있어요. 7일 뒤에 데이터를 공개하겠답니다.
+SELIN: Welche Daten?
+> 어떤 데이터요?
+BEHRENS: Etwa zweihundertachtzig Gigabyte. Nach dem, was wir sehen, Personalakten, Konstruktionszeichnungen und Kundenverträge.
+> 약 280기가바이트. 우리가 파악한 바로는 인사 기록, 설계 도면, 고객 계약서.
+RITTER: Personalakten. Das heißt, Gehälter, Krankmeldungen, Adressen von viertausendachthundert Menschen.
+> 인사 기록이라. 4,800명의 급여, 병가 기록, 주소라는 얘기네요.
+TOBIAS: Und die Konstruktionszeichnungen? Unsere Akustiktechnik?
+> 그리고 설계 도면은요? 우리 소음 기술은?
+BEHRENS: Die Patentschriften sind ohnehin öffentlich. Die Fertigungsparameter dahinter nicht. Wenn die im Netz landen, kann jeder nachlesen, wie wir unsere Zahnräder schleifen.
+> 특허 명세서는 어차피 공개돼 있어요. 하지만 그 뒤의 가공 조건은 아니죠. 그게 인터넷에 올라가면 우리가 기어를 어떻게 깎는지 누구나 읽을 수 있게 됩니다.
+SELIN: Das heißt, Herr Zhou bekäme umsonst, wofür er gerade vierzig Millionen bezahlt hat.
+> 그러니까 저우 씨가 방금 4,000만을 주고 산 걸 공짜로 얻게 된다는 거네.
+TOBIAS: Danke, Selin. Genau dieses Bild hat mir um vier Uhr früh noch gefehlt.
+> 고마워, 셀린. 새벽 네 시에 딱 그 그림이 필요했어.
+KATHARINA: Frau Ritter, was müssen wir bis wann wem sagen?
+> 리터 씨, 누구에게 언제까지 무엇을 알려야 하죠?
+RITTER: Frau Aydın hat schon eine Liste gemacht. Ich habe sie nur noch mit der Rechtsabteilung abgeglichen.
+> 아이든 국장님이 이미 목록을 만들어 두셨어요. 저는 법무팀과 대조만 했고요.
+SELIN: Erstens das BSI. Als wichtige Einrichtung nach dem neuen BSI-Gesetz müssen wir einen erheblichen Sicherheitsvorfall innerhalb von vierundzwanzig Stunden als Frühwarnung melden, nach zweiundsiebzig Stunden ausführlich.
+> 첫째, BSI. 개정된 BSI법상 중요 기관이라서 중대한 보안 사고는 24시간 안에 조기 경보로, 72시간 안에 상세하게 신고해야 해요.
+SELIN: Zweitens die Datenschutzaufsicht in Wiesbaden, weil personenbezogene Daten betroffen sind. Auch zweiundsiebzig Stunden. Drittens die Börse: Ein Produktionsstopp in allen Werken ist eine Insiderinformation.
+> 둘째, 개인정보가 관련돼 있으니 비스바덴의 개인정보 감독기관. 이것도 72시간. 셋째, 증시. 전 공장 생산 중단은 내부자 정보예요.
+TOBIAS: Also eine Ad-hoc-Meldung. Vor Börsenbeginn.
+> 그럼 수시공시. 장 시작 전에.
+SELIN: Und viertens: die Polizei. Das ist keine Pflicht, aber ohne Anzeige wird niemand ermittelt.
+> 그리고 넷째, 경찰. 의무는 아니지만 고소하지 않으면 아무도 수사하지 않아요.
+BEHRENS: Die Zentralstelle für Internetkriminalität bei der Generalstaatsanwaltschaft in Frankfurt hat einen Bereitschaftsdienst. Frau Dr. Morgenroth ist in der Leitung.
+> 프랑크푸르트 검찰청 인터넷범죄 대응 중앙부서에 당직 체계가 있습니다. 모르겐로트 검사님이 연결돼 계세요.
+MORGENROTH: Guten Morgen. Morgenroth, ZIT. Ich sage Ihnen, was ich jedem Unternehmen um diese Uhrzeit sage: Sichern Sie die Spuren, schalten Sie nichts ab, was noch läuft, und zahlen Sie nicht.
+> 좋은 아침입니다. ZIT의 모르겐로트입니다. 이 시간에 모든 기업에 하는 말을 똑같이 드리죠. 흔적을 보존하고, 아직 돌아가는 건 끄지 말고, 돈은 내지 마세요.
+KATHARINA: Warum nicht?
+> 왜죠?
+MORGENROTH: Weil Sie mit dem Geld die nächste Tat finanzieren. Weil Sie keine Garantie haben, dass die Daten gelöscht werden. Und weil Unternehmen, die einmal zahlen, auffallend oft ein zweites Mal angegriffen werden.
+> 그 돈으로 다음 범죄 자금을 대 주는 셈이니까요. 데이터가 삭제된다는 보장도 없고요. 그리고 한 번 낸 기업은 놀라울 만큼 자주 두 번째 공격을 당합니다.
+LENZ: Lenz, BSI, Lagezentrum. Ich schließe mich an. Und ich biete Ihnen ein mobiles Team zur Unterstützung an. Ihre Frühwarnung können Sie mir übrigens direkt mündlich geben, ich nehme sie auf.
+> BSI 상황센터의 렌츠입니다. 같은 의견입니다. 그리고 지원을 위한 이동 대응팀을 보내 드릴 수 있어요. 조기 경보는 지금 제게 구두로 하셔도 됩니다. 제가 접수하죠.
+GERDES: Gerdes, Hanseatische Cyberversicherung. Frau Dr. Brandt, Ihre Police deckt die Kosten für Forensik, Wiederherstellung und Betriebsunterbrechung bis zehn Millionen. Wir schicken Ihnen heute früh ein Notfallteam.
+> 한자 사이버보험의 게르데스입니다. 브란트 박사님, 귀사 보험은 포렌식, 복구, 영업 중단 비용을 1,000만까지 보장합니다. 오늘 아침에 비상 대응팀을 보내 드리겠습니다.
+TOBIAS: Und das Lösegeld?
+> 몸값은요?
+GERDES: Das ist eine Frage, die ich am Telefon nur ungern beantworte.
+> 그건 전화로는 대답하고 싶지 않은 질문이네요.
+WALLENSTEIN: Frau Dr. Brandt? Wallenstein, Einkauf. Mein Logistikleiter sagt, Ihre Lieferungen für die Frühschicht sind nicht avisiert. Ich habe in Wolfsburg-Süd eine Montagelinie, die in sechsunddreißig Stunden ohne Ihre Getriebeteile steht.
+> 브란트 박사님? 구매 총괄 발렌슈타인입니다. 물류 책임자 말이 귀사의 아침조 납품 통지가 안 들어왔다더군요. 남부 공장 조립 라인이 귀사 변속기 부품 없이는 36시간 뒤에 멈춥니다.
+
+## 갈등 — ZAHLEN ODER NICHT
+KATHARINA: Herr Wallenstein, wir hatten heute Nacht einen Cyberangriff. Ich rufe Sie in einer Stunde mit einem Plan zurück.
+> 발렌슈타인 씨, 오늘 밤 사이버 공격을 당했습니다. 한 시간 안에 계획을 가지고 다시 전화드리겠습니다.
+WALLENSTEIN: In einer Stunde. Und wissen Sie, was ein Stillstand meiner Linie kostet? Laut Vertrag tragen Sie das.
+> 한 시간이라. 우리 라인이 멈추면 얼마가 드는지 아십니까? 계약상 그건 귀사가 부담합니다.
+TOBIAS: Wir kennen den Vertrag. — Katharina, wir müssen über Zahlen reden. Echte Zahlen.
+> 계약 내용은 압니다. — 카타리나, 숫자 얘기를 해야 해. 진짜 숫자.
+TOBIAS: Ohne Schlüssel: zwei bis drei Wochen Wiederaufbau. Produktionsausfall, Vertragsstrafen, Forensik — ich komme auf achtzehn bis fünfundzwanzig Millionen. Mit Schlüssel vielleicht eine Woche. Und viereinhalb Millionen an Erpresser.
+> 키 없이 가면 재구축에 2주에서 3주. 생산 손실, 계약 위약금, 포렌식까지 1,800만에서 2,500만. 키가 있으면 아마 일주일. 그리고 협박범한테 450만.
+BEHRENS: Wenn der Schlüssel überhaupt funktioniert. Oft entschlüsseln die Programme der Täter langsam und fehlerhaft. Man bezahlt und repariert trotzdem drei Wochen.
+> 키가 작동한다면 말이죠. 범인들 복호화 프로그램은 느리고 오류투성이일 때가 많아요. 돈을 내고도 3주를 고치는 거죠.
+TOBIAS: Rein rechnerisch ist Zahlen trotzdem billiger. Das sage ich nicht gern, aber ich muss es sagen.
+> 순전히 계산상으로는 그래도 내는 게 더 싸. 이런 말 하기 싫지만, 해야 해.
+SELIN: Rein rechnerisch finanzieren wir dann den nächsten Angriff auf ein Krankenhaus.
+> 순전히 계산상으로는 그럼 우리가 다음 병원 공격 자금을 대 주는 거지.
+TOBIAS: Selin, ich habe viertausendachthundert Leute, eine Landesbürgschaft und fünf Banken. Das Krankenhaus steht nicht in meiner Liquiditätsplanung.
+> 셀린, 나한테는 직원 4,800명, 주 정부 보증, 은행 다섯 곳이 있어. 병원은 내 유동성 계획에 없어.
+SELIN: Vielleicht sollte es das.
+> 어쩌면 있어야 하는지도 몰라.
+KATHARINA: Herr Behrens, wie sind sie hereingekommen?
+> 베렌스 씨, 그 사람들 어떻게 들어왔어요?
+BEHRENS: … Nach dem, was wir bisher sehen: über einen VPN-Zugang im Einkauf. Ein echtes Passwort, aus einer Phishing-Mail. Keine Zwei-Faktor-Anmeldung.
+> …지금까지 파악한 바로는, 구매팀의 VPN 접속 계정으로요. 피싱 메일로 빼낸 진짜 비밀번호예요. 2단계 인증은 없었고요.
+KATHARINA: Warum keine Zwei-Faktor-Anmeldung?
+> 왜 2단계 인증이 없었죠?
+BEHRENS: Sie war Teil des Sicherheitsprojekts, das ich im Herbst beantragt habe. Drei Millionen. Das Projekt wurde im November gestoppt.
+> 제가 가을에 신청한 보안 프로젝트에 들어 있었습니다. 300만이요. 그 프로젝트가 11월에 중단됐어요.
+TOBIAS: Von mir. Ich habe es gestoppt.
+> 제가 했습니다. 제가 중단시켰어요.
+RITTER: Das darf so niemals nach außen dringen.
+> 그건 절대 밖으로 새어 나가면 안 돼요.
+KATHARINA: Doch, Frau Ritter. Wenn die Behörden fragen, sagen wir die Wahrheit. Wir haben im November entschieden, mit dem Geld die Löhne zu sichern. Das war eine Abwägung. Sie war falsch.
+> 아니요, 리터 씨. 당국이 물으면 우리는 사실대로 말할 거예요. 11월에 우리는 그 돈으로 임금을 지키기로 결정했어요. 저울질의 결과였죠. 그리고 그건 틀린 판단이었어요.
+TOBIAS: Ich habe es entschieden, Katharina. Nicht wir.
+> 내가 결정했어, 카타리나. 우리가 아니라.
+KATHARINA: Du hast es vorgeschlagen, und ich habe unterschrieben. Wir haben es entschieden. Und jetzt suchen wir eine Lösung, nicht einen Schuldigen.
+> 네가 제안했고, 내가 서명했어. 우리가 결정한 거야. 그리고 지금은 범인이 아니라 해결책을 찾는 거야.
+GERDES: Frau Dr. Brandt, darf ich etwas anmerken? Wenn Sie den Angreifern antworten, raten wir dringend, das über unseren Verhandlungsdienstleister zu tun. Allein schon, um Zeit zu gewinnen.
+> 브란트 박사님, 한마디 해도 될까요? 공격자들에게 답하실 거라면 반드시 저희 협상 대행사를 통해서 하시라고 권합니다. 시간을 벌기 위해서라도요.
+KATHARINA: Das heißt, Sie würden das Lösegeld zahlen?
+> 그러니까 보험사가 몸값을 내 줄 수도 있다는 건가요?
+GERDES: Das heißt, ich sage Ihnen, was die Police erlaubt. Ob Sie zahlen, entscheiden Sie. Zahlungen an Gruppen auf Sanktionslisten sind ohnehin verboten. Das prüfen wir vorher.
+> 보험 약관이 허용하는 걸 말씀드리는 겁니다. 낼지 말지는 박사님이 결정하시죠. 어차피 제재 명단에 오른 조직에 대한 지불은 금지돼 있어요. 그건 저희가 사전에 확인합니다.
+KRÖGER: Frau Brandt? Kröger. Nowak hat mich geweckt. Stimmt es, dass die Personalakten weg sind?
+> 브란트 박사? 크뢰거예요. 노바크가 깨웠어요. 인사 기록이 털렸다는 게 사실이에요?
+KATHARINA: Es stimmt, dass die Täter sie wahrscheinlich kopiert haben, Herr Kröger. Ich wollte Sie um sieben anrufen. Jetzt ist es halb fünf.
+> 범인들이 아마 복사해 갔을 거라는 건 사실이에요, 크뢰거 씨. 일곱 시에 전화드리려고 했는데, 지금 네 시 반이네요.
+KRÖGER: Halb fünf ist gut. Um sieben wäre schlecht gewesen. Und? Zahlt ihr?
+> 네 시 반이면 괜찮아요. 일곱 시면 나빴겠지. 그래서? 돈 낼 겁니까?
+KATHARINA: Was würden Ihre Kollegen wollen?
+> 동료분들은 어떻게 하길 원하실까요?
+KRÖGER: Die Hälfte würde sagen: Zahlt, damit meine Krankmeldungen nicht im Internet stehen. Die andere Hälfte würde sagen: Wenn ihr Verbrechern Geld gebt, aber bei uns um jedes Zehntelprozent feilscht, brauchen wir nicht mehr zu reden.
+> 절반은 이러겠죠. 내 병가 기록이 인터넷에 안 올라가게 돈 내라. 나머지 절반은 이럴 거고. 범죄자들한테는 돈을 주면서 우리하고는 0.1퍼센트 갖고 흥정하면 더 할 얘기 없다.
+KATHARINA: Und Sie?
+> 그럼 크뢰거 씨는요?
+KRÖGER: Ich sage: Was immer ihr macht, sagt es den Leuten selbst. Und zwar bevor sie es im Radio hören.
+> 나는 이렇게 말하죠. 뭘 하든 사람들한테 직접 말하라. 라디오에서 듣기 전에.
+TOBIAS: Wenn die Daten veröffentlicht werden, verlieren wir vielleicht Kunden. Wenn wir zahlen und es herauskommt, verlieren wir vielleicht die Banken. Die Mainbank hat eine sehr klare Haltung zu Lösegeld.
+> 데이터가 공개되면 고객을 잃을지도 모르지. 우리가 돈을 내고 그게 알려지면 은행을 잃을지도 모르고. 마인방크는 몸값에 대해 아주 분명한 입장이 있어.
+RITTER: Ich muss es fragen: Was sagen wir, wenn ein Journalist wissen will, ob wir verhandeln?
+> 이건 여쭤봐야겠어요. 기자가 우리가 협상 중이냐고 물으면 뭐라고 하죠?
+KATHARINA: Was tun wir denn, Frau Ritter? Verhandeln wir?
+> 우리가 지금 뭘 하고 있는데요, 리터 씨? 협상하고 있나요?
+RITTER: Bis jetzt hat niemand auf die Seite im Darknet geantwortet.
+> 지금까지는 아무도 다크웹 페이지에 답하지 않았어요.
+KATHARINA: Dann sagen wir genau das. Keine Lüge, keine Andeutungen und keine Pokerspiele mit Verbrechern über die Presse.
+> 그럼 정확히 그렇게 말하세요. 거짓말도, 암시도, 언론을 통한 범죄자와의 포커 게임도 없어요.
+RITTER: Und wenn wir zahlen und es nicht herauskommt?
+> 그럼 돈을 내고 그게 알려지지 않으면요?
+KATHARINA: Dann wissen es trotzdem fünf Leute in diesem Raum. Und jeder von ihnen muss es jahrelang für sich behalten. So funktioniert kein Unternehmen, dem man noch etwas glauben soll.
+> 그래도 이 방에 있는 다섯 명은 알죠. 그리고 각자가 몇 년 동안 그걸 혼자 품고 살아야 해요. 사람들이 믿어 줘야 하는 회사는 그런 식으로 돌아가지 않아요.
+
+## 해결·설득 — DER PLAN BIS SIEBEN UHR
+KATHARINA: Ich habe entschieden. Wir zahlen nicht. Und wir sagen es offen.
+> 결정했어요. 우리는 돈을 내지 않습니다. 그리고 그 사실을 공개적으로 말할 거예요.
+TOBIAS: Das kostet uns mindestens dreizehn Millionen mehr.
+> 그러면 최소 1,300만이 더 들어.
+KATHARINA: Ich weiß. Und deshalb brauchen wir bis sieben Uhr einen Plan, der jeden einzelnen dieser Millionen kleiner macht. Herr Behrens, was läuft ohne Netz?
+> 알아. 그래서 일곱 시까지 그 수백만 하나하나를 줄일 계획이 필요해. 베렌스 씨, 네트워크 없이 돌아가는 게 뭐예요?
+BEHRENS: Die Maschinen selbst. Sie bekommen nur keine Aufträge mehr vom Leitsystem. Wenn jemand die Programme von Hand lädt, laufen sie.
+> 기계 자체는요. 관리 시스템에서 작업 지시만 못 받을 뿐이에요. 누가 프로그램을 수동으로 올리면 돌아갑니다.
+NOWAK: Und unsere alte Schleifmaschine von achtundneunzig hing nie am Netz. Die hat Heinz immer von Hand eingestellt. Die läuft — als einzige im ganzen Werk.
+> 그리고 98년식 낡은 연삭기는 한 번도 네트워크에 연결된 적이 없어요. 하인츠가 늘 손으로 세팅했죠. 그건 돌아갑니다. 공장 전체에서 유일하게.
+SELIN: Dann fahren wir die Produktion auf Papier. Auftragszettel von Hand, Lieferscheine von Hand, Bestände mit Zählliste. Wie vor dreißig Jahren.
+> 그럼 생산을 종이로 돌리자. 작업 지시서도 손으로, 납품서도 손으로, 재고는 집계표로. 30년 전처럼.
+BEHRENS: Dafür brauchen Sie Leute, die wissen, wie das ohne Computer geht.
+> 그러려면 컴퓨터 없이 일하는 법을 아는 사람들이 필요합니다.
+KATHARINA: Die haben wir. Sie sind über fünfzig und haben sich jahrelang über das neue System beschwert. — Herr Kröger, sind Sie noch dran?
+> 그런 분들 있어요. 쉰이 넘으셨고, 몇 년 동안 새 시스템에 대해 불평하셨던 분들. — 크뢰거 씨, 아직 계세요?
+KRÖGER: Bin ich. Und ich ahne, was jetzt kommt.
+> 있어요. 그리고 무슨 말이 나올지 짐작이 가네.
+KATHARINA: Ich brauche für drei Wochen Sonderschichten, Papier und Geduld. Und ich brauche die Zustimmung des Betriebsrats, dass Kolleginnen und Kollegen außerhalb ihrer normalen Aufgaben eingesetzt werden.
+> 3주 동안 특근, 종이, 그리고 인내가 필요해요. 그리고 동료분들이 평소 업무 밖의 일에 투입되는 데 대해 노동자평의회의 동의가 필요하고요.
+KRÖGER: Bekommen Sie. Unter einer Bedingung: Um sieben Uhr steht jeder Vorgesetzte am Werkstor und erklärt den Leuten, was passiert ist. Nicht per Mail. Die Mails sind ja verschlüsselt.
+> 드리죠. 조건이 하나 있어요. 일곱 시에 모든 관리자가 공장 정문에 서서 무슨 일이 있었는지 사람들한테 설명할 것. 메일 말고요. 메일은 어차피 암호화됐잖아.
+KATHARINA: Einverstanden. — Herr Wallenstein, ich habe Ihnen einen Plan versprochen.
+> 좋아요. — 발렌슈타인 씨, 계획을 약속드렸죠.
+WALLENSTEIN: Ich höre.
+> 듣고 있습니다.
+KATHARINA: Wir liefern ab morgen früh von Hand. Ihre Teile haben Vorrang vor allen anderen Kunden. Unsere Lagerbestände für Sie reichen nach erster Zählung für fünf Tage. Bis dahin läuft die Fertigung auf Papier.
+> 내일 아침부터 수작업으로 납품합니다. 귀사 부품을 다른 모든 고객보다 우선합니다. 1차 집계로는 귀사용 재고가 5일 치 있어요. 그때까지 생산은 종이로 돌아갑니다.
+WALLENSTEIN: Von Hand. Ihre Konkurrenz hätte mir jetzt erzählt, dass alles unter Kontrolle ist.
+> 수작업이라. 경쟁사들이었다면 지금쯤 다 통제되고 있다고 했을 텐데요.
+KATHARINA: Nichts ist unter Kontrolle, Herr Wallenstein. Aber Sie bekommen Ihre Teile. Und jeden Morgen um acht einen Anruf von mir mit dem Stand.
+> 통제되는 건 아무것도 없어요, 발렌슈타인 씨. 하지만 부품은 받으실 겁니다. 그리고 매일 아침 여덟 시에 제가 직접 상황을 전화로 알려 드리죠.
+WALLENSTEIN: Persönlich? Die Vorstandsvorsitzende?
+> 직접이요? 대표이사가?
+KATHARINA: Persönlich. Bis Ihre Linie und unsere Systeme wieder normal laufen.
+> 직접이요. 귀사 라인과 저희 시스템이 정상으로 돌아올 때까지.
+WALLENSTEIN: … Gut. Die Vertragsstrafe lege ich vorerst auf Eis. Vorerst.
+> …좋습니다. 위약금은 일단 보류하죠. 일단은요.
+RITTER: Dann die Krisenkommunikation. Ich schlage vor: Ad-hoc-Meldung um sieben Uhr dreißig, gleichzeitig eine SMS an alle Beschäftigten und eine Pressemitteilung. Und um zehn eine Pressekonferenz.
+> 그럼 위기 커뮤니케이션입니다. 이렇게 제안할게요. 일곱 시 반에 수시공시, 동시에 전 직원 문자와 보도자료. 그리고 열 시에 기자회견.
+KATHARINA: Was steht in der SMS?
+> 문자엔 뭐라고 써요?
+RITTER: «Liebe Kolleginnen und Kollegen, Ebersbach ist Opfer eines Cyberangriffs geworden. Ihre Arbeitsplätze und Löhne sind nicht gefährdet. Bitte melden Sie sich wie gewohnt zur Schicht. Ihre Vorgesetzten informieren Sie am Werkstor.»
+> «동료 여러분, 에버스바흐가 사이버 공격을 받았습니다. 여러분의 일자리와 임금은 위험하지 않습니다. 평소대로 교대 근무에 나와 주십시오. 관리자들이 공장 정문에서 설명해 드릴 것입니다.»
+SELIN: Und ein Satz fehlt: dass Personaldaten betroffen sein können. Sonst lesen sie es nächste Woche im Darknet und fühlen sich belogen.
+> 그리고 한 문장이 빠졌어요. 인사 데이터가 유출됐을 수 있다는 것. 안 그러면 다음 주에 다크웹에서 그걸 보고 속았다고 느낄 거예요.
+RITTER: Das macht den Leuten Angst.
+> 그러면 사람들이 겁먹어요.
+KATHARINA: Die Angst kommt sowieso, Frau Ritter. Die Frage ist nur, ob sie mit oder ohne Vertrauen kommt. Schreiben Sie den Satz rein. Und eine Telefonnummer, unter der jeder nachfragen kann.
+> 겁은 어차피 와요, 리터 씨. 문제는 그게 신뢰와 함께 오느냐, 신뢰 없이 오느냐죠. 그 문장 넣으세요. 그리고 누구든 문의할 수 있는 전화번호도.
+MORGENROTH: Frau Dr. Brandt, wenn Sie öffentlich sagen, dass Sie nicht zahlen, wird die Gruppe die Daten vermutlich früher veröffentlichen. Sind Sie darauf vorbereitet?
+> 브란트 박사님, 돈을 내지 않겠다고 공개적으로 밝히시면 그 조직은 아마 데이터를 더 일찍 공개할 겁니다. 대비가 되어 있으신가요?
+KATHARINA: Nein. Aber wir werden es sein. Und vielleicht hilft es dem nächsten Unternehmen, wenn eines einmal laut Nein sagt.
+> 아니요. 하지만 대비할 겁니다. 그리고 어느 한 회사가 한 번쯤 큰 소리로 거절하면, 다음 회사에 도움이 될지도 모르죠.
+LENZ: Ich habe Ihre Frühwarnung um vier Uhr zweiundfünfzig aufgenommen. Das mobile Team ist um neun bei Ihnen. Und, Frau Dr. Brandt — Sie wären das erste Unternehmen in diesem Jahr, das das so offen sagt.
+> 네 시 오십이 분에 조기 경보를 접수했습니다. 이동 대응팀은 아홉 시에 도착합니다. 그리고 브란트 박사님, 올해 이렇게 공개적으로 말하는 첫 번째 기업이 되실 겁니다.
+
+## 마무리 — SIEBEN UHR, AM WERKSTOR
+TOBIAS: Die Ad-hoc-Meldung ist raus. Die Aktie wird heute fallen. Zum zweiten Mal in diesem Jahr wegen einer Meldung, die ich mitgeschrieben habe.
+> 수시공시 나갔어. 오늘 주가 떨어지겠지. 올해만 두 번째야, 내가 같이 쓴 공시 때문에.
+KATHARINA: Und beide Male, weil sie wahr war.
+> 그리고 두 번 다 그게 사실이었기 때문이고.
+TOBIAS: Katharina … das mit dem Sicherheitsbudget. Das war mein Fehler. Ich hätte nicht im November bei der IT sparen dürfen.
+> 카타리나… 보안 예산 건. 그건 내 실수야. 11월에 IT에서 아끼면 안 됐어.
+KATHARINA: Im November hattest du elf Wochen Geld. Ich hätte dasselbe gestrichen. Wir haben beide falsch gerechnet. Der Unterschied ist: Jetzt wissen wir es. Und nächste Woche rechnest du mir ein IT-Budget, das größer ist als drei Millionen.
+> 11월에 넌 11주 치 돈밖에 없었어. 나라도 똑같이 삭감했을 거야. 우리 둘 다 계산을 잘못한 거야. 차이는, 이제 우리가 그걸 안다는 거지. 그리고 다음 주엔 300만보다 큰 IT 예산을 계산해 와.
+TOBIAS: Größer als drei Millionen. Das ist das erste Mal, dass du mir sagst, ich soll mehr ausgeben.
+> 300만보다 크게라. 네가 나한테 돈을 더 쓰라고 하는 건 처음이네.
+SELIN: Die Leute stehen am Tor. Fast alle sind gekommen. Und keiner geht wieder nach Hause.
+> 사람들이 정문에 서 있어. 거의 다 왔어. 그리고 아무도 집에 돌아가지 않아.
+YILDIZ: … Frau Dr. Brandt? Ist das wahr mit den Personalakten? Dann weiß ja bald das ganze Internet, wie oft ich krank war.
+> …브란트 박사님? 인사 기록 얘기 사실이에요? 그럼 내가 얼마나 자주 아팠는지 곧 인터넷 전체가 알게 되겠네요.
+KATHARINA: Es ist möglich, Herr Yıldız. Und es tut mir leid. Aber Sie haben es von mir gehört und nicht aus dem Darknet.
+> 그럴 수도 있어요, 이을드즈 씨. 그리고 정말 미안해요. 하지만 다크웹이 아니라 저한테서 들으신 거예요.
+YILDIZ: Na ja. Ich war in sechsundzwanzig Jahren elf Tage krank. Da kann ich mit leben. — Wo sollen wir hin?
+> 뭐, 26년 동안 열하루 아팠어요. 그 정도면 괜찮아요. — 우린 어디로 가면 돼요?
+NOWAK: Frau Dr. Brandt, Spandau hier. Wir haben gerade unsere Bestände gezählt. Und wir haben im Keller noch etwas gefunden.
+> 브란트 박사님, 슈판다우입니다. 방금 재고를 다 셌습니다. 그리고 지하실에서 뭘 하나 더 찾았어요.
+KATHARINA: Was denn?
+> 뭔데요?
+NOWAK: Ein Faxgerät. Es funktioniert. Wir sind wieder online — sozusagen.
+> 팩스기 한 대요. 작동합니다. 다시 온라인이 된 거죠. 말하자면요.

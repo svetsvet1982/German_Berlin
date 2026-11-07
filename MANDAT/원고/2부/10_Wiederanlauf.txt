@@ -1,0 +1,271 @@
+part: 2
+ep: 10
+title_de: Wiederanlauf
+title_ko: 재가동
+scene: 시스템 재가동, 슈판다우 공장 → 하나우
+level: B2
+setting: 4월 셋째 주 월요일 새벽 여섯 시(슈판다우)부터 화요일 저녁까지(하나우 본사 이사회 회의실)
+cast: KATHARINA | Dr. Katharina Brandt · CEO (39)
+cast: TOBIAS | Tobias Wendt · CFO (35)
+cast: SELIN | Selin Aydın · 전환사무국장 (27)
+cast: BEHRENS | Frank Behrens · IT 총괄(CIO) (49)
+cast: NOWAK | Dariusz Nowak · 슈판다우 공장장 (48)
+cast: MATUSCHEK | Heinz Matuschek · 기어 연삭공, 현재 견습생 멘토 (62)
+cast: SATTLER | Hans-Georg Sattler · 생산 담당 이사(COO) (61)
+cast: HOLLMANN | Renate Hollmann · 구매팀 직원, 피싱 메일을 클릭한 당사자 (58)
+cast: LENZ | Dr. Lenz · 연방정보보안청(BSI) 담당관 (가상 인물)
+cast: WALLENSTEIN | Wallenstein · 최대 완성차 고객사 구매 총괄 (가상)
+cast: OBERLE | Frank Oberle · 영업 총괄 (50)
+cast: MONIKA | Monika Schäfer · 이사회 비서실장
+note: ※ NIS2 지침을 반영한 독일 개정 BSI법은 기업의 '경영진(Geschäftsleitung)'에게 직접 책임을 지웁니다. 경영진은 사이버보안 위험관리 조치를 승인하고 그 이행을 감독해야 하며, 정기적으로 교육(Schulung)을 받아야 합니다. 의무를 어기면 회사는 물론 경영진 개인도 손해배상 책임을 질 수 있고, '중요 기관'에는 최대 700만 유로 또는 전 세계 매출의 1.4퍼센트 중 큰 금액의 과징금이 부과될 수 있습니다. 공격 경로로는 피싱으로 빼낸 비밀번호와 패치하지 않은 보안 취약점(Sicherheitslücke)이 가장 흔합니다. 독일 자동차 업계는 협력업체에 TISAX라는 정보보안 평가 인증을 요구합니다. 사무실 IT와 공장 설비 네트워크(OT)를 분리하는 것도 기본 대책입니다. 표현 초점: der Wiederanlauf, die Sicherheitslücke, die Schulung, der Schaden, Aus Fehlern lernen kostet weniger als sie zu wiederholen.
+next: 2부 11화 — «Panzer oder Windräder»(탱크냐 풍차냐) — 베를린의 방산 박람회. 군용 차량 변속기라는 대형 수주 기회가 찾아온다. 그러나 Konrad의 아버지는 "에버스바흐는 무기를 만들지 않는다"고 했다. 일자리 600개냐, 가문의 원칙이냐.
+
+## 도입 — SPANDAU, TAG EINUNDZWANZIG
+NOWAK: Tag einundzwanzig. Sechs Uhr. Herr Behrens, wenn Sie so weit sind — wir sind es.
+> 21일째. 여섯 시. 베렌스 씨, 준비되시면 말씀하세요. 저희는 준비됐습니다.
+BEHRENS: Das neue Netz ist getrennt: Büro auf der einen Seite, Maschinen auf der anderen. Ich schalte jetzt die Fertigungssteuerung frei. Daumen drücken.
+> 새 네트워크는 분리돼 있습니다. 한쪽은 사무 시스템, 다른 쪽은 기계. 이제 생산 관리 시스템을 엽니다. 행운을 빌어 주세요.
+MATUSCHEK: Daumen drücken? In meiner Lehre hat man dafür einen Schalter umgelegt. Und dann lief es.
+> 행운을 빌라고? 내가 견습할 땐 스위치 하나 올리면 그냥 돌아갔는데.
+SELIN: Herr Matuschek! Sie sind wieder da. Wie geht es dem Rücken?
+> 마투셰크 씨! 돌아오셨네요. 허리는 좀 어떠세요?
+MATUSCHEK: Schlecht. Aber meine Maschine war drei Wochen lang die einzige im Werk, die gelaufen ist. Da muss man doch dabei sein, wenn die jungen wieder aufwachen.
+> 안 좋아요. 그래도 3주 동안 이 공장에서 돌아간 건 내 기계 하나뿐이었잖아요. 젊은 기계들이 다시 깨어나는 걸 봐야지.
+BEHRENS: Leitsystem läuft. Verbindung zur Halle drei … steht. Erster Auftrag wird übertragen.
+> 관리 시스템 가동. 3번 공장동 연결… 됐습니다. 첫 작업 지시 전송 중.
+NOWAK: Der Drucker druckt. Auftrag vierzehn-null-null-eins. Zweihundert Zahnräder für Wolfsburg.
+> 프린터가 출력합니다. 작업 지시 14001번. 볼프스부르크행 기어 200개.
+MATUSCHEK: Und? Soll ich jetzt klatschen?
+> 그래서? 이제 박수라도 쳐요?
+SELIN: Ja! Ehrlich gesagt, ja.
+> 네! 솔직히 말하면, 네.
+NOWAK: Einundzwanzig Tage auf Papier und Fax. Ich habe in meinem Leben nicht so viele Zettel unterschrieben.
+> 종이와 팩스로 21일. 평생 이렇게 많은 종이에 서명해 본 적이 없어요.
+BEHRENS: Der Wiederanlauf ist geschafft. Aber das ist nicht das Ende. Morgen müssen wir in Hanau erklären, wie es überhaupt so weit kommen konnte.
+> 재가동은 성공했습니다. 하지만 끝이 아니에요. 내일 하나우에서 애초에 어떻게 이런 일이 벌어졌는지 설명해야 합니다.
+SELIN: Und vor allem, wie wir verhindern, dass es noch einmal passiert. Das ist die eigentliche Frage.
+> 그리고 무엇보다 다시는 일어나지 않게 어떻게 막을지. 그게 진짜 질문이죠.
+
+## 분석 — DIE RECHNUNG
+TOBIAS: Ich fange mit der Rechnung an, weil sie niemand hören will. Der Gesamtschaden liegt nach heutigem Stand bei sechzehn Komma acht Millionen Euro.
+> 아무도 듣고 싶어 하지 않으니까 계산서부터 시작하죠. 오늘 기준으로 총 피해액은 1,680만 유로입니다.
+TOBIAS: Produktionsausfall knapp acht Millionen. Sonderschichten zwei. Forensik und Wiederherstellung drei Komma vier. Ansprüche von Kunden knapp drei. Der Rest: Anwälte, Datenschutz, Hotline.
+> 생산 손실 800만 가까이. 특근 200만. 포렌식과 복구 340만. 고객 청구 300만 가까이. 나머지는 변호사, 개인정보 보호, 상담 전화.
+KATHARINA: Und die Versicherung?
+> 보험은요?
+TOBIAS: Zahlt voraussichtlich neun Komma zwei. Bleiben sieben Komma sechs Millionen bei uns. Das ist fast genau der Betrag, den wir im Tarifvertrag für die Erfolgsbeteiligung eingeplant hatten.
+> 920만 정도 낼 것 같아요. 우리한테 760만이 남죠. 단체협약에서 성과 보너스로 잡아 둔 금액과 거의 같아요.
+SATTLER: Das heißt, die Belegschaft bezahlt diesen Angriff.
+> 그 말은, 직원들이 이번 공격의 대가를 치른다는 거네요.
+TOBIAS: Das heißt, wir müssen den Betrag an anderer Stelle hereinholen. Sonst ja.
+> 다른 데서 그 금액을 메워야 한다는 뜻이죠. 아니면, 네.
+KATHARINA: Und die Daten?
+> 데이터는요?
+BEHRENS: Neun Tage nach unserer Erklärung hat die Gruppe zweihundertachtzig Gigabyte veröffentlicht. Personalakten, Teile der Konstruktionsdaten, einige Verträge.
+> 우리 발표 9일 뒤에 그 조직이 280기가바이트를 공개했습니다. 인사 기록, 설계 데이터 일부, 계약서 몇 건.
+SELIN: Die Hotline hatte bis heute tausendvierhundert Anrufe. Die meisten wollten nur wissen, ob ihre Kontonummer betroffen ist. Bei dreiundzwanzig Leuten war es so. Wir haben mit den Banken neue Konten organisiert.
+> 상담 전화는 지금까지 1,400통이었어요. 대부분 자기 계좌번호가 유출됐는지만 알고 싶어 했죠. 스물세 명이 해당됐어요. 은행들과 협의해서 새 계좌를 만들어 드렸어요.
+KATHARINA: Herr Behrens, ich möchte die Ursachen. Alle. Auch die unangenehmen.
+> 베렌스 씨, 원인을 알고 싶어요. 전부. 불편한 것까지.
+BEHRENS: Es waren zwei Türen. Die erste: ein gestohlenes Passwort ohne Zwei-Faktor-Anmeldung. Die zweite: Unser VPN-Gerät hatte eine bekannte Sicherheitslücke. Das Update war seit Januar verfügbar.
+> 문이 두 개 있었습니다. 첫째, 2단계 인증 없는 도난당한 비밀번호. 둘째, VPN 장비에 알려진 보안 취약점이 있었어요. 업데이트는 1월부터 나와 있었고요.
+TOBIAS: Seit Januar. Und warum wurde es nicht eingespielt?
+> 1월부터요? 그런데 왜 적용을 안 했죠?
+BEHRENS: Weil ich drei Leute für zweitausend Rechner habe und das Update einen Neustart des ganzen VPN erfordert hätte. Mitten in der Tarifrunde, als alle im Homeoffice Zahlen rechneten.
+> 컴퓨터 2,000대에 인력이 세 명뿐인데, 그 업데이트를 하려면 VPN 전체를 재시작해야 했거든요. 다들 재택근무로 숫자를 계산하던 임금협상 한복판에요.
+SATTLER: Also hat am Ende die Tarifrunde den Hackern die Tür aufgehalten.
+> 그러니까 결국 임금협상이 해커들한테 문을 열어 준 거네.
+BEHRENS: Nein, Herr Sattler. Am Ende hat ein Unternehmen, das zehn Jahre lang bei der IT gespart hat, die Tür aufgehalten.
+> 아닙니다, 자틀러 이사님. 결국 10년 동안 IT에서 아껴 온 회사가 문을 열어 준 거죠.
+KATHARINA: Weiter. Was noch?
+> 계속해요. 또 뭐가 있죠?
+BEHRENS: Drittens: Büro und Fertigung hingen im selben Netz. Wer im Einkauf drin war, war auch in der Halle. Viertens: Die Sicherungskopien lagen online. Fünftens: Niemand hat nachts und am Wochenende hingeschaut.
+> 셋째, 사무 시스템과 생산 설비가 같은 네트워크에 있었습니다. 구매팀에 들어온 사람은 공장에도 들어올 수 있었던 거죠. 넷째, 백업이 온라인에 있었습니다. 다섯째, 밤과 주말에는 아무도 지켜보지 않았고요.
+SELIN: Und sechstens: Einunddreißig Prozent klicken auf eine falsche Paketmail.
+> 그리고 여섯째, 31퍼센트가 가짜 택배 메일을 클릭한다.
+TOBIAS: Was kostet es, alle fünf technischen Türen zu schließen?
+> 기술적인 문 다섯 개를 다 닫는 데 얼마가 들죠?
+BEHRENS: Zwei-Faktor-Anmeldung für alle, getrennte Netze, Sicherungen offline, eine Überwachung rund um die Uhr über einen externen Dienstleister, neue Geräte. Über zwei Jahre rund neun Komma fünf Millionen.
+> 전원 2단계 인증, 네트워크 분리, 오프라인 백업, 외부 업체를 통한 24시간 모니터링, 새 장비. 2년에 걸쳐 약 950만.
+TOBIAS: Neun Komma fünf. Im November habe ich drei gestrichen.
+> 950만이라. 11월에 300을 삭감했었는데.
+SELIN: Und wie viel davon ist für Schulung vorgesehen?
+> 그중 교육엔 얼마나 배정돼 있어요?
+BEHRENS: Zweihunderttausend. Ein Online-Kurs, einmal im Jahr.
+> 20만이요. 1년에 한 번 온라인 강좌.
+SELIN: Einmal im Jahr, online. Für Leute, die zum Teil gar keinen eigenen Rechner haben.
+> 1년에 한 번, 온라인. 상당수는 자기 컴퓨터도 없는 사람들한테.
+BEHRENS: Ich weiß. Mehr war im Budget nie drin. Schulung galt in diesem Haus immer als das, was man streicht, wenn es eng wird.
+> 압니다. 예산에 그 이상은 들어간 적이 없어요. 이 회사에서 교육은 늘 사정이 빠듯해지면 제일 먼저 잘리는 항목이었죠.
+TOBIAS: Und eng war es. Seit zehn Jahren.
+> 그리고 사정은 빠듯했죠. 10년 내내.
+MONIKA: Frau Dr. Brandt? Herr Dr. Lenz vom BSI ist da. Persönlich. Und Herr Wallenstein hat sich für vierzehn Uhr angekündigt.
+> 브란트 박사님? BSI의 렌츠 박사님 오셨어요. 직접요. 그리고 발렌슈타인 씨가 두 시에 오신다고 연락 왔어요.
+LENZ: Guten Tag. Ich wollte mir das Ergebnis selbst ansehen. Und ich habe ein paar Fragen für die Abschlussmeldung. Die ist in neun Tagen fällig.
+> 안녕하세요. 결과를 직접 보고 싶었습니다. 그리고 최종 보고서 때문에 몇 가지 여쭤볼 게 있어요. 9일 뒤가 마감입니다.
+KATHARINA: Bitte, Herr Dr. Lenz. Fragen Sie.
+> 하세요, 렌츠 박사님. 물어보세요.
+LENZ: Nach dem neuen Gesetz ist die Geschäftsleitung selbst verantwortlich. Sie muss die Maßnahmen zum Risikomanagement billigen, ihre Umsetzung überwachen und regelmäßig an Schulungen teilnehmen.
+> 개정법에 따르면 경영진이 직접 책임을 집니다. 위험관리 조치를 승인하고, 그 이행을 감독하고, 정기적으로 교육을 받아야 하죠.
+LENZ: Meine erste Frage lautet deshalb: Hat der Vorstand an einer solchen Schulung teilgenommen?
+> 그래서 첫 질문은 이겁니다. 이사회는 그런 교육을 받았습니까?
+KATHARINA: Nein.
+> 아니요.
+LENZ: Und meine zweite: Wusste der Vorstand vor dem Angriff, dass es diese Sicherheitslücken gab?
+> 두 번째 질문입니다. 이사회는 공격 전에 그 보안 취약점들이 있다는 걸 알았습니까?
+
+## 갈등 — WER KLICKT, FLIEGT?
+BEHRENS: Ich habe im Oktober einen Vermerk geschrieben. An den Vorstand. Er liegt Ihnen vor, Herr Dr. Lenz.
+> 10월에 제가 메모를 썼습니다. 이사회 앞으로요. 렌츠 박사님 앞에 놓여 있습니다.
+KATHARINA: Wir wussten es. Nicht jedes Detail, aber das Risiko. Wir haben uns im November entschieden, das Geld für Löhne zu verwenden. Das steht so im Protokoll.
+> 알고 있었습니다. 세부 사항 전부는 아니지만 리스크는요. 11월에 그 돈을 임금에 쓰기로 결정했어요. 회의록에 그렇게 남아 있습니다.
+LENZ: Sie sagen das sehr offen.
+> 아주 솔직하게 말씀하시는군요.
+KATHARINA: Sie würden es ohnehin im Protokoll finden. Ich möchte nicht, dass Sie es dort zuerst lesen.
+> 어차피 회의록에서 찾으실 테니까요. 거기서 먼저 읽으시는 건 원치 않아요.
+LENZ: Das schützt Sie nicht vor möglichen Konsequenzen. Bei wichtigen Einrichtungen sind Bußgelder bis zu sieben Millionen oder eins Komma vier Prozent des weltweiten Umsatzes möglich. Und der Vorstand kann persönlich haften.
+> 그런다고 가능한 처분에서 보호받는 건 아닙니다. 중요 기관에는 최대 700만 유로나 전 세계 매출의 1.4퍼센트까지 과징금이 가능해요. 그리고 이사회가 개인적으로 책임질 수도 있습니다.
+TOBIAS: Eins Komma vier Prozent von eins Komma zwei Milliarden. Das wären knapp siebzehn Millionen. Danke für diese Zahl, Herr Dr. Lenz, sie hat mir gerade noch gefehlt.
+> 12억의 1.4퍼센트면 1,700만 가까이네요. 그 숫자 고맙습니다, 렌츠 박사님. 딱 그게 아쉬웠거든요.
+LENZ: Das Gesetz kennt aber auch die Frage, was ein Unternehmen danach tut. Das wird in meine Bewertung einfließen.
+> 하지만 법은 기업이 그 이후에 무엇을 하느냐도 봅니다. 그건 제 평가에 반영될 거예요.
+SATTLER: Was es danach tut, ist doch klar. Die Frau aus dem Einkauf, die auf den Link geklickt hat, muss gehen. Wer klickt, fliegt. Das muss jeder im Haus verstehen.
+> 그 이후에 뭘 할지는 뻔하죠. 링크를 클릭한 구매팀 그 여직원은 나가야 합니다. 클릭하면 잘린다. 회사 모두가 그걸 알아야 해요.
+SELIN: Herr Sattler, das ist genau falsch.
+> 자틀러 이사님, 그건 완전히 틀렸어요.
+SATTLER: Frau Aydın, sie hat uns sechzehn Millionen gekostet.
+> 아이든 국장, 그 사람 때문에 1,600만이 날아갔어요.
+SELIN: Nein. Ein fehlendes Update, ein fehlender zweiter Faktor und ein Netz ohne Trennung haben uns sechzehn Millionen gekostet. Sie hat nur auf eine Mail geklickt, die so echt aussah, dass ich selbst fast darauf hereingefallen wäre.
+> 아니요. 빠진 업데이트, 빠진 2단계 인증, 분리 안 된 네트워크 때문에 1,600만이 날아간 거예요. 그분은 저도 깜빡 속을 뻔할 만큼 진짜 같은 메일을 클릭했을 뿐이고요.
+SATTLER: Fast. Sie sind nicht hereingefallen.
+> 뻔했다고요. 국장은 안 속았잖아요.
+SELIN: Und wenn ich es gewesen wäre? Würden Sie mich auch entlassen?
+> 만약 저였다면요? 저도 해고하실 건가요?
+SATTLER: … Das ist eine unfaire Frage.
+> …그건 불공정한 질문이에요.
+SELIN: Nein. Das ist die einzige Frage, die zählt. Wenn jeder, der klickt, Angst haben muss, sagt keiner mehr, dass er geklickt hat. Und dann merken wir den nächsten Angriff wieder erst nach elf Tagen.
+> 아니요. 그게 유일하게 중요한 질문이에요. 클릭한 사람이 다 겁먹어야 한다면, 아무도 자기가 클릭했다고 말하지 않을 거예요. 그러면 다음 공격도 또 11일 뒤에야 알게 되는 거죠.
+HOLLMANN: Entschuldigung. Frau Schäfer hat gesagt, ich soll hierherkommen. Renate Hollmann, Einkauf.
+> 실례합니다. 셰퍼 씨가 여기로 오라고 하셔서요. 레나테 홀만, 구매팀입니다.
+KATHARINA: Frau Hollmann, setzen Sie sich bitte.
+> 홀만 씨, 앉으세요.
+HOLLMANN: Ich bleibe lieber stehen. Ich habe hier meine Kündigung geschrieben. Ich arbeite seit vierunddreißig Jahren bei Ebersbach, und ich möchte nicht, dass man mich hinauswirft. Dann gehe ich lieber selbst.
+> 서 있을게요. 여기 사직서를 써 왔어요. 에버스바흐에서 34년을 일했는데, 쫓겨나고 싶지는 않아요. 그럴 바엔 제 발로 나가겠어요.
+SATTLER: Frau Hollmann, das …
+> 홀만 씨, 그건…
+HOLLMANN: Ich weiß, was Sie gesagt haben, Herr Sattler. Im Einkauf weiß es jeder. «Wer klickt, fliegt.»
+> 이사님이 뭐라고 하셨는지 알아요, 자틀러 이사님. 구매팀 사람들은 다 알아요. «클릭하면 잘린다.»
+TOBIAS: Sie wissen schon, dass es nicht nur Ihr Klick war, oder? Ich habe im November das Geld für den zweiten Faktor gestrichen. Wenn hier jemand kündigen müsste, dann eher ich.
+> 홀만 씨 클릭 하나 때문만은 아니라는 거 아시죠? 2단계 인증 예산은 제가 11월에 삭감했어요. 여기서 누가 사직해야 한다면 그건 오히려 저예요.
+HOLLMANN: Sie sind der Finanzvorstand.
+> 이사님은 CFO시잖아요.
+TOBIAS: Eben.
+> 그러니까요.
+HOLLMANN: Die Mail kam angeblich von einem Paketdienst, bei dem ich wirklich etwas erwartet habe. Ein Geschenk für meine Enkelin. Die Seite sah genauso aus wie unsere Anmeldung, also habe ich mein Passwort eingegeben.
+> 그 메일은 제가 정말로 물건을 기다리던 택배 회사에서 온 것처럼 보였어요. 손녀 선물이었죠. 페이지가 우리 회사 로그인 화면이랑 똑같아서 비밀번호를 입력했어요.
+SELIN: Und warum haben Sie es nicht gemeldet?
+> 그런데 왜 신고하지 않으셨어요?
+HOLLMANN: Weil ich gleich danach gemerkt habe, dass etwas nicht stimmt. Und weil ich mich geschämt habe. Ich habe gehofft, es passiert nichts.
+> 바로 뒤에 뭔가 이상하다는 걸 알았거든요. 그리고 부끄러웠어요. 아무 일도 없기를 바랐죠.
+BEHRENS: Hätte sie es am selben Tag gemeldet, hätten wir das Passwort sofort gesperrt. Über diesen Weg wären die Angreifer dann nicht hereingekommen.
+> 그날 바로 신고했다면 비밀번호를 즉시 차단했을 겁니다. 그럼 공격자들이 그 길로는 못 들어왔겠죠.
+SATTLER: Da hören Sie es. Sie hätte es melden müssen.
+> 들으셨죠. 신고를 했어야 했다고요.
+SELIN: Ja. Und warum hat sie es nicht getan? Weil in diesem Haus jeder weiß, was mit Leuten passiert, die einen Fehler zugeben.
+> 네. 그런데 왜 안 했을까요? 이 회사에선 실수를 인정한 사람이 어떻게 되는지 다들 알기 때문이에요.
+SATTLER: Das unterstellen Sie, Frau Aydın.
+> 그건 국장의 억측이에요, 아이든 국장.
+WALLENSTEIN: Ich störe offenbar mitten in einer Familienaussprache. Frau Dr. Brandt, ich bin eine Stunde zu früh. Aber was ich zu sagen habe, dauert nicht lange.
+> 보아하니 집안싸움 한복판에 끼어든 것 같군요. 브란트 박사님, 한 시간 일찍 왔습니다. 하지만 할 말은 오래 걸리지 않아요.
+WALLENSTEIN: Unsere Linie stand zweimal, insgesamt neun Stunden. Unser Schaden: zwei Komma eins Millionen. Und mein Vorstand will, dass wir ab dem Herbst dreißig Prozent Ihres Volumens an einen zweiten Lieferanten geben.
+> 우리 라인이 두 번, 합쳐서 아홉 시간 멈췄습니다. 피해액 210만. 그리고 우리 이사회는 가을부터 귀사 물량의 30퍼센트를 두 번째 공급업체에 넘기길 원합니다.
+OBERLE: Dreißig Prozent? Das wären fast hundert Millionen Umsatz im Jahr.
+> 30퍼센트요? 그럼 연 매출 1억 가까이인데요.
+WALLENSTEIN: Herr Oberle, ich mag Ihr Haus. Aber ich kann meinem Vorstand nicht erklären, warum wir bei einem Lieferanten bleiben, dem man die Konstruktionsdaten im Darknet herunterladen kann.
+> 오베를레 씨, 저는 귀사를 좋아합니다. 하지만 설계 데이터를 다크웹에서 내려받을 수 있는 공급업체에 왜 계속 남아야 하는지 우리 이사회에 설명할 수가 없어요.
+KATHARINA: Herr Wallenstein, darf ich Sie bitten, Platz zu nehmen? Und Frau Hollmann, bitte bleiben Sie auch. Sie gehören zu dieser Antwort dazu.
+> 발렌슈타인 씨, 앉아 주시겠어요? 그리고 홀만 씨, 홀만 씨도 남아 주세요. 이 대답에는 홀만 씨도 포함돼 있으니까요.
+
+## 해결·설득 — DIE BESTE FIREWALL
+KATHARINA: Herr Wallenstein, Sie haben recht mit Ihrem Schaden. Wir übernehmen ihn — aber nicht über einen Anwalt, sondern direkt. Eins Komma vier Millionen sofort, den Rest, sobald unsere Versicherung entschieden hat.
+> 발렌슈타인 씨, 피해에 대해서는 말씀이 맞아요. 저희가 부담하겠습니다. 변호사를 통해서가 아니라 직접요. 140만은 즉시, 나머지는 보험사가 결정하는 대로.
+WALLENSTEIN: Und die dreißig Prozent?
+> 그럼 30퍼센트는요?
+KATHARINA: Dazu ein Angebot. Erstens: Sie bekommen den vollständigen Forensikbericht. Nicht die Zusammenfassung — den ganzen Bericht. Welcher Lieferant hat Ihnen das je gegeben?
+> 그에 대해서는 제안이 있어요. 첫째, 포렌식 보고서 전체를 드리겠습니다. 요약본이 아니라 전문을요. 어느 공급업체가 그런 걸 드린 적 있나요?
+WALLENSTEIN: Keiner. Die meisten bestreiten, dass sie überhaupt angegriffen wurden.
+> 한 곳도 없죠. 대부분은 공격받은 사실 자체를 부인하니까요.
+KATHARINA: Zweitens: Wir lassen uns innerhalb von sechs Monaten nach TISAX bewerten, mit dem höchsten Schutzniveau. Wenn wir es nicht schaffen, geben wir Ihnen die dreißig Prozent freiwillig.
+> 둘째, 6개월 안에 최고 보호 등급으로 TISAX 평가를 받겠습니다. 해내지 못하면 30퍼센트는 저희가 자발적으로 넘기죠.
+BEHRENS: Sechs Monate ist sportlich. Aber mit dem neuen Budget machbar.
+> 6개월이면 빠듯합니다. 하지만 새 예산이 있으면 가능해요.
+KATHARINA: Und drittens: Ein Unternehmen, das gerade angegriffen wurde und offen darüber spricht, ist sicherer als eines, das es noch vor sich hat und so tut, als könne ihm nichts passieren. Ihr zweiter Lieferant, Herr Wallenstein — wissen Sie, ob er schon einmal angegriffen wurde?
+> 그리고 셋째, 방금 공격을 당하고 그걸 공개적으로 말하는 회사가, 아직 공격을 당하지 않았는데 자기한테는 아무 일도 없을 거라고 믿는 회사보다 안전합니다. 발렌슈타인 씨, 두 번째 공급업체가 공격을 받은 적이 있는지 아세요?
+WALLENSTEIN: … Nein.
+> …모릅니다.
+KATHARINA: Wir schon. Bei uns wissen Sie es.
+> 저희는 알아요. 저희 경우엔 아시잖아요.
+WALLENSTEIN: Sie sind eine anstrengende Verhandlungspartnerin, Frau Dr. Brandt. Gut. Die Entscheidung über die dreißig Prozent setze ich bis zum TISAX-Ergebnis aus. Und meinem Vorstand schicke ich Ihren Forensikbericht.
+> 피곤한 협상 상대시군요, 브란트 박사님. 좋습니다. 30퍼센트에 대한 결정은 TISAX 결과가 나올 때까지 보류하죠. 그리고 우리 이사회에는 귀사 포렌식 보고서를 보내겠습니다.
+KATHARINA: Danke. — Und jetzt zu uns. Tobias, das IT-Budget.
+> 감사합니다. — 이제 우리 얘기를 하죠. 토비아스, IT 예산.
+TOBIAS: Neun Komma fünf Millionen Technik über zwei Jahre. Das trage ich mit. Aber ich will Zahlen, an denen ich sehe, ob es wirkt. Bei Technik kann ich das messen. Bei Schulungen nicht.
+> 2년간 기술 쪽에 950만. 그건 동의해. 하지만 효과가 있는지 볼 수 있는 숫자가 필요해. 기술은 측정할 수 있지만 교육은 못 하잖아.
+SELIN: Doch, kannst du. Mit demselben Test wie im Februar. Einunddreißig Prozent Klicks. Ich verspreche dir: In einem Jahr sind es unter zehn.
+> 아니, 할 수 있어. 2월이랑 똑같은 테스트로. 클릭률 31퍼센트. 약속할게. 1년 뒤엔 10퍼센트 밑이야.
+TOBIAS: Wie?
+> 어떻게?
+SELIN: Nicht mit einem Online-Kurs einmal im Jahr. Mit zehn Minuten an der Maschine, jeden Monat, in fünf Sprachen. Die Azubis schulen die Meister — die kennen die Tricks am Handy besser als jeder von uns.
+> 1년에 한 번 온라인 강좌가 아니라, 매달 기계 옆에서 10분씩, 5개 국어로. 견습생들이 마이스터들을 가르치는 거야. 휴대폰 속임수는 걔들이 우리 누구보다 잘 아니까.
+SELIN: Und eine Regel: Wer klickt und es sofort meldet, bekommt keinen Ärger, sondern ein Dankeschön. Denn jede Meldung in der ersten Stunde ist mehr wert als jede Firewall.
+> 그리고 규칙 하나. 클릭하고 바로 신고한 사람은 혼나는 게 아니라 고맙다는 말을 듣는다. 첫 한 시간 안의 신고 하나가 어떤 방화벽보다 값지니까.
+SATTLER: Und wer nicht meldet?
+> 신고 안 하는 사람은요?
+SELIN: Mit dem reden wir. Aber das Ziel ist, dass niemand mehr Grund hat, es zu verschweigen.
+> 그 사람과는 대화를 하죠. 하지만 목표는 아무도 숨길 이유가 없게 만드는 거예요.
+SELIN: Frau Hollmann, ich hätte eine Bitte an Sie. Würden Sie im ersten Schulungsvideo erzählen, was Ihnen passiert ist? Mit Ihrem Namen. Niemand ist überzeugender als jemand, dem es wirklich passiert ist.
+> 홀만 씨, 부탁이 하나 있어요. 첫 교육 영상에서 무슨 일이 있었는지 이야기해 주시겠어요? 실명으로요. 실제로 그 일을 겪은 사람만큼 설득력 있는 사람은 없으니까요.
+HOLLMANN: Ich? Vor der Kamera? Und dann lacht der ganze Einkauf über mich.
+> 제가요? 카메라 앞에서요? 그럼 구매팀 전체가 저를 비웃을 텐데요.
+KATHARINA: Niemand lacht, Frau Hollmann. Denn vor Ihnen kommt jemand anderes. Der Vorstand macht die erste Schulung — öffentlich, in der Kantine, am Mittwoch. Wir vier. Und wir machen denselben Phishing-Test wie alle anderen.
+> 아무도 안 비웃어요, 홀만 씨. 홀만 씨보다 먼저 나올 사람들이 있으니까요. 첫 교육은 이사회가 받습니다. 공개적으로, 구내식당에서, 수요일에. 우리 넷 모두. 그리고 다른 사람들과 똑같은 피싱 테스트를 받을 거예요.
+TOBIAS: Moment. Wir machen den Test auch?
+> 잠깐. 우리도 그 테스트를 받는다고?
+KATHARINA: Und das Ergebnis hängt am Schwarzen Brett.
+> 그리고 결과는 게시판에 붙을 거야.
+TOBIAS: Wenn ich durchfalle, kündige ich wirklich.
+> 내가 떨어지면 진짜 사직할 거야.
+SATTLER: … Frau Hollmann. Ich habe gesagt «Wer klickt, fliegt». Das war dumm. Bitte nehmen Sie Ihre Kündigung zurück. Ich brauche Sie im Einkauf. Sie kennen jeden Lieferanten seit dreißig Jahren.
+> …홀만 씨. 제가 «클릭하면 잘린다»고 했죠. 어리석은 말이었습니다. 사직서는 거둬 주세요. 구매팀에 홀만 씨가 필요해요. 30년 동안 모든 공급업체를 알아 온 분이잖아요.
+HOLLMANN: … Gut. Aber ins Video kommt dann auch, dass Sie das gesagt haben, Herr Sattler.
+> …알겠어요. 대신 이사님이 그런 말 하셨다는 것도 영상에 넣을 거예요, 자틀러 이사님.
+TOBIAS: Dann ändere ich die Zahlen. Neun Komma fünf für Technik, eins Komma zwei für Schulung über zwei Jahre. Aus Fehlern lernen kostet weniger, als sie zu wiederholen. Das ist die billigste Zeile in meinem ganzen Budget.
+> 그럼 숫자를 바꿀게. 2년간 기술에 950만, 교육에 120만. 실수에서 배우는 게 실수를 되풀이하는 것보다 싸게 먹히니까. 이게 내 예산 전체에서 제일 싼 항목이야.
+LENZ: Frau Dr. Brandt, ich schreibe in meine Bewertung, was ich heute gesehen habe. Einen Vorstand, der Fehler zugibt und als Erster zur Schulung geht. Das sehe ich nicht oft.
+> 브란트 박사님, 오늘 본 걸 평가서에 쓰겠습니다. 실수를 인정하고 가장 먼저 교육을 받으러 가는 이사회. 자주 보는 일이 아니죠.
+
+## 마무리 — DIENSTAG, ABENDS
+SELIN: Frau Hollmann hat mir gerade eine Mail geschickt. Betreff: «Bitte nicht klicken — das ist ein Test». Sie hat schon angefangen zu üben.
+> 홀만 씨가 방금 메일을 보냈어. 제목이 «클릭하지 마세요 — 이건 테스트예요». 벌써 연습을 시작하셨네.
+TOBIAS: Und ich habe Angst vor Mittwoch. Ich habe in meinem Leben noch nie eine Prüfung vor einer Kantine geschrieben.
+> 그리고 난 수요일이 무서워. 평생 구내식당 앞에서 시험을 쳐 본 적이 없거든.
+KATHARINA: Du hast vor fünf Banken bestanden. Die Kantine ist härter, aber fairer.
+> 은행 다섯 곳 앞에서도 통과했잖아. 구내식당이 더 어렵긴 해도 더 공정해.
+OBERLE: Frau Dr. Brandt, haben Sie zwei Minuten? Es ist etwas Seltsames passiert. Ein Anruf, den ich nicht erwartet habe.
+> 브란트 박사님, 2분만 시간 있으세요? 이상한 일이 생겼습니다. 생각지도 못한 전화가 왔어요.
+KATHARINA: Seltsam im guten oder im schlechten Sinn?
+> 좋은 쪽으로 이상한 거예요, 나쁜 쪽으로 이상한 거예요?
+OBERLE: Das müssen Sie entscheiden. Rheinwerk Landsysteme hat angerufen. Die bauen Fahrzeuge für die Bundeswehr. Sie haben gelesen, dass wir drei Wochen lang auf Papier produziert und trotzdem geliefert haben.
+> 그건 박사님이 판단하셔야 할 것 같아요. 라인베르크 란트지스테메에서 전화가 왔습니다. 연방군 차량을 만드는 회사예요. 우리가 3주 동안 종이로 생산하면서도 납품했다는 기사를 읽었답니다.
+TOBIAS: Und?
+> 그래서요?
+OBERLE: Sie suchen einen Lieferanten für Getriebe in einem neuen Radpanzer. Sehr großer Auftrag, über acht Jahre. Und sie wollen uns im Mai auf der Wehrtechnik-Messe in Berlin treffen.
+> 새 차륜형 장갑차에 들어갈 변속기 공급업체를 찾고 있대요. 8년짜리 아주 큰 수주예요. 5월에 베를린 방산 박람회에서 만나고 싶답니다.
+KATHARINA: Herr Oberle, weiß Herr Ebersbach davon?
+> 오베를레 씨, 에버스바흐 회장님도 아세요?
+OBERLE: Ich wollte es Ihnen zuerst sagen. Sie wissen ja, was sein Vater immer gesagt hat.
+> 박사님께 먼저 말씀드리려고 했어요. 회장님 아버님이 늘 하시던 말씀, 아시잖아요.
+KATHARINA: Nein. Was hat er gesagt?
+> 아니요. 뭐라고 하셨는데요?
+OBERLE: «Ebersbach baut keine Waffen.» Es hängt in Hanau an der Wand im Treppenhaus. Seit neunzehnhundertzweiundfünfzig.
+> «에버스바흐는 무기를 만들지 않는다.» 하나우 본사 계단 벽에 걸려 있어요. 1952년부터.

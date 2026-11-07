@@ -1,0 +1,266 @@
+part: 1
+ep: 2
+title_de: Feindliche Übernahme
+title_ko: 적대적 인수
+scene: 화요일 아침, Mainbank 본사 이사회실
+level: B1+
+setting: 2주 뒤 화요일 오전 아홉 시부터 오후 다섯 시까지, 마인강이 내려다보이는 Mainbank AG 본사 38층 이사회실
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트, 전직 투자은행원 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
+cast: LORENZ | Jan-Hendrik Lorenz · 시니어 파트너 (58)
+cast: HARTMANN | Dr. Hartmann · Mainbank AG 재무담당 이사 (가상)
+cast: KESSLER | Dr. Bernhard Kessler · Mainbank AG 이사회 의장(Vorstandsvorsitzender) (가상, 64)
+cast: WINTER | Sabine Winter · Mainbank AG 리테일·지점 담당 이사 (가상)
+note: ※ Hellweg는 피치에서 이겨 4주짜리 전략 분석을 수임했습니다. 독일 주식회사(AG)는 경영을 맡는 이사회(Vorstand)와 이를 감독하는 감사회(Aufsichtsrat)로 나뉘며, 이 화의 Kessler는 이사회 의장, 즉 은행의 최고경영자입니다. 은행 지분을 10% 이상 취득하려면 유럽중앙은행(EZB) 은행감독의 승인을 받아야 합니다(적격 지분 심사, Inhaberkontrollverfahren). 그래서 Banca Ligure는 9.8%에서 멈추고 승인을 신청했습니다. 은행의 효율을 재는 대표 지표인 비용수익비율(Cost-Income-Ratio)은 수익 1유로를 벌기 위해 쓰는 비용의 비율로, 낮을수록 좋습니다. 2008년 금융위기 때 연방정부가 한 대형 은행에 지분을 투입해 구제한 일이 있어, '국가가 지분을 사서 인수를 막아 줄 것'이라는 기대가 종종 나오지만, 같은 EU 안의 매수자를 막기 위한 국가 개입은 정치적·법적으로 어렵습니다. 은행과 인물은 모두 가상입니다. 표현 초점: die Stand-alone-Strategie, die Synergie, die Kostenbasis, Ich verstehe Ihre Sorge, aber…
+next: 1부 3화 — «Filialen auf dem Land»(시골의 지점들) — 비용 절감안에는 지점 40곳 폐쇄가 들어 있다. Selin은 포겔스베르크의 '17번 지점'을 찾아가 고객과 직원을 인터뷰하고, 이동식 지점 버스와 공동 지점이라는 대안을 데이터로 증명한다. Selin이 처음으로 Katharina를 설득하는 날, 두 사람의 호칭이 바뀐다.
+
+## 도입 — DER BLICK AUF DEN MAIN
+TOBIAS: Achtunddreißigster Stock. Von hier sieht man den ganzen Main — und die Türme aller Konkurrenten.
+> 38층이네. 여기선 마인강이 다 보여. 경쟁사 빌딩들까지 전부.
+SELIN: Und dahinten? Ist das die Europäische Zentralbank?
+> 저 뒤에는? 저게 유럽중앙은행이야?
+TOBIAS: Ja. Die Aufsicht schaut sozusagen direkt ins Fenster. Sehr praktisch für die Bank. Oder sehr unangenehm.
+> 응. 감독기관이 말하자면 창문으로 바로 들여다보는 셈이지. 은행한테는 아주 편리하거나, 아주 불편하거나.
+KATHARINA: Guten Morgen. Frau Aydın, haben Sie die Folien noch einmal geprüft?
+> 좋은 아침. 아이든 씨, 슬라이드 한 번 더 확인했어요?
+SELIN: Dreimal, Frau Dr. Brandt. Seite vierzehn hat jetzt auch die richtige Farbe.
+> 세 번이요, 브란트 박사님. 14페이지 색깔도 이제 맞아요.
+KATHARINA: Gut. Die Farbe ist heute unser kleinstes Problem. Tobias, wie schlimm ist es?
+> 좋아요. 오늘 색깔은 제일 작은 문제예요. 토비아스, 얼마나 심각해?
+TOBIAS: Die Cost-Income-Ratio liegt bei vierundsiebzig Prozent. Die Konkurrenz liegt bei achtundfünfzig.
+> 비용수익비율이 74퍼센트야. 경쟁사들은 58이고.
+SELIN: Das heißt, von jedem Euro Ertrag gibt die Bank vierundsiebzig Cent für Kosten aus?
+> 그러니까 수익 1유로마다 은행이 74센트를 비용으로 쓴다는 거야?
+TOBIAS: Genau. Und wenn die Zinsen weiter sinken, sind es bald achtzig.
+> 맞아. 금리가 더 내려가면 곧 80이 될 거야.
+HARTMANN: Guten Morgen, Frau Dr. Brandt. Darf ich Ihnen vorher noch etwas sagen? Ganz unter uns.
+> 안녕하세요, 브란트 박사님. 시작하기 전에 한 가지 말씀드려도 될까요? 우리끼리만요.
+KATHARINA: Natürlich, Herr Dr. Hartmann.
+> 물론이죠, 하르트만 박사님.
+HARTMANN: Herr Dr. Kessler führt die Bank seit zwölf Jahren. Er hört nicht gern, dass sie allein nicht überlebt. Bitte seien Sie … vorsichtig.
+> 케슬러 박사님은 12년째 이 은행을 이끌고 계십니다. 은행이 혼자서는 못 살아남는다는 말을 좋아하지 않으세요. 부디… 조심해 주십시오.
+
+## 장면 1 — DIE ZAHLEN AUF DEM TISCH
+KATHARINA: Wir sagen nicht, dass sie nicht überlebt. Wir sagen, was das Überleben kostet.
+> 저희는 못 살아남는다고 말하지 않을 겁니다. 살아남는 데 얼마가 드는지를 말씀드리는 거죠.
+HARTMANN: Für ihn ist das vielleicht dasselbe.
+> 그분께는 그게 같은 말일지도 모릅니다.
+KESSLER: Meine Damen und Herren, guten Morgen. Wir haben Zeit bis siebzehn Uhr. Frau Dr. Brandt, bitte.
+> 신사 숙녀 여러분, 좋은 아침입니다. 오후 다섯 시까지 시간이 있습니다. 브란트 박사, 시작하시죠.
+KATHARINA: Vielen Dank, Herr Dr. Kessler. Wir haben zwei Wochen lang analysiert. Heute zeigen wir Ihnen, was wir gefunden haben — auch das, was unbequem ist.
+> 감사합니다, 케슬러 박사님. 저희는 2주 동안 분석했습니다. 오늘은 저희가 찾은 것을 보여 드리겠습니다. 불편한 내용까지 포함해서요.
+KESSLER: Unbequem sind wir gewohnt. Die Italiener sind auch unbequem.
+> 불편한 건 익숙합니다. 이탈리아 사람들도 불편하니까요.
+KATHARINA: Dann fangen wir mit der Lage an. Herr Wendt?
+> 그럼 현황부터 시작하겠습니다. 벤트 씨?
+TOBIAS: Die Banca Ligure hält neun Komma acht Prozent. Für mehr als zehn Prozent braucht sie die Genehmigung der EZB-Bankenaufsicht. Den Antrag hat sie letzte Woche gestellt — bis neunundzwanzig Komma neun Prozent.
+> 방카 리구레는 9.8퍼센트를 갖고 있습니다. 10퍼센트를 넘기려면 유럽중앙은행 은행감독의 승인이 필요합니다. 지난주에 신청서를 냈습니다. 29.9퍼센트까지요.
+KESSLER: Und die EZB wird das genehmigen?
+> 그래서 유럽중앙은행이 그걸 승인할까요?
+TOBIAS: Sehr wahrscheinlich. Die Aufsicht prüft, ob der Käufer solide ist. Ob uns das gefällt, prüft sie nicht.
+> 거의 확실합니다. 감독기관은 매수자가 건전한지를 심사합니다. 그게 저희 마음에 드는지는 심사하지 않죠.
+KESSLER: Weiter.
+> 계속하세요.
+TOBIAS: Ihre Kostenbasis liegt bei einer Milliarde und vierzig Millionen Euro pro Jahr. Ihre Erträge liegen bei einer Milliarde vierhundertzehn Millionen.
+> 귀행의 비용 기반은 연간 10억 4천만 유로입니다. 수익은 14억 1천만 유로이고요.
+TOBIAS: Das ergibt eine Cost-Income-Ratio von vierundsiebzig Prozent. Vergleichbare Banken liegen bei achtundfünfzig.
+> 그러면 비용수익비율이 74퍼센트가 됩니다. 비슷한 규모의 은행들은 58퍼센트입니다.
+KESSLER: Vergleichbare Banken haben auch keine hundertsechzig Filialen in Hessen.
+> 비슷한 은행들은 헤센에 지점이 160개나 있지도 않죠.
+TOBIAS: Richtig. Das ist ein Teil der Erklärung. Der andere Teil ist die IT. Ihr Kernbankensystem ist dreiundzwanzig Jahre alt.
+> 맞습니다. 그게 설명의 일부입니다. 나머지는 IT예요. 귀행의 코어뱅킹 시스템은 23년 됐습니다.
+HARTMANN: Das stimmt leider. Wir zahlen jedes Jahr viel Geld, nur damit es nicht abstürzt.
+> 유감스럽게도 사실입니다. 다운되지 않게 하는 데만 해마다 큰돈을 쓰고 있어요.
+KATHARINA: Und dann gibt es die gute Nachricht. Frau Aydın?
+> 그리고 좋은 소식도 있습니다. 아이든 씨?
+SELIN: Das Firmenkundengeschäft ist sehr stark. Achtundvierzig Prozent des Gewinns kommen aus dem Mittelstand. Und die Kunden sind treu: Im Durchschnitt bleiben sie siebzehn Jahre.
+> 기업고객 사업은 아주 탄탄합니다. 이익의 48퍼센트가 중견기업에서 나옵니다. 고객 충성도도 높아서, 평균 17년을 거래합니다.
+KESSLER: Sehen Sie. Das ist die Mainbank. Das können die Italiener nicht kaufen.
+> 보세요. 그게 마인방크입니다. 그건 이탈리아 사람들이 살 수 없어요.
+SELIN: Genau das zeigen auch die Daten, Herr Dr. Kessler. In unserer Umfrage sagen einundsechzig Prozent der Firmenkunden: Wenn die Entscheidungen nicht mehr in Frankfurt fallen, prüfen wir einen Wechsel.
+> 데이터도 바로 그걸 보여 줍니다, 케슬러 박사님. 저희 설문에서 기업고객의 61퍼센트가 이렇게 답했어요. 결정이 더 이상 프랑크푸르트에서 내려지지 않으면 거래 은행을 바꾸는 걸 검토하겠다고요.
+KESSLER: Also ist die Unabhängigkeit auch ein Geschäftsargument. Schreiben Sie das groß auf die Folie.
+> 그러니까 독립은 사업적 논거이기도 하다는 거군요. 그걸 슬라이드에 크게 쓰세요.
+KATHARINA: Das tun wir. Aber jetzt kommt die eigentliche Frage: Was kostet eine Stand-alone-Strategie?
+> 그렇게 하겠습니다. 하지만 이제 진짜 질문입니다. 독자 생존 전략에는 얼마가 들까요?
+TOBIAS: Um auf eine Cost-Income-Ratio von sechzig Prozent zu kommen, müssen Sie die Kosten um hundertneunzig Millionen Euro pro Jahr senken.
+> 비용수익비율을 60퍼센트로 낮추려면 연간 비용을 1억 9천만 유로 줄이셔야 합니다.
+HARTMANN: Hundertneunzig Millionen. Das ist fast ein Fünftel der Kostenbasis.
+> 1억 9천만. 비용 기반의 거의 5분의 1이군요.
+TOBIAS: Dazu kommt ein neues Kernbankensystem. Investition: etwa zweihundertachtzig Millionen über drei Jahre.
+> 거기에 새 코어뱅킹 시스템이 더해집니다. 투자액은 3년간 약 2억 8천만입니다.
+KESSLER: Und die Stellen?
+> 그럼 일자리는요?
+TOBIAS: Etwa elfhundert Stellen in drei Jahren. Ein Teil über den Ruhestand, ein Teil über Filialschließungen.
+> 3년간 약 1,100개 일자리입니다. 일부는 정년퇴직으로, 일부는 지점 폐쇄로요.
+KESSLER: Elfhundert. Von sechstausend.
+> 1,100개. 6천 명 중에서.
+KATHARINA: Und jetzt zum Vergleich die Fusion mit der Banca Ligure. Die Synergien schätzen wir auf zweihundertvierzig Millionen pro Jahr.
+> 이제 비교를 위해 방카 리구레와의 합병을 보겠습니다. 시너지는 연간 2억 4천만으로 추정합니다.
+WINTER: Darf ich kurz einhaken? „Synergie" klingt immer so freundlich. Was heißt das konkret?
+> 잠깐 끼어들어도 될까요? '시너지'라는 말은 늘 참 다정하게 들려요. 구체적으로 무슨 뜻이죠?
+TOBIAS: Konkret heißt das: eine IT statt zwei, eine Zentrale statt zwei. Und etwa achtzehnhundert Stellen weniger — vor allem hier in Frankfurt.
+> 구체적으로는 이렇습니다. IT가 둘이 아니라 하나, 본사도 둘이 아니라 하나. 그리고 일자리가 약 1,800개 줄어듭니다. 주로 여기 프랑크푸르트에서요.
+WINTER: Also mehr Stellen als bei der Stand-alone-Strategie.
+> 그러니까 독자 생존 전략보다 일자리가 더 많이 줄어드는 거네요.
+KATHARINA: Ja. Auf beiden Wegen fallen Stellen weg. Der Unterschied ist: Wer entscheidet darüber — Frankfurt oder Genua?
+> 네. 두 길 모두 일자리가 줄어듭니다. 차이는 그걸 누가 결정하느냐입니다. 프랑크푸르트냐, 제노바냐.
+KESSLER: Frau Dr. Brandt, das ist mir zu einfach.
+> 브란트 박사, 그건 너무 단순합니다.
+
+## 장면 2 — ZWANZIG MINUTEN PAUSE
+KESSLER: Ich führe diese Bank seit zwölf Jahren. Wir haben die Finanzkrise überlebt, die Nullzinsen, die Pandemie. Und jetzt erzählen Sie mir, wir sind zu teuer?
+> 나는 이 은행을 12년째 이끌고 있습니다. 금융위기도, 제로금리도, 팬데믹도 버텨 냈어요. 그런데 이제 와서 우리가 너무 비싸다고 말하는 겁니까?
+KATHARINA: Ich verstehe Ihre Sorge, aber die Zahlen kommen aus Ihren eigenen Geschäftsberichten.
+> 걱정은 이해합니다만, 이 숫자들은 귀행의 사업보고서에서 나온 겁니다.
+KESSLER: Zahlen kann man so oder so lesen. Ihre Vergleichsbanken sind Onlinebanken ohne Filialen. Das ist kein fairer Vergleich.
+> 숫자는 이렇게도 저렇게도 읽을 수 있어요. 당신들이 비교한 은행들은 지점 없는 온라인 은행이잖아요. 공정한 비교가 아닙니다.
+TOBIAS: Entschuldigung, Herr Dr. Kessler, das stimmt nicht ganz. In der Gruppe sind auch zwei Regionalbanken mit vielen Filialen. Die liegen bei zweiundsechzig Prozent.
+> 죄송합니다만, 케슬러 박사님, 그건 꼭 그렇지 않습니다. 비교군에는 지점이 많은 지역은행도 두 곳 있습니다. 그쪽은 62퍼센트입니다.
+KESSLER: Herr Wendt, Sie waren Investmentbanker, nicht wahr?
+> 벤트 씨, 투자은행원이었죠?
+TOBIAS: Acht Jahre lang, ja.
+> 8년 동안요, 네.
+KESSLER: Dann wissen Sie ja, wie man eine Bank klein rechnet, damit man sie billig kaufen kann.
+> 그럼 은행을 싸게 사려면 어떻게 작게 계산하는지 잘 알겠군요.
+KATHARINA: Herr Dr. Kessler, ich bitte Sie. Niemand rechnet hier etwas klein. Wir haben kein Interesse an einem bestimmten Ergebnis.
+> 케슬러 박사님, 제발요. 여기서 아무도 뭘 작게 계산하지 않습니다. 저희는 특정한 결과에 아무 이해관계가 없습니다.
+KESSLER: Wirklich nicht? Herr Lorenz hat mich letzte Woche angerufen. Er hat von den „großen Chancen einer Partnerschaft" gesprochen.
+> 정말요? 로렌츠 씨가 지난주에 내게 전화했어요. '파트너십의 큰 기회'에 대해 말하더군요.
+KATHARINA: … Das wusste ich nicht.
+> …그건 몰랐습니다.
+KESSLER: Dann sprechen Sie vielleicht zuerst mit Ihrem eigenen Haus. Wir machen eine Pause. Zwanzig Minuten.
+> 그럼 먼저 당신 회사 사람들과 얘기해 보시죠. 휴식하겠습니다. 20분.
+SELIN: Er ist gegangen. Einfach so.
+> 그냥 나가 버리셨네요.
+HARTMANN: Es tut mir leid. Ich hatte Sie gewarnt.
+> 죄송합니다. 경고 드렸었죠.
+KATHARINA: Schon gut, Herr Dr. Hartmann. Geben Sie uns bitte zehn Minuten allein.
+> 괜찮습니다, 하르트만 박사님. 저희끼리 10분만 주세요.
+TOBIAS: Lorenz hat ihn angerufen. Hinter deinem Rücken.
+> 로렌츠가 전화했대. 네 뒤에서.
+KATHARINA: Ich weiß, Tobias. Ich war dabei.
+> 알아, 토비아스. 나도 거기 있었어.
+SELIN: Was machen wir jetzt? Ändern wir die Zahlen?
+> 이제 어떻게 해요? 숫자를 바꾸나요?
+TOBIAS: Die Zahlen ändern wir nicht. Die Zahlen sind richtig.
+> 숫자는 안 바꿔. 숫자는 맞으니까.
+KATHARINA: Tobias hat recht. Aber vielleicht haben wir sie falsch erzählt.
+> 토비아스 말이 맞아요. 그런데 우리가 숫자를 잘못 전달했는지도 몰라요.
+SELIN: Wie meinen Sie das?
+> 무슨 말씀이세요?
+KATHARINA: Wir haben mit dem Problem angefangen. Vierundsiebzig Prozent, zu alt, zu teuer. Für ihn klingt das wie ein Urteil über zwölf Jahre seiner Arbeit.
+> 우리는 문제부터 시작했어요. 74퍼센트, 너무 낡았고, 너무 비싸다. 그분에겐 그게 자기 12년에 대한 판결처럼 들리는 거예요.
+TOBIAS: Es ist auch ein Urteil über zwölf Jahre.
+> 12년에 대한 판결이 맞기도 하지.
+KATHARINA: Vielleicht. Aber mit einem Urteil gewinnt man keinen Kunden. Man verliert ihn.
+> 그럴지도. 하지만 판결로는 고객을 얻지 못해. 잃을 뿐이지.
+LORENZ: Ah, hier seid ihr. Ich habe gehört, es gab ein kleines Gewitter.
+> 아, 여기들 있었군. 작은 천둥이 쳤다며.
+KATHARINA: Jan-Hendrik. Du hast Kessler letzte Woche angerufen. Und du hast von einer Partnerschaft gesprochen.
+> 얀헨드릭. 지난주에 케슬러한테 전화했죠. 그리고 파트너십 얘기를 했고요.
+LORENZ: Ich rufe viele Leute an. Das ist mein Beruf.
+> 난 많은 사람한테 전화해. 그게 내 일이야.
+KATHARINA: Und das ist mein Mandat. Jetzt glaubt der Kunde, dass wir für die Italiener rechnen.
+> 그리고 이건 제 수임 건이에요. 이제 고객은 우리가 이탈리아 쪽을 위해 계산한다고 믿고 있어요.
+LORENZ: Dann zeig ihm doch die Fusion als beste Option. Deine eigenen Zahlen sagen das.
+> 그럼 합병이 최선이라고 보여 줘. 네 숫자가 그렇게 말하잖아.
+TOBIAS: Nein, Herr Lorenz. Die Zahlen sagen: Beide Wege sind teuer. Die Stand-alone-Strategie ist machbar — aber nur mit einem harten Programm.
+> 아니요, 로렌츠 씨. 숫자는 이렇게 말합니다. 두 길 다 비싸다. 독자 생존 전략은 가능합니다. 다만 강도 높은 프로그램이 있어야만요.
+LORENZ: Machbar. Herr Wendt, „machbar" ist das Wort, das Berater benutzen, wenn sie „unwahrscheinlich" meinen.
+> 가능하다라. 벤트 씨, '가능하다'는 컨설턴트들이 '가능성 낮다'를 뜻할 때 쓰는 말이죠.
+TOBIAS: Bei mir heißt „machbar" machbar. Für etwas anderes bin ich nicht kreativ genug.
+> 저한테 '가능하다'는 가능하다는 뜻입니다. 다른 뜻을 붙일 만큼 창의적이지 못해서요.
+LORENZ: Katharina, ich sage es dir als Freund. Kessler ist ein alter Mann mit einem alten Traum. Wenn du ihm den Traum verkaufst, verlierst du die Aktionäre.
+> 카타리나, 친구로서 말하는 거야. 케슬러는 낡은 꿈을 가진 노인이야. 그 꿈을 팔아 주면 주주들을 잃게 돼.
+KATHARINA: Ich verkaufe ihm keinen Traum. Ich verkaufe ihm eine Rechnung. Und ich sage ihm, dass er sie selbst bezahlen muss.
+> 꿈을 파는 게 아니에요. 계산서를 파는 거죠. 그리고 그 계산서를 직접 치러야 한다고 말할 거예요.
+LORENZ: Wie du meinst. Aber wenn er das Mandat beendet, erkläre ich das dem Partnerausschuss nicht.
+> 마음대로 해. 하지만 그가 계약을 끝내면, 파트너 위원회에 설명하는 건 내가 아니야.
+KATHARINA: Das musst du auch nicht. Und bitte: Ruf meine Kunden nicht mehr ohne mich an.
+> 그럴 필요 없어요. 그리고 부탁인데, 제 고객한테 저 없이 다시는 전화하지 마세요.
+
+## 절정 — DER PREIS DER UNABHÄNGIGKEIT
+KESSLER: Frau Dr. Brandt. Die zwanzig Minuten sind um. Ich hoffe, Sie haben Ihre Hausaufgaben gemacht.
+> 브란트 박사. 20분 지났습니다. 숙제는 하셨길 바랍니다.
+KATHARINA: Ja. Und ich möchte zuerst etwas klarstellen. Der Anruf von Herrn Lorenz war nicht mit mir abgestimmt. Dieses Mandat führe ich, und mein Team empfiehlt kein bestimmtes Ergebnis, bevor es gerechnet hat.
+> 네. 그리고 먼저 분명히 해 두고 싶은 게 있습니다. 로렌츠 씨의 전화는 저와 조율된 것이 아니었습니다. 이 수임 건은 제가 이끌고, 제 팀은 계산을 끝내기 전에 특정한 결과를 권하지 않습니다.
+KESSLER: Das ist … ehrlich. Gut. Weiter.
+> 그건… 솔직하군요. 좋습니다. 계속하세요.
+KATHARINA: Ich fange noch einmal an, aber anders. Herr Dr. Kessler, Sie wollen eine unabhängige Mainbank. Wir sagen: Das ist möglich.
+> 다시 시작하겠습니다. 다만 다르게요. 케슬러 박사님, 박사님은 독립된 마인방크를 원하십니다. 저희는 말씀드립니다. 그건 가능합니다.
+KESSLER: Das klingt schon besser.
+> 벌써 좀 낫게 들리는군요.
+KATHARINA: Aber Unabhängigkeit hat einen Preis. Hundertneunzig Millionen weniger Kosten pro Jahr, ein neues System, elfhundert Stellen. Die Frage ist nicht, ob jemand bezahlt. Die Frage ist, ob Sie selbst bezahlen — oder ob andere für Sie entscheiden, wie bezahlt wird.
+> 하지만 독립에는 값이 있습니다. 연간 비용 1억 9천만 절감, 새 시스템, 일자리 1,100개. 문제는 누가 값을 치르느냐가 아닙니다. 박사님이 직접 치르실 것이냐, 아니면 다른 사람이 어떻게 치를지를 대신 정하게 둘 것이냐입니다.
+KESSLER: Die anderen sind die Italiener.
+> 다른 사람이란 이탈리아 쪽이겠지요.
+KATHARINA: Ja. Und die würden achtzehnhundert Stellen streichen, nicht elfhundert. Und zwar nach ihren Regeln.
+> 네. 그리고 그들은 1,100개가 아니라 1,800개를 없앨 겁니다. 그것도 자기들 방식대로요.
+KESSLER: Und wenn wir das Land Hessen um Hilfe bitten? Oder den Bund? Der Staat ist schon einmal bei einer großen Bank eingestiegen.
+> 헤센 주 정부에 도움을 요청하면요? 아니면 연방정부에? 국가가 대형 은행에 지분을 넣은 적이 이미 한 번 있잖아요.
+TOBIAS: Das war in der Finanzkrise, Herr Dr. Kessler. Eine Rettung, keine Abwehr. Eine Staatsbeteiligung nur gegen einen Käufer aus der EU wäre heute politisch und rechtlich sehr schwierig.
+> 그건 금융위기 때였습니다, 케슬러 박사님. 구제였지 방어가 아니었죠. EU 안의 매수자를 막으려고만 국가가 지분을 사는 건 오늘날 정치적으로나 법적으로나 매우 어렵습니다.
+KATHARINA: Ich verstehe Ihre Sorge, aber die Politik kann nur laut protestieren. Genehmigen muss am Ende die Aufsicht, nicht Wiesbaden.
+> 걱정은 이해합니다만, 정치는 크게 항의하는 것밖에 못 합니다. 결국 승인은 감독기관이 하지, 비스바덴이 하는 게 아닙니다.
+WINTER: Herr Dr. Kessler, darf ich etwas sagen? Ich habe mit den Zahlen auch ein Problem. Aber ich glaube, sie stimmen.
+> 케슬러 박사님, 한 말씀 드려도 될까요? 저도 이 숫자가 불편합니다. 하지만 맞다고 생각해요.
+KESSLER: Sie auch, Frau Winter?
+> 빈터 이사, 당신도요?
+WINTER: Die Filialen sind mein Bereich. Ich sehe jeden Monat, wie die Besucherzahlen sinken. Wir können nicht so weitermachen wie bisher — egal, wem die Bank gehört.
+> 지점은 제 담당입니다. 매달 방문객 수가 줄어드는 걸 봐요. 은행이 누구 것이든, 지금까지처럼 계속할 수는 없습니다.
+KESSLER: Frau Dr. Brandt, nehmen wir an, wir gehen den harten Weg. Was sagen wir den Aktionären? Die wollen Geld sehen, keine Programme.
+> 브란트 박사, 우리가 그 험한 길을 간다고 칩시다. 주주들에게는 뭐라고 하죠? 그들은 프로그램이 아니라 돈을 보고 싶어 합니다.
+KATHARINA: Sie sagen ihnen: In drei Jahren verdient die Mainbank doppelt so viel wie heute. Und das Firmenkundengeschäft bleibt in Frankfurt. Das ist mehr wert als eine schnelle Prämie.
+> 이렇게 말씀하시면 됩니다. 3년 뒤 마인방크는 지금의 두 배를 번다. 그리고 기업고객 사업은 프랑크푸르트에 남는다. 그게 당장의 프리미엄보다 더 값지다고요.
+TOBIAS: Wir haben das gerechnet. Die Eigenkapitalrendite steigt von vier auf neun Prozent. Das ist kein Traum. Das ist Arbeit.
+> 저희가 계산해 봤습니다. 자기자본이익률이 4퍼센트에서 9퍼센트로 오릅니다. 꿈이 아닙니다. 일이죠.
+KESSLER: Und die Fonds? Die verkaufen an den Meistbietenden.
+> 펀드들은요? 최고가를 부르는 쪽에 팔 텐데요.
+KATHARINA: Ein Teil vielleicht. Deshalb empfehlen wir zwei Dinge gleichzeitig. Erstens das Programm. Zweitens Gespräche mit den Versorgungswerken und der Stiftung — über zwanzig Prozent stabile Aktionäre, die ein klares Signal geben können.
+> 일부는 그럴 수도 있습니다. 그래서 두 가지를 동시에 권합니다. 첫째, 그 프로그램. 둘째, 직능연금기관과 재단과의 대화입니다. 분명한 신호를 줄 수 있는, 20퍼센트가 넘는 안정적 주주들이죠.
+SELIN: Und noch ein Punkt, Herr Dr. Kessler. Die Firmenkunden sind Ihr stärkstes Argument. Wenn sechzig Prozent von ihnen nur bei einer Bank aus Frankfurt bleiben wollen, dann wissen das bald auch die Italiener.
+> 그리고 한 가지 더 있습니다, 케슬러 박사님. 기업고객이 가장 강력한 논거입니다. 그중 60퍼센트가 프랑크푸르트 은행에만 남고 싶어 한다면, 이탈리아 쪽도 곧 그걸 알게 될 겁니다.
+KESSLER: Das heißt?
+> 그 말은?
+SELIN: Das heißt: Ohne diese Kunden ist die Mainbank für die Banca Ligure viel weniger wert. Vielleicht ist die Übernahme für sie gar nicht so attraktiv, wie sie denkt.
+> 그 고객들이 없으면 방카 리구레에게 마인방크의 가치는 훨씬 떨어진다는 뜻입니다. 어쩌면 인수가 그쪽 생각만큼 매력적이지 않을 수도 있어요.
+TOBIAS: Eine feindliche Übernahme ohne die Kunden ist wie ein Haus ohne Dach. Man kann es kaufen, aber man wird nass.
+> 고객 없는 적대적 인수는 지붕 없는 집과 같습니다. 살 수는 있는데, 비에 젖게 되죠.
+KESSLER: … Herr Wendt, das ist das Erste heute, das mir gefällt.
+> …벤트 씨, 오늘 들은 것 중 처음으로 마음에 드는 말이군요.
+KATHARINA: Herr Dr. Kessler, Sie müssen heute nicht entscheiden. Aber geben Sie uns zwei Wochen für ein detailliertes Programm. Mit allen Maßnahmen, Standort für Standort.
+> 케슬러 박사님, 오늘 결정하실 필요는 없습니다. 다만 상세한 프로그램을 만들 2주를 주십시오. 모든 조치를, 거점 하나하나까지 담아서요.
+KESSLER: Und die Fusion?
+> 합병은요?
+KATHARINA: Bleibt auf dem Tisch. Als Option drei, mit allen Zahlen. Sie sollen sie kennen — damit Ihr Nein ein gutes Nein ist.
+> 테이블 위에 남겨 둡니다. 세 번째 선택지로, 모든 숫자와 함께요. 알고 계셔야 합니다. 거절하신다면, 제대로 된 거절이 되도록요.
+KESSLER: Gut. Zwei Wochen. Und, Frau Dr. Brandt: Nächstes Mal fangen Sie bitte mit der guten Nachricht an.
+> 좋습니다. 2주. 그리고 브란트 박사, 다음엔 좋은 소식부터 시작해 주세요.
+
+## 마무리 — FILIALE SIEBZEHN
+TOBIAS: Ein Haus ohne Dach. Ich sollte öfter Metaphern benutzen.
+> 지붕 없는 집. 비유를 좀 더 자주 써야겠어.
+KATHARINA: Bitte nicht. Eine pro Jahr reicht.
+> 제발 그러지 마. 1년에 하나면 충분해.
+SELIN: Frau Dr. Brandt, darf ich etwas fragen? Warum haben Sie das mit Herrn Lorenz vor dem Kunden gesagt? Das war doch riskant.
+> 브란트 박사님, 하나 여쭤봐도 될까요? 왜 로렌츠 씨 일을 고객 앞에서 말씀하셨어요? 위험한 일이었잖아요.
+KATHARINA: Weil der Kunde uns sonst nichts mehr geglaubt hätte. Vertrauen ist das Einzige, was wir in diesem Beruf wirklich verkaufen.
+> 안 그러면 고객이 우리 말을 더는 믿지 않았을 테니까요. 이 직업에서 우리가 진짜로 파는 건 신뢰뿐이에요.
+TOBIAS: Und Folien. Sehr viele Folien.
+> 그리고 슬라이드. 아주 많은 슬라이드.
+SELIN: Apropos Folien. Ich habe mir schon den Anhang zum Kostenprogramm angesehen. Da steht eine Liste mit vierzig Filialen.
+> 슬라이드 얘기가 나와서 말인데요. 비용 절감 프로그램 부록을 벌써 봤어요. 거기 지점 40곳 목록이 있어요.
+TOBIAS: Die mit den wenigsten Kunden pro Mitarbeiter. Das allein spart vierzehn Millionen im Jahr.
+> 직원당 고객 수가 가장 적은 곳들이지. 그것만으로 연간 1,400만이 절약돼.
+SELIN: Filiale siebzehn ist Oberwalden im Vogelsberg. Achtunddreißig Prozent der Kunden dort sind über siebzig. Und der nächste Geldautomat wäre dann neunzehn Kilometer entfernt.
+> 17번 지점은 포겔스베르크의 오버발덴이에요. 그곳 고객의 38퍼센트가 70세 이상이에요. 그리고 그렇게 되면 가장 가까운 현금인출기가 19킬로미터 떨어지게 돼요.
+KATHARINA: Und was schließen Sie daraus?
+> 그래서 거기서 무슨 결론을 내리는데요?
+SELIN: Noch nichts. Ich möchte nur … einmal hinfahren. Bevor wir die Filiale auf einer Folie schließen.
+> 아직 아무것도요. 그냥… 한번 가 보고 싶어요. 슬라이드 위에서 지점 문을 닫아 버리기 전에요.
+TOBIAS: Der Vogelsberg. Dort gibt es mehr Kühe als Bankkunden.
+> 포겔스베르크라. 거긴 은행 고객보다 소가 더 많을걸.
+KATHARINA: Dann zählen Sie bitte beide, Frau Aydın. Am Donnerstag fahren wir hin.
+> 그럼 둘 다 세어 보세요, 아이든 씨. 목요일에 같이 가요.

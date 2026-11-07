@@ -1,0 +1,265 @@
+part: 3
+ep: 16
+title_de: Ein Anruf aus Wiesbaden
+title_ko: 비스바덴에서 온 전화
+scene: 연방 행정현대화부 보고서 공개 → 연방의회 예산위원회 특별회의 → 모아비트 BWA 사무실 → 사무실 건물 옥상
+level: C1
+setting: 8월 중순 목요일 오전 열 시부터 밤 열한 시까지, 보고서 공개와 연방의회 특별회의, 그리고 중앙역이 내려다보이는 모아비트 사무실 옥상의 늦은 여름밤
+cast: KATHARINA | Dr. Katharina Brandt · BWA 대표 (41)
+cast: TOBIAS | Tobias Wendt · BWA 재무감사 총괄 (37)
+cast: SELIN | Selin Aydın · BWA 파트너, 데이터 포렌식 (29)
+cast: PAUL | Dr. Paul Asante · BWA 프랑크푸르트 지사장 (45)
+cast: UTE | Ute Hennig · BWA 사무실 매니저 (61)
+cast: LORENZ | Jan-Hendrik Lorenz · 전 Hellweg & Cie. 시니어 파트너 (60)
+cast: ALBRECHT | Dr. Judith Albrecht · 연방 행정현대화부 장관 (가상)
+cast: OSTERTAG | Miriam Ostertag · 야당 연방의원, 예산위원회 위원 (가상)
+cast: KRAMP | Dr. Stefan Kramp · 여당 연방의원, 예산위원회 위원 (가상)
+cast: HENRIKE | Dr. Henrike Sommer · 헤센 주 경제장관, 가상 정당 «Neue Mitte» (49)
+note: ※ 독일 연방주의 의회는 임기 중이라도 스스로 해산을 의결할 수 있고, 그 경우 정해진 기간 안에 조기 선거(Neuwahl)가 치러집니다. 헤센 주 헌법에 따르면 주의회 해산 뒤 60일 안에 선거를 해야 합니다. 연정 파트너가 연정을 탈퇴하면 주 정부가 의회 과반을 잃어 조기 선거로 이어지는 경우가 많습니다. 각 정당은 주총리 후보(Spitzenkandidat/in)를 내세우며, 선거 캠프는 후보와 정당 조직, 외부 전문가로 꾸려집니다. 독립 감사 회사의 창업자가 정당 선거 캠프에 들어가면 감사의 독립성이 의심받을 수 있으므로, 회사 운영에서 물러나는 것이 원칙입니다. 정당 «Neue Mitte»와 등장 인물은 모두 가상입니다. 표현 초점: die Neuwahl, die Kandidatin, das Vertrauen, zusagen, Politik ist nicht unser Fach. — Noch nicht.
+next: 4부 1화 — «Die Kandidatin»(후보) — 프랑크푸르트의 Neue Mitte 헤센 주당 사무실에서 열리는 첫 캠프 회의. 인지도 23%, 지지율 9%. 헨리케는 유능하지만 연설이 지루하다. 카타리나는 후보를 '고객'처럼 진단한다. "Sie sind gut. Aber niemand weiß es."
+
+## 도입 — ZEHN UHR
+UTE: Neun Uhr achtundfünfzig. Die Website des Ministeriums lädt. Ich habe die Seite seit sieben Uhr offen und alle zwei Minuten aktualisiert. Wie bei einem Bürgeramtstermin.
+> 아홉 시 58분. 부처 홈페이지가 로딩 중이야. 일곱 시부터 페이지 열어 놓고 2분마다 새로고침했어. 구청 예약 잡을 때처럼.
+SELIN: Zehn Uhr. Da ist es. «Gutachten zum Programm Verwaltung digital 2030. Vollständige Fassung mit Stellungnahmen. Zweihundertvierzehn Seiten.»
+> 열 시. 떴다. '행정 디지털 2030 사업에 관한 감사보고서. 의견서 포함 전문. 214쪽.'
+TOBIAS: Und auf Seite eins, ganz oben, unsere Offenlegung. Dass wir alle drei bei Hellweg waren.
+> 그리고 1쪽 맨 위에 우리 공개 내용. 우리 셋 다 Hellweg에 있었다는 거.
+PAUL: Und auf Seite einhundertachtundvierzig: der Benutzername. Im Indikativ.
+> 그리고 148쪽엔 그 사용자명. 직설법으로.
+KATHARINA: Wie viele Leute haben es schon heruntergeladen?
+> 벌써 몇 명이나 내려받았어?
+SELIN: Der Zähler auf der Seite steht bei … dreitausendvierhundert. In vier Minuten.
+> 페이지 카운터가… 3,400. 4분 만에.
+UTE: Bei Spreewohnen hat das Abgeordnetenhaus zwei Wochen gebraucht, um den Bericht zu verteilen.
+> 슈프레보넨 땐 주의회가 보고서 배포하는 데만 2주 걸렸는데.
+TOBIAS: Und hier ist die erste Reaktion. Eine Pressemitteilung von Hellweg & Cie., zehn Uhr elf.
+> 그리고 여기 첫 반응. Hellweg & Cie. 보도자료, 열 시 11분.
+KATHARINA: Lies vor.
+> 읽어 줘.
+TOBIAS: «Hellweg & Cie. nimmt das Gutachten zur Kenntnis und wird es sorgfältig prüfen. Der verantwortliche Partner, Jan-Hendrik Lorenz, scheidet im gegenseitigen Einvernehmen mit sofortiger Wirkung aus der Partnerschaft aus. Hellweg dankt ihm für sechsundzwanzig Jahre engagierter Arbeit.»
+> 'Hellweg & Cie.는 감사보고서를 인지했으며 이를 면밀히 검토할 것입니다. 책임 파트너 얀헨드릭 로렌츠는 상호 합의에 따라 즉시 파트너십에서 물러납니다. Hellweg은 그의 26년간의 헌신에 감사드립니다.'
+SELIN: Elf Minuten. Sie haben die Erklärung schon gestern geschrieben.
+> 11분이라. 그 성명은 어제 이미 써 둔 거네.
+KATHARINA: Sechsundzwanzig Jahre. Und eine Pressemitteilung mit drei Sätzen.
+> 26년. 그리고 세 문장짜리 보도자료.
+
+## 분석 — DER TAG DANACH BEGINNT UM ELF
+PAUL: Zweite Reaktion: Der Bundesrechnungshof kündigt eine eigene Prüfung aller Beraterverträge des Ministeriums an. Dritte: Die Staatsanwaltschaft Berlin prüft, ob ein Anfangsverdacht besteht.
+> 두 번째 반응. 연방 감사원이 부처의 모든 컨설팅 계약에 대한 자체 감사를 발표했어. 세 번째. 베를린 검찰이 초동 혐의가 있는지 검토한대.
+TOBIAS: Wegen der Vergaben?
+> 발주 때문에?
+PAUL: Ein Verstoß gegen das Vergaberecht allein ist noch keine Straftat. Aber eine Bedarfsschätzung, die ein Bieter selbst verändert, damit eine Ausschreibung kleiner aussieht — da wird die Staatsanwaltschaft fragen, ob Untreue oder Vorteilsgewährung im Spiel war.
+> 조달법 위반 자체는 아직 범죄가 아니야. 하지만 응찰자가 입찰이 작아 보이게 수요 추정을 직접 바꿨다면, 검찰은 배임이나 이익 제공이 있었는지 물을 거야.
+SELIN: Und der Haushaltsausschuss hat für vierzehn Uhr eine Sondersitzung einberufen. Die Ministerin berichtet. Wir sollen dabei sein.
+> 그리고 예산위원회가 오후 두 시에 특별회의를 소집했어. 장관이 보고한대. 우리도 참석하래.
+UTE: Der Bundestag schon wieder. Ich komme mit. Ich kenne die Sicherheitskontrolle jetzt auswendig.
+> 또 연방의회네. 나도 갈래. 이제 보안 검색은 눈 감고도 해.
+ALBRECHT: Herr Vorsitzender, meine Damen und Herren. Das Ministerium hat heute ein Gutachten veröffentlicht, das kein gutes Licht auf dieses Haus wirft. Ich habe es trotzdem veröffentlicht, vollständig, weil Sie und die Öffentlichkeit ein Recht darauf haben.
+> 위원장님, 의원 여러분. 부처는 오늘 이 부처를 좋게 비추지 않는 감사보고서를 공개했습니다. 그럼에도 저는 그것을 전부 공개했습니다. 여러분과 국민께 그것을 알 권리가 있기 때문입니다.
+ALBRECHT: Ich habe alle laufenden Abrufe aus dem Rahmenvertrag gestoppt. Die Leistungen werden neu ausgeschrieben, in sechs Losen und mit realistischen Höchstmengen. Einhundertvierzig externe Stellen werden in den nächsten zwei Jahren in feste Stellen im Ministerium umgewandelt.
+> 저는 기본 계약상 진행 중인 모든 주문을 중단했습니다. 용역은 여섯 묶음으로, 현실적인 최대 물량을 정해 재입찰합니다. 외부 인력 140자리는 향후 2년 안에 부처 정규직으로 전환됩니다.
+OSTERTAG: Frau Ministerin, das klingt gut. Aber wer trägt die Verantwortung für dreihundertzweiundsiebzig Millionen Euro, von denen zwei funktionierende Verwaltungsleistungen übrig geblieben sind?
+> 장관님, 듣기엔 좋네요. 하지만 3억 7,200만 유로를 쓰고 작동하는 행정 서비스 두 개만 남은 데 대한 책임은 누가 집니까?
+ALBRECHT: Politisch ich, Frau Abgeordnete. Ich bin die Ministerin. Für die Vergaben im Einzelnen werden das der Rechnungshof und gegebenenfalls die Staatsanwaltschaft klären. Ich habe dem Bundespräsidenten vorgeschlagen, Staatssekretär Dr. Voss in den einstweiligen Ruhestand zu versetzen.
+> 정치적으로는 제가 집니다, 의원님. 제가 장관이니까요. 개별 발주에 대해선 감사원과, 필요하면 검찰이 밝힐 겁니다. 저는 연방 대통령께 포스 차관의 일시 퇴직을 제청했습니다.
+KRAMP: Frau Ministerin, ich darf darauf hinweisen, dass das Gutachten von einer Firma stammt, deren Gründer früher selbst bei Hellweg gearbeitet haben.
+> 장관님, 이 보고서가 창업자들이 과거 Hellweg에서 일했던 회사에서 나왔다는 점을 지적해도 되겠습니까?
+ALBRECHT: Das dürfen Sie, Herr Kramp. Es steht auf Seite eins. Die Firma hat es selbst offengelegt, bevor jemand anderes es konnte. Und die Ergebnisse wurden extern gegengelesen.
+> 그러셔도 됩니다, 크람프 의원님. 1쪽에 쓰여 있으니까요. 그 회사는 다른 누가 하기 전에 스스로 밝혔습니다. 그리고 결과는 외부에서 교차 검토를 받았습니다.
+KRAMP: … Dann ziehe ich den Hinweis zurück. Und ich muss zugeben: Die Anhörung zum Sondervermögen im Juli war auch nicht angenehm. Aber sie war richtig.
+> …그럼 그 지적은 철회하겠습니다. 그리고 인정해야겠군요. 7월 특별기금 공청회도 유쾌하진 않았지만, 옳았습니다.
+OSTERTAG: Kollege Kramp, ich habe das Protokoll. Ich zitiere Sie demnächst damit.
+> 크람프 의원님, 속기록 있어요. 조만간 그 말씀 인용하겠습니다.
+KRAMP: Das habe ich befürchtet.
+> 그럴 줄 알았습니다.
+SELIN: Katharina, schau mal. Eine Eilmeldung aus Hessen.
+> 카타리나, 이거 봐. 헤센발 속보야.
+KATHARINA: Was steht da?
+> 뭐라고 돼 있어?
+SELIN: «Koalitionskrise in Wiesbaden. Finanzminister erklärt Rücktritt. Seine Partei verlässt die Landesregierung. Streitpunkt: die von Wirtschaftsministerin Sommer veröffentlichten Zahlen zu gekürzten Investitionen.»
+> '비스바덴 연정 위기. 재무장관 사퇴 발표. 그의 정당은 주 정부에서 탈퇴. 쟁점: 좀머 경제장관이 공개한 투자 삭감 수치.'
+TOBIAS: Die dreihundertachtzig Millionen.
+> 3억 8천만 유로.
+PAUL: Sie hat damals gesagt, sie veröffentliche sie selbst. Sie hat es getan.
+> 그때 자기가 직접 공개하겠다고 했지. 정말 했네.
+TOBIAS: Und jetzt hat die Landesregierung keine Mehrheit mehr im Landtag.
+> 그리고 이제 주 정부는 주의회 과반을 잃었고.
+SELIN: Hier steht schon die nächste Meldung: Die Fraktionen beraten über eine Auflösung des Landtags. Dann gäbe es innerhalb von sechzig Tagen Neuwahlen.
+> 여기 벌써 다음 속보. 교섭단체들이 주의회 해산을 논의 중이래. 그러면 60일 안에 조기 선거야.
+KATHARINA: Wegen eines Berichts über Brücken.
+> 다리에 관한 보고서 하나 때문에.
+PAUL: Nicht wegen des Berichts. Wegen einer Ministerin, die ihn ernst genommen hat. Das ist ein Unterschied.
+> 보고서 때문이 아니야. 그걸 진지하게 받아들인 장관 때문이지. 차이가 있어.
+UTE: Ich habe übrigens gezählt. Seit zehn Uhr sind bei uns zwölf Anfragen eingegangen. Zwei Ministerien, drei Städte, eine Krankenkasse, ein Fußballverein aus Bochum und fünf, die ich noch nicht einordnen kann.
+> 그건 그렇고 세어 봤어. 열 시 이후로 문의가 열두 건 들어왔어. 부처 두 곳, 도시 세 곳, 건강보험공단 하나, 보훔의 축구 클럽 하나, 그리고 아직 분류 못 한 다섯 건.
+TOBIAS: Zwölf. Vor einem Jahr haben wir uns über eine einzige gefreut.
+> 열두 건. 1년 전엔 단 한 건에도 기뻐했는데.
+KATHARINA: Und vor einem Jahr hatten wir noch nicht einmal einen Termin.
+> 그리고 1년 전엔 예약 하나도 없었지.
+UTE: Doch. Ich. Seit März.
+> 있었어. 나한테. 3월부터.
+SELIN: Die Hellweg-Klage? Gibt es Neuigkeiten?
+> Hellweg 소송은? 새 소식 있어?
+PAUL: Ihre Anwälte haben um elf Uhr dreißig geschrieben. Die Schadensersatzforderung wird «bis auf Weiteres nicht weiterverfolgt».
+> 열한 시 30분에 그쪽 변호사들이 편지를 보냈어. 손해배상 청구는 '당분간 진행하지 않는다'고.
+TOBIAS: «Bis auf Weiteres.» Das ist die Juristenfassung von «Wir haben Angst vor dem Prozess».
+> '당분간.' 그게 '소송이 무섭다'의 법률가 버전이지.
+
+## 갈등 — EIN LETZTER BESUCH
+UTE: Katharina. Unten an der Tür steht jemand. Ohne Termin. Er sagt, er wartet, bis du Zeit hast.
+> 카타리나. 아래 문 앞에 누가 와 있어. 예약도 없이. 네가 시간 날 때까지 기다리겠대.
+KATHARINA: Wer?
+> 누군데?
+UTE: Lorenz. Allein. Ohne Anwalt, ohne Krawatte.
+> 로렌츠. 혼자. 변호사도 없고 넥타이도 없이.
+TOBIAS: Du musst nicht mit ihm reden.
+> 그 사람이랑 얘기 안 해도 돼.
+KATHARINA: Das Mandat ist abgeschlossen. Der Bericht ist veröffentlicht. Jetzt darf ich. — Lass ihn rein, Ute.
+> 수임은 끝났어. 보고서는 공개됐고. 이제는 해도 돼. — 들여보내 줘, 우테.
+LORENZ: Dritter Stock, kein Aufzug. Ihr habt euch einen Ort ausgesucht, an dem man außer Atem ankommt.
+> 3층, 엘리베이터 없음. 숨이 차서야 도착하는 곳을 골랐구나.
+KATHARINA: Das war Absicht. Wer zu uns kommt, soll vorher nachdenken.
+> 일부러 그랬어요. 우리한테 오는 사람은 그 전에 생각을 좀 하라고.
+LORENZ: Ich habe nachgedacht. Sechsundzwanzig Jahre, Katharina. Und heute Morgen um halb acht hat mir die Partnerversammlung eine Erklärung vorgelegt, die ich unterschreiben sollte. Drei Sätze. Sie hatten sie gestern schon formuliert.
+> 생각했어. 26년이야, 카타리나. 그리고 오늘 아침 일곱 시 반에 파트너 총회가 서명하라고 성명서를 내밀더군. 세 문장. 어제 이미 써 놨더라.
+KATHARINA: Ich habe sie gelesen.
+> 읽었어요.
+LORENZ: Weißt du, was das Bittere ist? Die Hälfte dieser Partner hat genau so gearbeitet wie ich. Die Hälfte hat mit mir die Abrufe gefeiert. Jetzt sind sie sauber, und ich bin der Name auf Seite hundertachtundvierzig.
+> 뭐가 씁쓸한지 알아? 그 파트너들 절반은 나랑 똑같이 일했어. 절반은 나랑 같이 주문 들어올 때마다 축배를 들었고. 이제 그들은 깨끗하고, 나는 148쪽의 이름이야.
+KATHARINA: Den Namen hast du selbst in das System getippt, Jan-Hendrik. Niemand hat ihn dir untergeschoben.
+> 그 이름은 당신이 직접 시스템에 입력했어요, 얀헨드릭. 아무도 당신한테 덮어씌우지 않았어요.
+LORENZ: Ich weiß. Ich bin nicht gekommen, um mich zu beschweren. Ich bin gekommen, weil ich wissen wollte, ob du heute Morgen gefeiert hast.
+> 알아. 불평하러 온 게 아니야. 오늘 아침에 네가 축하했는지 알고 싶어서 왔어.
+KATHARINA: Nein. Ich habe um zehn Uhr elf deine Pressemitteilung gelesen und an den Tag gedacht, an dem du mich zu meinem ersten Kunden mitgenommen hast. Ich war sechsundzwanzig. Du hast gesagt: «Hör zuerst zu, dann rechne, dann rede.»
+> 아니요. 열 시 11분에 당신 보도자료를 읽고, 당신이 저를 처음 고객한테 데려갔던 날을 떠올렸어요. 전 스물여섯이었죠. 당신이 그랬어요. "먼저 듣고, 그다음 계산하고, 그다음 말해라."
+LORENZ: Das habe ich gesagt?
+> 내가 그런 말을 했어?
+KATHARINA: Wörtlich. Ich habe es seitdem jedem Team beigebracht. Auch dem hier.
+> 글자 그대로요. 그 뒤로 모든 팀에 가르쳤어요. 이 팀에도요.
+LORENZ: Dann habe ich wenigstens einmal etwas Richtiges beigebracht.
+> 그럼 적어도 한 번은 옳은 걸 가르쳤네.
+TOBIAS: Herr Lorenz, darf ich etwas fragen? Wussten Sie, dass Voss Ihre Fassung des Gutachtens an die Presse gegeben hat? Oder jemand aus seinem Büro?
+> 로렌츠 씨, 하나 여쭤봐도 될까요? 포스가, 아니면 그 사무실의 누군가가 보고서 버전을 언론에 넘긴 걸 알고 계셨습니까?
+LORENZ: Herr Wendt, Sie haben mich vor zwei Jahren schon einmal überführt. Ich werde Ihnen nicht die Freude machen, es ein zweites Mal so leicht zu machen.
+> 벤트 씨, 2년 전에 이미 한 번 저를 잡아내셨죠. 두 번째도 그렇게 쉽게 해 드리는 즐거움은 드리지 않겠습니다.
+PAUL: Das ist keine Antwort.
+> 그건 대답이 아닌데요.
+LORENZ: Doch, Herr Asante. Es ist die einzige, die ich ohne Anwalt geben kann.
+> 대답이에요, 아산테 박사님. 변호사 없이 드릴 수 있는 유일한 대답이죠.
+SELIN: Und was machen Sie jetzt?
+> 그럼 이제 뭘 하실 건가요?
+LORENZ: Frau Aydın, Sie haben mich das noch nie gefragt. In der ganzen Zeit bei Hellweg nicht.
+> 아이든 씨, 저한테 그런 걸 물어본 건 처음이네요. Hellweg에 있는 내내 한 번도 없었죠.
+SELIN: Sie haben mich ja auch nie etwas gefragt.
+> 저한테도 뭘 물어보신 적이 없잖아요.
+LORENZ: Touché. Ich werde etwas tun, das ich kann. Beraten. Irgendjemand braucht immer jemanden, der weiß, wie Berlin funktioniert. Vielleicht eine Partei. Es gibt da einen Kandidaten in einer großen Partei, der mich schon zweimal angerufen hat.
+> 한 방 먹었네요. 할 줄 아는 걸 하겠죠. 자문. 베를린이 어떻게 돌아가는지 아는 사람은 늘 누군가 필요로 하니까. 어쩌면 정당일 수도 있고. 큰 정당에 벌써 두 번이나 나한테 전화한 후보가 있거든.
+KATHARINA: Politik?
+> 정치요?
+LORENZ: Dort zählt nicht, was in einem Bericht steht, Katharina, sondern was die Leute glauben. Das könnte mir liegen.
+> 거긴 보고서에 뭐가 쓰여 있느냐가 아니라 사람들이 뭘 믿느냐가 중요하지, 카타리나. 나한테 맞을지도 몰라.
+KATHARINA: Dann pass auf, dass du dort nicht wieder zwei Kunden gleichzeitig dienst.
+> 그럼 거기선 또 두 고객을 동시에 섬기지 않도록 조심하세요.
+LORENZ: Und du pass auf, dass du nicht eines Tages dasselbe Angebot bekommst, das ich dir gemacht habe. Nur von jemandem, den du mehr magst als mich. Leb wohl, Katharina.
+> 그리고 너는 언젠가 내가 했던 것과 같은 제안을 받지 않도록 조심해. 다만 나보다 더 좋아하는 사람한테서. 잘 지내, 카타리나.
+UTE: Soll ich ihn runterbringen?
+> 아래까지 데려다줄까?
+KATHARINA: Nein. Er findet den Weg. Er hat ihn immer gefunden.
+> 아니. 길은 알아서 찾을 거야. 늘 찾았으니까.
+SELIN: Katharina, alles in Ordnung?
+> 카타리나, 괜찮아?
+KATHARINA: Ja. Nein. Frag mich morgen. Heute möchte ich auf das Dach.
+> 응. 아니. 내일 물어봐. 오늘은 옥상에 가고 싶어.
+
+## 해결·설득 — AUF DEM DACH
+UTE: Sekt aus dem Späti, Pappbecher und eine Decke, falls es kalt wird. Es ist August, aber ihr kennt Berlin.
+> 편의점 스파클링 와인, 종이컵, 그리고 추워질 경우를 대비한 담요. 8월이지만 베를린 알잖아.
+TOBIAS: Auf ein Jahr BWA. Ein Schild an der Tür, zwölf Mandate, null Gefälligkeitsgutachten.
+> BWA 1년을 위하여. 문 앞의 간판 하나, 수임 열두 건, 봐주기 보고서 0건.
+PAUL: Und eine Büromanagerin, die einen Termin seit März hat.
+> 그리고 3월부터 예약이 있는 사무실 매니저.
+UTE: Und einen Hamburger, der endlich «du» sagt.
+> 그리고 드디어 반말하는 함부르크 사람.
+SELIN: Von hier oben sieht man den Hauptbahnhof. Da sind wir vor zwei Jahren aus dem ICE gestiegen, und ich habe gefragt, wer eigentlich die Prüfer prüft.
+> 여기서 중앙역이 보여. 2년 전에 저기서 ICE에서 내리면서 내가 물었지. 감사하는 사람은 누가 감사하냐고.
+TOBIAS: Und jetzt weißt du es?
+> 그래서 이제 알아?
+SELIN: Jetzt weiß ich: Es prüft sie jemand anderes, der vorher offenlegt, wer er ist. Und dann prüft den wieder jemand. Das hört nie auf. Das ist gut so.
+> 이제는 알아. 자기가 누군지 먼저 밝히는 다른 누군가가 감사해. 그리고 또 다른 누군가가 그 사람을 감사하고. 그건 끝나지 않아. 그게 좋은 거야.
+KATHARINA: Mein Telefon. Eine Nummer aus Wiesbaden.
+> 내 전화. 비스바덴 번호야.
+HENRIKE: Frau Dr. Brandt. Henrike Sommer. Sie haben es vermutlich schon gelesen. Der Landtag hat sich heute Abend aufgelöst. Neuwahl in sieben Wochen.
+> 브란트 박사님. 헨리케 좀머예요. 아마 벌써 읽으셨겠죠. 주의회가 오늘 저녁 해산했어요. 7주 뒤에 조기 선거예요.
+KATHARINA: Ich habe es gelesen, Frau Ministerin. Es tut mir leid. Unser Bericht hat Ihnen das eingebrockt.
+> 읽었어요, 장관님. 죄송합니다. 저희 보고서 때문에 이렇게 되셨네요.
+HENRIKE: Nein. Ich habe es mir eingebrockt. Ich habe die Zahlen veröffentlicht, weil ich es Ihnen im Juli versprochen hatte. Und ich bereue es nicht. — Ich rufe aus einem anderen Grund an. Der Landesvorstand der Neuen Mitte hat mich vor einer Stunde zur Spitzenkandidatin gewählt. Ich kandidiere als Ministerpräsidentin.
+> 아뇨. 제가 자초한 거예요. 7월에 약속했으니까 숫자를 공개한 거고요. 그리고 후회하지 않아요. — 다른 이유로 전화드린 거예요. Neue Mitte 주당 지도부가 한 시간 전에 저를 선거 대표 후보로 뽑았어요. 주총리 후보로 나섭니다.
+KATHARINA: Herzlichen Glückwunsch. Oder Beileid. Ich weiß nicht, was man in so einem Fall sagt.
+> 축하드려요. 아니면 위로를 드려야 하나요. 이럴 땐 뭐라고 해야 할지 모르겠네요.
+HENRIKE: Beides passt. Wir liegen in den Umfragen bei neun Prozent. Mich kennt außerhalb von Wiesbaden kaum jemand. Und meine Reden sind, wie mir mein eigener Pressesprecher sagt, «sachlich korrekt und emotional unauffällig».
+> 둘 다 맞아요. 여론조사에서 저희는 9퍼센트예요. 비스바덴 밖에선 저를 아는 사람이 거의 없고요. 그리고 제 연설은, 우리 대변인 말을 빌리면, '사실관계는 정확하고 감정적으로는 눈에 띄지 않는' 연설이래요.
+KATHARINA: Und warum rufen Sie mich an?
+> 그런데 왜 저한테 전화하셨어요?
+HENRIKE: Weil ich in sieben Wochen einen Wahlkampf führen muss, und weil ich Menschen brauche, die Zahlen ehrlich sagen. Auch mir. Gerade mir. Ich möchte, dass Sie meinen Wahlkampf leiten, Frau Dr. Brandt.
+> 7주 안에 선거전을 치러야 하고, 숫자를 정직하게 말하는 사람들이 필요하니까요. 저한테도요. 특히 저한테요. 박사님이 제 선거 캠프를 이끌어 주셨으면 해요, 브란트 박사님.
+KATHARINA: Ich bin Prüferin. Ich habe noch nie einen Wahlkampf geführt.
+> 저는 감사인이에요. 선거전을 이끌어 본 적이 없어요.
+HENRIKE: Sie haben einen Aufsichtsrat, zweitausend Fußballfans, eine Bürgerversammlung und den Haushaltsausschuss überzeugt. Ein Wahlkampf ist auch nichts anderes, nur mit mehr Plakaten. Und ich möchte Frau Aydın für die digitale Kampagne und die Umfragen. Und Herrn Wendt für das Programm. Jede Zahl, jedes Versprechen, jede Gegenfinanzierung.
+> 감사회, 축구 팬 2천 명, 주민설명회, 그리고 예산위원회까지 설득하셨잖아요. 선거전도 다르지 않아요. 포스터가 더 많을 뿐이죠. 그리고 아이든 씨에겐 디지털 캠페인과 여론조사를, 벤트 씨에겐 공약을 맡기고 싶어요. 모든 숫자, 모든 약속, 모든 재원 대책을요.
+KATHARINA: Und BWA? Wir können nicht unabhängig prüfen und gleichzeitig für eine Partei arbeiten.
+> 그럼 BWA는요? 독립적으로 감사하면서 동시에 정당을 위해 일할 순 없어요.
+HENRIKE: Das weiß ich. Deshalb frage ich Sie und nicht Ihre Firma. Denken Sie darüber nach. Bis morgen früh. Mehr Zeit habe ich nicht.
+> 알아요. 그래서 회사가 아니라 박사님께 묻는 거예요. 생각해 보세요. 내일 아침까지. 그 이상은 시간이 없어요.
+SELIN: Neun Prozent. Und sieben Wochen.
+> 9퍼센트. 그리고 7주.
+TOBIAS: Und eine Kandidatin, die ihre eigene Regierung gesprengt hat, weil sie eine unangenehme Zahl veröffentlicht hat. Das ist entweder politischer Selbstmord oder das Einzige, was in diesem Land noch fehlt.
+> 그리고 불편한 숫자 하나를 공개해서 자기 정부를 날려 버린 후보. 그건 정치적 자살이거나, 아니면 이 나라에 아직 없는 유일한 거야.
+KATHARINA: Und BWA? Wir haben die Firma vor einem Jahr gegründet. Zwölf Anfragen seit heute Morgen.
+> 그럼 BWA는? 1년 전에 세운 회사야. 오늘 아침부터 문의가 열두 건이고.
+PAUL: Die übernehmen Ute und ich. Wenn ihr wollt.
+> 그건 우테랑 내가 맡을게. 너희가 원한다면.
+UTE: Wie bitte? Ich?
+> 뭐라고? 내가?
+PAUL: Du, Ute. Als Prokuristin. Du kennst jeden Termin, jedes Formular, jede Behörde in dieser Stadt. Ich kenne die Ermittlungen. Zusammen sind wir eine Prüffirma.
+> 너, 우테. 지배인으로. 넌 이 도시의 모든 예약, 모든 서식, 모든 관청을 알잖아. 난 조사를 알고. 우리 둘이 합치면 감사 회사야.
+UTE: Prokuristin. Mit einundsechzig. Mein Vater hätte gesagt: Det Kind macht noch Karriere.
+> 지배인. 예순하나에. 우리 아버지라면 그랬을 거야. 얘가 이제야 출세하는구나.
+KATHARINA: Wir drei würden als Gesellschafter bleiben, aber aus der Geschäftsführung ausscheiden, solange wir für eine Partei arbeiten. Und auf Seite eins jedes Berichts steht das ab sofort.
+> 우리 셋은 사원으로는 남되, 정당 일을 하는 동안엔 경영에서 물러나는 거야. 그리고 지금부터 모든 보고서 1쪽에 그걸 쓰고.
+SELIN: Ich bin dabei. Ich habe mein Leben lang gefragt, wer die Prüfer prüft. Vielleicht ist es Zeit, einmal mitzuhelfen, bevor etwas schiefgeht, und nicht erst hinterher.
+> 나는 할래. 평생 감사하는 사람은 누가 감사하냐고 물어 왔어. 이제 한 번쯤은 뭔가 잘못된 다음이 아니라, 잘못되기 전에 거들 때가 된 것 같아.
+KATHARINA: Ich auch. Ich sage zu. — Tobias?
+> 나도. 수락할게. — 토비아스?
+TOBIAS: Ich weiß es nicht. Ich bin Zahlenmensch. In der Politik werden Zahlen gemacht, nicht gelesen. Und ich bin aus Leipzig, Katharina. Ich habe schon einmal erlebt, wie Leute aus dem Westen große Versprechen gemacht haben. Ich gebe euch meine Antwort. Aber nicht heute.
+> 모르겠어. 난 숫자 인간이야. 정치에서 숫자는 읽히는 게 아니라 만들어지지. 그리고 난 라이프치히 출신이야, 카타리나. 서쪽 사람들이 큰 약속을 하는 걸 이미 한 번 겪어 봤어. 대답은 할게. 하지만 오늘은 아니야.
+KATHARINA: Das ist eine ehrliche Antwort. Ich nehme sie an.
+> 정직한 대답이네. 받아들일게.
+TOBIAS: Und vergiss nicht: Jedes Versprechen, das diese Kandidatin macht, hat einen Preis. Wenn sie ihn nicht nennt, sage ich Nein. Das ist mein Vertrauen. Es ist nicht billig.
+> 그리고 잊지 마. 그 후보가 하는 모든 약속엔 값이 있어. 그 값을 말하지 않으면 난 거절할 거야. 그게 내 신뢰야. 싸지 않아.
+
+## 마무리 — NOCH NICHT
+HENRIKE: Frau Dr. Brandt? Es ist sieben Uhr früh. Ich habe gesagt, bis morgen früh.
+> 브란트 박사님? 아침 일곱 시예요. 아침까지라고 했었죠.
+KATHARINA: Frau Ministerin, wir sind dabei. Frau Aydın und ich. Herr Wendt prüft noch.
+> 장관님, 함께하겠습니다. 아이든 씨와 제가요. 벤트 씨는 아직 검토 중이에요.
+HENRIKE: Natürlich prüft er noch. Deshalb will ich ihn ja. Morgen um zehn, Landesgeschäftsstelle in Frankfurt. Bringen Sie mit, was Sie brauchen.
+> 당연히 검토 중이겠죠. 그래서 제가 그분을 원하는 거고요. 내일 열 시, 프랑크푸르트 주당 사무실. 필요한 건 다 가져오세요.
+KATHARINA: Eine Frage noch, Frau Ministerin. Darf ich Ihnen die Dinge sagen, wie sie sind? Auch die über Sie?
+> 하나만 더요, 장관님. 있는 그대로 말씀드려도 될까요? 장관님에 관한 것도요?
+HENRIKE: Genau dafür rufe ich Sie an. Bis morgen.
+> 바로 그래서 전화한 거예요. 내일 봬요.
+UTE: Sie hat «bis morgen» gesagt und aufgelegt, bevor du Tschüss sagen konntest. Die Frau passt zu euch.
+> '내일 봬요' 하고 네가 인사하기도 전에 끊었네. 그 사람, 너희랑 잘 맞겠다.
+PAUL: Ich fahre heute Nachmittag nach Frankfurt zurück. Wenn ihr dort seid, sehen wir uns trotzdem. Nur nicht dienstlich.
+> 난 오늘 오후에 프랑크푸르트로 돌아가. 너희가 거기 오면 그래도 보자. 업무로만 말고.
+SELIN: Paul, wenn du in einem Jahr einen Bericht über einen Wahlkampf schreiben musst — sei bitte nicht zu nett zu uns.
+> 파울, 1년 뒤에 혹시 선거전에 관한 보고서를 써야 하게 되면, 우리한테 너무 잘해 주지 마.
+PAUL: Keine Sorge. Ich lese zuerst die Anhänge.
+> 걱정 마. 난 부록부터 읽을 테니까.
+TOBIAS: Wahlkampfleiterin. Katharina, du weißt, dass du dich gerade freiwillig in die einzige Branche begibst, die noch weniger Ahnung von Zahlen hat als die Fußballvereine.
+> 선거 캠프 총괄이라. 카타리나, 너 지금 축구 클럽보다도 숫자를 모르는 유일한 업계에 제 발로 들어가는 거 알지.
+KATHARINA: Ich weiß. Politik ist nicht unser Fach.
+> 알아. 정치는 우리 전문이 아니야.
+SELIN: Noch nicht.
+> 아직은.

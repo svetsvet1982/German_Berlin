@@ -1,0 +1,267 @@
+part: 2
+ep: 6
+title_de: Ein Angebot aus Shenzhen
+title_ko: 선전에서 온 제안
+scene: 중국 경쟁사의 제안, 프랑크푸르트 호텔 라운지 → 하나우
+level: B2
+setting: 1월 마지막 주 화요일 오후부터 목요일 저녁까지, 프랑크푸르트 오페라 광장 인근 호텔 라운지 → 하나우 본사 감사회 회의실
+cast: KATHARINA | Dr. Katharina Brandt · CEO (39)
+cast: TOBIAS | Tobias Wendt · CFO (35)
+cast: SELIN | Selin Aydın · 전환사무국장 (27)
+cast: CLARA | Clara Ebersbach · 감사회 위원, 전 중국 법인 근무 (41)
+cast: KONRAD | Konrad Ebersbach · 감사회 의장 (74)
+cast: ZHOU | Zhou Wei · Longhai Drive Systems(선전) CEO, 아헨 공대 유학 (가상) (46)
+cast: BRENNER | Dr. Felix Brenner · Longhai 측 M&A 변호사 (가상)
+cast: WIEGAND | Dr. Anja Wiegand · Ebersbach 법무 총괄(General Counsel)
+note: ※ 독일 대외경제법(AWG)과 대외경제령(AWV)에 따라 EU 밖의 투자자가 독일 기업의 의결권을 일정 비율 이상 취득하면 연방경제부(BMWE)가 투자심사(Investitionsprüfung)를 할 수 있습니다. 일반 업종은 25퍼센트, 반도체·로봇 등 핵심 기술은 20퍼센트, 방산과 주요 기반시설은 10퍼센트가 기준입니다. 지분이 기준에 못 미치더라도 감사회 의석이나 전략적 결정에 대한 거부권을 함께 얻으면 '비전형적 지배권 취득(atypischer Kontrollerwerb)'으로 심사 대상이 될 수 있고, 핵심 사업부나 특허를 따로 넘기는 거래도 마찬가지입니다. 실제로 중국은 희토류와 영구자석 수출을 여러 차례 제한해 유럽 제조업의 공급망 의존(Abhängigkeit)이 큰 쟁점이 되었습니다. Longhai와 등장인물은 모두 가상입니다. 표현 초점: das Joint Venture, das Patent, die Investitionsprüfung, die Abhängigkeit, Geld löst ein Problem und schafft zwei neue.
+next: 2부 7화 — «Hände gesucht»(일손을 구함) — 슈판다우의 직업훈련 공방. 새 연삭기는 도착했지만 돌릴 사람이 없다. 정년퇴직 300명, 견습생 지원자는 절반. Selin은 인도·베트남 기술자 채용과 독일어 교육, 주택 협약을 묶은 패키지를 만들지만, 비자 서류는 끝이 없다.
+
+## 도입 — HOTELLOUNGE, OPERNPLATZ
+TOBIAS: Ein Hotel, in dem ein Wasser neun Euro kostet. Wer zahlt hier eigentlich?
+> 물 한 병에 9유로인 호텔이라니. 여기 대체 누가 내는 거야?
+CLARA: Herr Zhou zahlt. Das ist bei ihm eine Frage der Höflichkeit. Und der Botschaft.
+> 저우 씨가 내요. 그 사람한테는 예의의 문제거든요. 그리고 메시지이기도 하고.
+KATHARINA: Welche Botschaft?
+> 무슨 메시지요?
+CLARA: «Ich habe Geld. Sie nicht.» — Frau Brandt, ich kenne ihn seit acht Jahren. Er ist hart, aber er hält sein Wort. Hören Sie ihm bitte erst einmal zu.
+> «나는 돈이 있다. 당신들은 없다.» — 브란트 씨, 저는 그 사람을 8년째 알아요. 냉정하지만 약속은 지키는 사람이에요. 일단 그 사람 얘기부터 들어 주세요.
+KATHARINA: Zuhören ist das Einzige, was ich heute versprechen kann.
+> 듣는 것, 그게 오늘 제가 약속할 수 있는 유일한 거예요.
+ZHOU: Frau Ebersbach, wie schön. Und Sie müssen Frau Dr. Brandt sein. Zhou Wei. Verzeihen Sie die Verspätung — die A5 ist schlimmer als jede Autobahn in Guangdong.
+> 에버스바흐 씨, 반갑습니다. 그리고 브란트 박사님이시겠군요. 저우 웨이입니다. 늦어서 죄송합니다. A5 고속도로가 광둥성 어느 고속도로보다도 심하네요.
+KATHARINA: Guten Tag, Herr Zhou. Sie sprechen ausgezeichnet Deutsch.
+> 안녕하세요, 저우 씨. 독일어를 정말 잘하시네요.
+ZHOU: Ich habe in Aachen Maschinenbau studiert. Sechs Jahre. Ich kann auch Karnevalslieder singen, aber das tue ich nur nach Vertragsabschluss.
+> 아헨에서 기계공학을 공부했습니다. 6년. 카니발 노래도 부를 줄 알지만, 그건 계약을 맺은 뒤에만 합니다.
+TOBIAS: Dann hoffe ich, dass wir heute nichts davon hören.
+> 그럼 오늘은 한 곡도 안 듣게 되길 바라죠.
+ZHOU: Sie müssen Herr Wendt sein. Frau Ebersbach hat mich vor Ihnen gewarnt.
+> 벤트 이사님이시군요. 에버스바흐 씨가 이사님을 조심하라고 하더군요.
+BRENNER: Felix Brenner, ich berate Longhai bei dieser Transaktion. Darf ich vorschlagen, dass wir gleich zur Sache kommen?
+> 펠릭스 브레너입니다. 이번 거래에서 Longhai를 자문하고 있습니다. 바로 본론으로 들어가도 될까요?
+KATHARINA: Gern. Die Frage, die mich interessiert, ist ganz einfach: Was wollen Sie von uns, Herr Zhou — und was wollen Sie dafür nicht hergeben?
+> 좋아요. 제가 궁금한 건 아주 간단해요. 저우 씨, 저희한테서 무엇을 원하시고, 그 대가로 무엇은 내놓지 않으실 건가요?
+
+## 분석 — DAS ANGEBOT
+ZHOU: Ich mag Menschen, die mit der schwierigsten Frage anfangen. Also: Longhai baut in China jedes Jahr über eine Million E-Achsen. Wir sind schnell, wir sind günstig. Aber unsere Getriebe sind laut.
+> 저는 가장 어려운 질문부터 시작하는 사람을 좋아합니다. 그럼 말씀드리죠. Longhai는 중국에서 매년 전기차 액슬을 100만 개 넘게 만듭니다. 우리는 빠르고, 저렴하죠. 그런데 우리 변속기는 시끄럽습니다.
+ZHOU: Unsere Kunden in Europa sagen: «Herr Zhou, Ihre Achse ist billig, aber im Auto klingt sie wie ein Küchenmixer.» Ihre Getriebe klingen wie gar nichts. Das will ich.
+> 유럽 고객들은 이렇게 말해요. «저우 씨, 당신네 액슬은 싸지만 차 안에서 믹서기 같은 소리가 난다.» 당신네 변속기는 아무 소리도 안 나죠. 저는 그걸 원합니다.
+SELIN: Sie meinen die Akustik. Die Verzahnungstechnik von Frau Dr. Haas.
+> 소음 기술 말씀이시군요. 하스 박사님의 치형 기술이요.
+ZHOU: Ich meine achtunddreißig Patentfamilien zur Geräuschreduzierung. Ich habe sie alle gelesen. Einige zweimal.
+> 소음 저감에 관한 38개의 특허군을 말하는 겁니다. 전부 읽어 봤어요. 몇 개는 두 번씩.
+BRENNER: Unser Vorschlag hat zwei Teile. Erstens: ein Joint Venture für Getriebe in E-Achsen. Longhai hält einundfünfzig Prozent, Ebersbach neunundvierzig. Ebersbach bringt die Patente und das Entwicklungsteam aus Hanau ein.
+> 저희 제안은 두 부분입니다. 첫째, 전기차 액슬용 변속기 합작투자. Longhai 51퍼센트, 에버스바흐 49퍼센트. 에버스바흐는 특허와 하나우 개발팀을 출자합니다.
+BRENNER: Longhai zahlt dafür sechzig Millionen Euro in bar. Und das Joint Venture bekommt Zugang zu unseren Stückzahlen — eine Million Achsen im Jahr.
+> 그 대가로 Longhai는 현금 6,000만 유로를 지불합니다. 그리고 합작법인은 저희 생산 물량, 연간 액슬 100만 개에 접근할 수 있게 됩니다.
+TOBIAS: Und der zweite Teil?
+> 두 번째 부분은요?
+BRENNER: Eine Kapitalerhöhung bei der Ebersbach AG. Longhai zeichnet neue Aktien für hundertzwanzig Millionen Euro — mit einem Aufschlag von dreißig Prozent auf den aktuellen Kurs. Danach hielte Longhai vierundzwanzig Komma neun Prozent.
+> 에버스바흐 AG의 증자입니다. Longhai가 1억 2,000만 유로어치 신주를 인수합니다. 현재 주가에 30퍼센트 프리미엄을 얹어서요. 그 후 Longhai의 지분은 24.9퍼센트가 됩니다.
+TOBIAS: Vierundzwanzig Komma neun. Nicht fünfundzwanzig.
+> 24.9라. 25가 아니고요.
+BRENNER: Wir kennen die deutschen Schwellenwerte, Herr Wendt.
+> 저희도 독일의 기준선은 압니다, 벤트 이사님.
+SELIN: Hundertachtzig Millionen zusammen. Das ist mehr als doppelt so viel wie der Kredit, für den wir eine Nacht lang mit fünf Banken verhandelt haben.
+> 합쳐서 1억 8,000만. 우리가 은행 다섯 곳과 밤새 협상해서 받은 대출의 두 배가 넘네요.
+ZHOU: Genau. Und ich verlange keine Sicherheiten, kein Sanierungsgutachten und keine Landesbürgschaft. Ich verlange nur Partnerschaft.
+> 그렇습니다. 그리고 저는 담보도, 구조조정 감정서도, 주 정부 보증도 요구하지 않습니다. 파트너십만 요구할 뿐이죠.
+KATHARINA: Was gehört bei Ihnen zur Partnerschaft?
+> 저우 씨가 말하는 파트너십에는 뭐가 포함되죠?
+BRENNER: Ein Sitz im Aufsichtsrat der Ebersbach AG. Und im Joint Venture ein Zustimmungsvorbehalt bei allen Entscheidungen über Technologie und Lizenzen.
+> 에버스바흐 AG 감사회 의석 하나. 그리고 합작법인에서는 기술과 라이선스에 관한 모든 결정에 대한 동의권.
+TOBIAS: Ein Vetorecht also.
+> 그러니까 거부권이군요.
+BRENNER: Ein Zustimmungsvorbehalt. Das ist in Joint Ventures üblich.
+> 동의권입니다. 합작투자에서는 통상적이죠.
+SELIN: Darf ich fragen, wem Longhai gehört?
+> Longhai의 주인이 누군지 여쭤봐도 될까요?
+ZHOU: Den Gründern, institutionellen Anlegern — und zu dreißig Prozent einem Investitionsfonds der Provinz. Das ist in China nicht ungewöhnlich.
+> 창업자들, 기관투자자들, 그리고 30퍼센트는 성(省) 정부의 투자펀드가 갖고 있습니다. 중국에서는 드문 일이 아니에요.
+SELIN: Und wo sitzt die Entwicklung des Joint Ventures? In Hanau oder in Shenzhen?
+> 그럼 합작법인의 개발 부서는 어디에 있게 되나요? 하나우요, 선전이요?
+ZHOU: Zuerst in Hanau. Später dort, wo es am sinnvollsten ist.
+> 처음엔 하나우에. 나중에는 가장 합리적인 곳에.
+KATHARINA: «Später» und «am sinnvollsten» sind zwei Worte, über die wir sprechen müssen.
+> «나중에»와 «가장 합리적인 곳». 그 두 단어는 우리가 이야기를 해 봐야겠네요.
+ZHOU: Natürlich. Frau Dr. Brandt, ich will ehrlich sein. Sie brauchen Geld und Stückzahlen. Ich brauche Ihre Akustik und Ihren Namen bei europäischen Kunden. Das ist ein faires Geschäft.
+> 물론입니다. 브란트 박사님, 솔직하게 말씀드리죠. 당신들은 돈과 물량이 필요하고, 저는 당신들의 소음 기술과 유럽 고객들 사이의 이름값이 필요합니다. 공정한 거래죠.
+CLARA: Ich habe in Shanghai mit Herrn Zhou drei Jahre lang verhandelt. Er hat nie eine Zusage gebrochen.
+> 저는 상하이에서 3년 동안 저우 씨와 협상했어요. 이분은 한 번도 약속을 깬 적이 없어요.
+SELIN: Und was passiert mit den Mitarbeitern des Entwicklungsteams in Hanau? Wechseln sie in das Joint Venture?
+> 그럼 하나우 개발팀 직원들은 어떻게 되죠? 합작법인으로 옮기는 건가요?
+BRENNER: Im Wege eines Betriebsübergangs. Ihre Arbeitsverträge gehen mit allen Rechten über. Das ist deutsches Recht.
+> 사업 양도 방식으로요. 근로계약은 모든 권리와 함께 승계됩니다. 독일 법이 그렇죠.
+TOBIAS: Und wenn das Joint Venture in drei Jahren beschließt, die Entwicklung zu verlagern, gilt das deutsche Recht immer noch — für die Abfindungen.
+> 그리고 합작법인이 3년 뒤에 개발 부서를 옮기기로 하면, 그때도 독일 법이 적용되겠죠. 퇴직금에 대해서.
+ZHOU: Herr Wendt, Sie denken sehr weit voraus.
+> 벤트 이사님, 아주 멀리 내다보시는군요.
+TOBIAS: Das ist mein Beruf. Ich bin der Mann, der die Zukunft klein rechnet. So steht es jedenfalls in einer Präsentation bei uns im Haus.
+> 그게 제 직업이니까요. 저는 미래를 작게 계산하는 사람입니다. 적어도 우리 회사의 어떤 발표 자료에는 그렇게 쓰여 있어요.
+CLARA: Herr Zhou meint es ernst, Herr Wendt. Sie sollten sich wenigstens anhören, wie ernst.
+> 저우 씨는 진지해요, 벤트 이사님. 적어도 얼마나 진지한지는 들어 보셔야죠.
+TOBIAS: Herr Zhou, eine Frage aus reiner Neugier: Warum bieten Sie dreißig Prozent über dem Kurs?
+> 저우 씨, 순수한 호기심에서 묻는 건데요. 왜 시세보다 30퍼센트나 더 주시려는 거죠?
+ZHOU: Weil Ihr Kurs zu niedrig ist. Und weil ich nicht will, dass Ihre Aktionäre Nein sagen.
+> 당신네 주가가 너무 낮으니까요. 그리고 당신네 주주들이 거절하길 원치 않으니까.
+KATHARINA: Wir brauchen eine Woche, Herr Zhou. Der Aufsichtsrat muss zustimmen, und bei einer Kapitalerhöhung auch die Hauptversammlung oder das genehmigte Kapital.
+> 일주일이 필요합니다, 저우 씨. 감사회가 승인해야 하고, 증자라면 주주총회 승인이나 수권자본도 필요하니까요.
+ZHOU: Eine Woche. Und Frau Dr. Brandt — die Batterie in Ihrem Telefon ist leer. Ich kenne das Gefühl. Bei Ebersbach ist es gerade dasselbe, nur mit Geld.
+> 일주일이라. 그리고 브란트 박사님, 휴대폰 배터리가 다 됐네요. 저도 그 기분 압니다. 지금 에버스바흐가 딱 그렇죠. 돈이 바닥난 거만 다를 뿐.
+
+## 갈등 — VATER UND TOCHTER
+WIEGAND: Ich habe mir das Angebot juristisch angesehen. Kurz gesagt: Die vierundzwanzig Komma neun Prozent sind kein Zufall.
+> 법적으로 제안을 검토해 봤습니다. 간단히 말해, 24.9퍼센트는 우연이 아니에요.
+KONRAD: Natürlich nicht. Nichts bei diesem Mann ist Zufall.
+> 당연하지. 그 사람이 하는 일에 우연은 없어.
+WIEGAND: Ab fünfundzwanzig Prozent könnte das Wirtschaftsministerium in Berlin eine Investitionsprüfung einleiten. Longhai bleibt knapp darunter.
+> 25퍼센트부터는 베를린의 연방경제부가 투자심사를 시작할 수 있습니다. Longhai는 그 바로 밑에 머무는 거죠.
+TOBIAS: Aber?
+> 하지만?
+WIEGAND: Aber mit dem Aufsichtsratssitz und dem Vetorecht im Joint Venture bekommt Longhai mehr Einfluss, als die Prozente zeigen. Das nennt man atypischen Kontrollerwerb. Den kann das Ministerium auch unterhalb der Schwelle prüfen.
+> 하지만 감사회 의석과 합작법인 거부권까지 얻으면, Longhai는 지분율이 보여 주는 것보다 큰 영향력을 갖게 됩니다. 그걸 비전형적 지배권 취득이라고 해요. 그 경우 연방경제부는 기준선 아래라도 심사할 수 있어요.
+WIEGAND: Dazu kommen die Patente. Wenn wir ein ganzes Entwicklungsteam mit seinen Schutzrechten in ein Joint Venture geben, kann das als Erwerb eines abgrenzbaren Betriebsteils gelten. Auch das ist prüfbar.
+> 게다가 특허 문제가 있어요. 개발팀 전체를 그 권리와 함께 합작법인에 넘기면, 별도 사업부를 인수하는 것으로 볼 수 있습니다. 그것도 심사 대상이고요.
+KATHARINA: Wie lange dauert so eine Prüfung?
+> 그런 심사는 얼마나 걸려요?
+WIEGAND: Im Hauptprüfverfahren vier Monate, verlängerbar. In dieser Zeit fließt kein Geld.
+> 본심사에 들어가면 4개월, 연장 가능합니다. 그동안은 돈이 한 푼도 안 들어와요.
+TOBIAS: Und Herr Zhou zahlt die hundertzwanzig Millionen erst nach der Freigabe.
+> 그리고 저우 씨는 승인이 난 뒤에야 1억 2,000만을 내는 거고요.
+WIEGAND: So steht es im Entwurf. Und wenn das Ministerium Auflagen macht — etwa, dass die Patente in Deutschland bleiben müssen —, kann Longhai vom Vertrag zurücktreten.
+> 초안에 그렇게 되어 있습니다. 그리고 연방경제부가 조건을 붙이면, 예를 들어 특허가 독일에 남아야 한다는 식으로요, Longhai는 계약을 해제할 수 있어요.
+KATHARINA: Das heißt, im schlimmsten Fall warten wir vier Monate und haben am Ende nichts.
+> 그러니까 최악의 경우 넉 달을 기다리고 결국 아무것도 못 받는다는 거네요.
+WIEGAND: Im schlimmsten Fall, ja. Im zweitschlimmsten Fall bekommen wir das Geld und verlieren die Kontrolle über unsere Technik.
+> 최악의 경우엔 그렇죠. 두 번째로 나쁜 경우엔 돈은 받고 우리 기술에 대한 통제권을 잃고요.
+TOBIAS: Und was ist der beste Fall?
+> 그럼 최선의 경우는요?
+WIEGAND: Dazu steht in meinem Vermerk nichts. Ich bin Juristin, Herr Wendt.
+> 그건 제 검토 메모에 없습니다. 저는 법률가예요, 벤트 이사님.
+CLARA: Vier Monate. Das ist lang, aber kein Grund, Nein zu sagen. Die Banken haben uns auch Wochen gekostet.
+> 4개월. 길긴 하지만 거절할 이유는 아니에요. 은행 건도 몇 주씩 걸렸잖아요.
+KONRAD: Clara, es geht nicht um vier Monate. Es geht um die Patente. Dein Großvater hat nach dem Krieg mit drei Drehbänken und einem Patent angefangen. Das Patent hing gerahmt in seinem Büro.
+> 클라라, 4개월이 문제가 아니야. 특허가 문제지. 네 할아버지는 전쟁이 끝나고 선반 세 대와 특허 하나로 시작하셨어. 그 특허를 액자에 넣어서 사무실에 걸어 두셨지.
+CLARA: Und heute hängt im Büro eine Liquiditätsplanung, die im Januar rot wird. Papa, Patente kann man nicht essen.
+> 그리고 오늘 그 사무실엔 1월이면 적자로 돌아서는 유동성 계획이 걸려 있죠. 아빠, 특허는 먹을 수가 없어요.
+KONRAD: Und Geld kann man nicht zurückkaufen, wenn das Wissen weg ist.
+> 그리고 기술이 떠나 버리면 돈으로 되사 올 수도 없지.
+CLARA: Du willst lieber pleitegehen, als mit einem Chinesen Geschäfte zu machen. Sag es doch einfach.
+> 아빠는 중국 사람이랑 거래하느니 차라리 파산하겠다는 거잖아요. 그냥 솔직히 말해요.
+KONRAD: Das ist nicht wahr, und das weißt du. Ich habe dich selbst nach Shanghai geschickt.
+> 그건 사실이 아니고, 너도 알잖아. 너를 상하이에 보낸 건 나야.
+CLARA: Um mich loszuwerden.
+> 나를 떼어 내려고요.
+KONRAD: Um dich etwas lernen zu lassen, was ich nicht konnte. — Entschuldigt. Ich muss … einen Moment.
+> 내가 못 했던 걸 네가 배우게 하려고. — 미안하다. 잠깐… 잠깐만.
+KATHARINA: Herr Ebersbach? Frau Wiegand, bitte ein Glas Wasser.
+> 회장님? 비간트 씨, 물 한 잔 부탁해요.
+KONRAD: Es geht schon. Die Treppe. Ich sollte den Aufzug nehmen, sagt mein Kardiologe. — Frau Brandt, ich will Ihnen etwas sagen, das ich gelernt habe. Geld löst ein Problem und schafft zwei neue.
+> 괜찮아요. 계단 때문에. 엘리베이터를 타라고 심장 전문의가 그러더군. — 브란트 박사, 내가 배운 걸 하나 말해 주죠. 돈은 문제 하나를 해결하고 새 문제 두 개를 만들어요.
+KATHARINA: Welche zwei?
+> 어떤 두 개요?
+KONRAD: Das müssen Sie herausfinden. Dafür bezahle ich Sie ja.
+> 그건 당신이 알아내야지. 그러라고 월급 주는 거니까.
+SELIN: Ich habe zwei. Erstens: Abhängigkeit. Longhai ist nicht nur Investor, sondern liefert auch die Elektromotoren für das Joint Venture. Die Magnete darin bestehen aus Seltenen Erden.
+> 저한테 두 개 있어요. 첫째, 의존. Longhai는 투자자일 뿐 아니라 합작법인에 전기 모터도 공급해요. 그 안의 자석은 희토류로 만들고요.
+SELIN: China hat den Export von Seltenen Erden und Magneten schon mehrmals beschränkt. Wenn das wieder passiert, steht das Joint Venture still — und wir können nichts dagegen tun.
+> 중국은 이미 여러 번 희토류와 자석 수출을 제한했어요. 그게 또 일어나면 합작법인은 멈추고, 우리는 아무것도 할 수 없어요.
+SELIN: Zweitens: Ich habe mir die Geschichte von Longhai angesehen. Vor sechs Jahren gab es ein Joint Venture mit einem italienischen Hersteller. Nach drei Jahren hat Longhai eine eigene Fabrik gebaut und das Joint Venture beendet.
+> 둘째, Longhai의 이력을 살펴봤어요. 6년 전에 이탈리아 제조업체와 합작투자를 했어요. 3년 뒤 Longhai는 자체 공장을 짓고 합작을 끝냈죠.
+CLARA: Die Italiener haben schlecht verhandelt. Sie haben keine Schutzklauseln vereinbart.
+> 그 이탈리아 회사가 협상을 못 한 거예요. 보호 조항을 하나도 안 넣었으니까.
+TOBIAS: Und mit hundertachtzig Millionen auf dem Tisch verhandelt man immer besser?
+> 그럼 테이블 위에 1억 8,000만이 놓여 있으면 협상을 늘 더 잘하게 되나요?
+CLARA: Herr Wendt, Sie haben vor drei Monaten mit fünf Banken um achtzig Millionen gekämpft. Jetzt bietet uns jemand das Doppelte, ohne Bürgschaft. Wie oft bekommen wir so eine Chance?
+> 벤트 이사님, 석 달 전에 은행 다섯 곳과 8,000만을 놓고 싸우셨죠. 지금은 누군가 보증도 없이 그 두 배를 주겠다고 해요. 이런 기회가 몇 번이나 오겠어요?
+KATHARINA: Frau Ebersbach, ich glaube nicht, dass Sie falschliegen, was das Geld angeht. Ich glaube, Sie liegen falsch, was den Preis angeht.
+> 에버스바흐 씨, 돈에 관해서라면 당신이 틀렸다고 생각하지 않아요. 제가 보기에 당신이 틀린 건 그 대가예요.
+CLARA: Und was schlagen Sie vor? Herrn Zhou wegschicken und im Januar wieder bei der Mainbank betteln?
+> 그럼 당신 제안은 뭔데요? 저우 씨를 돌려보내고 1월에 다시 마인방크에 가서 구걸하자고요?
+KATHARINA: Nein. Ich schlage vor, dass wir ihm etwas anderes verkaufen als unsere Zukunft. Und ich hätte gern, dass Sie mit am Tisch sitzen. Sie kennen ihn besser als jeder von uns.
+> 아니요. 우리 미래 말고 다른 걸 그분께 팔자는 거예요. 그리고 당신이 그 테이블에 같이 앉아 주셨으면 해요. 당신이 우리 누구보다 그분을 잘 아니까요.
+
+## 해결·설득 — EINE LIZENZ STATT EINER ZUKUNFT
+ZHOU: Sie haben mich nach Hanau eingeladen statt in mein Hotel. Das ist entweder ein gutes oder ein sehr schlechtes Zeichen.
+> 제 호텔이 아니라 하나우로 부르셨군요. 아주 좋은 징조거나 아주 나쁜 징조겠네요.
+KATHARINA: Es ist ein ehrliches Zeichen, Herr Zhou. Ich will, dass Sie sehen, was Sie kaufen möchten — und warum wir es nicht verkaufen.
+> 정직한 징조예요, 저우 씨. 사고 싶어 하시는 게 뭔지, 그리고 저희가 그걸 왜 팔지 않는지 보셨으면 해서요.
+ZHOU: Dann war es ein schlechtes Zeichen.
+> 그럼 나쁜 징조였네요.
+KATHARINA: Warten Sie ab. Wir sagen Nein zum Joint Venture, Nein zum Aufsichtsratssitz und Nein zur Übertragung der Patente. Aber wir sagen Ja zu dem, was Sie eigentlich brauchen: leise Getriebe in Ihren Achsen.
+> 기다려 보세요. 합작투자, 감사회 의석, 특허 이전에는 '아니요'예요. 하지만 저우 씨에게 정말 필요한 것에는 '네'라고 하겠습니다. 당신네 액슬에 들어갈 조용한 변속기요.
+BRENNER: Ohne Patente gibt es keine leisen Getriebe.
+> 특허 없이는 조용한 변속기도 없습니다.
+KATHARINA: Doch. Mit einer Lizenz. Longhai erhält eine Lizenz für unsere Akustiktechnik — ausschließlich für den chinesischen Markt, für sieben Jahre. Die Patente bleiben bei uns.
+> 있죠. 라이선스로요. Longhai는 우리 소음 기술에 대한 라이선스를 받습니다. 중국 시장에 한정해서, 7년간. 특허는 우리에게 남고요.
+TOBIAS: Dafür zahlt Longhai eine einmalige Lizenzgebühr von fünfunddreißig Millionen Euro und drei Prozent auf jede Achse, die mit unserer Technik verkauft wird.
+> 그 대가로 Longhai는 일시불 라이선스료 3,500만 유로, 그리고 우리 기술이 들어간 액슬 한 개당 3퍼센트를 지불합니다.
+ZHOU: Fünfunddreißig Millionen statt hundertachtzig. Sie verhandeln wie jemand, der nicht pleite ist.
+> 1억 8,000만 대신 3,500만이라. 파산 직전이 아닌 사람처럼 협상하시는군요.
+KATHARINA: Ich verhandle wie jemand, der in sieben Jahren noch hier sein will. Herr Zhou, ein Patent, das Sie kaufen, ist in ein paar Jahren abgelaufen oder umgangen. Ein Partner, der jedes Jahr besser wird, ist mehr wert.
+> 7년 뒤에도 여기 있고 싶은 사람처럼 협상하는 거죠. 저우 씨, 사들인 특허는 몇 년 지나면 만료되거나 우회당합니다. 해마다 더 나아지는 파트너가 더 가치 있죠.
+ZHOU: Und warum sollte Ihre Technik jedes Jahr besser werden?
+> 그런데 왜 당신네 기술이 해마다 더 나아진다는 겁니까?
+KATHARINA: Weil sie in Hanau entsteht, mit Leuten, die seit dreißig Jahren nichts anderes tun. Wenn Sie das Team nach Shenzhen holen, haben Sie die Patente von heute. Wenn Sie mit uns arbeiten, haben Sie die von morgen.
+> 하나우에서, 30년 동안 그것만 해 온 사람들과 함께 만들어지니까요. 그 팀을 선전으로 데려가시면 오늘의 특허를 갖게 되시겠죠. 우리와 함께 일하시면 내일의 특허를 갖게 되실 거고요.
+BRENNER: Das ist eine schöne Philosophie. Aber Longhai braucht Sicherheit, dass Ebersbach morgen noch existiert.
+> 멋진 철학이네요. 하지만 Longhai는 에버스바흐가 내일도 존재한다는 확신이 필요합니다.
+CLARA: Dann bekommt Longhai einen Liefervertrag. Ebersbach liefert die Präzisionszahnräder für Longhais Achsen in Europa, vierzig Millionen Euro im Jahr. Wer liefert, existiert.
+> 그럼 Longhai는 공급 계약을 받으면 돼요. 에버스바흐가 Longhai 유럽용 액슬의 정밀 기어를 공급하는 거죠. 연간 4,000만 유로. 납품하는 회사는 존재하는 회사예요.
+ZHOU: Clara. Ich dachte, Sie wären auf meiner Seite.
+> 클라라. 당신은 내 편인 줄 알았는데.
+CLARA: Ich bin auf der Seite dieses Unternehmens, Zhou Wei. Das war ich in Shanghai auch. Sie erinnern sich an die Nacht im Peace Hotel?
+> 저는 이 회사 편이에요, 저우 웨이. 상하이에서도 그랬어요. 피스 호텔에서의 그 밤 기억하시죠?
+ZHOU: … Ich erinnere mich, dass Sie mich damals um vier Uhr früh zu einem schlechteren Vertrag überredet haben, der dann sehr gut für beide war.
+> …그때 새벽 네 시에 당신이 나를 설득해서 더 나쁜 계약에 서명하게 했는데, 결국 양쪽 모두에게 아주 좋은 계약이 됐던 걸 기억하죠.
+CLARA: Genau diese Nacht meine ich.
+> 바로 그 밤 얘기예요.
+KATHARINA: Herr Zhou, noch ein Punkt, der auch für Sie wichtig ist. Eine Lizenz und ein Liefervertrag sind keine Beteiligung. Das Ministerium in Berlin muss nichts prüfen. Sie bekommen Ihre Technik in drei Wochen, nicht in vier Monaten.
+> 저우 씨, 저우 씨에게도 중요한 점이 하나 더 있어요. 라이선스와 공급 계약은 지분 참여가 아니에요. 베를린의 연방경제부가 심사할 게 없죠. 기술을 4개월이 아니라 3주 안에 받으실 수 있어요.
+WIEGAND: Das kann ich bestätigen. Keine Investitionsprüfung, keine Wartezeit.
+> 그건 제가 확인해 드릴 수 있습니다. 투자심사도, 대기 기간도 없어요.
+BRENNER: Für meinen Mandanten ist Geschwindigkeit tatsächlich ein Wert. Die Wettbewerber schlafen nicht.
+> 제 의뢰인에게 속도는 실제로 가치가 있습니다. 경쟁사들은 잠들어 있지 않으니까요.
+KATHARINA: Und Ihre Kunden in Europa warten auch nicht, Herr Zhou. Die wollen nächstes Jahr leise Autos verkaufen, nicht in vier Monaten über eine Prüfung reden.
+> 그리고 유럽의 고객들도 기다려 주지 않죠, 저우 씨. 그 사람들은 넉 달 동안 심사 얘기를 하는 게 아니라 내년에 조용한 차를 팔고 싶어 해요.
+ZHOU: Und wenn ich Nein sage?
+> 그런데 제가 거절하면요?
+KATHARINA: Dann suchen Sie sich ein anderes Unternehmen mit achtunddreißig Patentfamilien zur Geräuschreduzierung. Ich wünsche Ihnen viel Glück — und ich glaube, Sie haben sie schon alle gelesen.
+> 그럼 소음 저감 특허군 38개를 가진 다른 회사를 찾으셔야겠죠. 행운을 빌어요. 그리고 제 생각엔, 그런 특허는 이미 다 읽어 보셨을 것 같은데요.
+ZHOU: … Fünfundvierzig Millionen Lizenzgebühr, nicht fünfunddreißig. Zehn Jahre, nicht sieben. Und ein gemeinsames Testlabor in Hanau, in dem meine Ingenieure lernen dürfen.
+> …라이선스료 3,500만이 아니라 4,500만. 7년이 아니라 10년. 그리고 하나우에 공동 시험실을 두고 우리 엔지니어들이 배울 수 있게 해 주세요.
+TOBIAS: Vierzig Millionen, acht Jahre. Das Testlabor ja — aber Ihre Ingenieure lernen, sie kopieren nicht. Mit Vertraulichkeitsregeln, die Frau Dr. Wiegand schreibt.
+> 4,000만, 8년. 시험실은 좋습니다. 단, 당신네 엔지니어들은 배우는 거지 베끼는 게 아닙니다. 비간트 박사가 작성하는 비밀유지 규정을 따라서요.
+ZHOU: Herr Wendt, Frau Ebersbach hatte recht. Man muss Sie fürchten. — Einverstanden. Unter Vorbehalt meines Vorstands.
+> 벤트 이사님, 에버스바흐 씨 말이 맞았네요. 당신은 무서운 사람이에요. — 좋습니다. 우리 이사회 승인을 조건으로.
+KATHARINA: Und dann singen Sie ein Karnevalslied?
+> 그럼 이제 카니발 노래 부르시는 건가요?
+ZHOU: Nur ein kurzes. Und nur, wenn Frau Ebersbach mitsingt.
+> 짧은 걸로 하나만요. 그리고 에버스바흐 씨가 같이 불러 준다면요.
+
+## 마무리 — DONNERSTAG, ABENDS
+KONRAD: Vierzig Millionen, und die Patente bleiben im Haus. Clara, das war der bessere Vertrag. Besser, als ich ihn je gemacht hätte.
+> 4,000만에, 특허는 회사에 남고. 클라라, 그게 더 나은 계약이었다. 내가 했어도 그보다 잘하진 못했을 거야.
+CLARA: Du hättest ihn gar nicht gemacht, Papa. Du hättest Zhou nach zehn Minuten hinausgeworfen.
+> 아빠는 아예 계약을 안 했겠죠. 10분 만에 저우 씨를 쫓아냈을 테니까.
+KONRAD: Nach fünf. — Frau Brandt, danke, dass Sie meine Tochter an den Tisch geholt haben. Sie wird es nicht sagen, aber es hat ihr gutgetan.
+> 5분 만에. — 브란트 박사, 내 딸을 그 테이블에 앉혀 줘서 고마워요. 그 애는 말 안 하겠지만, 그 애한테도 좋은 일이었어요.
+CLARA: Ich bin anwesend, Papa.
+> 저 여기 있거든요, 아빠.
+KATHARINA: Ohne Frau Ebersbach hätte Herr Zhou nicht unterschrieben. Das ist keine Höflichkeit, das ist eine Feststellung.
+> 에버스바흐 씨가 아니었으면 저우 씨는 서명하지 않았을 거예요. 예의상 하는 말이 아니라 사실을 말하는 거예요.
+CLARA: Bilden Sie sich nichts ein, Frau Brandt. Ich habe es für die Firma getan, nicht für Sie.
+> 착각하지 마세요, 브란트 씨. 회사를 위해 한 거지 당신을 위해 한 게 아니니까.
+KATHARINA: Genau deshalb hat es funktioniert.
+> 바로 그래서 성공한 거예요.
+TOBIAS: Vierzig Millionen Lizenz, vierzig Millionen Liefervertrag im Jahr. Die Liquiditätsplanung wird zum ersten Mal seit Oktober nicht rot.
+> 라이선스 4,000만, 연간 공급 계약 4,000만. 유동성 계획이 10월 이후 처음으로 빨간색이 아니네.
+SELIN: Ich störe nur ungern bei so viel guter Laune. Herr Kröger hat angerufen. Die neue Schleifmaschine ist in Spandau angekommen.
+> 이렇게 다들 기분 좋을 때 끼어들기 싫은데. 크뢰거 씨가 전화했어. 새 연삭기가 슈판다우에 도착했대.
+KATHARINA: Das ist doch eine gute Nachricht.
+> 그거 좋은 소식이잖아.
+SELIN: Er sagt, es gibt nur ein Problem: Niemand ist da, der sie bedienen kann. Herr Matuschek ist krank, und für die zwei Azubistellen gab es genau einen Bewerber.
+> 문제가 딱 하나 있대. 그걸 다룰 사람이 없대. 마투셰크 씨는 아프고, 견습생 두 자리에 지원자가 딱 한 명이었대.
+KONRAD: Willkommen in Deutschland, Frau Aydın. Wir haben Maschinen, Geld, Patente — und keine Hände.
+> 독일에 온 걸 환영해요, 아이든 씨. 기계도 있고, 돈도 있고, 특허도 있는데 일손이 없죠.

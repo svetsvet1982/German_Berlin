@@ -1,0 +1,267 @@
+part: 1
+ep: 13
+title_de: Streik auf Station
+title_ko: 병동 파업
+scene: 목요일 아침, 테겔 병원 정문 앞 파업 현장 → 협상실
+level: B2
+setting: 유출 기사 이틀 뒤 목요일 오전 일곱 시부터 저녁까지, 베를린 라이니켄도르프 Spreeklinik 테겔 병원 정문 앞 파업 현장과 본관 협상실
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
+cast: SEIDEL | Dr. Martina Seidel · Spreeklinik 대표
+cast: BRANDL | Monika Brandl · 테겔 병원 간호부장
+cast: KOWALCZYK | Sandra Kowalczyk · ver.di 협상 대표, 전 중환자실 간호사 (가상)
+cast: MÖBIUS | Anja Möbius · 테겔 병원 중환자실 간호사, 파업 참가자 (34)
+cast: ALBERS | Prof. Dr. Henning Albers · 테겔 병원 외과 과장
+note: ※ 독일 병원 파업에서는 환자 안전을 위해 노조와 병원이 미리 '필수 유지 협정(Notdienstvereinbarung)'을 맺어, 응급실과 중환자 진료는 최소 인력으로 계속 돌아가게 합니다. 공공 병원 노조인 ver.di는 임금보다 인력 문제로 파업하는 경우가 많습니다. 2021년 베를린 공공 병원 간호사들은 장기 파업 끝에 '부담 경감 단체협약(Entlastungstarifvertrag)'을 따냈는데, 인력이 기준보다 부족한 근무를 하면 점수가 쌓이고 일정 점수마다 휴무를 받는 방식입니다. 병동에 실제로 필요한 간호 인력을 산정하는 도구 PPR 2.0(Pflegepersonalregelung 2.0)은 법으로 단계적으로 도입되고 있습니다. 많은 병원이 비싼 파견 인력 대신 결원 대체 전담 인력 풀(Springerpool)을 만들고 있으며, 근무 조건이 더 좋은 스위스로 떠나는 독일 간호사도 적지 않습니다. 길거리 시위 현장에서는 처음 보는 사람끼리도 곧잘 du를 씁니다. 병원·언론·인물은 모두 가상입니다. 표현 초점: der Streik, die Personalbemessung, die Schicht, der Kompromiss, Was brauchen Sie, damit Sie bleiben?
+next: 1부 14화 — «Die Lieferkette»(공급망) — 프랑크푸르트 차일 거리의 패션 체인 Kronberg Moden. 공급망 실사 의무가 완화된다는 소식에 회사는 실사 체계를 줄이려 한다. 팀은 방글라데시 공장 감사 결과와 '규제가 아니라 고객이 요구한다'는 데이터를 들이민다. 그 사이 Katharina는 Lorenz가 고쳐 쓴 Ebersbach 보고서를 두고 결정을 미루고 있다.
+
+## 도입 — TRILLERPFEIFEN
+SELIN: Hörst du das? Trillerpfeifen. Schon an der Bushaltestelle.
+> 들려? 호루라기 소리. 버스 정류장에서부터.
+TOBIAS: Dreihundert Leute vor dem Haupteingang. Mit Westen von Ver.di und mit Schildern.
+> 정문 앞에 300명. 페르디 조끼에 피켓까지.
+SELIN: „Tegel bleibt — wir auch!" Und da: „Berater raus!"
+> '테겔은 남는다 — 우리도!' 그리고 저기. '컨설턴트는 나가라!'
+TOBIAS: Das ist das erste Mal, dass ich auf einem Plakat stehe. Ich hätte mir ein besseres Foto gewünscht.
+> 내가 피켓에 오른 건 처음이네. 사진이 좀 더 잘 나왔으면 좋았을 텐데.
+KATHARINA: Wir gehen durch den Haupteingang. Nicht durch die Tiefgarage.
+> 우리 정문으로 들어간다. 지하 주차장 말고.
+TOBIAS: Bist du sicher? Die Tiefgarage hat ein Dach. Und keine Trillerpfeifen.
+> 확실해? 지하 주차장엔 지붕도 있고, 호루라기도 없는데.
+KATHARINA: Wenn wir uns verstecken, bestätigen wir das Plakat. Wir haben nichts zu verbergen — außer einer schlechten ersten Version.
+> 우리가 숨으면 저 피켓이 맞다는 걸 인정하는 셈이야. 우린 숨길 게 없어 — 형편없던 첫 번째 버전만 빼면.
+SEIDEL: Frau Dr. Brandt! Kommen Sie schnell rein. Seit sechs Uhr streiken die Pflegekräfte. Die Notdienstvereinbarung steht, die Notaufnahme läuft. Aber alle planbaren Operationen sind abgesagt.
+> 브란트 박사님! 빨리 들어오세요. 여섯 시부터 간호사들이 파업 중이에요. 필수 유지 협정은 체결됐고, 응급실은 돌아가요. 하지만 예정된 수술은 전부 취소됐어요.
+KATHARINA: Wie viele?
+> 몇 건이요?
+SEIDEL: Achtunddreißig heute. Und Ver.di sagt, der Streik dauert, bis die Schließung vom Tisch ist.
+> 오늘 서른여덟 건. 그리고 페르디는 폐쇄안이 철회될 때까지 파업한대요.
+SELIN: Aber die Schließung ist doch längst vom Tisch.
+> 그런데 폐쇄안은 이미 오래전에 철회됐잖아요.
+SEIDEL: Das wissen Sie und ich. Draußen weiß man nur, was im „Spree-Echo" stand.
+> 그건 당신과 나만 알죠. 밖에서는 '슈프레-에코'에 실린 것만 알아요.
+
+## 장면 1 — VIER FORDERUNGEN
+KATHARINA: Wissen wir, wer das Foto gemacht hat?
+> 누가 그 사진을 찍었는지 알아요?
+SEIDEL: Nein. Die erste Version hing drei Tage an der Wand im Besprechungsraum. Es hätte jeder sein können.
+> 아뇨. 첫 번째 버전이 회의실 벽에 사흘 동안 붙어 있었어요. 누구라도 찍을 수 있었죠.
+KATHARINA: Dann ist es jetzt auch egal. Mein Fehler war, dass die Landkarte überhaupt an einer Wand hing. Das sage ich auch draußen.
+> 그럼 이제 그건 중요하지 않네요. 제 실수는 그 지도를 벽에 붙여 둔 것 자체예요. 그건 밖에서도 말하겠습니다.
+BRANDL: Ich habe gestern Abend alle Stationsleitungen angerufen. Die Hälfte hat mir nicht mehr geglaubt. Und das tut weh.
+> 어젯밤에 병동 책임자 전원한테 전화했어요. 절반은 더 이상 제 말을 믿지 않더군요. 그게 아파요.
+SELIN: Was fordert Ver.di genau?
+> 페르디가 정확히 뭘 요구하나요?
+SEIDEL: Hier, vier Punkte. Erstens: keine Schließung von Tegel. Zweitens: keine Versetzung gegen den eigenen Willen. Drittens: eine verbindliche Personalbemessung auf allen Stationen. Viertens: Entlastung, wenn trotzdem zu wenig Personal da ist.
+> 여기요, 네 가지예요. 첫째, 테겔 폐쇄 금지. 둘째, 본인 의사에 반한 전보 금지. 셋째, 모든 병동에 구속력 있는 인력 기준. 넷째, 그래도 인력이 부족하면 부담 경감.
+TOBIAS: Was heißt „Entlastung" konkret?
+> '부담 경감'이 구체적으로 뭔가요?
+BRANDL: Wenn eine Schicht unterbesetzt ist, bekommen die Kolleginnen Punkte. Für eine bestimmte Zahl von Punkten gibt es einen freien Tag. So etwas Ähnliches gibt es schon in anderen Berliner Kliniken.
+> 교대조 인력이 부족하면 동료들이 점수를 받아요. 일정 점수가 쌓이면 하루 쉬는 거죠. 다른 베를린 병원들엔 이미 비슷한 게 있어요.
+SELIN: Und die Personalbemessung?
+> 그럼 인력 기준은요?
+BRANDL: Es gibt ein neues Instrument, die PPR zwei Komma null. Damit berechnet man, wie viele Pflegekräfte eine Station für ihre Patienten wirklich braucht. Nicht, wie viele man gerade hat.
+> 새 도구가 있어요, PPR 2.0이요. 병동이 환자를 위해 실제로 몇 명의 간호사가 필요한지를 계산하는 거죠. 지금 몇 명이 있느냐가 아니라.
+TOBIAS: Und wie viele braucht Tegel nach dieser Rechnung?
+> 그 계산으로는 테겔에 몇 명이 필요한가요?
+BRANDL: Etwa sechzig mehr, als wir haben.
+> 지금보다 약 60명 더요.
+SEIDEL: Sechzig Pflegekräfte, die es auf dem Markt nicht gibt.
+> 시장에 없는 간호사 60명이죠.
+SELIN: Aber das ändert sich doch mit dem Umbau. Mit sechzig statt zweihundertneunzig Betten verteilen sich die Leute auf weniger Stationen.
+> 그런데 개편하면 그게 바뀌잖아요. 병상이 290개 대신 60개면 사람들이 더 적은 병동에 배치되니까요.
+BRANDL: Das weiß ich. Aber auf der Straße heißt „weniger Betten" nur: „Sie nehmen uns etwas weg."
+> 저도 알아요. 하지만 거리에선 '병상 감소'가 그냥 '우리한테서 뭔가를 빼앗는다'는 뜻일 뿐이에요.
+KATHARINA: Wer führt für Ver.di die Verhandlungen?
+> 페르디 쪽 협상 대표는 누구죠?
+SEIDEL: Sandra Kowalczyk. Sie ist gut. Und sehr wütend.
+> 잔드라 코발치크요. 유능해요. 그리고 아주 화가 나 있어요.
+BRANDL: Sandra war vor zwölf Jahren bei mir auf der Intensivstation. Sie weiß genau, wie sich eine Nachtschicht anfühlt.
+> 잔드라는 12년 전에 우리 중환자실 간호사였어요. 야간 근무가 어떤 건지 정확히 알죠.
+TOBIAS: Was kostet ein Streiktag das Haus?
+> 파업 하루가 병원에 얼마나 드나요?
+SEIDEL: Etwa vierhunderttausend Euro an ausgefallenen Operationen. Und das Vertrauen der Patienten, das man nicht zählen kann.
+> 취소된 수술로 약 40만 유로요. 그리고 셀 수 없는 환자들의 신뢰.
+KATHARINA: Und was kostet er die Streikenden?
+> 그럼 파업하는 사람들에겐 얼마가 드나요?
+SEIDEL: Ver.di zahlt Streikgeld. Aber das ist weniger als der Lohn. Und die meisten haben den Patienten gegenüber ein schlechtes Gewissen.
+> 페르디가 파업 수당을 주긴 해요. 하지만 임금보다 적죠. 그리고 대부분 환자들한테 죄책감을 갖고 있어요.
+SELIN: Dann will eigentlich niemand diesen Streik.
+> 그럼 사실 아무도 이 파업을 원하지 않는 거네요.
+KATHARINA: Niemand will ihn. Aber jeder braucht einen Grund, ihn zu beenden, ohne das Gesicht zu verlieren.
+> 아무도 원하지 않지. 하지만 다들 체면을 잃지 않고 끝낼 이유가 필요해.
+TOBIAS: Also ein Kompromiss.
+> 그러니까 타협이네.
+KATHARINA: Ein Kompromiss, bei dem jede Seite etwas mit nach Hause nimmt, das sie ihren Leuten zeigen kann.
+> 각자 자기 사람들한테 보여 줄 수 있는 뭔가를 들고 집에 갈 수 있는 타협.
+SEIDEL: Frau Kowalczyk hat für zwölf Uhr ein Gespräch angeboten. Hier im Haus. Aber nicht mit Ihnen. Nur mit der Geschäftsführung.
+> 코발치크 씨가 열두 시에 대화를 제안했어요. 여기 병원에서요. 그런데 박사님과는 아니고요. 경영진하고만.
+KATHARINA: Das verstehe ich. Dann gehe ich vorher zu ihr. Nach draußen.
+> 이해합니다. 그럼 그 전에 제가 그분한테 가겠습니다. 밖으로요.
+SEIDEL: Nach draußen? Die pfeifen Sie aus.
+> 밖으로요? 야유받을 거예요.
+KATHARINA: Wahrscheinlich. Aber wer nicht zuhört, wenn gepfiffen wird, hört auch später nichts.
+> 아마도요. 하지만 야유가 쏟아질 때 듣지 않는 사람은 나중에도 아무것도 못 들어요.
+TOBIAS: Ich komme mit. Wenn sie Eier werfen, bin ich größer als du.
+> 나도 갈게. 달걀을 던지면 내가 너보다 크니까.
+SELIN: Und ich bringe Kaffee mit. Für alle.
+> 그리고 난 커피 가져갈게. 모두한테.
+BRANDL: Nehmen Sie lieber Tee. Die Hälfte da draußen hat seit drei Nächten nicht geschlafen.
+> 차를 가져가세요. 저기 밖에 있는 사람 절반은 사흘째 잠을 못 잤어요.
+
+## 장면 2 — VOR DEM HAUPTEINGANG
+KOWALCZYK: Na sieh mal an. Die Berater kommen zu Fuß. Kolleginnen, das ist die Frau von dem Foto!
+> 이거 보게. 컨설턴트들이 걸어서 오시네. 동료 여러분, 저 사람이 그 사진 속 여자예요!
+KATHARINA: Frau Kowalczyk, guten Morgen. Katharina Brandt. Ich möchte Ihnen und Ihren Kolleginnen etwas sagen. Darf ich?
+> 코발치크 씨, 안녕하세요. 카타리나 브란트입니다. 당신과 동료분들께 드릴 말씀이 있습니다. 해도 될까요?
+KOWALCZYK: Auspfeifen lassen dürfen Sie sich. Reden ist schwieriger.
+> 야유는 받으셔도 돼요. 말하는 건 좀 어렵겠지만.
+KATHARINA: Das Foto im „Spree-Echo" zeigt eine erste Arbeitsversion. Darin stand „Schließung" als eine von vier Optionen. Wir haben diese Option verworfen. Es war mein Dokument, und es hätte nie an einer Wand hängen dürfen. Dafür entschuldige ich mich.
+> '슈프레-에코'의 사진은 첫 작업 버전입니다. 거기엔 '폐쇄'가 네 가지 선택지 중 하나로 적혀 있었습니다. 저희는 그 선택지를 폐기했습니다. 그건 제 문서였고, 벽에 붙어 있어서는 안 됐습니다. 그 점 사과드립니다.
+KOWALCZYK: Eine Entschuldigung. Schön. Und was steht jetzt drin? Sechzig Betten statt zweihundertneunzig. Das stand gestern auch im Netz.
+> 사과라. 좋네요. 그럼 지금은 뭐가 적혀 있죠? 병상 290개 대신 60개. 그것도 어제 인터넷에 떴더군요.
+KATHARINA: Das stimmt. Und gleichzeitig: eine größere Notaufnahme, keine Kündigungen und nachts mindestens drei Pflegekräfte pro Station.
+> 맞습니다. 그리고 동시에, 더 큰 응급실, 해고 없음, 그리고 밤에도 병동마다 간호사 최소 세 명.
+KOWALCZYK: Versprechen von Beratern. Wissen Sie, wie viele davon ich schon gehört habe?
+> 컨설턴트의 약속이라. 내가 그런 걸 몇 번이나 들어 봤는지 알아요?
+KATHARINA: Wahrscheinlich zu viele.
+> 아마 너무 많이 들으셨겠죠.
+KOWALCZYK: Zweitausendneunzehn hat man uns hier eine „Pflegeoffensive" versprochen. Zweitausendzweiundzwanzig ein „Entlastungsprogramm". Und heute sind siebzig Stellen leer, und die Leute springen jede Woche aus dem Frei ein.
+> 2019년엔 여기서 '간호 공세'를 약속했어요. 2022년엔 '부담 경감 프로그램'. 그리고 오늘은 일흔 자리가 비어 있고, 사람들은 매주 쉬는 날에 불려 나와요.
+TOBIAS: Frau Kowalczyk, wir haben gerechnet: Mit dem Umbau sinkt der Bedarf an Leasingkräften um …
+> 코발치크 씨, 저희가 계산해 봤는데, 개편하면 파견 인력 수요가…
+KOWALCZYK: Junger Mann, stecken Sie Ihren Taschenrechner weg. Hier stehen Menschen, die seit drei Nächten nicht geschlafen haben.
+> 젊은이, 계산기는 집어넣어요. 여기 사흘째 잠 못 잔 사람들이 서 있어요.
+TOBIAS: … Verstanden.
+> …알겠습니다.
+ALBERS: Frau Kowalczyk hat recht. Mit Zahlen haben wir in diesem Haus schon genug Vertrauen zerstört.
+> 코발치크 씨 말이 맞소. 이 병원에선 숫자로 이미 충분히 많은 신뢰를 무너뜨렸지.
+SELIN: Professor Albers? Sie streiken mit?
+> 알버스 교수님? 같이 파업하세요?
+ALBERS: Ärzte streiken hier heute nicht. Ich stehe nur in meiner Pause bei den Kolleginnen. Das ist ein Unterschied.
+> 오늘 여기선 의사들은 파업 안 해요. 쉬는 시간에 동료들 곁에 서 있을 뿐이오. 그건 다르지.
+KOWALCZYK: Und Sie, Frau Dr. Brandt? Was wollen Sie eigentlich hier draußen? Sie haben sich entschuldigt. Jetzt können Sie wieder reingehen, ins Warme.
+> 그럼 브란트 박사, 당신은요? 대체 여기 밖에서 뭘 원하는 거죠? 사과는 했잖아요. 이제 다시 따뜻한 안으로 들어가도 돼요.
+KATHARINA: Ich möchte verstehen, was Ihre Kolleginnen brauchen, damit dieser Streik endet. Nicht, was Ver.di fordert. Was die Menschen hier brauchen.
+> 이 파업이 끝나려면 동료분들께 무엇이 필요한지 이해하고 싶습니다. 페르디가 요구하는 것 말고요. 여기 계신 분들께 필요한 것이요.
+KOWALCZYK: Das ist dasselbe.
+> 그게 같은 거예요.
+KATHARINA: Vielleicht. Dann bestätigen Sie es mir.
+> 그럴지도요. 그럼 그걸 확인시켜 주세요.
+KOWALCZYK: Um zwölf verhandle ich mit der Geschäftsführung. Ohne Sie. Und wenn bis heute Abend nichts Schriftliches da ist, verlängern wir den Streik bis Freitag.
+> 열두 시에 경영진과 협상합니다. 당신 없이. 그리고 오늘 저녁까지 서면으로 된 게 없으면 파업을 금요일까지 연장할 거예요.
+TOBIAS: Das lief nicht gut.
+> 잘 안 됐네.
+KATHARINA: Es lief ehrlich. Für heute ist das genug.
+> 솔직하게 됐잖아. 오늘은 그걸로 충분해.
+SELIN: Katharina, geh du rein. Ich bleibe noch.
+> 카타리나, 넌 들어가. 난 좀 더 있을게.
+KATHARINA: Allein?
+> 혼자?
+SELIN: Mit vierzig Bechern Tee. Ich bin nicht allein.
+> 차 마흔 잔이랑 같이. 혼자 아니야.
+SELIN: Möchten Sie einen Tee? Er ist noch warm.
+> 차 드실래요? 아직 따뜻해요.
+MÖBIUS: Von den Beratern? Ist da Gift drin?
+> 컨설턴트가 주는 거? 독 들었어요?
+SELIN: Nur Pfefferminz. Ich bin Selin.
+> 페퍼민트만요. 저는 셀린이에요.
+MÖBIUS: Anja. Intensivstation, seit neun Jahren. Und ab Februar vielleicht in Zürich.
+> 아냐예요. 중환자실, 9년째요. 그리고 2월부터는 어쩌면 취리히에 있겠죠.
+SELIN: Zürich? Haben Sie dort schon eine Stelle?
+> 취리히요? 거기 벌써 자리가 있으세요?
+MÖBIUS: Ein Angebot. Mehr Geld, feste Dienstpläne, und auf der Station dort betreut eine Pflegekraft zwei Patienten, nicht drei. Ich muss nur noch unterschreiben.
+> 제안이요. 돈도 더 많고, 근무표도 고정이고, 거기 병동에선 간호사 한 명이 환자 셋이 아니라 둘을 맡아요. 서명만 하면 돼요.
+SELIN: Und warum haben Sie noch nicht unterschrieben?
+> 그런데 왜 아직 서명 안 하셨어요?
+MÖBIUS: Weil meine Mutter in Frohnau wohnt. Weil meine Tochter hier in die Kita geht. Und weil ich Tegel liebe, auch wenn es mich kaputtmacht.
+> 엄마가 프로나우에 사니까요. 딸이 여기서 어린이집에 다니니까요. 그리고 테겔이 날 망가뜨려도, 난 테겔을 사랑하니까요.
+SELIN: Darf ich Sie etwas fragen, Anja? Ganz direkt?
+> 하나 여쭤봐도 될까요, 아냐? 아주 직접적으로요?
+MÖBIUS: Sag ruhig „du". Auf der Straße siezt man sich nicht. Was willst du wissen?
+> 그냥 말 놔. 거리에선 존대 안 해. 뭘 알고 싶은데?
+
+## 절정 — „WAS BRAUCHST DU?"
+SELIN: Was brauchst du, damit du bleibst? Nicht Ver.di. Nicht die Geschäftsführung. Du.
+> 네가 남으려면 뭐가 필요해? 페르디 말고. 경영진 말고. 너.
+MÖBIUS: … Das hat mich in neun Jahren noch nie jemand gefragt.
+> …9년 동안 아무도 그걸 물어본 적이 없어.
+MÖBIUS: Ich brauche einen Dienstplan, der hält. Wenn ich frei habe, habe ich frei — und niemand ruft mich um sechs Uhr morgens an.
+> 지켜지는 근무표가 필요해. 쉬는 날엔 쉬는 거야 — 그리고 아무도 아침 여섯 시에 전화하지 않는 거.
+MÖBIUS: Ich brauche nachts drei Leute auf der Station, nicht zwei. Und eine Kita, die nicht um sechzehn Uhr zumacht, wenn meine Schicht um einundzwanzig Uhr endet.
+> 밤에 병동에 두 명이 아니라 세 명이 필요해. 그리고 내 근무가 밤 아홉 시에 끝나는데 오후 네 시에 문 닫지 않는 어린이집.
+SELIN: Und Geld?
+> 그럼 돈은?
+MÖBIUS: Geld ist nett. Aber für Geld gehe ich nach Zürich. Für Zeit würde ich bleiben.
+> 돈은 좋지. 하지만 돈 때문이라면 취리히로 가. 시간 때문이라면 남을 거야.
+SELIN: Darf ich das genau so in die Verhandlung bringen? Mit deinem Namen oder ohne?
+> 이걸 그대로 협상에 가져가도 될까? 네 이름을 넣어서, 아니면 빼고?
+MÖBIUS: Mit. Sandra kennt mich. Sag ihr, Anja von der Intensiv hat das gesagt.
+> 넣어서. 잔드라가 날 알아. 중환자실 아냐가 그렇게 말했다고 전해.
+KATHARINA: Frau Kowalczyk, Frau Dr. Seidel — darf ich kurz dazukommen? Frau Aydın hat etwas mitgebracht, das ich Ihnen nicht vorenthalten möchte.
+> 코발치크 씨, 자이델 박사님 — 잠깐 끼어도 될까요? 아이든 씨가 가져온 게 있는데, 두 분께 꼭 보여 드리고 싶어서요.
+KOWALCZYK: Ich habe gesagt: ohne Berater.
+> 컨설턴트 없이라고 했잖아요.
+SELIN: Es ist nicht von uns. Es ist von Anja Möbius, Intensivstation. Sie hat ein Angebot aus Zürich. Ich habe sie gefragt, was sie braucht, um zu bleiben.
+> 저희 게 아니에요. 중환자실 아냐 뫼비우스 씨 거예요. 취리히에서 제안을 받았대요. 남으려면 뭐가 필요한지 물어봤어요.
+KOWALCZYK: … Anja. Natürlich. Was hat sie gesagt?
+> …아냐. 그렇지. 뭐라고 했어요?
+SELIN: Einen Dienstplan, der hält. Drei Pflegekräfte pro Station in der Nacht. Eine Kita bis einundzwanzig Uhr. Und dann noch einen Satz: „Für Geld gehe ich nach Zürich. Für Zeit würde ich bleiben."
+> 지켜지는 근무표. 밤에 병동당 간호사 세 명. 밤 아홉 시까지 여는 어린이집. 그리고 한 문장 더요. '돈 때문이라면 취리히로 가. 시간 때문이라면 남을 거야.'
+BRANDL: Sandra, das ist genau das, was ich seit Jahren sage.
+> 잔드라, 그게 바로 내가 몇 년째 하는 말이야.
+KOWALCZYK: Und warum hat es dann nie jemand gemacht, Monika?
+> 그럼 왜 아무도 그걸 안 했는데, 모니카?
+KATHARINA: Weil es Geld kostet und niemand gerechnet hat, was das Nichtstun kostet. Herr Wendt — jetzt darf der Taschenrechner raus.
+> 돈이 들고, 아무것도 안 하는 데 드는 비용을 아무도 계산하지 않았으니까요. 벤트 씨 — 이제 계산기 꺼내도 됩니다.
+TOBIAS: Danke. Tegel zahlt elf Millionen im Jahr für Leasingkräfte. Ein eigener Springerpool mit vierzig Pflegekräften, die nur für Ausfälle da sind, kostet etwa drei Komma zwei Millionen. Dann ruft niemand mehr um sechs Uhr morgens im Frei an.
+> 감사합니다. 테겔은 파견 인력에 연 1,100만을 씁니다. 결원만을 위한 간호사 40명 규모의 자체 대체 인력 풀은 약 320만이 듭니다. 그러면 아무도 쉬는 날 아침 여섯 시에 전화하지 않게 되죠.
+SEIDEL: Und die Kita?
+> 그럼 어린이집은요?
+TOBIAS: Eine Betriebskita, die bis zweiundzwanzig Uhr geöffnet ist, für dreihunderttausend im Jahr. Wenn deshalb nur fünf Pflegekräfte nicht nach Zürich gehen, hat sie sich schon bezahlt gemacht.
+> 밤 열 시까지 여는 직장 어린이집, 연 30만. 그 덕분에 간호사 다섯 명만 취리히에 안 가도 이미 본전을 뽑습니다.
+KOWALCZYK: Und die Personalbemessung? Ohne PPR zwei Komma null unterschreibe ich nichts.
+> 그럼 인력 기준은요? PPR 2.0 없이는 아무것도 서명 안 해요.
+KATHARINA: Mein Vorschlag als Kompromiss: Die PPR zwei Komma null gilt in Tegel ab dem Umbau verbindlich. Bis dahin gibt es für jede unterbesetzte Schicht Entlastungspunkte — und nach einer festen Zahl einen freien Tag.
+> 타협안으로 제안드립니다. 테겔에서는 개편 시점부터 PPR 2.0을 구속력 있게 적용합니다. 그때까지는 인력이 부족한 교대조마다 부담 경감 점수를 주고, 정해진 점수가 쌓이면 하루를 쉽니다.
+KOWALCZYK: Und keine Versetzung gegen den Willen. Und keine Kündigung.
+> 그리고 본인 의사에 반한 전보 금지. 해고도 금지.
+SEIDEL: Beides schreibe ich Ihnen heute noch auf. Mit meiner Unterschrift.
+> 둘 다 오늘 안에 써 드릴게요. 제 서명과 함께.
+KOWALCZYK: Und der Umbau? Ver.di wird nicht klatschen, wenn zweihundertdreißig Betten wegfallen.
+> 그럼 개편은요? 병상 230개가 사라지는데 페르디가 박수 치진 않을 거예요.
+KATHARINA: Das müssen Sie auch nicht. Aber Sie können Ihren Leuten sagen: Die Notaufnahme bleibt, jede Stelle bleibt, und nachts sind wir zu dritt. Das ist mehr, als dieser Streik heute Morgen fordern konnte.
+> 박수 치실 필요 없습니다. 하지만 동료분들께 이렇게 말씀하실 수 있죠. 응급실은 남는다, 일자리는 하나도 빠짐없이 남는다, 그리고 밤에도 우리는 세 명이다. 오늘 아침 이 파업이 요구할 수 있었던 것보다 더 많습니다.
+KOWALCZYK: … Das muss ich mit der Streikleitung besprechen. Und mit Anja.
+> …파업 지도부랑 상의해야겠어요. 그리고 아냐랑도.
+KOWALCZYK: Frau Dr. Brandt — das ist ein Kompromiss, keine Kapitulation. Für beide Seiten.
+> 브란트 박사 — 이건 타협이지 항복이 아니에요. 양쪽 모두에게.
+KATHARINA: Genau so soll ein Kompromiss sein, Frau Kowalczyk. Keiner hat verloren — und jeder bereut es ein bisschen.
+> 타협은 원래 그래야 합니다, 코발치크 씨. 아무도 지지 않았고 — 모두가 조금씩 아쉬워하는 거죠.
+
+## 마무리 — EINE MAIL AUS FRANKFURT
+MÖBIUS: Selin! Sandra hat es mir erzählt. Der Streik endet morgen früh um sechs.
+> 셀린! 잔드라한테 들었어. 파업은 내일 아침 여섯 시에 끝나.
+SELIN: Und Zürich?
+> 그럼 취리히는?
+MÖBIUS: Zürich kann warten. Ich habe ihnen gesagt, ich brauche noch ein Jahr Bedenkzeit. Wenn die Kita kommt, brauche ich vielleicht gar keine mehr.
+> 취리히는 기다릴 수 있어. 1년 더 생각해 보겠다고 했어. 어린이집이 생기면 생각할 필요도 없을지 몰라.
+TOBIAS: Selin, du hast eine Verhandlung mit Pfefferminztee gewonnen.
+> 셀린, 너 페퍼민트 차로 협상을 이겼네.
+SELIN: Nicht ich. Anja. Ich habe nur gefragt.
+> 내가 아니라 아냐가. 난 물어보기만 했어.
+KATHARINA: Fragen ist die schwierigere Hälfte. Die meisten in unserem Beruf vergessen sie.
+> 묻는 게 더 어려운 절반이야. 우리 업계 사람들 대부분은 그걸 잊어버려.
+KATHARINA: … Moment. Eine Mail von Lorenz. Betreff: „Ebersbach — Zwischenbericht, finale Fassung."
+> …잠깐. 로렌츠 메일이야. 제목: '에버스바흐 — 중간 보고서, 최종본.'
+TOBIAS: Finale Fassung? Du hast ihm doch nur deinen Entwurf geschickt.
+> 최종본? 넌 초안만 보냈잖아.
+KATHARINA: Ja. Und er hat ihn umgeschrieben. Auf Seite zwei steht jetzt: „Empfehlung: Einleitung eines strukturierten Verkaufsprozesses."
+> 응. 그런데 그걸 고쳐 썼어. 2페이지에 이제 이렇게 적혀 있어. '권고: 체계적 매각 절차 착수.'
+SELIN: Das stand in deinem Entwurf nirgends.
+> 그런 말은 네 초안 어디에도 없었잖아.
+TOBIAS: Er hat ihn ja „nur vorher gelesen".
+> 그 사람은 '먼저 읽기만' 했다잖아.
+KATHARINA: Diese Fassung geht nicht an Konrad. Nicht mit meinem Namen darauf.
+> 이 버전은 콘라트한테 안 가. 내 이름을 단 채로는.

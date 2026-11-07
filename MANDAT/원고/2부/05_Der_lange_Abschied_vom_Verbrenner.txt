@@ -1,0 +1,268 @@
+part: 2
+ep: 5
+title_de: Der lange Abschied vom Verbrenner
+title_ko: 내연기관과의 긴 이별
+scene: 포트폴리오 회의, 하나우 연구개발센터
+level: B2
+setting: 1월 셋째 주 목요일 오전 아홉 시부터 저녁 일곱 시까지, Ebersbach 하나우 연구개발센터 시험동과 회의실
+cast: KATHARINA | Dr. Katharina Brandt · CEO (39)
+cast: TOBIAS | Tobias Wendt · CFO (35)
+cast: SELIN | Selin Aydın · 전환사무국장 (27)
+cast: VOLKMANN | Dr. Rainer Volkmann · 기술·개발 담당 이사(CTO) (58)
+cast: HAAS | Dr. Ingrid Haas · 변속기 개발 책임자, 입사 30년 (54)
+cast: KÜHN | Malte Kühn · 전기 구동계 개발팀장 (31)
+cast: OBERLE | Frank Oberle · 영업 총괄 (50)
+cast: CLARA | Clara Ebersbach · 감사회 위원 (41)
+cast: KONRAD | Konrad Ebersbach · 감사회 의장 (74)
+note: ※ EU는 신차의 CO2 배출 기준(Flottengrenzwerte)을 단계적으로 강화해 2035년부터 사실상 내연기관 신차를 금지하는 '100퍼센트 감축' 목표를 정했지만, 자동차 업계의 위기 속에 이 목표를 90퍼센트로 낮추고 플러그인 하이브리드·주행거리 연장형 차량을 일부 허용하자는 논의가 이어지고 있습니다. 어느 쪽이든 내연기관 부품 수요는 줄어듭니다. 반면 풍력 발전기, 철도, 산업용 로봇에는 정밀 기어와 변속기가 계속 필요하며, 독일은 육상풍력 설비를 2030년까지 크게 늘리는 목표를 법에 정해 두었습니다. 전기차는 엔진 소음이 없어서 기어가 내는 고주파 소음(기어 와인)이 더 잘 들리기 때문에, 기어 소음 기술이 오히려 중요해졌습니다. 인물과 고객사는 가상입니다. 표현 초점: das Portfolio, der Antrieb, die Entwicklung, die Kernkompetenz, Wir verlieren nicht unser Können, wir verlegen es.
+next: 2부 6화 — «Ein Angebot aus Shenzhen»(선전에서 온 제안) — 프랑크푸르트의 호텔 라운지. 중국 경쟁사 Longhai가 합작투자와 거액의 현금을 제안한다. 돈은 절실하지만 핵심 특허가 넘어간다. Clara는 찬성, Konrad는 반대 — 그리고 베를린의 투자심사가 기다린다.
+
+## 도입 — VERSUCHSHALLE, NEUN UHR
+HAAS: Das hier ist Getriebe Nummer eins. Neunzehnhundertvierundneunzig, mein erstes Projekt bei Ebersbach. Es ist zwei Millionen Kilometer gelaufen, in einem Taxi in Offenbach.
+> 이게 1번 변속기예요. 1994년, 에버스바흐에서 제 첫 프로젝트였죠. 오펜바흐의 택시에서 200만 킬로미터를 달렸어요.
+KATHARINA: Zwei Millionen Kilometer. Ich kenne Taxifahrer in Offenbach. Das ist eine Heldentat.
+> 200만 킬로미터라니. 오펜바흐 택시 기사들을 아는데, 그건 영웅적인 업적이네요.
+HAAS: Ingrid Haas, Leiterin Getriebeentwicklung. Ich zeige Ihnen das, damit Sie wissen, worüber Sie heute entscheiden.
+> 잉그리트 하스, 변속기 개발 책임자입니다. 오늘 박사님이 무엇에 대해 결정하시는지 아셨으면 해서 이걸 보여 드리는 거예요.
+KATHARINA: Ich entscheide heute nicht über dieses Getriebe, Frau Dr. Haas. Ich entscheide über das nächste.
+> 하스 박사님, 저는 오늘 이 변속기에 대해 결정하는 게 아니에요. 다음 변속기에 대해 결정하는 거죠.
+HAAS: Das nächste wird es nicht geben, wenn ich die Gerüchte richtig verstehe.
+> 제가 소문을 제대로 이해했다면, 다음 변속기는 없을 텐데요.
+VOLKMANN: Ingrid, lass sie doch erst einmal ankommen. — Frau Dr. Brandt, ich muss Sie warnen. Mein Team hat eine Gegenpräsentation vorbereitet.
+> 잉그리트, 일단 좀 자리 잡게 해 드려. — 브란트 박사님, 미리 경고드려야겠네요. 우리 팀이 반대 발표를 준비했습니다.
+SELIN: Eine Gegenpräsentation? Gegen was? Wir haben doch noch gar nichts präsentiert.
+> 반대 발표요? 뭐에 반대하는데요? 우린 아직 아무것도 발표 안 했잖아요.
+VOLKMANN: Vorsorglich. Ingenieure bereiten sich auf jeden möglichen Fehler vor.
+> 예방 차원이죠. 엔지니어들은 일어날 수 있는 모든 오류에 대비하거든요.
+TOBIAS: Das ist das Vernünftigste, was ich seit Wochen in diesem Haus gehört habe.
+> 몇 주 동안 이 회사에서 들은 말 중에 제일 합리적이네요.
+HAAS: Freuen Sie sich nicht zu früh, Herr Wendt. Auf Folie drei steht Ihr Name.
+> 너무 일찍 좋아하지 마세요, 벤트 이사님. 3번 슬라이드에 이사님 이름이 있어요.
+KATHARINA: Gut. Dann fangen wir an. Die Frage für heute ist einfach und brutal: Womit verdient Ebersbach in zehn Jahren sein Geld?
+> 좋아요. 그럼 시작하죠. 오늘의 질문은 단순하고 잔인해요. 10년 뒤 에버스바흐는 무엇으로 돈을 벌 것인가.
+KÜHN: Mit Elektroantrieben. Das ist die einzige ehrliche Antwort.
+> 전기 구동계로요. 그게 유일하게 솔직한 답입니다.
+
+## 분석 — DAS PORTFOLIO IN ZAHLEN
+HAAS: Malte, du bist einunddreißig. Für dich ist alles, was älter als dein Smartphone ist, eine Altlast.
+> 말테, 넌 서른한 살이잖아. 너한텐 스마트폰보다 오래된 건 전부 골칫덩이지.
+KÜHN: Und für dich ist alles, was keinen Auspuff hat, ein Spielzeug.
+> 그리고 선배한텐 배기구 없는 건 전부 장난감이고요.
+KATHARINA: Bevor wir uns gegenseitig das Alter vorrechnen, rechnen wir lieber das Portfolio durch. Tobias?
+> 서로 나이 계산하기 전에 포트폴리오부터 계산해 보죠. 토비아스?
+TOBIAS: Drei Geschäftsfelder. Verbrennerteile: vierundsechzig Prozent vom Umsatz, EBITDA-Marge neun Prozent, Tendenz fallend. Elektroantrieb: elf Prozent vom Umsatz, Marge minus vier.
+> 사업 부문 세 개입니다. 내연기관 부품: 매출의 64퍼센트, EBITDA 마진 9퍼센트, 하락 추세. 전기 구동계: 매출의 11퍼센트, 마진 마이너스 4퍼센트.
+TOBIAS: Und dann der Rest, den in diesem Haus niemand ernst nimmt: Industriegetriebe. Wind, Bahn, Pumpen. Fünfundzwanzig Prozent vom Umsatz — und die beste Marge im ganzen Unternehmen, zwölf Prozent.
+> 그리고 이 회사에서 아무도 진지하게 여기지 않는 나머지. 산업용 변속기. 풍력, 철도, 펌프. 매출의 25퍼센트인데, 마진은 회사 전체에서 제일 좋아요. 12퍼센트.
+OBERLE: Weil das Kleinserien sind, Herr Wendt. Da verdient man viel pro Stück, aber man braucht Jahre, um einen Kunden zu gewinnen.
+> 그건 소량 생산이라서 그래요, 벤트 이사님. 개당으로는 많이 벌지만 고객 하나 잡는 데 몇 년씩 걸립니다.
+KATHARINA: Herr Oberle, wie sieht der Markt für Verbrennerteile in fünf Jahren aus?
+> 오베를레 씨, 5년 뒤 내연기관 부품 시장은 어떻게 될까요?
+OBERLE: Es kommt darauf an, wen Sie fragen. In Brüssel diskutiert man seit Monaten, ob für 2035 hundert oder neunzig Prozent CO2-Reduktion gelten. Bei neunzig gibt es weiter Hybride, und Hybride brauchen Getriebe.
+> 누구에게 묻느냐에 달렸죠. 브뤼셀에서는 몇 달째 2035년에 CO2 감축 목표를 100퍼센트로 할지 90퍼센트로 할지 논의 중이에요. 90이면 하이브리드가 계속 나오고, 하이브리드엔 변속기가 필요하죠.
+TOBIAS: Selbst bei neunzig Prozent halbiert sich unser Volumen bis 2032. Ich habe drei Szenarien gerechnet. Im besten verlieren wir vierzig Prozent, im schlechtesten siebzig.
+> 90퍼센트라 해도 2032년까지 우리 물량은 반토막입니다. 시나리오 세 개를 계산해 봤어요. 가장 좋은 경우 40퍼센트, 가장 나쁜 경우 70퍼센트가 줄어요.
+HAAS: Szenarien. Vor zehn Jahren hatten wir auch Szenarien. Da war der Verbrenner 2025 schon tot. Er lebt noch.
+> 시나리오라. 10년 전에도 시나리오가 있었죠. 그땐 2025년이면 내연기관이 죽었어야 했어요. 아직 살아 있잖아요.
+TOBIAS: Er lebt. Aber er nimmt jedes Jahr ab. Und wir sind auf ihn angewiesen wie auf einen Patienten, der uns das Gehalt zahlt.
+> 살아 있죠. 하지만 해마다 야위어 가요. 그리고 우리는 월급 주는 환자한테 매달리듯 그것에 의존하고 있고요.
+SELIN: Ich habe die Kundendaten angeschaut. Unsere drei größten Autokunden machen zusammen achtundvierzig Prozent unseres Umsatzes. Zwei davon entwickeln ihre E-Achsen inzwischen selbst.
+> 고객 데이터를 봤어요. 우리 최대 자동차 고객 세 곳이 매출의 48퍼센트를 차지해요. 그중 두 곳은 이제 전기차 액슬을 자체 개발하고 있고요.
+KÜHN: Und die dritte kauft in China ein. Die chinesischen Anbieter liegen bei kompletten E-Achsen dreißig Prozent unter unserem Preis.
+> 나머지 한 곳은 중국에서 구매하고요. 중국 업체들은 완성형 전기차 액슬 가격이 우리보다 30퍼센트 낮아요.
+KATHARINA: Dreißig Prozent. Herr Kühn, können wir das aufholen?
+> 30퍼센트라. 퀸 씨, 그 격차를 따라잡을 수 있나요?
+KÜHN: Bei der kompletten Achse? Ehrlich gesagt: nicht in den nächsten fünf Jahren. Dafür fehlen uns die Stückzahlen.
+> 완성형 액슬에서요? 솔직히 말씀드리면 향후 5년 안에는 못 합니다. 그러기엔 생산 물량이 부족해요.
+TOBIAS: Das heißt, die einzige ehrliche Antwort von heute früh ist auch nicht so ganz ehrlich.
+> 그러니까 아침에 들은 '유일하게 솔직한 답'도 그렇게 솔직하진 않다는 거네요.
+KÜHN: Ich habe gesagt, wir müssen in den Elektroantrieb. Nicht, dass wir dort gewinnen.
+> 저는 전기 구동계로 가야 한다고 했지, 거기서 이긴다고는 안 했어요.
+KATHARINA: Und die Industriegetriebe? Herr Oberle, wie wächst dieser Markt?
+> 산업용 변속기는요? 오베를레 씨, 그 시장은 얼마나 성장하나요?
+OBERLE: Wind wächst, weil Deutschland bis 2030 viel mehr Windräder bauen will. Bahn wächst, weil überall Strecken und Fahrzeuge erneuert werden. Insgesamt sechs bis acht Prozent im Jahr.
+> 풍력은 독일이 2030년까지 풍력 발전기를 훨씬 많이 지으려 하니까 성장하죠. 철도는 곳곳에서 노선과 차량을 교체하니까 성장하고요. 전체적으로 연 6에서 8퍼센트.
+SELIN: Und wer liefert dort die Getriebe?
+> 거기에는 누가 변속기를 납품하죠?
+OBERLE: Eine Handvoll Firmen in Europa. Und alle haben dasselbe Problem: Lieferzeiten von bis zu zwei Jahren.
+> 유럽에 몇 개 회사요. 그리고 다들 같은 문제가 있죠. 납기가 최대 2년.
+TOBIAS: Ein wachsender Markt mit zu wenig Anbietern und guten Margen. In meiner alten Bank hätte man dafür sofort einen Kredit bekommen.
+> 공급자는 부족하고 마진은 좋은 성장 시장이라. 예전 은행이었으면 당장 대출이 나왔을 겁니다.
+VOLKMANN: Das Problem ist die Entwicklung. Ein Windgetriebe ist kein Pkw-Getriebe in groß. Andere Lasten, andere Lebensdauer, andere Zertifizierung.
+> 문제는 개발이에요. 풍력용 변속기는 승용차 변속기를 크게 만든 게 아닙니다. 하중도, 수명도, 인증도 다르죠.
+KATHARINA: Wie viel kostet es, das zu lernen?
+> 그걸 배우는 데 얼마나 드나요?
+VOLKMANN: Für eine neue Baureihe ungefähr fünfundzwanzig Millionen und drei Jahre. Unser gesamtes Entwicklungsbudget liegt bei achtundvierzig Millionen im Jahr.
+> 새 제품군 하나에 대략 2,500만, 그리고 3년. 우리 연간 개발 예산 전체가 4,800만이고요.
+SELIN: Und wie viel davon fließt heute in den Verbrenner?
+> 그중 지금 내연기관 쪽으로 가는 건 얼마나 돼요?
+VOLKMANN: Etwa sechzig Prozent. Die Kunden verlangen jedes Jahr neue Varianten, und jede Variante kostet Entwicklungszeit.
+> 60퍼센트쯤요. 고객사들이 매년 새 변형 모델을 요구하는데, 변형 하나하나가 개발 시간을 잡아먹죠.
+TOBIAS: Sechzig Prozent unseres Entwicklungsbudgets für ein Geschäft, das schrumpft. Das ist, als würde man ein Haus renovieren, das man nächstes Jahr abreißen will.
+> 개발 예산의 60퍼센트를 쪼그라드는 사업에 쓰는 거네요. 내년에 허물 집을 리모델링하는 셈이죠.
+HAAS: Oder als würde man das Haus pflegen, in dem man noch wohnt, Herr Wendt.
+> 아니면 아직 살고 있는 집을 돌보는 셈이죠, 벤트 이사님.
+KATHARINA: Beides stimmt. Und genau deshalb müssen wir heute entscheiden, wie lange wir noch darin wohnen wollen.
+> 둘 다 맞아요. 그래서 오늘 그 집에 얼마나 더 살지 결정해야 하는 거고요.
+OBERLE: Und bevor Sie weiterrechnen: Gestern hat unser größter Autokunde angerufen. Er bietet uns eine Verlängerung des Getriebevertrags an. Fünf Jahre, feste Mengen.
+> 그리고 계산을 더 하시기 전에. 어제 최대 자동차 고객사가 전화했어요. 변속기 계약을 연장해 주겠답니다. 5년, 물량 확정.
+TOBIAS: Zu welchem Preis?
+> 가격은요?
+OBERLE: Zwölf Prozent Preisnachlass. Ab dem ersten Jahr.
+> 첫해부터 12퍼센트 인하.
+
+## 갈등 — DIE GEGENPRÄSENTATION
+HAAS: Und das ist genau der Punkt meiner Präsentation. Darf ich jetzt?
+> 바로 그게 제 발표의 핵심이에요. 이제 해도 될까요?
+KATHARINA: Bitte, Frau Dr. Haas.
+> 하세요, 하스 박사님.
+HAAS: Folie eins: Wir bleiben, was wir sind. Ein Getriebespezialist für Fahrzeuge. Wir nehmen den Vertrag an, wir entwickeln ein Hybridgetriebe, und wir warten ab, wie Brüssel entscheidet.
+> 1번 슬라이드. 우리는 지금의 우리로 남는다. 차량용 변속기 전문 기업. 계약을 받아들이고, 하이브리드 변속기를 개발하고, 브뤼셀이 어떻게 결정하는지 기다린다.
+HAAS: Folie zwei: Wenn alle anderen Zulieferer aussteigen, sind wir die Letzten, die noch liefern. Und der Letzte bestimmt den Preis.
+> 2번 슬라이드. 다른 협력업체들이 다 빠져나가면, 우리가 마지막까지 납품하는 회사가 된다. 그리고 마지막 남은 자가 가격을 정한다.
+TOBIAS: Die Strategie des letzten Mannes. Die kenne ich aus der Bank. Sie funktioniert — bis der letzte Kunde auch geht.
+> 최후의 1인 전략이군요. 은행에서 많이 봤습니다. 통하긴 하죠. 마지막 고객마저 떠날 때까지는.
+HAAS: Und Folie drei, Herr Wendt: «Finanzvorstand rechnet die Zukunft klein, weil sie in seinem Modell nicht vorkommt.»
+> 그리고 3번 슬라이드요, 벤트 이사님. «CFO는 자기 모델에 없는 미래를 작게 계산한다.»
+TOBIAS: Das ist fast ein Kompliment. Normalerweise sagen die Leute, ich rechne die Gegenwart klein.
+> 거의 칭찬이네요. 보통은 제가 현재를 작게 계산한다고들 하거든요.
+KÜHN: Ingrid, mit zwölf Prozent Preisnachlass verdienen wir an dem Vertrag fast nichts mehr. Wir halten nur die Hallen voll.
+> 선배, 12퍼센트 깎아 주면 그 계약으로는 거의 남는 게 없어요. 공장만 채우는 거죠.
+HAAS: Volle Hallen bezahlen Löhne, Malte. Deine E-Achse bezahlt nur Prototypen.
+> 꽉 찬 공장이 월급을 주는 거야, 말테. 네 액슬은 시제품값만 내고.
+KÜHN: Meine E-Achse ist das Einzige hier, was in zehn Jahren noch jemand braucht.
+> 제 액슬은 여기서 10년 뒤에도 누가 필요로 할 유일한 거예요.
+HAAS: Das hast du vor fünf Jahren auch über die Brennstoffzelle gesagt.
+> 5년 전엔 연료전지 보고도 그렇게 말했잖아.
+VOLKMANN: Bitte, ihr beiden. Wir sind nicht in der Kantine.
+> 둘 다 그만. 여기 구내식당 아니야.
+CLARA: Doch, fast. Man hört euch bis auf den Parkplatz. Guten Tag, Frau Brandt. Ich hoffe, ich darf zuhören. Mein Vater hat mich geschickt.
+> 거의 식당 맞네요. 주차장까지 다 들려요. 안녕하세요, 브란트 씨. 들어도 되겠죠? 아버지가 보내셨어요.
+KATHARINA: Heute dürfen Sie, Frau Ebersbach. Es geht um die Strategie, nicht um das Tagesgeschäft.
+> 오늘은 괜찮아요, 에버스바흐 씨. 일상 업무가 아니라 전략에 관한 거니까요.
+CLARA: Dann sage ich etwas zur Strategie. Wir haben gerade fünf Banken und das Land Hessen überzeugt. Wir brauchen jetzt keine Experimente, sondern sicheres Geld. Nehmen Sie den Vertrag.
+> 그럼 전략에 대해 한마디 할게요. 우리는 방금 은행 다섯 곳과 헤센 주를 설득했어요. 지금 필요한 건 실험이 아니라 확실한 돈이에요. 그 계약을 받으세요.
+KATHARINA: Und in fünf Jahren?
+> 그럼 5년 뒤에는요?
+CLARA: In fünf Jahren sind Sie vielleicht nicht mehr hier. Ich schon.
+> 5년 뒤면 당신은 여기 없을지도 모르죠. 저는 있을 거고요.
+KATHARINA: Genau deshalb sollten Sie sich mehr für das Jahr sechs interessieren als ich.
+> 바로 그래서 6년째 되는 해에 대해선 저보다 당신이 더 관심을 가지셔야죠.
+HAAS: Frau Dr. Brandt, ich sage es Ihnen offen, weil Sie Offenheit ja so schätzen. Ich habe ein Angebot von einem Wettbewerber in Süddeutschland. Für mich und zwölf Leute aus meinem Team.
+> 브란트 박사님, 솔직함을 그렇게 좋아하시니 솔직하게 말씀드리죠. 남부 독일의 경쟁사에서 제안을 받았어요. 저와 제 팀원 열두 명에게요.
+VOLKMANN: Ingrid … Davon hast du mir nichts gesagt.
+> 잉그리트… 나한테는 한마디도 안 했잖아.
+HAAS: Ich sage es jetzt. Wenn dieses Haus beschließt, dass Getriebe Vergangenheit sind, dann gehe ich dorthin, wo man sie noch baut.
+> 지금 말하는 거야. 이 회사가 변속기는 과거의 것이라고 결정한다면, 난 아직 그걸 만드는 곳으로 갈 거야.
+KÜHN: Zwölf Leute? Das ist die halbe Akustikgruppe.
+> 열두 명이요? 그럼 소음 그룹의 절반이잖아요.
+HAAS: Es sind die besten zwölf. Ich habe jeden einzelnen von ihnen ausgebildet.
+> 제일 뛰어난 열두 명이지. 한 명 한 명 다 내가 키웠어.
+VOLKMANN: Und solche Leute findet man heute auf keinem Arbeitsmarkt. Die entstehen in Häusern wie unserem, über Jahrzehnte.
+> 그런 사람들은 요즘 어느 노동시장에서도 못 구해요. 우리 같은 회사에서 수십 년에 걸쳐 만들어지는 사람들이지.
+KATHARINA: Dann ist das kein Personalproblem. Das ist eine Frage an das ganze Portfolio.
+> 그럼 이건 인사 문제가 아니네요. 포트폴리오 전체에 던져진 질문이에요.
+HAAS: Genau. Und deshalb stelle ich sie Ihnen heute — und nicht in drei Monaten mit meiner Kündigung.
+> 바로 그거예요. 그래서 석 달 뒤에 사직서와 함께가 아니라 오늘 묻는 거예요.
+KATHARINA: Hat dieses Haus das beschlossen?
+> 이 회사가 그렇게 결정했나요?
+HAAS: Sie geben acht Millionen für eine Schleifmaschine in Spandau aus und streichen gleichzeitig zwei Entwicklungsprojekte in Hanau. Was soll ich da denken?
+> 슈판다우 연삭기에 800만을 쓰시면서 동시에 하나우 개발 프로젝트 두 개를 없애셨잖아요. 제가 뭘 생각해야겠어요?
+TOBIAS: Die Projekte waren ein Hybridgetriebe für einen Kunden, der seinen Auftrag zurückgezogen hat, und eine Studie für ein Fahrzeug, das nie gebaut wird.
+> 그 프로젝트들은 주문을 철회한 고객을 위한 하이브리드 변속기, 그리고 절대 생산되지 않을 차량을 위한 연구였어요.
+HAAS: Und das wussten Sie nach drei Monaten besser als wir nach drei Jahren?
+> 그걸 3년 일한 저희보다 석 달 계신 분이 더 잘 아셨다고요?
+KATHARINA: Nein. Das hat uns der Kunde gesagt. Schriftlich, im Dezember. Es tut mir leid, dass Sie es so erfahren haben.
+> 아니요. 고객이 말해 줬어요. 12월에 서면으로요. 그렇게 알게 하셔서 죄송해요.
+HAAS: … Das wusste ich nicht.
+> …그건 몰랐어요.
+SELIN: Frau Dr. Haas, darf ich eine dumme Frage stellen? Ich bin keine Ingenieurin.
+> 하스 박사님, 바보 같은 질문 하나 해도 될까요? 전 엔지니어가 아니라서요.
+HAAS: Bitte. Die dummen Fragen sind meistens die teuersten.
+> 하세요. 바보 같은 질문이 대개 제일 비싼 질문이죠.
+SELIN: Was genau können Sie, was andere nicht können? Nicht das Produkt — das Können dahinter.
+> 박사님이 남들은 못 하고 박사님만 할 수 있는 게 정확히 뭐예요? 제품 말고, 그 뒤에 있는 기술이요.
+
+## 해결·설득 — DAS KÖNNEN WANDERT
+HAAS: Das Können? Verzahnung. Wir schleifen Zahnräder so genau, dass sie fast nichts verlieren und fast nichts hören lassen. Unsere Akustik ist die beste in der Branche. Das sagen sogar die Japaner.
+> 기술이요? 치형 가공이죠. 우리는 손실이 거의 없고 소리도 거의 안 나도록 기어를 정밀하게 깎아요. 우리 소음 기술은 업계 최고예요. 일본 업체들도 인정해요.
+KÜHN: … Akustik. Ingrid, das ist es.
+> …소음. 선배, 바로 그거예요.
+HAAS: Was ist was?
+> 뭐가 뭐야?
+KÜHN: Im Elektroauto gibt es keinen Motor, der das Getriebe übertönt. Jedes Heulen der Zahnräder hört man im Innenraum. Unsere Kunden haben genau damit ein Riesenproblem.
+> 전기차에는 변속기 소리를 덮어 줄 엔진이 없잖아요. 기어가 내는 웅웅거림이 실내에서 다 들려요. 고객사들이 바로 그것 때문에 엄청 골머리를 앓고 있다고요.
+VOLKMANN: Und bei Windrädern ist es genauso. Anwohner klagen nicht über die Rotorblätter, sondern über das Brummen der Gondel.
+> 풍력 발전기도 똑같아. 주민들은 날개가 아니라 나셀이 웅웅대는 소리 때문에 민원을 넣지.
+KATHARINA: Dann hören Sie mir bitte einen Moment zu. Ich glaube, wir haben die Frage heute falsch gestellt.
+> 그럼 잠깐만 제 말을 들어 주세요. 오늘 우리가 질문을 잘못 던진 것 같아요.
+KATHARINA: Wir haben gefragt: Verbrenner oder Elektro? Aber unsere Kernkompetenz ist weder das eine noch das andere. Unsere Kernkompetenz ist das, was Frau Dr. Haas gerade beschrieben hat: Zahnräder, die präzise und leise sind.
+> 우리는 내연기관이냐 전기냐고 물었어요. 하지만 우리의 핵심 역량은 그 어느 쪽도 아니에요. 우리의 핵심 역량은 하스 박사님이 방금 설명하신 것, 정밀하고 조용한 기어예요.
+KATHARINA: Wir verlieren nicht unser Können, wir verlegen es. Vom Taxi in Offenbach in das Windrad in der Uckermark, in den Regionalzug und in die E-Achse, die man nicht hört.
+> 우리는 우리 기술을 잃는 게 아니라 옮기는 거예요. 오펜바흐의 택시에서 우커마르크의 풍력 발전기로, 지역 열차로, 소리가 들리지 않는 전기차 액슬로.
+HAAS: Schöne Worte. Was heißt das konkret?
+> 말은 근사하네요. 구체적으로는 무슨 뜻이죠?
+KATHARINA: Konkret: Das Portfolio hat drei Säulen. Die erste ist der Verbrenner — nicht als Zukunft, sondern als Brücke. Er finanziert uns die nächsten sieben Jahre.
+> 구체적으로는, 포트폴리오에 기둥이 세 개 생겨요. 첫째는 내연기관. 미래가 아니라 다리로서요. 앞으로 7년 동안 우리 자금을 대 주는 거죠.
+KATHARINA: Herr Oberle, Sie verhandeln den Vertrag neu. Nicht zwölf Prozent, sondern acht. Dafür bieten wir dem Kunden eine Mengengarantie und eine Akustiklösung für seine E-Plattform an.
+> 오베를레 씨, 계약을 재협상해 주세요. 12가 아니라 8퍼센트. 그 대신 고객에게 물량 보장과 그쪽 전기차 플랫폼용 소음 솔루션을 제안하는 거예요.
+OBERLE: Eine Akustiklösung haben wir doch gar nicht im Angebot.
+> 소음 솔루션은 우리 상품 목록에도 없잖습니까.
+HAAS: Doch. Seit dreißig Jahren. Wir haben sie nur nie verkauft, weil sie im Getriebe steckte.
+> 있어요. 30년 전부터. 변속기 안에 들어 있어서 따로 팔아 본 적이 없을 뿐이죠.
+KATHARINA: Zweite Säule: Industrieantriebe. Wind und Bahn. Dafür investieren wir die fünfundzwanzig Millionen für eine neue Baureihe — verteilt auf drei Jahre, finanziert aus dem Verbrennervertrag.
+> 두 번째 기둥은 산업용 구동계. 풍력과 철도. 신규 제품군에 2,500만을 투자해요. 3년에 걸쳐서, 내연기관 계약에서 나오는 돈으로.
+TOBIAS: Das ist knapp, aber es geht. Wenn der Vertrag mit acht Prozent kommt, haben wir jedes Jahr etwa neun Millionen mehr als mit zwölf.
+> 빠듯하지만 가능해요. 계약이 8퍼센트로 성사되면 12퍼센트일 때보다 매년 900만쯤 더 남거든요.
+OBERLE: Und wenn der Kunde bei acht Prozent Nein sagt?
+> 그런데 고객이 8퍼센트에 싫다고 하면요?
+KATHARINA: Dann sagt er Nein zu dem einzigen Lieferanten, der sein Geräuschproblem lösen kann. Ich glaube nicht, dass er das tut. Und wenn doch, akzeptieren wir die zwölf Prozent — und Sie haben es wenigstens versucht.
+> 그럼 자기 소음 문제를 해결해 줄 유일한 공급업체를 거절하는 거죠. 그러진 않을 거라고 봐요. 만약 그런다면 12퍼센트를 받아들이죠. 적어도 시도는 해 보신 거니까요.
+KATHARINA: Und die Pilotlinie für die Industriegetriebe kommt nach Spandau. Dort steht ab März die neue Schleifmaschine — und dort sitzt Herr Matuschek, der Großserien genauso schleift wie Einzelstücke.
+> 그리고 산업용 변속기 시범 라인은 슈판다우로 갑니다. 3월부터 거기에 새 연삭기가 들어가고, 대량 생산품이든 단품이든 똑같이 깎아 내는 마투셰크 씨가 거기 있으니까요.
+CLARA: Und die dritte Säule?
+> 그럼 세 번째 기둥은요?
+KATHARINA: Die E-Achse. Aber nicht die komplette Achse, bei der wir gegen China verlieren. Sondern das Herz darin: das Getriebe, das man nicht hört. Herr Kühn, kann Ihr Team das?
+> 전기차 액슬이요. 다만 중국에 지는 완성형 액슬이 아니라, 그 안의 심장, 소리 나지 않는 변속기. 퀸 씨, 팀이 그걸 할 수 있나요?
+KÜHN: Mit Ingrids Akustikleuten? In achtzehn Monaten haben wir einen Prototyp.
+> 하스 선배의 소음 팀이랑 같이라면요? 18개월이면 시제품 나옵니다.
+CLARA: Das klingt gut. Aber Sie haben es noch nicht an einem einzigen Kunden ausprobiert.
+> 듣기엔 좋네요. 하지만 고객 한 명한테도 아직 시험해 보지 않으셨잖아요.
+KATHARINA: Richtig. Deshalb bekommen alle drei Säulen dieselbe Regel: Nach zwölf Monaten legen wir die Zahlen auf den Tisch. Was nicht trägt, stoppen wir. Auch wenn es mein Lieblingsprojekt ist.
+> 맞아요. 그래서 세 기둥 모두에 같은 규칙을 적용해요. 12개월 뒤에 숫자를 테이블 위에 올린다. 버티지 못하는 건 멈춘다. 제가 제일 아끼는 프로젝트라도요.
+HAAS: Und wer führt das alles technisch zusammen?
+> 그럼 그걸 기술적으로 누가 다 엮는데요?
+KATHARINA: Ein Kompetenzzentrum für Verzahnung und Akustik, das alle drei Säulen beliefert. Ich hätte gern, dass Sie es leiten, Frau Dr. Haas. Mit Ihren zwölf Leuten — und mit zwanzig mehr.
+> 세 기둥 모두를 지원하는 치형·소음 역량 센터를 만들 거예요. 하스 박사님이 맡아 주셨으면 해요. 박사님 팀원 열두 명에, 스무 명을 더해서요.
+VOLKMANN: Ingrid. Unter uns, ohne Folien: Sie bietet dir nicht an, das Getriebe zu beerdigen. Sie bietet dir an, es in drei neue Maschinen einzubauen.
+> 잉그리트. 우리끼리, 슬라이드 없이 말할게. 이분은 변속기를 묻자는 게 아니야. 세 개의 새 기계에 그걸 넣자는 거지.
+HAAS: … Ich habe das schon verstanden, Rainer. Ich bin nur nicht daran gewöhnt, dass mir ein Vorstand zuhört, bevor er entscheidet.
+> …나도 알아들었어, 라이너. 그냥 이사회가 결정하기 전에 내 말을 들어 주는 게 익숙하지 않을 뿐이야.
+HAAS: Gut. Ich sage dem Wettbewerber ab. Aber unter einer Bedingung: Getriebe Nummer eins bleibt in der Versuchshalle stehen. Als Erinnerung daran, woher das Können kommt.
+> 좋아요. 경쟁사 제안은 거절할게요. 단, 조건이 하나 있어요. 1번 변속기는 시험동에 그대로 둘 것. 이 기술이 어디서 왔는지 기억하라고요.
+
+## 마무리 — NEUNZEHN UHR, VERSUCHSHALLE
+KONRAD: Getriebe Nummer eins. Das Taxi gehörte einem Mann namens Erol. Er hat mir jedes Jahr zu Weihnachten eine Postkarte geschickt. Mit dem Kilometerstand.
+> 1번 변속기. 그 택시 주인은 에롤이라는 사람이었어요. 해마다 크리스마스면 내게 엽서를 보냈지. 주행 거리를 적어서.
+HAAS: Konrad! Was machst du denn hier? Du solltest dich doch schonen.
+> 콘라트! 여기서 뭐 해요? 몸 좀 아끼라니까.
+KONRAD: Ich schone mich. Ich bin mit dem Aufzug gekommen. — Frau Brandt, Clara hat mich angerufen. Sie sagt, Sie hätten Ingrid überzeugt. Das hat in zwanzig Jahren keiner geschafft, auch ich nicht.
+> 아끼고 있어요. 엘리베이터 타고 왔으니까. — 브란트 박사, 클라라가 전화했어요. 당신이 잉그리트를 설득했다더군요. 20년 동안 아무도 못 한 일이에요. 나도 못 했고.
+KATHARINA: Ich habe sie nicht überzeugt, Herr Ebersbach. Sie hat sich selbst überzeugt — nachdem jemand die richtige dumme Frage gestellt hat.
+> 제가 설득한 게 아니에요, 회장님. 누군가가 딱 맞는 바보 같은 질문을 하니까, 박사님이 스스로를 설득하신 거죠.
+KONRAD: Die besten Fragen stellt man immer, wenn man keine Ahnung hat. Mit der Ahnung kommt die Angst, etwas Dummes zu sagen. — Entschuldigen Sie, ich muss mich einen Moment setzen.
+> 제일 좋은 질문은 늘 아무것도 모를 때 나오죠. 뭘 좀 알게 되면 바보 같은 소리를 할까 봐 겁이 나니까. — 미안합니다, 잠깐 앉아야겠어요.
+TOBIAS: Herr Ebersbach, soll ich Ihnen einen Stuhl holen? Oder einen Arzt?
+> 회장님, 의자 가져다 드릴까요? 아니면 의사를?
+KONRAD: Einen Stuhl, Herr Wendt. Den Arzt habe ich morgen schon. Er wird mir sagen, dass ich weniger arbeiten soll, und ich werde ihm sagen, dass ich es versuche.
+> 의자요, 벤트 이사. 의사는 내일 이미 만나기로 했어요. 그 사람은 일을 줄이라고 하겠고, 나는 노력해 보겠다고 하겠지.
+CLARA: Papa, du hast mir versprochen, um sechs zu Hause zu sein.
+> 아빠, 여섯 시엔 집에 가겠다고 약속했잖아요.
+KONRAD: Und du hast mir versprochen, Frau Brandt eine Chance zu geben. Wir halten beide unsere Versprechen nur halb. — Erzähl ihr, wen du in Shanghai getroffen hast.
+> 너는 브란트 박사한테 기회를 주겠다고 약속했고. 우리 둘 다 약속을 반만 지키는 셈이지. — 상하이에서 누굴 만났는지 얘기해 드려라.
+CLARA: … Den Vorstandschef von Longhai Drive Systems aus Shenzhen. Er ist nächste Woche in Frankfurt. Er möchte uns ein Angebot machen.
+> …선전에 있는 Longhai 드라이브 시스템즈의 CEO요. 다음 주에 프랑크푸르트에 와요. 우리한테 제안을 하고 싶대요.
+KATHARINA: Was für ein Angebot?
+> 어떤 제안이요?
+CLARA: Eines, das alle unsere Geldprobleme löst. Und mein Vater findet, genau das ist das Problem.
+> 우리 돈 문제를 전부 해결해 줄 제안이요. 그리고 아버지는 바로 그게 문제라고 생각하세요.

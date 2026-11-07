@@ -1,0 +1,266 @@
+part: 1
+ep: 4
+title_de: Ein Zulieferer am Abgrund
+title_ko: 벼랑 끝의 부품사
+scene: 월요일 아침, 베를린 미테 → 마리엔펠데
+level: B1+
+setting: 6주에 걸친 이야기. 첫 주 월요일 Hellweg 베를린 사무소(프리드리히슈트라세)와 마리엔펠데 산업단지의 Havelteile GmbH, 4주 차 사장실, 5주 차 아침 일곱 시 3번 홀, 6주 차 은행 회의실
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
+cast: SANDMANN | Reinhard Sandmann · Havelteile GmbH 사장 겸 출자자, 창업주의 아들 (66, 가상)
+cast: KUNZE | Petra Kunze · Havelteile 경영관리 책임자(kaufmännische Leiterin)
+cast: YILDIZ | Murat Yıldız · Havelteile 공장장, Selin 아버지의 옛 동료
+cast: POHL | Oliver Pohl · Märkische Handelsbank 기업금융 담당 (가상)
+note: ※ 독일 자동차 산업은 완성차 업체 아래 수천 개의 부품 공급사(Zulieferer)가 받치고 있고, 그중 상당수가 내연기관 부품에 의존하는 중소기업입니다. 전기차 전환과 주문 감소로 2024년 이후 부품사 파산과 감원이 잇따랐습니다. 2035년 EU 신차 내연기관 퇴출 규정을 완화하자는 논의도 진행 중이지만, 완성차 업체는 새 차종의 공급사를 3–4년 앞서 지정(Nominierung)하므로 부품사의 미래는 이미 지금 결정됩니다. 은행은 위기 기업에 새 자금을 넣기 전에 독립 전문가의 구조조정 감정서(Sanierungsgutachten, 흔히 독일 공인회계사협회 기준 IDW S 6)를 요구합니다. 핵심 결론은 '회생 가능(sanierungsfähig)한가'입니다. 독일 파산법(InsO)상 회사가 지급불능에 빠지면 경영자는 늦어도 3주 안에 파산을 신청해야 하며, 어기면 개인적으로 책임을 집니다. 'Icke'는 베를린 사투리로 'ich'입니다. 회사·은행·인물은 모두 가상입니다. 표현 초점: das Sanierungsgutachten, die Liquidität, der Auftragseingang, sanierungsfähig, Die Zahlen sprechen eine klare Sprache.
+next: 1부 5화 — «Kurzarbeit»(단축근무) — Havelteile 공장 식당. 구조조정안을 노동자평의회에 처음 설명하는 날이다. 팀은 300명 감원 대신 단축근무와 배터리 부품 전환의 혼합안을 들고 가지만, 의장 데틀레프 로터의 분노 앞에서 Tobias의 숫자는 통하지 않는다. Katharina는 '먼저 듣는' 협상을 시작한다.
+
+## 도입 — FRIEDRICHSTRASSE, MONTAG
+SELIN: Berlin-Mitte, Friedrichstraße. Ich war nur drei Wochen weg, und schon fühlt sich das Büro fremd an.
+> 베를린 미테, 프리드리히슈트라세. 3주 떠나 있었을 뿐인데 사무실이 벌써 낯설어.
+TOBIAS: Das liegt an der Baustelle vor der Tür. Die war vor drei Wochen auch schon da, nur kleiner.
+> 그건 문 앞 공사장 때문이야. 3주 전에도 있었는데, 그땐 더 작았지.
+KATHARINA: Also, das Mandat. Havelteile GmbH in Marienfelde. Neunhundert Mitarbeiter, Präzisionsteile für Verbrennungsmotoren.
+> 자, 수임 건. 마리엔펠데의 하펠타일레 유한회사. 직원 900명, 내연기관용 정밀 부품.
+TOBIAS: Einspritzkomponenten, Ventile, Gehäuse. Zweiundsiebzig Prozent des Umsatzes hängen am Verbrenner.
+> 분사 부품, 밸브, 하우징. 매출의 72퍼센트가 내연기관에 달려 있어.
+SELIN: Und die Bank?
+> 그럼 은행은?
+KATHARINA: Die Märkische Handelsbank gibt eine Kreditlinie von fünfundzwanzig Millionen. Sie verlängert sie nur mit einem Sanierungsgutachten. Wir haben sechs Wochen.
+> 메르키셰 한델스방크가 2,500만짜리 여신 한도를 주고 있어. 구조조정 감정서가 있어야만 연장해 주겠대. 우리한테 6주가 있어.
+SELIN: Und was steht am Ende in so einem Gutachten?
+> 그런 감정서 끝에는 뭐가 적혀?
+TOBIAS: Ein Wort. Sanierungsfähig — oder nicht.
+> 한 단어. 회생 가능 — 아니면 불가능.
+KATHARINA: Und dazu ein Konzept, das erklärt, warum. Die Bank will wissen: Kann die Firma wieder aus eigener Kraft Geld verdienen?
+> 그리고 그 이유를 설명하는 구상. 은행은 알고 싶어 해. 이 회사가 다시 제힘으로 돈을 벌 수 있는가.
+SELIN: Katharina, eine Sache muss ich dir vorher sagen. Mein Vater hat dreißig Jahre bei Havelteile gearbeitet. Als Schichtleiter.
+> 카타리나, 미리 말해야 할 게 하나 있어. 우리 아빠가 하펠타일레에서 30년 일했어. 교대조장으로.
+KATHARINA: … Bei genau dieser Firma?
+> …바로 이 회사에서?
+SELIN: Er ist seit zwei Jahren in Rente. Aber er kennt dort noch jeden.
+> 2년 전에 은퇴했어. 그래도 거기 사람들은 아직 다 알아.
+
+## 장면 1 — HALLE DREI
+KATHARINA: Danke, dass du es sofort sagst. Ist das ein Problem für dich — oder für das Projekt?
+> 바로 말해 줘서 고마워. 그게 너한테 문제야, 아니면 프로젝트한테 문제야?
+SELIN: Für mich nicht. Ich will nur nicht, dass später jemand sagt, ich war nicht neutral.
+> 나한텐 아니야. 그냥 나중에 누가 내가 중립적이지 않았다고 말하는 게 싫어.
+KATHARINA: Dann machen wir es so: Du arbeitest an den Daten, nicht an den Personalfragen. Und ich schreibe es in die Projektakte. Offenheit schützt dich besser als Schweigen.
+> 그럼 이렇게 하자. 너는 데이터를 맡고, 인사 문제는 맡지 않아. 그리고 내가 이걸 프로젝트 기록에 남길게. 침묵보다 공개가 너를 더 잘 지켜 줘.
+TOBIAS: Und ich passe auf, dass du nicht zu nett zu den Zahlen bist.
+> 그리고 난 네가 숫자한테 너무 친절하지 않은지 지켜볼게.
+SANDMANN: Willkommen bei Havelteile! Reinhard Sandmann. Mein Vater hat die Firma neunzehnhundertvierundsechzig gegründet, in einer Garage in Tempelhof.
+> 하펠타일레에 오신 걸 환영합니다! 라인하르트 잔트만입니다. 저희 아버지가 1964년에 템펠호프의 차고에서 이 회사를 세우셨죠.
+KATHARINA: Guten Tag, Herr Sandmann. Katharina Brandt. Das sind Herr Wendt und Frau Aydın.
+> 안녕하세요, 잔트만 씨. 카타리나 브란트입니다. 이쪽은 벤트 씨와 아이든 씨예요.
+SANDMANN: Ich will offen sein, Frau Dr. Brandt. Ich halte dieses Gutachten für Zeitverschwendung. Die Bank hat Angst, das ist alles.
+> 솔직히 말하겠습니다, 브란트 박사. 나는 이 감정서가 시간 낭비라고 봐요. 은행이 겁을 먹은 것뿐이에요.
+KATHARINA: Dann helfen Sie uns, der Bank das Gegenteil zu zeigen. Dafür brauchen wir Ihre Zahlen — alle.
+> 그렇다면 은행에 그 반대를 보여 줄 수 있게 도와주세요. 그러려면 귀사의 숫자가 필요합니다. 전부요.
+KUNZE: Petra Kunze, ich bin die kaufmännische Leiterin. Der Datenraum ist seit heute früh offen. Bilanzen, Liquiditätsplanung, Auftragsbuch.
+> 페트라 쿤체입니다, 경영관리 책임자예요. 데이터룸은 오늘 아침부터 열려 있어요. 재무제표, 유동성 계획, 수주 장부.
+TOBIAS: Frau Kunze, die wichtigste Frage zuerst: Wie lange reicht die Liquidität?
+> 쿤체 씨, 가장 중요한 질문부터요. 유동성이 얼마나 버티나요?
+KUNZE: Wir haben sechs Komma acht Millionen auf dem Konto. Jede Woche fließen etwa sechshunderttausend mehr ab, als hereinkommen.
+> 계좌에 680만이 있어요. 매주 들어오는 것보다 약 60만이 더 나가고요.
+TOBIAS: Also elf Wochen. Ohne die Kreditlinie.
+> 그러니까 11주네요. 여신 한도 없이는요.
+SANDMANN: Elf Wochen sind eine Ewigkeit. Im Frühjahr kommen die Aufträge zurück.
+> 11주면 영원이에요. 봄이면 주문이 돌아옵니다.
+SELIN: Herr Sandmann, darf ich fragen, warum Sie das glauben?
+> 잔트만 씨, 왜 그렇게 믿으시는지 여쭤봐도 될까요?
+SANDMANN: Weil Brüssel das Verbrenner-Aus gerade aufweicht. Die Politik merkt endlich, dass die Leute keine teuren Elektroautos wollen. Unsere Kunden werden wieder bestellen.
+> 브뤼셀이 지금 내연기관 금지를 완화하고 있으니까요. 사람들이 비싼 전기차를 원하지 않는다는 걸 정치권이 드디어 알아챈 거죠. 고객들이 다시 주문할 겁니다.
+YILDIZ: Chef, die Herrschaften wollten die Halle sehen? — Moment mal. Selin? Bist du das? Die kleine Selin von Kemal?
+> 사장님, 이분들 공장 보고 싶다고 하셨죠? — 잠깐만. 셀린? 너야? 케말네 꼬맹이 셀린?
+SELIN: Hallo, Murat. So klein bin ich nicht mehr.
+> 안녕, 무라트 아저씨. 이제 그렇게 꼬맹이 아니야.
+YILDIZ: Als icke dich zuletzt gesehen hab', warst du so groß! Murat Yıldız, Werkleiter. Kommen Sie, ich zeige Ihnen alles.
+> 내가 마지막으로 봤을 땐 요만했는데! 무라트 이을드즈, 공장장입니다. 오세요, 다 보여 드리죠.
+YILDIZ: Das hier ist Halle drei. Früher drei Schichten, sieben Tage die Woche. Jetzt zwei Schichten, und freitags stehen die Maschinen still.
+> 여기가 3번 홀이에요. 예전엔 3교대, 주 7일이었죠. 지금은 2교대에, 금요일엔 기계가 멈춰 있어요.
+TOBIAS: Wie hoch ist die Auslastung?
+> 가동률이 어느 정도죠?
+YILDIZ: Bei den Einspritzteilen? Vielleicht fünfundfünfzig Prozent. Bei den Aluminiumgehäusen besser, fast achtzig.
+> 분사 부품 쪽은요? 한 55퍼센트. 알루미늄 하우징 쪽은 더 나아요, 거의 80.
+SELIN: Was macht ihr mit den Aluminiumgehäusen genau?
+> 알루미늄 하우징은 정확히 뭐 해요?
+YILDIZ: Druckguss und Fräsen. Für Getriebe, für Pumpen. Vor einem Jahr hat sogar ein Batteriehersteller aus Brandenburg angefragt, für Kühlplatten. Der Chef hat abgelehnt.
+> 다이캐스팅하고 밀링이요. 변속기용, 펌프용. 1년 전엔 브란덴부르크의 배터리 제조사가 냉각판 문의까지 해 왔어요. 사장님이 거절했죠.
+KATHARINA: Warum abgelehnt?
+> 왜 거절하셨죠?
+YILDIZ: Fragen Sie ihn selbst. Ich sage nur: Die Maschinen könnten das.
+> 사장님께 직접 물어보세요. 저는 그냥 이 말만 하죠. 기계는 그거 할 수 있어요.
+TOBIAS: Frau Kunze, ich brauche den Auftragseingang der letzten drei Jahre. Pro Kunde und pro Produkt.
+> 쿤체 씨, 지난 3년간 수주액이 필요해요. 고객별, 제품별로요.
+KUNZE: Den schicke ich Ihnen. Ich warne Sie aber: Er ist nicht schön.
+> 보내 드릴게요. 그런데 미리 경고하는데, 예쁘진 않아요.
+TOBIAS: Schöne Zahlen machen mich misstrauisch. Mit hässlichen kann ich arbeiten.
+> 예쁜 숫자는 오히려 의심스러워요. 못생긴 숫자하고는 일할 수 있죠.
+KUNZE: Minus vierunddreißig Prozent in zwölf Monaten. Unser größter Kunde hat die Abrufe um vierzig Prozent gesenkt.
+> 12개월 동안 마이너스 34퍼센트. 최대 고객이 납품 호출량을 40퍼센트 줄였어요.
+SELIN: Und für die Zeit nach zwanzig achtundzwanzig? Gibt es neue Aufträge für neue Modelle?
+> 2028년 이후는요? 새 차종에 대한 새 수주가 있나요?
+KUNZE: Sie meinen Nominierungen. Nein. Für die neuen Plattformen sind wir nicht nominiert. Für keine einzige.
+> 노미네이션 말씀이죠. 없어요. 새 플랫폼에는 저희가 공급사로 지정되지 못했어요. 단 하나도요.
+TOBIAS: Für keine einzige?
+> 단 하나도요?
+KUNZE: Herr Sandmann sagt, das ändert sich noch. Ich sage dazu nichts mehr.
+> 잔트만 사장님은 그게 아직 바뀔 거라고 하세요. 저는 거기에 대해선 더 이상 아무 말도 안 해요.
+
+## 장면 2 — WOCHE VIER
+TOBIAS: Woche vier. Das Modell ist fertig. Willst du zuerst die gute oder die schlechte Nachricht?
+> 4주 차. 모델 다 만들었어. 좋은 소식부터 들을래, 나쁜 소식부터 들을래?
+KATHARINA: Kessler hat es mir beigebracht: die gute.
+> 케슬러가 가르쳐 줬지. 좋은 소식부터.
+TOBIAS: Die gute: Die Firma ist technisch stark. Die Aluminiumsparte verdient Geld, sogar heute.
+> 좋은 소식. 회사는 기술적으로 강해. 알루미늄 부문은 지금도 돈을 벌어.
+TOBIAS: Die schlechte: Ohne Umbau ist das Geld im Februar weg. Und die Verbrennersparte verliert jedes Jahr mehr, auch wenn Brüssel die Regeln lockert.
+> 나쁜 소식. 개편 없이는 2월에 돈이 바닥나. 그리고 내연기관 부문은 브뤼셀이 규제를 완화해도 해마다 손실이 커져.
+SELIN: Warum auch dann?
+> 그래도 왜?
+TOBIAS: Weil die Autohersteller ihre Plattformen vier Jahre im Voraus vergeben. Die Entscheidungen für zwanzig dreißig sind schon gefallen. Ohne Havelteile.
+> 완성차 업체들은 플랫폼 공급사를 4년 앞서 정하거든. 2030년 결정은 이미 내려졌어. 하펠타일레 없이.
+KATHARINA: Und was heißt das für die Stellen?
+> 그럼 일자리는 어떻게 돼?
+TOBIAS: In der Verbrennersparte braucht die Firma in zwei Jahren etwa dreihundert Leute weniger. Wenn die Batterieteile kommen, kann ein Teil wechseln. Aber nicht alle.
+> 내연기관 부문에서 2년 뒤면 약 300명이 덜 필요해. 배터리 부품이 들어오면 일부는 옮길 수 있어. 하지만 전부는 아니야.
+SELIN: Dreihundert. Murat hat mir gestern erzählt, dass viele von ihnen seit zwanzig Jahren dort sind.
+> 300명. 무라트 아저씨가 어제 그러는데, 그중 많은 사람이 거기서 20년째 일했대.
+KATHARINA: Selin, wir haben es besprochen: keine Personalfragen.
+> 셀린, 얘기했잖아. 인사 문제는 안 맡기로.
+SELIN: Ich rede nicht über Personen. Ich rede über eine Zahl, die sehr groß ist.
+> 사람 얘기를 하는 게 아니야. 아주 큰 숫자 얘기를 하는 거야.
+SANDMANN: Frau Dr. Brandt, Sie wollten mich sprechen? Ich habe zwanzig Minuten. Dann kommt ein Kunde aus Stuttgart.
+> 브란트 박사, 나를 보자고 했다고요? 20분 있어요. 그다음엔 슈투트가르트에서 고객이 와요.
+KATHARINA: Danke, Herr Sandmann. Wir möchten Ihnen unser vorläufiges Ergebnis zeigen, bevor die Bank es sieht.
+> 감사합니다, 잔트만 씨. 은행이 보기 전에 저희 잠정 결과를 먼저 보여 드리고 싶습니다.
+SANDMANN: Vorläufig. Das klingt nicht gut.
+> 잠정이라. 좋게 들리지 않네요.
+TOBIAS: Herr Sandmann, die Zahlen sprechen eine klare Sprache. Der Auftragseingang ist um vierunddreißig Prozent gefallen, und für die Modelle nach zwanzig achtundzwanzig hat Havelteile keine einzige Nominierung.
+> 잔트만 씨, 숫자는 분명하게 말하고 있습니다. 수주는 34퍼센트 떨어졌고, 2028년 이후 차종에 대해서는 하펠타일레가 지정받은 게 하나도 없습니다.
+SANDMANN: Das ändert sich. Ich kenne die Einkäufer bei unseren Kunden seit dreißig Jahren.
+> 그건 바뀝니다. 고객사 구매 담당자들을 30년째 알고 지냈어요.
+TOBIAS: Die Einkäufer kennen Sie. Aber die Einkäufer entscheiden nicht mehr. Das macht inzwischen ein Vorstand, der Elektroautos verkaufen muss.
+> 구매 담당자들은 아시겠죠. 하지만 이제 그들이 결정하지 않습니다. 요즘은 전기차를 팔아야 하는 이사회가 결정하죠.
+SANDMANN: Herr Wendt, wie alt sind Sie? Fünfunddreißig? Ich habe diese Firma durch drei Krisen geführt. Neunzehnhundertdreiundneunzig, zweitausendneun, die Pandemie.
+> 벤트 씨, 몇 살이에요? 서른다섯? 나는 이 회사를 세 번의 위기에서 끌고 나왔어요. 1993년, 2009년, 팬데믹.
+TOBIAS: Und jedes Mal kam die Nachfrage zurück. Diesmal ist es keine Krise der Nachfrage. Diesmal verschwindet das Produkt.
+> 그리고 매번 수요가 돌아왔죠. 이번엔 수요의 위기가 아닙니다. 이번엔 제품이 사라지는 겁니다.
+SANDMANN: Das Produkt verschwindet nicht! Auf der Welt fahren über eine Milliarde Autos mit Verbrennungsmotor.
+> 제품은 안 사라져요! 전 세계에 내연기관차가 10억 대 넘게 다녀요.
+SELIN: Das stimmt, Herr Sandmann. Aber Ihre Kunden bauen in Europa immer weniger davon. Und für den Ersatzteilmarkt sind Ihre Preise zu hoch.
+> 맞는 말씀이에요, 잔트만 씨. 하지만 귀사 고객들은 유럽에서 그걸 점점 덜 만들어요. 그리고 교체 부품 시장에서는 귀사 가격이 너무 높고요.
+SANDMANN: Sie auch, Frau Aydın? Ihr Vater hätte so etwas nie gesagt.
+> 아이든 씨, 당신까지? 당신 아버지라면 절대 그런 말 안 했을 거요.
+SELIN: … Mein Vater hat jeden Abend erzählt, dass die Halle leerer wird. Er hat es nur Ihnen nie gesagt.
+> …우리 아버지는 매일 저녁 공장이 비어 간다고 얘기했어요. 사장님께만 말씀을 안 드렸을 뿐이죠.
+KATHARINA: Herr Sandmann, das war nicht fair gegenüber Frau Aydın. Bitte lassen wir ihre Familie aus diesem Gespräch heraus.
+> 잔트만 씨, 그건 아이든 씨에게 공정하지 않았습니다. 이 대화에서 그분 가족 얘기는 빼 주시죠.
+SANDMANN: … Sie haben recht. Entschuldigung. Aber verstehen Sie mich: Wenn ich Ihr Gutachten unterschreibe, unterschreibe ich, dass mein Lebenswerk am Ende ist.
+> …맞아요. 미안합니다. 하지만 날 이해해 줘요. 당신 감정서에 서명하면, 내 평생의 일이 끝났다는 데 서명하는 거예요.
+KATHARINA: Nein. Sie unterschreiben, dass es weitergehen kann. Nur anders.
+> 아닙니다. 계속될 수 있다는 데 서명하시는 겁니다. 다만 다른 방식으로요.
+SANDMANN: „Anders" heißt: dreihundert Leute raus.
+> '다른 방식'이란 300명을 내보낸다는 거겠죠.
+TOBIAS: Ohne Umbau heißt es: neunhundert Leute raus. Im Februar.
+> 개편 없이는 900명을 내보내는 겁니다. 2월에.
+SANDMANN: Das ist Erpressung.
+> 그건 협박이에요.
+KATHARINA: Das ist Arithmetik, Herr Sandmann. Und es ist Gesetz. Wenn das Geld ausgeht, müssen Sie spätestens nach drei Wochen Insolvenz anmelden. Sonst haften Sie persönlich.
+> 그건 산수입니다, 잔트만 씨. 그리고 법이기도 하고요. 돈이 바닥나면 늦어도 3주 안에 파산 신청을 하셔야 합니다. 안 그러면 개인적으로 책임을 지시게 돼요.
+SANDMANN: Ich kenne das Gesetz.
+> 법은 나도 압니다.
+KUNZE: Reinhard, bitte. Hör ihnen zu. Ich sage dir das seit einem Jahr.
+> 라인하르트, 제발. 이분들 말 좀 들어. 내가 1년째 하는 얘기잖아.
+SANDMANN: Petra, du auch?
+> 페트라, 당신도?
+KUNZE: Ich auch. Ich hatte nur keine Folien.
+> 나도. 나한텐 슬라이드가 없었을 뿐이지.
+SANDMANN: Mein Kunde aus Stuttgart wartet. Wir reden morgen weiter. Um sieben, bevor die Frühschicht kommt.
+> 슈투트가르트 고객이 기다려요. 내일 계속 얘기합시다. 일곱 시에, 아침 교대조가 오기 전에.
+
+## 절정 — SIEBEN UHR, HALLE DREI
+SANDMANN: Sie sind pünktlich. Das mag ich. Also, Frau Dr. Brandt: Überzeugen Sie mich.
+> 시간 잘 지키시네요. 그건 마음에 들어요. 자, 브란트 박사. 날 설득해 보세요.
+KATHARINA: Zuerst möchte ich Ihnen eine Frage stellen. Warum haben Sie vor einem Jahr die Anfrage für die Kühlplatten abgelehnt?
+> 먼저 질문 하나 드리고 싶습니다. 1년 전에 왜 냉각판 문의를 거절하셨나요?
+SANDMANN: Weil wir keine Batteriefirma sind. Wir machen Präzisionsteile für Motoren. Das können wir besser als jeder andere in Berlin.
+> 우리는 배터리 회사가 아니니까요. 우리는 엔진용 정밀 부품을 만들어요. 그건 베를린에서 누구보다 잘해요.
+KATHARINA: Herr Yıldız sagt, die Maschinen könnten es. Und Ihre Leute auch.
+> 이을드즈 씨는 기계가 그걸 할 수 있다고 하더군요. 직원들도요.
+YILDIZ: Chef, die Toleranzen bei den Kühlplatten sind sogar größer als bei unseren Ventilen. Für uns ist das fast Urlaub.
+> 사장님, 냉각판 공차는 우리 밸브보다 오히려 넉넉해요. 우리한텐 거의 휴가예요.
+SANDMANN: Murat, übertreib nicht.
+> 무라트, 과장하지 마.
+YILDIZ: Ein bisschen übertreibe ich. Aber nur ein bisschen.
+> 조금 과장하긴 했죠. 근데 진짜 조금이에요.
+TOBIAS: Herr Sandmann, wir haben drei Szenarien gerechnet. Darf ich sie Ihnen zeigen? Es dauert vier Minuten.
+> 잔트만 씨, 세 가지 시나리오를 계산했습니다. 보여 드려도 될까요? 4분이면 됩니다.
+SANDMANN: Bitte.
+> 하세요.
+TOBIAS: Szenario eins: Sie warten auf die alten Kunden. Im Februar ist die Liquidität weg, und das Amtsgericht bestellt einen Insolvenzverwalter. Dann entscheiden nicht mehr Sie über die Firma, sondern er.
+> 시나리오 1. 옛 고객을 기다리신다. 2월에 유동성이 바닥나고, 법원이 파산관재인을 선임합니다. 그때부턴 사장님이 아니라 그 사람이 회사를 결정하죠.
+TOBIAS: Szenario zwei: Sie verkaufen die Aluminiumsparte, den einzigen gesunden Teil. Das bringt Geld für ein Jahr. Danach ist der Rest nichts mehr wert.
+> 시나리오 2. 유일하게 건강한 알루미늄 부문을 파신다. 1년 버틸 돈은 생깁니다. 그 뒤엔 나머지가 아무 가치도 없게 되죠.
+TOBIAS: Szenario drei: Umbau. Die Verbrennersparte wird kleiner, die Aluminiumsparte wächst mit Kühlplatten und Gehäusen für Elektromotoren. In drei Jahren kommen vierzig Prozent des Umsatzes aus neuen Produkten.
+> 시나리오 3. 개편. 내연기관 부문은 줄고, 알루미늄 부문은 냉각판과 전기모터 하우징으로 성장합니다. 3년 뒤엔 매출의 40퍼센트가 새 제품에서 나오고요.
+SANDMANN: Und das glaubt die Bank?
+> 그걸 은행이 믿을까요?
+KATHARINA: Die Bank glaubt es, wenn drei Bedingungen erfüllt sind. Erstens: ein unterschriebener Rahmenvertrag mit dem Batteriehersteller. Herr Yıldız sagt, die Anfrage gibt es noch.
+> 세 가지 조건이 충족되면 믿을 겁니다. 첫째, 배터리 제조사와 서명한 기본계약. 이을드즈 씨 말로는 그 문의가 아직 살아 있다고요.
+YILDIZ: Der Einkäufer ruft mich jeden Monat an. Er hat noch keinen besseren Lieferanten gefunden.
+> 그쪽 구매 담당자가 매달 전화해요. 아직 더 나은 공급사를 못 찾았대요.
+KATHARINA: Zweitens: ein Beitrag von Ihnen als Gesellschafter. Die Bank will sehen, dass auch der Eigentümer etwas riskiert.
+> 둘째, 출자자로서 사장님의 기여. 은행은 소유주도 뭔가를 걸고 있다는 걸 보고 싶어 합니다.
+SANDMANN: Wie viel?
+> 얼마나요?
+TOBIAS: Drei Millionen. Zum Beispiel über das Grundstück in Lichtenrade, das Ihnen privat gehört.
+> 300만입니다. 예를 들면 사장님 개인 소유인 리히텐라데 부지를 통해서요.
+SANDMANN: Das Grundstück war für meine Enkel gedacht.
+> 그 땅은 손주들 몫으로 생각했던 건데.
+KATHARINA: Ich weiß. Und drittens: ein fairer Umbau für die Belegschaft. Mit dem Betriebsrat, nicht gegen ihn. Kurzarbeit, Umschulung und nur so viele Kündigungen wie wirklich nötig.
+> 압니다. 그리고 셋째, 직원들을 위한 공정한 개편. 노동자평의회와 함께, 그들에 맞서서가 아니라요. 단축근무, 재교육, 그리고 정말 필요한 만큼만의 해고.
+SANDMANN: Frau Dr. Brandt, Sie verlangen viel von einem alten Mann.
+> 브란트 박사, 늙은이한테 많은 걸 요구하는군요.
+KATHARINA: Herr Sandmann, Ihr Vater hat in einer Garage angefangen, weil er etwas Neues bauen wollte. Die Frage ist nicht, ob Ihre alten Kunden Sie mögen. Die Frage ist, ob Sie in vier Jahren noch irgendjemand braucht.
+> 잔트만 씨, 아버님은 새로운 걸 만들고 싶으셨기에 차고에서 시작하셨습니다. 문제는 옛 고객들이 사장님을 좋아하느냐가 아닙니다. 4년 뒤에도 누군가 사장님을 필요로 하느냐입니다.
+SANDMANN: … Und mit dem Umbau? Wie viele Arbeitsplätze bleiben?
+> …그럼 개편을 하면요? 일자리가 몇 개나 남습니까?
+TOBIAS: Etwa sechshundert sicher, wenn der Vertrag kommt. Vielleicht mehr, wenn die Kühlplatten gut laufen. Ohne Umbau: null.
+> 계약이 성사되면 약 600개는 확실합니다. 냉각판이 잘되면 더 많을 수도 있고요. 개편이 없으면 0입니다.
+SANDMANN: Sechshundert von neunhundert.
+> 900개 중 600개.
+KUNZE: Reinhard. Sechshundert sind mehr als null.
+> 라인하르트. 600은 0보다 많아.
+SANDMANN: … Murat, ruf den Einkäufer aus Brandenburg an. Heute noch. Und sag ihm, der alte Sandmann hat seine Meinung geändert.
+> …무라트, 브란덴부르크 구매 담당자한테 전화해. 오늘 당장. 그리고 늙은 잔트만이 생각을 바꿨다고 전해.
+KATHARINA: Dann schreiben wir in das Gutachten: sanierungsfähig — unter diesen drei Bedingungen. Danke, Herr Sandmann. Das war mutig.
+> 그럼 감정서에 이렇게 쓰겠습니다. 회생 가능 — 이 세 가지 조건하에서. 감사합니다, 잔트만 씨. 용기 있는 결정이었습니다.
+
+## 마무리 — WOCHE SECHS
+POHL: Frau Dr. Brandt, ich habe Ihr Gutachten gelesen. Zweihundertzwölf Seiten. Und am Ende ein „Ja, aber".
+> 브란트 박사님, 감정서 읽었습니다. 212페이지. 그리고 마지막엔 '예, 다만'이 있더군요.
+KATHARINA: Ein ehrliches „Ja, aber", Herr Pohl. Der Rahmenvertrag ist seit gestern unterschrieben, und Herr Sandmann bringt drei Millionen ein.
+> 정직한 '예, 다만'입니다, 폴 씨. 기본계약은 어제 서명됐고, 잔트만 씨가 300만을 출자합니다.
+POHL: Dann verlängern wir die Kreditlinie. Zunächst für zwölf Monate. Aber den dritten Punkt — den Umbau mit dem Betriebsrat — will ich bis Ende des Monats sehen.
+> 그럼 여신 한도를 연장하겠습니다. 우선 12개월. 하지만 세 번째 항목, 노동자평의회와의 개편안은 이달 말까지 보고 싶습니다.
+TOBIAS: Das ist der schwierigste Punkt.
+> 그게 제일 어려운 항목이죠.
+POHL: Eben deshalb will ich ihn sehen.
+> 바로 그래서 보고 싶은 겁니다.
+SELIN: Papa? Ja, ich bin's. … Ja, ich war in der Halle. … Nein, sie schließt nicht.
+> 아빠? 응, 나야. …응, 공장에 갔었어. …아니, 문 안 닫아.
+SELIN: Aber es wird sich viel ändern, Papa. Und nächste Woche muss ich vor dem Betriebsrat stehen.
+> 그런데 많이 바뀔 거야, 아빠. 그리고 다음 주엔 노동자평의회 앞에 서야 해.
+SELIN: … Detlef Rother? Der ist immer noch Vorsitzender? … Okay. Danke für die Warnung.
+> …데틀레프 로터? 그분이 아직도 의장이야? …알았어. 경고해 줘서 고마워.
+KATHARINA: Was hat dein Vater gesagt?
+> 아버지가 뭐라셔?
+SELIN: Dass Detlef Rother Berater noch weniger mag als Bankleute. Und dass er einmal einen Geschäftsführer drei Stunden lang nicht zu Wort kommen ließ.
+> 데틀레프 로터는 은행가보다 컨설턴트를 더 싫어한대. 그리고 한 번은 사장을 세 시간 동안 한마디도 못 하게 했대.
+TOBIAS: Drei Stunden. Ich habe Folien für vier.
+> 세 시간이라. 나한텐 네 시간 분량의 슬라이드가 있는데.
+KATHARINA: Diesmal brauchen wir keine Folien, Tobias. Diesmal brauchen wir Ohren.
+> 이번엔 슬라이드가 필요 없어, 토비아스. 이번엔 귀가 필요해.

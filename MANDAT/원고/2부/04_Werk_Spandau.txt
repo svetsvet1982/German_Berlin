@@ -1,0 +1,266 @@
+part: 2
+ep: 4
+title_de: Werk Spandau
+title_ko: 슈판다우 공장
+scene: 베를린 슈판다우 공장 현장
+level: B2
+setting: 11월 중순 수요일 오전 여덟 시부터 오후 다섯 시까지, 베를린 슈판다우역 → Ebersbach 슈판다우 공장 노동자평의회 사무실·기어 생산동·공장 정문
+cast: KATHARINA | Dr. Katharina Brandt · CEO (39)
+cast: SELIN | Selin Aydın · 전환사무국장, 베를린 노이쾰른 출신 (27)
+cast: KRÖGER | Matthias Kröger · 슈판다우 공장 노동자평의회 의장, IG Metall (52)
+cast: RUPPERT | Sven Ruppert · 노동자평의회 부의장
+cast: NOWAK | Dariusz Nowak · 슈판다우 공장장 (48)
+cast: MATUSCHEK | Heinz Matuschek · 기어 연삭공, 근속 40년 (62)
+cast: TOBIAS | Tobias Wendt · CFO (스피커폰) (35)
+note: ※ 독일 사업장조직법(BetrVG)은 노동자평의회(Betriebsrat)에 강한 '공동결정권(Mitbestimmungsrecht)'을 줍니다. 특히 근로시간의 일시적 단축·연장, 즉 단축근무(Kurzarbeit)와 초과근무는 노동자평의회의 동의 없이는 도입할 수 없습니다. 노동자평의회는 특별한 사유가 있으면 임시 직원 집회도 소집할 수 있습니다. 단축근무 수당(Kurzarbeitergeld)은 연방고용청(Bundesagentur für Arbeit)이 줄어든 순임금의 60퍼센트(자녀가 있으면 67퍼센트)를 지급하며, 많은 기업이 이를 자체적으로 보전(Aufstockung)합니다. 베를린 서쪽 끝 슈판다우(Spandau)는 지멘스슈타트 등 오랜 산업 전통을 가진 지역입니다. 등장하는 신문 «Spree-Kurier»는 가상입니다. 표현 초점: das Werk, die Belegschaft, die Standortgarantie, das Gerücht, Herr Kröger, ich bin selbst gekommen, damit Sie es nicht aus der Zeitung erfahren.
+next: 2부 5화 — «Der lange Abschied vom Verbrenner»(내연기관과의 긴 이별) — 하나우 연구개발센터. 30년 쌓은 기어 기술을 버리고 싶지 않은 엔지니어들과 제품 포트폴리오 재편을 논의한다. 답은 '버리기'가 아니라 '옮기기'다.
+
+## 도입 — BAHNHOF SPANDAU, ACHT UHR ZEHN
+SELIN: Berlin-Spandau. Willkommen in meiner Stadt, Katharina. Na ja, fast meiner Stadt. Neukölln ist eine Stunde weit weg.
+> 베를린 슈판다우. 내 도시에 온 걸 환영해, 카타리나. 뭐, 거의 내 도시. 노이쾰른은 여기서 한 시간 거리야.
+KATHARINA: Eine Stunde? Wir sind doch in Berlin.
+> 한 시간? 여기 베를린 아니야?
+SELIN: Eben. In Berlin ist alles eine Stunde weit weg. Das ist hier eine Maßeinheit.
+> 그러니까. 베를린에선 뭐든 한 시간 거리야. 여기선 그게 측정 단위라고.
+NOWAK: Frau Dr. Brandt, Frau Aydın. Dariusz Nowak, Werkleiter. Danke, dass Sie so schnell gekommen sind. Der Wagen steht draußen.
+> 브란트 박사님, 아이든 국장님. 다리우시 노바크, 공장장입니다. 이렇게 빨리 와 주셔서 감사합니다. 차는 밖에 있어요.
+KATHARINA: Guten Morgen, Herr Nowak. Wie ist die Lage?
+> 안녕하세요, 노바크 씨. 상황은 어때요?
+NOWAK: Angespannt. Das Blatt hing heute um halb sechs an der Kantinentür. Um sechs war es ein Gerücht in der ganzen Belegschaft. Um sieben hat eine Journalistin vom «Spree-Kurier» angerufen.
+> 팽팽합니다. 그 종이가 새벽 다섯 시 반에 식당 문에 붙어 있었어요. 여섯 시엔 전 직원 사이에 소문이 돌았고, 일곱 시엔 «슈프레 쿠리어» 기자가 전화를 했습니다.
+SELIN: Der «Spree-Kurier»? Den liest meine Mutter. Den liest ganz Spandau.
+> «슈프레 쿠리어»요? 그거 우리 엄마도 읽는데. 슈판다우 사람들은 다 읽어요.
+NOWAK: Genau das ist das Problem. Und Herr Kröger hat für elf Uhr eine außerordentliche Betriebsversammlung einberufen.
+> 바로 그게 문제죠. 게다가 크뢰거 씨가 열한 시에 임시 직원 집회를 소집했습니다.
+KATHARINA: Weiß er, dass ich komme?
+> 제가 오는 건 알아요?
+NOWAK: Ich habe es ihm gesagt. Er hat gelacht. Dann hat er gesagt: «Das Messer aus Hanau kommt also persönlich.»
+> 말했습니다. 웃더군요. 그러고는 이랬어요. «하나우의 칼이 친히 오신다 이거지.»
+KATHARINA: Das Messer aus Hanau. Charmant.
+> 하나우의 칼이라. 매력적이네요.
+NOWAK: Bei Herrn Kröger ist das fast schon eine Begrüßung. Die Frage ist, ob er Sie nach der Begrüßung noch reden lässt.
+> 크뢰거 씨한테 그 정도면 거의 환영 인사예요. 문제는 인사 다음에 박사님한테 말할 기회를 주느냐죠.
+
+## 분석 — DAS MESSER AUS HANAU
+KRÖGER: Das Messer aus Hanau. Frau Doktor Brandt. Setzen Sie sich. Kaffee? Er ist schlecht, aber er ist heiß.
+> 하나우의 칼. 브란트 박사님. 앉으시죠. 커피? 맛은 없는데 뜨겁긴 합니다.
+KATHARINA: Gern, Herr Kröger. Schlechter heißer Kaffee ist mir lieber als guter kalter.
+> 좋아요, 크뢰거 씨. 맛있는데 식은 커피보다 맛없는데 뜨거운 커피가 낫죠.
+KRÖGER: Na, das ist mal ein Anfang. Sven Ruppert, mein Stellvertreter. Und Sie sind die Neue aus dem Container, wa?
+> 뭐, 시작은 괜찮네요. 이쪽은 부의장 스벤 루퍼트. 그리고 그쪽이 컨테이너에 있다는 새로 온 사람이죠, 응?
+SELIN: Selin Aydın. Der Container hat sich ja schnell herumgesprochen.
+> 셀린 아이든입니다. 컨테이너 얘기가 빨리도 퍼졌네요.
+RUPPERT: Bei uns spricht sich alles schnell herum. Vor allem Papiere aus Hanau.
+> 여기선 뭐든 빨리 퍼집니다. 특히 하나우에서 온 문서는요.
+KATHARINA: Genau darüber möchte ich sprechen. Herr Kröger, ich bin selbst gekommen, damit Sie es nicht aus der Zeitung erfahren.
+> 바로 그 얘기를 하고 싶어요. 크뢰거 씨, 신문을 보고 아시게 되지 않도록 제가 직접 왔습니다.
+KRÖGER: Zu spät. Ich hab's von der Kantinentür erfahren. Das ist bei uns die Zeitung.
+> 늦었어요. 식당 문 보고 알았거든요. 여기선 그게 신문이죠.
+KATHARINA: Dann sage ich Ihnen, was morgen in der richtigen Zeitung steht, wenn wir heute nichts tun: «Ebersbach plant Verlagerung aus Spandau — sechshundert Arbeitsplätze in Gefahr.»
+> 그럼 오늘 우리가 아무것도 하지 않으면 내일 진짜 신문에 뭐가 실릴지 말씀드리죠. «에버스바흐, 슈판다우 생산 이전 계획 — 일자리 600개 위기.»
+KRÖGER: Und? Stimmt das etwa nicht?
+> 그래서요? 그게 틀린 말입니까?
+KATHARINA: Es stimmt, dass es dieses Szenario gibt. Es wurde vor meiner Zeit geschrieben, und es ist nicht entschieden. Ich will heute mit Ihnen klären, wie wir verhindern, dass daraus eine Entscheidung wird, bevor wir die Fakten kennen.
+> 그런 시나리오가 있다는 건 맞아요. 제가 오기 전에 작성됐고, 결정된 건 아닙니다. 오늘 크뢰거 씨와 함께, 우리가 사실을 다 알기도 전에 그게 결정이 되는 걸 어떻게 막을지 정리하고 싶어요.
+KRÖGER: Fakten. Gut. Dann reden wir über Fakten. Sven, gib ihr die Mappe.
+> 사실이라. 좋습니다. 그럼 사실 얘기를 하죠. 스벤, 그 파일 드려.
+RUPPERT: Unser Werk hat tausendsechshundertfünfzig Beschäftigte. Durchschnittsalter neunundvierzig. In der Zahnradfertigung arbeiten sechshundertzehn Leute.
+> 우리 공장 직원은 1,650명입니다. 평균 연령 49세. 기어 생산에서 610명이 일하고 있어요.
+KRÖGER: Und jetzt die Zahl, die in Ihrem schönen Papier nicht steht: Unsere Ausschussquote liegt bei eins Komma eins Prozent. In Hanau bei eins Komma acht.
+> 그리고 이제 그 멋진 문서에 없는 숫자. 우리 불량률은 1.1퍼센트입니다. 하나우는 1.8퍼센트고요.
+SELIN: Das heißt, in Spandau entsteht weniger Ausschuss als in Hanau?
+> 그러니까 슈판다우가 하나우보다 불량이 적다는 거예요?
+KRÖGER: Das heißt, junge Frau, dass wir die besseren Zahnräder machen. Mit den älteren Maschinen.
+> 그러니까, 아가씨, 우리가 더 좋은 기어를 만든다는 겁니다. 더 낡은 기계로요.
+KATHARINA: Wie alt sind die Maschinen?
+> 기계가 얼마나 오래됐나요?
+NOWAK: Die wichtigste Schleifmaschine ist von neunzehnhundertachtundneunzig. In Hanau stehen Maschinen von zweitausendzwanzig.
+> 가장 중요한 연삭기가 1998년식입니다. 하나우에는 2020년식 기계들이 있고요.
+KRÖGER: In den letzten zehn Jahren hat Hanau hundertvierzig Millionen an Investitionen bekommen. Spandau zweiundzwanzig. Und jetzt steht in Ihrem Papier, dass wir pro Stück zu teuer sind.
+> 지난 10년 동안 하나우는 투자를 1억 4,000만 받았어요. 슈판다우는 2,200만. 그런데 이제 와서 그 문서에는 우리 개당 단가가 너무 비싸다고 쓰여 있죠.
+RUPPERT: Erst lässt man ein Werk verhungern, und dann wundert man sich, dass es so dünn ist.
+> 공장을 굶겨 놓고는 왜 이렇게 말랐냐고 놀라는 거죠.
+KATHARINA: Stimmt das, Herr Nowak?
+> 그게 사실인가요, 노바크 씨?
+NOWAK: Die Zahlen stimmen. Ich habe jedes Jahr Investitionsanträge gestellt. Die meisten kamen mit dem Vermerk «später» zurück.
+> 숫자는 맞습니다. 저는 매년 투자 신청서를 올렸어요. 대부분 «나중에»라는 메모가 붙어서 돌아왔죠.
+SELIN: Darf ich mir die Fertigung ansehen? Ich möchte die Stückkosten einmal mit und einmal ohne das Maschinenalter vergleichen.
+> 생산 현장을 봐도 될까요? 기계 연식을 반영했을 때와 안 했을 때 개당 단가를 비교해 보고 싶어요.
+KRÖGER: Sie wollen in die Halle? Dann gehen Sie mit Heinz. Der schleift seit vierzig Jahren Zahnräder und erklärt Ihnen das besser als jeder Werkleiter. Nichts für ungut, Dariusz.
+> 현장에 가 보겠다고요? 그럼 하인츠랑 가세요. 40년째 기어를 깎는 사람이라 어느 공장장보다 설명을 잘할 겁니다. 기분 나빠하지 마, 다리우시.
+NOWAK: Schon gut. Er hat recht.
+> 괜찮아요. 맞는 말이니까.
+MATUSCHEK: Matuschek, Heinz. Kommen Sie, junge Frau. Hier, das ist sie. Baujahr achtundneunzig. Die macht Geräusche wie meine Schwiegermutter, aber sie arbeitet auf den Tausendstelmillimeter genau.
+> 마투셰크, 하인츠요. 이리 와요, 아가씨. 여기, 이게 그 녀석이에요. 98년식. 우리 장모님 같은 소리를 내는데, 1,000분의 1밀리미터까지 정확하게 깎아요.
+SELIN: Und wie lange brauchen Sie für ein Zahnrad?
+> 기어 하나에 시간이 얼마나 걸려요?
+MATUSCHEK: Elf Minuten. Die neue Maschine in Hanau braucht sieben. Aber die Hälfte von deren Teilen muss nachgeschliffen werden, weil keiner mehr weiß, wie man sie richtig einstellt.
+> 11분. 하나우의 새 기계는 7분이죠. 그런데 거기 부품 절반은 다시 깎아야 해요. 그 기계를 제대로 세팅할 줄 아는 사람이 이제 없거든.
+SELIN: Das heißt, das Wissen sitzt bei Ihnen — und die Maschine in Hanau.
+> 그러니까 노하우는 여기 계신 분한테 있고, 기계는 하나우에 있는 거네요.
+MATUSCHEK: So kann man das sagen. Und ich gehe in drei Jahren in Rente. Dann sitzt das Wissen nirgends mehr.
+> 그렇게 말할 수 있죠. 그리고 난 3년 뒤면 은퇴해요. 그럼 그 노하우는 어디에도 없게 되는 거지.
+KATHARINA: Herr Kröger, wer hat das Blatt aufgehängt?
+> 크뢰거 씨, 그 종이는 누가 붙였죠?
+KRÖGER: Wenn ich das wüsste, würde ich es Ihnen nicht sagen. Aber ich weiß es nicht. Es kam in einem Umschlag, ohne Absender. Poststempel: Hanau.
+> 안다고 해도 말 안 하겠지만, 몰라요. 보낸 사람 없는 봉투로 왔어요. 소인은 하나우.
+KATHARINA: Hanau.
+> 하나우.
+KRÖGER: Überrascht Sie das? Bei Ihnen gibt es Leute, die wollen, dass Spandau und Hanau sich gegenseitig zerfleischen. Dann redet nämlich keiner mehr über den Vorstand.
+> 놀랍습니까? 그쪽엔 슈판다우랑 하나우가 서로 물어뜯기를 바라는 사람들이 있어요. 그러면 아무도 이사회 얘기는 안 하거든요.
+
+## 갈등 — KEINE UNTERSCHRIFT OHNE GARANTIE
+KATHARINA: Wenn das stimmt, werde ich herausfinden, wer das war.
+> 그게 사실이라면, 누군지 찾아낼 거예요.
+KRÖGER: Das ist mir egal. Mir geht es um was anderes. Ich will eine Standortgarantie. Schriftlich. Zehn Jahre. Für das ganze Werk.
+> 그건 관심 없어요. 내가 원하는 건 따로 있습니다. 사업장 존속 보장. 문서로. 10년. 공장 전체에 대해서.
+KATHARINA: Zehn Jahre kann ich Ihnen nicht geben, Herr Kröger. Ich weiß nicht einmal, wie dieses Unternehmen in zwölf Wochen aussieht.
+> 10년은 드릴 수 없어요, 크뢰거 씨. 저는 이 회사가 12주 뒤에 어떤 모습일지도 모르는걸요.
+KRÖGER: Dann sage ich Ihnen, wie es aussieht. Ohne Garantie gibt es in diesem Werk keine Kurzarbeit. Ohne meine Unterschrift keine Überstunden, keine Sonderschichten, keine neuen Schichtpläne.
+> 그럼 내가 어떤 모습일지 말해 주죠. 보장이 없으면 이 공장엔 단축근무도 없습니다. 내 서명 없이는 초과근무도, 특근도, 새 교대 계획도 없어요.
+SELIN: Kann er das?
+> 저분이 그럴 수 있어?
+KATHARINA: Er kann. Bei Kurzarbeit und Arbeitszeit hat der Betriebsrat ein Mitbestimmungsrecht.
+> 할 수 있어. 단축근무와 근로시간에 대해서는 노동자평의회에 공동결정권이 있거든.
+KRÖGER: Sehen Sie, sie hat das Gesetz gelesen. Das ist mehr, als die letzten drei Vorstände geschafft haben.
+> 보세요, 이분은 법을 읽었네. 지난 이사회 세 팀보다 낫군.
+KATHARINA: Herr Kröger, wenn Sie die Kurzarbeit blockieren, schützen Sie das Werk nicht. Dann zahlen wir volle Löhne für halbe Arbeit, und die Zahlen von Spandau werden noch schlechter.
+> 크뢰거 씨, 단축근무를 막으시면 공장을 지키는 게 아니에요. 그러면 반쪽짜리 일에 임금을 전액 지급하게 되고, 슈판다우 숫자는 더 나빠질 거예요.
+KRÖGER: Und wenn ich ohne Garantie unterschreibe, helfe ich Ihnen, das Werk billig zu machen. Und in einem Jahr ist es billig genug, um es zu schließen.
+> 그리고 보장 없이 서명하면 공장을 싸구려로 만드는 걸 내가 돕는 거죠. 그럼 1년 뒤엔 문 닫기 딱 좋을 만큼 싸지겠죠.
+RUPPERT: Das haben wir schon zweimal erlebt, neunundneunzig und zweitausendneun. Beide Male hieß es: nur vorübergehend.
+> 우린 이미 두 번 겪었어요. 99년이랑 2009년. 두 번 다 '일시적'이라고 했죠.
+KATHARINA: Ich verstehe Ihr Misstrauen. Ich habe es mir nicht verdient — aber andere haben es sich verdient.
+> 그 불신은 이해해요. 제가 자초한 건 아니지만, 다른 사람들이 자초한 거죠.
+KRÖGER: Schöner Satz. Haben Sie den im Zug geübt?
+> 멋진 문장이네. 기차에서 연습했습니까?
+KATHARINA: Nein. Im Zug habe ich Ihre Ausschussquoten gelesen. Die hat mir Herr Nowak gestern Abend geschickt.
+> 아니요. 기차에선 크뢰거 씨네 불량률을 읽었어요. 노바크 씨가 어젯밤 보내 줬거든요.
+NOWAK: Frau Dr. Brandt, die Journalistin ist wieder am Apparat. Sie will bis achtzehn Uhr eine Stellungnahme. Sonst schreibt sie ohne.
+> 브란트 박사님, 그 기자가 또 전화했습니다. 저녁 여섯 시까지 입장문을 달래요. 아니면 입장 없이 쓰겠답니다.
+KATHARINA: Sagen Sie ihr, sie bekommt eine. Um siebzehn Uhr.
+> 받게 될 거라고 전해 주세요. 다섯 시에.
+KRÖGER: Und was steht drin? «Der Vorstand prüft alle Optionen»? Den Satz kennen wir hier auswendig.
+> 그래서 뭐라고 쓸 건데요? «이사회는 모든 선택지를 검토 중»? 그 문장은 여기서 다 외우고 있어요.
+KATHARINA: Was drinsteht, hängt davon ab, was wir beide bis dahin vereinbaren.
+> 뭐라고 쓸지는 그때까지 우리 둘이 무엇을 합의하느냐에 달렸죠.
+KRÖGER: Wir beide? Ich vereinbare gar nichts mit Ihnen, bevor ich mit meinen Leuten gesprochen habe. Die warten in der Halle.
+> 우리 둘이요? 우리 사람들이랑 얘기하기 전엔 당신이랑 아무것도 합의 안 해요. 그 사람들 지금 현장에서 기다리고 있어요.
+KATHARINA: Dann gehe ich mit.
+> 그럼 저도 같이 가죠.
+KRÖGER: Das würde ich nicht tun. Die Stimmung ist nicht gut.
+> 나라면 안 갑니다. 분위기 안 좋아요.
+KATHARINA: Gerade deshalb.
+> 그러니까 가는 거예요.
+KRÖGER: Kollegen! Ruhe mal! Das hier ist die Frau, die das Papier nicht geschrieben hat, aber jetzt dafür zuständig ist. Sie will reden. Ich hab ihr gesagt, das ist keine gute Idee.
+> 동료들! 좀 조용히! 이분이 그 문서를 쓰진 않았지만 이제 책임자가 된 사람이야. 말하고 싶대. 난 좋은 생각 아니라고 했어.
+MATUSCHEK: Hanau raus!
+> 하나우는 꺼져라!
+KATHARINA: Guten Tag. Ich bin Katharina Brandt. Ich weiß, dass Sie heute früh ein Blatt an der Kantinentür gelesen haben. Ich will Ihnen sagen, was es bedeutet — und was nicht.
+> 안녕하세요. 카타리나 브란트입니다. 오늘 아침 식당 문에 붙은 종이를 읽으셨다는 걸 압니다. 그게 무슨 뜻인지, 그리고 무슨 뜻이 아닌지 말씀드리려고 왔어요.
+RUPPERT: Es bedeutet, dass ihr uns abwickeln wollt!
+> 우리를 정리하겠다는 뜻이잖아!
+KATHARINA: Es bedeutet, dass vor einem Jahr jemand gerechnet hat, ob es billiger wäre, die Zahnräder in Hanau zu machen. Diese Rechnung hat einen Fehler: Sie kennt Herrn Matuschek nicht.
+> 1년 전에 누군가가 기어를 하나우에서 만들면 더 싼지 계산해 봤다는 뜻이에요. 그 계산에는 오류가 하나 있어요. 마투셰크 씨를 모른다는 거죠.
+MATUSCHEK: … Woher kennen Sie meinen Namen?
+> …내 이름을 어떻게 알아요?
+KATHARINA: Sie haben meiner Kollegin vor einer Stunde erklärt, warum Ihre alte Maschine bessere Zahnräder macht als die neue in Hanau. Das stand in keinem Papier. Jetzt steht es in meinem.
+> 한 시간 전에 제 동료에게, 낡은 기계가 하나우의 새 기계보다 왜 더 좋은 기어를 만드는지 설명해 주셨잖아요. 그건 어느 문서에도 없었어요. 이제 제 문서에는 있습니다.
+KRÖGER: Schöne Worte. Die Kollegen wollen eine Garantie hören. Ja oder nein.
+> 말은 좋네. 동료들은 보장을 듣고 싶어 해요. 예 아니면 아니요.
+KATHARINA: Die Antwort ist: heute nicht. Und wer Ihnen heute eine Garantie für zehn Jahre gibt, Herr Kröger, der lügt Sie an — oder er hat vor, nicht lange genug zu bleiben, um sie zu brechen.
+> 답은 '오늘은 아니다'예요. 그리고 오늘 10년짜리 보장을 해 주는 사람이 있다면, 크뢰거 씨, 그 사람은 거짓말을 하는 거예요. 아니면 그 약속을 깰 때까지 남아 있을 생각이 없거나요.
+RUPPERT: Buh! Pfui!
+> 우우! 집어치워!
+KRÖGER: Ruhe! Lasst sie ausreden. Ausbuhen können wir sie hinterher immer noch.
+> 조용! 끝까지 말하게 둬. 야유는 나중에 해도 늦지 않아.
+SELIN: Herr Kröger, darf ich etwas zeigen? Ich habe gerade die Stückkosten neu gerechnet.
+> 크뢰거 씨, 뭘 좀 보여 드려도 될까요? 방금 개당 단가를 다시 계산했어요.
+KRÖGER: Die junge Frau aus dem Container. Bitte, wenn's kurz ist.
+> 컨테이너 아가씨군. 짧으면 해요.
+SELIN: Wenn man in Spandau eine neue Schleifmaschine einsetzt, sinken die Stückkosten um achtzehn Prozent. Dann ist Spandau günstiger als Hanau, nicht teurer. Szenario C rechnet sich dann nicht mehr.
+> 슈판다우에 새 연삭기를 들이면 개당 단가가 18퍼센트 떨어져요. 그러면 슈판다우가 하나우보다 비싼 게 아니라 더 싸요. 시나리오 C는 계산이 안 맞게 되죠.
+
+## 해결·설득 — KEINE GARANTIE, ABER EIN VERTRAG
+KRÖGER: … Sagen Sie das noch mal. Langsam. Für die Kollegen hinten.
+> …다시 말해 봐요. 천천히. 뒤에 있는 동료들도 듣게.
+SELIN: Mit einer neuen Maschine und dem Wissen von Herrn Matuschek wäre Spandau bei Zahnrädern das günstigere Werk. Das Problem ist nicht das Werk. Das Problem ist, dass hier zehn Jahre lang nicht investiert wurde.
+> 새 기계와 마투셰크 씨의 노하우가 있으면, 기어에서는 슈판다우가 더 싼 공장이 됩니다. 문제는 공장이 아니에요. 10년 동안 여기에 투자를 안 했다는 게 문제예요.
+KATHARINA: Und deshalb mache ich Ihnen heute keinen Garantievorschlag, sondern einen Arbeitsvorschlag. Vier Punkte.
+> 그래서 오늘은 보장 제안이 아니라 업무 제안을 드리겠습니다. 네 가지예요.
+KATHARINA: Erstens: Szenario C wird zurückgezogen. Nicht in eine Schublade gelegt — zurückgezogen. Ich unterschreibe das heute.
+> 첫째, 시나리오 C는 철회합니다. 서랍에 넣는 게 아니라 철회예요. 오늘 서명하겠습니다.
+KATHARINA: Zweitens: Wir bilden eine gemeinsame Arbeitsgruppe aus Werkleitung und Betriebsrat, halb und halb. Sie rechnet bis Ende März die Zukunft dieses Werks durch — mit Ihren Zahlen, Herr Kröger, nicht nur mit unseren.
+> 둘째, 공장 경영진과 노동자평의회가 반반씩 참여하는 공동 작업반을 만듭니다. 3월 말까지 이 공장의 미래를 계산해 보는 거예요. 우리 숫자만이 아니라 크뢰거 씨의 숫자로도요.
+KRÖGER: Und am Ende entscheidet trotzdem Hanau.
+> 그래도 결국 결정은 하나우가 하잖아.
+KATHARINA: Am Ende entscheidet der Vorstand, das ist so. Aber er entscheidet nicht auf der Grundlage von Zahlen, die Sie nicht kennen. Jede Zahl, die ich sehe, sehen Sie auch.
+> 결국 결정은 이사회가 해요. 그건 맞아요. 하지만 크뢰거 씨가 모르는 숫자를 근거로 결정하지는 않을 겁니다. 제가 보는 숫자는 크뢰거 씨도 전부 보게 돼요.
+KATHARINA: Drittens: Aus dem neuen Bankkredit fließen sofort acht Millionen nach Spandau. Für eine neue Schleifmaschine — und für zwei Azubis, die Herr Matuschek in den nächsten drei Jahren ausbildet.
+> 셋째, 새 은행 대출에서 즉시 800만이 슈판다우로 갑니다. 새 연삭기 한 대, 그리고 마투셰크 씨가 앞으로 3년 동안 가르칠 견습생 두 명을 위해서요.
+MATUSCHEK: Ich soll Azubis ausbilden? In meinem Alter?
+> 내가 견습생을 가르치라고요? 이 나이에?
+KATHARINA: Gerade in Ihrem Alter. Sonst sitzt das Wissen in drei Jahren nirgends mehr. Das haben Sie selbst gesagt.
+> 바로 그 나이니까요. 아니면 3년 뒤엔 그 노하우가 어디에도 없게 되잖아요. 직접 그렇게 말씀하셨죠.
+RUPPERT: Acht Millionen. Ist das sicher? Oder kommt das auch mit dem Vermerk «später» zurück?
+> 800만. 그거 확실해요? 아니면 그것도 «나중에» 메모 붙어서 돌아옵니까?
+KATHARINA: Die Bestellung geht heute raus. Herr Nowak, Sie haben doch sicher noch einen Investitionsantrag in der Schublade?
+> 발주는 오늘 나갑니다. 노바크 씨, 서랍에 투자 신청서 하나쯤 있으시죠?
+NOWAK: Ich habe drei. Den von zweitausendzweiundzwanzig, den von zweitausendvierundzwanzig und einen ganz frischen.
+> 세 개 있습니다. 2022년 것, 2024년 것, 그리고 따끈따끈한 새것.
+KATHARINA: Den frischen. Ich unterschreibe ihn hier, vor Ihnen allen.
+> 새것으로요. 여기서, 여러분 모두 앞에서 서명하겠습니다.
+KRÖGER: Und viertens?
+> 그리고 넷째는?
+KATHARINA: Viertens: Wenn die Arbeitsgruppe im März zeigt, dass dieses Werk eine Zukunft hat — und ich glaube, das wird sie —, dann verhandeln wir über eine Standortgarantie. Mit Zahlen, die sie tragen. Dann kann ich sie auch halten.
+> 넷째, 3월에 작업반이 이 공장에 미래가 있다는 걸 보여 주면 — 저는 그럴 거라고 믿어요 — 그때 사업장 존속 보장을 협상합니다. 그걸 뒷받침할 숫자를 가지고요. 그래야 제가 지킬 수도 있죠.
+KRÖGER: Und dafür soll ich jetzt die Kurzarbeit unterschreiben.
+> 그 대가로 지금 단축근무에 서명하라는 거군.
+KATHARINA: Dafür sollen Sie mit mir über die Kurzarbeit verhandeln. Das ist etwas anderes. Sie bestimmen mit, wie lange, für wen und wie wir sie aufstocken.
+> 그 대가로 저와 단축근무를 협상하시라는 거예요. 그건 다른 얘기죠. 얼마나 오래, 누구를 대상으로, 어떻게 보전할지 크뢰거 씨가 함께 정하는 거예요.
+KRÖGER: Aufstocken?
+> 보전이요?
+KATHARINA: Das Kurzarbeitergeld der Bundesagentur ist für viele hier zu wenig. Wir stocken auf achtzig Prozent des Nettolohns auf. Herr Wendt hat das heute Nacht durchgerechnet.
+> 연방고용청의 단축근무 수당은 여기 많은 분들에게 너무 적어요. 저희가 순임금의 80퍼센트까지 보전하겠습니다. 벤트 이사가 어젯밤 계산을 끝냈어요.
+TOBIAS: Ich bin noch dran, Katharina. Achtzig Prozent sind machbar. Fünfundachtzig nicht. Bitte versprich ihm nicht fünfundachtzig.
+> 나 아직 연결돼 있어, 카타리나. 80퍼센트는 가능해. 85는 안 돼. 제발 85퍼센트는 약속하지 마.
+KRÖGER: Ihr Finanzmann hört über Lautsprecher mit? Na, wenigstens versteckt er sich nicht.
+> 재무 담당이 스피커로 듣고 있었어요? 뭐, 적어도 숨지는 않네.
+KATHARINA: Herr Kröger, ich bitte Sie nicht, mir zu vertrauen. Ich bitte Sie, mich zu kontrollieren — mit der Arbeitsgruppe, mit den Zahlen und mit Ihrer Unterschrift unter jedem einzelnen Schritt.
+> 크뢰거 씨, 저를 믿어 달라는 게 아니에요. 저를 감시해 달라는 거예요. 작업반으로, 숫자로, 그리고 모든 단계마다 크뢰거 씨의 서명으로.
+KRÖGER: Kollegen, ich sag's euch, wie es ist. Die Frau gibt uns keine Garantie. Aber sie zieht das Papier zurück, sie bringt eine Maschine, und wir sitzen mit am Tisch, wenn gerechnet wird.
+> 동료들, 있는 그대로 말할게. 이 사람은 보장을 안 해 줘. 하지만 그 문서를 철회하고, 기계를 들여오고, 계산할 때 우리가 같이 테이블에 앉게 돼.
+KRÖGER: Das ist nicht viel. Aber es ist mehr, als wir in den letzten zehn Jahren gekriegt haben. Ich sage: Wir reden weiter. Wer dagegen ist, Hand hoch.
+> 많은 건 아니야. 하지만 지난 10년 동안 우리가 받은 것보다는 많아. 내 생각엔, 대화를 계속하자. 반대하는 사람, 손 들어.
+RUPPERT: … Keine Hand. Na ja, zwei. Heinz, nimm die Hand runter, du kratzt dich bloß.
+> …손 안 드네. 아, 두 명. 하인츠, 손 내려요, 그냥 머리 긁는 거잖아.
+MATUSCHEK: Ich kratze mich. Aber misstrauisch bin ich trotzdem.
+> 긁는 거 맞아. 그래도 의심은 여전해.
+KRÖGER: Das sollst du auch. — Frau Brandt, die Stellungnahme für die Zeitung schreiben wir zusammen. Und unterschreiben tun wir sie auch zusammen. Sonst glaubt sie hier keiner.
+> 그래야지. — 브란트 박사, 신문에 줄 입장문은 같이 씁시다. 서명도 같이 하고요. 안 그러면 여기선 아무도 안 믿어요.
+
+## 마무리 — SIEBZEHN UHR, VOR DEM WERKSTOR
+KATHARINA: «Szenario C ist zurückgezogen. Werkleitung und Betriebsrat erarbeiten bis Ende März gemeinsam ein Zukunftskonzept für das Werk Spandau.» Ist das so gut?
+> «시나리오 C는 철회되었다. 공장 경영진과 노동자평의회는 3월 말까지 슈판다우 공장의 미래 구상을 공동으로 마련한다.» 이 정도면 괜찮아요?
+KRÖGER: Schön ist es nicht. Aber es ist wahr. Das reicht für den «Spree-Kurier».
+> 예쁘진 않네. 하지만 사실이죠. «슈프레 쿠리어»엔 그걸로 충분해요.
+SELIN: Herr Kröger, darf ich Sie etwas Persönliches fragen? Warum haben Sie sie vorhin ausreden lassen? Sie hätten die Versammlung auch beenden können.
+> 크뢰거 씨, 개인적인 거 하나 여쭤봐도 될까요? 아까 왜 끝까지 말하게 두셨어요? 집회를 끝내 버리실 수도 있었잖아요.
+KRÖGER: Neunundneunzig habe ich erlebt, wie ein Vorstand hier geredet hat. Der hat nicht ein einziges Mal «heute nicht» gesagt. Nur «keine Sorge». Ein halbes Jahr später waren dreihundert Leute weg.
+> 99년에 이사 한 명이 여기서 연설하는 걸 봤어요. 그 사람은 '오늘은 아니다'라는 말을 한 번도 안 했어요. '걱정 마세요'만 했지. 반년 뒤에 300명이 나갔어요.
+KRÖGER: Wer «heute nicht» sagt, hat vielleicht vor, morgen wiederzukommen. Mal sehen.
+> '오늘은 아니다'라고 말하는 사람은 어쩌면 내일 다시 올 생각이 있는 거겠죠. 두고 봐야지.
+SELIN: Mein Vater hat dreißig Jahre in einem Kabelwerk in Neukölln gearbeitet. Das gibt es heute nicht mehr.
+> 우리 아버지는 노이쾰른의 케이블 공장에서 30년 일하셨어요. 지금은 없어진 곳이에요.
+KRÖGER: Dann wissen Sie, wie eine Schließung riecht. Nach kaltem Kaffee und leeren Spinden. — Gute Arbeit vorhin, mit der Maschine. Aber erzählen Sie das keinem.
+> 그럼 공장 폐쇄가 어떤 냄새인지 알겠네요. 식은 커피랑 텅 빈 사물함 냄새. — 아까 기계 얘기, 잘했어요. 근데 남들한텐 말하지 마요.
+KATHARINA: Danke, Herr Kröger. Für heute.
+> 고마워요, 크뢰거 씨. 오늘 일.
+KRÖGER: Bedanken Sie sich nicht. Bis März sind Sie für mich die Chefin, die wiederkommen will. Danach sehen wir, ob Sie doch wieder das Messer aus Hanau sind.
+> 고마워할 거 없어요. 3월까지 당신은 내게 다시 오겠다는 사장이에요. 그다음에 결국 하나우의 칼로 돌아가는지 보자고요.
+SELIN: Tobias hat geschrieben. Volkmann hat ihn angerufen. Die Ingenieure in Hanau haben von den acht Millionen für Spandau gehört.
+> 토비아스한테서 문자 왔어. 폴크만이 전화했대. 하나우 엔지니어들이 슈판다우에 800만 간다는 얘기를 들었대.
+KATHARINA: Und?
+> 그래서?
+SELIN: Sie fragen, warum Spandau eine Maschine bekommt — und die Entwicklung seit zwei Jahren kein einziges neues Projekt.
+> 왜 슈판다우는 기계를 받는데, 개발 부서는 2년째 새 프로젝트 하나 못 받느냐고.

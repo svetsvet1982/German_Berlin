@@ -1,0 +1,269 @@
+part: 3
+ep: 11
+title_de: Das Geld kommt nicht an
+title_ko: 돈이 닿지 않는다
+scene: 타우누스의 통행 제한된 교량 → 프랑크푸르트의 가상 인프라 공사 InfraMain GmbH → 비스바덴 주 경제부
+level: C1
+setting: 6월 초 3주간, 화물차 통행이 금지된 가상의 '에를렌바흐 계곡교', 프랑크푸르트 오스텐트의 InfraMain 본사, 비스바덴 주 경제부 회의실
+cast: KATHARINA | Dr. Katharina Brandt · BWA 대표 (41)
+cast: TOBIAS | Tobias Wendt · BWA 재무감사 총괄 (37)
+cast: SELIN | Selin Aydın · BWA 파트너, 데이터 포렌식 (29)
+cast: PAUL | Dr. Paul Asante · BWA 프랑크푸르트 지사장 (45)
+cast: UTE | Ute Hennig · BWA 사무실 매니저 (61)
+cast: HENRIKE | Dr. Henrike Sommer · 헤센 주 경제장관, 가상 정당 «Neue Mitte» 소속 (49)
+cast: RITTER | Klaus Ritter · 에를렌바흐 읍장(Bürgermeister) (가상)
+cast: HOLLERBACH | Dr. Jens Hollerbach · InfraMain GmbH 대표이사 (가상)
+cast: FAUST | Marion Faust · InfraMain 교량사업부장, 토목 엔지니어 (가상)
+cast: SCHEEL | Dr. Volkmar Scheel · 주 경제부 지원사업과장(Referatsleiter) (가상)
+note: ※ 2025년 독일은 기본법을 개정해 12년간 5,000억 유로 규모의 '인프라·기후중립 특별기금(Sondervermögen)'을 만들었고, 그중 1,000억 유로를 주(州)와 지자체에 배정했습니다. 각 주의 몫은 인구와 세수로 정하는 '쾨니히슈타인 배분 기준'을 따릅니다. 그러나 돈이 있어도 집행(Mittelabfluss)은 느립니다. 교량 하나에도 계획 확정 절차(Planfeststellung), EU 기준액(공사 약 540만 유로)을 넘으면 EU 전역 입찰(Ausschreibung), 탈락 업체가 이의를 제기하면 조달심판소(Vergabekammer)의 재심사가 필요합니다. 기술 인력 부족과 '나중에 감사원에 지적받을까 봐 아무도 서명하지 않는' 책임 회피 문화도 자주 지적됩니다. 화물차 통행이 금지된 노후 교량은 독일 전역의 현실입니다. InfraMain, 에를렌바흐 교량과 등장인물은 모두 가상입니다. 표현 초점: das Sondervermögen, die Ausschreibung, das Vergaberecht, der Mittelabfluss, Das Geld ist da. Die Brücke nicht.
+next: 3부 12화 — «Fünfhundert Milliarden»(5,000억) — BWA는 감사 결과를 들고 베를린 연방의회 공청회에 증인으로 선다. 헨리케는 BWA의 직설적인 보고를 마음에 들어 한다. 같은 날, 한 연방 부처가 비밀리에 BWA에 다른 의뢰를 맡긴다.
+
+## 도입 — DIE GESPERRTE BRÜCKE
+RITTER: Da, sehen Sie das Schild? «Für Fahrzeuge über sieben Komma fünf Tonnen gesperrt.» Seit zwei Jahren und vier Monaten. Jeder Lkw zur Ziegelei fährt jetzt dreiundzwanzig Kilometer Umweg durch drei Dörfer.
+> 저기 표지판 보이세요? '7.5톤 초과 차량 통행 금지.' 2년 4개월째예요. 벽돌 공장에 가는 트럭은 이제 전부 마을 세 개를 지나 23킬로미터를 돌아가요.
+PAUL: Und der Schulbus?
+> 스쿨버스는요?
+RITTER: Wiegt elf Tonnen. Die Kinder aus dem Tal stehen jetzt um sechs Uhr zwanzig an der Haltestelle statt um sieben. Und die Feuerwehr braucht zum Hof am anderen Ufer neun Minuten länger.
+> 11톤이에요. 계곡 쪽 아이들은 이제 일곱 시가 아니라 여섯 시 20분에 정류장에 서 있어요. 그리고 소방차는 건너편 농가까지 9분이 더 걸려요.
+KATHARINA: Wann soll die neue Brücke gebaut werden?
+> 새 다리는 언제 짓기로 돼 있나요?
+RITTER: Das frage ich InfraMain seit zwei Jahren. Erst hieß es, es fehle Geld. Dann kam das Sondervermögen, und es hieß, das Geld sei jetzt da. Seitdem heißt es: Das Verfahren läuft.
+> 그걸 2년째 InfraMain에 묻고 있어요. 처음엔 돈이 없다고 했어요. 그다음엔 특별기금이 생겨서 이제 돈이 있다고 했고요. 그 뒤로는 '절차가 진행 중'이래요.
+SELIN: Das Geld ist da. Die Brücke nicht.
+> 돈은 있다. 다리는 없다.
+RITTER: Das sollten Sie auf ein Schild schreiben, junge Frau. Wir stellen es neben das andere.
+> 그거 표지판에 써야겠네요, 아가씨. 저 표지판 옆에 세워 둘게요.
+HENRIKE: Gute Idee, Herr Ritter. Aber bitte nicht mit meinem Foto daneben.
+> 좋은 생각이네요, 리터 읍장님. 다만 그 옆에 제 사진은 넣지 말아 주세요.
+RITTER: Frau Ministerin? Sie kommen ohne Pressefotografen?
+> 장관님? 사진기자도 없이 오셨어요?
+HENRIKE: Ich wollte sehen, worüber wir reden, bevor ich es in einer Vorlage lese. Frau Dr. Brandt, Henrike Sommer. Ich habe Ihren Bericht über Spreewohnen gelesen. Zweimal.
+> 서류로 읽기 전에 무슨 얘기를 하는 건지 직접 보고 싶었어요. 브란트 박사님, 헨리케 좀머입니다. 슈프레보넨 보고서 읽었어요. 두 번이요.
+KATHARINA: Dann wissen Sie, dass wir nichts schonen. Auch nicht das Ministerium, das uns beauftragt.
+> 그럼 저희가 아무것도 봐주지 않는다는 것도 아시겠네요. 저희에게 의뢰한 부처도요.
+HENRIKE: Genau deshalb habe ich Sie beauftragt. Hessen bekommt aus dem Sondervermögen über zwölf Jahre rund sieben Komma vier Milliarden Euro. Ich will wissen, warum davon bisher fast nichts auf einer Baustelle angekommen ist. Und ich will keinen Bericht, der mich schont.
+> 바로 그래서 의뢰한 거예요. 헤센은 특별기금에서 12년간 약 74억 유로를 받아요. 지금까지 그중 거의 아무것도 공사 현장에 닿지 않은 이유를 알고 싶어요. 그리고 저를 봐주는 보고서는 원하지 않아요.
+
+## 분석 — DREI PROZENT
+HOLLERBACH: Frau Dr. Brandt, InfraMain ist für einundvierzig Brückenprojekte an Landesstraßen zuständig. Aus dem Sondervermögen sind uns für die ersten vier Jahre eins Komma zwei Milliarden Euro zugewiesen worden.
+> 브란트 박사님, InfraMain은 주도(州道) 교량 프로젝트 41건을 맡고 있습니다. 특별기금에서 첫 4년 동안 12억 유로를 배정받았어요.
+TOBIAS: Und wie viel davon ist bisher abgeflossen?
+> 그중 지금까지 집행된 건 얼마입니까?
+HOLLERBACH: Sechsunddreißig Millionen.
+> 3,600만 유로입니다.
+TOBIAS: Drei Prozent. Nach anderthalb Jahren.
+> 3퍼센트. 1년 반 만에.
+HOLLERBACH: Ein Großprojekt beginnt nicht mit dem Bagger, Herr Wendt. Es beginnt mit Planung.
+> 대형 프로젝트는 굴착기로 시작하지 않습니다, 벤트 씨. 설계로 시작하죠.
+PAUL: Und wie lange dauert bei Ihnen die Planung einer Brücke von sechzig Metern?
+> 그럼 길이 60미터짜리 다리 하나를 설계하는 데 얼마나 걸립니까?
+HOLLERBACH: Fünf bis sieben Jahre. Bis zum Baubeginn.
+> 5년에서 7년이요. 착공까지.
+SELIN: Dann sehen wir uns die Planung an. Ich habe den Weg einer Brücke vom Förderantrag bis zum ersten Spatenstich aufgezeichnet. Vierundsechzig Schritte, neunzehn Unterschriften, fünf Behörden.
+> 그럼 설계를 보죠. 교량 하나가 지원 신청부터 첫 삽까지 가는 경로를 그려 봤어요. 64단계, 서명 19개, 관청 5곳.
+FAUST: Neunzehn ist noch optimistisch. Bei Erlenbach waren es dreiundzwanzig.
+> 19개도 낙관적인 거예요. 에를렌바흐는 23개였어요.
+KATHARINA: Frau Faust, Sie leiten den Brückenbau. Wo bleibt es hängen?
+> 파우스트 부장님, 교량 사업을 이끄시죠. 어디서 막히나요?
+FAUST: An drei Stellen. Erstens beim Personal. Ich habe sechsundzwanzig Ingenieursstellen, elf sind unbesetzt. Ein Brückenbauingenieur verdient bei uns nach Tarif rund zwanzig Prozent weniger als bei einem privaten Planungsbüro.
+> 세 군데서요. 첫째, 인력. 엔지니어 자리가 26개인데 11개가 비어 있어요. 교량 엔지니어는 저희한테서 단체협약상 민간 설계사무소보다 20퍼센트쯤 덜 받아요.
+SELIN: Und die Stellen sind ausgeschrieben?
+> 그 자리들은 공고를 냈나요?
+FAUST: Seit vierzehn Monaten. Eine einzige Bewerbung. Der Bewerber hat abgesagt, als er das Gehalt gesehen hat.
+> 14개월째요. 지원자는 딱 한 명. 연봉을 보고는 거절했어요.
+FAUST: Zweitens beim Verfahren. Für einen Ersatzneubau brauchen wir eine Plangenehmigung, manchmal ein Planfeststellungsverfahren. Das dauert anderthalb bis drei Jahre, mit Umweltgutachten, Anhörung, Einwendungen.
+> 둘째, 절차. 대체 신축을 하려면 계획 허가가 필요하고, 경우에 따라 계획 확정 절차가 필요해요. 환경 감정, 공청, 이의 제기까지 1년 반에서 3년이 걸려요.
+FAUST: Und drittens bei der Vergabe. Jede Brücke über fünf Komma vier Millionen Euro muss europaweit ausgeschrieben werden. Bei vier unserer Projekte hat ein unterlegener Bieter einen Nachprüfungsantrag gestellt. Jedes Mal ein halbes Jahr Stillstand.
+> 그리고 셋째, 발주. 540만 유로가 넘는 교량은 전부 EU 전역에 입찰 공고를 내야 해요. 저희 프로젝트 네 건에서 탈락한 업체가 재심사를 신청했어요. 매번 반년씩 멈췄죠.
+PAUL: Und die sechsunddreißig Millionen, die abgeflossen sind? Wofür?
+> 그럼 집행된 3,600만 유로는요? 어디에 썼습니까?
+TOBIAS: Ich habe es aufgeschlüsselt. Achtundzwanzig Millionen gingen an externe Planungsbüros und Projektsteuerer. Gutachten, Machbarkeitsstudien, Variantenuntersuchungen. Für Bauleistungen: knapp vier Millionen.
+> 분류해 봤어요. 2,800만 유로가 외부 설계사무소와 사업관리 업체로 갔어요. 감정서, 타당성 조사, 대안 검토. 공사비로는 400만 유로가 조금 안 돼요.
+PAUL: Das Geld kommt also an. Nur nicht bei den Brücken, sondern bei den Beratern.
+> 그러니까 돈은 닿긴 하네요. 다리가 아니라 컨설턴트한테.
+HOLLERBACH: Ohne externe Planer hätten wir mit elf unbesetzten Stellen gar nichts. Das sind keine Berater, das sind Ingenieure.
+> 외부 설계자가 없으면 자리가 열한 개나 빈 저희는 아무것도 못 합니다. 그건 컨설턴트가 아니라 엔지니어예요.
+SELIN: Bei Erlenbach gibt es vier Machbarkeitsstudien von drei verschiedenen Büros. Die zweite widerspricht der ersten, die dritte bestätigt die erste, die vierte untersucht, warum die zweite der ersten widerspricht.
+> 에를렌바흐엔 세 개 사무소가 쓴 타당성 조사가 네 개 있어요. 두 번째는 첫 번째를 반박하고, 세 번째는 첫 번째를 확인하고, 네 번째는 두 번째가 왜 첫 번째를 반박했는지 조사하고요.
+TOBIAS: Ein Gutachten über Gutachten. Hundertachtzigtausend Euro.
+> 감정서에 대한 감정서. 18만 유로.
+FAUST: Das wollte ich nicht. Aber niemand im Haus wollte die Entscheidung für eine Variante unterschreiben, solange es eine Unsicherheit gab.
+> 그건 제가 원한 게 아니에요. 하지만 불확실성이 있는 한 회사 안의 누구도 대안 하나를 고르는 결정에 서명하려 하지 않았어요.
+KATHARINA: Warum nicht?
+> 왜요?
+FAUST: Weil vor drei Jahren ein Kollege für eine Brücke unterschrieben hat, die später teurer wurde. Der Rechnungshof hat ihn in seinem Bericht namentlich erwähnt. Seitdem wartet jeder auf ein weiteres Gutachten. Mit einem Gutachten ist man nicht schuld.
+> 3년 전에 한 동료가 나중에 더 비싸진 다리에 서명했거든요. 감사원이 보고서에서 그 사람을 실명으로 언급했어요. 그 뒤로 다들 감정서를 하나 더 기다려요. 감정서가 있으면 책임이 없으니까요.
+PAUL: Absicherung statt Entscheidung. Das kenne ich aus jeder Behörde, in der ich je gearbeitet habe.
+> 결정 대신 면피. 내가 일해 본 모든 관청에서 본 거야.
+SELIN: Und dann ist da noch die Förderrichtlinie des Landes. Siebenunddreißig Seiten. Jeder Antrag geht durch das Wirtschaftsministerium, dann zum Finanzministerium zur Mitzeichnung, dann zurück. Durchschnittliche Dauer bis zum Förderbescheid: neun Monate.
+> 그리고 주 정부 지원 지침도 있어요. 37쪽. 모든 신청서가 경제부를 거쳐 재무부로 가서 공동 결재를 받고 다시 돌아와요. 지원 결정까지 평균 아홉 달.
+TOBIAS: Neun Monate, um Geld zu bewilligen, das schon im Sondervermögen liegt.
+> 이미 특별기금에 들어 있는 돈을 승인하는 데 아홉 달.
+HENRIKE: Diese Richtlinie hat mein Haus geschrieben. Das darf in Ihrem Bericht ruhig so stehen.
+> 그 지침은 우리 부처가 쓴 거예요. 보고서에 그대로 써도 됩니다.
+KATHARINA: Das wird es auch, Frau Ministerin.
+> 그렇게 쓸 겁니다, 장관님.
+SCHEEL: Frau Ministerin, darf ich daran erinnern, dass die Richtlinie mit dem Finanzministerium und dem Rechnungshof abgestimmt wurde? Ohne diese Prüfschritte wären wir angreifbar.
+> 장관님, 그 지침은 재무부와 감사원과 협의된 것이라는 걸 상기시켜 드려도 될까요? 그 심사 단계들이 없었다면 저희는 공격받았을 겁니다.
+HENRIKE: Angreifbar sind wir jetzt auch, Herr Scheel. Nur aus einem anderen Grund.
+> 지금도 공격받고 있어요, 셸 과장님. 다른 이유로일 뿐이죠.
+UTE: Kleine Anmerkung aus Berlin: Die Pressestelle des Finanzministeriums hat gerade angerufen und gefragt, ob unser Bericht «auch das Finanzministerium betrifft». Ich habe gesagt, ich bin nur die Kaffeefrau.
+> 베를린에서 짧게 한마디. 재무부 공보실에서 방금 전화 와서 우리 보고서가 '재무부와도 관련이 있느냐'고 물었어. 난 그냥 커피 담당이라고 했지.
+SELIN: Ute, du bist nie nur die Kaffeefrau.
+> 우테, 넌 한 번도 그냥 커피 담당인 적이 없어.
+
+## 갈등 — NIEMAND UNTERSCHREIBT
+HOLLERBACH: Frau Dr. Brandt, ich habe Ihren Entwurf gelesen. Sie schreiben, bei InfraMain herrsche eine «Kultur der Absicherung». Das ist eine Beleidigung für zweihundert Menschen, die unter unmöglichen Bedingungen arbeiten.
+> 브란트 박사님, 초안 읽었습니다. InfraMain에 '면피 문화'가 지배한다고 쓰셨더군요. 그건 불가능한 조건에서 일하는 200명에 대한 모욕입니다.
+KATHARINA: Es ist eine Beschreibung, Herr Dr. Hollerbach. Vier Gutachten für eine Variante sind keine Beleidigung, sondern ein Befund.
+> 그건 서술입니다, 홀러바흐 박사님. 대안 하나에 감정서 네 개는 모욕이 아니라 진단 결과예요.
+HOLLERBACH: Wissen Sie, was passiert, wenn wir ohne Gutachten entscheiden und die Brücke teurer wird? Dann steht mein Name im nächsten Bericht des Rechnungshofs. Und Ihrer nicht.
+> 감정서 없이 결정했다가 다리가 더 비싸지면 어떻게 되는지 아십니까? 그럼 다음 감사원 보고서에 제 이름이 실립니다. 박사님 이름은 안 실리고요.
+TOBIAS: Und wenn Sie gar nicht entscheiden, wird die Brücke auch teurer. Baupreise steigen jedes Jahr um fünf bis sieben Prozent. Bei Erlenbach kostet jedes Jahr Warten etwa eins Komma acht Millionen Euro. Dafür steht nur niemand im Bericht.
+> 그리고 아예 결정하지 않아도 다리는 비싸집니다. 건설 단가는 매년 5에서 7퍼센트씩 오르니까요. 에를렌바흐는 1년 기다릴 때마다 약 180만 유로가 늘어요. 다만 그것 때문에 보고서에 이름이 실리는 사람은 없을 뿐이죠.
+HOLLERBACH: Das ist Zynismus.
+> 그건 냉소주의입니다.
+TOBIAS: Nein, das ist Baupreisindex.
+> 아뇨, 그건 건설물가지수입니다.
+FAUST: Jens, er hat recht. Ich habe die Indexzahlen selbst gerechnet.
+> 옌스, 저 사람 말이 맞아요. 지수는 제가 직접 계산해 봤어요.
+HOLLERBACH: Marion, du sprichst hier für das Unternehmen.
+> 마리온, 당신은 여기서 회사를 대변하는 거야.
+FAUST: Ich spreche für die Brücke.
+> 저는 다리를 대변하는 거예요.
+SCHEEL: Frau Dr. Brandt, ich habe ebenfalls Einwände. Sie empfehlen, die Einzelförderung durch Pauschalen zu ersetzen. Das widerspricht dem Haushaltsrecht. Öffentliches Geld darf nicht ohne Einzelprüfung ausgegeben werden.
+> 브란트 박사님, 저도 이의가 있습니다. 개별 지원을 포괄 배정으로 바꾸라고 권고하셨죠. 그건 예산법에 어긋납니다. 공공 자금은 개별 심사 없이 지출될 수 없어요.
+SELIN: Es wird ja geprüft, nur hinterher statt vorher. Andere Länder machen das bei kommunalen Investitionen schon so.
+> 심사는 하죠. 미리가 아니라 사후에 할 뿐이에요. 다른 주들은 지자체 투자에 벌써 그렇게 하고 있어요.
+SCHEEL: Andere Länder haben andere Rechnungshöfe.
+> 다른 주들엔 다른 감사원이 있죠.
+PAUL: Herr Dr. Scheel, wie viele Förderanträge hat Ihr Referat im letzten Jahr abgelehnt?
+> 셸 박사님, 작년에 과장님 과에서 지원 신청을 몇 건 반려했습니까?
+SCHEEL: Abgelehnt? Keinen. Wir haben nachgefordert.
+> 반려요? 한 건도 없습니다. 보완을 요구했죠.
+PAUL: Wie oft?
+> 몇 번이요?
+SCHEEL: … Im Schnitt dreimal pro Antrag.
+> …신청서당 평균 세 번입니다.
+PAUL: Dreimal Nachforderung, neun Monate, null Ablehnungen. Das heißt, am Ende wird alles bewilligt. Die Prüfung ändert nichts am Ergebnis, nur am Zeitpunkt.
+> 보완 요구 세 번, 아홉 달, 반려 0건. 결국엔 다 승인된다는 뜻이네요. 심사는 결과를 바꾸지 않고, 시점만 바꿉니다.
+SCHEEL: Das ist eine unzulässige Verkürzung.
+> 그건 부당한 단순화입니다.
+HENRIKE: Herr Scheel, ist es falsch?
+> 셸 과장님, 그게 틀렸나요?
+SCHEEL: … Es ist nicht vollständig.
+> …완전하지는 않습니다.
+HENRIKE: Dann machen Sie es vollständig. Bis Freitag, schriftlich.
+> 그럼 완전하게 만드세요. 금요일까지, 서면으로.
+HENRIKE: Frau Dr. Brandt, auf ein Wort. Unter vier Augen.
+> 브란트 박사님, 잠깐 얘기 좀 하죠. 단둘이.
+HENRIKE: Ich will offen sein. Mein Koalitionspartner stellt den Finanzminister. Wenn Ihr Bericht schreibt, dass die Mitzeichnung des Finanzministeriums das Verfahren verlängert, wird man im Kabinett sagen, ich hätte den Bericht bestellt, um ihm zu schaden.
+> 솔직히 말할게요. 연정 파트너 정당이 재무장관을 맡고 있어요. 보고서에 재무부의 공동 결재가 절차를 늘린다고 쓰면, 내각에선 제가 그쪽을 해치려고 보고서를 주문했다고 할 거예요.
+KATHARINA: Und? Haben Sie?
+> 그래서요? 그러셨나요?
+HENRIKE: Nein. Aber in der Politik ist die Frage nicht, was man getan hat, sondern was man einem unterstellen kann.
+> 아뇨. 하지만 정치에선 무엇을 했느냐가 아니라 무엇을 덮어씌울 수 있느냐가 문제예요.
+KATHARINA: Dann sage ich Ihnen, was in diesem Bericht steht: dass Ihr eigenes Ministerium der größte Bremsklotz ist. Siebenunddreißig Seiten Richtlinie, dreimal Nachforderung, neun Monate. Das Finanzministerium ist eine von fünf Stellen. Niemand, der den Bericht liest, kann glauben, Sie hätten ihn bestellt, um sich selbst zu schonen.
+> 그럼 이 보고서에 뭐가 쓰여 있는지 말씀드리죠. 장관님 자신의 부처가 가장 큰 걸림돌이라고요. 37쪽 지침, 세 번의 보완 요구, 아홉 달. 재무부는 다섯 곳 중 하나일 뿐이에요. 이 보고서를 읽는 누구도 장관님이 자기를 봐주려고 주문했다고는 믿을 수 없을 거예요.
+HENRIKE: Das ist … eine ungewöhnliche Art, eine Ministerin zu beruhigen.
+> 그건… 장관을 안심시키는 방법치고는 특이하네요.
+KATHARINA: Ich beruhige niemanden. Ich sage Ihnen nur, warum der Bericht Ihnen nützt, obwohl er Ihnen wehtut.
+> 저는 아무도 안심시키지 않아요. 보고서가 장관님께 아프면서도 왜 도움이 되는지 말씀드리는 것뿐이에요.
+HENRIKE: Und wenn der Finanzminister trotzdem behauptet, ich hätte ihn vorführen wollen?
+> 그래도 재무장관이 제가 자기를 망신 주려 했다고 주장하면요?
+KATHARINA: Dann zeigen Sie ihm Seite vierzehn. Dort steht Ihr Ministerium an erster Stelle. Er wird sich kaum beklagen, dass er nur auf Platz vier steht.
+> 그럼 14쪽을 보여 주세요. 거기엔 장관님 부처가 1순위로 나와 있어요. 자기가 4순위밖에 안 된다고 불평하진 않겠죠.
+HENRIKE: Sie haben eine sehr eigene Vorstellung von Trost, Frau Dr. Brandt.
+> 위로에 대해 아주 독특한 생각을 갖고 계시네요, 브란트 박사님.
+FAUST: Frau Dr. Brandt? Entschuldigung. Herr Ritter hat angerufen. An der Brücke in Erlenbach ist heute früh ein Stück Beton aus dem Geländer gebrochen. Die Straßenmeisterei hat die Brücke jetzt komplett gesperrt. Auch für Autos.
+> 브란트 박사님? 죄송해요. 리터 읍장님이 전화했어요. 오늘 아침 에를렌바흐 다리 난간에서 콘크리트 조각이 떨어져 나갔대요. 도로관리소가 이제 다리를 완전히 통제했어요. 승용차까지요.
+TOBIAS: Komplett. Dann fährt jetzt auch der Pflegedienst dreiundzwanzig Kilometer Umweg.
+> 완전히. 그럼 이제 방문 요양 서비스까지 23킬로미터를 돌아가겠네.
+HOLLERBACH: Ich habe immer gesagt, dass diese Brücke dringend ist.
+> 저는 늘 이 다리가 급하다고 말해 왔습니다.
+SELIN: Gesagt ja. Unterschrieben nicht.
+> 말은 하셨죠. 서명은 안 하셨고요.
+
+## 해결·설득 — EINE UNTERSCHRIFT
+KATHARINA: Herr Dr. Hollerbach, Frau Faust, Herr Dr. Scheel, Frau Ministerin. Wir haben fünf Empfehlungen. Aber ich beginne mit der wichtigsten, und die steht in keinem Gesetz.
+> 홀러바흐 박사님, 파우스트 부장님, 셸 박사님, 장관님. 저희 권고는 다섯 가지입니다. 하지만 가장 중요한 것부터 시작하겠습니다. 그건 어떤 법에도 없어요.
+KATHARINA: Jemand muss unterschreiben. Und dafür braucht er die Zusage, dass eine sorgfältig begründete Entscheidung nicht nachträglich zum persönlichen Vorwurf wird, nur weil die Zukunft anders kam als geplant.
+> 누군가는 서명해야 합니다. 그리고 그러려면, 신중하게 근거를 갖춘 결정이 단지 미래가 계획과 달랐다는 이유로 나중에 개인의 잘못이 되지 않는다는 약속이 필요합니다.
+FAUST: Darf ich das unterstreichen? Wenn ich so ein Schreiben in der Hand hätte, würde ich morgen drei Varianten entscheiden, die seit einem Jahr auf meinem Tisch liegen.
+> 제가 거기에 밑줄을 그어도 될까요? 그런 문서가 제 손에 있다면, 1년째 제 책상에 놓여 있는 대안 세 개를 내일 결정할 거예요.
+HENRIKE: Eine Rückendeckung.
+> 뒷받침이요.
+KATHARINA: Schriftlich, von der Ministerin, für alle Projekte aus dem Sondervermögen. Wer nach Aktenlage nachvollziehbar entscheidet, wird vom Haus geschützt. Auch gegenüber dem Rechnungshof.
+> 서면으로, 장관 명의로, 특별기금의 모든 프로젝트에 대해. 서류상 납득할 수 있게 결정한 사람은 부처가 보호한다. 감사원 앞에서도.
+SCHEEL: Der Rechnungshof ist unabhängig. Die Ministerin kann ihm nichts vorschreiben.
+> 감사원은 독립 기관입니다. 장관이 감사원에 지시할 수는 없어요.
+HENRIKE: Nein. Aber ich kann öffentlich sagen, dass ich zu Entscheidungen meines Hauses stehe. Und ich kann mich vor die Leute stellen, statt hinter sie.
+> 그렇죠. 하지만 제가 우리 부처의 결정을 책임진다고 공개적으로 말할 수는 있어요. 그리고 직원들 뒤가 아니라 앞에 설 수 있죠.
+PAUL: Und der Rechnungshof prüft, ob eine Entscheidung nachvollziehbar war, nicht, ob die Zukunft mitgespielt hat. So steht es in seinen eigenen Prüfungsgrundsätzen. Man muss es nur einmal laut sagen.
+> 그리고 감사원은 결정이 납득할 만했는지를 보지, 미래가 맞춰 줬는지를 보지 않습니다. 감사원 자신의 감사 원칙에 그렇게 쓰여 있어요. 한 번 소리 내서 말하기만 하면 됩니다.
+KATHARINA: Zweitens: Statt einundvierzig Einzelausschreibungen ein Rahmenvertrag für standardisierte Ersatzbrücken. Die meisten Ihrer Brücken sind zwischen zwanzig und sechzig Meter lang, Spannbeton aus den Siebzigern. Frau Faust, wie viele davon könnten mit einem Typenentwurf ersetzt werden?
+> 둘째, 41건의 개별 입찰 대신 표준화된 대체 교량에 대한 기본 계약 하나. 대부분의 교량은 길이 20에서 60미터, 70년대 프리스트레스트 콘크리트죠. 파우스트 부장님, 그중 몇 개를 표준 설계로 대체할 수 있을까요?
+FAUST: Mindestens fünfundzwanzig. Wir haben das intern schon einmal durchgerechnet. Der Entwurf ist nie über meinen Schreibtisch hinausgekommen.
+> 적어도 25개요. 내부적으로 한 번 계산해 봤어요. 그 초안은 한 번도 제 책상을 벗어난 적이 없지만요.
+TOBIAS: Fünfundzwanzig Brücken in zwei oder drei Losen. Das spart nach meiner Schätzung zwölf bis achtzehn Monate pro Brücke und etwa fünfzehn Prozent der Kosten.
+> 25개 교량을 두세 개 묶음으로. 제 추산으로는 교량당 12에서 18개월, 비용은 약 15퍼센트를 줄입니다.
+HOLLERBACH: Und wer haftet, wenn der Typenentwurf an einer Stelle nicht passt?
+> 표준 설계가 어느 한 곳에 안 맞으면 누가 책임집니까?
+FAUST: Dann passen wir ihn an, Jens. Das nennt man Ingenieursarbeit.
+> 그럼 맞게 고치는 거죠, 옌스. 그걸 엔지니어링이라고 해요.
+HOLLERBACH: Und die Nachprüfungsverfahren?
+> 재심사 절차는요?
+PAUL: Gibt es bei einem Rahmenvertrag nur einmal, nicht fünfundzwanzig Mal. Und ein sauber dokumentiertes Verfahren mit klaren Kriterien hält vor der Vergabekammer.
+> 기본 계약이면 스물다섯 번이 아니라 한 번뿐입니다. 그리고 기준이 분명하고 문서화가 잘된 절차는 조달심판소에서도 버팁니다.
+KATHARINA: Drittens: Pauschale Budgets für InfraMain statt Einzelbewilligung jedes Projekts, mit strenger Prüfung im Nachhinein. Viertens: eine Fachkräftezulage für Ingenieurinnen und Ingenieure, finanziert aus den Mitteln, die heute an externe Gutachter gehen.
+> 셋째, 프로젝트별 개별 승인 대신 InfraMain에 포괄 예산을 주고 사후에 엄격히 심사할 것. 넷째, 지금 외부 감정인들에게 가는 돈으로 엔지니어에게 전문 인력 수당을 줄 것.
+SCHEEL: Pauschalen. Das wird das Finanzministerium nie mitzeichnen.
+> 포괄 배정이라. 재무부는 절대 공동 결재 안 할 겁니다.
+HENRIKE: Dann bringe ich es ins Kabinett. Mit diesem Bericht. Und mit einem Foto von Herrn Ritters Brücke.
+> 그럼 내각에 가져가죠. 이 보고서와 함께. 그리고 리터 읍장님 다리 사진과 함께.
+SCHEEL: Frau Ministerin, wenn Sie das tun, bitte ich darum, die Richtlinie selbst überarbeiten zu dürfen. Ich kenne jede ihrer siebenunddreißig Seiten. Ich weiß auch, welche zwanzig man streichen kann.
+> 장관님, 그렇게 하신다면 제가 직접 지침을 고치게 해 주십시오. 37쪽 전부를 압니다. 어느 20쪽을 지울 수 있는지도 알고요.
+HENRIKE: Herr Scheel, das ist der beste Satz, den ich heute von Ihnen gehört habe. Sie haben zwei Wochen.
+> 셸 과장님, 오늘 과장님한테 들은 말 중 최고네요. 2주 드릴게요.
+SELIN: Fünftens: Ein öffentliches Dashboard. Jeden Monat für jede Brücke: bewilligt, ausgeschrieben, vergeben, verbaut. Damit jeder Bürgermeister sieht, wo seine Brücke steht.
+> 다섯째, 공개 현황판. 매달 교량마다 승인, 입찰, 계약, 시공 상황을 공개. 모든 읍장이 자기 다리가 어디쯤 있는지 볼 수 있게요.
+HOLLERBACH: Das ist eine Einladung an jeden Journalisten.
+> 그건 모든 기자에게 보내는 초대장이에요.
+HENRIKE: Es ist eine Einladung an jeden Bürger, Herr Dr. Hollerbach. Wenn wir Milliarden ausgeben, sollen die Leute sehen, ob sie ankommen.
+> 모든 시민에게 보내는 초대장이죠, 홀러바흐 박사님. 수십억을 쓰면 사람들이 그 돈이 닿는지 볼 수 있어야 해요.
+HENRIKE: Frau Faust, die Variante für Erlenbach. Welche halten Sie fachlich für die richtige?
+> 파우스트 부장님, 에를렌바흐 대안이요. 전문가로서 어느 게 맞다고 보세요?
+FAUST: Die erste. Die aus dem ersten Gutachten. Die anderen drei haben das nur bestätigt oder verkompliziert.
+> 첫 번째요. 첫 번째 감정서에 있던 거요. 나머지 셋은 그걸 확인하거나 복잡하게 만들었을 뿐이에요.
+HENRIKE: Dann unterschreiben Sie sie. Heute. Und ich unterschreibe darunter, dass ich diese Entscheidung mittrage.
+> 그럼 그걸로 서명하세요. 오늘. 그리고 저는 그 밑에 이 결정을 함께 책임진다고 서명하겠습니다.
+FAUST: … Ich habe drei Jahre auf diesen Satz gewartet.
+> …그 말을 3년 동안 기다렸어요.
+KATHARINA: Und ich habe noch nie gesehen, dass eine Ministerin unter einer Ingenieurin unterschreibt.
+> 그리고 저는 장관이 엔지니어 밑에 서명하는 건 처음 봐요.
+
+## 마무리 — EIN ANRUF AUS BERLIN
+RITTER: Frau Faust hat mir eben geschrieben. Die Variante ist entschieden, die Ausschreibung geht im Herbst raus. Und bis dahin baut das Technische Hilfswerk eine Behelfsbrücke für den Schulbus.
+> 파우스트 부장이 방금 문자를 보냈어요. 대안이 결정됐고 입찰 공고는 가을에 나간대요. 그때까지 연방기술지원단이 스쿨버스용 임시 다리를 놓아 준대요.
+SELIN: Eine Behelfsbrücke in sechs Wochen. Warum ging das nicht früher?
+> 임시 다리를 6주 만에. 왜 그건 진작 안 됐을까요?
+RITTER: Weil früher niemand gefragt hat. Die Ministerin hat gestern direkt beim THW angerufen. Ohne Dienstweg.
+> 예전엔 아무도 안 물어봤으니까요. 장관님이 어제 연방기술지원단에 직접 전화했대요. 보고 체계 없이요.
+TOBIAS: Ohne Dienstweg. Das sollte man in Hessen unter Denkmalschutz stellen.
+> 보고 체계 없이라. 그건 헤센에서 문화재로 지정해야겠네요.
+HENRIKE: Frau Dr. Brandt, ich sage Ihnen etwas, das ich selten sage: Danke. Sie haben mir einen Bericht gegeben, der mich ärgert. Das ist der beste Bericht, den ich seit Langem bekommen habe.
+> 브란트 박사님, 제가 잘 하지 않는 말을 하나 할게요. 고맙습니다. 저를 화나게 하는 보고서를 주셨어요. 그게 오랜만에 받아 본 최고의 보고서예요.
+KATHARINA: Das sagen nicht viele Auftraggeber.
+> 그렇게 말하는 의뢰인은 많지 않아요.
+HENRIKE: Es gibt auch nicht viele Prüfer, die einer Ministerin sagen, dass ihr eigenes Haus der größte Bremsklotz ist. — Übrigens: Der Haushaltsausschuss des Bundestages plant eine Anhörung zum Sondervermögen. Ich habe vorgeschlagen, Sie als Sachverständige zu laden.
+> 장관한테 자기 부처가 가장 큰 걸림돌이라고 말하는 감사인도 많지 않죠. — 그런데 연방의회 예산위원회가 특별기금에 관한 공청회를 계획하고 있어요. 박사님을 전문가 증인으로 부르자고 제안했어요.
+TOBIAS: Der Bundestag. Katharina, das ist eine andere Liga als Block C.
+> 연방의회라. 카타리나, 그건 C구역과는 리그가 다르다.
+KATHARINA: Aber dieselbe Regel. Man sagt, was man belegen kann.
+> 하지만 규칙은 같아. 입증할 수 있는 걸 말하는 거지.
+UTE: Wenn ihr nach Berlin in den Bundestag geht, komme ich mit. Ich war noch nie im Reichstag. Ich will in die Kuppel.
+> 너희가 베를린 연방의회에 가면 나도 갈래. 의사당엔 한 번도 안 가 봤어. 돔에 올라가 보고 싶어.
+PAUL: In die Kuppel kommst du ohne Anmeldung nicht, Ute.
+> 돔은 예약 없이는 못 들어가, 우테.
+UTE: Paul. Ich habe dreißig Jahre im Bezirksamt gearbeitet. Ich habe seit März einen Termin.
+> 파울. 나 구청에서 30년 일했어. 나 3월부터 예약해 놨어.

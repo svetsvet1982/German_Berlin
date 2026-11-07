@@ -1,0 +1,267 @@
+part: 3
+ep: 2
+title_de: Gebaut wird später
+title_ko: 건설은 나중에
+scene: 모아비트 BWA 사무실 → 베를린 리히텐베르크, 공공 임대주택회사 Spreewohnen 본사
+level: B2+
+setting: 10월 둘째 주 월요일부터 금요일까지, BWA 모아비트 사무실과 프랑크푸르터 알레에 있는 Spreewohnen 본사 회의실
+cast: KATHARINA | Dr. Katharina Brandt · BWA 대표 (41)
+cast: TOBIAS | Tobias Wendt · BWA 재무감사 총괄 (37)
+cast: SELIN | Selin Aydın · BWA 파트너, 데이터 포렌식 (29)
+cast: UTE | Ute Hennig · BWA 사무실 매니저 (61)
+cast: PAUL | Dr. Paul Asante · 전 관세수사청(Zollfahndung) 수사관, 수출통제·포렌식 전문가, 함부르크 출신 (45)
+cast: SEIDEL | Prof. Dr. Hartwig Seidel · Spreewohnen 감사회 의장 (가상)
+cast: BRÖMMEL | Dirk Brömmel · Spreewohnen 대표이사(Geschäftsführer) (가상)
+cast: STRELOW | Monika Strelow · Spreewohnen 신축사업본부장 (가상)
+note: ※ 베를린에는 주(州)가 100% 소유한 공공 임대주택회사(landeseigene Wohnungsbaugesellschaften)가 여럿 있고, 주 정부와 맺은 협약에 따라 매년 신축 목표와 임대료 상한을 지킵니다. 신축 주택의 상당 부분은 저소득층 입주권(Wohnberechtigungsschein, WBS)을 가진 가구에 낮은 임대료로 공급해야 합니다. 베를린은 임대료 상한 제도(Mietpreisbremse)를 적용하는 지역이지만 2014년 10월 이후 처음 입주한 신축 주택은 예외입니다. 2021년에는 대형 민간 임대기업의 주택을 공유화(Vergesellschaftung)하자는 주민투표가 과반 찬성을 얻어 큰 논쟁이 되었습니다. 건축비 급등, 구청 인허가 지연, 공공 발주의 낮은 경쟁률은 실제 독일 주택 정책의 쟁점입니다. Spreewohnen과 등장인물은 모두 가상입니다. 표현 초점: der Neubau, das Ziel, die Baukosten, die Mietpreisbremse, Wir suchen keine Schuldigen, sondern Ursachen.
+next: 3부 3화 — «Die Zahlen hinter dem Neubau»(신축 뒤의 숫자) — 지하 기록보관실에서 찾은 한 프로젝트의 서류철. 문제는 회사만이 아니라 구청 인허가와 주 정부의 잦은 방침 변경이었다. 모두가 불편해하는 보고서를 베를린 주의회 위원회 앞에서 발표한다.
+
+## 도입 — DER ERSTE KUNDE
+UTE: Herr Professor Seidel, Ihr Kaffee. Aus unserer neuen Maschine. Sie sind ihr erster Kunde — und unserer auch.
+> 자이델 교수님, 커피 드세요. 새 머신에서 뽑은 거예요. 교수님이 이 머신의 첫 손님이세요. 저희 회사의 첫 손님이기도 하고요.
+SEIDEL: Dann hoffe ich, dass beides hält, was es verspricht. Frau Dr. Brandt, ich komme ohne Umschweife zur Sache.
+> 그럼 둘 다 약속을 지키길 바랍니다. 브란트 박사님, 돌려 말하지 않고 바로 본론으로 들어가겠습니다.
+KATHARINA: Bitte. Dafür sind wir da.
+> 그러세요. 저희가 있는 이유가 그거예요.
+SEIDEL: Spreewohnen hat achtundfünfzigtausend Wohnungen und den Auftrag des Landes, jedes Jahr zweitausend neue zu bauen. In den letzten drei Jahren waren es tausendfünfzig, neunhundertvierzig und elfhundertachtzig.
+> 슈프레보넨은 주택 5만 8천 호를 갖고 있고, 매년 신축 2천 호를 지으라는 주 정부의 위임을 받고 있습니다. 지난 3년 동안은 1,050호, 940호, 1,180호였죠.
+TOBIAS: Also im Schnitt gut die Hälfte des Ziels. Und jedes Jahr gab es vermutlich eine gute Erklärung dafür.
+> 그러니까 평균적으로 목표의 절반을 조금 넘는군요. 그리고 해마다 그럴듯한 설명이 있었겠죠.
+SEIDEL: Jedes Jahr eine andere. Erst waren es die Zinsen, dann die Baukosten, dann der Fachkräftemangel. Im Aufsichtsrat glaubt inzwischen niemand mehr den Präsentationen.
+> 해마다 다른 설명이었습니다. 처음엔 금리, 그다음엔 건축비, 그다음엔 인력 부족. 감사회에서 이제 그 발표를 믿는 사람은 아무도 없습니다.
+SELIN: Und die Geschäftsführung? Weiß sie, dass Sie hier sind?
+> 경영진은요? 교수님이 여기 오신 걸 아나요?
+SEIDEL: Herr Brömmel weiß seit heute Morgen, dass der Aufsichtsrat einstimmig ein externes Managementaudit beschlossen hat. Begeistert war er nicht.
+> 브뢰멜 대표는 오늘 아침에 감사회가 만장일치로 외부 경영감사를 의결했다는 걸 알았습니다. 반기지는 않더군요.
+KATHARINA: Das sind Geschäftsführer selten. Was genau soll unsere Frage sein?
+> 대표들이 반기는 경우는 드물죠. 저희가 답할 질문은 정확히 무엇인가요?
+SEIDEL: Warum baut Spreewohnen Jahr für Jahr nur die Hälfte dessen, was es bauen soll — und was müsste sich ändern, damit es mehr wird?
+> 왜 슈프레보넨은 해마다 지어야 할 양의 절반만 짓는가, 그리고 더 많이 지으려면 무엇이 바뀌어야 하는가.
+TOBIAS: Zwei Fragen. Die zweite ist die teurere.
+> 질문이 두 개네요. 두 번째가 더 비싼 질문이고요.
+SEIDEL: Deshalb frage ich Leute, die keine Bauaufträge von uns wollen. Sie haben acht Wochen.
+> 그래서 저희한테서 건설 수주를 바라지 않는 사람들에게 묻는 겁니다. 8주 드리겠습니다.
+
+## 분석 — VIERTAUSEND SEITEN PDF
+TOBIAS: Bevor wir zu Spreewohnen fahren: Darf ich vorstellen? Dr. Paul Asante. Paul und ich kennen uns aus dem Exportfall bei Ebersbach. Er war damals auf der anderen Seite des Tisches.
+> 슈프레보넨에 가기 전에 소개할게. 파울 아산테 박사님. 에버스바흐 수출 건 때 알게 됐어. 그때 이분은 테이블 반대편에 계셨지.
+PAUL: Vierzehn Jahre Zollfahndung, zuletzt beim Zollfahndungsamt Frankfurt. Ich habe Sie damals nicht festgenommen, Herr Wendt. Das spricht für Sie.
+> 관세수사청에서 14년, 마지막은 프랑크푸르트 관세수사청이었습니다. 그때 벤트 씨를 체포하지 않았죠. 그건 벤트 씨한테 유리한 사실이고요.
+KATHARINA: Herr Dr. Asante, warum verlässt jemand nach vierzehn Jahren die Fahndung?
+> 아산테 박사님, 14년이나 하신 수사 일을 왜 그만두시나요?
+PAUL: Weil ich immer erst kam, wenn der Schaden schon passiert war. Ich möchte einmal vorher prüfen statt nachher ermitteln.
+> 늘 피해가 이미 생긴 뒤에야 도착했으니까요. 한 번쯤은 나중에 수사하는 대신 미리 점검해 보고 싶었습니다.
+SELIN: Und Wohnungsbau? Das ist ziemlich weit weg von Schmuggel.
+> 그런데 주택 건설이요? 밀수하고는 꽤 거리가 먼데요.
+PAUL: Geld fließt überall nach denselben Regeln, Frau Aydın. Es nimmt den Weg des geringsten Widerstands. Ich schaue mir gern an, wo der Widerstand fehlt.
+> 돈은 어디서나 같은 규칙으로 흐릅니다, 아이든 씨. 저항이 가장 적은 길로 가죠. 저는 저항이 없는 곳을 살펴보는 걸 좋아합니다.
+BRÖMMEL: Frau Dr. Brandt, willkommen bei Spreewohnen. Wie gewünscht haben wir Ihnen alle Unterlagen zur Neubaupipeline zusammengestellt.
+> 브란트 박사님, 슈프레보넨에 오신 걸 환영합니다. 요청하신 대로 신축 파이프라인 관련 자료를 전부 모아 두었습니다.
+SELIN: Auf einem USB-Stick. Herr Brömmel, das sind viertausend Seiten eingescannte PDF-Dateien. Ohne Texterkennung.
+> USB 하나에요. 브뢰멜 대표님, 이건 문자 인식도 안 된 스캔 PDF 4천 쪽인데요.
+BRÖMMEL: Unsere Projektdatenbank enthält personenbezogene Daten von Mietern und Nachunternehmern. Aus Datenschutzgründen können wir sie leider nicht herausgeben.
+> 저희 프로젝트 데이터베이스엔 임차인과 하도급업체의 개인정보가 들어 있습니다. 개인정보 보호 때문에 유감스럽게도 드릴 수가 없어요.
+TOBIAS: Dann schwärzen Sie die Namen. Wir brauchen keine Mieter, wir brauchen Termine, Kosten und Zuständigkeiten.
+> 그럼 이름을 가리세요. 저희한테 필요한 건 임차인이 아니라 일정, 비용, 담당 부서입니다.
+BRÖMMEL: Ich prüfe das mit unserer Rechtsabteilung. Das kann dauern.
+> 법무팀과 검토해 보겠습니다. 시간이 좀 걸릴 수 있어요.
+KATHARINA: Wie lange, Herr Brömmel?
+> 얼마나요, 브뢰멜 대표님?
+BRÖMMEL: Bei uns, Frau Dr. Brandt, dauert alles länger. Das ist ja gewissermaßen der Grund, warum Sie hier sind.
+> 저희 회사에선요, 브란트 박사님, 모든 게 더 오래 걸립니다. 그게 어떤 의미에선 박사님이 여기 오신 이유이기도 하고요.
+SELIN: Gut, dann eben so. Ich habe die viertausend Seiten übers Wochenende durch eine Texterkennung gejagt. Achtunddreißig Neubauprojekte, von der Grundstückssicherung bis zur Übergabe.
+> 좋아요, 그럼 이렇게라도. 주말 동안 4천 쪽을 문자 인식에 돌렸어. 신축 프로젝트 38건, 부지 확보부터 입주까지.
+TOBIAS: Und was sagen die Zahlen?
+> 숫자는 뭐라고 해?
+SELIN: Vierzehn Projekte stecken in der Genehmigungsphase. Vom Bauantrag bis zur Baugenehmigung vergehen im Schnitt vierzehn Monate, beim schlimmsten Fall waren es zweiunddreißig.
+> 14건이 인허가 단계에 묶여 있어. 건축 허가 신청부터 허가까지 평균 14개월, 최악의 경우는 32개월이었어.
+KATHARINA: Zweiunddreißig Monate für eine Baugenehmigung. In der Zeit hätte man in den Neunzigern das ganze Haus gebaut.
+> 건축 허가 하나에 32개월. 90년대 같았으면 그동안 집 한 채를 다 지었겠다.
+TOBIAS: Und die Baukosten? Im Aufsichtsratsbericht steht «marktbedingte Steigerung».
+> 건축비는? 감사회 보고서엔 '시장 요인에 따른 상승'이라고 돼 있던데.
+SELIN: Von dreitausendeinhundert auf viertausendsechshundert Euro pro Quadratmeter Wohnfläche in vier Jahren. Etwa die Hälfte davon erklärt der Baupreisindex.
+> 4년 만에 주거면적 제곱미터당 3,100유로에서 4,600유로로. 그중 절반 정도는 건설물가지수로 설명돼.
+TOBIAS: Und die andere Hälfte?
+> 나머지 절반은?
+PAUL: Darf ich? Mir sind beim Durchblättern zwei Dinge aufgefallen. Bei vierzig Prozent der Ausschreibungen gab es nur ein einziges Angebot.
+> 제가 말해도 될까요? 훑어보다가 두 가지가 눈에 띄었습니다. 입찰의 40퍼센트에서 응찰자가 단 한 곳뿐이었어요.
+SELIN: Ein einziges? Wie kann man da von Wettbewerb sprechen?
+> 단 한 곳이요? 그걸 어떻게 경쟁이라고 할 수 있어요?
+PAUL: Gar nicht. Und zweitens: Die Nachträge. Bei den Generalunternehmern liegen die Schlussrechnungen im Schnitt dreiundzwanzig Prozent über dem Auftragswert.
+> 할 수 없죠. 그리고 둘째, 추가 공사 청구입니다. 종합건설사들의 최종 정산액이 평균적으로 계약 금액보다 23퍼센트 높습니다.
+TOBIAS: Dreiundzwanzig Prozent. Bei einem Projekt mit vierzig Millionen sind das neun Millionen, die niemand im Aufsichtsrat beschlossen hat.
+> 23퍼센트. 4천만 유로짜리 프로젝트라면 감사회가 의결한 적 없는 900만 유로라는 거네요.
+KATHARINA: Ist das Betrug, Herr Dr. Asante?
+> 그게 사기인가요, 아산테 박사님?
+PAUL: Das ist zunächst nur ein Muster. Ein Muster ist eine Frage, keine Antwort. Manchmal steckt Betrug dahinter, öfter Überforderung.
+> 지금으로선 패턴일 뿐입니다. 패턴은 질문이지 답이 아니에요. 그 뒤에 사기가 있을 때도 있지만, 더 자주는 역량 부족이죠.
+SELIN: Und wie unterscheidet man das eine vom anderen?
+> 그럼 그 둘은 어떻게 구별해요?
+PAUL: Indem man mit den Menschen spricht, die die Nachträge abzeichnen. Betrug versteckt sich, Überforderung entschuldigt sich.
+> 추가 청구에 결재한 사람들과 이야기해 보면 됩니다. 사기는 숨고, 역량 부족은 변명을 하죠.
+SELIN: Dazu passt das hier: Neun Projekte wurden nach der Planung noch einmal umgeplant, weil sich Vorgaben des Senats geändert haben. Energiestandard, Kitaplätze, Fahrradstellplätze.
+> 그거랑 맞아떨어지는 게 있어. 9건은 주 정부 지침이 바뀌어서 설계 후에 다시 설계했어. 에너지 기준, 어린이집 정원, 자전거 주차대수.
+KATHARINA: Das heißt, ein Teil des Problems liegt gar nicht bei Spreewohnen.
+> 그러니까 문제의 일부는 아예 슈프레보넨에 있는 게 아니네.
+TOBIAS: Ein Teil. Aber Brömmel wird nur diesen Teil hören wollen.
+> 일부지. 하지만 브뢰멜은 그 일부만 듣고 싶어 할 거야.
+PAUL: Dann sollten wir zuerst mit den Leuten reden, die die Projekte steuern. Wer leitet den Neubau?
+> 그럼 먼저 프로젝트를 실제로 관리하는 사람들과 얘기해야겠네요. 신축은 누가 이끕니까?
+SELIN: Monika Strelow, Bereichsleiterin Neubau. Seit elf Jahren im Haus.
+> 모니카 슈트렐로, 신축사업본부장. 이 회사에서 11년째예요.
+
+## 갈등 — DIE GESCHÄFTSFÜHRUNG SITZT MIT AM TISCH
+BRÖMMEL: Frau Strelow steht Ihnen selbstverständlich zur Verfügung. Ich nehme an dem Gespräch teil, damit keine Missverständnisse entstehen.
+> 슈트렐로 본부장은 당연히 인터뷰에 응할 겁니다. 오해가 생기지 않도록 저도 같이 앉겠습니다.
+KATHARINA: Herr Brömmel, in einem Audit führen wir Interviews grundsätzlich ohne Vorgesetzte. Das ist kein Misstrauen, das ist Methode.
+> 브뢰멜 대표님, 감사에서 인터뷰는 원칙적으로 상사 없이 진행합니다. 불신이 아니라 방법론입니다.
+BRÖMMEL: Und ich bin für dieses Unternehmen verantwortlich. Was hier gesagt wird, landet im Aufsichtsrat und morgen womöglich in der Zeitung.
+> 그리고 저는 이 회사의 책임자입니다. 여기서 나온 말은 감사회로 가고, 내일이면 신문에 날 수도 있어요.
+SELIN: Wir haben eine Verschwiegenheitsvereinbarung unterschrieben.
+> 저희는 비밀유지 약정에 서명했습니다.
+BRÖMMEL: Papier ist geduldig. Frau Strelow, bitte.
+> 종이는 뭐든 참아 주죠. 슈트렐로 본부장, 시작하시죠.
+STRELOW: Guten Tag. Was möchten Sie wissen?
+> 안녕하세요. 뭘 알고 싶으세요?
+PAUL: Frau Strelow, warum dauern die Genehmigungen bei Ihren Projekten so lange?
+> 슈트렐로 본부장님, 본부장님 프로젝트들은 인허가가 왜 그렇게 오래 걸립니까?
+STRELOW: Die Bezirke sind überlastet. Das ist allgemein bekannt.
+> 구청들이 과부하 상태예요. 다들 아는 얘기죠.
+TOBIAS: Und die Nachträge der Generalunternehmer? Im Schnitt dreiundzwanzig Prozent über Auftragswert.
+> 종합건설사 추가 청구는요? 평균적으로 계약 금액보다 23퍼센트 높은데요.
+STRELOW: Baupreise sind gestiegen. Das betrifft alle Bauherren in Berlin.
+> 건설 단가가 올랐어요. 베를린의 모든 발주자에게 해당되는 일이에요.
+BRÖMMEL: Sie sehen, Frau Dr. Brandt: Es gibt keine Geheimnisse. Wir arbeiten unter schwierigen Rahmenbedingungen, wie alle.
+> 보세요, 브란트 박사님. 비밀은 없습니다. 저희도 다른 모두처럼 어려운 여건에서 일하고 있을 뿐이에요.
+KATHARINA: Danke, Frau Strelow. Danke, Herr Brömmel. Ich glaube, für heute haben wir alles, was wir unter diesen Umständen bekommen.
+> 감사합니다, 슈트렐로 본부장님. 감사합니다, 브뢰멜 대표님. 이런 상황에서 얻을 수 있는 건 오늘 다 얻은 것 같네요.
+TOBIAS: Das war ein Interview mit einer Pressemitteilung.
+> 이건 보도자료하고 인터뷰한 거야.
+PAUL: Sie hat bei jeder Frage zuerst zu Brömmel geschaut und dann geantwortet. Wer so antwortet, hat etwas zu erzählen und darf es nicht.
+> 질문마다 먼저 브뢰멜을 쳐다보고 대답하더군요. 그렇게 답하는 사람은 할 얘기가 있는데 하면 안 되는 겁니다.
+SELIN: Dann sprechen wir eben ohne ihn mit ihr. Nach Feierabend, irgendwo anders.
+> 그럼 그 사람 없이 얘기하면 되죠. 퇴근 후에, 다른 데서.
+KATHARINA: Nein. Wenn wir sie heimlich treffen, bringen wir sie in Schwierigkeiten, und alles, was sie sagt, wird später als Gerede abgetan.
+> 아니. 몰래 만나면 그 사람을 곤란하게 만들고, 그 사람이 한 말은 나중에 다 뒷말로 치부될 거야.
+PAUL: Bei allem Respekt, Frau Dr. Brandt: Manchmal redet ein Zeuge nur, wenn er sich sicher fühlt. Und sicher fühlt er sich selten im Büro des Chefs.
+> 외람되지만 브란트 박사님, 증인은 안전하다고 느낄 때만 말하는 경우가 있습니다. 그리고 사장 사무실에서 안전하다고 느끼는 경우는 드물죠.
+TOBIAS: Sie ist keine Zeugin, Paul. Sie ist eine Bereichsleiterin. Wir sind nicht die Staatsanwaltschaft.
+> 그 사람은 증인이 아니에요, 파울. 본부장이에요. 우린 검찰이 아니고요.
+PAUL: Natürlich nicht. Die Staatsanwaltschaft hätte Durchsuchungsbeschlüsse. Wir haben nur Kaffee und Geduld.
+> 물론 아니죠. 검찰이면 압수수색 영장이 있었겠죠. 우린 커피와 인내심밖에 없고요.
+SELIN: Und viertausend Seiten ohne Texterkennung, die Brömmel uns aus Bosheit gegeben hat.
+> 그리고 브뢰멜이 심술로 준 문자 인식 안 된 4천 쪽도.
+BRÖMMEL: Frau Dr. Brandt, noch eine Sache. Ich habe die Senatsverwaltung über Ihr Audit informiert. Dort sieht man es kritisch, wenn ein Aufsichtsratsvorsitzender an der Geschäftsführung vorbei handelt.
+> 브란트 박사님, 하나 더요. 주 정부 부처에 이번 감사를 보고했습니다. 감사회 의장이 경영진을 건너뛰고 움직이는 걸 그쪽에선 곱게 보지 않더군요.
+KATHARINA: Das Audit wurde vom Aufsichtsrat einstimmig beschlossen. Dazu ist er nach Gesellschaftsvertrag berechtigt.
+> 이번 감사는 감사회가 만장일치로 의결한 겁니다. 정관상 감사회에 그럴 권한이 있고요.
+BRÖMMEL: Berechtigt ja. Klug vielleicht nicht. Seit dem Volksentscheid 2021 schaut ganz Berlin auf uns. Die einen wollen, dass wir mehr bauen, die anderen, dass wir billiger vermieten, und alle wollen beides gleichzeitig.
+> 권한이야 있죠. 현명한지는 모르겠지만요. 2021년 주민투표 이후로 베를린 전체가 저희를 지켜봅니다. 어떤 사람들은 더 지으라 하고, 어떤 사람들은 더 싸게 세를 주라 하고, 다들 그 둘을 동시에 원하죠.
+TOBIAS: Was ist daran falsch?
+> 그게 뭐가 잘못됐습니까?
+BRÖMMEL: Rechnen Sie es aus, Herr Wendt. Die Hälfte unserer Neubauwohnungen geht an Haushalte mit Wohnberechtigungsschein, für rund sieben Euro pro Quadratmeter. Kostendeckend wären achtzehn. Die Mietpreisbremse gilt für Neubau zwar nicht, aber für uns gelten politische Bremsen, die viel strenger sind.
+> 계산해 보세요, 벤트 씨. 저희 신축 주택의 절반은 입주권 보유 가구에 제곱미터당 약 7유로로 갑니다. 원가를 맞추려면 18유로는 돼야 해요. 신축엔 임대료 상한제가 적용되지 않지만, 저희한텐 그보다 훨씬 엄격한 정치적 상한이 적용됩니다.
+SELIN: Das erklärt, warum Bauen teuer ist. Es erklärt nicht, warum Sie bei vierzig Prozent der Ausschreibungen nur einen Bieter haben.
+> 그건 건설이 왜 비싼지는 설명해 주죠. 입찰의 40퍼센트에 왜 응찰자가 하나뿐인지는 설명 못 하고요.
+BRÖMMEL: Ich sehe, Sie haben schon Ihre Schuldigen gefunden.
+> 보아하니 벌써 범인을 찾으셨나 보군요.
+PAUL: Wir haben ein Muster gefunden, Herr Brömmel. Ob es Schuldige gibt, wissen wir noch nicht.
+> 저희는 패턴을 찾았을 뿐입니다, 브뢰멜 대표님. 책임자가 있는지는 아직 모릅니다.
+BRÖMMEL: Wissen Sie, was aus einem Muster in der Zeitung wird? Ein Skandal. Und ein Skandal kostet nicht mich den Job, sondern diese Stadt zwei Jahre Neubau.
+> 신문에 나가면 패턴이 뭐가 되는지 아십니까? 스캔들이요. 그리고 스캔들은 제 자리가 아니라 이 도시의 신축 2년을 날려 버립니다.
+KATHARINA: Herr Brömmel, haben Sie morgen früh eine halbe Stunde für mich? Allein, ohne Aufsichtsrat und ohne mein Team.
+> 브뢰멜 대표님, 내일 아침에 저한테 30분 내주실 수 있으세요? 단둘이요. 감사회도, 저희 팀도 없이.
+BRÖMMEL: Um halb acht. Danach habe ich Termine.
+> 일곱 시 반에요. 그다음엔 일정이 있습니다.
+UTE: Na, wie war's? Sie sehen aus wie nach drei Stunden Bürgeramt.
+> 그래, 어땠어요? 구청에서 세 시간 버틴 사람들 얼굴이네요.
+TOBIAS: Schlimmer. Beim Bürgeramt bekommt man am Ende wenigstens einen Stempel.
+> 더 나빠요. 구청은 그래도 마지막에 도장이라도 찍어 주잖아요.
+UTE: Dann trinken Sie erst mal einen Kaffee. Und Frau Brandt: Den Termin um halb acht habe ich schon eingetragen. Sie haben mir ja gestern Ihren Kalender gegeben.
+> 그럼 일단 커피부터 드세요. 그리고 브란트 씨, 일곱 시 반 약속은 벌써 넣어 놨어요. 어제 나한테 일정표를 넘기셨잖아요.
+KATHARINA: Freiwillig, wie Sie wissen. Mein erster Schritt im Abgeben. Ich bin immer noch ein bisschen stolz darauf.
+> 자발적으로요, 아시다시피. 일 넘기기의 첫걸음이죠. 아직도 좀 뿌듯해요.
+
+## 해결·설득 — HALB ACHT, ZU ZWEIT
+BRÖMMEL: Sie haben dreißig Minuten, Frau Dr. Brandt.
+> 30분 드리겠습니다, 브란트 박사님.
+KATHARINA: Mir reichen zwanzig. Herr Brömmel, Sie glauben, dass wir einen Schuldigen suchen, und dass der Schuldige am Ende Sie heißt.
+> 20분이면 충분해요. 브뢰멜 대표님, 대표님은 저희가 책임질 사람을 찾고 있고, 결국 그게 대표님 이름일 거라고 생각하시죠.
+BRÖMMEL: Ich bin lange genug in diesem Geschäft. So laufen Audits.
+> 저도 이 바닥에 오래 있었습니다. 감사란 게 원래 그렇게 돌아가죠.
+KATHARINA: Unseres nicht. Wir suchen keine Schuldigen, sondern Ursachen. Und nach allem, was wir bisher sehen, liegt ein großer Teil der Ursachen gar nicht in Ihrem Haus.
+> 저희 감사는 아니에요. 저희는 책임자를 찾는 게 아니라 원인을 찾습니다. 그리고 지금까지 본 바로는 원인의 상당 부분이 아예 이 회사 안에 있지 않아요.
+BRÖMMEL: Sondern?
+> 그럼 어디에요?
+KATHARINA: Bei Genehmigungen, die im Schnitt vierzehn Monate dauern. Bei neun Projekten, die wegen geänderter Senatsvorgaben neu geplant werden mussten. Das sind Feststellungen, die Ihnen nützen — aber nur, wenn sie belegt sind.
+> 평균 14개월 걸리는 인허가에요. 주 정부 지침이 바뀌어서 다시 설계해야 했던 9건의 프로젝트에요. 이건 대표님께 도움이 되는 발견이에요. 다만 증거가 있을 때만요.
+BRÖMMEL: Und Sie wollen mir erzählen, dass Sie das auch in den Bericht schreiben? Gegen den Senat?
+> 그걸 보고서에도 쓰겠다는 겁니까? 주 정부에 맞서서요?
+KATHARINA: Nicht gegen den Senat. Über alle, die am Ergebnis beteiligt sind. Aber dafür brauche ich Ihre Projektdatenbank, und ich brauche Gespräche, in denen Ihre Leute frei reden.
+> 주 정부에 맞서는 게 아니에요. 결과에 관여한 모든 주체에 대해 쓰는 거예요. 그러려면 프로젝트 데이터베이스가 필요하고, 직원들이 자유롭게 말할 수 있는 인터뷰가 필요합니다.
+BRÖMMEL: Und die einundzwanzig Prozent Nachträge? Die Ausschreibungen mit einem Bieter?
+> 그 21퍼센트 추가 청구는요? 응찰자 하나짜리 입찰은요?
+KATHARINA: Dreiundzwanzig. Die kommen auch in den Bericht, egal wie dieses Gespräch ausgeht. Die Frage ist nur, ob neben ihnen auch die Ursachen stehen, die Sie nicht zu verantworten haben.
+> 23퍼센트예요. 그건 이 대화가 어떻게 끝나든 보고서에 들어갑니다. 문제는 그 옆에 대표님이 책임질 수 없는 원인들도 함께 적히느냐 하는 것뿐이에요.
+BRÖMMEL: Das klingt fast wie eine Drohung.
+> 거의 협박처럼 들리는군요.
+KATHARINA: Es ist das Gegenteil. Ein Bericht ohne Ihre Daten wäre unvollständig, und unvollständige Berichte sind immer unfair — meistens gegenüber dem, der die Daten zurückgehalten hat.
+> 정반대예요. 대표님 데이터가 없는 보고서는 불완전할 거고, 불완전한 보고서는 언제나 불공정해요. 대개는 데이터를 내놓지 않은 쪽에게요.
+BRÖMMEL: … Sie bekommen die Datenbank, Namen geschwärzt. Und Frau Strelow dürfen Sie allein sprechen. Aber ich lese den Entwurf vor dem Aufsichtsrat.
+> …데이터베이스 드리겠습니다, 이름은 가리고요. 슈트렐로 본부장도 따로 만나셔도 됩니다. 단, 초안은 감사회보다 제가 먼저 읽겠습니다.
+KATHARINA: Sie bekommen den Entwurf zur Stellungnahme, wie jede geprüfte Stelle. Ändern werden wir nur, was sachlich falsch ist.
+> 초안은 다른 모든 피감 기관처럼 의견 제출용으로 받으시게 됩니다. 저희가 고치는 건 사실관계가 틀린 부분뿐이에요.
+STRELOW: Herr Brömmel hat gesagt, ich soll offen mit Ihnen reden. Das hat er in elf Jahren noch nie gesagt.
+> 브뢰멜 대표가 여러분께 솔직하게 말하라고 하더군요. 11년 동안 한 번도 그런 말을 한 적이 없는데.
+PAUL: Frau Strelow, ich stelle Ihnen keine Fragen nach Prozenten. Erzählen Sie mir von dem Projekt, das Ihnen am meisten wehgetan hat.
+> 슈트렐로 본부장님, 퍼센트 같은 건 묻지 않겠습니다. 본부장님을 가장 아프게 한 프로젝트 얘기를 해 주세요.
+STRELOW: … Wuhlheide-Süd. Zweihundertvierzig Wohnungen, Grundstück seit sechs Jahren gesichert. Bis heute steht dort ein Bauzaun und sonst nichts.
+> …불하이데 남부요. 240세대, 부지는 6년 전에 확보했어요. 지금까지 거기엔 공사 펜스 말고는 아무것도 없어요.
+SELIN: Was ist passiert?
+> 무슨 일이 있었어요?
+STRELOW: Erst hat der Bezirk ein Gutachten zum Baumbestand verlangt, dann eines zur Fledermaus, dann wurde der Bebauungsplan geändert. In der Zwischenzeit hat der Senat den Energiestandard angehoben, also haben wir neu geplant. Dann kam der neue Kita-Bedarf. Wieder neu geplant.
+> 처음엔 구청이 수목 감정서를 요구했고, 그다음엔 박쥐 감정서, 그다음엔 지구단위계획이 바뀌었어요. 그사이 주 정부가 에너지 기준을 올려서 다시 설계했죠. 그러고 나서 새 어린이집 수요가 나왔어요. 또 다시 설계.
+TOBIAS: Und jedes Mal hat sich das Angebot des Generalunternehmers erhöht.
+> 그리고 그때마다 종합건설사 견적이 올라갔고요.
+STRELOW: Jedes Mal. Und jedes Mal kam nur noch ein Angebot, weil die anderen Firmen sagen: Bei öffentlichen Bauherren wird zu oft umgeplant, das rechnet sich nicht.
+> 매번요. 그리고 매번 응찰은 한 곳뿐이었어요. 다른 업체들이 그래요. 공공 발주처는 설계를 너무 자주 바꿔서 수지가 안 맞는다고.
+PAUL: Das ist Ihre einzige Bieterin. Nicht Korruption, sondern Erschöpfung.
+> 그게 응찰자가 하나뿐인 이유군요. 부패가 아니라 탈진이요.
+STRELOW: Und ich habe vier von elf Projektleiterstellen nicht besetzt. Die Privaten zahlen zwanzig Prozent mehr. Wer bleibt, betreut sechs Baustellen gleichzeitig. Da prüft niemand jeden Nachtrag.
+> 그리고 프로젝트 매니저 자리 열한 개 중 네 개가 비어 있어요. 민간은 20퍼센트를 더 줘요. 남은 사람은 현장 여섯 개를 동시에 맡고요. 그러니 추가 청구를 하나하나 검토할 사람이 없죠.
+KATHARINA: Frau Strelow, warum haben Sie das nicht dem Aufsichtsrat gesagt?
+> 슈트렐로 본부장님, 왜 이걸 감사회에 말하지 않으셨어요?
+STRELOW: Weil man mir einmal gesagt hat: Bereichsleiter berichten an die Geschäftsführung. Der Dienstweg, Frau Dr. Brandt. Den gibt es auch bei einer GmbH.
+> 언젠가 이런 말을 들었거든요. 본부장은 경영진에게 보고한다. 보고 체계예요, 브란트 박사님. 유한회사에도 그런 게 있어요.
+TOBIAS: Dann gibt es für dieses Audit ab heute einen zweiten Dienstweg: direkt zu uns, mit Kopie an niemanden.
+> 그럼 이번 감사에선 오늘부터 두 번째 보고 체계가 있습니다. 저희에게 직접, 참조는 아무에게도 없이.
+STRELOW: Herr Wendt, das ist seit Langem der erste Satz, bei dem ich nicht weiß, ob ich lachen oder weinen soll.
+> 벤트 씨, 웃어야 할지 울어야 할지 모르겠는 말을 들은 건 정말 오랜만이네요.
+SELIN: Wuhlheide-Süd. Sechs Jahre, zweihundertvierzig Wohnungen, null Spatenstich. Das ist unsere Fallstudie.
+> 불하이데 남부. 6년, 240세대, 착공 0. 이게 우리 사례 연구야.
+
+## 마무리 — EIN BAUZAUN UND SONST NICHTS
+TOBIAS: Und Paul hat sie in fünf Minuten gefunden. Mit einer einzigen Frage.
+> 그리고 파울이 질문 하나로 5분 만에 찾아냈지.
+PAUL: Mit der richtigen Frage zur richtigen Zeit. Gestern hätte sie dieselbe Frage nicht beantwortet.
+> 맞는 때에 맞는 질문을 한 거죠. 어제였으면 같은 질문에도 대답 안 했을 겁니다.
+KATHARINA: Herr Dr. Asante, wir haben über eine feste Zusammenarbeit gesprochen. Wir wollen im Frühjahr ein Büro in Frankfurt eröffnen, in Sachsenhausen. Wollen Sie es leiten?
+> 아산테 박사님, 정식으로 함께 일하는 얘기를 했었죠. 내년 봄에 프랑크푸르트 작센하우젠에 지사를 열려고 해요. 맡아 주시겠어요?
+PAUL: Ich wohne seit neun Jahren in Frankfurt, und mein Hamburger Herz hat sich daran gewöhnt, dass der Main kein Hafen ist. Ja. Ich bin dabei.
+> 프랑크푸르트에 산 지 9년이고, 제 함부르크 심장도 마인강이 항구가 아니라는 데 익숙해졌습니다. 네. 함께하죠.
+UTE: Dann brauche ich Ihre Steuer-ID, Ihre Sozialversicherungsnummer und Ihre Bankverbindung. Und nein, das geht nicht per WhatsApp.
+> 그럼 세금 식별번호, 사회보험번호, 계좌 정보가 필요해요. 그리고 아뇨, 왓츠앱으로는 안 돼요.
+PAUL: Frau Hennig, ich habe vierzehn Jahre beim Zoll gearbeitet. Ich kenne Formulare.
+> 헤니히 씨, 저 관세청에서 14년 일했습니다. 서류는 압니다.
+UTE: Beim Zoll vielleicht. Meine kennen Sie noch nicht.
+> 관세청 서류는 그렇겠죠. 내 서류는 아직 모르실걸요.
+STRELOW: Frau Aydın? Entschuldigung, ich wollte Ihnen noch etwas sagen, bevor Sie gehen.
+> 아이든 씨? 죄송해요, 가시기 전에 하나 더 말씀드리고 싶었어요.
+SELIN: Natürlich. Was denn?
+> 물론이죠. 뭔데요?
+STRELOW: Im Keller gibt es ein Archiv mit den Papierakten aller Projekte. Für Wuhlheide-Süd gibt es dort einen Ordner mit dem Schriftverkehr zwischen Bezirk, Senat und uns. Der ist nie digitalisiert worden.
+> 지하에 모든 프로젝트의 종이 서류철을 보관하는 기록실이 있어요. 불하이데 남부에 대해선 구청, 주 정부, 저희가 주고받은 서신철이 있어요. 한 번도 디지털화된 적이 없죠.
+KATHARINA: Warum erzählen Sie uns das?
+> 그걸 왜 저희한테 알려 주시는 거예요?
+STRELOW: Weil in diesem Ordner steht, wer wann was entschieden hat. Und weil ich es leid bin, dass alle sagen, gebaut wird später.
+> 그 서류철에 누가 언제 무엇을 결정했는지가 적혀 있으니까요. 그리고 다들 '건설은 나중에'라고 하는 데 질렸거든요.

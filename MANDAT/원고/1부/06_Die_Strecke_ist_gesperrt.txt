@@ -1,0 +1,267 @@
+part: 1
+ep: 6
+title_de: Die Strecke ist gesperrt
+title_ko: 구간 폐쇄
+scene: 수요일 아침, 프랑크푸르트 오스트하펜
+level: B1+
+setting: 수요일 아침 일곱 시부터 목요일 오후까지, 프랑크푸르트 동쪽 항구(Osthafen)의 물류회사 Mainlogistik GmbH 배차실과 컨테이너 부두
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
+cast: DRESSLER | Volker Dressler · Mainlogistik GmbH 대표(Geschäftsführer) (57, 가상)
+cast: BECKER | Yvonne Becker · Mainlogistik 배차(Disposition) 책임자
+cast: BRÜCKNER | Hannes Brückner · 마인강 내륙 수운 선주(Binnenschiffer)
+cast: GERLACH | Dr. Anja Gerlach · Mainchem AG 물류 책임자, Mainlogistik의 최대 고객 (가상)
+cast: LORENZ | Jan-Hendrik Lorenz · 시니어 파트너 (58)
+note: ※ 독일철도(DB)의 인프라 자회사 DB InfraGO는 가장 혼잡하고 낡은 주요 노선 40여 개를 차례로 '전면 보수(Generalsanierung)'하고 있습니다. 2024년 프랑크푸르트–만하임 간 리트반(Riedbahn)이 첫 사례였고, 노선마다 약 5개월씩 완전히 폐쇄됩니다. 여객은 대체 버스로, 화물은 우회 노선(Umleitung)으로 돌리는데, 우회로는 이미 붐벼서 열차 운행 시간대(Trasse)를 얻기 어렵습니다. 트럭 쪽도 쉽지 않습니다. 독일에는 화물차 운전사가 수만 명 부족하고, 2023년 12월부터 고속도로 화물차 통행료(Lkw-Maut)에 탄소 할증이 붙었습니다. 프랑크푸르트 오스트하펜은 마인강 항구로, 바지선이 라인강을 따라 로테르담과 바젤까지 컨테이너를 실어 나릅니다. 다만 가뭄 때 라인강 카우프(Kaub) 수위가 낮아지면 배에 짐을 덜 실어야 합니다. 회사와 인물은 가상입니다. 표현 초점: die Verspätung, der Güterverkehr, die Umleitung, der Engpass, Unter dem Strich…
+next: 1부 7화 — «Der Strompreis»(전기요금) — 프랑크푸르트 서부 화학단지의 Mainchem AG. 이사회는 신규 공장을 미국에 지을지 묻는다. 비싼 에너지, 노조와 주 정부의 압박, 주주의 압박 사이에서 Katharina는 '떠난다/남는다'가 아니라 '무엇을 어디서'로 질문을 바꾼다.
+
+## 도입 — OSTHAFEN, SIEBEN UHR
+TOBIAS: Der ICE aus Berlin hatte vierzig Minuten Verspätung. Ich nehme das als Einstimmung auf das Thema.
+> 베를린발 ICE가 40분 늦었어. 오늘 주제에 대한 예고편으로 받아들일게.
+SELIN: Wenigstens gab es im Zug Kaffee. Na ja, manchmal.
+> 그래도 기차에 커피는 있었잖아. 뭐, 가끔은.
+KATHARINA: Schaut euch die Kräne an. Hier kommen Container aus Rotterdam an, und von hier gehen sie weiter nach Süddeutschland und in die Schweiz.
+> 저 크레인들 좀 봐. 여기로 로테르담에서 컨테이너가 들어오고, 여기서 남부 독일과 스위스로 다시 나가.
+SELIN: Und wie viele davon stehen gerade nur herum?
+> 그중 지금 그냥 서 있기만 한 건 몇 개야?
+KATHARINA: Genau das fragen wir gleich.
+> 바로 그걸 이제 물어볼 거야.
+DRESSLER: Frau Dr. Brandt? Volker Dressler. Kommen Sie rein, aber erwarten Sie keinen Kaffee. Meine Leute haben seit drei Wochen keine Zeit zum Kaffeekochen.
+> 브란트 박사님? 폴커 드레슬러입니다. 들어오세요. 하지만 커피는 기대하지 마십시오. 우리 직원들은 3주째 커피 끓일 시간도 없어요.
+KATHARINA: Guten Morgen, Herr Dressler. Das sind Herr Wendt und Frau Aydın. Wir trinken auch Wasser.
+> 안녕하세요, 드레슬러 씨. 이쪽은 벤트 씨와 아이든 씨예요. 저희 물도 잘 마셔요.
+DRESSLER: Gut. Dann sage ich Ihnen gleich, was ich will. Ich will keine Studie. Ich will vierzig neue Lkw, und ich will, dass Sie meiner Bank erklären, warum das richtig ist.
+> 좋습니다. 그럼 원하는 걸 바로 말씀드리죠. 나는 연구 보고서를 원하지 않아요. 새 트럭 40대를 원하고, 그게 왜 옳은지 당신들이 우리 은행에 설명해 주길 원합니다.
+TOBIAS: Vierzig Lkw. Das sind etwa sechs Millionen Euro.
+> 트럭 40대. 대략 600만 유로네요.
+DRESSLER: Sechs Komma vier. Ich habe schon ein Angebot.
+> 640만이요. 견적서도 이미 받았어요.
+KATHARINA: Herr Dressler, wir schauen uns das gern an. Aber geben Sie uns zuerst einen Tag, um zu verstehen, was gerade passiert.
+> 드레슬러 씨, 기꺼이 검토하겠습니다. 다만 지금 무슨 일이 벌어지고 있는지 이해할 수 있게 먼저 하루를 주세요.
+DRESSLER: Einen Tag. Frau Becker zeigt Ihnen alles. Sie weiß sowieso mehr als ich.
+> 하루. 베커 씨가 다 보여 드릴 겁니다. 어차피 나보다 더 많이 알아요.
+
+## 장면 1 — DIE KARTE MIT DEN ROTEN LINIEN
+BECKER: Willkommen in der Disposition. Die roten Linien auf der Karte sind Probleme. Wie Sie sehen, ist die Karte sehr rot.
+> 배차실에 오신 걸 환영해요. 지도 위의 빨간 선이 문제 구간이에요. 보시다시피 지도가 아주 빨갛죠.
+SELIN: Was genau ist gesperrt?
+> 정확히 뭐가 폐쇄됐나요?
+BECKER: Die wichtigste Güterstrecke Richtung Süden. Generalsanierung, fünf Monate Vollsperrung, bis Januar. Neue Gleise, neue Weichen, neue Signale — alles auf einmal.
+> 남쪽으로 가는 가장 중요한 화물 노선이요. 전면 보수, 5개월 완전 폐쇄, 1월까지. 새 선로, 새 선로전환기, 새 신호기 — 전부 한꺼번에요.
+TOBIAS: Wie bei der Riedbahn damals.
+> 예전 리트반 때처럼요.
+BECKER: Genau. Für die Fahrgäste gibt es Busse. Für die Container gibt es eine Umleitung. Hundertvierzig Kilometer länger und völlig überlastet.
+> 맞아요. 승객용으로는 버스가 있죠. 컨테이너용으로는 우회 노선이 있고요. 140킬로미터 더 길고, 완전히 과부하예요.
+SELIN: Wie viele Container bewegen Sie normalerweise pro Woche?
+> 평소에 일주일에 컨테이너를 몇 개나 옮기세요?
+BECKER: Zwölfhundert. Fünfundvierzig Prozent davon mit der Bahn, fünfunddreißig mit dem Lkw, zwanzig mit dem Schiff.
+> 1,200개요. 그중 45퍼센트는 철도, 35퍼센트는 트럭, 20퍼센트는 배로요.
+SELIN: Und jetzt?
+> 지금은요?
+BECKER: Die Bahn schafft auf der Umleitung nur noch zweihundertsechzig Container pro Woche. Von zwanzig Zügen fallen vierzehn aus oder kommen so spät, dass der Kunde sie nicht mehr will.
+> 우회 노선으로는 철도가 일주일에 260개밖에 못 옮겨요. 열차 스무 편 중 열네 편이 취소되거나, 고객이 더는 원하지 않을 만큼 늦게 도착하고요.
+TOBIAS: Wie hoch ist die durchschnittliche Verspätung?
+> 평균 지연은 얼마나 되나요?
+BECKER: Einunddreißig Stunden. Letzte Woche hatten wir einen Zug, der drei Tage unterwegs war. Für zweihundert Kilometer.
+> 31시간이요. 지난주엔 사흘 동안 달린 열차도 있었어요. 200킬로미터를 가는데요.
+SELIN: Da wäre ich mit dem Fahrrad schneller gewesen.
+> 그 정도면 자전거가 더 빨랐겠네요.
+BECKER: Glauben Sie mir, ich habe darüber nachgedacht.
+> 믿으세요, 저도 진지하게 생각해 봤어요.
+KATHARINA: Und die Lkw? Herr Dressler will vierzig neue kaufen.
+> 그럼 트럭은요? 드레슬러 씨는 새로 40대를 사고 싶어 하시던데요.
+BECKER: Wir haben fünfundachtzig Lkw. Und dreiundzwanzig offene Stellen für Fahrer. Seit Monaten.
+> 저희 트럭이 85대예요. 그리고 운전기사 자리 스물세 개가 비어 있어요. 몇 달째요.
+TOBIAS: Dreiundzwanzig Stellen offen — und dann noch vierzig Lkw dazu?
+> 자리 스물세 개가 비어 있는데 — 거기에 트럭 40대를 더요?
+BECKER: Das habe ich ihm auch gesagt. Ein Lkw ohne Fahrer ist ein sehr teurer Parkplatz.
+> 저도 그렇게 말씀드렸어요. 기사 없는 트럭은 아주 비싼 주차 공간일 뿐이라고요.
+SELIN: Wie alt sind Ihre Fahrer im Durchschnitt?
+> 기사분들 평균 나이가 어떻게 되나요?
+BECKER: Dreiundfünfzig. In fünf Jahren geht ein Drittel in Rente. Junge Leute wollen nicht mehr die ganze Woche auf der Autobahn schlafen.
+> 쉰셋이요. 5년 뒤면 3분의 1이 은퇴해요. 젊은 사람들은 일주일 내내 고속도로에서 자고 싶어 하지 않아요.
+TOBIAS: Und die Kosten pro Container?
+> 컨테이너당 비용은요?
+BECKER: Bis Basel mit der Bahn: etwa fünfhundertvierzig Euro. Mit dem Lkw: siebenhundertzwanzig. Seit die Maut den CO2-Aufschlag hat, wird der Lkw jedes Jahr teurer.
+> 바젤까지 철도로 약 540유로. 트럭으로는 720유로. 통행료에 탄소 할증이 붙은 뒤로는 트럭이 해마다 비싸지고 있어요.
+SELIN: Und mit dem Schiff?
+> 배로는요?
+BECKER: Das ist das Komische. Mit dem Schiff ist es am billigsten. Etwa vierhundertachtzig. Aber das Schiff ist langsam, und Herr Dressler mag keine Schiffe.
+> 그게 이상한 점이에요. 배가 제일 싸요. 약 480유로. 그런데 배는 느리고, 드레슬러 사장님은 배를 안 좋아하세요.
+KATHARINA: Warum nicht?
+> 왜요?
+BECKER: Vor drei Jahren war im Sommer Niedrigwasser am Rhein. Die Schiffe konnten nur halb beladen fahren, und wir hatten einen Engpass für sechs Wochen. Das hat er nicht vergessen.
+> 3년 전 여름에 라인강 수위가 낮았거든요. 배들이 짐을 절반만 싣고 다닐 수 있었고, 저희는 6주 동안 병목에 걸렸어요. 사장님은 그걸 못 잊으세요.
+SELIN: Darf ich mir Ihre Daten der letzten drei Jahre ansehen? Jeden Container, jede Strecke, jede Verspätung?
+> 지난 3년 치 데이터를 봐도 될까요? 컨테이너 하나하나, 노선 하나하나, 지연 하나하나요?
+BECKER: Alles? Das sind über hunderttausend Zeilen.
+> 전부요? 10만 줄이 넘어요.
+SELIN: Perfekt.
+> 완벽해요.
+TOBIAS: Sie müssen wissen, Frau Becker: Andere Menschen freuen sich auf das Wochenende. Frau Aydın freut sich auf hunderttausend Zeilen.
+> 알아 두세요, 베커 씨. 다른 사람들은 주말을 기다리죠. 아이든 씨는 10만 줄을 기다려요.
+BECKER: Dann sind wir zwei. Endlich schaut sich jemand meine Tabellen an.
+> 그럼 저랑 같네요. 드디어 누가 제 표를 봐 주는군요.
+KATHARINA: Und wer ist Ihr wichtigster Kunde?
+> 가장 중요한 고객은 누군가요?
+BECKER: Mainchem. Chemie aus dem Industriepark im Westen. Fast ein Drittel unseres Umsatzes. Und die rufen jeden Tag an.
+> 마인켐이요. 서쪽 산업단지의 화학회사죠. 저희 매출의 거의 3분의 1이에요. 그리고 매일 전화해요.
+TOBIAS: Ein Drittel des Umsatzes bei einem einzigen Kunden. Das ist kein Kunde mehr, das ist ein Klumpenrisiko.
+> 매출의 3분의 1이 고객 한 곳에서 나온다. 그건 더 이상 고객이 아니라 집중 리스크예요.
+
+## 장면 2 — „DANN KAUFEN WIR EBEN LKW"
+DRESSLER: Frau Becker, ist das Frau Dr. Gerlach auf Leitung zwei? Stellen Sie sie laut. — Frau Dr. Gerlach, guten Tag.
+> 베커 씨, 2번 회선 게를라흐 박사님이죠? 스피커로 돌려 줘요. — 게를라흐 박사님, 안녕하십니까.
+GERLACH: Herr Dressler, ich mache es kurz. In den letzten drei Wochen sind elf Lieferungen zu spät angekommen. Zwei davon so spät, dass eine Anlage in Basel stillstand.
+> 드레슬러 씨, 짧게 말하겠습니다. 지난 3주 동안 배송 열한 건이 늦게 도착했어요. 그중 두 건은 너무 늦어서 바젤의 설비 하나가 멈췄고요.
+DRESSLER: Frau Dr. Gerlach, die Bahn hat die Strecke gesperrt. Das ist höhere Gewalt.
+> 게를라흐 박사님, 철도가 노선을 폐쇄했습니다. 불가항력이에요.
+GERLACH: Die Sperrung war seit einem Jahr bekannt, Herr Dressler. Das ist keine höhere Gewalt, das ist Planung. Oder keine Planung.
+> 그 폐쇄는 1년 전부터 알려져 있었어요, 드레슬러 씨. 그건 불가항력이 아니라 계획의 문제죠. 아니면 계획이 없었던 거거나.
+DRESSLER: Wir lösen das. Ich kaufe neue Lkw.
+> 해결하겠습니다. 새 트럭을 사겠어요.
+GERLACH: Das ist Ihre Sache. Meine Sache ist: Wenn sich bis Ende des Monats nichts ändert, schreiben wir den Auftrag neu aus. Guten Tag.
+> 그건 그쪽 일이죠. 제 일은 이겁니다. 이달 말까지 아무것도 바뀌지 않으면 계약을 새로 입찰에 부치겠어요. 안녕히 계세요.
+DRESSLER: Haben Sie das gehört? Ein Drittel meines Umsatzes. Ich habe keine Zeit für Studien.
+> 들으셨죠? 내 매출의 3분의 1이에요. 연구 보고서 따위 볼 시간 없어요.
+KATHARINA: Wir haben es gehört. Und deshalb sollten wir nicht in Panik entscheiden.
+> 들었습니다. 그러니까 더더욱 공황 상태에서 결정하시면 안 됩니다.
+DRESSLER: Panik? Ich bin seit dreißig Jahren im Güterverkehr. Ich weiß, wie man Container bewegt. Mit Lkw. Lkw fahren, wenn ich es sage.
+> 공황이요? 나는 30년째 화물 운송을 해 온 사람이에요. 컨테이너 옮기는 법은 압니다. 트럭으로요. 트럭은 내가 가라면 갑니다.
+SELIN: Wenn Sie einen Fahrer haben.
+> 기사가 있다면요.
+DRESSLER: Dann suche ich eben Fahrer. In Polen, in Rumänien, auf den Philippinen. Andere machen das auch.
+> 그럼 기사를 찾으면 되죠. 폴란드에서, 루마니아에서, 필리핀에서. 다른 회사들도 다 그렇게 해요.
+BECKER: Herr Dressler, die Fahrer aus Polen und Rumänien sucht inzwischen ganz Europa. Wir sind nicht die Einzigen mit offenen Stellen.
+> 사장님, 폴란드와 루마니아 기사는 이제 유럽 전체가 찾고 있어요. 자리가 빈 회사가 우리만이 아니에요.
+DRESSLER: Yvonne, bitte. Nicht jetzt.
+> 이본, 제발. 지금은 아니야.
+TOBIAS: Herr Dressler, darf ich ehrlich sein? Kurzfristig haben Sie nicht ganz unrecht. Der Lkw ist das flexibelste Verkehrsmittel. Für die nächsten fünf Monate wäre er vielleicht die schnellste Lösung.
+> 드레슬러 씨, 솔직히 말씀드려도 될까요? 단기적으로는 아주 틀린 말씀은 아닙니다. 트럭은 가장 유연한 운송 수단이에요. 앞으로 다섯 달 동안은 가장 빠른 해결책일 수도 있습니다.
+DRESSLER: Na endlich! Einer, der rechnen kann.
+> 드디어! 계산할 줄 아는 사람이 하나 있군.
+SELIN: Tobias, das meinst du nicht ernst.
+> 토비아스, 진심 아니지.
+TOBIAS: Doch. Ich sage nur, was die Zahlen für Januar sagen. Nicht, was sie für zwanzig dreißig sagen.
+> 진심이야. 1월까지에 대해 숫자가 말하는 걸 얘기할 뿐이야. 2030년에 대해서가 아니라.
+SELIN: Aber im Januar ist die Strecke wieder offen! Dann stehen vierzig Lkw auf dem Hof, und er bezahlt sie noch fünf Jahre lang ab.
+> 하지만 1월이면 노선이 다시 열리잖아! 그럼 트럭 40대가 마당에 서 있고, 사장님은 그걸 5년 동안 갚아야 해.
+TOBIAS: Oder er verkauft sie wieder. Gebrauchte Lkw haben einen Markt.
+> 아니면 다시 팔면 되지. 중고 트럭도 시장이 있어.
+SELIN: Mit Verlust. Und wer fährt sie bis dahin? Er hat dreiundzwanzig Stellen offen!
+> 손해 보고. 그리고 그때까지 누가 몰아? 자리가 스물세 개나 비어 있다고!
+TOBIAS: Selin, ich bin nicht dein Gegner. Ich will nur, dass wir die Lkw-Option fair rechnen, bevor wir sie wegwerfen.
+> 셀린, 난 네 적이 아니야. 트럭 안을 버리기 전에 공정하게 계산하자는 것뿐이야.
+DRESSLER: Sehen Sie, Frau Dr. Brandt? Nicht einmal Ihr Team ist sich einig.
+> 보세요, 브란트 박사님? 당신 팀조차 의견이 안 맞잖아요.
+KATHARINA: Das ist Absicht, Herr Dressler. Ein Team, das sich immer einig ist, denkt nicht genug.
+> 그건 의도된 겁니다, 드레슬러 씨. 늘 의견이 같은 팀은 충분히 생각하지 않는 팀이에요.
+DRESSLER: Schöner Satz. Und was soll ich damit meiner Bank sagen?
+> 멋진 말이네요. 그걸로 은행에 뭐라고 하라는 겁니까?
+KATHARINA: Morgen um vierzehn Uhr bekommen Sie eine Antwort. Mit allen drei Wegen gerechnet: Bahn, Lkw, Schiff — und jeder Kombination davon.
+> 내일 오후 두 시에 답을 드리겠습니다. 세 가지 길을 모두 계산해서요. 철도, 트럭, 배 — 그리고 그 모든 조합까지.
+DRESSLER: Und wenn ich danach immer noch Lkw kaufen will?
+> 그래도 그다음에 트럭을 사고 싶으면요?
+KATHARINA: Dann ist es Ihre Firma und Ihre Entscheidung. Aber dann haben Sie wenigstens die Zahlen gesehen.
+> 그럼 사장님 회사고 사장님 결정입니다. 하지만 적어도 숫자는 보신 거죠.
+DRESSLER: Vierzehn Uhr. Keine Minute später. Ich bin nicht die Bahn.
+> 두 시. 1분도 늦으면 안 됩니다. 나는 철도가 아니니까.
+TOBIAS: Selin, wegen vorhin …
+> 셀린, 아까 일 말인데…
+SELIN: Schon gut. Du hattest ja nicht unrecht. Nur nicht ganz recht.
+> 괜찮아. 네 말이 틀린 건 아니었어. 다 맞은 것도 아니었을 뿐이지.
+TOBIAS: Das ist das Netteste, was du je zu mir gesagt hast.
+> 네가 나한테 한 말 중에 제일 다정한 말이네.
+SELIN: Dann bring mir einen Kaffee. Ich rechne die Nacht durch. Mit Lkw — fair, wie du willst.
+> 그럼 커피 한 잔 갖다줘. 밤새 계산할 거야. 트럭까지 — 네가 원하는 대로 공정하게.
+BECKER: Frau Aydın, ich bleibe auch. Sie brauchen jemanden, der weiß, welche Zahlen in der Tabelle lügen.
+> 아이든 씨, 저도 남을게요. 표의 어느 숫자가 거짓말하는지 아는 사람이 필요하실 테니까요.
+SELIN: Welche lügen denn?
+> 어떤 숫자가 거짓말하는데요?
+BECKER: Die Ankunftszeiten der Bahn. Die sind eher … Wünsche.
+> 철도 도착 시간이요. 그건 거의… 희망 사항이에요.
+
+## 절정 — UNTER DEM STRICH
+DRESSLER: Vierzehn Uhr. Sie sind pünktlich. Das ist schon mehr als die Bahn. Also?
+> 두 시. 시간 맞추셨네요. 그것만으로도 철도보다 낫군요. 그래서요?
+KATHARINA: Frau Aydın hat drei Varianten simuliert. Und Herr Wendt hat dafür gesorgt, dass die Lkw-Variante fair gerechnet ist. Frau Aydın, bitte.
+> 아이든 씨가 세 가지 안을 시뮬레이션했습니다. 그리고 벤트 씨가 트럭 안이 공정하게 계산되도록 챙겼고요. 아이든 씨, 시작해 주세요.
+SELIN: Variante eins: nur Lkw. Vierzig neue Fahrzeuge, sechzig neue Fahrer. Das Problem: Selbst wenn Sie die Fahrer im Ausland finden, dauert die Einstellung mit Führerschein-Anerkennung und Schulung etwa vier Monate.
+> 1안. 트럭만. 신차 40대, 신규 기사 60명. 문제는 해외에서 기사를 찾는다 해도 면허 인정과 교육까지 채용에 약 4개월이 걸린다는 겁니다.
+DRESSLER: Vier Monate?
+> 4개월이요?
+SELIN: Dann ist die Strecke fast wieder offen. Sie hätten die Lkw genau dann, wenn Sie sie nicht mehr brauchen.
+> 그때면 노선이 거의 다시 열려요. 트럭이 더 이상 필요 없을 바로 그때 트럭이 생기는 거죠.
+TOBIAS: Ich habe es dreimal gerechnet und wollte, dass es anders aussieht. Es sieht nicht anders aus.
+> 세 번 계산했고, 다르게 나오길 바랐습니다. 다르게 안 나오더군요.
+SELIN: Variante zwei: abwarten und hoffen. Dann verlieren Sie Mainchem. Das brauche ich nicht zu simulieren.
+> 2안. 기다리며 기대하기. 그럼 마인켐을 잃습니다. 그건 시뮬레이션할 필요도 없죠.
+DRESSLER: Und Variante drei?
+> 그럼 3안은요?
+SELIN: Eine Kombination. Erstens: Dreißig Prozent der Container gehen ab sofort per Schiff nach Mannheim, Karlsruhe und Basel. Das ist langsamer, aber planbar.
+> 조합안입니다. 첫째, 컨테이너의 30퍼센트를 즉시 배로 만하임, 카를스루에, 바젤까지 보냅니다. 느리지만 계획이 가능합니다.
+DRESSLER: Planbar, bis der Rhein wieder kein Wasser hat.
+> 계획 가능하겠죠, 라인강 물이 다시 마를 때까지는.
+BRÜCKNER: Darf ich dazu was sagen, Herr Dressler? Hannes Brückner. Ich fahre seit zwanzig Jahren auf Main und Rhein.
+> 거기에 대해 한마디 해도 될까요, 드레슬러 사장님? 한네스 브뤼크너입니다. 마인강과 라인강에서 20년째 배를 몹니다.
+BRÜCKNER: Niedrigwasser haben wir meistens im Spätsommer. Jetzt, von Oktober bis Januar, ist der Pegel in Kaub fast immer gut. Und wenn nicht, sehe ich das zwei Wochen vorher kommen.
+> 수위가 낮아지는 건 대개 늦여름이에요. 지금, 10월부터 1월까지는 카우프 수위가 거의 늘 괜찮습니다. 혹시 아니더라도 2주 전엔 미리 압니다.
+SELIN: Zweitens: Frau Becker bucht für die Umleitung feste Nachtzüge, zwei Wochen im Voraus. Nachts ist die Strecke weniger voll. Das sind zweihundertsechzig Container pro Woche — aber pünktlicher.
+> 둘째, 베커 씨가 우회 노선에 고정 야간 열차를 2주 전에 예약합니다. 밤에는 노선이 덜 붐비거든요. 일주일에 260개지만, 시간은 더 정확해요.
+BECKER: Ich habe heute früh schon mit der Bahn telefoniert. Für November bekommen wir sechs feste Nachttrassen.
+> 오늘 아침에 벌써 철도 측과 통화했어요. 11월분으로 고정 야간 운행 시간대 여섯 개를 받았어요.
+SELIN: Drittens: Für den Rest mieten Sie für fünf Monate zwölf Lkw mit Fahrern bei einem Partner. Keine Investition, kein Kredit.
+> 셋째, 나머지는 협력사에서 트럭 열두 대를 기사 포함으로 5개월간 빌립니다. 투자도 없고, 대출도 없어요.
+DRESSLER: Mieten ist teuer.
+> 임차는 비싸요.
+TOBIAS: Pro Monat ja. Aber unter dem Strich viel billiger. Variante eins kostet Sie in fünf Monaten zwei Komma neun Millionen Mehrkosten plus sechs Komma vier Millionen Investition. Variante drei kostet eins Komma vier Millionen Mehrkosten. Ohne Investition.
+> 월 단위로는 그렇죠. 하지만 결국 따져 보면 훨씬 쌉니다. 1안은 5개월 동안 추가 비용 290만에 투자 640만이 듭니다. 3안은 추가 비용 140만입니다. 투자 없이요.
+DRESSLER: Eins Komma vier gegen über neun Millionen.
+> 140만 대 900만 이상이라.
+DRESSLER: Und wenn die Mietfirma mir im Dezember die Fahrer abzieht? Vor Weihnachten will jeder einen Lkw.
+> 그런데 임차 회사가 12월에 기사들을 빼 가면요? 크리스마스 전엔 누구나 트럭을 원하는데.
+BECKER: Habe ich geprüft. Der Vertrag garantiert die zwölf Fahrzeuge bis Ende Januar, mit einer Vertragsstrafe, wenn sie ausfallen.
+> 확인했어요. 계약서가 1월 말까지 트럭 열두 대를 보장해요. 빠지면 위약금을 물고요.
+TOBIAS: Diesmal zahlt also jemand anderes für die Verspätung. Eine schöne Abwechslung.
+> 그러니까 이번엔 다른 누군가가 지연 값을 치르는 거군요. 기분 좋은 변화네요.
+SELIN: Und noch etwas, Herr Dressler. Mainchem muss seine CO2-Bilanz berichten, auch für den Transport. Mit Variante drei sinken Ihre Emissionen pro Container sogar — mitten in der Krise.
+> 그리고 한 가지 더 있습니다, 드레슬러 씨. 마인켐은 운송을 포함해 탄소 배출 실적을 보고해야 해요. 3안으로 가면 컨테이너당 배출량이 오히려 줄어요. 위기 한복판에서요.
+KATHARINA: Das ist Ihr Argument für Frau Dr. Gerlach. Sie rufen sie nicht an, um sich zu entschuldigen. Sie rufen an, um ihr einen besseren Plan zu zeigen als vor der Sperrung.
+> 그게 게를라흐 박사님께 드릴 논거입니다. 사과하려고 전화하시는 게 아닙니다. 폐쇄 전보다 더 나은 계획을 보여 드리려고 전화하시는 거죠.
+DRESSLER: … Und die vierzig Lkw?
+> …그럼 트럭 40대는요?
+KATHARINA: Kaufen Sie im Januar, wenn Sie dann noch wollen. Und wenn Sie Fahrer haben. Ich vermute, Sie werden nicht mehr wollen.
+> 1월에 사세요. 그때도 원하시고, 기사가 있다면요. 제 짐작엔 그때는 원하지 않으실 겁니다.
+DRESSLER: Herr Wendt, Sie haben gestern gesagt, der Lkw ist die schnellste Lösung.
+> 벤트 씨, 어제는 트럭이 가장 빠른 해결책이라고 했잖아요.
+TOBIAS: Gestern hatte ich noch nicht mit Frau Aydın und hunderttausend Zeilen gerechnet. Ich lasse mich gern von Daten widerlegen. Von Menschen weniger gern.
+> 어제는 아직 아이든 씨와 10만 줄을 함께 계산하기 전이었죠. 저는 데이터한테 반박당하는 건 좋아합니다. 사람한테 반박당하는 건 덜 좋아하지만요.
+DRESSLER: Frau Becker, verbinden Sie mich mit Frau Dr. Gerlach. — Und, Yvonne: Ruf den Händler an und sag die Lkw ab. Vorerst.
+> 베커 씨, 게를라흐 박사님 연결해 줘요. — 그리고 이본, 딜러한테 전화해서 트럭 취소한다고 해. 일단은.
+
+## 마무리 — EIN NAME AUS DEM WESTEN
+GERLACH: Herr Dressler, das ist der erste Plan seit drei Wochen, der nach Planung aussieht. Schicken Sie mir die Zahlen. Und wer hat das gemacht?
+> 드레슬러 씨, 3주 만에 처음으로 계획다운 계획이네요. 숫자를 보내 주세요. 그런데 이건 누가 만든 거죠?
+DRESSLER: Eine Beratung. Hellweg. Frau Dr. Brandt und ihr Team.
+> 컨설팅사요. Hellweg. 브란트 박사와 그 팀이요.
+GERLACH: Brandt. Den Namen merke ich mir. Unser Vorstand sucht gerade jemanden, der eine sehr unangenehme Frage beantwortet.
+> 브란트. 그 이름 기억해 두죠. 저희 이사회가 지금 아주 불편한 질문에 답해 줄 사람을 찾고 있거든요.
+SELIN: Tobias, „von Menschen weniger gern"?
+> 토비아스, '사람한테는 덜 좋아한다'고?
+TOBIAS: Du bist ab jetzt offiziell Daten. Das ist ein Kompliment.
+> 넌 이제부터 공식적으로 데이터야. 칭찬이야.
+KATHARINA: Ihr zwei habt gestern gestritten und heute zusammen gewonnen. So soll es sein.
+> 너희 둘, 어제는 싸우고 오늘은 같이 이겼네. 원래 그래야 해.
+LORENZ: Katharina? Lorenz hier. Ich höre, du warst am Osthafen. Ein Logistiker. Sehr … bodenständig.
+> 카타리나? 로렌츠야. 오스트하펜에 갔었다며. 물류회사라. 아주… 소박하군.
+KATHARINA: Ein zufriedener Kunde, Jan-Hendrik. Das ist auch Umsatz.
+> 만족한 고객이에요, 얀헨드릭. 그것도 매출이죠.
+LORENZ: Kleiner Umsatz. Aber gut. Der Vorstandsvorsitzende von Mainchem hat mich eben angerufen. Er will dich sprechen. Nicht mich. Dich.
+> 작은 매출이지. 뭐, 좋아. 마인켐 이사회 의장이 방금 나한테 전화했어. 너를 만나고 싶대. 내가 아니라. 너를.
+KATHARINA: Worum geht es?
+> 무슨 일인데요?
+LORENZ: Um eine Milliarde Euro, ein neues Werk und die Frage, ob es in Hessen oder in Texas steht. Das ist kein Logistiker mehr, Katharina. Das ist der Partnerausschuss.
+> 10억 유로, 새 공장, 그리고 그 공장이 헤센에 서느냐 텍사스에 서느냐의 문제. 이번엔 물류회사가 아니야, 카타리나. 이건 파트너 위원회 얘기라고.
+SELIN: Texas? Ich habe nicht einmal einen Cowboyhut.
+> 텍사스? 나 카우보이모자도 없는데.

@@ -1,0 +1,267 @@
+part: 1
+ep: 14
+title_de: Die Lieferkette
+title_ko: 공급망
+scene: 월요일 아침, 프랑크푸르트 차일 거리
+level: B2
+setting: 11월 월요일 오전 아홉 시부터 오후까지, 프랑크푸르트 쇼핑가 차일(Zeil)에 있는 패션 체인 Kronberg Moden GmbH 본사 5층 회의실
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
+cast: FALK | Viktoria Falk · Kronberg Moden 대표(CEO) (가상)
+cast: STEINMETZ | Ralf Steinmetz · Kronberg Moden 재무 책임자(CFO)
+cast: HARTWIG | Leonie Hartwig · Kronberg Moden 지속가능성 책임자
+cast: RAHMAN | Farzana Rahman · 다카 주재 사회 감사관(Sozialauditorin)
+cast: BIRGIT | Birgit Hahn · Hellweg 팀 어시스턴트
+note: ※ 독일 공급망 실사법(LkSG, 2023년 시행)은 국내 직원 1,000명 이상 기업에 해외 공급망의 인권·환경 위험을 분석하고, 예방 조치를 취하고, 고충 처리 절차를 운영하도록 의무화했습니다. 2025년 이후 독일 정부는 기업 부담을 줄이기 위해 보고 의무를 없애고 과태료를 중대한 위반에만 부과하는 방향으로 법을 고치고 있으며, EU도 '옴니버스(Omnibus)' 패키지로 공급망 실사 지침(CSDDD)과 지속가능성 보고 지침(CSRD)의 적용 대상을 크게 줄이고 시행을 늦췄습니다. 다만 LkSG의 핵심 실사 의무 자체는 남아 있습니다. 한편 2026년 9월부터 EU에서는 입증 없는 '친환경' 같은 일반적 환경 표시와, 탄소 크레디트 상쇄만으로 '탄소중립'을 내세우는 표시가 금지되어, 소비자보호센터(Verbraucherzentrale)의 경고장(Abmahnung) 대상이 될 수 있습니다. 2013년 방글라데시 라나 플라자 붕괴로 1,100명 넘는 의류 노동자가 숨진 뒤 공급망 감사가 크게 늘었습니다. 지속가능성 연계 대출은 ESG 목표 달성 여부에 따라 금리 마진이 바뀝니다. 회사와 인물은 모두 가상입니다. 표현 초점: die Sorgfaltspflicht, die Nachhaltigkeit, der Bericht, das Greenwashing, Das Risiko verschwindet nicht, nur weil die Pflicht verschwindet.
+next: 1부 15화 — «Interessenkonflikt»(이해충돌) — Hellweg 프랑크푸르트 사무실, 늦은 밤. Tobias가 Lorenz와 사모펀드 Corvalis Capital 사이의 별도 자문 계약을 찾아낸다. Ebersbach 승계 보고서를 '매각 권고'로 몰아가려던 이유가 드러난다. 다음 주는 Katharina의 파트너 승진 심사다. Katharina와 Lorenz의 긴 대결.
+
+## 도입 — DIE ZEIL, NEUN UHR
+SELIN: Die Zeil am Montagmorgen. Und schon überall Schaufenster mit „Black Week". Dabei ist erst Mitte November.
+> 월요일 아침의 차일 거리. 벌써 쇼윈도마다 '블랙 위크'네. 아직 11월 중순인데.
+TOBIAS: Im Handel beginnt die Black Week im Oktober und endet nie.
+> 유통업계에선 블랙 위크가 10월에 시작해서 절대 안 끝나.
+SELIN: Da, Kronberg Moden. „Green Line — hundert Prozent klimaneutral." Auf einem T-Shirt für neun Euro neunundneunzig.
+> 저기, 크론베르크 모덴. '그린 라인 — 100퍼센트 탄소중립.' 9.99유로짜리 티셔츠에.
+TOBIAS: Klimaneutral für neun Euro neunundneunzig. Da würde ich gern die Rechnung sehen.
+> 9.99유로에 탄소중립이라. 그 계산서 좀 보고 싶네.
+KATHARINA: Dazu kommen wir noch. Erst einmal hören wir zu.
+> 그건 차차 보자. 일단은 듣는 거야.
+SELIN: Katharina, du bist seit Freitag so still. Ist es wegen Lorenz' Fassung?
+> 카타리나, 너 금요일부터 엄청 조용하다. 로렌츠 버전 때문이야?
+KATHARINA: Ich habe ihm meine Fassung zurückgeschickt. Unverändert. Mit einem Satz: „Diese Empfehlung trage ich nicht mit."
+> 내 버전을 그대로 돌려보냈어. 한 문장 붙여서. '이 권고에는 동의할 수 없습니다.'
+TOBIAS: Und?
+> 그래서?
+KATHARINA: Keine Antwort. Seit drei Tagen. Bei Jan-Hendrik ist das lauter als ein Anruf.
+> 답이 없어. 사흘째. 얀헨드릭한텐 그게 전화보다 더 시끄러운 거야.
+TOBIAS: Und der Partnerausschuss ist in zehn Tagen.
+> 그리고 파트너 위원회는 열흘 뒤고.
+KATHARINA: Ich weiß, wann der Partnerausschuss ist, Tobias. Heute geht es um T-Shirts. Konzentrieren wir uns.
+> 파트너 위원회가 언제인지는 나도 알아, 토비아스. 오늘은 티셔츠 얘기야. 집중하자.
+FALK: Frau Dr. Brandt? Viktoria Falk. Willkommen bei Kronberg. Wir sitzen im fünften Stock, mit Blick auf die Zeil. Damit Sie sehen, für wen wir arbeiten: für die Leute da unten mit den Einkaufstüten.
+> 브란트 박사님? 빅토리아 팔크입니다. 크론베르크에 오신 걸 환영해요. 저희는 차일 거리가 내려다보이는 5층에 있어요. 저희가 누구를 위해 일하는지 보시라고요. 저 아래 쇼핑백 든 사람들이요.
+
+## 장면 1 — ZWEIHUNDERTZWANZIG LIEFERANTEN
+STEINMETZ: Ralf Steinmetz, Finanzen. Ich mache es kurz: Unsere Marge ist in zwei Jahren von sieben auf drei Prozent gefallen. Billigplattformen aus Asien verkaufen T-Shirts für drei Euro und liefern in fünf Tagen.
+> 랄프 슈타인메츠, 재무 담당입니다. 짧게 말하죠. 저희 이익률이 2년 만에 7퍼센트에서 3퍼센트로 떨어졌습니다. 아시아 저가 플랫폼들은 티셔츠를 3유로에 팔고 닷새 만에 배송해요.
+FALK: Und gleichzeitig geben wir über vier Millionen Euro im Jahr für Sorgfaltspflichten in der Lieferkette aus. Audits, Schulungen, ein Team von vierzehn Leuten und ein Bericht mit hundertsechzig Seiten.
+> 그리고 동시에 저희는 공급망 실사 의무에 연 400만 유로 넘게 써요. 감사, 교육, 열네 명짜리 팀, 그리고 160페이지짜리 보고서.
+STEINMETZ: Und jetzt fällt die Pflicht weg. Die Berichtspflicht nach dem Lieferkettengesetz wird gestrichen, Bußgelder gibt es nur noch bei schweren Verstößen. Und die EU hat ihre eigene Richtlinie mit dem Omnibus-Paket stark verkleinert.
+> 그리고 이제 의무가 사라집니다. 공급망 실사법상 보고 의무는 폐지되고, 과태료는 중대한 위반에만 부과돼요. 그리고 EU도 옴니버스 패키지로 자체 지침을 대폭 축소했고요.
+TOBIAS: Die EU-Lieferkettenrichtlinie gilt nach dem Omnibus nur noch für Firmen mit über fünftausend Beschäftigten. Sie haben dreitausendvierhundert.
+> 옴니버스 이후 EU 공급망 지침은 직원 5천 명 넘는 기업에만 적용됩니다. 귀사는 3,400명이고요.
+STEINMETZ: Genau. Also brauchen wir den Apparat nicht mehr. Mein Vorschlag: von vier Komma zwei auf eins Komma fünf Millionen. Das Team auf vier Leute, keine eigenen Audits mehr, nur noch Fragebögen.
+> 바로 그겁니다. 그러니 그 조직이 더는 필요 없어요. 제 제안은 이겁니다. 420만에서 150만으로. 팀은 네 명으로, 자체 감사는 없애고 설문지만.
+KATHARINA: Darf ich fragen, wer das Team heute leitet?
+> 지금 그 팀은 누가 이끌고 있는지 여쭤봐도 될까요?
+HARTWIG: Ich. Leonie Hartwig, Nachhaltigkeit. Und bevor jemand fragt: Ja, ich weiß, dass meine Stelle auf der Liste steht.
+> 저요. 레오니 하르트비히, 지속가능성 담당입니다. 그리고 누가 묻기 전에 말씀드리면, 네, 제 자리가 명단에 있다는 거 알아요.
+FALK: Leonie, das ist noch nicht entschieden.
+> 레오니, 그건 아직 결정된 게 아니야.
+HARTWIG: Frau Falk, bei allem Respekt: Auf Folie neun steht „Nachhaltigkeit: minus zehn Stellen". Das sieht ziemlich entschieden aus.
+> 팔크 대표님, 존경을 담아 말씀드리지만, 9번 슬라이드에 '지속가능성: 마이너스 열 자리'라고 적혀 있어요. 꽤 결정된 것처럼 보이는데요.
+KATHARINA: Frau Hartwig, was genau macht Ihr Team?
+> 하르트비히 씨, 팀이 정확히 무슨 일을 하나요?
+HARTWIG: Wir haben zweihundertzwanzig direkte Lieferanten, vor allem in Bangladesch, in der Türkei und in Vietnam. Wir machen eine Risikoanalyse, wir prüfen die Fabriken vor Ort, und wir betreiben eine Beschwerde-Hotline für die Arbeiterinnen.
+> 직접 거래하는 공급사가 220곳이에요. 주로 방글라데시, 튀르키예, 베트남. 위험 분석을 하고, 현지에서 공장을 점검하고, 노동자들을 위한 고충 신고 핫라인을 운영해요.
+SELIN: Und die Pflichten zur Risikoanalyse und zum Beschwerdeverfahren bleiben doch im Gesetz, oder? Nur der Bericht fällt weg.
+> 그런데 위험 분석과 고충 처리 절차 의무는 법에 그대로 남잖아요? 보고서만 없어지는 거고.
+HARTWIG: Genau. Das sagt hier nur keiner gern laut.
+> 맞아요. 여기선 아무도 그걸 크게 말하고 싶어 하지 않을 뿐이죠.
+STEINMETZ: Ohne Bericht und ohne Bußgeld kontrolliert es aber auch keiner.
+> 하지만 보고서도 과태료도 없으면 아무도 확인 안 하잖아요.
+KATHARINA: Frau Hartwig, was haben Ihre letzten Audits gefunden?
+> 하르트비히 씨, 최근 감사에서는 뭐가 나왔나요?
+HARTWIG: Ich schalte Frau Rahman dazu. Sie ist unsere Auditorin in Dhaka.
+> 라흐만 씨를 연결할게요. 다카에 있는 저희 감사관이에요.
+RAHMAN: Guten Tag, Frau Dr. Brandt. Farzana Rahman. Ich war letzte Woche in Gazipur, bei einem Lieferanten von Kronberg und bei zwei Subunternehmern, die er nicht gemeldet hatte.
+> 안녕하세요, 브란트 박사님. 파르자나 라흐만입니다. 지난주에 가지푸르에 있었어요. 크론베르크 공급사 한 곳과, 그 공급사가 신고하지 않은 하청업체 두 곳에요.
+TOBIAS: Nicht gemeldet heißt: Kronberg wusste nichts davon?
+> 신고하지 않았다는 건, 크론베르크가 몰랐다는 뜻인가요?
+RAHMAN: Nein. Der Lieferant hat einen Teil der Aufträge weitergegeben, weil er die Liefertermine nicht geschafft hat. In einem der Betriebe war ein Notausgang mit einer Kette verschlossen. Die Schichten dauerten bis zu vierzehn Stunden, ohne Bezahlung der Überstunden.
+> 몰랐어요. 공급사가 납기를 못 맞춰서 주문 일부를 넘긴 거예요. 그중 한 곳은 비상구가 쇠사슬로 잠겨 있었어요. 근무는 최대 14시간, 초과근무 수당도 없이요.
+SELIN: Ein verschlossener Notausgang. Wie bei Rana Plaza.
+> 잠긴 비상구라. 라나 플라자 때처럼.
+RAHMAN: Rana Plaza war ein Gebäudeeinsturz, zweitausenddreizehn, über tausend Tote. Aber ja — es beginnt immer mit Kleinigkeiten, die keiner prüft.
+> 라나 플라자는 건물 붕괴였죠, 2013년, 천 명 넘게 숨졌어요. 하지만 맞아요 — 늘 아무도 확인하지 않는 사소한 것들에서 시작해요.
+FALK: Haben Sie den Notausgang öffnen lassen?
+> 비상구는 열게 하셨어요?
+RAHMAN: Noch am selben Tag. Und die Aufträge an diesen Betrieb sind gestoppt. Aber, Frau Falk: Mit einem Fragebogen hätte ich das nie gefunden. Der Lieferant hätte „Ja" angekreuzt.
+> 그날 바로요. 그리고 그 업체로 가는 주문은 중단됐어요. 하지만 팔크 대표님, 설문지로는 절대 찾지 못했을 거예요. 공급사는 '예'에 체크했을 테니까요.
+STEINMETZ: Ein Fall bei zweihundertzwanzig Lieferanten.
+> 공급사 220곳 중 한 건이잖아요.
+HARTWIG: Ein Fall, den wir gefunden haben, Herr Steinmetz. Wie viele finden wir mit vier Leuten und Fragebögen?
+> 우리가 찾아낸 한 건이죠, 슈타인메츠 씨. 네 명이랑 설문지로는 몇 건이나 찾을까요?
+TOBIAS: Darf ich eine Zahl beisteuern? Ich habe mir Ihren Konsortialkredit angesehen. Vierhundert Millionen Euro, mit einer Nachhaltigkeitsklausel.
+> 숫자 하나 보태도 될까요? 귀사의 신디케이트론을 봤습니다. 4억 유로, 지속가능성 조항이 붙어 있더군요.
+STEINMETZ: So etwas haben heute alle Kredite.
+> 요즘 대출엔 다 그런 게 있죠.
+TOBIAS: In Ihrem steht: Wenn weniger als neunzig Prozent der Hochrisiko-Lieferanten vor Ort geprüft werden, steigt die Zinsmarge um null Komma zwei fünf Prozentpunkte. Das ist eine Million Euro im Jahr. Mit Fragebögen sind Sie bei null Prozent vor Ort.
+> 귀사 조항엔 이렇게 돼 있습니다. 고위험 공급사의 현장 점검 비율이 90퍼센트 아래로 떨어지면 금리 마진이 0.25퍼센트포인트 오른다. 연 100만 유로입니다. 설문지만 쓰시면 현장 점검은 0퍼센트죠.
+STEINMETZ: … Das wusste ich nicht.
+> …그건 몰랐습니다.
+TOBIAS: Es steht auf Seite dreiundachtzig. Niemand liest Seite dreiundachtzig. Außer mir.
+> 83페이지에 있습니다. 83페이지는 아무도 안 읽죠. 저 빼고.
+FALK: Und die Kunden? Interessiert das die Leute da unten auf der Zeil überhaupt?
+> 그럼 고객은요? 저 아래 차일 거리 사람들이 그런 데 관심이나 있나요?
+SELIN: Genau das habe ich gefragt. Zweitausend Kundinnen und Kunden unter dreißig, online. Darf ich die Ergebnisse zeigen?
+> 바로 그걸 물어봤어요. 30세 미만 고객 2천 명, 온라인으로요. 결과를 보여 드려도 될까요?
+FALK: Bitte.
+> 보여 주세요.
+
+## 장면 2 — „DIE PFLICHT IST WEG"
+SELIN: Dreiundsechzig Prozent sagen: Nach einem Skandal in der Lieferkette kaufe ich bei dieser Marke weniger oder gar nicht mehr. Und einundvierzig Prozent prüfen Umweltversprechen, bevor sie kaufen.
+> 63퍼센트가 '공급망 스캔들이 터지면 그 브랜드에서 덜 사거나 아예 안 산다'고 답했어요. 그리고 41퍼센트는 사기 전에 친환경 약속을 확인한대요.
+STEINMETZ: Umfragen. In Umfragen sind alle Menschen gut. An der Kasse kaufen sie das T-Shirt für drei Euro.
+> 설문이라. 설문에선 다들 착하죠. 계산대에선 3유로짜리 티셔츠를 사면서.
+SELIN: Zum Teil, ja. Deshalb habe ich mir auch öffentliche Marktdaten angesehen. Nach dem Skandal bei einem Ihrer Konkurrenten letztes Jahr ist sein Umsatz bei den unter Dreißigjährigen in drei Monaten um elf Prozent gefallen.
+> 일부는 그렇죠. 그래서 공개된 시장 데이터도 봤어요. 작년에 경쟁사 하나가 스캔들에 휘말린 뒤, 그 회사의 30세 미만 매출이 석 달 만에 11퍼센트 떨어졌어요.
+STEINMETZ: Und hat er sich erholt?
+> 그래서 회복했나요?
+SELIN: Nach einem Jahr. Mit einer teuren Kampagne. Und der Chef ist gegangen.
+> 1년 뒤에요. 비싼 캠페인으로. 그리고 대표는 물러났고요.
+FALK: … Danke, Frau Aydın. Das ist ein sehr anschaulicher Satz.
+> …고마워요, 아이든 씨. 아주 생생한 문장이네요.
+STEINMETZ: Frau Falk, wir dürfen uns von Einzelfällen nicht erpressen lassen. Wir kämpfen ums Überleben. Jede Million, die wir hier sparen, können wir in Preise, in Läden, in Onlinewerbung stecken.
+> 팔크 대표님, 개별 사례에 휘둘려선 안 됩니다. 우린 생존을 위해 싸우고 있어요. 여기서 아끼는 100만 유로마다 가격, 매장, 온라인 광고에 쓸 수 있습니다.
+HARTWIG: Und wenn in Gazipur das nächste Mal ein Feuer ausbricht, stecken wir sie in Anwälte.
+> 그리고 다음에 가지푸르에서 불이 나면 그 돈을 변호사한테 쓰겠죠.
+STEINMETZ: Frau Hartwig, das ist Panikmache.
+> 하르트비히 씨, 그건 공포 조장이에요.
+HARTWIG: Nein. Das ist meine Arbeit. Und nächste Woche ist sie vielleicht weg.
+> 아니요. 그게 제 일이에요. 그리고 다음 주면 그 일이 없어질지도 모르고요.
+TOBIAS: Darf ich etwas Unpopuläres sagen? Herr Steinmetz hat nicht ganz unrecht. Ein Bericht mit hundertsechzig Seiten, den niemand liest, kostet viel und schützt niemanden.
+> 인기 없는 말 하나 해도 될까요? 슈타인메츠 씨 말이 아주 틀린 건 아닙니다. 아무도 읽지 않는 160페이지짜리 보고서는 돈만 많이 들고 아무도 지켜 주지 않아요.
+HARTWIG: Danke, Herr Wendt. Sehr hilfreich.
+> 고마워요, 벤트 씨. 아주 도움이 되네요.
+TOBIAS: Gern. Ich bin noch nicht fertig. Der Bericht schützt niemanden. Die Audits und die Hotline schon. Das sind zwei verschiedene Dinge, die bei Ihnen in derselben Kostenstelle stehen.
+> 천만에요. 아직 안 끝났어요. 보고서는 아무도 지켜 주지 않죠. 하지만 감사와 핫라인은 지켜 줍니다. 그 둘은 서로 다른 건데, 귀사에선 같은 비용 항목에 묶여 있는 거고요.
+SELIN: Und dann gibt es noch ein Problem. Ein dringendes.
+> 그리고 문제가 하나 더 있어요. 급한 거요.
+FALK: Noch eins?
+> 또요?
+SELIN: Die Green Line. Auf den Etiketten steht „hundert Prozent klimaneutral". Wie wird das berechnet?
+> 그린 라인이요. 라벨에 '100퍼센트 탄소중립'이라고 적혀 있잖아요. 그건 어떻게 계산하나요?
+HARTWIG: Gar nicht. Das Marketing kauft CO2-Zertifikate für Waldprojekte in Südamerika. Ich habe dagegen protestiert. Zweimal schriftlich.
+> 계산 안 해요. 마케팅팀이 남미 산림 프로젝트 탄소 크레디트를 사요. 제가 반대했어요. 두 번이나 서면으로.
+SELIN: Seit September sind solche Aussagen in der EU verboten, wenn sie nur auf Kompensation beruhen. Und allgemeine Begriffe wie „umweltfreundlich" auch, wenn es keinen Nachweis gibt.
+> 9월부터 EU에서는 그런 표현이 상쇄에만 근거하면 금지돼요. '친환경' 같은 일반적인 표현도 입증이 없으면 금지고요.
+STEINMETZ: Das ist Wettbewerbsrecht, keine Lieferkette.
+> 그건 경쟁법이지 공급망 문제가 아니잖아요.
+KATHARINA: Für die Verbraucherzentrale ist das egal, Herr Steinmetz. Für eine Abmahnung auch. Das ist Greenwashing, und es hängt in Ihrem Schaufenster.
+> 소비자보호센터한텐 그런 구분은 상관없습니다, 슈타인메츠 씨. 경고장에도요. 그건 그린워싱이고, 귀사 쇼윈도에 걸려 있어요.
+FALK: … In zweiundvierzig Filialen.
+> …매장 마흔두 곳에요.
+STEINMETZ: Gut, die Etiketten ändern wir. Das kostet fast nichts. Aber bei der Lieferkette bleibe ich dabei: Die Pflicht ist weg, also können die Kosten auch weg.
+> 좋아요, 라벨은 바꾸죠. 그건 돈이 거의 안 드니까. 하지만 공급망은 제 입장 그대로입니다. 의무가 없어졌으니 비용도 없어도 돼요.
+HARTWIG: Die Pflicht ist nicht weg. Nur der Bericht!
+> 의무는 안 없어졌어요. 보고서만 없어진 거예요!
+STEINMETZ: Und wer prüft das noch?
+> 그럼 그걸 누가 또 확인하는데요?
+HARTWIG: Die Arbeiterinnen in Gazipur prüfen es. An jedem Tag, an dem der Notausgang offen ist.
+> 가지푸르의 노동자들이 확인하죠. 비상구가 열려 있는 매일매일.
+FALK: Genug. Leonie, Ralf, bitte. — Frau Dr. Brandt, Sie sehen, wo wir stehen. Ich brauche bis Freitag eine Entscheidung für den Aufsichtsrat.
+> 그만. 레오니, 랄프, 제발. — 브란트 박사님, 저희가 어디 서 있는지 보셨죠. 금요일까지 감사회에 올릴 결정이 필요해요.
+KATHARINA: Darf ich Sie kurz allein sprechen, Frau Falk?
+> 잠깐 따로 말씀 나눌 수 있을까요, 팔크 대표님?
+FALK: Bitte. — Leonie, kommst du kurz mit raus? Nein, warte. Bleib hier. Ich will, dass du das hörst.
+> 그러죠. — 레오니, 잠깐 같이 나갈래? 아니, 잠깐. 여기 있어. 네가 이걸 들었으면 해.
+KATHARINA: Frau Falk, Sie haben vorhin gesagt, Sie arbeiten für die Leute da unten mit den Einkaufstüten. Wie alt sind die?
+> 팔크 대표님, 아까 저 아래 쇼핑백 든 사람들을 위해 일하신다고 하셨죠. 그 사람들 몇 살인가요?
+FALK: Unsere Kernkundin ist sechsundzwanzig.
+> 저희 핵심 고객은 스물여섯 살이에요.
+KATHARINA: Und was macht eine Sechsundzwanzigjährige, wenn sie auf ihrem Telefon ein Video aus Gazipur sieht? Mit einer Kette am Notausgang und Ihrem Etikett in der Halle?
+> 그럼 스물여섯 살 여성이 휴대폰으로 가지푸르 영상을 보면 어떻게 할까요? 비상구엔 쇠사슬이 걸려 있고, 작업장엔 귀사 라벨이 있는 영상을요.
+FALK: … Sie teilt es. Und dann teilen es zehntausend andere.
+> …공유하겠죠. 그리고 다른 만 명이 또 공유하고요.
+KATHARINA: Das Video entsteht nicht wegen eines Gesetzes. Es entsteht, weil jemand ein Telefon hat. Und Telefone gibt es in Gazipur auch.
+> 그 영상은 법 때문에 생기는 게 아닙니다. 누군가 전화기를 갖고 있기 때문에 생기죠. 그리고 가지푸르에도 전화기는 있습니다.
+FALK: Ralf wird sagen, dass wir uns das nicht leisten können.
+> 랄프는 우리가 그럴 여유가 없다고 할 거예요.
+KATHARINA: Dann zeigen wir ihm, dass er sich das Gegenteil noch weniger leisten kann. Geben Sie mir eine Stunde.
+> 그럼 그 반대는 더더욱 여유가 없다는 걸 보여 드리죠. 한 시간만 주세요.
+
+## 절정 — DAS RISIKO BLEIBT
+KATHARINA: Herr Steinmetz, Frau Hartwig, Frau Falk. Ich fasse zusammen und mache dann einen Vorschlag. Zuerst die Lage: Die Berichtspflicht fällt weg. Die Sorgfaltspflicht im Kern bleibt. Und das Risiko verschwindet nicht, nur weil die Pflicht verschwindet.
+> 슈타인메츠 씨, 하르트비히 씨, 팔크 대표님. 정리하고 나서 제안을 드리겠습니다. 먼저 상황입니다. 보고 의무는 없어집니다. 실사 의무의 핵심은 남습니다. 그리고 리스크는 의무가 사라진다고 해서 사라지지 않습니다.
+STEINMETZ: Ein schöner Satz für eine Folie.
+> 슬라이드에 쓰기 좋은 문장이네요.
+KATHARINA: Dann rechnen wir ihn. Herr Wendt?
+> 그럼 계산해 보죠. 벤트 씨?
+TOBIAS: Drei Risiken. Erstens der Kredit: Ohne Audits steigt die Marge um eine Million im Jahr. Zweitens die Green Line: Eine Abmahnung, neue Etiketten in zweiundvierzig Filialen und eine Rücknahmeaktion kosten schnell zwei Millionen. Drittens ein Skandal: Elf Prozent weniger Umsatz bei Ihrer Kernkundin sind bei Ihnen etwa vierzig Millionen.
+> 리스크 세 가지입니다. 첫째, 대출. 감사가 없으면 마진이 연 100만 오릅니다. 둘째, 그린 라인. 경고장, 매장 42곳 라벨 교체, 회수 조치면 금방 200만입니다. 셋째, 스캔들. 핵심 고객층 매출이 11퍼센트 줄면 귀사로선 약 4천만입니다.
+STEINMETZ: Wenn ein Skandal kommt.
+> 스캔들이 터진다면요.
+TOBIAS: Ja. Wenn. Aber Frau Rahman hat letzte Woche eine Kette an einem Notausgang gefunden. Das „Wenn" ist kleiner, als Sie denken.
+> 네. 터진다면요. 하지만 라흐만 씨가 지난주에 비상구에서 쇠사슬을 찾아냈습니다. 그 '만약'은 생각하시는 것보다 작습니다.
+KATHARINA: Jetzt der Vorschlag. Wir behalten, was schützt, und streichen, was nur glänzt.
+> 이제 제안입니다. 지켜 주는 건 남기고, 반짝이기만 하는 건 없앱니다.
+KATHARINA: Erstens: Der Hochglanzbericht mit hundertsechzig Seiten fällt weg. Stattdessen zwölf Seiten mit echten Zahlen, online, für Kunden und Banken.
+> 첫째, 160페이지짜리 고급 보고서는 없앱니다. 대신 진짜 숫자가 담긴 12페이지를 온라인으로, 고객과 은행을 위해.
+KATHARINA: Zweitens: Die Audits werden risikobasiert. Nicht alle zweihundertzwanzig Lieferanten gleich oft, sondern die vierzig mit dem höchsten Risiko — und dafür auch ihre Subunternehmer.
+> 둘째, 감사는 리스크 기반으로 합니다. 공급사 220곳 전부를 똑같이 자주가 아니라, 리스크가 가장 높은 40곳을 — 대신 그 하청업체까지.
+HARTWIG: Das will ich seit zwei Jahren.
+> 그거 제가 2년째 원하던 거예요.
+KATHARINA: Drittens: gemeinsame Audits mit anderen Marken, die dieselben Fabriken nutzen. Das halbiert die Kosten pro Audit. Und viertens: Die Beschwerde-Hotline bleibt — auf Bengali, Türkisch und Vietnamesisch.
+> 셋째, 같은 공장을 쓰는 다른 브랜드들과 공동 감사. 감사 한 건당 비용이 절반이 됩니다. 그리고 넷째, 고충 신고 핫라인은 남깁니다. 벵골어, 튀르키예어, 베트남어로요.
+STEINMETZ: Und was kostet das alles?
+> 그럼 그게 다 얼마나 듭니까?
+TOBIAS: Zwei Komma sechs Millionen statt vier Komma zwei. Sie sparen eins Komma sechs Millionen im Jahr — und riskieren keinen Cent Zinsmarge.
+> 420만 대신 260만입니다. 연 160만을 아끼시고 — 금리 마진은 한 푼도 위험에 빠뜨리지 않습니다.
+STEINMETZ: Ich wollte zwei Komma sieben sparen.
+> 저는 270만을 아끼고 싶었는데요.
+TOBIAS: Und hätten dabei eine Million mehr Zinsen bezahlt. Netto wären es eins Komma sieben gewesen, mit viel mehr Risiko. Jetzt sind es eins Komma sechs, mit viel weniger. Ich würde die hunderttausend Euro Unterschied nehmen.
+> 그리고 이자로 100만을 더 내셨겠죠. 순수하게는 170만을 아끼셨을 테고, 리스크는 훨씬 컸을 겁니다. 이제는 160만이고, 리스크는 훨씬 작습니다. 저라면 10만 유로 차이를 받아들이겠습니다.
+STEINMETZ: … Sie sind schwer zu widerlegen, Herr Wendt.
+> …반박하기 어려운 분이군요, 벤트 씨.
+TOBIAS: Seite dreiundachtzig, Herr Steinmetz. Immer Seite dreiundachtzig.
+> 83페이지입니다, 슈타인메츠 씨. 늘 83페이지죠.
+KATHARINA: Und fünftens: Die Green Line bekommt ehrliche Etiketten. Nicht „klimaneutral", sondern konkret: „Bio-Baumwolle, vierzig Prozent weniger Wasser" — mit Nachweis.
+> 그리고 다섯째, 그린 라인에 정직한 라벨을 붙입니다. '탄소중립'이 아니라 구체적으로. '유기농 면, 물 사용 40퍼센트 절감' — 입증 자료와 함께요.
+SELIN: Das sagen in unserer Umfrage übrigens achtundfünfzig Prozent: Sie vertrauen konkreten Zahlen mehr als großen Worten.
+> 참고로 저희 설문에서 58퍼센트가 그렇게 답했어요. 거창한 말보다 구체적인 숫자를 더 믿는다고요.
+FALK: Und das Team?
+> 그럼 팀은요?
+KATHARINA: Acht statt vierzehn. Weniger Leute für den Bericht, mehr für die Fabriken. Und Frau Hartwig leitet es weiter, mit einem klaren Auftrag: Risiko senken, nicht Seiten füllen.
+> 열네 명이 아니라 여덟 명. 보고서 담당은 줄이고, 공장 담당은 늘립니다. 그리고 하르트비히 씨가 계속 이끕니다. 분명한 임무와 함께요. 페이지를 채우는 게 아니라 리스크를 줄이는 것.
+HARTWIG: Acht Leute. Und keine Hochglanzbroschüre mehr. Ehrlich gesagt — das ist mir sogar lieber.
+> 여덟 명. 그리고 더 이상 고급 브로슈어는 없고. 솔직히 — 그게 오히려 더 좋아요.
+STEINMETZ: Und die sechs Stellen?
+> 그럼 여섯 자리는요?
+HARTWIG: Zwei gehen in Rente. Für die anderen vier suche ich mit der Personalabteilung Stellen im Einkauf. Wer weiß, wie man eine Fabrik prüft, ist dort Gold wert.
+> 두 명은 은퇴해요. 나머지 넷은 인사팀과 함께 구매 부서 자리를 찾아볼게요. 공장 점검할 줄 아는 사람은 거기서 금값이에요.
+FALK: Ralf?
+> 랄프?
+STEINMETZ: … Eins Komma sechs Millionen und keine höhere Marge. Damit kann ich vor den Aufsichtsrat gehen.
+> …160만 절감에 마진 인상 없음. 그 정도면 감사회 앞에 설 수 있겠네요.
+FALK: Dann machen wir es so. Leonie — danke. Und Frau Rahman: Danke, dass Sie die Kette gefunden haben.
+> 그럼 그렇게 하죠. 레오니 — 고마워. 그리고 라흐만 씨, 그 쇠사슬을 찾아 주셔서 감사해요.
+RAHMAN: Gern, Frau Falk. Aber bedanken Sie sich erst, wenn an keinem Notausgang mehr eine Kette hängt.
+> 천만에요, 팔크 대표님. 하지만 감사는 어느 비상구에도 쇠사슬이 걸려 있지 않게 될 때 해 주세요.
+
+## 마무리 — PROJEKT MAIN-GOLD
+SELIN: Hast du gesehen, wie Leonie gestrahlt hat? Acht Leute, und sie freut sich.
+> 레오니 웃는 거 봤어? 여덟 명인데도 기뻐하더라.
+TOBIAS: Weil die acht jetzt etwas tun, das zählt. Vierzehn Leute für einen Bericht, den niemand liest — das macht keinen glücklich.
+> 그 여덟 명은 이제 의미 있는 일을 하니까. 아무도 안 읽는 보고서에 열네 명 — 그건 아무도 행복하게 못 해.
+KATHARINA: Und du hast Steinmetz mit Seite dreiundachtzig besiegt.
+> 그리고 넌 83페이지로 슈타인메츠를 이겼고.
+TOBIAS: Seite dreiundachtzig ist mein Lieblingsort. Dort versteckt jeder, was er nicht vorlesen will.
+> 83페이지는 내가 제일 좋아하는 곳이야. 다들 소리 내 읽고 싶지 않은 걸 거기 숨기거든.
+BIRGIT: Frau Dr. Brandt? Hier ist Birgit. Entschuldigung, dass ich störe. Darf ich Sie etwas fragen, das mich nichts angeht?
+> 브란트 박사님? 비르기트예요. 방해해서 죄송해요. 제 일이 아닌 걸 여쭤봐도 될까요?
+KATHARINA: Wenn Sie so fragen, geht es Sie meistens doch etwas an. Was ist los?
+> 그렇게 물으실 땐 대개 상관있는 일이던데요. 무슨 일이에요?
+BIRGIT: Herr Lorenz hat mich gebeten, für Donnerstag Konferenzraum eins zu buchen. Für Gäste von Corvalis Capital, unter dem Projektnamen „Main-Gold". Und ich soll es nicht in den gemeinsamen Kalender eintragen.
+> 로렌츠 씨가 목요일에 1번 회의실을 예약해 달라고 하셨어요. 코르발리스 캐피털 손님용으로요, 프로젝트명은 '마인-골드'. 그리고 공용 일정표에는 올리지 말라고 하셨어요.
+TOBIAS: Main-Gold. Hanau liegt am Main.
+> 마인-골드라. 하나우는 마인강변에 있지.
+KATHARINA: Danke, Birgit. Buchen Sie den Raum, wie er es wollte. Und sagen Sie niemandem, dass Sie mich angerufen haben.
+> 고마워요, 비르기트. 원하신 대로 회의실 예약하세요. 그리고 저한테 전화했다는 건 아무한테도 말하지 마세요.
+BIRGIT: Ich sage nie jemandem etwas, Frau Dr. Brandt. Deshalb erzählen mir alle alles.
+> 저는 원래 아무한테도 아무 말 안 해요, 브란트 박사님. 그래서 다들 저한테 다 얘기하죠.
+KATHARINA: Der Partnerausschuss ist in neun Tagen. Und Jan-Hendrik trifft am Donnerstag einen Finanzinvestor unter einem Decknamen.
+> 파트너 위원회는 아흐레 뒤야. 그리고 얀헨드릭은 목요일에 가명 프로젝트로 재무적 투자자를 만나고.
+TOBIAS: Dann bleibe ich heute Nacht im Büro. Irgendwo muss „Main-Gold" einen Vertrag haben.
+> 그럼 오늘 밤엔 내가 사무실에 남을게. '마인-골드'에도 어딘가 계약서가 있을 테니까.

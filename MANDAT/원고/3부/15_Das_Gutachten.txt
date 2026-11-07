@@ -1,0 +1,269 @@
+part: 3
+ep: 15
+title_de: Das Gutachten
+title_ko: 감사보고서
+scene: 연방 행정현대화부 차관실 → 모아비트 BWA 사무실 → 신문사 기자의 전화 → 장관실
+level: C1
+setting: 8월 초 열흘간, 연방 행정현대화부 차관실과 장관실, 그리고 의심과 침묵이 오가는 모아비트 BWA 사무실
+cast: KATHARINA | Dr. Katharina Brandt · BWA 대표 (41)
+cast: TOBIAS | Tobias Wendt · BWA 재무감사 총괄 (37)
+cast: SELIN | Selin Aydın · BWA 파트너, 데이터 포렌식 (29)
+cast: PAUL | Dr. Paul Asante · BWA 프랑크푸르트 지사장, 이번 수임 책임자 (45)
+cast: UTE | Ute Hennig · BWA 사무실 매니저 (61)
+cast: VOSS | Dr. Bernhard Voss · 연방 행정현대화부 차관 (가상)
+cast: BRECHT | Dr. Leonie Brecht · 장관 비서실장 (가상)
+cast: ALBRECHT | Dr. Judith Albrecht · 연방 행정현대화부 장관 (가상)
+cast: LINDHOLM | Mareike Lindholm · 일간지 «Tagesblatt» 탐사 기자 (가상)
+cast: SEIDEL | Prof. Dr. Hartwig Seidel · Spreewohnen 감사회 의장, 전화로 (가상)
+note: ※ 독일 정부 문서는 국가 안보 등의 이유로 '비밀(Verschlusssache)'로 분류될 수 있지만, 가장 낮은 등급인 '대외비(VS – Nur für den Dienstgebrauch)'도 법적 근거가 필요하며, 조달 비리에 관한 감사보고서를 단지 곤란하다는 이유로 비밀로 묻을 수는 없습니다. 시민은 정보공개법(Informationsfreiheitsgesetz)에 따라 연방 기관의 문서 공개를 청구할 수 있고, 연방의회 위원회와 연방 감사원도 정보 요구권을 가집니다. 기자는 취재원 보호를 위해 정보 제공자를 밝히지 않을 권리가 있습니다. 차관(beamteter Staatssekretär)은 '정무직 공무원'이라 장관이 언제든 일시 퇴직(einstweiliger Ruhestand)시킬 수 있습니다. 문서마다 문장을 조금씩 다르게 써서 유출 경로를 찾는 방법을 '카나리아 덫(canary trap)'이라고 부릅니다. 등장 부처·인물은 모두 가상입니다. 표현 초점: das Gutachten, die Vertraulichkeit, der Druck, die Veröffentlichung, Wir haben nichts weitergegeben. Aber wir nehmen auch nichts zurück.
+next: 3부 16화 — «Ein Anruf aus Wiesbaden»(비스바덴에서 온 전화) — 보고서가 공개되고 로렌츠는 Hellweg을 떠난다. 축하 자리에 헨리케 좀머의 전화가 걸려 온다. 헤센 주 조기 선거가 확정됐고, 그는 주총리 후보로 나선다.
+
+## 도입 — ACHT UHR, BÜRO DES STAATSSEKRETÄRS
+VOSS: Frau Dr. Brandt, Herr Dr. Asante, ich mache es kurz. Ich habe Ihren Entwurf gelesen. Das Ministerium stuft das Gutachten ab sofort als Verschlusssache ein, «Nur für den Dienstgebrauch».
+> 브란트 박사님, 아산테 박사님, 짧게 하겠습니다. 초안 읽었습니다. 부처는 이 감사보고서를 지금부터 '대외비'로 분류합니다.
+PAUL: Mit welcher Begründung?
+> 무슨 근거로요?
+VOSS: Das Gutachten enthält Informationen über die IT-Architektur der Bundesverwaltung. Eine Veröffentlichung könnte Sicherheitslücken offenlegen.
+> 이 보고서엔 연방 행정의 IT 구조에 관한 정보가 들어 있습니다. 공개되면 보안 취약점이 드러날 수 있어요.
+KATHARINA: Das Gutachten enthält Vergabeakten, Tagessätze und Unterschriften. Über die IT-Architektur steht darin ein einziger Satz: dass von zweiunddreißig Verwaltungsleistungen zwei funktionieren.
+> 이 보고서엔 조달 서류, 일당, 서명이 들어 있습니다. IT 구조에 관해선 딱 한 문장뿐이에요. 행정 서비스 32개 중 2개가 작동한다는 것.
+VOSS: Zweitens: Das Ministerium kündigt den Vertrag mit BWA aus wichtigem Grund. Frau Dr. Brandt hat sich während des laufenden Mandats privat mit dem verantwortlichen Partner der geprüften Firma getroffen. Das ist ein schwerer Verstoß gegen die Unabhängigkeit.
+> 둘째, 부처는 중대한 사유로 BWA와의 계약을 해지합니다. 브란트 박사가 수임 진행 중에 감사 대상 회사의 책임 파트너와 사적으로 만났습니다. 그건 독립성에 대한 중대한 위반입니다.
+KATHARINA: Das Treffen haben wir der Ministerin noch in derselben Nacht schriftlich gemeldet. Mit einem Protokoll. Und mit dem Bestechungsangebot, das Herr Lorenz mir dabei gemacht hat.
+> 그 만남은 바로 그날 밤 장관님께 서면으로 보고했습니다. 기록과 함께요. 그리고 그 자리에서 로렌츠 씨가 제게 한 매수 제안과 함께요.
+VOSS: Ein Protokoll Ihrer eigenen Büromanagerin. Sehr unabhängig.
+> 당신네 사무실 매니저가 쓴 기록이죠. 아주 독립적이네요.
+KATHARINA: Ein Protokoll mit Uhrzeit, das wir unaufgefordert vorgelegt haben. Unabhängig ist, wer offenlegt, Herr Staatssekretär.
+> 시각까지 적힌 기록을 저희가 요청받기도 전에 제출했습니다. 독립적인 사람은 스스로 밝히는 사람이에요, 차관님.
+PAUL: Herr Staatssekretär, hat die Ministerin der Einstufung und der Kündigung zugestimmt?
+> 차관님, 장관님이 분류와 해지에 동의하셨습니까?
+VOSS: Die Ministerin ist bis Donnerstag auf einer Reise in Skandinavien. In ihrer Abwesenheit führe ich die Geschäfte.
+> 장관님은 목요일까지 스칸디나비아 출장 중입니다. 부재중엔 제가 업무를 대행하죠.
+KATHARINA: Dann führen Sie die Geschäfte in einer Angelegenheit, in der Sie selbst Gegenstand der Prüfung sind.
+> 그럼 차관님 자신이 감사 대상인 사안에서 업무를 대행하시는 거네요.
+VOSS: Ich bin nicht Gegenstand Ihrer Prüfung. Ich bin Ihr Auftraggeber. Gewesen.
+> 저는 당신들 감사 대상이 아닙니다. 당신들 의뢰인이죠. 이었죠.
+
+## 분석 — WAS WIR IN DER HAND HABEN
+UTE: Ich habe die Post geöffnet. Drei Briefe. Erstens: die Kündigung des Ministeriums, unterschrieben von Voss. Zweitens: ein Schreiben der Anwälte von Hellweg. Drittens: eine Absage.
+> 우편물 열어 봤어. 편지 세 통. 첫째, 포스가 서명한 부처의 해지 통보. 둘째, Hellweg 변호사들의 서신. 셋째, 거절 통보.
+TOBIAS: Fang mit den Anwälten an.
+> 변호사 것부터 읽어 줘.
+UTE: «Unsere Mandantin fordert Sie auf, die rechtswidrig erlangten Informationen über interne Dokumente nicht zu verwenden und das sogenannte Protokoll eines privaten Abendessens zu vernichten. Für Schäden aus einer Veröffentlichung behält sich unsere Mandantin Ansprüche in Höhe von mindestens fünf Millionen Euro vor.»
+> '의뢰인은 귀사가 내부 문서에 관해 위법하게 취득한 정보를 사용하지 말고, 이른바 사적인 저녁 식사의 기록을 파기할 것을 요구합니다. 공개로 인한 손해에 대해 의뢰인은 최소 500만 유로의 청구권을 유보합니다.'
+TOBIAS: Fünf Millionen. Das wäre ungefähr das Zwölffache unseres Eigenkapitals.
+> 500만. 우리 자기자본의 대략 열두 배네.
+UTE: Und was heißt «vorbehalten»? Müssen wir zahlen?
+> '유보한다'는 게 무슨 뜻이야? 우리가 돈 내야 해?
+PAUL: Es heißt: Sie würden gern, wenn sie könnten. Vorbehalte kosten nichts.
+> 할 수만 있다면 받고 싶다는 뜻이야. 유보는 공짜거든.
+PAUL: Rechtswidrig erlangt? Wir hatten den Zugang auf Anordnung der Ministerin. Schriftlich. Der Brief ist Druck, kein Recht.
+> 위법하게 취득? 우린 장관 지시로 접근권을 받았어. 서면으로. 이 편지는 압박이지 법이 아니야.
+KATHARINA: Und die Absage?
+> 그럼 거절 통보는?
+UTE: Die Landesbank in Frankfurt, mit der wir über ein Mandat gesprochen haben. «Aufgrund der aktuellen Berichterstattung sehen wir von einer Zusammenarbeit ab.» Welche Berichterstattung? Es gibt doch noch gar keine.
+> 프랑크푸르트의 주립은행. 수임 얘기를 나누던 곳. '최근 보도로 인해 협업하지 않기로 했습니다.' 무슨 보도? 아직 아무것도 없는데.
+SELIN: Noch nicht. Aber jemand erzählt in Frankfurt schon, dass es bald welche gibt.
+> 아직은. 하지만 누군가 프랑크푸르트에서 곧 나올 거라고 벌써 말하고 다니는 거지.
+TOBIAS: Ich habe gerechnet. Das Ministeriumsmandat bringt uns noch vierhundertzwanzigtausend Euro, die jetzt fraglich sind. Die Landesbank wären sechshunderttausend gewesen. Zusammen mit zwei kleineren Absagen fehlt uns gut eine Million im nächsten Halbjahr.
+> 계산해 봤어. 부처 수임으로 받을 42만 유로가 이제 불확실해. 주립은행은 60만이었을 거고. 작은 거절 두 건까지 합치면 다음 반기에 100만 남짓이 비어.
+UTE: Und wie lange reicht das Geld dann?
+> 그럼 돈은 얼마나 버텨?
+TOBIAS: Neun Monate. Ungefähr so lange wie damals, als wir angefangen haben. Nur dass wir jetzt fünf Leute sind.
+> 아홉 달. 처음 시작했을 때랑 비슷하지. 다만 지금은 다섯 명이라는 것만 달라.
+KATHARINA: Und wenn wir das Mandat ruhen lassen, bis sich alles beruhigt hat?
+> 다 잠잠해질 때까지 이 수임을 잠시 멈추면?
+TOBIAS: Dann reicht das Geld ein paar Monate länger. Aber dann haben wir nichts mehr, wofür es sich lohnt.
+> 그럼 돈은 몇 달 더 버티겠지. 하지만 그럼 버틸 가치가 있는 게 하나도 안 남아.
+SEIDEL: Frau Dr. Brandt? Seidel hier, Spreewohnen. Ich habe gehört, dass in Berlin Gerüchte über Sie die Runde machen. Ich wollte Ihnen nur sagen: Unser Aufsichtsrat verlängert die Begleitung um ein weiteres Jahr. Einstimmig.
+> 브란트 박사님? 자이델입니다, 슈프레보넨. 베를린에서 박사님에 관한 소문이 돈다고 들었어요. 그냥 말씀드리고 싶었습니다. 저희 감사회는 점검 계약을 1년 더 연장합니다. 만장일치로요.
+KATHARINA: Herr Professor Seidel, das kommt im richtigen Moment.
+> 자이델 교수님, 딱 맞는 때에 오네요.
+SEIDEL: Deshalb rufe ich ja an. Wer einen Ausschuss überstanden hat, übersteht auch ein Gerücht.
+> 그래서 전화한 겁니다. 위원회를 견딘 사람은 소문도 견딥니다.
+PAUL: Kommen wir zur Kündigung. Ein Vertrag mit einem Bundesministerium wird von der Ministerin oder in ihrem Auftrag gekündigt. Hat Voss die Befugnis dazu, während er selbst im Bericht vorkommt?
+> 해지 얘기로 넘어가자. 연방 부처와의 계약은 장관이, 또는 장관의 위임으로 해지돼. 포스가 자기가 보고서에 나오는 상황에서 그럴 권한이 있을까?
+BRECHT: Formal ja, als Vertreter. Aber die Ministerin weiß davon nichts. Ich habe sie gerade in Oslo erreicht. Sie landet Donnerstagmittag und will Sie um fünfzehn Uhr sehen. Alle.
+> 형식적으로는 있어요, 대행자로서. 하지만 장관님은 이 일을 전혀 모르세요. 방금 오슬로에 계신 장관님과 통화했어요. 목요일 점심에 도착하시고, 오후 세 시에 여러분을 보고 싶어 하세요. 전원을요.
+TOBIAS: Bis Donnerstag sind es drei Tage.
+> 목요일까지 사흘이네.
+BRECHT: Und bis dahin gilt die Einstufung als Verschlusssache. Sie dürfen den Entwurf an niemanden weitergeben. Auch nicht an den Bundestag.
+> 그리고 그때까진 대외비 분류가 유효해요. 초안을 누구에게도 넘기면 안 됩니다. 연방의회에도요.
+KATHARINA: Das haben wir nicht vor. Wir haben ihn an genau sieben Stellen zur Stellungnahme geschickt, wie es sich gehört.
+> 그럴 생각 없어요. 원래 절차대로 정확히 일곱 곳에 의견 수렴용으로 보냈어요.
+SELIN: Und zwar sieben leicht unterschiedliche Fassungen.
+> 그것도 조금씩 다른 일곱 개 버전으로.
+TOBIAS: Wie bitte?
+> 뭐라고?
+SELIN: In jeder Fassung ist ein Satz auf Seite elf minimal anders formuliert. Einmal «darüber hinaus», einmal «ferner», einmal «zudem». Sonst ist alles identisch. Ich habe mir notiert, welche Fassung an wen ging.
+> 버전마다 11쪽의 한 문장을 아주 조금씩 다르게 썼어. 한 번은 'darüber hinaus', 한 번은 'ferner', 한 번은 'zudem'. 나머진 다 똑같아. 어느 버전이 누구한테 갔는지 적어 뒀어.
+PAUL: Eine Kanarienfalle. Selin, das hast du nicht beim Zoll gelernt.
+> 카나리아 덫이네. 셀린, 그건 관세청에서 배운 거 아니잖아.
+SELIN: Nein. Aus einem Krimi. Ich dachte, bei diesem Mandat schadet es nicht.
+> 아니. 추리소설에서. 이번 수임엔 해가 될 건 없겠다 싶었어.
+UTE: Ich lese auch Krimis. Aber ich hätte nie gedacht, dass man damit Ministerien prüft.
+> 나도 추리소설 읽어. 근데 그걸로 부처를 감사할 줄은 몰랐네.
+KATHARINA: Sieben Fassungen. An wen?
+> 일곱 버전. 누구한테?
+SELIN: Ministerin, Büro des Staatssekretärs, Vergabestelle, Hellweg, die Personalabteilung wegen der Drehtür-Fälle, die externe Gegenleserin und unsere eigene Akte.
+> 장관, 차관실, 조달 부서, Hellweg, 회전문 사안 때문에 인사과, 외부 교차 검토자, 그리고 우리 자체 파일.
+UTE: Und wofür soll das gut sein?
+> 그게 무슨 소용이야?
+SELIN: Für den Fall, dass eine dieser Fassungen irgendwo auftaucht, wo sie nicht hingehört.
+> 그 버전 중 하나가 있어선 안 될 곳에 나타날 경우를 위해서.
+
+## 갈등 — DAS MISSTRAUEN
+UTE: Telefon. Eine Frau Lindholm vom Tagesblatt. Dieselbe wie bei Spreewohnen. Sie sagt, es sei dringend.
+> 전화. 타게스블라트의 린트홀름이라는 여자. 슈프레보넨 때 그 기자. 급하대.
+KATHARINA: Ich gehe ran. — Brandt.
+> 내가 받을게. — 브란트입니다.
+LINDHOLM: Frau Dr. Brandt, Mareike Lindholm. Ich habe Teile Ihres Gutachtens zum Ministerium für Verwaltungsmodernisierung vorliegen. Elf Seiten. Darunter die Versionsgeschichte einer Bedarfsschätzung mit dem Benutzernamen eines Hellweg-Partners.
+> 브란트 박사님, 마레이케 린트홀름입니다. 행정현대화부에 관한 박사님 감사보고서의 일부를 갖고 있어요. 열한 쪽. 그중엔 Hellweg 파트너의 사용자명이 찍힌 수요 추정 문서의 버전 기록도 있고요.
+KATHARINA: Woher haben Sie das?
+> 그걸 어디서 구하셨어요?
+LINDHOLM: Das werde ich Ihnen nicht sagen. Ich schreibe morgen darüber. Ich möchte Ihnen die Gelegenheit zur Stellungnahme geben. Bestätigen Sie die Echtheit?
+> 그건 말씀드리지 않을 겁니다. 내일 기사를 씁니다. 박사님께 입장을 밝힐 기회를 드리고 싶어요. 진본임을 확인해 주시겠어요?
+KATHARINA: Ich kann zu einem Gutachten, das als Verschlusssache eingestuft wurde, nichts sagen. Ich rufe Sie in einer Stunde zurück.
+> 대외비로 분류된 보고서에 대해선 아무 말도 할 수 없어요. 한 시간 뒤에 다시 전화드릴게요.
+TOBIAS: Elf Seiten. Mit der Versionsgeschichte. Das ist das Herz des Berichts.
+> 열한 쪽. 버전 기록까지. 그건 보고서의 심장이야.
+PAUL: Und jetzt kann Voss sagen, die Kündigung sei berechtigt gewesen: Die Prüfer hätten ein vertrauliches Gutachten an die Presse gegeben.
+> 그리고 이제 포스는 해지가 정당했다고 말할 수 있겠지. 감사인들이 비밀 보고서를 언론에 넘겼다고.
+TOBIAS: Ute, du hast mit dieser Journalistin schon bei Spreewohnen gesprochen.
+> 우테, 너 슈프레보넨 때도 그 기자랑 얘기했잖아.
+UTE: Wie bitte?
+> 뭐라고?
+TOBIAS: Ich frage nur. Du hast das Protokoll vom Abendessen geschrieben. Du hast damals gesagt, du würdest dich gern zitieren lassen, mit Foto.
+> 그냥 묻는 거야. 넌 저녁 식사 기록을 썼고. 그때 사진이랑 같이면 인용돼도 좋다고 했었잖아.
+UTE: Das war ein Witz, Tobias. Ein Berliner Witz. Ich arbeite seit fast einem Jahr für euch, ich habe euch Termine besorgt, Brötchen geschmiert und Fernwärmerechnungen erklärt. Und du fragst mich, ob ich euch verrate?
+> 그건 농담이었어, 토비아스. 베를린식 농담. 나 거의 1년 동안 너희를 위해 일했어. 예약 잡아 주고, 샌드위치 싸고, 지역난방 청구서 설명해 주고. 그런데 내가 너희를 배신했냐고 묻는 거야?
+TOBIAS: Ich frage jeden. Auch mich selbst.
+> 난 모두한테 물어. 나 자신한테도.
+UTE: Und? Hast du dich gefragt?
+> 그래서? 너 자신한테 물어봤어?
+TOBIAS: Ja. Ich war es nicht. Aber das würde jeder sagen.
+> 응. 난 아니야. 근데 그건 누구나 할 말이지.
+PAUL: Dann frage ich auch. Selin, du hast immer gesagt, dass so etwas an die Öffentlichkeit gehört. Bei Spreewohnen, bei Vellmann, bei den Pflegeheimen.
+> 그럼 나도 묻지. 셀린, 넌 늘 이런 건 대중에게 알려져야 한다고 말했잖아. 슈프레보넨 때도, Vellmann 때도, 요양원 때도.
+SELIN: Paul. Das ist nicht dein Ernst.
+> 파울. 진심 아니지.
+PAUL: Ich habe vierzehn Jahre ermittelt. Die Leute, die etwas weitergeben, sind fast nie die Schurken. Es sind die, die glauben, das Richtige zu tun.
+> 난 14년을 수사했어. 뭔가를 흘리는 사람은 거의 악당이 아니야. 옳은 일을 한다고 믿는 사람들이지.
+SELIN: Und deshalb glaubst du, ich hätte es getan? Ich habe die Falle gebaut, Paul. Warum sollte ich eine Falle bauen und dann selbst hineinlaufen?
+> 그래서 내가 했다고 생각하는 거야? 덫을 만든 건 나야, 파울. 내가 왜 덫을 만들어 놓고 내 발로 들어가겠어?
+TOBIAS: Vielleicht, um sicher zu sein, dass es auf jemand anderen zeigt.
+> 어쩌면 다른 사람을 가리키게 하려고.
+SELIN: Tobias!
+> 토비아스!
+KATHARINA: Stopp. Alle. Hört mir zu.
+> 그만. 다들. 내 말 들어.
+KATHARINA: Wir haben gerade in fünf Minuten geschafft, was Voss und Hellweg in drei Wochen nicht geschafft haben. Wir zerlegen uns selbst. Genau das ist der Zweck einer Indiskretion. Nicht die Zeitung. Wir.
+> 우리 방금 5분 만에 포스와 Hellweg이 3주 동안 못 한 걸 해냈어. 우리 스스로를 무너뜨리고 있잖아. 그게 바로 유출의 목적이야. 신문이 아니라, 우리야.
+PAUL: Sie hat recht. Das ist das älteste Prinzip der Ermittlungsarbeit, und ich habe es gerade selbst vergessen: Wer ein Team zersetzen will, braucht keinen Beweis, nur einen Verdacht.
+> 카타리나 말이 맞아. 수사의 가장 오래된 원칙인데 방금 나도 잊었어. 팀을 무너뜨리려는 사람한텐 증거가 필요 없어. 의심 하나면 돼.
+TOBIAS: Und wenn es doch einer von uns war?
+> 그래도 우리 중 한 명이었다면?
+KATHARINA: Dann finden wir es heraus. Mit Selins Falle, nicht mit Verdächtigungen. Selin, welcher Satz auf Seite elf?
+> 그럼 찾아내면 돼. 의심이 아니라 셀린의 덫으로. 셀린, 11쪽의 어떤 문장이야?
+SELIN: Der Satz über die siebzehn Direktaufträge. «Darüber hinaus wurden siebzehn Aufträge außerhalb des Rahmenvertrags vergeben.» Jede Fassung hat ein anderes Bindewort.
+> 직접 발주 17건에 관한 문장. '그 밖에도 기본 계약 밖에서 17건의 계약이 발주되었다.' 버전마다 연결어가 달라.
+KATHARINA: Dann rufe ich Frau Lindholm zurück. Sie muss mir ihre Quelle nicht nennen. Sie muss mir nur einen Satz vorlesen.
+> 그럼 린트홀름 기자한테 다시 전화할게. 취재원을 밝힐 필요는 없어. 문장 하나만 읽어 주면 돼.
+LINDHOLM: Einen Satz? Frau Dr. Brandt, wenn ich Ihnen helfe, meine Quelle zu identifizieren, verletze ich den Quellenschutz.
+> 문장 하나요? 브란트 박사님, 제 취재원을 밝혀내는 걸 도우면 저는 취재원 보호를 어기게 됩니다.
+KATHARINA: Sie verletzen ihn nicht. Ich frage Sie nicht, wer es ist. Ich frage Sie, ob es einer von uns ist. Wenn ja, ziehe ich die Konsequenzen in meinem eigenen Haus. Wenn nein, wird morgen in Ihrem Artikel nicht stehen, dass die Prüfer es waren — weil Sie es dann besser wissen.
+> 어기는 게 아니에요. 누구냐고 묻는 게 아니라, 우리 중 한 명이냐고 묻는 거예요. 그렇다면 저는 제 회사 안에서 책임을 지울 거예요. 아니라면, 내일 기사에 감사인이 흘렸다고 쓰이진 않겠죠. 기자님이 더 잘 아실 테니까요.
+LINDHOLM: … Seite elf, zweiter Absatz: «Zudem wurden siebzehn Aufträge außerhalb des Rahmenvertrags vergeben.»
+> …11쪽, 둘째 단락. 'Zudem wurden siebzehn Aufträge außerhalb des Rahmenvertrags vergeben.'
+SELIN: «Zudem.» Das ist Fassung vier.
+> 'Zudem.' 그건 4번 버전이야.
+KATHARINA: Und Fassung vier ging an …?
+> 그리고 4번 버전은 누구한테…?
+SELIN: An das Büro des Staatssekretärs.
+> 차관실로.
+TOBIAS: Voss. Er kündigt uns wegen fehlender Unabhängigkeit, und die Indiskretion kommt aus seinem eigenen Vorzimmer.
+> 포스. 독립성 부족을 이유로 우리 계약을 해지해 놓고, 유출은 자기 비서실에서 나왔네.
+
+## 해결·설득 — FÜNFZEHN UHR, BÜRO DER MINISTERIN
+ALBRECHT: Ich bin seit drei Stunden zurück und habe in dieser Zeit erfahren, dass mein Staatssekretär in meiner Abwesenheit ein Gutachten eingestuft, einen Vertrag gekündigt und, wenn ich Frau Brecht richtig verstehe, selbst durchgestochen hat. Ich höre.
+> 돌아온 지 세 시간 됐는데, 그사이에 제 차관이 제가 없는 동안 보고서를 비밀로 분류하고, 계약을 해지하고, 브레히트 실장 말이 맞다면 직접 유출까지 했다는 걸 알게 됐네요. 말씀해 보세요.
+PAUL: Frau Ministerin, wir wissen nicht, wer im Büro des Staatssekretärs die Fassung weitergegeben hat. Wir wissen nur, dass es diese Fassung war und dass sie nur dorthin gegangen ist.
+> 장관님, 차관실에서 누가 그 버전을 넘겼는지는 모릅니다. 그 버전이었다는 것, 그리고 그 버전은 거기로만 갔다는 것만 압니다.
+ALBRECHT: Warum sollte jemand aus seinem Büro ein Gutachten an die Presse geben, das ihn belastet?
+> 차관실 사람이 왜 자기 상관에게 불리한 보고서를 언론에 넘기겠어요?
+KATHARINA: Dafür gibt es zwei Erklärungen, und wir können zwischen ihnen nicht entscheiden. Entweder wollte jemand dort, dass die Wahrheit herauskommt, bevor sie eingestuft verschwindet. Oder jemand wollte, dass es so aussieht, als hätten wir sie verraten — damit die Kündigung gerechtfertigt erscheint.
+> 거기엔 두 가지 설명이 있고, 저희는 둘 중 하나를 고를 수 없습니다. 거기 누군가가 진실이 비밀로 분류돼 사라지기 전에 밖으로 나오길 원했거나, 아니면 누군가 저희가 그걸 흘린 것처럼 보이게 해서 해지가 정당해 보이길 원했거나.
+ALBRECHT: Und welche halten Sie für wahrscheinlicher?
+> 어느 쪽이 더 그럴듯하다고 보세요?
+PAUL: Als Ermittler würde ich sagen: Das klärt Ihre Innenrevision, nicht wir. Wir haben keine Vermutungen in den Bericht geschrieben, und wir fangen jetzt nicht damit an.
+> 수사관으로서 말씀드리자면, 그건 장관님 내부 감사가 밝힐 일이지 저희 일이 아닙니다. 저희는 보고서에 추측을 쓰지 않았고, 지금 와서 시작하지도 않을 겁니다.
+ALBRECHT: Gut. Dann zu dem, was Sie wissen. Herr Dr. Voss sagt, das Gutachten müsse vertraulich bleiben, weil es Sicherheitsfragen berühre. Frau Dr. Brandt?
+> 좋아요. 그럼 아시는 것으로 넘어가죠. 포스 차관은 보고서가 보안 문제와 닿아 있으니 비밀로 남아야 한다고 해요. 브란트 박사님?
+KATHARINA: Frau Ministerin, Vertraulichkeit schützt Dinge, deren Bekanntwerden dem Staat schadet. Dieses Gutachten schützt sie nicht vor Schaden, sondern vor Kritik. Das ist ein Unterschied, den das Gesetz macht, nicht ich.
+> 장관님, 비밀 분류는 알려지면 국가에 해가 되는 것을 보호합니다. 이 보고서를 비밀로 하면 장관님을 해로부터가 아니라 비판으로부터 보호하는 거예요. 그 구별은 제가 아니라 법이 하는 겁니다.
+TOBIAS: Und rein praktisch: Jeder Bürger kann nach dem Informationsfreiheitsgesetz die Herausgabe beantragen. Der Haushaltsausschuss kann es anfordern, der Bundesrechnungshof auch. Und elf Seiten liegen schon bei einer Zeitung. Eingestuft ist das Gutachten nur noch für die, die es nicht lesen dürfen.
+> 그리고 아주 현실적으로 말씀드리면, 모든 시민이 정보공개법에 따라 공개를 청구할 수 있습니다. 예산위원회도, 연방 감사원도 요구할 수 있고요. 그리고 열한 쪽은 이미 신문사에 있습니다. 이 보고서는 이제 읽으면 안 되는 사람들한테만 비밀인 셈이죠.
+ALBRECHT: Sie wollen mir sagen, dass ich nur noch entscheiden kann, wie es herauskommt, nicht ob.
+> 그러니까 제가 이제 결정할 수 있는 건 '나오느냐'가 아니라 '어떻게 나오느냐'뿐이라는 거군요.
+KATHARINA: Genau das, Frau Ministerin.
+> 바로 그겁니다, 장관님.
+ALBRECHT: Und Ihr Vorschlag?
+> 그럼 제안은요?
+KATHARINA: Veröffentlichen Sie es. Vollständig, mit allen Stellungnahmen, auch der von Herrn Dr. Voss und der von Hellweg. Am besten bevor der Artikel erscheint, nicht danach. Wer veröffentlicht, gestaltet. Wer reagiert, verteidigt sich.
+> 공개하세요. 전부, 모든 의견서와 함께. 포스 차관 것도, Hellweg 것도요. 가능하면 기사가 나오기 전에, 나온 뒤가 아니라. 공개하는 쪽이 판을 짭니다. 대응하는 쪽은 방어할 뿐이고요.
+ALBRECHT: Und das Programm? Dreihundertzweiundsiebzig Millionen Beratung und zwei funktionierende Leistungen. Wenn ich das veröffentliche, steht morgen nicht Voss in der Zeitung, sondern mein Ministerium.
+> 사업은요? 컨설팅에 3억 7,200만, 작동하는 서비스 둘. 그걸 공개하면 내일 신문엔 포스가 아니라 제 부처가 실릴 거예요.
+PAUL: Es steht so oder so in der Zeitung, Frau Ministerin. Die Frage ist, ob neben Ihrem Ministerium auch steht, dass Sie es aufgeklärt haben.
+> 어느 쪽이든 신문엔 실립니다, 장관님. 문제는 장관님 부처 옆에 장관님이 그걸 밝혀냈다는 사실도 함께 실리느냐는 거죠.
+SELIN: Wir haben mit dem Gutachten auch Empfehlungen geschrieben. Alle laufenden Abrufe aus dem Rahmenvertrag stoppen. Neu ausschreiben, in kleineren Losen und mit Höchstmengen, die stimmen. Die Hälfte der externen Stellen in feste Stellen im Ministerium umwandeln. Und jede Drehtür-Personalie dem Bundesrechnungshof vorlegen.
+> 보고서엔 권고도 썼어요. 기본 계약상 진행 중인 모든 주문 중단. 더 작은 묶음으로, 맞는 최대 물량을 넣어 재입찰. 외부 인력 자리의 절반을 부처 정규직으로 전환. 그리고 회전문 인사 건은 전부 연방 감사원에 제출.
+ALBRECHT: Und Hellweg? Die fordern fünf Millionen Schadensersatz von Ihnen.
+> 그럼 Hellweg은요? 여러분한테 500만 유로 손해배상을 요구하던데요.
+KATHARINA: Das ist Hellwegs Recht. Ob Hellweg es nach einer Veröffentlichung noch wahrnehmen will, wenn darin der Benutzername ihres Partners in einer geänderten Bedarfsschätzung steht, wird Hellwegs Partnerversammlung entscheiden.
+> 그건 Hellweg의 권리죠. 자기네 파트너 사용자명이 수정된 수요 추정 문서에 찍혀 있는 보고서가 공개된 뒤에도 그 권리를 행사하고 싶을지는 Hellweg 파트너 총회가 정하겠죠.
+ALBRECHT: Frau Brecht, bitte rufen Sie Herrn Dr. Voss herein.
+> 브레히트 실장, 포스 차관 들어오라고 하세요.
+VOSS: Frau Ministerin.
+> 장관님.
+ALBRECHT: Herr Dr. Voss, die Einstufung des Gutachtens ist aufgehoben, die Kündigung zurückgenommen. Ich werde dem Bundespräsidenten vorschlagen, Sie in den einstweiligen Ruhestand zu versetzen. Die Innenrevision prüft, wie Fassung vier Ihres Büros zu einer Zeitung gekommen ist.
+> 포스 차관, 보고서의 비밀 분류는 해제하고, 계약 해지는 철회합니다. 연방 대통령께 차관을 일시 퇴직시키도록 제청하겠습니다. 차관실의 4번 버전이 어떻게 신문사로 갔는지는 내부 감사가 조사할 겁니다.
+VOSS: Sie machen einen Fehler. Ohne Hellweg steht dieses Programm still.
+> 실수하시는 겁니다. Hellweg 없이 이 사업은 멈춰요.
+ALBRECHT: Es steht seit drei Jahren still, Herr Dr. Voss. Mit Hellweg.
+> 3년째 멈춰 있어요, 포스 차관. Hellweg과 함께.
+VOSS: Ich habe acht Jahre für dieses Haus gearbeitet.
+> 저는 이 부처를 위해 8년을 일했습니다.
+ALBRECHT: Ich weiß. Das macht es nicht leichter. Frau Dr. Brandt, wann können Sie die Endfassung liefern?
+> 압니다. 그래서 더 어렵네요. 브란트 박사님, 최종본은 언제 주실 수 있어요?
+PAUL: Morgen früh um acht. Die Gegenleserin hat ihre Anmerkungen schon geschickt. Drei Kommafehler und ein Konjunktiv, der ein Indikativ sein sollte.
+> 내일 아침 여덟 시요. 교차 검토자가 이미 의견을 보냈어요. 쉼표 오류 셋, 그리고 직설법이어야 할 접속법 하나.
+ALBRECHT: Dann veröffentlichen wir um zehn. Vor dem Artikel.
+> 그럼 열 시에 공개하죠. 기사보다 먼저.
+BRECHT: Ich bereite die Pressemitteilung vor. Zwei Sätze, wie Sie es mögen.
+> 보도자료를 준비하겠습니다. 장관님이 좋아하시는 대로 두 문장으로요.
+
+## 마무리 — NICHTS WEITERGEGEBEN
+KATHARINA: Frau Lindholm? Brandt. Sie wollten eine Stellungnahme. Hier ist sie: Wir haben nichts weitergegeben. Aber wir nehmen auch nichts zurück. Das vollständige Gutachten veröffentlicht das Ministerium morgen um zehn Uhr. Alle Seiten, nicht nur elf.
+> 린트홀름 기자님? 브란트입니다. 입장을 원하셨죠. 여기 있습니다. 저희는 아무것도 넘기지 않았습니다. 하지만 아무것도 철회하지도 않습니다. 전체 보고서는 내일 오전 열 시에 부처가 공개합니다. 열한 쪽이 아니라 전부요.
+LINDHOLM: Dann schreibe ich meinen Artikel um. Danke, Frau Dr. Brandt. Und, nur damit Sie es wissen: Ich hätte morgen nicht geschrieben, dass Sie es waren.
+> 그럼 기사를 다시 쓰겠습니다. 감사합니다, 브란트 박사님. 그리고 알아 두시라고 말씀드리는데, 내일 기사에 박사님이 흘렸다고 쓰진 않았을 거예요.
+UTE: So. Und jetzt zu euch beiden.
+> 자. 이제 너희 둘 차례야.
+TOBIAS: Ute, es tut mir leid. Ich habe in Panik gerechnet und dabei das Wichtigste vergessen: dass man Menschen nicht wie Zahlen behandelt.
+> 우테, 미안해. 겁에 질려서 계산하느라 제일 중요한 걸 잊었어. 사람은 숫자처럼 다루면 안 된다는 거.
+UTE: Doch, Tobias, kannst du. Aber dann rechne richtig. Ein Jahr Brötchen, Termine und Wärmflaschen. Das ist meine Bilanz.
+> 다뤄도 돼, 토비아스. 근데 그럼 제대로 계산해. 1년 치 샌드위치, 예약, 보온 물주머니. 그게 내 대차대조표야.
+PAUL: Selin, ich auch. Ich habe vierzehn Jahre lang gelernt, jedem zu misstrauen. Das ist ein Werkzeug. Heute habe ich es gegen die falsche Person benutzt.
+> 셀린, 나도 미안해. 14년 동안 모두를 의심하는 법을 배웠어. 그건 도구야. 오늘 그걸 엉뚱한 사람한테 썼어.
+SELIN: Du hast das Werkzeug benutzt, und ich hatte die Falle gebaut. Am Ende hat beides funktioniert. Nur nicht in der Reihenfolge, die mir lieb gewesen wäre.
+> 넌 도구를 썼고 난 덫을 만들었어. 결국 둘 다 작동했지. 다만 내가 바랐던 순서는 아니었을 뿐이야.
+KATHARINA: Wir sind kein Team, weil wir uns nie misstrauen. Wir sind ein Team, weil wir es danach aussprechen.
+> 우리가 팀인 건 서로를 한 번도 의심하지 않아서가 아니야. 의심한 다음에 그걸 입 밖으로 꺼내기 때문이지.
+UTE: Schöner Satz. Schreib ihn auf das Schild an der Tür. Unter den Namen.
+> 좋은 말이네. 문 앞 간판에 써. 이름 밑에.
+SELIN: Das Schild ist voll, Ute. Da passt kaum noch die Klingel drauf.
+> 간판은 꽉 찼어, 우테. 초인종 붙일 자리도 겨우 남았어.
+TOBIAS: Morgen um zehn wird es veröffentlicht. Was meint ihr, was Lorenz dann tut?
+> 내일 열 시에 공개돼. 그때 로렌츠는 뭘 할 것 같아?
+KATHARINA: Was er immer tut. Er wird als Erster eine Erklärung abgeben. Die Frage ist nur, ob es diesmal seine letzte ist.
+> 늘 하던 대로 하겠지. 제일 먼저 성명을 낼 거야. 문제는 이번이 그의 마지막 성명이 되느냐는 것뿐이야.

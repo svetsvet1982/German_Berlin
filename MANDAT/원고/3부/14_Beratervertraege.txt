@@ -1,0 +1,266 @@
+part: 3
+ep: 14
+title_de: Beraterverträge
+title_ko: 컨설팅 계약
+scene: 모아비트 BWA 사무실, 밤샘 데이터 분석 → 잔다르멘마르크트의 레스토랑 → 다시 BWA 사무실, 자정 이후
+level: C1
+setting: 7월 말 목요일 저녁부터 금요일 새벽까지, 피자 상자가 쌓인 BWA 회의실과 잔다르멘마르크트의 오래된 레스토랑
+cast: KATHARINA | Dr. Katharina Brandt · BWA 대표 (41)
+cast: TOBIAS | Tobias Wendt · BWA 재무감사 총괄 (37)
+cast: SELIN | Selin Aydın · BWA 파트너, 데이터 포렌식 (29)
+cast: PAUL | Dr. Paul Asante · BWA 프랑크푸르트 지사장, 이번 수임 책임자 (45)
+cast: UTE | Ute Hennig · BWA 사무실 매니저 (61)
+cast: LORENZ | Jan-Hendrik Lorenz · Hellweg & Cie. 시니어 파트너 (60)
+cast: KELLNER | 레스토랑 종업원 (가상)
+note: ※ 공공 조달에서는 계약 금액이 EU 기준액(연방 부처의 용역은 약 14만 유로)을 넘으면 EU 전역 입찰이 의무입니다. 그 아래에서는 국내법상 더 간단한 절차가 허용되기 때문에, 하나의 일을 기준액 바로 밑의 여러 계약으로 쪼개는 '분할 발주(Stückelung)'는 대표적인 위반 유형입니다. 비교 견적을 형식적으로만 받거나, 수주 업체와 연관된 회사에서 받는 '가짜 경쟁'도 문제가 됩니다. 공무원이 퇴직 후 자신이 관리하던 업체로 옮기거나, 업체 직원이 공무원이 되는 '회전문(Drehtür)'은 이해충돌 우려를 낳으며, 독일 공무원법은 퇴직 후 일정 기간 관련 취업을 신고하도록 하고 있습니다. 감사에서는 하나의 사례가 아니라 반복되는 '패턴(Muster)'이 증거의 무게를 만듭니다. 등장 인물과 계약은 모두 가상입니다. 표현 초점: die Direktvergabe, der Schwellenwert, die Drehtür, das Muster, Du warst mal meine beste Beraterin. — Ich bin es immer noch. Nur nicht deine.
+next: 3부 15화 — «Das Gutachten»(감사보고서) — 부처는 보고서를 '내부용'으로 덮으려 한다. 계약 해지, 소송 위협, 다른 고객 이탈. 그러던 중 내용 일부가 언론에 유출되고, 팀은 서로를 의심한다.
+
+## 도입 — VIERHUNDERT VERTRÄGE
+UTE: Vier Familienpizzen, zwei Liter Cola, eine Thermoskanne Kaffee und ein Teller Obst, den niemand essen wird. Ihr habt bis Mitternacht. Danach schließe ich euch ein.
+> 패밀리 피자 네 판, 콜라 2리터, 커피 보온병 하나, 그리고 아무도 안 먹을 과일 한 접시. 자정까지야. 그다음엔 문 잠가 버릴 거야.
+SELIN: Ute, wir brauchen eher bis vier.
+> 우테, 우린 네 시까지는 필요해.
+UTE: Dann schließe ich euch eben um vier ein. Auch gut.
+> 그럼 네 시에 잠그지 뭐. 그것도 좋아.
+PAUL: Hellweg hat geliefert. Pünktlich am Montag, wie versprochen. Dazu kommen die Akten des Ministeriums zu allen sieben Beratungsfirmen. Insgesamt vierhundertzwölf Verträge, Abrufe, Nachträge und Leistungsnachweise.
+> Hellweg이 보냈어. 약속대로 월요일에 딱 맞춰서. 거기에 일곱 개 컨설팅 회사 전부에 대한 부처 서류가 더해져. 계약, 주문, 변경 계약, 이행 증빙 합쳐서 412건.
+TOBIAS: Vollständig?
+> 전부?
+PAUL: «Soweit vorhanden.» Bei siebzehn Abrufen fehlen die Leistungsnachweise. Begründung: «Archivierung nicht abgeschlossen».
+> '보유하고 있는 범위 내에서.' 주문 17건은 이행 증빙이 없어. 사유: '보관 처리 미완료'.
+KATHARINA: Und ich gehe um acht zum Abendessen.
+> 그리고 난 여덟 시에 저녁 먹으러 가.
+SELIN: Du musst nicht.
+> 안 가도 돼.
+KATHARINA: Ich weiß. Aber wenn ich nicht gehe, denkt er, ich hätte Angst. Und wenn ich gehe, denkt er, ich wäre neugierig. Beides stimmt ein bisschen.
+> 알아. 하지만 안 가면 그 사람은 내가 겁먹었다고 생각할 거고, 가면 내가 궁금해한다고 생각하겠지. 둘 다 조금씩은 맞아.
+PAUL: Dann geh neugierig. Aber erzähl nichts. Kein Wort über Zahlen, keine Reaktion auf Namen.
+> 그럼 궁금한 채로 가. 대신 아무 말도 하지 마. 숫자에 대해선 한마디도, 이름에 대해선 반응도 하지 말고.
+KATHARINA: Ich war zwölf Jahre bei ihm, Paul. Ich weiß, wie er Fragen stellt.
+> 그 사람 밑에서 12년 있었어, 파울. 그 사람이 어떻게 질문하는지 알아.
+TOBIAS: Eben. Und er weiß, wie du sie beantwortest.
+> 그러니까. 그리고 그 사람은 네가 어떻게 대답하는지 알지.
+
+## 분석 — MUSTER IN DER NACHT
+SELIN: Ich fange mit den siebzehn Direktaufträgen an, die außerhalb des Rahmenvertrags vergeben wurden. Zuerst die Beträge.
+> 기본 계약 밖에서 나간 직접 발주 17건부터 시작할게. 먼저 금액.
+PAUL: Lass mich raten.
+> 맞혀 볼게.
+SELIN: Zwölf der siebzehn liegen zwischen hundertachtundzwanzig- und hundertneununddreißigtausend Euro. Netto.
+> 17건 중 12건이 12만 8천에서 13만 9천 유로 사이야. 순액으로.
+TOBIAS: Knapp unter dem EU-Schwellenwert für Dienstleistungen der obersten Bundesbehörden. Der liegt bei rund hundertvierzigtausend.
+> 연방 최고 관청 용역에 대한 EU 기준액 바로 아래네. 기준액이 약 14만이니까.
+SELIN: Und jetzt die Gegenstände. «Portalarchitektur, Phase eins a.» «Portalarchitektur, Phase eins b.» «Portalarchitektur, Phase eins c.» Vergeben im Abstand von jeweils fünf Wochen. Zusammen vierhundertzehntausend Euro.
+> 이제 내용. '포털 아키텍처, 1a단계.' '포털 아키텍처, 1b단계.' '포털 아키텍처, 1c단계.' 각각 5주 간격으로 발주. 합계 41만 유로.
+PAUL: Ein Auftrag, in drei Teile geschnitten, damit keiner davon über die Schwelle kommt. Stückelung. Wenn es einmal vorkommt, kann es Zufall sein. Wenn es zwölfmal vorkommt, ist es ein Muster.
+> 계약 하나를 셋으로 잘라서 어느 것도 기준액을 넘지 않게 한 거야. 분할 발주. 한 번이면 우연일 수 있어. 열두 번이면 패턴이지.
+TOBIAS: Unterhalb der Schwelle braucht man keine europaweite Ausschreibung, aber Vergleichsangebote. Gibt es die?
+> 기준액 아래면 EU 입찰은 필요 없지만 비교 견적은 필요해. 그건 있어?
+SELIN: Ja. Bei jedem der zwölf Aufträge zwei Vergleichsangebote, jedes Mal teurer als Hellweg. Von zwei kleinen Firmen: «Datenwerk Nord» und «Kessner Digital Consulting».
+> 응. 12건 모두 비교 견적이 두 개씩 있어. 매번 Hellweg보다 비싸. 작은 회사 두 곳에서. '다텐베르크 노르트'랑 '케스너 디지털 컨설팅'.
+PAUL: Und wer sind die?
+> 그 회사들은 누구지?
+SELIN: Das habe ich in Hellwegs eigenen Leistungsnachweisen gefunden. Beide tauchen dort als Subunternehmer von Hellweg auf. In denselben Projekten.
+> Hellweg 자체 이행 증빙에서 찾았어. 둘 다 거기 Hellweg의 하도급 업체로 나와. 같은 프로젝트에서.
+TOBIAS: Hellweg holt sich also Vergleichsangebote von seinen eigenen Subunternehmern, die natürlich teurer sind, und gewinnt dann gegen sie.
+> 그러니까 Hellweg이 자기 하도급 업체한테서 당연히 더 비싼 비교 견적을 받아 오고, 그다음에 그들을 이긴다는 거네.
+PAUL: Ein Scheinwettbewerb. Auf dem Papier drei Angebote, in Wirklichkeit ein einziges, nur in drei verschiedenen Schriftarten.
+> 가짜 경쟁이지. 서류상으론 견적 셋, 실제로는 하나. 글꼴만 세 가지일 뿐.
+UTE: Ich bringe Kaffee. Und ich sage nur: Im Bezirksamt hatten wir mal einen Hausmeister, der hat die Angebote für Glühbirnen auch selbst geschrieben. Der wurde Abteilungsleiter.
+> 커피 갖다 줄게. 그리고 이 말만 할게. 우리 구청에도 전구 견적을 자기가 직접 쓰던 관리인이 있었어. 그 사람 과장 됐어.
+TOBIAS: Ute, ich glaube, du hast gerade das Fazit unseres Berichts formuliert.
+> 우테, 방금 네가 우리 보고서 결론을 써 준 것 같아.
+SELIN: Zweites Muster. Ich habe die Namen aller Personen, die in den Akten unterschreiben, abzeichnen oder in Bewertungskommissionen sitzen, mit öffentlichen Berufsprofilen abgeglichen.
+> 두 번째 패턴. 서류에 서명하거나, 결재하거나, 평가위원회에 앉은 모든 사람의 이름을 공개된 경력 프로필과 대조해 봤어.
+TOBIAS: Und?
+> 그래서?
+SELIN: Sieben Personen haben in den letzten drei Jahren die Seite gewechselt. Fünf ehemalige Beamte des Ministeriums arbeiten heute bei Hellweg, darunter der Mann aus der Bewertungskommission des Rahmenvertrags. Und zwei ehemalige Hellweg-Berater sind heute Referatsleiter im Ministerium.
+> 지난 3년 사이 일곱 명이 자리를 바꿨어. 부처 전직 공무원 다섯 명이 지금 Hellweg에서 일해. 기본 계약 평가위원회에 있던 그 남자도 포함해서. 그리고 전직 Hellweg 컨설턴트 두 명이 지금 부처 과장이야.
+PAUL: Und die zwei Referatsleiter?
+> 그 두 과장은?
+SELIN: Haben zusammen neunundzwanzig Abrufe an Hellweg sachlich richtig gezeichnet. Also bestätigt, dass die Leistung erbracht wurde und bezahlt werden kann.
+> 둘이 합쳐서 Hellweg 주문 29건에 '내용 확인' 서명을 했어. 그러니까 용역이 이행됐고 대금을 지급해도 된다고 확인한 거지.
+TOBIAS: Ehemalige Hellweg-Leute bestätigen die Leistungen von Hellweg. Eine Drehtür, die sich in beide Richtungen dreht.
+> 전직 Hellweg 사람들이 Hellweg의 용역을 확인해 준다. 양쪽으로 도는 회전문이네.
+PAUL: Ist der Wechsel angezeigt worden? Beamte müssen eine Beschäftigung nach dem Dienst, die mit ihrer früheren Tätigkeit zusammenhängt, anzeigen.
+> 그 이직은 신고됐어? 공무원은 퇴직 후 이전 업무와 관련된 취업을 신고해야 하잖아.
+SELIN: Bei drei von fünf liegt eine Anzeige vor. Alle drei wurden genehmigt, mit derselben Unterschrift. V.
+> 다섯 명 중 세 명은 신고서가 있어. 셋 다 승인됐고, 서명은 같아. V.
+TOBIAS: Und die anderen zwei?
+> 나머지 두 명은?
+SELIN: Haben nie etwas angezeigt. Einer davon ist der Mann aus der Bewertungskommission.
+> 아무것도 신고하지 않았어. 그중 한 명이 평가위원회에 있던 그 남자야.
+KATHARINA: Ich muss los. Es ist halb acht.
+> 나 가야 해. 일곱 시 반이야.
+TOBIAS: Viel Glück. Und denk daran: Er bestellt immer den Wein, bevor du dich hingesetzt hast. Damit du nicht mehr ablehnen kannst.
+> 행운을 빌어. 그리고 기억해. 그 사람은 늘 네가 앉기도 전에 와인을 주문해. 거절할 수 없게.
+KATHARINA: Ich weiß. Diesmal bestelle ich Wasser.
+> 알아. 이번엔 내가 물을 주문할 거야.
+PAUL: Drittes Muster, solange sie weg ist. Ich habe den Terminkalender des Staatssekretärs mit den Abrufdaten abgeglichen. Der Kalender ist für die Ministerin einsehbar, also auch für uns.
+> 카타리나가 없는 동안 세 번째 패턴. 차관 일정표를 주문 날짜와 대조해 봤어. 일정표는 장관이 열람할 수 있으니까 우리도 볼 수 있지.
+SELIN: Und?
+> 그래서?
+PAUL: Neunzehn Termine mit Jan-Hendrik Lorenz in zwei Jahren. Bei zwölf davon wurde innerhalb von zehn Tagen danach ein neuer Abruf an Hellweg freigegeben. Und einer am Tag nach dem Vermerk «Kontinuität sichern».
+> 2년 동안 얀헨드릭 로렌츠와의 약속이 19번. 그중 12번은 그 뒤 열흘 안에 Hellweg 신규 주문이 승인됐어. 그리고 한 번은 '연속성 확보' 메모 바로 다음 날이었고.
+TOBIAS: Das ist kein Beweis.
+> 그건 증거가 아니야.
+PAUL: Nein. Ein Kalender beweist, dass sich zwei Menschen getroffen haben. Nicht, was sie gesagt haben. Aber zwölf von neunzehn ist ein Muster, das man erklären muss.
+> 아니지. 일정표는 두 사람이 만났다는 걸 증명할 뿐이야. 무슨 말을 했는지는 아니고. 하지만 19번 중 12번은 설명이 필요한 패턴이야.
+SELIN: Dann haben wir jetzt vier Muster. Überschreitung des Rahmenvertrags, Stückelung, Scheinwettbewerb, Drehtür. Und ein fünftes, das wir noch nicht benennen können.
+> 그럼 이제 패턴이 네 개야. 기본 계약 초과, 분할 발주, 가짜 경쟁, 회전문. 그리고 아직 이름 붙일 수 없는 다섯 번째.
+
+## 갈등 — EIN TISCH AM GENDARMENMARKT
+LORENZ: Katharina. Du bist pünktlich. Das warst du immer. Ich habe uns einen Riesling bestellt, den von der Mosel, den du so mochtest.
+> 카타리나. 정시에 왔네. 넌 늘 그랬지. 리슬링 시켜 놨어. 네가 좋아하던 모젤 거.
+KATHARINA: Danke, Jan-Hendrik. Ich nehme ein Wasser.
+> 고마워요, 얀헨드릭. 저는 물 할게요.
+KELLNER: Still oder mit Kohlensäure?
+> 일반 물로 드릴까요, 탄산수로 드릴까요?
+KATHARINA: Still. Wie der Abend, hoffe ich.
+> 일반 물이요. 오늘 저녁처럼 조용하길 바라면서.
+LORENZ: Du bist dünner geworden. Die Selbstständigkeit bekommt dir nicht. Oder es ist dieser Asante. Er ist gut, das muss man ihm lassen. Er hat mich nichts gefragt und trotzdem alles erfahren, was er wollte.
+> 너 말랐다. 독립한 게 너한테 안 맞나 봐. 아니면 그 아산테 때문이거나. 실력은 좋더라, 그건 인정해야지. 나한테 아무것도 안 물었는데 원하는 건 다 알아 갔어.
+KATHARINA: Ich spreche heute nicht über das Mandat. Das habe ich dem Ministerium schriftlich zugesagt.
+> 오늘은 수임에 대해 얘기 안 해요. 부처에 서면으로 약속했어요.
+LORENZ: Natürlich nicht. Ich wollte dich nur sehen. Zwei Jahre, Katharina. Du hast mir nie gesagt, warum du an diesem Tag gegangen bist. Du hast es mir geschrieben, in drei Zeilen.
+> 물론이지. 그냥 보고 싶었어. 2년이야, 카타리나. 그날 왜 떠났는지 한 번도 말해 준 적이 없잖아. 세 줄짜리로 써서 보냈지.
+KATHARINA: Du wusstest, warum. Tobias hatte deinen Vertrag mit dem Fonds gefunden.
+> 이유는 알고 계셨잖아요. 토비아스가 그 펀드와 맺은 계약을 찾았으니까.
+LORENZ: Einen Beratervertrag, der in unserer Branche völlig üblich war. Ich habe nichts Illegales getan. Ich habe nur zwei Kunden gleichzeitig gedient.
+> 우리 업계에선 아주 흔한 자문 계약이었어. 불법적인 건 아무것도 안 했어. 동시에 두 고객을 섬겼을 뿐이지.
+KATHARINA: Einer davon war Konrad Ebersbach. Er hat dir vertraut.
+> 그중 한 명이 콘라트 에버스바흐였어요. 그분은 당신을 믿었고요.
+LORENZ: Und am Ende ist die Firma doch verkauft worden. An einen Fonds. Nur zwei Jahre später und ohne mich. Hat sich der Umweg gelohnt?
+> 그리고 결국 회사는 팔렸지. 펀드에. 2년 늦게, 나 없이. 그 우회로가 값어치 있었나?
+KATHARINA: Für die Belegschaft in Spandau, deren Arbeitsplätze jetzt fünf Jahre garantiert sind: ja.
+> 지금 5년간 일자리를 보장받은 슈판다우 직원들한텐요, 네.
+LORENZ: Immer noch dieselbe. Lass mich dir etwas sagen, ganz ohne Mandat. Die Verwaltung in diesem Land kann es nicht allein. Sie hat keine Leute, keine Methoden, keine Geschwindigkeit. Wenn wir nicht dort säßen, würde in diesem Ministerium gar nichts passieren.
+> 여전하구나. 수임과 상관없이 하나 말해 줄게. 이 나라 행정은 혼자 못 해. 사람도, 방법도, 속도도 없어. 우리가 거기 앉아 있지 않으면 그 부처에선 아무 일도 안 일어날 거야.
+KATHARINA: Es ist ja auch kaum etwas passiert. Aber darüber reden wir nicht.
+> 실제로 거의 아무 일도 안 일어났죠. 하지만 그 얘긴 안 하기로 했잖아요.
+LORENZ: Siehst du, das ist der Unterschied zwischen uns. Du glaubst, dass Regeln die Dinge besser machen. Ich glaube, dass Menschen es tun. Ich habe in diesem Haus Menschen gefunden, die etwas bewegen wollten, und ich habe ihnen geholfen.
+> 봐, 그게 우리 차이야. 너는 규칙이 일을 낫게 만든다고 믿어. 나는 사람이 그렇게 한다고 믿고. 난 그 부처에서 뭔가를 움직이고 싶어 하는 사람들을 찾았고, 그들을 도왔어.
+KATHARINA: Und einige davon arbeiten jetzt bei dir.
+> 그리고 그중 몇몇은 지금 당신 회사에서 일하고요.
+LORENZ: Gute Leute wechseln. Das ist nicht verboten. Du hast mir Tobias und Selin auch mitgenommen.
+> 좋은 사람들은 옮기지. 그건 금지된 게 아니야. 너도 나한테서 토비아스랑 셀린을 데려갔잖아.
+KATHARINA: Wir haben keine Abrufe an Hellweg abgezeichnet.
+> 우린 Hellweg 주문에 결재하지 않았어요.
+LORENZ: Ah. Das war jetzt doch über das Mandat, Katharina.
+> 아. 그건 결국 수임 얘기였네, 카타리나.
+KATHARINA: … Ja. Das war ein Fehler. Ich nehme ihn zurück.
+> …네. 실수였어요. 철회할게요.
+LORENZ: Man kann nichts zurücknehmen, was man einmal gesagt hat. Das habe ich dir beigebracht. — Hör zu. Ich bin sechzig. Die Partnerversammlung von Hellweg wartet nur darauf, dass ich einen Fehler mache. Wenn dieses Ministerium wegbricht, bin ich draußen.
+> 한 번 한 말은 철회할 수 없어. 내가 가르쳐 줬잖아. — 들어 봐. 나 예순이야. Hellweg 파트너 총회는 내가 실수하기만 기다리고 있어. 이 부처 계약이 무너지면 난 끝이야.
+KATHARINA: Warum erzählst du mir das?
+> 그걸 왜 저한테 말하세요?
+LORENZ: Weil ich dir ein Angebot machen will. Hellweg will in den nächsten zwei Jahren kleine, unabhängige Prüfungsfirmen übernehmen. Eine Prüfmarke unter unserem Dach, mit eurem Ruf und unserem Netzwerk. Für BWA wären das acht, vielleicht zehn Millionen. Ich könnte das vorschlagen.
+> 너한테 제안을 하나 하고 싶어서. Hellweg은 앞으로 2년 안에 작은 독립 감사 회사들을 인수하려고 해. 우리 지붕 아래 감사 브랜드 하나, 너희 평판에 우리 네트워크를 붙여서. BWA라면 800만, 어쩌면 1,000만. 내가 그걸 제안할 수 있어.
+KATHARINA: Während wir einen Auftrag prüfen, bei dem Hellweg zweihunderteinundvierzig Millionen bekommen hat.
+> 저희가 Hellweg이 2억 4,100만을 받은 계약을 감사하는 동안에요.
+LORENZ: Nach dem Auftrag natürlich. Ich bin ja nicht naiv.
+> 감사 끝나고 나서지, 물론. 내가 순진한 건 아니잖아.
+KATHARINA: Nein. Das warst du nie. Weißt du, was das ist, was du mir gerade anbietest? Es ist das, wovor ich meine Mitarbeiter jeden Tag warne.
+> 아니요. 한 번도 그런 적 없었죠. 지금 저한테 제안하는 게 뭔지 아세요? 제가 매일 직원들한테 조심하라고 경고하는 바로 그거예요.
+LORENZ: Du warst mal meine beste Beraterin, Katharina.
+> 넌 한때 내 최고의 컨설턴트였어, 카타리나.
+KATHARINA: Ich bin es immer noch. Nur nicht deine.
+> 지금도 그래요. 다만 당신 컨설턴트가 아닐 뿐이죠.
+LORENZ: … Das ist ein guter Satz. Den hast du vorbereitet.
+> …좋은 문장이네. 준비해 왔구나.
+KATHARINA: Nein, Jan-Hendrik. Den habe ich zwei Jahre lang gelebt.
+> 아니요, 얀헨드릭. 그건 2년 동안 살아 낸 문장이에요.
+LORENZ: Eins noch. Ganz ohne Mandat. Der Rahmenvertrag, die Abrufe, die Höchstgrenze — das war mit dem Haus abgestimmt. Voss wusste von Anfang an, dass achtzig Millionen nie reichen würden. Wir haben das gemeinsam so aufgesetzt, damit die Ausschreibung kleiner aussieht. Das ist Verwaltungspraxis.
+> 하나만 더. 수임과 전혀 상관없이. 기본 계약, 주문, 상한액, 그건 다 부처와 협의된 거야. 포스는 처음부터 8,000만으로는 절대 모자랄 걸 알았어. 입찰이 작아 보이게 우리가 같이 그렇게 짠 거야. 그게 행정 관행이야.
+KATHARINA: Warum sagst du mir das?
+> 그걸 왜 저한테 말하세요?
+LORENZ: Damit du weißt, dass du nicht nur Hellweg prüfst. Wenn ich falle, falle ich nicht allein.
+> 네가 Hellweg만 감사하는 게 아니라는 걸 알라고. 내가 떨어지면 혼자 떨어지지 않아.
+KATHARINA: Gute Nacht, Jan-Hendrik. Das Wasser bezahle ich selbst.
+> 안녕히 주무세요, 얀헨드릭. 물값은 제가 낼게요.
+KELLNER: Das Wasser geht aufs Haus, gnädige Frau. Herr Lorenz ist bei uns Stammgast.
+> 물값은 저희가 대접하겠습니다, 손님. 로렌츠 씨는 저희 단골이시거든요.
+
+## 해결·설득 — NACH MITTERNACHT
+UTE: Ich saß zwei Tische weiter. Mit Zeitung, richtig herum. Ich habe alles gehört. Ich habe sogar mitgeschrieben.
+> 나 두 테이블 건너에 앉아 있었어. 신문 똑바로 들고. 다 들었어. 받아 적기까지 했어.
+KATHARINA: Ute, das ist …
+> 우테, 그건…
+UTE: Kein Audit, ich weiß. Ich bin ja nur die Büromanagerin. Hier, mein Protokoll. Mit Uhrzeit.
+> 감사가 아니지, 알아. 난 그냥 사무실 매니저잖아. 여기, 내 기록. 시각까지 적었어.
+PAUL: Katharina, erzähl uns alles. In der Reihenfolge, in der es gesagt wurde.
+> 카타리나, 전부 얘기해 줘. 말한 순서대로.
+KATHARINA: Er hat mir ein Angebot gemacht. Hellweg will kleine Prüfungsfirmen kaufen, BWA für acht bis zehn Millionen. Nach dem Mandat, hat er gesagt.
+> 제안을 하더라. Hellweg이 작은 감사 회사들을 사들이려 한대. BWA는 800만에서 1,000만. 수임 끝난 다음에, 라고 했어.
+TOBIAS: Während des Mandats ein Angebot für die Zeit danach. Das ist der Versuch, die Prüfer zu beeinflussen. Ob er es so nennt oder nicht.
+> 수임 중에 그 이후를 위한 제안이라. 그 사람이 뭐라고 부르든 그건 감사인을 움직이려는 시도야.
+PAUL: Das melden wir der Ministerin. Schriftlich, noch heute Nacht. Und es kommt in den Bericht, in das Kapitel über unsere eigene Unabhängigkeit.
+> 장관한테 보고하자. 서면으로, 오늘 밤 안에. 그리고 보고서의 우리 독립성 장에 넣자.
+KATHARINA: Und ich habe einen Fehler gemacht. Ich habe einen Satz über die Abrufe gesagt. Er hat es sofort bemerkt.
+> 그리고 내가 실수를 했어. 주문에 관해 한 문장을 말했어. 그 사람이 바로 알아챘고.
+PAUL: Welchen Satz?
+> 무슨 문장?
+KATHARINA: «Wir haben keine Abrufe an Hellweg abgezeichnet.»
+> '우린 Hellweg 주문에 결재하지 않았어요.'
+PAUL: Das verrät nur, dass wir uns die Abrufe angesehen haben. Das weiß er ohnehin, seit wir die Leistungsnachweise verlangt haben. Schreib es ins Protokoll und vergiss es.
+> 그건 우리가 주문을 들여다봤다는 것만 드러낼 뿐이야. 그건 우리가 이행 증빙을 요구한 순간부터 그 사람도 알았어. 기록에 적고 잊어버려.
+KATHARINA: Und dann hat er etwas gesagt, das wichtiger ist als alles andere. Dass der Höchstwert von achtzig Millionen mit Voss abgestimmt war. Dass beide von Anfang an wussten, dass er nie reichen würde. Damit die Ausschreibung kleiner aussieht.
+> 그리고 다른 무엇보다 중요한 말을 했어. 8,000만 상한액이 포스와 협의된 거였다고. 둘 다 처음부터 그게 절대 모자랄 걸 알았다고. 입찰이 작아 보이게.
+SELIN: Dann war die Überschreitung kein Versehen, sondern geplant. Schon bei der Ausschreibung.
+> 그럼 초과는 실수가 아니라 계획된 거네. 이미 입찰 때부터.
+PAUL: Wenn es stimmt. Eine Aussage beim Abendessen, ohne Zeugen, ohne Protokoll …
+> 그게 사실이라면. 증인도 기록도 없는 저녁 식사 자리의 발언이니까…
+UTE: Mit Protokoll. Einundzwanzig Uhr siebenundvierzig. Ich habe es wörtlich.
+> 기록 있어. 21시 47분. 글자 그대로 적었어.
+PAUL: Mit Protokoll einer Büromanagerin am Nebentisch. Vor Gericht wäre das schwach. Für uns ist es ein Hinweis, wo wir suchen müssen.
+> 옆 테이블 사무실 매니저의 기록이지. 법정에서라면 약해. 우리한텐 어디를 찾아봐야 할지 알려 주는 단서고.
+TOBIAS: Wir haben die Vergabeakte des Rahmenvertrags. Wenn die Höchstgrenze bewusst zu niedrig angesetzt wurde, muss es eine Bedarfsschätzung geben, die mehr als achtzig Millionen ausweist.
+> 우리한텐 기본 계약 조달 서류가 있어. 상한을 일부러 낮게 잡았다면, 8,000만보다 많이 잡은 수요 추정이 어딘가 있어야 해.
+SELIN: Ich suche. — Bedarfsschätzung, Anlage drei zur Vergabeakte. Gesamtbedarf … achtzig Millionen. Datei zuletzt geändert sechs Tage vor Veröffentlichung der Ausschreibung.
+> 찾아볼게. — 수요 추정, 조달 서류 부록 3. 총수요… 8,000만. 파일 최종 수정은 입찰 공고 엿새 전.
+TOBIAS: Und die Fassung davor?
+> 그 이전 버전은?
+SELIN: Das Dokumentensystem des Ministeriums speichert Versionen. Moment. — Version zwei, drei Wochen früher: Gesamtbedarf zweihundertdreißig Millionen Euro.
+> 부처 문서 시스템은 버전을 저장해. 잠깐만. — 버전 2, 3주 전. 총수요 2억 3천만 유로.
+PAUL: Zweihundertdreißig. Und in der Ausschreibung achtzig.
+> 2억 3천만. 그런데 입찰 공고엔 8,000만.
+SELIN: Und es gibt noch etwas. Ich habe mir die Metadaten von Version drei angesehen, der mit den achtzig Millionen. Autor der Änderung ist kein Beamter. Der Benutzername lautet «ext_hellweg_jhlorenz».
+> 그리고 하나 더 있어. 8,000만이 적힌 버전 3의 메타데이터를 봤어. 수정한 사람이 공무원이 아니야. 사용자명이 'ext_hellweg_jhlorenz'야.
+TOBIAS: Lorenz hat die Bedarfsschätzung für eine Ausschreibung geändert, an der er selbst teilgenommen hat.
+> 로렌츠가 자기가 응찰한 입찰의 수요 추정을 직접 고친 거네.
+PAUL: Mit einem externen Zugang zum Dokumentensystem des Ministeriums. Das ist das fünfte Muster, Selin. Jetzt hat es einen Namen.
+> 부처 문서 시스템의 외부 계정으로. 그게 다섯 번째 패턴이야, 셀린. 이제 이름이 생겼네.
+KATHARINA: Und den Namen schreibe ich nicht. Paul, das ist dein Kapitel.
+> 그리고 그 이름은 내가 쓰지 않아. 파울, 그건 네 장이야.
+PAUL: Ich schreibe es. Nüchtern, im Konjunktiv, wo wir nur Aussagen haben, und im Indikativ, wo wir Dateien haben. Und das hier ist eine Datei.
+> 내가 쓸게. 담담하게. 진술만 있는 곳은 접속법으로, 파일이 있는 곳은 직설법으로. 그리고 이건 파일이야.
+TOBIAS: Und Voss? Seine handschriftliche Notiz, die Version mit zweihundertdreißig Millionen, die Termine mit Lorenz?
+> 그럼 포스는? 손글씨 메모, 2억 3천만이 적힌 버전, 로렌츠와의 약속들은?
+PAUL: Er bekommt im Bericht dasselbe wie alle: Feststellungen, Belege und das Recht auf Stellungnahme. Was er wusste, soll er selbst erklären. Vielleicht kann er es ja.
+> 보고서에서 다른 모두와 똑같이 다룰 거야. 발견 사항, 증거, 그리고 의견을 낼 권리. 무엇을 알았는지는 본인이 설명해야지. 혹시 설명할 수 있을지도 모르고.
+
+## 마무리 — VIER UHR MORGENS
+UTE: Vier Uhr. Ich schließe euch jetzt ein. Oder aus. Ihr könnt es euch aussuchen.
+> 네 시야. 이제 문 잠근다. 안에서든 밖에서든. 골라.
+SELIN: Wir sind fertig. Fünf Muster, vierhundertzwölf Dokumente, eine Versionsgeschichte.
+> 우리 끝났어. 패턴 다섯 개, 문서 412건, 버전 기록 하나.
+TOBIAS: Und eine Pizza, die niemand gegessen hat. Die mit Ananas.
+> 그리고 아무도 안 먹은 피자 한 판. 파인애플 들어간 거.
+UTE: Die war für Lorenz. Falls er vorbeikommt.
+> 그건 로렌츠 거였어. 혹시 들를까 봐.
+KATHARINA: Paul. Danke, dass du das Kapitel übernimmst.
+> 파울. 그 장을 맡아 줘서 고마워.
+PAUL: Danke, dass du es mir gibst. Ich weiß, wie schwer das für dich ist.
+> 나한테 맡겨 줘서 고마워. 너한테 그게 얼마나 어려운지 알아.
+KATHARINA: Weißt du, was das Schlimmste war, heute Abend? Nicht das Angebot. Sondern dass ich für einen Moment wieder sechsundzwanzig war und wollte, dass er stolz auf mich ist.
+> 오늘 밤 제일 힘들었던 게 뭔지 알아? 그 제안이 아니었어. 한순간 다시 스물여섯 살이 돼서, 그 사람이 나를 자랑스러워하길 바랐다는 거야.
+SELIN: Und?
+> 그래서?
+KATHARINA: Dann habe ich das Wasser bezahlt und bin gegangen.
+> 그래서 물값을 내고 나왔지.
+PAUL: Der Entwurf geht morgen früh an die Ministerin, zur Stellungnahme an alle Beteiligten, auch an Hellweg und an den Staatssekretär. Zehn Tage Frist.
+> 초안은 내일 아침 장관한테 가. 의견 수렴용으로 모든 관계자한테도. Hellweg과 차관한테도. 기한은 열흘.
+TOBIAS: Zehn Tage. Was glaubst du, was Voss in zehn Tagen tut?
+> 열흘이라. 포스가 열흘 동안 뭘 할 것 같아?
+KATHARINA: Er wird versuchen, den Bericht für vertraulich zu erklären. «Nur für den Dienstgebrauch.» Und dann wird ihn niemand je lesen.
+> 보고서를 비밀로 지정하려 하겠지. '대외비.' 그러면 아무도 그걸 읽지 못하게 될 거고.

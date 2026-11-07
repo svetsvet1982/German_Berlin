@@ -1,0 +1,268 @@
+part: 2
+ep: 8
+title_de: Tarifrunde
+title_ko: 임금협상
+scene: 경고파업과 밤샘 협상, 프랑크푸르트 사용자단체 회의실
+level: B2
+setting: 3월 둘째 주 목요일 오전 여섯 시부터 금요일 새벽 다섯 시까지, 하나우 공장 정문(경고파업) → 프랑크푸르트 금속·전기산업 사용자단체 회의실
+cast: KATHARINA | Dr. Katharina Brandt · CEO (39)
+cast: TOBIAS | Tobias Wendt · CFO, 라이프치히 출신 (35)
+cast: SELIN | Selin Aydın · 전환사무국장 (27)
+cast: SATTLER | Hans-Georg Sattler · 생산 담당 이사(COO) (61)
+cast: KRÖGER | Matthias Kröger · 슈판다우 노동자평의회 의장, 노조 교섭위원 (52)
+cast: HENSCHEL | Dagmar Henschel · IG Metall 지역본부 교섭 대표 (57)
+cast: LINDNER | Petra Lindner · 하나우 노동자평의회 의장, 노조 교섭위원 (55)
+cast: BREHM | Dr. Ulrich Brehm · 사용자단체 소속 노동법 변호사 (가상)
+cast: YILDIZ | Ömer Yıldız · 하나우 열처리 교대조장
+note: ※ 독일의 임금과 근로시간은 노동조합과 사용자(단체)가 맺는 단체협약(Tarifvertrag)으로 정합니다. 금속·전기산업에서는 IG Metall이 지역별로 산별 협약을 맺고, 개별 기업은 이를 보완하는 사내 협약(Haustarifvertrag)을 따로 맺기도 합니다. 협약 기간에는 파업을 할 수 없는 '평화 의무(Friedenspflicht)'가 있고, 협약이 만료되면 노조는 몇 시간짜리 경고파업(Warnstreik)으로 압박할 수 있습니다. 무기한 파업을 하려면 IG Metall 규약상 조합원 투표(Urabstimmung)에서 75퍼센트 이상이 찬성해야 합니다. 1993년 폭스바겐은 대량 해고 대신 주4일제(주 28.8시간)를 도입해 일자리를 지킨 사례로 유명하며, 최근 금속산업 협약에는 추가 수당을 휴가일로 바꿔 쓸 수 있는 선택 모델도 있습니다. 표현 초점: der Tarifvertrag, der Warnstreik, die Arbeitszeit, die Einigung, Das ist mein letztes Angebot — für heute Nacht.
+next: 2부 9화 — «Drei Uhr nachts»(새벽 세 시) — 랜섬웨어가 모든 공장의 시스템을 암호화한다. 해커는 비트코인을 요구하고, 경찰·연방정보보안청(BSI)·보험사·고객사가 한꺼번에 전화를 건다. 몸값을 낼 것인가 — 위기 소통의 교과서가 시작된다.
+
+## 도입 — WERKSTOR HANAU, SECHS UHR
+YILDIZ: Frau Dr. Brandt! Sie hier? Um sechs Uhr früh, am Streiktag?
+> 브란트 박사님! 여기 계세요? 파업하는 날 새벽 여섯 시에?
+KATHARINA: Guten Morgen, Herr Yıldız. Ich habe Ihnen gesagt, ich meine alles ernst, was ich vor neun Uhr sage. Ich habe Kaffee mitgebracht. Für alle, die frieren.
+> 안녕하세요, 이을드즈 씨. 아홉 시 전에 하는 말은 다 진심이라고 했잖아요. 커피 가져왔어요. 추운 분들 드시라고.
+YILDIZ: Sie bringen Streikenden Kaffee? Das hat Herr Ebersbach in dreißig Jahren nicht gemacht.
+> 파업하는 사람들한테 커피를 갖다줘요? 에버스바흐 회장님은 30년 동안 한 번도 안 하셨는데.
+LINDNER: Nehmen Sie ihn ruhig, Ömer. Ein Warnstreik ist kein Krieg. Nur eine Erinnerung.
+> 받아요, 외메르. 경고파업은 전쟁이 아니에요. 그냥 상기시키는 거죠.
+KATHARINA: Woran erinnern Sie mich, Frau Lindner?
+> 저한테 뭘 상기시키시는 건데요, 린드너 씨?
+LINDNER: Daran, dass der Tarifvertrag seit zwei Wochen ausgelaufen ist und die Friedenspflicht vorbei. Und dass dreitausend Leute in Hanau und Spandau heute vier Stunden lang nichts produzieren.
+> 단체협약이 2주 전에 만료됐고 평화 의무도 끝났다는 거요. 그리고 오늘 하나우와 슈판다우에서 3,000명이 네 시간 동안 아무것도 생산하지 않는다는 거요.
+TOBIAS: Vier Stunden Warnstreik kosten uns rund eins Komma zwei Millionen Euro an Produktion. Nur damit ich es einmal laut gesagt habe.
+> 네 시간 경고파업이면 생산 손실이 약 120만 유로예요. 그냥 한 번 소리 내서 말해 두는 거예요.
+YILDIZ: Und sechs Prozent mehr Lohn kosten Sie wie viel?
+> 그럼 임금 6퍼센트 올리면 얼마 드는데요?
+TOBIAS: Fast fünfundzwanzig Millionen im Jahr, Herr Yıldız. Das ist ungefähr ein Viertel unseres Betriebsergebnisses.
+> 연간 거의 2,500만이요, 이을드즈 씨. 우리 영업 이익의 4분의 1쯤 되죠.
+YILDIZ: Dann sind wir uns ja einig, dass wir uns nicht einig sind.
+> 그럼 우리가 합의하지 않는다는 데는 합의한 거네요.
+LINDNER: Heute um drei in Frankfurt. Frau Henschel von der Bezirksleitung führt die Verhandlung. Und Matthias kommt aus Berlin.
+> 오늘 세 시, 프랑크푸르트에서요. 지역본부의 헨셸 씨가 협상을 이끌어요. 그리고 마티아스가 베를린에서 와요.
+KATHARINA: Dann wird es eine lange Nacht. Die Frage ist nur, ob am Ende ein Vertrag steht — oder ein Streik.
+> 그럼 긴 밤이 되겠네요. 문제는 끝에 남는 게 협약이냐 — 파업이냐죠.
+
+## 분석 — DIE FORDERUNG
+HENSCHEL: Guten Tag. Dagmar Henschel, IG Metall. Ich komme gleich zur Sache. Unsere Forderung: sechs Prozent mehr Entgelt bei zwölf Monaten Laufzeit.
+> 안녕하세요. IG Metall의 다그마르 헨셸입니다. 바로 본론으로 가겠습니다. 우리 요구는 계약 기간 12개월에 임금 6퍼센트 인상입니다.
+HENSCHEL: Und zweitens das Recht für jeden Beschäftigten, auf eine Vier-Tage-Woche mit zweiunddreißig Stunden zu gehen — mit Teillohnausgleich.
+> 그리고 둘째, 모든 직원이 주 32시간의 주4일제를 선택할 권리. 임금 일부 보전과 함께.
+BREHM: Ulrich Brehm, ich berate die Arbeitgeberseite. Frau Henschel, Sie wissen, dass Ebersbach gerade von einer Landesbürgschaft lebt.
+> 울리히 브렘입니다. 사용자 측을 자문하고 있습니다. 헨셸 씨, 에버스바흐가 지금 주 정부 보증으로 버티고 있다는 거 아시잖습니까.
+HENSCHEL: Ich weiß auch, dass der Vorstand die Gehälter um zwanzig Prozent gekürzt hat. Das war ein gutes Signal. Aber Signale bezahlen keine Miete.
+> 이사회가 급여를 20퍼센트 삭감했다는 것도 압니다. 좋은 신호였죠. 하지만 신호가 월세를 내 주진 않아요.
+TOBIAS: Dann reden wir über Miete. Unsere Personalkosten für die Tarifbeschäftigten liegen bei rund vierhundertzehn Millionen Euro im Jahr. Jedes Prozent kostet uns also gut vier Millionen.
+> 그럼 월세 얘기를 하죠. 단체협약 적용 직원 인건비가 연간 약 4억 1,000만 유로입니다. 1퍼센트마다 400만이 조금 넘게 드는 거죠.
+TOBIAS: Unser EBITDA wird dieses Jahr bei etwa fünfundneunzig Millionen liegen. Davon gehen Zinsen ab, Investitionen, die Tilgung ab nächstem Jahr. Sechs Prozent wären das Ende des Sanierungsplans.
+> 올해 EBITDA는 9,500만 정도 될 겁니다. 거기서 이자, 투자, 내년부터 상환금이 빠지죠. 6퍼센트면 구조조정 계획은 끝입니다.
+HENSCHEL: Und was bieten Sie?
+> 그럼 뭘 제시하시죠?
+TOBIAS: Zwei Prozent, vierundzwanzig Monate Laufzeit, die ersten sechs Monate ohne Erhöhung.
+> 2퍼센트, 계약 기간 24개월, 첫 6개월은 인상 없음.
+KRÖGER: Zwei Prozent auf zwei Jahre. Das ist bei der Inflation eine Lohnkürzung. Das sage ich euch in Spandau genauso wie hier.
+> 2년에 2퍼센트라. 물가 생각하면 그건 임금 삭감이에요. 슈판다우에서나 여기서나 똑같이 말할 겁니다.
+KATHARINA: Herr Kröger, Sie sind schon da. Ich dachte, Sie kommen mit dem Zug.
+> 크뢰거 씨, 벌써 오셨네요. 기차로 오시는 줄 알았는데.
+KRÖGER: Ich bin mit dem Zug gekommen. Der war nur ausnahmsweise pünktlich. Das nehme ich als Zeichen.
+> 기차로 왔죠. 웬일로 정시에 도착하더라고요. 좋은 징조로 받아들이죠.
+HENSCHEL: Und weil wir gerade bei Zeichen sind: Heute haben an beiden Standorten über dreitausend Kolleginnen und Kollegen die Arbeit niedergelegt. Das ist die höchste Beteiligung an einem Warnstreik bei Ebersbach seit zwanzig Jahren.
+> 그리고 징조 얘기가 나왔으니 말인데, 오늘 두 사업장에서 3,000명이 넘는 동료들이 일손을 놓았어요. 에버스바흐 경고파업 참가율로는 20년 만에 최고예요.
+KATHARINA: Ich war heute früh am Tor in Hanau. Ich habe es gesehen.
+> 오늘 아침 하나우 정문에 있었어요. 봤습니다.
+HENSCHEL: Ich weiß. Mit Kaffee. Das hat sich bis Berlin herumgesprochen. An der Forderung ändert es trotzdem nichts.
+> 알아요. 커피 들고요. 베를린까지 소문났어요. 그래도 요구 사항은 바뀌지 않습니다.
+KATHARINA: Das sollte es auch nicht. Es war Kaffee, kein Angebot.
+> 바뀌어서도 안 되죠. 그건 커피였지, 제안이 아니었으니까요.
+SATTLER: Bevor wir über Prozente reden: Die Vier-Tage-Woche ist in einem Dreischichtbetrieb nicht planbar. Ich kann nicht jedem Einzelnen erlauben, sich seine Woche auszusuchen.
+> 퍼센트 얘기하기 전에요. 3교대 공장에서 주4일제는 계획이 불가능합니다. 개개인이 자기 주를 마음대로 고르게 할 순 없어요.
+KRÖGER: Herr Sattler, VW hat das neunzehnhundertdreiundneunzig geschafft. Mit hunderttausend Leuten. Achtundzwanzig Komma acht Stunden, vier Tage. Damit haben sie dreißigtausend Arbeitsplätze gerettet.
+> 자틀러 이사님, 폭스바겐은 1993년에 해냈어요. 10만 명을 데리고. 주 28.8시간, 나흘. 그걸로 일자리 3만 개를 지켰죠.
+SATTLER: Und zehn Jahre später haben sie es wieder abgeschafft.
+> 그리고 10년 뒤에 다시 없앴죠.
+KRÖGER: Weil die Krise vorbei war. Das ist der Sinn der Sache. Unsere Hallen sind zu fünfundfünfzig Prozent ausgelastet. Lieber alle arbeiten weniger als hundert arbeiten gar nicht mehr.
+> 위기가 끝났으니까요. 그게 핵심이에요. 우리 공장 가동률이 55퍼센트예요. 100명이 아예 일을 못 하게 되느니 다 같이 덜 일하는 게 낫죠.
+TOBIAS: Dafür haben wir die Kurzarbeit vereinbart. Die zahlt zu einem großen Teil die Bundesagentur. Eine tarifliche Vier-Tage-Woche zahlen wir allein — und zwar dauerhaft.
+> 그래서 단축근무를 합의한 거잖습니까. 그건 상당 부분 연방고용청이 부담하죠. 단체협약상 주4일제는 우리가 혼자, 그것도 영구적으로 부담하는 겁니다.
+HENSCHEL: Kurzarbeit ist befristet, Herr Wendt. Die Krise in Ihrer Branche nicht.
+> 단축근무엔 기한이 있죠, 벤트 이사님. 이 업계의 위기엔 기한이 없고요.
+SELIN: Darf ich Zahlen aus unserer Umfrage beisteuern? Wir haben im Februar gefragt, wer seine Arbeitszeit reduzieren würde, wenn er dafür einen Teil des Lohns verliert.
+> 우리 설문 결과를 보태도 될까요? 2월에 임금 일부를 포기하더라도 근로시간을 줄이겠느냐고 물어봤어요.
+HENSCHEL: Und?
+> 그래서요?
+SELIN: Achtunddreißig Prozent sagen Ja. Vor allem Schichtarbeiter über fünfzig, Eltern mit kleinen Kindern und Leute, die Angehörige pflegen. Bei den Jüngeren ohne Kinder sind es nur zwölf Prozent.
+> 38퍼센트가 그렇다고 했어요. 특히 50세 이상 교대 근무자, 어린 자녀를 둔 부모, 가족을 돌보는 사람들이요. 자녀 없는 젊은 층은 12퍼센트뿐이고요.
+KRÖGER: Achtunddreißig Prozent. Da sehen Sie es.
+> 38퍼센트. 보세요.
+SELIN: Und zweiundsechzig Prozent sagen Nein. Die wollen lieber mehr Geld als mehr Freizeit.
+> 그리고 62퍼센트는 아니라고 했어요. 그 사람들은 시간보다 돈을 원해요.
+BREHM: Mit anderen Worten: Die Belegschaft will beides, nur nicht dieselben Leute.
+> 다시 말해, 직원들은 둘 다 원하는데, 같은 사람들이 원하는 건 아니라는 거군요.
+SELIN: Genau. Eine Lösung für alle passt für niemanden.
+> 맞아요. 모두를 위한 하나의 해법은 아무에게도 안 맞아요.
+LINDNER: Das sagen wir doch seit Jahren. Die Leute brauchen eine Wahl, nicht eine Vorschrift.
+> 우리가 몇 년째 하는 말이 그거예요. 사람들에겐 규정이 아니라 선택이 필요하다고.
+TOBIAS: Eine Wahl, die bezahlt werden muss.
+> 돈을 내야 하는 선택이죠.
+HENSCHEL: Herr Wendt, bezahlt wird immer. Die Frage ist, von wem. Wenn ihr in einem Jahr dreihundert Leute entlasst, zahlen die.
+> 벤트 이사님, 대가는 늘 누군가 치르죠. 문제는 누가 치르느냐예요. 1년 뒤에 300명을 해고하면 그 사람들이 치르는 거고요.
+KATHARINA: Frau Henschel, ich schlage vor, dass wir die beiden Fragen trennen. Erst die Arbeitszeit, dann das Geld. Sonst blockiert das eine das andere.
+> 헨셸 씨, 두 문제를 분리하자고 제안합니다. 먼저 근로시간, 그다음에 돈. 아니면 하나가 다른 하나를 막을 거예요.
+HENSCHEL: Einverstanden. Aber ich warne Sie: Ohne Bewegung beim Geld gibt es keine Einigung bei der Zeit.
+> 좋습니다. 하지만 경고하는데, 돈에서 움직임이 없으면 시간에서도 합의는 없어요.
+
+## 갈등 — ZEHN UHR ABENDS
+BREHM: Zehn Uhr. Wir drehen uns seit sieben Stunden im Kreis. Ich schlage vor, wir vertagen auf nächste Woche.
+> 열 시입니다. 일곱 시간째 제자리를 맴돌고 있어요. 다음 주로 연기하자고 제안합니다.
+HENSCHEL: Wenn wir heute vertagen, rufe ich morgen die Tarifkommission zusammen. Und nächste Woche gibt es keinen Warnstreik mehr, sondern einen Antrag auf Urabstimmung.
+> 오늘 연기하면 내일 교섭위원회를 소집하겠습니다. 그리고 다음 주엔 경고파업이 아니라 조합원 투표 신청이 나올 거예요.
+SATTLER: Urabstimmung. Sie wollen einen unbefristeten Streik? In dieser Lage?
+> 조합원 투표요? 무기한 파업을 하겠다는 겁니까? 이 상황에서?
+HENSCHEL: Ich will gar nichts. Aber wenn fünfundsiebzig Prozent unserer Mitglieder dafür stimmen, kann ich es nicht verhindern. Und ich verspreche Ihnen: Die Stimmung reicht dafür.
+> 저는 아무것도 원하지 않아요. 하지만 조합원 75퍼센트가 찬성하면 저도 막을 수 없어요. 그리고 장담하는데, 지금 분위기면 충분히 나옵니다.
+TOBIAS: Ein unbefristeter Streik kostet uns sechs Millionen pro Woche. Nach drei Wochen kündigen die Banken den Kredit, und das Land zieht die Bürgschaft zurück. Dann streiken Sie vor einem leeren Werk.
+> 무기한 파업이면 주당 600만이 손실입니다. 3주가 지나면 은행은 대출을 회수하고 주 정부는 보증을 철회하죠. 그러면 텅 빈 공장 앞에서 파업하시게 될 겁니다.
+KRÖGER: Das ist Erpressung.
+> 그건 협박이에요.
+TOBIAS: Das ist Arithmetik, Herr Kröger. Ich habe sie nicht erfunden.
+> 그건 산수예요, 크뢰거 씨. 제가 만든 게 아니에요.
+KRÖGER: Arithmetik. Sie Wessis rechnen immer so schön, wenn es um die Arbeit von anderen geht.
+> 산수라. 당신네 서쪽 사람들은 남의 일자리 얘기만 나오면 계산을 참 예쁘게 하지.
+TOBIAS: Ich bin aus Leipzig, Herr Kröger.
+> 저 라이프치히 출신이에요, 크뢰거 씨.
+KRÖGER: … Aus Leipzig?
+> …라이프치히?
+TOBIAS: Mein Vater war Dreher in einem Kombinat in Leipzig-Plagwitz. Neunzehnhunderteinundneunzig wurde das Werk abgewickelt. Er hat nie wieder in seinem Beruf gearbeitet. Ich weiß sehr genau, was es heißt, wenn ein Werk zumacht.
+> 아버지가 라이프치히 플라크비츠의 국영 콤비나트에서 선반공이셨어요. 1991년에 공장이 청산됐죠. 그 뒤로 다시는 자기 일을 못 하셨어요. 공장이 문을 닫는다는 게 뭔지 저는 아주 잘 압니다.
+TOBIAS: Deshalb rechne ich so genau. Nicht, weil mir die Leute egal sind, sondern weil ich nicht will, dass hier noch einmal jemand das erlebt.
+> 그래서 이렇게 정확하게 계산하는 거예요. 사람들이 상관없어서가 아니라, 여기서 또 누가 그런 일을 겪는 걸 원치 않아서요.
+LINDNER: Das wusste keiner von uns.
+> 우리 중에 아무도 몰랐네요.
+TOBIAS: Es steht in keiner Präsentation.
+> 어느 발표 자료에도 없으니까요.
+KATHARINA: Mir hat er es nach acht Jahren erzählt. Und auch nur, weil ich einmal nachts gefragt habe.
+> 저도 8년 만에야 들었어요. 그것도 어느 날 밤에 제가 물어봐서.
+KRÖGER: … Gut. Dann entschuldige ich mich für den Wessi. Für den Rest nicht.
+> …좋아요. 그럼 '서쪽 사람' 얘긴 사과하죠. 나머지는 말고.
+HENSCHEL: Matthias, komm mal kurz mit raus. — Frau Brandt, wir brauchen eine Viertelstunde unter uns.
+> 마티아스, 잠깐 나와 봐. — 브란트 씨, 우리끼리 15분만 시간을 주세요.
+SATTLER: Das läuft auf einen Streik hinaus. Ich habe das schon dreimal erlebt.
+> 이거 파업으로 갑니다. 세 번이나 겪어 봤어요.
+KATHARINA: Und wie ist es dreimal ausgegangen?
+> 그 세 번은 어떻게 끝났는데요?
+SATTLER: Zweimal mit einer Einigung um vier Uhr früh. Einmal mit sechs Wochen Streik.
+> 두 번은 새벽 네 시에 합의로. 한 번은 6주 파업으로.
+KATHARINA: Was war beim dritten Mal anders?
+> 세 번째는 뭐가 달랐는데요?
+SATTLER: Der damalige Vorstand hat geglaubt, er könne die Gewerkschaft aussitzen. Nach sechs Wochen hatte er einen schlechteren Abschluss und zwei Kunden weniger.
+> 당시 이사회가 노조를 버티기로 이길 수 있다고 믿었죠. 6주 뒤에 더 나쁜 조건으로 합의했고, 고객 두 곳을 잃었어요.
+KATHARINA: Dann wissen wir wenigstens, was wir nicht tun.
+> 그럼 적어도 뭘 하지 말아야 할지는 알겠네요.
+TOBIAS: Katharina, ich gehe nicht über zwei Komma fünf. Wenn wir mehr geben, kann ich den Banken den Plan nicht mehr erklären.
+> 카타리나, 난 2.5 이상은 안 가. 그 이상 주면 은행에 계획을 설명할 수가 없어.
+KATHARINA: Und wenn wir weniger geben, gibt es einen Streik, und dann gibt es gar keinen Plan mehr.
+> 그리고 그보다 덜 주면 파업이 나고, 그럼 계획 자체가 없어지지.
+TOBIAS: Dann sag mir, wo das Geld herkommen soll.
+> 그럼 돈이 어디서 나오는지 말해 봐.
+KATHARINA: Ich weiß es nicht. Aber ich weiß, dass Kröger nicht wegen zwei Zehntelprozent streiken will. Er streikt, weil er Angst um sein Werk hat.
+> 나도 몰라. 하지만 크뢰거가 0.2퍼센트 때문에 파업하려는 게 아니라는 건 알아. 자기 공장이 걱정돼서 그러는 거야.
+TOBIAS: Und Angst lässt sich nicht in Prozenten ausdrücken. Das ist ja das Problem.
+> 그리고 불안은 퍼센트로 표현이 안 되지. 그게 문제야.
+SELIN: Vielleicht aus der Arbeitszeit selbst. Darf ich euch etwas zeigen, bevor die beiden zurückkommen?
+> 어쩌면 근로시간 자체에서. 저 두 사람 돌아오기 전에 뭘 좀 보여 줘도 돼?
+SELIN: Wenn achtunddreißig Prozent auf zweiunddreißig oder dreiunddreißig Stunden gehen, sparen wir Lohnkosten — selbst mit Teillohnausgleich. Gleichzeitig brauchen wir weniger Kurzarbeit, für die wir heute auf achtzig Prozent aufstocken.
+> 38퍼센트가 주 32시간이나 33시간으로 가면, 임금 일부를 보전해 줘도 인건비가 줄어. 동시에 단축근무가 덜 필요해지고. 지금 거기에 80퍼센트까지 보전해 주고 있잖아.
+SELIN: Und die zweiundsechzig Prozent, die lieber Geld wollen, bekommen eine Erfolgsbeteiligung. Wenn das Unternehmen sein Ziel erreicht, zahlen wir. Wenn nicht, nicht.
+> 그리고 돈을 원하는 62퍼센트에게는 성과 연동 보너스를 주는 거야. 회사가 목표를 달성하면 지급하고, 못 하면 안 하고.
+TOBIAS: Eine Erfolgsbeteiligung belastet den Sanierungsplan nur, wenn die Sanierung funktioniert. … Das ist eigentlich elegant.
+> 성과 보너스는 구조조정이 성공할 때만 계획에 부담이 되지. …사실 그거 우아한데.
+SATTLER: Und meine Schichtpläne?
+> 그럼 내 교대 계획은요?
+SELIN: Drei Modelle statt fünfzig: fünfunddreißig, dreiunddreißig Komma fünf und zweiunddreißig Stunden. Gewählt wird einmal im Jahr, nicht jede Woche. Das kann man planen, Herr Sattler.
+> 쉰 개가 아니라 모델 세 개예요. 35시간, 33.5시간, 32시간. 선택은 매주가 아니라 1년에 한 번. 그건 계획할 수 있잖아요, 자틀러 이사님.
+SATTLER: … Einmal im Jahr. Darüber kann man reden.
+> …1년에 한 번이라. 그건 얘기해 볼 만하네요.
+
+## 해결·설득 — VIER UHR FRÜH
+HENSCHEL: Wir sind zurück. Ich sage es Ihnen offen: Die Tarifkommission ist bereit, die Urabstimmung einzuleiten.
+> 돌아왔습니다. 솔직히 말씀드리죠. 교섭위원회는 조합원 투표에 들어갈 준비가 돼 있어요.
+KATHARINA: Frau Henschel, bevor Sie das tun, möchte ich Ihnen ein neues Angebot machen. Nicht bei den Prozenten zuerst, sondern bei der Arbeitszeit.
+> 헨셸 씨, 그러시기 전에 새 제안을 드리고 싶어요. 퍼센트가 아니라 근로시간부터요.
+KATHARINA: Wir bieten jedem Tarifbeschäftigten das Recht, einmal im Jahr zwischen drei Arbeitszeitmodellen zu wählen: fünfunddreißig, dreiunddreißig Komma fünf oder zweiunddreißig Stunden.
+> 모든 협약 적용 직원에게 1년에 한 번 근로시간 모델 세 가지 중 하나를 선택할 권리를 드립니다. 35시간, 33.5시간, 혹은 32시간.
+KATHARINA: Wer auf zweiunddreißig Stunden geht, bekommt nicht einundneunzig Prozent seines Lohns, wie es rechnerisch wäre, sondern vierundneunzig. Das ist Ihr Teillohnausgleich.
+> 32시간을 택한 사람은 산술적으로 계산되는 91퍼센트가 아니라 임금의 94퍼센트를 받습니다. 그게 여러분이 말하는 임금 일부 보전이에요.
+KRÖGER: Vier Tage, wenn die Schicht es erlaubt?
+> 교대 일정이 허락하면 나흘 근무?
+SATTLER: Wenn man es ein Jahr im Voraus weiß, kann ich es in den meisten Bereichen möglich machen. In der Härterei nicht überall. Dort vielleicht als längere Freizeitblöcke.
+> 1년 전에 미리 알면 대부분 부서에서는 가능하게 할 수 있습니다. 열처리는 전부는 안 되고요. 거기선 아마 긴 휴무 블록으로.
+HENSCHEL: Und das Geld?
+> 그럼 돈은요?
+TOBIAS: Zwei Komma vier Prozent ab Oktober, zwei Komma zwei Prozent ein Jahr später. Laufzeit vierundzwanzig Monate. Dazu eine Erfolgsbeteiligung von tausend Euro pro Person, wenn wir eine EBITDA-Marge von sieben Prozent erreichen.
+> 10월부터 2.4퍼센트, 1년 뒤 2.2퍼센트. 계약 기간 24개월. 여기에 EBITDA 마진 7퍼센트를 달성하면 1인당 1,000유로의 성과 보너스.
+HENSCHEL: Drei Prozent ab Juli, zwei Komma acht im nächsten Jahr, und die Erfolgsbeteiligung bei zweitausend.
+> 7월부터 3퍼센트, 내년 2.8퍼센트, 그리고 성과 보너스 2,000.
+TOBIAS: Frau Henschel, bei drei Prozent ab Juli ist die Erfolgsbeteiligung nie fällig, weil wir die sieben Prozent dann nicht mehr erreichen. Sie verhandeln gerade gegen Ihre eigene Prämie.
+> 헨셸 씨, 7월부터 3퍼센트면 성과 보너스는 절대 지급되지 않아요. 그러면 7퍼센트 마진을 달성할 수 없으니까요. 지금 자기 보너스에 반대하는 협상을 하고 계신 거예요.
+HENSCHEL: Dann rechnen Sie mir vor, was ich bekomme, wenn ich nachgebe.
+> 그럼 제가 양보하면 뭘 받는지 계산해 보세요.
+TOBIAS: Wenn das Arbeitszeitmodell so angenommen wird, wie Frau Aydıns Umfrage es zeigt, sparen wir bei Kurzarbeit und Überstunden rund fünf Millionen im Jahr. Die gebe ich zurück — über eine höhere Erfolgsbeteiligung.
+> 근로시간 모델이 아이든 국장의 설문대로 받아들여지면, 단축근무와 초과근무에서 연간 약 500만을 아낍니다. 그걸 돌려드리죠. 성과 보너스를 올려서.
+LINDNER: Dagmar, das ist neu. Bisher wollte die Arbeitgeberseite die Ersparnis immer behalten.
+> 다그마르, 이건 처음이야. 지금까지 사용자 측은 절감분을 늘 자기들이 가져갔잖아.
+HENSCHEL: Neu heißt nicht gut, Petra. — Herr Wendt, und wer kontrolliert, ob diese fünf Millionen wirklich gespart und wirklich ausgezahlt werden?
+> 처음이라고 좋은 건 아니야, 페트라. — 벤트 이사님, 그 500만이 정말 절감되고 정말 지급되는지는 누가 확인하죠?
+TOBIAS: Der Betriebsrat. Frau Lindner und Herr Kröger bekommen jedes Quartal die Zahlen — dieselben, die die Banken bekommen.
+> 노동자평의회요. 린드너 씨와 크뢰거 씨가 매 분기 숫자를 받습니다. 은행이 받는 것과 똑같은 숫자를요.
+KRÖGER: Und die Arbeitsplätze? Ohne Beschäftigungssicherung unterschreibe ich gar nichts.
+> 그럼 일자리는요? 고용 보장 없이는 아무것도 서명 못 합니다.
+KATHARINA: Für die Laufzeit des Tarifvertrags verzichten wir auf betriebsbedingte Kündigungen. Vierundzwanzig Monate, an beiden Standorten. Das kann ich halten, Herr Kröger, weil ich jetzt die Zahlen dazu habe.
+> 단체협약 기간 동안 경영상 해고를 하지 않겠습니다. 24개월, 두 사업장 모두. 이건 지킬 수 있어요, 크뢰거 씨. 이제는 그걸 뒷받침할 숫자가 있으니까요.
+KRÖGER: Vierundzwanzig Monate. Im November in Spandau haben Sie gesagt: heute nicht.
+> 24개월이라. 11월에 슈판다우에선 '오늘은 아니다'라고 하셨죠.
+KATHARINA: Und heute ist nicht November. Heute sage ich Ja.
+> 그리고 오늘은 11월이 아니죠. 오늘은 '네'라고 하는 거예요.
+HENSCHEL: Matthias, unter uns, ohne Protokoll: Mehr bekommen wir heute nicht, ohne dass wir den Laden gegen die Wand fahren. Das weißt du so gut wie ich.
+> 마티아스, 우리끼리, 기록 없이 말하는 건데. 회사를 벽에 처박지 않고서는 오늘 이 이상 못 받아. 너도 나만큼 알잖아.
+KRÖGER: Ich weiß es. Ich mag es nur nicht.
+> 알아. 마음에 안 들 뿐이지.
+HENSCHEL: Zwei Komma sechs ab Oktober, zwei Komma vier im nächsten Jahr. Erfolgsbeteiligung tausendfünfhundert. Und für Azubis eine feste Erhöhung von hundert Euro im Monat.
+> 10월부터 2.6, 내년 2.4. 성과 보너스 1,500. 그리고 견습생은 월 100유로 정액 인상.
+TOBIAS: Zwei Komma sechs und zwei Komma vier. Erfolgsbeteiligung tausendfünfhundert, aber erst ab einer Marge von sieben Komma fünf Prozent. Azubis plus achtzig Euro. Das ist mein letztes Angebot — für heute Nacht.
+> 2.6과 2.4. 성과 보너스 1,500, 단 마진 7.5퍼센트부터. 견습생 월 80유로 인상. 이게 제 마지막 제안입니다 — 오늘 밤에 한해서는요.
+HENSCHEL: Für heute Nacht? Und morgen?
+> 오늘 밤에 한해서요? 그럼 내일은요?
+TOBIAS: Morgen ist es schlechter. Morgen weiß ich, was ein Streiktag kostet, und dann habe ich weniger zu verteilen.
+> 내일은 더 나빠요. 내일이면 파업 하루가 얼마짜리인지 알게 되고, 그럼 나눠 줄 게 줄어드니까요.
+HENSCHEL: … Neunzig Euro für die Azubis. Dann haben wir eine Einigung.
+> …견습생 90유로. 그럼 합의죠.
+TOBIAS: Neunzig. Einverstanden.
+> 90. 좋습니다.
+BREHM: Vier Uhr sieben. Ich schreibe das Eckpunktepapier. Bitte geht niemand nach Hause, bevor alle unterschrieben haben.
+> 네 시 칠 분. 제가 합의 요점서를 쓰겠습니다. 다들 서명하기 전에는 집에 가지 마세요.
+
+## 마무리 — FÜNF UHR, AM KAFFEEAUTOMATEN
+KRÖGER: Leipzig-Plagwitz. Ich hatte da mal einen Onkel. Der war bei den Baumwollspinnern.
+> 라이프치히 플라크비츠라. 거기 삼촌이 한 분 있었어요. 방적 공장에 다녔죠.
+TOBIAS: Dann haben Sie die Hallen gesehen, bevor sie Lofts wurden.
+> 그럼 그 공장 건물들이 로프트 아파트가 되기 전 모습을 보셨겠네요.
+KRÖGER: Ich hab gesehen, wie sie leer wurden. — Für einen aus dem Osten rechnen Sie ganz schön kalt, Herr Wendt.
+> 텅 비어 가는 걸 봤죠. — 동쪽 출신치고는 계산을 참 차갑게 하시네요, 벤트 이사.
+TOBIAS: Gerade deshalb, Herr Kröger. Wer einmal gesehen hat, was passiert, wenn niemand rechnet, rechnet lieber zu genau.
+> 바로 그래서죠, 크뢰거 씨. 아무도 계산하지 않을 때 무슨 일이 벌어지는지 한 번 본 사람은 차라리 너무 정확하게 계산하는 편을 택해요.
+HENSCHEL: Frau Brandt, ein Kompliment unter vier Augen. Sie haben heute zum ersten Mal mehr zugehört als gerechnet. Das kommt bei Vorständen selten vor.
+> 브란트 씨, 단둘이 하는 칭찬 하나. 오늘 처음으로 계산보다 듣기를 더 많이 하셨어요. 이사들한테는 드문 일이죠.
+KATHARINA: Das Rechnen hat Herr Wendt gemacht. Und das Zuhören Frau Aydın, mit zweitausend Fragebögen.
+> 계산은 벤트 이사가 했고요. 듣는 건 아이든 국장이 했죠, 설문지 2,000장으로.
+SELIN: Wo wir gerade bei Umfragen sind — ich habe noch eine schlechte Nachricht, und die ist nicht tarifrelevant.
+> 설문 얘기가 나온 김에 — 나쁜 소식이 하나 더 있는데, 단체협약이랑은 상관없는 거야.
+TOBIAS: Um fünf Uhr früh gibt es keine guten Nachrichten mehr. Sag schon.
+> 새벽 다섯 시엔 좋은 소식이 없어. 말해 봐.
+SELIN: Wir haben letzten Monat einen Phishing-Test gemacht. Eine falsche Mail vom «Paketdienst» an alle Mitarbeiter. Einunddreißig Prozent haben auf den Link geklickt. Elf Prozent haben ihr Passwort eingegeben.
+> 지난달에 피싱 테스트를 했거든. 전 직원한테 '택배 회사'를 사칭한 가짜 메일을 보냈어. 31퍼센트가 링크를 눌렀고, 11퍼센트는 비밀번호까지 입력했어.
+KATHARINA: Elf Prozent. Das sind über fünfhundert Passwörter.
+> 11퍼센트. 비밀번호가 500개가 넘는다는 거네.
+SELIN: Unser IT-Leiter hat im Herbst ein Sicherheitsbudget beantragt. Drei Millionen. Tobias, weißt du, was daraus geworden ist?
+> 우리 IT 책임자가 가을에 보안 예산을 신청했었어. 300만. 토비아스, 그거 어떻게 됐는지 알아?
+TOBIAS: … Das habe ich im November gestrichen. Wir hatten damals andere Sorgen.
+> …내가 11월에 삭감했어. 그땐 다른 걱정거리가 있었으니까.

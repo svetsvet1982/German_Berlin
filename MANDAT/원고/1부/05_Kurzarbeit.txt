@@ -1,0 +1,267 @@
+part: 1
+ep: 5
+title_de: Kurzarbeit
+title_ko: 단축근무
+scene: 화요일 낮, Havelteile 공장 식당
+level: B1+
+setting: 한 주 뒤 화요일 열두 시 반부터 오후 늦게까지, 베를린 마리엔펠데 Havelteile GmbH 구내식당에서 열린 노동자평의회 특별 회의
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
+cast: ROTHER | Detlef Rother · Havelteile 노동자평의회 의장(Betriebsratsvorsitzender), IG Metall (61)
+cast: SCHULZE | Jana Schulze · 노동자평의회 위원, 기계공 (29)
+cast: KOWALSKI | Bernd Kowalski · 노동자평의회 위원, 선반공 (59)
+cast: SANDMANN | Reinhard Sandmann · Havelteile 사장 (66)
+cast: YILDIZ | Murat Yıldız · Havelteile 공장장
+note: ※ 독일에서는 직원 5명 이상 사업장에서 노동자평의회(Betriebsrat)를 선출할 수 있고, 사업장조직법(BetrVG) 87조에 따라 단축근무 도입은 노동자평의회의 공동결정 사항입니다. 즉 평의회의 동의 없이는 단축근무를 할 수 없습니다. 단축근무 중 일하지 못한 시간에 대해서는 연방고용청(Bundesagentur für Arbeit)이 단축근무 수당(Kurzarbeitergeld)을 지급합니다. 순임금 손실분의 60%, 자녀가 있으면 67%이며, 회사가 이를 추가로 보충(Aufstockung)하는 경우가 많습니다. 대규모 감원 같은 '사업장 변경' 때는 경영진과 평의회가 이해조정(Interessenausgleich)과 사회계획(Sozialplan)을 협상합니다. 사회계획에는 퇴직 보상금(Abfindung) 공식(흔히 '월급 × 근속연수 × 계수')이 들어갑니다. 전환고용회사(Transfergesellschaft)는 퇴직 예정자를 최대 12개월 동안 받아 전환 단축근무 수당을 주면서 재교육과 재취업을 돕는 별도 회사입니다. 'Det'와 'wa?'는 베를린 사투리('das', '그렇지?')입니다. 표현 초점: die Kurzarbeit, der Betriebsrat, der Sozialplan, die Abfindung, Wir suchen eine Lösung, nicht einen Schuldigen.
+next: 1부 6화 — «Die Strecke ist gesperrt»(구간 폐쇄) — 프랑크푸르트 오스트하펜의 물류회사 Mainlogistik. 주요 화물 노선이 몇 달간 전면 보수로 막히자 고객 납기가 무너졌다. CEO는 "그냥 트럭을 더 사자"고 하지만, Selin의 시뮬레이션은 철도·트럭·마인강 내륙수운의 조합을 가리킨다.
+
+## 도입 — KANTINE, ZWÖLF UHR DREISSIG
+YILDIZ: Das ist unsere Kantine. Dienstags gibt es Currywurst. Heute ist Dienstag. Das ist gut für Sie.
+> 여기가 우리 구내식당이에요. 화요일엔 커리부어스트가 나오죠. 오늘이 화요일이에요. 여러분한텐 다행이에요.
+TOBIAS: Warum ist das gut für uns?
+> 그게 왜 우리한테 다행이죠?
+YILDIZ: Mit Currywurst im Bauch sind die Kollegen zehn Prozent freundlicher. Ungefähr.
+> 커리부어스트를 먹고 나면 동료들이 10퍼센트쯤 더 친절해지거든요. 대략.
+TOBIAS: Zehn Prozent. Hoffentlich reicht das.
+> 10퍼센트라. 그걸로 충분하면 좋겠네요.
+SELIN: Wie viele kommen heute?
+> 오늘 몇 명이나 와요?
+YILDIZ: Offiziell nur der Betriebsrat, elf Leute. Aber die Kantine hat große Fenster, und die Frühschicht hat gleich Pause.
+> 공식적으로는 노동자평의회 열한 명뿐이에요. 그런데 식당 창문이 크고, 아침 교대조가 곧 휴식이거든요.
+KATHARINA: Gut. Dann sehen alle, dass wir nichts verstecken.
+> 좋아요. 그럼 우리가 아무것도 숨기지 않는다는 걸 모두가 보겠네요.
+SELIN: Katharina, mein Vater hat gesagt: Bei Detlef Rother darf man nie mit einer Zahl anfangen.
+> 카타리나, 아빠가 그랬어. 데틀레프 로터 앞에선 절대 숫자로 시작하면 안 된대.
+TOBIAS: Womit dann? Mit einem Gedicht?
+> 그럼 뭘로? 시로?
+SELIN: Mit einer Frage. Er will gefragt werden, nicht informiert.
+> 질문으로. 그분은 통보받는 게 아니라 질문받고 싶어 하신대.
+ROTHER: So. Det sind also die Berater. Detlef Rother, Betriebsratsvorsitzender, seit vierundzwanzig Jahren. Ich hab' schon vier Beratungen kommen und gehen sehen.
+> 그래. 이게 그 컨설턴트들이구먼. 데틀레프 로터, 노동자평의회 의장, 24년째요. 컨설팅 회사가 네 번 왔다 가는 걸 봤지.
+KATHARINA: Guten Tag, Herr Rother. Katharina Brandt. Dann hoffe ich, dass wir die erste sind, an die Sie sich gern erinnern.
+> 안녕하세요, 로터 씨. 카타리나 브란트입니다. 그럼 저희가 기분 좋게 기억되는 첫 번째 회사였으면 좋겠네요.
+
+## 장면 1 — VIER BAUSTEINE
+ROTHER: Das entscheide ich am Ende. Also, was wollen Sie uns erzählen? Dass dreihundert Leute gehen müssen? Das steht schon in der Zeitung.
+> 그건 마지막에 내가 정해요. 자, 무슨 얘기를 하려는 거요? 300명이 나가야 한다고? 그건 이미 신문에 났어요.
+KATHARINA: In der Zeitung steht eine Zahl, die wir nie veröffentlicht haben. Ich möchte Ihnen heute zeigen, was wirklich auf dem Tisch liegt. Aber zuerst eine Frage: Was ist für Sie heute das Wichtigste?
+> 신문에 난 숫자는 저희가 공개한 적이 없는 겁니다. 오늘은 실제로 테이블 위에 무엇이 있는지 보여 드리고 싶어요. 하지만 먼저 질문 하나 드릴게요. 오늘 로터 씨에게 가장 중요한 건 뭔가요?
+ROTHER: Dass hier keiner rausfliegt. So einfach ist das.
+> 여기서 아무도 쫓겨나지 않는 것. 그렇게 간단해요.
+KATHARINA: Das verstehe ich. Ich sage Ihnen ehrlich, wo wir stehen. Die Verbrennersparte braucht in zwei Jahren etwa dreihundert Leute weniger. Aber wir glauben nicht, dass dafür dreihundert Kündigungen nötig sind.
+> 이해합니다. 저희가 어디에 서 있는지 솔직히 말씀드리죠. 내연기관 부문은 2년 뒤 약 300명이 덜 필요합니다. 하지만 그걸 위해 300건의 해고가 필요하다고는 보지 않습니다.
+SCHULZE: Wie denn sonst? Die Leute lösen sich ja nicht in Luft auf.
+> 그럼 어떻게요? 사람들이 공기 속으로 사라지는 것도 아니고.
+KATHARINA: Mit einer Mischung. Herr Wendt erklärt Ihnen die vier Bausteine.
+> 혼합안으로요. 벤트 씨가 네 가지 구성 요소를 설명드릴 겁니다.
+TOBIAS: Erstens Kurzarbeit. Vierhundert Kolleginnen und Kollegen in der Verbrennersparte arbeiten neun Monate lang etwa dreißig Prozent weniger.
+> 첫째, 단축근무. 내연기관 부문의 동료 400명이 9개월 동안 약 30퍼센트 적게 일합니다.
+TOBIAS: Für die ausgefallenen Stunden zahlt die Bundesagentur für Arbeit Kurzarbeitergeld: sechzig Prozent vom Nettoausfall, mit Kindern siebenundsechzig. Die Firma stockt auf fünfundachtzig Prozent auf.
+> 일하지 못한 시간에 대해서는 연방고용청이 단축근무 수당을 지급합니다. 순임금 손실분의 60퍼센트, 자녀가 있으면 67퍼센트. 회사가 이를 85퍼센트까지 보충합니다.
+KOWALSKI: Fünfundachtzig Prozent von was?
+> 뭐의 85퍼센트요?
+TOBIAS: Vom Nettolohn für die ausgefallenen Stunden. Ein Beispiel: Wer heute zweitausendsechshundert Euro netto verdient, hat in der Kurzarbeit etwa zweitausendvierhundertachtzig.
+> 일하지 못한 시간에 대한 순임금의 85퍼센트요. 예를 들면, 지금 순수입이 2,600유로인 분은 단축근무 중에 약 2,480유로를 받습니다.
+KOWALSKI: Hundertzwanzig Euro weniger. Im Monat. Bei den Preisen im Supermarkt.
+> 120유로 적네. 한 달에. 요즘 마트 물가에.
+TOBIAS: Ja. Das ist nicht nichts. Aber es ist viel weniger als eine Kündigung.
+> 네. 적은 돈은 아니죠. 하지만 해고보다는 훨씬 적습니다.
+ROTHER: Und Sie wissen hoffentlich, dass es ohne uns gar keine Kurzarbeit gibt. Paragraf siebenundachtzig Betriebsverfassungsgesetz. Da bestimmt der Betriebsrat mit.
+> 그리고 우리 없이는 단축근무도 아예 없다는 거, 알고는 있겠지요. 사업장조직법 87조. 노동자평의회가 공동결정하는 사항이에요.
+KATHARINA: Das wissen wir. Deshalb sitzen wir hier, bevor irgendetwas beantragt wird.
+> 알고 있습니다. 그래서 무엇이든 신청하기 전에 여기 앉아 있는 겁니다.
+TOBIAS: Zweitens Qualifizierung. Hundertfünfzig Leute lernen in sechs Monaten die neue Linie für Kühlplatten. Die Agentur für Arbeit fördert einen Teil der Weiterbildung.
+> 둘째, 재교육. 150명이 6개월 동안 냉각판 신규 라인을 배웁니다. 고용청이 교육비 일부를 지원하고요.
+SCHULZE: Und wer entscheidet, wer die hundertfünfzig sind?
+> 그럼 그 150명은 누가 정하는데요?
+KATHARINA: Das sollen Betriebsrat und Geschäftsführung gemeinsam festlegen. Mit klaren Kriterien, nicht nach Sympathie.
+> 노동자평의회와 경영진이 함께 정해야 합니다. 호감이 아니라 분명한 기준으로요.
+TOBIAS: Drittens Altersteilzeit. Etwa siebzig Kolleginnen und Kollegen sind über sechzig. Wer möchte, kann früher aufhören — freiwillig und mit Ausgleich.
+> 셋째, 고령자 시간제 전환. 약 70명의 동료가 60세 이상입니다. 원하는 분은 더 일찍 그만둘 수 있습니다. 자발적으로, 보전을 받고요.
+KOWALSKI: Ich bin neunundfünfzig. Gilt das auch für mich?
+> 난 쉰아홉인데. 나한테도 해당돼요?
+TOBIAS: Das hängt von dem Modell ab, das Sie hier verhandeln. Wir schlagen ab achtundfünfzig vor.
+> 여기서 협상하시는 모델에 달려 있습니다. 저희는 58세부터를 제안합니다.
+TOBIAS: Viertens: Für etwa achtzig Leute gibt es keinen Platz mehr. Für sie schlagen wir eine Transfergesellschaft vor — zwölf Monate mit Transferkurzarbeitergeld, Weiterbildung und Vermittlung in neue Jobs. Dazu eine Abfindung aus dem Sozialplan.
+> 넷째, 약 80명은 더 이상 자리가 없습니다. 이분들을 위해 전환고용회사를 제안합니다. 12개월간 전환 단축근무 수당, 재교육, 새 일자리 알선. 거기에 사회계획에 따른 퇴직 보상금이 더해집니다.
+SCHULZE: Transfergesellschaft. Das klingt wie ein Wartesaal.
+> 전환고용회사. 대기실처럼 들리네요.
+SELIN: Darf ich dazu etwas sagen? In Berlin und Brandenburg suchen gerade viele Firmen Facharbeiter, vor allem in der Elektrotechnik und im Netzausbau. Wir haben die offenen Stellen gezählt: über zweitausend im Umkreis von fünfzig Kilometern.
+> 그에 대해 한마디 해도 될까요? 지금 베를린과 브란덴부르크에서는 많은 회사가 숙련공을 찾고 있어요. 특히 전기기술과 전력망 확충 분야에서요. 반경 50킬로미터 안의 구인 자리를 세어 봤는데, 2천 개가 넘어요.
+SCHULZE: Mit welchem Lohn?
+> 임금은요?
+SELIN: Das ist unterschiedlich. Ein Teil ist tarifgebunden, ein Teil nicht. Das sage ich ganz ehrlich.
+> 다양해요. 일부는 단체협약이 적용되고, 일부는 아니에요. 그건 솔직히 말씀드릴게요.
+ROTHER: Ehrlichkeit kostet nix. Was kostet die Abfindung?
+> 솔직함은 공짜지. 퇴직 보상금은 얼마요?
+TOBIAS: Wir haben mit einem Faktor von null Komma fünf gerechnet. Ein halbes Monatsgehalt pro Jahr Betriebszugehörigkeit.
+> 계수 0.5로 계산했습니다. 근속 연수 1년당 월급 절반입니다.
+ROTHER: Null Komma fünf. Als hier in Marienfelde das letzte Werk zugemacht hat, gab's eins Komma zwei.
+> 0.5라. 지난번 여기 마리엔펠데에서 공장 하나 문 닫을 땐 1.2였어요.
+TOBIAS: Diese Firma hatte damals keine elf Wochen Liquidität.
+> 그때 그 회사는 유동성이 11주밖에 안 남은 상황은 아니었죠.
+ROTHER: Ach, und jetzt sind wir schuld, dass die Kasse leer ist?
+> 아, 그럼 이제 금고가 빈 게 우리 탓이란 거요?
+TOBIAS: Das habe ich nicht gesagt.
+> 그렇게 말하지 않았습니다.
+ROTHER: Doch, Herr … wie war der Name?
+> 했지요, 거기… 이름이 뭐랬더라?
+TOBIAS: Wendt.
+> 벤트입니다.
+
+## 장면 2 — „SIE RECHNEN, WIR ZAHLEN"
+ROTHER: Herr Wendt. Sie rechnen, und wir zahlen. So war das immer. Neunzehnhundertdreiundneunzig, zweitausendneun — immer haben die Berater gerechnet und die Kollegen bezahlt.
+> 벤트 씨. 당신은 계산하고, 우리는 치르지. 늘 그랬어요. 1993년에도, 2009년에도 — 늘 컨설턴트는 계산하고 동료들은 대가를 치렀어.
+TOBIAS: Herr Rother, ich verstehe das. Aber die Zahlen sind, wie sie sind. Wenn wir nichts tun, sind im Februar alle neunhundert Stellen weg.
+> 로터 씨, 이해합니다. 하지만 숫자는 숫자입니다. 아무것도 안 하면 2월에 일자리 900개가 전부 사라집니다.
+ROTHER: Das haben Sie uns jetzt dreimal gesagt. Mit dem Februar drohen Sie, seit Sie hier sind.
+> 그건 벌써 세 번째요. 여기 온 뒤로 계속 2월로 협박하는군.
+TOBIAS: Ich drohe nicht. Ich rechne.
+> 협박하는 게 아닙니다. 계산하는 거죠.
+ROTHER: Dann rechnen Sie mal aus, was eine Kündigung für eine Familie in Marienfelde kostet. Mit Miete, mit zwei Kindern, mit einem Kredit fürs Auto. Haben Sie dafür eine Tabelle?
+> 그럼 마리엔펠데의 한 가족한테 해고가 얼마짜리인지 계산해 보시오. 월세에, 애 둘에, 자동차 할부까지. 그거 표로 있어요?
+TOBIAS: … Nein.
+> …없습니다.
+ROTHER: Sehen Sie. Und ohne diese Tabelle unterschreibe ich gar nichts.
+> 거 보시오. 그 표 없이 나는 아무것도 서명 안 해요.
+SCHULZE: Detlef, lass ihn doch mal ausreden.
+> 데틀레프, 일단 끝까지 말하게 해 줘요.
+ROTHER: Der hat genug geredet. Zwanzig Minuten Prozente. Ich will was von der Geschäftsführung hören. Wo ist Sandmann?
+> 저 사람은 충분히 말했어. 20분 동안 퍼센트 얘기만. 난 경영진한테 듣고 싶어요. 잔트만 어디 있어?
+SANDMANN: Hier, Detlef. Ich sitze die ganze Zeit hier.
+> 여기 있네, 데틀레프. 내내 여기 앉아 있었어.
+ROTHER: Dann sag doch mal was, Reinhard. Zweitausendneun hast du uns versprochen: nie wieder Kündigungen. Und ein Jahr später waren hundertzwanzig Leute weg.
+> 그럼 뭐라고 말 좀 해 봐, 라인하르트. 2009년에 우리한테 약속했지. 다시는 해고 없다고. 그리고 1년 뒤에 120명이 나갔어.
+SANDMANN: Damals hatte ich keine Wahl.
+> 그땐 선택의 여지가 없었어.
+ROTHER: Und wir haben es aus der Zeitung erfahren. Aus der Zeitung, Reinhard! Nicht von dir.
+> 그리고 우린 그걸 신문을 보고 알았어. 신문을 보고, 라인하르트! 자네한테서가 아니라.
+SANDMANN: … Ich weiß.
+> …알아.
+ROTHER: Und heute steht wieder eine Zahl in der Zeitung, bevor wir sie kennen. Dreihundert. Wer hat die rausgegeben? Die Bank? Die Berater?
+> 그리고 오늘 또 우리가 알기도 전에 신문에 숫자가 났어. 300. 누가 흘린 거야? 은행? 컨설턴트?
+KATHARINA: Nicht wir, Herr Rother. Aber ich verstehe, dass Sie uns das heute nicht glauben.
+> 저희는 아닙니다, 로터 씨. 하지만 오늘 저희를 믿지 못하시는 건 이해합니다.
+ROTHER: Gut, dass Sie das verstehen. Die Sitzung ist unterbrochen. Kolleginnen und Kollegen, zehn Minuten.
+> 이해한다니 다행이오. 회의 중단합니다. 동료 여러분, 10분.
+TOBIAS: Das war … nicht gut.
+> 그건… 좋지 않았어.
+KATHARINA: Nein. Und es war meine Schuld. Ich habe dich zu früh mit den Zahlen reden lassen.
+> 그래. 그리고 내 잘못이야. 너한테 숫자 얘기를 너무 일찍 시켰어.
+TOBIAS: Die Zahlen waren richtig.
+> 숫자는 맞았어.
+KATHARINA: Die Zahlen waren richtig, und trotzdem hat er nichts gehört. Solange er glaubt, dass wir ihn betrügen, hört er keine Prozente.
+> 숫자는 맞았는데도 그분은 아무것도 듣지 않았어. 우리가 자기를 속인다고 믿는 동안엔 퍼센트 같은 건 안 들려.
+TOBIAS: Und was willst du tun? Ihm ein Bier ausgeben?
+> 그럼 어쩌려고? 맥주라도 한잔 사게?
+KATHARINA: Ihm zuhören. Wirklich zuhören, ohne Folien. Was ist zweitausendneun eigentlich passiert?
+> 그분 말을 들을 거야. 진짜로, 슬라이드 없이. 2009년에 대체 무슨 일이 있었던 거지?
+SELIN: Ich frage Jana. Die ist im Betriebsrat und ungefähr so alt wie ich.
+> 야나한테 물어볼게. 노동자평의회 위원인데 나랑 나이가 비슷해.
+SELIN: Frau Schulze? Hätten Sie kurz Zeit?
+> 슐체 씨? 잠깐 시간 있으세요?
+SCHULZE: Lass das „Frau Schulze". Ich bin Jana. Hier in der Halle duzen sich alle, sogar die Chefs. Na ja, fast alle.
+> '슐체 씨'는 됐어. 난 야나야. 여기 공장에선 다들 말 놓아, 사장들까지. 뭐, 거의 다.
+SELIN: Okay. Selin. Jana, kannst du mir erklären, was zweitausendneun los war?
+> 좋아. 셀린이야. 야나, 2009년에 무슨 일이 있었는지 설명해 줄 수 있어?
+SCHULZE: Da war ich noch in der Schule. Aber hier kennt jeder die Geschichte. Sandmann hat damals versprochen, dass keiner gehen muss. Dann kam eine Beratung, hat eine Liste gemacht, und die Liste stand in der Zeitung.
+> 그땐 난 아직 학생이었어. 그래도 여기선 다들 그 얘기를 알아. 잔트만이 그때 아무도 안 나가도 된다고 약속했거든. 그러다 컨설팅 회사가 와서 명단을 만들었고, 그 명단이 신문에 났어.
+SELIN: Mit Namen?
+> 이름까지?
+SCHULZE: Nicht mit Namen, aber mit Abteilungen. Jeder wusste, wer gemeint war. Detlefs Bruder war auf der Liste.
+> 이름은 아니고, 부서별로. 그래도 누군지 다 알았지. 데틀레프 형이 그 명단에 있었어.
+SELIN: Oh.
+> 아.
+SCHULZE: Und weißt du, was das Schlimmste war? Danach hat ihn keiner mehr gefragt. Er war nur noch eine Zeile.
+> 그리고 제일 최악이 뭐였는지 알아? 그 뒤로 아무도 그분한테 묻지 않았대. 그냥 한 줄이 돼 버린 거야.
+SELIN: Darf ich dir sagen, was wir eigentlich vorhaben — ohne Prozente? In zwei Sätzen?
+> 우리가 사실 뭘 하려는 건지 말해도 될까 — 퍼센트 없이? 두 문장으로?
+SCHULZE: Zwei Sätze. Mehr hast du nicht.
+> 두 문장. 그 이상은 안 돼.
+SELIN: Wir wollen, dass möglichst keiner gekündigt wird, aber ein paar Leute müssen die Abteilung wechseln, und ein paar gehen freiwillig früher. Und ihr sollt mitentscheiden, wer, wie und wann — statt es aus der Zeitung zu erfahren.
+> 되도록 아무도 해고되지 않게 하고 싶어. 다만 몇몇은 부서를 옮겨야 하고, 몇몇은 자발적으로 일찍 떠나. 그리고 누가, 어떻게, 언제인지를 너희가 같이 정했으면 해. 신문을 보고 알게 되는 게 아니라.
+
+## 절정 — WIR SUCHEN EINE LÖSUNG
+SCHULZE: Das klingt anders als das, was dein Kollege erzählt hat.
+> 네 동료가 한 말하고는 다르게 들리네.
+SELIN: Es ist genau dasselbe. Nur ohne Tabelle.
+> 완전히 똑같은 얘기야. 표만 없을 뿐이지.
+ROTHER: Weiter geht's. Frau Dr. Brandt, haben Sie noch mehr Prozente für uns?
+> 계속합시다. 브란트 박사, 퍼센트 더 남았소?
+KATHARINA: Nein, Herr Rother. Ich lege die Folien weg. Ich möchte Sie etwas fragen und dann zuhören. Was ist zweitausendneun schiefgegangen?
+> 아니요, 로터 씨. 슬라이드는 내려놓겠습니다. 질문 하나 드리고 그다음엔 듣겠습니다. 2009년에 뭐가 잘못됐나요?
+ROTHER: Warum wollen Sie das wissen?
+> 그걸 왜 알고 싶소?
+KATHARINA: Weil ich nicht denselben Fehler machen will. Und weil Sie es besser wissen als jede Beratung.
+> 같은 실수를 하고 싶지 않으니까요. 그리고 어느 컨설팅 회사보다도 로터 씨가 더 잘 아시니까요.
+ROTHER: … Es ging nicht ums Geld. Die Abfindungen waren damals gar nicht schlecht. Es ging darum, dass keiner mit uns geredet hat. Eine Liste, eine Pressemitteilung, fertig.
+> …돈 문제가 아니었소. 보상금은 그때 나쁘지도 않았어. 아무도 우리랑 얘기하지 않았다는 게 문제였지. 명단 하나, 보도자료 하나, 끝.
+KATHARINA: Und was hätten Sie damals gebraucht?
+> 그때 무엇이 필요하셨나요?
+ROTHER: Dass wir vorher am Tisch sitzen. Dass wir die Zahlen sehen, bevor die Bank sie sieht. Und dass einer von oben in die Halle kommt und es den Leuten selbst sagt.
+> 미리 테이블에 앉는 것. 은행보다 먼저 숫자를 보는 것. 그리고 윗사람 하나가 공장에 직접 와서 사람들한테 자기 입으로 말하는 것.
+KATHARINA: Gut. Das sind drei Dinge. Ich schreibe sie auf. Was noch?
+> 좋습니다. 세 가지네요. 적겠습니다. 또 무엇이 있을까요?
+SCHULZE: Keine betriebsbedingten Kündigungen, solange die freiwilligen Maßnahmen laufen.
+> 자발적 조치가 진행되는 동안은 경영상 해고 금지.
+KOWALSKI: Und Altersteilzeit ab achtundfünfzig. Mindestens.
+> 그리고 고령자 시간제 전환은 58세부터. 최소한.
+ROTHER: Und ein Faktor, über den man reden kann. Null Komma fünf ist eine Beleidigung.
+> 그리고 얘기가 되는 계수. 0.5는 모욕이오.
+KATHARINA: Herr Rother, ich möchte etwas klarstellen. Wir suchen eine Lösung, nicht einen Schuldigen. Weder Sie noch Herr Sandmann noch die Bank haben den Verbrennungsmotor abgeschafft — aber wir alle müssen jetzt damit umgehen.
+> 로터 씨, 분명히 해 두고 싶은 게 있습니다. 저희는 해결책을 찾는 거지, 책임자를 찾는 게 아닙니다. 로터 씨도, 잔트만 씨도, 은행도 내연기관을 없애지 않았어요. 하지만 이제 우리 모두가 그걸 감당해야 합니다.
+ROTHER: Schöne Worte.
+> 멋진 말이군.
+KATHARINA: Dann machen wir Taten daraus. Mein Vorschlag: keine betriebsbedingten Kündigungen bis Ende zwanzig siebenundzwanzig, wenn die freiwilligen Ziele erreicht werden. Altersteilzeit ab achtundfünfzig. Und der Betriebsrat sitzt jeden Monat im Lenkungskreis und sieht alle Zahlen — vor der Bank.
+> 그럼 말을 행동으로 바꾸죠. 제 제안입니다. 자발적 목표가 달성되면 2027년 말까지 경영상 해고는 없습니다. 고령자 시간제 전환은 58세부터. 그리고 노동자평의회가 매달 운영위원회에 참여해 모든 숫자를 봅니다. 은행보다 먼저요.
+ROTHER: Vor der Bank? Das sagen Sie jetzt. Was sagt Pohl dazu?
+> 은행보다 먼저? 지금은 그렇게 말하겠지. 폴은 뭐라고 할 것 같소?
+TOBIAS: Herr Pohl will einen Plan, den der Betriebsrat mitträgt. Ein Plan ohne Ihre Unterschrift ist für die Bank weniger wert. Das ist ausnahmsweise eine Zahl, die Ihnen hilft.
+> 폴 씨는 노동자평의회가 함께 지지하는 계획을 원합니다. 로터 씨 서명이 없는 계획은 은행에도 가치가 떨어지죠. 이번만큼은 로터 씨에게 도움이 되는 숫자입니다.
+ROTHER: … Der war gut, Herr Wendt.
+> …그건 괜찮았소, 벤트 씨.
+TOBIAS: Ich habe in der Pause geübt.
+> 쉬는 시간에 연습했습니다.
+ROTHER: Und der Faktor?
+> 그럼 계수는?
+TOBIAS: Wenn Herr Sandmann einverstanden ist, gehen wir auf null Komma acht. Mehr gibt die Liquidität nicht her. Das ist keine Taktik, das ist die Kasse.
+> 잔트만 씨가 동의하시면 0.8까지 올리겠습니다. 유동성상 그 이상은 안 됩니다. 이건 전술이 아니라 금고 사정입니다.
+ROTHER: Reinhard?
+> 라인하르트?
+SANDMANN: Null Komma acht. Einverstanden. Und, Detlef — ich kürze mein eigenes Gehalt um dreißig Prozent. Solange die Kurzarbeit läuft.
+> 0.8. 동의하네. 그리고 데틀레프 — 단축근무가 이어지는 동안 내 월급도 30퍼센트 깎겠네.
+ROTHER: Kurzarbeit für den Chef. Det hab' ich in vierundzwanzig Jahren noch nicht erlebt.
+> 사장님 단축근무라. 24년 동안 이런 건 처음 보네.
+SANDMANN: Und nächste Woche stelle ich mich selbst in die Halle und sage es allen. Nicht die Zeitung. Ich.
+> 그리고 다음 주에 내가 직접 공장에 서서 모두에게 말하겠네. 신문이 아니라. 내가.
+ROTHER: … Gut. Das sind Eckpunkte, noch keine Einigung. Über Interessenausgleich und Sozialplan verhandeln wir Wort für Wort. Mit unserem Anwalt.
+> …좋아. 이건 골자일 뿐, 아직 합의는 아니오. 이해조정과 사회계획은 한 글자 한 글자 협상할 거요. 우리 변호사랑 같이.
+KATHARINA: Genau so soll es sein, Herr Rother. Danke für die zweite Chance.
+> 바로 그래야죠, 로터 씨. 두 번째 기회를 주셔서 감사합니다.
+
+## 마무리 — NACH DER SCHICHT
+ROTHER: Frau Aydın? Sie sind Kemals Tochter, wa?
+> 아이든 씨? 케말 딸이지, 그렇지?
+SELIN: Ja. Er lässt Sie grüßen.
+> 네. 아빠가 안부 전해 달래요.
+ROTHER: Sagen Sie ihm, er schuldet mir noch ein Bier. Seit der Weltmeisterschaft zweitausendvierzehn. Und sagen Sie ihm … seine Tochter hat heute gut zugehört.
+> 그 친구한테 나한테 맥주 한 잔 빚졌다고 전해요. 2014년 월드컵 때부터. 그리고… 딸이 오늘 잘 들었다고도 전해 줘요.
+TOBIAS: Zwanzig Minuten Prozente. Er hatte recht. Keiner hat zugehört.
+> 20분 동안 퍼센트. 그분 말이 맞았어. 아무도 안 들었어.
+KATHARINA: Deine Zahlen waren nicht falsch, Tobias. Sie kamen nur zu früh. Erst das Vertrauen, dann die Tabelle.
+> 네 숫자가 틀린 건 아니야, 토비아스. 너무 일찍 나왔을 뿐이지. 먼저 신뢰, 그다음에 표.
+TOBIAS: Ich schreibe es mir auf. In eine Tabelle.
+> 적어 둘게. 표에다.
+SELIN: Jana sagt, die Currywurst war heute wirklich gut. Die zehn Prozent haben also gestimmt.
+> 야나가 그러는데 오늘 커리부어스트가 진짜 맛있었대. 10퍼센트는 맞았네.
+KATHARINA: Moment, Frankfurt ruft an. — Brandt? … Mainlogistik? … Seit wann ist die Strecke gesperrt?
+> 잠깐, 프랑크푸르트 전화야. — 브란트입니다. …마인로지스틱이요? …언제부터 구간이 폐쇄됐다고요?
+KATHARINA: … Fünf Monate? Und die Kunden? … Gut, ich bin morgen früh da.
+> …5개월이요? 그럼 고객들은요? …알겠습니다, 내일 아침에 가겠습니다.
+TOBIAS: Lass mich raten. Die Bahn.
+> 맞혀 볼게. 철도지.
+KATHARINA: Ein Logistiker am Osthafen. Eine wichtige Güterstrecke wird generalsaniert, und die Lieferungen kommen nicht mehr an.
+> 오스트하펜의 물류회사야. 주요 화물 노선이 전면 보수에 들어가서 배송이 더 이상 제때 도착을 못 한대.
+SELIN: Dann fahren wir mit dem ICE nach Frankfurt? Hoffentlich ist der pünktlich.
+> 그럼 ICE 타고 프랑크푸르트 가? 제시간에 오면 좋겠다.

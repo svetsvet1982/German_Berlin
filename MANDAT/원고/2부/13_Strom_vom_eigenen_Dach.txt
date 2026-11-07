@@ -1,0 +1,267 @@
+part: 2
+ep: 13
+title_de: Strom vom eigenen Dach
+title_ko: 지붕 위의 전기
+scene: 슈판다우 공장 지붕 → 슈판다우 구청 문화재보호과
+level: B2
+setting: 7월 둘째 주 화요일 오전 일곱 시 반(슈판다우 공장 지붕)부터 오후 다섯 시(슈판다우 구청 문화재보호과 사무실)까지
+cast: SELIN | Selin Aydın · 전환사무국장 (27)
+cast: TOBIAS | Tobias Wendt · CFO (35)
+cast: KATHARINA | Dr. Katharina Brandt · CEO (전화) (39)
+cast: NOWAK | Dariusz Nowak · 슈판다우 공장장 (48)
+cast: LEON | Leon Schulz · 입문 자격 과정 견습생, 드론 취미 (17)
+cast: KRÖGER | Matthias Kröger · 슈판다우 노동자평의회 의장 (52)
+cast: BAUMGART | Baumgart · 지역 배전망 운영사 계통연결 담당 (가상)
+cast: KUHNERT | Dietmar Kuhnert · 슈판다우 구청 하급 문화재보호청 담당관 (가상) (59)
+note: ※ 독일 산업용 전기요금은 망 사용료와 각종 부담금 때문에 국제적으로 높은 편이며, 이는 '탈산업화' 논쟁의 핵심입니다. 기업들은 자가 태양광(Photovoltaik)과 재생에너지 발전사와 직접 맺는 장기 전력구매계약(PPA, Power Purchase Agreement)으로 비용을 낮추려 합니다. 하지만 남는 전기를 망에 보내려면 배전망 운영사의 계통연결(Netzanschluss) 승인이 필요한데, 변전 설비 용량이 부족해 몇 년씩 기다리는 경우가 많습니다. 베를린에서는 지붕 태양광이 원칙적으로 건축 허가가 필요 없지만, 문화재 건물은 문화재보호법에 따른 별도 허가(Genehmigung)가 필요합니다. 2023년 개정된 재생에너지법(EEG) 제2조는 재생에너지 설비가 '압도적인 공익(überragendes öffentliches Interesse)'에 해당한다고 규정해, 문화재 보호와의 이익 형량에서 무게를 실어 줍니다. 공장의 '톱날 지붕(Sheddach)'은 북쪽에 채광창, 남쪽에 막힌 경사면이 있어 태양광 설치에 유리합니다. 표현 초점: die Genehmigung, der Netzanschluss, die Photovoltaik, der Antrag, Gibt es dafür ein Formular? — Es gibt immer ein Formular.
+next: 2부 14화 — «Hauptversammlung»(주주총회) — 프랑크푸르트 메세의 주주총회장. 배당을 중단하고 투자로 돌린 결정에 행동주의 펀드가 이사회 불신임안을 낸다. Konrad는 병원에 있고, 의장석에는 Clara가 앉는다. 네 시간의 질의응답, 그리고 마지막 소액주주의 질문.
+
+## 도입 — AUF DEM DACH, SIEBEN UHR DREISSIG
+SELIN: Achtundzwanzigtausend Quadratmeter. Von hier oben sieht man bis zum Fernsehturm.
+> 2만 8,000제곱미터. 여기서 보면 TV 타워까지 보여.
+TOBIAS: Und es ist die größte ungenutzte Fläche des ganzen Unternehmens. Nach meinem Schreibtisch am Freitagnachmittag.
+> 그리고 회사 전체에서 제일 넓은 미사용 공간이지. 금요일 오후의 내 책상 다음으로.
+NOWAK: Bitte bleiben Sie auf den Laufstegen. Dieses Dach ist fast hundert Jahre alt. Es hat zwei Weltkriege überlebt, aber noch keine Finanzvorstände.
+> 통로 위로만 다니세요. 이 지붕은 거의 100년 됐어요. 세계대전 두 번은 버텼지만 CFO는 아직 겪어 본 적이 없거든요.
+LEON: Darf ich die Drohne starten? Herr Pietsch hat gesagt, für die Fotos ist das in Ordnung.
+> 드론 띄워도 돼요? 피치 마이스터님이 사진 찍는 건 괜찮다고 하셨어요.
+NOWAK: Wenn sie nicht in die Glasdächer fliegt, ja.
+> 유리 지붕에 처박지만 않으면, 그래.
+SELIN: Die Idee ist ganz einfach. Wir bauen auf alle Hallen Photovoltaik. Knapp vier Megawatt. Den Rest holen wir über einen Liefervertrag direkt von einem Windpark in Brandenburg.
+> 아이디어는 아주 간단해. 모든 공장동 위에 태양광을 올리는 거야. 4메가와트 가까이. 나머지는 브란덴부르크의 풍력 단지와 직접 계약해서 받고.
+TOBIAS: Und am Ende sinken die Energiekosten in Spandau um zwanzig Prozent. Das hast du dem Vorstand versprochen. Nicht ich.
+> 그래서 결국 슈판다우 에너지 비용이 20퍼센트 줄어든다. 그건 네가 이사회에 약속한 거야. 내가 아니라.
+SELIN: Ich habe es nicht versprochen. Ich habe es gerechnet.
+> 약속한 게 아니라 계산한 거야.
+TOBIAS: In diesem Haus ist das inzwischen dasselbe.
+> 이 회사에선 이제 그게 같은 말이야.
+KATHARINA: Selin? Ich habe zwei Minuten zwischen zwei Terminen. Wie sieht es aus?
+> 셀린? 회의 사이에 2분 있어. 어떻게 돼 가?
+SELIN: Das Dach ist perfekt, die Technik ist fertig, das Geld ist da. Es gibt nur zwei kleine Probleme.
+> 지붕은 완벽하고, 기술은 준비됐고, 돈도 있어. 작은 문제 두 개만 있을 뿐이야.
+NOWAK: Der Netzanschluss. Und das Denkmal, auf dem wir gerade stehen.
+> 계통연결. 그리고 우리가 지금 서 있는 이 문화재.
+
+## 분석 — KILOWATTSTUNDEN UND ZIEGEL
+KATHARINA: Das Denkmal?
+> 문화재?
+NOWAK: Halle drei und vier sind Klinkerbauten von neunzehnhundertsiebenundzwanzig. Seit neunzehnhundertfünfundneunzig stehen sie unter Denkmalschutz. Wegen der Sheddächer.
+> 3번과 4번 공장동은 1927년에 지은 클링커 벽돌 건물이에요. 1995년부터 문화재로 보호받고 있죠. 톱날 지붕 때문에요.
+KATHARINA: Gut. Klärt das. Ich muss los. Und Selin — ich glaube an das Dach.
+> 알았어. 그건 너희가 정리해. 나 가야 해. 그리고 셀린, 난 그 지붕을 믿어.
+TOBIAS: Fangen wir mit den Zahlen an, die ich verstehe. Wie viel Strom verbraucht Spandau heute?
+> 내가 이해할 수 있는 숫자부터 시작하자. 슈판다우가 지금 전기를 얼마나 쓰지?
+NOWAK: Achtundvierzig Gigawattstunden im Jahr. Mit der neuen Linie für die Militärgetriebe ab nächstem Jahr rund vierundsechzig.
+> 연간 48기가와트시. 내년부터 군용 변속기 라인이 들어가면 64 정도.
+TOBIAS: Bei unserem heutigen Preis — mit Netzentgelten, Abgaben und allem — sind das fast zehn Millionen Euro im Jahr. Mehr als die gesamte Marge des Windgeschäfts.
+> 지금 우리 단가로, 망 사용료와 각종 부담금까지 다 합치면 연간 거의 1,000만 유로야. 풍력 사업 마진 전체보다 많아.
+SELIN: Die Photovoltaik auf dem Dach liefert etwa dreieinhalb Gigawattstunden. Das klingt wenig, aber wir verbrauchen fast alles selbst, tagsüber, wenn die Maschinen laufen. Jede Kilowattstunde vom Dach kostet uns ein Drittel dessen, was wir heute zahlen.
+> 지붕 태양광으로 약 3.5기가와트시가 나와. 적어 보이지만 거의 다 낮에 기계가 돌아갈 때 우리가 직접 써. 지붕에서 나온 1킬로와트시는 지금 우리가 내는 값의 3분의 1밖에 안 들어.
+TOBIAS: Und der Windpark?
+> 그럼 풍력 단지는?
+SELIN: Uckerwind bietet uns einen Vertrag über zehn Jahre an. Zwanzig Gigawattstunden im Jahr, fester Preis. Damit wissen wir zehn Jahre lang, was Strom kostet. Das ist mehr wert als der Preis selbst.
+> 우커빈트가 10년짜리 계약을 제안했어. 연간 20기가와트시, 고정 가격. 그러면 10년 동안 전기값이 얼마인지 알 수 있어. 그게 가격 그 자체보다 더 값져.
+TOBIAS: Ein PPA. Bei der Bank haben wir solche Verträge immer gemocht, weil man sie wie eine Anleihe bewerten kann. Und was fehlt noch zu den zwanzig Prozent?
+> PPA로군. 은행에 있을 때 그런 계약을 늘 좋아했어. 채권처럼 가치를 매길 수 있거든. 그럼 20퍼센트까지 나머지는?
+SELIN: Wärme. Die Härterei produziert Abwärme, und wir heizen die Hallen gleichzeitig mit Gas. Eine Industriewärmepumpe holt die Wärme aus der Härterei und heizt damit die Hallen. Das spart den größten Teil des Gases.
+> 열이야. 열처리 공정에서 폐열이 나오는데, 동시에 우리는 가스로 공장동을 난방하고 있어. 산업용 히트펌프가 열처리 공정의 열을 끌어다 공장동을 데우는 거야. 그러면 가스 대부분을 아낄 수 있어.
+NOWAK: Und die Druckluft. Wir haben letzten Monat mit Ultraschall nach Lecks gesucht. Dreihundertzwölf Stück. Wir blasen jedes Jahr Strom für eine halbe Million einfach in die Halle.
+> 그리고 압축 공기. 지난달에 초음파로 누출 지점을 찾아봤어요. 312곳. 매년 50만 유로어치 전기를 그냥 공장 안에 날려 보내고 있었던 거죠.
+TOBIAS: Dreihundertzwölf Löcher. Das erinnert mich an unsere Kasse im letzten Oktober.
+> 구멍 312개라. 작년 10월 우리 금고가 생각나네.
+SELIN: Zusammen sind es einundzwanzig Prozent weniger Energiekosten. Investition elf Millionen, zur Hälfte gefördert. Nach fünf Jahren hat es sich bezahlt gemacht.
+> 다 합치면 에너지 비용이 21퍼센트 줄어. 투자비 1,100만, 그중 절반은 보조금. 5년이면 본전을 뽑아.
+BAUMGART: Guten Morgen. Baumgart, Netzanschlussmanagement. Sie wollten mich hier oben sprechen? Normalerweise treffe ich Kunden in einem Büro mit Stühlen.
+> 좋은 아침입니다. 계통연결 관리 담당 바움가르트입니다. 여기 위에서 만나자고 하셨다고요? 보통은 의자 있는 사무실에서 고객을 만나는데요.
+SELIN: Herr Baumgart, danke, dass Sie gekommen sind. Wir wollen knapp vier Megawatt aufs Dach bauen. Wann können wir ans Netz?
+> 바움가르트 씨, 와 주셔서 감사해요. 지붕에 4메가와트 가까이 설치하려고 해요. 언제 계통에 연결할 수 있을까요?
+BAUMGART: Ich sage es Ihnen ehrlich: Das Umspannwerk hier in Spandau ist voll. Für eine Einspeisung in dieser Größe müssen wir einen neuen Transformator setzen. Das dauert etwa zwei Jahre.
+> 솔직히 말씀드리죠. 여기 슈판다우 변전소가 꽉 찼습니다. 이 규모로 전력을 보내려면 변압기를 새로 설치해야 해요. 2년쯤 걸립니다.
+TOBIAS: Zwei Jahre. Und warum?
+> 2년이요? 왜요?
+BAUMGART: Planung, Genehmigung, Lieferzeit für den Transformator. Transformatoren sind gerade so gefragt wie Ihre Getriebe. Ganz Europa will gleichzeitig an das Netz.
+> 설계, 인허가, 변압기 납기. 지금 변압기는 귀사 변속기만큼이나 수요가 많아요. 유럽 전체가 동시에 계통에 붙으려고 하니까요.
+LEON: Aber wenn Sie den Strom sowieso fast komplett selbst verbrauchen — warum müssen Sie dann überhaupt etwas einspeisen?
+> 근데 어차피 전기를 거의 다 직접 쓰신다면서요. 그럼 왜 굳이 망에 보내야 해요?
+BAUMGART: … Gute Frage, junger Mann. Wer sind Sie?
+> …좋은 질문이네, 젊은이. 누구시죠?
+LEON: Leon. Ich bin Azubi. Na ja, fast. Einstiegsqualifizierung.
+> 레온이요. 견습생이에요. 뭐, 거의요. 입문 자격 과정.
+SELIN: Er hat recht. Am Wochenende produziert das Dach mehr, als wir brauchen. An Werktagen fast nichts zu viel. Mit einem Batteriespeicher könnten wir die Überschüsse vom Wochenende auf Montag schieben.
+> 레온 말이 맞아요. 주말엔 지붕이 우리가 쓰는 것보다 많이 만들지만, 평일엔 남는 게 거의 없어요. 배터리 저장 장치가 있으면 주말에 남는 전기를 월요일로 넘길 수 있죠.
+BAUMGART: Dann wäre ein Anschluss mit begrenzter Einspeiseleistung denkbar. Das prüfen wir schneller. Aber nicht in zwei Wochen.
+> 그렇다면 송전 출력을 제한한 연결은 생각해 볼 수 있습니다. 그건 더 빨리 검토하죠. 하지만 2주 안에는 안 됩니다.
+SELIN: In wie vielen?
+> 몇 주 안에요?
+BAUMGART: Wenn der Antrag vollständig ist, in vier Monaten. Vollständig heißt: mit Datenblättern, Schutzkonzept, Lageplan und der Zustimmung des Grundstückseigentümers.
+> 신청서가 완비되면 4개월 안에요. 완비라는 건 사양서, 보호 계통 설계, 배치도, 그리고 부지 소유주의 동의까지 다 들어 있다는 뜻입니다.
+NOWAK: Der Grundstückseigentümer sind wir.
+> 부지 소유주가 우리예요.
+BAUMGART: Dann brauchen Sie Ihre eigene Zustimmung. Auch die muss unterschrieben sein. Sie würden staunen, wie oft sie fehlt.
+> 그럼 귀사 스스로의 동의가 필요하겠네요. 그것도 서명이 돼 있어야 합니다. 그게 빠지는 경우가 얼마나 많은지 아시면 놀라실 거예요.
+TOBIAS: Gut. Netz: lösbar. Bleibt das Denkmal.
+> 좋아. 계통: 해결 가능. 남은 건 문화재.
+NOWAK: Dafür haben wir um vierzehn Uhr einen Termin im Rathaus Spandau. Bei Herrn Kuhnert von der unteren Denkmalschutzbehörde.
+> 그 건으로 오후 두 시에 슈판다우 구청에 약속이 있어요. 하급 문화재보호청의 쿠너트 씨랑요.
+SELIN: Ich habe den Antrag schon vorbereitet. Fünfundvierzig Seiten.
+> 신청서는 이미 준비해 뒀어. 45쪽.
+NOWAK: Dann haben Sie ungefähr die Hälfte.
+> 그럼 대략 절반은 하신 거네요.
+SELIN: Die Hälfte? Ich habe sogar ein Inhaltsverzeichnis gemacht.
+> 절반이요? 저 목차까지 만들었는데요.
+
+## 갈등 — RATHAUS SPANDAU, ZIMMER 2.14
+KUHNERT: Kuhnert. Nehmen Sie Platz. Ich habe Ihre Unterlagen gestern bekommen. Fünfundvierzig Seiten. Respekt. Die meisten kommen mit einem Foto vom Handy.
+> 쿠너트입니다. 앉으세요. 서류는 어제 받았습니다. 45쪽이더군요. 대단합니다. 대부분은 휴대폰 사진 한 장 들고 오거든요.
+SELIN: Danke. Herr Kuhnert, wir möchten auf die Hallen drei und vier eine Photovoltaikanlage bauen. Was brauchen wir für die Genehmigung?
+> 감사합니다. 쿠너트 씨, 3번과 4번 공장동에 태양광 설비를 설치하고 싶어요. 허가를 받으려면 뭐가 필요한가요?
+KUHNERT: Eine denkmalrechtliche Genehmigung. Dafür brauche ich: Lagepläne, Ansichten aller betroffenen Dachflächen, eine Darstellung der Sichtbeziehungen vom öffentlichen Straßenraum, ein statisches Gutachten …
+> 문화재보호법상의 허가요. 그러려면 배치도, 해당 지붕면 전체의 입면도, 공공 도로에서 보이는 시야 관계 분석, 구조 검토서…
+SELIN: Das statische Gutachten ist auf Seite zwölf.
+> 구조 검토서는 12쪽에 있어요.
+KUHNERT: … Muster der Module mit Farbe und Oberfläche, eine Beschreibung der Befestigung — und die Stellungnahme des Landesdenkmalamts. Die hole ich ein.
+> …모듈 견본과 색상·표면 정보, 고정 방식 설명, 그리고 주 문화재청의 의견서. 그건 제가 받아 옵니다.
+TOBIAS: Wie lange dauert das?
+> 그건 얼마나 걸리죠?
+KUHNERT: Das Landesdenkmalamt? Drei bis sechs Monate. Im Sommer eher sechs. Da ist Urlaubszeit.
+> 주 문화재청이요? 3개월에서 6개월. 여름엔 6개월에 가깝죠. 휴가철이라.
+SELIN: Und für die Module? Gibt es dafür ein Formular?
+> 모듈 견본은요? 그것도 서식이 있나요?
+KUHNERT: Es gibt immer ein Formular, Frau Aydın. Hier: Anlage sieben b, «Materialmuster und Farbgebung bei Eingriffen in die Dachhaut».
+> 서식은 언제나 있습니다, 아이든 씨. 여기요. 별첨 7b, «지붕 외피 변경 시 자재 견본 및 색채 계획».
+TOBIAS: Dachhaut. Ich wusste nicht, dass Dächer eine Haut haben.
+> 지붕 외피라. 지붕에 피부가 있는 줄은 몰랐네요.
+KUHNERT: Herr Wendt, Dächer haben eine Haut, Fassaden ein Gesicht und Sheddächer eine Silhouette. Und diese Silhouette steht unter Schutz.
+> 벤트 씨, 지붕엔 외피가 있고, 파사드엔 얼굴이 있고, 톱날 지붕엔 윤곽이 있습니다. 그리고 그 윤곽이 보호 대상이에요.
+SELIN: Was genau ist das Problem mit der Silhouette?
+> 그 윤곽에 정확히 무슨 문제가 있는 거죠?
+KUHNERT: Neunzehnhundertsiebenundzwanzig hat der Architekt Erich Bruhns diese Hallen gebaut. Die Sheddächer sind das, was man von der Straße aus sieht: diese gezackte Linie gegen den Himmel. Wenn da schwarze, spiegelnde Platten drauf liegen, ist die Linie weg.
+> 1927년에 건축가 에리히 브룬스가 이 공장동들을 지었습니다. 톱날 지붕은 거리에서 보이는 그 건물의 모습이에요. 하늘을 배경으로 한 들쭉날쭉한 선. 그 위에 검고 번쩍이는 판을 깔면 그 선이 사라지죠.
+TOBIAS: Herr Kuhnert, wir reden über Strom für sechshundert Arbeitsplätze, nicht über eine Linie gegen den Himmel.
+> 쿠너트 씨, 우리는 일자리 600개를 위한 전기 얘기를 하는 거지, 하늘을 배경으로 한 선 얘기를 하는 게 아닙니다.
+KUHNERT: Und ich rede über das Gesetz, Herr Wendt. Ich habe es nicht geschrieben, aber ich muss es anwenden.
+> 그리고 저는 법 얘기를 하는 겁니다, 벤트 씨. 제가 만든 법은 아니지만 적용은 제가 해야 하죠.
+SELIN: Und was wäre eine Lösung, die das Gesetz erlaubt?
+> 그럼 법이 허용하는 해결책은 뭘까요?
+KUHNERT: Das ist nicht meine Aufgabe, Frau Aydın. Ich prüfe Anträge. Ich schreibe sie nicht.
+> 그건 제 일이 아닙니다, 아이든 씨. 저는 신청서를 심사하지, 써 드리지는 않아요.
+TOBIAS: Und wenn wir die Anlage einfach nur auf die Hallen bauen, die nicht unter Schutz stehen? Dafür brauchen wir doch gar keine Genehmigung.
+> 그럼 보호 대상이 아닌 공장동에만 설치하면요? 그건 허가가 아예 필요 없잖아요.
+KUHNERT: Auf den Hallen eins, zwei und fünf dürfen Sie bauen, was Sie wollen. Aber das ist zusammen nur ein Drittel der Fläche. Und wer auf drei und vier ohne Genehmigung baut, begeht eine Ordnungswidrigkeit — mit Bußgeld und Rückbau.
+> 1, 2, 5번 공장동에는 원하는 대로 지으셔도 됩니다. 하지만 그건 다 합쳐도 면적의 3분의 1이에요. 그리고 3, 4번에 허가 없이 설치하면 질서위반행위가 됩니다. 과태료에 원상 복구까지.
+TOBIAS: Ein Drittel der Fläche bringt nicht einmal die Hälfte der Ersparnis. Damit kommen wir nicht auf zwanzig Prozent.
+> 면적 3분의 1로는 절감액 절반도 안 나와요. 그걸로는 20퍼센트가 안 됩니다.
+SELIN: Dann reden wir weiter über drei und vier. Herr Kuhnert, was genau würde Sie überzeugen?
+> 그럼 3번과 4번 얘기를 계속하죠. 쿠너트 씨, 정확히 무엇이 있으면 설득되시겠어요?
+KUHNERT: Dass jemand vorher nachgedacht hat. Das ist seltener, als Sie glauben.
+> 누군가 미리 생각을 해 봤다는 것. 생각보다 드문 일입니다.
+KRÖGER: Entschuldigung, ich bin zu spät. Kröger, Betriebsrat. Die Pförtnerin unten wollte erst einen Termin sehen.
+> 늦어서 죄송합니다. 노동자평의회의 크뢰거예요. 아래층 안내원이 먼저 예약부터 보여 달라더군요.
+KUHNERT: Hatten Sie einen?
+> 예약하셨습니까?
+KRÖGER: Ich habe seit März einen Termin beim Bürgeramt für meinen Personalausweis. Reicht das?
+> 3월부터 신분증 때문에 주민센터에 예약 잡혀 있는데요. 그거면 됩니까?
+KUHNERT: Für dieses Zimmer nicht. — Was wollen Sie, Herr Kröger?
+> 이 방에는 안 됩니다. — 원하시는 게 뭡니까, 크뢰거 씨?
+KRÖGER: Ich will, dass mein Werk billigen Strom bekommt, bevor die Stromrechnung die Arbeitsplätze frisst, die wir gerade im Aufsichtsrat gerettet haben. Sie schützen Ziegel. Ich schütze Leute.
+> 우리 공장이 싼 전기를 받길 원해요. 우리가 방금 감사회에서 지켜 낸 일자리를 전기요금이 잡아먹기 전에. 당신은 벽돌을 지키죠. 나는 사람을 지킵니다.
+KUHNERT: Herr Kröger, ohne Leute wie mich gäbe es in Spandau keine Ziegel mehr. Nur Parkplätze und Baumärkte. Ihre Hallen stehen noch, weil jemand sie in den Neunzigern geschützt hat, als Ihr Unternehmen sie abreißen wollte.
+> 크뢰거 씨, 저 같은 사람들이 없었으면 슈판다우엔 벽돌 건물이 하나도 안 남았을 겁니다. 주차장이랑 건자재 마트만 있었겠죠. 당신네 공장동이 아직 서 있는 건, 90년대에 회사가 그걸 허물려고 할 때 누군가 보호해 줬기 때문이에요.
+NOWAK: … Das stimmt übrigens. Es gab neunzehnhundertvierundneunzig einen Abrissantrag. Ich habe ihn im Archiv gefunden.
+> …그건 사실이에요. 1994년에 철거 신청이 있었어요. 기록 보관소에서 봤습니다.
+KRÖGER: Das war vor meiner Zeit als Betriebsrat.
+> 그건 내가 노동자평의회 맡기 전이었어요.
+KUHNERT: Und das hier ist nach meiner Zeit als Abrissgegner. Ich mache das seit dreißig Jahren. Ich bin nicht gegen Photovoltaik. Ich bin gegen Photovoltaik ohne Nachdenken.
+> 그리고 지금은 제가 철거 반대 활동을 한 뒤의 일이고요. 저는 30년째 이 일을 하고 있습니다. 태양광에 반대하는 게 아니에요. 생각 없는 태양광에 반대하는 겁니다.
+TOBIAS: Sechs Monate Landesdenkmalamt, vier Monate Netz. Die Linie läuft ab Januar. Dann zahlen wir ein ganzes Jahr den vollen Strompreis. Das sind etwa zwei Millionen, die wir nicht haben.
+> 주 문화재청 6개월, 계통 4개월. 생산 라인은 1월부터 돌아가고요. 그럼 1년 내내 전기요금을 다 내야 합니다. 우리한테 없는 200만쯤이죠.
+SELIN: Herr Kuhnert, darf ich ganz ehrlich sein? Ich habe seit Februar Formulare für Visa, für Wohnungen und für den Netzbetreiber ausgefüllt. Ich habe gelernt, dass es immer ein Formular gibt. Aber ich habe auch gelernt, dass hinter jedem Formular ein Mensch sitzt, der entscheiden kann, wie schnell er es liest.
+> 쿠너트 씨, 정말 솔직하게 말씀드려도 될까요? 저는 2월부터 비자, 주택, 배전망 운영사 서식을 채웠어요. 서식은 언제나 있다는 걸 배웠죠. 그런데 모든 서식 뒤에는 그걸 얼마나 빨리 읽을지 정할 수 있는 사람이 앉아 있다는 것도 배웠어요.
+KUHNERT: Das ist charmant, Frau Aydın. Aber Charme ist keine Anlage.
+> 매력적인 말씀이군요, 아이든 씨. 하지만 매력은 별첨 서류가 아닙니다.
+SELIN: Dann habe ich vielleicht eine Anlage, die Sie noch nicht kennen.
+> 그럼 쿠너트 씨가 아직 모르시는 별첨이 있을지도 몰라요.
+
+## 해결·설득 — ANLAGE ACHT
+SELIN: Erstens: Seit dem neuen Erneuerbare-Energien-Gesetz liegen solche Anlagen im überragenden öffentlichen Interesse. Paragraf zwei. Das müssen auch Denkmalbehörden in ihrer Abwägung berücksichtigen.
+> 첫째, 개정된 재생에너지법 이후로 이런 설비는 압도적인 공익에 해당해요. 제2조. 문화재 관청도 이익 형량에서 이를 고려해야 하고요.
+KUHNERT: Das kenne ich, Frau Aydın. Es heißt aber nicht, dass der Denkmalschutz verschwindet. Es heißt, dass ich besser begründen muss, wenn ich Nein sage.
+> 그건 압니다, 아이든 씨. 하지만 그게 문화재 보호가 사라진다는 뜻은 아니에요. 제가 '안 된다'고 할 때 더 잘 근거를 대야 한다는 뜻이죠.
+SELIN: Genau. Und ich möchte Ihnen das Nein so schwer wie möglich machen. Leon, zeigst du die Bilder?
+> 바로 그거예요. 그리고 저는 쿠너트 씨가 '안 된다'고 하시기를 최대한 어렵게 만들고 싶어요. 레온, 사진 보여 줄래?
+LEON: Das sind Drohnenaufnahmen von heute früh. Hier ist die Straße, von der man auf die Hallen schaut. Und hier die Sheddächer.
+> 오늘 아침에 찍은 드론 사진이에요. 여기가 공장동을 바라보는 거리고요. 여기가 톱날 지붕이에요.
+SELIN: Die Glasflächen der Sheds zeigen nach Norden, zur Straße. Die geschlossenen Dachflächen zeigen nach Süden, zum Werkhof. Die Module kommen nur auf die Südseite. Von der Straße aus sieht man — nichts.
+> 톱날 지붕의 유리면은 북쪽, 거리 쪽을 향해 있어요. 막힌 지붕면은 남쪽, 공장 마당 쪽을 향하고요. 모듈은 남쪽 면에만 올라가요. 거리에서는 아무것도 안 보여요.
+KUHNERT: … Darf ich die Bilder größer sehen?
+> …사진을 크게 볼 수 있을까요?
+LEON: Klar. Ich habe sie von drei Punkten aus gemacht. Auch vom Kirchturm aus. Der Pfarrer hat mich hochgelassen.
+> 그럼요. 세 군데에서 찍었어요. 교회 종탑에서도요. 신부님이 올라가게 해 주셨어요.
+KUHNERT: Vom Kirchturm. Das ist die Sichtachse, die das Landesdenkmalamt immer zuerst prüft. Woher wissen Sie das?
+> 종탑에서라. 주 문화재청이 늘 제일 먼저 확인하는 시야 축이에요. 그걸 어떻게 알았죠?
+SELIN: Aus Ihrem Leitfaden zu Solaranlagen auf Denkmalen. Seite neun. Ich hatte am Wochenende Zeit.
+> 문화재 위 태양광 설비에 관한 지침서에서요. 9쪽. 주말에 시간이 있었거든요.
+SELIN: Zweitens: Für Halle drei, deren Südseite man vom Kirchturm doch sieht, nehmen wir matte Module in Ziegelrot. Sie kosten zwölf Prozent mehr und bringen etwas weniger Strom. Aber die Linie bleibt.
+> 둘째, 종탑에서는 남쪽 면이 보이는 3번 공장동에는 벽돌색 무광 모듈을 씁니다. 12퍼센트 더 비싸고 전기는 조금 덜 나오지만, 그 선은 그대로 남아요.
+TOBIAS: Zwölf Prozent teurer. Für eine Halle. Das trage ich mit, wenn es sechs Monate spart.
+> 12퍼센트 더 비싸다. 공장동 하나에 대해서. 6개월을 아낄 수 있다면 감수하겠습니다.
+KUHNERT: Ziegelrote Module. Es gibt Hersteller, die sie anbieten, ja. Ich habe sie bisher nur auf Bauernhöfen gesehen.
+> 벽돌색 모듈이라. 그런 걸 파는 업체가 있긴 하죠. 지금까지는 농가 건물에서만 봤습니다만.
+SELIN: Drittens: Die Befestigung ist vollständig reversibel. Keine Bohrung in die historische Dachhaut, nur geklemmt. Wenn in dreißig Jahren jemand die Module abnimmt, sieht das Dach aus wie heute.
+> 셋째, 고정 방식은 완전히 원상 복구가 가능합니다. 역사적인 지붕 외피에 구멍을 뚫지 않고 클램프로만 고정해요. 30년 뒤에 누가 모듈을 떼어 내도 지붕은 오늘과 똑같을 거예요.
+KUHNERT: Reversibel. Das ist das Wort, das mein Kollege im Landesdenkmalamt am liebsten liest.
+> 원상 복구 가능. 주 문화재청 동료가 제일 좋아하는 단어군요.
+SELIN: Deshalb steht es in Anlage acht. Sie war nicht im Formular vorgesehen. Ich habe sie trotzdem angehängt.
+> 그래서 별첨 8에 넣었어요. 서식에는 없는 별첨이지만 그래도 붙였어요.
+NOWAK: Und viertens, Herr Kuhnert, wenn ich darf: Wir lassen bei der Gelegenheit die alte Uhr am Turm von Halle drei restaurieren. Sie steht seit neunzehnhundertneunundachtzig auf zehn nach vier.
+> 그리고 넷째, 쿠너트 씨, 괜찮으시다면요. 이참에 3번 공장동 탑의 낡은 시계도 복원하겠습니다. 1989년부터 네 시 십 분에 멈춰 있거든요.
+KUHNERT: … Auf zehn nach vier. Ich weiß.
+> …네 시 십 분. 압니다.
+SELIN: Sie wissen das?
+> 그걸 아세요?
+KUHNERT: Mein Großvater war Dreher in Halle drei. Von neunzehnhundertdreiundfünfzig bis zu seiner Rente. Er hat immer gesagt, die Uhr ist stehen geblieben, als die Mauer fiel, weil niemand mehr Zeit hatte, sie aufzuziehen.
+> 제 할아버지가 3번 공장동 선반공이셨어요. 1953년부터 은퇴하실 때까지. 장벽이 무너졌을 때 다들 그걸 감을 시간이 없어서 시계가 멈췄다고 늘 말씀하셨죠.
+KRÖGER: Dann haben Sie ja doch mehr mit dem Werk zu tun, als Sie zugeben.
+> 그럼 인정하시는 것보다 공장이랑 더 깊은 인연이 있으시네.
+KUHNERT: Ich habe mit jedem Gebäude in Spandau etwas zu tun, Herr Kröger. Das ist mein Problem. — Gut. Frau Aydın, wenn Anlage acht so vollständig ist wie der Rest, schicke ich den Antrag diese Woche ans Landesdenkmalamt. Mit meiner Empfehlung.
+> 저는 슈판다우의 모든 건물과 인연이 있습니다, 크뢰거 씨. 그게 제 문제죠. — 좋습니다. 아이든 씨, 별첨 8이 나머지만큼 완비돼 있다면 이번 주에 주 문화재청에 신청서를 보내겠습니다. 제 추천 의견을 붙여서요.
+TOBIAS: Mit Empfehlung. Wie lange dauert es dann?
+> 추천 의견을 붙이면 얼마나 걸리죠?
+KUHNERT: Mit Empfehlung, vollständigen Unterlagen und einer reversiblen Befestigung? Sechs bis acht Wochen. Vor dem Urlaub meines Kollegen, wenn ich ihn heute noch anrufe.
+> 추천 의견에, 완비된 서류에, 원상 복구 가능한 고정 방식이라? 6주에서 8주. 오늘 동료한테 전화하면 그 사람 휴가 전에 될 수도 있어요.
+KRÖGER: Rufen Sie ihn an. Bitte. Ich sage das selten zu einem Beamten.
+> 전화해 주세요. 부탁입니다. 공무원한테 이런 말 잘 안 합니다.
+KUHNERT: Und ich höre es selten von einem Betriebsrat. — Eine Bedingung habe ich noch. Am Tag des offenen Denkmals im September öffnen Sie das Dach für Besucher. Damit die Leute sehen, dass Denkmalschutz und Photovoltaik zusammengehen.
+> 그리고 저도 노동자평의회한테서 그런 말을 잘 못 듣죠. — 조건이 하나 더 있습니다. 9월 '문화재 개방의 날'에 지붕을 방문객에게 개방해 주세요. 문화재 보호와 태양광이 함께 갈 수 있다는 걸 사람들이 보도록.
+SELIN: Abgemacht. Leon macht die Führung.
+> 좋아요. 레온이 안내를 맡을 거예요.
+LEON: Ich? Vor Leuten?
+> 제가요? 사람들 앞에서요?
+KUHNERT: Junger Mann, Sie haben den Pfarrer überredet, Sie auf den Kirchturm zu lassen. Mit ein paar Rentnern auf einem Dach werden Sie fertig.
+> 젊은이, 신부님을 설득해서 종탑에도 올라갔잖아요. 지붕 위의 연금생활자 몇 명쯤은 감당할 수 있을 겁니다.
+
+## 마무리 — ZURÜCK AUF DEM DACH, SIEBZEHN UHR
+TOBIAS: Sechs bis acht Wochen Denkmal, vier Monate Netz mit begrenzter Einspeisung. Wenn alles klappt, läuft das Dach im November. Zwei Monate vor der neuen Linie.
+> 문화재 6~8주, 출력 제한 계통연결 4개월. 다 잘되면 11월에 지붕이 가동돼. 새 라인보다 두 달 먼저.
+SELIN: Und die Energiekosten?
+> 그럼 에너지 비용은?
+TOBIAS: Minus einundzwanzig Prozent, wie du gerechnet hast. Ich habe es dreimal nachgerechnet. Ich hasse es, wenn du recht hast, bevor ich fertig bin.
+> 네가 계산한 대로 21퍼센트 감소. 세 번이나 다시 계산했어. 내가 다 끝내기도 전에 네가 맞으면 정말 싫어.
+KRÖGER: Frau Aydın. Das mit dem Kirchturm war gut. Und das mit dem Jungen auch. Im November haben Sie mir einen Container vorgestellt. Jetzt stellen Sie mir einen Azubi vor, der Beamte überredet.
+> 아이든 국장. 종탑 얘기 좋았어요. 그 녀석 얘기도요. 11월엔 컨테이너 하나를 소개하더니, 이젠 공무원을 설득하는 견습생을 소개하네.
+SELIN: Er heißt Leon. Und im September ist er richtiger Azubi.
+> 레온이에요. 그리고 9월이면 정식 견습생이 돼요.
+LEON: Wenn ich die Matheprüfung schaffe.
+> 수학 시험 통과하면요.
+KRÖGER: Die schaffst du. Wer einen Denkmalschützer rumkriegt, kriegt auch eine Gleichung rum.
+> 통과할 거야. 문화재 공무원을 구워삶는 놈이면 방정식쯤은 문제없지.
+TOBIAS: Selin, Katharina ruft an. — Ja? … Wann? … Verstehe. Wir kommen.
+> 셀린, 카타리나 전화야. — 응? …언제? …알았어. 갈게.
+SELIN: Was ist passiert?
+> 무슨 일이야?
+TOBIAS: Zwei Dinge. Ein Fonds aus London namens Ravensworth hat sechs Prozent unserer Aktien gekauft. Und er verlangt, dass auf der Hauptversammlung über ein Misstrauensvotum gegen Katharina abgestimmt wird.
+> 두 가지. 런던의 레이븐스워스라는 펀드가 우리 주식 6퍼센트를 사들였어. 그리고 주주총회에서 카타리나에 대한 불신임 표결을 하자고 요구하고 있어.
+SELIN: Und das Zweite?
+> 그리고 두 번째는?
+TOBIAS: Konrad liegt seit heute Mittag in der Uniklinik. Herzrhythmusstörungen. Er wird die Hauptversammlung nicht leiten können. Clara übernimmt.
+> 콘라트 회장님이 오늘 낮부터 대학병원에 입원해 계셔. 부정맥이래. 주주총회를 진행하실 수 없을 거래. 클라라가 맡을 거고.
