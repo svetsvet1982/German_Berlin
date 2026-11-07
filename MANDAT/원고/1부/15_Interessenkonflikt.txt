@@ -1,0 +1,263 @@
+part: 1
+ep: 15
+title_de: Interessenkonflikt
+title_ko: 이해충돌
+scene: 화요일 밤, Hellweg 프랑크푸르트 사무실
+level: B2
+setting: 파트너 위원회 아흐레 전 화요일 밤 열 시부터 새벽 두 시까지, 프랑크푸르트 웨스트엔드 Hellweg & Cie. 사무실 프로젝트룸
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
+cast: LORENZ | Jan-Hendrik Lorenz · 시니어 파트너, Ebersbach 수임 담당 파트너 (58)
+note: ※ 컨설팅사와 투자자문사는 새 일을 맡기 전에 '이해충돌 점검(Konfliktprüfung)'을 합니다. 이미 이해관계가 상반되는 다른 고객을 위해 일하고 있지 않은지 확인하는 절차입니다. 큰 회사들은 같은 시기에 매수자와 매도자를 모두 자문하기도 하는데, 이때 정보가 오가지 않도록 조직을 나누는 것을 '차이니스 월(Chinese Wall)'이라고 부릅니다. 하지만 한 사람이 매도자에게 '팔지 말지'를 조언하면서 동시에 매수자 쪽에서 '거래가 성사될 때만' 받는 성공 보수(Erfolgsprovision)를 약속받았다면, 그 조언은 독립적일 수 없습니다. 이런 경우 회사 컴플라이언스(Compliance) 규정은 보통 이해충돌을 공개하고 모든 당사자의 서면 동의를 받도록 요구합니다. 독일은 2023년 내부고발자 보호법(Hinweisgeberschutzgesetz)을 제정해, 회사 안에서 위법 행위를 신고한 사람이 불이익을 받지 않도록 보호하고 있습니다. 오래 du를 쓰던 사이에서 갑자기 Sie로 바꾸는 것은 독일어에서 매우 차갑고 단호한 거리 두기의 신호입니다. 회사·투자사·인물은 모두 가상입니다. 표현 초점: der Interessenkonflikt, die Provision, die Unabhängigkeit, die Compliance, Sie wissen genau, was Sie da tun.
+next: 1부 16화 — «Das Angebot»(제안) — 하나우의 Ebersbach 이사회실, 그리고 마인강변. Katharina는 Lorenz의 버전 대신 자신의 보고서를 Konrad에게 직접 내민다. "팔지 말고, 바꾸십시오." Hellweg를 떠나기로 한 그날 밤, Konrad는 뜻밖의 제안을 하고, 이번엔 Katharina가 설득당하는 쪽이 된다. 1부 마지막 대사는 Tobias의 몫이다.
+
+## 도입 — ZWEIUNDZWANZIG UHR, WESTEND
+SELIN: Zweiundzwanzig Uhr. Ich habe Ramen mitgebracht. Und Laugenbrezeln für den Notfall.
+> 밤 열 시. 라멘 사 왔어. 그리고 비상용 라우겐브레첼도.
+TOBIAS: Danke. Stell es hin. Ich habe seit sechs Uhr nichts gegessen.
+> 고마워. 거기 둬. 여섯 시부터 아무것도 못 먹었어.
+SELIN: Hast du etwas gefunden?
+> 뭐 찾았어?
+TOBIAS: Warte, bis Katharina da ist. Ich will es nur einmal erklären. Zweimal schaffe ich es nicht.
+> 카타리나 올 때까지 기다려. 한 번만 설명하고 싶어. 두 번은 못 할 것 같아.
+SELIN: So schlimm?
+> 그렇게 심각해?
+TOBIAS: Schlimmer. Und das Schlimmste: Es ist sauber abgelegt. Mit Datum und Unterschrift.
+> 더 심각해. 그리고 제일 최악은, 깔끔하게 정리돼 있다는 거야. 날짜와 서명까지.
+KATHARINA: Ich bin da. Ich war mit Konrad und Clara essen. Die Familienverfassung hat jetzt zwölf Artikel. Philipp hat elf davon angefochten.
+> 나 왔어. 콘라트랑 클라라랑 저녁 먹었어. 가족 헌장은 이제 조항이 열두 개야. 필립이 그중 열한 개에 이의를 제기했고.
+TOBIAS: Setz dich, Katharina.
+> 앉아, 카타리나.
+KATHARINA: Das klingt nicht gut.
+> 좋게 들리진 않네.
+TOBIAS: Ist es auch nicht. Ich habe „Main-Gold" gefunden.
+> 좋지 않아. '마인-골드'를 찾았어.
+KATHARINA: Wo?
+> 어디서?
+TOBIAS: Da, wo wir es alle hätten sehen können, wenn wir hingeschaut hätten. In unserer eigenen Konfliktprüfung.
+> 우리가 들여다보기만 했으면 다 볼 수 있었던 곳에서. 우리 회사 이해충돌 점검 시스템에서.
+
+## 장면 1 — MANDAT MG-2026
+SELIN: Konfliktprüfung? Was ist das genau?
+> 이해충돌 점검? 그게 정확히 뭐야?
+TOBIAS: Bevor Hellweg ein neues Mandat annimmt, wird geprüft, ob wir schon für jemanden arbeiten, dessen Interessen dagegenstehen. Jedes Mandat kommt mit Kunde, Gegenseite und Branche in eine Datenbank.
+> Hellweg가 새 수임을 받기 전에, 이해관계가 상충하는 누군가를 위해 이미 일하고 있는지 점검하는 거야. 모든 수임이 고객, 상대방, 업종과 함께 데이터베이스에 들어가.
+TOBIAS: Ich wollte heute unsere Stunden für Ebersbach buchen. Dabei hat das System eine Warnung angezeigt: „Mögliche Überschneidung mit Mandat MG-2026. Vertraulich."
+> 오늘 에버스바흐 투입 시간을 입력하려는데, 시스템이 경고를 띄웠어. '수임 MG-2026과 중복 가능성. 기밀.'
+KATHARINA: MG. Main-Gold.
+> MG. 마인-골드.
+TOBIAS: Genau. Auf vertrauliche Mandate habe ich keinen Zugriff. Aber an der Warnung hängt automatisch ein Anhang: die Mandatsvereinbarung. Und die hat jemand vergessen zu sperren.
+> 맞아. 나는 기밀 수임에 접근 권한이 없어. 그런데 경고에는 자동으로 첨부 파일이 붙어. 수임 계약서. 그리고 누가 그걸 잠그는 걸 깜빡했어.
+SELIN: Und was steht drin?
+> 그래서 뭐라고 돼 있어?
+TOBIAS: Auftraggeber: Corvalis Capital. Auftragnehmer: Hellweg Corporate Finance GmbH — unsere Tochter für Unternehmenskäufe. Verantwortlicher Partner: Jan-Hendrik Lorenz. Unterschrieben am dritten September.
+> 의뢰인: 코르발리스 캐피털. 수임인: Hellweg Corporate Finance 유한회사 — 우리 기업인수 자회사. 담당 파트너: 얀헨드릭 로렌츠. 서명일은 9월 3일.
+KATHARINA: Der dritte September. Neun Tage vor der Folie mit dem Kaufpreis.
+> 9월 3일. 매각 가격 슬라이드보다 아흐레 전이네.
+TOBIAS: Und sieben Wochen, bevor Konrad uns beauftragt hat. Gegenstand: „Beratung beim Erwerb eines Familienunternehmens der Antriebstechnik im Rhein-Main-Gebiet".
+> 그리고 콘라트가 우리한테 일을 맡기기 7주 전. 목적: '라인-마인 지역 구동기술 분야 가족기업 인수 자문'.
+SELIN: Das ist Ebersbach. Ein anderes gibt es nicht.
+> 그건 에버스바흐야. 다른 데는 없어.
+TOBIAS: Und jetzt kommt der Teil, bei dem ich mich setzen musste. Die Vergütung: eine Erfolgsprovision von eins Komma zwei Prozent des Transaktionswerts. Nur, wenn der Kauf zustande kommt.
+> 그리고 이제 내가 주저앉을 수밖에 없었던 부분. 보수: 거래 가치의 1.2퍼센트 성공 보수. 인수가 성사될 때만.
+KATHARINA: Bei eins Komma eins fünf Milliarden …
+> 11억 5천만이면…
+TOBIAS: … sind das knapp vierzehn Millionen Euro. Für Hellweg. Und laut Anlage drei gehen fünfzehn Prozent davon als Sonderbonus an den verantwortlichen Partner.
+> …1,400만 유로 가까이 돼. Hellweg 몫으로. 그리고 부속서 3에 따르면 그중 15퍼센트가 담당 파트너한테 특별 보너스로 가.
+SELIN: Zwei Millionen. Für Lorenz persönlich.
+> 200만. 로렌츠 개인한테.
+KATHARINA: … Und gleichzeitig beraten wir Konrad, ob er überhaupt verkaufen soll.
+> …그리고 동시에 우리는 콘라트한테 애초에 팔아야 할지 말지를 자문하고 있고.
+TOBIAS: Genau. Die eine Hand berät den Verkäufer, ob er verkaufen soll. Die andere Hand verdient nur, wenn er verkauft.
+> 그렇지. 한 손은 파는 쪽에 팔지 말지를 조언하고, 다른 한 손은 그가 팔아야만 돈을 벌어.
+SELIN: Das ist ein Interessenkonflikt wie aus dem Lehrbuch.
+> 교과서에 나오는 이해충돌이네.
+KATHARINA: Wie ist Ebersbach in der Konfliktprüfung eingetragen?
+> 이해충돌 점검에 에버스바흐는 어떻게 등록돼 있어?
+TOBIAS: Als „nicht verbunden". Jemand hat das Häkchen gesetzt, damit keine Warnung erscheint. Die Warnung kam nur, weil ich bei unseren Stunden „Antriebstechnik" als Branche eingetragen habe.
+> '관련 없음'으로. 경고가 안 뜨게 누가 체크를 해 놨어. 경고가 뜬 건 내가 우리 시간 기록에 업종을 '구동기술'로 입력했기 때문일 뿐이야.
+KATHARINA: Wer hat das Häkchen gesetzt?
+> 그 체크는 누가 했어?
+TOBIAS: Laut System: J. Lorenz. Dritter September, siebzehn Uhr zwölf.
+> 시스템상으로는 J. 로렌츠. 9월 3일 오후 다섯 시 12분.
+SELIN: Und die Folie mit dem Kaufpreis — war das dann eine Unterlage von Corvalis?
+> 그럼 매각 가격 슬라이드는 — 그게 코르발리스 자료였던 거야?
+TOBIAS: Das Logo in der Ecke spricht dafür. Und Lorenz' Fassung unseres Zwischenberichts zitiert drei Zahlen, die in keinem unserer Modelle vorkommen. Ich vermute, sie kommen aus derselben Quelle.
+> 구석의 로고가 그걸 말해 주지. 그리고 로렌츠가 고친 우리 중간 보고서 버전엔 우리 모델 어디에도 없는 숫자가 세 개 인용돼 있어. 같은 출처일 거라고 봐.
+KATHARINA: Gibt es bei Hellweg eine Regel dafür?
+> Hellweg에 이에 대한 규정이 있어?
+TOBIAS: Natürlich. Die Compliance-Richtlinie, Abschnitt vier: Wer gleichzeitig für Parteien mit gegensätzlichen Interessen arbeitet, muss das offenlegen und die Zustimmung aller Beteiligten einholen. Schriftlich.
+> 당연하지. 컴플라이언스 지침 4장. 상반된 이해관계를 가진 당사자들을 동시에 위해 일하는 사람은 그걸 공개하고 모든 관련자의 동의를 받아야 해. 서면으로.
+SELIN: Weiß Konrad davon?
+> 콘라트는 알아?
+KATHARINA: Ich war heute Abend mit ihm essen. Wenn er es wüsste, hätte er mich mit der Gabel erstochen.
+> 오늘 저녁에 같이 밥 먹었어. 알았다면 날 포크로 찔렀을 거야.
+TOBIAS: Was machen wir jetzt?
+> 이제 어떻게 해?
+KATHARINA: Es gibt drei Möglichkeiten. Wir schweigen. Wir gehen zur Compliance. Oder wir sagen es Konrad.
+> 세 가지 길이 있어. 침묵한다. 컴플라이언스에 간다. 아니면 콘라트한테 말한다.
+SELIN: Schweigen ist keine Möglichkeit.
+> 침묵은 선택지가 아니야.
+KATHARINA: Schweigen ist immer eine Möglichkeit, Selin. Nur keine gute. Und es ist die, die der Partnerausschuss nächsten Donnerstag am liebsten hätte.
+> 침묵은 언제나 선택지야, 셀린. 좋은 선택지가 아닐 뿐이지. 그리고 다음 주 목요일 파트너 위원회가 제일 반길 선택지이기도 하고.
+TOBIAS: Lorenz sitzt im Ausschuss. Als dein Fürsprecher.
+> 로렌츠가 그 위원회에 앉아 있어. 네 후원자로.
+KATHARINA: Ich weiß. — Hört ihr das? Der Aufzug.
+> 알아. — 들려? 엘리베이터 소리.
+
+## 장면 2 — „DAS IST BRANCHENPRAXIS"
+LORENZ: Licht im Projektraum um halb zwölf. Ich dachte mir, dass ich euch hier finde. Ich komme gerade von einem Abendessen und wollte nur eine Mappe holen.
+> 밤 열한 시 반에 프로젝트룸에 불이 켜져 있더군. 여기 있을 줄 알았지. 저녁 식사 마치고 서류철 하나 가지러 온 거야.
+KATHARINA: Ein Abendessen mit Corvalis Capital?
+> 코르발리스 캐피털하고 저녁 식사요?
+LORENZ: … Birgit, nehme ich an.
+> …비르기트겠군.
+TOBIAS: Nein, Herr Lorenz. Die Konfliktprüfung. MG-2026. Die Mandatsvereinbarung hängt als Anhang an der Warnung. Ungesperrt.
+> 아닙니다, 로렌츠 씨. 이해충돌 점검이요. MG-2026. 수임 계약서가 경고에 첨부돼 있더군요. 잠기지 않은 채로요.
+LORENZ: Sie lesen vertrauliche Dokumente, Herr Wendt?
+> 기밀 문서를 읽으셨군요, 벤트 씨?
+TOBIAS: Ich lese Warnungen, die mir das System zeigt. Das ist mein Beruf.
+> 시스템이 보여 주는 경고를 읽은 겁니다. 그게 제 일이죠.
+KATHARINA: Jan-Hendrik, erklär es mir. Ich will es von dir hören, nicht aus einer Datenbank.
+> 얀헨드릭, 설명해 줘요. 데이터베이스가 아니라 당신한테서 듣고 싶어요.
+LORENZ: Gut. Setzen wir uns. — Corvalis ist seit Jahren an Ebersbach interessiert. Im Sommer haben sie mich gefragt, ob wir sie bei einem möglichen Kauf beraten. Für Corporate Finance ist das ein ganz normales Mandat.
+> 좋아. 앉자고. — 코르발리스는 몇 년째 에버스바흐에 관심이 있었어. 여름에 그쪽에서 인수 가능성이 생기면 자문해 줄 수 있느냐고 물었지. 기업금융 쪽으로선 아주 평범한 수임이야.
+KATHARINA: Und dann hast du Konrad angerufen und ihm eine Nachfolgeberatung verkauft.
+> 그리고 당신은 콘라트한테 전화해서 승계 자문을 팔았고요.
+LORENZ: Konrad hat ein Nachfolgeproblem. Seit zehn Jahren. Ich habe ihm geholfen, es endlich anzugehen.
+> 콘라트한테는 승계 문제가 있어. 10년째. 나는 그 사람이 드디어 그걸 다루도록 도운 거야.
+KATHARINA: Du hast ihm geholfen, zu einem Ergebnis zu kommen, an dem du zwei Millionen verdienst.
+> 당신이 200만을 버는 결론으로 가도록 도운 거죠.
+LORENZ: Das ist unter deinem Niveau, Katharina.
+> 그건 네 수준에 안 맞는 말이야, 카타리나.
+KATHARINA: Dann sag mir, was daran falsch ist.
+> 그럼 그게 어디가 틀렸는지 말해 봐요.
+LORENZ: Falsch ist, dass du so tust, als wäre das etwas Besonderes. Das ist Branchenpraxis. Die großen Häuser beraten Käufer und Verkäufer, Banken und Regierungen, oft im selben Jahr. Dafür gibt es Vertraulichkeitsbereiche. Chinese Walls.
+> 틀린 건 네가 이걸 무슨 특별한 일처럼 군다는 거야. 이건 업계 관행이야. 큰 회사들은 매수자와 매도자, 은행과 정부를 자문해. 같은 해에 하는 경우도 많지. 그래서 기밀 구역이 있는 거고. 차이니스 월.
+KATHARINA: Und die Mauer zwischen Corvalis und Ebersbach — wo steht die? Zwischen deinem linken und deinem rechten Ohr?
+> 그럼 코르발리스와 에버스바흐 사이의 벽은 어디 서 있죠? 당신 왼쪽 귀와 오른쪽 귀 사이에요?
+LORENZ: Ich habe kein einziges Dokument von Ebersbach an Corvalis gegeben.
+> 나는 에버스바흐 문서를 단 한 장도 코르발리스에 넘긴 적 없어.
+TOBIAS: Aber umgekehrt. In Ihrer Fassung unseres Zwischenberichts stehen drei Zahlen, die nicht aus unseren Modellen kommen. Sie stehen auf einer Folie mit dem Corvalis-Logo.
+> 하지만 그 반대는 하셨죠. 로렌츠 씨가 고친 중간 보고서 버전에는 우리 모델에서 나오지 않은 숫자가 세 개 있습니다. 코르발리스 로고가 박힌 슬라이드에 있는 숫자들이에요.
+LORENZ: Marktdaten. Die hat jeder.
+> 시장 데이터예요. 누구나 갖고 있는.
+TOBIAS: Mit zwei Nachkommastellen?
+> 소수점 둘째 자리까지요?
+LORENZ: Herr Wendt, Sie wiederholen sich.
+> 벤트 씨, 같은 말을 반복하는군요.
+TOBIAS: Weil Sie mir nie geantwortet haben.
+> 한 번도 답을 안 하셨으니까요.
+KATHARINA: Warum steht Ebersbach in der Konfliktprüfung als „nicht verbunden"?
+> 왜 이해충돌 점검에 에버스바흐가 '관련 없음'으로 돼 있죠?
+LORENZ: Weil es zum Zeitpunkt der Unterschrift noch kein Mandat mit Ebersbach gab. Formal war das korrekt.
+> 서명 당시엔 에버스바흐와의 수임이 아직 없었으니까. 형식상으로는 정확했어.
+KATHARINA: Und als du sieben Wochen später das Ebersbach-Mandat angelegt hast? Hast du es da geändert?
+> 그럼 7주 뒤에 에버스바흐 수임을 등록했을 때는요? 그때 바꿨어요?
+LORENZ: … Nein.
+> …아니.
+KATHARINA: Dann war es nicht korrekt. Nicht einmal formal.
+> 그럼 정확하지 않았던 거예요. 형식상으로도요.
+LORENZ: Katharina, hör mir zu. Ich glaube wirklich, dass ein Verkauf das Beste für Ebersbach ist. Die Firma hat vierhundertzwanzig Millionen Schulden, einen sterbenden Markt und einen Patriarchen, der nicht loslassen kann. Corvalis bringt Kapital und Disziplin.
+> 카타리나, 내 말 들어. 나는 진심으로 매각이 에버스바흐에 최선이라고 믿어. 그 회사는 부채가 4억 2천만이고, 시장은 죽어 가고, 손을 놓지 못하는 가장이 있어. 코르발리스는 자본과 규율을 가져와.
+KATHARINA: Vielleicht hast du sogar recht. Aber dann muss das jemand sagen, der nichts daran verdient.
+> 어쩌면 당신 말이 맞을지도 몰라요. 하지만 그렇다면 그 말은 그걸로 아무것도 벌지 않는 사람이 해야죠.
+LORENZ: Das ist naiv. Jeder in diesem Raum verdient an irgendetwas. Du auch. Dein Bonus hängt am Umsatz. Deine Partnerschaft auch.
+> 그건 순진한 거야. 이 방에 있는 사람은 다 뭔가로 돈을 벌어. 너도. 네 보너스는 매출에 달려 있어. 네 파트너 승진도.
+KATHARINA: Mein Bonus hängt nicht daran, was Konrad entscheidet. Deiner schon. Das ist der Unterschied zwischen einem Honorar und einer Provision.
+> 제 보너스는 콘라트가 무엇을 결정하느냐에 달려 있지 않아요. 당신 건 달려 있죠. 그게 보수와 성공 수수료의 차이예요.
+LORENZ: „Das ist Branchenpraxis", Katharina. Seit dreißig Jahren.
+> '이건 업계 관행이야', 카타리나. 30년째.
+KATHARINA: Genau deshalb ist es ein Problem. Seit dreißig Jahren.
+> 바로 그래서 문제라는 거예요. 30년째.
+SELIN: Herr Lorenz, darf ich etwas fragen? Hätten Sie es Herrn Ebersbach irgendwann gesagt?
+> 로렌츠 씨, 하나 여쭤봐도 될까요? 에버스바흐 씨한테 언젠가는 말씀하셨을까요?
+LORENZ: Nach dem Verkauf hätte es keine Rolle mehr gespielt, Frau Aydın.
+> 매각 이후엔 아무 상관도 없었을 거예요, 아이든 씨.
+SELIN: Für ihn schon. Er hätte für den Rest seines Lebens gewusst, dass sein ältester Berater ihn verkauft hat.
+> 그분한테는 상관있었을 거예요. 평생 가장 오래된 자문가가 자기를 팔아넘겼다는 걸 알고 살았겠죠.
+
+## 절정 — „SIE WISSEN GENAU, WAS SIE DA TUN"
+LORENZ: … Gut. Was willst du, Katharina?
+> …좋아. 원하는 게 뭐야, 카타리나?
+KATHARINA: Ich will, dass du es selbst in Ordnung bringst. Du legst das Corvalis-Mandat nieder. Du sagst Konrad morgen persönlich, was du getan hast. Und den Bericht bekommt er von mir — meine Fassung, unverändert.
+> 당신이 직접 바로잡길 원해요. 코르발리스 수임을 내려놓고, 내일 콘라트한테 직접 당신이 한 일을 말해요. 그리고 보고서는 저한테서 받으시는 거예요. 제 버전, 그대로.
+LORENZ: Und dann?
+> 그다음엔?
+KATHARINA: Dann geht die Compliance ihrem Verfahren nach, und Konrad entscheidet, ob er Hellweg noch vertraut. Das ist seine Entscheidung, nicht unsere.
+> 그다음엔 컴플라이언스가 절차대로 하고, 콘라트가 Hellweg를 아직 신뢰할지 결정하겠죠. 그건 그분이 정할 일이지, 우리가 정할 일이 아니에요.
+LORENZ: Das wäre das Ende meiner Karriere. Nach dreißig Jahren.
+> 그러면 내 경력은 끝이야. 30년 만에.
+KATHARINA: Es wäre das Ende eines Fehlers. Ob es auch das Ende deiner Karriere ist, entscheidest du mit dem, was du morgen tust.
+> 그건 실수 하나의 끝이에요. 그게 당신 경력의 끝이기도 한지는 당신이 내일 무엇을 하느냐로 정해지는 거고요.
+LORENZ: Lass mich dir ein anderes Angebot machen. Du lässt die Sache ruhen, bis der Verkaufsprozess entschieden ist. Danach lege ich das Mandat diskret nieder. Und nächsten Donnerstag bist du Partnerin. Ich habe die Stimmen. Alle.
+> 다른 제안을 하지. 매각 절차가 결정될 때까지 이 일은 덮어 둬. 그 뒤에 내가 조용히 수임을 내려놓을게. 그리고 다음 주 목요일에 넌 파트너가 되는 거야. 표는 내가 갖고 있어. 전부.
+TOBIAS: Das ist kein Angebot. Das ist eine Provision fürs Schweigen.
+> 그건 제안이 아닙니다. 침묵에 대한 수수료죠.
+LORENZ: Herr Wendt, halten Sie sich da raus.
+> 벤트 씨, 빠지세요.
+TOBIAS: Nein. Ich arbeite seit fünf Jahren mit Katharina. Ich halte mich da nicht raus.
+> 아니요. 저는 5년째 카타리나와 일하고 있습니다. 빠지지 않겠습니다.
+LORENZ: Katharina. Ich habe dich eingestellt. Ich habe dich gefördert, als alle gesagt haben, du bist zu direkt. Ich habe dir die Mainbank gegeben, Mainchem, alles.
+> 카타리나. 내가 널 뽑았어. 다들 네가 너무 직설적이라고 할 때 내가 밀어줬어. 마인방크도, 마인켐도, 전부 내가 너한테 줬어.
+KATHARINA: Das stimmt. Und dafür bin ich dir dankbar. Deshalb habe ich es dir als Erstem gesagt — und nicht der Compliance oder Konrad.
+> 맞아요. 그리고 그건 고마워요. 그래서 컴플라이언스나 콘라트가 아니라 당신한테 제일 먼저 말한 거예요.
+LORENZ: Dann sei auch jetzt dankbar. Unterschreib meine Fassung, und wir vergessen diese Nacht.
+> 그럼 지금도 고마워해. 내 버전에 서명하고, 오늘 밤은 잊자고.
+KATHARINA: … Herr Lorenz.
+> …로렌츠 씨.
+LORENZ: „Herr Lorenz"? Seit wann siezt du mich?
+> '로렌츠 씨'? 언제부터 나한테 존대를 했지?
+KATHARINA: Seit heute Nacht. Herr Lorenz, Sie wissen genau, was Sie da tun. Sie haben es gewusst, als Sie das Häkchen gesetzt haben. Und Sie wissen es jetzt, wo Sie mir eine Partnerschaft für mein Schweigen anbieten.
+> 오늘 밤부터요. 로렌츠 씨, 당신은 지금 무슨 일을 하고 있는지 정확히 알고 있어요. 그 체크 표시를 할 때도 알았고, 제 침묵의 대가로 파트너 자리를 제안하는 지금도 알고 있죠.
+LORENZ: … Das ist also deine Antwort.
+> …그게 네 대답이로군.
+KATHARINA: Meine Antwort ist: Ich schicke heute Nacht eine Meldung an die Compliance. Und morgen früh fahre ich nach Hanau und gebe Konrad meinen Bericht. Mit dem Hinweis, dass es in diesem Haus einen Interessenkonflikt gibt, den er kennen muss.
+> 제 대답은 이거예요. 오늘 밤 컴플라이언스에 신고서를 보낼 거예요. 그리고 내일 아침 하나우에 가서 콘라트에게 제 보고서를 드릴 거예요. 이 회사에 그분이 알아야 할 이해충돌이 있다는 언급과 함께요.
+LORENZ: Wenn du das tust, bist du in diesem Haus fertig. Der Ausschuss wird dich nie zur Partnerin machen. Und in Frankfurt spricht sich so etwas herum.
+> 그렇게 하면 넌 이 회사에서 끝이야. 위원회는 절대 너를 파트너로 만들지 않을 거고. 그리고 프랑크푸르트에선 이런 얘기가 금방 퍼져.
+KATHARINA: Dann soll es sich herumsprechen. Ich habe in zwölf Jahren keinem Kunden etwas verkauft, an dem ich heimlich verdient habe. Damit fange ich wegen einer Partnerschaft nicht an.
+> 그럼 퍼지라고 하세요. 저는 12년 동안 몰래 돈을 버는 걸 고객에게 판 적이 한 번도 없어요. 파트너 자리 때문에 그걸 시작하진 않을 거예요.
+LORENZ: Die Unabhängigkeit, ja? Das große Wort.
+> 독립성이라, 그렇지? 거창한 단어로군.
+KATHARINA: Kein großes Wort. Das Einzige, was wir verkaufen. Das habe ich an meinem ersten Tag von Ihnen gelernt — damals haben Sie es noch geglaubt.
+> 거창한 단어가 아니에요. 우리가 파는 유일한 거죠. 그건 제 첫날 당신한테서 배웠어요 — 그땐 당신도 아직 그걸 믿었죠.
+SELIN: Herr Lorenz, Sie können es immer noch selbst tun. Morgen, vor Katharina. Dann ist es Ihre Entscheidung, nicht unsere.
+> 로렌츠 씨, 아직 직접 하실 수 있어요. 내일, 카타리나보다 먼저요. 그러면 그건 저희가 아니라 로렌츠 씨의 결정이 되는 거예요.
+LORENZ: Frau Aydın, Sie sind seit vier Monaten hier und erklären mir mein Gewissen.
+> 아이든 씨, 여기 온 지 넉 달 된 사람이 나한테 내 양심을 설명하는군요.
+SELIN: Nein. Ich biete Ihnen nur dieselbe zweite Chance an, die Katharina Jonas Behrendt gegeben hat. Er hat sie genutzt.
+> 아니요. 카타리나가 요나스 베렌트에게 준 것과 같은 두 번째 기회를 드리는 것뿐이에요. 그 사람은 그 기회를 잡았어요.
+LORENZ: … Ich bin nicht Behrendt.
+> …나는 베렌트가 아니야.
+KATHARINA: Nein. Behrendt war einunddreißig und hat einen Fehler gemacht. Sie sind achtundfünfzig und haben eine Entscheidung getroffen.
+> 그렇죠. 베렌트는 서른한 살이었고 실수를 했어요. 당신은 쉰여덟이고 결정을 내린 거예요.
+LORENZ: Dann wissen wir ja, wo wir stehen. Gute Nacht, Frau Dr. Brandt.
+> 그럼 서로 어디 서 있는지 알겠군. 잘 자요, 브란트 박사.
+
+## 마무리 — ZWEI UHR NACHTS
+SELIN: Er hat dich gesiezt.
+> 너한테 존대했어.
+KATHARINA: Ich habe angefangen.
+> 내가 먼저 시작했잖아.
+TOBIAS: Zwölf Jahre du, und dann in einer Nacht Sie. Das ist das Kälteste, was ich in diesem Haus je gehört habe.
+> 12년 동안 반말하다가 하룻밤 만에 존대라. 이 회사에서 들어 본 것 중에 제일 차가운 소리야.
+KATHARINA: Tobias, schick mir bitte die Warnung und den Anhang. Ich schreibe die Meldung an die Compliance jetzt. Mit Uhrzeit.
+> 토비아스, 그 경고랑 첨부 파일 나한테 보내 줘. 컴플라이언스 신고서를 지금 쓸게. 시각까지 적어서.
+TOBIAS: Schon passiert. Und eine Kopie liegt auf einem Stick in meiner Jackentasche. Nur für den Fall.
+> 이미 보냈어. 그리고 사본 하나는 내 재킷 주머니 USB에 있어. 만약을 위해서.
+SELIN: Und der Partnerausschuss?
+> 그럼 파트너 위원회는?
+KATHARINA: Den kann ich mir wohl sparen. Wer jemanden meldet, der im Ausschuss sitzt, wird in diesem Haus nicht Partnerin.
+> 그건 안 가도 될 것 같아. 위원회에 앉아 있는 사람을 신고한 사람은 이 회사에서 파트너가 못 돼.
+TOBIAS: Dann wirst du es eben woanders.
+> 그럼 다른 데서 되면 되지.
+KATHARINA: Vielleicht. Vielleicht auch nie. Seltsam — ich habe zwölf Jahre auf diesen Donnerstag gewartet, und jetzt ist er mir fast egal.
+> 그럴지도. 어쩌면 영영 못 될지도. 이상해 — 12년 동안 이 목요일을 기다렸는데, 지금은 거의 아무래도 상관없어.
+SELIN: Weil du heute Nacht etwas Wichtigeres entschieden hast.
+> 오늘 밤 더 중요한 걸 결정했으니까.
+KATHARINA: Selin, ruf bitte morgen um sieben Konrads Sekretärin an. Ich brauche einen Termin. Noch am Vormittag. Mit der ganzen Familie.
+> 셀린, 내일 일곱 시에 콘라트 비서한테 전화 좀 해 줘. 약속이 필요해. 오전 중으로. 가족 전원과 함께.
+TOBIAS: Und ich fahre dich nach Hanau. Diesmal ohne Witze im Auto.
+> 그리고 내가 하나우까지 태워 줄게. 이번엔 차 안에서 농담 없이.
