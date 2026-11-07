@@ -1,0 +1,266 @@
+part: 1
+ep: 16
+title_de: Das Angebot
+title_ko: 제안
+scene: 수요일 아침, 하나우 Ebersbach AG 이사회실 → 밤, 마인강변
+level: B2
+setting: 15화 다음 날 수요일 오전 아홉 시부터 밤까지, 하나우 Ebersbach Antriebstechnik AG 본사 이사회실, 그리고 밤의 마인강변 산책로
+cast: KATHARINA | Dr. Katharina Brandt · 프로젝트 리더 (39)
+cast: TOBIAS | Tobias Wendt · 재무 담당 컨설턴트 (35)
+cast: SELIN | Selin Aydın · 주니어 컨설턴트(데이터 분석) (27)
+cast: KONRAD | Konrad Ebersbach · Ebersbach AG 3세 오너, 감사회 의장 (74)
+cast: CLARA | Clara Ebersbach · Konrad의 딸, 감사회 위원 (41)
+cast: PHILIPP | Philipp Ebersbach · Konrad의 아들, 런던 거주 (38)
+cast: SANDER | Dr. Ulrich Sander · Hellweg & Cie. 대표 파트너(Managing Partner) (가상)
+note: ※ 독일 주식회사(AG)의 이사(Vorstand)는 주주총회가 아니라 감사회(Aufsichtsrat)가 선임하며, 임기는 최대 5년입니다(주식법 84조). 그래서 오너가 원해도 감사회의 표결이 필요합니다. 사모펀드의 차입매수(Leveraged Buy-out)는 인수 대금의 상당 부분을 대출로 마련한 뒤 그 빚을 인수한 회사에 떠넘기는 방식이 많아, 인수 후 비용 절감, 사업 매각, 공장 통합이 뒤따르기도 합니다. 가족기업은 투자 재원을 마련하기 위해 몇 년간 배당(Dividende)을 중단하기도 하며, 가족 헌장에 지분 매각 시 가족이 우선 매입하는 조항을 두어 외부 매각을 막기도 합니다. 독일에서 직원이 회사를 그만두는 것은 'kündigen(해지 통보하다)'이라고 하며, 회사가 해지 기간 동안 출근 의무를 면제하는 것을 'Freistellung'이라고 합니다. 'Ich bin dabei'는 '나도 함께할게, 끼겠다'는 뜻의 구어 표현입니다. 회사·투자사·인물은 모두 가상입니다. 표현 초점: das Angebot, die Verantwortung, kündigen, der Vorstand, Ich bin dabei.
+next: 2부 1화 — «Die neue Chefin»(새 사장) — 하나우 본사 이사회 회의실. 조언하던 사람이 결정하는 사람이 되는 첫날. 기존 이사들은 '컨설턴트 출신'을 의심하고, Clara는 약속대로 냉랭하다. 저녁에 Tobias가 숫자를 내민다. "3개월 뒤에 현금이 바닥나."
+
+## 도입 — HANAU, NEUN UHR
+TOBIAS: Wir sind seit vierzig Minuten unterwegs, und ich habe keinen einzigen Witz gemacht. Ich glaube, ich bekomme Entzugserscheinungen.
+> 출발한 지 40분째인데 농담을 하나도 안 했어. 금단 증상이 오는 것 같아.
+SELIN: Du hast gerade einen gemacht.
+> 방금 했잖아.
+TOBIAS: Das zählt nicht. Das war eine medizinische Beobachtung.
+> 그건 안 쳐. 의학적 관찰이었어.
+KATHARINA: Danke, ihr zwei. Wirklich. Ich habe heute Nacht zwei Stunden geschlafen.
+> 고마워, 둘 다. 진심으로. 나 어젯밤에 두 시간 잤어.
+SELIN: Konrads Sekretärin sagt, die ganze Familie ist da. Auch Philipp. Er ist gestern Abend aus London gekommen.
+> 콘라트 비서가 그러는데 가족 전원이 와 있대. 필립도. 어젯밤에 런던에서 왔대.
+TOBIAS: Und Lorenz?
+> 그럼 로렌츠는?
+SELIN: Kein Wort von ihm. Aber die Compliance hat deine Meldung um sechs Uhr bestätigt.
+> 아무 말 없어. 그래도 컴플라이언스가 아침 여섯 시에 네 신고를 접수 확인했어.
+KATHARINA: Dann weiß es in Frankfurt jetzt jeder. Spätestens beim Mittagessen.
+> 그럼 지금쯤 프랑크푸르트에선 다들 알겠네. 늦어도 점심때까지는.
+KONRAD: Frau Dr. Brandt. Kommen Sie herein. Wir warten schon.
+> 브란트 박사. 들어오시오. 기다리고 있었소.
+KATHARINA: Guten Morgen, Herr Ebersbach. Frau Ebersbach. Herr Ebersbach.
+> 안녕하세요, 에버스바흐 씨. 클라라 씨. 필립 씨.
+KONRAD: Jan-Hendrik hat mich heute früh um sieben angerufen.
+> 얀헨드릭이 오늘 아침 일곱 시에 전화했소.
+KATHARINA: … Was hat er gesagt?
+> …뭐라고 하던가요?
+
+## 장면 1 — „VERKAUFEN SIE NICHT. VERÄNDERN SIE."
+KONRAD: Dass er ein Mandat für einen Investor hatte, das „möglicherweise mit unserem Projekt in Berührung kommt". Dass er es niedergelegt hat. Und dass Sie in dieser Sache „etwas übereifrig" sind.
+> 투자자를 위한 수임이 하나 있었는데, 그게 '어쩌면 우리 프로젝트와 접점이 있을 수 있다'고. 그걸 내려놓았다고. 그리고 당신이 이 문제에서 '좀 지나치게 열성적'이라고.
+KATHARINA: Dann hat er Ihnen die Hälfte gesagt.
+> 그럼 절반만 말씀드린 거네요.
+KONRAD: Das dachte ich mir. Nach zwanzig Jahren kenne ich seine Hälften. Bitte, die andere.
+> 그럴 줄 알았소. 20년이면 그 사람 절반이 어떤 건지 알지. 나머지 절반을 말해 주시오.
+KATHARINA: Herr Ebersbach, Hellweg Corporate Finance hat seit dem dritten September ein Mandat von Corvalis Capital. Gegenstand ist der Kauf Ihrer Firma. Bei einem Verkauf hätte Hellweg eine Provision von etwa vierzehn Millionen Euro bekommen, Herr Lorenz persönlich etwa zwei.
+> 에버스바흐 씨, Hellweg Corporate Finance는 9월 3일부터 코르발리스 캐피털의 수임을 맡고 있습니다. 목적은 에버스바흐 씨 회사의 인수입니다. 매각이 성사되면 Hellweg는 약 1,400만 유로의 수수료를, 로렌츠 씨 개인은 약 200만을 받았을 겁니다.
+KATHARINA: Gleichzeitig hat er uns beauftragt, Sie zu beraten, ob Sie verkaufen sollen. Und er hat meinen Bericht so umgeschrieben, dass er einen Verkauf empfiehlt.
+> 동시에 그분은 저희에게 에버스바흐 씨가 매각해야 할지를 자문하라고 맡겼습니다. 그리고 매각을 권고하도록 제 보고서를 고쳐 썼습니다.
+CLARA: … Und das wussten Sie?
+> …그리고 그걸 알고 계셨나요?
+KATHARINA: Seit gestern Abend, kurz nach zweiundzwanzig Uhr. Seit heute Nacht weiß es die Compliance von Hellweg. Und jetzt wissen Sie es.
+> 어젯밤 열 시 조금 넘어서부터요. 간밤부터는 Hellweg 컴플라이언스가 알고 있고요. 그리고 이제 여러분이 아십니다.
+PHILIPP: Corvalis. Die haben mich im Sommer in London angesprochen. Ich dachte, sie interessieren sich einfach für die Firma. Ich wusste nicht, dass sie unseren eigenen Berater bezahlen.
+> 코르발리스. 여름에 런던에서 나한테 접근했어요. 그냥 회사에 관심이 있는 줄 알았죠. 우리 자문가한테 돈을 대고 있는 줄은 몰랐어요.
+KONRAD: Philipp, du hast mit Corvalis gesprochen? Ohne es mir zu sagen?
+> 필립, 너 코르발리스랑 얘기했어? 나한테 말도 안 하고?
+PHILIPP: Zweimal. Beim Essen. Ich habe nichts unterschrieben, Papa.
+> 두 번. 식사 자리에서. 아무것도 서명 안 했어, 아빠.
+CLARA: Natürlich nicht. Du hast ja nur gegessen.
+> 그렇겠지. 밥만 먹었겠지.
+KONRAD: Genug. — Frau Dr. Brandt, haben Sie Ihren Bericht dabei? Ihren, nicht seinen.
+> 그만. — 브란트 박사, 보고서 가져왔소? 그 사람 것 말고, 당신 것.
+KATHARINA: Ja. Ich weiß nicht, ob ich ihn noch offiziell im Namen von Hellweg übergeben darf. Aber er ist meine Arbeit, und Sie haben dafür bezahlt.
+> 네. 아직 공식적으로 Hellweg 이름으로 드려도 되는지는 모르겠습니다. 하지만 이건 제 작업이고, 비용은 에버스바흐 씨가 치르셨으니까요.
+KONRAD: Dann geben Sie ihn mir.
+> 그럼 내게 주시오.
+KATHARINA: Auf der ersten Seite steht nur ein Satz: Verkaufen Sie nicht. Verändern Sie.
+> 첫 페이지엔 문장이 하나뿐입니다. 팔지 마십시오. 바꾸십시오.
+PHILIPP: Das ist ein Slogan, kein Plan.
+> 그건 구호지 계획이 아니잖아요.
+KATHARINA: Der Plan steht auf den nächsten vierzig Seiten. Herr Wendt?
+> 계획은 다음 40페이지에 있습니다. 벤트 씨?
+TOBIAS: Zuerst: warum nicht verkaufen. Den Plan von Corvalis kennen wir inzwischen — er stand auf der Folie mit dem Kaufpreis. Sie würden den Kauf zu großen Teilen mit Krediten finanzieren und diese Schulden danach in die Firma legen. Ebersbach hätte dann nicht vierhundertzwanzig Millionen Schulden, sondern über eine Milliarde.
+> 먼저, 왜 팔지 말아야 하는가. 코르발리스의 계획은 이제 압니다. 매각 가격 슬라이드에 있었죠. 그들은 인수 대금 상당 부분을 대출로 조달하고, 그 빚을 인수 후 회사에 지울 겁니다. 그러면 에버스바흐의 부채는 4억 2천만이 아니라 10억이 넘게 됩니다.
+TOBIAS: Um die Zinsen zu bezahlen, plant Corvalis zwei Schritte: den Verkauf der profitablen Industriesparte in Teilen. Und die Zusammenlegung der Werke — also das Ende von Spandau.
+> 이자를 갚기 위해 코르발리스는 두 단계를 계획합니다. 수익성 좋은 산업 부문의 분할 매각, 그리고 공장 통합 — 즉 슈판다우의 종말이죠.
+CLARA: Spandau. Achtzehnhundert Leute.
+> 슈판다우. 1,800명.
+KONRAD: Das Werk, das ich neunzehnhundertneunzig gekauft habe.
+> 내가 1990년에 산 그 공장.
+PHILIPP: Und die Alternative? Weitermachen wie bisher? Mit drei Komma acht Prozent Marge?
+> 그럼 대안은요? 지금처럼 계속하자고요? 이익률 3.8퍼센트로?
+KATHARINA: Nein. Weitermachen wie bisher ist die schlechteste Option, schlechter als der Verkauf. Deshalb steht da „verändern", nicht „bleiben".
+> 아닙니다. 지금처럼 계속하는 게 가장 나쁜 선택지입니다. 매각보다도 나쁘죠. 그래서 '남으라'가 아니라 '바꾸라'고 적은 겁니다.
+SELIN: Die Industriesparte macht heute zweiundvierzig Prozent des Umsatzes und fast den ganzen Gewinn. Getriebe für Windkraftanlagen, für Bahnen, für Industrieroboter. Diese Märkte wachsen. Der Markt für Verbrennergetriebe schrumpft.
+> 산업 부문은 지금 매출의 42퍼센트, 이익의 거의 전부를 냅니다. 풍력 발전기용, 철도용, 산업용 로봇용 변속기. 이 시장들은 성장하고 있습니다. 내연기관 변속기 시장은 줄어들고 있고요.
+TOBIAS: Unser Vorschlag: In fünf Jahren dreht sich das Verhältnis um. Siebzig Prozent Industrie, dreißig Prozent Auto. Das Wissen der Ingenieure geht nicht verloren — es wandert in neue Produkte.
+> 저희 제안은 이렇습니다. 5년 안에 비율을 뒤집는 겁니다. 산업 70퍼센트, 자동차 30퍼센트. 엔지니어들의 지식은 사라지지 않습니다 — 새 제품으로 옮겨 갈 뿐이죠.
+PHILIPP: Und wer bezahlt das?
+> 그럼 그 돈은 누가 대요?
+TOBIAS: Zum Teil die Familie. Drei Jahre lang keine Dividende. Das sind etwa hundert Millionen, die in der Firma bleiben.
+> 일부는 가족이요. 3년간 배당을 하지 않습니다. 회사에 남는 돈이 약 1억입니다.
+PHILIPP: Drei Jahre ohne Dividende. Und meine Wohnung in Chelsea?
+> 3년간 배당이 없다고요. 그럼 첼시의 내 집은?
+CLARA: Verkauf sie, Philipp.
+> 팔아, 필립.
+KATHARINA: Genau dafür gibt es die Familienverfassung. Artikel neun regelt, wie ein Gesellschafter aussteigen kann, ohne dass die Firma verkauft wird: Die Familie kauft seinen Anteil zu einem fairen Preis, verteilt über mehrere Jahre.
+> 바로 그걸 위해 가족 헌장이 있습니다. 9조는 회사를 팔지 않고도 출자자가 빠질 수 있는 방법을 정합니다. 가족이 그 지분을 공정한 가격에, 몇 년에 걸쳐 나눠 사들이는 거죠.
+PHILIPP: … Das wäre eine Möglichkeit.
+> …그건 하나의 방법이겠네요.
+KONRAD: Und die Führung? Wer soll das alles machen?
+> 그럼 경영은? 누가 그걸 다 하오?
+KATHARINA: Dazu komme ich gleich. Aber vorher muss ich Ihnen noch etwas sagen. — Entschuldigung, das ist Frankfurt.
+> 그건 곧 말씀드리겠습니다. 하지만 그 전에 드릴 말씀이 하나 더 있습니다. — 죄송합니다, 프랑크푸르트에서 온 전화예요.
+
+## 장면 2 — „DANN ÄNDERN SIE ES"
+SANDER: Frau Dr. Brandt, Ulrich Sander. Ich störe Sie in Hanau, nehme ich an.
+> 브란트 박사님, 울리히 잔더입니다. 하나우에 계신 걸 방해하는 거겠죠.
+KATHARINA: Guten Morgen, Herr Dr. Sander. Ja. Ich bin bei der Familie Ebersbach.
+> 안녕하세요, 잔더 박사님. 네. 에버스바흐 가족과 함께 있습니다.
+SANDER: Genau deshalb rufe ich an. Herr Lorenz hat das Corvalis-Mandat niedergelegt, und die Compliance prüft den Vorgang. Bis die Prüfung abgeschlossen ist, ziehen wir Sie vom Mandat Ebersbach ab.
+> 바로 그래서 전화드렸습니다. 로렌츠 씨가 코르발리스 수임을 내려놓았고, 컴플라이언스가 사안을 검토하고 있습니다. 검토가 끝날 때까지 박사님을 에버스바흐 수임에서 빼겠습니다.
+KATHARINA: Mich? Nicht Herrn Lorenz?
+> 저를요? 로렌츠 씨가 아니라요?
+SANDER: Sie beide. Und Ihre Nominierung für den Partnerausschuss ruht bis auf Weiteres. Das ist keine Strafe, Frau Dr. Brandt. Das ist ein Verfahren.
+> 두 분 다요. 그리고 파트너 위원회 추천은 추후 통보가 있을 때까지 보류됩니다. 처벌이 아닙니다, 브란트 박사님. 절차입니다.
+KATHARINA: Und Herr Lorenz?
+> 그럼 로렌츠 씨는요?
+SANDER: Bleibt Partner, bis die Prüfung abgeschlossen ist. Er hat dreißig Jahre für dieses Haus gearbeitet. Das berücksichtigen wir.
+> 검토가 끝날 때까지 파트너로 남습니다. 30년 동안 이 회사를 위해 일했으니까요. 그 점은 고려합니다.
+KATHARINA: Ich verstehe. Dann berücksichtigen Sie bitte auch etwas: Ich kündige, Herr Dr. Sander. Mit sofortiger Wirkung, soweit mein Vertrag das erlaubt. Die schriftliche Kündigung haben Sie heute Mittag.
+> 이해합니다. 그럼 이것도 고려해 주십시오. 저는 사직하겠습니다, 잔더 박사님. 제 계약이 허용하는 한 즉시요. 서면 사직서는 오늘 정오에 받으실 겁니다.
+SANDER: Frau Dr. Brandt, überlegen Sie sich das. Sie haben eine große Zukunft in diesem Haus.
+> 브란트 박사님, 잘 생각해 보십시오. 이 회사에서 큰 미래가 있는 분입니다.
+KATHARINA: Ich hatte eine. Bis ein Häkchen in einer Datenbank wichtiger wurde als ein Kunde. Auf Wiederhören, Herr Dr. Sander.
+> 있었죠. 데이터베이스의 체크 표시 하나가 고객보다 더 중요해지기 전까지는요. 안녕히 계십시오, 잔더 박사님.
+TOBIAS: Du hast gerade gekündigt. Am Telefon. Vor einem Kunden.
+> 너 방금 사표 냈어. 전화로. 고객 앞에서.
+KATHARINA: Vor einem ehemaligen Kunden. Ich bin nicht mehr auf dem Mandat.
+> 전 고객 앞에서야. 난 이제 이 수임에서 빠졌어.
+KONRAD: Sie haben gekündigt? Wegen uns?
+> 사직했소? 우리 때문에?
+KATHARINA: Wegen mir, Herr Ebersbach. Ich kann nicht für ein Haus arbeiten, das mich von Ihrem Mandat abzieht, weil ich Ihnen die Wahrheit gesagt habe.
+> 저 때문입니다, 에버스바흐 씨. 에버스바흐 씨에게 진실을 말했다는 이유로 저를 수임에서 빼는 회사에서는 일할 수 없습니다.
+CLARA: Sehr edel. Und jetzt? Jetzt haben wir einen Bericht ohne Berater und eine Firma ohne Chef.
+> 아주 고결하시네요. 그럼 이제는요? 이제 우리한텐 컨설턴트 없는 보고서와 수장 없는 회사가 있네요.
+KATHARINA: Sie haben einen Plan, Frau Ebersbach. Und eine Familie, die zum ersten Mal gemeinsam an einem Tisch sitzt.
+> 계획이 있으십니다, 클라라 씨. 그리고 처음으로 한 테이블에 함께 앉은 가족이 있고요.
+CLARA: Dann sagen Sie uns, wer die Firma führen soll. Das war doch die Frage. Seit sechs Wochen.
+> 그럼 누가 회사를 이끌어야 하는지 말해 보세요. 그게 질문이었잖아요. 6주째.
+KATHARINA: Meine Empfehlung steht auf Seite zweiunddreißig. Ein externer Vorstandsvorsitzender für die Transformation, für fünf Jahre. Mit einem klaren Auftrag aus der Familienverfassung.
+> 제 권고는 32페이지에 있습니다. 전환을 이끌 외부 이사회 의장, 임기 5년. 가족 헌장에서 나온 분명한 임무와 함께요.
+CLARA: Extern. Also nicht ich.
+> 외부. 그러니까 제가 아니라는 거네요.
+KATHARINA: Nicht jetzt. Sie gehören in den Aufsichtsrat, an die Seite Ihres Vaters — und in zwei Jahren an seine Stelle. Das steht in Artikel vier.
+> 지금은 아닙니다. 클라라 씨는 감사회에, 아버님 곁에 계셔야 합니다 — 그리고 2년 뒤에는 아버님 자리에요. 그건 4조에 있습니다.
+CLARA: Sie haben mich also wegberaten.
+> 그러니까 저를 자문으로 밀어낸 거군요.
+KATHARINA: Ich habe Sie nach oben beraten, Frau Ebersbach. Ein Vorstand hat fünf Jahre. Ein Aufsichtsratsvorsitz in einem Familienunternehmen hat zwanzig.
+> 위로 자문해 드린 겁니다, 클라라 씨. 이사회 임기는 5년입니다. 가족기업의 감사회 의장은 20년이고요.
+CLARA: Schöne Worte. Ich bin seit zehn Jahren in dieser Firma.
+> 멋진 말이네요. 저는 10년째 이 회사에 있어요.
+KONRAD: Clara. Sie hat recht, und du weißt es.
+> 클라라. 이분 말이 맞고, 너도 알잖니.
+CLARA: Natürlich weißt du das, Papa. Du hast ja immer alles gewusst.
+> 당연히 아빠는 알겠지. 아빠는 늘 다 알았으니까.
+PHILIPP: Und wer soll dieser externe Chef sein? Laubach hat nach drei Jahren aufgegeben. Wer kommt nach Hanau, zu einer Firma mit vierhundertzwanzig Millionen Schulden und einem Vater, der nicht loslassen kann?
+> 그럼 그 외부 수장은 누가 되는데요? 라우바흐는 3년 만에 포기했어요. 누가 부채 4억 2천만에 손을 놓지 못하는 아버지가 있는 하나우 회사로 오겠어요?
+KONRAD: Ich lasse los, Philipp. Artikel zwölf. Ich habe ihn gestern Abend unterschrieben.
+> 손을 놓을 거다, 필립. 12조. 어젯밤에 서명했다.
+PHILIPP: … Du hast unterschrieben?
+> …서명했다고?
+KONRAD: Rückzug aus dem Aufsichtsrat in vierundzwanzig Monaten. Mit Datum. Frau Dr. Brandt hat mir gesagt, mein Vater hat mir das größte Geschenk gemacht, indem er gegangen ist. Sie hatte recht. Das ärgert mich bis heute.
+> 24개월 뒤 감사회에서 물러난다. 날짜까지 적어서. 브란트 박사가 그러더군. 우리 아버지가 떠나 주심으로써 나에게 가장 큰 선물을 줬다고. 맞는 말이었지. 그게 지금까지도 짜증 나.
+KONRAD: Und was den externen Chef angeht — ich habe eine Idee.
+> 그리고 외부 수장 말인데 — 생각이 하나 있소.
+KATHARINA: Herr Ebersbach, wir haben eine Liste mit sechs Kandidaten vorbereitet. Auf Seite vierunddreißig.
+> 에버스바흐 씨, 후보 여섯 명 명단을 준비했습니다. 34페이지에요.
+KONRAD: Die habe ich gelesen. Gute Leute. Alle mit Erfahrung, alle mit Netzwerk. Und alle würden nach drei Jahren gehen, wie Laubach.
+> 읽었소. 좋은 사람들이지. 다 경험 있고, 다 인맥 있고. 그리고 다들 라우바흐처럼 3년 뒤에 떠날 거요.
+KATHARINA: Warum sind Sie da so sicher?
+> 왜 그렇게 확신하십니까?
+KONRAD: Weil keiner von ihnen mir in den ersten fünfundzwanzig Minuten gesagt hätte, dass ich das Problem bin. Sie schon.
+> 그들 중 누구도 처음 25분 안에 내가 문제라고 말하진 않았을 테니까. 당신은 했지.
+KONRAD: Frau Dr. Brandt, Sie sagen: Verkaufen Sie nicht, verändern Sie. Dann ändern Sie es. Als Vorstandsvorsitzende der Ebersbach AG.
+> 브란트 박사, 팔지 말고 바꾸라고 했지. 그럼 당신이 바꾸시오. 에버스바흐 AG의 이사회 의장으로.
+
+## 절정 — DAS ANGEBOT
+KATHARINA: … Herr Ebersbach, dafür habe ich diesen Bericht nicht geschrieben.
+> …에버스바흐 씨, 저는 그러려고 이 보고서를 쓴 게 아닙니다.
+KONRAD: Genau deshalb mache ich Ihnen das Angebot. Sie sind in sechs Wochen die Einzige, die mir widersprochen hat, ohne daran verdienen zu wollen.
+> 바로 그래서 이 제안을 하는 거요. 6주 동안 내게 반대하면서 그걸로 이득을 보려 하지 않은 사람은 당신뿐이었소.
+CLARA: Papa, das ist absurd. Sie hat noch nie eine Firma geführt. Sie hat Folien gemacht.
+> 아빠, 말도 안 돼. 이분은 회사를 이끌어 본 적이 없어. 슬라이드를 만들었지.
+KATHARINA: Ihre Tochter hat recht, Herr Ebersbach. Berater raten. Vorstände tragen die Verantwortung. Das ist ein großer Unterschied.
+> 따님 말씀이 맞습니다, 에버스바흐 씨. 컨설턴트는 조언하고, 이사회는 책임을 집니다. 그건 큰 차이입니다.
+KONRAD: Ja. Und Sie haben in den letzten zwölf Stunden mehr Verantwortung übernommen als Laubach in drei Jahren. Sie haben gekündigt, um einem Kunden die Wahrheit zu sagen.
+> 그렇지. 그리고 당신은 지난 열두 시간 동안 라우바흐가 3년 동안 진 것보다 더 많은 책임을 졌소. 고객에게 진실을 말하려고 사직했으니까.
+KATHARINA: Ich weiß nicht, wie man viertausendachthundert Mitarbeiter führt.
+> 저는 4,800명의 직원을 어떻게 이끄는지 모릅니다.
+KONRAD: Niemand weiß das, bevor er es tut. Ich wusste es mit fünfundvierzig auch nicht. Mein Vater hat mir die Schlüssel gegeben und ist gegangen.
+> 해 보기 전엔 아무도 모르오. 나도 마흔다섯 땐 몰랐소. 아버지는 열쇠를 주시고 떠나셨지.
+KATHARINA: Und wenn ich scheitere? Dann haben Sie die Firma nicht an Corvalis verloren, sondern an mich.
+> 그럼 제가 실패하면요? 그럼 회사를 코르발리스가 아니라 제게 잃으시는 겁니다.
+KONRAD: Dann haben wir es wenigstens versucht. Selbst. Nicht verkauft, sondern versucht.
+> 그럼 적어도 시도는 해 본 거요. 우리 스스로. 판 게 아니라, 시도해 본 거지.
+SELIN: Katharina, darf ich etwas sagen? In Oberwalden hast du gesagt: Erst das Gefühl, dann die Zahlen — so soll es sein. Was sagt dein Gefühl?
+> 카타리나, 한마디 해도 될까? 오버발덴에서 네가 그랬잖아. 감정이 먼저, 숫자는 그다음 — 원래 그래야 한다고. 네 감정은 뭐라고 해?
+KATHARINA: Mein Gefühl sagt, dass ich Angst habe.
+> 내 감정은 두렵다고 해.
+SELIN: An meinem ersten Tag hast du gesagt, Nervosität ist gut. Dann ist man wach.
+> 내 첫날에 네가 그랬잖아. 긴장하는 건 좋은 거라고. 그래야 깨어 있다고.
+TOBIAS: Und die Zahlen sagen: Ohne Veränderung ist die Firma in fünf Jahren halb so viel wert. Mit Veränderung doppelt so viel. Das Einzige, was dazwischen fehlt, ist jemand, der es macht.
+> 그리고 숫자는 이렇게 말해. 변화가 없으면 5년 뒤 회사 가치는 절반이 된다. 변화가 있으면 두 배가 된다. 그 사이에 빠진 건 그걸 해낼 사람 하나뿐이야.
+KATHARINA: … Frau Ebersbach. Sie sind Mitglied des Aufsichtsrats, und ohne den Aufsichtsrat wird niemand Vorstand. Was sagen Sie?
+> …클라라 씨. 감사회 위원이시고, 감사회 없이는 아무도 이사가 될 수 없습니다. 어떻게 생각하십니까?
+CLARA: Sie fragen mich?
+> 저한테 묻는 거예요?
+KATHARINA: Ich frage Sie. Ich will nicht gegen Sie in diese Firma kommen. Wenn Sie Nein sagen, sage ich auch Nein.
+> 클라라 씨께 묻는 겁니다. 클라라 씨 뜻을 거슬러 이 회사에 들어오고 싶지 않습니다. 클라라 씨가 아니라고 하시면 저도 아니라고 하겠습니다.
+CLARA: … Das hat in dieser Familie noch nie jemand zu mir gesagt.
+> …이 집안에서 저한테 그런 말을 한 사람은 아무도 없었어요.
+CLARA: Ich mag Sie nicht, Frau Dr. Brandt. Sie haben mir heute meinen Traum für die nächsten fünf Jahre genommen. Aber Sie sind auch die Einzige, die mir einen Weg für die nächsten zwanzig gezeigt hat.
+> 저는 브란트 박사님이 싫어요. 오늘 제 향후 5년의 꿈을 가져가셨으니까요. 하지만 향후 20년의 길을 보여 준 사람도 박사님뿐이에요.
+CLARA: Ich stimme im Aufsichtsrat für Sie. Unter einer Bedingung: Ich prüfe jede Ihrer Entscheidungen. Jede. Und ich werde nicht nett sein.
+> 감사회에서 박사님께 찬성표를 던질게요. 조건이 하나 있어요. 박사님의 결정을 하나하나 다 검토할 거예요. 전부요. 그리고 친절하진 않을 거예요.
+KATHARINA: Das hoffe ich, Frau Ebersbach. Ein Aufsichtsrat, der nett ist, schläft.
+> 그러시길 바랍니다, 클라라 씨. 친절한 감사회는 잠든 감사회니까요.
+PHILIPP: Und ich? Fragt mich auch jemand?
+> 그럼 나는요? 나한테도 누가 물어봐요?
+KONRAD: Du hast Artikel neun, Philipp. Wenn du gehen willst, kannst du gehen. Zu einem fairen Preis. Aber nicht mit Corvalis.
+> 넌 9조가 있잖니, 필립. 떠나고 싶으면 떠나도 된다. 공정한 가격으로. 하지만 코르발리스와는 안 돼.
+PHILIPP: … Ich denke darüber nach. Drei Jahre ohne Dividende überlebe ich vielleicht. Mit einem kleineren Wohnzimmer.
+> …생각해 볼게요. 3년간 배당 없이도 어쩌면 버틸 수 있겠죠. 거실을 좀 줄이면.
+KONRAD: Also, Frau Dr. Brandt?
+> 자, 브란트 박사?
+KATHARINA: … Ja. Ich nehme Ihr Angebot an, Herr Ebersbach — vorbehaltlich der Entscheidung des Aufsichtsrats.
+> …네. 제안을 받아들이겠습니다, 에버스바흐 씨 — 감사회 결정을 전제로요.
+KATHARINA: Und unter einer Bedingung.
+> 그리고 조건이 하나 있습니다.
+KONRAD: Natürlich. Ohne Bedingung wären Sie nicht Sie.
+> 물론이지. 조건이 없으면 당신이 아니지.
+KATHARINA: Den Finanzvorstand suche ich mir selbst aus. Ich weiß schon, wen ich fragen will. Ich weiß nur noch nicht, ob er Ja sagt.
+> 재무 담당 이사는 제가 직접 고르겠습니다. 누구한테 물어볼지는 이미 압니다. 그가 '예'라고 할지는 아직 모르지만요.
+
+## 마무리 — AM MAIN, BEI NACHT
+SELIN: Der Main bei Nacht. Von hier sieht man fast bis Frankfurt.
+> 밤의 마인강. 여기서 보면 프랑크푸르트까지 거의 보여.
+KATHARINA: Vor vier Monaten habe ich dir an deinem ersten Tag gesagt: Erst gewinnen wir. Jetzt weiß ich gar nicht mehr, was „gewinnen" heißt.
+> 넉 달 전 네 첫날에 내가 그랬지. 일단 이기고 나서. 이제는 '이긴다'는 게 뭔지도 모르겠어.
+SELIN: Vielleicht heißt es heute: das Richtige tun und trotzdem morgen etwas zu tun haben.
+> 오늘은 그게 '옳은 일을 하고도 내일 할 일이 있는 것'이 아닐까.
+KATHARINA: Und du? Hellweg wird dich fragen, auf welcher Seite du stehst.
+> 그럼 너는? Hellweg가 너한테 어느 편이냐고 물을 거야.
+SELIN: Ich bleibe vorerst in Berlin und lerne. Aber wenn du in hundert Tagen jemanden brauchst, der Daten liebt und keine Angst vor Betriebsräten hat …
+> 당분간은 베를린에 남아서 배울게. 그래도 100일 뒤에 데이터를 좋아하고 노동자평의회를 무서워하지 않는 사람이 필요하면…
+KATHARINA: … dann rufe ich dich an. Versprochen. Das ist seit Langem das erste Versprechen, das ich gebe.
+> …그럼 너한테 전화할게. 약속해. 오랜만에 하는 첫 약속이야.
+TOBIAS: Ihr redet über die Zukunft, und ich friere. Können wir bitte über Glühwein reden?
+> 너희는 미래 얘기를 하고, 난 얼어 죽겠어. 제발 글뤼바인 얘기 좀 하면 안 될까?
+KATHARINA: Tobias, ich muss dich etwas fragen. Ich brauche bei Ebersbach einen Finanzvorstand, der mir widerspricht, bevor es zu spät ist. Du hast einmal gesagt, ich vertraue niemandem — dir vertraue ich.
+> 토비아스, 물어볼 게 있어. 에버스바흐에서 너무 늦기 전에 나한테 반대해 줄 재무 담당 이사가 필요해. 네가 언젠가 그랬지, 내가 아무도 안 믿는다고 — 난 널 믿어.
+TOBIAS: Finanzvorstand. Vierhundertzwanzig Millionen Schulden, ein Patriarch, eine Tochter, die dich nicht mag, und drei Jahre ohne Dividende.
+> 재무 이사라. 부채 4억 2천만, 가장 한 명, 너를 싫어하는 딸 한 명, 그리고 3년간 무배당.
+KATHARINA: Und ein Gehalt unter dem bei Hellweg. Und niemand liest mehr Seite dreiundachtzig für dich — die schreibst du dann selbst. Ich will dir nichts beschönigen.
+> 그리고 Hellweg보다 낮은 연봉. 그리고 이제 아무도 너 대신 83페이지를 읽어 주지 않아 — 그땐 네가 직접 쓰는 거야. 너한테 아무것도 미화하고 싶지 않아.
+SELIN: Tobias … sie wartet.
+> 토비아스… 기다리고 있잖아.
+TOBIAS: Ich bin dabei.
+> 나도 함께할게.

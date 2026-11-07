@@ -1,0 +1,269 @@
+part: 2
+ep: 16
+title_de: Der Verkauf
+title_ko: 매각
+scene: 프랑크푸르트 로펌 회의실 → 슈판다우 공장 정문 → ICE
+level: B2
+setting: 12월 첫째 주 월요일 오전 아홉 시부터 화요일 새벽(프랑크푸르트 로펌 26층 회의실), 그리고 일주일 뒤 오후(슈판다우 공장 정문과 베를린발 프랑크푸르트행 ICE)
+cast: KATHARINA | Dr. Katharina Brandt · CEO (39)
+cast: TOBIAS | Tobias Wendt · CFO (35)
+cast: SELIN | Selin Aydın · 전환사무국장 (27)
+cast: CLARA | Clara Ebersbach · 감사회 의장, 아들 Felix의 지분 20% 대리 (41)
+cast: MARTIN | Martin Ebersbach · 상속인 레오니·모리츠의 아버지 (47)
+cast: KRULL | Sebastian Krull · 사모펀드 Aldmoor Capital 파트너 (가상)
+cast: WIEGAND | Dr. Anja Wiegand · Ebersbach 법무 총괄
+cast: HENSCHEL | Dagmar Henschel · IG Metall 지역본부 교섭 대표 (57)
+cast: KRÖGER | Matthias Kröger · 슈판다우 노동자평의회 의장 (52)
+cast: MATUSCHEK | Heinz Matuschek · 기어 연삭공, 견습생 멘토 (62)
+note: ※ 상장사 지분 30퍼센트 이상을 사들이는 투자자는 증권인수법(WpÜG)에 따라 나머지 모든 주주에게 공개매수를 제안해야 하고, 대상 회사의 이사회와 감사회는 그 제안이 직원과 사업장에 미칠 영향을 포함한 '의견서'를 공개해야 합니다. 인수자와 대상 회사는 흔히 '투자 약정(Investorenvereinbarung)'을 맺어 본사 소재지, 고용, 투자 계획을 약속하지만, 이것만으로는 직원이 직접 권리를 주장하기 어렵습니다. 그래서 노동조합과 맺는 단체협약, 즉 '미래 협약(Zukunftstarifvertrag)'으로 고용 보장(Beschäftigungssicherung)을 법적으로 강제할 수 있게 하는 경우가 많습니다. 매매계약(Kaufvertrag)에는 당국 승인 같은 '거래 종결 조건(Vollzugsbedingung)'이 들어갑니다. 방산 물자를 생산하는 기업을 EU 밖 투자자가 인수하려면 10퍼센트부터 연방경제부의 투자심사를 받아야 하고, 공급 계약에는 지배권이 바뀌면 상대방이 계약을 해지할 수 있는 '지배권 변경(Change of Control) 조항'이 흔히 들어 있습니다. 사모펀드 인수에서는 인수 대금 부채를 대상 회사에 떠넘기는 차입매수(LBO)가 일반적입니다. 펀드와 인물은 모두 가상입니다. 표현 초점: der Kaufvertrag, die Beschäftigungssicherung, der Rücktritt, die Bedingung, Wer prüft eigentlich die Prüfer?
+next: 3부 1화 — «Ein Schild an der Tür»(문 앞의 간판) — 세 사람은 베를린 모아비트에 경영감사 회사 BWA를 세우기로 한다. 유한회사 설립, 공증, 상업등기, 은행 계좌 — 모든 게 3주씩 걸린다. 면접을 보러 온 Ute Hennig가 30분 만에 행정 문제를 다 풀어 버리지만, 첫 고객은 아직 없다.
+
+## 도입 — KANZLEI, SECHSUNDZWANZIGSTER STOCK
+TOBIAS: Sechsundzwanzigster Stock. Vor einem Jahr waren wir im einunddreißigsten und haben um Zeit gebettelt. Jetzt verkaufen wir die Zeit, die wir gewonnen haben.
+> 26층이네. 1년 전엔 31층에서 시간을 구걸했는데. 이제 그때 벌어 놓은 시간을 파는 셈이야.
+KATHARINA: Wir verkaufen nichts, Tobias. Die Erben verkaufen. Wir sorgen nur dafür, dass im Kaufvertrag mehr steht als ein Preis.
+> 우리가 파는 게 아니야, 토비아스. 상속인들이 파는 거지. 우린 그저 매매계약서에 가격 말고도 뭔가가 들어가게 하는 것뿐이야.
+SELIN: Ich habe den Entwurf von Aldmoor heute Nacht gelesen. Zweihundertvierzig Seiten. Das Wort «Spandau» kommt genau einmal vor. In der Liste der Grundstücke.
+> 어젯밤에 올드무어 초안을 읽었어. 240쪽. '슈판다우'라는 단어는 딱 한 번 나와. 부동산 목록에.
+CLARA: Und das Wort «Beschäftigung»?
+> 그럼 '고용'이라는 단어는?
+SELIN: Gar nicht. Dafür vierzehnmal «Effizienzpotenzial».
+> 아예 없어. 대신 '효율화 잠재력'은 열네 번 나와.
+WIEGAND: Ich habe zweiundsechzig Anmerkungen. Die wichtigsten passen auf eine Seite. Herr Wendt hat mir beigebracht, dass in diesem Haus alles auf eine Seite passen muss.
+> 수정 의견이 예순두 개 있어요. 가장 중요한 건 한 장에 들어가요. 이 회사에선 모든 게 한 장에 들어가야 한다고 벤트 이사님이 가르쳐 주셨거든요.
+MARTIN: Guten Morgen. Leonie und Moritz sind per Video zugeschaltet. Sie überlassen mir und Clara die Verhandlung. Und ich sage es gleich: Ich will heute unterschreiben.
+> 좋은 아침입니다. 레오니와 모리츠는 화상으로 연결돼 있어요. 협상은 나와 클라라에게 맡기기로 했고요. 미리 말해 두는데, 나는 오늘 서명하고 싶어요.
+CLARA: Und ich will heute nur unterschreiben, wenn die Bedingungen stimmen. Das haben wir im September vereinbart, Martin.
+> 그리고 나는 조건이 맞을 때만 오늘 서명할 거야. 9월에 그렇게 합의했잖아, 오빠.
+KRULL: Guten Morgen, alle zusammen. Sebastian Krull. Ich habe drei Anwälte, zwei Banker und einen Kaffee mitgebracht. Den Kaffee teile ich gern.
+> 다들 좋은 아침입니다. 제바스티안 크룰입니다. 변호사 셋, 은행가 둘, 그리고 커피 한 잔을 가져왔습니다. 커피는 기꺼이 나눠 드리죠.
+KATHARINA: Herr Krull. Willkommen. Wir haben einen langen Tag vor uns.
+> 크룰 씨. 어서 오세요. 긴 하루가 될 거예요.
+KRULL: Nur, wenn Sie ihn lang machen, Frau Dr. Brandt.
+> 박사님이 길게 만드신다면 그렇겠죠, 브란트 박사님.
+KATHARINA: Dann lassen Sie uns mit der Frage anfangen, um die es heute wirklich geht: Was kaufen Sie — und was versprechen Sie den Menschen, die Sie mitkaufen?
+> 그럼 오늘의 진짜 질문부터 시작하죠. 무엇을 사시는 건지, 그리고 함께 사시는 사람들에게 무엇을 약속하실 건지.
+
+## 분석 — DREI ANGEBOTE
+TOBIAS: Zur Erinnerung, damit alle denselben Stand haben: Im Bieterverfahren gab es drei Angebote für die vierzig Prozent von Leonie und Moritz und, falls Clara zustimmt, für Felix' zwanzig.
+> 모두 같은 내용을 알고 있도록 다시 정리하겠습니다. 입찰 절차에서 레오니와 모리츠의 40퍼센트, 그리고 클라라가 동의할 경우 펠릭스의 20퍼센트에 대해 세 건의 제안이 들어왔습니다.
+TOBIAS: Erstens: Rheinische Beteiligungsholding, ein Zusammenschluss aus zwei Versicherern und einer Familienstiftung. Sechsunddreißig Euro, langfristig, ohne Schulden.
+> 첫째, 라이니셰 베타일리궁스홀딩. 보험사 두 곳과 가족 재단 하나가 모인 컨소시엄. 36유로, 장기 투자, 부채 없음.
+TOBIAS: Zweitens: Longhai. Achtunddreißig Euro. Aber als Investor von außerhalb der EU bei einem Unternehmen mit Verteidigungsgeschäft hätte das Ministerium ab zehn Prozent geprüft — und sehr wahrscheinlich untersagt. Longhai hat das Angebot zurückgezogen.
+> 둘째, Longhai. 38유로. 하지만 국방 사업을 하는 회사에 대한 EU 밖 투자자라서 연방경제부가 10퍼센트부터 심사했을 테고, 거의 확실히 금지했을 겁니다. Longhai는 제안을 철회했어요.
+TOBIAS: Drittens: Aldmoor. Einundvierzig Euro. Das höchste Angebot.
+> 셋째, 올드무어. 41유로. 최고가입니다.
+MARTIN: Fünf Euro mehr als die Holding. Bei vierundzwanzig Millionen Aktien sind das hundertzwanzig Millionen Euro Unterschied. Für meine Kinder ist das kein Detail.
+> 홀딩보다 5유로 높죠. 2,400만 주면 1억 2,000만 유로 차이예요. 우리 애들한테 그건 사소한 문제가 아닙니다.
+CLARA: Für Felix auch nicht. Aber Felix ist vierzehn. Er wird in zwanzig Jahren fragen, an wen wir verkauft haben, nicht für wie viel.
+> 펠릭스한테도 아니지. 하지만 펠릭스는 열네 살이야. 20년 뒤에 그 애가 묻는 건 얼마에 팔았냐가 아니라 누구한테 팔았냐일 거야.
+KRULL: Dann erzähle ich Ihnen, an wen. Aldmoor verwaltet vierzehn Milliarden Euro. Wir haben in Deutschland neun Mittelständler gekauft. Sieben davon sind heute größer als vorher.
+> 그럼 누구한테 파시는지 말씀드리죠. 올드무어는 140억 유로를 운용합니다. 독일에서 미텔슈탄트 기업 아홉 곳을 인수했고요. 그중 일곱 곳은 지금 인수 전보다 커졌습니다.
+SELIN: Und die anderen zwei?
+> 그럼 나머지 두 곳은요?
+KRULL: Die anderen zwei waren schon vorher in Schwierigkeiten.
+> 나머지 두 곳은 원래부터 어려움을 겪고 있었죠.
+SELIN: Ich habe mir alle neun angesehen. Bei sechs wurde innerhalb von drei Jahren ein Geschäftsbereich verkauft. Bei einem wurde ein Werk geschlossen. Und eines ist heute insolvent — nachdem es die Schulden für seinen eigenen Kaufpreis bezahlen musste.
+> 아홉 곳을 전부 살펴봤어요. 여섯 곳은 3년 안에 사업부 하나를 매각했어요. 한 곳은 공장 하나를 닫았고요. 그리고 한 곳은 지금 파산 상태예요. 자기 인수 대금의 빚을 떠안아야 했던 뒤에요.
+KRULL: Sie haben gründlich gearbeitet, Frau Aydın.
+> 꼼꼼히 조사하셨군요, 아이든 씨.
+SELIN: Ich arbeite immer gründlich. Das hat mir in diesem Jahr ein Mann namens Kröger beigebracht.
+> 저는 늘 꼼꼼해요. 올해 크뢰거라는 분한테 배웠거든요.
+TOBIAS: Herr Krull, wie finanzieren Sie die einundvierzig Euro?
+> 크룰 씨, 41유로를 어떻게 조달하시죠?
+KRULL: Mit Eigenkapital aus unserem Fonds und einer Akquisitionsfinanzierung. Üblich.
+> 저희 펀드의 자기자본과 인수 금융으로요. 통상적인 방식입니다.
+TOBIAS: Und wer bedient am Ende die Akquisitionsfinanzierung?
+> 그리고 그 인수 금융은 결국 누가 갚죠?
+KRULL: Das Unternehmen, wie bei jeder Übernahme dieser Art.
+> 회사죠. 이런 종류의 인수가 다 그렇듯이.
+TOBIAS: Das heißt, Ebersbach zahlt einen Teil seines eigenen Kaufpreises. Bei Ihrem Modell läge der Verschuldungsgrad nach der Übernahme bei über fünf. Vor einem Jahr haben wir bei vier Komma vier fast unsere Banken verloren.
+> 그러니까 에버스바흐가 자기 인수 대금의 일부를 직접 낸다는 거군요. 당신네 모델대로면 인수 후 부채 배율이 5를 넘어요. 1년 전에 우리는 4.4에서 은행들을 거의 잃을 뻔했죠.
+KRULL: Damals hatten Sie keinen Eigentümer, der Kapitalmärkte versteht.
+> 그땐 자본시장을 이해하는 소유주가 없었잖습니까.
+TOBIAS: Damals hatten wir einen, der fünfundzwanzig Millionen aus seinem eigenen Vermögen gegeben hat. Ich weiß nicht, ob das weniger von Kapitalmärkten versteht.
+> 그땐 자기 재산에서 2,500만을 내놓은 소유주가 있었죠. 그게 자본시장을 덜 이해하는 건지는 잘 모르겠네요.
+MARTIN: Herr Wendt, das ist Vergangenheit. Meine Kinder interessiert die Zukunft.
+> 벤트 이사, 그건 지난 일이에요. 우리 애들은 미래에 관심이 있어요.
+TOBIAS: Gerade deshalb, Herr Ebersbach. Wer nicht alles verkauft, sitzt mit dieser Verschuldung im selben Boot.
+> 바로 그래서죠, 에버스바흐 씨. 전부 팔지 않는 사람은 그 부채와 한배를 타게 되니까요.
+MARTIN: Meine Kinder verkaufen alles. Das haben wir entschieden.
+> 우리 애들은 전부 팔아요. 그렇게 결정했어요.
+CLARA: Leonie und Moritz verkaufen alles. Über Felix entscheide ich.
+> 레오니와 모리츠는 전부 팔지. 펠릭스에 대해선 내가 결정하고.
+WIEGAND: Zwei Punkte, die für den Vertrag entscheidend sind. Erstens: Aldmoor ist ein Investor mit Sitz außerhalb der EU. Wegen des Verteidigungsgeschäfts braucht der Erwerb eine Freigabe des Wirtschaftsministeriums. Das ist eine Vollzugsbedingung.
+> 계약에 결정적인 두 가지가 있어요. 첫째, 올드무어는 EU 밖에 본사가 있는 투자자예요. 국방 사업 때문에 인수에는 연방경제부의 승인이 필요하고요. 그게 거래 종결 조건입니다.
+WIEGAND: Zweitens: Der Liefervertrag mit Rheinwerk Landsysteme hat eine Change-of-Control-Klausel. Wenn sich die Kontrolle über Ebersbach ändert, kann Rheinwerk den Vertrag kündigen.
+> 둘째, 라인베르크 란트지스테메와의 공급 계약에 지배권 변경 조항이 있어요. 에버스바흐의 지배권이 바뀌면 라인베르크가 계약을 해지할 수 있어요.
+KRULL: Das wissen wir. Wir werden mit Rheinwerk reden.
+> 알고 있습니다. 라인베르크와 얘기할 겁니다.
+SELIN: Und die Stellungnahme des Vorstands zum Übernahmeangebot? Die müssen wir doch veröffentlichen, oder?
+> 그리고 공개매수에 대한 이사회 의견서는요? 그건 우리가 공개해야 하잖아요?
+WIEGAND: Vorstand und Aufsichtsrat müssen eine begründete Stellungnahme abgeben — auch zu den Folgen für die Beschäftigten und die Standorte. Der Betriebsrat kann seine eigene beifügen.
+> 이사회와 감사회는 이유를 붙인 의견서를 내야 해요. 직원과 사업장에 미치는 영향까지 포함해서요. 노동자평의회는 자체 의견서를 덧붙일 수 있고요.
+KRULL: Und ich nehme an, diese Stellungnahme hängt davon ab, was heute im Vertrag steht.
+> 그리고 짐작건대, 그 의견서는 오늘 계약서에 무엇이 들어가느냐에 달려 있겠군요.
+KATHARINA: Ich habe schon mit Frau Dr. Steinhoff geredet. Sie verzichtet auf ihr Kündigungsrecht nur, wenn das Werk in Spandau, das Personal und die Leitlinien für das Verteidigungsgeschäft unverändert bleiben. Schriftlich, für die Laufzeit des Auftrags.
+> 슈타인호프 박사와는 이미 얘기했어요. 슈판다우 공장, 인력, 국방 사업 지침이 그대로 유지될 때만 해지권을 포기하겠대요. 서면으로, 수주 기간 동안.
+KRULL: Sie haben vor mir mit meinem wichtigsten Risiko gesprochen.
+> 저보다 먼저 제 가장 큰 리스크와 얘기하셨군요.
+KATHARINA: Es ist auch mein wichtigstes Risiko, Herr Krull. Nur aus einem anderen Grund.
+> 그건 제 가장 큰 리스크이기도 해요, 크룰 씨. 이유가 다를 뿐.
+CLARA: Und drittens, Herr Krull: Ohne Felix' Aktien haben Sie vierzig Prozent. Für einen Beherrschungsvertrag brauchen Sie drei Viertel. Ohne meine Unterschrift und ohne das Familiengericht kommen Sie da nicht hin.
+> 그리고 셋째, 크룰 씨. 펠릭스 주식이 없으면 40퍼센트예요. 지배 계약을 맺으려면 4분의 3이 필요하죠. 내 서명과 가정법원 없이는 거기까지 못 가요.
+
+## 갈등 — KEINE FESSELN
+KRULL: Gut. Dann reden wir offen. Was wollen Sie?
+> 좋습니다. 그럼 터놓고 얘기하죠. 원하는 게 뭡니까?
+KATHARINA: Vier Bedingungen. Erstens: Das Werk Spandau bleibt mindestens fünf Jahre bestehen. Zweitens: Beschäftigungssicherung für beide Standorte, fünf Jahre lang keine betriebsbedingten Kündigungen.
+> 네 가지 조건이요. 첫째, 슈판다우 공장은 최소 5년간 존속합니다. 둘째, 두 사업장 모두 고용 보장. 5년 동안 경영상 해고 없음.
+KATHARINA: Drittens: Die Verschuldung des Unternehmens bleibt unter drei Komma fünf. Und viertens: Die Leitlinien für das Verteidigungsgeschäft und der Ausschuss im Aufsichtsrat bleiben, wie sie sind.
+> 셋째, 회사의 부채 배율은 3.5 미만으로 유지합니다. 그리고 넷째, 국방 사업 지침과 감사회 위원회는 지금 그대로 유지합니다.
+KRULL: Frau Dr. Brandt, wir kaufen kein Unternehmen mit Fesseln. Wir kaufen es, um es besser zu machen. Fünf Jahre ohne Kündigungen heißt fünf Jahre ohne Handlungsspielraum.
+> 브란트 박사님, 저희는 족쇄 찬 회사를 사지 않습니다. 더 낫게 만들려고 사는 거죠. 5년 동안 해고가 없다는 건 5년 동안 운신의 폭이 없다는 뜻입니다.
+KATHARINA: Fünf Jahre ohne Kündigungen heißt fünf Jahre, in denen Sie mit den Leuten arbeiten müssen statt gegen sie. Wir haben das in diesem Jahr getestet. Es funktioniert.
+> 5년 동안 해고가 없다는 건, 5년 동안 사람들과 맞서는 대신 함께 일해야 한다는 뜻이에요. 우리는 올해 그걸 시험해 봤어요. 효과가 있어요.
+KRULL: Zwei Jahre. Und für Spandau eine Prüfung nach achtzehn Monaten.
+> 2년. 그리고 슈판다우는 18개월 뒤에 재검토.
+TOBIAS: Eine Prüfung nach achtzehn Monaten ist ein Szenario C mit Termin.
+> 18개월 뒤 재검토라는 건 날짜가 박힌 시나리오 C예요.
+KRULL: Herr Wendt, ich kenne Ihr Szenario C nicht.
+> 벤트 이사님, 저는 당신네 시나리오 C를 모릅니다.
+TOBIAS: Das glaube ich Ihnen sogar. Aber in Spandau kennt es jeder.
+> 그 말은 믿어요. 하지만 슈판다우에선 다들 알죠.
+KRULL: Frau Dr. Brandt, Sie sind Vorstand, nicht Verkäuferin. Bei diesem Kaufvertrag haben Sie streng genommen gar nichts zu sagen.
+> 브란트 박사님, 박사님은 이사지 매도인이 아닙니다. 엄밀히 말해 이 매매계약에는 아무런 발언권이 없으시죠.
+KATHARINA: Beim Kaufvertrag nicht. Bei der Stellungnahme schon. Und dort steht, was ich heute sehe.
+> 매매계약에는 없죠. 하지만 의견서에는 있어요. 그리고 거기엔 제가 오늘 본 것이 들어갈 거예요.
+KRULL: Das klingt nach einer Drohung.
+> 협박처럼 들리는군요.
+KATHARINA: Es ist eine Pflicht. Das Gesetz verlangt, dass ich den Aktionären sage, was Ihr Angebot für die Beschäftigten bedeutet. Ich kann nur nichts Schönes schreiben, das nicht stimmt.
+> 의무예요. 법은 당신 제안이 직원들에게 무슨 의미인지 제가 주주들에게 말하도록 요구하죠. 저는 사실이 아닌 예쁜 말을 쓸 수 없을 뿐이에요.
+MARTIN: Clara, wir reden hier über hundertzwanzig Millionen Unterschied zur Holding. Wenn Aldmoor wegen dieser Bedingungen aussteigt, verkaufen wir für sechsunddreißig. Oder gar nicht.
+> 클라라, 지금 홀딩과 1억 2,000만 차이 나는 얘기를 하는 거야. 이 조건들 때문에 올드무어가 빠지면 36유로에 팔게 돼. 아니면 아예 못 팔든지.
+CLARA: Dann verkaufen wir für sechsunddreißig, Martin. Papa hat geschrieben: Verkauft die Leute nicht mit.
+> 그럼 36유로에 팔면 돼, 오빠. 아빠가 쓰셨잖아. 사람들까지 함께 팔지 말라고.
+MARTIN: Papa hat auch geschrieben, dass meine Kinder verkaufen dürfen.
+> 아빠는 우리 애들이 팔아도 된다고도 쓰셨어.
+CLARA: Dürfen, ja. Nicht müssen, und nicht um jeden Preis.
+> 팔아도 된다고 하셨지. 팔아야 한다거나, 무슨 수를 써서라도 팔라고는 안 하셨어.
+KRULL: Frau Dr. Brandt, darf ich Ihnen ein anderes Angebot machen? Unter vier Augen.
+> 브란트 박사님, 다른 제안을 하나 드려도 될까요? 단둘이서요.
+KATHARINA: Sie dürfen. Aber ich erzähle es danach allen.
+> 하셔도 돼요. 하지만 나중에 다 얘기할 거예요.
+KRULL: Bleiben Sie. Als Vorstandsvorsitzende unter Aldmoor. Mit einem Vertrag über fünf Jahre und einer Beteiligung am Wertzuwachs. Wenn Sie bleiben, brauchen wir keine Garantien. Sie sind die Garantie.
+> 남아 주십시오. 올드무어 체제의 대표이사로. 5년 계약에, 기업 가치 상승분에 대한 지분까지 드리죠. 박사님이 남으시면 보장 조항은 필요 없습니다. 박사님이 곧 보장이니까요.
+KATHARINA: Und was steht in Ihrem Plan für das dritte Jahr?
+> 그럼 3년 차 계획에는 뭐가 있죠?
+KRULL: Ein Verkauf des Industriegeschäfts. Wind und Bahn. Separat ist es mehr wert.
+> 산업 부문 매각. 풍력과 철도. 따로 떼면 더 비싸게 팔 수 있죠.
+KATHARINA: Das Industriegeschäft, das wir im Januar aufgebaut haben, damit der Verbrenner nicht unser einziges Standbein bleibt. Und ich soll das verkaufen.
+> 내연기관이 우리의 유일한 기둥으로 남지 않도록 1월에 우리가 키운 그 산업 부문을요. 그걸 제가 팔라는 거네요.
+KRULL: Sie sollen es zum besten Preis verkaufen. Das ist ein Unterschied.
+> 최고가에 파시라는 겁니다. 그건 다른 얘기죠.
+KATHARINA: Nein, Herr Krull. Die Antwort ist Nein. Und nicht, weil mir das Geld egal ist.
+> 아니요, 크룰 씨. 답은 '아니요'예요. 돈이 상관없어서가 아니고요.
+KRULL: Warum dann?
+> 그럼 왜죠?
+KATHARINA: Weil Bedingungen, die an einer Person hängen, nichts wert sind, sobald diese Person geht. Oder krank wird. Oder stirbt. Das habe ich in diesem Herbst gelernt.
+> 한 사람에게 매달린 조건은 그 사람이 떠나는 순간 아무 가치가 없으니까요. 아니면 병들거나, 죽거나. 올가을에 그걸 배웠어요.
+KRULL: Herr Wendt? Das Angebot gilt auch für Sie. Als Finanzvorstand.
+> 벤트 이사님? 그 제안은 이사님께도 유효합니다. CFO로서.
+TOBIAS: Danke. Ich habe vor einem Jahr «Ich bin dabei» gesagt. Zu ihr, nicht zu einem Fonds.
+> 감사합니다. 저는 1년 전에 «함께하겠다»고 했어요. 저 사람한테요, 펀드한테가 아니라.
+KRULL: Loyalität ist ein teures Hobby, Herr Wendt.
+> 충성심은 비싼 취미입니다, 벤트 이사님.
+TOBIAS: Ich weiß. Ich habe es in diesem Jahr ausgerechnet. Es hat sich trotzdem gelohnt.
+> 압니다. 올해 계산해 봤죠. 그래도 그만한 가치가 있었어요.
+KRULL: Dann verhandle ich eben mit Ihnen beiden als Gegnern. Das ist mir ohnehin lieber.
+> 그럼 두 분을 상대편으로 두고 협상하죠. 어차피 그쪽이 더 마음에 듭니다.
+HENSCHEL: Guten Tag. Dagmar Henschel, IG Metall. Frau Dr. Brandt hat uns eingeladen. Matthias, setz dich.
+> 안녕하세요. IG Metall의 다그마르 헨셸입니다. 브란트 박사가 초대했어요. 마티아스, 앉아.
+KRULL: Die Gewerkschaft? Bei der Verhandlung über einen Kaufvertrag?
+> 노조요? 매매계약 협상 자리에?
+KRÖGER: Keine Sorge, Herr Krull. Wir wollen nichts kaufen. Wir wollen nur wissen, wer uns gerade verkauft.
+> 걱정 마세요, 크룰 씨. 우린 아무것도 안 살 거예요. 그냥 지금 누가 우리를 팔고 있는지 알고 싶을 뿐이죠.
+
+## 해결·설득 — WAS IM VERTRAG STEHT
+KATHARINA: Herr Krull, ich mache Ihnen einen Vorschlag, der Ihnen am Ende Geld spart. Hören Sie bis zum Ende zu.
+> 크룰 씨, 결국엔 돈을 아껴 드릴 제안을 하나 하겠습니다. 끝까지 들어 주세요.
+KATHARINA: Sie brauchen drei Dinge, die Sie nicht kaufen können: die Freigabe des Ministeriums, den Verzicht von Rheinwerk auf die Kündigung und Felix' zwanzig Prozent. Alle drei hängen an derselben Frage: Was passiert mit den Menschen?
+> 크룰 씨에겐 돈으로 살 수 없는 세 가지가 필요해요. 연방경제부의 승인, 라인베르크의 해지권 포기, 그리고 펠릭스의 20퍼센트. 세 가지 모두 같은 질문에 달려 있죠. 사람들은 어떻게 되는가.
+KATHARINA: Ein Ministerium, das einen Erwerb bei einem Verteidigungszulieferer prüft, schaut auf Versorgungssicherheit. Ein Werk, das fünf Jahre gesichert ist, ist Versorgungssicherheit. Rheinwerk will dasselbe. Und ein Familiengericht prüft, ob ein Verkauf im Interesse eines Vierzehnjährigen ist, dessen Großvater an jede Wand geschrieben hat, was ihm wichtig war.
+> 국방 협력업체 인수를 심사하는 연방경제부는 공급 안정성을 봅니다. 5년간 보장된 공장이 바로 공급 안정성이죠. 라인베르크도 같은 걸 원하고요. 그리고 가정법원은 그 매각이 열네 살 아이의 이익에 맞는지 심사하는데, 그 아이의 할아버지는 자기에게 무엇이 중요했는지 벽마다 써 붙여 둔 사람이었어요.
+KRULL: Und warum sollte das für mich günstiger sein als zwei Jahre?
+> 그게 왜 2년보다 저한테 유리하다는 겁니까?
+TOBIAS: Weil Sie mit zwei Jahren monatelang verhandeln — mit dem Ministerium, mit Rheinwerk, vor Gericht. Mit fünf Jahren haben Sie in sechs Wochen alle drei Zustimmungen. Ihre Akquisitionsfinanzierung kostet Sie jeden Monat Bereitstellungszinsen. Ich habe es ausgerechnet: Fünf Jahre Garantie sind für Sie billiger als drei Monate Verzögerung.
+> 2년으로 하면 몇 달씩 협상하셔야 하니까요. 연방경제부와, 라인베르크와, 법정에서. 5년으로 하면 6주 안에 세 가지 동의를 다 받으시죠. 당신네 인수 금융은 매달 약정 수수료가 나가잖아요. 계산해 봤어요. 5년 보장이 3개월 지연보다 당신한테 더 싸요.
+KRULL: Sie haben meine Finanzierungskosten gerechnet?
+> 제 금융 비용까지 계산하셨습니까?
+TOBIAS: Ich rechne immer die Kosten der anderen. Das ist die einzige Art, sie zu verstehen.
+> 저는 늘 상대방 비용을 계산합니다. 그게 상대를 이해하는 유일한 방법이거든요.
+KRULL: Und die Stellungnahme, Frau Dr. Brandt?
+> 그럼 의견서는요, 브란트 박사님?
+KATHARINA: Mit diesen Bedingungen empfehlen Vorstand und Aufsichtsrat Ihr Angebot. Ohne sie empfehlen wir es nicht. Der Betriebsrat schreibt seine eigene.
+> 이 조건들이 있으면 이사회와 감사회는 당신 제안을 권고합니다. 없으면 권고하지 않아요. 노동자평의회는 자체 의견서를 쓰고요.
+KRÖGER: Und meine wird kurz. Entweder «Ja, weil» oder «Nein, weil». Sie können sich aussuchen, welches Wort nach dem «weil» kommt.
+> 그리고 내 건 짧을 거예요. «찬성, 왜냐하면» 아니면 «반대, 왜냐하면». '왜냐하면' 뒤에 무슨 말이 올지는 당신이 고르세요.
+KRULL: Herr Kröger, ich glaube, Sie und ich hätten uns in einem anderen Leben gut verstanden.
+> 크뢰거 씨, 다른 생에서 만났다면 우리 둘은 잘 통했을 것 같군요.
+HENSCHEL: Und damit die fünf Jahre nicht nur auf Papier stehen, schließen wir einen Zukunftstarifvertrag. Beschäftigungssicherung, Standort Spandau, Investitionszusagen. Ein Tarifvertrag ist einklagbar — eine Absichtserklärung nicht.
+> 그리고 그 5년이 종이 위에만 있지 않도록, 미래 협약을 맺겠습니다. 고용 보장, 슈판다우 사업장, 투자 약속. 단체협약은 소송으로 강제할 수 있어요. 의향서는 그렇지 않고요.
+KRULL: Sie wollen, dass ein Tarifvertrag Bedingung für meinen Kaufvertrag wird?
+> 단체협약을 제 매매계약의 조건으로 만들자는 겁니까?
+CLARA: Ich will es, Herr Krull. Für Felix' Aktien ist die Unterzeichnung des Zukunftstarifvertrags eine Vollzugsbedingung. Ohne Tarifvertrag kein Vollzug. Ohne Vollzug keine zwanzig Prozent.
+> 제가 원해요, 크룰 씨. 펠릭스 주식에 대해서는 미래 협약 서명이 거래 종결 조건이에요. 협약 없으면 종결도 없어요. 종결이 없으면 20퍼센트도 없고요.
+MARTIN: Clara, das ist …
+> 클라라, 그건…
+CLARA: Das ist, was Papa gewollt hätte. Und diesmal weiß ich es, weil er es aufgeschrieben hat.
+> 아빠가 원하셨을 일이야. 이번엔 확실히 알아. 아빠가 써 두셨으니까.
+KRULL: … Und der Verschuldungsgrad?
+> …그럼 부채 배율은요?
+TOBIAS: Drei Komma fünf für drei Jahre. Danach frei. Damit können Sie leben, und das Unternehmen auch.
+> 3년 동안 3.5. 그 뒤엔 자유. 그 정도면 당신도, 회사도 살 수 있어요.
+KRULL: Dann senke ich den Preis. Vierzig Euro statt einundvierzig. Garantien kosten Geld.
+> 그럼 가격을 내리겠습니다. 41유로 대신 40유로. 보장에는 돈이 들죠.
+MARTIN: Vierzig. Das sind immer noch vier Euro mehr als die Holding.
+> 40유로. 그래도 홀딩보다 4유로 높네.
+TOBIAS: Vierzig Euro fünfzig. Weil Sie sich drei Monate Verzögerung sparen. Das ist die Hälfte Ihrer Ersparnis. Die andere Hälfte gönne ich Ihnen.
+> 40.5유로. 3개월 지연을 아끼시니까요. 그게 절감액의 절반이에요. 나머지 절반은 당신 몫으로 드리죠.
+KRULL: … Man hat mich vor Ihnen gewarnt, Herr Wendt. Zu Recht. — Vierzig fünfzig. Fünf Jahre. Zukunftstarifvertrag. Leitlinien bleiben.
+> …당신을 조심하라는 경고를 들었는데, 그럴 만했군요, 벤트 이사님. — 40.5유로. 5년. 미래 협약. 지침 유지.
+KRÖGER: Und noch etwas, Herr Krull. Wer führt die Firma, wenn die beiden hier gehen?
+> 그리고 하나 더요, 크룰 씨. 이 두 사람이 떠나면 누가 회사를 이끌죠?
+KRULL: Die beiden gehen?
+> 두 분이 떠나신다고요?
+KATHARINA: Herr Wendt und ich erklären unseren Rücktritt aus dem Vorstand mit Wirkung zum Vollzug. Der Aufsichtsrat bekommt unsere Schreiben heute Abend.
+> 벤트 이사와 저는 거래 종결 시점을 기해 이사회에서 사임하겠습니다. 감사회는 오늘 저녁 저희 서한을 받게 될 거예요.
+CLARA: Katharina … ich wusste, dass das kommt. Ich hatte trotzdem gehofft, dass du es dir anders überlegst.
+> 카타리나… 이렇게 될 줄 알았어. 그래도 마음을 바꾸길 바랐는데.
+KATHARINA: Clara, ein Vorstand, der den Kaufvertrag mitverhandelt hat, sollte danach nicht derjenige sein, der ihn für den Käufer umsetzt. Die Bedingungen müssen ohne mich halten. Sonst waren sie nie gut genug.
+> 클라라, 매매계약 협상에 참여한 이사가 그 뒤에 인수자를 위해 그 계약을 실행하는 사람이 돼선 안 돼. 조건은 내가 없어도 지켜져야 해. 안 그러면 처음부터 충분히 좋은 조건이 아니었던 거지.
+HENSCHEL: Dann unterschreiben wir heute Nacht den Tarifvertrag. Und Sie beide unterschreiben ihn noch als Vorstand. Das ist Ihre letzte Unterschrift für dieses Haus.
+> 그럼 오늘 밤 협약에 서명하죠. 두 분은 아직 이사회 자격으로 서명하시고요. 그게 이 회사를 위한 두 분의 마지막 서명이에요.
+
+## 마무리 — WERKSTOR SPANDAU UND ICE NACH FRANKFURT
+MATUSCHEK: Da ist sie. Das Messer aus Hanau. Zum letzten Mal.
+> 저기 오네. 하나우의 칼. 마지막으로.
+KRÖGER: Heinz, das sagt man nicht mehr. — Frau Brandt. Nee. Nicht mehr Frau Brandt. Hier.
+> 하인츠, 그 말은 이제 안 쓰는 거야. — 브란트 박사. 아니지. 이제 브란트 박사가 아니고. 자.
+KATHARINA: Sie geben mir die Hand, Herr Kröger?
+> 저한테 손을 내미시는 거예요, 크뢰거 씨?
+KRÖGER: Ich bin Matthias. Bei uns duzt man die Leute, mit denen man gekämpft hat. Fünf Jahre Spandau, schriftlich, einklagbar. Das hat in dreißig Jahren keiner geschafft.
+> 난 마티아스예요. 우리는 같이 싸운 사람한테는 말을 놓거든. 슈판다우 5년, 문서로, 소송으로 강제할 수 있게. 30년 동안 아무도 못 한 일이야.
+KATHARINA: Katharina. Und das hast du geschafft, Matthias. Ich habe nur unterschrieben.
+> 카타리나. 그리고 그건 당신이 해낸 거야, 마티아스. 난 서명만 했을 뿐이고.
+KRÖGER: Quatsch. Pass auf dich auf, Katharina. Und wenn ihr irgendwann merkt, dass der Fonds sich nicht an den Vertrag hält — ihr wisst, wo ihr mich findet.
+> 무슨 소리. 몸조심해, 카타리나. 그리고 언젠가 그 펀드가 계약을 안 지킨다는 걸 알게 되면, 날 어디서 찾을 수 있는지 알지.
+SELIN: Katharina, ich muss die ganze Fahrt an Krögers Satz denken. Wer merkt eigentlich, ob Aldmoor sich an den Vertrag hält? Der Aufsichtsrat? Die Wirtschaftsprüfer? Die bestätigen doch am Ende nur, dass die Zahlen stimmen.
+> 카타리나, 기차 타고 오는 내내 크뢰거 씨가 한 말이 머리에서 안 떠나. 올드무어가 계약을 지키는지 대체 누가 알아차려? 감사회? 회계감사인? 그 사람들은 결국 숫자가 맞는지만 확인하잖아.
+TOBIAS: Und die Wirtschaftsprüfer werden von dem Unternehmen bezahlt, das sie prüfen.
+> 그리고 회계감사인은 자기가 감사하는 회사한테서 돈을 받지.
+SELIN: Eben. Wer prüft eigentlich die Prüfer?
+> 그러니까. 대체 감사하는 사람은 누가 감사해?
+KATHARINA: … Vielleicht wir. Drei Leute, die ein Jahr lang erlebt haben, wie groß der Abstand zwischen einem Versprechen und seiner Umsetzung sein kann. Mit einem Schild an der Tür, auf dem unsere drei Namen stehen. In Berlin, nah am Hauptbahnhof. Bist du dabei, Tobias?
+> …어쩌면 우리가. 약속과 그 실행 사이의 거리가 얼마나 멀 수 있는지 1년 내내 겪은 세 사람. 우리 셋 이름이 적힌 간판을 문에 달고. 베를린, 중앙역 가까이에. 함께할래, 토비아스?
+TOBIAS: Ich habe das schon einmal gesagt, und es ist ziemlich gut ausgegangen. — Ich bin dabei.
+> 전에 한 번 그렇게 말했는데, 꽤 괜찮게 끝났지. — 함께할게.
+SELIN: Ich auch. Aber diesmal will ich kein Büro im Container.
+> 나도. 근데 이번엔 컨테이너 사무실은 싫어.
