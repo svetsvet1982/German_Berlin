@@ -1,0 +1,269 @@
+PART: 4
+EP: 3
+TITLE: Nämndemännen
+SUBTITLE: 시민 배심 판사들 · 재판 3, 스톡홀름 지방법원
+META: 대사 120턴 · 난이도 B2 · 배경: 6월 첫째 주 화요일, Kungsholmen의 스톡홀름 지방법원과 저녁의 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (방청)
+CAST: MAJA | 공인회계사 (증인 예정)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: GUNNEL | Vårberg 세입자 모임 위원장 (가상)
+CAST: SANNA | 지역 신문 «Stockholms Kuriren» 기자 (가상)
+CAST: LOVISA | 경제범죄청 검사 (가상)
+CAST: REHNBERG | Nordhem 전 사장 · 피고인 (가상)
+CAST: GÖRAN | 시민 배심 판사(nämndeman) · 퇴직 교사 (가상)
+NOTE: ※ 스웨덴 지방법원의 형사 재판에서는 법률가인 직업 판사 한 명 옆에 보통 세 명의 시민 배심 판사(nämndemän)가 앉습니다. 이들은 법률가가 아닌 일반 시민으로, 정당들이 추천하고 지방의회가 선출합니다. 시민 배심 판사는 직업 판사와 똑같이 한 표를 가지고 유무죄와 형량을 함께 정합니다. 미국식 배심원과 달리 판사 옆에 앉아 판결에 직접 참여하는 것이 특징입니다. 정당이 추천한다는 점 때문에 논쟁도 있습니다. 재판 중에는 사건에 대해 누구와도 이야기해서는 안 됩니다. 문법 초점: 정의와 설명(det som kallas…, vilket betyder att…)과 논증(därför att, medan, däremot). 표현 초점: åklagare, försvarare, nämndeman, åtal, rättegång.
+
+# 도입 — SCHEELEGATAN
+ELSA: Stockholms tingsrätt. Det ser ut som ett slott.
+= 스톡홀름 지방법원. 성 같아요.
+JOHAN: Det byggdes för att se ut som ett slott. Rådhuset. 1915. Så att folk skulle känna respekt.
+= 성처럼 보이라고 지은 거야. 시청사 건물. 1915년. 사람들이 존경심을 느끼도록.
+OXENSTIERNA: På min tid hölls rättegångar i källare. Respekten kom av sig själv.
+= 내 시절엔 재판을 지하실에서 했지. 존경심은 저절로 생겼어.
+ANTON: Kön är lång. Är alla här för samma rättegång?
+= 줄이 기네. 다들 같은 재판 때문에 온 거야?
+SANNA: Hälften är journalister. Den andra hälften är från Vårberg.
+= 절반은 기자고. 나머지 절반은 바르베리에서 왔어요.
+GUNNEL: Vi har hyrt en buss. Femtio personer. Linnea har gjort ett nytt plakat, men vi fick inte ta in det.
+= 버스를 빌렸어. 쉰 명. 리네아가 새 피켓을 만들었는데 못 들고 들어가게 했어.
+ELSA: Varför inte?
+= 왜요?
+GUNNEL: Man får inte demonstrera i en rättssal. Det står på en skylt. Med väldigt korrekta ord.
+= 법정에선 시위를 하면 안 된대. 표지판에 적혀 있어. 아주 정확한 말로.
+MAJA: Jag är kallad som vittne. Inte i dag. Om två veckor. Men jag ville se början.
+= 난 증인으로 소환됐어. 오늘은 아니고. 2주 뒤에. 근데 시작은 보고 싶었어.
+ELSA: Får man se rättegångar? Vem som helst?
+= 재판을 봐도 돼요? 아무나요?
+JOHAN: De flesta rättegångar är offentliga. Det hör ihop med offentlighetsprincipen. Folk ska kunna se hur domstolarna dömer.
+= 대부분의 재판은 공개야. 공문서 공개 원칙이랑 연결돼 있어. 사람들이 법원이 어떻게 판결하는지 볼 수 있어야 하니까.
+WICKSELL: Rättvisa som sker bakom stängda dörrar är ingen rättvisa. Bara ett beslut.
+= 닫힌 문 뒤에서 이뤄지는 정의는 정의가 아니네. 그냥 결정일 뿐이지.
+ELSA: Herr Wicksell! Ni kom!
+= 빅셀 님! 오셨네요!
+WICKSELL: Jag satt själv åtalad en gång. 1908. För hädelse. Jag vill se hur det ser ut från andra sidan.
+= 나도 한 번 피고인이었지. 1908년. 신성모독죄로. 반대편에선 어떻게 보이는지 보고 싶어서.
+ANTON: Hädelse? Vad gjorde ni?
+= 신성모독이요? 뭘 하셨는데요?
+WICKSELL: Jag höll ett föredrag. Jag skämtade om jungfru Maria. Jag fick två månaders fängelse.
+= 강연을 했지. 성모 마리아에 대해 농담을 했어. 징역 두 달을 받았네.
+OXENSTIERNA: Två månader för ett skämt. Det var milt.
+= 농담 하나에 두 달이라. 관대했군.
+WICKSELL: Det var ett dåligt skämt. Jag har ångrat det. Inte straffet, men skämtet.
+= 나쁜 농담이었지. 후회했네. 형벌 말고, 농담을.
+JOHAN: Vi går in. Sal ett. Den stora.
+= 들어가자. 1호 법정. 큰 데.
+BIGGAN: Jag har bullar i väskan. Får man äta i en rättssal?
+= 가방에 번 있어. 법정에서 먹어도 돼?
+JOHAN: Nej.
+= 안 돼.
+BIGGAN: Då äter vi i pausen.
+= 그럼 휴정 때 먹자.
+OXENSTIERNA: En klok strategi. Man ska aldrig döma på tom mage.
+= 현명한 전략이군. 빈속으로 재판하면 안 되지.
+
+# 장면 1 — RÄTTSSALEN
+ELSA: Okej. Förklara. Vem är vem?
+= 좋아요. 설명해 주세요. 누가 누구예요?
+JOHAN: Längst fram i mitten: rätten. En domare i mitten. Rådman Annika Sjöberg. Juristen.
+= 맨 앞 가운데: 재판부. 가운데 판사 한 명. 아니카 셰베리 판사. 법률가.
+ELSA: Och de tre bredvid henne?
+= 그럼 그 옆의 세 명은요?
+JOHAN: Nämndemän. Vanliga människor. Inte jurister.
+= 시민 배심 판사들. 평범한 사람들. 법률가가 아니야.
+ELSA: Vanliga människor? Som jag? Som Biggan?
+= 평범한 사람들이요? 저처럼요? 비간처럼요?
+JOHAN: Som Biggan. Fast äldre, ofta. De flesta är pensionärer.
+= 비간처럼. 대개는 더 나이가 많아. 대부분 연금 생활자야.
+ELSA: Och de bestämmer också? Om någon är skyldig?
+= 그 사람들도 결정해요? 누가 유죄인지?
+JOHAN: Lika mycket som domaren. Varje nämndeman har en röst. Domaren har en röst. Om tre nämndemän tycker olika mot domaren, vinner nämndemännen.
+= 판사만큼. 시민 배심 판사마다 한 표씩. 판사도 한 표. 시민 배심 판사 세 명이 판사와 의견이 다르면, 그쪽이 이겨.
+ELSA: Det är… galet. Vackert. Men galet.
+= 그건… 미쳤어요. 아름답지만. 미쳤어요.
+BIGGAN: Jag skulle vara en bra nämndeman. Jag vet när folk ljuger. Det syns på hur de håller kaffekoppen.
+= 난 좋은 시민 배심 판사가 될 거야. 사람이 거짓말하면 알거든. 커피잔 드는 걸 보면 보여.
+OXENSTIERNA: Det är absurt. Att låta en pensionerad lärare döma i ett mål om penningtvätt. Har han ens läst en balansräkning?
+= 터무니없군. 퇴직 교사가 돈세탁 사건을 판결하게 하다니. 그자가 대차대조표나 읽어 봤겠나?
+WICKSELL: Har domaren? Det är inte säkert.
+= 판사는 읽어 봤겠나? 그것도 확실하지 않지.
+MAJA: Det är därför jag är kallad. Som vittne. För att förklara siffrorna för dem som inte kan dem.
+= 그래서 내가 소환된 거야. 증인으로. 숫자를 모르는 사람들한테 숫자를 설명하라고.
+ELSA: Hur blir man nämndeman?
+= 시민 배심 판사는 어떻게 돼요?
+JOHAN: Partierna föreslår personer. Sedan väljer kommunfullmäktige dem. För fyra år i taget.
+= 정당들이 사람을 추천해. 그다음에 지방의회가 선출하지. 한 번에 4년씩.
+ELSA: Partierna? Politiska partier? I en domstol?
+= 정당이요? 정치 정당이요? 법원에?
+JOHAN: Det är just det som är omdiskuterat. Vissa tycker att det ger folket inflytande. Andra tycker att politik inte hör hemma i domstolar.
+= 바로 그게 논쟁거리야. 국민에게 영향력을 준다고 생각하는 사람도 있고. 정치가 법원에 있으면 안 된다고 생각하는 사람도 있지.
+ELSA: Och vad tycker du?
+= 그럼 요한은 어떻게 생각해요?
+JOHAN: Jag tycker att det är bra att någon i rummet inte har gått på juristlinjen. Ibland ser de saker som vi missar.
+= 방 안에 법대를 안 나온 누군가가 있다는 건 좋다고 생각해. 가끔은 우리가 놓치는 걸 보거든.
+ANTON: Och där. Till vänster. Åklagaren.
+= 그리고 저기. 왼쪽. 검사.
+ELSA: Lovisa! Hon har en ny kavaj. Fortfarande grå.
+= 로비사 씨! 새 재킷이에요. 여전히 회색이지만.
+JOHAN: Och till höger: de tilltalade. Och deras försvarare.
+= 그리고 오른쪽: 피고인들. 그리고 그 변호인들.
+ELSA: Fem personer. Fem advokater.
+= 다섯 명. 변호사 다섯 명.
+JOHAN: Rehnberg. Två tidigare chefer från Saltsjöbanken. Lundgren. Och…
+= 렌베리. 살트셰은행 전 간부 둘. 룬드그렌. 그리고…
+ELSA: Din pappa.
+= 아버지.
+JOHAN: Min pappa. Längst ut. Med en advokat som jag inte känner.
+= 우리 아버지. 맨 끝. 내가 모르는 변호사랑.
+ELSA: Hur känns det? Att se honom där?
+= 기분이 어때요? 거기 계신 걸 보는 게?
+JOHAN: Som att se mig själv om trettio år. Om jag hade stannat.
+= 30년 뒤의 나를 보는 것 같아. 내가 남았더라면.
+GUNNEL: Han ser liten ut. Jag trodde att han skulle se större ut.
+= 작아 보이네. 더 커 보일 줄 알았는데.
+BIGGAN: Alla ser små ut i en rättssal. Det är meningen.
+= 법정에선 누구나 작아 보여. 그게 원래 의도지.
+
+# 장면 2 — ÅTALET
+LOVISA: Rätten. Jag yrkar att Carl-Adam Rehnberg döms för grovt penningtvättsbrott och grovt bokföringsbrott.
+= 재판부. 칼아담 렌베리에 대해 중대 돈세탁 범죄 및 중대 회계 범죄로 처벌해 줄 것을 청구합니다.
+ELSA: Yrkar. Vad betyder det?
+= 청구한다. 그게 무슨 뜻이에요?
+JOHAN: Hon ber domstolen om något. Formellt. Det är åklagarens sätt att säga ”jag vill att”.
+= 법원에 뭔가를 요청하는 거야. 공식적으로. 검사가 ‘원한다’고 말하는 방식이지.
+LOVISA: Under åren 2015 till 2026 har Rehnberg, genom ett nätverk av bolag i Sverige, Cypern och Litauen, omsatt minst fyrahundra miljoner kronor med ursprung i brottslig verksamhet.
+= 2015년부터 2026년까지 렌베리는 스웨덴, 키프로스, 리투아니아의 회사 네트워크를 통해 범죄 활동에서 유래한 최소 4억 크로나를 유통시켰습니다.
+ANTON: Fyrahundra miljoner. Det är mer än vi trodde.
+= 4억. 우리가 생각한 것보다 많네.
+MAJA: Vi såg bara Vårberg. Det finns tjugo andra områden.
+= 우린 바르베리만 봤으니까. 다른 동네가 스무 군데 더 있어.
+LOVISA: Detta skedde bland annat genom fiktiva fakturor för renoveringar som aldrig utfördes, och genom koncerninterna lån med ränta som saknade affärsmässig grund.
+= 이는 특히 실행되지 않은 리노베이션에 대한 허위 청구서와, 사업적 근거가 없는 이자의 그룹 내부 대출을 통해 이뤄졌습니다.
+GUNNEL: Det är vi. Det är Vårberg. Hon säger det i en domstol.
+= 그게 우리야. 바르베리야. 저 사람이 그걸 법정에서 말하고 있어.
+ELSA: Hon säger det i passiv form. ”Detta skedde.”
+= 수동형으로 말하네요. ‘이는 이뤄졌습니다.’
+SANNA: I domstolen är passiv form okej. Det är innehållet som är aktivt.
+= 법정에선 수동형도 괜찮아요. 내용이 능동적이니까.
+WICKSELL: Och siffran är aktiv. Fyrahundra miljoner gör alltid något.
+= 그리고 숫자는 능동적이지. 4억은 언제나 뭔가를 하지.
+JOHAN: Nu frågar domaren de tilltalade. Om de erkänner eller förnekar.
+= 이제 판사가 피고인들한테 물어. 인정하는지 부인하는지.
+REHNBERG: Jag förnekar brott.
+= 범죄를 부인합니다.
+ELSA: Det var allt? Tre ord?
+= 그게 다예요? 세 마디?
+JOHAN: Det är allt som behövs. Resten säger hans advokat. I flera veckor.
+= 그거면 돼. 나머지는 변호사가 말하지. 몇 주 동안.
+ANTON: Bankcheferna förnekar också. Och Lundgren… han erkänner delvis. Bokföringsbrottet. Han säger att han blev pressad.
+= 은행 간부들도 부인하네. 그리고 룬드그렌은… 일부 인정해. 회계 범죄는. 압박을 받았다고 하네.
+OXENSTIERNA: Och fadern?
+= 그럼 아버지는?
+JOHAN: Pappa… pappa säger att han ”kommer att lämna sin redogörelse senare under förhandlingen”.
+= 아버지는… ‘공판 진행 중 나중에 진술하겠다’고 하시네.
+ELSA: Vad betyder det?
+= 그게 무슨 뜻이에요?
+JOHAN: Att han väntar. Han vill se vad de andra säger först. Det är… precis som han lärde mig.
+= 기다리겠다는 거야. 다른 사람들이 뭘 말하는지 먼저 보고 싶어 하셔. 그건… 딱 나한테 가르치신 대로야.
+OXENSTIERNA: Den som talar först förlorar.
+= 먼저 말하는 자가 진다.
+REHNBERG: …
+= ……
+GUNNEL: Rehnberg tittar hitåt. På oss.
+= 렌베리가 이쪽을 봐. 우리를.
+BIGGAN: Titta tillbaka, Gunnel. Titta inte bort.
+= 마주 봐, 군넬. 눈 돌리지 마.
+GUNNEL: Jag har tittat på chefer i trettio år. Han får vänta på att jag blinkar.
+= 30년 동안 사장들을 마주 봤어. 내가 눈 깜빡이길 기다려 보라지.
+
+# 절정 — LUNCH MED EN NÄMNDEMAN
+BIGGAN: Paus! Äntligen. Bullar. I korridoren.
+= 휴정! 드디어. 번. 복도에서.
+ELSA: Jag ställer mig i kön till kaféet. Jag vill ha något varmt.
+= 전 카페 줄에 설게요. 따뜻한 게 먹고 싶어요.
+GÖRAN: Ursäkta, står du i kön? Jag vill inte tränga mig före.
+= 실례지만, 줄 서신 거예요? 새치기하고 싶지 않아서요.
+ELSA: Ja. Men gå före ni, om ni har bråttom.
+= 네. 근데 바쁘시면 먼저 가세요.
+GÖRAN: ”Ni”! Det har jag inte hört sedan jag slutade undervisa. Var kommer du ifrån?
+= ‘니’라니! 가르치는 일 그만둔 뒤로 처음 듣네요. 어디서 왔어요?
+ELSA: Kiruna. Och ni? Vänta… ni satt längst fram. Ni är en av nämndemännen!
+= 키루나요. 그럼 그쪽은요? 잠깐… 맨 앞에 앉아 계셨죠. 시민 배심 판사 중 한 분이시네요!
+GÖRAN: Göran. Jag var lärare i svenska och historia i trettioåtta år. I Farsta. Men jag kan inte prata om målet med dig. Det förstår du.
+= 예란이에요. 38년 동안 스웨덴어랑 역사를 가르쳤어요. 파르스타에서. 근데 사건에 대해선 얘기할 수 없어요. 이해하죠.
+ELSA: Självklart. Jag… förlåt. Jag visste inte.
+= 물론이죠. 저… 죄송해요. 몰랐어요.
+GÖRAN: Du har inte gjort något fel. Men om vi pratar om målet, kan någon säga att jag är jävig. Då kanske hela rättegången måste börja om.
+= 잘못한 건 없어요. 근데 우리가 사건 얘기를 하면, 누군가 내가 이해충돌이 있다고 할 수 있어요. 그럼 재판 전체를 다시 시작해야 할지도 몰라요.
+ELSA: Jäv. Det ordet följer mig överallt.
+= 이해충돌. 그 단어가 어딜 가나 따라다니네요.
+GÖRAN: Vi kan prata om något annat. Vad gör du i Stockholm?
+= 다른 얘기는 할 수 있어요. 스톡홀름에서 뭐 해요?
+ELSA: Jag är praktikant. Jag översätter myndighetsbrev till klarspråk.
+= 인턴이에요. 관청 편지를 쉬운 말로 옮겨요.
+GÖRAN: Klarspråk! Det försökte jag lära mina elever i trettioåtta år. ”Skriv så att din mormor förstår.”
+= 쉬운 말! 38년 동안 학생들한테 가르치려고 했던 거네요. ‘할머니가 알아듣게 써라.’
+ELSA: Min mormor förstår meänkieli bäst.
+= 우리 할머니는 메앤키엘리를 제일 잘 알아들으세요.
+GÖRAN: Då skriv så att hon förstår även på svenska. Det är det svåraste.
+= 그럼 스웨덴어로도 알아들으시게 써요. 그게 제일 어려워요.
+ELSA: Får jag fråga en sak? Inte om målet. Varför blev ni nämndeman?
+= 하나 여쭤봐도 돼요? 사건 말고요. 왜 시민 배심 판사가 되셨어요?
+GÖRAN: För att jag lärde barn om demokrati i trettioåtta år. Sedan tänkte jag att jag borde göra det själv också. Inte bara prata om det.
+= 38년 동안 아이들한테 민주주의를 가르쳤으니까요. 그러고 나니 나도 직접 해 봐야겠다 싶었어요. 말로만 하지 말고.
+ELSA: Och är det svårt?
+= 그래서 어려워요?
+GÖRAN: Det är det svåraste jag har gjort. Svårare än att ha trettio tonåringar en fredag eftermiddag.
+= 내가 해 본 것 중에 제일 어려워요. 금요일 오후에 10대 서른 명을 맡는 것보다 어려워요.
+ELSA: Och vad gör ni när ni inte förstår något? Siffror, till exempel?
+= 그리고 뭔가 이해가 안 될 땐 어떻게 하세요? 예를 들어 숫자 같은 거?
+GÖRAN: Jag frågar. Det har jag lärt mig av mina elever. Den som frågar dumma frågor är oftast den smartaste i rummet.
+= 물어봐요. 학생들한테서 배웠어요. 바보 같은 질문을 하는 사람이 대개 그 방에서 제일 똑똑해요.
+ELSA: Det har jag också lärt mig. I ett kafé.
+= 저도 그걸 배웠어요. 어느 카페에서.
+GÖRAN: Då är det ett bra kafé.
+= 그럼 좋은 카페네요.
+GÖRAN: Nu måste jag gå. Pausen är slut. Det var trevligt att prata om ingenting med dig.
+= 이제 가 봐야 해요. 휴정 끝이에요. 아무 얘기도 아닌 얘기를 해서 즐거웠어요.
+
+# 마무리 — DEBATTEN
+BIGGAN: Kvällen. Kaféet. Och två döda män som har bråkat i en timme.
+= 저녁. 카페. 그리고 한 시간째 싸우는 죽은 남자 둘.
+OXENSTIERNA: Jag säger bara att rättskipning kräver kunskap. En kansler väljer domare efter förstånd. Inte efter parti.
+= 난 그저 재판엔 지식이 필요하다는 걸 말하는 거네. 재상은 지혜를 보고 판사를 고르지. 정당을 보고 고르지 않고.
+WICKSELL: Och en kansler väljer domare som håller med kanslern. Det är problemet med förstånd. Det brukar se ut som ens eget.
+= 그리고 재상은 재상과 의견이 같은 판사를 고르지. 그게 지혜의 문제네. 대개 자기 지혜처럼 보이거든.
+OXENSTIERNA: Hellre en klok domare som håller med mig än tre amatörer som inte förstår någonting.
+= 아무것도 이해 못 하는 아마추어 셋보다는 나와 의견이 같은 현명한 판사 하나가 낫지.
+WICKSELL: De tre amatörerna är folket. Utan folket är domstolen bara statens röst. Med folket är den samhällets.
+= 그 아마추어 셋이 백성이네. 백성이 없으면 법원은 그저 국가의 목소리일 뿐이지. 백성이 있으면 사회의 목소리가 되고.
+ELSA: Jag träffade en av dem i dag. Göran. Han var lärare. Han sa att han frågar när han inte förstår.
+= 오늘 그중 한 분을 만났어요. 예란 씨. 교사셨대요. 이해가 안 되면 물어본대요.
+OXENSTIERNA: Du pratade med en domare? Under rättegången?
+= 재판 중에 판사랑 얘기를 했다고?
+ELSA: Inte om målet! Om klarspråk. Och om demokrati. Han sa att han inte fick prata om målet.
+= 사건 얘기는 안 했어요! 쉬운 말에 대해서요. 그리고 민주주의에 대해서. 사건 얘기는 하면 안 된다고 하셨어요.
+JOHAN: Bra. Det var rätt av honom. Och av dig.
+= 좋아. 그분이 옳게 하셨네. 너도.
+WICKSELL: Där har du det, Axel. En pensionerad lärare som vet var gränsen går. Bättre än många jurister på Strandvägen.
+= 봤지, 악셀. 선이 어디인지 아는 퇴직 교사. 스트란드베겐의 웬만한 법률가들보다 낫네.
+OXENSTIERNA: …Ett argument. Inte ett bevis.
+= …논거군. 증거는 아니고.
+WICKSELL: I demokrati räcker ofta ett bra argument.
+= 민주주의에선 좋은 논거면 충분할 때가 많지.
+OXENSTIERNA: Det är det som skrämmer mig med demokrati.
+= 그게 민주주의에서 날 겁나게 하는 거네.
+MAJA: Och mig skrämmer det att jag ska förklara koncerninterna lån för en svensklärare om två veckor.
+= 그리고 난 2주 뒤에 스웨덴어 선생님한테 그룹 내부 대출을 설명해야 한다는 게 무서워.
+ANTON: Förklara det som du gjorde för Elsa. Mamman lånar ut till barnen. Och tar nio procent.
+= 엘사한테 했던 것처럼 설명해. 엄마가 아이들한테 빌려주고. 9퍼센트를 받는다.
+ELSA: Göran kommer att förstå. Han förstår mormödrar.
+= 예란 씨는 이해할 거예요. 할머니들을 이해하시니까.
+BIGGAN: Och vem är först som vittne?
+= 그럼 증인은 누가 먼저야?
+JOHAN: Ingrid. Om en vecka.
+= 잉리드. 일주일 뒤.
+NEXT: 4부 4화 — «Vittnet»(증인) — Ingrid가 증인석에 선다. 피고 측 변호인의 반대신문이 그녀의 해고 경위와 ‘불충’이라는 낙인을 파고든다.
