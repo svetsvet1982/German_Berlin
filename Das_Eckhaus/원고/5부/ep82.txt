@@ -1,0 +1,156 @@
+#nr: 82
+#part: 5부 Neuer Frühling (이듬해 봄)
+#title: Hochzeit am Kanal
+#ko: 운하 위의 결혼식 · 노이쾰른 구청, 다리 아래의 합창
+#level: B2~C1
+#setting: 4월 27일 화요일. 토요일 임시 총회에서 지붕 태양광이 31 대 2로 통과됐다. 일요일에 슐체 부인은 뇔트너 광장에서 내렸다. 그리고 화요일 아침 일곱 시, 곁채 2층 미리암과 코피의 발코니에 이사회의 결혼 선물인 발코니 발전기가 달린다. 열한 시 노이쾰른 구청 혼인 신고소. 증인은 미리암의 언니 한나와 에디트. 오후에는 마이바흐 강변에서 빌린 작은 배로 란트베어 운하를 따라 피로연. 저녁에는 크나이페. 표현 초점: 결혼 어휘(Standesamt, Trauzeuge, Ringtausch, Jawort), 축사와 건배, 축하와 축복 표현, 감동 표현.
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Herr Pietsch | 귄터 피치 · 71세
+#cast: Miriam | 미리암 슈타인 · 33세, 초등학교 음악 교사
+#cast: Kofi | 코피 멘사 · 35세, 구급대원
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Edith | 에디트 크뤼거 · 84세, 코피의 증인
+#cast: Hanna | 한나 슈타인 · 37세, 미리암의 언니, 미리암의 증인
+#cast: Standesbeamtin | 노이쾰른 구청 혼인 담당 공무원 · 50대
+#cast: Kwame | 크와메 멘사 · 63세, 코피의 아버지, 함부르크
+#cast: Ruth | 루트 슈타인 · 64세, 미리암의 어머니, 카셀
+#cast: Jana | 야나 코발스키 · 34세
+#cast: Derya | 데르야 이을드즈 · 40세
+#cast: Can | 잔 이을드즈 · 10세
+#read: 혼인 선언: „Ja, ich will." — 짧고 분명하게. 담당 공무원의 질문은 격식 있게, 길게 이어지다가 마지막 동사에서 멈춘다: „… so antworten Sie mit Ja."
+#read: 축사: „Liebe Miriam, lieber Kofi, liebe Familien, liebe Gäste!" — 호칭을 하나씩 부르며 잠깐씩 쉰다. 건배는 „Auf das Brautpaar!" 다 같이 잔을 든다.
+#read: Standesamt [ˈʃtandəsˌʔamt], Trauzeugin [ˈtʁaʊ̯ˌtsɔɪ̯ɡɪn], Brautpaar [ˈbʁaʊ̯tˌpaːɐ̯], Landwehrkanal [ˈlantveːɐ̯kaˌnaːl].
+#note: 독일 결혼식: 법적 혼인은 구청 혼인 신고소(Standesamt)에서만 성립한다. 교회 결혼식은 선택이다. 증인(Trauzeuge/Trauzeugin)은 1999년 이후 법적 필수가 아니지만 대부분 둔다. 성은 한쪽 성을 같이 쓰거나 각자 유지하거나, 이중 성(Doppelname)을 쓸 수 있다.
+#note: 결혼 축하 표현: Herzlichen Glückwunsch zur Hochzeit! / Alles Gute für eure gemeinsame Zukunft! / Ich wünsche euch viel Glück und alles Liebe. / Auf das Brautpaar! (신랑 신부를 위하여!) / Ein Hoch auf … ! / Mögt ihr … (…하기를, 축복의 접속법)
+#note: 발코니 발전기(Balkonkraftwerk): 2024년부터 세입자가 집주인에게 설치를 요구할 권리가 생겼고, 출력 한도는 800와트로 올랐다. 콘센트에 꽂기만 하면 되는 소형 태양광 장치다.
+#note: 란트베어 운하(Landwehrkanal): 크로이츠베르크와 노이쾰른 사이를 흐르는 운하. 마이바흐 강변(Maybachufer)에는 화요일과 금요일에 튀르키예 장터가 선다. 운하 위로는 낮은 다리가 많아 배가 지날 때 고개를 숙여야 한다.
+## Sieben Uhr, der Balkon | 일곱 시, 발코니
+Tobi: Halt die Leiter, Günter. Nicht loslassen. Ich habe mich heute rasiert. Für die Hochzeit. Ich will nicht mit Pflaster aufs Standesamt. || 사다리 잡아 줘, 귄터 아저씨. 놓지 마요. 나 오늘 면도했단 말이에요. 결혼식 때문에. 반창고 붙이고 구청 가긴 싫어요.
+Herr Pietsch: Ich halte. Ich halte seit dreißig Jahren Leitern in diesem Haus. Mach schnell. Die Braut schläft noch. Oder sie tut so. || 잡고 있어. 이 집에서 삼십 년째 사다리를 잡고 있어. 빨리 해. 신부는 아직 자. 아니면 자는 척하든가.
+Miriam: Sie tut nicht so. Sie steht hinter der Gardine. Im Bademantel. Und sieht zwei Männer auf ihrem Balkon. Am Hochzeitsmorgen. Das ist kein Traum, oder? || 척하는 거 아니에요. 커튼 뒤에 서 있어요. 목욕 가운 입고요. 그리고 결혼식 날 아침에 자기 발코니에 남자 둘이 있는 걸 보고 있죠. 꿈 아니죠?
+Tobi: Kein Traum. Ein Geschenk. Vom Vorstand. Einstimmig. Zwei Module. Achthundert Watt. Ihr müsst nur noch einstecken. Der Stecker ist euer Part. Das soll das Brautpaar machen. Zusammen. || 꿈 아니에요. 선물이에요. 이사회에서요. 만장일치로. 모듈 두 장. 팔백 와트. 꽂기만 하면 돼요. 플러그는 두 사람 몫이에요. 신랑 신부가 해야 돼요. 같이요.
+Kofi: Zusammen einstecken. Das ist das romantischste Elektrogerät, das ich je gesehen habe. Miriam. Komm raus. In deinem Bademantel. Das Haus hat uns die Sonne geschenkt. || 같이 꽂으라니. 이렇게 낭만적인 전기 제품은 처음 봐. 미리암. 나와. 그 가운 입은 채로. 집이 우리한테 햇빛을 선물했어.
+Miriam: Eins, zwei, drei … Es leuchtet. Ein grünes Licht. Und da steht eine Zahl. Zwölf Watt. Nur zwölf? || 하나, 둘, 셋… 불 들어왔다. 초록 불이야. 그리고 숫자가 떠. 십이 와트. 겨우 십이?
+Herr Pietsch: Es ist sieben Uhr morgens. Die Sonne ist noch hinter der Nummer vierzehn. Um elf, wenn ihr Ja sagt, sind es fünfhundert. Ich habe es gerechnet. Mit Jannik. || 아침 일곱 시잖아요. 해가 아직 14번지 뒤에 있어요. 열한 시에 두 사람이 ‚예' 할 때쯤이면 오백 와트가 될 거예요. 계산했어요. 야니크랑.
+Kofi: Und wie war Samstag? Ich hatte Nachtdienst. Mein letzter vor der Hochzeit. Ich habe die Abstimmung verpasst. || 그런데 토요일은 어떻게 됐어요? 저 야간 근무였거든요. 결혼 전 마지막 근무요. 투표를 놓쳤어요.
+Tobi: Einunddreißig zu zwei. Für das Dach. Achtundzwanzig Kilowatt. Ab Juni. Hans Brandt hat auf dem Gerüst getanzt. Mit achtzig. Fast wäre er runtergefallen. Frau Schulze hat ihn am Gürtel festgehalten. || 31 대 2요. 지붕 찬성이요. 28킬로와트. 6월부터요. 한스 브란트 할아버지가 비계 위에서 춤을 췄어요. 여든에요. 하마터면 떨어질 뻔했어요. 슐체 할머니가 허리띠를 붙잡았고요.
+Frau Schulze: Ich habe ihn nicht festgehalten. Ich habe den Haftungsfall verhindert. Guten Morgen. Ich habe die Tür gehört. Und das grüne Licht gesehen. Von gegenüber. || 붙잡은 거 아니야. 배상 책임 사고를 막은 거지. 좋은 아침. 문소리 들었어. 그리고 초록 불도 봤고. 맞은편에서.
+Miriam: Frau Schulze! Wie war es? Am Sonntag? In Lichtenberg? Wir haben alle gewartet. Aber niemand wollte fragen. || 슐체 할머니! 어땠어요? 일요일에요? 리히텐베르크에서요? 우리 다 기다렸어요. 그런데 아무도 묻고 싶지 않았어요.
+Frau Schulze: Ich bin ausgestiegen. Am Nöldnerplatz. Renate stand am Bahnsteig. Mit Sandra. Sie hat die blaue Bluse sofort erkannt. Sie hat gesagt: Die ist dir zu eng geworden. Und dann haben wir drei Stunden Kaffee getrunken. Und nicht ein einziges Mal über Mamas Wohnung geredet. Erst ganz am Ende. Fünf Minuten. Das hat gereicht. || 내렸어. 뇔트너 광장에서. 레나테가 승강장에 서 있었어. 잔드라랑. 파란 블라우스를 바로 알아보더라. 그러더라. 너한테 작아졌네. 그러고는 세 시간 동안 커피를 마셨어. 엄마 집 얘기는 한 번도 안 했고. 맨 마지막에야. 오 분. 그걸로 충분했어.
+Kofi: Das freut mich. Ehrlich. Das ist das beste Hochzeitsgeschenk nach dem Kraftwerk. || 기뻐요. 진심으로요. 발전기 다음으로 최고의 결혼 선물이에요.
+Frau Schulze: Das ist kein Geschenk für euch. Das ist eine Information. Aber ihr dürft sie behalten. || 그건 너희한테 주는 선물이 아니야. 정보지. 그래도 가져도 돼.
+## Vor dem Rathaus | 구청 앞에서
+Kwame: Frau Stein. Wir haben uns zu Weihnachten nur über Video gesehen. Ich bin Kwame. Ich bin nervöser als mein Sohn. || 슈타인 여사님. 우리 성탄절에 영상으로만 봤죠. 크와메예요. 제가 아들보다 더 떨려요.
+Ruth: Ruth. Bitte. Wir werden jetzt ja verwandt. Ab elf Uhr. Kraft Gesetzes. Das hat mir Miriam beigebracht. Sie hat eine Nachbarin, die so redet. || 루트예요. 그렇게 불러 주세요. 이제 사돈이 되잖아요. 열한 시부터요. 법률에 의거하여. 미리암이 가르쳐 줬어요. 그렇게 말하는 이웃이 있대요.
+Frau Schulze: Das bin ich. Guten Tag. Ingrid Schulze. Ich rede nicht so. Ich rede korrekt. Das ist ein Unterschied. || 그게 나예요. 안녕하세요. 잉그리트 슐체예요. 나는 그렇게 말하지 않아요. 정확하게 말하는 거죠. 그건 달라요.
+Hanna: Mama, Herr Mensah, das ist das Haus. Also: die Leute aus dem Haus. Dreißig. Miri hat gesagt, sie lädt ein paar Nachbarn ein. Ein paar. || 엄마, 멘사 씨, 이분들이 그 집이에요. 그러니까, 그 집 사람들이요. 서른 명이요. 미리가 이웃 몇 명 초대한다고 했거든요. 몇 명.
+Kwame: Dreißig Nachbarn. Zum Standesamt. An einem Dienstag. In Hamburg kam zu meiner Hochzeit nicht einmal der Hausmeister. Und der war mein Cousin. || 이웃 서른 명이라니. 구청에. 화요일에. 함부르크에선 내 결혼식에 관리인도 안 왔어요. 그 사람이 내 사촌이었는데도요.
+Herr Pietsch: Ich bin der Hausmeister. Ehemalig. Ich bin da. Ich habe heute früh das Kraftwerk montiert. Ich bin also doppelt da. || 제가 관리인이에요. 전직이요. 왔어요. 오늘 아침엔 발전기도 달았고요. 그러니까 두 배로 온 거죠.
+Can: Herr Mensah. Für mein Archiv. Darf ich ein Foto machen? Von Ihnen und Frau Stein? Die zwei Familien. Vor der Tür. Bevor sie eine werden. || 멘사 할아버지. 제 기록 보관소용으로요. 사진 하나 찍어도 돼요? 할아버지랑 슈타인 할머니요. 두 가족이요. 문 앞에서요. 하나가 되기 전에요.
+Ruth: Ein Vorher-Foto. Wie bei der Renovierung. Gut, Can. Kwame, stellen Sie sich neben mich. Nein, näher. Wir sind ab elf verwandt. || 공사 전 사진 같은 거구나. 좋아, 잔. 크와메 씨, 내 옆에 서요. 아니, 더 가까이. 열한 시부터 사돈이잖아요.
+Kwame: Ab elf. Bis dahin halte ich noch Abstand. Aus Höflichkeit. Hamburger Höflichkeit. Die dauert genau bis elf. || 열한 시부터죠. 그때까진 거리를 둘게요. 예의상. 함부르크식 예의요. 딱 열한 시까지만 가는 거예요.
+## Standesamt Neukölln | 노이쾰른 혼인 신고소
+Hanna: Miri. Atme. Du bist ganz weiß. Du bist Musiklehrerin. Du stehst jeden Tag vor dreißig Kindern. Das hier sind nur dreißig Erwachsene. || 미리. 숨 쉬어. 너 얼굴이 하얘. 너 음악 선생님이잖아. 매일 애들 서른 명 앞에 서잖아. 여긴 그냥 어른 서른 명이야.
+Miriam: Kinder sind einfacher. Kinder sagen sofort, wenn es schlecht ist. Erwachsene lächeln. Und dann erzählen sie es zehn Jahre lang. || 애들이 더 쉬워. 애들은 별로면 바로 말해. 어른들은 웃지. 그러고는 십 년 동안 그 얘길 하고 다녀.
+Edith: Kofi, deine Krawatte. Komm her. So. Werner hat bei unserer Hochzeit auch eine schiefe getragen. Neunzehnhundertvierundsiebzig. Hier. Standesamt Neukölln. Dieselbe Treppe. Ich habe sie auf dem Weg gerade gezogen. Das ist Tradition. Jetzt. || 코피, 넥타이. 이리 와. 됐다. 베르너도 우리 결혼식 때 삐뚤어진 거 매고 왔어. 1974년. 바로 여기. 노이쾰른 구청. 같은 계단이야. 내가 가는 길에 바로잡아 줬지. 이제 그게 전통이야.
+Kofi: Danke, Edith. Danke, dass du meine Trauzeugin bist. Ich hätte meinen Kumpel aus Hamburg fragen können. Aber er ist in Litauen. Und du hast mir im April dein Bett gegeben. Drei Tage. Das ist mehr als ein Kumpel. || 고마워, 에디트. 내 증인이 되어 줘서. 함부르크 친구한테 부탁할 수도 있었어. 그런데 걔는 리투아니아에 있거든. 그리고 넌 4월에 나한테 네 침대를 내줬잖아. 사흘이나. 그건 친구 이상이야.
+Standesbeamtin: Guten Tag. Ich darf Sie alle herzlich begrüßen. Wir sind heute hier, um die Ehe zwischen Frau Miriam Stein und Herrn Kofi Mensah zu schließen. Die Trauzeuginnen bitte nach vorne. Frau Hanna Stein. Und Frau Edith Krüger. || 안녕하세요. 여러분 모두를 진심으로 환영합니다. 오늘 우리는 미리암 슈타인 씨와 코피 멘사 씨의 혼인을 성립시키기 위해 이 자리에 모였습니다. 증인분들은 앞으로 나와 주십시오. 한나 슈타인 씨. 그리고 에디트 크뤼거 씨.
+Edith: Hier. Ich bin hier. Ich gehe ohne Stock. Heute ausnahmsweise. || 여기요. 여기 있어요. 지팡이 없이 갈게요. 오늘만 예외로요.
+Standesbeamtin: Frau Stein, Herr Mensah. Sie haben sich gemeinsam entschieden, einen Weg zu gehen. In guten und in schweren Zeiten. Herr Mensah, Sie sind Rettungssanitäter. Sie wissen, wie schwer Zeiten werden können. Frau Stein, Sie sind Musiklehrerin. Sie wissen, dass man auch schwere Stücke zu zweit besser spielt. || 슈타인 씨, 멘사 씨. 두 분은 함께 한 길을 걷기로 결정하셨습니다. 좋은 때에도, 힘든 때에도. 멘사 씨, 당신은 구급대원입니다. 시간이 얼마나 힘들어질 수 있는지 아시겠지요. 슈타인 씨, 당신은 음악 교사입니다. 어려운 곡도 둘이 연주하면 더 낫다는 걸 아시겠지요.
+Ruth: Sie hat sich vorbereitet. Kwame. Sie hat sich wirklich vorbereitet. Das hat bei uns in Kassel keiner gemacht. Neunzehnhundertneunzig. Da hat der Beamte nur die Namen vorgelesen. || 준비를 해 왔네요. 크와메 씨. 정말로 준비를 했어요. 1990년 우리 카셀에선 아무도 그런 거 안 했는데. 그땐 공무원이 이름만 읽었어요.
+Kwame: Bei uns in Hamburg hat der Beamte meinen Namen dreimal falsch ausgesprochen. Neunzehnhundertneunzig auch. Diese hier hat „Mensah" richtig gesagt. Beim ersten Mal. Das merke ich mir. || 우리 함부르크에선 공무원이 내 이름을 세 번이나 틀리게 발음했어요. 그것도 1990년이었지. 이분은 ‚멘사'를 제대로 말했어요. 한 번에. 그건 기억해 둘게요.
+Standesbeamtin: Herr Kofi Mensah. Ich frage Sie: Wollen Sie mit der hier anwesenden Frau Miriam Stein die Ehe eingehen? Dann antworten Sie mit Ja. || 코피 멘사 씨. 묻겠습니다. 여기 있는 미리암 슈타인 씨와 혼인하기를 원하십니까? 그렇다면 ‚예'라고 대답해 주십시오.
+Kofi: Ja. Ich will. Ja. || 예. 원합니다. 예.
+Standesbeamtin: Frau Miriam Stein. Wollen Sie mit dem hier anwesenden Herrn Kofi Mensah die Ehe eingehen? Dann antworten Sie mit Ja. || 미리암 슈타인 씨. 여기 있는 코피 멘사 씨와 혼인하기를 원하십니까? 그렇다면 ‚예'라고 대답해 주십시오.
+Miriam: Ja. … Ja, ich will. Entschuldigung. Das erste Ja war zu leise. Das zweite ist fürs Protokoll. || 예. …예, 원합니다. 죄송해요. 첫 번째 ‚예'가 너무 작았어요. 두 번째는 기록용이에요.
+Frau Schulze: Fürs Protokoll. Sie hat von mir gelernt. || 기록용이래. 나한테 배웠네.
+Standesbeamtin: Dann tauschen Sie jetzt bitte die Ringe. || 그럼 이제 반지를 교환해 주십시오.
+Kofi: Der Ring. Wo ist … Can? Can, du hast die Ringe. || 반지. 어디… 잔? 잔, 네가 반지 갖고 있잖아.
+Can: Hier. In meiner Archivschachtel. Mit Etikett. „Ringe, Mensah-Stein, siebenundzwanzigster April. Nicht verlieren." Ich habe sie nicht verloren. || 여기요. 제 기록 보관 상자에요. 라벨도 붙였어요. „반지, 멘사-슈타인, 4월 27일. 잃어버리지 말 것." 안 잃어버렸어요.
+Standesbeamtin: Hiermit erkläre ich Sie kraft Gesetzes zu rechtmäßig verbundenen Eheleuten. Sie dürfen sich jetzt küssen. Und ich darf Ihnen herzlich gratulieren. || 이로써 법률에 의거하여 두 분이 법적으로 맺어진 부부임을 선언합니다. 이제 입맞춤하셔도 됩니다. 그리고 진심으로 축하드립니다.
+Hanna: Und jetzt unterschreiben. Erst das Brautpaar. Dann wir. Edith, du zuerst. Du bist die Ältere. || 이제 서명해. 먼저 신랑 신부. 그다음 우리. 에디트, 먼저 하세요. 연장자시잖아요.
+Edith: „Edith Krüger." In meiner besten Schrift. Wie auf meinem ersten BVG-Ausweis. Neunzehnhundertzweiundsiebzig. || „에디트 크뤼거." 제일 예쁜 글씨로. 내 첫 BVG 사원증에 썼던 것처럼. 1972년에.
+## Maybachufer, Einsteigen | 마이바흐 강변, 승선
+Jana: Der Markt ist heute. Dienstag. Das Boot liegt direkt hinter den Ständen. Wir müssen durch den Markt. Mit Brautkleid. || 오늘 장 서는 날이에요. 화요일이잖아요. 배가 노점 바로 뒤에 대 있어요. 장터를 지나가야 돼요. 웨딩드레스 입고요.
+Miriam: Das ist kein Brautkleid. Das ist ein blaues Kleid. Von Ayşe genäht. Aus demselben Stoff wie Ediths Gardinen. Ich wollte etwas aus dem Haus tragen. || 웨딩드레스 아니야. 파란 원피스야. 아이셰 아주머니가 지어 주셨어. 에디트 커튼이랑 같은 천으로. 집에서 나온 걸 입고 싶었거든.
+Edith: Darum hat es mir so bekannt ausgesehen. Ich dachte, ich habe es schon mal irgendwo gesehen. Am Fenster. || 그래서 그렇게 낯익어 보였구나. 어디서 본 것 같았어. 창가에서.
+Derya: Mama hat drei Meter übrig gehabt. Sie hat gesagt: Für eine Gardine zu wenig. Für eine Braut genau richtig. || 엄마가 3미터 남았었대요. 그러더라고요. 커튼 하기엔 모자라고. 신부한테는 딱 맞는다고.
+Kofi: Hier. Der Gemüsehändler. Er winkt. Er kennt mich. Ich habe ihn letzten Sommer mit Hitzschlag ins Krankenhaus gefahren. Er schenkt uns … Kirschen? Im April? || 여기. 채소 장수 아저씨. 손 흔드신다. 나 아시는 분이야. 작년 여름에 일사병 걸리셔서 내가 병원에 모셔다드렸거든. 우리한테… 체리를 주시네? 4월에?
+Jana: Aus der Türkei. Die ersten. Er sagt: Für das Brautpaar, damit die Ehe süß bleibt. Und ihr sollt ihm den Kern zurückgeben. Für Glück. Das sagt er jedenfalls. || 튀르키예산이에요. 첫물이래요. 결혼 생활이 달콤하게 이어지라고 신랑 신부한테 주는 거래요. 그리고 씨는 아저씨한테 돌려드려야 한대요. 행운을 위해서요. 아저씨 말로는 그렇대요.
+Hanna: Miri, du bekommst Brot, Oliven, Kirschen und einen Stoffrest. Auf zweihundert Metern. Das ist die beste Mitgift aller Zeiten. || 미리, 너 이백 미터 걷는 동안 빵이랑 올리브랑 체리랑 천 조각까지 받았어. 역사상 최고의 혼수다.
+Derya: Und Mama winkt. Da. Am Stand mit den Stoffen. Sie kommt nicht mit aufs Boot. Sie wird seekrank. Schon auf dem Wannsee. || 그리고 엄마가 손 흔들어요. 저기. 천 파는 노점에서요. 배엔 안 탄대요. 뱃멀미하시거든요. 반제 호수에서도요.
+Miriam: Dann winke ich zurück. Mit beiden Händen. Danke, Ayşe! Das Kleid sitzt perfekt! || 그럼 나도 손 흔들어야지. 두 손으로. 고마워요, 아이셰 아주머니! 원피스 딱 맞아요!
+## Auf dem Kanal | 운하 위에서
+Kalle: Leute. Das Boot heißt „Rixdorferin". Es gehört Uschi. Von der Skatrunde. Ihr Schwager hat einen Bootsführerschein. Achtundzwanzig Plätze. Wir sind einunddreißig. Drei müssen die Luft anhalten. || 여러분. 배 이름이 ‚릭스도르프 아가씨'야. 우시 거야. 스카트 모임의. 우시 형부가 소형 선박 면허가 있어. 스물여덟 자리. 우린 서른하나. 세 명은 숨 참아야 돼.
+Jana: Papa. Das ist nicht lustig. Das ist eine Ordnungswidrigkeit. Frau Schulze sitzt in der ersten Reihe. || 아빠. 그거 안 웃겨요. 그거 질서 위반이에요. 슐체 할머니가 맨 앞줄에 앉아 계세요.
+Frau Schulze: Ich habe nichts gehört. Ich bin seit Sonntag nachsichtiger. Aber nur auf dem Wasser. || 아무것도 못 들었어. 일요일 이후로 너그러워졌거든. 물 위에서만.
+Kwame: Darf ich etwas sagen? Jetzt? Bevor wir unter die nächste Brücke fahren? Ich habe es aufgeschrieben. Mein Sohn sagt, ich rede sonst zu lange. || 한마디 해도 될까요? 지금요? 다음 다리 밑으로 들어가기 전에요? 적어 왔어요. 우리 아들이 그러지 않으면 내가 너무 길게 말한대요.
+Kofi: Papa hat drei Seiten. Ich habe es gesehen. Bitte, Papa. Nur eine. || 아빠 세 장 써 왔어요. 제가 봤어요. 제발, 아빠. 한 장만요.
+Kwame: Liebe Miriam, lieber Kofi, liebe Familie Stein, liebe Nachbarn. Ich bin in Hamburg geboren. Neunzehnhundertvierundsechzig. Mein Vater kam aus Kumasi. Er hat am Hafen gearbeitet. Er hat immer gesagt: Ein Haus ist kein Haus, wenn die Nachbarn nicht zur Hochzeit kommen. Ich habe ihm nie geglaubt. In Hamburg kamen die Nachbarn nie. Heute sind einunddreißig Nachbarn auf einem Boot für achtundzwanzig. Mein Vater hatte recht. Er hat nur das falsche Haus gekannt. Kofi. Du hast das richtige gefunden. Auf das Brautpaar! || 사랑하는 미리암, 사랑하는 코피, 슈타인 가족 여러분, 이웃 여러분. 저는 함부르크에서 태어났습니다. 1964년에요. 제 아버지는 쿠마시에서 오셨죠. 항구에서 일하셨어요. 아버지는 늘 말씀하셨어요. 이웃이 결혼식에 오지 않으면 집은 집이 아니라고. 저는 한 번도 믿지 않았어요. 함부르크에선 이웃이 온 적이 없었거든요. 오늘은 스물여덟 명 타는 배에 이웃이 서른한 명이에요. 아버지가 옳았어요. 아버지는 그냥 엉뚱한 집을 알았던 거예요. 코피. 너는 제대로 된 집을 찾았구나. 신랑 신부를 위하여!
+Edith: Auf das Brautpaar! Und Kopf runter! Brücke! || 신랑 신부를 위하여! 그리고 고개 숙여! 다리야!
+Ruth: Welche Brücke ist das? Die ist ja so niedrig, dass ich die Steine anfassen könnte. || 이건 무슨 다리예요? 너무 낮아서 돌을 만질 수 있겠어요.
+Edith: Die Admiralbrücke. Da sitzen im Sommer abends dreihundert junge Leute mit Bier. Und singen. Und die Anwohner schreiben Beschwerden. Ingrid kennt die Beschwerden. || 아드미랄 다리예요. 여름 저녁이면 젊은이 삼백 명이 맥주 들고 앉아 있어요. 노래도 부르고요. 그러면 주민들이 항의 편지를 쓰죠. 잉그리트가 그 항의 편지들을 알아요.
+Frau Schulze: Ich habe nie über die Admiralbrücke geschrieben. Die ist in Kreuzberg. Nicht mein Bezirk. Ich beschwere mich nur zuständig. || 아드미랄 다리에 대해선 한 번도 안 썼어. 그건 크로이츠베르크야. 내 구가 아니야. 나는 관할 안에서만 항의해.
+Ruth: Darf ich auch etwas sagen? Ich habe nichts aufgeschrieben. Liebe Miriam. Als du sieben warst, hast du gesagt, du heiratest nie. Weil man dann nur noch Wäsche macht. Ich habe dich nicht korrigiert. Kofi, du machst bitte die Hälfte der Wäsche. Damit meine Tochter nicht recht behält. || 나도 한마디 해도 될까요? 나는 아무것도 안 적어 왔어요. 사랑하는 미리암. 일곱 살 때 너는 절대 결혼 안 한다고 했지. 결혼하면 빨래만 하게 된다고. 나는 바로잡아 주지 않았어. 코피, 빨래 반은 꼭 해 주게. 우리 딸 말이 맞아 버리지 않도록.
+Kofi: Mehr als die Hälfte. Ich wasche nachts. Nach dem Dienst. Dann ist die Maschine morgens fertig. || 반 넘게 할게요. 저는 밤에 빨래해요. 근무 끝나고요. 그러면 아침에 세탁기가 끝나 있죠.
+Miriam: Das stimmt. Er wäscht um sieben Uhr morgens. Frau Schulze hat sich zweimal beschwert. || 그건 맞아요. 이 사람 아침 일곱 시에 빨래해요. 슐체 할머니가 두 번이나 항의하셨어요.
+Frau Schulze: Dreimal. Aber das dritte Mal habe ich zurückgenommen. Als ich wusste, warum. || 세 번이야. 그래도 세 번째는 취소했어. 이유를 알고 나서.
+## Unter der Brücke: ein Lied | 다리 아래: 노래 한 곡
+Can: Miriam! Guck nach oben! Auf der Brücke! Das ist deine Klasse! Die Vier b! || 미리암 선생님! 위를 보세요! 다리 위에요! 선생님 반이에요! 4학년 B반이요!
+Miriam: Was … Das sind … das sind meine Kinder! Was macht ihr hier? Es ist Dienstag! Ihr habt Mathe! || 뭐… 저건… 우리 반 애들이잖아! 너희 여기서 뭐 해? 화요일이잖아! 수학 시간이잖아!
+Hanna: Die Schulleiterin hat es erlaubt. Als Ausflug. Thema: Wasser und Brücken in Neukölln. Sachkunde. Ich habe es organisiert. Mit Can. Und mit deiner Kollegin. Sie wusste seit drei Wochen Bescheid. || 교장 선생님이 허락하셨어. 현장 학습으로. 주제는 노이쾰른의 물과 다리. 사회 과목. 내가 준비했어. 잔이랑. 그리고 네 동료 선생님이랑. 그 선생님은 삼 주 전부터 알고 있었어.
+Can: Ich habe den Kindern gesagt, wann das Boot kommt. Ich habe die Zeit mit Frau Schulzes Uhr gerechnet. Atomuhr. Vierzehn Uhr zwölf. Sie sind pünktlich. || 제가 애들한테 배가 언제 오는지 알려 줬어요. 슐체 할머니 시계로 시간을 계산했어요. 원자시계로요. 열네 시 십이 분. 애들이 딱 맞춰 왔어요.
+Miriam: Sie singen. Sie singen das Lied. Das, was wir im Winter geübt haben. Für das Konzert. „Der Mond ist aufgegangen". Mitten am Tag. Bei Sonne. || 노래한다. 그 노래를 불러. 우리가 겨울에 연습했던 거. 연주회용으로. „달이 떠올랐네". 한낮에. 햇빛 아래서.
+Kofi: Sie singen falsch. Die zweite Stimme ist zu hoch. Und es ist das Schönste, was ich je gehört habe. Miriam. Du weinst. || 음정 틀린다. 둘째 성부가 너무 높아. 그리고 내가 들어 본 것 중에 제일 아름다워. 미리암. 너 울고 있어.
+Miriam: Natürlich weine ich. Ich bin ihre Lehrerin. Und sie singen falsch. Und ich habe es ihnen beigebracht. Beides. || 당연히 울지. 내가 담임인데. 그리고 애들이 음정이 틀려. 그리고 그걸 내가 가르쳤어. 둘 다.
+Edith: „Der Mond ist aufgegangen, die goldnen Sternlein prangen …" Werner hat das jeden Abend gesungen. Für Gisela am Telefon. Und jetzt singen es Kinder. Auf einer Brücke. Für zwei Menschen, die sie lieben. || „달이 떠올랐네, 금빛 작은 별들이 반짝이네…" 베르너가 매일 저녁 그 노래를 불렀어. 전화로 기젤라에게. 그런데 이제 아이들이 부르네. 다리 위에서. 자기들이 사랑하는 두 사람을 위해서.
+Kalle: Kapitän! Langsamer! Ganz langsam! Wir wollen unter dieser Brücke bleiben, bis das Lied zu Ende ist! || 선장님! 천천히! 아주 천천히! 노래 끝날 때까지 이 다리 밑에 있고 싶어요!
+## Abends in der Ecke | 저녁의 크나이페
+Jana: Sekt für alle. Sekt. Sekt. Miriam, Sekt? || 다들 젝트요. 젝트. 젝트. 미리암, 젝트?
+Miriam: Nein, danke. Für mich Wasser. Mit Zitrone. Ich … ich habe Kopfschmerzen. Vom Weinen. || 아니, 괜찮아. 나는 물. 레몬 넣어서. 나… 머리가 좀 아파서. 울어서 그래.
+Derya: Kopfschmerzen. Vom Weinen. Auf der eigenen Hochzeit. Kein Sekt. Und heute auf dem Boot zweimal zur Toilette. Bei achtundzwanzig Plätzen. Ich bin Krankenschwester, Miriam. Seit achtzehn Jahren. || 머리가 아프다. 울어서. 자기 결혼식에서. 젝트는 안 마시고. 그리고 오늘 배에서 화장실을 두 번이나. 스물여덟 자리 배에서. 나 간호사야, 미리암. 십팔 년째.
+Miriam: Derya. Bitte. Nicht so laut. || 데르야. 제발. 그렇게 크게 말하지 마.
+Kofi: Zu spät. Kalle hat es gehört. Dann sagen wir es jetzt. Bevor es Kalle sagt. Miriam? || 늦었어. 칼레 아저씨가 들었어. 그럼 지금 말하자. 칼레 아저씨가 말하기 전에. 미리암?
+Miriam: Wir bekommen ein Kind. Im November. Zwölfte Woche. Wir wollten es erst nach der Hochzeit sagen. Jetzt ist es nach der Hochzeit. Seit elf Uhr zweiundzwanzig. || 우리 아기 생겨요. 11월에요. 12주예요. 결혼식 끝나고 말하려고 했어요. 지금이 결혼식 끝난 다음이죠. 열한 시 이십이 분부터.
+Ruth: Ein Kind. Ein Enkelkind. Miriam! Und du hast es mir nicht gesagt! Deiner Mutter! || 아기라니. 손주라니. 미리암! 그런데 나한테 말을 안 했어! 네 엄마한테!
+Hanna: Mir hat sie es gesagt. Vor drei Wochen. Ich musste schwören. Bei unserem Vater. Mama, ich habe es geschafft. Drei Wochen. Ich bin stolz auf mich. || 나한테는 말했어. 삼 주 전에. 맹세해야 했어. 아빠를 걸고. 엄마, 나 해냈어. 삼 주 동안. 나 자신이 자랑스러워.
+Kwame: Ein Enkelkind. In einem Haus, das den Nachbarn gehört. Mein Vater hätte getanzt. Kofi, dein Großvater hätte auf diesem Tisch getanzt. || 손주라. 이웃들이 주인인 집에서. 우리 아버지라면 춤을 췄을 거야. 코피, 네 할아버지라면 이 테이블 위에서 춤을 추셨을 거다.
+Kalle: Dann tanz du, Kwame. Auf dem Tisch. Der hält. Ich habe ihn zweitausendeins gekauft. Auf diesem Tisch hat schon Bine getanzt. Zweimal. Einmal mit Absicht. || 그럼 당신이 춰요, 크와메 씨. 테이블 위에서. 튼튼해요. 2001년에 산 거예요. 이 테이블 위에선 비네도 춤췄어요. 두 번이나. 한 번은 일부러.
+Frau Schulze: Moment. Ein Kind im November. Seitenflügel, erster Stock. Zwei Zimmer. Sechsundfünfzig Quadratmeter. Mit Kind sind das drei Personen. Ihr braucht bald drei Zimmer. Die Vergabekommission … || 잠깐. 11월에 아기라. 곁채 2층. 방 두 개. 오십육 제곱미터. 아기가 생기면 세 식구야. 곧 방 세 개가 필요하겠네. 배정 위원회가…
+Edith: Ingrid. Nicht heute. Heute ist eine Hochzeit. Keine Kommission. || 잉그리트. 오늘은 안 돼. 오늘은 결혼식이야. 위원회 말고.
+Frau Schulze: Du hast recht. Ich notiere es nur. Für Mai. Mit Bleistift. Der Bleistift kennt kein „hiermit". || 네 말이 맞아. 그냥 적어 두기만 할게. 5월용으로. 연필로. 연필은 „이에" 같은 거 모르니까.
+Edith: Kofi. Komm her. Ich bin deine Trauzeugin. Ich darf das. Darf ich eine Hand auf den Bauch legen? Nur kurz? Miriam? || 코피. 이리 와. 내가 네 증인이잖아. 그럴 자격 있어. 배에 손 좀 얹어도 될까? 잠깐만? 미리암?
+Miriam: Natürlich, Edith. Aber man spürt noch nichts. Es ist so klein wie eine Pflaume. || 당연하죠, 에디트. 그래도 아직 아무것도 안 느껴져요. 자두만 해요.
+Edith: Ich spüre etwas. Ich spüre, dass ich noch einmal ein Baby in diesem Haus erleben werde. Das letzte war Can. Zweitausendsechzehn. Ich habe ihn auf dem Hof im Kinderwagen geschoben. Und Derya hat geschlafen. Drei Stunden. || 나는 느껴져. 이 집에서 아기를 한 번 더 보게 된다는 게 느껴져. 마지막이 잔이었어. 2016년. 내가 안마당에서 유모차를 밀었지. 그리고 데르야는 잤어. 세 시간이나.
+Derya: Drei Stunden und zwanzig Minuten. Ich weiß es noch genau. Es war der beste Schlaf meines Lebens. Miriam, ich gebe dir Ediths Nummer. Für November. || 세 시간 이십 분이요. 아직도 정확히 기억해요. 제 인생 최고의 잠이었어요. 미리암, 에디트 번호 줄게. 11월을 위해서.
+Kalle: Ruhe! Eine Rede noch. Die letzte. Versprochen. Die Trauzeugin. Edith. Du hast heute noch nichts gesagt. Außer „Kopf runter". || 조용! 연설 하나만 더. 마지막이야. 약속해. 증인. 에디트. 너 오늘 아직 아무 말도 안 했잖아. „고개 숙여" 말고는.
+Edith: Ich wollte nichts sagen. Aber gut. Liebe Miriam, lieber Kofi. Ich war vierunddreißig Jahre verheiratet. Ich habe nur einen Rat. Einen einzigen. || 아무 말 안 하려고 했는데. 그래, 좋아. 사랑하는 미리암, 사랑하는 코피. 나는 삼십사 년을 결혼해서 살았어. 해 줄 조언은 하나뿐이야. 딱 하나.
+Kofi: Nur einen? Nach vierunddreißig Jahren? || 하나뿐이야? 삼십사 년 살고서?
+Edith: Mehr braucht man nicht. Werner und ich haben jeden Abend gefragt: Wie war dein Tag? Und dann haben wir zugehört. Bis zum Ende. Auch wenn der Tag langweilig war. Gerade dann. Dreißig Jahre langweilige Tage hören. Das ist Liebe. Der Rest ist Glück. || 그 이상은 필요 없어. 베르너랑 나는 매일 저녁 물었어. 오늘 하루 어땠어? 그리고 끝까지 들었지. 하루가 지루했어도. 오히려 그럴 때일수록. 삼십 년 동안 지루한 하루 이야기를 들어 주는 것. 그게 사랑이야. 나머지는 운이고.
+Miriam: Wie war dein Tag, Kofi? || 오늘 하루 어땠어, 코피?
+Kofi: Gar nicht langweilig. Leider. Ich erzähle es dir trotzdem. Bis zum Ende. Heute Nacht. Auf dem Balkon. || 하나도 안 지루했어. 아쉽게도. 그래도 얘기해 줄게. 끝까지. 오늘 밤에. 발코니에서.
+Ruth: Auf das Brautpaar. Und auf die Trauzeugin. Und auf die langweiligen Tage! || 신랑 신부를 위하여. 그리고 증인을 위하여. 그리고 지루한 날들을 위하여!
+## Nach Mitternacht hinter dem Tresen | 자정 넘어, 카운터 뒤에서
+Jana: Papa. Du spülst. Um halb eins. Du spülst nie nach Mitternacht. Das macht immer Bine. || 아빠. 설거지하시네요. 열두 시 반에. 아빠 자정 넘어선 절대 설거지 안 하잖아요. 그건 늘 비네 아줌마가 하는데.
+Kalle: Bine tanzt noch. Mit Kwame. Auf dem Tisch. Und ich spüle, weil ich nachdenken muss. Spülen ist mein Nachdenken. Seit zweitausendeins. || 비네는 아직 춤춰. 크와메 씨랑. 테이블 위에서. 그리고 나는 생각할 게 있어서 설거지하는 거야. 설거지가 내 생각하는 방식이야. 2001년부터.
+Jana: Worüber? || 무슨 생각이요?
+Kalle: Über den ersten Juni. In fünf Wochen. Dann bist du hier die Chefin. Und ich stehe auf der anderen Seite. Bei den Gästen. Ich habe heute Abend geübt. Ich habe mich zweimal auf einen Barhocker gesetzt. Es fühlt sich falsch an. Wie im Bus auf der Rückbank. || 6월 1일에 대해서. 오 주 남았어. 그러면 네가 여기 사장이야. 그리고 나는 반대편에 서 있겠지. 손님들 쪽에. 오늘 저녁에 연습해 봤어. 바 의자에 두 번 앉아 봤어. 어색하더라. 버스 맨 뒷자리에 앉은 것처럼.
+Jana: Papa. Du wirst nicht Gast. Du wirst … Stammgast. Mit eigenem Hocker. Mit Messingschild. Ich habe es schon bestellt. „Kalle. Seit 2001. Hat immer recht. Fast." || 아빠. 아빠는 손님이 되는 게 아니에요. …단골이 되는 거죠. 전용 의자 있는. 놋쇠 이름표 달린. 벌써 주문했어요. „칼레. 2001년부터. 늘 옳음. 거의."
+Kalle: „Fast." Das hast du von Ingrid. || „거의"라니. 그건 잉그리트한테 배웠구나.
+Jana: Das habe ich von Mama. Sie hat dir immer recht gegeben. Und dann „fast" gesagt. Leise. Wenn du schon weg warst. || 엄마한테 배운 거예요. 엄마는 늘 아빠 말이 맞다고 했죠. 그러고는 „거의"라고 했어요. 조용히. 아빠가 이미 가고 나서요.
+Kalle: … Das wusste ich nicht. Dreißig Jahre lang „fast". || …그건 몰랐네. 삼십 년 동안 „거의"였다니.
+Jana: Dreißig Jahre lang zugehört. Bis zum Ende. Wie Edith gesagt hat. Gib mir das Glas. Ich trockne ab. Ab jetzt trocknen wir zusammen ab. Bis zum ersten Juni. Und danach spülst du. Als Stammgast. Ausnahmsweise. || 삼십 년 동안 끝까지 들어 준 거예요. 에디트 할머니 말처럼요. 잔 이리 주세요. 제가 닦을게요. 이제부터 같이 닦아요. 6월 1일까지요. 그다음엔 아빠가 설거지해요. 단골로서요. 예외적으로요.
+Kalle: Als Stammgast spülen. Das gibt es nirgends in Berlin. || 단골이 설거지라니. 베를린 어디에도 그런 건 없다.
+Jana: Doch. Ab Juni. In der Ecke. Das wird die erste neue Regel. || 있어요. 6월부터요. 크나이페에서요. 그게 첫 번째 새 규칙이 될 거예요.
+## Nachts auf dem Balkon | 밤, 발코니에서
+Miriam: Kofi. Guck mal. Das Display. Es leuchtet noch. Im Dunkeln. || 코피. 이것 좀 봐. 화면. 아직 켜져 있어. 어둠 속에서.
+Kofi: Null Watt. Natürlich. Es ist Nacht. Aber da steht noch die Tageszahl. Zwei Komma acht Kilowattstunden. Heute. An unserem Hochzeitstag. || 영 와트. 당연하지. 밤이니까. 그래도 오늘 하루 숫자는 아직 떠 있어. 2.8킬로와트시. 오늘. 우리 결혼식 날.
+Miriam: Was kann man mit zwei Komma acht Kilowattstunden machen? || 2.8킬로와트시로 뭘 할 수 있어?
+Kofi: Jannik hat es mir aufgeschrieben. Für alle Fälle. Eine Waschmaschine laufen lassen. Um sieben Uhr morgens. Zweimal. Und Frau Schulze beschwert sich nicht. Weil die Sonne bezahlt hat. || 야니크가 적어 줬어. 혹시 몰라서. 세탁기 한 번 돌리기. 아침 일곱 시에. 두 번. 그리고 슐체 할머니는 항의 안 하셔. 햇빛이 냈으니까.
+Miriam: Herr Mensah. Sie sind ein Romantiker. || 멘사 씨. 당신은 낭만주의자군요.
+Kofi: Frau Stein. Oder Frau Mensah? Oder Frau Stein-Mensah? Wir haben es heute auf dem Formular angekreuzt. Und ich habe vergessen, was. || 슈타인 씨. 아니면 멘사 씨? 아니면 슈타인-멘사 씨? 오늘 서류에 체크했는데. 뭐에 했는지 까먹었어.
+Miriam: Jeder behält seinen. Stein und Mensah. Und das Kind bekommt … das entscheiden wir im November. Mit Frau Schulze. Und mit Can. Für das Archiv. || 각자 자기 걸 그대로 쓰기로 했어. 슈타인이랑 멘사. 그리고 아기는… 그건 11월에 정하자. 슐체 할머니랑. 그리고 잔이랑. 기록 보관소를 위해서.
+Kofi: Hörst du das? Unten. Im Hof. Jemand singt noch. || 들려? 아래. 안마당에서. 누가 아직 노래해.
+Miriam: Das ist Kalle. Und Kwame. „Der Mond ist aufgegangen." Auf Deutsch und … auf Twi? Dein Vater kann Twi? || 칼레 아저씨야. 그리고 크와메 아버님. „달이 떠올랐네." 독일어랑… 트위어로? 너희 아버지 트위어 하셔?
+Kofi: Drei Wörter. Von meinem Großvater. Er singt sie auf jede Melodie. Seit ich denken kann. Sie heißen: Danke. Für. Alles. || 세 단어. 우리 할아버지한테 배운 거. 무슨 멜로디든 그 세 단어를 붙여 부르셔. 내가 기억할 수 있을 때부터. 그 뜻이 뭐냐면. 고마워. 모든 것에. 다.
