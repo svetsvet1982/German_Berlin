@@ -1,0 +1,268 @@
+PART: 5
+EP: 2
+TITLE: Vem äger huset?
+SUBTITLE: 집은 누구의 것인가 · 집 2, 카페 Biggans
+META: 대사 120턴 · 난이도 B2 · 배경: 9월 넷째 주 월요일, 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: ULLA-BRITT | 5층 조합원 · 미망인 · 82세 (가상)
+CAST: STAFFAN | 주택조합 Skånegatan 이사장 (가상)
+CAST: MALIN | Söderbo Utveckling AB 사장 (가상)
+NOTE: ※ 주택조합도 매년 연간 보고서를 내야 하고, 조합원은 그것을 볼 권리가 있습니다. 큰 공사를 할 때 조합은 여러 업체의 견적을 비교하는 ‘입찰(upphandling)’을 하는 것이 일반적입니다. 견적이 하나뿐이라면 가격이 높을 수 있습니다. 스웨덴에는 오래전부터 협동조합(kooperation)의 전통이 있습니다. 소비자 협동조합, 주택 협동조합, 협동조합 은행까지. 여러 사람이 지분(andel, insats)을 내서 함께 무언가를 소유하는 ‘경제 협동조합(ekonomisk förening)’은 오늘날에도 마을 상점, 극장, 카페를 지키는 방법으로 쓰입니다. 문법 초점: 계산과 계획을 말하는 미래 표현(det kommer att kosta, vi ska ansöka, om vi får…så kan vi…). 표현 초점: köpa, förening, insats, lån, kalkyl.
+
+# 도입 — TVÅ KALKYLER
+MAJA: Två kalkyler. Jag har räknat i tio dagar.
+= 계산서 두 개. 열흘 동안 계산했어.
+ANTON: Och du har sovit?
+= 그리고 잠은 잤어?
+MAJA: Sju timmar per natt. Jag har räknat det också.
+= 하루 일곱 시간. 그것도 세었어.
+ANTON: Det stämmer. Det kommer inga sms klockan tre längre.
+= 맞아. 이제 새벽 세 시에 문자가 안 와.
+ELSA: Kalkyl ett?
+= 계산서 1은요?
+MAJA: Föreningens kalkyl. Stambytet kostar fjorton miljoner. Föreningen har tre. Lokalerna säljs för nio. Det fattas två. Avgiften höjs med tolv procent.
+= 조합의 계산. 배관 교체 1,400만. 조합엔 300만. 상가를 900만에 팔고. 200만이 모자라. 관리비 12퍼센트 인상.
+ULLA-BRITT: Tolv procent kan jag klara. Fyrtio kan jag inte.
+= 12퍼센트는 감당할 수 있어. 40은 못 하고.
+MAJA: Och kalkyl två. Vår kalkyl.
+= 그리고 계산서 2. 우리 계산.
+WICKSELL: Den intressanta.
+= 흥미로운 쪽이군.
+MAJA: Samma sak. Men lokalerna säljs till en ekonomisk förening. Som ägs av alla som vill att kaféet ska finnas kvar.
+= 같아요. 근데 상가를 경제 협동조합에 팔아요. 카페가 남기를 원하는 모든 사람이 소유한.
+ULLA-BRITT: Och avgiften?
+= 그럼 관리비는?
+MAJA: Samma. Tolv procent. Föreningen får nio miljoner i båda fallen. För huset spelar det ingen roll vem som köper.
+= 같아요. 12퍼센트. 조합은 어느 경우든 900만을 받아요. 건물 입장에선 누가 사든 상관없어요.
+ULLA-BRITT: Så jag behöver inte välja mellan mitt hem och Birgittas kafé?
+= 그럼 내 집이랑 비르기타 카페 중에 고르지 않아도 되는 거야?
+MAJA: Nej. Om vi hittar nio miljoner.
+= 네. 우리가 900만을 찾으면요.
+ULLA-BRITT: Det är ett stort ”om”.
+= 그건 큰 ‘만약’이네.
+OXENSTIERNA: ”Om.” Det minsta ordet i språket, och det tyngsta. Strindberg sa det i Vårberg.
+= ‘만약.’ 언어에서 가장 작은 말이자, 가장 무거운 말. 스트린드베리가 바르베리에서 그렇게 말했지.
+BIGGAN: Och Strindberg har inte betalat för sina kaffe sedan november.
+= 그리고 스트린드베리는 11월부터 커피값을 안 냈어.
+JOHAN: Innan vi börjar samla pengar vill jag veta två saker. Vem är köparen. Och varför kostar stambytet fjorton miljoner.
+= 돈 모으기 전에 두 가지를 알고 싶어. 매수자가 누군지. 그리고 배관 교체가 왜 1,400만인지.
+INGRID: Jag tar köparen. Det är min natur.
+= 매수자는 내가 할게요. 그게 내 천성이라.
+MAJA: Och jag tar stambytet. Det är min.
+= 그리고 배관 교체는 내가 할게. 그게 내 천성이야.
+ELSA: Och jag?
+= 그럼 저는요?
+JOHAN: Du läser stadgarna igen. Hela. Vi behöver veta exakt vad stämman får bestämma.
+= 정관을 다시 읽어. 전부. 총회가 정확히 뭘 정할 수 있는지 알아야 해.
+ELSA: Fyrtiotvå sidor. På myndighetssvenska.
+= 마흔두 쪽. 관청 스웨덴어로.
+OXENSTIERNA: Jag hjälper dig. Jag har skrivit värre.
+= 내가 도와주지. 난 그보다 나쁜 것도 써 봤으니.
+ELSA: Ni skrev en regeringsform. Det här är bara stadgar.
+= 정부조직법을 쓰셨잖아요. 이건 그냥 정관이에요.
+
+# 장면 1 — SÖDERBO
+INGRID: Söderbo Utveckling AB. Bolagsverket. Bildat 2009. Styrelse: fem personer, alla med namn och adresser i Sverige.
+= 쇠데르보 개발 AB. 회사등기소. 2009년 설립. 이사회: 다섯 명, 전원 스웨덴 이름과 주소.
+ANTON: Inga sjuttiotvååringar från Eskilstuna?
+= 에스킬스투나의 일흔두 살은 없어?
+INGRID: Ingen Rolf. Ägare: en familj från Danderyd, sextio procent. Och en svensk pensionsfond, fyrtio.
+= 롤프 씨 없어요. 소유주: 단데뤼드의 한 가족, 60퍼센트. 그리고 스웨덴 연기금, 40.
+MAJA: En pensionsfond. Så våra pensioner äger en del av bolaget som vill ta Biggans kafé.
+= 연기금. 그럼 우리 연금이 비간 카페를 가져가려는 회사의 일부를 소유하는 거네.
+WICKSELL: Det är det moderna kapitalet. Ingen äger något. Alla äger lite av allt.
+= 그게 현대의 자본이지. 아무도 뭔가를 소유하지 않아. 모두가 모든 걸 조금씩 소유하지.
+INGRID: Årsredovisningarna är rena. Vinst varje år. Skatt betald i Sverige. Inga koncerninterna lån till öar.
+= 연간 보고서는 깨끗해요. 매년 이익. 세금은 스웨덴에 냈고. 섬으로 가는 그룹 내부 대출 없음.
+ELSA: Så de är… vanliga?
+= 그럼 그 사람들은… 평범해요?
+INGRID: De är vanliga. De köper lokaler, bygger om dem till lägenheter, säljer lägenheterna. Lagligt. Lönsamt. Och tråkigt.
+= 평범해요. 상가를 사서 아파트로 개조하고 그 아파트를 팔아요. 합법. 수익성 있음. 그리고 지루하죠.
+JOHAN: Det är det svåraste. Om de hade varit skurkar, hade vi kunnat bekämpa dem.
+= 그게 제일 어려워. 악당이었다면 맞서 싸울 수 있었을 텐데.
+OXENSTIERNA: Mot en ärlig fiende kan man bara konkurrera. Det är mycket svårare än att kriga.
+= 정직한 적과는 경쟁만 할 수 있지. 그건 전쟁보다 훨씬 어렵네.
+STAFFAN: Jag sa ju att jag hade kollat.
+= 확인했다고 했잖아요.
+INGRID: Du hade kollat, Staffan. Jag kollar alltid en gång till. Det är därför jag fick sparken en gång.
+= 확인했죠, 스타판. 난 늘 한 번 더 확인해요. 그래서 한 번 해고됐던 거고요.
+STAFFAN: Och därför litar alla på dig nu.
+= 그리고 그래서 지금 다들 당신을 믿죠.
+INGRID: Det tog sju år.
+= 7년 걸렸어요.
+BIGGAN: Och nu dricker hon gratis kaffe här. Det är också en lön.
+= 그리고 이제 여기서 공짜 커피를 마시지. 그것도 급여야.
+ELSA: Hur många lägenheter vill de bygga?
+= 아파트를 몇 채 지으려는 거예요?
+STAFFAN: Två. En i kaféet och en på kontoret. De säljer dem för sju miljoner styck.
+= 두 채요. 카페에 하나, 사무소에 하나. 한 채에 700만씩 팔 거래요.
+MAJA: Fjorton miljoner för något som de köper för nio. Fem miljoner i vinst. Minus ombyggnad.
+= 900에 산 걸로 1,400. 이익 500. 개조 비용 빼고.
+WICKSELL: En rimlig affär. Det gör mig ledsen att säga det.
+= 합리적인 거래로군. 그렇게 말하려니 슬프지만.
+BIGGAN: Två lägenheter. Där Leif bakade. Där Mira ritade sin varg. Där Ingrid ställde ner sin kartong.
+= 아파트 두 채. 레이프가 빵을 굽던 데. 미라가 늑대를 그린 데. 잉리드가 상자를 내려놓은 데.
+ULLA-BRITT: Där jag har druckit kaffe i trettiofem år.
+= 내가 35년 동안 커피를 마신 데.
+ELSA: Där jag skrev min första klarspråkstext.
+= 제가 첫 쉬운 말 글을 쓴 데.
+OXENSTIERNA: Där jag fick mitt första ”ni” på fyrahundra år.
+= 내가 400년 만에 처음으로 ‘니’ 소리를 들은 데.
+
+# 장면 2 — STAMBYTET
+MAJA: Och nu stambytet. Fjorton miljoner. Staffan, hur många offerter tog ni in?
+= 그리고 이제 배관 교체. 1,400만. 스타판, 견적은 몇 개 받았어요?
+STAFFAN: Offerter? En. Från bolaget som gjorde besiktningen.
+= 견적이요? 하나요. 점검을 했던 회사에서.
+MAJA: En offert. Från samma bolag som sa att det behövdes.
+= 견적 하나. 필요하다고 말한 바로 그 회사에서.
+ELSA: Är det fel?
+= 그게 잘못이에요?
+MAJA: Det är inte fel. Men det är dyrt. När man bara frågar en, sätter den sitt eget pris. Det vet alla som har köpt en bil.
+= 잘못은 아니야. 근데 비싸. 한 곳에만 물으면 그쪽이 자기 가격을 정하지. 차 사 본 사람은 다 알아.
+WICKSELL: En marknad med en enda säljare är ingen marknad. Det är en begäran.
+= 판매자가 하나뿐인 시장은 시장이 아니네. 요구지.
+JOHAN: Föreningen borde göra en upphandling. Be tre eller fyra bolag om pris.
+= 조합은 입찰을 해야 해. 서너 회사한테 가격을 물어보는 거야.
+STAFFAN: Vi hade inte tid. Rören läcker.
+= 시간이 없었어요. 배관이 새요.
+MAJA: Rören har läckt sedan 1990, Staffan. En månad till för tre offerter är inte för mycket.
+= 배관은 1990년부터 샜어요, 스타판. 견적 세 개 받으려고 한 달 더 쓰는 건 지나치지 않아요.
+STAFFAN: …Nej. Det är det inte.
+= …그렇네요. 지나치지 않네요.
+ANTON: Farid. Ring Farid. Han jobbar för ett bolag med kollektivavtal. Tove har tre till.
+= 파리드. 파리드한테 전화해. 단체협약 있는 회사에서 일하잖아. 토베한테 세 곳 더 있고.
+ELSA: Och Lundgren? Han är… nej. Han sitter i fängelse.
+= 그리고 룬드그렌은요? 그분은… 아니다. 감옥에 계시죠.
+BIGGAN: Åtta månader. Han kommer ut i maj. Jag ska skicka bullar.
+= 8개월. 5월에 나와. 번 보낼 거야.
+MAJA: Om vi får tre offerter till, gissar jag att priset blir runt elva miljoner. Kanske tio och en halv.
+= 견적을 세 개 더 받으면, 가격이 1,100만 정도 될 거라고 봐. 어쩌면 1,050만.
+STAFFAN: Elva? Då fattas det bara… ingenting. Om vi säljer lokalerna.
+= 1,100? 그럼 모자라는 게… 없네요. 상가를 팔면.
+MAJA: Och avgiften behöver kanske inte höjas alls.
+= 그리고 관리비를 아예 안 올려도 될지 몰라요.
+ULLA-BRITT: Inte alls? Det har aldrig hänt i det här huset.
+= 아예? 이 건물에선 그런 적이 한 번도 없었는데.
+OXENSTIERNA: Ett kafé som räddar sig självt genom att räkna en annan sak. Det är diplomati.
+= 다른 걸 계산해서 스스로를 구하는 카페라. 그게 외교지.
+ELSA: Jag har läst stadgarna. Paragraf trettiofyra igen. Och paragraf tjugoåtta. Stämman kan också besluta att ge medlemmarna förköpsrätt.
+= 정관 읽었어요. 34조 다시. 그리고 28조. 총회는 조합원들에게 우선 매수권을 주기로 결정할 수도 있대요.
+JOHAN: Förköpsrätt? Står det så?
+= 우선 매수권? 그렇게 적혀 있어?
+ELSA: Med myndighetssvenska. Men ja. ”Vid avyttring av lokal kan stämman besluta att medlem eller sammanslutning av medlemmar ska erbjudas att förvärva lokalen på samma villkor.”
+= 관청 스웨덴어로요. 근데 네. ‘상가 처분 시 총회는 조합원 또는 조합원 단체에게 같은 조건으로 상가를 취득할 기회를 제공하도록 결정할 수 있다.’
+JOHAN: ”På samma villkor.” Elsa. Det är det.
+= ‘같은 조건으로.’ 엘사. 그거야.
+ELSA: Sammanslutning av medlemmar. Det betyder… en grupp. En förening.
+= 조합원 단체. 그건… 그룹이라는 거죠. 협동조합.
+OXENSTIERNA: Hon hittade det. På sida trettioåtta. Jag läste bara till sida tolv.
+= 저 아이가 찾았네. 38쪽에서. 난 12쪽까지만 읽었는데.
+BIGGAN: Kanslern somnade, gumman. Jag såg det.
+= 재상은 잠들었어, 얘야. 내가 봤어.
+OXENSTIERNA: Jag mediterade.
+= 명상했소.
+
+# 절정 — MALIN
+BIGGAN: Det står en kvinna i dörren. Elegant. Hon ser ut som om hon äger något.
+= 문 앞에 여자 한 명이 서 있어. 세련됐네. 뭔가 소유한 사람처럼 보여.
+MALIN: Hej. Malin Ståhl. Vd för Söderbo. Staffan sa att ni ville prata. Jag tänkte att det var bättre att komma själv.
+= 안녕하세요. 말린 스톨. 쇠데르보 사장이에요. 스타판이 얘기하고 싶어 하신다고 해서요. 직접 오는 게 낫겠다고 생각했어요.
+JOHAN: Det var… oväntat. Tack.
+= 그건… 뜻밖이네요. 감사합니다.
+MALIN: Jag har läst om er. Hela sommaren. ”Ett antal enskilda personer på Södermalm.” Jag ville se hur ni ser ut.
+= 여러분에 대해 읽었어요. 여름 내내. ‘쇠데르말름의 몇몇 개인들.’ 어떻게 생겼는지 보고 싶었어요.
+ELSA: Vi ser ut så här. Med bullar.
+= 이렇게 생겼어요. 번이랑.
+MALIN: Får jag köpa en?
+= 하나 사도 될까요?
+BIGGAN: Du får köpa en. Med kontanter eller Swish?
+= 사도 되지. 현금이야 Swish야?
+MALIN: Kontanter. Jag har alltid en hundralapp. Min mamma lärde mig det.
+= 현금이요. 늘 100크로나 지폐를 갖고 다녀요. 엄마가 그렇게 가르쳤어요.
+BIGGAN: Då är du välkommen. Leif hade gillat dig.
+= 그럼 환영이야. 레이프가 좋아했겠네.
+MALIN: Jag ska vara ärlig. Vi vill köpa lokalerna. Det är bra lokaler. Ljusa. Med takhöjd. Det blir fina lägenheter.
+= 솔직하게 말할게요. 우린 상가를 사고 싶어요. 좋은 상가예요. 밝고. 층고도 높고. 좋은 아파트가 될 거예요.
+BIGGAN: Leif sa att bullar jäser bättre under högt tak.
+= 레이프는 천장이 높아야 번이 잘 부푼다고 했어.
+MAJA: Och vi vill köpa dem också. Genom en ekonomisk förening. För att kaféet ska vara kvar.
+= 그리고 우리도 사고 싶어요. 경제 협동조합을 통해서. 카페가 남도록.
+MALIN: Det har Staffan berättat. Har ni nio miljoner?
+= 스타판이 말해 줬어요. 900만 있어요?
+MAJA: Inte än.
+= 아직은요.
+MALIN: Då har ni ett problem. För om stämman säger att ni får köpa på samma villkor, och vi höjer vårt bud till tio miljoner… då är villkoren tio.
+= 그럼 문제가 있네요. 총회가 같은 조건으로 살 수 있다고 해도, 우리가 가격을 1,000만으로 올리면… 그럼 조건은 1,000이 되니까요.
+WICKSELL: Hon kan sin marknad.
+= 시장을 아는 사람이군.
+ELSA: Tänker ni höja?
+= 올리실 거예요?
+MALIN: Jag tänker inte göra något fult. Men jag har styrelse och ägare. En av dem är en pensionsfond. Den vill ha avkastning. För era pensioner.
+= 추한 짓은 안 할 거예요. 하지만 저한텐 이사회와 소유주가 있어요. 그중 하나는 연기금이고요. 수익을 원하죠. 여러분 연금을 위해서.
+ANTON: Så om vi kämpar för kaféet, kämpar vi mot våra egna pensioner.
+= 그럼 우리가 카페를 위해 싸우면, 우리 자신의 연금과 싸우는 거네.
+MALIN: Välkommen till det moderna Sverige. Det är sällan någon är skurk. Det är bara system.
+= 현대 스웨덴에 오신 걸 환영해요. 악당은 거의 없어요. 그냥 시스템이 있을 뿐이죠.
+OXENSTIERNA: Det sa en gammal kardinal också. Han var skurk.
+= 늙은 추기경 하나도 그렇게 말했지. 그자는 악당이었네.
+MALIN: Jag lovar att vi inte höjer budet före stämman. Det är det jag kan lova. Efter stämman är det marknaden.
+= 총회 전엔 가격을 안 올리겠다고 약속할게요. 그게 제가 약속할 수 있는 거예요. 총회 이후엔 시장이죠.
+JOHAN: Kan vi få det skriftligt?
+= 그거 서면으로 받을 수 있을까요?
+MALIN: Ni är verkligen som det står i tidningen. Ja. Ni får det skriftligt.
+= 정말 신문에 나온 그대로네요. 네. 서면으로 드릴게요.
+
+# 마무리 — EN EKONOMISK FÖRENING
+BIGGAN: Hon var… trevlig. Det gör det värre.
+= 그 사람… 괜찮더라. 그래서 더 나빠.
+ELSA: Hon betalade kontant. Och hon sa ”vi höjer inte före stämman”. Skriftligt.
+= 현금으로 냈어요. 그리고 ‘총회 전엔 안 올린다’고 했죠. 서면으로.
+INGRID: Det betyder att vi har till stämman. Den sjätte oktober. Sedan börjar budgivningen.
+= 그럼 우리한텐 총회까지 시간이 있다는 거예요. 10월 6일. 그다음엔 입찰 경쟁이 시작되고.
+WICKSELL: Räkna dagarna. Sexton.
+= 날짜를 세게. 16일.
+ELSA: Sexton. Igen.
+= 16. 또.
+MAJA: Okej. Plan. Vi bildar Ekonomiska föreningen Biggans. I dag. Med stadgar.
+= 좋아. 계획. 오늘 경제 협동조합 비간스를 만든다. 정관과 함께.
+ANTON: Hur mycket kostar en andel?
+= 지분 하나에 얼마야?
+MAJA: Femtusen kronor. Den som vill får köpa flera. Men varje medlem har bara en röst. Oavsett hur många andelar.
+= 5,000크로나. 원하는 사람은 여러 개 사도 돼. 하지만 조합원은 지분이 몇 개든 한 표만 가져.
+WICKSELL: En person, en röst. Inte en krona, en röst. Det är kooperationens hjärta.
+= 한 사람, 한 표. 1크로나에 한 표가 아니라. 그게 협동조합의 심장이지.
+ELSA: Som i riksdagen. Fast utan trehundrafyrtionio stolar.
+= 의회처럼요. 의자 349개는 없지만.
+JOHAN: Om tusen personer köper en andel, har vi fem miljoner. Resten blir ett lån. Hyran från kaféet och kontoret betalar lånet.
+= 천 명이 지분을 하나씩 사면 500만이야. 나머지는 대출. 카페랑 사무소 임대료가 대출을 갚고.
+ULLA-BRITT: Jag köper tre. För Göte. För mig. Och för Birgitta.
+= 난 세 개 살게. 예테를 위해. 나를 위해. 그리고 비르기타를 위해.
+BIGGAN: Ulla-Britt, du behöver inte.
+= 울라브리트, 안 그래도 돼.
+ULLA-BRITT: Jag har fått tillbaka hundraåttiosextusen från banken. Det var Ingrids förtjänst. Femton tusen kan jag ge till kaféet där jag fick dem tillbaka.
+= 은행에서 18만 6천을 돌려받았잖아. 잉리드 덕분이지. 그걸 돌려받은 카페에 1만 5천은 줄 수 있어.
+STAFFAN: Och jag köper två. Som jag sa.
+= 그리고 전 두 개 살게요. 말씀드린 대로.
+INGRID: Och jag köper en. Med min Systembolagslön. Det är de ärligaste pengarna jag har.
+= 그리고 난 하나 살게요. 시스템볼라겟 월급으로. 내가 가진 가장 정직한 돈이에요.
+OXENSTIERNA: Och kanslern? Får en död man köpa en andel?
+= 그럼 재상은? 죽은 사람도 지분을 살 수 있나?
+MAJA: Med vad? Silvermyntet från 1632?
+= 뭘로요? 1632년 은화로요?
+OXENSTIERNA: Det är värt mer än hela skulden. Det sa du själv i Vårberg.
+= 그게 빚 전체보다 가치 있다고 바르베리에서 당신이 직접 말했잖소.
+ELSA: Ett silvermynt, tre andelar från Ulla-Britt, två från Staffan. Och tolvhundra från mig.
+= 은화 하나, 울라브리트 할머니 지분 셋, 스타판 씨 둘. 그리고 제 1,200.
+MAJA: Det är början. Nu behöver vi tusen till.
+= 시작이야. 이제 천 명이 더 필요해.
+BIGGAN: Tusen personer. Jag har sålt bullar till fler än så.
+= 천 명. 그보다 많은 사람한테 번을 팔았어.
+NEXT: 5부 3화 — «Föreningen»(조합) — 10월 6일 임시 조합원 총회. 마흔네 세대가 한자리에 모인다. 관리비를 걱정하는 이웃, 아파트로 바꾸는 게 낫다는 이웃, 그리고 35년 동안 번을 먹어 온 이웃들.
