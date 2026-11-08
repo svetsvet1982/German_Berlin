@@ -1,0 +1,168 @@
+@part 1
+@ep 1
+@file Un_martedi_qualunque_al_Cantone
+@title Un martedì qualunque al Cantone
+@ko 평범한 화요일, 칸토네에서
+@where 테스타초, 바 «Il Cantone»
+@level A2~B1
+@setting 3월 중순 화요일 아침 7시~8시 반, 비아 델 칸토네 7번지 1층 바
+@cast FRANCO | 바 «Il Cantone» 주인, 61세
+@cast TIZIANA | 시간제 바리스타, 46세
+@cast SETTIMIO | 3층 최고참 세입자, 곧 83세
+@cast SIMONE | 1층 스쿠터·자전거 수리공, 31세
+@cast LOREDANA | 2층 이웃, 66세
+@note 로마 테스타초 지구, 비아 델 칸토네 7번지. 1층 모퉁이에는 프랑코가 서른 해 가까이 지켜 온 바 «Il Cantone»가 있고, 그 옆은 시모네의 수리점이다. 위층에는 오래된 세입자들이 산다. 아직 아무 일도 일어나지 않은, 아주 평범한 화요일 아침이다.
+
+# 장면 1 — ALLE SETTE
+> 셔터가 올라가는 소리 || 셔터가 올라가는 소리
+FRANCO: Eccoci. Sono le sette. Si apre. || 자, 일곱 시다. 문 열자.
+FRANCO: Allora, macchina accesa, luci accese... e la lavagna? || 자, 커피 머신 켰고, 불 켰고… 칠판은?
+TIZIANA: Buongiorno, Franco! Scusa, scusa, sono in ritardo. || 좋은 아침, 프랑코! 미안, 미안, 나 늦었지.
+FRANCO: Cinque minuti, Tiziana. Come sempre. || 5분이야, 티치아나. 늘 그렇듯.
+TIZIANA: Non è colpa mia. Il tram non passava. || 내 탓 아니야. 트램이 안 왔다니까.
+FRANCO: Il tram non passa mai quando servi tu, eh? || 트램은 꼭 네가 필요할 때만 안 오더라, 응?
+TIZIANA: Esatto. È un complotto. Dammi il grembiule. || 맞아. 음모야. 앞치마 줘.
+FRANCO: È lì, sulla sedia. I cornetti sono arrivati? || 저기 의자 위에 있어. 코르네토는 왔어?
+TIZIANA: Sì, la cassetta è fuori, davanti alla porta. || 응, 상자가 문 앞에 밖에 있어.
+FRANCO: Fuori? Mo' li porto dentro, prima che passa un gabbiano. || 밖에? 지금 들여놓을게, 갈매기가 지나가기 전에.
+TIZIANA: Quanti sono oggi? || 오늘은 몇 개야?
+FRANCO: Trenta normali, venti integrali, dieci alla crema. || 일반 서른 개, 통밀 스무 개, 크림 열 개.
+TIZIANA: E i maritozzi? || 마리토초는?
+FRANCO: Dodici. Il martedì ne vendiamo pochi. || 열두 개. 화요일엔 별로 안 팔려.
+TIZIANA: Allora scrivo sulla lavagna: «Oggi maritozzi con la panna». || 그럼 칠판에 쓸게. «오늘은 생크림 마리토초».
+FRANCO: Brava. E scrivi grande. La gente non porta gli occhiali. || 잘했어. 크게 써. 사람들이 안경을 안 쓰고 다녀서.
+TIZIANA: Va bene, capo. Fatto. || 알겠어요, 사장님. 됐어.
+FRANCO: Perfetto. La porto fuori. Uh, che freddo stamattina. || 완벽해. 밖에 내놓을게. 어, 오늘 아침 춥네.
+TIZIANA: Freddo? Ci sono dodici gradi, Franco. || 춥다고? 12도야, 프랑코.
+FRANCO: Per un romano dodici gradi sono il Polo Nord. || 로마 사람한테 12도면 북극이야.
+
+# 장면 2 — IL SOLITO
+SETTIMIO: Buongiorno, ragazzi. È aperto? || 좋은 아침이네, 젊은이들. 문 열었나?
+FRANCO: Per lei sempre, Sor Settimio. Entri, entri. || 영감님한텐 언제나 열려 있죠, 세티미오 영감님. 들어오세요, 들어오세요.
+SETTIMIO: Che ora è? Ho lasciato l'orologio sul comodino. || 몇 시인가? 시계를 침대 옆 탁자에 두고 왔어.
+TIZIANA: Sono le sette e dieci. || 일곱 시 십 분이에요.
+SETTIMIO: Le sette e dieci. Sono in ritardo pure io. || 일곱 시 십 분이라. 나도 늦었구먼.
+FRANCO: In ritardo per cosa? Lei è in pensione da vent'anni. || 뭐에 늦으셨는데요? 영감님은 은퇴하신 지 20년이잖아요.
+SETTIMIO: Ventidue. Ma il caffè delle sette è un appuntamento. || 22년이지. 그래도 일곱 시 커피는 약속이야.
+TIZIANA: Il solito, Sor Settimio? || 늘 드시던 걸로요, 세티미오 영감님?
+SETTIMIO: Il solito, cara. || 늘 먹던 걸로, 아가씨.
+TIZIANA: Un macchiato caldo e un cornetto integrale. || 뜨거운 마키아토 하나랑 통밀 코르네토 하나요.
+SETTIMIO: Brava. Hai una memoria di ferro. || 잘했어. 기억력이 강철이네.
+FRANCO: Il giornale è sul bancone, Sor Settimio. || 신문은 카운터 위에 있어요, 영감님.
+SETTIMIO: Grazie, Franco. Che dice oggi il giornale? || 고맙네, 프랑코. 오늘 신문엔 뭐라고 나왔나?
+FRANCO: Le solite cose. Prezzi che salgono, la Roma che perde. || 늘 똑같죠. 물가는 오르고, 로마는 지고.
+SETTIMIO: La Roma che perde non è una notizia. || 로마가 지는 건 뉴스도 아니지.
+FRANCO: Aò, non si dice! Non davanti a me. || 어이, 그런 말 하는 거 아니에요! 제 앞에선 안 돼요.
+SETTIMIO: Scherzo, scherzo. Io sono della Roma dal 1950. || 농담이야, 농담. 나는 1950년부터 로마 팬이야.
+TIZIANA: Ecco il macchiato. Attento, è caldo. || 마키아토 여기요. 조심하세요, 뜨거워요.
+SETTIMIO: Grazie, cara. Quanto ti devo? || 고맙네, 아가씨. 얼마 줘야 하지?
+TIZIANA: Due euro e venti. || 2유로 20센트요.
+SETTIMIO: Due e venti? Ieri era due euro. || 2유로 20? 어제는 2유로였는데.
+FRANCO: Ieri il cornetto era normale. Oggi è integrale. || 어제는 일반 코르네토였죠. 오늘은 통밀이에요.
+SETTIMIO: Ah, il cornetto integrale costa di più? || 아, 통밀 코르네토가 더 비싼가?
+FRANCO: Venti centesimi in più. La farina integrale costa. || 20센트 더요. 통밀가루가 비싸요.
+SETTIMIO: Tutto costa, figlio mio. Tutto. || 다 비싸지, 이 사람아. 전부 다.
+FRANCO: Lo dica a chi vende il caffè. Ogni mese un prezzo nuovo. || 그건 원두 파는 사람한테 말씀하세요. 달마다 새 가격이에요.
+
+# 장면 3 — IL MECCANICO
+SIMONE: Buongiorno a tutti! Franco, un caffè doppio, per favore. || 다들 좋은 아침! 프랑코, 더블 에스프레소 하나 부탁해요.
+FRANCO: Doppio? Già stanco alle sette e mezza? || 더블? 일곱 시 반에 벌써 피곤해?
+SIMONE: Stanchissimo. Stanotte ho dormito quattro ore. || 엄청 피곤해요. 어젯밤에 네 시간 잤어요.
+TIZIANA: Quattro ore? Perché? Una ragazza? || 네 시간? 왜? 여자?
+SIMONE: Magari! No, un motorino. Un cliente lo vuole per stamattina. || 그랬으면 좋겠네요! 아뇨, 스쿠터요. 손님이 오늘 아침에 달래요.
+FRANCO: E l'hai finito? || 그래서 다 고쳤어?
+SIMONE: Quasi. Manca solo un pezzo. Arriva alle nove. || 거의요. 부품 하나만 남았어요. 아홉 시에 와요.
+SETTIMIO: Buongiorno, Simone. Come va il lavoro? || 좋은 아침이네, 시모네. 일은 어떤가?
+SIMONE: Buongiorno, Sor Settimio. C'è tanto lavoro, ma pochi soldi. || 좋은 아침이에요, 영감님. 일은 많은데 돈은 적어요.
+SETTIMIO: Come tutti. Almeno tu lavori con le mani. || 다 그렇지. 그래도 자넨 손으로 일하잖나.
+SIMONE: Con le mani e con la schiena. La mia schiena ha ottant'anni. || 손이랑 허리로요. 제 허리는 여든 살이에요.
+SETTIMIO: Ottant'anni? Io ne faccio ottantatré il mese prossimo! || 여든? 난 다음 달에 여든셋이 되네!
+TIZIANA: Davvero? Quando è il compleanno? || 정말요? 생신이 언제예요?
+SETTIMIO: Il quattordici aprile. Ma non voglio feste. Al massimo una torta piccola. || 4월 14일. 그래도 잔치는 싫어. 기껏해야 작은 케이크 하나.
+SIMONE: Ecco i soldi, Franco. Uno e cinquanta per il doppio, giusto? || 돈 여기요, 프랑코. 더블은 1유로 50, 맞죠?
+FRANCO: Giusto. Lo scontrino lo vuoi? || 맞아. 영수증 줄까?
+SIMONE: No, grazie. Ho già un cassetto pieno di scontrini. || 아뇨, 됐어요. 서랍이 이미 영수증으로 꽉 찼어요.
+FRANCO: Lo devo fare comunque. È la legge. || 그래도 끊어야 돼. 법이야.
+SIMONE: Allora lo butto io. Così siamo tutti contenti. || 그럼 제가 버릴게요. 그럼 다 행복하죠.
+FRANCO: Senti, Simone, una cosa. I motorini sul marciapiede... || 저기, 시모네, 하나만. 인도에 세워 둔 스쿠터들 말인데…
+SIMONE: Lo so, lo so. Tre motorini. Li sposto dopo. || 알아요, 알아요. 스쿠터 세 대. 이따 옮길게요.
+FRANCO: Non per me. Per la signora Loredana. Lo sai com'è. || 나 때문이 아니야. 로레다나 부인 때문이지. 어떤 분인지 알잖아.
+SIMONE: Eh, lo so com'è. || 에휴, 어떤 분인지 알죠.
+
+# 장면 4 — LA SIGNORA DEL SECONDO PIANO
+LOREDANA: Buongiorno. || 안녕하세요.
+FRANCO: Signora Loredana! Buongiorno. Che piacere. || 로레다나 부인! 안녕하세요. 반갑습니다.
+LOREDANA: Il piacere è suo, signor Ceccarelli. Io sono arrabbiata. || 반가운 건 그쪽이죠, 체카렐리 씨. 저는 화가 났어요.
+FRANCO: Già alle otto meno un quarto? || 벌써요, 여덟 시 15분 전인데?
+LOREDANA: Alle otto meno un quarto c'è già un motorino davanti al portone. || 여덟 시 15분 전인데 벌써 현관 앞에 스쿠터가 있어요.
+SIMONE: Scusi, signora. È mio. Lo sposto subito. || 죄송합니다, 부인. 제 거예요. 바로 옮길게요.
+LOREDANA: Lei dice «subito» tutti i giorni, signor Marini. || 마리니 씨는 날마다 «바로»라고 하시죠.
+SIMONE: E tutti i giorni lo sposto, no? || 그리고 날마다 옮기잖아요, 안 그래요?
+LOREDANA: Dopo un'ora. Io con la spesa non passo. || 한 시간 뒤에요. 저는 장바구니 들고 못 지나가요.
+SIMONE: Ha ragione. Vado adesso. Ecco, vede? Vado. || 맞는 말씀이에요. 지금 갈게요. 보세요, 가잖아요.
+FRANCO: Signora, prende qualcosa? Offre la casa. || 부인, 뭐 좀 드실래요? 가게에서 대접할게요.
+LOREDANA: No, grazie, non offra. Io pago sempre. || 아뇨, 됐어요, 대접하지 마세요. 저는 늘 제 돈 내요.
+FRANCO: Come vuole. Cosa le preparo? || 원하시는 대로요. 뭘 준비해 드릴까요?
+LOREDANA: Un cappuccino senza schiuma. E poco caldo. || 거품 없는 카푸치노요. 너무 뜨겁지 않게.
+TIZIANA: Senza schiuma e tiepido. Subito, signora. || 거품 없이 미지근하게요. 바로 해 드릴게요, 부인.
+LOREDANA: Grazie, Tiziana. Lei almeno ascolta. || 고마워요, 티치아나. 당신은 그래도 말을 들어 주네요.
+SETTIMIO: Buongiorno, Loredana. Come sta il gatto? || 좋은 아침이오, 로레다나. 고양이는 어떤가?
+LOREDANA: Buongiorno, Settimio. Nerone sta benissimo. Mangia più di me. || 안녕하세요, 세티미오. 네로네는 아주 잘 지내요. 저보다 많이 먹어요.
+SETTIMIO: E i gatti della Piramide? Ci va ancora? || 피라미데 고양이들은? 아직도 가나?
+LOREDANA: Ogni mattina alle nove. Sono ventidue gatti. Qualcuno li deve aiutare. || 매일 아침 아홉 시에요. 스물두 마리예요. 누군가는 도와야죠.
+TIZIANA: Ecco il cappuccino, signora. Senza schiuma. || 카푸치노 여기요, 부인. 거품 없이요.
+LOREDANA: Mmm. Va bene. Quanto? || 음. 괜찮네요. 얼마예요?
+TIZIANA: Un euro e ottanta. || 1유로 80센트요.
+LOREDANA: Un euro e ottanta per un cappuccino senza schiuma? || 거품도 없는 카푸치노가 1유로 80?
+FRANCO: La schiuma è gratis, signora. Il latte no. || 거품은 공짜예요, 부인. 우유는 아니고요.
+LOREDANA: Lei è spiritoso, signor Ceccarelli. Troppo spiritoso. || 재치 있으시네요, 체카렐리 씨. 너무 재치 있으세요.
+FRANCO: Lo dicono tutti. || 다들 그렇게 말해요.
+LOREDANA: Arrivederci. E il motorino, signor Marini! || 안녕히 계세요. 그리고 스쿠터요, 마리니 씨!
+SIMONE: Già spostato, signora! Guardi! || 벌써 옮겼어요, 부인! 보세요!
+
+# 장면 5 — LE OTTO E MEZZA
+TIZIANA: Che mattina. Sono solo le otto e mezza. || 무슨 아침이 이래. 아직 여덟 시 반밖에 안 됐어.
+FRANCO: Questa è una mattina normale, Tiziana. Un martedì qualunque. || 이게 평범한 아침이야, 티치아나. 그냥 평범한 화요일.
+SETTIMIO: I martedì qualunque sono i migliori. Fidati di un vecchio. || 평범한 화요일이 제일 좋은 거야. 늙은이 말 믿게.
+FRANCO: Perché, Sor Settimio? || 왜요, 영감님?
+SETTIMIO: Perché quando non succede niente, va tutto bene. || 아무 일도 안 일어날 땐 다 괜찮은 거니까.
+TIZIANA: Che filosofo, stamattina. || 오늘 아침엔 철학자시네요.
+SETTIMIO: Alla mia età si diventa filosofi. O si diventa sordi. || 내 나이가 되면 철학자가 되거나 귀가 먹지.
+FRANCO: Lei è tutte e due, Sor Settimio. || 영감님은 둘 다세요.
+SETTIMIO: Come? Non ho sentito. || 뭐라고? 못 들었어.
+TIZIANA: Ecco, appunto! || 거 봐요, 바로 그거예요!
+SETTIMIO: Io vado, ragazzi. Grazie del caffè. A domani. || 난 가 보겠네. 젊은이들. 커피 고맙네. 내일 보세.
+TIZIANA: A domani, Sor Settimio. Stesso orario? || 내일 봬요, 영감님. 같은 시간에요?
+SETTIMIO: Stesso orario, stesso cornetto. Ma normale, eh. Costa di meno. || 같은 시간, 같은 코르네토. 근데 일반으로, 응. 더 싸니까.
+FRANCO: Ah, ecco! Ha vinto la crisi! || 아, 그거 봐! 경제 위기가 이겼네!
+SETTIMIO: La crisi vince sempre, Franco. Ma noi siamo ancora qua. || 위기는 늘 이기지, 프랑코. 그래도 우린 아직 여기 있잖나.
+FRANCO: Siamo ancora qua. Sempre al Cantone. || 아직 여기 있죠. 언제나 칸토네에.
+TIZIANA: Franco, il prossimo cliente. Due turisti. || 프랑코, 다음 손님. 관광객 두 명이야.
+FRANCO: Turisti a Testaccio alle otto e mezza? Che strano. || 여덟 시 반에 테스타초에 관광객? 이상하네.
+TIZIANA: Non è più strano, Franco. Ce ne sono sempre di più. || 이제 안 이상해, 프랑코. 갈수록 많아져.
+FRANCO: Va bene. Good morning! Due cappuccini? Lo so, lo so. Alle otto e mezza tutti vogliono il cappuccino. || 알았어. 굿모닝! 카푸치노 두 잔이요? 알아요, 알아요. 여덟 시 반엔 다들 카푸치노지.
+TIZIANA: Un martedì qualunque, eh? || 평범한 화요일이라며, 응?
+FRANCO: Un martedì qualunque. Daje, si lavora. || 평범한 화요일이지. 자, 일하자.
+
+@points
+- 이중자음(doppie)을 분명히 길게: caffè, cornetto, latte, ritardo, mattina, cassetta, freddo. 'caffè'는 [kafˈfɛ]로 f를 두 박자 끈다.
+- 통사적 중복: 'a domani'[addoˈmaːni], 'è caldo'[ɛkˈkaldo], 'più grande'[pjuɡˈɡrande], 'già spostato'처럼 앞 단어가 강세 모음으로 끝나면 다음 자음이 겹친다. 로마 사람에게 아주 강하게 나타난다.
+- c/g의 소리: cornetto·caldo[k] ↔ cappuccino·centesimi·cinquanta[tʃ], gatto·grande[g] ↔ giornale·già·giusto[dʒ].
+- 'gli'와 'gn': gli occhiali, figlio mio, signora, Ceccarelli와 대비. 'gl'은 혀 전체를 입천장에 붙여 부드럽게.
+- 시간 묻고 답하기의 억양: «Che ora è?» 내림조, «Sono le sette e dieci.» 평서 / «È aperto?»는 문장 끝을 올린다. 이탈리아어 예/아니오 의문문은 어순이 같아 억양만으로 구별된다.
+- 'Il solito, cara.'처럼 짧은 주문은 첫 강세에 힘을 주고 끝을 가볍게 떨어뜨린다.
+- Lei와 tu 구별: 프랑코는 세티미오·로레다나에게 Lei(«Entri», «Cosa le preparo?»), 티치아나·시모네에겐 tu(«Dammi», «L'hai finito?»).
+- 숫자와 가격: due euro e venti, un euro e ottanta, uno e cinquanta — 'euro'는 복수에서도 형태가 같다.
+
+@notes
+- [로마말] Mo' (= adesso, ora) «지금». 'Mo' li porto dentro.' 친한 사이 구어에서만. 공식 장면에선 adesso.
+- [로마말] prima che passa (표준: prima che passi) — 접속법 대신 직설법을 쓰는 구어 습관. 시험·글에서는 접속법 'passi'.
+- [로마말] Aò! (= ehi!) 상대 주의를 끄는 감탄사. 친구끼리만, 손윗사람에게는 장난스러운 장면 아니면 피한다.
+- [로마말] pure (= anche) «~도». 'Sono in ritardo pure io.' 로마에선 anche보다 흔하다. 표준어에서도 틀린 말은 아니지만 구어 느낌.
+- [로마말] qua (= qui) 'Siamo ancora qua.' 중부 구어에서 흔함.
+- [로마말] Daje! «자, 힘내!/가자!» 로마를 대표하는 응원·재촉 표현. 친한 사이, 스포츠, 일 시작할 때. 격식 장면에선 쓰지 않는다.
+- 바 문화: 로마의 바에서는 서서 마시는 'al banco'가 기본이고, 계산대(cassa)에서 먼저 돈을 내고 영수증(scontrino)을 받는 가게도 많다. 영수증은 가게가 반드시 발행해야 한다.
+- 'Offre la casa' «가게가 낸다(서비스)». 'Il solito' «늘 먹던 걸로».
+
+@next
+1부 2화 — «La bici è sparita»(자전거가 사라졌다) — 사미르의 새 자전거가 건물 앞에서 감쪽같이 사라진다. 나디아와 사미르는 카라비니에리 파출소에 신고하러 가고, 시모네는 동네 '자전거 시장'의 소문을 전한다.
