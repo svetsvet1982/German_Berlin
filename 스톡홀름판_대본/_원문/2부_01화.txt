@@ -1,0 +1,268 @@
+PART: 2
+EP: 1
+TITLE: Fredag med berättelser
+SUBTITLE: 금요일의 이야기 · 요한의 이야기 1, Biggan의 식탁
+META: 대사 120턴 · 난이도 B1+ · 배경: 12월 둘째 주 금요일 저녁 일곱 시, 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: WÄGNER | 부활한 기자·작가 (1882–1949)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: LAGERLÖF | 부활한 작가 (1858–1940)
+CAST: REZA | 레일라의 남편 (가상)
+NOTE: ※ 2부가 시작됩니다. Biggan이 정한 규칙 6번에 따라 금요일마다 한 사람이 자기 과거를 이야기합니다. 스웨덴의 금요일 저녁 ‘fredagsmys’는 집에서 편하게 타코와 칩스를 먹는 풍습입니다. 첫 이야기꾼은 Johan — 왜 아버지의 로펌을 떠났는지 이야기하기 시작합니다. 노벨 문학상을 받은 첫 여성 작가 Selma Lagerlöf가 ‘이야기의 심사위원’으로 합류합니다. 2부의 문법 초점은 과거 이야기하기입니다: 과거형(preteritum: jag var, jag sa), 현재완료(perfekt: jag har aldrig berättat), 간접화법(han sa att…). 표현 초점: berätta, minnas, då, när, för … sedan.
+
+# 도입 — FREDAG KLOCKAN SJU
+BIGGAN: Klockan är sju. Fredag. Tacos på bordet, och ingen jobbar.
+= 일곱 시야. 금요일. 식탁엔 타코, 그리고 아무도 일 안 해.
+ANTON: Tacos? Jag trodde du lagade riktig mat.
+= 타코? 제대로 된 요리를 하는 줄 알았는데.
+BIGGAN: Tacos är riktig mat. Det är svensk fredagsmat. Fråga vem som helst.
+= 타코도 제대로 된 요리야. 스웨덴식 금요일 음식이라고. 아무한테나 물어봐.
+ELSA: Hemma i Kiruna åt vi renskav på fredagar. Men tacos på lördagar.
+= 키루나 집에선 금요일에 순록 고기를 먹었어요. 타코는 토요일에요.
+DANIEL: Och kardemummabullar. För Shirin.
+= 그리고 카다몸 번. 쉬린을 위해.
+REZA: Det luktar som när jag var liten. Mamma bakade samma sort.
+= 어릴 때 냄새가 나요. 어머니가 같은 걸 구우셨어요.
+BIGGAN: Hon gav mig receptet en gång. Jag har aldrig använt det förrän i dag.
+= 언젠가 나한테 레시피를 줬어. 오늘 처음 써 봤어.
+MAJA: Reza, har brevet till bostadsbolaget gått iväg?
+= 레자, 주택회사에 보낼 편지 갔어요?
+REZA: I går. Johan skickade det rekommenderat. Och med kopia till hyresnämnden.
+= 어제요. 요한이 등기로 보냈어요. 임대심판위원회에도 사본을 보내고.
+JOHAN: Nu väntar vi. Det kan ta veckor.
+= 이제 기다리는 거야. 몇 주 걸릴 수도 있어.
+OXENSTIERNA: Myndigheter har alltid haft gott om tid. Särskilt när de har fel.
+= 관청은 늘 시간이 넉넉했지. 특히 자기들이 틀렸을 때는.
+LAGERLÖF: God kväll. Jag hörde att det skulle berättas historier här i kväll.
+= 안녕하세요. 오늘 밤 여기서 이야기를 한다고 들었어요.
+ELSA: Ursäkta… är ni Selma Lagerlöf? Från tjugokronorssedeln?
+= 실례지만… 셀마 라겔뢰프세요? 20크로나 지폐에 있던?
+LAGERLÖF: Jag var på sedeln en gång. Nu är det Astrid. Hon förtjänar det.
+= 한때 지폐에 있었죠. 지금은 아스트리드예요. 그럴 자격이 있죠.
+WÄGNER: Selma! Du kom. Jag sa ju att det fanns ett bord för oss.
+= 셀마! 왔구나. 우리 자리가 있다고 했잖아.
+LAGERLÖF: Elin skrev till mig. Hon har alltid varit övertygande.
+= 엘린이 편지를 보냈어요. 늘 설득을 잘했죠.
+ANTON: Hur… skickar man brev mellan…? Nej. Jag frågar inte.
+= 어떻게… 그 사이에 편지를 어떻게…? 아니. 안 물어볼래.
+DANIEL: Klokt, Anton.
+= 현명하네, 안톤.
+LAGERLÖF: Får jag sitta här? Nära elementet. Värmland var aldrig så här mörkt i december.
+= 여기 앉아도 될까요? 라디에이터 가까이. 베름란드는 12월에 이렇게 어둡지 않았는데.
+BIGGAN: Sitt, fru Lagerlöf. Ta en taco.
+= 앉으세요, 라겔뢰프 부인. 타코 하나 드세요.
+LAGERLÖF: Jag har aldrig ätit en taco. Det blir en berättelse i sig.
+= 타코는 먹어 본 적이 없어요. 그것만으로도 이야깃거리가 되겠네요.
+ELSA: Man håller den med händerna. Och allt ramlar ut. Det är meningen.
+= 손으로 들고 먹어요. 그럼 다 쏟아져요. 그게 원래 그런 거예요.
+LAGERLÖF: Som med de flesta berättelser.
+= 대부분의 이야기가 그렇듯이요.
+
+# 장면 1 — TACOS OCH REGLER
+BIGGAN: Okej. Reglerna för fredag. En berättar. Alla andra lyssnar.
+= 좋아. 금요일 규칙. 한 사람이 이야기하고, 나머진 다 듣는다.
+MAJA: Får man ställa frågor?
+= 질문해도 돼요?
+BIGGAN: Efteråt. Inte mitt i.
+= 끝나고. 중간에 말고.
+ELSA: Det blir svårt för mig.
+= 저한텐 어렵겠어요.
+ANTON: Det blir omöjligt för dig.
+= 너한텐 불가능하겠지.
+BIGGAN: Elsa får fråga ”vad betyder det” mitt i. Det är ett undantag.
+= 엘사는 중간에 ‘그게 무슨 뜻이에요’는 물어봐도 돼. 그건 예외야.
+LAGERLÖF: En god berättelse har tre delar. Hur det var. Vad som hände. Och vad det betydde.
+= 좋은 이야기엔 세 부분이 있어요. 어땠는지. 무슨 일이 있었는지. 그리고 그게 무엇을 의미했는지.
+ELSA: Hur det var, vad som hände, vad det betydde. Jag skriver upp det.
+= 어땠는지, 무슨 일이 있었는지, 무엇을 의미했는지. 적어 둘게요.
+WÄGNER: Och en fjärde: att man inte ljuger.
+= 그리고 네 번째: 거짓말하지 않을 것.
+LAGERLÖF: Det är inte en del, Elin. Det är grunden.
+= 그건 부분이 아니야, 엘린. 그건 바탕이지.
+OXENSTIERNA: Jag ljög ofta i berättelser. För rikets bästa.
+= 난 이야기할 때 자주 거짓말을 했네. 나라를 위해서.
+BIGGAN: Inte vid mitt bord, Axel.
+= 내 식탁에선 안 돼, 악셀.
+JOHAN: Okej. Jag sa att jag skulle börja.
+= 좋아. 내가 먼저 한다고 했지.
+DANIEL: Du behöver inte i kväll. Efter i går…
+= 오늘 밤 안 해도 돼. 어제 일도 있었는데…
+JOHAN: Jo. Just därför. Annars gör jag det aldrig.
+= 아니. 바로 그래서 해야 해. 안 그러면 절대 못 할 거야.
+ELSA: Johan… varför slutade du på din pappas byrå?
+= 요한… 왜 아버지 로펌을 그만뒀어요?
+JOHAN: Du frågade det på intervjun också.
+= 면접 때도 물어봤지.
+ELSA: Och du svarade: ”Det är en lång historia.”
+= 그리고 당신은 대답했죠: ‘긴 이야기야.’
+JOHAN: Nu har vi en hel kväll.
+= 이제 저녁 시간이 통째로 있네.
+MAJA: Och tacos.
+= 그리고 타코도.
+JOHAN: Ett steg i taget. Jag börjar 2015.
+= 한 걸음씩. 2015년부터 시작할게.
+LAGERLÖF: Hur det var. Börja där.
+= 어땠는지. 거기서 시작해요.
+JOHAN: Då var jag tjugosju. Jag hade jobbat på byrån i två år. Jag var stolt. Jag hade mitt namn på dörren. Nästan.
+= 그때 난 스물일곱이었어. 로펌에서 2년째 일하고 있었어. 자랑스러웠지. 문에 내 이름이 있었어. 거의.
+ELSA: Nästan?
+= 거의요?
+JOHAN: Det stod ”Ek”. Det var pappas namn. Men jag låtsades att det var mitt.
+= ‘엑’이라고 적혀 있었어. 아버지 이름이었지. 근데 난 그게 내 이름인 척했어.
+REZA: Det förstår jag. Man vill vara sin fars son.
+= 이해해요. 아버지의 아들이고 싶은 거죠.
+JOHAN: Precis. Och pappa var bäst i Stockholm på fastigheter. Alla sa det.
+= 맞아요. 그리고 아버지는 스톡홀름에서 부동산 분야 최고였어요. 다들 그렇게 말했죠.
+OXENSTIERNA: Och nu? Vad säger de om honom nu?
+= 그럼 지금은? 지금은 그 사람을 뭐라고 하나?
+JOHAN: Samma sak. Det är det som är problemet.
+= 똑같이요. 그게 문제예요.
+
+# 장면 2 — JOHANS BERÄTTELSE: 2015
+JOHAN: Det året fick byrån ett stort uppdrag. Ett bolag skulle köpa tretusen hyreslägenheter i Järva.
+= 그해 로펌이 큰 일을 맡았어. 어떤 회사가 야르바의 임대 아파트 3,000세대를 사려고 했지.
+DANIEL: I Järva? Mitt Järva?
+= 야르바? 내 야르바?
+JOHAN: Ditt Järva. Rinkeby, Tensta, Husby. Kommunen sålde.
+= 네 야르바. 링케비, 텐스타, 후스뷔. 시가 팔았지.
+ELSA: Ursäkta, varför sålde kommunen?
+= 실례지만, 시가 왜 팔았어요?
+JOHAN: Det sa man att husen behövde renoveras. Och att privata ägare skulle göra det bättre.
+= 건물들을 리노베이션해야 하는데, 민간 소유주가 더 잘할 거라고들 했어.
+MAJA: Vem var köparen?
+= 사는 쪽은 누구였어?
+JOHAN: Ett bolag som hette Norrhem. Senare bytte det namn.
+= 노르헴이라는 회사. 나중에 이름을 바꿨지.
+ANTON: Till Nordhem?
+= 노르드헴으로?
+JOHAN: Det vet jag inte säkert. Jag misstänker det.
+= 확실히는 몰라. 그렇다고 의심해.
+WÄGNER: Misstankar är början på varje artikel.
+= 의심은 모든 기사의 시작이죠.
+LAGERLÖF: Fortsätt. Vad hände?
+= 계속해요. 무슨 일이 있었어요?
+JOHAN: Jag fick läsa alla papper. Alla avtal. Det var mitt första riktigt stora uppdrag.
+= 난 서류를 전부 읽게 됐어. 계약서 전부. 내 첫 번째 진짜 큰 일이었지.
+ELSA: Var du nervös?
+= 긴장했어요?
+JOHAN: Väldigt. Jag läste allt två gånger. Som du. Och i en mapp hittade jag ett dokument. Det hette ”Omsättningsplan”.
+= 엄청. 전부 두 번씩 읽었어. 너처럼. 그리고 한 폴더에서 문서 하나를 찾았어. 이름이 ‘회전 계획’이었어.
+ELSA: Vad betyder omsättning?
+= ‘회전’이 무슨 뜻이에요?
+MAJA: I en affär betyder det försäljning. Men i ett hus…
+= 장사에선 매출을 뜻해. 근데 건물에서는…
+JOHAN: …betyder det att hyresgäster flyttar och nya kommer. Planen var att trettio procent av hyresgästerna skulle flytta inom fem år.
+= …세입자가 나가고 새 사람이 들어온다는 뜻이야. 계획은 세입자의 30퍼센트가 5년 안에 나가게 하는 거였어.
+DANIEL: Trettio procent. Det är niohundra familjer.
+= 30퍼센트. 900가구야.
+ELSA: Niohundra. Det är fler än alla som bor i mormors by.
+= 900. 할머니 마을에 사는 사람 전부보다 많아요.
+JOHAN: Genom renoveringar som höjde hyran. Det stod rakt ut: ”Höjd hyra leder till naturlig omsättning.”
+= 월세를 올리는 리노베이션으로. 노골적으로 적혀 있었어: ‘월세 인상은 자연스러운 회전으로 이어진다.’
+OXENSTIERNA: ”Naturlig.” Så kallade man också pesten.
+= ‘자연스러운.’ 흑사병도 그렇게 불렀지.
+REZA: Som med mamma. Fast med pengar i stället för hot.
+= 어머니 때랑 같네요. 협박 대신 돈일 뿐.
+JOHAN: Ja. Det tänkte jag i går. Det är samma metod. Bara större.
+= 응. 어제 그 생각을 했어. 같은 방법이야. 더 클 뿐이지.
+
+# 절정 — DET JAG INTE SA
+LAGERLÖF: Och vad gjorde du, Johan? När du hade läst det?
+= 그래서 요한은 어떻게 했어요? 그걸 읽고 나서?
+JOHAN: Jag gick till pappa. Jag visade honom dokumentet.
+= 아버지한테 갔어요. 그 문서를 보여 드렸어요.
+ELSA: Vad sa han?
+= 뭐라고 하셨어요?
+JOHAN: Han sa att det var lagligt. Att alla bolag har sådana planer. Att det inte var vårt ansvar vad klienten gjorde efteråt.
+= 합법이라고 하셨어. 모든 회사가 그런 계획을 갖고 있다고. 고객이 나중에 뭘 하든 우리 책임이 아니라고.
+MAJA: Och var det lagligt?
+= 그리고 합법이었어?
+JOHAN: Ja. Tyvärr. Att renovera och höja hyran enligt reglerna är lagligt.
+= 응. 안타깝게도. 규칙대로 리노베이션하고 월세 올리는 건 합법이야.
+WICKSELL: Lagligt och rätt är två olika ord. Annars skulle språket bara behöva ett.
+= 합법과 옳음은 서로 다른 말이네. 안 그러면 언어에 하나만 있으면 됐겠지.
+ANTON: Herr Wicksell! Ni kom i alla fall.
+= 빅셀 님! 결국 오셨네요.
+WICKSELL: Jag kommer alltid när någon säger ”lagligt” i den tonen.
+= 누가 그런 말투로 ‘합법’이라고 할 때면 난 언제나 오지.
+MAJA: Han kommer alltid. Det är hans enda regel.
+= 저분은 늘 와. 그게 저분의 유일한 규칙이야.
+LAGERLÖF: Och sen, Johan? Vad gjorde du?
+= 그다음엔요, 요한? 어떻게 했어요?
+JOHAN: Ingenting.
+= 아무것도요.
+ELSA: Ingenting?
+= 아무것도요?
+JOHAN: Jag gjorde klart avtalen. Jag fick beröm. Jag fick en bonus. Jag köpte en bostadsrätt på Kungsholmen.
+= 계약서를 마무리했어. 칭찬을 받았고. 보너스를 받았어. 쿵스홀멘에 아파트를 샀지.
+DANIEL: Johan…
+= 요한…
+JOHAN: Det är det jag aldrig har sagt till någon. Inte till er. Inte ens till mig själv, egentligen.
+= 이게 내가 누구한테도 말한 적 없는 거야. 너희한테도. 사실 나 자신한테도.
+REZA: Men du var tjugosju. Det var din pappa.
+= 근데 스물일곱이었잖아요. 아버지였고요.
+JOHAN: Shirin var trettiofem när hon kom till Sverige. Hon hade ingen pappa här. Hon skrev ändå under själv.
+= 쉬린 씨는 스웨덴에 왔을 때 서른다섯이었어요. 여기엔 아버지도 없었고요. 그래도 스스로 서명했어요.
+BIGGAN: Det är inte samma sak, Johan.
+= 그건 같은 게 아니야, 요한.
+JOHAN: Nej. Det är värre. Jag visste vad jag skrev under.
+= 응. 더 나빠. 난 내가 뭘 서명하는지 알았으니까.
+WÄGNER: Ibland är det modigaste man gör att säga ”jag gjorde ingenting” högt.
+= 가끔은 ‘나는 아무것도 하지 않았다’고 소리 내 말하는 게 가장 용감한 일이죠.
+DANIEL: Det är sant. Jag har träffat många som aldrig säger det.
+= 맞아. 그 말을 끝내 못 하는 사람을 많이 만났어.
+LAGERLÖF: Och vad betydde det? Den tredje delen.
+= 그리고 그게 무엇을 의미했나요? 세 번째 부분.
+JOHAN: Att jag stannade på byrån sju år till. Och att jag först nu förstår varför jag till slut gick.
+= 내가 그 로펌에 7년을 더 있었다는 것. 그리고 마침내 왜 떠났는지 이제야 이해한다는 것.
+ELSA: Varför gick du till slut?
+= 결국 왜 떠났어요?
+JOHAN: Det är nästa fredag, Elsa.
+= 그건 다음 금요일이야, 엘사.
+
+# 마무리 — NÄSTA FREDAG
+ELSA: Nej! Du kan inte sluta där!
+= 안 돼요! 거기서 끊으면 안 돼요!
+LAGERLÖF: Jo, det kan han. Det är så man skriver en följetong.
+= 아뇨, 그럴 수 있어요. 연재소설은 그렇게 쓰는 거예요.
+ANTON: En cliffhanger.
+= 클리프행어.
+MAJA: En krona.
+= 1크로나.
+ANTON: Det är en fredag! Gäller reglerna ens på fredagar?
+= 금요일이잖아! 금요일에도 규칙이 적용돼?
+BIGGAN: Alla regler gäller i mitt hus. Alla dagar.
+= 내 집에선 모든 규칙이 적용돼. 매일.
+DANIEL: Johan. Tack för att du berättade.
+= 요한. 이야기해 줘서 고마워.
+JOHAN: Det känns konstigt. Som att ha lagt ner något tungt. Men det ligger fortfarande på bordet.
+= 이상한 느낌이야. 무거운 걸 내려놓은 것 같은데. 아직 식탁 위에 놓여 있는 거지.
+OXENSTIERNA: Bättre på bordet än i bröstet, herr advokat.
+= 가슴속보다는 식탁 위가 낫지, 변호사 양반.
+REZA: Johan, du ska träffa din pappa?
+= 요한, 아버지 만날 거예요?
+JOHAN: På måndag. På hans byrå. Jag har frågor om 2007. Och om 2015.
+= 월요일에. 아버지 사무소에서. 2007년에 대해 물어볼 게 있어요. 그리고 2015년에 대해서도.
+WÄGNER: Ta med en anteckningsbok.
+= 수첩을 가져가요.
+JOHAN: Jag tar med Elsa. Hon frågar bättre än jag.
+= 엘사를 데려갈게요. 저보다 질문을 잘해요.
+ELSA: Jag? Till Ek & Wahlgren? Med mina skor?
+= 저요? 엑 & 발그렌에요? 이 신발 신고요?
+ANTON: Jag kan låna ut mina. Italienska.
+= 내 거 빌려줄 수 있어. 이탈리아제.
+MAJA: Två kronor. Italienska skor är värre än engelska ord.
+= 2크로나. 이탈리아 신발은 영어 단어보다 나빠.
+BIGGAN: Dina skor är bra nog för vem som helst, gumman.
+= 네 신발은 누구 앞에서든 충분해, 얘야.
+LAGERLÖF: Det här var en god början. Hur det var och vad som hände. Betydelsen kommer sen. Det gör den alltid.
+= 좋은 시작이었어요. 어땠는지, 무슨 일이 있었는지. 의미는 나중에 와요. 언제나 그렇죠.
+ELSA: Nästa fredag. Varför han gick.
+= 다음 금요일. 그가 떠난 이유.
+NEXT: 2부 2화 — «Pappas byrå»(아빠의 로펌) — Johan이 Elsa와 함께 아버지 Gustaf를 찾아가 2007년 서류를 묻는다. «Det var lagligt då.» 주택회사가 정정 요청을 받아들이지만, 아버지 쪽은 일부 문서를 내주지 않는다. 금요일, Johan이 로펌을 떠난 진짜 이유를 이야기한다.
