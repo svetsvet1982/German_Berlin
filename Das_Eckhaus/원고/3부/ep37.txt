@@ -1,0 +1,149 @@
+#nr: 37
+#part: 3부 Herbst (가을)
+#title: Der Investor
+#ko: 투자자 · 아주 정중한 알브레히트 박사
+#level: B1~B2
+#setting: 9월 7일 월요일 오전 열 시, 문 열기 전의 „Zur Ecke". 노르트베르트의 자산운용 담당 슈테펜 알브레히트 박사가 예고대로 찾아온다. 칼레 옆에는 야나와 슐체 부인이 앉고, 브뤼크너 변호사는 전화로 미리 조언한다. "아무것도 서명하지 말고, 듣기만 하세요." 알브레히트는 처음부터 끝까지 정중하다. 그 정중함이 더 무섭다. 표현 초점: Sie 격식체, 정중한 질문과 답변, 완곡한 제안.
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Jana | 야나 코발스키 · 34세
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Herr Brückner | 위르겐 브뤼크너 · 58세, 변호사 (전화)
+#cast: Dr. Albrecht | 슈테펜 알브레히트 · 52세, 노르트베르트 이모빌리엔 인베스트 자산운용 담당
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Edith | 에디트 크뤼거 · 83세
+#read: 격식체 질문의 공손한 억양: „Dürfte ich Sie fragen, ob …?" „Wären Sie so freundlich, …?" — 동사(dürfte, wären)를 부드럽게 올린다.
+#read: 알브레히트의 말투: 문장이 길고 매끄러우며 감정이 없다. 일정한 속도, 끝을 살짝 올려 친절하게 들리게.
+#read: Modernisierungsumlage [modɛʁniˈziːʁʊŋsˌʔʊmlaːɡə], energetisch [enɛʁˈɡeːtɪʃ], Ablösesumme [ˈapløːzəˌzʊmə].
+#read: 칼레가 격식체를 애써 쓸 때: 베를린 사투리가 섞였다가 다시 표준어로 고치는 리듬. „Det … das verstehe ich."
+#note: Sie 격식체 정중한 표현: Dürfte ich fragen, …? / Wären Sie so freundlich, …? / Ich würde Ihnen gern … vorschlagen. / Darf ich offen sprechen? / Ich verstehe Ihre Sorge. / Das müsste ich prüfen lassen.
+#note: 완곡한 제안(투자자의 화법): Wir könnten uns vorstellen, … / Es wäre denkbar, dass … / Im beiderseitigen Interesse … / Eine einvernehmliche Lösung … — 결국 '나가 달라'는 뜻을 부드럽게 포장한다.
+#note: Modernisierungsumlage = 현대화 공사비의 연 8%를 월세에 더할 수 있는 제도. 다만 6년 안에 ㎡당 3유로(기존 월세 7유로 미만이면 2유로)까지만 올릴 수 있다. 엘리베이터, 단열, 발코니 증설 등이 해당한다. 단순 수리(Instandhaltung)는 집주인 부담이다.
+#note: Ablöse / Abfindung = 세입자가 계약 만료 전에 나가는 대가로 받는 보상금. 받을 의무는 없고, 서명 전에 반드시 법률 상담을 받는 것이 좋다.
+#note: 브뤼크너의 원칙: Nichts unterschreiben. Zuhören. Notieren. Fragen stellen. Bedenkzeit verlangen. — 협상 첫 만남의 기본.
+## Zehn Minuten vorher | 십 분 전
+Herr Brückner: Herr Kowalski, hören Sie mich? Gut. Drei Regeln für heute. Erstens: Sie unterschreiben nichts. Gar nichts. Auch keine Teilnehmerliste. || 코발스키 씨, 들리세요? 좋아요. 오늘의 규칙 세 가지. 첫째, 아무것도 서명하지 마세요. 정말 아무것도요. 참석자 명단에도요.
+Kalle: Nichts unterschreiben. Det … das verstehe ich. || 아무것도 서명하지 말 것. 그… 알겠습니다.
+Herr Brückner: Zweitens: Sie hören zu. Sie stellen Fragen. Aber Sie sagen nicht Ja und nicht Nein. Sie sagen: Darüber muss ich nachdenken. || 둘째, 들으세요. 질문은 하시고요. 하지만 예라고도 아니라고도 하지 마세요. 그냥 '생각해 봐야겠습니다'라고 하세요.
+Kalle: Darüber muss ich nachdenken. Und drittens? || 생각해 봐야겠습니다. 그럼 셋째는요?
+Herr Brückner: Drittens: Lassen Sie jemanden mitschreiben. Datum, Uhrzeit, jedes Angebot. Wer sitzt neben Ihnen? || 셋째, 누군가에게 받아 적게 하세요. 날짜, 시간, 모든 제안을요. 옆에 누가 앉아 있죠?
+Kalle: Meine Tochter. Und Frau Schulze. || 제 딸이요. 그리고 슐체 부인이요.
+Herr Brückner: Frau Schulze? Dann brauchen Sie mich eigentlich gar nicht. Rufen Sie mich danach an. Viel Glück. || 슐체 부인이요? 그럼 사실 저는 필요 없겠네요. 끝나고 전화 주세요. 행운을 빌어요.
+Jana: Papa, du bist ganz blass. Trink einen Schluck Wasser. || 아빠, 얼굴이 하얗게 질렸어. 물 한 모금 마셔.
+Kalle: Ick bin nich blass. Ick bin … konzentriert. || 안 질렸어. 나는… 집중하는 거야.
+Frau Schulze: Ich habe einen Block und drei Stifte. Falls einer leer ist. Und meine Lesebrille. Die zweite, falls die erste beschlägt. || 나는 메모장이랑 펜 세 자루 가져왔어요. 하나 안 나올 때를 대비해서요. 그리고 돋보기도요. 첫 번째 게 김 서리면 쓸 두 번째 것까지요.
+Kalle: Frau Schulze, Sie sind besser vorbereitet als die Bundeswehr. || 슐체 부인, 연방군보다 준비를 더 잘하셨네요.
+Frau Schulze: Die Bundeswehr ist nicht mein Maßstab, Herr Kowalski. || 연방군은 내 기준이 아니에요, 코발스키 씨.
+Jana: Er kommt. Ein dunkles Auto. Ein Mann im Anzug. Mit Ledertasche. || 왔다. 검은 차. 양복 입은 남자. 가죽 가방 들고.
+Kalle: Pünktlich. Wie der Gutachter. Die sind alle pünktlich. Das macht mich nervös. || 정시네. 감정평가사처럼. 다들 시간을 칼같이 지켜. 그게 사람을 불안하게 만들어.
+Frau Schulze: Pünktlichkeit ist eine Tugend, Herr Kowalski. Auch beim Gegner. || 시간 엄수는 미덕이에요, 코발스키 씨. 상대편이라도요.
+## Ein höflicher Besuch | 정중한 방문
+Dr. Albrecht: Guten Morgen. Steffen Albrecht, Nordwert Immobilien Invest. Herr Kowalski? Es freut mich sehr, Sie kennenzulernen. || 좋은 아침입니다. 슈테펜 알브레히트, 노르트베르트 이모빌리엔 인베스트입니다. 코발스키 씨죠? 만나 뵙게 되어 정말 반갑습니다.
+Kalle: Guten Morgen. Kowalski. Das ist meine Tochter, Jana Kowalski. Und Frau Schulze. Eine Mieterin aus dem Vorderhaus. || 좋은 아침입니다. 코발스키입니다. 이쪽은 제 딸 야나 코발스키. 그리고 슐체 부인. 앞 동 세입자세요.
+Dr. Albrecht: Sehr angenehm. Frau Schulze, Sie haben uns die Kopien geschickt. Über das Dach, die Haustür, den Keller. Sehr gründlich. Das hat mich beeindruckt. || 반갑습니다. 슐체 씨, 저희한테 사본을 보내 주셨죠. 지붕, 현관문, 지하실 관련해서요. 아주 꼼꼼하시더군요. 인상 깊었습니다.
+Frau Schulze: Die Kopien waren für den Gutachter. Nicht für Sie. || 그 사본은 감정평가사를 위한 거였어요. 당신이 아니라요.
+Dr. Albrecht: Der Gutachter arbeitet für uns. Insofern … Aber ich verstehe. Darf ich mich setzen? || 감정평가사는 저희를 위해 일하니까요. 그런 의미에서… 그래도 이해합니다. 앉아도 될까요?
+Kalle: Bitte. Möchten Sie einen Kaffee? || 앉으세요. 커피 드시겠어요?
+Dr. Albrecht: Sehr gern. Schwarz. Herr Wolff hat mir erzählt, dass Ihr Kaffee sehr gut ist. Er hat es sogar in sein Gutachten geschrieben. Als Anmerkung. || 좋습니다. 블랙으로요. 볼프 씨가 여기 커피가 아주 맛있다고 하더군요. 감정서에 메모로까지 적었어요.
+Jana: Der Kaffee steht im Gutachten? || 커피가 감정서에 들어갔다고요?
+Dr. Albrecht: Unter „Sonstiges". Zusammen mit dem Hinweis, dass die Hausgemeinschaft „ungewöhnlich gut organisiert" ist. Das war eine Warnung. Glaube ich. || „기타" 항목에요. 입주민 공동체가 „이례적으로 잘 조직되어 있다"는 메모와 함께요. 그건 경고였던 것 같습니다.
+Frau Schulze: Für wen? || 누구한테요?
+Dr. Albrecht: Für mich, Frau Schulze. Für mich. || 저한테요, 슐체 씨. 저한테요.
+Kalle: Herr Albrecht … Doktor Albrecht. Warum sind Sie hier? Ehrlich. || 알브레히트 씨… 알브레히트 박사님. 여기 왜 오셨어요? 솔직하게요.
+Dr. Albrecht: Darf ich offen sprechen? || 터놓고 말씀드려도 될까요?
+Kalle: Bitte. Hier sind alle sehr direkt. Det … das ist Berlin. || 그러세요. 여기 사람들은 다 아주 직설적이에요. 그… 그게 베를린이죠.
+Dr. Albrecht: Gut. Nordwert hat dieses Haus gekauft, weil es Potenzial hat. Gute Lage am Kanal, schöner Altbau, solide Substanz. Aber es wurde lange nicht investiert. Wir möchten das ändern. || 좋습니다. 노르트베르트가 이 집을 산 건 잠재력이 있어서입니다. 운하 옆 좋은 입지, 아름다운 알트바우, 탄탄한 골조. 하지만 오랫동안 투자가 없었죠. 저희는 그걸 바꾸고 싶습니다.
+Jana: Wie genau? || 정확히 어떻게요?
+Dr. Albrecht: Das erkläre ich Ihnen gern. Es ist ein gutes Projekt. Für alle. Davon bin ich überzeugt. || 기꺼이 설명드리겠습니다. 좋은 프로젝트예요. 모두에게요. 저는 그렇게 확신합니다.
+Frau Schulze: Das sagen alle, die ein Projekt haben. || 프로젝트 있는 사람들은 다 그렇게 말하죠.
+## Ein gutes Projekt | 좋은 프로젝트
+Dr. Albrecht: Erstens: Wir sanieren das Dach. Noch in diesem Herbst. Mit Dämmung. Herr Wolff hat geschrieben, dass es im Sommer im vierten Stock fünfunddreißig Grad hatte. Das ist nicht akzeptabel. || 첫째, 지붕을 수리합니다. 올가을 안에요. 단열까지 해서요. 볼프 씨가 여름에 5층이 35도였다고 썼더군요. 그건 용납할 수 없는 일입니다.
+Frau Schulze: Das stimmt. Wann genau? || 그건 맞아요. 정확히 언제요?
+Dr. Albrecht: Ab Oktober. Vor dem ersten Regen. Das zahlen wir. Das ist Instandhaltung. || 10월부터요. 첫 비가 오기 전에. 비용은 저희가 냅니다. 그건 유지 보수니까요.
+Kalle: Das … das ist gut. Ehrlich. || 그건… 좋네요. 솔직히요.
+Dr. Albrecht: Zweitens: Wir möchten das Haus energetisch modernisieren. Neue Fenster, Fassadendämmung, eine Wärmepumpe. Das spart Energie. Und es ist gut für das Klima. || 둘째, 집을 에너지 효율적으로 현대화하고 싶습니다. 새 창문, 외벽 단열, 히트펌프. 에너지가 절약되죠. 그리고 기후에도 좋고요.
+Jana: Und wer bezahlt das? || 그건 누가 내죠?
+Dr. Albrecht: Ein Teil davon wird über die Modernisierungsumlage auf die Mieten umgelegt. Wie es das Gesetz erlaubt. Acht Prozent der Kosten im Jahr. Mit den gesetzlichen Grenzen. || 그중 일부는 현대화 분담금으로 월세에 반영됩니다. 법이 허용하는 대로요. 비용의 연 8퍼센트. 법정 상한 안에서요.
+Frau Schulze: Das heißt: Die Miete steigt. Um wie viel? || 그러니까 월세가 오른다는 거죠. 얼마나요?
+Dr. Albrecht: Das hängt von der Wohnung ab. Durchschnittlich zwei bis drei Euro pro Quadratmeter. Höchstens. || 집마다 다릅니다. 평균 제곱미터당 2~3유로요. 많아야요.
+Frau Schulze: Für Frau Krüger sind das bei achtundfünfzig Quadratmetern bis zu hundertsiebzig Euro. Im Monat. Bei einer Rente von elfhundert. || 크뤼거 부인 집은 58제곱미터니까 한 달에 최대 170유로네요. 연금이 천백 유로인 분한테요.
+Dr. Albrecht: Für Härtefälle gibt es gesetzliche Regelungen. Ein Mieter kann einen Härteeinwand erheben. Wir prüfen jeden Fall einzeln. || 어려운 경우를 위한 법적 규정이 있습니다. 세입자는 생계 곤란 이의를 제기할 수 있어요. 저희는 경우마다 개별적으로 검토합니다.
+Frau Schulze: Sie prüfen. Und wer entscheidet? || 검토하신다고요. 그럼 결정은 누가 해요?
+Dr. Albrecht: Im Zweifel ein Gericht, Frau Schulze. So ist das in einem Rechtsstaat. || 애매하면 법원이죠, 슐체 씨. 법치국가에선 그렇습니다.
+Jana: Und drittens? Sie haben „erstens" und „zweitens" gesagt. Es gibt immer ein „drittens". || 그럼 셋째는요? „첫째", „둘째"라고 하셨잖아요. 늘 „셋째"가 있죠.
+Dr. Albrecht: Sie sind sehr aufmerksam, Frau Kowalski. Ja. Drittens: Wir möchten einen Aufzug einbauen. Und das Dachgeschoss ausbauen. Zwei neue Wohnungen. Mit Terrasse. || 아주 예리하시군요, 코발스키 씨. 네. 셋째, 엘리베이터를 설치하고 싶습니다. 그리고 다락층을 증축하고요. 새 집 두 채. 테라스 딸린 집으로요.
+Kalle: Auf dem Dach? Wo wir im August gesessen haben? || 지붕 위에요? 8월에 우리가 앉아 있던 그 자리에요?
+Dr. Albrecht: Ich habe die Fotos gesehen. Es ist ein schöner Ort. Man sieht den Fernsehturm. Deshalb werden die Wohnungen dort sehr gefragt sein. || 사진 봤습니다. 아름다운 곳이더군요. 텔레비전 탑이 보이고요. 그래서 거기 지을 집들은 인기가 아주 많을 겁니다.
+## Die Ecke | „Zur Ecke"
+Dr. Albrecht: Und damit komme ich zu Ihnen, Herr Kowalski. Zum eigentlichen Grund meines Besuchs. || 그리고 이제 코발스키 씨 얘기로 넘어가겠습니다. 제가 찾아온 진짜 이유죠.
+Kalle: Zur Ecke. || 우리 가게요.
+Dr. Albrecht: Zum Erdgeschoss. Es ist die wertvollste Fläche im Haus. Direkt am Kanal, an der Ecke, mit großen Fenstern. Wir haben ein Konzept für die Gewerbeflächen. Eine Neuausrichtung. || 1층이요. 이 집에서 가장 가치 있는 공간이죠. 운하 바로 옆, 모퉁이, 큰 창문까지. 저희는 상업 공간에 대한 콘셉트가 있습니다. 새로운 방향 설정이죠.
+Jana: Was heißt „Neuausrichtung"? Konkret? || „새로운 방향 설정"이 뭔데요? 구체적으로요?
+Dr. Albrecht: Wir stellen uns ein gehobenes Café vor. Mit Frühstück, Brunch, regionalen Produkten. Ein Ort für die neuen Bewohner. Und für Gäste. || 고급 카페를 생각하고 있습니다. 아침 식사, 브런치, 지역 특산품. 새로 오는 주민들과 손님들을 위한 공간이죠.
+Kalle: Ein Café mit Hafermilch. || 귀리 우유 파는 카페.
+Dr. Albrecht: Unter anderem mit Hafermilch. Ja. || 귀리 우유도 있겠죠. 네.
+Kalle: Und ick? Wo bin ick in diesem Konzept? || 그럼 나는요? 그 콘셉트 어디에 내가 있는데요?
+Dr. Albrecht: Ihr Vertrag läuft bis Ende zweitausendsiebenundzwanzig. Den respektieren wir selbstverständlich. Aber wir könnten uns eine einvernehmliche Lösung vorstellen. Früher. Im beiderseitigen Interesse. || 계약은 2027년 말까지죠. 그건 당연히 존중합니다. 하지만 합의에 의한 해결을 생각해 볼 수도 있겠습니다. 더 일찍요. 양쪽 모두의 이익을 위해서요.
+Frau Schulze: Übersetzt: Sie wollen, dass er früher geht. || 번역하면, 이분이 일찍 나가 주길 바란다는 거죠.
+Dr. Albrecht: Übersetzt, Frau Schulze, bieten wir Herrn Kowalski eine Ablöse an. Wenn er bis Ende März zweitausendsiebenundzwanzig auszieht. Dreißigtausend Euro. || 번역하면요, 슐체 씨, 코발스키 씨께 보상금을 제안드리는 겁니다. 2027년 3월 말까지 나가시는 조건으로요. 삼만 유로.
+Jana: Dreißigtausend. || 삼만 유로.
+Dr. Albrecht: Für einen Mann, der in zwei Jahren in Rente gehen könnte, ist das eine faire Summe. Darüber hinaus helfen wir bei der Suche nach einer anderen Fläche. In einer anderen Lage. || 이 년 뒤면 은퇴하실 수도 있는 분께는 공정한 금액입니다. 그 밖에 다른 공간을 찾는 것도 도와드리겠습니다. 다른 지역에서요.
+Kalle: In zwei Jahren Rente? Ick bin achtundfünfzig! Wer hat Ihnen gesagt, dass ick in Rente gehe? || 이 년 뒤에 은퇴라고요? 나 쉰여덟이에요! 내가 은퇴한다고 누가 그래요?
+Dr. Albrecht: Niemand. Ich habe nur gerechnet. Verzeihen Sie, wenn ich Sie beleidigt habe. Das war nicht meine Absicht. || 아무도요. 그냥 계산해 봤을 뿐입니다. 기분 상하셨다면 용서하십시오. 그럴 의도는 아니었습니다.
+Kalle: Dreißigtausend Euro. Für fünfundzwanzig Jahre. Für Monikas Soljanka. Für Uschis Schild. Für den Tisch neben dem Klavier. || 삼만 유로. 이십오 년 값으로. 모니카의 솔랸카 값으로. 우시의 간판 값으로. 피아노 옆 테이블 값으로.
+Dr. Albrecht: Sie haben ein Klavier? Das stand nicht im Gutachten. || 피아노가 있으세요? 감정서엔 없던데요.
+Jana: Er sagt: Darüber muss er nachdenken. Nicht wahr, Papa? || 아빠는 생각해 봐야겠다고 하시는 거예요. 그렇지, 아빠?
+Kalle: … Darüber muss ick nachdenken. || …생각해 봐야겠습니다.
+## Die Werkstatt im Hof | 안마당의 공방
+Tobi: Guten Tag. Tobi Fischer. Ich habe die Werkstatt im Hof. Ich habe auch einen Brief bekommen. || 안녕하세요. 토비 피셔입니다. 안마당에서 공방을 해요. 저도 편지를 받았어요.
+Dr. Albrecht: Herr Fischer. Ja. Ihr Vertrag endet am einunddreißigsten März. Ich möchte Ihnen ehrlich sagen: Wir werden ihn nicht verlängern. || 피셔 씨. 네. 계약이 3월 31일에 끝나죠. 솔직하게 말씀드리겠습니다. 연장하지 않을 겁니다.
+Tobi: Nicht verlängern. Einfach so. Nach fünf Jahren. || 연장 안 한다. 그냥 그렇게요. 오 년 만에.
+Dr. Albrecht: Die Werkstatt wird für den Aufzug und den neuen Fahrradraum gebraucht. Für alle Bewohner. Mit Ladestationen für E-Bikes. || 공방 자리는 엘리베이터랑 새 자전거 보관실에 필요합니다. 모든 주민을 위한 거죠. 전기 자전거 충전소까지 갖춘.
+Tobi: Ein Fahrradraum. Statt einer Fahrradwerkstatt. Das ist … das ist ja fast lustig. || 자전거 보관실. 자전거 공방 대신. 그거… 그거 거의 웃기네요.
+Dr. Albrecht: Ich verstehe, dass das hart für Sie ist. Wir zahlen Ihnen eine Umzugshilfe. Fünftausend Euro. Wenn Sie pünktlich zum Vertragsende räumen. || 힘드시리라는 거 이해합니다. 이사 지원금을 드리겠습니다. 오천 유로요. 계약 종료일에 맞춰 비워 주시면요.
+Tobi: Fünftausend. Meine Kunden kommen aus dem ganzen Kiez. Die Familie Weber, die Kinder mit den Lastenrädern, die alten Leute mit den Rollatoren, die ich kostenlos repariere. Wo sollen die hin? || 오천 유로라. 내 손님들은 동네 곳곳에서 와요. 베버네 가족, 화물자전거 타는 아이들, 내가 공짜로 고쳐 주는 보행 보조기 쓰는 어르신들. 그 사람들은 어디로 가요?
+Dr. Albrecht: Es gibt viele Fahrradwerkstätten in Berlin, Herr Fischer. || 베를린엔 자전거 공방이 많아요, 피셔 씨.
+Tobi: Es gibt viele. Aber keine, die Rollatoren umsonst repariert. || 많죠. 그런데 보행 보조기를 공짜로 고쳐 주는 데는 없어요.
+Dr. Albrecht: Das ist sehr ehrenwert. Wirklich. Aber Ehre steht nicht im Mietvertrag. || 아주 존경할 만한 일이네요. 진심으로요. 하지만 명예는 임대 계약서에 적혀 있지 않습니다.
+Tobi: Nein. Nur die Miete. Das habe ich jetzt verstanden. || 그렇죠. 월세만 적혀 있죠. 이제 알겠네요.
+Edith: Doktor Albrecht? Darf ich Ihnen auch eine Frage stellen? Ich bin die Mieterin aus dem vierten Stock. Die mit den fünfunddreißig Grad. || 알브레히트 박사님? 나도 하나 물어봐도 될까요? 나는 5층 세입자예요. 35도였던 그 집.
+Dr. Albrecht: Frau Krüger. Natürlich. Herr Wolff hat von Ihnen erzählt. Achtundsiebzig Stufen. || 크뤼거 부인. 물론이죠. 볼프 씨가 부인 얘기를 했습니다. 계단 일흔여덟 개.
+Edith: Achtundsiebzig. Wenn Sie den Aufzug bauen: Bin ich dann noch da, um ihn zu benutzen? Oder ist er dann für jemand anderen? || 일흔여덟 개. 엘리베이터를 지으면요, 그때도 내가 여기 있어서 그걸 탈 수 있을까요? 아니면 그건 다른 사람을 위한 걸까요?
+Dr. Albrecht: … Das ist eine sehr gute Frage, Frau Krüger. Ich kann sie heute nicht beantworten. || …아주 좋은 질문입니다, 크뤼거 부인. 오늘은 대답해 드릴 수가 없네요.
+Edith: Das habe ich mir gedacht. Danke für die Ehrlichkeit. Das ist mehr, als die alte Hausverwaltung gegeben hat. || 그럴 줄 알았어요. 솔직하게 말해 줘서 고마워요. 옛날 관리회사보다는 나으니까요.
+## Fragen von Frau Schulze | 슐체 부인의 질문
+Frau Schulze: Doktor Albrecht, ich habe noch drei Fragen. Ich habe sie aufgeschrieben. || 알브레히트 박사님, 질문이 세 개 더 있어요. 적어 왔어요.
+Dr. Albrecht: Natürlich haben Sie das. Bitte. || 당연히 그러셨겠죠. 말씀하세요.
+Frau Schulze: Erstens: Was passiert mit der Hausverwaltung? Mit „Kiez Hausverwaltung" und mit „Kiez Living"? || 첫째, 관리회사는 어떻게 되나요? „키츠 관리회사"랑 „키츠 리빙"은요?
+Dr. Albrecht: Wir haben den Vertrag mit Kiez Hausverwaltung gekündigt. Zum ersten November. Wir haben von den Ferienwohnungen erfahren. Durch das Bezirksamt. Das ist nicht unsere Art, Geschäfte zu machen. || 키츠 관리회사와의 계약은 해지했습니다. 11월 1일 자로요. 단기 숙박 건은 구청을 통해 알게 됐습니다. 그건 저희가 사업하는 방식이 아닙니다.
+Kalle: Wirklich? Das haben Sie gemacht? || 정말요? 그렇게 하셨다고요?
+Dr. Albrecht: Illegale Ferienwohnungen sind ein Risiko. Für uns auch. Bis zu fünfhunderttausend Euro Strafe. So etwas brauchen wir nicht. || 불법 단기 숙박은 위험 요소입니다. 저희한테도요. 최대 50만 유로의 과태료. 그런 건 필요 없습니다.
+Frau Schulze: Zweitens: Hat der Bezirk Sie schon wegen des Vorkaufsrechts kontaktiert? || 둘째, 구청에서 선매권 때문에 벌써 연락이 왔나요?
+Dr. Albrecht: … Sie sind gut informiert. Ja. Das Stadtplanungsamt prüft. Das ist ein normales Verfahren im Milieuschutzgebiet. Wir sind zuversichtlich, dass es nicht ausgeübt wird. || …정보가 빠르시군요. 네. 도시계획과에서 검토 중입니다. 주민 구성 보호 구역에서는 정상적인 절차죠. 저희는 행사되지 않을 거라고 확신합니다.
+Frau Schulze: Und wenn doch? || 그런데 만약 행사된다면요?
+Dr. Albrecht: Dann gäbe es vielleicht die Möglichkeit einer Abwendungsvereinbarung. Wir verpflichten uns zu bestimmten Dingen. Dafür verzichtet der Bezirk auf das Vorkaufsrecht. Darüber würden wir reden. || 그렇다면 어쩌면 회피 협약의 가능성이 있겠죠. 저희가 특정 사항을 약속하고, 그 대신 구청은 선매권을 포기하는 겁니다. 그건 협의해 볼 수 있겠습니다.
+Frau Schulze: Drittens. Und das ist die wichtigste Frage. Würde Nordwert das Haus wieder verkaufen? An die Mieter? Zu einem fairen Preis? || 셋째. 그리고 이게 가장 중요한 질문이에요. 노르트베르트는 이 집을 다시 팔 의향이 있나요? 세입자들한테요? 공정한 가격으로요?
+Dr. Albrecht: An die Mieter? … Wie meinen Sie das? || 세입자들한테요? …무슨 뜻이죠?
+Frau Schulze: So, wie ich es gesagt habe. Ich habe es aufgeschrieben. Mit Datum. || 말한 그대로예요. 적어 왔어요. 날짜까지.
+Dr. Albrecht: … Frau Schulze, wir sind ein Investor. Wir kaufen Häuser, um sie zu entwickeln. Nicht, um sie sofort wieder zu verkaufen. Aber in meinem Beruf gilt: Alles hat einen Preis. || …슐체 씨, 저희는 투자자입니다. 집을 사는 건 개발하기 위해서지, 바로 되팔기 위해서가 아닙니다. 하지만 제 업계엔 이런 말이 있죠. 모든 것엔 가격이 있다.
+Frau Schulze: Dann notiere ich: „Alles hat einen Preis." Sieben September, zehn Uhr achtundvierzig. || 그럼 적어 두죠. „모든 것엔 가격이 있다." 9월 7일, 10시 48분.
+## Nach dem Besuch | 방문이 끝나고
+Kalle: Er ist weg. Puh. Ick brauche einen Schnaps. Um elf Uhr morgens. || 갔다. 휴. 나 술 한잔해야겠다. 아침 열한 시인데.
+Jana: Du brauchst Wasser, Papa. Und dann rufen wir Herrn Brückner an. || 아빠는 물이 필요해. 그다음에 브뤼크너 씨한테 전화하자.
+Tobi: Er war so höflich. Die ganze Zeit. Er hat sich sogar entschuldigt. Das war das Schlimmste. || 그 사람 엄청 정중했어요. 처음부터 끝까지. 사과까지 했어요. 그게 제일 끔찍했어요.
+Edith: Höfliche Menschen sind gefährlich, Tobi. Unhöfliche Menschen kann man hassen. Höfliche Menschen muss man verstehen. Das ist anstrengender. || 정중한 사람들은 위험해, 토비. 무례한 사람은 미워하면 되지만, 정중한 사람은 이해해야 하거든. 그게 더 힘들지.
+Frau Schulze: Aber er hat etwas gesagt, das wichtig ist. „Alles hat einen Preis." Ich habe es aufgeschrieben. || 그래도 중요한 말을 했어요. „모든 것엔 가격이 있다." 내가 적어 뒀어요.
+Kalle: Und? Wat bringt uns det? || 그래서요? 그게 우리한테 뭘 해 주는데요?
+Frau Schulze: Es heißt: Er würde verkaufen. Wenn der Preis stimmt. Er hat nicht Nein gesagt. Ein Investor, der Nein meint, sagt Nein. || 그 말은 팔 의향이 있다는 뜻이에요. 가격만 맞으면. 그 사람 아니라고 안 했어요. 정말 아니라는 투자자는 아니라고 말해요.
+Jana: Frau Schulze … wissen Sie von der Idee? Von der Genossenschaft? || 슐체 부인… 그 생각 알고 계세요? 협동조합 얘기요?
+Frau Schulze: Frau Kowalski, ich wohne seit einunddreißig Jahren in diesem Haus. Ich höre, wenn Frau Yıldız nachts um zwei im Internet „Mietshäuser Syndikat" sucht. Die Wände sind dünn. || 코발스키 씨, 나 이 집에 산 지 삼십일 년이에요. 이을드즈 씨가 새벽 두 시에 인터넷에서 „Mietshäuser Syndikat"를 검색하는 소리까지 다 들려요. 벽이 얇거든요.
+Edith: Man hört Internet durch die Wand? || 벽 너머로 인터넷 소리가 들려요?
+Frau Schulze: Man hört, wenn jemand laut vorliest. Mit türkischem Akzent und viel Hoffnung. || 누가 큰 소리로 읽으면 들리죠. 튀르키예 억양에 희망을 잔뜩 담아서요.
+Kalle: Und? Was halten Sie davon? || 그래서요? 어떻게 생각하세요?
+Frau Schulze: Ich halte es für verrückt. Und ich habe in dreißig Jahren Finanzamt gelernt: Verrückte Ideen scheitern meistens an den Zahlen. Also rechnen wir. Bevor wir träumen. || 미친 생각이라고 봐요. 그리고 세무서 삼십 년 동안 배운 게 있어요. 미친 생각은 대개 숫자에서 무너진다. 그러니 계산부터 해요. 꿈꾸기 전에요.
+Jana: Dann rechnen wir zusammen. Heute Abend. Mit Jannik. || 그럼 같이 계산해요. 오늘 저녁에. 야니크랑요.
+Frau Schulze: Wer ist Jannik? Ach, der Junge mit dem falsch getrennten Müll. Gut. Er hat es inzwischen gelernt. || 야니크가 누구죠? 아, 쓰레기 분리 잘못하던 그 청년. 좋아요. 이제는 배웠으니까.
+Jana: Frau Schulze, Sie sind dabei? Wirklich? || 슐체 부인, 함께하시는 거예요? 정말요?
+Frau Schulze: Ich bin dabei. Als Rechnerin. Nicht als Träumerin. Das überlasse ich Frau Yıldız und Can. || 함께해요. 계산하는 사람으로서요. 꿈꾸는 사람으로서가 아니라. 그건 이을드즈 씨랑 잔한테 맡길게요.
+Kalle: Und ick? Was bin ick? || 그럼 나는요? 나는 뭔데요?
+Edith: Du bist der Wirt, Kalle. Ohne Wirt gibt es keine Versammlung. Und ohne Kaffee keine Revolution. || 너는 주인이지, 칼레. 주인이 없으면 모임도 없어. 그리고 커피가 없으면 혁명도 없고.
+Kalle: Dann mache ick jetzt Kaffee. Für eine Revolution. Mit Milch oder ohne? || 그럼 지금 커피 끓일게. 혁명을 위해서. 우유 넣어, 빼?
