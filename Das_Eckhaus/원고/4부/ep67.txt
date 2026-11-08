@@ -1,0 +1,160 @@
+#nr: 67
+#part: 4부 Winter (겨울)
+#title: Vor dem Ausschuss
+#ko: 위원회 앞에서 · 5분의 발언과 한 통의 전화
+#level: B2~C1
+#setting: 2월 18일 목요일 저녁 6시, 노이쾰른 구청 회의실. 구의회 도시개발 위원회가 유효 서명 1,107개의 주민 청원을 사전 심의한다. 청원 대표 데르야에게 주어진 발언 시간은 5분. 찬성하는 구의원도, 회의적인 구의원도 있다. 질의응답, 헬가 알버스의 편지, 그리고 예정에 없던 에디트의 발언. 위원회는 표결로 본회의에 권고안을 넘긴다. 회의가 끝난 직후, 브뤼크너의 휴대폰이 울린다. 노르트베르트 측 변호사다. 표현 초점: 공식 발표(연설의 구조), 질의응답 화법, 반론에 대한 정중한 대응, 공식 회의 어휘.
+#cast: Derya | 데르야 이을드즈 · 40세, 이사·청원 대표
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Kalle | 칼레 코발스키 · 58세, 이사
+#cast: Jana | 야나 코발스키 · 34세, 이사
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Frau Demir | 세다 데미르 · 40대, 도시개발 위원회 위원장
+#cast: Herr Krämer | 토르스텐 크래머 · 50대, 구의원(야당)
+#cast: Frau Okoye | 아마라 오코예 · 30대, 구의원
+#cast: Stadträtin Brandl | 카린 브란들 · 50대, 노이쾰른 구청 도시개발 담당 구청 의원(Bezirksstadträtin)
+#cast: Herr Brückner | 위르겐 브뤼크너 · 58세, 변호사
+#cast: Dr. Lindner | 안야 린드너 · 56세, 구청 도시계획과
+#cast: Herr Wollny | 클라우스 볼니 · 88세
+#cast: Frau Albers | 헬가 알버스 · 61세
+#cast: Wojtek | 보이텍 · 50대
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Herr Ahrens | 요나스 아렌스 · 30대
+#read: 연설의 구조: 인사 → 문제 제기 → 사실 → 요청 → 감사. „Sehr geehrte Frau Vorsitzende, sehr geehrte Damen und Herren …" — 첫 호칭은 천천히, 또박또박.
+#read: 숫자로 설득하기: „Elfhundertsieben Menschen. Fünfunddreißig Mitglieder. Vier Komma zwei Millionen." — 숫자마다 짧은 쉼.
+#read: 질의응답의 침착함: 질문을 반복해 시간을 벌고 답한다. „Sie fragen, ob … Darauf möchte ich zwei Dinge antworten."
+#read: Ausschuss [ˈaʊ̯sˌʃʊs], Beschlussempfehlung [bəˈʃlʊsʔɛmˌpfeːlʊŋ], Präzedenzfall [pʁɛt͡seˈdɛnt͡sˌfal], Rederecht [ˈʁeːdəˌʁɛçt].
+#note: 구의회 위원회(Ausschuss): 본회의(BVV) 전에 안건을 미리 심의하는 소위원회. 시민도 방청할 수 있고, 주민 청원 대표에게는 보통 발언권(Rederecht)이 주어진다. 위원회는 본회의에 '권고(Beschlussempfehlung)'를 내고, 최종 의결은 본회의가 한다.
+#note: 연설 표현: Ich möchte Ihnen heute … vorstellen. / Lassen Sie mich mit … beginnen. / Erstens … zweitens … schließlich … / Ich komme zum Schluss. / Ich bitte Sie daher, … / Vielen Dank für Ihre Aufmerksamkeit.
+#note: 질의응답: Darf ich eine Nachfrage stellen? (추가 질문해도 될까요?) / Das ist eine berechtigte Frage. / Darauf möchte ich zwei Dinge antworten. / Wenn ich Sie richtig verstehe, … / Ich gebe Ihnen in einem Punkt recht, aber …
+#note: Bezirksstadträtin/Bezirksstadtrat = 베를린 구청의 각 분야(도시개발, 교육 등)를 책임지는 선출직 구청 간부. 구청장(Bezirksbürgermeister)과 함께 구청 집행부(Bezirksamt)를 이룬다.
+#note: 회의 진행: Ich eröffne die Sitzung. / Wir kommen zu Tagesordnungspunkt … / Das Wort hat Frau … / Ich erteile Ihnen das Wort. (발언권을 드립니다) / Bitte fassen Sie sich kurz. / Wir stimmen ab. / Die Sitzung ist geschlossen.
+## Mittags: die Probe | 정오: 리허설
+Derya: Wojtek, Sie sind heute Herr Krämer. Von der Opposition. Graue Krawatte. Sie gucken skeptisch. Können Sie skeptisch gucken? || 보이텍 씨, 오늘은 크래머 의원님 역이에요. 야당이요. 회색 넥타이. 회의적으로 쳐다보시는 거예요. 회의적으로 쳐다보실 수 있어요?
+Wojtek: Ich habe drei Jahre unter einer Brücke gewohnt. Ich kann sehr skeptisch gucken. || 나 삼 년 동안 다리 밑에서 살았어요. 아주 회의적으로 쳐다볼 수 있죠.
+Bine: Und ick bin die Vorsitzende. Ick habe eine Glocke. Von der Kneipe. Wenn die fünf Minuten um sind, klingel ick. || 그리고 나는 위원장이야. 종도 있어. 가게 거. 오 분 지나면 울릴게.
+Kalle: Det ist die Glocke für die letzte Runde. Wenn die klingelt, rennen alle zum Tresen. || 그건 마지막 주문 종이잖아. 그거 울리면 다들 카운터로 달려와.
+Derya: Gut. Los. „Sehr geehrte Frau Vorsitzende …" || 좋아요. 시작할게요. „존경하는 위원장님…"
+Bine: Sechs Minuten zehn. Klingeling. Zu lang, Derya. Viel zu lang. Die Rückstauklappe war schön. Aber die Zahlen waren langweilig. Ick habe bei der Grunderwerbsteuer an Pommes gedacht. || 6분 10초. 땡땡. 너무 길어, 데르야. 한참 길어. 역류 방지 밸브는 좋았어. 근데 숫자는 지루했어. 부동산 취득세 나올 때 감자튀김 생각했다니까.
+Wojtek: Und ich als Herr Krämer habe bei der Rückstauklappe nicht mehr skeptisch geguckt. Ich habe gedacht: Den Hausmeister will ich auch. Für meine Brücke. || 그리고 크래머 역인 나는 역류 방지 밸브 얘기 나올 때 더 이상 회의적으로 못 쳐다봤어요. 이런 생각이 들더라고요. 나도 그 관리인 있었으면 좋겠다. 내 다리에.
+Edith: Siehst du, Derya. Die Geschichte wirkt. Die Zahlen nicht. Die Zahlen sind für die Akte. Die Geschichte ist für die Menschen. || 봤지, 데르야. 이야기는 통해. 숫자는 안 통하고. 숫자는 서류철용이야. 이야기는 사람용이고.
+Jana: Ich streiche die Grunderwerbsteuer. Und die Zinsen. Und die Quadratmeter. Es bleiben: elfhundertsieben, fünfunddreißig, sieben fünfzig, und vier Tage vor der Frist. Vier Zahlen. Die kann man sich merken. || 부동산 취득세 지울게요. 이자도. 제곱미터도. 남는 건 1,107, 35, 7유로 50, 그리고 기한 나흘 전. 숫자 네 개요. 그건 기억할 수 있어요.
+Derya: Und wenn Herr Krämer nach den Zinsen fragt? || 그런데 크래머 의원님이 이자에 대해 물으면요?
+Jana: Dann antworte ich. Ich sitze hinter dir. Mit dem Laptop. Und mit Frau Schulzes Ordnern. Alle dreizehn. || 그럼 내가 대답할게요. 바로 뒤에 앉아 있을게요. 노트북 들고. 그리고 슐체 부인 서류철이랑요. 열세 개 전부.
+Derya: Noch einmal. Wojtek, bitte skeptisch. || 한 번 더요. 보이텍 씨, 회의적으로요.
+Wojtek: Ich versuche es. Aber Bruno guckt mich an. Er glaubt mir die Skepsis nicht. || 해 볼게요. 그런데 브루노가 날 쳐다보네요. 내 회의적인 표정을 안 믿는대요.
+Bine: Vier Minuten fünfzig. Keine Glocke. Perfekt, Derya. Und ick habe nicht an Pommes gedacht. Nur einmal. Bei den sieben fünfzig. Da ist das normal. || 4분 50초. 종 없음. 완벽해, 데르야. 그리고 감자튀김 생각 안 했어. 딱 한 번. 7유로 50 나올 때. 그땐 원래 그래.
+Kalle: Dann bist du fertig. Und jetzt isst du was. Eine Bulette. Ohne Senf. Wer vor einem Ausschuss spricht, braucht Fleisch. || 그럼 다 됐네. 이제 뭐 좀 먹어. 불레테 하나. 겨자 없이. 위원회 앞에서 말하는 사람은 고기가 필요해.
+Derya: Kalle, ich esse kein Fleisch vor Reden. Davon wird mir schlecht. || 칼레, 나 발표 전엔 고기 안 먹어요. 속이 안 좋아지거든요.
+Kalle: Dann eine Linsenbulette. Wie bei Paul im Juni. Die hat ihm auch Glück gebracht. Fast. || 그럼 렌틸콩 불레테. 6월에 파울한테 줬던 거. 그것도 걔한테 행운을 가져다줬잖아. 거의.
+## Im Flur | 복도에서
+Derya: Fünf Minuten. Ich habe fünf Minuten. Und mein Text ist sieben Minuten lang. Ich habe es gestern Nacht gestoppt. Dreimal. || 오 분이요. 저한테 오 분이 있어요. 그런데 제 원고는 칠 분짜리예요. 어젯밤에 시간 재 봤어요. 세 번이나요.
+Jana: Dann streichen wir. Jetzt. Gib her. Absatz drei. Die Geschichte von der Rückstauklappe. Die ist schön. Aber sie ist zu lang. || 그럼 지워요. 지금. 이리 줘요. 세 번째 단락. 역류 방지 밸브 이야기. 아름답긴 한데 너무 길어요.
+Derya: Die Rückstauklappe ist das Herz der Geschichte! Ohne die Rückstauklappe versteht niemand, warum ein Haus Menschen braucht. Nicht nur eine App. || 역류 방지 밸브가 이 이야기의 심장이에요! 그게 없으면 왜 집에 앱이 아니라 사람이 필요한지 아무도 이해 못 해요.
+Frau Schulze: Dann kürzen Sie die Zahlen. Die Zahlen stehen im Antrag. Die haben die Verordneten gelesen. Oder auch nicht. Aber die Rückstauklappe haben sie nicht gelesen. Die müssen sie hören. || 그럼 숫자를 줄여요. 숫자는 청원서에 있어요. 구의원들이 읽었을 거예요. 아니면 안 읽었거나. 그런데 역류 방지 밸브 이야기는 안 읽었죠. 그건 들어야 해요.
+Kalle: Wie viele sitzen da drin? || 안에 몇 명이나 앉아 있어?
+Jana: Zwölf Verordnete. Die Stadträtin. Frau Dr. Lindner als Verwaltung. Und Zuschauer. Ich habe vorhin reingeguckt. Es sind schon vierzig. Mit Stehplätzen. || 구의원 열두 명. 구청 의원. 행정 쪽으로 린드너 박사. 그리고 방청객. 아까 들여다봤어요. 벌써 마흔 명이에요. 서 있는 사람까지요.
+Can: Vierzig! Wer sind die? || 마흔 명이요! 누군데요?
+Jana: Herr Wollny. Frau Albers. Herr Ahrens aus der Pannierstraße. Die Marktfrau mit ihrer Tochter. Zwei Leute aus der Weserstraße. Und … Herr Brenzel. || 볼니 씨. 알버스 씨. 파니어 거리의 아렌스 씨. 장터 아주머니랑 따님. 베저 거리 사람 둘. 그리고… 브렌첼 씨.
+Frau Schulze: Brenzel? Der nicht unterschrieben hat? || 브렌첼? 서명 안 한 그 사람이요?
+Jana: Er sitzt in der letzten Reihe. Mit verschränkten Armen. || 맨 뒷줄에 앉아 있어요. 팔짱 끼고요.
+Edith: Dann hört er zu. Zum zweiten Mal. Derya, darf ich dir etwas sagen? Als jemand, der fünfundzwanzig Jahre lang vor dem Betriebsrat gesprochen hat? || 그럼 듣고 있는 거네. 두 번째로. 데르야, 한마디 해도 될까? 이십오 년 동안 노사협의회 앞에서 말해 본 사람으로서?
+Derya: Bitte. || 해 주세요.
+Edith: Lies nicht vor. Erzähl. Guck nicht auf das Papier. Guck auf eine Person. Eine einzige. Die, die am skeptischsten guckt. Und rede nur mit ihr. Dann hören dich alle. || 읽지 마. 이야기해. 종이 보지 말고. 사람 한 명을 봐. 딱 한 명. 제일 회의적으로 쳐다보는 사람. 그리고 그 사람한테만 말해. 그러면 모두가 듣게 돼.
+Derya: Die am skeptischsten guckt. Das ist Herr Brenzel. || 제일 회의적으로 쳐다보는 사람. 그건 브렌첼 씨네요.
+Edith: Oder Herr Krämer. Von der Opposition. Frau Lindner hat ihn uns beschrieben. Graue Krawatte. Rechnet alles in Steuergeld. Guck ihn an. Und erzähl ihm von der Rückstauklappe. || 아니면 크래머 씨. 야당 의원. 린드너 박사가 설명해 줬잖아. 회색 넥타이. 뭐든 세금으로 계산하는 사람. 그 사람을 봐. 그리고 그 사람한테 역류 방지 밸브 이야기를 해.
+Can: Mama. Du schaffst das. Lies bis zum Punkt. Und dann hör auf. || 엄마. 엄마는 할 수 있어요. 마침표까지 읽어요. 그리고 거기서 멈춰요.
+Derya: … Bis zum Punkt. Danke, Can. Das ist der beste Rat. || …마침표까지. 고마워, 잔. 그게 제일 좋은 조언이야.
+## Die Rede | 발언
+Frau Demir: Ich eröffne die einhundertzwölfte Sitzung des Ausschusses für Stadtentwicklung. Tagesordnungspunkt drei: Einwohnerantrag „Schutz des Eckhauses am Maybachufer und des Kleingewerbes in sozialen Erhaltungsgebieten". Elfhundertsieben gültige Unterschriften. Für die Vertrauenspersonen hat Frau Yıldız das Wort. Fünf Minuten. Bitte. || 제112차 도시개발 위원회를 개회합니다. 3번 안건, 주민 청원 „마이바흐우퍼 에케하우스 및 주민 구성 보호 구역 내 소상공인 보호". 유효 서명 1,107개. 청원 대표인을 대표해 이을드즈 씨가 발언하겠습니다. 5분입니다. 시작하세요.
+Derya: Sehr geehrte Frau Vorsitzende, sehr geehrte Damen und Herren. Mein Name ist Derya Yıldız. Ich bin Krankenschwester. Und seit Dezember Vorstand einer Genossenschaft. Das hätte ich vor einem Jahr nicht geglaubt. || 존경하는 위원장님, 존경하는 신사 숙녀 여러분. 제 이름은 데르야 이을드즈입니다. 간호사입니다. 그리고 12월부터 협동조합 이사입니다. 일 년 전이었다면 저도 믿지 않았을 겁니다.
+Herr Wollny: Genossenschaft! Sehr gut! || 협동조합! 아주 좋아!
+Frau Demir: Bitte keine Zwischenrufe aus dem Publikum. Auch keine zustimmenden. Frau Yıldız, bitte fahren Sie fort. || 방청석에서 끼어들지 말아 주세요. 찬성하는 말이라도요. 이을드즈 씨, 계속하세요.
+Derya: Herr Krämer, darf ich Ihnen eine Geschichte erzählen? Sie dauert eine Minute. Am zehnten November hat es in Berlin so stark geregnet wie seit Jahren nicht. In unserem Haus lief der Keller voll. Und es regnete in die Küche einer dreiundachtzigjährigen Frau. Die neue Hausverwaltung war eine App. Sie hat uns eine Ticketnummer gegeben. Bearbeitungszeit: fünf bis sieben Werktage. || 크래머 의원님, 이야기 하나 해 드려도 될까요? 일 분이면 됩니다. 11월 10일, 베를린에 몇 년 만에 가장 큰 비가 내렸습니다. 우리 집 지하에 물이 찼습니다. 그리고 여든세 살 할머니 부엌에 비가 샜습니다. 새 관리회사는 앱이었습니다. 우리한테 접수 번호를 주더군요. 처리 기간, 영업일로 5~7일.
+Herr Krämer: Fünf bis sieben Werktage? Bei einem Wasserschaden? || 영업일 5~7일이요? 누수 피해인데요?
+Frau Demir: Herr Krämer, Fragen bitte nach dem Vortrag. Frau Yıldız? || 크래머 의원님, 질문은 발표 뒤에 해 주세요. 이을드즈 씨?
+Derya: Und dann kam ein Mann. Einundsiebzig Jahre alt. Mit dem Bus aus Britz. Der ehemalige Hausmeister. Er wusste, wo die Rückstauklappe ist. Er hatte sie dreißig Jahre lang bei jedem Gewitter zugemacht. Er hat sie wieder zugemacht. In zehn Minuten. Das ist der Unterschied zwischen einem Haus, in dem Menschen wohnen, und einer Kapitalanlage. Die Kapitalanlage hat eine App. Das Haus hat einen Herrn Pietsch. || 그런데 한 남자가 왔습니다. 일흔한 살. 브리츠에서 버스를 타고요. 전직 관리인이었습니다. 그분은 역류 방지 밸브가 어디 있는지 알았습니다. 삼십 년 동안 천둥이 칠 때마다 그걸 잠갔던 분이니까요. 그분이 다시 잠갔습니다. 십 분 만에요. 그게 사람이 사는 집과 투자 자산의 차이입니다. 투자 자산에는 앱이 있습니다. 집에는 피치 씨가 있습니다.
+Frau Albers: Bravo. || 브라보.
+Frau Demir: Frau … aus der dritten Reihe. Bitte. Noch zwei Minuten, Frau Yıldız. || 셋째 줄에 계신… 분. 부탁드려요. 이을드즈 씨, 이 분 남았습니다.
+Derya: Wir haben ein Haus mit fünfunddreißig Mitgliedern. Elf Haushalte. Eine Kneipe, die seit fünfundzwanzig Jahren Mittagessen für sieben Euro fünfzig macht. Eine Fahrradwerkstatt, in der Kinder ihre Räder umsonst flicken lassen. Wir haben eine Bank, eine Stiftung, die Förderung des Landes. Wir haben alle Bedingungen des Bezirks erfüllt. Vier Tage vor der Frist. || 우리 집에는 조합원이 서른다섯 명 있습니다. 열한 가구. 이십오 년째 점심을 7유로 50에 내는 크나이페. 아이들 자전거를 공짜로 고쳐 주는 자전거 공방. 우리에겐 은행이 있고, 재단이 있고, 주정부 지원이 있습니다. 구청의 조건을 모두 채웠습니다. 기한 나흘 전에요.
+Kalle: Sieben fünfzig. Seit fünfundzwanzig Jahren. Det stimmt. || 7유로 50. 이십오 년째. 그거 맞아요.
+Frau Demir: Herr Kowalski. Auch Sie bitte nicht. Noch eine Minute. || 코발스키 씨. 당신도 부탁해요. 일 분 남았습니다.
+Derya: Ich komme zum Schluss. Wir bitten Sie um zwei Dinge. Erstens: Halten Sie am Vorkaufsrecht fest. Vor Gericht. Zweitens: Denken Sie an die anderen Häuser. An die Läden in der Weserstraße. In der Sonnenallee. Die haben keine Genossenschaft. Und keinen Herrn Pietsch. Vielen Dank für Ihre Aufmerksamkeit. || 마무리하겠습니다. 두 가지를 부탁드립니다. 첫째, 선매권을 지켜 주십시오. 법정에서요. 둘째, 다른 집들을 생각해 주십시오. 베저 거리의 가게들. 존넨알레의 가게들. 그곳엔 협동조합이 없습니다. 그리고 피치 씨도 없습니다. 경청해 주셔서 감사합니다.
+Frau Demir: Vier Minuten fünfzig. Danke, Frau Yıldız. Das war … präzise. Ich eröffne die Aussprache. Herr Krämer, bitte. || 4분 50초. 고맙습니다, 이을드즈 씨. 아주… 정확했어요. 질의응답을 시작하겠습니다. 크래머 의원님, 말씀하세요.
+## Die Fragen | 질의
+Herr Krämer: Danke, Frau Vorsitzende. Frau Yıldız, das war eine sehr bewegende Geschichte. Die Rückstauklappe. Wirklich. Aber ich bin nicht hier, um bewegt zu werden. Ich bin hier, um mit Steuergeld verantwortlich umzugehen. Darf ich drei Fragen stellen? || 감사합니다, 위원장님. 이을드즈 씨, 아주 감동적인 이야기였어요. 역류 방지 밸브. 정말로요. 하지만 저는 감동받으러 여기 온 게 아닙니다. 세금을 책임 있게 쓰려고 온 거죠. 질문 세 개 해도 될까요?
+Derya: Bitte. || 하세요.
+Herr Krämer: Erstens: Der Bezirk hat für Sie das Vorkaufsrecht ausgeübt. Wenn das Gericht gegen den Bezirk entscheidet, wer zahlt dann die Kosten? Die Anwälte? Den Schadensersatz für Nordwert? Der Steuerzahler. Zweitens: Wenn wir das für Ihr Haus tun, kommen morgen hundert andere Häuser. Mit hundert anderen Rückstauklappen. Wo ist die Grenze? Drittens: Ist es Aufgabe des Staates, zu entscheiden, wer ein Haus kauft? In einer Marktwirtschaft? || 첫째, 구청이 여러분을 위해 선매권을 행사했습니다. 법원이 구청에 불리한 판결을 내리면 그 비용은 누가 냅니까? 변호사 비용이요? 노르트베르트에 대한 손해 배상이요? 납세자입니다. 둘째, 우리가 여러분 집에 그렇게 해 주면 내일은 다른 집 백 채가 찾아올 겁니다. 다른 역류 방지 밸브 백 개를 들고요. 선은 어디입니까? 셋째, 시장 경제에서 누가 집을 살지 결정하는 게 국가의 일입니까?
+Derya: Sie fragen, wer zahlt, wenn der Bezirk verliert. Darauf möchte ich zwei Dinge antworten. Erstens: Das Prozessrisiko trägt der Bezirk. Das stimmt. Aber Nordwert klagt gegen einen Bescheid, dessen Bedingungen alle erfüllt sind. Unser Anwalt hält die Klage für schwach. Zweitens: Wenn der Bezirk nicht kämpft, zahlt der Steuerzahler auch. Später. Wohngeld. Sozialwohnungen. Pflegeheime für Menschen, die keine Treppen mehr steigen können. Das ist auch Steuergeld. Nur unsichtbarer. || 구청이 지면 누가 내느냐고 물으셨습니다. 두 가지로 답하겠습니다. 첫째, 소송 위험은 구청이 집니다. 맞습니다. 하지만 노르트베르트는 조건이 모두 충족된 결정에 대해 소송을 걸고 있습니다. 저희 변호사는 그 소송이 약하다고 봅니다. 둘째, 구청이 싸우지 않아도 납세자는 돈을 냅니다. 나중에요. 주거 보조금. 공공 임대 주택. 더는 계단을 오를 수 없는 사람들을 위한 요양원. 그것도 세금입니다. 덜 보일 뿐이죠.
+Herr Krämer: Und die hundert anderen Häuser? || 그럼 다른 집 백 채는요?
+Kalle: Darf ich darauf antworten? Kowalski. Vorstand. Kneipe. || 그건 제가 답해도 될까요? 코발스키입니다. 이사고요. 크나이페 주인입니다.
+Frau Demir: Kurz, bitte. || 짧게 해 주세요.
+Kalle: Herr Krämer. Sie haben recht. Morgen kommen hundert andere Häuser. Hoffentlich. Wenn hundert Häuser in Neukölln sich so organisieren wie wir, dann haben Sie in fünf Jahren weniger Wohngeld zu zahlen. Und mehr Kneipen, in denen die Leute nicht allein sind. Det … das ist keine Gefahr. Das ist ein Plan. || 크래머 의원님. 맞는 말씀입니다. 내일 다른 집 백 채가 올 겁니다. 그러길 바랍니다. 노이쾰른의 집 백 채가 우리처럼 조직된다면 오 년 뒤엔 주거 보조금을 덜 내셔도 될 겁니다. 그리고 사람들이 혼자가 아닌 크나이페가 더 많아질 거고요. 그건… 그건 위험이 아니라 계획입니다.
+Herr Krämer: Und meine dritte Frage? Die Marktwirtschaft? || 그럼 제 세 번째 질문은요? 시장 경제는요?
+Frau Okoye: Darf ich dazu etwas sagen, Frau Vorsitzende? Als Verordnete? Herr Krämer, das Vorkaufsrecht steht im Baugesetzbuch. Seit Jahrzehnten. Ein Bundesgesetz. Beschlossen vom Bundestag. Mit Stimmen Ihrer Partei. Es ist Teil der Marktwirtschaft. Der sozialen. || 위원장님, 거기에 대해 제가 한마디 해도 될까요? 구의원으로서요? 크래머 의원님, 선매권은 건축법전에 있습니다. 수십 년 전부터요. 연방 법이에요. 연방 의회가 의결했죠. 의원님 정당의 표도 들어가서요. 그건 시장 경제의 일부입니다. 사회적 시장 경제의요.
+Herr Krämer: … Das ist ein Punkt. Ich gebe Ihnen in diesem Punkt recht. Aber ich habe eine Nachfrage. Zu Punkt zwei des Antrags. Kleingewerbe. Ein Schutz für alle Läden? Das ist ein Eingriff in die Vertragsfreiheit. Das sehe ich skeptisch. || …그건 일리가 있네요. 그 점에서는 동의합니다. 하지만 추가 질문이 있습니다. 청원 2항에 대해서요. 소상공인. 모든 가게를 보호한다고요? 그건 계약 자유에 대한 개입입니다. 회의적으로 봅니다.
+Frau Schulze: Frau Vorsitzende, darf ich einen Brief vorlesen? Zu genau diesem Punkt? Er ist an alle Verordneten gerichtet. Von einer Unterzeichnerin. Mit Bedenken. || 위원장님, 편지 하나 읽어 드려도 될까요? 바로 그 점에 대해서요. 구의원 모두에게 보내는 편지예요. 서명자 한 분이 쓴 거예요. 우려를 담아서요.
+Frau Demir: Ein Brief einer Unterzeichnerin mit Bedenken? Das ist ungewöhnlich. Bitte. Kurz. || 우려를 가진 서명자의 편지요? 드문 일이네요. 읽으세요. 짧게요.
+Frau Schulze: „Sehr geehrte Bezirksverordnete. Ich habe den Einwohnerantrag unterschrieben. Ganz. Obwohl ich bei Punkt zwei Bedenken habe. Ich bin selbst Vermieterin einer Wohnung. Ich habe Angst, dass Schutz für die einen Zwang für die anderen wird. Bitte unterscheiden Sie zwischen einem Fonds mit dreitausend Wohnungen und einer Frau mit einer. Schützen Sie die Kneipe. Aber vergessen Sie nicht die kleinen Vermieter. Wir sind nicht der Markt. Wir sind die Nachbarn. Helga Albers, Neukölln." || „존경하는 구의원 여러분. 저는 주민 청원에 서명했습니다. 전체에요. 2항에는 우려가 있지만요. 저 자신이 집 한 채를 가진 임대인입니다. 누군가를 위한 보호가 다른 누군가에게는 강제가 될까 두렵습니다. 집 삼천 채를 가진 펀드와 집 한 채를 가진 여자를 구분해 주십시오. 크나이페를 지켜 주십시오. 하지만 작은 임대인들도 잊지 말아 주십시오. 우리는 시장이 아닙니다. 우리는 이웃입니다. 헬가 알버스, 노이쾰른."
+Herr Krämer: … Das ist ein kluger Brief. Klüger als meine Frage. Frau Albers, sind Sie hier? || …현명한 편지네요. 제 질문보다 현명합니다. 알버스 씨, 여기 계십니까?
+Frau Schulze: Sie sitzt in der dritten Reihe. Neben Herrn Wollny. Sie nickt. || 셋째 줄에 앉아 계세요. 볼니 씨 옆에요. 고개를 끄덕이시네요.
+## Edith spricht | 에디트가 말하다
+Edith: Frau Vorsitzende. Ich weiß, ich habe kein Rederecht. Ich bin keine Vertrauensperson. Ich bin nur die dreiundachtzigjährige Frau. Mit der Küche. Darf ich trotzdem einen Satz sagen? Einen einzigen? || 위원장님. 내가 발언권이 없는 거 알아요. 청원 대표인도 아니고요. 그냥 그 여든세 살 할머니예요. 부엌에 비 샜던. 그래도 한 문장만 말해도 될까요? 딱 한 문장만요?
+Frau Demir: … Frau Krüger, nehme ich an? Laut Geschäftsordnung … Na ja. Die Geschäftsordnung sagt nichts über dreiundachtzigjährige Frauen mit Küchen. Ein Satz. Ich erteile Ihnen das Wort. || …크뤼거 부인이시죠? 의사 규칙에 따르면… 뭐. 의사 규칙엔 부엌 있는 여든세 살 할머니에 대한 조항이 없네요. 한 문장이요. 발언권을 드리겠습니다.
+Edith: Danke. Herr Krämer, ich war fünfundzwanzig Jahre Busfahrerin bei der BVG. Ich habe in dieser Zeit ungefähr eine Million Menschen durch Neukölln gefahren. Ich habe sie nie gefragt, woher sie kommen. Ich habe sie nur gefragt, wo sie aussteigen wollen. Und dann habe ich gehalten. Jetzt bitte ich Sie: Halten Sie. Hier. An unserer Haltestelle. Das war der Satz. || 고마워요. 크래머 의원님, 나는 이십오 년 동안 BVG 버스 기사였어요. 그동안 노이쾰른에서 백만 명쯤 태웠을 거예요. 어디서 왔냐고는 한 번도 안 물었어요. 어디서 내리고 싶냐고만 물었죠. 그리고 거기서 세워 줬어요. 이제 부탁할게요. 세워 주세요. 여기서요. 우리 정류장에서요. 그게 그 한 문장이에요.
+Frau Demir: Das waren … sechs Sätze, Frau Krüger. || 그건… 여섯 문장이었어요, 크뤼거 부인.
+Edith: Ich war Busfahrerin. Keine Mathematikerin. Ich hatte eine Fünf. Neunzehnhundertsiebenundfünfzig. || 나는 버스 기사였어요. 수학자가 아니라. 1957년엔 수학 5점이었고요.
+Herr Krämer: Frau Krüger. Ich bin neunzehnhundertvierundachtzig mit der Linie neunzehn zur Schule gefahren. Vom Hermannplatz. Jeden Morgen. Um sieben. Saßen Sie da am Steuer? || 크뤼거 부인. 저는 1984년에 19번 버스로 학교에 다녔어요. 헤르만 광장에서요. 매일 아침. 일곱 시에요. 그때 운전석에 앉아 계셨나요?
+Edith: Neunzehnhundertvierundachtzig? Frühschicht auf der Neunzehn? Ja. Das war ich. Ab Herbst. Waren Sie der Junge, der immer hinten saß? Mit dem Walkman? Und nie „Guten Morgen" gesagt hat? || 1984년이요? 19번 아침 근무요? 네. 나였어요. 가을부터요. 혹시 늘 뒤에 앉던 그 남자애였어요? 워크맨 끼고? 한 번도 ‚좋은 아침이에요' 안 하던?
+Herr Krämer: … Ich hatte einen Walkman. Ja. Und ich habe nie „Guten Morgen" gesagt. Ich war vierzehn. Ich war ein Idiot. || …워크맨 있었죠. 네. 그리고 한 번도 ‚좋은 아침이에요' 안 했어요. 열네 살이었거든요. 바보였죠.
+Edith: Dann sagen Sie es jetzt. Zweiundvierzig Jahre später. Das reicht mir. || 그럼 지금 하세요. 사십이 년 늦게. 그거면 충분해요.
+Herr Krämer: … Guten Morgen, Frau Krüger. || …좋은 아침입니다, 크뤼거 부인.
+Edith: Guten Abend, Herr Krämer. Es ist achtzehn Uhr dreiundvierzig. Aber ich nehme es an. || 좋은 저녁이에요, 크래머 의원님. 지금 열여덟 시 사십삼 분이거든요. 그래도 받아들일게요.
+## Die Abstimmung | 표결
+Frau Demir: Ich danke allen. Bevor wir abstimmen: Frau Stadträtin Brandl möchte eine Stellungnahme abgeben. Für das Bezirksamt. || 모두 감사합니다. 표결 전에, 브란들 구청 의원께서 의견을 밝히시겠습니다. 구청을 대표해서요.
+Stadträtin Brandl: Danke. Ich mache es kurz. Das Bezirksamt hält am Vorkaufsrecht fest. Das war schon vor diesem Antrag unsere Position. Aber dieser Antrag gibt uns etwas, das wir vor Gericht brauchen: den Nachweis, dass hier nicht nur ein Haus, sondern eine Nachbarschaft betroffen ist. Elfhundertsieben Menschen. Das werden wir dem Gericht vorlegen. || 감사합니다. 짧게 하겠습니다. 구청은 선매권을 유지합니다. 그건 이 청원 이전부터 우리 입장이었습니다. 하지만 이 청원은 우리가 법정에서 필요로 하는 것을 줍니다. 여기서 문제가 되는 게 집 한 채가 아니라 하나의 동네라는 증거요. 1,107명. 그걸 법원에 제출하겠습니다.
+Dr. Lindner: Zu Punkt zwei, Frau Vorsitzende: Die Verwaltung prüft bereits ein Gewerbemietenkataster. Und einen Runden Tisch mit kleinen Vermietern. Frau Albers, wenn Sie mögen, laden wir Sie ein. || 2항에 대해서요, 위원장님. 행정부는 이미 상가 임대료 대장을 검토 중입니다. 그리고 소규모 임대인들과의 원탁회의도요. 알버스 씨, 괜찮으시면 초대하겠습니다.
+Frau Demir: Dann stimmen wir ab. Beschlussempfehlung an die Bezirksverordnetenversammlung: Annahme des Einwohnerantrags. Wer ist dafür? || 그럼 표결하겠습니다. 구의회 본회의에 대한 권고안: 주민 청원 채택. 찬성하시는 분?
+Frau Okoye: Sieben. || 일곱 명이요.
+Frau Demir: Wer ist dagegen? … Drei. Enthaltungen? … Zwei. Herr Krämer enthält sich. Die Beschlussempfehlung ist angenommen. Die Bezirksverordnetenversammlung berät am elften März. || 반대하시는 분? …세 명. 기권? …두 명. 크래머 의원 기권하셨네요. 권고안은 채택됐습니다. 구의회 본회의는 3월 11일에 심의합니다.
+Can: Herr Krämer hat sich enthalten! Nicht dagegen! Edith! Er hat sich enthalten! || 크래머 의원님이 기권했어요! 반대 안 했어요! 에디트 할머니! 기권했어요!
+Edith: Ich habe es gesehen. Das ist bei einem Mann mit Walkman viel. || 봤어. 워크맨 끼던 남자한테 그건 큰 거야.
+Herr Krämer: Frau Krüger. Ich enthalte mich nicht wegen Ihnen. Sondern wegen Frau Albers. Punkt zwei braucht noch Arbeit. Punkt eins … Punkt eins hätte ich unterstützt. Allein. || 크뤼거 부인. 부인 때문에 기권한 게 아닙니다. 알버스 씨 때문이에요. 2항은 아직 손볼 게 있어요. 1항은… 1항만 따로였다면 찬성했을 겁니다.
+Frau Demir: Die Sitzung ist geschlossen. Neunzehn Uhr sieben. || 회의를 마치겠습니다. 열아홉 시 칠 분.
+Frau Schulze: Neunzehn Uhr sieben. Protokolliert. Nein. Nicht protokolliert. Gemerkt. Das ist erlaubt. || 열아홉 시 칠 분. 기록. 아니. 기록 안 함. 기억함. 그건 허락되죠.
+## Ein Anruf | 전화 한 통
+Herr Brückner: Entschuldigung. Mein Telefon. Unbekannte Nummer. Hamburger Vorwahl. Brückner? … Ja. … Ja, ich bin der Anwalt der Genossenschaft. … Verstehe. … Wann? … Ich muss das mit dem Vorstand besprechen. … Ich melde mich morgen. || 죄송합니다. 제 전화예요. 모르는 번호. 함부르크 지역 번호네요. 브뤼크너입니다? …네. …네, 협동조합 변호사입니다. …알겠습니다. …언제요? …이사회와 상의해야 합니다. …내일 연락드리죠.
+Kalle: Wer war das? || 누구였어요?
+Herr Brückner: Dr. Falk. Nordwerts Anwalt. Aus Hamburg. Er saß offenbar im Zuschauerraum. Oder jemand von ihm. Er hat gesagt: Seine Mandantin ist zu einem Gespräch bereit. Diesmal wirklich. Mit einem konkreten Angebot. Er hat gesagt: „Die heutige Sitzung hat die Lage verändert." || 팔크 박사요. 노르트베르트 변호사요. 함부르크에서요. 방청석에 앉아 있었나 봐요. 아니면 그쪽 사람이 있었거나. 그러더군요. 자기 의뢰인이 대화할 준비가 됐다고. 이번엔 진짜로요. 구체적인 제안을 들고요. 이렇게 말했어요. „오늘 회의가 상황을 바꿨습니다."
+Jana: Ein konkretes Angebot. Was für ein Angebot? || 구체적인 제안이라. 어떤 제안인데요?
+Herr Brückner: Das hat er nicht gesagt. Nur, dass Herr Dr. Albrecht persönlich kommt. Nächste Woche. Und dass es „für beide Seiten akzeptabel" sein soll. || 그건 말 안 했어요. 알브레히트 박사가 직접 온다는 것만. 다음 주에요. 그리고 그게 „양쪽 모두에게 받아들일 만한" 거라고요.
+Frau Schulze: Für beide Seiten akzeptabel. Das sagen Anwälte, wenn eine Seite verliert. Und noch nicht weiß, welche. || 양쪽 모두에게 받아들일 만한. 변호사들이 그렇게 말할 땐 한쪽이 지는 거예요. 그리고 아직 어느 쪽인지 모르는 거고요.
+Derya: Nächste Woche. Am dreiundzwanzigsten ist Cans Probeunterricht. Ich will nicht, dass das am selben Tag ist. || 다음 주라. 23일이 잔 시험 수업이에요. 같은 날은 안 됐으면 좋겠어요.
+Herr Brückner: Dann sage ich: am fünfundzwanzigsten. Donnerstag. Und Can macht am Dienstag seinen Probeunterricht. Ohne Nordwert im Kopf. || 그럼 25일로 하자고 할게요. 목요일이요. 그리고 잔은 화요일에 시험 수업을 보면 되죠. 노르트베르트 생각 없이요.
+Can: Ich habe Nordwert nicht im Kopf. Ich habe nur den Punkt im Kopf. Und Herrn Krämer, der Guten Morgen gesagt hat. Am Abend. || 저 노르트베르트 생각 안 해요. 마침표 생각만 해요. 그리고 저녁에 좋은 아침이라고 인사한 크래머 아저씨 생각도요.
+Edith: Kalle, wer saß da hinten in der letzten Reihe? Ist er geblieben? Bis zum Ende? || 칼레, 저 뒤 맨 뒷줄에 누가 앉아 있었지? 끝까지 남았어?
+Kalle: Brenzel? Er ist gerade rausgegangen. Er hat mir zugenickt. Einmal. Mit verschränkten Armen. Aber er hat genickt. || 브렌첼? 방금 나갔어. 나한테 고개를 끄덕였어. 한 번. 팔짱 낀 채로. 그래도 끄덕였어.
+Edith: Dann war es ein guter Abend. Zwei Männer, die sich bewegt haben. Einer hat Guten Morgen gesagt. Einer hat genickt. In Neukölln ist das eine Revolution. || 그럼 좋은 저녁이었네. 남자 둘이 움직였잖아. 하나는 좋은 아침이라고 인사했고. 하나는 고개를 끄덕였고. 노이쾰른에선 그게 혁명이야.
+## Vor dem Rathaus | 구청 앞에서
+Herr Wollny: Frau Yıldız! Das war eine gute Rede. Besser als alles, was ich in vierzig Jahren in der Genossenschaftsversammlung gehört habe. Und da wurde viel geredet. Meistens über Heizkörper. || 이을드즈 씨! 좋은 연설이었소. 내가 사십 년 동안 조합 총회에서 들은 어떤 것보다 나았소. 거기선 말이 엄청 많았거든. 대부분 라디에이터 얘기였지만.
+Derya: Danke, Herr Wollny. Ich war so nervös. Ich habe die ganze Zeit Herrn Krämer angeguckt. Wie Edith gesagt hat. || 고마워요, 볼니 씨. 엄청 떨렸어요. 내내 크래머 의원님만 쳐다봤어요. 에디트가 그러라고 해서요.
+Frau Albers: Und ich wurde zu einem Runden Tisch eingeladen. Ich. Mit meiner einen Wohnung. Weil ich einen Brief geschrieben habe. Mit Bedenken. Das hätte ich nie gedacht. || 그리고 나는 원탁회의에 초대받았어요. 내가요. 집 한 채 가진 내가요. 우려를 담은 편지를 썼다는 이유로요. 생각도 못 했어요.
+Frau Schulze: Bedenken sind wertvoll, Frau Albers. Wenn man sie aufschreibt. Mündliche Bedenken sind Gemecker. Schriftliche Bedenken sind Politik. || 우려는 소중해요, 알버스 씨. 적어 둔다면요. 말로 하는 우려는 투덜거림이고. 글로 쓴 우려는 정치예요.
+Herr Krämer: Frau Krüger? Haben Sie einen Moment? || 크뤼거 부인? 잠깐 시간 있으세요?
+Edith: Für einen ehemaligen Fahrgast immer. Was gibt es? || 옛 승객이라면 언제든지요. 무슨 일이에요?
+Herr Krämer: Ich wollte mich entschuldigen. Für neunzehnhundertvierundachtzig. Und für meine Frage heute. Die mit dem Steuergeld. Meine Mutter hat dreißig Jahre in einer Wohnung in der Hobrechtstraße gewohnt. Zweitausendneunzehn musste sie raus. Eigenbedarf. Sie lebt jetzt in Brandenburg. Sie ist sehr allein. || 사과하고 싶었어요. 1984년 일에 대해서요. 그리고 오늘 제 질문에 대해서도요. 세금 얘기 말이에요. 우리 어머니가 호브레히트 거리 집에서 삼십 년을 사셨어요. 2019년에 나가셔야 했죠. 집주인 실거주 때문에요. 지금은 브란덴부르크에 사세요. 아주 외로우세요.
+Edith: Und trotzdem haben Sie gefragt, wer bezahlt. || 그런데도 누가 내느냐고 물으셨네요.
+Herr Krämer: Gerade deshalb. Ich weiß, wie es ist, wenn man verliert. Ich will nicht, dass der Bezirk verliert. Und dann alle anderen auch. Ich bin skeptisch, weil ich will, dass es hält. Nicht, weil ich will, dass es bricht. || 바로 그래서요. 잃는 게 어떤 건지 알거든요. 구청이 지고 나서 나머지 모두까지 지는 건 원치 않아요. 저는 그게 버티길 바라서 회의적인 거예요. 깨지길 바라서가 아니라.
+Edith: Wie das Eis. Man misst. Bevor man drauf geht. Herr Dietz hätte Sie gemocht. || 얼음처럼요. 올라가기 전에 재 보는 거죠. 디츠 씨가 당신을 좋아했을 거예요.
+Herr Krämer: Wer ist Herr Dietz? || 디츠 씨가 누구예요?
+Edith: Ein Mann mit einem Bohrer. Kommen Sie zum Fest. Dann stelle ich Sie vor. Und Ihre Mutter. Bringen Sie sie mit. Aus Brandenburg. Sie bekommt einen Platz am Ofen. Neben mir. || 드릴 든 남자예요. 잔치에 오세요. 그때 소개해 드릴게요. 그리고 어머님도요. 모시고 오세요. 브란덴부르크에서요. 난로 옆에 자리 드릴게요. 내 옆에요.
+Herr Krämer: … Das mache ich. Wenn es ein Fest gibt. || …그럴게요. 잔치가 열린다면요.
+Edith: Es gibt eins. Fast sicher. Wahrscheinlich. Vielleicht. Ich habe gelernt, vorsichtig zu sein. Von Herrn Dietz. || 열릴 거예요. 거의 확실히. 아마도. 어쩌면요. 조심하는 법을 배웠거든요. 디츠 씨한테서요.
+Herr Ahrens: Frau Kowalski? Ahrens. Pannierstraße. Ich habe den Link angeklickt. Ich zeichne. Zweitausend. Investierendes Mitglied. Ich habe heute zum ersten Mal verstanden, wofür. || 코발스키 씨? 아렌스예요. 파니어 거리요. 링크 눌렀어요. 출자할게요. 이천 유로. 투자 조합원으로요. 오늘 처음으로 그게 뭘 위한 건지 이해했어요.
+Jana: Zweitausend. Danke, Herr Ahrens. Dann fehlen nur noch achtzigtausend. Für den Zwischenkredit. Bis Juni. || 이천. 고마워요, 아렌스 씨. 그럼 과도 대출 갚으려면 이제 팔만만 남았네요. 6월까지요.
+Kalle: Achtzigtausend. Bis Juni. Bei sieben fünfzig pro Currywurst sind das … || 팔만이라. 6월까지. 커리부어스트 하나에 7유로 50이면 그건…
+Can: Zehntausendsechshundertsiebenundsechzig Currywürste. Ungefähr. Ich habe bis zum Punkt gelesen. || 커리부어스트 만 육백육십칠 개요. 대략요. 마침표까지 읽었어요.
+Kalle: Zehntausend Currywürste. Bis Juni. Det schaffe ick nicht allein. Nicht mal mit Jana. || 커리부어스트 만 개라. 6월까지. 나 혼자선 못 해. 야나가 있어도.
+Jana: Deshalb machen wir eine Party, Papa. Eine Soli-Party. In der Ecke. Im März. Mit Max als DJ. Er hat es versprochen. || 그래서 파티를 하는 거예요, 아빠. 연대 파티요. 크나이페에서요. 3월에요. 막스가 디제이로요. 약속했잖아요.
+Kalle: Eine Soli-Party. Dann hole ick die Glocke. Für die letzte Runde. Und für die erste. || 연대 파티라. 그럼 종을 꺼내 와야겠네. 마지막 주문용으로. 그리고 첫 주문용으로도.
