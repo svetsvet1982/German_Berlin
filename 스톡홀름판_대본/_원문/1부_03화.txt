@@ -1,0 +1,266 @@
+PART: 1
+EP: 3
+TITLE: Beskedet klockan åtta
+SUBTITLE: 여덟 시의 통지 · 사건 2 도입, Södermalm의 작은 사무실
+META: 대사 120턴 · 난이도 B1 · 배경: 저녁 여덟 시부터 자정을 지나 새벽까지, Södermalm 사무실과 Vårberg
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: STRINDBERG | 부활한 작가 (1849–1912)
+CAST: GUNNEL | 전 SL 버스기사 노조 대표 · Vårberg 주민 (가상)
+CAST: PER | Vårberg 세입자 · 두 아이의 아버지 (가상)
+NOTE: ※ 밤 여덟 시, Vårberg의 Jansson 가족이 내일 아침 아홉 시에 강제 퇴거(avhysning)된다는 소식이 옵니다. 스웨덴에서 퇴거는 집행청 Kronofogden이 집행하고, 아이가 있는 집이면 사회복지 당국(socialtjänsten)에 알립니다. 집행을 멈추려면 법원에 집행정지(inhibition)를 신청하거나, 체납액을 모두 갚아 집주인이 집행 신청을 거두게(återkalla) 해야 합니다. Johan은 서류를, Daniel은 진단서를, Maja는 금액을, Anton은 시간표를 맡아 밤새 준비합니다. 표현 초점: 긴급 상황 어휘 — avhysning, Kronofogden, hyresskuld, inhibition, intyg.
+
+# 도입 — EN LUGN KVÄLL
+BIGGAN: Klockan åtta på kvällen. Lugnt i dag. Äntligen.
+= 저녁 여덟 시. 오늘은 조용하네. 드디어.
+MAJA: Nordhem svarade i dag. De drar tillbaka höjningen tills vidare.
+= 오늘 노르드헴에서 답이 왔어. 인상을 일단 철회한대.
+ELSA: Tills vidare? Ursäkta, vad betyder det?
+= 일단이요? 실례지만, 그게 무슨 뜻이에요?
+JOHAN: Att de kan försöka igen senare. Men då via hyresnämnden.
+= 나중에 다시 시도할 수 있다는 뜻이야. 하지만 그땐 임대심판위원회를 거쳐서.
+ANTON: Det är en vinst. Ska vi fira?
+= 그건 승리잖아. 축하할까?
+DANIEL: Jag har nattpass om tre timmar. Jag firar med vatten.
+= 나 세 시간 뒤에 야간 근무야. 물로 축하할게.
+BIGGAN: Jag har kanelbullar kvar. De firar alltid.
+= 시나몬번이 남았어. 걔들은 언제나 축하하지.
+ELSA: Jag har aldrig ätit så många bullar som sedan jag började här.
+= 여기서 일하고부터 이렇게 많은 번을 먹은 건 처음이에요.
+BIGGAN: Du är för smal för Stockholm, gumman. Här blir det mörkt klockan tre.
+= 넌 스톡홀름치고 너무 말랐어, 얘야. 여긴 세 시면 어두워져.
+ELSA: I Kiruna är det mörkt hela dagen snart. Jag är van.
+= 키루나는 곧 하루 종일 어두워요. 전 익숙해요.
+MAJA: Vad är det där för ljud? Någon springer i trappan.
+= 저게 무슨 소리지? 누가 계단을 뛰어 올라와.
+STRINDBERG: Grannar! Vakna! Det är ingen tid för bullar!
+= 이웃들이여! 깨어나시오! 번 먹을 때가 아니오!
+ANTON: Herr Strindberg? Det är halv nio på kvällen.
+= 스트린드베리 님? 저녁 여덟 시 반이에요.
+STRINDBERG: Tiden är just problemet. I morgon klockan nio kommer Kronofogden.
+= 시간이 바로 문제요. 내일 아침 아홉 시에 Kronofogden이 온다고.
+ELSA: Ursäkta, vem är Kronofogden?
+= 실례지만, Kronofogden이 누구예요?
+JOHAN: Ingen person. En myndighet. De driver in skulder och gör avhysningar.
+= 사람이 아니야. 기관이야. 빚을 받아 내고 퇴거를 집행해.
+ELSA: Avhysning… som att någon måste flytta ut?
+= 퇴거… 누가 집에서 나가야 한다는 거요?
+STRINDBERG: Som att en familj står på gatan i november. Med två barn.
+= 한 가족이 11월에 길바닥에 선다는 거요. 아이 둘과 함께.
+BIGGAN: Vem då, August?
+= 누군데, 아우구스트?
+STRINDBERG: Familjen Jansson i Vårberg. Gunnel ringde mig. Hon är på väg hit med pappan.
+= Vårberg의 얀손 가족이오. 군넬이 전화했소. 그 아버지를 데리고 이리 오는 중이오.
+DANIEL: Hur gamla är barnen?
+= 아이들은 몇 살이에요?
+STRINDBERG: Sju och elva. Den lilla har astma.
+= 일곱 살과 열한 살. 작은 애는 천식이 있소.
+
+# 장면 1 — FAMILJEN JANSSON
+GUNNEL: Hej. Förlåt att vi kommer så sent. Det här är Per.
+= 안녕하세요. 이렇게 늦게 와서 미안해요. 이쪽은 페르예요.
+PER: Hej. Jag… jag vet inte varför jag är här egentligen.
+= 안녕하세요. 저… 사실 제가 왜 여기 있는지 모르겠어요.
+BIGGAN: Du är här för att äta en bulle och berätta. Sätt dig.
+= 번 하나 먹고 얘기하러 온 거야. 앉아.
+JOHAN: Per, jag heter Johan. Jag är advokat. Ett steg i taget. Vad har hänt?
+= 페르, 저는 요한이에요. 변호사예요. 한 걸음씩 가요. 무슨 일이 있었어요?
+PER: Jag förlorade jobbet på lagret i våren. Sen slutade jag betala hyran.
+= 봄에 물류창고 일자리를 잃었어요. 그 뒤로 월세를 못 냈어요.
+MAJA: Hur många månader?
+= 몇 달이요?
+PER: Tre. Kanske fyra. Jag öppnade inte breven.
+= 세 달이요. 어쩌면 네 달. 편지를 안 열어 봤어요.
+ELSA: Varför öppnade du inte breven?
+= 왜 편지를 안 여셨어요?
+PER: För att jag visste vad som stod i dem.
+= 거기 뭐라고 적혀 있는지 알았으니까요.
+DANIEL: Det är vanligare än man tror, Per. Hur har du sovit i höst?
+= 생각보다 흔한 일이에요, 페르. 올가을에 잠은 어떻게 잤어요?
+PER: Inte så mycket. Jag ligger mest och tittar i taket.
+= 별로요. 주로 누워서 천장만 봐요.
+DANIEL: Har du träffat en läkare?
+= 의사를 만난 적 있어요?
+PER: Nej. Vårdcentralen har ingen tid förrän i januari.
+= 아뇨. 진료소에 1월까지 빈 시간이 없대요.
+GUNNEL: Jag har känt Per i tio år. Han har aldrig missat en hyra förut. Aldrig.
+= 전 페르를 10년 동안 알았어요. 전엔 월세를 한 번도 거른 적이 없어요. 한 번도.
+JOHAN: Har du papperen från Kronofogden med dig?
+= Kronofogden에서 온 서류 갖고 왔어요?
+PER: Här. Gunnel hittade dem i hallen. Under reklamen.
+= 여기요. 군넬이 현관에서 찾았어요. 광고 전단 밑에서요.
+JOHAN: ”Avhysning verkställs den tjugotredje november klockan nio.” Det är i morgon.
+= ‘퇴거는 11월 23일 아홉 시에 집행됨.’ 내일이네요.
+ANTON: Det är tolv timmar och trettio minuter kvar.
+= 12시간 30분 남았어.
+MAJA: Vad är hyran, Per?
+= 월세가 얼마예요, 페르?
+PER: Niotusen åttahundra.
+= 9,800이요.
+MAJA: Fyra månader blir trettioniotusen tvåhundra. Plus kostnader. Kanske fyrtiotvåtusen.
+= 네 달이면 39,200. 거기에 비용까지. 아마 42,000쯤.
+PER: Jag har tretusen på kontot.
+= 계좌에 3,000 있어요.
+ELSA: Ursäkta, vem är hyresvärden?
+= 실례지만, 집주인이 누구예요?
+PER: Vårbergshem. Ett litet bolag. De är inte elaka, de är bara… trötta på mig.
+= 바르베리헴이요. 작은 회사예요. 나쁜 사람들은 아니에요, 그냥… 저한테 지친 거죠.
+STRINDBERG: Ingen är elak. Alla är bara trötta. Så börjar varje tragedi.
+= 아무도 악하지 않소. 다들 그저 지쳤을 뿐. 모든 비극은 그렇게 시작하지.
+BIGGAN: Det är synd om människorna, sa du en gång, August.
+= ‘인간이란 가엾은 존재다’, 당신이 언젠가 그렇게 말했지, 아우구스트.
+STRINDBERG: Jag sa det. Jag menar det fortfarande. Men i kväll gör vi något åt det.
+= 내가 말했지. 지금도 그렇게 생각하오. 하지만 오늘 밤엔 그것에 대해 뭔가 할 거요.
+JOHAN: Barnen, Per. Var är de nu?
+= 아이들은요, 페르. 지금 어디 있어요?
+PER: Hos min syster i Fruängen. De vet ingenting.
+= 프루엥엔에 있는 제 여동생 집에요. 애들은 아무것도 몰라요.
+DANIEL: Bra. Då har vi en natt.
+= 좋아요. 그럼 우리에겐 하룻밤이 있어요.
+
+# 장면 2 — ANSÖKAN OM INHIBITION
+ANTON: Okej. Vi har tolv timmar. Vem gör vad?
+= 좋아. 12시간 있어. 누가 뭘 해?
+JOHAN: Jag skriver en ansökan om inhibition till tingsrätten. De kan stoppa avhysningen tillfälligt.
+= 나는 지방법원에 집행정지 신청서를 쓸게. 법원이 퇴거를 임시로 멈출 수 있어.
+ELSA: Inhibition. Ursäkta, betyder det paus?
+= 집행정지. 실례지만, 그건 ‘일시 정지’라는 뜻이에요?
+JOHAN: Ungefär. En paus tills domstolen har tittat på saken.
+= 대략. 법원이 사건을 들여다볼 때까지의 정지야.
+DANIEL: Jag skriver ett intyg. Pers hälsa och Linneas astma. Jag kan ringa en kollega i natt.
+= 난 진단서를 쓸게. 페르의 건강이랑 리네아의 천식. 오늘 밤 동료한테 전화할 수 있어.
+MAJA: Jag räknar exakt hur mycket som saknas. På kronan.
+= 난 정확히 얼마가 모자라는지 계산할게. 1크로나 단위까지.
+ANTON: Och jag gör en tidsplan. Vad måste vara klart när?
+= 그리고 난 시간 계획을 짤게. 뭐가 언제까지 끝나야 하는지.
+ELSA: Och jag?
+= 그럼 저는요?
+JOHAN: Du ringer socialtjänsten. Det finns en jour på natten. Säg att det gäller barn.
+= 사회복지 당국에 전화해. 밤에도 당직이 있어. 아이들 일이라고 말해.
+ELSA: Jag har aldrig ringt socialtjänsten.
+= 사회복지 당국에 전화해 본 적이 없어요.
+GUNNEL: Jag sitter bredvid dig. Jag har ringt dit hundra gånger för andra.
+= 내가 옆에 앉아 있을게. 난 다른 사람들 대신 백 번은 거기 전화했어.
+PER: Varför gör ni det här? Ni känner mig inte.
+= 왜 이런 걸 해 주세요? 절 모르시잖아요.
+BIGGAN: Gunnel känner dig. Det räcker för oss.
+= 군넬이 널 알잖아. 우리한텐 그거면 충분해.
+MAJA: Pengarna är den svåra delen. Inhibitionen är inte säker.
+= 돈이 어려운 부분이야. 집행정지는 확실하지 않아.
+JOHAN: Det stämmer. Om hela skulden betalas kan Vårbergshem återkalla sin ansökan. Det är säkrast.
+= 맞아. 빚을 전부 갚으면 바르베리헴이 신청을 거둘 수 있어. 그게 제일 확실해.
+ELSA: Återkalla. Det betyder ta tillbaka?
+= 거두다. 그건 되돌린다는 뜻이에요?
+JOHAN: Precis.
+= 바로 그거야.
+GUNNEL: Hur mycket fattas, Maja?
+= 얼마가 모자라요, 마야?
+MAJA: Fyrtiotvåtusen minus tretusen. Trettioniotusen kronor.
+= 42,000 빼기 3,000. 39,000크로나.
+PER: Det har ingen i Vårberg.
+= 바르베리에 그런 돈 가진 사람 없어요.
+GUNNEL: Ingen ensam. Men vi är fyrahundra lägenheter.
+= 혼자서는 아무도 없지. 하지만 우린 400세대야.
+STRINDBERG: Ge mig papper och penna. Jag skriver ett upprop.
+= 종이와 펜을 주시오. 호소문을 쓰겠소.
+ANTON: Papper? Vi gör en Swish-insamling. En länk i Facebookgruppen.
+= 종이요? Swish 모금을 하자. 페이스북 그룹에 링크 올리고.
+GUNNEL: Båda. De unga har Swish. De gamla läser lappar i tvättstugan.
+= 둘 다. 젊은 사람들은 Swish가 있고. 나이 든 사람들은 세탁실 쪽지를 읽어.
+STRINDBERG: Jag har skrivit om Stockholm i fyrtio år. Nu skriver jag till Vårberg.
+= 난 40년 동안 스톡홀름에 대해 썼소. 이제 바르베리를 향해 쓰겠소.
+BIGGAN: Kort, August. Inte ett drama i fem akter.
+= 짧게, 아우구스트. 5막짜리 연극 말고.
+STRINDBERG: Tre meningar. Jag lovar. Kanske fyra.
+= 세 문장이오. 약속하오. 어쩌면 네 문장.
+ELSA: Jag hjälper till att sätta upp lapparna. Jag har ändå inte ringt klart.
+= 쪽지 붙이는 거 제가 도울게요. 어차피 전화도 아직 다 못 했어요.
+
+# 절정 — MIDNATT
+ANTON: Midnatt. Status, alla.
+= 자정. 다들 현황 보고.
+JOHAN: Ansökan om inhibition är skickad. Tingsrätten öppnar klockan åtta.
+= 집행정지 신청서 보냈어. 지방법원은 여덟 시에 열어.
+DANIEL: Intyget är klart. Dr Lind på Södersjukhuset har skrivit om Linneas astma.
+= 진단서 끝났어. 쇠데르 병원 린드 선생님이 리네아의 천식에 대해 써 줬어.
+ELSA: Socialtjänsten vet. De ringer Per klockan sju. De sa att de inte vill att barn hamnar på gatan.
+= 사회복지 당국이 알아요. 일곱 시에 페르한테 전화한대요. 아이들이 길에 나앉는 건 원치 않는대요.
+GUNNEL: Elsa var jättebra. Hon frågade allt två gånger.
+= 엘사 정말 잘했어요. 모든 걸 두 번씩 물어봤어요.
+ELSA: Jag förstod inte allt första gången.
+= 처음엔 다 못 알아들었거든요.
+MAJA: Swish-insamlingen. Elvatusen fyrahundra kronor. Från sextiotre personer.
+= Swish 모금. 11,400크로나. 63명이 보냈어.
+PER: Sextiotre? Jag känner kanske tio av dem.
+= 63명이요? 제가 아는 사람은 열 명쯤일 텐데요.
+STRINDBERG: Du känner dem nu. Jag satte lappar i alla tvättstugor.
+= 이제 아는 사람들이오. 내가 모든 세탁실에 쪽지를 붙였소.
+ELSA: Vad stod det på lapparna, herr Strindberg?
+= 쪽지에 뭐라고 쓰셨어요, 스트린드베리 님?
+STRINDBERG: ”En granne ska ut i morgon. Två barn. Ge vad du kan. Inte i morgon – i natt.”
+= ‘이웃 한 명이 내일 쫓겨납니다. 아이 둘. 할 수 있는 만큼 주십시오. 내일이 아니라 오늘 밤.’
+BIGGAN: Fyra meningar. Han höll nästan sitt löfte.
+= 네 문장. 거의 약속을 지켰네.
+ANTON: Det fattas fortfarande tjugosjutusen sexhundra.
+= 아직 27,600이 모자라.
+MAJA: Och de flesta sover nu.
+= 그리고 대부분 지금 자고 있어.
+GUNNEL: Inte bussförarna. Nattlinjerna går. Jag har ett nummer till var och en.
+= 버스기사들은 안 자. 야간 노선이 다니거든. 한 명 한 명 번호 다 있어.
+ELSA: Ursäkta, var du busschaufför, Gunnel?
+= 실례지만, 군넬은 버스기사였어요?
+GUNNEL: I trettio år. Och facklig ordförande i tolv. Man glömmer inte hur man ringer folk mitt i natten.
+= 30년 동안. 그리고 노조 위원장을 12년. 한밤중에 사람들한테 전화하는 법은 안 잊어버려.
+PER: Jag vet inte hur jag ska kunna betala tillbaka.
+= 이걸 어떻게 갚아야 할지 모르겠어요.
+DANIEL: Först ska du sova lite. Sen pratar vi om ett nytt jobb. Och en läkare.
+= 먼저 좀 자요. 그다음에 새 일자리 얘기하고. 그리고 의사도.
+PER: Jag kan inte sova i natt.
+= 오늘 밤엔 못 자요.
+BIGGAN: Då ligger du på soffan och blundar. Det räknas också.
+= 그럼 소파에 누워서 눈 감고 있어. 그것도 쳐줄게.
+JOHAN: Klockan åtta öppnar tingsrätten. Klockan nio kommer bilen. Vi har en timme mellan.
+= 여덟 시에 법원이 열리고, 아홉 시에 차가 와. 그 사이 한 시간이 있어.
+ANTON: En timme. Det är mer än många projekt jag har haft.
+= 한 시간. 내가 해 본 많은 프로젝트보다 길어.
+
+# 마무리 — SEX TIMMAR
+ELSA: Klockan är tre. Sex timmar kvar.
+= 세 시예요. 여섯 시간 남았어요.
+MAJA: Tjugoentusen kronor nu. Det kommer in hela tiden.
+= 이제 21,000크로나. 계속 들어오고 있어.
+GUNNEL: Nattbussarna har börjat swisha. Linje 191 skickade femhundra.
+= 야간 버스들이 Swish를 보내기 시작했어. 191번 노선이 500 보냈어.
+STRINDBERG: Hela staden är vaken, bara inte de som borde vara det.
+= 온 도시가 깨어 있소, 깨어 있어야 할 사람들만 빼고.
+DANIEL: Jag måste till akuten. Ring mig om något händer.
+= 난 응급실 가야 해. 무슨 일 있으면 전화해.
+ANTON: Kör försiktigt. Det är halt ute.
+= 조심히 가. 밖이 미끄러워.
+JOHAN: Tack, Daniel. Vi ses vid sju i Vårberg.
+= 고마워, 다니엘. 일곱 시에 바르베리에서 보자.
+PER: Får jag fråga en sak? Varför heter det Kronofogden? Det låter som en sagofigur.
+= 하나 물어봐도 돼요? 왜 Kronofogden이라고 해요? 동화 속 인물 같아요.
+JOHAN: Det är ett gammalt ord. Kronans foge – kungens man som tog in skatter.
+= 옛날 말이에요. 왕관의 집행관 — 세금을 걷던 왕의 사람.
+STRINDBERG: Kungen är borta. Fogden är kvar. Det är Sverige.
+= 왕은 사라졌는데 집행관은 남았지. 그게 스웨덴이오.
+BIGGAN: Kaffe, alla. Det blir en lång morgon.
+= 다들 커피. 긴 아침이 될 거야.
+ELSA: Om sex timmar…
+= 여섯 시간 뒤에…
+ANTON: …antingen kommer bilen, eller så kommer den inte.
+= …차가 오든가, 안 오든가.
+GUNNEL: Den kommer inte. Inte om jag får bestämma.
+= 안 올 거야. 내가 정할 수 있다면.
+MAJA: Tjugoentusen femhundra.
+= 21,500.
+PER: Tack. Allihop.
+= 고맙습니다. 모두.
+STRINDBERG: Tacka inte än. Tacka klockan nio.
+= 아직 고마워하지 마시오. 아홉 시에 고마워하시오.
+NEXT: 1부 4화 — «Bilen som inte kom»(오지 않은 차) — 집행 당일 아침 일곱 시, Vårberg 단지 앞. 모자란 돈, 법원의 답, 집주인의 결정이 한 시간 안에 맞물려야 한다. Strindberg의 «Inget nytt.» 보고로 마무리된다.

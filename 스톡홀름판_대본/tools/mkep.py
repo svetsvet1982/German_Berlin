@@ -63,6 +63,8 @@ def build(path, outdir):
     errs += [f"등장인물 목록에 없음: {t[1]}" for t in turns if t[1] not in names]
     if len(turns) != 120: errs.append(f"턴 수 {len(turns)} ≠ 120")
     if errs: sys.exit("\n".join(errs))
+    for a, b in zip(turns, turns[1:]):
+        if a[1] == b[1]: print("경고: 같은 화자 연속 —", b[1], b[2][:40])
     color = dict(COLORS); i = 0
     for n, _ in h["CAST"]:
         if n not in color: color[n] = EXTRA[i % len(EXTRA)]; i += 1
