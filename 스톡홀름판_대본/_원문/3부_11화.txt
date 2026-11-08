@@ -1,0 +1,269 @@
+PART: 3
+EP: 11
+TITLE: Artikeln
+SUBTITLE: 기사 · 추적 11, 신문사 편집국과 카페 Biggans
+META: 대사 120턴 · 난이도 B2 · 배경: 4월 셋째 주 일요일 밤, Kungsholmen의 «Stockholms Kuriren» 편집국
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: WÄGNER | 부활한 기자·작가 (1882–1949)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: CHYDENIUS | 부활한 목사·정치가 (1729–1803)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: FARID | 건설 노동자 · 23세 (가상)
+CAST: SANNA | 지역 신문 «Stockholms Kuriren» 프리랜서 기자 (가상)
+CAST: KARIN | «Stockholms Kuriren» 책임 편집인 (가상)
+NOTE: ※ 기사 공개 전날 밤입니다. 스웨덴 출판자유법은 사전 검열(censur)을 금지합니다. 어떤 관청도, 어떤 기업도 신문이 무엇을 쓸지 미리 보고 막을 수 없습니다. 공개 여부는 책임 편집인(ansvarig utgivare) 한 사람이 정하고, 그 책임도 그 사람이 집니다. 기사에 쓰이는 모든 주장은 사실 확인(faktagranskning)을 거칩니다. 실명 취재원, 익명 취재원, 공문서가 각각 어느 주장을 받치는지 하나하나 따져야 합니다. 1766년 출판자유법을 이끈 Chydenius는 같은 해 의회에서 쫓겨났습니다 — 당시 국립은행의 정책을 비판한 글 때문이었습니다. 문법 초점: 출처 표시(enligt, uppger, bekräftar, hävdar)와 확신의 정도. 표현 초점: tryckfrihet, ansvarig utgivare, censur, publiceringsbeslut, faktagranskning.
+
+# 도입 — KVÄLLEN FÖRE
+SANNA: Välkomna till redaktionen. Det är tomt på söndagar. Bara jag, Karin och en kaffeautomat som hatar mig.
+= 편집국에 오신 걸 환영해요. 일요일엔 텅 비어요. 저랑 카린, 그리고 저를 미워하는 커피 자판기뿐이에요.
+BIGGAN: Därför har jag tagit med en termos. Och bullar. Och en till termos.
+= 그래서 보온병을 가져왔지. 그리고 번. 그리고 보온병 하나 더.
+KARIN: Karin Lööf. Ansvarig utgivare. Jag har hört mycket om ert kafé. Och om era regler.
+= 카린 뢰프예요. 책임 편집인. 여러분 카페 얘기 많이 들었어요. 그리고 규칙들도.
+ELSA: Vi har nio nu. Nästan tio.
+= 이제 아홉 개예요. 거의 열 개.
+KARIN: Vi har en regel här. Bara en. Allt som publiceras måste vara sant. Och jag tar ansvaret.
+= 여기도 규칙이 있어요. 딱 하나. 공개되는 건 전부 사실이어야 한다. 그리고 책임은 내가 진다.
+WÄGNER: En god regel. Den var sämre efterlevd på min tid.
+= 좋은 규칙이네요. 내 시절엔 덜 지켜졌죠.
+SANNA: Artikeln är på fyratusen ord. Plus en sidoartikel om Rolf. Plus bilder.
+= 기사는 4,000단어예요. 롤프에 관한 곁기사 하나 더. 사진도.
+ANTON: Fyratusen ord? Jag trodde tidningar skrev kort nu.
+= 4,000단어? 요즘 신문은 짧게 쓰는 줄 알았는데.
+SANNA: De flesta gör det. Men vissa historier behöver plats. Den här är en sådan.
+= 대부분은 그래요. 근데 어떤 이야기는 자리가 필요해요. 이게 그런 이야기예요.
+KARIN: Den publiceras i morgon klockan fem. På nätet. Och i papperstidningen på tisdag. Om jag säger ja.
+= 내일 다섯 시에 공개돼요. 온라인으로. 종이 신문엔 화요일에. 내가 허락하면요.
+ELSA: Om?
+= 허락하면요?
+KARIN: Om. Jag har inte bestämt mig. Det är därför ni är här. Vi ska gå igenom varje påstående. Ett i taget.
+= 허락하면요. 아직 결정 안 했어요. 그래서 여러분이 여기 온 거예요. 주장 하나하나를 검토할 거예요. 하나씩.
+JOHAN: Ett steg i taget.
+= 한 걸음씩.
+KARIN: Ja. Det är faktiskt så vi säger här också.
+= 네. 사실 우리도 여기서 그렇게 말해요.
+FARID: Jag har aldrig varit i en tidning förut. Jag menar… i huset.
+= 신문사엔 처음 와 봐요. 그러니까… 건물 안에요.
+SANNA: Och i morgon är du i tidningen. Med namn. Är du säker?
+= 그리고 내일이면 신문에 나와요. 실명으로. 확실해요?
+FARID: Jag har varit säker sedan torsdag. Men jag har inte sovit sedan torsdag.
+= 목요일부터 확실했어요. 근데 목요일부터 잠을 못 잤어요.
+BIGGAN: Det är normalt. Ta en bulle.
+= 그게 정상이야. 번 하나 먹어.
+CHYDENIUS: En tryckeri-natt. Jag har saknat det. Lukten av bläck.
+= 인쇄소의 밤이라. 그리웠지. 잉크 냄새.
+SANNA: Det luktar inte bläck här. Det luktar gammal pizza och dator.
+= 여기선 잉크 냄새 안 나요. 오래된 피자랑 컴퓨터 냄새가 나죠.
+CHYDENIUS: Det får duga.
+= 그걸로 됐소.
+KARIN: Och ni andra? Vad gör ni här en söndagskväll?
+= 그럼 다른 분들은요? 일요일 밤에 여기서 뭐 하세요?
+MAJA: Jag kontrollerar siffrorna. En femte gång.
+= 숫자 확인해요. 다섯 번째로.
+ANTON: Och jag håller Farid sällskap. Han har ätit fyra bullar av nervositet.
+= 그리고 난 파리드 곁을 지켜요. 긴장해서 번을 네 개나 먹었어요.
+FARID: Fem.
+= 다섯 개요.
+
+# 장면 1 — GRANSKNINGEN
+KARIN: Påstående ett: ”Trettio bolag i Vårberg har samma styrelseledamot, en 72-årig pensionär i Eskilstuna.” Källa?
+= 주장 1: ‘바르베리의 회사 서른 개가 같은 이사를 두고 있는데, 에스킬스투나의 72세 연금 생활자다.’ 출처?
+SANNA: Bolagsverket. Allmän handling. Och Rolf själv, med namn.
+= 회사등기소. 공문서. 그리고 롤프 본인, 실명으로.
+KARIN: Godkänt. Påstående två: ”Bolagen har betalat tolv miljoner kronor för renoveringar som till största delen aldrig utfördes.”
+= 통과. 주장 2: ‘이 회사들은 대부분 실행되지 않은 리노베이션에 1,200만 크로나를 지불했다.’
+SANNA: Årsredovisningarna, för beloppet. Farid, med namn, för att arbetet inte utfördes. Och hyresgästerna i Vårberg.
+= 금액은 연간 보고서. 공사가 없었다는 건 실명의 파리드. 그리고 바르베리 세입자들.
+KARIN: ”Till största delen.” Varför inte ”aldrig”?
+= ‘대부분.’ 왜 ‘한 번도’가 아니죠?
+MAJA: För att tvättstugan i hus sju faktiskt renoverades. Och halva trappan. Det är cirka nittiotusen av tolv miljoner.
+= 7동 세탁실은 실제로 리노베이션됐으니까요. 그리고 계단 반쪽. 1,200만 중 약 9만이에요.
+KARIN: Bra. Exakt. Det är så man vinner i domstol. Med ord som ”till största delen”.
+= 좋아요. 정확해요. 법정에선 그렇게 이기죠. ‘대부분’ 같은 말로.
+ELSA: Så man ska skriva mindre än man vet?
+= 그럼 아는 것보다 적게 써야 해요?
+KARIN: Man ska skriva exakt det man kan bevisa. Ibland är det mindre än man vet. Aldrig mer.
+= 증명할 수 있는 만큼 정확히 써야 해요. 가끔은 아는 것보다 적죠. 절대 더 많아선 안 되고.
+JOHAN: Det gäller i domstolen också.
+= 그건 법정에서도 마찬가지예요.
+WÄGNER: Det är den svåraste lektionen i journalistiken. Jag lärde mig den efter tio år.
+= 언론에서 가장 어려운 교훈이죠. 난 10년 걸려서 배웠어요.
+KARIN: Påstående tre: ”Pengarna gick vidare till bolag i Litauen.”
+= 주장 3: ‘돈은 리투아니아의 회사들로 넘어갔다.’
+SANNA: Lundgrens årsredovisning. Allmän handling.
+= 룬드그렌 연간 보고서. 공문서.
+KARIN: Och Lundgren själv? Han har pratat med polisen, säger ni.
+= 그럼 룬드그렌 본인은요? 경찰이랑 얘기했다면서요.
+JOHAN: Han har pratat med polisen. Men han vill inte stå med namn i tidningen. Hans barn har hotats.
+= 경찰이랑은 얘기했어요. 근데 신문에 실명으로 나오고 싶어 하지 않아요. 아이들이 협박을 받았거든요.
+KARIN: Då skriver vi inte att han har erkänt något. Vi skriver bara det som står i handlingarna. Och att polisen har inlett en förundersökning, om polisen bekräftar det.
+= 그럼 그 사람이 뭘 자백했다고 쓰지 않아요. 서류에 있는 것만 써요. 그리고 경찰이 수사를 시작했다는 건, 경찰이 확인해 주면 쓰고.
+SANNA: Polisens presstjänst bekräftade i fredags. ”En förundersökning om grovt penningtvättsbrott pågår.” Inga namn.
+= 경찰 홍보실이 금요일에 확인해 줬어요. ‘중대 돈세탁 범죄에 관한 수사가 진행 중’. 이름은 없이.
+KARIN: Godkänt. Påstående fyra. Det svåraste. ”Saltsjöbanken har i flera år fått varningar om misstänkt penningtvätt utan att agera.”
+= 통과. 주장 4. 제일 어려운 거. ‘살트셰은행은 수년간 돈세탁 의심 경고를 받고도 조치하지 않았다.’
+SANNA: En anonym källa från bankens insida. Med dokument som jag har sett men inte publicerar.
+= 은행 내부의 익명 취재원. 제가 직접 봤지만 공개하지는 않는 문서와 함께.
+INGRID: …
+= ……
+SANNA: Källan finns inte i det här rummet i kväll. Officiellt.
+= 그 취재원은 오늘 밤 이 방에 없어요. 공식적으로는.
+WÄGNER: Jag har inte sett någon heller. Jag är död. Det är det bästa källskyddet som finns.
+= 나도 아무도 못 봤어요. 난 죽었거든요. 그게 최고의 취재원 보호죠.
+KARIN: En anonym källa räcker inte för det påståendet. Inte mot en storbank.
+= 그 주장엔 익명 취재원 하나로는 부족해요. 대형 은행을 상대로는.
+SANNA: Och Finansinspektionen bekräftade i torsdags att de ”granskar Saltsjöbankens arbete mot penningtvätt”. Det är offentligt. De har publicerat det på sin webbplats.
+= 그리고 금융감독청이 목요일에 ‘살트셰은행의 돈세탁 방지 업무를 조사 중’이라고 확인했어요. 공개된 거예요. 웹사이트에 올렸어요.
+ANTON: Har de? Varför vet vi inte det?
+= 그랬어? 왜 우린 몰랐지?
+ELSA: För att ingen läser Finansinspektionens webbplats. Utom Sanna.
+= 금융감독청 웹사이트는 아무도 안 읽으니까요. 산나 빼고.
+KARIN: Då formulerar vi om. ”Enligt en källa inom banken har varningar ignorerats. Finansinspektionen bekräftar att en granskning pågår.” Två olika saker. Två olika källor.
+= 그럼 문장을 바꿔요. ‘은행 내부 취재원에 따르면 경고들이 무시됐다. 금융감독청은 조사가 진행 중임을 확인했다.’ 서로 다른 두 가지. 서로 다른 두 출처.
+ELSA: Enligt. Bekräftar. Det är skillnad?
+= ~에 따르면. 확인했다. 차이가 있어요?
+SANNA: Stor skillnad. ”Enligt” betyder: någon säger det. ”Bekräftar” betyder: någon med ansvar står för det.
+= 큰 차이죠. ‘~에 따르면’은 누군가 그렇게 말한다는 거고. ‘확인했다’는 책임 있는 누군가가 그걸 보증한다는 거예요.
+INGRID: Och Maja?
+= 그럼 마야는요?
+MAJA: Jag finns inte i artikeln. Jag har tystnadsplikt. Min anmälan ligger hos Revisorsinspektionen.
+= 난 기사에 안 나와요. 비밀 유지 의무가 있으니까. 내 신고는 회계사 감독청에 있어요.
+KARIN: Och det är rätt. Vi skriver inte om dig. Inte förrän myndigheten har fattat beslut. Om ens då.
+= 그게 맞아요. 당신에 대해선 안 써요. 관청이 결정을 내리기 전까지는. 그때도 쓸지 모르고요.
+
+# 장면 2 — 1766
+ELSA: Herr Chydenius. Ni har varit tyst i en timme. Det är inte likt er.
+= 퀴데니우스 님. 한 시간 동안 조용하셨어요. 평소 같지 않네요.
+CHYDENIUS: Jag tänker på 1766. Får jag berätta? Det är ju nästan fredag. Det är söndag.
+= 1766년을 생각하고 있었네. 이야기해도 되겠나? 거의 금요일이잖나. 일요일이지만.
+BIGGAN: I mitt hus bestämmer jag vilken dag det är. Och det här är inte mitt hus. Men berätta ändå.
+= 내 집에선 무슨 요일인지 내가 정하지. 여긴 내 집이 아니지만. 그래도 이야기해 봐요.
+CHYDENIUS: Hur det var. Riksdagen 1765. Jag var trettiosex år. En präst från en liten stad vid havet, längst bort i riket.
+= 어땠는지. 1765년 의회. 난 서른여섯이었지. 왕국 저 끝, 바닷가 작은 도시에서 온 목사.
+ELSA: Längst bort i riket. Som Kiruna?
+= 왕국 저 끝. 키루나처럼요?
+CHYDENIUS: Ännu längre. Gamlakarleby ligger i Finland nu. Då fick ingen skriva om vad regeringen gjorde. Allt skulle läsas av en censor först. Och riksbanken var hemlig. Ingen fick veta hur den skötte pengarna.
+= 더 멀지. 감라카를레뷔는 이제 핀란드에 있네. 그땐 아무도 정부가 하는 일에 대해 쓸 수 없었네. 모든 건 검열관이 먼저 읽어야 했지. 그리고 국립은행은 비밀이었소. 은행이 돈을 어떻게 다루는지 아무도 알 수 없었지.
+WICKSELL: Och banken skötte pengarna dåligt. Inflationen var enorm. Jag har läst om det.
+= 그리고 은행은 돈을 엉망으로 다뤘지. 인플레이션이 엄청났어. 그것에 대해 읽었네.
+CHYDENIUS: Enorm. Folk blev fattiga och visste inte varför. Så jag skrev en skrift. Om banken. Om att den gjorde fel.
+= 엄청났소. 사람들은 가난해졌는데 이유를 몰랐지. 그래서 글을 썼네. 은행에 대해. 은행이 잘못하고 있다고.
+ELSA: Som Maja. Och Ingrid. Fast med fjäderpenna.
+= 마야처럼요. 그리고 잉리드처럼. 깃펜으로 썼을 뿐.
+CHYDENIUS: Fast med fjäderpenna. Och samtidigt arbetade jag för en lag. Att man fick trycka fritt. Utan censor. Och att myndigheternas papper skulle vara öppna.
+= 깃펜으로 썼을 뿐. 그리고 동시에 법을 위해 일했지. 자유롭게 인쇄할 수 있도록. 검열관 없이. 그리고 관청의 서류가 공개되도록.
+ANTON: Och den gick igenom?
+= 그리고 통과됐어요?
+CHYDENIUS: Den gick igenom. Den andra december 1766. Världens första.
+= 통과됐네. 1766년 12월 2일. 세계 최초로.
+MAJA: Och skriften om banken?
+= 그럼 은행에 관한 글은요?
+CHYDENIUS: För den kastade de ut mig ur riksdagen. Samma år.
+= 그것 때문에 의회에서 쫓겨났지. 같은 해에.
+ELSA: Samma år? Ni skrev lagen och blev utkastad?
+= 같은 해에요? 법을 쓰고 쫓겨나셨다고요?
+CHYDENIUS: Lagen kom. Jag gick. Det var priset. Jag tyckte att det var billigt.
+= 법은 왔고. 나는 떠났지. 그게 대가였소. 싸다고 생각했네.
+INGRID: Billigt?
+= 싸다고요?
+CHYDENIUS: En präst mindre i riksdagen. Ett land med tryckfrihet i tvåhundrasextio år. Räkna, fru revisor.
+= 의회에서 목사 한 명이 빠졌지. 260년 동안 출판의 자유가 있는 나라가 생겼고. 계산해 보시오, 회계사 부인.
+MAJA: Det är… en mycket bra investering.
+= 그건… 아주 좋은 투자네요.
+WICKSELL: Den bästa avkastningen i svensk ekonomisk historia. Och ingen bank ville finansiera den.
+= 스웨덴 경제사에서 최고의 수익률이지. 그리고 어떤 은행도 그걸 지원하려 하지 않았고.
+BIGGAN: Och nu har du ett kafé fullt av folk som lyssnar på dig. Det är också en avkastning.
+= 그리고 이제 당신 얘기를 듣는 사람들로 가득한 카페가 있잖아요. 그것도 수익이지.
+CHYDENIUS: Den bästa jag har fått, fru Lund.
+= 내가 받은 것 중 최고요, 룬드 부인.
+
+# 절정 — SAMTALET KLOCKAN ELVA
+KARIN: Telefonen. Klockan är elva. En söndag. Det är ett nummer jag inte känner.
+= 전화. 열한 시. 일요일에. 모르는 번호예요.
+SANNA: Svara på högtalare.
+= 스피커로 받아요.
+KARIN: Karin Lööf.
+= 카린 뢰프입니다.
+SANNA: Vem är det?
+= 누구예요?
+KARIN: Det är Henrik Wahlgren. Från Ek & Wahlgren. Han säger att han företräder Nordhem Holding. Han vill läsa artikeln före publicering.
+= 엑 & 발그렌의 헨리크 발그렌이래요. 노르드헴 홀딩을 대리한대요. 공개 전에 기사를 읽고 싶대요.
+ELSA: Får han det?
+= 그래도 돼요?
+CHYDENIUS: Nej. Säg det. Säg nej.
+= 안 되지. 말해요. 안 된다고.
+KARIN: Herr Wahlgren. Ni vet att censur är förbjuden i Sverige. Ingen får granska en artikel före publicering. Inte en myndighet. Och absolut inte en advokat.
+= 발그렌 씨. 스웨덴에서 검열이 금지돼 있다는 거 아시죠. 아무도 공개 전에 기사를 검토할 수 없어요. 관청도. 그리고 변호사는 더더욱.
+JOHAN: Förbudet mot censur. Sedan 1766.
+= 검열 금지. 1766년부터.
+CHYDENIUS: Sedan 1766.
+= 1766년부터.
+KARIN: Han säger att Nordhem har fått frågor från vår reporter och att de har rätt att se hur deras svar används.
+= 노르드헴이 우리 기자한테서 질문을 받았으니, 그 답변이 어떻게 쓰이는지 볼 권리가 있대요.
+SANNA: De har inte svarat. De sa ”inga kommentarer”.
+= 그쪽은 답한 적 없어요. ‘논평 없음’이라고 했어요.
+KARIN: Då citerar vi exakt det. ”Nordhem har inte velat kommentera.” Herr Wahlgren, om ni vill lämna en kommentar nu, skriver vi in den. Ordagrant.
+= 그럼 정확히 그걸 인용하죠. ‘노르드헴은 논평을 원하지 않았다.’ 발그렌 씨, 지금 논평을 주시겠다면 그대로 넣겠습니다. 한 글자도 안 바꾸고.
+ELSA: Vad säger han?
+= 뭐래요?
+KARIN: Han säger: ”Nordhem bestrider samtliga påståenden och förbehåller sig rätten att vidta rättsliga åtgärder.”
+= 이렇게 말해요: ‘노르드헴은 모든 주장을 부인하며 법적 조치를 취할 권리를 보유한다.’
+SANNA: Då skriver vi det. Sist i artikeln. Ordagrant.
+= 그럼 그걸 써요. 기사 맨 끝에. 그대로.
+KARIN: Tack, herr Wahlgren. God natt.
+= 감사합니다, 발그렌 씨. 안녕히 주무세요.
+BIGGAN: Hon lade på för en advokat. Det är fler kvinnor än jag nu.
+= 저 사람도 변호사 전화를 끊었네. 이제 나 말고도 여자들이 많아.
+ANTON: Det blir en trend.
+= 유행이 되겠는데.
+FARID: Betyder det att de ska stämma oss?
+= 그럼 우리를 고소한다는 거예요?
+KARIN: Det betyder att de vill att vi ska tro att de ska stämma oss. Det är inte samma sak.
+= 우리가 그쪽이 고소할 거라고 믿게 만들고 싶다는 뜻이에요. 그건 같은 게 아니에요.
+WÄGNER: 1912 fick jag ett sådant samtal varje vecka. Ingen stämde mig någonsin. De som stämmer ringer inte först.
+= 1912년엔 그런 전화를 매주 받았어요. 실제로 날 고소한 사람은 아무도 없었죠. 고소할 사람들은 먼저 전화하지 않아요.
+INGRID: Och banken skickade sitt brev med bud. Inte med en stämning.
+= 그리고 은행도 소장이 아니라 퀵으로 편지를 보냈죠.
+KARIN: Okej. Alla påståenden är granskade. Alla har källor. Nordhem har fått svara.
+= 좋아요. 모든 주장 검토 완료. 전부 출처가 있어요. 노르드헴은 답할 기회를 받았고.
+
+# 마무리 — PUBLICERINGSBESLUTET
+ELSA: Och nu? Bestämmer ni nu?
+= 그럼 이제요? 이제 결정하세요?
+KARIN: Jag har bestämt. Jag ville bara höra samtalet först. Ett sista test.
+= 결정했어요. 마지막으로 그 전화를 먼저 듣고 싶었을 뿐이에요. 마지막 시험.
+SANNA: Och?
+= 그래서요?
+KARIN: Vi publicerar. Klockan fem i morgon. Rubrik: ”Pensionären som var trettioen bolag.” Underrubrik: ”Hyrorna i Vårberg betalade för väggar som aldrig byggdes.”
+= 공개합니다. 내일 다섯 시. 제목: ‘서른한 개 회사였던 연금 생활자.’ 부제: ‘바르베리의 월세가 지어지지도 않은 벽값을 냈다.’
+SANNA: Tack, Karin.
+= 고마워요, 카린.
+KARIN: Tacka inte mig. Tacka den som skrev lagen.
+= 나한테 고마워하지 말아요. 그 법을 쓴 사람한테 고마워해요.
+CHYDENIUS: Det var en gemensam ansträngning.
+= 그건 공동의 노력이었소.
+FARID: Klockan fem. Om sex timmar.
+= 다섯 시. 여섯 시간 뒤.
+WÄGNER: Sex timmar. Som natten innan bilen inte kom i Vårberg.
+= 여섯 시간. 바르베리에 차가 오지 않았던 날의 전날 밤처럼.
+ELSA: Sex timmar. Det har vi haft förut.
+= 여섯 시간. 전에도 있었던 숫자네요.
+ANTON: Vi har haft alla siffror förut. Tio dagar, sexton dagar, sex timmar.
+= 우린 그 모든 숫자를 전에도 겪었어. 열흘, 16일, 여섯 시간.
+INGRID: Jag har väntat sju år. Sex timmar till går bra.
+= 7년을 기다렸어요. 여섯 시간 더는 괜찮아요.
+JOHAN: Det här är inte slutet. Det är början på något annat. Myndigheterna, polisen, banken. Det kommer att ta lång tid.
+= 이건 끝이 아니야. 다른 뭔가의 시작이지. 관청들, 경찰, 은행. 오래 걸릴 거야.
+CHYDENIUS: Allt som är värt något tar lång tid. Tryckfriheten tog tvåhundra år att bli självklar.
+= 가치 있는 모든 건 오래 걸리오. 출판의 자유도 당연한 것이 되기까지 200년이 걸렸지.
+BIGGAN: Då sover vi inte i natt. Vi väntar här. Med termosen.
+= 그럼 오늘 밤은 안 자는 거야. 여기서 기다리자. 보온병이랑.
+FARID: Jag har inte sovit sedan torsdag ändå.
+= 어차피 목요일부터 못 잤어요.
+KARIN: Ni får stanna. Men ni får inte röra kaffeautomaten. Den är det enda här som har mer makt än jag.
+= 있어도 돼요. 근데 커피 자판기는 건드리지 마세요. 여기서 나보다 권력이 센 건 그것뿐이니까.
+NEXT: 3부 12화 — «Gryningen»(새벽) — 다섯 시, 기사가 공개된다. 경제범죄청의 압수수색 소식이 뜨고, Nordhem 이사회가 사임한다. 축배 직후 Johan의 휴대전화가 울린다: 아버지다. «Jag vill träffa dig. Ensam.»
