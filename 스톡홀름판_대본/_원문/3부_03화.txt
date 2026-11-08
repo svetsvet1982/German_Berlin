@@ -1,0 +1,267 @@
+PART: 3
+EP: 3
+TITLE: Hela Vårberg
+SUBTITLE: 바르베리 전체 · 추적 3, Vårberg 주민 회관
+META: 대사 120턴 · 난이도 B2 · 배경: 2월 둘째 주 일요일 오후, Vårberg 단지의 주민 회관
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트 (반일 복귀)
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: STRINDBERG | 부활한 작가 (1849–1912)
+CAST: GUNNEL | 전 SL 버스기사 노조 대표 · Vårberg 주민 (가상)
+CAST: PER | Vårberg 세입자 · 두 아이의 아버지 (가상)
+CAST: FADUMO | Vårberg 세입자 · 통역을 자처하는 어머니 (가상)
+CAST: KALEVI | Vårberg 세입자 · 핀란드 출신 연금 생활자 (가상)
+CAST: LINDA | Vårberg 세입자 · 새 부엌을 원하는 젊은 엄마 (가상)
+NOTE: ※ Nordhem이 Vårberg 600세대 우편함에 ‘리노베이션 안내’를 넣었습니다. 새 부엌, 새 욕실, 발코니 공사 뒤 월세를 40~60퍼센트 올린다는 내용이고, 동의서(godkännande)에 30일 안에 서명해 달라는 양식이 함께 들어 있습니다. 1부 1~2화의 Leyla 사건과 같은 규칙이 적용됩니다: 표준 상향 공사에는 세입자 동의나 임대심판위원회 허가가 필요합니다. 하지만 이번에는 한 명이 아니라 600세대입니다. 세입자들은 지역 세입자 모임(lokal hyresgästförening)을 만들어 함께 대응할 수 있습니다. 모두가 같은 생각은 아닙니다 — 새 부엌을 원하는 사람도 있습니다. 문법 초점: 수동태로 된 공문을 능동문으로 바꾸기. 표현 초점: hyresgästförening, möte, rösta, protokoll, tillsammans.
+
+# 도입 — SEXHUNDRA BREVLÅDOR
+GUNNEL: Välkomna till samlingslokalen. Den luktar fortfarande av förra veckans barnkalas. Förlåt.
+= 주민 회관에 오신 걸 환영해요. 아직 지난주 아이 생일 파티 냄새가 나네요. 미안해요.
+STRINDBERG: Jag har läst brevet. Fyra gånger. Det är det tråkigaste hot jag har läst i hela mitt liv.
+= 편지를 읽었소. 네 번. 내 평생 읽은 협박 중에 가장 지루한 협박이오.
+ELSA: Herr Strindberg! Ni är tillbaka i Vårberg.
+= 스트린드베리 님! 바르베리에 다시 오셨네요.
+STRINDBERG: Jag lämnade aldrig. Jag har bott i tvättstugan sedan november. Den enda platsen i Stockholm där ingen stör en författare.
+= 떠난 적 없소. 11월부터 세탁실에 살고 있지. 스톡홀름에서 작가를 방해하지 않는 유일한 곳이오.
+GUNNEL: Han skojar. Han bor hos fru Nilsson på femte våningen. Hon lagar mat åt honom.
+= 농담하는 거예요. 5층 닐손 부인 집에 살아요. 그분이 밥을 해 줘요.
+STRINDBERG: Det är också sant.
+= 그것도 사실이오.
+ELSA: Fru Nilsson? Hon som trodde att lappen var reklam?
+= 닐손 부인이요? 쪽지가 광고인 줄 알았던 분?
+STRINDBERG: Hon läser alla mina lappar nu. Med förstoringsglas.
+= 이제 내 쪽지는 다 읽는다오. 돋보기로.
+PER: Hej Johan. Hej Maja. Det är fullt därinne. Jag har aldrig sett så många grannar på samma ställe.
+= 안녕, 요한. 안녕, 마야. 안에 꽉 찼어요. 이웃들이 한곳에 이렇게 많이 모인 건 처음 봐요.
+JOHAN: Hur många?
+= 몇 명이나?
+GUNNEL: Hundrafyrtio. Från alla trettio husen. Och fler kommer. Bussen från centrum var full.
+= 140명. 서른 개 건물 전부에서. 그리고 더 오고 있어. 센터에서 오는 버스가 꽉 찼어.
+ANTON: Hundrafyrtio personer. Utan workshop, utan mejl. Bara lappar i tvättstugan.
+= 140명. 워크숍도, 메일도 없이. 세탁실 쪽지만으로.
+STRINDBERG: Tvättstugan är Sveriges egentliga parlament. Jag har sagt det sedan 1880-talet.
+= 세탁실이 스웨덴의 진짜 의회요. 1880년대부터 말해 왔지.
+PER: Barnen undrar om vi måste flytta igen. Linnea har ritat ett nytt hus. Med en lapp på dörren: ”Inget nytt.”
+= 애들이 또 이사 가야 하냐고 물어요. 리네아가 새집을 그렸어요. 문에 쪽지가 붙은: ‘새로운 일 없음.’
+STRINDBERG: Den lappen har jag skrivit. Jag är stolt över att den har blivit en dörrskylt.
+= 그 쪽지는 내가 썼지. 그게 문패가 됐다니 자랑스럽군.
+MAJA: Vad står det exakt i brevet, Gunnel?
+= 편지에 정확히 뭐라고 적혀 있어요, 군넬?
+GUNNEL: Läs själv. Jag blir arg varje gång.
+= 직접 읽어 봐. 난 읽을 때마다 화가 나.
+MAJA: ”Med anledning av fastighetens behov av upprustning kommer standardhöjande åtgärder att vidtas i samtliga lägenheter under 2027–2028. Efter genomförda åtgärder kommer hyran att justeras.”
+= ‘부동산의 개보수 필요에 따라 2027–2028년 중 모든 세대에서 표준 상향 조치가 시행될 예정임. 조치 시행 후 월세가 조정될 예정임.’
+ELSA: ”Vidtas.” ”Justeras.” Ingen gör något. Allt bara händer.
+= ‘시행될.’ ‘조정될.’ 아무도 아무것도 안 해요. 다 그냥 일어나요.
+ANTON: Passiv form. Ingen tar ansvar.
+= 수동형. 아무도 책임을 안 져.
+GUNNEL: Och sen, längst ner, med små bokstäver: ”Ny hyra beräknas till ca 40–60 procent över nuvarande nivå.”
+= 그리고 맨 아래, 작은 글씨로: ‘신규 월세는 현 수준보다 약 40~60퍼센트 높게 산정될 예정임.’
+PER: Sextio procent. Jag betalar niotusen åttahundra nu. Det blir över femton tusen.
+= 60퍼센트. 지금 9,800 내요. 그럼 1만 5천이 넘어요.
+MAJA: Femton tusen sexhundraåttio. Exakt.
+= 1만 5,680. 정확히.
+JOHAN: Kom. Vi går in. Ett steg i taget.
+= 가자. 들어가자. 한 걸음씩.
+
+# 장면 1 — SAMLINGSLOKALEN
+GUNNEL: Hej allihop! Tyst nu, snälla! Vi har gäster. En advokat, en revisor, en konsult och en praktikant.
+= 다들 안녕하세요! 조용히 좀 해 주세요! 손님들이 왔어요. 변호사, 회계사, 컨설턴트, 그리고 인턴.
+KALEVI: Och en död författare. Jag känner igen honom från frimärket.
+= 그리고 죽은 작가도. 우표에서 본 얼굴이네.
+STRINDBERG: Tack. Frimärket var inte smickrande.
+= 고맙소. 우표 속 얼굴은 잘 나온 게 아니었지.
+JOHAN: Hej. Jag heter Johan. Jag ska vara kort. Ni har fått ett brev. Ni har trettio dagar på er. Och ni har rättigheter. Mer än brevet säger.
+= 안녕하세요. 요한입니다. 짧게 하겠습니다. 여러분은 편지를 받았습니다. 30일이 있습니다. 그리고 여러분에겐 권리가 있습니다. 편지에 적힌 것보다 많이요.
+FADUMO: Ursäkta. Jag översätter till somaliska. För mina grannar. Kan du säga det långsamt?
+= 실례해요. 제가 이웃들을 위해 소말리어로 통역해요. 천천히 말해 줄 수 있어요?
+JOHAN: Självklart. Tack, Fadumo.
+= 물론이죠. 고마워요, 파두모.
+FADUMO: Och min granne Amina översätter till arabiska. Där borta, vid fönstret.
+= 그리고 제 이웃 아미나가 아랍어로 통역해요. 저기, 창가에서.
+KALEVI: Och jag översätter till finska. För mig själv. Jag förstår bäst på finska när det handlar om pengar.
+= 그리고 난 핀란드어로 통역하지. 나 자신을 위해. 돈 얘기는 핀란드어로 들어야 제일 잘 알아들어.
+ELSA: Jag förstår precis. Min mormor är likadan.
+= 완전히 이해해요. 우리 할머니도 똑같아요.
+JOHAN: Det viktigaste: ni måste inte skriva under. Om ni inte skriver under, måste Nordhem gå till hyresnämnden för att få renovera med höjd hyra.
+= 가장 중요한 것: 서명하지 않아도 됩니다. 서명하지 않으면, 노르드헴은 월세를 올리는 리노베이션을 하려면 임대심판위원회에 가야 합니다.
+LINDA: Men jag vill ha ett nytt kök.
+= 근데 전 새 부엌을 원해요.
+GUNNEL: Linda…
+= 린다…
+LINDA: Nej, låt mig säga det. Mitt kök är från 1971. Ugnen fungerar på hälften. Det droppar från kranen. Jag har två barn. Jag vill ha ett nytt kök.
+= 아뇨, 말하게 해 주세요. 우리 부엌은 1971년 거예요. 오븐은 반만 돼요. 수도꼭지에선 물이 새요. 아이가 둘이에요. 전 새 부엌을 원해요.
+MAJA: Det är helt rimligt, Linda.
+= 그건 완전히 합당해요, 린다.
+LINDA: Men inte för sextio procent mer i hyra.
+= 근데 월세 60퍼센트 더 내고는 싫어요.
+JOHAN: Precis. Och det är skillnaden. Underhåll är hyresvärdens ansvar. En droppande kran ska lagas utan att hyran höjs.
+= 바로 그거예요. 그리고 그게 차이예요. 유지보수는 집주인의 책임이에요. 새는 수도꼭지는 월세를 올리지 않고 고쳐야 해요.
+ELSA: Ursäkta, vad är skillnaden mellan underhåll och standardhöjning?
+= 실례지만, 유지보수랑 표준 상향의 차이가 뭐예요?
+JOHAN: Underhåll: att laga det som är trasigt. Standardhöjning: att göra något bättre än det var.
+= 유지보수: 고장 난 걸 고치는 거. 표준 상향: 원래보다 좋게 만드는 거.
+FADUMO: Så en ny ugn som fungerar är underhåll? Och en ny ugn med touchskärm är standardhöjning?
+= 그럼 잘 작동하는 새 오븐은 유지보수고, 터치스크린 달린 새 오븐은 표준 상향이에요?
+JOHAN: Ungefär så. Det var en bättre förklaring än min.
+= 대략 그래요. 제 설명보다 낫네요.
+KALEVI: Jag har bott här sedan 1975. Ingen har lagat något sedan 1990. Och nu vill de göra allt på en gång. Varför nu?
+= 난 1975년부터 여기 살았어. 1990년 이후로 아무도 뭘 고친 적이 없어. 근데 이제 와서 한꺼번에 다 하겠다고. 왜 하필 지금이야?
+MAJA: Det är en bra fråga, Kalevi. Vi tror att vi vet svaret.
+= 좋은 질문이에요, 칼레비. 저희는 답을 안다고 생각해요.
+STRINDBERG: Man låter ett hus förfalla i trettio år. Sedan räddar man det. Och tar betalt för räddningen. Det är en gammal intrig. Jag skrev den 1879.
+= 30년 동안 건물을 썩게 내버려 두지. 그러고 나서 구해 내는 거요. 그리고 구해 준 값을 받지. 오래된 줄거리요. 1879년에 내가 썼소.
+ELSA: I ”Röda rummet”?
+= 『붉은 방』에서요?
+STRINDBERG: Du har läst den!
+= 그걸 읽었군!
+ELSA: I gymnasiet. Jag förstod hälften.
+= 고등학교 때요. 절반 이해했어요.
+STRINDBERG: Det är mer än kritikerna förstod.
+= 비평가들보다 많이 이해했군.
+GUNNEL: Kan vi fortsätta? Kritikerna kan vänta.
+= 계속해도 될까요? 비평가들은 기다리면 돼요.
+
+# 장면 2 — VAD STÅR DET EGENTLIGEN?
+GUNNEL: Elsa har gjort något. Visa dem, gumman.
+= 엘사가 뭘 만들었어요. 보여 줘, 얘야.
+ELSA: Jag har skrivit om brevet. På enkel svenska. Med aktiva meningar. Får jag läsa?
+= 편지를 다시 써 봤어요. 쉬운 스웨덴어로. 능동문으로요. 읽어도 돼요?
+FADUMO: Läs långsamt. Jag översätter.
+= 천천히 읽어요. 통역할게요.
+ELSA: ”Nordhem vill bygga om alla lägenheter under 2027 och 2028.”
+= ‘노르드헴은 2027년과 2028년에 모든 세대를 다시 고치고 싶어 한다.’
+FADUMO: …Okej. De förstår. Fortsätt.
+= …좋아요. 다들 알아들었어요. 계속해요.
+ELSA: ”Efter ombyggnaden vill Nordhem höja hyran med 40 till 60 procent.”
+= ‘공사 후에 노르드헴은 월세를 40~60퍼센트 올리고 싶어 한다.’
+KALEVI: ”Vill.” Inte ”kommer att”. Det är skillnad.
+= ‘원한다.’ ‘할 것이다’가 아니라. 그건 다르지.
+ELSA: Precis! Det är vad de vill. Inte vad som måste hända.
+= 바로 그거예요! 그건 그쪽이 원하는 거예요. 반드시 일어나야 하는 게 아니라.
+ELSA: ”Nordhem vill att du skriver under ett papper inom 30 dagar. Du måste inte skriva under.”
+= ‘노르드헴은 당신이 30일 안에 종이에 서명하기를 원한다. 서명하지 않아도 된다.’
+LINDA: ”Du måste inte.” Det står ingenstans i deras brev.
+= ‘서명하지 않아도 된다.’ 그쪽 편지엔 어디에도 그런 말이 없어요.
+ELSA: ”Om du inte skriver under, måste Nordhem fråga hyresnämnden. Hyresnämnden frågar då dig vad du tycker.”
+= ‘서명하지 않으면, 노르드헴은 임대심판위원회에 물어야 한다. 그러면 임대심판위원회가 당신 의견을 묻는다.’
+LINDA: Det är första gången jag förstår ett brev från Nordhem.
+= 노르드헴 편지를 이해한 건 처음이에요.
+PER: Kan vi få den på papper? Till alla?
+= 그걸 종이로 받을 수 있어요? 모두에게?
+ANTON: Jag har tryckt sexhundra. På svenska, somaliska, arabiska, finska och tigrinja. Fadumo och hennes vänner översatte i natt.
+= 600장 인쇄했어. 스웨덴어, 소말리어, 아랍어, 핀란드어, 티그리냐어로. 파두모랑 친구들이 밤새 번역했어.
+FADUMO: Vi var sju kvinnor och fyra kannor te.
+= 우린 여자 일곱 명에 차 네 주전자였어요.
+KALEVI: Och jag kontrollerade finskan. Den var nästan perfekt.
+= 그리고 핀란드어는 내가 검토했지. 거의 완벽했어.
+STRINDBERG: Det är så revolutioner börjar. Med te och översättningar.
+= 혁명은 그렇게 시작하지. 차와 번역으로.
+JOHAN: Det är ingen revolution, herr Strindberg. Det är hyreslagen.
+= 혁명이 아니에요, 스트린드베리 님. 임대차법이에요.
+STRINDBERG: För Nordhem är det samma sak.
+= 노르드헴한테는 같은 거요.
+ELSA: Och för mig är det klarspråk.
+= 그리고 저한텐 쉬운 말이에요.
+MAJA: Och en sak till. Elsa, läs den sista meningen.
+= 그리고 하나 더. 엘사, 마지막 문장 읽어 줘.
+ELSA: ”Om ni är många som säger nej tillsammans, är det mycket svårare för Nordhem.”
+= ‘여러분이 많이 함께 거절하면, 노르드헴에게는 훨씬 어려워진다.’
+GUNNEL: Det är den viktigaste meningen. Den har jag lärt mig på trettio år i facket.
+= 그게 제일 중요한 문장이야. 노조에서 30년 동안 배운 거지.
+KALEVI: Tillsammans. På finska: yhdessä. Det är ett bra ord på båda språken.
+= 함께. 핀란드어로: 위흐데세. 두 언어 모두에서 좋은 단어야.
+
+# 절정 — OMRÖSTNINGEN
+GUNNEL: Okej. Förslag. Vi bildar en lokal hyresgästförening för Vårberg. I dag. Och vi skickar ett gemensamt brev till Nordhem: vi godkänner inte. Vi vill förhandla.
+= 좋아요. 제안이에요. 오늘 바르베리 지역 세입자 모임을 만들어요. 그리고 노르드헴에 공동 편지를 보내요: 우리는 동의하지 않는다. 협상을 원한다.
+ELSA: Ursäkta, vad betyder att förhandla, här?
+= 실례지만, 여기서 ‘협상한다’는 게 무슨 뜻이에요?
+JOHAN: Att vi sätter oss vid samma bord. Och kommer överens om vad som ska renoveras, och vad det ska kosta. I stället för att Nordhem bestämmer ensamt.
+= 같은 테이블에 앉는 거야. 그리고 뭘 고치고 얼마가 들지 합의하는 거. 노르드헴이 혼자 정하는 대신.
+LINDA: Och mitt kök?
+= 그럼 우리 부엌은요?
+GUNNEL: Ditt kök är punkt ett på listan, Linda. Med en kran som inte droppar.
+= 네 부엌은 목록 1번이야, 린다. 물 안 새는 수도꼭지랑.
+LINDA: Då röstar jag ja.
+= 그럼 찬성할게요.
+GUNNEL: Den som är för, räck upp handen.
+= 찬성하는 사람, 손 드세요.
+PER: Jag räcker upp båda.
+= 난 두 손 다 들게요.
+MAJA: Jag räknar. Tjugo, fyrtio, sextio… hundratjugo… hundratrettiofem.
+= 내가 셀게. 스물, 마흔, 예순… 백이십… 백삼십오.
+GUNNEL: Den som är emot?
+= 반대하는 사람?
+MAJA: Två. Och tre som inte vet.
+= 둘. 그리고 모르겠다는 사람 셋.
+KALEVI: Jag är en av dem som inte vet. Jag är finsk. Vi säger aldrig ja på första mötet.
+= 난 모르겠다는 사람 중 하나야. 난 핀란드인이거든. 우린 첫 모임에선 절대 찬성 안 해.
+FADUMO: Och vi somalier säger alltid ja på första mötet. Sen diskuterar vi i tre timmar.
+= 그리고 우리 소말리아 사람들은 첫 모임에서 늘 찬성해요. 그다음에 세 시간 동안 토론하죠.
+STRINDBERG: Sverige behöver båda.
+= 스웨덴엔 둘 다 필요하지.
+KALEVI: Och nu, efter tio minuter… säger jag ja. Det är snabbt för en finne.
+= 그리고 이제, 10분 지났으니… 찬성할게. 핀란드인치곤 빠르지.
+JOHAN: Hundratrettiosex av hundrafyrtio. Det är en förening. Ni behöver en ordförande.
+= 140명 중 136명. 모임이 생겼어요. 위원장이 필요해요.
+PER: Gunnel. Vem annars?
+= 군넬. 달리 누가 있어요?
+GUNNEL: Jag har varit ordförande en gång. Det räcker för ett liv.
+= 위원장은 한 번 해 봤어. 한평생엔 그걸로 충분해.
+PER: Då blir du det två gånger. Det räcker för två liv.
+= 그럼 두 번 하는 거예요. 두 번의 인생엔 그걸로 충분하죠.
+GUNNEL: Okej. Men Per är sekreterare. Och skriver protokollet.
+= 알았어. 근데 페르가 총무야. 그리고 회의록도 써.
+PER: Jag? Jag kunde inte ens öppna mina brev i höstas.
+= 저요? 전 지난가을에 편지도 못 열었는데요.
+GUNNEL: Nu skriver du dem i stället. Det är bättre medicin.
+= 이제 대신 네가 쓰는 거야. 그게 더 좋은 약이지.
+ELSA: Protokoll. Det betyder att man skriver ner vad som har bestämts?
+= 회의록. 결정된 걸 적는다는 뜻이죠?
+ANTON: Vad som har bestämts, och av vem. I aktiv form, Per.
+= 뭐가 결정됐는지, 그리고 누가 결정했는지. 능동형으로, 페르.
+PER: ”Föreningen beslutade.” Är det aktivt?
+= ‘모임이 결정했다.’ 그게 능동형이에요?
+ANTON: Det är det mest aktiva jag har hört i dag.
+= 오늘 들은 것 중에 제일 능동적인 문장이네요.
+
+# 마무리 — FEMTONTUSEN KRONOR
+GUNNEL: Johan. Telefonen. Någon har skickat en bild i Facebookgruppen.
+= 요한. 전화. 누가 페이스북 그룹에 사진을 올렸어.
+JOHAN: Ett nytt brev från Nordhem? Redan? I dag är det söndag.
+= 노르드헴에서 또 편지? 벌써? 오늘 일요일인데.
+GUNNEL: Det delades ut i trappuppgångarna i eftermiddags. Medan vi satt här.
+= 오늘 오후에 계단통마다 돌렸대. 우리가 여기 앉아 있는 동안.
+ELSA: ”Erbjudande. Den som skriver under godkännandet före den 1 mars får femtontusen kronor i ersättning.”
+= ‘제안. 3월 1일 전에 동의서에 서명하는 분께 보상금 1만 5천 크로나를 드립니다.’
+PER: Femtontusen. Det är mycket pengar för många här.
+= 1만 5천. 여기 많은 사람들한텐 큰돈이에요.
+LINDA: Det är mer än jag har på kontot. Mycket mer.
+= 내 계좌에 있는 것보다 많아요. 훨씬 많이.
+GUNNEL: Det vet de, Linda. Därför är det femtontusen och inte femhundra.
+= 그쪽도 알아, 린다. 그래서 500이 아니라 1만 5천인 거야.
+MAJA: Och sextio procent högre hyra i tio år är över sex hundratusen. Räkna.
+= 그리고 10년 동안 60퍼센트 오른 월세는 60만이 넘어. 계산해 봐.
+STRINDBERG: Tjugo tusen för Shirin 2007. Femton tusen för Vårberg 2027. Priset på en människas hem har sjunkit.
+= 2007년 쉬린에겐 2만. 2027년 바르베리엔 1만 5천. 사람 집 값이 떨어졌군.
+JOHAN: De vet att vi bildade en förening. De vill dela oss innan vi har börjat.
+= 우리가 모임을 만든 걸 알아. 시작하기도 전에 우리를 갈라놓고 싶은 거야.
+GUNNEL: Det har arbetsgivare gjort i hundra år. Det har aldrig fungerat när folk har pratat med varandra först.
+= 고용주들이 백 년 동안 해 온 짓이야. 사람들이 먼저 서로 이야기했을 땐 한 번도 안 통했어.
+FADUMO: Jag tar trapphusen på Vårbergsvägen. Jag knackar på varje dörr i kväll.
+= 바르베리스베겐 계단통은 내가 맡을게요. 오늘 밤 모든 문을 두드릴게요.
+KALEVI: Och jag tar de finska. Vi är sjutton. Jag känner alla. De flesta är mina fiender från bastun.
+= 그리고 난 핀란드 사람들을 맡지. 우린 열일곱 명이야. 다 알아. 대부분은 사우나에서 생긴 적들이지만.
+ELSA: Och hur många dagar har vi?
+= 그리고 며칠 남았어요?
+ANTON: Till första mars? Sexton.
+= 3월 1일까지? 16일.
+ELSA: Sexton dagar. Det har vi haft förut.
+= 16일. 전에도 있었던 숫자네요.
+JOHAN: Då vet vi att det räcker.
+= 그럼 충분하다는 걸 알지.
+STRINDBERG: Sexton dagar. Jag skriver en lapp för varje dag.
+= 16일. 하루에 쪽지 하나씩 쓰겠소.
+NEXT: 3부 4화 — «Förhandlingen»(협상) — 1만 5천 크로나의 유혹 속에서 세입자 모임이 노르드헴과 협상 테이블에 앉는다. 번아웃에서 돌아온 Anton이 쉬운 말로 회의를 이끈다.
