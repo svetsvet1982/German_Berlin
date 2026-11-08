@@ -1,0 +1,267 @@
+PART: 4
+EP: 2
+TITLE: Far och son
+SUBTITLE: 아버지와 아들 · 재판 2, 카페 Biggans
+META: 대사 120턴 · 난이도 B2 · 배경: 5월 첫째 주 월요일, 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: HAMMARSKJÖLD | 부활한 유엔 사무총장 (1905–1961)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: LOVISA | 경제범죄청 검사 (가상)
+NOTE: ※ 법률가가 어떤 사건에 개인적으로 얽혀 있어 공정하게 일하기 어려운 상태를 ‘jäv’(이해충돌)라고 합니다. Johan은 아버지가 용의자이고, 자신도 2015년 Norrhem의 변호사였기 때문에 이 사건에서 한 걸음 물러나야 합니다. 또 스웨덴 소송법상 변호사는 의뢰인이 맡긴 비밀에 대해 원칙적으로 법정에서 증언할 수 없습니다. 형사 사건에서는 수사가 끝나면 검사가 기소(åtal)를 하고, 지방법원(tingsrätt)에서 공판(huvudförhandling)이 열립니다. 큰 경제 범죄 재판은 몇 달씩 이어지기도 합니다. 문법 초점: 찬반 논증(å ena sidan… å andra sidan, trots att, ändå). 표현 초점: jäv, lojalitet, avstå, åtal, huvudförhandling.
+
+# 도입 — MÅNDAG EFTER FÖRSTA MAJ
+BIGGAN: Måndag. Alla har ont i fötterna efter tåget. Och Johan har ont någon annanstans.
+= 월요일. 행진 때문에 다들 발이 아파. 그리고 요한은 다른 데가 아프고.
+JOHAN: Jag har ett förslag. Och ni måste säga vad ni tycker. Ärligt.
+= 제안이 하나 있어. 그리고 다들 어떻게 생각하는지 말해 줘. 솔직하게.
+MAJA: Vi säger alltid vad vi tycker. Det är problemet med oss.
+= 우린 늘 생각하는 걸 말해. 그게 우리 문제지.
+DANIEL: Särskilt Maja.
+= 특히 마야가.
+MAJA: Särskilt jag.
+= 특히 내가.
+JOHAN: Jag kliver tillbaka. Från allt som har med Nordhem att göra.
+= 난 물러날게. 노르드헴과 관련된 모든 일에서.
+ELSA: Tillbaka? Vad betyder det?
+= 물러난다고요? 그게 무슨 뜻이에요?
+JOHAN: Att jag inte leder något längre. Inte Vårberg, inte kontakten med Sanna, inte med polisen.
+= 더 이상 아무것도 이끌지 않는다는 거. 바르베리도, 산나와의 연락도, 경찰과의 연락도.
+ANTON: Varför? Det är du som har byggt allt det här.
+= 왜? 이걸 다 만든 게 너잖아.
+JOHAN: För att pappa är misstänkt. Och för att jag var Norrhems advokat 2015. Det är jäv. På två sätt.
+= 아버지가 용의자니까. 그리고 내가 2015년에 노르헴 변호사였으니까. 이해충돌이야. 두 가지 면에서.
+ELSA: Jäv. Jag har hört ordet. Men jag förstår det inte riktigt.
+= 이해충돌. 그 말은 들어 봤어요. 근데 잘 이해가 안 돼요.
+JOHAN: När man har ett personligt intresse i en sak, kan man inte vara opartisk. Även om man försöker. Andra kan alltid säga: han gör det för sin pappas skull. Eller emot sin pappa.
+= 어떤 일에 개인적인 이해가 걸려 있으면 공정할 수가 없어. 노력해도. 다른 사람들이 늘 이렇게 말할 수 있지: 아버지를 위해서 그런다. 아니면 아버지에게 맞서려고 그런다.
+DANIEL: Och båda delarna är sanna. Det är det som är så svårt.
+= 그리고 둘 다 사실이지. 그래서 그렇게 어려운 거고.
+BIGGAN: Vem leder då?
+= 그럼 누가 이끌어?
+JOHAN: Anton. Och Maja. Anton för människorna. Maja för siffrorna.
+= 안톤. 그리고 마야. 사람은 안톤이. 숫자는 마야가.
+ANTON: Jag? Jag var sjukskriven för tre månader sedan.
+= 내가? 석 달 전엔 병가 중이었는데.
+MAJA: Och jag har anmält mig själv. Jag kanske inte ens är revisor om en månad.
+= 그리고 난 나 자신을 신고했어. 한 달 뒤엔 회계사가 아닐 수도 있어.
+JOHAN: Ni är de två som har förändrats mest i det här huset. Det är därför.
+= 이 집에서 제일 많이 변한 사람이 너희 둘이야. 그래서야.
+OXENSTIERNA: När jag blev kansler var jag tjugoåtta. Kungen sa: ”Du är för ung.” Jag svarade: ”Det går över.”
+= 내가 재상이 됐을 땐 스물여덟이었네. 왕이 말했지: ‘너무 젊구나.’ 난 대답했소: ‘그건 지나갑니다.’
+ANTON: Och gick det över?
+= 그래서 지나갔어요?
+OXENSTIERNA: Efter fyrtio år. Det tar tid.
+= 40년 뒤에. 시간이 걸리지.
+ELSA: Och jag? Vad gör jag?
+= 그럼 저는요? 전 뭐 해요?
+JOHAN: Det du alltid gör. Du frågar. Och du skriver ner svaren. Det är det viktigaste jobbet.
+= 늘 하던 거. 질문하고. 대답을 받아 적고. 그게 제일 중요한 일이야.
+ELSA: Det har jag gjort sedan november. Jag har tre fulla anteckningsblock nu.
+= 11월부터 해 왔어요. 이제 수첩이 세 권 꽉 찼어요.
+
+# 장면 1 — JÄV
+ELSA: Men vad får du göra, Johan? Får du ingenting?
+= 근데 요한은 뭘 할 수 있어요? 아무것도 못 해요?
+JOHAN: Jag får fortsätta hjälpa hyresgästföreningen med hyresfrågor. Det har inget med pappa att göra. Och jag får vara på Biggans fredagar.
+= 세입자 모임의 임대 문제는 계속 도울 수 있어. 그건 아버지랑 상관없으니까. 그리고 비간의 금요일에는 있을 수 있고.
+BIGGAN: Det får du alltid. Det kräver ingen jävsprövning.
+= 그건 언제든지 돼. 이해충돌 심사가 필요 없지.
+MAJA: Och 2015? Allt du vet om Omsättningsplanen?
+= 그럼 2015년은? ‘회전 계획’에 대해 아는 거 전부?
+JOHAN: Det får jag aldrig säga. Inte till er, inte till åklagaren, inte i domstolen. Om inte Norrhem släpper min tystnadsplikt.
+= 그건 절대 말할 수 없어. 너희한테도, 검사한테도, 법정에서도. 노르헴이 내 비밀 유지 의무를 풀어 주지 않는 한.
+ANTON: Och det gör de aldrig.
+= 그리고 그쪽은 절대 안 풀어 주겠지.
+JOHAN: Aldrig. Den som är skyldig vill sällan att advokaten pratar.
+= 절대로. 죄가 있는 쪽은 변호사가 말하는 걸 원하지 않으니까.
+DANIEL: Men du berättade om den vid Biggans bord. I december.
+= 근데 12월에 비간 식탁에서 얘기했잖아.
+JOHAN: Ja. Och det var fel. Ett misstag. Jag var trött och full av känslor. Det var en fredag.
+= 응. 그건 잘못이었어. 실수였지. 피곤했고 감정이 북받쳤어. 금요일이었고.
+BIGGAN: Mitt bord är inte en domstol. Det som sägs här stannar här.
+= 내 식탁은 법정이 아니야. 여기서 한 말은 여기 남아.
+JOHAN: Jag vet. Men lagen bryr sig inte om vilket bord det är.
+= 알아. 근데 법은 무슨 식탁인지 신경 안 써.
+HAMMARSKJÖLD: Det finns saker man vet men inte får säga. Det är en av de tyngsta bördor en människa kan bära.
+= 알면서도 말할 수 없는 것들이 있죠. 사람이 질 수 있는 가장 무거운 짐 중 하나예요.
+ELSA: Hade ni sådana saker? I FN?
+= 그런 것들이 있으셨어요? 유엔에서?
+HAMMARSKJÖLD: Varje dag. Kongo. Suez. Ungern. Jag visste mycket. Och sa lite. Ibland för lite.
+= 매일. 콩고. 수에즈. 헝가리. 많이 알았죠. 그리고 적게 말했어요. 가끔은 너무 적게.
+ELSA: Hur bar ni det?
+= 그걸 어떻게 견디셨어요?
+HAMMARSKJÖLD: Jag skrev. I en liten bok som ingen fick läsa. Den publicerades efter att jag dog.
+= 썼어요. 아무도 읽지 못하는 작은 책에. 내가 죽은 뒤에 출판됐죠.
+JOHAN: ”Vägmärken.” Jag har läst den.
+= 『이정표』. 읽었어요.
+HAMMARSKJÖLD: Då vet du att det inte hjälpte särskilt mycket. Men det hjälpte lite.
+= 그럼 그게 별로 도움이 안 됐다는 것도 알겠군요. 하지만 조금은 도움이 됐어요.
+ANTON: Kanske ska Johan skriva också. På fredagarna.
+= 요한도 써야 하나 봐. 금요일마다.
+JOHAN: Jag har inget att skriva om som jag får skriva om.
+= 써도 되는 것 중엔 쓸 게 없어.
+MAJA: Skriv om pappa. Inte om fallet. Om pappa.
+= 아버지에 대해 써. 사건 말고. 아버지에 대해.
+JOHAN: Kanske. På fredag.
+= 어쩌면. 금요일에.
+
+# 장면 2 — KAN MAN LITA PÅ HONOM?
+ANTON: Okej. Om jag ska leda, vill jag börja med den svåraste frågan. Kan vi lita på Gustaf Ek? Om han vittnar?
+= 좋아. 내가 이끌 거라면, 제일 어려운 질문부터 시작하고 싶어. 구스타프 엑을 믿을 수 있을까? 그분이 증언하면?
+DANIEL: Nej.
+= 아니.
+ANTON: Varför?
+= 왜?
+DANIEL: För att han gör det för sin egen skull. För ett lägre straff. Han har räddat sig själv i fyrtiofem år. Han slutar inte nu.
+= 자기를 위해서 하는 거니까. 형을 낮추려고. 45년 동안 자기 자신을 구해 왔어. 이제 와서 멈추진 않아.
+ELSA: Men å andra sidan… han sa till Johan att han är stolt över honom. Det låter inte som någon som bara räddar sig själv.
+= 근데 다른 한편으로… 요한한테 자랑스럽다고 하셨잖아요. 그건 자기만 구하려는 사람 같지 않아요.
+DANIEL: Folk säger fina saker när de är rädda. Jag ser det varje natt på akuten.
+= 사람들은 무서울 때 좋은 말을 해. 응급실에서 매일 밤 봐.
+ELSA: Men du säger också fina saker. Och du är inte rädd.
+= 근데 다니엘도 좋은 말 하잖아요. 그리고 무섭지도 않고.
+DANIEL: Jag är alltid rädd, Elsa. Jag säger det bara inte.
+= 난 늘 무서워, 엘사. 말을 안 할 뿐이지.
+INGRID: Jag har läst hans yttranden. I sju år. Varje gång banken undrade, svarade han ”lagligt”. Med vacker svenska. Utan att blinka.
+= 난 그분 의견서를 읽었어요. 7년 동안. 은행이 궁금해할 때마다 ‘합법’이라고 답했죠. 아름다운 스웨덴어로. 눈 하나 깜짝 안 하고.
+ANTON: Så du litar inte heller på honom?
+= 그럼 당신도 그분을 안 믿어요?
+INGRID: Jag litar på hans papper. Inte på hans ord. Hans papper är alltid exakta. Det är det som gör dem farliga.
+= 그분 서류는 믿어요. 말은 안 믿고. 그분 서류는 늘 정확해요. 그래서 위험한 거고요.
+OXENSTIERNA: Det är det klokaste någon har sagt om en advokat.
+= 변호사에 대해 들은 말 중에 가장 현명한 말이군.
+MAJA: Men vi behöver honom. Han är den enda som vet vem som står bakom bolagen på Cypern. Ingrid vet inte. Jag vet inte. Ingen vet.
+= 근데 우린 그분이 필요해. 키프로스 회사들 뒤에 누가 있는지 아는 건 그분뿐이야. 잉리드도 몰라. 나도 몰라. 아무도 몰라.
+ELSA: Trots att han kanske ljuger?
+= 거짓말할지도 모르는데도요?
+MAJA: Trots att han kanske ljuger. Ett vittne behöver inte vara snällt. Det behöver bara säga saker som går att kontrollera.
+= 거짓말할지도 모르는데도. 증인이 착할 필요는 없어. 확인할 수 있는 말을 하기만 하면 돼.
+OXENSTIERNA: I Westfalen litade ingen på någon. Ändå blev det fred. För att alla kontrollerade alla.
+= 베스트팔렌에선 아무도 서로를 믿지 않았네. 그래도 평화가 왔지. 모두가 모두를 확인했으니까.
+BIGGAN: Och du, Johan? Vad tror du?
+= 그럼 너는, 요한? 넌 어떻게 생각해?
+JOHAN: Jag får inte tycka. Det är det som är jäv.
+= 난 의견을 가지면 안 돼. 그게 이해충돌이야.
+BIGGAN: Inte som advokat. Som son.
+= 변호사로서 말고. 아들로서.
+JOHAN: …Som son tror jag att han menar det. Och att han är rädd. Och att han fortfarande vill vinna. Allt på samma gång.
+= …아들로서는 아버지가 진심이라고 생각해. 그리고 무서워하신다고. 그리고 여전히 이기고 싶어 하신다고. 전부 동시에.
+HAMMARSKJÖLD: Det är så de flesta människor är. Allt på samma gång.
+= 대부분의 사람이 그래요. 전부 동시에.
+ANTON: Okej. Sammanfattning. Vi litar inte på honom. Men vi lyssnar. Och vi kontrollerar allt han säger.
+= 좋아. 요약. 그분을 믿진 않는다. 하지만 듣는다. 그리고 그분이 하는 말은 전부 확인한다.
+MAJA: Det är den första matris du har gjort som jag gillar.
+= 네가 만든 매트릭스 중에 처음으로 마음에 든다.
+ANTON: Det är ingen matris. Det är tre meningar.
+= 매트릭스 아니야. 세 문장이야.
+ELSA: Tre meningar är Antons nya matris.
+= 세 문장이 안톤의 새 매트릭스예요.
+
+# 절정 — ÅKLAGAREN
+BIGGAN: Det står en kvinna i dörren. Grå kavaj. Ingen ryggsäck. Hon ser ut att inte ha haft semester sedan 2019.
+= 문 앞에 여자 한 명이 서 있어. 회색 재킷. 배낭 없이. 2019년 이후로 휴가를 못 간 얼굴이야.
+LOVISA: Hej. Lovisa Ström. Kammaråklagare på Ekobrottsmyndigheten. Får jag komma in?
+= 안녕하세요. 로비사 스트룀입니다. 경제범죄청 검사예요. 들어가도 될까요?
+JOHAN: Åklagaren. I pappas ärende.
+= 검사님이세요. 아버지 사건의.
+LOVISA: I Rehnbergs ärende. Er pappa är ett av flera spår.
+= 렌베리 사건이에요. 당신 아버지는 여러 갈래 중 하나고요.
+BIGGAN: Kaffe? Med mjölk från en ko?
+= 커피? 소에서 나온 우유 넣어서?
+LOVISA: Svart. Jag har inte tid med mjölk.
+= 블랙이요. 우유 넣을 시간이 없어요.
+BIGGAN: Regel åtta. Den som inte har tid äter ändå.
+= 규칙 8번. 시간 없는 사람도 먹는다.
+LOVISA: …En bulle, då. Tack.
+= …그럼 번 하나요. 고마워요.
+ELSA: Varför är ni här?
+= 왜 오셨어요?
+LOVISA: För att flera av er kommer att bli vittnen. Ingrid Falk. Maja Holm. Farid Ahmadi. Och kanske fler. Jag vill att ni hör det från mig.
+= 여러분 중 몇 명이 증인이 될 거라서요. 잉리드 팔크. 마야 홀름. 파리드 아흐마디. 그리고 아마 더. 저한테서 직접 듣길 바랐어요.
+MAJA: Vittnen. I en rättegång.
+= 증인. 재판에서.
+LOVISA: Åtalet väcks i slutet av maj. Huvudförhandlingen börjar i juni. I Stockholms tingsrätt. Den kommer att pågå i flera veckor. Med uppehåll i juli.
+= 기소는 5월 말에 할 거예요. 공판은 6월에 시작하고요. 스톡홀름 지방법원에서. 몇 주 동안 이어질 거예요. 7월엔 휴정하고.
+ELSA: Uppehåll i juli? Även domstolar har semester?
+= 7월에 휴정이요? 법원도 휴가가 있어요?
+LOVISA: Hela Sverige har semester i juli. Även brottslingar, ibland.
+= 스웨덴 전체가 7월엔 휴가예요. 범죄자들도 가끔은.
+ANTON: Och måste de komma? Vittnena?
+= 그럼 꼭 와야 해요? 증인들은?
+LOVISA: Den som kallas som vittne måste komma. Det är en medborgerlig plikt. Som att betala skatt.
+= 증인으로 소환되면 와야 해요. 시민의 의무예요. 세금 내는 것처럼.
+INGRID: Och mitt vittnesmål? Om banken?
+= 그럼 내 증언은요? 은행에 관한?
+LOVISA: Det är centralt. Du var den som såg det först. Dina rapporter från 2017 till 2019 visar att banken visste.
+= 핵심이에요. 처음 본 사람이 당신이니까요. 2017년부터 2019년까지의 당신 보고서가 은행이 알고 있었다는 걸 보여 줘요.
+INGRID: De rapporterna har jag skrivit för att någon skulle läsa dem. Nu ska en domstol göra det.
+= 그 보고서들은 누군가 읽으라고 쓴 거예요. 이제 법원이 읽겠네요.
+LOVISA: Och Johan. Jag vet att du var Norrhems advokat 2015. Jag kommer inte att kalla dig som vittne om det. Jag vet att du inte får.
+= 그리고 요한. 2015년에 노르헴 변호사였던 거 알아요. 그것에 대해선 증인으로 부르지 않을 거예요. 할 수 없다는 거 알아요.
+JOHAN: Tack.
+= 감사합니다.
+LOVISA: Men din pappa har kontaktat mig. Genom en ny advokat. Han vill lämna uppgifter. Det vet du.
+= 하지만 당신 아버지가 연락해 왔어요. 새 변호사를 통해서. 진술하고 싶대요. 알고 있죠.
+JOHAN: Jag vet. Han sa det vid valborgselden.
+= 알아요. 발보리 모닥불 앞에서 말씀하셨어요.
+LOVISA: Jag kan inte lova honom något. Det finns inget sådant system i Sverige. Men om det han säger hjälper utredningen, kommer domstolen att få veta det.
+= 아무것도 약속할 수 없어요. 스웨덴엔 그런 제도가 없으니까요. 하지만 그분 말이 수사에 도움이 된다면, 법원이 그걸 알게 될 거예요.
+DANIEL: Och om han ljuger?
+= 그리고 거짓말하면요?
+LOVISA: Då kontrollerar vi det. Allt kontrolleras. Det är mitt jobb.
+= 그럼 확인하죠. 모든 건 확인돼요. 그게 제 일이에요.
+OXENSTIERNA: En åklagare som säger ”allt kontrolleras”. Jag hade velat ha henne i Westfalen.
+= ‘모든 건 확인된다’고 말하는 검사라. 베스트팔렌에 데려가고 싶었군.
+
+# 마무리 — ETT STEG TILLBAKA
+LOVISA: En sak till. Inte som åklagare. Ni har gjort ett bra arbete. Rapporten till Finansinspektionen var i rätt ordning. Det gör vårt jobb mycket lättare.
+= 하나 더요. 검사로서가 아니라. 좋은 일을 하셨어요. 금융감독청 신고가 올바른 순서로 이뤄졌어요. 덕분에 우리 일이 훨씬 쉬워졌어요.
+ANTON: Det var Johans idé.
+= 그건 요한 생각이었어요.
+LOVISA: Då är det synd att han måste kliva tillbaka. Men det är rätt.
+= 그럼 그가 물러나야 하는 게 아쉽네요. 하지만 그게 맞아요.
+JOHAN: Jag vet.
+= 알아요.
+LOVISA: Tack för bullen. Den var… bättre än jag förtjänar på en måndag.
+= 번 고마워요. 월요일에 제가 받을 자격이 있는 것보다… 맛있었어요.
+BIGGAN: Kom tillbaka när du har tid.
+= 시간 날 때 또 와요.
+LOVISA: Jag har aldrig tid.
+= 저는 시간이 없어요.
+BIGGAN: Då kommer du ändå. Regel åtta.
+= 그럼 그래도 와. 규칙 8번.
+LOVISA: Ni har många regler i det här huset.
+= 이 집엔 규칙이 많네요.
+BIGGAN: Färre än i brottsbalken.
+= 형법보다는 적어.
+ELSA: Johan… hur känns det? Att kliva tillbaka?
+= 요한… 기분이 어때요? 물러나는 거?
+JOHAN: Som att lämna ifrån sig en väska man har burit länge. Den är lättare. Men man vet inte vad man ska göra med händerna.
+= 오래 들고 다니던 가방을 내려놓는 것 같아. 가벼워. 근데 손을 어디 둬야 할지 모르겠어.
+ANTON: Det sa jag om laptopen. I januari.
+= 그거 내가 1월에 노트북 두고 했던 말이야.
+JOHAN: Och vad gjorde du med händerna?
+= 그래서 손은 어떻게 했어?
+ANTON: Jag höll i en kopp kamomillte. Jag hatade det. Det hjälpte.
+= 캐모마일 차 잔을 들었지. 싫었어. 도움이 됐어.
+BIGGAN: Kamomill till Johan. Med honung.
+= 요한한테 캐모마일. 꿀 넣어서.
+HAMMARSKJÖLD: Och kanske en anteckningsbok. Till fredagarna.
+= 그리고 어쩌면 수첩도. 금요일을 위해.
+MAJA: Och vi andra? Vi har en rättegång att förbereda. Anton?
+= 그럼 우리 나머지는? 준비할 재판이 있어. 안톤?
+ANTON: Ett steg i taget. Det är Johans mening. Men jag lånar den.
+= 한 걸음씩. 요한의 문장이지만. 빌려 쓸게.
+JOHAN: Ta den. Den är din nu.
+= 가져. 이제 네 거야.
+ELSA: Och ”Räkna dagarna”? Vem får den?
+= 그럼 ‘날짜를 세어 보게’는요? 그건 누가 가져요?
+MAJA: Den är fortfarande Wicksells. Han lånar aldrig ut något.
+= 그건 아직 빅셀 님 거야. 그분은 절대 아무것도 안 빌려줘.
+NEXT: 4부 3화 — «Nämndemännen»(시민 배심 판사들) — 6월, 스톡홀름 지방법원에서 재판이 시작된다. 정당 추천으로 뽑힌 시민 배심 판사가 직업 판사 옆에 앉는다는 걸 Elsa가 놀라워한다. Oxenstierna와 Wicksell의 제도 논쟁.
