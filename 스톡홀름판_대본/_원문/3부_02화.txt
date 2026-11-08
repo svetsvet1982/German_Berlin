@@ -1,0 +1,267 @@
+PART: 3
+EP: 2
+TITLE: Bolag i bolag
+SUBTITLE: 회사 속 회사 · 추적 2, Södermalm과 에스킬스투나
+META: 대사 120턴 · 난이도 B2 · 배경: 2월 첫째 주 수요일 카페 Biggans에서 목요일 에스킬스투나까지
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트 (반일 복귀)
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: ROLF | 에스킬스투나의 연금 생활자 · 30개 회사의 명의 이사 · 72세 (가상)
+CAST: GUNNEL | 전 SL 버스기사 노조 대표 · Vårberg 주민 (가상)
+NOTE: ※ 스웨덴의 주식회사는 매년 연간 보고서(årsredovisning)를 회사등기소에 내야 하고, 누구나 그것을 볼 수 있습니다. Maja와 Ingrid가 바르베리의 서른 개 회사 보고서를 읽자 패턴이 보입니다: 월세 수입은 많은데 이익은 거의 없습니다. 같은 그룹의 모회사에서 높은 이자로 돈을 빌린 것처럼 만들어(koncerninterna lån), 이익을 이자로 해외에 보내는 방식입니다. 이런 이자 공제를 막는 규정이 있지만 빈틈도 있습니다. 서른 개 회사의 이사로 이름이 올라 있는 사람은 에스킬스투나의 72세 연금 생활자 Rolf. 그는 자기가 무엇에 서명했는지 모릅니다. 문법 초점: 관계절(som, där, vars)과 수동태. 표현 초점: årsredovisning, ränta, koncern, styrelseledamot, målvakt.
+
+# 도입 — TRETTIO ÅRSREDOVISNINGAR
+BIGGAN: Ni har suttit här sedan sex i morse. Maja, Ingrid. Ni har druckit nio koppar var.
+= 너희 아침 여섯 시부터 여기 앉아 있었어. 마야, 잉리드. 각자 아홉 잔씩 마셨고.
+MAJA: Tio. Jag räknar.
+= 열 잔. 내가 세고 있어.
+INGRID: Elva för mig. Jag räknar inte, men jag vet.
+= 난 열한 잔. 세진 않지만, 알아요.
+ELSA: Hur går det? Ni har inte sagt ett ord på två timmar.
+= 어떻게 돼 가요? 두 시간 동안 한마디도 안 하셨어요.
+MAJA: Revisorer pratar inte när de läser. Det är som att be en kirurg sjunga under en operation.
+= 회계사는 읽을 땐 말을 안 해. 수술 중인 외과 의사한테 노래하라는 거랑 같아.
+DANIEL: Jag har sjungit under operationer.
+= 난 수술하면서 노래한 적 있는데.
+MAJA: Och patienterna?
+= 그럼 환자들은?
+DANIEL: Sov.
+= 잤지.
+JOHAN: Okej. Vad har ni hittat?
+= 좋아. 뭘 찾았어?
+INGRID: Ett mönster. Som alltid. Det är alltid ett mönster.
+= 패턴이요. 언제나 그렇듯. 언제나 패턴이 있어요.
+MAJA: Trettio bolag. Alla trettio har samma struktur. Som om någon har kopierat en mall.
+= 회사 서른 개. 서른 개 전부 구조가 같아. 누가 양식을 복사한 것처럼.
+ANTON: En mall. Jag har gjort sådana. För kunder. Jag skäms lite.
+= 양식. 나 그런 거 만들어 봤어. 고객들한테. 좀 부끄럽네.
+ELSA: Vad står det i dem?
+= 뭐라고 적혀 있어요?
+MAJA: Ta Vårberg Fastighet 7 AB. Ett hus med tjugo lägenheter. Hyresintäkter förra året: två komma fyra miljoner kronor.
+= 바르베리 부동산 7 AB를 봐. 스무 세대짜리 건물 하나. 작년 임대 수입: 240만 크로나.
+ELSA: Det är mycket pengar.
+= 큰돈이네요.
+MAJA: Och vinst efter skatt: noll. Exakt noll. Nästan på kronan.
+= 그리고 세후 이익: 0. 정확히 0. 거의 1크로나 단위까지.
+WICKSELL: Ett bolag som tjänar två miljoner och inte tjänar något. Det är inte ekonomi. Det är konst.
+= 200만을 벌면서 아무것도 안 버는 회사라. 그건 경제가 아니라 예술이군.
+JOHAN: Var tar pengarna vägen?
+= 돈은 어디로 가?
+INGRID: Till två ställen. Räntor och renoveringar.
+= 두 곳으로요. 이자와 리노베이션.
+BIGGAN: Det låter som min ekonomi också. Fast utan Cypern.
+= 내 살림 같네. 키프로스만 빼고.
+MAJA: Din ekonomi går med vinst, Biggan. Jag har sett dina böcker.
+= 비간 살림은 이익이 나잖아요. 장부 봤어요.
+BIGGAN: Liten vinst. Ärlig vinst.
+= 작은 이익. 정직한 이익.
+
+# 장면 1 — RÄNTAN SOM RESER
+MAJA: Bolaget har ett lån. Femton miljoner. Inte från en bank. Från Nordhem Holding. Moderbolaget.
+= 이 회사엔 대출이 있어. 1,500만. 은행이 아니라. 노르드헴 홀딩에서. 모회사.
+ELSA: Ursäkta, vad är ett moderbolag?
+= 실례지만, 모회사가 뭐예요?
+MAJA: Bolaget som äger de andra bolagen. Mamman i familjen. Tillsammans kallas de en koncern.
+= 다른 회사들을 소유하는 회사. 가족의 엄마. 다 합쳐서 그룹이라고 해.
+ELSA: Så mamman lånar ut pengar till barnen?
+= 그럼 엄마가 아이들한테 돈을 빌려주는 거예요?
+INGRID: Och tar ränta. Nio procent.
+= 그리고 이자를 받죠. 9퍼센트.
+ANTON: Nio procent? Bankerna tar fyra.
+= 9퍼센트? 은행은 4퍼센트 받는데.
+MAJA: Exakt. Nio procent på femton miljoner. Det är en komma tre fem miljoner om året. I ränta. Till mamman.
+= 정확해. 1,500만에 9퍼센트. 1년에 135만. 이자로. 엄마한테.
+JOHAN: Och räntan är en kostnad för bolaget i Vårberg. Så vinsten blir mindre. Och skatten blir mindre.
+= 그리고 그 이자는 바르베리 회사엔 비용이지. 그래서 이익이 줄어. 그리고 세금도 줄고.
+WICKSELL: Och mamman? Betalar hon skatt på räntan hon får?
+= 그럼 엄마는? 받은 이자에 세금을 내나?
+INGRID: Mamman skickar den vidare. Till Norrhem Holding på Cypern. Som också lånar ut till mamman. Med ännu högre ränta.
+= 엄마는 그걸 또 보내요. 키프로스의 노르헴 홀딩으로. 거기서도 엄마한테 돈을 빌려주거든요. 이자를 더 높게 해서.
+ELSA: Så pengarna reser från Vårberg till Södermalm till Cypern. Som ränta.
+= 그럼 돈이 바르베리에서 쇠데르말름으로, 키프로스로 여행하는 거네요. 이자로.
+WICKSELL: Räntan som reser. Det är min gamla specialitet. Jag skrev om räntor i hela mitt liv. Men aldrig om räntor som reser till öar.
+= 여행하는 이자라. 내 오랜 전문 분야네. 평생 이자에 대해 썼지. 근데 섬으로 여행하는 이자에 대해선 한 번도 안 썼어.
+BIGGAN: Mina räntor reser bara till Handelsbanken på Götgatan.
+= 내 이자는 예트가탄의 한델스방켄까지만 여행해.
+DANIEL: Är det olagligt?
+= 그거 불법이야?
+JOHAN: Det finns regler mot det. Sedan 2019 får man inte dra av hur mycket ränta som helst. Men det finns undantag. Och skickliga jurister hittar dem.
+= 그걸 막는 규정이 있어. 2019년부터는 이자를 무한정 공제할 수 없어. 근데 예외가 있지. 그리고 능숙한 법률가들은 그걸 찾아내.
+ELSA: Skickliga jurister. Som din pappa?
+= 능숙한 법률가들. 아버지 같은?
+JOHAN: Som min pappa. Och som jag. En gång.
+= 우리 아버지 같은. 그리고 나 같은. 한때는.
+MAJA: Och sen renoveringarna. Fyrahundratusen förra året. Bara för det här huset.
+= 그리고 리노베이션. 작년에 40만. 이 건물 하나만.
+ANTON: Vilka renoveringar?
+= 무슨 리노베이션?
+MAJA: ”Underhåll och standardhöjande åtgärder.” Utförda av… Lundgrens Bygg och Städ AB.
+= ‘유지보수 및 표준 상향 조치.’ 시공: … 룬드그렌 건설·청소 AB.
+ELSA: Lundgren! Farids Lundgren!
+= 룬드그렌! 파리드의 룬드그렌!
+JOHAN: Det är samma bolag i alla trettio årsredovisningar?
+= 서른 개 보고서 전부에 같은 회사야?
+MAJA: Alla trettio. Lundgren har renoverat Vårberg för tolv miljoner på tre år.
+= 서른 개 전부. 룬드그렌이 3년 동안 바르베리를 1,200만어치 리노베이션했어.
+GUNNEL: Tolv miljoner? Jag bor i Vårberg. Det enda som har renoverats är tvättstugan. Och den är fortfarande trasig.
+= 1,200만? 나 바르베리에 살아. 리노베이션된 건 세탁실뿐이야. 그리고 그것도 아직 고장 나 있어.
+ELSA: Gunnel! När kom du?
+= 군넬! 언제 오셨어요?
+GUNNEL: Nyss. Jag hörde ”Vårberg” från trappan.
+= 방금. 계단에서 ‘바르베리’ 소리가 들렸어.
+DANIEL: Biggan måste verkligen sätta en stol i trappan.
+= 비간은 진짜 계단에 의자를 놔야 해.
+INGRID: Tolv miljoner för en tvättstuga. Det är inte renovering. Det är något annat.
+= 세탁실 하나에 1,200만. 그건 리노베이션이 아니에요. 다른 거죠.
+MAJA: Fakturor för arbete som inte har gjorts. Pengar som ser ut som kostnader. Det heter…
+= 하지도 않은 공사에 대한 청구서. 비용처럼 보이는 돈. 그걸…
+WICKSELL: …att tvätta pengar genom väggarna.
+= …벽을 통해 돈을 세탁한다고 하지.
+
+# 장면 2 — TÅGET TILL ESKILSTUNA
+JOHAN: Vi måste prata med Rolf Ahlström. Han är den enda vars namn står överallt.
+= 롤프 알스트룀이랑 얘기해야 해. 이름이 모든 곳에 올라 있는 사람은 그 사람뿐이야.
+ANTON: Eskilstuna. En timme med tåget.
+= 에스킬스투나. 기차로 한 시간.
+DANIEL: Jag kommer med. Om han är sjuttiotvå och ensam kan han behöva en läkare. Eller bara någon.
+= 나도 갈게. 일흔둘에 혼자라면 의사가 필요할지도 몰라. 아니면 그냥 누군가가.
+ELSA: Och jag. Jag har adressen. Från Skatteverkets folkbokföring.
+= 그리고 저도요. 주소 있어요. 국세청 주민등록에서.
+INGRID: Jag stannar. Om han känner igen mitt namn från banken blir han rädd.
+= 난 남을게요. 은행에서 내 이름을 들어 봤다면 겁을 먹을 거예요.
+MAJA: Och jag. Vi har tjugotre årsredovisningar kvar.
+= 그리고 나도. 연간 보고서가 스물세 개 남았어.
+ELSA: Vackert. Snö på åkrarna. Och Mälaren är frusen.
+= 예뻐요. 들판에 눈. 그리고 멜라렌 호수가 얼었어요.
+ANTON: Jag har inte tittat ut genom ett tågfönster på sju år. Jag har alltid haft datorn uppe.
+= 7년 동안 기차 창밖을 본 적이 없어. 늘 노트북을 열어 놨거든.
+DANIEL: Och nu?
+= 그럼 지금은?
+ANTON: Nu räknar jag kor. Fyrtio hittills.
+= 지금은 소를 세. 지금까지 마흔 마리.
+ELSA: Det är Majas jobb att räkna.
+= 세는 건 마야 일인데요.
+ANTON: Maja räknar pengar. Jag räknar kor. Det är en arbetsfördelning.
+= 마야는 돈을 세고. 나는 소를 세. 분업이지.
+JOHAN: Här. Gatan. Ett hyreshus från sjuttiotalet. Tredje våningen.
+= 여기. 이 거리. 70년대 임대 아파트. 3층.
+ROLF: Ja? Vem är det?
+= 네? 누구세요?
+JOHAN: Hej. Johan Ek. Advokat från Stockholm. Vi vill bara prata. Om några bolag.
+= 안녕하세요. 요한 엑입니다. 스톡홀름에서 온 변호사예요. 그냥 얘기만 하고 싶어요. 회사 몇 개에 대해서.
+ROLF: Bolag? Jag har inga bolag. Jag är pensionär. Jag var svetsare på Volvo i fyrtio år.
+= 회사요? 난 회사 없소. 연금 생활자요. 볼보에서 40년 동안 용접공이었소.
+ELSA: Ni sitter i styrelsen för trettioen bolag, herr Ahlström.
+= 회사 서른한 개의 이사로 계세요, 알스트룀 씨.
+ROLF: Trettioen? Nej. Det… Kom in. Det är kallt i trappan.
+= 서른하나? 아니오. 그건… 들어오시오. 계단은 추우니.
+
+# 절정 — ROLF
+ROLF: Kaffe? Jag har bara pulverkaffe. Min fru köpte alltid riktigt kaffe. Hon dog för fyra år sedan.
+= 커피? 인스턴트밖에 없소. 집사람은 늘 진짜 커피를 샀는데. 4년 전에 죽었소.
+DANIEL: Pulverkaffe är bra. Jag dricker det på nattpassen.
+= 인스턴트 커피 좋아요. 야간 근무 때 마셔요.
+ELSA: Herr Ahlström, hur blev ni styrelseledamot?
+= 알스트룀 씨, 어떻게 이사가 되셨어요?
+ROLF: En annons. På nätet. ”Extrainkomst för seniorer. Fem tusen kronor i månaden. Enkla administrativa uppdrag.”
+= 광고요. 인터넷에. ‘시니어 부수입. 월 5,000크로나. 간단한 행정 업무.’
+JOHAN: Och vad var uppdragen?
+= 그래서 어떤 업무였어요?
+ROLF: Att skriva under. Papper kom med posten. Varje månad. Jag skrev under och skickade tillbaka. Fem tusen kom på kontot.
+= 서명하는 거요. 서류가 우편으로 왔소. 매달. 서명해서 돌려보냈지. 5,000이 계좌로 들어왔고.
+ANTON: Läste ni papperen?
+= 서류는 읽으셨어요?
+ROLF: Jag läste den första. Den var på trettio sidor. Med ord jag inte förstod. Sen slutade jag läsa.
+= 첫 번째는 읽었소. 서른 장이었지. 모르는 말로 가득했소. 그 뒤로는 읽기를 그만뒀소.
+ELSA: Som Leyla. Små bokstäver. Mycket text.
+= 레일라처럼요. 작은 글씨. 많은 글.
+ROLF: Jag trodde att det var… jag vet inte. Ett vanligt jobb. Pensionen är elva tusen. Med fem tusen till kunde jag betala hyran och köpa riktigt kaffe ibland.
+= 난 그게… 모르겠소. 평범한 일인 줄 알았지. 연금이 1만 1천이오. 5천이 더 있으면 월세도 내고 가끔 진짜 커피도 살 수 있었소.
+DANIEL: Har ni barn, herr Ahlström?
+= 자녀분은 있으세요, 알스트룀 씨?
+ROLF: En son. I Australien. Han ringer på julen.
+= 아들 하나. 호주에. 크리스마스에 전화하오.
+ELSA: Vet han om bolagen?
+= 아드님은 그 회사들 알아요?
+ROLF: Han vet inte ens att jag har en dator.
+= 내가 컴퓨터 있는 것도 모르오.
+JOHAN: Herr Ahlström, ett av bolagen ni sitter i har tagit emot pengar från ett bedrägeri. Från en åttioettårig änka.
+= 알스트룀 씨, 당신이 이사로 있는 회사 하나가 사기로 생긴 돈을 받았어요. 여든한 살 미망인한테서요.
+ROLF: Nej… Nej. Det kan inte… Jag har aldrig lurat någon. Aldrig.
+= 아니… 아니오. 그럴 리가… 난 누굴 속인 적이 없소. 절대로.
+ELSA: Vi vet det. Det är ni som har blivit lurad. Som Noel. Som Ulla-Britt.
+= 알아요. 속은 건 당신이에요. 노엘처럼. 울라브리트 할머니처럼.
+ROLF: Vem är de?
+= 그게 누구요?
+ELSA: Människor som också fick höra att det var enkelt.
+= ‘간단하다’는 말을 들었던 사람들이요.
+ROLF: Kommer jag att få problem? Med polisen?
+= 내가 문제가 생기겠소? 경찰이랑?
+JOHAN: Som styrelseledamot har man ett ansvar. Även om man inte läser. Det kan bli problem. Men om ni avgår nu och berättar för polisen vad ni vet, blir det mycket lättare.
+= 이사는 책임이 있어요. 읽지 않았더라도요. 문제가 될 수 있어요. 하지만 지금 사임하고 아는 걸 경찰에 말하면, 훨씬 수월해질 거예요.
+ROLF: Avgå? Hur gör man det?
+= 사임? 그건 어떻게 하는 거요?
+JOHAN: Man skickar en anmälan till Bolagsverket. En sida. Jag kan hjälpa er.
+= 회사등기소에 신고서를 보내요. 한 장. 제가 도와드릴 수 있어요.
+ROLF: Och de fem tusen?
+= 그럼 그 5천은?
+DANIEL: Det får vi prata om sen. Först: hur mår ni? Ni har blivit blek.
+= 그건 나중에 얘기해요. 먼저: 괜찮으세요? 얼굴이 창백해지셨어요.
+ROLF: Jag mår som en man som just har fått veta att han är trettioen bolag.
+= 자기가 회사 서른한 개라는 걸 방금 안 남자의 기분이오.
+ELSA: Vem skickade papperen? Vem skrev ni till?
+= 서류는 누가 보냈어요? 누구한테 돌려보내셨어요?
+ROLF: Alltid samma adress. Och samma namn i brevet. Vänta. Jag har kuverten. Min fru lärde mig att spara allt.
+= 늘 같은 주소. 그리고 편지엔 같은 이름. 잠깐. 봉투들이 있소. 집사람이 다 모아 두라고 가르쳤지.
+ANTON: Alla klokaste människor sparar allt.
+= 제일 현명한 사람들은 다 모아 둬요.
+ELSA: Det har jag sagt hela veckan.
+= 그건 제가 일주일 내내 한 말이에요.
+
+# 마무리 — ETT NAMN TILL
+ROLF: Här. ”Nordhem Holding AB. Att: C-A Rehnberg. Strandvägen.”
+= 여기. ‘노르드헴 홀딩 AB. 수신: C-A 렌베리. 스트란드베겐.’
+JOHAN: Strandvägen. Samma gata som pappas byrå.
+= 스트란드베겐. 아버지 사무소랑 같은 거리야.
+ELSA: Vem är C-A Rehnberg?
+= C-A 렌베리가 누구예요?
+JOHAN: Carl-Adam Rehnberg. Vd för Nordhem. Jag har träffat honom. 2022. På pappas kontor. Han gav mig en hand som var kall som marmor.
+= 칼아담 렌베리. 노르드헴 사장. 만난 적 있어. 2022년에. 아버지 사무실에서. 대리석처럼 차가운 손으로 악수했지.
+ANTON: Ett namn till. Och ett ansikte.
+= 이름 하나 더. 그리고 얼굴 하나.
+DANIEL: Kall som marmor. Det säger man om dem som aldrig har burit något tungt.
+= 대리석처럼 차갑다. 무거운 걸 한 번도 들어 본 적 없는 사람들한테 그렇게 말하지.
+ROLF: Vill ni ha kuverten? Alla? Jag har fyrtiotvå.
+= 봉투들 가져갈 거요? 전부? 마흔두 개 있소.
+JOHAN: Ja, tack. Och vi skriver avgångsanmälan i dag. Tillsammans.
+= 네, 감사합니다. 그리고 사임 신고서는 오늘 같이 써요.
+ROLF: Min fru hade blivit arg. Hon sa alltid: ”Rolf, läs innan du skriver.”
+= 집사람이 화냈을 거요. 늘 그랬지: ‘롤프, 쓰기 전에 읽어.’
+ELSA: Det är en regel hos oss också.
+= 우리 쪽에도 그런 규칙이 있어요.
+DANIEL: Herr Ahlström, har ni någon som kommer och hälsar på? Här i Eskilstuna?
+= 알스트룀 씨, 여기 에스킬스투나에 찾아오는 사람이 있어요?
+ROLF: Nej. Inte sedan Margareta dog.
+= 없소. 마르가레타가 죽은 뒤로는.
+DANIEL: Det finns en träffpunkt för pensionärer två kvarter bort. Jag såg skylten. Kaffe varje tisdag.
+= 두 블록 떨어진 데 어르신 모임 장소가 있어요. 간판 봤어요. 화요일마다 커피.
+ROLF: Riktigt kaffe?
+= 진짜 커피요?
+DANIEL: Det får ni ta reda på.
+= 그건 직접 알아보세요.
+ROLF: Då går jag på tisdag. Och jag tar med en egen burk. För säkerhets skull.
+= 그럼 화요일에 가 보겠소. 그리고 내 커피 통을 들고 가지. 만일을 위해.
+GUNNEL: Johan! Är ni kvar i Eskilstuna? Ring mig när ni kan.
+= 요한! 아직 에스킬스투나야? 되는 대로 전화 줘.
+JOHAN: Gunnel, vi är på tåget hem. Vad har hänt?
+= 군넬, 집에 가는 기차 안이에요. 무슨 일이에요?
+GUNNEL: Brev. I alla brevlådor i Vårberg. Sexhundra lägenheter. Från Nordhem. ”Information om kommande renovering.”
+= 편지. 바르베리 모든 우편함에. 600세대. 노르드헴에서. ‘향후 리노베이션 안내.’
+ANTON: De har hört att någon följer pengarna. Så de flyttar sig snabbare.
+= 누가 돈을 따라가고 있다는 걸 들었나 봐. 그래서 더 빨리 움직이는 거야.
+NEXT: 3부 3화 — «Hela Vårberg»(바르베리 전체) — Nordhem이 Vårberg 600세대에 일괄 리노베이션을 통지한다. 예정된 월세 인상은 최대 60퍼센트. Gunnel과 1부의 Per Jansson이 세입자 모임을 만든다.
