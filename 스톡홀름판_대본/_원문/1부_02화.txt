@@ -1,0 +1,266 @@
+PART: 1
+EP: 2
+TITLE: Köket som ingen bad om
+SUBTITLE: 아무도 원하지 않은 부엌 · 사건 1 해결, Södermalm의 작은 사무실
+META: 대사 120턴 · 난이도 B1 · 배경: 다음 날 아침 여덟 시, Södermalm 사무실 겸 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: LEYLA | 이웃 주민 · 세입자 (가상)
+NOTE: ※ Leyla가 임대 계약서와 ‘문 앞에서 서명한 종이’를 가져왔습니다. 스웨덴에서 집주인이 ‘표준 상향 조치(standardhöjande åtgärder)’ — 새 부엌, 새 욕실처럼 집의 수준을 올리는 공사 — 를 하고 그만큼 월세를 올리려면, 세입자의 서면 동의(godkännande)나 임대심판위원회(Hyresnämnden)의 허가가 있어야 합니다. 월세는 비슷한 집의 수준을 기준으로 하는 ‘사용가치(bruksvärde)’로 판단합니다. 사무소의 두 번째 규칙도 오늘 정해집니다: 돈이 없는 이웃에게는 돈을 받지 않습니다. 표현 초점: 계약·이의 어휘 — godkännande, kvittens, invändning, hyresnämnden, skriftligt.
+
+# 도입 — FRUKOST MED AVTAL
+BIGGAN: Åtta. Frukosten är klar, sätt er.
+= 여덟 시. 아침 다 됐어, 앉아.
+ELSA: God morgon. Jag har tagit med anteckningsblocket.
+= 좋은 아침이에요. 메모장 가져왔어요.
+DANIEL: God morgon. Leyla, sov du något i natt?
+= 좋은 아침. 레일라, 어젯밤에 좀 잤어요?
+LEYLA: Fyra timmar. Det är mer än i förrgår.
+= 네 시간이요. 그저께보단 많아요.
+DANIEL: Bra. Ät en ägg-macka nu, sen pratar vi papper.
+= 좋아요. 이제 달걀 샌드위치 하나 먹고, 그다음에 서류 얘기해요.
+LEYLA: Här är pärmen. Reza har sorterat allt.
+= 여기 서류철이요. 레자가 다 정리해 놨어요.
+JOHAN: Tack. Ett steg i taget. Först hyresavtalet.
+= 고마워요. 한 걸음씩. 먼저 임대 계약서.
+MAJA: Och sen papperet från dörren.
+= 그다음 문 앞에서 받은 종이.
+ANTON: Jag har gjort en tidslinje. Utan matris, som jag lovade.
+= 타임라인을 만들었어. 약속한 대로 매트릭스 없이.
+DANIEL: En tidslinje är en matris med bara en rad, Anton.
+= 타임라인은 줄이 하나뿐인 매트릭스야, 안톤.
+ANTON: Det är en enkel bild. Ni kommer att älska den.
+= 간단한 그림이야. 다들 좋아할 거야.
+OXENSTIERNA: God morgon. Jag ser att advokaten redan läser.
+= 좋은 아침이오. 변호사께서 벌써 읽고 계시군.
+ELSA: God morgon, herr Oxenstierna. Vill ni ha kaffe?
+= 좋은 아침이에요, 옥센셰르나 님. 커피 드시겠어요?
+OXENSTIERNA: Gärna, mitt barn. Och tack för ”ni”. Det värmer mer än kaffet.
+= 기꺼이, 얘야. 그리고 ‘니’라고 해 줘서 고맙구나. 커피보다 더 따뜻하군.
+MAJA: Regel ett, Elsa. Vi skrev den i går.
+= 규칙 1번이야, 엘사. 어제 적었잖아.
+ELSA: Den gäller inte honom. Han kommer från sextonhundratalet.
+= 저분한텐 해당 안 돼요. 1600년대에서 오셨잖아요.
+BIGGAN: Det är sant. Regler har undantag.
+= 그건 맞아. 규칙엔 예외가 있지.
+JOHAN: Okej. Lyssna nu, allihop.
+= 좋아. 이제 다들 들어 봐.
+MAJA: Vi lyssnar. Börja från början.
+= 듣고 있어. 처음부터 시작해.
+
+# 장면 1 — STANDARDHÖJANDE ÅTGÄRDER
+JOHAN: Förstahandskontrakt sedan 2011. Hyran har höjts lite varje år, som vanligt.
+= 2011년부터 1차 계약. 월세는 매년 조금씩 올랐어, 늘 그렇듯이.
+ELSA: Ursäkta, vad betyder förstahandskontrakt?
+= 실례지만, ‘1차 계약’이 무슨 뜻이에요?
+JOHAN: Att Leyla hyr direkt av hyresvärden. Inte av någon annan som hyr ut i andra hand.
+= 레일라가 집주인한테 직접 빌린다는 뜻이야. 다른 사람한테 다시 빌리는 2차 전대가 아니라.
+ELSA: Som jag. Jag hyr ett rum i andra hand i Midsommarkransen.
+= 저처럼요. 전 미드솜마르크란센에서 2차로 방 하나 빌려요.
+ANTON: Och du står i bostadskön?
+= 그리고 임대 대기열엔 서 있어?
+ELSA: I tre år. Det är ingenting, säger alla.
+= 3년이요. 그건 아무것도 아니래요, 다들.
+MAJA: I innerstan är kön ungefär tjugo år. Så ja, det är ingenting.
+= 도심은 대기열이 대략 20년이야. 그러니까 맞아, 아무것도 아니지.
+OXENSTIERNA: Tjugo år? Jag byggde om halva riket på kortare tid.
+= 20년? 난 그보다 짧은 시간에 나라 절반을 다시 세웠네.
+JOHAN: Här är det viktiga. Paragrafen om ändringar i lägenheten.
+= 여기가 중요한 부분이야. 집을 바꾸는 것에 관한 조항.
+MAJA: Vad står det?
+= 뭐라고 적혀 있어?
+JOHAN: Ungefär samma sak som lagen. Hyresvärden behöver hyresgästens godkännande.
+= 대략 법이랑 같은 내용이야. 집주인은 세입자의 동의가 필요해.
+ELSA: Godkännande. Det betyder att man säger ja?
+= 동의. 그건 ‘네’라고 한다는 뜻이에요?
+JOHAN: Ja. Och här måste det vara skriftligt.
+= 응. 그리고 이 경우엔 서면이어야 해.
+DANIEL: Och om hyresgästen inte säger ja?
+= 그럼 세입자가 ‘네’라고 안 하면?
+JOHAN: Då måste hyresvärden fråga hyresnämnden om lov. Före arbetet.
+= 그럼 집주인이 임대심판위원회에 허가를 받아야 해. 공사 전에.
+ELSA: Ursäkta, vad är hyresnämnden?
+= 실례지만, 임대심판위원회가 뭐예요?
+JOHAN: En slags domstol för hyresfrågor. Snabbare och billigare än en vanlig domstol.
+= 임대 문제를 다루는 일종의 법원이야. 보통 법원보다 빠르고 싸.
+MAJA: Leyla, fick du något brev från hyresnämnden i våras?
+= 레일라, 지난봄에 임대심판위원회에서 편지 받은 적 있어요?
+LEYLA: Aldrig. Bara från Nordhem. Och hantverkarna kom bara.
+= 한 번도요. 노르드헴한테서만요. 그리고 공사하는 사람들이 그냥 왔어요.
+JOHAN: Då har vi papperet från dörren kvar. Var är det?
+= 그럼 남은 건 문 앞 종이네. 어디 있어요?
+LEYLA: Här. Reza hittade det i lådan med garantier.
+= 여기요. 레자가 보증서 넣는 서랍에서 찾았어요.
+ELSA: Får jag läsa högt? Jag vill öva.
+= 소리 내서 읽어 봐도 돼요? 연습하고 싶어요.
+JOHAN: Varsågod.
+= 그래.
+ELSA: ”Kvittens. Hyresgästen har lämnat två nycklar till entreprenören för köksarbete.”
+= ‘영수증. 세입자는 부엌 공사를 위해 시공업체에 열쇠 두 개를 넘겼음.’
+MAJA: Och sen?
+= 그리고?
+ELSA: Sen ingenting. Datum och namn. Det är allt.
+= 그다음엔 아무것도 없어요. 날짜랑 이름. 그게 다예요.
+JOHAN: Det är en kvittens för nycklar. Inget godkännande.
+= 열쇠 영수증이야. 동의서가 아니라.
+LEYLA: Så jag har inte sagt ja?
+= 그럼 전 ‘네’라고 한 게 아니에요?
+JOHAN: Du har lämnat nycklar. Det är inte samma sak som att säga ja till högre hyra.
+= 열쇠를 넘긴 거예요. 그건 월세 인상에 ‘네’라고 한 것과 같지 않아요.
+OXENSTIERNA: En nyckel är ingen namnteckning. Det visste man redan på min tid.
+= 열쇠는 서명이 아니지. 내 시절에도 다들 알던 일이오.
+LEYLA: Jag har inte sovit på två veckor för ett nyckelkvitto.
+= 열쇠 영수증 때문에 2주 동안 잠을 못 잤네요.
+
+# 장면 2 — BREVET TILL NORDHEM
+ANTON: Okej. Nästa steg: vi svarar Nordhem.
+= 좋아. 다음 단계: 노르드헴에 답장하자.
+MAJA: Vänta. Jag vill ha siffrorna först.
+= 잠깐. 난 먼저 숫자가 필요해.
+DANIEL: Klart du vill.
+= 당연히 그러겠지.
+MAJA: Jag har jämfört med tolv liknande lägenheter i kvarteret. Samma storlek, samma våning ungefär.
+= 이 구역 비슷한 집 열두 곳이랑 비교했어. 크기 같고, 층수도 대략 비슷해.
+ELSA: Med bruksvärdet?
+= 사용가치로요?
+MAJA: Precis, Elsa. De med nytt kök betalar i snitt niohundra kronor mer. Inte tvåtusenfyrahundra.
+= 바로 그거야, 엘사. 새 부엌이 있는 집들은 평균 900크로나 더 내. 2,400이 아니라.
+LEYLA: Niohundra? Men de vill ha nästan tre gånger så mycket.
+= 900이요? 근데 거의 세 배를 달라는 거잖아요.
+JOHAN: Och ännu viktigare: utan godkännande kan de inte bara höja. De måste gå via hyresnämnden.
+= 그리고 더 중요한 건: 동의 없이는 그냥 올릴 수 없어요. 임대심판위원회를 거쳐야 해요.
+WICKSELL: Godmorgon. Får jag lägga till en siffra?
+= 좋은 아침이네. 숫자 하나 보태도 되겠나?
+ANTON: Herr Wicksell! Självklart.
+= 빅셀 님! 물론이죠.
+WICKSELL: Tvåtusenfyrahundra i månaden. Det är tjugoåttatusen åttahundra om året.
+= 한 달에 2,400. 1년이면 28,800이지.
+MAJA: Det är mer än en månadslön för henne.
+= 그건 이분 한 달 월급보다 많아요.
+WICKSELL: På tio år nästan trehundratusen. Räkna åren också, inte bara dagarna.
+= 10년이면 거의 30만. 날짜만 말고 햇수도 세어 보게.
+LEYLA: Trehundratusen… för ett kök jag inte ville ha.
+= 30만… 원하지도 않은 부엌 때문에.
+ELSA: Ursäkta, herr Wicksell, varför bryr ni er om hennes kök?
+= 실례지만, 빅셀 님, 왜 이분 부엌에 관심을 가지세요?
+WICKSELL: För att en hyra är ett pris. Och ett pris som ingen kan säga nej till är inget pris.
+= 월세는 가격이니까. 그리고 아무도 거절할 수 없는 가격은 가격이 아니지.
+OXENSTIERNA: Nu talar han som en ekonom igen. Jag behöver mer kaffe.
+= 또 경제학자처럼 말하는군. 커피가 더 필요하겠어.
+JOHAN: Då skriver vi. Elsa, kan du skriva medan jag pratar?
+= 그럼 쓰자. 엘사, 내가 말하는 동안 받아 적을 수 있어?
+ELSA: Ja. Långsamt, tack.
+= 네. 천천히요, 부탁해요.
+JOHAN: ”Till Nordhem Fastigheter. Jag godkänner inte den föreslagna hyreshöjningen.”
+= ‘노르드헴 부동산 귀하. 저는 제안된 월세 인상에 동의하지 않습니다.’
+ELSA: ”…godkänner inte… hyreshöjningen.” Klart.
+= ‘…동의하지 않습니다… 월세 인상에.’ 됐어요.
+JOHAN: ”Jag har inte lämnat något skriftligt godkännande. Kvittensen av den fjärde april gäller endast nycklar.”
+= ‘저는 어떠한 서면 동의도 하지 않았습니다. 4월 4일 자 영수증은 열쇠에 관한 것일 뿐입니다.’
+ANTON: Ska vi inte skriva något trevligare? Typ ”vi ser fram emot en dialog”?
+= 좀 더 부드럽게 쓰면 안 돼? ‘대화를 기대합니다’ 같은 거?
+MAJA: Nej, Anton. Kort och tydligt.
+= 안 돼, 안톤. 짧고 분명하게.
+DANIEL: Kort och tydligt är snällt. Långt och luddigt är elakt.
+= 짧고 분명한 게 친절한 거야. 길고 흐릿한 게 못된 거고.
+ANTON: Det där ska jag skriva upp.
+= 그건 적어 둬야겠다.
+LEYLA: Ska jag skriva under nu?
+= 이제 제가 서명해야 해요?
+JOHAN: Läs det först. Hela. Sen skriver du under.
+= 먼저 읽어요. 전부 다. 그다음에 서명해요.
+LEYLA: Ni har lärt mig något idag. Aldrig skriva under i en dörr igen.
+= 오늘 하나 배웠어요. 다시는 문 앞에서 서명 안 할 거예요.
+OXENSTIERNA: Det är den viktigaste lektionen i hela juridiken, fru Karimi.
+= 그게 법학 전체에서 가장 중요한 교훈이오, 카리미 부인.
+
+# 절정 — HYRESNÄMNDEN
+ANTON: Och om Nordhem inte svarar? Eller säger nej?
+= 그런데 노르드헴이 답을 안 하거나, 거절하면?
+JOHAN: Då vänder vi oss till hyresnämnden. Leyla kan också prata med Hyresgästföreningen.
+= 그럼 임대심판위원회로 가는 거야. 레일라는 세입자 연합에도 얘기할 수 있고.
+ELSA: Ursäkta, är det samma sak?
+= 실례지만, 그거 같은 거예요?
+JOHAN: Nej. Hyresgästföreningen är en förening för hyresgäster. Hyresnämnden är myndigheten som bestämmer.
+= 아니. 세입자 연합은 세입자들의 단체야. 임대심판위원회는 결정을 내리는 기관이고.
+ELSA: Föreningen hjälper, nämnden bestämmer.
+= 연합은 돕고, 위원회는 결정한다.
+MAJA: Perfekt sammanfattning.
+= 완벽한 요약이야.
+LEYLA: Kostar det mycket? Hyresnämnden?
+= 그거 돈 많이 들어요? 임대심판위원회요?
+JOHAN: Att ansöka är gratis. Och du behöver ingen advokat där.
+= 신청하는 건 무료예요. 그리고 거기선 변호사가 필요 없어요.
+LEYLA: Men jag har ju en advokat nu. Hur mycket kostar du?
+= 근데 저 이제 변호사가 있잖아요. 당신은 얼마예요?
+JOHAN: Ingenting.
+= 아무것도요.
+LEYLA: Ingenting? Det kan jag inte ta emot.
+= 아무것도요? 그건 받을 수 없어요.
+BIGGAN: Jo, det kan du. Det är en regel här.
+= 받을 수 있어. 여기 규칙이야.
+MAJA: Regel två. Vi skriver den nu: den som inte har pengar betalar inte.
+= 규칙 2번. 지금 적자: 돈 없는 사람은 돈을 내지 않는다.
+ANTON: Men hur ska vi betala hyran för kontoret då?
+= 그럼 우리 사무실 월세는 어떻게 내?
+JOHAN: Med de kunder som har pengar. Jag har fortfarande två bolag som betalar.
+= 돈 있는 고객들로. 아직 돈 내는 회사가 두 곳 있어.
+DANIEL: Och jag jobbar natt på akuten. Det räcker till kaffet.
+= 그리고 난 응급실 야간 근무를 해. 커피값은 돼.
+BIGGAN: Kaffet bjuder jag på. Det har jag alltid gjort.
+= 커피는 내가 살게. 늘 그래 왔잖아.
+OXENSTIERNA: En stat som tar betalt av de fattiga för rättvisa är ingen stat.
+= 가난한 사람에게 정의의 값을 받는 나라는 나라가 아니오.
+ELSA: Det var vackert sagt, herr Oxenstierna.
+= 멋진 말씀이에요, 옥센셰르나 님.
+OXENSTIERNA: Det var dyrt att lära sig. Trettio års krig.
+= 배우는 데 비쌌지. 30년 전쟁이었으니.
+LEYLA: Tack. Allihop. Jag vet inte vad jag ska säga.
+= 고마워요. 모두들. 뭐라고 해야 할지 모르겠어요.
+BIGGAN: Säg ingenting. Ät din macka.
+= 아무 말도 하지 마. 샌드위치나 먹어.
+WICKSELL: Och posta brevet i dag. Inte i morgon.
+= 그리고 편지는 오늘 부치게. 내일 말고.
+JOHAN: Rekommenderat. Så att vi har ett datum.
+= 등기로. 날짜가 남도록.
+
+# 마무리 — REGEL TVÅ
+ELSA: Får jag ta brevet till posten? Jag går ändå förbi.
+= 편지 제가 우체국에 가져가도 돼요? 어차피 지나가요.
+JOHAN: Gärna. Och ta kvittot. Det är ett papper vi vill ha.
+= 좋아. 그리고 영수증 꼭 받아 와. 그건 우리가 갖고 싶은 종이야.
+ELSA: Ett bra kvitto, inte ett nyckelkvitto.
+= 좋은 영수증이요, 열쇠 영수증 말고.
+MAJA: Regel ett: alla säger du. Regel två: den som inte har pengar betalar inte.
+= 규칙 1번: 모두 ‘두’로 말한다. 규칙 2번: 돈 없는 사람은 돈을 내지 않는다.
+ANTON: Det är ju nästan en strategi.
+= 이거 거의 전략이잖아.
+DANIEL: Säg inte strategi. Då gör du en matris av det.
+= 전략이라고 하지 마. 그럼 또 매트릭스로 만들 거잖아.
+LEYLA: Jag måste till jobbet. Mina gamla väntar.
+= 저 출근해야 해요. 제 어르신들이 기다려요.
+DANIEL: Leyla. I kväll sover du mer än fyra timmar. Läkarordination.
+= 레일라. 오늘 밤엔 네 시간보다 더 자요. 의사 처방이에요.
+LEYLA: Jag ska försöka, doktorn.
+= 노력해 볼게요, 선생님.
+OXENSTIERNA: Hon sa ”doktorn”! Äntligen.
+= ‘선생님’이라고 했어! 드디어.
+DANIEL: Hon är inte från sextiotalet, herr Oxenstierna. Hon är bara artig.
+= 그분은 60년대 사람이 아니에요, 옥센셰르나 님. 그냥 예의 바른 거예요.
+BIGGAN: Ut med er nu. Jag ska öppna kaféet.
+= 이제 다들 나가. 카페 문 열어야 해.
+WICKSELL: Räkna dagarna, Elsa. Nordhem har också en tidsfrist nu.
+= 날짜를 세어 보게, 엘사. 이제 노르드헴에게도 기한이 생겼네.
+ELSA: Ursäkta, vad menar ni?
+= 실례지만, 무슨 말씀이세요?
+WICKSELL: Nu är det de som måste svara. Det är skillnaden.
+= 이제 답해야 하는 쪽은 그들이지. 그게 차이일세.
+ELSA: Föreningen hjälper, nämnden bestämmer, och Nordhem får vänta.
+= 연합은 돕고, 위원회는 결정하고, 노르드헴은 기다린다.
+NEXT: 1부 3화 — «Beskedet klockan åtta»(여덟 시의 통지) — 밤 여덟 시, Vårberg의 한 가족이 내일 아침 퇴거된다는 급보가 온다. Strindberg가 이웃을 깨우고, 전 노조 대표 Gunnel이 사람들을 모은다.
