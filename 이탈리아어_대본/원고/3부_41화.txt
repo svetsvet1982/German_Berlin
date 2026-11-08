@@ -1,0 +1,167 @@
+@part 3
+@ep 41
+@file Lofficina_di_Simone
+@title L'officina di Simone
+@ko 시모네의 가게
+@where 시모네의 수리점 «Officina Marini»
+@level B1~B2
+@setting 10월 1일 목요일 오후 3시~7시
+@cast SIMONE | 스쿠터·자전거 수리공, 31세
+@cast RICCARDO | 대학생, 주 2회 오후 견습, 21세
+@cast CASTELLANI | 테베레 리빙 담당 임원, 52세
+@cast GIULIA | 프랑코의 딸, 34세
+@note 시모네의 가게도 같은 건물 1층, 바 옆에 있다. 5년 전 은퇴한 '소르 지지' 영감에게 가게를 넘겨받으며 새로 맺은 상가 계약은 내년 봄 첫 만료를 맞는다. 다른 세입자들과 달리 시모네는 아직 등기 우편을 받지 않았다. 대신 오늘 오후, 카스텔라니가 직접 가게 문을 두드린다.
+
+# 장면 1 — UN POMERIGGIO TRANQUILLO
+RICCARDO: Simone, la catena di questa bici è a posto. Cosa faccio adesso? || 시모네 형, 이 자전거 체인 다 됐어요. 이제 뭐 해요?
+SIMONE: Adesso niente. Non c'è altro. Guarda il registro. Oggi tre clienti. Ieri due. || 이제 아무것도. 할 게 없어. 장부 봐. 오늘 손님 셋. 어제 둘.
+RICCARDO: Tre clienti. A ottobre l'anno scorso quanti erano? || 셋이라. 작년 10월엔 몇 명이었어요?
+SIMONE: Il doppio. Ma l'anno scorso non c'erano le nuove regole della Fascia Verde. || 두 배. 근데 작년엔 파샤 베르데 새 규정이 없었잖아.
+RICCARDO: La Fascia Verde? Quella delle macchine vecchie? || 파샤 베르데? 오래된 차 그거요?
+SIMONE: Non solo le macchine. Anche i motorini vecchi. Quelli a due tempi, che fanno fumo blu. Da novembre non possono più entrare in città, in certe ore. E la metà dei miei clienti ha un motorino così. || 차만이 아니야. 오래된 스쿠터도. 2행정 엔진에 파란 연기 나는 거. 11월부터 시간대에 따라 시내에 못 들어와. 그리고 내 손님 절반이 그런 스쿠터를 타.
+RICCARDO: E cosa fanno? || 그럼 그 사람들은 어떻게 해요?
+SIMONE: Lo vendono. O lo buttano. O lo lasciano in cantina e prendono l'autobus. Che non passa. || 팔지. 아니면 버리거나. 아니면 지하 창고에 처박아 두고 버스를 타지. 오지도 않는 버스를.
+RICCARDO: È giusto, però. Per l'aria. Il motorino del mio vicino fa una puzza che si sente fino al terzo piano. || 근데 맞는 거잖아요. 공기 생각하면. 우리 옆집 스쿠터는 3층까지 냄새가 나요.
+SIMONE: È giusto per l'aria. È sbagliato per il mio conto in banca. Tutte e due le cose sono vere. || 공기한텐 맞지. 내 통장한텐 틀리고. 둘 다 사실이야.
+RICCARDO: E le bici elettriche? Quelle aumentano. Ieri ne ho riparate due. || 그럼 전기자전거는요? 그건 늘고 있잖아요. 어제 두 대 고쳤어요.
+SIMONE: Le bici elettriche aumentano. Ma per ripararle servono attrezzi nuovi. Un computer per la diagnosi. Duemila euro. E io non li ho. || 전기자전거는 늘지. 근데 고치려면 새 장비가 필요해. 진단용 컴퓨터. 2천 유로. 근데 나한텐 그 돈이 없어.
+RICCARDO: Duemila euro. Io ho ancora le rate del casco. || 2천 유로라. 난 아직 헬멧 할부도 안 끝났는데.
+SIMONE: Lo so. Ottobre: dieci euro. Non dimenticare. || 알아. 10월분: 10유로. 잊지 마.
+RICCARDO: Non dimentico mai. Sono un ingegnere. Cioè, quasi. || 절대 안 잊어요. 전 엔지니어예요. 그러니까, 거의.
+SIMONE: Quasi ingegnere, quasi meccanico, quasi tutto. Come me alla tua età. || 거의 엔지니어, 거의 수리공, 거의 모든 것. 네 나이 때 나처럼.
+RICCARDO: Tu alla mia età cosa facevi? Studiavi? || 형은 제 나이 때 뭐 했어요? 공부했어요?
+SIMONE: Istituto tecnico. Meccanica. L'ho finito per miracolo. Poi tre anni nell'officina di mio nonno, a Torpignattara. Lì ho imparato davvero. || 기술 고등학교. 기계과. 기적처럼 졸업했지. 그다음엔 토르피냐타라 할아버지 가게에서 3년. 거기서 진짜 배웠어.
+RICCARDO: E perché sei venuto a Testaccio? || 그런데 왜 테스타초로 왔어요?
+SIMONE: Mio nonno è morto. L'officina di Torpignattara l'ha presa mio zio. Abbiamo litigato. Per i soldi, come sempre. Allora ho trovato questa. Sor Gigi andava in pensione e voleva lasciarla a qualcuno «con le mani buone». || 할아버지가 돌아가셨어. 토르피냐타라 가게는 삼촌이 가져갔고. 우리 싸웠지. 늘 그렇듯 돈 때문에. 그래서 여길 찾았어. 소르 지지 영감님이 은퇴하면서 «손이 좋은» 사람한테 넘기고 싶어 했거든.
+RICCARDO: Con le mani buone. Come si fa a vedere se uno ha le mani buone? || 손이 좋은 사람. 손이 좋은지 어떻게 알아요?
+SIMONE: Sor Gigi mi ha dato un carburatore smontato. In trenta pezzi. Mi ha detto: «Hai un'ora». || 소르 지지 영감님이 분해된 카뷰레터를 줬어. 서른 조각으로. 그러고는 «한 시간 준다» 하더라.
+RICCARDO: E ce l'hai fatta? || 그래서 해냈어요?
+SIMONE: In quarantadue minuti. Lui ha detto: «Troppo veloce. Sei romano, sei impaziente. Ma va bene». E mi ha dato le chiavi. || 42분 만에. 영감님이 «너무 빨라. 로마 놈이라 성급해. 그래도 됐다» 하더니 열쇠를 줬어.
+RICCARDO: Quarantadue minuti. Io ci metterei tre ore. || 42분. 저는 세 시간 걸리겠어요.
+SIMONE: Tu ci metteresti tre ore e lo faresti meglio. Gli ingegneri sono lenti. Ma precisi. || 넌 세 시간 걸려서 더 잘하겠지. 엔지니어는 느려. 대신 정확하지.
+
+# 장면 2 — LA VISITA
+CASTELLANI: Permesso? Buonasera. Il signor Marini? || 실례합니다. 안녕하세요. 마리니 씨?
+SIMONE: Sono io. E lei è... il signore della cravatta. Quello della foto. || 접니다. 그리고 당신은… 넥타이 그분. 사진 그분.
+CASTELLANI: Guido Castellani. Oggi con la cravatta, purtroppo. Ho una riunione dopo. Posso rubarle dieci minuti? || 귀도 카스텔라니입니다. 오늘은 안타깝게도 넥타이를 맸네요. 이따 회의가 있어서요. 10분만 시간 내주실 수 있을까요?
+SIMONE: Dieci minuti li ho. Oggi ho tanto tempo. Troppo. || 10분은 있어요. 오늘은 시간이 많아요. 너무 많아요.
+CASTELLANI: Ho notato. Il suo contratto, signor Marini. L'ho letto. Lo ha firmato nel 2021. Prima scadenza: marzo. || 눈치챘습니다. 마리니 씨 계약, 읽어 봤어요. 2021년에 서명하셨더군요. 첫 만료: 3월.
+SIMONE: Lo so. Il bar ha ricevuto la lettera. Io no. Mi chiedevo perché. || 알아요. 바는 편지를 받았는데. 저는 안 받았어요. 왜인지 궁금했어요.
+CASTELLANI: Perché per lei abbiamo un'idea diversa. Una proposta. Posso? || 마리니 씨한텐 다른 생각이 있어서요. 제안이요. 말씀드려도 될까요?
+SIMONE: Proponga. Ma le dico subito: io non firmo niente da solo. Abbiamo un patto. Nel palazzo. || 하세요. 근데 미리 말해 두죠. 전 혼자서는 아무것도 서명 안 해요. 약속이 있거든요. 건물 사람들이랑.
+CASTELLANI: Lo so. Il patto del quattordici settembre. «Nessuno firma da solo». Lo rispetto. Le chiedo solo di ascoltare. || 압니다. 9월 14일 약속. «아무도 혼자 서명하지 않는다». 존중합니다. 들어만 달라는 겁니다.
+SIMONE: Ascolto. || 듣고 있어요.
+CASTELLANI: Nel nuovo palazzo ci saranno diciotto appartamenti per ospiti. Persone che restano una settimana, un mese. Hanno bisogno di muoversi. Bici elettriche. Monopattini. Noleggio. Manutenzione. || 새 건물에는 손님용 아파트가 열여덟 채 생깁니다. 일주일, 한 달 머무는 사람들. 이동 수단이 필요하죠. 전기자전거. 킥보드. 대여. 정비.
+SIMONE: E quindi? || 그래서요?
+CASTELLANI: E quindi ci serve un meccanico. Qui. Al piano terra. Uno che conosce il quartiere. Le proponiamo di restare. Con un contratto nuovo, di sei anni. E un accordo di collaborazione: lei gestisce il noleggio e la manutenzione delle bici per i nostri ospiti. Noi paghiamo la ristrutturazione del locale e gli attrezzi nuovi. Compreso il computer per la diagnosi. || 그래서 수리공이 필요하죠. 여기. 1층에. 동네를 아는 사람. 남아 달라고 제안하는 겁니다. 6년짜리 새 계약으로. 그리고 협력 계약도요. 마리니 씨가 손님용 자전거 대여와 정비를 맡는 겁니다. 가게 리모델링이랑 새 장비는 저희가 대고요. 진단용 컴퓨터 포함해서.
+RICCARDO: Il computer per la diagnosi! || 진단용 컴퓨터!
+SIMONE: Riccardo. Zitto. || 리카르도. 조용히 해.
+CASTELLANI: E un compenso fisso al mese. Più una percentuale sui noleggi. Lei non dovrebbe più preoccuparsi dei motorini vecchi e della Fascia Verde. || 그리고 매달 고정 보수. 거기에 대여 수익의 일정 비율. 더는 낡은 스쿠터나 파샤 베르데 걱정을 안 하셔도 되죠.
+SIMONE: E l'affitto? || 월세는요?
+CASTELLANI: L'affitto passa da novecento a millecinquecento. Ma con il compenso fisso, lei guadagnerebbe comunque di più di adesso. Ho fatto i conti. Molto di più. || 월세는 900에서 1500으로 올라요. 하지만 고정 보수가 있으니 지금보다 더 버시게 될 겁니다. 계산해 봤어요. 훨씬 더요.
+SIMONE: E le condizioni? Ci sono sempre le condizioni. || 그럼 조건은요? 늘 조건이 있잖아요.
+CASTELLANI: Lei è un uomo intelligente. Tre condizioni. Primo: niente motorini sul marciapiede. Mai. Secondo: il locale deve avere l'immagine del gruppo. Il nome, i colori. «Testaccio Corner Bikes». Terzo: decide entro il trenta novembre. Come gli altri. || 영리하시네요. 조건 세 가지. 첫째: 인도에 스쿠터 금지. 절대로. 둘째: 가게는 그룹 이미지를 따라야 합니다. 이름, 색깔. «테스타초 코너 바이크스». 셋째: 11월 30일까지 결정. 다른 분들처럼요.
+SIMONE: «Testaccio Corner Bikes». E «Officina Marini»? Il nome di mio nonno? || «테스타초 코너 바이크스». 그럼 «오피치나 마리니»는요? 우리 할아버지 이름은요?
+CASTELLANI: Il nome si può discutere. Forse una piccola targa. «Dal 1965». || 이름은 논의해 볼 수 있습니다. 작은 명판 정도는요. «1965년부터».
+SIMONE: Mio nonno ha aperto a Torpignattara nel 1965. Non qui. || 우리 할아버지는 1965년에 토르피냐타라에서 열었어요. 여기가 아니라.
+CASTELLANI: I dettagli si sistemano. Ci pensi. Ecco il mio biglietto. Lo stesso del signor Ceccarelli. || 세부 사항은 조정하면 됩니다. 생각해 보세요. 제 명함입니다. 체카렐리 씨한테 드린 거랑 같은 거예요.
+SIMONE: E gli altri? Franco, Nadia, Loredana, Settimio? Anche a loro offrite di restare? || 그럼 다른 사람들은요? 프랑코, 나디아, 로레다나, 세티미오? 그분들한테도 남으라고 제안해요?
+CASTELLANI: A loro offriamo altre soluzioni. Lei è diverso, signor Marini. Lei ci serve. || 그분들한텐 다른 해결책을 드리죠. 마리니 씨는 달라요. 저희한테 필요한 분이니까요.
+SIMONE: «Ci serve». Ecco. Grazie per la sincerità. || «필요한 분». 그렇군요. 솔직하게 말해 줘서 고마워요.
+CASTELLANI: Buona serata. E... complimenti per il ventilatore di agosto. Ne ho sentito parlare. || 좋은 저녁 보내세요. 그리고… 8월 선풍기 칭찬해요. 얘기 들었습니다.
+SIMONE: Anche questo dai cartelli sui pali? || 그것도 전봇대 전단지에서요?
+CASTELLANI: No. Questo dal signor Ceccarelli. Al bancone. È un uomo che parla bene di tutti. Anche di chi non è presente. || 아뇨. 그건 체카렐리 씨한테서요. 카운터에서. 그분은 누구 얘기든 좋게 하더군요. 자리에 없는 사람 얘기까지.
+
+# 장면 3 — RICCARDO
+RICCARDO: Simone! Ma è fantastico! Un contratto di sei anni! Il computer! Le bici nuove! Lo stipendio fisso! || 형! 이거 끝내주잖아요! 6년 계약! 컴퓨터! 새 자전거! 고정 월급!
+SIMONE: Calma. || 진정해.
+RICCARDO: Calma? È la soluzione a tutti i problemi! La Fascia Verde, i clienti che mancano, i duemila euro... || 진정하라고요? 모든 문제의 해결책이잖아요! 파샤 베르데, 줄어드는 손님, 2천 유로…
+SIMONE: È la soluzione ai miei problemi. Non a quelli di Franco. Né di Nadia. Né di Settimio. || 내 문제의 해결책이지. 프랑코 문제의 해결책은 아니야. 나디아도. 세티미오 영감님도.
+RICCARDO: Ma tu non sei loro. Tu hai la tua vita. Hai trentun anni. Loro... || 근데 형은 그분들이 아니잖아요. 형은 형 인생이 있어요. 서른하나예요. 그분들은…
+SIMONE: Loro cosa? Sono vecchi? Finiti? Come ha detto la banca a Franco? || 그분들은 뭐? 늙었다고? 끝났다고? 은행이 프랑코한테 한 것처럼?
+RICCARDO: Non volevo dire questo. || 그런 뜻이 아니었어요.
+SIMONE: Lo so che non volevi. Ma è quello che pensa il fondo. «Lei ci serve». Gli altri no. Io sono utile, quindi resto. Loro non sono utili, quindi vanno. || 아닌 거 알아. 근데 펀드가 생각하는 게 그거야. «당신은 필요하다». 다른 사람들은 아니고. 난 쓸모 있으니까 남고. 그분들은 쓸모없으니까 떠나고.
+RICCARDO: Ma se dici no, perdi tutto. E loro restano comunque nei guai. A cosa serve? || 근데 형이 거절하면 다 잃잖아요. 그리고 그분들은 어차피 곤란한 건 마찬가지고요. 그게 무슨 소용이에요?
+SIMONE: Serve a guardarmi allo specchio la mattina. Mio nonno diceva: «Un meccanico che non si fida delle sue mani non ripara niente». Se firmo da solo, non mi fido più delle mie mani. || 아침에 거울 볼 수 있게 해 주지. 우리 할아버지가 그랬어. «자기 손을 못 믿는 수리공은 아무것도 못 고친다». 혼자 서명하면 난 이제 내 손을 못 믿게 될 거야.
+RICCARDO: E io? Se tu dici no e chiudi, io dove imparo? || 그럼 저는요? 형이 거절하고 문 닫으면 전 어디서 배워요?
+SIMONE: Ecco. Questa è la domanda vera. Non la mia. La tua. || 그거야. 그게 진짜 질문이야. 내 질문 말고. 네 질문.
+RICCARDO: Scusa. Non volevo metterti in difficoltà. || 미안해요. 곤란하게 하려던 건 아니었어요.
+SIMONE: Non mi metti in difficoltà. Sei onesto. È per questo che ti ho preso. Vai a casa. Studia. Domani hai l'esame di analisi. || 곤란하게 한 거 아니야. 넌 솔직해. 그래서 널 데려온 거고. 집에 가. 공부해. 내일 해석학 시험이잖아.
+RICCARDO: Analisi due. Me lo ricordi? || 해석학 2. 기억하고 있었어요?
+SIMONE: Hai scritto «ANALISI» sulla lavagna dell'officina. In rosso. Con tre punti esclamativi. || 가게 칠판에 «해석학»이라고 써 놨잖아. 빨간색으로. 느낌표 세 개 붙여서.
+
+# 장면 4 — GIULIA
+GIULIA: Ciao! Si può? Sono venuta a pagare il debito. Due supplì e una birra. Con tre mesi di ritardo. || 안녕! 들어가도 돼? 빚 갚으러 왔어. 수플리 두 개랑 맥주 하나. 석 달 늦었지만.
+SIMONE: Giulia! Finalmente! Avevo calcolato gli interessi. Adesso sono tre supplì. || 줄리아! 드디어! 이자 계산해 놨어. 이제 수플리 세 개야.
+GIULIA: Tre supplì. Usuraio. Eccoli. Ancora caldi. || 수플리 세 개라. 고리대금업자. 여기. 아직 따뜻해.
+SIMONE: Siediti. Lì, sulla sedia. Spostiamo la ruota. || 앉아. 거기 의자에. 바퀴 치우자.
+GIULIA: Che faccia. Cosa è successo? Hai la faccia di mio padre dopo la banca. || 표정이 왜 그래. 무슨 일 있어? 은행 갔다 온 우리 아빠 얼굴이야.
+SIMONE: È passato Castellani. Mi ha fatto un'offerta. Non per andare via. Per restare. || 카스텔라니가 왔다 갔어. 제안을 했어. 떠나라는 게 아니라. 남으라는.
+GIULIA: Per restare? A te? || 남으라고? 너한테?
+SIMONE: Contratto nuovo. Sei anni. Gli attrezzi pagati. Uno stipendio fisso. In cambio: il nome «Testaccio Corner Bikes», le bici per i loro turisti, niente motorini sul marciapiede. || 새 계약. 6년. 장비 지원. 고정 월급. 대신 조건: 이름은 «테스타초 코너 바이크스», 그 사람들 관광객용 자전거, 인도에 스쿠터 금지.
+GIULIA: Niente motorini sul marciapiede. Loredana sarebbe felice. || 인도에 스쿠터 금지라. 로레다나 부인이 좋아하시겠다.
+SIMONE: Loredana sarebbe felice per i motorini. E triste per tutto il resto. || 로레다나 부인은 스쿠터 때문엔 좋아하시겠지. 나머지 전부 때문엔 슬퍼하실 거고.
+GIULIA: E tu? Cosa pensi? || 그래서 넌? 어떻게 생각해?
+SIMONE: Penso che è la stessa cosa che ti offre Berlino. Più soldi, più sicurezza. In cambio di una cosa. || 베를린이 너한테 제안하는 거랑 똑같다는 생각. 돈 더, 안정 더. 대신 뭔가 하나를 내주고.
+GIULIA: In cambio di cosa? || 뭘 내주고?
+SIMONE: Io, del nome di mio nonno. Tu... non lo so. Di qualcosa. Lo sai tu. || 나는 할아버지 이름. 너는… 모르겠어. 뭔가를. 그건 네가 알겠지.
+GIULIA: Io in cambio di mio padre. Del bar. Del quartiere. Di... non lo so neanch'io. || 나는 아빠를 내주는 거지. 바를. 동네를. 그리고… 나도 모르겠어.
+SIMONE: Di qualcuno? || 누군가를?
+GIULIA: ... Forse. || … 어쩌면.
+> 잠시 침묵. 둘 다 수플리를 먹는다 || 잠시 침묵. 둘 다 수플리를 먹는다
+SIMONE: Il quindici ottobre. Mancano due settimane. || 10월 15일. 2주 남았네.
+GIULIA: Tredici giorni. Li conto. Come Davide conta in quattro quando è nervoso. || 13일. 세고 있어. 다비데가 긴장하면 넷까지 세는 것처럼.
+SIMONE: E Castellani mi dà fino al trenta novembre. Tu decidi prima di me. || 그리고 카스텔라니는 나한테 11월 30일까지 줬어. 네가 나보다 먼저 정하네.
+GIULIA: Allora se io decido di partire, tu firmi? E se io resto, tu dici di no? || 그럼 내가 떠나기로 하면 넌 서명할 거야? 내가 남으면 넌 거절하고?
+SIMONE: Non ho detto questo. || 그렇게 말 안 했어.
+GIULIA: Ma l'hai pensato. Si vede. || 근데 생각은 했잖아. 다 보여.
+SIMONE: Ho pensato tante cose. Anche che i supplì sono buonissimi. Anche questo si vede? || 생각은 많이 했지. 수플리가 엄청 맛있다는 생각도. 그것도 보여?
+GIULIA: Si vede. Hai il sugo sul mento. || 보여. 턱에 소스 묻었어.
+
+# 장면 5 — LA TELEFONATA
+SIMONE: Lo chiamo adesso. Castellani. Prima di cambiare idea. || 지금 전화할게. 카스텔라니한테. 마음 바뀌기 전에.
+GIULIA: E cosa gli dici? || 뭐라고 할 건데?
+SIMONE: Ascolta. || 들어 봐.
+CASTELLANI: Pronto, signor Marini? Già una risposta? È stato veloce. || 여보세요, 마리니 씨? 벌써 답이요? 빠르시네요.
+SIMONE: Non è una risposta. È una domanda. La sua offerta... posso farla vedere agli altri? Al comitato del palazzo? || 답은 아니고요. 질문이에요. 그 제안… 다른 사람들한테 보여 줘도 돼요? 건물 위원회한테요?
+CASTELLANI: Agli altri? Perché? È un'offerta per lei. || 다른 사람들한테요? 왜요? 마리니 씨한테 하는 제안인데요.
+SIMONE: Perché abbiamo un patto. Nessuno firma da solo. Se l'offerta è buona, resta buona anche se la leggono in dieci. Se è cattiva, è meglio saperlo in dieci. || 우리한테 약속이 있으니까요. 아무도 혼자 서명하지 않는다. 좋은 제안이면 열 명이 읽어도 좋은 거고. 나쁜 제안이면 열 명이 아는 게 낫죠.
+> 침묵 || 침묵
+CASTELLANI: È una posizione... insolita. Ma la rispetto. Può farla vedere. Non ho niente da nascondere. || 흔치 않은… 입장이네요. 하지만 존중합니다. 보여 주셔도 됩니다. 숨길 건 없으니까요.
+SIMONE: Grazie. Allora ci risentiamo prima del trenta novembre. Dopo il comitato. || 고마워요. 그럼 11월 30일 전에 다시 연락드릴게요. 위원회 끝나고요.
+CASTELLANI: Signor Marini, posso darle un consiglio? Non da fondo. Da uomo. || 마리니 씨, 조언 하나 드려도 될까요? 펀드로서 말고. 한 남자로서.
+SIMONE: Me lo dica. || 하세요.
+CASTELLANI: La lealtà è una bella cosa. Ma a volte, alla fine, quelli per cui sei stato leale firmano prima di te. Ci pensi. || 의리는 좋은 거죠. 하지만 가끔은 결국 내가 의리를 지킨 사람들이 나보다 먼저 서명하기도 합니다. 생각해 보세요.
+SIMONE: Ci penso. E lei pensi a un'altra cosa, dottore. Mio nonno diceva che un bullone si stringe meglio in due. Uno tiene, l'altro gira. Buona serata. || 생각해 볼게요. 그리고 선생님도 하나 생각해 보세요. 우리 할아버지가 볼트는 둘이서 조여야 더 잘 조여진다고 했어요. 하나는 잡고, 하나는 돌리고. 좋은 저녁 보내세요.
+> 전화를 끊는다 || 전화를 끊는다
+GIULIA: Un bullone si stringe meglio in due. Tuo nonno era un poeta. || 볼트는 둘이서 조여야 더 잘 조여진다. 너희 할아버지 시인이셨네.
+SIMONE: Mio nonno era un meccanico. È lo stesso. Lo dice anche Ivan, il cuoco di Davide. Cuochi, meccanici, poeti. || 우리 할아버지는 수리공이었어. 그게 그거야. 다비데네 요리사 이반도 그러잖아. 요리사, 수리공, 시인.
+GIULIA: E i baristi? || 그럼 바 주인은?
+SIMONE: I baristi sono i filosofi. Lo dice tuo padre. || 바 주인은 철학자지. 너희 아빠가 그러던데.
+GIULIA: E io? Cosa sono io? || 그럼 나는? 나는 뭔데?
+SIMONE: Tu sei quella che fa i conti. E che ha il sugo... no, scusa, adesso ce l'hai tu. Sul naso. || 넌 계산하는 사람이지. 그리고 소스가… 아니, 미안, 이번엔 네 얼굴에 있다. 코에.
+GIULIA: Oddio! Dove? || 세상에! 어디?
+SIMONE: Lì. Aspetta. Ecco. Tolto. || 거기. 가만있어. 됐다. 닦았어.
+GIULIA: ... Grazie. || … 고마워.
+SIMONE: Il meccanico ripara tutto. Anche i nasi. || 수리공은 다 고쳐. 코까지.
+
+@points
+- 협상 조건 낭독: «Tre condizioni. Primo... Secondo... Terzo...», «In cambio...», «L'affitto passa da novecento a millecinquecento», «un compenso fisso più una percentuale». 조건을 하나씩 손가락 꼽듯 끊어서.
+- 조건법의 유혹: «Lei non dovrebbe più preoccuparsi», «lei guadagnerebbe comunque di più», «Loredana sarebbe felice». 카스텔라니의 조건법은 부드럽고 매끄럽게.
+- 미래의 불확실성: «Da novembre non possono più entrare», «Se dici no, perdi tutto», «se io decido di partire, tu firmi?», «ci risentiamo prima del trenta novembre».
+- 'servire' 두 가지 뜻: «Lei ci serve»(우리에게 필요하다) ↔ «A cosa serve?», «Serve a guardarmi allo specchio»(소용이 있다). 같은 동사의 다른 무게를 억양으로.
+- 'si vede' 반복: «Si vede.» «Anche questo si vede?» «Si vede. Hai il sugo sul mento.» — 장난과 진심이 섞인 리듬.
+- 이중자음: «officina»(홑), «attrezzi»[tts], «diagnosi»(gn [ɲ]), «noleggio»[ddʒ], «manutenzione»(홑), «collaborazione»[ll], «bullone»[ll], «sugo»(홑).
+- 'gn': «diagnosi»[ˈdjaɲɲozi], «ingegnere» — 이 화의 'gn'.
+
+@notes
+- 'Fascia Verde' 로마의 저공해 구역. 오래된 차량과 2행정(due tempi) 스쿠터 등의 진입을 단계적으로 제한한다. ※ 시행 일정·대상은 시점별 확인.
+- 'noleggio' 대여, 'manutenzione' 정비, 'compenso fisso' 고정 보수, 'accordo di collaborazione' 협력 계약.
+- 'computer per la diagnosi' 전기자전거 고장 진단 장비.
+- 'istituto tecnico' 기술 고등학교. 'carburatore' 카뷰레터(기화기), 'smontato' 분해된.
+- 'usuraio' 고리대금업자(농담). 'Analisi due' 공대 '해석학 2' 과목.
+- 'Un meccanico che non si fida delle sue mani non ripara niente' / 'Un bullone si stringe meglio in due' — 시모네 할아버지의 말(극 중 창작).
+- 'lealtà' 의리·충성. 카스텔라니의 경고 «의리를 지킨 사람들이 먼저 서명하기도 한다»는 이후 갈등의 복선.
+
+@next
+3부 42화 — «Il colloquio con i professori»(선생님과의 면담) — 10월 초, 사미르의 중3 첫 학부모 면담. 성적, 품행 점수, 고등학교 진학 상담. 그리고 담임이 꺼내는 뜻밖의 이야기: 사미르의 작문이 학교 대표로 뽑혔다. 제목은 «내 건물의 열쇠».
