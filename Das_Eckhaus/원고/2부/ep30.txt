@@ -1,0 +1,150 @@
+#nr: 30
+#part: 2부 Sommer (여름)
+#title: Die Mietpreisbremse
+#ko: 임대료 상한제 · 파울의 첫 집, 그리고 이의 제기
+#level: B1~B2
+#setting: 8월 첫째 주. 파울이 드디어 집을 구했다. 미아가 소개해 준 노이쾰른 실러키츠의 방 두 개짜리 집(46㎡)을 대학원생 야니크와 나눠 쓴다. 그런데 기본 임대료가 1,150유로, ㎡당 25유로다. 병가 중인 야나가 계약서를 보고 고개를 젓고, 두 사람은 헤르만플라츠의 세입자 상담소에서 자원봉사 변호사 브뤼크너를 만난다. 표현 초점: 법적 표현 입문, 주장과 근거, 격식 있는 서면 문체.
+#cast: Paul | 파울 호프만 · 27세
+#cast: Jana | 야나 코발스키 · 34세, 병가 중
+#cast: Herr Brückner | 위르겐 브뤼크너 · 58세, 임대차 전문 변호사, 세입자 상담소 자원봉사 상담원
+#cast: Jannik | 야니크 · 25세, 파울의 새 룸메이트, 바이에른 출신 대학원생
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Can | 잔 이을드즈 · 10세, 튀르키예에서 막 돌아옴
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Derya | 데르야 이을드즈 · 40세
+#read: 법률 문장의 리듬: „Hiermit rüge ich | einen Verstoß gegen die Vorschriften | über die Begrenzung der Miethöhe." — 명사 덩어리마다 짧게 끊는다.
+#read: 조항 읽기: § 556d BGB = Paragraf fünfhundertsechsundfünfzig d, Bürgerliches Gesetzbuch [ˌbeːbeːˈɡeː].
+#read: 주장과 근거의 억양: „Die Miete ist zu hoch, ↗ | weil sie mehr als zehn Prozent über der Vergleichsmiete liegt. ↘"
+#read: Mietpreisbremse [ˈmiːtpʁaɪ̯sˌbʁɛmzə], ortsübliche Vergleichsmiete [ˈɔʁtsʔyːplɪçə fɛɐ̯ˈɡlaɪ̯çsˌmiːtə].
+#note: Mietpreisbremse(임대료 상한제): 지정 지역(베를린 전역)에서 새 임대 계약의 기본 임대료는 지역 기준 임대료(ortsübliche Vergleichsmiete, Mietspiegel로 산정)보다 10% 넘게 높을 수 없다. 2029년 말까지 연장되었다. 예외: 2014년 10월 이후 처음 임대된 신축, 대대적 현대화 후 첫 임대, 이전 세입자의 임대료(Vormiete)가 이미 더 높았던 경우.
+#note: Rüge(이의 제기): 세입자가 서면(Textform)으로 위반을 지적해야 효력이 생긴다. 이의 제기 이후 초과 지급분을 돌려받을 수 있고, 계약 후 30개월 안에 제기하면 계약 시점부터 돌려받을 수 있다. 집주인은 예외 사유를 세입자에게 알려야 할 의무(Auskunftspflicht)가 있다.
+#note: 주장과 근거: Ich bin der Auffassung, dass … / Das begründe ich damit, dass … / Aus diesem Grund … / Daraus folgt, dass … / Ich fordere Sie auf, … / Bitte teilen Sie mir mit, …
+#note: 격식 서신: Sehr geehrte Damen und Herren, … / Hiermit … / Ich bitte um eine schriftliche Antwort bis zum … / Mit freundlichen Grüßen. 등기 우편 = das Einschreiben (mit Rückschein, 수신 확인).
+#note: Kündigungsschutz: 이의 제기를 했다는 이유로 집주인이 계약을 해지하는 것은 허용되지 않는다(보복 해지 금지).
+## Endlich ein Vertrag | 드디어 계약서
+Paul: Jana! Guck mal! Ich habe einen Mietvertrag! Einen echten! Mit meinem Namen! || 야나! 이것 좀 봐! 임대 계약서야! 진짜 계약서! 내 이름이 적힌!
+Jana: Paul! Wirklich? Glückwunsch! Wo? || 파울! 정말? 축하해! 어디야?
+Paul: Im Schillerkiez. Zwei Zimmer, sechsundvierzig Quadratmeter. Mit Balkon zum Hof. Zusammen mit einem Mitbewohner. Jannik. Ein Cousin von Mia. || 실러키츠야. 방 두 개, 46제곱미터. 안마당 쪽 발코니도 있어. 룸메이트랑 같이. 야니크라고. 미아 사촌이야.
+Jana: Mia? Die Mia aus der WG in Friedrichshain? Die mit den Linsenbuletten? || 미아? 프리드리히스하인 WG의 그 미아? 렌틸콩 불레테?
+Paul: Genau die. Sie hat gesagt, sie meldet sich zuerst bei mir. Und das hat sie gemacht. Ihr Cousin hat einen Mitbewohner gesucht. Und die Vermieterin hat uns beide genommen. || 바로 그 미아. 나한테 제일 먼저 연락하겠다고 했잖아. 진짜 그렇게 했어. 사촌이 룸메이트를 찾고 있었대. 그리고 집주인이 우리 둘 다 받아 줬어.
+Jana: Siehst du? Die Linsenbuletten haben gewirkt. Zeig mal den Vertrag. || 거봐. 렌틸콩 불레테가 효과가 있었잖아. 계약서 좀 보여 줘.
+Paul: Hier. Ich habe am Freitag unterschrieben. Ich ziehe am Montag ein. || 여기. 금요일에 서명했어. 월요일에 이사해.
+Jana: Moment. Wie viel ist die Kaltmiete? Elfhundertfünfzig? || 잠깐. 기본 임대료가 얼마야? 1,150?
+Paul: Ja. Plus zweihundertzwanzig Nebenkosten. Wir teilen. Jeder zahlt sechshundertfünfundachtzig. Das ist teuer, aber es geht. || 응. 관리비 220 별도. 반씩 나눠. 각자 685씩 내. 비싸긴 한데 낼 만해.
+Jana: Paul, sechsundvierzig Quadratmeter für elfhundertfünfzig kalt. Das sind fünfundzwanzig Euro pro Quadratmeter. || 파울, 46제곱미터에 기본 임대료 1,150이면 제곱미터당 25유로야.
+Paul: Ist das viel? Ich weiß das nicht. Alle Wohnungen sind so teuer. || 그게 많은 거야? 나는 몰라. 집이 다 그렇게 비싸던데.
+Jana: Es gibt die Mietpreisbremse. In Berlin darf die Miete bei einem neuen Vertrag nur zehn Prozent über dem Mietspiegel liegen. Der Mietspiegel für so eine Wohnung ist … vielleicht neun Euro? Zehn? || 임대료 상한제라는 게 있어. 베를린에서는 새 계약 임대료가 기준표보다 10퍼센트 넘게 높으면 안 돼. 그런 집 기준 임대료는… 9유로쯤? 10유로?
+Paul: Neun Euro? Dann müsste die Miete … vierhundert Euro sein? Nicht elfhundert? || 9유로? 그럼 임대료가… 400유로여야 한다고? 1,100이 아니라?
+Jana: Ungefähr. Wenn es keine Ausnahme gibt. Neubau, Modernisierung, so was. || 대략. 예외가 없다면. 신축이라든지 현대화라든지 그런 거.
+Paul: Das Haus ist von neunzehnhundertzehn. Kein Neubau. Und die Küche ist alt. || 그 집은 1910년에 지어졌어. 신축 아니야. 그리고 부엌도 낡았어.
+Jana: Dann solltest du das prüfen lassen. Beim Mieterverein. Oder bei der Mieterberatung vom Bezirk. Die ist kostenlos. || 그럼 확인받아 봐야 해. 세입자 협회에서. 아니면 구청 세입자 상담소에서. 거긴 무료야.
+Paul: Aber ich habe doch schon unterschrieben! || 그래도 나 벌써 서명했잖아!
+Jana: Das ist egal. Man kann auch nach der Unterschrift rügen. Das habe ich bei einer Kollegin gesehen. Sie hat fast vierhundert Euro im Monat zurückbekommen. || 그건 상관없어. 서명한 뒤에도 이의 제기할 수 있어. 동료가 그러는 걸 봤거든. 한 달에 거의 400유로를 돌려받았어.
+## In der Mieterberatung | 세입자 상담소에서
+Herr Brückner: Guten Tag. Brückner. Ich bin hier ehrenamtlich, jeden Dienstag. Eigentlich bin ich Anwalt für Mietrecht. Was kann ich für Sie tun? || 안녕하세요. 브뤼크너입니다. 매주 화요일에 여기서 자원봉사를 해요. 원래는 임대차 전문 변호사고요. 무엇을 도와드릴까요?
+Paul: Guten Tag. Paul Hoffmann. Ich habe einen Mietvertrag unterschrieben. Und meine Freundin glaubt, dass die Miete zu hoch ist. || 안녕하세요. 파울 호프만입니다. 임대 계약서에 서명했는데요. 제 친구가 임대료가 너무 높은 것 같대요.
+Jana: Nicht seine Freundin. Eine Freundin. Jana Kowalski. || 여자 친구가 아니라 그냥 친구예요. 야나 코발스키입니다.
+Herr Brückner: Gut, Frau Kowalski, Herr Hoffmann. Zeigen Sie mal. … Sechsundvierzig Quadratmeter, Altbau, Baujahr neunzehnhundertzehn. Elfhundertfünfzig netto kalt. Hm. || 좋아요, 코발스키 씨, 호프만 씨. 보여 주세요. …46제곱미터, 알트바우, 1910년 건축. 순 기본 임대료 1,150. 흠.
+Paul: Ist das zu viel? || 너무 많은가요?
+Herr Brückner: Das ist eine sehr hohe Miete. Ich schaue in den Mietspiegel. Altbau bis neunzehnhundertachtzehn, Wohnung zwischen vierzig und sechzig Quadratmetern, mittlere Wohnlage. Hat die Wohnung ein modernes Bad? || 아주 높은 임대료예요. 기준표를 볼게요. 1918년 이전 알트바우, 40~60제곱미터, 중간 주거 지역. 집에 현대식 욕실이 있나요?
+Paul: Die Badewanne ist alt. Mit Füßen. Aber es gibt eine Dusche darüber. || 욕조가 낡았어요. 발 달린 거요. 그래도 위에 샤워기가 있어요.
+Herr Brückner: Einbauküche? || 붙박이 부엌은요?
+Paul: Ein Herd, eine Spüle, ein alter Kühlschrank. Mehr nicht. || 레인지 하나, 개수대 하나, 낡은 냉장고 하나요. 그게 다예요.
+Herr Brückner: Balkon, Parkett, Aufzug? || 발코니, 마룻바닥, 엘리베이터는요?
+Paul: Balkon ja. Dielen, kein Parkett. Kein Aufzug. Vierter Stock. || 발코니는 있어요. 마루는 원목 판자고 쪽모이 바닥은 아니에요. 엘리베이터는 없고요. 5층이에요.
+Herr Brückner: Dann liegt die ortsübliche Vergleichsmiete bei ungefähr acht Euro fünfzig pro Quadratmeter. Plus zehn Prozent sind das rund neun Euro vierzig. Mal sechsundvierzig … etwa vierhundertdreißig Euro. || 그럼 지역 기준 임대료는 제곱미터당 대략 8유로 50센트예요. 10퍼센트를 더하면 약 9유로 40센트. 거기에 46을 곱하면… 약 430유로네요.
+Jana: Vierhundertdreißig statt elfhundertfünfzig? || 1,150 대신 430이요?
+Herr Brückner: Wenn keine Ausnahme vorliegt. Das ist der entscheidende Punkt. Hat die Vermieterin Ihnen vor der Unterschrift etwas gesagt? Über eine Modernisierung? Oder über die Vormiete? || 예외가 없다면요. 그게 핵심이에요. 서명하기 전에 집주인이 뭐라고 했나요? 현대화에 대해서라든지? 아니면 이전 임대료에 대해서라든지?
+Paul: Nein. Nichts. Sie hat nur gesagt: „Das ist der Marktpreis. Nehmen Sie es oder nicht." || 아니요. 아무것도요. 그냥 „이게 시세예요. 할 거면 하고 말 거면 말고요."라고만 했어요.
+Herr Brückner: „Der Marktpreis." Das höre ich jeden Dienstag. Der Markt ist aber nicht das Gesetz. Wenn die Vermieterin sich auf eine Ausnahme berufen will, muss sie Sie vor dem Vertragsschluss darüber informieren. Schriftlich. Hat sie nicht. Das ist gut für Sie. || „시세"라. 그 말은 화요일마다 들어요. 하지만 시장이 곧 법은 아니에요. 집주인이 예외를 주장하려면 계약 전에 서면으로 알렸어야 해요. 그런데 안 했죠. 그건 당신한테 유리해요.
+Paul: Und was kann ich jetzt tun? || 그럼 이제 뭘 할 수 있죠?
+Herr Brückner: Sie können eine Rüge schreiben. Ein formeller Brief. Darin sagen Sie: Die Miete verstößt gegen die Mietpreisbremse. Sie fordern Auskunft und die Rückzahlung der zu viel gezahlten Miete. || 이의 제기서를 쓸 수 있어요. 공식 서한이죠. 거기에 임대료가 상한제를 위반한다고 쓰는 거예요. 정보 공개와 초과 지급한 임대료 반환을 요구하고요.
+Jana: Und wie viel wäre das im Monat? || 그럼 한 달에 얼마나 되는 거예요?
+Herr Brückner: Rund siebenhundertzwanzig Euro. Für Sie beide zusammen. Für jeden dreihundertsechzig. Jeden Monat. || 대략 720유로요. 두 분 합쳐서요. 한 사람당 360. 매달이요.
+Paul: Dreihundertsechzig Euro. Jeden Monat. Das ist … das ist fast die Hälfte von dem, was ich zahle. || 360유로. 매달. 그건… 제가 내는 돈의 거의 절반이에요.
+## Angst vor der Vermieterin | 집주인이 무섭다
+Paul: Aber Herr Brückner … wenn ich das mache, ist die Vermieterin sauer. Dann kündigt sie mir. Und ich bin wieder auf dem Sofa. || 그런데 브뤼크너 씨… 제가 그렇게 하면 집주인이 화낼 거예요. 그럼 계약을 해지하겠죠. 그럼 저는 다시 소파 신세고요.
+Herr Brückner: Das ist die häufigste Angst. Und sie ist verständlich. Aber sie darf Ihnen deswegen nicht kündigen. Das wäre unzulässig. Ein Mietvertrag kann nicht einfach gekündigt werden, nur weil Sie Ihre Rechte nutzen. || 그게 가장 흔한 두려움이에요. 이해도 돼요. 하지만 그 이유로 해지할 수는 없어요. 그건 허용되지 않아요. 권리를 행사했다는 이유만으로 임대 계약을 함부로 해지할 수는 없어요.
+Paul: Und wenn sie einen anderen Grund findet? Eigenbedarf? Lärm? Irgendwas? || 그럼 다른 이유를 찾으면요? 본인 거주? 소음? 아무거나요?
+Herr Brückner: Dann muss sie diesen Grund beweisen. Vor Gericht, wenn nötig. Herr Hoffmann, ich sage es Ihnen ehrlich: Es kann unangenehm werden. Manche Vermieter reagieren freundlich, manche nicht. Aber das Gesetz ist auf Ihrer Seite. || 그럼 그 이유를 입증해야 해요. 필요하면 법정에서요. 호프만 씨, 솔직히 말씀드릴게요. 불편해질 수는 있어요. 어떤 집주인은 순순히 받아들이고, 어떤 집주인은 그렇지 않아요. 그래도 법은 당신 편이에요.
+Jana: Paul, du hast im Juni gesagt: Ich bin so müde von der Suche. Und du warst bereit, neunhundert Euro für einen Schrank in Wedding zu zahlen. Jetzt hast du eine Wohnung. Und ein Gesetz. Das ist mehr, als die meisten haben. || 파울, 너 6월에 그랬잖아. 집 구하는 거 너무 지친다고. 그리고 베딩의 옷장 같은 방에 900유로 낼 뻔했고. 이제 집도 있고 법도 있어. 그건 대부분의 사람들이 가진 것보다 많아.
+Paul: Ich muss mit Jannik reden. Es ist ja auch sein Vertrag. Wir haben beide unterschrieben. || 야니크랑 얘기해 봐야 해. 걔 계약이기도 하잖아. 우리 둘 다 서명했으니까.
+Herr Brückner: Das ist richtig. Bei einem gemeinsamen Vertrag ist es besser, wenn Sie beide rügen. Reden Sie mit ihm. Und kommen Sie nächsten Dienstag wieder. Dann schreiben wir den Brief zusammen. || 맞아요. 공동 계약이면 두 분이 같이 이의 제기하는 게 좋아요. 그분이랑 얘기해 보세요. 그리고 다음 주 화요일에 다시 오세요. 그때 같이 편지를 쓰죠.
+Jana: Herr Brückner, darf ich noch etwas fragen? Nicht für Paul. Für unser Haus. || 브뤼크너 씨, 하나만 더 여쭤봐도 될까요? 파울 얘기가 아니라 우리 집 건물 얘기예요.
+Herr Brückner: Bitte. || 그러세요.
+Jana: In unserem Haus am Maybachufer soll das Haus verkauft werden. An einen Investor. Nordwert. Die Mieter machen sich Sorgen. Was können wir tun? || 마이바흐우퍼에 있는 우리 건물이 팔린다고 해요. 투자자한테요. 노르트베르트라고. 세입자들이 걱정하고 있어요. 우리가 뭘 할 수 있을까요?
+Herr Brückner: Nordwert … Den Namen kenne ich. Leider. Ich habe in Friedrichshain Mieter beraten. In einem Haus, das Nordwert gekauft hat. || 노르트베르트… 아는 이름이네요. 안타깝게도요. 프리드리히스하인에서 세입자들을 상담했었어요. 노르트베르트가 산 건물이었죠.
+Jana: Das Haus mit der Sanierung? Ein Jahr Baustelle? || 리모델링한 그 건물이요? 일 년 내내 공사했다는?
+Herr Brückner: Sie haben davon gehört? Ja. Das war schwierig. Für so eine Situation brauchen Sie mehr als eine Sprechstunde am Dienstag. Hier ist meine Karte. Rufen Sie mich an. Alle zusammen. || 들으셨군요? 네. 그건 힘든 일이었어요. 그런 상황이라면 화요일 상담 시간 하나로는 부족해요. 여기 제 명함이에요. 전화 주세요. 다 같이요.
+## Jannik | 야니크
+Jannik: Servus, Paul! Du bist ja schon da. Hast du den Schlüssel für den Briefkasten? || 안녕, 파울! 벌써 와 있었네. 우편함 열쇠 있어?
+Paul: Hier. Jannik, ich muss mit dir über die Miete reden. || 여기. 야니크, 임대료 얘기 좀 해야겠어.
+Jannik: Ist was mit der Miete? Hast du das Geld nicht? || 임대료가 왜? 돈이 없어?
+Paul: Doch. Aber die Miete ist zu hoch. Viel zu hoch. Ich war bei einer Mieterberatung. Der Anwalt sagt, sie verstößt gegen die Mietpreisbremse. Wir zahlen jeden Monat über siebenhundert Euro zu viel. Zusammen. || 있어. 근데 임대료가 너무 높아. 너무너무. 세입자 상담소에 갔었는데 변호사가 상한제 위반이래. 우리 매달 칠백 유로 넘게 더 내는 거래. 둘이 합쳐서.
+Jannik: Siebenhundert? Echt jetzt? || 칠백? 진짜로?
+Paul: Echt. Wir können eine Rüge schreiben. Dann bekommen wir das Geld zurück. Und zahlen danach weniger. || 진짜야. 이의 제기서를 쓸 수 있대. 그러면 돈도 돌려받고. 그다음부턴 덜 내고.
+Jannik: Hm. Ich weiß nicht, Paul. Bei uns in Bayern macht man so was nicht. Man unterschreibt einen Vertrag, dann hält man sich daran. Ein Vertrag ist ein Vertrag. || 흠. 글쎄, 파울. 우리 바이에른에선 그런 거 안 해. 계약서에 서명했으면 그걸 지키는 거야. 계약은 계약이잖아.
+Paul: Ja. Aber das Gesetz ist auch ein Gesetz. Und es steht über dem Vertrag. || 그렇지. 근데 법도 법이야. 그리고 법이 계약보다 위에 있고.
+Jannik: Und wenn die Vermieterin uns rauswirft? Ich habe zwei Jahre gesucht. Zwei Jahre! Ich will diese Wohnung nicht verlieren. || 집주인이 우릴 쫓아내면? 나 이 년 동안 집 구했어. 이 년! 이 집 잃고 싶지 않아.
+Paul: Der Anwalt sagt, das darf sie nicht. Nur wegen der Rüge. || 변호사 말로는 그건 못 한대. 이의 제기했다는 이유만으로는.
+Jannik: „Darf sie nicht." Das sagen die Anwälte immer. Und dann findet sie einen anderen Grund. Zu laut, zu viele Gäste, falsch Müll getrennt. || „못 한대." 변호사들은 늘 그렇게 말하지. 그다음엔 집주인이 다른 이유를 찾아. 너무 시끄럽다, 손님이 너무 많다, 쓰레기 분리를 잘못했다.
+Paul: Dann trennen wir den Müll eben perfekt. Ich kenne da jemanden. Sie heißt Frau Schulze. || 그럼 쓰레기 분리를 완벽하게 하면 되지. 내가 아는 분이 있어. 슐체 부인이라고.
+Jannik: Wer ist Frau Schulze? || 슐체 부인이 누군데?
+Paul: Das erkläre ich dir ein anderes Mal. Jannik, dreihundertsechzig Euro im Monat. Für jeden. Was würdest du mit dreihundertsechzig Euro machen? || 그건 다음에 설명할게. 야니크, 한 달에 360유로야. 한 사람당. 너라면 360유로로 뭘 할래?
+Jannik: … Ich würde nicht mehr am Wochenende im Lager arbeiten. Ich würde für meine Masterarbeit lernen. Statt Kartons zu packen. || …주말에 창고에서 일 안 해도 되겠지. 석사 논문 공부를 할 거야. 상자 싸는 대신.
+Paul: Siehst du. || 거봐.
+Jannik: Okay. Aber wir machen es höflich. Sehr höflich. Und du schreibst den Brief. Nicht ich. || 좋아. 대신 정중하게 하자. 아주 정중하게. 그리고 편지는 네가 써. 내가 말고.
+Paul: Höflich, aber klar. So hat es Jana genannt. Wie eine Schrippe. || 정중하지만 분명하게. 야나가 그렇게 말했어. 슈리페처럼.
+Jannik: Wie eine was? || 뭐처럼?
+## Der Brief | 편지
+Herr Brückner: So. Herr Hoffmann, Sie lesen den Brief laut vor. Dann hören Sie selbst, ob er gut klingt. || 자. 호프만 씨, 편지를 소리 내서 읽어 보세요. 그러면 잘 들리는지 직접 알 수 있어요.
+Paul: „Sehr geehrte Frau Graf, hiermit rügen wir einen Verstoß gegen die Vorschriften über die zulässige Miethöhe bei Mietbeginn gemäß Paragraf fünfhundertsechsundfünfzig d ff. BGB." || „존경하는 그라프 씨, 저희는 이로써 민법 제556d조 이하의 계약 개시 시 허용 임대료 규정 위반에 대해 이의를 제기합니다."
+Jannik: Wow. Das klingt wie ein echter Anwalt. || 와. 진짜 변호사 같다.
+Paul: Das ist auch von einem echten Anwalt. Weiter: „Die vereinbarte Nettokaltmiete beträgt elfhundertfünfzig Euro. Nach dem Berliner Mietspiegel beträgt die ortsübliche Vergleichsmiete für unsere Wohnung rund acht Euro fünfzig pro Quadratmeter." || 진짜 변호사가 쓴 거니까. 계속할게. „합의된 순 기본 임대료는 1,150유로입니다. 베를린 임대료 기준표에 따르면 저희 집의 지역 기준 임대료는 제곱미터당 약 8.50유로입니다."
+Herr Brückner: Gut. Jetzt kommt die Begründung. Langsam. || 좋아요. 이제 근거 부분이에요. 천천히요.
+Paul: „Die zulässige Miete liegt damit bei höchstens vierhundertdreißig Euro. Ausnahmen nach Paragraf fünfhundertsechsundfünfzig e und f BGB wurden uns vor Vertragsschluss nicht mitgeteilt. Daraus folgt, dass die Miete in Höhe von rund siebenhundertzwanzig Euro monatlich unzulässig ist." || „따라서 허용되는 임대료는 최대 430유로입니다. 민법 제556e조 및 제556f조에 따른 예외 사유는 계약 체결 전에 저희에게 고지되지 않았습니다. 그러므로 매월 약 720유로에 해당하는 임대료는 허용되지 않습니다."
+Jannik: „Daraus folgt." Klingt wie Mathe. || „그러므로." 수학 같다.
+Herr Brückner: Recht ist oft wie Mathe. Nur mit mehr Ausnahmen. Weiter, bitte. Der wichtigste Teil. || 법은 수학 같을 때가 많죠. 예외가 더 많을 뿐이에요. 계속하세요. 가장 중요한 부분이에요.
+Paul: „Wir fordern Sie auf, uns Auskunft über die Höhe der Vormiete und über durchgeführte Modernisierungen zu erteilen. Außerdem fordern wir die Rückzahlung der zu viel gezahlten Miete. Bitte antworten Sie uns schriftlich bis zum einunddreißigsten August." || „저희는 이전 임대료 수준과 시행된 현대화에 대한 정보를 알려 주실 것을 요청합니다. 아울러 초과 지급된 임대료의 반환을 요구합니다. 8월 31일까지 서면으로 답변해 주시기 바랍니다."
+Jana: Und dann? Wie endet so ein Brief? Mit einer Drohung? || 그다음엔? 이런 편지는 어떻게 끝나? 협박으로?
+Herr Brückner: Nein. Mit Höflichkeit. Das ist die stärkste Drohung. Lesen Sie den letzten Satz, Herr Hoffmann. || 아니요. 예의로 끝나요. 그게 가장 강한 협박이죠. 마지막 문장 읽어 보세요, 호프만 씨.
+Paul: „Wir möchten gern weiterhin ein gutes Verhältnis mit Ihnen haben und freuen uns auf Ihre Antwort. Mit freundlichen Grüßen, Paul Hoffmann und Jannik Huber." || „저희는 앞으로도 집주인님과 좋은 관계를 이어 가고 싶으며, 답변을 기다리겠습니다. 정중한 인사를 담아, 파울 호프만과 야니크 후버 드림."
+Jannik: Das ist gut. Das ist höflich. Damit kann ich leben. Das unterschreibe ich. || 그거 좋다. 정중하네. 그 정도면 괜찮아. 서명할게.
+Herr Brückner: Dann schicken Sie den Brief als Einschreiben mit Rückschein. Damit Sie einen Beweis haben, dass er angekommen ist. Und machen Sie eine Kopie. Für sich. || 그럼 수신 확인 등기 우편으로 보내세요. 도착했다는 증거가 남도록요. 그리고 사본도 하나 만들어 두세요. 본인용으로요.
+Jana: Eine Kopie. Frau Schulze wird stolz auf dich sein. || 사본이라. 슐체 부인이 너를 자랑스러워하시겠다.
+## Eine grüne Lampe | 초록 스탠드
+Kalle: Na, Paul? Wie war das erste Wochenende in der eigenen Wohnung? || 그래, 파울? 네 집에서 보낸 첫 주말은 어땠어?
+Paul: Komisch. Ich bin nachts dreimal aufgewacht. Weil es so still war. Kein DJ, keine Kneipe. Nur ein Fenster. Mit Licht am Morgen. || 이상했어. 밤에 세 번이나 깼어. 너무 조용해서. DJ도 없고, 가게도 없고. 창문 하나뿐이었어. 아침엔 빛이 들어오는.
+Kalle: Licht am Morgen. Wie bei einer Pflanze. Hat Frau Krüger … hat Edith das nicht gesagt? || 아침에 들어오는 빛이라. 식물처럼. 크뤼거 부인이… 에디트가 그런 말 하지 않았어?
+Paul: Du duzt sie jetzt auch? || 칼레도 이제 말 놓으세요?
+Kalle: Nee. Noch nich. Ick hab mich nur versprochen. Nach fünfundzwanzig Jahren traue ick mich nich. || 아니. 아직은. 그냥 말이 헛나왔어. 이십오 년이나 지나니까 엄두가 안 나네.
+Paul: Und die Rüge ist weg. Per Einschreiben. Mit Rückschein. Und mit Kopie. || 그리고 이의 제기서는 보냈어. 등기 우편으로. 수신 확인까지. 사본도 있고.
+Kalle: Gut so. Und wenn die Vermieterin Ärger macht, kommt sie zu mir. Und zu Frau Schulze. Und zu Herrn Brückner. Det is jetzt deine Mannschaft. || 잘했다. 그리고 그 집주인이 문제를 일으키면 나한테 오라고 해. 슐체 부인한테도. 브뤼크너 씨한테도. 이제 그게 네 팀이야.
+Can: Paul! Paul! Endlich finde ich dich! Ich bin seit einer Woche zurück aus der Türkei, und du warst nie da! Ich habe einen Baum gepflanzt! Einen Olivenbaum! || 파울 형! 파울 형! 드디어 찾았다! 튀르키예에서 돌아온 지 일주일인데 형이 한 번도 없었잖아요! 저 나무 심었어요! 올리브 나무요!
+Paul: Can! Ich war beim Umzug. Und beim Anwalt. Du bist ja ganz braun! || 잔! 이사하고 변호사 만나느라 그랬어. 완전히 까맣게 탔네!
+Can: Kalle hat gesagt, du hast eine Wohnung! Eine richtige! Mit Fenster! || 칼레 아저씨가 형 집 생겼대요! 진짜 집이요! 창문 있는!
+Paul: Habe ich. Und weißt du, was das heißt? || 생겼지. 그게 무슨 뜻인지 알아?
+Can: … Die Lampe! Die grüne Lampe! Ich darf sie anmachen! Du hast es versprochen! Auf dem Flohmarkt! || …스탠드! 초록 스탠드! 제가 켜도 되는 거죠! 형이 약속했잖아요! 벼룩시장에서요!
+Paul: Ich habe es versprochen. Heute Abend? Um acht? Bei mir? Mit Kuchen? || 약속했지. 오늘 저녁? 여덟 시? 우리 집에서? 케이크 들고?
+Can: Mit Kuchen! Von Anneanne. Sie hat aus der Türkei Baklava mitgebracht. Fünf Kilo. || 케이크 들고요! 할머니가 만든 거요. 튀르키예에서 바클라바를 가져오셨어요. 5킬로요.
+Kalle: Fünf Kilo! Deine Oma ist ja verrückt. || 5킬로! 너희 할머니 정말 대단하시다.
+Can: Das sagen alle. Paul, darf Edith auch kommen? Und Mama? Und Tobi? || 다들 그렇게 말해요. 파울 형, 에디트 할머니도 와도 돼요? 엄마도요? 토비 아저씨도요?
+Paul: Alle. Aber es ist nur ein kleines Zimmer. Zwölf Quadratmeter. Mit einem Bett und einer grünen Lampe. || 다 와도 돼. 근데 작은 방이야. 12제곱미터. 침대 하나랑 초록 스탠드 하나뿐인.
+Can: Das reicht. Für eine Lampe braucht man nicht viel Platz. Nur einen Finger. Und jemanden, der sie anmacht. || 그거면 충분해요. 스탠드 켜는 데는 자리가 많이 필요 없잖아요. 손가락 하나면 돼요. 그리고 켜 줄 사람 하나요.
+## Acht Uhr abends, Schillerkiez | 저녁 여덟 시, 실러키츠
+Can: Sind alle da? Edith, Mama, Jannik? Achtung! Ich zähle bis drei! || 다들 왔어요? 에디트 할머니, 엄마, 야니크 형? 주목! 셋까지 셀게요!
+Edith: Warte, Can. Ich muss mich erst setzen. Fünf Etagen ohne Aufzug. Das sind ja hundertzwei Stufen! || 잠깐, 잔. 일단 좀 앉아야겠다. 엘리베이터 없이 다섯 층이라니. 계단이 백두 개나 되잖니!
+Paul: Du hast die Stufen gezählt? || 계단을 세셨어요?
+Edith: Ich zähle immer Stufen, Paul. Hundertzwei. Das ist mehr als bei mir. Du bist jetzt sportlicher als ich. || 나는 늘 계단을 세, 파울. 백두 개. 우리 집보다 많네. 이제 네가 나보다 더 운동하겠구나.
+Jannik: Grüß Gott! Ich bin Jannik. Der Mitbewohner. Ich habe Brezeln mitgebracht. Aus Bayern. Also, vom Bäcker an der Ecke. Aber nach bayerischem Rezept. || 안녕하세요! 저는 야니크예요. 룸메이트요. 브레첼 가져왔어요. 바이에른에서요. 아니, 모퉁이 빵집 거예요. 그래도 바이에른식 레시피로 만든 거래요.
+Can: Jetzt! Eins … zwei … drei! || 이제요! 하나… 둘… 셋!
+Paul: Sie leuchtet. Sie leuchtet wirklich. || 켜졌다. 정말 켜졌어.
+Edith: Grün. Wie meine Weiße. Ein gutes Licht für ein erstes Zuhause. || 초록색이네. 내 바이세처럼. 첫 보금자리에 딱 좋은 빛이야.
+Can: Paul, du hast es auf dem Flohmarkt gesagt: Du bist der Erste, den ich einlade. Und ich bin wirklich der Erste! || 파울 형, 벼룩시장에서 그랬잖아요. 제일 먼저 초대하겠다고. 그리고 제가 진짜 제일 먼저 왔어요!
+Paul: Du bist der Erste. Und du hast Kuchen mitgebracht. Wie versprochen. || 네가 제일 먼저야. 그리고 약속대로 케이크도 가져왔고.
+Derya: Paul, darf ich etwas sagen? Vor fünf Monaten hast du auf einem Sofa geschlafen. Neben einem DJ. Jetzt hast du ein Zimmer, ein Fenster, eine Lampe. Und einen Brief an die Vermieterin. Ich bin stolz auf dich. || 파울, 한마디 해도 돼? 다섯 달 전엔 DJ 옆 소파에서 잤잖아. 이제는 방도 있고, 창문도 있고, 스탠드도 있어. 집주인한테 보낸 편지까지. 네가 자랑스러워.
+Paul: Danke, Derya. Ohne euch hätte ich das nicht geschafft. Ohne Kalle, ohne Jana, ohne Frau Schulze. Ohne euch alle. || 고마워요, 데르야. 다들 아니었으면 못 해냈을 거예요. 칼레, 야나, 슐체 부인. 다들 없었으면요.
+Jannik: Wer ist eigentlich diese Frau Schulze? Alle reden von ihr. || 근데 그 슐체 부인이라는 분은 누구예요? 다들 그분 얘기를 하던데.
+Edith: Frau Schulze ist die Frau, die dir in zwei Wochen sagt, dass du deinen Müll falsch trennst. Und die dir dann einen Käsekuchen backt. || 슐체 부인은 이 주 뒤에 네가 쓰레기 분리를 잘못한다고 말해 줄 사람이야. 그러고는 치즈케이크를 구워 줄 사람이고.
+Can: Paul, kann die Lampe die ganze Nacht anbleiben? Für heute? Als Feier? || 파울 형, 스탠드 밤새 켜 놔도 돼요? 오늘만요? 축하하는 의미로요?
+Paul: Die ganze Nacht. Für heute. Der Strom geht auf meine Rechnung. Meine erste eigene Stromrechnung. || 밤새 켜 두자. 오늘만. 전기세는 내가 낼게. 내 이름으로 된 첫 전기 요금이야.
