@@ -1,0 +1,173 @@
+@part 5
+@ep 75
+@file Chi_comanda_qui
+@title Chi comanda qui?
+@ko 여기 누가 대장이야?
+@where 비아 델 칸토네 7번지 현관과 2층 / 바 일 칸토네(첫 정기 총회) / 2층 계단참
+@level B2~C1
+@setting 4월 1일 수요일 오전 / 4월 4일 토요일 저녁 6시~밤 10시
+@cast NADIA | 협동조합 부이사장, 40세
+@cast LOREDANA | 2층 세입자, 은퇴한 초등 교사, 66세
+@cast PINA | 2층으로 돌아온 세입자, 리타의 어머니, 81세
+@cast ELISA | 협동조합 이사(회계), 약사, 임신 28주, 33세
+@cast FRANCO | 협동조합 이사장, 62세
+@note 4월 1일, 피나 파브리가 52년을 살다 '거주 안 함'으로 쫓겨났던 2층 집으로 돌아온다. 같은 날 아침 시모네는 베를린행 비행기를 탔다. 그리고 4월 4일 토요일, 소유주가 된 뒤 첫 '평범한' 정기 총회. 안건은 시시해 보인다. 계단 청소, 옥상 빨래, 현관 자전거. 나디아는 줄리아의 말을 떠올린다. "적 없는 협동조합은 싸울 거야."
+
+# 장면 1 — IL RITORNO DI PINA
+> 4월 1일 오전 10시. 현관. 리타가 작은 여행 가방 두 개를 내려놓는다. 지팡이를 짚은 할머니가 우편함 앞에 멈춰 선다 || 4월 1일 오전 10시. 현관. 리타가 작은 여행 가방 두 개를 내려놓는다. 지팡이를 짚은 할머니가 우편함 앞에 멈춰 선다
+PINA: La mia cassetta. Ancora con il mio nome. «Fabbri». Scritto a mano. Da mio marito. Aldo. Nel settantaquattro. Non l'hanno cambiata. || 내 우편함. 아직 내 이름이 있네. «파브리». 손으로 쓴 거. 우리 남편이. 알도가. 74년에. 안 바꿨구나.
+LOREDANA: Non l'hanno cambiata perché io non l'ho permesso. L'ente voleva mettere una targhetta di plastica. Ho detto: «Quella è la calligrafia di Aldo Fabbri. Si tocca sul mio cadavere». || 안 바꾼 건 내가 못 하게 했기 때문이야. 기관에서 플라스틱 명패를 붙이려고 했거든. 내가 그랬지. «그건 알도 파브리의 글씨예요. 내 시체를 밟고 넘어가세요».
+PINA: Loredana! Loredana mia! Sei invecchiata! || 로레다나! 우리 로레다나! 너 늙었다!
+LOREDANA: E tu sei ringiovanita. Frosinone ti ha fatto bene. Bentornata, Pina. Dopo due anni. || 언니는 젊어졌네. 프로시노네가 잘 맞았나 봐. 다시 온 거 환영해, 피나 언니. 2년 만에.
+PINA: Due anni e tre mesi. Li ho contati. Ogni giorno. Come si contano i giorni in ospedale. Per uscire. || 2년 3개월. 셌어. 매일. 병원에서 날 세듯이. 나가려고.
+NADIA: Signora Pina, buongiorno. Sono Nadia. Del quarto piano. Ci siamo sentite al telefono. || 피나 할머니, 안녕하세요. 나디아예요. 4층. 전화로 얘기 나눴죠.
+PINA: Nadia! La ragazza della cooperativa! Quella che parla in tre minuti! Mia figlia mi ha fatto vedere il video. Sul telefono. L'ho visto undici volte. Ho pianto undici volte. || 나디아! 협동조합 아가씨! 3분 안에 말하는 그 아가씨! 우리 딸이 영상 보여 줬어. 휴대폰으로. 열한 번 봤어. 열한 번 울었고.
+NADIA: Due minuti e cinquantotto. || 2분 58초예요.
+PINA: Ancora meglio. A Roma nessuno sta nei tempi. Tranne i treni per Frosinone. Quelli arrivano sempre in anticipo. Per farti perdere la coincidenza. || 더 좋네. 로마에선 아무도 시간을 안 지키는데. 프로시노네행 기차만 빼고. 그건 늘 일찍 와. 환승 놓치게.
+LOREDANA: Vieni. Ti ho preparato il caffè. Con il cucchiaino di zucchero già dentro. Così non devi girare. L'artrite. || 들어와. 커피 타 놨어. 설탕 한 스푼 미리 넣어서. 안 저어도 되게. 관절염.
+PINA: Ti ricordi. Dopo due anni. || 기억하는구나. 2년이 지났는데.
+LOREDANA: Mi ricordo tutto. Anche che mi devi ancora una teglia. Del Natale del duemilaventitré. La lasagna. Me l'hai restituita sporca. || 다 기억하지. 언니가 나한테 아직 쟁반 하나 빚진 것도. 2023년 크리스마스. 라자냐. 더러운 채로 돌려줬잖아.
+PINA: Era pulita! Era la tua lavastoviglie che lasciava gli aloni! || 깨끗했어! 네 식기세척기가 얼룩을 남긴 거야!
+NADIA: ... Siete amiche da quanto? || … 두 분 친구 된 지 얼마나 되셨어요?
+LOREDANA: Dall'ottantaquattro. Quarantatré anni di teglie. || 84년부터. 쟁반 43년.
+PINA: E di aloni. || 그리고 얼룩 43년.
+
+# 장면 2 — LA CASA
+> 2층 피나의 집. 가구는 없다. 벽에 액자 자국. 창문 너머 테스타초 지붕들 || 2층 피나의 집. 가구는 없다. 벽에 액자 자국. 창문 너머 테스타초 지붕들
+PINA: Vuota. Hanno portato via tutto. I mobili li ha presi mia figlia. Sono a Frosinone. Nel garage di mia sorella. Ma i segni sono rimasti. Guarda. Qui c'era la foto del matrimonio. Qui la Madonna. Qui la televisione. Il muro è più bianco dove c'erano le cose. || 텅 비었네. 다 가져갔어. 가구는 우리 딸이 챙겼지. 프로시노네에 있어. 동생네 차고에. 근데 자국은 남았어. 봐. 여기 결혼사진. 여기 성모님. 여기 텔레비전. 물건 있던 자리가 벽이 더 하얘.
+NADIA: I mobili tornano sabato. Simone ha trovato un furgone. Cioè, Riccardo. Suo padre ha un amico all'ATAC che ha un cognato che ha un furgone. || 가구는 토요일에 와요. 시모네가 트럭을 구했어요. 아니, 리카르도가요. 아버지 ATAC 친구의 처남이 트럭이 있대요.
+PINA: Sabato? Ma Simone non è a Berlino? Mia figlia mi ha detto che oggi prende l'aereo. || 토요일? 근데 시모네는 베를린 가지 않았어? 우리 딸이 오늘 비행기 탄다던데.
+NADIA: È partito stamattina alle sette. Il furgone lo guida Riccardo. Simone ha organizzato tutto da Fiumicino. Con il telefono. Al gate. Come Giulia. || 오늘 아침 일곱 시에 떠났어요. 트럭은 리카르도가 몰고요. 시모네가 피우미치노에서 다 정했어요. 휴대폰으로. 게이트에서. 줄리아처럼.
+PINA: In questo palazzo tutti organizzano dagli aeroporti. Ai miei tempi si organizzava dal balcone. || 이 건물 사람들은 다들 공항에서 일을 처리하는구나. 내 젊을 땐 발코니에서 했는데.
+LOREDANA: E il furgone, alla fine, di chi è? Del cognato dell'amico di un autista dell'ATAC. Come sempre. || 그래서 트럭은 결국 누구 거야? ATAC 기사 친구의 처남 거. 늘 그렇지.
+PINA: A Roma tutto si trova con il cognato di un amico. Anche i miracoli. || 로마에선 다 친구의 처남으로 구하지. 기적까지.
+LOREDANA: Pina. Devi sapere una cosa. Questa casa adesso non è dell'ente. È della cooperativa. Cioè... è nostra. Cioè... non è di nessuno. Cioè... || 피나 언니. 알아야 할 게 있어. 이 집은 이제 기관 게 아니야. 협동조합 거야. 그러니까… 우리 거. 그러니까… 아무의 것도 아니고. 그러니까…
+PINA: Mia figlia me l'ha spiegato. Tre volte. Non ho capito. Spiegamelo tu. Tu spieghi bene. Hai spiegato a trent'anni di bambini. || 우리 딸이 설명해 줬어. 세 번. 못 알아들었어. 네가 설명해 봐. 넌 설명 잘하잖아. 30년 동안 애들한테 설명했으니까.
+LOREDANA: Trentacinque. Allora. La casa non è tua. Ma nessuno te la può togliere. Paghi duecentocinquanta euro al mese. Il Comune ti ha scelta perché eri in graduatoria. E noi ti abbiamo scelta perché sei Pina. Due scelte. Una casa. || 35년. 자. 집은 언니 게 아니야. 근데 아무도 뺏을 수 없어. 한 달에 250유로 내. 시청은 언니가 대기 명단에 있어서 골랐고. 우리는 언니가 피나라서 골랐지. 선택 두 개. 집 하나.
+PINA: Nessuno me la può togliere. Neanche se vado in ospedale? Neanche se sto via tre mesi? || 아무도 뺏을 수 없다. 내가 병원에 가도? 석 달 동안 집을 비워도?
+NADIA: Neanche. Lo statuto lo dice. Articolo sedici. «L'assenza per motivi di salute non comporta la perdita dell'alloggio». L'ha scritto Loredana. Per lei. A dicembre. || 그래도요. 정관에 있어요. 제16조. «건강상의 이유로 인한 부재는 주거 상실 사유가 되지 않는다». 로레다나 씨가 썼어요. 할머니를 위해서. 12월에.
+PINA: ... Loredana. Hai scritto un articolo per me? || … 로레다나. 나 때문에 조항을 썼어?
+LOREDANA: Ho scritto un articolo per chiunque. Ma pensavo a te. È il mestiere della maestra. Scrivere per tutti pensando a uno. || 누구를 위해서든 쓴 거야. 근데 언니 생각하면서 썼지. 그게 선생 일이야. 한 사람을 생각하면서 모두를 위해 쓰는 거.
+
+# 장면 3 — L'ORDINE DEL GIORNO
+> 4월 4일 토요일 저녁 6시. 바. 첫 정기 총회. 칠판에 안건 다섯 개. 조합원 열네 명, 피나 포함 열다섯. 시모네는 베를린에서 아직 안 왔다 || 4월 4일 토요일 저녁 6시. 바. 첫 정기 총회. 칠판에 안건 다섯 개. 조합원 열네 명, 피나 포함 열다섯. 시모네는 베를린에서 아직 안 왔다
+NADIA: Buonasera. Prima assemblea ordinaria della Cooperativa Il Cantone. Da proprietari. Ordine del giorno: uno, pulizia delle scale. Due, il bucato sul lastrico solare. Tre, le biciclette nell'androne. Quattro, gli orari di silenzio. Cinque, varie. || 안녕하세요. 협동조합 일 칸토네 첫 정기 총회. 소유자로서. 안건: 하나, 계단 청소. 둘, 옥상 빨래. 셋, 현관 자전거. 넷, 정숙 시간. 다섯, 기타.
+FRANCO: Sembra facile. Dopo un fondo immobiliare, le scale sono niente. || 쉬워 보이네. 부동산 펀드 다음에 계단쯤이야.
+LOREDANA: Franco, non hai mai fatto una riunione di condominio. Il fondo era più facile. Il fondo era uno. Qui siamo quindici. || 프랑코, 넌 공동 주택 회의를 한 번도 안 해 봤구나. 펀드가 더 쉬웠어. 펀드는 하나였잖아. 여긴 열다섯 명이야.
+ELISA: Punto uno. Le scale. Fino a marzo le pulizie le pagava l'ente. Un'impresa. Due volte a settimana. Centottanta euro al mese. Adesso le paghiamo noi. Oppure... || 1번. 계단. 3월까진 청소를 기관이 냈어요. 업체로. 일주일에 두 번. 한 달 180유로. 이젠 우리가 내요. 아니면…
+FRANCO: Oppure? || 아니면?
+ELISA: Oppure le facciamo noi. A turno. E risparmiamo duemilacentosessanta euro all'anno. Che servono per il tetto. || 아니면 우리가 직접 해요. 돌아가면서. 그럼 1년에 2160유로 아껴요. 그건 지붕에 쓸 수 있고요.
+LOREDANA: A turno. Io ho sessantasei anni. Pina ottantuno. Settimio ottantaquattro tra dieci giorni. Con il menisco. Chi pulisce quattro piani di scale? || 돌아가면서. 난 예순여섯. 피나 언니는 여든하나. 세티미오 씨는 열흘 뒤면 여든넷. 반월상 연골 다쳤고. 누가 4층 계단을 청소해?
+ELISA: I più giovani. Davide, Luca, Matteo, Marco, Samir... || 젊은 사람들이요. 다비데, 루카, 마테오, 마르코, 사미르…
+FRANCO: Samir ha tredici anni. Ha l'INVALSI tra due settimane. || 사미르는 열세 살이야. 2주 뒤에 INVALSI야.
+ELISA: E io ho la pancia. Ventotto settimane. Non mi chino. || 그리고 전 배가 이래요. 28주. 못 숙여요.
+NADIA: Allora i giovani sono quattro. Su quindici. Quattro persone puliscono le scale per quindici. È giusto? || 그럼 젊은 사람은 넷이네요. 열다섯 명 중에. 넷이 열다섯 명 몫의 계단을 청소한다. 그게 공평해요?
+LOREDANA: Non è giusto. Ma è realistico. In un condominio, «giusto» e «realistico» non vanno mai d'accordo. || 공평하진 않지. 근데 현실적이야. 공동 주택에선 «공평»이랑 «현실»은 절대 의견이 안 맞아.
+PINA: Posso parlare? Sono nuova. Cioè, sono vecchia. Ma sono nuova. || 말해도 될까? 난 새로 왔어. 아니, 늙었지만. 새로 왔지.
+NADIA: Prego, signora Pina. || 하세요, 피나 할머니.
+PINA: Nel settantaquattro, in questo palazzo, le scale le pulivamo noi. Le donne. Il sabato mattina. Tutte insieme. Con la radio accesa. Era il momento più bello della settimana. Si parlava. Si litigava. Si sapeva tutto di tutti. Poi l'ente ha messo l'impresa. E abbiamo smesso di parlarci. || 74년에 이 건물에선 계단을 우리가 청소했어. 여자들이. 토요일 아침에. 다 같이. 라디오 켜 놓고. 일주일 중 제일 좋은 시간이었지. 얘기하고. 싸우고. 서로 다 알고. 그러다 기관이 업체를 들였지. 그러고는 서로 말을 안 하게 됐어.
+LOREDANA: È vero. Me lo ricordo. Nell'ottantaquattro c'era ancora. Il sabato. La radio di Teresa. Lei cantava stonata. || 맞아. 기억나. 84년엔 아직 있었어. 토요일에. 테레사 라디오. 테레사는 음 이탈하면서 불렀지.
+PINA: Teresa. Sempre stonata. Sempre allegra. || 테레사. 늘 음 이탈. 늘 명랑하고.
+FRANCO: Quindi la proposta è: il sabato mattina, tutti insieme, con la radio? || 그러니까 제안은, 토요일 아침에 다 같이, 라디오 켜고?
+PINA: Tutti insieme. Ognuno quello che può. I giovani i piani alti. I vecchi l'androne. Io la ringhiera. Con lo straccio. Seduta. L'artrite non mi impedisce di stare seduta. || 다 같이. 각자 할 수 있는 만큼. 젊은 사람들은 위층. 늙은이들은 현관. 난 난간. 걸레로. 앉아서. 관절염이 앉아 있는 것까진 안 막아.
+
+# 장면 4 — CHI COMANDA?
+> 저녁 7시 반. 2번 안건. 분위기가 달아올랐다 || 저녁 7시 반. 2번 안건. 분위기가 달아올랐다
+ELISA: Punto due. Il bucato sul lastrico. Loredana ha sempre vietato di stendere. Ma adesso il lastrico è di tutti. E io tra tre mesi avrò un neonato. Sapete quanti panni lava un neonato? Settantadue body alla settimana. L'ho letto. || 2번. 옥상 빨래. 로레다나 씨가 늘 빨래 너는 걸 금지했죠. 근데 이젠 옥상이 모두의 거예요. 그리고 전 석 달 뒤면 신생아가 생겨요. 신생아 빨래가 얼마나 되는지 아세요? 일주일에 우주복 일흔두 벌. 읽었어요.
+LOREDANA: Il bucato sul lastrico rovina l'impermeabilizzazione. L'acqua gocciola. Le mollette cadono. E i piccioni... non vi dico i piccioni. || 옥상 빨래는 방수층을 망쳐. 물이 떨어지고. 빨래집게가 떨어지고. 그리고 비둘기들… 비둘기는 말도 마.
+ELISA: E dove stendo? In casa? Al primo piano non c'è sole. Mai. || 그럼 어디다 널어요? 집 안에? 1층엔 해가 안 들어요. 절대로.
+LOREDANA: Con l'asciugatrice. || 건조기 쓰면 되지.
+ELISA: L'asciugatrice consuma. Siamo in classe G. Ce l'ha detto la notaia. || 건조기는 전기 먹어요. 우린 G 등급이에요. 공증인님이 그러셨잖아요.
+FRANCO: Calma. Calma. Votiamo. || 진정. 진정. 투표하자.
+LOREDANA: Votiamo? Sul bucato? Franco, io sono stata responsabile del lastrico per quarantadue anni. Senza votazione. Nessuno me l'ha mai contestato. || 투표? 빨래로? 프랑코, 난 42년 동안 옥상 책임자였어. 투표 없이. 아무도 이의를 안 달았어.
+NADIA: Perché prima non era di nessuno. Era dell'ente. E l'ente non c'era mai. Allora comandavi tu. Adesso... || 그땐 아무의 것도 아니었으니까요. 기관 거였죠. 기관은 늘 없었고. 그래서 로레다나 씨가 대장이었죠. 이젠…
+LOREDANA: Adesso chi comanda? Chi comanda qui? Il presidente? La vicepresidente? La farmacista con il file? Una votazione? || 이젠 누가 대장인데? 여기 누가 대장이야? 이사장? 부이사장? 파일 든 약사? 투표?
+> 정적. 아무도 대답하지 않는다 || 정적. 아무도 대답하지 않는다
+PINA: Nessuno comanda, Loredana. || 아무도 대장 아니야, 로레다나.
+LOREDANA: Pina, tu non c'eri. Due anni. Non sai. || 언니는 없었잖아. 2년 동안. 몰라.
+PINA: Non c'ero due anni. Ma c'ero cinquantadue. E so una cosa: in questo palazzo non ha mai comandato nessuno. Neanche l'ente. Si chiedeva. Si chiedeva a Teresa se si poteva cantare. Si chiedeva a me se si poteva stendere sul mio balcone. Si chiedeva a te se si poteva stendere sul lastrico. E tu dicevi di no. Ma la domanda c'era. || 2년은 없었지. 근데 52년은 있었어. 그리고 하나 알아. 이 건물에선 아무도 대장인 적이 없었어. 기관도. 물어봤지. 테레사한테 노래해도 되냐고 물었고. 나한테 내 발코니에 빨래 널어도 되냐고 물었고. 너한테 옥상에 빨래 널어도 되냐고 물었어. 그리고 넌 안 된다고 했지. 근데 질문은 있었어.
+LOREDANA: E allora? || 그래서?
+PINA: E allora adesso la domanda la fa Elisa. Con un bambino in arrivo. Settantadue body. E tu cosa rispondi? Da maestra. Non da responsabile del lastrico. || 그래서 이젠 엘리사가 묻는 거야. 아기가 곧 태어나는. 우주복 일흔두 벌. 그럼 넌 뭐라고 대답할래? 선생으로서. 옥상 책임자 말고.
+LOREDANA: ... || …
+ELISA: Loredana, io non voglio comandare. Voglio solo un posto al sole. Per i body. Due fili. Sul lato del cortile. Dove non ci sono i piccioni. || 로레다나 씨, 저 대장 하고 싶은 거 아니에요. 그냥 햇볕 드는 자리가 필요해요. 우주복 널. 빨랫줄 두 개. 안뜰 쪽에. 비둘기 없는 데.
+LOREDANA: ... Due fili. Sul lato del cortile. Con le mollette di legno, non di plastica. La plastica si rompe e cade nel cortile. E non dopo le sette di sera. E il venerdì no, perché il venerdì Simone pulisce le grondaie. || … 빨랫줄 두 개. 안뜰 쪽에. 집게는 나무로, 플라스틱 말고. 플라스틱은 부러져서 안뜰로 떨어지니까. 그리고 저녁 일곱 시 이후엔 안 돼. 그리고 금요일은 안 돼, 금요일엔 시모네가 빗물받이 청소하니까.
+ELISA: Va bene. Va benissimo. Grazie. || 좋아요. 아주 좋아요. 고마워요.
+LOREDANA: Non ringraziarmi. Ringrazia il bambino. Io a un bambino non so dire di no. Neanche a uno che non è ancora nato. || 나한테 고마워하지 마. 아기한테 고마워해. 난 아기한텐 '안 돼'를 못 해. 아직 안 태어난 아기한테도.
+FRANCO: Allora non votiamo? || 그럼 투표 안 해?
+NADIA: Votiamo lo stesso. Così è scritto. Ma la decisione l'ha già presa Loredana. Come sempre. Solo che stavolta l'ha presa dopo una domanda. || 그래도 투표해요. 그래야 기록에 남으니까요. 근데 결정은 로레다나 씨가 이미 했어요. 늘 그랬듯이. 이번엔 질문을 받고 나서 했다는 것만 달라요.
+
+# 장면 5 — LE BICICLETTE E IL SILENZIO
+NADIA: Punto tre. Le biciclette nell'androne. Da quando Simone ha fatto la Settimana delle riparazioni, nell'androne ci sono undici biciclette di clienti. In attesa. Non si passa. || 3번. 현관 자전거. 시모네가 수리 주간 한 뒤로 현관에 손님 자전거가 열한 대 있어요. 대기 중인 거. 지나갈 수가 없어요.
+FRANCO: Simone non c'è. È a Berlino. Non si può difendere. || 시모네는 없잖아. 베를린에 있어. 변호할 수가 없어.
+ELISA: Simone ha mandato un messaggio. Lo leggo. «Le biciclette le sposto lunedì nel mio cortile. Scusate. Torno domenica sera. Giulia vi saluta. Ha detto: litigate pure, è normale». || 시모네가 문자 보냈어요. 읽을게요. «자전거는 월요일에 제 마당으로 옮길게요. 죄송해요. 일요일 저녁에 돌아가요. 줄리아가 안부 전해요. 마음껏 싸우래요, 정상이래요».
+LOREDANA: «Litigate pure, è normale». Da Berlino. Facile. || «마음껏 싸워라, 정상이다». 베를린에서. 쉽네.
+PINA: Chi è Giulia? || 줄리아가 누군데?
+FRANCO: Mia figlia. È a Berlino. Con Simone. Per il fine settimana. Per caso. || 우리 딸이요. 베를린에 있어요. 시모네랑. 주말 동안. 그냥.
+PINA: Per caso. Certo. Anche io ho conosciuto Aldo per caso. Al ballo del Primo Maggio. Nel cinquantasei. Il caso è sempre il primo passo. || 그냥. 그렇지. 나도 알도를 그냥 만났지. 노동절 무도회에서. 56년에. 우연은 늘 첫걸음이야.
+NADIA: Punto quattro. Gli orari di silenzio. Davide suona la batteria. Elettronica. Con le cuffie. Ma il pedale fa rumore. Toc toc toc. Ogni sera alle undici. Luca si lamenta. Luca dorme di giorno. Fa le notti. || 4번. 정숙 시간. 다비데가 드럼을 쳐요. 전자 드럼. 헤드폰 끼고. 근데 페달 소리가 나요. 톡톡톡. 매일 밤 열한 시에. 루카가 불평해요. 루카는 낮에 자거든요. 야간 근무라.
+FRANCO: Davide si trasferisce al quarto piano a maggio. Nel suo nuovo appartamento. Poi il problema è di Nadia. || 다비데는 5월에 4층으로 이사 와. 새 집으로. 그다음엔 나디아 문제지.
+NADIA: Sopra la mia testa? Il pedale? Ogni sera? || 내 머리 위에서? 페달이? 매일 밤?
+ELISA: Proposta del consiglio: niente pedale dopo le dieci. E un tappetino sotto la batteria. L'ha già comprato Matteo. Trentadue euro. Lo paga la cooperativa? || 이사회 제안: 열 시 이후 페달 금지. 그리고 드럼 밑에 매트. 마테오가 벌써 샀어요. 32유로. 협동조합이 낼까요?
+LOREDANA: No. Lo paga Davide. Il rumore è suo. || 아니. 다비데가 내. 소리 내는 건 다비데니까.
+PINA: Ai miei tempi... || 내 젊을 땐…
+FRANCO: Signora Pina, un quarto di mattone. È la regola. || 피나 할머니, 벽돌 4분의 1장이에요. 규칙이에요.
+PINA: Che regola? || 무슨 규칙?
+NADIA: Una regola di Settimio. Lo spieghiamo dopo. Continui. || 세티미오 영감님 규칙이요. 이따 설명할게요. 계속하세요.
+PINA: Ai miei tempi il problema del rumore lo risolvevamo con un dolce. Chi faceva rumore portava una crostata a chi lo sentiva. Così uno faceva rumore meno volentieri. E l'altro lo sopportava più volentieri. || 내 젊을 땐 소음 문제를 과자로 해결했어. 시끄럽게 한 사람이 그걸 듣는 사람한테 크로스타타를 갖다줬지. 그럼 한쪽은 덜 떠들고 싶어지고. 다른 쪽은 더 잘 참게 되고.
+LOREDANA: La crostata della pace. Me la ricordo. Pina, tu ne hai portate tante. || 화해 크로스타타. 기억나. 언니는 많이 갖다줬지.
+PINA: Avevo tre figli. Rumorosi. Ho fatto una crostata a settimana per vent'anni. || 애가 셋이었잖아. 시끄러운 애들. 20년 동안 일주일에 크로스타타 하나씩 구웠지.
+
+# 장면 6 — VARIE ED EVENTUALI
+> 밤 9시. 네 안건 모두 가결(빨래 14 대 1 — 반대 1은 로레다나 자신). 칠판에 '5. 기타' || 밤 9시. 네 안건 모두 가결(빨래 14 대 1 — 반대 1은 로레다나 자신). 칠판에 '5. 기타'
+NADIA: Punto cinque. Varie. Uno: il quattordici aprile Sor Settimio compie ottantaquattro anni. Lui ha detto: «Niente festa». Come ogni anno. || 5번. 기타. 하나: 4월 14일에 세티미오 영감님이 여든넷이 되세요. 영감님은 «잔치 하지 마»라고 하셨어요. 해마다 그러시듯.
+FRANCO: Allora facciamo una non-festa. Come ogni anno. Ma più grande. || 그럼 잔치 아닌 잔치 하자. 해마다 그렇듯. 근데 더 크게.
+LOREDANA: Una non-festa con quindici soci, un bar e un palazzo. È la non-festa più grande della storia di Testaccio. || 조합원 열다섯, 바 하나, 건물 하나로 하는 잔치 아닌 잔치. 테스타초 역사상 제일 큰 잔치 아닌 잔치네.
+PINA: Settimio fa ottantaquattro? Io lo ricordo a trent'anni. Al Mattatoio. Passava sotto il mio balcone con il grembiule sporco. E fischiava. Sempre la stessa canzone. «Arrivederci Roma». || 세티미오가 여든넷이야? 난 서른 살 때가 기억나는데. 마타토이오 다닐 때. 더러운 앞치마 입고 우리 발코니 밑을 지나갔지. 휘파람 불면서. 늘 같은 노래. 「안녕 로마」.
+ELISA: «Arrivederci Roma». Lo scrivo. Per la non-festa. Davide la suona. Con la batteria. Prima delle dieci. || 「안녕 로마」. 적을게요. 잔치 아닌 잔치용으로. 다비데가 칠 거예요. 드럼으로. 열 시 전에.
+NADIA: Due: Samir ha l'INVALSI la settimana del venti. Chiede silenzio nel palazzo. Dalle sette alle otto di sera. Per studiare. Dice che è una «richiesta formale». L'ha scritta su carta. Con il timbro della cooperativa. || 둘: 사미르가 20일 주에 INVALSI가 있어요. 건물에 정숙을 요청해요. 저녁 일곱 시부터 여덟 시까지. 공부하게. «공식 요청»이래요. 종이에 썼어요. 협동조합 도장 찍어서.
+FRANCO: Il timbro? Chi gli ha dato il timbro? || 도장? 누가 도장을 줬어?
+ELISA: Nessuno. L'ha trovato nel cassetto del bar. Dietro il bancone. Accanto alle chiavi. || 아무도요. 바 서랍에서 찾았대요. 카운터 뒤. 열쇠 옆에서.
+LOREDANA: Le chiavi dietro il bancone sono per tutti. Anche il timbro, allora. Approvato. Un'ora di silenzio per Samir. Lo scrivo a verbale. || 카운터 뒤 열쇠는 모두를 위한 거잖아. 그럼 도장도 그렇지. 가결. 사미르를 위한 정숙 한 시간. 회의록에 적을게.
+PINA: E tre? C'è un tre? || 셋은? 셋도 있어?
+NADIA: Tre: benvenuta, signora Pina. Questo non si vota. Si applaude. || 셋: 다시 오신 걸 환영해요, 피나 할머니. 이건 투표 안 해요. 박수 치는 거죠.
+> 박수. 피나가 지팡이를 들어 답한다. 세티미오식으로 || 박수. 피나가 지팡이를 들어 답한다. 세티미오식으로
+PINA: Grazie. Grazie a tutti. Due anni fa ero in un letto a Frosinone. E pensavo che questo palazzo era finito. Venduto. Che non avrei più visto la mia cassetta delle lettere. E invece... invece sono qui. In un'assemblea dove si litiga sul bucato. È la cosa più bella che mi sia successa da quando è morto Aldo. || 고마워요. 다들 고마워요. 2년 전 난 프로시노네 침대에 누워 있었어. 그리고 이 건물은 끝났다고 생각했지. 팔렸다고. 다시는 내 우편함을 못 볼 거라고. 근데… 근데 여기 있네. 빨래로 싸우는 총회에. 알도가 떠난 뒤로 나한테 일어난 일 중 제일 좋은 일이야.
+# 장면 7 — SUL PIANEROTTOLO
+> 밤 10시. 2층 계단참. 피나와 로레다나의 문이 마주 보고 있다. 둘 다 문 앞 의자에 앉아 있다 || 밤 10시. 2층 계단참. 피나와 로레다나의 문이 마주 보고 있다. 둘 다 문 앞 의자에 앉아 있다
+LOREDANA: Pina. Stasera mi hai umiliata. Davanti a tutti. || 피나 언니. 오늘 밤 나 망신 줬어. 다들 앞에서.
+PINA: Ti ho ricordato chi sei. È diverso. || 네가 누군지 기억하게 해 준 거야. 그건 달라.
+LOREDANA: Chi sono? || 내가 누군데?
+PINA: Sei quella che nell'ottantaquattro è arrivata con Gianni e una valigia di libri. E il primo sabato ha pulito le scale con noi. Senza che nessuno glielo chiedesse. Avevi ventiquattro anni. Cantavi con Teresa. Stonata anche tu. || 넌 84년에 잔니랑 책 가방 하나 들고 온 애야. 그리고 첫 토요일에 우리랑 계단을 청소했지. 아무도 시키지 않았는데. 스물네 살이었어. 테레사랑 같이 노래했지. 너도 음 이탈하면서.
+LOREDANA: ... Io non stonavo. || … 난 음 이탈 안 했어.
+PINA: Stonavi. Un po' meno di Teresa. Ma stonavi. Poi Gianni è morto. E tu sei diventata la responsabile del lastrico, delle regole, delle virgole. Perché le regole non muoiono. || 했어. 테레사보단 조금 덜. 그래도 했지. 그러다 잔니가 죽었고. 넌 옥상 책임자, 규칙 책임자, 쉼표 책임자가 됐지. 규칙은 죽지 않으니까.
+LOREDANA: ... || …
+PINA: Va bene, le regole. Servono. Ma stasera Elisa ti ha chiesto un posto al sole. E per un minuto tu hai pensato che ti toglieva qualcosa. Non ti toglieva niente. Ti chiedeva di essere di nuovo quella ragazza di ventiquattro anni. Quella che puliva le scale senza che nessuno glielo chiedesse. || 규칙 좋지. 필요해. 근데 오늘 밤 엘리사가 햇볕 드는 자리를 달라고 했을 때. 넌 1분 동안 그 애가 뭘 뺏어 간다고 생각했잖아. 아무것도 안 뺏어. 다시 그 스물네 살 여자애가 되어 달라는 거였지. 아무도 시키지 않았는데 계단을 청소하던 그 애.
+LOREDANA: Pina, sei tornata da quattro giorni e mi fai la predica. || 언니, 돌아온 지 나흘 만에 나한테 설교하는 거야.
+PINA: Ho ottantun anni. Non ho tempo di aspettare la settimana prossima. || 난 여든하나야. 다음 주까지 기다릴 시간이 없어.
+LOREDANA: ... Sabato mattina. Le scale. Tutti insieme. Porto la radio. Quella che mi ha regalato Settimio non la uso. Ha i bottoni troppo grandi. Porto quella di Gianni. || … 토요일 아침. 계단. 다 같이. 라디오 가져갈게. 세티미오 씨가 선물한 건 안 써. 버튼이 너무 커. 잔니 거 가져갈게.
+PINA: E canti? || 그럼 노래할 거야?
+LOREDANA: Non canto. Sono troppo vecchia. || 안 해. 너무 늙었어.
+PINA: Tu canti. Al Sanremo del bar hai cantato. L'ho visto. Centoventimila persone ti hanno vista. Undici volte io. || 할 거야. 바 산레모 때 불렀잖아. 봤어. 십이만 명이 봤지. 난 열한 번 봤고.
+LOREDANA: ... Una canzone. Una sola. E se stono, porti tu la crostata. || … 한 곡. 딱 한 곡. 내가 음 이탈하면 언니가 크로스타타 가져와.
+PINA: Affare fatto. Ho la ricetta. Quella del settantaquattro. Con la marmellata di visciole. || 거래 성사. 레시피 있어. 74년 거. 비숄라 잼 넣은 거.
+LOREDANA: Le visciole. Dove le trovi ad aprile? || 비숄라. 4월에 어디서 구해?
+PINA: Le ho portate da Frosinone. Due barattoli. In valigia. Insieme alle mutande e alle medicine. Le cose importanti. || 프로시노네에서 가져왔지. 두 병. 가방에. 속옷이랑 약이랑 같이. 중요한 것들.
+LOREDANA: Buonanotte, Pina. Bentornata. Davvero. || 잘 자, 언니. 다시 와서 반가워. 진심이야.
+
+@points
+- 회의 갈등 화법: «Chi comanda qui?», «Votiamo? Sul bucato?», «Non è giusto. Ma è realistico», «Io non voglio comandare. Voglio solo...». 의문문 연속으로 감정 고조, 침묵 뒤 차분한 대답.
+- 양보의 조건 나열: «Due fili. Sul lato del cortile. Con le mollette di legno... E non dopo le sette... E il venerdì no...» — 양보는 하되 조건으로 체면 지키기.
+- 비인칭 'si'의 회고: «Si chiedeva. Si chiedeva a Teresa...», «Si parlava. Si litigava. Si sapeva tutto di tutti.» — 공동체 습관의 반과거.
+- 재회 인사: «Bentornata», «Sei invecchiata!» — «E tu sei ringiovanita», «Ti ricordi. Dopo due anni.»
+- 노년의 어조: 짧고 단정한 문장, «Ho ottantun anni. Non ho tempo di aspettare la settimana prossima.»
+- 이중자음: «cassetta»[ss][tt], «teglia»[ʎʎ], «lavastoviglie»[ʎʎ], «mollette»[ll][tt], «ringhiera»(홑), «crostata»(홑), «visciole»[ʃ].
+
+@notes
+- 'assemblea ordinaria' 정기 총회. 'condominio' 공동 주택(관리 단위) — 'riunione di condominio'는 이탈리아 일상 갈등의 상징.
+- 'impermeabilizzazione' 방수층. 'mollette' 빨래집게. 'body' 아기 우주복(바디슈트). 'asciugatrice' 건조기.
+- 'ringhiera' 계단 난간. 'straccio' 걸레. 'pianerottolo' 계단참.
+- 'crostata di visciole' 로마식 산앵두(비숄라) 잼 타르트 — 로마 유대 공동체에서 유래한 전통 과자로도 알려졌다.
+- 'ballo del Primo Maggio' 노동절 무도회 — 전후 로마 서민 동네의 축제.
+
+@next
+5부 76화 — «I pannelli sul tetto»(지붕 위의 패널) — 4월 8일. 엘리사의 파일, 카스텔라니의 보고서, 그리고 지붕. 태양광 패널과 재생에너지 공동체(CER). 하지만 테스타초는 역사 지구다. 문화재 감독청의 벽.
