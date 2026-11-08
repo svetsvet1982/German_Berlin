@@ -1,0 +1,267 @@
+PART: 3
+EP: 5
+TITLE: Visselblåsaren
+SUBTITLE: 내부고발자 · 추적 5, 카페 Biggans
+META: 대사 120턴 · 난이도 B2 · 배경: 3월 첫째 주 화요일 아침부터 목요일까지, 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: HAMMARSKJÖLD | 부활한 유엔 사무총장 (1905–1961)
+CAST: CHYDENIUS | 부활한 목사·정치가 (1729–1803)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+NOTE: ※ ‘휘슬을 부는 사람’이라는 뜻의 visselblåsare는 내부고발자를 말합니다. 스웨덴은 2021년 EU 지침에 따라 내부고발자 보호법(visselblåsarlagen)을 만들었습니다. 공익에 관련된 비리를 신고하면, 정해진 조건 아래에서 비밀 유지 의무를 어긴 책임을 면하고(ansvarsfrihet), 보복(repressalier)으로부터 보호받을 수 있습니다. 금융 분야의 외부 신고 창구는 금융감독청(Finansinspektionen)입니다. 하지만 어디에, 어떤 순서로, 무엇을 신고하느냐에 따라 보호 여부가 달라집니다. 그래서 Johan은 ‘신문에 먼저’가 아니라 ‘감독 기관에 먼저’를 고집합니다. 이 극의 법률 설명은 단순화한 것이며 실제 사안은 전문가 검토가 필요합니다. 문법 초점: 조건문과 수동태의 결합(om uppgifterna lämnas till…, skyddas den som…). 표현 초점: repressalier, skydd, rapportera, tystnadsplikt, missförhållande.
+
+# 도입 — TIO DAGAR
+INGRID: Här är brevet. Från Advokatfirman Lindell, för Saltsjöbanken.
+= 여기 편지예요. 살트셰은행을 대리하는 린델 법률사무소에서.
+JOHAN: Får jag läsa högt?
+= 소리 내서 읽어도 될까요?
+INGRID: Läs. Jag har läst det tjugo gånger. Det blir inte bättre.
+= 읽어요. 스무 번 읽었어요. 나아지지 않아요.
+JOHAN: ”Vår klient har fått kännedom om att ni innehar handlingar som tillhör banken och som omfattas av sekretess. Ni uppmanas att återlämna samtliga handlingar inom tio dagar.”
+= ‘저희 의뢰인은 귀하가 은행 소유이며 비밀 유지 대상인 문서를 보유하고 있다는 사실을 알게 되었습니다. 귀하는 10일 이내에 모든 문서를 반환할 것을 요구받습니다.’
+ELSA: ”Uppmanas.” Passiv form igen. Vem uppmanar?
+= ‘요구받습니다.’ 또 수동형이에요. 누가 요구하는데요?
+ANTON: Banken. Men den gömmer sig bakom verbet.
+= 은행이지. 근데 동사 뒤에 숨어 있어.
+JOHAN: ”I annat fall kommer vår klient att överväga en polisanmälan avseende brott mot tystnadsplikt samt obehörig befattning med företagshemligheter.”
+= ‘그렇지 않을 경우, 저희 의뢰인은 비밀 유지 의무 위반 및 영업 비밀 무단 취급에 관한 경찰 고소를 검토할 것입니다.’
+ELSA: Ursäkta… jag förstod ”polisanmälan”. Resten var som latin.
+= 실례지만… ‘경찰 고소’는 알아들었어요. 나머지는 라틴어 같았어요.
+CHYDENIUS: Det är latin. Bara med svenska ord.
+= 라틴어 맞다. 스웨덴어 단어로 썼을 뿐이지.
+JOHAN: Enkelt: ”Ge tillbaka papperen inom tio dagar. Annars anmäler vi dig till polisen för att du har avslöjat hemligheter.”
+= 쉽게: ‘10일 안에 서류를 돌려줘. 안 그러면 비밀을 폭로했다고 경찰에 고소하겠다.’
+INGRID: Tio dagar. Jag har haft papperen i sju år. Och nu har de bråttom.
+= 10일. 7년 동안 갖고 있었는데. 이제 와서 급하대요.
+WICKSELL: De har bråttom för att någon räknar. Räkna dagarna, Ingrid. Men räkna också deras.
+= 누군가 계산하고 있으니 급한 거지. 날짜를 세게, 잉리드. 하지만 그쪽 날짜도 세게.
+MAJA: Hur vet de att du har papperen?
+= 당신이 서류를 갖고 있다는 걸 그쪽이 어떻게 알아요?
+INGRID: Det är frågan. Ingen visste. Bara ni.
+= 그게 문제예요. 아무도 몰랐어요. 여러분만.
+ANTON: Henrik. Förhandlingen. Maja sa ”vi har läst årsredovisningarna”. De förstod att vi har mer än årsredovisningar.
+= 헨리크. 협상. 마야가 ‘연간 보고서를 읽었다’고 했잖아. 우리가 연간 보고서 이상을 갖고 있다는 걸 알아챈 거야.
+MAJA: Det var mitt fel.
+= 내 잘못이야.
+INGRID: Nej, Maja. Du har burit det ordet länge nog.
+= 아니에요, 마야. 그 말은 충분히 오래 짊어졌잖아요.
+JOHAN: Nej. Det var oundvikligt. Förr eller senare skulle de veta.
+= 아니. 피할 수 없었어. 언젠가는 알게 됐을 거야.
+BIGGAN: Ingrid, har du ätit frukost?
+= 잉리드, 아침 먹었어?
+INGRID: Jag har inte ätit sedan i söndags.
+= 일요일부터 아무것도 안 먹었어요.
+BIGGAN: Då äter du nu. Gröt. Med lingon. Ingen diskussion.
+= 그럼 지금 먹어. 죽. 링곤베리 넣어서. 토론 없어.
+DANIEL: Biggan har rätt. Man kan inte slåss mot en bank på tom mage.
+= 비간 말이 맞아요. 빈속으로 은행이랑 싸울 순 없어요.
+INGRID: Okej. Gröt. Med lingon.
+= 알겠어요. 죽. 링곤베리 넣어서.
+
+# 장면 1 — VISSELBLÅSARLAGEN
+JOHAN: Okej. Ett steg i taget. Det finns en lag sedan 2021. Visselblåsarlagen.
+= 좋아. 한 걸음씩. 2021년부터 법이 하나 있어. 내부고발자 보호법.
+ELSA: Visselblåsare. Någon som blåser i en visselpipa?
+= 내부고발자. 호루라기를 부는 사람이요?
+JOHAN: Som en domare på en fotbollsplan. Någon som säger: stopp, det här är fel.
+= 축구장의 심판처럼. ‘멈춰, 이건 잘못됐어’라고 말하는 사람.
+HAMMARSKJÖLD: I FN hade vi inget sådant skydd. De som blåste i visselpipan fick oftast gå.
+= 유엔엔 그런 보호가 없었어요. 호루라기를 분 사람들은 대개 떠나야 했죠.
+INGRID: Som jag.
+= 저처럼요.
+HAMMARSKJÖLD: Som många. Det var därför jag gick på fjället. Där var det ingen som sparkade en.
+= 많은 사람들처럼요. 그래서 제가 산을 걸었죠. 거기선 아무도 사람을 쫓아내지 않았으니까.
+JOHAN: Lagen skyddar den som rapporterar missförhållanden av allmänintresse. Penningtvätt är ett sådant missförhållande.
+= 그 법은 공익과 관련된 비리를 신고하는 사람을 보호해. 돈세탁은 그런 비리야.
+ELSA: Allmänintresse. Något som är viktigt för alla? Inte bara för en person?
+= 공익. 모두에게 중요한 거요? 한 사람한테만이 아니라?
+JOHAN: Precis. Och om man rapporterar på rätt sätt, kan man inte straffas för att ha brutit mot tystnadsplikten. Det kallas ansvarsfrihet.
+= 바로 그거야. 그리고 올바른 방식으로 신고하면, 비밀 유지 의무를 어긴 것으로 처벌받지 않아. 그걸 면책이라고 해.
+MAJA: ”På rätt sätt.” Det är där problemet finns, eller hur?
+= ‘올바른 방식으로.’ 문제가 거기 있는 거지?
+JOHAN: Ja. Lagen säger att man först kan rapportera internt, inom företaget. Eller externt, till en myndighet. Och bara i vissa fall direkt till media.
+= 응. 법은 먼저 회사 안에 내부적으로 신고하거나, 관청에 외부적으로 신고할 수 있다고 해. 그리고 어떤 경우에만 언론에 바로 할 수 있고.
+CHYDENIUS: Inte till tidningen först? Det gör mig ledsen. Jag skrev tryckfrihetens lag.
+= 신문에 먼저가 아니라고? 그건 슬프군. 내가 출판 자유법을 썼는데.
+JOHAN: Tryckfriheten finns kvar, herr Chydenius. Men för en bankanställd gäller andra regler än för en tjänsteman. Den säkraste vägen är myndigheten först.
+= 출판의 자유는 여전히 있어요, 퀴데니우스 님. 하지만 은행 직원한텐 공무원과 다른 규칙이 적용돼요. 가장 안전한 길은 관청이 먼저예요.
+ELSA: Vilken myndighet?
+= 어떤 관청이요?
+MAJA: Finansinspektionen. De som övervakar banker.
+= 금융감독청. 은행을 감독하는 곳.
+ELSA: Finansinspektionen. FI. Jag skriver upp det.
+= 금융감독청. FI. 적어 둘게요.
+INGRID: Jag rapporterade internt. Tre gånger. 2017, 2018 och 2019. Och jag fick sparken.
+= 난 내부적으로 신고했어요. 세 번. 2017년, 2018년, 2019년. 그리고 해고됐죠.
+JOHAN: Det var innan lagen kom. Det gör det svårare för det som hände då. Men om du rapporterar nu, till Finansinspektionen, gäller lagen för den rapporten.
+= 그건 법이 생기기 전이에요. 그래서 그때 일은 더 어려워요. 하지만 지금 금융감독청에 신고하면, 그 신고에는 법이 적용돼요.
+INGRID: Och papperen? Mina kopior?
+= 그리고 서류는요? 내 사본들은?
+JOHAN: Lagen skyddar också den som har skaffat informationen, om man inte begick ett brott när man skaffade den. Du kopierade dina egna rapporter. Det tror jag håller.
+= 법은 정보를 얻은 사람도 보호해. 그걸 얻을 때 범죄를 저지르지 않았다면. 당신은 자기 보고서를 복사했어요. 그건 괜찮을 거라고 봐요.
+INGRID: ”Tror”.
+= ‘볼 거라고’.
+JOHAN: Jag är advokat. Vi säger aldrig ”vet”. Men jag tror det starkt.
+= 전 변호사예요. 우린 절대 ‘안다’고 안 해요. 하지만 강하게 그렇게 봐요.
+WICKSELL: En jurist som säger ”tror starkt” är som en ekonom som säger ”troligen”. Det är det närmaste sanningen man kommer.
+= ‘강하게 본다’고 말하는 법률가는 ‘아마도’라고 말하는 경제학자 같지. 진실에 가장 가까이 가는 말이야.
+ELSA: Och om vi ger tillbaka papperen till banken?
+= 그리고 은행에 서류를 돌려주면요?
+INGRID: Då försvinner de. Igen. Som mina tre rapporter.
+= 그럼 사라져요. 또. 내 보고서 세 개처럼.
+WICKSELL: Det som lämnas tillbaka till makten försvinner alltid. Det är en lag, fast den inte står i någon bok.
+= 권력에게 돌려준 건 언제나 사라지지. 그건 법이네, 어느 책에도 적혀 있진 않지만.
+JOHAN: Vi ger inte tillbaka något. Vi svarar banken att handlingarna kommer att lämnas till Finansinspektionen. Och att vi åberopar visselblåsarlagen.
+= 아무것도 안 돌려줘요. 은행에 서류가 금융감독청에 제출될 거라고 답하고. 내부고발자 보호법을 근거로 든다고 해요.
+ELSA: Åberopar. Betyder det att man använder lagen som skydd?
+= 근거로 든다. 법을 보호막으로 쓴다는 뜻이에요?
+JOHAN: Att man pekar på den och säger: den här gäller mig.
+= 법을 가리키면서 ‘이게 나한테 적용된다’고 말하는 거야.
+INGRID: ”Den här gäller mig.” Det har jag aldrig kunnat säga om en lag förut.
+= ‘이게 나한테 적용된다.’ 법에 대해 그렇게 말할 수 있었던 건 처음이에요.
+
+# 장면 2 — INGRIDS SJU ÅR
+HAMMARSKJÖLD: Ingrid. Får jag fråga? Hur har de sju åren varit?
+= 잉리드. 물어봐도 될까요? 그 7년은 어땠어요?
+INGRID: Det är ingen fredag i dag.
+= 오늘은 금요일이 아니잖아요.
+BIGGAN: I mitt hus bestämmer jag vilken dag det är. Det är fredag nu.
+= 내 집에선 무슨 요일인지 내가 정해. 지금은 금요일이야.
+INGRID: Okej. Kort, då. När jag fick sparken 2019 var jag femtioett. Ingen bank ville anställa mig. Ordet gick runt. ”Illojal.”
+= 알겠어요. 짧게요. 2019년에 해고됐을 때 난 쉰한 살이었어요. 어떤 은행도 날 고용하려 하지 않았어요. 소문이 돌았거든요. ‘불충한 사람.’
+ELSA: Illojal. Det betyder att man sviker?
+= 불충. 배신한다는 뜻이죠?
+INGRID: Det betyder att man inte är tyst när man borde vara det. Enligt dem.
+= 입 다물어야 할 때 안 다문다는 뜻이에요. 그쪽 생각엔.
+MAJA: Och sedan?
+= 그다음엔요?
+INGRID: Min man tyckte att jag skulle ge upp. ”Låt det vara, Ingrid. Det är inte ditt ansvar.” Vi skilde oss 2021.
+= 남편은 내가 포기해야 한다고 생각했어요. ‘그냥 둬, 잉리드. 당신 책임이 아니야.’ 우린 2021년에 이혼했어요.
+DANIEL: Jag är ledsen.
+= 안타깝네요.
+INGRID: Jag sålde bostadsrätten på Kungsholmen. Jag bor i en tvåa i Hägersten nu. Och jag jobbar på Systembolaget i Liljeholmen. Kassan. Tre dagar i veckan.
+= 쿵스홀멘 아파트를 팔았어요. 지금은 헤게르스텐 방 두 개짜리에 살아요. 그리고 릴리에홀멘 시스템볼라겟에서 일해요. 계산대. 일주일에 사흘.
+ANTON: Systembolaget? Du var chef för compliance på en storbank.
+= 시스템볼라겟? 대형 은행 컴플라이언스 책임자였잖아.
+INGRID: Och nu kontrollerar jag att folk är över tjugo år. Det är också compliance. Och ingen sparkar mig för att jag frågar efter legitimation.
+= 그리고 지금은 손님이 스무 살이 넘었는지 확인하죠. 그것도 컴플라이언스예요. 그리고 신분증을 달라고 해서 날 해고하는 사람은 없어요.
+WICKSELL: Ett statligt monopol som belönar ärlighet. Det hade jag inte trott.
+= 정직을 보상하는 국가 독점 기업이라. 생각도 못 했네.
+BIGGAN: Systembolaget är det enda stället i Sverige där alla köar lika länge.
+= 시스템볼라겟은 스웨덴에서 모두가 똑같이 오래 줄 서는 유일한 곳이지.
+CHYDENIUS: Och kartongen? Varför sparade du den?
+= 그럼 그 상자는? 왜 보관했소?
+INGRID: För att jag tänkte att en dag kommer någon att fråga. Och då vill jag inte säga: ”Jag har slängt allt.”
+= 언젠가 누군가 물어볼 거라고 생각했으니까요. 그때 ‘다 버렸어요’라고 말하고 싶지 않았어요.
+ELSA: Och nu har någon frågat.
+= 그리고 이제 누군가 물었네요.
+INGRID: Nu har någon frågat. Ni. En praktikant från Kiruna. Och en revisor som jag ringde för åtta år sedan.
+= 이제 누군가 물었죠. 여러분이요. 키루나에서 온 인턴. 그리고 8년 전에 내가 전화했던 회계사.
+MAJA: Jag borde ha frågat då.
+= 그때 내가 물었어야 했어요.
+INGRID: Du frågar nu. Det räcker.
+= 지금 묻잖아요. 그걸로 충분해요.
+ANTON: Det är en bra mening. Får jag låna den?
+= 좋은 문장이네요. 빌려 가도 돼요?
+INGRID: Gratis. Utan slides.
+= 공짜예요. 슬라이드 없이.
+HAMMARSKJÖLD: Och hur känns det för dig, Ingrid? Att få det brevet efter sju år?
+= 그래서 어떻게 느껴져요, 잉리드? 7년 만에 그 편지를 받은 게?
+INGRID: Som en bekräftelse. Om de inte var rädda, hade de inte skrivit.
+= 확인받은 것 같아요. 겁나지 않았다면 편지를 쓰지 않았을 테니까요.
+
+# 절정 — REPRESSALIER
+INGRID: Vänta. Telefonen. Det är min chef på Systembolaget.
+= 잠깐요. 전화. 시스템볼라겟 상사예요.
+JOHAN: Svara. Sätt på högtalaren om du vill.
+= 받아요. 원하면 스피커로 해요.
+INGRID: Hej, Lena… Ja… Ett brev? Anonymt? Om mig?
+= 여보세요, 레나… 네… 편지요? 익명으로? 저에 대해서요?
+ELSA: Vad säger hon?
+= 뭐래요?
+INGRID: Någon har skickat ett anonymt brev till butiken. Att jag ”har stulit hemliga handlingar från en tidigare arbetsgivare”. Att jag ”inte är lämplig att hantera kontanter”.
+= 누가 매장에 익명 편지를 보냈대요. 내가 ‘전 직장에서 비밀 문서를 훔쳤다’고. ‘현금을 다루기에 적합하지 않다’고.
+BIGGAN: Fega svin.
+= 비겁한 놈들.
+DANIEL: Biggan!
+= 비간!
+BIGGAN: Det är sant. Jag säger det i aktiv form.
+= 사실이잖아. 능동형으로 말하는 거야.
+ANTON: Det var mycket aktivt.
+= 아주 능동적이었네.
+INGRID: Lena frågar om det är sant. Om hon måste ta mig från kassan.
+= 레나가 사실이냐고 물어요. 나를 계산대에서 빼야 하냐고.
+JOHAN: Får jag prata med henne?
+= 제가 그분이랑 얘기해도 될까요?
+INGRID: Lena, min advokat vill prata med dig.
+= 레나, 제 변호사가 얘기하고 싶대요.
+JOHAN: Hej, Lena. Johan Ek, advokat. Ingrid har inte stulit något. Hon är på väg att rapportera allvarliga missförhållanden till Finansinspektionen. Det brevet är troligen ett försök att skrämma henne.
+= 안녕하세요, 레나. 요한 엑 변호사입니다. 잉리드는 아무것도 훔치지 않았어요. 금융감독청에 심각한 비리를 신고하려는 중이에요. 그 편지는 아마 겁을 주려는 시도일 거예요.
+ELSA: Ursäkta, vad heter det när någon försöker skada en visselblåsare?
+= 실례지만, 누가 내부고발자를 해치려고 하는 걸 뭐라고 해요?
+MAJA: Repressalier. Hämnd. Lagen förbjuder det.
+= 보복. 앙갚음. 법이 금지해.
+JOHAN: Och visselblåsarlagen förbjuder också att någon försöker hindra en rapport. Jag ber dig spara brevet. Lämna det inte till någon. Det kan bli ett bevis.
+= 그리고 내부고발자 보호법은 누군가 신고를 방해하려는 것도 금지해요. 그 편지를 보관해 주세요. 아무한테도 주지 마시고요. 증거가 될 수 있어요.
+INGRID: Hon säger… att hon har jobbat med mig i fyra år. Att jag är den mest noggranna i butiken. Och att jag får stå i kassan i morgon som vanligt.
+= 레나가 그래요… 나랑 4년 동안 일했다고. 내가 매장에서 제일 꼼꼼한 사람이라고. 그리고 내일 평소처럼 계산대에 서도 된다고.
+CHYDENIUS: En chef som läser ett anonymt brev och väljer att lita på en människa. Det är sällsynt.
+= 익명 편지를 읽고도 한 사람을 믿기로 하는 상사라. 드문 일이지.
+WICKSELL: Och anonyma brev är billiga. Därför skickar de rädda dem.
+= 그리고 익명 편지는 싸지. 그래서 겁쟁이들이 보내는 거고.
+INGRID: Men om de vet var jag jobbar… vet de var jag bor.
+= 근데 내가 어디서 일하는지 안다면… 어디 사는지도 알겠죠.
+DANIEL: Du sover här i natt. Som Noel. Biggan har en soffa.
+= 오늘 밤엔 여기서 자요. 노엘처럼. 비간한테 소파가 있어요.
+BIGGAN: Jag har två soffor. Och en kansler som vaktar.
+= 소파가 두 개야. 그리고 보초 서는 재상도 있고.
+ANTON: Och vi skickar rapporten till Finansinspektionen i morgon. Inte om tio dagar. I morgon.
+= 그리고 신고서는 내일 금융감독청에 보내자. 10일 뒤가 아니라. 내일.
+JOHAN: Ju snabbare rapporten är inne, desto starkare är skyddet.
+= 신고서가 빨리 들어갈수록 보호가 강해져.
+
+# 마무리 — RAPPORTEN
+ELSA: Torsdag morgon. Rapporten är klar. Fyrtiotre sidor. Plus bilagor.
+= 목요일 아침. 신고서 완성. 43장. 첨부 서류 별도.
+INGRID: Jag har skrivit rapporter i trettio år. Det här är den första som jag vet att någon ska läsa.
+= 30년 동안 보고서를 썼어요. 누군가 읽을 거라는 걸 아는 건 이게 처음이에요.
+JOHAN: Finansinspektionen har en särskild kanal för visselblåsare. Vi skickar den där. Och vi sparar kvittot.
+= 금융감독청엔 내부고발자 전용 창구가 있어. 거기로 보내자. 그리고 영수증 보관하고.
+ELSA: Ett bra kvitto. Inte ett nyckelkvitto.
+= 좋은 영수증. 열쇠 영수증 말고.
+BIGGAN: Den meningen ska upp på min dörr. Bredvid Leifs.
+= 그 문장은 내 문에 붙여야겠어. 레이프 거 옆에.
+MAJA: Får jag se rapporten innan du skickar?
+= 보내기 전에 신고서 좀 봐도 될까요?
+INGRID: Du får se den. Och det finns en tom rad längst ner. För en andra underskrift. Om du vill.
+= 봐도 돼요. 그리고 맨 아래에 빈 줄이 하나 있어요. 두 번째 서명을 위한. 원한다면.
+MAJA: …Inte än. Jag behöver… jag måste göra det på mitt sätt. Med min egen rapport. Till min egen myndighet.
+= …아직은요. 난… 내 방식으로 해야 해요. 내 신고서로. 내 담당 관청에.
+INGRID: Revisorsinspektionen.
+= 회계사 감독청.
+MAJA: Ja. Jag har skrivit utkastet fyrtio gånger. Jag behöver skriva det en gång till. På riktigt.
+= 네. 초안을 마흔 번 썼어요. 한 번만 더 써야 해요. 진짜로.
+INGRID: Då väntar raden på dig.
+= 그럼 그 줄이 당신을 기다릴게요.
+MAJA: Tack.
+= 고마워요.
+CHYDENIUS: En rapport till en myndighet. Med ett kvitto. Det är så friheten ser ut i ett ordnat land. Mindre romantiskt än en tidning. Men säkrare.
+= 관청에 낸 신고서. 영수증과 함께. 질서 있는 나라에서 자유는 그렇게 생겼지. 신문보다 덜 낭만적이지만. 더 안전하지.
+ANTON: Skickat. Klockan nio och fyra minuter.
+= 보냈어. 아홉 시 사 분.
+DANIEL: Och Ingrid har sovit i natt. Det är också ett resultat.
+= 그리고 잉리드는 어젯밤에 잤어. 그것도 성과야.
+ELSA: Och svaret till banken?
+= 그리고 은행에 보낼 답은요?
+JOHAN: En mening. ”Handlingarna har lämnats till Finansinspektionen med stöd av lagen om skydd för personer som rapporterar om missförhållanden.”
+= 한 문장. ‘해당 문서들은 비리를 신고하는 사람의 보호에 관한 법률에 따라 금융감독청에 제출되었습니다.’
+ELSA: ”Har lämnats.” Passiv form!
+= ‘제출되었습니다.’ 수동형이에요!
+JOHAN: Ibland är passiv form bra. Den här gången vill jag att de undrar vem.
+= 가끔은 수동형도 좋아. 이번엔 그쪽이 ‘누가?’ 하고 궁금해했으면 좋겠어.
+NEXT: 3부 6화 — «Klarspråk»(쉬운 말) — Elsa가 Kronofogden, 은행, 집주인, 사회보험청의 편지들을 쉬운 말로 옮긴 소책자를 만들어 Vårberg에 돌린다. 수동태를 능동태로 바꾸는 것 자체가 힘이 된다.
