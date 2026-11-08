@@ -1,0 +1,270 @@
+PART: 4
+EP: 11
+TITLE: Slutpläderingen
+SUBTITLE: 최후 변론 · 재판 11, 지방법원과 카페 Biggans
+META: 대사 120턴 · 난이도 B2 · 배경: 8월 넷째 주 목요일, 공판 마지막 날의 지방법원과 그날 밤의 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (방청)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: HAMMARSKJÖLD | 부활한 유엔 사무총장 (1905–1961)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: FARID | 건설 노동자 · 23세 (가상)
+CAST: LOVISA | 경제범죄청 검사 (가상)
+CAST: CLAES | Rehnberg의 변호인 (가상)
+CAST: ANNIKA | 지방법원 판사 · 재판장 (가상)
+NOTE: ※ 공판의 마지막에는 검사와 변호인이 각자 사건 전체를 정리하는 최후 변론(slutplädering)을 합니다. 스웨덴 형사 재판에서 유죄 판결을 내리려면 범죄가 ‘합리적 의심의 여지 없이(utom rimligt tvivel)’ 증명되어야 합니다. 판결은 보통 공판이 끝나고 몇 주 뒤에 서면으로 선고됩니다. 공판이 끝난 그날 밤, Maja에게 회계사 감독청의 결정이 도착합니다. 그리고 카페의 식탁에서 각자 이 사건이 자신에게 무엇이었는지 이야기합니다. 문법 초점: 요약과 결론의 표현(sammanfattningsvis, därmed, mot denna bakgrund, med andra ord). 표현 초점: plädering, bevisning, rimligt tvivel, övertyga, vänta.
+
+# 도입 — SISTA DAGEN
+ELSA: Sista dagen. Tolv veckor. Jag har fyllt sju anteckningsblock.
+= 마지막 날. 12주. 수첩을 일곱 권 채웠어요.
+ANTON: Sju. Som Majas tallrikar.
+= 일곱. 마야 접시처럼.
+MAJA: Jag har köpt en åttonde tallrik. I juli. För gäster.
+= 나 여덟 번째 접시 샀어. 7월에. 손님용으로.
+DANIEL: Maja har gäster nu?
+= 마야한테 이제 손님이 와?
+MAJA: En. Ibland.
+= 한 명. 가끔.
+ANTON: …
+= ……
+ELSA: Anton, du blev röd.
+= 안톤, 얼굴 빨개졌어요.
+ANTON: Det är värmen. Det är fortfarande augusti.
+= 더워서 그래. 아직 8월이잖아.
+BIGGAN: Det är tjugo grader. Det är inte värmen.
+= 20도야. 더워서 그런 거 아니야.
+MAJA: Kan vi prata om pläderingar i stället?
+= 대신 최후 변론 얘기하면 안 될까?
+INGRID: Lovisa börjar klockan nio. Sedan försvararna. Fem stycken. Det kommer att ta hela dagen.
+= 로비사가 아홉 시에 시작해요. 그다음 변호인들. 다섯 명. 하루 종일 걸릴 거예요.
+BIGGAN: Då har jag tagit med lunch. För tio.
+= 그럼 점심 싸 왔어. 열 명분.
+JOHAN: Och domen meddelas om två veckor. Den tredje september. Skriftligt.
+= 그리고 판결은 2주 뒤에 선고돼. 9월 3일. 서면으로.
+ELSA: Skriftligt. Allt viktigt i Sverige är skriftligt.
+= 서면으로. 스웨덴에서 중요한 건 다 서면이네요.
+FARID: Utom kärlek. Det säger min arbetsledare.
+= 사랑만 빼고요. 우리 현장 반장이 그래요.
+WICKSELL: Även kärlek, ibland. Jag gifte mig skriftligt. Utan präst. Det var en skandal 1889.
+= 사랑도 가끔은. 난 서면으로 결혼했네. 목사 없이. 1889년엔 스캔들이었지.
+ELSA: Utan präst? Var det tillåtet?
+= 목사 없이요? 그게 허용됐어요?
+WICKSELL: Nej. Vi skrev ett kontrakt. Anna och jag. Det var vårt sätt att säga att vi var jämlikar.
+= 아니. 우린 계약서를 썼지. 안나랑 나. 우리가 동등하다고 말하는 방식이었네.
+HAMMARSKJÖLD: Ett äktenskap som ett avtal mellan jämlikar. Det låter mycket svenskt. Och mycket modernt.
+= 동등한 사람들 사이의 계약으로서의 결혼이라. 아주 스웨덴답고. 아주 현대적이네요.
+BIGGAN: Leif och jag gifte oss i Katarina kyrka. Med präst. Och han svor när han tappade ringen.
+= 레이프랑 나는 카타리나 교회에서 결혼했어. 목사랑 같이. 그리고 그 사람은 반지를 떨어뜨리고 욕을 했지.
+DANIEL: I kyrkan?
+= 교회에서?
+BIGGAN: Högt. Prästen skrattade. Det var det bästa bröllopet på Söder det året.
+= 크게. 목사님이 웃었어. 그해 쇠데르에서 최고의 결혼식이었지.
+JOHAN: Det är dags. Vi går in.
+= 시간 됐어. 들어가자.
+
+# 장면 1 — ÅKLAGARENS PLÄDERING
+LOVISA: Rätten. Under tolv veckor har vi hört trettioåtta vittnen och gått igenom fyratusen sidor handlingar. Jag ska vara kort.
+= 재판장님. 12주 동안 증인 서른여덟 명을 듣고 서류 4,000쪽을 검토했습니다. 짧게 하겠습니다.
+ELSA: Kort. Det säger alla. Ingen är det.
+= 짧게. 다들 그렇게 말해요. 아무도 안 그래요.
+WICKSELL: Utom Strindbergs lappar.
+= 스트린드베리 쪽지만 빼고.
+LOVISA: Det här målet handlar om pengar. Men det började med ett kök. En kvinna på Söder fick ett brev om ett kök som hon inte hade bett om.
+= 이 사건은 돈에 관한 것입니다. 하지만 시작은 부엌이었습니다. 쇠데르의 한 여성이 원하지도 않은 부엌에 관한 편지를 받았죠.
+ELSA: Leyla! Hon pratar om Leyla!
+= 레일라! 레일라 얘기를 해요!
+LOVISA: Det köket ledde till en tvättstuga i Vårberg som kostade tolv miljoner. Tvättstugan ledde till trettio bolag med samma styrelseledamot. Och de bolagen ledde till ett lån från Saltsjöbanken som aldrig borde ha beviljats.
+= 그 부엌은 1,200만이 든 바르베리의 세탁실로 이어졌습니다. 세탁실은 같은 이사를 둔 회사 서른 개로 이어졌고. 그리고 그 회사들은 승인되지 말았어야 할 살트셰은행의 대출로 이어졌습니다.
+ANTON: Hon berättar det som en historia. Med en början.
+= 이야기처럼 말하네. 시작이 있는.
+HAMMARSKJÖLD: Lagerlöf hade varit stolt. Hur det var, vad som hände.
+= 라겔뢰프가 자랑스러워했겠네요. 어땠는지, 무슨 일이 있었는지.
+LOVISA: Bevisningen är tydlig. Ingrid Falks rapporter från 2017 visar att banken visste. Årsredovisningarna visar att pengarna fördes ut. Farid Ahmadis personalliggare visar att arbetena aldrig utfördes.
+= 증거는 분명합니다. 잉리드 팔크의 2017년 보고서는 은행이 알고 있었음을 보여 줍니다. 연간 보고서는 돈이 빠져나갔음을 보여 줍니다. 파리드 아흐마디의 출입 기록은 공사가 실행되지 않았음을 보여 줍니다.
+FARID: Min app. I en plädering.
+= 내 앱이. 최후 변론에.
+LOVISA: Och Gustaf Eks uppgifter, som stämmer med varje dokument vi har kunnat kontrollera, visar vem som styrde.
+= 그리고 우리가 확인할 수 있었던 모든 문서와 일치하는 구스타프 엑의 진술은 누가 지휘했는지 보여 줍니다.
+ANTON: Hon säger hans namn utan att titta på Johan.
+= 요한 쪽은 보지도 않고 그분 이름을 말하네.
+JOHAN: Det är professionellt. Det är bra.
+= 그게 프로야. 좋은 거야.
+LOVISA: Sammanfattningsvis: det är ställt utom rimligt tvivel att Carl-Adam Rehnberg har gjort sig skyldig till grovt penningtvättsbrott. Jag yrkar på fängelse i sex år.
+= 요약하자면: 칼아담 렌베리가 중대 돈세탁 범죄를 저질렀다는 것은 합리적 의심의 여지 없이 증명되었습니다. 징역 6년을 구형합니다.
+ELSA: Sex år.
+= 6년.
+LOVISA: För de två tidigare cheferna på Saltsjöbanken yrkar jag fängelse i tre respektive två år. För Peter Lundgren: ett år, med hänsyn till hans medverkan i utredningen.
+= 살트셰은행 전 간부 두 명에 대해선 각각 징역 3년과 2년을 구형합니다. 페테르 룬드그렌에겐: 수사 협조를 고려해 1년.
+JOHAN: Och pappa?
+= 그리고 아버지는?
+LOVISA: För Gustaf Ek yrkar jag fängelse i två år för medhjälp. Rätten bör ta hänsyn till att hans uppgifter har haft avgörande betydelse för utredningen.
+= 구스타프 엑에게는 방조로 징역 2년을 구형합니다. 재판부는 그의 진술이 수사에 결정적 의미가 있었다는 점을 고려해야 합니다.
+JOHAN: Två år.
+= 2년.
+INGRID: Det är mindre än Rehnberg. Mycket mindre.
+= 렌베리보다 적어요. 훨씬 적어요.
+DANIEL: Johan…
+= 요한…
+JOHAN: Det är rimligt. Det är… rimligt.
+= 합당해. 그건… 합당해.
+ELSA: ”Rimligt.” Det är ditt ord för när något gör ont.
+= ‘합당하다.’ 그게 뭔가 아플 때 요한이 쓰는 말이네요.
+
+# 장면 2 — FÖRSVARETS PLÄDERING
+CLAES: Rätten. Åklagaren har berättat en historia. En vacker historia. Med ett kök i början. Men en historia är inte bevis.
+= 재판장님. 검사는 이야기를 했습니다. 아름다운 이야기를. 시작에 부엌이 있는. 하지만 이야기는 증거가 아닙니다.
+WICKSELL: Han har rätt. Det är tråkigt att erkänna.
+= 저 사람 말이 맞지. 인정하기 싫지만.
+BIGGAN: Säg inte det så högt, Knut.
+= 그렇게 크게 말하지 마, 크누트.
+CLAES: Åklagarens viktigaste vittne är en avskedad bankanställd som har haft sju år på sig att bli bitter.
+= 검사의 가장 중요한 증인은 원한을 품기까지 7년이 있었던 해고된 은행원입니다.
+INGRID: …
+= ……
+MAJA: Titta inte ner, Ingrid. Titta på Göran.
+= 고개 숙이지 마요, 잉리드. 예란 씨를 봐요.
+CLAES: Och en tilltalad som har allt att vinna på att peka på min klient. Gustaf Ek vill ha ett lägre straff. Det sa han själv. ”Delvis.”
+= 그리고 제 의뢰인을 지목해서 얻을 게 모든 것인 피고인. 구스타프 엑은 더 낮은 형을 원합니다. 본인이 그렇게 말했죠. ‘부분적으로.’
+FARID: Han sa ”delvis”. Men han sa också resten.
+= ‘부분적으로’라고 하셨죠. 근데 나머지도 말씀하셨잖아요.
+CLAES: Min klient litade på sina rådgivare. Han litade på advokater som sa att allt var lagligt. Om något var fel, var det rådgivarnas fel.
+= 제 의뢰인은 고문들을 믿었습니다. 모든 게 합법이라고 말한 변호사들을 믿었습니다. 뭔가 잘못됐다면, 그건 고문들의 잘못입니다.
+MAJA: Han skyller på Johans pappa.
+= 요한 아버지 탓을 하네.
+JOHAN: Det är det enda han kan göra. Det är… också rimligt. Juridiskt.
+= 그게 그 사람이 할 수 있는 유일한 거야. 그것도… 합당해. 법적으로는.
+CLAES: Mot denna bakgrund finns det ett rimligt tvivel. Och i Sverige ska rimligt tvivel leda till att den tilltalade frikänns.
+= 이러한 배경에 비추어 합리적 의심이 있습니다. 그리고 스웨덴에서 합리적 의심은 피고인의 무죄로 이어져야 합니다.
+ELSA: Rimligt tvivel. Vad betyder det exakt?
+= 합리적 의심. 정확히 무슨 뜻이에요?
+JOHAN: Att om det finns en förnuftig möjlighet att den tilltalade är oskyldig, ska han frikännas. Det är bättre att en skyldig går fri än att en oskyldig döms.
+= 피고인이 무죄일 합리적 가능성이 있다면, 무죄가 돼야 한다는 거야. 죄 없는 사람 하나가 유죄가 되는 것보다 죄 있는 사람 하나가 풀려나는 게 낫다는 거지.
+FARID: Även Rehnberg?
+= 렌베리도요?
+JOHAN: Särskilt Rehnberg. Annars gäller det inte för någon.
+= 특히 렌베리도. 안 그러면 아무한테도 적용되지 않는 거야.
+HAMMARSKJÖLD: Det är den svåraste principen i en rättsstat. Att skydda även den man inte tycker om.
+= 법치 국가에서 가장 어려운 원칙이죠. 좋아하지 않는 사람까지 보호하는 것.
+DANIEL: På akuten behandlar vi alla. Även den som har skjutit någon. Det är samma princip.
+= 응급실에선 모두를 치료해. 누굴 쏜 사람도. 같은 원칙이지.
+CLAES: Jag yrkar att min klient frikänns. Tack.
+= 제 의뢰인의 무죄를 청구합니다. 감사합니다.
+ANNIKA: Därmed är huvudförhandlingen avslutad. Domen meddelas fredagen den tredje september klockan elva.
+= 이로써 공판을 마칩니다. 판결은 9월 3일 금요일 열한 시에 선고합니다.
+ELSA: Klockan elva. Den tredje september.
+= 열한 시. 9월 3일.
+WICKSELL: Räkna dagarna. Femton.
+= 날짜를 세게. 15일.
+INGRID: Han kallade mig bitter. I en plädering. Det kommer att stå i domen.
+= 날 원한 품은 사람이라고 했어요. 최후 변론에서. 그게 판결문에 남을 거예요.
+DANIEL: Det kommer också att stå att dina rapporter skrevs 2017. Innan du hade något att vara bitter över. Du sa det själv. Rätten hörde det.
+= 당신 보고서가 2017년에 쓰였다는 것도 남을 거예요. 원한을 품을 일이 생기기 전에. 직접 말했잖아요. 재판부가 들었어요.
+INGRID: Jag hoppas att Göran kom ihåg det.
+= 예란 씨가 그걸 기억했으면 좋겠네요.
+ELSA: Göran kommer ihåg allt. Han var lärare.
+= 예란 씨는 다 기억해요. 선생님이셨잖아요.
+
+# 절정 — REVISORSINSPEKTIONEN
+BIGGAN: Kvällen. Kaféet. Och femton dagar att vänta.
+= 저녁. 카페. 그리고 기다릴 15일.
+MAJA: Det har kommit ett brev. Till mig. Det låg i brevlådan när jag kom hem för att byta skor.
+= 편지가 왔어. 나한테. 신발 갈아 신으러 집에 갔을 때 우편함에 있었어.
+ANTON: Från vem?
+= 누구한테서?
+MAJA: Revisorsinspektionen.
+= 회계사 감독청.
+ELSA: Har du öppnat det?
+= 열어 봤어요?
+MAJA: Nej. Jag vill öppna det här. Med er.
+= 아니. 여기서 열고 싶어. 너희랑.
+INGRID: Som promemorian. Inte ensam.
+= 메모 때처럼. 혼자가 아니라.
+MAJA: Som promemorian. Elsa, håll min hand. Igen.
+= 메모 때처럼. 엘사, 손 잡아 줘. 또.
+ELSA: Här.
+= 여기요.
+MAJA: ”Beslut. Revisorsinspektionen meddelar auktoriserade revisorn Maja Holm en varning.”
+= ‘결정. 회계사 감독청은 공인회계사 마야 홀름에게 경고를 내린다.’
+DANIEL: En varning. Inte upphävande?
+= 경고. 취소가 아니고?
+MAJA: ”Vid bedömningen har inspektionen tagit hänsyn till att revisorn självmant har anmält förhållandet och att hennes iakttagelser har haft betydelse för en pågående brottsutredning.”
+= ‘감독청은 판단에 있어 회계사가 자발적으로 사안을 신고했다는 점과 그의 관찰이 진행 중인 범죄 수사에 의미가 있었다는 점을 고려했다.’
+ANTON: Du får behålla den. Auktorisationen.
+= 지킬 수 있네. 자격.
+MAJA: Jag får behålla den. Med en varning.
+= 지킬 수 있어. 경고와 함께.
+ELSA: En varning. Som ett gult kort i fotboll.
+= 경고. 축구 옐로카드처럼.
+FARID: Inte rött. Bara gult. Man får spela vidare.
+= 레드 아니고. 옐로만. 계속 뛸 수 있어요.
+JOHAN: En varning är det näst lindrigaste. Det betyder: du gjorde fel. Men du gjorde rätt efteråt.
+= 경고는 두 번째로 가벼운 거야. 그 뜻은: 넌 잘못했다. 하지만 그 뒤에 옳게 했다.
+MAJA: ”Du gjorde fel, men du gjorde rätt efteråt.” Kan man skriva det på en gravsten?
+= ‘넌 잘못했다, 하지만 그 뒤에 옳게 했다.’ 그거 묘비에 써도 되나?
+BIGGAN: Det kan man skriva på en tårta. I morgon.
+= 케이크에 쓰면 돼. 내일.
+ANTON: Prinsesstårta. Med grön marsipan.
+= 프린세스 케이크. 초록 마지팬으로.
+MAJA: Och texten i aktiv form.
+= 그리고 글씨는 능동형으로.
+INGRID: Maja. Det var din promemoria som räknades. Och min rapport. Båda. Det står i beslutet.
+= 마야. 당신 메모가 고려된 거예요. 그리고 내 보고서도. 둘 다. 결정문에 적혀 있잖아요.
+MAJA: Två oberoende källor.
+= 독립된 출처 둘.
+INGRID: Och två kvinnor som till slut skrev under på rätt papper.
+= 그리고 마침내 맞는 종이에 서명한 여자 둘.
+WICKSELL: Det här är den bästa nyheten jag har hört i år. Och jag har hört att Systembolaget ska ha öppet längre på fredagar.
+= 올해 들은 것 중 최고의 소식이군. 그리고 시스템볼라겟이 금요일에 더 늦게까지 연다는 소식도 들었는데 말이야.
+INGRID: Det stämmer inte. Jag jobbar där.
+= 그거 사실 아니에요. 제가 거기서 일하잖아요.
+MAJA: Jag har inte gråtit sedan midsommar. Men nu…
+= 하지 이후로 안 울었는데. 근데 지금은…
+DANIEL: Golvet är inte dammigt, Maja. Det är okej.
+= 바닥에 먼지 없어, 마야. 괜찮아.
+
+# 마무리 — VAD DET BETYDDE
+HAMMARSKJÖLD: Femton dagar till domen. Får jag föreslå något? En fråga. Till var och en. Vad har det här betytt för er?
+= 판결까지 15일. 제안 하나 해도 될까요? 질문 하나. 한 사람씩. 이 일이 여러분에게 무엇을 의미했나요?
+ELSA: Lagerlöfs tredje del. Vad det betydde.
+= 라겔뢰프 님의 세 번째 부분. 무엇을 의미했는지.
+FARID: Jag börjar. Det betydde att jag inte är bara ”killen från bygget”. Jag är en snickare som har vittnat i tingsrätten. Med namn.
+= 제가 먼저 할게요. 그건 제가 그냥 ‘공사장 청년’이 아니라는 뜻이었어요. 지방법원에서 증언한 목수예요. 실명으로.
+ANTON: Det betydde att jag kan prata utan rustning. Och att någon räknar mina ord för att hon bryr sig. Inte för att straffa mig.
+= 갑옷 없이 말할 수 있다는 뜻이었어. 그리고 누군가 날 벌주려는 게 아니라 아끼니까 내 말을 센다는 것.
+MAJA: …Det betydde att jag kan sova. Och köpa en åttonde tallrik.
+= …잘 수 있다는 뜻이었어. 그리고 여덟 번째 접시를 살 수 있다는 것.
+INGRID: Det betydde att kartongen kunde stängas. Och att någon läste.
+= 상자를 닫을 수 있다는 뜻이었어요. 그리고 누군가 읽었다는 것.
+DANIEL: Det betydde att jag inte satt vid fönstret den här gången. Jag gick ner på torget.
+= 이번엔 창가에 앉아 있지 않았다는 뜻이었어. 광장으로 내려갔지.
+HAMMARSKJÖLD: Samir hade varit glad.
+= 사미르가 기뻐했겠네요.
+DANIEL: Samir hade skrattat åt mig. Och sen varit glad.
+= 사미르는 날 비웃었을 거예요. 그다음에 기뻐했겠죠.
+BIGGAN: Det betydde att kaféet blev en plats att sitta. Som Leif sa. För fler än jag trodde.
+= 카페가 앉을 곳이 됐다는 뜻이었어. 레이프가 말했던 것처럼. 내가 생각한 것보다 더 많은 사람들한테.
+JOHAN: Det betydde att jag kunde säga nej till pappa. Och ändå vilja hoppa som en groda med honom.
+= 아버지께 ‘아니요’라고 말할 수 있었다는 뜻이야. 그래도 아버지랑 개구리처럼 뛰고 싶어 할 수 있었다는 것.
+ELSA: Och jag…
+= 그리고 저는…
+HAMMARSKJÖLD: Ta din tid.
+= 천천히 해요.
+ELSA: Det betydde att ”Ursäkta, vad betyder det?” är den viktigaste meningen i svenska språket. Och att jag inte längre skäms för att säga den.
+= ‘실례지만, 그게 무슨 뜻이에요?’가 스웨덴어에서 가장 중요한 문장이라는 뜻이었어요. 그리고 이제 그 말을 하는 게 부끄럽지 않다는 것.
+WICKSELL: Och jag? Får en död ekonom svara?
+= 그럼 나는? 죽은 경제학자도 대답해도 되나?
+BIGGAN: Svara, Knut.
+= 대답해, 크누트.
+WICKSELL: Det betydde att någon äntligen räknade dagarna. Utan att jag behövde säga det.
+= 마침내 누군가가 날짜를 셌다는 뜻이었지. 내가 말할 필요도 없이.
+ELSA: Femton. Jag har redan börjat räkna.
+= 15일. 벌써 세기 시작했어요.
+HAMMARSKJÖLD: Och nu väntar vi. Femton dagar. Det är också en del av rättvisan. Väntan.
+= 그리고 이제 기다리죠. 15일. 그것도 정의의 일부예요. 기다림.
+BIGGAN: Med bullar. Femton dagar med bullar.
+= 번이랑 같이. 번과 함께 15일.
+NEXT: 4부 12화 — «Domen»(판결) — 9월 3일, 1심 판결. 기쁨도 잠시, Biggan 앞으로 한 통의 편지가 온다: 건물이 팔려 카페와 사무소의 임대 계약이 해지된다.
