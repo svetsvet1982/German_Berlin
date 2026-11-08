@@ -1,0 +1,165 @@
+#nr: 88
+#part: 5부 Neuer Frühling (이듬해 봄)
+#title: Ein Fest für das ganze Haus
+#ko: 온 집안의 잔치 · 등기부 등본과 창가 자리
+#level: B2~C1
+#setting: 6월 12일 토요일. 6월 1일부터 크나이페의 주인은 야나다. 지난주 코발렌코 가족과 넬레, 밀라, 그리고 보이텍과 브루노가 이사 왔다. 지붕에는 태양광 모듈이 올라갔다. 그리고 그저께, 노이쾰른 구 법원에서 등기부 등본이 도착했다. 소유자: Eckhaus eG. 오늘은 집들이 잔치(Einweihungsfest). 안마당과 크나이페, 계단까지. 손님은 취리히에서 온 클라우디아 벤트, 구청의 린드너 박사, 재단의 린드크비스트, 함부르크에서 온 한 남자, 그리고 코트부스와 리히텐베르크와 라이프치히에서 온 사람들. 표현 초점: 구어체 인사말과 축사, 감사 표현, 건배사, 손님 맞이.
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Edith | 에디트 크뤼거 · 84세
+#cast: Jana | 야나 코발스키 · 34세, 크나이페 주인
+#cast: Kalle | 칼레 코발스키 · 58세, 단골
+#cast: Frau Wendt | 클라우디아 벤트 · 40대, 전 소유주의 막내딸, 취리히
+#cast: Herr Pietsch | 귄터 피치 · 71세
+#cast: Dr. Lindner | 안야 린드너 · 56세, 노이쾰른 구청 도시계획과
+#cast: Dr. Albrecht | 슈테펜 알브레히트 · 52세, 바름베크 건축 협동조합 재무 이사
+#cast: Can | 잔 이을드즈 · 11세
+#cast: Frau Lehmann | 카트야 레만 · 52세
+#cast: Hüseyin | 휘세인 이을드즈 · 65세
+#cast: Derya | 데르야 이을드즈 · 40세, 이사
+#cast: Paul | 파울 호프만 · 27세
+#cast: Max | 막스 브레너 · 30세, DJ
+#cast: Lukas | 루카스 베르그너 · 15세
+#cast: Plattensammler | 레코드 수집가 · 30대, 작은 모자
+#cast: Renate | 레나테 크라우제 · 66세
+#cast: Wojtek | 보이치에흐 노바크(보이텍) · 53세
+#cast: Frau Kovalenko | 올레나 코발렌코 · 40대
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Herr Brenzel | 디터 브렌첼 · 60대, 베저 거리 주민
+#cast: Hans | 한스 브란트 · 80세, 지붕 장인
+#read: 구어체 축사: „Liebe Leute! Ich mach's kurz. Versprochen." — 'mach's', 'gibt's' 같은 축약. 'Versprochen' 뒤에는 모두가 웃을 틈을 준다(아무도 믿지 않으니까).
+#read: 건배사: „Auf das Haus! Auf uns! Prost!" — 다 같이. 잔을 부딪칠 때는 상대의 눈을 본다(독일의 건배 예절).
+#read: Grundbuchauszug [ˈɡʁʊntbuːxˌʔaʊ̯stsuːk], Einweihungsfest [ˈaɪ̯nvaɪ̯ʊŋsˌfɛst], Eigentümerin [ˈaɪ̯ɡn̩tyːməʁɪn], Gemeinschaft [ɡəˈmaɪ̯nʃaft].
+#note: 집들이(Einweihungsfest / Einweihungsparty): 새 집에 이사하면 이웃과 친구를 초대한다. 선물로는 전통적으로 빵과 소금(Brot und Salz)을 가져간다. 빵은 굶지 않기를, 소금은 삶에 맛이 있기를 바라는 뜻이다.
+#note: 구어체 연설 표현: Ich mach's kurz. (짧게 할게요) / Ich will gar nicht lange reden. / Ohne euch wär das nix geworden. (너희 없었으면 안 됐어) / Ein Riesendankeschön an … / Last but not least … / Lasst uns anstoßen! (건배합시다)
+#note: 건배 예절: Prost! / Zum Wohl! (좀 더 격식) / Auf …! (…를 위하여) 잔을 부딪칠 때 눈을 마주치지 않으면 7년 동안 불운이 온다는 농담 섞인 미신이 있다.
+#note: 등기부(Grundbuch): 부동산 소유권은 등기부에 기재되어야 법적으로 완전히 이전된다. 취득세 납부 후 세무서가 '무이의 증명(Unbedenklichkeitsbescheinigung)'을 내주면, 공증인이 등기를 신청하고 구 법원 등기소가 소유자를 바꿔 적는다.
+## Donnerstag: der Grundbuchauszug | 목요일: 등기부 등본
+Frau Schulze: Edith. Komm. Setz dich. Ich habe etwas. Gestern gekommen. Ich habe es eine Nacht neben dem Bett liegen lassen. Ungeöffnet. Ich wollte es mit dir öffnen. || 에디트. 이리 와. 앉아. 뭐가 왔어. 어제. 하룻밤 침대 옆에 놔뒀어. 안 뜯고. 너랑 같이 열고 싶어서.
+Edith: Du hast einen Brief eine Nacht lang nicht geöffnet? Du? Ingrid Schulze? || 네가 편지를 하룻밤 동안 안 열었다고? 네가? 잉그리트 슐체가?
+Frau Schulze: Es ist kein Brief. Es ist der Grundbuchauszug. Amtsgericht Neukölln. Grundbuch von Rixdorf, Blatt viertausendzweihundertelf. Abteilung eins. Eigentümer. || 편지가 아니야. 등기부 등본이야. 노이쾰른 구 법원. 릭스도르프 등기부, 4211번 지면. 제1구. 소유자.
+Edith: Lies. Du. Laut. Diesmal du. || 읽어. 네가. 소리 내서. 이번엔 네가.
+Frau Schulze: „Abteilung eins, laufende Nummer drei. Eigentümer: Eckhaus eG, Sitz Berlin. Aufgelassen am sechsten April zweitausendsiebenundzwanzig. Eingetragen am siebten Juni zweitausendsiebenundzwanzig." || „제1구, 순위 번호 3. 소유자: Eckhaus eG, 소재지 베를린. 2027년 4월 6일 소유권 이전 합의. 2027년 6월 7일 등기."
+Edith: Laufende Nummer drei? Wer waren eins und zwei? || 순위 번호 3? 그럼 1번이랑 2번은 누구였어?
+Frau Schulze: Nummer eins: „Heinrich Friedrich Kühne, Bauunternehmer, Rixdorf, neunzehnhundertacht." Der Mann, der August Schmitz bezahlt hat. Oder nicht genug bezahlt hat. Nummer zwei: „Heinrich Wendt, neunzehnhundertdreiundsiebzig." Zwei Heinriche. Und dann wir. Fünfunddreißig Menschen. In einer Zeile. || 1번: „하인리히 프리드리히 퀴네, 건축업자, 릭스도르프, 1908년." 아우구스트 슈미츠에게 품삯을 준 사람이지. 아니면 충분히 안 준 사람이거나. 2번: „하인리히 벤트, 1973년." 하인리히 둘. 그리고 우리. 서른다섯 명. 한 줄에.
+Edith: Hundertneunzehn Jahre. Drei Zeilen. Und wir sind die erste Zeile, in der mehr als ein Mensch steht. || 백십구 년. 세 줄. 그리고 우리가 사람이 한 명보다 많이 적힌 첫 번째 줄이네.
+Frau Schulze: Formal steht da nur ein Name. Eckhaus eG. Eine juristische Person. Aber du hast recht. Hinter dem Namen stehen fünfunddreißig. Und Bruno. Und der Fuchs. Inoffiziell. || 형식적으로는 이름 하나뿐이야. Eckhaus eG. 법인 하나. 그래도 네 말이 맞아. 그 이름 뒤엔 서른다섯 명이 서 있지. 그리고 브루노. 그리고 여우. 비공식적으로.
+Edith: Und was machst du jetzt damit? Ordner? Welcher Nummer? || 그래서 이제 그걸 어떻게 할 건데? 서류철에? 몇 번에?
+Frau Schulze: Ordner eins. Ich habe Ordner eins geleert. Da waren die Briefe von Nordwert drin. Die liegen jetzt im Keller. Ordner eins ist ab heute nur das hier. Ein Blatt. In einem leeren Ordner. Das ist mein schönster Ordner. || 1번 서류철. 1번 서류철을 비웠어. 거기 노르트베르트 편지들이 있었거든. 그건 이제 지하실에 있어. 1번 서류철은 오늘부터 이것뿐이야. 종이 한 장. 빈 서류철 안에. 그게 내 제일 아름다운 서류철이야.
+## Samstag, neun Uhr: Aufbau | 토요일 아홉 시: 준비
+Jana: Tische in den Hof. Sechs. Bänke dazu. Tobi, die Lichterkette an die Kastanie. Wojtek, die Plane nur, wenn es regnet. Es regnet nicht. Glaube ich. || 탁자는 안마당으로. 여섯 개. 벤치도 같이. 토비, 꼬마전구는 밤나무에. 보이텍 아저씨, 방수포는 비 올 때만요. 비는 안 와요. 아마도요.
+Tobi: Jawohl, Chefin. Darf ich fragen, wie die erste Woche war? Als Chefin? || 알겠습니다, 사장님. 첫 주는 어땠는지 물어봐도 돼요? 사장으로서요?
+Jana: Gut. Anstrengend. Am Montag war zu. Ruhetag. Ich war nicht einmal zum Gucken da. Ich war am Wannsee. Mit einem Buch. Ich habe drei Seiten gelesen. Und dann geschlafen. Vier Stunden. Auf einer Decke. || 좋았어. 힘들었고. 월요일엔 문 닫았어. 쉬는 날이니까. 들여다보러도 안 왔어. 반제에 갔지. 책 들고. 세 쪽 읽었어. 그러고는 잤어. 네 시간. 돗자리 위에서.
+Wojtek: Und Kalle? War er hier? Am Montag? || 그럼 칼레는? 여기 있었어? 월요일에?
+Jana: Er hat vor der Tür gestanden. Um zwölf. Mit Edith. Sie haben auf das Schild geguckt. „Montag Ruhetag." Und dann sind sie zu Edith gegangen. Und haben Tee getrunken. Im Erdgeschoss. Zum ersten Mal seit sechsundzwanzig Jahren war Kalle montags nicht in der Ecke. || 문 앞에 서 있었대. 열두 시에. 에디트 할머니랑. 팻말을 봤대. „월요일 휴무." 그러고는 에디트 할머니네로 갔대. 그리고 차를 마셨대. 1층에서. 이십육 년 만에 처음으로 칼레가 월요일에 크나이페에 없었던 거야.
+Frau Kovalenko: Jana. Ich habe etwas gebacken. Für das Fest. Ukrainisch. Syrnyky. Quarkpfannkuchen. Zweihundert Stück. In meiner neuen Küche. Mit vier Herdplatten. In der Unterkunft hatten wir eine. || 야나 씨. 잔치에 쓰려고 뭘 좀 구웠어요. 우크라이나식이요. 시르니키요. 크바르크 팬케이크요. 이백 개요. 새 부엌에서요. 화구 네 개짜리에서요. 숙소엔 하나뿐이었거든요.
+Jana: Zweihundert? Olena! Wann haben Sie geschlafen? || 이백 개요? 올레나 씨! 언제 주무셨어요?
+Frau Kovalenko: Gar nicht. Aber das ist ein gutes Nichtschlafen. Wie vor einer Hochzeit. Nicht wie im Krieg. || 안 잤어요. 그래도 좋은 잠 못 자기예요. 결혼식 전날처럼요. 전쟁 때처럼이 아니라요.
+Can: Jana! Die Erlaubnis! Hängt sie schon? Die vom Ordnungsamt? Ich will sie fotografieren! || 야나 누나! 허가증이요! 벌써 걸었어요? 질서청에서 온 거요? 사진 찍고 싶어요!
+Jana: Hinter dem Tresen. Neben dem Zehner, Fridas Karte und meinem Aufhebungsvertrag. Gekommen am achtundzwanzigsten Mai. Drei Tage vor dem Ersten. Mit einem Satz unten drauf. Handschriftlich. Vom Sachbearbeiter. || 카운터 뒤에. 10마르크, 프리다 엽서, 내 퇴직 합의서 옆에. 5월 28일에 왔어. 1일 사흘 전에. 아래에 한 문장 붙어서. 손글씨로. 담당자가 쓴 거야.
+Can: Was steht da? || 뭐라고 써 있어요?
+Jana: „Druckfehler auf Seite drei ist korrigiert. Grüße an die Nachbarin." || „3쪽 오타는 수정했습니다. 이웃분께 안부 전해 주세요."
+## Halb drei: Brot und Salz | 두 시 반: 빵과 소금
+Herr Brenzel: Guten Tag. Brenzel. Weserstraße. Neununddreißig Jahre. Sie kennen mich. Ich habe nicht unterschrieben. Damals. Bei der Petition. || 안녕하세요. 브렌첼이요. 베저 거리. 삼십구 년이요. 저 아시죠. 서명 안 했던 사람이요. 그때요. 청원 때요.
+Kalle: Herr Brenzel. Sie saßen im Ausschuss. In der letzten Reihe. Mit verschränkten Armen. Und dann haben Sie mir zugenickt. || 브렌첼 씨. 위원회에 오셨죠. 맨 뒷줄에요. 팔짱 끼고요. 그리고 나한테 고개를 끄덕여 주셨죠.
+Herr Brenzel: Ich habe nicht genickt. Ich hatte einen steifen Hals. … Gut. Ich habe genickt. Hier. Brot und Salz. Für das neue Haus. Das macht man so. Auch wenn man nicht unterschrieben hat. || 끄덕인 거 아니에요. 목이 뻣뻣했던 거죠. …좋아요. 끄덕였어요. 여기요. 빵과 소금이요. 새 집을 위해서요. 원래 그렇게 하는 거예요. 서명을 안 했더라도요.
+Frau Schulze: Herr Brenzel. Neunzehnhundertneunundneunzig haben Sie zu mir gesagt: Ich höre Ihr Gesicht. || 브렌첼 씨. 1999년에 나한테 그러셨죠. 당신 얼굴이 들린다고요.
+Herr Brenzel: Und jetzt höre ich es wieder. Es sagt: Danke. Und: Sie haben sich verändert, Frau Schulze. Sie sehen aus, als hätten Sie ein Wochenende gehabt. || 지금도 들려요. 그 얼굴이 이렇게 말하네요. 고맙다고. 그리고, 변하셨네요, 슐체 씨. 주말을 보낸 사람 같은 얼굴이에요.
+Frau Schulze: Ich hatte eins. In Lichtenberg. Bei meiner Schwester. Das erste seit neun Jahren. || 보냈어요. 리히텐베르크에서요. 언니네서요. 구 년 만에 처음으로요.
+Herr Brenzel: Mein Vermieter hat mir letzte Woche eine Mieterhöhung geschickt. Zwölf Prozent. Ich habe nichts gesagt. Wie immer. Aber dann habe ich an Sie gedacht. An die Tafel. An die Petition. Darf ich … darf ich fragen, wie das geht? Mit dem Widerspruch? || 지난주에 집주인이 월세 인상 통지를 보냈어요. 12퍼센트요. 아무 말도 안 했어요. 늘 그랬듯이요. 그런데 여러분 생각이 났어요. 칠판이랑. 청원이랑요. 혹시… 어떻게 하는지 물어봐도 될까요? 이의 제기 말이에요.
+Frau Schulze: Kommen Sie Montag um acht. An den Briefkasten. Ich bin immer da. Und bringen Sie den Brief mit. Und Ihren Mietvertrag. Und den Mietspiegel. Den habe ich. In Ordner sieben. || 월요일 여덟 시에 오세요. 우편함 앞으로요. 저는 늘 거기 있어요. 그리고 그 편지 가져오세요. 임대 계약서도요. 그리고 임대료 기준표도요. 그건 제가 갖고 있어요. 7번 서류철에요.
+Herr Brenzel: Montag um acht. Ich komme. Ohne verschränkte Arme. || 월요일 여덟 시라. 갈게요. 팔짱 안 끼고요.
+Kalle: Und jetzt ein Bier, Herr Brenzel? Auf Kosten des Hauses? Ach nein. Ich bin nicht mehr der Wirt. Jana! Darf ich Herrn Brenzel ein Bier ausgeben? Als Stammgast? || 그럼 이제 맥주 한잔하실래요, 브렌첼 씨? 가게가 낼게요. 아, 아니다. 나 이제 주인이 아니지. 야나! 브렌첼 씨한테 맥주 한잔 사 드려도 돼? 단골로서?
+Jana: Als Stammgast darfst du das. Aber du zahlst. Zwei vierzig. || 단골로서는 돼요. 그래도 아빠가 내세요. 이 유로 사십이요.
+## Samstag, drei Uhr: die Gäste | 토요일 세 시: 손님들
+Jana: Herzlich willkommen! Kommen Sie rein! Im Hof gibt es Kuchen, drinnen gibt es Bier, und auf der Treppe gibt es … Kinder. Überall Kinder. Passen Sie auf, wo Sie hintreten. || 어서 오세요! 들어오세요! 안마당엔 케이크가 있고요, 안엔 맥주가 있고요, 계단엔… 애들이 있어요. 어딜 가나 애들이에요. 발밑 조심하세요.
+Frau Wendt: Frau Kowalski. Claudia Wendt. Wir haben uns beim Notar gesehen. Ich habe etwas versprochen. Darf ich? Den Tisch am Fenster? || 코발스키 씨. 클라우디아 벤트예요. 공증인 사무실에서 뵀죠. 약속한 게 있어서요. 그래도 될까요? 창가 테이블이요?
+Jana: Er ist reserviert. Seit dem sechsten April. Mit einem Schild. „Für Professor Wendt. Samstag, dreizehn Uhr. Bis auf Weiteres." Papa hat es geschrieben. Mit Kreide. || 예약돼 있어요. 4월 6일부터요. 팻말도 있어요. „벤트 교수님 자리. 토요일 13시. 별도 통지 시까지." 아빠가 썼어요. 분필로요.
+Frau Wendt: Es ist schon drei. Ich bin zwei Stunden zu spät. Der Nachtzug aus Zürich hatte Verspätung. Wie immer. Zwei Jahre lang jeden Freitag. Ich kenne jede Verspätung. || 벌써 세 시네요. 두 시간 늦었어요. 취리히발 야간열차가 늦었거든요. 늘 그렇듯이. 이 년 동안 매주 금요일이요. 지연이라면 다 알아요.
+Kalle: Frau Wendt. Hier. Die FAZ von heute. Und ein Currywurst. Pommes. Ketchup und Mayo. Und eine Fassbrause. Wie Ihr Vater. Zwanzig Jahre lang. Ich wusste nicht, wer er war. Ich wusste nur, was er bestellt. || 벤트 씨. 여기요. 오늘 자 FAZ요. 그리고 커리부어스트. 감자튀김. 케첩이랑 마요. 그리고 파스브라우제요. 아버님처럼요. 이십 년 동안이요. 그분이 누군지는 몰랐어요. 뭘 시키는지만 알았죠.
+Frau Wendt: … Ein Euro Trinkgeld. Genau ein Euro. So hat er es immer gemacht? || …팁 일 유로. 딱 일 유로. 아버지가 늘 그렇게 하셨어요?
+Herr Pietsch: Immer. Und einmal, am Tag, als Kalles Frau gestorben ist, hat er einen Zwanziger hingelegt. Und nichts gesagt. Und ist gegangen. Und ist nie wieder darauf zurückgekommen. || 늘요. 그리고 딱 한 번, 칼레 아내가 세상을 떠난 날, 이십 유로짜리를 놓고 갔어요. 아무 말도 없이요. 그러고는 갔죠. 그 얘기는 다시는 꺼내지 않았어요.
+Kalle: … Das war er? Der Zwanziger in der Schale? Ich dachte, das war ein Versehen. Ich habe ihn drei Jahre aufgehoben. Für den Fall, dass jemand ihn zurückwill. || …그게 그분이었어? 접시에 있던 이십 유로가? 실수인 줄 알았어. 삼 년 동안 간직했어. 혹시 누가 돌려 달라고 할까 봐.
+Frau Wendt: Dann geben Sie ihn mir. Nein. Geben Sie ihn dem Haus. In die Dose. Für das nächste Baby. Mein Vater hätte das gewollt. Er hat nur nie gewusst, wie man so etwas sagt. || 그럼 저한테 주세요. 아니다. 집에 주세요. 깡통에요. 다음 아기를 위해서요. 아버지라면 그걸 원하셨을 거예요. 그런 말을 어떻게 하는지 몰랐을 뿐이에요.
+Dr. Lindner: Guten Tag. Lindner. Bezirksamt. Ich bin privat hier. Ganz privat. Ich habe sogar meinen Dienstausweis zu Hause gelassen. Das habe ich seit neunzehnhundertachtundneunzig nicht mehr gemacht. || 안녕하세요. 린드너예요. 구청이요. 개인적으로 왔어요. 완전히 개인적으로요. 공무원증도 집에 두고 왔어요. 1998년 이후로 그런 적이 없는데요.
+Frau Schulze: Frau Doktor Lindner. Die kleine Tür. Sie haben im Dezember gesagt: Ich lasse eine kleine Tür offen. Wir sind durchgegangen. Fünfunddreißig Menschen durch eine kleine Tür. || 린드너 박사님. 그 작은 문이요. 12월에 그러셨잖아요. 작은 문 하나는 열어 두겠다고요. 우리가 지나갔어요. 서른다섯 명이 작은 문 하나로요.
+Dr. Lindner: Und sie hat gehalten. Das hat mich am meisten überrascht. Kleine Türen halten selten. Diese hat gehalten. Wegen Ihnen. Wegen der Formulare. Mit Farbcode. || 그리고 그 문이 버텼죠. 그게 제일 놀라웠어요. 작은 문은 잘 안 버티거든요. 이 문은 버텼어요. 여러분 덕분에요. 서식들 덕분에요. 색깔 코드까지 넣은.
+## Ein Mann aus Hamburg | 함부르크에서 온 남자
+Can: Kalle! Kalle! Da ist ein Mann. Mit Anzug. Und einer Tüte. Er steht vor der Tür. Er traut sich nicht rein. Er sieht aus wie … wie auf dem Foto von Ordner vier. || 칼레 아저씨! 칼레 아저씨! 저기 어떤 남자가 있어요. 양복 입고요. 봉지 들고요. 문 앞에 서 있어요. 못 들어오고 있어요. 생긴 게… 4번 서류철 사진 같아요.
+Kalle: Steffen? … Steffen! Komm rein! Was stehst du da draußen rum wie ein Gerichtsvollzieher? || 슈테펜? …슈테펜! 들어와! 뭘 집달관처럼 밖에 서 있어?
+Dr. Albrecht: Kalle. Ich war nicht sicher, ob ich willkommen bin. Nach allem. Ich habe mir eine Fahrkarte gekauft. Gestern. Und im Zug dreimal überlegt, ob ich in Spandau wieder aussteige. || 칼레. 환영받을지 확신이 없었어. 그 모든 일이 있었으니까. 어제 기차표를 샀어. 그리고 기차 안에서 세 번이나 생각했지. 슈판다우에서 다시 내릴까 하고.
+Kalle: Hier steigt niemand vorher aus. Das ist eine Hausregel. Seit Ingrid in Lichtenberg ausgestiegen ist. Was ist in der Tüte? || 여기선 아무도 먼저 안 내려. 그게 집안 규칙이야. 잉그리트가 리히텐베르크에서 내린 뒤로. 봉지엔 뭐가 들었어?
+Dr. Albrecht: Brot und Salz. Für ein neues Haus. So macht man das. Hat meine Mutter gesagt. Und eine Flasche aus Hamburg. Für die Dame mit der Treppe. Ich habe es ihr versprochen. Am ersten April. Grüße. || 빵과 소금. 새 집을 위해서. 그렇게 하는 거래. 우리 어머니가 그러셨어. 그리고 함부르크에서 가져온 술 한 병. 계단 할머니께 드리려고. 4월 1일에 약속했거든. 안부 전해 달라고.
+Edith: Herr Doktor Albrecht. Sie haben letzten Sommer hier am Tresen gesessen. Mit Ihrem Laptop. Und ich habe Ihnen gesagt: Achtundsiebzig Stufen. Und Sie haben es aufgeschrieben. In Ihr Excel. || 알브레히트 박사님. 작년 여름에 여기 카운터에 앉아 계셨죠. 노트북 들고요. 그리고 내가 말했죠. 계단이 일흔여덟 개라고요. 그리고 박사님은 그걸 적었어요. 엑셀에요.
+Dr. Albrecht: Spalte K. „Barrierefreiheit: nicht gegeben. Modernisierungspotenzial: hoch." Ich habe die Datei gelöscht. Im April. Als ich gegangen bin. Es war das Einzige, was ich mitgenommen habe. Die Erinnerung, dass ich sie gelöscht habe. || K열이요. „무장애: 해당 없음. 현대화 잠재력: 높음." 그 파일 지웠어요. 4월에요. 회사 나올 때요. 그게 제가 가지고 나온 유일한 거예요. 그걸 지웠다는 기억이요.
+Edith: Und jetzt? In Barmbek? Wie viele Stufen haben Sie dort? || 그럼 지금은요? 바름베크에서는요? 거기 계단은 몇 개예요?
+Dr. Albrecht: Siebzehn Häuser. Ich kenne inzwischen jede Treppe. Und ich habe eine neue Spalte. In meiner Tabelle. Spalte A. Die erste. „Wer wohnt hier seit wann?" Vor allen Zahlen. || 집이 열일곱 채예요. 이제 계단은 다 알아요. 그리고 새 열을 하나 만들었어요. 제 표에요. A열이요. 맨 처음 거요. „누가 언제부터 여기 사는가?" 모든 숫자보다 앞에요.
+Edith: Spalte A. Das ist gut. Dann darf ich Sie umarmen, Herr Doktor? Eine Frau mit vierundachtzig darf das. Ohne zu fragen. || A열이라. 그거 좋네요. 그럼 안아 드려도 될까요, 박사님? 여든넷 먹은 여자는 그래도 돼요. 묻지 않고도요.
+## Halb sechs: die Reden | 다섯 시 반: 연설
+Jana: Leute! Liebe Leute! Ruhe mal kurz! Ich bin seit elf Tagen die Wirtin. Ich mach's kurz. Versprochen. || 여러분! 친애하는 여러분! 잠깐 조용히요! 저 사장 된 지 십일 일 됐어요. 짧게 할게요. 약속해요.
+Kalle: Das hat sie von mir. Und das glaubt ihr auch nicht. || 그건 나한테 배운 거야. 그리고 그것도 다들 안 믿지.
+Jana: Papa. Hand. Du bist Stammgast. … Also. Vor einem Jahr hat ein Brief gesagt: Dieses Haus wird verkauft. An Leute, die wir nie gesehen haben. Heute steht im Grundbuch: Eckhaus eG. Und ohne euch wär das nix geworden. Nicht ohne Edith, die mit vierundachtzig auf Tische klopft. Nicht ohne Ingrid, die Fristen kennt wie andere Leute Gedichte. Nicht ohne Derya, die nach dem Nachtdienst zum Notar gegangen ist. Nicht ohne Tobi, der Formulare hasst und trotzdem jedes unterschrieben hat. || 아빠. 손이요. 아빠는 단골이잖아요. …그러니까요. 일 년 전에 편지 한 통이 그랬어요. 이 집은 팔린다고. 우리가 본 적도 없는 사람들한테요. 오늘 등기부엔 이렇게 써 있어요. Eckhaus eG. 그리고 여러분 없었으면 안 됐어요. 여든넷에 테이블을 두드리는 에디트 할머니 없이는요. 다른 사람들이 시를 외우듯 기한을 외우는 잉그리트 할머니 없이는요. 야간 근무 끝나고 공증인한테 간 데르야 언니 없이는요. 서식이라면 질색하면서도 하나도 빠짐없이 서명한 토비 없이는요.
+Tobi: Mit Maltes Hilfe. Und Cans Vorlesen. Und Kalles Neugier. Die keine war. || 말테가 도와줬고요. 잔이 읽어 줬고요. 그리고 칼레 아저씨의 호기심 덕분이에요. 호기심이 아니었지만요.
+Jana: Und last but not least: Papa. Der sechsundzwanzig Jahre hier hinter dem Tresen stand. Und jetzt davor sitzt. Und es aushält. Fast. Ein Riesendankeschön. An alle. Lasst uns anstoßen! || 그리고 마지막으로, 그렇지만 결코 덜 중요하지 않은: 아빠. 이십육 년 동안 여기 카운터 뒤에 서 있다가. 이제는 앞에 앉아 있죠. 그리고 버티고 있어요. 거의요. 정말 정말 고마워요. 모두에게요. 건배해요!
+Hüseyin: Darf ich auch? Ganz kurz? Ich habe in diesem Haus neunundvierzig Jahre lang nicht abstimmen dürfen. Nicht im Land. Nicht im Bezirk. Hier, im Hof, bei der Genossenschaft, durfte ich zum ersten Mal. Dezember. Dann im April der Pass. Und bald das Land. Und der Bundestag. Aber das Erste war dieses Haus. Ein Mensch, eine Stimme. Seit achtzehnhundertneunundachtzig. Das ist älter als das Grundgesetz. || 나도 해도 될까요? 아주 짧게요? 나는 이 집에서 사십구 년 동안 투표를 못 했어요. 나라에서도요. 구에서도요. 여기, 안마당에서, 협동조합에서 처음으로 할 수 있었어요. 12월에요. 그다음 4월엔 여권이요. 그리고 곧 주 선거요. 그리고 연방 의회요. 그래도 처음은 이 집이었어요. 한 사람, 한 표. 1889년부터요. 그건 기본법보다 오래됐어요.
+Frau Kovalenko: Ich … ich spreche nicht gut Deutsch. Aber ich will sagen: Danke. Wir sind seit sechs Tagen hier. Mykyta schläft. Die ganze Nacht. Zum ersten Mal seit zwei Jahren. Ohne aufzuwachen. Weil es ruhig ist. Weil niemand an die Tür klopft. Das ist alles. Danke. || 저… 독일어를 잘 못해요. 그래도 말하고 싶어요. 감사합니다. 저희 여기 온 지 엿새 됐어요. 미키타가 자요. 밤새도록요. 이 년 만에 처음으로요. 한 번도 안 깨고요. 조용하니까요. 아무도 문을 두드리지 않으니까요. 그게 다예요. 감사합니다.
+Wojtek: Ich sage nur einen Satz. Bruno hat letzte Nacht die Treppe genommen. Eine Treppe. Allein. Ohne dass ich ihn tragen musste. Zum ersten Mal seit dem Hauptbahnhof. || 한 문장만 할게요. 어젯밤에 브루노가 계단을 올라갔어요. 한 층요. 혼자서요. 내가 안아 주지 않아도요. 중앙역 이후 처음으로요.
+Edith: Und ich? Muss ich auch? Ich habe keine Rede. Ich habe nur eine Frage. An alle. Wie viele Menschen wohnen heute in diesem Haus? || 그럼 나는? 나도 해야 돼? 연설은 없어. 질문 하나뿐이야. 모두에게. 오늘 이 집에 몇 명이 살고 있지?
+Can: Einundvierzig. Mit Kovalenkos, Nele, Mila und Wojtek. Ohne Bruno. Ohne den Fuchs. Und im November zweiundvierzig. || 마흔한 명이요. 코발렌코 가족, 넬레 이모, 밀라, 보이텍 아저씨까지요. 브루노 빼고요. 여우 빼고요. 그리고 11월엔 마흔두 명이요.
+Edith: Einundvierzig. Vor einem Jahr waren es fünfunddreißig. Und man wollte uns alle rauswerfen. Heute sind es mehr. Nicht weniger. Das ist meine Rede. Ein Haus, in dem es mehr werden. Nicht weniger. Prost. || 마흔한 명. 일 년 전엔 서른다섯이었어. 그리고 다들 쫓아내려 했지. 오늘은 더 많아. 줄어든 게 아니라. 그게 내 연설이야. 사람이 줄지 않고 늘어나는 집. 건배.
+Kalle: Auf das Haus! || 집을 위하여!
+Frau Lehmann: Auf uns! || 우리를 위하여!
+Frau Schulze: Und guckt euch in die Augen. Beim Anstoßen. Sonst sieben Jahre Unglück. Das ist kein Aberglaube. Das ist Statistik. Fast. || 그리고 잔 부딪칠 때 눈을 마주쳐. 안 그러면 칠 년 동안 불운이야. 미신이 아니야. 통계지. 거의.
+## Acht Uhr: Musik | 여덟 시: 음악
+Max: Guten Abend, Eckhaus! Erster Song. Ein Wunsch. Von Edith. Für einen Gast mit kleinem Hut. Und seine Begleitung. Kein ABBA. Versprochen. || 안녕하세요, 에크하우스! 첫 곡. 신청곡이에요. 에디트 할머니가요. 작은 모자 쓰신 손님과 그 일행을 위해. 아바는 없어요. 약속했죠.
+Plattensammler: Sie haben es nicht vergessen. Frau Krüger. Und sie ist mitgekommen. Meine … wir versuchen es noch einmal. Ohne „Dancing Queen". || 안 잊으셨네요. 크뤼거 부인. 그리고 그 사람도 같이 왔어요. 제… 우리 다시 한번 해 보기로 했어요. „댄싱 퀸" 없이요.
+Max: „Alt wie ein Baum". Die Puhdys. Die Platte von neunzehnhundertvierundsiebzig. Aus Cottbus. Im Paket. Mit Socken. Original. Nicht digital. Die echte. || „나무처럼 늙어". 푸디스. 1974년 판이에요. 코트부스에서 왔죠. 소포로요. 양말이랑 같이요. 원본이에요. 디지털 말고요. 진짜예요.
+Lukas: Darf ich mitspielen? Auf der Gitarre? Ich kann das Lied. Oma hat es mir beigebracht. Am Telefon. Mit zwölf. Ich habe es damals gehasst. || 같이 쳐도 돼요? 기타로요? 저 그 노래 알아요. 할머니가 가르쳐 주셨어요. 전화로요. 열두 살 때요. 그땐 그게 싫었어요.
+Edith: Und jetzt? || 그럼 지금은?
+Lukas: Jetzt ist es das einzige Lied, das ich ohne Noten kann. || 지금은 악보 없이 칠 수 있는 유일한 노래예요.
+Renate: Ingrid. Tanzt du? Mit mir? Wie neunzehnhundertachtundsiebzig? Auf Mamas Geburtstag? Du hast mir auf den Fuß getreten. Dreimal. || 잉그리트. 춤출래? 나랑? 1978년처럼? 엄마 생신 때처럼? 너 내 발을 밟았잖아. 세 번이나.
+Frau Schulze: Viermal. Das vierte Mal war Absicht. Weil du gesagt hast, mein Kleid ist hässlich. … Ja. Ich tanze. Mit dir. Und ich trete dir nicht auf den Fuß. Diesmal nicht. Versprochen. || 네 번이야. 네 번째는 일부러였어. 언니가 내 원피스 못생겼다고 해서. …응. 출게. 언니랑. 그리고 이번엔 발 안 밟을게. 이번엔. 약속해.
+Paul: Edith. Darf ich? Ich habe ein Jahr gewartet. Seit der Nacht vor dem Ersten Mai. Da hast du mit Max getanzt. Und mit Herrn Krämer. Und mit Günter. Und mit Kalle. Nie mit mir. || 에디트 할머니. 한 곡 청해도 될까요? 일 년을 기다렸어요. 5월 1일 전야부터요. 그땐 막스랑 추셨죠. 크래머 할아버지랑도. 귄터 할아버지랑도. 칼레 아저씨랑도. 저랑은 한 번도 안 추셨어요.
+Edith: Weil du nie gefragt hast, Paul. Ein Jahr lang hast du gefragt, ob ich Hilfe brauche. Mit der Treppe. Mit den Einkäufen. Mit dem Telefon. Nie, ob ich tanzen will. Jetzt hast du gefragt. Ich führe. || 네가 한 번도 안 물어봤으니까, 파울. 일 년 동안 너는 도움이 필요하냐고만 물었지. 계단이며. 장 보기며. 전화며. 춤추고 싶냐고는 한 번도 안 물었어. 이제 물었구나. 내가 리드할게.
+## Neun Uhr: hinter dem Tresen | 아홉 시: 카운터 뒤에서
+Herr Pietsch: Jana. Ein Pils. Bitte. Freitags kommt es von dir. Aber heute ist Samstag. Darf heute … darf heute Kalle? Einmal? Zum Abschied? || 야나. 필스 한 잔. 부탁해. 금요일엔 네가 따르잖아. 그런데 오늘은 토요일이야. 오늘은… 칼레가 따라도 될까? 한 번만? 작별 기념으로?
+Jana: Papa. Hinter den Tresen. Zehn Minuten. Ausnahmsweise. Das ist eine Gastgenehmigung. Mündlich. || 아빠. 카운터 뒤로요. 십 분이요. 예외로요. 이건 손님 허가예요. 구두로요.
+Kalle: Zehn Minuten. Und das Glas. Kalt. Nicht nass. Schräg. Bis zwei Drittel. Warten. … Weißt du, wie sich das anfühlt? Nach elf Tagen? Als würde ich mein altes Fahrrad fahren. Es geht noch. Aber es ist nicht mehr meins. || 십 분이라. 그리고 잔. 차갑게. 젖지 않게. 비스듬히. 삼분의 이까지. 기다리고. …이게 어떤 기분인지 알아? 십일 일 만에? 옛날 자전거를 타는 것 같아. 아직 탈 줄은 알아. 그런데 이제 내 것이 아니야.
+Jana: Es ist noch deins. Es steht nur bei mir. Wie das Sofa bei Paul. || 아직 아빠 거예요. 그냥 저한테 있는 거예요. 파울 오빠네 소파처럼요.
+Herr Pietsch: Sieben Minuten. Die Krone. Zwei Finger. Fest. Wie Sahne. … Und? Was sagt der Prüfer? Hm. || 칠 분. 거품 왕관. 손가락 두 개. 단단하게. 생크림처럼. …그래서? 심사관 의견은? 흠.
+Kalle: Hm? Was heißt hm, Günter? || 흠? 흠이 무슨 뜻이야, 귄터?
+Herr Pietsch: Es ist genauso gut wie das von Jana. Nicht besser. Genauso. Das ist das Beste, was ich über eine Übergabe sagen kann. || 야나 거랑 똑같이 좋아. 더 낫지 않아. 똑같아. 그게 인계에 대해 내가 할 수 있는 최고의 말이야.
+Kalle: Genauso gut. … Dann bin ich zufrieden. Dann kann ich mich wieder hinsetzen. Auf meinen Hocker. Mit Messingschild. Jana. Die zehn Minuten sind um. Ich gehe freiwillig. || 똑같이 좋다라. …그럼 만족해. 그럼 다시 앉아도 되겠다. 내 의자에. 놋쇠 이름표 달린. 야나. 십 분 지났어. 자진해서 나갈게.
+Jana: Du hast noch zwei Minuten. || 아직 이 분 남았어요.
+Kalle: Die schenke ich dir. Für den nächsten Ruhetag. || 그건 너한테 줄게. 다음 쉬는 날을 위해서.
+## Mitternacht: an der Tür | 자정: 문가에서
+Dr. Albrecht: Kalle. Mein Zug geht morgen früh. Um sechs. Ich schlafe im Hotel am Kanal. Das mit den Schrippen. || 칼레. 내 기차는 내일 아침이야. 여섯 시. 운하 옆 호텔에서 자. 슈리페 받는 그 호텔.
+Kalle: Das Hotel kriegt die Schrippen erst nach uns. Seit ich Frau Yılmaz Blumen schicke. Sag Bescheid, wenn sie altbacken sind. || 그 호텔은 우리 다음에야 슈리페를 받아. 내가 윌마즈 부인한테 꽃 보낸 뒤로. 딱딱하면 말해.
+Dr. Albrecht: Kalle. Darf ich noch etwas sagen? Ohne Excel? || 칼레. 하나만 더 말해도 돼? 엑셀 없이?
+Kalle: Ohne Excel darfst du alles sagen. || 엑셀 없이라면 뭐든 말해도 돼.
+Dr. Albrecht: In Barmbek gibt es ein Haus. Einundsechzig Wohnungen. Der Eigentümer will verkaufen. Die Mieter haben Angst. Sie haben mich gefragt, wie das geht. Eine Genossenschaft. Ich habe gesagt: Ich kenne eine Kneipe in Neukölln. Die wissen, wie es geht. Darf ich ihnen Ingrids Nummer geben? || 바름베크에 집이 하나 있어. 예순한 가구. 소유주가 팔고 싶어 해. 세입자들이 겁먹었지. 나한테 어떻게 하냐고 묻더라. 협동조합 말이야. 그래서 말했어. 노이쾰른에 크나이페 하나를 안다고. 거기 사람들은 방법을 안다고. 잉그리트 번호 줘도 될까?
+Frau Schulze: Sie steht auf dem Transparent, Herr Doktor. „Es geht. Fragt uns, wie." Ich habe schon vierzehn Anrufe protokolliert. Seit dem Ersten Mai. Aus Wedding. Aus Moabit. Aus Leipzig. Einer aus Hamburg. Das waren dann wohl Ihre Leute. || 그건 현수막에 있어요, 박사님. „할 수 있어요. 어떻게 하는지 물어보세요." 5월 1일 이후로 벌써 전화 열네 통을 기록했어요. 베딩에서. 모아비트에서. 라이프치히에서. 함부르크에서도 한 통이요. 그게 박사님 사람들이었나 보네요.
+Dr. Albrecht: … Das waren meine Leute. Sie haben schon angerufen. Ohne mich. Gut so. Dann bin ich nicht mehr nötig. Das ist das schönste Gefühl, das ein Finanzvorstand haben kann. || …제 사람들이었네요. 벌써 전화했군요. 저 없이도요. 잘됐네요. 그럼 저는 더 이상 필요 없네요. 그게 재무 이사가 가질 수 있는 제일 좋은 기분이에요.
+Frau Wendt: Herr Kowalski. Ich gehe auch. Ich nehme den Nachtzug. Zurück nach Zürich. Darf ich nächstes Jahr wiederkommen? An den Tisch am Fenster? || 코발스키 씨. 저도 가요. 야간열차 타요. 취리히로 돌아가요. 내년에 다시 와도 될까요? 창가 테이블로요?
+Kalle: Das Schild bleibt. „Bis auf Weiteres." Das ist Behördendeutsch. Das heißt: für immer. Fast. || 팻말은 그대로 둘게요. „별도 통지 시까지." 그건 관청 말투예요. 영원히라는 뜻이죠. 거의요.
+Frau Wendt: Mein Vater hätte gelacht. Er hat nie gelacht. Hier vielleicht schon. Und ich habe es nicht gewusst. Gute Nacht. Und danke, dass Sie nicht an Investoren verkauft haben. Ach nein. Das war ich. Danke, dass Sie mich gelassen haben. || 아버지라면 웃으셨을 거예요. 한 번도 웃지 않던 분이었는데요. 여기서는 웃으셨을지도 모르죠. 그리고 저는 몰랐고요. 안녕히 계세요. 그리고 투자자한테 팔지 않아 주셔서 고마워요. 아, 아니다. 판 건 저죠. 제가 그렇게 하게 해 주셔서 고마워요.
+## Halb eins: auf dem Dach | 열두 시 반: 지붕 위에서
+Derya: Can. Wo ist Edith? Ich habe sie seit zehn Minuten nicht gesehen. Die Gäste sind weg. || 잔. 에디트 할머니 어디 계셔? 십 분째 안 보이시는데. 손님들은 다 갔고.
+Can: Auf dem Gerüst. Herr Brandt hat sie hochgefahren. Mit der Hebebühne. Zum letzten Mal. Am Montag kommt das Gerüst weg. Sie wollte die Module sehen. Im Dunkeln. Ich bin mit. Mit Gurt. || 비계 위에요. 브란트 할아버지가 올려 드렸어요. 리프트로요. 마지막으로요. 월요일에 비계 철거한대요. 모듈을 보고 싶으셨대요. 어둠 속에서요. 저도 같이 왔어요. 벨트 매고요.
+Edith: Guck, Can. Achtzig Module. Sie schlafen. Morgen früh wachen sie auf. Um fünf. Vor allen anderen. Wie ich früher. Fünfundzwanzig Jahre lang. Um vier Uhr aufgestanden. Für die erste Schicht. || 봐, 잔. 모듈 여든 장. 자고 있어. 내일 아침이면 깰 거야. 다섯 시에. 다른 누구보다 먼저. 예전의 나처럼. 이십오 년 동안. 새벽 네 시에 일어났지. 첫 근무를 위해서.
+Can: Die Module sind wie du. Sie arbeiten, wenn alle schlafen. Und keiner sieht es. || 모듈은 할머니 같아요. 다들 잘 때 일하고. 아무도 몰라요.
+Edith: Und unten feiern sie. Hörst du? Max spielt Techno. Ingrid hat sich nicht beschwert. Es ist nach Mitternacht. Sie tanzt. Mit ihrer Schwester. Das hätte ich vor einem Jahr nicht geglaubt. Nichts davon. || 그리고 아래선 잔치하고 있지. 들려? 막스가 테크노를 틀고 있어. 잉그리트는 항의 안 했고. 자정이 넘었는데. 춤추고 있어. 자기 언니랑. 일 년 전이었으면 안 믿었을 거야. 그중 어느 것도.
+Can: Edith. Ich habe eine Frage. Für das Archiv. Die letzte für heute. Was war der schönste Moment? In dem ganzen Jahr? || 에디트 할머니. 질문 하나 있어요. 기록 보관소용으로요. 오늘의 마지막 질문이요. 이 한 해 동안 제일 아름다웠던 순간은 뭐였어요?
+Edith: Der schönste? … Nicht der Notar. Nicht das Grundbuch. Nicht der erste April. Der schönste war im März. Als du auf der Treppe gesessen hast. Zwischen dem zweiten und dem dritten Stock. Mit deinem Zeugnis. Und geweint hast. Und ich dich gefunden habe. Weil ich die Treppe hochgegangen bin. Langsam. Und du hast gesagt: Edith, du bist ja auch nur auf halbem Weg. Und ich habe gesagt: Dann gehen wir den Rest zusammen. || 제일 아름다웠던 거? …공증인도 아니고. 등기부도 아니고. 4월 1일도 아니야. 제일 아름다웠던 건 3월이야. 네가 계단에 앉아 있었을 때. 3층이랑 4층 사이에. 성적표 들고. 울고 있었지. 그리고 내가 너를 찾았어. 계단을 올라가고 있었으니까. 천천히. 그리고 네가 그랬지. 에디트 할머니도 겨우 중간까지밖에 못 왔잖아요. 그리고 내가 그랬지. 그럼 나머지는 같이 가자.
+Can: Im Januar. Nicht im März. Du hast dich geirrt. Fast. || 1월이에요. 3월 말고요. 틀리셨어요. 거의요.
+Edith: Ich bin vierundachtzig, Can. Ich darf mich um zwei Monate irren. Aber nicht um den Moment. || 나 여든넷이야, 잔. 두 달쯤은 틀려도 돼. 그래도 그 순간은 안 틀려.
+Hans: So, ihr zwei. Ich muss euch runterholen. Meine Knie sind achtzig. Und die Hebebühne ist einunddreißig. Wir sind alle müde. || 자, 두 사람. 이제 내려가야 해요. 내 무릎이 여든이에요. 그리고 리프트는 서른하나고요. 다들 피곤하죠.
+Edith: Noch eine Minute, Herr Brandt. Bitte. Ich will noch etwas sehen. Den Fernsehturm. Er blinkt. Und dahinter … dahinter ist der Wedding. Da bin ich geboren. Und da drüben, irgendwo, ist Bornholmer Straße. || 일 분만 더요, 브란트 씨. 부탁해요. 하나만 더 보고 싶어요. 텔레비전 탑이요. 깜빡이네요. 그리고 그 뒤에… 그 뒤가 베딩이에요. 내가 태어난 데요. 그리고 저 너머 어딘가에 보른홀머 거리가 있고요.
+Hans: Sie sehen von hier fast ganz Berlin. Ich habe sechzig Jahre auf Dächern gestanden. Ich kenne die Stadt nur von oben. Und wissen Sie was? Von oben sieht man keine Grenzen. Man sieht nur Dächer. Und auf manchen sitzen jetzt Module. || 여기서 베를린이 거의 다 보여요. 나는 육십 년을 지붕 위에 서 있었어요. 이 도시를 위에서만 알죠. 그리고 그거 알아요? 위에서는 경계가 안 보여요. 지붕만 보이죠. 그리고 그중 몇몇엔 이제 모듈이 앉아 있고요.
+Can: Herr Brandt. Für mein Archiv. Wie viele Dächer haben Sie gemacht? In sechzig Jahren? || 브란트 할아버지. 제 기록 보관소용으로요. 육십 년 동안 지붕을 몇 개나 만드셨어요?
+Hans: Elfhundert. Ungefähr. Und das hier ist das letzte. Mein letztes Dach. Ab Montag bin ich wieder in Rente. Zum zweiten Mal. Diesmal endgültig. Mein Sohn macht weiter. || 천백 개. 대충. 그리고 이게 마지막이야. 내 마지막 지붕. 월요일부터 다시 은퇴야. 두 번째로. 이번엔 진짜로. 아들이 이어서 할 거고.
+Edith: Ihr letztes Dach. Und meine letzte Fahrt nach oben. Dann haben wir beide heute etwas abgeschlossen. Mit Aussicht. || 당신의 마지막 지붕이라. 그리고 내 마지막 위로의 여행이고. 그럼 우리 둘 다 오늘 뭔가를 마무리한 거네요. 전망까지 곁들여서.
+Hans: Nein, Frau Krüger. Wenn die Module kaputt gehen, in fünfundzwanzig Jahren, dann komme ich wieder. Mit hundertfünf. Und hole Sie ab. Mit hundertneun. Abgemacht? || 아니에요, 크뤼거 부인. 이십오 년 뒤에 모듈이 고장 나면 다시 올게요. 백다섯 살에요. 그리고 모시러 올게요. 백아홉 살 되신 분을요. 약속이죠?
+Edith: Abgemacht. Aber nicht vorher feiern. || 약속해요. 그래도 미리 축하하진 말고요.
+Can: Edith. Ich schreibe es auf. „Zwölfter Juni. Herr Brandt holt Edith im Jahr zweitausendzweiundfünfzig ab." Ordner „Termine". Ganz hinten. || 에디트 할머니. 적어 둘게요. „6월 12일. 브란트 할아버지가 2052년에 에디트 할머니를 모시러 옴." ‚약속' 서류철에요. 맨 뒤에요.
+Derya: Can! Edith! Runter! Sofort! Es ist halb eins! Und du hast morgen … nein. Morgen ist Sonntag. Gut. Dann eine Minute. Aber nur eine. || 잔! 에디트 할머니! 내려와요! 당장요! 열두 시 반이에요! 그리고 너 내일… 아니다. 내일 일요일이구나. 좋아. 그럼 일 분만. 딱 일 분만이야.
+Edith: Eine Minute. Mehr brauche ich nicht. Sieh mal, Can. Da unten. Das Licht in Pauls Fenster. Die grüne Lampe. Sie brennt noch. || 일 분이면 돼. 더는 필요 없어. 봐, 잔. 저 아래. 파울네 창문 불빛. 초록 스탠드야. 아직 켜져 있어.
