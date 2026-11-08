@@ -1,0 +1,149 @@
+#nr: 6
+#part: 1부 Frühling (봄)
+#title: Oma Edith wird dreiundachtzig
+#ko: 에디트 할머니의 여든세 번째 생일 · 안마당의 커피와 케이크
+#level: A2~B1
+#setting: 4월 17일 금요일 저녁과 4월 18일 토요일 오후. 에디트의 83번째 생일이다. 독일에서는 생일 전에 미리 축하하면 불운을 부른다고 여겨, 하루 일찍 축하한 파울이 혼쭐이 난다. 토요일 오후 세 시, 이웃들이 안마당에 테이블을 펴고 커피와 케이크(Kaffee und Kuchen)를 준비한다. 코트부스 요양원에 사는 언니 기젤라와 영상통화도 한다. 표현 초점: 축하 표현, 서수·날짜, 가족 호칭.
+#cast: Edith | 에디트 크뤼거 · 83세 생일을 맞은 최고참 세입자
+#cast: Paul | 파울 호프만 · 27세
+#cast: Kalle | 칼레 코발스키 · 58세, 크나이페 주인
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Derya | 데르야 이을드즈 · 40세
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Gisela | 기젤라 · 86세, 에디트의 언니, 코트부스 요양원 거주 (영상통화)
+#read: 서수 -te/-ste: der achtzehnte [ˈaxtseːntə], der dreiundachtzigste [ˈdʁaɪ̯ʔʊntʔaxtsɪçstə]. 20 이상은 -ste. und 앞뒤 성문 폐쇄음을 살린다.
+#read: Geburtstag [ɡəˈbuːɐ̯tstaːk] — r는 모음화, -tst- 자음 덩어리를 뭉개지 말고 또박또박.
+#read: 노래 „Zum Geburtstag viel Glück"은 Glück의 ü를 길게 끌지 말고 짧게 [ʏ].
+#read: Neunzehnhundertdreiundvierzig — 연도는 '열아홉 백 마흔셋'으로 읽는다. 2000년 이후는 zweitausend…
+#note: Herzlichen Glückwunsch zum Geburtstag! / Alles Gute zum Geburtstag! / Alles Liebe! — 생일 축하 세 가지. 친한 사이엔 Alles Gute!만으로 충분하다.
+#note: Nicht vorher gratulieren! — 독일에서는 생일 전에 축하하면 불길하다고 여긴다. 생일이 지난 뒤 늦게 축하하는 것(nachträglich)은 괜찮다: „Alles Gute nachträglich!"
+#note: 날짜: Heute ist der achtzehnte April. (1격) / Ich bin am achtzehnten April geboren. (am + 3격, -ten) / Berlin, den 18.04. (편지·서식)
+#note: 가족 호칭: die Schwester(자매), die Nichte(조카딸), der Neffe(조카), der Großneffe(조카의 아들), die Enkelin(손녀). 독일어에는 '언니/누나'의 구별이 없어 나이를 말하려면 ältere/jüngere Schwester라고 한다.
+#note: Wer Geburtstag hat, gibt einen aus. — 생일인 사람이 한턱내는 것이 독일 관습이다. 그래서 칼레가 가게 쪽 비용을 대겠다며 실랑이를 벌인다.
+## Freitagabend auf der Treppe | 금요일 저녁, 계단에서
+Paul: Guten Abend, Frau Krüger! Morgen ist Ihr Geburtstag, oder? Alles Gute! || 안녕하세요, 크뤼거 부인! 내일이 생신이시죠? 축하드려요!
+Edith: Halt! Halt, halt, halt! Junger Mann, was machen Sie da? || 잠깐! 잠깐, 잠깐! 젊은이, 지금 뭐 하는 거예요?
+Paul: Ich … gratuliere Ihnen? || 저… 축하드리는 건데요?
+Edith: Heute ist der siebzehnte April. Mein Geburtstag ist morgen. Am achtzehnten. || 오늘은 4월 17일이에요. 내 생일은 내일이고요. 18일.
+Paul: Ja, deshalb sage ich ja: morgen. Alles Gute für morgen. || 네, 그래서 말씀드리잖아요. 내일요. 내일을 위해 축하드려요.
+Edith: Man gratuliert nie vorher. Nie! Das bringt Unglück. || 미리 축하하는 거 아니에요. 절대로! 그건 불운을 불러요.
+Paul: Wirklich? Das wusste ich nicht. In Cottbus … ach, in Cottbus ist das bestimmt auch so. || 정말요? 그건 몰랐어요. 코트부스에선… 아, 코트부스도 분명 그렇겠네요.
+Edith: In ganz Deutschland ist das so. Auch in Cottbus. || 독일 전체가 다 그래요. 코트부스도요.
+Paul: Oh nein. Was mache ich jetzt? Kann ich das zurücknehmen? || 아이고. 이제 어떡하죠? 취소할 수 있나요?
+Edith: Sie können es versuchen. Sagen Sie: Ich habe nichts gesagt. || 해 볼 수는 있지요. 이렇게 말해요. 나는 아무 말도 안 했다.
+Paul: Ich habe nichts gesagt. Gar nichts. Ich habe Sie nur gegrüßt. || 저는 아무 말도 안 했습니다. 하나도요. 인사만 드렸어요.
+Edith: Gut. Und jetzt dreimal auf Holz klopfen. Hier, das Geländer ist aus Holz. || 좋아요. 이제 나무를 세 번 두드려요. 여기, 난간이 나무예요.
+Paul: Eins, zwei, drei. So? || 하나, 둘, 셋. 이렇게요?
+Edith: So. Jetzt habe ich wieder eine Chance auf dreiundachtzig. || 그렇지. 이제 다시 여든셋이 될 기회가 생겼네.
+Paul: Glauben Sie das wirklich, Frau Krüger? || 그거 정말 믿으세요, 크뤼거 부인?
+Edith: Nein. Aber mit zweiundachtzig macht man keine Experimente. || 아니요. 하지만 여든둘에는 실험 같은 거 안 하는 거예요.
+Paul: Kommen morgen viele Leute? || 내일 사람들 많이 와요?
+Edith: Herr Kowalski macht Kaffee und Kuchen im Hof. Um drei. Sie sind natürlich eingeladen. || 코발스키 씨가 안마당에서 커피랑 케이크를 준비한대요. 세 시에. 당신도 당연히 초대예요.
+Paul: Danke! Dann gratuliere ich morgen. Zum richtigen Zeitpunkt. || 감사합니다! 그럼 내일 축하드릴게요. 제때에요.
+Edith: Ab null Uhr dürfen Sie. Aber bitte nicht klingeln. Ich schlafe dann. || 자정부터는 해도 돼요. 대신 초인종은 누르지 마요. 그때는 자고 있으니까.
+## Samstag, Viertel vor drei | 토요일, 두 시 사십오 분
+Kalle: Bine, der Tisch steht schief. Links ist er höher. || 비네, 테이블이 기울었어. 왼쪽이 더 높아.
+Bine: Der Hof ist schief, Kalle. Nicht der Tisch. || 안마당이 기운 거야, 칼레. 테이블 말고.
+Kalle: Dann leg einen Bierdeckel drunter. || 그럼 맥주 받침을 하나 끼워.
+Bine: Schon gemacht. Zwei Bierdeckel. Was gibt es für Kuchen? || 벌써 했지. 받침 두 개. 케이크는 뭐 있어?
+Kalle: Bienenstich vom Bäcker. Und Käsekuchen von Frau Schulze. Selbst gemacht. || 빵집에서 산 비넨슈티히. 그리고 슐체 부인이 직접 만든 치즈케이크.
+Frau Schulze: Guten Tag. Hier ist der Käsekuchen. Bitte vorsichtig, er ist noch warm. || 안녕하세요. 여기 치즈케이크요. 조심하세요, 아직 따뜻해요.
+Kalle: Frau Schulze, der riecht ja wunderbar! || 슐체 부인, 냄새 정말 끝내주네요!
+Frau Schulze: Das Rezept ist von meiner Mutter. Seit fünfzig Jahren dasselbe. || 우리 어머니 레시피예요. 오십 년째 똑같아요.
+Bine: Wie viele Stücke sind das? || 몇 조각이에요?
+Frau Schulze: Zwölf. Für zwölf Gäste. Ich habe gezählt. || 열두 조각이요. 손님 열두 명이니까요. 세어 봤어요.
+Frau Schulze: Herr Kowalski, wer kommt alles? || 코발스키 씨, 누구누구 와요?
+Kalle: Wir drei. Derya und Can. Tobi. Der junge Paul. Und ein paar alte Freundinnen von Edith. || 우리 셋. 데르야랑 잔. 토비. 젊은 파울. 그리고 에디트의 오랜 친구분들 몇 명.
+Frau Schulze: Und ihre Familie? || 가족은요?
+Kalle: Sie hat nur noch ihre Schwester. In Cottbus, im Pflegeheim. Gisela. Sie ist sechsundachtzig. || 언니 한 분만 남으셨어요. 코트부스 요양원에요. 기젤라. 여든여섯이에요.
+Bine: Wir machen nachher einen Videoanruf mit ihr. Die Nichte hilft im Heim. || 이따가 그분이랑 영상통화 하기로 했어. 요양원에서 조카딸이 도와준대.
+Frau Schulze: Wie schön. Welcher Tag ist heute? Der achtzehnte? || 잘됐네요. 오늘이 며칠이죠? 18일이죠?
+Kalle: Der achtzehnte April. Samstag. || 4월 18일. 토요일이요.
+Frau Schulze: Dann schreibe ich das Datum auf die Karte. Berlin, den achtzehnten April. || 그럼 카드에 날짜를 쓸게요. 베를린, 4월 18일.
+Bine: Sie schreiben das Datum auf eine Geburtstagskarte? || 생일 카드에 날짜를 쓰신다고요?
+Frau Schulze: Selbstverständlich. Ordnung muss sein. || 당연하죠. 질서는 있어야죠.
+## Herzlichen Glückwunsch! | 생일 축하해요!
+Edith: Oh! Was ist denn hier los? Ein Fest im Hof? || 어머! 여기 무슨 일이래요? 안마당에서 잔치를?
+Kalle: Herzlichen Glückwunsch zum Geburtstag, Frau Krüger! || 생신 축하드려요, 크뤼거 부인!
+Edith: Danke, Herr Kowalski! Jetzt dürfen Sie. Es ist der richtige Tag. || 고마워요, 코발스키 씨! 이제는 해도 돼요. 제날이니까.
+Derya: Alles Gute, Edith! Alles Liebe und viel Gesundheit! || 축하해요, 에디트! 사랑을 담아서, 건강하세요!
+Edith: Danke, Derya. Gesundheit ist das Wichtigste in meinem Alter. || 고마워요, 데르야. 내 나이엔 건강이 제일 중요하지.
+Can: Frau Krüger, ich habe eine Karte für Sie gemalt. || 크뤼거 할머니, 할머니 드리려고 카드 그렸어요.
+Edith: Für mich? Zeig mal her. Was ist das? Ein Bus? || 나한테? 어디 보자. 이게 뭐니? 버스?
+Can: Ja! Ein gelber BVG-Bus. Mama hat gesagt, Sie sind früher Bus gefahren. || 네! 노란 BVG 버스요. 엄마가 할머니 예전에 버스 운전하셨다고 했어요.
+Edith: Das stimmt. Fünfundzwanzig Jahre lang. Linie neunzehn und dann Linie neunundzwanzig. || 맞아. 이십오 년 동안. 19번 노선, 그다음엔 29번 노선.
+Can: Und da sind Sie! Am Steuer. Mit Mütze. || 그리고 여기 할머니예요! 운전대 잡고. 모자 쓰고.
+Edith: Mit Mütze. Ganz genau. Can, das ist die schönste Karte von heute. || 모자 쓰고. 딱 맞아. 잔, 오늘 받은 카드 중에 이게 제일 예쁘다.
+Can: Sie haben doch erst eine Karte bekommen. || 아직 카드 하나밖에 안 받으셨잖아요.
+Edith: Dann ist sie die schönste und die erste. || 그럼 제일 예쁘고 첫 번째 카드구나.
+Derya: Und hier ist noch eine Kleinigkeit von uns. Tee aus Rize. Vom Schwarzen Meer. || 그리고 이건 저희가 드리는 작은 선물이에요. 리제 차예요. 흑해 지방 거요.
+Edith: Türkischer Tee! Den trinke ich gern. Danke, ihr Lieben. || 튀르키예 차! 이거 좋아하는데. 고마워요, 다들.
+Kalle: So, Frau Krüger, setzen Sie sich. Hier, der Ehrenplatz. Mit Kissen. || 자, 크뤼거 부인, 앉으세요. 여기 상석이에요. 쿠션도 있어요.
+Edith: Ein Kissen? Bin ich eine Königin? || 쿠션까지? 내가 여왕이에요?
+Bine: Heute schon. Heute sind Sie die Königin vom Hinterhof. || 오늘은 그래요. 오늘은 뒷마당의 여왕님이에요.
+Edith: Dann möchte ich als Königin Kaffee. Mit viel Milch. || 그럼 여왕으로서 커피를 명하노라. 우유 많이.
+Kalle: Kommt sofort, Majestät. || 바로 대령합니다, 폐하.
+## Dreiundachtzig Jahre | 여든세 해
+Paul: Herzlichen Glückwunsch, Frau Krüger. Heute zum richtigen Zeitpunkt. || 생신 축하드려요, 크뤼거 부인. 오늘은 제때 하는 거예요.
+Edith: Danke, Herr Hoffmann. Und gestern? || 고마워요, 호프만 씨. 그럼 어제는요?
+Paul: Gestern habe ich nichts gesagt. Gar nichts. || 어제는 아무 말도 안 했어요. 하나도요.
+Edith: Sehr gut. Sie lernen schnell. || 아주 좋아요. 빨리 배우네.
+Can: Frau Krüger, wann sind Sie geboren? || 크뤼거 할머니, 언제 태어나셨어요?
+Edith: Am achtzehnten April neunzehnhundertdreiundvierzig. In Berlin-Wedding. || 1943년 4월 18일. 베를린 베딩에서.
+Can: Neunzehnhundertdreiundvierzig! Da war ja noch Krieg! || 1943년이요! 그때는 아직 전쟁 중이었잖아요!
+Edith: Ja. Ich bin ein Kriegskind. Aber ich erinnere mich nicht an den Krieg. Ich war zu klein. || 그래. 나는 전쟁 때 태어난 아이야. 하지만 전쟁은 기억 안 나. 너무 어렸거든.
+Paul: Und seit wann wohnen Sie hier im Haus? || 그럼 언제부터 이 집에 사셨어요?
+Edith: Seit dem ersten März neunzehnhundertvierundsiebzig. Mein erster Tag in Neukölln. || 1974년 3월 1일부터요. 노이쾰른에서의 첫날이었지.
+Bine: Das sind … zweiundfünfzig Jahre! || 그럼… 52년이네요!
+Edith: Zweiundfünfzig Jahre im selben Haus. In derselben Wohnung. Im vierten Stock. || 같은 집에서 52년. 같은 집, 같은 4층에서.
+Can: Wie viele Treppenstufen sind das? || 계단이 몇 개예요?
+Edith: Achtundsiebzig. Ich zähle sie jeden Tag. Das ist mein Sport. || 일흔여덟 개. 매일 세요. 그게 내 운동이야.
+Edith: Ich bin die Älteste im Haus. Aber nicht die Langsamste. || 이 집에서 내가 제일 나이가 많지. 하지만 제일 느리진 않아.
+Bine: Wer ist der Langsamste? || 누가 제일 느린데요?
+Edith: Herr Kowalski. Morgens, vor dem ersten Kaffee. || 코발스키 씨. 아침에 첫 커피 마시기 전에.
+Kalle: Ick hab det gehört, Frau Krüger! || 다 들었어요, 크뤼거 부인!
+Edith: Das war auch so geplant. || 들으라고 한 말이에요.
+Can: Was war Ihr schönster Geburtstag? || 할머니가 제일 좋았던 생일은 언제예요?
+Edith: Der siebenundvierzigste. Im April neunzig. Da war die Mauer weg. Und meine Schwester war hier. Aber das ist eine lange Geschichte. || 마흔일곱 번째. 1990년 4월. 그때는 장벽이 없어졌거든. 그리고 언니가 여기 있었어. 하지만 그건 긴 이야기란다.
+## Ein Anruf aus Cottbus | 코트부스에서 온 전화
+Derya: Edith, das Handy klingelt. Es ist das Pflegeheim in Cottbus. || 에디트, 핸드폰 울려요. 코트부스 요양원이에요.
+Edith: Gisela! Paul, bitte. Wie geht das? Wo muss ich drücken? || 기젤라다! 파울, 부탁해요. 이거 어떻게 해요? 어딜 눌러야 돼요?
+Paul: Hier, auf das Grüne. Und dann halten Sie das Handy vor Ihr Gesicht. || 여기, 초록색 거요. 그리고 핸드폰을 얼굴 앞에 드세요.
+Gisela: Edith? Edith, hörst du mich? Ich sehe nur deine Nase! || 에디트? 에디트, 내 말 들려? 네 코밖에 안 보여!
+Edith: Gisela! Ja, ich höre dich. Warte, der junge Mann hilft mir. || 기젤라! 응, 들려. 잠깐, 젊은이가 도와주고 있어.
+Paul: Ein bisschen weiter weg, Frau Krüger. So ist es besser. || 조금만 더 멀리요, 크뤼거 부인. 이렇게 하는 게 나아요.
+Gisela: Jetzt sehe ich dich! Herzlichen Glückwunsch, kleine Schwester! || 이제 보인다! 생일 축하해, 우리 동생!
+Edith: Danke, Gisela. „Kleine Schwester" mit dreiundachtzig. Das sagst nur du. || 고마워, 언니. 여든셋한테 „우리 동생"이라니. 그런 말은 언니밖에 안 해.
+Gisela: Du bist drei Jahre jünger. Du bleibst immer die Kleine. || 네가 세 살 어리잖아. 너는 언제까지나 막내야.
+Edith: Wie geht es dir? Wie ist das Essen im Heim? || 언니는 어때? 요양원 밥은 어때?
+Gisela: Das Essen ist schlecht. Aber die Pflegerinnen sind gut. Und Karin besucht mich jeden Sonntag. || 밥은 별로야. 그래도 간병인들은 좋아. 그리고 카린이 일요일마다 와.
+Edith: Karin ist da? Meine Nichte? || 카린이 와 있어? 내 조카딸?
+Gisela: Sie steht neben mir. Und ihr Sohn Lukas auch. Dein Großneffe. || 내 옆에 있어. 걔 아들 루카스도. 네 조카손주.
+Edith: Lukas! Wie groß ist er jetzt? || 루카스! 이제 얼마나 컸어?
+Gisela: Größer als sein Vater. Er ist fünfzehn. Er sagt: Alles Gute, Tante Edith! || 아빠보다 더 커. 열다섯 살이야. 에디트 이모할머니, 축하드린대!
+Edith: Danke, Lukas! Gisela, um meinen Hals hängt noch dein Kettchen. Von neunzehnhundertneunundachtzig. || 고마워, 루카스! 언니, 내 목에 아직 언니 목걸이 걸려 있어. 1989년에 준 거.
+Gisela: Das trägst du noch? Nach siebenunddreißig Jahren? || 그걸 아직도 해? 서른일곱 해가 지났는데?
+Edith: Jeden Tag. Gisela, ich besuche dich im Sommer. Versprochen. || 매일 해. 언니, 여름에 보러 갈게. 약속해.
+Gisela: Mit dem Zug? Allein? Mit dreiundachtzig? || 기차 타고? 혼자? 여든셋에?
+Edith: Mit dem Zug. Und der junge Mann hier kommt aus Cottbus. Vielleicht fährt er mit. || 기차 타고. 그리고 여기 이 젊은이가 코트부스 출신이야. 어쩌면 같이 갈지도 몰라.
+## Zum Geburtstag viel Glück | 생일 축하합니다
+Kalle: So, alle zusammen! Eins, zwei, drei: Zum Geburtstag viel Glück … || 자, 다 같이! 하나, 둘, 셋. 생일 축하합니다…
+Bine: … zum Geburtstag viel Glück, zum Geburtstag, liebe Edith … || …생일 축하합니다, 사랑하는 에디트의…
+Can: … zum Geburtstag viel Glück! || …생일 축하합니다!
+Edith: Danke! Danke, ihr Lieben. Ihr singt furchtbar. Aber sehr schön. || 고마워요! 고마워요, 다들. 노래는 끔찍하게 못하네. 그래도 아주 좋았어요.
+Kalle: Frau Krüger, eine kleine Rede? || 크뤼거 부인, 한 말씀 해 주시죠?
+Edith: Eine Rede? Nein. Ich sage nur eins: Danke für dieses Haus. Und für diese Nachbarn. || 연설? 아니요. 딱 한마디만 할게요. 이 집에 감사해요. 그리고 이 이웃들한테도요.
+Frau Schulze: Sehr schön gesagt, Frau Krüger. Auf Ihr Wohl! || 아주 멋진 말씀이에요, 크뤼거 부인. 건강을 위하여!
+Bine: Auf Edith! Auf die Königin vom Hinterhof! || 에디트를 위하여! 뒷마당의 여왕님을 위하여!
+Edith: Und noch etwas: Wer Geburtstag hat, gibt einen aus. Herr Kowalski, ich bezahle den Kaffee. || 그리고 하나 더. 생일인 사람이 한턱내는 거예요. 코발스키 씨, 커피값은 내가 낼게요.
+Kalle: Auf keinen Fall. Heute bezahlen Sie nüscht. || 절대 안 돼요. 오늘은 한 푼도 안 내세요.
+Edith: Doch. Das ist Tradition. Mit Traditionen spielt man nicht. Das haben Sie gestern gesehen. || 내야지요. 그게 전통이에요. 전통 가지고 장난치는 거 아니에요. 어제 봤잖아요.
+Kalle: Okay. Dann bezahlen Sie einen Kaffee. Einen. Und den Rest bezahlt die Ecke. || 좋아요. 그럼 커피 한 잔만 내세요. 딱 한 잔. 나머지는 우리 가게가 낼게요.
+Edith: Abgemacht. Frau Schulze, Ihr Käsekuchen ist der beste in ganz Neukölln. || 그렇게 하죠. 슐체 부인, 부인 치즈케이크가 노이쾰른에서 제일 맛있어요.
+Frau Schulze: Danke. Es gibt noch zwei Stücke. Ich habe gezählt. || 고마워요. 아직 두 조각 남았어요. 세어 봤어요.
+Can: Darf ich eins haben? || 하나 먹어도 돼요?
+Frau Schulze: Wenn Frau Krüger Ja sagt. || 크뤼거 부인이 된다고 하시면.
+Edith: Heute sage ich zu allem Ja. Heute bin ich dreiundachtzig. || 오늘은 뭐든 다 좋아요. 오늘 나는 여든셋이니까.
+Derya: Dann noch ein Foto! Alle zusammen, vor dem Baum! || 그럼 사진 한 장 더! 다 같이, 나무 앞에서!
+Kalle: Und alle sagen: Käsekuchen! || 그리고 다 같이, 치즈케이크!
