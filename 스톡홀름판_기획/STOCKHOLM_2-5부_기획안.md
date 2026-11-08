@@ -49,14 +49,14 @@
 |---|---|---|---|
 | 1화 | «Fredag med berättelser» 금요일의 이야기 | 첫 금요일. Elsa가 Johan에게 왜 로펌을 떠났느냐고 묻고, Johan은 «Ett steg i taget.»으로 2015년의 대형 임대 매각 건을 이야기하기 시작한다. 같은 날 Reza 어머니 사건의 기록 정정 신청이 접수된다. | berätta, minnas, då, när, för … sedan |
 | 2화 | «Pappas byrå» 아빠의 로펌 | Johan이 아버지 Gustaf를 찾아가 2007년 서류를 묻는다. «Det var lagligt då.» 정정은 받아들여지고 Reza는 공식 사과문을 받지만, 아버지 쪽이 일부 문서를 내주지 않는다. | lagligt, ansvar, ursäkt, förlåta, ångra |
-| 3화 | «Elräkningen» 전기 요금 고지서 | 한겨울 전기요금이 치솟는다. 전화 판매로 모르는 사이 비싼 변동요금 계약에 가입된 노인들이 카페에 줄을 선다. Maja가 고지서를 한 장씩 계산한다. | elavtal, rörligt pris, faktura, kilowattimme, ångerrätt |
-| 4화 | «Revisorns tystnad» 회계사의 침묵 | 철회권과 소비자청 신고로 계약을 되돌린다. 금요일, Maja가 처음 털어놓는다: 2018년 Saltsjöbanken 감사에서 의심을 적지 않고 서명했다. 다만 이름은 아직 다 말하지 않는다. | granska, skriva under, tveka, samvete, ångra |
-| 5화 | «Luciakvällen» 루시아의 밤 | 12월 13일 루시아 행렬이 지나가는 밤, 16세 Noel이 겁에 질려 카페로 숨어든다. 1부에서 동결된 돈 때문에 갱단에 ‘빚’을 졌다는 협박을 받고 있다. | hota, skuld, rädd, gömma sig, ljus |
-| 6화 | «Pojken från Rinkeby» 링케비의 소년 | 사회복지 당국, 경찰 보호, 탈퇴 지원(avhopparverksamhet)으로 Noel의 길을 연다. 금요일, Daniel이 열여섯 살에 잃은 친구 Samir 이야기를 한다. 선정적 묘사 없이 ‘남은 사람’의 이야기로. | socialtjänsten, skydd, avhoppare, förtroende, saknad |
+| 3화 | «Luciakvällen» 루시아의 밤 | 12월 13일 루시아 행렬이 지나가는 밤, 16세 Noel이 겁에 질려 카페로 숨어든다. 1부에서 동결된 돈 때문에 갱단에 ‘빚’을 졌다는 협박을 받고 있다. | hota, skuld, rädd, gömma sig, ljus |
+| 4화 | «Pojken från Rinkeby» 링케비의 소년 | 사회복지 당국, 경찰 보호, 탈퇴 지원(avhopparverksamhet)으로 Noel의 길을 연다. 금요일, Daniel이 열여섯 살에 잃은 친구 Samir 이야기를 한다. 선정적 묘사 없이 ‘남은 사람’의 이야기로. | socialtjänsten, skydd, avhoppare, förtroende, saknad |
+| 5화 | «Elräkningen» 전기 요금 고지서 | 한겨울 전기요금이 치솟는다. 전화 판매로 모르는 사이 비싼 변동요금 계약에 가입된 노인들이 카페에 줄을 선다. Maja가 고지서를 한 장씩 계산한다. | elavtal, rörligt pris, faktura, kilowattimme, ångerrätt |
+| 6화 | «Revisorns tystnad» 회계사의 침묵 | 철회권과 소비자청 신고로 계약을 되돌린다. 크리스마스 직전 사무소 julbord(크리스마스 뷔페) 자리에서 Maja가 처음 털어놓는다: 2018년 Saltsjöbanken 감사에서 의심을 적지 않고 서명했다. 다만 이름은 아직 다 말하지 않는다. | granska, skriva under, tveka, samvete, ångra |
 | 7화 | «Ensam på julafton» 크리스마스이브에 혼자 | 두 주 동안 홈케어 직원이 열여섯 번 바뀐 Ulla-Britt. 오후 세 시 TV의 «Kalle Anka»도 혼자 본다. 사무소 사람들이 각자 크리스마스를 미루고 모인다. | hemtjänst, kontinuitet, ensamhet, julbord, Kalle Anka |
 | 8화 | «Kaféet från nittiotalet» 90년대의 카페 | 구청 담당자(biståndshandläggare)와 담당 직원 고정을 합의한다. 금요일, Biggan의 이야기: 1992년 금리가 500%까지 치솟던 위기에 남편 Leif와 카페를 열었고, Leif는 2010년 세상을 떠났다. | krisen, ränta, öppna, sorg, minnas |
-| 9화 | «Utbränd» 번아웃 | Anton이 회의 중에 쓰러진다. 같은 주, Leyla의 병가 수당이 180일째에 거절된다. ‘일반 노동시장에서 할 수 있는 일이 있다’는 이유. | sjukskriven, utbränd, avslag, arbetsförmåga, orka |
-| 10화 | «Omprövningen» 재심사 | Daniel의 소견서와 Johan의 재심사 청구로 결정이 바뀐다. 금요일, 스웽글리시 없는 Anton이 Östermalm 아버지의 기대와 성과표에 대해 말한다. | begära omprövning, läkarintyg, beslut, förväntningar, vila |
+| 9화 | «Utbränd» 번아웃 | Anton이 회의 중에 쓰러진다. 같은 주, Noel의 엄마 Jessica(허리 부상으로 반일 병가 중인 간호조무사)의 병가 수당이 180일째에 거절된다. ‘일반 노동시장에서 할 수 있는 일이 있다’는 이유. | sjukskriven, utbränd, avslag, arbetsförmåga, orka |
+| 10화 | «Omprövningen» 재심사 | 담당 의사의 새 진단서와 Johan의 재심사 청구로 Jessica의 결정이 바뀐다. 금요일, 스웽글리시 없는 Anton이 Östermalm 아버지의 기대와 성과표에 대해 말한다. | begära omprövning, läkarintyg, beslut, förväntningar, vila |
 | 11화 | «Staden som flyttar» 이사 가는 도시 | Elsa가 크리스마스 휴가 뒤 키루나로 돌아간다. 광산 때문에 할머니 Aili의 집이 철거되는데 보상이 시세보다 낮다. 사무소가 화상으로 협상을 돕고, Elsa는 메앤키엘리로 할머니와 말한다. 처음으로 Elsa 자신의 이야기. | flytta, ersättning, gruva, minoritetsspråk, hemma |
 | 12화 | «Ingrids kartong» 잉리드의 상자 | Elsa가 돌아온 날 Ingrid Falk가 상자 하나를 들고 나타나 정체를 밝힌다: 내부고발 뒤 해고된 전직 Saltsjöbanken 컴플라이언스 책임자. 상자 안에는 Saltsjöbanken–Nordhem–Ek & Wahlgren의 거래 기록, 그리고 Maja의 서명이 있다. | visselblåsare, avskedad, bevis, avslöja, lita på |
 
@@ -142,9 +142,9 @@
 | 떡밥(등장) | 단서 | 풀림 |
 |---|---|---|
 | Ek & Wahlgren의 서명 (1부 12화) | 2부 2화 아버지의 «Det var lagligt då.», 3부 8화 소송 위협 | 4부 10화 아버지의 증언 |
-| Saltsjöbanken (1부 10화) | 2부 4화 Maja의 고백, 2부 12화 Ingrid의 상자 | 3부 12화 압수수색, 4부 12화 판결, 5부 7화 항소심 |
+| Saltsjöbanken (1부 10화) | 2부 6화 Maja의 고백, 2부 12화 Ingrid의 상자 | 3부 12화 압수수색, 4부 12화 판결, 5부 7화 항소심 |
 | Ingrid Falk의 정체 (1부 9화) | 2부 내내 짧은 등장 | 2부 12화 정체 공개 |
-| Noel (1부 10화) | 2부 5~6화 협박과 탈퇴 지원 | 4부 6화 ‘돕는 아이’, 5부 6화 졸업 시험 |
+| Noel (1부 10화) | 2부 3~4화 협박과 탈퇴 지원 | 4부 6화 ‘돕는 아이’, 5부 6화 졸업 시험 |
 | 부활 인물이 돌아온 이유 | 부마다 한 명씩 늘어남 | 끝까지 밝히지 않음(베를린판 원칙). 5부 11화에서 모호한 작별만 |
 
 ## 7. 2~5부 반복 장치
@@ -154,7 +154,7 @@
 - Elsa의 ni → du — 1부 12화에서 Johan에게 처음 du. 2부부터 모두에게 du, 단 Oxenstierna에게만 끝까지 ni(서로 아는 농담).
 - Anton의 스웽글리시 카운터 — 2부 번아웃 이후 거의 0이 되고, 4부 Almedalen에서 일부러 한 번 쓰고 웃는다.
 - 카페 TV — 2부에 새 정부 출범을 짧게 언급(정당·정치인 실명 없이), 이후에는 날씨·스포츠·루시아로 시간 흐름 표시.
-- 계절 회차 — 루시아(2부 5화), 크리스마스이브(2부 7화), 발보리(4부 1화), 국경일(4부 5화), 하지(4부 7화), 휴가철(4부 9화), 첫눈(5부 11화), 루시아(5부 12화). 문화 학습 장치.
+- 계절 회차 — 루시아(2부 3화), 크리스마스이브(2부 7화), 발보리(4부 1화), 국경일(4부 5화), 하지(4부 7화), 휴가철(4부 9화), 첫눈(5부 11화), 루시아(5부 12화). 문화 학습 장치.
 
 ## 8. 집필 전 확인 사항(2~5부 추가분)
 
