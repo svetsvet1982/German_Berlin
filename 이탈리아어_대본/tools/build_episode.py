@@ -84,6 +84,12 @@ def build(src, outdir):
     if len(turns) != 120: errs.append(f'턴 수 {len(turns)} (120이어야 함)')
     if set(speakers) != set(castnames): errs.append(f'화자 {speakers} ≠ 등장인물 {castnames}')
     if not 2 <= len(speakers) <= 5: errs.append(f'화자 수 {len(speakers)}')
+    for title, items in d['scenes']:
+        prev = None
+        for t in items:
+            if t[0] == 'dir': prev = None; continue
+            if t[1] == prev: errs.append(f'같은 화자 연속 발화: {t[1]} «{t[2][:30]}»')
+            prev = t[1]
     if errs: raise SystemExit('검사 실패: ' + '; '.join(errs))
 
     doc = Document()

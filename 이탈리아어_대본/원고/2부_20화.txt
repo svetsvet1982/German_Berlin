@@ -58,6 +58,7 @@ DAVIDE: Mio padre è pescatore a Scilla. Mia madre fa le pulizie. Non so se va b
 LUCA: Per un proprietario di Monteverde? Probabilmente no. || 몬테베르데 집주인한테? 아마 안 될걸.
 DAVIDE: È ingiusto. Io lavoro. Pago. Ma per loro non basta. || 불공평해요. 저 일해요. 돈 내요. 근데 그 사람들한텐 그걸로 안 되네요.
 GIULIA: Lo so. È uno dei problemi più grandi di Roma. Gli affitti sono alti, e chi ha il contratto precario non trova niente. || 알아. 그게 로마의 제일 큰 문제 중 하나야. 월세는 비싸고, 불안정한 계약으로 일하는 사람은 아무것도 못 구해.
+DAVIDE: Prossimo. Per favore, qualcosa di normale. || 다음. 제발 좀 정상적인 걸로.
 GIULIA: Quarto: «Agenzia. Singola a San Paolo, quattrocentoventi. Commissione d'agenzia: una mensilità più IVA». || 네 번째: «중개소. 산파올로 싱글 룸, 420. 중개 수수료: 한 달 치 + 부가세».
 DAVIDE: Una mensilità più IVA? Quindi pago l'agenzia per... cosa? Per aprirmi la porta? || 한 달 치 + 부가세요? 그럼 중개소에 뭘 하라고 돈을 내요? 문 열어 주라고요?
 GIULIA: Per aprirti la porta e darti le chiavi. Circa cinquecento euro. || 문 열어 주고 열쇠 주는 값. 500유로쯤.
@@ -69,7 +70,6 @@ DAVIDE: Posto letto in doppia? Cioè dormo nella stessa stanza con un altro? || 
 GIULIA: Con un altro. Uno sconosciuto. Che magari russa. || 다른 사람이랑. 모르는 사람. 코를 골지도 모르는.
 LUCA: Perché, io russo? Tre mesi e non mi hai mai detto niente. || 왜, 내가 코 골아? 석 달 동안 한마디도 안 했잖아.
 DAVIDE: Tu russi come un trattore, Luca. Ma sei mio amico. Uno sconosciuto che russa, no. || 넌 트랙터처럼 골아, 루카. 근데 넌 내 친구잖아. 코 고는 모르는 사람은 안 돼.
-LUCA: Come un trattore! Ingrato! || 트랙터라니! 배은망덕한 녀석!
 GIULIA: Basta, voi due. Andiamo avanti. Ne mancano ventisette. || 그만해, 둘 다. 계속하자. 스물일곱 개 남았어.
 LUCA: Prova quelli senza agenzia. I privati, a volte, sono più flessibili. || 중개소 안 끼는 데로 해 봐. 개인 집주인들이 가끔 더 유연해.
 GIULIA: Ecco. Annuncio numero diciassette. Privato. «Signora affitta stanza singola a persona seria e tranquilla. Piramide. Quattrocentonovanta. Contratto regolare». || 여기. 열일곱 번째 매물. 개인. «성실하고 조용한 분께 싱글 룸 세 놓습니다. 피라미데. 490. 정식 계약».
@@ -156,7 +156,7 @@ LUCA: Te lo presto io. Ultimo favore del divano. || 내가 빌려줄게. 소파�
 - 'contratto transitorio' 1~18개월 단기 임대 계약. 'registrato' (세무서에) 신고된.
 - 'garante' 보증인. 'tempo indeterminato/determinato' 정규직/기간제. 'busta paga' 급여명세서.
 - 'commissione d'agenzia' 중개 수수료(보통 한 달 치 월세 + 부가세 IVA). 보증금·첫 달 월세까지 합치면 입주 비용이 크게 불어난다.
-- 'russare' 코를 골다. 'Ingrato!' «배은망덕한 녀석!»
+- 'russare' 코를 골다.
 - 'posto letto' 다른 사람과 방을 같이 쓰는 침대 한 자리 — 로마의 학생·청년 주거난을 상징하는 말.
 - 'Chianalea' 칼라브리아 실라의 바다 위 옛 어촌 마을. 'pesce spada' 황새치, 실라의 명물.
 - 'fare da garante' «보증인을 서다». 'ferro da stiro' 다리미, 'camicia stirata' 다린 셔츠.
