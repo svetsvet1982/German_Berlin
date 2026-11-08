@@ -1,0 +1,182 @@
+@part 5
+@ep 84
+@file Simone_si_allarga
+@title Simone si allarga
+@ko 시모네, 가게를 넓히다
+@where 비아 델 칸토네 7번지 옛 수위실 / 시모네의 수리점 / 바 '일 칸토네' / 안뜰
+@level B2~C1
+@setting 5월 26일 수요일 오전 7시~저녁 8시
+@cast SIMONE | 1층 스쿠터·자전거 수리공, 협동조합 이사, 31세
+@cast RICCARDO | 기계공학과 3학년, 시모네의 견습생, 21세
+@cast FRANCO | 바 주인, 협동조합 이사장, 62세
+@cast LOREDANA | 2층, 은퇴 교사, 협동조합 서기, 66세
+@cast MASSIMO | 리카르도의 아버지, ATAC 버스 기사, 54세
+@note 현관 왼쪽, 우편함 맞은편에 작은 문이 하나 있다. 1998년부터 잠겨 있던 옛 수위실(guardiola). 마지막 수위 이네스 부인이 은퇴한 뒤 아무도 열지 않았다. 열쇠는 카스텔라니가 넘긴 꾸러미 안에 있었다. 시모네는 그 방을 원한다. 전기 자전거를 고칠 자리, 진단 컴퓨터를 놓을 책상, 그리고 리카르도에게 줄 진짜 계약서 한 장. 견습 고용(apprendistato). 문제는 둘. 공용 공간이라 총회 결정이 필요하다는 것. 그리고 리카르도의 아버지가 아직 '엔지니어' 아들을 포기하지 않았다는 것.
+
+# 장면 1 — LA GUARDIOLA
+> 오전 7시. 현관. 시모네가 열쇠 꾸러미에서 녹슨 열쇠 하나를 골라 작은 문에 꽂는다. 리카르도가 손전등을 든다 || 오전 7시. 현관. 시모네가 열쇠 꾸러미에서 녹슨 열쇠 하나를 골라 작은 문에 꽂는다. 리카르도가 손전등을 든다
+SIMONE: Questa. «Guardiola». Scritto a mano. Sull'etichetta. Con la calligrafia di qualcuno che non c'è più. || 이거. «수위실». 손글씨로. 꼬리표에. 이젠 없는 누군가의 글씨로.
+RICCARDO: Non gira. È bloccata. Aspetta. Metti un po' di sbloccante. Ce l'hai in tasca. Ce l'hai sempre in tasca. || 안 돌아가요. 걸렸어요. 잠깐. 녹 제거제 좀 뿌려요. 주머니에 있잖아요. 늘 주머니에 있잖아요.
+SIMONE: Ce l'ho sempre. Un meccanico senza sbloccante è come un prete senza acqua santa. Ecco. Spruzza. Aspetta trenta secondi. Adesso gira piano. Piano. Non forzare. || 늘 있지. 녹 제거제 없는 정비공은 성수 없는 신부야. 자. 뿌려. 30초 기다려. 이제 천천히 돌려. 천천히. 힘주지 마.
+> 철컥. 문이 열린다. 먼지, 작은 책상, 현관 쪽으로 난 미닫이 유리창, 벽에 걸린 1998년 달력 || 철컥. 문이 열린다. 먼지, 작은 책상, 현관 쪽으로 난 미닫이 유리창, 벽에 걸린 1998년 달력
+RICCARDO: Novantotto. Il calendario. Fermo a giugno. Io non ero ancora nato. || 98년. 달력. 6월에 멈춰 있어요. 저 태어나기도 전이에요.
+SIMONE: Neanch'io andavo in bici. Guarda. Il vetro. Si apre verso l'androne. Da qui si vede chi entra. Chi esce. Chi prende la posta. || 나도 자전거 타기 전이야. 봐. 유리창. 현관 쪽으로 열려. 여기서 누가 들어오는지 보여. 누가 나가는지. 누가 우편물 가져가는지.
+RICCARDO: E qui? Che ci vuoi fare? Davvero? || 그럼 여기서? 뭐 하고 싶은 거예요? 진짜로?
+SIMONE: Le bici elettriche. La batteria, il motore, la centralina. Nel mio negozio non c'è spazio. Ci sono le Vespe. E i motorini. E le bici di mezzo palazzo. Qui metto il banco. Il computer di diagnosi. E una sedia per te. || 전기 자전거. 배터리, 모터, 제어기. 내 가게엔 자리가 없어. 베스파가 있고. 스쿠터가 있고. 건물 절반의 자전거가 있지. 여기에 작업대 놓을 거야. 진단 컴퓨터. 그리고 너 앉을 의자 하나.
+RICCARDO: Una sedia per me? Io sto sempre in piedi. Il martedì e il giovedì. Due pomeriggi. Da un anno. || 저 앉을 의자요? 전 늘 서 있잖아요. 화요일이랑 목요일. 오후 두 번. 1년째.
+SIMONE: Appunto. Basta in piedi. Basta due pomeriggi. Riccardo. Ti voglio assumere. Con un contratto. Apprendistato. Tre anni. Con lo stipendio, i contributi, le ferie e un tutor. Il tutor sono io. || 그러니까. 서 있는 거 그만. 오후 두 번도 그만. 리카르도. 너 고용하고 싶어. 계약서로. 견습 고용. 3년. 월급, 연금 보험료, 휴가, 그리고 지도 교사까지. 지도 교사는 나고.
+> 리카르도가 손전등을 떨어뜨린다. 손전등이 굴러 책상 밑에서 무언가를 비춘다. 두꺼운 공책 한 권 || 리카르도가 손전등을 떨어뜨린다. 손전등이 굴러 책상 밑에서 무언가를 비춘다. 두꺼운 공책 한 권
+RICCARDO: ... Un contratto. Un contratto vero. E mio padre? || … 계약서. 진짜 계약서. 그럼 우리 아빠는요?
+SIMONE: Tuo padre è il problema numero due. Il problema numero uno è l'assemblea. Questa stanza non è mia. È di tutti. Deve decidere la cooperativa. Prendi il quaderno. Vediamo che cos'è. || 너희 아빠는 문제 2번이야. 문제 1번은 총회고. 이 방은 내 게 아니야. 모두의 거지. 협동조합이 정해야 돼. 공책 집어. 뭔지 보자.
+RICCARDO: «Registro delle visite. Ines Proietti, portiera. 1971–1998». || «방문자 기록부. 이네스 프로이에티, 수위. 1971~1998».
+SIMONE: Ines Proietti. Ventisette anni di passi. Rimettilo dove l'hai trovato. Non è nostro. || 이네스 프로이에티. 27년 치 발걸음. 찾은 자리에 다시 둬. 우리 거 아니야.
+RICCARDO: Simone. Aspetta. Torniamo indietro. Il contratto. Davvero? Trenta ore? Con lo stipendio? || 형. 잠깐만요. 다시 돌아가요. 계약서. 진짜요? 30시간? 월급 받고?
+SIMONE: Davvero. Ma non dirlo a nessuno. Prima l'assemblea. Poi tuo padre. Poi tua madre. Poi il mondo. In quest'ordine. || 진짜. 근데 아무한테도 말하지 마. 먼저 총회. 그다음 너희 아빠. 그다음 엄마. 그다음 세상. 이 순서대로.
+RICCARDO: E se l'assemblea dice di no? || 총회가 안 된다고 하면요?
+SIMONE: Allora il banco lo metto in cortile. Sotto la tettoia. E il contratto te lo faccio lo stesso. Più stretti. Ma te lo faccio. || 그럼 작업대를 안뜰에 놓지. 차양 밑에. 그리고 계약서는 그래도 해 줄게. 좀 비좁게. 그래도 해 줄 거야.
+RICCARDO: Più stretti va bene. Io sono magro. || 비좁은 건 괜찮아요. 저 말랐잖아요.
+
+# 장면 2 — IL PRESIDENTE
+> 오전 7시 40분. 바. 프랑코가 카운터 뒤에서 시모네의 계획서를 읽는다. 냅킨 두 장에 볼펜으로 쓴 것 || 오전 7시 40분. 바. 프랑코가 카운터 뒤에서 시모네의 계획서를 읽는다. 냅킨 두 장에 볼펜으로 쓴 것
+FRANCO: Un piano aziendale su due tovaglioli. Questo è il Testaccio che mi piace. Allora. Leggo. «Affitto guardiola: duecentocinquanta al mese». || 냅킨 두 장짜리 사업 계획서. 이게 내가 좋아하는 테스타초지. 자. 읽는다. «수위실 임대료: 월 250».
+SIMONE: Duecentocinquanta. Alla cooperativa. Il bilancio ha un buco di quaranta euro al mese. Elisa l'ha detto ad aprile. Con la guardiola, il buco diventa un avanzo. Di duecentodieci. || 250. 협동조합에. 예산이 한 달에 40유로 구멍이 났잖아요. 엘리사가 4월에 말했죠. 수위실이면 구멍이 흑자가 돼요. 210유로.
+FRANCO: E tu? Ce la fai? Paghi già novecentocinquanta per il negozio. Più la rata della quota. Più l'elmetto di Riccardo, che non ha ancora finito di pagare. || 그럼 너는? 감당돼? 가게에 벌써 950 내잖아. 거기다 지분 할부금. 거기다 아직 다 못 갚은 리카르도 헬멧까지.
+SIMONE: L'elmetto l'ha finito a marzo. E ce la faccio. Le bici elettriche sono il futuro. Le Vespe sono il passato. Io voglio fare tutti e due. Ma il futuro paga di più. Un tagliando di una bici elettrica: sessanta euro. Una batteria da riparare invece che da buttare: cento. A Testaccio ce ne sono trecento. Nessuno le ripara. Tutti le buttano. || 헬멧은 3월에 다 갚았어요. 그리고 감당돼요. 전기 자전거가 미래예요. 베스파는 과거고. 전 둘 다 하고 싶어요. 근데 미래가 돈을 더 줘요. 전기 자전거 정기 점검: 60유로. 버리는 대신 고치는 배터리: 100. 테스타초에 그게 300대예요. 아무도 안 고쳐요. 다들 버려요.
+FRANCO: E il computer? Quello di diagnosi? Duemila euro. L'hai detto tu. A ottobre. || 그럼 컴퓨터는? 진단하는 거. 2천 유로. 네가 말했잖아. 10월에.
+SIMONE: Usato. Ottocento. Da un'officina di Ostia che chiude. Il proprietario va in pensione. Ha detto che me lo dà se gli prometto una cosa. || 중고. 800. 문 닫는 오스티아 정비소에서. 사장님이 은퇴하세요. 약속 하나 해 주면 주겠대요.
+FRANCO: Cosa? || 뭘?
+SIMONE: Indovini. || 맞혀 보세요.
+FRANCO: Simone, sono le sette e quaranta. Ho ventitré cornetti da vendere e un presidente da fare. Non indovino. Dimmi. || 시모네, 일곱 시 40분이야. 팔아야 할 코르네토가 스물세 개고 해야 할 이사장 일도 있어. 안 맞혀. 말해.
+SIMONE: Va bene. Va bene. Non si arrabbi. È una cosa bella. || 알았어요. 알았어요. 화내지 마세요. 좋은 일이에요.
+FRANCO: Le cose belle alle sette e quaranta mi fanno più paura delle brutte. Le brutte almeno le conosco. Dimmi. || 일곱 시 40분의 좋은 일은 나쁜 일보다 더 무서워. 나쁜 일은 적어도 아는 거니까. 말해.
+SIMONE: Di prendere un ragazzo. Come lui ha preso me. Quando avevo diciannove anni. Per tre mesi. Prima di mio nonno. Non mi ricordavo. Lui sì. || 젊은 애 하나 받으라고요. 그분이 절 받아 주셨던 것처럼. 제가 열아홉 살 때. 석 달 동안. 할아버지 가게 전에요. 전 기억도 못 했어요. 그분은 기억하시더라고요.
+FRANCO: Le cose buone girano. Come le monete da un euro. Prima o poi tornano. Va bene. Per me va bene. Ma io sono il presidente, non il re. La guardiola è parte comune. Ci vuole l'assemblea. E prima dell'assemblea, ci vuole Loredana. || 좋은 일은 돌고 돌아. 1유로 동전처럼. 언젠가는 돌아오지. 좋아. 난 좋아. 근데 난 이사장이지 왕이 아니야. 수위실은 공용 부분이야. 총회가 필요해. 그리고 총회 전에 로레다나가 필요하고.
+SIMONE: Perché Loredana? || 왜 로레다나 씨요?
+FRANCO: Perché Loredana è arrivata nel 1984. E nel 1984 la portiera era Ines. E Ines e Loredana per quattordici anni hanno preso il caffè insieme. In quella stanza. Tutte le mattine alle nove. Prima dei gatti. || 로레다나가 1984년에 왔으니까. 1984년에 수위가 이네스였거든. 이네스랑 로레다나는 14년 동안 같이 커피를 마셨어. 그 방에서. 매일 아침 아홉 시에. 고양이 밥 주기 전에.
+SIMONE: Non lo sapevo. || 몰랐어요.
+FRANCO: Nessuno lo sa. Le cose importanti di questo palazzo le sanno solo le persone a cui sono successe. Vai. È sul lastrico. Stende. || 아무도 몰라. 이 건물의 중요한 일은 그 일을 겪은 사람만 알아. 가 봐. 옥상에 있어. 빨래 널고 있어.
+
+# 장면 3 — IL REGISTRO DI INES
+> 오전 9시. 옛 수위실. 로레다나가 문턱에 서 있다. 들어오지 않는다. 시모네가 기록부를 내민다 || 오전 9시. 옛 수위실. 로레다나가 문턱에 서 있다. 들어오지 않는다. 시모네가 기록부를 내민다
+LOREDANA: Non entro. Scusami, Simone. Non entro da ventinove anni. Dal giorno che Ines è andata via. Il trenta giugno del novantotto. È andata da sua figlia. A Latina. È morta nel duemilasei. Non sono andata al funerale. Avevo gli scrutini. || 안 들어갈게. 미안해, 시모네. 29년째 안 들어갔어. 이네스가 떠난 날부터. 98년 6월 30일. 딸네 집으로 갔지. 라티나로. 2006년에 죽었어. 장례식엔 못 갔어. 성적 회의가 있었거든.
+SIMONE: Il registro. L'abbiamo trovato sotto la scrivania. C'è scritto tutto. Dal settantuno. Chi entra, chi esce, chi porta cosa. || 기록부요. 책상 밑에서 찾았어요. 다 적혀 있어요. 71년부터. 누가 들어오고, 누가 나가고, 누가 뭘 가져오는지.
+LOREDANA: Ines scriveva tutto. Non per controllare. Per ricordare. Diceva: «Un palazzo è fatto di passi. Io li conto». Apri al dodici settembre ottantaquattro. || 이네스는 다 적었어. 감시하려고가 아니라. 기억하려고. «건물은 발걸음으로 만들어진다. 난 그걸 센다» 그랬지. 84년 9월 12일 펴 봐.
+> 시모네가 페이지를 넘긴다 || 시모네가 페이지를 넘긴다
+SIMONE: «Dodici settembre 1984. Arrivati i nuovi del secondo piano. Lui alto, con una radio. Lei piccola, con tre borse di libri. Lei mi ha chiesto il nome. Nessuno me lo chiede mai. Loredana. Maestra. Credo che resterà». || «1984년 9월 12일. 2층 새 사람들 도착. 남자는 키가 크고 라디오를 들었음. 여자는 작고 책 가방 세 개. 여자가 내 이름을 물었음. 아무도 안 묻는데. 로레다나. 교사. 남을 것 같음».
+LOREDANA: «Credo che resterà». Ha avuto ragione. Quarantatré anni. || «남을 것 같음». 맞았네. 43년.
+SIMONE: Signora Loredana. Io vorrei questa stanza. Per le bici elettriche. E per Riccardo. Ma se lei dice di no, io non la chiedo all'assemblea. Questa è la stanza di Ines. E lei è l'unica che ha il diritto di dire cos'è. || 로레다나 씨. 이 방을 원해요. 전기 자전거 때문에. 그리고 리카르도 때문에. 근데 로레다나 씨가 안 된다고 하시면 총회에 안 올릴게요. 이건 이네스 씨 방이잖아요. 그리고 이게 뭔지 말할 권리가 있는 사람은 로레다나 씨뿐이에요.
+LOREDANA: Non ho nessun diritto. Lo statuto non dice niente sui ricordi. L'ho scritto io. Me ne sono dimenticata. Ho scritto l'articolo sedici per Pina. Non ho scritto niente per Ines. || 난 아무 권리 없어. 정관엔 추억에 대해선 아무것도 없어. 내가 썼는데. 깜빡했어. 피나를 위해 16조는 썼는데. 이네스를 위해선 아무것도 안 썼네.
+SIMONE: Allora mi dica una condizione. Una sola. E io la rispetto. || 그럼 조건 하나 말씀해 주세요. 하나만. 지킬게요.
+LOREDANA: Il vetro. Quello verso l'androne. Non lo chiudere. Non ci mettere le tende. Non ci appendere i poster delle moto. Il vetro resta aperto. Qualcuno deve vedere chi entra. Non per controllare. Per salutare. || 유리창. 현관 쪽 그거. 닫지 마. 커튼도 달지 말고. 오토바이 포스터도 붙이지 마. 유리창은 열어 둬. 누군가는 누가 들어오는지 봐야 해. 감시하려고가 아니라. 인사하려고.
+SIMONE: Il vetro aperto. E il registro? || 유리창 열어 두기. 그럼 기록부는요?
+LOREDANA: Il registro lo continuate voi. Una riga al giorno. Non chi entra. Chi entra lo sapete tutti. Una cosa successa. Una sola. Ines ne scriveva cento. Voi una. Siete giovani, avete i telefoni. Una basta. || 기록부는 너희가 이어서 써. 하루에 한 줄. 누가 들어왔는지 말고. 그건 다들 알잖아. 일어난 일 하나. 하나만. 이네스는 백 개씩 썼어. 너희는 하나. 젊고, 전화기도 있으니까. 하나면 돼.
+SIMONE: Una riga al giorno. Da oggi. La prima la scrivo io. Adesso. || 하루에 한 줄. 오늘부터. 첫 줄은 제가 쓸게요. 지금.
+LOREDANA: No. La prima la scrivo io. Sul tavolo di Ines. Dammi la penna. ... Entro. || 아니. 첫 줄은 내가 써. 이네스 책상에서. 펜 줘. … 들어갈게.
+> 로레다나가 29년 만에 수위실 안으로 들어가 앉는다 || 로레다나가 29년 만에 수위실 안으로 들어가 앉는다
+LOREDANA: «Ventisei maggio 2027. Riaperta la guardiola. Dentro c'era la polvere e un calendario fermo. Fuori c'era un ragazzo con una chiave e un altro con una torcia. Credo che resteranno». || «2027년 5월 26일. 수위실 다시 엶. 안에는 먼지와 멈춘 달력. 밖에는 열쇠 든 청년 하나, 손전등 든 청년 하나. 남을 것 같음».
+
+# 장면 4 — IL PADRE
+> 오후 1시. 수리점. 리카르도가 전기 자전거 브레이크를 조정한다. 문간에 ATAC 제복을 입은 남자. 마시모. 점심시간이다 || 오후 1시. 수리점. 리카르도가 전기 자전거 브레이크를 조정한다. 문간에 ATAC 제복을 입은 남자. 마시모. 점심시간이다
+MASSIMO: Riccardo. Mi hai scritto «papà, devi venire, è importante». Con tre punti esclamativi. L'ultima volta che hai messo tre punti esclamativi avevi rotto lo specchietto della Punto. || 리카르도. «아빠, 와야 돼, 중요해» 보냈더라. 느낌표 세 개. 마지막으로 느낌표 세 개 붙였을 땐 푼토 사이드미러 깨 먹었을 때였지.
+RICCARDO: Papà. Siediti. No, non lì, c'è l'olio. Lì. Sulla cassa. Ti devo dire una cosa. Simone mi vuole assumere. Con un contratto. Di apprendistato. || 아빠. 앉아. 아니, 거기 말고, 기름 있어. 거기. 상자 위에. 할 말이 있어. 시모네 형이 날 고용하고 싶대. 계약서로. 견습 고용.
+MASSIMO: Apprendistato. E l'università? Ti mancano quattro esami. Quattro. E la tesi. Tua madre ha già comprato il vestito. Per la laurea. A febbraio. Ai saldi. || 견습. 그럼 대학은? 시험 네 개 남았잖아. 네 개. 그리고 논문. 엄마가 벌써 옷 샀어. 졸업식 옷. 2월에. 세일할 때.
+SIMONE: Signor Massimo. Posso? L'apprendistato non è contro l'università. Riccardo lavora trenta ore. Non quaranta. Il venerdì è libero. Per studiare. Il contratto lo prevede. Ho chiesto al consulente. Si chiama «studente lavoratore». || 마시모 씨. 말씀드려도 될까요? 견습이 대학이랑 반대되는 건 아니에요. 리카르도는 주 30시간 일해요. 40시간 말고. 금요일은 쉬어요. 공부하라고. 계약서에 들어가요. 노무사한테 물어봤어요. «근로 학생»이라고 해요.
+MASSIMO: Lo so cos'è uno studente lavoratore. Io lo ero. Ragioneria serale. Al Galvani. Tre anni. Guidavo di giorno e studiavo di notte. Non ho finito. Al terzo anno è nato lui. || 근로 학생이 뭔지 알아요. 내가 그랬으니까. 야간 상업 학교. 갈바니에서. 3년. 낮엔 운전하고 밤엔 공부했지. 못 끝냈어요. 3학년 때 얘가 태어났거든.
+RICCARDO: Papà... non me l'hai mai detto. || 아빠… 그 얘긴 한 번도 안 했잖아.
+MASSIMO: Non te l'ho mai detto perché volevo che tu facessi l'ingegnere. Senza la notte. Senza il volante. Con la scrivania. Con la cravatta. È questo che fanno i padri. Vogliono per i figli la vita che non hanno avuto. || 안 한 건 네가 엔지니어가 되길 바라서였어. 밤 없이. 운전대 없이. 책상 앞에서. 넥타이 매고. 아빠들이 다 그래. 자기가 못 가진 삶을 자식한테 바라지.
+RICCARDO: E se io voglio la vita che hai avuto tu? Con le mani. Con le cose che si muovono. Papà, tu guidi un autobus da dodici tonnellate. Tutti i giorni. Senza un graffio. Da ventotto anni. Io voglio fare quello. Con le bici. || 근데 내가 아빠가 가진 삶을 원하면? 손으로 하는 거. 움직이는 것들이랑. 아빠, 아빠는 12톤짜리 버스 몰잖아. 매일. 긁힌 데 하나 없이. 28년째. 난 그걸 하고 싶어. 자전거로.
+MASSIMO: Con le bici. Dodici tonnellate contro venticinque chili. || 자전거로. 12톤 대 25킬로.
+SIMONE: Venticinque chili, ma con una batteria al litio da cinquecento wattora. Se la ripari male, prende fuoco. In un palazzo. Al quarto piano. Le assicuro che è una responsabilità. Come un autobus. Più piccola. Ma più vicina alle persone. || 25킬로지만 500와트시짜리 리튬 배터리가 달려 있어요. 잘못 고치면 불이 나요. 건물 안에서. 4층에서. 장담하는데 책임이 커요. 버스처럼. 더 작을 뿐. 근데 사람이랑 더 가까이 있죠.
+MASSIMO: ... Riccardo. Questa bici. I freni. Li hai fatti tu? || … 리카르도. 이 자전거. 브레이크. 네가 한 거냐?
+RICCARDO: Io. Stamattina. Freni idraulici. Ho spurgato l'olio. Prova. || 내가. 오늘 아침에. 유압 브레이크. 오일 공기 뺐어. 해 봐.
+> 마시모가 브레이크 레버를 쥔다. 한 번, 두 번. 오래 || 마시모가 브레이크 레버를 쥔다. 한 번, 두 번. 오래
+MASSIMO: Morbidi. E decisi. Come devono essere. Meglio di quelli della Punto. Che a Natale hai rifatto tu. E che non ti ho mai detto che erano perfetti. Erano perfetti. || 부드럽고. 단단하고. 딱 그래야 하는 대로. 푼토 브레이크보다 낫네. 크리스마스에 네가 다시 한 거. 완벽했다고 말 안 했지. 완벽했어.
+RICCARDO: Papà... || 아빠…
+MASSIMO: Una condizione. La laurea la finisci. Non per me. Per tua madre. Per il vestito. Il vestito l'ha pagato centoventi euro. Ai saldi. Non si butta. || 조건 하나. 졸업은 해라. 나 때문 말고. 엄마 때문에. 그 옷 때문에. 120유로 주고 샀어. 세일해서. 버리면 안 돼.
+RICCARDO: La finisco. Il venerdì. E la tesi la faccio sulle batterie. Delle bici. Il professore di macchine ha già detto sì. A gennaio. Non te l'avevo detto. || 끝낼게. 금요일마다. 논문은 배터리로 쓸 거야. 자전거 배터리. 기계 교수님이 벌써 된다고 했어. 1월에. 말 안 했었지.
+MASSIMO: In questa famiglia nessuno dice niente a nessuno. Poi ci si trova in un'officina e si dice tutto. Va bene. Simone. Il contratto. Me lo fa leggere? Prima della firma? Io leggo tutto. Anche le multe. || 이 집안은 아무도 아무한테 아무 말도 안 하지. 그러다 정비소에서 만나면 다 말하고. 좋아. 시모네 씨. 계약서. 읽어 봐도 될까요? 서명 전에? 난 다 읽어요. 벌금 고지서까지.
+SIMONE: Glielo porto stasera. All'assemblea. Venga anche lei. Non può votare. Ma può leggere. || 오늘 저녁에 가져갈게요. 총회에. 같이 오세요. 투표는 못 하지만. 읽을 순 있어요.
+
+# 장면 5 — LE PULIZIE
+> 오후 4시. 수위실. 창문이 활짝 열려 있다. 프랑코가 앞치마를 두른 채 걸레를 들고 왔다. 리카르도는 사다리 위에서 전등을 간다. 로레다나가 액자 하나를 품에 안고 문턱에 선다 || 오후 4시. 수위실. 창문이 활짝 열려 있다. 프랑코가 앞치마를 두른 채 걸레를 들고 왔다. 리카르도는 사다리 위에서 전등을 간다. 로레다나가 액자 하나를 품에 안고 문턱에 선다
+FRANCO: Ho chiuso il bar un'ora. Tiziana fa i caffè da sola. Ha detto: «Vai, presidente. Pulisci. Così capisci cos'è un consiglio di amministrazione». || 바를 한 시간 닫았어. 티치아나가 혼자 커피 내려. «가, 이사장. 청소해. 그래야 이사회가 뭔지 알지» 그러더라.
+RICCARDO: Franco, passami la lampadina. Quella da nove watt. No, quella. Quella col led. La vecchia era del novantotto. Era ancora accesa. Da sola. Ventinove anni. || 프랑코 아저씨, 전구 좀 주세요. 9와트짜리. 아니, 그거. LED 그거요. 옛날 건 98년 거였어요. 아직 켜져 있었어요. 혼자서. 29년.
+FRANCO: Accesa? Da sola? Allora chi pagava la luce? || 켜져 있었다고? 혼자? 그럼 전기세는 누가 냈어?
+LOREDANA: Il condominio. Cioè il fondo. Cioè noi. Con l'affitto. Per ventinove anni abbiamo pagato una lampadina accesa in una stanza chiusa. È la cosa più romana che abbia mai sentito. || 공동 관리비. 그러니까 펀드. 그러니까 우리. 월세로. 29년 동안 닫힌 방에 켜진 전구값을 낸 거야. 내가 들어 본 것 중에 제일 로마다운 일이야.
+FRANCO: Signora Loredana. Cos'è quel quadro? || 로레다나 씨. 그 액자는 뭐예요?
+LOREDANA: Ines. Nel 1990. Davanti al vetro. Con il gatto. Il gatto si chiamava Portiere. Perché stava sempre alla porta. L'ho tenuto io. Per ventinove anni. Sul mio comò. Adesso torna qui. Se Simone vuole. || 이네스. 1990년. 유리창 앞에서. 고양이랑. 고양이 이름이 '수위'였어. 늘 문 앞에 있어서. 내가 간직했어. 29년 동안. 내 서랍장 위에. 이제 여기로 돌아오는 거야. 시모네가 원하면.
+RICCARDO: Simone vuole. Lo dico io per lui. Lui direbbe «vediamo». Ma vuol dire sì. || 형은 원해요. 제가 대신 말할게요. 형은 «두고 보자» 그러겠지만. 그게 '네'라는 뜻이에요.
+FRANCO: «Vediamo» a Testaccio vuol dire sì. «Ci penso» vuol dire no. «Ne parliamo» vuol dire mai. Riccardo, l'hai già imparato. Sei pronto per il contratto. || 테스타초에서 «두고 보자»는 '네'라는 뜻이야. «생각해 볼게»는 '아니요'. «얘기해 보자»는 '절대 안 돼'. 리카르도, 벌써 배웠네. 계약할 준비 됐다.
+LOREDANA: Lo appendo io. Qui. Accanto al vetro. Alla stessa altezza. Così Ines vede chi entra. Ancora. || 내가 걸게. 여기. 유리창 옆에. 같은 높이로. 그래야 이네스가 누가 들어오는지 보지. 계속.
+RICCARDO: Le passo il chiodo. E il martello. Piano. Non si faccia male. || 못 드릴게요. 망치도. 천천히요. 다치지 마세요.
+LOREDANA: Riccardo. Ho appeso quadri per quarantatré anni. In questo palazzo. Prima con mio marito. Poi da sola. Il martello lo so usare. È la scala che non so più usare. Per questo sei qui. || 리카르도. 난 43년 동안 액자를 걸었어. 이 건물에서. 처음엔 남편이랑. 그다음엔 혼자. 망치는 쓸 줄 알아. 사다리를 더는 못 쓰는 거지. 그래서 네가 여기 있는 거고.
+FRANCO: Ecco. Questa è la cooperativa. Chi sa usare il martello, martella. Chi sa salire sulla scala, sale. Chi sa pulire... Chi sa pulire? Io no. Guardate questo straccio. È peggio di prima. || 봐. 이게 협동조합이야. 망치 쓸 줄 아는 사람은 망치질하고. 사다리 오를 줄 아는 사람은 오르고. 청소할 줄 아는 사람은… 청소할 줄 아는 사람 누구야? 난 아니야. 이 걸레 봐. 전보다 더 더러워.
+LOREDANA: Lo straccio si sciacqua, Franco. Ogni tanto. Non è un tovagliolo. || 걸레는 헹구는 거예요, 프랑코 씨. 가끔. 냅킨이 아니라고요.
+FRANCO: Al bar i tovaglioli non si sciacquano. Si buttano. Ho trentun anni di esperienza sbagliata. || 바에선 냅킨은 안 헹궈요. 버리지. 31년 동안 잘못된 경험을 쌓았네.
+RICCARDO: Fatto. La luce. Nove watt. Durerà più di me. || 됐어요. 불. 9와트. 저보다 오래갈 거예요.
+LOREDANA: Non dire così. Tu durerai di più. Sei un apprendista. Gli apprendisti durano sempre più delle lampadine. Lo dice la storia. || 그런 말 마. 네가 더 오래가. 견습생이잖아. 견습생은 늘 전구보다 오래가. 역사가 그래.
+# 장면 6 — L'ASSEMBLEA STRAORDINARIA
+> 저녁 7시. 안뜰. 플라스틱 의자 열네 개, 접이식 탁자 하나. 피나는 지팡이를 짚고, 엘리사는 의자 두 개를 쓴다. 마시모는 탁자 끝에 서서 계약서를 읽는다. 로레다나가 회의록을 쓴다 || 저녁 7시. 안뜰. 플라스틱 의자 열네 개, 접이식 탁자 하나. 피나는 지팡이를 짚고, 엘리사는 의자 두 개를 쓴다. 마시모는 탁자 끝에 서서 계약서를 읽는다. 로레다나가 회의록을 쓴다
+FRANCO: Punto unico all'ordine del giorno. La guardiola. Il consigliere Lancia chiede di prenderla in affitto. Duecentocinquanta euro al mese. Per sei anni. Rinnovabili. Il consigliere Lancia esce durante il voto. Conflitto di interessi. Lo dice lo statuto. || 안건은 하나. 수위실. 란차 이사가 임차를 신청함. 월 250유로. 6년. 갱신 가능. 란차 이사는 표결 중 퇴장. 이해 충돌. 정관에 그렇게 돼 있음.
+SIMONE: Esco. Ma prima una cosa. Una promessa. Il vetro resta aperto. Il registro continua. E la mattina alle nove, chi vuole, prende il caffè nella guardiola. Lo porto io dal bar. Lo pago io. || 나갈게요. 근데 그 전에 하나. 약속 하나. 유리창은 열어 둡니다. 기록부는 계속 씁니다. 그리고 아침 아홉 시에, 원하는 사람은 수위실에서 커피 마시는 걸로. 제가 바에서 가져올게요. 제가 낼게요.
+LOREDANA: Il caffè delle nove. Come Ines. Questo non era nella mia condizione. || 아홉 시 커피. 이네스처럼. 이건 내 조건에 없었는데.
+SIMONE: Lo so. È un regalo. Le condizioni si rispettano. I regali si fanno. || 알아요. 선물이에요. 조건은 지키는 거고. 선물은 하는 거죠.
+> 시모네가 안뜰 문 쪽으로 나간다. 리카르도도 따라 나가려 한다 || 시모네가 안뜰 문 쪽으로 나간다. 리카르도도 따라 나가려 한다
+FRANCO: Riccardo. Tu resta. Non sei socio. Non hai conflitto. Hai solo paura. La paura non è nello statuto. || 리카르도. 넌 남아. 조합원 아니잖아. 이해 충돌도 없어. 무서울 뿐이지. 무서움은 정관에 없어.
+MASSIMO: Presidente. Posso dire una cosa? Non sono socio. Lo so. Ma ho letto il contratto. || 이사장님. 한마디 해도 될까요? 조합원 아닌 거 알아요. 근데 계약서 읽었어요.
+LOREDANA: Un momento. Prima del padre, il segretario. Ho una domanda. Per il consigliere Lancia. Le batterie. Al litio. Nell'androne. Se prendono fuoco? Qui sopra ci sono otto famiglie. E un bambino che deve nascere. || 잠깐. 아버지 말씀 전에 서기부터. 질문 있어요. 란차 이사에게. 배터리. 리튬. 현관에. 불이 나면요? 이 위로 여덟 가구가 있어요. 그리고 곧 태어날 아기도.
+SIMONE: Ci ho pensato. Armadio ignifugo. Per le batterie. Di metallo. Con la ventilazione. Trecento euro. E un estintore apposito. E di notte, le batterie non restano in guardiola. Le porto in cantina. Dove c'è il cemento. E dove nel quarantaquattro si nascondevano le persone. Se ha tenuto le persone, tiene anche le batterie. || 생각해 뒀어요. 방화 캐비닛. 배터리용. 금속제. 환기 장치 달린 거. 300유로. 그리고 전용 소화기. 그리고 밤엔 배터리를 수위실에 안 둬요. 지하 창고로 가져가요. 콘크리트 있는 데. 44년에 사람들이 숨었던 데요. 사람을 지켰으면 배터리도 지키겠죠.
+FRANCO: Il segretario è soddisfatto? || 서기는 만족하십니까?
+LOREDANA: Il segretario è soddisfatto. E un po' commosso. Ma questo non lo metto a verbale. || 서기는 만족합니다. 그리고 조금 감동했고요. 근데 그건 회의록에 안 넣을게요.
+FRANCO: Dica. Qui parlano anche i padri. Soprattutto i padri. Di solito arrivano tardi. || 말씀하세요. 여기선 아버지들도 말해요. 특히 아버지들은. 보통 늦게 오시니까.
+MASSIMO: Il contratto è giusto. Trenta ore. Venerdì libero. Stipendio al settanta per cento il primo anno, poi ottanta, poi novanta. Contributi pieni. Centoventi ore di formazione in tre anni. E alla fine, qualifica di meccanico. Io in ventotto anni di ATAC non ho mai letto un contratto così chiaro. Il mio era di quaranta pagine. Questo è di quattro. || 계약서 공정해요. 30시간. 금요일 휴무. 월급은 첫해 70퍼센트, 그다음 80, 그다음 90. 연금 보험료 전액. 3년간 교육 120시간. 그리고 끝나면 정비사 자격. ATAC 28년 동안 이렇게 분명한 계약서는 처음 봤어요. 내 건 40쪽이었는데. 이건 4쪽이에요.
+LOREDANA: Lo metto a verbale. «Il padre dell'apprendista, autista ATAC, dichiara che il contratto è chiaro». È la prima volta che un padre lo dice in questo cortile. || 회의록에 넣을게요. «견습생의 아버지, ATAC 기사, 계약서가 분명하다고 진술». 이 안뜰에서 아버지가 그런 말 한 건 처음이에요.
+FRANCO: Votiamo. Chi è favorevole alla guardiola per Simone? || 표결합니다. 수위실을 시모네에게 주는 데 찬성하는 분?
+> 손이 올라간다. 피나는 지팡이를 든다. 엘리사는 두 손을 든다. '하나는 아기 몫' || 손이 올라간다. 피나는 지팡이를 든다. 엘리사는 두 손을 든다. '하나는 아기 몫'
+LOREDANA: Tredici favorevoli. Più Pina con il bastone. Il bastone vale. Lo abbiamo deciso ad aprile. Elisa, la seconda mano non vale. Il bambino non è ancora socio. || 찬성 열셋. 그리고 지팡이 든 피나. 지팡이는 유효. 4월에 정했어요. 엘리사, 두 번째 손은 무효. 아기는 아직 조합원 아니야.
+FRANCO: Approvata. All'unanimità. Senza il consigliere Lancia. Riccardo, vai a chiamarlo. Digli che ha una stanza. E un vetro. E un registro. E un apprendista. || 가결. 만장일치. 란차 이사 빼고. 리카르도, 가서 불러와. 방이 생겼다고 전해. 그리고 유리창. 그리고 기록부. 그리고 견습생도.
+RICCARDO: Vado. Papà. Grazie. Per il contratto. Per i freni. Per la ragioneria serale. || 갈게. 아빠. 고마워. 계약서. 브레이크. 야간 상업 학교.
+MASSIMO: Per la ragioneria no. Non l'ho finita. Tu finisci la tua. Così pareggiamo. || 상업 학교는 말고. 그건 못 끝냈잖아. 넌 네 거 끝내. 그럼 비기는 거다.
+FRANCO: Signor Massimo. Un caffè? Offre la casa. Cioè la cooperativa. Cioè lei, un po'. Perché da oggi suo figlio paga i contributi qui. || 마시모 씨. 커피 한잔? 가게가 냅니다. 그러니까 협동조합이. 그러니까 조금은 당신이. 오늘부터 아드님이 여기서 보험료를 내니까.
+MASSIMO: Un caffè. Corto. Alle sette e mezza ho il turno. Il notturno. Passo davanti al Cantone alle due di notte. Con l'autobus vuoto. Suono il clacson. Due volte. Piano. Così sapete che sono io. || 커피 한 잔. 짧게. 일곱 시 반에 근무 있어요. 야간. 새벽 두 시에 칸토네 앞을 지나요. 빈 버스로. 경적 울릴게요. 두 번. 살짝. 그럼 나인 줄 아실 거예요.
+LOREDANA: Due colpi. Come Davide e Nadia. Questo palazzo sta diventando un'orchestra di segnali. || 두 번. 다비데랑 나디아처럼. 이 건물이 신호 오케스트라가 돼 가네.
+
+# 장면 7 — LA PRIMA RIGA DI RICCARDO
+> 저녁 8시. 수위실. 유리창이 열려 있다. 시모네와 리카르도가 서명한 계약서 두 부를 책상 위에 놓는다. 기록부가 펼쳐져 있다 || 저녁 8시. 수위실. 유리창이 열려 있다. 시모네와 리카르도가 서명한 계약서 두 부를 책상 위에 놓는다. 기록부가 펼쳐져 있다
+SIMONE: Primo giugno. Inizi il primo giugno. Lo stesso giorno di Davide alla Legacoop. Il primo giugno è il giorno dei contratti veri, in questo palazzo. || 6월 1일. 6월 1일부터 시작이야. 다비데 레가쿠프랑 같은 날. 이 건물에선 6월 1일이 진짜 계약서의 날이네.
+RICCARDO: Simone. Perché io? Ci sono ragazzi più bravi. Al tecnico. Che sanno già saldare. || 형. 왜 저예요? 더 잘하는 애들 있잖아요. 기술 학교에. 벌써 용접할 줄 아는 애들.
+SIMONE: Perché un anno fa sei passato davanti al negozio con un monopattino rotto. E invece di buttarlo, l'hai portato da me. E mi hai chiesto: «Mi fa vedere come si fa?». Non «me lo ripara». «Mi fa vedere». Quella frase vale più di saper saldare. || 1년 전에 네가 망가진 킥보드 끌고 가게 앞을 지나갔으니까. 그리고 버리는 대신 나한테 가져왔지. 그리고 물었어. «어떻게 하는지 보여 주실래요?» «고쳐 주세요»가 아니라. «보여 주실래요». 그 말이 용접할 줄 아는 것보다 값져.
+RICCARDO: Io non me lo ricordo. || 전 기억 안 나요.
+SIMONE: Neanch'io mi ricordavo di Ostia. Le cose importanti le ricorda quello che le ha date. Non quello che le ha prese. Scrivi la riga. La tua. || 나도 오스티아는 기억 못 했어. 중요한 일은 받은 사람 말고 준 사람이 기억하는 거야. 줄 써. 네 줄.
+RICCARDO: «Ventisei maggio. Sera. Mio padre ha detto che i freni della Punto erano perfetti. Ci ha messo cinque mesi. Ne valeva la pena». || «5월 26일. 저녁. 아빠가 푼토 브레이크가 완벽했다고 말했다. 다섯 달 걸렸다. 그럴 만했다».
+SIMONE: Bella. Corta. Ines sarebbe contenta. || 좋다. 짧고. 이네스 씨가 좋아하셨겠다.
+RICCARDO: Simone. Tu non scrivi la tua? Oggi è il tuo giorno. Hai una stanza. Hai un apprendista. || 형. 형 줄은 안 써요? 오늘 형 날이잖아요. 방도 생기고. 견습생도 생기고.
+SIMONE: La mia la scrivo domani. Oggi ne hanno scritte due. Loredana e tu. Ines ne scriveva cento. Noi una. Ma oggi è un giorno speciale. Due bastano. || 내 건 내일 쓸게. 오늘은 두 줄 썼잖아. 로레다나 씨랑 너. 이네스 씨는 백 줄 썼지. 우린 한 줄. 근데 오늘은 특별한 날이니까. 두 줄이면 충분해.
+RICCARDO: E domani cosa scrivi? || 그럼 내일은 뭐 쓸 거예요?
+SIMONE: Non lo so. Una cosa successa. Magari una cosa piccola. Una gomma bucata. Un gatto. Una telefonata da Berlino. || 몰라. 일어난 일 하나. 작은 일일 수도 있고. 펑크 난 타이어. 고양이. 베를린에서 온 전화.
+RICCARDO: Da Berlino. Quella non è una cosa piccola. || 베를린에서. 그건 작은 일이 아니잖아요.
+SIMONE: No. Quella no. Ma non si scrive. Non ancora. Spegni la luce. Nove watt. Risparmiamo. Adesso la paghiamo noi. || 아니. 그건 아니지. 근데 그건 안 써. 아직은. 불 꺼. 9와트. 아끼자. 이젠 우리가 내는 거니까.
+> 열린 유리창 너머로 로레다나가 지나간다. 걸음을 멈추고 손을 흔든다 || 열린 유리창 너머로 로레다나가 지나간다. 걸음을 멈추고 손을 흔든다
+LOREDANA: Buonanotte, guardiola. || 잘 자, 수위실.
+RICCARDO: Buonanotte, signora Loredana. Domani alle nove? Il caffè? || 안녕히 주무세요, 로레다나 씨. 내일 아홉 시요? 커피?
+LOREDANA: Alle nove. Macchiato. Freddo. Come lo prendeva Ines. Da domani lo prendo anch'io così. || 아홉 시. 마키아토. 차갑게. 이네스가 마시던 대로. 내일부터 나도 그렇게 마실 거야.
+
+@points
+- 제안·조건 협상: «Ti voglio assumere. Con un contratto.», «Mi dica una condizione. Una sola. E io la rispetto.», «Una condizione. La laurea la finisci.»
+- 근거 들어 설득하기: «Con la guardiola, il buco diventa un avanzo», «Un tagliando: sessanta euro. Una batteria: cento. A Testaccio ce ne sono trecento.»
+- 대조로 말하기: «Le condizioni si rispettano. I regali si fanno.», «Non per controllare. Per salutare.», «Non "me lo ripara". "Mi fa vedere".»
+- 접속법 반과거(바람): «volevo che tu facessi l'ingegnere», «Vogliono per i figli la vita che non hanno avuto».
+- 조건법 과거: «Ines sarebbe contenta», «Ha avuto ragione».
+- 회의 표현: «Punto unico all'ordine del giorno», «esce durante il voto. Conflitto di interessi», «Lo metto a verbale», «Approvata all'unanimità».
+- 이중자음: «guardiola»(홑), «sbloccante»[kk], «apprendistato»[pp], «allarga»[ll], «tutto»[tt], «spurgato»(홑), «ragioneria»(홑).
+
+@notes
+- 'guardiola' 수위실, 'portiere/portiera' 건물 수위 — 1990년대 이후 로마의 많은 건물에서 비용 문제로 사라졌다.
+- 'apprendistato professionalizzante' 직업 견습 고용 계약 — 대체로 18~29세 대상, 교육 의무, 임금 단계 상승, 고용주 부담 경감(극 중 비율은 예시).
+- 'studente lavoratore' 근로 학생. 'ragioneria serale' 야간 상업 학교.
+- 'parte comune' 공용 부분. 'conflitto di interessi' 이해 충돌. 'mettere a verbale' 회의록에 기록하다.
+- 'sbloccante' 녹 제거·윤활 스프레이. 'freni idraulici' 유압 브레이크. 'spurgare' (오일의) 공기를 빼다. 'centralina' 제어기.
+- 'wattora' 와트시(Wh) — 배터리 용량 단위.
+
+@next
+5부 85화 — «La lettera della signora Loredana»(로레다나 부인의 편지) — 5월 말. 로레다나가 협동조합 서기 자리를 내려놓겠다는 편지를 쓴다. 이유는 하나도 적혀 있지 않다. 건물 전체가 그 이유를 찾아 나선다.
