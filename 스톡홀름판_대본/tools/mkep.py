@@ -28,7 +28,7 @@ def parse(path):
     for raw in open(path, encoding="utf-8"):
         line = raw.rstrip("\n").strip()
         if not line: continue
-        m = re.match(r"^(PART|EP|TITLE|SUBTITLE|META|NOTE|NEXT|CAST):\s*(.*)$", line)
+        m = re.match(r"^(PART|EP|TITLE|SUBTITLE|META|NOTE|NEXTHEAD|NEXT|CAST):\s*(.*)$", line)
         if m:
             k, v = m.groups()
             if k == "CAST":
@@ -92,7 +92,7 @@ def build(path, outdir):
             _, n, sv, ko = b
             p = d.add_paragraph(); sp(p, 8, 1); run(p, n, 10, color[n], True); run(p, "   " + sv, 11, "1A1A1A")
             p = d.add_paragraph(); sp(p, None, 0); run(p, ko, 9, "808080")
-    p = d.add_paragraph(); sp(p, 25, 5); run(p, "다음 화 예고", 12, "1F3864", True)
+    p = d.add_paragraph(); sp(p, 25, 5); run(p, h.get("NEXTHEAD", "다음 화 예고"), 12, "1F3864", True)
     run(d.add_paragraph(), h["NEXT"], 9, "595959")
     sub = os.path.join(outdir, f"{h['PART']}부"); os.makedirs(sub, exist_ok=True)
     out = os.path.join(sub, f"{h['PART']}부_{h['EP']}화_{trans(h['TITLE'])}.docx")
