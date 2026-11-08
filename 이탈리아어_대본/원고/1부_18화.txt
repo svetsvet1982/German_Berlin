@@ -1,0 +1,169 @@
+@part 1
+@ep 18
+@file Un_biglietto_nella_cassetta_della_posta
+@title Un biglietto nella cassetta della posta
+@ko 우편함 속 쪽지
+@where 비아 델 칸토네 7번지 현관 / 바 «Il Cantone»
+@level A2~B1
+@setting 6월 3일 수요일 아침 7시 15분~8시 / 같은 날 저녁 7시
+@cast LOREDANA | 2층 세입자, 66세
+@cast NADIA | 4층 세입자, 40세
+@cast FRANCO | 바 주인, 1층 상가 세입자, 61세
+@cast SETTIMIO | 3층 세입자, 83세
+@cast DAVIDE | 루카네 소파에서 지내는 청년, 27세
+@note 어제 6월 2일은 공화국 기념일이었다. 하늘엔 공군 곡예비행단이 삼색 연기를 그렸고, 동네는 조용한 휴일을 보냈다. 그리고 오늘 아침, 세입자 우편함마다 손글씨 쪽지가 한 장씩 꽂혀 있다. 4월 편지의 마지막 줄 «가치 제고»가 다시 떠오른다.
+
+# 장면 1 — ALLE SETTE E UN QUARTO
+LOREDANA: Nadia! Nadia, aspetti! Ha guardato nella cassetta della posta? || 나디아! 나디아, 잠깐만! 우편함 봤어요?
+NADIA: Buongiorno, Loredana. No, ancora no. Sto correndo in ospedale. Perché? || 안녕하세요, 로레다나. 아뇨, 아직요. 병원에 뛰어가는 중이에요. 왜요?
+LOREDANA: Guardi. Subito. Per favore. || 봐요. 지금 바로. 부탁이에요.
+NADIA: Va bene... C'è un foglio piegato. Senza busta. Scritto a mano. || 알았어요… 접힌 종이가 하나 있네요. 봉투도 없이. 손으로 썼어요.
+LOREDANA: Lo legga. Ad alta voce. Voglio sentire se dice la stessa cosa del mio. || 읽어 봐요. 소리 내서. 내 거랑 같은 내용인지 듣고 싶어요.
+NADIA: «Ai signori inquilini di via del Cantone 7. L'Ente vuole vendere tutto il palazzo. A un fondo. Entro l'autunno. Non firmate niente. Informatevi. Un amico.» || «비아 델 칸토네 7번지 세입자분들께. 기관이 건물 전체를 팔려고 합니다. 펀드에. 가을까지. 아무것도 서명하지 마세요. 알아보세요. 친구가.»
+LOREDANA: È uguale. Parola per parola. || 똑같아요. 한 글자도 안 틀리고.
+NADIA: Vendere il palazzo? Tutto? Ma... e noi? || 건물을 판다고요? 전부? 그럼… 우리는요?
+LOREDANA: Appunto. E noi? || 그러니까요. 우리는요?
+NADIA: Ma chi l'ha scritto? «Un amico». Che amico? Perché non firma? || 근데 누가 쓴 거예요? «친구가». 무슨 친구요? 왜 이름을 안 써요?
+LOREDANA: Non lo so. Mi chiedo la stessa cosa da mezz'ora. Ho guardato la calligrafia. È ordinata. Da persona istruita. || 몰라요. 30분째 나도 같은 생각을 하고 있어요. 글씨체를 봤는데 반듯해요. 배운 사람 글씨예요.
+NADIA: Lei era maestra. Lei sa leggere le calligrafie. || 선생님이셨잖아요. 글씨체 읽을 줄 아시잖아요.
+LOREDANA: Trentacinque anni di quaderni. Questa è una mano adulta. Uomo o donna, non so. Ma non è un bambino. || 35년 동안 공책을 봤어요. 이건 어른 손이에요. 남잔지 여잔지는 모르겠어요. 근데 아이는 아니에요.
+NADIA: Forse è uno scherzo. Uno scherzo cattivo. || 장난일지도 몰라요. 못된 장난.
+LOREDANA: Forse. Ma si ricorda la lettera di aprile? L'ultima riga? «La valorizzazione del patrimonio immobiliare». || 그럴지도요. 근데 4월 편지 기억나요? 마지막 줄? «자산 부동산의 가치 제고».
+NADIA: Me la ricordo. Abbiamo pensato alla facciata. || 기억나요. 우린 외벽 얘긴 줄 알았잖아요.
+LOREDANA: Abbiamo sperato che fosse la facciata. Non è la stessa cosa. || 외벽이길 바랐던 거죠. 그건 다른 얘기예요.
+NADIA: Il mio contratto scade a marzo. Se vendono il palazzo, cosa succede al mio contratto? || 제 계약은 3월에 끝나요. 건물을 팔면 제 계약은 어떻게 돼요?
+LOREDANA: Non lo so. Davvero non lo so. Ma non sarò io a dirle «stia tranquilla». Non mi piace mentire. || 몰라요. 정말 몰라요. 근데 «걱정 말라»는 말은 내가 하지 않을게요. 거짓말하는 거 싫어요.
+NADIA: Devo andare. Il turno comincia tra quaranta minuti. Ma stasera ne parliamo? || 가야 해요. 근무가 40분 뒤에 시작해요. 근데 오늘 저녁에 얘기해요?
+LOREDANA: Stasera. Al bar di Franco. Alle sette. Lo dico io a tutti. || 오늘 저녁에. 프랑코네 바에서. 일곱 시에. 내가 다들한테 말할게요.
+NADIA: Anche a Settimio? Si spaventerà. || 세티미오 영감님한테도요? 놀라실 텐데요.
+LOREDANA: Settimio ha visto la guerra. Non si spaventa per un foglio. Ma lo dico io, con calma. || 세티미오는 전쟁을 겪은 사람이에요. 종이 한 장에 겁먹지 않아요. 그래도 내가 차분하게 말할게요.
+
+# 장면 2 — AL BANCONE
+FRANCO: Buongiorno, signora Loredana! Così presto? Il solito cappuccino senza schiuma? || 안녕하세요, 로레다나 부인! 이렇게 일찍요? 늘 드시던 거품 없는 카푸치노요?
+LOREDANA: Dopo. Prima legga questo. Era nella sua cassetta? Anche lei ne ha uno? || 이따가요. 먼저 이거 읽어 봐요. 이거 체카렐리 씨 우편함에도 있었어요? 하나 받았어요?
+FRANCO: La mia cassetta? Non l'ho ancora aperta. Aspetti... Sì. Eccolo. Un foglio. || 내 우편함이요? 아직 안 열어 봤어요. 잠깐만요… 네. 여기 있네요. 종이 한 장.
+LOREDANA: Lo legga. || 읽어 봐요.
+FRANCO: «L'Ente vuole vendere tutto il palazzo. A un fondo...» Ma che roba è? Chi l'ha messo? || «기관이 건물 전체를 팔려고 합니다. 펀드에…» 이게 뭐야? 누가 넣었어요?
+LOREDANA: Nessuno lo sa. È in tutte le cassette. La mia, quella di Nadia, la sua. Immagino anche le altre. || 아무도 몰라요. 모든 우편함에 있어요. 내 거, 나디아 거, 체카렐리 씨 거. 다른 데도 다 있겠죠.
+FRANCO: Un fondo. Un fondo d'investimento? Quelli che comprano i palazzi e poi li trasformano in... || 펀드. 투자 펀드요? 건물 사들여서 그다음에 그걸… 바꿔 버리는?
+LOREDANA: In case per turisti. Lo dica. In case per turisti. || 관광객용 숙소로. 말해요. 관광객용 숙소로.
+FRANCO: Non lo voglio dire. Se lo dico, diventa vero. || 말하기 싫어요. 말하면 진짜가 될 것 같아서.
+SETTIMIO: Buongiorno! Che facce! Ancora la bolletta della luce? || 좋은 아침! 표정들이 왜 그래! 또 전기 요금이야?
+LOREDANA: Settimio. Si sieda, per favore. || 세티미오. 좀 앉아요.
+SETTIMIO: Mi siedo? Quando una donna mi dice «si sieda», c'è sempre una brutta notizia. || 앉으라고? 여자가 나한테 «앉아요» 하면 늘 나쁜 소식이던데.
+LOREDANA: Ha ragione. Ecco. L'ha trovato anche lei nella cassetta? || 맞아요. 여기요. 영감님도 우편함에서 이거 찾았어요?
+SETTIMIO: Io la cassetta la apro il sabato. Una volta alla settimana. Così le brutte notizie arrivano tutte insieme. || 난 우편함을 토요일에 열어. 일주일에 한 번. 그래야 나쁜 소식이 한꺼번에 오지.
+FRANCO: Allora legga il mio. È uguale. || 그럼 제 거 읽어 보세요. 똑같아요.
+SETTIMIO: Gli occhiali... Ecco. «L'Ente vuole vendere tutto il palazzo...» || 안경이… 여기. «기관이 건물 전체를 팔려고 합니다…»
+> 침묵 || 침묵
+SETTIMIO: Ottantatré anni in questo palazzo. Sono nato qui. Al terzo piano. Nella stessa stanza dove dormo adesso. || 이 건물에서 여든셋 해야. 여기서 태어났어. 3층에서. 지금 자는 그 방에서.
+FRANCO: Sor Settimio... || 세티미오 영감님…
+SETTIMIO: E adesso un «amico» mi scrive che vogliono vendere. Senza firma. Che coraggio. || 그런데 이제 웬 «친구»가 판다고 쓰네. 이름도 없이. 참 용기도 좋지.
+LOREDANA: Forse ha paura. Forse è qualcuno che lavora per l'Ente. Non può firmare. || 무서웠는지도 몰라요. 기관에서 일하는 사람일 수도 있고요. 이름을 쓸 수 없는.
+SETTIMIO: Allora è un amico coraggioso a metà. Meglio di niente. || 그럼 반쯤 용감한 친구로구먼. 없는 것보단 낫지.
+
+# 장면 3 — CHI L'AVRÀ SCRITTO?
+DAVIDE: Buongiorno a tutti... Cos'è, una riunione segreta? Ah, anche voi avete il foglio. || 다들 안녕하세요… 뭐예요, 비밀 회의예요? 아, 다들 그 종이 받았구나.
+FRANCO: Anche tu? || 너도?
+DAVIDE: Luca. L'ha trovato Luca nella sua cassetta. Me l'ha mandato in foto alle sei, dal pronto soccorso. Con tre punti esclamativi. || 루카요. 루카가 자기 우편함에서 찾았어요. 새벽 여섯 시에 응급실에서 사진 찍어서 보냈어요. 느낌표 세 개 붙여서.
+LOREDANA: Allora tutti gli inquilini l'hanno ricevuto. Tutti gli appartamenti abitati. Più il bar. Più l'officina di Simone. || 그럼 세입자 전부 받은 거네요. 사람 사는 집 전부. 그리고 바. 그리고 시모네 가게까지.
+DAVIDE: Ho un'idea. Facciamo i detective. Chi l'avrà scritto? || 생각이 있어요. 탐정 놀이 해요. 누가 썼을까요?
+FRANCO: Non è un gioco, Davide. || 놀이가 아니야, 다비데.
+DAVIDE: Lo so. Ma se sappiamo chi è, sappiamo se è vero. || 알아요. 근데 누군지 알면 진짜인지도 알 수 있잖아요.
+SETTIMIO: Il ragazzo ha ragione. Chi lo sa? Chi può sapere una cosa così? || 젊은이 말이 맞아. 누가 알았을까? 이런 걸 누가 알 수 있겠어?
+LOREDANA: Qualcuno che lavora per l'Ente. O per la società di gestione. O per il fondo. || 기관에서 일하는 사람. 아니면 관리 회사. 아니면 펀드 쪽.
+FRANCO: O qualcuno che entra nel palazzo per lavoro e sente le cose. || 아니면 일 때문에 건물에 들어와서 이런저런 얘기를 듣는 사람.
+DAVIDE: Tipo chi? || 예를 들면 누구요?
+FRANCO: Tipo l'idraulico. L'imbianchino. Quello dell'ascensore... ah no, non abbiamo l'ascensore. || 예를 들면 배관공. 페인트공. 엘리베이터 기사… 아 아니지, 우린 엘리베이터가 없지.
+SETTIMIO: L'idraulico. Chi è l'idraulico della società di gestione? || 배관공. 관리 회사 배관공이 누구지?
+FRANCO: Mmm. Da tre anni... è Maurizio. || 음. 3년째… 마우리치오야.
+DAVIDE: Maurizio? Il laziale? || 마우리치오요? 그 라치오 팬?
+FRANCO: Il laziale. Ma Maurizio scrive come una gallina. Ho visto le sue fatture. Questa calligrafia non è sua. || 그 라치오 팬. 근데 마우리치오는 닭발 글씨야. 그 친구 청구서 봤거든. 이 글씨는 그 친구 거 아니야.
+LOREDANA: Forse l'ha fatto scrivere a qualcun altro. A sua moglie, per esempio. || 다른 사람한테 쓰게 했을 수도 있죠. 예를 들면 부인한테.
+FRANCO: Mi domando perché non è venuto a dirmelo. Siamo amici da quarant'anni. || 왜 나한테 와서 말 안 했는지 모르겠네. 40년 친구인데.
+SETTIMIO: Forse perché non è sicuro. Uno che non è sicuro non parla. Scrive. || 확실하지 않아서겠지. 확실하지 않은 사람은 말을 안 해. 글로 쓰지.
+DAVIDE: Oppure non è lui. E stiamo accusando un innocente. Un laziale innocente. || 아니면 그 사람이 아니고요. 그럼 우리가 죄 없는 사람을 의심하는 거예요. 죄 없는 라치오 팬을.
+FRANCO: Un laziale innocente. Non esiste. || 죄 없는 라치오 팬. 그런 건 없어.
+LOREDANA: Signor Ceccarelli, non è il momento delle battute. || 체카렐리 씨, 농담할 때가 아니에요.
+FRANCO: Ha ragione. Scusi. Oggi pomeriggio chiamo Maurizio. Gli chiedo se sa qualcosa. Senza accusarlo. || 맞는 말씀이에요. 죄송해요. 오늘 오후에 마우리치오한테 전화할게요. 뭐 아는 게 있는지 물어볼게요. 의심하는 티 안 내고.
+LOREDANA: E poi c'è un'altra cosa. Ci penso da mesi. Gli appartamenti vuoti. || 그리고 하나 더 있어요. 몇 달째 생각하던 거예요. 빈집들이요.
+DAVIDE: Quali appartamenti vuoti? || 무슨 빈집이요?
+LOREDANA: Quello accanto al mio, al secondo piano. E quello accanto a Nadia, al quarto. Sono vuoti da più di un anno. || 2층 우리 집 옆집. 그리고 4층 나디아네 옆집. 1년 넘게 비어 있어요.
+SETTIMIO: È vero. La signora Pina è andata dalla figlia a Frosinone. E il professore del quarto piano è morto a Natale. || 맞아. 피나 부인은 프로시노네 딸네로 갔고. 4층 교수님은 성탄절에 돌아가셨지.
+LOREDANA: E l'Ente non li ha affittati di nuovo. Con tutta la gente che cerca casa a Roma. Perché? || 그런데 기관이 다시 세를 안 놨어요. 로마에 집 구하는 사람이 그렇게 많은데. 왜일까요?
+DAVIDE: Perché un palazzo con le case vuote si vende meglio. || 빈집 있는 건물이 더 잘 팔리니까요.
+FRANCO: Come fai a saperlo? || 그걸 어떻게 알아?
+DAVIDE: Lavoro nel marketing. Ogni settimana scriviamo annunci per agenzie immobiliari. «Libero subito» vale di più. || 저 마케팅 일 하잖아요. 매주 부동산 중개소 광고 문구를 써요. «즉시 입주 가능»이 더 비싸요.
+SETTIMIO: «Libero subito». Come se noi fossimo un problema da togliere. || «즉시 입주 가능»이라. 우리가 치워 버려야 할 문제인 것처럼.
+LOREDANA: Per loro, Settimio, forse lo siamo. || 그 사람들한텐, 세티미오, 어쩌면 그럴지도 몰라요.
+DAVIDE: Io sul divano costo duecento euro. Quelle due case vuote, a quanto le affitterebbero ai turisti? Meglio non pensarci. || 소파에서 지내는 저는 200유로예요. 저 빈집 두 채를 관광객한테 세 놓으면 얼마일까요? 생각 안 하는 게 낫겠어요.
+
+# 장면 4 — ALLE SETTE DI SERA
+NADIA: Eccomi. Scusate il ritardo. All'ospedale oggi era un inferno. Allora? Avete scoperto qualcosa? || 저 왔어요. 늦어서 죄송해요. 오늘 병원이 지옥이었어요. 그래서요? 뭐 알아냈어요?
+FRANCO: Ho parlato con Maurizio. || 마우리치오랑 얘기했어.
+NADIA: E? È stato lui? || 그래서요? 그 사람이었어요?
+FRANCO: Dice di no. Giura di no. Sulla Lazio. E un laziale sulla Lazio non mente. || 아니래. 맹세코 아니래. 라치오를 걸고. 그리고 라치오 팬은 라치오를 걸고 거짓말 안 해.
+LOREDANA: Allora non sappiamo niente. || 그럼 우린 아무것도 모르는 거네요.
+FRANCO: Non proprio. Maurizio ha detto un'altra cosa. Due settimane fa, alla società di gestione, ha visto delle persone nuove. In giacca e cravatta. Con una cartella: «Via del Cantone 7». || 꼭 그렇진 않아요. 마우리치오가 다른 얘기를 했어요. 2주 전에 관리 회사에서 처음 보는 사람들을 봤대요. 양복에 넥타이 차림으로. «비아 델 칸토네 7번지»라고 적힌 서류철을 들고.
+NADIA: Una cartella con il nostro indirizzo. || 우리 주소가 적힌 서류철이라니.
+SETTIMIO: Allora è vero. O almeno, qualcosa di vero c'è. || 그럼 사실이구먼. 적어도 뭔가 사실인 게 있는 거야.
+DAVIDE: E non è finita. Stamattina, alle undici, ho visto un uomo davanti al palazzo. Faceva le foto alla facciata. E alle finestre. || 그리고 그게 끝이 아니에요. 오늘 아침 열한 시에 건물 앞에서 웬 남자를 봤어요. 외벽 사진을 찍고 있었어요. 창문들도요.
+LOREDANA: Le foto? Che tipo era? || 사진을? 어떤 사람이었어요?
+DAVIDE: Sui cinquanta. Giacca blu, occhiali da sole. Misurava qualcosa con un aggeggio. Un laser. || 쉰 살쯤이요. 파란 재킷에 선글라스. 무슨 기계로 뭘 재고 있었어요. 레이저요.
+FRANCO: Un perito. Uno che fa la valutazione degli immobili. Quando vendi una casa, prima viene il perito. || 감정사네. 부동산 가치를 매기는 사람. 집을 팔 때는 감정사가 먼저 와.
+NADIA: Gli hai chiesto chi era? || 누구냐고 물어봤어?
+DAVIDE: Gli ho chiesto: «Scusi, posso aiutarla?». Lui ha detto: «No, grazie, è tutto a posto». E se n'è andato. || «실례지만 도와드릴까요?» 하고 물었어요. 그 사람이 «아뇨, 괜찮아요, 다 됐어요» 하더니 가 버렸어요.
+SETTIMIO: «È tutto a posto». Quando uno dice così, niente è a posto. || «다 됐어요»라. 누가 그렇게 말하면 된 건 하나도 없는 거야.
+NADIA: Allora cosa facciamo? Aspettiamo la lettera ufficiale? || 그럼 어떻게 해요? 공식 편지를 기다려요?
+LOREDANA: No. Aspettare è la cosa peggiore. Il foglio dice: «Informatevi». Allora ci informiamo. || 아뇨. 기다리는 게 제일 나빠요. 쪽지에 «알아보세요»라고 했잖아요. 그럼 알아봐야죠.
+FRANCO: Come? || 어떻게요?
+LOREDANA: Prima di tutto ci riuniamo. Tutti gli inquilini. Anche quelli del primo piano, che non vediamo mai. || 우선 모여야죠. 세입자 전부. 1층 집 사람들처럼 한 번도 못 본 사람들까지.
+NADIA: Quelli del primo piano? Chi abita lì? Non lo so neanche. || 1층 집이요? 거기 누가 살아요? 저는 그것도 몰라요.
+LOREDANA: Una coppia giovane. Elisa e Marco. Li vedo uscire alle otto e tornare alle nove di sera. Lavorano sempre. || 젊은 부부요. 엘리사랑 마르코. 아침 여덟 시에 나가서 밤 아홉 시에 들어오는 걸 봐요. 늘 일해요.
+DAVIDE: Io faccio un gruppo su WhatsApp. «Inquilini Cantone 7». Così ci scriviamo tutti. || 제가 왓츠앱 단톡방 만들게요. «칸토네 7번지 세입자들». 그럼 다 같이 연락할 수 있잖아요.
+SETTIMIO: Un gruppo? Come quello della classe di Samir? Con duecento messaggi al giorno? || 단톡방? 사미르네 반 단톡방처럼? 하루에 메시지 이백 개 오는?
+DAVIDE: Speriamo di meno. Ma lei può leggere solo i messaggi di Loredana. Come fanno le mamme con Roberta. || 그보단 적었으면 좋겠네요. 근데 영감님은 로레다나 메시지만 읽으셔도 돼요. 엄마들이 로베르타 메시지만 읽듯이요.
+LOREDANA: E io scrivo poco. E bene. || 그리고 나는 짧게 써요. 그리고 잘 쓰고.
+FRANCO: E io intanto chiamo il commercialista. Forse lui conosce un avvocato. Per gli affitti. || 그동안 나는 세무사한테 전화할게요. 임대 전문 변호사를 알지도 모르니까.
+NADIA: Quando facciamo la riunione? || 회의는 언제 해요?
+LOREDANA: Sabato. Qui, al bar. Se il signor Ceccarelli ci presta il locale. || 토요일에요. 여기, 바에서요. 체카렐리 씨가 가게를 빌려주면요.
+FRANCO: Il locale è vostro. È anche mio, il problema. Il bar è dentro questo palazzo. Se vendono il palazzo, vendono anche il Cantone. || 가게는 여러분 거예요. 문제는 제 문제이기도 하고요. 바가 이 건물 안에 있잖아요. 건물을 팔면 칸토네도 같이 파는 거예요.
+> 잠시 침묵 || 잠시 침묵
+SETTIMIO: Trent'anni a settembre. E il palazzo forse cambia padrone. Che regalo di compleanno. || 9월이면 30년인데. 건물 주인이 바뀔지도 모른다니. 무슨 생일 선물이 이래.
+FRANCO: Non è ancora detto, Sor Settimio. Non è ancora detto niente. || 아직 정해진 거 아니에요, 영감님. 아직 아무것도 정해진 거 없어요.
+SETTIMIO: Lo so. Ma alla mia età, Franco, si sente l'odore delle cose prima che arrivino. Come la pioggia. || 알아. 근데 내 나이가 되면, 프랑코, 일이 닥치기 전에 냄새가 나. 비처럼.
+NADIA: E che odore sente? || 무슨 냄새가 나요?
+SETTIMIO: Odore di temporale. Ma anche di gente insieme. E quando c'è la gente insieme, il temporale fa meno paura. || 폭풍우 냄새. 근데 사람들이 모이는 냄새도 나. 사람들이 같이 있으면 폭풍우도 덜 무섭지.
+LOREDANA: Allora sabato. Alle sei. Tutti. || 그럼 토요일. 여섯 시. 다 같이.
+DAVIDE: Ho appena creato il gruppo. Primo messaggio: «Sabato ore 18, al Cantone. Portate le domande». || 방금 단톡방 만들었어요. 첫 메시지: «토요일 18시, 칸토네에서. 질문을 가져오세요».
+SETTIMIO: «Portate le domande». Bravo. Le domande sono la cosa più importante. || «질문을 가져오세요». 잘했어. 질문이 제일 중요한 거야.
+> 휴대폰 알림음. 다비데가 화면을 본다 || 휴대폰 알림음. 다비데가 화면을 본다
+DAVIDE: Aspettate. È arrivato un messaggio nel gruppo. Ma... non è di nessuno di noi. || 잠깐만요. 단톡방에 메시지가 왔어요. 근데… 우리 중 누구도 아니에요.
+FRANCO: Come, non è di nessuno di noi? || 우리 중 누구도 아니라니?
+DAVIDE: Un numero sconosciuto. Qualcuno ha condiviso il link del gruppo. Dice solo: «Fate presto. Il fondo si chiama Tevere Living». || 모르는 번호예요. 누가 단톡방 링크를 퍼뜨렸나 봐요. 이것만 써 있어요. «서두르세요. 펀드 이름은 테베레 리빙입니다».
+LOREDANA: «Tevere Living». || «테베레 리빙».
+SETTIMIO: Living. Ecco. Adesso anche il nemico ha un nome. || 리빙이라. 그렇구먼. 이제 적에게도 이름이 생겼어.
+
+@points
+- 추측의 미래(futuro epistemico): «Chi l'avrà scritto?», «Si spaventerà», «Immagino anche le altre» — 미래형으로 현재·과거 일을 추측한다. '-rà'에 힘을 주되 의문의 억양을 얹는다.
+- 간접 의문문: «Voglio sentire se dice la stessa cosa», «Mi chiedo la stessa cosa», «Mi domando perché non è venuto», «Gli chiedo se sa qualcosa», «Gli hai chiesto chi era?». 의문사(chi, perché, se) 앞에서 짧게 쉬고, 문장 끝은 평서문처럼 내린다.
+- 걱정의 억양: «Ma... e noi?», «Appunto. E noi?» — 같은 말을 되받을 때 더 낮고 무겁게.
+- 쪽지 낭독: «Non firmate niente. Informatevi. Un amico.» — 명령형 2인칭 복수(-ate/-ete/-atevi)를 끊어서, 쪽지 문체의 차가움을 살린다.
+- 이중자음: «cassetta», «foglio»[ʎʎ], «calligrafia»(ll), «appartamenti», «affitti», «aggeggio»[ddʒ], «occhiali», «giacca», «cravatta», «temporale»(홑).
+- 'gl'과 'gn': «foglio», «figli»(없음), «meglio»[ʎʎ] ↔ «ognuno»(없음), «sogni»(없음). 'gl'을 길게.
+- 숫자와 시간: «alle sette e un quarto», «tra quaranta minuti», «sui cinquanta».
+- 마지막 장면의 리듬: 알림음 뒤 다비데의 대사는 천천히, 펀드 이름 «Tevere Living»은 한 단어씩 또렷이. 세티미오의 마지막 줄은 낮고 단단하게.
+
+@notes
+- 'Festa della Repubblica' 6월 2일 공화국 기념일(1946년 국민투표로 공화정 수립). 로마에선 퍼레이드와 공군 곡예비행단(Frecce Tricolori)의 삼색 연기 비행이 있다.
+- 'biglietto' 쪽지, 'calligrafia' 글씨체, 'scritto a mano' 손으로 쓴.
+- 'fondo (d'investimento)' 투자 펀드, 'perito' 감정사, 'valutazione' 가치 평가, 'immobile' 부동산.
+- 'idraulico' 배관공, 'imbianchino' 페인트공, 'fattura' 청구서·세금계산서. 'scrivere come una gallina' «닭처럼 쓴다» → 글씨가 엉망이다.
+- 'Non è ancora detto' «아직 정해진 건 아니다». 'Fate presto' «서두르세요».
+- 'Libero subito' «즉시 입주 가능» — 부동산 광고 문구. 세입자가 없는 집이 더 비싸게 팔리기 때문에, 매각을 앞둔 건물에선 빈집을 다시 세 놓지 않는 경우가 많다.
+- 'aggeggio' «기계, 물건(정확한 이름을 모를 때)».
+- 'È tutto a posto' «다 괜찮다, 다 됐다».
+- 펀드 이름 «Tevere Living»과 기관 EPAM은 모두 허구다. 1층 집에 사는 엘리사와 마르코는 2부부터 등장한다.
+
+@next
+2부 19화 — «La voce gira»(소문이 번진다) — 토요일 저녁, 칸토네에 세입자들이 처음으로 한자리에 모인다. 누군가는 이미 다른 집을 알아보고, 누군가는 "소문일 뿐"이라고 하고, 누군가는 화가 났다. 2부 «Estate(여름)» 시작.
