@@ -1,0 +1,269 @@
+PART: 5
+EP: 11
+TITLE: De som gick
+SUBTITLE: 떠난 사람들 · 첫눈
+META: 대사 120턴 · 난이도 B2 · 배경: 12월 11일 토요일, 첫눈 오는 날, 카페 Biggans와 사무소, 세탁실, 그리고 Söder의 언덕
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: MAJA | 공인회계사 · 협동조합 재무 담당
+CAST: ANTON | 전략 컨설턴트 · 협동조합 이사장
+CAST: DANIEL | 응급의학과 전문의
+CAST: NOEL | 17세 · 제빵 견습생 예정 (가상)
+CAST: MIRA | 여섯 살 아이 (가상)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: WÄGNER | 부활한 기자·작가 (1882–1949)
+CAST: CHYDENIUS | 부활한 목사·정치가 (1729–1803)
+CAST: STRINDBERG | 부활한 작가 (1849–1912)
+NOTE: ※ 스톡홀름의 첫눈은 보통 11월에서 12월 사이에 옵니다. 스웨덴어에는 눈을 가리키는 말이 많습니다. 처음 내리는 눈은 ‘첫눈(första snön)’, 젖은 눈은 ‘진눈깨비(blötsnö)’, 바람에 날리는 가루눈은 ‘yrsnö’라고 하지요. 작별 인사도 여러 겹입니다. ‘Hej då’는 가벼운 인사, ‘Vi ses’는 다시 만나자는 약속, ‘Farväl’은 오래, 어쩌면 영원히 헤어질 때 쓰는 무거운 말입니다. 이번 화에서 되살아난 인물들은 아무도 ‘farväl’이라고 말하지 않습니다. 문법 초점: 가능성과 추측의 부사(kanske, nog, väl, troligen)와 접속법 대신 쓰는 skulle. 표현 초점: hej då, vi ses, tack för allt, minnas, snö.
+
+# 도입 — DEN FÖRSTA SNÖN
+ELSA: Biggan! Det snöar! Det är den första snön!
+= 비간! 눈 와요! 첫눈이에요!
+BIGGAN: Du är från Kiruna. Du har sett snö förut.
+= 넌 키루나 출신이잖아. 눈 본 적 있잖아.
+ELSA: I Kiruna kommer den i september. Den är inte en händelse. Här är den en händelse.
+= 키루나에선 9월에 와요. 거기선 사건이 아니에요. 여기선 사건이죠.
+NOEL: Jag har skottat trottoaren. Klockan fem. Före bullarna.
+= 인도 눈 치웠어요. 다섯 시에. 번 굽기 전에.
+BIGGAN: Det är föreningens trottoar nu. Om två dagar.
+= 이제 협동조합 인도야. 이틀 뒤면.
+NOEL: Trottoaren hör inte till fastigheten. Det sa Johan.
+= 인도는 부동산에 안 들어가요. 요한이 그랬어요.
+BIGGAN: Johan säger mycket.
+= 요한은 말이 많아.
+ELSA: Var är alla? Det är lördag. Wicksell sitter alltid vid fönstret på lördagar.
+= 다들 어디 있어요? 토요일이잖아요. 빅셀 씨는 토요일마다 창가에 앉잖아요.
+BIGGAN: Han satt där i morse. Klockan sju. Han betalade.
+= 오늘 아침에 거기 앉아 있었어. 일곱 시에. 돈을 냈어.
+ELSA: Han betalade? Wicksell har aldrig betalat. På ett år.
+= 돈을 냈어요? 빅셀 씨는 한 번도 안 냈잖아요. 일 년 동안.
+BIGGAN: Han betalade allt. Hela året. Med ränta. Han hade räknat ut det på en servett.
+= 전부 냈어. 일 년 치. 이자까지. 냅킨에 계산해 놨더라.
+ELSA: Med ränta?
+= 이자까지요?
+BIGGAN: Den naturliga räntan, sa han. Inte bankens.
+= 자연 이자율이래. 은행 거 말고.
+ELSA: Och Oxenstierna? Han kom inte till bakningen i morse?
+= 그럼 옥센셰르나 씨는요? 오늘 아침 빵 굽는 데 안 왔어요?
+NOEL: Han kom klockan fyra. Han övervakade. Han sa att mina bullar nu var ”värdiga ett rike”.
+= 네 시에 오셨어요. 감독하셨어요. 제 번이 이제 ‘왕국에 걸맞다’고 하셨어요.
+BIGGAN: Det är det finaste han har sagt om något bröd.
+= 빵에 대해 한 말 중에 제일 좋은 말이네.
+NOEL: Sedan gick han ut. I snön. Utan rock.
+= 그러고 나가셨어요. 눈 속으로. 외투도 없이.
+ELSA: Utan rock?
+= 외투도 없이요?
+BIGGAN: Han har aldrig haft en rock. Han har haft en kappa från 1600-talet i ett år. Vi har vant oss.
+= 외투 같은 거 가진 적 없어. 일 년 동안 1600년대 망토만 입었지. 우리 다 익숙해졌어.
+ELSA: Jag går och letar. Alla. En i taget.
+= 찾으러 갈게요. 모두. 한 명씩.
+BIGGAN: Ta en bulle med dig. Det är kallt.
+= 번 하나 가져가. 추워.
+
+# 장면 1 — TVÄTTSTUGAN OCH TRAPPAN
+ELSA: Strindberg. I tvättstugan. Som vanligt.
+= 스트린드베리 씨. 세탁실에. 평소처럼.
+STRINDBERG: Jag har tvättat min sista skjorta. Jag har skrivit min sista scen. Båda är vita.
+= 마지막 셔츠를 빨았소. 마지막 장면을 썼소. 둘 다 하얗지.
+ELSA: Sista? Varför sista?
+= 마지막이요? 왜 마지막이에요?
+STRINDBERG: Alla scener är sista scener tills man skriver nästa. Det är teaterns regel.
+= 다음 걸 쓰기 전까진 모든 장면이 마지막 장면이오. 연극의 규칙이지.
+ELSA: Vad handlar den om? Den sista scenen?
+= 무슨 내용이에요? 그 마지막 장면?
+STRINDBERG: Ett hus på Söder. Sex våningar. En tvättstuga i källaren där alla grälar om tider. Och en dag slutar de gräla.
+= 쇠데르의 건물 하나. 육 층. 지하에 세탁실이 있어서 다들 시간 때문에 싸우지. 그리고 어느 날 싸움을 멈추는 거요.
+ELSA: Varför slutar de?
+= 왜 멈춰요?
+STRINDBERG: För att de äger huset tillsammans. Det är en tråkig slutscen. Ingen dör. Publiken kommer att hata den.
+= 건물을 함께 소유하니까. 지루한 마지막 장면이지. 아무도 안 죽거든. 관객들이 싫어할 거요.
+ELSA: Jag skulle älska den.
+= 저라면 좋아할 거예요.
+STRINDBERG: Därför har jag skrivit den till dig. Här. Den ligger på torktumlaren.
+= 그래서 당신한테 주려고 썼소. 여기. 건조기 위에 있소.
+ELSA: Och du? Vart går du?
+= 그럼 선생님은요? 어디 가세요?
+STRINDBERG: Upp till Blå tornet. Jag bodde där en gång. Kanske bor jag där igen. Kanske inte.
+= 블로 토르네트에. 한때 거기 살았지. 어쩌면 다시 거기 살지도. 어쩌면 아니고.
+ELSA: Vi ses?
+= 또 봐요?
+STRINDBERG: Boka en tid i tvättstugan. Så får vi se.
+= 세탁실 시간을 예약하시오. 그럼 알게 되겠지.
+ELSA: Tvättstugan är fullbokad till februari.
+= 세탁실은 2월까지 예약이 꽉 찼어요.
+STRINDBERG: Då väntar jag till februari. Jag har väntat längre.
+= 그럼 2월까지 기다리지. 더 오래도 기다려 봤소.
+ELSA: Wägner! I trappan. Med en anteckningsbok.
+= 베그네르 씨! 계단에. 수첩 들고.
+WÄGNER: Jag har skrivit min sista artikel. Om ett kafé som köptes av två tusen människor. Sanna får publicera den.
+= 마지막 기사를 썼어요. 2,000명이 산 카페에 관해. 산나가 실어도 돼요.
+ELSA: Under ditt namn?
+= 선생님 이름으로요?
+WÄGNER: Under hennes. Mitt namn har varit i tidningarna tillräckligt. Det är hennes tur.
+= 그녀 이름으로. 내 이름은 신문에 실릴 만큼 실렸어요. 이제 그녀 차례예요.
+ELSA: Sanna kommer att gråta.
+= 산나 씨 울 거예요.
+WÄGNER: Journalister gråter inte. De skriver om det efteråt.
+= 기자는 울지 않아요. 나중에 그걸 글로 쓰죠.
+ELSA: Du kämpade för rösträtten. För kvinnor. 1921.
+= 선생님은 참정권을 위해 싸우셨잖아요. 여성을 위해. 1921년.
+WÄGNER: Och i november röstade fyrahundra kvinnor i en förening på Söder. En person, en röst. Jag var där. Jag räknade.
+= 그리고 11월에 쇠데르의 한 협동조합에서 여자 사백 명이 투표했죠. 한 사람, 한 표. 내가 거기 있었어요. 세어 봤어요.
+ELSA: Och nu? Ska du gå?
+= 그럼 이제요? 가실 거예요?
+WÄGNER: Jag ska gå ut och se på snön. Det har jag inte gjort på länge. Sedan vet jag inte.
+= 나가서 눈을 볼 거예요. 오랫동안 그러지 못했거든요. 그다음은 모르겠어요.
+ELSA: Ta pennan med dig.
+= 펜 가져가세요.
+WÄGNER: Nej. Den behåller du. Du skriver bättre lappar än jag.
+= 아니요. 그건 당신이 가져요. 당신이 나보다 쪽지를 잘 쓰잖아요.
+
+# 장면 2 — PÅ KONTORET
+MAJA: Elsa. Wicksell har lämnat ett kuvert på mitt skrivbord. Det är adresserat till ”kassören”.
+= 엘사. 빅셀 씨가 내 책상에 봉투를 두고 갔어. ‘회계 담당에게’라고 적혀 있어.
+ELSA: Öppna det!
+= 열어 봐요!
+MAJA: Det är en tabell. Föreningens ränta i trettio år. Han har räknat ut hur länge lånet tar att betala.
+= 표야. 협동조합 이자 30년 치. 대출 갚는 데 얼마나 걸리는지 계산해 놨어.
+ELSA: Hur länge?
+= 얼마나요?
+MAJA: Arton år. Om Noel säljer fyrahundra bullar om dagen.
+= 18년. 노엘이 하루에 번을 사백 개 팔면.
+NOEL: Fyrahundra! Vi säljer tvåhundrafemtio!
+= 사백 개요! 우린 이백오십 개 팔아요!
+BIGGAN: Tvåhundrafemtio en vanlig dag. Trehundra på torsdagar.
+= 평일엔 이백오십 개. 목요일엔 삼백 개.
+MAJA: Det står en fotnot. ”Pojken lär sig. Han kommer att klara fyrahundra till 2030.”
+= 각주가 있어. ‘소년은 배운다. 2030년까지 사백 개는 해낼 것이다.’
+NOEL: Han tror på mig. En nationalekonom tror på mig.
+= 저를 믿으신대요. 경제학자가 저를 믿으신대요.
+ANTON: Och Hammarskjöld? Han har lämnat något till mig.
+= 그리고 함마르셸드 씨는? 나한테 뭘 두고 가셨어.
+ELSA: Vad?
+= 뭐요?
+ANTON: En liten bok. Tom. Bara en mening på första sidan.
+= 작은 책 한 권. 비어 있어. 첫 장에 문장 하나만.
+ELSA: Läs den.
+= 읽어 봐요.
+ANTON: ”Skriv här det du inte vågar säga på mötena. Det har jag gjort i hela mitt liv.”
+= ‘회의에서 감히 말하지 못하는 걸 여기 적게. 나는 평생 그렇게 했네.’
+JOHAN: Han skrev en sådan bok själv. Den publicerades efter hans död. Vägmärken.
+= 그분 스스로 그런 책을 썼지. 돌아가신 뒤에 출간됐어. «길잡이 표지».
+ANTON: Han sa att han skulle gå upp till Mosebacke. Och titta ut över staden. Som från ett plan.
+= 모세바케에 올라간다고 하셨어. 그리고 도시를 내려다본다고. 비행기에서처럼.
+DANIEL: Som från ett plan? Han dog i en flygolycka. 1961.
+= 비행기에서처럼? 그분 비행기 사고로 돌아가셨잖아. 1961년에.
+ANTON: Jag vet. Jag frågade inte vad han menade.
+= 알아. 무슨 뜻인지 묻지 않았어.
+MAJA: Det var klokt. Vissa frågor ska man inte ställa.
+= 현명했어. 묻지 말아야 할 질문도 있어.
+ELSA: Jag ställer alla frågor.
+= 저는 다 물어요.
+MAJA: Vi vet.
+= 알아.
+ELSA: Och Lagerlöf? Och Key? Och Chydenius?
+= 그럼 라게를뢰프 씨는요? 그리고 케이 씨는요? 그리고 쉬데니우스 씨는요?
+DANIEL: Lagerlöf satt hos Ulla-Britt i morse. Hon läste högt för henne. Nils Holgersson. Sista kapitlet.
+= 라게를뢰프 씨는 오늘 아침 울라브리트 씨 집에 있었어. 소리 내서 읽어 주셨대. «닐스 홀게르손». 마지막 장.
+ELSA: Det där när Nils blir människa igen?
+= 닐스가 다시 사람이 되는 거요?
+DANIEL: Och gässen flyger vidare utan honom.
+= 그리고 거위들은 닐스 없이 계속 날아가지.
+MIRA: Ellen Key gav mig en bok också. Med bilder. Hon sa att jag skulle läsa den när jag är sju.
+= 엘렌 케이 할머니도 나한테 책 줬어. 그림 있는 거. 일곱 살 되면 읽으래.
+ELSA: Vad heter den?
+= 제목이 뭐야?
+MIRA: Jag kan inte läsa än. Det står ett långt ord.
+= 아직 못 읽어. 긴 단어가 적혀 있어.
+JOHAN: Barnets århundrade. Hon skrev den 1900. Hon trodde att det tjugonde århundradet skulle bli barnens.
+= «아동의 세기». 1900년에 쓰셨지. 20세기가 아이들의 세기가 될 거라고 믿으셨어.
+MIRA: Blev det det?
+= 그렇게 됐어?
+JOHAN: Delvis. Vi har ett århundrade till på oss.
+= 어느 정도는. 우리한테 한 세기가 더 있어.
+
+# 절정 — PÅ BACKEN
+ELSA: Fjällgatan. Utsikten. Det snöar över hela staden.
+= 피엘가탄. 전망대. 도시 전체에 눈이 와.
+CHYDENIUS: Där är ni. Jag väntade. Tryckfriheten väntar alltid på en läsare.
+= 거기 있군. 기다렸소. 출판의 자유는 늘 독자를 기다리지.
+ELSA: Chydenius. Och… Oxenstierna.
+= 쉬데니우스 씨. 그리고… 옥센셰르나 씨.
+OXENSTIERNA: God morgon, praktikanten. Ni har snö i håret.
+= 좋은 아침이오, 인턴. 머리에 눈이 묻었소.
+ELSA: Ni också, herr rikskansler. Ni har ingen rock.
+= 재상님도요. 외투가 없으시잖아요.
+OXENSTIERNA: En kansler fryser inte. Han tål. Det är skillnad.
+= 재상은 추위를 타지 않소. 견디지. 그건 다른 거요.
+CHYDENIUS: Elsa. Jag skrev en lag 1766. Att varje medborgare har rätt att läsa statens papper. Det var den första i världen.
+= 엘사. 나는 1766년에 법을 썼소. 모든 시민은 국가 문서를 읽을 권리가 있다고. 세계 최초였지.
+ELSA: Jag vet. Jag har använt den. I våras. I arkiven. Det var så vi hittade spåret.
+= 알아요. 써 봤어요. 지난봄에. 기록 보관소에서. 그렇게 흔적을 찾았잖아요.
+CHYDENIUS: Då har lagen fått en läsare till. Mer än så kan en lagstiftare inte begära.
+= 그럼 그 법은 독자를 하나 더 얻은 거요. 입법자가 그 이상을 바랄 수는 없지.
+ELSA: Ska ni gå? Båda två?
+= 가세요? 두 분 다?
+OXENSTIERNA: Gå? Vart skulle en rikskansler gå? Riket är här.
+= 가다니? 재상이 어디로 간단 말이오? 왕국은 여기 있소.
+ELSA: Alla har lämnat något. Strindberg en pjäs. Wägner en penna. Wicksell en tabell. Hammarskjöld en bok.
+= 다들 뭔가 남기고 갔어요. 스트린드베리 씨는 희곡. 베그네르 씨는 펜. 빅셀 씨는 표. 함마르셸드 씨는 책.
+OXENSTIERNA: Och ni vill veta vad jag lämnar.
+= 그럼 내가 뭘 남기는지 알고 싶은 거군.
+ELSA: Jag vill veta varför ni kom. Ett år. Ni har aldrig sagt det.
+= 왜 오셨는지 알고 싶어요. 일 년이에요. 한 번도 말씀 안 하셨어요.
+OXENSTIERNA: Ursäkta, vad betyder det? ”Varför”?
+= 실례지만, 그게 무슨 뜻이오? ‘왜’라니?
+ELSA: Det är min fråga! Ni får inte ta den!
+= 그건 제 질문이에요! 가져가시면 안 돼요!
+OXENSTIERNA: Jag lånar den. Med ränta. Wicksell har räknat ut den.
+= 빌리는 거요. 이자 붙여서. 빅셀이 계산해 놨소.
+ELSA: Då vill jag ha den tillbaka. Med svar.
+= 그럼 돌려받을래요. 대답이랑 같이.
+OXENSTIERNA: Min son skrev en gång till mig från fredsförhandlingarna. Han var rädd att han inte var klok nog.
+= 내 아들이 언젠가 평화 협상장에서 편지를 보냈소. 자기가 충분히 현명하지 않을까 봐 두려워했지.
+ELSA: Vad svarade ni?
+= 뭐라고 답하셨어요?
+OXENSTIERNA: Att han inte visste med hur lite klokskap världen styrs. Det var sant 1648. Det var sant i år.
+= 세상이 얼마나 적은 지혜로 다스려지는지 네가 모르는구나, 라고. 1648년에도 사실이었소. 올해도 사실이었지.
+CHYDENIUS: Men i år såg vi att en förening kan styras med lite mer.
+= 하지만 올해 우리는 협동조합 하나가 조금 더 많은 지혜로 다스려질 수 있다는 걸 봤소.
+OXENSTIERNA: Med ett protokoll. Och kardemumma.
+= 회의록 하나로. 그리고 카다몸으로.
+ELSA: Ni svarade inte på min fråga.
+= 제 질문에 대답 안 하셨어요.
+OXENSTIERNA: Nej. Det är det enda jag har lärt mig av advokaterna.
+= 그렇소. 그게 내가 변호사들한테서 배운 유일한 거요.
+
+# 마무리 — ÅTTA KOPPAR
+BIGGAN: Du kom tillbaka ensam.
+= 혼자 돌아왔네.
+ELSA: Jag vände mig om en gång. För att titta på staden. När jag vände mig tillbaka, var bänken tom.
+= 한 번 돌아섰어요. 도시를 보려고. 다시 돌아보니까, 벤치가 비어 있었어요.
+NOEL: Fotspår?
+= 발자국은요?
+ELSA: Det snöade för mycket. Jag vet inte. Kanske gick de nedför backen. Kanske gick de inte alls.
+= 눈이 너무 많이 왔어. 모르겠어. 어쩌면 언덕을 내려갔을지도. 어쩌면 아예 안 갔을지도.
+DANIEL: Ingen sa farväl?
+= 아무도 작별 인사 안 했어?
+ELSA: Ingen. Strindberg sa ”boka en tid”. Wägner sa ”sedan vet jag inte”. Oxenstierna sa ”riket är här”.
+= 아무도요. 스트린드베리 씨는 ‘시간을 예약하라’고. 베그네르 씨는 ‘그다음은 모르겠다’고. 옥센셰르나 씨는 ‘왕국은 여기 있다’고요.
+MAJA: Det är inte ett farväl. Det är ett ”vi ses kanske”.
+= 그건 작별이 아니야. ‘어쩌면 또 보자’지.
+DANIEL: Det är det bästa man kan säga. Jag säger det till mina patienter. ”Vi ses kanske.” Och hoppas att vi inte gör det.
+= 그게 할 수 있는 최선의 말이야. 나도 환자들한테 그래. ‘어쩌면 또 봐요.’ 그리고 다시 안 보길 바라지.
+BIGGAN: På måndag är det Lucia. Kaféet blir föreningens. Jag dukar åtta koppar till. Som vanligt.
+= 월요일은 루시아야. 카페가 협동조합 거 돼. 컵 여덟 개 더 놓을 거야. 평소처럼.
+ELSA: Om ingen kommer?
+= 아무도 안 오면요?
+BIGGAN: Då dricker vi kaffet själva. Det är inte svårt.
+= 그럼 우리가 마시지. 어려운 일 아니야.
+NOEL: Och om alla kommer?
+= 그럼 다 오시면요?
+BIGGAN: Då bakar du fyrahundra bullar. Wicksell har redan räknat ut det.
+= 그럼 네가 번 사백 개 굽는 거야. 빅셀이 이미 계산해 놨잖아.
+ELSA: Hej då, då. Till alla. Vi ses kanske.
+= 그럼 안녕. 모두에게. 어쩌면 또 봐요.
+MIRA: Ellen Key sa ”vi ses när du är sju”.
+= 엘렌 케이 할머니가 ‘일곱 살 되면 보자’ 그랬어.
+NEXT: 5부 12화 — «Ännu ett brev»(또 다른 편지) — 마지막 화. 2027년 루시아 아침. 카페가 협동조합 소유로 다시 문을 연다. Biggan은 1월부터 식품 부가세가 다시 오른다고 투덜댄다. 그때 낯선 사람이 편지 한 통을 들고 들어온다.
