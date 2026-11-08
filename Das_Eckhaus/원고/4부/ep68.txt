@@ -1,0 +1,162 @@
+#nr: 68
+#part: 4부 Winter (겨울)
+#title: Das Gegenangebot
+#ko: 역제안 · 돈이냐, 지붕이냐
+#level: B2~C1
+#setting: 2월 23일 화요일 ~ 25일 목요일. 화요일 아침, 잔은 시험 수업을 보러 간다. 목요일 오후, 헤르만 광장의 브뤼크너 사무실에 노르트베르트의 알브레히트 박사와 함부르크 변호사 팔크 박사가 온다. 그들이 내놓은 역제안은 두 가지다. A안: 협동조합이 노르트베르트의 '지출 비용'으로 35만 유로를 보상하면 소송을 취하한다. B안: 돈 대신 지붕 증축권(다락층 두 세대)을 노르트베르트에 넘기면 소송을 취하한다. 기한은 3주. 표현 초점: 협상 제안 이해하기, 조건문과 양보문, 법률 문서 어휘, 분노를 억누른 공식 대응.
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Hüseyin | 휘세인 이을드즈 · 65세
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Lin | 린 · 11세
+#cast: Herr Brückner | 위르겐 브뤼크너 · 58세, 협동조합 변호사
+#cast: Dr. Albrecht | 슈테펜 알브레히트 · 52세, 노르트베르트
+#cast: Dr. Falk | 헨드리크 팔크 · 50대, 노르트베르트 측 변호사 (함부르크)
+#cast: Kalle | 칼레 코발스키 · 58세, 이사
+#cast: Derya | 데르야 이을드즈 · 40세, 이사
+#cast: Jana | 야나 코발스키 · 34세, 이사
+#cast: Frau Schulze | 잉그리트 슐체 · 62세, 감사회
+#cast: Frau Lehmann | 카트야 레만 · 52세, 감사회
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Paul | 파울 호프만 · 27세
+#cast: Lea | 레아 바그너 · 28세
+#cast: Jannik | 야니크 후버 · 25세
+#cast: Herr Pietsch | 귄터 피치 · 71세
+#cast: Wojtek | 보이텍 · 50대
+#cast: Frau Marquardt | 헨리에테 마르크바르트 · 78세, 토지 재단 이사 (전화)
+#read: 법률가의 어조(팔크 박사): 긴 명사구와 수동태. „Im Gegenzug würde meine Mandantin die Klage zurücknehmen." — würde를 반복하며 조건을 겹겹이.
+#read: 억누른 분노: 목소리를 낮추고 말을 천천히. „Ich habe Sie verstanden. Ich brauche einen Moment." — 짧은 문장, 긴 쉼.
+#read: 양보문: „Auch wenn das Angebot fair klingt, …" „Selbst wenn wir das Geld hätten, …" „So verlockend es ist, …" — 앞부분을 올리고, 뒷부분에서 단호하게.
+#read: Aufwendungsersatz [ˈaʊ̯fvɛndʊŋsʔɛɐ̯ˌzats], Klagerücknahme [ˈklaːɡəˌʁʏknaːmə], Aufstockung [ˈaʊ̯fˌʃtɔkʊŋ], Vergleich [fɛɐ̯ˈɡlaɪ̯ç].
+#note: 소송 중 합의(Vergleich): 독일에서는 행정 소송 중에도 당사자들이 합의하면 원고가 소송을 취하(Klagerücknahme)할 수 있다. 원고는 대가로 금전 보상이나 다른 권리를 요구하는 경우가 많다. 상대가 '약해졌을 때' 나오는 제안은 대개 자기 손실을 줄이려는 것이다.
+#note: Aufstockung / Dachgeschossausbau(증축·다락층 개조): 베를린의 오래된 건물 위에 층을 올리거나 다락을 고급 주택으로 바꾸는 것. 투자자에게는 큰 수익원이다. 증축권만 따로 떼어 파는 것은 사실상 건물을 나누는 일이다.
+#note: 양보문: obwohl / auch wenn / selbst wenn (설령 …라 해도) / so … auch (아무리 …해도): „So verlockend das Angebot auch ist, wir lehnen ab." / zwar …, aber … / trotzdem / dennoch
+#note: 협상 표현: Wir legen Ihnen zwei Varianten vor. / Im Gegenzug … (그 대가로) / Das Angebot gilt bis … / Wir behalten uns vor, … / Das ist für uns nicht verhandelbar. / Wir werden das prüfen und uns melden.
+#note: 감정 조절 표현: Ich muss das erst einmal sacken lassen. (일단 곱씹어 봐야겠다) / Das ist eine Zumutung. (그건 무리한 요구다) / Ich bleibe sachlich. (냉정함을 유지하겠다) / Lassen Sie uns eine Pause machen.
+## Dienstag, sieben Uhr dreißig | 화요일, 일곱 시 반
+Hüseyin: Letzte Aufgabe. Hör zu. Ganz langsam. „Ein Zug fährt um acht Uhr zwölf in Berlin ab. Er fährt mit einer Geschwindigkeit von hundertzwanzig Kilometern pro Stunde. Cottbus ist hundertzwanzig Kilometer entfernt. Wann kommt der Zug an? Gib die Antwort in Uhrzeit an." Punkt. || 마지막 문제. 잘 들어. 아주 천천히. „기차가 8시 12분에 베를린을 출발한다. 기차는 시속 120킬로미터로 달린다. 코트부스는 120킬로미터 떨어져 있다. 기차는 언제 도착하는가? 답은 시각으로 쓰시오." 마침표.
+Can: Neun Uhr zwölf. In Uhrzeit. Nicht in Stunden. Nicht „eine Stunde". Neun Uhr zwölf. || 9시 12분이요. 시각으로요. 몇 시간이라고 쓰는 게 아니라. ‚한 시간'이 아니라요. 9시 12분.
+Hüseyin: Richtig. Und weißt du, was das Beste ist? Das ist der Zug, mit dem Edith und Paul nach Cottbus gefahren sind. Acht Uhr zwölf. Ich habe es mir gemerkt. || 맞았어. 그리고 제일 좋은 게 뭔지 아니? 이게 에디트 할머니랑 파울이 코트부스 갈 때 탄 기차야. 8시 12분. 내가 기억해 뒀지.
+Edith: Laut Fahrplan war der echte Zug erst um neun Uhr achtundzwanzig da. Und ab Lübbenau sind wir wegen Bauarbeiten mit dem Bus gefahren. Und waren achtzehn Minuten früher da. Aber das steht im Probeunterricht nicht drin. Hoffentlich. || 시간표상으로 진짜 기차는 9시 28분에야 도착했어. 그리고 뤼베나우부터는 공사 때문에 버스를 탔고. 그래서 18분 일찍 도착했지. 그런데 그건 시험 수업에 안 나오겠지. 그러길 바라.
+Can: Wenn das drin steht, schreibe ich: „Ab Lübbenau Ersatzverkehr. Siehe Edith." || 그게 나오면 이렇게 쓸게요. „뤼베나우부터 대체 운행. 에디트 할머니 참조."
+Lin: Can! Komm! Der Bus! Wir müssen zur anderen Schule. Zum Gymnasium. Da ist der Probeunterricht. Drei Stationen. || 잔! 빨리! 버스! 다른 학교로 가야 해. 김나지움으로. 거기서 시험 수업 해. 세 정거장이야.
+Can: Warum kommst du mit? Du musst doch gar nicht. Du hast eins Komma sechs. || 너는 왜 같이 가? 너는 안 가도 되잖아. 1.6이잖아.
+Lin: Ich bringe dich hin. Und ich warte. Vor der Tür. Drei Stunden. Ich habe ein Buch dabei. Und Kekse. Frau Wagner hat es erlaubt. Ich bin heute deine Assistentin. || 데려다주려고. 그리고 기다릴게. 문 앞에서. 세 시간. 책도 가져왔어. 과자도. 바그너 선생님이 허락했어. 오늘은 내가 네 조수야.
+Edith: Can. Komm her. Ich gebe dir etwas mit. Für die Tasche. Nicht zum Benutzen. Nur zum Tragen. || 잔. 이리 와. 줄 게 있어. 가방에 넣어 가. 쓰라는 게 아니라. 그냥 갖고만 있으라고.
+Can: Was ist das? Ein Stein? || 이게 뭐예요? 돌이요?
+Edith: Ein Kieselstein. Vom Ufer. Vom Schlachtensee. Am zehnten Januar habe ich ihn aufgehoben. Als ich vom Stuhl gestiegen bin. Ich habe gedacht: Den bekommt jemand, der etwas Schweres vorhat. || 조약돌이야. 물가에서 주운 거. 슐라흐텐호수에서. 1월 10일에 주웠어. 의자에서 내릴 때. 그때 생각했지. 이건 뭔가 어려운 일을 앞둔 사람한테 줘야겠다.
+Can: Ich nehme ihn mit. In die linke Tasche. Und rechne mit der rechten Hand. || 가져갈게요. 왼쪽 주머니에요. 그리고 오른손으로 계산할게요.
+Hüseyin: Can. Eins noch. Wenn du nicht weiterweißt: Lies die Frage noch einmal. Bis zum Punkt. Und dann atme. Einmal. Wie ich in der Fabrik. Vor jeder schweren Kiste. || 잔. 하나만 더. 모르겠으면 문제를 한 번 더 읽어. 마침표까지. 그리고 숨을 쉬어. 한 번. 내가 공장에서 그랬듯이. 무거운 상자 들기 전마다.
+Can: Lesen. Punkt. Atmen. Rechnen. Okay. Tschüss, Dede. Tschüss, Edith. || 읽기. 마침표. 숨쉬기. 계산하기. 알겠어요. 안녕, 데데. 안녕히 계세요, 에디트 할머니.
+Edith: Tschüss, Can. Und denk dran: Es ist eine Prognose. Kein Urteil. || 잘 다녀와, 잔. 그리고 기억해. 그건 예측이야. 판결이 아니라.
+## Vor der Tür | 문 앞에서
+Lea: Lin? Du sitzt hier? Seit zwei Stunden? Bei der Kälte? Du hast heute keinen Probeunterricht. Du müsstest im Unterricht sein. Bei Frau Petrović. || 린? 여기 앉아 있었어? 두 시간째? 이 추위에? 너는 오늘 시험 수업 없잖아. 페트로비치 선생님 수업에 있어야지.
+Lin: Sie haben es erlaubt, Frau Wagner. Gestern. Sie haben gesagt: Eine Assistentin darf. Für einen Tag. || 선생님이 허락하셨잖아요, 바그너 선생님. 어제요. 조수는 된다고 하셨어요. 하루는요.
+Lea: Ich habe gesagt: Du darfst ihn hinbringen. Nicht drei Stunden vor der Tür frieren. || 데려다줘도 된다고 했지. 세 시간 동안 문 앞에서 얼어 있으라고는 안 했어.
+Lin: Ich friere nicht. Ich habe die Schlittschuhe von Frau Krüger in der Tasche. Als Glücksbringer. Und ich lese. „Die unendliche Geschichte". Zum dritten Mal. || 안 얼었어요. 크뤼거 할머니 스케이트를 가방에 넣어 왔어요. 행운의 부적으로요. 그리고 책 읽고 있어요. „끝없는 이야기". 세 번째예요.
+Lea: Lin. Darf ich dich etwas fragen? Warum machst du das? Für Can? || 린. 하나 물어봐도 돼? 왜 이렇게 하는 거야? 잔을 위해서?
+Lin: Weil er bei Sankt Martin keinen Schwanz mehr hatte. Und ich ihm meine halbe Laterne gegeben habe. Und dann hat er mir im Januar einen Frosch gemacht. Auf dem Eis. Und mich gerettet. In der Übung. Man muss zurückretten. Das ist eine Regel. Von mir. || 성 마르틴 때 잔 여우가 꼬리가 없어졌잖아요. 그래서 제가 등불 반쪽을 줬고요. 그리고 1월에 잔이 저 구해 줬어요. 얼음 위에서 개구리 자세로요. 연습이었지만요. 구해 준 사람은 다시 구해 줘야 해요. 그게 규칙이에요. 제 규칙이요.
+Lea: Und deine Mutter? Weiß sie, dass du hier bist? || 그럼 너희 어머니는? 여기 있는 거 아셔?
+Lin: Ja. Sie hat gesagt, ich soll lieber lernen. Für eins Komma null. Aber dann hat sie mir die Kekse gemacht. Mit Sesam. Für Can. Sie sagt, Sesam ist gut für das Gehirn. || 네. 엄마는 차라리 공부나 하라고 했어요. 1.0 받게요. 그런데 그러고 나서 과자를 만들어 주셨어요. 참깨 넣은 거요. 잔 주라고요. 참깨가 머리에 좋대요.
+Lea: Deine Mutter backt Kekse für einen Jungen, der eine Drei in Mathe hat? || 너희 어머니가 수학 3점 받은 남자애한테 줄 과자를 구우셨다고?
+Lin: Meine Mutter ist strenger als alle Lehrer. Aber sie hat ein weiches Herz. Wie eine Schrippe. Sagt Jana. || 우리 엄마는 어떤 선생님보다 엄해요. 그래도 마음은 여려요. 슈리페처럼요. 야나 언니가 그랬어요.
+Lea: Hart außen, weich innen. Ich glaube, das ist ein Berliner Kompliment. Darf ich mich zu dir setzen? Ich habe eine Freistunde. Und eine Thermoskanne. Mit Kakao. || 겉은 딱딱하고 속은 부드럽고. 그거 베를린식 칭찬인 것 같다. 옆에 앉아도 될까? 나 공강 시간이거든. 보온병도 있어. 코코아 담은 거.
+Lin: Gerne. Aber leise. Ich bin gerade an der Stelle, wo Atréju durch die Sümpfe der Traurigkeit muss. Da darf man nicht reden. || 좋아요. 그런데 조용히요. 지금 아트레유가 슬픔의 늪을 건너야 하는 장면이거든요. 거기선 말하면 안 돼요.
+Lea: Die Sümpfe der Traurigkeit. Da muss Can gerade auch durch. Mit sieben Aufgaben. || 슬픔의 늪이라. 지금 잔도 그걸 건너는 중이겠네. 문제 일곱 개 들고.
+Lin: Can schafft das. Er hat einen Stein in der Tasche. Von Frau Krüger. Und Atréju hatte ein Pferd. Ein Stein ist besser. Ein Stein versinkt nicht. Oder doch? Doch. Egal. || 잔은 해낼 거예요. 주머니에 돌이 있거든요. 크뤼거 할머니가 준 거요. 그리고 아트레유한텐 말이 있었고요. 돌이 더 나아요. 돌은 안 가라앉으니까요. 아니, 가라앉나? 가라앉네. 상관없어요.
+## Das Angebot | 제안
+Herr Brückner: Herr Dr. Albrecht. Herr Dr. Falk. Bitte setzen Sie sich. Kaffee? Er ist aus der Kneipe von Herrn Kowalski. Ich habe ihn heute Morgen geholt. Ein Liter. Schwarz. || 알브레히트 박사님. 팔크 박사님. 앉으세요. 커피 드실래요? 코발스키 씨 가게 거예요. 오늘 아침에 가져왔어요. 1리터. 블랙으로요.
+Dr. Albrecht: Gerne. Herr Kowalski. Frau Yıldız. Frau Kowalski. Wir haben uns lange nicht gesehen. Seit Ihrer Mail. „Zur Kenntnis genommen." Das war unhöflich von mir. Ich gebe es zu. || 좋죠. 코발스키 씨. 이을드즈 씨. 코발스키 씨 따님. 오랜만이네요. 그 메일 이후로요. „확인했음." 제가 무례했어요. 인정합니다.
+Kalle: Drei Wörter. Ick habe sie ausgedruckt. Sie hängen in der Kneipe. Neben dem Fuchs. || 세 단어. 출력해 뒀어요. 가게에 걸려 있어요. 여우 옆에요.
+Dr. Falk: Darf ich direkt zur Sache kommen? Meine Mandantin hat die Entwicklung der letzten Wochen sehr genau verfolgt. Die Eintragung der Genossenschaft. Die Förderung des Landes. Den Einwohnerantrag. Die Ausschusssitzung. Meine Mandantin ist zu der Einschätzung gelangt, dass ein langwieriges Verfahren für keine Seite im Interesse ist. || 바로 본론으로 들어가도 될까요? 제 의뢰인은 지난 몇 주간의 진행 상황을 아주 면밀히 지켜봤습니다. 협동조합의 등기. 주정부의 지원. 주민 청원. 위원회 회의. 제 의뢰인은 장기간의 소송이 어느 쪽에도 이익이 되지 않는다는 판단에 이르렀습니다.
+Derya: Das heißt? || 그 말은요?
+Dr. Falk: Wir legen Ihnen zwei Varianten vor. Variante A: Die Genossenschaft erstattet meiner Mandantin die Aufwendungen, die im Zusammenhang mit dem Erwerb entstanden sind. Gutachten, Notarkosten, Finanzierungszusagen, Planungskosten für die Modernisierung. Pauschal dreihundertfünfzigtausend Euro. Im Gegenzug würde meine Mandantin die Klage zurücknehmen. Innerhalb von vierzehn Tagen nach Zahlungseingang. || 두 가지 안을 제시하겠습니다. A안. 협동조합은 매입과 관련해 발생한 제 의뢰인의 지출 비용을 상환합니다. 감정료, 공증 비용, 자금 조달 확약, 현대화 설계 비용. 일괄 35만 유로입니다. 그 대가로 제 의뢰인은 소송을 취하합니다. 대금 입금 후 14일 이내에요.
+Jana: Dreihundertfünfzigtausend. Für Gutachten. Das Gutachten von Herrn Wolf hat … ich habe es nachgeschlagen. Viertausendachthundert Euro gekostet. || 35만이라. 감정료로요. 볼프 씨 감정서는… 찾아봤어요. 사천팔백 유로 들었어요.
+Dr. Falk: Die Planungskosten für die Modernisierung waren erheblich. Architekten, Statiker, Energieberater. Die Unterlagen kann ich Ihnen vorlegen. || 현대화 설계 비용이 상당했습니다. 건축가, 구조 기술자, 에너지 컨설턴트. 서류를 제출해 드릴 수 있습니다.
+Kalle: Und Variante B? || 그럼 B안은요?
+Dr. Albrecht: Variante B ist … eleganter. Sie zahlen nichts. Gar nichts. Stattdessen überlassen Sie uns das Recht zur Aufstockung. Das Dach. Wir bauen zwei Wohnungen im Dachgeschoss. Mit Terrassen. Auf eigene Kosten. Und auf eigene Rechnung. Wir verkaufen sie. Der Rest des Hauses gehört Ihnen. Inklusive neuem Dach. Das zahlen wir. Hunderttausend. || B안은… 더 우아합니다. 여러분은 아무것도 안 내셔도 됩니다. 전혀요. 대신 증축권을 저희에게 넘기시는 겁니다. 지붕이요. 저희가 다락층에 집 두 채를 짓겠습니다. 테라스 딸린 걸로요. 저희 비용으로요. 저희 계산으로요. 그걸 팔고요. 나머지 건물은 여러분 것입니다. 새 지붕까지 포함해서요. 그건 저희가 내겠습니다. 10만 유로요.
+Derya: Zwei Penthouses. Auf unserem Haus. Mit Aufzug? || 펜트하우스 두 채요. 우리 집 위에요. 엘리베이터도요?
+Dr. Albrecht: Natürlich mit Aufzug. Den dürften dann alle benutzen. Auch Frau Krüger. Das ist doch ein Vorteil für Sie. || 물론 엘리베이터도요. 그건 모두가 쓸 수 있게 될 거예요. 크뤼거 부인도요. 여러분한테도 이득이잖아요.
+Kalle: … Ick habe Sie verstanden. Ick brauche einen Moment. || …무슨 말인지 알겠어요. 잠깐 시간이 필요해요.
+Dr. Falk: Selbstverständlich. Das Angebot gilt bis zum achtzehnten März. Danach behält sich meine Mandantin vor, das Verfahren mit allen Mitteln fortzuführen. Bis zur letzten Instanz. Das kann drei Jahre dauern. || 물론이죠. 제안은 3월 18일까지 유효합니다. 그 뒤로는 제 의뢰인이 모든 수단을 동원해 소송을 계속할 권리를 유보합니다. 최종심까지요. 그건 삼 년이 걸릴 수도 있습니다.
+Herr Brückner: Drei Jahre. Herr Dr. Falk, wir wissen beide, dass Ihre Klage nach der Eintragung schwach ist. Sehr schwach. Sonst säßen Sie nicht hier. || 삼 년이라. 팔크 박사님, 등기 이후로 귀측 소송이 약하다는 건 우리 둘 다 알잖아요. 아주 약하죠. 아니면 여기 앉아 계시지 않았을 테니까요.
+Dr. Falk: Schwach ist relativ, Herr Kollege. Auch eine schwache Klage kann eine Bankzusage zum Platzen bringen. Ihre läuft im Juni aus, wenn ich richtig informiert bin. || 약하다는 건 상대적인 거죠, 동료 변호사님. 약한 소송도 은행 확약을 날려 버릴 수는 있습니다. 제가 제대로 알고 있다면 귀측 확약은 6월에 만료되죠.
+Jana: Sie sind gut informiert. Wieder. || 정보가 빠르시네요. 또.
+Dr. Albrecht: Das ist mein Beruf. Wieder. Herr Kowalski, ich sage Ihnen etwas. Persönlich. Nicht als Nordwert. Ich habe Ihre Kreidetafel gesehen. „Diese Ecke ist nicht teilbar." Ich respektiere das. Deshalb biete ich Ihnen nicht die Ecke an. Sondern das Dach. Das Dach ist nicht die Ecke. || 그게 제 직업이니까요. 또. 코발스키 씨, 한마디 할게요. 개인적으로요. 노르트베르트로서가 아니라. 가게 칠판 봤어요. „이 모퉁이는 나눌 수 없음." 존중합니다. 그래서 모퉁이를 달라는 게 아니에요. 지붕을 달라는 거죠. 지붕은 모퉁이가 아니잖아요.
+Kalle: Das Dach ist nicht die Ecke. Det stimmt. Aber das Dach ist der Himmel über der Ecke. Wir melden uns, Herr Albrecht. Bis zum achtzehnten. || 지붕은 모퉁이가 아니다. 그건 맞아요. 하지만 지붕은 모퉁이 위의 하늘이에요. 연락드릴게요, 알브레히트 씨. 18일까지요.
+## Nach dem Gespräch | 면담 후
+Herr Brückner: So. Sie sind weg. Wir sind unter uns. Jetzt dürfen Sie fluchen, Herr Kowalski. Laut. Ich habe es gehört, als die Tür zuging. || 자. 갔어요. 이제 우리끼리예요. 이제 욕하셔도 돼요, 코발스키 씨. 크게요. 문 닫힐 때 들렸어요.
+Kalle: Dreihundertfünfzigtausend. Für Gutachten von viertausendachthundert. Det ist kein Aufwendungsersatz. Det ist Lösegeld. || 35만. 사천팔백짜리 감정서에. 그건 지출 비용 상환이 아니에요. 그건 몸값이에요.
+Jana: Und Variante B ist schlimmer. Weil sie gut klingt. Kein Geld. Neues Dach. Aufzug für Edith. Aber zwei Penthouses mit Terrasse. Für eins Komma fünf Millionen. Verkauft an Leute, die nicht Mitglied sind. Auf unserem Haus. || 그리고 B안이 더 나빠요. 좋게 들리니까요. 돈도 안 들고. 새 지붕. 에디트를 위한 엘리베이터. 하지만 테라스 딸린 펜트하우스 두 채예요. 150만 유로에. 조합원도 아닌 사람들한테 팔리는 거예요. 우리 집 위에요.
+Derya: Herr Brückner. Ehrlich. Können wir Variante B überhaupt annehmen? Rechtlich? || 브뤼크너 씨. 솔직하게요. 우리가 B안을 받아들일 수는 있는 거예요? 법적으로요?
+Herr Brückner: Nein. Und das ist das Gute. Paragraf drei, Absatz zwei Ihrer Satzung. „Die Veräußerung von Grundstücken und grundstücksgleichen Rechten ist ausgeschlossen." Ein Aufstockungsrecht ist ein grundstücksgleiches Recht. Sie dürften es nur mit neun Zehnteln aller Mitglieder verkaufen. Und dann müsste die Stiftung zustimmen. Und die Stiftung hat ein Spekulationsverbot im Erbbaurechtsvertrag. Zwei Penthouses zum Weiterverkauf sind Spekulation. Lehrbuch. || 안 돼요. 그리고 그게 좋은 점이죠. 여러분 정관 제3조 2항. „토지 및 토지에 준하는 권리의 처분은 금지된다." 증축권은 토지에 준하는 권리예요. 전체 조합원 10분의 9가 찬성해야만 팔 수 있어요. 그다음엔 재단이 동의해야 하고요. 그리고 재단은 지상권 계약에 투기 금지를 넣어 놨어요. 되팔 펜트하우스 두 채는 투기예요. 교과서 그대로죠.
+Kalle: Dann ist B vom Tisch. Gut. Durch unsere eigene Satzung. Neun Zehntel. Edith hatte recht. Einer, der klar bleibt, reicht. || 그럼 B안은 끝났네. 좋아. 우리 정관 덕분에. 10분의 9. 에디트 말이 맞았어. 정신 멀쩡한 사람 하나면 충분해.
+Jana: Bleibt A. Dreihundertfünfzigtausend. Die haben wir nicht. Wir haben einen Zwischenkredit über achtzigtausend, den wir bis Juni ersetzen müssen. Wir haben null Reserve. || 그럼 A안이 남아요. 35만. 우린 그런 돈 없어요. 6월까지 갚아야 할 8만짜리 과도 대출이 있고요. 예비금은 0이에요.
+Herr Brückner: Und wenn Sie nicht zahlen, geht das Verfahren weiter. Ich schätze unsere Chancen auf achtzig Prozent. Aber achtzig Prozent heißt: In einem von fünf Fällen verlieren wir. Und dann ist das Haus weg. Und der Bezirk zahlt Schadensersatz. || 그리고 돈을 안 내면 소송은 계속돼요. 우리 승산을 80퍼센트로 봐요. 그런데 80퍼센트라는 건, 다섯 번 중 한 번은 진다는 뜻이에요. 그러면 집은 날아가고. 구청은 손해 배상을 하고요.
+Derya: Und die Zeit. Ein Jahr. Zwei. Drei. Die Bankzusage läuft im Juni aus. Herr Vogt hat sie schon einmal verlängert. Ein zweites Mal geht nicht. || 그리고 시간이요. 1년. 2년. 3년. 은행 확약은 6월에 끝나요. 포크트 씨가 이미 한 번 연장해 줬어요. 두 번은 안 돼요.
+Herr Brückner: Deshalb: Verhandeln. Nicht zahlen. Nicht ablehnen. Verhandeln. Dreihundertfünfzig ist ein Eröffnungsangebot. Ein Anwalt aus Hamburg fängt nie bei seinem wahren Preis an. Ich kenne Falk. Wir haben zweitausendneunzehn gegeneinander verhandelt. In Friedrichshain. Er hat bei achthundert angefangen. Und bei zweihundert aufgehört. || 그래서 협상해야 해요. 돈을 내는 것도 아니고. 거절하는 것도 아니고. 협상이요. 35만은 첫 제안이에요. 함부르크 변호사는 절대 자기 진짜 가격에서 시작하지 않아요. 나 팔크를 알아요. 2019년에 프리드리히스하인에서 맞붙어 협상했었죠. 80만에서 시작해서 20만에서 끝났어요.
+Kalle: Achthundert auf zweihundert. Ein Viertel. Dann wären wir bei … || 80만에서 20만으로. 4분의 1. 그럼 우리는…
+Jana: Siebenundachtzigtausendfünfhundert. Wenn es dasselbe Verhältnis ist. Das ist immer noch Geld, das wir nicht haben. Aber es ist Geld, das man sammeln kann. Mit einer Soli-Party. Und mit sehr vielen Currywürsten. || 8만 7천5백이요. 같은 비율이라면요. 그것도 여전히 우리한테 없는 돈이에요. 하지만 모을 수는 있는 돈이죠. 연대 파티로요. 그리고 엄청나게 많은 커리부어스트로요.
+Herr Brückner: Und Sie sollten zur Verhandlung nicht mit Zahlen kommen. Sondern mit Belegen. Lassen Sie sich die Aufwendungen nachweisen. Jede Rechnung. Ich wette, die Hälfte sind interne Kosten von Nordwert. Gehälter. Die muss niemand erstatten. || 그리고 협상에는 숫자가 아니라 증빙을 들고 가셔야 해요. 지출 비용을 증명하라고 하세요. 영수증 하나하나요. 장담하는데 절반은 노르트베르트 내부 비용일 거예요. 월급 같은 거요. 그런 건 아무도 상환할 필요가 없어요.
+Kalle: Frau Schulze. Sie muss die Rechnungen lesen. Alle. Dreimal. || 슐체 부인. 그분이 영수증을 읽어야 해요. 전부. 세 번씩.
+Herr Brückner: Genau das wollte ich vorschlagen. || 바로 그걸 제안하려던 참이었어요.
+## Abends: die Mitglieder | 저녁: 조합원들
+Derya: Das ist die Lage. Zwei Varianten. B ist durch unsere Satzung ausgeschlossen. A ist zu teuer. Herr Brückner rät zu Verhandlungen. Frist: achtzehnter März. Vorher, am elften, entscheidet die Bezirksverordnetenversammlung über den Einwohnerantrag. || 이게 상황이에요. 두 가지 안. B안은 우리 정관 때문에 불가능해요. A안은 너무 비싸요. 브뤼크너 씨는 협상하라고 조언해요. 기한은 3월 18일. 그 전에 11일에 구의회 본회의가 주민 청원을 의결하고요.
+Frau Lehmann: Dreihundertfünfzigtausend. Für nichts. Für eine Klage, die sie verlieren. Das ist Erpressung. Juristisch sauber. Aber Erpressung. Ich sage: Kein Cent. Wir lassen es drauf ankommen. Achtzig Prozent. || 35만. 아무것도 아닌 것에. 자기들이 질 소송에. 그건 협박이에요. 법적으로는 깔끔하죠. 그래도 협박이에요. 나는 한 푼도 안 된다고 봐요. 끝까지 가 봐요. 80퍼센트잖아요.
+Tobi: Und wenn wir die zwanzig Prozent erwischen? Dann ist meine Werkstatt weg. Und Kalles Kneipe. Und Ediths Erdgeschoss. Ich habe keine Lust auf Russisch Roulette. Mit einem Haus. || 그런데 우리가 그 20퍼센트에 걸리면요? 그럼 제 공방은 없어져요. 칼레 아저씨 가게도. 에디트 할머니 1층 집도요. 집 걸고 러시안룰렛 하고 싶진 않아요.
+Frau Lehmann: Und wenn wir zahlen, belohnen wir sie. Dann macht Nordwert das beim nächsten Haus wieder. Kaufen, klagen, kassieren. || 그런데 돈을 내면 그 사람들한테 상을 주는 거예요. 그러면 노르트베르트는 다음 집에서 또 그럴 거예요. 사고, 소송 걸고, 챙기고.
+Paul: Beides stimmt. Das ist das Schreckliche. Beide haben recht. || 둘 다 맞아요. 그게 끔찍한 거예요. 둘 다 옳아요.
+Herr Pietsch: Darf ich als Hausmeister etwas sagen? Ich habe dreißig Jahre gesehen, was Investoren mit Dächern machen. Bei Kiez Hausverwaltung kamen jedes Jahr Anfragen. Aufstockung. Ich habe sie alle abgeheftet. Unter „Nie". Herr Wendt hat jedes Mal Nein gesagt. Er hat gesagt: Über meinen Mietern wohnt der Himmel. Nicht ein Zahnarzt aus Zehlendorf. || 관리인으로서 한마디 해도 될까? 삼십 년 동안 투자자들이 지붕을 어떻게 하는지 봤어. 키츠 관리회사 시절에 해마다 문의가 왔지. 증축하겠다고. 전부 철해 뒀어. ‚절대 안 됨' 칸에. 벤트 씨는 매번 거절했어. 그러더군. 내 세입자들 위엔 하늘이 산다. 첼렌도르프 치과 의사가 아니라.
+Wojtek: Ich habe zwanzig Jahre solche Penthouses gebaut. Am Potsdamer Platz. In Mitte. Die Leute, die dort wohnen, habe ich nie gesehen. Nur ihre Terrassen. Von unten. Vom Gerüst. || 나는 이십 년 동안 그런 펜트하우스를 지었어요. 포츠담 광장에서. 미테에서. 거기 사는 사람들은 한 번도 못 봤어요. 그 사람들 테라스만 봤죠. 아래에서. 비계 위에서.
+Jannik: Ich habe Variante A durchgerechnet. Wenn wir dreihundertfünfzigtausend zahlen müssten, über einen zusätzlichen Kredit, dann stiege das Nutzungsentgelt auf neun Euro vierzig. Für alle. Für immer. Edith zahlt dann mehr als heute. Auch im Erdgeschoss. || 제가 A안을 계산해 봤어요. 35만을 추가 대출로 내야 한다면 사용료가 9유로 40으로 올라요. 모두가요. 영원히요. 그러면 에디트 할머니는 1층에 가셔도 지금보다 더 내셔야 해요.
+Frau Lehmann: Siehst du. Erpressung mit Zinsen. || 거 봐요. 이자까지 붙은 협박이라니까요.
+Jannik: Bei hunderttausend wären es acht Euro fünfzig. Bei fünfzigtausend acht dreißig. Jeder Zehntausender ist ein Cent pro Quadratmeter. Ungefähr. Für dreißig Jahre. || 10만이면 8유로 50이에요. 5만이면 8유로 30이고요. 만 유로마다 제곱미터당 1센트예요. 대략요. 삼십 년 동안이요.
+Tobi: Ein Cent pro Quadratmeter. Das klingt nach nichts. Dreißig Jahre lang. Das klingt nach einem ganzen Leben. || 제곱미터당 1센트. 아무것도 아닌 것처럼 들리네요. 삼십 년 동안이면요. 그건 평생처럼 들리고요.
+Frau Schulze: Darf ich etwas sagen? Als Aufsichtsrat? Ich will die Rechnungen sehen. Jede einzelne. Bevor wir über einen einzigen Euro reden. Wenn Nordwert dreihundertfünfzigtausend verlangt, dann soll Nordwert dreihundertfünfzigtausend belegen. Mit Datum, Betrag und Unterschrift. || 한마디 해도 될까요? 감사회로서요? 영수증을 보고 싶어요. 하나하나 다요. 단 1유로라도 얘기하기 전에요. 노르트베르트가 35만을 요구하면 노르트베르트가 35만을 증명해야죠. 날짜, 금액, 서명까지.
+Edith: Und ich will etwas wissen. Herr Albrecht hat gesagt, das Dach ist nicht die Ecke. Was hat Kalle geantwortet? || 그리고 나도 알고 싶은 게 있어요. 알브레히트 씨가 지붕은 모퉁이가 아니라고 했다면서요. 칼레는 뭐라고 대답했어요?
+Jana: Papa hat gesagt: Das Dach ist der Himmel über der Ecke. || 아빠가 그랬어요. 지붕은 모퉁이 위의 하늘이라고요.
+Edith: … Der Himmel über der Ecke. Kalle, das ist der beste Satz, den du je gesagt hast. Und du hast in fünfundzwanzig Jahren viele Sätze gesagt. Meistens über Fußball. || …모퉁이 위의 하늘이라. 칼레, 그건 네가 지금까지 한 말 중에 제일 좋은 말이야. 이십오 년 동안 말을 엄청 많이 했는데도. 대부분 축구 얘기였지만.
+Kalle: Det ist mir einfach so rausgerutscht. Ick war wütend. || 그냥 튀어나온 거야. 화가 나서.
+Edith: Die besten Sätze sagt man, wenn man wütend ist und sich beherrscht. Das habe ich im Betriebsrat gelernt. Wer nur wütend ist, schreit. Wer sich nur beherrscht, schweigt. Wer beides ist, sagt die Wahrheit. || 제일 좋은 말은 화가 났는데 참을 때 나오는 거야. 노사협의회에서 배웠지. 화만 나 있는 사람은 소리를 지르고. 참기만 하는 사람은 입을 다물어. 둘 다인 사람이 진실을 말하는 거야.
+Frau Lehmann: Und was ist die Wahrheit, Edith? Zahlen oder nicht? || 그럼 진실은 뭐예요, 에디트? 낼 거예요, 말 거예요?
+Edith: Die Wahrheit ist: Wir wissen es noch nicht. Wir verhandeln. Und am Ende stimmen wir ab. Alle. Mit Gabeln. Wie beim Kartoffelsalat. Und wer verliert, isst trotzdem mit. || 진실은 이거예요. 우리는 아직 몰라요. 협상을 하고. 마지막엔 표결을 하는 거죠. 다 같이. 포크로. 감자 샐러드 때처럼요. 그리고 진 쪽도 같이 먹는 거고요.
+## Freitag, acht Uhr null eins | 금요일, 여덟 시 일 분
+Frau Schulze: Kanzlei Falk und Partner? Schulze. Aufsichtsrat der Eckhaus eG. Ich hätte gern Herrn Dr. Falk. Persönlich. … Ich warte. … Ja, ich warte gern. Ich habe dreißig Jahre beim Finanzamt gewartet. || 팔크 앤드 파트너 법률 사무소죠? 슐체예요. Eckhaus eG 감사회요. 팔크 박사님 부탁해요. 직접요. …기다릴게요. …네, 기꺼이 기다리죠. 세무서에서 삼십 년을 기다렸거든요.
+Dr. Falk: Falk. Frau Schulze? Was kann ich für Sie tun? || 팔크입니다. 슐체 씨? 뭘 도와드릴까요?
+Frau Schulze: Sie haben am Donnerstag dreihundertfünfzigtausend Euro Aufwendungen genannt. Ich möchte die Belege sehen. Alle. Im Original oder in beglaubigter Kopie. Mit Rechnungsdatum, Rechnungsnummer und Zahlungsnachweis. Bis Montag. || 목요일에 지출 비용 35만 유로를 말씀하셨죠. 증빙을 보고 싶어요. 전부요. 원본이나 공증된 사본으로요. 청구일, 청구서 번호, 지불 증명까지 포함해서요. 월요일까지요.
+Dr. Falk: Bis Montag? Frau Schulze, das sind mehrere Ordner. || 월요일까지요? 슐체 씨, 그건 서류철 여러 개 분량인데요.
+Frau Schulze: Ich habe dreizehn Ordner, Herr Dr. Falk. Ich weiß, wie lange es dauert, Ordner zu kopieren. Ein Nachmittag. Wenn man will. || 나는 서류철이 열세 개 있어요, 팔크 박사님. 서류철 복사하는 데 얼마나 걸리는지 알아요. 오후 한나절이요. 하려고만 하면요.
+Dr. Falk: Und wenn ich nicht will? || 그럼 하기 싫으면요?
+Frau Schulze: Dann gehe ich davon aus, dass es die Belege nicht gibt. Und dann reden wir nicht über dreihundertfünfzigtausend. Sondern über das, was belegt ist. Das ist die Grundregel jeder Betriebsprüfung. Ich habe sie dreißig Jahre angewendet. Auf Firmen, die größer waren als Nordwert. || 그럼 증빙이 없다고 간주할게요. 그리고 35만에 대해서가 아니라 증명된 것에 대해서 얘기하는 거죠. 그게 모든 세무 조사의 기본 원칙이에요. 삼십 년 동안 적용해 왔어요. 노르트베르트보다 큰 회사들한테도요.
+Dr. Falk: … Sie bekommen die Unterlagen bis Mittwoch. Per Kurier. || …수요일까지 서류를 받으실 겁니다. 퀵으로요.
+Frau Schulze: Mittwoch. Gut. Ich trage es ein. Mit Bleistift. Falls Sie es sich anders überlegen. Auf Wiederhören, Herr Dr. Falk. || 수요일. 좋아요. 적어 둘게요. 연필로요. 혹시 마음이 바뀌실까 봐요. 안녕히 계세요, 팔크 박사님.
+Kalle: Wat hat er gesagt? || 뭐래요?
+Frau Schulze: Er hat Mittwoch gesagt. Nach sieben Sekunden Pause. Wer sieben Sekunden braucht, hat etwas zu verbergen. Das ist auch eine Grundregel. Von mir. || 수요일이래요. 칠 초 동안 침묵한 뒤에요. 칠 초가 걸리는 사람은 숨길 게 있는 거예요. 그것도 기본 원칙이에요. 내 원칙이요.
+## Can kommt zurück | 잔이 돌아오다
+Can: Ich bin wieder da! Ich war drei Stunden weg! Und Lin hat drei Stunden gewartet! Vor der Tür! Bei minus zwei! Sie hat ein ganzes Buch gelesen! || 저 돌아왔어요! 세 시간이나 있었어요! 그리고 린이 세 시간 동안 기다렸어요! 문 앞에서요! 영하 2도에요! 책 한 권을 다 읽었대요!
+Derya: Can! Und? Wie war es? Erzähl! Langsam! || 잔! 그래서? 어땠어? 얘기해 봐! 천천히!
+Can: Ich weiß es nicht. Das Ergebnis kommt erst im Mai. Mit der Post. Vom Schulamt. Aber ich habe bis zum Punkt gelesen. Jedes Mal. Bei allen sieben Aufgaben. || 몰라요. 결과는 5월에야 나와요. 우편으로요. 교육청에서요. 그래도 마침표까지 읽었어요. 매번요. 일곱 문제 전부 다요.
+Hüseyin: Alle sieben? Und? Die Zugaufgabe? || 일곱 개 전부? 그래서? 기차 문제는?
+Can: Es gab keine Zugaufgabe. Es gab eine Pizza-Aufgabe! Mit Achteln! „Eine Familie bestellt drei Pizzen. Jede wird in acht Stücke geschnitten. Die Mutter isst zwei Stücke, der Vater drei, die Kinder den Rest. Wie viel Pizza essen die Kinder?" Fragezeichen. || 기차 문제는 없었어요. 피자 문제가 나왔어요! 8분의 1 조각으로요! „한 가족이 피자 세 판을 주문한다. 각 피자는 여덟 조각으로 자른다. 엄마는 두 조각, 아빠는 세 조각, 아이들이 나머지를 먹는다. 아이들은 피자를 얼마나 먹는가?" 물음표.
+Edith: Fragezeichen. Kein Punkt. Was hast du gemacht? || 물음표라. 마침표가 아니고. 어떻게 했어?
+Can: Ich habe gedacht: Dede hat gesagt, bis zum Punkt. Aber da war kein Punkt. Da war ein Fragezeichen. Und dann habe ich gedacht: Ein Fragezeichen ist auch ein Punkt. Nur mit einem Haken oben. Wie ein Punkt, der eine Frage hat. Also habe ich bis zum Fragezeichen gelesen. Und dann geatmet. Einmal. || 이렇게 생각했어요. 데데가 마침표까지라고 했는데. 마침표가 없잖아. 물음표가 있었어요. 그러다 이런 생각이 들었어요. 물음표도 마침표야. 위에 갈고리만 달렸을 뿐이지. 질문이 있는 마침표인 거야. 그래서 물음표까지 읽었어요. 그리고 숨을 쉬었어요. 한 번.
+Hüseyin: Und die Antwort? || 그래서 답은?
+Can: Neunzehn Achtel. Zwei Pizzen und drei Achtel. Ich habe beides hingeschrieben. Als Bruch und als gemischte Zahl. Damit die Lehrerin sieht, dass ich es kann. Und dann habe ich noch etwas geschrieben. Klein. Unten. || 8분의 19요. 피자 두 판하고 8분의 3이요. 둘 다 썼어요. 분수로도, 대분수로도요. 선생님이 제가 할 줄 안다는 걸 알 수 있게요. 그리고 하나 더 썼어요. 작게요. 아래에다가요.
+Lin: Was? Was hast du geschrieben? Das hast du mir nicht erzählt! || 뭐? 뭐 썼는데? 나한텐 얘기 안 했잖아!
+Can: „Die Kinder essen mehr als die Eltern. Das ist fair. Sie wachsen noch." || „아이들이 부모보다 더 많이 먹는다. 그건 공평하다. 아직 크는 중이니까."
+Edith: … Das ist kein Mathe-Satz, Can. || …그건 수학 문장이 아니잖아, 잔.
+Can: Nein. Das ist ein Kalle-Satz. Für den Fall, dass die Lehrerin Humor hat. || 네. 그건 칼레 아저씨 문장이에요. 선생님이 유머 감각이 있을 경우를 대비해서요.
+Kalle: Det ist mein Satz? Ick habe den nie gesagt. || 그게 내 말이라고? 나 그런 말 한 적 없는데.
+Can: Du sagst ihn jeden Tag. Beim Mittagessen. Zu den Kindern aus der Schule. Wenn sie Nachschlag wollen. „Die Kleinen kriegen mehr. Die wachsen noch." || 매일 하시잖아요. 점심때요. 학교에서 오는 애들한테요. 더 달라고 하면요. „꼬맹이들은 더 줘야지. 아직 크는 중이잖아."
+Kalle: … Dann habe ick heute zum ersten Mal einen Probeunterricht mitgeschrieben. Mit achtundfünfzig. Ohne es zu wissen. || …그럼 내가 오늘 처음으로 시험 수업을 같이 본 셈이네. 쉰여덟에. 나도 모르게.
+Derya: Und ab heute zählt nur noch eins, Can: Mai. Bis dahin denken wir nicht mehr daran. Abgemacht? || 그리고 오늘부터는 딱 하나만 세면 돼, 잔. 5월. 그때까진 더 생각하지 말자. 약속?
+## Abends, ein Anruf aus der Stiftung | 저녁, 재단에서 온 전화
+Derya: Frau Marquardt? Entschuldigung, dass ich so spät anrufe. Ich brauche einen Rat. Nicht als Stiftung. Als Architektin. Als Henriette. || 마르크바르트 씨? 늦게 전화드려서 죄송해요. 조언이 필요해요. 재단으로서가 아니라. 건축가로서요. 헨리에테로서요.
+Frau Marquardt: Ich habe von Maja gehört. Zwei Varianten. Geld oder Dach. Ich habe gelacht. Laut. Meine neue Hüfte hat wehgetan. || 마야한테 들었어요. 두 가지 안. 돈이냐 지붕이냐. 웃었어요. 크게요. 새 고관절이 아플 만큼요.
+Derya: Gelacht? Warum? || 웃으셨다고요? 왜요?
+Frau Marquardt: Weil ich vor zwanzig Jahren genau dieses Angebot gemacht habe. Als Architektin für einen Fonds. In Prenzlauer Berg. „Wir nehmen nur das Dach." Und dann kamen die Penthouses. Und dann die Mieterhöhung für alle anderen. Wegen des Aufzugs. Den alle benutzen dürfen. Und alle bezahlen müssen. Umlage nach Paragraf fünfhundertneunundfünfzig. Das hat Herr Albrecht Ihnen nicht gesagt, oder? || 이십 년 전에 내가 바로 그 제안을 했었거든요. 펀드를 위해 일하던 건축가로서요. 프렌츨라우어 베르크에서요. „우린 지붕만 가져가겠습니다." 그러고 나서 펜트하우스가 들어섰죠. 그다음엔 다른 모든 세입자의 임대료 인상이 왔고요. 엘리베이터 때문에요. 모두가 쓸 수 있는 엘리베이터. 그리고 모두가 돈을 내야 하는. 민법 559조에 따른 분담금. 알브레히트 씨가 그건 말 안 했죠?
+Derya: Nein. Das hat er nicht gesagt. || 아니요. 그건 말 안 했어요.
+Frau Marquardt: Das sagt nie einer. Das Dach ist nie nur das Dach, Derya. Das Dach ist das, was über allen ist. Wer das Dach hat, hat am Ende das Haus. Sagen Sie das Ihrem Kalle. || 아무도 그 말은 안 해요. 지붕은 절대 그냥 지붕이 아니에요, 데르야. 지붕은 모두 위에 있는 거예요. 지붕을 가진 사람이 결국 집을 갖게 되죠. 그거 칼레 씨한테 전해요.
+Derya: Kalle hat es schon gesagt. Heute Nachmittag. Er hat gesagt: Das Dach ist der Himmel über der Ecke. || 칼레가 벌써 그렇게 말했어요. 오늘 오후에요. 지붕은 모퉁이 위의 하늘이라고요.
+Frau Marquardt: … Dann braucht er meinen Rat nicht. Dann braucht er nur einen guten Verhandler. Und eine Frau Schulze für die Rechnungen. Und, Derya: Die Stiftung hat einen kleinen Fonds. Für Notfälle. Für Rechtsstreitigkeiten unserer Erbbaurechtsnehmer. Ich sage nicht wie viel. Ich sage nur: Er existiert. Und ich sitze im Stiftungsrat. || …그럼 내 조언은 필요 없겠네요. 좋은 협상가 한 명만 있으면 되겠어요. 그리고 영수증 볼 슐체 부인 한 명이랑요. 그리고 데르야. 재단에 작은 기금이 하나 있어요. 비상용이요. 우리 지상권자들의 법적 분쟁용이요. 얼마인지는 말 안 할게요. 그냥 그런 게 있다는 것만 말할게요. 그리고 나는 재단 이사회에 앉아 있고요.
+Derya: Frau Marquardt … || 마르크바르트 씨…
+Frau Marquardt: Sagen Sie nichts. Verhandeln Sie erst. Ein Fonds für Notfälle ist für den Notfall. Nicht für den Anfang. Gute Nacht, Schwester Derya. Und grüßen Sie die Frau mit dem Tee. Ich zähle die Mittwoche. || 아무 말 마요. 먼저 협상부터 해요. 비상 기금은 비상일 때 쓰는 거예요. 처음부터 쓰는 게 아니라. 잘 자요, 데르야 간호사. 그리고 차 끓여 줄 그분한테 안부 전해 줘요. 나 수요일을 세고 있거든요.
