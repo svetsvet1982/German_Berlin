@@ -1,0 +1,168 @@
+#nr: 87
+#part: 5부 Neuer Frühling (이듬해 봄)
+#title: Grillen im Hof
+#ko: 안마당 바비큐 · 파란 방수포 아래의 세 가지 결정
+#level: B2~C1
+#setting: 5월 15일 토요일. 올해 첫 안마당 바비큐. 보이텍이 11월 모래 상자를 덮었던 파란 방수포로 천막을 친다. 칼레는 소시지, 아이셰는 쾨프테, 말테는 텃밭 첫 래디시, 비건 그릴판은 레아 담당. 오후의 잡담은 날씨, 숯불, 양념 이야기. 그러나 모두가 아는 것이 하나 있다. 오늘 저녁 일곱 시, 배정 위원회가 빈집 세 채의 결정을 발표한다. 지원서 스무 장. 집은 세 채. 결정 이유는 서면으로. 표현 초점: 음식·야외 어휘, 잡담(Smalltalk) 표현, 권유와 사양, 결정 발표와 위로.
+#cast: Wojtek | 보이치에흐 노바크(보이텍) · 53세
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Ayşe | 아이셰 이을드즈 · 62세
+#cast: Malte | 말테 · 33세, 토비의 남자친구, 정원사
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Lea | 레아 바그너 · 28세
+#cast: Paul | 파울 호프만 · 27세
+#cast: Edith | 에디트 크뤼거 · 84세
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Herr Pietsch | 귄터 피치 · 71세
+#cast: Kofi | 코피 멘사 · 35세
+#cast: Miriam | 미리암 슈타인 · 33세
+#cast: Can | 잔 이을드즈 · 11세
+#cast: Frau Lehmann | 카트야 레만 · 52세, 배정 위원회
+#cast: Hüseyin | 휘세인 이을드즈 · 65세, 배정 위원회
+#cast: Frau Albers | 헬가 알버스 · 60대, 배정 위원회 외부 위원
+#cast: Frau Kovalenko | 올레나 코발렌코 · 40대, 하르키우 출신, 아이 셋의 엄마
+#cast: Nele | 넬레 · 30대, 릭스도르프 초등 교사, 여섯 살 딸의 엄마
+#cast: Herr Wollny | 볼니 씨 · 88세, 파니어 거리 1층 세입자
+#cast: Frau Marquardt | 헨리에테 마르크바르트 · 78세, 토지 재단 이사
+#cast: Mykyta | 미키타 코발렌코 · 11세
+#cast: Mila | 밀라 · 6세, 넬레의 딸
+#cast: Leonie | 레오니 베르거 · 17세, 토비의 인턴
+#cast: Artem | 아르템 코발렌코 · 16세
+#read: 잡담 표현: „Schönes Wetter heute, oder?" „Endlich wieder draußen!" „Na, wie läuft's?" — 가볍게, 끝을 올리며. 대답은 짧게, 되묻기로 이어 가기.
+#read: 결정 발표(레만): „Die Kommission hat einstimmig entschieden …" „Wir haben uns die Entscheidung nicht leicht gemacht." — 한 문장씩 끊어서, 이름은 분명하게.
+#read: Grillkohle [ˈɡʁɪlˌkoːlə], Würstchen [ˈvʏʁstçən], Grillzange [ˈɡʁɪlˌtsaŋə], Begründung [bəˈɡʁʏndʊŋ].
+#note: 바비큐 어휘: der Grill, die Grillkohle(숯), anzünden(불 붙이다), die Glut(잉걸불), die Grillzange(집게), wenden(뒤집다), das Würstchen / die Bratwurst, der Grillkäse / Halloumi, das Grillgemüse, die Marinade, durch(익은) / noch roh(덜 익은) / angebrannt(탄)
+#note: 잡담(Smalltalk): 날씨·음식·주말 계획이 단골 주제. Schönes Wetter heute! / Was gibt's Neues? / Hast du schon probiert …? / Na, alles klar? / Und selbst? (너는?) 대답 뒤에 되물어 대화를 이어 간다.
+#note: 권유와 사양: Nimm doch noch was! / Greif zu! (마음껏 먹어) / Darf ich dir noch … anbieten? ↔ Danke, ich bin satt. / Nur noch ein kleines Stück. / Ich kann nicht mehr. 독일에서는 한 번 사양하면 대개 그대로 받아들인다. 더 먹고 싶으면 처음부터 'Ja, gern'이라고 말하는 게 좋다.
+#note: 위로 표현: Das tut mir sehr leid. / Ich verstehe, dass du enttäuscht bist. / Das ist nicht das Ende. / Wir finden eine Lösung. / Gib die Hoffnung nicht auf.
+## Zwölf Uhr: die blaue Plane | 열두 시: 파란 방수포
+Wojtek: Tobi, die andere Ecke. Höher. An die Kastanie. Nicht an den Ast. An den Stamm. Der Ast ist jung. Der Stamm ist alt. Alte Dinge halten mehr aus. || 토비, 반대쪽 모서리. 더 높이. 밤나무에. 가지 말고. 줄기에. 가지는 어려. 줄기는 늙었고. 늙은 건 더 잘 버텨.
+Tobi: Wie die Plane. Die hat im November den Sandkasten gerettet. Und jetzt rettet sie das Grillfest. Falls es regnet. || 이 방수포처럼요. 11월엔 모래 상자를 구했잖아요. 이제는 바비큐를 구하는 거죠. 혹시 비 오면요.
+Kalle: Es regnet nicht. Ich habe den Wetterbericht gelesen. Dreiundzwanzig Grad. Sonne. Leichter Wind aus Westen. Der Rauch geht also zu Nummer vierzehn. Nicht zu uns. || 비 안 와. 일기 예보 봤어. 이십삼 도. 맑음. 서풍 약간. 그러니까 연기는 14번지 쪽으로 가. 우리 쪽 말고.
+Frau Schulze: Nummer vierzehn hat sich zweitausendneunzehn beschwert. Über Rauch. Schriftlich. Bei mir. Ich war damals die Ansprechpartnerin für Beschwerden. Gegen mich selbst. || 14번지가 2019년에 항의했어. 연기 때문에. 서면으로. 나한테. 그때 내가 항의 접수 담당이었거든. 나 자신에 대한 항의도.
+Kalle: Dann laden wir Nummer vierzehn ein. Wer mitisst, beschwert sich nicht. Das ist Gastronomie. || 그럼 14번지를 초대하자. 같이 먹는 사람은 항의 안 해. 그게 요식업이야.
+Malte: Radieschen. Die ersten. Aus dem Hochbeet. Aus den Ziegeln von neunzehnhundertacht. Probiert mal. Sie sind scharf. Wie die Kohlenkammer. || 래디시. 첫물이야. 높은 화단에서 딴 거. 1908년 벽돌로 만든 데서. 먹어 봐. 매워. 석탄 창고처럼.
+Herr Pietsch: Scharf wie die Kohlenkammer. Das ist das schönste Kompliment, das je eine Kohlenkammer bekommen hat. Neunzehnhunderteinundneunzig habe ich sie zugemauert. Jetzt wachsen Radieschen aus ihren Steinen. || 석탄 창고처럼 맵다라. 석탄 창고가 받은 칭찬 중에 제일 아름답네. 1991년에 내가 그걸 벽돌로 막았지. 이제 그 벽돌에서 래디시가 자라는구나.
+Lea: Und hier: der vegane Teil. Gemüsespieße. Grillkäse für die Vegetarier. Und Tofu mit Marinade. Kalle, bitte. Getrennte Zange. Nicht dieselbe wie für die Würstchen. || 그리고 여기. 비건 코너요. 채소 꼬치. 채식주의자용 그릴 치즈. 그리고 양념한 두부요. 칼레 아저씨, 부탁이에요. 집게 따로 써 주세요. 소시지용이랑 같은 거 말고요.
+Kalle: Getrennte Zange. Seit zweitausendeins habe ich mit einer Zange gegrillt. Für alles. Und es hat sich nie jemand beschwert. || 집게를 따로라. 2001년부터 집게 하나로 구웠는데. 전부 다. 아무도 불평 안 했어.
+Lea: Weil sich niemand getraut hat. Ich bin Vegetarierin seit vierzehn. Ich habe sechs Jahre lang hier nur Kartoffelsalat gegessen. || 아무도 감히 못 했으니까요. 저 열네 살 때부터 채식주의자예요. 여기서 육 년 동안 감자 샐러드만 먹었다고요.
+Kalle: Sechs Jahre? Du bist doch erst seit August … ach so. Du meinst: überall. In ganz Berlin. Gut. Zwei Zangen. Ich hebe die Hand. Und nehme zwei Zangen. || 육 년? 너 8월부터 왔잖아… 아 그렇구나. 어디서나 말이구나. 베를린 전체에서. 좋아. 집게 두 개. 손 들게. 그리고 집게 두 개 쓸게.
+## Zwei Uhr: Smalltalk | 두 시: 잡담
+Kofi: Schönes Wetter heute, oder? Endlich wieder draußen. || 오늘 날씨 좋네요, 그쵸? 드디어 다시 밖이에요.
+Herr Pietsch: Endlich. Nach dem Winter. Minus vierzehn im Januar. Und jetzt dreiundzwanzig. Berlin kennt keine Mitte. Und selbst? Wie geht es der werdenden Mutter? || 드디어요. 겨울 지나고. 1월엔 영하 십사 도였는데. 이제는 이십삼 도. 베를린은 중간이 없어요. 그쪽은요? 예비 엄마는 어때요?
+Kofi: Gut. Sie isst nur noch saure Gurken. Und Ayşes Börek. Zusammen. Auf einem Teller. || 좋아요. 요즘 피클만 먹어요. 그리고 아이셰 아주머니 뵈렉이랑요. 같이요. 한 접시에요.
+Ayşe: Das ist ein gutes Zeichen. Saure Gurken und Börek. Bei Derya war es Eis und Pide. Und dann kam Can. Mit einem großen Kopf. || 그거 좋은 징조예요. 피클이랑 뵈렉이라. 데르야 때는 아이스크림이랑 피데였어요. 그러고는 잔이 나왔죠. 머리가 커다랗게.
+Can: Oma! Das darfst du nicht erzählen! || 할머니! 그 얘기 하면 안 돼요!
+Ayşe: Ein großer Kopf ist gut. Da passt viel rein. Das Gymnasium hat es bestätigt. Schriftlich. || 머리 큰 건 좋은 거야. 많이 들어가잖아. 김나지움이 증명해 줬잖니. 서면으로.
+Miriam: Ayşe, was ist das? Die kleinen Bällchen? Mit Petersilie? || 아이셰 아주머니, 이거 뭐예요? 작은 완자요? 파슬리 들어간 거요?
+Ayşe: Köfte. Aus Kayseri. Rezept von Hüseyins Mutter. Lammfleisch, Zwiebeln, Kreuzkümmel, und ein Geheimnis. Greif zu, Miriam. Für zwei. || 쾨프테예요. 카이세리식이요. 휘세인 어머님 요리법이에요. 양고기, 양파, 커민, 그리고 비밀 하나. 마음껏 먹어요, 미리암. 두 사람 몫으로요.
+Miriam: Was ist das Geheimnis? || 비밀이 뭐예요?
+Ayşe: Wenn ich es sage, ist es kein Geheimnis. Aber ich sage es dir. Weil du schwanger bist. Ein Löffel Joghurt in den Teig. Dann bleiben sie weich. Hüseyins Mutter hat es mir neunzehnhundertdreiundachtzig gesagt. Drei Jahre nach der Hochzeit. Vorher war ich nicht vertrauenswürdig. || 말하면 비밀이 아니죠. 그래도 말해 줄게요. 임신했으니까. 반죽에 요구르트 한 숟가락. 그러면 부드러워요. 휘세인 어머님이 1983년에 알려 주셨어요. 결혼하고 삼 년 뒤에요. 그 전엔 내가 믿을 만하지 않았던 거죠.
+Paul: Darf ich dir noch einen Spieß anbieten, Edith? Mit Paprika? || 꼬치 하나 더 드릴까요, 에디트 할머니? 파프리카 꽂힌 거요?
+Edith: Danke, ich bin satt. … Nein. Doch. Nur noch einen kleinen. Ich habe vergessen, dass man in Deutschland nur einmal fragt. Wer einmal Nein sagt, bekommt nichts mehr. Das ist gefährlich. || 고마워, 배불러. …아니다. 줘. 작은 거 하나만 더. 독일에선 한 번만 묻는다는 걸 깜빡했네. 한 번 싫다고 하면 다시는 안 줘. 그건 위험해.
+Ayşe: Bei uns fragt man dreimal. Und beim dritten Mal sagt man Ja. Das ist Höflichkeit. Kayseri-Höflichkeit. || 우리는 세 번 물어요. 그리고 세 번째엔 ‚네'라고 하는 거예요. 그게 예의죠. 카이세리식 예의.
+Edith: Dann frag mich dreimal, Ayşe. Ich bin jetzt halb aus Kayseri. Seit neunzehnhunderteinundachtzig. || 그럼 나한테 세 번 물어봐, 아이셰. 나 이제 반은 카이세리 사람이야. 1981년부터.
+## Halb drei: der Kartoffelsalat | 두 시 반: 감자 샐러드
+Kofi: Wer hat den Kartoffelsalat gemacht? Der mit Mayonnaise? Der ist wie in Hamburg. Wie bei meiner Oma. || 감자 샐러드 누가 만들었어요? 마요네즈 들어간 거요? 함부르크 거랑 똑같아요. 우리 할머니네 거처럼요.
+Herr Pietsch: Ich. Aber das ist kein Berliner Kartoffelsalat. Das ist ein Kompromiss. Für die Zugezogenen. Ein richtiger Berliner Kartoffelsalat hat keine Mayonnaise. Nur Brühe, Essig, Zwiebeln. Und Speck. || 내가 했어요. 그런데 그건 베를린식 감자 샐러드가 아니에요. 타협이죠. 이사 온 사람들을 위한. 진짜 베를린식 감자 샐러드엔 마요네즈가 안 들어가요. 육수, 식초, 양파만요. 그리고 베이컨.
+Edith: Das ist nicht wahr, Günter. Das ist der schwäbische. Der Berliner hat Gurken. Und Mayonnaise. Und ein Ei. Meine Mutter hat ihn neunzehnhundertfünfzig so gemacht. Im Wedding. || 그건 사실이 아니야, 귄터. 그건 슈바벤식이야. 베를린식엔 오이가 들어가. 그리고 마요네즈도. 그리고 달걀 하나. 우리 엄마가 1950년에 그렇게 만드셨어. 베딩에서.
+Herr Pietsch: Deine Mutter kam aus dem Wedding. Meine aus Rixdorf. Das sind zwei verschiedene Länder. Kartoffelsalatmäßig. || 너희 엄마는 베딩 출신이고. 우리 엄마는 릭스도르프 출신이야. 그건 두 개의 다른 나라야. 감자 샐러드로 치면.
+Lea: Und der vegane? Mit Senf-Dressing? Den habe ich gemacht. Niemand hat ihn probiert. || 그럼 비건 거는요? 머스터드 드레싱 넣은 거요? 그건 제가 만들었어요. 아무도 안 먹어 봤어요.
+Kofi: Ich probiere. … Hm. Der ist gut. Wirklich. Besser als der von Günter. Entschuldigung, Günter. || 제가 먹어 볼게요. …흠. 맛있네요. 진짜로요. 귄터 할아버지 것보다 나아요. 죄송해요, 귄터 할아버지.
+Herr Pietsch: Verräter. Hamburger sind alle Verräter. Seit der Hanse. || 배신자. 함부르크 사람들은 다 배신자야. 한자 동맹 때부터.
+Miriam: Darf ich auch? Mit saurer Gurke dazu? Für das Baby? || 저도 먹어도 돼요? 피클 곁들여서요? 아기를 위해서요?
+Edith: Mit saurer Gurke. Dann ist es der Berliner. Siehst du, Günter? Am Ende kommt es immer auf die Gurke an. || 피클이랑 같이라. 그럼 그게 베를린식이지. 봤지, 귄터? 결국엔 늘 오이가 관건이야.
+Herr Pietsch: Und auf die Frau, die recht haben will. Seit neunzehnhundertvierundsiebzig. || 그리고 이기고 싶어 하는 여자가 관건이지. 1974년부터.
+## Drei Uhr: Die Kandidaten am Grill | 세 시: 그릴 앞의 지원자들
+Frau Kovalenko: Guten Tag. Entschuldigung. Wir wurden eingeladen. Von Frau Lehmann. Alle Bewerber sind eingeladen, hat sie gesagt. Egal, wie es ausgeht. || 안녕하세요. 실례합니다. 초대받아서 왔어요. 레만 씨가요. 지원자는 모두 초대한다고 하셨어요. 결과가 어떻든요.
+Kalle: Willkommen. Würstchen? Oder lieber vom Grill mit der anderen Zange? Wir haben zwei Zangen. Seit heute. || 어서 오세요. 소시지 드릴까요? 아니면 다른 집게로 굽는 쪽이 좋으세요? 우리 집게 두 개예요. 오늘부터요.
+Frau Kovalenko: Würstchen. Bitte. Mykyta isst nur Würstchen. Seit zwei Jahren. Seit wir in Deutschland sind. Er sagt, das ist das Deutscheste, was es gibt. || 소시지요. 부탁해요. 미키타는 소시지만 먹어요. 이 년째요. 독일에 온 뒤로요. 그게 제일 독일다운 거래요.
+Hüseyin: Mein Enkel sagt, der Döner ist das Deutscheste. Ich sage auch Döner. Wir streiten nicht. Wir haben beide recht. || 우리 손자는 되너가 제일 독일다운 거래요. 나도 되너라고 하고요. 우린 안 싸워요. 둘 다 맞으니까.
+Nele: Hallo. Ich bin Nele. Und das ist Mila. Sie ist sechs. Sie hat gefragt, ob es hier einen Sandkasten gibt. Ich habe gesagt: Wir sind nur zu Besuch. Sie hat trotzdem ihre Schaufel mitgebracht. || 안녕하세요. 넬레예요. 그리고 얘는 밀라예요. 여섯 살이요. 여기 모래 상자 있냐고 묻더라고요. 그냥 놀러 가는 거라고 했어요. 그래도 삽을 챙겨 왔네요.
+Wojtek: Da ist der Sandkasten. Unter der Plane war er im Winter. Jetzt ist er frei. Und da ist ein Piratenschiff. Seit Montag. Mit Papagei. Es gehört allen. || 저기 모래 상자 있어요. 겨울엔 방수포 밑에 있었죠. 이젠 다 풀렸어요. 그리고 저기 해적선도 있어요. 월요일부터요. 앵무새 달린 거요. 그건 모두의 거예요.
+Herr Wollny: Und ich? Ich habe keine Schaufel. Ich habe einen Stock. Und achtundachtzig Jahre. Und einen Vermieter, der mir im Dezember gekündigt hat. Eigenbedarf. Für seinen Sohn aus München. || 그럼 나는? 나는 삽이 없어요. 지팡이가 있지. 그리고 여든여덟 살이 있고. 그리고 12월에 계약 해지를 통보한 집주인이 있어요. 본인 거주 사유로요. 뮌헨에 사는 아들 때문에.
+Edith: Herr Wollny. Setzen Sie sich zu mir. Hier. Im Schatten. Ich habe Sie vorgeschlagen. Ich darf nichts sagen. Ich bin befangen. Aber ich darf Ihnen einen Stuhl geben. || 볼니 씨. 제 옆에 앉으세요. 여기요. 그늘에요. 제가 볼니 씨를 추천했어요. 아무 말도 하면 안 돼요. 이해관계가 있거든요. 그래도 의자는 드려도 돼요.
+Herr Wollny: Einen Stuhl. Im Erdgeschoss. Das ist schon mehr, als mein Vermieter mir gibt. || 의자라. 1층에서. 그것만 해도 우리 집주인이 주는 것보다 많네요.
+Frau Kovalenko: Mykyta hat mir erzählt, dass Tobi ihm ein Piratenschiff geschenkt hat. Ich habe gesagt: Nimm es nicht mit nach Hause. Wenn wir nicht hierher ziehen, muss es hierbleiben. Er hat es hier aufgestellt. Im Sandkasten. Er sagt, dann wartet es auf ihn. || 미키타가 그러는데 토비 씨가 해적선을 줬다면서요. 집에 가져오지 말라고 했어요. 여기로 이사 못 오면 여기 남아 있어야 하니까요. 그래서 여기 놔뒀어요. 모래 상자에요. 그러면 자기를 기다려 줄 거래요.
+Tobi: Es wartet. Es hat schon ein Jahr gewartet. Es ist geduldig. || 기다릴 거예요. 이미 일 년을 기다렸는걸요. 참을성이 많아요.
+## Fünf Uhr: die Kommission | 다섯 시: 위원회
+Frau Albers: Ich habe die Tabelle dreimal geprüft. Wie bei der Flugzeugwartung. Jeder Punkt, jede Zeile. Zwanzig Bewerbungen. Drei Wohnungen. Kein Fehler. || 표를 세 번 확인했어요. 항공기 정비할 때처럼요. 항목 하나하나, 줄 하나하나. 지원서 스무 장. 집 세 채. 오류 없어요.
+Frau Lehmann: Und die Begründungen? Schriftlich? Für jeden? Auch für die, die keine Wohnung bekommen? || 결정 이유는요? 서면으로요? 전부 다요? 집을 못 받는 사람들한테도요?
+Hüseyin: Siebzehn Briefe. Für siebzehn Absagen. Ich habe sie mit Ingrid geschrieben. Jeden einzeln. Kein Formbrief. Murats Brief habe ich nicht geschrieben. Ich bin befangen. Frau Albers hat ihn geschrieben. Ich habe ihn nicht einmal gelesen. || 편지 열일곱 통. 거절 열일곱 건에. 잉그리트랑 같이 썼어요. 한 통씩 따로요. 정형 편지 없이요. 무라트 편지는 내가 안 썼어요. 이해관계가 있으니까. 알버스 씨가 썼어요. 나는 읽어 보지도 않았어요.
+Frau Albers: Er ist gut, Herr Yıldız. Ich habe geschrieben, dass er Platz zwei war. Für die Wohnung über der Werkstatt. Mit zwei Punkten Abstand. Und dass er auf der Warteliste ganz oben steht. Für die nächste. || 좋은 편지예요, 이을드즈 씨. 무라트 씨가 2위였다고 썼어요. 공방 위층 집에서요. 2점 차이로요. 그리고 다음 빈집을 위한 대기 명단 맨 위에 있다고요.
+Frau Lehmann: Gut. Um sieben. Unter der Plane. Ich sage es. Laut. Für alle. Und dann gebe ich die Briefe. Und dann … dann essen wir weiter. Das ist wichtig. Dass wir danach weiteressen. Alle zusammen. Auch die, die enttäuscht sind. || 좋아요. 일곱 시에. 방수포 아래에서. 내가 말할게요. 크게. 모두에게. 그다음 편지를 나눠 주고요. 그다음엔… 계속 먹는 거예요. 그게 중요해요. 그다음에도 계속 먹는 거요. 다 같이요. 실망한 사람들까지요.
+## Sieben Uhr: unter der Plane | 일곱 시: 방수포 아래
+Frau Lehmann: Darf ich um Ruhe bitten? Kalle, die Zange. Danke. Liebe Nachbarinnen und Nachbarn, liebe Bewerberinnen und Bewerber. Die Kommission hat entschieden. Einstimmig. Wir haben es uns nicht leicht gemacht. Erstens. Vorderhaus, vierter Stock. Fünfundachtzig Quadratmeter. Drei Zimmer. Neben mir. Familie Kovalenko. Olena Kovalenko, Artem, Oksana und Mykyta. Begründung: Dringlichkeit zehn. Haushaltsgröße zehn. Kiezbezug acht. Zwei Kinder in der Schule hier. Ein Sohn in der Ausbildung hier. Ab September. || 조용히 해 주시겠어요? 칼레 씨, 집게요. 고마워요. 친애하는 이웃 여러분, 그리고 지원자 여러분. 위원회가 결정했습니다. 만장일치로요. 쉽게 내린 결정이 아닙니다. 첫째. 앞 동 5층. 85제곱미터. 방 세 개. 제 옆집입니다. 코발렌코 가족. 올레나 코발렌코, 아르템, 옥사나, 미키타. 이유: 긴급성 10점. 가구 규모 10점. 동네 연고 8점. 아이 둘이 이 동네 학교에 다니고. 아들 하나는 9월부터 여기서 직업 교육을 받습니다.
+Frau Kovalenko: … Wir? Die Wohnung? Mit drei Zimmern? Zwei Jahre ein Zimmer. Zu viert. In der Unterkunft. Mit einem Bett für Oksana und mich. Und Artem auf dem Boden. Und jetzt … drei Zimmer? || …우리요? 그 집이요? 방 세 개짜리요? 이 년 동안 방 하나였어요. 넷이서요. 숙소에서요. 옥사나랑 저는 침대 하나에서 자고. 아르템은 바닥에서 자고. 그런데 이제… 방 세 개요?
+Can: Frau Kovalenko. Das ist die Wohnung von Frieda. Neunzehnhundertzwölf. „Ganz oben. Dafür hell." Ich habe die Postkarte. Sie hängt in der Ecke. Neben dem Zehner. || 코발렌코 아주머니. 그건 프리다 할머니 집이에요. 1912년에요. „맨 꼭대기요. 대신 밝아요." 제가 그 엽서 갖고 있어요. 크나이페에 걸려 있어요. 10마르크 옆에요.
+Frau Lehmann: Zweitens. Die Wohnung über der Werkstatt. Erster Stock. Eine Treppe. Kalle, du bist befangen. Bitte geh einen Schritt zurück. Danke. Herr Wojciech Nowak. Mit Bruno. Begründung: Dringlichkeit zehn. Die Unterkunft endet Ende Juni. Haushaltsgröße zwei. Mit Hund. Kiezbezug neun. Er hat an drei Wohnungen in diesem Haus mitgearbeitet. Ehrenamtlich. Und: Eignung der Wohnung. Bruno hat Arthrose. Hinten links. Eine Treppe statt vier. Frau Albers hat das in die Tabelle geschrieben. Als einzige Zeile mit einem Hund. || 둘째. 공방 위층 집. 2층. 계단 한 층. 칼레 씨, 이해관계가 있으니 한 걸음 뒤로 물러나 주세요. 고마워요. 보이치에흐 노바크 씨. 브루노와 함께. 이유: 긴급성 10점. 숙소가 6월 말에 끝납니다. 가구 규모 2명. 개 포함. 동네 연고 9점. 이 집의 빈집 세 채 공사에 함께했습니다. 자원봉사로요. 그리고 집 적합성. 브루노는 관절염이 있습니다. 왼쪽 뒷다리요. 계단 네 층 대신 한 층. 알버스 씨가 그걸 표에 적었습니다. 개가 들어간 유일한 줄로요.
+Wojtek: … Ich. Mit Bruno. Eine Treppe. || …나. 브루노랑. 계단 한 층.
+Kalle: Ich habe nichts gesagt. Ich stehe einen Schritt zurück. Ich hebe beide Hände. Ich … ich darf jetzt gratulieren? Nach dem Punkt? Ingrid? Darf ich? || 나 아무 말 안 했어. 한 걸음 뒤에 서 있어. 두 손 다 들게. 나… 이제 축하해도 돼? 마침표 다음이잖아? 잉그리트? 해도 돼?
+Frau Schulze: Nach dem Punkt darfst du, Kalle. Die Entscheidung ist gefallen. Ohne dich. Jetzt darfst du dich freuen. Mit allen. || 마침표 다음이니 해도 돼, 칼레. 결정은 났어. 너 없이. 이제 기뻐해도 돼. 모두랑 같이.
+Wojtek: Kalle. Du hast mir im April eine Wohnung versprochen. Und dann hast du dich entschuldigt. Und dann hast du nichts mehr gesagt. Sechs Wochen nichts. Das war das Beste, was du für mich tun konntest. Danke, dass du nichts gesagt hast. || 칼레. 너 4월에 나한테 집을 약속했지. 그러고는 사과했어. 그러고는 아무 말도 안 했어. 육 주 동안 아무 말도. 그게 네가 나한테 해 줄 수 있는 최고였어. 아무 말 안 해 줘서 고마워.
+Frau Lehmann: Drittens. Seitenflügel, dritter Stock. Achtundfünfzig Quadratmeter. Zwei Zimmer. Ediths alte Wohnung. Nele und Mila. Begründung: Dringlichkeit acht. Ein Jahr bei der Mutter in Lichtenrade, mit Kind, auf der Couch. Haushaltsgröße passend. Kiezbezug zehn. Nele unterrichtet an der Grundschule hier. Und sie hat uns im Juni letzten Jahres die Leerstände beim Bezirk gemeldet. Ohne zu wissen, dass sie sich eines Tages selbst bewerben würde. || 셋째. 곁채 4층. 58제곱미터. 방 두 개. 에디트 씨의 옛집. 넬레 씨와 밀라. 이유: 긴급성 8점. 일 년 동안 리히텐라데 어머니 집 소파에서 아이와 지냈습니다. 가구 규모 적합. 동네 연고 10점. 넬레 씨는 이 동네 초등학교에서 가르칩니다. 그리고 작년 6월에 구청에 빈집 신고를 해 주셨죠. 언젠가 자기가 지원하게 될 줄도 모르고요.
+Nele: Ediths Wohnung? Mit achtundsiebzig Stufen? || 에디트 할머니 집이요? 계단 일흔여덟 개짜리요?
+Edith: Achtundsiebzig Stufen. Mit einem Kind von sechs, das sie jeden Tag hochrennt. Und runter. Und wieder hoch. Das ist genau das, was die Stufen brauchen. Nach zweiundfünfzig Jahren mit mir. Jemanden, der rennt. || 계단 일흔여덟 개. 매일 뛰어 올라가는 여섯 살 아이랑 같이. 그리고 내려가고. 그리고 또 올라가고. 그게 딱 그 계단들한테 필요한 거야. 나랑 오십이 년을 보낸 뒤에. 뛰어다니는 누군가가.
+Mila: Mama. Ist das das Haus mit dem Piratenschiff? Wohnen wir jetzt hier? Bei dem Schiff? || 엄마. 여기가 해적선 있는 집이야? 우리 이제 여기 살아? 배 옆에서?
+Nele: Ja, Mila. Bei dem Schiff. Und bei Mykyta und Oksana. Und bei einem Hund. Und … bei allen. || 응, 밀라. 배 옆에서. 그리고 미키타랑 옥사나 옆에서. 그리고 강아지 옆에서. 그리고… 모두 옆에서.
+## Halb acht: Kohle mit dem Lastenrad | 일곱 시 반: 화물 자전거로 온 숯
+Leonie: Lieferung! Nachschub! Zehn Kilo Grillkohle. Mit Gisela. Der Lastenrad-Gisela. Nicht der echten. Tobi, wo soll ich sie hinstellen? || 배달이요! 추가분이요! 숯 십 킬로요. 기젤라로 왔어요. 화물 자전거 기젤라요. 진짜 기젤라 할머니 말고요. 토비 형, 어디에 둘까요?
+Tobi: Neben den Grill. Danke, Leonie. Wie war die erste Woche? Ehrlich? || 그릴 옆에. 고마워, 레오니. 첫 주는 어땠어? 솔직하게?
+Leonie: Ich habe dreizehn Räder ausgeliehen. Zwei Platten geflickt. Und einer Touristin aus Dänemark erklärt, dass man in Neukölln nicht auf dem Gehweg fährt. Auf Englisch. Mit Händen. Sie hat mir fünf Euro Trinkgeld gegeben. Das erste Trinkgeld meines Lebens. || 자전거 열세 대 빌려줬어요. 펑크 두 개 때웠고요. 그리고 덴마크에서 온 관광객한테 노이쾰른에선 인도로 달리면 안 된다고 설명했어요. 영어로요. 손짓 섞어서요. 오 유로 팁을 줬어요. 제 인생 첫 팁이에요.
+Artem: Und ich habe die Kohle getragen. Vom Baumarkt bis zum Rad. Zehn Kilo. Leonie hat gesagt, sie fährt, ich trage. Das ist Arbeitsteilung. || 그리고 저는 숯을 날랐어요. 건축 자재 마트에서 자전거까지요. 십 킬로요. 레오니가 자기는 몰고 저는 나르래요. 그게 분업이래요.
+Leonie: Das ist keine Arbeitsteilung. Das ist Ausbildung. Er ist ab September Azubi. Ich bin Praktikantin. Ich bin länger dabei. Zwei Wochen. || 그건 분업이 아니야. 교육이지. 너는 9월부터 견습생이고. 나는 인턴이야. 내가 더 오래됐어. 이 주나.
+Artem: Mama! Was ist? Warum weinst du? Ist etwas mit Papa? || 엄마! 왜 그래요? 왜 울어요? 아빠한테 무슨 일 있어요?
+Frau Kovalenko: Nein. Nein, Artem. Papa geht es gut. Wir … wir haben eine Wohnung. Hier. Vorderhaus, ganz oben. Drei Zimmer. Du bekommst ein eigenes Zimmer. Das erste eigene Zimmer seit Charkiw. || 아니야. 아니야, 아르템. 아빠는 괜찮아. 우리… 우리 집이 생겼어. 여기. 앞 동, 맨 꼭대기. 방 세 개. 너 네 방이 생겨. 하르키우 이후 처음으로 네 방이.
+Artem: … Ein eigenes Zimmer. Über der Werkstatt, wo ich lerne? || …제 방이요. 제가 배울 공방 위에요?
+Frau Kovalenko: Nicht über der Werkstatt. Über Frau Lehmann. Über der Werkstatt wohnt Wojtek. Mit Bruno. || 공방 위가 아니야. 레만 씨네 위야. 공방 위엔 보이텍 아저씨가 살아. 브루노랑.
+Artem: Dann rufe ich Papa an. Jetzt. Per Video. Er soll das Haus sehen. Und den Hof. Und das Fenster ganz oben. Damit er weiß, wo er uns besuchen kann. Wenn es vorbei ist. || 그럼 아빠한테 전화할래요. 지금요. 영상으로요. 아빠도 이 집을 봐야 해요. 안마당도요. 맨 위 창문도요. 그래야 다 끝나면 어디로 우리를 보러 와야 할지 알 테니까요.
+Tobi: Zeig ihm auch die Werkstatt. Sag ihm: Hier lernt dein Sohn. Und hier steht ein Platz für ihn frei. Für den Tag, an dem er kommt. Ein Mechaniker mehr schadet nie. || 공방도 보여 드려. 이렇게 말씀드려. 여기서 아들이 배운다고. 그리고 여기 아버님 자리도 하나 비워 둔다고. 오시는 날을 위해서. 정비사는 많을수록 좋으니까.
+Artem: Papa. Papa, siehst du? Das ist unser Haus. Nicht unser. Unser aller Haus. So sagen sie hier. || 아빠. 아빠, 보여요? 이게 우리 집이에요. 우리 거 아니고요. 우리 모두의 집이요. 여기선 그렇게 말해요.
+Leonie: Artem. Du hast es mir nicht gesagt. Dass ihr euch beworben habt. || 아르템. 너 나한테 말 안 했잖아. 너희가 지원했다는 거.
+Artem: Man feiert nicht vorher. Das ist hier ein Gesetz. Aber jetzt ist nachher. Leonie. Ich wohne ab Juni über deinem Arbeitsplatz. Fast. Ein paar Stockwerke weiter oben. Und ein Haus weiter vorne. || 미리 축하하면 안 되잖아. 여기선 그게 법이야. 그래도 이제는 다음이야. 레오니. 나 6월부터 네 일터 위에 살아. 거의. 몇 층 더 위에. 그리고 한 동 더 앞에.
+## Die anderen | 나머지 사람들
+Frau Lehmann: Und jetzt das Schwerste. Siebzehn Briefe. Siebzehn Menschen, die keine Wohnung bekommen. Heute nicht. Ich gebe sie euch persönlich. Mit Begründung. Und mit einer Entschuldigung. Dass wir nur drei Wohnungen haben. Und nicht zwanzig. || 이제 제일 어려운 거예요. 편지 열일곱 통. 집을 못 받는 열일곱 명. 오늘은요. 제가 직접 드릴게요. 이유와 함께. 그리고 사과와 함께요. 집이 세 채뿐이라서요. 스무 채가 아니라서요.
+Herr Wollny: Ich weiß es schon. Ich habe es gesehen. Am Gesicht von Frau Krüger. Sie schweigt so laut. || 이미 알아요. 봤어요. 크뤼거 부인 얼굴에서요. 정말 시끄럽게 침묵하시더라고요.
+Edith: Herr Wollny. Es tut mir leid. Ich darf es jetzt sagen. Nach dem Punkt. Es tut mir so leid. Achtundsiebzig Stufen. Mit achtundachtzig. Das hätte Sie umgebracht. Die Kommission hatte recht. Und ich bin traurig. Beides. || 볼니 씨. 정말 죄송해요. 이제는 말해도 돼요. 마침표 다음이니까요. 정말 죄송해요. 계단 일흔여덟 개. 여든여덟에요. 그건 볼니 씨를 죽였을 거예요. 위원회가 옳았어요. 그리고 나는 슬퍼요. 둘 다예요.
+Frau Marquardt: Darf ich etwas sagen? Ich bin nicht in der Kommission. Ich bin nur ein Gast. Mit einer neuen Hüfte. Herr Wollny. Die Stiftung hat ein Haus in der Sonnenallee. Seit Februar. Unser fünftes. Erdgeschoss, rechts. Zwei Zimmer. Barrierefrei. Ab Juli frei. Es gibt dort keine Kommission. Noch nicht. Aber es gibt mich. || 한마디 해도 될까요? 저는 위원회가 아니에요. 그냥 손님이죠. 새 고관절 단. 볼니 씨. 재단에 존넨알레에 집이 하나 있어요. 2월부터요. 우리 다섯 번째 집이에요. 1층 오른쪽. 방 두 개. 무장애 설계. 7월부터 비어요. 거긴 위원회가 없어요. 아직은요. 그래도 제가 있죠.
+Herr Wollny: Erdgeschoss? Ohne Stufen? In der Sonnenallee? … Frau Marquardt. Ich bin achtundachtzig. Ich habe aufgehört, auf Wunder zu warten. Neunzehnhundertachtundneunzig. Als meine Frau gestorben ist. || 1층이요? 계단 없이요? 존넨알레에요? …마르크바르트 씨. 저 여든여덟이에요. 기적은 그만 기다리기로 했어요. 1998년에요. 아내가 죽었을 때요.
+Frau Marquardt: Das ist kein Wunder. Das ist eine Stiftung. Wunder sind unzuverlässig. Stiftungen haben Satzungen. Kommen Sie am Montag ins Büro. Mit Ihrer Kündigung. Und Ihrem Stock. || 기적이 아니에요. 재단이죠. 기적은 믿을 수가 없어요. 재단엔 정관이 있죠. 월요일에 사무실로 오세요. 해지 통보서랑. 지팡이 들고요.
+Can: Frau Marquardt. Für mein Archiv. Seit wann hat die Stiftung fünf Häuser? Im April waren es vier. || 마르크바르트 할머니. 제 기록 보관소용으로요. 재단이 언제부터 집이 다섯 채예요? 4월엔 네 채였잖아요.
+Frau Marquardt: Seit Februar. Ich habe es niemandem gesagt. Weil ich nicht vorher feiern wollte. Das habe ich von Edith gelernt. || 2월부터야. 아무한테도 말 안 했어. 미리 축하하고 싶지 않아서. 그건 에디트한테 배웠지.
+Hüseyin: Murat ist nicht gekommen. Er hat den Brief gestern bekommen. Frau Albers hat ihn per Post geschickt. Er hat mich angerufen. Er hat gesagt: Onkel, Platz zwei. Das ist das erste Mal, dass ich in Berlin auf Platz zwei bin. Sonst war ich immer auf Platz hundert. Er war nicht traurig. Er war … er hat gesagt: Ich warte. Wie das Piratenschiff. || 무라트는 안 왔어요. 어제 편지를 받았거든요. 알버스 씨가 우편으로 보냈어요. 나한테 전화했더라고요. 그러더군요. 삼촌, 2위래요. 베를린에서 2위 해 본 건 처음이에요. 늘 백 위였거든요. 슬퍼하지 않았어요. 그 애는… 그러더군요. 기다릴게요. 해적선처럼요.
+## Danach: weiteressen | 그다음: 계속 먹기
+Kalle: Leute. Die Würstchen werden kalt. Und die Köfte. Und der Tofu. Mit getrennter Zange. Bitte. Weiteressen. Alle. Das ist ein Befehl vom Noch-Wirt. || 여러분. 소시지 식어. 쾨프테도. 두부도. 집게 따로 쓴 거. 제발. 계속 먹자. 다들. 아직은 사장인 사람의 명령이야.
+Ayşe: Herr Wollny. Nehmen Sie noch Köfte. … Noch einmal: Nehmen Sie noch Köfte. … Und zum dritten Mal: Herr Wollny, nehmen Sie bitte noch Köfte. || 볼니 씨. 쾨프테 더 드세요. …한 번 더요. 쾨프테 더 드세요. …그리고 세 번째로요. 볼니 씨, 제발 쾨프테 더 드세요.
+Herr Wollny: Beim dritten Mal sagt man Ja? Dann ja. Ja, gern. Und noch ein Würstchen. Und einen Radieschen. Ich ziehe in die Sonnenallee. Da muss ich mich stärken. || 세 번째엔 ‚네' 하는 거라고요? 그럼 네. 네, 좋아요. 그리고 소시지도 하나. 그리고 래디시도 하나. 존넨알레로 이사 가려면 기운을 차려야겠어요.
+Wojtek: Bruno. Komm her. Guck mal da. Das Fenster über der Werkstatt. Da wohnen wir bald. Eine Treppe. Nur eine. Du kannst die Werkstatt riechen. Und die Kastanie sehen. Und den Fuchs. Wenn er kommt. || 브루노. 이리 와. 저기 봐. 공방 위 창문. 우리 곧 저기 살 거야. 계단 한 층. 딱 하나. 공방 냄새도 맡을 수 있어. 그리고 밤나무도 보이고. 여우도. 걔가 오면.
+Tobi: Und mich. Morgens um sieben. Wenn ich die Rollläden hochziehe. Das ist laut. Sehr laut. Das steht nicht in der Begründung. || 그리고 저도요. 아침 일곱 시에요. 셔터 올릴 때요. 그거 시끄러워요. 아주 시끄러워요. 그건 이유서에 없었죠.
+Wojtek: Laut ist gut. Unter der Brücke war es nie laut. Nur kalt. || 시끄러운 건 좋아. 다리 밑에선 한 번도 시끄러운 적이 없었어. 춥기만 했지.
+Mykyta: Oksana! Das Schiff! Wir müssen es nicht mehr warten lassen! Es ist jetzt unser Hof! || 옥사나! 배! 이제 더 기다리게 안 해도 돼! 이제 우리 안마당이야!
+Frau Kovalenko: Mykyta. Nicht vorher feiern. … Nein. Doch. Jetzt darfst du. Es ist nachher. Die Frau hat es laut gesagt. Mit Begründung. Feiere, Mykyta. Feiere. || 미키타. 미리 축하하면 안 돼. …아니다. 해도 돼. 지금은 해도 돼. 다음이니까. 그분이 크게 말씀하셨잖아. 이유까지. 축하해, 미키타. 축하해.
+Mila: Mama! Ein Fuchs! Da, an der Mauer! Ohne Schwanz! || 엄마! 여우야! 저기, 담벼락에! 꼬리 없는 여우!
+Edith: Das ist Bruno. Nein. Das ist der Fuchs. Er hat keinen Namen. Er kommt, wenn jemand Neues einzieht. Das hat er im März auch gemacht. Er schaut sich die Neuen an. Und dann geht er wieder. Er ist sozusagen die Kommission. Die inoffizielle. || 저건 브루노가… 아니다. 저건 여우야. 이름은 없어. 누가 새로 이사 오면 와. 3월에도 그랬어. 새로 온 사람을 구경하고. 그러고는 다시 가. 말하자면 위원회야. 비공식 위원회.
+Frau Schulze: Inoffizielle Kommission. Ein Fuchs ohne Schwanz. Ich notiere es. Im Protokoll. Unter „Sonstiges". || 비공식 위원회라. 꼬리 없는 여우. 적어 둘게. 회의록에. ‚기타' 항목에.
+## Neun Uhr: Glut | 아홉 시: 잉걸불
+Wojtek: Kalle. Setz dich. Die Glut ist noch warm. Ich habe etwas für dich. || 칼레. 앉아. 잉걸불이 아직 따뜻해. 줄 게 있어.
+Kalle: Ein Bier? Du hast ein Bier geholt? Aus meiner Kühlung? || 맥주? 맥주 가져온 거야? 내 냉장고에서?
+Wojtek: Aus deiner Kühlung. Aber bezahlt. Bei Jana. Mit meinem Geld. Mein erster Lohn. Von den Brandts. Gestern überwiesen. Auf ein Konto. Mein Konto. Seit März habe ich ein Konto. || 네 냉장고에서. 그래도 돈 냈어. 야나한테. 내 돈으로. 첫 월급이야. 브란트네서 받은. 어제 입금됐어. 계좌로. 내 계좌로. 3월부터 계좌가 생겼거든.
+Kalle: Dein erster Lohn. Und du kaufst mir ein Bier. || 첫 월급이라. 그걸로 나한테 맥주를 사는구나.
+Wojtek: Das habe ich im April versprochen. Ich gebe dir einen aus. Zum ersten Mal. Nicht anschreiben. Bar. Als Gast. Bei dem Mann, der mir dreimal im Winter Suppe gegeben hat. Ohne zu fragen. || 4월에 약속했잖아. 내가 한 잔 산다고. 처음으로. 외상 말고. 현금으로. 손님으로서. 겨울에 묻지도 않고 수프를 세 번이나 준 사람한테.
+Kalle: Viermal. Das vierte Mal hast du geschlafen. Ich habe sie neben dich gestellt. Am Hauptbahnhof. Auf der Treppe. Mit Deckel. || 네 번이야. 네 번째엔 네가 자고 있었어. 옆에 두고 왔지. 중앙역에서. 계단에. 뚜껑 덮어서.
+Wojtek: … Das wusste ich nicht. Ich dachte, das war ein Engel. Ich habe es Bruno erzählt. Ein Engel mit Linsensuppe. || …그건 몰랐네. 천사인 줄 알았어. 브루노한테 얘기했지. 렌틸콩 수프 든 천사라고.
+Kalle: Ein Engel mit Berliner Schnauze. So einen gibt es nicht. Prost, Wojtek. Auf die Treppe. Eine Treppe. Nur eine. || 베를린 말투 쓰는 천사라. 그런 건 없어. 건배, 보이텍. 계단을 위하여. 한 층. 딱 한 층.
+Wojtek: Prost, Kalle. Auf die siebzehn Zentimeter. Die ich nie wieder hochmuss. || 건배, 칼레. 17센티미터를 위하여. 다시는 오르지 않아도 되는.
+Kalle: Weißt du, was das Komische ist? Ich habe sechs Wochen nichts gesagt. Und es war das Beste, was ich je für jemanden getan habe. Sechsundzwanzig Jahre lang habe ich geredet. Und das Beste war Schweigen. || 이상한 게 뭔지 알아? 육 주 동안 아무 말도 안 했어. 그런데 그게 내가 누군가한테 해 준 것 중에 최고였대. 이십육 년 동안 떠들었는데. 최고는 침묵이었다니.
+Wojtek: Das lernt man unter der Brücke. Schweigen ist manchmal das Freundlichste. Aber nicht immer. Heute nicht. Heute erzähl mir von Monika. Ich kenne sie nur von der Tafel. || 그건 다리 밑에서 배우는 거야. 침묵이 가끔은 제일 친절한 거지. 그래도 늘 그런 건 아니야. 오늘은 아니고. 오늘은 모니카 얘기 해 줘. 칠판에서만 알거든.
+## Halb zehn: achtundsiebzig Stufen | 아홉 시 반: 계단 일흔여덟 개
+Nele: Edith? Darf ich … darf ich die Treppe einmal sehen? Heute noch? Mila will es wissen. Wie viele es wirklich sind. || 에디트 할머니? 저… 계단 한 번 봐도 될까요? 오늘요? 밀라가 알고 싶대요. 진짜 몇 개인지요.
+Edith: Ich komme mit. Bis zum ersten Absatz. Weiter nicht. Ich bin seit einem Monat im Erdgeschoss. Ich will meine Knie nicht beleidigen. || 같이 갈게. 첫 번째 쉼터까지만. 더는 말고. 나 한 달째 1층에 살아. 무릎을 섭섭하게 하고 싶지 않아.
+Mila: Eins, zwei, drei … zwölf … zwanzig … || 하나, 둘, 셋… 열둘… 스물…
+Can: Ich zähle mit! Von oben! Rückwärts! Wie im April! Achtundsiebzig … siebenundsiebzig … || 저도 같이 셀게요! 위에서부터요! 거꾸로요! 4월처럼요! 일흔여덟… 일흔일곱…
+Nele: Sie rennt. Sie rennt einfach hoch. Edith, ich habe ein Jahr auf der Couch meiner Mutter geschlafen. Mit Mila. In einem Zimmer mit dem Fernseher. Sie hat ein Jahr lang nicht gerannt. Nirgendwohin. Weil es nirgends ihr Ort war. || 뛰어요. 그냥 뛰어 올라가요. 에디트 할머니, 저 일 년 동안 엄마 집 소파에서 잤어요. 밀라랑요. 텔레비전 있는 방에서요. 밀라는 일 년 동안 안 뛰었어요. 어디로도요. 어디도 자기 자리가 아니었으니까요.
+Edith: Jetzt rennt sie. Hör hin. Das ist das schönste Geräusch, das diese Treppe je gemacht hat. Zweiundfünfzig Jahre bin ich da hochgeschlichen. Jetzt rennt da jemand. || 이제 뛰잖아. 들어 봐. 저 계단이 낸 소리 중에 제일 아름다운 소리야. 오십이 년 동안 나는 거길 살금살금 올라갔지. 이제는 누가 뛰어다녀.
+Mila: Achtundsiebzig! Mama! Es sind achtundsiebzig! Und oben ist eine Tür! Mit einem Zettel! || 일흔여덟! 엄마! 일흔여덟 개야! 그리고 위에 문이 있어! 쪽지 붙은 거!
+Nele: Ein Zettel? Was steht drauf? || 쪽지? 뭐라고 써 있어?
+Mila: Ich kann noch nicht lesen. Can! Lies du! || 나 아직 글 못 읽어. 잔 오빠! 오빠가 읽어 줘!
+Can: „Willkommen. Diese Wohnung hat zweiundfünfzig Jahre einer Busfahrerin gehört. Sie ist frisch gestrichen. Es ist nichts übrig. Außer dem Licht am Morgen. Das ist umsonst. Edith." Edith! Wann hast du den geschrieben? || „환영해요. 이 집은 오십이 년 동안 버스 운전기사의 집이었어요. 새로 칠했어요. 남은 건 아무것도 없어요. 아침 햇빛 말고는요. 그건 공짜예요. 에디트." 에디트 할머니! 이거 언제 쓰셨어요?
+Edith: Am fünfzehnten April. Bevor ich runtergegangen bin. Für wen auch immer. Ich wusste nicht, für wen. Jetzt weiß ich es. Für jemanden, der rennt. || 4월 15일에. 내려가기 전에. 누가 됐든 그 사람을 위해서. 누군지 몰랐지. 이제는 알아. 뛰어다니는 누군가를 위해서였어.
