@@ -1,0 +1,268 @@
+PART: 3
+EP: 7
+TITLE: Tidningen
+SUBTITLE: 신문 · 추적 7, 카페 Biggans
+META: 대사 120턴 · 난이도 B2 · 배경: 3월 셋째 주 수요일, 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: WÄGNER | 부활한 기자·작가 (1882–1949)
+CAST: CHYDENIUS | 부활한 목사·정치가 (1729–1803)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: SANNA | 지역 신문 «Stockholms Kuriren» 프리랜서 기자 (가상)
+CAST: ROLF | 에스킬스투나의 연금 생활자 · 전 명의 이사 · 72세 (가상)
+NOTE: ※ 스웨덴의 출판자유법(tryckfrihetsförordningen)은 기자에게 취재원을 보호할 의무(källskydd)를 지웁니다. 기자는 정보원이 원하지 않으면 그 이름을 밝혀서는 안 되고, 특히 공공기관은 누가 언론에 정보를 줬는지 찾아내려 해서는 안 됩니다(efterforskningsförbud). 다만 은행 같은 민간 기업 직원에게는 이 보호가 공무원만큼 넓게 적용되지 않습니다. 그래서 Johan은 금융감독청 신고를 먼저 했습니다. 지역 신문 기자 Sanna Öberg가 바르베리 협상 소식을 듣고 찾아옵니다. 신문사 인력이 줄어 기사 한 건당 돈을 받는 프리랜서입니다. 1900년대 초의 기자 Wägner와 오늘의 기자 Sanna가 만납니다. 문법 초점: 간접화법과 인용(enligt, uppger att, hävdar att). 표현 초점: källskydd, granskning, publicera, rubrik, källa.
+
+# 도입 — EN JOURNALIST I DÖRREN
+BIGGAN: Det står en kvinna med en ryggsäck och tre telefoner i dörren.
+= 문 앞에 배낭 메고 전화기 세 대 든 여자가 서 있어.
+SANNA: Hej. Sanna Öberg. Jag skriver för Stockholms Kuriren. Frilans.
+= 안녕하세요. 산나 외베리예요. «스톡홀름스 쿠리렌»에 기사를 써요. 프리랜서로.
+JOHAN: Hur hittade du hit?
+= 여기를 어떻게 찾았어요?
+SANNA: Vårberg. Någon har satt upp lappar i alla tvättstugor. Med en mening längst ner: ”Kontakta kaféet Biggans på Skånegatan.”
+= 바르베리요. 누가 세탁실마다 쪽지를 붙였더라고요. 맨 아래 문장 하나와 함께: ‘스코네가탄의 카페 비간스로 연락하세요.’
+BIGGAN: Strindberg. Han glömmer att lapparna läses av fler än grannarna.
+= 스트린드베리. 쪽지를 이웃만 읽는 게 아니라는 걸 잊어버린다니까.
+SANNA: Sexhundra hushåll som sa nej till femtontusen kronor. Det är en nyhet. Det händer aldrig.
+= 1만 5천 크로나를 거절한 600가구. 그건 뉴스예요. 그런 일은 절대 안 일어나거든요.
+ANTON: Femhundrafemtionio. Fyrtioett skrev under.
+= 559가구. 41가구는 서명했어요.
+SANNA: Ännu bättre. En exakt siffra. Får jag sitta?
+= 더 좋네요. 정확한 숫자. 앉아도 될까요?
+BIGGAN: Kaffe först. Sen frågor. Det är reglerna.
+= 커피 먼저. 질문은 그다음. 그게 규칙이야.
+SANNA: Tack. Jag har inte ätit sedan i går. Tidningen betalar per artikel nu. Jag hinner inte äta.
+= 고마워요. 어제부터 아무것도 못 먹었어요. 이제 신문사가 기사 한 건당 돈을 줘요. 먹을 시간이 없어요.
+BIGGAN: Då får du en bulle nu. Och en macka sen.
+= 그럼 지금 번 하나. 그리고 나중에 샌드위치.
+WÄGNER: Per artikel? Det var så vi fick betalt 1905 också. Inget har förändrats.
+= 기사 한 건당? 1905년에도 우린 그렇게 받았어요. 바뀐 게 하나도 없네요.
+SANNA: Ursäkta… känner vi varandra? Ni ser bekant ut.
+= 실례지만… 우리 아는 사이인가요? 낯이 익으세요.
+WÄGNER: Elin Wägner. Jag skrev för Dagens Nyheter. För ganska länge sedan.
+= 엘린 바그네르예요. «다겐스 뉘헤테르»에 썼어요. 꽤 오래전에.
+SANNA: Elin Wägner… som i ”Norrtullsligan”? Jag skrev min uppsats om henne. Om er. På journalisthögskolan.
+= 엘린 바그네르… 『노르툴 리그』의? 저 언론대학원에서 그분에 대해 논문 썼어요. 당신에 대해서요.
+WÄGNER: Vilket betyg fick du?
+= 몇 점 받았어요?
+SANNA: Väl godkänt.
+= 우수 합격이요.
+WÄGNER: Då har du läst noga. Välkommen.
+= 그럼 꼼꼼히 읽었네요. 환영해요.
+ELSA: Ursäkta, vad är ”Norrtullsligan”?
+= 실례지만, 『노르툴 리그』가 뭐예요?
+WÄGNER: En roman om fyra kvinnor som jobbade på kontor och delade en lägenhet. För att ingen av dem hade råd att bo ensam. 1908.
+= 사무실에서 일하며 집 하나를 같이 쓰던 여자 넷에 관한 소설이에요. 아무도 혼자 살 형편이 안 됐거든요. 1908년.
+ELSA: Som jag och Camilla. Fast hon tog sjutusen femhundra av mig.
+= 저랑 카밀라처럼요. 그 사람은 저한테 7,500을 받았지만.
+WÄGNER: Vissa saker förändras aldrig. Hyrorna minst av allt.
+= 어떤 건 절대 안 변하죠. 월세가 제일 안 변해요.
+
+# 장면 1 — KÄLLSKYDD
+SANNA: Jag vill skriva om Vårberg. Men jag tror att det är större än Vårberg. Har jag rätt?
+= 바르베리에 대해 쓰고 싶어요. 근데 바르베리보다 큰 이야기 같아요. 제 말이 맞아요?
+JOHAN: Det beror på vad du vill veta.
+= 뭘 알고 싶은지에 달렸어요.
+SANNA: Jag vill veta varför ett fastighetsbolag plötsligt vill renovera sexhundra lägenheter på en gång. Och varför de erbjuder pengar för att folk ska skriva under snabbt.
+= 왜 한 부동산 회사가 갑자기 600세대를 한꺼번에 리노베이션하려는지 알고 싶어요. 그리고 왜 빨리 서명하라고 돈을 주는지.
+MAJA: Det är bra frågor.
+= 좋은 질문이에요.
+SANNA: Jag har läst årsredovisningarna. Alla trettio bolag. Noll vinst. Tolv miljoner till samma byggfirma.
+= 연간 보고서 읽었어요. 서른 개 회사 전부. 이익 0. 같은 건설사에 1,200만.
+ANTON: Du har läst dem? Själv?
+= 그걸 읽었어요? 직접?
+SANNA: Bolagsverket är öppet för alla. Det är mitt jobb.
+= 회사등기소는 모두에게 열려 있잖아요. 그게 제 일이에요.
+CHYDENIUS: En journalist som läser allmänna handlingar. Jag kan dö lycklig igen.
+= 공문서를 읽는 기자라. 다시 행복하게 죽을 수 있겠군.
+JOHAN: Sanna. Innan vi pratar mer. Det finns personer här som har information. Men de kan inte stå med namn.
+= 산나. 더 얘기하기 전에. 여기 정보를 가진 사람들이 있어요. 하지만 이름을 밝힐 순 없어요.
+SANNA: Då är de anonyma källor. Och då har jag källskydd.
+= 그럼 익명 취재원이죠. 그리고 그럼 전 취재원 보호 의무가 있어요.
+ELSA: Ursäkta, vad betyder källskydd? Exakt?
+= 실례지만, 취재원 보호가 정확히 뭐예요?
+SANNA: Om någon ger mig information och vill vara anonym, får jag inte avslöja vem det är. Det står i grundlagen. Jag kan straffas om jag gör det.
+= 누가 저한테 정보를 주고 익명을 원하면, 저는 그게 누군지 밝히면 안 돼요. 헌법에 적혀 있어요. 밝히면 처벌받을 수 있어요.
+ELSA: Så journalisten skyddar källan. Inte tvärtom.
+= 그럼 기자가 취재원을 보호하는 거네요. 반대가 아니라.
+WÄGNER: Det är det vackraste i svensk press. Hundrafemtio år gammalt. Nästan lika gammalt som jag.
+= 그게 스웨덴 언론에서 가장 아름다운 부분이에요. 150년 됐죠. 거의 나만큼 오래됐네요.
+CHYDENIUS: Äldre. Det började med min lag. 1766.
+= 더 오래됐소. 내 법에서 시작됐지. 1766년.
+WÄGNER: Anders. Du måste inte vinna varje gång.
+= 안데르스. 매번 이길 필요는 없잖아요.
+SANNA: Och myndigheter får inte ens försöka ta reda på vem som har pratat med mig. Det heter efterforskningsförbud.
+= 그리고 관청은 누가 저랑 얘기했는지 알아내려고 시도조차 하면 안 돼요. 그걸 수색 금지라고 해요.
+JOHAN: För myndigheter. Men inte på samma sätt för privata bolag. En bank kan säga upp någon som pratar med pressen. Det är därför vi har gått till Finansinspektionen först.
+= 관청은 그래요. 근데 민간 기업은 똑같지 않아요. 은행은 언론에 말한 직원을 해고할 수 있어요. 그래서 우리가 금융감독청에 먼저 간 거예요.
+SANNA: Ni har redan anmält till FI? Då har ni gjort det i rätt ordning. Det gör nästan ingen.
+= 벌써 금융감독청에 신고했어요? 그럼 올바른 순서로 한 거네요. 거의 아무도 그렇게 안 하는데.
+INGRID: Jag gjorde det i fel ordning en gång. Det kostade mig sju år.
+= 난 한 번 잘못된 순서로 했어요. 그 대가로 7년을 잃었죠.
+SANNA: Och ni är…?
+= 그리고 당신은…?
+INGRID: En källa. Utan namn. Om du lovar.
+= 취재원이요. 이름 없는. 약속한다면.
+SANNA: Jag lovar. Och jag skriver ner löftet. Med datum.
+= 약속해요. 그리고 그 약속을 적어 둘게요. 날짜와 함께.
+INGRID: Skriftligt. Ni har alla lärt er av samma människa.
+= 서면으로. 다들 같은 사람한테서 배웠네요.
+BIGGAN: Av mig. Och av Ulla-Britt.
+= 나한테서. 그리고 울라브리트한테서.
+
+# 장면 2 — TVÅ KÄLLOR
+SANNA: Men en anonym källa räcker inte. Inte för något så här stort. Tidningens jurist kräver minst två oberoende källor. Eller dokument.
+= 근데 익명 취재원 하나로는 부족해요. 이렇게 큰 일엔. 신문사 법무 담당이 최소 독립 취재원 둘을 요구해요. 아니면 문서.
+MAJA: Vi har dokument. Allmänna handlingar. Bolagsverket, Lantmäteriet, årsredovisningar.
+= 문서 있어요. 공문서. 회사등기소, 국토측량청, 연간 보고서.
+SANNA: Och de visar en struktur. Men de visar inte varför. De visar inte pengarna utifrån.
+= 그건 구조를 보여 주죠. 근데 이유는 안 보여 줘요. 밖에서 들어온 돈은 안 보여 주고요.
+INGRID: Det gör mina papper.
+= 그건 내 서류가 보여 주죠.
+SANNA: Som jag inte kan publicera utan att riskera dig.
+= 당신을 위험하게 하지 않고는 공개할 수 없는 서류요.
+ANTON: Så vi behöver en andra källa. En som kan stå med namn.
+= 그럼 두 번째 취재원이 필요하네요. 이름을 밝힐 수 있는.
+ELSA: Maja?
+= 마야?
+MAJA: Inte än.
+= 아직은 아니야.
+ANTON: ”Än.” Det ordet har blivit ett husdjur här.
+= ‘아직.’ 그 단어가 여기선 반려동물이 됐네.
+SANNA: Vem är Maja?
+= 마야가 누군데요?
+MAJA: Jag är revisor. Och jag har en historia som jag inte är redo att berätta för en tidning.
+= 전 회계사예요. 그리고 신문에 이야기할 준비가 안 된 사연이 있어요.
+SANNA: Okej. Jag respekterar det. Jag frågar inte igen. Förrän du säger till.
+= 알겠어요. 존중할게요. 다시 묻지 않을게요. 당신이 말할 때까지.
+WÄGNER: Bra. En journalist som vet när hon ska vara tyst är mer värd än tio som vet när de ska skriva.
+= 좋아요. 언제 입 다물어야 할지 아는 기자 한 명이 언제 써야 할지 아는 기자 열 명보다 가치 있어요.
+DANIEL: Det finns en annan. Någon som har stått i trettioen styrelser utan att veta det.
+= 다른 사람이 있어요. 모른 채로 이사회 서른한 곳에 이름을 올린 사람.
+ELSA: Rolf!
+= 롤프 씨!
+JOHAN: Han har avgått från alla styrelser. Och han har pratat med polisen. Men han har inte pratat med pressen.
+= 그분은 모든 이사회에서 사임했어. 그리고 경찰이랑 얘기했고. 하지만 언론이랑은 안 했지.
+SANNA: En pensionär i Eskilstuna som var styrelseledamot i trettioen bolag? Med sitt eget namn?
+= 이사회 서른한 곳에 이름을 올린 에스킬스투나의 연금 생활자? 자기 이름으로?
+ANTON: Hans eget namn. Han fick fem tusen i månaden för att skriva under.
+= 자기 이름으로. 서명하는 대가로 한 달에 5천을 받았대요.
+SANNA: Det är… det är en hel artikel. Bara han.
+= 그건… 그것만으로 기사 하나예요. 그분만으로.
+CHYDENIUS: Ett ansikte. Folk läser inte strukturer. De läser människor.
+= 얼굴 하나. 사람들은 구조를 읽지 않소. 사람을 읽지.
+WÄGNER: Det var det jag gjorde med Norrtullsligan. Jag skrev inte om lönestatistik. Jag skrev om Pegg, Emmy, Baby och Eva.
+= 내가 『노르툴 리그』로 한 게 그거예요. 임금 통계에 대해 쓰지 않았어요. 페그, 에미, 베이비, 에바에 대해 썼죠.
+ELSA: Vem ringer honom?
+= 누가 그분한테 전화해요?
+DANIEL: Jag. Han litar på mig. Jag har ringt honom varje tisdag sedan februari.
+= 내가. 날 믿거든. 2월부터 매주 화요일에 전화했어.
+JOHAN: Varje tisdag? Det visste jag inte.
+= 매주 화요일? 그건 몰랐네.
+DANIEL: Tisdag är dagen han går till träffpunkten. Jag frågar om kaffet är riktigt.
+= 화요일은 그분이 어르신 모임에 가는 날이야. 커피가 진짜인지 물어보지.
+ELSA: Daniel, du är snällare än du låter.
+= 다니엘, 말투보다 훨씬 다정하네요.
+DANIEL: Säg inte det på akuten.
+= 응급실에선 그런 말 하지 마.
+
+# 절정 — ROLF VILL PRATA
+DANIEL: Hej Rolf. Det är Daniel. Hur var kaffet i går?
+= 안녕하세요, 롤프. 다니엘이에요. 어제 커피 어땠어요?
+ROLF: Riktigt. Bryggkaffe. Och en dam som heter Barbro har bjudit mig på kanelbulle två tisdagar i rad.
+= 진짜였소. 필터 커피. 그리고 바르브로라는 부인이 두 번 연속 화요일에 시나몬번을 사 줬소.
+DANIEL: Två gånger i rad? Det är allvarligt, Rolf.
+= 두 번 연속? 그거 심각한데요, 롤프.
+ROLF: Jag vet. Jag är rädd.
+= 알아. 무섭소.
+DANIEL: Rolf, det är en journalist här. Hon vill skriva om bolagen. Om hur de använde ditt namn.
+= 롤프, 여기 기자가 와 있어요. 그 회사들에 대해 쓰고 싶대요. 그들이 어떻게 당신 이름을 썼는지.
+ROLF: En journalist? I tidningen?
+= 기자? 신문에?
+SANNA: Hej Rolf. Sanna Öberg. Du bestämmer själv vad du vill säga. Och du får läsa dina citat innan det publiceras.
+= 안녕하세요, 롤프. 산나 외베리예요. 무슨 말을 할지는 직접 정하세요. 그리고 공개되기 전에 인용문을 읽어 보실 수 있어요.
+ROLF: Med mitt namn?
+= 내 이름으로?
+SANNA: Om du vill. Annars utan.
+= 원하시면요. 아니면 빼고.
+ROLF: Mitt namn har stått på trettioen papper som jag inte förstod. Om det ska stå någonstans igen… vill jag att det står bredvid något sant.
+= 내 이름은 이해하지도 못한 서른한 장의 서류에 올라 있었소. 다시 어딘가에 올라야 한다면… 진실한 것 옆에 있었으면 좋겠소.
+ELSA: Det var vackert, Rolf.
+= 멋진 말이에요, 롤프.
+ROLF: Margareta sa alltid att jag var bättre på att säga saker än jag trodde.
+= 마르가레타는 늘 내가 생각보다 말을 잘한다고 했소.
+SANNA: Jag kan komma till Eskilstuna i morgon. Med en fotograf.
+= 내일 에스킬스투나에 갈 수 있어요. 사진기자랑.
+ROLF: En fotograf? Då måste jag klippa mig.
+= 사진기자? 그럼 머리를 잘라야겠군.
+DANIEL: Och fråga Barbro vad hon tycker om frisyren.
+= 그리고 머리 모양 어떤지 바르브로한테 물어보세요.
+ROLF: Doktorn. Du är för mycket.
+= 의사 양반. 너무하는군.
+DANIEL: Det har jag hört förut.
+= 전에도 들어 본 말이에요.
+SANNA: Tack, Rolf. Vi ses i morgon.
+= 고마워요, 롤프. 내일 봬요.
+JOHAN: Sanna. En sak till. När du ringer Nordhem för att få en kommentar – och det måste du – kommer de att veta att artikeln kommer.
+= 산나. 하나 더. 노르드헴에 논평을 들으려고 전화하면 — 그리고 해야 하겠지만 — 그쪽은 기사가 나온다는 걸 알게 될 거예요.
+SANNA: Jag vet. Man måste alltid ge den som granskas en chans att svara. Det är god pressetik.
+= 알아요. 취재 대상에겐 늘 답할 기회를 줘야 해요. 그게 좋은 언론 윤리예요.
+ELSA: Även när de är skurkar?
+= 그 사람들이 악당이라도요?
+SANNA: Särskilt då. Annars är man inte journalist. Då är man bara arg.
+= 특히 그럴 때요. 안 그러면 기자가 아니에요. 그냥 화난 사람이죠.
+WÄGNER: Jag var arg i fyrtio år. Men jag ringde alltid och frågade först.
+= 난 40년 동안 화가 나 있었어요. 하지만 늘 먼저 전화해서 물었죠.
+MAJA: Och när ringer du?
+= 그럼 언제 전화해요?
+SANNA: Nu. Innan jag ångrar mig.
+= 지금요. 후회하기 전에.
+
+# 마무리 — INGA KOMMENTARER
+SANNA: Hej, Sanna Öberg, Stockholms Kuriren. Jag söker Carl-Adam Rehnberg… Okej. Jag väntar.
+= 안녕하세요, «스톡홀름스 쿠리렌»의 산나 외베리입니다. 칼아담 렌베리 씨를 찾는데요… 네. 기다릴게요.
+ANTON: De kopplar henne till någon annan. Det gör de alltid.
+= 다른 사람한테 돌리는 거야. 늘 그러지.
+SANNA: Ja, hej. Jag har frågor om Vårberg Fastighet 1 till 30 AB och om koncerninterna lån till Cypern… Jaha. Okej. Tack.
+= 네, 안녕하세요. 바르베리 부동산 1~30 AB와 키프로스로의 그룹 내부 대출에 관해 질문이 있는데요… 아, 네. 알겠습니다. 감사합니다.
+ELSA: Vad sa de?
+= 뭐래요?
+SANNA: ”Nordhem har inga kommentarer i nuläget.” Och sen lade de på.
+= ‘노르드헴은 현재로서는 논평하지 않습니다.’ 그러고 끊었어요.
+CHYDENIUS: ”I nuläget.” Det betyder att de ringer någon annan nu.
+= ‘현재로서는.’ 지금 다른 누군가에게 전화하고 있다는 뜻이지.
+JOHAN: De ringer pappa.
+= 아버지한테 전화하는 거야.
+MAJA: Eller Henrik.
+= 아니면 헨리크한테.
+WÄGNER: ”Inga kommentarer” är också en kommentar. Den bästa man kan få, ibland.
+= ‘논평 없음’도 논평이에요. 때론 받을 수 있는 최고의 논평이죠.
+SANNA: Rubriken har jag redan. ”Pensionären som var trettioen bolag.”
+= 제목은 이미 있어요. ‘서른한 개 회사였던 연금 생활자.’
+ELSA: Ursäkta, är det inte för långt för en rubrik?
+= 실례지만, 제목으로는 너무 길지 않아요?
+WÄGNER: Det är perfekt. Ett ansikte och en siffra.
+= 완벽해요. 얼굴 하나와 숫자 하나.
+BIGGAN: Sanna, du ska äta nu. Du har druckit tre koppar och ätit en halv bulle.
+= 산나, 이제 먹어. 커피 세 잔 마시고 번 반 개 먹었잖아.
+SANNA: Jag har inte tid.
+= 시간이 없어요.
+BIGGAN: Du har tid. Regel två i mitt hus: den som inte har pengar betalar inte. Och regel åtta: den som inte har tid äter ändå.
+= 시간 있어. 우리 집 규칙 2번: 돈 없는 사람은 돈 안 낸다. 그리고 규칙 8번: 시간 없는 사람도 먹는다.
+ANTON: Sedan när finns regel åtta?
+= 규칙 8번은 언제부터 있었어요?
+BIGGAN: Sedan nu.
+= 지금부터.
+INGRID: Sanna. Om de skickar brev till dig. Från advokater. Ring Johan.
+= 산나. 그쪽에서 편지가 오면. 변호사들한테서. 요한한테 전화해요.
+SANNA: Brev från advokater? Redan?
+= 변호사 편지요? 벌써요?
+INGRID: Jag fick mitt efter tio dagar. Du får nog ditt i morgon.
+= 난 열흘 만에 받았어요. 당신은 아마 내일 받을 거예요.
+SANNA: Då äter jag nu. Medan jag kan.
+= 그럼 지금 먹을게요. 먹을 수 있을 때.
+NEXT: 3부 8화 — «Pressad»(압박) — 다음 날 아침, Ek & Wahlgren에서 Sanna와 사무소 앞으로 명예훼손 소송을 예고하는 편지가 온다. Johan이 아버지 쪽 변호사들과 처음으로 정면에서 맞선다.
