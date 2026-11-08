@@ -1,0 +1,162 @@
+@part 1
+@ep 5
+@file Davanti_alla_scuola
+@title Davanti alla scuola
+@ko 교문 앞에서
+@where 테스타초의 중학교 교문 앞
+@level A2~B1
+@setting 4월 둘째 주 월요일 아침 7시 55분 / 같은 날 오후 1시 40분, 교문 앞
+@cast NADIA | 4층 세입자, 병원 문화중재자, 40세
+@cast SAMIR | 나디아의 아들, 중학교 2학년 B반, 12세
+@cast ROBERTA | 2학년 B반 학부모 대표, 44세
+@cast PAOLO | 2학년 B반 학부모, 프리랜서 그래픽 디자이너, 45세
+@note 사미르는 할아버지가 새로 사 준 파란 자전거를 타고 학교에 다닌다. 일요일의 포르타 포르테세에서 빨간 자전거는 끝내 찾지 못했다. 이 학교는 올해부터 휴대폰을 하루 종일 꺼서 가방에 넣어 두도록 규칙을 엄격히 바꿨다.
+
+# 장면 1 — ORE 7:55
+NADIA: Samir, hai preso tutto? Il diario, la merenda, la tuta? || 사미르, 다 챙겼어? 알림장, 간식, 체육복?
+SAMIR: Sì, mamma. Tutto. Lo zaino pesa dieci chili. || 응, 엄마. 다. 가방이 10킬로야.
+NADIA: E il lucchetto della bici? || 자전거 자물쇠는?
+SAMIR: Eccolo. Quello di Simone, a U. Non lo taglia nessuno. || 여기. 시모네 아저씨 거, U자형. 아무도 못 잘라.
+NADIA: Bravo. E il telefono? || 잘했어. 그리고 휴대폰은?
+SAMIR: Spento. Nello zaino. Come dice il regolamento. || 꺼 놨어. 가방 안에. 규칙대로.
+NADIA: Spento davvero, o spento «per finta»? || 진짜 끈 거야, 아니면 «끈 척»이야?
+SAMIR: Spento davvero! Mamma, ti fidi di me o no? || 진짜 껐다고! 엄마, 날 믿어 안 믿어?
+NADIA: Mi fido. Ma controllo. || 믿지. 근데 확인은 해.
+ROBERTA: Nadia! Buongiorno! Meno male che ti vedo. || 나디아! 좋은 아침! 마침 잘 만났다.
+NADIA: Ciao, Roberta. Buongiorno. Cosa succede? || 안녕, 로베르타. 좋은 아침. 무슨 일이야?
+ROBERTA: Hai letto la chat della classe ieri sera? || 어젯밤에 반 단톡방 읽었어?
+NADIA: La chat? No. Ieri sera ho dormito alle dieci. Ero stanchissima. || 단톡방? 아니. 어젯밤엔 열 시에 잤어. 엄청 피곤했거든.
+ROBERTA: Duecento messaggi! Duecento! || 메시지 이백 개야! 이백 개!
+NADIA: Duecento? Ma su cosa? || 이백 개? 대체 무슨 얘기로?
+ROBERTA: Sulla gita a Firenze. Le date, i soldi, il pullman... || 피렌체 수학여행 얘기. 날짜, 돈, 버스…
+SAMIR: Mamma, io vado. Ciao! Ciao, signora Roberta. || 엄마, 나 간다. 안녕! 안녕하세요, 로베르타 아줌마.
+ROBERTA: Ciao, Samir! Bella la bici nuova! || 안녕, 사미르! 새 자전거 멋지다!
+SAMIR: Grazie! È blu. Quella rossa me l'hanno rubata. || 고맙습니다! 파란색이에요. 빨간 건 도둑맞았어요.
+ROBERTA: Ho saputo. Che peccato. Ne hanno rubate tre nel quartiere questo mese. || 들었어. 너무 안됐다. 이번 달에 동네에서 세 대나 도둑맞았대.
+SAMIR: Tre? Allora non sono l'unico. Ciao! || 세 대요? 그럼 나만 그런 게 아니네. 안녕히 계세요!
+NADIA: Corri, che suona la campanella! || 뛰어, 종 울린다!
+ROBERTA: Allora, la gita. Ti spiego in due minuti. || 그럼, 수학여행. 2분 만에 설명해 줄게.
+NADIA: In due minuti? Duecento messaggi in due minuti? || 2분 만에? 메시지 이백 개를 2분 만에?
+ROBERTA: Sono la rappresentante di classe. Riassumere è il mio lavoro. || 내가 학부모 대표잖아. 요약하는 게 내 일이야.
+NADIA: Va bene, vai. || 좋아, 해 봐.
+ROBERTA: Primo: la gita è a Firenze, dal quindici al diciassette maggio. Tre giorni, due notti. || 첫째, 수학여행은 피렌체로, 5월 15일부터 17일까지. 2박 3일.
+NADIA: Dal quindici al diciassette. Ok. Lo scrivo sul calendario. || 15일부터 17일까지. 오케이. 달력에 적을게.
+ROBERTA: Secondo: costa duecentottanta euro. Bisogna pagare entro il trenta aprile. || 둘째, 비용은 280유로. 4월 30일까지 내야 해.
+NADIA: Duecentottanta? L'anno scorso a Napoli erano duecento. || 280? 작년 나폴리는 200이었는데.
+ROBERTA: Lo so. Il pullman costa di più, l'albergo costa di più. Costa tutto di più. || 알아. 버스도 비싸지고, 호텔도 비싸지고. 다 비싸졌어.
+NADIA: Come il caffè da Franco. Lo hanno alzato anche lì. || 프랑코네 커피처럼. 거기도 올랐어.
+ROBERTA: Terzo: alcune famiglie non ce la fanno a pagare. E qui è cominciata la discussione. || 셋째, 몇몇 가족은 낼 형편이 안 돼. 그리고 여기서 논쟁이 시작됐지.
+NADIA: Che discussione? || 무슨 논쟁?
+ROBERTA: Qualcuno dice: «Allora non si fa la gita». Qualcuno dice: «Paghiamo noi per loro». || 누구는 «그럼 수학여행 하지 말자», 누구는 «우리가 대신 내자».
+NADIA: E tu cosa ne pensi? || 넌 어떻게 생각해?
+ROBERTA: Io penso che la scuola ha un fondo per queste cose. Ne parlo con la preside. || 난 학교에 이런 일 쓰는 기금이 있다고 생각해. 교장 선생님이랑 얘기해 볼게.
+NADIA: Brava. E io ci metto qualcosa, se serve. Non tanto, ma qualcosa. || 잘했다. 필요하면 나도 좀 보탤게. 많이는 못 하지만 조금은.
+ROBERTA: Grazie. Lo sapevo. Devo scappare, ho il treno per l'ufficio. Ciao! || 고마워. 그럴 줄 알았어. 나 가야 돼, 회사 가는 기차 타야 해. 안녕!
+
+# 장면 2 — ORE 13:40
+PAOLO: Nadia? Anche tu qui all'uscita? I nostri figli non tornano a casa da soli? || 나디아? 너도 하교 시간에 여기 있네? 우리 애들 혼자 집에 안 가?
+NADIA: Di solito sì. Ma oggi mi ha chiamato la scuola. Alle undici, in ospedale. || 보통은 그렇지. 근데 오늘 학교에서 전화가 왔어. 열한 시에, 병원으로.
+PAOLO: Dalla scuola? Oddio. Samir sta bene? || 학교에서? 세상에. 사미르 괜찮아?
+NADIA: Sta benissimo. Il telefono no. Gliel'hanno preso. || 사미르는 아주 멀쩡해. 휴대폰이 문제지. 뺏겼대.
+PAOLO: Ah! Benvenuta nel club. A mio figlio l'hanno preso venerdì. || 아! 클럽에 온 걸 환영해. 우리 아들은 금요일에 뺏겼어.
+NADIA: Anche a Tommaso? Cosa aveva fatto? || 토마소도? 뭘 했는데?
+PAOLO: Ha guardato un video di calcio sotto il banco. Durante matematica. || 수학 시간에 책상 밑에서 축구 영상을 봤대.
+NADIA: E la professoressa l'ha visto? || 선생님이 보셨고?
+PAOLO: Certo. Le professoresse vedono tutto. Hanno gli occhi anche dietro la testa. || 당연하지. 선생님들은 다 봐. 뒤통수에도 눈이 있다니까.
+NADIA: E adesso cosa si deve fare? || 그럼 이제 어떻게 해야 돼?
+PAOLO: Il telefono lo ridanno solo a un genitore. Devi andare dalla vicepreside e firmare un foglio. || 휴대폰은 부모한테만 돌려줘. 교감 선생님한테 가서 서류에 서명해야 돼.
+NADIA: Un foglio? Per un telefono? || 서류? 휴대폰 하나에?
+PAOLO: Eh sì. Quest'anno sono severissimi. Il telefono non si può usare per niente. Neanche nell'intervallo. || 응. 올해는 엄청 엄격해. 휴대폰은 아예 못 써. 쉬는 시간에도.
+NADIA: Neanche nell'intervallo? Neanche per chiamare a casa? || 쉬는 시간에도? 집에 전화하는 것도?
+PAOLO: Per chiamare a casa c'è il telefono della segreteria. Come ai nostri tempi. || 집에 전화하려면 행정실 전화가 있어. 우리 때처럼.
+NADIA: Ai nostri tempi non avevamo il telefono. Avevamo i gettoni. || 우리 땐 휴대폰도 없었지. 공중전화 토큰이 있었잖아.
+PAOLO: Io me li ricordo, i gettoni! Ne avevo sempre uno in tasca. || 나 그거 기억나, 토큰! 주머니에 늘 하나씩 있었는데.
+NADIA: Ma secondo te è giusto? Vietare il telefono tutto il giorno? || 근데 네 생각엔 그게 맞아? 하루 종일 휴대폰을 금지하는 거?
+PAOLO: Sinceramente? Sì. Da quando c'è il divieto, Tommaso parla di più con i compagni. || 솔직히? 응. 금지되고 나서 토마소가 친구들이랑 얘기를 더 해.
+NADIA: Davvero? || 정말?
+PAOLO: Davvero. Prima nell'intervallo stavano tutti zitti, con la testa sul telefono. Adesso giocano a carte. || 정말. 전엔 쉬는 시간에 다들 휴대폰에 고개 박고 조용했대. 이젠 카드 게임을 한대.
+NADIA: A carte? A scopa? || 카드? 스코파?
+PAOLO: A scopa e a briscola. Mio figlio mi ha battuto ieri sera. Tre partite su tre. || 스코파랑 브리스콜라. 어젯밤에 아들한테 졌어. 세 판 다.
+NADIA: Allora il divieto funziona. Ma io sono un po' preoccupata. || 그럼 금지가 효과 있네. 근데 난 좀 걱정돼.
+PAOLO: Per cosa? || 뭐가?
+NADIA: Samir va a scuola in bici. Se succede qualcosa per strada, come mi chiama? || 사미르는 자전거로 학교 다니잖아. 길에서 무슨 일 생기면 나한테 어떻게 연락해?
+PAOLO: Per strada lo può usare. Il divieto è solo dentro la scuola. || 길에선 써도 돼. 금지는 학교 안에서만이야.
+NADIA: Ah, ecco. Questo non lo sapevo. || 아, 그렇구나. 그건 몰랐어.
+PAOLO: Era nella chat. Messaggio numero centocinquanta, più o meno. || 단톡방에 있었어. 대충 150번째 메시지쯤.
+NADIA: Basta con questa chat! Io lavoro, non posso leggere duecento messaggi al giorno! || 그 단톡방 좀 그만! 나 일하잖아, 하루에 메시지 이백 개를 어떻게 읽어!
+PAOLO: Nessuno li legge. Si leggono solo quelli di Roberta. || 아무도 다 안 읽어. 로베르타 메시지만 읽는 거야.
+NADIA: Hai ragione. Roberta è la nostra salvezza. || 맞아. 로베르타가 우리 구세주야.
+NADIA: E i compiti? Anche Tommaso ne ha tanti? || 숙제는? 토마소도 많아?
+PAOLO: Tantissimi. Ieri tre esercizi di matematica, un riassunto e venti verbi inglesi. || 엄청 많아. 어제는 수학 문제 셋, 요약 하나, 영어 동사 스무 개.
+NADIA: Samir ci mette due ore ogni sera. A volte tre. || 사미르는 매일 저녁 두 시간 걸려. 가끔 세 시간.
+PAOLO: E tu lo aiuti? || 넌 도와줘?
+NADIA: Con l'italiano e l'inglese sì. Con la matematica... ci prova suo nonno. || 국어랑 영어는. 수학은… 할아버지가 시도하셔.
+PAOLO: Il nonno? || 할아버지가?
+NADIA: Mio padre era ingegnere in Bangladesh. Qui ha aperto un negozio di alimentari. Ma i numeri li ama ancora. || 우리 아빠가 방글라데시에선 엔지니어였어. 여기선 식료품점을 열었고. 그래도 아직 숫자를 사랑하셔.
+PAOLO: Beato Samir. Io con le frazioni sono un disastro. || 사미르는 좋겠다. 난 분수만 나오면 엉망이야.
+PAOLO: E sulla gita? Ne avete parlato stamattina? || 수학여행은? 오늘 아침에 얘기했어?
+NADIA: Sì. Duecentottanta euro. Tu che ne pensi? || 응. 280유로. 넌 어떻게 생각해?
+PAOLO: Penso che sono tanti. Io sono freelance. Questo mese ho fatturato poco. || 많다고 생각해. 난 프리랜서잖아. 이번 달엔 청구한 게 별로 없어.
+NADIA: Roberta parla con la preside. C'è un fondo della scuola. || 로베르타가 교장 선생님이랑 얘기한대. 학교 기금이 있대.
+PAOLO: Speriamo. Non voglio che Tommaso resti a casa. Tutti vanno e lui no? No. || 그랬으면 좋겠다. 토마소가 집에 남는 건 싫어. 다 가는데 걔만 안 간다고? 안 되지.
+NADIA: Non resterà a casa. Ci pensiamo insieme. || 집에 안 남을 거야. 같이 방법 생각해 보자.
+PAOLO: Grazie, Nadia. Ecco, escono! || 고마워, 나디아. 저기, 나온다!
+
+# 장면 3 — IL TELEFONO
+SAMIR: Mamma... ciao. Sei arrabbiata? || 엄마… 안녕. 화났어?
+NADIA: Prima rispondi tu. Spento davvero, o spento per finta? || 너부터 대답해. 진짜 끈 거야, 끈 척한 거야?
+SAMIR: Era spento! Davvero! Ma alle dieci l'ho acceso un minuto. Solo un minuto. || 꺼져 있었어! 진짜로! 근데 열 시에 1분만 켰어. 딱 1분.
+NADIA: E perché? || 왜?
+SAMIR: Il nonno mi ha mandato un messaggio. Una foto della bici blu. Volevo rispondere «grazie». || 할아버지가 문자를 보냈어. 파란 자전거 사진. «고마워요»라고 답장하고 싶었어.
+NADIA: Durante la lezione? || 수업 중에?
+SAMIR: Durante storia. La professoressa parlava dei Romani. Lo sapevo già. || 역사 시간에. 선생님이 로마 사람들 얘기했어. 이미 아는 거였어.
+NADIA: Tu sai già tutto dei Romani? || 넌 로마 사람들에 대해 벌써 다 알아?
+SAMIR: Abito a Roma, mamma. || 엄마, 나 로마에 살잖아.
+PAOLO: Ha ragione lui, eh. Ciao, Samir. || 쟤 말이 맞네. 안녕, 사미르.
+SAMIR: Buongiorno, signor Paolo. Anche Tommaso è nei guai? || 안녕하세요, 파올로 아저씨. 토마소도 혼났어요?
+PAOLO: Tommaso è stato nei guai venerdì. Oggi tocca a te. Coraggio! || 토마소는 금요일에 혼났지. 오늘은 네 차례야. 힘내라!
+NADIA: Hai compiti per domani? || 내일 숙제 있어?
+SAMIR: Sì. Una ricerca sui Romani. Proprio su Testaccio. || 응. 로마 사람들에 대한 조사. 바로 테스타초에 대해서.
+NADIA: Su Testaccio? Cosa c'è da scrivere su Testaccio? || 테스타초? 테스타초에 대해 쓸 게 뭐가 있어?
+SAMIR: Il Monte dei Cocci! È fatto di anfore rotte. Dei Romani antichi. || 몬테 데이 코치! 깨진 항아리로 만든 거야. 고대 로마 사람들 거.
+NADIA: Ah, questo lo so anch'io. Chiedi a Sor Settimio. Lui sa tutto del quartiere. || 아, 그건 나도 알아. 세티미오 영감님한테 물어봐. 영감님은 동네에 대해 다 알아.
+SAMIR: Senza telefono, devo chiedere alle persone. Che fatica. || 휴대폰 없으니까 사람들한테 물어봐야 하네. 귀찮아.
+NADIA: Allora, ascolta. Adesso vado dalla vicepreside, firmo il foglio e prendo il telefono. || 자, 잘 들어. 지금 교감 선생님한테 가서 서류에 서명하고 휴대폰 받아 올 거야.
+SAMIR: Grazie, mamma! || 고마워, 엄마!
+NADIA: Aspetta a dire grazie. Il telefono resta a me fino a venerdì. || 고맙다는 말은 아직 하지 마. 휴대폰은 금요일까지 내가 갖고 있을 거야.
+SAMIR: Fino a venerdì? Cinque giorni? Mamma, no! || 금요일까지? 5일이나? 엄마, 안 돼!
+NADIA: Cinque giorni. Così ti ricordi. E il nonno lo chiami dal mio telefono stasera. || 5일. 그래야 기억하지. 할아버지한텐 오늘 저녁에 내 폰으로 전화해.
+SAMIR: E se ho bisogno di chiamarti per strada? || 길에서 엄마한테 전화해야 하면?
+NADIA: Ah, adesso ti serve? Stamattina era spento «davvero». || 아, 이제 필요하구나? 오늘 아침엔 «진짜» 꺼 놨다면서.
+SAMIR: Va bene, va bene. Hai vinto tu. || 알았어, 알았어. 엄마가 이겼어.
+NADIA: Io vinco sempre. Sono una mamma. || 엄마는 늘 이겨. 엄마니까.
+PAOLO: Ben detto. Tommaso, andiamo. Anche tu, cinque giorni. || 말 잘했다. 토마소, 가자. 너도 5일이다.
+SAMIR: Mamma, posso dire una cosa? || 엄마, 한마디 해도 돼?
+NADIA: Dimmi. || 말해.
+SAMIR: Senza telefono, nell'intervallo, abbiamo giocato a briscola. Ho vinto io. || 휴대폰 없이 쉬는 시간에 브리스콜라 했어. 내가 이겼어.
+NADIA: Visto? Il divieto funziona. Lo dice anche il signor Paolo. || 봤지? 금지가 효과 있잖아. 파올로 아저씨도 그러셨어.
+SAMIR: Però il nonno aspetta ancora il mio «grazie». || 근데 할아버지는 아직 내 «고마워요»를 기다리셔.
+NADIA: Stasera glielo dici a voce. È più bello. Andiamo. || 오늘 저녁에 목소리로 말씀드려. 그게 더 좋아. 가자.
+
+@points
+- 의무·허가·금지 표현의 강세: «Bisogna pagare», «si deve fare», «non si può usare», «Lo può usare», «Vietare». 의무 동사와 핵심 동사 두 곳에 힘을 준다.
+- ci/ne 입문: «ci metto qualcosa»(거기에 보태다), «Ci pensiamo insieme»(그것에 대해 생각하다), «Ne hanno rubate tre»(그중 셋), «Ne parlo con la preside», «Che ne pensi?», «Ne avevo sempre uno». 'ne'는 앞 동사와 붙여 한 덩어리로.
+- 날짜·기간: «dal quindici al diciassette maggio», «entro il trenta aprile», «fino a venerdì». 'dal/al'의 관사 결합을 또렷하게.
+- 이중자음: «messaggi», «spento», «zaino»의 z[dz], «gettoni», «campanella», «intervallo», «briscola»(홑자음)와 대비. 'gg'는 [ddʒ].
+- 'gli' 결합 대명사: «Gliel'hanno preso»[ʎelˈlanno], «glielo dici». 'gli' 소리를 부드럽게 미끄러뜨린다.
+- 엄마의 단호한 억양: «Mi fido. Ma controllo.» «Io vinco sempre.» — 짧게 끊고 끝을 내린다. 사미르의 항의 «Mamma, no!»는 높고 길게.
+- 학교 어휘 낭독: diario, merenda, tuta, campanella, intervallo, banco, vicepreside, segreteria, rappresentante di classe, gita.
+
+@notes
+- 'Meno male che ti vedo' «마침 잘 만났다(다행이다)». meno male = 다행히도.
+- 'nei guai' «곤경에 빠진, 혼난». 'Oggi tocca a te' «오늘은 네 차례다».
+- 'gettoni' 옛 공중전화용 토큰. 부모 세대의 추억을 부르는 단어.
+- 'scopa', 'briscola' 이탈리아 전통 카드 게임. 휴대폰 금지 이후 학교 쉬는 시간에 다시 유행했다는 이야기가 흔하다.
+- 이탈리아는 최근 학교 수업 중 휴대폰 사용을 금지하는 규정을 중학교에서 고등학교까지 넓혔다. 학교마다 '전원 끄고 가방에', '보관함' 등 방식이 다르다.
+- 'fatturare' «(프리랜서가) 청구서를 발행하다, 매출을 올리다». 프리랜서 수입을 말할 때 흔히 쓴다.
+- 'Monte dei Cocci'(=Monte Testaccio) 고대 로마의 깨진 암포라 조각이 쌓여 생긴 언덕. 테스타초라는 지명이 여기(testae, 깨진 그릇)에서 왔다.
+- 'Che fatica' «힘들다, 귀찮다». 'ci mette due ore' «두 시간 걸린다» (metterci + 시간).
+- 'rappresentante di classe' 반 학부모 대표. 학부모 단톡방(chat della classe)을 사실상 운영한다.
+
+@next
+1부 6화 — «Gli ottantatré anni di Sor Settimio»(세티미오 영감의 여든세 번째 생일) — "잔치는 싫다"던 세티미오 영감의 3층 부엌에 이웃들이 케이크를 들고 몰려온다. 초는 몇 개 꽂을까?
