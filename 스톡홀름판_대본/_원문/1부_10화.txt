@@ -1,0 +1,267 @@
+PART: 1
+EP: 10
+TITLE: Följ pengarna
+SUBTITLE: 돈을 따라가라 · 사건 5 해결, Södermalm의 작은 사무실
+META: 대사 120턴 · 난이도 B1 · 배경: 다음 날 아침 아홉 시, Södermalm 사무실
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: ULLA-BRITT | 5층 이웃 주민 · 미망인 · 81세 (가상)
+CAST: INGRID | 양복 차림의 낯선 여성 (정체 미공개)
+CAST: NOEL | 16세 · 카페에서 주말에 설거지하던 아이 (가상)
+NOTE: ※ Ingrid가 계좌 뒤의 계좌, 마트료시카 인형처럼 겹겹이 숨겨진 돈의 경로를 따라갑니다. 돈은 10대 명의의 계좌들 — 몇천 크로나를 받고 범죄자에게 계좌와 BankID를 빌려준 ‘명의 대여자(penningmålvakt)’ — 과 이름만 있는 회사 계좌를 거쳐 빠져나갔습니다. 그중 한 계좌의 주인은 카페에서 주말마다 설거지하던 16세 Noel입니다. 이 극은 Noel을 ‘범인’이 아니라 ‘이용당한 아이’로 다룹니다. 경로 끝에서 «Saltsjöbanken»이라는 이름이 나오자 Maja가 얼어붙습니다. Ingrid는 설명 없이 떠납니다. 표현 초점: 금융 추적 어휘 — konto, frysa, spår, överföring, koppling.
+
+# 도입 — KONTON I KONTON
+INGRID: God morgon. Jag har räknat hela natten.
+= 좋은 아침입니다. 밤새 계산했어요.
+BIGGAN: Det syns. Kaffe. Svart?
+= 티 나네. 커피. 블랙?
+INGRID: Svart. Tack.
+= 블랙이요. 고마워요.
+JOHAN: Polisanmälan är gjord. Klockan åtta på Södermalms polisstation. Ulla-Britt var fantastisk.
+= 경찰 신고 마쳤어요. 여덟 시에 쇠데르말름 경찰서에서. 울라브리트가 대단했어요.
+ULLA-BRITT: Jag tog med pärmen. Polisen sa att han aldrig hade sett en så bra pärm.
+= 서류철을 가져갔어요. 경찰이 이렇게 좋은 서류철은 처음 본대요.
+ELSA: Göte hade varit stolt.
+= 예테가 자랑스러워했을 거예요.
+ULLA-BRITT: Göte hade sagt att jag skulle ha strukit blusen.
+= 예테라면 블라우스나 다려 입으라고 했을 거예요.
+MAJA: Ingrid. Visa oss.
+= 잉리드. 보여 주세요.
+INGRID: De tre svenska kontona. Pengarna kom in klockan 18.42. Och gick ut igen inom en timme.
+= 스웨덴 계좌 세 개. 돈이 18시 42분에 들어왔어요. 그리고 한 시간 안에 다시 나갔어요.
+ELSA: Var gick de?
+= 어디로 갔어요?
+INGRID: Till ett fjärde konto. Ett företag. Och därifrån vidare.
+= 네 번째 계좌로요. 회사 계좌. 그리고 거기서 또 다른 데로.
+ANTON: Som en matrjosjka. Konton i konton.
+= 마트료시카 같네. 계좌 속 계좌.
+ELSA: Ursäkta, vad är en matrjosjka?
+= 실례지만, 마트료시카가 뭐예요?
+ANTON: En rysk docka. Man öppnar den, och inuti finns en mindre docka. Och en till.
+= 러시아 인형. 열면 안에 더 작은 인형이 있어. 그리고 또 하나.
+MAJA: Ryska. Inte engelska. Noll kronor.
+= 러시아어. 영어 아니야. 0크로나.
+ANTON: Äntligen!
+= 드디어!
+DANIEL: Och de tre första kontona? Vilka är de?
+= 그럼 처음 세 계좌는? 누구 거야?
+INGRID: Polisen har namnen nu. Men jag kan säga så mycket: två av dem är under arton.
+= 이제 경찰이 이름을 알아요. 근데 이 정도는 말할 수 있어요: 그중 둘은 열여덟 살 미만이에요.
+WICKSELL: Följ pengarna. Men glöm inte att pengar alltid går genom människor.
+= 돈을 따라가게. 하지만 돈은 늘 사람을 거쳐 간다는 걸 잊지 말게.
+JOHAN: Herr Wicksell. Ni kommer alltid när det handlar om siffror.
+= 빅셀 님. 숫자 얘기만 나오면 늘 오시네요.
+WICKSELL: Siffror är bara människor som har slutat prata.
+= 숫자란 말하기를 멈춘 사람들일 뿐이네.
+ELSA: Det förstod jag inte. Men det lät vackert.
+= 그건 이해 못 했어요. 근데 멋지게 들렸어요.
+
+# 장면 1 — PENNINGMÅLVAKTEN
+BIGGAN: Noel? Vad gör du här en tisdag? Du diskar ju bara på lördagar.
+= 노엘? 화요일에 여기서 뭐 해? 넌 토요일에만 설거지하잖아.
+NOEL: Jag… jag måste prata med någon. Polisen ringde mamma i morse.
+= 저… 누구랑 얘기해야 해요. 오늘 아침에 경찰이 엄마한테 전화했어요.
+DANIEL: Sätt dig, Noel. Vad sa polisen?
+= 앉아, 노엘. 경찰이 뭐라고 했어?
+NOEL: Att mitt konto är fryst. Att det kom in pengar från ett bedrägeri.
+= 제 계좌가 동결됐대요. 사기로 생긴 돈이 들어왔대요.
+ULLA-BRITT: Noel? Lilla Noel från tredje våningen?
+= 노엘? 3층의 꼬마 노엘?
+NOEL: Hej, Ulla-Britt.
+= 안녕하세요, 울라브리트.
+ULLA-BRITT: Jag har gett dig kakor sedan du var fem.
+= 네가 다섯 살 때부터 과자를 줬는데.
+NOEL: Jag vet. Jag visste inte att det var dina pengar. Jag lovar. Jag visste ingenting.
+= 알아요. 할머니 돈인 줄 몰랐어요. 맹세해요. 아무것도 몰랐어요.
+JOHAN: Berätta från början. Ingen här är polis.
+= 처음부터 얘기해 봐. 여기 경찰은 없어.
+NOEL: En kille skrev till mig på Snapchat. Han sa att jag kunde tjäna tretusen på en kväll. Bara låna ut mitt konto.
+= 어떤 형이 스냅챗으로 연락했어요. 하룻밤에 3,000 벌 수 있다고요. 그냥 계좌만 빌려주면 된다고.
+ELSA: Och BankID?
+= 그리고 BankID는요?
+NOEL: Han ville ha det också. Jag loggade in när han sa till. Han sa att det var lagligt. Att alla gör det.
+= 그것도 달라고 했어요. 그 형이 말할 때 로그인했어요. 합법이라고 했어요. 다들 한다고.
+DANIEL: Det säger de alltid. ”Alla gör det.”
+= 걔들은 늘 그렇게 말해. ‘다들 한다.’
+MAJA: Fick du tretusen?
+= 3,000 받았어?
+NOEL: Två. Han sa att resten kommer sen.
+= 2,000이요. 나머지는 나중에 준대요.
+ANTON: Resten kommer aldrig.
+= 나머지는 절대 안 와.
+NOEL: Jag vet det nu.
+= 이제 알아요.
+BIGGAN: Åh, Noel. Varför sa du inget till mig?
+= 아, 노엘. 왜 나한테 말 안 했어?
+NOEL: Jag skämdes. Du har alltid varit snäll mot mig.
+= 창피했어요. 비간은 늘 저한테 잘해 줬잖아요.
+ELSA: Ursäkta, Johan, är det ett brott? För Noel?
+= 실례지만, 요한, 그게 범죄예요? 노엘한테?
+JOHAN: Det kan vara det. Han är över femton. Men domstolen ser också att han blev utnyttjad.
+= 그럴 수 있어. 열다섯 살이 넘었으니까. 하지만 법원도 그가 이용당했다는 걸 봐.
+NOEL: Kommer jag i fängelse?
+= 저 감옥 가요?
+JOHAN: Nej. Det tror jag inte. Men du måste berätta sanningen för polisen. Med en vuxen bredvid dig.
+= 아니. 그렇게 생각 안 해. 하지만 경찰한테 진실을 말해야 해. 어른이 옆에 있는 데서.
+NOEL: Mamma jobbar. Hon kan inte ta ledigt.
+= 엄마는 일해요. 쉴 수가 없어요.
+DANIEL: Då sitter jag bredvid dig. Om din mamma säger ja.
+= 그럼 내가 옆에 앉을게. 엄마가 허락하면.
+NOEL: Varför skulle du göra det?
+= 왜 그래 주시는데요?
+DANIEL: För att jag kände killar som du när jag var sexton. En av dem är inte här längre.
+= 열여섯 살 때 너 같은 애들을 알았거든. 그중 한 명은 이제 여기 없어.
+ULLA-BRITT: Noel. Titta på mig.
+= 노엘. 날 봐.
+NOEL: Förlåt, Ulla-Britt. Förlåt.
+= 죄송해요, 울라브리트. 죄송해요.
+ULLA-BRITT: Du fick tvåtusen. De fick hundraåttiotusen. Du är inte den som ska be om förlåtelse mest.
+= 넌 2,000 받았지. 그놈들은 18만을 가져갔고. 제일 많이 용서를 빌어야 할 사람은 네가 아니야.
+
+# 장면 2 — SALTSJÖBANKEN
+INGRID: Det fjärde kontot. Företaget. Det heter Nordic Flow Solutions AB.
+= 네 번째 계좌. 회사요. 이름은 노르딕 플로 솔루션스 AB.
+ANTON: Flow Solutions. Det låter som något jag hade hittat på.
+= 플로 솔루션스. 내가 지어냈을 법한 이름이네.
+MAJA: En krona för att du säger det högt.
+= 그걸 소리 내서 말한 값으로 1크로나.
+INGRID: Bolaget registrerades för fem månader sedan. Styrelseledamot: en man på sjuttiotvå år i Eskilstuna.
+= 이 회사는 다섯 달 전에 등록됐어요. 이사: 에스킬스투나에 사는 72세 남자.
+JOHAN: En målvakt. Någon som bara lånar ut sitt namn.
+= 명의 대표네. 이름만 빌려주는 사람.
+ELSA: Som Noel lånade ut sitt konto?
+= 노엘이 계좌를 빌려준 것처럼요?
+JOHAN: Precis. Men med ett helt företag.
+= 바로 그거야. 근데 회사 하나를 통째로.
+MAJA: Vilken bank har bolaget?
+= 그 회사는 어느 은행을 써요?
+INGRID: Saltsjöbanken.
+= 살트셰은행이요.
+ELSA: Maja? Är du okej?
+= 마야? 괜찮아요?
+MAJA: Ja. Fortsätt.
+= 응. 계속해요.
+DANIEL: Du är blek.
+= 너 창백해.
+MAJA: Det är december. Alla är bleka. Fortsätt, Ingrid.
+= 12월이야. 다들 창백하지. 계속해요, 잉리드.
+INGRID: Polisen kontaktade Saltsjöbanken i morse. Kontot är fryst. Det fanns pengar kvar.
+= 경찰이 오늘 아침 살트셰은행에 연락했어요. 계좌가 동결됐어요. 돈이 남아 있었어요.
+JOHAN: Hur mycket?
+= 얼마나요?
+INGRID: Åttioentusen. Plus sextiotusen på Noels konto. Och fyrtiofemtusen på det tredje.
+= 81,000. 거기에 노엘 계좌에 60,000. 그리고 세 번째 계좌에 45,000.
+WICKSELL: Räkna, Maja.
+= 계산해 보게, 마야.
+MAJA: Etthundraåttiosextusen.
+= 186,000.
+ULLA-BRITT: Etthundraåttiosex… Är det mina?
+= 186,000… 그게 내 돈이에요?
+INGRID: Om polisen och banken är överens, ja. Det kan ta några veckor. Men de är inte borta.
+= 경찰이랑 은행이 합의하면, 네. 몇 주 걸릴 수 있어요. 하지만 사라진 건 아니에요.
+ULLA-BRITT: Nästan tvåhundratusen.
+= 거의 20만.
+ELSA: En tredjedel. Som du sa i går, Ingrid.
+= 3분의 1. 어제 잉리드가 말한 대로요.
+INGRID: Jag säger aldrig mer än jag vet.
+= 저는 아는 것 이상은 절대 말하지 않아요.
+WICKSELL: En sällsynt dygd i den här staden.
+= 이 도시에선 드문 미덕이군.
+
+# 절정 — EN FRÅGA, INGET SVAR
+JOHAN: Ingrid. Får jag ställa en fråga?
+= 잉리드. 하나 물어봐도 될까요?
+INGRID: Du får ställa den.
+= 물어보는 건 괜찮아요.
+JOHAN: Hur kunde du hitta bolaget på en natt? Det tar polisen veckor.
+= 어떻게 하룻밤 만에 그 회사를 찾았어요? 경찰은 몇 주가 걸리는데.
+INGRID: Jag sa ju. Clearingnummer. Bolagsverket. Lite tålamod.
+= 말했잖아요. 지점 번호. 회사 등기소. 약간의 인내심.
+JOHAN: Och Saltsjöbanken? Du sa namnet som om du kände det.
+= 그리고 살트셰은행은요? 아는 이름인 것처럼 말했잖아요.
+INGRID: Alla känner Saltsjöbanken. Den är på reklampelarna.
+= 다들 살트셰은행은 알아요. 광고탑에 있잖아요.
+DANIEL: Det var inte vad han frågade.
+= 그건 이 사람이 물어본 게 아니잖아요.
+INGRID: Nej. Det var det inte.
+= 네. 아니었죠.
+ELSA: Ursäkta… har du jobbat där?
+= 실례지만… 거기서 일하셨어요?
+INGRID: Elsa. Du är bra på att fråga. Det är en gåva. Behåll den.
+= 엘사. 당신은 묻는 걸 잘해요. 그건 재능이에요. 간직해요.
+ELSA: Men du svarade inte.
+= 근데 대답 안 하셨잖아요.
+INGRID: Nej.
+= 네.
+WICKSELL: En fråga utan svar är också ett svar. Bara inte ett färdigt.
+= 대답 없는 질문도 대답이네. 다만 완성되지 않았을 뿐.
+MAJA: Jag har en fråga också. Till dig, Ingrid.
+= 나도 질문이 하나 있어요. 당신한테, 잉리드.
+INGRID: Ja?
+= 네?
+MAJA: Har du någonsin skrivit under något du ångrar?
+= 후회하는 걸 서명한 적 있어요?
+INGRID: Har du?
+= 당신은요?
+MAJA: …
+= ……
+ANTON: Okej. Det här blev väldigt tyst.
+= 좋아. 갑자기 엄청 조용해졌네.
+INGRID: Jag måste gå. Polisen har allt de behöver. Utan mitt namn.
+= 가 봐야 해요. 경찰은 필요한 걸 다 갖고 있어요. 제 이름 빼고.
+BIGGAN: Kommer du tillbaka?
+= 다시 올 거야?
+INGRID: Kanske. Om någon blir lurad igen. Det blir någon alltid.
+= 아마도요. 누가 또 속으면. 누군가는 늘 속으니까요.
+ULLA-BRITT: Tack, fru Falk. För mina pengar.
+= 고마워요, 팔크 씨. 내 돈.
+INGRID: Tacka Noel. Hans konto hade mest kvar. Han tog inte ut något.
+= 노엘한테 고마워하세요. 그 애 계좌에 제일 많이 남아 있었어요. 아무것도 안 뺐더라고요.
+NOEL: Jag var för rädd för att röra det.
+= 너무 무서워서 손을 못 댔어요.
+DANIEL: Ibland är rädsla klok, Noel.
+= 가끔은 두려움이 현명한 거야, 노엘.
+INGRID: Hej då. Och Maja… ta hand om dig.
+= 안녕히 계세요. 그리고 마야… 몸조심해요.
+
+# 마무리 — TVÅHUNDRATUSEN KRONOR
+ELSA: Vad menade hon? ”Ta hand om dig”?
+= 무슨 뜻이었을까요? ‘몸조심해요’라니?
+MAJA: Ingenting. Det säger man.
+= 아무것도 아니야. 그냥 하는 말이야.
+DANIEL: Maja.
+= 마야.
+MAJA: Inte i dag, Daniel. Inte i dag.
+= 오늘은 아니야, 다니엘. 오늘은.
+BIGGAN: Då säger vi ingenting i dag. Kaffe till alla.
+= 그럼 오늘은 아무 말도 안 하는 걸로. 다들 커피.
+ULLA-BRITT: Birgitta, kan jag få betala för ett år framåt? Med de pengarna jag får tillbaka?
+= 비르기타, 돌려받는 돈으로 1년 치 커피값을 미리 내도 될까?
+BIGGAN: Kontant?
+= 현금으로?
+ULLA-BRITT: Kontant. Jag ska ta ut dem på banken. Den riktiga. Och jag ska titta personen i ögonen.
+= 현금으로. 은행에서 찾을 거야. 진짜 은행에서. 그리고 직원 눈을 똑바로 볼 거야.
+NOEL: Biggan… får jag fortfarande diska på lördag?
+= 비간… 토요일에 계속 설거지해도 돼요?
+BIGGAN: Om du lovar att aldrig mer svara på Snapchat från killar du inte känner.
+= 모르는 형들이 보내는 스냅챗엔 다시는 답 안 한다고 약속하면.
+NOEL: Jag lovar.
+= 약속해요.
+BIGGAN: Då diskar du. Och jag betalar dig. Vitt. Med lönebesked.
+= 그럼 설거지해. 그리고 내가 돈 줄게. 정식으로. 급여 명세서랑.
+WICKSELL: Det är så man bygger ett land, Biggan. En diskare i taget.
+= 나라는 그렇게 세우는 거네, 비간. 설거지하는 사람 한 명씩.
+ANTON: Etthundraåttiosextusen. Det är det bästa resultatet vi haft.
+= 186,000. 우리가 낸 최고의 성과야.
+JOHAN: Ulla-Britt har fortfarande förlorat mer än hälften.
+= 울라브리트는 그래도 절반 넘게 잃었어.
+ULLA-BRITT: Men jag har vunnit något också. Ett kafé fullt av folk som ser mig.
+= 근데 얻은 것도 있어. 날 봐 주는 사람들로 가득한 카페.
+ELSA: Regel fem? Följ pengarna, men glöm inte människorna.
+= 규칙 5번? 돈을 따라가되, 사람을 잊지 말 것.
+NEXT: 1부 11화 — «Ett papper från förr»(옛날 서류) — Leyla의 남편 Reza가 돌아가신 어머니의 유품에서 20년 전의 ‘이사 합의서’를 들고 온다. 2000년대 Södermalm의 임대→소유 전환 열풍 속에서 무엇이 있었던 걸까. Wägner가 귀를 기울인다.
