@@ -1,0 +1,159 @@
+#nr: 80
+#part: 5부 Neuer Frühling (이듬해 봄)
+#title: Oma Edith wird vierundachtzig
+#ko: 에디트 할머니, 여든넷이 되다 · 붉은 시청과 보른홀머 다리
+#level: B2~C1
+#setting: 4월 17일 토요일 ~ 18일 일요일. 토요일 오전 11시, 붉은 시청의 귀화 기념식. 휘세인은 49년 만에 독일 시민이 된다. 손님은 아이셰, 데르야, 잔, 그리고 예외로 초대된 에디트. 다음 날은 에디트의 84번째 생일. 이 집에는 오래된 규칙이 있다. 생일 전에는 절대 축하하지 않는다. 자정, 크나이페. 일요일 오후, 코트부스에서 온 카린과 루카스와 함께 보른홀머 다리에 선다. 루카스는 기타를 들고 왔다. 그리고 저녁, 1층 새 집에서 1년을 돌아본다. 1년 전 이날, 아무도 이 집이 팔릴 줄 몰랐다. 표현 초점: 공식 선서와 축사, 축하 표현(시기와 형식), 1년 회고(과거 시제 종합), 감사와 다짐.
+#cast: Hüseyin | 휘세인 이을드즈 · 65세
+#cast: Ayşe | 아이셰 이을드즈 · 62세
+#cast: Derya | 데르야 이을드즈 · 40세
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Edith | 에디트 크뤼거 · 84세
+#cast: Staatssekretärin | 베를린 내무부 차관 · 50대
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Jana | 야나 코발스키 · 34세
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Karin | 카린 베르그너 · 47세, 기젤라의 딸
+#cast: Lukas | 루카스 베르그너 · 15세, 기젤라의 손자
+#cast: Paul | 파울 호프만 · 27세
+#cast: Herr Pietsch | 귄터 피치 · 71세
+#cast: Frau Marquardt | 헨리에테 마르크바르트 · 78세
+#cast: Tobi | 토비 피셔 · 31세
+#read: 선서문 낭독: „Ich erkläre feierlich, dass ich das Grundgesetz und die Gesetze der Bundesrepublik Deutschland achten werde …" — 천천히, 한 구절씩, 무게를 담아.
+#read: 생일 축하: „Herzlichen Glückwunsch zum Geburtstag!" „Alles Gute!" — 자정 0시 정각에. 그 전에는 절대 말하지 않는다. 금기를 지키는 긴장감.
+#read: 1년 회고: 과거 시제가 이어진다. „Vor einem Jahr hatte ich keine Wohnung. Vor einem Jahr wusste niemand …" — 'Vor einem Jahr'를 반복하며 리듬을.
+#read: Einbürgerungsurkunde [ˈaɪ̯nbʏʁɡəʁʊŋsˌʔuːɐ̯kʊndə], Bekenntnis [bəˈkɛntnɪs], Rotes Rathaus [ˈʁoːtəs ˈʁaːtˌhaʊ̯s], Vorfeiern [ˈfoːɐ̯ˌfaɪ̯ɐn].
+#note: Einbürgerungsfeier(귀화 기념식): 베를린은 붉은 시청(Rotes Rathaus)에서 정기적으로 귀화 기념식을 연다. 새 시민들은 기본법 존중과 자유민주적 기본 질서에 대한 신앙 고백(Bekenntnis)과 선언을 하고 귀화 증서(Einbürgerungsurkunde)를 받는다. 2024년 국적법 개정 이후 귀화자가 크게 늘었다.
+#note: 생일 미리 축하 금기: 독일에서는 생일 전에 축하하면(vorfeiern, vorgratulieren) 불운이 온다는 미신이 널리 퍼져 있다. 그래서 자정이 되기를 기다렸다가 'Reinfeiern'(생일 속으로 들어가며 축하하기)을 한다. 늦게 축하하는 것(nachträglich gratulieren)은 괜찮다.
+#note: 축하 표현: Herzlichen Glückwunsch! / Alles Gute zum Geburtstag! / Ich wünsche dir alles Liebe. / Bleib, wie du bist. (지금처럼만 있어 줘) / Auf die nächsten … Jahre! / Nachträglich alles Gute! (늦었지만 축하해)
+#note: 1년 회고 표현: Vor einem Jahr … / Seitdem hat sich viel verändert. / Wer hätte gedacht, dass …? (…일 줄 누가 알았겠어?) / Im Rückblick … (돌아보면) / Das hätte ich mir nie träumen lassen. (꿈도 꾸지 못했다)
+#note: 1부 6화 회고: 1년 전 4월 18일, 에디트의 83번째 생일. 에디트가 '생일 전 축하 금기'를 처음 말했고, 1990년 47번째 생일이 가장 행복했다고 이야기했다. 그때는 아직 아무도 집이 팔릴 줄 몰랐다.
+## Im Wartesaal | 대기실에서
+Derya: Baba, du hast die Nummer zweihundertacht. Sie rufen nach Alphabet auf. Yıldız ist ganz am Ende. Das kann dauern. || 아빠, 아빠 번호는 이백팔 번이에요. 알파벳 순서로 불러요. 이을드즈는 맨 끝이에요. 오래 걸릴 수도 있어요.
+Hüseyin: Ich habe neunundvierzig Jahre gewartet. Eine Stunde mehr schaffe ich auch noch. || 사십구 년을 기다렸어. 한 시간 더는 문제없어.
+Ayşe: Er hat heute früh dreimal gefragt, ob er die Aufenthaltserlaubnis mitnehmen muss. Ich habe dreimal gesagt: Das ist das letzte Mal, dass du sie brauchst. || 오늘 아침에 체류 허가증 가져가야 하냐고 세 번이나 물었어요. 세 번 다 말했죠. 그게 그걸 필요로 하는 마지막 날이라고요.
+Edith: Neben mir sitzt eine Frau aus Vietnam. Sie ist seit neunzehnhundertsiebenundachtzig hier. Vertragsarbeiterin. In Lichtenberg. Sie hat gesagt: Damals hat uns der eine Staat geholt und der andere vergessen. || 내 옆에 베트남에서 온 여자분이 앉아 있어요. 1987년부터 여기 있었대요. 계약 노동자로. 리히텐베르크에서. 그분이 그러더군요. 그때 한 나라는 우리를 데려왔고 다른 나라는 우리를 잊었다고.
+Hüseyin: Der eine hat geholt, der andere hat vergessen. Bei uns war es derselbe Staat. Er hat geholt. Und dann vergessen. || 한 나라는 데려오고 다른 나라는 잊었다라. 우리는 같은 나라였어요. 데려와 놓고. 그러고는 잊었지.
+Can: Dede, ich habe eine Liste gemacht. Für mein Archiv. Wer heute hier ist. Achtundvierzig Länder. Ich habe schon einunddreißig gezählt. Nach den Fahnen auf den Anstecknadeln. || 데데, 제가 목록을 만들었어요. 제 기록 보관소용으로요. 오늘 여기 누가 있는지요. 마흔여덟 개 나라요. 벌써 서른한 개 셌어요. 배지에 달린 국기로요.
+Edith: Weißt du, Can, das ist der vollste Saal, in dem ich seit Jahren war. Und niemand drängelt. Alle warten. Wie an einer Haltestelle. Nur dass der Bus diesmal sicher kommt. || 있잖니, 잔, 몇 년 만에 들어와 본 제일 꽉 찬 방이야. 그런데 아무도 밀치지 않아. 다들 기다려. 정류장처럼. 이번엔 버스가 틀림없이 온다는 것만 다르지.
+Ayşe: Sie fangen an. Hüseyin. Krawatte. Gerade. So. Jetzt bist du fertig. || 시작해요. 휘세인. 넥타이. 똑바로. 이렇게. 이제 다 됐어요.
+## Rotes Rathaus, elf Uhr | 붉은 시청, 열한 시
+Hüseyin: Ich habe meinen besten Anzug an. Den von Deryas Hochzeit. Zweitausendvierzehn. Er ist zu eng. Ayşe hat gestern Nacht die Knöpfe versetzt. || 제일 좋은 양복 입었어. 데르야 결혼식 때 입었던 거. 2014년에. 꽉 끼네. 아이셰가 어젯밤에 단추를 옮겨 달아 줬어.
+Ayşe: Um zwei Uhr nachts. Er konnte nicht schlafen. Er hat das Grundgesetz gelesen. Laut. Im Bett. Artikel eins bis neunzehn. || 새벽 두 시에요. 잠을 못 자더라고요. 기본법을 읽었어요. 소리 내서요. 침대에서요. 제1조부터 19조까지요.
+Derya: Baba, du musst das Grundgesetz nicht auswendig können. Du musst nur Ja sagen. Und unterschreiben. || 아빠, 기본법을 외울 필요는 없어요. 그냥 ‚예'라고 하고. 서명만 하면 돼요.
+Hüseyin: Ich will wissen, wozu ich Ja sage. Neunundvierzig Jahre habe ich in diesem Land gelebt, ohne zu wissen, was Artikel drei sagt. Jetzt weiß ich es. „Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft benachteiligt werden." Das gilt seit neunzehnhundertneunundvierzig. Ich wusste es nicht. Niemand hat es mir gesagt. Neunzehnhundertdreiundneunzig auch nicht. || 내가 뭐에 ‚예'라고 하는지 알고 싶어. 사십구 년 동안 이 나라에 살면서 제3조가 뭐라고 하는지도 몰랐어. 이제는 알아. „누구도 성별, 혈통, 인종, 언어, 고향과 출신 때문에 불이익을 받아서는 안 된다." 1949년부터 유효했대. 나는 몰랐어. 아무도 말해 주지 않았지. 1993년에도.
+Edith: Ich wusste es auch nicht, Hüseyin. Ich bin seit neunzehnhundertdreiundvierzig Deutsche. Ich habe es nie gelesen. Ich schäme mich ein bisschen. || 나도 몰랐어요, 휘세인 씨. 나 1943년부터 독일 사람인데. 한 번도 안 읽어 봤어요. 좀 부끄럽네요.
+Can: Dede. Ich habe deine Hand. Du zitterst. || 데데. 제가 손 잡고 있어요. 떨고 계세요.
+Hüseyin: Nicht vor Angst, Canım. Vor … ich weiß nicht, wovor. Vor neunundvierzig Jahren. Die alle auf einmal kommen. || 무서워서가 아니야, 얘야. 그… 뭐 때문인지 모르겠다. 사십구 년 때문인가. 그게 한꺼번에 몰려오니까.
+Staatssekretärin: Liebe neue Mitbürgerinnen und Mitbürger, liebe Familien und Gäste. Heute werden zweihundertzwölf Menschen aus achtundvierzig Ländern Deutsche. Der älteste ist einundneunzig. Die jüngste ist achtzehn. Und einer von Ihnen lebt seit neunundvierzig Jahren in Berlin. Herr Yıldız, sind Sie hier? || 친애하는 새 시민 여러분, 가족과 손님 여러분. 오늘 마흔여덟 개 나라에서 온 이백열두 명이 독일 시민이 됩니다. 가장 나이 많은 분은 아흔하나. 가장 어린 분은 열여덟입니다. 그리고 여러분 중 한 분은 베를린에서 사십구 년을 사셨습니다. 이을드즈 씨, 여기 계십니까?
+Hüseyin: … Hier. Ich bin hier. || …여기요. 여기 있습니다.
+Staatssekretärin: Herr Yıldız, Sie haben Berlin neunundvierzig Jahre lang mitgebaut. Ohne mitbestimmen zu dürfen. Ab heute dürfen Sie. Willkommen. Und, wenn ich das sagen darf: Entschuldigung, dass es so lange gedauert hat. || 이을드즈 씨, 당신은 사십구 년 동안 베를린을 함께 지었습니다. 함께 결정할 권리도 없이요. 오늘부터는 가능합니다. 환영합니다. 그리고, 이 말을 해도 된다면, 이렇게 오래 걸려서 죄송합니다.
+Ayşe: … Sie hat sich entschuldigt. Eine Staatssekretärin. Vor zweihundert Menschen. || …사과했어요. 차관이요. 이백 명 앞에서요.
+Staatssekretärin: Und jetzt bitte ich Sie alle, sich zu erheben. Und mir nachzusprechen. Das Bekenntnis. || 이제 모두 일어나 주시기 바랍니다. 그리고 저를 따라 말씀해 주십시오. 신앙 고백입니다.
+Hüseyin: „Ich erkläre feierlich, dass ich das Grundgesetz und die Gesetze der Bundesrepublik Deutschland achten und alles unterlassen werde, was ihr schaden könnte." || „나는 독일 연방 공화국의 기본법과 법률을 존중하며, 이에 해가 될 수 있는 모든 일을 하지 않을 것을 엄숙히 선언합니다."
+Can: Er hat es auswendig gesagt. Ohne Zettel. Mama. Er hat nicht vorgelesen. || 외워서 말했어요. 쪽지 없이요. 엄마. 읽은 게 아니에요.
+Staatssekretärin: Herr Hüseyin Yıldız. Ihre Einbürgerungsurkunde. Herzlichen Glückwunsch. Sie sind Deutscher. Und Sie bleiben Türke. Beides. || 휘세인 이을드즈 씨. 귀화 증서입니다. 축하드립니다. 당신은 독일 시민입니다. 그리고 튀르키예 시민으로도 남습니다. 둘 다요.
+Hüseyin: Beides. Danke. Teşekkür ederim. Danke. In zwei Sprachen. Weil ich in zwei Sprachen dankbar bin. || 둘 다라. 감사합니다. 테셰퀴르 에데림. 감사합니다. 두 언어로요. 두 언어로 감사하니까요.
+Derya: Baba … || 아빠…
+Hüseyin: Nicht weinen, Derya. Du hast im Dezember gesagt: Erst beim Bundestag. Ich weine heute. Für uns beide. Dann musst du beim Bundestag nicht. || 울지 마, 데르야. 12월에 네가 그랬잖아. 연방 의회 선거 때나 울라고. 오늘은 내가 울게. 우리 둘 몫까지. 그럼 넌 연방 의회 때 안 울어도 돼.
+## Am Alexanderplatz | 알렉산더 광장에서
+Hüseyin: Ich bin Deutscher. Ich stehe auf dem Alexanderplatz. Und ich bin Deutscher. Es fühlt sich genauso an wie vorher. Und ganz anders. || 나 독일 사람이야. 알렉산더 광장에 서 있어. 그리고 독일 사람이야. 전이랑 똑같은 기분이야. 그리고 완전히 달라.
+Ayşe: Was willst du als Erstes tun? Als Deutscher? || 독일 사람으로서 제일 먼저 뭘 하고 싶어요?
+Hüseyin: Als Erstes … einen Döner essen. Hier. Am Alexanderplatz. Als deutscher Staatsbürger. Das ist das Deutscheste, was ich mir vorstellen kann. || 제일 먼저… 케밥 하나 먹고 싶어. 여기. 알렉산더 광장에서. 독일 시민으로서. 그게 내가 상상할 수 있는 제일 독일다운 거야.
+Can: Und als Zweites? || 그럼 두 번째는요?
+Hüseyin: Als Zweites gehe ich nach Hause. In die Ecke. Und schreibe meinen Namen auf die Wählerliste. Für die nächste Wahl. Bezirk. Land. Bund. Alle. Ich will alle wählen. Neunundvierzig Jahre nachholen. || 두 번째로는 집에 갈 거야. 크나이페로. 그리고 선거인 명부에 내 이름을 올릴 거야. 다음 선거를 위해서. 구청. 주. 연방. 전부. 전부 다 투표하고 싶어. 사십구 년 치를 만회하려고.
+Edith: Hüseyin. Darf ich Ihnen gratulieren? Jetzt? Das ist nicht vor dem Geburtstag. Das ist nach der Urkunde. || 휘세인 씨. 축하해도 될까요? 지금요? 이건 생일 전이 아니잖아요. 증서 받은 다음이니까요.
+Hüseyin: Sie dürfen. Und morgen darf ich Ihnen gratulieren. Aber nicht heute. Morgen. Um null Uhr. Das ist Ihre Regel. Ich halte mich daran. Jetzt erst recht. Als Deutscher. || 하셔도 돼요. 그리고 내일은 내가 축하해 드릴게요. 오늘 말고요. 내일요. 영 시에요. 그게 당신 규칙이잖아요. 지킬게요. 이제는 더더욱이요. 독일 사람으로서요.
+Edith: Herzlichen Glückwunsch, Herr Yıldız. Nein. Hüseyin. Darf ich jetzt Hüseyin sagen? Wo du Deutscher bist? || 축하해요, 이을드즈 씨. 아니다. 휘세인. 이제 휘세인이라고 불러도 될까요? 독일 사람이 됐으니까?
+Hüseyin: Du durftest es schon vorher, Edith. Seit neunzehnhunderteinundachtzig. Seit du meiner Frau Deutsch beigebracht hast. Du hast nur nie gefragt. || 전부터 그래도 됐어요, 에디트. 1981년부터요. 당신이 내 아내한테 독일어를 가르쳐 준 그때부터요. 묻지 않았을 뿐이지.
+Can: Edith! Morgen bist du vierundachtzig! Dann sage ich … || 에디트 할머니! 내일이면 할머니 여든넷이에요! 그럼 제가…
+Edith: Nein! Can! Nicht! Nichts sagen! Nicht vor null Uhr! || 안 돼! 잔! 하지 마! 아무 말도 하지 마! 영 시 전엔 안 돼!
+Can: Ich wollte nur sagen … dass ich morgen etwas sage. Um null Uhr. Das ist erlaubt. Das ist eine Ankündigung. Keine Gratulation. || 저는 그냥… 내일 뭘 말하겠다고 하려던 거예요. 영 시에요. 그건 괜찮잖아요. 그건 예고예요. 축하가 아니라요.
+Edith: Eine Ankündigung. Gut. Die ist erlaubt. Gerade so. || 예고라. 좋아. 그건 괜찮아. 아슬아슬하게.
+## Mitternacht in der Ecke | 자정의 크나이페
+Kalle: Dreiundzwanzig Uhr achtundfünfzig. Niemand sagt etwas. Niemand. Wer vorher gratuliert, bekommt Hausverbot. Für eine Woche. || 열한 시 오십팔 분. 아무도 아무 말 하지 마. 아무도. 먼저 축하하는 사람은 출입 금지야. 일주일 동안.
+Frau Schulze: Ich habe die Uhr synchronisiert. Mit der Atomuhr in Braunschweig. Per Funk. Sie geht auf die Sekunde genau. || 시계 맞춰 놨어요. 브라운슈바이크 원자시계에요. 전파로요. 초 단위까지 정확해요.
+Jana: Neunundfünfzig. Noch eine Minute. Edith, du sitzt ganz still. || 오십구 분. 일 분 남았어요. 에디트, 꼼짝 않고 앉아 계시네요.
+Edith: Ich sitze still, weil ich dreiundachtzig bin. Noch fünfzig Sekunden. Das will ich genießen. Die letzten Sekunden mit dreiundachtzig. Es war ein gutes Jahr. Das beste seit neunzehnhundertneunzig. || 가만히 있는 건 아직 여든셋이니까. 오십 초 남았어. 그걸 즐기고 싶어. 여든셋의 마지막 몇 초를. 좋은 한 해였어. 1990년 이후 최고의 한 해.
+Frau Schulze: Zehn. Neun. Acht. || 열. 아홉. 여덟.
+Can: Sieben! Sechs! Fünf! || 일곱! 여섯! 다섯!
+Kalle: Vier. Drei. Zwei. || 넷. 셋. 둘.
+Frau Schulze: Eins. Null Uhr null null. Achtzehnter April. || 하나. 영 시 영 분. 4월 18일.
+Can: Herzlichen Glückwunsch zum Geburtstag, Edith! Ich bin der Erste! Ich habe es angekündigt! || 생신 축하드려요, 에디트 할머니! 제가 첫 번째예요! 예고했잖아요!
+Edith: Can. Danke. Du bist der Erste. Wie Gisela. Die war auch immer die Erste. Aber jetzt bist du es. || 잔. 고마워. 네가 첫 번째구나. 기젤라처럼. 언니도 늘 처음이었지. 그런데 이제는 네가 처음이야.
+Kalle: Alles Gute, Edith. Vierundachtzig. Und die ersten vierundachtzig Stunden ohne Stufen. Fast. || 축하해, 에디트. 여든넷. 그리고 계단 없는 첫 여든네 시간. 거의.
+Jana: Alles Liebe, Edith. Und hier. Von allen. Ein Geschenk. Ein Umschlag. Mach ihn auf. || 축하해요, 에디트. 그리고 여기요. 모두가 드리는 거예요. 선물이요. 봉투요. 열어 보세요.
+Edith: Ein Umschlag. Wie Gisela. Was ist drin? … Eine Fahrkarte. Zwei Fahrkarten. „Berlin Ostbahnhof – Cottbus. Erste Klasse. Hin und zurück. Gültig ab Mai." || 봉투라. 기젤라처럼. 뭐가 들었니? …기차표네. 기차표 두 장. „베를린 동역 – 코트부스. 1등석. 왕복. 5월부터 유효."
+Paul: Für dich und für mich. Zu Giselas Grab. Erste Klasse. Mit Platz für die Beine. Und ohne Ersatzbus. Hoffentlich. || 할머니랑 저 거요. 기젤라 할머니 묘에 가려고요. 1등석이요. 다리 뻗을 자리 있는 걸로요. 대체 버스 없이요. 그러길 바라요.
+Edith: Erste Klasse. Ich bin in meinem ganzen Leben noch nie erste Klasse gefahren. Fünfundzwanzig Jahre BVG. Und nie erste Klasse. Danke. Alle. Danke. || 1등석이라. 나 평생 1등석은 한 번도 안 타 봤어. BVG 이십오 년. 그런데 1등석은 한 번도. 고마워. 모두들. 고마워.
+## Sonntagmorgen am Fenster | 일요일 아침, 창가에서
+Edith: Ingrid. Es klopft. Am Fenster. Wer klopft am Fenster? Im vierten Stock hat nie jemand ans Fenster geklopft. || 잉그리트. 누가 두드려. 창문을. 누가 창문을 두드리는 거야? 4층에선 아무도 창문을 두드린 적이 없는데.
+Frau Schulze: Das ist der Vorteil vom Erdgeschoss. Und der Nachteil. Es ist Herr Lehmann. Mit Blumen. Durchs Fenster. || 그게 1층의 장점이야. 그리고 단점이고. 레만 씨야. 꽃 들고. 창문으로.
+Herr Pietsch: Und hinter ihm stehe ich. Mit einem Kuchen. Bienenstich. Meine Tochter hat ihn gebacken. Ich habe nur getragen. Das zählt auch. || 그리고 그 뒤에 내가 서 있지. 케이크 들고. 비넨슈티히. 딸이 구웠어. 난 들고 오기만 했고. 그것도 치는 거야.
+Edith: Herr Pietsch! Kommen Sie rein. Durch die Tür. Bitte. Nicht durchs Fenster. Wir sind zu alt für Fenster. || 피치 씨! 들어오세요. 문으로요. 제발요. 창문 말고요. 우리 창문 넘기엔 너무 늙었잖아요.
+Herr Pietsch: Ich wollte nur einmal sehen, wie es von außen aussieht. Mein altes Fenster. Mit Ihren Gardinen. Blau. Es sieht aus, als hätte das Fenster endlich jemanden gefunden. || 그냥 한번 보고 싶었어요, 밖에서 어떻게 보이는지. 내 옛날 창문이요. 당신 커튼이 달린. 파란색. 창문이 마침내 누군가를 찾은 것 같아 보여요.
+Frau Schulze: Edith, bis zehn Uhr haben siebzehn Leute geklopft. Ich habe eine Strichliste geführt. Zwei Nachbarn aus der Nummer vierzehn kannten dich nicht einmal. Sie haben nur die Girlande gesehen. || 에디트, 열 시까지 열일곱 명이 두드렸어. 내가 바를 정 자로 적어 놨지. 14번지 이웃 둘은 너를 알지도 못하더라. 화환만 보고 온 거야.
+Edith: Siebzehn. Im vierten Stock kam an meinem dreiundachtzigsten Geburtstag niemand vor dem Mittag. Weil es achtundsiebzig Stufen waren. Für alle. Nicht nur für mich. || 열일곱. 4층에선 여든셋 생일에 점심 전엔 아무도 안 왔어. 일흔여덟 계단이었으니까. 모두에게. 나한테만이 아니라.
+## Bornholmer Brücke | 보른홀머 다리
+Karin: Tante Edith! Herzlichen Glückwunsch! Nachträglich! Wir sind ja erst um zwölf angekommen. Mittags. Nachträglich ist erlaubt, oder? || 이모! 생신 축하드려요! 늦었지만요! 우리 열두 시에야 왔잖아요. 낮 열두 시에요. 늦게 축하하는 건 괜찮죠?
+Edith: Nachträglich ist immer erlaubt, Karin. Nur vorher nicht. Lukas! Du bist ja … du bist größer als ich! Seit November! || 늦게 하는 건 언제든 괜찮아, 카린. 미리 하는 것만 안 돼. 루카스! 너… 나보다 크구나! 11월보다 더!
+Lukas: Zwölf Zentimeter seit November. Sagt Mama. Und ich habe die Gitarre mitgebracht. Wie versprochen. Für die Brücke. || 11월부터 12센티 컸대요. 엄마가 그래요. 그리고 기타 가져왔어요. 약속한 대로요. 다리에서 치려고요.
+Edith: Dann sind wir hier. Bornholmer Straße. Die Bösebrücke. Hier hat deine Oma gestanden. Am neunten November neunzehnhundertneunundachtzig. Mitten auf der Brücke. Mit einem Kettchen in der Hand. Dieses hier. || 그럼 여기야. 보른홀머 거리. 뵈제 다리. 여기 네 할머니가 서 있었어. 1989년 11월 9일에. 다리 한가운데. 손에 목걸이를 들고. 바로 이거.
+Lukas: Oma hat nie davon erzählt. Nie richtig. Sie hat immer gesagt: Frag Edith. Edith kann besser erzählen. || 할머니는 한 번도 얘기 안 해 주셨어요. 제대로는요. 늘 그러셨어요. 에디트한테 물어봐. 에디트가 이야기를 더 잘해.
+Edith: Dann erzähle ich. Von Anfang an. Neunzehnhunderteinundsechzig. Der dreizehnte August. Deine Oma war einundzwanzig. Und sie ist nicht gesprungen. Wegen elf Kindern. || 그럼 내가 얘기해 줄게. 처음부터. 1961년. 8월 13일. 네 할머니는 스물한 살이었어. 그리고 뛰어내리지 않았지. 아이 열한 명 때문에.
+Lukas: Wegen elf Kindern? Welche Kinder? || 아이 열한 명 때문에요? 무슨 아이들이요?
+Edith: Auf der Kinderstation. In der Charité. Sie war Krankenschwester. Wie deine Mama. Wie Derya. Sie hat gesagt: Ich kann nicht gerettet werden, wenn dafür elf Kinder allein bleiben. Und dann hat sie achtundzwanzig Jahre lang jede Woche einen Brief geschrieben. Vierzehnhundert Briefe. Die liegen in meinem neuen Wohnzimmer. In einem Koffer. Für Can. Und für dich, wenn du willst. || 소아 병동에 있던 아이들. 샤리테에서. 할머니는 간호사였어. 네 엄마처럼. 데르야처럼. 할머니가 그랬어. 아이 열한 명이 홀로 남는다면 나 혼자 구해질 수는 없다고. 그러고는 이십팔 년 동안 매주 편지를 썼지. 천사백 통. 그게 내 새 거실에 있어. 가방 속에. 잔을 위해서. 그리고 네가 원하면 너를 위해서도.
+Lukas: … Vierzehnhundert Briefe. Und ich habe ihr nie einen geschrieben. Nur WhatsApp. Mit Emojis. || …천사백 통이라. 그런데 나는 할머니한테 한 통도 안 썼어요. 왓츠앱만 보냈지. 이모티콘 넣어서.
+Karin: Sie hat jeden Emoji ausgedruckt, Lukas. Im Heim. Sie hatte einen Ordner. „Lukas". Mit allen Daumen. Und allen Herzen. Und dem Fußball-Emoji. Dreihundertzwölfmal. || 할머니가 이모티콘 하나하나 다 출력하셨어, 루카스. 요양원에서. 서류철이 하나 있었어. ‚루카스'. 엄지 척이랑. 하트랑. 축구공 이모티콘까지 전부. 삼백열두 번.
+Lukas: … Oma hat meine Emojis ausgedruckt? || …할머니가 제 이모티콘을 출력하셨어요?
+Edith: Gisela hat alles aufgehoben. Briefe. Emojis. Steine. Sie war eine Archivarin. Wie Can. Wie Ingrid. Spiel jetzt, Lukas. Hier. Auf der Brücke. Mitten. Wo sie gestanden hat. || 기젤라는 뭐든 간직했어. 편지. 이모티콘. 돌멩이. 기록 보관인이었지. 잔처럼. 잉그리트처럼. 이제 쳐, 루카스. 여기서. 다리 위에서. 한가운데서. 언니가 서 있던 데서.
+Lukas: „Weißt du, wie viel Sternlein stehen an dem blauen Himmelszelt …" || „푸른 하늘 장막에 별이 몇 개나 떠 있는지 아니…"
+Karin: „Weißt du, wie viel Wolken gehen weithin über alle Welt …" || „온 세상 위로 구름이 몇 개나 멀리 흘러가는지 아니…"
+Edith: „Gott, der Herr, hat sie gezählet, dass ihm auch nicht eines fehlet …" || „하나님께서 그것을 세셨으니, 하나도 빠짐이 없도다…"
+Can: „An der ganzen großen Zahl." || „그 크고 많은 수 가운데."
+Edith: Sie hört es. Ganz oben. Da bin ich mir sicher. Fast. Wahrscheinlich. Sechzehn Zentimeter sicher. || 언니가 듣고 있어. 맨 위에서. 그건 확실해. 거의. 아마도. 16센티미터만큼 확실해.
+## Auf dem Rückweg | 돌아오는 길
+Karin: Tante Edith. Ich habe etwas für dich. Von Mama. Ich habe es beim Ausräumen gefunden. Im Nachttisch. Ein Zettel. Mit deinem Namen. Und einem Datum. Achtzehnter April. Kein Jahr. || 이모. 드릴 게 있어요. 엄마 거예요. 정리하다가 찾았어요. 침대 협탁에서요. 쪽지 한 장이요. 이모 이름이랑. 날짜가 적혀 있었어요. 4월 18일. 연도는 없고요.
+Edith: Kein Jahr? Dann gilt er für jedes Jahr. Typisch Gisela. Lies du. Meine Brille ist zu Hause. || 연도가 없어? 그럼 해마다 유효하다는 거네. 딱 기젤라답다. 네가 읽어 줘. 내 안경은 집에 있어.
+Karin: „Für Edith. Nicht vorher öffnen. Erst am Achtzehnten. Und nur, wenn ich nicht mehr da bin, um es selbst zu sagen." || „에디트에게. 미리 열지 말 것. 18일에만. 그리고 내가 직접 말할 수 없게 되었을 때만."
+Edith: Sie hat es gewusst. Sie hat gewusst, dass ich keine Vorfeier mag. Auch nicht vom Jenseits aus. Weiter. || 언니는 알았어. 내가 미리 축하하는 걸 싫어한다는 걸. 저세상에서 하는 것도. 계속 읽어.
+Karin: „Herzlichen Glückwunsch, kleine Schwester. Ich bin pünktlich. Wie immer. Bleib, wie du bist. Aber zieh endlich nach unten." || „생일 축하해, 동생아. 나는 시간 맞춰 왔어. 늘 그랬듯이. 지금처럼만 있어. 그래도 이제 제발 아래층으로 이사 좀 가."
+Edith: … Zieh endlich nach unten. Sie hat es gewusst. Schon vor Jahren. Bevor ich es selbst wusste. || …제발 아래층으로 이사 좀 가라. 언니는 알았구나. 몇 년 전에 벌써. 나 자신이 알기도 전에.
+Lukas: Und? Hast du es gemacht, Tante Edith? Nach unten? || 그래서요? 그렇게 하셨어요, 에디트 이모할머니? 아래층으로요?
+Edith: Vor drei Tagen, Lukas. Pünktlich. Wie sie. Nur ein bisschen spät. Nach dreiundzwanzig Jahren. || 사흘 전에, 루카스. 시간 맞춰서. 언니처럼. 그냥 조금 늦었을 뿐. 이십삼 년 늦게.
+## Abends: ein Jahr | 저녁: 한 해
+Kalle: Ruhe, bitte! Bevor wir essen. Kartoffelsuppe. Mit Würstchen. Wie bei Gisela. Neunzehnhundertdreiundsechzig. Bevor wir essen, sagt jeder einen Satz. Was war vor einem Jahr? Am achtzehnten April zweitausendsechsundzwanzig? || 조용히 해 줘! 먹기 전에. 감자 수프. 소시지 넣은 거. 기젤라네서처럼. 1963년처럼. 먹기 전에 다들 한 문장씩 해. 일 년 전엔 어땠는지. 2026년 4월 18일에?
+Paul: Vor einem Jahr habe ich auf Max' Sofa geschlafen. Mit einer Feder im Rücken. Ohne Anmeldung. Ohne Wohnung. Ohne Lea. Heute schlafe ich zwei Stockwerke über Edith. Mit allem. || 일 년 전엔 막스네 소파에서 잤어요. 등에 스프링 박힌 채로요. 전입 신고도 없이. 집도 없이. 레아도 없이. 오늘은 에디트 할머니 두 층 위에서 자요. 다 갖추고요.
+Jana: Vor einem Jahr war ich Teamleiterin. Bei Zahlwerk. Und habe an Ediths Geburtstag bis Mitternacht im Büro gesessen. Ich habe es vergessen. Den Geburtstag. Heute habe ich um null Uhr null null mitgezählt. || 일 년 전엔 Zahlwerk 팀장이었어요. 그리고 에디트 생일에 자정까지 사무실에 앉아 있었어요. 생일을 잊어버렸거든요. 오늘은 영 시 영 분에 같이 셌어요.
+Tobi: Vor einem Jahr hatte ich einen Vertrag bis März. Und keine Rentenversicherung. Und Angst vor allem, was man schreiben muss. Heute habe ich zehn Jahre. Und eine Rente. Und noch ein bisschen Angst. Aber nur vor einer Prüfung. Im Herbst. || 일 년 전엔 3월까지인 계약이 있었어요. 연금 보험도 없었고요. 그리고 써야 하는 건 뭐든 무서웠어요. 오늘은 십 년 계약이 있어요. 그리고 연금도요. 그리고 아직 조금은 무서워요. 그래도 시험 하나만요. 가을에 있는 거.
+Frau Schulze: Vor einem Jahr habe ich Beschwerden an eine Hausverwaltung geschrieben. Die nie geantwortet hat. Heute bin ich im Aufsichtsrat. Und beschwere mich bei mir selbst. Und ich antworte mir. Das ist ein Fortschritt. || 일 년 전엔 한 번도 답장 안 하는 관리회사에 항의 편지를 썼어요. 오늘은 감사회예요. 그리고 나 자신한테 항의하죠. 그리고 나 자신한테 답장도 하고요. 그건 발전이에요.
+Herr Pietsch: Vor einem Jahr habe ich in Britz gesessen. Bei meiner Tochter. Und anonyme Zettel getippt. Auf einer Olympia. Ohne Namen. Heute habe ich einen Namen. Im Aufsichtsrat. Und einen Tee am Mittwoch. Im Erdgeschoss. In meiner alten Wohnung. Bei Edith. || 일 년 전엔 브리츠에 앉아 있었지. 딸 집에서. 그리고 익명 쪽지를 쳤어. 올림피아 타자기로. 이름도 없이. 오늘은 이름이 있어. 감사회에. 그리고 수요일 차가 있지. 1층에서. 내 옛날 집에서. 에디트네서.
+Frau Marquardt: Vor einem Jahr kannte ich keinen von Ihnen. Ich hatte eine alte Hüfte und eine Stiftung mit drei Häusern. Heute habe ich eine neue Hüfte. Vier Häuser. Und einen Mittwoch. Diesen Mittwoch komme ich. Ohne Fragezeichen. || 일 년 전엔 여러분 중 누구도 몰랐어요. 낡은 고관절이랑 집 세 채 가진 재단이 있었죠. 오늘은 새 고관절이 있어요. 집 네 채도요. 그리고 수요일도요. 이번 수요일에 올게요. 물음표 없이.
+Hüseyin: Vor einem Jahr durfte ich nicht wählen. Neunundvierzig Jahre nicht. Heute bin ich Deutscher. Seit gestern. Und ich darf. In der Genossenschaft durfte ich schon vorher. Das war das Erste. Das Haus. Dann das Land. Wie ich gesagt habe. || 일 년 전엔 투표를 못 했어요. 사십구 년 동안이나. 오늘은 독일 사람이에요. 어제부터요. 그리고 투표할 수 있어요. 협동조합에선 그 전부터 할 수 있었고요. 그게 처음이었죠. 집. 그다음에 나라. 내가 말한 대로요.
+Karin: Vor einem Jahr hatte ich eine Mutter. Heute habe ich eine Tante. Und vierzehnhundert Briefe. Und ein Haus in Berlin, das meiner Mutter etwas bedeutet hat. Ohne dass sie je darin war. || 일 년 전엔 엄마가 있었어요. 오늘은 이모가 있어요. 그리고 편지 천사백 통이요. 그리고 엄마한테 의미가 있었던 베를린의 집 한 채요. 엄마는 한 번도 와 본 적 없지만요.
+Can: Vor einem Jahr hatte ich ein blaues Fahrrad. Mit gelben Reifen. Es wurde geklaut. Am zweiten Tag. Heute habe ich … kein Fahrrad. Immer noch nicht. Aber ich habe ein Haus. Und ein Archiv. Und eine Großtante. Geliehen. Und eine Edith. || 일 년 전엔 파란 자전거가 있었어요. 노란 타이어 달린 거요. 그거 도둑맞았어요. 둘째 날에요. 오늘은… 자전거가 없어요. 아직도요. 그래도 집이 있어요. 그리고 기록 보관소도요. 그리고 이모할머니도요. 빌린. 그리고 에디트 할머니도요.
+Tobi: Moment. Can. Kein Fahrrad? Immer noch nicht? Ein Jahr lang? || 잠깐. 잔. 자전거가 없다고? 아직도? 일 년 동안?
+Can: Ich habe mit dir eins repariert. Im Frühling. Das alte. Aber das hat Mykyta jetzt. Er brauchte es mehr. Er hatte gar keins. || 형이랑 하나 고쳤잖아요. 봄에요. 그 낡은 거요. 그런데 그건 이제 미키타가 갖고 있어요. 미키타가 더 필요했거든요. 걔는 아예 없었으니까요.
+Edith: Can. Das wusste ich nicht. Du hast dein Fahrrad verschenkt? An Mykyta? || 잔. 그건 몰랐네. 네 자전거를 줘 버렸다고? 미키타한테?
+Can: Eins geteilt durch zwei, Edith. Wie bei Sankt Martin. Nur dass ich den ganzen Mantel gegeben habe. Weil ich ja noch Füße habe. || 1 나누기 2예요, 에디트 할머니. 성 마르틴처럼요. 저는 외투를 통째로 준 것만 다르고요. 저는 아직 발이 있으니까요.
+Tobi: … Morgen. Morgen früh. In die Werkstatt. Wir bauen dir eins. Aus dem Keller. Aus drei kaputten. Wie Leonie. Mit gelben Reifen. Wie das von deinem Dede. || …내일. 내일 아침에. 공방으로 와. 하나 만들어 줄게. 지하에 있는 걸로. 고장 난 세 대로. 레오니처럼. 노란 타이어 달아서. 네 데데가 사 줬던 것처럼.
+Edith: Und ich? Was war vor einem Jahr? Vor einem Jahr war ich dreiundachtzig. Und dachte, ich werde im vierten Stock sterben. Auf der achtundsiebzigsten Stufe. Allein. Heute bin ich vierundachtzig. Und wohne im Erdgeschoss. Mit blauen Gardinen. Und einer Kastanie, die ich von unten sehe. Und mit euch allen. Neunzehnhundertneunzig war mein glücklichster Geburtstag. Mit Gisela. Und Werner. Heute ist der zweite. Nein. Heute ist er gleich. Gleich glücklich. Nur anders. Mit mehr Menschen. Und ohne Stufen. || 그럼 나는? 일 년 전엔 어땠냐고? 일 년 전엔 여든셋이었지. 그리고 4층에서 죽을 거라고 생각했어. 일흔여덟 번째 계단에서. 혼자서. 오늘은 여든넷이야. 그리고 1층에 살아. 파란 커튼이랑. 아래에서 보는 밤나무랑. 그리고 너희 모두랑. 1990년이 내 제일 행복한 생일이었어. 기젤라랑. 베르너랑. 오늘이 두 번째야. 아니다. 오늘은 똑같아. 똑같이 행복해. 다를 뿐이지. 사람이 더 많고. 계단은 없고.
+## Nachts, ein Brief | 밤, 편지 한 통
+Lukas: Tante Edith? Darf ich zuhören? Ich kann auf dem Sofa nicht schlafen. Es ist zu neu. || 에디트 이모할머니? 들어도 돼요? 소파에서 잠이 안 와요. 너무 새 거라서요.
+Edith: Setz dich. Ich schreibe deiner Oma. Wie jedes Jahr. Nur dass sie jetzt nicht mehr zurückschreibt. Ich lese laut. Dann hört sie es doppelt. || 앉아. 네 할머니한테 편지 쓰는 중이야. 해마다 그랬듯이. 이제는 답장을 안 한다는 것만 다르지. 소리 내서 읽을게. 그럼 언니가 두 번 듣잖아.
+Lukas: Darf ich mitschreiben? Nicht mit Emojis. Mit Worten. || 저도 같이 써도 돼요? 이모티콘 말고요. 글로요.
+Edith: „Liebe Gisela. Heute bin ich vierundachtzig. Niemand hat vorher gratuliert. Ich habe es allen verboten. Wie du es mir neunzehnhundertfünfzig beigebracht hast. Can war der Erste. Um null Uhr null null. Ingrid hat die Uhr mit Braunschweig synchronisiert." || „사랑하는 기젤라 언니. 오늘 나 여든넷이 됐어. 아무도 미리 축하하지 않았어. 내가 다들 못 하게 했거든. 1950년에 언니가 가르쳐 준 대로. 잔이 첫 번째였어. 영 시 영 분에. 잉그리트가 브라운슈바이크랑 시계를 맞췄더라."
+Lukas: Schreib, dass ich gespielt habe. Und dass ich mich zweimal verspielt habe. Beim zweiten Vers. Das soll sie wissen. Sie hat immer gesagt, ich soll ehrlich sein. || 제가 연주했다고 써 주세요. 그리고 두 번 틀렸다고요. 2절에서요. 그건 할머니가 알아야 해요. 할머니는 늘 솔직하라고 하셨거든요.
+Edith: „Lukas hat auf der Brücke gespielt. Auf der Gitarre. Zweimal hat er sich verspielt, sagt er. Ich habe es nicht gehört. Er ist zwölf Zentimeter gewachsen. Er hat geweint, als er gehört hat, dass du seine Emojis ausgedruckt hast. Dreihundertzwölfmal. Du warst eine verrückte Frau. Ich vermisse dich." || „루카스가 다리 위에서 연주했어. 기타로. 두 번 틀렸대. 나는 못 들었는데. 12센티나 컸더라. 언니가 자기 이모티콘을 출력해 뒀다는 얘기를 듣고 울었어. 삼백열두 번이나. 언니는 정말 별난 여자였어. 보고 싶어."
+Lukas: Ich habe nicht geweint. Doch. Ein bisschen. Schreib ein bisschen. || 저 안 울었어요. 아니, 울었어요. 조금요. 조금이라고 써 주세요.
+Edith: „Ein bisschen, sagt er. Hüseyin ist jetzt Deutscher. Er hat das Bekenntnis auswendig gesagt. Und eine Staatssekretärin hat sich bei ihm entschuldigt. Das hast du nie erlebt. Eine Entschuldigung vom Staat. Ich habe sie für dich gehört." || „조금이래. 휘세인 씨가 이제 독일 사람이 됐어. 선서를 외워서 말하더라. 그리고 차관이 그 사람한테 사과했어. 언니는 그런 걸 한 번도 못 겪어 봤지. 국가의 사과 같은 거. 내가 언니 몫까지 들었어."
+Lukas: Was ist eine Staatssekretärin? Ist das so etwas wie eine Ministerin? || 차관이 뭐예요? 장관 같은 거예요?
+Edith: Fast. Die Ministerin hatte keine Zeit. Aber die Entschuldigung zählt trotzdem. Gisela hat auf eine gewartet. Achtundzwanzig Jahre. Für die Mauer. Sie hat nie eine bekommen. || 거의. 장관은 시간이 없었대. 그래도 사과는 사과야. 기젤라는 사과를 기다렸어. 이십팔 년 동안. 장벽 때문에. 끝내 한 번도 못 받았지.
+Lukas: Dann ist die von heute auch ein bisschen für sie. Von irgendeinem Staat. || 그럼 오늘 사과도 조금은 할머니 거네요. 어느 나라에서 온 거든요.
+Edith: „Und Can hat sein Fahrrad verschenkt. An einen Jungen aus Charkiw. Den ganzen Mantel, hat er gesagt. Nicht nur die Hälfte. Morgen baut Tobi ihm ein neues. Mit gelben Reifen. Ich glaube, du hättest ihn gemocht. Nein. Du hast ihn gemocht. Am Telefon. Auf der Brücke. Im November." || „그리고 잔이 자기 자전거를 줘 버렸어. 하르키우에서 온 남자애한테. 외투를 통째로 준 거래. 반쪽이 아니라. 내일 토비가 새 걸 만들어 준대. 노란 타이어 달아서. 언니가 그 애를 좋아했을 것 같아. 아니다. 언니는 그 애를 좋아했지. 전화로. 다리 위에서. 11월에."
+Lukas: Ich habe auch ein Fahrrad. Zu Hause. Ein altes. Ich könnte es nach Berlin bringen. Im Mai. Erste Klasse. || 저도 자전거 있어요. 집에요. 낡은 거요. 베를린으로 가져올 수 있어요. 5월에요. 1등석으로요.
+Edith: Bring es mit, Lukas. Dann bekommt es Artem. Oder Oksana. In diesem Haus wird nichts weggeworfen. Es wird nur weitergegeben. Briefe. Fahrräder. Wohnungen. || 가져와, 루카스. 그럼 아르템이 받을 거야. 아니면 옥사나가. 이 집에선 아무것도 안 버려. 물려줄 뿐이지. 편지도. 자전거도. 집도.
+Lukas: Und wie hörst du auf? Den Brief? Oma hat immer mit „Deine Gisela" aufgehört. Und einem Datum. || 그럼 어떻게 끝내요? 편지요? 할머니는 늘 ‚언니의 기젤라가'로 끝내셨어요. 그리고 날짜랑요.
+Edith: „Ich bin müde, Gisela. Aber gut müde. Wie nach einer langen Schicht. Wenn der Bus im Depot steht. Und man weiß, dass alle Fahrgäste angekommen sind. Gute Nacht. Deine Edith. Vierundachtzig. Im Erdgeschoss." || „나 피곤해, 언니. 그래도 좋은 피곤함이야. 긴 근무를 마친 뒤처럼. 버스가 차고지에 서 있고. 승객들이 다 도착했다는 걸 알 때처럼. 잘 자. 언니의 에디트가. 여든넷. 1층에서."
+Lukas: Und Lukas. Fünfzehn. Auf dem Sofa. Schreib das drunter. Bitte. || 그리고 루카스. 열다섯. 소파에서. 그거 밑에 써 주세요. 부탁이에요.
+Edith: „Und Lukas. Fünfzehn. Auf dem Sofa." So. Jetzt hat sie zwei Briefe in einem. Gute Nacht, Lukas. || „그리고 루카스. 열다섯. 소파에서." 됐다. 이제 언니는 편지 한 통에 두 통을 받은 거야. 잘 자, 루카스.
