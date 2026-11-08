@@ -1,0 +1,153 @@
+#nr: 49
+#part: 3부 Herbst (가을)
+#title: Regen, Regen, Regen
+#ko: 비, 비, 또 비 · 새는 지붕과 앱만 아는 관리회사
+#level: B1~B2
+#setting: 11월 10일 화요일. '평범한 화요일'이 될 줄 알았던 날, 오후부터 베를린에 기록적인 폭우가 쏟아진다. 에디트의 부엌 천장에서 물이 떨어지고, 지하 창고에는 물이 찬다. 키츠 관리회사가 11월 1일 자로 해지된 뒤 상속인들이 급히 맡긴 새 관리회사 „WohnPilot"는 앱 접수만 받는다. 전 관리인 피치 씨가 손전등을 들고 나타나고, 브뤼크너 변호사는 임대료 감액과 하자 통지를 설명한다. 표현 초점: 하자·수리·책임 어휘, 분노를 정중하게 표현하기, 요구와 기한.
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Tobi | 토비 피셔 · 31세
+#cast: WohnPilot | 관리회사 앱의 자동 응답 챗봇
+#cast: Herr Pietsch | 귄터 피치 · 71세, 전 관리인
+#cast: Max | 막스 · 29세
+#cast: Paul | 파울 호프만 · 27세
+#cast: Derya | 데르야 이을드즈 · 40세, 간호사
+#cast: Herr Brückner | 위르겐 브뤼크너 · 58세, 임대차 전문 변호사
+#cast: Frau Wendt | 클라우디아 벤트 · 40대, 상속인 막내 (취리히, 전화)
+#read: 의성어와 리듬: „Plink. Plink. Plink." 물방울 소리를 박자처럼. 잔이 세는 숫자와 맞춘다.
+#read: 챗봇의 기계적인 억양 vs 슐체 부인의 단호한 공문 어조: „Ich wiederhole: Es handelt sich um einen Notfall." — 단어마다 끊어서.
+#read: Mängelanzeige [ˈmɛŋəlʔanˌtsaɪ̯ɡə], Mietminderung [ˈmiːtˌmɪndəʁʊŋ], Rückstauklappe [ˈʁʏkʃtaʊ̯ˌklapə], Starkregen [ˈʃtaʁkˌʁeːɡn̩].
+#read: 분노를 정중하게: „Ich bin sehr enttäuscht." „Das ist nicht akzeptabel." — 목소리는 낮게, 문장은 짧게.
+#note: 하자 어휘: Es tropft. (물이 떨어진다) / Die Decke ist nass. / Der Keller steht unter Wasser. (지하가 물에 잠겼다) / ein Wasserschaden (누수 피해) / Schimmel (곰팡이) / der Notdienst (긴급 출동 서비스)
+#note: Mietminderung(임대료 감액): 집에 하자가 있으면 세입자는 법(민법 536조)에 따라 하자가 있는 동안 자동으로 임대료를 줄여 낼 권리가 있다. 단, 먼저 집주인에게 하자를 알려야 한다(Mängelanzeige). 감액률은 하자 정도에 따라 다르다.
+#note: 요구와 기한 표현: Bitte beseitigen Sie den Mangel bis zum … (…까지 하자를 제거해 주십시오) / Ich setze Ihnen eine Frist bis … / Ich behalte mir vor, die Miete zu mindern. (임대료 감액 권리를 유보합니다)
+#note: Starkregen = 짧은 시간에 엄청난 양이 쏟아지는 폭우. 기후 변화로 베를린에서도 잦아졌다. 오래된 집은 하수가 역류하지 않게 막는 Rückstauklappe(역류 방지 밸브)가 중요하다.
+#note: 분노 표현의 단계: Das ärgert mich. → Ich bin sauer. (구어) → Ich bin stinksauer! / Das ist eine Frechheit! (뻔뻔하다!) / Mir reicht's! (이제 됐어, 참을 만큼 참았어!)
+## Edith' Küche, fünf Uhr | 에디트의 부엌, 다섯 시
+Can: Edith, hörst du das? Was ist das? Plink. Plink. || 에디트 할머니, 들려요? 저게 뭐예요? 똑. 똑.
+Edith: Das ist der Regen, Can. Seit drei Stunden. So einen Regen habe ich seit Jahren nicht gehört. Das Radio sagt: Starkregen. Unwetterwarnung für ganz Berlin. || 비란다, 잔. 세 시간째야. 이런 비는 몇 년 만에 처음이야. 라디오에서 그러더라. 폭우. 베를린 전역에 악천후 경보래.
+Can: Nein, nicht draußen. Hier drinnen. Plink. Da! Auf dem Tisch! || 아니요, 밖이 아니라요. 여기 안에서요. 똑. 저기요! 식탁 위에요!
+Edith: … Oh nein. Die Decke. Can, guck mal. Da ist ein Fleck. Ein großer, dunkler Fleck. Und er wird größer. || …아이고. 천장. 잔, 저기 봐. 얼룩이 있어. 크고 시커먼 얼룩. 그리고 점점 커지고 있어.
+Can: Es tropft! Es tropft auf deine Zeitung! Ich hole einen Eimer. Wo ist ein Eimer? || 물이 떨어져요! 할머니 신문 위로 떨어져요! 양동이 가져올게요. 양동이 어디 있어요?
+Edith: Unter der Spüle. Der blaue. Und den Topf vom Herd. Und das Tuch. Schnell, bevor das Wasser in die Steckdose läuft. || 싱크대 밑에. 파란 거. 그리고 가스레인지 위의 냄비. 그리고 행주. 빨리, 물이 콘센트로 들어가기 전에.
+Can: Eimer steht. Plink. Plink. Plink. Es wird schneller, Edith! || 양동이 놨어요. 똑. 똑. 똑. 점점 빨라져요, 에디트 할머니!
+Edith: Über uns ist nur noch der Dachboden. Und dann das Dach. Herr Wolf hat es im Juni gesagt: Zwei Stellen am Dach müssen vor dem Herbst repariert werden. Jetzt ist Herbst. Und niemand hat etwas repariert. || 우리 위엔 다락밖에 없어. 그리고 그 위가 지붕이고. 볼프 씨가 6월에 그랬지. 지붕 두 군데를 가을 전에 고쳐야 한다고. 지금이 가을이야. 그런데 아무도 아무것도 안 고쳤어.
+Can: Nordwert wollte es doch im Oktober machen. Das hat der Mann mit der Krawatte gesagt. || 노르트베르트가 10월에 한다고 했잖아요. 넥타이 맨 그 아저씨가 그랬어요.
+Edith: Nordwert macht jetzt gar nichts mehr. Seit der Bezirk das Vorkaufsrecht ausgeübt hat. Und Kiez Hausverwaltung ist seit dem ersten November weg. Jetzt gibt es eine neue Hausverwaltung. Mit einer App. || 노르트베르트는 이제 아무것도 안 해. 구청이 선매권을 행사한 뒤로. 그리고 키츠 관리회사는 11월 1일부터 없어졌고. 이제 새 관리회사가 있어. 앱으로 하는.
+Can: Mit einer App? Dann schreiben wir der App! Sofort! || 앱으로요? 그럼 앱한테 써요! 당장요!
+Edith: Ich habe die App nicht, Can. Ich habe ein Telefon mit Schnur und ein Handy für Gisela. Ruf Kalle an. Und dann Frau Schulze. Frau Schulze hat bestimmt die App. || 나는 그 앱이 없단다, 잔. 나한텐 줄 달린 전화기랑 기젤라용 휴대폰밖에 없어. 칼레한테 전화해. 그다음엔 슐체 부인한테. 슐체 부인은 분명히 그 앱이 있을 거야.
+Can: Kalle? Hier ist Can. Bei Edith regnet es in die Küche! Von der Decke! Mit einem Fleck! || 칼레 아저씨? 저 잔이에요. 에디트 할머니 부엌에 비가 와요! 천장에서요! 얼룩이랑 같이요!
+Kalle: Wat? In die Küche? Bleib da, Junge. Lass Edith nicht auf einen Stuhl steigen. Nicht auf einen Stuhl, hörst du? Ick komme. Und unten im Keller steht ooch schon Wasser. Tobi ist schon da. || 뭐? 부엌에? 거기 있어라, 꼬마야. 에디트가 의자에 올라가지 못하게 해. 의자 위엔 절대 안 돼, 알았지? 내가 갈게. 그리고 아래 지하에도 벌써 물이 찼어. 토비가 벌써 거기 있다.
+Can: Edith, du darfst nicht auf einen Stuhl steigen. Sagt Kalle. || 에디트 할머니, 의자에 올라가면 안 된대요. 칼레 아저씨가요.
+Edith: Ich wollte gerade auf einen Stuhl steigen. Woher weiß er das? || 마침 의자에 올라가려던 참이었는데. 그걸 어떻게 알았대?
+Can: Weil er dich kennt. Seit fünfundzwanzig Jahren. Plink. Plink. Ich zähle. Sechzehn Tropfen in einer Minute. || 할머니를 아니까요. 이십오 년 동안이나요. 똑. 똑. 제가 셀게요. 일 분에 열여섯 방울이요.
+Edith: Schreib es auf. Mit Uhrzeit. Frau Schulze wird das wollen. Für die Akte. || 받아 적어. 시간까지. 슐체 부인이 그걸 원할 거야. 서류철에 넣으려고.
+Can: Siebzehn Uhr zwölf. Sechzehn Tropfen. Und dein Kalender ist auch nass, Edith. Der mit den Katzen. || 다섯 시 십이 분. 열여섯 방울. 그리고 할머니 달력도 젖었어요, 에디트 할머니. 고양이 그림 있는 거요.
+Edith: Der November ist hin. Na ja. Der November war sowieso kein guter Monat für Katzen. Komm, wir räumen den Tisch leer. || 11월은 끝장났네. 뭐 어때. 11월은 원래 고양이한테 좋은 달도 아니었어. 이리 와, 식탁을 치우자.
+Can: Und Gisela? Wir wollten sie doch heute anrufen. Am normalen Dienstag. || 그럼 기젤라 할머니는요? 오늘 전화하기로 했잖아요. 평범한 화요일에요.
+## Die App | 앱
+Frau Schulze: Gut. Ich habe die App geöffnet. „WohnPilot. Ihr digitaler Hausverwalter. Rund um die Uhr für Sie da." Rund um die Uhr. Das wollen wir sehen. || 좋아요. 앱을 열었어요. „WohnPilot. 당신의 디지털 관리인. 24시간 언제나 곁에." 24시간이라. 어디 두고 봅시다.
+Tobi: Frau Schulze, schnell. Im Keller steht das Wasser schon zehn Zentimeter hoch. Meine Holzkisten schwimmen. Und es kommt aus dem Abfluss. Von unten. || 슐체 부인, 빨리요. 지하에 물이 벌써 10센티미터나 찼어요. 제 나무 상자들이 떠다녀요. 그리고 물이 배수구에서 올라와요. 아래에서요.
+Frau Schulze: Ich schreibe. „Notfall. Wasser im Keller. Wasser in einer Wohnung im dritten Stock. Seitenflügel. Bitte sofort Notdienst schicken." Senden. || 쓸게요. „긴급 상황. 지하에 물. 곁채 4층 집에 누수. 즉시 긴급 출동 바람." 전송.
+WohnPilot: Hallo! Ich bin Pilo, Ihr digitaler Assistent. Wie kann ich Ihnen heute helfen? Bitte wählen Sie eine Kategorie: Heizung, Wasser, Lärm, Müll, Sonstiges. || 안녕하세요! 저는 당신의 디지털 도우미 필로예요. 오늘 무엇을 도와드릴까요? 분류를 선택해 주세요. 난방, 물, 소음, 쓰레기, 기타.
+Frau Schulze: Wasser. Natürlich Wasser. Was denn sonst. || 물. 당연히 물이죠. 그거 말고 뭐겠어요.
+WohnPilot: Sie haben „Wasser" gewählt. Handelt es sich um: einen tropfenden Wasserhahn, eine verstopfte Toilette, oder kein warmes Wasser? || '물'을 선택하셨습니다. 다음 중 무엇인가요? 물이 새는 수도꼭지, 막힌 변기, 또는 온수 안 나옴?
+Frau Schulze: Keins davon. Ich schreibe: „Nein. Es regnet durch das Dach. Und der Keller läuft voll. Ich wiederhole: Es handelt sich um einen Notfall." || 그중 아무것도 아니에요. 쓸게요. „아니요. 지붕으로 비가 새요. 그리고 지하가 물에 잠기고 있어요. 다시 말합니다. 긴급 상황입니다."
+WohnPilot: Das tut mir leid! 😊 Ich habe Ihr Anliegen erfasst. Ihre Ticketnummer lautet WP-2026-118734. Die Bearbeitungszeit beträgt fünf bis sieben Werktage. Kann ich sonst noch etwas für Sie tun? || 유감입니다! 😊 문의 사항을 접수했습니다. 접수 번호는 WP-2026-118734입니다. 처리 기간은 영업일 기준 5~7일입니다. 그 밖에 도와드릴 일이 있을까요?
+Tobi: Fünf bis sieben Werktage? Mit einem Smiley? Bis dahin ist der Keller ein Schwimmbad! || 영업일 5~7일이요? 웃는 얼굴까지 붙여서요? 그때쯤이면 지하가 수영장이 돼 있겠어요!
+Frau Schulze: Ich schreibe: „Ich möchte mit einem Menschen sprechen." || 쓸게요. „사람과 통화하고 싶습니다."
+WohnPilot: Ich verstehe, dass Sie mit einem Mitarbeiter sprechen möchten. Unsere Mitarbeiter sind montags bis freitags von neun bis zwölf Uhr erreichbar. Möchten Sie einen Rückruf vereinbaren? Nächster freier Termin: Dienstag, siebzehnter November. || 직원과 통화하고 싶으시다는 점 이해합니다. 저희 직원은 월요일부터 금요일, 9시부터 12시까지 연결됩니다. 회신 전화를 예약하시겠어요? 가장 빠른 일정: 11월 17일 화요일.
+Tobi: Nächste Woche! Das ist eine Frechheit! || 다음 주요! 이건 뻔뻔한 거죠!
+Frau Schulze: Herr Fischer, beruhigen Sie sich. Ein Chatbot hat keine Gefühle. Man kann ihn nicht beleidigen. Ich habe es versucht. Dreißig Jahre Finanzamt haben mich auf diesen Moment vorbereitet. || 피셔 씨, 진정하세요. 챗봇은 감정이 없어요. 모욕할 수가 없다고요. 내가 해 봤거든요. 세무서 삼십 년이 바로 이 순간을 위해 날 준비시켰죠.
+Tobi: Und jetzt? Was steht da noch? Gibt es keine Notfallnummer? || 그럼 이제요? 거기 또 뭐라고 있어요? 비상 연락처 같은 거 없어요?
+Frau Schulze: Ganz unten. In grauer Schrift. Ganz klein. „Für technische Notfälle außerhalb der Geschäftszeiten wenden Sie sich an den Notdienst." Und eine Nummer. Mit einer Vorwahl aus Düsseldorf. || 맨 아래에요. 회색 글씨로. 아주 작게. „영업시간 외 기술적 긴급 상황은 긴급 출동 서비스로 연락 바랍니다." 그리고 번호 하나. 뒤셀도르프 지역 번호예요.
+Tobi: Düsseldorf. Die schicken uns jemanden aus Düsseldorf. Durch den Regen. || 뒤셀도르프. 뒤셀도르프에서 사람을 보내 준다는 거네요. 이 빗속을 뚫고.
+Frau Schulze: Ich rufe trotzdem an. Und ich mache Fotos. Von allem. Herr Fischer, halten Sie Ihre Kiste ins Licht. Die schwimmende. Mit Datum und Uhrzeit. || 그래도 전화할게요. 그리고 사진도 찍고요. 전부. 피셔 씨, 상자를 불빛에 비춰 보세요. 떠다니는 그거요. 날짜와 시간 나오게.
+Tobi: Okay. Ich halte sie hoch. Mein Holz für die Weihnachtsmarkt-Regale. Drei Wochen Arbeit. Mir reicht's. Echt. || 알겠어요. 들고 있을게요. 크리스마스 시장 선반용 목재예요. 삼 주 작업이요. 진짜 이제 참을 만큼 참았어요.
+Frau Schulze: Ich weiß, Herr Fischer. Aber Wut ist kein Beweismittel. Ein Foto schon. Lächeln Sie nicht. Gut so. || 알아요, 피셔 씨. 하지만 분노는 증거가 못 돼요. 사진은 되죠. 웃지 마세요. 좋아요, 그렇게.
+Tobi: Ich lächle nicht. Ich bin stinksauer. || 안 웃어요. 지금 엄청 화났거든요.
+## Im Keller | 지하실에서
+Kalle: Tobi! Wie hoch? || 토비! 얼마나 찼어?
+Tobi: Fünfzehn Zentimeter. Und es steigt. Es kommt aus dem Bodenabfluss. Hier, in der Mitte. Es blubbert. Wie eine Suppe. || 15센티미터요. 계속 차오르고 있어요. 바닥 배수구에서 올라와요. 여기, 가운데요. 부글부글 끓어요. 수프처럼요.
+Max: Das riecht nicht nach Suppe. Das riecht nach Kanalisation. Ich habe Gummistiefel von meinem Festival mitgebracht. Drei Paar. Wer will? || 수프 냄새는 아닌데요. 하수도 냄새예요. 페스티벌 때 신던 장화 가져왔어요. 세 켤레. 누구 신을래요?
+Kalle: Gib her. Und dann die Kisten hoch. Alles, was unten steht. Meine Bierkästen zuerst. Nee, warte. Erst Ediths Sachen. Wo ist Ediths Kellerabteil? || 이리 줘. 그리고 상자들 들어 올려. 바닥에 있는 건 전부. 내 맥주 상자부터. 아니, 잠깐. 에디트 물건부터. 에디트 창고 칸이 어디지?
+Tobi: Nummer neun. Mit dem alten Vorhängeschloss. Das hat keiner einen Schlüssel für. || 9번이요. 낡은 자물쇠 달린 거요. 그거 열쇠는 아무도 없어요.
+Herr Pietsch: Ich habe einen Schlüssel. Für alle vierzehn. Und eine Taschenlampe. Guten Abend. || 내가 열쇠가 있소. 열네 개 전부. 그리고 손전등도. 안녕하시오.
+Kalle: Günter! Wo kommst du denn her? Bei dem Wetter? Aus Britz? || 귄터! 어디서 오는 거야? 이 날씨에? 브리츠에서?
+Herr Pietsch: Edith hat mich angerufen. Sie hat gesagt: Günter, es regnet in meine Küche. Und ich habe gesagt: Dann steht auch der Keller unter Wasser. Weil keiner die Rückstauklappe zugemacht hat. Dreißig Jahre habe ich sie bei jedem Gewitter zugemacht. Dreißig Jahre. || 에디트가 전화했소. 귄터, 우리 부엌에 비가 와, 하길래 내가 그랬지. 그럼 지하도 물에 잠겼겠네. 아무도 역류 방지 밸브를 안 잠갔을 테니. 삼십 년 동안 천둥 칠 때마다 내가 그걸 잠갔소. 삼십 년을.
+Max: Eine was? Eine Rückstau…? || 뭐요? 역류…뭐요?
+Herr Pietsch: Rückstauklappe. Wenn die Kanalisation voll ist, drückt das Wasser zurück. Von der Straße. In den Keller. Die Klappe verhindert das. Aber man muss sie kontrollieren. Und bei Starkregen zumachen. Von Hand. Hier. Hinter den Fahrrädern. || 역류 방지 밸브. 하수도가 꽉 차면 물이 거꾸로 밀려 들어와. 길에서. 지하로. 그 밸브가 그걸 막아 주지. 하지만 점검을 해야 하고. 폭우 때는 잠가야 해. 손으로. 여기. 자전거들 뒤에.
+Tobi: Hinter den Fahrrädern? Da sind fünf Fahrräder. Und drei davon sind meine Reparaturen. || 자전거들 뒤요? 거기 자전거가 다섯 대예요. 그중 세 대는 제가 수리하는 거고요.
+Herr Pietsch: Dann weg damit. Schnell. So. Jetzt sehe ich sie. Völlig verrostet. Seit einem Jahr hat sie keiner angefasst. Seit ich weg bin. Haltet mal die Lampe. || 그럼 치워. 빨리. 그래. 이제 보이네. 완전히 녹슬었어. 일 년 동안 아무도 손을 안 댔군. 내가 떠난 뒤로. 손전등 좀 들어 봐.
+Kalle: Geht sie noch zu? || 아직 잠기긴 해?
+Herr Pietsch: Mit Gewalt. Und mit Tobis Werkzeug. Tobi, den großen Schlüssel. Den Zweiundzwanziger. Jetzt. Zusammen. Eins, zwei, drei … || 힘으로 하면. 그리고 토비 연장이 있으면. 토비, 큰 스패너. 22밀리짜리. 지금. 같이. 하나, 둘, 셋…
+Tobi: Sie bewegt sich! Sie ist zu! || 움직여요! 잠겼어요!
+Herr Pietsch: Jetzt kommt kein Wasser mehr von unten. Das, was hier ist, muss raus. Mit einer Pumpe. Morgen. Habt ihr eine Pumpe? || 이제 아래에서 물이 더는 안 올라올 거요. 여기 고인 물은 빼내야 하고. 펌프로. 내일. 펌프 있소?
+Max: Ich habe eine Nebelmaschine. Das ist das Gegenteil, oder? || 저 연기 기계는 있는데요. 그거 정반대죠?
+Kalle: Junge. Ick leihe eine Pumpe von der Feuerwehr. Bei der Feuerwehr Neukölln arbeitet ein Stammgast von mir. Und jetzt Ediths Abteil. Günter, mach auf. || 얘야. 소방서에서 펌프를 빌려 올게. 노이쾰른 소방서에 우리 단골이 하나 일하거든. 이제 에디트 칸이야. 귄터, 열어 줘.
+Herr Pietsch: Nummer neun. Da. Ein Koffer. Ein alter Lederkoffer. Unten schon nass. || 9번. 여기. 여행 가방이네. 낡은 가죽 가방. 아래쪽이 벌써 젖었소.
+Max: Ich trage ihn hoch. Ganz vorsichtig. Wie ein Baby. || 제가 위로 들고 갈게요. 아주 조심해서. 아기처럼요.
+## Auf dem Dachboden | 다락에서
+Paul: Kalle! Ich bin hier! Ich bin direkt vom Büro gekommen. Mit dem Fahrrad. Ich bin nass bis auf die Unterhose. || 칼레! 저 왔어요! 사무실에서 바로 왔어요. 자전거로요. 속옷까지 다 젖었어요.
+Kalle: Gut, dass du da bist. Komm mit auf den Dachboden. Über Ediths Küche. Bring die Plane mit. Die blaue aus Tobis Werkstatt. || 와 줘서 다행이다. 같이 다락으로 가자. 에디트 부엌 위로. 방수포 가져와. 토비 공방에 있는 파란 거.
+Paul: Oh Gott. Guck mal da oben. Da ist ein Loch im Dach. Man sieht den Himmel. Und es regnet einfach rein. || 맙소사. 저기 위 좀 봐요. 지붕에 구멍이 났어요. 하늘이 보여요. 비가 그냥 쏟아져 들어와요.
+Kalle: Zwei Ziegel fehlen. Hat der Wind runtergeholt. Wir können das Dach jetzt nicht reparieren. Nicht im Dunkeln. Nicht bei dem Regen. Aber wir können die Plane drunter spannen. Damit das Wasser in die Ecke läuft. Und nicht auf Ediths Decke. || 기와가 두 장 없어. 바람에 날아갔나 봐. 지금 지붕을 고칠 수는 없어. 이 어둠 속에서. 이 빗속에서. 하지만 방수포를 밑에 칠 수는 있지. 물이 구석으로 흐르게. 에디트 천장 위로 말고.
+Paul: Und in der Ecke stellen wir Eimer hin. Wie viele Eimer haben wir? || 그리고 구석에 양동이를 놓고요. 양동이가 몇 개 있어요?
+Kalle: Im ganzen Haus? Frag den Chat. Ick binde hier fest. Halt mal die Ecke. Höher. Noch höher. Jut. || 집 전체에? 단톡방에 물어봐. 나는 여기를 묶을게. 모서리 좀 잡아. 더 높이. 조금 더. 좋아.
+Paul: Ich schreibe: „Wer hat Eimer? Bitte zum Dachboden Seitenflügel. Dringend." Oh. Schon fünf Antworten. Frau Lehmann bringt zwei. Max bringt seinen Sektkühler. || 쓸게요. „양동이 있는 분? 곁채 다락으로 부탁해요. 급해요." 오. 벌써 답이 다섯 개예요. 레만 부인이 두 개 가져온대요. 막스는 샴페인 쿨러를 가져온대요.
+Kalle: Sektkühler. Natürlich. Der Junge hat für alles das Falsche. Und es funktioniert trotzdem. || 샴페인 쿨러라. 당연하지. 저 녀석은 매번 엉뚱한 걸 들고 와. 그런데 또 그게 먹힌단 말이야.
+Paul: Kalle, das ist das Dach, das Nordwert reparieren wollte. Im Oktober. Das hat Albrecht versprochen. || 칼레, 이게 노르트베르트가 고치겠다던 그 지붕이에요. 10월에요. 알브레히트가 약속했잖아요.
+Kalle: Albrecht hat viel versprochen. Für ein Haus, das ihm nicht gehört. Und jetzt gehört es ihm nicht mehr. Und uns noch nicht. Det ist das Problem. Das Dach gehört gerade niemandem. || 알브레히트는 많은 걸 약속했지. 자기 것도 아닌 집에 대해서. 그리고 이제는 더 이상 그 사람 것도 아니고. 아직 우리 것도 아니야. 그게 문제야. 지금 이 지붕은 아무의 것도 아니야.
+Paul: Doch. Es gehört noch den Erben. Den Wendts. Frau Wendt in Zürich. Die sind verantwortlich. Bis zur Übergabe. || 아니에요. 아직 상속인들 거예요. 벤트 가족이요. 취리히에 있는 벤트 씨. 그 사람들이 책임이 있어요. 넘겨줄 때까지는요.
+Kalle: Dann rufen wir Zürich an. Heute noch. Gib mal die Schnur. Fertig. Läuft es in die Ecke? || 그럼 취리히에 전화하자. 오늘 당장. 끈 좀 줘. 다 됐다. 구석으로 흘러?
+Paul: Es läuft in die Ecke. Perfekt. Wie eine Rutsche. || 구석으로 흘러요. 완벽해요. 미끄럼틀처럼요.
+Max: Lieferung! Zwei Eimer von Frau Lehmann. Ein Sektkühler von mir. Und eine Wanne für Babys. Die ist von Lehmanns Kleinem. Er ist schon zu groß dafür. || 배달 왔어요! 레만 부인 양동이 두 개. 제 샴페인 쿨러 하나. 그리고 아기 욕조 하나. 레만네 막내 거예요. 이제 그걸 쓰기엔 너무 컸대요.
+Kalle: Die Wanne unter die Ecke. Die ist am größten. Und der Sektkühler daneben. Für den Notfall. || 욕조는 구석 밑에. 그게 제일 크니까. 샴페인 쿨러는 그 옆에. 만일을 위해서.
+Max: Mein Sektkühler hat schon viele Partys gesehen. Aber noch nie einen Regen von innen. || 제 샴페인 쿨러가 파티는 많이 봤는데요. 안에서 내리는 비는 처음 보네요.
+Paul: Willkommen in der Genossenschaft, Sektkühler. || 협동조합에 온 걸 환영해, 샴페인 쿨러.
+Derya: Paul? Kalle? Ich komme gerade von der Schicht. Edith sitzt unten in der Küche. Mit Can und einem Koffer. Sie weint. || 파울? 칼레? 나 지금 막 근무 끝나고 왔어요. 에디트가 아래 부엌에 앉아 있어요. 잔이랑 가방 하나랑. 울고 계세요.
+Kalle: Weint? Wegen der Decke? || 운다고? 천장 때문에?
+Derya: Nein. Wegen des Koffers. Kommt runter. Alle. || 아니요. 가방 때문에요. 내려와요. 다들.
+## Der Koffer | 가방
+Edith: Er ist nass geworden. Unten. Aber nur unten. Das Wichtigste ist oben. Gott sei Dank. || 젖었어. 아래쪽이. 그래도 아래쪽만. 제일 중요한 건 위에 있었어. 천만다행이지.
+Can: Was ist da drin, Edith? Gold? || 그 안에 뭐가 있어요, 에디트 할머니? 금이요?
+Edith: Briefe. Von Gisela. Von neunzehnhunderteinundsechzig bis neunzehnhundertneunundachtzig. Jede Woche einer. Achtundzwanzig Jahre lang. Vierzehnhundert Briefe. Ich habe sie in den Keller gebracht, als ich die Treppe nicht mehr so gut konnte. Weil der Koffer so schwer ist. || 편지. 기젤라 편지. 1961년부터 1989년까지. 매주 한 통씩. 이십팔 년 동안. 편지 천사백 통. 계단이 예전 같지 않아서 지하로 옮겨 놨었어. 이 가방이 워낙 무거워서.
+Max: Vierzehnhundert Briefe. Und ich habe ihn getragen wie ein Baby. Gut, dass ich das wusste. || 편지 천사백 통. 그리고 제가 그걸 아기처럼 안고 왔네요. 알고 그랬던 게 다행이에요.
+Derya: Die unteren sind feucht. Wir müssen sie trocknen. Sonst kommt Schimmel. Einzeln. Auf Küchenpapier. Nicht auf die Heizung. Das Papier wird sonst wellig. || 아래쪽 편지들이 축축해요. 말려야 해요. 안 그러면 곰팡이가 생겨요. 한 통씩. 키친타월 위에서요. 난방기 위엔 안 돼요. 종이가 울퉁불퉁해져요.
+Can: Ich helfe! Ich lege sie hin. Ganz vorsichtig. In kleinen Kreisen. Nein, in Reihen. || 제가 도울게요! 제가 펼쳐 놓을게요. 아주 조심해서. 작은 원을 그리면서요. 아니, 줄 맞춰서요.
+Edith: Lies die Daten nicht vor, Can. Bitte. Nicht heute. Manche Briefe sind sehr traurig. || 날짜는 읽지 마, 잔. 부탁이야. 오늘은 말고. 어떤 편지들은 아주 슬프거든.
+Can: Ich lese nichts. Ich lege nur hin. Versprochen. || 아무것도 안 읽을게요. 그냥 펼쳐 놓기만 할게요. 약속해요.
+Herr Pietsch: Edith, das hättest du mir sagen müssen. Dass so etwas Wichtiges im Keller steht. Ich hätte ihn auf ein Regal gestellt. || 에디트, 그런 걸 나한테 말했어야지. 그렇게 중요한 게 지하에 있다는 걸. 선반 위에 올려놨을 텐데.
+Edith: Du warst nicht mehr da, Günter. Seit einem Jahr. Niemand war mehr da. Das ist es ja. Das Haus hatte keinen Menschen mehr. Nur noch eine App. || 너는 더 이상 없었잖아, 귄터. 일 년 전부터. 아무도 없었어. 그게 바로 문제야. 이 집엔 더 이상 사람이 없었어. 앱밖에 없었지.
+Kalle: Jetzt hat es wieder Menschen. Vierzehn Eimer, eine Plane und einen Sektkühler. Und einen Hausmeister im Ruhestand. || 이제 다시 사람이 있어. 양동이 열네 개, 방수포 하나, 샴페인 쿨러 하나. 그리고 은퇴한 관리인 한 명.
+Paul: Und eine Anwältin am Telefon. Ich meine: einen Anwalt. Herr Brückner. Ich habe ihn angerufen. Er ist auf Lautsprecher. || 그리고 전화로 변호사 한 분이요. 그러니까, 변호사님. 브뤼크너 씨요. 제가 전화했어요. 스피커폰으로 켜 놨어요.
+Herr Brückner: Guten Abend zusammen. Herr Hoffmann hat mir alles erzählt. Erstens: Sie haben richtig gehandelt. Fotos, Uhrzeit, Ticketnummer. Sehr gut. Zweitens: Morgen früh schicken Sie eine schriftliche Mängelanzeige. An die Eigentümer. Nicht nur an die App. || 다들 안녕하세요. 호프만 씨가 다 얘기해 줬어요. 첫째, 제대로 대처하셨어요. 사진, 시간, 접수 번호. 아주 잘하셨어요. 둘째, 내일 아침에 서면으로 하자 통지를 보내세요. 소유주에게요. 앱한테만 말고요.
+Frau Schulze: An die Erbengemeinschaft Wendt. Mit Einschreiben. Ich habe die Adresse von Frau Wendt in Zürich. Und die des Anwalts. || 벤트 상속인 공동체에게요. 등기로요. 취리히의 벤트 씨 주소가 있어요. 변호사 주소도요.
+Herr Brückner: Perfekt. Schreiben Sie: Die Mängel sind am zehnten November aufgetreten. Bitte beseitigen Sie sie bis zum siebzehnten. Und: Ich behalte mir vor, die Miete zu mindern. || 완벽해요. 이렇게 쓰세요. 하자는 11월 10일에 발생했다. 17일까지 제거해 주기 바란다. 그리고, 임대료 감액 권리를 유보한다.
+Edith: Mindern? Um wie viel? Ich will nicht gierig sein. || 감액이요? 얼마나요? 욕심부리고 싶진 않은데요.
+Herr Brückner: Frau Krüger, das ist nicht Gier. Das ist das Gesetz. Wenn es in Ihre Küche regnet, können Sie die Küche nicht richtig benutzen. Bei einem Wasserschaden in der Küche sind zehn bis zwanzig Prozent üblich. Solange der Mangel besteht. Das passiert automatisch. Sie müssen nur den Mangel angezeigt haben. || 크뤼거 부인, 그건 욕심이 아니에요. 법이에요. 부엌에 비가 새면 부엌을 제대로 쓸 수 없잖아요. 부엌 누수 피해라면 보통 10~20퍼센트예요. 하자가 있는 동안이요. 그건 자동으로 적용돼요. 하자를 통지하기만 하면 돼요.
+Tobi: Und mein Keller? Meine Kisten? Mein Holz? Das ist alles kaputt. || 그럼 제 지하는요? 제 상자들은요? 제 목재는요? 다 망가졌어요.
+Herr Brückner: Das ist Schadensersatz. Das ist schwieriger. Fragen Sie Ihre Hausratversicherung. Haben Sie eine? || 그건 손해 배상이에요. 그건 더 까다로워요. 가재 보험에 물어보세요. 가입하셨어요?
+Tobi: … Nein. Ich wollte immer. Wie bei der Rente. || …아니요. 늘 들려고 했는데. 연금처럼요.
+Herr Brückner: Dann wissen Sie jetzt, was nach der Rente kommt. Gute Nacht zusammen. Und Frau Krüger: Bitte keine Stühle. || 그럼 이제 연금 다음에 뭘 들어야 할지 아시겠네요. 다들 좋은 밤 되세요. 그리고 크뤼거 부인, 의자는 절대 안 돼요.
+## Zürich, zehn Uhr abends | 취리히, 밤 열 시
+Frau Wendt: Hallo? Wendt. Wer ist da, bitte? Es ist zehn Uhr. || 여보세요? 벤트입니다. 누구세요? 열 시인데요.
+Kalle: Frau Wendt, hier ist Kowalski. Aus der Kneipe. Aus dem Haus von Ihrem Vater. Entschuldigen Sie die Uhrzeit. Aber es regnet in Ihr Haus. || 벤트 씨, 코발스키입니다. 크나이페 주인이요. 아버님 집에 사는. 시간이 늦어서 죄송합니다. 그런데 댁 집에 비가 새요.
+Frau Wendt: Oh nein. Wie schlimm? Ehrlich, Herr Kowalski. || 아, 이런. 얼마나 심해요? 솔직하게요, 코발스키 씨.
+Kalle: Zwei Ziegel fehlen. Bei Frau Krüger tropft es in die Küche. Sechzehn Tropfen pro Minute. Hat der Junge gezählt. Und der Keller stand unter Wasser. Die Rückstauklappe war verrostet. Herr Pietsch hat sie zugemacht. || 기와가 두 장 없어요. 크뤼거 부인 댁 부엌에 물이 떨어져요. 일 분에 열여섯 방울. 꼬마가 셌어요. 그리고 지하가 물에 잠겼었어요. 역류 방지 밸브가 녹슬어 있었고요. 피치 씨가 잠갔어요.
+Frau Wendt: Herr Pietsch? Er ist da? Mein Vater hat immer gesagt: Solange Pietsch im Haus ist, kann nichts passieren. || 피치 씨요? 거기 계세요? 아버지가 늘 그러셨어요. 피치 씨가 집에 있는 한 아무 일도 안 생긴다고.
+Kalle: Er ist aber nicht mehr im Haus. Seit einem Jahr. Und die neue Hausverwaltung ist eine App. Mit einem Smiley. Die braucht fünf bis sieben Werktage. || 그런데 그분은 이제 집에 안 계세요. 일 년 전부터요. 그리고 새 관리회사는 앱이에요. 웃는 얼굴 달린. 처리하는 데 영업일로 5~7일 걸린대요.
+Frau Wendt: Das war ein Fehler. Mein Fehler. Meine Brüder wollten das Billigste. Nach Kiez Hausverwaltung. Nur für drei Monate. Bis zur Übergabe. Ich habe nicht genug aufgepasst. || 그건 실수였어요. 제 실수예요. 오빠들이 제일 싼 곳을 원했어요. 키츠 관리회사 다음으로. 딱 석 달만. 넘겨줄 때까지. 제가 충분히 신경 쓰지 못했어요.
+Kalle: Frau Wendt, ick will nicht schimpfen. Ich will nur ein Dach. Für Frau Krüger. Sie ist dreiundachtzig. Und ihr Herz ist schwach. || 벤트 씨, 따지려는 게 아니에요. 지붕만 있으면 돼요. 크뤼거 부인을 위해서요. 여든셋이에요. 그리고 심장이 약해요.
+Frau Wendt: Morgen früh um acht rufe ich einen Dachdecker an. In Berlin. Ich bezahle ihn selbst, wenn es sein muss. Und ich gebe Ihnen meine Handynummer. Nicht die von der App. Meine. || 내일 아침 여덟 시에 지붕 수리공한테 전화할게요. 베를린에 있는 사람으로요. 필요하면 제 돈으로 낼게요. 그리고 제 휴대폰 번호를 드릴게요. 앱 번호 말고요. 제 번호요.
+Frau Schulze: Frau Wendt, hier ist Schulze. Die schriftliche Mängelanzeige kommt trotzdem. Per Einschreiben. Das ist nichts Persönliches. Das ist Ordnung. || 벤트 씨, 슐체예요. 그래도 서면 하자 통지는 보낼 거예요. 등기로요. 개인적인 건 아니에요. 질서죠.
+Frau Wendt: Natürlich, Frau Schulze. Mein Vater hätte genau das gesagt. Er hat Sie immer „die Wachhündin" genannt. Mit großem Respekt. || 물론이죠, 슐체 씨. 아버지도 정확히 그렇게 말씀하셨을 거예요. 아버지는 늘 당신을 '파수견'이라고 부르셨어요. 아주 존경하는 마음으로요.
+Frau Schulze: … Das nehme ich als Kompliment. Gute Nacht. || …칭찬으로 받아들이죠. 안녕히 주무세요.
+Edith: Can, du musst nach Hause. Es ist spät. Morgen ist Schule. Und Sankt Martin. || 잔, 집에 가야지. 늦었어. 내일 학교 가야 하잖아. 그리고 성 마르틴 축일이고.
+Can: Ich will noch zählen. Plink. Plink. Jetzt sind es nur noch drei Tropfen pro Minute. Wegen der Plane. || 아직 더 셀래요. 똑. 똑. 이제 일 분에 세 방울밖에 안 돼요. 방수포 덕분에요.
+Edith: Drei Tropfen. Das ist wie ein Lied. Ein ganz langsames. Gisela hätte gesagt: Der Regen singt „Weißt du, wie viel Sternlein stehen". Nur ohne Sterne. || 세 방울이라. 노래 같구나. 아주 느린 노래. 기젤라라면 이렇게 말했을 거야. 비가 „하늘에 별이 몇 개인지 아니"를 부르는구나. 별만 없이.
+Derya: Komm, Can. Morgen bastelst du deine Laterne fertig. Und Edith schläft heute bei Frau Schulze. Im ersten Stock vorne. Weniger Treppen. Und kein Regen. || 가자, 잔. 내일 등불 마저 만들어야지. 그리고 에디트는 오늘 슐체 부인 댁에서 주무실 거야. 앞 동 2층이요. 계단도 적고. 비도 안 새고.
+Edith: Bei Ingrid? In ihrem Gästezimmer? Mit Krümel? || 잉그리트네서? 손님방에서? 크뤼멜이랑?
+Frau Schulze: Krümel schläft auf Ihren Füßen. Das ist die Hausordnung. Paragraf eins. Mir reicht's für heute. Gute Nacht, alle. || 크뤼멜이 당신 발 위에서 잘 거예요. 그게 집안 규칙이에요. 제1조. 오늘은 이걸로 됐어요. 다들 잘 자요.
