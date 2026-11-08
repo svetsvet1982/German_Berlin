@@ -1,0 +1,161 @@
+#nr: 57
+#part: 4부 Winter (겨울)
+#title: Die Genossenschaft
+#ko: 협동조합 · 설립 총회의 날
+#level: B2~C1
+#setting: 12월 12일 토요일, 로이터플라츠 초등학교 강당. 협동조합 설립 총회(Gründungsversammlung). 의장은 야니크, 회의록은 슐체 부인, 법률 자문은 브뤼크너 변호사. 정관 42개 조항 의결, 조합 이름 투표, 출자금 논쟁, 이사회와 감사회 선거, 그리고 설립 조합원들의 서명. 다음 단계는 감사 협회의 설립 심사와 협동조합 등기. 1월 31일까지 7주. 표현 초점: 회의 진행 화법, 동의·발의·표결 표현, 법률 문서 낭독, 공식 연설.
+#cast: Frau Schulze | 잉그리트 슐체 · 62세, 회의록 담당
+#cast: Paul | 파울 호프만 · 27세
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Jannik | 야니크 후버 · 25세, 총회 의장
+#cast: Herr Brückner | 위르겐 브뤼크너 · 58세, 임대차 전문 변호사, 법률 자문
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Derya | 데르야 이을드즈 · 40세
+#cast: Jana | 야나 코발스키 · 34세
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Frau Lehmann | 카트야 레만 · 52세
+#cast: Max | 막스 · 29세
+#cast: Hüseyin | 휘세인 이을드즈 · 65세
+#cast: Herr Pietsch | 귄터 피치 · 71세, 전 관리인
+#cast: Frau Marquardt | 헨리에테 마르크바르트 · 78세, 토지 재단 이사 (휠체어)
+#cast: Frau Lindqvist | 마야 린드크비스트 · 40대, 토지 재단 사무국장
+#cast: Lotte | 로테 짐머 · 22세, 베를리너 차이퉁 인턴 기자
+#cast: Lea | 레아 바그너 · 28세
+#cast: Frau Seidel | 자니아 자이델 · 40대, 부동산 중개인
+#read: 회의 진행 화법(의장): „Ich eröffne die Versammlung und stelle die Beschlussfähigkeit fest." „Wir kommen zu Tagesordnungspunkt drei." — 공식적이고 또박또박. 문장 사이에 쉼.
+#read: 표결 문구: „Wer ist dafür? — Wer ist dagegen? — Enthaltungen?" 세 번의 질문을 같은 억양으로. 결과 발표는 숫자를 하나씩: „Einunddreißig Ja-Stimmen, null Nein-Stimmen, drei Enthaltungen."
+#read: 법률 문서 낭독(브뤼크너): „§ 3 Absatz 2: Die Veräußerung von Grundstücken und grundstücksgleichen Rechten ist ausgeschlossen." — Paragraf, Absatz를 정확히. „§"는 Paragraf로 읽는다.
+#read: Beschlussfähigkeit [bəˈʃlʊsfɛːɪçkaɪ̯t], Geschäftsanteil [ɡəˈʃɛftsʔanˌtaɪ̯l], Aufsichtsrat [ˈaʊ̯fzɪçtsˌʁaːt], Prüfungsverband [ˈpʁyːfʊŋsfɛɐ̯ˌbant].
+#note: 회의 진행 어휘: die Tagesordnung (안건), der Tagesordnungspunkt / TOP (안건 항목), die Beschlussfähigkeit (의결 정족수 충족), einen Antrag stellen (발의하다), über etwas abstimmen (표결하다), die Mehrheit / einstimmig (만장일치) / mit Zweidrittelmehrheit (3분의 2 다수로), das Protokoll führen (회의록을 작성하다)
+#note: 협동조합 원칙: 'ein Mitglied, eine Stimme'(출자금이 얼마든 1인 1표). 조합원은 Geschäftsanteil(출자 지분)을 내고, 주거 협동조합에서는 보통 집 크기에 따른 wohnungsbezogene Anteile(주택 연동 지분)를 추가로 낸다. 탈퇴하면 출자금을 돌려받는다(이자나 시세 차익은 없음).
+#note: 협동조합 기관: Generalversammlung/Mitgliederversammlung(총회, 최고 의결 기관) / Vorstand(이사회, 업무 집행) / Aufsichtsrat(감사회, 이사회 감독). 독일의 모든 협동조합은 Prüfungsverband(감사 협회)에 가입해야 하고, 협회의 설립 심사(Gründungsprüfung)를 통과해야 등기소(Registergericht)에 등록할 수 있다.
+#note: 발의·동의 표현: Ich stelle den Antrag, dass … / Ich unterstütze den Antrag. / Gibt es Gegenrede? (반대 발언 있습니까?) / Ich beantrage geheime Abstimmung. (비밀 투표를 요청합니다) / Der Antrag ist angenommen / abgelehnt.
+#note: Berliner Genossenschaftsförderung: 베를린 주는 소득이 낮은 가구가 주거 협동조합 출자금을 낼 수 있도록 투자은행(IBB)을 통해 저리 대출을 지원한다. 협동조합이 '돈 있는 사람만의 것'이 되지 않게 하려는 제도다.
+## Acht Uhr, die Aula | 여덟 시, 강당
+Frau Schulze: Vierunddreißig Stühle in der ersten Reihe für die Gründungsmitglieder. Zwanzig dahinter für Gäste. Ein Tisch für die Versammlungsleitung. Ein Tisch für das Protokoll. Mein Tisch. Herr Fischer, der Tisch wackelt. || 앞줄에 설립 조합원용 의자 서른네 개. 그 뒤에 손님용 스무 개. 의장석 탁자 하나. 회의록 탁자 하나. 내 탁자요. 피셔 씨, 탁자가 흔들려요.
+Tobi: Ich habe ihn schon zweimal unterlegt. Mit Bierdeckeln. Von Kalle. Der Boden in dieser Aula ist schief. || 벌써 두 번이나 받쳐 놨어요. 맥주 컵받침으로요. 칼레 거요. 이 강당 바닥이 기울어서 그래요.
+Can: Der Boden ist schief? Gehört der auch einer Stiftung? || 바닥이 기울었어요? 그것도 재단 거예요?
+Paul: Der gehört dem Land Berlin. Deshalb ist er schief. Der Bezirk hat seit neunzehnhundertachtundneunzig kein Geld für Schulböden. || 그건 베를린주 거야. 그래서 기울어진 거고. 구청이 1998년부터 학교 바닥에 쓸 돈이 없었거든.
+Frau Schulze: Hier. Die Mappen. Jede mit der Satzung. Zweiundvierzig Paragrafen, achtzehn Seiten. Die Tagesordnung. Ein Stimmzettel für die Wahlen. Und ein Kugelschreiber. Blau. Dokumentenecht. Nicht mitnehmen. || 여기요. 서류철이에요. 하나하나에 정관이 들어 있어요. 마흔두 개 조항, 열여덟 쪽. 안건표. 선거용 투표용지. 그리고 볼펜 한 자루. 파란색. 지워지지 않는 거예요. 가져가지 마세요.
+Can: Darf ich auch eine Mappe? Ich bin Ehrenmitglied. Seit September. || 저도 서류철 받아도 돼요? 저 명예 회원이잖아요. 9월부터요.
+Frau Schulze: Ehrenmitglieder bekommen eine Mappe. Aber keinen Stimmzettel. Du bist zehn. Laut Satzung kann man mit achtzehn Mitglied werden. Oder mit Zustimmung der Eltern. Deine Mutter hat nicht zugestimmt. || 명예 회원은 서류철은 받아요. 하지만 투표용지는 없어요. 너는 열 살이잖니. 정관에 따르면 열여덟 살부터 조합원이 될 수 있어. 아니면 부모 동의가 있거나. 네 엄마는 동의 안 했고.
+Can: Weil sie sagt, ich soll erst Bruchrechnung können. Bevor ich über Millionen abstimme. || 엄마가 분수부터 할 줄 알아야 수백만 유로에 대해 투표할 수 있대요.
+Paul: Das ist eine sehr vernünftige Regel. Die sollte für den Bundestag auch gelten. || 그거 아주 합리적인 규칙이다. 연방 의회에도 적용돼야 할 텐데.
+Tobi: Paul, wie viele kommen eigentlich? Hast du die Anmeldungen? || 파울, 그런데 몇 명이나 와? 신청자 명단 있어?
+Paul: Vierunddreißig Gründungsmitglieder. Alle aus dem Haus, plus Unterstützer. Und Gäste: Frau Lindqvist von der Stiftung. Frau Marquardt. Im Rollstuhl, mit neuer Hüfte. Frau Seidel, die Maklerin. Herr Vogt von der Bank hat abgesagt. Er darf nicht. Wegen Befangenheit. || 설립 조합원 서른네 명. 이 집 사람들 전부에 후원자들까지. 그리고 손님은 재단의 린드크비스트 씨. 마르크바르트 씨. 휠체어 타고, 새 고관절 달고. 중개인 자이델 씨. 은행 포크트 씨는 못 온대. 오면 안 된대. 이해관계 때문에.
+Frau Schulze: Und die Presse? || 그럼 언론은요?
+Paul: Die Berliner Zeitung schickt eine Praktikantin. Und Bine schickt Fotos an die Neuköllner Facebook-Gruppe. Das ist unsere Presse. || 베를리너 차이퉁에서 인턴 한 명 보낸대요. 그리고 비네 누나가 노이쾰른 페이스북 그룹에 사진 올린대요. 그게 우리 언론이에요.
+Frau Schulze: Gut. Dann ist es offiziell. Wenn es auf Facebook ist, gibt es kein Zurück. || 좋아요. 그럼 공식이네요. 페이스북에 올라가면 되돌릴 수 없으니까.
+## Viertel vor zehn: die Gäste | 열 시 십오 분 전: 손님들
+Frau Lindqvist: Guten Morgen. Lindqvist. Und das ist Henriette. Sie hat darauf bestanden. Gegen den Rat der Ärzte. Und gegen meinen. || 안녕하세요. 린드크비스트예요. 그리고 이쪽은 헨리에테. 기어이 오겠다고 했어요. 의사들 만류도 무릅쓰고요. 제 만류도요.
+Frau Marquardt: Ich habe eine neue Hüfte, keinen neuen Kopf. Der alte funktioniert noch. Wo ist die Frau mit den Briefen? || 새로 단 건 고관절이지 머리가 아니에요. 옛날 머리는 아직 잘 돌아가요. 편지 구한 그분은 어디 있어요?
+Edith: Hier. Krüger. Edith. Sie sind die Frau mit der Hüfte. Und mit den Klingelschildern. || 여기요. 크뤼거. 에디트예요. 당신이 고관절 수술한 분이군요. 초인종 이름표 읽는 분.
+Frau Marquardt: Und Sie sind die Frau mit dem Tee. Mittwochs. Ich habe es in meinen Kalender eingetragen. Ab Februar. Mit Fragezeichen. Weil ich nicht weiß, ob Sie dann schon unten wohnen. || 그리고 당신은 차 끓여 주는 분이고요. 수요일마다. 내 달력에 적어 놨어요. 2월부터. 물음표 달아서요. 그때 벌써 아래층에 사실지 몰라서요.
+Edith: Ich auch nicht. Lassen Sie das Fragezeichen stehen. Wir radieren es gemeinsam weg. Das macht man hier so. Mit einem Radiergummi von einem Zehnjährigen. || 나도 몰라요. 물음표는 그대로 둬요. 같이 지우면 되죠. 여기선 그렇게 해요. 열 살짜리 지우개로요.
+Lotte: Entschuldigung. Lotte Zimmer, Berliner Zeitung. Ich bin Praktikantin. Darf ich ein paar Fragen stellen? Wer ist hier der … Chef? || 실례합니다. 로테 짐머, 베를리너 차이퉁이에요. 인턴이에요. 몇 가지 여쭤봐도 될까요? 여기서… 대표가 누구세요?
+Kalle: Hier gibt es keinen Chef. Hier gibt es einen Vorstand. Ab elf Uhr. Vielleicht. Wenn sie mich wählen. Fragen Sie den Jungen da. Der weiß mehr als ick. || 여긴 대표 같은 거 없어요. 이사회가 있지. 열한 시부터. 아마도. 사람들이 날 뽑아 준다면. 저기 저 꼬마한테 물어봐요. 나보다 많이 알아요.
+Lotte: Du? Wie alt bist du? Und warum bist du hier? || 너? 몇 살이니? 그리고 왜 여기 왔어?
+Can: Zehn. Ehrenmitglied ohne Stimmrecht. Ich bin hier, weil man ein Haus nicht teilen kann wie einen Mantel. Schreiben Sie das auf. Das ist der wichtigste Satz. || 열 살이요. 의결권 없는 명예 회원이에요. 여기 온 건 집을 외투처럼 나눌 수 없기 때문이에요. 그거 적으세요. 그게 제일 중요한 문장이에요.
+Lotte: „Man kann ein Haus nicht teilen wie einen Mantel." Das ist … das ist eine Überschrift. Darf ich dich zitieren? Mit Namen? || „집은 외투처럼 나눌 수 없다." 그건… 그건 헤드라인감이다. 인용해도 될까? 이름까지?
+Derya: Ohne Nachnamen, bitte. Er ist zehn. Can, zehn Jahre. Das reicht. || 성은 빼 주세요. 열 살이에요. 잔, 열 살. 그거면 돼요.
+Lotte: „Can, zehn." Perfekt. Und wer sind die Investoren? Gegen wen kämpfen Sie? || „잔, 열 살." 완벽해요. 그럼 투자자는 누구예요? 누구랑 싸우시는 거예요?
+Frau Schulze: Gegen niemanden. Wir kämpfen für etwas. Das ist ein Unterschied, Frau Zimmer. Schreiben Sie es richtig. Ich lese die Zeitung. Jeden Tag. Mit Rotstift. || 아무하고도 안 싸워요. 우리는 뭔가를 위해 싸우는 거예요. 그건 달라요, 짐머 씨. 제대로 쓰세요. 나 그 신문 읽어요. 매일. 빨간 펜 들고.
+Lotte: … Mit Rotstift. Verstanden. „Für etwas, nicht gegen jemanden." || …빨간 펜이라. 알겠습니다. „누군가에 맞서서가 아니라 뭔가를 위해서."
+Frau Lindqvist: Frau Schulze? Ich bin Maja Lindqvist. Wir hatten letzte Woche ein Gespräch. Mit unangenehmen Fragen. Ich wollte Ihnen sagen: Es waren die besten Fragen, die ich dieses Jahr bekommen habe. || 슐체 씨? 마야 린드크비스트예요. 지난주에 통화했었죠. 불편한 질문들로요. 꼭 말씀드리고 싶었어요. 올해 받은 질문 중에 최고의 질문들이었다고요.
+Frau Schulze: Ich habe noch drei. Für nach der Gründung. Schriftlich. Ich schicke sie Ihnen am Montag. || 세 개 더 있어요. 설립 뒤에 할 거요. 서면으로요. 월요일에 보내 드릴게요.
+Frau Lindqvist: Ich freue mich darauf. Ehrlich. Ich glaube, ich freue mich wirklich darauf. || 기대할게요. 진심으로요. 정말로 기대하게 되는 것 같아요.
+## Eröffnung | 개회
+Jannik: Meine Damen und Herren, liebe Nachbarinnen und Nachbarn. Es ist zehn Uhr drei. Ich eröffne die Gründungsversammlung der Wohnungsgenossenschaft … in Gründung. Den Namen beschließen wir gleich. Ich stelle fest: Es sind vierunddreißig Gründungsmitglieder anwesend. Die Versammlung ist beschlussfähig. || 신사 숙녀 여러분, 사랑하는 이웃 여러분. 지금은 열 시 삼 분입니다. 주거 협동조합… 설립 중인 조합의 설립 총회를 개회합니다. 이름은 곧 의결하겠습니다. 확인합니다. 설립 조합원 서른네 명이 출석했습니다. 총회는 의결 정족수를 충족합니다.
+Frau Schulze: Zehn Uhr drei. Protokolliert. Beschlussfähig. Protokolliert. || 열 시 삼 분. 기록. 의결 정족수 충족. 기록.
+Jannik: Die Tagesordnung liegt Ihnen vor. TOP eins: Wahl der Versammlungsleitung und der Protokollführung. TOP zwei: Beschluss der Satzung. TOP drei: Name der Genossenschaft. TOP vier: Wahl des Vorstands. TOP fünf: Wahl des Aufsichtsrats. TOP sechs: Unterzeichnung. Gibt es Änderungswünsche zur Tagesordnung? || 안건표는 앞에 있습니다. 1번 안건, 의장 및 회의록 담당 선출. 2번 안건, 정관 의결. 3번 안건, 조합 명칭. 4번 안건, 이사회 선출. 5번 안건, 감사회 선출. 6번 안건, 서명. 안건에 대해 수정 요청 있으십니까?
+Max: Ja. TOP sieben: Party. || 네. 7번 안건, 파티.
+Can: Ich unterstütze den Antrag! || 그 발의 지지해요!
+Jannik: Ehrenmitglieder dürfen keine Anträge unterstützen, Can. Laut Satzung. || 명예 회원은 발의를 지지할 수 없어, 잔. 정관상으로.
+Can: Dann unterstütze ich ihn heimlich. Innerlich. Das steht nicht in der Satzung. || 그럼 몰래 지지할게요. 속으로요. 그건 정관에 없잖아요.
+Jannik: TOP sieben, Party, wird unter „Verschiedenes" behandelt. Gibt es Gegenrede? Keine. Dann TOP eins. Ich schlage mich selbst als Versammlungsleiter vor. Und Frau Schulze für das Protokoll. Wer ist dafür? || 7번 안건 파티는 ‚기타'에서 다루겠습니다. 반대 발언 있습니까? 없군요. 그럼 1번 안건. 저 자신을 의장으로 제안합니다. 그리고 회의록에는 슐체 부인을요. 찬성하시는 분?
+Frau Schulze: Vierunddreißig Hände. Einstimmig. Ich protokolliere meine eigene Wahl. Das ist ein seltsames Gefühl. || 손 서른네 개. 만장일치. 내가 뽑힌 걸 내가 기록하네요. 기분이 묘하네요.
+Jannik: TOP zwei. Die Satzung. Herr Brückner hat sie geprüft. Ehrenamtlich. Ich bitte ihn, die wichtigsten Punkte zu erläutern. Nicht alle zweiundvierzig. Bitte. || 2번 안건. 정관입니다. 브뤼크너 변호사님이 무보수로 검토해 주셨습니다. 핵심 사항을 설명해 주시길 부탁드립니다. 마흔두 개 전부는 말고요. 부디요.
+Herr Brückner: Keine Sorge. Ich halte mich kurz. Vier Paragrafen sind entscheidend. Erstens: Paragraf zwei, der Zweck. „Zweck der Genossenschaft ist die Förderung ihrer Mitglieder durch eine gute, sichere und sozial verantwortbare Wohnungsversorgung." Zweitens: Paragraf drei, Absatz zwei. Das ist der Paragraf, den die Stiftung verlangt hat. „Die Veräußerung von Grundstücken und grundstücksgleichen Rechten ist ausgeschlossen. Eine Umwandlung in Wohnungseigentum ist ausgeschlossen." Dieser Absatz kann nur mit neun Zehnteln aller Mitglieder geändert werden. || 걱정 마세요. 짧게 하겠습니다. 결정적인 조항은 네 개입니다. 첫째, 제2조 목적. „조합의 목적은 양질의, 안정적이며, 사회적으로 책임 있는 주거 공급을 통해 조합원을 지원하는 데 있다." 둘째, 제3조 2항. 재단이 요구한 조항입니다. „토지 및 토지에 준하는 권리의 처분은 금지된다. 분양 소유권으로의 전환은 금지된다." 이 항은 전체 조합원의 10분의 9 찬성으로만 개정할 수 있습니다.
+Edith: Neun Zehntel. Das heißt: Selbst wenn wir alle verrückt werden, reicht einer, der noch klar ist. Oder vier. || 10분의 9라. 그러니까 우리가 다 미쳐 버려도 정신 멀쩡한 사람 하나면 막을 수 있다는 거네. 아니면 넷이거나.
+Herr Brückner: Genau, Frau Krüger. Präziser hätte ich es nicht sagen können. || 정확합니다, 크뤼거 부인. 저도 그보다 정확하게는 말 못 했을 겁니다.
+Kalle: Und wer ist der eine, der klar bleibt? Wenn wir alle verrückt werden? || 그럼 우리가 다 미쳐 버리면 정신 멀쩡하게 남는 그 한 사람은 누군데?
+Edith: Ingrid. Natürlich. Wer sonst. || 잉그리트지. 당연히. 그 말고 누가 있겠어.
+Frau Schulze: Ich nehme die Wahl an. Unter Vorbehalt. Und nur, wenn niemand Zucker in meinen Kaffee tut. || 그 선택 받아들이죠. 조건부로요. 그리고 아무도 내 커피에 설탕을 안 넣는다면요.
+## Die Satzung und der Name | 정관과 이름
+Herr Brückner: Drittens: Paragraf siebzehn. Die Vergabe freier Wohnungen. Eine Vergabekommission aus drei Mitgliedern entscheidet. Nach sozialen Kriterien. Dringlichkeit, Haushaltsgröße, Bezug zum Kiez. Nicht nach Einkommen. Und nicht nach Sympathie. || 셋째, 제17조. 빈집 배정. 조합원 세 명으로 된 배정 위원회가 결정합니다. 사회적 기준에 따라서요. 긴급성, 가구 규모, 동네와의 연고. 소득으로가 아니라. 그리고 호감으로도 아니고요.
+Max: Nicht nach Sympathie? Das wird schwer. Ich habe schon einen Favoriten. || 호감으로가 아니라고요? 그거 어렵겠네요. 저는 벌써 마음에 둔 사람이 있는데.
+Herr Brückner: Dann dürfen Sie nicht in die Vergabekommission, Herr … Max. Befangenheit. Viertens: Paragraf einunddreißig. Die Mietfestsetzung. Die Nutzungsentgelte dürfen den Berliner Mietspiegel nicht überschreiten. Dauerhaft. Auch das ist eine Bedingung der Stiftung. || 그럼 배정 위원회에 들어가시면 안 됩니다, 막스 씨. 이해관계 때문에요. 넷째, 제31조. 임대료 책정. 사용료는 베를린 임대료 기준표를 넘어서는 안 됩니다. 영구적으로요. 이것도 재단의 조건입니다.
+Frau Lehmann: Ich habe eine Frage. Oder einen Einwand. Paragraf zweiundzwanzig. Die Pflichtanteile. Da steht: Jedes Mitglied zeichnet einen Geschäftsanteil von fünfhundert Euro. Plus wohnungsbezogene Anteile. Hundertfünfzig Euro pro Quadratmeter. Ich habe fünfundsiebzig Quadratmeter. Das sind elftausendzweihundertfünfzig Euro. Plus fünfhundert. Ich bin alleinerziehend. Mit zwei Kindern. Woher soll ich das nehmen? || 질문이 하나 있어요. 아니면 반론이요. 제22조. 의무 출자금이요. 이렇게 돼 있어요. 조합원은 누구나 500유로의 출자 지분을 낸다. 거기에 주택 연동 지분. 제곱미터당 150유로. 저희 집은 75제곱미터예요. 그러면 만 천이백오십 유로예요. 거기에 오백 더하고요. 저는 한부모예요. 애가 둘이고요. 그걸 어디서 구해요?
+Jannik: Das ist eine berechtigte Frage. Und es gibt eine Antwort. Das Land Berlin fördert Genossenschaftsanteile. Über die Investitionsbank. Ein zinsloses Darlehen für Haushalte mit Wohnberechtigungsschein. Sie zahlen es in kleinen Raten zurück. Fünfzig Euro im Monat. || 정당한 질문이에요. 그리고 답이 있어요. 베를린주가 협동조합 출자금을 지원해요. 투자은행을 통해서요. 주거 자격 증명서가 있는 가구에 무이자 대출을 해 줘요. 조금씩 나눠 갚으시면 돼요. 한 달에 50유로요.
+Frau Lehmann: Fünfzig im Monat. Das geht. Das ist weniger als die Mieterhöhung, die Nordwert geplant hatte. || 한 달에 50유로라. 그건 돼요. 노르트베르트가 계획했던 임대료 인상보다 적네요.
+Edith: Und ich? Ich habe achtundfünfzig Quadratmeter. Achttausendsiebenhundert. Plus fünfhundert. Neuntausendzweihundert. Ich habe zwölftausend auf dem Sparbuch. Für meine Beerdigung. || 그럼 나는요? 나는 58제곱미터예요. 팔천칠백. 거기에 오백. 구천이백. 저축 통장에 만 이천이 있어요. 내 장례식용으로요.
+Kalle: Edith, nicht dein Beerdigungsgeld. Bitte. || 에디트, 장례식 돈은 말고. 제발.
+Edith: Doch. Genau das. Gisela hat in ihrer Traueranzeige um Spenden für dieses Haus gebeten. Statt Blumen. Dann darf ich mit meinem Beerdigungsgeld in diesem Haus wohnen. Statt in einem teuren Sarg zu liegen. Ich nehme den billigen Sarg. Und die Wohnung im Erdgeschoss. || 아니. 바로 그거야. 기젤라는 부고에서 조화 대신 이 집에 기부해 달라고 했어. 그럼 나는 장례식 돈으로 이 집에 살아도 돼. 비싼 관에 누워 있는 대신에. 나는 싼 관이면 돼. 그리고 1층 집이면 되고.
+Jannik: Gut. Ich lasse über die Satzung abstimmen. Im Ganzen. Wer ist dafür? Wer ist dagegen? Enthaltungen? || 좋습니다. 정관 전체에 대해 표결하겠습니다. 찬성하시는 분? 반대하시는 분? 기권?
+Frau Schulze: Vierunddreißig Ja. Null Nein. Null Enthaltungen. Die Satzung ist angenommen. Zehn Uhr einundvierzig. || 찬성 서른넷. 반대 영. 기권 영. 정관이 채택됐습니다. 열 시 사십일 분.
+Jannik: TOP drei. Der Name. Es gibt drei Vorschläge. Erstens: „Wohnungsgenossenschaft Maybachufer eG". Zweitens: „Zur Ecke eG". Drittens: „Eckhaus eG". Wer möchte etwas dazu sagen? || 3번 안건. 이름입니다. 제안이 세 개 있습니다. 첫째, „마이바흐우퍼 주거 협동조합 eG". 둘째, „Zur Ecke eG". 셋째, „Eckhaus eG". 의견 있으신 분?
+Kalle: Nicht „Zur Ecke". Bitte nicht. Das ist der Name von meiner Kneipe. Die Genossenschaft ist größer als meine Kneipe. || „Zur Ecke"는 안 돼. 제발. 그건 우리 가게 이름이야. 협동조합은 우리 가게보다 커.
+Can: „Eckhaus"! Weil es an der Ecke steht! Und weil es ein Haus ist! Und weil man es nicht teilen kann! || „에케하우스"요! 모퉁이에 있으니까요! 그리고 집이니까요! 그리고 나눌 수 없으니까요!
+Jannik: Das Ehrenmitglied hat ein Plädoyer gehalten. Ohne Stimmrecht. Abstimmung. „Maybachufer"? Drei. „Eckhaus"? … Frau Schulze? || 명예 회원께서 변론을 하셨습니다. 의결권 없이요. 표결합니다. „마이바흐우퍼"? 세 표. „에케하우스"? …슐체 부인?
+Frau Schulze: Einunddreißig. Der Name ist „Eckhaus eG". In Gründung. Zehn Uhr achtundvierzig. Und Can, das „eG" bekommen wir erst nach der Eintragung. Bis dahin heißt es „Eckhaus eG i. G.". In Gründung. || 서른하나. 이름은 „Eckhaus eG"입니다. 설립 중. 열 시 사십팔 분. 그리고 잔, ‚eG'는 등기한 뒤에야 붙는 거야. 그때까지는 „Eckhaus eG i. G.", 설립 중이라고 해.
+Can: I. G. Wie „ich gewinne". || 이 게. ‚이길 거야'의 이 게처럼요.
+## Wahlen | 선거
+Hüseyin: Bevor wir wählen: Eine Frage. Ich habe keinen deutschen Pass. Noch nicht. Mein Antrag liegt beim Amt. Darf ich trotzdem wählen? Und gewählt werden? || 선거 전에 질문 하나요. 저는 독일 여권이 없어요. 아직은요. 신청서는 관청에 들어가 있고요. 그래도 투표할 수 있나요? 그리고 뽑힐 수도 있나요?
+Herr Brückner: In einer Genossenschaft spielt die Staatsangehörigkeit keine Rolle, Herr Yıldız. Ein Mitglied, eine Stimme. Seit achtzehnhundertneunundachtzig. Länger als jeder deutsche Pass, den Sie kriegen können. || 협동조합에서는 국적이 아무 상관 없습니다, 이을드즈 씨. 조합원 한 명에 한 표. 1889년부터요. 당신이 받을 수 있는 어떤 독일 여권보다 오래된 원칙이죠.
+Hüseyin: Dann wähle ich heute zum ersten Mal in Deutschland. Mit fünfundsechzig. Nach neunundvierzig Jahren. In einer Schulaula mit schiefem Boden. || 그럼 오늘 독일에서 처음으로 투표하는 거네요. 예순다섯에. 사십구 년 만에. 바닥이 기울어진 학교 강당에서요.
+Derya: Baba. Nicht weinen. Du hast gesagt, du weinst erst beim Bundestag. || 아빠. 울지 마요. 연방 의회 선거 때나 울 거라면서요.
+Hüseyin: Das hier ist wichtiger als der Bundestag. Hat Kalle gesagt. || 여기가 연방 의회보다 더 중요하대. 칼레가 그랬어.
+Jannik: TOP vier. Vorstand. Laut Satzung mindestens zwei, höchstens drei Mitglieder. Kandidaten: Karl Kowalski, Derya Yıldız, Jana Kowalski. Möchten die Kandidaten etwas sagen? Kurz? Bitte kurz. || 4번 안건. 이사회. 정관상 최소 두 명, 최대 세 명입니다. 후보는 카를 코발스키, 데르야 이을드즈, 야나 코발스키. 후보분들 하실 말씀 있으세요? 짧게요? 제발 짧게요.
+Kalle: Kurz. Ick kann nicht rechnen. Ick kann nicht Satzungen lesen. Aber ick weiß, wer in diesem Haus Zucker in den Tee will und wer nicht. Und wer nachts allein ist. Ein Vorstand muss das wissen. Der Rest steht in Paragrafen. || 짧게. 나는 계산 못 해. 정관도 못 읽어. 그래도 이 집에서 누가 차에 설탕을 원하고 누가 안 원하는지는 알아. 그리고 누가 밤에 혼자인지도. 이사회는 그걸 알아야 해. 나머지는 조항에 다 있고.
+Derya: Ich bin Krankenschwester. Ich arbeite in Schichten. Ich bin müde. Aber ich habe die Idee gehabt. Und eine Idee, die man hat, muss man auch tragen. Bis sie läuft. || 저는 간호사예요. 교대 근무를 하죠. 피곤해요. 그래도 이 아이디어를 낸 사람이 저예요. 그리고 낸 아이디어는 끝까지 책임져야 해요. 굴러가기 시작할 때까지요.
+Jana: Ich habe sieben Jahre lang Produkte für Leute gebaut, die ich nie gesehen habe. Jetzt will ich eins für Leute bauen, die ich jeden Morgen sehe. Beim Frühstück. Für zwei Euro fünfzig. || 저는 칠 년 동안 한 번도 본 적 없는 사람들을 위해 제품을 만들었어요. 이제는 매일 아침 보는 사람들을 위해 하나 만들고 싶어요. 아침 식사 때요. 2유로 50에.
+Frau Lehmann: Ich beantrage geheime Abstimmung. Nicht, weil ich dagegen bin. Sondern weil man das so macht. Auch wenn alle dafür sind. Gerade dann. || 비밀 투표를 요청합니다. 반대해서가 아니에요. 원래 그렇게 하는 거니까요. 모두가 찬성하더라도요. 바로 그럴 때일수록요.
+Jannik: Antrag auf geheime Abstimmung. Laut Satzung reicht ein Mitglied. Stimmzettel, bitte. Für jeden Kandidaten Ja, Nein oder Enthaltung. || 비밀 투표 요청입니다. 정관상 조합원 한 명이면 충분합니다. 투표용지 주세요. 후보마다 찬성, 반대, 기권 중 하나로요.
+Frau Schulze: Ausgezählt. Mit Frau Lehmann als Zeugin. Karl Kowalski: zweiunddreißig Ja, null Nein, zwei Enthaltungen. Derya Yıldız: vierunddreißig Ja. Jana Kowalski: dreiunddreißig Ja, eine Enthaltung. || 개표 끝났어요. 레만 부인 입회하에요. 카를 코발스키, 찬성 서른둘, 반대 영, 기권 둘. 데르야 이을드즈, 찬성 서른넷. 야나 코발스키, 찬성 서른셋, 기권 하나.
+Kalle: Zwei Enthaltungen. Wer war det? || 기권 둘이라. 누구야?
+Jana: Eine davon war ich, Papa. Ich wollte nicht, dass du einstimmig gewählt wirst. Sonst wirst du größenwahnsinnig. || 하나는 저예요, 아빠. 아빠가 만장일치로 뽑히는 건 싫었어요. 그랬다간 과대망상에 빠질 테니까요.
+Kalle: Und die andere Enthaltung bei dir? Das war ick. Aus demselben Grund. || 그럼 너한테 나온 기권 하나는? 그건 나야. 같은 이유로.
+Jannik: TOP fünf. Aufsichtsrat. Drei Mitglieder. Kandidaten: Ingrid Schulze, Katja Lehmann, Günter Pietsch. Herr Pietsch? Sie sind hinten. Möchten Sie etwas sagen? || 5번 안건. 감사회. 세 명입니다. 후보는 잉그리트 슐체, 카트야 레만, 귄터 피치. 피치 씨? 뒤에 계시네요. 하실 말씀 있으세요?
+Herr Pietsch: Nur eins. Ich habe dreißig Jahre lang für Leute gearbeitet, die das Haus nicht kannten. Jetzt will ich die kontrollieren, die es kennen. Das ist schwieriger. Die kann man nicht anlügen. || 하나만요. 나는 삼십 년 동안 이 집을 모르는 사람들을 위해 일했소. 이제는 이 집을 아는 사람들을 감독하고 싶소. 그게 더 어렵지. 그 사람들한텐 거짓말을 못 하거든.
+Frau Schulze: Ich zähle mich selbst nicht. Frau Lehmann, bitte. || 나는 내 표를 세지 않을게요. 레만 부인, 부탁해요.
+Frau Lehmann: Ingrid Schulze: vierunddreißig. Günter Pietsch: vierunddreißig. Katja Lehmann … dreiunddreißig. Eine Enthaltung. Das war ich. Skeptikerin bis zum Schluss. || 잉그리트 슐체, 서른넷. 귄터 피치, 서른넷. 카트야 레만… 서른셋. 기권 하나. 그건 저예요. 끝까지 회의론자죠.
+## Die Unterschriften | 서명
+Jannik: TOP sechs. Die Unterzeichnung der Satzung. Jedes Gründungsmitglied unterschreibt auf der letzten Seite. Mit Datum. In der Reihenfolge, in der Sie sitzen. Oder … gibt es einen Vorschlag? || 6번 안건. 정관 서명입니다. 설립 조합원 모두가 마지막 쪽에 서명합니다. 날짜와 함께요. 앉아 계신 순서대로요. 아니면… 다른 제안 있으십니까?
+Kalle: Edith zuerst. Sie wohnt am längsten hier. Zweiundfünfzig Jahre. Das ist kein Vorschlag. Das ist eine Selbstverständlichkeit. || 에디트 먼저. 여기 제일 오래 살았잖아. 오십이 년. 그건 제안이 아니야. 당연한 거지.
+Edith: Ich unterschreibe nicht mit dem blauen Kugelschreiber. Entschuldigung, Ingrid. Ich habe meinen eigenen. Werners Füller. Den hat er neunzehnhundertvierundsiebzig gekauft. Für unseren Mietvertrag. Damit hat er unterschrieben. Damals. Jetzt unterschreibe ich damit. Für den nächsten. || 나는 파란 볼펜으로 서명 안 할래요. 미안해요, 잉그리트. 내 거 있어요. 베르너 만년필이요. 1974년에 산 거예요. 우리 임대 계약서에 서명하려고요. 그때 그걸로 서명했죠. 이제 내가 그걸로 서명할 거예요. 다음 계약을 위해서요.
+Frau Schulze: Ein Füller. Dokumentenecht? || 만년필이라. 지워지지 않는 거예요?
+Edith: Zweiundfünfzig Jahre echt, Ingrid. Das reicht. „Edith Krüger, geborene Hartmann. Zwölfter Dezember zweitausendsechsundzwanzig." || 오십이 년 동안 진짜였어요, 잉그리트. 그거면 충분해요. „에디트 크뤼거, 결혼 전 성 하르트만. 2026년 12월 12일."
+Can: Darf ich zugucken? Ganz nah? Ich will mir die Unterschrift merken. Für mein Archiv. || 구경해도 돼요? 아주 가까이서요? 그 서명 기억해 두고 싶어요. 제 기록 보관소에요.
+Hüseyin: „Hüseyin Yıldız." Mit beiden Namen. Wie in meinem türkischen Pass. Und bald im deutschen. Das ist meine erste Unterschrift in diesem Land, bei der ich etwas zu sagen habe. || „휘세인 이을드즈." 두 이름 다. 튀르키예 여권에 있는 그대로. 그리고 곧 독일 여권에도요. 이게 이 나라에서 내가 뭔가를 말할 권리가 있는 첫 서명이에요.
+Max: „Max Brenner." Ja, ich habe einen Nachnamen. Niemand hat je danach gefragt. || „막스 브레너." 네, 저도 성이 있어요. 아무도 안 물어봤지만요.
+Tobi: „Tobias Fischer." Und daneben ein kleiner Papagei. Gezeichnet. || „토비아스 피셔." 그리고 옆에 작은 앵무새 하나. 그려 넣었어요.
+Frau Schulze: Der Papagei unterschreibt nicht, Herr Fischer. Er ist nicht stimmberechtigt. Das hatten wir schon. || 앵무새는 서명 안 해요, 피셔 씨. 의결권이 없어요. 그건 이미 정했잖아요.
+Tobi: Er unterschreibt nicht. Er guckt nur zu. Als Zeuge. Zeugen dürfen alles. || 서명하는 거 아니에요. 그냥 지켜보는 거예요. 증인으로요. 증인은 뭐든 해도 되잖아요.
+Paul: Vierunddreißig Unterschriften. Ich habe gezählt. Zwei Mal. Wie Frau Schulze. || 서명 서른네 개. 제가 셌어요. 두 번이요. 슐체 부인처럼요.
+Herr Brückner: Dann ist die Genossenschaft gegründet. In Gründung. Jetzt kommt der schwierige Teil. Der Prüfungsverband muss das Gründungsgutachten erstellen. Dann das Registergericht. Das dauert normalerweise drei Monate. Sie haben sieben Wochen. Mit Weihnachten dazwischen. || 그럼 협동조합은 설립됐습니다. 설립 중이죠. 이제 어려운 부분이 남았어요. 감사 협회가 설립 감정서를 작성해야 해요. 그다음엔 등기소고요. 보통은 석 달이 걸립니다. 여러분한테는 7주가 있어요. 중간에 크리스마스까지 끼고요.
+Jana: Der Termin beim Prüfungsverband ist am einundzwanzigsten. Ich habe ihn im November gemacht. Für alle Fälle. Ich habe von Frau Schulze gelernt. || 감사 협회 약속은 21일이에요. 11월에 잡아 놨어요. 만일을 위해서요. 슐체 부인한테 배웠거든요.
+Frau Schulze: Elf Uhr zweiundfünfzig. Die Versammlung ist geschlossen. Und jetzt, wenn ich darf, als Protokollführerin: TOP sieben. Party. || 열한 시 오십이 분. 총회를 폐회합니다. 그리고 이제, 허락하신다면 회의록 담당으로서. 7번 안건. 파티.
+Max: Endlich. Ich habe Musik mitgebracht. Und keinen Sektkühler. Der ist Inventar. || 드디어요. 음악 가져왔어요. 샴페인 쿨러는 안 가져왔어요. 그건 비품이니까요.
+Kalle: Can. Komm her. Hast du einen Radiergummi? || 잔. 이리 와. 지우개 있어?
+Can: Immer. Für Mathe. Warum? || 늘 있죠. 수학 때문에요. 왜요?
+Kalle: Weil ick jetzt das „vorläufig" wegradiere. Vom Namensschild. „Karl Kowalski. Vorstand." Ohne Bleistift. Hier. Mach du es. Du hast es geschrieben. || 이제 ‚임시'를 지울 거니까. 명찰에서. „카를 코발스키. 이사." 연필 없이. 여기. 네가 해. 네가 썼잖아.
+Can: Weg. Jetzt ist es echt. Fast. I. G. || 지웠어요. 이제 진짜예요. 거의요. 설립 중이니까요.
+## TOP sieben | 7번 안건
+Max: Und jetzt: Karat. Für Edith. „Über sieben Brücken musst du gehn". Die Platte, die sie von ihrem Wichtel bekommen hat. Ich habe sie digitalisiert. Mit Rauschen. Das Rauschen ist wichtig. || 그리고 이제 카라트. 에디트 할머니를 위해서. „일곱 개의 다리를 건너야 해". 비히텔한테서 받으신 그 판이요. 디지털로 옮겼어요. 잡음까지 그대로요. 잡음이 중요하거든요.
+Edith: Max, du hast dich schon wieder verraten. Mit dem Wichtel. || 막스, 너 또 들켰다. 비히텔 얘기로.
+Max: Ich habe mich am Sonntag schon verraten. Jetzt ist es egal. Darf ich bitten? Einen Tanz? Langsam. Ohne Stufen. || 일요일에 이미 들켰잖아요. 이제 상관없어요. 춤 한 곡 추실래요? 천천히요. 계단 없이요.
+Edith: Ich habe seit neunzehnhundertneunzig nicht mehr getanzt. Seit meinem siebenundvierzigsten Geburtstag. Mit Gisela und Werner. Gut. Einen. Aber du führst nicht. Ich führe. || 1990년 이후로 춤을 안 췄어. 마흔일곱 번째 생일 이후로. 기젤라랑 베르너랑. 좋아. 한 곡만. 대신 네가 이끄는 게 아니야. 내가 이끌어.
+Lea: Paul. Guck mal. Edith tanzt mit Max. Und Frau Marquardt klatscht. Im Rollstuhl. || 파울. 저기 봐. 에디트가 막스랑 춤춘다. 그리고 마르크바르트 씨가 박수 치셔. 휠체어에서.
+Paul: Und Frau Schulze protokolliert es. Ich sehe ihren Stift. „Elf Uhr achtundfünfzig: Frau Krüger tanzt." || 그리고 슐체 부인은 그걸 기록하고 있어. 펜이 보여. „열한 시 오십팔 분, 크뤼거 부인 춤춤."
+Lea: Du hast heute vierunddreißig Unterschriften gezählt. Und keine eigene geleistet. Warum nicht? || 너 오늘 서명 서른네 개를 셌잖아. 그런데 네 서명은 안 했지. 왜 안 했어?
+Paul: Weil ich noch nicht im Haus wohne. Ich bin Unterstützer. Kein Gründungsmitglied. Mit Direktkredit. Fünfhundert Euro. Von meiner Rüge-Rückzahlung. Herr Graf hat endlich gezahlt. || 아직 이 집에 안 사니까. 나는 후원자야. 설립 조합원이 아니라. 직접 대출로. 500유로. Rüge 환급금으로. 그라프 씨가 드디어 돌려줬거든.
+Lea: Und wenn du im Februar einziehst? In Max' Wohnung? || 그럼 2월에 이사 들어가면? 막스네 집으로?
+Paul: Wenn. Die Vergabekommission entscheidet. Nicht nach Sympathie. Paragraf siebzehn. Vielleicht kommt eine Familie mit Kindern. Die hätte Vorrang. Zu Recht. || 들어간다면이지. 배정 위원회가 결정해. 호감으로가 아니라. 제17조. 아이 있는 가족이 신청할 수도 있잖아. 그럼 그쪽이 우선이야. 당연히.
+Lea: Du bist der einzige Mensch, den ich kenne, der gegen sich selbst argumentiert. Auf einer Party. || 너는 내가 아는 사람 중에 파티에서 자기 자신한테 불리한 주장을 하는 유일한 사람이야.
+Frau Seidel: Darf ich stören? Seidel. Herr Hoffmann, ich habe zwei Neuigkeiten. Erstens: Frau Krügers WBS-Antrag ist durch. Bewilligt. Gestern. Sie hat jetzt Anspruch auf die Förderung für die Anteile. Die neuntausendzweihundert. Sie muss ihr Beerdigungsgeld nicht anrühren. || 실례해도 될까요? 자이델이에요. 호프만 씨, 소식이 두 개 있어요. 첫째, 크뤼거 부인 WBS 신청이 통과됐어요. 승인이요. 어제요. 이제 출자금 지원을 받을 자격이 생기셨어요. 그 구천이백이요. 장례식 돈에 손 안 대셔도 돼요.
+Paul: Das … das ist wunderbar. Und die zweite? || 그거… 그거 정말 잘됐네요. 그럼 두 번째는요?
+Frau Seidel: Zweitens: Ich trete bei. Als investierendes Mitglied. Mit fünftausend Euro. Weil ich in Lichtenberg sieben Euro zahle. Und weil ich im Juni zu Ihnen gesagt habe: Oder Sie gehen nicht. || 둘째, 저도 가입할게요. 투자 조합원으로요. 오천 유로로요. 저는 리히텐베르크에서 7유로를 내니까요. 그리고 6월에 당신한테 그랬잖아요. 아니면 안 가시거나요.
+Paul: Frau Seidel. Sie haben sich schon entschuldigt. Zweimal. || 자이델 씨. 이미 사과하셨잖아요. 두 번이나요.
+Frau Seidel: Eine Entschuldigung ist ein Satz. Fünftausend Euro sind eine Entschuldigung mit Kontonummer. Die zählt mehr. || 사과는 한 문장이에요. 오천 유로는 계좌 번호가 붙은 사과죠. 그게 더 쳐줘요.
+Lea: Paul, du wirst rot. Frau Marquardt hat recht. Rot ist eine gesunde Farbe. || 파울, 너 얼굴 빨개진다. 마르크바르트 씨 말이 맞네. 빨간색은 건강한 색이야.
