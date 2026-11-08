@@ -1,0 +1,147 @@
+#nr: 20
+#part: 2부 Sommer (여름)
+#title: Paul sucht ein Zimmer
+#ko: 파울, 방을 구하다 · 가구 딸린 12제곱미터와 WG 면접
+#level: B1~B2
+#setting: 6월 둘째 주. 넉 달째 막스네 소파에서 자는 파울이 본격적으로 방을 찾는다. 야나와 함께 WG 사이트의 광고를 비교하고, „가구 딸린 단기 임대" 광고주와 통화하고, 프리드리히스하인의 WG에서 면접(WG-Casting)을 본다. 그리고 그날 밤, 막스에게서 나쁜 소식이 온다. 표현 초점: 임대 어휘, 질문 화법(정중한 질문·간접의문문), 비교.
+#cast: Paul | 파울 호프만 · 27세
+#cast: Jana | 야나 코발스키 · 34세
+#cast: Herr Kraft | 크라프트 · 50대, 가구 딸린 원룸 임대인 (전화)
+#cast: Mia | 미아 · 26세, 프리드리히스하인 WG 거주, 간호학과 학생
+#cast: Ole | 올레 · 29세, 같은 WG, 게임 개발자
+#cast: Max | 막스 · 29세, 파울의 친구
+#read: 정중한 질문의 억양: „Wäre es möglich, dass …?" „Dürfte ich fragen, ob …?" — 접속법 2식 동사(wäre, dürfte)에 살짝 힘을 주고 끝을 올린다.
+#read: Quadratmeter [kvaˈdʁaːtˌmeːtɐ], warm/kalt [vaʁm]/[kalt], Kaution [kaʊ̯ˈtsi̯oːn] — -tion은 [tsi̯oːn].
+#read: 비교급 리듬: „größer, aber teurer", „kleiner, aber näher" — 대조되는 두 단어에 강세.
+#read: WG [veːˈɡeː] — 알파벳으로 읽는다. WG-Casting은 [veːˈɡeː ˈkaːstɪŋ].
+#note: 임대 광고 어휘: die Warmmiete(관리비 포함) / die Kaltmiete(기본 임대료) / die Nebenkosten / die Kaution(보증금, 보통 기본 임대료 3개월 치) / möbliert(가구 딸린) / befristet(기한부) / ab sofort(즉시 입주) / die Zwischenmiete(단기 전대) / das WG-Zimmer / die Besichtigung.
+#note: möbliert + befristet 편법: 가구 딸린 단기 임대는 임대료 상한제(Mietpreisbremse)를 피해 가는 대표적 수단으로 비판받는다. 가구 사용료(Möblierungszuschlag)가 얼마인지 밝히지 않는 경우가 많고, 전입신고를 막는다면 위험 신호다.
+#note: 정중한 질문: Darf ich fragen, …? / Könnten Sie mir sagen, …? / Wäre es möglich, …? / Ich hätte noch eine Frage. — 면접·문의 전화에서 필수.
+#note: Wohnungsgeberbestätigung = 집주인(또는 주 세입자)이 써 주는 입주 확인서. 이것이 있어야 구청에 전입신고(Anmeldung)를 할 수 있다. 신고는 입주 후 2주 안에 해야 한다.
+#note: Wir haben uns für jemand anderen entschieden. — 거절 메시지의 정형 문장.
+## Anzeigen vergleichen | 광고 비교하기
+Jana: Okay, Paul. Zeig mal deine Liste. Wie viele Anzeigen hast du gespeichert? || 좋아, 파울. 목록 보여 줘. 광고 몇 개나 저장했어?
+Paul: Vierundzwanzig. Aber ehrlich gesagt sind die meisten zu teuer. Oder zu weit weg. Oder beides. || 스물네 개. 근데 솔직히 대부분 너무 비싸. 아니면 너무 멀거나. 아니면 둘 다.
+Jana: Dann vergleichen wir. Was ist dein Maximum? Warm, mit allem. || 그럼 비교해 보자. 최대 얼마까지 낼 수 있어? 관리비 다 포함해서.
+Paul: Sechshundertfünfzig. Höchstens siebenhundert. Mehr geht nicht mit meinem Gehalt. Und mein Vertrag ist ja auch befristet. || 650. 많아야 700. 내 월급으론 그 이상은 안 돼. 게다가 계약도 기간제잖아.
+Jana: Gut. Hier, Nummer eins: WG-Zimmer in Friedrichshain. Vierzehn Quadratmeter, fünfhundertachtzig warm. Das klingt doch gut. || 좋아. 여기, 1번. 프리드리히스하인 WG 방. 14제곱미터, 관리비 포함 580. 괜찮은데.
+Paul: Das ist mein Favorit. Morgen um sechs ist ein Casting. Ich und noch zwölf andere. || 그게 제일 마음에 들어. 내일 여섯 시에 면접이 있어. 나 말고도 열두 명이랑.
+Jana: Dreizehn Leute für ein Zimmer. Willkommen in Berlin. Nummer zwei? || 방 하나에 열세 명이라. 베를린에 온 걸 환영해. 2번은?
+Paul: Ein Einzimmerapartment in Wedding. Möbliert. Zwölf Quadratmeter. Neunhundert Euro. Befristet auf sechs Monate. || 베딩의 원룸. 가구 딸렸어. 12제곱미터. 900유로. 육 개월 기한부.
+Jana: Neunhundert für zwölf Quadratmeter? Das sind fünfundsiebzig Euro pro Quadratmeter! || 12제곱미터에 900? 제곱미터당 75유로잖아!
+Paul: Ich weiß. Aber es ist ein eigenes Apartment. Mit eigener Küche. Mit eigenem Bad. Ohne Mitbewohner. || 알아. 근데 내 집이잖아. 부엌도 따로 있고. 욕실도 따로 있고. 룸메이트도 없고.
+Jana: Eine eigene Küche in zwölf Quadratmetern? Ist die Küche dann im Bad? || 12제곱미터에 부엌이 따로? 그럼 부엌이 욕실 안에 있는 거야?
+Paul: Fast. Die Kochplatte steht neben dem Bett. || 거의. 전기레인지가 침대 옆에 있어.
+Jana: Paul, das ist kein Apartment. Das ist ein Schrank mit Fenster. Und es ist doppelt so teuer wie das WG-Zimmer. || 파울, 그건 원룸이 아니라 창문 달린 옷장이야. 그리고 WG 방보다 두 배나 비싸고.
+Paul: Aber es ist sofort frei. Und das WG-Zimmer bekomme ich vielleicht nicht. Von dreizehn Leuten nimmt man einen. || 근데 바로 입주할 수 있어. 그리고 WG 방은 못 구할 수도 있잖아. 열세 명 중에 한 명만 뽑는데.
+Jana: Nummer drei? || 3번은?
+Paul: Zwischenmiete in Kreuzberg. Drei Monate. Eine Frau geht für ein Praktikum nach Lissabon. Fünfhundertzwanzig. Aber nur bis September. || 크로이츠베르크 단기 전대. 석 달. 어떤 여자분이 인턴십 하러 리스본에 간대. 520. 근데 9월까지만.
+Jana: Billiger als die anderen, aber kürzer. Und dann stehst du im September wieder auf der Straße. || 다른 데보다 싸긴 한데 기간이 짧네. 그럼 9월에 다시 길바닥 신세잖아.
+Paul: Auf dem Sofa, nicht auf der Straße. Das ist ein Unterschied. || 길바닥이 아니라 소파지. 그건 달라.
+Jana: Noch. || 아직은.
+## Ein Anruf in Wedding | 베딩으로 건 전화
+Paul: Ich rufe trotzdem bei dem Apartment an. Nur um zu fragen. || 그래도 그 원룸에 전화는 해 볼게. 그냥 물어보려고.
+Jana: Mach den Lautsprecher an. Ich will das hören. || 스피커폰으로 해. 나도 듣고 싶어.
+Herr Kraft: Kraft. || 크라프트입니다.
+Paul: Guten Tag, Herr Kraft. Mein Name ist Hoffmann. Ich rufe wegen des Apartments in der Müllerstraße an. Ist es noch frei? || 안녕하세요, 크라프트 씨. 호프만이라고 합니다. 뮐러 거리 원룸 때문에 전화드렸어요. 아직 비어 있나요?
+Herr Kraft: Noch ja. Aber ich habe schon dreißig Anfragen. Was machen Sie beruflich? || 아직은요. 근데 벌써 문의가 서른 건이에요. 무슨 일 하세요?
+Paul: Ich arbeite im Marketing. Bei einer Agentur in Mitte. || 마케팅 일을 해요. 미테에 있는 에이전시에서요.
+Herr Kraft: Unbefristet? || 정규직이에요?
+Paul: Befristet. Bis Ende September. Aber mein Chef sagt, er will verlängern. || 기간제예요. 9월 말까지요. 그래도 사장님이 연장하고 싶다고 하셨어요.
+Herr Kraft: Hm. Das ist nicht ideal. Aber gut. Neunhundert im Monat, alles inklusive. Kaution: drei Monatsmieten. Zweitausendsiebenhundert. || 흠. 이상적이진 않네요. 뭐 좋아요. 한 달에 900, 전부 포함. 보증금은 석 달 치. 2,700이요.
+Paul: Darf ich fragen, wie hoch die Kaltmiete ist? Und wie viel die Möbel kosten? || 기본 임대료가 얼마인지 여쭤봐도 될까요? 그리고 가구 사용료는 얼마고요?
+Herr Kraft: Das ist alles zusammen. Neunhundert. Warum wollen Sie das wissen? || 그건 다 합친 거예요. 900. 그걸 왜 알고 싶어요?
+Paul: Weil ich vergleichen möchte. Und könnten Sie mir sagen, ob ich mich dort anmelden kann? Beim Bürgeramt? || 비교해 보고 싶어서요. 그리고 거기로 전입신고를 할 수 있는지도 말씀해 주실 수 있나요? 구청에요?
+Herr Kraft: Anmelden? Nein, das geht leider nicht. Das ist ein Apartment auf Zeit. Für Geschäftsleute. || 전입신고요? 아뇨, 그건 안타깝게도 안 돼요. 단기 원룸이거든요. 출장 온 사람들용이에요.
+Paul: Aber ich bin kein Geschäftsmann. Ich will dort wohnen. || 그런데 저는 출장 온 사람이 아니에요. 거기서 살려는 거예요.
+Herr Kraft: Junger Mann, wollen Sie das Apartment oder nicht? Ich habe noch dreißig andere. || 젊은 양반, 원룸 원해요, 안 원해요? 나는 다른 사람이 서른 명이나 있어요.
+Paul: Wäre es möglich, das Apartment zuerst zu besichtigen? || 먼저 집을 볼 수 있을까요?
+Herr Kraft: Besichtigung am Samstag um acht. Morgens. Wer zuerst die Kaution überweist, bekommt den Schlüssel. Auf Wiederhören. || 토요일 여덟 시에 보여 줘요. 아침에요. 보증금 먼저 보내는 사람이 열쇠를 받아요. 안녕히 계세요.
+Jana: … Hast du das gehört? „Wer zuerst die Kaution überweist." || …들었어? „보증금 먼저 보내는 사람이."
+Paul: Und keine Anmeldung. Ohne Anmeldung kann ich kein Konto wechseln, keine Steuer-ID bekommen, nichts. || 그리고 전입신고 불가. 신고를 못 하면 은행 계좌도 못 바꾸고, 세금 번호도 못 받고, 아무것도 못 해.
+Jana: Paul, das ist kein Angebot. Das ist eine Falle. Mindestens ein schlechtes Geschäft. Vielleicht sogar Betrug. || 파울, 그건 제안이 아니라 함정이야. 최소한 나쁜 거래고. 어쩌면 사기일 수도 있어.
+Paul: Ich weiß. Ich weiß es ja. Aber ich bin so müde von der Suche. || 알아. 나도 알아. 근데 집 구하는 게 너무 지쳐.
+## WG-Casting in Friedrichshain | 프리드리히스하인의 WG 면접
+Mia: Hi! Du bist Paul, oder? Komm rein. Schuhe kannst du anlassen. || 안녕! 파울이지? 들어와. 신발은 신고 있어도 돼.
+Paul: Hi. Ja, Paul. Danke für die Einladung. || 안녕. 응, 파울이야. 초대해 줘서 고마워.
+Ole: Ich bin Ole. Setz dich. Willst du was trinken? Tee, Wasser, Mate? || 나는 올레야. 앉아. 뭐 마실래? 차, 물, 마테?
+Paul: Ein Wasser, gern. Wie viele Leute habt ihr heute schon gesehen? || 물 좋아. 오늘 벌써 몇 명이나 만났어?
+Mia: Du bist Nummer neun. Nach dir kommen noch vier. Keine Sorge, wir sind nicht so streng. || 네가 아홉 번째야. 너 다음에 네 명 더 와. 걱정 마, 우리 그렇게 깐깐하지 않아.
+Ole: Erzähl mal was über dich. Was machst du, was magst du, was nervt dich? || 너에 대해 얘기 좀 해 봐. 뭘 하는지, 뭘 좋아하는지, 뭐가 짜증 나는지.
+Paul: Ich bin siebenundzwanzig, komme aus Cottbus und arbeite im Marketing. Seit Februar wohne ich bei einem Freund auf dem Sofa. In Neukölln. || 스물일곱이고, 코트부스 출신이고, 마케팅 일을 해. 2월부터 노이쾰른에서 친구 집 소파에 살고 있어.
+Mia: Seit Februar? Auf dem Sofa? Oh je. || 2월부터? 소파에서? 저런.
+Paul: Ich mag Fußball, Kochen und alte Geschichten. Und was mich nervt … wenn Leute nicht abwaschen. || 축구, 요리, 옛날이야기를 좋아해. 그리고 짜증 나는 건… 사람들이 설거지 안 할 때.
+Ole: Sehr gut. Das ist die richtige Antwort. Unser letzter Mitbewohner hat nie abgewaschen. Nie. || 아주 좋아. 그게 정답이야. 우리 지난번 룸메이트는 설거지를 한 번도 안 했어. 한 번도.
+Mia: Wie stellst du dir das WG-Leben vor? Eher Zweck-WG oder eher Familie? || WG 생활을 어떻게 생각해? 그냥 같이 사는 정도야, 아니면 가족 같은 거야?
+Paul: Irgendwas dazwischen. Ich will nicht jeden Abend Party. Aber ab und zu zusammen kochen, das fände ich schön. || 그 중간쯤. 매일 밤 파티는 싫어. 그래도 가끔 같이 요리하면 좋을 것 같아.
+Ole: Kochst du auch vegetarisch? Mia isst kein Fleisch. || 채식 요리도 해? 미아가 고기를 안 먹거든.
+Paul: Ja. Linsenbuletten zum Beispiel. Das Rezept habe ich von einer Freundin. || 응. 렌틸콩 불레테 같은 거. 친구한테 레시피 배웠어.
+Mia: Linsenbuletten! Okay, du hast Punkte gesammelt. || 렌틸콩 불레테! 좋아, 점수 땄다.
+Ole: Wie ist es bei dir mit Lärm? Ich arbeite manchmal nachts. Mit Kopfhörern, aber ich rede mit meinem Team. In Kanada. || 소음은 어때? 나는 가끔 밤에 일해. 헤드폰은 끼는데 팀이랑 통화를 하거든. 캐나다에 있는 팀이랑.
+Paul: Kein Problem. Ich habe vier Monate neben einem DJ geschlafen. Ich kann überall schlafen. || 문제없어. 넉 달 동안 DJ 옆에서 잤어. 어디서든 잘 수 있어.
+Mia: Und noch eine praktische Frage: Kannst du die Miete sicher zahlen? Fünfhundertachtzig, jeden Monat? || 그리고 현실적인 질문 하나. 월세 확실히 낼 수 있어? 580, 매달?
+Paul: Ja. Ich habe einen Arbeitsvertrag. Bis September. Und mein Chef will verlängern. Ich kann euch auch eine Schufa-Auskunft zeigen. || 응. 근로계약서 있어. 9월까지. 그리고 사장님이 연장하고 싶어 해. 신용 조회서도 보여 줄 수 있어.
+Ole: Okay. Danke, Paul. Wir melden uns bis Freitag. Bei allen. Auch wenn es ein Nein ist. || 좋아. 고마워, 파울. 금요일까지 연락할게. 모두한테. 안 되더라도 연락할게.
+## Danach im Späti | 그 뒤, 슈페티에서
+Jana: Und? Wie war es? Erzähl! || 그래서? 어땠어? 얘기해 봐!
+Paul: Gut. Glaube ich. Sie waren nett. Wir haben gelacht. Ich habe die Linsenbuletten erwähnt. || 좋았어. 아마도. 다들 친절했고. 같이 웃었고. 렌틸콩 불레테 얘기도 했어.
+Jana: Meine Linsenbuletten? Du hast mit meinem Rezept geflirtet? || 내 렌틸콩 불레테? 내 레시피로 작업 건 거야?
+Paul: Ich habe nicht geflirtet. Ich habe Punkte gesammelt. Mia isst kein Fleisch. || 작업 건 거 아니야. 점수 딴 거지. 미아가 고기를 안 먹거든.
+Jana: Und was ist dein Gefühl? Bist du besser als die anderen zwölf? || 그래서 느낌은 어때? 다른 열두 명보다 나아?
+Paul: Keine Ahnung. Vor mir war eine Frau da, mit Gitarre und unbefristetem Vertrag. Nach mir ein Typ, der Ole schon aus der Uni kannte. || 모르겠어. 내 앞에 기타 들고 온 정규직 여자분이 있었어. 내 뒤엔 올레를 대학 때부터 알던 남자가 왔고.
+Jana: Hm. Der Unbefristete und der Freund. Das sind starke Gegner. || 흠. 정규직이랑 친구라. 강한 상대들이네.
+Paul: Siehst du? Deshalb denke ich an das Apartment in Wedding. Da gibt es nur eine Regel: Wer zuerst zahlt. || 거봐. 그래서 베딩 원룸을 생각하는 거야. 거긴 규칙이 하나뿐이잖아. 먼저 돈 내는 사람.
+Jana: Paul. Nein. Versprich mir, dass du keine zweitausendsiebenhundert Euro an einen Mann überweist, den du nie gesehen hast. || 파울. 안 돼. 한 번도 본 적 없는 남자한테 2,700유로 안 보낸다고 약속해.
+Paul: … Okay. Versprochen. || …알았어. 약속해.
+Jana: Hast du dich eigentlich bei den Genossenschaften angemeldet? Am Ersten Mai hast du es versprochen. || 근데 협동조합엔 등록했어? 5월 1일에 약속했잖아.
+Paul: Bei sechs. Zwei haben gar keine Warteliste mehr. Bei den anderen bin ich auf Platz dreihundert bis neunhundert. || 여섯 군데. 두 군데는 대기 명단 자체가 없대. 나머지는 300번에서 900번 사이야.
+Jana: Neunhundert? || 900번?
+Paul: Neunhundertzwölf. Bei der größten. Sie haben geschrieben, das könne „einige Jahre" dauern. || 912번. 제일 큰 데서. „몇 년" 걸릴 수 있다고 쓰여 있더라.
+Jana: Einige Jahre. Na gut. Trotzdem gut, dass du drauf bist. Irgendwann ist man Nummer eins. || 몇 년이라. 그래도 명단에 올라간 건 잘한 거야. 언젠가는 1번이 되겠지.
+Paul: Dann bin ich vierzig. Und habe eine grüne Lampe und sonst nichts. || 그땐 내가 마흔이겠지. 초록 스탠드 하나 말고는 아무것도 없고.
+Jana: Eine grüne Lampe? || 초록 스탠드?
+Paul: Vom Flohmarkt. Für meine erste Wohnung. Sie steht schon bereit. Neben dem Sofa. || 벼룩시장에서 샀어. 내 첫 집에 두려고. 벌써 준비돼 있어. 소파 옆에.
+Jana: Das ist das Traurigste und Schönste, was ich diese Woche gehört habe. || 이번 주에 들은 것 중에 제일 슬프고 제일 멋진 얘기다.
+Paul: Das hat der Verkäufer auch gesagt. Genau so. || 판 사람도 그렇게 말했어. 딱 그렇게.
+## Freitag, eine Nachricht | 금요일, 메시지 한 통
+Paul: Jana, guck mal. Eine Nachricht von Mia. || 야나, 이것 좀 봐. 미아한테서 메시지 왔어.
+Jana: Lies vor! || 읽어 봐!
+Paul: „Hi Paul, danke, dass du da warst. Es war schön, dich kennenzulernen. Leider haben wir uns für jemand anderen entschieden." || „안녕 파울, 와 줘서 고마웠어. 만나서 반가웠어. 안타깝게도 우리는 다른 사람으로 결정했어."
+Jana: Oh nein. Das tut mir leid. || 아, 안 돼. 안됐다.
+Paul: Da steht noch mehr. „Es war echt knapp. Wir fanden dich beide super. Aber Ole kennt Jan schon seit zehn Jahren." || 더 있어. „정말 아슬아슬했어. 우리 둘 다 네가 정말 좋았어. 근데 올레가 얀을 십 년 전부터 알았거든."
+Jana: Der Freund aus der Uni. Natürlich. || 대학 친구구나. 그렇지 뭐.
+Paul: „Wenn wieder ein Zimmer frei wird, melden wir uns zuerst bei dir. Versprochen. Und schick mir mal das Rezept für die Linsenbuletten!" || „다시 방이 비면 너한테 제일 먼저 연락할게. 약속해. 그리고 렌틸콩 불레테 레시피 좀 보내 줘!"
+Jana: Siehst du? Du warst nah dran. Sehr nah. || 거봐. 거의 될 뻔했잖아. 아주 아슬아슬하게.
+Paul: Nah dran ist auch daneben. Wie beim Elfmeter von Union. || 아슬아슬한 것도 빗나간 거야. 우니온 페널티킥처럼.
+Jana: Schick ihr das Rezept. Man weiß nie. || 레시피 보내 줘. 모르는 일이잖아.
+Paul: Dein Rezept? Darf ich das? || 네 레시피를? 그래도 돼?
+Jana: Für eine gute Sache darfst du alles. Schreib aber dazu: „Von Jana aus der Ecke." Werbung muss sein. || 좋은 일을 위해서라면 뭐든 돼. 대신 덧붙여 써. „„Zur Ecke"의 야나가." 홍보는 해야지.
+Paul: Du klingst wie dein Vater. || 너 너희 아빠처럼 말한다.
+Jana: Sag das nicht. Das ist schlimmer als jede Absage. || 그런 말 하지 마. 그건 어떤 거절보다 더 심해.
+Paul: Okay. Dann bleibe ich eben noch ein bisschen auf dem Sofa. Bei Max ist es ja eigentlich ganz okay. || 알았어. 그럼 조금 더 소파 신세 지는 거지 뭐. 막스네도 사실 나쁘지 않아.
+Jana: Max weiß, dass du noch länger bleibst? || 막스는 네가 더 오래 있을 거라는 거 알아?
+Paul: Max sagt immer: Bleib, so lange du willst. || 막스는 늘 그래. 있고 싶은 만큼 있으라고.
+Jana: Das ist ein guter Freund. || 좋은 친구네.
+Paul: Der beste. Er hat mir sogar ein eigenes Fach im Kühlschrank gegeben. || 최고지. 냉장고 칸도 하나 내줬어.
+Jana: Ein ganzes Fach? Das ist in Berlin fast schon ein Mietvertrag. || 칸 하나 통째로? 베를린에선 그 정도면 거의 임대 계약이지.
+Paul: Das unterste. Neben seinen Schallplatten. Er lagert sie im Sommer im Kühlschrank. Wegen der Hitze. || 맨 아래 칸. 걔 레코드판 옆에. 여름엔 더위 때문에 냉장고에 보관하거든.
+Jana: Schallplatten im Kühlschrank. Diese Stadt ist verrückt. || 냉장고에 레코드판이라. 이 도시는 미쳤어.
+## Abends, ein Anruf von Max | 저녁, 막스의 전화
+Max: Paul? Wo bist du gerade? || 파울? 지금 어디야?
+Paul: In der Ecke. Mit Jana. Warum? Du klingst komisch. || „Zur Ecke"에. 야나랑. 왜? 목소리가 이상하다.
+Max: Ich habe heute einen Brief bekommen. Von der Hausverwaltung. Einen Einschreibebrief. || 오늘 편지 받았어. 관리회사에서. 등기 우편으로.
+Paul: Oh nein. Wegen dem Haus? Wegen dem Verkauf? || 아, 안 돼. 집 때문에? 매각 때문에?
+Max: Nein. Wegen dir. || 아니. 너 때문에.
+Paul: Wegen mir? || 나 때문에?
+Max: Da steht: Es sei bekannt geworden, dass in meiner Wohnung „eine weitere Person ohne Genehmigung" wohne. Das sei eine unerlaubte Untervermietung. || 이렇게 쓰여 있어. 내 집에 „허락 없이 다른 사람이 한 명 더" 산다는 사실이 알려졌대. 그건 무단 전대래.
+Paul: Ich bezahle dir doch gar keine Miete! Das ist keine Untervermietung. Ich bin nur … Besuch. || 나 너한테 월세도 안 내잖아! 그건 전대가 아니야. 나는 그냥… 손님이고.
+Max: Vier Monate Besuch. Das glaubt mir keiner. Paul, die schreiben: Wenn das so bleibt, können sie mir kündigen. || 넉 달짜리 손님. 아무도 안 믿어. 파울, 이렇게 써 놨어. 이대로면 나한테 계약 해지를 할 수 있대.
+Jana: Wer hat das der Hausverwaltung gesagt? Die antworten doch nicht mal auf E-Mails! || 누가 관리회사한테 그걸 말했대? 그 사람들 이메일 답장도 안 하잖아!
+Max: Keine Ahnung. Aber sie wissen es. Ich soll bis zum einunddreißigsten Juli „den vertragsgemäßen Zustand" herstellen. || 몰라. 그래도 알고 있어. 7월 31일까지 „계약에 맞는 상태"로 만들어 놓으래.
+Paul: Bis Ende Juli. Das sind sieben Wochen. || 7월 말까지라. 칠 주 남았네.
+Max: Es tut mir so leid, Paul. Ich will dich nicht rauswerfen. Aber ich kann meine Wohnung nicht verlieren. Nicht jetzt. Nicht in diesem Haus. || 정말 미안해, 파울. 너를 내쫓고 싶지 않아. 그래도 내 집을 잃을 순 없어. 지금은. 이 집에서는.
+Paul: Ich weiß, Max. Ich weiß. Das ist nicht deine Schuld. || 알아, 막스. 알아. 네 잘못이 아니야.
+Jana: Sieben Wochen. Paul, das schaffen wir. Ich helfe dir. Jeden Abend. || 칠 주. 파울, 우리 해낼 수 있어. 내가 도와줄게. 매일 저녁.
+Paul: Und wenn nicht? || 못 하면?
+Jana: Dann … dann reden wir mit Papa. Die Ecke hat ein Hinterzimmer. Ohne Fenster, aber mit Sofa. || 그럼… 그럼 아빠한테 얘기해 보자. 가게에 뒷방이 있어. 창문은 없지만 소파는 있어.
+Paul: Von einem Sofa zum nächsten Sofa. Mein Leben in Berlin. || 소파에서 다음 소파로. 베를린에서의 내 인생이다.
