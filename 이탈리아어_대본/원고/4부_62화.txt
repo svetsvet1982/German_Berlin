@@ -1,0 +1,179 @@
+@part 4
+@ep 62
+@file Capodanno
+@title Capodanno
+@ko 새해 전야
+@where 바 일 칸토네 / 건물 옥상
+@level B2~C1
+@setting 12월 31일 목요일 저녁 8시~새벽 1시
+@cast FRANCO | 바 주인, 협동조합 이사장, 61세
+@cast LOREDANA | 2층 세입자, 은퇴한 초등 교사, 66세
+@cast LUCA | 3층 세입자, 응급실 간호사, 28세
+@cast MATTEO | 루카의 약혼자, 고등학교 미술사 교사, 30세
+@cast DAVIDE | 카피라이터, 27세
+@note 로마의 새해 전야. 자정엔 렌틸콩과 코테키노를 먹는다. 빨간 속옷을 입는다. 예전엔 창밖으로 헌 물건을 던졌지만 지금은 금지다. 몇 년 전부터 시는 폭죽과 딱총을 금지하는 조례를 낸다. 칸토네는 올해 처음으로 밤 늦게까지 문을 연다. 루카는 응급실 근무를 밤 10시에 마친다. 다비데는 레조에서 오는 밤 기차를 탔다. 도착 예정 11시 40분, 테르미니역.
+
+# 장면 1 — LE LENTICCHIE
+> 저녁 8시. 바 안에 긴 테이블. 프랑코가 렌틸콩 냄비를 젓고, 로레다나가 종이 띠에 숫자 '2027'을 오린다 || 저녁 8시. 바 안에 긴 테이블. 프랑코가 렌틸콩 냄비를 젓고, 로레다나가 종이 띠에 숫자 '2027'을 오린다
+LOREDANA: Franco, quante lenticchie hai messo? Sembra una pentola per un reggimento. || 프랑코, 렌틸콩을 얼마나 넣었어? 군대 한 연대 먹일 냄비 같아.
+FRANCO: Due chili. Ogni lenticchia è una moneta. Quest'anno ci servono un milione e mezzo di monete. Non bastano mai. || 2킬로. 렌틸콩 한 알이 동전 하나야. 올해는 동전 150만 개가 필요해. 절대 모자라지.
+LOREDANA: Se le lenticchie portassero davvero soldi, la Coldiretti sarebbe la banca più ricca d'Europa. || 렌틸콩이 진짜 돈을 가져다준다면 농민 연합이 유럽에서 제일 부자 은행이겠다.
+FRANCO: Non fa niente. Le mangiamo lo stesso. Con il cotechino. È tradizione. La tradizione non deve funzionare. Deve solo esserci. || 상관없어요. 그래도 먹을 거예요. 코테키노랑. 전통이에요. 전통은 효과가 있을 필요가 없어요. 그냥 있기만 하면 돼요.
+LOREDANA: Questa la scrivo sulla lavagna. «La tradizione non deve funzionare. Deve solo esserci. Il Presidente». || 이거 칠판에 써야겠다. «전통은 효과가 있을 필요가 없다. 그냥 있기만 하면 된다. 이사장».
+FRANCO: Non firmare a nome mio. Ho appena imparato a firmare dritto. || 내 이름으로 서명하지 마요. 이제 막 똑바로 서명하는 법 배웠는데.
+LOREDANA: E i botti? Hai letto l'ordinanza? Il Comune li ha vietati di nuovo. Petardi, razzi, fuochi d'artificio. Multe fino a cinquecento euro. || 폭죽은? 조례 읽었어? 시청이 또 금지했어. 딱총, 로켓 폭죽, 불꽃놀이. 벌금 최고 500유로.
+FRANCO: L'ho letta. La leggo ogni anno. Ogni anno a mezzanotte Testaccio esplode lo stesso. Come Beirut. I cani si nascondono sotto i letti. Nerone? || 읽었어요. 해마다 읽어요. 해마다 자정이면 테스타초는 그래도 폭발해요. 베이루트처럼. 개들은 침대 밑에 숨고요. 네로네는요?
+LOREDANA: Nerone è nell'armadio. Con la radio accesa. Radio Tre. Musica classica. Gli ho messo la «Pastorale» di Beethoven. Copre tutto, tranne i petardi del terzo piano. || 네로네는 옷장 안에. 라디오 켜 놓고. 라디오 트레. 클래식. 베토벤 「전원」 틀어 줬어. 3층 딱총만 빼고 다 덮어 줘.
+FRANCO: Il terzo piano? Settimio? || 3층? 세티미오 영감님?
+LOREDANA: No, quelli del palazzo di fronte. Settimio dorme alle dieci. Ha detto: «Ho visto ottantatré capodanni. Sono tutti uguali. Svegliatemi se il fondo ci regala il palazzo». || 아니, 맞은편 건물 사람들. 세티미오 씨는 열 시에 자. 그러더라. «새해를 여든세 번 봤어. 다 똑같아. 펀드가 건물을 선물로 주면 깨워라».
+FRANCO: Ottantaquattro, a aprile. Quel vecchio non dorme mai alle dieci. Vedrai che a mezzanotte scende. || 4월에 여든넷이에요. 그 영감님 절대 열 시에 안 자요. 자정에 내려오실걸요.
+LOREDANA: Scommettiamo? || 내기할래?
+FRANCO: Un mattone. Chi perde compra un mattone. || 벽돌 한 장. 지는 사람이 벽돌 한 장 사기.
+LOREDANA: Affare fatto. Sei diventato un presidente pericoloso. || 좋아. 위험한 이사장이 됐네.
+
+# 장면 2 — DAL PRONTO SOCCORSO
+> 밤 10시 반. 루카와 마테오가 들어온다. 루카는 아직 병원 신발을 신고 있다 || 밤 10시 반. 루카와 마테오가 들어온다. 루카는 아직 병원 신발을 신고 있다
+MATTEO: Buonasera! Ve lo porto io, il nostro infermiere. Direttamente dal pronto soccorso. Ancora caldo. || 안녕하세요! 우리 간호사 제가 모셔 왔어요. 응급실에서 바로. 아직 따끈따끈해요.
+LUCA: Non caldo. Distrutto. Dieci ore. Tre incidenti in motorino, due infarti, un signore che si è chiuso il dito nella portiera del frigo e una bambina che ha mangiato una pallina dell'albero. Di plastica, per fortuna. || 따끈한 게 아니라. 녹초. 열 시간. 스쿠터 사고 셋, 심근 경색 둘, 냉장고 문에 손가락 낀 아저씨 하나, 트리 장식 공 삼킨 여자애 하나. 다행히 플라스틱이었어요.
+LOREDANA: Una pallina? Come le olive di Franco? || 장식 공? 프랑코 올리브 같은 거?
+LUCA: Più piccola. È uscita. Per la strada naturale. La mamma l'ha voluta conservare. «Per l'album dei ricordi». || 더 작은 거요. 나왔어요. 자연스러운 길로. 엄마가 보관하겠대요. «추억 앨범용으로».
+FRANCO: Luca, siediti. Mangia. Lenticchie? || 루카, 앉아. 먹어. 렌틸콩?
+LUCA: Dopo mezzanotte. Adesso solo acqua. E una sedia. E non sentire nessuno che dice «botti». || 자정 지나서요. 지금은 물만. 그리고 의자. 그리고 «폭죽» 소리 하는 사람 안 듣기.
+MATTEO: Ha fatto la doccia in ospedale. Ma odora ancora di disinfettante. Io lo chiamo «il mio profumo di Amuchina». || 병원에서 샤워했는데도. 아직 소독약 냄새 나요. 전 «내 아무키나 향수»라고 불러요.
+LUCA: E lui odora di trementina. Prepara le lezioni con i colori a olio. Siamo una coppia chimica. || 그리고 쟤는 테레빈유 냄새 나요. 유화 물감으로 수업 준비하거든요. 우린 화학 커플이에요.
+FRANCO: Il bar odora di caffè e lenticchie. Stasera siete i benvenuti con tutti i vostri profumi. || 바는 커피랑 렌틸콩 냄새가 나지. 오늘 밤은 무슨 냄새든 환영이야.
+MATTEO: Ogni anno, il primo gennaio, Luca torna dal turno con una lista. Mani, occhi, orecchie. Ragazzi di quindici anni con le dita bruciate. Per un petardo comprato su internet. || 해마다 1월 1일이면 루카가 근무 마치고 목록을 들고 와요. 손, 눈, 귀. 인터넷에서 산 딱총 때문에 손가락 덴 열다섯 살 애들.
+LUCA: L'anno scorso uno ha perso due falangi. Quindici anni. Suonava la chitarra. Adesso no. Per un «Cobra». Si chiamava così il petardo. «Cobra». || 작년엔 한 애가 손가락 두 마디를 잃었어요. 열다섯 살. 기타 쳤는데. 이젠 못 쳐요. «코브라» 때문에. 그 딱총 이름이 그랬어요. «코브라».
+LOREDANA: Per questo l'ordinanza è giusta. Anche se nessuno la rispetta. || 그래서 조례가 옳은 거야. 아무도 안 지켜도.
+FRANCO: Il problema delle ordinanze a Roma è che sono come le diete. Tutti d'accordo il trentuno dicembre. Nessuno il primo gennaio. || 로마 조례의 문제는 다이어트 같다는 거예요. 12월 31일엔 다들 찬성. 1월 1일엔 아무도 안 지키고.
+MATTEO: Parliamo di cose belle. Abbiamo deciso la data. || 좋은 얘기 해요. 날짜 정했어요.
+LOREDANA: La data? Dell'unione? || 날짜? 결합식?
+LUCA: Diciassette aprile. Un sabato. In Campidoglio. Nella Sala Rossa. Abbiamo prenotato ieri. Era rimasto solo quel giorno, per la primavera. || 4월 17일. 토요일. 캄피돌리오. 붉은 방에서. 어제 예약했어요. 봄에 남은 날이 그날뿐이었어요.
+LOREDANA: Il diciassette? Di venerdì porta sfortuna. Ma di sabato... va bene. Di sabato è solo un numero. || 17일? 금요일이면 재수 없지만. 토요일이면… 괜찮아. 토요일엔 그냥 숫자지.
+MATTEO: E tre giorni prima Sor Settimio compie ottantaquattro anni. Così facciamo una settimana di feste. Testimoni: Davide per Luca. Per me... speravo la signora Loredana. Se vuole. || 그리고 사흘 전에 세티미오 영감님이 여든넷이 되세요. 그러니까 일주일 내내 잔치예요. 증인은 루카 쪽 다비데. 제 쪽은… 로레다나 씨였으면 했어요. 괜찮으시면.
+LOREDANA: Io? Testimone? Di un'unione civile? Alla mia età? || 내가? 증인? 시민 결합의? 이 나이에?
+MATTEO: Lei ci ha difesi. Al condominio. Quando quel signore del palazzo di fronte ha scritto la lettera anonima sul «decoro». Lei ha risposto con una lettera di quattro pagine. Corretta. Firmata. || 저희를 지켜 주셨잖아요. 공동 주택 회의에서. 맞은편 건물 그 아저씨가 «품위» 어쩌고 익명 편지 썼을 때. 네 쪽짜리 편지로 답하셨잖아요. 문법 정확하게. 서명까지 해서.
+LOREDANA: Quel signore non sapeva usare il congiuntivo. Era una questione di grammatica, non di principio. ... Va bene, era anche di principio. Accetto. Con un cappello. Non arancione. || 그 양반은 접속법도 못 쓰더라. 문법 문제였지, 원칙 문제가 아니었어. … 알았어, 원칙 문제이기도 했어. 할게. 모자 쓰고. 주황색 말고.
+
+# 장면 3 — IL BARATTOLO
+> 밤 11시. 로레다나가 빈 유리병과 쪽지 다발을 테이블에 놓는다 || 밤 11시. 로레다나가 빈 유리병과 쪽지 다발을 테이블에 놓는다
+LOREDANA: Allora. Il barattolo dei propositi. Ogni anno con i miei alunni facevamo così. Ognuno scrive un proposito. Lo piega. Lo mette nel barattolo. Il trentuno dicembre dell'anno dopo si apre e si legge. Chi l'ha rispettato, riceve un applauso. Chi no, paga da bere. || 자. 결심 병. 해마다 우리 반 애들이랑 이렇게 했어. 각자 결심을 하나씩 써. 접어서. 병에 넣고. 이듬해 12월 31일에 열어서 읽는 거야. 지킨 사람은 박수를 받고. 못 지킨 사람은 술을 사고.
+FRANCO: Con i bambini di dieci anni pagavano da bere? || 열 살짜리 애들이 술을 샀어요?
+LOREDANA: Pagavano la merenda. Con voi è da bere. Si scrive. Una frase. Al futuro. «Io farò...». E poi un congiuntivo, se ci riuscite. «Spero che...». || 간식을 샀지. 너희는 술이고. 써. 한 문장. 미래형으로. «나는 …할 것이다». 그리고 할 수 있으면 접속법 하나. «…하기를 바란다».
+MATTEO: Anche gli insegnanti di storia dell'arte devono usare il congiuntivo? || 미술사 선생도 접속법 써야 해요?
+LOREDANA: Soprattutto loro. Avete Caravaggio. Non avete scuse. || 특히 미술사 선생은. 카라바조가 있잖아. 핑계 없어.
+> 각자 쪽지에 무언가를 쓴다. 프랑코가 오래 고민한다 || 각자 쪽지에 무언가를 쓴다. 프랑코가 오래 고민한다
+LUCA: Io leggo il mio. Tanto non è segreto. «L'anno prossimo farò il colloquio per la Svizzera. E spero che mi dicano di no». || 제 거 읽을게요. 어차피 비밀 아니에요. «내년엔 스위스 면접을 볼 것이다. 그리고 떨어지기를 바란다».
+MATTEO: Luca! La Svizzera? Non me l'avevi detto! || 루카! 스위스? 나한테 말 안 했잖아!
+LUCA: Te lo sto dicendo adesso. A Lugano pagano un infermiere di pronto soccorso seimila franchi. Qui ne prendo milleseicento. Con le notti. Voglio fare il colloquio per sapere quanto valgo. Ma spero che mi dicano di no. Così resto senza sentirmi stupido. || 지금 말하잖아. 루가노에선 응급실 간호사한테 6천 프랑을 줘. 여기선 1600 받아. 야간 포함해서. 면접은 보고 싶어, 내가 얼마짜리인지 알고 싶으니까. 근데 떨어지길 바라. 그래야 바보 같은 기분 안 들고 남을 수 있지.
+MATTEO: ... Sei il fidanzato più complicato di Roma. || … 넌 로마에서 제일 복잡한 약혼자야.
+LUCA: Per questo mi sposi. Cioè, ci uniamo civilmente. || 그러니까 나랑 결혼하는 거지. 그러니까, 시민 결합하는 거지.
+LOREDANA: Bel congiuntivo, Luca. «Spero che mi dicano». Dieci. Matteo? || 접속법 좋아, 루카. «…하기를 바란다». 10점. 마테오?
+MATTEO: «L'anno prossimo porterò i miei studenti al Mattatoio. A vedere la mostra. E chiederò a Sor Settimio di raccontare. Perché i ragazzi capiscano che i musei erano posti dove la gente lavorava». || «내년엔 우리 학생들을 마타토이오에 데려갈 것이다. 전시 보러. 그리고 세티미오 영감님께 이야기해 달라고 부탁할 것이다. 아이들이 미술관이 원래 사람들이 일하던 곳이었다는 걸 알도록».
+LOREDANA: «Perché capiscano». Finale. Perfetto. Franco? || «…알도록». 목적절. 완벽해. 프랑코?
+FRANCO: Il mio è segreto. || 내 건 비밀이에요.
+LOREDANA: Il presidente non può avere segreti. È una carica pubblica. || 이사장은 비밀이 있으면 안 돼. 공직이잖아.
+FRANCO: Allora dico solo l'inizio. «Spero che...». Il resto lo leggiamo tra un anno. Se c'è ancora il bar. || 그럼 시작만 말할게요. «…하기를 바란다». 나머진 1년 뒤에 읽어요. 바가 아직 있으면.
+LOREDANA: Ci sarà. Il barattolo lo garantisce. || 있을 거야. 결심 병이 보증해.
+MATTEO: E il suo, signora Loredana? Il suo proposito? || 그럼 로레다나 씨 거는요? 로레다나 씨 결심은?
+LOREDANA: Il mio è facile. «Spero che Shirin passi l'esame di italiano. E che il giorno del giuramento mi inviti in Campidoglio». || 내 건 쉬워. «시린이 이탈리아어 시험에 붙기를 바란다. 그리고 선서하는 날 나를 캄피돌리오에 초대해 주기를».
+LUCA: Shirin? La mamma di Nadia? || 시린? 나디아 어머니?
+LOREDANA: Comincia il dodici gennaio. Martedì e giovedì. Qui. Al tavolo della finestra. Ho già preparato le schede. Tre mesi di verbi. Una signora di sessantaquattro anni che ha paura delle preposizioni. Il mio ultimo alunno. Forse il più importante. || 1월 12일에 시작해. 화요일이랑 목요일. 여기서. 창가 테이블에서. 학습지 벌써 만들어 놨어. 석 달 치 동사. 전치사 무서워하는 예순네 살 아주머니. 내 마지막 학생이야. 어쩌면 제일 중요한.
+FRANCO: E se non passa? || 떨어지면요?
+LOREDANA: Allora pago da bere. Ma non succederà. Io in trentacinque anni non ho mai bocciato nessuno che voleva imparare. Bocciavo solo quelli che non volevano. || 그럼 내가 술 사야지. 근데 그럴 일 없어. 35년 동안 배우고 싶어 한 애를 낙제시킨 적은 한 번도 없어. 배우기 싫어하는 애들만 떨어뜨렸지.
+MATTEO: E Castellani? Lo boccerebbe? || 그럼 카스텔라니는요? 낙제예요?
+LOREDANA: Castellani è rimandato a settembre. Con i compiti per le vacanze. Tre mesi di congiuntivo e un tema: «La casa come diritto». || 카스텔라니는 9월 재시험이야. 방학 숙제 붙여서. 석 달 접속법이랑 작문 하나. «권리로서의 집».
+LUCA: Rimandato. Come io in chimica. Al liceo. || 재시험. 저 고등학교 때 화학처럼.
+LOREDANA: Tu in chimica eri rimandato? E adesso dai le medicine alla gente? || 네가 화학 재시험이었어? 그런데 지금 사람들한테 약을 줘?
+LUCA: Per questo controllo sempre due volte. Gli ex rimandati sono i più prudenti. || 그래서 늘 두 번 확인해요. 재시험 출신이 제일 조심스러워요.
+
+# 장면 4 — IL TRENO
+> 밤 11시 25분. 프랑코의 휴대폰이 울린다. 다비데 || 밤 11시 25분. 프랑코의 휴대폰이 울린다. 다비데
+DAVIDE: Franco! Mi senti? C'è un rumore pazzesco. Sono sul treno. Siamo fermi. A Latina. || 프랑코 씨! 들려요? 엄청 시끄러워요. 기차예요. 서 있어요. 라티나에서.
+FRANCO: A Latina? Dovevi arrivare alle undici e quaranta! || 라티나? 11시 40분에 도착해야 하잖아!
+DAVIDE: Quaranta minuti di ritardo. Un guasto a Salerno. Poi un altro a Formia. Il capotreno dice che arriviamo a Termini a mezzanotte e venti. A capodanno. Sul treno. Con quattrocento calabresi che hanno già aperto lo spumante. || 40분 지연이요. 살레르노에서 고장. 그다음 포르미아에서 또. 차장이 테르미니에 0시 20분에 도착한대요. 새해에. 기차에서. 벌써 스푸만테 딴 칼라브리아 사람 사백 명이랑.
+FRANCO: Allora festeggi sul treno. Con i calabresi. È tradizione anche quella. || 그럼 기차에서 축하해. 칼라브리아 사람들이랑. 그것도 전통이야.
+DAVIDE: No! Io voglio festeggiare con voi. Al Cantone. Ho una cosa da darvi. Da parte di mia nonna. || 싫어요! 여러분이랑 축하하고 싶어요. 칸토네에서. 드릴 게 있어요. 우리 할머니가 보내신 거.
+FRANCO: Allora facciamo così. A mezzanotte ti chiamiamo. In video. Brindiamo con te. E quando arrivi, facciamo un secondo capodanno. All'una. Il capodanno di Davide. || 그럼 이렇게 하자. 자정에 전화할게. 영상으로. 너랑 같이 건배하고. 네가 오면 두 번째 새해 하는 거야. 한 시에. 다비데의 새해.
+DAVIDE: Un secondo capodanno? Si può fare? || 두 번째 새해요? 그래도 돼요?
+FRANCO: È il mio bar. Sono il presidente. Il capodanno arriva quando arrivano tutti. || 내 바야. 내가 이사장이야. 새해는 다 모였을 때 오는 거야.
+DAVIDE: Franco... ti voglio bene. Cioè, le voglio bene. Non so più se ci diamo del tu. || 프랑코 씨… 사랑해요. 그러니까, 좋아해요. 우리가 반말하는 사이인지도 모르겠어요.
+FRANCO: Dopo cinque mesi sul divano di Luca, ci diamo del tu. Corri, appena arrivi. Il quattordici notturno, poi l'otto. Lenticchie tenute in caldo. || 루카네 소파에서 다섯 달 지냈으면 반말하는 사이지. 도착하면 뛰어. 야간 14번, 그다음 8번 트램. 렌틸콩 데워 둘게.
+
+# 장면 5 — MEZZANOTTE
+> 밤 11시 59분. 바 텔레비전에서 카운트다운. 문이 열리고 세티미오가 잠옷 위에 외투를 걸치고 들어온다 || 밤 11시 59분. 바 텔레비전에서 카운트다운. 문이 열리고 세티미오가 잠옷 위에 외투를 걸치고 들어온다
+FRANCO: Loredana! Guarda chi c'è! Un mattone! Mi devi un mattone! || 로레다나! 누가 왔나 봐요! 벽돌 한 장! 나한테 벽돌 한 장 빚졌어요!
+LOREDANA: Settimio! Avevi detto le dieci! || 세티미오 씨! 열 시라더니!
+LUCA: Dieci! Nove! Otto! || 10! 9! 8!
+MATTEO: Sette! Sei! Cinque! || 7! 6! 5!
+FRANCO: Quattro! Tre! Davide, sei in video? Due! || 4! 3! 다비데, 영상 켰어? 2!
+DAVIDE: Uno! Buon anno! Buon anno dal treno! Da Latina! Siamo ancora fermi! || 1! 새해 복 많이 받아요! 기차에서 새해 인사! 라티나에서! 아직 서 있어요!
+> 바깥에서 폭죽 소리가 터진다. 조례에도 불구하고 테스타초 하늘이 붉어진다 || 바깥에서 폭죽 소리가 터진다. 조례에도 불구하고 테스타초 하늘이 붉어진다
+LOREDANA: Buon anno! Le lenticchie! Un cucchiaio a testa, subito! Prima che finisca il primo minuto! || 새해 복 많이 받아요! 렌틸콩! 한 숟가락씩, 지금! 첫 1분 끝나기 전에!
+LUCA: Buon anno, amore. || 새해 복 많이 받아, 자기야.
+MATTEO: Buon anno. Niente Svizzera. Spero che ti dicano di no. Anch'io. Al congiuntivo. || 새해 복 많이 받아. 스위스는 안 돼. 떨어지길 바라. 나도. 접속법으로.
+FRANCO: Davide, ci vedi? Ti alzo il bicchiere. Al palazzo! Al Cantone! Ai mille mattoni! || 다비데, 보여? 잔 들게. 건물을 위해! 칸토네를 위해! 천 장의 벽돌을 위해!
+DAVIDE: Al palazzo! Qui i calabresi brindano con voi. Non sanno chi siete, ma brindano. Dicono: «Auguri a Roma!». || 건물을 위해! 여기 칼라브리아 사람들도 같이 건배해요. 누군지도 모르면서. «로마에 축하를!» 그래요.
+LOREDANA: Davide, aspetta. Prima che cada la linea. Ho un regalo per te. Da parte della cooperativa. Lo dovevamo dire quando tornavi. Ma tu non torni. Allora lo dico adesso. || 다비데, 잠깐. 연결 끊기기 전에. 너한테 줄 선물이 있어. 협동조합에서. 네가 돌아오면 말하려고 했는데. 근데 안 돌아오잖아. 그래서 지금 말할게.
+DAVIDE: Un regalo? || 선물이요?
+LOREDANA: Quando la cooperativa avrà il palazzo, l'appartamento del professore, al quarto piano, va al primo della lista d'attesa. Il primo della lista sei tu. Canone concordato. Con il terrazzino. Elisa ti ha messo in lista il ventidue dicembre. Senza chiederti niente. || 협동조합이 건물을 갖게 되면, 4층 교수님 집은 대기 명단 1번한테 가. 명단 1번이 너야. 협정 사용료로. 작은 테라스 딸린 집. 엘리사가 12월 22일에 널 명단에 올렸어. 너한테 묻지도 않고.
+DAVIDE: ... Io? Una casa? Al palazzo? || … 제가요? 집을? 그 건물에?
+LOREDANA: Se vinciamo. «Se». Al congiuntivo, sarebbe «qualora vincessimo». Ma stanotte non correggo nessuno. || 우리가 이기면. «만약». 접속법으로는 «우리가 이기게 된다면»이지. 근데 오늘 밤엔 아무도 안 고칠래.
+DAVIDE: Loredana, sto piangendo su un treno fermo a Latina. Davanti a quattrocento calabresi. || 로레다나 씨, 저 라티나에 서 있는 기차에서 울고 있어요. 칼라브리아 사람 사백 명 앞에서.
+FRANCO: Dì che è il fumo dei botti. Funziona sempre. || 폭죽 연기 때문이라고 해. 늘 통해.
+
+# 장면 6 — IL SECONDO CAPODANNO
+> 새벽 1시 5분. 문이 벌컥 열린다. 다비데가 여행 가방을 끌고 숨을 몰아쉰다 || 새벽 1시 5분. 문이 벌컥 열린다. 다비데가 여행 가방을 끌고 숨을 몰아쉰다
+DAVIDE: Sono arrivato! Termini, notturno, ho perso l'otto, ho corso da Piramide! Buon anno! Di nuovo! || 왔어요! 테르미니, 야간 버스, 8번 트램 놓쳐서 피라미데부터 뛰었어요! 새해 복 많이 받아요! 다시!
+FRANCO: Il secondo capodanno! Tutti in piedi! Dieci, nove... no, facciamo solo «uno». Uno! || 두 번째 새해! 다들 일어나! 10, 9… 아니, 그냥 «1»만 하자. 1!
+LUCA: Buon anno, Davide! Benvenuto nel duemilaventisette. Siamo qui da un'ora. Non è cambiato niente. || 새해 복 많이 받아, 다비데! 2027년에 온 걸 환영해. 우린 한 시간째 여기 있어. 아무것도 안 바뀌었어.
+DAVIDE: Per me è cambiato tutto. Ho una casa. Forse. Al congiuntivo. Ma ce l'ho. || 저한텐 다 바뀌었어요. 집이 생겼어요. 아마도. 접속법으로. 근데 생겼어요.
+MATTEO: E il regalo di tua nonna? || 그럼 할머니 선물은?
+DAVIDE: Ecco. Mia nonna ha fatto a mano... sei paia di mutande rosse. Di lana. Una per ognuno. Ha detto: «Per i tuoi amici di Roma. Così il fondo non li trova». || 여기요. 우리 할머니가 손으로 만드셨어요… 빨간 속옷 여섯 벌. 털실로. 한 사람에 하나씩. «로마 친구들한테. 그래야 펀드가 못 찾지» 그러셨어요.
+LOREDANA: Mutande rosse di lana. Fatte a mano. Da una signora di novantun anni di Reggio Calabria. Per me. ... È il regalo più bello che ho ricevuto da quando è morto Gianni. || 털실로 짠 빨간 속옷. 손으로 만든. 레조칼라브리아의 아흔한 살 할머니가. 나를 위해. … 잔니가 떠난 뒤 받은 선물 중에 제일 좋은 선물이야.
+FRANCO: Io la metto domani. Sopra i pantaloni. Al bar. Così Castellani capisce che non scherziamo. || 난 내일 입을래요. 바지 위에. 바에서. 그래야 카스텔라니가 우리가 장난 아닌 걸 알지.
+> 창가 자리에서 세티미오가 말없이 털실 속옷을 잠옷 위에 껴입는다 || 창가 자리에서 세티미오가 말없이 털실 속옷을 잠옷 위에 껴입는다
+DAVIDE: Sor Settimio è sveglio? All'una? Non doveva dormire alle dieci? || 세티미오 영감님 깨어 계세요? 한 시에? 열 시에 주무신다더니?
+FRANCO: È sceso a mezzanotte. Per far perdere un mattone a Loredana. Lei aveva scommesso che dormiva. Lui scommette sempre contro chi scommette su di lui. Me l'ha detto all'orecchio. || 자정에 내려오셨어. 로레다나 씨가 벽돌 한 장 잃게 하려고. 로레다나 씨가 주무신다는 데 걸었거든. 영감님은 자기한테 거는 사람 반대편에 늘 거셔. 귓속말로 그러시더라.
+LOREDANA: Ma come faceva a sapere della scommessa? Eravamo solo noi due, in cucina! || 근데 내기를 어떻게 아셨대? 부엌에 우리 둘뿐이었는데!
+FRANCO: In questo palazzo... || 이 건물에선…
+DAVIDE: ...nessuno sa niente! Lo so! L'ho imparato sul divano! Buon anno a tutti! || …아무도 아무것도 몰라요! 알아요! 소파에서 배웠어요! 다들 새해 복 많이 받아요!
+
+# 장면 7 — SUL TETTO
+> 새벽 1시 반. 옥상. 다비데와 프랑코. 멀리 치르코 마시모 쪽 하늘에 불꽃. 빨간 털실 속옷이 프랑코 어깨에 목도리처럼 걸려 있다 || 새벽 1시 반. 옥상. 다비데와 프랑코. 멀리 치르코 마시모 쪽 하늘에 불꽃. 빨간 털실 속옷이 프랑코 어깨에 목도리처럼 걸려 있다
+DAVIDE: Franco, posso chiederti una cosa? Il tuo proposito. Quello segreto. Cosa hai scritto? || 프랑코 씨, 하나 물어봐도 돼요? 결심. 비밀인 거. 뭐라고 썼어요?
+FRANCO: Non te lo dico. È segreto. || 안 알려 줘. 비밀이야.
+DAVIDE: Neanche un pezzo? || 조금도 안 돼요?
+FRANCO: ... «Spero che Anna, da dove sta, veda il palazzo salvato. E se non lo salviamo, spero che veda che ci abbiamo provato. Tutti insieme. Anche quello che dorme sul divano». || … «안나가 있는 곳에서 지켜 낸 건물을 보기를 바란다. 그리고 못 지켜 내면, 우리가 시도했다는 걸 보기를 바란다. 다 같이. 소파에서 자는 그 녀석까지».
+DAVIDE: Quello che dorme sul divano. Ero io. || 소파에서 자는 그 녀석. 저였네요.
+FRANCO: Eri tu. Adesso hai due finestre. E forse un terrazzino. Il divano è libero. È arrivato Matteo, al posto tuo. Lui russa meno. || 너였지. 이젠 창문이 두 개 있고. 어쩌면 작은 테라스도. 소파는 비었어. 네 자리에 마테오가 왔고. 걔는 코를 덜 골아.
+DAVIDE: Io non russavo! || 전 코 안 골았어요!
+FRANCO: Luca dice di sì. Come un trattore. Anzi, no. Luca russa come un trattore. Tu come un motorino. Come quello di Settimio. Prima di Simone. || 루카는 골았다던데. 트랙터처럼. 아니다. 트랙터는 루카고. 넌 스쿠터처럼. 세티미오 영감님 스쿠터처럼. 시모네가 고치기 전.
+DAVIDE: Franco... grazie. Per il primo cappuccino. A marzo. Quando avevo cinquantadue euro sul conto e dormivo su un divano rotto. || 프랑코 씨… 고마워요. 첫 카푸치노. 3월에. 통장에 52유로 있고 부서진 소파에서 자던 때.
+FRANCO: Il primo cappuccino non si paga mai. È la regola del bar. Il secondo sì. Ne hai presi quattrocento. Ho tutto sul conto. || 첫 카푸치노는 원래 돈 안 받아. 바 규칙이야. 두 번째부턴 받지. 너 사백 잔 마셨어. 장부에 다 있다.
+DAVIDE: Quattrocento? Davvero? || 사백 잔이요? 진짜요?
+FRANCO: No. Duecentosette. Ma quattrocento suona meglio. Buon anno, Davide. Anno nuovo, palazzo nuovo. Forse. Al congiuntivo. || 아니. 이백칠 잔. 근데 사백이 더 듣기 좋잖아. 새해 복 많이 받아, 다비데. 새해, 새 건물. 아마도. 접속법으로.
+DAVIDE: «Al congiuntivo». Ormai lo dite tutti. || «접속법으로». 이젠 다들 그 말 하네요.
+FRANCO: È colpa di Loredana. In questo palazzo il congiuntivo è contagioso. Come l'influenza a gennaio. || 로레다나 씨 탓이야. 이 건물에선 접속법이 전염돼. 1월 독감처럼.
+DAVIDE: Allora speriamo che sia un'epidemia. Che contagi anche Milano. E il fondo. || 그럼 전염병이 되기를 바라요. 밀라노까지 옮기를. 그리고 펀드까지.
+
+@points
+- 미래형으로 결심 말하기: «L'anno prossimo farò...», «porterò», «chiederò». 희망은 접속법: «Spero che mi dicano di no», «Spero che Anna... veda». 목적절: «perché i ragazzi capiscano».
+- 가정 표현의 격: «Se vinciamo»(구어) → «qualora vincessimo»(격식, 접속법 반과거). 로레다나의 교정 장면으로 대비.
+- 새해 인사: «Buon anno!», «Auguri!», «Al palazzo!»(건배사 'A + 명사').
+- 카운트다운: «Dieci! Nove! Otto!...» — 여러 화자가 이어 받아 리듬을 만든다.
+- 비교·비유: «Come le diete. Tutti d'accordo il trentuno dicembre. Nessuno il primo gennaio».
+- tu/Lei의 경계: «ti voglio bene. Cioè, le voglio bene. Non so più se ci diamo del tu».
+- 이중자음: «lenticchie»[kkj], «cotechino»(홑), «botti»[tt], «petardi»(홑), «barattolo»[rr]가 아니라 «barattolo»[tt], «mutande»(홑), «spumante»(홑).
+
+@notes
+- 'Capodanno' 새해 첫날/전야. 자정 'lenticchie e cotechino'(렌틸콩 = 동전, 부의 상징), 'mutande rosse' 빨간 속옷(행운). 예전 로마엔 창밖으로 헌 물건을 던지는 풍습이 있었으나 지금은 금지·위험 행위.
+- 'ordinanza anti-botti' 로마시는 최근 여러 해 새해 전후 폭죽·딱총 사용을 금지하는 조례를 냈다(벌금 부과). 응급실엔 해마다 폭죽 부상자가 온다. ※ 세부는 시점별 확인.
+- 'unione civile' 동성 커플 시민 결합(2016년 법) — 캄피돌리오 'Sala Rossa' 등에서 거행.
+- 'barattolo dei propositi' 결심 병. 'proposito' 새해 결심.
+- 'Lugano' 스위스 이탈리아어권 도시 — 이탈리아 의료 인력의 스위스 유출은 사회 문제다.
+- 'Intercity Notte' 남부와 로마를 잇는 야간 열차. 'notturno' 야간 버스(N 노선).
+- 'Caravaggio' — 미술사 교사가 접속법을 써야 하는 이유(로레다나 농담).
+
+@next
+4부 63화 — «La Befana a Piazza Navona»(나보나 광장의 베파나) — 1월 6일 수요일. 빗자루 탄 할머니, 양말 속 사탕과 석탄. 사미르와 사촌 꼬마들, 로레다나, 시모네가 나보나 광장의 마지막 축제에 간다. 사미르의 양말에서 나온 '석탄 사탕', 그리고 그 밑의 쪽지.
