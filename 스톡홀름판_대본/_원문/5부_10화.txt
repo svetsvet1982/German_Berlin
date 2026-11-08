@@ -1,0 +1,270 @@
+PART: 5
+EP: 10
+TITLE: Tillträdet
+SUBTITLE: 인수일 · 집 10, 카페 Biggans
+META: 대사 120턴 · 난이도 B2 · 배경: 12월 7일 화요일 오전과 12월 10일 금요일 저녁, 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 · 협동조합 법률 자문
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 · 협동조합 재무 담당
+CAST: ANTON | 전략 컨설턴트 · 협동조합 이사장
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: CHYDENIUS | 부활한 목사·정치가 (1729–1803)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: NOEL | 17세 · 제빵 견습생 예정 (가상)
+CAST: ULLA-BRITT | 5층 조합원 · 82세 (가상)
+CAST: STAFFAN | 주택조합 이사장 (가상)
+CAST: SVEN | 협동조합 은행 상담 담당 (가상, 전화)
+NOTE: ※ 부동산을 사고팔 때는 매매 계약서(köpekontrakt)에 서명하고, 정해진 날 대금을 치르고 소유권을 넘겨받습니다. 이날을 인수일(tillträde)이라고 합니다. 그 뒤 새 주인은 국토측량청(Lantmäteriet)에 등기(lagfart)를 신청합니다. 건물 한 채 안의 일부 공간만 따로 소유하려면 ‘3차원 부동산(3D-fastighet)’이라는 제도를 쓸 수 있는데, 위아래로 나뉜 공간을 별개의 부동산으로 등록하는 스웨덴의 방식입니다. 1부 12화에서 사무소는 ‘해서는 안 될 서명’을 찾아냈습니다. 이번 화는 그 짝이 되는 ‘해야 할 서명’입니다. 문법 초점: 계약서 문체(köparen förbinder sig att, säljaren ansvarar för)와 서명의 의미. 표현 초점: köpekontrakt, tillträde, lagfart, skriva under, äntligen.
+
+# 도입 — TISDAG: SVENS SAMTAL
+MAJA: Tisdag. Klockan tio. Sven sa att han skulle ringa klockan tio.
+= 화요일. 열 시. 스벤이 열 시에 전화한다고 했어.
+ANTON: Klockan är tio och två.
+= 열 시 이 분이야.
+MAJA: Det är bankernas tidszon. Tio och två är tio.
+= 은행 시간대야. 열 시 이 분은 열 시야.
+BIGGAN: Noel. Du har mjöl i håret.
+= 노엘. 머리에 밀가루 묻었어.
+NOEL: Jag har bakat sedan fyra. Fem morgnar i rad. Jag har lärt mig kardemumman.
+= 네 시부터 구웠어요. 다섯 날 연속 아침에. 카다몸 배웠어요.
+BIGGAN: Han har lärt sig. Han fuskar som Leif. Exakt lika mycket.
+= 배웠지. 레이프처럼 반칙해. 정확히 똑같이.
+ELSA: Och skolan?
+= 그럼 학교는?
+NOEL: Jag har somnat i två lektioner. Men läraren i svenska sa att det var för en god sak.
+= 수업 두 개에서 졸았어요. 근데 스웨덴어 선생님이 좋은 일 때문이니까 괜찮대요.
+MAJA: Telefonen. Det är Sven.
+= 전화. 스벤이야.
+SVEN: Hej Maja. Kreditkommittén hade möte i går. Jag har svaret.
+= 안녕하세요, 마야. 신용위원회가 어제 회의했어요. 답이 나왔어요.
+MAJA: Säg det. Utan inledning.
+= 말해 줘요. 서론 없이.
+SVEN: Ja. Lånet är beviljat. En komma fem miljoner. Med de tre villkoren.
+= 네. 대출 승인됐어요. 150만. 세 가지 조건으로.
+ELSA: JA!
+= 됐다!
+SVEN: Och ett fjärde. Som kommittén lade till.
+= 그리고 하나 더. 위원회가 추가한 거요.
+JOHAN: Vilket?
+= 뭔데요?
+SVEN: Att kommittén får komma och fika när kaféet har tagits över. Alla sju. Det är första gången de har lagt till ett sådant villkor.
+= 카페 인수 뒤에 위원회가 피카하러 와도 된다는 거요. 일곱 명 전부. 그런 조건을 추가한 건 처음이에요.
+BIGGAN: Det villkoret godkänner jag. Skriftligt.
+= 그 조건은 승인하지. 서면으로.
+INGRID: Sven. Tack.
+= 스벤. 고마워요.
+SVEN: Tacka Noel. Det var successionsplanen som avgjorde. Kommittén läste den och en av dem sa: ”Det här är första gången jag har sett en affärsplan med kardemumma i.”
+= 노엘한테 고마워하세요. 승계 계획이 결정적이었어요. 위원회가 그걸 읽고 한 명이 이러더군요: ‘카다몸이 들어간 사업 계획서는 처음 본다.’
+NOEL: Jag skrev in kardemumman?
+= 제가 카다몸을 넣었어요?
+MAJA: Jag skrev in den. Som en ”kritisk kompetens”.
+= 내가 넣었어. ‘핵심 역량’으로.
+ANTON: Kritisk kompetens. Det är nästan konsultspråk, Maja.
+= 핵심 역량. 그거 거의 컨설턴트 말투야, 마야.
+MAJA: Jag lär mig av fienden.
+= 적한테서 배우는 거지.
+DANIEL: Och nu? Vad händer nu?
+= 그럼 이제? 이제 어떻게 돼?
+JOHAN: Nu skriver vi kontraktet. På fredag. Staffan kommer med papperen.
+= 이제 계약서에 서명하지. 금요일에. 스타판이 서류를 가져와.
+
+# 장면 1 — KÖPEKONTRAKTET
+BIGGAN: Fredag. Klockan sex. Och för första gången på trettiofem år är kaféet stängt en fredag kväll. För ett möte.
+= 금요일. 여섯 시. 그리고 35년 만에 처음으로 금요일 저녁에 카페 문을 닫았어. 회의 때문에.
+STAFFAN: Jag har tagit med köpekontraktet. Från föreningens advokat. Trettiofyra sidor.
+= 매매 계약서 가져왔어요. 조합 변호사한테서. 서른네 쪽.
+ELSA: Trettiofyra sidor för ett kafé.
+= 카페 하나에 서른네 쪽.
+JOHAN: För två lokaler i ett hus. Det är ovanligt. Lokalerna måste bli en egen fastighet först. Lantmäteriet bildar en 3D-fastighet.
+= 건물 하나 안의 상가 두 곳이니까. 흔치 않은 일이야. 상가가 먼저 별개의 부동산이 돼야 해. 국토측량청이 3차원 부동산을 만들어.
+ELSA: Ursäkta, en 3D-fastighet? Som en film?
+= 실례지만, 3차원 부동산이요? 영화처럼요?
+JOHAN: En fastighet som inte bara har en yta på marken, utan också en höjd. Bottenvåningen och första våningen blir en egen fastighet. Huset ovanför är föreningens.
+= 땅 위의 면적만이 아니라 높이도 가진 부동산이야. 1층이랑 2층이 별개의 부동산이 되는 거지. 그 위의 건물은 조합 거고.
+OXENSTIERNA: En fastighet i luften. I mitt rike ägde man jorden. Inte luften.
+= 공중의 부동산이라. 내 왕국에선 땅을 소유했지. 공기가 아니라.
+CHYDENIUS: Och nu äger folket luften också. Det är framsteg.
+= 그리고 이제 백성이 공기도 소유하는군. 그게 진보요.
+ANTON: Det tog Lantmäteriet tre veckor. Johan ansökte i oktober. Direkt efter stämman.
+= 국토측량청이 3주 걸렸어. 요한이 10월에 신청했지. 총회 끝나자마자.
+JOHAN: Ett steg i taget. Men man kan ta två steg samtidigt om man vet vart man ska.
+= 한 걸음씩. 근데 어디로 갈지 알면 두 걸음을 동시에 갈 수도 있지.
+ELSA: Vem skriver under? För kaféet?
+= 누가 서명해요? 카페 쪽에서?
+ANTON: Föreningens styrelse. Jag är ordförande. Maja är kassör. Och två till: Sara och Fadumo.
+= 협동조합 이사회. 내가 이사장이야. 마야는 회계. 그리고 두 명 더: 사라랑 파두모.
+ELSA: Anton är ordförande? Sedan när?
+= 안톤이 이사장이에요? 언제부터요?
+ANTON: Sedan föreningsstämman i november. Jag fick fyrahundra röster. Fler än någon annan.
+= 11월 조합 총회부터. 사백 표 받았어. 누구보다 많이.
+MAJA: För att han lovade att aldrig säga ”synergier” i en styrelse igen.
+= 이사회에서 다시는 ‘시너지’라는 말을 안 하겠다고 약속했거든.
+BIGGAN: Och jag? Jag är inte med i styrelsen?
+= 그럼 나는? 난 이사회에 없어?
+JOHAN: Du är hyresgästen. Du hyr kaféet av föreningen. Om du satt i styrelsen, skulle du förhandla med dig själv om hyran.
+= 비간은 임차인이에요. 협동조합한테서 카페를 빌리는 거죠. 이사회에 있으면, 임대료를 자기 자신이랑 협상하게 되잖아요.
+ELSA: Jäv!
+= 이해충돌!
+JOHAN: Jäv. Det ordet följer oss verkligen.
+= 이해충돌. 그 단어가 정말 우리를 따라다니네.
+ULLA-BRITT: Och hyran? Vad betalar Birgitta nu?
+= 그럼 임대료는? 비르기타는 이제 얼마 내?
+MAJA: Samma som förut. Fast nu går den till föreningen. Och föreningen betalar banken. Och banken ägs av oss. Det är en cirkel.
+= 전과 같아요. 다만 이제 협동조합으로 가죠. 그리고 협동조합이 은행에 갚고. 그리고 은행은 우리가 소유하고. 동그라미예요.
+ELSA: En god cirkel. Inte som Ioanas.
+= 좋은 동그라미. 요아나 씨 것 같은 거 말고.
+INGRID: Ioanas cirkel var en pyramid. Den här är en ring.
+= 요아나의 동그라미는 피라미드였죠. 이건 고리예요.
+
+# 장면 2 — TRETTIOFYRA SIDOR
+MAJA: Innan någon skriver under: jag läser. Alla trettiofyra sidorna. Högt. Det är min regel.
+= 누가 서명하기 전에: 내가 읽을 거야. 서른네 쪽 전부. 소리 내서. 그게 내 규칙이야.
+STAFFAN: Alla? Det tar två timmar.
+= 전부요? 두 시간 걸려요.
+BIGGAN: Vi har tid. Jag har bakat.
+= 시간 있어. 빵 구워 놨어.
+MAJA: Paragraf ett. ”Säljaren, Bostadsrättsföreningen Skånegatan, säljer och köparen, Ekonomiska föreningen Biggans, köper fastigheten Katarina 3:17, 3D-utrymme 1.”
+= 1조. ‘매도인 스코네가탄 주택조합은 매도하고, 매수인 경제 협동조합 비간스는 매수한다, 카타리나 3:17 부동산, 3차원 공간 1.’
+ELSA: Katarina. Som Shirins hus. Katarina 4:12.
+= 카타리나. 쉬린 씨 집처럼요. 카타리나 4:12.
+JOHAN: Samma församling. Hela den här delen av Söder heter Katarina i fastighetsregistret.
+= 같은 교구야. 쇠데르의 이 지역 전체가 부동산 등기부에선 카타리나라고 불려.
+MAJA: Paragraf två. ”Köpeskillingen är tio miljoner kronor.” Tio. Inte nio. Malin höll sitt löfte. Och höjde efter stämman.
+= 2조. ‘매매 대금은 1,000만 크로나.’ 1,000. 900이 아니라. 말린은 약속을 지켰지. 그리고 총회 뒤에 올렸고.
+STAFFAN: Och vi följde stadgarna. Samma villkor. Tio.
+= 그리고 우린 정관을 따랐어요. 같은 조건. 1,000.
+MAJA: Paragraf fem. ”Tillträde sker den trettonde december 2027.”
+= 5조. ‘인수는 2027년 12월 13일에 이뤄진다.’
+ELSA: Den trettonde december! Lucia!
+= 12월 13일! 루시아!
+ANTON: Det var Staffans idé.
+= 스타판 생각이었어.
+STAFFAN: Kaféet öppnade en oktoberdag mitt i en kris. Det borde bli föreningens på en dag när ljuset kommer.
+= 카페는 위기 한복판의 10월 어느 날 문을 열었잖아요. 빛이 오는 날 조합의 것이 돼야 한다고 생각했어요.
+BIGGAN: Staffan. Du har blivit poet. Som Anton.
+= 스타판. 시인이 됐네. 안톤처럼.
+STAFFAN: Det smittar i det här huset.
+= 이 건물에선 그게 옮아요.
+MAJA: Paragraf nio. ”Köparen förbinder sig att bedriva kaféverksamhet i lokalen så länge föreningen äger den.”
+= 9조. ‘매수인은 조합이 상가를 소유하는 한 그 공간에서 카페 사업을 운영할 것을 약정한다.’
+ELSA: Står det verkligen så? Att det måste vara ett kafé?
+= 정말 그렇게 적혀 있어요? 반드시 카페여야 한다고?
+JOHAN: Det var Bertils krav. Han sa att om han hade röstat emot, ville han åtminstone vara säker på att det blev kaffe.
+= 베르틸 씨 요구였어. 반대표를 던졌으니, 적어도 커피는 확실히 나오게 하고 싶다고.
+ULLA-BRITT: Bertil har köpt en kanelbulle varje torsdag i trettiotre år. Han är inte dum.
+= 베르틸은 33년 동안 목요일마다 시나몬번을 사 갔어. 바보가 아니지.
+MAJA: Paragraf fjorton. Säljarens garantier. Paragraf femton. Fel i fastigheten. Paragraf sexton… Det står att stammarna i lokalen är från 1926 och ska bytas av föreningen.
+= 14조. 매도인의 보증. 15조. 부동산의 하자. 16조… 상가 배관은 1926년 거고 조합이 교체한다고 적혀 있어.
+STAFFAN: Med Farids firma. I februari.
+= 파리드 회사가. 2월에.
+MAJA: Paragraf tjugoåtta. Underskrifter.
+= 28조. 서명.
+ELSA: Du har läst allt. På en timme och fyrtio minuter.
+= 다 읽으셨어요. 1시간 40분 만에.
+MAJA: Jag har kontrollerat varje siffra. Det finns inget fel. Inget hål. Inget ”det var lagligt då”.
+= 숫자 하나하나 확인했어. 오류 없어. 구멍 없어. ‘그땐 합법이었다’ 같은 거 없어.
+
+# 절정 — UNDERSKRIFTEN
+JOHAN: Säljaren först. Staffan.
+= 매도인 먼저. 스타판.
+STAFFAN: Staffan Berglund. För Bostadsrättsföreningen Skånegatan. Och Lena Ahlqvist. Styrelseledamot.
+= 스타판 베리룬드. 스코네가탄 주택조합을 대리하여. 그리고 레나 알크비스트. 이사.
+ELSA: Två underskrifter. Datum: tionde december 2027.
+= 서명 둘. 날짜: 2027년 12월 10일.
+JOHAN: Och köparen. Anton.
+= 그리고 매수인. 안톤.
+ANTON: Anton Wiklund. Ordförande. Ekonomiska föreningen Biggans.
+= 안톤 비클룬드. 이사장. 경제 협동조합 비간스.
+ELSA: Han skriver hela namnet. Inte bara en krumelur.
+= 이름을 다 쓰네요. 휘갈긴 사인이 아니라.
+ANTON: Mina händer skakar igen.
+= 손이 또 떨려.
+ELSA: Räkna fingrarna.
+= 손가락 세어 봐요.
+ANTON: Fem. Äkta.
+= 다섯. 진짜.
+JOHAN: Och den andra firmatecknaren. Maja.
+= 그리고 두 번째 서명권자. 마야.
+MAJA: …
+= ……
+DANIEL: Maja?
+= 마야?
+MAJA: Jag har skrivit under på ett papper som jag inte borde ha skrivit under. 2019. Revisionsberättelsen. Utan anmärkning.
+= 서명하지 말았어야 할 종이에 서명한 적이 있어. 2019년. 감사보고서. 지적 없이.
+INGRID: Jag vet. Jag var där. I telefonen.
+= 알아요. 내가 거기 있었잖아요. 전화로.
+MAJA: Och jag har aldrig skrivit under något sedan dess utan att läsa det fyra gånger.
+= 그리고 그 뒤로는 네 번 읽지 않고는 아무것도 서명한 적이 없어.
+BIGGAN: Hur många gånger har du läst det här?
+= 이건 몇 번 읽었어?
+MAJA: Fem. Fyra hemma. En högt i kväll.
+= 다섯 번. 집에서 네 번. 오늘 밤 소리 내서 한 번.
+CHYDENIUS: Då är det ett papper du har rätt att skriva under.
+= 그럼 그건 당신이 서명할 권리가 있는 종이요.
+MAJA: Maja Holm. Kassör. Ekonomiska föreningen Biggans.
+= 마야 홀름. 회계. 경제 협동조합 비간스.
+ELSA: …
+= ……
+JOHAN: Det är klart. Det är underskrivet.
+= 끝났어. 서명됐어.
+OXENSTIERNA: En god underskrift. Efter en dålig. Det är så man bygger ett rike. Jag har skrivit under freder som var sämre.
+= 나쁜 서명 다음의 좋은 서명이라. 왕국은 그렇게 세우는 거지. 난 이보다 못한 평화 조약에도 서명했네.
+INGRID: Maja. Det var den vackraste underskriften jag har sett. Och jag har sett tusentals.
+= 마야. 내가 본 서명 중에 가장 아름다운 서명이었어요. 그리고 난 수천 개를 봤죠.
+MAJA: Den var inte vacker. Min handstil är dålig.
+= 아름답지 않았어요. 내 글씨 엉망이에요.
+INGRID: Den var vacker för att du läste först.
+= 먼저 읽었으니까 아름다운 거예요.
+NOEL: Biggan. Gråter du?
+= 비간. 울어요?
+BIGGAN: Det är mjölet. Det kommer i ögonen.
+= 밀가루 때문이야. 눈에 들어갔어.
+NOEL: Vi har inte bakat på tre timmar.
+= 세 시간 동안 안 구웠잖아요.
+BIGGAN: Mjöl stannar länge.
+= 밀가루는 오래 남아.
+
+# 마무리 — ETT BREV FRÅN ANSTALTEN
+ELSA: Det har kommit ett brev. Till mig. Från… anstalten.
+= 편지가 왔어요. 저한테. 교정 시설에서….
+JOHAN: Pappa?
+= 아버지?
+ELSA: Han har svarat på mina fredagslappar. Alla fyra.
+= 제 금요일 쪽지에 답장하셨어요. 네 개 전부.
+DANIEL: Läs.
+= 읽어 봐.
+ELSA: ”Kära praktikanten som frågar för mycket. Tack för lapparna. De är skrivna på bättre svenska än alla mina yttranden på fyrtiofem år.”
+= ‘질문이 너무 많은 인턴에게. 쪽지 고맙다. 내가 45년 동안 쓴 모든 의견서보다 나은 스웨덴어로 쓰였더구나.’
+BIGGAN: Bättre svenska. Det säger han nu. Efter fyrtiofem år.
+= 더 나은 스웨덴어라. 이제야 그런 말을 하네. 45년 만에.
+ELSA: ”Jag har läst att föreningen ska ta över kaféet. Om ni behöver någon som läser köpekontraktet en gång till, har jag gott om tid. Fast jag är inte längre advokat.”
+= ‘협동조합이 카페를 인수한다고 읽었다. 매매 계약서를 한 번 더 읽어 줄 사람이 필요하면, 나한텐 시간이 많다. 비록 이제 변호사는 아니지만.’
+MAJA: Jag har redan läst det fem gånger.
+= 이미 다섯 번 읽었어요.
+ELSA: ”Och säg till Johan att jag har övat grodorna. I tvättstugan. Här har de också en tvättstuga. Jag har förstått att det är där allt viktigt händer.”
+= ‘그리고 요한한테 전해 다오. 개구리 춤 연습했다고. 세탁실에서. 여기도 세탁실이 있거든. 중요한 일은 다 거기서 일어난다는 걸 알게 됐다.’
+JOHAN: Han har lärt sig av Strindberg. Utan att träffa honom.
+= 스트린드베리한테 배우셨네. 만나지도 않고.
+ELSA: ”PS. Kudden fick jag ta med. Jag frågade. Det är en regel.”
+= ‘추신. 베개는 가져가도 된다더구나. 물어봤다. 그게 규칙이니까.’
+BIGGAN: Han frågade!
+= 물어봤대!
+ULLA-BRITT: Birgitta. Den trettonde december. Lucia. Vad gör vi den dagen?
+= 비르기타. 12월 13일. 루시아. 그날 우리 뭐 해?
+BIGGAN: Vi öppnar kaféet. Som vanligt. Klockan sju.
+= 카페 문 열지. 평소처럼. 일곱 시에.
+ELSA: Som vanligt?
+= 평소처럼요?
+BIGGAN: Som vanligt. Fast för första gången är det ert. Allas. Tvåtusenåttiotvå personers. Och Miras.
+= 평소처럼. 다만 처음으로 그건 너희 거야. 모두의 것. 2,082명의 것. 그리고 미라의 것.
+NOEL: Och Lupas.
+= 그리고 루파의 것.
+BIGGAN: Och Lupas.
+= 그리고 루파의 것.
+ELSA: Räkna dagarna. Tre dagar kvar.
+= 날짜를 세어 봐요. 사흘 남았어요.
+DANIEL: Ett steg i taget, Elsa.
+= 한 걸음씩, 엘사.
+NEXT: 5부 11화 — «De som gick»(떠난 사람들) — 첫눈이 내린다. 인수일을 앞두고, 되살아난 인물들이 한 명씩 작별 같은 인사를 남긴다. 그들이 정말 떠나는지는 끝내 모호하게 남는다.
