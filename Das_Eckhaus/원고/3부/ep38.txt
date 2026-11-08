@@ -1,0 +1,151 @@
+#nr: 38
+#part: 3부 Herbst (가을)
+#title: Wahlsonntag
+#ko: 선거일 · 첫 투표, 투표 못 하는 할아버지, 그리고 크나이페 토론
+#level: B1~B2
+#setting: 9월 20일 일요일, 베를린 주의회와 구의회 선거일(등장하는 후보와 정당은 모두 허구이며, 실제 결과는 다루지 않는다). 투표소는 레아가 일하는 로이터플라츠 초등학교. 열여덟 살 핀은 생애 첫 투표를 하고, 레만 씨는 투표 사무원으로 일한다. 49년째 베를린에 살면서도 독일 국적이 없어 투표할 수 없는 휘세인이 손자 잔과 함께 투표소 앞까지 온다. 점심때 크나이페에서는 공약 토론이 벌어진다. 표현 초점: 정치 어휘, 공약과 토론 화법, 의견 대립 다루기.
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Finn | 핀 로렌츠 · 18세, 첫 투표
+#cast: Frau Lehmann | 카트야 레만 · 52세, 투표 사무원
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Hüseyin | 휘세인 이을드즈 · 65세, 튀르키예 국적
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Derya | 데르야 이을드즈 · 40세, 독일·튀르키예 이중국적
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Tobi | 토비 피셔 · 31세
+#read: 정치 단어의 강세: WAHL-lo-kal, STIMM-zet-tel, ERST-stim-me, ZWEIT-stim-me, Ab-ge-ORD-ne-ten-haus.
+#read: 공약을 흉내 내는 말투: „Wir werden …! Wir sorgen dafür, dass …!" — 연설처럼 높고 크게. 이어지는 반박 „Das sagen sie jedes Mal." — 낮고 건조하게.
+#read: 토론의 연결어: „Einerseits …", „Das mag sein, aber …", „Lass mich bitte ausreden." — 상대의 말을 받을 때 짧게 끊었다가 이어 간다.
+#read: wählen [ˈvɛːlən] / die Wahl [vaːl] / der Wähler — ä와 a의 차이를 분명히.
+#note: 선거 어휘: die Wahl / wählen gehen / das Wahllokal(투표소) / der Stimmzettel(투표용지) / die Wahlbenachrichtigung(선거 안내문) / die Briefwahl(우편 투표) / die Wahlkabine(기표소) / der Wahlhelfer(투표 사무원) / die Hochrechnung(예측 집계) / das Wahlrecht.
+#note: 베를린 선거: 주의회(Abgeordnetenhaus)는 1인 2표 — Erststimme(지역구 후보), Zweitstimme(정당). 같은 날 구의회(BVV)도 뽑는다. 구의회 선거는 16세부터 투표할 수 있고, EU 시민도 참여할 수 있다. EU 밖 국적자는 오래 살아도 투표권이 없다.
+#note: 공약 화법: Wir versprechen, … / Wir werden dafür sorgen, dass … / Mit uns wird es … geben. 반박: Das ist leicht gesagt. / Wie wollen Sie das bezahlen? / Das haben sie schon letztes Mal versprochen. / Das ist populistisch.
+#note: 의견 대립 다루기: Wir sind da anderer Meinung, und das ist okay. / Ich respektiere deine Meinung, aber … / Lass uns sachlich bleiben. — 독일 가정과 크나이페에서는 정치 토론이 흔하지만 '인신공격은 하지 않는다'가 불문율이다.
+#note: Einbürgerung = 귀화. 2024년 국적법 개정으로 이중국적이 허용되고 거주 요건이 5년으로 줄었다. 1세대 가스트아르바이터에게는 독일어 시험이 구두 능력 확인으로 완화되었다.
+## Die erste Wahl | 첫 투표
+Bine: Finn! Bist du wach? Es ist neun Uhr. Die Wahllokale sind seit acht offen. || 핀! 일어났어? 아홉 시야. 투표소는 여덟 시부터 열려 있어.
+Finn: Mama, die Wahllokale sind bis achtzehn Uhr offen. Ich habe noch neun Stunden. || 엄마, 투표소는 열여덟 시까지 열려. 아직 아홉 시간이나 남았어.
+Bine: Ich weiß. Aber das ist deine erste Wahl. Für das Abgeordnetenhaus. Ich bin aufgeregter als du. || 알아. 근데 네 첫 투표잖아. 주의회 선거. 엄마가 너보다 더 떨려.
+Finn: Ich habe schon bei der Bezirkswahl vor zwei Jahren … nein, Moment. Das war die Europawahl. Mit sechzehn. || 나 이 년 전에 구의회 선거 때 벌써… 아니, 잠깐. 그건 유럽 의회 선거였다. 열여섯 살 때.
+Bine: Siehst du? Du weißt nicht mal, was du gewählt hast. Hast du die Wahlbenachrichtigung? Und deinen Ausweis? || 거봐. 뭘 뽑았는지도 모르잖아. 선거 안내문 있어? 신분증은?
+Finn: Hier. Beides. Und ich weiß, wen ich wähle. Ich habe den Wahl-O-Mat gemacht. Dreimal. || 여기. 둘 다 있어. 그리고 누구 뽑을지 알아. 투표 도우미 앱도 해 봤어. 세 번이나.
+Bine: Und? Was kam raus? || 그래서? 뭐가 나왔어?
+Finn: Das sage ich nicht. Die Wahl ist geheim. Das hast du mir beigebracht. || 그건 말 안 해. 투표는 비밀이잖아. 엄마가 가르쳐 줬잖아.
+Bine: Ich bin deine Mutter! || 나 네 엄마야!
+Finn: Auch vor Müttern. Steht im Grundgesetz. Glaube ich. || 엄마 앞에서도. 기본법에 나와 있어. 아마도.
+Bine: Okay. Geheim. Gut. Aber du gehst. Das ist das Wichtigste. In deinem Alter gehen viele nicht. || 알았어. 비밀. 좋아. 그래도 투표하러는 가는 거지. 그게 제일 중요해. 네 나이 때 안 가는 애들 많잖아.
+Finn: Ich gehe. Weil ich will, dass sich etwas ändert. Bei den Mieten. Bei der Schule. Und weil ich letzte Woche einen Brief von der Bundeswehr bekommen habe. || 갈 거야. 뭔가 바뀌었으면 좋겠으니까. 월세 문제나 학교 문제나. 그리고 지난주에 연방군에서 편지를 받았거든.
+Bine: Von der Bundeswehr? Warum hast du mir das nicht gesagt? || 연방군에서? 왜 엄마한테 말 안 했어?
+Finn: Weil du sonst sofort Panik bekommst. Es ist ein Fragebogen. Wegen dem neuen Wehrdienstgesetz. Alle mit achtzehn bekommen ihn. Ob ich Interesse habe. Ob ich gesund bin. || 엄마가 바로 겁먹을 테니까. 설문지야. 새 병역법 때문에. 열여덟 살이면 다 받아. 관심 있는지, 건강한지 묻는 거야.
+Bine: Und? Hast du Interesse? || 그래서? 관심 있어?
+Finn: Ich weiß es nicht. Darüber muss ich nachdenken. Aber nicht heute. Heute wähle ich. Wer wählen darf, soll auch mitreden. Das finde ich. || 모르겠어. 생각해 봐야지. 그래도 오늘은 아니야. 오늘은 투표하는 날이야. 투표할 수 있는 사람은 목소리도 내야 한다고 생각해.
+Bine: Wann bist du so erwachsen geworden? || 너 언제 이렇게 어른이 됐니?
+Finn: Seit dem Abitur, Mama. Zwei Komma eins. Und Mathe hat gerettet. || 아비투어 이후로, 엄마. 평점 2.1. 수학이 살렸지.
+## Im Wahllokal | 투표소에서
+Frau Lehmann: Guten Morgen. Ihre Wahlbenachrichtigung und Ihren Ausweis, bitte. || 안녕하세요. 선거 안내문이랑 신분증 주세요.
+Finn: Frau Lehmann? Sie arbeiten hier? || 레만 아주머니? 여기서 일하세요?
+Frau Lehmann: Als Wahlhelferin. Ehrenamtlich. Seit zwölf Jahren. Von acht bis Mitternacht. Mit Auszählen. || 투표 사무원으로요. 자원봉사로요. 십이 년째예요. 여덟 시부터 자정까지. 개표까지 해요.
+Finn: Bis Mitternacht? Und dafür bekommen Sie nichts? || 자정까지요? 그런데 아무것도 안 받아요?
+Frau Lehmann: Fünfzig Euro Erfrischungsgeld. Und ein Brötchen. Aber darum geht es nicht. Ohne Wahlhelfer keine Wahl. So einfach ist das. Hier, Ihre zwei Stimmzettel. Einer für das Abgeordnetenhaus, einer für die Bezirksverordnetenversammlung. || 수고비 50유로요. 그리고 빵 하나. 그래도 그게 중요한 게 아니에요. 투표 사무원 없으면 선거도 없어요. 그렇게 간단한 거예요. 여기, 투표용지 두 장이요. 하나는 주의회, 하나는 구의회용이에요.
+Finn: Zwei Zettel? Ich dachte, einer. || 두 장이요? 한 장인 줄 알았는데.
+Frau Lehmann: Auf dem großen haben Sie zwei Stimmen. Links die Erststimme für einen Kandidaten hier im Wahlkreis. Rechts die Zweitstimme für eine Partei. Die Zweitstimme ist wichtiger. || 큰 용지에는 두 표가 있어요. 왼쪽 첫 번째 표는 이 지역구 후보한테. 오른쪽 두 번째 표는 정당한테. 두 번째 표가 더 중요해요.
+Finn: Warum ist die Zweitstimme wichtiger als die Erste? Das ist doch unlogisch. || 왜 두 번째 표가 첫 번째 표보다 중요해요? 그거 비논리적인데요.
+Frau Lehmann: Weil die Zweitstimme entscheidet, wie viele Sitze eine Partei bekommt. Das fragt jeder Erstwähler. Und jeder findet es unlogisch. Da drüben ist die Kabine. || 두 번째 표가 정당이 의석을 몇 개 받을지 정하니까요. 첫 투표하는 사람들은 다 그걸 물어봐요. 그리고 다들 비논리적이라고 하죠. 기표소는 저쪽이에요.
+Edith: Guten Morgen, Frau Lehmann! Sie sitzen hier? Wie schön. Dann weiß ich, dass alles richtig gezählt wird. || 좋은 아침이에요, 레만 씨! 여기 계셨네요? 잘됐다. 그럼 표가 제대로 세어질 걸 알겠네요.
+Frau Lehmann: Frau Krüger! Sie kommen persönlich? Sie hätten auch Briefwahl machen können. Mit Ihren Knien. || 크뤼거 부인! 직접 오셨어요? 우편 투표도 하실 수 있었는데요. 무릎도 안 좋으시면서.
+Edith: Briefwahl? Nie. Ich gehe seit neunzehnhundertsiebenundsechzig zu jeder Wahl. Zu Fuß. Das ist mein Ritual. || 우편 투표? 절대 안 하지. 나는 1967년부터 모든 선거에 걸어서 왔어요. 그게 내 의식이에요.
+Finn: Neunzehnhundertsiebenundsechzig? Warum nicht früher? Mit achtzehn? Wie ich? || 1967년이요? 왜 더 일찍은 아니고요? 열여덟 살 때요? 저처럼요?
+Edith: Damals durfte man erst mit einundzwanzig wählen. Ich habe gewartet. Und als ich endlich wählen durfte, durfte meine Schwester auf der anderen Seite der Mauer immer noch nicht frei wählen. Das vergisst man nicht. || 그땐 스물한 살이 돼야 투표할 수 있었어요. 기다렸지. 그리고 마침내 내가 투표할 수 있게 됐을 때도, 장벽 저편의 우리 언니는 여전히 자유롭게 투표할 수 없었어요. 그건 잊히지가 않아요.
+Finn: Und wann durfte Ihre Schwester frei wählen? || 그럼 언니분은 언제 자유롭게 투표하셨어요?
+Edith: Im März neunzehnhundertneunzig. Zum ersten Mal. Mit neunundvierzig. Sie hat mich danach angerufen und geweint. Am Telefon. Eine Stunde. || 1990년 3월에. 처음으로. 마흔아홉 살에. 투표하고 나서 나한테 전화해서 울더라. 한 시간 동안.
+Frau Lehmann: Frau Krüger, Ihre Stimmzettel. Und … danke. Dass Sie gekommen sind. || 크뤼거 부인, 투표용지예요. 그리고… 고마워요. 와 주셔서요.
+Edith: Ich danke Ihnen. Bis Mitternacht zählen. Das ist mehr als ein Ritual. Das ist Demokratie. || 내가 고맙지요. 자정까지 표를 세다니. 그건 의식 이상이에요. 그게 민주주의예요.
+## Draußen vor der Tür | 문밖에서
+Can: Dede, kommst du nicht mit rein? Mama wählt doch auch. || 할아버지, 같이 안 들어가세요? 엄마도 투표하는데요.
+Hüseyin: Ich darf nicht, mein Löwe. Ich warte hier draußen. || 할아버지는 못 들어가, 우리 사자. 여기 밖에서 기다릴게.
+Can: Warum darfst du nicht? Du wohnst doch seit fünfzig Jahren in Berlin. || 왜 못 해요? 할아버지 베를린에 오십 년이나 살았잖아요.
+Hüseyin: Neunundvierzig. Aber ich habe keinen deutschen Pass. Nur einen türkischen. Und wählen dürfen hier nur Deutsche. Bei dieser Wahl. || 사십구 년. 그런데 할아버지는 독일 여권이 없어. 튀르키예 여권만 있지. 그리고 이번 선거에선 독일 사람만 투표할 수 있어.
+Can: Aber Mama hat einen deutschen Pass. || 근데 엄마는 독일 여권 있잖아요.
+Derya: Ich bin hier geboren, Can. Ich habe beide. Seit zwei Jahren. Vorher musste man sich entscheiden. Mit dreiundzwanzig habe ich den deutschen genommen. Und den türkischen abgegeben. Das hat Dede sehr traurig gemacht. || 엄마는 여기서 태어났잖아, 잔. 엄마는 둘 다 있어. 이 년 전부터. 예전엔 하나를 골라야 했거든. 스물세 살 때 독일 걸 골랐어. 그리고 튀르키예 여권은 반납했지. 그게 할아버지를 많이 슬프게 했어.
+Hüseyin: Traurig nicht. Aber es war schwer. Für mich war der türkische Pass wie ein Faden. Zu meiner Mutter. Zu Kayseri. Wenn ich ihn abgebe, reißt der Faden. So habe ich gedacht. || 슬프다기보다는. 힘들었지. 할아버지한테 튀르키예 여권은 실 같은 거였어. 어머니한테, 카이세리로 이어지는 실. 그걸 반납하면 실이 끊어진다고. 그렇게 생각했지.
+Can: Und jetzt? Jetzt darf man zwei Pässe haben. Das hat Mama gesagt. || 그럼 지금은요? 지금은 여권 두 개 가져도 된다고 엄마가 그랬잖아요.
+Hüseyin: Jetzt darf man. Seit zweitausendvierundzwanzig. Und ich denke darüber nach. Jeden Tag. Seit Mai. Seit Spargelzeit. || 지금은 돼. 2024년부터. 그리고 할아버지는 그걸 생각하고 있어. 매일. 5월부터. 아스파라거스 철부터.
+Can: Warum dauert das so lange? Du denkst doch schnell. Beim Rechnen bist du der Schnellste. || 왜 그렇게 오래 걸려요? 할아버지 생각 빠르잖아요. 계산할 때는 제일 빠르면서.
+Hüseyin: Weil das keine Rechnung ist, Can. Das ist ein Gefühl. Gefühle sind langsamer als Zahlen. || 그건 계산 문제가 아니니까, 잔. 그건 감정 문제야. 감정은 숫자보다 느리단다.
+Can: Dede, wenn du einen deutschen Pass hast, darfst du dann nächstes Mal mit rein? In die Kabine? || 할아버지, 독일 여권 생기면 다음번엔 같이 들어갈 수 있어요? 기표소에요?
+Hüseyin: Dann darf ich mit rein. Aber nicht mit dir. Du musst draußen warten. Bis du achtzehn bist. || 그럼 들어갈 수 있지. 그래도 너랑은 아니야. 너는 밖에서 기다려야 해. 열여덟 살이 될 때까지.
+Can: Oder sechzehn. Für den Bezirk. Das hat Frau Wagner gesagt. Im Unterricht. || 아니면 열여섯 살. 구의회는요. 바그너 선생님이 수업 시간에 그랬어요.
+Hüseyin: Sechzehn? Dann darfst du vor mir wählen? Das ist ja eine Katastrophe. Gut. Dann muss ich mich beeilen. || 열여섯? 그럼 네가 할아버지보다 먼저 투표하는 거야? 그건 큰일이네. 좋아. 그럼 할아버지가 서둘러야겠다.
+Derya: Papa … meinst du das ernst? || 아빠… 진심이야?
+Hüseyin: Ich meine es ernst. Neunundvierzig Jahre stehe ich vor der Tür. Ich möchte einmal reingehen. Bevor ich siebzig bin. || 진심이야. 사십구 년 동안 문밖에 서 있었어. 한 번은 들어가 보고 싶다. 일흔 되기 전에.
+## Wahlkampf am Tresen | 카운터 앞의 선거전
+Kalle: So! Wer hat gewählt? Hände hoch! Wer gewählt hat, bekommt eine Fassbrause. Wer nicht, bekommt einen Vortrag von Edith. || 자! 투표한 사람? 손 들어! 투표한 사람은 파스브라우제 한 병. 안 한 사람은 에디트의 훈계.
+Tobi: Ich habe gewählt. Um acht Uhr eins. Als Erster im Wahllokal. || 저 투표했어요. 여덟 시 일 분에. 투표소에서 제일 먼저요.
+Kalle: Und? Wen? Nein. Sag nichts. Det is geheim. || 그래서? 누굴? 아니야. 말하지 마. 그건 비밀이지.
+Tobi: Ich sage dir nur, wen ich nicht gewählt habe. Den Kandidaten mit dem Plakat am Hermannplatz. „Mehr Parkplätze für Neukölln." Er will die Radwege wieder zu Autospuren machen. || 누굴 안 찍었는지만 말해 줄게요. 헤르만플라츠에 포스터 붙인 그 후보요. „노이쾰른에 더 많은 주차장을." 자전거 도로를 다시 차도로 만들겠대요.
+Finn: Aber manche Leute brauchen ein Auto. Für die Arbeit. Mein Vater ist Handwerker. Er findet nie einen Parkplatz. || 그런데 차가 필요한 사람들도 있잖아요. 일 때문에요. 우리 아빠는 수리 기사인데 주차할 데를 못 찾아요.
+Tobi: Das mag sein. Aber auf dem Ufer ist im Mai ein Kind mit dem Rad gefallen. Can. Weil es keinen richtigen Radweg gibt. || 그럴 수도 있지. 그래도 5월에 운하 둑에서 애 하나가 자전거 타다 넘어졌어. 잔이. 제대로 된 자전거 도로가 없어서.
+Finn: Can ist ohne Bremsen gefahren. Das war nicht wegen dem Radweg. || 잔은 브레이크 없이 탔잖아요. 자전거 도로 때문이 아니었어요.
+Tobi: … Okay. Da hast du einen Punkt. Aber trotzdem. || …그래. 그 말은 일리가 있다. 그래도.
+Bine: Und das Plakat mit dem Tempelhofer Feld? „Wohnungen statt Wiese." Was haltet ihr davon? || 그럼 템펠호프 들판 포스터는? „잔디 대신 집을." 그건 어떻게 생각해?
+Kalle: Det Feld ist heilig. Da sind die Rosinenbomber gelandet. Da hat Paul sein erstes Date gehabt. Da baut man nüscht. || 그 들판은 신성해. 건포도 폭격기가 내린 곳이야. 파울이 첫 데이트를 한 곳이고. 거기엔 아무것도 지으면 안 돼.
+Finn: Aber wir brauchen Wohnungen. Ich will irgendwann von zu Hause ausziehen. Mit meinem Gehalt als … keine Ahnung. Ich finde nie was. Ein paar Häuser am Rand vom Feld. Warum nicht? || 그래도 집이 필요하잖아요. 저도 언젠가는 독립하고 싶어요. 제 월급으로는… 무슨 일을 할진 몰라도 아무것도 못 구할 거예요. 들판 가장자리에 집 몇 채 짓는 게 왜 안 돼요?
+Kalle: Weil es mit ein paar Häusern anfängt. Und mit einem Einkaufszentrum endet. || 집 몇 채로 시작해서 쇼핑몰로 끝나니까.
+Finn: Das weißt du nicht. Das ist Angst, kein Argument. || 그건 모르잖아요. 그건 두려움이지 논거가 아니에요.
+Kalle: Nee, lass ihn. Er hat recht. Det war kein Argument. Das war Bauchgefühl. Wir sind da anderer Meinung. Und det is okay. || 아니, 그냥 둬. 쟤 말이 맞아. 그건 논거가 아니었어. 그냥 감이었지. 우리는 생각이 다른 거고, 그건 괜찮아.
+Tobi: Und wer hat am meisten über Mieten gesprochen? Alle Plakate sagen etwas über Mieten. „Bezahlbar wohnen." „Mieten runter." „Wohnen ist ein Menschenrecht." || 그럼 월세 얘기를 제일 많이 한 건 누구예요? 포스터마다 다 월세 얘기잖아요. „살 만한 집을." „월세를 낮추자." „주거는 인권이다."
+Kalle: Die versprechen das jedes Mal. Jede Wahl. Und dann kommt Nordwert mit dreißigtausend Euro und einem Café mit Hafermilch. || 그건 매번 약속하지. 선거 때마다. 그러고 나면 노르트베르트가 삼만 유로랑 귀리 우유 카페를 들고 나타나고.
+Finn: Deshalb muss man wählen. Damit die, die es versprechen, es auch machen müssen. Und wenn nicht, wählt man sie nächstes Mal ab. || 그러니까 투표를 해야죠. 약속한 사람들이 그걸 지키게 하려고요. 안 지키면 다음번에 떨어뜨리면 되고요.
+Kalle: … Bine, dein Sohn ist klüger als ick. Das darf aber keiner wissen. || …비네, 네 아들이 나보다 똑똑하다. 근데 이건 아무도 알면 안 돼.
+## Wählen ist ein Geschenk | 투표는 선물이다
+Can: Edith, warum gehst du zu jeder Wahl? Auch wenn deine Partei verliert? || 에디트 할머니, 왜 모든 선거에 가세요? 할머니가 찍은 정당이 져도요?
+Edith: Weil Wählen ein Geschenk ist, Can. Nicht jeder bekommt es. Gisela hat achtundzwanzig Jahre darauf gewartet. Dein Dede wartet seit neunundvierzig Jahren. || 투표는 선물이니까, 잔. 누구나 받는 게 아니야. 기젤라는 이십팔 년을 기다렸어. 너희 할아버지는 사십구 년째 기다리고 있고.
+Can: Und wenn man schlecht wählt? Wenn alle die Falschen wählen? || 근데 잘못 뽑으면요? 다들 엉뚱한 사람을 뽑으면요?
+Edith: Dann wählt man beim nächsten Mal anders. Das ist das Schöne. In einer Demokratie kann man sich irren. Und es wieder gut machen. In einer Diktatur nicht. || 그럼 다음번에 다르게 뽑으면 되지. 그게 좋은 점이야. 민주주의에서는 틀릴 수 있어. 그리고 다시 바로잡을 수 있지. 독재에서는 안 돼.
+Can: Darf man in der Schule auch wählen? || 학교에서도 투표할 수 있어요?
+Edith: Ich weiß es nicht. Darf man? || 모르겠는데. 할 수 있니?
+Can: Wir wählen am Freitag einen Klassensprecher. Frau Wagner hat gesagt: Jeder darf sich aufstellen lassen. Und jeder hat eine Stimme. Geheim. Auf Zetteln. || 금요일에 반장을 뽑아요. 바그너 선생님이 누구든 후보로 나설 수 있대요. 그리고 다들 한 표씩 있대요. 비밀로요. 쪽지에다.
+Edith: Und? Lässt du dich aufstellen? || 그래서? 너도 나갈 거니?
+Can: Vielleicht. Ich weiß nicht, ob ich gut genug bin. Linh will auch. Sie ist sehr gut. || 어쩌면요. 제가 그만큼 잘할 수 있을지 모르겠어요. 린도 나가고 싶대요. 린은 엄청 잘해요.
+Edith: Was würdest du als Klassensprecher versprechen? || 반장이 되면 뭘 약속할 거니?
+Can: Dass jeden Tag Mathe ist. Weil wir so viel verpasst haben. Und dass wir einen Fußball für die Pause bekommen. Unser alter ist kaputt. || 매일 수학 수업이 있게 하겠다고요. 우리 너무 많이 놓쳤으니까요. 그리고 쉬는 시간에 쓸 축구공을 받아 오겠다고요. 옛날 건 망가졌거든요.
+Edith: Das ist ein gutes Programm. Realistisch und bezahlbar. Besser als die Hälfte der Plakate draußen. || 좋은 공약이네. 현실적이고 돈도 감당할 만하고. 밖에 붙은 포스터 절반보다 낫다.
+Can: Und wenn ich verliere? || 그런데 지면요?
+Edith: Dann gratulierst du Linh. Und hilfst ihr. Das ist auch Demokratie. Die schwerste Hälfte. || 그럼 린을 축하해 줘. 그리고 도와주고. 그것도 민주주의야. 제일 어려운 절반이지.
+## Am Ufer | 운하 둑에서
+Derya: Papa, wie geht so eine Einbürgerung eigentlich? Was musst du machen? || 아빠, 근데 귀화는 어떻게 하는 거야? 뭘 해야 해?
+Hüseyin: Ich habe mich schon informiert. Im Juni. Heimlich. Ohne deine Mutter. || 벌써 알아봤어. 6월에. 몰래. 네 엄마 모르게.
+Derya: Heimlich? Warum heimlich? || 몰래? 왜 몰래?
+Hüseyin: Weil sie sonst sofort anfängt zu weinen. Vor Freude oder vor Angst. Bei deiner Mutter weiß man das nie. || 안 그러면 바로 울기 시작할 테니까. 기뻐서든 무서워서든. 네 엄마는 어느 쪽인지 알 수가 없어.
+Can: Musst du einen Test machen, Dede? Wie ich in der Schule? || 할아버지도 시험 봐야 해요? 저처럼 학교에서요?
+Hüseyin: Normalerweise ja. Einen Einbürgerungstest. Dreiunddreißig Fragen über Deutschland. Und ein Deutschzertifikat. B eins. || 보통은 그래. 귀화 시험. 독일에 관한 문제 서른세 개. 그리고 독일어 자격증. B1.
+Can: Dreiunddreißig Fragen! Was für Fragen? || 서른세 문제요! 무슨 문제요?
+Hüseyin: Ganz verschiedene. Über Geschichte, Politik, das Leben hier. || 아주 다양해. 역사, 정치, 여기 생활에 관한 거.
+Can: Was zum Beispiel? || 예를 들면요?
+Hüseyin: Zum Beispiel: Was bedeutet die Abkürzung BVV? Oder: Wann wurde die Mauer gebaut? Die zweite weißt du sicher von Edith. Du kannst mir also helfen. Aber für die Gastarbeiter der ersten Generation gibt es jetzt eine Erleichterung. Für die, die vor neunzehnhundertvierundsiebzig gekommen sind. Ich bin siebenundsiebzig gekommen. Das zählt leider nicht. || 예를 들면, BVV가 무슨 약자인가? 아니면, 장벽은 언제 세워졌는가? 두 번째는 너도 에디트 할머니한테 들어서 알겠지. 그러니 네가 할아버지를 도와줄 수 있겠다. 그런데 1세대 가스트아르바이터한테는 이제 완화된 게 있어. 1974년 전에 온 사람들한테는. 할아버지는 77년에 왔으니까 안타깝게도 해당이 안 돼.
+Derya: Drei Jahre zu spät. || 삼 년 늦었네.
+Hüseyin: Wie immer im Leben. Drei Jahre zu spät oder drei Minuten zu früh. Also mache ich den Test. Und das Zertifikat. Mit fünfundsechzig. || 인생이 늘 그렇지. 삼 년 늦거나 삼 분 이르거나. 그러니까 시험 볼 거야. 자격증도 따고. 예순다섯에.
+Derya: Papa, du sprichst seit neunundvierzig Jahren Deutsch. Du schaffst B eins im Schlaf. || 아빠, 사십구 년째 독일어 하잖아. B1은 자면서도 따겠다.
+Hüseyin: Sprechen ja. Schreiben ist etwas anderes. In der Fabrik habe ich nie einen Brief geschrieben. Nur Zahlen. || 말은 하지. 쓰는 건 다른 문제야. 공장에서는 편지를 한 번도 안 썼어. 숫자만 썼지.
+Can: Dann lernen wir zusammen. Du hilfst mir bei Mathe. Und ich helfe dir beim Schreiben. Frau Wagner sagt, ich schreibe gut. Nur mit zu vielen Ausrufezeichen. || 그럼 같이 공부해요. 할아버지는 저 수학 도와주고. 저는 할아버지 글쓰기 도와드리고요. 바그너 선생님이 저 글 잘 쓴대요. 느낌표가 너무 많은 것만 빼고요.
+Hüseyin: Ausrufezeichen kann ich auch. Wenn Union ein Tor schießt. || 느낌표는 할아버지도 할 줄 알아. 우니온이 골 넣을 때.
+Derya: Papa … Mama wird weinen. Ganz sicher. || 아빠… 엄마 울 거야. 확실히.
+Hüseyin: Dann weinen wir zusammen. Vor dem Bürgeramt. Mit deutschem Pass und türkischem Pass. Und mit einem Enkel, der mehr Ausrufezeichen hat als Geduld. || 그럼 같이 울지 뭐. 구청 앞에서. 독일 여권이랑 튀르키예 여권 들고. 그리고 인내심보다 느낌표가 더 많은 손주랑 같이.
+## Achtzehn Uhr | 열여덟 시
+Bine: Kalle! Es ist achtzehn Uhr! Mach den Fernseher an! Die erste Prognose! || 칼레! 열여덟 시야! 텔레비전 켜! 첫 출구 조사!
+Kalle: Willst du das wirklich sehen? || 정말 보고 싶어?
+Bine: Natürlich! Das ist doch das Spannendste! Wie beim Elfmeter! || 당연하지! 그게 제일 흥미진진한 거잖아! 페널티킥처럼!
+Kalle: Beim letzten Elfmeter haben wir verloren. || 지난번 페널티킥은 졌잖아.
+Tobi: Kalle, mach an. Die Hälfte der Kneipe wartet. || 칼레, 켜요. 가게 사람 절반이 기다리고 있어요.
+Kalle: Gut. Ick mache an. Aber ick sage euch eins, bevor die Zahlen kommen. || 좋아. 켤게. 근데 숫자 나오기 전에 하나만 말할게.
+Finn: Was denn? || 뭔데요?
+Kalle: Egal, wer heute gewinnt. Am Montag kommt Nordwert nicht später. Und die Miete wird nicht von allein billiger. Und das Dach repariert keine Partei. || 오늘 누가 이기든 상관없어. 월요일에 노르트베르트가 늦게 오는 것도 아니고. 월세가 저절로 싸지는 것도 아니야. 그리고 지붕은 어느 정당도 안 고쳐 줘.
+Bine: Was willst du damit sagen? || 그걸로 무슨 말을 하고 싶은 건데?
+Kalle: Dass wir heute gewählt haben. Das war gut. Det war richtig. Aber morgen wählen wir noch einmal. Hier. In diesem Haus. Ob wir zusammen etwas machen. Oder ob jeder allein Angst hat. || 오늘 우리가 투표했다는 거. 잘했어. 옳은 일이었어. 근데 내일 우리는 한 번 더 선택해야 해. 여기서. 이 집에서. 다 같이 뭔가를 할지. 아니면 각자 혼자 두려워할지.
+Tobi: Die Genossenschaft? || 협동조합 말이에요?
+Kalle: Det Wort sag ick noch nich laut. Aber ihr wisst, was ick meine. || 그 말은 아직 큰 소리로는 안 해. 그래도 무슨 뜻인지들 알잖아.
+Finn: Kalle, darf ich bei so etwas mitmachen? Ich wohne nicht im Haus. Aber meine Mutter arbeitet hier. Und ich bin hier aufgewachsen. Hinter dieser Theke. || 칼레 아저씨, 저도 그런 데 끼어도 돼요? 저는 이 집에 안 살아요. 그래도 엄마가 여기서 일하고. 저도 여기서 컸잖아요. 이 카운터 뒤에서.
+Kalle: Du darfst. Wer wählen darf, soll auch mitreden. Det hast du heute Morgen gesagt. Bine hat es mir erzählt. || 끼어도 돼. 투표할 수 있는 사람은 목소리도 내야 한다며. 오늘 아침에 네가 그랬다며. 비네가 얘기해 주더라.
+Finn: Mama! Das war privat! || 엄마! 그건 사적인 얘기였잖아!
+Bine: In dieser Kneipe ist nichts privat. Das ist auch Demokratie. Kalle, die Prognose! Sie kommt! || 이 가게엔 사적인 게 없어. 그것도 민주주의야. 칼레, 출구 조사! 나온다!
+Kalle: Dann gucken wir. Und dann trinken wir. Egal wie es ausgeht. Auf alle, die heute reingehen durften. Und auf die, die noch vor der Tür stehen. || 그럼 보자. 그리고 마시자. 결과가 어떻게 나오든. 오늘 들어갈 수 있었던 모든 사람을 위하여. 그리고 아직 문밖에 서 있는 사람들을 위하여.
