@@ -1,0 +1,148 @@
+#nr: 8
+#part: 1부 Frühling (봄)
+#title: Die Mieterhöhung
+#ko: 월세 인상 통지 · 같은 날 날아온 편지 세 통
+#level: A2~B1
+#setting: 4월 말 어느 월요일 아침. 관리회사(„Kiez Hausverwaltung GmbH", 허구)가 보낸 편지가 집집마다 도착한다. 데르야에게는 물가에 연동되는 인덱스 임대료(Indexmiete) 인상과 관리비 정산서 추가 납부, 에디트에게는 지역 임대료 기준표(Mietspiegel)에 맞춘 인상 통지다. 이 건물은 옛 집주인이 세상을 떠난 뒤 자녀들의 상속인 공동체(Erbengemeinschaft)가 갖고 있다. 전직 세무 공무원 슐체 부인이 숫자를 풀어 준다. 표현 초점: 숫자·퍼센트, 걱정 표현, 부정문(nicht/kein).
+#cast: Derya | 데르야 이을드즈 · 40세, 간호사
+#cast: Frau Schulze | 잉그리트 슐체 · 62세, 전직 세무서 공무원
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Kalle | 칼레 코발스키 · 58세, 크나이페 주인
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Can | 잔 이을드즈 · 10세
+#read: 소수와 퍼센트: zwei Komma vier Prozent [tsvaɪ̯ ˈkɔma fiːɐ̯ pʁoˈtsɛnt]. Prozent는 둘째 음절 강세.
+#read: 금액 읽기: 737,28 € = siebenhundertsiebenunddreißig Euro achtundzwanzig. 일상에서는 Euro 뒤 Cent를 생략한다.
+#read: 큰 수는 한 단어로 붙여 읽되 리듬은 끊어서: vierhundert | zwölf, dreihundert | neunzig.
+#read: nicht와 kein의 강세: „Das ist NICHT richtig." „Das ist KEIN Fehler." 부정어에 힘을 준다.
+#note: um … Prozent steigen (~퍼센트 오르다) / auf … Euro steigen (~유로가 되다). „Die Miete steigt um 2,4 Prozent auf 737 Euro." um은 차이, auf는 결과.
+#note: nicht vs. kein: 관사 없는 명사·부정관사 명사는 kein (Ich habe kein Geld. Das ist kein Problem.), 그 밖에는 nicht (Das stimmt nicht. Ich bezahle das nicht.).
+#note: Indexmiete = 소비자물가지수에 맞춰 1년에 한 번까지 올릴 수 있는 임대료. 신규 임대 상한제(Mietpreisbremse)가 처음 계약에만 적용되기 때문에 인플레이션 때 부담이 커졌다.
+#note: Mieterhöhung auf die ortsübliche Vergleichsmiete — 지역 기준 임대료(Mietspiegel)까지 올리는 일반 인상. 베를린에서는 3년 동안 최대 15%까지(Kappungsgrenze)만 올릴 수 있다.
+#note: Nebenkostenabrechnung = 관리비 정산서. 난방비(CO2 가격 포함), 물, 쓰레기, 관리인, 토지세(Grundsteuer, 2025년 개편) 등이 들어가고, 미리 낸 돈보다 많으면 Nachzahlung(추가 납부)을 해야 한다. 정산서는 12개월 안에 받아야 하고 틀린 곳이 흔하다.
+#note: Ich mache mir Sorgen. / Das macht mir Angst. / Wie soll ich das bezahlen? — 걱정 표현.
+## Post am Montag | 월요일의 우편
+Derya: Guten Morgen, Frau Schulze. Sie sind auch schon am Briefkasten? || 좋은 아침이에요, 슐체 부인. 부인도 벌써 우편함에 나오셨어요?
+Frau Schulze: Guten Morgen. Ich bin jeden Tag um acht am Briefkasten. Der Briefträger kommt um Viertel vor. || 좋은 아침이에요. 나는 매일 여덟 시에 우편함에 와요. 집배원이 7시 45분에 오거든요.
+Derya: Ich komme gerade vom Nachtdienst. Mal sehen … Werbung, Werbung, und … die Hausverwaltung. || 저는 지금 밤 근무 마치고 오는 길이에요. 어디 보자… 광고, 광고, 그리고… 관리회사.
+Frau Schulze: Ich habe auch einen Brief von der Hausverwaltung. Einen dicken. || 나도 관리회사에서 편지 왔어요. 두꺼운 거요.
+Derya: Meiner ist auch dick. Das ist kein gutes Zeichen. || 제 것도 두꺼워요. 좋은 징조는 아니네요.
+Frau Schulze: Nein. Dicke Briefe sind nie gute Briefe. || 아니죠. 두꺼운 편지가 좋은 편지인 적은 없어요.
+Derya: Ich mache ihn hier auf. Ich kann nicht warten. || 여기서 뜯어 볼게요. 못 기다리겠어요.
+Frau Schulze: Ich auch. || 나도요.
+Derya: „Mietanpassung nach Paragraph … Indexmiete …" Was heißt das? || „…조항에 따른 임대료 조정… 인덱스 임대료…" 이게 무슨 뜻이에요?
+Frau Schulze: Das heißt: Ihre Miete steigt. Wie die Preise im Supermarkt. || 월세가 오른다는 뜻이에요. 슈퍼마켓 물가처럼요.
+Derya: Wie die Preise im Supermarkt? Die sind doch total gestiegen! || 슈퍼마켓 물가처럼요? 그거 엄청 올랐잖아요!
+Frau Schulze: Eben. Das ist das Problem bei einer Indexmiete. Haben Sie einen Indexmietvertrag? || 그러니까요. 그게 인덱스 임대료의 문제예요. 인덱스 임대 계약을 하셨어요?
+Derya: Ich glaube ja. Seit zweitausendeinundzwanzig. Damals war es der einzige Vertrag. Ich habe einfach unterschrieben. || 그런 것 같아요. 2021년부터요. 그때는 그 계약밖에 없었어요. 그냥 서명했죠.
+Frau Schulze: Das machen alle. Wer eine Wohnung findet, unterschreibt alles. || 다들 그래요. 집을 구하면 뭐든 서명하죠.
+Derya: Und Ihr Brief? Steigt Ihre Miete auch? || 부인 편지는요? 부인 월세도 올라요?
+Frau Schulze: Meine Miete nicht. Ich habe einen alten Vertrag. Aber hier ist die Nebenkostenabrechnung. || 내 월세는 아니에요. 오래된 계약이라서요. 그런데 여기 관리비 정산서가 있네요.
+Derya: Oh nein. Die habe ich bestimmt auch. Hier, noch ein Brief. || 아, 안 돼. 저도 분명 그거 받았겠네요. 여기, 편지가 하나 더 있어요.
+Frau Schulze: Drei Briefe an einem Montag. Kommen Sie, wir lesen das in Ruhe. Bei mir gibt es Kaffee. || 월요일에 편지 세 통이라. 이리 와요, 차분히 읽어 봐요. 우리 집에 커피 있어요.
+Derya: Danke. Aber nicht lange. Ich muss schlafen. || 고마워요. 근데 오래는 못 있어요. 자야 하거든요.
+Frau Schulze: Ein Kaffee nach der Nachtschicht? Na gut. Dann einen kleinen. || 밤 근무 끝나고 커피라니? 뭐 좋아요. 그럼 작은 걸로.
+## Prozente am Küchentisch | 식탁 위의 퍼센트
+Frau Schulze: So. Zeigen Sie mal. Wie viel bezahlen Sie jetzt? Kalt, ohne Nebenkosten. || 자. 보여 줘 봐요. 지금 얼마 내요? 관리비 빼고 기본 임대료로요.
+Derya: Siebenhundertzwanzig Euro. Für drei Zimmer. Achtundsechzig Quadratmeter. || 720유로요. 방 세 개에요. 68제곱미터요.
+Frau Schulze: Und hier steht: Der Index ist um zwei Komma vier Prozent gestiegen. || 그리고 여기 보면, 지수가 2.4퍼센트 올랐다고 쓰여 있어요.
+Derya: Zwei Komma vier Prozent. Ist das viel? || 2.4퍼센트요. 그게 많은 거예요?
+Frau Schulze: Zwei Komma vier Prozent von siebenhundertzwanzig … das sind siebzehn Euro achtundzwanzig. || 720의 2.4퍼센트면… 17유로 28센트예요.
+Derya: Siebzehn Euro mehr im Monat? Das geht ja noch. || 한 달에 17유로 더요? 그 정도면 괜찮네요.
+Frau Schulze: Das geht noch, ja. Aber im letzten Jahr waren es auch schon … warten Sie … vier Prozent? || 그 정도는 괜찮죠. 그런데 작년에도 벌써… 잠깐만요… 4퍼센트였죠?
+Derya: Ja. Und im Jahr davor sechs Prozent. Ich habe nicht gerechnet. Ich habe einfach bezahlt. || 네. 그리고 그 전해엔 6퍼센트였어요. 계산은 안 해 봤어요. 그냥 냈죠.
+Frau Schulze: Dann bezahlen Sie jetzt schon fast hundert Euro mehr als am Anfang. || 그럼 지금 처음보다 벌써 거의 100유로를 더 내고 있는 거예요.
+Derya: Hundert Euro! Das ist ja ein voller Einkauf für eine Woche. || 100유로요! 일주일 장 보는 돈이잖아요.
+Frau Schulze: Und Ihr Gehalt? Steigt Ihr Gehalt auch jedes Jahr um vier Prozent? || 그럼 월급은요? 월급도 매년 4퍼센트씩 올라요?
+Derya: Mein Gehalt? Nein. Nicht so schnell. Wir Pflegekräfte bekommen nicht so viel mehr. || 제 월급이요? 아니요. 그렇게 빨리는 안 올라요. 우리 간호 인력은 그렇게 많이 더 못 받아요.
+Frau Schulze: Ist der Brief denn richtig? Darf der Vermieter das? || 이 편지는 맞게 쓴 거예요? 집주인이 이래도 되는 거예요?
+Derya: Das frage ich Sie. Sie haben doch beim Finanzamt gearbeitet. || 그걸 제가 부인께 여쭤보는 거예요. 세무서에서 일하셨잖아요.
+Frau Schulze: Beim Finanzamt, nicht beim Mieterverein. Aber die Rechnung ist richtig. Leider. || 세무서였지, 세입자 협회가 아니었어요. 그래도 계산은 맞네요. 안타깝게도요.
+Derya: Und ab wann? || 그럼 언제부터요?
+Frau Schulze: Ab dem übernächsten Monat. Ab Juli. || 다다음 달부터요. 7월부터.
+Derya: Juli. Dann kommt auch die Klassenfahrt von Can. Und der Urlaub. || 7월이요. 그때 잔 수학여행도 있고. 휴가도 있고.
+Frau Schulze: Machen Sie sich nicht zu viele Sorgen. Siebzehn Euro, das ist kein Weltuntergang. || 너무 걱정하지 마요. 17유로가 세상이 끝나는 건 아니잖아요.
+Derya: Nein. Aber jedes Jahr ein bisschen mehr. Das macht mir Angst. || 아니죠. 그래도 매년 조금씩 더 오르는 게 무서워요.
+## Edith hat auch einen Brief | 에디트에게도 편지가
+Edith: Herr Kowalski, haben Sie einen Moment? Ich verstehe diesen Brief nicht. || 코발스키 씨, 잠깐 시간 있어요? 이 편지를 이해를 못 하겠어요.
+Kalle: Für Sie immer, Frau Krüger. Zeigen Sie mal. Oh. Die Hausverwaltung. || 부인한텐 언제나요, 크뤼거 부인. 보여 주세요. 아. 관리회사네.
+Bine: Schon wieder? Derya hat heute auch einen Brief bekommen. Und Frau Schulze. || 또? 데르야도 오늘 편지 받았대. 슐체 부인도.
+Kalle: „Mieterhöhung auf die ortsübliche Vergleichsmiete." Wat für ein Wort. || „지역 기준 임대료까지 임대료 인상." 무슨 단어가 이래.
+Edith: Was heißt das? Ich wohne seit zweiundfünfzig Jahren hier. Noch nie ist die Miete so gestiegen. || 그게 무슨 뜻이에요? 여기 산 지 52년인데 월세가 이렇게 오른 적은 한 번도 없었어요.
+Kalle: Wie viel bezahlen Sie jetzt? || 지금 얼마 내세요?
+Edith: Dreihundertneunzig Euro. Kalt. Für zwei Zimmer. || 390유로. 관리비 빼고. 방 두 개에요.
+Bine: Dreihundertneunzig? In Neukölln? Das ist ja fast nichts! || 390이요? 노이쾰른에서? 그건 거의 공짜잖아요!
+Edith: Für mich ist das nicht nichts. Meine Rente ist klein. || 나한테는 공짜가 아니에요. 연금이 적거든요.
+Bine: Entschuldigung, Edith. So habe ich das nicht gemeint. || 죄송해요, 에디트. 그런 뜻이 아니었어요.
+Kalle: Hier steht: Die Miete steigt um fünfzehn Prozent. Auf vierhundertachtundvierzig Euro fünfzig. || 여기 보면, 월세가 15퍼센트 올라서 448유로 50센트가 된대요.
+Edith: Achtundfünfzig Euro mehr? Jeden Monat? || 58유로 더요? 매달?
+Kalle: Jeden Monat. Ab Juli. || 매달이요. 7월부터.
+Edith: Achtundfünfzig Euro. Das ist mein Essen für zwei Wochen. || 58유로라. 그건 내 이 주일 치 식비예요.
+Bine: Darf der Vermieter das? Einfach so? || 집주인이 그래도 돼요? 그냥 이렇게?
+Kalle: Ick weiß es nich. Ick bin kein Anwalt. Ick bin Wirt. || 나도 몰라. 나 변호사 아니야. 술집 주인이지.
+Edith: Wer ist eigentlich der Vermieter? Der alte Herr Wendt ist doch vor zwei Jahren gestorben. || 그런데 집주인이 누구예요? 늙은 벤트 씨는 이 년 전에 돌아가셨잖아요.
+Kalle: Seine Kinder. Eine Erbengemeinschaft. Drei Kinder, keins wohnt in Berlin. || 그분 자식들이요. 상속인 공동체. 자식 셋인데 아무도 베를린에 안 살아요.
+Edith: Herr Wendt hat nie die Miete erhöht. Er hat immer gesagt: Frau Krüger, Sie bleiben, bis Sie hundert sind. || 벤트 씨는 한 번도 월세를 안 올렸어요. 늘 그랬지. 크뤼거 부인, 백 살까지 여기 사세요.
+Kalle: Seine Kinder sagen det leider nich. || 그 자식들은 안타깝게도 그런 말 안 하네요.
+## Die Nebenkosten | 관리비
+Derya: Hallo zusammen. Ist Frau Schulze hier? Sie wollte die Nebenkosten mit mir prüfen. || 안녕하세요, 다들. 슐체 부인 여기 계세요? 저랑 관리비 확인하기로 했는데.
+Frau Schulze: Hier bin ich. Mit Taschenrechner. Setzen Sie sich. || 여기 있어요. 계산기 들고요. 앉아요.
+Kalle: Ein Taschenrechner in meiner Kneipe. Det hab ick noch nie gesehen. || 내 가게에 계산기라. 이런 건 처음 보네.
+Derya: Ich muss vierhundertzwölf Euro nachzahlen. Vierhundertzwölf! Bis Ende Mai. || 저 412유로를 추가로 내야 해요. 412유로요! 5월 말까지.
+Edith: Das ist ja schlimmer als meine Miete. || 그건 내 월세보다 더 심하네.
+Frau Schulze: Schauen wir mal. Heizung: sechshundertachtzig Euro. Das ist viel, aber nicht falsch. Gas ist teurer geworden. || 어디 봐요. 난방비 680유로. 많긴 한데 틀리진 않았어요. 가스가 비싸졌으니까.
+Derya: Und der CO2-Preis, oder? Das habe ich in den Nachrichten gehört. || 그리고 CO2 가격도 있죠? 뉴스에서 들었어요.
+Frau Schulze: Genau. Der steht auch hier. Und die Grundsteuer. Die ist seit letztem Jahr neu. Bei uns ist sie gestiegen. || 맞아요. 그것도 여기 있어요. 그리고 토지세요. 작년부터 새로 바뀌었어요. 우리 집은 올랐네요.
+Kalle: Moment. Die Grundsteuer bezahlt doch der Eigentümer. Nicht der Mieter. || 잠깐만요. 토지세는 건물 주인이 내는 거잖아요. 세입자가 아니라.
+Frau Schulze: Nein, Herr Kowalski. Die darf der Eigentümer auf die Mieter umlegen. Das ist erlaubt. || 아니에요, 코발스키 씨. 그건 건물 주인이 세입자한테 넘길 수 있어요. 그건 허용돼요.
+Kalle: Det is ja 'n Ding. || 이거 참 기가 막히네.
+Frau Schulze: Aber hier. Sehen Sie diese Zeile? Hausmeister: dreihundertzehn Euro. || 그런데 여기. 이 줄 보여요? 관리인 비용 310유로.
+Derya: Ja. Und? || 네. 그래서요?
+Frau Schulze: Wir haben keinen Hausmeister. Seit einem Jahr nicht. Der Herr Pietsch ist in Rente gegangen. || 우리 집엔 관리인이 없어요. 일 년 전부터요. 피치 씨가 은퇴했잖아요.
+Derya: Stimmt! Seitdem putzt niemand den Hof. Und das Haustürschloss ist auch kaputt. || 맞아요! 그때부터 아무도 안마당을 청소하지 않아요. 현관문 자물쇠도 고장 났고요.
+Frau Schulze: Also bezahlen wir für einen Hausmeister, den es nicht gibt. Das ist nicht richtig. || 그러니까 우리는 있지도 않은 관리인한테 돈을 내는 거예요. 이건 옳지 않아요.
+Edith: Frau Schulze, Sie sind ja ein Detektiv! || 슐체 부인, 완전 탐정이네요!
+Frau Schulze: Kein Detektiv. Nur dreißig Jahre Finanzamt. Ich sehe Fehler. Das ist mein Beruf. Gewesen. || 탐정은 아니에요. 그냥 세무서 삼십 년이죠. 나는 틀린 게 보여요. 그게 내 직업이었어요. 예전에.
+## Was können wir tun? | 우리가 뭘 할 수 있을까
+Kalle: Und jetzt? Was machen wir jetzt? || 그럼 이제? 이제 어떻게 해?
+Frau Schulze: Erstens: Wir bezahlen die Nachzahlung nicht sofort. Wir schreiben einen Widerspruch. Wegen dem Hausmeister. || 첫째, 추가 납부를 바로 하지 않아요. 이의 신청서를 써요. 관리인 비용 때문에요.
+Derya: Darf man das? Einfach nicht bezahlen? || 그래도 돼요? 그냥 안 내도요?
+Frau Schulze: Nicht einfach nicht bezahlen. Man bezahlt den richtigen Teil. Und für den falschen Teil schreibt man einen Brief. || 그냥 안 내는 게 아니에요. 맞는 부분은 내요. 틀린 부분에 대해서는 편지를 쓰는 거고요.
+Edith: Und meine Mieterhöhung? Muss ich die bezahlen? || 그럼 내 월세 인상은요? 그건 내야 해요?
+Frau Schulze: Das weiß ich nicht genau. Das muss jemand prüfen. Haben Sie Zeit für den Mieterverein? || 그건 정확히 모르겠어요. 누군가 확인해 봐야 해요. 세입자 협회에 가 볼 시간 있어요?
+Edith: Ich habe nur Zeit. Ich bin Rentnerin. || 나는 시간밖에 없어요. 연금 생활자니까.
+Bine: Ich komme mit, Edith. Der Mieterverein ist am Hermannplatz. Ich kenne den Weg. || 제가 같이 갈게요, 에디트. 세입자 협회는 헤르만플라츠에 있어요. 길 알아요.
+Kalle: Und ick? Ick hab keinen Brief bekommen. Komisch, oder? || 그럼 나는? 난 편지 안 받았어. 이상하지 않아?
+Derya: Vielleicht ist das gut. || 그건 좋은 걸 수도 있잖아요.
+Kalle: Vielleicht. Oder die Hausverwaltung hat wat anderes mit mir vor. || 그럴 수도. 아니면 관리회사가 나한테는 뭔가 다른 걸 꾸미고 있거나.
+Frau Schulze: Was denn? || 뭘요?
+Kalle: Keine Ahnung. Aber die schreiben in letzter Zeit sehr viele Briefe. Das gefällt mir nich. || 모르겠어요. 근데 요즘 편지를 엄청 많이 보내요. 그게 마음에 안 들어요.
+Edith: Herr Wendt hat in zwanzig Jahren nur zwei Briefe geschrieben. Beide zu Weihnachten. || 벤트 씨는 이십 년 동안 편지를 딱 두 통 썼어요. 둘 다 크리스마스 때요.
+Bine: Die guten alten Zeiten. || 좋았던 옛날이네요.
+Frau Schulze: Gut. Ich schreibe heute Abend den Widerspruch. Für alle. Wer will unterschreiben? || 좋아요. 오늘 저녁에 이의 신청서를 쓸게요. 모두를 위해서요. 누가 서명할래요?
+Derya: Ich. || 저요.
+Edith: Ich auch. || 나도요.
+Kalle: Wir alle. Frau Schulze, ab heute sind Sie unsere Ministerin für Finanzen. || 우리 다요. 슐체 부인, 오늘부터 부인이 우리 재무부 장관이에요.
+Frau Schulze: Ministerin? Nein. Aber den Brief schreibe ich. Und ohne Fehler. || 장관이요? 아니요. 그래도 편지는 쓸게요. 틀린 거 하나 없이.
+## Abends am Küchentisch | 저녁, 부엌 식탁에서
+Can: Mama, warum guckst du so traurig auf das Papier? || 엄마, 왜 그 종이를 그렇게 슬프게 봐?
+Derya: Ich gucke nicht traurig. Ich rechne. || 슬프게 보는 거 아니야. 계산하는 거야.
+Can: Rechnen macht dich traurig. Das kenne ich. Bei Mathe ist das bei mir auch so. || 계산하면 슬퍼지잖아. 나도 알아. 나도 수학할 때 그래.
+Derya: Die Miete wird ein bisschen teurer. Und wir müssen Geld für die Heizung nachzahlen. || 월세가 조금 비싸지거든. 그리고 난방비를 더 내야 해.
+Can: Wie viel? || 얼마나?
+Derya: Das musst du nicht wissen, mein Schatz. || 그건 네가 몰라도 돼, 우리 아들.
+Can: Doch. Ich bin zehn. Ich kann rechnen. Fast. || 알고 싶어. 나 열 살이야. 계산할 줄 알아. 거의.
+Derya: Na gut. Vierhundert Euro für die Heizung. Und siebzehn Euro mehr Miete. Jeden Monat. || 그래, 알았어. 난방비 400유로. 그리고 월세가 매달 17유로 더.
+Can: Und die Klassenfahrt kostet zweihundertachtzig. || 그리고 수학여행이 280이고.
+Derya: Du hast ein gutes Gedächtnis. Leider. || 기억력 좋네. 안타깝게도.
+Can: Kann ich nicht auf die Klassenfahrt? || 나 수학여행 못 가?
+Derya: Doch! Natürlich fährst du. Das ist kein Problem. Das ist sicher. || 아니야! 당연히 가지. 그건 문제없어. 그건 확실해.
+Can: Ich habe sechsundvierzig Euro im Sparschwein. Die kannst du haben. || 나 돼지 저금통에 46유로 있어. 그거 엄마 가져.
+Derya: Can … Nein. Das ist dein Geld. Das brauchst du nicht zu geben. || 잔… 아니야. 그건 네 돈이야. 줄 필요 없어.
+Can: Aber ich will. Für die Heizung. Mir ist im Winter immer kalt. Dann ist es mein Geld für meine Wärme. || 그래도 주고 싶어. 난방비로. 나 겨울에 늘 춥잖아. 그러니까 내 따뜻함을 위한 내 돈이야.
+Derya: Weißt du was? Du behältst dein Geld. Aber du hilfst mir sparen. Licht aus, wenn du rausgehst. || 있잖아. 네 돈은 네가 가져. 대신 엄마 절약하는 거 도와줘. 방에서 나갈 때 불 끄기.
+Can: Und kürzer duschen? || 그리고 샤워 짧게 하기?
+Derya: Und kürzer duschen. Fünf Minuten, nicht zwanzig. || 그리고 샤워 짧게 하기. 이십 분 말고 오 분.
+Can: Fünf Minuten? Das ist ja nicht mal ein Lied! || 오 분? 그건 노래 한 곡도 안 되잖아!
+Derya: Dann singst du schneller. || 그럼 노래를 더 빨리 불러.
+Can: Mama, wird alles gut? || 엄마, 다 괜찮아질까?
+Derya: Ja, Can. Wir schaffen das. Wir haben gute Nachbarn. Und eine sehr gute Finanzministerin. || 응, 잔. 우리 해낼 수 있어. 좋은 이웃들이 있잖아. 그리고 아주 훌륭한 재무부 장관도 있고.
