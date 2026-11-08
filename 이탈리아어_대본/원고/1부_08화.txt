@@ -1,160 +1,167 @@
 @part 1
 @ep 8
-@file La_lettera_dellaumento
-@title La lettera dell'aumento
-@ko 인상 통지서
-@where 비아 델 칸토네 7번지 1층 우편함 앞, 3층 세티미오의 부엌
+@file Il_gatto_della_signora_Loredana
+@title Il gatto della signora Loredana
+@ko 로레다나 부인의 고양이
+@where 비아 델 칸토네 7번지 계단·안뜰·옥상, 테스타초 골목, 피라미데 고양이 군락
 @level A2~B1
-@setting 4월 넷째 주 토요일 오전 10시, 건물 현관과 세티미오의 부엌
-@cast NADIA | 4층 세입자, 40세
-@cast LOREDANA | 2층 세입자, 66세
-@cast SETTIMIO | 3층 세입자, 83세
+@setting 4월 19일 일요일 아침 8시~11시
+@cast LOREDANA | 2층 세입자, 네로네의 주인, 66세
 @cast DAVIDE | 루카네 소파에서 지내는 청년, 27세
-@note 이 건물의 주인은 오래된 연금기관 «EPAM(Ente Previdenziale Arti e Mestieri)»이고, 관리는 위탁 회사가 맡는다. 토요일 아침, 세입자 우편함마다 같은 하얀 봉투가 꽂혀 있다. 그리고 그 옆에는 전기·가스 요금 고지서도.
+@cast SAMIR | 4층 나디아의 아들, 12세
+@cast SETTIMIO | 3층 세입자, 83세
+@note 어젯밤 세티미오 영감 집에서 '고지서 회의'가 열렸다. 다들 늦게까지 숫자를 맞추다 헤어졌는데, 오늘 아침 로레다나 부인이 눈을 뜨니 네로네가 없다. 창문은 조금 열려 있었다.
 
-# 장면 1 — LE CASSETTE DELLA POSTA
-NADIA: Buongiorno, Loredana. Anche lei ha ricevuto la lettera? || 안녕하세요, 로레다나. 부인도 편지 받으셨어요?
-LOREDANA: Buongiorno, Nadia. Quale lettera? Ne ho tre. || 안녕, 나디아. 무슨 편지? 세 통인데.
-NADIA: Quella bianca. Della società di gestione. || 하얀 거요. 관리 회사에서 온 거.
-LOREDANA: Ah, sì. Non l'ho ancora aperta. Le lettere bianche non portano mai buone notizie. || 아, 그거. 아직 안 열어 봤어. 하얀 편지는 좋은 소식을 가져오는 법이 없거든.
-NADIA: Questa no di sicuro. È un aumento dell'affitto. || 이건 확실히 아니에요. 월세 인상이에요.
-LOREDANA: Un aumento? Di nuovo? || 인상? 또?
-NADIA: Legga. «Aggiornamento ISTAT del canone di locazione». || 읽어 보세요. «임대료의 물가연동(ISTAT) 조정».
-LOREDANA: Aspetti, metto gli occhiali. «Ai sensi del contratto... il canone sarà aggiornato del settantacinque per cento della variazione dell'indice ISTAT...» || 잠깐, 안경 쓰고. «계약에 따라… 임대료는 ISTAT 지수 변동률의 75퍼센트만큼 조정됨…»
-NADIA: Io non ho capito niente. Lei ha capito? || 저는 하나도 못 알아들었어요. 부인은 알아들으셨어요?
-LOREDANA: Più o meno. I prezzi in Italia sono saliti. E allora sale anche l'affitto. Ma non tutto. Solo i tre quarti. || 대충은. 이탈리아 물가가 올랐잖아. 그래서 월세도 오른다는 거야. 근데 전부는 아니고. 4분의 3만.
-NADIA: E quanto sono, i tre quarti? || 그럼 4분의 3이 얼만데요?
-LOREDANA: Qui c'è scritto. La variazione è del due per cento. Il settantacinque per cento di due fa... uno e mezzo. || 여기 적혀 있네. 변동률은 2퍼센트. 2의 75퍼센트면… 1.5.
-NADIA: L'uno e mezzo per cento. Non è tantissimo. || 1.5퍼센트. 엄청 많진 않네요.
-LOREDANA: No. Ma tutti gli anni qualcosa. E la pensione non sale così. || 그렇지. 근데 해마다 조금씩이야. 연금은 이만큼 안 오르고.
-NADIA: Lei quanto paga adesso, se posso chiedere? || 실례지만 지금 얼마 내세요?
-LOREDANA: Cinquecentoventi euro al mese. Per sessanta metri quadri. || 한 달에 520유로. 60제곱미터에.
-NADIA: Cinquecentoventi? È pochissimo, per Roma! || 520이요? 로마에서 그건 엄청 싼 거예요!
-LOREDANA: Pochissimo adesso. Nel 1984 era tantissimo. Era mezzo stipendio di mio marito. || 지금은 싸지. 1984년엔 엄청 비쌌어. 남편 월급의 절반이었어.
-NADIA: Io pago settecentocinquanta. Per tre stanze al quarto piano. Senza ascensore. || 저는 750 내요. 4층 방 세 개에. 엘리베이터도 없이.
-LOREDANA: E lei il contratto quando l'ha fatto? || 계약은 언제 했어요?
-NADIA: Nel 2019. Quattro anni più quattro. Scade a marzo dell'anno prossimo. || 2019년에요. 4년+4년이요. 내년 3월에 끝나요.
-LOREDANA: Allora è fortunata. Fino a marzo è tranquilla. || 그럼 운이 좋네. 3월까진 마음 놓아도 돼.
-NADIA: E dopo marzo? || 3월 이후엔요?
-LOREDANA: Dopo marzo... Legga l'ultima riga. In fondo alla lettera. || 3월 이후라… 마지막 줄 읽어 봐요. 편지 맨 아래.
-NADIA: «Si informa inoltre che l'Ente sta valutando la valorizzazione del proprio patrimonio immobiliare». Cosa vuol dire? || «아울러 본 기관이 자산 부동산의 가치 제고를 검토 중임을 알려 드립니다». 무슨 뜻이에요?
-LOREDANA: Non lo so. Ma non mi piace. «Valorizzazione» non mi piace per niente. || 몰라. 근데 마음에 안 들어. «가치 제고»라니 하나도 마음에 안 들어.
-NADIA: Forse vogliono rifare la facciata? È tutta rovinata. || 혹시 건물 외벽을 새로 하려는 걸까요? 다 망가졌잖아요.
-LOREDANA: Forse. Speriamo che sia la facciata. || 그럴지도. 외벽이길 바라야지.
-DAVIDE: Buongiorno! Che facce! È morto qualcuno? || 안녕하세요! 표정들이 왜 그래요? 누가 죽었어요?
-LOREDANA: Buongiorno, Davide. No, nessuno è morto. Ma l'affitto è vivo e sale. || 안녕, 다비데. 아니, 아무도 안 죽었어요. 근데 월세는 살아서 오르네요.
-DAVIDE: Ah, la lettera bianca. L'ha ricevuta anche Luca. Me l'ha data da portare su. || 아, 하얀 편지. 루카도 받았어요. 위로 갖다 달라고 저한테 줬어요.
-NADIA: E tu? Tu non paghi niente, vero? Sei sul divano. || 넌? 넌 아무것도 안 내지? 소파에 있잖아.
-DAVIDE: Pago duecento euro a Luca. Per il divano e la doccia. || 루카한테 200유로 내요. 소파랑 샤워 값으로요.
-LOREDANA: Duecento euro per un divano? || 소파 하나에 200유로?
-DAVIDE: È un divano letto. Di lusso. Ha anche una molla rotta. Gratis. || 소파 침대예요. 고급이에요. 부러진 스프링도 하나 있어요. 공짜로.
-NADIA: Mamma mia. Roma è diventata impossibile. || 세상에. 로마는 불가능한 곳이 됐어.
-DAVIDE: Impossibile, ma bellissima. Per questo tutti la vogliono. || 불가능하지만 아름답잖아요. 그래서 다들 원하죠.
-LOREDANA: Tutti la vogliono. Ma pochi ci possono vivere. || 다들 원하지. 근데 거기서 살 수 있는 사람은 적어요.
-NADIA: Lo dico sempre a Samir: noi siamo romani, ma Roma costa sempre di più per i romani. || 사미르한테 늘 그래요. 우린 로마 사람인데, 로마는 로마 사람한테 갈수록 비싸진다고.
+# 장면 1 — NERONE NON C'È
+LOREDANA: Davide! Davide, è sveglio? Apra, per favore! || 다비데! 다비데, 깼어요? 문 좀 열어 줘요!
+DAVIDE: Loredana? Sono le otto di domenica... Cosa succede? || 로레다나? 일요일 아침 여덟 시인데… 무슨 일이에요?
+LOREDANA: Nerone è sparito. Non è in casa. L'ho cercato dappertutto. || 네로네가 사라졌어요. 집에 없어요. 온 데를 다 찾아봤어요.
+DAVIDE: Dappertutto? Sotto il letto? || 온 데를요? 침대 밑도요?
+LOREDANA: Sotto il letto, dentro l'armadio, dietro il divano, sopra la libreria. Niente. || 침대 밑, 옷장 안, 소파 뒤, 책장 위. 아무 데도 없어요.
+DAVIDE: E la finestra? Era aperta? || 창문은요? 열려 있었어요?
+LOREDANA: Un po'. La finestra della cucina. Ieri sera faceva caldo. È colpa mia. || 조금요. 부엌 창문이요. 어젯밤에 더웠거든요. 내 잘못이에요.
+DAVIDE: Non è colpa di nessuno. I gatti escono. Poi tornano. || 누구 잘못도 아니에요. 고양이는 나가요. 그러고는 돌아와요.
+LOREDANA: Nerone non esce mai. Ha paura di tutto. Anche delle mosche. || 네로네는 절대 안 나가요. 다 무서워해요. 파리도요.
+SAMIR: Cosa succede? Ho sentito delle voci dalle scale. || 무슨 일이에요? 계단에서 목소리가 들렸어요.
+DAVIDE: Ciao, Samir. Nerone è scappato. || 안녕, 사미르. 네로네가 도망갔대.
+SAMIR: Il gatto nero? Lo cerco io! Io sono bravo a cercare. || 그 까만 고양이요? 제가 찾을게요! 저 찾는 거 잘해요.
+LOREDANA: Grazie, Samir. Ma tua madre lo sa che sei sulle scale in pigiama? || 고마워, 사미르. 근데 엄마는 네가 잠옷 입고 계단에 있는 거 아니?
+SAMIR: La mamma dorme. Oggi non lavora. Mi cambio in un minuto. || 엄마는 자요. 오늘 쉬는 날이에요. 1분 만에 갈아입을게요.
+DAVIDE: Facciamo un piano. Prima cerchiamo nel palazzo. Poi fuori. || 계획을 세워요. 먼저 건물 안을 찾고요. 그다음에 밖.
+LOREDANA: Nel palazzo? Dove? || 건물 안에서? 어디를?
+DAVIDE: Le scale, il cortile, la cantina, il terrazzo. I gatti amano i posti strani. || 계단, 안뜰, 지하 창고, 옥상이요. 고양이들은 이상한 데를 좋아하잖아요.
+LOREDANA: Va bene. Io vado in cortile. Voi andate su, al terrazzo. || 좋아요. 나는 안뜰로 갈게요. 둘은 위로, 옥상으로 가요.
+SAMIR: Com'è Nerone? Cioè, lo so che è nero. Ma ci sono altri segni? || 네로네는 어떻게 생겼어요? 그러니까, 까만 건 아는데요. 다른 특징도 있어요?
+LOREDANA: È tutto nero, ma ha una macchiolina bianca sotto il collo. Piccola così. || 온통 까만데 목 밑에 하얀 점이 하나 있어. 이만큼 작은 거.
+SAMIR: Una macchiolina bianca. E gli occhi? || 하얀 점. 눈은요?
+LOREDANA: Gialli. Grandi e gialli. E ha un collare rosso con un campanellino. || 노란색. 크고 노래. 그리고 방울 달린 빨간 목걸이를 하고 있어.
+DAVIDE: Un campanellino! Perfetto. Così lo sentiamo. || 방울! 완벽해요. 그럼 소리가 들리겠네요.
+LOREDANA: Se si muove. Quando ha paura, non si muove per ore. || 움직이면요. 무서우면 몇 시간이고 꼼짝 안 해요.
+SAMIR: Quanti anni ha? || 몇 살이에요?
+LOREDANA: Sei. L'ho preso alla colonia della Piramide. Era piccolissimo, malato. || 여섯 살. 피라미데 군락에서 데려왔어. 아주 작고 아팠지.
+DAVIDE: Allora conosce la strada per la Piramide. || 그럼 피라미데 가는 길을 알겠네요.
+LOREDANA: Non credo. Aveva due mesi. Ma... non si sa mai. || 그렇진 않을 거예요. 두 달이었으니까. 그래도… 모르는 일이죠.
+SAMIR: Andiamo! Comincia la missione «Nerone»! || 가요! «네로네» 작전 시작!
 
-# 장면 2 — LA BOLLETTA DI SETTIMIO
-SETTIMIO: Loredana! Nadia! Venite su, per favore! Venite a vedere! || 로레다나! 나디아! 좀 올라와 봐! 와서 이것 좀 봐!
-LOREDANA: Settimio? Cosa succede? Sta male? || 세티미오? 무슨 일이에요? 어디 아파요?
-SETTIMIO: Sto malissimo! È arrivata la bolletta della luce! || 아주 죽겠어! 전기 요금 고지서가 왔어!
-DAVIDE: Saliamo. Andiamo tutti. || 올라가요. 다 같이 가요.
-NADIA: Eccoci, Sor Settimio. Mi faccia vedere. || 왔어요, 세티미오 영감님. 보여 주세요.
-SETTIMIO: Guarda qui. Centottantadue euro! Per due mesi! || 여기 봐. 182유로! 두 달에!
-NADIA: Centottantadue? E di solito quanto paga? || 182요? 보통은 얼마 내세요?
-SETTIMIO: Settanta. Ottanta al massimo. Io sono solo. Ho una lampadina, il frigo e la radio. || 70. 많아 봐야 80. 나 혼자 살잖아. 전구 하나, 냉장고, 라디오가 다야.
-LOREDANA: E la radio nuova consuma pochissimo. Gliel'ho scelta io. || 그리고 새 라디오는 전기 거의 안 먹어요. 내가 골랐거든요.
-DAVIDE: Posso guardare? Io lavoro nel marketing. Le bollette le conosco. || 봐도 돼요? 저 마케팅 일 해요. 고지서는 좀 알아요.
-SETTIMIO: Guarda, guarda. Io non capisco niente. Ci sono più numeri che parole. || 봐, 봐. 난 하나도 모르겠어. 글자보다 숫자가 더 많아.
-DAVIDE: Allora... Qui c'è il nome della società. Non è la sua vecchia società, Sor Settimio. || 그러니까… 여기 회사 이름이 있네요. 영감님 예전 회사가 아니에요.
-SETTIMIO: Come no? Io non ho cambiato niente! || 아니라고? 난 아무것도 안 바꿨는데!
-DAVIDE: Qui c'è scritto: «Contratto mercato libero, attivato il dieci febbraio». || 여기 쓰여 있어요. «자유시장 요금제 계약, 2월 10일 개통».
-SETTIMIO: Il dieci febbraio? Mercato libero? Io non ho firmato niente. || 2월 10일? 자유시장? 난 아무것도 서명 안 했어.
-NADIA: Ha ricevuto una telefonata, a febbraio? Qualcuno che parlava della luce? || 2월에 전화 받으신 적 있어요? 누가 전기 얘기를 했다거나?
-SETTIMIO: Telefonate ne ricevo tante. Uno al giorno mi chiama per la luce, il gas, il telefono... || 전화야 많이 오지. 하루에 한 명은 전기, 가스, 전화 얘기로 전화해…
-LOREDANA: E lei cosa risponde? || 그럼 뭐라고 대답하세요?
-SETTIMIO: Niente. Dico «sì, sì» e poi chiudo. Così finiscono prima. || 별말 안 해. «네, 네» 하고 끊어. 그래야 빨리 끝나니까.
-DAVIDE: Ecco il problema. «Sì». Quella parola la registrano. || 그게 문제예요. «네». 그 말을 녹음해요.
-SETTIMIO: La registrano? Il mio «sì»? || 녹음한다고? 내 «네»를?
-DAVIDE: Sì. Poi dicono: «Il cliente ha accettato il contratto». È una truffa vecchia, ma funziona ancora. || 네. 그러고는 «고객이 계약을 수락했다»고 해요. 오래된 사기인데 아직도 통해요.
-LOREDANA: Che delinquenti. Con un uomo di ottantatré anni. || 나쁜 사람들 같으니. 여든세 살 노인한테.
-NADIA: Ma lei, Sor Settimio, ha più di settantacinque anni. È un cliente «vulnerabile». || 근데 영감님은 일흔다섯 넘으셨잖아요. «취약 고객»이에요.
-SETTIMIO: Vulnerabile? Io? Io ho lavorato al Mattatoio sedici anni! || 취약? 내가? 나 마타토이오에서 16년 일했어!
-NADIA: È una parola della legge. Vuol dire che lei ha diritto a una tariffa protetta. Più bassa. || 법에 나오는 말이에요. 보호 요금을 받을 권리가 있다는 뜻이에요. 더 싼 요금이요.
-SETTIMIO: E allora perché pago centottantadue euro? || 그럼 난 왜 182유로를 내?
-DAVIDE: Perché qualcuno l'ha spostata nel mercato libero. Ma si può tornare indietro. || 누가 영감님을 자유시장으로 옮겨서요. 근데 되돌릴 수 있어요.
-SETTIMIO: Davvero? E come? || 정말? 어떻게?
-NADIA: Si fa un reclamo. Si scrive alla società. Si dice: «Non ho firmato, voglio tornare alla tariffa di prima». || 이의 신청을 해요. 회사에 편지를 써요. «서명하지 않았다, 예전 요금으로 돌아가고 싶다»고요.
-SETTIMIO: Scrivere? Io scrivo male. Le mani tremano. || 쓰라고? 난 글씨 엉망이야. 손이 떨려.
-DAVIDE: Lo scrivo io. Al computer. Lei firma e basta. || 제가 쓸게요. 컴퓨터로. 영감님은 서명만 하세요.
-SETTIMIO: Tu lo faresti? Per me? || 자네가 해 주겠다고? 나를 위해?
-DAVIDE: Certo. Lei mi ha dato un caffè sospeso, la settimana scorsa. Siamo pari. || 그럼요. 지난주에 저한테 맡겨 둔 커피를 주셨잖아요. 이걸로 퉁쳐요.
-SETTIMIO: Io? Non me lo ricordo. || 내가? 기억이 안 나는데.
-DAVIDE: Io sì. Era buonissimo. || 저는 기억해요. 엄청 맛있었어요.
-NADIA: Davide, e se la società non risponde? || 다비데, 회사가 답을 안 하면?
-DAVIDE: Allora si va allo sportello per i consumatori. Ce n'è uno anche qui in zona. || 그럼 소비자 상담 창구에 가요. 이 근처에도 하나 있어요.
-SETTIMIO: Lo sportello? Con la fila? || 창구? 줄 서서?
-LOREDANA: Con la fila. Ma la fila la facciamo insieme a lei. || 줄 서서요. 근데 줄은 우리가 같이 서 드릴게요.
-SETTIMIO: In tre in fila? Sembra la fila per il pane del dopoguerra. || 셋이서 줄을? 전쟁 끝나고 빵 사려고 서던 줄 같네.
-NADIA: Lei si ricorda il dopoguerra? || 전쟁 직후가 기억나세요?
-SETTIMIO: Poco. Ero piccolo. Ma mia madre parlava sempre della fila per il pane. Due ore per una pagnotta. || 조금. 어렸으니까. 근데 우리 어머니가 빵 줄 얘기를 늘 하셨어. 빵 한 덩이에 두 시간.
-DAVIDE: Due ore? Io due ore le passo alla posta per una raccomandata. || 두 시간이요? 저는 등기 하나 부치려고 우체국에서 두 시간 보내요.
-SETTIMIO: Allora non è cambiato niente. Solo il pane è più caro. || 그럼 변한 게 없네. 빵만 비싸졌지.
+# 장면 2 — NEL PALAZZO
+DAVIDE: Nerone! Nerone! Micio, micio, micio... || 네로네! 네로네! 야옹아, 야옹아, 야옹아…
+SAMIR: Qui sul terrazzo non c'è. Ci sono solo i panni stesi e le piante. || 여기 옥상엔 없어요. 널어 놓은 빨래랑 화분밖에 없어요.
+DAVIDE: Guarda dietro i vasi. E sotto il tavolo di plastica. || 화분 뒤를 봐. 그리고 플라스틱 테이블 밑도.
+SAMIR: Niente. Solo un piccione. Mi guarda male. || 없어요. 비둘기 한 마리뿐이에요. 절 노려봐요.
+DAVIDE: Anche tu guarderesti male, se un ragazzo ti svegliasse alle otto di domenica. || 너도 일요일 아침 여덟 시에 누가 깨우면 노려볼걸.
+SAMIR: E se è sul tetto? Sopra il terrazzo? || 혹시 지붕 위에 있으면요? 옥상 위에?
+DAVIDE: Sul tetto? Speriamo di no. Lì non saliamo. È pericoloso. || 지붕에? 아니길 바라자. 거긴 안 올라가. 위험해.
+LOREDANA: Ragazzi! Niente in cortile! Neanche in cantina! || 얘들아! 안뜰에도 없어요! 지하 창고에도 없어요!
+DAVIDE: Neanche qui! Scendiamo! || 여기도 없어요! 내려갈게요!
+LOREDANA: Ho guardato dietro i bidoni, sotto le biciclette, tra le scatole della cantina. || 쓰레기통 뒤, 자전거 밑, 창고 상자들 사이를 다 봤어요.
+SAMIR: Sotto le biciclette? La mia bici è lì! Quella blu. || 자전거 밑이요? 제 자전거가 거기 있어요! 파란 거.
+LOREDANA: Lo so. L'ho vista. Bella. Ma Nerone non c'era. || 알아. 봤어. 예쁘더라. 근데 네로네는 없었어.
+DAVIDE: Allora è uscito dal palazzo. Dobbiamo cercarlo fuori. || 그럼 건물 밖으로 나간 거예요. 밖에서 찾아야 해요.
+LOREDANA: Fuori. Con le macchine, i motorini, i cani... Oddio. || 밖이라니. 차, 스쿠터, 개들이 있는데… 세상에.
+SAMIR: Facciamo un cartello! Come nei film. «Cercasi gatto». || 전단지 만들어요! 영화처럼요. «고양이를 찾습니다».
+DAVIDE: Bella idea. Io ho una foto di Nerone? No... || 좋은 생각이야. 나한테 네로네 사진 있나? 없네…
+LOREDANA: Io ne ho trecento. Sul telefono. Ecco, questa è la più bella. || 나한테 삼백 장 있어요. 휴대폰에. 여기, 이게 제일 예뻐요.
+SAMIR: Che bello! Sembra una pantera piccola. || 멋지다! 작은 표범 같아요.
+DAVIDE: Scriviamo: «Smarrito gatto nero. Maschio, sei anni. Macchia bianca sotto il collo. Collare rosso». || 이렇게 쓰자. «검은 고양이를 잃어버렸습니다. 수컷, 여섯 살. 목 밑에 하얀 점. 빨간 목걸이».
+SAMIR: E «Ricompensa»? Nei film c'è sempre «Ricompensa». || 그리고 «사례금»은요? 영화엔 늘 «사례금»이 있잖아요.
+LOREDANA: Ricompensa: una torta. Fatta da me. || 사례금: 케이크 하나. 내가 직접 만든 거.
+DAVIDE: Perfetto. E il numero di telefono. Il suo. || 완벽해요. 그리고 전화번호. 부인 거요.
+LOREDANA: Tre, quattro, sette... Lo scrivo io. Le mie mani almeno funzionano. || 3, 4, 7… 내가 쓸게요. 내 손은 그래도 멀쩡하니까.
+SAMIR: Io lo fotografo e lo mando nella chat del quartiere. E nella chat della classe! || 제가 사진 찍어서 동네 단톡방에 보낼게요. 그리고 반 단톡방에도요!
+LOREDANA: Nella chat della classe? Con duecento messaggi al giorno? || 반 단톡방에? 하루에 메시지 이백 개 오는 데?
+SAMIR: Le mamme leggono tutto. Più dei carabinieri. || 엄마들은 다 읽어요. 카라비니에리보다 더요.
 
-# 장면 3 — I CONTI DI CASA
-LOREDANA: E la sua lettera bianca, Settimio? L'ha aperta? || 세티미오, 하얀 편지는요? 열어 봤어요?
-SETTIMIO: Quale lettera bianca? || 무슨 하얀 편지?
-NADIA: Dell'affitto. È nella sua cassetta. L'ho vista. || 월세 거요. 영감님 우편함에 있어요. 제가 봤어요.
-SETTIMIO: Ah. Non la apro. Una brutta notizia al giorno basta. || 아. 안 열어. 나쁜 소식은 하루에 하나면 충분해.
-LOREDANA: Non è così brutta. L'uno e mezzo per cento. || 그렇게 나쁘진 않아요. 1.5퍼센트예요.
-SETTIMIO: Io pago trecentottanta euro. L'uno e mezzo per cento quanto fa? || 나 380유로 내. 1.5퍼센트면 얼마야?
-DAVIDE: Aspetti... Cinque euro e settanta. Al mese. || 잠깐만요… 5유로 70센트요. 한 달에.
-SETTIMIO: Cinque euro e settanta. Quattro caffè. Va bene. Lo posso sopportare. || 5유로 70. 커피 네 잔이네. 괜찮아. 그 정도는 견딜 수 있어.
-NADIA: Trecentottanta euro? Per tutto l'appartamento? || 380유로요? 집 전체에요?
-SETTIMIO: Ho il contratto vecchio. Del 1978. Mia moglie l'ha firmato con l'Ente. Allora c'era l'equo canone. || 계약이 옛날 거라서. 1978년 거야. 집사람이 기관이랑 서명했지. 그땐 '공정 임대료' 제도가 있었거든.
-DAVIDE: L'equo canone? Cos'è? || 공정 임대료요? 그게 뭐예요?
-LOREDANA: Una legge di una volta. Lo Stato decideva il prezzo giusto degli affitti. || 옛날 법이에요. 국가가 월세의 적정 가격을 정했어요.
-DAVIDE: Lo Stato decideva il prezzo? Oggi sembra fantascienza. || 국가가 가격을 정했다고요? 요즘 같으면 공상과학이네요.
-SETTIMIO: Oggi tutto è fantascienza. I prezzi, le bollette, le telefonate... || 요즘은 다 공상과학이야. 물가도, 고지서도, 전화도…
-NADIA: Anche la mia bolletta del gas è salita. Centoquaranta euro a marzo. || 우리 집 가스 요금도 올랐어요. 3월에 140유로요.
-LOREDANA: E la mia? Non la apro neanche io. La apro lunedì. Lunedì sono più forte. || 내 건? 나도 안 열어. 월요일에 열 거야. 월요일엔 좀 더 강하니까.
-DAVIDE: Facciamo una cosa. Io stasera ho tempo. Portate qui le bollette e controlliamo tutto insieme. || 이렇게 해요. 저 오늘 저녁 시간 있어요. 고지서들 여기로 가져오시면 같이 다 확인해요.
-NADIA: Tutte insieme? Qui, da Settimio? || 다 같이? 여기, 세티미오 영감님 댁에서?
-SETTIMIO: Qui da me? Va bene. Ma senza musica. La signora del secondo piano è severa. || 우리 집에서? 좋아. 근데 음악은 없이. 2층 부인이 엄격하거든.
-LOREDANA: La signora del secondo piano porta il dolce. || 2층 부인이 디저트를 가져올게요.
-NADIA: E io porto un tè. Il tè di mia madre, con il cardamomo. || 그럼 저는 차 가져올게요. 우리 엄마 차요, 카다멈 넣은 거.
-DAVIDE: E io porto il computer e la calcolatrice. || 그럼 전 컴퓨터랑 계산기 가져올게요.
-SETTIMIO: Allora è una festa? || 그럼 잔치야?
-LOREDANA: No, Settimio. È una riunione. Con il dolce. || 아니에요, 세티미오. 회의예요. 디저트 있는.
-SETTIMIO: Una non-festa. Come il mio compleanno. Mi piacciono le non-feste. || 잔치 아닌 잔치구먼. 내 생일처럼. 난 잔치 아닌 잔치가 좋아.
-NADIA: Alle otto, allora? || 그럼 여덟 시에요?
-SETTIMIO: Alle otto. E se squilla il telefono, non rispondo. || 여덟 시. 그리고 전화 울리면 안 받을 거야.
-DAVIDE: Bravo. E se risponde, non dica «sì». || 잘하셨어요. 그리고 받으시면 «네»라고 하지 마세요.
-SETTIMIO: Cosa dico, allora? || 그럼 뭐라고 해?
-DAVIDE: Dica: «Chi parla? Mi richiami domani». E poi chiuda. || «누구세요? 내일 다시 전화하세요»라고 하세요. 그리고 끊으세요.
-SETTIMIO: «Mi richiami domani». E domani? || «내일 다시 전화하세요». 그럼 내일은?
-LOREDANA: Domani dice la stessa cosa. Tutti i giorni. Fino a quando si stancano. || 내일도 똑같이 말하세요. 매일. 그쪽이 지칠 때까지요.
-SETTIMIO: Ah, questo mi piace. Ho molto tempo. Più di loro. || 아, 그거 좋네. 난 시간이 많아. 그쪽보다 많지.
-NADIA: Sor Settimio, e la lettera bianca? La apriamo stasera? || 세티미오 영감님, 하얀 편지는요? 오늘 저녁에 열어요?
-SETTIMIO: Stasera. Con il dolce. Le brutte notizie con il dolce sono meno brutte. || 오늘 저녁에. 디저트랑 같이. 나쁜 소식도 디저트랑 같이면 덜 나빠.
-LOREDANA: E l'ultima riga, Settimio. La «valorizzazione». Quella la leggiamo con due dolci. || 그리고 마지막 줄이요, 세티미오. «가치 제고». 그건 디저트 두 개랑 읽어야겠어요.
+# 장면 3 — PER LE STRADE DI TESTACCIO
+DAVIDE: Nerone! Micio! Allora, Samir, tu guarda a destra. Io a sinistra. || 네로네! 야옹아! 자, 사미르, 넌 오른쪽 봐. 난 왼쪽.
+SAMIR: A destra c'è solo il mercato. È chiuso. È domenica. || 오른쪽엔 시장밖에 없어요. 닫았어요. 일요일이잖아요.
+LOREDANA: I gatti amano il mercato. C'è il banco del pesce. || 고양이들은 시장을 좋아해요. 생선 가게가 있으니까.
+DAVIDE: Ma oggi il pesce non c'è. || 근데 오늘은 생선이 없잖아요.
+LOREDANA: Il pesce no. Ma l'odore resta. Andiamo a vedere dietro il mercato. || 생선은 없죠. 근데 냄새는 남아요. 시장 뒤로 가 봐요.
+SAMIR: Guardate! Là, sotto quella macchina! Qualcosa di nero! || 보세요! 저기, 저 차 밑에! 뭔가 까만 거!
+LOREDANA: Nerone? Nerone, amore? || 네로네? 네로네, 우리 아가?
+DAVIDE: Aspetti... no. È una busta di plastica. Nera. Mi dispiace. || 잠깐만요… 아니네요. 비닐봉지예요. 까만 거. 죄송해요.
+LOREDANA: Una busta. Ho chiamato «amore» una busta. || 봉지라니. 내가 봉지한테 «우리 아가»라고 불렀네.
+SAMIR: Non si preoccupi, signora. Lo troviamo. Sono sicuro. || 걱정 마세요, 아줌마. 찾을 거예요. 확실해요.
+LOREDANA: Grazie, Samir. Sei un bravo ragazzo. Come tua madre. || 고마워, 사미르. 넌 착한 아이구나. 너희 엄마처럼.
+DAVIDE: Proviamo alla Piramide. Forse si ricorda la colonia. || 피라미데에 가 봐요. 혹시 군락을 기억할지도 몰라요.
+LOREDANA: È lontano per un gatto. Dieci minuti a piedi. Ma andiamo. || 고양이한텐 먼 길이에요. 걸어서 10분. 그래도 가 봐요.
+
+# 장면 4 — ALLA PIRAMIDE
+SAMIR: Quanti gatti! Sono tantissimi! || 고양이 엄청 많다! 진짜 많아요!
+LOREDANA: Ventidue. Ventitré, quando c'è Nerone. || 스물두 마리. 네로네가 있으면 스물세 마리.
+DAVIDE: Ecco Garibaldi! Quello rosso con un occhio solo. Ciao, generale. || 가리발디다! 저 외눈 주황 고양이. 안녕, 장군님.
+SAMIR: Garibaldi? Un gatto si chiama Garibaldi? || 가리발디요? 고양이 이름이 가리발디예요?
+LOREDANA: Ha fatto molte battaglie. Garibaldi, hai visto Nerone? Il tuo fratellino nero? || 싸움을 많이 했거든. 가리발디, 네로네 봤니? 네 까만 동생 말이야.
+DAVIDE: Cosa dice? || 뭐래요?
+LOREDANA: Dice che ha fame. Come sempre. Niente Nerone. || 배고프대요. 늘 그렇듯이. 네로네는 없네요.
+SAMIR: Guardo dietro le pietre. E vicino al muro del cimitero. || 돌 뒤를 볼게요. 그리고 묘지 담 근처도요.
+DAVIDE: Io guardo tra i cespugli. Attento a non cadere, Samir. || 난 덤불 사이를 볼게. 넘어지지 않게 조심해, 사미르.
+SAMIR: Niente. Solo gatti grigi, gatti bianchi, gatti tigrati... Nessun gatto tutto nero. || 없어요. 회색 고양이, 하얀 고양이, 줄무늬 고양이뿐이에요… 온통 까만 고양이는 없어요.
+LOREDANA: Non è qui. Lo sapevo. Nerone non verrebbe mai qui da solo. || 여기 없어요. 그럴 줄 알았어요. 네로네는 혼자선 절대 여기 안 와요.
+DAVIDE: Torniamo a casa. Forse è tornato da solo. A volte succede. || 집으로 돌아가요. 혹시 혼자 돌아왔을지도 몰라요. 가끔 그래요.
+LOREDANA: Forse. Ma prima do da mangiare a questi. Non posso andare via senza. || 그럴지도요. 근데 먼저 얘들 밥부터 줘야 해요. 그냥은 못 가요.
+SAMIR: L'aiuto io. Quante crocchette per gatto? || 제가 도와드릴게요. 고양이 한 마리에 사료 얼마나요?
+LOREDANA: Una manciata. Così. Né di più, né di meno. || 한 줌. 이렇게. 더도 말고 덜도 말고.
+
+# 장면 5 — DI NUOVO A CASA
+SETTIMIO: Loredana! Finalmente! La cerco da un'ora! || 로레다나! 드디어! 한 시간째 찾았어!
+LOREDANA: Settimio? Mi cerca? Perché? || 세티미오? 나를 찾았다고요? 왜요?
+SETTIMIO: Guardi chi c'è in casa mia. Sul mio letto. || 우리 집에 누가 있는지 봐요. 내 침대 위에.
+LOREDANA: Nerone? Nerone! È da lei? || 네로네? 네로네! 영감님 집에 있어요?
+SETTIMIO: Da ieri sera, credo. È entrato durante la riunione. Con il dolce. || 어젯밤부터인 것 같아. 회의할 때 들어왔나 봐. 디저트 먹을 때.
+DAVIDE: Durante la riunione? E nessuno l'ha visto? || 회의할 때요? 근데 아무도 못 봤어요?
+SETTIMIO: Si è nascosto sotto il mio letto. Poi stanotte è salito sul letto. Dormiva sopra la mia radio nuova. || 내 침대 밑에 숨었더라고. 그러다 밤에 침대 위로 올라왔어. 내 새 라디오 위에서 자고 있었어.
+SAMIR: Sopra la radio? Perché? || 라디오 위에서요? 왜요?
+SETTIMIO: Perché è calda. Io la lascio accesa tutta la notte. || 따뜻하니까. 난 밤새 켜 두거든.
+LOREDANA: E il campanellino? Non l'ha sentito? || 방울 소리는요? 못 들으셨어요?
+SETTIMIO: Quale campanellino? || 무슨 방울?
+DAVIDE: Ah, ecco. Ecco perché. || 아, 그렇구나. 그래서였구나.
+LOREDANA: Nerone, amore mio. Vieni qui. Hai fatto paura a tutti. || 네로네, 우리 아가. 이리 와. 다들 겁먹었잖아.
+SETTIMIO: Non è stato cattivo. Ha dormito tranquillo, vicino a un vecchio. Mi ha fatto compagnia. || 나쁜 짓은 안 했어. 늙은이 옆에서 얌전히 잤지. 나랑 같이 있어 줬어.
+LOREDANA: Grazie, Settimio. Se vuole, può venire a trovarlo. Quando vuole. || 고마워요, 세티미오. 원하시면 보러 오세요. 언제든지요.
+SAMIR: E la ricompensa? La torta? || 그럼 사례금은요? 케이크요?
+LOREDANA: La torta la faccio lo stesso. Per tutti. Per Davide, per Samir e per Settimio. || 케이크는 그래도 만들게. 다 같이 먹게. 다비데, 사미르, 그리고 세티미오를 위해서.
+SETTIMIO: Per me? Io non ho fatto niente. Ho solo dormito. || 나를 위해? 난 아무것도 안 했는데. 잠만 잤어.
+DAVIDE: È il modo migliore di cercare un gatto. Dormire e aspettare. || 그게 고양이 찾는 제일 좋은 방법이에요. 자면서 기다리기.
+SAMIR: Devo togliere il cartello dalla chat! Le mamme stanno già cercando un gatto nero in tutta Testaccio! || 단톡방에서 전단지 내려야겠다! 엄마들이 벌써 테스타초 전체에서 까만 고양이를 찾고 있어요!
+
+LOREDANA: Toglilo, toglilo. E scrivi «Trovato! Grazie a tutti». || 내려, 내려. 그리고 «찾았어요! 다들 고마워요»라고 써.
+SAMIR: «Trovato a casa del vicino, sopra una radio». Scrivo anche questo? || «이웃집 라디오 위에서 찾음». 이것도 쓸까요?
+LOREDANA: No. Questo no. Ho una reputazione. || 아니. 그건 안 돼. 내 체면이 있지.
+DAVIDE: Loredana, Nerone ha il microchip? || 로레다나, 네로네 마이크로칩 있어요?
+LOREDANA: Certo. Dal veterinario, quando era piccolo. Perché? || 그럼요. 어릴 때 수의사한테서. 왜요?
+DAVIDE: Così, se un giorno si perde davvero, il veterinario legge il chip e la chiama. || 그럼 언젠가 진짜 길을 잃어도 수의사가 칩을 읽고 부인한테 전화하잖아요.
+LOREDANA: Lo so. Ma il microchip non lo trova sotto il letto di Settimio. || 알아요. 근데 마이크로칩으로 세티미오 침대 밑은 못 찾죠.
+SETTIMIO: Il mio letto è un posto sicuro. Più sicuro della Piramide. || 내 침대는 안전한 곳이야. 피라미데보다 안전하지.
+SAMIR: Sor Settimio, stasera c'è il derby! Viene al bar? || 세티미오 영감님, 오늘 저녁에 더비 있어요! 바에 오세요?
+SETTIMIO: Il derby! Me n'ero dimenticato. Con tutta questa storia del gatto. || 더비! 깜빡했네. 고양이 소동 때문에.
+DAVIDE: Io vengo. Il mio primo derby a Roma. || 저 갈 거예요. 로마에서 보는 첫 더비예요.
+SETTIMIO: Il tuo primo derby? E per chi tifi? || 첫 더비라고? 그럼 어느 팀 응원하나?
+DAVIDE: Per la Reggina. Ma stasera... per la Roma. Per educazione. || 레지나요. 근데 오늘 저녁엔… 로마요. 예의상.
+SETTIMIO: Bravo. L'educazione prima di tutto. || 잘했어. 예의가 먼저지.
+LOREDANA: Io non vengo. Resto a casa con Nerone. E chiudo tutte le finestre. || 난 안 가요. 네로네랑 집에 있을 거예요. 그리고 창문 다 닫고.
+SETTIMIO: E io? Stanotte dormo da solo con la radio. || 그럼 나는? 오늘 밤엔 라디오랑 혼자 자네.
+LOREDANA: Settimio, Nerone può venire a trovarla domani. Per un'ora. Con la porta aperta. || 세티미오, 네로네가 내일 놀러 갈 수 있어요. 한 시간 동안. 문 열어 놓고요.
 
 @points
-- 퍼센트와 분수 읽기: «il settantacinque per cento», «l'uno e mezzo per cento», «i tre quarti», «il due per cento». 'per cento'는 [pertˈʃɛnto], 앞 숫자와 붙여 한 덩어리로.
-- 큰 금액: «cinquecentoventi», «settecentocinquanta», «trecentottanta», «centottantadue», «centoquaranta». 'cento' + 'otto'는 'centotto'(o 하나 탈락), 'centottanta'처럼 겹자음이 생긴다.
-- 부정과 강한 부정: «Non ho capito niente», «Non l'ho ancora aperta», «non mi piace per niente», «Io non ho firmato niente», «Non la apro neanche io». 'non … niente/neanche'의 이중 부정을 끊지 말고 한 호흡으로.
-- 걱정의 억양: «E dopo marzo?», «Cosa vuol dire?»는 낮게 시작해 끝을 살짝 올린다. 놀람 «Centottantadue?»는 높게.
-- 이중자음: «settanta», «settecento», «affitto», «bolletta», «ascensore», «sopportare», «Ottanta». 'cc'·'tt' 앞에서 잠깐 멈추는 느낌.
-- 'gli' 소리: «gli occhiali», «Gliel'ho scelta», «moglie», «figlio» — 혀를 입천장에 넓게 붙인 [ʎ]. 'gl' 뒤에 i가 없으면(«inglese») 그냥 [gl].
-- 형식적 문서체 낭독: «Ai sensi del contratto», «Si informa inoltre che l'Ente sta valutando...». 공문은 천천히, 단어마다 강세를 살려 또박또박.
+- 장소 전치사 리듬: «sotto il letto», «dentro l'armadio», «dietro il divano», «sopra la libreria», «tra le scatole», «vicino al muro», «davanti a». 전치사와 관사를 붙여(sotto il → [ˈsotto il]) 한 호흡에.
+- 외모 묘사: «È tutto nero», «una macchiolina bianca sotto il collo», «Grandi e gialli», «un collare rosso con un campanellino». 형용사 어미(-o/-a/-i/-e)를 명사에 맞춰 분명히.
+- 지소사 «macchiolina», «campanellino», «fratellino», «piccolissimo» — 끝 '-ino/-ina'에 부드럽게 강세.
+- 이중자음: «gatto», «sotto», «collo», «collare», «campanellino», «piccione», «cespugli»(홑)와 대비. 'cc'는 [ttʃ].
+- 'gli' 소리: «gialli», «cespugli», «Gli occhi», «famiglia» — [ʎ]를 길게.
+- 'sc'와 'sch': «scappato», «scatole»[sk] ↔ «sci»(이 화엔 없음). «nascosto»[sk].
+- 다급한 부름의 억양: «Nerone! Nerone!», «Micio, micio, micio...»는 높고 길게 늘였다가 점점 부드럽게. 실망 «È una busta di plastica.»는 낮게 떨어뜨린다.
 
 @notes
-- 'aggiornamento ISTAT' 물가연동 월세 조정. 이탈리아 임대 계약은 국가통계청(ISTAT) 소비자물가 변동률의 75퍼센트까지 해마다 올릴 수 있도록 정하는 경우가 많다.
-- 'quattro più quattro' 4+4 자유 임대 계약(4년 후 1회 자동 갱신). 'scade' «만료된다».
-- 'equo canone' 1978년에 도입된 '공정 임대료' 제도. 오래된 계약을 가진 노년 세입자 중에는 아직 아주 낮은 월세를 내는 사람이 있다.
-- 'mercato libero' 전기·가스 자유시장. 이탈리아는 최근 규제 요금(mercato tutelato)을 대부분 끝냈고, 75세 이상 등 '취약 고객(vulnerabili)'은 보호 요금을 받을 수 있다. 전화로 «네»만 녹음해 계약을 바꾸는 사기가 사회 문제다.
-- 'reclamo' 이의 신청·민원. 'Siamo pari' «이걸로 퉁치자(셈이 같다)».
-- 'valorizzazione del patrimonio immobiliare' 부동산 자산의 '가치 제고' — 공문에선 매각·재개발을 뜻하는 경우가 많다. 이 줄이 18화의 복선.
-- 'delinquenti' «범죄자들, 나쁜 놈들» — 화가 난 감탄으로 쓰지만 사람 앞에서 직접 부르면 강한 비난이다.
+- 'Micio, micio' «야옹아» — 고양이를 부르는 말. 'micio'는 '고양이'의 다정한 말.
+- 'dappertutto' «사방, 온 데». 'Non si sa mai' «모르는 일이다, 혹시 모르니까».
+- 'Cercasi gatto' «고양이 구함» — 광고·전단지 문체(si 수동). 'Smarrito' «잃어버린(분실)», 'Ricompensa' «사례금».
+- 'panni stesi' «널어 놓은 빨래». 로마 아파트 옥상(terrazzo)은 빨래를 너는 공용 공간인 경우가 많다.
+- 'una manciata' «한 줌». 'Né di più, né di meno' «더도 말고 덜도 말고».
+- 'Mi ha fatto compagnia' «나랑 같이 있어 줬다(말동무가 돼 줬다)».
+- 'microchip' 반려동물 식별 칩. 이탈리아에선 개는 등록·칩이 의무이고 고양이도 많이 한다.
+- 'tifare per' «~팀을 응원하다». 레지나(Reggina)는 레조칼라브리아의 축구팀.
+- 동네 단톡방(chat del quartiere)은 이탈리아 도시에서 잃어버린 동물·소식을 퍼뜨리는 주요 통로다.
 
 @next
-1부 9화 — «Il gatto della signora Loredana»(로레다나 부인의 고양이) — 고지서 회의를 하던 그날 밤, 열린 창문으로 네로네가 사라진다. 다음 날 아침 이웃들은 테스타초 골목을 지나 피라미데 군락까지 검은 고양이를 찾아 나선다.
+1부 9화 — «Il derby al bar»(바에서 보는 더비) — 같은 날 저녁, 로마 대 라치오. 프랑코의 바는 노랑·빨강 목도리로 가득하고, 하필 라치오 팬인 오랜 친구가 맨 앞자리에 앉는다.
