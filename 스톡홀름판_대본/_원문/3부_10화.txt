@@ -1,0 +1,268 @@
+PART: 3
+EP: 10
+TITLE: Pengarna i väggarna
+SUBTITLE: 벽 속의 돈 · 추적 10, 카페 Biggans
+META: 대사 120턴 · 난이도 B2 · 배경: 4월 첫째 주 목요일 저녁, 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: FARID | 건설 노동자 · 23세 (가상)
+CAST: TOVE | 건설노조 Byggnads 지역 상담원 (가상)
+CAST: LUNDGREN | Lundgrens Bygg & Städ AB 사장 (가상)
+NOTE: ※ 돈세탁의 흔한 방법 가운데 하나는 실제로 하지 않은 일에 대한 청구서(fiktiva fakturor)입니다. 서류상으로는 ‘공사비’로 돈이 나가지만, 벽은 그대로입니다. 스웨덴 건설 현장에서는 모든 노동자의 출입을 전자로 기록하는 ‘출입 기록부(personalliggare)’가 의무이고, 국세청이 이를 점검합니다. 1부 5~6화의 Farid가 2년 동안 Lundgren 현장에서 매일 찍은 출입 기록이, 이번엔 임금이 아니라 ‘공사가 없었다’는 증거가 됩니다. 스웨덴에는 미국식 유죄 협상(plea deal)은 없지만, 수사에 협조한 것은 형을 정할 때 고려될 수 있습니다. 문법 초점: 사실과 반대되는 서술(det står att…, men i verkligheten…)과 수동태. 표현 초점: faktura, överprissatt, tvätta pengar, underentreprenör, vittna.
+
+# 도입 — JULMUST I APRIL
+BIGGAN: Farid! Jag lovade dig julmust. Jag har sparat två flaskor sedan december.
+= 파리드! 율무스트 준다고 약속했지. 12월부터 두 병 아껴 놨어.
+FARID: Julmust i april. Det är det mest svenska jag har gjort.
+= 4월에 율무스트. 내가 한 것 중에 제일 스웨덴다운 일이에요.
+ELSA: Nej. Det mest svenska är att klaga på att det inte finns påskmust.
+= 아뇨. 제일 스웨덴다운 건 부활절 무스트가 없다고 불평하는 거예요.
+BIGGAN: Det finns påskmust. Det är samma sak med en annan etikett.
+= 부활절 무스트 있어. 라벨만 다른 같은 거야.
+WICKSELL: Det är den ärligaste produkten i Sverige. Den låtsas inte vara något annat.
+= 스웨덴에서 가장 정직한 상품이군. 다른 무엇인 척하지 않으니.
+TOVE: Hej allihop. Farid ringde mig. Han sa att det gällde Lundgren igen.
+= 다들 안녕하세요. 파리드가 전화했어요. 또 룬드그렌 일이라고.
+JOHAN: Tove. Bra att du kom. Det här är… större än lönen.
+= 토베. 와 줘서 다행이에요. 이건… 월급보다 커요.
+FARID: Jag har fortfarande jobbet. Med kollektivavtal. Lundgren betalar i tid nu. Varje månad.
+= 저 아직 거기서 일해요. 단체협약으로. 룬드그렌은 이제 제때 줘요. 매달.
+DANIEL: Hur är ryggen?
+= 허리는 어때?
+FARID: Bättre. Vi har fått en lyft nu. Tove fixade det. Arbetsmiljöverket var på besök.
+= 나아졌어요. 이제 리프트가 생겼어요. 토베가 해결해 줬어요. 노동환경청이 방문했거든요.
+TOVE: Ett telefonsamtal. Ibland räcker det.
+= 전화 한 통. 가끔은 그걸로 충분해요.
+BIGGAN: Det säger alla här. Och sen sitter de i tre timmar.
+= 여기선 다들 그렇게 말해. 그러고 나서 세 시간을 앉아 있지.
+MAJA: Farid. Vi har en fråga. Har du jobbat i Vårberg?
+= 파리드. 질문이 있어. 바르베리에서 일한 적 있어?
+FARID: Vårberg? Ja. En gång. I hus sju. Vi gjorde tvättstugan. Två veckor. 2025.
+= 바르베리요? 네. 한 번. 7동에서. 세탁실 공사했어요. 2주. 2025년에.
+ANTON: Bara tvättstugan?
+= 세탁실만?
+FARID: Bara tvättstugan. Och vi målade en trappuppgång. Fast bara till tredje våningen. Sen tog färgen slut.
+= 세탁실만요. 그리고 계단통 하나 칠했어요. 근데 3층까지만. 그다음엔 페인트가 떨어졌어요.
+ELSA: Vad sa Lundgren när färgen tog slut?
+= 페인트가 떨어졌을 때 룬드그렌이 뭐랬어요?
+FARID: Han sa: ”Det räcker. Ingen tittar uppåt.”
+= 이렇게 말했어요: ‘됐어. 아무도 위를 안 봐.’
+WICKSELL: ”Ingen tittar uppåt.” Det borde vara mottot för hela finanssektorn.
+= ‘아무도 위를 안 본다.’ 금융 부문 전체의 표어가 돼야겠군.
+MAJA: Enligt årsredovisningarna har Lundgren fakturerat tolv miljoner för renoveringar i Vårberg. I alla trettio hus. Kök, badrum, stammar.
+= 연간 보고서에 따르면 룬드그렌은 바르베리 리노베이션으로 1,200만을 청구했어. 서른 개 건물 전부. 부엌, 욕실, 배관.
+FARID: Tolv miljoner? För en tvättstuga och halva trappan?
+= 1,200만이요? 세탁실 하나랑 계단 반쪽에?
+TOVE: Då har vi ett problem. Ett stort.
+= 그럼 문제가 있네요. 큰 문제.
+
+# 장면 1 — PERSONALLIGGAREN
+JOHAN: Farid. Kommer du ihåg personalliggaren? Appen du blippade med varje morgon?
+= 파리드. 출입 기록부 기억해? 매일 아침 찍던 앱?
+FARID: Klart. Den räddade min lön i november.
+= 당연하죠. 11월에 제 월급을 구해 줬잖아요.
+JOHAN: Den kan rädda mer nu. Varje bygge måste ha en personalliggare. Varje person som jobbar där måste checka in. Annars blir det böter.
+= 이제 그게 더 많은 걸 구할 수 있어. 모든 공사장엔 출입 기록부가 있어야 해. 거기서 일하는 모든 사람이 체크인해야 하고. 안 그러면 벌금이야.
+TOVE: Och Skatteverket kan begära ut den. När som helst.
+= 그리고 국세청은 언제든지 그걸 요청할 수 있어요.
+ELSA: Så om det inte finns några incheckningar i Vårberg…
+= 그럼 바르베리에 체크인 기록이 없으면…
+MAJA: …har ingen jobbat där. Och då har ingen renoverat. Och då är fakturorna falska.
+= …거기서 일한 사람이 없는 거지. 그럼 아무도 리노베이션 안 한 거고. 그럼 청구서는 가짜인 거야.
+FARID: Jag har min egen historik i appen. Två år. Varje dag.
+= 앱에 제 기록이 있어요. 2년. 매일.
+ANTON: Får vi se?
+= 봐도 돼?
+FARID: Här. Januari 2025: Hammarbyhöjden. Februari: Hammarbyhöjden. Mars: Vårberg, hus sju. Fjorton dagar. April: Älvsjö. Maj: Älvsjö…
+= 여기요. 2025년 1월: 함마르뷔회이덴. 2월: 함마르뷔회이덴. 3월: 바르베리, 7동. 14일. 4월: 엘브셰. 5월: 엘브셰…
+MAJA: Och resten av Vårberg?
+= 그럼 나머지 바르베리는?
+FARID: Ingenting. Bara de fjorton dagarna.
+= 없어요. 그 14일뿐이에요.
+ELSA: Fjorton dagar. Och tolv miljoner.
+= 14일. 그리고 1,200만.
+INGRID: Och fakturan för mars 2025 från Lundgren till Vårberg Fastighet 7 AB?
+= 그럼 2025년 3월 룬드그렌이 바르베리 부동산 7 AB에 보낸 청구서는?
+MAJA: Fyrahundratusen. ”Totalrenovering av kök i 20 lägenheter.”
+= 40만. ‘20세대 부엌 전면 리노베이션.’
+FARID: Vi rörde inte ett enda kök. Jag lovar. Jag har aldrig ens sett ett kök i Vårberg.
+= 부엌은 하나도 안 건드렸어요. 맹세해요. 바르베리에서 부엌을 본 적도 없어요.
+DANIEL: Linda har fortfarande sitt kök från 1971.
+= 린다네는 아직 1971년 부엌이야.
+ELSA: Med en droppande kran.
+= 새는 수도꼭지랑.
+JOHAN: Men vi kan inte bara använda Farids app. Vi behöver Skatteverkets egen personalliggare. Den kan ingen ändra.
+= 근데 파리드 앱만 쓸 순 없어. 국세청 자체 출입 기록부가 필요해. 그건 아무도 못 바꾸니까.
+TOVE: Skatteverket gör kontrollbesök. Och Byggnads kan begära att de gör det. Vi gör det hela tiden.
+= 국세청은 현장 점검을 해요. 그리고 건설노조는 그걸 요청할 수 있어요. 우린 늘 해요.
+ELSA: Och om de tittar bakåt? På 2025?
+= 그럼 과거도 볼 수 있어요? 2025년도?
+JOHAN: Om Ekobrottsmyndigheten begär det, ja. Det är därför vi behöver dem nu.
+= 경제범죄청이 요청하면, 응. 그래서 지금 그쪽이 필요해.
+ELSA: Ekobrottsmyndigheten. Det låter som ett djur.
+= 경제범죄청. 동물 이름 같아요.
+ANTON: Den är det. Den äter bolag.
+= 맞아. 회사를 먹지.
+WICKSELL: Pengar som försvinner i väggar som aldrig byggdes. Det är den äldsta formen av tvätt. Man bygger ingenting och fakturerar allt.
+= 지어지지도 않은 벽 속으로 사라지는 돈. 가장 오래된 형태의 세탁이지. 아무것도 안 짓고 모든 걸 청구하는 거.
+
+# 장면 2 — FAKTUROR FÖR VÄGGAR SOM INTE FINNS
+MAJA: Och var tar pengarna vägen efter Lundgren? Han kan inte ha behållit tolv miljoner. Hans bolag är för litet.
+= 그럼 룬드그렌 다음엔 돈이 어디로 가? 1,200만을 자기가 가졌을 순 없어. 회사가 너무 작아.
+INGRID: Jag har Lundgrens årsredovisning. Han har betalat nästan allt vidare. Till underentreprenörer.
+= 룬드그렌 연간 보고서 있어요. 거의 전부를 다시 넘겼어요. 하청업체들한테.
+ELSA: Ursäkta, vad är en underentreprenör?
+= 실례지만, 하청업체가 뭐예요?
+TOVE: Ett bolag som jobbar åt ett annat bolag. Som Lundgren jobbar åt Nordhem, och någon annan jobbar åt Lundgren.
+= 다른 회사를 위해 일하는 회사요. 룬드그렌이 노르드헴을 위해 일하고, 다른 누군가가 룬드그렌을 위해 일하는 것처럼.
+ELSA: Som en kedja.
+= 사슬처럼요.
+TOVE: Som en kedja. Ju längre kedjan är, desto svårare är det att se vem som gör jobbet. Och vem som får pengarna.
+= 사슬처럼요. 사슬이 길수록 누가 일을 하고 누가 돈을 받는지 보기 어려워져요.
+INGRID: Tre underentreprenörer. Alla i Litauen. ”Material och projektledning.” Tio komma åtta miljoner.
+= 하청업체 셋. 전부 리투아니아에. ‘자재 및 프로젝트 관리.’ 1,080만.
+MAJA: Material? Till kök som aldrig byggdes?
+= 자재? 지어지지도 않은 부엌에?
+ANTON: Vad för material köper man för kök som inte finns? Luft?
+= 없는 부엌엔 무슨 자재를 사? 공기?
+FARID: Vi köpte all färg på Bauhaus i Kungens kurva. Med Lundgrens kort.
+= 페인트는 전부 쿵엔스 쿠르바 바우하우스에서 샀어요. 룬드그렌 카드로.
+WICKSELL: Från Vårberg till Nordhem. Från Nordhem till Lundgren. Från Lundgren till Litauen. Från Litauen till… vart?
+= 바르베리에서 노르드헴으로. 노르드헴에서 룬드그렌으로. 룬드그렌에서 리투아니아로. 리투아니아에서… 어디로?
+INGRID: Jag gissar. Tillbaka till samma bolag som lånade ut pengarna till Norrhem 2015.
+= 추측이지만. 2015년에 노르헴에 돈을 빌려준 그 회사들로 다시.
+ANTON: En cirkel. Som Ioanas cirkel. Fast åt andra hållet.
+= 동그라미. 요아나의 동그라미처럼. 다만 반대 방향으로.
+ELSA: Ioanas cirkel höll henne fast. Den här cirkeln gör någon rik.
+= 요아나 씨 동그라미는 그녀를 가뒀죠. 이 동그라미는 누군가를 부자로 만들고.
+JOHAN: Pengarna kommer in som lån. Går ut som räntor och falska fakturor. Och kommer tillbaka rena. Det är penningtvätt genom en hel stadsdel.
+= 돈이 대출로 들어와. 이자와 가짜 청구서로 나가고. 그리고 깨끗해져서 돌아오지. 동네 하나를 통째로 이용한 돈세탁이야.
+DANIEL: Och den som betalar för cirkeln är Per och Linda och Kalevi. Med hyran.
+= 그리고 그 동그라미 값을 내는 건 페르와 린다와 칼레비지. 월세로.
+FARID: Och jag. Jag har burit gips för pengar som aldrig var mina.
+= 그리고 저도요. 제 것도 아닌 돈을 위해 석고보드를 날랐어요.
+TOVE: Farid. Du förstår vad det här betyder? Om du vittnar om det här?
+= 파리드. 이게 무슨 뜻인지 알아? 이걸 증언하면?
+FARID: Att Lundgren åker fast.
+= 룬드그렌이 잡힌다는 거요.
+TOVE: Och att du kanske förlorar jobbet igen.
+= 그리고 네가 또 일자리를 잃을 수도 있다는 거.
+FARID: Jag vet. Jag har tänkt på det hela vägen hit. På tunnelbanan. Gröna linjen. Tjugotvå minuter.
+= 알아요. 여기 오는 내내 생각했어요. 지하철에서. 녹색 노선. 22분.
+DANIEL: Och vad kom du fram till?
+= 그래서 어떤 결론을 냈어?
+FARID: Att jag inte vill vara en man som blev tyst för ett kollektivavtal.
+= 단체협약 때문에 입 다문 남자가 되고 싶지 않다는 거요.
+
+# 절정 — LUNDGREN I DÖRREN
+BIGGAN: Det står en man i dörren. En vit Audi utanför.
+= 문 앞에 남자가 서 있어. 밖에 하얀 아우디.
+FARID: Lundgren.
+= 룬드그렌.
+TOVE: Hur visste han att du var här?
+= 네가 여기 있는 걸 어떻게 알았지?
+FARID: Jag sa det till honom. Jag sa: ”Jag ska till Biggans i kväll. Jag ska prata om Vårberg.”
+= 제가 말했어요. ‘오늘 밤 비간스에 갈 거예요. 바르베리 얘기 하러.’
+ELSA: Varför?
+= 왜요?
+FARID: För att han ska ha en chans att komma. Som Sanna sa. Man måste ge den andra sidan en chans att svara.
+= 올 기회가 있도록요. 산나가 그랬잖아요. 상대편에게 답할 기회를 줘야 한다고.
+LUNDGREN: Hej. Får jag komma in? Jag kommer inte för att bråka.
+= 안녕하세요. 들어가도 될까요? 싸우러 온 거 아니에요.
+BIGGAN: Kom in, Peter. Kaffe med mjölk från en ko?
+= 들어와, 페테르. 소에서 나온 우유 넣은 커피?
+LUNDGREN: Ja. Tack. Jag kommer ihåg det.
+= 네. 고마워요. 기억나요.
+TOVE: Peter. Om du har kommit för att skrämma Farid, går du nu.
+= 페테르. 파리드 겁주러 온 거면, 지금 나가요.
+LUNDGREN: Nej. Jag lovar. Jag har kommit för att jag är rädd själv.
+= 아니에요. 약속해요. 내가 무서워서 온 거예요.
+JOHAN: Varför är du här, Peter?
+= 여기 왜 왔어요, 페테르?
+LUNDGREN: För att Farid sa att ni vet. Och jag är trött. Jag har inte sovit på ett år.
+= 파리드가 여러분이 안다고 해서요. 그리고 지쳤어요. 1년 동안 못 잤어요.
+DANIEL: Ett år? Varför?
+= 1년요? 왜요?
+LUNDGREN: 2024 gick mitt bolag nästan i konkurs. Jag var skyldig sex miljoner. Banken sa nej. Saltsjöbanken.
+= 2024년에 제 회사가 거의 파산할 뻔했어요. 600만 빚이 있었어요. 은행이 거절했죠. 살트셰은행이.
+INGRID: Saltsjöbanken.
+= 살트셰은행.
+LUNDGREN: Och sen ringde en man. Från Nordhem. Han sa att de kunde ge mig uppdrag. Stora uppdrag. Om jag skickade fakturor som de skrev. Och betalade vidare till bolag som de valde.
+= 그러다 한 남자가 전화했어요. 노르드헴에서. 일을 줄 수 있다고 했어요. 큰일을. 그쪽에서 쓴 청구서를 보내고. 그쪽이 고른 회사들에 돈을 넘기면.
+MAJA: Och du gjorde det.
+= 그리고 그렇게 했고요.
+LUNDGREN: Jag hade tolv anställda. Familjer. Farid. Jag tänkte: det är bara papper. Ingen blir skadad.
+= 직원이 열둘이었어요. 가족들. 파리드. 생각했죠: 그냥 종이일 뿐이야. 아무도 다치지 않아.
+ELSA: ”Det är bara papper.” Det sa Rolf också. Och Shirin. Och alla.
+= ‘그냥 종이일 뿐.’ 롤프 씨도 그렇게 말했어요. 쉬린 씨도. 그리고 모두가.
+LUNDGREN: Och sen slutade jag betala Farid i tid. För att pengarna skulle vidare innan jag hann. Det var då ni kom. I november.
+= 그러다 파리드한테 제때 월급을 못 주게 됐어요. 제가 손쓰기 전에 돈이 넘어가야 했으니까. 그때 여러분이 왔죠. 11월에.
+FARID: Så det var därför. Inte kunden.
+= 그래서였구나. 고객 때문이 아니라.
+LUNDGREN: Förlåt, Farid. Det var aldrig kunden.
+= 미안하다, 파리드. 고객 때문이었던 적은 없어.
+WICKSELL: Som jag sa i november. Om kunden inte betalar, bär företagaren risken. Men här var det företagaren som var kunden. Och risken lades på arbetaren.
+= 11월에 내가 말했지. 고객이 돈을 안 내면 위험은 사업주가 진다고. 근데 여기선 사업주가 곧 고객이었고. 위험은 노동자한테 떠넘겨졌군.
+JOHAN: Peter. Varför berättar du det här nu?
+= 페테르. 왜 지금 이걸 말하는 거예요?
+LUNDGREN: För att Rehnbergs folk ringde i går. De sa att om jag pratar med någon, ”vet de var mina barn går i skolan”.
+= 렌베리 쪽 사람들이 어제 전화했어요. 누구한테든 말하면 ‘내 애들이 어느 학교 다니는지 안다’고.
+BIGGAN: Herregud.
+= 세상에.
+DANIEL: Samma mening som Kalle. ”Vi vet var du bor.”
+= 칼레랑 같은 문장이네. ‘너 어디 사는지 안다.’
+JOHAN: Då måste du gå till polisen i kväll. Inte i morgon. I kväll.
+= 그럼 오늘 밤 경찰에 가야 해요. 내일 말고. 오늘 밤.
+
+# 마무리 — FARID VITTNAR
+LUNDGREN: Om jag berättar allt… vad händer med mig?
+= 내가 다 말하면… 난 어떻게 돼요?
+JOHAN: Du har begått brott. Det går inte att ta bort. Men i Sverige räknas det till din fördel om du hjälper till att utreda. Det kan ge ett lägre straff.
+= 범죄를 저질렀어요. 그건 지울 수 없어요. 하지만 스웨덴에선 수사에 협조하면 유리하게 고려돼요. 형이 낮아질 수 있어요.
+LUNDGREN: Och mitt bolag? Mina anställda?
+= 그리고 내 회사는요? 내 직원들은?
+TOVE: Dina anställda har kollektivavtal nu. De har lönegaranti om bolaget går i konkurs. Det fixade vi i december.
+= 당신 직원들은 이제 단체협약이 있어요. 회사가 파산하면 임금 보장이 있어요. 12월에 우리가 해결해 놨죠.
+FARID: Och jag? Mitt arbetstillstånd?
+= 그럼 저는요? 제 노동허가는요?
+JOHAN: Om bolaget går i konkurs har du tre månader att hitta en ny arbetsgivare. Och du har ett bra rykte nu. Tove?
+= 회사가 파산하면 새 고용주를 찾을 시간이 석 달 있어. 그리고 넌 이제 평판이 좋아. 토베?
+TOVE: Jag har tre byggfirmor med kollektivavtal som vill ha en snickare som inte är rädd för att säga sanningen.
+= 진실을 말하는 걸 두려워하지 않는 목수를 원하는, 단체협약 있는 건설사가 세 곳 있어요.
+FARID: Då vittnar jag. Med min app. Och med mina händer.
+= 그럼 증언할게요. 제 앱으로. 그리고 제 손으로.
+LUNDGREN: Farid… du är modigare än jag.
+= 파리드… 넌 나보다 용감하구나.
+FARID: Nej. Jag har bara mindre att förlora. Jag har aldrig haft en vit Audi.
+= 아니에요. 그냥 잃을 게 적을 뿐이에요. 하얀 아우디를 가져 본 적이 없으니까.
+ELSA: Ursäkta… får jag säga en sak? Till er båda?
+= 실례지만… 한마디 해도 돼요? 두 분 모두에게?
+LUNDGREN: Säg.
+= 해요.
+ELSA: I november skrek jag ”NU RÄCKER DET” åt er, herr Lundgren. I dag vill jag säga: tack för att ni kom.
+= 11월에 제가 룬드그렌 씨한테 ‘이제 그만’이라고 소리쳤죠. 오늘은 이렇게 말하고 싶어요: 와 주셔서 고마워요.
+LUNDGREN: Du skrek bra. Jag har tänkt på det varje dag sedan dess.
+= 소리 잘 질렀어요. 그 뒤로 매일 그 생각을 했어요.
+ANTON: Det har jag också.
+= 나도 그랬어.
+JOHAN: Kom. Vi går till Södermalms polisstation. Jag följer med. Och Daniel.
+= 갑시다. 쇠데르말름 경찰서로. 내가 같이 갈게요. 그리고 다니엘도.
+DANIEL: Och jag ringer en kollega på polisen om skydd för barnen. Innan vi går.
+= 그리고 가기 전에 경찰에 있는 지인한테 아이들 보호 문제로 전화할게.
+LUNDGREN: Tack. Jag vet inte varför ni hjälper mig.
+= 고마워요. 왜 나를 도와주는지 모르겠어요.
+MAJA: Och jag skriver en sammanställning till Ekobrottsmyndigheten. Med varje faktura. Varje siffra. Och Farids fjorton dagar i hus sju.
+= 그리고 난 경제범죄청에 보낼 정리 자료를 쓸게. 청구서 하나하나. 숫자 하나하나. 그리고 7동에서의 파리드의 14일.
+WICKSELL: Följ pengarna. In i väggarna, och ut igen.
+= 돈을 따라가게. 벽 속으로, 그리고 다시 밖으로.
+BIGGAN: Och julmusten, Farid. Du har en flaska kvar.
+= 그리고 율무스트, 파리드. 한 병 남았어.
+FARID: Spara den. Till när det är över. Då dricker vi den tillsammans. I juni, kanske.
+= 아껴 두세요. 다 끝날 때까지. 그때 같이 마셔요. 6월쯤에.
+NEXT: 3부 11화 — «Artikeln»(기사) — 기사 공개 전날 밤. 신문사의 법률 검토와 책임 편집인의 결정을 기다린다. Chydenius가 1766년의 이야기를 한다.
