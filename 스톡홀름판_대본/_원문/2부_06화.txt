@@ -1,0 +1,267 @@
+PART: 2
+EP: 6
+TITLE: Revisorns tystnad
+SUBTITLE: 회계사의 침묵 · 사건 8 해결 + 마야의 이야기, 카페 Biggans
+META: 대사 120턴 · 난이도 B1+ · 배경: 12월 22일 화요일 저녁, 카페 Biggans의 사무소 크리스마스 뷔페
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: LAGERLÖF | 부활한 작가 (1858–1940)
+CAST: ULLA-BRITT | 5층 이웃 주민 · 미망인 · 81세 (가상)
+NOTE: ※ 크리스마스 직전, 회사나 친구들이 모여 먹는 ‘julbord’(크리스마스 뷔페)는 스웨덴 겨울의 큰 행사입니다. 청어 절임(sill), 감자 그라탱 ‘Janssons frestelse’, 미트볼, 햄이 차례로 나옵니다. 그 자리에서 Maja가 처음으로 자기 이야기를 합니다. 공인회계사(auktoriserad revisor)는 회사의 회계를 검사하고 ‘감사보고서(revisionsberättelse)’에 서명합니다. 문제를 발견하면 보고서에 ‘지적(anmärkning)’을 남길 수 있습니다. 2018년의 Maja는 그러지 않았습니다. 문법 초점: 과거의 가정(skulle ha + 과거분사: jag skulle ha skrivit)과 후회 표현. 표현 초점: granska, skriva under, tveka, samvete, ångra.
+
+# 도입 — JULBORDET
+BIGGAN: Välkomna till julbordet! Först sillen. Sen det kalla. Sen det varma. Sen godiset. I den ordningen.
+= 크리스마스 뷔페에 온 걸 환영해! 먼저 청어. 그다음 찬 음식. 그다음 따뜻한 음식. 그다음 단것. 이 순서로.
+ELSA: Måste man äta i ordning?
+= 순서대로 먹어야 해요?
+OXENSTIERNA: Ordning är grunden för varje rike. Och varje julbord.
+= 질서는 모든 왕국의 기초네. 그리고 모든 크리스마스 뷔페의.
+ANTON: Det finns sju sorters sill. Jag kan inte välja.
+= 청어가 일곱 종류야. 고를 수가 없어.
+MAJA: Senapssill, löksill, matjessill, och fyra till. Ta lite av varje.
+= 머스터드 청어, 양파 청어, 마티에스 청어, 그리고 네 가지 더. 조금씩 다 먹어.
+DANIEL: Och Janssons frestelse. Det är det enda jag kan laga själv.
+= 그리고 얀손의 유혹. 내가 혼자 만들 수 있는 유일한 요리야.
+ELSA: Ursäkta, vem var Jansson? Och varför blev han frestad?
+= 실례지만, 얀손이 누구였어요? 그리고 왜 유혹을 받았어요?
+LAGERLÖF: Ingen vet säkert. Det är det bästa med den rätten. Den har en berättelse som ingen kan bevisa.
+= 아무도 확실히 몰라요. 그게 그 요리의 제일 좋은 점이죠. 아무도 증명할 수 없는 이야기가 있으니까.
+ULLA-BRITT: Göte älskade Janssons. Han åt tre portioner varje jul.
+= 예테가 얀손을 정말 좋아했어. 크리스마스마다 세 접시씩 먹었지.
+BIGGAN: Ulla-Britt, hur är det med hemtjänsten nu? Kommer de varje dag?
+= 울라브리트, 요즘 홈케어는 어때? 매일 와?
+ULLA-BRITT: De kommer. Men det är en ny person varje gång. I går var det en pojke som inte visste var jag har mina tabletter.
+= 와. 근데 올 때마다 새 사람이야. 어제는 내 약이 어디 있는지 모르는 남자애였어.
+DANIEL: Varje gång en ny?
+= 매번 새 사람이요?
+ULLA-BRITT: Jag har räknat. Fjorton olika på två veckor.
+= 세어 봤어. 2주 동안 열네 명이 다 달랐어.
+ELSA: Det är fler än alla sorter av sill.
+= 청어 종류보다 많네요.
+JOHAN: Det ska vi titta på efter jul, Ulla-Britt. Ett steg i taget.
+= 그건 크리스마스 지나고 봐요, 울라브리트. 한 걸음씩.
+ULLA-BRITT: Efter jul. Okej. Jag ska överleva julen.
+= 크리스마스 지나고. 그래. 크리스마스는 버텨 볼게.
+BIGGAN: Du firar julafton hos mig. Det har jag bestämt.
+= 크리스마스이브는 우리 집에서 보내. 내가 정했어.
+ULLA-BRITT: Men du stänger ju klockan två på julafton.
+= 근데 너 크리스마스이브엔 두 시에 닫잖아.
+BIGGAN: Klockan två stänger kaféet. Inte mitt kök.
+= 두 시엔 카페가 닫는 거지. 내 부엌이 아니라.
+WICKSELL: Snaps till sillen? Det är traditionen.
+= 청어엔 스납스? 그게 전통이지.
+DANIEL: Inte för mig. Jag har nattpass på julafton.
+= 난 안 돼. 크리스마스이브에 야간 근무야.
+MAJA: En liten. För modet.
+= 조금만. 용기를 위해.
+ELSA: Modet för vad?
+= 무슨 용기요?
+MAJA: Det får du se.
+= 곧 알게 될 거야.
+
+# 장면 1 — NORDEL SVARAR
+JOHAN: Innan vi äter mer: Nordel har svarat. Alla tolv.
+= 더 먹기 전에: 노르델에서 답이 왔어. 열두 명 전부.
+ANTON: Och?
+= 그래서?
+JOHAN: Elva avtal saknar skriftlig bekräftelse. De annulleras. Bengt får använda ångerrätten. Alla får tillbaka det de har betalat för mycket.
+= 열한 건은 서면 확인이 없어. 취소된대. 벵트는 철회권을 쓸 수 있고. 다들 더 낸 만큼 돌려받아.
+ELSA: Annulleras. Det betyder att de aldrig fanns?
+= 취소된다. 그건 처음부터 없었던 걸로 한다는 뜻이죠?
+JOHAN: Precis. Som om de aldrig hade funnits.
+= 바로 그거야. 처음부터 없었던 것처럼.
+MAJA: Totalt fyrtioentusen kronor tillbaka. Till tolv pensionärer. Före jul.
+= 합계 41,000크로나 환불. 연금 수령자 열두 명에게. 크리스마스 전에.
+ULLA-BRITT: Kerstin ringde mig i morse. Hon hade satt på ugnen. Hon bakade lussekatter för första gången på två år.
+= 오늘 아침 셰르스틴이 전화했어. 오븐을 켰대. 2년 만에 처음으로 사프란 번을 구웠대.
+DANIEL: Ugnen på. Värmen uppe. Läkaren är nöjd.
+= 오븐 켜고. 난방 올리고. 의사는 만족이야.
+BIGGAN: Det är det bästa jag har hört i dag.
+= 오늘 들은 말 중에 제일 좋네.
+ANTON: Och Konsumentverket? Har de svarat?
+= 그리고 소비자청은? 답 왔어?
+JOHAN: De har öppnat ett ärende. Det visade sig att det finns över trehundra anmälningar mot Nordel. I hela landet.
+= 사건을 열었대. 알고 보니 노르델을 상대로 한 신고가 전국에 300건이 넘는대.
+WICKSELL: Trehundra. Och alla trodde att de var ensamma.
+= 300건. 그리고 다들 자기만 그런 줄 알았지.
+ELSA: Som Shirin. Som de tolv familjerna.
+= 쉬린 씨처럼요. 열두 가족처럼요.
+LAGERLÖF: Det är det vanligaste missförståndet i världen. Att man är ensam.
+= 그게 세상에서 가장 흔한 오해죠. 자기 혼자라는 것.
+OXENSTIERNA: Och det mest användbara. För den som vill styra.
+= 그리고 가장 쓸모 있는 오해지. 다스리고 싶은 자에게는.
+BIGGAN: Inte vid mitt julbord, Axel.
+= 내 크리스마스 뷔페에선 그런 말 금지야, 악셀.
+ANTON: Jag har en fråga. Hur kunde Nordel göra så här i flera år? Ingen granskade dem?
+= 질문 하나. 노르델은 어떻게 몇 년 동안 이럴 수 있었지? 아무도 감시 안 했어?
+MAJA: Någon granskade dem. Varje år. En revisor.
+= 누군가 감시했어. 매년. 회계사가.
+DANIEL: Och revisorn sa ingenting?
+= 그리고 그 회계사는 아무 말도 안 했고?
+MAJA: Revisorn granskar räkenskaperna. Inte affärsmodellen. Det är vad de lär en.
+= 회계사는 장부를 검사해. 사업 방식이 아니라. 그렇게 배우지.
+ELSA: Låter som Johans pappa. ”Juridik är inte moral.”
+= 요한 아버지 말 같네요. ‘법은 도덕이 아니다.’
+MAJA: Ja. ”Revision är inte moral.” Jag har hört den meningen. Många gånger.
+= 응. ‘감사는 도덕이 아니다.’ 그 말 들어 봤어. 여러 번.
+JOHAN: Av vem?
+= 누구한테?
+MAJA: Av min chef. 2018.
+= 내 상사한테. 2018년에.
+LAGERLÖF: Det låter som början på en berättelse.
+= 이야기의 시작처럼 들리네요.
+MAJA: Ge mig en snaps till först.
+= 먼저 스납스 한 잔 더 줘.
+BIGGAN: En liten.
+= 조금만.
+
+# 장면 2 — MAJAS BERÄTTELSE: 2018
+MAJA: Hur det var. 2018 var jag trettiotvå. Jag jobbade på Lindblad & Co. En av de stora revisionsbyråerna.
+= 어땠는지. 2018년에 난 서른둘이었어. 린드블라드 & 코에서 일했어. 큰 회계법인 중 하나야.
+ELSA: Var du stolt?
+= 자랑스러웠어요?
+MAJA: Mycket. Jag hade precis blivit auktoriserad. Det tog sju år. Jag fick ett stort uppdrag: Saltsjöbanken.
+= 아주. 막 공인 자격을 땄거든. 7년 걸렸어. 큰 일을 맡았어: 살트셰은행.
+ANTON: Saltsjöbanken. Där Ulla-Britts pengar fastnade.
+= 살트셰은행. 울라브리트 돈이 걸렸던 데.
+MAJA: Samma bank. Jag granskade deras dotterbolag i Baltikum. Tallinn och Riga.
+= 같은 은행. 난 발트 지역 자회사들을 감사했어. 탈린이랑 리가.
+LAGERLÖF: Vad hände?
+= 무슨 일이 있었어요?
+MAJA: Jag hittade konton. Hundratals. Bolag som var registrerade på Brittiska Jungfruöarna och i Panama. Med kunder som inte bodde i Estland.
+= 계좌들을 찾았어. 수백 개. 영국령 버진아일랜드랑 파나마에 등록된 회사들. 에스토니아에 살지도 않는 고객들.
+ANTON: Panama? Som i Panamadokumenten?
+= 파나마? 파나마 페이퍼스처럼?
+MAJA: Samma sorts bolag. Andra namn.
+= 같은 종류의 회사들. 이름만 다르고.
+WICKSELL: Pengar som bara reser. Som aldrig stannar.
+= 그저 여행만 하는 돈. 절대 머물지 않는.
+MAJA: Exakt. Miljarder som gick in och ut. Varje dag. Utan att någon frågade varifrån.
+= 정확해요. 수십억이 들어왔다 나갔어요. 매일. 아무도 어디서 왔냐고 묻지 않고.
+ELSA: Ursäkta, är det penningtvätt?
+= 실례지만, 그게 돈세탁이에요?
+MAJA: Det såg ut som det. Som Noels konto, fast tusen gånger större.
+= 그렇게 보였어. 노엘 계좌 같은 거지, 천 배 큰.
+DANIEL: Och vad gjorde du?
+= 그래서 어떻게 했어?
+MAJA: Jag skrev en promemoria. Elva sidor. Med tabeller. Jag var mycket noggrann.
+= 메모를 썼어. 열한 장. 표도 넣고. 아주 꼼꼼하게.
+ANTON: Det tror jag gärna.
+= 그건 믿어 의심치 않아.
+MAJA: Och jag fick ett samtal. Från någon på bankens compliance-avdelning. En kvinna. Hon sa: ”Du har sett samma sak som jag. Skriv det.”
+= 그리고 전화를 받았어. 은행 컴플라이언스 부서의 누군가였어. 여자였어. 그 사람이 그랬어: ‘당신도 나랑 같은 걸 봤죠. 그걸 쓰세요.’
+JOHAN: Vem var det?
+= 누구였어?
+MAJA: Det säger jag inte. Inte i kväll.
+= 그건 말 안 할래. 오늘 밤엔.
+LAGERLÖF: Det är din berättelse. Du väljer vad som ska vara med.
+= 당신 이야기예요. 무엇을 넣을지는 당신이 정해요.
+MAJA: Jag gick till min chef med promemorian. Han läste den i fem minuter.
+= 메모를 들고 상사한테 갔어. 그 사람은 5분 동안 읽었어.
+ELSA: Vad sa han?
+= 뭐라고 했어요?
+MAJA: ”Revision är inte moral, Maja. Vi granskar räkenskaperna. Räkenskaperna stämmer.” Och sen: ”Saltsjöbanken är vår största kund.”
+= ‘감사는 도덕이 아니야, 마야. 우린 장부를 검사해. 장부는 맞아.’ 그리고 이렇게: ‘살트셰은행은 우리 최대 고객이야.’
+OXENSTIERNA: Det sista var det enda sanna han sa.
+= 마지막 말이 그자가 한 유일한 진실이군.
+
+# 절정 — REVISIONSBERÄTTELSEN
+LAGERLÖF: Och vad gjorde du sen?
+= 그리고 그다음엔 어떻게 했어요?
+MAJA: Jag skrev under revisionsberättelsen. Utan anmärkning. Ren.
+= 감사보고서에 서명했어. 지적 없이. 깨끗하게.
+ELSA: Utan anmärkning. Det betyder att du sa att allt var bra?
+= 지적 없이. 그건 다 괜찮다고 했다는 뜻이에요?
+MAJA: Det betyder att jag sa att jag inte hade hittat något fel. När jag hade hittat elva sidor fel.
+= 아무 잘못도 찾지 못했다고 말했다는 뜻이야. 열한 장 분량의 잘못을 찾아 놓고.
+DANIEL: Och promemorian?
+= 그럼 그 메모는?
+MAJA: Den ligger i en låda. Hemma. Under mina vinterskor.
+= 서랍에 있어. 집에. 내 겨울 신발 밑에.
+ANTON: I åtta år?
+= 8년 동안?
+MAJA: I åtta år. Jag har flyttat två gånger. Den har följt med varje gång.
+= 8년 동안. 이사를 두 번 했어. 매번 같이 따라왔어.
+BIGGAN: Som en sten i skon.
+= 신발 속 돌멩이처럼.
+JOHAN: Varför skrev du under, Maja?
+= 왜 서명했어, 마야?
+MAJA: För att jag var trettiotvå och nyss auktoriserad. För att jag hade ett lån på en lägenhet. För att alla andra hade skrivit under förut.
+= 서른둘에 막 자격을 땄으니까. 아파트 대출이 있었으니까. 다른 사람들도 다 전에 서명했으니까.
+ELSA: ”Alla gör det.”
+= ‘다들 그렇게 한다.’
+MAJA: Ja. Samma mening. Jag hör den överallt nu. Hos Shirin, hos Noel, hos Nordel. Och hos mig själv.
+= 응. 같은 문장. 이제 어디서나 들려. 쉬린한테서, 노엘한테서, 노르델한테서. 그리고 나 자신한테서.
+WICKSELL: Jag skulle ha skrivit anmärkningen. Det är lätt att säga för en död man.
+= 나라면 지적을 썼을 거네. 죽은 사람이 하기엔 쉬운 말이지만.
+MAJA: Jag skulle ha skrivit den också. Det är det värsta. Jag vet exakt vad jag skulle ha skrivit. Jag har skrivit det i huvudet tusen gånger.
+= 나도 썼어야 했어요. 그게 제일 나빠요. 뭘 써야 했는지 정확히 알아요. 머릿속으로 천 번은 썼어요.
+DANIEL: Vad hände med banken sen?
+= 그 뒤에 은행은 어떻게 됐어?
+MAJA: Ingenting. Ingen skandal. Ingen artikel. Det var som om det aldrig hade hänt. Jag slutade på byrån 2020.
+= 아무 일도. 스캔들도 없고. 기사도 없고. 아무 일도 없었던 것처럼. 2020년에 그 법인을 그만뒀어.
+LAGERLÖF: Och vad betydde det? För dig?
+= 그리고 그게 무엇을 의미했나요? 당신에게?
+MAJA: Att jag räknar allt nu. Varje krona. Varje engelskt ord i Antons mun. Som om jag kunde räkna bort den där underskriften.
+= 이제 내가 모든 걸 센다는 것. 1크로나 하나하나. 안톤 입에서 나오는 영어 단어 하나하나. 그렇게 세면 그 서명을 지울 수 있기라도 한 것처럼.
+ANTON: Så det är därför du räknar mina ord?
+= 그래서 내 단어를 세는 거야?
+MAJA: Delvis. Och för att du säger väldigt många.
+= 부분적으로. 그리고 네가 진짜 많이 말하니까.
+ELSA: Maja… kvinnan som ringde. Ingrid?
+= 마야… 전화한 그 여자. 잉리드예요?
+MAJA: Jag sa att jag inte säger det i kväll.
+= 오늘 밤엔 말 안 한다고 했잖아.
+ELSA: Förlåt.
+= 죄송해요.
+MAJA: Men du frågar bra, Elsa. Ingrid sa det också.
+= 근데 넌 질문을 잘해, 엘사. 잉리드도 그렇게 말했지.
+JOHAN: Det var ett svar.
+= 그게 대답이네.
+MAJA: Det var ett halvt svar. Den andra halvan kommer. När jag är redo.
+= 반쪽짜리 대답이야. 나머지 반은 올 거야. 내가 준비되면.
+
+# 마무리 — GOD JUL, NÄSTAN
+BIGGAN: Nu kommer det varma. Köttbullar och prinskorv. Det hjälper mot allt.
+= 이제 따뜻한 음식. 미트볼이랑 작은 소시지. 모든 것에 효과가 있지.
+OXENSTIERNA: Fru revisor. Får jag säga en sak?
+= 회계사 부인. 한마디 해도 되겠소?
+MAJA: Säg.
+= 하세요.
+OXENSTIERNA: Jag skrev under fred med påven och krig med kejsaren. Båda gångerna visste jag att jag kanske hade fel. Man lever med det. Eller så gör man något åt det.
+= 난 교황과의 평화에도, 황제와의 전쟁에도 서명했소. 두 번 다 내가 틀렸을지도 모른다는 걸 알았지. 사람은 그걸 안고 살아가오. 아니면 그것에 대해 뭔가를 하든가.
+DANIEL: Ni skrev aldrig fred med påven, herr Oxenstierna.
+= 교황과 평화 조약을 맺은 적은 없으시잖아요, 옥센셰르나 님.
+OXENSTIERNA: Det var en bild igen. Låt mig ha mina bilder på julen.
+= 또 비유였네. 크리스마스엔 비유 좀 하게 해 주게.
+ULLA-BRITT: Maja, kära du. Vet du vad Göte sa om misstag?
+= 마야, 얘야. 예테가 실수에 대해 뭐라고 했는지 아니?
+MAJA: Nej?
+= 아뇨?
+ULLA-BRITT: ”Ett misstag är bara ett misstag tills man upprepar det. Sen är det ett val.”
+= ‘실수는 반복하기 전까지만 실수다. 그다음부터는 선택이다.’
+MAJA: Göte var klok.
+= 예테는 현명했네요.
+ULLA-BRITT: Göte var tråkig. Men han hade rätt ibland.
+= 예테는 지루했어. 근데 가끔은 옳았지.
+WICKSELL: De tråkiga har ofta rätt. Det är därför ingen lyssnar på dem.
+= 지루한 사람들이 옳은 경우가 많지. 그래서 아무도 그들 말을 안 듣고.
+ELSA: Maja, får jag krama dig? Som Daniel?
+= 마야, 안아도 돼요? 다니엘처럼요?
+MAJA: En kort. Revisorer kramas inte länge.
+= 짧게. 회계사는 오래 안 안아.
+ELSA: Tre sekunder. Det räknas.
+= 3초. 그것도 쳐요.
+ANTON: God jul, alla. Nästan.
+= 메리 크리스마스, 다들. 거의.
+DANIEL: ”Nästan god jul.” Det är det mest svenska jag har hört.
+= ‘거의 메리 크리스마스.’ 지금까지 들은 것 중 제일 스웨덴다운 말이다.
+BIGGAN: Och på torsdag är det julafton. Ulla-Britt hos mig. Och alla som inte har någonstans att gå.
+= 그리고 목요일은 크리스마스이브야. 울라브리트는 우리 집. 그리고 갈 데 없는 사람은 다.
+NEXT: 2부 7화 — «Ensam på julafton»(크리스마스이브에 혼자) — 두 주 동안 홈케어 직원이 열여섯 번 바뀐 Ulla-Britt. 오후 세 시 TV의 «Kalle Anka». 사무소 사람들이 각자의 크리스마스를 미루고 Biggan의 부엌에 모인다.
