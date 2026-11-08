@@ -1,0 +1,178 @@
+@part 4
+@ep 58
+@file La_mensa_di_Natale
+@title La mensa di Natale
+@ko 성탄 무료 급식
+@where 산타 마리아 리베라트리체 성당 지하 홀 / 성당 앞 계단 / 시모네의 수리점
+@level B2~C1
+@setting 12월 20일 일요일 오전 9시~오후 5시
+@cast SIMONE | 1층 스쿠터·자전거 수리공, 31세
+@cast DAVIDE | 카피라이터, 27세
+@cast SAMIR | 나디아의 아들, 중학교 3학년, 13세
+@cast DON PAOLO | 산타 마리아 리베라트리체 성당 주임 신부, 57세
+@cast SANDRO | 급식소에 온 손님, 59세
+@note 성탄 전 마지막 일요일. 성당 지하 홀에서 해마다 성탄 점심 급식이 열린다. 올해 돈 파올로 신부는 일손이 모자라다고 빨간 벤치 행사 때 말했다. 시모네, 다비데, 사미르가 손을 들었다. 사미르 학교에선 이걸 '시민 교육 봉사 시간'으로 인정해 준다. 다비데는 사흘 뒤 레조로 떠난다.
+
+# 장면 1 — LE ISTRUZIONI
+> 오전 9시. 성당 지하 홀. 긴 테이블 스무 개, 접이식 의자, 종이 식탁보. 부엌에서 냄비 소리 || 오전 9시. 성당 지하 홀. 긴 테이블 스무 개, 접이식 의자, 종이 식탁보. 부엌에서 냄비 소리
+DON PAOLO: Benvenuti. Grazie di essere qui. Allora, regola numero uno: qui non ci sono «poveri». Ci sono ospiti. Chi entra da quella porta è un ospite. Come a casa vostra. || 어서 와요. 와 줘서 고마워요. 자, 규칙 1번. 여기엔 «가난한 사람»이 없어요. 손님이 있을 뿐이에요. 저 문으로 들어오는 사람은 손님이에요. 여러분 집에서처럼.
+DAVIDE: Ospiti. Va bene. E la regola numero due? || 손님. 알겠습니다. 그럼 규칙 2번은요?
+DON PAOLO: Regola numero due: non si fanno domande. Né sul perché sono qui, né su da dove vengono. Se vogliono raccontare, ascoltate. Se no, servite e sorridete. || 규칙 2번. 질문하지 않기. 왜 여기 왔는지도, 어디서 왔는지도. 얘기하고 싶어 하면 들어 주고. 아니면 음식 내고 웃어 주세요.
+SAMIR: Neanche una domanda? Io faccio domande da aprile. Ne ho quaranta. || 질문 하나도 안 돼요? 저 4월부터 질문해 왔어요. 마흔 개나 있어요.
+DON PAOLO: Oggi le tieni in tasca. Oggi impari l'altra metà del mestiere. Ascoltare senza chiedere. È più difficile. || 오늘은 주머니에 넣어 둬. 오늘은 일의 나머지 반을 배우는 거야. 묻지 않고 듣기. 그게 더 어려워.
+SIMONE: Io cosa faccio, don Paolo? || 전 뭘 해요, 신부님?
+DON PAOLO: Tu porti le pentole. Sono dodici. Da trenta litri. La signora Marisa dice che sei l'unico che non si lamenta della schiena. || 넌 냄비를 날라. 열두 개야. 30리터짜리. 마리사 아주머니가 그러던데, 허리 아프다고 투덜대지 않는 건 너뿐이라고.
+SIMONE: Perché non ho ancora quarant'anni. Tra nove anni mi lamento anche io. || 아직 마흔이 안 돼서 그래요. 9년 뒤엔 저도 투덜댈 거예요.
+DON PAOLO: Davide, tu ai piatti. Lavaggio. È il posto più importante. Se si fermano i piatti, si ferma tutto. Come il cuore. || 다비데, 넌 설거지. 그게 제일 중요한 자리야. 접시가 멈추면 다 멈춰. 심장처럼.
+DAVIDE: Il posto più importante e nessuno ti vede. Come il copywriter. || 제일 중요한데 아무도 안 보는 자리. 카피라이터처럼요.
+DON PAOLO: E Samir, tu al pane. All'ingresso di ogni tavolo. Un cestino per tavolo. E se qualcuno ne chiede di più, glielo dai. Senza contare. Oggi non si conta. || 그리고 사미르, 넌 빵. 테이블마다 입구에. 바구니 하나씩. 누가 더 달라고 하면 줘. 세지 말고. 오늘은 세는 날이 아니야.
+SAMIR: Senza contare? Io conto tutto. Anche i cornetti del signor Franco. || 세지 말라고요? 저 다 세요. 프랑코 아저씨 코르네토까지.
+DON PAOLO: Lo so. Me l'ha detto tua madre. Per questo ti ho messo al pane. È il tuo esercizio. || 알아. 너희 엄마가 말해 줬어. 그래서 빵 담당 시킨 거야. 그게 너의 연습이야.
+> 신부가 부엌으로 들어간다. 셋이 테이블에 종이 식탁보를 깐다 || 신부가 부엌으로 들어간다. 셋이 테이블에 종이 식탁보를 깐다
+DAVIDE: Samir, tua madre sa che sei qui? In una chiesa? Voglio dire... la tua famiglia... || 사미르, 너희 엄마는 네가 여기 있는 거 아셔? 성당에? 내 말은… 너희 집이…
+SAMIR: Musulmana? Mia nonna sì. Mia madre un po'. Io non lo so ancora. Nonno Rahim dice che il pane non ha religione. E che a Ramadan anche il prete di Santa Maria gli porta i datteri. Da dieci anni. || 무슬림이냐고요? 할머니는 그래요. 엄마는 조금. 전 아직 모르겠어요. 라힘 할아버지는 빵엔 종교가 없대요. 그리고 라마단 때면 산타 마리아 신부님도 할아버지한테 대추야자를 갖다주신대요. 10년째요.
+SIMONE: Don Paolo porta i datteri a tuo nonno? || 파올로 신부님이 너희 할아버지한테 대추야자를?
+SAMIR: E nonno gli porta il riso basmati a Natale. Si scambiano il cibo. Non parlano mai di Dio. Parlano del prezzo del riso. || 그리고 할아버지는 크리스마스에 바스마티 쌀을 갖다드려요. 음식을 주고받는 거죠. 하느님 얘기는 절대 안 해요. 쌀값 얘기만 해요.
+DAVIDE: Il dialogo interreligioso più romano che abbia mai sentito. || 내가 들어 본 것 중 제일 로마다운 종교 간 대화네.
+SIMONE: A Torpignattara è uguale. Il kebab, la pizza, la chiesa, la moschea nel garage. Tutti sulla stessa strada. Litigano per il parcheggio, non per Dio. || 토르피냐타라도 똑같아. 케밥, 피자, 성당, 차고 안 모스크. 다 한 길에. 주차 자리 때문에 싸우지, 하느님 때문엔 안 싸워.
+SAMIR: Il parcheggio è la vera religione di Roma. Lo dice il signor Franco. || 주차가 로마의 진짜 종교래요. 프랑코 아저씨가 그랬어요.
+
+# 장면 2 — IN CUCINA
+> 오전 10시 반. 부엌. 거대한 냄비에서 라자냐 소스가 끓는다. 시모네가 냄비를 들어 옮긴다 || 오전 10시 반. 부엌. 거대한 냄비에서 라자냐 소스가 끓는다. 시모네가 냄비를 들어 옮긴다
+DAVIDE: Quanti ne aspettate, don Paolo? || 몇 명 예상하세요, 신부님?
+DON PAOLO: L'anno scorso erano centottanta. Quest'anno, dalle prenotazioni, più di duecentoventi. Quaranta in più. In un anno. || 작년엔 백팔십 명이었어. 올해는 예약으로 보면 이백이십 명 넘게. 마흔 명이 늘었어. 1년 만에.
+SIMONE: Quaranta in più. Perché? Cosa è cambiato? || 마흔 명이나 더요. 왜요? 뭐가 바뀌었어요?
+DON PAOLO: Gli affitti. Le bollette. Il carrello della spesa. Una volta venivano soprattutto persone senza casa. Adesso vengono anche quelli che una casa ce l'hanno. Ma dopo l'affitto non resta niente per mangiare. Li chiamiamo «i poveri che lavorano». Una cassiera. Un pensionato. Un rider. || 월세. 공과금. 장바구니. 예전엔 주로 집 없는 사람들이 왔어. 이젠 집이 있는 사람들도 와. 근데 월세 내고 나면 먹을 게 안 남는 거지. 우린 그들을 «일하는 가난한 사람들»이라고 불러. 계산원. 연금 생활자. 배달 라이더.
+DAVIDE: Gente come me, tra sei mesi. Quando finisce la NASpI. || 여섯 달 뒤의 저 같은 사람들이네요. 실업 급여 끝나면.
+DON PAOLO: Può succedere a tutti. Per questo esiste questo posto. Non per «loro». Per noi. Per quando tocca a noi. || 누구한테나 일어날 수 있어. 그래서 이곳이 있는 거야. «그들»을 위해서가 아니라. 우리를 위해서. 우리 차례가 올 때를 위해서.
+SIMONE: In Italia quanti sono? I poveri, dico. I poveri veri. || 이탈리아엔 몇 명이나 돼요? 가난한 사람들이요. 진짜 가난한 사람들.
+DON PAOLO: Secondo l'ISTAT, quasi sei milioni in povertà assoluta. Uno su dieci. Vuol dire che in questo quartiere, statisticamente, ce ne sono tremila. Li incontri al mercato. Al bar. Sulle scale. Non lo sai. Perché nessuno lo scrive in faccia. || 통계청에 따르면 절대 빈곤층이 거의 6백만 명이야. 열 명 중 한 명. 통계적으로 이 동네에도 3천 명이 있다는 뜻이지. 시장에서, 바에서, 계단에서 마주쳐. 넌 몰라. 아무도 얼굴에 써 붙이고 다니진 않으니까.
+DAVIDE: Una su dieci. Come i mattoni. Una persona su trenta per salvare un palazzo. Una su dieci che non arriva a fine mese. Questa città è tutta una frazione. || 열 명 중 한 명. 벽돌처럼. 건물 하나 구하는 데 서른 명 중 한 명. 월말까지 못 버티는 사람은 열 명 중 한 명. 이 도시는 온통 분수예요.
+DON PAOLO: I mattoni? Quelli della vostra cooperativa? Ne ho sentito parlare. Anche dal pulpito, a dire il vero. Domenica scorsa la signora Loredana ha distribuito i volantini all'uscita della messa. Senza chiedermi il permesso. || 벽돌? 너희 협동조합 그거? 들었어. 사실 강론대에서도 들었지. 지난 일요일에 로레다나 부인이 미사 끝나고 출구에서 전단을 돌렸거든. 나한테 허락도 안 받고.
+SIMONE: Le dispiace? || 기분 나쁘셨어요?
+DON PAOLO: Mi dispiace solo di non averci pensato io. Ne compro uno. Anzi, la parrocchia ne compra uno. Ne parlo con il consiglio pastorale. Una casa che non si vende... è quasi un'idea del Vangelo. || 내가 먼저 생각 못 한 게 아쉬울 뿐이야. 나도 한 장 살게. 아니, 성당이 한 장 살게. 사목 위원회랑 얘기해 볼게. 팔지 않는 집이라… 거의 복음의 생각이지.
+SIMONE: Lo dica a Castellani. Magari si converte. || 카스텔라니한테 말씀해 주세요. 혹시 회개할지도 모르잖아요.
+DON PAOLO: I fondi immobiliari non si convertono, Simone. Le persone sì. A volte. || 부동산 펀드는 회개하지 않아, 시모네. 사람은 하지. 가끔은.
+
+# 장면 3 — LE PORTE SI APRONO
+> 낮 12시. 문이 열린다. 사람들이 줄지어 들어온다. 털모자, 장바구니 카트, 아이를 안은 젊은 엄마, 정장 차림의 노인 || 낮 12시. 문이 열린다. 사람들이 줄지어 들어온다. 털모자, 장바구니 카트, 아이를 안은 젊은 엄마, 정장 차림의 노인
+SAMIR: Buongiorno. Il pane. Prego. Buon Natale. Buongiorno. Il pane. || 안녕하세요. 빵이요. 드세요. 메리 크리스마스. 안녕하세요. 빵이요.
+SANDRO: Grazie, ragazzo. Posso prenderne due? Uno per stasera. || 고맙다, 얘야. 두 개 가져가도 되니? 하나는 저녁에 먹게.
+SAMIR: Ne prenda tre. Oggi non si conta. Me l'ha detto il prete. || 세 개 가져가세요. 오늘은 안 세는 날이에요. 신부님이 그러셨어요.
+SANDRO: Il prete ha ragione. Oggi non si conta. Il ventisette si ricomincia a contare. Grazie. || 신부님 말씀이 맞네. 오늘은 안 세는 날. 27일부턴 다시 세야지. 고맙다.
+> 손님이 자리로 간다. 사미르가 그 뒷모습을 보다가 부엌으로 달려간다 || 손님이 자리로 간다. 사미르가 그 뒷모습을 보다가 부엌으로 달려간다
+SAMIR: Simone! Simone, vieni. C'è un signore al tavolo sette. Ha una giacca della Roma. Vecchia. E ti ha guardato quando sei passato con la pentola. Ha fatto una faccia strana. Come se ti conoscesse. || 시모네 형! 시모네 형, 와 봐요. 7번 테이블에 아저씨가 한 명 있는데요. AS 로마 점퍼 입었어요. 낡은 거. 형이 냄비 들고 지나갈 때 형을 봤어요. 이상한 표정을 지었어요. 형을 아는 것처럼.
+SIMONE: Al tavolo sette? Fammi vedere... da qui... Oddio. || 7번 테이블? 어디 보자… 여기서… 세상에.
+SAMIR: Lo conosci? || 알아요?
+SIMONE: È Sandro. Il padre di Fabio. Il mio compagno di banco. Alle elementari. A Torpignattara. Sandro faceva il cameriere in una trattoria di via Casilina. Mi portava a scuola in motorino. Quando mio padre apriva l'officina alle sei. || 산드로 아저씨야. 파비오 아빠. 초등학교 때 내 짝꿍. 토르피냐타라에서. 산드로 아저씨는 카실리나 거리 식당에서 웨이터였어. 우리 아빠가 새벽 여섯 시에 가게 열 땐 나를 스쿠터로 학교에 데려다주셨지.
+SAMIR: E adesso è qui. || 근데 지금 여기 계시네요.
+SIMONE: E adesso è qui. Don Paolo ha detto: niente domande. || 그리고 지금 여기 계시지. 신부님이 질문하지 말라고 하셨어.
+SAMIR: Ha detto niente domande sul perché. Non ha detto niente saluti. || 왜 왔는지 묻지 말라고 하셨죠. 인사하지 말라고는 안 하셨어요.
+SIMONE: ... Hai ragione. Tienimi la pentola. No, è troppo pesante. Mettila giù. Piano. || … 네 말이 맞다. 냄비 좀 들어 줘. 아니, 너무 무거워. 내려놔. 천천히.
+
+# 장면 4 — AL TAVOLO SETTE
+SIMONE: Sandro? Sono Simone. Simone Lanza. Il figlio di Rino. Il compagno di banco di Fabio. Si ricorda? || 산드로 아저씨? 저 시모네예요. 시모네 란차. 리노 아들. 파비오 짝꿍. 기억하세요?
+SANDRO: Simone... il piccoletto con le ginocchia sbucciate. Quello che smontava le biciclette degli altri. Ti ho riconosciuto subito. Ma non volevo... insomma. Non così. || 시모네… 무릎 까진 꼬맹이. 남의 자전거 분해하던 녀석. 바로 알아봤어. 근데 그게… 그러니까. 이런 식으론 싫었어.
+SIMONE: Io sono contento di vederla. Davvero. Non importa dove. || 전 뵈어서 반가워요. 진짜로요. 어디서든 상관없어요.
+SANDRO: Ti va di sederti un minuto? Se il prete non si arrabbia. || 잠깐 앉을래? 신부님이 화 안 내시면.
+SIMONE: Il prete ha detto che siete ospiti. Con gli ospiti ci si siede. || 신부님이 손님이라고 하셨어요. 손님하곤 같이 앉는 거죠.
+SANDRO: Ospiti. Bella parola. Io ho fatto il cameriere trentadue anni. Ho servito gli ospiti. Adesso sono io l'ospite. La vita ha il senso dell'umorismo. Un umorismo romano. Cattivo. || 손님. 좋은 말이네. 난 32년 웨이터 일을 했어. 손님들을 대접했지. 이젠 내가 손님이네. 인생도 유머 감각이 있어. 로마식 유머. 짓궂은.
+SIMONE: E Fabio? Come sta? || 파비오는요? 잘 지내요?
+SANDRO: Fabio è a Dublino. Da sei anni. Fa l'informatico. Mi manda i soldi, quando può. Ma ha due bambini e l'affitto a Dublino è peggio che qui. Non gli dico niente. Lui pensa che lavoro ancora. || 파비오는 더블린에 있어. 6년째. 컴퓨터 일 하지. 여유 있을 때 돈 보내 줘. 근데 애가 둘이고 더블린 월세는 여기보다 더해. 아무 말 안 했어. 아직 내가 일하는 줄 알아.
+SIMONE: Non lavora più? || 이젠 일 안 하세요?
+SANDRO: La trattoria ha chiuso a marzo. Dopo cinquant'anni. Il proprietario dei muri l'ha venduta. Adesso c'è un locale di sushi «fusion». Io ho cinquantanove anni. Per la pensione me ne mancano otto. Nessuno assume un cameriere di cinquantanove anni. Con la schiena così. || 식당이 3월에 문 닫았어. 50년 만에. 건물주가 팔았거든. 지금은 «퓨전» 스시집이야. 난 쉰아홉이고. 연금까진 8년 남았어. 아무도 쉰아홉 살 웨이터는 안 써. 허리도 이 모양인데.
+SIMONE: E la casa? || 그럼 집은요?
+SANDRO: La casa c'è ancora. Una stanza. In subaffitto. Quattrocento euro. Con la disoccupazione ce la faccio. Più o meno. Ma a fine mese... il pane me lo porto via. Due. Anzi, tre. Il ragazzo mi ha detto che oggi non si conta. || 집은 아직 있어. 방 하나. 재임대로. 400유로. 실업 급여로 버티고 있어. 대충. 근데 월말엔… 빵은 챙겨 가지. 두 개. 아니, 세 개. 그 애가 오늘은 안 센다고 했거든.
+SIMONE: Il ragazzo si chiama Samir. Conta tutto, di solito. Oggi gli hanno chiesto di non contare. Per lui è un sacrificio enorme. || 그 애 이름은 사미르예요. 보통은 다 세요. 오늘은 세지 말라고 해서. 그 애한텐 엄청난 희생이에요.
+SANDRO: Allora ringrazialo da parte mia. E tu? Cosa fai, adesso? Ancora biciclette? || 그럼 내 대신 고맙다고 해 줘. 너는? 요즘 뭐 하니? 아직 자전거?
+SIMONE: Biciclette e motorini. Ho un'officina a Testaccio. In un palazzo che stiamo provando a comprare. Con una cooperativa. È una storia lunga. || 자전거랑 스쿠터요. 테스타초에 수리점이 있어요. 우리가 사 보려는 건물에요. 협동조합으로. 얘기가 길어요.
+SANDRO: Comprare un palazzo. Il figlio di Rino. Tuo padre sarebbe fiero. Lui diceva sempre: «I Lanza non hanno mai avuto niente di loro. Neanche la bicicletta». || 건물을 산다. 리노 아들이. 너희 아빠가 자랑스러워하겠다. 늘 그랬거든. «란차 집안은 자기 거라곤 가져 본 적이 없어. 자전거 한 대도».
+SIMONE: Non sarà nostro, neanche quello. Sarà di tutti. Ma almeno nessuno ce lo toglie. || 그것도 우리 건 아닐 거예요. 모두의 거죠. 그래도 적어도 아무도 뺏어 가진 못해요.
+
+# 장면 5 — I PIATTI
+> 오후 1시 반. 부엌 뒤 설거지대. 다비데가 접시 산 앞에 서 있다. 시모네가 앞치마를 두른다 || 오후 1시 반. 부엌 뒤 설거지대. 다비데가 접시 산 앞에 서 있다. 시모네가 앞치마를 두른다
+DAVIDE: Duecentoventisei. Me l'ha detto Samir. Prima di ricordarsi che oggi non si conta. Duecentoventisei piatti di lasagna. Più i secondi. Più i dolci. Non finirò mai. || 이백이십육. 사미르가 그랬어요. 오늘 안 세는 날인 거 기억하기 전에. 라자냐 이백이십육 접시. 거기에 메인 요리. 거기에 디저트. 절대 못 끝내요.
+SIMONE: Ti aiuto. Tu lavi, io asciugo. || 도와줄게. 넌 씻어, 난 닦을게.
+DAVIDE: Tutto bene? Hai la faccia di uno che ha visto un fantasma. || 괜찮아요? 유령 본 사람 얼굴인데요.
+SIMONE: Ho visto il mio passato. A un tavolo. Con tre pagnotte in tasca. || 내 과거를 봤어. 테이블에서. 주머니에 빵 세 덩이 넣고.
+DAVIDE: Il signore con la giacca della Roma? || 로마 점퍼 입은 아저씨요?
+SIMONE: Mi portava a scuola in motorino. Quando avevo otto anni. Adesso dorme in una stanza da quattrocento euro e prende il pane per la sera. Ha lavorato trentadue anni. Davide, ha lavorato trentadue anni. || 여덟 살 때 날 스쿠터로 학교에 데려다주셨어. 지금은 400유로짜리 방에서 자고 저녁 먹으려고 빵을 챙겨 가셔. 32년을 일했는데. 다비데, 32년을 일하셨다고.
+DAVIDE: Lo so. Lo so. Io ne ho lavorati tre e ho già paura. || 알아요. 알아요. 전 3년 일했는데 벌써 무서워요.
+SIMONE: Sai cosa ho pensato? Ho pensato: se non c'era la Settimana delle riparazioni, a dicembre ero io. A quel tavolo. Con i miei settecento euro di debito con lo Stato. Sette tavoli più in là. || 내가 무슨 생각 했는지 알아? 수리 주간이 없었으면 12월엔 나였을 거라고. 그 테이블에. 국가한테 진 빚 700유로 들고. 테이블 일곱 개 건너서.
+DAVIDE: Non dire così. || 그런 말 하지 마요.
+SIMONE: Lo dico perché è vero. Una bicicletta e ventitré persone. È questa la distanza tra me e Sandro. Non il merito. Non la bravura. Ventitré persone che ti conoscono. || 사실이니까 말하는 거야. 자전거 한 대랑 스물세 명. 그게 나랑 산드로 아저씨 사이의 거리야. 실력도 아니고. 잘나서도 아니고. 나를 아는 스물세 명.
+DAVIDE: Allora lui ha bisogno di ventitré persone. || 그럼 아저씨한테도 스물세 명이 필요하네요.
+SIMONE: Lui ha bisogno di un lavoro. || 아저씨한텐 일자리가 필요해.
+DAVIDE: ... Simone. Franco. La trattoria. No, aspetta. Il pranzo. Il menù del pranzo a dodici euro. Tiziana non ce la fa da sola. L'ha detto la settimana scorsa. Cerca qualcuno per i tavoli. A mezzogiorno. Due ore. || … 시모네 형. 프랑코 씨. 식당. 아니, 잠깐. 점심. 12유로 점심 메뉴요. 티치아나 씨가 혼자서는 감당 못 한대요. 지난주에 그랬어요. 점심때 테이블 볼 사람 구한대요. 두 시간.
+SIMONE: Due ore al giorno. Un cameriere di trentadue anni di esperienza. Al Cantone. || 하루 두 시간. 32년 경력 웨이터. 칸토네에서.
+DAVIDE: Non è un lavoro vero. Ma è un inizio. E Franco paga in nero solo i cornetti. Il resto lo mette in regola. Lo dice sempre. || 진짜 일자리는 아니죠. 근데 시작은 되잖아요. 그리고 프랑코 씨는 코르네토만 장부 없이 줘요. 나머진 다 정식으로 하고요. 늘 그러시잖아요.
+SIMONE: Ma don Paolo ha detto: niente domande. E io adesso vado a chiedergli se vuole lavorare? || 근데 신부님이 질문하지 말라고 하셨잖아. 그런데 내가 지금 가서 일하고 싶냐고 묻는다고?
+DAVIDE: Non gli fai una domanda. Gli fai un'offerta. È diverso. Come Castellani. Ma al contrario. || 질문하는 게 아니라. 제안하는 거죠. 그건 달라요. 카스텔라니처럼요. 근데 반대로.
+
+# 장면 6 — SUI GRADINI
+> 오후 3시. 성당 앞 계단. 산드로가 빵 봉지를 들고 나온다. 시모네가 따라 나온다 || 오후 3시. 성당 앞 계단. 산드로가 빵 봉지를 들고 나온다. 시모네가 따라 나온다
+SIMONE: Sandro! Aspetti. Un attimo. || 산드로 아저씨! 잠깐만요. 잠깐만.
+SANDRO: Simone. Grazie per la compagnia. Era da tanto che nessuno si sedeva con me a pranzo. || 시모네. 같이 있어 줘서 고맙다. 점심때 누가 같이 앉아 준 게 오랜만이야.
+SIMONE: Non le faccio domande. Promesso. Le dico solo una cosa. Il bar sotto la mia officina, Il Cantone, cerca un cameriere. A pranzo. Dalle dodici alle due. Dal lunedì al venerdì. Non so quanto paga. Ma Franco è onesto. E la cuoca, Tiziana, fa l'amatriciana migliore del quartiere. || 질문은 안 할게요. 약속해요. 하나만 말씀드릴게요. 제 수리점 밑에 있는 바, 일 칸토네에서 웨이터를 구해요. 점심때요. 열두 시부터 두 시까지. 월요일부터 금요일. 얼마 주는지는 몰라요. 근데 프랑코 씨는 정직해요. 그리고 요리하는 티치아나 씨가 동네에서 아마트리치아나를 제일 잘 만들어요.
+SANDRO: Un cameriere? Io? Con la schiena così? || 웨이터? 내가? 허리가 이런데?
+SIMONE: Due ore. Dodici tavoli. Lei ne faceva quaranta in via Casilina. Me lo ricordo. Correva come un pazzo. Con quattro piatti su un braccio. || 두 시간이요. 테이블 열두 개. 카실리나 거리에선 마흔 개 보셨잖아요. 기억해요. 미친 듯이 뛰어다니셨죠. 한 팔에 접시 네 개 얹고.
+SANDRO: Cinque. Con un braccio ne portavo cinque. Era il mio record. || 다섯 개. 한 팔에 다섯 개 들었어. 그게 내 기록이었지.
+SIMONE: Allora al Cantone bastano due. Venga domani alle undici. Chieda di Franco. Gli dica: «Mi manda Simone. Il figlio di Rino». || 그럼 칸토네에선 두 개면 충분해요. 내일 열한 시에 오세요. 프랑코 씨 찾으시고요. «시모네가 보냈어요. 리노 아들이요» 하시면 돼요.
+SANDRO: E se non mi vuole? || 날 안 원하면?
+SIMONE: Franco vuole tutti. È il suo difetto. Sennò il bar sarebbe pieno di soldi e vuoto di gente. Invece è il contrario. || 프랑코 씨는 다 원해요. 그게 그 사람 단점이에요. 안 그러면 바가 돈은 넘치고 사람은 없겠죠. 근데 반대예요.
+SANDRO: ... Il figlio di Rino. Che mi trova lavoro. A cinquantanove anni. Tuo padre riderebbe. || … 리노 아들이. 나한테 일자리를 구해 주네. 쉰아홉에. 너희 아빠가 웃겠다.
+SIMONE: Mio padre riderebbe e poi piangerebbe. Era fatto così. Come tutti i romani. Domani alle undici. Non si dimentichi. || 우리 아빠라면 웃다가 울었을 거예요. 그런 사람이었어요. 로마 사람들이 다 그렇듯이. 내일 열한 시요. 잊지 마세요.
+SANDRO: Non mi dimentico. Ho trentadue anni di puntualità. È l'unica cosa che non ho perso. || 안 잊어. 32년 동안 시간을 지켰어. 내가 잃지 않은 유일한 거야.
+
+# 장면 7 — SPARECCHIARE
+> 오후 4시. 홀이 비었다. 신부와 다비데, 사미르가 종이 식탁보를 걷는다. 시모네는 냄비를 차에 싣고 있다 || 오후 4시. 홀이 비었다. 신부와 다비데, 사미르가 종이 식탁보를 걷는다. 시모네는 냄비를 차에 싣고 있다
+DON PAOLO: Samir. Com'è andata? Senza contare? || 사미르. 어땠니? 안 세는 거?
+SAMIR: Malissimo. Ho contato lo stesso. Dentro la testa. Ma non l'ho detto a nessuno. Fino alle cinque. || 최악이었어요. 그래도 셌어요. 머릿속으로. 근데 아무한테도 말 안 했어요. 다섯 시까진.
+DON PAOLO: Allora sei stato bravo. Il Signore non chiede di non pensare. Chiede di non far pesare. || 그럼 잘한 거야. 주님은 생각하지 말라고 하시진 않아. 남한테 부담 주지 말라고 하시지.
+DAVIDE: «Non far pesare». Don Paolo, lei dovrebbe fare il copywriter. || «부담 주지 말라». 신부님, 카피라이터 하셔야겠어요.
+DON PAOLO: Lo faccio già. Ogni domenica. Dieci minuti di omelia. Pubblico difficile. Metà dorme, l'altra metà guarda il telefono. || 이미 하고 있어. 일요일마다. 10분 강론. 까다로운 청중이지. 반은 졸고 반은 휴대폰 보고.
+DAVIDE: Io il ventitré parto. Per Reggio. Mia nonna mi chiede sempre se vado a messa. Le dico di sì. Quest'anno almeno è mezza verità. Ho lavato duecentoventisei piatti in una chiesa. || 전 23일에 떠나요. 레조로. 할머니가 늘 성당 가냐고 물으세요. 간다고 하죠. 올해는 적어도 반은 진실이네요. 성당에서 접시 이백이십육 개를 씻었으니까.
+DON PAOLO: È più di mezza verità. È una messa diversa. Dille che hai servito alla mensa. Le nonne capiscono. Spesso meglio dei preti. || 반보다 더한 진실이지. 다른 방식의 미사야. 할머니께 급식 봉사했다고 말씀드려. 할머니들은 알아들으셔. 신부들보다 더 잘 알아들으실 때가 많아.
+SAMIR: Don Paolo, posso fare una domanda? Adesso che è finita? || 신부님, 질문 하나 해도 돼요? 이제 끝났으니까?
+DON PAOLO: Adesso sì. || 이제는 돼.
+SAMIR: Perché ogni anno vengono più persone? Se lei aiuta, e la Caritas aiuta, e Sant'Egidio aiuta... perché aumentano invece di diminuire? || 왜 해마다 사람이 더 와요? 신부님도 돕고, 카리타스도 돕고, 산테지디오도 돕는데… 왜 줄지 않고 늘어요?
+DON PAOLO: ... Questa è la domanda che mi faccio anch'io. Ogni dicembre. Noi diamo da mangiare. Ma non decidiamo gli affitti. Né gli stipendi. Né chi compra i palazzi. Noi curiamo la febbre. Non la malattia. || … 그건 나도 하는 질문이야. 12월마다. 우린 먹을 걸 줘. 근데 월세를 정하진 못하지. 월급도. 누가 건물을 사는지도. 우린 열을 내리는 거야. 병을 고치는 게 아니라.
+SAMIR: E la malattia chi la cura? || 그럼 병은 누가 고쳐요?
+DON PAOLO: Forse... una cooperativa che compra un palazzo e lo toglie dal mercato. Per sempre. Forse. Ma non dirlo al vescovo. Pensa che io faccio troppa politica. || 어쩌면… 건물을 사서 시장에서 영원히 빼내는 협동조합이. 어쩌면. 근데 주교님한텐 말하지 마. 내가 정치를 너무 한다고 생각하시거든.
+SAMIR: Domanda numero quarantuno... no, aspetti, quella l'ho già pensata per dopo. Questa la segno come quarantuno bis. || 질문 41번… 아니, 잠깐만요, 그건 나중 걸로 생각해 둔 게 있어요. 이건 41-2번으로 적을게요.
+# 장면 8 — IN OFFICINA
+> 오후 5시. 시모네의 수리점. 셋이 지친 몸으로 앉아 있다. 세티미오의 낡은 스쿠터가 분해되어 있다 || 오후 5시. 시모네의 수리점. 셋이 지친 몸으로 앉아 있다. 세티미오의 낡은 스쿠터가 분해되어 있다
+SAMIR: Posso contare adesso? È finita la mensa. || 이제 세도 돼요? 급식 끝났잖아요.
+SIMONE: Adesso puoi. || 이제 돼.
+SAMIR: Duecentoventisei ospiti. Seicentoottanta pezzi di pane. Quattordici bambini. Tre cani. Un signore che ha cantato «Roma nun fa' la stupida stasera». E Sandro. Uno. || 손님 이백이십육 명. 빵 육백팔십 개. 아이 열네 명. 개 세 마리. «로마여, 오늘 밤 바보처럼 굴지 마»를 부른 아저씨 한 명. 그리고 산드로 아저씨. 한 명.
+DAVIDE: Perché Sandro lo conti a parte? || 산드로 아저씨는 왜 따로 세?
+SAMIR: Perché lui l'abbiamo cambiato. Forse. Gli altri li abbiamo solo sfamati. Anche quello è importante. Ma è diverso. || 그 아저씨는 우리가 바꿨으니까요. 아마도. 다른 분들은 그냥 배부르게만 해 드렸고요. 그것도 중요해요. 근데 그건 달라요.
+DAVIDE: Samir, sei sicuro di avere tredici anni? || 사미르, 너 진짜 열세 살 맞아?
+SAMIR: Quasi quattordici. A luglio. Domanda numero quarantuno. «Quante persone servono per cambiare la vita di una persona?». || 거의 열네 살이요. 7월에. 질문 41번. «한 사람의 인생을 바꾸는 데 몇 명이 필요할까?».
+SIMONE: Ventitré. Per me sono servite ventitré. Ma forse a volte ne basta una. Che si siede al tavolo giusto. || 스물셋. 나한텐 스물세 명이 필요했어. 근데 어떤 땐 한 명으로 충분할지도 몰라. 맞는 테이블에 앉아 주는 한 명.
+DAVIDE: E Franco? Lo hai avvisato? Che domani arriva Sandro? || 그럼 프랑코 씨는요? 알렸어요? 내일 산드로 아저씨 온다고?
+SIMONE: Gli ho scritto. Mi ha risposto con un messaggio solo. «Il figlio di Rino? Quello che mi deve tre anni di caffè? Va bene. Ma il primo giorno il caffè lo paga lui». || 문자 보냈어. 딱 한 줄로 답 왔어. «리노 아들? 나한테 3년 치 커피값 빚진 그놈? 좋아. 근데 첫날 커피는 그 녀석이 사라».
+DAVIDE: Classico Franco. || 프랑코 씨답네요.
+SIMONE: Classico Franco. Adesso, se non vi dispiace, ho un motorino del millenovecentonovantotto da far ripartire. Prima di Natale. L'ho giurato. Mancano cinque giorni. || 프랑코 씨답지. 자, 괜찮으면, 98년식 스쿠터 시동 걸어야 해. 크리스마스 전에. 맹세했거든. 닷새 남았어.
+SAMIR: Posso contare i pezzi? || 부품 세도 돼요?
+SIMONE: Puoi contare i pezzi. Ma se ne avanza qualcuno alla fine, non dirlo a Sor Settimio. || 부품은 세도 돼. 근데 끝나고 남는 게 있어도 세티미오 영감님한텐 말하지 마.
+
+@points
+- 규칙 제시와 금지: «Regola numero uno: qui non ci sono "poveri". Ci sono ospiti», «non si fanno domande», «Oggi non si conta» — 비인칭 'si'로 공동체 규범 말하기.
+- 통계 말하기: «quasi sei milioni in povertà assoluta», «uno su dieci», «statisticamente», «Quaranta in più. In un anno.»
+- 가정문(구어 대 문어): «se non c'era la Settimana..., a dicembre ero io»(구어 반과거 가정) vs «Tuo padre sarebbe fiero», «Mio padre riderebbe e poi piangerebbe».
+- 접속법: «Come se ti conoscesse», «Prima che... », «Se il prete non si arrabbia»(직설법 현재 가정).
+- 제안 화법: «Non gli fai una domanda. Gli fai un'offerta», «Venga domani alle undici. Chieda di Franco. Gli dica: ...» — Lei 명령형 연속.
+- 산드로의 대사는 담담하게, 자조는 웃음기 섞어. «La vita ha il senso dell'umorismo. Un umorismo romano. Cattivo.»
+- 이중자음: «pentole»(홑), «pagnotte»[tt], «sbucciate»[ttʃ], «subaffitto»[ff][tt], «sacrificio»(홑), «pezzi»[tts], «piccoletto»[kk][tt].
+
+@notes
+- 성탄 무료 급식: 로마에선 산테지디오 공동체(Comunità di Sant'Egidio)의 트라스테베레 성탄 점심이 유명하며, 여러 본당과 카리타스가 급식소(mensa)를 운영한다. 극 중 급식은 허구.
+- 'povertà assoluta' 절대 빈곤 — 이탈리아 통계청(ISTAT)은 최근 수년간 절대 빈곤 인구를 약 570만~590만 명(약 10%)으로 추산했다. ※ 수치는 시점별 확인. 'working poor / poveri che lavorano' 일하는 빈곤층.
+- 'consiglio pastorale' 본당 사목 위원회. 'pulpito' 강론대.
+- 'subaffitto' 재임대(전대). 'in nero' 장부 없이(비공식으로). 'mettere in regola' 정식 고용으로 신고하다.
+- 'Roma nun fa' la stupida stasera' — 1962년 뮤지컬 「Rugantino」의 로마 방언 노래, 로마 사람들의 애창곡.
+- 'Torpignattara', 'via Casilina' 로마 동부의 서민 동네와 간선 도로.
+
+@next
+4부 59화 — «I conti della casa»(집의 셈) — 12월 22일 화요일 밤. 줄리아는 나흘 전 마지막 출근을 마쳤다. 베를린의 엑셀 파일과 로마의 엑셀 파일이 처음으로 한 화면에 열린다. 대출 금리, 사용료, 그리고 조합원 한 명 한 명의 월 부담. 엘리사와 줄리아, 두 '계산하는 여자'가 화상으로 만난다.
