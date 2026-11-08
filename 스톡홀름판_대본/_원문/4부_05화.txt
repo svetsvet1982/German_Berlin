@@ -1,0 +1,267 @@
+PART: 4
+EP: 5
+TITLE: Nationaldagen
+SUBTITLE: 국경일 · 재판 5, 카페 Biggans와 스톡홀름 시청
+META: 대사 120턴 · 난이도 B2 · 배경: 6월 6일 일요일, 스웨덴 국경일, 카페 Biggans와 스톡홀름 시청(Stadshuset)
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: CHYDENIUS | 부활한 목사·정치가 (1729–1803)
+CAST: FARID | 건설 노동자 · 23세 · 증인 예정 (가상)
+CAST: FADUMO | Vårberg 세입자 · 새 시민 (가상)
+CAST: BRITT | 법원 증인 지원 자원봉사자 (가상)
+NOTE: ※ 6월 6일은 스웨덴 국경일(Sveriges nationaldag)입니다. 많은 지자체가 이날 새로 시민권을 받은 사람들을 위한 축하 행사(medborgarskapsceremoni)를 엽니다. 스웨덴은 최근 시민권 요건을 강화했고, 언어와 사회 지식을 확인하는 시험도 논의·도입되고 있습니다(제도의 세부와 시행 시점은 집필 시 재확인 필요). 스웨덴의 헌법은 하나가 아니라 네 개의 기본법(grundlagar)으로 이루어져 있습니다: 정부조직법(regeringsformen), 왕위계승법, 출판자유법, 표현자유기본법. 한편 법원에는 증인과 피해자 곁에 서 주는 자원봉사 ‘증인 지원(vittnesstöd)’이 있고, 증인을 협박하는 것은 ‘사법 방해(övergrepp i rättssak)’라는 중대한 범죄입니다. 문법 초점: 수동태와 형용사구로 제도 설명하기. 표현 초점: medborgarskap, grundlag, tillhöra, vittnesstöd, övergrepp i rättssak.
+
+# 도입 — FARID PLUGGAR
+BIGGAN: Nationaldagen. Flaggan är uppe. Och Farid har suttit vid fönsterbordet sedan sju i morse.
+= 국경일. 깃발 올렸어. 그리고 파리드는 아침 일곱 시부터 창가 테이블에 앉아 있어.
+FARID: Jag pluggar. Till medborgarskapsprovet. Jag har ansökt. Om jag får medborgarskap behöver jag aldrig mer vara rädd för ett arbetstillstånd.
+= 공부해요. 시민권 시험이요. 신청했어요. 시민권을 받으면 다시는 노동허가 때문에 무서워할 필요가 없어요.
+ELSA: Får jag förhöra dig?
+= 문제 내 줘도 돼?
+FARID: Ja. Men inte för svåra.
+= 응. 근데 너무 어려운 건 말고.
+ANTON: Säg till om det kommer en fråga om Westfaliska freden. Då har vi en expert.
+= 베스트팔렌 조약 문제 나오면 말해. 전문가가 계시니까.
+ELSA: Hur många ledamöter har riksdagen?
+= 의회 의원은 몇 명이에요?
+FARID: Trehundrafyrtionio.
+= 349명.
+ELSA: Rätt. Varför ett udda tal?
+= 맞아요. 왜 홀수예요?
+FARID: Så att det inte blir lika vid en omröstning.
+= 표결에서 동수가 안 나오게.
+OXENSTIERNA: På min tid hade riksdagen fyra stånd. Adel, präster, borgare och bönder. Och kungen hade alltid sista ordet.
+= 내 시절엔 의회가 네 신분이었네. 귀족, 성직자, 시민, 농민. 그리고 마지막 말은 언제나 왕이 했지.
+FARID: Det står inte i boken.
+= 그건 책에 없어요.
+OXENSTIERNA: Då är boken ofullständig.
+= 그럼 책이 불완전한 거지.
+ELSA: Nästa. Hur många grundlagar har Sverige?
+= 다음. 스웨덴엔 기본법이 몇 개 있어요?
+FARID: Fyra. Regeringsformen. Successionsordningen. Tryckfrihetsförordningen. Och yttrandefrihetsgrundlagen.
+= 네 개. 정부조직법. 왕위계승법. 출판자유법. 그리고 표현자유기본법.
+CHYDENIUS: Tryckfrihetsförordningen! Den har överlevt. Den är min.
+= 출판자유법! 살아남았구나. 그건 내 거라네.
+OXENSTIERNA: Och regeringsformen är min. Den första. 1634.
+= 그리고 정부조직법은 내 거지. 최초의 것. 1634년.
+ELSA: Vänta… Ni skrev den första regeringsformen?
+= 잠깐… 최초의 정부조직법을 쓰셨어요?
+OXENSTIERNA: Efter Gustav Adolfs död. Någon måste bestämma hur riket skulle styras när kungen var ett barn. Så jag skrev det.
+= 구스타브 아돌프가 죽은 뒤에. 왕이 어린아이일 때 나라를 어떻게 다스릴지 누군가는 정해야 했지. 그래서 내가 썼네.
+FARID: Så två av de fyra grundlagarna är skrivna av folk som sitter här?
+= 그럼 네 개 기본법 중 두 개를 여기 앉아 있는 분들이 쓰신 거예요?
+CHYDENIUS: Mycket omskrivna sedan dess. Men ja.
+= 그 뒤로 많이 고쳐졌지만. 그래.
+FARID: Det står inte i boken heller.
+= 그것도 책엔 없어요.
+BIGGAN: Boken vet inte vem som dricker kaffe i mitt kafé.
+= 책은 내 카페에서 누가 커피를 마시는지 모르지.
+FARID: Det kommer inte på provet. Tyvärr.
+= 그건 시험에 안 나와요. 안타깝게도.
+
+# 장면 1 — HOTET
+DANIEL: Farid. Hur har du sovit sedan torsdag?
+= 파리드. 목요일부터 잠은 어떻게 잤어?
+FARID: Inte så bra. Jag drömmer om mina händer.
+= 별로요. 제 손에 관한 꿈을 꿔요.
+JOHAN: Har det kommit fler sms?
+= 문자 더 왔어?
+FARID: Två till. Ett på fredag. ”Vi vet var du jobbar.” Ett i går. En bild. På bygget i Hammarbyhöjden. Där jag jobbar nu.
+= 두 개 더요. 금요일에 하나. ‘너 어디서 일하는지 안다.’ 어제 하나. 사진이요. 함마르뷔회이덴 공사장. 지금 제가 일하는 데.
+ANTON: De har fotograferat ditt bygge?
+= 네 공사장을 찍었다고?
+FARID: Från gatan. Med mig på ställningen. Jag såg inte att någon fotade.
+= 길에서요. 비계 위에 있는 저를. 누가 찍는 줄 몰랐어요.
+ELSA: Det är fruktansvärt.
+= 끔찍해요.
+DANIEL: Har du visat bilden för någon på bygget?
+= 공사장 사람한테 그 사진 보여 줬어?
+FARID: Min arbetsledare. Han blev arg. Han sa att ingen fotograferar hans killar.
+= 현장 반장한테요. 화내더라고요. 아무도 자기 애들을 못 찍게 하겠대요.
+JOHAN: Har du visat Lovisa?
+= 로비사한테 보여 줬어?
+FARID: I fredags. Hon sa att det heter övergrepp i rättssak. Att det är ett allvarligt brott. Hon har gett det till polisen.
+= 금요일에요. 그건 ‘사법 방해’라고 하더라고요. 중대한 범죄래요. 경찰에 넘겼대요.
+ELSA: Övergrepp i rättssak. Vad betyder det exakt?
+= 사법 방해. 정확히 무슨 뜻이에요?
+JOHAN: Att man försöker skrämma någon för att de ska ändra sitt vittnesmål. Eller inte vittna alls. Det straffas hårt. Hårdare än många andra hot.
+= 증언을 바꾸게 하거나 아예 증언하지 못하게 하려고 누군가를 겁주는 거야. 무겁게 처벌받아. 다른 많은 협박보다 무겁게.
+DANIEL: Och vad gör polisen?
+= 그럼 경찰은 뭘 해?
+FARID: De har pratat med min arbetsgivare. En polisbil åker förbi bygget två gånger om dagen. Och de har gett mig ett nummer att ringa. Dygnet runt.
+= 제 고용주랑 얘기했어요. 경찰차가 하루에 두 번 공사장 앞을 지나가요. 그리고 전화할 번호를 줬어요. 24시간.
+OXENSTIERNA: Två gånger om dagen. Det är inte en armé.
+= 하루에 두 번. 그건 군대가 아니군.
+JOHAN: Det är inte en armé. Men det är en signal. Till dem som skickar sms.
+= 군대는 아니죠. 하지만 신호예요. 문자 보내는 사람들한테.
+FARID: Jag har tänkt på att inte vittna.
+= 증언하지 말까 생각했어요.
+ELSA: Farid…
+= 파리드…
+FARID: Jag har ingen familj här. Om något händer med mina händer, har jag inget jobb. Inget arbetstillstånd. Inget medborgarskap. Ingenting.
+= 전 여기 가족이 없어요. 제 손에 무슨 일이 생기면, 일자리도 없어요. 노동허가도. 시민권도. 아무것도.
+DANIEL: Det är normalt att tänka så. Det är exakt det de vill att du ska tänka.
+= 그렇게 생각하는 건 정상이야. 그게 바로 걔들이 네가 생각하길 원하는 거고.
+FARID: Jag vet. Det är det som gör mig arg.
+= 알아요. 그래서 화가 나요.
+BIGGAN: Arg är bättre än rädd. Arg kan man använda.
+= 화난 게 무서운 것보다 나아. 화는 쓸 데가 있거든.
+CHYDENIUS: 1766 fick jag också brev. Från män som inte ville att lagen skulle gå igenom. De skrev att jag borde tänka på min församling.
+= 1766년에 나도 편지를 받았지. 그 법이 통과되길 원치 않는 자들한테서. 내 교구를 생각하라고 썼더군.
+FARID: Och vad gjorde ni?
+= 그래서 어떻게 하셨어요?
+CHYDENIUS: Jag läste breven högt i riksdagen. Då slutade de skriva.
+= 의회에서 그 편지들을 소리 내 읽었지. 그러자 쓰는 걸 그만두더군.
+ELSA: Farid kan läsa sina sms högt i rättssalen.
+= 파리드도 법정에서 문자를 소리 내 읽을 수 있겠네요.
+JOHAN: Det kanske han får göra. Om åklagaren tar upp det.
+= 그럴 수도 있어. 검사가 그걸 다룬다면.
+
+# 장면 2 — VITTNESSTÖD
+BRITT: Hej. Är det Farid? Jag heter Britt. Jag är vittnesstödjare vid tingsrätten. Lovisa sa att du ville prata.
+= 안녕하세요. 파리드 씨예요? 브리트라고 해요. 지방법원 증인 지원 자원봉사자예요. 로비사가 이야기하고 싶어 한다고 해서요.
+FARID: På nationaldagen? Ni jobbar på nationaldagen?
+= 국경일에요? 국경일에도 일하세요?
+BRITT: Jag är volontär. Jag jobbar när det behövs. Och jag tyckte att det här behövdes.
+= 자원봉사자예요. 필요할 때 일해요. 그리고 이건 필요하다고 생각했어요.
+ELSA: Vad gör en vittnesstödjare?
+= 증인 지원자는 뭘 해요?
+BRITT: Jag sitter bredvid vittnen. Före förhöret, i väntrummet. Efter förhöret. Jag pratar inte om målet. Jag pratar om allt annat.
+= 증인 옆에 앉아요. 신문 전에, 대기실에서. 신문 후에도. 사건 얘기는 안 해요. 다른 모든 걸 얘기하죠.
+ANTON: Som en nämndeman, fast tvärtom.
+= 시민 배심 판사 같네요, 반대 방향으로.
+BRITT: Ungefär. Jag var lärarinna. Nu är jag pensionär. Det finns många av oss vid domstolarna.
+= 대충 그래요. 전 교사였어요. 지금은 연금 생활자고요. 법원엔 우리 같은 사람이 많아요.
+JOHAN: Och det finns andra saker, Farid. Du kan be om att få vänta i ett separat rum. Så att du inte möter de tilltalade i korridoren.
+= 그리고 다른 것들도 있어, 파리드. 별도의 방에서 기다리게 해 달라고 요청할 수 있어. 복도에서 피고인들과 마주치지 않도록.
+FARID: Jag vill inte möta Rehnberg i korridoren.
+= 렌베리를 복도에서 마주치고 싶지 않아요.
+BRITT: Det ordnar vi. Och du kommer inte att se honom när du vittnar, om du inte vill. Han sitter åt sidan. Du tittar på domaren.
+= 그건 우리가 해결할게요. 그리고 증언할 때도 원하지 않으면 그 사람을 안 봐도 돼요. 그 사람은 옆쪽에 앉아 있어요. 당신은 판사를 보면 돼요.
+FARID: Och Ingrid sitter på tredje raden.
+= 그리고 잉리드가 세 번째 줄에 앉아 있고요.
+BRITT: Då har du två ställen att titta på. Det är bra.
+= 그럼 볼 곳이 두 군데네요. 좋아요.
+DANIEL: Britt, hur många vittnen har du stöttat?
+= 브리트, 증인을 몇 명이나 지원하셨어요?
+BRITT: Över fyrahundra. På tolv år.
+= 사백 명 넘게요. 12년 동안.
+BIGGAN: Fyrahundra. Det är fler än jag har bakat bullar för på en dag.
+= 사백 명. 내가 하루에 번 구워 주는 사람보다 많네.
+ELSA: Fyrahundra. Har någon ångrat att de vittnade?
+= 사백 명. 증언한 걸 후회한 사람도 있어요?
+BRITT: Några. Men fler har ångrat att de inte gjorde det. De som backade. De kommer ibland tillbaka år senare. Och säger: ”Jag borde ha vittnat.”
+= 몇 명은요. 하지만 증언하지 않은 걸 후회한 사람이 더 많아요. 물러났던 사람들. 몇 년 뒤에 가끔 돌아와요. 그리고 말하죠: ‘증언했어야 했어요.’
+FARID: Som Maja. ”Jag borde ha skrivit.”
+= 마야처럼요. ‘썼어야 했다.’
+JOHAN: Som Maja.
+= 마야처럼.
+FARID: Okej. Jag vittnar. Med Britt i väntrummet. Och Ingrid på tredje raden.
+= 좋아요. 증언할게요. 대기실엔 브리트가. 세 번째 줄엔 잉리드가.
+BRITT: Och efteråt?
+= 그리고 끝나고는요?
+FARID: Efteråt äter jag en bulle. Det är en regel här.
+= 끝나고는 번을 먹어요. 여기 규칙이에요.
+BIGGAN: Regel åtta. Även för vittnen.
+= 규칙 8번. 증인도 예외 없어.
+
+# 절정 — STADSHUSET
+ELSA: Klockan tre. Stadshuset. Blå hallen. Det är där Nobelfesten är!
+= 세 시. 시청. 블루 홀. 노벨상 만찬을 하는 곳이에요!
+FADUMO: Och i dag är det min fest. Medborgarskapsceremonin. Jag fick beslutet i april.
+= 그리고 오늘은 제 잔치예요. 시민권 축하 행사. 4월에 결정 받았어요.
+DANIEL: Grattis, Fadumo. Hur länge har du väntat?
+= 축하해요, 파두모. 얼마나 기다렸어요?
+FADUMO: Jag kom 2011. Jag ansökte 2021. Och nu, 2027. Sexton år från flygplatsen till Blå hallen.
+= 2011년에 왔어요. 2021년에 신청했고요. 그리고 지금, 2027년. 공항에서 블루 홀까지 16년.
+FARID: Sexton år. Jag har varit här i tolv.
+= 16년. 전 여기 온 지 12년이에요.
+FADUMO: Då har du fyra kvar. Om du har tur.
+= 그럼 4년 남았네. 운이 좋으면.
+FARID: Fyra år. Det har vi haft förut också. Fast i dagar.
+= 4년. 그것도 전에 있었던 숫자예요. 날짜로였지만.
+ANTON: Det är tusen personer här. Från hela världen. Alla i finkläder.
+= 여기 천 명은 돼. 전 세계에서 온. 다들 정장 입고.
+ELSA: Och de sjunger nationalsången. Hör ni?
+= 그리고 국가를 불러요. 들려요?
+FADUMO: ”Du gamla, du fria…” Jag har övat i tre veckor. Min mamma tycker att melodin är för långsam.
+= ‘너 오래된, 너 자유로운…’ 3주 동안 연습했어요. 우리 엄마는 곡이 너무 느리대요.
+OXENSTIERNA: ”Du gamla, du fria”? Det är inte en nationalsång. Det är en visa från artonhundratalet.
+= ‘너 오래된, 너 자유로운’? 그건 국가가 아니네. 1800년대 노래지.
+JOHAN: Den har aldrig blivit officiell. Men alla sjunger den ändå. Det är väldigt svenskt.
+= 공식으로 정해진 적은 한 번도 없어요. 그래도 다들 불러요. 아주 스웨덴답죠.
+CHYDENIUS: Ett land som inte har bestämt sin nationalsång men har bestämt sin tryckfrihet. Rätt prioriteringar.
+= 국가는 정하지 않았으면서 출판의 자유는 정한 나라라. 우선순위가 옳군.
+FADUMO: Nu ropar de upp namnen. Stadsdel för stadsdel. Skärholmen… Vårberg ingår i Skärholmen.
+= 이제 이름을 불러요. 구역마다. 셰르홀멘… 바르베리는 셰르홀멘에 속해요.
+ELSA: Det är ditt namn! ”Fadumo Ali Hassan”!
+= 파두모 씨 이름이에요! ‘파두모 알리 하산’!
+FADUMO: …
+= ……
+DANIEL: Gå upp, Fadumo. De väntar.
+= 올라가요, 파두모. 기다리고 있어요.
+BIGGAN: Hon gråter. Hon har aldrig gråtit. Inte ens på stämman i Vårberg.
+= 울어. 한 번도 안 울었던 사람이. 바르베리 총회에서도 안 울었는데.
+OXENSTIERNA: Det är så man ska gråta. En gång. Vid rätt tillfälle.
+= 그렇게 울어야 하는 거네. 한 번. 맞는 때에.
+FARID: Hon fick ett diplom. Och en liten flagga. Och någon skakade hennes hand.
+= 증서를 받았어요. 그리고 작은 깃발. 그리고 누가 악수를 했어요.
+ANTON: Kommunfullmäktiges ordförande. Det är en tradition.
+= 지방의회 의장이야. 전통이지.
+ELSA: Farid… om fyra år står du där.
+= 파리드… 4년 뒤엔 네가 저기 서 있을 거야.
+FARID: Om jag har mina händer kvar.
+= 내 손이 남아 있다면.
+DANIEL: Du har dem. Jag är läkare. Jag lovar det.
+= 남아 있을 거야. 난 의사야. 약속해.
+FARID: Läkare kan inte lova sådant.
+= 의사는 그런 거 약속 못 해요.
+DANIEL: Nej. Men vänner kan.
+= 그렇지. 하지만 친구는 할 수 있어.
+
+# 마무리 — TILLHÖRA
+FADUMO: Titta. Ett diplom. ”Svensk medborgare.” Med mitt namn. Och kommunens stämpel.
+= 봐요. 증서. ‘스웨덴 시민.’ 제 이름이랑. 그리고 시청 도장.
+ELSA: Ett bra papper. Det bästa papperet.
+= 좋은 종이네요. 최고의 종이.
+ANTON: Inte ett nyckelkvitto.
+= 열쇠 영수증 말고.
+FADUMO: Jag har öppnat mammas brev i trettio år. Det här är det första brev jag har fått som jag inte är rädd för.
+= 30년 동안 엄마 편지를 열어 왔어요. 이건 제가 받은 편지 중에 처음으로 무섭지 않은 편지예요.
+CHYDENIUS: Ett papper från staten som gör en människa trygg. Det är vad staten är till för.
+= 사람을 안심시키는 국가의 종이라. 국가는 그러라고 있는 거요.
+OXENSTIERNA: I mitt rike var man undersåte. Man tillhörde kungen. Här tillhör man… vad?
+= 내 왕국에선 신민이었지. 왕에게 속했고. 여기선 무엇에 속하나…?
+FADUMO: Varandra. Tror jag. Vårberg. Biggans. Tvättstugan.
+= 서로에게요. 제 생각엔. 바르베리. 비간스. 세탁실.
+BRITT: Det är det bästa svaret jag har hört på den frågan.
+= 그 질문에 대해 들은 최고의 대답이네요.
+OXENSTIERNA: Tvättstugan. Strindberg har smittat er alla.
+= 세탁실이라. 스트린드베리가 다들 물들여 놨군.
+FARID: Elsa. Ställ en fråga till. Från boken.
+= 엘사. 문제 하나 더 내 줘. 책에서.
+ELSA: Okej. Vad betyder det att vara svensk medborgare?
+= 좋아. 스웨덴 시민이 된다는 건 무슨 뜻이에요?
+FARID: Det står att man får rösta i riksdagsval. Att man inte kan utvisas. Att man har ett svenskt pass.
+= 의회 선거에서 투표할 수 있다고 적혀 있어요. 추방될 수 없고. 스웨덴 여권이 있다고.
+ELSA: Och vad tycker du att det betyder?
+= 그럼 너는 그게 무슨 뜻이라고 생각해?
+FARID: Att man får vittna utan att vara rädd att bli utvisad för det.
+= 그것 때문에 추방될까 무서워하지 않고 증언할 수 있다는 거.
+JOHAN: Du får vittna utan rädsla redan nu, Farid. Det är ingen som kan utvisa dig för att du säger sanningen.
+= 지금도 넌 두려움 없이 증언할 수 있어, 파리드. 진실을 말한다고 널 추방할 수 있는 사람은 없어.
+FARID: Jag vet det. I huvudet. Men inte i magen.
+= 알아요. 머리로는. 근데 배 속으로는 몰라요.
+BRITT: Magen är långsammare än huvudet. Den kommer ikapp. Ofta i väntrummet.
+= 배는 머리보다 느려요. 따라잡을 거예요. 대개는 대기실에서.
+BIGGAN: Och nu: tårta. Prinsesstårta. För Fadumo. Och för Sverige.
+= 그리고 이제: 케이크. 프린세스 케이크. 파두모를 위해. 그리고 스웨덴을 위해.
+FADUMO: Grön tårta. Det är det mest svenska av allt.
+= 초록 케이크. 그게 제일 스웨덴다운 거죠.
+FARID: Och för Ingrid. Som ska sitta på tredje raden.
+= 그리고 잉리드를 위해. 세 번째 줄에 앉을.
+NEXT: 4부 6화 — «Deepfake»(딥페이크) — Maja가 뒷돈을 받는 가짜 영상이 SNS에 퍼진다. 증언을 며칠 앞두고. Elsa와 Noel이 출처를 추적한다 — Noel이 ‘이용당한 아이’에서 ‘돕는 아이’가 되는 화.
