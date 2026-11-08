@@ -1,0 +1,169 @@
+@part 3
+@ep 40
+@file La_banca_dice_no
+@title La banca dice no
+@ko 은행은 안 된다고 한다
+@where 마르모라타 거리의 은행 지점 / 은행 앞 벤치 / 칸토네
+@level B1~B2
+@setting 9월 24일 목요일 오전 9시~11시, 오후 1시
+@cast FRANCO | 바 주인, 이 은행 고객 30년, 61세
+@cast VALENTI | 은행 지점장, 44세
+@cast GIULIA | 프랑코의 딸, 반차를 내고 동행, 34세
+@cast SETTIMIO | 3층 세입자, 83세
+@note 협동조합 연구 위원회의 첫 숙제는 '각자 얼마나 마련할 수 있는가'였다. 프랑코는 1996년 개업 대출을 받았던 그 은행, 마르모라타 거리 지점으로 간다. 그때의 지점장은 은퇴했고, 지금은 발렌티라는 젊은 지점장이 있다. 줄리아는 오전 반차를 내고 따라왔다. '숫자 통역사'로.
+
+# 장면 1 — LA RICHIESTA
+VALENTI: Buongiorno, signor Ceccarelli. Si accomodi. Lei è... la figlia? || 안녕하세요, 체카렐리 씨. 앉으세요. 이분은… 따님이세요?
+GIULIA: Giulia. Sono qui per aiutare con i numeri. Mio padre fa il caffè. Io faccio i conti. || 줄리아예요. 숫자 도와드리러 왔어요. 아빠는 커피를 내리고. 저는 계산을 해요.
+VALENTI: Una buona divisione dei compiti. Allora, mi dica. Come posso aiutarla? || 좋은 역할 분담이네요. 그럼 말씀해 보세요. 어떻게 도와드릴까요?
+FRANCO: Ho bisogno di un prestito. Sessantamila euro. || 대출이 필요해요. 6만 유로.
+VALENTI: Sessantamila. Per cosa, se posso chiedere? Ristrutturazione del bar? Macchinari? || 6만이요. 실례지만 용도가 뭔가요? 바 리모델링? 기계?
+FRANCO: No. Per comprare il palazzo. Cioè, una parte. Con i vicini. Facciamo una cooperativa. || 아뇨. 건물을 사려고요. 그러니까, 일부를. 이웃들이랑. 협동조합을 만들어요.
+VALENTI: Una cooperativa. Per comprare un palazzo. Interessante. || 협동조합. 건물을 사려고. 흥미롭네요.
+GIULIA: Il palazzo di via del Cantone 7. Dove c'è il bar. L'ha comprato un fondo, ad agosto. Vuole mandare via tutti. || 비아 델 칸토네 7번지 건물이요. 바가 있는 곳. 8월에 펀드가 샀어요. 다 내보내려고 해요.
+VALENTI: Ho letto qualcosa. Tevere Living. Ne parlano anche qui in filiale. || 뭘 좀 읽었어요. 테베레 리빙. 여기 지점에서도 얘기들 해요.
+FRANCO: Allora sa. Io sono cliente di questa banca da trent'anni. Il primo prestito per il bar l'ho preso qui. Nel 1996. Il direttore era il dottor Marchetti. Ci dava del tu. || 그럼 아시겠네요. 저 이 은행 고객 30년이에요. 바 첫 대출을 여기서 받았어요. 1996년에. 지점장이 마르케티 씨였죠. 우리한테 말 놓고 지냈어요.
+VALENTI: Il dottor Marchetti è in pensione da dieci anni. Lo conosco. Mi ha parlato del suo bar. «Il caffè migliore di Testaccio», diceva. || 마르케티 씨는 은퇴하신 지 10년 됐어요. 알아요. 그분이 체카렐리 씨 바 얘기를 했어요. «테스타초 최고의 커피»라고요.
+FRANCO: Allora mi darà il prestito. Per il caffè migliore di Testaccio. || 그럼 대출해 주시겠네요. 테스타초 최고의 커피를 위해서.
+VALENTI: Magari bastasse il caffè, signor Ceccarelli. Mi permette di farle qualche domanda? Sono domande tecniche. Non personali. || 커피만으로 된다면 좋겠어요, 체카렐리 씨. 몇 가지 여쭤봐도 될까요? 기술적인 질문이에요. 개인적인 게 아니라.
+FRANCO: Faccia pure. || 하세요.
+
+# 장면 2 — LE DOMANDE
+VALENTI: Prima domanda. La sua età? || 첫 번째 질문. 연세가?
+FRANCO: Sessantuno. Sessantadue a gennaio. || 예순하나. 1월이면 예순둘.
+VALENTI: Seconda. Il suo reddito dichiarato, l'anno scorso? || 두 번째. 작년 신고 소득은요?
+GIULIA: Ventiquattromila euro. Lordi. Dalla dichiarazione dei redditi. Ecco la copia. || 2만 4천 유로. 세전이요. 소득 신고서 기준이에요. 사본 여기 있어요.
+VALENTI: Grazie. Terza. Ha delle proprietà? Una casa? Un terreno? || 감사합니다. 세 번째. 재산이 있으세요? 집이나? 땅이나?
+FRANCO: No. Io abito nel mezzanino sopra il bar. In affitto. Compreso nel contratto del locale. || 아뇨. 저는 바 위 중이층에 살아요. 세 들어서. 가게 계약에 포함돼 있어요.
+VALENTI: Quarta. Il contratto del locale. Quando scade? || 네 번째. 가게 계약. 언제 만료되죠?
+FRANCO: Settembre del prossimo anno. E il fondo non lo vuole rinnovare. Ma l'avvocata dice che forse... || 내년 9월이요. 그리고 펀드가 갱신을 안 하겠대요. 근데 변호사 말로는 어쩌면…
+VALENTI: Capisco. Ultima domanda. Ha altri debiti? || 알겠습니다. 마지막 질문. 다른 빚이 있으세요?
+FRANCO: Il fornitore del caffè. Il conto della luce. Le tasse di novembre. Niente di grave. Come tutti. || 원두 납품업체. 전기 요금. 11월 세금. 큰 건 없어요. 다들 그렇듯이요.
+VALENTI: Va bene. Grazie per la sincerità. || 좋습니다. 솔직하게 말씀해 주셔서 감사합니다.
+FRANCO: E allora? || 그래서요?
+VALENTI: Allora... le parlo con la stessa sincerità. Posso? || 그럼… 저도 똑같이 솔직하게 말씀드릴게요. 괜찮으세요?
+FRANCO: Lo preferisco. || 그게 좋아요.
+VALENTI: Per un prestito di sessantamila euro, la banca guarda tre cose. Il reddito, le garanzie, il tempo. Il suo reddito è basso per questa cifra. Le garanzie non ci sono: niente casa, e un contratto commerciale che forse finisce tra un anno. E il tempo... || 6만 유로 대출에 은행은 세 가지를 봐요. 소득, 담보, 기간. 이 금액에 비해 소득이 낮으세요. 담보는 없고요. 집도 없고, 1년 뒤에 끝날지도 모르는 상가 계약뿐이죠. 그리고 기간은…
+FRANCO: Il tempo? || 기간이요?
+VALENTI: Le nostre regole interne non permettono che un prestito finisca dopo i settantacinque anni del cliente. Lei ne ha sessantuno. Quattordici anni al massimo. E con il suo reddito, la rata sarebbe... troppo alta. || 저희 내부 규정상 대출 만기가 고객 나이 일흔다섯을 넘으면 안 돼요. 예순하나시니까 최대 14년. 그리고 지금 소득으로는 월 상환액이… 너무 높아요.
+GIULIA: Quanto? || 얼마나요?
+VALENTI: Circa cinquecento euro al mese. Su ventiquattromila euro lordi all'anno, è troppo. La banca non lo può approvare. || 한 달에 500유로쯤이요. 연 소득 세전 2만 4천에 비하면 너무 많아요. 은행이 승인할 수 없어요.
+> 침묵 || 침묵
+FRANCO: Quindi è no. || 그러니까 안 된다는 거네요.
+VALENTI: Per un prestito personale di sessantamila euro... è no. Mi dispiace. Davvero. || 6만 유로 개인 대출은… 안 됩니다. 죄송해요. 정말로요.
+FRANCO: Trent'anni di conto corrente. Mai un giorno in rosso. E la risposta è no. || 30년 동안 당좌 계좌를 썼어요. 단 하루도 마이너스 안 났고요. 그런데 대답이 안 된다네요.
+VALENTI: Lo so. E le giuro che non dipende da me. Dipende da un algoritmo. A Milano. Io inserisco i dati e lui risponde. || 압니다. 그리고 맹세코 제가 정하는 게 아니에요. 알고리즘이 정해요. 밀라노에서. 제가 자료를 넣으면 그게 대답하죠.
+FRANCO: Un algoritmo. Il dottor Marchetti non aveva l'algoritmo. Aveva gli occhi. Mi ha guardato e ha detto: «Ceccarelli, tu il caffè lo sai fare. Ti do i soldi». || 알고리즘이라. 마르케티 씨한텐 알고리즘이 없었어요. 눈이 있었죠. 날 보더니 «체카렐리, 넌 커피 내릴 줄 아는구나. 돈 빌려줄게» 하더라고요.
+VALENTI: Erano altri tempi. Il dottor Marchetti oggi non potrebbe fare il direttore. || 그땐 다른 시절이었죠. 마르케티 씨는 요즘이었으면 지점장을 못 했을 거예요.
+FRANCO: Peccato. Per tutti. || 아깝네요. 모두한테.
+
+# 장면 3 — LA PENSIONE
+GIULIA: E se il prestito fosse più piccolo? Ventimila? || 그럼 대출을 더 적게 하면요? 2만?
+VALENTI: Con ventimila, forse. Un prestito personale. Ma il tasso è alto. Intorno al nove per cento. Lo sconsiglio. Per un investimento così incerto... || 2만이면 어쩌면요. 개인 신용 대출. 근데 금리가 높아요. 9퍼센트 안팎. 권하지 않아요. 이렇게 불확실한 투자엔…
+FRANCO: Incerto? Il palazzo dove sono cresciuto è incerto? || 불확실하다고요? 내가 자란 건물이 불확실하다고요?
+VALENTI: Per la banca, sì. Mi dispiace usare queste parole. Ma per la banca tutto quello che non è una casa di proprietà è incerto. || 은행 입장에선 그래요. 이런 말을 써서 죄송해요. 근데 은행에선 자가 주택이 아닌 건 다 불확실해요.
+FRANCO: E la pensione? Quando vado in pensione, quanto prendo? Me lo sa dire? || 그럼 연금은요? 은퇴하면 얼마 받는지 아세요?
+VALENTI: Lei è commerciante. Iscritto all'INPS come commerciante. La pensione di vecchiaia è a sessantasette anni. Anzi, con le nuove regole sull'aspettativa di vita, qualche mese in più. || 상인이시잖아요. INPS에 상인으로 가입돼 있죠. 노령 연금은 예순일곱 살이에요. 아니, 기대 수명 관련 새 규정 때문에 몇 달 더 걸려요.
+FRANCO: Qualche mese in più? Non bastavano sessantasette anni? || 몇 달 더요? 예순일곱으로 모자라요?
+VALENTI: Le regole cambiano con l'aspettativa di vita. Più si vive, più si lavora. Così dice la legge. || 규정은 기대 수명에 따라 바뀌어요. 오래 살수록 오래 일하는 거죠. 법이 그래요.
+FRANCO: Più si vive, più si lavora. E quando si vive senza lavorare? || 오래 살수록 오래 일한다. 그럼 일 안 하고 사는 건 언제고요?
+VALENTI: Dopo. Un po'. Ma con i suoi contributi... non le posso dare il numero preciso. Deve chiedere all'INPS. Con lo SPID. || 그 뒤에요. 조금은요. 근데 체카렐리 씨 납입액으로는… 정확한 숫자는 말씀 못 드려요. INPS에 물어보셔야 해요. SPID로.
+GIULIA: L'ho già guardato, papà. Ieri sera. Sul sito. Con il tuo SPID. || 내가 벌써 봤어, 아빠. 어젯밤에. 사이트에서. 아빠 SPID로.
+FRANCO: Con il mio SPID? Quando ce l'ho fatto lo SPID? || 내 SPID로? 내가 언제 SPID를 만들었어?
+GIULIA: Ad aprile. Insieme a Sor Settimio. In posta. Con Samir. Te lo ricordi? Hai fatto la fila per un'ora e hai detto che era la cosa più bella che ti era successa in un mese. || 4월에. 세티미오 영감님이랑 같이. 우체국에서. 사미르랑. 기억 안 나? 한 시간 줄 서고는 한 달 동안 제일 좋은 일이었다고 했잖아.
+FRANCO: Ah, sì. La fila. E quanto prendo? || 아, 그래. 그 줄. 그래서 얼마 받는데?
+GIULIA: Circa novecentoquaranta euro al mese. Tra sei anni. || 한 달에 940유로쯤. 6년 뒤에.
+FRANCO: Novecentoquaranta. Come Settimio. Più o meno. Dopo quarant'anni di lavoro. || 940. 세티미오 영감님이랑 비슷하네. 40년 일하고.
+VALENTI: Molti commercianti sono nella stessa situazione. Hanno pagato pochi contributi negli anni buoni, per pagare meno tasse. E adesso... || 많은 상인분들이 같은 처지예요. 좋은 시절엔 세금 덜 내려고 납입액을 적게 냈다가, 이제는…
+FRANCO: Io i contributi li ho sempre pagati. Tutti. Sono pochi perché guadagnavo poco. Non perché li nascondevo. || 난 납입액 늘 다 냈어요. 다. 적은 건 적게 벌어서지, 숨겨서가 아니에요.
+VALENTI: Mi scusi. Non volevo dire questo. || 죄송합니다. 그런 뜻이 아니었어요.
+
+# 장면 4 — UNA PORTA SOCCHIUSA
+VALENTI: Signor Ceccarelli. Posso dirle una cosa? Fuori dall'algoritmo? || 체카렐리 씨. 한마디 해도 될까요? 알고리즘 밖에서요?
+FRANCO: Oggi tutti mi parlano «fuori» da qualcosa. Fuori dai documenti, fuori dall'algoritmo. Dica pure. || 요즘 다들 나한테 뭔가의 «밖에서» 얘기해요. 서류 밖에서, 알고리즘 밖에서. 말씀하세요.
+VALENTI: A lei, come persona, la banca non può dare sessantamila euro. Ma a una cooperativa, forse, qualcuno sì. Non noi. Ma ci sono banche che fanno proprio questo. Banche etiche. Finanziano le cooperative di abitazione. Con garanzie diverse. Il palazzo stesso è la garanzia. || 개인으로서는 은행이 6만 유로를 못 빌려 드려요. 근데 협동조합한테는 어쩌면 누군가가 빌려줄 거예요. 저희는 아니고요. 근데 바로 그런 일을 하는 은행들이 있어요. 윤리 은행. 주택협동조합에 자금을 대 줘요. 다른 방식의 담보로요. 건물 자체가 담보가 되죠.
+GIULIA: Il palazzo stesso è la garanzia. Questo vuol dire che i soci non devono avere una casa? || 건물 자체가 담보라. 그럼 조합원들은 집이 없어도 된다는 거예요?
+VALENTI: Vuol dire che la banca guarda il progetto. Non solo le persone. E poi esiste un fondo di garanzia pubblico, per le cooperative. E alcune fondazioni. Lo so perché all'università ho fatto la tesi su questo. Prima di finire qui, a inserire dati per Milano. || 은행이 사람만이 아니라 계획을 본다는 뜻이에요. 그리고 협동조합을 위한 공공 보증 기금도 있어요. 재단도 몇 곳 있고요. 제가 대학 때 졸업 논문을 이걸로 썼거든요. 여기 와서 밀라노에 자료 입력하는 일을 하기 전에요.
+FRANCO: La tesi? Sulle cooperative? || 졸업 논문이요? 협동조합으로요?
+VALENTI: «Le cooperative a proprietà indivisa a Milano, 1900-2000». Centotrenta pagine. Nessuno l'ha mai letta. Tranne mia madre. || «밀라노의 공동 소유 협동조합, 1900-2000». 130쪽. 아무도 안 읽었어요. 우리 엄마만 빼고.
+GIULIA: Noi la leggeremmo. Volentieri. || 우린 읽을게요. 기꺼이.
+VALENTI: Davvero? Ve la mando. In PDF. Ma non ditelo in banca. Qui sono la direttrice che dice no. || 정말요? 보내 드릴게요. PDF로. 근데 은행엔 말하지 마세요. 여기선 저는 '안 된다'고 말하는 지점장이니까요.
+FRANCO: La direttrice che dice no, ma manda la tesi sul sì. || '안 된다'고 말하면서 '된다'에 관한 논문을 보내는 지점장이네요.
+VALENTI: Le banche sono piene di contraddizioni, signor Ceccarelli. Come i bar, immagino. || 은행은 모순투성이예요, 체카렐리 씨. 바도 그렇겠죠.
+FRANCO: I bar sono fatti di contraddizioni. Il caffè amaro con lo zucchero. Il laziale al bancone dei romanisti. || 바는 모순으로 만들어지죠. 설탕 넣은 쓴 커피. 로마 팬 카운터의 라치오 팬.
+VALENTI: Ecco. E un'ultima cosa: quando la cooperativa ci sarà, con uno statuto, un progetto, un prezzo... tornate da me. Non per il prestito. Per un consiglio. Gratis. || 그렇죠. 그리고 마지막으로: 협동조합이 생기면, 정관이랑 계획이랑 가격이 나오면… 저한테 다시 오세요. 대출 때문이 아니라. 조언 때문에요. 공짜로.
+GIULIA: Gratis. Una banca che dà qualcosa gratis. || 공짜로. 뭔가를 공짜로 주는 은행이라니.
+VALENTI: Non la banca. Io. È diverso. || 은행이 아니라. 제가요. 그건 달라요.
+
+# 장면 5 — SULLA PANCHINA
+> 은행 앞 마르모라타 거리 벤치 || 은행 앞 마르모라타 거리 벤치
+FRANCO: No. Ha detto no. || 안 된대. 안 된다고 했어.
+GIULIA: Ha detto no a te. Ha detto «forse» alla cooperativa. È diverso. || 아빠한테 안 된다고 한 거야. 협동조합한텐 «어쩌면»이라고 했고. 그건 달라.
+FRANCO: Sessantun anni. «Il tempo». Novecentoquaranta euro di pensione. Niente garanzie. Per la banca sono un uomo finito. || 예순하나. «기간». 연금 940유로. 담보 없음. 은행한텐 난 끝난 사람이야.
+GIULIA: Per la banca. Non per noi. || 은행한테는. 우리한텐 아니고.
+FRANCO: Giulia... se tu partissi per Berlino, potresti aiutarmi. Con lo stipendio doppio. Potresti fare da garante. È questo che pensavo. Stanotte. Non dormivo e pensavo: se Giulia va a Berlino, salva il bar. || 줄리아… 네가 베를린으로 가면 날 도울 수 있겠지. 두 배 월급으로. 보증인이 돼 줄 수도 있고. 그 생각을 했어. 어젯밤에. 잠이 안 와서 생각했지. 줄리아가 베를린에 가면 바를 구할 수 있다고.
+GIULIA: Papà... || 아빠…
+FRANCO: E poi ho pensato: che padre è uno che manda la figlia a Berlino per salvare il suo bar? || 그러다 생각했어. 바 살리려고 딸을 베를린에 보내는 아빠가 무슨 아빠냐고.
+GIULIA: E se ci andassi lo stesso? Per me? E con lo stipendio aiutassi anche te? Non sarebbe sbagliato. Sarebbe... tutte e due le cose. || 그래도 내가 간다면? 나를 위해서? 그리고 그 월급으로 아빠도 돕는다면? 그게 잘못된 건 아니잖아. 그건… 둘 다인 거지.
+FRANCO: Non voglio essere il motivo per cui parti. E non voglio essere il motivo per cui resti. Te l'ho detto ad agosto. || 네가 떠나는 이유가 되고 싶지 않아. 네가 남는 이유가 되고 싶지도 않고. 8월에 말했잖아.
+GIULIA: Lo so. Ma non è così facile. Tu sei in tutti i miei motivi. Da sempre. || 알아. 근데 그렇게 쉽지 않아. 아빠는 내 모든 이유 속에 있어. 언제나.
+FRANCO: Allora toglimi. Almeno da questo. Decidi Berlino senza di me. Poi, se vuoi, il bar lo salviamo in un altro modo. Con la tesi della direttrice. || 그럼 날 빼. 적어도 이 결정에서만은. 베를린은 나 빼고 정해. 그다음에 원하면 바는 다른 방법으로 살리자. 그 지점장 논문으로.
+GIULIA: Con la tesi della direttrice. Centotrenta pagine. Letta solo da sua madre. || 그 지점장 논문으로. 130쪽짜리. 그 사람 엄마만 읽은.
+FRANCO: E adesso anche da noi. Siamo già tre lettori. Un successo. || 이제 우리도 읽지. 독자가 벌써 셋이야. 대성공이지.
+
+# 장면 6 — AL CANTONE
+SETTIMIO: Allora? Com'è andata? Dalla faccia, male. || 그래서? 어떻게 됐어? 얼굴 보니 별로구먼.
+FRANCO: Ha detto no. Per l'età. Per il reddito. Per la pensione. Per tutto. || 안 된대요. 나이 때문에. 소득 때문에. 연금 때문에. 다 때문에.
+SETTIMIO: Benvenuto nel club. Anche a me hanno detto no. Nel 1985. Volevo comprare la casa. Questa. Al terzo piano. L'Ente vendeva qualche appartamento, allora. || 클럽에 온 걸 환영해. 나도 거절당했어. 1985년에. 집을 사고 싶었지. 이 집. 3층. 그땐 기관이 집 몇 채를 팔았거든.
+GIULIA: Davvero? L'Ente vendeva? || 정말요? 기관이 팔았어요?
+SETTIMIO: Per due anni. Poi ha smesso. Io avevo i soldi per la metà. La banca mi ha detto: «Lei lavora ai Mercati Generali. Lavoro precario». Precario! Trent'anni di lavoro. || 2년 동안. 그러고는 그만뒀지. 난 절반 값은 있었어. 은행이 그러더라. «중앙 도매시장에서 일하시죠. 불안정한 직업이네요». 불안정하대! 30년을 일했는데.
+FRANCO: E poi? || 그래서요?
+SETTIMIO: E poi niente. Teresa ha detto: «Pazienza. La casa non è nostra sulla carta. Ma è nostra nella vita». E abbiamo continuato a pagare l'affitto. Quarantun anni. || 그래서 아무것도. 테레사가 그랬지. «괜찮아. 서류상으론 우리 집이 아니어도, 삶에선 우리 집이야». 그리고 계속 월세를 냈어. 41년.
+GIULIA: Quarantun anni di affitto. Avrebbe pagato la casa tre volte. || 41년 월세. 집값을 세 번은 냈겠네요.
+SETTIMIO: Quattro. L'ho calcolato una sera. Poi ho smesso di calcolare. Fa male. || 네 번. 어느 날 저녁에 계산해 봤어. 그러고는 계산을 그만뒀지. 아프거든.
+FRANCO: E adesso un fondo ci ha comprati tutti. Con la sua casa dentro. Pagata quattro volte. || 그런데 이제 펀드가 우리를 다 샀어요. 네 번이나 값을 치른 영감님 집까지 통째로.
+SETTIMIO: Ecco perché la cooperativa mi piace. Non per diventare padrone. Io non voglio essere padrone di niente. Voglio solo che la casa resti a chi la vive. Come diceva Teresa. Nella vita, non sulla carta. || 그래서 협동조합이 마음에 들어. 주인이 되려는 게 아니야. 난 아무것도 주인이 되고 싶지 않아. 집이 거기 사는 사람한테 남았으면 할 뿐이지. 테레사 말처럼. 서류가 아니라 삶에서.
+GIULIA: «Nella vita, non sulla carta». È esattamente la proprietà indivisa. Nessuno è padrone. Tutti ci vivono. || «서류가 아니라 삶에서». 그게 정확히 공동 소유예요. 아무도 주인이 아니고. 모두가 거기 살죠.
+SETTIMIO: Allora Teresa era più avanti di tutti. Anche delle banche. || 그럼 테레사가 다들보다 앞서 있었구먼. 은행보다도.
+FRANCO: E la direttrice della banca ha scritto una tesi su questo. Centotrenta pagine. || 그리고 은행 지점장이 그걸로 논문을 썼대요. 130쪽.
+SETTIMIO: E tu, Giulia? Berlino ti ha risposto? Il mese in più? || 그리고 줄리아, 넌? 베를린에서 답 왔니? 한 달 더 달라는 거?
+GIULIA: Mi ha risposto il giorno dopo la festa. «No problem. We wait until October 15th». Sono molto gentili, i tedeschi. Fa quasi paura. || 잔치 다음 날 답이 왔어요. «괜찮아요. 10월 15일까지 기다릴게요». 독일 사람들 엄청 친절해요. 거의 무서울 정도로.
+SETTIMIO: Quando qualcuno è troppo gentile, ti vuole davvero. Vale per i tedeschi e per le donne. || 누가 너무 친절하면 정말로 너를 원하는 거야. 독일 사람한테도, 여자한테도 통하는 얘기지.
+FRANCO: Sor Settimio! || 영감님!
+SETTIMIO: Cosa ho detto? Teresa era gentilissima con me. Per due anni. Poi mi ha sposato. || 내가 뭘? 테레사도 나한테 엄청 친절했어. 2년 동안. 그러고는 나랑 결혼했지.
+GIULIA: Quindi mi sposa Berlino? || 그럼 베를린이 저랑 결혼하는 거예요?
+SETTIMIO: Ti sposa o ti lascia andare. Lo decidi tu entro il quindici ottobre. Come una ragazza che riceve una proposta. || 결혼하든지 보내 주든지. 10월 15일까지 네가 정하는 거야. 청혼받은 아가씨처럼.
+GIULIA: E lei cosa farebbe, al mio posto? || 영감님이 저라면 어떻게 하시겠어요?
+SETTIMIO: Io? Io non sono mai uscito da Testaccio. Due volte. Il viaggio di nozze e il militare. Non sono la persona giusta. Chiedilo a mia nipote Martina. Lei è a Londra. || 나? 난 테스타초를 떠나 본 적이 없어. 두 번. 신혼여행이랑 군대. 물어볼 사람이 아니야. 내 손녀 마르티나한테 물어봐. 런던에 있잖아.
+GIULIA: Martina? Non la conosco. || 마르티나요? 모르는 사람인데요.
+SETTIMIO: Adesso sì. Ti do il numero. Le mando un vocale: «Martina, c'è una ragazza romana che deve decidere se andare all'estero. Parlaci». Lo so fare, adesso. Il vocale. || 이제 알게 되지. 번호 줄게. 음성 메시지 보낼게. «마르티나, 외국에 갈지 말지 정해야 하는 로마 아가씨가 있다. 얘기 좀 해 봐라». 이젠 할 줄 알거든. 음성 메시지.
+FRANCO: E un'altra cosa, Sor Settimio. Per la cooperativa. Lei quanto potrebbe mettere? Senza offesa. || 그리고 하나 더요, 영감님. 협동조합 말인데요. 얼마나 내실 수 있어요? 실례가 안 된다면.
+SETTIMIO: Nessuna offesa. Ho settemila euro. Sotto il materasso no, in posta. Sono per il funerale. Teresa ha già il posto al Verano. Io accanto. È tutto pagato tranne il marmo. || 실례는 무슨. 7천 유로 있어. 매트리스 밑은 아니고 우체국에. 장례식용이야. 테레사는 베라노에 벌써 자리가 있고. 나는 그 옆. 대리석 빼고 다 냈어.
+GIULIA: I soldi del funerale? Sor Settimio, no. Quelli no. || 장례 비용이요? 영감님, 안 돼요. 그건 안 돼요.
+SETTIMIO: Perché no? Se il palazzo si salva, il funerale lo faccio più tardi. Molto più tardi. È un investimento. || 왜 안 돼? 건물을 구하면 장례식은 나중에 하면 되지. 훨씬 나중에. 그게 투자야.
+FRANCO: Un investimento sul funerale. Non l'avevo mai sentito. || 장례식에 투자라. 처음 들어 보네요.
+SETTIMIO: Si chiama «rimandare». È la cosa che i vecchi sanno fare meglio. || 그걸 «미루기»라고 하지. 늙은이들이 제일 잘하는 거야.
+GIULIA: Allora lo scrivo nella lista del comitato. «Settimio: settemila euro. Funerale rimandato». || 그럼 위원회 목록에 적을게요. «세티미오: 7천 유로. 장례 연기».
+SETTIMIO: Scrivi «rimandato a data da destinarsi». È più elegante. Come le lettere del fondo. || «추후 결정될 날짜로 연기»라고 써. 그게 더 우아해. 펀드 편지처럼.
+
+@points
+- 은행 면담의 격식체: «Si accomodi», «Come posso aiutarla?», «Mi permette di farle qualche domanda?», «Faccia pure», «Lo sconsiglio», «Mi scusi. Non volevo dire questo». 지점장의 말은 정중하고 고르게, 프랑코의 대답은 짧고 투박하게.
+- 금융 어휘: prestito, reddito lordo, dichiarazione dei redditi, garanzie, rata, tasso, conto corrente, in rosso, contributi, pensione di vecchiaia, aspettativa di vita, fondo di garanzia, banca etica, statuto.
+- 실망 표현: «Quindi è no.», «Trent'anni di conto corrente... E la risposta è no.», «Per la banca sono un uomo finito», «Peccato. Per tutti.» — 문장 끝을 무겁게 떨어뜨린다.
+- 비현실 가정: «Magari bastasse il caffè», «E se il prestito fosse più piccolo?», «se tu partissi per Berlino, potresti aiutarmi», «E se ci andassi lo stesso?... Non sarebbe sbagliato». 'magari + 접속법 반과거'(~라면 좋겠지만).
+- 비교 구문: «Più si vive, più si lavora» — più ..., più ... 대구.
+- 이중자음: «prestito»(홑), «macchinari», «reddito», «garanzie»(홑), «sconsiglio», «algoritmo»(홑), «commerciante», «aspettativa»(홑), «contraddizioni», «panchina»(홑).
+- 세티미오의 마지막 대목 «Nella vita, non sulla carta.»는 테레사의 목소리를 떠올리듯 천천히.
+
+@notes
+- 'prestito personale' 개인 신용 대출, 'mutuo' 주택담보대출, 'rata' 할부 상환액, 'tasso' 금리, 'garanzia' 담보·보증, 'reddito lordo' 세전 소득.
+- 많은 이탈리아 은행은 대출 만기 시 고객 나이 상한(예: 75세)을 둔다. 'algoritmo'로 상징되는 중앙 심사 방식은 지점 재량을 줄였다는 불만이 많다.
+- 'pensione di vecchiaia' 노령 연금. 이탈리아는 기본 67세이며, 기대 수명에 따라 수급 연령이 조정된다(최근 몇 달 늘어나는 방안이 논의·시행). ※ 시점별 확인. 'contributi' 연금 납입금, 'INPS' 국가 사회보장기관.
+- 'commerciante' 상인(자영업). 자영업자는 납입액이 적어 연금이 낮은 경우가 많다.
+- 'banca etica' 윤리 은행 — 협동조합·사회적 기업에 자금을 대는 은행. 'fondo di garanzia' 보증 기금. 'statuto' 정관.
+- 'rimandato a data da destinarsi' «추후 결정될 날짜로 연기» — 공문투 표현을 비튼 농담.
+- 'in rosso' 마이너스(적자). 'tesi (di laurea)' 졸업 논문.
+- 'La casa non è nostra sulla carta. Ma è nostra nella vita.' «서류상으론 우리 집이 아니어도, 삶에선 우리 집» — 테레사의 말.
+
+@next
+3부 41화 — «L'officina di Simone»(시모네의 가게) — 10월 초, 시모네의 가게도 같은 건물 1층에 있다. 펀드는 그의 임대 갱신에 '조건'을 내건다. 게다가 로마시의 저공해 구역 규정 때문에 낡은 스쿠터 손님들이 줄어든다. 리카르도는 가게에 남을 수 있을까?
