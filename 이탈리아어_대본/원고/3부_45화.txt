@@ -1,0 +1,173 @@
+@part 3
+@ep 45
+@file Le_liste_dattesa
+@title Le liste d'attesa
+@ko 대기 명단
+@where 모렐리 선생의 가정의 진료실 / 세티미오의 부엌(전화) / 병원 복도
+@level B1~B2
+@setting 11월 3일 화요일 오전 9시~오후 1시
+@cast SETTIMIO | 3층 세입자, 무릎이 아픈 83세
+@cast MORELLI | 가정의, 환자 1,800명을 혼자 보는 의사, 59세
+@cast NADIA | 4층 세입자, 병원 문화중재자, 40세
+@cast OPERATRICE | 공공 의료 예약 센터(CUP) 상담원(전화)
+@note 더비 날 밤, 세티미오 영감은 '지는 것까지 다 보고' 일어서다 오른쪽 무릎이 꺾였다. 일주일째 계단이 고문이다. 오늘 아침, 나디아가 병원 오전 근무를 바꿔 영감님을 모시고 가정의 모렐리 선생에게 간다. 대기실엔 이미 열네 명이 앉아 있다.
+
+# 장면 1 — LA SALA D'ATTESA
+NADIA: Quattordici persone. E l'ambulatorio ha aperto da dieci minuti. || 열네 명. 진료실 문 연 지 10분밖에 안 됐는데.
+SETTIMIO: Prima c'era il dottor Ferretti. Da lui c'erano sempre tre persone. Leggeva il giornale tra un paziente e l'altro. || 예전엔 페레티 선생이 있었지. 그 양반한텐 늘 세 명뿐이었어. 환자 사이사이에 신문을 읽었다고.
+NADIA: Il dottor Ferretti è andato in pensione tre anni fa. E nessuno l'ha sostituito. I suoi pazienti li hanno divisi tra gli altri medici. La dottoressa Morelli ne ha presi seicento in più. || 페레티 선생님은 3년 전에 은퇴하셨어요. 그리고 아무도 그 자리를 안 채웠고요. 그분 환자들을 다른 의사들한테 나눠 줬어요. 모렐리 선생님이 600명을 더 맡으셨죠.
+SETTIMIO: Seicento in più? E quanti ne ha in tutto? || 600명이나 더? 그럼 다 해서 몇 명이야?
+NADIA: Milleottocento. Il massimo dovrebbe essere millecinquecento. Ma non ci sono medici. Nessuno vuole fare il medico di base. Troppo lavoro, troppa burocrazia. || 1,800명이요. 원래 최대가 1,500명이어야 하는데. 의사가 없어요. 아무도 가정의를 하려고 안 해요. 일은 너무 많고, 서류 일도 너무 많고.
+SETTIMIO: E i giovani? Quelli che studiano medicina? || 젊은 애들은? 의대 다니는 애들?
+NADIA: Vanno in ospedale. O nel privato. O all'estero. In Svizzera, in Germania. Come gli infermieri. Come Luca, se un giorno si stanca. || 병원으로 가요. 아니면 사설 쪽으로. 아니면 외국으로. 스위스, 독일. 간호사들처럼요. 루카도 언젠가 지치면 그렇겠죠.
+SETTIMIO: Tutti partono. I medici, gli infermieri, mia nipote. Rimaniamo noi vecchi. Con le ginocchia rotte. || 다들 떠나는구먼. 의사, 간호사, 내 손녀. 남는 건 우리 늙은이들이지. 무릎 망가진.
+MORELLI: Settimio Rinaldi? Prego. || 세티미오 리날디 씨? 들어오세요.
+SETTIMIO: Eccomi. Piano. Non correte. Il ginocchio non corre più. || 나 여기 있소. 천천히. 다들 뛰지 마. 무릎이 이제 못 뛰어.
+
+# 장면 2 — LA VISITA
+MORELLI: Buongiorno, Settimio. E lei è la sua... nipote? || 안녕하세요, 세티미오 씨. 이분은… 손녀분이세요?
+NADIA: La vicina. Nadia. Del quarto piano. Lavoro all'ospedale, come mediatrice. Oggi faccio da nipote. || 이웃이에요. 나디아. 4층 사는. 병원에서 문화중재자로 일해요. 오늘은 손녀 노릇 해요.
+MORELLI: La conosco di vista. Mi ha aiutato una volta con una paziente del Bangladesh. Grazie. Allora, Settimio. Cosa succede? || 얼굴은 알아요. 방글라데시 환자 때문에 한 번 도와주셨죠. 고마워요. 그럼, 세티미오 씨. 어디가 불편하세요?
+SETTIMIO: Il ginocchio. Il destro. Domenica di una settimana fa. Mi sono alzato dalla sedia, al bar, dopo il derby. E ho sentito «crac». || 무릎이요. 오른쪽. 지지난 주 일요일에. 바에서 더비 끝나고 의자에서 일어났는데. «뚝» 소리가 났어요.
+MORELLI: Dopo il derby. Avevamo perso, vero? || 더비 끝나고요. 졌죠, 아마?
+SETTIMIO: Due a uno. Al novantesimo. Forse il ginocchio era triste anche lui. || 2대 1. 90분에. 무릎도 슬펐나 봐요.
+MORELLI: Può darsi. Mi descriva il dolore. Dove le fa male? E come? || 그럴 수도 있죠. 통증을 설명해 주세요. 어디가 아파요? 어떻게요?
+SETTIMIO: Qui, dentro. Non sempre. Quando salgo le scale. Tre piani. E la notte, quando giro nel letto. Come una pugnalata. || 여기, 안쪽이요. 늘 그런 건 아니고. 계단 올라갈 때. 3층이니까. 그리고 밤에 침대에서 돌아누울 때. 칼로 찌르는 것처럼.
+MORELLI: È gonfio. Lo vedo. Riesce a piegarlo? Provi. Piano. || 부었네요. 보여요. 굽힐 수 있어요? 해 보세요. 천천히.
+SETTIMIO: Fino a qui. Poi no. Poi «crac» di nuovo. || 여기까지. 그다음엔 안 돼요. 그다음엔 또 «뚝».
+MORELLI: Ha preso qualcosa per il dolore? || 진통제 드셨어요?
+SETTIMIO: Una pastiglia della signora Loredana. Bianca. Non so il nome. E il ghiaccio. E un po' di vino. Ma poco. || 로레다나 부인이 준 알약 하나. 하얀 거. 이름은 몰라요. 그리고 얼음. 그리고 와인 조금. 근데 조금만.
+MORELLI: Il vino no, Settimio. Con la pastiglia della pressione, no. || 와인은 안 돼요, 세티미오 씨. 혈압약 드시면서 안 돼요.
+SETTIMIO: Me lo dicono tutti. Il Ministero, Nadia, lei. Siete tutti contro il vino. || 다들 그 소리야. 보건부도, 나디아도, 선생도. 다들 와인 반대편이구먼.
+MORELLI: Allora. Probabilmente è il menisco. O l'artrosi che si è infiammata. Alla sua età è normale. Ma serve una visita ortopedica. E una risonanza magnetica. Le scrivo l'impegnativa. || 자. 아마 반월상 연골일 거예요. 아니면 관절염에 염증이 생겼거나. 연세에 비하면 흔한 일이에요. 근데 정형외과 진료가 필요해요. 그리고 MRI도요. 진료 의뢰서 써 드릴게요.
+NADIA: Con quale priorità, dottoressa? || 우선순위는 어떻게 써 주실 거예요, 선생님?
+MORELLI: Ecco, vede, lei lavora in ospedale. Sa come funziona. Allora. Se scrivo «P», programmabile, la visita deve essere entro centoventi giorni. Se scrivo «D», differibile, entro trenta. Se scrivo «B», breve, entro dieci. || 거 보세요, 병원에서 일하시니 아시네요. 그러니까. «P», 계획 가능으로 쓰면 120일 안에 진료해야 해요. «D», 연기 가능으로 쓰면 30일 안. «B», 단기로 쓰면 10일 안.
+SETTIMIO: Scriva «B». Dieci giorni. || «B»라고 써요. 10일.
+MORELLI: Per scrivere «B» deve esserci un motivo clinico serio. Un ginocchio gonfio a ottantatré anni, che le impedisce di salire tre piani di scale... Le scrivo «D». Trenta giorni. Ed è già generoso. || «B»라고 쓰려면 심각한 의학적 이유가 있어야 해요. 여든셋에 무릎이 부어서 3층 계단을 못 올라가는 거면… «D»로 써 드릴게요. 30일. 이것도 넉넉하게 쓴 거예요.
+SETTIMIO: Trenta giorni. Va bene. Un mese. Posso aspettare un mese. Ho aspettato la Liberazione. || 30일. 좋아요. 한 달. 한 달은 기다릴 수 있어요. 해방도 기다렸는데.
+MORELLI: Trenta giorni sulla carta, Settimio. Adesso deve prenotare al CUP. E lì vedremo cosa dice la realtà. || 서류상으로는 30일이에요, 세티미오 씨. 이제 CUP에 예약하셔야 해요. 거기서 현실이 뭐라고 하는지 보죠.
+
+# 장면 3 — IL CUP
+> 정오, 세티미오의 부엌. 나디아가 스피커폰으로 전화를 건다 || 정오, 세티미오의 부엌. 나디아가 스피커폰으로 전화를 건다
+NADIA: Venti minuti di attesa. Con la musica. Sempre la stessa canzone. || 대기 20분. 음악 들으면서. 늘 같은 노래.
+SETTIMIO: È Vivaldi. Le quattro stagioni. Siamo all'inverno. Da venti minuti. || 비발디야. 사계. 20분째 겨울이야.
+OPERATRICE: Recup, buongiorno. Sono Marina. Come posso aiutarla? || 레쿱 예약 센터입니다, 안녕하세요. 마리나입니다. 무엇을 도와드릴까요?
+NADIA: Buongiorno! Finalmente. Devo prenotare una visita ortopedica e una risonanza al ginocchio. Per il signor Settimio Rinaldi. Ho l'impegnativa con priorità D. || 안녕하세요! 드디어. 정형외과 진료랑 무릎 MRI를 예약해야 해요. 세티미오 리날디 씨요. 우선순위 D 진료 의뢰서가 있어요.
+OPERATRICE: Mi dica il codice dell'impegnativa e il codice fiscale, per favore. || 진료 의뢰서 번호랑 납세자 번호 말씀해 주세요.
+NADIA: Codice fiscale: R-N-L-S-T-M... || 납세자 번호: R-N-L-S-T-M…
+OPERATRICE: Grazie. Allora... visita ortopedica. Priorità D. La prima disponibilità è... il ventidue luglio. All'ospedale di Ostia. || 감사합니다. 그럼… 정형외과 진료. 우선순위 D. 가장 빠른 날짜는… 7월 22일. 오스티아 병원이요.
+SETTIMIO: Luglio? Luglio dell'anno prossimo? || 7월? 내년 7월?
+OPERATRICE: Luglio dell'anno prossimo, sì. Mi dispiace. || 내년 7월이요, 네. 죄송합니다.
+NADIA: Ma la priorità D dice trenta giorni. Luglio sono otto mesi e mezzo. || 근데 우선순위 D는 30일이라고 돼 있잖아요. 7월이면 8개월 반이에요.
+OPERATRICE: Lo so, signora. Il sistema non trova posti nei trenta giorni. In tutta la regione. || 압니다, 부인. 시스템에서 30일 안에 자리를 못 찾아요. 주 전체에서요.
+SETTIMIO: In tutta la regione nessuno guarda un ginocchio per otto mesi. Ma il fondo ci ha trovato in tre settimane. || 주 전체에서 8개월 동안 아무도 무릎 하나를 못 봐 준다니. 펀드는 우릴 3주 만에 찾아냈는데.
+OPERATRICE: Come, signore? || 네, 선생님?
+SETTIMIO: Niente, cara. Una cosa mia. || 아무것도 아니야, 아가씨. 내 얘기야.
+NADIA: Signora Marina, io lavoro in ospedale. Lo so che quando il sistema non trova posti entro i tempi della priorità, esiste un percorso di garanzia. Può metterci in lista per quello? || 마리나 씨, 저 병원에서 일해요. 우선순위 기한 안에 자리를 못 찾으면 보장 절차가 있다는 거 알아요. 거기 명단에 올려 주실 수 있어요?
+OPERATRICE: Lei è informata. Sì, posso inserire la richiesta. La azienda sanitaria dovrebbe ricontattarvi con una data entro i tempi. Ma... non le prometto niente. Ci sono tante richieste. || 잘 아시네요. 네, 신청을 넣어 드릴 수 있어요. 보건 당국에서 기한 안의 날짜로 다시 연락을 드려야 하죠. 근데… 약속은 못 드려요. 신청이 너무 많아서요.
+NADIA: Lo inserisca, per favore. E intanto prenoti luglio. Così se non chiamano, almeno abbiamo luglio. || 넣어 주세요. 그리고 일단 7월로 예약해 주세요. 연락이 안 오면 적어도 7월은 있으니까요.
+OPERATRICE: Fatto. Ventidue luglio, ore otto e quaranta, Ostia. E la richiesta di garanzia è inserita. Altro? || 됐습니다. 7월 22일 오전 8시 40분, 오스티아. 그리고 보장 절차 신청도 넣었어요. 더 필요하신 거 있으세요?
+SETTIMIO: Sì. Mi dica una cosa, signorina. Lei a che ora finisce di lavorare? || 응. 하나만 말해 봐요, 아가씨. 아가씨는 몇 시에 일이 끝나요?
+OPERATRICE: Alle tre. Perché? || 세 시요. 왜요?
+SETTIMIO: Perché lei dice «mi dispiace» trecento volte al giorno. E non è colpa sua. Si prenda un caffè, alle tre. Lo offro io. Al bar Il Cantone, a Testaccio. Dica che la manda Settimio. || 하루에 «죄송합니다»를 삼백 번은 할 텐데. 아가씨 잘못도 아니잖아. 세 시에 커피 한 잔 해요. 내가 살게. 테스타초 바 칸토네에서. 세티미오가 보냈다고 해요.
+OPERATRICE: ... Grazie, signore. Nessuno me l'aveva mai detto. Buona giornata. || … 감사합니다, 선생님. 그런 말 해 주신 분은 처음이에요. 좋은 하루 보내세요.
+> 전화가 끊긴다 || 전화가 끊긴다
+NADIA: Lei è incredibile, Sor Settimio. Otto mesi di attesa e offre il caffè all'operatrice. || 영감님 대단하세요. 8개월 기다려야 하는데 상담원한테 커피를 사신다니.
+SETTIMIO: Il ginocchio aspetta. La gentilezza no. || 무릎은 기다려. 친절은 못 기다리지.
+
+# 장면 4 — L'ALTRA STRADA
+NADIA: Sor Settimio, c'è un'altra strada. Ma costa. || 세티미오 영감님, 다른 길이 있긴 해요. 근데 돈이 들어요.
+SETTIMIO: Lo sapevo. C'è sempre un'altra strada. E costa sempre. || 그럴 줄 알았어. 늘 다른 길이 있지. 그리고 늘 돈이 들고.
+NADIA: Si chiama intramoenia. Lo stesso ortopedico dell'ospedale. Nello stesso ospedale. Ma come visita privata. Ho controllato. Martedì prossimo. Centottanta euro. || 인트라모에니아라고 해요. 같은 병원의 같은 정형외과 의사. 같은 병원에서. 근데 사설 진료로요. 확인해 봤어요. 다음 주 화요일. 180유로.
+SETTIMIO: Lo stesso medico? Nello stesso ospedale? Con il servizio pubblico a luglio, e con centottanta euro martedì? || 같은 의사? 같은 병원? 공공 서비스로는 7월이고, 180유로 내면 화요일?
+NADIA: Lo stesso medico. Lo stesso ospedale. Lo stesso ginocchio. Otto mesi di differenza. Centottanta euro di differenza. || 같은 의사. 같은 병원. 같은 무릎. 8개월 차이. 180유로 차이.
+SETTIMIO: Questo è legale? || 그게 합법이야?
+NADIA: È legale. Ed è uno degli scandali più grandi della sanità italiana. Ne parlano tutti. Nessuno lo cambia. || 합법이에요. 그리고 이탈리아 의료의 가장 큰 스캔들 중 하나예요. 다들 얘기하는데. 아무도 안 바꿔요.
+SETTIMIO: Come le spiagge di Mario. Come i nasoni. Hanno tutti ragione e nessuno cambia niente. || 마리오네 해변처럼. 나소니처럼. 다들 맞는 말 하고 아무도 안 바꾸고.
+NADIA: E poi la risonanza. Privata, altri duecento euro. In un centro convenzionato, a febbraio. Pubblica, a settembre. || 그리고 MRI도요. 사설로 하면 200유로 더. 협약 센터에선 2월. 공공으로는 9월.
+SETTIMIO: Centottanta più duecento. Trecentottanta. Come il mio affitto. Un mese di affitto per un ginocchio. || 180에 200. 380. 내 월세랑 같네. 무릎 하나에 월세 한 달 치.
+NADIA: Lo so. È tanto. Con la sua pensione... || 알아요. 많죠. 영감님 연금으로는…
+SETTIMIO: Con la mia pensione, e con i settemila euro del funerale. Che sono già per la cooperativa. || 내 연금이랑, 장례식용 7천 유로로. 그건 벌써 협동조합 몫인데.
+NADIA: Sor Settimio, non deve usare i soldi della cooperativa per il ginocchio. || 영감님, 협동조합 돈을 무릎에 쓰시면 안 돼요.
+SETTIMIO: E allora cosa uso? Il ginocchio della cooperativa? || 그럼 뭘 써? 협동조합의 무릎을?
+NADIA: Ah, ah! No. Ma forse c'è un'altra soluzione. Mi faccia pensare. || 하하! 아뇨. 근데 다른 방법이 있을지도 몰라요. 생각 좀 해 볼게요.
+
+# 장면 5 — MORELLI, DI NUOVO
+> 오후 1시. 나디아가 진료실로 돌아가 모렐리 선생을 다시 만난다 || 오후 1시. 나디아가 진료실로 돌아가 모렐리 선생을 다시 만난다
+MORELLI: Nadia? Di nuovo qui? Ho altri undici pazienti. Ha due minuti? || 나디아 씨? 또 오셨어요? 환자가 열한 명 더 있어요. 2분 괜찮아요?
+NADIA: Due minuti. Luglio. Ostia. La prima disponibilità. || 2분이요. 7월. 오스티아. 제일 빠른 날짜예요.
+MORELLI: Luglio. Lo immaginavo. Mi dispiace. Davvero. || 7월. 그럴 줄 알았어요. 미안해요. 진심으로요.
+NADIA: Ho messo la richiesta di garanzia. Ma lei lo sa come funziona. Forse chiamano, forse no. || 보장 절차 신청은 넣었어요. 근데 선생님도 어떻게 돌아가는지 아시잖아요. 연락이 올 수도, 안 올 수도.
+MORELLI: Lo so. Ascolti. Io non posso scrivere una «B» falsa. Ma posso fare un'altra cosa. Al Fatebenefratelli c'è un ortopedico che conosco. Abbiamo studiato insieme. Il giovedì fa un ambulatorio per gli anziani fragili. Pubblico. Gratis. Con la priorità clinica, non con la data. || 알아요. 들어 봐요. 가짜 «B»를 쓸 수는 없어요. 근데 다른 건 할 수 있어요. 파테베네프라텔리 병원에 아는 정형외과 의사가 있어요. 같이 공부했죠. 목요일마다 거동 불편한 노인을 위한 진료를 해요. 공공으로. 무료로. 날짜가 아니라 의학적 우선순위로 봐요.
+NADIA: Un ambulatorio per gli anziani fragili? Non lo sapevo. || 거동 불편 노인 진료요? 몰랐어요.
+MORELLI: Non lo sa quasi nessuno. Non è sul sito. È uno di quei servizi che esistono perché un medico ha deciso che devono esistere. Gli telefono io. Settimio ha ottantatré anni, vive da solo, al terzo piano, senza ascensore. È fragile. Anche se lui dice di no. || 거의 아무도 몰라요. 사이트에도 없어요. 어떤 의사가 '있어야 한다'고 마음먹어서 있는 그런 서비스예요. 제가 전화할게요. 세티미오 씨는 여든셋에, 혼자 살고, 엘리베이터 없는 3층이에요. 거동 불편이에요. 본인은 아니라고 하겠지만.
+NADIA: Lo dirà sicuramente. «Fragile io? Ho lavorato al Mattatoio!» || 분명히 그러실 거예요. «내가 거동 불편? 마타토이오에서 일했는데!»
+MORELLI: Ah, ah! Lo conosco. Mi ha detto la stessa cosa per il vaccino antinfluenzale. || 하하! 그분 알죠. 독감 백신 때도 똑같은 말을 했어요.
+NADIA: Dottoressa, posso chiederle una cosa? Lei come fa? Milleottocento pazienti. || 선생님, 하나 여쭤봐도 돼요? 어떻게 하세요? 환자 1,800명을.
+MORELLI: Male. Lo faccio male. Sette minuti a paziente. Le ricette di notte. Il telefono che suona sempre. E tra due anni vado in pensione. E nessuno prende il mio posto. Il bando è andato deserto due volte. || 엉망으로요. 엉망으로 해요. 환자당 7분. 처방전은 밤에 쓰고. 전화는 계속 울리고. 그리고 2년 뒤면 은퇴해요. 아무도 내 자리를 안 맡을 거고요. 공모에 지원자가 두 번이나 없었어요.
+NADIA: E i suoi pazienti? || 그럼 선생님 환자들은요?
+MORELLI: Li divideranno tra gli altri. Come quelli di Ferretti. Finché non ci sarà più nessuno da dividere. || 다른 의사들한테 나눠 주겠죠. 페레티 선생 환자들처럼. 나눠 줄 사람이 아무도 없을 때까지.
+NADIA: È come il nostro palazzo. Finché non resta nessuno. || 우리 건물 같네요. 아무도 남지 않을 때까지.
+MORELLI: Ho sentito del vostro palazzo. Settimio mi ha raccontato del fondo. E della casa di riposo che gli hanno offerto. || 건물 얘기 들었어요. 세티미오 씨가 펀드 얘기를 해 줬어요. 양로원 제안받은 것도요.
+NADIA: Lui come l'ha presa? || 영감님은 어떻게 받아들이셨어요?
+MORELLI: Ha detto: «Dottoressa, se vado in una casa di riposo, muoio in un mese. Non di malattia. Di noia». Io gli ho scritto nella cartella: «Il paziente sta meglio nel suo ambiente». È vero. Clinicamente. || 그러더군요. «선생, 양로원 가면 한 달 안에 죽어. 병이 아니라. 지루해서». 그래서 차트에 썼어요. «환자는 자기 생활 환경에서 더 잘 지냄». 사실이에요. 의학적으로도요.
+NADIA: «Il paziente sta meglio nel suo ambiente». Può scriverlo anche in un certificato? Per l'avvocata? || «환자는 자기 생활 환경에서 더 잘 지냄». 그걸 진단서에도 써 주실 수 있어요? 변호사님을 위해서요?
+MORELLI: Posso. È la verità. E la verità, finché faccio il medico, la scrivo gratis. || 할 수 있어요. 사실이니까요. 그리고 사실은, 내가 의사로 있는 동안엔, 공짜로 써 줘요.
+
+# 장면 6 — LE SCALE
+> 오후 1시 반, 비아 델 칸토네 7번지 계단 || 오후 1시 반, 비아 델 칸토네 7번지 계단
+NADIA: Giovedì. Al Fatebenefratelli. Sull'isola Tiberina. Gratis. La dottoressa ha telefonato. || 목요일. 파테베네프라텔리 병원. 티베리나 섬에 있는. 무료로. 선생님이 전화하셨어요.
+SETTIMIO: L'isola Tiberina? L'ospedale sull'isola? Lì sono nato quasi. Mia madre ha avuto le doglie, poi ha detto: «No, nasco a casa». E sono nato al terzo piano. || 티베리나 섬? 섬에 있는 그 병원? 나 거기서 태어날 뻔했어. 어머니가 진통이 왔는데 «아니, 집에서 낳을래» 하셨대. 그래서 3층에서 태어났지.
+NADIA: Allora giovedì torna dove doveva nascere. || 그럼 목요일엔 태어날 뻔한 곳으로 가시는 거네요.
+SETTIMIO: Ottantatré anni dopo. Con un ginocchio rotto. Che giro lungo. || 83년 뒤에. 망가진 무릎으로. 긴 여행이었구먼.
+NADIA: E la dottoressa ha detto un'altra cosa. Lei, Sor Settimio, è un «anziano fragile». Per il servizio. || 그리고 선생님이 하나 더 말씀하셨어요. 영감님은 «거동 불편 노인»이래요. 그 진료 기준으로.
+SETTIMIO: Fragile io? Io ho lavorato al Mattatoio! Sedici anni! Con le mucche! || 내가 거동 불편? 나 마타토이오에서 일했어! 16년! 소들이랑!
+NADIA: Ecco. Lo sapevo. La dottoressa aveva detto che avrebbe detto così. || 거 봐요. 그럴 줄 알았어요. 선생님이 영감님이 그렇게 말할 거라고 했어요.
+SETTIMIO: Fragile... Va bene. Per il servizio, sono fragile. Per il fondo, no. Per il fondo, sono di ferro. || 거동 불편이라… 좋아. 진료받을 땐 거동 불편이지. 펀드 앞에선 아니야. 펀드 앞에선 무쇠야.
+NADIA: Per il fondo, lei è «un paziente che sta meglio nel suo ambiente». Lo scrive la dottoressa. In un certificato. Per l'avvocata. || 펀드 앞에선 영감님은 «자기 생활 환경에서 더 잘 지내는 환자»예요. 선생님이 써 주신대요. 진단서에. 변호사님 보시라고.
+SETTIMIO: Il mio ambiente. Questo palazzo. Queste scale. Che adesso mi fanno male. Ma sono le mie scale. || 내 생활 환경. 이 건물. 이 계단. 지금은 날 아프게 하지만. 그래도 내 계단이야.
+NADIA: Le facciamo insieme. Un gradino alla volta. Come ha fatto a Ferragosto. || 같이 올라가요. 한 칸씩. 페라고스토 때처럼.
+SETTIMIO: Un gradino alla volta. Come la cooperativa. Come l'avvocata ha detto. Tutto, a Roma, si fa un gradino alla volta. Tranne il fondo. Il fondo prende l'ascensore. || 한 칸씩. 협동조합처럼. 변호사가 말한 것처럼. 로마에선 뭐든 한 칸씩이야. 펀드만 빼고. 펀드는 엘리베이터를 타지.
+NADIA: Ma qui l'ascensore non c'è. || 근데 여긴 엘리베이터가 없잖아요.
+SETTIMIO: Appunto. Per questo vinceremo noi. || 그러니까. 그래서 우리가 이길 거야.
+
+# 장면 7 — UNA TELEFONATA INASPETTATA
+> 이튿날 오후 4시. 세티미오의 휴대폰이 울린다. 나디아가 마침 장 본 것을 들고 와 있다 || 이튿날 오후 4시. 세티미오의 휴대폰이 울린다. 나디아가 마침 장 본 것을 들고 와 있다
+SETTIMIO: Pronto? Chi parla? Mi richiami domani. || 여보세요? 누구요? 내일 다시 전화하쇼.
+OPERATRICE: No, aspetti! Signor Rinaldi? Sono Marina. Del Recup. Ieri. Vivaldi, l'inverno. || 아뇨, 잠깐만요! 리날디 씨? 마리나예요. 레쿱. 어제. 비발디, 겨울.
+SETTIMIO: Ah, Marina! La signorina del «mi dispiace». Scusi. Il ragazzo del quarto piano mi ha insegnato a dire «mi richiami domani» agli sconosciuti. Per le truffe. || 아, 마리나! «죄송합니다» 아가씨. 미안해요. 4층 꼬마가 모르는 사람한테는 «내일 다시 전화하라»고 하라고 가르쳤거든. 사기 때문에.
+OPERATRICE: Fa bene. Ma io non sono una truffa. Le volevo dire due cose. La prima: ieri alle tre sono andata al Cantone. Ho detto «mi manda Settimio». || 잘하셨어요. 근데 저 사기 아니에요. 두 가지 말씀드리고 싶어서요. 첫째: 어제 세 시에 칸토네에 갔어요. «세티미오 씨가 보냈어요» 했죠.
+SETTIMIO: E Franco? Le ha fatto pagare? || 그래서 프랑코가? 돈 받았어요?
+OPERATRICE: Non voleva farmi pagare. Ha detto: «Chi viene da Settimio beve gratis». E una signora con i capelli rossi mi ha dato un cornetto. || 돈을 안 받으려고 하셨어요. «세티미오가 보낸 사람은 공짜»라면서. 그리고 머리 빨간 아주머니가 코르네토를 줬어요.
+NADIA: Tiziana! Si è tinta i capelli di rosso la settimana scorsa. || 티치아나네! 지난주에 머리를 빨갛게 염색했거든요.
+OPERATRICE: È stato il caffè più buono dell'anno. E la seconda cosa: la sua richiesta di garanzia. Stamattina si è liberato un posto. Una visita ortopedica. Ospedale Sant'Eugenio. Il venticinque novembre. || 올해 마신 커피 중 제일 맛있었어요. 그리고 두 번째: 보장 절차 신청이요. 오늘 아침 자리가 하나 났어요. 정형외과 진료. 산테우제니오 병원. 11월 25일.
+SETTIMIO: Il venticinque novembre? Di quest'anno? || 11월 25일? 올해?
+OPERATRICE: Di quest'anno. Tre settimane. Qualcuno ha disdetto. Il sistema ha cercato chi era in garanzia. E il primo nella lista era lei. || 올해요. 3주 뒤. 누가 취소했어요. 시스템이 보장 절차 대기자를 찾았는데. 명단 첫 번째가 선생님이었어요.
+SETTIMIO: Il primo nella lista. Per una volta. Il caffè ha aiutato. || 명단 첫 번째라. 이번 한 번은. 커피가 도움이 됐구먼.
+OPERATRICE: Il caffè ha aiutato me. Non il sistema. Il sistema ha fatto da solo, giuro. Lo prende? Il venticinque? || 커피는 저를 도왔죠. 시스템이 아니라. 시스템은 알아서 한 거예요, 맹세해요. 하실래요? 25일?
+SETTIMIO: Lo prendo. E giovedì vado anche all'isola Tiberina. Due medici sono meglio di uno. Come due penne all'esame. || 할게요. 그리고 목요일엔 티베리나 섬에도 갈 거야. 의사 둘이 하나보다 낫지. 시험 볼 때 펜 두 자루처럼.
+NADIA: Il venticinque novembre. Lo stesso giorno della panchina rossa. Tiziana ha organizzato una cosa in strada, quel giorno. || 11월 25일. 빨간 벤치 행사랑 같은 날이네요. 티치아나가 그날 길에서 뭘 준비했거든요.
+SETTIMIO: Allora la mattina il ginocchio, il pomeriggio la panchina. Una giornata piena. Alla mia età le giornate piene sono un regalo. || 그럼 아침엔 무릎, 오후엔 벤치. 꽉 찬 하루네. 내 나이엔 꽉 찬 하루가 선물이야.
+OPERATRICE: Allora le confermo. Venticinque novembre, ore dieci e quindici, Sant'Eugenio. Buona giornata, signor Rinaldi. E... grazie per il caffè. || 그럼 확정해 드릴게요. 11월 25일 오전 10시 15분, 산테우제니오. 좋은 하루 보내세요, 리날디 씨. 그리고… 커피 고마웠어요.
+SETTIMIO: Grazie a lei, Marina. Venga a prenderne un altro. Quando vuole. Al Cantone. Il caffè c'è. Finché c'è il Cantone. || 고마워요, 마리나. 또 마시러 와요. 언제든. 칸토네로. 커피는 있어. 칸토네가 있는 한.
+
+@points
+- 증상 설명: «Mi fa male qui, dentro», «Quando salgo le scale», «Come una pugnalata», «È gonfio», «Riesce a piegarlo?», «Mi gira la testa»(26화). 의사의 질문(«Dove le fa male? E come?»)은 차분하게, 환자의 대답은 생생하게.
+- Lei 격식체 의료 대화: «Mi descriva il dolore», «Provi. Piano», «Le scrivo l'impegnativa», «Mi dica il codice», «Come posso aiutarla?».
+- 비용 비교: «Lo stesso medico. Lo stesso ospedale. Lo stesso ginocchio. Otto mesi di differenza. Centottanta euro di differenza.» — 반복 대구를 또박또박.
+- 날짜·기간: «entro centoventi giorni / trenta / dieci», «il ventidue luglio, ore otto e quaranta», «otto mesi e mezzo».
+- 알파벳 읽기(납세자 번호): «R-N-L-S-T-M» — 이탈리아 알파벳 명칭(erre, enne, elle, esse, ti, emme)으로.
+- 이중자음: «pugnalata»[ɲɲ], «gonfio»(홑), «menisco»(홑 sc[sk]), «impegnativa»[ɲɲ], «differibile», «programmabile», «intramoenia»(홑), «Fatebenefratelli»[ll].
+- 'gn': «pugnalata», «impegnativa», «bisogna», «ingegnere» — 이 화의 'gn'을 길게.
+
+@notes
+- 'medico di base' 가정의. 의사 1인당 등록 환자 상한이 있으나, 은퇴자를 대신할 의사가 없어 상한을 넘기는 일이 흔하다. 'bando andato deserto' 공모에 지원자가 없음.
+- 'impegnativa' (가정의의) 전문 진료·검사 의뢰서. 우선순위 코드: U(긴급, 72시간), B(단기, 10일), D(연기 가능, 30일 — 검사는 60일), P(계획 가능, 120일). ※ 세부 기한은 지역·종류별로 다를 수 있음.
+- 'CUP / ReCUP' 공공 의료 예약 센터(라치오주는 ReCUP). 'percorso di garanzia / di tutela' 기한 안 예약이 안 될 때의 보장 절차.
+- 'intramoenia' 공공 병원 의사가 같은 병원에서 하는 사설 유료 진료 — 대기 명단 문제와 맞물린 오래된 논쟁거리.
+- 'risonanza magnetica' MRI, 'menisco' 반월상 연골, 'artrosi' 관절염, 'anziano fragile' 거동 불편(허약) 노인. 'vaccino antinfluenzale' 독감 백신.
+- 'Fatebenefratelli' 테베레강 티베리나 섬의 오래된 병원. 극 중 '거동 불편 노인 진료'는 이야기를 위한 설정이다.
+- 'Il ginocchio aspetta. La gentilezza no.' «무릎은 기다린다. 친절은 기다리지 않는다» — 세티미오의 말.
+
+@next
+3부 46화 — «La differenziata e i cinghiali»(분리수거와 멧돼지) — 11월 첫 주말, 비아 델 칸토네의 쓰레기통 앞. 맞은편 관광객 숙소의 분리 안 된 쓰레기, 로레다나 부인의 분노, 그리고 새벽 세 시에 쓰레기통을 뒤엎는 멧돼지 가족.
