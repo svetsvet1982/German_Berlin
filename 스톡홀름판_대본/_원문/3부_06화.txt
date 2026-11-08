@@ -1,0 +1,268 @@
+PART: 3
+EP: 6
+TITLE: Klarspråk
+SUBTITLE: 쉬운 말 · 추적 6, Vårberg 도서관
+META: 대사 120턴 · 난이도 B2 · 배경: 3월 둘째 주 토요일 오전, Vårberg 도서관 모임방과 저녁의 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: CHYDENIUS | 부활한 목사·정치가 (1729–1803)
+CAST: LAGERLÖF | 부활한 작가 (1858–1940)
+CAST: LEYLA | 이웃 주민 · 세입자 (가상)
+CAST: PER | Vårberg 세입자 모임 총무 (가상)
+CAST: FADUMO | Vårberg 세입자 (가상)
+CAST: KALEVI | Vårberg 세입자 · 핀란드 출신 연금 생활자 (가상)
+NOTE: ※ 스웨덴의 언어법(språklagen, 2009)은 공공기관의 언어가 ‘정성스럽고, 간결하며, 이해하기 쉬워야 한다’고 정하고 있습니다. 이것을 ‘klarspråk’(쉬운 공공언어)이라고 부릅니다. 하지만 실제 공문서는 여전히 수동태와 명사 덩어리로 가득합니다. Elsa가 Kronofogden, 사회보험청, 집주인, 은행의 편지를 쉬운 말로 옮긴 소책자 «Brev som skrämmer»(겁나는 편지들)를 만들어 Vårberg 도서관에서 첫 모임을 엽니다. 그리고 그날 저녁, Elsa 자신에게 한 통의 편지가 옵니다: 2차 전대로 빌린 방의 계약 해지 통지. 문법 초점: 수동태 → 능동태, 명사문 → 동사문(‘verkställighet sker’ → ‘vi gör det’). 표현 초점: klarspråk, mottagare, andrahandskontrakt, uppsägning, överhyra.
+
+# 도입 — BIBLIOTEKET I VÅRBERG
+ELSA: Välkomna! Det finns kaffe, och Biggans bullar, och tjugo exemplar av broschyren.
+= 어서 오세요! 커피 있고, 비간의 번 있고, 소책자 스무 부 있어요.
+PER: Tjugo? Det står fyrtio personer utanför.
+= 스무 부? 밖에 마흔 명이 서 있는데.
+ANTON: Jag har tryckt hundra till. De ligger i bilen.
+= 백 부 더 인쇄했어. 차에 있어.
+KALEVI: ”Brev som skrämmer.” Bra titel. Alla brev skrämmer mig. Även julkort.
+= ‘겁나는 편지들.’ 좋은 제목이야. 모든 편지가 날 겁나게 해. 크리스마스카드도.
+FADUMO: Min mamma öppnar inga brev alls. Hon ger dem till mig. Jag är femtio och hon är åttio. Jag har öppnat hennes brev i trettio år.
+= 우리 엄마는 편지를 아예 안 열어요. 다 저한테 줘요. 전 쉰이고 엄마는 여든이에요. 30년 동안 엄마 편지를 열었어요.
+ELSA: Då är det här för er båda.
+= 그럼 이건 두 분 모두를 위한 거예요.
+FADUMO: Hon kommer nästa gång. Om jag lovar att hon slipper öppna något själv.
+= 다음엔 엄마도 올 거예요. 직접 아무것도 안 열어도 된다고 약속하면.
+LEYLA: Jag kom från Söder. Med två grannar. De har också fått brev de inte förstår.
+= 쇠데르에서 왔어요. 이웃 둘이랑. 그분들도 이해 못 하는 편지를 받았대요.
+CHYDENIUS: En bok som förklarar statens språk för folket. Det är vad jag drömde om 1766.
+= 국가의 언어를 백성에게 설명하는 책이라. 1766년에 내가 꿈꾸던 거요.
+LAGERLÖF: Och den är kort. Det är det svåraste av allt. Att skriva kort.
+= 그리고 짧네요. 그게 제일 어려운 거예요. 짧게 쓰는 것.
+ELSA: Fru Lagerlöf, ni skrev ”Nils Holgersson”. Den är fyrahundra sidor.
+= 라겔뢰프 부인, 『닐스 홀게르손』을 쓰셨잖아요. 그건 400쪽이에요.
+LAGERLÖF: Den skulle vara en lärobok i geografi för barn. Jag misslyckades med att skriva kort. Du har lyckats.
+= 그건 아이들을 위한 지리 교과서였어요. 난 짧게 쓰는 데 실패했죠. 당신은 성공했고요.
+JOHAN: Visste ni att det finns en lag om det här? Språklagen. Myndigheter ska skriva vårdat, enkelt och begripligt.
+= 이것에 관한 법이 있다는 거 알아요? 언어법. 관청은 정성스럽고, 간결하고, 이해하기 쉽게 써야 해요.
+KALEVI: Och vad händer om de inte gör det?
+= 그리고 안 그러면 어떻게 돼?
+JOHAN: Ingenting. Det finns inget straff.
+= 아무 일도. 처벌은 없어요.
+KALEVI: Då är det inte en lag. Det är en önskan.
+= 그럼 그건 법이 아니야. 소원이지.
+CHYDENIUS: Många lagar börjar som önskningar.
+= 많은 법이 소원으로 시작하지.
+MAJA: Och många slutar så.
+= 그리고 많은 법이 소원으로 끝나고.
+JOHAN: Men ibland räcker det att någon påminner om dem.
+= 하지만 가끔은 누가 그걸 상기시켜 주는 것만으로 충분해요.
+ELSA: Okej. Vi börjar. Sida ett. Kronofogden.
+= 좋아요. 시작할게요. 1쪽. Kronofogden.
+
+# 장면 1 — BREV SOM SKRÄMMER
+ELSA: Det här är ett riktigt brev. Från Kronofogden. Jag har tagit bort namnet. Det heter ”Betalningsföreläggande”.
+= 이건 진짜 편지예요. Kronofogden에서 온 거. 이름은 지웠어요. ‘지급 명령’이라고 해요.
+PER: Det ordet. Jag fick ett sådant i höstas. Jag lade det under reklamen.
+= 그 단어. 지난가을에 그거 받았어. 광고지 밑에 넣어 버렸지.
+ELSA: Där står det: ”Sökanden har ansökt om betalningsföreläggande avseende fordran om 4 380 kronor. Om ni inte bestrider fordran inom angiven tid kan utslag meddelas.”
+= 여기 이렇게 적혀 있어요: ‘신청인이 4,380크로나의 채권에 관한 지급 명령을 신청하였음. 귀하가 지정 기한 내에 채권에 이의를 제기하지 않을 경우 판결이 내려질 수 있음.’
+FADUMO: Jag förstod ”kronor”. Och ”tid”.
+= ‘크로나’랑 ‘기한’만 알아들었어요.
+ELSA: Och här är min version: ”Någon säger att du är skyldig 4 380 kronor. Håller du med? Om inte: svara inom tio dagar. Om du inte svarar, kan Kronofogden bestämma att du måste betala.”
+= 그리고 이게 제 버전이에요: ‘누군가 당신이 4,380크로나를 빚졌다고 한다. 동의하는가? 동의하지 않으면: 10일 안에 답하라. 답하지 않으면, Kronofogden이 당신이 내야 한다고 결정할 수 있다.’
+FADUMO: Det förstår jag. Hela.
+= 그건 알아듣겠어요. 전부.
+PER: Om jag hade fått det brevet i höstas… hade jag kanske öppnat det.
+= 지난가을에 그 편지를 받았더라면… 열어 봤을지도 몰라요.
+ELSA: Det är därför jag gör det här, Per.
+= 그래서 제가 이걸 하는 거예요, 페르.
+ELSA: Ursäkta, Johan, är det rätt? Det jag har skrivit?
+= 실례지만, 요한, 이거 맞아요? 제가 쓴 거?
+JOHAN: Det är rätt. Och det är bättre än originalet. Men lägg till en sak: att det inte kostar något att säga ”jag håller inte med”.
+= 맞아. 그리고 원문보다 나아. 근데 하나 덧붙여: ‘동의하지 않는다’고 말하는 데는 돈이 안 든다는 것.
+ELSA: ”Det kostar inget att svara.” Bra. Jag skriver till det.
+= ‘답하는 데 돈이 들지 않는다.’ 좋아요. 덧붙일게요.
+KALEVI: Sida två. Vad är det?
+= 2쪽. 그건 뭐야?
+ELSA: Försäkringskassan. Jessicas brev. Med hennes tillstånd. ”Försäkringskassan bedömer att du har arbetsförmåga i ett normalt förekommande arbete.”
+= 사회보험청. 제시카 씨 편지예요. 허락받았어요. ‘사회보험청은 귀하가 일반적으로 존재하는 일에서 근로 능력이 있다고 판단함.’
+LEYLA: Normalt förekommande. Vad betyder det ens?
+= 일반적으로 존재하는. 그게 대체 무슨 뜻이에요?
+ELSA: Min version: ”Vi tror att du kan jobba med något annat. Vi vet inte vad. Du måste inte hålla med. Du kan be oss tänka om. Det heter omprövning.”
+= 제 버전: ‘우리는 당신이 다른 일을 할 수 있다고 생각한다. 그게 뭔지는 모른다. 동의하지 않아도 된다. 다시 생각해 달라고 요청할 수 있다. 그걸 재심사라고 한다.’
+MAJA: ”Vi vet inte vad.” Det står inte i originalet.
+= ‘그게 뭔지는 모른다.’ 원문엔 그런 말 없잖아.
+ELSA: Nej. Men det är sant. Jessica frågade. De sa att de inte visste.
+= 없죠. 근데 사실이에요. 제시카 씨가 물어봤어요. 모른다고 했대요.
+JOHAN: Det är en tolkning, Elsa. Var försiktig. En broschyr ska förklara vad brevet säger. Inte vad vi tycker.
+= 그건 해석이야, 엘사. 조심해. 소책자는 편지가 뭐라고 하는지 설명해야지. 우리가 어떻게 생각하는지가 아니라.
+ELSA: Okej. Då skriver jag: ”Brevet säger inte vilket jobb de menar. Du får fråga.”
+= 알겠어요. 그럼 이렇게 쓸게요: ‘편지는 어떤 일을 말하는지 밝히지 않는다. 물어봐도 된다.’
+CHYDENIUS: Utmärkt. Att förklara utan att predika. Det lyckades jag aldrig med. Jag var präst.
+= 훌륭해. 설교하지 않고 설명하기. 난 그걸 끝내 해내지 못했지. 목사였으니까.
+LAGERLÖF: Och jag var författare. Vi predikar ännu mer.
+= 그리고 난 작가였죠. 우린 설교를 더 해요.
+KALEVI: Och jag var svetsare. Vi predikar aldrig. Vi svetsar.
+= 그리고 난 용접공이었지. 우린 설교 안 해. 용접하지.
+
+# 장면 2 — FRÅN PASSIV TILL AKTIV
+ELSA: Nu en övning. Jag har skrivit tio meningar från riktiga brev. I passiv form. Ni gör dem aktiva. Vem gör vad?
+= 이제 연습이에요. 진짜 편지에서 문장 열 개를 골랐어요. 수동형으로. 여러분이 능동형으로 바꿔 보세요. 누가 뭘 하는지?
+KALEVI: Som en tävling?
+= 시합처럼?
+ELSA: Som en tävling. Den som vinner får en extra bulle.
+= 시합처럼요. 이기는 사람은 번 하나 더.
+FADUMO: Då vinner jag.
+= 그럼 제가 이길게요.
+ELSA: Mening ett: ”Hyran har höjts med fyra procent.”
+= 문장 1: ‘월세가 4퍼센트 인상되었습니다.’
+PER: ”Hyresvärden har höjt hyran med fyra procent.”
+= ‘집주인이 월세를 4퍼센트 올렸습니다.’
+ELSA: Rätt! Mening två: ”Ansökan har avslagits.”
+= 맞아요! 문장 2: ‘신청이 기각되었습니다.’
+FADUMO: ”Försäkringskassan har sagt nej till din ansökan.”
+= ‘사회보험청이 당신의 신청을 거절했습니다.’
+ELSA: Rätt! Och bättre, för du skrev ”sagt nej” i stället för ”avslagit”.
+= 맞아요! 그리고 더 좋아요. ‘기각했다’ 대신 ‘거절했다’라고 했으니까.
+LEYLA: Mening tre, jag vill försöka. Vad är den?
+= 문장 3, 제가 해 볼래요. 뭐예요?
+ELSA: ”Verkställighet kommer att ske den 3 april.”
+= ‘4월 3일에 집행이 이루어질 것입니다.’
+LEYLA: Det har inget verb. Bara ”ske”.
+= 동사가 없어요. ‘이루어진다’밖에.
+ANTON: Det kallas nominalstil. Allt blir substantiv. ”Verkställighet.” Ingen gör något, saker bara sker.
+= 그걸 명사체라고 해. 모든 게 명사가 되지. ‘집행.’ 아무도 뭘 안 하고, 일이 그냥 일어나.
+LEYLA: Då blir det: ”Kronofogden kommer och tar dina saker den 3 april.”
+= 그럼 이렇게 돼요: ‘Kronofogden이 4월 3일에 와서 당신 물건을 가져간다.’
+KALEVI: Det låter mycket värre.
+= 훨씬 끔찍하게 들리네.
+LEYLA: Ja. Men nu vet man vad man ska vara rädd för. Och när.
+= 네. 근데 이제 뭘 무서워해야 하는지 알잖아요. 그리고 언제인지도.
+PER: Och då kan man ringa någon innan den 3 april.
+= 그럼 4월 3일 전에 누군가에게 전화할 수 있지.
+LAGERLÖF: Det är det klarspråk gör. Det gör inte nyheten bättre. Det gör den möjlig att hantera.
+= 쉬운 말은 그런 일을 하죠. 소식을 좋게 만들진 않아요. 감당할 수 있게 만들죠.
+ELSA: Mening fyra: ”Fakturan har skickats till inkasso.”
+= 문장 4: ‘청구서가 추심 기관에 넘어갔습니다.’
+KALEVI: ”Vi har gett din skuld till ett bolag som är mycket otrevligare än vi.”
+= ‘우리가 당신 빚을 우리보다 훨씬 불쾌한 회사에 넘겼습니다.’
+JOHAN: Ha! Det är faktiskt helt korrekt.
+= 하! 그거 사실 완전히 정확해요.
+ELSA: En till innan den sista. ”Din ansökan har mottagits och kommer att behandlas.”
+= 마지막 전에 하나 더. ‘귀하의 신청이 접수되었으며 처리될 예정입니다.’
+FADUMO: ”Vi har fått din ansökan. Vi ska läsa den.”
+= ‘당신의 신청을 받았다. 읽을 것이다.’
+ELSA: Rätt. Och när ska de läsa den?
+= 맞아요. 그럼 언제 읽는대요?
+FADUMO: Det står inte. Det står aldrig när.
+= 안 적혀 있어요. 언제인지는 절대 안 적혀 있어요.
+CHYDENIUS: Skyndsamt. Det borde alltid stå skyndsamt.
+= 지체 없이. 언제나 ‘지체 없이’라고 적혀 있어야 하오.
+ELSA: Och mening fem. Den sista för i dag. ”Revisionsberättelsen avgavs utan anmärkning.”
+= 그리고 문장 5. 오늘 마지막. ‘감사보고서가 지적 없이 제출되었습니다.’
+MAJA: Den tar jag.
+= 그건 내가 할게.
+ELSA: Maja… du behöver inte.
+= 마야… 안 해도 돼요.
+MAJA: ”Jag skrev under revisionsberättelsen utan anmärkning. Fast jag visste att det var fel.”
+= ‘나는 감사보고서에 지적 없이 서명했다. 그게 틀렸다는 걸 알면서도.’
+FADUMO: Det var den ärligaste meningen i dag.
+= 오늘 제일 솔직한 문장이었어요.
+ELSA: Maja vinner. Extra bulle.
+= 마야 승. 번 하나 더.
+MAJA: Jag vill hellre ha två. Det var en svår mening.
+= 차라리 두 개 줘. 어려운 문장이었어.
+
+# 절정 — ELSAS EGET BREV
+BIGGAN: Kvällen. Kaféet. Och Elsa, du har inte sagt ett ord sedan du kom tillbaka från Vårberg.
+= 저녁. 카페. 그리고 엘사, 바르베리에서 돌아온 뒤로 한마디도 안 했어.
+ELSA: Jag fick ett brev. När jag kom hem i eftermiddags. Det låg på dörrmattan.
+= 편지를 받았어요. 오후에 집에 갔을 때. 현관 매트 위에 있었어요.
+JOHAN: Från vem?
+= 누구한테서?
+ELSA: Från Camilla. Hon som jag hyr rummet av. I Midsommarkransen.
+= 카밀라한테서요. 미드솜마르크란센에서 제가 방을 빌린 사람.
+MAJA: Läs.
+= 읽어 봐.
+ELSA: ”Uppsägning av andrahandsavtal. Hyresgästen ska vara avflyttad senast den 30 april. Uppsägningen sker med anledning av att förstahandshyresvärden har påtalat otillåten andrahandsuthyrning.”
+= ‘2차 전대 계약 해지. 세입자는 늦어도 4월 30일까지 퇴거해야 함. 이 해지는 1차 임대인이 무단 전대를 지적함에 따른 것임.’
+ANTON: Tre passiva verb och ett substantiv på sju stavelser.
+= 수동 동사 세 개에 일곱 음절짜리 명사 하나.
+ELSA: Jag har översatt tjugo brev i dag. Och jag förstår inte mitt eget.
+= 오늘 편지 스무 통을 번역했는데. 제 편지는 이해가 안 돼요.
+JOHAN: Får jag?
+= 내가 봐도 돼?
+ELSA: Snälla.
+= 부탁해요.
+JOHAN: Klarspråk: ”Camilla får inte hyra ut rummet till dig. Bostadsbolaget har upptäckt det. Du måste flytta senast 30 april.”
+= 쉬운 말로: ‘카밀라는 너한테 방을 빌려줄 권리가 없다. 주택회사가 그걸 알아냈다. 넌 늦어도 4월 30일까지 나가야 한다.’
+ELSA: Otillåten. Hon hade aldrig frågat om lov?
+= 무단. 허락을 받은 적이 없었다는 거예요?
+JOHAN: Man måste ha hyresvärdens tillstånd för att hyra ut i andra hand. Hon hade det uppenbarligen inte.
+= 2차로 빌려주려면 집주인 허락이 있어야 해. 카밀라는 분명 그게 없었던 거지.
+MAJA: Hur mycket betalar du för rummet?
+= 그 방에 얼마 내?
+ELSA: Sjutusen femhundra. I månaden. Möblerat.
+= 7,500. 한 달에. 가구 포함.
+MAJA: För ett rum? Hur stor är hela lägenheten?
+= 방 하나에? 집 전체는 얼마나 커?
+ELSA: En trea. Camilla betalar åttatusen tvåhundra för hela.
+= 방 세 개짜리요. 카밀라는 전체에 8,200 내요.
+ANTON: Hon betalar åttatusen för tre rum. Och tar sjutusen femhundra av dig för ett.
+= 방 세 개에 8,000을 내면서. 너한테 방 하나에 7,500을 받는다고.
+BIGGAN: Det är inte uthyrning. Det är rån med möbler.
+= 그건 임대가 아니야. 가구 딸린 강도질이지.
+JOHAN: Det heter överhyra. Man får inte ta ut mycket mer än man själv betalar. Du kan begära tillbaka det du har betalat för mycket. Hos hyresnämnden.
+= 그걸 초과 임대료라고 해. 자기가 내는 것보다 훨씬 많이 받으면 안 돼. 더 낸 걸 돌려달라고 청구할 수 있어. 임대심판위원회에서.
+ELSA: Hyresnämnden. Igen. Föreningen hjälper, nämnden bestämmer.
+= 임대심판위원회. 또. 연합은 돕고, 위원회는 결정한다.
+MAJA: Tre år. Kanske fyra tusen för mycket varje månad. Det blir över hundratusen.
+= 3년. 매달 대략 4,000씩 더 냈을 테니. 10만이 넘어.
+ELSA: Hundratusen? Jag har ätit nudlar i tre år för att betala det rummet.
+= 10만이요? 그 방값 내려고 3년 동안 라면만 먹었는데.
+BIGGAN: Det har jag sett. Du har tagit två bullar varje dag sedan november. Nu vet jag varför.
+= 봤지. 11월부터 매일 번을 두 개씩 가져갔잖아. 이제 이유를 알겠네.
+JOHAN: Men det är inte det viktigaste nu. Det viktigaste är: var ska du bo den första maj?
+= 근데 그게 지금 제일 중요한 건 아니야. 제일 중요한 건: 5월 1일에 넌 어디서 살 거야?
+ELSA: Jag vet inte. Bostadskön. Tre år och fyra månader. Det är ingenting, säger alla.
+= 몰라요. 임대 대기열. 3년 4개월. 그건 아무것도 아니래요, 다들.
+
+# 마무리 — ETT RUM HOS BIGGAN
+BIGGAN: Elsa. Kom med mig. Uppför trappan.
+= 엘사. 나랑 같이 가. 계단 위로.
+ELSA: Vart?
+= 어디로요?
+BIGGAN: Till Leifs rum. Ovanför kaféet. Där han skrev sina recept. Där har ingen bott sedan 2010.
+= 레이프의 방으로. 카페 위에. 그 사람이 레시피를 쓰던 곳. 2010년 이후로 아무도 안 살았어.
+ELSA: Biggan… jag kan inte.
+= 비간… 그건 안 돼요.
+BIGGAN: Jo. Det kan du. Det är mitt rum, inte en hyresrätt. Det är min bostadsrätt, och jag har frågat föreningen. Skriftligt.
+= 돼. 할 수 있어. 내 방이야, 임대 주택이 아니고. 내 조합 아파트야, 그리고 조합에 물어봤어. 서면으로.
+JOHAN: Hur länge har du planerat det här?
+= 이거 얼마나 오래 계획했어요?
+BIGGAN: Sedan julafton. När hon sa att hon inte hade råd med flyget hem.
+= 크리스마스이브부터. 집에 가는 비행기 값이 없다고 했을 때.
+JOHAN: Och Camilla? Ska vi kräva tillbaka överhyran?
+= 그리고 카밀라는? 초과 임대료 돌려받을까?
+ELSA: Ett steg i taget. Först ett rum. Sen hyresnämnden.
+= 한 걸음씩요. 먼저 방. 그다음에 임대심판위원회.
+ELSA: Och hyran?
+= 그럼 월세는요?
+BIGGAN: Tvåtusen. Det är vad rummet är värt. Och du hjälper mig att baka på lördagar.
+= 2,000. 그게 그 방 가치야. 그리고 토요일엔 빵 굽는 걸 도와줘.
+ELSA: Tvåtusen? Det är… det är mindre än en tredjedel.
+= 2,000이요? 그건… 3분의 1도 안 되잖아요.
+MAJA: Det är bruksvärdet, Elsa. Jag har räknat.
+= 그게 사용가치야, 엘사. 내가 계산했어.
+ANTON: Och läget är perfekt. Fem sekunder till jobbet.
+= 그리고 위치가 완벽해. 출근 5초.
+LAGERLÖF: Ett rum ovanför ett bageri. Det är där de bästa berättelserna skrivs. Jag lovar.
+= 빵집 위의 방. 최고의 이야기들은 거기서 쓰여요. 약속해요.
+ELSA: Biggan. Jag vet inte vad jag ska säga.
+= 비간. 뭐라고 해야 할지 모르겠어요.
+BIGGAN: Säg ”tack”. På meänkieli.
+= ‘고마워’라고 해. 메앤키엘리로.
+ELSA: Kiitos.
+= 키이토스.
+BIGGAN: Kiitos själv, gumman. Och Elsa? Skriv om ditt eget brev till broschyren. Det är det bästa exemplet hittills.
+= 나도 키이토스, 얘야. 그리고 엘사? 네 편지도 소책자에 다시 써 넣어. 지금까지 중에 최고의 예시야.
+NEXT: 3부 7화 — «Tidningen»(신문) — 지역 신문 기자 Sanna Öberg와 부활한 기자 Wägner가 취재에 붙는다. 스웨덴에서 기자는 취재원을 지켜야 할 법적 의무가 있다는 걸 Elsa가 배운다.
