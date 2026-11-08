@@ -1,0 +1,270 @@
+PART: 2
+EP: 7
+TITLE: Ensam på julafton
+SUBTITLE: 크리스마스이브에 혼자 · 사건 9 도입, Biggan의 부엌
+META: 대사 120턴 · 난이도 B1+ · 배경: 12월 24일 목요일 정오부터 저녁까지, 카페 Biggans 위층 부엌
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: LAGERLÖF | 부활한 작가 (1858–1940)
+CAST: ULLA-BRITT | 5층 이웃 주민 · 미망인 · 81세 (가상)
+CAST: IOANA | 루마니아 출신 청소 노동자 · 미라의 엄마 (가상)
+CAST: MIRA | 다섯 살 아이 (가상)
+CAST: FARID | 건설 노동자 · 22세 (가상)
+CAST: AMIR | 홈케어(hemtjänst) 직원 (가상)
+NOTE: ※ 스웨덴의 크리스마스는 12월 24일 이브에 가족과 함께 보냅니다. 오후 세 시에는 1960년부터 이어진 TV 프로그램 «Kalle Anka och hans vänner önskar god jul»(도널드 덕과 친구들이 메리 크리스마스를 빕니다)을 온 나라가 함께 봅니다. 쌀죽(risgrynsgröt) 속 아몬드 한 알을 찾는 놀이도 있습니다. 하지만 혼자 사는 노인에게 이브는 가장 외로운 날이 되기도 합니다. 집에서 노인을 돌보는 홈케어(hemtjänst)는 방문 시간이 분 단위로 짜여 있고, 담당자가 자주 바뀌는 것이 문제로 지적됩니다. 문제는 직원이 아니라 구조입니다. 표현 초점: hemtjänst, kontinuitet, ensamhet, julbord, Kalle Anka.
+
+# 도입 — KLOCKAN TOLV PÅ JULAFTON
+BIGGAN: Klockan är tolv. Kaféet är stängt. Nu börjar julafton på riktigt.
+= 열두 시야. 카페는 닫았어. 이제 진짜 크리스마스이브 시작이야.
+ELSA: Jag har aldrig firat jul utan mormor.
+= 할머니 없이 크리스마스를 보낸 건 처음이에요.
+MAJA: Varför åker du inte hem?
+= 왜 집에 안 가?
+ELSA: Flyget till Kiruna kostade fyratusen. Nattåget går den tjugosjunde. Det kostar sexhundra.
+= 키루나행 비행기가 4,000이었어요. 야간 열차는 27일에 있어요. 600이고요.
+ANTON: Jag kunde ha lånat dig.
+= 내가 빌려줄 수 있었는데.
+ELSA: Nej. Nattåget är bättre. Man vaknar i snön.
+= 아뇨. 야간 열차가 나아요. 눈 속에서 깨어나거든요.
+JOHAN: Och du, Anton? Din familj på Östermalm?
+= 그럼 너는, 안톤? 외스테르말름 가족은?
+ANTON: Middag klockan sju. Pappa har bokat ett bord. Han vill prata om ”min karriär”.
+= 일곱 시에 저녁. 아버지가 식당 예약했어. ‘내 경력’에 대해 얘기하고 싶으시대.
+DANIEL: På julafton?
+= 크리스마스이브에?
+ANTON: Pappa pratar om karriären på alla högtider. På midsommar också.
+= 아버지는 명절마다 경력 얘기를 하셔. 하지 때도.
+MAJA: Och du, Johan? Din pappa sa ”kom på julafton”.
+= 그럼 너는, 요한? 아버지가 ‘크리스마스이브에 와라’라고 하셨잖아.
+JOHAN: Jag har ringt mamma. Jag kommer på juldagen. I dag är jag här.
+= 엄마한테 전화했어. 크리스마스 당일에 갈 거야. 오늘은 여기 있을래.
+BIGGAN: Och jag har risgrynsgröt, skinka, köttbullar och sju sorters sill igen.
+= 그리고 나한텐 쌀죽, 햄, 미트볼, 그리고 또 일곱 종류 청어가 있어.
+DANIEL: Jag har två timmar innan nattpasset. Var är Ulla-Britt?
+= 야간 근무 전까지 두 시간 있어. 울라브리트는 어디 있어?
+BIGGAN: Hon skulle komma klockan tolv. Hemtjänsten skulle hjälpa henne med strumporna och tabletterna först.
+= 열두 시에 오기로 했어. 홈케어가 먼저 양말이랑 약을 도와주기로 했고.
+ELSA: Klockan är tio över tolv.
+= 열두 시 십 분이에요.
+BIGGAN: Hon är aldrig sen. Aldrig. På fyrtio år.
+= 그 사람은 절대 늦지 않아. 절대로. 40년 동안.
+DANIEL: Jag går upp och knackar.
+= 올라가서 문 두드려 볼게.
+ELSA: Jag följer med.
+= 저도 같이 갈게요.
+OXENSTIERNA: Och jag stannar och vaktar sillen.
+= 그리고 난 남아서 청어를 지키겠네.
+
+# 장면 1 — SEXTON ANSIKTEN
+ULLA-BRITT: Kom in! Dörren är öppen. Jag kan inte resa mig.
+= 들어와! 문 열려 있어. 일어날 수가 없어.
+DANIEL: Ulla-Britt! Har du ramlat?
+= 울라브리트! 넘어지셨어요?
+ULLA-BRITT: Nej, nej. Jag sitter bara här. Jag har inga strumpor på mig. Och jag vet inte var tabletterna är.
+= 아니, 아니. 그냥 여기 앉아 있는 거야. 양말을 못 신었어. 그리고 약이 어디 있는지 모르겠어.
+ELSA: Kom inte hemtjänsten?
+= 홈케어가 안 왔어요?
+ULLA-BRITT: Någon skulle komma klockan tio. Ingen kom. Jag ringde. De sa att schemat hade ändrats.
+= 열 시에 누가 오기로 했어. 아무도 안 왔어. 전화했더니 일정이 바뀌었대.
+DANIEL: Låt mig titta på dina fötter. De är kalla. Här är strumporna.
+= 발 좀 볼게요. 차갑네요. 여기 양말이요.
+ULLA-BRITT: Tack, Daniel. Göte brukade hjälpa mig med strumporna. Varje morgon i femtio år.
+= 고마워, 다니엘. 예테가 매일 아침 양말 신는 걸 도와줬었지. 50년 동안.
+ELSA: Tabletterna… här i köket? Det står ”morgon” och ”kväll” på dosetten.
+= 약은… 여기 부엌에요? 약통에 ‘아침’이랑 ‘저녁’이라고 적혀 있어요.
+DANIEL: Morgondosen är kvar. Hon har inte tagit dem. Ta dem nu, med vatten.
+= 아침 약이 그대로 있네. 안 드셨어. 지금 드세요, 물이랑.
+ULLA-BRITT: Varje dag en ny människa i min dörr. Sexton olika nu. Jag har skrivit upp alla namn.
+= 매일 내 문 앞에 새 사람이야. 지금까지 열여섯 명. 이름을 다 적어 놨어.
+ELSA: Sexton? På bara några veckor?
+= 열여섯 명이요? 겨우 몇 주 만에?
+ULLA-BRITT: De är snälla. Allihop. Men de vet inte var jag har strumporna. Varje gång måste jag förklara allt igen.
+= 다들 착해. 전부. 근데 내 양말이 어디 있는지 몰라. 매번 다 다시 설명해야 해.
+DANIEL: Det kallas kontinuitet. Att samma personer kommer. Det är viktigt, särskilt för äldre.
+= 그걸 연속성이라고 해요. 같은 사람들이 오는 거요. 특히 어르신들께는 중요해요.
+ELSA: Kontinuitet. Det är ett långt ord för något enkelt.
+= 연속성. 간단한 걸 말하는 긴 단어네요.
+ULLA-BRITT: Och de har så bråttom. Sju minuter. Sen ska de till nästa. De säger: ”Förlåt, jag har bara sju minuter.”
+= 그리고 엄청 바빠. 7분. 그다음엔 다음 집으로 가야 해. 이렇게 말해: ‘죄송해요, 7분밖에 없어요.’
+DANIEL: Sju minuter för strumpor, tabletter och frukost.
+= 양말, 약, 아침을 7분 만에.
+ULLA-BRITT: Och ibland att prata lite. Men det hinner de aldrig.
+= 그리고 가끔 말동무도. 근데 그럴 시간은 절대 없지.
+ELSA: Kom, Ulla-Britt. Vi går ner. Biggan väntar med gröt.
+= 가요, 울라브리트. 내려가요. 비간이 죽 만들어 놓고 기다려요.
+ULLA-BRITT: Jag har inte klätt mig fint. Det är julafton.
+= 예쁘게 차려입지도 못했어. 크리스마스이브인데.
+ELSA: Vilken klänning vill ni ha?
+= 어떤 원피스 입고 싶으세요?
+ULLA-BRITT: Den röda. Göte tyckte om den.
+= 빨간 거. 예테가 좋아했어.
+DANIEL: Den röda. Och sen ner. Långsamt i trappan.
+= 빨간 거. 그리고 내려가요. 계단은 천천히.
+ULLA-BRITT: Fem trappor. Hissen är trasig sedan i torsdags. Ingen har lagat den.
+= 다섯 층이야. 엘리베이터가 지난 목요일부터 고장 났어. 아무도 안 고쳤어.
+ELSA: Då bär vi er. Jag har burit min mormor i Kiruna. I snö.
+= 그럼 저희가 업어 드릴게요. 키루나에서 할머니를 업어 봤어요. 눈 속에서.
+ULLA-BRITT: Ni är galna. Allihop.
+= 너희 다 미쳤어. 전부.
+
+# 장면 2 — KALLE ANKA KLOCKAN TRE
+BIGGAN: Där är hon! I röd klänning!
+= 저기 왔다! 빨간 원피스 입고!
+OXENSTIERNA: Fru Karlsson. Ni är vackrare än drottning Kristina.
+= 칼손 부인. 크리스티나 여왕보다 아름다우시오.
+ULLA-BRITT: Vem är det, Birgitta? Han från förra veckan?
+= 저 사람 누구야, 비르기타? 지난주 그 사람?
+BIGGAN: Han från sextonhundratalet. Lyssna inte på honom.
+= 1600년대에서 온 사람. 저 사람 말은 듣지 마.
+IOANA: God jul! Får vi komma in? Mira har gjort en present till Biggan.
+= 메리 크리스마스! 들어가도 돼요? 미라가 비간한테 줄 선물을 만들었어요.
+MIRA: Det är en varg. Av papper. Som Lupa.
+= 늑대예요. 종이로 만든. 루파처럼.
+BIGGAN: Den ska få sitta på kassan. Hela året.
+= 이건 계산대 위에 앉혀 둘게. 1년 내내.
+FARID: Hej. Förlåt att jag kommer sent. Jag jobbade i morse. Lundgren betalar dubbelt på julafton nu. Med kollektivavtal.
+= 안녕하세요. 늦어서 죄송해요. 오늘 아침에 일했어요. 룬드그렌이 이제 크리스마스이브엔 두 배를 줘요. 단체협약 덕분에.
+JOHAN: Dubbelt! Tove blir glad.
+= 두 배! 토베가 좋아하겠네.
+FARID: Jag firar inte jul egentligen. Men jag tycker om julmust.
+= 사실 전 크리스마스를 안 지내요. 근데 율무스트는 좋아해요.
+ELSA: Julmust är inte religion. Det är Sverige.
+= 율무스트는 종교가 아니에요. 스웨덴이에요.
+LAGERLÖF: Klockan är tre. Det är dags.
+= 세 시예요. 시간 됐어요.
+MIRA: Dags för vad?
+= 뭐 할 시간이요?
+ANTON: Kalle Anka. Alla i Sverige tittar. Samma filmer varje år sedan 1960.
+= 칼레 앙카. 스웨덴 사람은 다 봐. 1960년부터 매년 같은 만화를.
+IOANA: Samma filmer? Varje år? Varför?
+= 같은 만화요? 매년요? 왜요?
+MAJA: Ingen vet. Det är som Janssons frestelse.
+= 아무도 몰라요. 얀손의 유혹 같은 거죠.
+DANIEL: Jag måste gå till akuten om en timme. Men jag ser Ferdinand först. Det har jag gjort sedan jag var sju.
+= 한 시간 뒤엔 응급실 가야 해. 근데 페르디난드는 보고 갈래. 일곱 살 때부터 봤거든.
+MIRA: Vem är Ferdinand?
+= 페르디난드가 누구예요?
+DANIEL: En tjur som inte vill slåss. Han vill bara lukta på blommor.
+= 싸우기 싫어하는 황소야. 그냥 꽃향기만 맡고 싶어 해.
+MIRA: Jag tycker om honom redan.
+= 벌써 좋아요.
+ULLA-BRITT: Göte och jag såg Kalle Anka i femtio år. I fjol såg jag den ensam. Med en macka.
+= 예테랑 나는 50년 동안 칼레 앙카를 봤어. 작년엔 혼자 봤지. 샌드위치 하나 들고.
+BIGGAN: I år ser du den med tretton personer. Och en tjur.
+= 올해는 열세 명이랑 보는 거야. 그리고 황소 하나랑.
+FARID: Och en kansler.
+= 그리고 재상 한 명이랑.
+OXENSTIERNA: Jag förstår inte varför ankan är så arg hela tiden.
+= 저 오리가 왜 내내 화가 나 있는지 모르겠군.
+JOHAN: Han är som ni, herr Oxenstierna. Han vill att allt ska gå som han bestämmer.
+= 옥센셰르나 님 같은 거예요. 모든 게 자기가 정한 대로 돼야 하거든요.
+OXENSTIERNA: Då förstår jag honom fullkomligt.
+= 그럼 완벽히 이해하네.
+LAGERLÖF: Sextiosex år av samma tecknade filmer. Det är den mest svenska berättelsen av alla. Ingen ändrar den, för att ingen vill vara den som ändrar den.
+= 66년 동안 같은 만화. 모든 이야기 중 가장 스웨덴다운 이야기예요. 아무도 바꾸지 않죠, 아무도 바꾸는 사람이 되고 싶지 않으니까.
+
+# 절정 — TOMTEN
+BIGGAN: Det knackar. Vem kan det vara på julafton?
+= 누가 문 두드린다. 크리스마스이브에 누구지?
+AMIR: Hej. Förlåt. Jag söker Ulla-Britt Karlsson. Från hemtjänsten. Hon var inte hemma.
+= 안녕하세요. 실례합니다. 울라브리트 칼손 씨를 찾고 있어요. 홈케어에서 왔어요. 집에 안 계셔서요.
+ULLA-BRITT: Nummer sjutton.
+= 열일곱 번째.
+AMIR: Förlåt? Jag skulle ha kommit klockan tio. Men jag fick tolv besök på morgonen. Två kollegor är sjuka. Schemat gick sönder.
+= 네? 열 시에 왔어야 했는데요. 오전에 방문이 열두 건이었어요. 동료 둘이 아파요. 일정이 다 꼬였어요.
+DANIEL: Tolv besök på en morgon?
+= 오전에 방문 열두 건이요?
+AMIR: Sju minuter var. Plus resan. Jag springer mellan husen. Jag har inte ätit sedan sex.
+= 각 7분. 거기에 이동 시간까지. 집과 집 사이를 뛰어다녀요. 여섯 시부터 아무것도 못 먹었어요.
+BIGGAN: Sätt dig, Amir. Ta en köttbulle. Ta tio.
+= 앉아, 아미르. 미트볼 하나 먹어. 열 개 먹어.
+AMIR: Jag får inte. Jag har tre besök till.
+= 안 돼요. 방문이 세 건 더 남았어요.
+DANIEL: Fem minuter. Läkarordination.
+= 5분. 의사 처방이에요.
+AMIR: Okej. Fem minuter. Det är mer än jag har gett någon i dag.
+= 알겠어요. 5분. 오늘 누구한테 준 시간보다 길어요.
+ULLA-BRITT: Amir. Du är den första som har kommit två gånger. Du var här i november också. Du visste var strumporna låg.
+= 아미르. 두 번 온 사람은 네가 처음이야. 11월에도 왔었지. 양말이 어디 있는지 알았어.
+AMIR: Översta lådan. Till vänster.
+= 맨 위 서랍. 왼쪽.
+ULLA-BRITT: Översta lådan till vänster! Han minns!
+= 맨 위 서랍 왼쪽! 기억하네!
+JOHAN: Amir, kan Ulla-Britt få samma personal varje gång? Dig, till exempel?
+= 아미르, 울라브리트한테 매번 같은 직원이 올 수 있어요? 예를 들어 당신이?
+AMIR: Det bestämmer inte jag. Det bestämmer biståndshandläggaren och schemat. Jag har bett om det i två år. För alla mina äldre.
+= 그건 제가 정하는 게 아니에요. 지원 담당자랑 일정이 정해요. 2년째 요청하고 있어요. 제가 맡은 어르신들 모두를 위해서요.
+ELSA: Ursäkta, vad är en biståndshandläggare?
+= 실례지만, 지원 담당자가 뭐예요?
+AMIR: Den på kommunen som bestämmer hur mycket hjälp man får. Och hur många minuter.
+= 구청에서 얼마나 도움을 받을지 정하는 사람이요. 그리고 몇 분을 받을지도.
+MAJA: Minuter. Allt räknas i minuter.
+= 분. 모든 게 분으로 계산되는구나.
+LAGERLÖF: En gammal kvinna kan inte berätta sitt liv på sju minuter. Det kan inte ens jag.
+= 노부인은 7분 만에 자기 인생을 이야기할 수 없어요. 저도 못 해요.
+ANTON: Jag har en idé. Inte en matris. En idé.
+= 생각이 있어. 매트릭스 말고. 생각.
+MAJA: Säg den på svenska.
+= 스웨덴어로 말해.
+ANTON: Vi skriver till biståndshandläggaren. Och vi ber om ett möte. Ulla-Britt, Amir och vi. Efter nyår.
+= 지원 담당자한테 편지를 쓰자. 그리고 만나자고 요청하는 거야. 울라브리트, 아미르, 그리고 우리. 새해 지나고.
+AMIR: Kan jag vara med? Jag är bara undersköterska.
+= 저도 끼어도 돼요? 전 그냥 요양보호사인데요.
+BIGGAN: Du är den enda som vet var strumporna ligger. Du är viktigast av alla.
+= 넌 양말이 어디 있는지 아는 유일한 사람이야. 누구보다 중요하지.
+MIRA: Mamma, titta! Det kommer en tomte!
+= 엄마, 봐요! 산타가 와요!
+ANTON: Ho ho… finns det några snälla barn här?
+= 호호… 여기 착한 아이 있니?
+MIRA: Ja! Jag! Och Lupa!
+= 네! 저요! 그리고 루파도!
+MAJA: Anton. Är det… du? I Biggans röda morgonrock?
+= 안톤. 그거… 너야? 비간의 빨간 실내 가운 입고?
+ANTON: Tomten vet inte vad Anton är. Tomten har bara julklappar.
+= 산타는 안톤이 뭔지 몰라. 산타한텐 선물밖에 없어.
+
+# 마무리 — GOD JUL, PÅ RIKTIGT
+BIGGAN: Och nu gröten. Den som hittar mandeln får en önskan.
+= 그리고 이제 죽. 아몬드를 찾는 사람은 소원을 빌 수 있어.
+MIRA: Jag har den! Jag har mandeln!
+= 저 찾았어요! 아몬드 찾았어요!
+BIGGAN: Då får du önska något, Mira.
+= 그럼 소원을 빌어, 미라.
+MIRA: Jag önskar att mamma får ett personnummer. Och att Lupa får ett också.
+= 엄마가 개인번호를 받게 해 주세요. 그리고 루파도 받게 해 주세요.
+IOANA: Älskling… Jag fick jobbet, Biggan. I Kista. Med avtal. Jag börjar i januari.
+= 아가… 저 그 일자리 얻었어요, 비간. 시스타에서. 계약서랑. 1월에 시작해요.
+ELSA: Då kommer personnumret! Pilen går ut ur cirkeln!
+= 그럼 개인번호가 오겠네요! 화살표가 동그라미 밖으로 나가요!
+DANIEL: Jag måste gå nu. Akuten. God jul, allihop.
+= 나 이제 가야 해. 응급실. 메리 크리스마스, 다들.
+ULLA-BRITT: God jul, Daniel. Tack för strumporna.
+= 메리 크리스마스, 다니엘. 양말 고마워.
+AMIR: Jag måste också gå. Tre besök kvar. Tack för köttbullarna.
+= 저도 가야 해요. 세 건 남았어요. 미트볼 고마워요.
+BIGGAN: Ta en låda med dig. Till dina tre.
+= 상자 하나 가져가. 남은 세 분 드려.
+FARID: Jag går med dig, Amir. Jag kan bära lådan. Jag är snickare.
+= 같이 가요, 아미르. 상자는 제가 들게요. 전 목수예요.
+ANTON: Jag måste också gå. Till pappas middag. Klockan är halv sju.
+= 나도 가 봐야 해. 아버지 저녁. 여섯 시 반이야.
+MAJA: Du har fortfarande morgonrocken på dig.
+= 너 아직 실내 가운 입고 있어.
+ANTON: Kanske ska jag ha den på mig. Då pratar pappa kanske om något annat än karriären.
+= 그냥 입고 갈까 봐. 그럼 아버지가 경력 말고 다른 얘기를 하실지도 몰라.
+ULLA-BRITT: Birgitta. Det här är den bästa julafton jag har haft sedan Göte dog.
+= 비르기타. 예테가 죽은 뒤로 이번이 최고의 크리스마스이브야.
+BIGGAN: Den bästa sedan Leif dog. För mig också.
+= 레이프가 죽은 뒤로 최고야. 나한테도.
+ELSA: Leif? Vem var Leif?
+= 레이프요? 레이프가 누구였어요?
+BIGGAN: Det är en berättelse för fredag, gumman. För nyårsdagen.
+= 그건 금요일 이야기야, 얘야. 새해 첫날을 위한.
+LAGERLÖF: God jul, alla. På riktigt den här gången. Inte nästan.
+= 메리 크리스마스, 다들. 이번엔 진짜로. ‘거의’ 말고.
+NEXT: 2부 8화 — «Kaféet från nittiotalet»(90년대의 카페) — 새해 첫날 금요일, Biggan의 이야기: 1992년 금리가 500%까지 치솟던 금융위기 속에 남편 Leif와 카페를 연 이야기. 그리고 구청 지원 담당자와의 만남에서 Ulla-Britt의 홈케어 담당자를 고정하는 데 합의한다.
