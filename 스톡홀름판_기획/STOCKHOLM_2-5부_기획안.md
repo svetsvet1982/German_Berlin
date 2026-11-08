@@ -26,7 +26,7 @@
 | BIGGAN | 1992년 금융위기 속 개업, 남편 Leif의 죽음 | 세입자 모임 장소를 내줌 | 하지에 모두를 시골집으로 데려감 | 카페를 잃을 위기 → 동네가 건물을 삼 |
 | INGRID | 2부 끝에 정체 공개: 해고당한 전직 Saltsjöbanken 컴플라이언스 책임자 | 내부고발자 보호를 받으며 증거 정리 | 핵심 증인 | 조합 매입의 은행 협상 |
 
-새로 등장하는 인물(가상): GUSTAF Ek(Johan의 아버지, Ek & Wahlgren 대표), SANNA Berg(지역 신문 «Stockholms Kuriren» 기자), AILI(Elsa의 할머니, 키루나), 검사 LOVISA Ström(경제범죄청), 시민 배심 판사 GÖRAN, Nordhem 대표 CARL-ADAM Rehnberg. 회사·기관 이름은 실존 기관(법원, Kronofogden, Försäkringskassan 등)을 빼고 모두 가상이다.
+새로 등장하는 인물(가상): GUSTAF Ek(Johan의 아버지, Ek & Wahlgren 대표), SANNA Öberg(지역 신문 «Stockholms Kuriren» 기자), AILI(Elsa의 할머니, 키루나), 검사 LOVISA Ström(경제범죄청), 시민 배심 판사 GÖRAN, Nordhem 대표 CARL-ADAM Rehnberg. 회사·기관 이름은 실존 기관(법원, Kronofogden, Försäkringskassan 등)을 빼고 모두 가상이다.
 
 부활 인물 추가: 부마다 한 명씩 새 인물이 합류해 그 부의 주제를 맡는다.
 
@@ -78,7 +78,7 @@
 | 4화 | «Förhandlingen» 협상 | 세입자 모임이 공동으로 이의를 내고 공사 범위가 줄어든다. 번아웃에서 돌아온 Anton이 쉬운 말로 회의를 이끈다. | förhandla, krav, motbud, kompromiss, lagom |
 | 5화 | «Visselblåsaren» 내부고발자 | Ingrid가 내부고발자 보호를 받을 수 있는지 Johan이 따진다. Saltsjöbanken이 퇴직 합의 위반이라며 압박한다. | repressalier, skydd, rapportera, tystnadsplikt, anonym |
 | 6화 | «Klarspråk» 쉬운 말 | Elsa가 Kronofogden·은행·집주인 편지를 쉬운 말로 옮긴 소책자를 만들어 단지에 돌린다. 수동태 문장을 능동으로 바꾸는 것 자체가 회차의 학습 장치. | passiv form, myndighetsspråk, klarspråk, förklara, mottagare |
-| 7화 | «Tidningen» 신문 | 기자 Sanna Berg와 부활한 기자 Wägner가 취재에 붙는다. 스웨덴에서는 기자가 취재원을 지켜야 할 법적 의무가 있다는 걸 Elsa가 배운다. | källskydd, granskning, publicera, rubrik, källa |
+| 7화 | «Tidningen» 신문 | 기자 Sanna Öberg와 부활한 기자 Wägner가 취재에 붙는다. 스웨덴에서는 기자가 취재원을 지켜야 할 법적 의무가 있다는 걸 Elsa가 배운다. | källskydd, granskning, publicera, rubrik, källa |
 | 8화 | «Pressad» 압박 | Ek & Wahlgren에서 명예훼손 소송을 예고하는 편지가 온다. Johan이 아버지 쪽 변호사들과 처음으로 정면에서 맞선다. | stämma, förtal, påstå, bevisa, varning |
 | 9화 | «Maja skriver» 마야가 쓴다 | Maja가 2018년 서명을 감독기관에 스스로 신고하기로 한다. 동료들의 반응이 갈린다 — 보호하려는 사람과 등을 미는 사람. | erkänna, anmäla, konsekvens, mod, ånger |
 | 10화 | «Pengarna i väggarna» 벽 속의 돈 | 리노베이션 공사비가 부풀려져 돈이 세탁된 구조가 드러난다. 하청은 1부의 Lundgren 업체. Farid가 증언하기로 한다. | faktura, överprissatt, tvätta pengar, underentreprenör, vittna |
