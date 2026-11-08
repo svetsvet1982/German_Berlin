@@ -1,0 +1,267 @@
+PART: 5
+EP: 8
+TITLE: Tillbaka till Järva
+SUBTITLE: 다시 야르바로 · 집 8, 카페 Biggans와 Rinkeby
+META: 대사 120턴 · 난이도 B2 · 배경: 11월 28일 대림절 첫째 주일, 카페 Biggans와 Rinkeby의 Daniel 부모님 집
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (Märsta로 이사함)
+CAST: HAMMARSKJÖLD | 부활한 유엔 사무총장 (1905–1961)
+CAST: NADIA | Rinkeby 진료소 간호사 (가상)
+CAST: YOUSSEF | Daniel의 아버지 · 전 택시 기사 (가상)
+CAST: HODA | Samir의 어머니 · 예테보리 거주 (가상, 전화)
+NOTE: ※ 스톡홀름 지역은 큰 병원 응급실의 부담을 줄이려고 동네 가까이에 가벼운 응급 진료를 하는 ‘근린 응급실(närakut)’을 두고 있습니다. 스톡홀름 북서부의 Järva(Rinkeby, Tensta, Husby 등)는 이민자가 많이 사는 지역으로, 언론에선 종종 범죄로만 이야기되지만 그곳에 사는 대부분의 사람은 일하고, 아이를 키우고, 이웃을 돌보며 삽니다. 1부 8화의 간호사 Nadia가 Daniel에게 제안을 가지고 옵니다. 이 화에서 Daniel은 19년 만에 친구 Samir의 어머니에게 전화를 겁니다. 문법 초점: 선택과 가정(skulle jag kunna, hellre… än, antingen… eller). 표현 초점: välja, behövas, närakut, rötter, ansvar.
+
+# 도입 — NOELS TEXT
+BIGGAN: Första advent. Ljusstaken i fönstret. Och Elsa är tillbaka från Märsta. För första gången som gäst.
+= 대림절 첫째 주일. 창가에 촛대. 그리고 엘사가 메르스타에서 돌아왔어. 처음으로 손님으로.
+ELSA: Fyrtiotvå minuter. Pendeltåg, sen tunnelbana. Jag läste en hel bok på vägen.
+= 42분. 통근 열차, 그다음 지하철. 오는 길에 책 한 권을 다 읽었어요.
+BIGGAN: Och hur sover du? Där ute?
+= 그리고 잠은 어떻게 자? 거기서?
+ELSA: Flygplanen första natten. Sen ingenting. Jag sov tio timmar i går.
+= 첫날 밤엔 비행기. 그다음엔 아무것도. 어젯밤엔 열 시간 잤어요.
+ANTON: Vilken bok?
+= 무슨 책?
+ELSA: ”Röda rummet”. Strindberg gav mig den. Jag förstår mer nu än i gymnasiet. Kanske tre fjärdedelar.
+= 『붉은 방』. 스트린드베리 님이 주셨어요. 고등학교 때보다 더 이해돼요. 4분의 3쯤.
+MAJA: Det är mer än kritikerna, sa han.
+= 비평가들보다 많이 이해한 거래, 그분 말로는.
+DANIEL: Jag har läst Noels text. Hemma. När ingen såg. Som han sa.
+= 노엘 글 읽었어. 집에서. 아무도 안 볼 때. 그 애 말대로.
+JOHAN: Och?
+= 그래서?
+DANIEL: Jag får inte berätta vad den handlar om. Det är hans. Men en mening får jag säga. Han sa att det var okej.
+= 무슨 내용인지는 말하면 안 돼. 그 애 거니까. 근데 한 문장은 말해도 된대. 괜찮다고 했어.
+ELSA: Vilken?
+= 어떤 문장이요?
+DANIEL: ”Det finns vuxna som går ner på torget. Jag visste inte det förrän i december.”
+= ‘광장으로 내려오는 어른들이 있다. 나는 12월이 되기 전까진 그걸 몰랐다.’
+BIGGAN: …
+= ……
+HAMMARSKJÖLD: Det är en mening som jag hade velat skriva i ”Vägmärken”.
+= 그건 내가 『이정표』에 쓰고 싶었던 문장이군요.
+ANTON: Han borde bli journalist. Sanna skulle anställa honom.
+= 그 애는 기자가 돼야 해. 산나가 채용할 거야.
+DANIEL: Och i går ringde Nadia. Från mottagningen i Rinkeby.
+= 그리고 어제 나디아가 전화했어. 링케비 진료소에서.
+ELSA: Nadia! Som satte plåster på ditt knä när du var sju!
+= 나디아 씨! 일곱 살 때 무릎에 반창고 붙여 준!
+DANIEL: Hon vill träffa mig. Hon säger att hon har ett förslag. Hon kommer hit klockan tolv.
+= 날 만나고 싶대. 제안이 있대. 열두 시에 여기 온대.
+MAJA: Ett förslag från en sjuksköterska i Rinkeby. På första advent. Det låter som början på något.
+= 대림절 첫째 주일에 링케비 간호사가 가져온 제안이라. 뭔가의 시작처럼 들리네.
+DANIEL: Det låter som slutet på något också.
+= 뭔가의 끝처럼도 들려.
+BIGGAN: Slut och början är ofta samma sak. Det sa Leif när vi öppnade 1992.
+= 끝과 시작은 같은 경우가 많아. 1992년에 가게 열 때 레이프가 그랬어.
+ANTON: Och banken? Har den svarat?
+= 그리고 은행은? 답 왔어?
+MAJA: Inte än. De sa ”före advent”. Det är advent nu.
+= 아직. ‘대림절 전’이라고 했어. 지금이 대림절이야.
+JOHAN: Första advent är i dag. ”Före advent” betydde senast i går.
+= 대림절 첫째 주일이 오늘이야. ‘대림절 전’이면 늦어도 어제였다는 거지.
+MAJA: Då är de sena. Det är inget bra tecken.
+= 그럼 늦은 거네. 좋은 신호가 아니야.
+ANTON: Kanske har de mycket att göra. Det är december snart.
+= 할 일이 많은가 보지. 곧 12월이잖아.
+BIGGAN: Inte i dag. I dag pratar vi om Daniel.
+= 오늘은 아니야. 오늘은 다니엘 얘기 해.
+
+# 장면 1 — NADIAS ERBJUDANDE
+NADIA: Daniel! Lilla Daniel. Du ser trött ut.
+= 다니엘! 꼬마 다니엘. 피곤해 보이네.
+DANIEL: Jag har haft nattpass. Fyra i rad.
+= 야간 근무했어요. 네 번 연속.
+BIGGAN: Kaffe. Och en macka. Nu.
+= 커피. 그리고 샌드위치. 지금.
+NADIA: Det är därför jag är här. Region Stockholm öppnar en närakut i Rinkeby. I mars. Vi behöver en läkare som leder den.
+= 그래서 내가 온 거야. 스톡홀름 지역 당국이 3월에 링케비에 근린 응급실을 열어. 그걸 이끌 의사가 필요해.
+ELSA: Ursäkta, vad är en närakut?
+= 실례지만, 근린 응급실이 뭐예요?
+NADIA: En akutmottagning för det som inte är livshotande. Feber, brutna armar, öroninflammation. Så att folk inte behöver åka till Danderyd eller Karolinska och sitta i sju timmar.
+= 생명이 위급하지 않은 일을 위한 응급 진료소야. 열, 팔 골절, 중이염. 사람들이 단데뤼드나 카롤린스카까지 가서 일곱 시간씩 앉아 있지 않아도 되도록.
+ELSA: Som Mira. Med fyrtio graders feber.
+= 미라처럼요. 40도 열이 났을 때.
+NADIA: Som Mira. Hon hade kunnat komma till oss på tio minuter i stället för en timme.
+= 미라처럼. 한 시간 대신 10분이면 우리한테 올 수 있었을 거야.
+DANIEL: Och ni vill att jag ska leda den?
+= 그리고 제가 그걸 이끌었으면 하는 거예요?
+NADIA: Verksamhetschef. Och läkare. Du känner området. Du pratar arabiska. Och folk känner dig. De känner din pappa. Han har kört halva Rinkeby till sjukhuset i trettio år.
+= 운영 책임자. 그리고 의사. 넌 동네를 알잖아. 아랍어도 하고. 그리고 사람들이 널 알아. 네 아버지를 알지. 30년 동안 링케비 사람 절반을 병원에 태워다 줬잖아.
+DANIEL: Och Södersjukhuset? Akuten?
+= 그럼 쇠데르 병원은요? 응급실은?
+NADIA: Akuten klarar sig utan dig. Det är en stor akut. Med hundra läkare.
+= 응급실은 너 없어도 돼. 큰 응급실이잖아. 의사가 백 명이야.
+DANIEL: Det var vad jag sa till Anton om hans projekt i januari. ”Projektet klarar sig utan dig.”
+= 그거 1월에 안톤 프로젝트에 대해 내가 한 말이에요. ‘프로젝트는 너 없어도 괜찮아.’
+ANTON: Och det stämde.
+= 그리고 맞는 말이었지.
+MAJA: Det stämmer alltid. Det är det som är så irriterande.
+= 늘 맞아. 그게 짜증 나는 거지.
+DANIEL: Men på akuten är jag den som står där när någon kommer in med en skottskada. Det var därför jag blev akutläkare. För Samir.
+= 근데 응급실에선 총상 입은 사람이 들어올 때 거기 서 있는 사람이 나야. 그래서 응급의학과 의사가 된 거고. 사미르 때문에.
+NADIA: Jag vet. Jag kände Samir. Jag satte plåster på hans knän också.
+= 알아. 나도 사미르를 알았어. 그 애 무릎에도 반창고 붙여 줬지.
+DANIEL: …
+= ……
+NADIA: Daniel. På akuten står du där när det redan har hänt. På närakuten kan du stå där innan.
+= 다니엘. 응급실에선 이미 일이 벌어졌을 때 거기 서 있지. 근린 응급실에선 그 전에 서 있을 수 있어.
+DANIEL: Innan vad?
+= 뭐 전에요?
+NADIA: Innan torget. När en femtonåring kommer in med ont i magen och egentligen är rädd. När en mamma kommer in med ett barn med feber och egentligen inte har någonstans att bo. Det ser man i Rinkeby. Om man vet hur man ska titta.
+= 광장 전에. 열다섯 살이 배가 아프다고 왔는데 사실은 무서운 거일 때. 엄마가 열 나는 아이를 데리고 왔는데 사실은 살 곳이 없을 때. 링케비에선 그런 게 보여. 어떻게 봐야 하는지 안다면.
+HAMMARSKJÖLD: Och hur känns det för dig, Daniel? När hon säger det?
+= 그래서 당신은 어떻게 느껴요, 다니엘? 그녀가 그렇게 말할 때?
+DANIEL: Som när jag satt vid fönstret i fyrtornet. Och någon knackade på dörren och sa: kom ner.
+= 등대 창가에 앉아 있을 때 같아요. 그리고 누가 문을 두드리며 이렇게 말하는. 내려와.
+ELSA: Och du gick ner. På Lucia. För Noel.
+= 그리고 내려가셨잖아요. 루시아 날에. 노엘을 위해.
+
+# 장면 2 — RINKEBYSVÄNGEN
+DANIEL: Pappa. Det här är mina vänner. Från kaféet.
+= 아빠. 여기 제 친구들이에요. 카페에서 온.
+YOUSSEF: Välkomna! Kom in, kom in. Ta av er skorna. Hoda… nej. Förlåt. Det var en gammal vana.
+= 어서 와요! 들어와, 들어와요. 신발 벗고. 호다… 아니. 미안해요. 오래된 습관이라.
+ELSA: Hoda?
+= 호다요?
+DANIEL: Samirs mamma. Hon bodde på femte våningen. Hon brukade komma upp med mat varje söndag. Pappa ropar fortfarande på henne ibland.
+= 사미르 엄마. 6층에 사셨어. 일요일마다 음식을 들고 올라오셨지. 아빠는 아직도 가끔 그분을 부르셔.
+YOUSSEF: I tjugo år kom hon varje söndag. Sen flyttade hon. Efter… efter Samir.
+= 20년 동안 일요일마다 왔지. 그러다 이사 갔어요. 그… 사미르 일 이후에.
+BIGGAN: Hon skickar fortfarande julkort, sa Daniel.
+= 아직도 크리스마스카드를 보낸다고 다니엘이 그랬어요.
+YOUSSEF: Varje år. Till mig. Inte till Daniel. Han har aldrig svarat.
+= 매년. 나한테. 다니엘한텐 아니고. 다니엘은 한 번도 답장을 안 했으니까.
+DANIEL: Pappa…
+= 아빠…
+YOUSSEF: Det är sant. Du har aldrig svarat.
+= 사실이잖니. 넌 한 번도 답장 안 했어.
+ELSA: Varför inte, Daniel?
+= 왜요, 다니엘?
+DANIEL: För att varje kort sa: du var inte där.
+= 카드마다 이렇게 말하는 것 같았으니까: 넌 거기 없었다.
+ELSA: Fönstret. Är det… fyrtornet?
+= 창문. 저게… 등대예요?
+DANIEL: Fyrtornet. Elfte våningen. Där satt jag och pluggade kemi. Och där nere är torget.
+= 등대. 11층. 저기 앉아서 화학 공부를 했어. 그리고 저 아래가 광장이야.
+MAJA: Man ser allt härifrån. Hela torget.
+= 여기서 다 보이네. 광장 전체가.
+DANIEL: Allt. Varje kväll. I två år.
+= 다. 매일 저녁. 2년 동안.
+YOUSSEF: Han satt där varje kväll. Jag trodde att han pluggade. Han tittade på Samir.
+= 매일 저녁 거기 앉아 있었지. 난 공부하는 줄 알았어요. 사미르를 보고 있었던 거예요.
+DANIEL: Du visste?
+= 아셨어요?
+YOUSSEF: En pappa vet. Jag sa ingenting. Jag tänkte: han måste klara sig. Han måste bli läkare. För oss. Jag var rädd att han skulle gå ner.
+= 아빠는 알지. 아무 말도 안 했다. 생각했지: 이 애는 해내야 한다. 의사가 돼야 한다. 우리를 위해. 이 애가 내려갈까 봐 무서웠어.
+DANIEL: Så du ville att jag skulle sitta kvar?
+= 그럼 제가 거기 앉아 있길 원하셨어요?
+YOUSSEF: Ja. Förlåt. Jag ville att du skulle sitta kvar. Och Samirs pappa ville att Samir skulle sitta kvar. Men han hade ingen fyrtornsfönster. Han hade bara torget.
+= 그래. 미안하다. 네가 앉아 있길 원했어. 그리고 사미르 아빠도 사미르가 앉아 있길 원했지. 근데 그 애한텐 등대 창문이 없었어. 광장밖에 없었지.
+HAMMARSKJÖLD: Två fäder som ville samma sak. Och två söner som fick olika liv.
+= 같은 걸 원한 두 아버지. 그리고 서로 다른 삶을 산 두 아들.
+JOHAN: Det är det som är så orättvist.
+= 그래서 그렇게 불공평한 거예요.
+YOUSSEF: Det är inte orättvist. Det är Rinkeby. Det är därför Rinkeby behöver Daniel. Inte Södersjukhuset.
+= 불공평한 게 아니에요. 그게 링케비예요. 그래서 링케비엔 다니엘이 필요한 거예요. 쇠데르 병원이 아니라.
+DANIEL: Nadia har pratat med dig.
+= 나디아가 아빠랑 얘기했구나.
+YOUSSEF: Nadia har pratat med alla. Hon har pratat med halva Rinkebysvängen. Hon är som Gunnel, har jag förstått.
+= 나디아는 모두랑 얘기했다. 링케비스벵엔 절반이랑 얘기했어. 군넬 같은 사람이라고 들었는데.
+ANTON: Alla goda kvinnor i Stockholm är som Gunnel.
+= 스톡홀름의 좋은 여자들은 다 군넬 같네요.
+
+# 절정 — SAMIRS MAMMA
+DANIEL: Pappa. Har du Hodas nummer?
+= 아빠. 호다 아주머니 번호 있어요?
+YOUSSEF: Det står på varje julkort. I nitton år.
+= 크리스마스카드마다 적혀 있지. 19년 동안.
+DANIEL: Får jag ringa från ditt kök?
+= 아빠 부엌에서 전화해도 돼요?
+YOUSSEF: Det är ditt kök också. Det har det alltid varit.
+= 네 부엌이기도 하지. 늘 그랬어.
+ELSA: Vill du att vi går ut?
+= 우리 나가 있을까요?
+DANIEL: Nej. Stanna. Jag har gömt det här ensam länge nog. Som Maja med promemorian.
+= 아니. 있어 줘. 이걸 혼자 숨긴 지 충분히 오래됐어. 마야가 메모를 숨겼던 것처럼.
+MAJA: Det hjälper att någon ser på.
+= 누가 봐 주면 도움이 돼.
+HODA: Hallå?
+= 여보세요?
+DANIEL: Hej… Hoda. Det är Daniel. Daniel Haddad. Från elfte våningen.
+= 안녕하세요… 호다 아주머니. 다니엘이에요. 다니엘 하다드. 11층의.
+HODA: …Daniel? Lilla Daniel? Som satt i fönstret?
+= …다니엘? 꼬마 다니엘? 창가에 앉아 있던?
+DANIEL: Ja. Förlåt att jag aldrig har svarat på korten.
+= 네. 카드에 한 번도 답장 못 해서 죄송해요.
+HODA: Du behöver inte be om förlåtelse. Din pappa har berättat. Att du blev läkare. På akuten.
+= 사과할 필요 없어. 네 아빠가 얘기해 줬어. 의사가 됐다고. 응급실에서.
+DANIEL: Jag blev akutläkare för Samir. För att jag inte var där.
+= 사미르 때문에 응급의학과 의사가 됐어요. 거기 없었으니까.
+HODA: Du var sexton, Daniel. Du var ett barn. Samir var ett barn. Ni var två barn i ett hus där vuxna inte gick ner på torget.
+= 넌 열여섯이었어, 다니엘. 아이였지. 사미르도 아이였고. 너희는 어른들이 광장에 내려가지 않는 건물에 사는 두 아이였어.
+ELSA: ”Det finns vuxna som går ner på torget.”
+= ‘광장으로 내려오는 어른들이 있다.’
+DANIEL: Hoda. Jag har fått ett erbjudande. Att jobba i Rinkeby. På en närakut. Med Nadia.
+= 호다 아주머니. 제안을 받았어요. 링케비에서 일하라는. 근린 응급실에서. 나디아랑.
+HODA: Nadia! Hon satte plåster på Samirs knän.
+= 나디아! 사미르 무릎에 반창고 붙여 줬던.
+DANIEL: Jag vet inte om jag ska tacka ja. På akuten räddar jag liv.
+= 받아야 할지 모르겠어요. 응급실에선 생명을 구하잖아요.
+HODA: Och i Rinkeby kanske du räddar en pojke innan han behöver räddas. Samir hade behövt en sådan läkare. Inte en på akuten. En på torget.
+= 그리고 링케비에선 어쩌면 구해야 할 상황이 오기 전에 한 아이를 구할지도 모르지. 사미르한텐 그런 의사가 필요했어. 응급실의 의사가 아니라. 광장의 의사가.
+DANIEL: …
+= ……
+HODA: Daniel. Gå ner på torget. För Samir. Och skicka ett julkort i år. Till mig. Det är dags.
+= 다니엘. 광장으로 내려가렴. 사미르를 위해. 그리고 올해는 크리스마스카드를 보내. 나한테. 때가 됐어.
+DANIEL: Jag lovar. Skriftligt.
+= 약속할게요. 서면으로.
+HODA: Skriftligt. Du har blivit väldigt svensk, Daniel.
+= 서면으로. 너 아주 스웨덴 사람이 됐구나, 다니엘.
+DANIEL: Jag har alltid varit svensk. Jag har bara inte skrivit.
+= 늘 스웨덴 사람이었어요. 그냥 편지를 안 썼을 뿐이죠.
+
+# 마무리 — BESLUTET
+BIGGAN: Kvällen. Kaféet. Och Daniel har inte sagt ett ord sedan Rinkeby.
+= 저녁. 카페. 그리고 다니엘은 링케비 이후로 한마디도 안 했어.
+DANIEL: Jag har bestämt mig.
+= 결정했어.
+ELSA: Och?
+= 그래서요?
+DANIEL: Jag tackar ja. Till närakuten. Från mars.
+= 받을게. 근린 응급실. 3월부터.
+NADIA: Daniel!
+= 다니엘!
+DANIEL: Men jag tar ett nattpass i månaden på Södersjukhuset. För att inte glömma. Och för att Patrik behöver någon som hittar hans nycklar.
+= 근데 쇠데르 병원에서 한 달에 한 번 야간 근무는 할게. 잊지 않으려고. 그리고 파트리크 열쇠 찾아 줄 사람이 필요하니까.
+JOHAN: Hellre Järva än Söder. Det trodde jag aldrig att jag skulle höra dig säga.
+= 쇠데르보다 야르바. 네가 그런 말 하는 걸 들을 줄은 몰랐다.
+DANIEL: Inte hellre. Och. Järva och Söder. Fredagarna är fortfarande här.
+= ‘보다’가 아니라. ‘그리고’야. 야르바 그리고 쇠데르. 금요일은 여전히 여기 있어.
+BIGGAN: Om kaféet finns kvar.
+= 카페가 남아 있다면.
+MAJA: Om banken säger ja.
+= 은행이 승인한다면.
+ANTON: Ett ”om” igen.
+= 또 ‘만약’이네.
+HAMMARSKJÖLD: Det minsta ordet i språket, och det tyngsta. Men i dag var det lättare än vanligt.
+= 언어에서 가장 작고 가장 무거운 말. 하지만 오늘은 평소보다 가벼웠죠.
+NADIA: Daniel. Jag har ett plåster i väskan. För gamla tiders skull.
+= 다니엘. 가방에 반창고 하나 있어. 옛날 생각해서.
+DANIEL: Jag har inget sår, Nadia.
+= 상처 없어요, 나디아.
+NADIA: Jo. Du har haft det i nitton år. Det börjar läka nu.
+= 있어. 19년 동안 있었지. 이제 아물기 시작하는 거야.
+DANIEL: …Okej. Sätt på det.
+= …알았어요. 붙여 주세요.
+ELSA: Telefonen. Majas. Ett mejl. Från banken.
+= 전화. 마야 씨 거요. 메일. 은행에서.
+MAJA: ”Beslut om kreditansökan.” Jag öppnar inte det i kväll. I kväll är Daniels kväll.
+= ‘대출 신청에 대한 결정.’ 오늘 밤엔 안 열래. 오늘 밤은 다니엘의 밤이야.
+BIGGAN: Klokt. Banker kan vänta. Människor kan inte.
+= 현명해. 은행은 기다릴 수 있어. 사람은 못 기다리지.
+NEXT: 5부 9화 — «Banken säger nej»(은행이 거절한다) — 인수 직전, 대출이 거절된다. 12월 31일까지 남은 날은 얼마 없다. Ingrid와 Maja가 협동조합 은행과 다시 협상한다.
