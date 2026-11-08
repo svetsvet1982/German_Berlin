@@ -1,0 +1,149 @@
+#nr: 19
+#part: 2부 Sommer (여름)
+#title: Das Gerücht
+#ko: 소문 · 크나이페에 모인 세입자들
+#level: B1~B2
+#setting: 6월 5일 금요일 저녁 일곱 시, „Zur Ecke". 18화에서 정한 대로 세입자 모임이 열린다. 월요일에 관리회사에 건 전화 열한 통, 토비의 브리츠 방문, 슐체 부인의 등기소 확인 결과가 차례로 보고된다. 그사이 "노르트베르트가 프리드리히스하인에서 세입자를 몰아냈다더라" 같은 소문이 번지고, 처음 등장하는 앞 동 이웃 레만 부인은 "그건 다 소문일 뿐"이라고 맞선다. 표현 초점: 추측·소문 전달(sollen), 간접화법(접속법 1식 입문).
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Paul | 파울 호프만 · 27세
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Derya | 데르야 이을드즈 · 40세
+#cast: Frau Lehmann | 카트야 레만 · 52세, Vorderhaus 4층 세입자, 고용센터(Jobcenter) 상담원, 회의적인 성격
+#cast: Edith | 에디트 크뤼거 · 83세
+#read: 접속법 1식 3인칭 단수는 -e로 끝난다: sie habe [ˈhaːbə], er sei [zaɪ̯], sie dürfe, er wisse. 평서문 어미 -t(hat, ist, darf, weiß)와 대비해 읽는다.
+#read: 소문의 sollen은 강세 없이: „Nordwert SOLL …"이 아니라 „Nordwert soll in FRIEDrichshain …" — 정보 부분에 힘을 준다.
+#read: 긴 문장은 쉼표에서 숨: „Die Frau am Telefon hat gesagt, | sie dürfe keine Auskunft geben, | weil das Verfahren noch laufe."
+#read: Gerücht [ɡəˈʁʏçt] — ü 다음 ch는 [ç]. Grundbuchamt [ˈɡʁʊntbuːxˌʔamt] — 경계마다 성문 폐쇄음.
+#note: 간접화법(Indirekte Rede): 남의 말을 옮길 때 신문·공식 보고에서는 접속법 1식을 쓴다. „Sie sagt, sie habe keine Zeit." 일상 대화에서는 직설법이나 접속법 2식(würde, hätte)도 흔하다: „Sie hat gesagt, sie hat keine Zeit." 이 화에서는 파울과 슐체 부인이 '보고'하는 장면에서 1식을 쓴다.
+#note: sollen = '~라더라(소문)': „Das Haus soll verkauft werden." (집이 팔린다더라) / „Nordwert soll viele Häuser besitzen." 화자가 정보를 책임지지 않는다는 뜻이다. wollen = '본인이 ~라고 주장한다': „Er will nichts davon wissen."
+#note: 소문 표현: Man sagt, … / Ich habe gehört, dass … / Angeblich … (듣자 하니) / Das ist nur ein Gerücht. / Woher hast du das? / Das ist nicht bewiesen.
+#note: Grundbuch = 토지 등기부. 매매 계약이 공증되면 매수인 앞으로 가등기(Auflassungsvormerkung)가 먼저 들어간다. 세입자는 정당한 이익이 있을 때만 열람할 수 있다.
+#note: Entmietung = 리모델링 소음, 수리 거부, 퇴거 보상금 등으로 기존 세입자를 내보내는 관행을 비판적으로 부르는 말.
+## Stühle für vierzehn Wohnungen | 열네 가구를 위한 의자
+Kalle: Bine, wie viele Stühle haben wir? || 비네, 의자 몇 개 있어?
+Bine: Zweiundzwanzig. Und die Bänke. Wie viele Leute kommen denn? || 스물두 개. 그리고 벤치. 몇 명이나 오는데?
+Kalle: Keine Ahnung. Paul hat in jeden Briefkasten eine Einladung geworfen. Elf Wohnungen, vielleicht zwanzig Leute. || 모르겠어. 파울이 우편함마다 초대장을 넣었거든. 열한 가구니까 아마 스무 명쯤.
+Paul: Achtzehn haben schon in der WhatsApp-Gruppe geantwortet. Und drei haben geschrieben, sie wüssten nicht, ob sie es schaffen. || 단톡방에 벌써 열여덟 명이 답했어요. 그리고 세 명은 올 수 있을지 모르겠다고 했고요.
+Bine: Eine WhatsApp-Gruppe? Seit wann gibt es die? || 단톡방? 그건 언제 생겼어?
+Paul: Seit Sonntag. Sie heißt „Eckhaus bleibt". Frau Krüger hat den Namen ausgesucht. || 일요일부터요. 이름은 „에케하우스는 그대로". 크뤼거 부인이 지으셨어요.
+Kalle: Frau Krüger ist in einer WhatsApp-Gruppe? Vor zwei Monaten wusste sie nicht, was ein Akku ist. || 크뤼거 부인이 단톡방에 있어? 두 달 전엔 배터리가 뭔지도 모르셨잖아.
+Paul: Jetzt schickt sie jeden Morgen um sieben ein Bild. Einen Kaffee mit Sonne. Und einen lachenden … na ja. || 지금은 매일 아침 일곱 시에 사진을 보내세요. 햇살 비치는 커피 한 잔. 그리고 웃는… 뭐, 그거요.
+Bine: Ich weiß, was du meinst. Can hat ihr das beigebracht. || 무슨 말인지 알아. 잔이 가르쳐 줬지.
+Kalle: Und was steht in der Gruppe? Was sagen die Leute? || 그럼 단톡방엔 뭐라고들 써? 사람들이 뭐래?
+Paul: Viele Gerüchte. Einer schreibt, das Haus sei schon verkauft. Eine andere schreibt, Nordwert wolle alles abreißen. || 소문이 많아요. 어떤 사람은 집이 벌써 팔렸다고 쓰고요. 다른 사람은 노르트베르트가 다 허물려고 한다고 쓰고요.
+Kalle: Abreißen? Ein Haus von neunzehnhundertacht? Det dürfen die gar nich. || 허문다고? 1908년에 지은 집을? 그건 하지도 못해.
+Paul: Das weiß ich nicht. Ich gebe nur weiter, was die Leute schreiben. || 그건 저도 모르죠. 저는 사람들이 쓴 걸 전할 뿐이에요.
+Bine: Genau das ist das Problem mit Gerüchten. Jeder gibt nur weiter. || 그게 바로 소문의 문제야. 다들 전하기만 하지.
+Kalle: Deshalb machen wir heute das Treffen. Damit wir wissen, was Fakt ist und was Gerücht. || 그래서 오늘 모임을 하는 거야. 뭐가 사실이고 뭐가 소문인지 알려고.
+Bine: Und wer leitet das Treffen? Du? || 그럼 모임은 누가 진행해? 너?
+Kalle: Ick? Nee. Ick bin der Wirt. Ick mach den Kaffee. Frau Schulze leitet. || 나? 아니. 난 주인이야. 커피나 끓이지. 슐체 부인이 진행해.
+Paul: Weiß Frau Schulze das schon? || 슐체 부인은 그거 알아요?
+Kalle: Noch nich. Aber sie hat eine Mappe dabei. Wer eine Mappe hat, leitet. || 아직 몰라. 근데 서류철을 들고 오실 거야. 서류철 든 사람이 진행하는 거야.
+## Elf Anrufe | 전화 열한 통
+Frau Schulze: Guten Abend, alle zusammen. Ich sehe, es sind siebzehn Personen hier. Das ist gut. Fangen wir an. || 다들 안녕하세요. 열일곱 분이 오셨네요. 좋아요. 시작하죠.
+Kalle: Frau Schulze leitet heute. Wenn jemand dagegen ist, soll er es jetzt sagen. || 오늘은 슐체 부인이 진행합니다. 반대하는 분 있으면 지금 말씀하세요.
+Frau Schulze: Niemand. Gut. Erster Punkt: die Anrufe bei der Hausverwaltung. Herr Hoffmann, Sie haben das gesammelt. || 아무도 없네요. 좋아요. 첫 번째 안건, 관리회사에 건 전화. 호프만 씨가 정리했죠.
+Paul: Ja. Am Montag haben elf Leute angerufen. Sieben sind nicht durchgekommen. Die Leitung war immer besetzt. || 네. 월요일에 열한 명이 전화했어요. 일곱 명은 연결이 안 됐어요. 계속 통화 중이었대요.
+Tobi: Siebenmal besetzt? Am selben Tag? Das ist kein Zufall. || 일곱 번이나 통화 중? 같은 날에? 그건 우연이 아니야.
+Paul: Vier haben jemanden erreicht. Immer dieselbe Frau. Sie hat gesagt, sie dürfe keine Auskunft geben. || 네 명은 누군가와 통화했어요. 늘 같은 여자분이요. 정보를 줄 수 없다고 했대요.
+Derya: Keine Auskunft? Über unser eigenes Haus? || 정보를 못 준다고? 우리 집에 대해서?
+Paul: Sie hat gesagt, die Eigentümer seien „in Gesprächen". Mehr könne sie nicht sagen. Und die Mietverträge seien sicher. || 소유주들이 „협의 중"이라고 했대요. 더 이상은 말할 수 없다고요. 그리고 임대 계약은 안전하다고 했대요.
+Frau Lehmann: Na also. Die Verträge sind sicher. Dann ist doch alles gut. || 그거 봐요. 계약은 안전하대잖아요. 그럼 다 괜찮은 거죠.
+Kalle: „In Gesprächen" heißt aber: Es gibt Gespräche. Also stimmt der Zettel. || 그런데 „협의 중"이라는 건 협의가 있다는 뜻이잖아요. 그러니까 쪽지 내용이 맞는 거죠.
+Frau Lehmann: Oder es heißt gar nichts. Hausverwaltungen sagen immer so etwas. || 아니면 아무 뜻도 없거나요. 관리회사들은 늘 그런 말을 하잖아요.
+Frau Schulze: Frau Lehmann, Sie wohnen im Vorderhaus, oder? Im vierten Stock? || 레만 씨, 앞 동 사시죠? 4층이요?
+Frau Lehmann: Seit acht Jahren. Ich arbeite beim Jobcenter. Ich höre jeden Tag Gerüchte. Die meisten sind falsch. || 팔 년째요. 저는 고용센터에서 일해요. 매일 소문을 들어요. 대부분은 틀린 얘기죠.
+Frau Schulze: Das verstehe ich. Deshalb sammeln wir Fakten. Herr Hoffmann, hat die Frau am Telefon noch etwas gesagt? || 이해해요. 그래서 우리가 사실을 모으는 거예요. 호프만 씨, 전화받은 그 여자분이 또 뭐라고 했어요?
+Paul: Ja. Einer Nachbarin hat sie gesagt, es werde bald eine „Begehung" geben. Mitte Juni. Man werde die Mieter informieren. || 네. 어떤 이웃한테는 곧 „현장 점검"이 있을 거라고 했대요. 6월 중순에요. 세입자들에게 알릴 거라고요.
+Edith: Mitte Juni. Der fünfzehnte. Wie auf meinem Zettel. || 6월 중순. 15일. 내 쪽지에 쓰인 대로네.
+Frau Lehmann: Was für ein Zettel? Ich habe nur einen bekommen. || 무슨 쪽지요? 저는 하나밖에 못 받았는데요.
+Edith: Ich habe zwei bekommen. Der zweite lag unter meiner Tür. Mit dem Namen des Käufers. || 나는 두 장 받았어요. 두 번째는 내 집 문 밑에 있었어요. 매수인 이름이랑 같이요.
+Frau Lehmann: Unter Ihrer Tür? Im vierten Stock? Das ist ja unheimlich. || 문 밑에요? 4층인데요? 그거 섬뜩하네요.
+## Tobi in Britz | 브리츠에 간 토비
+Frau Schulze: Zweiter Punkt. Herr Fischer, Sie waren am Sonntag in Britz. || 두 번째 안건. 피셔 씨, 일요일에 브리츠에 다녀왔죠.
+Tobi: Ja. Ich habe die Adresse von Herrn Pietschs Tochter gefunden. Eine Reihenhaussiedlung. Sehr ordentlich. Sehr ruhig. || 네. 피치 씨 딸 주소를 찾았어요. 연립주택 단지였어요. 아주 깔끔하고. 아주 조용하고요.
+Bine: Und? War er da? || 그래서? 그분 있었어?
+Tobi: Nein. Die Tochter hat aufgemacht. Sie hat gesagt, ihr Vater sei zur Kur. In Bad Kissingen. Für drei Wochen. || 아니. 딸이 문을 열었어. 아버지는 요양 가셨대. 바트 키싱엔에. 삼 주 동안.
+Derya: Zur Kur? Seit wann? || 요양? 언제부터?
+Tobi: Seit zehn Tagen, hat sie gesagt. || 열흘 전부터래요.
+Frau Schulze: Seit zehn Tagen. Der erste Zettel kam vor einer Woche. Der zweite vor sechs Tagen. || 열흘 전부터라. 첫 번째 쪽지는 일주일 전에 왔어요. 두 번째는 엿새 전이고.
+Kalle: Dann kann er es nicht gewesen sein. Er war in Bad Kissingen. || 그럼 그 사람일 리가 없네요. 바트 키싱엔에 있었으니까.
+Frau Schulze: Wenn er wirklich in Bad Kissingen ist. || 정말로 바트 키싱엔에 있다면요.
+Tobi: Es gibt noch etwas. Ich habe die Tochter nach der Schreibmaschine gefragt. Ganz nebenbei. || 하나 더 있어요. 딸한테 타자기에 대해 물어봤어요. 지나가는 말처럼요.
+Frau Schulze: Und? || 그래서요?
+Tobi: Sie hat gelacht. Sie sagte, ihr Vater habe die Schreibmaschine beim Umzug mitgenommen. Er schreibe immer noch Briefe damit. Jeden Tag. || 웃더라고요. 아버지가 이사할 때 타자기를 가져왔대요. 아직도 그걸로 매일 편지를 쓰신대요.
+Bine: Also hat er eine Schreibmaschine! || 그럼 타자기가 있다는 거네!
+Tobi: Und dann hat sie gesagt: „Mein Vater hat mit dem Haus nichts mehr zu tun. Bitte lassen Sie ihn in Ruhe." || 그러고 나서 이러더라고요. „아버지는 이제 그 집과 아무 관계도 없어요. 제발 아버지를 가만히 두세요."
+Frau Lehmann: Na bitte. Er hat nichts damit zu tun. || 그거 봐요. 그분은 아무 관계 없대잖아요.
+Frau Schulze: Das sagt die Tochter, Frau Lehmann. Nicht er. || 그건 딸이 한 말이에요, 레만 씨. 그분이 한 말이 아니고요.
+Edith: Und warum sagt sie „bitte lassen Sie ihn in Ruhe"? Niemand hat ihn beschuldigt. || 그리고 왜 „제발 가만히 두세요"라고 했을까요? 아무도 그분을 탓하지 않았는데.
+Tobi: Genau das habe ich auch gedacht. Auf dem ganzen Rückweg. Zwölf Kilometer mit dem Lastenrad. || 저도 바로 그렇게 생각했어요. 돌아오는 길 내내요. 화물자전거로 12킬로미터를요.
+Derya: Herr Pietsch war immer nett zu Can. Er hat ihm einmal ein Fahrradventil geschenkt. Ich glaube, er mag uns. || 피치 씨는 잔한테 늘 친절했어요. 한번은 자전거 밸브를 선물해 줬죠. 그분은 우리를 좋아하는 것 같아요.
+Frau Schulze: Ich glaube das auch. Aber Glauben ist kein Wissen. Wir lassen ihn erst einmal in Ruhe. Wie die Tochter gesagt hat. || 나도 그렇게 생각해요. 하지만 믿는 것과 아는 것은 달라요. 일단은 가만히 둬요. 딸이 말한 대로요.
+## Was man so hört | 들리는 말들
+Frau Lehmann: Darf ich jetzt etwas sagen? Ich finde, wir machen uns alle verrückt. Wegen zwei Zetteln. || 이제 저도 한마디 해도 될까요? 우리가 다 쪽지 두 장 때문에 미쳐 가는 것 같아요.
+Derya: Zwei Zettel und ein Anruf. Und drei leere Wohnungen. Das ist nicht nichts. || 쪽지 두 장에 전화 한 통이요. 그리고 빈집 세 채. 그건 아무것도 아닌 게 아니에요.
+Frau Lehmann: Leere Wohnungen gibt es überall. Vielleicht findet die Hausverwaltung keine Handwerker. || 빈집은 어디에나 있어요. 관리회사가 수리공을 못 구한 걸 수도 있죠.
+Derya: Ich habe gestern im Krankenhaus mit einer Kollegin gesprochen. Sie wohnt in Friedrichshain. Nordwert soll dort vor zwei Jahren ein Haus gekauft haben. || 어제 병원에서 동료랑 얘기했어요. 프리드리히스하인에 사는 사람이에요. 노르트베르트가 거기서 이 년 전에 건물을 하나 샀대요.
+Tobi: Und dann? || 그다음엔요?
+Derya: Danach soll es eine Sanierung gegeben haben. Ein Jahr lang Baustelle. Kein Wasser, kein Strom, wochenlang. Die Hälfte der Mieter soll ausgezogen sein. || 그다음에 리모델링을 했대요. 일 년 내내 공사판. 몇 주씩 물도 안 나오고 전기도 끊기고. 세입자 절반이 이사 나갔대요.
+Frau Lehmann: „Soll". „Soll ausgezogen sein." Haben Sie das selbst gesehen? || „~래요". „이사 나갔대요." 직접 보셨어요?
+Derya: Nein. Aber meine Kollegin hat es gesehen. Sie wohnt im Nachbarhaus. || 아니요. 하지만 제 동료가 봤어요. 그 옆 건물에 살거든요.
+Frau Lehmann: Ihre Kollegin hat gesehen, dass die Leute ausziehen. Aber weiß sie, warum? || 동료분은 사람들이 이사 나가는 걸 본 거죠. 하지만 왜 나갔는지도 알아요?
+Bine: Frau Lehmann, warum verteidigen Sie Nordwert? Arbeiten Sie für die? || 레만 씨, 왜 노르트베르트 편을 들어요? 거기서 일해요?
+Frau Lehmann: Ich verteidige niemanden. Ich will nur keine Panik. Ich habe zwei Kinder. Wenn ich jeden Abend Angst habe, schlafen sie auch nicht. || 아무 편도 안 들어요. 공황 상태가 싫을 뿐이에요. 저는 애가 둘이에요. 제가 매일 밤 겁에 질려 있으면 애들도 못 자요.
+Edith: Da hat sie recht. Angst ist ansteckend. Wie Schnupfen. || 그 말은 맞아요. 두려움은 옮아요. 코감기처럼.
+Kalle: Aber Wegschauen ist auch gefährlich. Uschi hat weggeschaut. Und jetzt macht sie zu. || 그래도 외면하는 것도 위험해요. 우시는 외면했어요. 그리고 지금 문을 닫잖아요.
+Frau Lehmann: Ich schaue nicht weg. Ich schaue genau hin. Ich will Beweise, keine Geschichten. || 저 외면하는 거 아니에요. 똑바로 보는 거예요. 이야기가 아니라 증거를 원하는 거예요.
+Frau Schulze: Dann sind wir uns ja einig, Frau Lehmann. Ich will auch Beweise. Deshalb komme ich jetzt zum dritten Punkt. Das Grundbuch. || 그럼 우리 생각이 같네요, 레만 씨. 나도 증거를 원해요. 그래서 이제 세 번째 안건으로 넘어갈게요. 등기부요.
+## Fakten aus dem Grundbuch | 등기부에서 나온 사실
+Frau Schulze: Ich habe mit einer ehemaligen Kollegin gesprochen. Sie arbeitet jetzt beim Amtsgericht. Am Grundbuchamt. || 예전 동료와 얘기했어요. 지금 지방법원 등기소에서 일하는 사람이에요.
+Paul: Darf sie Ihnen denn etwas sagen? Ist das nicht geheim? || 그분이 부인한테 뭘 알려 줘도 돼요? 그거 비밀 아니에요?
+Frau Schulze: Sie hat mir nichts Geheimes gesagt. Sie hat nur erklärt, wie es normalerweise läuft. Und sie hat gesagt, ich solle einen Antrag stellen. Als Mieterin. || 비밀은 하나도 안 알려 줬어요. 보통 어떻게 진행되는지만 설명해 줬지요. 그리고 세입자로서 열람 신청을 하라고 했어요.
+Kalle: Und? Haben Sie? || 그래서요? 하셨어요?
+Frau Schulze: Am Dienstag. Mit einer Begründung: Ich habe ein berechtigtes Interesse. Und gestern kam die Antwort. || 화요일에요. 이유를 붙여서요. 정당한 이익이 있다고. 그리고 어제 답이 왔어요.
+Derya: Was steht drin? || 뭐라고 쓰여 있어요?
+Frau Schulze: Erstens: Eigentümer ist immer noch die Erbengemeinschaft Wendt. Das Haus ist noch nicht verkauft. || 첫째, 소유주는 아직 벤트 상속인 공동체예요. 집은 아직 팔리지 않았어요.
+Frau Lehmann: Sehen Sie! Noch nicht verkauft. || 거봐요! 아직 안 팔렸잖아요.
+Frau Schulze: Zweitens: Es gibt noch keine Vormerkung für einen Käufer. Das heißt: Es gibt noch keinen Vertrag beim Notar. || 둘째, 아직 매수인 앞으로 가등기가 없어요. 공증인 앞에서 맺은 계약이 아직 없다는 뜻이에요.
+Tobi: Noch nicht. Aber das kann schnell gehen, oder? || 아직은요. 그래도 그건 금방 될 수도 있죠?
+Frau Schulze: Ja. Wenn die Erben und Nordwert sich einig sind, kann es in ein paar Wochen passieren. || 그래요. 상속인들과 노르트베르트가 합의하면 몇 주 안에 될 수도 있어요.
+Edith: Dann haben wir noch Zeit. || 그럼 아직 시간이 있네요.
+Frau Schulze: Ein bisschen. Und ich habe eine Idee. Wir schreiben den Erben. Direkt. Nicht der Hausverwaltung. Allen drei. || 조금은요. 그리고 나한테 생각이 있어요. 상속인들한테 편지를 쓰는 거예요. 직접요. 관리회사 말고. 세 명 모두한테요.
+Bine: Wissen Sie, wo sie wohnen? || 어디 사는지 아세요?
+Frau Schulze: München, Hamburg, Zürich. Die Adressen stehen auf alten Briefen an die Mieter. Von der Beerdigung von Herrn Wendt. || 뮌헨, 함부르크, 취리히요. 벤트 씨 장례식 때 세입자들한테 보낸 옛날 편지에 주소가 있어요.
+Kalle: Und was schreiben wir? || 그럼 뭐라고 쓰죠?
+Frau Schulze: Dass hier Menschen wohnen. Seit zweiundfünfzig Jahren, seit acht Jahren, seit drei Monaten. Dass ihr Vater dieses Haus geliebt hat. Und dass wir mit ihnen reden wollen. Bevor sie verkaufen. || 여기에 사람들이 산다고요. 오십이 년째, 팔 년째, 석 달째. 그분들 아버지가 이 집을 사랑했다고. 그리고 팔기 전에 이야기를 나누고 싶다고요.
+Frau Lehmann: … Das ist eine gute Idee. Das unterschreibe ich. || …그건 좋은 생각이네요. 그건 저도 서명할게요.
+Kalle: Frau Lehmann unterschreibt! Det is ja ein Wunder. || 레만 씨가 서명한대요! 이거 기적이네.
+Frau Lehmann: Ich unterschreibe Fakten und Höflichkeit, Herr Kowalski. Keine Gerüchte. || 사실과 예의에는 서명해요, 코발스키 씨. 소문에는 안 하고요.
+Frau Schulze: Gut. Abstimmung: Wer ist für den Brief an die Erben? … Siebzehn von siebzehn. Einstimmig. || 좋아요. 표결합니다. 상속인들에게 편지 보내는 데 찬성하는 분? …열일곱 명 중 열일곱 명. 만장일치예요.
+## Nach dem Treffen | 모임이 끝나고
+Frau Lehmann: Frau Yıldız? Haben Sie einen Moment? || 이을드즈 씨? 잠깐 시간 있어요?
+Derya: Ja, natürlich. || 네, 그럼요.
+Frau Lehmann: Ich war vorhin ziemlich unfreundlich. Wegen Ihrer Kollegin. Das tut mir leid. || 아까 꽤 퉁명스러웠죠. 동료분 얘기 때문에요. 미안해요.
+Derya: Schon gut. Sie haben ja recht. Ich habe es nicht selbst gesehen. || 괜찮아요. 맞는 말씀이었어요. 제가 직접 본 건 아니니까요.
+Frau Lehmann: Könnten Sie Ihre Kollegin fragen, ob sie mit uns spricht? Ich würde gern hören, was genau passiert ist. Von ihr selbst. || 동료분한테 우리랑 얘기해 줄 수 있는지 물어봐 주실래요? 정확히 무슨 일이 있었는지 직접 듣고 싶어요.
+Derya: Das mache ich. Sie hat bestimmt Zeit. Sie ist froh, wenn jemand zuhört. || 그럴게요. 분명 시간 낼 거예요. 누가 들어 주면 좋아할 거예요.
+Frau Lehmann: Gut. Dann sind es keine Gerüchte mehr. Dann sind es Zeugen. || 좋아요. 그러면 더 이상 소문이 아니죠. 증인이 되는 거예요.
+Derya: Und Ihre Kinder? Wie alt sind sie? Mein Sohn ist zehn. || 그런데 아이들은요? 몇 살이에요? 우리 아들은 열 살이에요.
+Frau Lehmann: Elf und vierzehn. Vielleicht kennen sie sich ja vom Hof. Kommen Sie doch mal mit Can auf einen Kaffee. Vierter Stock, vorne. || 열한 살이랑 열네 살이요. 어쩌면 안마당에서 서로 알지도 몰라요. 언제 잔이랑 커피 마시러 오세요. 앞 동 4층이에요.
+Paul: Das war gut, oder? Siebzehn von siebzehn. || 잘된 거죠? 열일곱 명 중 열일곱 명.
+Edith: Das war sehr gut. Frau Schulze hätte Bürgermeisterin werden sollen. || 아주 잘됐지요. 슐체 부인은 시장이 됐어야 했어요.
+Derya: Und Frau Lehmann? Ich war am Anfang sauer auf sie. Jetzt bin ich nicht mehr so sicher. || 그리고 레만 씨는요? 처음엔 화가 났는데, 이제는 잘 모르겠어요.
+Edith: Sie hat Angst. Wie wir alle. Sie zeigt es nur anders. Mit Fragen statt mit Tränen. || 그 사람도 무서운 거예요. 우리 모두처럼. 다르게 보여 줄 뿐이지. 눈물 대신 질문으로.
+Paul: Sie hat gesagt, sie habe zwei Kinder. Ich wusste nicht mal, dass im vierten Stock Kinder wohnen. Wir wohnen im selben Haus und kennen uns nicht. || 애가 둘 있다고 했잖아요. 4층에 애들이 사는 줄도 몰랐어요. 같은 집에 살면서 서로를 몰라요.
+Edith: Früher kannten sich alle. Man hat sich im Treppenhaus gegrüßt. Man hat Eier geliehen. || 예전엔 다들 서로 알았어요. 계단에서 인사하고. 달걀을 빌려주고.
+Paul: Vielleicht ist das das Gute an diesem Zettel. Jetzt reden wir miteinander. || 어쩌면 그게 이 쪽지의 좋은 점일지도 몰라요. 이제 우리가 서로 이야기하잖아요.
+Edith: Herr Hoffmann, Sie sind auch ein Optimist. Wie Can. || 호프만 씨도 낙관주의자네요. 잔처럼.
+Derya: Can hat übrigens gefragt, ob er beim nächsten Treffen mitkommen darf. Er will seine achtundachtzig Euro mitbringen. || 그건 그렇고 잔이 다음 모임에 와도 되냐고 물어봤어요. 88유로를 가져오고 싶대요.
+Edith: Sag ihm: Das Geld soll er behalten. Aber er soll kommen. Kinder sollten hören, wie Erwachsene streiten. Und sich wieder vertragen. || 잔한테 전해. 돈은 가지고 있으라고. 대신 오라고. 아이들은 어른들이 다투고 다시 화해하는 걸 들어야 해.
+Paul: Und am fünfzehnten? Wenn Nordwert kommt? || 그럼 15일엔요? 노르트베르트가 오면요?
+Derya: Dann sind wir da. Alle. Mit Kaffee und mit Fragen. || 그땐 우리가 다 있을 거예요. 커피랑 질문들을 들고.
+Edith: Und mit Käsekuchen. Frau Schulze hat schon gesagt, sie backt. Zwölf Stücke. || 그리고 치즈케이크도. 슐체 부인이 벌써 굽겠다고 했어요. 열두 조각.
+Paul: Für Nordwert? || 노르트베르트한테요?
+Edith: Nein. Für uns. Nordwert bekommt nichts. Nicht mal einen Krümel. || 아니요. 우리를 위해서죠. 노르트베르트는 아무것도 못 받아요. 부스러기 하나도요.
+Derya: Krümel bekommt er auch nicht. Den behält Frau Schulze. || 크뤼멜도 못 받죠. 그건 슐체 부인이 데리고 있을 거니까요.
+Edith: Richtig. Den behält sie. Gute Nacht, ihr beiden. Und danke, Herr Hoffmann. Für die Einladung. Mit Namen. || 맞아. 그건 데리고 있겠지. 잘 자요, 두 사람. 그리고 고마워요, 호프만 씨. 초대장 고마웠어요. 이름 넣어서 쓴 거.
