@@ -1,0 +1,157 @@
+#nr: 75
+#part: 5부 Neuer Frühling (이듬해 봄)
+#title: Wer hat das Sagen?
+#ko: 누가 결정하는가 · 약속과 절차 사이
+#level: B2~C1
+#setting: 4월 8일 목요일. 집이 우리 것이 되자 첫 번째 진짜 갈등이 찾아온다. 빈집은 셋. 앞 동 5층, 공방 위층, 그리고 15일 에디트가 1층으로 내려가면 비는 곁채 4층. 칼레는 어젯밤, 토비 공방에서 일하게 된 보이텍에게 '에디트의 옛집은 네 거야'라고 말해 버렸다. 배정 위원회도 모르게. 감사회의 레만 부인이 크나이페 문을 열고 들어온다. 손에는 정관을 들고. 이사회는 왕이 아니다. 하지만 사람은 누구나 자기 '후보'가 있다. 비네는 핀을, 휘세인은 사촌을, 레아는 우크라이나 가족을. 표현 초점: 비판과 자기비판, 규칙과 예외 논쟁, 사과하고 책임지는 법, 합의 형성.
+#cast: Wojtek | 보이텍 · 50대
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Frau Lehmann | 카트야 레만 · 52세, 감사회·배정 위원회
+#cast: Kalle | 칼레 코발스키 · 58세, 이사
+#cast: Jana | 야나 코발스키 · 34세, 이사
+#cast: Derya | 데르야 이을드즈 · 40세, 이사
+#cast: Frau Schulze | 잉그리트 슐체 · 62세, 감사회
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Hüseyin | 휘세인 이을드즈 · 65세, 배정 위원회
+#cast: Lea | 레아 바그너 · 28세
+#cast: Edith | 에디트 크뤼거 · 84세 직전
+#cast: Herr Pietsch | 귄터 피치 · 71세, 감사회
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Frau Albers | 헬가 알버스 · 61세, 배정 위원회 외부 위원
+#read: 비판의 어조(레만 부인): 사람이 아니라 행동을 비판한다. „Ich kritisiere nicht dich. Ich kritisiere, was du getan hast." — dich와 getan에 강세.
+#read: 자기비판(칼레): 변명 없이 짧게. „Ich habe einen Fehler gemacht. Ohne Wenn und Aber." — Fehler에서 멈춘다.
+#read: 규칙의 낭독: „Paragraf siebzehn, Absatz eins: Über die Vergabe freier Wohnungen entscheidet die Vergabekommission." — 정관 문장은 감정 없이, 또박또박.
+#read: Vergabekommission [fɛɐ̯ˈɡaːbəkɔmɪˌsi̯oːn], Vetternwirtschaft [ˈfɛtɐnˌvɪʁtʃaft], Ausschreibung [ˈaʊ̯sˌʃʁaɪ̯bʊŋ], Befangenheit [bəˈfaŋənhaɪ̯t].
+#note: Vetternwirtschaft(연고주의, 친척 챙기기) = 자기 사람에게 일자리나 집을 몰래 나눠 주는 것. 협동조합이나 공공 기관에서 특히 경계한다. 비슷한 말: Klüngel(패거리), Kungelei(뒷거래), jemandem etwas zuschanzen(…에게 몰래 챙겨 주다).
+#note: 협동조합의 권력 분립: Vorstand(이사회) = 업무 집행, Aufsichtsrat(감사회) = 감독, Mitgliederversammlung(총회) = 최고 결정, Kommissionen(위원회) = 정관이 맡긴 특정 결정. 이사회도 위원회의 권한을 침범할 수 없다. „Der Vorstand ist kein König."
+#note: 비판과 사과: Das war nicht in Ordnung. / Ich kritisiere das Verfahren, nicht die Person. / Du hast deine Befugnisse überschritten. (권한을 넘었다) / Ich entschuldige mich. Ohne Wenn und Aber. (조건 없이 사과한다) / Ich übernehme die Verantwortung. / Das kommt nicht wieder vor.
+#note: Befangenheit(이해 충돌): 자기 친척이나 친구가 관련된 결정에서는 빠져야 한다. Ich erkläre mich für befangen. (이해관계가 있어 빠지겠다) / Bei dieser Entscheidung enthalte ich mich.
+#note: 공개 모집(Ausschreibung): 빈집이 생기면 기준과 마감일을 공개하고 누구나 지원할 수 있게 한다. 투명성(Transparenz)과 공정성(Fairness)의 기본.
+## Morgens in der Werkstatt | 아침, 공방에서
+Wojtek: Tobi. Ich muss dir etwas erzählen. Ich habe heute Nacht nicht geschlafen. Im Wohnheim. Vor Freude. || 토비. 할 말이 있어. 어젯밤 한숨도 못 잤어. 숙소에서. 기뻐서.
+Tobi: Vor Freude? Wegen dem Job? Ab Mai? || 기뻐서요? 일자리 때문에요? 5월부터 하는 거요?
+Wojtek: Nein. Wegen einer Wohnung. Kalle hat es mir gestern Abend gesagt. An der Bar. Nach dem dritten Bier. Nein, nach dem zweiten. Er hat gesagt: Wojtek, wenn Edith am fünfzehnten runterzieht, dann ist ihre alte Wohnung frei. Und die ist deine. Mit Bruno. || 아니. 집 때문에. 칼레가 어젯밤에 그러더라. 바에서. 세 번째 맥주 마시고. 아니, 두 번째였나. 그러더라고. 보이텍, 에디트가 15일에 아래층으로 내려가면 그 옛집이 비잖아. 그거 네 거야. 브루노랑 같이.
+Tobi: … Kalle hat das gesagt? Einfach so? || …칼레 아저씨가 그렇게 말했어요? 그냥요?
+Wojtek: Einfach so. Zwei Zimmer. Achtundfünfzig Quadratmeter. Mit Blick auf die Kastanie. Ich habe drei Jahre unter einer Brücke gewohnt, Tobi. Und dann kommt ein Mann mit einer Ecke und sagt: Die Wohnung ist deine. || 그냥 그렇게. 방 두 개. 58제곱미터. 밤나무 보이는 데. 나 삼 년 동안 다리 밑에서 살았어, 토비. 그런데 모퉁이 가진 남자가 와서 그러는 거야. 그 집 네 거라고.
+Tobi: Wojtek. Ich freue mich. Ehrlich. Aber … hat die Vergabekommission das entschieden? Katja? Hüseyin? Frau Albers? || 보이텍 아저씨. 저도 기뻐요. 진짜로요. 그런데… 배정 위원회가 결정한 거예요? 카트야 아주머니? 휘세인 할아버지? 알버스 아주머니?
+Wojtek: Was ist eine Vergabekommission? || 배정 위원회가 뭐야?
+Tobi: Die entscheidet, wer welche Wohnung bekommt. Nicht Kalle. Paragraf siebzehn. Das steht in der Satzung. Wir haben es im Dezember beschlossen. Alle. Mit Kalle. || 누가 어느 집에 들어갈지 정하는 데요. 칼레 아저씨가 아니라. 제17조요. 정관에 있어요. 12월에 다 같이 의결했어요. 칼레 아저씨도 같이요.
+Wojtek: … Dann hat Kalle mir etwas versprochen, was er nicht versprechen darf. || …그럼 칼레가 약속하면 안 되는 걸 나한테 약속한 거네.
+Tobi: Ich weiß es nicht. Vielleicht hat er schon mit der Kommission gesprochen. Vielleicht nicht. Ich frage ihn. Heute. || 모르겠어요. 위원회랑 벌써 얘기했을 수도 있고요. 아닐 수도 있고요. 물어볼게요. 오늘요.
+Wojtek: Nein. Frag nicht. Wenn du fragst, und es ist nicht erlaubt, dann nimmt er es zurück. Und dann bin ich wieder … dann habe ich wieder nichts. Lass mich noch einen Tag glauben. Einen Tag. || 아니. 묻지 마. 물어봤는데 그게 안 되는 거면 칼레가 취소할 거잖아. 그러면 나는 다시… 다시 아무것도 없게 되는 거야. 하루만 더 믿게 해 줘. 하루만.
+Tobi: Wojtek … || 보이텍 아저씨…
+Wojtek: Ich weiß, wie Hoffnung schmeckt. Sie schmeckt gut. Am ersten Tag. Am zweiten schmeckt sie nach Angst. Lass mich den ersten Tag haben. || 나는 희망이 무슨 맛인지 알아. 맛있지. 첫날에는. 둘째 날부터는 두려움 맛이 나. 첫날은 나한테 줘.
+Tobi: … Ich sage nichts. Heute. Aber Katja wird es merken. Katja merkt alles. Sie ist Skeptikerin. || …아무 말 안 할게요. 오늘은요. 그런데 카트야 아주머니가 알아챌 거예요. 그분은 뭐든 알아채요. 회의론자잖아요.
+Wojtek: Dann hatte ich wenigstens einen halben Tag. Das ist mehr als unter der Brücke. || 그럼 적어도 반나절은 가진 거지. 다리 밑에서보단 많아.
+## Katja kommt | 카트야가 오다
+Frau Lehmann: Kalle. Hast du fünf Minuten? Nein. Du hast fünf Minuten. Setz dich. || 칼레. 오 분 시간 있어? 아니. 오 분 내. 앉아.
+Kalle: Katja? Wat ist los? Du hast die Satzung in der Hand. Det ist nie ein gutes Zeichen. || 카트야? 무슨 일이야? 정관을 들고 있네. 그건 절대 좋은 징조가 아닌데.
+Frau Lehmann: Wojtek hat heute Morgen im Wohnheim seiner Sozialarbeiterin erzählt, dass er ab nächster Woche eine Wohnung hat. Im Eckhaus. Die Sozialarbeiterin hat mich angerufen. Weil ich die Postadresse vermittelt habe. Sie hat gefragt, ob sie ihn aus dem Wohnheim abmelden soll. || 보이텍이 오늘 아침 숙소에서 사회 복지사한테 다음 주부터 집이 생긴다고 말했대. 에케하우스에. 그 사회 복지사가 나한테 전화했어. 내가 우편 주소를 연결해 줬으니까. 보이텍을 숙소에서 퇴소 처리해야 하냐고 묻더라.
+Kalle: … Ah. || …아.
+Frau Lehmann: „Ah." Mehr hast du nicht zu sagen? Kalle. Hast du Wojtek Ediths Wohnung versprochen? || „아." 할 말이 그게 다야? 칼레. 보이텍한테 에디트 집 약속했어?
+Kalle: Ick habe … ja. Gestern. An der Bar. Er hat von der Brücke erzählt. Vom Winter. Von Bruno, der drei Tage nichts gegessen hat. Und ick dachte: Ediths Wohnung wird frei. Er arbeitet ab Mai bei Tobi. Er gehört zum Haus. Wer soll sie denn sonst bekommen? || 내가… 응. 어제. 바에서. 다리 얘기를 하더라고. 겨울 얘기. 사흘 동안 아무것도 안 먹은 브루노 얘기. 그래서 생각했지. 에디트 집이 빈다. 이 사람은 5월부터 토비네서 일한다. 이 집 사람이다. 그럼 달리 누가 그 집을 받아?
+Frau Lehmann: Das entscheidet die Vergabekommission. Nicht du. Paragraf siebzehn, Absatz eins. „Über die Vergabe freier Wohnungen entscheidet die Vergabekommission nach den Kriterien des Absatzes zwei." Ich bin in der Kommission. Hüseyin ist in der Kommission. Frau Albers ist in der Kommission. Du nicht. || 그건 배정 위원회가 결정해. 네가 아니라. 제17조 1항. „빈집의 배정은 2항의 기준에 따라 배정 위원회가 결정한다." 나 위원회야. 휘세인도 위원회고. 알버스 씨도 위원회고. 너는 아니야.
+Kalle: Ick weiß. Aber Katja. Er ist obdachlos gewesen. Drei Jahre. Bei minus fünfzehn. Wer hat denn mehr Dringlichkeit als er? Ihr hättet ihn sowieso genommen. || 알아. 그런데 카트야. 이 사람 노숙했었어. 삼 년 동안. 영하 15도에서. 이 사람보다 더 급한 사람이 어디 있어? 너희도 어차피 이 사람 뽑았을 거잖아.
+Frau Lehmann: Vielleicht. Wahrscheinlich sogar. Aber das ist nicht der Punkt. Ich kritisiere nicht deine Wahl. Ich kritisiere, was du getan hast. Du hast etwas versprochen, was dir nicht gehört. Ein Vorstand ist kein König. || 그럴지도. 아마 그랬겠지. 그런데 그게 요점이 아니야. 나는 네 선택을 비판하는 게 아니야. 네가 한 일을 비판하는 거야. 너는 네 것이 아닌 걸 약속했어. 이사회는 왕이 아니야.
+Kalle: Kein König. Ick bin Kneipenwirt. Ick bin nie König gewesen. || 왕이 아니라니. 나 크나이페 주인이야. 왕이었던 적 한 번도 없어.
+Frau Lehmann: In der Kneipe schon. Fünfundzwanzig Jahre lang. Hier entscheidest du, wer anschreiben darf. Wer Hausverbot bekommt. Wer eine Gratis-Bulette kriegt. Das ist in Ordnung. Das ist deine Kneipe. Aber das Haus ist nicht deine Kneipe, Kalle. Das Haus gehört fünfunddreißig Menschen. || 가게에선 왕이었지. 이십오 년 동안. 여기선 누가 외상 달 수 있는지 네가 정하잖아. 누가 출입 금지 당할지. 누가 공짜 불레테 받을지. 그건 괜찮아. 네 가게니까. 그런데 집은 네 가게가 아니야, 칼레. 집은 서른다섯 명의 것이야.
+Kalle: … Det tut weh, Katja. || …그거 아프다, 카트야.
+Frau Lehmann: Ich weiß. Deshalb sage ich es dir allein. Hier. Nicht vor allen. Ich habe im März gegen den Vergleich gestimmt. Und es vorher allen gesagt. Damit niemand überrascht wird. Jetzt sage ich dir etwas vorher. Damit du es reparieren kannst. Bevor es alle wissen. || 알아. 그래서 너한테만 따로 말하는 거야. 여기서. 모두 앞에서가 아니라. 3월에 나는 합의안에 반대표를 던졌지. 그리고 미리 다들한테 말했어. 아무도 놀라지 않게. 이번엔 너한테 미리 말하는 거야. 네가 바로잡을 수 있게. 다들 알기 전에.
+Jana: Papa. Ist das wahr? Du hast Wojtek eine Wohnung versprochen? Ohne uns? Ohne den Vorstand? || 아빠. 그거 사실이에요? 보이텍 씨한테 집을 약속했어요? 우리 없이요? 이사회 없이요?
+Kalle: Ihr wart nicht da. Es war elf Uhr abends. Und er hat geweint. Fast. || 너희 없었잖아. 밤 열한 시였고. 그리고 그 사람 울었어. 거의.
+Jana: Und wenn morgen jemand weint, dem du gestern nichts versprochen hast? Bekommt der dann auch eine Wohnung? Wir haben drei. Nicht dreißig. || 그럼 내일 아빠가 어제 아무것도 약속 안 한 누군가가 울면요? 그 사람도 집을 받아요? 우리한텐 세 채가 있어요. 서른 채가 아니라.
+## Der Vorstand | 이사회
+Derya: Ich habe es von Tobi gehört. Er wollte es nicht sagen. Aber er hat so geguckt, dass ich gefragt habe. Kalle. Warum hast du nicht mit uns gesprochen? Wir sind zu dritt. || 토비한테 들었어요. 말 안 하려고 했는데. 표정이 그래서 내가 물어봤어요. 칼레. 왜 우리랑 얘기 안 했어요? 우리 셋이잖아요.
+Kalle: Weil ick wusste, dass ihr Nein sagt. Nicht zu Wojtek. Zum Weg. Ihr hättet gesagt: Kommission. Ausschreibung. Kriterien. Fristen. Und bis dahin ist Wojtek wieder unter der Brücke. || 너희가 안 된다고 할 줄 알았으니까. 보이텍한테가 아니라. 그 방식에. 너희가 그랬겠지. 위원회. 공개 모집. 기준. 기한. 그러다 보면 보이텍은 다시 다리 밑에 가 있을 거고.
+Derya: Er ist nicht unter der Brücke. Er hat ein Zimmer im Wohnheim. Bis Ende Juni. Katja hat das organisiert. Er hat ein Dach. Kein schönes. Aber ein Dach. Wir haben Zeit für ein faires Verfahren. || 다리 밑에 있지 않아요. 숙소에 방이 있어요. 6월 말까지요. 카트야가 마련해 줬잖아요. 지붕은 있어요. 좋은 지붕은 아니지만. 그래도 지붕이에요. 공정한 절차를 밟을 시간은 있어요.
+Kalle: Ein faires Verfahren. Für einen Mann, der drei Jahre lang kein faires Verfahren hatte. Det ist ein Witz, Derya. || 공정한 절차라. 삼 년 동안 공정한 절차 같은 건 받아 본 적 없는 사람을 위해서. 그거 웃기는 소리야, 데르야.
+Derya: Nein. Genau deshalb. Gerade für ihn. Wojtek soll nicht eine Wohnung bekommen, weil Kalle ihn an der Bar mag. Er soll sie bekommen, weil er sie am dringendsten braucht. Nach Kriterien. Schwarz auf weiß. Dann kann sie ihm niemand wegnehmen. Nie. Auch nicht, wenn du dich mal mit ihm streitest. || 아니요. 바로 그래서예요. 그 사람이니까요. 보이텍이 칼레가 바에서 그 사람을 좋아해서 집을 받으면 안 돼요. 그 사람이 제일 급하게 필요해서 받아야 해요. 기준에 따라서요. 서류로 남겨서요. 그래야 아무도 그 사람한테서 그걸 뺏을 수 없어요. 절대로요. 칼레가 언젠가 그 사람이랑 싸우더라도요.
+Kalle: Ick streite mich nicht mit Wojtek. || 나 보이텍이랑 안 싸워.
+Jana: Papa. Du hast dich mit Uschi gestritten. Zweitausendvierzehn. Wegen der Skatrunde. Ein Jahr lang Hausverbot. Und mit mir drei Weihnachten lang. Du streitest dich mit allen. Irgendwann. || 아빠. 우시 아주머니랑도 싸웠잖아요. 2014년에요. 스카트 모임 때문에요. 일 년 동안 출입 금지였어요. 그리고 저랑은 크리스마스 세 번 동안 그랬고요. 아빠는 누구랑이든 싸워요. 언젠가는요.
+Kalle: … Det war ein Missverständnis. Mit Uschi. || …우시랑은 오해였어.
+Frau Schulze: Darf ich als Aufsichtsrat etwas ergänzen? Kalle, es gibt noch ein Problem. Ein juristisches. Wenn du als Vorstand mündlich eine Wohnung zusagst, kann man das als Vorvertrag auslegen. Wojtek könnte dich daraus verklagen. Nicht, dass er es tut. Aber er könnte. || 감사회로서 한마디 보태도 될까요? 칼레, 문제가 하나 더 있어요. 법적인 거요. 이사가 말로 집을 약속하면 그걸 예약 계약으로 해석할 수도 있어요. 보이텍이 그걸로 당신을 고소할 수도 있다고요. 그럴 사람이라는 게 아니라. 할 수는 있다는 거죠.
+Kalle: Wojtek verklagt mich nicht. Er hat drei Jahre unter einer Brücke gewohnt und niemanden verklagt. || 보이텍은 나 고소 안 해. 삼 년 동안 다리 밑에 살면서 아무도 고소 안 했어.
+Frau Schulze: Genau. Und deshalb müssen wir ihn schützen. Vor deinem guten Herzen. Gute Herzen machen die meisten juristischen Probleme. Böse Menschen lesen wenigstens das Kleingedruckte. || 바로 그거예요. 그래서 우리가 그 사람을 보호해야 하는 거예요. 당신의 착한 마음으로부터요. 법적인 문제는 대부분 착한 마음이 만들어요. 나쁜 사람들은 적어도 작은 글씨는 읽거든요.
+Derya: Kalle. Ich schlage vor: Du sagst es Wojtek selbst. Heute. Dass du einen Fehler gemacht hast. Dass er sich bewerben kann. Wie alle. Und dass die Kommission entscheidet. Und dann sagst du es heute Abend allen. In der Ecke. Bevor es die Wände tun. || 칼레. 제안할게요. 보이텍한테 직접 말해요. 오늘. 실수했다고. 그 사람도 지원할 수 있다고. 다른 사람들처럼. 그리고 위원회가 결정한다고. 그리고 오늘 저녁엔 모두한테 말해요. 크나이페에서요. 벽들이 먼저 말하기 전에요.
+Kalle: Und wenn er dann nicht ausgewählt wird? Wenn die Kommission jemand anders nimmt? || 그런데 그 사람이 안 뽑히면? 위원회가 다른 사람을 뽑으면?
+Derya: Dann hast du ihm Hoffnung gemacht, die nicht deine war. Und das ist schlimmer als keine Hoffnung. Das weiß er besser als wir. || 그럼 칼레는 칼레 것도 아닌 희망을 그 사람한테 준 거죠. 그리고 그건 희망이 없는 것보다 더 나빠요. 그건 그 사람이 우리보다 더 잘 알아요.
+## Mittags: Edith und ihre Wohnung | 정오: 에디트와 그녀의 집
+Edith: Kalle. Komm rauf. Nein. Bleib unten. Ich komme runter. Erste Pause. Zweite. Dritte. So. Jetzt sind wir auf derselben Höhe. || 칼레. 올라와. 아니. 아래 있어. 내가 내려갈게. 첫 번째 쉼터. 두 번째. 세 번째. 됐다. 이제 같은 높이에 있네.
+Kalle: Edith. Du weißt es schon. Von Katja. Oder von den Wänden. || 에디트. 벌써 알지. 카트야한테 들었거나. 아니면 벽들한테.
+Edith: Von Can. Er weiß alles. Er hat es von Tobi. Tobi hat es von Wojtek. Kalle, warum hast du mich nicht gefragt? Es ist meine Wohnung. Noch. Zweiundfünfzig Jahre. || 잔한테서. 걔는 다 알아. 토비한테 들었대. 토비는 보이텍한테 들었고. 칼레, 왜 나한텐 안 물어봤어? 그거 내 집이야. 아직은. 오십이 년이나.
+Kalle: Weil sie ab dem fünfzehnten nicht mehr deine ist. Dachte ick. || 15일부터는 더 이상 네 집이 아니니까. 그렇게 생각했지.
+Edith: Ab dem fünfzehnten gehört sie dem Haus. Aber bis dahin habe ich eine Meinung. Und meine Meinung ist: Ich will nicht entscheiden, wer nach mir kommt. Das habe ich heute Nacht gedacht. Als Can es mir erzählt hat. || 15일부터는 이 집의 것이지. 그래도 그때까진 나도 생각이 있어. 그리고 내 생각은 이거야. 내 뒤에 누가 올지 나는 정하고 싶지 않아. 어젯밤에 그 생각을 했어. 잔이 얘기해 줬을 때.
+Kalle: Du willst nicht? Warum nicht? Du kennst die Wohnung am besten. || 정하고 싶지 않다고? 왜? 그 집은 네가 제일 잘 알잖아.
+Edith: Gerade deshalb. Wenn ich entscheide, entscheide ich für jemanden, der so ist wie ich. Der die Kastanie von oben sehen will. Der Treppen nicht schlimm findet. Und vielleicht braucht die Wohnung jemand ganz anderen. Ein Kind. Das noch nie eine Kastanie gesehen hat. Aus einem Zimmer mit einem Bett. || 바로 그래서야. 내가 정하면 나 같은 사람을 고를 거야. 밤나무를 위에서 보고 싶어 하는 사람. 계단을 나쁘게 여기지 않는 사람. 그런데 어쩌면 그 집엔 전혀 다른 사람이 필요할지도 몰라. 밤나무를 한 번도 본 적 없는 아이 같은. 침대 하나 있는 방에서 사는.
+Kalle: Du meinst die Kinder aus Charkiw. Von Lea. || 레아가 말한 하르키우 아이들 얘기구나.
+Edith: Ich meine niemanden. Ich darf niemanden meinen. Ich bin die Vormieterin. Vormieter halten den Mund. Das hat Herr Wendt mir neunzehnhundertvierundsiebzig gesagt. Als ich eingezogen bin. Die Frau vor mir wollte, dass ich ihre Gardinen übernehme. Gelbe. Ich habe sie übernommen. Aus Höflichkeit. Zweiundfünfzig Jahre lang. || 아무도 염두에 두지 않아. 염두에 두면 안 되지. 나는 전 세입자야. 전 세입자는 입 다물고 있는 거야. 1974년에 내가 이사 들어올 때 벤트 씨가 그러더라. 내 앞에 살던 여자가 자기 커튼을 물려받으라고 했지. 노란 거. 받았어. 예의상. 오십이 년 동안.
+Kalle: Die gelben Gardinen sind von deiner Vormieterin? Ick dachte, die sind von dir. Die sind weiß geworden … nee, gelb geworden. || 그 노란 커튼이 전 세입자 거였어? 네 건 줄 알았는데. 하얗게 됐… 아니, 노랗게 됐잖아.
+Edith: Sie waren schon gelb. Neunzehnhundertvierundsiebzig. Ich habe nie Nein gesagt. Deshalb nehme ich sie jetzt mit. Und hänge Ayşes blaue auf. Und die nach mir sollen keine Gardinen von mir bekommen. Nichts. Eine leere Wohnung. Frisch gestrichen. Damit sie ihre eigene machen können. || 그때부터 이미 노랬어. 1974년에. 한 번도 싫다고 안 했지. 그래서 이번엔 내가 가져갈 거야. 그리고 아이셰가 지어 준 파란 걸 걸 거고. 그리고 내 뒤에 오는 사람들은 나한테서 커튼을 받으면 안 돼. 아무것도. 빈집이어야 해. 새로 칠한. 자기들 집을 스스로 만들 수 있게.
+Kalle: Eine leere Wohnung. Ohne Erbe. || 빈집이라. 물려받는 것 없이.
+Edith: Ohne Erbe. Nur mit Kastanie. Die gehört allen. Wie das Haus. || 물려받는 것 없이. 밤나무만 있고. 그건 모두의 것이야. 이 집처럼.
+## Jeder hat einen Kandidaten | 다들 후보가 있다
+Bine: Moment. Wenn es jetzt eine Ausschreibung gibt. Für drei Wohnungen. Dann bewirbt sich Finn. Er wird achtzehn. Er macht FSJ. Er verdient vierhundert Euro im Monat. Er muss raus aus meiner Wohnung. Er ist ein Kiez-Kind. Bezug zum Kiez: maximal. || 잠깐. 이제 공개 모집을 한다면. 집 세 채에. 그럼 핀도 지원할 거야. 열여덟 살이잖아. FSJ 하고 있고. 한 달에 사백 유로 벌어. 우리 집에서 나가야 해. 이 동네에서 자란 애야. 동네 연고: 최고점.
+Frau Lehmann: Bine. Du bist seine Mutter. Du kannst ihn nicht vorschlagen. Er kann sich bewerben. Selbst. Ohne dich. || 비네. 너 그 애 엄마잖아. 네가 추천하면 안 돼. 그 애가 지원할 수는 있어. 스스로. 너 없이.
+Bine: Ick schlage ihn nicht vor. Ick informiere nur. Laut. || 추천하는 거 아니야. 그냥 알려 주는 거야. 크게.
+Hüseyin: Und mein Neffe. Murat. Er ist Busfahrer. BVG. Seit zwei Jahren. Er wohnt mit seiner Frau und zwei Kindern in einer Wohnung mit eineinhalb Zimmern. In Marzahn. Er fährt jeden Tag eine Stunde zur Arbeit. Linie neunundzwanzig. Wie Edith. || 그리고 내 조카요. 무라트. 버스 기사예요. BVG. 이 년째요. 아내랑 애 둘이랑 방 한 칸 반짜리 집에 살아요. 마르찬에서요. 매일 한 시간씩 출근해요. 29번 노선이요. 에디트처럼요.
+Frau Lehmann: Hüseyin. Du bist in der Kommission. || 휘세인 씨. 당신 위원회잖아요.
+Hüseyin: … Ich weiß. Dann erkläre ich mich befangen. Bei Murat. Ich enthalte mich. Aber ich habe es gesagt. Damit es auf dem Tisch liegt. Nicht unter dem Tisch. Das hat Katja uns im März beigebracht. || …알아요. 그럼 무라트 건은 이해관계가 있다고 밝히고 빠질게요. 기권할게요. 그래도 말은 했어요. 탁자 위에 올려놓으려고요. 탁자 밑이 아니라. 그건 카트야가 3월에 가르쳐 준 거예요.
+Lea: Ich habe auch jemanden. Nicht für mich. Für die Schule. Familie Kovalenko. Aus Charkiw. Mutter und drei Kinder. Zwei sind in Cans Klasse. Seit zwei Jahren in einer Gemeinschaftsunterkunft. In einem Zimmer. Die Kinder machen Hausaufgaben auf dem Bett. || 나도 있어요. 나를 위해서가 아니라. 학교를 위해서요. 코발렌코 가족이요. 하르키우에서 왔어요. 엄마랑 아이 셋이요. 둘은 잔이랑 같은 반이고요. 이 년째 공동 숙소에 살아요. 방 하나에요. 애들이 침대 위에서 숙제를 해요.
+Can: Oksana und Mykyta! Sie sind in meiner Klasse! Mykyta ist besser in Mathe als ich! Und er hat kein Zimmer! || 옥사나랑 미키타요! 우리 반이에요! 미키타가 저보다 수학을 잘해요! 그런데 방이 없어요!
+Frau Schulze: Und Nele. Die Lehrerin aus Rixdorf. Die mit der sechsjährigen Tochter. Die bei ihrer Mutter in Lichtenrade wohnt. Seit einem Jahr. Sie hat uns im Juni die leeren Wohnungen beim Bezirk gemeldet. Ohne sie gäbe es keine Zweckentfremdungsakte. || 그리고 넬레도요. 릭스도르프에서 만난 그 교사요. 여섯 살 딸 있는. 리히텐라데 어머니 집에 사는. 일 년째요. 6월에 우리 빈집들을 구청에 신고해 준 사람이에요. 그 사람 아니었으면 용도 전용 서류도 없었을 거예요.
+Edith: Und Herr Wollny. Der achtundachtzig ist. Im Erdgeschoss der Pannierstraße. Sein Vermieter will Eigenbedarf anmelden. Hat Katja gestern erzählt. || 그리고 볼니 씨도요. 여든여덟 살이에요. 파니어 거리 1층에 사는. 집주인이 실거주를 주장하겠대요. 카트야가 어제 얘기해 줬어요.
+Kalle: … Sieben Kandidaten. Drei Wohnungen. Und ick habe gestern Abend einfach … || …후보 일곱 명. 집 세 채. 그런데 나는 어젯밤에 그냥…
+Frau Lehmann: Jetzt verstehst du, warum es eine Kommission gibt, Kalle. Nicht, weil wir dich nicht mögen. Sondern weil jeder in diesem Raum einen Menschen hat, für den er weinen würde. Und die Kommission muss entscheiden, für wen wir zuerst weinen. Das ist das Schwerste an diesem Haus. Schwerer als Nordwert. || 이제 왜 위원회가 있는지 알겠지, 칼레. 우리가 너를 싫어해서가 아니야. 이 방에 있는 사람마다 그를 위해 울어 줄 누군가가 있으니까. 그리고 위원회는 우리가 누구를 위해 먼저 울지 결정해야 해. 그게 이 집에서 제일 어려운 일이야. 노르트베르트보다 더.
+Herr Pietsch: Als Hausmeister habe ich dreißig Jahre gesehen, wie Kiez Hausverwaltung Wohnungen vergeben hat. Nach Telefonaten. Nach Freundschaften. Nach Geld unter dem Tisch. Ich will das nie wieder sehen. Auch nicht aus gutem Herzen, Kalle. || 관리인으로 삼십 년 동안 키츠 관리회사가 집을 어떻게 배정하는지 봤어. 전화 한 통으로. 친분으로. 탁자 밑 돈으로. 다시는 그런 거 보고 싶지 않아. 착한 마음에서라도 말이야, 칼레.
+Kalle: Günter. Du hast recht. Ihr alle. Ick sage es ihm. Heute. Selbst. || 귄터. 네 말이 맞아. 너희 다. 그 사람한테 말할게. 오늘. 내가 직접.
+Edith: Und ich gehe mit. Bis zur Ecke. Dann gehst du allein. || 그리고 나도 같이 갈게. 모퉁이까지. 거기서부턴 혼자 가.
+Kalle: Allein ist man Fahrgast. Hast du immer gesagt. || 혼자면 승객이라며. 늘 그랬잖아.
+Edith: Heute nicht. Heute bist du der Fahrer, der anhält. Und die Tür aufmacht. Und sagt: Hier ist Endstation. Für mein Versprechen. Nicht für dich. || 오늘은 아니야. 오늘 너는 차를 세우는 운전사야. 그리고 문을 열어 주고. 이렇게 말하는 거지. 여기가 종점입니다. 내 약속의 종점. 당신의 종점이 아니라.
+## Kalle und Wojtek | 칼레와 보이텍
+Kalle: Wojtek. Setz dich. Hier. In deine Ecke. Ick muss dir etwas sagen. Und ick weiß nicht, wie. || 보이텍. 앉아. 여기. 네 모퉁이에. 할 말이 있어. 그런데 어떻게 해야 할지 모르겠다.
+Wojtek: Ich weiß es schon. Ich sehe es an deinem Gesicht. Und an Tobis. Er guckt seit heute Mittag auf den Boden. || 벌써 알아. 네 얼굴 보니까 알겠어. 그리고 토비 얼굴도. 점심부터 바닥만 쳐다보고 있더라.
+Kalle: Ick habe gestern einen Fehler gemacht. Ohne Wenn und Aber. Ick habe dir etwas versprochen, was mir nicht gehört. Die Wohnung gehört nicht mir. Sie gehört allen. Und über sie entscheiden drei Menschen in einer Kommission. Nach Regeln. Die wir alle beschlossen haben. Ick auch. || 내가 어제 실수했어. 변명 없이. 내 것도 아닌 걸 너한테 약속했어. 그 집은 내 것이 아니야. 모두의 것이지. 그리고 그 집에 대해서는 위원회의 세 사람이 결정해. 규칙에 따라서. 우리가 다 같이 정한 규칙에. 나도 같이 정했고.
+Wojtek: Also habe ich keine Wohnung. || 그러니까 나는 집이 없는 거네.
+Kalle: Du hast keine versprochene Wohnung. Aber du kannst dich bewerben. Wie alle. Und Katja sagt, du hast die höchste Dringlichkeit. Vielleicht. Wahrscheinlich. Ick darf nicht mehr sagen. Ick habe schon zu viel gesagt. || 약속된 집은 없어. 하지만 지원할 수는 있어. 다른 사람들처럼. 그리고 카트야 말로는 네 긴급성이 제일 높대. 어쩌면. 아마도. 더는 말하면 안 돼. 이미 너무 많이 말했어.
+Wojtek: … Weißt du, was das Schlimmste unter der Brücke war, Kalle? Nicht die Kälte. Nicht der Hunger. Das Schlimmste war, dass jeder, der mir geholfen hat, mir einen Gefallen getan hat. Ein Gefallen. Immer ein Gefallen. Nie ein Recht. || …칼레, 다리 밑에서 제일 힘든 게 뭐였는지 알아? 추위가 아니었어. 배고픔도 아니었고. 제일 힘들었던 건 나를 도와준 사람마다 나한테 호의를 베푼 거였어. 호의. 늘 호의였지. 한 번도 권리가 아니었어.
+Kalle: Und? || 그래서?
+Wojtek: Und gestern hast du mir einen Gefallen getan. Wieder. Einen großen. Und heute sagst du mir: Bewirb dich. Wie alle anderen. Mit Kriterien. Mit einem Formular. Das ist kein Gefallen, Kalle. Das ist ein Recht. Ich habe drei Jahre kein Recht gehabt. Ich nehme das Formular. || 그리고 어제 너도 나한테 호의를 베풀었지. 또. 큰 호의를. 그런데 오늘은 이렇게 말하잖아. 지원해. 다른 사람들처럼. 기준에 따라. 신청서 들고. 그건 호의가 아니야, 칼레. 그건 권리야. 나 삼 년 동안 권리가 없었어. 신청서 받을게.
+Kalle: … Wojtek. Du bist nicht wütend? || …보이텍. 화 안 나?
+Wojtek: Ein bisschen. Für einen halben Tag. Dann verstehe ich es. Wenn ich die Wohnung bekomme, dann, weil ich sie verdiene. Nicht, weil du ein Bier mit mir getrunken hast. Dann gehört sie mir. Wirklich. || 조금. 반나절쯤. 그다음엔 이해해. 내가 그 집을 받는다면 내가 받을 자격이 있어서야. 네가 나랑 맥주를 마셔서가 아니라. 그래야 그 집이 내 거가 되는 거야. 진짜로.
+Kalle: Und wenn du sie nicht bekommst? || 그런데 못 받으면?
+Wojtek: Dann bekommt sie jemand, der sie mehr braucht. Ein Kind, das auf dem Bett Hausaufgaben macht. Das ist auch in Ordnung. Ich habe ein Zimmer bis Juni. Und einen Job ab Mai. Und eine Ecke. Das ist schon viel. || 그럼 나보다 더 필요한 누군가가 받겠지. 침대 위에서 숙제하는 아이라든가. 그것도 괜찮아. 나는 6월까지 방이 있어. 그리고 5월부터 일자리가 있고. 그리고 모퉁이가 있지. 그것만 해도 많아.
+Kalle: Du bist ein besserer Mensch als ick, Wojtek. || 너는 나보다 좋은 사람이다, 보이텍.
+Wojtek: Nein. Ich habe nur mehr Zeit zum Nachdenken gehabt. Unter Brücken denkt man viel. Es gibt sonst nichts zu tun. || 아니야. 생각할 시간이 더 많았을 뿐이야. 다리 밑에선 생각을 많이 하게 돼. 달리 할 게 없거든.
+## Die Kommission | 위원회
+Frau Albers: Ich komme als externes Mitglied. Ich habe meinen Kalender freigemacht. Und eine Tabelle mitgebracht. Ich bin Flugzeugmechanikerin. Wir arbeiten mit Checklisten. || 외부 위원으로 왔어요. 일정 비워 두고요. 그리고 표도 하나 가져왔어요. 나 항공 정비사였잖아요. 우린 체크리스트로 일해요.
+Frau Lehmann: Gut. Dann brauchen wir ein Punktesystem. Für Paragraf siebzehn, Absatz zwei. Dringlichkeit. Haushaltsgröße. Bezug zum Kiez. Jeweils null bis zehn Punkte. Und dann? || 좋아요. 그럼 점수제가 필요해요. 제17조 2항을 위해서요. 긴급성. 가구 규모. 동네와의 연고. 각각 0점에서 10점. 그다음엔요?
+Frau Albers: Und dann ein Kriterium, das nicht in der Satzung steht. Aber das wir brauchen. Passung zur Wohnung. Eine Familie mit drei Kindern passt nicht in achtundfünfzig Quadratmeter im dritten Stock ohne Aufzug. Ein Mann mit einem alten Hund auch nicht. Drei Stockwerke mit einem Hund, der Arthrose hat. || 그리고 정관엔 없지만 우리한테 필요한 기준 하나요. 집과의 적합성이요. 아이 셋인 가족은 엘리베이터 없는 4층 58제곱미터엔 안 맞아요. 늙은 개 데리고 있는 남자도요. 관절염 있는 개 데리고 계단 세 층은 무리예요.
+Hüseyin: Bruno hat Arthrose? || 브루노가 관절염이 있어요?
+Frau Albers: Ich habe ihn auf der Party gesehen. Er hinkt. Hinten links. Ich habe dreißig Jahre Fahrwerke geprüft. Ich sehe, wenn etwas hinkt. || 파티에서 봤어요. 절뚝거리더라고요. 왼쪽 뒷다리를요. 나 삼십 년 동안 랜딩 기어를 점검했어요. 뭔가 절뚝거리면 바로 알아요.
+Frau Lehmann: … Dann wäre die Wohnung über der Werkstatt besser für Wojtek. Erster Stock. Eine Treppe. Direkt über seinem Arbeitsplatz. Und Bruno kann runter in die Werkstatt. || …그럼 공방 위층 집이 보이텍한테 더 낫겠네요. 2층이요. 계단 하나. 일하는 곳 바로 위고. 브루노도 공방으로 내려갈 수 있고요.
+Hüseyin: Und Ediths Wohnung für die Familie Kovalenko? Drei Kinder? In zwei Zimmern? || 그럼 에디트 집은 코발렌코 가족한테요? 아이 셋이요? 방 두 개에요?
+Frau Albers: Zu klein. Die Wohnung im Vorderhaus. Vierter Stock. Neben Katja. Fünfundachtzig Quadratmeter. Drei Zimmer. Die passt. || 너무 작아요. 앞 동 집이요. 5층. 카트야 옆집. 85제곱미터. 방 세 개. 그게 맞아요.
+Frau Lehmann: Und Ediths für Nele und ihre Tochter. Oder für Herrn Wollny. Nein. Herr Wollny ist achtundachtzig. Drei Stockwerke. || 그럼 에디트 집은 넬레랑 딸한테. 아니면 볼니 씨한테. 아니다. 볼니 씨는 여든여덟이에요. 계단 세 층은 안 돼요.
+Hüseyin: Wir tun es schon wieder. Wir entscheiden. Vor der Ausschreibung. Wie Kalle. Nur mit Tabelle. || 우리 또 그러고 있어요. 결정하고 있잖아요. 공개 모집 전에요. 칼레처럼요. 표만 들었을 뿐이지.
+Frau Lehmann: … Du hast recht, Hüseyin. Wir hören auf. Jetzt. Wir haben eine Tabelle. Keine Namen. Die Namen kommen mit den Bewerbungen. Bis zum dreißigsten. Vielleicht bewirbt sich jemand, an den keiner von uns gedacht hat. || …맞는 말이에요, 휘세인 씨. 그만해요. 지금. 우리한텐 표가 있어요. 이름 없이요. 이름은 지원서와 함께 오는 거예요. 30일까지. 어쩌면 우리 중 아무도 생각 못 한 누군가가 지원할 수도 있잖아요.
+Frau Albers: Das ist das Gute an Checklisten. Sie schützen einen vor den eigenen Wünschen. Im Flugzeug und in Genossenschaften. || 그게 체크리스트의 좋은 점이에요. 자기 바람으로부터 자기를 지켜 주거든요. 비행기에서도. 협동조합에서도요.
+Hüseyin: Und Murat? Mein Neffe? || 그럼 무라트는요? 내 조카요?
+Frau Lehmann: Murat bewirbt sich. Wie alle. Und wenn wir über ihn reden, gehst du raus. || 무라트도 지원하면 돼요. 다른 사람들처럼요. 그리고 우리가 그 사람 얘기를 할 땐 휘세인 씨는 나가 있어요.
+Hüseyin: Ich gehe raus. Und trinke einen Tee. Bei Edith. Im Erdgeschoss. Wenn sie dann schon da wohnt. || 나가 있을게요. 그리고 차 한 잔 마시고요. 에디트네서. 1층에서요. 그때쯤이면 거기 살고 있겠죠.
+Frau Albers: Ich notiere: Herr Yıldız befangen. Tee bei Frau Krüger. Kein Interessenkonflikt. || 기록할게요. 이을드즈 씨 이해관계 있음. 크뤼거 부인 댁에서 차. 이해 충돌 없음.
+## Abends: die Entschuldigung | 저녁: 사과
+Kalle: Ruhe, bitte. Ick muss etwas sagen. Und ick sage es nur einmal. Weil es mir schwerfällt. Ick habe gestern Abend Wojtek Ediths Wohnung versprochen. Ohne Kommission. Ohne Vorstand. Ohne euch. Det war falsch. Ick entschuldige mich. Bei Wojtek. Bei der Kommission. Bei euch allen. Ohne Wenn und Aber. Es kommt nicht wieder vor. || 조용히 해 줘. 할 말이 있어. 그리고 딱 한 번만 말할게. 이 말이 쉽지 않으니까. 내가 어젯밤에 보이텍한테 에디트 집을 약속했어. 위원회 없이. 이사회 없이. 너희 없이. 그건 잘못이었어. 사과할게. 보이텍한테. 위원회한테. 너희 모두한테. 변명 없이. 다시는 안 그럴게.
+Bine: Kalle entschuldigt sich. Öffentlich. Ick bin seit zwanzig Jahren hier. Det habe ick noch nie erlebt. || 칼레가 사과를 하네. 공개적으로. 나 여기 이십 년째인데. 이런 건 처음 본다.
+Tobi: Und ich habe es gewusst. Seit heute Morgen. Und nichts gesagt. Das war auch falsch. Ich entschuldige mich auch. Ein bisschen kleiner. || 그리고 저는 오늘 아침부터 알고 있었어요. 그런데 아무 말 안 했어요. 그것도 잘못이었어요. 저도 사과할게요. 조금 작게요.
+Wojtek: Ich habe Tobi gebeten, nichts zu sagen. Für einen halben Tag. Das war meine Schuld. Nicht seine. || 내가 토비한테 말하지 말라고 부탁했어요. 반나절만. 그건 내 잘못이에요. 토비 잘못이 아니고요.
+Frau Lehmann: Dann sind heute drei Menschen schuld. Und alle drei haben es gesagt. Das ist ein guter Tag für eine Genossenschaft. Danke, Kalle. Und jetzt die Regeln. Damit es nicht wieder passiert. Nicht wegen Kalle. Wegen uns allen. Erstens: Jede freie Wohnung wird öffentlich ausgeschrieben. An der Kreidetafel. Und auf der Webseite. Mit den Kriterien. Zweitens: Bewerbungsfrist zwei Wochen. Drittens: Wer mit einem Bewerber verwandt oder befreundet ist, erklärt sich befangen. Auch in der Kommission. Viertens: Die Kommission begründet jede Entscheidung schriftlich. || 그럼 오늘은 세 사람 잘못이네요. 그리고 셋 다 말했고요. 협동조합한텐 좋은 날이에요. 고마워, 칼레. 이제 규칙이야. 다시 이런 일이 없도록. 칼레 때문이 아니라. 우리 모두를 위해서. 첫째, 모든 빈집은 공개 모집한다. 칠판에. 그리고 웹사이트에. 기준과 함께. 둘째, 지원 기간은 2주. 셋째, 지원자와 친척이거나 친구인 사람은 이해관계를 밝히고 빠진다. 위원회에서도. 넷째, 위원회는 모든 결정의 이유를 서면으로 밝힌다.
+Hüseyin: Und ich bin bei Murat befangen. Und bei Can, falls er sich mit achtzehn bewirbt. || 그리고 나는 무라트 건에서 빠질게요. 그리고 잔이 열여덟 살에 지원한다면 그때도요.
+Can: Ich bewerbe mich nicht. Ich wohne doch schon hier. Ich will nur Ediths Briefe. Und die bekomme ich ohne Kommission. Das steht in einem Umschlag. || 저 지원 안 해요. 저 벌써 여기 살잖아요. 저는 에디트 할머니 편지만 있으면 돼요. 그건 위원회 없이 받아요. 봉투에 적혀 있대요.
+Frau Schulze: Ein Testament ist keine Wohnungsvergabe. Das ist korrekt, Can. Ich habe nichts einzuwenden. || 유언은 집 배정이 아니지. 맞는 말이야, 잔. 반대할 이유 없다.
+Frau Lehmann: Die Ausschreibung hängt ab morgen an der Tafel. Frist: dreißigster April. Entscheidung: Mitte Mai. Und jeder in diesem Raum, der einen Kandidaten hat, sagt ihm: Bewirb dich. Selbst. Mit Formular. || 공개 모집 공고는 내일부터 칠판에 걸 거야. 마감은 4월 30일. 결정은 5월 중순. 그리고 이 방에서 후보가 있는 사람은 그 사람한테 말해 줘. 스스로 지원하라고. 신청서 들고.
+Kalle: Und ick? Wat mache ick jetzt? Als Vorstand? || 그럼 나는? 이제 뭘 하지? 이사로서?
+Derya: Du machst das, was ein Vorstand macht, Kalle. Du sorgst dafür, dass die Wohnungen bis Mitte Mai renoviert sind. Mit Herrn Brandt. Und mit Tobi. Dann hat die Kommission etwas zu vergeben. Und du hältst dich raus. Mit gutem Herzen. || 이사가 하는 일을 하면 돼요, 칼레. 5월 중순까지 그 집들이 수리되도록 챙기는 거요. 브란트 씨랑. 토비랑. 그래야 위원회가 배정할 게 생기죠. 그리고 칼레는 빠지는 거예요. 착한 마음으로요.
+Kalle: Mit gutem Herzen raushalten. Det ist schwerer als sechzigtausend ablehnen. || 착한 마음으로 빠져 있기라. 그건 6만 유로 거절하는 것보다 어렵네.
+Edith: Ich weiß, Kalle. Aber du schaffst das. Du hast es heute schon geschafft. Du hast dich entschuldigt. Ohne zu sagen, dass es der Rauch war. || 알아, 칼레. 그래도 넌 할 수 있어. 오늘 벌써 해냈잖아. 사과했잖아. 연기 때문이라는 말도 안 하고.
+Wojtek: Kalle. Ein Bier. Ich lade dich ein. Von meinem ersten Lohn. Im Mai. Ich schreibe es an. Zum ersten Mal schreibe ich etwas an. Nicht als Gefallen. Als Kunde. || 칼레. 맥주 한 잔. 내가 살게. 5월 첫 월급으로. 외상으로 달아 둬. 처음으로 외상을 다는 거야. 호의로가 아니라. 손님으로서.
+Kalle: Angeschrieben. Auf deinen Namen. Wojtek. Und Bruno bekommt eine Bulette. Die ist kein Gefallen. Die ist Tradition. || 외상 달았다. 네 이름으로. 보이텍. 그리고 브루노는 불레테 하나. 그건 호의가 아니야. 그건 전통이지.
