@@ -1,0 +1,158 @@
+#nr: 74
+#part: 5부 Neuer Frühling (이듬해 봄)
+#title: Beim Notar
+#ko: 공증인 앞에서 · 두 개의 계약과 한 개의 열쇠
+#level: B2~C1
+#setting: 4월 6일 화요일, 쇠네베르크의 공증 사무소. 하루에 계약 두 개. 오전 10시, 벤트 상속인 공동체와 Eckhaus eG의 건물 매매 계약, 그리고 같은 날 토지 재단과의 지상권 계약. 공증인 바이어 박사는 계약서를 처음부터 끝까지 소리 내어 읽는다. 그것이 법이다. 취리히에서 온 클라우디아 벤트, 재단의 린드크비스트, 이사회 세 사람, 그리고 '조언자'로 동석한 슐체 부인. 계약에는 조건이 붙는다. 노르트베르트의 소송 취하가 확정되면 효력이 생긴다. 토지 등기부, 소유권 이전 가등기, 그리고 등기까지의 시간. 표현 초점: 계약 어휘, 공식적인 확인 질문(Sie), 조건부 효력 이해하기, 법률 문서 낭독.
+#cast: Kalle | 칼레 코발스키 · 58세, 이사
+#cast: Jana | 야나 코발스키 · 34세, 이사
+#cast: Derya | 데르야 이을드즈 · 40세, 이사
+#cast: Frau Schulze | 잉그리트 슐체 · 62세, 감사회
+#cast: Frau Wendt | 클라우디아 벤트 · 40대, 상속인
+#cast: Dr. Beyer | 마르가레테 바이어 · 60대, 공증인
+#cast: Frau Lindqvist | 마야 린드크비스트 · 40대, 토지 재단 사무국장
+#cast: Herr Brückner | 위르겐 브뤼크너 · 58세, 협동조합 변호사
+#cast: Edith | 에디트 크뤼거 · 84세 직전
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Herr Pietsch | 귄터 피치 · 71세
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Frau Lehmann | 카트야 레만 · 52세
+#cast: Hüseyin | 휘세인 이을드즈 · 65세
+#read: 공증인의 낭독: 법률 문장을 일정한 속도로, 감정 없이. „Die Erschienenen erklärten …" 긴 문장도 끊지 않고 쉼표에서만 숨을 쉰다.
+#read: 확인 질문: „Haben Sie das verstanden?" „Ist Ihnen bewusst, dass …?" „Wünschen Sie, dass ich das erläutere?" — 공증인은 매번 상대의 눈을 보고 묻는다.
+#read: 서명할 때의 이름: 성과 이름을 또박또박. „Karl Kowalski." „Claudia Wendt." 서명 뒤 짧은 침묵.
+#read: Grundbuch [ˈɡʁʊntˌbuːx], Auflassungsvormerkung [ˈaʊ̯flasʊŋsˌfoːɐ̯mɛʁkʊŋ], Beurkundung [bəˈʔuːɐ̯kʊndʊŋ], aufschiebende Bedingung [ˈaʊ̯fʃiːbəndə bəˈdɪŋʊŋ].
+#note: 독일의 부동산 매매: 반드시 공증인(Notar) 앞에서 계약해야 효력이 있다(Beurkundung). 공증인은 중립적인 공무원 같은 존재로, 계약서 전체를 소리 내어 읽어 주고 양쪽이 이해했는지 확인해야 한다. 소유권은 계약 순간이 아니라 토지 등기부(Grundbuch)에 등기될 때 넘어간다.
+#note: Auflassungsvormerkung(소유권 이전 가등기): 계약 후 실제 등기까지 몇 주~몇 달이 걸리므로, 그 사이 매도인이 다른 사람에게 팔지 못하도록 등기부에 미리 표시해 두는 것. 매수인을 보호한다.
+#note: aufschiebende Bedingung(정지 조건): 어떤 조건이 충족되어야 계약의 효력이 발생하는 것. 이 화에서는 '노르트베르트의 소송 취하 확정'이 조건이다. Die Wirksamkeit des Vertrages steht unter der aufschiebenden Bedingung, dass …
+#note: 계약 어휘: der Kaufpreis (매매가), die Fälligkeit (지급 기일), die Übergabe von Besitz, Nutzen und Lasten (점유·수익·부담의 이전), die Eigentumsumschreibung (소유권 이전 등기), die Grunderwerbsteuer (취득세), die Unbedenklichkeitsbescheinigung (세무서의 무이의 증명)
+#note: 공식 확인 질문(Sie): Ist Ihnen das klar? / Haben Sie dazu Fragen? / Sind Sie damit einverstanden? / Bestätigen Sie, dass …? / Ich darf Sie bitten, hier zu unterschreiben.
+## Vor der Kanzlei | 사무소 앞에서
+Kalle: Schöneberg. Ein Notar in Schöneberg. Mit Marmor im Treppenhaus. Ick war in meinem Leben einmal bei einem Notar. Zweitausendeins. Für die Kneipe. Da gab es keinen Marmor. Da gab es Linoleum. || 쇠네베르크. 쇠네베르크의 공증인. 계단에 대리석 깔린. 나 평생 공증인한테 딱 한 번 가 봤어. 2001년에. 가게 때문에. 그땐 대리석 같은 거 없었어. 리놀륨이었지.
+Jana: Papa, du hast eine Krawatte an. Schon wieder. Die von Mama. || 아빠, 또 넥타이 매셨네요. 엄마가 사 준 거요.
+Kalle: Für Beerdigungen und für Notare. Monika hat gesagt: Beides ist ernst. Und bei beiden unterschreibt man etwas, was man nicht zurücknehmen kann. || 장례식이랑 공증인한테 갈 때 매는 거야. 모니카가 그랬어. 둘 다 진지한 일이라고. 그리고 둘 다 되돌릴 수 없는 뭔가에 서명하는 거라고.
+Derya: Ich habe heute Nacht nicht geschlafen. Ich hatte Nachtschicht. Ich komme direkt vom Krankenhaus. Ich rieche nach Desinfektionsmittel. || 어젯밤 한숨도 못 잤어요. 야간 근무였거든요. 병원에서 바로 왔어요. 소독약 냄새 날 거예요.
+Frau Schulze: Das ist gut. Notare mögen saubere Menschen. Hier. Die Mappe. Kaufvertrag, Entwurf vom einunddreißigsten März. Dreimal gelesen. Zwei Fragen markiert. Gelb. Keine lila. || 좋은 거예요. 공증인들은 깨끗한 사람을 좋아하거든요. 여기요. 서류철이요. 매매 계약서, 3월 31일 자 초안. 세 번 읽었어요. 질문 두 개 표시해 뒀어요. 노란색으로요. 보라색은 없어요.
+Jana: Keine lila? Bei einem Vertrag über zwei Komma sechs Millionen? || 보라색이 없어요? 260만짜리 계약서에요?
+Frau Schulze: Frau Wendt ist eine anständige Verkäuferin. Und Frau Dr. Beyer ist eine gründliche Notarin. Ich habe ihre Entwürfe aus zwei anderen Genossenschaftskäufen gelesen. Über Herrn Brückner. Keine lila. Nirgends. Ich bin fast enttäuscht. || 벤트 씨는 점잖은 매도인이에요. 그리고 바이어 박사는 꼼꼼한 공증인이고요. 브뤼크너 씨를 통해서 다른 협동조합 매입 건 두 개의 초안도 읽어 봤어요. 보라색이 없어요. 어디에도요. 거의 실망스러울 지경이에요.
+Frau Wendt: Herr Kowalski? Frau Yıldız? Frau Kowalski? Wendt. Wir kennen uns nur vom Telefon. Endlich. || 코발스키 씨? 이을드즈 씨? 코발스키 씨 따님? 벤트예요. 전화로만 알던 사이죠. 드디어 만나네요.
+Kalle: Frau Wendt! Sie sehen … Sie sehen aus wie Ihr Vater. Um die Augen. Det ist … entschuldigen Sie. || 벤트 씨! 당신… 아버님이랑 닮으셨네요. 눈매가요. 그건… 죄송해요.
+Frau Wendt: Nein. Das ist schön. Das sagt sonst niemand mehr. Meine Brüder sehen aus wie meine Mutter. Ich bin die Einzige mit seinen Augen. Und mit seinen Sorgen um das Dach. || 아니에요. 좋은 말이에요. 이제 그런 말 해 주는 사람이 없거든요. 오빠들은 엄마를 닮았어요. 아버지 눈을 닮은 건 나 하나예요. 그리고 지붕 걱정하는 것도요.
+Frau Lindqvist: Guten Morgen, alle. Ich habe den Erbbaurechtsvertrag dabei. Für den Nachmittag. Henriette lässt grüßen. Sie wollte mitkommen. Ihr Arzt hat es verboten. Sie hat gesagt, sie kommt zum Mittwochstee. Diesen Mittwoch. Ob mit oder ohne Grundbuch. || 다들 안녕하세요. 지상권 계약서 가져왔어요. 오후용이요. 헨리에테가 안부 전하래요. 같이 오고 싶어 했는데 의사가 말렸어요. 수요일 차 마시러 오겠대요. 이번 수요일에요. 등기가 되든 안 되든요.
+Kalle: Dann gehen wir rein. Marmor. Ick bin bereit. Fast. || 그럼 들어가죠. 대리석으로. 나 준비됐어요. 거의.
+## Die Verlesung | 낭독
+Dr. Beyer: Guten Morgen. Beyer. Bitte nehmen Sie Platz. Bevor wir beginnen: Ich bin gesetzlich verpflichtet, Ihnen den gesamten Vertrag vorzulesen. Wort für Wort. Das dauert etwa eine Stunde. Und ich bitte Sie, mich zu unterbrechen, wenn Sie etwas nicht verstehen. Jederzeit. || 안녕하세요. 바이어입니다. 앉으세요. 시작하기 전에요. 저는 법에 따라 계약서 전체를 여러분께 읽어 드려야 합니다. 한 단어도 빼지 않고요. 한 시간쯤 걸립니다. 그리고 이해 안 되는 게 있으면 언제든 끊어 주세요. 언제든지요.
+Kalle: Eine Stunde? Laut? Alles? || 한 시간이요? 소리 내서요? 전부요?
+Dr. Beyer: Alles. Auch die langweiligen Teile. Gerade die langweiligen Teile. In den langweiligen Teilen stehen die wichtigen Dinge. || 전부요. 지루한 부분까지요. 지루한 부분일수록 더요. 중요한 건 지루한 부분에 들어 있거든요.
+Frau Schulze: Das sage ich seit dreißig Jahren. || 그 말을 내가 삼십 년째 하고 있어요.
+Dr. Beyer: Dann verstehen wir uns, Frau … Schulze, nehme ich an? Herr Brückner hat Sie angekündigt. Als Beraterin des Vorstands. Mit Klebezetteln. || 그럼 우리 말이 통하겠네요, 슐체… 씨 맞으시죠? 브뤼크너 변호사님이 미리 말씀하셨어요. 이사회 조언자로 오신다고요. 포스트잇 들고요.
+Frau Schulze: Nur gelbe. Für Fragen. Keine lila. Ich habe nachgesehen. Zweimal. || 노란색만이요. 질문용이요. 보라색은 없어요. 확인했어요. 두 번이요.
+Dr. Beyer: „Verhandelt zu Berlin, am sechsten April zweitausendsiebenundzwanzig. Vor mir, der Notarin Dr. Margarete Beyer, erschienen heute: Erstens: Frau Claudia Wendt, handelnd für die Erbengemeinschaft nach Herrn Heinrich Wendt, aufgrund notarieller Vollmacht vom zwölften Januar. Zweitens: die Eckhaus eG, eingetragen im Genossenschaftsregister des Amtsgerichts Charlottenburg, vertreten durch ihren Vorstand." || „2027년 4월 6일 베를린에서 체결. 본 공증인 마르가레테 바이어 박사 앞에 금일 다음 사람들이 출석함. 첫째, 클라우디아 벤트. 1월 12일 자 공증 위임장에 근거하여 고(故) 하인리히 벤트의 상속인 공동체를 대리함. 둘째, Eckhaus eG. 샤를로텐부르크 구 법원 협동조합 등기부에 등기, 이사회가 대표함."
+Can: Heinrich. Herr Wendt hieß Heinrich. Das wusste ich nicht. || 하인리히. 벤트 할아버지 이름이 하인리히였구나. 몰랐어요.
+Edith: Wir haben ihn alle nur Herr Wendt genannt. Zweiundfünfzig Jahre lang. Er hat uns Frau Krüger und Herr Kowalski genannt. Und einmal im Jahr, an Weihnachten, hat er an jede Tür geklopft. Mit einem Stollen. || 우리 다 그냥 벤트 씨라고만 불렀어. 오십이 년 동안. 그분은 우릴 크뤼거 부인, 코발스키 씨라고 불렀고. 그리고 일 년에 한 번, 크리스마스에 집집마다 문을 두드렸지. 슈톨렌 들고.
+Frau Wendt: Den Stollen hat meine Mutter gebacken. Fünfzehn Stück. Jedes Jahr. Und er hat sie verteilt. Er hat nie gesagt, dass sie von meiner Mutter waren. || 그 슈톨렌은 우리 엄마가 구우셨어요. 열다섯 개씩. 해마다요. 그리고 아버지가 나눠 주셨죠. 엄마가 구운 거라고는 한 번도 말 안 하셨어요.
+Dr. Beyer: „Paragraf eins. Kaufgegenstand. Die Verkäuferin verkauft an die Käuferin das Gebäude auf dem Grundstück, eingetragen im Grundbuch von Neukölln, Blatt …, Flur …, Flurstück … Das Grundstück selbst wird zeitgleich von der Stiftung Boden für alle erworben und der Käuferin im Wege des Erbbaurechts überlassen." || „제1조. 매매 목적물. 매도인은 매수인에게 노이쾰른 토지 등기부 제…권 …지번에 등기된 대지 위의 건물을 매도한다. 대지 자체는 같은 날 모두를 위한 땅 재단이 취득하여 지상권 방식으로 매수인에게 제공한다."
+Jana: Entschuldigung. Darf ich unterbrechen? „Zeitgleich". Was passiert, wenn der Erbbaurechtsvertrag heute Nachmittag nicht unterschrieben wird? || 실례합니다. 끊어도 될까요? ‚같은 날'이라는 거요. 오후에 지상권 계약이 서명되지 않으면 어떻게 돼요?
+Dr. Beyer: Gute Frage. Paragraf zwölf regelt das. Beide Verträge sind miteinander verknüpft. Wenn einer scheitert, scheitern beide. Niemand kauft ein Haus ohne Boden. Und niemand verpachtet einen Boden ohne Haus. Haben Sie das verstanden, Frau Kowalski? || 좋은 질문이에요. 제12조가 그걸 규정하고 있어요. 두 계약은 서로 묶여 있습니다. 하나가 무산되면 둘 다 무산돼요. 아무도 땅 없는 집을 사지 않고. 아무도 집 없는 땅을 빌려주지 않죠. 이해하셨나요, 코발스키 씨?
+Jana: Verstanden. Danke. || 이해했어요. 감사합니다.
+Dr. Beyer: „Paragraf drei. Kaufpreis. Der Kaufpreis beträgt zwei Millionen sechshunderttausend Euro. Er ist fällig innerhalb von vierzehn Tagen nach Zugang der Mitteilung der Notarin, dass folgende Voraussetzungen vorliegen …" || „제3조. 매매가. 매매가는 이백육십만 유로로 한다. 매매가는 다음 요건이 충족되었다는 공증인의 통지가 도달한 후 14일 이내에 지급한다…"
+Kalle: Zwei Millionen sechshunderttausend. Wenn man es laut hört, klingt es mehr. Viel mehr. Auf Papier ist es nur eine Zahl. || 이백육십만. 소리 내서 들으니까 더 많게 들리네요. 훨씬 더요. 종이 위에선 그냥 숫자인데.
+Dr. Beyer: Das sagen alle, Herr Kowalski. Deshalb lesen wir vor. Damit jeder hört, was er unterschreibt. Ist Ihnen bewusst, dass Sie als Vorstand persönlich dafür sorgen müssen, dass der Kaufpreis gezahlt wird? || 다들 그렇게 말씀하세요, 코발스키 씨. 그래서 읽어 드리는 거예요. 모두가 자기가 서명하는 걸 들을 수 있게요. 이사로서 매매가가 지급되도록 직접 챙기셔야 한다는 걸 알고 계시죠?
+Kalle: Mir ist bewusst. Ick … ich habe eine Tochter, die rechnen kann. Und eine Bank, die ja gesagt hat. Mit Smiley. || 알고 있어요. 나… 나한텐 계산할 줄 아는 딸이 있어요. 그리고 좋다고 한 은행도 있고요. 웃는 얼굴까지 붙여서요.
+## Die Bedingung | 조건
+Dr. Beyer: „Paragraf fünf. Aufschiebende Bedingung. Die Wirksamkeit dieses Vertrages steht unter der aufschiebenden Bedingung, dass das beim Verwaltungsgericht Berlin anhängige Verfahren der Nordwert Immobilien Invest GmbH gegen den Bescheid des Bezirksamts Neukölln über die Ausübung des Vorkaufsrechts durch Klagerücknahme rechtskräftig beendet ist." || „제5조. 정지 조건. 본 계약의 효력은 노르트베르트 이모빌리엔 인베스트 유한회사가 노이쾰른 구청의 선매권 행사 결정에 대하여 베를린 행정 법원에 제기한 소송이 소 취하로 확정적으로 종결될 것을 정지 조건으로 한다."
+Can: Was heißt das? Auf Deutsch? || 그게 무슨 뜻이에요? 독일어로요?
+Dr. Beyer: Das ist Deutsch, junger Mann. Juristendeutsch. Ich übersetze. Der Vertrag gilt erst, wenn Nordwert die Klage zurückgenommen hat. Vorher ist er wie ein Brief, der noch nicht abgeschickt ist. Geschrieben. Unterschrieben. Aber noch im Umschlag. || 그거 독일어야, 젊은이. 법률가 독일어. 번역해 줄게. 이 계약은 노르트베르트가 소송을 취하해야 비로소 효력이 생겨. 그 전에는 아직 안 부친 편지 같은 거야. 쓰여 있고. 서명도 돼 있고. 하지만 아직 봉투 속에 있는 거지.
+Can: Wie Ediths Briefe. Die in den Schuhkarton kommen. Für mich. In acht Jahren. || 에디트 할머니 편지들처럼요. 신발 상자에 들어가는 거요. 저를 위해서요. 팔 년 뒤에요.
+Dr. Beyer: … Ich weiß nicht, wovon du sprichst. Aber es klingt richtig. || …무슨 말인지 모르겠지만. 맞는 말 같구나.
+Herr Brückner: Nordwert hat die Zahlung am ersten April bekommen. Die Klagerücknahme muss bis zum fünfzehnten beim Gericht sein. Falk hat mir gestern geschrieben: Sie geht heute raus. Per Fax. An das Verwaltungsgericht. || 노르트베르트는 4월 1일에 돈을 받았어요. 소 취하는 15일까지 법원에 들어가야 하고요. 팔크가 어제 나한테 문자를 보냈어요. 오늘 나간대요. 팩스로요. 행정 법원에요.
+Frau Schulze: Per Fax. Im Jahr zweitausendsiebenundzwanzig. Gerichte und Finanzämter. Die letzten Orte, an denen Faxgeräte überleben. Ich habe meins noch. || 팩스로요. 2027년에. 법원이랑 세무서. 팩스가 살아남은 마지막 장소들이죠. 나도 아직 하나 있어요.
+Dr. Beyer: „Paragraf sechs. Auflassungsvormerkung. Die Verkäuferin bewilligt und die Käuferin beantragt die Eintragung einer Vormerkung zur Sicherung des Anspruchs auf Eigentumsübertragung." Das bedeutet: Ab heute steht im Grundbuch, dass dieses Haus Ihnen versprochen ist. Niemand anders kann es mehr kaufen. Auch nicht Nordwert. Auch nicht, wenn Frau Wendt es sich anders überlegt. || „제6조. 소유권 이전 가등기. 매도인은 소유권 이전 청구권 보전을 위한 가등기의 등기를 승낙하고 매수인은 이를 신청한다." 무슨 뜻이냐면요. 오늘부터 등기부에 이 집이 여러분께 약속됐다는 게 적힌다는 거예요. 다른 누구도 더 이상 이 집을 살 수 없어요. 노르트베르트도요. 벤트 씨가 마음을 바꾸더라도요.
+Frau Wendt: Ich überlege es mir nicht anders. Ich habe seit August gewusst, wem dieses Haus gehören soll. Mein Vater auch. Er hat es mir gesagt. Zwei Jahre vor seinem Tod. Im Krankenhaus. „Claudia, wenn ich sterbe, verkauft das Haus nicht an Leute, die nie drin gewohnt haben." || 마음 안 바꿔요. 8월부터 이 집이 누구 것이 돼야 하는지 알고 있었어요. 아버지도요. 저한테 말씀하셨어요. 돌아가시기 이 년 전에요. 병원에서요. „클라우디아, 내가 죽으면 이 집을 거기 살아 본 적 없는 사람들한테 팔지 마라."
+Kalle: Und Ihre Brüder haben trotzdem an Nordwert verkauft. || 그런데 오빠분들은 그래도 노르트베르트에 팔았잖아요.
+Frau Wendt: Meine Brüder haben es nicht gehört. Sie waren nicht im Krankenhaus. Ich war dort. Jeden Freitag. Aus Zürich. Mit dem Nachtzug. Zwei Jahre. Das ist der Unterschied zwischen Erben und Kindern, Herr Kowalski. || 오빠들은 그 말을 못 들었어요. 병원에 없었으니까요. 나는 거기 있었어요. 매주 금요일마다요. 취리히에서. 야간열차 타고요. 이 년 동안요. 그게 상속인과 자식의 차이예요, 코발스키 씨.
+Kalle: … Det verstehe ick. Monika. Elf Uhr. Jeden Abend. Ick verstehe das. || …이해해요. 모니카. 밤 열한 시. 매일 저녁. 이해해요.
+## Die Unterschriften | 서명
+Dr. Beyer: Wir sind am Ende des Kaufvertrags. Haben Sie noch Fragen? Frau Schulze, Sie haben zwei gelbe Zettel. Ich sehe sie. || 매매 계약서 끝까지 왔습니다. 질문 더 있으세요? 슐체 씨, 노란 포스트잇이 두 장 있네요. 보여요.
+Frau Schulze: Erste Frage: Paragraf neun, Absatz zwei. Die Grunderwerbsteuer. Wer meldet den Vertrag beim Finanzamt? Und wann? Wir haben eine Förderung, die die Steuer abdeckt. Aber das Geld fließt erst nach der Unbedenklichkeitsbescheinigung. || 첫 번째 질문이요. 제9조 2항. 부동산 취득세요. 누가 언제 세무서에 계약을 신고하나요? 우리한텐 세금을 메워 주는 지원금이 있어요. 그런데 그 돈은 무이의 증명이 나온 뒤에야 들어와요.
+Dr. Beyer: Ich melde den Vertrag innerhalb von zwei Wochen an das Finanzamt. Das Finanzamt erlässt den Steuerbescheid. Sie zahlen. Dann kommt die Unbedenklichkeitsbescheinigung. Erst dann kann ich die Eigentumsumschreibung beantragen. Welches Finanzamt? … Neukölln. || 제가 2주 안에 세무서에 계약을 신고합니다. 세무서가 세금 고지서를 발부하고요. 여러분이 내시죠. 그러면 무이의 증명이 나와요. 그때야 소유권 이전 등기를 신청할 수 있습니다. 어느 세무서냐면요… 노이쾰른이네요.
+Frau Schulze: Neukölln. Da kenne ich noch drei Kolleginnen. Ich rufe an. Freundlich. Damit es schneller geht. Das ist nicht unkorrekt. Das ist Kollegialität. || 노이쾰른. 거기 아직 아는 동료가 셋 있어요. 전화할게요. 친절하게요. 빨리 처리되게요. 그건 부정이 아니에요. 동료애죠.
+Dr. Beyer: Das habe ich nicht gehört, Frau Schulze. Und Ihre zweite Frage? || 그건 못 들은 걸로 할게요, 슐체 씨. 그럼 두 번째 질문은요?
+Frau Schulze: Paragraf elf. Übergabe von Besitz, Nutzen und Lasten. Ab wann gehört uns das Dach? Juristisch. Es soll nächste Woche repariert werden. Von Herrn Brandt. Wer zahlt, wenn es vorher wieder reinregnet? || 제11조. 점유·수익·부담의 이전이요. 지붕은 언제부터 우리 거예요? 법적으로요. 다음 주에 수리할 예정이거든요. 브란트 씨가요. 그 전에 또 비가 새면 누가 내요?
+Frau Wendt: Ich. Bis zum Tag der Zahlung. Und, Frau Schulze, ich habe Herrn Brandt schon gesagt, dass er anfangen darf. Auf meine Verantwortung. Ich habe ihn heute Morgen angerufen. Er fängt morgen an. Mit seinem Vater. || 나요. 대금 지급일까지는요. 그리고 슐체 씨, 브란트 씨한테 벌써 시작해도 된다고 했어요. 내 책임으로요. 오늘 아침에 전화했어요. 내일부터 시작한대요. 아버님이랑 같이요.
+Frau Schulze: … Danke. Keine weiteren Fragen. Das ist das zweite Mal in diesem Jahr. || …고마워요. 더 이상 질문 없어요. 올해 들어 두 번째네요.
+Dr. Beyer: Dann bitte ich um die Unterschriften. Zuerst die Verkäuferin. Hier. Und hier. Und auf jeder Seite das Kürzel. || 그럼 서명 부탁드립니다. 매도인 먼저요. 여기요. 그리고 여기. 그리고 쪽마다 약자 서명이요.
+Frau Wendt: „Claudia Wendt." Für Papa. Für Heinrich Wendt. Er hätte gelächelt. Er hat selten gelächelt. Aber hier hätte er gelächelt. || „클라우디아 벤트." 아빠를 위해서. 하인리히 벤트를 위해서. 아버지라면 웃으셨을 거예요. 잘 안 웃으시는 분이었는데. 여기선 웃으셨을 거예요.
+Dr. Beyer: Und jetzt der Vorstand der Käuferin. || 이제 매수인 이사회요.
+Kalle: „Karl Kowalski." Mit Monikas Krawatte. Und mit gewaschenen Händen. || „카를 코발스키." 모니카 넥타이 매고. 씻은 손으로.
+Derya: „Derya Yıldız." Mit Desinfektionsmittel. || „데르야 이을드즈." 소독약 냄새 풍기면서.
+Jana: „Jana Kowalski." Mit … mit allem. Ich weiß nicht, womit. Mit zitternden Händen. || „야나 코발스키." …모든 걸 담아서. 뭘 담았는지 모르겠어요. 떨리는 손으로요.
+Dr. Beyer: Elf Uhr zweiundvierzig. Der Kaufvertrag ist beurkundet. Herzlichen Glückwunsch. Ich darf das sagen. Notare dürfen gratulieren. Nach der Unterschrift. Nicht vorher. || 열한 시 사십이 분. 매매 계약이 공증되었습니다. 축하드립니다. 이 말은 해도 돼요. 공증인도 축하는 할 수 있거든요. 서명 다음에요. 그 전엔 말고요.
+## Mittagspause am Nollendorfplatz | 놀렌도르프 광장에서 점심
+Kalle: Currywurst. Am Nollendorfplatz. Für alle. Ick zahle. Vom Trinkgeld der Soli-Party. Det ist die schlechteste Currywurst in Berlin. Aber sie ist die nächste. || 커리부어스트. 놀렌도르프 광장에서. 모두한테. 내가 낼게. 연대 파티 팁으로. 이게 베를린에서 제일 맛없는 커리부어스트야. 그래도 제일 가까워.
+Frau Wendt: Mein Vater hat jeden Samstag Currywurst gegessen. Bei Ihnen. Bei Herrn Kowalski. Zwanzig Jahre lang. Er hat es mir erzählt. Er hat gesagt, die Soße ist die beste in Neukölln. || 우리 아버지가 토요일마다 커리부어스트를 드셨어요. 당신네 가게에서요. 코발스키 씨네서요. 이십 년 동안요. 저한테 얘기해 주셨어요. 소스가 노이쾰른에서 제일이라고요.
+Kalle: Herr Wendt? Bei mir? Samstags? Ick … ick habe ihn nie erkannt. || 벤트 씨가요? 우리 가게에서요? 토요일마다요? 나… 한 번도 못 알아봤는데.
+Frau Wendt: Er hat sich immer an den Tisch am Fenster gesetzt. Mit einer Zeitung. Und nie gesagt, wer er ist. Er wollte nicht, dass Sie ihn anders behandeln. Weil er der Eigentümer war. Er wollte nur ein Gast sein. || 늘 창가 테이블에 앉으셨대요. 신문 들고요. 그리고 자기가 누군지 한 번도 말 안 하셨대요. 당신이 자기를 다르게 대하는 게 싫으셨던 거예요. 주인이라서요. 그냥 손님이고 싶으셨대요.
+Kalle: Der Mann mit der FAZ. Grauer Mantel. Currywurst mit Pommes rot-weiß. Und eine Fassbrause. Nie Bier. Jeden Samstag um eins. Bis … bis vor drei Jahren. || FAZ 읽던 그 남자. 회색 외투. 커리부어스트에 감자튀김, 케첩이랑 마요네즈. 그리고 파스브라우제 한 잔. 맥주는 절대 안 마시고. 토요일마다 한 시에. 그러다… 삼 년 전까지.
+Frau Wendt: Bis er ins Krankenhaus kam. Ja. Das war er. || 병원에 들어가실 때까지요. 네. 그게 아버지였어요.
+Kalle: Ick habe ihn immer „der Professor" genannt. Hinter seinem Rücken. Weil er so ernst geguckt hat. Und immer ein Euro Trinkgeld gegeben hat. Genau ein Euro. Zwanzig Jahre lang. || 내가 뒤에서 늘 ‚교수님'이라고 불렀어요. 너무 진지한 표정이라서요. 그리고 늘 팁을 1유로 주셨어요. 딱 1유로. 이십 년 동안.
+Edith: Herr Wendt war bei dir Stammgast. Und du wusstest es nicht. Und er hat das Haus nicht verkauft, solange er lebte. Weil er samstags bei dir saß. || 벤트 씨가 네 가게 단골이었네. 그런데 넌 몰랐고. 그리고 그분은 살아 계시는 동안 집을 안 파셨지. 토요일마다 네 가게에 앉아 계셨으니까.
+Herr Pietsch: Das wusste ich. Ich habe es nie gesagt. Er hat mich darum gebeten. „Pietsch, sagen Sie Kowalski nichts. Sonst bekomme ich eine größere Portion. Und das will ich nicht." || 그건 나는 알았어. 한 번도 말 안 했지. 그분이 부탁하셨거든. „피치 씨, 코발스키한테 말하지 마세요. 안 그러면 내가 양을 더 많이 받을 거예요. 그건 싫어요."
+Kalle: … Günter. Du hast es zwanzig Jahre gewusst? || …귄터. 넌 그걸 이십 년 동안 알고 있었어?
+Herr Pietsch: Ich bin Hausmeister. Ich weiß alles. Ich sage nur das, was gefragt wird. Und niemand hat gefragt. || 나 관리인이잖아. 다 알지. 물어보는 것만 말할 뿐이야. 그런데 아무도 안 물어봤어.
+Can: Dann frage ich jetzt. Herr Pietsch, was wissen Sie noch? Was niemand gefragt hat? || 그럼 제가 지금 물어볼게요. 피치 할아버지, 또 뭘 아세요? 아무도 안 물어본 거요?
+Herr Pietsch: Viel, Can. Sehr viel. Aber das erzähle ich dir mittwochs. Beim Tee. Eine Geschichte pro Woche. Dann reicht es bis du achtzehn bist. || 많지, 잔. 아주 많아. 그런데 그건 수요일마다 얘기해 줄게. 차 마시면서. 일주일에 하나씩. 그럼 네가 열여덟 살 될 때까지 충분하겠지.
+Jana: Frau Wendt. Kommen Sie zum Fest. Im Juni. Und setzen Sie sich an den Tisch am Fenster. Ich mache Ihnen eine Currywurst. Rot-weiß. Mit Fassbrause. Und Papa nimmt einen Euro Trinkgeld. Genau einen. || 벤트 씨. 6월 잔치에 오세요. 그리고 창가 테이블에 앉으세요. 커리부어스트 해 드릴게요. 케첩이랑 마요네즈로. 파스브라우제랑요. 그리고 아빠는 팁으로 1유로를 받을 거예요. 딱 1유로요.
+Frau Wendt: Abgemacht. Und ich bringe die FAZ mit. Damit es echt ist. || 약속해요. 그리고 FAZ도 들고 갈게요. 진짜처럼 보이게요.
+## Mittags: ein Schlüsselbund | 정오: 열쇠 꾸러미
+Frau Wendt: Herr Kowalski. Bevor wir zum zweiten Vertrag gehen. Ich habe etwas für Sie. Für die Genossenschaft. Es war im Schreibtisch meines Vaters. In Zürich. Ich habe es mitgebracht. || 코발스키 씨. 두 번째 계약 하러 가기 전에요. 드릴 게 있어요. 협동조합에요. 아버지 책상에 있던 거예요. 취리히에서요. 가져왔어요.
+Kalle: Ein Schlüsselbund. Ein schwerer. Alt. Wat ist das? || 열쇠 꾸러미네요. 무거운 거. 오래된 거. 이게 뭐예요?
+Frau Wendt: Alle Schlüssel des Hauses. Von neunzehnhundertdreiundsiebzig. Als mein Vater es gekauft hat. Vierzehn Wohnungen. Zwei Läden. Keller. Dachboden. Und einer, von dem ich nicht weiß, wofür er ist. Mit einem roten Band. || 이 집의 열쇠 전부예요. 1973년 거요. 아버지가 이 집을 사셨을 때요. 집 열네 채. 가게 두 곳. 지하. 다락. 그리고 하나는 뭔지 모르겠어요. 빨간 끈 달린 거요.
+Herr Pietsch: Darf ich sehen? … Der mit dem roten Band. Das ist der Schlüssel zur Rückstauklappe. Zum alten Schrank davor. Den habe ich neunzehnhundertsechsundneunzig verloren. Dreißig Jahre gesucht. Ich habe den Schrank dann mit einer Zange aufgemacht. Jedes Mal. || 봐도 될까요? …빨간 끈 달린 거. 그건 역류 방지 밸브 열쇠야. 그 앞에 있던 옛날 함 열쇠. 내가 1996년에 잃어버렸던 거야. 삼십 년 동안 찾았지. 그 뒤로는 매번 펜치로 그 함을 열었어.
+Frau Wendt: Mein Vater hatte ihn. Die ganze Zeit. In seinem Schreibtisch. Mit einem Zettel. „Pietsch fragen." || 아버지가 갖고 계셨네요. 내내요. 책상 속에요. 쪽지랑 같이요. „피치에게 물어볼 것."
+Herr Pietsch: … „Pietsch fragen." Er hat mich nie gefragt. Dreißig Jahre. Ich hätte es ihm sagen können. Ich habe mich nicht getraut. Er war der Eigentümer. Ich war der Hausmeister. || …„피치에게 물어볼 것." 한 번도 안 물어보셨지. 삼십 년 동안. 내가 말씀드릴 수도 있었는데. 용기가 안 났어. 그분은 주인이었고. 나는 관리인이었으니까.
+Edith: Und jetzt bist du im Aufsichtsrat, Günter. Und kontrollierst den Eigentümer. Das ist eine bessere Ordnung. || 그리고 이제 너는 감사회잖아, 귄터. 그리고 주인을 감독하고. 그게 더 좋은 질서야.
+Can: Ich will den Schlüssel halten. Den mit dem roten Band. Bitte. Nur kurz. || 그 열쇠 들어 보고 싶어요. 빨간 끈 달린 거요. 제발요. 잠깐만요.
+Frau Wendt: Du bist Can. Zehn. Der mit dem Mantel. Ich habe die Berliner Zeitung gelesen. In Zürich. Hier. Halt ihn. Und dann gib ihn Herrn Pietsch. Er hat dreißig Jahre darauf gewartet. || 네가 잔이구나. 열 살. 외투 얘기 한 아이. 취리히에서 베를리너 차이퉁 읽었어. 여기. 들어 봐. 그리고 피치 씨한테 드려. 삼십 년을 기다리셨잖아.
+Can: Herr Pietsch. Hier. Der Schlüssel. Ohne Zange. || 피치 할아버지. 여기요. 열쇠요. 펜치 없이요.
+Herr Pietsch: Danke, Can. Ich hänge ihn an meinen Bund. Neben den Schlüssel für Ediths neue Tür. Die klemmt. Die muss man anheben. || 고맙다, 잔. 내 꾸러미에 달아 둘게. 에디트 새 집 문 열쇠 옆에. 그 문은 뻑뻑해. 들어 올려야 해.
+## Nachmittags: der Boden | 오후: 땅
+Dr. Beyer: Der zweite Vertrag. Erbbaurecht. Frau Lindqvist für die Stiftung. Der Vorstand für die Genossenschaft. Neunundneunzig Jahre. Ich lese wieder. Alles. Eine Stunde. || 두 번째 계약이요. 지상권. 재단 쪽 린드크비스트 씨. 협동조합 쪽 이사회. 구십구 년. 또 읽어 드릴게요. 전부요. 한 시간이요.
+Kalle: Noch eine Stunde. Ick habe heute mehr Juristendeutsch gehört als in achtundfünfzig Jahren. || 또 한 시간이라. 오늘 하루에 쉰여덟 해 동안 들은 것보다 법률가 독일어를 더 많이 들었네.
+Dr. Beyer: „Paragraf zwei. Dauer. Das Erbbaurecht wird für die Zeit von neunundneunzig Jahren bestellt. Es beginnt mit dem Tag der Eintragung im Grundbuch und endet mit Ablauf des Tages …" Lassen Sie mich rechnen. „… im Jahr zweitausendeinhundertsechsundzwanzig." || „제2조. 존속 기간. 지상권은 구십구 년의 기간으로 설정한다. 지상권은 토지 등기부에 등기된 날 시작하여 …년 …일 만료로 종료한다." 계산해 볼게요. „…2126년에."
+Can: Zweitausendeinhundertsechsundzwanzig. Da bin ich hundertneun. || 2126년. 그때 저 백아홉 살이에요.
+Edith: Und ich bin hundertdreiundachtzig. Ich werde es mir trotzdem in den Kalender schreiben. Mit Bleistift. || 그리고 나는 백여든세 살이고. 그래도 달력에 적어 둘게. 연필로.
+Frau Lindqvist: Und dann verlängern wir. Das steht in Paragraf vierzehn. Die Stiftung verpflichtet sich, über eine Verlängerung zu verhandeln. Mit Vorrang. Ich werde dann nicht mehr leben. Aber der Paragraf lebt. || 그리고 그때 연장하면 돼요. 제14조에 있어요. 재단은 연장 협상에 우선적으로 응할 의무를 집니다. 그때 나는 이미 살아 있지 않겠지만. 조항은 살아 있을 거예요.
+Dr. Beyer: „Paragraf sieben. Zweckbindung. Die Erbbauberechtigte verpflichtet sich, das Gebäude dauerhaft zu Wohnzwecken für ihre Mitglieder sowie für nachbarschaftsdienliches Gewerbe zu nutzen. Eine Veräußerung des Erbbaurechts, eine Aufteilung in Wohnungseigentum sowie eine Aufstockung zum Zweck der Veräußerung sind ausgeschlossen." || „제7조. 용도 제한. 지상권자는 건물을 영구적으로 조합원의 주거 목적과 이웃에 봉사하는 상업 목적으로 사용할 의무를 진다. 지상권의 처분, 분양 소유권으로의 분할, 그리고 매각을 목적으로 하는 증축은 금지된다."
+Kalle: „Eine Aufstockung zum Zweck der Veräußerung." Det sind die Penthouses. Variante B. Steht jetzt im Vertrag. Für neunundneunzig Jahre verboten. || „매각을 목적으로 하는 증축." 그건 펜트하우스야. B안. 이제 계약서에 들어갔네. 구십구 년 동안 금지.
+Frau Lindqvist: Henriette hat den Satz selbst formuliert. Gestern Abend. Am Telefon. Sie hat gesagt: Schreib „Aufstockung". Wörtlich. Damit niemand in hundert Jahren sagen kann, er wusste es nicht. || 헨리에테가 그 문장을 직접 썼어요. 어젯밤에. 전화로요. 그러더라고요. ‚증축'이라고 써. 그대로. 백 년 뒤에 누구도 몰랐다고 말할 수 없게.
+Dr. Beyer: Haben Sie das verstanden? Alle? Sind Sie damit einverstanden? || 이해하셨어요? 모두요? 동의하십니까?
+Derya: Wir sind damit einverstanden. Mehr als das. Wir haben darum gebeten. || 동의합니다. 그 이상이에요. 우리가 부탁한 거예요.
+Dr. Beyer: Dann die Unterschriften. Frau Lindqvist. Der Vorstand. … Sechzehn Uhr achtzehn. Beide Verträge sind beurkundet. Das Haus gehört Ihnen. Unter Bedingung. Mit Vormerkung. Und in ein paar Wochen mit Grundbucheintrag. Ab dann ohne Wenn und Aber. || 그럼 서명이요. 린드크비스트 씨. 이사회. …열여섯 시 십팔 분. 두 계약 모두 공증되었습니다. 집은 여러분 거예요. 조건부로요. 가등기와 함께요. 그리고 몇 주 뒤엔 등기와 함께요. 그다음부턴 아무 조건도 없이요.
+Frau Schulze: Sechzehn Uhr achtzehn. Ich stemple. „Eingegangen am." Nein. Das passt nicht. Ich brauche einen dritten Stempel. „Erledigt am." || 열여섯 시 십팔 분. 도장 찍을게요. „접수일." 아니. 그건 안 맞네. 세 번째 도장이 필요하겠어요. „처리 완료일."
+Edith: Den kaufen wir dir. Auf dem Flohmarkt. Am Sonntag. Zusammen. Ingrid. Du. Darf ich du sagen? Nach einem ganzen Jahr? || 그건 우리가 사 줄게요. 벼룩시장에서. 일요일에. 같이. 잉그리트. 너. 말 놔도 될까요? 꼬박 일 년이 지났는데?
+Frau Schulze: … Ja, Edith. Du darfst. Aber nur, wenn du mich nicht mehr Ingrid nennst, wenn ich unrecht habe. Dann sagst du Frau Schulze. Damit ich es merke. || …그래요, 에디트. 놔도 돼요. 대신 내가 틀렸을 때는 잉그리트라고 부르지 마요. 그땐 슐체 부인이라고 해요. 내가 알아차릴 수 있게.
+Edith: Abgemacht, Frau Schulze. Nein. Ingrid. Du hast heute nicht unrecht gehabt. Kein einziges Mal. || 약속해요, 슐체 부인. 아니다. 잉그리트. 너 오늘은 한 번도 안 틀렸어. 단 한 번도.
+## Abends in der Ecke | 저녁, 크나이페에서
+Tobi: Und? Und? Ist es unterschrieben? Gehört es uns? Darf ich die Werkbank festschrauben? || 그래서요? 그래서요? 서명했어요? 우리 거예요? 작업대 나사로 고정해도 돼요?
+Kalle: Unterschrieben. Zweimal. Kaufvertrag und Erbbaurecht. Unter Bedingung. Mit Vormerkung. Juristendeutsch. Zwei Stunden lang. Ick bin taub. || 서명했어. 두 번. 매매 계약이랑 지상권. 조건부로. 가등기랑 같이. 법률가 독일어로. 두 시간 동안. 귀가 먹먹하다.
+Tobi: Was heißt „unter Bedingung"? || ‚조건부'가 무슨 뜻이에요?
+Can: Das heißt: Der Brief ist geschrieben. Und unterschrieben. Aber noch im Umschlag. Bis Nordwert die Klage zurücknimmt. Hat die Notarin gesagt. Sie hat es mir übersetzt. Ich bin jetzt Experte. || 그 말은 이거예요. 편지는 쓰여 있고요. 서명도 돼 있어요. 그런데 아직 봉투 속에 있는 거예요. 노르트베르트가 소송을 취하할 때까지요. 공증인 아주머니가 그랬어요. 저한테 번역해 줬어요. 이제 저 전문가예요.
+Bine: Und wann kommt der Brief aus dem Umschlag? || 그럼 그 편지는 언제 봉투에서 나와?
+Herr Brückner: Gerade eben. Um achtzehn Uhr vier. Falk hat mir die Faxbestätigung geschickt. Die Klagerücknahme ist beim Verwaltungsgericht eingegangen. Heute. Das Gericht stellt das Verfahren ein. In ein paar Tagen. Dann ist die Bedingung erfüllt. || 방금 나왔어요. 열여덟 시 사 분에. 팔크가 팩스 수신 확인서를 보내 줬어요. 소 취하서가 행정 법원에 접수됐대요. 오늘이요. 법원이 절차를 종결할 거예요. 며칠 안에요. 그럼 조건이 충족되는 거예요.
+Frau Schulze: Per Fax. Ich habe es gewusst. Faxe überleben alles. || 팩스로. 그럴 줄 알았어요. 팩스는 뭐든 살아남는다니까요.
+Frau Lehmann: Und Edith? Wann zieht sie um? Meine Kinder fragen jeden Tag. Sie haben schon ein Bild gemalt. Für ihr neues Fenster. || 그럼 에디트는요? 언제 이사해요? 우리 애들이 매일 물어봐요. 벌써 그림도 그렸어요. 새 창문에 걸라고요.
+Jana: Frau Wendt hat gesagt: Besitz, Nutzen und Lasten gehen am fünfzehnten über. Dann gehört uns das Haus wirtschaftlich. Und Herr Pietsch hat den Schlüssel. Also: am fünfzehnten. Mit Paul. Zwei Umzüge an einem Tag. || 벤트 씨가 그러셨어요. 점유·수익·부담이 15일에 넘어온대요. 그때부터 집이 경제적으로 우리 거예요. 그리고 피치 할아버지한테 열쇠가 있고요. 그러니까 15일이요. 파울이랑 같이요. 하루에 이사 두 번.
+Edith: Am fünfzehnten. Neun Tage. Achtundsiebzig Stufen. Neun Tage lang noch. Das sind siebenhundertzwei Stufen. Wenn ich jeden Tag einmal hoch gehe. || 15일이라. 아흐레. 계단 일흔여덟 개를. 아흐레 동안 더. 그럼 칠백두 계단이네. 매일 한 번씩 올라가면.
+Can: Und dann null. Für immer. Ich zähle mit. Jeden Tag. Rückwärts. Wie bei Silvester. || 그다음엔 0개. 영원히요. 제가 같이 셀게요. 매일요. 거꾸로요. 섣달그믐처럼요.
+Hüseyin: Und am siebzehnten mein Pass. Und am achtzehnten Ediths Geburtstag. Das ist eine dichte Woche, Canım. Wie eine Mantı. Vierzig auf einem Löffel. || 그리고 17일엔 내 여권. 그리고 18일엔 에디트 생일. 빽빽한 한 주구나, 얘야. 만트처럼. 숟가락 하나에 마흔 개.
+Kalle: Ingrid. Edith hat dich heute geduzt. Beim Notar. Ick habe es gehört. Darf ick auch? Nach einem Jahr? || 잉그리트. 에디트가 오늘 공증인 앞에서 말 놨잖아요. 들었어요. 나도 그래도 돼요? 일 년 지났는데?
+Frau Schulze: Nein, Herr Kowalski. Sie nicht. Noch nicht. Sie haben mich im Mai die Zicke vom Vorderhaus genannt. Ich habe es protokolliert. Erst wenn Sie das zurücknehmen. Schriftlich. || 안 돼요, 코발스키 씨. 당신은 안 돼요. 아직은요. 5월에 나를 앞 동 깐깐이라고 불렀잖아요. 기록해 뒀어요. 그거 취소하기 전엔 안 돼요. 서면으로요.
+Kalle: … Det habe ick gesagt? Im Mai? || …내가 그런 말을 했어요? 5월에?
+Frau Schulze: Siebzehnter Mai. Vierzehn Uhr zwölf. Vor der Kneipe. Zu Bine. Ich stand am Fenster. || 5월 17일. 열네 시 십이 분. 가게 앞에서요. 비네한테요. 나 창가에 서 있었어요.
+Bine: Det stimmt. Ick erinnere mich. Du hast gesagt: Die Zicke vom Vorderhaus hat schon wieder einen Zettel an die Tür gehängt. || 그거 맞아. 나 기억나. 너 그랬잖아. 앞 동 깐깐이가 또 문에 쪽지를 붙였다고.
+Kalle: Gut. Ick schreibe es. Jetzt. Auf einen Bierdeckel. „Ich nehme Zicke zurück. Karl Kowalski." Reicht ein Bierdeckel? || 좋아. 쓸게. 지금. 맥주 컵받침에. „깐깐이라는 말 취소함. 카를 코발스키." 맥주 컵받침이면 돼요?
+Frau Schulze: Ein Bierdeckel ist kein Schriftstück, Herr Kowalski. Aber heute … heute akzeptiere ich ihn. Mit Stempel. „Eingegangen am sechsten April." So. Jetzt darfst du. Kalle. || 맥주 컵받침은 문서가 아니에요, 코발스키 씨. 그래도 오늘은… 오늘은 받아 줄게요. 도장 찍어서. „4월 6일 접수." 자. 이제 말 놔도 돼. 칼레.
+Kalle: Danke, Ingrid. Nach einem Jahr. Und einem Bierdeckel. || 고마워, 잉그리트. 일 년 만에. 맥주 컵받침 한 장으로.
+Frau Schulze: Bitte, Kalle. Und jetzt einen Kaffee. Schwarz. Ohne Zucker. Und ohne weitere Bierdeckel. || 천만에, 칼레. 이제 커피 한 잔. 블랙으로. 설탕 없이. 그리고 컵받침은 더 이상 없이.
