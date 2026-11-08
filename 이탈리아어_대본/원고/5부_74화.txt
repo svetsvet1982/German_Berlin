@@ -1,0 +1,178 @@
+@part 5
+@ep 74
+@file Dal_notaio
+@title Dal notaio
+@ko 공증인 사무소에서
+@where 프라티 베네데티 공증인 사무소 — 대기실, 큰 회의실 / 비알레 마치니
+@level B2~C1
+@setting 3월 31일 화요일 오전 9시 50분~낮 1시
+@cast BENEDETTI | 공증인, 마리아 그라치아, 60세
+@cast FRANCO | 협동조합 이사장, 62세
+@cast NADIA | 협동조합 부이사장, 40세
+@cast SETTIMIO | 3층 세입자, 본계약 증인, 83세
+@cast CASTELLANI | 펀드 측 대리인, 52세
+@note 본계약(rogito). 매도인은 테베레 리빙 펀드, 대리인은 위임장을 받은 카스텔라니. 매수인은 협동조합 일 칸토네, 이사장 프랑코와 부이사장 나디아. 은행에선 발렌티 지점장이 대출 계약 서명을 위해 왔다. 증인은 세티미오와 로레다나. 공증인은 법에 따라 증서를 처음부터 끝까지 소리 내어 읽어야 한다. 마흔세 쪽. 극 중 등기·면적 등 세부는 허구다.
+
+# 장면 1 — LE DIECI MENO UNO
+> 오전 9시 50분. 공증인 사무소 대기실. 프랑코, 나디아, 세티미오, 로레다나, 발렌티. 맞은편 소파에 카스텔라니 혼자 || 오전 9시 50분. 공증인 사무소 대기실. 프랑코, 나디아, 세티미오, 로레다나, 발렌티. 맞은편 소파에 카스텔라니 혼자
+CASTELLANI: Buongiorno a tutti. Signor Ceccarelli. Signora Hossain. Sor Settimio. || 다들 안녕하세요. 체카렐리 씨. 호사인 씨. 세티미오 영감님.
+FRANCO: Buongiorno, dottor Castellani. Oggi senza cravatta? || 안녕하세요, 카스텔라니 씨. 오늘은 넥타이 안 매셨네요?
+CASTELLANI: Oggi senza cravatta. Oggi non sono qui per convincere nessuno. Sono qui per firmare. Una cosa che ho voluto anche io. Alla fine. || 오늘은 넥타이 없이요. 오늘은 누굴 설득하러 온 게 아니라서요. 서명하러 왔어요. 결국 저도 원하게 된 일을.
+SETTIMIO: Hai portato la lettera a Milano. In treno. Domenica. Grazie, ragazzo. || 편지를 밀라노까지 들고 갔지. 기차로. 일요일에. 고맙다, 젊은이.
+CASTELLANI: È stato il viaggio più lungo della mia vita, Sor Settimio. Due ore e cinquanta minuti con una busta in mano. L'ho tenuta sulle ginocchia. Non l'ho aperta. Ma sapevo cosa c'era scritto. || 제 인생에서 제일 긴 여행이었어요, 영감님. 봉투 하나 들고 두 시간 50분. 무릎 위에 올려놓고. 안 열어 봤어요. 근데 뭐라고 쓰셨는지 알았어요.
+SETTIMIO: Come lo sapevi? || 어떻게 알았어?
+CASTELLANI: Perché era la stessa cosa che avrebbe scritto mio nonno. Se avesse saputo scrivere. Vendeva il pesce a Campo de' Fiori. Non sapeva scrivere. Ma sapeva custodire. || 우리 할아버지가 썼을 내용이랑 똑같았을 테니까요. 쓸 줄 알았다면요. 캄포 데 피오리에서 생선 팔던 분. 글은 못 쓰셨어요. 근데 지킬 줄은 아셨죠.
+> 프랑코의 휴대폰이 진동한다. 9시 59분. 화면에 '줄리아' || 프랑코의 휴대폰이 진동한다. 9시 59분. 화면에 '줄리아'
+FRANCO: Giulia. Alle dieci meno uno. Come promesso. || 줄리아. 10시 1분 전. 약속대로.
+NADIA: Rispondi. Ma veloce. || 받아요. 근데 빨리.
+FRANCO: Pronto? ... Sì. Siamo qui. ... Sì, ho la penna. Quella di Settimio. ... Sì, ho mangiato. Un cornetto. ... Sì. Anch'io. Ciao. || 여보세요? … 응. 여기 와 있어. … 응, 펜 있어. 세티미오 영감님 거. … 응, 먹었어. 코르네토 하나. … 응. 나도. 안녕.
+NADIA: «Anch'io» cosa? || «나도» 뭐요?
+FRANCO: Lei ha detto una cosa. Io ho detto «anch'io». Il resto è privato. Tra un padre e una figlia. || 걔가 뭐라고 했어. 난 «나도»라고 했지. 나머진 사적인 거야. 아빠랑 딸 사이.
+SETTIMIO: Ha detto «ti voglio bene». Si vedeva dalla faccia. Hai sudato dagli occhi. || «사랑해» 그랬구나. 얼굴에 다 보였어. 눈에서 땀 흘렸잖아.
+BENEDETTI: Buongiorno a tutti. Prego. Accomodatevi nella sala grande. Oggi la sala piccola non basta. Siamo in undici. Un record per questo studio. || 다들 안녕하세요. 들어오세요. 큰 회의실로. 오늘은 작은 방으론 안 되겠네요. 열한 명이에요. 우리 사무소 신기록이에요.
+
+# 장면 2 — L'IDENTIFICAZIONE
+> 큰 회의실. 긴 탁자. 공증인이 상석. 한쪽에 매도인 카스텔라니, 맞은편에 프랑코와 나디아, 옆에 발렌티. 뒤편 의자에 증인 세티미오와 로레다나 || 큰 회의실. 긴 탁자. 공증인이 상석. 한쪽에 매도인 카스텔라니, 맞은편에 프랑코와 나디아, 옆에 발렌티. 뒤편 의자에 증인 세티미오와 로레다나
+BENEDETTI: Allora. Prima di leggere, devo identificare le parti. È la legge. Signor Castellani, lei interviene in qualità di procuratore speciale della società di gestione del fondo Tevere Living. Ha la procura? || 자. 낭독 전에 당사자 신원을 확인해야 합니다. 법이에요. 카스텔라니 씨, 테베레 리빙 펀드 운용사의 특별 대리인 자격으로 참석하셨죠. 위임장 있으세요?
+CASTELLANI: Eccola. Firmata dalla dottoressa Ornella Galli. Ieri. Alle undici di sera. Autenticata stamattina alle otto. || 여기 있습니다. 오르넬라 갈리 대표가 서명했어요. 어제. 밤 열한 시에. 오늘 아침 여덟 시에 인증받았고요.
+BENEDETTI: Alle undici di sera? Prima della PEC? || 밤 열한 시에요? PEC 보내기 전에?
+CASTELLANI: Prima della PEC. Aveva già deciso. Ma ha aspettato fino alle undici e cinquantotto per mandarla. Ha detto che voleva che voi aspettaste un po'. Per apprezzare. Milanese. || PEC 전에요. 이미 정해 놨던 거죠. 근데 11시 58분까지 기다렸다가 보냈어요. 여러분이 조금 기다리길 바랐대요. 고마움을 알게. 밀라노 사람이죠.
+FRANCO: Ci ha fatto sudare due minuti in più. Apposta. || 일부러 2분 더 땀 흘리게 했네요.
+BENEDETTI: Signor Ceccarelli. Lei interviene in qualità di presidente del consiglio di amministrazione della Cooperativa Il Cantone. Mi conferma le sue generalità? || 체카렐리 씨. 협동조합 일 칸토네 이사회 이사장 자격으로 참석하셨죠. 인적 사항 확인해 주시겠어요?
+FRANCO: Franco Ceccarelli. Nato a Roma il diciotto gennaio millenovecentosessantacinque. Residente in via del Cantone sette. Al piano ammezzato. Sopra il bar. || 프랑코 체카렐리. 1965년 1월 18일 로마 출생. 비아 델 칸토네 7번지 거주. 중이층. 바 위.
+BENEDETTI: Il diciotto gennaio? Ha compiuto sessantadue anni da poco. || 1월 18일요? 얼마 전에 예순둘 되셨네요.
+FRANCO: Sessantadue. Non lo dica forte. In cooperativa pensano che ne ho sessantuno. È più giovane. || 예순둘. 크게 말하지 마세요. 조합에선 예순하나인 줄 알아요. 그게 더 젊잖아요.
+NADIA: Lo sapevamo, Franco. A gennaio Tiziana ha fatto la torta. Con sessantadue candeline. Non te lo ricordi? || 알고 있었어요, 프랑코 씨. 1월에 티치아나 씨가 케이크 만들었잖아요. 초 예순두 개 꽂아서. 기억 안 나요?
+FRANCO: Ho cercato di dimenticarlo. Con successo, fino a un minuto fa. || 잊으려고 했어. 1분 전까진 성공했는데.
+BENEDETTI: Signora Hossain. Vicepresidente. Le sue generalità? || 호사인 씨. 부이사장님. 인적 사항은요?
+NADIA: Nadia Hossain. Nata a Roma il sei maggio millenovecentoottantasei. All'ospedale San Giovanni. Residente in via del Cantone sette. Quarto piano. || 나디아 호사인. 1986년 5월 6일 로마 출생. 산조반니 병원에서. 비아 델 칸토네 7번지 거주. 4층.
+BENEDETTI: E i testimoni. Signor Rinaldi? || 그리고 증인. 리날디 씨?
+SETTIMIO: Settimio Rinaldi. Nato a Roma il quattordici aprile del quarantatré. In via del Cantone sette. Al terzo piano. Nello stesso palazzo che oggi comprate. Sono nato dentro l'oggetto del contratto. || 세티미오 리날디. 43년 4월 14일 로마 출생. 비아 델 칸토네 7번지에서. 3층에서. 오늘 여러분이 사는 바로 그 건물에서. 난 계약 목적물 안에서 태어났소.
+BENEDETTI: ... In trentadue anni di professione, nessun testimone mi ha mai detto «sono nato dentro l'oggetto del contratto». Lo metto a verbale. Con il suo permesso. || … 32년 동안 공증인 일을 하면서 «난 계약 목적물 안에서 태어났소»라고 한 증인은 처음이에요. 증서에 적을게요. 허락하시면.
+SETTIMIO: Lo metta. E metta anche che la signora Loredana Bianchini, l'altra testimone, ha corretto il suo statuto. A dicembre. Due errori di punteggiatura. || 적으시오. 그리고 다른 증인 로레다나 비앙키니 부인이 12월에 당신 정관을 고쳐 줬다는 것도 적으시오. 문장 부호 오류 두 개.
+BENEDETTI: Quello non lo metto. Ma lo ricordo. Con rispetto. || 그건 안 적을게요. 하지만 기억하죠. 존경을 담아서.
+
+# 장면 3 — LA LETTURA
+> 오전 10시 25분. 공증인이 낭독을 시작한다. 로레다나가 입 모양으로 따라 읽는다. 발렌티는 눈을 감고 있다 || 오전 10시 25분. 공증인이 낭독을 시작한다. 로레다나가 입 모양으로 따라 읽는다. 발렌티는 눈을 감고 있다
+BENEDETTI: «Repubblica Italiana. L'anno duemilaventisette, il giorno trentuno del mese di marzo, in Roma, nel mio studio... avanti a me, dottoressa Maria Grazia Benedetti, notaio in Roma... sono comparsi...». Poi le generalità. Le salto? No, non posso. Le leggo. || «이탈리아 공화국. 2027년 3월 31일, 로마, 본 공증인 사무소에서… 로마의 공증인 마리아 그라치아 베네데티 앞에… 다음 사람들이 출석하였다…». 그다음 인적 사항. 건너뛸까요? 아니요, 안 돼요. 읽을게요.
+FRANCO: Dottoressa, lei legge tutto? Anche le date di nascita? || 공증인님, 다 읽으세요? 생년월일까지?
+BENEDETTI: Tutto. Anche le virgole. È la garanzia che nessuno firma senza sapere. In Italia ci hanno messo secoli a inventarla. Non la salto per un pranzo. || 전부요. 쉼표까지. 아무도 모르고 서명하지 않게 하는 보증이에요. 이탈리아는 이걸 발명하는 데 몇 세기가 걸렸어요. 점심 때문에 건너뛰진 않아요.
+SETTIMIO: Brava. Così si fa. Anche al Mattatoio pesavamo tutto. Anche le code. || 잘한다. 그래야지. 마타토이오에서도 다 달았어. 꼬리까지.
+BENEDETTI: «Oggetto. Intero fabbricato sito in Roma, via del Cantone numero sette, composto da piano terra con due unità a destinazione commerciale, un piano ammezzato, e quattro piani fuori terra con otto unità a destinazione abitativa, oltre a cantina e lastrico solare». || «목적물. 로마 비아 델 칸토네 7번지 소재 건물 전체. 상업용 2개 단위의 1층, 중이층 하나, 주거용 8개 단위의 지상 4개 층, 그리고 지하 창고와 옥상으로 구성됨».
+NADIA: «Lastrico solare». È il tetto? Quello delle grondaie di Simone? || «옥상 평지붕». 지붕이에요? 시모네가 빗물받이 청소한 그거?
+BENEDETTI: È il tetto piano. Dove si stende il bucato. E dove, mi dicono, a Ferragosto si fa una cena. || 평평한 지붕이요. 빨래 너는 곳. 그리고 듣자 하니 페라고스토엔 저녁도 먹는 곳.
+FRANCO: E dove Loredana vieta il bucato. Ma questo il contratto non lo dice. || 그리고 로레다나가 빨래를 금지하는 곳. 근데 그건 계약서에 없네요.
+BENEDETTI: Il contratto non regola il bucato. Per fortuna. «Prezzo. Il prezzo della compravendita è convenuto in euro due milioni settecentocinquantamila. Di cui duecentosettantacinquemila già versati a titolo di caparra confirmatoria. Il saldo viene corrisposto in data odierna mediante bonifico bancario...». Dottoressa Valenti? || 계약서는 빨래를 규율하지 않아요. 다행히. «가격. 매매 대금은 275만 유로로 합의함. 그중 27만 5천 유로는 증약금으로 이미 지급됨. 잔금은 금일 은행 송금으로 지급함…». 발렌티 지점장님?
+> 발렌티가 휴대폰을 확인하고 고개를 끄덕인다. "송금 완료, 10시 41분" || 발렌티가 휴대폰을 확인하고 고개를 끄덕인다. "송금 완료, 10시 41분"
+BENEDETTI: Il bonifico è partito. Dieci e quarantuno. Signor Castellani, conferma di aver ricevuto la notifica? || 송금이 나갔네요. 10시 41분. 카스텔라니 씨, 통지 받으셨는지 확인해 주시겠어요?
+CASTELLANI: Confermo. L'ufficio di Milano ha appena scritto. «Ricevuto». Una parola. || 확인합니다. 밀라노 사무실에서 방금 문자 왔어요. «수령». 한 단어.
+FRANCO: Due milioni e quattrocentosettantacinquemila euro. In un bonifico. Io non ho mai fatto un bonifico sopra i duemila. || 247만 5천 유로. 송금 한 번에. 난 2천 넘는 송금은 해 본 적이 없는데.
+NADIA: Non l'hai fatto tu. L'ha fatto la banca. Con i mattoni di quattrocentonovantasei persone. E di trentotto insegnanti di Torino. || 프랑코 씨가 한 게 아니에요. 은행이 했죠. 사백아흔여섯 명의 벽돌이랑. 토리노 선생님 서른여덟 명의 벽돌로.
+BENEDETTI: «Garanzie. La parte venditrice garantisce la piena proprietà dell'immobile e la sua libertà da ipoteche, pesi e vincoli, fatta eccezione per i contratti di locazione in corso, che la parte acquirente dichiara di conoscere e accettare». Signor Ceccarelli, conferma di conoscere i contratti di locazione in corso? || «보증. 매도인은 해당 부동산의 완전한 소유권과 저당·부담·제한이 없음을 보증한다. 다만 진행 중인 임대차 계약은 예외로 하며, 매수인은 이를 알고 수용함을 선언한다». 체카렐리 씨, 진행 중인 임대차 계약을 알고 계심을 확인하시나요?
+FRANCO: Li conosco tutti. Uno per uno. So anche come prendono il caffè. || 다 알아요. 하나하나. 커피를 어떻게 마시는지도 알아요.
+BENEDETTI: Il caffè non serve. Ma un «sì» sì. || 커피는 필요 없어요. 근데 «네»는 필요하죠.
+FRANCO: Sì. Confermo. || 네. 확인합니다.
+BENEDETTI: «Dichiarazioni urbanistiche. La parte venditrice dichiara che il fabbricato è stato edificato in data anteriore al primo settembre millenovecentosessantasette...». || «도시 계획 관련 선언. 매도인은 해당 건물이 1967년 9월 1일 이전에 건축되었음을 선언한다…».
+NADIA: Millenovecentoventi. Molto anteriore. || 1920년요. 한참 이전이죠.
+BENEDETTI: «...e che non sono state realizzate opere abusive». Signor Castellani? Conferma? || «…그리고 불법 공사가 없었음을». 카스텔라니 씨? 확인하세요?
+CASTELLANI: Confermo. Il fondo non ha fatto in tempo a fare niente. Né di abusivo, né di legale. Sei mesi. Solo carte. || 확인합니다. 펀드는 아무것도 할 시간이 없었어요. 불법도, 합법도. 여섯 달. 서류뿐이었죠.
+FRANCO: Per fortuna. Se aveste fatto in tempo, adesso al secondo piano ci sarebbero tre bagni e una suite storica. || 다행이죠. 시간이 있었으면 지금쯤 2층에 화장실 세 개랑 역사적 스위트룸이 있었겠죠.
+
+# 장면 4 — LA CLASSE ENERGETICA
+BENEDETTI: «Attestato di prestazione energetica. L'immobile risulta in classe energetica G». || «에너지 성능 인증서. 해당 부동산은 에너지 등급 G로 확인됨».
+NADIA: G? Qual è la peggiore? || G요? 제일 나쁜 게 뭐예요?
+BENEDETTI: G è la peggiore. Una casa del millenovecentoventi, senza cappotto termico, con le finestre originali e una caldaia del novanta. È normale. A Roma metà dei palazzi storici sono G. || G가 제일 나빠요. 1920년 건물, 단열재 없고, 원래 창문에, 90년식 보일러. 정상이에요. 로마 역사 건물 절반이 G예요.
+SETTIMIO: Classe G. Come la mia pagella. In terza media. || G 등급. 내 성적표처럼. 중학교 3학년 때.
+NADIA: Allora il prossimo progetto è il tetto. E i pannelli solari. Elisa ha già un file. || 그럼 다음 프로젝트는 지붕이네요. 그리고 태양광 패널. 엘리사가 벌써 파일 만들어 놨어요.
+FRANCO: Nadia. Non abbiamo ancora finito di comprare il palazzo e tu già lo ristrutturi? || 나디아. 아직 건물 사는 것도 안 끝났는데 벌써 고치자고?
+NADIA: Giulia ha detto: «Una cooperativa senza un progetto è come un bar senza clienti». || 줄리아가 그랬잖아요. «프로젝트 없는 협동조합은 손님 없는 바 같다».
+FRANCO: Giulia ha detto «senza nemici». Non «senza progetti». || 줄리아는 «적 없는»이라고 했지. «프로젝트 없는»이 아니라.
+NADIA: È uguale. Il progetto è il nemico nuovo. Il tetto è il nuovo fondo. || 똑같아요. 프로젝트가 새 적이에요. 지붕이 새 펀드고요.
+BENEDETTI: Signori. Posso continuare? Mancano diciannove pagine. E il pranzo. || 여러분. 계속해도 될까요? 열아홉 쪽 남았어요. 그리고 점심도.
+CASTELLANI: Dottoressa, una domanda. Fuori verbale. La caldaia del novanta... è quella che ho segnalato nella relazione di settembre? Quella che il fondo voleva sostituire? || 공증인님, 질문 하나요. 증서 밖에서. 90년식 보일러… 제가 9월 보고서에 표시한 그거예요? 펀드가 바꾸려던?
+NADIA: Lei l'aveva segnalata? || 그걸 표시하셨어요?
+CASTELLANI: A settembre. Con il tetto e le grondaie. Il fondo aveva un piano di ristrutturazione da ottocentomila euro. Per gli alberghi. Adesso è vostro. Il piano e i problemi. Ve lo mando, se volete. Gratis. È l'ultima cosa che posso fare. || 9월에요. 지붕이랑 빗물받이랑 같이. 펀드엔 80만 유로짜리 리모델링 계획이 있었어요. 호텔용으로. 이젠 여러분 거예요. 계획도 문제도. 원하시면 보내 드릴게요. 무료로. 제가 할 수 있는 마지막 일이에요.
+NADIA: ... Grazie. Lo mandi a Elisa. Lei lo legge stanotte. E ci trova tre errori. || … 고마워요. 엘리사한테 보내 주세요. 오늘 밤에 읽고 오류 세 개 찾을 거예요.
+CASTELLANI: Lo mando stasera. Con una nota. «Il tetto perde sopra il quarto piano. Lato cortile. Da tre anni». || 오늘 밤에 보낼게요. 메모 붙여서. «4층 위 지붕 누수. 안뜰 쪽. 3년째».
+NADIA: Lo sappiamo. Da novembre. Sette secchi. Samir era il capitano. || 알아요. 11월부터. 양동이 일곱 개. 사미르가 대장이었어요.
+CASTELLANI: Il capitano dei secchi. Me l'hanno raccontato. Mi ha fatto ridere. Era il tredici novembre. Il giorno in cui ho cominciato a dubitare del mio lavoro. || 양동이 대장. 전해 들었어요. 웃었어요. 11월 13일이었죠. 제가 제 일을 의심하기 시작한 날.
+NADIA: Chi gliel'ha raccontato? || 누가 얘기해 줬어요?
+CASTELLANI: Cristiano. L'agente di via Marmorata. Davanti a un caffè. Le cose, a Roma, circolano. || 크리스티아노요. 마르모라타 거리 중개인. 커피 마시면서. 로마에선 다 돌잖아요.
+
+# 장면 5 — LE FIRME
+> 낮 12시 10분. 마흔세 쪽 낭독이 끝났다. 공증인이 펜을 내려놓는다 || 낮 12시 10분. 마흔세 쪽 낭독이 끝났다. 공증인이 펜을 내려놓는다
+BENEDETTI: «...letto, confermato e sottoscritto». Ho finito. Le parti dichiarano di aver compreso il contenuto dell'atto e di approvarlo? || «…낭독하고, 확인하고, 서명함». 끝났습니다. 당사자들은 증서 내용을 이해했으며 이를 승인함을 선언합니까?
+CASTELLANI: Lo dichiaro. || 선언합니다.
+FRANCO: Lo dichiaro. || 선언합니다.
+NADIA: Lo dichiaro. || 선언합니다.
+BENEDETTI: E i testimoni confermano di aver assistito alla lettura? || 그리고 증인들은 낭독에 참석했음을 확인합니까?
+SETTIMIO: Confermo. Ho assistito a tutto. Anche se a pagina ventotto ho chiuso gli occhi. Ma ascoltavo. Gli occhi chiusi ascoltano meglio. || 확인하오. 다 참석했소. 28쪽에서 눈을 감긴 했지만. 그래도 듣고 있었소. 눈 감으면 더 잘 들리거든.
+> 로레다나가 고개를 끄덕이고, 공증인을 향해 또렷하게 "Confermo"라고 말한다 || 로레다나가 고개를 끄덕이고, 공증인을 향해 또렷하게 "Confermo"라고 말한다
+BENEDETTI: Allora firmate. Prima la parte venditrice. Poi l'acquirente. Poi i testimoni. Poi io. Ogni pagina. Con il nome per intero. || 그럼 서명하세요. 먼저 매도인. 그다음 매수인. 그다음 증인. 그다음 저. 매 쪽마다. 이름 전부.
+CASTELLANI: «Guido Castellani, per Tevere Living». Ecco. È l'ultima firma che faccio per questo palazzo. || «귀도 카스텔라니, 테베레 리빙 대리». 됐습니다. 이 건물을 위해 하는 마지막 서명이에요.
+FRANCO: Settimio, la penna. || 영감님, 펜.
+SETTIMIO: Eccola. Quella che non si rompe. Del Mattatoio. Ha scritto sedicimila bestie, il tuo nome dal notaio a dicembre, la lettera a Milano, e adesso... il palazzo. Dopo questo la metto via. Ha fatto abbastanza. || 여기. 안 고장 나는 거. 마타토이오 펜. 짐승 만 육천 마리를 적었고, 12월엔 공증인 앞에서 네 이름을, 밀라노 편지를, 그리고 이제… 건물을. 이거 끝나면 치워 둘 거야. 할 만큼 했어.
+FRANCO: «Franco Ceccarelli, per la Cooperativa Il Cantone». Dritto. Ogni pagina. Quarantatré. Non ho sudato. Neanche una goccia. || «프랑코 체카렐리, 협동조합 일 칸토네 대표». 똑바로. 매 쪽마다. 마흔세 쪽. 땀 안 흘렸어. 한 방울도.
+NADIA: «Nadia Hossain, vicepresidente». Quarantatré volte. La mano mi trema. Ma la firma è dritta. || «나디아 호사인, 부이사장». 마흔세 번. 손이 떨려요. 근데 서명은 똑바로.
+SETTIMIO: «Settimio Rinaldi, testimone». E sotto, piccolo... || «세티미오 리날디, 증인». 그리고 밑에, 작게…
+BENEDETTI: Sotto non si può scrivere niente, signor Rinaldi. || 밑엔 아무것도 쓰시면 안 돼요, 리날디 씨.
+SETTIMIO: Duecentotrentasette. Piccolo piccolo. Non si vede. Solo io lo so. || 237. 아주 작게. 안 보여. 나만 알지.
+BENEDETTI: ... Non l'ho visto. Come dite voi. «Non l'ho visto». «Maria Grazia Benedetti, notaio». Signori, alle dodici e trentasei del trentuno marzo duemilaventisette, la Cooperativa Il Cantone è proprietaria di via del Cantone sette. || … 못 봤어요. 여러분 말대로. «못 봤어요». «마리아 그라치아 베네데티, 공증인». 여러분, 2027년 3월 31일 12시 36분, 협동조합 일 칸토네가 비아 델 칸토네 7번지의 소유자가 되었습니다.
+
+# 장면 6 — LE CHIAVI
+> 정적. 그리고 카스텔라니가 가방에서 커다란 열쇠 꾸러미를 꺼낸다. 오래된 것, 새것, 녹슨 것 || 정적. 그리고 카스텔라니가 가방에서 커다란 열쇠 꾸러미를 꺼낸다. 오래된 것, 새것, 녹슨 것
+CASTELLANI: La consegna delle chiavi. Non è obbligatoria in questo atto. Gli inquilini hanno già le loro. Ma il fondo aveva queste. Le chiavi dell'ente. Della cantina. Del lastrico solare. Degli appartamenti vuoti. Le ho portate. Erano in un armadio a Milano. Con un'etichetta: «Cantone 7». || 열쇠 인도. 이 증서에선 의무가 아니에요. 세입자들은 이미 자기 열쇠가 있으니까요. 근데 펀드엔 이게 있었어요. 기관 열쇠. 지하 창고. 옥상. 빈집들. 가져왔어요. 밀라노 캐비닛에 있었어요. «칸토네 7»이라는 꼬리표 붙어서.
+FRANCO: Le chiavi di casa. Come la canzone di Sanremo. || 집 열쇠. 산레모 노래처럼.
+CASTELLANI: Non so la canzone. Ma so cosa vuol dire. A chi le do? || 노래는 몰라요. 근데 뜻은 알죠. 누구한테 드릴까요?
+NADIA: Non a Franco. Non a me. A lui. || 프랑코 씨 말고. 저 말고. 저분께.
+> 모두 세티미오를 본다 || 모두 세티미오를 본다
+SETTIMIO: A me? No. Io ho già dato la mia chiave. A Samir. Alla Befana. Le chiavi si danno a chi resta. Io sono vecchio. Datele a chi resta più a lungo. || 나한테? 아니야. 난 내 열쇠를 이미 줬어. 사미르한테. 베파나 날에. 열쇠는 남는 사람한테 주는 거야. 난 늙었어. 제일 오래 남을 사람한테 줘.
+NADIA: Allora le teniamo nel bar. Dietro il bancone. Dove c'era la foto. Accanto al rogito. Incorniciato. Così chiunque del palazzo ne abbia bisogno sa dove sono. Il bar è aperto alle sette. Sempre. || 그럼 바에 두죠. 카운터 뒤에. 사진 있던 자리에. 액자에 넣은 본계약서 옆에. 그럼 건물 누구든 필요하면 어디 있는지 알죠. 바는 일곱 시에 열어요. 늘.
+FRANCO: Dietro il bancone. Il posto più sicuro di Roma. Lo guardano tutti. || 카운터 뒤. 로마에서 제일 안전한 곳. 다들 지켜보니까.
+CASTELLANI: Allora le do a lei, presidente. Come custode. Non come padrone. || 그럼 이사장님께 드리죠. 관리인으로서. 주인으로서가 아니라.
+FRANCO: Come custode. Accetto. || 관리인으로서. 받겠습니다.
+CASTELLANI: Signor Ceccarelli... posso dire una cosa? Ancora una? || 체카렐리 씨… 하나 말해도 될까요? 하나 더?
+FRANCO: Dica. || 하세요.
+CASTELLANI: Da domani non lavoro più per Tevere Living. Ho dato le dimissioni ieri. Dopo la PEC. La dottoressa Galli le ha accettate. Ha detto: «Guido, sei diventato romano. Non mi servi più». Era un complimento. Credo. || 내일부터 테베레 리빙에서 일 안 해요. 어제 사표 냈어요. PEC 다음에. 갈리 대표가 받아들였어요. «귀도, 당신 로마 사람이 다 됐네요. 이제 필요 없어요» 그러더군요. 칭찬이었어요. 아마도.
+NADIA: E adesso cosa farà? || 그럼 이제 뭐 하실 거예요?
+CASTELLANI: Non lo so. Mia moglie dice che dovrei comprare un mattone. Come prima cosa. Poi pensare. || 모르겠어요. 아내는 제일 먼저 벽돌 한 장 사라던데요. 그다음에 생각하고.
+FRANCO: Il mattone glielo regalo io. Il numero mille. Quando ci arriviamo. Con scritto «Guido, di Campo de' Fiori». || 벽돌은 제가 선물할게요. 1000번. 거기까지 가면. «캄포 데 피오리의 귀도»라고 써서.
+CASTELLANI: ... «Di Campo de' Fiori». Mio nonno ne sarebbe orgoglioso. || … «캄포 데 피오리의». 우리 할아버지가 자랑스러워하시겠네요.
+
+# 장면 7 — SUL VIALE
+> 낮 1시. 비알레 마치니. 봄 햇살. 프랑코, 나디아, 세티미오가 인도에 선다. 프랑코가 열쇠 꾸러미를 흔든다 || 낮 1시. 비알레 마치니. 봄 햇살. 프랑코, 나디아, 세티미오가 인도에 선다. 프랑코가 열쇠 꾸러미를 흔든다
+FRANCO: Allora. Siamo proprietari. Cioè, non proprietari. La cooperativa è proprietaria. Noi siamo... cosa siamo, Nadia? || 자. 우리가 주인이야. 아니, 주인 아니지. 협동조합이 주인이고. 우린… 우린 뭐야, 나디아?
+NADIA: Siamo custodi. Come ha detto la Galli. Come diceva la madre di Settimio. || 관리인이죠. 갈리 대표 말대로. 세티미오 영감님 어머님 말씀대로.
+SETTIMIO: E adesso? Sono le dieci passate. Posso dirlo? || 그럼 이제? 열 시 지났잖아. 말해도 되지?
+FRANCO: Lo dica, Sor Settimio. Gratis. Da adesso è gratis. || 하세요, 영감님. 공짜예요. 이제부터 공짜예요.
+SETTIMIO: Ai miei tempi... ai miei tempi un palazzo lo compravano i ricchi. Oggi l'ha comprato un barista, una mediatrice, una maestra, un meccanico, un infermiere, una farmacista, un cameriere, un disoccupato calabrese e quattrocento sconosciuti. E un vecchio del Mattatoio. Ai miei tempi era peggio. Molto peggio. || 내 젊을 땐… 내 젊을 땐 건물은 부자들이 샀어. 오늘은 바리스타, 문화중재자, 선생님, 정비공, 간호사, 약사, 웨이터, 칼라브리아 실업자, 그리고 모르는 사람 사백 명이 샀지. 그리고 마타토이오 노인 하나. 내 젊을 땐 더 나빴어. 훨씬 더.
+NADIA: È la prima volta che dice «ai miei tempi era peggio». || «내 젊을 땐 더 나빴다»는 말은 처음 하시네요.
+SETTIMIO: È la prima volta che è vero. Andiamo. Il tram otto. Voglio essere al bar prima delle due. Voglio vedere Franco attaccare il rogito al muro. || 그게 진짜인 것도 처음이니까. 가자. 8번 트램. 두 시 전에 바에 가고 싶어. 프랑코가 본계약서 벽에 거는 거 보고 싶어.
+FRANCO: E poi? Domani? || 그다음엔요? 내일은?
+NADIA: Domani alle sette apri il bar. E dopodomani arriva Pina. E il due aprile Elisa apre il file del tetto. E poi... poi vediamo. || 내일 일곱 시에 바 여시고요. 모레엔 피나 할머니가 오시고. 4월 2일엔 엘리사가 지붕 파일을 열고요. 그다음엔… 두고 봐요.
+SETTIMIO: È il modo romano. || 로마식이지.
+FRANCO: Il modo romano. Sei mesi fa non sapevo cosa fosse una PEC. Adesso ho firmato quarantatré pagine. || 로마식. 여섯 달 전엔 PEC가 뭔지도 몰랐는데. 이젠 마흔세 쪽에 서명했어.
+NADIA: E sei mesi fa io non sapevo cosa fosse un socio sovventore. Adesso ne abbiamo cinquecentotrentaquattro. || 그리고 여섯 달 전엔 전 후원 조합원이 뭔지도 몰랐어요. 이젠 오백서른네 명이에요.
+SETTIMIO: E sei mesi fa io avevo una chiave in un cassetto. Adesso ce l'ha un ragazzo di tredici anni. E un mazzo di chiavi sta per finire dietro un bancone. Le chiavi hanno cambiato casa. Tutte. || 그리고 여섯 달 전엔 서랍에 열쇠 하나가 있었지. 이젠 열세 살 녀석이 갖고 있고. 열쇠 꾸러미는 카운터 뒤로 가는 중이고. 열쇠들이 다 이사했네. 전부.
+FRANCO: E le persone no. Le persone sono rimaste. È questo il punto. || 사람들은 안 했고요. 사람들은 남았어요. 그게 핵심이죠.
+NADIA: Ecco il tram. Il numero otto. In orario. Il trentuno marzo. È un altro miracolo. || 트램 왔어요. 8번. 제시간에. 3월 31일에. 또 기적이네요.
+
+@points
+- 공증 확인 질문(Lei): «Mi conferma le sue generalità?», «Conferma di aver ricevuto...?», «Le parti dichiarano di aver compreso...?», «I testimoni confermano...?» — 답은 짧게 «Confermo», «Lo dichiaro».
+- 인적 사항 말하기: «Nato a Roma il diciotto gennaio millenovecentosessantacinque. Residente in...», «Nata a Roma il sei maggio...».
+- 계약 어휘: «Oggetto», «Prezzo», «caparra confirmatoria», «saldo», «bonifico», «Garanzie», «libertà da ipoteche, pesi e vincoli», «letto, confermato e sottoscritto».
+- 공증인 낭독 톤과 대화 톤의 교대: 증서는 평탄하고 정확하게, 끼어드는 농담은 낮은 소리로.
+- 상징 표현: «Come custode. Non come padrone», «Sono nato dentro l'oggetto del contratto».
+- 비교·회고: «Ai miei tempi era peggio. Molto peggio.» — «È la prima volta che è vero.»
+- 이중자음: «generalità»(홑), «procura»(홑), «ammezzato»[mm][tts], «lastrico»(홑), «ipoteche»(홑), «sottoscritto»[tt][tt], «etichetta»[tt].
+
+@notes
+- 'rogito (atto pubblico di compravendita)' 공증인 앞에서 체결하는 부동산 매매 본계약 — 공증인은 증서 전체를 당사자 앞에서 낭독할 의무가 있다. 증인은 경우에 따라 필요(극 중에선 상징적 의미로 둠).
+- 'procuratore speciale' 특별 대리인, 'procura' 위임장. 'generalità' 인적 사항.
+- 'piano ammezzato' 중이층, 'lastrico solare' 평지붕 옥상(공용 테라스), 'cantina' 지하 창고. 'fabbricato' 건물.
+- 'APE — attestato di prestazione energetica' 에너지 성능 인증서(A4~G 등급). 매매·임대 시 의무. 로마의 오래된 건물은 낮은 등급이 많다.
+- 'saldo' 잔금. 'bonifico' 은행 송금. 'ipoteca' 저당권.
+- 프랑코 생일 1965년 1월 18일(극 중), 나디아 1986년 5월 6일(극 중).
+
+@next
+5부 75화 — «Chi comanda qui?»(여기 누가 대장이야?) — 4월 1일~5일. 피나 할머니가 52년 만의 집으로 돌아온다. 같은 날 시모네는 베를린행 비행기를 탄다. 그리고 첫 번째 '평범한' 조합 회의. 계단 청소 당번, 옥상 빨래, 바 테라스 의자. 적이 사라지자 이웃이 서로의 적이 된다.
