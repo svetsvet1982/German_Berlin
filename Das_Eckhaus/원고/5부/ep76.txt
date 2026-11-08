@@ -1,0 +1,162 @@
+#nr: 76
+#part: 5부 Neuer Frühling (이듬해 봄)
+#title: Solar auf dem Dach
+#ko: 지붕 위의 태양광 · 비계가 서 있는 동안
+#level: B2~C1
+#setting: 4월 10일 토요일. 브란트 부자의 지붕 공사가 나흘째다. 건물 앞에는 비계가 서 있다. 비계는 하루에 200유로. 그렇다면 지붕이 열려 있는 지금, 태양광 패널을 올려야 하지 않을까. 에디트가 여름 코트부스 여행에서 흘렸던 꿈. 에너지 컨설턴트 페테르젠 씨가 숫자를 들고 온다. 지붕 태양광, 발코니 태양광, 그리고 오래된 가스 보일러를 대신할 히트펌프냐 지역난방이냐. 야니크의 계산, 슐체 부인의 회의, 피치 씨의 보일러실 30년, 그리고 잔과 린의 과학 숙제. 표현 초점: 비용 대비 효과 논증, 기술 설명 이해하기, 수치 비교, 장기적 관점의 설득.
+#cast: Herr Brandt | 올리버 브란트 · 40대, 지붕 수리공
+#cast: Brandt senior | 한스 브란트 · 80세, 올리버의 아버지, 지붕 장인
+#cast: Kalle | 칼레 코발스키 · 58세, 이사
+#cast: Edith | 에디트 크뤼거 · 84세 직전
+#cast: Frau Petersen | 리케 페테르젠 · 40대, 에너지 컨설턴트
+#cast: Jannik | 야니크 후버 · 25세
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Herr Pietsch | 귄터 피치 · 71세
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Lin | 린 · 11세
+#cast: Miriam | 미리암 슈타인 · 33세
+#cast: Kofi | 코피 멘사 · 35세
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Derya | 데르야 이을드즈 · 40세, 이사
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Hüseyin | 휘세인 이을드즈 · 65세
+#cast: Wojtek | 보이텍 · 50대
+#read: 기술 설명(페테르젠 씨): 숫자와 단위를 정확히. „Achtundzwanzig Kilowatt Peak." „Fünfundzwanzigtausend Kilowattstunden im Jahr." — Kilowattpeak [ˌkiloˈvatˌpiːk].
+#read: 비용 대비 효과: „Das rechnet sich nach elf Jahren." „Die Anlage hält fünfundzwanzig." — 기간과 금액을 대비하며 리듬감 있게.
+#read: 회의적인 질문(슐체 부인): 짧고 날카롭게. „Und wer garantiert das?" „Schriftlich?"
+#read: Photovoltaik [ˌfotovɔlˈtaːɪk], Wärmepumpe [ˈvɛʁməˌpʊmpə], Fernwärme [ˈfɛʁnˌvɛʁmə], Balkonkraftwerk [balˈkɔŋkʁaftˌvɛʁk].
+#note: 독일의 주택 에너지 전환: 건물 에너지법(GEG)에 따라 새로 설치하는 난방은 점차 재생 에너지 비율을 높여야 한다. 대안은 Wärmepumpe(히트펌프, 공기·땅의 열을 전기로 끌어올림), Fernwärme(지역난방, 발전소·소각장의 열을 관으로 공급), Biomasse(나무 펠릿) 등. 비용과 건물 상태에 따라 선택이 달라진다. 베를린 도심에는 지역난방망이 많다.
+#note: Mieterstrom(세입자 전력): 건물 지붕의 태양광으로 만든 전기를 그 건물 세입자에게 직접 판매하는 모델. 전력망을 거치지 않으니 요금이 싸다. 협동조합에서는 조합원에게 공급한다.
+#note: Balkonkraftwerk(발코니 발전소): 발코니 난간에 다는 소형 태양광 패널(최대 800와트). 플러그를 콘센트에 꽂기만 하면 된다. 2024년부터 임차인도 집주인에게 설치를 요구할 권리가 생겼다.
+#note: 비용·효과 표현: Das rechnet sich. (수지가 맞는다) / Die Investition amortisiert sich nach … Jahren. (…년이면 회수된다) / Unterm Strich sparen wir … / Das lohnt sich (nicht). / langfristig betrachtet (장기적으로 보면) / die laufenden Kosten (운영 비용) / die Anschaffungskosten (구입 비용)
+#note: Kilowatt peak(kWp) = 태양광 패널의 최대 출력. Kilowattstunde(kWh) = 실제로 생산·소비하는 전기량. 베를린에서 1kWp는 1년에 약 900~1,000kWh를 생산한다.
+## Auf dem Gerüst | 비계 위에서
+Herr Brandt: Kalle! Komm mal hoch! Auf das Gerüst! Nur bis zur ersten Etage! Ich muss dir etwas zeigen! || 칼레! 좀 올라와 봐요! 비계 위로요! 2층까지만요! 보여 줄 게 있어요!
+Kalle: Auf ein Gerüst? Mit achtundfünfzig? Mit Kneipenschuhen? || 비계 위로? 쉰여덟에? 가게 신발 신고?
+Brandt senior: Ich bin achtzig, Herr Kowalski. Und ich bin oben. Auf dem First. Wenn ich das kann, können Sie die erste Etage. || 나는 여든이에요, 코발스키 씨. 그리고 나는 위에 있소. 용마루에. 내가 할 수 있으면 당신은 2층쯤은 할 수 있지.
+Kalle: Gut. Gut. Ick komme. Langsam. … So. Wat ist? || 알았어요. 알았어. 갈게요. 천천히. …됐다. 뭐예요?
+Herr Brandt: Guck. Das Dach. Nach Süden. Neunzig Quadratmeter Fläche. Kein Schatten. Die Kastanie steht im Hof. Auf der Nordseite. Das Dach liegt frei. Den ganzen Tag. Wir haben die alten Ziegel runter. Die Lattung ist neu. Und das Gerüst steht. Noch drei Wochen. || 봐요. 지붕이요. 남향이에요. 면적 90제곱미터. 그늘도 없어요. 밤나무는 안마당 북쪽에 있으니까요. 지붕은 하루 종일 탁 트여 있어요. 옛날 기와는 다 걷어 냈고. 받침목은 새거예요. 그리고 비계는 서 있고요. 앞으로 삼 주 더요.
+Kalle: Und? || 그래서요?
+Herr Brandt: Und wenn ihr jemals Solar aufs Dach wollt, dann jetzt. Nicht in fünf Jahren. Dann müsstet ihr ein neues Gerüst stellen. Das kostet achttausend Euro. Nur das Gerüst. Jetzt ist es schon bezahlt. || 그리고 언젠가 지붕에 태양광을 올리고 싶으면 지금이에요. 오 년 뒤가 아니라요. 그땐 비계를 새로 세워야 해요. 그것만 팔천 유로예요. 비계만요. 지금은 이미 돈을 냈잖아요.
+Brandt senior: Und die Haken für die Module setze ich unter die Ziegel. Bevor sie draufkommen. Das ist eine Stunde Arbeit. Später ist es ein Tag. Mit Löchern. Und Löcher in einem neuen Dach … Herr Kowalski, ich habe sechzig Jahre Dächer gedeckt. Ich hasse Löcher in neuen Dächern. || 그리고 모듈용 고정 고리는 기와 밑에 내가 박아 둘게요. 기와 덮기 전에요. 지금은 한 시간 일이에요. 나중엔 하루 일이죠. 구멍까지 뚫어야 하고. 새 지붕에 구멍이라니… 코발스키 씨, 나 육십 년 동안 지붕을 덮었소. 새 지붕에 구멍 뚫는 건 질색이오.
+Kalle: Wie viel kostet so etwas? Die Module? || 그런 건 얼마나 해요? 모듈이요?
+Herr Brandt: Das kann ich dir nicht sagen. Ich bin Dachdecker. Nicht Elektriker. Aber Edith hat im Sommer gesagt … hat sie gesagt, oder? „Wenn das Haus uns gehört, kommt Solar aufs Dach." Hat Paul mir erzählt. || 그건 내가 말해 줄 수 없어요. 나는 지붕 수리공이지 전기 기술자가 아니라서요. 그런데 에디트 할머니가 여름에 그러셨다면서요… 그러셨죠? „집이 우리 것이 되면 지붕에 태양광을 올리자." 파울이 얘기해 줬어요.
+Edith: Ich habe es gesagt. In Cottbus. Am Bahnhof. Vor den Solarfeldern. Wo früher der Tagebau war. Pauls Vater hat da gearbeitet. Erst Kohle. Dann Sonne. Ich habe gedacht: Wenn ein Kohlefeld Sonne machen kann, dann kann es ein Dach in Neukölln auch. || 내가 그랬지. 코트부스에서. 역 앞에서. 태양광 단지 앞에서. 옛날에 노천 탄광이 있던 데. 파울 아버지가 거기서 일하셨잖아. 처음엔 석탄. 그다음엔 햇빛. 그때 생각했지. 탄광이 햇빛을 만들 수 있으면 노이쾰른 지붕도 할 수 있겠다.
+Kalle: Edith. Du stehst unten. Gut. Bleib unten. Ick rufe heute noch jemanden an. Eine Energieberaterin. Henriette hat mir eine Nummer gegeben. „Für den Fall, dass das Dach offen ist." || 에디트. 아래 있는 거지. 좋아. 거기 있어. 오늘 당장 누구한테 전화할게. 에너지 컨설턴트한테. 헨리에테가 번호를 줬거든. „지붕이 열려 있을 때를 대비해서."
+Edith: Henriette denkt an alles. Wie Gisela. Wie Ingrid. Ich bin umgeben von Frauen, die an alles denken. || 헨리에테는 뭐든 다 생각하네. 기젤라처럼. 잉그리트처럼. 내 주변엔 뭐든 다 생각하는 여자들뿐이야.
+Brandt senior: Und von Männern, die auf Gerüsten stehen. Das ist eine gute Mischung. || 그리고 비계 위에 선 남자들도요. 그거 좋은 조합이오.
+## Die Energieberaterin | 에너지 컨설턴트
+Frau Petersen: Petersen. Energieberatung. Henriette hat mich gestern Abend angerufen. Sie hat gesagt: „Rike, das Dach ist offen. Lass alles liegen." Hier ist meine Rechnung. Erste Version. || 페테르젠입니다. 에너지 컨설팅이요. 헨리에테가 어젯밤에 전화했어요. „리케, 지붕이 열려 있어. 하던 일 다 내려놔." 여기 제 계산서예요. 첫 번째 버전이요.
+Jannik: Darf ich? Ich bin für die Finanzen zuständig. Zusammen mit Jana. Sie ist heute beim Frühstück. || 봐도 될까요? 저 재무 담당이에요. 야나 누나랑 같이요. 누나는 오늘 아침 식사 담당이고요.
+Frau Petersen: Natürlich. Also. Dachfläche Süd, neunzig Quadratmeter. Darauf passen Module mit achtundzwanzig Kilowatt Peak. Das erzeugt in Berlin etwa fünfundzwanzigtausend Kilowattstunden im Jahr. Das Haus verbraucht für die Wohnungen etwa vierzigtausend. Plus Kneipe. Plus Werkstatt. || 물론이죠. 자. 남향 지붕 면적 90제곱미터. 거기에 28킬로와트 피크짜리 모듈이 들어가요. 베를린에서 그건 1년에 약 2만 5천 킬로와트시를 만들어요. 이 집 주택들이 쓰는 건 약 4만이고요. 거기에 크나이페. 거기에 공방.
+Jannik: Also deckt die Anlage etwa die Hälfte des Stroms für die Wohnungen. Im Jahresmittel. || 그러니까 그 설비가 주택 전력의 절반쯤을 메우는 거네요. 연평균으로요.
+Frau Petersen: Genau. Im Sommer mehr. Im Winter weniger. Kosten: etwa vierzigtausend Euro. Mit Wechselrichter, Montage, Anschluss. Ohne Gerüst. Das steht schon. Förderung: Es gibt einen zinsgünstigen Kredit von der Förderbank. Und ein Berliner Programm. Das bringt noch einmal zehn Prozent. || 맞아요. 여름엔 더. 겨울엔 덜. 비용은 약 4만 유로요. 인버터, 설치, 연결까지 해서요. 비계는 빼고요. 그건 이미 서 있으니까요. 지원은요. 진흥 은행에서 저금리 대출이 있어요. 그리고 베를린 프로그램이 하나 있고요. 그게 10퍼센트를 더 줘요.
+Frau Schulze: Vierzigtausend. Und was haben die Mitglieder davon? Konkret. In Euro. Pro Monat. || 4만이라. 그래서 조합원들한테 뭐가 남는데요? 구체적으로요. 유로로요. 한 달에요.
+Frau Petersen: Mieterstrom. Die Genossenschaft verkauft den Strom vom Dach direkt an die Mitglieder. Zum Beispiel für fünfundzwanzig Cent pro Kilowattstunde. Statt fünfunddreißig beim Versorger. Ein Haushalt mit zweitausend Kilowattstunden im Jahr spart dann zweihundert Euro. Und die Genossenschaft verdient trotzdem genug, um den Kredit abzuzahlen. || 세입자 전력이요. 협동조합이 지붕에서 만든 전기를 조합원들한테 직접 파는 거예요. 예를 들면 킬로와트시당 25센트에요. 전력 회사의 35센트 대신에요. 1년에 2천 킬로와트시를 쓰는 가구면 이백 유로를 아끼는 셈이죠. 그리고 협동조합은 그래도 대출을 갚을 만큼은 벌어요.
+Frau Schulze: Und wer garantiert das? Schriftlich? || 그걸 누가 보장해요? 서면으로요?
+Frau Petersen: Die Sonne. Nicht schriftlich. Aber seit viereinhalb Milliarden Jahren zuverlässig. Und ein Messkonzept, das ich Ihnen schriftlich gebe. Mit Zählern für jede Wohnung. || 태양이요. 서면으로는 아니지만. 그래도 사십오억 년째 믿을 만하죠. 그리고 측정 계획은 서면으로 드릴게요. 집마다 계량기 달아서요.
+Herr Pietsch: Und die Heizung? Die Gasheizung im Keller ist von neunzehnhundertvierundneunzig. Ich habe sie dreißig Jahre gepflegt. Sie hat noch fünf Jahre. Vielleicht drei. Dann ist sie tot. Ich höre es an ihrem Husten. Morgens um sechs. || 그럼 난방은요? 지하 가스 보일러가 1994년 거예요. 내가 삼십 년 동안 돌봤지. 앞으로 오 년 남았어요. 아마 삼 년. 그다음엔 죽어요. 기침 소리 들으면 알아요. 아침 여섯 시에.
+Frau Petersen: Die Heizung ist das größere Thema. Aber nicht heute. Heute ist das Dach offen. Die Heizung ist im Keller. Der Keller ist morgen auch noch da. Das Gerüst nicht. || 난방이 더 큰 문제예요. 그래도 오늘은 아니에요. 오늘은 지붕이 열려 있어요. 난방은 지하에 있고요. 지하는 내일도 그대로 있어요. 비계는 아니지만요.
+Kalle: Also: Erst das Dach. Dann der Keller. Wie bei Edith. Erst die Steine. Dann die Freude. || 그러니까 먼저 지붕. 그다음에 지하. 에디트처럼. 먼저 돌. 그다음에 기쁨.
+Edith: Das ist nicht ganz dasselbe, Kalle. Aber es reimt sich. Fast. || 그건 완전히 같은 건 아니야, 칼레. 그래도 운은 맞네. 거의.
+## Im Heizungskeller | 보일러실에서
+Herr Pietsch: Hier ist sie. Die alte Dame. Neunzehnhundertvierundneunzig. Gas-Zentralheizung. Hundertvierzig Kilowatt. Ich nenne sie Gerda. Nach meiner Frau. Weil sie beide morgens Zeit brauchten, um warm zu werden. || 여기 있소. 이 할머니. 1994년산. 가스 중앙난방. 140킬로와트. 나는 게르다라고 불러요. 우리 집사람 이름을 따서. 둘 다 아침에 따뜻해지는 데 시간이 걸렸거든.
+Frau Petersen: Gerda ist in gutem Zustand. Für ihr Alter. Aber sie verbraucht zu viel. Und Gas wird teurer. Jedes Jahr. Wegen des CO₂-Preises. In fünf Jahren zahlen Sie doppelt so viel für dieselbe Wärme. || 게르다는 상태가 좋네요. 나이에 비해서는요. 그런데 너무 많이 먹어요. 그리고 가스는 비싸지고요. 해마다요. 탄소 가격 때문에요. 오 년 뒤면 똑같은 열에 두 배를 내시게 될 거예요.
+Frau Schulze: Erster Einwand: Eine Wärmepumpe in einem Altbau von neunzehnhundertacht? Ohne Dämmung? Mit Heizkörpern statt Fußbodenheizung? Ich habe gelesen, das funktioniert nicht. || 첫 번째 반론이요. 1908년 알트바우에 히트펌프요? 단열도 없이요? 바닥 난방도 아니고 라디에이터인데요? 그건 안 된다고 읽었어요.
+Frau Petersen: Das war vor zehn Jahren richtig. Heute nicht mehr ganz. Moderne Wärmepumpen schaffen auch hohe Vorlauftemperaturen. Aber Sie haben recht: Ohne bessere Fenster und ein gedämmtes Dach wird es teuer im Betrieb. Das Dach wird jetzt gedämmt. Das hilft schon. || 십 년 전엔 맞는 말이었어요. 지금은 꼭 그렇지 않아요. 요즘 히트펌프는 높은 공급 온도도 낼 수 있거든요. 그래도 말씀이 맞아요. 창문을 바꾸고 지붕을 단열하지 않으면 운영비가 비싸져요. 지붕은 지금 단열하고 있죠. 그것만 해도 도움이 돼요.
+Frau Schulze: Zweiter Einwand: Fernwärme. Im Maybachufer liegt eine Leitung. Das weiß ich aus Ordner sieben. Bauakten des Bezirks. Fernwärme braucht keinen Platz im Keller. Kein Gerät im Hof. Keinen Lärm. || 두 번째 반론이요. 지역난방이요. 마이바흐우퍼에 관이 지나가요. 7번 서류철에서 봤어요. 구청 건축 서류요. 지역난방은 지하에 자리도 필요 없고. 안마당에 기계도 필요 없고. 소음도 없죠.
+Frau Petersen: Richtig. Aber die Fernwärme in Berlin kommt noch zu einem Teil aus Gas und Kohle. Das wird sich ändern. Bis zweitausendvierzig soll sie klimaneutral sein. Sagt der Versorger. Die Frage ist: Glauben Sie dem Versorger? || 맞아요. 그런데 베를린 지역난방은 아직 일부가 가스랑 석탄에서 와요. 그건 바뀔 거예요. 2040년까지 탄소 중립이 될 거래요. 공급 회사 말로는요. 문제는 이거예요. 공급 회사를 믿으세요?
+Frau Schulze: Ich glaube niemandem, Frau Petersen. Ich prüfe. Dritter Einwand bis siebter Einwand: schriftlich. Bis zur Versammlung. Mit Quellen. || 나는 아무도 안 믿어요, 페테르젠 씨. 검증하죠. 세 번째부터 일곱 번째 반론은 서면으로 드릴게요. 총회 전까지요. 출처 달아서요.
+Herr Pietsch: Und Gerda? Was passiert mit Gerda? || 그럼 게르다는요? 게르다는 어떻게 돼요?
+Frau Petersen: Gerda darf in Rente gehen. Wenn die Mitglieder entschieden haben. Vielleicht in zwei Jahren. Vielleicht in drei. Sie muss nicht heute sterben. || 게르다는 은퇴해도 돼요. 조합원들이 결정하면요. 어쩌면 이 년 뒤. 어쩌면 삼 년 뒤. 오늘 죽을 필요는 없어요.
+Herr Pietsch: Gut. Dann pflege ich sie noch zwei Jahre. Mittwochs. Nach dem Tee. Und dann bringe ich sie selbst zum Schrott. Mit Blumen. || 좋아요. 그럼 이 년 더 돌볼게요. 수요일마다. 차 마시고 나서. 그다음엔 내가 직접 고철로 보낼게요. 꽃 들고.
+Can: Herr Pietsch, Sie sind der Einzige, der mit einer Heizung redet. || 피치 할아버지는 보일러랑 얘기하는 유일한 분이에요.
+Herr Pietsch: Nein, Can. Ich bin der Einzige, der zuhört. Reden tut sie selbst. Jeden Morgen um sechs. || 아니다, 잔. 나는 들어 주는 유일한 사람이지. 말은 저 혼자 해. 매일 아침 여섯 시에.
+## Die Rechnung | 계산
+Jannik: Ich habe gerechnet. Vierzigtausend minus zehn Prozent Förderung: sechsunddreißigtausend. Über einen Kredit mit zwei Prozent auf fünfzehn Jahre. Rate: etwa zweitausendachthundert im Jahr. Einnahmen aus Mieterstrom und Einspeisung: etwa viertausendzweihundert im Jahr. Überschuss: vierzehnhundert. Das rechnet sich. Ab dem ersten Jahr. || 계산해 봤어요. 4만에서 지원금 10퍼센트 빼면 3만 6천. 금리 2퍼센트 15년 대출로요. 상환액은 1년에 약 이천팔백. 세입자 전력이랑 송전 수입은 1년에 약 사천이백. 흑자 천사백. 수지가 맞아요. 첫해부터요.
+Frau Schulze: Ab dem ersten Jahr. Das sagen alle, die etwas verkaufen wollen, Herr Huber. || 첫해부터라. 뭘 팔려는 사람들은 다 그렇게 말해요, 후버 씨.
+Jannik: Ich will nichts verkaufen. Ich habe die Zahlen von Frau Petersen dreimal geprüft. Und dann mit meiner Mutter. Per Telefon. Sie hat gesagt: Bub, das rechnet sich. Und sie ist Steuerberaterin. In Augsburg. Die sagen das nie. || 저 아무것도 안 팔아요. 페테르젠 씨 숫자를 세 번 확인했어요. 그다음엔 엄마랑요. 전화로요. 엄마가 그러셨어요. 얘야, 그건 수지가 맞는다. 그리고 우리 엄마는 세무사예요. 아우크스부르크의요. 세무사들은 그런 말 절대 안 해요.
+Frau Schulze: … Ihre Mutter hat Ja gesagt? Dann ist es ernst. || …어머님이 좋다고 하셨어요? 그럼 진지한 얘기네요.
+Tobi: Und wer macht die Wartung? Wenn ein Modul kaputtgeht? Wenn der Wechselrichter ausfällt? Ich kann Fahrräder reparieren. Keine Solaranlagen. || 그럼 유지 보수는 누가 해요? 모듈 하나가 고장 나면요? 인버터가 나가면요? 저는 자전거는 고치는데. 태양광 설비는 못 고쳐요.
+Frau Petersen: Die Module halten fünfundzwanzig Jahre. Mindestens. Garantie. Der Wechselrichter zwölf bis fünfzehn. Dann muss er einmal getauscht werden. Das sind dreitausend Euro. Steht in meiner Rechnung. Seite vier. Unter Rücklage. || 모듈은 25년 가요. 최소한이요. 보증이 있어요. 인버터는 12년에서 15년. 그때 한 번 바꿔야 해요. 삼천 유로요. 제 계산서에 있어요. 4쪽이요. 적립금 항목에요.
+Frau Schulze: Seite vier. Rücklage. Sie haben an die Rücklage gedacht. Ohne dass ich gefragt habe. || 4쪽. 적립금. 내가 묻기도 전에 적립금을 생각해 두셨네요.
+Frau Petersen: Henriette hat mich gewarnt. Sie hat gesagt: „Rike, da gibt es eine Frau Schulze. Rechne die Rücklage vorher ein. Sonst bist du verloren." || 헨리에테가 미리 경고했거든요. „리케, 거기 슐체 부인이라는 분이 있어. 적립금은 미리 계산에 넣어 둬. 안 그러면 넌 끝장이야."
+Frau Schulze: Henriette ist eine kluge Frau. Ich habe keine Einwände. Zur Photovoltaik. Zur Heizung habe ich sieben. Aber das ist ein anderer Tag. || 헨리에테는 현명한 분이에요. 태양광엔 반대 없어요. 난방엔 일곱 개 있지만요. 그건 다른 날 얘기고요.
+Derya: Dann stimmen wir ab. Der Vorstand kann das nicht allein entscheiden. Vierzigtausend ist über unserer Grenze. Paragraf achtundzwanzig. Ab zwanzigtausend entscheiden die Mitglieder. Aber das Gerüst steht nur drei Wochen. || 그럼 표결해요. 이사회 혼자서는 결정 못 해요. 4만은 우리 한도를 넘어요. 제28조. 2만 넘으면 조합원들이 결정하죠. 그런데 비계는 삼 주밖에 안 서 있어요.
+Kalle: Eine Mitgliederversammlung in drei Wochen. Mit Einladung. Vierzehn Tage Frist. Det geht gerade so. Ingrid? || 삼 주 안에 조합원 총회라. 소집 통지까지 해서. 14일 전에. 겨우 되겠네. 잉그리트?
+Frau Schulze: Ich schicke die Einladung heute raus. Um sechzehn Uhr. Versammlung am vierundzwanzigsten. Ein Samstag. Und bis dahin kann Herr Brandt senior die Haken setzen. Unter Vorbehalt. Falls die Mitglieder Nein sagen, bleiben sie unter den Ziegeln. Für die nächste Generation. || 오늘 소집 통지 보낼게요. 오후 네 시에. 총회는 24일. 토요일이요. 그리고 그때까지 브란트 할아버지는 고정 고리를 박아 두셔도 돼요. 조건부로요. 조합원들이 안 된다고 하면 그 고리는 기와 밑에 그대로 남는 거죠. 다음 세대를 위해서요.
+Brandt senior: Haken für die nächste Generation. Das habe ich in sechzig Jahren noch nie gemacht. Gut. Ich mache es. Umsonst. Das ist mein Beitrag. Für die Frau mit den Stufen. || 다음 세대를 위한 고리라. 육십 년 동안 그런 건 해 본 적이 없소. 좋아요. 할게요. 공짜로. 그게 내 기여요. 계단 할머니를 위해서.
+## Am Tresen | 카운터에서
+Bine: Solar. Auf unserem Dach. Ick weiß nicht. Mein Schwager sagt, die Module kommen alle aus China. Und in zwanzig Jahren sind sie Sondermüll. || 태양광이라. 우리 지붕에. 글쎄다. 우리 형부가 그러는데 모듈은 다 중국산이래. 그리고 이십 년 뒤엔 특수 폐기물이 된대.
+Tobi: Dein Schwager sagt auch, dass Fahrradwege Autos diskriminieren. || 누나 형부는 자전거 도로가 자동차를 차별한다고도 하잖아요.
+Bine: Das stimmt ja auch. Manchmal. In der Hasenheide. || 그것도 가끔은 맞는 말이야. 하젠하이데에선.
+Frau Petersen: Die Module kommen tatsächlich meistens aus China. Das ist ein berechtigter Einwand. Es gibt auch europäische. Die sind zwanzig Prozent teurer. Und in fünfundzwanzig Jahren werden sie recycelt. Zu neunzig Prozent. Das ist Pflicht. Kein Sondermüll. || 모듈은 실제로 대부분 중국산이에요. 정당한 반론이에요. 유럽산도 있어요. 그건 20퍼센트 비싸요. 그리고 25년 뒤엔 재활용돼요. 90퍼센트까지요. 그건 의무예요. 특수 폐기물이 아니고요.
+Hüseyin: Ich habe vierzig Jahre Elektromotoren gebaut. In Tempelhof. Am Ende kamen die Teile auch aus China. Und die Motoren liefen trotzdem. Die Frage ist nicht, woher die Teile kommen. Die Frage ist, wer sie zusammenbaut. Und wer sie pflegt. || 나는 사십 년 동안 전기 모터를 만들었어요. 템펠호프에서요. 마지막엔 부품도 중국에서 왔죠. 그래도 모터는 잘 돌아갔어요. 문제는 부품이 어디서 오느냐가 아니에요. 누가 조립하고 누가 돌보느냐지.
+Wojtek: Und wer sie aufs Dach trägt. Ich habe zwanzig Jahre Glas auf Dächer getragen. Am Potsdamer Platz. Ich kann auch Module tragen. Zwei pro Gang. Achtzehn Kilo das Stück. || 그리고 누가 그걸 지붕에 올리느냐도요. 나 이십 년 동안 포츠담 광장에서 유리를 지붕에 날랐어요. 모듈도 나를 수 있어요. 한 번에 두 장씩. 한 장에 18킬로.
+Kalle: Und ick? Ick verstehe von Strom nur eins: Die Kühlung im Keller frisst jeden Monat dreihundert Euro. Wenn die Sonne die Kühlung bezahlt, dann bin ick dafür. Egal, woher die Module kommen. || 그럼 나는? 나는 전기에 대해 딱 하나만 알아. 지하 냉장 설비가 매달 삼백 유로를 먹는다는 거. 햇빛이 냉장 설비 값을 내 준다면 나는 찬성이야. 모듈이 어디서 오든.
+Frau Petersen: Im Sommer, wenn die Kneipe die Kühlung am meisten braucht, macht das Dach am meisten Strom. Das passt perfekt. Bier und Sonne. Gleichzeitig. || 여름엔 크나이페가 냉장 설비를 제일 많이 쓰고, 지붕은 전기를 제일 많이 만들어요. 딱 맞아떨어지죠. 맥주랑 햇빛. 동시에요.
+Bine: Bier und Sonne gleichzeitig. Det ist das erste Argument für Solar, das ick verstehe. Ick bin dafür. Mein Schwager kann mich mal. || 맥주랑 햇빛이 동시에라. 그게 내가 이해하는 첫 번째 태양광 찬성 논거네. 나 찬성이야. 우리 형부는 신경 꺼.
+Tobi: Und ich will eine Ladesäule. Für die Lastenräder. Im Hof. Mit Strom vom Dach. Dann fahren unsere Räder mit Sonne. || 그리고 저는 충전기 하나 갖고 싶어요. 화물 자전거용으로요. 안마당에요. 지붕 전기로요. 그럼 우리 자전거가 햇빛으로 달리는 거예요.
+Frau Petersen: Das ist Phase zwei. Erst das Dach. Dann der Hof. Ich schreibe es auf. Unter „Visionen". || 그건 2단계예요. 먼저 지붕. 그다음에 안마당. 적어 둘게요. ‚비전' 항목에요.
+Kalle: Bei uns heißt das nicht Visionen. Bei uns heißt das: Kreidetafel. Rechts unten. Wo noch Platz ist. || 우리 집에선 그걸 비전이라고 안 해요. 칠판이라고 하지. 오른쪽 아래. 아직 자리 남은 데.
+## Sechzehn Uhr: die Einladung | 오후 네 시: 소집 통지
+Frau Schulze: „Einladung zur außerordentlichen Mitgliederversammlung der Eckhaus eG. Samstag, vierundzwanzigster April, fünfzehn Uhr. In der Ecke. Tagesordnung: Erstens: Errichtung einer Photovoltaikanlage auf dem Dach. Zweitens: Informationen zur künftigen Wärmeversorgung." || „Eckhaus eG 임시 조합원 총회 소집 통지. 4월 24일 토요일 오후 세 시. 크나이페에서. 안건. 첫째, 지붕 태양광 설비 설치. 둘째, 향후 난방 공급에 관한 안내."
+Derya: Fünfzehn Uhr? Nicht abends? || 오후 세 시요? 저녁이 아니고요?
+Frau Schulze: Um fünfzehn Uhr ist die Sonne noch da. Frau Petersen kann auf dem Dach zeigen, wo die Module hinkommen. Mit echtem Licht. Wer zweifelt, soll gucken. || 오후 세 시엔 아직 해가 있잖아요. 페테르젠 씨가 지붕에서 모듈이 어디 들어갈지 보여 줄 수 있어요. 진짜 햇빛으로요. 의심하는 사람은 직접 보면 되죠.
+Can: Und Lin und ich machen ein Plakat. Für die Versammlung. „Einsteins Nobelpreis auf unserem Dach." Mit einer Zeichnung. Von Einstein auf einem Gerüst. || 그리고 린이랑 저는 포스터 만들 거예요. 총회용으로요. „우리 지붕 위의 아인슈타인 노벨상." 그림도 그려서요. 비계 위에 선 아인슈타인이요.
+Lin: Mit herausgestreckter Zunge. Wie auf dem berühmten Foto. Weil die Sonne ihn blendet. || 혀 내민 모습으로요. 그 유명한 사진처럼요. 햇빛이 눈부셔서요.
+Kalle: Einstein auf einem Gerüst. Mit Zunge. Det ist das beste Plakat, das in dieser Kneipe je hing. Besser als das von Union. || 비계 위의 아인슈타인. 혀 내밀고. 그거 이 가게에 걸린 포스터 중에 제일 좋은 거 되겠다. 우니온 포스터보다 낫겠어.
+Derya: Kalle. Bist du für die Anlage? Ehrlich? Du hast heute Morgen gesagt, du verstehst nichts von Strom. || 칼레. 그 설비 찬성이에요? 솔직하게요? 오늘 아침엔 전기에 대해 아무것도 모른다고 했잖아요.
+Kalle: Ick verstehe nichts von Strom. Aber ick verstehe etwas von Edith. Sie hat im Sommer in Cottbus vor einem Solarfeld gestanden. Wo vorher Kohle war. Und hat gesagt: Wenn das Haus uns gehört. Jetzt gehört es uns. Fast. Und das Gerüst steht. Det ist kein Strom-Argument. Det ist ein Versprechen. Diesmal eins, das allen gehört. Weil Edith es allen gesagt hat. || 전기는 몰라. 그래도 에디트는 좀 알지. 여름에 코트부스에서 태양광 단지 앞에 서 있었어. 석탄이 있던 데에. 그리고 그랬지. 집이 우리 것이 되면. 이제 우리 거야. 거의. 그리고 비계가 서 있고. 그건 전기 논거가 아니야. 약속이지. 이번엔 모두의 것인 약속. 에디트가 모두한테 말했으니까.
+Derya: Dann sag das am vierundzwanzigsten. Genau so. Vor allen. Nicht an der Bar. || 그럼 24일에 그렇게 말해요. 딱 그대로요. 모두 앞에서요. 바에서가 아니라.
+Kalle: Vor allen. Nicht an der Bar. Ick lerne. Langsam. Aber ick lerne. || 모두 앞에서. 바에서가 아니라. 배우는 중이야. 천천히. 그래도 배우고 있어.
+Frau Schulze: Sechzehn Uhr null null. Einladung versendet. An fünfunddreißig Mitglieder. Per Mail und per Brief. Und eine an Krümel. Als Witz. Damit ich weiß, dass ich noch Humor habe. || 열여섯 시 정각. 소집 통지 발송했어요. 조합원 서른다섯 명한테요. 메일이랑 우편으로요. 그리고 크뤼멜한테도 한 통. 농담으로요. 나한테 아직 유머 감각이 있다는 걸 확인하려고요.
+## Balkone | 발코니
+Miriam: Darf ich etwas fragen? Kofi und ich heiraten am siebenundzwanzigsten. Und wir wohnen im ersten Stock. Seitenflügel. Mit einem kleinen Balkon. Nach Süden. Können wir so ein Balkonkraftwerk aufhängen? Ich habe es im Internet gesehen. || 하나 물어봐도 돼요? 코피랑 저 27일에 결혼하거든요. 그리고 우리 곁채 2층에 살아요. 작은 발코니 있는 데요. 남향이에요. 그 발코니 발전소 같은 거 달 수 있어요? 인터넷에서 봤어요.
+Frau Petersen: Natürlich. Achthundert Watt. Zwei Module am Geländer. Ein Stecker in die Steckdose. Das spart etwa hundertfünfzig Euro im Jahr. Und seit zweitausendvierundzwanzig dürfen Mieter das verlangen. Der Vermieter muss zustimmen. Außer bei triftigen Gründen. || 물론이죠. 800와트요. 난간에 모듈 두 개. 콘센트에 플러그 하나. 1년에 백오십 유로쯤 아껴요. 그리고 2024년부터는 세입자도 그걸 요구할 수 있어요. 집주인은 동의해야 하고요. 정당한 사유가 없는 한요.
+Kofi: Der Vermieter sind jetzt wir. Die Genossenschaft. Also müssen wir uns selbst fragen. Das ist seltsam. || 집주인은 이제 우리잖아요. 협동조합이요. 그러니까 우리가 우리 자신한테 물어봐야 하네요. 그거 이상하다.
+Derya: Das ist genau richtig, Kofi. Ihr fragt den Vorstand. Und der Vorstand sagt: Ja. Als Hochzeitsgeschenk. Die Genossenschaft bezahlt das Balkonkraftwerk. Für das erste Brautpaar im Eckhaus. || 그게 딱 맞는 거예요, 코피. 이사회한테 물어보는 거죠. 그리고 이사회가 대답하는 거고요. 좋아요. 결혼 선물로요. 발코니 발전소는 협동조합이 낼게요. 에케하우스의 첫 신혼부부를 위해서요.
+Kalle: Moment. Darf der Vorstand das? Ohne Kommission? Ohne Ausschreibung? Nach Donnerstag? || 잠깐. 이사회가 그래도 돼? 위원회 없이? 공개 모집 없이? 목요일 그 일 이후에?
+Derya: Sechshundert Euro, Kalle. Unter zwanzigtausend. Das darf der Vorstand. Und es ist keine Wohnung. Es ist ein Geschenk. Mit Stecker. || 육백 유로예요, 칼레. 2만 아래예요. 그건 이사회가 할 수 있어요. 그리고 그건 집이 아니에요. 선물이죠. 플러그 달린.
+Kalle: Gut. Dann ist es ein Geschenk. Mit Stecker. Und mit Protokoll. Ingrid? || 좋아. 그럼 선물이네. 플러그 달린. 그리고 회의록에 남는. 잉그리트?
+Frau Schulze: Protokolliert. Hochzeitsgeschenk, sechshundert Euro, Beschluss des Vorstands, einstimmig. Ich habe es gerne geschrieben. Ausnahmsweise. || 기록했어요. 결혼 선물, 육백 유로, 이사회 의결, 만장일치. 기꺼이 썼어요. 예외적으로요.
+Miriam: Danke. Wir hängen es am Hochzeitstag auf. Morgens. Damit der erste Strom unseres Ehelebens von der Sonne kommt. || 고마워요. 결혼식 날 달게요. 아침에요. 우리 결혼 생활의 첫 전기가 햇빛에서 오도록요.
+Kofi: Du bist eine Romantikerin. Mit Stecker. || 당신은 낭만주의자야. 플러그 달린.
+## Die Wissenschaftlerinnen | 과학자들
+Can: Frau Petersen. Wir haben eine Frage. Für die Schule. Lin und ich machen ein Projekt. Über Energie. Bei Frau Wagner. Wie macht die Sonne Strom? Genau? || 페테르젠 아주머니. 질문 있어요. 학교 숙제요. 린이랑 저랑 프로젝트 하거든요. 에너지에 관한 거요. 바그너 선생님 수업이요. 햇빛이 어떻게 전기를 만들어요? 정확히요?
+Frau Petersen: Genau? Gut. In einem Modul sind Zellen aus Silizium. Das ist Sand. Ganz reiner Sand. Wenn Licht darauf fällt, schubst das Licht kleine Teilchen an. Elektronen. Die fangen an zu wandern. Und wandernde Elektronen sind Strom. || 정확히? 좋아. 모듈 안에는 실리콘으로 된 전지가 있어. 그건 모래야. 아주 순수한 모래. 거기에 빛이 떨어지면 빛이 작은 입자들을 밀어. 전자들을. 그러면 전자들이 움직이기 시작해. 그리고 움직이는 전자가 바로 전기야.
+Lin: Licht schubst Sand. Und der Sand macht Strom. Das ist … das ist wie Magie. || 빛이 모래를 민다. 그리고 모래가 전기를 만든다. 그건… 그건 마법 같아요.
+Frau Petersen: Das ist Physik. Albert Einstein hat dafür den Nobelpreis bekommen. Nicht für die Relativitätstheorie. Für das. Für das Licht, das schubst. Neunzehnhunderteinundzwanzig. || 그건 물리학이야. 알베르트 아인슈타인이 그걸로 노벨상을 받았어. 상대성 이론이 아니라. 이걸로. 미는 빛으로. 1921년에.
+Can: Einstein? Der hat in Berlin gewohnt! Frau Wagner hat es erzählt! || 아인슈타인이요? 그 사람 베를린에 살았잖아요! 바그너 선생님이 얘기해 줬어요!
+Frau Petersen: In Schöneberg. Haberlandstraße. Da hängt eine Gedenktafel. Und jetzt kommt sein Nobelpreis auf euer Dach. In Neukölln. Hundert Jahre später. || 쇠네베르크에. 하버란트 거리에. 거기 기념 명판이 걸려 있어. 그리고 이제 그 사람 노벨상이 너희 지붕에 올라가는 거야. 노이쾰른에. 백 년 뒤에.
+Lin: Darf ich das in meinen Vortrag schreiben? Mit Quellenangabe? „Frau Petersen, auf dem Gerüst, zehnter April." || 그거 제 발표에 써도 돼요? 출처 밝혀서요? „페테르젠 씨, 비계 위에서, 4월 10일."
+Frau Petersen: Ich stehe nicht auf dem Gerüst. Ich stehe im Hof. Aber gut. Auf dem Gerüst klingt besser. || 나 비계 위에 서 있지 않은데. 안마당에 서 있지. 그래도 좋아. 비계 위라고 하는 게 더 멋지네.
+Can: Und Herr Pietsch hat gesagt, die Heizung hustet. Kann eine Heizung husten? Oder ist das auch Physik? || 그리고 피치 할아버지가 보일러가 기침한다고 했어요. 보일러도 기침해요? 아니면 그것도 물리학이에요?
+Herr Pietsch: Das ist Erfahrung, Can. Wenn du dreißig Jahre jeden Morgen an einer Heizung vorbeigehst, hörst du, ob sie gesund ist. Wie ein Arzt mit dem Stethoskop. Nur ohne Studium. || 그건 경험이야, 잔. 삼십 년 동안 매일 아침 보일러 앞을 지나다니면 그게 건강한지 들려. 청진기 든 의사처럼. 공부만 안 했을 뿐이지.
+## Am Abend: Edith auf dem Gerüst | 저녁: 비계 위의 에디트
+Edith: Herr Brandt. Junior. Darf ich etwas Verrücktes fragen? || 브란트 씨. 아드님 말이에요. 미친 소리 하나 해도 될까요?
+Herr Brandt: Alles, was Sie wollen, Frau Krüger. Mein Vater sagt, Sie sind die vernünftigste Verrückte, die er kennt. || 원하시는 건 뭐든지요, 크뤼거 할머니. 우리 아버지가 그러시는데 할머니는 아버지가 아는 사람 중에 제일 이성적인 미친 사람이래요.
+Edith: Kann man mit dem Bauaufzug nach oben fahren? Den für die Ziegel? Bis zum Dach? Ich will einmal sehen, wo die Sonne hinkommt. Bevor ich ins Erdgeschoss ziehe. Und sie nur noch von unten sehe. || 공사용 리프트 타고 위로 올라갈 수 있어요? 기와 나르는 거요? 지붕까지요? 햇빛이 어디로 들어오는지 한 번 보고 싶어서요. 1층으로 이사 가서 그걸 아래에서만 보기 전에요.
+Herr Brandt: Der Bauaufzug ist für Material zugelassen. Nicht für Menschen. Das ist verboten. || 공사용 리프트는 자재용으로만 허가가 나 있어요. 사람용이 아니라요. 그건 금지예요.
+Brandt senior: Oliver. Die Frau ist dreiundachtzig. Sie hat achtundsiebzig Stufen zweiundfünfzig Jahre lang getragen. Und sie hat uns das Dach gegeben. Für sechzigtausend. Statt hundert. Ich nehme sie mit. Auf der Plattform. Bis zur Traufe. Nicht weiter. Mit Gurt. || 올리버. 이 부인은 여든셋이야. 계단 일흔여덟 개를 오십이 년 동안 오르내렸어. 그리고 우리한테 이 지붕을 맡겼지. 10만 대신 6만에. 내가 데리고 갈게. 발판에 태워서. 처마까지만. 더는 말고. 안전벨트 매고.
+Herr Brandt: Papa! || 아빠!
+Brandt senior: Ich bin achtzig. Ich darf das. Wer soll mich bestrafen? Die Berufsgenossenschaft? Ich bin seit fünfzehn Jahren in Rente. || 나 여든이야. 그래도 돼. 누가 나를 벌주겠어? 산재 보험 조합이? 나 은퇴한 지 십오 년이나 됐어.
+Edith: … Oh. Oh, guck mal. Von hier oben. Das ganze Neukölln. Die Kirchtürme. Das Rathaus. Der Fernsehturm in der Ferne. Und die Sonne. Sie geht hinter Tempelhof unter. Auf das Dach. Genau auf das Dach. || …아. 아, 이것 좀 봐. 여기 위에서. 노이쾰른 전체가. 교회 첨탑들. 구청. 저 멀리 텔레비전 탑. 그리고 해. 템펠호프 뒤로 지고 있어. 지붕 위로. 딱 지붕 위로.
+Brandt senior: Bis zur letzten Minute. Auf dieses Dach fällt die Sonne bis zur letzten Minute. Das ist ein gutes Dach für Module. Ein ehrliches Dach. Habe ich im Dezember gesagt. || 마지막 순간까지. 이 지붕엔 마지막 순간까지 해가 들어요. 모듈 올리기 좋은 지붕이오. 정직한 지붕이고. 12월에 내가 그랬잖소.
+Edith: Und Gisela hätte gesagt: Edith, du bist verrückt. Mit dreiundachtzig auf einem Bauaufzug. Und dann wäre sie mitgefahren. Und hätte gesungen. || 그리고 기젤라라면 그랬겠죠. 에디트, 너 미쳤구나. 여든셋에 공사용 리프트를 타다니. 그러고는 같이 탔을 거예요. 그리고 노래를 불렀겠죠.
+Brandt senior: Dann singen Sie. Ich kann nicht singen. Aber ich halte den Gurt. || 그럼 부르세요. 나는 노래 못하오. 대신 안전벨트는 꽉 잡고 있을게요.
+Edith: „Weißt du, wie viel Sternlein stehen …" Noch keine. Es ist noch zu hell. Aber gleich. Gleich kommen die ersten. Über dem neuen Dach. || „하늘에 별이 몇 개인지 아니…" 아직은 하나도 없네. 아직 너무 밝아. 그래도 곧. 곧 첫 별들이 뜨겠지. 새 지붕 위로.
+## Unten im Hof | 아래 안마당에서
+Derya: Kalle. Ist das … ist das Edith? Auf der Plattform? Da oben? An der Traufe? || 칼레. 저거… 저거 에디트예요? 발판 위에요? 저 위에요? 처마에요?
+Kalle: Det ist Edith. Mit Herrn Brandt senior. Und einem Gurt. Und sie singt. Ick höre es bis hier. || 에디트야. 브란트 할아버지랑. 안전벨트 매고. 그리고 노래하고 있어. 여기까지 들린다.
+Derya: Mit Herzschwäche. Auf einem Bauaufzug. Kalle, ich bin Krankenschwester. Ich muss jetzt schreien. Oder lachen. Ich weiß nicht, was. || 심장 약한 사람이. 공사용 리프트를 타고. 칼레, 나 간호사예요. 지금 소리를 질러야겠어요. 아니면 웃든가. 뭘 해야 할지 모르겠어요.
+Can: Lach, Mama. Sie ist angeschnallt. Herr Brandt hält sie fest. Und von da oben sieht sie die Sonne. Bis zur letzten Minute. Hat sie gesagt. || 웃어요, 엄마. 벨트 맸어요. 브란트 할아버지가 꼭 잡고 있어요. 그리고 거기서 해가 보인대요. 마지막 순간까지요. 할머니가 그랬어요.
+Herr Brandt: Ich habe meinen Vater noch nie so gesehen. Er hat seit fünfzehn Jahren kein Dach mehr betreten. Er hat gesagt, er ist zu alt. Und jetzt steht er an der Traufe. Mit einer dreiundachtzigjährigen Frau. || 우리 아버지 저런 모습은 처음 봐요. 십오 년 동안 지붕에 안 올라가셨거든요. 너무 늙었다고 하시면서요. 그런데 지금 처마에 서 계시네요. 여든세 살 할머니랑 같이요.
+Kalle: Manche Menschen werden jünger, wenn sie jemanden finden, der noch älter ist und es trotzdem macht. || 어떤 사람들은 자기보다 더 나이 많은데도 해내는 사람을 만나면 젊어지거든요.
+Derya: Kalle. Das ist der zweitbeste Satz, den du je gesagt hast. Nach dem mit dem Himmel über der Ecke. || 칼레. 그건 칼레가 한 말 중에 두 번째로 좋은 말이에요. 모퉁이 위의 하늘 다음으로요.
+Can: Sie kommen runter! Langsam! Edith winkt! || 내려와요! 천천히요! 에디트 할머니가 손 흔들어요!
+Edith: Can! Ich habe die Sonne gesehen! Wie sie aufs Dach fällt! Bis zur letzten Minute! Und den ersten Stern! Über Tempelhof! || 잔! 해를 봤어! 지붕 위로 떨어지는 거! 마지막 순간까지! 그리고 첫 별도 봤어! 템펠호프 위로!
+Derya: Edith. Puls. Sofort. Bitte. || 에디트. 맥박이요. 당장요. 부탁이에요.
+Edith: Hundert. Mindestens. Ich war auf einem Dach, Derya. Mit dreiundachtzig. Ich darf. || 백. 최소한. 나 지붕에 올라갔다 왔어, 데르야. 여든셋에. 그래도 돼.
+Derya: … Achtundneunzig. Regelmäßig. Gut. Aber das war das letzte Mal. Bis zum nächsten Mal. || …98. 규칙적이에요. 좋아요. 그래도 이게 마지막이에요. 다음번까지는요.
+Brandt senior: Bis zum nächsten Mal. Wenn die Module drauf sind. Dann fahren wir noch einmal hoch. Und gucken, ob die Sonne sie findet. Abgemacht, Frau Krüger? || 다음번까지는. 모듈 올리고 나면요. 그때 한 번 더 올라가요. 해가 모듈을 찾아내는지 보러요. 약속이죠, 크뤼거 부인?
