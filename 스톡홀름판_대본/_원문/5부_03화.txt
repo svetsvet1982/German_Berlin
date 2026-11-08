@@ -1,0 +1,269 @@
+PART: 5
+EP: 3
+TITLE: Föreningen
+SUBTITLE: 조합 · 집 3, 임시 조합원 총회가 열린 카페 Biggans
+META: 대사 120턴 · 난이도 B2 · 배경: 10월 6일 수요일 저녁 일곱 시, 총회장으로 바뀐 카페 Biggans
+CAST: BIGGAN | 카페 사장 · 조합원 (사무소 1층)
+CAST: JOHAN | 변호사 (조합원 아님 · 방청)
+CAST: MAJA | 공인회계사 (협동조합 재무 담당)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 · Biggan의 세입자 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: ULLA-BRITT | 5층 조합원 · 미망인 · 82세 · 총회 의장 (가상)
+CAST: STAFFAN | 주택조합 이사장 (가상)
+CAST: BERTIL | 2층 조합원 · 연금 생활자 · 매각 찬성 (가상)
+CAST: OSKAR | 4층 조합원 · 젊은 직장인 · 매각 찬성 (가상)
+CAST: SARA | 3층 조합원 · 두 아이의 엄마 · 카페 지지 (가상)
+CAST: MALIN | Söderbo Utveckling AB 사장 (가상, 문자)
+NOTE: ※ 주택조합 총회(föreningsstämma)에는 정해진 순서가 있습니다. 먼저 총회 의장(stämmoordförande)을 뽑고, 회의록 서명인(justerare)을 정한 뒤, 안건마다 토론하고 표결합니다. 회의에서는 평소 말투와 다른 격식 있는 표현을 씁니다: «Jag yrkar bifall till förslaget»(제안에 찬성할 것을 요청합니다), «Stämman beslutar att…»(총회는 …를 결정한다), «Frågan ställs»(표결에 부칩니다). 조합원은 세대마다 한 표를 가집니다. 이 화의 학습 포인트는 같은 사람이 격식체와 일상체를 오가는 ‘말투 전환(registerväxling)’입니다. 표현 초점: rösta, majoritet, stadgar, yrka, bifall, oro.
+
+# 도입 — KAFÉET SOM STÄMMOLOKAL
+BIGGAN: Fyrtiofyra stolar. Jag har lånat tjugo från Söder kyrka. Prästen sa: ”För ett gott syfte.”
+= 의자 마흔네 개. 스무 개는 소피아 교회에서 빌렸어. 목사님이 그러셨어: ‘좋은 일을 위해서.’
+ELSA: Det är konstigt. Stämman om kaféet hålls i kaféet.
+= 이상해요. 카페에 관한 총회가 카페에서 열리다니.
+STAFFAN: Det är den största lokalen i huset. Och Birgitta erbjöd sig. Gratis.
+= 건물에서 제일 큰 공간이니까요. 그리고 비르기타가 자청했어요. 무료로.
+BIGGAN: Och med kaffe. Det står inte i stadgarna att man inte får bjuda på kaffe på en stämma.
+= 그리고 커피도. 총회에서 커피 대접하면 안 된다고 정관에 안 적혀 있잖아.
+JOHAN: Det står inte. Men Bertil kommer att säga att det är påverkan.
+= 안 적혀 있죠. 근데 베르틸 씨는 그게 영향력 행사라고 할 거예요.
+BIGGAN: Bertil har köpt en kanelbulle varje torsdag sedan 1994. Han får säga vad han vill.
+= 베르틸은 1994년부터 목요일마다 시나몬번을 하나씩 사 갔어. 무슨 말을 하든 상관없어.
+MAJA: Jag har tryckt ut kalkylerna. Båda. På en sida var. På klarspråk. Elsa skrev om dem.
+= 계산서 출력했어. 둘 다. 한 장씩. 쉬운 말로. 엘사가 다시 썼어.
+ELSA: Med aktiva meningar. ”Föreningen säljer lokalerna.” Inte ”lokalerna kommer att avyttras”.
+= 능동문으로요. ‘조합이 상가를 판다.’ ‘상가가 처분될 예정이다’가 아니라.
+ANTON: Och tre offerter för stambytet har kommit in. Farids firma: tio komma åtta miljoner. Två andra: elva och elva komma tre.
+= 그리고 배관 교체 견적이 세 개 들어왔어. 파리드 회사: 1,080만. 다른 두 곳: 1,100만이랑 1,130만.
+STAFFAN: Tio komma åtta. Mot fjorton. Jag skäms.
+= 1,080. 1,400이랑 비교하면. 부끄럽네요.
+MAJA: Skäms inte. Ändra. Det är bättre.
+= 부끄러워하지 말고. 바꿔요. 그게 더 나아요.
+STAFFAN: Det har jag hört att ni säger här.
+= 여기서 다들 그렇게 말한다고 들었어요.
+OXENSTIERNA: Får jag sitta längst fram? Jag har erfarenhet av riksmöten.
+= 맨 앞에 앉아도 되겠나? 의회 경험이 있으니.
+JOHAN: Du är inte medlem, Axel. Du får sitta längst bak. Som jag.
+= 조합원이 아니잖아요, 악셀. 맨 뒤에 앉아야 해요. 저처럼.
+OXENSTIERNA: Längst bak. Som en bonde i fjärde ståndet.
+= 맨 뒤라. 넷째 신분의 농민처럼.
+ELSA: Och jag? Jag bor här. I Leifs rum.
+= 그럼 저는요? 전 여기 살아요. 레이프 아저씨 방에.
+JOHAN: Du är andrahandshyresgäst hos Biggan. Du får lyssna, men inte rösta.
+= 넌 비간의 2차 세입자야. 들을 순 있지만 투표는 못 해.
+ELSA: Igen. Jag får aldrig rösta i något.
+= 또. 전 아무것도 투표를 못 하네요.
+BIGGAN: Du röstade i Vårberg. Med händerna. Det räknades.
+= 바르베리에선 투표했잖아. 손으로. 그건 쳐줬어.
+JOHAN: Och du röstade i riksdagsvalet i fjol. Det räknas mer.
+= 그리고 작년 총선에서 투표했잖아. 그게 더 중요해.
+STAFFAN: Klockan är sju. Alla fyrtiofyra hushåll är här. Utom ett. Familjen på sjätte våningen är i Thailand.
+= 일곱 시예요. 마흔네 세대 다 왔어요. 한 집 빼고. 6층 가족은 태국에 있대요.
+ULLA-BRITT: De är alltid i Thailand när det är stämma.
+= 그 집은 총회 때마다 태국에 가 있지.
+BIGGAN: Och de köper aldrig bullar. Det säger något.
+= 그리고 번은 한 번도 안 사 가. 그게 뭔가를 말해 주지.
+
+# 장면 1 — VAL AV ORDFÖRANDE
+STAFFAN: Jag förklarar extra föreningsstämma öppnad. Första punkten: val av stämmoordförande. Har någon ett förslag?
+= 임시 조합원 총회 개회를 선언합니다. 첫 번째 안건: 총회 의장 선출. 제안 있으신 분?
+BERTIL: Jag föreslår att styrelsens ordförande leder stämman. Det är praxis.
+= 이사장이 총회를 이끄는 걸 제안합니다. 그게 관례입니다.
+SARA: Men det är styrelsens förslag vi ska rösta om. Det är väl konstigt om Staffan leder sitt eget ärende?
+= 근데 우리가 표결할 건 이사회 제안이잖아요. 스타판 씨가 자기 안건을 진행하는 건 좀 이상하지 않아요?
+ELSA: Jäv. Det ordet följer mig verkligen överallt.
+= 이해충돌. 그 단어는 정말 어디든 따라오네요.
+STAFFAN: Sara har rätt. Jag föreslår någon annan. Någon som alla litar på.
+= 사라 말이 맞아요. 다른 사람을 제안할게요. 모두가 믿는 사람.
+OSKAR: Vem då?
+= 누구요?
+STAFFAN: Ulla-Britt Karlsson. Hon har bott här längst. Sedan 1987.
+= 울라브리트 칼손. 여기서 제일 오래 사셨어요. 1987년부터.
+ULLA-BRITT: Jag? Jag har aldrig lett något. Göte ledde alltid.
+= 나? 난 뭘 이끌어 본 적이 없어. 늘 예테가 했지.
+BIGGAN: Göte är inte här. Du är det.
+= 예테는 여기 없어. 넌 있잖아.
+STAFFAN: Den som är för att Ulla-Britt Karlsson leder stämman, räck upp handen.
+= 울라브리트 칼손이 총회를 이끄는 데 찬성하시는 분, 손 드세요.
+MAJA: Fyrtiotre. Alla. Även Bertil.
+= 마흔셋. 전원. 베르틸 씨도.
+BERTIL: Jag har inget emot Ulla-Britt. Jag har något emot att höja avgiften.
+= 울라브리트한테 반대하는 거 아니야. 관리비 올리는 데 반대하는 거지.
+ULLA-BRITT: Tack. Då… då förklarar jag… vad säger man?
+= 고마워. 그럼… 그럼 선언합니다… 뭐라고 하지?
+JOHAN: ”Jag tackar för förtroendet.”
+= ‘신뢰에 감사드립니다.’
+ULLA-BRITT: Jag tackar för förtroendet. Och jag lovar att ingen får prata mer än fem minuter. Göte pratade alltid i tjugo.
+= 신뢰에 감사드립니다. 그리고 아무도 5분 넘게 말하지 못하게 하겠다고 약속합니다. 예테는 늘 20분씩 말했거든요.
+OXENSTIERNA: Hon har talang. Jag kände en drottning som började likadant.
+= 재능이 있군. 똑같이 시작한 여왕을 알았지.
+BIGGAN: Axel. Du sitter längst bak. Tyst.
+= 악셀. 넌 맨 뒤에 앉았어. 조용히.
+OXENSTIERNA: En bonde får väl viska.
+= 농민도 속삭이는 건 되겠지.
+ULLA-BRITT: Punkt två. Val av två justerare. Som läser protokollet efteråt och kontrollerar att det stämmer.
+= 안건 2. 회의록 서명인 두 명 선출. 나중에 회의록을 읽고 맞는지 확인하는 사람들.
+SARA: Jag föreslår Bertil och mig. En för och en emot. Då kan ingen säga att protokollet är fel.
+= 베르틸 씨랑 저를 제안해요. 찬성 한 명, 반대 한 명. 그럼 아무도 회의록이 틀렸다고 못 하죠.
+BERTIL: Det är klokt. Jag accepterar.
+= 현명하네. 받아들이겠소.
+ELSA: Ursäkta… Är det alltid så här ordnat i Sverige? Även när folk är arga?
+= 실례지만… 스웨덴에선 사람들이 화났을 때도 늘 이렇게 질서 정연해요?
+JOHAN: Särskilt när folk är arga. Det är därför vi har stämmor. Så att ingen behöver slåss.
+= 화났을 때 특히 그래. 그래서 총회가 있는 거야. 아무도 싸울 필요 없도록.
+OXENSTIERNA: I mitt rike slogs man först och höll stämma sen.
+= 내 왕국에선 먼저 싸우고 총회는 나중에 했지.
+
+# 장면 2 — DEBATTEN
+ULLA-BRITT: Punkt tre. Försäljning av lokalerna. Staffan, du får fem minuter.
+= 안건 3. 상가 매각. 스타판, 5분 드립니다.
+STAFFAN: Tack. Styrelsen har gjort ett misstag. Vi fattade ett beslut som stämman skulle ha fattat. Jag ber om ursäkt.
+= 감사합니다. 이사회가 실수를 했습니다. 총회가 내렸어야 할 결정을 우리가 내렸습니다. 사과드립니다.
+SARA: Det var modigt.
+= 용감하네요.
+STAFFAN: Nu har vi tre förslag. Ett: sälja till Söderbo för nio miljoner. Två: erbjuda Ekonomiska föreningen Biggans att köpa på samma villkor, med en tidsfrist. Tre: göra stambytet med den billigaste offerten, oavsett vilket.
+= 이제 세 가지 안이 있습니다. 하나: 쇠데르보에 900만에 매각. 둘: 경제 협동조합 비간스에 같은 조건으로 매수를 제안, 기한을 두고. 셋: 어느 쪽이든 가장 싼 견적으로 배관 교체.
+BERTIL: Får jag ordet?
+= 발언해도 되겠습니까?
+ULLA-BRITT: Bertil har ordet.
+= 베르틸 씨 발언하세요.
+BERTIL: Jag är sjuttioåtta år. Jag har en pension på tretton tusen. Jag tycker om Birgittas kaffe. Men jag tycker mer om att ha råd att bo kvar.
+= 저는 일흔여덟입니다. 연금은 1만 3천이고요. 비르기타 커피를 좋아합니다. 하지만 계속 살 수 있는 형편이 더 좋습니다.
+SARA: Det förstår jag, Bertil.
+= 이해해요, 베르틸 씨.
+BERTIL: Söderbo har pengarna nu. Den ekonomiska föreningen har ett silvermynt och några andelar. Det är en dröm. Jag yrkar bifall till förslag ett.
+= 쇠데르보는 지금 돈이 있습니다. 경제 협동조합엔 은화 하나랑 지분 몇 개가 있을 뿐이죠. 그건 꿈입니다. 저는 1안에 찬성할 것을 요청합니다.
+OXENSTIERNA: Ett bra argument. Kort, ärligt, med en siffra.
+= 좋은 논거군. 짧고, 솔직하고, 숫자가 있어.
+OSKAR: Jag håller med Bertil. Och dessutom: två nya lägenheter gör huset mer värt. Allas lägenheter blir mer värda.
+= 베르틸 씨에게 동의합니다. 게다가: 새 아파트 두 채는 건물 가치를 높입니다. 모두의 집값이 올라가요.
+ANTON: Han har en poäng. Det gör det svårare.
+= 일리가 있네. 그래서 더 어려워.
+SARA: Får jag ordet?
+= 발언해도 될까요?
+ULLA-BRITT: Sara.
+= 사라.
+SARA: Jag har två barn. Ella och Hugo. Sex och fyra. Varje lördag får de en bulle av Biggan. Gratis. Hon säger att barn inte ska betala.
+= 저는 아이가 둘이에요. 엘라랑 후고. 여섯 살이랑 네 살. 토요일마다 비간한테서 번을 하나씩 받아요. 공짜로. 아이들은 돈 내면 안 된다고 하세요.
+BERTIL: Det vet jag. Jag har sett dem.
+= 알지. 봤소.
+SARA: När Hugo var sjuk i våras och jag var tvungen att jobba, satt han i kaféet i fyra timmar. Biggan läste för honom. Det står inte i någon kalkyl.
+= 봄에 후고가 아팠는데 제가 일을 해야 했을 때, 후고는 카페에 네 시간 앉아 있었어요. 비간이 책을 읽어 줬고요. 그건 어떤 계산서에도 없어요.
+BIGGAN: Det var Pippi. Han ville höra den tre gånger.
+= 삐삐였어. 세 번 듣고 싶어 했지.
+OSKAR: Det är fint. Men det är inte ekonomi.
+= 멋지네요. 근데 그건 경제가 아니죠.
+MAJA: Får jag svara? Jag är inte medlem. Men jag har gjort kalkylen.
+= 대답해도 될까요? 조합원은 아니지만. 계산서를 만들었어요.
+ULLA-BRITT: Stämman tillåter? … Ja. Maja Holm får ordet.
+= 총회가 허락합니까? … 네. 마야 홀름 발언하세요.
+MAJA: Oskar har rätt att två lägenheter kan höja värdet. Lite. Men ett kafé i bottenvåningen höjer det också. Mäklare vet det. ”Charmigt kvarterskafé i huset.” Det står i varje annons på Söder.
+= 두 채가 가치를 높일 수 있다는 오스카르 씨 말은 맞아요. 조금. 하지만 1층의 카페도 가치를 높여요. 중개인들은 다 알아요. ‘건물 안 아늑한 동네 카페.’ 쇠데르의 모든 광고에 적혀 있죠.
+OSKAR: …Det är sant. Det stod i min annons när jag köpte.
+= …그건 사실이네요. 제가 살 때 광고에도 적혀 있었어요.
+SARA: Ser du, Oskar. Kaféet har redan höjt ditt värde.
+= 봐요, 오스카르. 카페가 이미 당신 집값을 올렸잖아요.
+MAJA: Och Bertil. Med Farids offert blir stambytet tre miljoner billigare. Om föreningen får nio miljoner för lokalerna, oavsett från vem, behöver avgiften inte höjas alls.
+= 그리고 베르틸 씨. 파리드 회사 견적이면 배관 교체가 300만 싸져요. 조합이 상가로 900만을 받으면, 누구한테서 받든, 관리비를 아예 안 올려도 돼요.
+BERTIL: Inte alls?
+= 아예?
+MAJA: Inte alls. Jag har räknat. Fyra gånger.
+= 아예요. 계산했어요. 네 번.
+BERTIL: Då är frågan bara om ni hittar pengarna.
+= 그럼 문제는 그쪽이 돈을 찾느냐뿐이군.
+MAJA: Ja. Och därför ber vi bara om tid. Inte om pengar från er.
+= 네. 그래서 우린 시간만 부탁하는 거예요. 여러분한테 돈을 달라는 게 아니라.
+BERTIL: Tid kostar inget. Det kan jag tänka mig att diskutera.
+= 시간은 돈이 안 들지. 그건 논의해 볼 수 있겠소.
+
+# 절정 — OMRÖSTNINGEN
+ULLA-BRITT: Biggan. Du har inte sagt något. Vill du ha ordet?
+= 비간. 아무 말도 안 했네. 발언할래?
+BIGGAN: …Jag är dålig på att prata på möten. Jag är bra på att baka till dem.
+= …난 회의에서 말하는 거 잘 못해. 회의 때 빵 굽는 건 잘하지만.
+ULLA-BRITT: Fem minuter. Som alla andra.
+= 5분. 다른 사람들처럼.
+BIGGAN: En minut räcker. Jag öppnade det här kaféet 1992. När alla stängde. Leif sa: ”Man öppnar inte ett kafé när det går bra. Man öppnar det när folk behöver en plats att sitta.”
+= 1분이면 충분해. 1992년에 이 카페를 열었어. 다들 문 닫을 때. 레이프가 그랬어: ‘잘될 때 카페를 여는 게 아니야. 사람들이 앉을 곳이 필요할 때 여는 거지.’
+ULLA-BRITT: Fortsätt, Birgitta.
+= 계속해, 비르기타.
+BIGGAN: Jag ber inte om att få stanna gratis. Jag ber om tid att visa att folk fortfarande behöver en plats att sitta. Det är allt.
+= 공짜로 남게 해 달라는 게 아니야. 사람들한테 아직 앉을 곳이 필요하다는 걸 보여 줄 시간을 달라는 거야. 그게 다야.
+ELSA: …
+= ……
+ULLA-BRITT: Tack, Birgitta. Någon mer? … Nej. Då ställer jag frågan.
+= 고마워, 비르기타. 더 계십니까? … 없네요. 그럼 표결에 부칩니다.
+JOHAN: Hon gör det helt rätt. Hon har aldrig gjort det förut.
+= 완벽하게 하시네. 처음 해 보시는 건데.
+ULLA-BRITT: Förslag tre först. Stambytet med Farids firma. Den som är för?
+= 3안 먼저. 파리드 회사로 배관 교체. 찬성하시는 분?
+MAJA: Fyrtiotre. Alla.
+= 마흔셋. 전원.
+ULLA-BRITT: Bifall. Nu förslag ett mot förslag två. Ett: sälja till Söderbo nu. Två: ge Ekonomiska föreningen Biggans förköpsrätt på samma villkor, med frist till den trettioförsta december.
+= 가결. 이제 1안 대 2안. 하나: 지금 쇠데르보에 매각. 둘: 경제 협동조합 비간스에 같은 조건으로 우선 매수권을 부여, 기한은 12월 31일.
+ANTON: Trettioförsta december. Det är snart.
+= 12월 31일. 얼마 안 남았네.
+ULLA-BRITT: Den som är för förslag ett?
+= 1안에 찬성하시는 분?
+MAJA: Tretton. Bertil, Oskar och elva till.
+= 열셋. 베르틸 씨, 오스카르 씨, 그리고 열한 명.
+ULLA-BRITT: Den som är för förslag två?
+= 2안에 찬성하시는 분?
+MAJA: Tjugoåtta.
+= 스물여덟.
+ULLA-BRITT: Och två som avstår. Stämman har beslutat enligt förslag två.
+= 그리고 기권 둘. 총회는 2안대로 결정했습니다.
+ELSA: Vi vann. Vi vann!
+= 이겼어요. 이겼어요!
+JOHAN: Vi vann tid. Inte kaféet. Än.
+= 시간을 얻은 거야. 카페가 아니라. 아직은.
+MAJA: Och tid är det enda vi bad om.
+= 그리고 시간이 우리가 부탁한 전부였어.
+BERTIL: Birgitta. Jag röstade emot. Men jag köper en andel ändå. Om det blir av. För torsdagsbullarna.
+= 비르기타. 난 반대했소. 그래도 지분 하나는 사겠소. 일이 성사되면. 목요일 번 값으로.
+BIGGAN: Bertil. Det är det finaste en motståndare har sagt till mig.
+= 베르틸. 반대한 사람한테 들은 말 중에 제일 좋은 말이야.
+OXENSTIERNA: En opposition som köper en andel i regeringen. Det skulle aldrig hända i en riksdag.
+= 정부 지분을 사는 야당이라. 의회에선 절대 일어나지 않을 일이군.
+
+# 마무리 — TIO MILJONER
+ULLA-BRITT: Jag förklarar stämman avslutad. Och nu vill jag ha en bulle. Jag har inte ätit sedan fem.
+= 총회 폐회를 선언합니다. 그리고 이제 번 하나 먹고 싶어. 다섯 시부터 아무것도 안 먹었어.
+SARA: Ulla-Britt, du var fantastisk.
+= 울라브리트 할머니, 대단하셨어요.
+ULLA-BRITT: Göte hade sagt att jag pratade för lite.
+= 예테라면 내가 말을 너무 적게 했다고 했을 거야.
+OSKAR: Det var den bästa stämman jag har varit på. Och jag har varit på tre.
+= 내가 가 본 총회 중에 최고였어요. 세 번 가 봤는데.
+ELSA: Telefonen. Biggans. Ett sms.
+= 전화. 비간 거예요. 문자.
+BIGGAN: Läs, gumman.
+= 읽어 봐, 얘야.
+ELSA: ”Hej Birgitta. Grattis till stämman. Som jag lovade har vi inte höjt före. Nu höjer vi. Söderbo bjuder tio miljoner. Vänliga hälsningar, Malin.”
+= ‘안녕하세요, 비르기타. 총회 축하드려요. 약속대로 그 전엔 안 올렸어요. 이제 올립니다. 쇠데르보는 1,000만을 제시합니다. 안부를 전하며, 말린.’
+MAJA: Tio miljoner. ”På samma villkor.” Nu är villkoren tio.
+= 1,000만. ‘같은 조건으로.’ 이제 조건이 1,000이야.
+STAFFAN: Förlåt. Jag kan inte stoppa ett bud. Det är föreningens skyldighet att ta det bästa.
+= 미안해요. 매수 제안을 막을 순 없어요. 가장 좋은 걸 받는 게 조합의 의무예요.
+BIGGAN: Jag vet, Staffan. Det är inte ditt fel. Det är marknaden.
+= 알아, 스타판. 네 잘못 아니야. 시장이 그런 거지.
+STAFFAN: Då köper jag tre andelar. I stället för två.
+= 그럼 지분 세 개 살게요. 두 개 대신.
+JOHAN: Hon höll sitt löfte. Ordagrant.
+= 약속을 지켰네. 한 글자도 안 틀리고.
+ANTON: Tio miljoner. Tvåtusen andelar.
+= 1,000만. 지분 2천 개.
+MAJA: Eller tusen andelar och ett större lån. Jag räknar i natt.
+= 아니면 지분 천 개에 대출을 더 크게. 오늘 밤 계산할게.
+ELSA: Åttiosex dagar till den trettioförsta december.
+= 12월 31일까지 86일.
+BIGGAN: Åttiosex dagar. Och tvåtusen människor som behöver en plats att sitta.
+= 86일. 그리고 앉을 곳이 필요한 2천 명.
+OXENSTIERNA: Ett krig om ett kafé. Med kanelbullar som ammunition.
+= 카페를 둘러싼 전쟁이라. 시나몬번을 탄약으로.
+ULLA-BRITT: Då behöver vi fler bullar, Birgitta.
+= 그럼 번이 더 필요하겠네, 비르기타.
+BIGGAN: Då bakar jag. Från i morgon. Klockan fyra.
+= 그럼 구워야지. 내일부터. 새벽 네 시에.
+NEXT: 5부 4화 — «Kronor och kanelbullar»(크로나와 시나몬번) — 1,000만 크로나를 위해 동네 전체가 모금 행사를 연다. 1부부터의 모든 의뢰인이 돌아온다. 그리고 ‘아동의 세기’를 쓴 Ellen Key가 나타난다.
