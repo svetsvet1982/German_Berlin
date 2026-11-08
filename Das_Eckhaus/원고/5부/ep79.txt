@@ -1,0 +1,158 @@
+#nr: 79
+#part: 5부 Neuer Frühling (이듬해 봄)
+#title: Tobi expandiert
+#ko: 토비, 공방을 넓히다 · 십 년 계약과 첫 번째 견습생
+#level: B2~C1
+#setting: 4월 16일 금요일. 협동조합이 집주인이 된 뒤 첫 상가 계약. 칼레가 12월에 약속했던 대로, 토비의 공방은 10년 계약을 받는다. 그리고 지하 뒤쪽의 빈 큰 방까지. 토비는 화물 자전거 대여를 시작하고, 처음으로 견습생(Azubi)을 뽑으려 한다. 지원자는 둘. 하르키우에서 온 열여섯 살 아르템 코발렌코, 그리고 아비투어를 그만둔 열일곱 살 레오니 베르거. 그런데 수공업 회의소에서 전화가 온다. 견습생을 가르치려면 지도자 자격증(Ausbildereignung)이 있어야 한다. 난독증이 있는 토비는 시험이 무섭다. 표현 초점: 면접 화법(질문과 자기소개), 직업 교육 제도 어휘, 두려움 고백과 격려, 사업 계획 설명.
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Kalle | 칼레 코발스키 · 58세, 이사
+#cast: Jana | 야나 코발스키 · 34세, 이사
+#cast: Derya | 데르야 이을드즈 · 40세, 이사
+#cast: Wojtek | 보이텍 · 50대
+#cast: Frau Weber | 카트린 베버 · 70대, 베저 거리 주민
+#cast: Artem | 아르템 코발렌코 · 16세, 하르키우 출신
+#cast: Leonie | 레오니 베르거 · 17세, 아비투어 중퇴
+#cast: Malte | 말테 · 33세, 토비의 남자친구
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Lea | 레아 바그너 · 28세
+#cast: Herr Hamann | 디르크 하만 · 50대, 수공업 회의소 직업 교육 상담원 (전화)
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Herr Pietsch | 귄터 피치 · 71세
+#read: 면접 질문(토비): 긴장해서 너무 공식적이 되었다가 점점 자기 말투로. „Erzählen Sie mal … nee, erzähl mal. Warum willst du Fahrräder reparieren?"
+#read: 자기소개(아르템): 배운 독일어로 또박또박, 문법적으로 완벽하지만 조금 딱딱하게. „Ich heiße Artem Kovalenko. Ich bin sechzehn Jahre alt. Ich komme aus Charkiw."
+#read: 두려움 고백(토비): 문장이 끊긴다. „Ich kann … ich kann nicht gut schreiben. Ich habe Angst vor der Prüfung." — 쉼을 길게.
+#read: Ausbildung [ˈaʊ̯sbɪldʊŋ], Zweiradmechatroniker [ˈtsvaɪ̯ʁaːtmeçaˌtʁoːnɪkɐ], Ausbildereignungsprüfung [ˈaʊ̯sbɪldɐʔaɪ̯ɡnʊŋsˌpʁyːfʊŋ], Handwerkskammer [ˈhantvɛʁksˌkamɐ].
+#note: 독일의 이원 직업 교육(duale Ausbildung): 견습생(Azubi = Auszubildende)은 일주일에 3~4일은 사업장(Betrieb)에서, 1~2일은 직업 학교(Berufsschule)에서 배운다. 자전거 정비사(Zweiradmechatroniker/in)는 3년 반 과정이다. 견습생에게도 월급(Ausbildungsvergütung)이 있고 법정 최저액이 있다.
+#note: Ausbildereignung(AdA-Schein, 직업 교육 지도자 자격): 견습생을 가르치려는 사람은 수공업 회의소(Handwerkskammer)나 상공 회의소의 '교육 지도자 적격 시험'을 통과해야 한다. 마이스터(Meister)는 이를 이미 포함한다. 자격이 없으면 다른 사업장과 함께 가르치는 Verbundausbildung(공동 교육)도 가능하다.
+#note: 난독증(Legasthenie / Lese-Rechtschreib-Schwäche): 지능과 상관없이 읽기·쓰기에 어려움을 겪는 학습 장애. 독일의 많은 시험에서 시간 연장이나 구술 시험 같은 '불이익 보상(Nachteilsausgleich)'을 신청할 수 있다.
+#note: 면접 표현: Erzählen Sie etwas über sich. / Warum haben Sie sich bei uns beworben? / Was sind Ihre Stärken und Schwächen? / Wo sehen Sie sich in fünf Jahren? / Haben Sie noch Fragen an uns? — 그리고 지원자의 답: Ich interessiere mich für … / Ich bin zuverlässig. (믿을 만하다) / Ich lerne schnell.
+#note: 사업 확장 어휘: expandieren (확장하다), das Geschäftsmodell (사업 모델), der Verleih (대여), die Kaution (보증금), die Buchung (예약), die Nachfrage (수요), sich lohnen (수지가 맞다)
+## Zehn Jahre | 십 년
+Jana: Tobi. Hier. Der Vertrag. Gewerbemietvertrag zwischen der Eckhaus eG und Tobias Fischer, Fahrradwerkstatt. Laufzeit: zehn Jahre. Miete: neunhundert Euro. Wie bisher. Mit einer Steigerung von einem Prozent im Jahr. Nicht drei. Nicht fünf. Eins. || 토비. 여기. 계약서야. Eckhaus eG와 자전거 공방 토비아스 피셔 사이의 상가 임대 계약. 기간 십 년. 임대료 구백 유로. 지금처럼. 매년 1퍼센트 인상. 3퍼센트도 5퍼센트도 아니고. 1퍼센트.
+Tobi: Zehn Jahre. Zehn Jahre. Bis zweitausendsiebenunddreißig. Da bin ich einundvierzig. || 십 년. 십 년이라. 2037년까지. 그때 나 마흔한 살이에요.
+Kalle: Hab ick dir im Oktober versprochen. Wenn die Genossenschaft kommt, kämpfe ick für zehn Jahre. Diesmal hat der Vorstand es beschlossen. Nicht ick allein. Alle drei. Mit Protokoll. || 10월에 약속했잖아. 협동조합이 생기면 십 년 계약 따내겠다고. 이번엔 이사회가 결정했어. 나 혼자가 아니라. 셋 다. 회의록 남겨서.
+Derya: Und es gibt noch etwas. Paragraf vier. Erweiterung. Der Raum hinten im Keller. Der große. Der seit zwanzig Jahren leer steht. Vierzig Quadratmeter. Mit eigenem Zugang zum Hof. Für zweihundert Euro mehr. Wenn du willst. || 그리고 하나 더 있어. 제4조. 확장. 지하 뒤쪽 방. 큰 거. 이십 년째 비어 있는 거. 40제곱미터. 안마당으로 바로 나가는 출입구도 있고. 이백 유로만 더 내면 돼. 원하면.
+Tobi: Der Raum hinter den Kellerabteilen? Den mit dem alten Kohlenschacht? Da passen … da passen zehn Lastenräder rein. Oder fünfzehn. Wenn man sie stapelt. Nein. Lastenräder kann man nicht stapeln. Zehn. || 지하 창고 칸들 뒤에 있는 방이요? 옛날 석탄 투입구 있는 거요? 거기면… 거기면 화물 자전거 열 대는 들어가요. 아니면 열다섯 대. 쌓으면요. 아니다. 화물 자전거는 못 쌓지. 열 대요.
+Jana: Zehn Lastenräder. Zum Verleihen. Das war deine Idee. Im Januar. Auf der Kreidetafel. Unten rechts. Neben Phase zwei von Frau Petersen. || 화물 자전거 열 대. 대여용으로. 그거 네 아이디어였잖아. 1월에. 칠판에. 오른쪽 아래에. 페테르젠 씨 2단계 옆에.
+Tobi: Ich unterschreibe. Jetzt. Bevor jemand es sich anders überlegt. Wo? || 서명할게요. 지금요. 누가 마음 바꾸기 전에요. 어디에요?
+Jana: Hier. Und hier. Und auf jeder Seite das Kürzel. Wie beim Notar. || 여기. 그리고 여기. 그리고 쪽마다 약자 서명. 공증인 앞에서처럼.
+Tobi: „Tobias Fischer." Mit Papagei. Klein. In der Ecke. Darf ich? || „토비아스 피셔." 앵무새도. 작게. 구석에. 그려도 돼요?
+Derya: Der Papagei ist nicht vertragsrelevant. Aber er stört auch nicht. Frau Schulze ist nicht da. || 앵무새는 계약과 상관없어. 그래도 방해되진 않지. 슐체 부인도 없고.
+Tobi: Kalle. Danke. Im Oktober hatte ich eine Laube bei drei Grad. Und eine Schubkarre. Jetzt habe ich zehn Jahre. Und einen Keller. Und … ich muss mich setzen. || 칼레 아저씨. 고마워요. 10월엔 3도짜리 오두막이랑 외바퀴 손수레가 있었어요. 이제 십 년이 생겼어요. 그리고 지하도요. 그리고… 앉아야겠어요.
+Kalle: Setz dich. Und dann mach eine Rentenversicherung. Ach nee. Die hast du schon. Seit März. Steht im Protokoll. || 앉아. 그리고 연금 보험 들어. 아, 아니다. 벌써 들었지. 3월부터. 회의록에 있잖아.
+Tobi: Rentenversicherung: ja. Vertrag: ja. Keller: ja. Jetzt fehlt nur noch eins. Ein Azubi. Ich will jemanden ausbilden. Wie mich damals jemand ausgebildet hat. Herr Kaminski. In Spandau. Er hat mir alles beigebracht. Ohne dass ich lesen musste. || 연금 보험: 됐어요. 계약: 됐어요. 지하: 됐어요. 이제 하나만 남았어요. 견습생이요. 누군가를 가르치고 싶어요. 옛날에 누가 저를 가르쳐 줬던 것처럼요. 카민스키 아저씨요. 슈판다우에서요. 저한테 전부 가르쳐 주셨어요. 제가 읽지 않아도 되게요.
+## Im Keller: der Kohlenschacht | 지하: 석탄 투입구
+Herr Pietsch: Vorsicht. Die Stufe. Sie ist schief. Seit neunzehnhundertacht. So. Hier ist er. Der große Raum. Bis neunzehnhundertneunzig war hier die Kohle. Für das ganze Haus. Vierzehn Wohnungen. Jeden Winter vierzig Tonnen. || 조심해. 계단. 기울어져 있어. 1908년부터. 됐다. 여기야. 큰 방. 1990년까지 여기에 석탄이 있었지. 집 전체 거. 열네 집. 겨울마다 40톤.
+Tobi: Vierzig Tonnen? Hier drin? Und wie kam die Kohle rein? || 40톤이요? 이 안에요? 석탄은 어떻게 들어왔어요?
+Herr Pietsch: Da. Durch den Schacht. Von der Straße. Der Kohlenmann hat die Säcke reingekippt. Und es hat gestaubt. Das ganze Haus war schwarz. Bis zum dritten Stock. Edith hat jeden Herbst ihre Gardinen gewaschen. Die gelben. Deshalb sind sie gelb. Nicht vom Alter. Vom Kohlenstaub. || 저기. 투입구로. 길에서. 석탄 배달꾼이 자루를 쏟아부었지. 그러면 먼지가 엄청났어. 집 전체가 시커메졌지. 4층까지. 에디트가 가을마다 커튼을 빨았어. 노란 거. 그래서 노란 거야. 오래돼서가 아니라. 석탄 먼지 때문에.
+Can: Die gelben Gardinen sind gelb vom Kohlenstaub? Das muss ich Edith sagen! || 노란 커튼이 석탄 먼지 때문에 노란 거예요? 에디트 할머니한테 말해야겠다!
+Herr Pietsch: Sie weiß es. Sie will es nur nicht zugeben. Sie sagt lieber, sie sind von Frau Lindemann. Das ist die schönere Geschichte. || 알고 있어. 인정하기 싫을 뿐이지. 린데만 부인 거라고 말하는 게 더 좋은 거야. 그게 더 아름다운 이야기니까.
+Wojtek: Und der Schacht? Kann man ihn noch öffnen? Für die Lastenräder? Dann muss niemand die Räder durch das Treppenhaus tragen. || 그럼 그 투입구는요? 아직 열 수 있어요? 화물 자전거용으로요? 그럼 아무도 자전거를 계단으로 날라야 할 필요가 없잖아요.
+Tobi: Der Schacht ist zu klein für Lastenräder. Aber daneben ist die alte Tür zum Hof. Die ist zugemauert. Seit den Neunzigern. Wenn wir die öffnen … || 투입구는 화물 자전거엔 너무 작아요. 그런데 그 옆에 안마당으로 나가는 옛날 문이 있어요. 90년대부터 벽돌로 막혀 있는 거요. 그걸 열면…
+Herr Pietsch: Die habe ich zugemauert. Neunzehnhunderteinundneunzig. Als die Gasheizung kam. Herr Wendt hat gesagt: Wir brauchen keine Kohlentür mehr. Ich habe drei Tage gemauert. Und jetzt soll ich sie wieder aufmachen? || 그거 내가 막았어. 1991년에. 가스 난방 들어왔을 때. 벤트 씨가 그러더라. 이제 석탄 문은 필요 없다고. 사흘 동안 벽돌을 쌓았지. 그런데 이제 그걸 다시 열라고?
+Tobi: Ja. Bitte. Für zehn Lastenräder. Und für Bruno. Damit er rein und raus kann. || 네. 부탁해요. 화물 자전거 열 대를 위해서요. 그리고 브루노를 위해서요. 드나들 수 있게요.
+Herr Pietsch: … Gut. Ich mache sie auf. Wojtek, du hilfst. Wir sind beide Bauarbeiter. Einer hat sie zugemacht. Einer macht sie mit auf. Das ist gerecht. || …좋아. 열어 줄게. 보이텍, 자네가 도와줘. 우리 둘 다 건설 일 하던 사람이잖아. 한 사람이 막았고. 한 사람이 같이 연다. 그게 공평하지.
+Wojtek: Und die Steine? Was machen wir mit den Steinen? || 그럼 벽돌은요? 벽돌은 어떻게 해요?
+Herr Pietsch: Die heben wir auf. Für das Hochbeet im Hof. Für Malte. Er wollte schon lange ein Hochbeet. Für Tomaten. Aus Kellersteinen von neunzehnhundertacht. Das wird das älteste Hochbeet in Neukölln. || 그건 남겨 두자. 안마당 높은 화단 만들게. 말테를 위해서. 오래전부터 높은 화단을 원했거든. 토마토 키우려고. 1908년 지하 벽돌로. 노이쾰른에서 제일 오래된 높은 화단이 되겠지.
+Can: Und unter den Steinen? Ist da auch ein Zettel? Wie unter der Diele? || 그럼 벽돌 밑에요? 거기도 쪽지 있어요? 마룻장 밑처럼요?
+Herr Pietsch: Nein. Ich habe neunzehnhunderteinundneunzig keinen Zettel geschrieben. Ich war jung. Ich dachte, das Haus steht für immer. Und niemand wirft jemanden raus. Ich habe mich geirrt. Fast. Dieses Mal schreibe ich einen. Wenn wir fertig sind. || 아니. 1991년엔 쪽지를 안 썼어. 젊었으니까. 이 집은 영원히 서 있고. 아무도 누구를 쫓아내지 않을 거라고 생각했지. 내가 틀렸어. 거의. 이번엔 쓸게. 다 끝나면.
+## Der erste Verleih | 첫 번째 대여
+Wojtek: Drei Lastenräder. Stehen im Hof. Geputzt. Geölt. Mit Namen. Tobi hat sie getauft. „Gisela." „Monika." Und „Gerda". || 화물 자전거 세 대. 안마당에 서 있어. 닦았고. 기름칠했고. 이름도 있어. 토비가 지었어. „기젤라." „모니카." 그리고 „게르다".
+Tobi: Nach den Frauen, die nicht mehr da sind. Und die das Haus getragen haben. Jede auf ihre Weise. Gerda ist die stärkste. Sie hat einen Motor. Wie Herr Pietschs Gerda. Die Heizung. || 이제 여기 없는 여자분들 이름이에요. 그리고 각자 방식으로 이 집을 떠받쳤던 분들이요. 게르다가 제일 힘세요. 모터가 달렸거든요. 피치 할아버지의 게르다처럼요. 그 보일러요.
+Frau Weber: Guten Tag. Herr Fischer? Ich habe auf Facebook gelesen, man kann hier ein Lastenrad leihen. Für einen Vormittag. Ich muss Blumenerde holen. Zwanzig Liter. Vom Baumarkt. Und meine Arme sind siebzig. || 안녕하세요. 피셔 씨? 페이스북에서 봤어요. 여기서 화물 자전거를 빌릴 수 있다고요. 오전 한나절만요. 화분 흙 사러 가야 해서요. 20리터요. 건축 자재점에서요. 그런데 내 팔이 일흔 살이라서요.
+Tobi: Frau Weber! Sie sind die erste Kundin. Die allererste. Wie viel kostet … ich habe den Preis noch nicht festgelegt. Jana? || 베버 부인! 첫 손님이세요. 진짜 첫 번째요. 얼마냐면… 아직 가격을 안 정했네. 야나 누나?
+Jana: Für Mitglieder: zwei Euro pro Stunde. Für Nachbarn: drei. Für Touristen: sechs. Und für Menschen mit Wohngeld: kostenlos. Das haben wir im Vorstand beschlossen. Gestern. Mit Katja. || 조합원은 시간당 2유로. 이웃은 3유로. 관광객은 6유로. 그리고 주거 보조금 받는 사람은 무료. 그거 어제 이사회에서 정했어. 카트야 아주머니랑.
+Frau Weber: Mit Wohngeld? Ich bekomme seit Januar Wohngeld. Frau Lehmann hat mir geholfen. Mit dem Antrag. Vierundachtzig Euro im Monat. Und Heizkostenzuschuss. || 주거 보조금이요? 나 1월부터 주거 보조금 받아요. 레만 부인이 도와줬어요. 신청하는 거요. 한 달에 팔십사 유로. 그리고 난방비 지원도요.
+Tobi: Dann ist es für Sie kostenlos. Und Sie bekommen Gisela. Das ist die mit der breitesten Kiste. Da passen vierzig Liter rein. Und ein Hund. Wenn man will. || 그럼 부인한텐 무료예요. 그리고 기젤라를 드릴게요. 짐칸이 제일 넓은 거요. 40리터는 들어가요. 그리고 개 한 마리도요. 원하면요.
+Frau Weber: Kostenlos. Herr Fischer, ich habe Ihnen im Oktober zwanzig Euro gegeben. In Ihr Lastenrad. Für die Genossenschaft. Und jetzt leiht mir die Genossenschaft ein Lastenrad. Kostenlos. Das ist … das ist ein Kreislauf. || 무료라. 피셔 씨, 10월에 내가 당신 화물 자전거에 20유로를 넣었잖아요. 협동조합에요. 그런데 이제 협동조합이 나한테 화물 자전거를 빌려주네요. 무료로요. 그건… 그건 순환이네요.
+Wojtek: Wie Wasser. Das hat Lea Can erklärt. Am Kanal. Wasser kommt immer zurück. Als Regen. || 물처럼요. 레아가 잔한테 설명해 줬대요. 운하에서요. 물은 늘 돌아온대요. 비가 되어서요.
+Tobi: Wojtek, zeig ihr, wie man bremst. Und wie man um die Kurve fährt. Mit Last. Das ist anders als ohne. || 보이텍 아저씨, 부인한테 브레이크 잡는 거랑 커브 도는 거 보여 드려요. 짐 실었을 때요. 짐 없을 때랑은 달라요.
+Wojtek: Langsam in die Kurve. Nicht lenken. Lehnen. Wie mit einem Leben, in dem man etwas trägt. || 커브엔 천천히 들어가요. 핸들 돌리지 말고. 몸을 기울여요. 뭔가를 짊어지고 사는 인생처럼요.
+Frau Weber: Sie sind ein Philosoph, junger Mann. || 철학자시네요, 젊은이.
+Wojtek: Ich bin dreiundfünfzig. Und Fahrradmechaniker. Seit drei Wochen. Vorher war ich Bauarbeiter. Und vorher ein Mann unter einer Brücke. Da wird man Philosoph. Oder verrückt. Ich habe Glück gehabt. || 나 쉰셋이에요. 그리고 자전거 정비공이에요. 3주째요. 그 전엔 건설 노동자였고요. 그 전엔 다리 밑 남자였고요. 거기선 철학자가 되거나. 아니면 미치거나 하죠. 나는 운이 좋았어요.
+## Bewerbung eins: Artem | 지원자 1: 아르템
+Tobi: Guten Tag. Setzen Sie sich. Bitte. Sie sind … Herr Kovalenko? Artem Kovalenko? || 안녕하세요. 앉으세요. 부디요. 당신이… 코발렌코 씨? 아르템 코발렌코 씨?
+Artem: Guten Tag. Ja. Ich heiße Artem Kovalenko. Ich bin sechzehn Jahre alt. Ich komme aus Charkiw. Ich lebe seit zwei Jahren in Berlin. Ich besuche die zehnte Klasse der Integrierten Sekundarschule am Hermannplatz. || 안녕하세요. 네. 제 이름은 아르템 코발렌코입니다. 열여섯 살입니다. 하르키우에서 왔습니다. 베를린에 산 지 이 년 되었습니다. 헤르만 광장 통합 중등학교 10학년에 다니고 있습니다.
+Tobi: Okay. Sehr … sehr korrekt. Darf ich du sagen? Ich bin Tobi. Ich bin nicht so korrekt. || 알았어요. 아주… 아주 정확하네요. 말 놔도 될까? 나는 토비야. 나는 그렇게 정확하지 않거든.
+Artem: Du darfst. Meine Mutter hat gesagt: Bei Handwerkern sagt man du. Bei Ämtern Sie. Das habe ich im Integrationskurs gelernt. Seite zweiundvierzig. || 놓으셔도 됩니다. 우리 엄마가 그랬어요. 기술자한테는 반말, 관청에서는 존댓말. 그거 통합 교육 과정에서 배웠어요. 42쪽에서요.
+Tobi: Seite zweiundvierzig. Gut. Also. Erzähl mal. Warum willst du Fahrräder reparieren? || 42쪽이라. 좋아. 그럼. 얘기해 봐. 왜 자전거 고치고 싶어?
+Artem: In Charkiw hatte mein Vater eine Werkstatt. Für Autos. Ich habe jeden Nachmittag dort gesessen. Ab sechs Jahren. Ich habe Schrauben sortiert. Nach Größe. Dann kam der Krieg. Die Werkstatt ist weg. Eine Rakete. Neunzehnter März zweitausendzweiundzwanzig. Mein Vater ist geblieben. Er repariert jetzt Fahrzeuge für die Armee. In der Nähe von Charkiw. || 하르키우에서 우리 아빠가 정비소를 하셨어요. 자동차 정비소요. 저는 매일 오후 거기 앉아 있었어요. 여섯 살 때부터요. 나사를 분류했어요. 크기별로요. 그러다 전쟁이 났어요. 정비소는 없어졌어요. 미사일 때문에요. 2022년 3월 19일에요. 아빠는 남으셨어요. 지금은 하르키우 근처에서 군대 차량을 고치세요.
+Tobi: … Das tut mir leid. Das tut mir sehr leid. || …안됐다. 정말 안됐어.
+Artem: Danke. Aber ich will nicht über den Krieg reden. Ich will über Schrauben reden. Ich kann Schrauben nach Größe sortieren. Ohne zu messen. Mit den Fingern. Ich kann ein Fahrrad in zwanzig Minuten zerlegen. Und in dreißig wieder zusammenbauen. Ich habe es mit dem Fahrrad von Mykyta geübt. Meinem kleinen Bruder. Fünfmal. Er war nicht glücklich. || 고맙습니다. 그런데 전쟁 얘기는 하고 싶지 않아요. 나사 얘기를 하고 싶어요. 저는 나사를 크기별로 분류할 수 있어요. 재지 않고요. 손가락으로요. 자전거 한 대를 이십 분 만에 분해할 수 있어요. 그리고 삼십 분 만에 다시 조립할 수 있고요. 미키타 자전거로 연습했어요. 제 남동생이요. 다섯 번이요. 동생이 별로 안 좋아했어요.
+Can: Mykyta hat mir erzählt! Sein Fahrrad war fünf Tage hintereinander kaputt! Und dann besser als vorher! || 미키타가 얘기해 줬어요! 자기 자전거가 닷새 연속으로 고장 났대요! 그러고 나서 전보다 더 좋아졌대요!
+Tobi: Can! Was machst du hier? Das ist ein Bewerbungsgespräch! || 잔! 너 여기서 뭐 해? 이건 면접이야!
+Can: Ich bin Zeuge. Wie der Papagei. Ich sage nichts mehr. Versprochen. || 저 증인이에요. 앵무새처럼요. 더 이상 아무 말 안 할게요. 약속해요.
+Tobi: Artem. Hier. Ein Hinterrad. Die Nabe ist kaputt. Was machst du? Zeig es mir. Ohne zu reden. || 아르템. 여기. 뒷바퀴야. 허브가 고장 났어. 어떻게 할래? 보여 줘. 말하지 말고.
+Artem: … Achse raus. Kugellager. Hier. Eine Kugel fehlt. Und die anderen sind rostig. Neue Kugeln. Fett. Konus einstellen. Nicht zu fest. Nicht zu locker. So. Fertig. Elf Minuten. || …축 빼고. 볼베어링. 여기요. 볼 하나가 없어요. 그리고 나머지는 녹슬었고요. 새 볼. 그리스. 콘 조정. 너무 세지도 않게. 너무 헐겁지도 않게. 됐어요. 끝났어요. 십일 분이요.
+Tobi: Elf Minuten. Ich brauche neun. Herr Kaminski brauchte sieben. Artem, wo siehst du dich in fünf Jahren? Das muss ich fragen. Das steht auf dem Zettel von der Handwerkskammer. || 십일 분이라. 나는 구 분 걸려. 카민스키 아저씨는 칠 분이었고. 아르템, 오 년 뒤에 네가 어디 있을 것 같아? 그거 물어봐야 하거든. 수공업 회의소 질문지에 있어서.
+Artem: In fünf Jahren habe ich die Gesellenprüfung. Und dann gehe ich nach Charkiw. Wenn der Krieg vorbei ist. Und baue die Werkstatt meines Vaters wieder auf. Für Fahrräder. Nicht für Autos. In Charkiw wird man nach dem Krieg viele Fahrräder brauchen. Weil die Autos kaputt sind. Und die Straßen auch. || 오 년 뒤면 견습 수료 시험을 봤을 거예요. 그다음엔 하르키우로 갈 거예요. 전쟁이 끝나면요. 그리고 아빠 정비소를 다시 지을 거예요. 자전거용으로요. 자동차 말고요. 전쟁 끝나면 하르키우엔 자전거가 많이 필요할 거예요. 차들이 다 부서졌으니까요. 길도요.
+Tobi: … Das ist die beste Antwort, die ich je gehört habe. Auf diese Frage. Und ich habe sie mir selbst schon hundertmal gestellt. || …그건 내가 들어 본 이 질문에 대한 답 중에 제일 좋은 답이야. 나도 스스로한테 백 번은 물어본 질문인데.
+## Im Warteraum | 대기실에서
+Leonie: Bist du auch wegen der Ausbildung hier? || 너도 견습 때문에 왔어?
+Artem: Ja. Ich war schon drin. Er hat mich ein Hinterrad reparieren lassen. Elf Minuten. Er braucht neun. || 응. 벌써 들어갔다 왔어. 뒷바퀴 고치라고 하더라. 십일 분. 그 사람은 구 분 걸린대.
+Leonie: Elf Minuten für eine Nabe? Das ist gut. Ich brauche fünfzehn. Naben sind meine Schwäche. Ich mache lieber Laufräder. Zentrieren. || 허브 하나에 십일 분? 그거 잘한 거다. 나는 십오 분 걸려. 허브는 내 약점이야. 나는 바퀴가 더 좋아. 휠 정렬.
+Artem: Zentrieren kann ich nicht. Meine Räder werden immer ein Ei. Mykyta sagt, er fährt wie auf einem Kamel. || 나는 휠 정렬 못 해. 내가 하면 늘 달걀 모양이 돼. 미키타가 낙타 타는 것 같대.
+Leonie: Dann sind wir das Gegenteil voneinander. Du Naben, ich Laufräder. Zusammen ein Fahrrad. || 그럼 우리 서로 정반대네. 너는 허브, 나는 바퀴. 합치면 자전거 한 대.
+Artem: Aber es gibt nur einen Ausbildungsplatz. Hat er gesagt. || 그런데 견습 자리는 하나뿐이래. 그 사람이 그랬어.
+Leonie: Ich weiß. Und wenn du ihn bekommst … dann bringst du mir Naben bei. Und ich dir Zentrieren. Auch ohne Ausbildungsplatz. Hier. Meine Nummer. || 알아. 그런데 네가 그 자리 받으면… 나한테 허브 가르쳐 줘. 그리고 내가 너한테 휠 정렬 가르쳐 줄게. 견습 자리 없어도. 여기. 내 번호.
+Artem: Und wenn du ihn bekommst? || 그럼 네가 받으면?
+Leonie: Dann genauso. Andersrum. Das ist fair. Mein Opa hat immer gesagt: Werkzeug teilt man. Wissen auch. Nur Bier nicht. || 그럼 똑같이 하는 거지. 반대로. 그게 공평하잖아. 우리 할아버지가 늘 그러셨어. 공구는 나눠 쓰는 거다. 지식도. 맥주만 빼고.
+Artem: Dein Opa klingt wie Herr Pietsch. Der alte Mann mit den Schlüsseln. Er hat mir vorhin einen Tee angeboten. Und gesagt: Hier gehört jeder dazu, der etwas repariert. || 너희 할아버지 피치 할아버지 같다. 열쇠 많이 갖고 계신 노인분. 아까 나한테 차를 권하시면서 그러셨어. 여기선 뭔가를 고치는 사람은 누구나 한식구라고.
+Leonie: Dann gehören wir beide dazu. Egal, wer den Platz bekommt. || 그럼 우리 둘 다 한식구네. 누가 그 자리를 받든.
+Artem: Das hat in Charkiw auch mein Vater gesagt. In seiner Werkstatt. „Wer schraubt, ist Familie." || 하르키우에서 우리 아빠도 그렇게 말씀하셨어. 정비소에서. „나사를 조이는 사람은 가족이다."
+## Bewerbung zwei: Leonie | 지원자 2: 레오니
+Leonie: Hallo. Ich bin Leonie. Ich habe kein Anschreiben. Und keinen Lebenslauf. Ich habe nur das hier. Ein Video. Auf meinem Handy. Von meinem Rennrad. Das ich selbst gebaut habe. Aus drei kaputten. || 안녕하세요. 저 레오니예요. 자기소개서 없어요. 이력서도 없어요. 이것밖에 없어요. 영상 하나요. 휴대폰에 있는 거요. 제 로드바이크 영상이요. 고장 난 자전거 세 대로 제가 직접 조립한 거요.
+Tobi: Aus drei kaputten? Zeig. … Das ist ein Peugeot-Rahmen von neunzehnhundertachtzig. Mit Campagnolo-Schaltung. Und einer modernen Bremse. Wie hast du das zusammenbekommen? || 고장 난 세 대로? 보여 줘. …이건 1980년 푸조 프레임이네. 캄파놀로 변속기에. 요즘 브레이크까지. 이걸 어떻게 맞췄어?
+Leonie: YouTube. Und Geduld. Und einem Opa, der mir seinen Keller gegeben hat. Er ist letztes Jahr gestorben. Ich habe das Rad an seinem Geburtstag fertig gemacht. Und bin damit zum Friedhof gefahren. || 유튜브요. 그리고 인내심이요. 그리고 자기 지하실을 내준 할아버지요. 작년에 돌아가셨어요. 할아버지 생신에 그 자전거를 완성했어요. 그리고 그걸 타고 묘지에 갔어요.
+Tobi: Und warum hast du das Abi abgebrochen? Wenn ich fragen darf. || 그럼 아비투어는 왜 그만뒀어? 물어봐도 된다면.
+Leonie: Weil ich in der elften Klasse gemerkt habe, dass ich lieber mit den Händen denke. Meine Eltern sind beide Ärzte. Sie wollten, dass ich Medizin studiere. Ich wollte Speichen spannen. Wir reden seit drei Monaten nicht. || 11학년 때 손으로 생각하는 게 더 좋다는 걸 알았거든요. 우리 부모님 두 분 다 의사예요. 제가 의대 가길 바라셨어요. 저는 스포크 조이고 싶었고요. 석 달째 대화를 안 해요.
+Tobi: Drei Monate. Wie bei Jana und Kalle. Drei Weihnachten. Das wird wieder. Glaub mir. || 석 달이라. 야나 누나랑 칼레 아저씨처럼. 크리스마스 세 번. 다시 좋아질 거야. 믿어.
+Leonie: Woher wissen Sie das? || 그걸 어떻게 아세요?
+Tobi: Du. Ich bin Tobi. Ich weiß es, weil ich in einem Haus wohne, in dem alle sich irgendwann wieder vertragen. Sogar die Frau vom Finanzamt mit dem Kneipenwirt. Hier. Ein Laufrad. Die Speichen sind locker. Zentrier es. Ich gucke zu. || 반말해. 나 토비야. 그걸 아는 건 내가 다들 언젠가는 다시 화해하는 집에 살기 때문이야. 세무서 출신 아주머니랑 크나이페 주인까지도. 여기. 바퀴 하나. 스포크가 헐거워. 휠 정렬해 봐. 지켜볼게.
+Leonie: … So. Ein Viertel rechts. Ein Viertel links. Gegenüber. Immer gegenüber. Sonst wird es ein Ei. Fertig. Acht Minuten. || …됐다. 오른쪽으로 사분의 일. 왼쪽으로 사분의 일. 맞은편. 늘 맞은편으로. 안 그러면 달걀 모양이 돼요. 끝났어요. 팔 분이요.
+Tobi: Acht Minuten. Ich brauche zwölf. Für das Zentrieren. Das ist meine Schwäche. || 팔 분이라. 나는 십이 분 걸려. 휠 정렬은. 그게 내 약점이거든.
+Leonie: Dann bin ich deine Stärke. || 그럼 제가 당신 강점이 되면 되겠네요.
+Tobi: … Okay. Das war auch eine gute Antwort. Zwei gute Antworten an einem Tag. Ich habe nur einen Ausbildungsplatz. || …알았어. 그것도 좋은 답이었어. 하루에 좋은 답이 두 개라니. 나한텐 견습 자리가 하나밖에 없는데.
+## Tobi zweifelt | 토비의 고민
+Tobi: Kalle. Ich habe zwei. Beide sind gut. Artem ist besser bei Naben. Leonie beim Zentrieren. Artem braucht den Platz mehr. Für seinen Aufenthalt. Für seine Zukunft. Leonie hat Eltern mit Geld. Aber Leonie hat mit nichts angefangen. Und mit einem toten Opa. Wie entscheide ich? || 칼레 아저씨. 지원자가 둘이에요. 둘 다 잘해요. 아르템은 허브를 더 잘하고. 레오니는 휠 정렬을 더 잘해요. 아르템이 그 자리가 더 필요해요. 체류 때문에도. 미래 때문에도. 레오니는 돈 있는 부모님이 있고요. 그런데 레오니는 아무것도 없이 시작했어요. 돌아가신 할아버지만 있고요. 어떻게 결정해요?
+Kalle: Frag nicht mich. Ick habe letzte Woche eine Wohnung an der Bar verschenkt. Det war falsch. || 나한테 묻지 마. 나 지난주에 바에서 집 한 채를 줘 버렸잖아. 그건 잘못이었어.
+Tobi: Aber das hier ist meine Werkstatt. Kein Haus von fünfunddreißig Menschen. Ich darf entscheiden. Allein. || 그런데 이건 제 공방이에요. 서른다섯 명의 집이 아니라요. 저 혼자 결정해도 돼요.
+Kalle: Du darfst. Aber nicht nach Sympathie. Das habe ick gelernt. Mach eine Liste. Wie Frau Albers. Was braucht die Werkstatt? Wer braucht die Werkstatt? Und dann guck, ob es noch einen dritten Weg gibt. Den gibt es meistens. Hat Derya bei Nordwert gefunden. || 돼. 그래도 호감으로 하면 안 돼. 그건 내가 배웠어. 목록을 만들어. 알버스 씨처럼. 공방엔 뭐가 필요한지. 누가 공방이 필요한지. 그리고 세 번째 길이 있는지 봐. 대개는 있어. 데르야가 노르트베르트 때 찾았잖아.
+Tobi: Ein dritter Weg. Ein Ausbildungsplatz. Und ein Praktikum. Bezahlt. Vom Lastenradverleih. Und im nächsten Jahr ein zweiter Platz. Wenn ich die Prüfung habe. || 세 번째 길이라. 견습 자리 하나. 그리고 인턴십 하나. 급여 있는 걸로. 화물 자전거 대여 수익으로. 그리고 내년엔 두 번째 자리. 내가 시험 붙으면.
+Kalle: Siehst du. Du brauchst mich gar nicht. Du brauchst nur einen Tresen, an dem du laut denken kannst. || 봐. 너 나 필요 없잖아. 소리 내서 생각할 카운터 하나만 있으면 되는 거야.
+Tobi: Das ist dasselbe, Kalle. Du bist der Tresen. || 그거 같은 거예요, 칼레 아저씨. 아저씨가 그 카운터잖아요.
+Kalle: … Det ist das Netteste, was du je zu mir gesagt hast. Und das Seltsamste. || …그거 네가 나한테 한 말 중에 제일 다정한 말이다. 그리고 제일 이상한 말이고.
+Jana: Und ich rechne. Ein bezahltes Praktikum. Dreihundertfünfzig im Monat. Drei Monate. Über den Verleih. Bei zehn Rädern und dreißig Prozent Auslastung … geht. Knapp. Aber es geht. || 그리고 내가 계산할게. 급여 있는 인턴십. 한 달 삼백오십. 석 달. 대여 수익으로. 자전거 열 대에 가동률 30퍼센트면… 돼. 빠듯하지만 돼.
+Tobi: Dreißig Prozent Auslastung. Jana, du rechnest wie bei Zahlwerk. || 가동률 30퍼센트라. 야나 누나, Zahlwerk에서 하던 것처럼 계산하네요.
+Jana: Nur dass ich diesmal weiß, für wen ich rechne. Für eine Siebzehnjährige mit einem Peugeot von neunzehnhundertachtzig. Das ist ein besseres Produkt. || 이번엔 누구를 위해 계산하는지 안다는 것만 빼고. 1980년산 푸조를 가진 열일곱 살짜리를 위해서. 그게 더 좋은 제품이야.
+## Ein Anruf von der Handwerkskammer | 수공업 회의소에서 온 전화
+Herr Hamann: Herr Fischer? Hamann. Handwerkskammer Berlin. Ausbildungsberatung. Sie haben letzte Woche angefragt. Ob Sie ausbilden dürfen. Ich habe Ihre Unterlagen geprüft. || 피셔 씨? 하만입니다. 베를린 수공업 회의소. 직업 교육 상담이요. 지난주에 문의하셨죠. 견습생을 가르쳐도 되는지요. 서류 검토했습니다.
+Tobi: Ja. Und? Darf ich? Ich habe einen Gesellenbrief. Zweitausendsechzehn. Und neun Jahre Berufserfahrung. Und eine eigene Werkstatt. Seit gestern mit zehn Jahren Vertrag. || 네. 그래서요? 해도 돼요? 저 숙련공 자격증 있어요. 2016년 거요. 그리고 경력 구 년이요. 그리고 제 공방도 있고요. 어제부터 십 년 계약이에요.
+Herr Hamann: Das ist alles sehr gut. Aber Ihnen fehlt die Ausbildereignung. Die AdA-Prüfung. Ohne die dürfen Sie keinen Azubi ausbilden. Es sei denn, ein anderer Betrieb übernimmt die fachliche Verantwortung. Im Verbund. || 그건 다 아주 좋아요. 그런데 직업 교육 지도자 자격이 없으시네요. AdA 시험이요. 그게 없으면 견습생을 가르칠 수 없어요. 다른 사업장이 전문적인 책임을 맡지 않는 한은요. 공동 교육으로요.
+Tobi: Die AdA-Prüfung. Ist das … ist das schriftlich? || AdA 시험이요. 그거… 그거 필기예요?
+Herr Hamann: Schriftlich und praktisch. Die schriftliche dauert drei Stunden. Multiple Choice. Und Fallbeispiele. Mit eigenen Texten. || 필기랑 실기요. 필기는 세 시간이에요. 객관식이랑요. 그리고 사례 문제요. 직접 글을 써야 하는 거요.
+Tobi: Mit eigenen Texten. Drei Stunden. Okay. Danke. Ich … ich melde mich. || 직접 글을 써야 하는. 세 시간이라. 알겠습니다. 감사합니다. 저… 다시 연락드릴게요.
+Malte: Tobi? Was ist los? Du bist ganz weiß. Wie die Wand, die Wojtek gestrichen hat. || 토비? 무슨 일이야? 얼굴이 하얗게 질렸어. 보이텍이 칠한 벽처럼.
+Tobi: Ich kann keinen Azubi ausbilden. Nicht ohne Prüfung. Eine schriftliche Prüfung. Drei Stunden. Mit eigenen Texten. Malte, ich kann … ich kann nicht gut schreiben. Ich habe Angst vor der Prüfung. Ich hatte immer Angst vor Prüfungen. Seit der Grundschule. Seit sie mich „faul" genannt haben. || 견습생 못 가르쳐. 시험 없이는. 필기시험. 세 시간. 직접 글 써야 하는 거. 말테, 나… 나 글을 잘 못 써. 시험이 무서워. 늘 시험이 무서웠어. 초등학교 때부터. 사람들이 나를 ‚게으른 애'라고 부른 뒤로.
+Malte: Tobi. Du bist nicht faul. Du hast Legasthenie. Das ist ein Unterschied. Und dafür gibt es Regeln. Nachteilsausgleich. Mehr Zeit. Vielleicht eine mündliche Prüfung statt schriftlich. Ich habe das für meine Gärtnerprüfung gelesen. Wegen meines Bruders. || 토비. 너는 게으른 게 아니야. 난독증이 있는 거지. 그건 달라. 그리고 그걸 위한 규정이 있어. 불이익 보상. 시간 연장. 어쩌면 필기 대신 구술시험도. 내 정원사 시험 때 읽어 봤어. 우리 형 때문에.
+Frau Schulze: Darf ich mich einmischen? Ich war dreißig Jahre Beamtin. Ich kenne Prüfungsordnungen. Paragraf sechzehn der Prüfungsordnung der Handwerkskammer. Nachteilsausgleich bei Behinderung oder Teilleistungsstörung. Mit ärztlichem Attest. Man muss es beantragen. Vorher. Schriftlich. Ich helfe Ihnen beim Antrag. || 끼어들어도 될까요? 나 삼십 년 공무원이었어요. 시험 규정 알아요. 수공업 회의소 시험 규정 제16조. 장애나 부분적 학습 장애가 있을 때의 불이익 보상. 의사 진단서 첨부해서요. 미리 신청해야 해요. 서면으로요. 신청서 쓰는 거 도와드릴게요.
+Tobi: Schriftlich. Natürlich. Alles ist schriftlich. || 서면으로라. 당연하죠. 다 서면이죠.
+Lea: Und ich helfe dir beim Lernen. Ich habe zwei Kinder mit Legasthenie in meiner Klasse. Wir lernen mit Bildern. Mit Farben. Mit Vorlesen. Du lernst nicht schlechter. Du lernst anders. Wie Wasser. Es macht nicht, was alle machen. || 그리고 나는 공부하는 걸 도와줄게. 우리 반에 난독증 있는 애가 둘 있거든. 우린 그림으로 공부해. 색깔로. 소리 내서 읽어 주면서. 네가 못 배우는 게 아니야. 다르게 배우는 거지. 물처럼. 다들 하는 대로 안 하는 거야.
+Can: Und ich lese dir vor! Bis zum Punkt! Jeden Abend! Wie Dede mir! || 그리고 제가 읽어 줄게요! 마침표까지요! 매일 저녁요! 데데가 저한테 해 주듯이요!
+Tobi: … Ihr alle. Ihr macht mich fertig. Im guten Sinn. Gut. Ich mache die Prüfung. Im Herbst. Mit Nachteilsausgleich. Mit Bildern. Mit Can. Und mit Frau Schulzes Antrag. || …너희 다. 나 진짜 미치겠다. 좋은 뜻으로. 좋아. 시험 볼게. 가을에. 불이익 보상 받아서. 그림으로. 잔이랑. 그리고 슐체 부인 신청서로.
+## Abends: die Entscheidung | 저녁: 결정
+Tobi: Ich habe mich entschieden. Artem bekommt den Ausbildungsplatz. Ab ersten September. Im Verbund. Mit der Werkstatt von Herrn Kaminski in Spandau. Er hat heute Nachmittag Ja gesagt. Am Telefon. Er hat gesagt: „Tobias, du bist der einzige Azubi, den ich je hatte, der mich angerufen hat, um selbst einen Azubi zu haben." || 결정했어요. 견습 자리는 아르템한테 줄게요. 9월 1일부터요. 공동 교육으로요. 슈판다우 카민스키 아저씨 공방이랑 같이요. 오늘 오후에 그분이 전화로 좋다고 하셨어요. 그러시더라고요. „토비아스, 자기 견습생을 두려고 나한테 전화한 내 견습생은 너밖에 없다."
+Kalle: Und bis du die Prüfung hast? || 그럼 네가 시험 붙을 때까지는?
+Tobi: Ist Herr Kaminski offiziell verantwortlich. Artem ist zwei Tage in Spandau. Zwei Tage hier. Einen Tag in der Berufsschule. Und wenn ich im Herbst bestehe, kommt er ganz zu mir. || 카민스키 아저씨가 공식적으로 책임지세요. 아르템은 이틀은 슈판다우에서. 이틀은 여기서. 하루는 직업 학교에서요. 그리고 제가 가을에 붙으면 아르템은 완전히 저한테 와요.
+Artem: Danke, Tobi. Ich … meine Mutter wird weinen. Und mein Vater wird anrufen. Aus Charkiw. Heute Nacht. Mit schlechtem Netz. Er wird nur ein Wort verstehen. „Ausbildung." Das reicht. || 고마워요, 토비. 저… 우리 엄마가 울 거예요. 그리고 아빠가 전화할 거예요. 하르키우에서요. 오늘 밤에요. 연결이 안 좋겠지만요. 아빠는 한 단어만 알아들으실 거예요. „견습." 그거면 충분해요.
+Leonie: Und ich? || 그럼 저는요?
+Tobi: Du bekommst ein Praktikum. Ab Mai. Drei Monate. Bezahlt. Vom Lastenradverleih. Du machst das Zentrieren. Und die Rennräder. Und dann reden wir im August über einen zweiten Ausbildungsplatz. Ab zweitausendachtundzwanzig. Wenn ich die Prüfung habe. Und wenn der Keller voll ist. || 너는 인턴십이야. 5월부터. 석 달. 급여 있어. 화물 자전거 대여 수익에서. 휠 정렬 맡아 줘. 그리고 로드바이크도. 그리고 8월에 두 번째 견습 자리 얘기하자. 2028년부터. 내가 시험 붙고. 지하가 꽉 차면.
+Leonie: Ein Praktikum. Bezahlt. Und vielleicht eine Ausbildung. Meine Eltern … ich rufe sie heute an. Zum ersten Mal seit drei Monaten. Und sage: Ich habe einen Job. Mit den Händen. || 인턴십. 급여 있는. 그리고 어쩌면 견습까지. 우리 부모님… 오늘 전화할게요. 석 달 만에 처음으로요. 그리고 말할 거예요. 나 일자리 생겼어. 손으로 하는 거.
+Malte: Tobi. Du hast heute zwei junge Menschen glücklich gemacht. Und dich selbst. Und mich auch. Weil du keine Angst mehr hast. Fast keine. || 토비. 너 오늘 젊은 사람 둘을 행복하게 했어. 그리고 너 자신도. 그리고 나도. 네가 더 이상 겁먹지 않으니까. 거의.
+Tobi: Fast keine. Malte, wenn ich die Prüfung bestehe … im Herbst … dann frage ich dich etwas. Etwas Wichtiges. Mit einem Ring. Aus einer Fahrradkette. Selbst gemacht. || 거의. 말테, 내가 시험에 붙으면… 가을에… 너한테 뭘 물어볼게. 중요한 거. 반지 들고. 자전거 체인으로 만든 거. 내가 직접.
+Malte: … Du hast es mir gerade gesagt. Bevor du gefragt hast. || …방금 다 말해 버렸잖아. 묻기도 전에.
+Tobi: Oh. Mist. Das war … das war kein Plan. Das war Aufregung. || 아. 젠장. 그건… 그건 계획이 아니었어. 흥분해서 그런 거야.
+Malte: Dann warte ich bis zum Herbst. Und tue so, als hätte ich nichts gehört. Mit Ohrstöpseln. Von Frau Schulze. || 그럼 가을까지 기다릴게. 그리고 아무것도 못 들은 척할게. 귀마개 끼고. 슐체 부인 거로.
+Frau Schulze: Ich habe es auch nicht gehört. Ich protokolliere es nicht. Aber ich merke es mir. Unter „Herbst". In Ordner vierzehn. Den lege ich heute an. || 나도 못 들었어요. 기록 안 할게요. 그래도 기억은 해 둘게요. ‚가을' 항목에. 14번 서류철에. 오늘 새로 만들 거예요.
+Tobi: Ordner vierzehn. „Herbst". Darin: eine Prüfung und ein Ring. Aus einer Fahrradkette. || 14번 서류철. ‚가을'. 그 안에: 시험 하나랑 반지 하나. 자전거 체인으로 만든.
+Can: Und Ordner fünfzehn ist für die Hochzeit von Miriam und Kofi. In elf Tagen. Mit Balkonkraftwerk. Frau Schulze hat schon die Farben verteilt. Grün für alles, was klappt. || 그리고 15번 서류철은 미리암 누나랑 코피 형 결혼식용이에요. 11일 뒤예요. 발코니 발전소랑 같이요. 슐체 아주머니가 벌써 색깔을 정했어요. 잘되는 건 전부 초록색이요.
