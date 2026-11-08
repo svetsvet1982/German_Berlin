@@ -1,0 +1,159 @@
+@part 1
+@ep 2
+@file La_bici_e_sparita
+@title La bici è sparita
+@ko 자전거가 사라졌다
+@where 비아 델 칸토네 7번지 현관 앞, 동네 카라비니에리 파출소
+@level A2~B1
+@setting 3월 말 수요일 아침 7시 40분 / 오후 4시 반 파출소 / 저녁 6시 수리점 앞
+@cast NADIA | 4층 세입자, 병원 문화중재자, 40세
+@cast SAMIR | 나디아의 아들, 중학교 2학년, 12세
+@cast SIMONE | 1층 스쿠터·자전거 수리공, 31세
+@cast APPUNTATO | 동네 카라비니에리 파출소 근무자(가상), 50대
+@note 사미르는 2주 전 외할아버지·외할머니에게서 빨간 새 자전거를 선물받았다. 밤마다 현관 앞 표지판 기둥에 묶어 두었는데, 오늘 아침 내려와 보니 기둥만 남아 있다.
+
+# 장면 1 — DAVANTI AL PORTONE
+SAMIR: Mamma! Mamma, vieni giù! Subito! || 엄마! 엄마, 내려와 봐! 빨리!
+NADIA: Che c'è, Samir? Sono le otto meno venti, sei in ritardo! || 무슨 일이야, 사미르? 여덟 시 20분 전이야, 너 늦었어!
+SAMIR: La bici! La mia bici non c'è più! || 자전거! 내 자전거가 없어졌어!
+NADIA: Come non c'è più? Arrivo. || 없어졌다니 무슨 소리야? 지금 갈게.
+SAMIR: Guarda. Qui c'è il palo. E la bici dov'è? || 봐. 여기 기둥은 있잖아. 근데 자전거는 어딨어?
+NADIA: Oddio. Sei sicuro che l'hai lasciata qui? || 세상에. 여기 둔 거 확실해?
+SAMIR: Sicurissimo! Ieri sera l'ho legata a questo palo. Con il lucchetto. || 완전 확실해! 어젯밤에 이 기둥에 묶어 놨어. 자물쇠로.
+NADIA: E il lucchetto? || 자물쇠는?
+SAMIR: Eccolo, per terra. È tagliato. || 여기, 바닥에. 잘려 있어.
+NADIA: Tagliato in due. Ma chi è stato? || 두 동강 났네. 대체 누가 그랬어?
+SAMIR: Non lo so! Era nuova, mamma. Due settimane! || 몰라! 새 거였는데, 엄마. 2주밖에 안 됐는데!
+NADIA: Lo so, amore. Lo so. Calmati un attimo. || 알아, 얘야. 알아. 잠깐 진정해.
+SIMONE: Buongiorno! Che succede? Ho sentito gridare. || 안녕하세요! 무슨 일이에요? 소리치는 거 들었어요.
+NADIA: Simone, buongiorno. Hanno rubato la bici di Samir. || 시모네, 안녕하세요. 누가 사미르 자전거를 훔쳐 갔어요.
+SIMONE: No! Quella rossa? Quella nuova? || 설마! 그 빨간 거요? 그 새 거?
+SAMIR: Sì. Quella dei nonni. || 응. 할아버지 할머니가 사 준 거.
+SIMONE: Fammi vedere il lucchetto. Mmm. Questo è un lucchetto a cavo. || 자물쇠 좀 보자. 음. 이건 와이어 자물쇠네.
+NADIA: È sbagliato? || 그게 잘못된 거예요?
+SIMONE: Non è sbagliato, ma è debole. Con una cesoia si taglia in due secondi. || 잘못된 건 아닌데 약해요. 절단기로 2초면 잘려요.
+SAMIR: Due secondi? Ma l'abbiamo pagato quindici euro! || 2초? 15유로나 줬는데!
+SIMONE: Lo so. Mi dispiace, Samir. Davvero. || 알아. 미안하다, 사미르. 정말로.
+NADIA: Tu hai visto qualcuno stanotte? || 어젯밤에 누구 본 거 있어요?
+SIMONE: No, io sono andato via alle nove. Ma sono arrivato presto stamattina, alle sette. || 아뇨, 전 아홉 시에 갔어요. 대신 오늘 아침엔 일찍, 일곱 시에 왔고요.
+NADIA: E alle sette c'era la bici? || 일곱 시엔 자전거가 있었어요?
+SIMONE: Non lo so. Non ci ho fatto caso. Mi dispiace. || 모르겠어요. 신경을 안 썼어요. 죄송해요.
+NADIA: Va bene, non è colpa tua. Samir, adesso vai a scuola. || 괜찮아요, 당신 잘못 아니에요. 사미르, 이제 학교 가.
+SAMIR: A piedi? Così arrivo tardi! || 걸어서? 그럼 늦잖아!
+NADIA: Allora prendi il tram. E corri. || 그럼 트램 타. 그리고 뛰어.
+SAMIR: E la bici? Chi la cerca? || 그럼 자전거는? 누가 찾아?
+NADIA: Oggi pomeriggio andiamo dai carabinieri. Facciamo la denuncia. || 오늘 오후에 카라비니에리한테 가자. 신고하자.
+SAMIR: La denuncia? Serve a qualcosa? || 신고? 그게 소용 있어?
+SIMONE: Serve, serve. Se la trovano, sanno che è tua. || 있지, 있어. 찾으면 네 거라는 걸 알잖아.
+NADIA: Hai sentito? Adesso vai. Ci vediamo alle quattro qui davanti. || 들었지? 이제 가. 네 시에 여기 앞에서 만나.
+SAMIR: Va bene. Ciao, mamma. Ciao, Simone. || 알았어. 안녕, 엄마. 안녕, 시모네.
+SIMONE: Ciao, campione. Su con la vita! || 잘 가, 챔피언. 기운 내!
+NADIA: Grazie, Simone. Io devo correre in ospedale. Il mio turno comincia alle nove. || 고마워요, 시모네. 저는 병원으로 뛰어가야 해요. 근무가 아홉 시에 시작해요.
+SIMONE: Vai, vai. Senti, una cosa. Avete una foto della bici? || 가요, 가요. 저기, 하나만요. 자전거 사진 있어요?
+NADIA: Penso di sì. Samir l'ha fotografata cento volte. || 있을 거예요. 사미르가 백 번은 찍었어요.
+SIMONE: Bene. E lo scontrino del negozio? Portateli tutti e due ai carabinieri. || 좋아요. 가게 영수증은요? 둘 다 카라비니에리한테 가져가세요.
+NADIA: Lo scontrino ce l'ha mio padre. Lo chiamo. Grazie! || 영수증은 우리 아버지가 갖고 있어요. 전화할게요. 고마워요!
+
+# 장면 2 — IN CASERMA
+APPUNTATO: Buonasera. Prego, si accomodi. Mi dica. || 안녕하세요. 이쪽으로 앉으세요. 말씀하세요.
+NADIA: Buonasera. Siamo venuti per una denuncia. Ci hanno rubato una bicicletta. || 안녕하세요. 신고하러 왔어요. 자전거를 도둑맞았어요.
+APPUNTATO: Una bicicletta. Va bene. Ha un documento, signora? || 자전거요. 알겠습니다. 신분증 있으세요, 부인?
+NADIA: Sì, ecco la carta d'identità. || 네, 여기 신분증이요.
+APPUNTATO: Grazie. Hossain Nadia, nata a Roma... Residente in via del Cantone 7? || 감사합니다. 호사인 나디아, 로마 출생… 비아 델 칸토네 7번지 거주 맞으시죠?
+NADIA: Sì, esatto. Al quarto piano. || 네, 맞아요. 4층이에요.
+APPUNTATO: E il ragazzo? || 이 아이는요?
+NADIA: È mio figlio, Samir. La bici è sua. || 제 아들 사미르예요. 자전거가 이 아이 거예요.
+APPUNTATO: Ciao, Samir. Quanti anni hai? || 안녕, 사미르. 몇 살이니?
+SAMIR: Dodici. Cioè, quasi tredici. || 열두 살이요. 그러니까, 거의 열세 살이요.
+APPUNTATO: Bene. Allora, raccontami. Quando hai visto la bici l'ultima volta? || 좋아. 그럼 얘기해 보렴. 자전거를 마지막으로 본 게 언제니?
+SAMIR: Ieri sera. Alle otto e mezza sono tornato dal calcetto. || 어젯밤이요. 여덟 시 반에 풋살 하고 돌아왔어요.
+APPUNTATO: E dove l'hai lasciata? || 어디에 뒀니?
+SAMIR: Davanti al portone. L'ho legata a un palo, quello del cartello. || 현관 앞이요. 기둥에 묶었어요, 표지판 기둥이요.
+APPUNTATO: Con che cosa l'hai legata? || 뭘로 묶었니?
+SAMIR: Con un lucchetto a cavo. Ma il meccanico dice che è debole. || 와이어 자물쇠로요. 근데 수리공 아저씨가 그건 약하대요.
+APPUNTATO: Il meccanico ha ragione. E stamattina? || 수리공 말이 맞아. 그리고 오늘 아침엔?
+SAMIR: Stamattina sono sceso alle sette e mezza e la bici non c'era più. || 오늘 아침 일곱 시 반에 내려왔는데 자전거가 없었어요.
+APPUNTATO: Quindi è sparita di notte. Tra le otto e mezza di sera e le sette e mezza di mattina. || 그러니까 밤사이에 사라졌군. 저녁 여덟 시 반부터 아침 일곱 시 반 사이에.
+NADIA: Esatto. Qualcuno ha tagliato il lucchetto. L'abbiamo portato. Eccolo. || 맞아요. 누가 자물쇠를 잘랐어요. 가져왔어요. 여기요.
+APPUNTATO: Grazie. Com'è la bicicletta? Me la descrive? || 감사합니다. 자전거가 어떻게 생겼죠? 설명해 주시겠어요?
+SAMIR: È rossa, con le ruote nere. Ha un campanello giallo. || 빨간색에 바퀴는 까매요. 노란 벨이 달려 있어요.
+APPUNTATO: Che marca è? || 어느 브랜드니?
+SAMIR: Non mi ricordo il nome. Ma ho la foto. Guardi. || 이름은 기억 안 나요. 근데 사진 있어요. 보세요.
+APPUNTATO: Bella bici. Ventisei pollici? || 좋은 자전거네. 26인치니?
+SAMIR: Sì, ventisei. Mio nonno ha detto: «Così ti dura fino a vent'anni». || 네, 26이요. 할아버지가 그랬어요. «이러면 스무 살까지 탄다».
+APPUNTATO: Tuo nonno è un uomo saggio. Signora, ha lo scontrino? || 할아버지가 현명하시구나. 부인, 영수증 있으세요?
+NADIA: Mio padre me l'ha mandato sul telefono. Ecco. Trecentottanta euro. || 아버지가 휴대폰으로 보내 주셨어요. 여기요. 380유로요.
+APPUNTATO: Perfetto. Qui c'è anche il numero di telaio. È molto importante. || 좋습니다. 여기 프레임 번호도 있네요. 이게 아주 중요해요.
+SAMIR: Il numero di che cosa? || 무슨 번호요?
+APPUNTATO: Di telaio. Ogni bici ha un numero sotto, qui. Come una carta d'identità. || 프레임 번호. 자전거마다 아래쪽에 번호가 있어. 신분증처럼.
+SAMIR: Ah. Non l'ho mai visto. || 아. 한 번도 못 봤어요.
+APPUNTATO: Quasi nessuno lo guarda. Poi la bici sparisce e tutti lo cercano. || 거의 아무도 안 봐. 그러다 자전거가 없어지면 다들 찾지.
+NADIA: Ci sono possibilità di ritrovarla? || 찾을 가능성이 있을까요?
+APPUNTATO: Sinceramente, signora? Poche. A Roma spariscono troppe bici. Ma qualche volta le ritroviamo. Per questo la denuncia serve. || 솔직히 말씀드릴까요, 부인? 낮아요. 로마에선 자전거가 너무 많이 없어져요. 그래도 가끔은 찾아요. 그래서 신고가 필요한 거예요.
+NADIA: Cosa dobbiamo fare adesso? || 이제 저희는 뭘 해야 하죠?
+APPUNTATO: Niente. Io scrivo la denuncia, lei la legge e la firma. Poi le do una copia. || 아무것도요. 제가 신고서를 쓰고, 부인이 읽고 서명하세요. 그다음에 사본을 드릴게요.
+NADIA: La copia serve per l'assicurazione? || 사본은 보험 때문에 필요한 거예요?
+APPUNTATO: Se avete un'assicurazione, sì. Ce l'avete? || 보험이 있으면요. 있으세요?
+NADIA: No. Non ci ho mai pensato. || 아뇨. 생각도 못 해 봤어요.
+APPUNTATO: Come quasi tutti. Ecco, signora. Legga con calma. || 거의 다들 그렇죠. 여기요, 부인. 천천히 읽어 보세요.
+NADIA: «Il giorno... la signora Hossain dichiara che...» Va bene. È tutto giusto. || «…일, 호사인 부인은 …라고 진술함…» 네. 다 맞아요.
+APPUNTATO: Firmi qui. E qui. Grazie. || 여기 서명하세요. 여기도요. 감사합니다.
+SAMIR: Scusi, una domanda. Se la trovate, mi chiamate? || 저기요, 질문 하나요. 찾으면 전화해 주세요?
+APPUNTATO: Chiamiamo la mamma. Il numero è sulla denuncia. Va bene? || 엄마한테 전화할게. 번호가 신고서에 있어. 됐지?
+SAMIR: Va bene. Grazie. || 네. 감사합니다.
+APPUNTATO: Di niente. E la prossima volta, un lucchetto serio. A U, di acciaio. || 천만에. 그리고 다음엔 제대로 된 자물쇠를. U자형 강철로.
+NADIA: Ha ragione. Grazie mille, buonasera. || 맞는 말씀이에요. 정말 감사합니다, 안녕히 계세요.
+
+# 장면 3 — DAVANTI ALL'OFFICINA
+SIMONE: Eccovi! Allora? Com'è andata? || 왔네요! 어때요? 어떻게 됐어요?
+NADIA: Abbiamo fatto la denuncia. L'appuntato è stato gentile. || 신고했어요. 경찰관이 친절했어요.
+SAMIR: Ma ha detto che le possibilità sono poche. || 근데 가능성이 낮대요.
+SIMONE: Eh, purtroppo è vero. Però ho un'idea. || 에휴, 안타깝지만 맞아. 그래도 생각이 하나 있어.
+SAMIR: Quale? || 뭔데요?
+SIMONE: Domenica mattina c'è il mercato di Porta Portese. Lo conosci? || 일요일 아침에 포르타 포르테세 시장이 열려. 알아?
+SAMIR: Sì, ci sono andato con la nonna. Vendono di tutto. || 네, 할머니랑 가 봤어요. 별걸 다 팔아요.
+SIMONE: Di tutto. Anche bici usate. E a volte... non sono proprio usate, sono rubate. || 별걸 다. 중고 자전거도. 그리고 가끔은… 진짜 중고가 아니라 훔친 거야.
+NADIA: Davvero? Lo sanno tutti e nessuno fa niente? || 정말요? 다 아는데 아무도 아무것도 안 해요?
+SIMONE: Qualcuno fa qualcosa. Ma le bici sono tante. Domenica ci andiamo insieme, se volete. || 누군가는 하죠. 근데 자전거가 너무 많아요. 원하면 일요일에 같이 가요.
+SAMIR: Sì! Mamma, possiamo? || 좋아요! 엄마, 가도 돼?
+NADIA: Domenica... va bene. Ma se la troviamo, non facciamo niente da soli. Chiamiamo i carabinieri. || 일요일이라… 그래. 근데 찾더라도 우리끼리 아무것도 하지 마. 카라비니에리를 부르는 거야.
+SIMONE: Certo. Niente film d'azione. || 물론이죠. 액션 영화는 없어요.
+SAMIR: Peccato. || 아쉽다.
+NADIA: Samir! || 사미르!
+SAMIR: Scherzo! Scherzo, mamma. || 농담이야! 농담, 엄마.
+SIMONE: E un'altra cosa. Quando avrai la bici nuova, me la porti. Ti scrivo il numero di telaio su un foglio. || 그리고 하나 더. 새 자전거 생기면 나한테 가져와. 프레임 번호를 종이에 적어 줄게.
+SAMIR: Ma io non ho una bici nuova. || 근데 저 새 자전거 없는데요.
+NADIA: Per ora no. Il nonno ha già detto: «Ne compriamo un'altra». || 지금은 없지. 할아버지가 벌써 그러셨어. «하나 더 사자».
+SAMIR: Davvero? Il nonno ha detto così? || 정말? 할아버지가 그렇게 말했어?
+NADIA: Sì. Ma questa volta la porti dentro, la sera. Sul pianerottolo. || 응. 근데 이번엔 저녁에 안으로 들여놔. 층계참에.
+SAMIR: Al quarto piano? A piedi? Senza ascensore? || 4층까지? 걸어서? 엘리베이터도 없이?
+NADIA: Al quarto piano, a piedi. È uno sport anche questo. || 4층까지 걸어서. 이것도 운동이야.
+SIMONE: E per il lucchetto vieni da me. Uno a U, di acciaio. Ti faccio lo sconto. || 자물쇠는 나한테 와. U자 강철로. 깎아 줄게.
+NADIA: Quanto costa? || 얼마예요?
+SIMONE: Normalmente quaranta. Per Samir, trenta. || 원래는 40. 사미르한텐 30.
+SAMIR: Trenta euro per un lucchetto? È tantissimo! || 자물쇠 하나에 30유로? 엄청 비싸요!
+SIMONE: Meno di una bici nuova, campione. Fidati. || 새 자전거보단 싸지, 챔피언. 믿어.
+NADIA: Ha ragione Simone. Grazie, davvero. Per tutto. || 시모네 말이 맞아. 정말 고마워요. 전부 다.
+SIMONE: Ma figurati. Siamo vicini, no? A domenica, allora. Alle otto? || 무슨 말씀을. 이웃이잖아요. 그럼 일요일에 봐요. 여덟 시?
+SAMIR: Alle otto? Di domenica? || 여덟 시요? 일요일에?
+SIMONE: Le bici rubate si vendono presto, Samir. Alle dieci sono già sparite. Di nuovo. || 훔친 자전거는 일찍 팔려, 사미르. 열 시면 이미 사라져. 또다시.
+
+@points
+- 근과거의 조동사 대비를 또렷하게: «l'ho legata», «l'abbiamo pagato», «ho sentito» (avere) ↔ «sono andato», «sono arrivato», «sono sceso», «sono tornato», «è sparita» (essere). essere 쪽은 과거분사 어미가 주어에 일치한다.
+- 목적어 대명사 + 과거분사 일치: «l'ho legata»(la bici → -a), «l'abbiamo pagato»(il lucchetto → -o), «l'ha fotografata». 'l''가 붙어 한 단어처럼 이어 읽는다.
+- 이중자음: «settimane», «tutti e due», «appuntato», «lucchetto», «campanello», «sicurissimo»의 겹자음을 한 박자 길게. «carabinieri», «rubato»처럼 홑자음인 말과 대비해 읽는다.
+- 'sc'의 두 소리: «sceso»[ˈʃeːzo], «scendere»는 [ʃ] ↔ «sconto»[ˈskonto], «scontrino», «scusa»는 [sk]. 뒤 모음 e/i면 [ʃ], a/o/u면 [sk].
+- 감탄과 놀람의 억양: «Come non c'è più?»는 높게 시작해 끝을 떨어뜨리고, «Due secondi?»처럼 되묻는 말은 끝을 크게 올린다.
+- 파출소 장면은 Lei 격식체: «si accomodi», «Mi dica», «Me la descrive?», «Firmi qui». 명령형 Lei 형태(-i)를 천천히, 공손하게.
+- 시간 표현: «alle otto meno venti», «tra le otto e mezza di sera e le sette e mezza di mattina».
+
+@notes
+- 'campione' «챔피언» — 아이나 젊은이를 친근하게 부르는 말. 놀림이 아니라 애정 표현.
+- 'Su con la vita!' «기운 내!» 일상 표현.
+- 'Ma figurati' «무슨 말씀을, 별거 아니에요». 친한 사이는 figurati, Lei 사이는 si figuri.
+- 'Non ci ho fatto caso' «신경 안 썼다, 눈여겨보지 않았다». fare caso a qualcosa.
+- 'appuntato'는 카라비니에리의 계급명이다. 일반인은 보통 «agente», 존칭으로 «appuntato»라고 부른다.
+- 신고는 'fare la denuncia'. 사본(copia della denuncia)은 보험 청구 등에 쓰인다. 포르타 포르테세는 일요일 오전 로마의 대형 벼룩시장이다.
+
+@next
+1부 3화 — «Il caffè a un euro e cinquanta»(1.50유로짜리 커피) — 원두 도매가가 또 오르자 프랑코는 에스프레소 값을 올리기로 마음먹는다. 칠판에 새 가격을 쓰려는 순간, 단골들이 하나둘 들고일어난다.
