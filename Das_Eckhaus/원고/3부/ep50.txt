@@ -1,0 +1,153 @@
+#nr: 50
+#part: 3부 Herbst (가을)
+#title: Sankt Martin
+#ko: 성 마르틴 축일 · 등불 행렬과 반쪽 외투
+#level: B1~B2
+#setting: 11월 11일 수요일. 폭우 다음 날 아침, 클라우디아 벤트가 약속한 지붕 수리공이 정말로 온다. 오후에 잔은 할아버지 휘세인과 여우 등불을 완성하며 1989년 이야기를 묻는다. 저녁에는 로이터플라츠 초등학교에서 레아가 이끄는 등불 행렬이 운하를 따라 걷는다. 외투를 반으로 잘라 거지에게 나눠 준 성 마르틴의 이야기, 그리고 나눔. 표현 초점: 노래 가사 낭독, 전통 행사 어휘, 나눔과 감사의 표현.
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Herr Brandt | 올리버 브란트 · 40대, 지붕 수리공
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Hüseyin | 휘세인 이을드즈 · 65세, 잔의 할아버지
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Jana | 야나 코발스키 · 34세
+#cast: Lea | 레아 바그너 · 28세, 6b반 담임·수학 교사
+#cast: Lin | 린 · 11세, 잔의 반 친구, 6b반 반장
+#cast: Paul | 파울 호프만 · 27세
+#cast: Derya | 데르야 이을드즈 · 40세
+#read: 등불 노래: „Ich geh mit meiner Laterne / und meine Laterne mit mir. / Dort oben leuchten die Sterne, / und unten leuchten wir." — 행 끝 Laterne/Sterne, mir/wir 운을 살려서. 아이들 노래이므로 밝고 느리게.
+#read: 후렴 „Rabimmel, rabammel, rabumm." — 의미 없는 소리 말. 북소리처럼 세 박자로 리듬감 있게.
+#read: 이야기 들려주는 어조(레아): „Es war einmal ein Soldat. Er hieß Martin." — 옛날이야기 톤, 쉼을 길게.
+#read: Laternenumzug [laˈtɛʁnənˌʔʊmtsuːk], Martinsgans [ˈmaʁtiːnsˌɡans], Dachdecker [ˈdaxˌdɛkɐ], Weckmann [ˈvɛkˌman].
+#note: Sankt Martin(11월 11일): 4세기 로마 군인 마르틴이 추운 날 성문 앞에서 떨던 거지에게 자기 외투를 칼로 반 잘라 나눠 주었다는 전설. 독일에서는 아이들이 직접 만든 등불(Laterne)을 들고 저녁에 행렬(Laternenumzug)을 하며 노래를 부른다. 종교와 상관없이 유치원·초등학교 행사로 널리 퍼져 있다.
+#note: 축일 음식: Martinsgans(마르틴 거위 요리), Weckmann/Stutenkerl(사람 모양 빵, 지역마다 이름이 다름), Martinshörnchen. 베를린에서는 행렬 뒤에 따뜻한 Kinderpunsch(무알코올 펀치)를 나눈다.
+#note: 11월 11일 11시 11분: 쾰른·마인츠·뒤셀도르프 등 라인 지방에서는 이때 카니발 시즌(die fünfte Jahreszeit, '다섯 번째 계절')이 시작된다. 베를린에서는 크게 하지 않는다.
+#note: 나눔·감사 표현: Ich teile mit dir. (너랑 나눌게) / Das ist lieb von dir. / Das hast du toll gemacht. / Ohne dich hätte ich … / Das vergesse ich dir nie. (그건 평생 잊지 않을게)
+#note: 수리 어휘: einen Ziegel austauschen (기와를 갈다) / provisorisch abdichten (임시로 방수하다) / Das Dach muss komplett saniert werden. / ein Kostenvoranschlag (견적서)
+## Morgens, acht Uhr | 아침 여덟 시
+Frau Schulze: Kaffee, Frau Krüger? Ohne Zucker. Ich habe Herrn Kowalski versprochen, dass Sie hier keinen Zucker bekommen. || 커피 드실래요, 크뤼거 부인? 설탕 없이요. 코발스키 씨한테 여기서는 설탕 안 드리겠다고 약속했거든요.
+Edith: Ohne Zucker. Und mit einem Kater auf den Füßen. Krümel hat die ganze Nacht auf mir geschlafen. Wie ein warmer Stein. Ich habe so gut geschlafen wie seit Monaten nicht. || 설탕 없이. 그리고 발 위엔 수고양이 한 마리. 크뤼멜이 밤새 내 위에서 잤어요. 따뜻한 돌멩이처럼. 몇 달 만에 이렇게 잘 잤네요.
+Frau Schulze: Er mag Sie. Er mag sonst niemanden. Außer mich. Und den Briefträger. Es klingelt. Um acht Uhr. Pünktlich. || 당신을 좋아하네요. 원래 아무도 안 좋아해요. 나 말고는. 그리고 우편배달부. 초인종이 울리네요. 여덟 시. 정각에.
+Herr Brandt: Guten Morgen. Brandt, Dachdeckerei Brandt und Söhne. Frau Wendt aus Zürich hat mich um halb acht angerufen. Sie hat gesagt: Es ist dringend. Und: Fragen Sie nach Frau Schulze. Sie weiß alles. || 안녕하세요. 브란트입니다. 브란트 부자 지붕 공사요. 취리히의 벤트 씨가 일곱 시 반에 전화하셨어요. 급하다고. 그리고 슐체 부인을 찾으라고요. 그분이 다 안다고.
+Frau Schulze: Ich weiß alles. Kommen Sie. Seitenflügel, Dachboden. Zwei Ziegel fehlen. Die Plane hängt seit gestern Abend. Hier sind die Fotos. Mit Uhrzeit. || 다 알죠. 오세요. 곁채, 다락이에요. 기와가 두 장 없어요. 방수포는 어젯밤부터 걸려 있고요. 여기 사진이요. 시간까지 나와 있어요.
+Herr Brandt: Fotos mit Uhrzeit. So etwas habe ich noch nie bekommen. Danke. Ich gehe hoch. || 시간 나온 사진이라. 이런 건 처음 받아 보네요. 감사합니다. 올라가 볼게요.
+Edith: Ingrid, ich glaube, Sie haben ihn erschreckt. || 잉그리트, 당신이 저 사람을 놀라게 한 것 같아요.
+Frau Schulze: Gut. Erschrockene Handwerker arbeiten schneller. || 잘됐네요. 놀란 기술자는 일을 더 빨리 하거든요.
+Kalle: Morgen! Ist er da? Der Dachdecker? Ick habe ihn mit seiner Leiter gesehen. Ick konnte es nicht glauben. Ein Mensch. Kein Smiley. || 좋은 아침! 왔어? 지붕 수리공? 사다리 들고 가는 걸 봤어. 믿기지가 않더라. 사람이야. 웃는 얼굴 그림이 아니라.
+Edith: Ein Mensch mit Leiter. Frau Wendt hat Wort gehalten. || 사다리 든 사람. 벤트 씨가 약속을 지켰어.
+Herr Brandt: So. Ich war oben. Ich kann die zwei Ziegel heute austauschen. Und das Loch provisorisch abdichten. Aber ehrlich gesagt: Das ganze Dach muss komplett saniert werden. Die Lattung ist morsch. Seit Jahren. || 자. 올라갔다 왔어요. 기와 두 장은 오늘 갈 수 있어요. 구멍도 임시로 막아 두고요. 그런데 솔직히 말씀드리면, 지붕 전체를 새로 손봐야 해요. 기와 받침목이 썩었어요. 몇 년 됐네요.
+Kalle: Komplett? Wat kostet det? Ungefähr. || 전체를요? 그거 얼마 드는데요? 대충요.
+Herr Brandt: Ich mache einen Kostenvoranschlag. Aber für so ein Dach? Achtzig- bis hunderttausend Euro. Mindestens. || 견적서를 드릴게요. 그런데 이런 지붕이라면요? 8만에서 10만 유로. 최소로요.
+Edith: Hunderttausend. Das ist die Hälfte von allen unseren Zusagen zusammen. Für ein Dach. || 십만. 그건 우리가 모은 약정액을 다 합친 것의 거의 절반이야. 지붕 하나에.
+Frau Schulze: Das muss in den Finanzplan der Genossenschaft. Ich sage es Jannik. Heute noch. Instandhaltungsrücklage. || 그건 협동조합 재정 계획에 들어가야 해요. 야니크한테 말할게요. 오늘 당장. 수선 적립금으로요.
+Herr Brandt: Genossenschaft? Sie wollen das Haus kaufen? Sie alle zusammen? || 협동조합이요? 이 집을 사시려고요? 다 같이요?
+Kalle: Wir versuchen es. Mit Dach. Und mit Loch. || 해 보는 중이에요. 지붕까지. 그리고 구멍까지.
+Herr Brandt: Mein Vater hat in Moabit auch so ein Haus gerettet. Neunzehnhundertachtzig. Mit den Hausbesetzern. Er hat ihnen das Dach gemacht. Für die Hälfte. Ich rede mal mit ihm. || 우리 아버지도 모아비트에서 이런 집을 하나 살려 냈어요. 1980년에. 점거자들이랑 같이요. 그 사람들 지붕을 해 줬죠. 반값에. 아버지랑 한번 얘기해 볼게요.
+Frau Schulze: Das wäre sehr freundlich, Herr Brandt. Aber bitte schriftlich. Mit Kostenvoranschlag. Und mit Frist. || 그러면 정말 고맙겠어요, 브란트 씨. 하지만 서면으로 부탁해요. 견적서랑. 기한까지 넣어서요.
+Herr Brandt: Mit Frist. Natürlich. Frau Wendt hat mich gewarnt. Sie hat gesagt: Frau Schulze ist die Wachhündin. || 기한까지요. 물론이죠. 벤트 씨가 미리 경고하셨어요. 슐체 부인은 파수견이라고요.
+Edith: Und wir anderen sind die Herde. Gehen Sie lieber hoch, Herr Brandt. Bevor sie bellt. || 그리고 나머지 우리는 양 떼고요. 어서 올라가세요, 브란트 씨. 저 사람이 짖기 전에요.
+## Die Fuchslaterne | 여우 등불
+Can: Dede, halt mal das Papier fest. Hier. Da kommt das Ohr hin. Das linke. || 데데, 종이 좀 잡아 주세요. 여기요. 여기에 귀가 붙어요. 왼쪽 귀요.
+Hüseyin: Ein Fuchs. Warum ein Fuchs? Letztes Jahr war es eine Sonne. || 여우라. 왜 여우니? 작년엔 해였잖아.
+Can: Weil auf dem Dach von Tobis Werkstatt ein Fuchs wohnt. Um fünf Uhr morgens sieht man ihn. Und du stehst um fünf Uhr auf. Hast du ihn schon gesehen? || 토비 형 공방 지붕에 여우가 살거든요. 새벽 다섯 시에 볼 수 있어요. 그리고 데데는 다섯 시에 일어나잖아요. 벌써 보셨어요?
+Hüseyin: Ich wohne am Kotti, Canım. Da gibt es keine Füchse. Nur Tauben. Und Ratten. Die Ratten sind auch orange, wenn das Licht von der Dönerbude auf sie fällt. || 나는 코티에 살잖니, 얘야. 거긴 여우가 없어. 비둘기뿐이지. 그리고 쥐. 케밥 가게 불빛이 비치면 쥐도 주황색으로 보이긴 하지.
+Can: Dede! Igitt! Kleber. Gib mir den Kleber. Dede, ich muss dich was fragen. Für die Schule. Und für mich. || 데데! 으! 풀이요. 풀 좀 주세요. 데데, 물어볼 게 있어요. 학교 숙제로요. 그리고 저 자신을 위해서도요.
+Hüseyin: Frag. || 물어보렴.
+Can: Was hast du am neunten November neunzehnhundertneunundachtzig gemacht? Edith hat es mir erzählt. Und Pauls Papa auch. Jetzt du. || 1989년 11월 9일에 뭐 하셨어요? 에디트 할머니가 얘기해 줬어요. 파울 형 아빠도요. 이제 데데 차례예요.
+Hüseyin: Am neunten November … Ich habe geschlafen. Ich hatte Frühschicht. Ich bin jeden Abend um neun ins Bett gegangen. Deine Oma hat mich um Mitternacht geweckt. Sie hat gesagt: Hüseyin, steh auf, die Mauer ist offen. Und ich habe gesagt: Welche Mauer? || 11월 9일에… 자고 있었어. 아침 근무였거든. 매일 저녁 아홉 시에 잠자리에 들었지. 네 할머니가 자정에 날 깨웠어. 그러더라. 휘세인, 일어나요, 장벽이 열렸어요. 그래서 내가 그랬지. 무슨 장벽?
+Can: Welche Mauer? Dede! Es gab nur eine! || 무슨 장벽이요? 데데! 장벽은 하나밖에 없었잖아요!
+Hüseyin: Für uns gab es viele Mauern, Canım. Die Sprache. Die Papiere. Die Blicke. Die Berliner Mauer war nur die größte. Wir haben in Kreuzberg direkt daneben gewohnt. Am Bethaniendamm. Deine Mama war drei. Sie hat aus dem Fenster auf die Mauer geguckt. Jeden Tag. || 우리한테는 장벽이 여러 개였단다, 얘야. 말. 서류. 사람들의 시선. 베를린 장벽은 그중 제일 큰 것이었을 뿐이지. 우린 크로이츠베르크, 장벽 바로 옆에 살았어. 베타니엔담에. 네 엄마가 세 살이었지. 매일 창문 너머로 장벽을 쳐다봤어.
+Can: Und dann? Bist du aufgestanden? || 그래서요? 일어나셨어요?
+Hüseyin: Ich bin aufgestanden. Wir sind runter. Mit Derya auf dem Arm. Und am Morgen ist eine Frau aus dem Osten in den Laden an unserer Ecke gekommen. Sie hatte noch nie eine Banane gekauft. Unser Nachbar, Herr Aydın, hat ihr eine geschenkt. Und sie hat geweint. Wegen einer Banane. || 일어났지. 다 같이 내려갔어. 데르야를 안고서. 그리고 아침에 동쪽에서 온 여자 한 명이 모퉁이 우리 가게에 들어왔어. 바나나를 한 번도 사 본 적이 없었대. 우리 이웃 아이든 씨가 하나 선물했지. 그랬더니 그 여자가 울더라. 바나나 하나 때문에.
+Can: Das ist schön, Dede. || 그거 좋은 이야기네요, 데데.
+Hüseyin: Ja. Und es kam auch etwas anderes. Nicht so schön. Ein paar Jahre später. Viele hatten Angst. Wir auch. Es gab Brandanschläge auf Häuser von Türken. Mölln. Solingen. Neunzehnhundertdreiundneunzig hat deine Oma drei Monate lang einen Eimer Wasser neben die Tür gestellt. Jede Nacht. || 그래. 그런데 다른 것도 왔어. 그렇게 좋지 않은 것도. 몇 년 뒤에. 많은 사람이 두려워했어. 우리도. 튀르키예 사람들 집에 불을 지르는 일이 있었거든. 묄른. 졸링겐. 1993년엔 네 할머니가 석 달 동안 현관문 옆에 물 양동이를 놔뒀어. 매일 밤.
+Can: Einen Eimer? Wie gestern bei Edith? || 양동이요? 어제 에디트 할머니네처럼요?
+Hüseyin: Nicht wegen Regen. Wegen Feuer. Die Freude war nicht für alle gleich, Canım. Das darfst du auch aufschreiben. Für Frau Wagner. Beides. || 비 때문이 아니라. 불 때문에. 기쁨이 모두에게 똑같지는 않았단다, 얘야. 그것도 적어도 돼. 바그너 선생님한테. 둘 다.
+Can: Ich schreibe beides. Wie Edith. Erst die Steine, dann die Freude. Oder umgekehrt. || 둘 다 쓸게요. 에디트 할머니처럼요. 먼저 돌, 그다음에 기쁨. 아니면 거꾸로요.
+Hüseyin: Gut. Und jetzt der Schwanz. Ein Fuchs ohne Schwanz ist nur ein Hund. || 좋아. 이제 꼬리다. 꼬리 없는 여우는 그냥 개야.
+Can: Dede, kommst du heute Abend mit? Zum Umzug? || 데데, 오늘 저녁에 같이 가실래요? 행렬이요?
+Hüseyin: Ich bin fünfundsechzig. Mit einer Laterne laufe ich nicht mehr. || 나는 예순다섯이야. 등불 들고 걷는 건 이제 안 해.
+Can: Du musst keine Laterne tragen. Du musst nur neben mir laufen. Wie am neunten November. Mit Mama auf dem Arm. Nur ohne Arm. || 등불 안 들어도 돼요. 제 옆에서 걷기만 하면 돼요. 11월 9일처럼요. 엄마를 안고서요. 안지는 말고요.
+Hüseyin: … Na gut. Aber ich singe nicht. || …알았다. 하지만 노래는 안 부른다.
+## Elf Uhr elf | 열한 시 십일 분
+Bine: Elf Uhr elf! Hört ihr? In Köln geht jetzt der Karneval los! Die fünfte Jahreszeit! Helau! Alaaf! || 열한 시 십일 분! 들었어? 지금 쾰른에서 카니발이 시작됐어! 다섯 번째 계절! 헬라우! 알라프!
+Kalle: Bine, wir sind in Berlin. In Berlin gibt es keinen Karneval. In Berlin gibt es nur schlechte Laune. Und die ist kostenlos. || 비네, 여긴 베를린이야. 베를린엔 카니발 같은 거 없어. 베를린엔 기분 나쁜 것만 있지. 그건 공짜고.
+Bine: Ick bin aus Wanne-Eickel, Kalle. Seit zwanzig Jahren in Berlin. Aber einmal im Jahr bin ick Rheinländerin. Für eine Minute. || 나 반네아이켈 출신이야, 칼레. 베를린 산 지 이십 년 됐지만. 일 년에 한 번은 라인 사람이 되는 거야. 딱 일 분 동안.
+Jana: Papa, hast du an die Martinsgänse gedacht? Für heute Abend? Für nach dem Umzug? || 아빠, 마르틴 거위 생각했어요? 오늘 저녁용으로요? 행렬 끝나고요?
+Kalle: Gänse sind dieses Jahr zu teuer. Zweiundzwanzig Euro das Kilo. Bio. Ick mache Gänsekeulen. Zwölf Stück. Mit Rotkohl und Klößen. Für die, die vorbestellt haben. Und Kinderpunsch für alle. Umsonst. || 거위가 올해 너무 비싸. 킬로에 22유로. 유기농으로. 거위 다리로 할 거야. 열두 개. 적양배추랑 감자 경단 곁들여서. 미리 주문한 사람들용으로. 그리고 어린이 펀치는 모두에게. 공짜로.
+Jana: Umsonst? Papa. Wir wollten dreißig Prozent mehr Umsatz. Weißt du noch? Letzte Woche? || 공짜요? 아빠. 매출 30퍼센트 올리기로 했잖아요. 기억나요? 지난주에요?
+Kalle: Am Sankt-Martins-Tag teilt man. Das ist der Sinn von dem Tag. Ab morgen machen wir wieder Umsatz. || 성 마르틴 날엔 나누는 거야. 그게 이날의 의미지. 내일부터 다시 매출 올리자.
+Jana: … Okay. Einmal. Aber nur den Punsch. || …알았어요. 한 번만. 대신 펀치만이에요.
+Edith: Jana, was ist los? Du guckst seit zehn Minuten auf dein Handy. Und du hast noch nicht einmal gelacht. Nicht mal über Bine. || 야나, 무슨 일이니? 십 분째 휴대폰만 보고 있잖아. 그리고 한 번도 안 웃었어. 비네 보고도.
+Jana: Eine Mail. Von der Personalabteilung. „Einladung zu einem persönlichen Gespräch. Freitag, zehn Uhr. Thema: Ihre berufliche Zukunft im Unternehmen." || 메일이요. 인사팀에서요. „개인 면담 안내. 금요일 열 시. 주제: 회사 내 귀하의 직업적 미래."
+Bine: Ihre berufliche Zukunft. Das klingt nicht nach Beförderung. || 귀하의 직업적 미래라. 승진 소리처럼은 안 들리네.
+Jana: Nein. Das klingt nach Aufhebungsvertrag. Drei aus meinem Team haben diese Mail schon bekommen. Alle drei sind jetzt weg. Mit Abfindung. || 아니요. 합의 해지 소리처럼 들려요. 우리 팀에서 세 명이 벌써 이 메일을 받았어요. 셋 다 이제 없어요. 퇴직금 받고요.
+Kalle: Dann geh nicht hin. || 그럼 가지 마.
+Jana: Papa. Man muss hingehen. Aber man muss nichts unterschreiben. Das hat Herr Brückner gesagt. Im Sommer. Nichts sofort unterschreiben. || 아빠. 가긴 가야 해요. 하지만 아무것도 서명할 필요는 없어요. 브뤼크너 씨가 그랬어요. 여름에요. 아무것도 바로 서명하지 말라고요.
+Edith: Und willst du bleiben? In der Firma? Ehrlich? || 그럼 너는 남고 싶니? 그 회사에? 솔직하게?
+Jana: … Das ist die Frage, die ich mir seit Wochen nicht stelle. Seit dem Notizbuch von Mama. || …그게 몇 주째 제가 스스로한테 안 묻고 있는 질문이에요. 엄마 공책 본 뒤로요.
+Bine: Dann stell sie dir heute Abend. Beim Umzug. Mit einer Laterne kann man besser denken. Das ist wissenschaftlich bewiesen. Von mir. || 그럼 오늘 저녁에 물어봐. 행렬하면서. 등불 들면 생각이 더 잘 나. 과학적으로 증명된 거야. 내가 증명했어.
+Jana: Ich habe keine Laterne. Ich bin vierunddreißig. || 나 등불 없어요. 나 서른넷이에요.
+Kalle: Du hast eine. Im Keller. Die Sonne von neunzehnhundertsechsundneunzig. Mama hat sie aufgehoben. Sie ist nur ein bisschen nass. Seit gestern. || 있어. 지하에. 1996년에 만든 해 등불. 엄마가 간직해 뒀어. 조금 젖었을 뿐이야. 어제부터.
+## Im Schulhof | 학교 운동장
+Lea: Kinder, alle hierher! Zweite Reihe, bitte. Lin, du gehst vorne. Mit der großen Laterne. Du bist die Klassensprecherin. || 얘들아, 모두 이쪽으로! 두 번째 줄로 서 줘. 린, 너는 앞에 서. 큰 등불 들고. 네가 반장이잖아.
+Lin: Und Can geht neben mir. Er ist der Stellvertreter. || 그리고 잔은 제 옆에 서요. 부반장이니까요.
+Can: Ich habe einen Fuchs. Mit einem Schwanz. Mein Dede hat ihn geklebt. Er steht da hinten. Er singt nicht. Hat er gesagt. || 저는 여우예요. 꼬리 달린 거요. 우리 데데가 붙여 줬어요. 저기 뒤에 서 계세요. 노래는 안 부르신대요. 그러셨어요.
+Lea: Bevor wir losgehen, erzähle ich euch die Geschichte. Für die, die sie noch nicht kennen. Es sind fünf Kinder aus der Ukraine dabei, und zwei aus Syrien. Und einer aus Bayern. || 출발하기 전에 이야기를 들려줄게. 아직 모르는 친구들을 위해서. 우크라이나에서 온 친구가 다섯 명, 시리아에서 온 친구가 두 명 있잖아. 그리고 바이에른에서 온 친구 한 명도.
+Paul: Der aus Bayern bin ich. Nein. Jannik. Jannik ist der aus Bayern. Ich bin aus Cottbus. || 바이에른에서 온 건 저예요. 아니다. 야니크요. 야니크가 바이에른 출신이죠. 저는 코트부스 출신이고요.
+Lea: Danke, Paul. Also. Es war einmal ein Soldat. Er hieß Martin. Vor sehr langer Zeit. Vor über sechzehnhundert Jahren. Es war Winter. Es war bitterkalt. Martin ritt auf seinem Pferd zum Stadttor. || 고마워, 파울. 자. 옛날 옛적에 한 군인이 있었어. 이름은 마르틴이었지. 아주 오래전에. 천육백 년도 더 전에. 겨울이었어. 살을 에는 듯이 추웠지. 마르틴은 말을 타고 성문으로 갔어.
+Lin: Und vor dem Tor saß ein Bettler. Ohne Mantel. Im Schnee. Das weiß ich aus dem Kindergarten. || 그리고 성문 앞에 거지가 앉아 있었어요. 외투도 없이. 눈 속에서요. 유치원에서 배워서 알아요.
+Lea: Genau. Alle sind an ihm vorbeigegangen. Niemand hat ihm geholfen. Aber Martin hat angehalten. Er hatte kein Geld dabei. Nur seinen Mantel. Einen großen, roten Mantel. Und was hat er gemacht? || 맞아. 다들 그 사람을 지나쳤어. 아무도 돕지 않았지. 하지만 마르틴은 멈춰 섰어. 돈은 갖고 있지 않았어. 외투뿐이었지. 크고 빨간 외투. 그래서 어떻게 했을까?
+Can: Er hat ihn mit dem Schwert in zwei Hälften geschnitten. Eine Hälfte für sich. Eine für den Bettler. Ein halber Mantel für jeden. Ein Halb. Eins geteilt durch zwei. || 칼로 외투를 반으로 잘랐어요. 반은 자기가 갖고. 반은 거지한테 주고요. 한 사람당 외투 반쪽씩. 2분의 1. 1 나누기 2요.
+Lea: Ganz genau. Eins geteilt durch zwei. Frau Wagner ist stolz. Warum hat er ihm nicht den ganzen Mantel gegeben? || 정확해. 1 나누기 2. 바그너 선생님이 자랑스러워. 그런데 왜 외투를 통째로 주지 않았을까?
+Lin: Weil er dann selbst gefroren hätte. Dann hätte es wieder einen Bettler gegeben. Nur einen anderen. || 그러면 자기가 얼어 버렸을 테니까요. 그러면 다시 거지가 하나 생기는 거잖아요. 다른 사람일 뿐이고요.
+Paul: Die Kleine ist klug. || 저 꼬마 똑똑하네요.
+Derya: Die Kleine ist Klassensprecherin. Gegen meinen Sohn. Elf zu vierzehn. || 저 꼬마는 반장이에요. 우리 아들을 이기고요. 11 대 14로요.
+Lea: Und so ist es bei uns auch. Man muss nicht alles geben. Aber man darf teilen. So, dass es für beide reicht. Jetzt zünden wir die Laternen an. Elektrisch, bitte. Keine Kerzen. Hausordnung der Schule. || 우리도 마찬가지야. 다 줄 필요는 없어. 하지만 나눌 수는 있지. 둘 다 충분하도록. 이제 등불을 켜자. 전기로 켜는 거야. 촛불은 안 돼. 학교 규칙이야.
+Can: Mein Fuchs hat eine echte Kerze. Dede hat gesagt: Ein Fuchs mit Batterie ist kein Fuchs. || 제 여우엔 진짜 초가 들었어요. 데데가 그랬어요. 건전지 넣은 여우는 여우가 아니라고요.
+Lea: … Dann gehst du ganz vorsichtig, Can. Und neben dir geht dein Großvater. Mit einer Wasserflasche. Herr Yıldız? || …그럼 아주 조심해서 걸어야 해, 잔. 그리고 네 옆엔 할아버지가 걸으시는 거야. 물병 들고. 이을드즈 씨?
+Hüseyin: Ich habe immer eine Wasserflasche dabei, Frau Wagner. Seit neunzehnhundertdreiundneunzig. || 저는 늘 물병을 갖고 다녀요, 바그너 선생님. 1993년부터요.
+Paul: Seit neunzehnhundertdreiundneunzig? Warum gerade seit da? || 1993년부터요? 왜 하필 그때부터요?
+Derya: Später, Paul. Nicht vor den Kindern. Ich erzähle es dir beim Punsch. || 나중에요, 파울. 애들 앞에선 말고요. 펀치 마시면서 얘기해 줄게요.
+Lea: Gut. Dann los. Alle zusammen. Erste Strophe! || 좋아요. 그럼 출발. 다 같이. 1절!
+## Am Kanal | 운하를 따라
+Lin: „Ich geh mit meiner Laterne und meine Laterne mit mir." || „나는 내 등불이랑 가고, 내 등불은 나랑 가요."
+Can: „Dort oben leuchten die Sterne, und unten leuchten wir." || „저 위엔 별들이 빛나고, 아래엔 우리가 빛나요."
+Edith: Da kommen sie! Kalle, guck! Da vorne. Der Fuchs! Das ist Can! || 저기 온다! 칼레, 봐! 저 앞에. 여우! 잔이야!
+Kalle: Ick sehe ihn. Und daneben Hüseyin. Mit einer Wasserflasche. Und Jana mit der alten Sonne. Die Sonne von Monika. || 보인다. 그리고 그 옆에 휘세인. 물병 들고. 그리고 야나가 그 옛날 해 등불을 들고 있어. 모니카가 간직한 해.
+Edith: Ich bin seit zwanzig Jahren nicht mehr mitgegangen. Und heute darf ich nicht. Wegen dem Herz. Aber von hier sieht man alles. Vom Stuhl vor der Kneipe. || 이십 년째 같이 걸어 본 적이 없네. 그리고 오늘은 걸으면 안 되고. 심장 때문에. 그래도 여기서 다 보여. 크나이페 앞 의자에서.
+Can: Edith! Edith! Rabimmel, rabammel, rabumm! || 에디트 할머니! 에디트 할머니! 라빔멜, 라밤멜, 라붐!
+Edith: Rabimmel, rabammel, rabumm! Pass auf deinen Fuchs auf, Can! Er wackelt! || 라빔멜, 라밤멜, 라붐! 여우 조심해, 잔! 흔들린다!
+Can: Oh nein. Die Kerze. Der Schwanz brennt! Dede! Der Schwanz brennt! || 아, 안 돼. 초가. 꼬리에 불이 붙었어요! 데데! 꼬리가 타요!
+Hüseyin: Wasser! So. Aus. Siehst du. Neunzehnhundertdreiundneunzig hat sich gelohnt. || 물! 됐다. 꺼졌어. 봤지. 1993년이 보람이 있구나.
+Can: Mein Fuchs … er hat keinen Schwanz mehr. Und kein Licht. Er ist nur noch ein nasser Hund. || 제 여우가… 이제 꼬리가 없어요. 그리고 불도 없어요. 이제 그냥 젖은 개예요.
+Lin: Can. Komm. Halt meine Laterne mit. Hier. Wir tragen sie zusammen. Eine Laterne für zwei. || 잔. 이리 와. 내 등불 같이 들자. 여기. 둘이 같이 드는 거야. 등불 하나를 둘이서.
+Can: Aber das ist die Laterne der Klassensprecherin. Die große. || 그런데 그건 반장 등불이잖아. 큰 거.
+Lin: Sie ist groß genug für zwei. Eins geteilt durch zwei. Wie bei Martin. || 둘이 들기에 충분히 커. 1 나누기 2. 마르틴처럼.
+Can: … Danke, Lin. Das vergesse ich dir nie. || …고마워, 린. 이거 평생 안 잊을게.
+Kalle: Hast du das gesehen, Edith? Die Kleine. Die hat ihm gerade die halbe Laterne gegeben. || 봤어, 에디트? 저 꼬마. 방금 등불 반쪽을 걔한테 줬어.
+Edith: Ich habe es gesehen. Wenn sie groß ist, wählen wir sie. Für irgendwas. Für alles. || 봤어. 저 애가 크면 우리가 뽑아 주자. 뭐가 됐든. 전부 다.
+Jana: Papa. Ich weiß jetzt die Antwort. Auf die Frage. Mit der Laterne kann man wirklich besser denken. || 아빠. 이제 답을 알 것 같아요. 그 질문에 대한 답이요. 등불 들면 정말 생각이 더 잘 나네요.
+Kalle: Und? || 그래서?
+Jana: Ich sage es dir am Freitag. Nach dem Gespräch. Erst die Steine, dann die Freude. Oder so ähnlich. || 금요일에 말할게요. 면담 끝나고요. 먼저 돌, 그다음에 기쁨. 뭐 그런 비슷한 거요.
+## Kinderpunsch | 어린이 펀치
+Derya: Can, zieh die Jacke aus. Sie ist nass. Und sie riecht nach verbranntem Fuchs. || 잔, 외투 벗어. 젖었잖아. 그리고 탄 여우 냄새가 나.
+Can: Ich habe eine halbe Laterne getragen. Den ganzen Weg. Mit Lin. Sie hat gesagt: Nächstes Jahr bastelt sie mir einen Fuchs. Mit Batterie. || 등불 반쪽을 들고 왔어요. 끝까지요. 린이랑요. 린이 그랬어요. 내년엔 저한테 여우를 만들어 준대요. 건전지로요.
+Hüseyin: Mit Batterie! Das ist kein Fuchs. Das ist ein Kompromiss. || 건전지로! 그건 여우가 아니야. 그건 타협이지.
+Edith: Hüseyin, setzen Sie sich zu mir. Neben den Ofen. Sie haben heute ein Feuer gelöscht. Das muss gefeiert werden. Kalle, einen Punsch für den Feuerwehrmann. || 휘세인 씨, 내 옆에 앉으세요. 난로 옆에. 오늘 불을 끄셨잖아요. 축하해야죠. 칼레, 소방관한테 펀치 한 잔.
+Kalle: Kinderpunsch. Ohne Alkohol. Für den Herrn mit der Wasserflasche. || 어린이 펀치. 알코올 없이. 물병 든 신사분께.
+Hüseyin: Danke, Herr Kowalski. Frau Krüger, Can hat mir heute eine Frage gestellt. Über den neunten November. Ich habe ihm die Wahrheit gesagt. Das Schöne und das andere. War das richtig? || 고맙습니다, 코발스키 씨. 크뤼거 부인, 오늘 잔이 저한테 질문을 하나 했어요. 11월 9일에 대해서요. 사실대로 말해 줬어요. 좋은 것도, 다른 것도요. 그게 맞았을까요?
+Edith: Das war genau richtig. Wer nur das Schöne erzählt, erzählt die halbe Geschichte. Wie ein halber Mantel. Der wärmt auch nur halb. || 딱 맞았어요. 좋은 것만 얘기하는 사람은 이야기의 반만 하는 거예요. 반쪽 외투처럼요. 그것도 반만 따뜻하게 해 주죠.
+Hüseyin: Neunundvierzig Jahre bin ich in diesem Land. Und Sie sind die erste Deutsche, die mich nach neunzehnhundertdreiundneunzig fragt. Nein. Die Zweite. Der Erste war mein Enkel. || 이 나라에 온 지 사십구 년이에요. 그런데 1993년에 대해 저한테 물어본 독일 사람은 당신이 처음이에요. 아니다. 두 번째네요. 첫 번째는 제 손자예요.
+Can: Ich bin Deutscher! Und Türke! Beides! || 저 독일 사람이에요! 그리고 튀르키예 사람이에요! 둘 다요!
+Hüseyin: Beides. Wie dein Dede bald. Ich habe den Antrag ausgefüllt, Derya. Gestern Abend. Für die Einbürgerung. Bei Regen. Er liegt auf dem Küchentisch. || 둘 다. 네 데데도 곧 그렇게 될 거야. 신청서를 다 채웠다, 데르야. 어젯밤에. 귀화 신청서. 비 오는 동안. 부엌 식탁 위에 있어.
+Derya: Baba … wirklich? Nach neunundvierzig Jahren? || 아빠… 정말요? 사십구 년 만에요?
+Hüseyin: Ich will einmal wählen. Bevor ich siebzig bin. Und ich will in der Genossenschaft eine Stimme haben. Ach nein. Dafür braucht man keinen Pass. Das hat Jannik gesagt. || 한 번은 투표해 보고 싶어. 일흔 되기 전에. 그리고 협동조합에서도 한 표를 갖고 싶고. 아, 아니지. 거기엔 여권이 필요 없지. 야니크가 그러더라.
+Kalle: In der Genossenschaft hat jeder eine Stimme. Egal welcher Pass. Egal wie viel Geld. Ein Mensch, eine Stimme. Das ist schöner als jeder Bundestag. || 협동조합에서는 누구나 한 표야. 여권이 뭐든. 돈이 얼마든. 한 사람에 한 표. 어느 연방 의회보다 아름답지.
+Hüseyin: Dann wähle ich zuerst in der Genossenschaft. Und dann in Deutschland. In dieser Reihenfolge. || 그럼 먼저 협동조합에서 투표하고. 그다음에 독일에서. 이 순서대로요.
+Edith: Erst das Haus. Dann das Land. Das ist eine gute Reihenfolge. Auf den Feuerwehrmann. || 먼저 집. 그다음에 나라. 좋은 순서네요. 소방관을 위하여.
+Can: Und auf Lin. Die mir eine halbe Laterne gegeben hat. || 그리고 린을 위하여. 저한테 등불 반쪽을 준 린이요.
+Derya: Und auf den nassen Hund. Ohne Schwanz. || 그리고 꼬리 없는 젖은 개를 위하여.
+Can: Mama! Er war ein Fuchs! Bis zum Schluss! || 엄마! 걔는 여우였어요! 끝까지요!
+Hüseyin: Ein Fuchs. Bis zum Schluss. Und nächstes Jahr ein Fuchs mit Kompromiss. || 여우지. 끝까지. 그리고 내년엔 타협한 여우고.
