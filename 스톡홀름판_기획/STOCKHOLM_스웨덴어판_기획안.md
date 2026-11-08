@@ -322,6 +322,7 @@ Lundgren 사장과의 협상이 ‘synergier’, ‘skalbart’, ‘sprint’로
 
 ## 9. 2부 이후 방향
 
+- 2~5부 상세 설계는 별도 문서 «STOCKHOLM_2-5부_기획안» 참고 (5부 60화 완결).
 - 2부 «Fredag med berättelser» — 금요일마다 한 사람씩 과거를 이야기하는 구조. 1부 사건의 실마리(Ek & Wahlgren, Saltsjöbanken, Ingrid의 정체, Daniel의 Rinkeby 시절)를 순서대로 푼다.
 - 계절 장치: 11월의 어둠 → 12월 13일 루시아(Lucia) → 1월 ‘가장 어두운 달’. 계절감이 인물의 고백 분위기를 받친다.
 - 난이도를 B1+로 올리며 과거형·간접화법(att-절, sa att…)을 본격적으로 다룬다.
