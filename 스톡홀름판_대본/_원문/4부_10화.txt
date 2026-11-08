@@ -1,0 +1,271 @@
+PART: 4
+EP: 10
+TITLE: Faderns vittnesmål
+SUBTITLE: 아버지의 증언 · 재판 10, 스톡홀름 지방법원 1호 법정
+META: 대사 120턴 · 난이도 B2 · 배경: 8월 둘째 주 화요일, 재판 재개 이틀째, 스톡홀름 지방법원
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (방청)
+CAST: MAJA | 공인회계사
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: REZA | 레일라의 남편 (가상)
+CAST: GUSTAF | Johan의 아버지 · 피고인 (가상)
+CAST: LOVISA | 경제범죄청 검사 (가상)
+CAST: CLAES | Rehnberg의 변호인 (가상)
+CAST: ANNIKA | 지방법원 판사 · 재판장 (가상)
+CAST: GÖRAN | 시민 배심 판사 · 퇴직 교사 (가상)
+CAST: REHNBERG | Nordhem 전 사장 · 피고인 (가상)
+NOTE: ※ 스웨덴 형사 재판에서 피고인(den tilltalade)은 증인과 달리 진실 서약을 하지 않습니다. 자기에게 불리한 말을 하지 않을 권리가 있기 때문입니다. 그래서 피고인의 진술은 다른 증거와 얼마나 맞는지로 신빙성을 판단합니다. 공판이 재개된 8월, Gustaf Ek가 처음으로 입을 엽니다. 이 화의 문법 초점은 과거의 반사실 조건문입니다: «Om jag hade sagt nej, hade tolv familjer kunnat bo kvar.»(내가 거절했다면, 열두 가족이 계속 살 수 있었을 것이다.) 표현 초점: medge, förneka, ansvar, skulle ha, hade kunnat.
+
+# 도입 — ÅTTA VECKOR SENARE
+ELSA: Åtta veckor. Och salen är ännu fullare än i juni.
+= 8주. 그리고 법정이 6월보다 더 꽉 찼어요.
+ANTON: Det har stått i alla tidningar att Gustaf Ek ska tala i dag. ”Advokaten som bröt tystnaden.”
+= 오늘 구스타프 엑이 진술한다고 모든 신문에 났어. ‘침묵을 깬 변호사.’
+JOHAN: Han har inte brutit något än.
+= 아직 아무것도 안 깨셨어.
+MAJA: Hur mår du?
+= 기분 어때?
+JOHAN: Jag har inte sovit. Jag har läst mina anteckningar från Roslagen tio gånger.
+= 못 잤어. 로슬라겐에서 쓴 메모를 열 번 읽었어.
+INGRID: Har du pratat med honom? Sedan Valborg?
+= 그분이랑 얘기했어요? 발보리 이후로?
+JOHAN: Nej. Jag får inte. Han är tilltalad. Jag är… inte hans advokat. Inte hans vittne. Bara hans son.
+= 아니요. 하면 안 돼요. 아버지는 피고인이에요. 전… 변호사도 아니고. 증인도 아니고. 그냥 아들이에요.
+REZA: Jag kom för mammas skull. Om han säger något om 2007, vill jag höra det själv.
+= 어머니 때문에 왔어요. 2007년에 대해 뭐라도 말씀하시면, 직접 듣고 싶어요.
+BIGGAN: Jag har bakat kardemummabullar. För Shirin. Men jag får inte ta in dem.
+= 카다몸 번을 구웠어. 쉬린을 위해. 근데 가지고 들어가면 안 되지.
+OXENSTIERNA: En far som ska tala inför sin son. Det har jag gjort. I mitt testamente.
+= 아들 앞에서 말하는 아버지라. 나도 해 봤네. 유언장으로.
+ELSA: Vad skrev ni?
+= 뭐라고 쓰셨어요?
+OXENSTIERNA: Att han skulle lyssna mer än han talade. Han gjorde tvärtom. Hela livet.
+= 말하기보다 더 많이 들으라고. 그 애는 평생 반대로 했지.
+BIGGAN: Det gör söner alltid. Det är därför man skriver testamenten.
+= 아들들은 늘 그렇지. 그래서 유언장을 쓰는 거고.
+ANNIKA: Rätten återupptar förhandlingen. Förhör med den tilltalade Gustaf Ek. Åklagaren, varsågod.
+= 재판부는 공판을 재개합니다. 피고인 구스타프 엑에 대한 신문. 검사, 시작하세요.
+ELSA: Varför läser han inte sanningsförsäkran? Som Ingrid?
+= 왜 진실 서약을 안 읽으세요? 잉리드처럼?
+JOHAN: Tilltalade gör inte det. De har rätt att inte säga något som skadar dem själva.
+= 피고인은 안 해. 자기한테 불리한 말을 하지 않을 권리가 있으니까.
+ELSA: Så han får ljuga?
+= 그럼 거짓말해도 돼요?
+JOHAN: Han kan inte straffas för mened. Men om han ljuger och det visar sig, tror ingen på honom längre.
+= 위증죄로 처벌받진 않아. 하지만 거짓말하다 들통나면 아무도 아버지를 믿지 않게 되지.
+ANTON: Han tittar hitåt. På dig.
+= 이쪽을 보셔. 너를.
+JOHAN: Jag ser det.
+= 보여.
+MAJA: Titta tillbaka. Som Gunnel med Rehnberg.
+= 마주 봐. 군넬이 렌베리 볼 때처럼.
+JOHAN: Jag tittar.
+= 보고 있어.
+
+# 장면 1 — GUSTAF TALAR
+LOVISA: Gustaf Ek. Ni har varit advokat i fyrtiofem år. Berätta om er relation till Nordhem.
+= 구스타프 엑. 45년 동안 변호사였습니다. 노르드헴과의 관계에 대해 말씀해 주세요.
+GUSTAF: Den började 2006. Med Nordhem Bostad. Ett litet bolag som köpte lägenheter vid ombildningar på Söder.
+= 2006년에 시작됐습니다. 노르드헴 보스타드와. 쇠데르의 전환 과정에서 아파트를 사들이던 작은 회사였죠.
+LOVISA: Och Katarina 4:12? Mars 2007?
+= 그리고 카타리나 4:12는요? 2007년 3월?
+GUSTAF: Jag skrev överenskommelserna. Tolv hyresgäster skulle avstå från besittningsskydd mot tjugotusen kronor var.
+= 제가 합의서를 썼습니다. 세입자 열두 명이 각각 2만 크로나를 받고 거주권을 포기하는 내용이었죠.
+REZA: …
+= ……
+LOVISA: Visste ni att avståendena krävde hyresnämndens godkännande?
+= 그 포기에 임대심판위원회 승인이 필요하다는 걸 알고 계셨습니까?
+GUSTAF: Ja.
+= 네.
+LOVISA: Ni visste. Och gjorde det ändå.
+= 알고 계셨다. 그리고 그래도 하셨다.
+GUSTAF: Ja. Jag gjorde det ändå.
+= 네. 그래도 했습니다.
+ELSA: Han sa ja.
+= 네라고 하셨어요.
+JOHAN: Han sa ja. I mars sa han ”det var lagligt då”.
+= 네라고 하셨어. 3월엔 ‘그땐 합법이었다’고 하셨는데.
+LOVISA: Varför ansökte ni inte?
+= 왜 신청하지 않으셨습니까?
+GUSTAF: För att hyresnämnden kanske hade sagt nej. Och för att det var billigare att låta bli. Ingen av hyresgästerna kände till kravet. Det skrev vi till och med i ett internt PM.
+= 임대심판위원회가 거절했을 수도 있으니까요. 그리고 안 하는 게 더 쌌으니까요. 세입자들은 아무도 그 요건을 몰랐습니다. 그걸 내부 메모에 쓰기까지 했죠.
+REZA: Mamma…
+= 어머니…
+LOVISA: Och ”alla i huset gör det”? En hyresgäst har skrivit att ni sa så.
+= 그리고 ‘건물 사람들 다 한다’는요? 한 세입자가 당신이 그렇게 말했다고 썼습니다.
+GUSTAF: Jag sa det till alla tolv. Ett i taget. Det var inte sant när jag sa det till den första.
+= 열두 명 모두에게 그렇게 말했습니다. 한 명씩. 첫 번째 사람한테 말할 땐 사실이 아니었죠.
+OXENSTIERNA: Han erkänner.
+= 인정하는군.
+INGRID: Han erkänner 2007. Det är preskriberat. Det kostar honom ingenting.
+= 2007년 일을 인정하는 거예요. 시효가 지났잖아요. 아무 대가도 안 치르죠.
+MAJA: Men det kostar honom något. Titta på hans händer.
+= 근데 대가를 치르고 있어. 손을 봐.
+ELSA: De skakar.
+= 떨려요.
+JOHAN: Det har jag aldrig sett. Inte ens när mamma var sjuk.
+= 그런 건 처음 봐. 엄마가 아프셨을 때도 안 그러셨는데.
+LOVISA: Om ni hade ansökt hos hyresnämnden 2007, vad hade hänt då?
+= 2007년에 임대심판위원회에 신청했다면, 어떻게 됐을까요?
+GUSTAF: Om jag hade ansökt, hade nämnden förmodligen sagt nej. Och då hade tolv familjer kunnat bo kvar.
+= 신청했다면, 위원회는 아마 거절했을 겁니다. 그리고 그럼 열두 가족이 계속 살 수 있었겠죠.
+ELSA: ”Hade kunnat bo kvar.” Pluskvamperfekt. Det sorgligaste tempus som finns.
+= ‘계속 살 수 있었을 것이다.’ 과거완료. 세상에서 제일 슬픈 시제예요.
+REZA: Han säger det. I en domstol. Att mamma hade kunnat bo kvar.
+= 저분이 말하네요. 법정에서. 어머니가 계속 사실 수 있었다고.
+BIGGAN: Hon hör det, Reza. Jag är säker.
+= 듣고 있을 거야, 레자. 난 확신해.
+
+# 장면 2 — NAMNET
+LOVISA: Låt oss gå till 2015. Norrhem Holding. Lånet från Saltsjöbanken. Vem stod bakom bolagen på Cypern?
+= 2015년으로 가 봅시다. 노르헴 홀딩. 살트셰은행의 대출. 키프로스 회사들 뒤엔 누가 있었습니까?
+GUSTAF: Formellt tre förvaltningsbolag i Limassol. I verkligheten en man.
+= 형식상으로는 리마솔의 관리 회사 세 곳. 실제로는 한 남자였죠.
+LOVISA: Har han ett namn?
+= 그 사람 이름이 있습니까?
+GUSTAF: Han kallade sig Anatol Brenner. Jag vet inte om det är hans riktiga namn. Jag träffade honom två gånger. En gång i Monaco. En gång på mitt kontor på Strandvägen.
+= 아나톨 브레너라고 자칭했습니다. 그게 진짜 이름인지는 모릅니다. 두 번 만났습니다. 한 번은 모나코에서. 한 번은 스트란드베겐의 제 사무실에서.
+ANTON: Anatol Brenner. Det namnet finns inte i Ingrids kartong. Inte hos Bolagsverket.
+= 아나톨 브레너. 그 이름은 잉리드 상자에도 없어. 회사등기소에도.
+MAJA: För att han inte finns på papper. Han finns bara i rum.
+= 서류엔 없는 사람이니까. 방 안에만 있는 거지.
+CLAES: Invändning. Det här ligger utanför åtalet mot min klient.
+= 이의 있습니다. 이건 제 의뢰인에 대한 공소 범위를 벗어납니다.
+ANNIKA: Invändningen lämnas utan bifall. Uppgiften är relevant för pengarnas ursprung. Fortsätt.
+= 이의는 기각합니다. 그 진술은 자금의 출처와 관련이 있습니다. 계속하세요.
+ELSA: ”Lämnas utan bifall.” Betyder det nej?
+= ‘기각합니다.’ 안 된다는 뜻이에요?
+JOHAN: Det betyder nej. På domstolsspråk.
+= 안 된다는 뜻이야. 법원 말로.
+LOVISA: Vad var er roll för herr Brenner?
+= 브레너 씨를 위해 당신은 어떤 역할을 했습니까?
+GUSTAF: Att göra det lagligt. Eller att få det att se lagligt ut. Jag skrev yttranden om att koncerninterna lån var tillåtna. Om att Lundgrens fakturor var ”sedvanliga”. Om att ingen svensk lag krävde mer.
+= 그걸 합법으로 만드는 것. 아니면 합법처럼 보이게 하는 것. 그룹 내부 대출이 허용된다는 의견서를 썼습니다. 룬드그렌의 청구서가 ‘관례적’이라는. 스웨덴 법이 그 이상을 요구하지 않는다는.
+INGRID: Jag läste de yttrandena. I sju år.
+= 그 의견서들을 읽었어요. 7년 동안.
+GUSTAF: Och fru Falk. Hon som sitter på tredje raden. Hon skrev rapporter som visade att jag hade fel. Jag läste dem också. Banken skickade dem till mig. För att jag skulle skriva ett svar.
+= 그리고 팔크 씨. 세 번째 줄에 앉아 있는 분. 그분은 제가 틀렸다는 걸 보여 주는 보고서를 썼습니다. 저도 그걸 읽었습니다. 은행이 저한테 보냈거든요. 반박문을 쓰라고.
+INGRID: …Han har läst mina rapporter.
+= …내 보고서를 읽으셨대요.
+GUSTAF: Och jag skrev svaret. Att hennes oro var ”ogrundad”. Det var den inte. Det visste jag.
+= 그리고 전 반박문을 썼습니다. 그분의 우려가 ‘근거 없다’고. 근거가 있었죠. 전 그걸 알았습니다.
+ELSA: Han säger det. Till henne. I en domstol.
+= 말씀하셨어요. 그분한테. 법정에서.
+INGRID: Sju år. Och han visste.
+= 7년. 그리고 그분은 알고 있었네요.
+MAJA: Ingrid…
+= 잉리드…
+LOVISA: En sista fråga för nu. Februari 2027. Lundgrens barn. Vad vet ni om det?
+= 지금으로선 마지막 질문입니다. 2027년 2월. 룬드그렌의 아이들. 그것에 대해 뭘 아십니까?
+GUSTAF: Rehnberg ringde från mitt kontor. Han trodde att jag hade gått. Jag stod i dörren. Han sa: ”Säg till honom att vi vet var barnen går i skolan.”
+= 렌베리가 제 사무실에서 전화했습니다. 제가 나간 줄 알았던 거죠. 전 문 앞에 서 있었습니다. 그가 말했습니다: ‘애들이 어느 학교 다니는지 안다고 전해.’
+REHNBERG: Det är lögn!
+= 거짓말이야!
+ANNIKA: Den tilltalade Rehnberg får vänta på sin tur. Tystnad i salen.
+= 피고인 렌베리는 차례를 기다리세요. 법정 내 정숙.
+ANTON: Det är första gången han säger något sedan ”jag förnekar brott”.
+= ‘범죄를 부인합니다’ 이후로 처음 입을 열었네.
+OXENSTIERNA: Den som talar först förlorar.
+= 먼저 말하는 자가 진다.
+
+# 절정 — MOTFÖRHÖRET
+CLAES: Herr Ek. Ni har varit min klients rådgivare i tjugo år. Varför berättar ni allt detta nu?
+= 엑 씨. 당신은 20년 동안 제 의뢰인의 고문이었습니다. 왜 지금 이 모든 걸 말하는 겁니까?
+GUSTAF: För att jag är misstänkt. Och för att jag hoppas att rätten tar hänsyn till att jag har hjälpt till.
+= 제가 용의자니까요. 그리고 제가 협조했다는 사정을 재판부가 고려해 주길 바라니까요.
+CLAES: Så ni gör det för att få ett lägre straff.
+= 그럼 형을 낮추려고 이러는 거군요.
+GUSTAF: Ja. Delvis.
+= 네. 부분적으로는.
+CLAES: Delvis? Vad är den andra delen?
+= 부분적으로? 나머지 부분은 뭡니까?
+GUSTAF: Den andra delen är personlig.
+= 나머지 부분은 개인적인 겁니다.
+CLAES: Rätten behöver förstå era motiv. Vad är den personliga delen?
+= 재판부는 당신의 동기를 이해해야 합니다. 개인적인 부분이 뭡니까?
+GUSTAF: I juli fick jag ett brev. Från min son. En sida ur hans anteckningsbok. Han hade skrivit: ”I dag hoppade jag som en groda. Pappa var inte här. Det var både sorgligt och bra.”
+= 7월에 편지를 받았습니다. 제 아들한테서. 수첩에서 뜯은 한 장. 이렇게 썼더군요: ‘오늘 개구리처럼 뛰었다. 아버지는 여기 없었다. 슬프기도 하고 좋기도 했다.’
+JOHAN: …
+= ……
+ELSA: Johan. Du skickade den.
+= 요한. 보내셨네요.
+JOHAN: Ingrid sa att jag skulle göra det. Någon gång.
+= 잉리드가 언젠가 보내라고 했잖아.
+GUSTAF: Jag har aldrig hoppat som en groda. Jag förbjöd honom att göra det. I tjugo år. Och nu gjorde han det utan mig. Och det var bra.
+= 전 개구리처럼 뛰어 본 적이 없습니다. 아들한테도 못 하게 했죠. 20년 동안. 그리고 이제 아들은 저 없이 그걸 했습니다. 그리고 그게 좋았답니다.
+ANNIKA: Fortsätt, om ni vill.
+= 원하시면 계속하세요.
+GUSTAF: Den personliga delen är att jag vill att det ska finnas något kvar som min son kan vara… inte stolt över. Men inte skämmas för.
+= 개인적인 부분은, 제 아들이… 자랑스러워할 만한 게 아니라도. 부끄러워하지는 않을 무언가가 남았으면 하는 겁니다.
+CLAES: Inga fler frågor.
+= 더 질문 없습니다.
+BIGGAN: Brandt ger upp igen.
+= 브란트가 또 포기하네.
+ANNIKA: Har rätten några frågor? Nämndeman Lindqvist.
+= 재판부에서 질문 있습니까? 시민 배심 판사 린드크비스트.
+GÖRAN: Herr Ek. Jag var lärare i trettioåtta år. Jag frågade alltid mina elever samma sak när de hade gjort något fel. Får jag fråga er?
+= 엑 씨. 저는 38년 동안 교사였습니다. 학생들이 뭔가 잘못했을 때 늘 같은 걸 물었죠. 여쭤봐도 될까요?
+GUSTAF: Varsågod.
+= 하세요.
+GÖRAN: Vad skulle ni ha gjort annorlunda?
+= 무엇을 다르게 했어야 했을까요?
+GUSTAF: …Jag skulle ha läst fru Falks rapport 2017. Och skrivit att hon hade rätt. Då hade allt det här tagit slut för tio år sedan.
+= …2017년에 팔크 씨 보고서를 읽고, 그분이 옳다고 썼어야 했습니다. 그랬다면 이 모든 게 10년 전에 끝났을 겁니다.
+GÖRAN: Och 2007?
+= 그리고 2007년은요?
+GUSTAF: 2007 skulle jag ha ansökt hos hyresnämnden. Och 1998, när jag köpte tavlan på byrån, skulle jag ha köpt en mindre. Och åkt till Skansen med min son på midsommar i stället.
+= 2007년엔 임대심판위원회에 신청했어야 했습니다. 그리고 1998년, 사무소에 걸 그림을 샀을 때, 더 작은 걸 샀어야 했어요. 그리고 그 대신 하지에 아들이랑 스칸센에 갔어야 했고요.
+GÖRAN: Tack. Det var allt.
+= 감사합니다. 그게 다입니다.
+ELSA: Han skulle ha åkt till Skansen.
+= 스칸센에 가셨어야 했대요.
+JOHAN: Med mig.
+= 나랑.
+
+# 마무리 — EN ANTECKNING FRÅN JULI
+BIGGAN: Paus. Korridoren. Och kardemummabullar som jag inte fick ta in. Nu får jag.
+= 휴정. 복도. 그리고 못 가지고 들어갔던 카다몸 번. 이제 먹어도 돼.
+REZA: Biggan. Ge mig en. För mamma.
+= 비간. 하나 주세요. 어머니를 위해.
+BIGGAN: För Shirin.
+= 쉬린을 위해.
+INGRID: Han läste mina rapporter. Och skrev att jag hade fel. Fast han visste.
+= 그분이 내 보고서를 읽었대요. 그리고 내가 틀렸다고 썼대요. 알면서도.
+MAJA: Och nu har han sagt det högt. I en domstol. Med dig på tredje raden.
+= 그리고 이제 그걸 소리 내 말했잖아요. 법정에서. 당신이 세 번째 줄에 있는데.
+INGRID: Jag vet inte om jag ska hata honom eller tacka honom.
+= 그분을 미워해야 할지 고마워해야 할지 모르겠어요.
+OXENSTIERNA: Båda. Det är det man gör med fäder och fiender. Ibland är de samma person.
+= 둘 다. 아버지와 적에겐 그렇게 하는 거네. 가끔은 같은 사람이지.
+ELSA: Johan. Hur mår du?
+= 요한. 기분이 어때요?
+JOHAN: Jag skickade en sida ur anteckningsboken. Jag trodde att han skulle slänga den. Han läste den i en rättssal.
+= 수첩 한 장을 보냈어. 버리실 줄 알았는데. 법정에서 읽으셨어.
+ANTON: Det var den bästa meningen i hela rättegången. Och du skrev den.
+= 재판 전체에서 제일 좋은 문장이었어. 그리고 그걸 네가 썼지.
+JOHAN: Jag skrev den om en groda.
+= 개구리에 대해 쓴 건데.
+OXENSTIERNA: De största breven handlar om små saker.
+= 가장 큰 편지들은 작은 것에 관한 거지.
+GUSTAF: Johan.
+= 요한.
+ELSA: Han står i korridoren. Med sin advokat.
+= 복도에 서 계세요. 변호사랑.
+JOHAN: Jag får inte prata med honom. Om målet.
+= 아버지랑 얘기하면 안 돼. 사건에 대해선.
+GUSTAF: Inte om målet. Bara en sak. Nästa midsommar. Skansen. Om jag inte sitter någonstans.
+= 사건 얘기 말고. 딱 하나. 내년 하지. 스칸센. 내가 어디 갇혀 있지 않다면.
+JOHAN: …Om du inte sitter någonstans. Ja.
+= …어디 갇혀 계시지 않다면. 네.
+GUSTAF: Och du får lära mig. Grodorna.
+= 그리고 네가 가르쳐 줘. 개구리 춤.
+JOHAN: ”Ej öron, ej öron.” Det är inte svårt.
+= ‘귀도 없고, 귀도 없고.’ 어렵지 않아요.
+GUSTAF: För mig är det det svåraste jag har gjort.
+= 나한텐 그게 내가 해 본 것 중에 제일 어려운 일이다.
+ELSA: Då tränar vi i kaféet. Biggan har ett bra golv.
+= 그럼 카페에서 연습해요. 비간네 바닥이 좋거든요.
+NEXT: 4부 11화 — «Slutpläderingen»(최후 변론) — 검사와 변호인들의 최후 변론. 판결을 기다리는 밤, 각자 이 사건이 자기에게 무엇이었는지 이야기한다.
