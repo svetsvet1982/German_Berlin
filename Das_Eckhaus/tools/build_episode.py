@@ -61,6 +61,10 @@ def parse(path):
     bad = {l[0] for l in turns} - names
     if bad:
         sys.exit(f'{path}: 등장인물 목록에 없는 화자 {bad}')
+    for s_ in scenes:
+        for a, b in zip(s_['lines'], s_['lines'][1:]):
+            if a[0] == b[0]:
+                sys.exit(f'{path}: 같은 화자 연속 발화 → {a[0]}: {b[1][:40]}')
     if len(turns) != TURNS:
         sys.exit(f'{path}: 턴 수 {len(turns)} (필요 {TURNS})')
     for k in ('nr', 'part', 'title', 'ko', 'level', 'setting'):

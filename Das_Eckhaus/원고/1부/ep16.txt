@@ -1,0 +1,146 @@
+#nr: 16
+#part: 1부 Frühling (봄)
+#title: Die Bremsen gehen nicht
+#ko: 브레이크가 안 들어요 · 시운전 중의 접촉 사고
+#level: A2~B1
+#setting: 5월 23일 토요일 오전. 잔과 토비가 2화부터 고쳐 온 낡은 자전거에 마지막으로 브레이크를 단다. 토비가 전화를 받는 사이, 기다리지 못한 잔이 헬멧도 없이 운하 둑길로 나갔다가 브레이크가 듣지 않아 손님의 화물자전거와 부딪친다. 데르야는 병원 근무 중이다. 표현 초점: 부상·고장 어휘, 원인 설명(weil/denn/deshalb).
+#cast: Tobi | 토비 피셔 · 31세, 자전거 공방 주인
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Frau Weber | 카트린 베버 · 39세, 베저 거리에 사는 토비의 단골손님, 아이 둘의 엄마
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Derya | 데르야 이을드즈 · 40세, 병원 근무 중
+#read: weil 절은 동사가 맨 뒤: „…, weil der Bremszug locker WAR." 동사에서 문장을 끝맺는 느낌으로 내린다. denn 절은 보통 어순: „…, denn ich HATTE keine Zeit."
+#read: 아픔의 감탄: Au! Aua! Autsch! — 아이와 어른의 말투 차이. Es tut weh [ɛs tuːt veː].
+#read: Bremse [ˈbʁɛmzə], Bremszug, Bremsbelag — br 자음군과 ms 연결을 매끄럽게.
+#read: Ellbogen [ˈɛlboːɡən], Knie [kniː] — Knie의 k를 발음한다(묵음 아님).
+#note: 원인 말하기: weil(종속, 동사 끝) / denn(병렬, 보통 어순, 조금 문어적) / deshalb·darum(결과, 동사가 바로 뒤): „Die Bremse war locker. Deshalb bin ich gefallen."
+#note: 부상: sich das Knie aufschürfen(무릎이 까지다) / Es blutet.(피가 난다) / ein blauer Fleck(멍) / Mir ist schwindlig.(어지러워요) / Tut das weh? / Wo tut es weh? / der Verbandskasten(구급상자) / ein Pflaster(반창고).
+#note: 고장: Die Bremse geht nicht / funktioniert nicht. / Der Bremszug ist locker. / Die Kette ist abgesprungen. / Der Lenker ist verbogen.(핸들이 휘었다) / Das Licht ist kaputt.
+#note: Haftpflichtversicherung = 남에게 끼친 손해를 보상하는 배상책임보험. 독일에서는 대부분의 가정이 가입해 있고, 자전거 사고 때 가장 먼저 묻는 말이다: „Haben Sie eine Haftpflicht?"
+#note: 베를린 자전거 도로: 시 정부가 2023년부터 여러 자전거 도로 계획을 미루거나 다시 검토하면서 논쟁이 커졌다. 운하 둑길은 보행자·자전거·차가 뒤섞이는 대표적인 곳이다.
+## Die letzte Schraube | 마지막 나사
+Tobi: So, Can. Das Rad ist fast fertig. Nur noch die Bremsen. || 자, 잔. 자전거 거의 다 됐다. 이제 브레이크만 남았어.
+Can: Endlich! Seit acht Wochen reparieren wir dieses Rad. || 드디어! 이 자전거 고친 지 팔 주나 됐어요.
+Tobi: Gute Arbeit braucht Zeit. Guck mal. Das hier ist der Bremszug. || 좋은 일엔 시간이 걸리는 법이야. 봐 봐. 이게 브레이크 줄이야.
+Can: Der dünne Draht? || 저 가는 철사요?
+Tobi: Genau. Wenn du den Hebel ziehst, zieht der Draht die Bremse zusammen. Hier, die Bremsbeläge. Die drücken auf das Rad. || 맞아. 레버를 당기면 철사가 브레이크를 조여. 여기, 브레이크 패드. 이게 바퀴를 눌러.
+Can: Und dann hält das Rad an. || 그러면 자전거가 멈추고요.
+Tobi: Dann hält das Rad an. Die Beläge sind neu. Den Bremszug muss ich noch fest machen. Mit dieser Schraube. || 그러면 멈추지. 패드는 새 거야. 브레이크 줄은 아직 단단히 조여야 해. 이 나사로.
+Can: Kann ich das machen? || 제가 해도 돼요?
+Tobi: Später. Erst muss ich das richtig einstellen. Nicht zu fest, nicht zu locker. || 나중에. 먼저 제대로 조절해야 해. 너무 세지도 너무 느슨하지도 않게.
+Can: Wie lange dauert das? || 얼마나 걸려요?
+Tobi: Zehn Minuten. Oh … warte. Mein Handy. Ein Kunde. || 십 분. 아… 잠깐만. 전화다. 손님이야.
+Can: Jetzt? || 지금요?
+Tobi: Ich muss rangehen. Der Mann wartet seit Dienstag auf sein Rad. Zwei Minuten, Can. Fass nichts an! || 받아야 돼. 그분이 화요일부터 자전거를 기다리고 있거든. 이 분만, 잔. 아무것도 만지지 마!
+Can: Okay … || 네…
+Tobi: Hallo? Ja, Fischer hier. Ja, das Rad ist fertig. Nein, die Rechnung … Moment, ich gehe kurz raus. || 여보세요? 네, 피셔입니다. 네, 자전거 다 됐어요. 아니요, 청구서는… 잠깐만요, 잠시 밖으로 나갈게요.
+Can: Zwei Minuten. Ich warte. Ich warte … Die Bremse sieht doch gut aus. Der Hebel geht. Nur eine kleine Runde. Im Hof. Im Hof ist es zu eng. Nur bis zum Kanal. Und zurück. Tobi merkt es gar nicht. Wo ist mein Helm? … Egal. Nur eine Minute. || 이 분. 기다릴게요. 기다리는 중… 브레이크 괜찮아 보이는데. 레버도 움직이고. 딱 한 바퀴만. 안마당에서. 안마당은 너무 좁다. 운하까지만. 그리고 돌아오는 거야. 토비 아저씨는 눈치도 못 챌 거야. 헬멧 어디 있지? …몰라. 딱 일 분만.
+Tobi: … ja, das macht dann achtundsechzig Euro. Ja, bis heute Nachmittag. Tschüss! Can, wir können … Can? || …네, 그럼 68유로입니다. 네, 오늘 오후까지요. 안녕히 계세요! 잔, 이제 할 수… 잔?
+## Am Kanal | 운하에서
+Can: Wow! Das Rad fährt super! Schnell! || 와! 자전거 잘 나간다! 빠르다!
+Frau Weber: Vorsicht! Junge, pass auf! Langsamer! || 조심해! 얘, 조심해! 천천히!
+Can: Ich bremse! Ich bremse! Die Bremse geht nicht! || 브레이크 잡고 있어요! 잡고 있다고요! 브레이크가 안 들어요!
+Frau Weber: Links! Fahr nach links! || 왼쪽! 왼쪽으로 가!
+Can: Aaah! || 으아아!
+Frau Weber: Oh Gott! Bist du okay? Sag was! || 세상에! 괜찮니? 뭐라고 말 좀 해 봐!
+Can: Au … Mein Knie. Und mein Arm. || 아야… 무릎이요. 그리고 팔이요.
+Frau Weber: Bleib liegen. Beweg dich nicht. Tut dein Kopf weh? || 누워 있어. 움직이지 마. 머리 아프니?
+Can: Nein. Der Kopf nicht. Nur das Knie. Es blutet! || 아니요. 머리는 안 아파요. 무릎만요. 피 나요!
+Frau Weber: Lass mal sehen. Es ist aufgeschürft. Nicht so schlimm. Aber du hast keinen Helm! || 어디 보자. 까졌구나. 그렇게 심하진 않아. 근데 너 헬멧도 안 썼잖아!
+Can: Ich wollte nur eine Minute fahren. || 일 분만 타려고 했어요.
+Frau Weber: Eine Minute reicht für einen Unfall. Wie heißt du? || 사고 나는 데는 일 분이면 충분해. 이름이 뭐니?
+Can: Can. Ich wohne da. Im Eckhaus. || 잔이요. 저기 살아요. 모퉁이 집에요.
+Frau Weber: Bei der Kneipe? Dann kennst du Tobi? || 크나이페 있는 집? 그럼 토비 알겠네?
+Can: Tobi hat das Rad repariert. Mit mir. || 토비 아저씨가 이 자전거 고쳤어요. 저랑 같이요.
+Frau Weber: Ach so. Und mein Lastenrad … Oh nein. Guck dir das an. || 그렇구나. 그런데 내 화물자전거가… 아이고. 이것 좀 봐.
+Can: Ist es kaputt? || 망가졌어요?
+Frau Weber: Der Kasten hat einen Riss. Und das Licht ist ab. Das Rad ist erst drei Monate alt. || 짐칸에 금이 갔어. 그리고 라이트가 떨어졌고. 이거 산 지 석 달밖에 안 됐는데.
+Tobi: Can! Can! Oh nein. Was ist passiert? || 잔! 잔! 아 안 돼. 무슨 일이야?
+Can: Die Bremsen gehen nicht, Tobi. || 브레이크가 안 들어요, 토비 아저씨.
+## Pflaster und Gründe | 반창고와 이유
+Frau Schulze: Ich habe alles gesehen. Vom Fenster aus. Hier ist der Verbandskasten. || 나 창문에서 다 봤어요. 여기 구급상자예요.
+Tobi: Frau Schulze! Danke. Sie sind ja schnell. || 슐체 부인! 고마워요. 빠르시네요.
+Frau Schulze: Ein Verbandskasten muss immer bereitstehen. Neben der Wohnungstür. Das ist meine Regel. || 구급상자는 항상 준비돼 있어야 해요. 현관문 옆에. 그게 내 규칙이에요.
+Frau Weber: Gibt es da ein Desinfektionsspray? || 거기 소독 스프레이 있어요?
+Frau Schulze: Natürlich. Und Pflaster in drei Größen. Can, das brennt jetzt ein bisschen. || 당연하죠. 반창고도 세 가지 크기로 있어요. 잔, 이거 조금 따가울 거야.
+Can: Aua! Das brennt! || 아야! 따가워요!
+Frau Schulze: Ich weiß. Aber es muss sein. Wo tut es noch weh? || 알아. 그래도 해야 돼. 또 어디가 아프니?
+Can: Am Ellbogen. Und an der Hand. || 팔꿈치요. 그리고 손이요.
+Frau Schulze: Der Ellbogen ist nur ein bisschen rot. Morgen hast du da einen blauen Fleck. || 팔꿈치는 조금 빨갛기만 하네. 내일이면 거기 멍이 들 거야.
+Tobi: Can, warum bist du gefahren? Ich habe doch gesagt: Fass nichts an! || 잔, 왜 탔어? 아무것도 만지지 말라고 했잖아!
+Can: Weil die Bremse gut aussah. Und weil du so lange telefoniert hast. || 브레이크가 괜찮아 보였으니까요. 그리고 아저씨가 통화를 너무 오래 해서요.
+Tobi: Es waren drei Minuten! || 삼 분이었어!
+Can: Für mich waren es zehn. || 저한텐 십 분 같았어요.
+Tobi: Lass mich das Rad sehen. Ja. Der Bremszug ist locker. Ganz locker. Deshalb hat die Bremse nicht funktioniert. || 자전거 좀 보자. 그렇네. 브레이크 줄이 느슨해. 완전히. 그래서 브레이크가 안 들었던 거야.
+Frau Weber: Der Bremszug war locker, weil Sie ihn nicht festgemacht haben? || 브레이크 줄을 안 조여서 느슨했다는 거예요?
+Tobi: Ja. Weil ich telefoniert habe. Das ist meine Schuld. Nicht nur seine. || 네. 제가 통화하느라고요. 제 잘못이에요. 얘 잘못만이 아니에요.
+Can: Und meine. Ich bin ohne Helm gefahren. Und ohne Erlaubnis. || 그리고 제 잘못도요. 헬멧도 없이 탔어요. 허락도 없이요.
+Frau Schulze: Zwei Schuldige. Das ist selten. Normalerweise ist es keiner. || 잘못한 사람이 둘이라. 드문 일이네요. 보통은 아무도 잘못 안 했다고 하는데.
+Frau Weber: Hauptsache, dem Kind ist nichts passiert. Wirklich. || 아이가 크게 안 다친 게 제일 중요해요. 정말로요.
+Tobi: Danke, Kathrin. Und Ihr Rad … ich schaue es mir sofort an. || 고마워요, 카트린. 그리고 자전거는… 바로 봐 드릴게요.
+## Ein Anruf ins Krankenhaus | 병원으로 건 전화
+Tobi: Can, wir müssen deine Mutter anrufen. || 잔, 너희 엄마한테 전화해야 해.
+Can: Muss das sein? Sie arbeitet doch. || 꼭 해야 돼요? 엄마 일하는 중인데.
+Tobi: Das muss sein. Hier. Ich wähle. || 해야 돼. 여기. 내가 걸게.
+Derya: Yıldız? Tobi, was ist los? Ich bin auf Station. || 이을드즈입니다. 토비, 무슨 일이에요? 나 병동이에요.
+Tobi: Derya, alles ist okay. Aber Can ist mit dem Rad gefallen. Am Kanal. || 데르야, 다 괜찮아요. 근데 잔이 자전거 타다 넘어졌어요. 운하에서요.
+Derya: Was? Ist er verletzt? Gib ihn mir! || 뭐라고요? 다쳤어요? 바꿔 줘요!
+Can: Mama, mir geht's gut. Nur das Knie. Und der Ellbogen. || 엄마, 나 괜찮아. 무릎만 그래. 그리고 팔꿈치.
+Derya: Hast du dir den Kopf gestoßen? Ehrlich, Can! || 머리 부딪쳤어? 솔직하게, 잔!
+Can: Nein. Der Kopf ist okay. Wirklich. || 아니. 머리는 괜찮아. 진짜야.
+Derya: Ist dir schwindlig? Ist dir schlecht? || 어지러워? 속이 안 좋아?
+Can: Nein. Mir ist nur peinlich. || 아니. 그냥 창피해.
+Derya: Peinlich ist nicht gefährlich. Hattest du deinen Helm auf? || 창피한 건 위험한 게 아니야. 헬멧은 썼어?
+Can: … Nein. || …아니.
+Derya: Can! Wir haben darüber hundertmal gesprochen! Ohne Helm fährst du nicht! Nie! || 잔! 우리 그 얘기 백 번은 했잖아! 헬멧 없이는 안 타! 절대로!
+Can: Ich weiß. Es tut mir leid, Mama. || 알아. 미안해, 엄마.
+Derya: Gib mir noch mal Tobi. || 토비 다시 바꿔 줘.
+Tobi: Derya, es ist auch meine Schuld. Der Bremszug war locker. Ich war am Telefon. || 데르야, 제 잘못도 있어요. 브레이크 줄이 느슨했어요. 제가 통화 중이었고요.
+Derya: Okay. Darüber reden wir später. Jetzt hör zu: Wunde sauber machen, Pflaster drauf. Wenn er Kopfschmerzen bekommt oder müde wird, sofort in die Notaufnahme. || 알았어요. 그건 나중에 얘기해요. 지금은 잘 들어요. 상처 깨끗이 하고, 반창고 붙이고. 머리가 아프다거나 졸려 하면 바로 응급실로 가요.
+Tobi: Verstanden. Frau Schulze hat schon alles gemacht. Mit Desinfektionsspray. || 알겠어요. 슐체 부인이 이미 다 해 주셨어요. 소독 스프레이까지요.
+Derya: Frau Schulze? Gott sei Dank. Dann ist er in den besten Händen. Ich komme um zwei. || 슐체 부인이요? 다행이다. 그럼 제일 믿을 만한 손에 있는 거네요. 두 시에 갈게요.
+## Wer bezahlt? | 누가 돈을 내지?
+Frau Weber: Tobi, und was machen wir mit meinem Rad? || 토비, 그럼 내 자전거는 어떻게 해요?
+Tobi: Der Kasten hat einen Riss. Das Licht ist ab. Und der Lenker ist ein bisschen verbogen. || 짐칸에 금이 갔고요. 라이트가 떨어졌고요. 핸들도 조금 휘었어요.
+Frau Weber: Und ich brauche es am Montag. Für die Kita. Zwei Kinder, zwei Kilometer. Jeden Tag. || 그리고 월요일에 꼭 필요해요. 어린이집 때문에요. 애 둘에 2킬로미터. 매일이요.
+Tobi: Ich repariere es. Heute noch. Kostenlos. Das Licht und den Lenker kann ich sofort machen. || 제가 고칠게요. 오늘 안에요. 무료로요. 라이트랑 핸들은 바로 할 수 있어요.
+Frau Weber: Und der Kasten? Der ist teuer. || 짐칸은요? 그건 비싼데.
+Tobi: Den Kasten muss ich bestellen. Vielleicht zahlt meine Haftpflichtversicherung. Ich rufe am Montag an. || 짐칸은 주문해야 해요. 어쩌면 제 배상책임보험에서 나올 거예요. 월요일에 전화해 볼게요.
+Frau Schulze: Oder die Haftpflicht von Frau Yıldız. Kinder sind meistens bei den Eltern mitversichert. || 아니면 이을드즈 씨 배상책임보험이요. 아이들은 대부분 부모 보험에 같이 들어 있어요.
+Tobi: Das klären wir. Kathrin, Sie bekommen alles bezahlt. Das verspreche ich. || 그건 우리가 정리할게요. 카트린, 다 보상받으실 거예요. 약속해요.
+Frau Weber: Okay. Ich vertraue Ihnen. Sie reparieren seit drei Jahren meine Räder. || 좋아요. 믿을게요. 삼 년째 내 자전거를 고쳐 줬잖아요.
+Frau Schulze: Aber ehrlich: Dieser Weg am Kanal ist gefährlich. Fußgänger, Räder, Autos, Touristen. Alles auf einem schmalen Weg. || 그런데 솔직히 이 운하 길은 위험해요. 보행자, 자전거, 차, 관광객. 전부 좁은 길 하나에.
+Frau Weber: Genau! Es gibt hier keinen richtigen Radweg. Seit Jahren redet die Stadt darüber. || 맞아요! 여긴 제대로 된 자전거 도로가 없어요. 시에서 몇 년째 말만 하고 있어요.
+Tobi: Der Plan war fertig. Dann kam die neue Regierung. Und jetzt wird wieder alles „geprüft". || 계획은 다 돼 있었어요. 그러다 새 시 정부가 들어섰고. 이제 다시 다 „검토 중"이에요.
+Frau Weber: Geprüft. Das heißt: Es passiert nichts. || 검토 중. 그건 아무 일도 안 일어난다는 뜻이죠.
+Frau Schulze: Ich fahre kein Rad. Aber auch für mich als Fußgängerin wäre ein Radweg besser. Weil die Räder dann nicht auf dem Gehweg fahren. || 나는 자전거를 안 타요. 그래도 보행자인 나한테도 자전거 도로가 있는 게 나아요. 그러면 자전거가 인도로 안 다닐 테니까요.
+Tobi: Frau Schulze, Sie sind für Radwege? Das hätte ich nicht gedacht. || 슐체 부인, 자전거 도로 찬성이세요? 그건 생각도 못 했네요.
+Frau Schulze: Ich bin für Ordnung, Herr Fischer. Ein Radweg ist Ordnung. || 나는 질서 찬성이에요, 피셔 씨. 자전거 도로가 곧 질서죠.
+Frau Weber: Dann schreiben wir zusammen an den Bezirk. Ich habe schon eine Liste mit Unterschriften. Für einen Radweg am Ufer. || 그럼 우리 같이 구청에 편지 써요. 나 이미 서명 명단도 있어요. 운하 둑 자전거 도로를 위한 거요.
+Frau Schulze: Geben Sie her. Ich unterschreibe. Mit Datum. || 줘 봐요. 서명할게요. 날짜까지 써서.
+## Der Helm | 헬멧
+Derya: Can! Mein Schatz! Lass dich ansehen. || 잔! 우리 아들! 어디 좀 보자.
+Can: Mama, es ist nur ein Pflaster. Zwei Pflaster. Drei. || 엄마, 그냥 반창고야. 반창고 두 개. 세 개.
+Derya: Kopf? Augen? Guck mal meinen Finger an. Links, rechts. Gut. Keine Kopfschmerzen? || 머리는? 눈은? 엄마 손가락 봐 봐. 왼쪽, 오른쪽. 좋아. 머리 안 아파?
+Can: Nein, Mama. Du bist jetzt Krankenschwester, nicht Mama. || 안 아파, 엄마. 엄마 지금 간호사 같아, 엄마 말고.
+Derya: Ich bin beides. Immer. || 엄마는 둘 다야. 언제나.
+Tobi: Derya, es tut mir wirklich leid. Ich hätte die Werkstatt zumachen sollen. Oder das Rad wegstellen. || 데르야, 정말 미안해요. 공방 문을 닫았어야 했는데. 아니면 자전거를 치워 두든지요.
+Derya: Ja, das hättest du. Aber Can hätte auch warten sollen. Und den Helm aufsetzen. || 그래요, 그랬어야죠. 그래도 잔도 기다렸어야 했어요. 그리고 헬멧도 썼어야 했고요.
+Can: Ich weiß. Ich habe es schon fünfmal gesagt. || 알아. 벌써 다섯 번이나 말했잖아.
+Derya: Dann sag es noch fünfmal. Damit du es nie vergisst. || 그럼 다섯 번 더 말해. 절대 안 잊게.
+Tobi: Darf ich einen Vorschlag machen? Der Bremszug ist jetzt fest. Ich habe ihn dreimal geprüft. Das Rad ist fertig. || 제안 하나 해도 될까요? 브레이크 줄 이제 단단히 조였어요. 세 번 확인했어요. 자전거 다 됐어요.
+Can: Darf ich fahren? Jetzt? Mit Helm? || 타도 돼요? 지금요? 헬멧 쓰고요?
+Derya: Heute nicht. Heute ruht sich dein Knie aus. || 오늘은 안 돼. 오늘은 무릎 쉬어야 해.
+Can: Und morgen? || 그럼 내일은?
+Derya: Morgen. Mit Helm. Im Hof. Und Tobi steht daneben. || 내일. 헬멧 쓰고. 안마당에서. 그리고 토비가 옆에 서 있고.
+Tobi: Und mein Handy bleibt in der Werkstatt. Versprochen. || 그리고 내 핸드폰은 공방에 두고 나올게요. 약속해요.
+Can: Mama, mein alter Helm ist zu klein. Er drückt. Deshalb habe ich ihn nicht gefunden. Also, nicht gesucht. || 엄마, 내 옛날 헬멧 너무 작아. 꽉 끼어. 그래서 못 찾았어. 그러니까, 안 찾았어.
+Derya: Dann kaufen wir einen neuen. Von deinem Flohmarkt-Geld. Die Hälfte für das Fahrrad, oder? Ein Helm gehört zum Fahrrad. || 그럼 새로 사자. 벼룩시장에서 번 돈으로. 절반은 자전거 몫이라며? 헬멧도 자전거에 포함이야.
+Can: Okay. Aber einen coolen. Mit Licht hinten. || 알았어. 대신 멋진 걸로. 뒤에 불 들어오는 거.
+Frau Schulze: Mit Licht hinten ist gut. Dann sieht man dich. Das ist auch Ordnung. || 뒤에 불 들어오는 거 좋다. 그러면 사람들이 너를 보잖아. 그것도 질서야.
+Can: Frau Schulze, kaufen Sie auch einen Helm? Für Krümel? || 슐체 아주머니, 아주머니도 헬멧 사실 거예요? 크뤼멜 거요?
+Frau Schulze: Krümel fährt kein Rad, Can. Krümel schläft. Das ist sicherer. || 크뤼멜은 자전거 안 타, 잔. 크뤼멜은 잠만 자. 그게 더 안전하지.
+Tobi: Und ich kaufe mir einen neuen Klingelton. Einen leisen. Damit ich bei der Arbeit nicht mehr rangehe. || 그리고 나는 새 벨 소리 살래. 조용한 걸로. 일할 때 다시는 전화 안 받게.
+Can: Mama, darf ich den Helm morgen selbst aussuchen? || 엄마, 내일 헬멧 내가 골라도 돼?
+Derya: Du suchst aus. Ich bezahle die Hälfte. Und Tobi prüft ihn. || 네가 골라. 엄마가 반은 내 줄게. 그리고 토비가 확인하고.
+Tobi: Den prüfe ich dreimal. Mit dem Handy in der Werkstatt. || 세 번 확인할게. 핸드폰은 공방에 두고.
