@@ -1,0 +1,273 @@
+PART: 3
+EP: 12
+TITLE: Gryningen
+SUBTITLE: 새벽 · 3부 훅, 편집국에서 Vårberg까지
+META: 대사 120턴 · 난이도 B2 · 배경: 4월 셋째 주 월요일 새벽 다섯 시부터 밤까지, 편집국·카페 Biggans·Vårberg 주민 회관
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: WÄGNER | 부활한 기자·작가 (1882–1949)
+CAST: CHYDENIUS | 부활한 목사·정치가 (1729–1803)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: FARID | 건설 노동자 · 23세 (가상)
+CAST: SANNA | 지역 신문 «Stockholms Kuriren» 프리랜서 기자 (가상)
+CAST: GUNNEL | Vårberg 세입자 모임 위원장 (가상)
+CAST: ROLF | 에스킬스투나의 연금 생활자 (가상, 전화)
+CAST: GUSTAF | Johan의 아버지 · Ek & Wahlgren 대표 변호사 (가상, 전화)
+NOTE: ※ 3부의 마지막 화입니다. 새벽 다섯 시에 기사가 공개되고, 하루 동안 일이 연달아 일어납니다. 경제범죄청(Ekobrottsmyndigheten)이 압수수색(husrannsakan)을 하고, 한 사람이 체포(gripen)됩니다. 스웨덴 언론은 유죄 판결 전에는 용의자의 이름을 잘 밝히지 않는 전통이 있습니다. 변호사 사무소도 압수수색을 받을 수 있지만, 변호사 비밀 유지와 관련된 서류에는 특별한 보호 절차가 있습니다. 4부 «Rättegången»(재판)은 이날 밤 걸려 온 한 통의 전화에서 시작합니다. 문법 초점: 뉴스 문체의 수동태(greps, misstänks, uppges)와 시간 표현. 표현 초점: husrannsakan, misstänkt, gripen, avgå, nyheter.
+
+# 도입 — KLOCKAN FEM
+SANNA: Klockan är fem. Den är ute. Artikeln är ute.
+= 다섯 시예요. 나갔어요. 기사가 나갔어요.
+ELSA: Får jag se? På riktigt?
+= 봐도 돼요? 진짜로?
+SANNA: Här. ”Pensionären som var trettioen bolag.” Med Rolfs bild. Han klippte sig.
+= 여기요. ‘서른한 개 회사였던 연금 생활자.’ 롤프 사진이랑. 머리 잘랐어요.
+DANIEL: Han ser bra ut. Barbro kommer att bli nöjd.
+= 멋지네. 바르브로가 좋아하겠어.
+BIGGAN: Ingen har sovit. Inte ens kaffeautomaten.
+= 아무도 안 잤어. 커피 자판기도.
+ANTON: Hur många har läst den?
+= 몇 명이나 읽었어?
+SANNA: Klockan fem och tre minuter? Fyrtio. De flesta är vi.
+= 다섯 시 삼 분에요? 마흔 명. 대부분 우리예요.
+WÄGNER: 1912 trycktes tidningen klockan fyra och såldes på gatan klockan sex. Man fick vänta två timmar på att se om folk köpte den.
+= 1912년엔 네 시에 신문을 찍어서 여섯 시에 거리에서 팔았어요. 사람들이 사는지 보려고 두 시간을 기다려야 했죠.
+SANNA: Nu får man vänta två minuter. Det är värre.
+= 지금은 2분을 기다려요. 그게 더 힘들어요.
+FARID: Mitt namn står där. ”Farid Ahmadi, 23, snickare.” Snickare. Inte ”ensamkommande”. Inte ”arbetskraftsinvandrare”. Snickare.
+= 제 이름이 있어요. ‘파리드 아흐마디, 23세, 목수.’ 목수. ‘보호자 없이 온 아이’도 아니고. ‘이주 노동자’도 아니고. 목수.
+SANNA: Det var det du var i den här historien.
+= 이 이야기에서 당신은 그거였으니까요.
+FARID: Ingen har kallat mig bara snickare förut.
+= 저를 그냥 목수라고 불러 준 사람은 처음이에요.
+MAJA: Klockan fem och tio. Tvåhundra läsare.
+= 다섯 시 십 분. 독자 이백 명.
+INGRID: Och klockan fem och tolv har den delats av någon på Ekot.
+= 그리고 다섯 시 십이 분에 에코트의 누군가가 공유했어요.
+ELSA: Ekot? Radion?
+= 에코트요? 라디오?
+JOHAN: Sveriges Radios nyheter. Om Ekot har den, har alla den om en timme.
+= 스웨덴 라디오 뉴스. 에코트가 다루면 한 시간 안에 다 알게 돼.
+CHYDENIUS: En nyhet som sprider sig snabbare än en präst kan gå från kyrkan till prästgården. Det är fantastiskt.
+= 목사가 교회에서 사제관까지 걷는 것보다 빨리 퍼지는 소식이라. 환상적이군.
+OXENSTIERNA: Det är skrämmande. På min tid tog en nyhet tre veckor till Westfalen.
+= 무섭지. 내 시절엔 소식이 베스트팔렌까지 가는 데 3주가 걸렸네.
+WICKSELL: Och då hann man fly. Det är skillnaden.
+= 그럼 도망칠 시간이 있었지. 그게 차이야.
+BIGGAN: Frukost. Alla. Nu. Ingen läser mer förrän ni har ätit.
+= 아침. 다들. 지금. 먹기 전엔 아무도 더 읽지 마.
+SANNA: Jag kan inte äta. Jag har tvåhundra mejl.
+= 못 먹어요. 메일이 이백 통이에요.
+BIGGAN: Regel åtta, Sanna.
+= 규칙 8번, 산나.
+SANNA: …Okej. En macka.
+= …알겠어요. 샌드위치 하나.
+
+# 장면 1 — NYHETERNA SPRIDS
+ANTON: Klockan sju. Ekot har det som tredje nyhet. ”Granskning: hyresintäkter i Vårberg kan ha använts för penningtvätt.”
+= 일곱 시. 에코트에서 세 번째 뉴스로 다뤘어. ‘탐사: 바르베리의 임대 수입이 돈세탁에 쓰였을 가능성.’
+ELSA: ”Kan ha använts.” Passiv form. Och ”kan”.
+= ‘쓰였을 가능성.’ 수동형. 그리고 ‘가능성’.
+SANNA: Det är rätt av dem. Det är inte bevisat än. Det är det domstolar är till för.
+= 그쪽이 맞게 쓴 거예요. 아직 증명된 게 아니니까. 그걸 위해 법원이 있는 거고요.
+MAJA: Klockan sju och tjugo. Tjugotusen läsare.
+= 일곱 시 이십 분. 독자 2만 명.
+JOHAN: Klockan sju och trettio. Ett sms från Henrik. ”Ring mig.” Jag ringer inte.
+= 일곱 시 삼십 분. 헨리크한테서 문자. ‘전화해.’ 안 할 거야.
+GUNNEL: Hej! Jag ringer från samlingslokalen! Folk har börjat komma hit. Klockan halv åtta på en måndag!
+= 여보세요! 주민 회관에서 전화해! 사람들이 오기 시작했어. 월요일 아침 일곱 시 반에!
+ELSA: Varför?
+= 왜요?
+GUNNEL: För att de läste om sig själva. ”Hyrorna i Vårberg betalade för väggar som aldrig byggdes.” Det är deras hyror.
+= 자기들 얘기를 읽었으니까. ‘바르베리의 월세가 지어지지도 않은 벽값을 냈다.’ 그게 자기들 월세잖아.
+ELSA: Deras hyror. Deras väggar.
+= 그분들 월세. 그분들 벽.
+GUNNEL: Kalevi har tagit med finsk kaffe. Fadumo har tagit med te. Linda har tagit med sina barn. Det är som midsommar. I april.
+= 칼레비는 핀란드 커피를 가져왔고. 파두모는 차를 가져왔고. 린다는 애들을 데려왔어. 하지 같아. 4월에.
+BIGGAN: Säg att jag kommer med bullar. Om en timme.
+= 한 시간 뒤에 번 들고 간다고 해.
+MAJA: Klockan åtta. Femtiotusen läsare.
+= 여덟 시. 독자 5만 명.
+ANTON: Och SVT har ringt Sanna.
+= 그리고 SVT가 산나한테 전화했어.
+SANNA: Och DN. Och Svenska Dagbladet. Och en tidning i Litauen.
+= 그리고 DN. 그리고 스벤스카 다그블라데트. 그리고 리투아니아의 신문 하나.
+ELSA: Litauen?
+= 리투아니아요?
+SANNA: Där pengarna tog vägen. De har sina egna frågor nu.
+= 돈이 간 곳이잖아요. 이제 거기도 자기들만의 질문이 생긴 거죠.
+WÄGNER: När jag skrev en artikel nådde den Uppsala. Kanske.
+= 내가 기사를 쓸 땐 웁살라까지 갔어요. 아마도.
+CHYDENIUS: Och min nådde Gamlakarleby. Två år senare.
+= 그리고 내 글은 감라카를레뷔까지 갔지. 2년 뒤에.
+ROLF: Hallå? Är det Daniel? Det är Rolf. Från Eskilstuna.
+= 여보세요? 다니엘이오? 롤프요. 에스킬스투나의.
+DANIEL: Rolf! Har du sett tidningen?
+= 롤프! 신문 봤어요?
+ROLF: Barbro ringde klockan sex. Hon sa: ”Rolf, du är i tidningen. Med ny frisyr.” Sen sa hon att hon är stolt över mig.
+= 바르브로가 여섯 시에 전화했소. ‘롤프, 당신 신문에 났어요. 새 머리로.’ 그러고는 내가 자랑스럽다고 했소.
+DANIEL: Stolt. Det är ett stort ord.
+= 자랑스럽다. 큰 말이네요.
+ROLF: Det är det största ord någon har sagt till mig sedan Margareta dog.
+= 마르가레타가 죽은 뒤로 누가 나한테 한 말 중에 제일 큰 말이오.
+ELSA: Rolf, är du rädd? För att ditt namn står där?
+= 롤프 씨, 무서우세요? 이름이 거기 있어서?
+ROLF: Nej. Mitt namn står bredvid något sant nu. Det var det jag ville.
+= 아니오. 이제 내 이름은 진실한 것 옆에 있소. 그게 내가 원한 거요.
+CHYDENIUS: Den mannen förstår tryckfrihet bättre än många riksdagsmän.
+= 저 사람은 웬만한 의원들보다 출판의 자유를 잘 이해하는군.
+
+# 장면 2 — HUSRANNSAKAN
+MAJA: Klockan nio och fyrtio. En notis från TT. ”Ekobrottsmyndigheten genomför husrannsakan hos ett fastighetsbolag i Stockholm.”
+= 아홉 시 사십 분. TT 통신 속보. ‘경제범죄청이 스톡홀름의 한 부동산 회사를 압수수색 중.’
+ELSA: Husrannsakan. Betyder det att de letar i huset?
+= 압수수색. 건물 안을 뒤진다는 뜻이에요?
+JOHAN: De letar i huset. Med tillstånd från en åklagare. De tar med sig datorer och papper.
+= 건물을 뒤지는 거지. 검사의 허가를 받아서. 컴퓨터랑 서류를 가져가.
+SANNA: Strandvägen. Bilder från en fotograf på plats. Sex bilar. Personer i blå västar.
+= 스트란드베겐. 현장 사진기자가 보낸 사진. 차 여섯 대. 파란 조끼 입은 사람들.
+ANTON: Strandvägen. Nordhems kontor.
+= 스트란드베겐. 노르드헴 사무실.
+JOHAN: Och… två hus bort. Ek & Wahlgren.
+= 그리고… 두 건물 건너. 엑 & 발그렌.
+ELSA: De gör husrannsakan hos din pappa?
+= 아버지 사무소도 압수수색을 해요?
+JOHAN: Det ser ut så. Hos en advokatbyrå gäller särskilda regler. Handlingar som omfattas av advokatsekretess får inte bara tas. En särskild företrädare måste vara med.
+= 그런 것 같아. 법률사무소엔 특별한 규칙이 적용돼. 변호사 비밀 유지 대상인 서류는 그냥 가져갈 수 없어. 특별 대리인이 입회해야 하지.
+WICKSELL: Även lagen vet att advokater har hemligheter. Den har bara bestämt vem som får se dem.
+= 법도 변호사들에게 비밀이 있다는 걸 알지. 누가 그걸 볼 수 있는지 정해 놨을 뿐.
+MAJA: Klockan tio och femton. TT igen. ”En man i sextioårsåldern har gripits på Arlanda. Han misstänks för grovt penningtvättsbrott.”
+= 열 시 십오 분. 또 TT. ‘60대 남성 한 명이 알란다 공항에서 체포됐다. 중대 돈세탁 혐의.’
+ELSA: Arlanda? Han försökte flyga någonstans?
+= 알란다요? 어디로 날아가려고 했어요?
+SANNA: Enligt min källa på flygplatsen: ett plan till Larnaca. Cypern.
+= 공항에 있는 제 취재원에 따르면: 라르나카행 비행기. 키프로스.
+INGRID: Cypern. Där pengarna bor.
+= 키프로스. 돈이 사는 곳.
+ANTON: Är det Rehnberg?
+= 렌베리야?
+SANNA: TT skriver inget namn. Och det gör inte vi heller. Inte än.
+= TT는 이름을 안 써요. 우리도 안 쓰고요. 아직은.
+ELSA: Varför inte? Alla vet ju.
+= 왜요? 다들 알잖아요.
+SANNA: För att han inte är dömd. I Sverige skriver vi sällan namn på misstänkta. Han kan vara oskyldig. Det är domstolen som bestämmer.
+= 유죄 판결을 받은 게 아니니까요. 스웨덴에선 용의자 이름을 잘 안 써요. 무죄일 수도 있잖아요. 그건 법원이 정해요.
+OXENSTIERNA: På min tid hade vi satt hans huvud på en påle vid Slussen. Före rättegången.
+= 내 시절엔 재판 전에 그자의 머리를 슬루센의 말뚝에 꽂았을 거네.
+CHYDENIUS: Och därför skrev vi lagar, herr rikskansler.
+= 그래서 우리가 법을 쓴 겁니다, 재상 각하.
+MAJA: Klockan elva. Saltsjöbanken har gett ett pressmeddelande. ”Banken välkomnar Finansinspektionens granskning och samarbetar fullt ut.”
+= 열한 시. 살트셰은행이 보도자료를 냈어. ‘은행은 금융감독청의 조사를 환영하며 전적으로 협조한다.’
+INGRID: ”Välkomnar.” Efter sju år. Nu välkomnar de.
+= ‘환영한다.’ 7년 만에. 이제야 환영한대요.
+WICKSELL: När en bank välkomnar en granskning är det för att den inte längre kan stoppa den.
+= 은행이 조사를 환영할 때는 더 이상 그걸 막을 수 없기 때문이지.
+MAJA: Klockan två. Nordhem Holding AB: ”Styrelsen har beslutat att avgå med omedelbar verkan.”
+= 두 시. 노르드헴 홀딩 AB: ‘이사회는 즉시 사임하기로 결정했다.’
+ELSA: Avgå. Hela styrelsen? Som Rolf?
+= 사임. 이사회 전체가요? 롤프 씨처럼?
+ANTON: Som Rolf. Fast de vet exakt vad de har skrivit under.
+= 롤프 씨처럼. 다만 그 사람들은 자기가 뭘 서명했는지 정확히 알지.
+INGRID: Och vd:n för Saltsjöbanken? Sitter han kvar?
+= 그럼 살트셰은행장은요? 그대로 있어요?
+MAJA: Han har ”tagit timeout”. Enligt pressmeddelandet.
+= ‘잠시 물러났대.’ 보도자료에 따르면.
+WICKSELL: En timeout. Som i ishockey. Han kommer tillbaka när ingen tittar.
+= 타임아웃. 아이스하키처럼. 아무도 안 볼 때 돌아오겠지.
+
+# 절정 — VÅRBERG FIRAR
+GUNNEL: Välkomna! Det är tvåhundra personer här nu. Och barnen har gjort plakat.
+= 어서 와! 지금 이백 명 와 있어. 그리고 애들이 피켓을 만들었어.
+ELSA: Vad står det?
+= 뭐라고 적혀 있어요?
+GUNNEL: ”Våra väggar är inte era pengar.” Linnea skrev det. Hon har ritat en tvättstuga också.
+= ‘우리 벽은 당신들 돈이 아니다.’ 리네아가 썼어. 세탁실 그림도 그렸고.
+BIGGAN: Tvåhundra bullar. Jag har bakat sedan sex. Elsa hjälpte till.
+= 번 이백 개. 여섯 시부터 구웠어. 엘사가 도와줬지.
+ELSA: Jag knådade. Biggan bestämde.
+= 저는 반죽하고. 비간이 지시했어요.
+GUNNEL: Som Aili och taket.
+= 아일리 할머니랑 지붕처럼.
+FARID: Biggan. Julmusten. Jag har ändrat mig. Vi dricker den i dag.
+= 비간. 율무스트. 생각이 바뀌었어요. 오늘 마셔요.
+BIGGAN: Den sista flaskan? Inte i juni?
+= 마지막 병을? 6월이 아니라?
+FARID: I dag är det juni. Inne i mig.
+= 오늘이 6월이에요. 제 마음속에선.
+ANTON: Det var nästan poesi, Farid.
+= 그거 거의 시였어, 파리드.
+FARID: Jag har läst Strindberg. Han bor ju här i tvättstugan.
+= 스트린드베리를 읽었거든요. 그분 여기 세탁실에 살잖아요.
+ELSA: Var är han förresten? Strindberg?
+= 근데 그분 어디 계세요? 스트린드베리 님?
+BIGGAN: I tvättstugan. Han skriver en lapp. Den längsta hittills.
+= 세탁실에. 쪽지를 쓰고 있어. 지금까지 중 제일 긴 거.
+GUNNEL: Johan! Säg något. Alla väntar.
+= 요한! 한마디 해. 다들 기다려.
+JOHAN: Jag? Jag har inget tal.
+= 제가요? 연설 준비 안 했는데요.
+GUNNEL: Det behövs inget tal. Säg det som Anton gör. Enkelt.
+= 연설은 필요 없어. 안톤처럼 말해. 쉽게.
+JOHAN: Okej. I november kom en kvinna till vårt kafé med ett brev om sitt kök. I dag står tvåhundra personer i Vårberg med bullar.
+= 좋아요. 11월에 한 여성이 자기 부엌에 관한 편지를 들고 우리 카페에 왔어요. 오늘은 바르베리에 이백 명이 번을 들고 서 있네요.
+GUNNEL: Fortsätt, Johan.
+= 계속해, 요한.
+JOHAN: Det är inte vi som har gjort det. Det är ni. Ni sa nej. Femhundrafemtionio gånger. Det var det som fick allt att börja röra sig.
+= 그걸 한 건 우리가 아니에요. 여러분이에요. 여러분이 거절했어요. 559번. 그게 모든 걸 움직이게 했어요.
+GUNNEL: Det är det bästa tal jag har hört sedan facket 1998.
+= 1998년 노조 이후로 들은 최고의 연설이야.
+ELSA: Johan… det är din telefon. Den har vibrerat i fem minuter.
+= 요한… 전화예요. 5분째 진동하고 있어요.
+JOHAN: Henrik igen. Jag svarar inte.
+= 또 헨리크야. 안 받아.
+ELSA: Det står inte Henrik. Det står ”Pappa”.
+= 헨리크라고 안 떠요. ‘아빠’라고 떠요.
+
+# 마무리 — TELEFONEN
+JOHAN: …Hej pappa.
+= …여보세요, 아버지.
+GUSTAF: Johan. Du är i Vårberg. Jag hör bullarna.
+= 요한. 바르베리에 있구나. 번 소리가 들린다.
+JOHAN: Man hör inte bullar, pappa.
+= 번은 소리가 안 나요, 아버지.
+GUSTAF: Jag hör folk som är glada. Det låter som bullar.
+= 기뻐하는 사람들 소리가 들려. 그게 번 소리 같구나.
+JOHAN: De var hos dig i morse. Ekobrottsmyndigheten.
+= 오늘 아침 아버지 사무소에 갔죠. 경제범죄청.
+GUSTAF: De var här i sex timmar. De tog Nordhems akter. Med en särskild företrädare. Allt enligt reglerna.
+= 여섯 시간 있었다. 노르드헴 기록들을 가져갔지. 특별 대리인 입회하에. 전부 규칙대로.
+JOHAN: Du har alltid följt reglerna.
+= 아버지는 늘 규칙을 지키셨죠.
+GUSTAF: Ja. Det har jag. Och nu undrar jag om det var reglerna som var fel. Eller jag.
+= 그래. 그랬지. 그리고 이제 틀린 게 규칙이었는지, 나였는지 궁금하구나.
+JOHAN: …
+= ……
+GUSTAF: Johan. Jag vill träffa dig. Ensam.
+= 요한. 너를 만나고 싶다. 단둘이.
+JOHAN: Varför?
+= 왜요?
+GUSTAF: För att jag har något att säga. Som jag inte kan säga i telefon. Och inte på byrån.
+= 할 말이 있어서. 전화로는 할 수 없는 말이다. 사무소에서도 안 되고.
+JOHAN: När?
+= 언제요?
+GUSTAF: Valborgsmässoafton. Vid elden på Skansen. Som när du var liten. Klockan nio.
+= 발보리 전야. 스칸센의 모닥불 옆에서. 네가 어렸을 때처럼. 아홉 시에.
+JOHAN: Det är om tio dagar.
+= 열흘 뒤네요.
+GUSTAF: Räkna dem, Johan. Det har du lärt dig av någon, hör jag.
+= 날짜를 세어 봐라, 요한. 누군가한테서 배웠다고 들었다.
+ELSA: Vad sa han?
+= 뭐라고 하셨어요?
+JOHAN: Han vill träffa mig. Ensam. På Valborg.
+= 날 만나고 싶대. 단둘이. 발보리에.
+WICKSELL: Räkna dagarna. Tio.
+= 날짜를 세게. 열흘.
+OXENSTIERNA: En far och en son vid en eld. Så börjar alla gamla sagor.
+= 모닥불 옆의 아버지와 아들. 옛이야기는 다 그렇게 시작하지.
+NEXT: 4부 1화 — «Valborg»(발보리) — 4월 30일, 봄맞이 모닥불 앞에서 Gustaf가 아들에게 말한다: 증언하겠다, 대신 감형을 원한다. Johan은 대답하지 못한다.
