@@ -1,0 +1,154 @@
+#nr: 58
+#part: 4부 Winter (겨울)
+#title: Kältehilfe
+#ko: 한파 구호 · 쉼터의 밤과 핀의 설문지
+#level: B2~C1
+#setting: 12월 15일 화요일 ~ 17일 목요일. 영하 12도의 한파. 베를린 한파 구호(Kältehilfe)가 비상 체제에 들어간다. 이웃들은 교회 강당의 야간 쉼터와 푸드뱅크(Tafel) 배급소에서 봉사하고, 구급대원 코피는 토비와 핀을 데리고 온기 버스(Wärmebus)를 탄다. 9월에 연방군 설문지를 받은 핀은 1월 말까지 답을 보내야 한다. 군 복무냐, 사회 복무(FSJ)냐, 아무것도 아니냐. 표현 초점: 의견과 가치관 말하기, 찬반 논증, 공감과 존중의 대화, 완곡한 표현.
+#cast: Finn | 핀 로렌츠 · 18세, 비네의 아들, 헤르타 팬
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Jana | 야나 코발스키 · 34세
+#cast: Frau Lehmann | 카트야 레만 · 52세, 고용센터 상담원
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Frau Weber | 카트린 베버 · 70대, 베저 거리 주민, 연금 생활자
+#cast: Kofi | 코피 멘사 · 35세, 구급대원
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Wojtek | 보이텍 · 50대, 노숙인, 폴란드 출신 전직 건설 노동자
+#cast: Max | 막스 브레너 · 29세
+#cast: Derya | 데르야 이을드즈 · 40세, 간호사
+#read: 찬반 논증: „Einerseits finde ich es richtig, dass … Andererseits frage ich mich, ob …" „Für mich spricht dafür, dass …, dagegen spricht, dass …" — 논리 연결어를 또렷하게.
+#read: 공감의 어조(코피): 낮고 느리게, 명령형 대신 의문형. „Darf ich mich zu Ihnen setzen?" „Möchten Sie einen Tee?" — 상대가 거절할 여지를 남긴다.
+#read: 완곡한 표현: „Ich würde vielleicht eher sagen …" „Das ist nicht ganz das, was ich meine." — 부드럽게 끝을 흐린다.
+#read: Kältehilfe [ˈkɛltəˌhɪlfə], Notübernachtung [ˈnoːtʔyːbɐˌnaxtʊŋ], Wehrdienst [ˈveːɐ̯ˌdiːnst], Freiwilliges Soziales Jahr [ˈfʁaɪ̯vɪlɪɡəs zoˈtsi̯aːləs jaːɐ̯].
+#note: Berliner Kältehilfe = 매년 10월부터 4월까지 운영되는 베를린의 노숙인 한파 구호 체계. 교회·복지 단체가 운영하는 야간 쉼터(Notübernachtung), 온기 버스(Wärmebus)·한파 버스(Kältebus), 핫라인으로 이루어진다. 시민들이 영하의 밤에 노숙인을 보면 한파 버스에 전화할 수 있다.
+#note: Tafel(푸드뱅크) = 마트·빵집에서 팔다 남은 식품을 모아 저소득층에게 싼값(상징적 금액)에 나눠 주는 독일 전역의 자원봉사 단체. 이용자가 늘면서 대기 명단이 생긴 곳도 많다.
+#note: 병역 제도: 독일은 2011년 징병제를 중단하고 자원 입대제로 바꿨다. 최근 안보 상황 때문에 새 병역 제도가 도입되어, 젊은 남성은 복무 의사와 적합성을 묻는 설문지(Fragebogen)에 답해야 한다(여성은 자율). 지원자가 부족하면 의무 복무를 다시 논의할 수 있다. 사회 복무로는 FSJ(자원 사회 봉사 연도), BFD(연방 자원봉사)가 있다.
+#note: 가치관 표현: Für mich ist entscheidend, dass … / Ich halte es für meine Pflicht, … / Das widerspricht meinen Überzeugungen. (내 신념에 어긋난다) / Ich kann nachvollziehen, warum … (왜 …인지 이해할 수 있다) / Gewissensfreiheit (양심의 자유), den Kriegsdienst verweigern (집총을 거부하다)
+#note: 존중하는 말하기(노숙인과의 대화): obdachlos / wohnungslos (노숙인/주거 없는 사람)를 쓰고 비하하는 말은 쓰지 않는다. „Brauchen Sie etwas?" 대신 „Kann ich etwas für Sie tun?" 상대가 원하지 않으면 강요하지 않는다.
+## Minus zwölf Grad | 영하 12도
+Kalle: Minus zwölf. Heute Nacht minus fünfzehn. Sagt das Radio. Det hatten wir seit zweitausendzwölf nicht mehr. || 영하 12도. 오늘 밤엔 영하 15도래. 라디오에서 그래. 2012년 이후로 이런 적이 없었어.
+Bine: Finn, zieh die Mütze auf. Und iss was. Du siehst aus, als hättest du nicht geschlafen. || 핀, 모자 써. 그리고 뭐 좀 먹어. 한숨도 못 잔 얼굴이다.
+Finn: Ich habe nicht geschlafen, Mama. Wegen dem hier. || 못 잤어요, 엄마. 이것 때문에요.
+Jana: Ist das der Brief von der Bundeswehr? Der aus dem September? Den hast du immer noch? || 그거 연방군에서 온 편지야? 9월에 온 거? 아직도 갖고 있어?
+Finn: Der Fragebogen. Ich muss ihn bis Ende Januar zurückschicken. Online. Es ist Pflicht. Für alle Männer meines Jahrgangs. Und ich weiß nicht, was ich ankreuzen soll. || 설문지요. 1월 말까지 돌려보내야 해요. 온라인으로요. 의무예요. 제 또래 남자들은 다요. 그런데 뭐에 체크해야 할지 모르겠어요.
+Kalle: Wat steht denn drin? || 거기 뭐라고 돼 있는데?
+Finn: Fragen. Wie groß ich bin. Wie fit. Welche Schule. Und dann die große Frage: „Sind Sie bereit, Wehrdienst zu leisten?" Ja, nein, weiß nicht. || 질문들이요. 키가 몇인지. 체력이 어떤지. 학교는 어딘지. 그리고 큰 질문이 있어요. „병역을 이행할 의사가 있습니까?" 예, 아니요, 모르겠음.
+Bine: Dann kreuzt du „Nein" an. Fertig. Mein Sohn geht nicht zur Armee. Ick habe dich nicht achtzehn Jahre lang großgezogen, damit du … || 그럼 ‚아니요'에 체크해. 끝. 내 아들은 군대 안 가. 내가 너를 십팔 년 동안 키운 게…
+Finn: Mama. Es ist meine Entscheidung. Nicht deine. Ich bin achtzehn. Ich habe im September gewählt. Zum ersten Mal. Du hast gesagt, ich bin jetzt erwachsen. || 엄마. 이건 제 결정이에요. 엄마 결정이 아니라요. 저 열여덟 살이에요. 9월에 투표도 했어요. 처음으로요. 엄마가 이제 어른이라고 했잖아요.
+Bine: … Ja. Das habe ich gesagt. Und ich hatte gehofft, du wirst ein Erwachsener, der auf seine Mutter hört. || …그래. 그렇게 말했지. 그리고 엄마 말 잘 듣는 어른이 되길 바랐지.
+Kalle: Wat denkst du denn selbst, Junge? Ehrlich. || 넌 어떻게 생각하는데, 얘야? 솔직하게.
+Finn: Einerseits finde ich es richtig, dass man sich überlegt, wer das Land verteidigt. Ich lese die Nachrichten. Ich bin nicht naiv. Andererseits frage ich mich, ob ich das kann. Ein Gewehr halten. Auf jemanden zielen. Ich kann nicht mal einen Fisch töten. Beim Angeln mit Opa habe ich geheult. || 한편으로는 누가 나라를 지킬지 고민해야 한다는 게 맞다고 생각해요. 저도 뉴스 봐요. 순진하지 않아요. 다른 한편으로는 제가 그걸 할 수 있을지 모르겠어요. 총을 드는 거요. 누군가를 겨누는 거요. 저는 물고기 한 마리도 못 죽여요. 할아버지랑 낚시할 때 울었다니까요.
+Jana: Es gibt ja nicht nur die Armee. Es gibt das FSJ. Freiwilliges Soziales Jahr. Im Krankenhaus. Im Altenheim. Bei der Feuerwehr. || 군대만 있는 건 아니잖아. FSJ도 있어. 자원 사회 봉사 연도. 병원에서. 양로원에서. 소방서에서.
+Finn: Ich weiß. Aber ist das nicht feige? Sich rauszuhalten, wenn andere in meinem Alter … in der Ukraine sind Jungs in meinem Alter an der Front. || 알아요. 그런데 그건 비겁한 거 아니에요? 다른 또래들은… 우크라이나에선 제 또래 남자애들이 전선에 있잖아요.
+Kalle: Feige ist, wenn man nicht nachdenkt. Du denkst nach. Seit drei Monaten. Das ist das Gegenteil von feige. || 비겁한 건 생각을 안 하는 거야. 넌 생각하고 있잖아. 석 달째. 그건 비겁한 거랑 정반대야.
+Bine: Finn. Heute Abend gehen Tobi und Kofi mit dem Wärmebus raus. Kältehilfe. Sie suchen noch jemanden. Zum Tragen. Decken, Tee, Schlafsäcke. Geh mit. Denk dabei nach. Mit kalten Füßen denkt man ehrlicher. || 핀. 오늘 저녁에 토비랑 코피가 온기 버스 타고 나간대. 한파 구호. 아직 사람을 구한대. 짐 나를 사람. 담요, 차, 침낭. 같이 가. 가서 생각해. 발이 시려야 더 솔직하게 생각하게 돼.
+Finn: Das hast du dir gerade ausgedacht. || 그거 엄마가 방금 지어낸 거죠.
+Bine: Natürlich. Aber es stimmt trotzdem. || 당연하지. 그래도 맞는 말이야.
+## Die Tafel | 푸드뱅크
+Frau Lehmann: Edith, Sie sitzen. Bitte. Das ist die Bedingung. Sie sortieren. Ich trage. Und Sie heben nichts, was schwerer ist als eine Tüte Brötchen. || 에디트, 앉아 계세요. 제발요. 그게 조건이에요. 에디트는 분류하고. 저는 나르고. 그리고 빵 한 봉지보다 무거운 건 절대 들지 마세요.
+Edith: Katja, ich habe fünfundzwanzig Jahre lang einen Bus mit hundert Menschen gefahren. Ich kann Joghurt sortieren. || 카트야, 나 이십오 년 동안 백 명 태운 버스를 몰았어요. 요구르트쯤은 분류할 수 있다고요.
+Frau Lehmann: Das bezweifle ich nicht. Ich bezweifle Ihr Herz. Joghurt nach Datum. Morgen ablaufend links. Übermorgen rechts. Abgelaufen in die Kiste für die Tiere. || 그건 의심 안 해요. 의심하는 건 에디트 심장이에요. 요구르트는 날짜별로요. 내일 만료되는 건 왼쪽. 모레는 오른쪽. 만료된 건 동물용 상자에.
+Edith: Wie viele kommen heute? || 오늘 몇 명이나 와요?
+Frau Lehmann: Hundertvierzig. Letztes Jahr waren es achtzig. Vor drei Jahren fünfzig. Wir haben seit Oktober eine Warteliste. Zum ersten Mal. Wer neu kommt, muss sechs Wochen warten. || 백사십 명이요. 작년엔 팔십 명이었어요. 삼 년 전엔 오십 명이었고요. 10월부터 대기 명단이 생겼어요. 처음으로요. 새로 오는 사람은 여섯 주를 기다려야 해요.
+Edith: Sechs Wochen. Für Joghurt, der morgen abläuft. || 여섯 주라. 내일 만료되는 요구르트를 받으려고.
+Frau Lehmann: Ich sehe viele davon im Jobcenter. Am Vormittag sitzen sie bei mir am Schreibtisch. Am Nachmittag stehen sie hier in der Schlange. Manche erkennen mich. Dann gucken wir beide weg. Aus Höflichkeit. || 그중 많은 사람을 고용센터에서 봐요. 오전엔 제 책상 앞에 앉아 있고. 오후엔 여기 줄 서 있죠. 몇몇은 저를 알아봐요. 그러면 둘 다 눈을 돌려요. 예의상요.
+Frau Weber: Guten Tag. Weber. Ich habe … ich habe eine Nummer. Neunundachtzig. || 안녕하세요. 베버예요. 저… 번호 받았어요. 89번이요.
+Edith: Frau Weber? Aus der Weserstraße? Sie haben uns im Oktober zwanzig Euro gegeben. Für die Genossenschaft. In Tobis Lastenrad. || 베버 부인? 베저 거리에 사시는? 10월에 우리한테 20유로 주셨잖아요. 협동조합에요. 토비 화물 자전거에다가요.
+Frau Weber: … Ja. Das war ich. Frau Krüger, bitte. Sagen Sie es niemandem. Dass ich hier bin. Meine Rente ist neunhundertvierzig Euro. Die Miete ist sechshundertzehn. Seit die Heizkosten gestiegen sind … Ich schäme mich so. || …네. 저였어요. 크뤼거 부인, 제발요. 아무한테도 말하지 마세요. 제가 여기 왔다는 거요. 제 연금이 구백사십 유로예요. 월세가 육백십이고요. 난방비가 오른 뒤로… 너무 부끄러워요.
+Edith: Frau Weber. Sie haben zwanzig Euro gegeben. Von neunhundertvierzig. Das ist mehr als zwei Prozent. Herr Albrecht hat uns sechzigtausend angeboten. Von vielen Millionen. Das ist weniger als ein Prozent. Wer muss sich hier schämen? || 베버 부인. 부인은 구백사십 유로에서 20유로를 내셨어요. 그건 2퍼센트가 넘어요. 알브레히트 씨는 우리한테 6만 유로를 제안했죠. 수백만 유로 중에서요. 그건 1퍼센트도 안 돼요. 여기서 누가 부끄러워해야 하죠?
+Frau Weber: … So habe ich das noch nie gesehen. || …그렇게는 한 번도 생각해 본 적이 없네요.
+Frau Lehmann: Frau Weber, hier. Ihre Tüte. Mit dem guten Joghurt. Und, wenn Sie möchten: Kommen Sie nächste Woche in mein Büro. Nicht als Kundin. Es gibt Wohngeld. Und Heizkostenzuschuss. Viele wissen es nicht. Ich helfe Ihnen beim Antrag. || 베버 부인, 여기요. 부인 봉투예요. 좋은 요구르트 넣었어요. 그리고 괜찮으시면 다음 주에 제 사무실로 오세요. 고객으로 말고요. 주거 보조금이 있어요. 난방비 지원도요. 많은 분이 모르세요. 신청하는 거 도와드릴게요.
+Frau Weber: Danke. Sie sind … Sie sind sehr freundlich. Für das Jobcenter. || 고마워요. 정말… 정말 친절하시네요. 고용센터 사람치고는요.
+Frau Lehmann: Das höre ich oft. Ich nehme es als Kompliment. Für mich. Nicht für das Jobcenter. || 그 말 자주 들어요. 칭찬으로 받을게요. 저한테 하는 칭찬으로요. 고용센터 말고요.
+Edith: Katja. Sie sind gar nicht so skeptisch, wie Sie immer tun. || 카트야. 당신은 늘 그러는 척하는 것만큼 회의적이지 않네요.
+Frau Lehmann: Doch. Ich bin skeptisch gegenüber Systemen. Nicht gegenüber Menschen. Das ist ein Unterschied. Joghurt, Edith. Die Schlange wird länger. || 아니에요. 회의적이에요. 제도에 대해서요. 사람에 대해서가 아니라. 그건 달라요. 요구르트요, 에디트. 줄이 길어지고 있어요.
+Edith: Joghurt. Ja. Links morgen, rechts übermorgen. Und Katja? Ich habe Frau Weber nichts versprochen. Aber ich werde niemandem etwas sagen. || 요구르트. 그래요. 왼쪽 내일, 오른쪽 모레. 그리고 카트야? 베버 부인한테 약속은 안 했지만, 아무한테도 말 안 할 거예요.
+Frau Lehmann: Ich weiß. Deshalb habe ich Sie zum Sortieren eingeteilt. Und nicht an die Ausgabe. An der Ausgabe muss man vergessen können. Sie vergessen nie etwas. || 알아요. 그래서 에디트를 분류 담당으로 배치한 거예요. 배급대 말고요. 배급대에선 잊을 줄 알아야 하거든요. 에디트는 아무것도 안 잊잖아요.
+## Der Wärmebus | 온기 버스
+Kofi: Erste Regel: Wir zwingen niemanden. Zweite Regel: Wir fragen, bevor wir helfen. Dritte Regel: Wir sagen „Sie". Immer. Auch wenn jemand zwanzig ist. Respekt ist das Erste, was man auf der Straße verliert. Wir geben ihn zurück. || 첫 번째 규칙, 아무도 강요하지 않는다. 두 번째 규칙, 돕기 전에 묻는다. 세 번째 규칙, 존댓말을 쓴다. 언제나. 상대가 스무 살이라도. 거리에서 제일 먼저 잃는 게 존중이야. 우리는 그걸 돌려주는 거고.
+Finn: Und wenn jemand nicht mitkommen will? Bei minus fünfzehn? || 그런데 누가 같이 안 가겠다고 하면요? 영하 15도에요?
+Kofi: Dann lassen wir einen Schlafsack da. Und Tee. Und die Nummer vom Kältebus. Und wir kommen in zwei Stunden wieder. Manchmal sagt jemand beim dritten Mal Ja. Manchmal nie. || 그럼 침낭을 두고 와. 그리고 차랑. 한파 버스 번호랑. 그리고 두 시간 뒤에 다시 와. 세 번째에 좋다고 하는 사람도 있어. 끝까지 안 하는 사람도 있고.
+Tobi: Kofi, da. Unter der Brücke. Am Kottbusser Damm. Da liegt jemand. Auf Pappe. || 코피, 저기. 다리 밑에. 코트부서 담에. 누가 누워 있어요. 판지 위에.
+Kofi: Langsam. Nicht alle drei. Nur ich zuerst. Finn, du kommst mit dem Tee. Tobi bleibt am Bus. … Guten Abend. Darf ich mich kurz zu Ihnen setzen? Ich bin Kofi. Vom Wärmebus. || 천천히. 셋 다 말고. 나 먼저. 핀, 너는 차 들고 와. 토비는 버스에 있고. …안녕하세요. 잠깐 옆에 앉아도 될까요? 저는 코피예요. 온기 버스에서 왔어요.
+Wojtek: … Setz dich. Ist nicht mein Haus. Ist eine Brücke. || …앉아. 내 집도 아닌데. 다리야.
+Kofi: Danke. Es ist sehr kalt heute. Minus fünfzehn heute Nacht. Möchten Sie einen Tee? Heiß. Mit Zucker. || 고마워요. 오늘 정말 춥네요. 오늘 밤 영하 15도래요. 차 드실래요? 뜨거워요. 설탕 넣은 거예요.
+Wojtek: Mit viel Zucker. Danke. Du, Junge. Du zitterst. Mehr als ich. || 설탕 많이. 고마워. 너, 젊은이. 너 떨고 있네. 나보다 더.
+Finn: Entschuldigung. Ich … es ist mein erstes Mal. || 죄송해요. 저… 처음이라서요.
+Wojtek: Erstes Mal auf der Straße? Für mich auch. Vor drei Jahren. Jetzt ist es nicht mehr das erste Mal. Das ist schlimmer. || 거리가 처음이라고? 나도 그랬어. 삼 년 전에. 이젠 처음이 아니야. 그게 더 나빠.
+Kofi: Wie heißen Sie? Sie müssen es nicht sagen. || 성함이 어떻게 되세요? 말씀 안 하셔도 돼요.
+Wojtek: Wojtek. Aus Szczecin. Ich habe gebaut. In Berlin. Zwanzig Jahre. Am Potsdamer Platz. Am Hauptbahnhof. Viele Häuser mit Glas. Dann der Rücken. Dann kein Vertrag mehr. Dann keine Wohnung mehr. Dann die Brücke. || 보이텍. 슈체친 출신. 집 지었어. 베를린에서. 이십 년. 포츠담 광장에서. 중앙역에서. 유리로 된 집 많이. 그러다 허리가. 그러다 계약이 끊기고. 그러다 집이 없어지고. 그러다 다리 밑.
+Tobi: Sie haben den Hauptbahnhof gebaut? || 중앙역을 지으셨어요?
+Wojtek: Ein bisschen. Die Treppen. Auf der Nordseite. Jeden Tag gehen tausend Menschen auf meinen Treppen. Keiner weiß es. || 조금. 계단을. 북쪽 출구 쪽. 매일 천 명이 내 계단을 걸어. 아무도 몰라.
+Kofi: Wojtek, in der Kirche am Hermannplatz gibt es heute Nacht ein Bett. Warm. Mit Suppe. Sie müssen nicht. Aber es gibt ein Bett. Möchten Sie mitkommen? || 보이텍 씨, 오늘 밤 헤르만 광장 교회에 침대가 있어요. 따뜻하고. 수프도 있어요. 꼭 가셔야 하는 건 아니에요. 하지만 침대가 있어요. 같이 가실래요?
+Wojtek: Mit Hund? || 개 데리고?
+Kofi: Mit Hund. In dieser Kirche ja. Das ist nicht überall so. Aber da ja. || 개 데리고요. 이 교회는 돼요. 다 그렇지는 않지만요. 거긴 돼요.
+Wojtek: Dann komme ich. Für den Hund. Nicht für mich. Bruno. Er ist alt. Er friert. || 그럼 갈게. 개를 위해서. 나 말고. 브루노야. 늙었어. 추워해.
+Finn: Ich trage Ihre Sachen. Wenn ich darf. || 짐 들어 드릴게요. 괜찮으시면요.
+Wojtek: Du darfst. Du bist höflich. Du sagst „Sie". Die Polizei sagt „du". || 그래. 넌 예의가 있구나. 존댓말을 쓰고. 경찰은 반말을 하는데.
+## Die Notübernachtung | 야간 쉼터
+Max: Hier. Feldbett Nummer siebzehn. Decke, Kissen, Handtuch. Und für Bruno eine Schüssel. Mit Wasser. Und eine mit Hundefutter. Von Krümel. Nein, Quatsch. Krümel ist eine Katze. Von Frau Schulze trotzdem. || 여기요. 야전 침대 17번이요. 담요, 베개, 수건. 그리고 브루노한테는 그릇이요. 물 담은 거. 그리고 개 사료 담은 거 하나. 크뤼멜 거예요. 아니, 말도 안 되지. 크뤼멜은 고양이잖아요. 그래도 슐체 부인이 주신 거예요.
+Wojtek: Du bist der DJ? Der Junge da hat gesagt, du bist DJ. || 네가 디제이야? 저 젊은이가 그러더라. 너 디제이라고.
+Max: Normalerweise. Heute bin ich Bettenmacher. Und um zehn mache ich das Licht aus. Das ist auch eine Art Auflegen. Nur leiser. || 평소엔요. 오늘은 침대 정리 담당이에요. 그리고 열 시에 불 끌 거예요. 그것도 일종의 디제잉이죠. 조용한 거.
+Derya: Guten Abend. Ich bin Derya. Ich bin Krankenschwester. Ich mache heute die Runde. Darf ich mir Ihre Füße ansehen? Bei der Kälte. Nur kurz. Sie dürfen Nein sagen. || 안녕하세요. 저는 데르야예요. 간호사예요. 오늘 순회를 돌고 있어요. 발 좀 봐도 될까요? 이 추위에요. 잠깐만요. 싫다고 하셔도 돼요.
+Wojtek: Meine Füße sind nicht schön. || 내 발은 보기 안 좋아.
+Derya: Ich habe in siebzehn Jahren viele Füße gesehen. Schöne Füße interessieren mich nicht. Kranke Füße schon. … Die Zehen sind weiß. Hier, zwei. Erfrierung ersten Grades. Noch nicht schlimm. Aber Sie dürfen heute Nacht nicht mehr raus. Und morgen auch nicht. || 십칠 년 동안 발을 많이 봤어요. 예쁜 발엔 관심 없어요. 아픈 발엔 관심 있죠. …발가락이 하얗네요. 여기, 두 개요. 1도 동상이에요. 아직 심하진 않아요. 그래도 오늘 밤엔 다시 나가시면 안 돼요. 내일도요.
+Wojtek: Morgen muss ich raus. Um acht. Die Kirche macht um acht zu. Das ist die Regel. || 내일은 나가야 해. 여덟 시에. 교회가 여덟 시에 문 닫아. 그게 규칙이야.
+Finn: Um acht? Bei minus zwölf? Wohin gehen die Leute dann? Den ganzen Tag? || 여덟 시요? 영하 12도에요? 그럼 사람들은 하루 종일 어디로 가요?
+Kofi: In die U-Bahn. In die Bibliothek. In Einkaufszentren, bis der Sicherheitsdienst kommt. Die Notübernachtung ist für die Nacht. Für den Tag gibt es zu wenig. Das ist das Loch im System. || 지하철로. 도서관으로. 쇼핑몰로, 경비원이 올 때까지. 야간 쉼터는 밤을 위한 거야. 낮을 위한 곳은 너무 적어. 그게 제도의 구멍이지.
+Max: Eine Wärmestube. Tagsüber. Wo man sitzen kann. Und Kaffee bekommt. Ohne Konsumzwang. || 온기 쉼터. 낮 동안요. 앉아 있을 수 있고. 커피도 받을 수 있는 곳. 뭘 사야 할 의무 없이요.
+Tobi: Wie eine Kneipe. Nur ohne Rechnung. || 크나이페 같은 거네요. 계산서만 없는.
+Derya: Tobi. Sag das nicht zu laut. Sonst hat Kalle morgen eine Idee. Und Jana einen Herzinfarkt. || 토비. 그거 크게 말하지 마. 안 그러면 칼레가 내일 아이디어를 낼 거고. 야나는 심장마비 올 거야.
+Wojtek: Was ist Kalle? || 칼레가 뭐야?
+Max: Kalle ist … schwer zu erklären. Ein Mensch, der zu viele Leute kennt. Und keinen vergisst. || 칼레는… 설명하기 어려워요. 너무 많은 사람을 알고. 한 명도 안 잊는 사람이에요.
+Finn: Ein Mann mit einer Ecke. Und einer Kneipe. In der Weserstraße … nein, am Maybachufer. Er macht Mittagessen für sieben fünfzig. Und manchmal umsonst. Wenn Sankt Martin ist. || 모퉁이랑 크나이페를 가진 아저씨예요. 베저 거리… 아니, 마이바흐우퍼에요. 점심을 7유로 50에 해요. 그리고 가끔은 공짜로요. 성 마르틴 날 같은 때요.
+## Kofi erzählt | 코피의 이야기
+Finn: Kofi, darf ich dich was fragen? Du bist Rettungssanitäter. Warst du bei der Bundeswehr? || 코피 형, 하나 물어봐도 돼요? 형 구급대원이잖아요. 연방군에 있었어요?
+Kofi: Nein. Ich war zweitausendzehn Zivi. Zivildienstleistender. Neun Monate beim Roten Kreuz in Hamburg. Im Rettungsdienst. Ich war einer der Letzten. Ein Jahr später wurde die Wehrpflicht ausgesetzt. Und der Zivildienst mit ihr. || 아니. 나는 2010년에 대체 복무자였어. 민간 대체 복무. 함부르크 적십자에서 아홉 달. 구급대에서. 거의 마지막 세대였지. 일 년 뒤에 징병제가 중단됐거든. 대체 복무도 같이.
+Finn: Und warum Zivi? Warst du dagegen? Gegen das Militär? || 그럼 왜 대체 복무였어요? 반대했어요? 군대에?
+Kofi: Ich habe verweigert. Aus Gewissensgründen. Ich musste einen Aufsatz schreiben. Warum ich nicht töten kann. Mit neunzehn. Das war der schwerste Text meines Lebens. Schwerer als jede Prüfung. || 집총을 거부했어. 양심상의 이유로. 에세이를 써야 했지. 왜 내가 사람을 죽일 수 없는지. 열아홉에. 그게 내 인생에서 제일 어려운 글이었어. 어떤 시험보다 어려웠지.
+Finn: Und was hast du geschrieben? || 그래서 뭐라고 썼어요?
+Kofi: Dass mein Großvater in Ghana Polizist war. Und dass er einmal geschossen hat. Neunzehnhundertsiebenundsiebzig. Und dass er nie wieder geschlafen hat. Bis zu seinem Tod. Und dass ich lieber Menschen zusammenflicke. Als sie auseinanderzunehmen. || 우리 할아버지가 가나에서 경찰이었다고. 그리고 한 번 총을 쏜 적이 있다고. 1977년에. 그리고 그 뒤로 다시는 잠을 못 주무셨다고. 돌아가실 때까지. 그리고 나는 사람을 갈라놓기보다 꿰매 주는 게 낫다고.
+Finn: Und die Leute, die zur Bundeswehr gehen? Sind die schlechter? || 그럼 연방군에 가는 사람들은요? 그 사람들이 더 나쁜 거예요?
+Kofi: Nein. Absolut nicht. Mein bester Freund aus der Schule ist Oberleutnant. In Litauen gerade. Er glaubt, er schützt Menschen. Und er hat recht. Ich glaube, ich schütze Menschen. Und ich habe auch recht. Wir haben verschiedene Gewissen. Beide sind in Ordnung. Nur kein Gewissen ist nicht in Ordnung. || 아니. 절대 아니야. 학교 때 제일 친한 친구가 중위야. 지금 리투아니아에 있어. 그 친구는 자기가 사람들을 지킨다고 믿어. 그리고 그 말이 맞아. 나는 내가 사람들을 지킨다고 믿고. 그것도 맞아. 우리는 서로 다른 양심을 가진 거야. 둘 다 괜찮아. 양심이 없는 것만 안 괜찮지.
+Finn: Und deine Eltern? Was haben die gesagt? Damals? || 그럼 형 부모님은요? 뭐라고 하셨어요? 그때요?
+Kofi: Mein Vater war wütend. Er ist in Hamburg geboren, aber er wollte, dass ich zeige, dass ich dazugehöre. Ganz und gar. Mit Uniform. Er hat drei Wochen nicht mit mir geredet. Dann hat er mich im Rettungswagen gesehen. An der Reeperbahn. Um vier Uhr morgens. Er war Taxifahrer. Danach hat er nie wieder etwas gesagt. || 아버지가 화를 내셨어. 아버지는 함부르크에서 태어났는데, 내가 이 나라 사람이라는 걸 보여 주길 원하셨거든. 완전히. 군복 입고. 삼 주 동안 나랑 말을 안 하셨어. 그러다 구급차에 탄 나를 보셨지. 레퍼반에서. 새벽 네 시에. 택시 기사셨거든. 그 뒤론 다시는 아무 말도 안 하셨어.
+Finn: Nichts? || 아무 말도요?
+Kofi: Nichts Schlechtes. Nur einmal, an meinem Geburtstag: „Du fährst schneller als ich. Und für bessere Gründe." || 나쁜 말은 아무것도. 딱 한 번, 내 생일에 그러셨어. „너는 나보다 빨리 달리는구나. 더 나은 이유로."
+Finn: Ich habe Angst, dass ich mich falsch entscheide. Und dass ich es mein Leben lang bereue. || 잘못 결정할까 봐 무서워요. 그리고 평생 후회할까 봐요.
+Kofi: Du hast heute Nacht einem Mann den Rucksack getragen. Und „Sie" gesagt. Und gezittert. Du hast schon eine Entscheidung getroffen. Heute Nacht. Du musst sie nur noch in den Fragebogen übersetzen. || 너 오늘 밤에 한 남자 배낭을 들어 줬잖아. 그리고 존댓말을 썼고. 그리고 떨었고. 넌 벌써 결정을 내렸어. 오늘 밤에. 이제 그걸 설문지로 옮기기만 하면 돼.
+Bine: Finn? Du bist um drei Uhr nach Hause gekommen. Ich habe gewartet. Wie war es? || 핀? 새벽 세 시에 들어왔더라. 엄마 기다렸어. 어땠어?
+Finn: Kalt. Und warm. Beides. Mama, ich glaube, ich weiß, was ich mache. Aber du musst mich ausreden lassen. Bis zum Ende. || 추웠어요. 그리고 따뜻했어요. 둘 다요. 엄마, 저 뭘 할지 알 것 같아요. 그런데 끝까지 말하게 해 주셔야 해요. 끝까지요.
+Bine: Ich lasse dich ausreden. Ich halte mir den Mund zu. Mit beiden Händen. || 끝까지 말하게 할게. 입 막고 있을게. 두 손으로.
+## Die Antwort | 답
+Finn: Ich mache ein FSJ. Im Rettungsdienst. Beim Roten Kreuz. Wie Kofi. Ab Februar. Seit dem Abi jobbe ich nur im Späti. Das reicht. Ich habe mich gestern Nacht online beworben. Um vier Uhr. || FSJ 할 거예요. 구급대에서요. 적십자에서요. 코피 형처럼요. 2월부터요. 아비투어 끝나고 계속 편의점 알바만 했잖아요. 그걸로 충분해요. 어젯밤에 온라인으로 지원했어요. 네 시에요.
+Bine: … Mmh. Mmh mmh. || …음. 음음.
+Finn: Und im Fragebogen kreuze ich bei „Wehrdienst" an: Nein. Aber bei „Sind Sie bereit, an einer Musterung teilzunehmen?" kreuze ich Ja an. Weil ich finde, dass ich mich nicht verstecken sollte. Wenn das Land mich braucht, dann will ich wenigstens gefragt worden sein. Und dann sage ich ehrlich, was ich kann. Und was nicht. Einen Rettungswagen fahren kann ich. Schießen nicht. || 그리고 설문지 ‚병역'에는 ‚아니요'에 체크할 거예요. 그런데 ‚징병 검사에 참여할 의사가 있습니까?'에는 ‚예'에 체크할 거예요. 숨으면 안 된다고 생각하니까요. 나라가 저를 필요로 한다면 적어도 질문은 받아 봐야죠. 그리고 그때 제가 할 수 있는 것과 할 수 없는 걸 솔직하게 말할 거예요. 구급차는 몰 수 있어요. 총은 못 쏘고요.
+Bine: Darf ich jetzt reden? || 이제 말해도 돼?
+Finn: Jetzt darfst du reden. || 이제 말해도 돼요.
+Bine: Ich bin stolz auf dich. Und ich habe Angst. Beides. Und ich hätte nie gedacht, dass mein Sohn einen klügeren Satz sagt als ick. Mit achtzehn. || 네가 자랑스러워. 그리고 무서워. 둘 다야. 그리고 내 아들이 나보다 더 현명한 말을 할 거라곤 생각도 못 했어. 열여덟에.
+Kalle: Hat er das? Wat hat er gesagt? || 그랬어? 뭐라고 했는데?
+Bine: Er hat gesagt: Er will sich nicht verstecken. Aber er will auch nicht schießen. Und er will ehrlich sein. Alles gleichzeitig. Wie ein erwachsener Mensch. || 숨고 싶지 않대. 그런데 총도 쏘고 싶지 않대. 그리고 솔직하고 싶대. 그걸 전부 동시에. 어른처럼.
+Kalle: Dann ist er erwachsen. Herzlichen Glückwunsch, Bine. Det passiert nicht allen. Manche werden sechzig und schaffen es nicht. || 그럼 쟤 어른 된 거야. 축하해, 비네. 다 그렇게 되는 건 아니야. 어떤 사람은 예순이 돼도 못 해.
+Jana: Und Wojtek? Was ist mit Wojtek? Tobi hat geschrieben, er war heute Morgen um acht wieder draußen. || 그럼 보이텍 씨는요? 보이텍 씨는 어떻게 됐어요? 토비가 문자 보냈는데, 오늘 아침 여덟 시에 다시 밖으로 나갔대요.
+Finn: Er sitzt draußen. Vor der Tür. Mit Bruno. Ich habe ihn mitgebracht. Kalle, ich weiß, wir haben kein Geld. Aber er braucht einen Ort. Für den Tag. Nur bis die Kälte vorbei ist. || 밖에 앉아 있어요. 문 앞에요. 브루노랑요. 제가 데려왔어요. 칼레 아저씨, 돈 없는 거 알아요. 그런데 그분은 낮에 있을 곳이 필요해요. 추위가 끝날 때까지만요.
+Kalle: … Jana. || …야나.
+Jana: Ich weiß, Papa. Ich weiß. Ein Kaffee. Ohne Rechnung. Und ein Platz in der Ecke, wo das Klavier nie stand. Bis zum Tauwetter. Ich trage es als Spende ein. Für die Statistik. || 알아요, 아빠. 알아요. 커피 한 잔. 계산서 없이. 그리고 피아노가 한 번도 놓인 적 없는 그 모퉁이 자리. 날이 풀릴 때까지요. 기부로 장부에 적을게요. 통계를 위해서요.
+Kalle: Finn. Hol ihn rein. Und den Hund auch. Bruno kriegt eine Bulette. Ohne Senf. || 핀. 들어오시라고 해. 개도. 브루노한텐 불레테 하나 주자. 겨자 없이.
+## Am Ofen | 난로 옆에서
+Edith: Setzen Sie sich, Herr … Wojtek? Hier ist der wärmste Platz. Der Ofen geht wieder. Tobi hat ihn gestern repariert. Mit einem Fahrradschlauch. Fragen Sie nicht. || 앉으세요, 그… 보이텍 씨? 여기가 제일 따뜻한 자리예요. 난로가 다시 돼요. 토비가 어제 고쳤거든요. 자전거 튜브로요. 묻지 마세요.
+Wojtek: Danke. Sie sind die Frau mit den Stufen. Der Junge hat erzählt. Achtundsiebzig. Jeden Tag. || 고마워요. 당신이 그 계단 할머니군요. 저 젊은이가 얘기해 줬어요. 일흔여덟 개. 매일.
+Edith: Und Sie sind der Mann mit den Stufen am Hauptbahnhof. Nordseite. Ich bin sie im Frühling gegangen. Zum Zug nach Hamburg. Zu einer alten Kollegin. Es waren sehr gute Stufen. Gleichmäßig. Nicht zu hoch. || 그리고 당신은 중앙역 계단 아저씨고요. 북쪽 출구. 봄에 그 계단을 걸었어요. 함부르크 가는 기차 타러요. 옛 동료 만나러요. 아주 좋은 계단이었어요. 고르고. 너무 높지 않고.
+Wojtek: Siebzehn Zentimeter. Jede Stufe. Das ist die perfekte Höhe. Für alte Knie. Ich habe mit dem Architekten gestritten. Er wollte neunzehn. Weil es schöner aussieht. Ich habe gewonnen. || 17센티미터. 계단마다요. 그게 완벽한 높이예요. 늙은 무릎한테는요. 건축가랑 싸웠죠. 그 사람은 19센티를 원했어요. 더 예뻐 보인다고. 내가 이겼어요.
+Edith: Dann haben Sie mir im Frühling geholfen. Ohne es zu wissen. Danke, Wojtek. || 그럼 봄에 나를 도와주신 거네요. 모르는 사이에. 고마워요, 보이텍 씨.
+Wojtek: … Das hat mir noch nie jemand gesagt. In zwanzig Jahren. Danke für die Treppe. || …그런 말 해 준 사람은 처음이에요. 이십 년 동안. 계단 고맙다는 말.
+Kalle: Hier. Kaffee. Mit viel Zucker. Edith, du kriegst keinen. Und Bruno: eine Bulette. Ohne Senf. || 여기. 커피. 설탕 많이. 에디트, 너는 안 돼. 그리고 브루노는 불레테 하나. 겨자 없이.
+Wojtek: Was kostet das? || 그거 얼마예요?
+Jana: Nichts. Das ist eine Spende. Von Sankt Martin. Er hat uns letzten Monat eine Regel hinterlassen. Bis zum Tauwetter gilt sie. || 공짜예요. 기부예요. 성 마르틴이 주신 거예요. 지난달에 우리한테 규칙을 하나 남기셨거든요. 날이 풀릴 때까지 유효해요.
+Finn: Wojtek, darf ich Sie etwas fragen? Wenn Sie nicht wollen, sagen Sie Nein. Wie kommt man von der Straße wieder weg? || 보이텍 씨, 하나 여쭤봐도 될까요? 싫으시면 싫다고 하세요. 거리에서 어떻게 다시 벗어날 수 있어요?
+Wojtek: Mit einer Adresse. Ohne Adresse kein Job. Ohne Job keine Wohnung. Ohne Wohnung keine Adresse. Ein Kreis. Wie eine Drehtür. Ich habe sie gebaut, solche Türen. Am Potsdamer Platz. || 주소가 있어야 해요. 주소가 없으면 일도 없고. 일이 없으면 집도 없고. 집이 없으면 주소도 없고. 동그라미예요. 회전문처럼. 내가 그런 문을 지었어요. 포츠담 광장에.
+Frau Lehmann: Es gibt Postadressen. Für Wohnungslose. Bei Beratungsstellen. Ich kann Ihnen eine Stelle nennen. Morgen. Nicht als Jobcenter. Als Nachbarin. Wenn Sie wollen. || 노숙인용 우편 주소가 있어요. 상담소에서요. 제가 한 곳 알려 드릴 수 있어요. 내일요. 고용센터 직원으로 말고요. 이웃으로요. 원하시면요.
+Wojtek: Ich bin nicht Ihr Nachbar. || 나는 당신 이웃이 아니에요.
+Kalle: Heute schon. Bis zum Tauwetter. Hier in der Ecke ist jeder Nachbar, der sitzt. || 오늘은 이웃이에요. 날이 풀릴 때까지. 여기 이 모퉁이에선 앉아 있는 사람은 누구나 이웃이에요.
+Wojtek: Dann bin ich heute Nachbar. Mit Hund. || 그럼 오늘은 이웃이네요. 개 데리고.
+Finn: Und morgen? || 그럼 내일은요?
+Wojtek: Morgen sehen wir. Morgen ist minus zehn. Das ist schon fast Frühling. || 내일은 두고 봐야지. 내일은 영하 10도래. 그거면 거의 봄이야.
