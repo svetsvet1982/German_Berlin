@@ -1,0 +1,267 @@
+PART: 1
+EP: 7
+TITLE: Flickan med feber
+SUBTITLE: 열이 나는 아이 · 사건 4 도입, Södermalm의 작은 사무실
+META: 대사 120턴 · 난이도 B1 · 배경: 12월 초 어느 평일 오후부터 밤까지, Södermalm 사무실
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: HAMMARSKJÖLD | 부활한 유엔 사무총장 (1905–1961)
+CAST: IOANA | 루마니아 출신 청소 노동자 · 미라의 엄마 (가상)
+CAST: MIRA | 다섯 살 아이 (가상)
+NOTE: ※ 스웨덴에서는 개인번호(personnummer)가 거의 모든 것의 열쇠입니다. 개인번호가 없으면 전자 신분증 BankID를 만들 수 없고, BankID가 없으면 의료 포털 1177에서 예약하기도, 동네 진료소(vårdcentral)에 등록하기도 어렵습니다. 루마니아에서 온 EU 시민 Ioana는 비공식 청소 일을 하고 있어 체류 요건을 증명하지 못해 아직 개인번호가 없습니다. 하지만 아이는 서류와 상관없이 진료를 받을 수 있어야 합니다. Hammarskjöld는 오늘 처음으로 되묻는 화법 «Och hur känns det för dig?»(그래서 당신은 어떻게 느끼나요?)를 선보입니다. 응급 상황에서는 서류보다 사람이 먼저입니다. 표현 초점: 증상·감정 표현 — feber, personnummer, vårdcentral, akut, känna sig.
+
+# 도입 — ETT FEBRIGT BARN
+BIGGAN: Daniel. Det är en kvinna här med ett barn. Hon ser desperat ut.
+= 다니엘. 여기 아이 데리고 온 여자분이 있어. 절박해 보여.
+DANIEL: Jag kommer.
+= 갈게.
+IOANA: Hej. Förlåt. Jag pratar lite svenska. Lite engelska.
+= 안녕하세요. 죄송해요. 스웨덴어 조금 해요. 영어도 조금.
+DANIEL: Det går bra. Jag heter Daniel. Jag är läkare. Vad heter du?
+= 괜찮아요. 저는 다니엘이에요. 의사예요. 이름이 뭐예요?
+IOANA: Ioana. Och det här är Mira. Hon är fem.
+= 요아나요. 그리고 이 애는 미라예요. 다섯 살이에요.
+MIRA: Mamma, jag är trött.
+= 엄마, 나 피곤해.
+DANIEL: Hej Mira. Får jag känna på din panna?
+= 안녕, 미라. 이마 좀 만져 봐도 될까?
+MIRA: Okej.
+= 응.
+DANIEL: Hon är varm. Hur länge har hon haft feber?
+= 뜨겁네요. 열이 난 지 얼마나 됐어요?
+IOANA: Tre dagar. Och hon har ont i örat. Hon gråter på natten.
+= 사흘이요. 그리고 귀가 아프대요. 밤에 울어요.
+ELSA: Ursäkta, har ni varit hos en läkare?
+= 실례지만, 의사한테 가 보셨어요?
+IOANA: Jag försökte. Vårdcentralen sa: inget personnummer, ingen tid.
+= 해 봤어요. 진료소에서 그랬어요: 개인번호 없으면, 예약 없다고.
+JOHAN: Vad sa de exakt?
+= 정확히 뭐라고 했어요?
+IOANA: ”Ring 1177.” Jag ringde. De sa: logga in med BankID.
+= ‘1177에 전화하세요.’ 전화했어요. 그랬더니: BankID로 로그인하라고.
+ELSA: Och utan personnummer får man inget BankID.
+= 그리고 개인번호가 없으면 BankID를 못 받아요.
+IOANA: Ja. Allt är en cirkel.
+= 네. 모든 게 동그라미예요.
+ANTON: En loop. Förlåt. En cirkel.
+= 루프. 미안. 동그라미.
+MAJA: En krona.
+= 1크로나.
+BIGGAN: Sätt dig vid elementet, Ioana. Mira får en filt.
+= 라디에이터 옆에 앉아, 요아나. 미라는 담요 덮고.
+MIRA: Den är mjuk.
+= 부드러워.
+BIGGAN: Den var min mammas. Den har värmt många barn.
+= 우리 엄마 거였어. 많은 아이들을 따뜻하게 해 줬지.
+DANIEL: Har du en febertermometer, Biggan?
+= 체온계 있어요, 비간?
+
+# 장면 1 — INTE SÅ DÅLIGT
+BIGGAN: I lådan med plåster. Här.
+= 반창고 서랍에. 여기.
+DANIEL: Trettionio komma fyra.
+= 39.4도.
+IOANA: Är det farligt?
+= 그거 위험해요?
+DANIEL: Det är högt. Men hon är vaken, hon pratar och hon dricker. Det är bra tecken.
+= 높아요. 하지만 깨어 있고, 말하고, 마셔요. 좋은 신호예요.
+ELSA: Så det är inte så dåligt?
+= 그럼 그렇게 나쁘진 않은 거예요?
+DANIEL: Inte så dåligt just nu. Men hon behöver undersökas. Örat kan vara en inflammation.
+= 지금은 그렇게 나쁘지 않아. 하지만 진찰은 받아야 해. 귀에 염증이 있을 수 있어.
+OXENSTIERNA: Ni säger ”inte så dåligt” som om det vore en diagnos, herr doktor.
+= ‘그렇게 나쁘지 않다’는 말을 진단처럼 하는군, 의사 양반.
+DANIEL: I Sverige är det nästan en diagnos, herr Oxenstierna. Det betyder: lugnt, men inte bra.
+= 스웨덴에선 거의 진단이에요, 옥센셰르나 님. 그 뜻은: 괜찮은데, 좋진 않다.
+OXENSTIERNA: Ett lagom land med lagom diagnoser.
+= 적당한 나라에 적당한 진단이군.
+JOHAN: Ioana, hur länge har du bott i Sverige?
+= 요아나, 스웨덴에 얼마나 사셨어요?
+IOANA: Åtta månader. Från Rumänien. Jag städar. Hem och kontor.
+= 8개월이요. 루마니아에서요. 청소해요. 집이랑 사무실.
+JOHAN: Har du ett anställningsavtal?
+= 고용계약서 있어요?
+IOANA: Nej. Kunden betalar kontant. Det är… inte på papper.
+= 아뇨. 고객이 현금으로 줘요. 그건… 서류에 없어요.
+MAJA: Svart jobb, alltså.
+= 그러니까 비공식 일이네요.
+IOANA: Jag vet att det är fel. Men ingen ville ge mig ett vitt jobb utan personnummer.
+= 잘못된 거 알아요. 근데 개인번호 없이는 아무도 정식 일을 안 줬어요.
+ELSA: Och utan jobb får man inget personnummer?
+= 그리고 일이 없으면 개인번호를 못 받고요?
+JOHAN: För en EU-medborgare ungefär så, ja. Man måste visa att man har rätt att bo här. Ett jobb, studier eller egna pengar.
+= EU 시민한테는 대략 그래. 여기 살 권리가 있다는 걸 보여 줘야 해. 일자리, 학업, 아니면 자기 돈.
+ELSA: Ännu en cirkel.
+= 또 동그라미네요.
+ANTON: Jag ritar den. Inte som en matris. Som en cirkel.
+= 내가 그려 볼게. 매트릭스 말고. 동그라미로.
+MAJA: Det är faktiskt hjälpsamt, Anton.
+= 그건 사실 도움이 된다, 안톤.
+ANTON: Personnummer – BankID – vård – jobb – personnummer. Den slutar aldrig.
+= 개인번호 – BankID – 진료 – 일자리 – 개인번호. 끝이 안 나.
+MIRA: Mamma, vad ritar mannen?
+= 엄마, 저 아저씨 뭐 그려?
+IOANA: En väg, älskling. En väg som går runt.
+= 길이야, 아가. 빙글빙글 도는 길.
+DANIEL: Mira, får jag titta i ditt öra med lampan?
+= 미라, 손전등으로 귀 좀 봐도 될까?
+MIRA: Gör det ont?
+= 아파?
+BIGGAN: Nej, gumman. Det kittlas bara lite. Som en myra.
+= 아니야, 얘야. 조금 간지럽기만 해. 개미처럼.
+
+# 장면 2 — OCH HUR KÄNNS DET FÖR DIG?
+DANIEL: Rött och svullet. Det är nog öroninflammation. Hon behöver troligen antibiotika.
+= 빨갛고 부었어요. 아마 중이염이에요. 항생제가 필요할 것 같아요.
+IOANA: Kan du ge henne det? Nu?
+= 지금 줄 수 있어요?
+DANIEL: Inte här. Jag har inget recept här, och hon behöver en riktig undersökning.
+= 여기선 안 돼요. 여기엔 처방전도 없고, 제대로 된 진찰이 필요해요.
+HAMMARSKJÖLD: God kväll. Biggan sa att jag skulle komma upp. Jag hoppas jag inte stör.
+= 안녕하세요. 비간이 올라가 보라더군요. 방해가 안 되면 좋겠습니다.
+ELSA: Herr Hammarskjöld! Välkommen. Vi har ett sjukt barn här.
+= 함마르셸드 님! 어서 오세요. 여기 아픈 아이가 있어요.
+HAMMARSKJÖLD: Då ska jag vara tyst och lyssna. Det är det enda jag är bra på.
+= 그럼 조용히 듣겠습니다. 제가 잘하는 건 그것뿐이니.
+OXENSTIERNA: Dag. Fortfarande lika blygsam. Du ledde ju hela världen.
+= 다그. 여전히 겸손하군. 자넨 온 세계를 이끌었잖나.
+HAMMARSKJÖLD: Jag lyssnade på hela världen, Axel. Det är en skillnad.
+= 저는 온 세계의 이야기를 들었을 뿐이에요, 악셀. 그건 다르죠.
+JOHAN: Ioana, du kan gå till akuten. Barn får vård, med eller utan papper.
+= 요아나, 응급실에 갈 수 있어요. 아이들은 서류가 있든 없든 진료를 받아요.
+IOANA: Akuten? Nej. Då frågar de saker. Sen kommer någon och…
+= 응급실이요? 안 돼요. 그럼 이것저것 물어봐요. 그다음엔 누가 와서…
+ELSA: Och vad?
+= 그리고 뭐요?
+IOANA: Jag vet inte. Jag har hört saker. Att läkare måste ringa polisen. Att man skickas hem.
+= 몰라요. 얘기를 들었어요. 의사들이 경찰에 신고해야 한다고. 집으로 돌려보내진다고.
+DANIEL: Det gör jag inte. Jag är läkare. Jag ringer inte polisen för att ett barn har feber.
+= 전 안 그래요. 전 의사예요. 아이가 열 난다고 경찰에 전화하지 않아요.
+IOANA: Du säger det. Men du är inte den som sitter i luckan.
+= 당신은 그렇게 말하죠. 근데 창구에 앉아 있는 사람은 당신이 아니잖아요.
+HAMMARSKJÖLD: Ioana, får jag fråga en sak?
+= 요아나, 하나 물어봐도 될까요?
+IOANA: Ja.
+= 네.
+HAMMARSKJÖLD: Och hur känns det för dig? Just nu?
+= 그래서 당신은 어떻게 느끼나요? 지금 이 순간?
+IOANA: För mig?
+= 저요?
+HAMMARSKJÖLD: Ja. Inte för Mira. För dig.
+= 네. 미라 말고. 당신.
+IOANA: Jag är rädd. Jag har varit rädd i åtta månader. Jag sover inte. Jag städar andras hem och mitt eget barn är sjukt.
+= 무서워요. 8개월째 무서워요. 잠을 못 자요. 남의 집을 청소하는데 제 아이는 아파요.
+BIGGAN: Gumman…
+= 얘야…
+IOANA: Förlåt. Jag gråter aldrig. Inte framför Mira.
+= 죄송해요. 전 절대 안 울어요. 미라 앞에선.
+MIRA: Mamma, du får gråta. Det sa fröken på förskolan.
+= 엄마, 울어도 돼. 유치원 선생님이 그랬어.
+HAMMARSKJÖLD: Hon har en klok fröken.
+= 현명한 선생님을 두었구나.
+ELSA: Ursäkta, herr Hammarskjöld, varför frågade ni så? Om hur det känns?
+= 실례지만, 함마르셸드 님, 왜 그렇게 물으셨어요? 어떻게 느끼냐고?
+HAMMARSKJÖLD: För att en rädd människa inte kan välja. Först rädslan. Sen besluten.
+= 두려운 사람은 선택을 못 하니까요. 먼저 두려움. 그다음에 결정.
+DANIEL: Det har de inte lärt oss på läkarlinjen.
+= 그건 의대에서 안 가르쳐 줬어요.
+HAMMARSKJÖLD: Inte i FN heller. Jag fick lära mig själv. Ofta för sent.
+= 유엔에서도 안 가르쳐 줬어요. 혼자 배워야 했죠. 대개는 너무 늦게.
+
+# 절정 — FYRTIO GRADER
+MAJA: Daniel, hon skakar.
+= 다니엘, 애가 떨어.
+DANIEL: Jag mäter igen. Fyrtio komma noll.
+= 다시 재 볼게. 40.0도.
+IOANA: Fyrtio! Gud.
+= 40도! 맙소사.
+DANIEL: Mira, titta på mig. Vad heter din gosedjur?
+= 미라, 날 봐. 네 인형 이름이 뭐야?
+MIRA: Lupa. Hon är en varg.
+= 루파. 늑대야.
+DANIEL: Bra. Hon svarar klart. Men nu åker vi. Inte i morgon. Nu.
+= 좋아. 분명하게 대답해. 하지만 이제 가요. 내일 말고. 지금.
+IOANA: Vart?
+= 어디로요?
+DANIEL: Barnakuten på Sachsska. Det är mitt sjukhus. Jag följer med hela vägen.
+= 삭스카 소아 응급실. 제 병원이에요. 끝까지 같이 갈게요.
+IOANA: Och om de frågar efter personnummer?
+= 그리고 개인번호를 물어보면요?
+DANIEL: Då säger vi att hon inte har något. Och de ger henne ett reservnummer. Det gör de varje dag.
+= 그럼 없다고 말하면 돼요. 그럼 임시 번호를 줘요. 매일 하는 일이에요.
+ELSA: Ursäkta, vad är ett reservnummer?
+= 실례지만, 임시 번호가 뭐예요?
+DANIEL: Ett nummer som sjukhuset gör själv. Så att journalen fungerar. Det är inget polisregister.
+= 병원이 직접 만드는 번호야. 진료 기록이 돌아가도록. 경찰 기록 같은 게 아니야.
+IOANA: Och kostar det mycket? Jag har sjuhundra kronor.
+= 그리고 돈 많이 들어요? 저 700크로나 있어요.
+JOHAN: Du är EU-medborgare. Har du ett europeiskt sjukförsäkringskort? Ett blått kort?
+= EU 시민이잖아요. 유럽 건강보험 카드 있어요? 파란 카드?
+IOANA: Det gick ut i somras.
+= 지난여름에 만료됐어요.
+JOHAN: Då tar vi det i morgon. I kväll räknar vi inte pengar. I kväll räknar vi grader.
+= 그럼 그건 내일 해요. 오늘 밤엔 돈을 세지 않아요. 오늘 밤엔 체온을 세요.
+MAJA: Jag har aldrig hört dig säga att vi inte räknar pengar.
+= 우리가 돈을 안 센다는 말을 네가 하는 건 처음 들어.
+JOHAN: Regel två, Maja.
+= 규칙 2번이야, 마야.
+ANTON: Jag beställer en taxi. Den är här om fyra minuter.
+= 택시 부를게. 4분 뒤에 와.
+BIGGAN: Ta filten med er. Och Lupa.
+= 담요 가져가. 그리고 루파도.
+MIRA: Följer vargen med?
+= 늑대도 같이 가?
+DANIEL: Vargen följer med. Vargar är bra på sjukhus.
+= 늑대도 같이 가. 늑대는 병원에서 잘 지내.
+IOANA: Tack. Jag vet inte varför ni gör det här.
+= 고마워요. 왜 이렇게까지 해 주시는지 모르겠어요.
+HAMMARSKJÖLD: Ingen behöver veta varför. Det räcker att man gör det.
+= 아무도 이유를 알 필요는 없어요. 하는 걸로 충분하죠.
+OXENSTIERNA: Gå nu, herr doktor. Snabbt. Jag kan inte bära barn, men jag kan hålla dörren.
+= 이제 가게, 의사 양반. 빨리. 난 아이를 안지는 못해도, 문은 잡아 줄 수 있네.
+DANIEL: Tack, herr Oxenstierna.
+= 고마워요, 옥센셰르나 님.
+
+# 마무리 — I MORGON HITTAR VI EN VÄG
+ELSA: Klockan är tio. Har Daniel ringt?
+= 열 시예요. 다니엘한테 전화 왔어요?
+MAJA: Inte än.
+= 아직.
+ANTON: Jag har gjort en ny cirkel. Med en väg ut.
+= 새 동그라미를 그렸어. 빠져나가는 길이 있는 걸로.
+ELSA: Var går vägen ut?
+= 빠져나가는 길은 어디예요?
+ANTON: Jag vet inte än. Jag har bara ritat pilen.
+= 아직 몰라. 화살표만 그렸어.
+JOHAN: Det är ändå en början. Ett steg i taget.
+= 그래도 시작이야. 한 걸음씩.
+HAMMARSKJÖLD: Ni gjorde rätt i kväll. Ni lyssnade innan ni löste.
+= 오늘 밤 잘하셨어요. 해결하기 전에 들었으니까요.
+ELSA: Och hur känns det för er, herr Hammarskjöld?
+= 그럼 함마르셸드 님은 어떻게 느끼세요?
+HAMMARSKJÖLD: Ha. Du lär dig snabbt. Det känns som hopp. Lite.
+= 하. 빨리 배우는군요. 희망 같아요. 조금.
+BIGGAN: Telefonen! Det är Daniel.
+= 전화! 다니엘이야.
+MAJA: Sätt på högtalaren.
+= 스피커로 해.
+DANIEL: Öroninflammation. Hon har fått antibiotika och sover. Febern går ner.
+= 중이염이야. 항생제 맞고 자고 있어. 열 내려가는 중이야.
+ELSA: Åh, tack gode gud.
+= 아, 다행이다.
+DANIEL: Men hon behöver ett återbesök. Och en vårdcentral. Och vaccinationer. De frågar efter ett riktigt nummer.
+= 근데 재진이 필요해. 그리고 진료소. 그리고 예방접종도. 진짜 번호를 물어봐.
+JOHAN: Då är det mitt jobb i morgon.
+= 그럼 그건 내일 내 일이야.
+OXENSTIERNA: Ni sa ”i morgon” igen. Det ordet har jag hört ofta i det här huset.
+= 또 ‘내일’이라고 했군. 이 집에서 그 말을 자주 듣네.
+ELSA: Här betyder det något, herr Oxenstierna.
+= 여기선 그 말이 뭔가를 뜻해요, 옥센셰르나 님.
+JOHAN: I morgon hittar vi en väg.
+= 내일 길을 찾을 거야.
+NEXT: 1부 8화 — «Ett nummer för Mira»(미라를 위한 번호) — Johan과 Daniel이 Järva의 지원 진료소와 함께 ‘번호 없는 아이’에게 열리는 길을 찾아 Mira가 재진과 예방접종을 받는다. Oxenstierna가 웬일로 조용히 커피만 마신다.
