@@ -122,9 +122,9 @@
 
 | 화 | 제목 | 줄거리 | 표현 초점 |
 |---|---|---|---|
-| 1화 | «Uppsägningen» 해지 통지 | 카페와 사무소 임대 해지. 상가 임차인은 이전 보상만 받을 수 있다는 걸 Johan이 설명하자 모두 말을 잃는다. | lokalhyra, uppsägning, indirekt besittningsskydd, ersättning, flytta |
-| 2화 | «Vem äger huset?» 집은 누구 것인가 | 새 매수자는 누구인가. Maja와 Ingrid가 추적하고, 주민들이 직접 살 수 있다는 계산이 나온다. | köpa, förening, insats, lån, kalkyl |
-| 3화 | «Föreningen» 조합 | 세입자 회의와 조합 결성 투표. ‘너무 비싸다’며 반대하는 이웃도 있다. 반대 의견을 존중하는 법. | rösta, majoritet, stadgar, oro, invändning |
+| 1화 | «Uppsägningen» 해지 통지 | Biggan이 조합원으로 있는 주택조합(BRF)의 이사회가 배관 공사비를 마련하려고 1층 카페와 2층 사무소 상가를 매각하기로 하고 임대를 해지한다. 상가 임차인은 이전 보상만 받는다. 그런데 정관상 매각은 이사회가 아니라 조합원 총회가 정해야 한다는 걸 Johan이 찾아낸다. | lokalhyra, uppsägning, indirekt besittningsskydd, ersättning, flytta |
+| 2화 | «Vem äger huset?» 집은 누구 것인가 | 매수자는 상가를 아파트로 바꾸는 평범한 개발 회사. 이번엔 악당이 없다. Maja와 Ingrid가 조합 장부를 따져, 주민 협동조합이 같은 가격에 상가를 사는 계산을 내놓는다. | köpa, förening, insats, lån, kalkyl |
+| 3화 | «Föreningen» 조합 | 임시 조합원 총회. 카페를 지키면 관리비가 오를까 걱정하는 이웃들(Ulla-Britt 포함)과의 토론 끝에, 총회는 주민 협동조합에 같은 조건으로 살 기회를 준다. | rösta, majoritet, stadgar, oro, invändning |
 | 4화 | «Kronor och kanelbullar» 크로나와 시나몬번 | 동네 전체가 모금 행사를 연다. Swish와 현금, 그리고 1부부터의 의뢰인들. Ellen Key가 등장한다. | insamling, bidra, gemenskap, tack, kontanter |
 | 5화 | «Kön» 대기열 | 대기열 4년 차 Elsa에게 첫 임대 제안이 온다. 하지만 시내에서 한 시간 떨어진 교외다. 받을지, 동네에 남을지. | förstahandskontrakt, erbjudande, tacka ja, tacka nej, pendla |
 | 6화 | «Beslutet» 결정 | Farid의 체류 결정 우편이 온다. Mira는 학교에 들어가고 Noel은 고등학교 졸업 시험을 본다. 1부 의뢰인들의 근황 회차. | uppehållstillstånd, beslut, skolstart, examen, framtid |
