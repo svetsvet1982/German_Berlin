@@ -1,0 +1,170 @@
+@part 3
+@ep 48
+@file Bomba_dacqua
+@title Bomba d'acqua
+@ko 물 폭탄
+@where 4층 나디아의 집 / 옥상 테라스 / 전화
+@level B1~B2
+@setting 11월 13일 금요일 오후 4시~밤 9시, 시민 보호청 주황색 기상 경보
+@cast NADIA | 4층 세입자, 40세
+@cast SAMIR | 나디아의 아들, 13세
+@cast SIMONE | 1층 수리공, 31세
+@cast OPERATORE | 펀드 위탁 관리 회사 콜센터 상담원(전화)
+@note 시민 보호청은 오늘 로마에 주황색 기상 경보를 내렸다. 오후 네 시, 하늘이 검게 변하더니 한 시간 동안 80밀리미터의 비가 쏟아졌다. 로마 사람들이 '물 폭탄'이라고 부르는 비다. 지하차도가 잠기고, 테베레강이 불어나고, 비아 델 칸토네 7번지 4층 천장에서 물이 떨어지기 시작한다. 지붕은 3년째 샌다고, 프랑코가 9월에 말했었다.
+
+# 장면 1 — LA PRIMA GOCCIA
+SAMIR: Mamma! Mamma, vieni! Piove in casa! || 엄마! 엄마, 와 봐! 집 안에 비가 와!
+NADIA: Cosa? Dove? || 뭐? 어디?
+SAMIR: In camera mia! Dal soffitto! Sopra la scrivania! Sui libri! || 내 방! 천장에서! 책상 위에! 책 위에!
+NADIA: Oddio. Togli i libri! Subito! Mettili sul letto! || 세상에. 책 치워! 당장! 침대 위에 올려!
+SAMIR: Il quaderno di matematica è bagnato! E il tema! Il tema stampato della chiave! || 수학 공책 젖었어! 작문도! 열쇠 작문 인쇄한 거!
+NADIA: Il tema lo ristampiamo. Il computer ce l'ha. Prendi il secchio. Quello del bagno. Mettilo sotto. || 작문은 다시 인쇄하면 돼. 컴퓨터에 있잖아. 양동이 가져와. 욕실에 있는 거. 밑에 받쳐.
+SAMIR: Il secchio! Ecco. Plin. Plin. Plin. || 양동이! 여기. 똑. 똑. 똑.
+NADIA: Guarda la macchia. Si allarga. Era piccola stamattina. L'avevo vista. Pensavo fosse umidità. || 저 얼룩 봐. 점점 커져. 아침엔 작았는데. 봤었어. 그냥 습기인 줄 알았어.
+SAMIR: Mamma, anche in cucina! Vicino alla finestra! Gocciola! || 엄마, 부엌에도! 창문 옆에! 물이 떨어져!
+NADIA: Un'altra pentola. La pentola grande. Quella del riso della nonna. || 냄비 하나 더. 큰 냄비. 할머니 쌀 냄비.
+SAMIR: Piove da due posti. Siamo una casa con due cascate. || 두 군데서 비가 와. 우리 집 폭포가 두 개야.
+NADIA: Non è il momento delle battute, Samir. Chiama Simone. Lui è giù, in officina. Lui sa cosa fare. || 농담할 때가 아니야, 사미르. 시모네 아저씨 불러. 아래 가게에 있어. 어떻게 해야 하는지 알 거야.
+SAMIR: Lo chiamo! || 부를게!
+
+# 장면 2 — SIMONE
+SIMONE: Eccomi! Sono salito di corsa. Quattro piani. Senza ascensore. Fammi vedere. || 왔어요! 뛰어 올라왔어요. 4층을. 엘리베이터도 없이. 보여 주세요.
+NADIA: Qui. E in cucina. Da un'ora. E aumenta. || 여기요. 그리고 부엌에도. 한 시간째. 그리고 늘어나요.
+SIMONE: Mmm. Il soffitto è gonfio. L'intonaco si sta staccando. È l'acqua del tetto. Sopra di voi c'è solo il terrazzo e il tetto. Qualcosa lassù non funziona. || 음. 천장이 부풀었어요. 회반죽이 떨어지고 있어요. 지붕 물이에요. 이 위엔 옥상이랑 지붕밖에 없잖아요. 저 위에서 뭔가 고장 났어요.
+NADIA: Le tegole? || 기와가?
+SIMONE: O le tegole, o la grondaia. Se la grondaia è piena di foglie, l'acqua non scende. E entra sotto le tegole. Salgo a vedere. || 기와 아니면 빗물받이요. 빗물받이가 낙엽으로 꽉 차면 물이 안 내려가요. 그럼 기와 밑으로 들어오죠. 올라가 볼게요.
+NADIA: Sul tetto? Con questa pioggia? Sei matto? || 지붕에? 이 빗속에? 미쳤어요?
+SIMONE: Non sul tetto. Sul terrazzo. Dal terrazzo arrivo alla grondaia con le mani. Non salgo sulle tegole. Promesso. Non sono un eroe. Sono un meccanico. || 지붕 말고요. 옥상이요. 옥상에서 손 뻗으면 빗물받이에 닿아요. 기와 위엔 안 올라가요. 약속해요. 저 영웅 아니에요. 수리공이에요.
+SAMIR: Vengo anch'io! Ti tengo la torcia! || 나도 갈래! 손전등 들어 줄게!
+NADIA: Tu resti qui. Con i secchi. È un ordine. || 넌 여기 있어. 양동이랑. 명령이야.
+SAMIR: Ma mamma... || 근데 엄마…
+SIMONE: Ha ragione la mamma, campione. Il tuo lavoro è più importante. Se i secchi si riempiono, la camera si allaga. Tu sei il guardiano dei secchi. || 엄마 말이 맞아, 챔피언. 네 일이 더 중요해. 양동이가 차면 방이 물바다가 돼. 넌 양동이 지킴이야.
+SAMIR: Il guardiano dei secchi. Va bene. Ma voglio un titolo migliore, dopo. || 양동이 지킴이. 알았어. 근데 나중에 더 멋진 이름 줘야 돼.
+NADIA: E io chiamo la società di gestione. Quella del fondo. Il numero è sulla lettera di settembre. «Per guasti e manutenzione». || 그리고 난 관리 회사에 전화할게. 펀드 쪽. 9월 편지에 번호가 있어. «고장 및 유지 보수 문의».
+
+# 장면 3 — IL CALL CENTER
+OPERATORE: «Benvenuto nel servizio clienti di Prime Property Services. Per guasti urgenti, prema uno. Per informazioni sul contratto, prema due...». || «프라임 프로퍼티 서비스 고객 센터입니다. 긴급 고장은 1번. 계약 문의는 2번…»
+NADIA: Uno. Premo uno. Urgente. Urgentissimo. || 1번. 1번 누를게. 긴급. 완전 긴급.
+OPERATORE: «Tutti i nostri operatori sono occupati. Il tempo di attesa stimato è di... venticinque... minuti». || «현재 모든 상담원이 통화 중입니다. 예상 대기 시간은… 25… 분입니다».
+NADIA: Venticinque minuti! Con l'acqua che cade in camera di mio figlio! || 25분! 우리 아들 방에 물이 떨어지는데!
+SAMIR: Mamma, il primo secchio è a metà! || 엄마, 첫 번째 양동이 반 찼어!
+NADIA: Svuotalo nel lavandino! E rimettilo! || 개수대에 비우고 다시 갖다 놔!
+SAMIR: Mamma, mentre aspetti... posso chiederti una cosa? || 엄마, 기다리는 동안… 하나 물어봐도 돼?
+NADIA: Chiedi. Abbiamo venticinque minuti di Vivaldi. || 물어봐. 비발디 25분 있으니까.
+SAMIR: Se a febbraio dobbiamo andare via... dove andiamo? || 2월에 나가야 하면… 우리 어디로 가?
+NADIA: L'avvocata ha mandato la lettera. La disdetta è arrivata tardi. Forse restiamo. Forse fino a quando hai diciotto anni. || 변호사님이 편지를 보냈잖아. 통지가 늦게 왔다고. 남을 수도 있어. 어쩌면 너 열여덟 살 될 때까지.
+SAMIR: Forse. Tutti dicono «forse». || 어쩌면. 다들 «어쩌면»이래.
+NADIA: Perché è la verità. Non ti posso dire «sicuro». Non ti voglio mentire. || 그게 사실이니까. «확실해»라고는 못 해. 너한테 거짓말하기 싫어.
+SAMIR: E se non restiamo? Andiamo dai nonni? All'Esquilino? || 남지 못하면? 할아버지 할머니 댁에 가? 에스퀼리노?
+NADIA: Forse. La casa dei nonni è piccola. Ma c'è sempre posto. La nonna dice che una casa con più persone è più calda. || 그럴지도. 할아버지 할머니 집은 작아. 근데 자리는 늘 있어. 할머니가 사람이 많은 집이 더 따뜻하대.
+SAMIR: E la scuola? Il liceo? I miei amici? Tommaso? || 그럼 학교는? 고등학교는? 내 친구들은? 토마소는?
+NADIA: L'Esquilino non è lontano. Venti minuti di metro. Tommaso lo vedi lo stesso. || 에스퀼리노는 멀지 않아. 지하철로 20분. 토마소는 그래도 볼 수 있어.
+SAMIR: Mamma... papà ha detto una cosa. Ad agosto, a Dacca. Ha detto che se perdiamo la casa, posso andare da lui. A studiare lì. In una scuola internazionale. || 엄마… 아빠가 뭐라고 했어. 8월에, 다카에서. 집을 잃으면 자기한테 와도 된대. 거기서 공부하라고. 국제 학교에서.
+NADIA: ... Ti ha detto questo? || … 아빠가 그렇게 말했어?
+SAMIR: Sì. Non te l'ho detto perché... non volevo che ti arrabbiavi. || 응. 엄마한테 말 안 한 건… 엄마가 화낼까 봐.
+NADIA: «Che ti arrabbiassi». Congiuntivo. E non mi arrabbio. Tuo padre ti vuole bene. A modo suo. E tu cosa vuoi? || «화낼까 봐»는 접속법으로. 그리고 엄마 화 안 내. 아빠는 너를 사랑해. 아빠 방식으로. 그래서 넌 뭘 원해?
+SAMIR: Io voglio restare qui. A Testaccio. Con te. Con Sor Settimio. Con la chiave. In Bangladesh sono «l'italiano». Qui sono Samir. || 난 여기 남고 싶어. 테스타초에. 엄마랑. 세티미오 영감님이랑. 그 열쇠랑. 방글라데시에선 난 «이탈리아 애»야. 여기선 사미르고.
+NADIA: Allora restiamo. Faremo di tutto per restare. Con l'avvocata, con la cooperativa, con i secchi. || 그럼 남자. 남으려고 뭐든 할 거야. 변호사님이랑, 협동조합이랑, 양동이랑.
+SAMIR: Con i secchi? || 양동이랑?
+NADIA: Anche con i secchi. Un buon secchio è una cosa seria. Guarda: è di nuovo pieno. || 양동이랑도. 좋은 양동이는 진지한 거야. 봐. 또 찼다.
+SAMIR: Vado! Il guardiano dei secchi non dorme mai! || 갈게! 양동이 지킴이는 절대 안 자!
+NADIA: E Samir... grazie per avermelo detto. Di papà. Le cose vere si dicono. Anche quando fanno paura. || 그리고 사미르… 아빠 얘기 해 줘서 고마워. 진짜 얘기는 말해야 해. 무서울 때도.
+SAMIR: Me l'ha insegnato Sor Settimio. «Le storie ci sono. Mancano le domande». Io ho fatto la domanda. || 세티미오 영감님이 가르쳐 줬어. «이야기는 있다. 질문이 없을 뿐». 나는 질문을 한 거야.
+> 20분 뒤 || 20분 뒤
+OPERATORE: Prime Property Services, buonasera. Sono Luca. Come posso aiutarla? || 프라임 프로퍼티 서비스, 안녕하세요. 루카입니다. 무엇을 도와드릴까요?
+NADIA: Buonasera. Finalmente. Mi chiamo Nadia Hossain. Via del Cantone 7, quarto piano, interno otto. Piove in casa. Dal tetto. In due stanze. Da un'ora e mezza. || 안녕하세요. 드디어. 나디아 호사인이에요. 비아 델 칸토네 7번지 4층 8호. 집 안에 비가 와요. 지붕에서. 방 두 개에. 한 시간 반째요.
+OPERATORE: Mi dispiace molto, signora. Mi può descrivere il danno? || 정말 죄송합니다, 부인. 피해 상황을 설명해 주시겠어요?
+NADIA: Il soffitto è gonfio. Si stacca l'intonaco. Abbiamo due secchi e una pentola. E i libri di scuola di mio figlio sono bagnati. Mi serve qualcuno. Subito. Stasera. || 천장이 부풀었어요. 회반죽이 떨어지고 있어요. 양동이 두 개랑 냄비 하나 받쳐 놨어요. 우리 아들 교과서가 젖었어요. 사람이 필요해요. 당장. 오늘 밤에.
+OPERATORE: Capisco. Apro una segnalazione. Il numero di ticket è... quattro, sette, otto, due, nove. Un tecnico la contatterà entro cinque-dieci giorni lavorativi. || 알겠습니다. 접수해 드릴게요. 접수 번호는… 4, 7, 8, 2, 9. 기술자가 영업일 기준 5~10일 안에 연락드릴 겁니다.
+NADIA: Cinque-dieci giorni? Lavorativi? Lei mi sta dicendo che per dieci giorni piove nella camera di mio figlio? || 5~10일? 영업일로? 지금 10일 동안 우리 아들 방에 비가 온다는 거예요?
+OPERATORE: Signora, con questo maltempo abbiamo centinaia di segnalazioni. In tutta Roma. I tecnici sono pochi. || 부인, 이런 날씨엔 접수가 수백 건이에요. 로마 전역에서요. 기술자가 부족해서요.
+NADIA: Pochi tecnici. Pochi medici. Pochi netturbini. Pochi autobus. Cosa c'è tanto, in questa città? I fondi! I fondi che comprano i palazzi e poi non riparano il tetto! || 기술자도 부족. 의사도 부족. 환경미화원도 부족. 버스도 부족. 이 도시엔 뭐가 많아요? 펀드요! 건물은 사들이고 지붕은 안 고치는 펀드!
+OPERATORE: Signora, capisco la sua rabbia. Ma io sono solo un operatore. Non posso fare niente di più. || 부인, 화나신 거 이해해요. 근데 저는 상담원일 뿐이에요. 더는 할 수 있는 게 없어요.
+NADIA: Lo so. Lo so che lei non c'entra. Mi scusi. Ma lo scriva. Nella segnalazione. Che il tetto perde da tre anni. Che l'Ente non l'ha mai riparato. Che adesso il proprietario siete voi. Lo scriva. || 알아요. 당신 탓 아닌 거 알아요. 미안해요. 근데 적어 주세요. 접수 내용에. 지붕이 3년째 샌다고. 기관이 한 번도 안 고쳤다고. 이제 소유주는 당신들이라고. 적어 주세요.
+OPERATORE: Lo scrivo. «Infiltrazioni dal tetto, problema segnalato da tre anni, mai risolto». Va bene così? || 적을게요. «지붕 누수, 3년 전부터 신고된 문제, 미해결». 이렇게 하면 될까요?
+NADIA: Va bene. E un'altra cosa. Come si chiama, lei? Luca? || 좋아요. 그리고 하나 더. 이름이 뭐라고 했죠? 루카?
+OPERATORE: Luca. Sì. || 루카요. 네.
+NADIA: Anche il mio vicino si chiama Luca. Fa l'infermiere. Anche lui dice sempre «io non posso fare niente di più». E poi fa di più. Ci pensi. || 우리 이웃도 이름이 루카예요. 간호사예요. 그 사람도 맨날 «더는 할 수 있는 게 없다»고 해요. 그러고는 더 해요. 생각해 봐요.
+OPERATORE: ... Ci provo. Ci provo a chiamare il tecnico reperibile. Per l'emergenza. Non le prometto niente. || … 해 볼게요. 비상 대기 기술자한테 전화해 볼게요. 긴급 건으로요. 약속은 못 드려요.
+
+# 장면 4 — SUL TERRAZZO
+> 옥상. 비가 조금 잦아들었다. 시모네가 손전등을 입에 물고 빗물받이에 손을 넣고 있다. 나디아가 우산을 들고 옆에 서 있다 || 옥상. 비가 조금 잦아들었다. 시모네가 손전등을 입에 물고 빗물받이에 손을 넣고 있다. 나디아가 우산을 들고 옆에 서 있다
+SIMONE: Ecco il problema! La grondaia è piena! Foglie, rami, e... una pallina da tennis! || 문제 찾았다! 빗물받이가 꽉 찼어요! 낙엽, 나뭇가지, 그리고… 테니스공!
+NADIA: Una pallina da tennis? Sul tetto? || 테니스공? 지붕에?
+SIMONE: Del padel, forse. Di Alessio. O di qualche turista del numero nove. || 파델 공일지도요. 알레시오 거. 아니면 9번지 관광객 거거나.
+NADIA: E l'acqua? Adesso scende? || 그럼 물은? 이제 내려가요?
+SIMONE: Guarda! Scende! Senti il rumore nel tubo? Glu glu glu. È la musica più bella dell'anno. || 봐요! 내려가요! 관에서 나는 소리 들려요? 꿀꺽꿀꺽. 올해 들은 음악 중 제일 아름다워요.
+NADIA: Più bella della batteria di Davide? || 다비데 드럼보다 더?
+SIMONE: Molto più bella. Ma non diciamolo a Davide. || 훨씬 더요. 근데 다비데한텐 말하지 마요.
+NADIA: E le tegole? || 기와는요?
+SIMONE: Con la torcia vedo due tegole rotte. Lì. Vicino al camino. Quelle le deve cambiare un tecnico. Con l'imbracatura. Io lassù non salgo. Ho promesso. || 손전등으로 보니 깨진 기와가 두 장 보여요. 저기. 굴뚝 옆에. 그건 기술자가 갈아야 해요. 안전벨트 매고. 난 저기 안 올라가요. 약속했잖아요.
+NADIA: Hai mantenuto la promessa. Bravo. || 약속 지켰네요. 잘했어요.
+SIMONE: Le promesse le mantengo. Il portone libero, il tetto no. Due su due. || 약속은 지켜요. 현관은 비우고, 지붕은 안 올라가고. 두 개 중 두 개.
+NADIA: Simone, posso chiederti una cosa? Visto che siamo qui, sotto la pioggia. || 시모네, 하나 물어봐도 돼요? 이왕 이렇게 빗속에 있으니까.
+SIMONE: Chiedi. La pioggia non ascolta. || 물어봐요. 비는 안 들어요.
+NADIA: L'offerta di Castellani. Il contratto nuovo. Le bici per i turisti. Hai deciso? || 카스텔라니 제안. 새 계약. 관광객 자전거. 정했어요?
+SIMONE: Non ancora. Mancano diciassette giorni. || 아직요. 17일 남았어요.
+NADIA: Se firmi, io ti capisco. Davvero. Hai trentun anni. Un'officina. Le tasse di novembre. || 서명해도 이해해요. 정말로. 서른하나잖아요. 가게도 있고. 11월 세금도 있고.
+SIMONE: Lo so che mi capisci. Lo dicono tutti. Franco, tu, Settimio. Tutti mi capiscono. E più mi capiscono, più è difficile firmare. || 이해하는 거 알아요. 다들 그래요. 프랑코도, 당신도, 세티미오 영감님도. 다들 날 이해해요. 근데 다들 이해해 줄수록 서명하기가 더 어려워요.
+NADIA: Perché? || 왜요?
+SIMONE: Perché se tutti mi capiscono, non ho nessuno contro cui arrabbiarmi. E senza rabbia, firmare è più difficile. È come tradire qualcuno che ti abbraccia. || 다들 이해해 주면 화낼 상대가 없잖아요. 화가 없으면 서명하기가 더 어려워요. 날 안아 주는 사람을 배신하는 것 같아서요.
+NADIA: Allora mi arrabbio io con te, se vuoi. Così firmi più facilmente. || 그럼 내가 화내 줄까요, 원하면. 그럼 서명하기 쉬워지게.
+SIMONE: Ah, ah! No, grazie. Tu arrabbiata fai paura. Ho sentito come parlavi al call center. || 하하! 아뇨, 됐어요. 당신 화나면 무서워요. 콜센터에 말하는 거 들었어요.
+
+# 장면 5 — IL TECNICO
+SAMIR: Mamma! Simone! Scendete! C'è un signore alla porta! Con la cassetta degli attrezzi! Dice che lo manda un certo Luca! || 엄마! 시모네 아저씨! 내려와요! 문 앞에 아저씨가 있어요! 공구함 들고! 루카라는 사람이 보냈대요!
+NADIA: Luca? Il ragazzo del call center? || 루카? 콜센터 그 청년?
+SIMONE: Ha fatto di più. Come il tuo Luca. Te l'avevo detto che i Luca sono così. || 더 했네요. 당신네 루카처럼. 루카라는 사람들은 그렇다니까요.
+SAMIR: È il tecnico reperibile! Dice che può mettere un telo sul tetto stasera. Per la pioggia. E lunedì cambia le tegole. || 비상 대기 기술자래요! 오늘 밤 지붕에 방수포를 덮을 수 있대요. 비 때문에. 그리고 월요일에 기와를 간대요.
+NADIA: Lunedì? Non tra dieci giorni lavorativi? || 월요일? 영업일 10일이 아니고?
+SAMIR: Lunedì. Ha detto: «Il ragazzo del call center ha insistito tanto. Ha detto che c'è una signora molto arrabbiata e un ragazzo con i libri bagnati». || 월요일. 그 아저씨가 그랬어요. «콜센터 청년이 엄청 졸랐어요. 엄청 화난 부인이랑 책이 젖은 아이가 있다고».
+NADIA: Il ragazzo con i libri bagnati. Sei tu. || 책 젖은 아이. 너네.
+SAMIR: Sono io. Il guardiano dei secchi. Ho svuotato sette secchi. Sette! || 나야. 양동이 지킴이. 양동이 일곱 개 비웠어. 일곱 개!
+SIMONE: Sette secchi! Allora il titolo migliore te lo sei guadagnato. Da adesso sei... «il capitano dei secchi». || 양동이 일곱 개! 그럼 더 멋진 이름을 받을 자격이 있네. 이제부터 넌… «양동이 대장»이야.
+SAMIR: Capitano. Va bene. Meglio di guardiano. || 대장. 좋아요. 지킴이보단 낫네.
+NADIA: Simone, prima di tutto le foto. Fotografiamo tutto. Il soffitto, la macchia, i secchi, i libri. La grondaia piena. Le tegole rotte. Per l'avvocata. || 시모네, 그 전에 사진부터. 다 찍어요. 천장, 얼룩, 양동이, 책. 꽉 찬 빗물받이. 깨진 기와. 변호사님 보여 드리게.
+SIMONE: Per l'avvocata? Perché? || 변호사님한테? 왜요?
+NADIA: Perché il fondo dice che vuole «ristrutturare integralmente» il palazzo. E non ripara neanche una grondaia. Le foto dicono la verità. Come dice l'ingegnere del derby: «Io scrivo quello che vedo». || 펀드는 건물을 «전면 리모델링»하겠다고 하면서 빗물받이 하나도 안 고치잖아요. 사진이 진실을 말해 줘요. 더비 날 그 기술사 말처럼. «저는 본 걸 씁니다».
+SIMONE: Una pallina da tennis nella grondaia. Prova numero uno. || 빗물받이 속 테니스공. 증거 1번.
+NADIA: Domanda numero trentotto per l'avvocata: «Chi paga i libri di Samir?». || 변호사님한테 할 질문 38번: «사미르 책값은 누가 내나?».
+
+# 장면 6 — LA SERA
+> 밤 9시. 비가 그쳤다. 4층 부엌. 양동이는 비어 있고, 천장엔 큰 얼룩이 남았다 || 밤 9시. 비가 그쳤다. 4층 부엌. 양동이는 비어 있고, 천장엔 큰 얼룩이 남았다
+SAMIR: Mamma, il telo regge. Non cade più niente. Ho controllato tre volte. || 엄마, 방수포가 버텨. 이제 아무것도 안 떨어져. 세 번 확인했어.
+NADIA: Bravo, capitano. Adesso stampiamo di nuovo il tema. E mettiamo i libri sul termosifone. Ad asciugare. || 잘했어, 대장. 이제 작문 다시 인쇄하자. 그리고 책은 라디에이터 위에 올려놓자. 말리게.
+SAMIR: Il libro di matematica si è gonfiato. Sembra un panino. || 수학책이 부풀었어. 파니노 같아.
+NADIA: Un panino di equazioni. Il nonno sarà contento. Più spesso, più matematica. || 방정식 파니노. 할아버지 좋아하시겠다. 두꺼워질수록 수학이 많아지니까.
+SIMONE: Io vado. Ho lasciato l'officina aperta. Con questa pioggia, se entra l'acqua anche lì, perdo i motorini. || 나 갈게요. 가게를 열어 놓고 왔어요. 이 비에 거기까지 물 들어오면 스쿠터 다 잃어요.
+NADIA: Simone, aspetta. Grazie. Per stasera. Senza di te... || 시모네, 잠깐. 고마워요. 오늘 밤. 당신 없었으면…
+SIMONE: Senza di me, il capitano dei secchi ce l'avrebbe fatta lo stesso. || 나 없었어도 양동이 대장이 해냈을 거예요.
+NADIA: E per l'offerta... qualunque cosa decidi, io ti offro un caffè. Come Franco. || 그리고 제안 건은… 뭘 결정하든, 내가 커피 살게요. 프랑코처럼.
+SIMONE: Lo so. È questo il problema. Siete tutti gentili. || 알아요. 그게 문제예요. 다들 친절하잖아요.
+SAMIR: Simone, una domanda. Se firmi con il fondo, il tetto lo riparano più in fretta? || 시모네 아저씨, 질문. 펀드랑 서명하면 지붕을 더 빨리 고쳐 줘요?
+SIMONE: ... Bella domanda, capitano. Non lo so. Forse il loro tetto sì. Il nostro no. || … 좋은 질문이다, 대장. 모르겠어. 그 사람들 지붕은 빨리 고쳐 줄지도 모르지. 우리 지붕은 아니고.
+SAMIR: Allora il nostro tetto lo ripariamo noi. Con la cooperativa. || 그럼 우리 지붕은 우리가 고치면 되죠. 협동조합으로.
+SIMONE: Con la cooperativa. Hai tredici anni e parli come Loredana. || 협동조합으로. 열세 살이 로레다나 부인처럼 말하네.
+NADIA: Ha imparato dalle liste. Le scrive anche lui adesso. Guarda il frigo. || 목록에서 배웠어요. 이젠 얘도 목록을 써요. 냉장고 봐요.
+SIMONE: «Lista delle cose da fare del capitano dei secchi. Uno: svuotare i secchi. Due: asciugare i libri. Tre: salvare il palazzo». Tre: salvare il palazzo. Così, semplice. || «양동이 대장이 할 일 목록. 1: 양동이 비우기. 2: 책 말리기. 3: 건물 구하기». 3번: 건물 구하기. 이렇게, 간단하게.
+SAMIR: È l'unica che non ho ancora finito. || 그것만 아직 못 끝냈어요.
+
+@points
+- 다급한 지시와 명령형: «Togli i libri! Subito! Mettili sul letto!», «Prendi il secchio», «Svuotalo nel lavandino! E rimettilo!», «Scendete!». tu 명령형 + 대명사(mettili, svuotalo, rimettilo)를 붙여 빠르게.
+- 수리 어휘: soffitto, intonaco, macchia, umidità, infiltrazioni, tegole, grondaia, tubo, camino, imbracatura, telo, cassetta degli attrezzi, tecnico reperibile.
+- 분노와 반복: «Pochi tecnici. Pochi medici. Pochi netturbini. Pochi autobus. Cosa c'è tanto, in questa città? I fondi!» — 'Pochi' 반복을 점점 세게, 마지막 «I fondi!»에서 폭발.
+- 책임 따지기: «Lei mi sta dicendo che...?», «Lo scriva. Che il tetto perde da tre anni», «io non c'entro», «Non posso fare niente di più». 상담원의 말은 사무적으로, 나디아는 감정을 누르다 터뜨리게.
+- 의성어: «Plin. Plin. Plin.»(물방울), «Glu glu glu»(배수관) — 소리 그대로 재미있게.
+- 이중자음: «goccia/gocciola»[ttʃ], «secchio»[kkj], «allaga», «intonaco»(홑), «grondaia»(홑), «pallina»[ll], «tetto», «imbracatura»(홑), «termosifone»(홑).
+- 시모네의 고백 «È come tradire qualcuno che ti abbraccia.»는 빗소리 속에서 조용히.
+
+@notes
+- 'bomba d'acqua' 짧은 시간에 쏟아지는 집중 호우(로마의 흔한 표현). 'allerta meteo arancione' 주황색 기상 경보, 'Protezione Civile' 시민 보호청. 'sottopassi allagati' 침수된 지하차도.
+- 'infiltrazioni' 누수(스며듦), 'intonaco' 회반죽, 'grondaia' 빗물받이, 'tegole' 기와, 'telo' 방수포, 'imbracatura' 안전벨트.
+- 'manutenzione straordinaria' 대수선 — 지붕 같은 구조적 수리는 원칙적으로 소유주 책임이다. 세입자는 긴급한 경우 알린 뒤 수리하고 비용을 청구할 수도 있다. ※ 구체 사안은 변호사 확인.
+- 'segnalazione' 접수·신고, 'ticket' 접수 번호, 'giorni lavorativi' 영업일, 'tecnico reperibile' 비상 대기 기술자.
+- 'non c'entra' «상관없다, 그 사람 탓이 아니다».
+- 'Prime Property Services'는 허구의 관리 회사다.
+- 'non volevo che ti arrabbiassi' «네가 화낼까 봐» — volere che + 접속법 반과거. 사미르의 «che ti arrabbiavi»(직설법)는 구어에서 흔한 실수라 나디아가 고쳐 준다.
+- 'il capitano dei secchi' «양동이 대장» — 사미르의 새 별명.
+
+@next
+3부 49화 — «Giulia si dimette»(줄리아, 사표를 내다) — 11월 셋째 주, 줄리아는 온라인으로 사직서를 제출하고 라니에리와 마주 앉는다. 페데리카와 안드레아에게 어떻게 말할까. 그리고 콜롬보가 마지막으로 꺼내는 제안.
