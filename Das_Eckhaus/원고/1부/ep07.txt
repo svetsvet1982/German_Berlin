@@ -1,0 +1,146 @@
+#nr: 7
+#part: 1부 Frühling (봄)
+#title: Eisern Union!
+#ko: 아이저른 우니온! · 크나이페의 토요일 축구 중계
+#level: A2~B1
+#setting: 4월 하순 토요일 오후 세 시 반. 칼레의 크나이페에서 우니온 베를린의 홈경기를 중계한다(경기와 점수는 허구). 우니온 팬 칼레와 토비, 헤르타 팬인 비네의 아들 핀, 코트부스 출신 파울이 한 화면 앞에 모인다. 표현 초점: 감탄·의견 표현, 축구 어휘, 베를린 사투리.
+#cast: Kalle | 칼레 코발스키 · 58세, 크나이페 주인, 우니온 팬
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Tobi | 토비 피셔 · 31세, 우니온 팬
+#cast: Finn | 핀 로렌츠 · 18세, 비네의 아들, 헤르타 팬
+#cast: Paul | 파울 호프만 · 27세, 코트부스 출신
+#read: 감탄사는 짧고 세게: Tor! [toːɐ̯], Ja! Nein! Los! Mensch! — 모음을 늘이면 응원 구호가 된다: „Toooor!"
+#read: Abseits [ˈapzaɪ̯ts], Elfmeter [ˈɛlfˌmeːtɐ], Schiedsrichter [ˈʃiːtsˌʁɪçtɐ] — ds는 [ts].
+#read: „Eisern Union!" 구호는 두 덩어리로 끊어서: EI-sern | U-ni-ON.
+#read: 베를린 사투리: „Det war nie im Leben Abseits!" „Wat macht der denn da?" — det, wat를 짧게 툭 던진다.
+#note: Tor(골) / Ecke(코너킥, 그리고 가게 이름) / Abseits(오프사이드) / Elfmeter(페널티킥) / Foul / Gelbe Karte / Halbzeit(하프타임) / Anpfiff·Abpfiff(킥오프·종료 휘슬) / Unentschieden(무승부) / Videobeweis(VAR).
+#note: Meinung: Ich finde, … / Meiner Meinung nach … / Das war nie im Leben …! (절대 ~가 아니었어!) / Da hast du recht. / Quatsch! (말도 안 돼!)
+#note: [속어] Scheiße! — 결정적인 실수 장면에서 칼레가 내뱉는다. 어른끼리 축구 볼 때는 흔하지만, 아이 앞이나 격식 장면에서는 쓰지 않는다. 순화형: Mist!
+#note: Union과 Hertha: 베를린의 두 프로 축구팀. 우니온은 동베를린 쾨페닉의 Alte Försterei 경기장, 헤르타는 서쪽 올림피아 경기장을 쓴다. 우니온 팬들이 2008년 직접 경기장 공사에 참여한 이야기는 유명하다.
+#note: [베를린] Det is doch keene Ecke! = Das ist doch keine Ecke! (그건 코너킥이 아니잖아!) keen/keene = kein/keine.
+## Vor dem Anpfiff | 킥오프 전
+Kalle: Bine, ist der Fernseher an? Noch zehn Minuten! || 비네, 텔레비전 켰어? 십 분 남았어!
+Bine: Er ist an, Kalle. Seit einer Stunde. Du hast mich schon dreimal gefragt. || 켜져 있어, 칼레. 한 시간 전부터. 벌써 세 번째 묻는다.
+Kalle: Ick bin nervös. Heute ist ein wichtiges Spiel. || 긴장돼서 그래. 오늘 중요한 경기야.
+Bine: Jedes Spiel ist für dich wichtig. || 너한텐 모든 경기가 다 중요하잖아.
+Kalle: Ja. Und heute ist es noch wichtiger. || 그렇지. 그리고 오늘은 더 중요해.
+Bine: Warum? || 왜?
+Kalle: Weil ick heute ein neues Abo habe. Weißt du, wat det kostet? || 오늘 새로 구독했거든. 그거 얼마나 하는지 알아?
+Bine: Nein. Und ich will es nicht wissen. || 몰라. 그리고 알고 싶지도 않아.
+Kalle: Zu viel. Viel zu viel. Aber ohne Fußball keine Gäste. || 너무 비싸. 너무너무 비싸. 근데 축구 없으면 손님도 없어.
+Tobi: Eisern Union! Hallo, Leute! || 아이저른 우니온! 안녕들 하세요!
+Kalle: Eisern! Tobi, du bist pünktlich. Sehr gut. || 아이저른! 토비, 시간 딱 맞췄네. 좋아.
+Tobi: Bei Union bin ich immer pünktlich. Bei Kunden nicht so. || 우니온 경기엔 늘 시간 지켜요. 손님들한텐 별로지만.
+Bine: Schöner Schal. Ist der neu? || 목도리 예쁘다. 새 거야?
+Tobi: Neu? Der ist zwanzig Jahre alt. Von meinem Opa. Rot und weiß. || 새 거요? 이십 년 된 거예요. 할아버지 거요. 빨강과 하양.
+Kalle: Ein Schal mit Geschichte. So muss det sein. || 역사가 있는 목도리라. 그래야지.
+Tobi: Wie immer ein Pils, Kalle. Und eine Bulette, bitte. || 늘 먹던 대로 필스요, 칼레. 그리고 미트볼 하나요.
+Kalle: Kommt. Wer spielt heute im Tor? || 나간다. 오늘 골키퍼는 누구야?
+Tobi: Der junge. Der Ersatztorwart. Der Erste ist verletzt. || 그 젊은 애요. 후보 골키퍼. 주전이 다쳤대요.
+Kalle: Oh nein. Det wird schwer. || 안 돼. 힘들겠네.
+Bine: Ihr klingt, als ob jemand gestorben ist. Es ist nur Fußball. || 둘이 무슨 누가 죽은 것처럼 말하네. 그냥 축구야.
+## Ein Gast in Blau | 파란 옷의 손님
+Kalle: Nur Fußball? Bine, sag det nie wieder. Nicht in meiner Kneipe. || 그냥 축구? 비네, 다시는 그런 말 하지 마. 내 가게에서는.
+Finn: Hallo, Mama. Hallo, Kalle. Hallo, Tobi. || 안녕, 엄마. 안녕하세요, 칼레 아저씨. 안녕, 토비 형.
+Kalle: Finn! Wat hast du denn da an? || 핀! 너 그게 뭘 입은 거야?
+Finn: Mein Trikot. Hertha. Blau und weiß. || 제 유니폼이요. 헤르타. 파랑과 하양.
+Tobi: In der Ecke? An einem Union-Tag? Das ist mutig. || 이 가게에서? 우니온 경기 날에? 대담하네.
+Finn: Ich bin achtzehn. Ich darf anziehen, was ich will. || 저 열여덟이에요. 입고 싶은 거 입어도 돼요.
+Bine: Da hat er recht. Er ist erwachsen. Leider. || 그 말은 맞아. 다 컸지. 안타깝게도.
+Kalle: Na gut. Aber du sitzt hinten. Neben dem Klo. || 좋아. 대신 뒤쪽에 앉아. 화장실 옆에.
+Finn: Kalle! Das ist unfair. || 칼레 아저씨! 그건 불공평해요.
+Kalle: Det war ein Witz. Setz dich. Willst du was trinken? || 농담이야. 앉아. 뭐 마실래?
+Finn: Eine Cola, bitte. Ich muss heute Abend noch lernen. || 콜라요. 오늘 저녁에 공부해야 돼요.
+Tobi: Lernen? Am Samstag? Wofür? || 공부? 토요일에? 뭐 하려고?
+Finn: Für das Abitur. In drei Wochen ist die Matheprüfung. || 아비투어 준비요. 삼 주 뒤에 수학 시험이에요.
+Bine: Und danach weiß er nicht, was er machen will. Wie alle in seinem Alter. || 그다음엔 뭘 하고 싶은지 몰라. 걔 나이 애들이 다 그렇듯이.
+Finn: Mama, bitte. Nicht jetzt. || 엄마, 제발. 지금 말고.
+Tobi: Warum bist du eigentlich für Hertha, Finn? Deine Mutter wohnt in Neukölln. || 근데 넌 왜 헤르타 팬이야, 핀? 너희 엄마는 노이쾰른 사시잖아.
+Finn: Mein Vater ist aus Charlottenburg. Er hat mich mitgenommen. Ins Olympiastadion. Da war ich sechs. || 우리 아빠가 샤를로텐부르크 출신이거든요. 저를 데려가셨어요. 올림피아 경기장에요. 그때 여섯 살이었어요.
+Bine: Und seitdem ist er verloren. || 그때부터 쟤는 끝난 거지.
+Kalle: Nicht verloren. Nur falsch abgebogen. Det kann man reparieren. || 끝난 게 아니라 길을 잘못 든 거야. 고칠 수 있어.
+Tobi: Da ist der Anpfiff! Es geht los! || 킥오프다! 시작한다!
+## Erste Halbzeit | 전반전
+Kalle: Los, Jungs! Nach vorne! Nach vorne! || 가자, 얘들아! 앞으로! 앞으로!
+Tobi: Gute Flanke! Und … nein. Daneben. || 좋은 크로스! 그리고… 아. 빗나갔네.
+Kalle: Mensch, der war doch frei! Wat macht der denn da? || 이런, 완전 비어 있었는데! 쟤 뭐 하는 거야?
+Finn: Der war nicht frei. Da waren zwei Verteidiger. || 비어 있지 않았어요. 수비수가 둘 있었어요.
+Kalle: Wer hat dich gefragt, Herr Hertha? || 누가 너한테 물어봤니, 헤르타 씨?
+Bine: Kalle, sei nett. Er ist mein Sohn. || 칼레, 친절하게 해. 내 아들이야.
+Tobi: Ecke für Union! || 우니온 코너킥!
+Kalle: Ecke! Det ist meine Lieblingssituation. Ecke für die Ecke! || 코너킥! 내가 제일 좋아하는 상황이지. 에케를 위한 에케!
+Finn: Das sagst du jedes Mal, oder? || 그 말 매번 하시죠?
+Bine: Jedes Mal. Seit fünfundzwanzig Jahren. || 매번. 이십오 년째.
+Tobi: Der Ball kommt … Kopfball … Tor! TOOOR! || 공이 온다… 헤딩… 골! 골이다!
+Kalle: TOR! Eins zu null! Eisern Union! || 골! 1 대 0! 아이저른 우니온!
+Finn: Okay. Das war gut. Das muss ich zugeben. || 좋아요. 그건 잘했네요. 인정할게요.
+Kalle: Hast du det gehört, Bine? Dein Sohn sagt, Union ist gut! || 들었지, 비네? 네 아들이 우니온 잘한대!
+Finn: Ich habe gesagt: Das Tor war gut. Nicht Union. || 골이 좋았다고 했지, 우니온이 좋다고는 안 했어요.
+Tobi: Oh nein. Gegentor. Eins zu eins. || 아 안 돼. 실점. 1 대 1.
+Kalle: Nein, nein, nein! Det war Abseits! Det war nie im Leben ein Tor! || 아니, 아니, 아니야! 저건 오프사이드야! 절대로 골이 아니라고!
+Finn: Das war kein Abseits. Der Verteidiger stand weiter hinten. || 오프사이드 아니었어요. 수비수가 더 뒤에 서 있었어요.
+Kalle: Quatsch! Guck doch hin! || 말도 안 돼! 똑바로 봐!
+Tobi: Kalle … der Videobeweis sagt: kein Abseits. Das Tor zählt. || 칼레… 비디오 판독 결과, 오프사이드 아니래요. 골 인정이에요.
+## Halbzeit | 하프타임
+Paul: Hallo zusammen. Wie steht's? || 안녕하세요, 다들. 몇 대 몇이에요?
+Tobi: Eins zu eins. Halbzeit. || 1 대 1. 하프타임이야.
+Kalle: Wegen dem Schiri. Und wegen dem Video. Und wegen Finn. || 심판 때문에. 그리고 비디오 때문에. 그리고 핀 때문에.
+Finn: Was habe ich gemacht? || 제가 뭘 했는데요?
+Kalle: Du hast gesagt: kein Abseits. Det bringt Unglück. || 오프사이드 아니라고 했잖아. 그게 불운을 부르는 거야.
+Paul: Das kenne ich. Das sagt man auch bei Geburtstagen. Man darf nichts vorher sagen. || 그거 알아요. 생일 때도 그러잖아요. 미리 아무것도 말하면 안 된다고.
+Bine: Paul hat schon was gelernt. Was willst du trinken? || 파울이 벌써 뭘 좀 배웠네. 뭐 마실래?
+Paul: Ein Pils, bitte. Sag mal, wer ist eigentlich für wen hier? || 필스요. 근데 여기 누가 어느 팀 응원해요?
+Tobi: Kalle und ich: Union. Finn: Hertha. Bine: niemand. || 칼레랑 나는 우니온. 핀은 헤르타. 비네는 아무도 안 해.
+Bine: Ich bin für den Frieden. Und für das Bier. || 나는 평화 편이야. 그리고 맥주 편이고.
+Paul: Und ich bin für Energie Cottbus. Seit ich klein bin. || 그리고 저는 에네르기 코트부스요. 어렸을 때부터.
+Kalle: Cottbus! Ein Ost-Verein. Det ist ja fast wie Union. || 코트부스! 동독 팀이네. 그럼 거의 우니온이나 마찬가지지.
+Paul: Fast? Union ist viel größer heute. || 거의요? 요즘 우니온이 훨씬 크잖아요.
+Kalle: Heute, ja. Aber früher war Union ganz klein. Wir haben unser Stadion selbst gebaut. || 요즘은 그렇지. 근데 예전엔 우니온도 아주 작았어. 우리가 경기장을 직접 지었다고.
+Paul: Selbst gebaut? Wie meinst du das? || 직접 지었다고요? 무슨 말이에요?
+Kalle: Zweitausendacht. Die Fans haben mitgearbeitet. Tausende. Am Wochenende, ohne Geld. || 2008년. 팬들이 같이 일했어. 수천 명이. 주말마다, 돈도 안 받고.
+Tobi: Kalle war auch dabei. Erzähl, Kalle. || 칼레도 거기 있었어요. 얘기해 줘요, 칼레.
+Kalle: Drei Samstage. Ick hab Beton gemischt. Mein Rücken tut heute noch weh. || 토요일 세 번. 시멘트 섞었지. 지금도 허리가 아파.
+Paul: Das ist ja verrückt. Und schön. || 그거 미쳤네요. 그리고 멋지고요.
+Finn: Okay. Das ist cool. Das sage ich aber nur einmal. || 좋아요. 그건 멋있네요. 근데 딱 한 번만 말할게요.
+Kalle: Einmal reicht, Finn. Einmal reicht. || 한 번이면 충분해, 핀. 한 번이면 돼.
+## Zweite Halbzeit | 후반전
+Tobi: Weiter geht's! Komm, Union! || 다시 시작이다! 가자, 우니온!
+Kalle: Achtzigste Minute. Immer noch eins zu eins. Ick halt det nich aus. || 80분이야. 아직도 1 대 1. 못 참겠다.
+Paul: Foul! Das war ein Foul! || 반칙! 저거 반칙이에요!
+Tobi: Im Strafraum! Elfmeter! Das muss Elfmeter sein! || 페널티 박스 안이야! 페널티킥! 저건 페널티킥이어야 해!
+Finn: Der ist doch einfach hingefallen. Ganz allein. || 저 선수 그냥 혼자 넘어진 거잖아요.
+Kalle: Finn! Der Mann wurde gefoult! Guck dir sein Bein an! || 핀! 저 선수 반칙당한 거야! 다리 좀 봐!
+Bine: Sein Bein sieht ganz normal aus. || 다리는 아주 멀쩡해 보이는데.
+Tobi: Der Schiri zeigt auf den Punkt! Elfmeter! || 심판이 페널티 지점을 가리킨다! 페널티킥!
+Kalle: Endlich! Endlich mal ein richtiger Schiri! || 드디어! 드디어 제대로 된 심판이네!
+Finn: Vor zehn Minuten war der Schiri noch schlecht. || 십 분 전엔 심판이 별로라고 하셨잖아요.
+Kalle: Vor zehn Minuten war er auch schlecht. Jetzt ist er gut. So ist Fußball. || 십 분 전엔 별로였지. 지금은 좋아. 축구가 원래 그래.
+Paul: Wer schießt? || 누가 차요?
+Tobi: Unser Kapitän. Der trifft immer. Fast immer. || 우리 주장. 늘 넣어. 거의 늘.
+Kalle: Alle leise! Leise! Ick kann nich gucken. || 다들 조용! 조용히! 못 보겠다.
+Bine: Du hast die Augen zu, Kalle. || 너 눈 감고 있잖아, 칼레.
+Tobi: Er läuft an … er schießt … || 달려간다… 찬다…
+Paul: … und der Torwart hält! Er hält den Elfmeter! || …골키퍼가 막았어요! 페널티킥을 막았어요!
+Kalle: Scheiße! Nein! Det gibt's doch nich! || 젠장! 안 돼! 이럴 수가!
+Finn: Ich habe nichts gesagt. Diesmal habe ich gar nichts gesagt. || 저 아무 말도 안 했어요. 이번엔 진짜 아무 말도 안 했어요.
+Bine: Er hat wirklich nichts gesagt, Kalle. Ich habe ihn beobachtet. || 진짜 아무 말도 안 했어, 칼레. 내가 지켜봤어.
+## Abpfiff | 종료 휘슬
+Tobi: Abpfiff. Eins zu eins. Unentschieden. || 종료 휘슬. 1 대 1. 무승부.
+Kalle: Ein Punkt. Nur ein Punkt. Mit einem Elfmeter wären es drei. || 1점. 겨우 1점. 페널티킥만 넣었으면 3점이었는데.
+Paul: Ein Punkt ist besser als null Punkte. || 1점이 0점보단 낫잖아요.
+Kalle: Paul, du redest wie ein Cottbuser. Immer positiv. || 파울, 너 꼭 코트부스 사람처럼 말한다. 늘 긍정적이야.
+Paul: Als Cottbus-Fan muss man positiv sein. Sonst überlebt man nicht. || 코트부스 팬은 긍정적이어야 해요. 아니면 못 살아남아요.
+Finn: Kalle, darf ich etwas sagen? || 칼레 아저씨, 하나 말해도 돼요?
+Kalle: Wenn es nicht über Abseits ist. || 오프사이드 얘기만 아니면.
+Finn: Die Stimmung hier ist besser als bei uns im Olympiastadion. Ehrlich. || 여기 분위기가 올림피아 경기장보다 좋아요. 진짜로요.
+Kalle: Hast du det gehört, Tobi? Der Junge hat Geschmack. || 들었냐, 토비? 이 녀석 안목이 있네.
+Finn: Aber ein Unioner werde ich nie im Leben. Ich komme trotzdem wieder. Zum nächsten Spiel. || 그래도 우니온 팬은 절대 안 될 거예요. 그래도 또 올게요. 다음 경기 때요.
+Bine: Ich bin stolz auf euch. Kein Streit, nur ein bisschen Geschrei. || 너희들 자랑스럽다. 싸움은 없고 고함만 조금.
+Kalle: Ein bisschen? Ick hab keine Stimme mehr. || 조금? 나 목소리가 다 나갔어.
+Paul: Was kostet das Pils, Kalle? || 필스 얼마예요, 칼레?
+Kalle: Drei achtzig. Aber nach so einem Spiel: Det zweite geht aufs Haus. || 3유로 80. 근데 이런 경기 뒤엔 두 번째 잔은 서비스야.
+Tobi: Auch bei einem Unentschieden? || 무승부인데도요?
+Kalle: Gerade bei einem Unentschieden. Wir brauchen Trost. || 무승부니까 더더욱. 우리한텐 위로가 필요하잖아.
+Bine: Finn, du gehst jetzt lernen. Mathe. || 핀, 이제 가서 공부해. 수학.
+Finn: Okay, Mama. Tschüss, Kalle! Und … Eisern Union. Aber nur heute. || 알았어요, 엄마. 안녕히 계세요, 칼레 아저씨! 그리고… 아이저른 우니온. 오늘만이요.
+Kalle: Eisern Union, Finn! Komm bald wieder. Auch in Blau. || 아이저른 우니온, 핀! 또 와. 파란 옷 입고 와도 돼.
