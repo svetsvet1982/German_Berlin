@@ -1,0 +1,169 @@
+@part 3
+@ep 43
+@file Contratto_a_termine
+@title Contratto a termine
+@ko 기간제 계약
+@where 오스티엔세 셰어하우스 부엌 / 동네 세무 상담소 앞
+@level B1~B2
+@setting 10월 17일 토요일 오전 10시~오후 3시
+@cast DAVIDE | 9월 30일 계약 종료, 실업 3주째, 27세
+@cast GIACOMO | 셰어하우스 룸메이트, 프로그래머, 29세
+@cast SIMONE | 수리공, 간이과세 프리랜서, 31세
+@cast CHIARA | 다비데의 여자친구, 부동산 컨설팅 회사 직원, 28세
+@note 9월 30일, 다비데의 6개월 계약은 갱신되지 않았다. 에이전시는 «예산 문제»라고 했다. 그날 이후 다비데는 3주째 아침마다 노트북을 열고 이력서를 보낸다. 그리고 아직 실업 수당 신청을 하지 못했다. 서류가 무서워서. 오늘은 토요일. 자코모가 «규칙 14번: 룸메이트가 서류 앞에서 울면 돕는다»를 새로 만들었다.
+
+# 장면 1 — LA DOMANDA DI DISOCCUPAZIONE
+GIACOMO: Allora. Apri il sito dell'INPS. Entra con lo SPID. Ce l'hai lo SPID? || 자. INPS 사이트 열어. SPID로 로그인하고. SPID 있어?
+DAVIDE: Ce l'ho. Me l'ha fatto fare Sor Settimio. Cioè, Samir a Sor Settimio, e poi Sor Settimio a me. In posta. || 있어. 세티미오 영감님이 만들게 했어. 그러니까, 사미르가 영감님한테, 영감님이 나한테. 우체국에서.
+GIACOMO: Il palazzo di via del Cantone è una scuola di SPID. Entra. || 비아 델 칸토네 건물은 SPID 학교구나. 들어가.
+DAVIDE: Entrato. Oddio. Quante cose. Pensione, maternità, bonus, assegno unico... Dov'è la disoccupazione? || 들어왔다. 세상에. 뭐가 이렇게 많아. 연금, 출산, 보너스, 아동 수당… 실업은 어딨어?
+GIACOMO: Cerca «NASpI». Si chiama così. Nuova Assicurazione Sociale per l'Impiego. || «NASpI» 검색해. 그렇게 불러. 새 고용 사회 보험.
+DAVIDE: NASpI. Sembra il nome di un insetto. || 나스피. 벌레 이름 같네.
+GIACOMO: Un insetto che ti dà soldi. Il migliore degli insetti. Leggi i requisiti. || 돈 주는 벌레지. 벌레 중 최고. 자격 요건 읽어 봐.
+DAVIDE: «Stato di disoccupazione involontaria». Cioè? || «비자발적 실업 상태». 그게 뭐야?
+GIACOMO: Cioè non ti sei licenziato tu. Ti hanno lasciato a casa loro. Il contratto è finito e non te l'hanno rinnovato. È involontario. || 네가 그만둔 게 아니라는 거지. 그쪽에서 내보낸 거. 계약이 끝났고 갱신을 안 해 줬잖아. 그게 비자발적인 거야.
+DAVIDE: Involontario. Sì. Io volevo restare. Loro no. «Problemi di budget». || 비자발적. 맞아. 난 남고 싶었어. 그쪽이 싫었지. «예산 문제».
+GIACOMO: Secondo requisito: «Almeno tredici settimane di contributi negli ultimi quattro anni». Tu quante ne hai? || 두 번째 요건: «최근 4년 동안 보험료 납입 최소 13주». 넌 몇 주야?
+DAVIDE: Sei mesi qui. Più un anno a Reggio, in un call center. Più l'estate al ristorante di mio zio. Ma quella... non so se era in regola. || 여기서 6개월. 레조 콜센터에서 1년. 그리고 삼촌 식당에서 여름. 근데 그건… 정식이었는지 모르겠어.
+GIACOMO: Quella dello zio lasciala stare. Con sei mesi più un anno sei a posto. Settantotto settimane, più o meno. || 삼촌네 건 빼. 6개월에 1년이면 충분해. 대충 78주.
+DAVIDE: E quanto mi danno? || 그럼 얼마 줘?
+GIACOMO: Il settantacinque per cento dello stipendio medio. Più o meno. Tu prendevi millecento netti. Quindi... circa ottocento euro al mese. || 평균 월급의 75퍼센트쯤. 너 실수령 1100이었지. 그럼… 한 달에 800유로쯤.
+DAVIDE: Ottocento. Meno quattrocentocinquanta di affitto. Restano trecentocinquanta. Per mangiare, il telefono, la metro... || 800. 월세 450 빼면. 350 남네. 먹고, 휴대폰, 지하철…
+GIACOMO: E per quanto tempo? Per la metà delle settimane lavorate negli ultimi quattro anni. Diciamo... nove, dieci mesi. Ma diminuisce piano piano. Ogni mese un po' meno. || 그리고 기간은? 최근 4년 동안 일한 주의 절반. 그러니까… 9, 10개월쯤. 근데 조금씩 줄어. 매달 조금씩 덜.
+DAVIDE: Diminuisce? Come la mia autostima. || 줄어든다고? 내 자존감처럼.
+GIACOMO: Come tutto. Clicca su «Invia domanda». || 다 그렇지. «신청서 제출» 눌러.
+DAVIDE: Aspetta. E se sbaglio qualcosa? Se mi chiamano? Se mi mandano la Finanza come allo zio Pasquale? || 잠깐. 뭐 잘못 쓰면? 전화 오면? 파스콸레 삼촌한테처럼 재무경찰 보내면?
+GIACOMO: La Finanza non manda nessuno a chi chiede la NASpI. La Finanza va da chi affitta le stanze in nero. Clicca. || 재무경찰은 나스피 신청하는 사람한테 안 와. 방을 무신고로 세 주는 사람한테 가지. 눌러.
+DAVIDE: Cliccato. Inviata. Oddio. Adesso sono ufficialmente un disoccupato. || 눌렀다. 보냈어. 세상에. 이제 공식적으로 실업자야.
+GIACOMO: Benvenuto nel club. Siamo milioni. || 클럽에 온 걸 환영해. 수백만 명이야.
+
+# 장면 2 — LA STANZA E IL CONTRATTO
+DAVIDE: E il contratto della casa? Ottavi ha risposto alla lettera? Quella dei tre nomi? || 그리고 집 계약은? 오타비가 편지에 답했어? 세 명 이름 들어간 거?
+GIACOMO: Ha risposto ieri. A me. Perché sono quello che abita qui da più tempo. Leggo: «Ho preso atto della vostra richiesta. Provvederò alla registrazione entro il mese di novembre». || 어제 답했어. 나한테. 내가 여기 제일 오래 살았으니까. 읽을게. «귀하들의 요청을 확인했습니다. 11월 중으로 신고하겠습니다».
+DAVIDE: Davvero? Lo registra? Senza aumentare l'affitto? || 정말? 신고한대? 월세 안 올리고?
+GIACOMO: Non parla di aumenti. Forse ha parlato con un avvocato anche lui. E ha capito che con tre persone e una lettera, il rischio è suo. || 인상 얘긴 없어. 그 사람도 변호사랑 얘기했나 봐. 세 명이 편지까지 보냈으니 위험한 건 자기라는 걸 알았겠지.
+DAVIDE: Ivan lo sa? || 이반은 알아?
+GIACOMO: Gliel'ho detto stamattina, quando è tornato dal lavoro. Alle quattro. Ha pianto. Poi ha fatto una torta. Alle quattro e mezza. È in frigo. Nel mio ripiano. || 오늘 새벽 일 끝나고 왔을 때 말해 줬어. 네 시에. 울더라. 그러고는 케이크를 만들었어. 네 시 반에. 냉장고에 있어. 내 칸에.
+DAVIDE: Nel tuo ripiano? E la regola numero quattro? || 네 칸에? 규칙 4번은?
+GIACOMO: Per le torte di Ivan, eccezione. L'ho aggiunta in verde. Regola quattro bis. || 이반 케이크는 예외. 초록색으로 추가했어. 규칙 4-2번.
+DAVIDE: Con la residenza, finalmente, posso avere il medico. E Ivan può rinnovare il permesso. || 주소 이전 되면 드디어 가정의도 생기고. 이반은 체류 허가도 갱신할 수 있고.
+GIACOMO: E io posso smettere di andare a Latina con trentanove di febbre. || 그리고 난 39도 열 나도 라티나 안 가도 되고.
+DAVIDE: Tre lettere, tre nomi. Ivan aveva ragione. Quando protestano tutti, cambiano il menù. || 편지 셋, 이름 셋. 이반 말이 맞았어. 다 같이 항의하면 메뉴가 바뀌어.
+GIACOMO: E adesso tocca al tuo palazzo. Quello vecchio. Via del Cantone. Lì è più difficile. Lì c'è un fondo. Non un Ottavi. || 이제 너희 옛 건물 차례네. 비아 델 칸토네. 거긴 더 어렵지. 거긴 오타비가 아니라 펀드잖아.
+DAVIDE: Lì serve un menù tutto nuovo. Una cooperativa. || 거긴 메뉴를 완전히 새로 짜야 해. 협동조합.
+
+# 장면 3 — LA FILA DAL COMMERCIALISTA
+> 오후 1시. 다비데가 시모네를 만나러 동네 세무 상담소 앞으로 간다. 토요일 반나절 창구 앞에 줄이 서 있다 || 오후 1시. 다비데가 시모네를 만나러 동네 세무 상담소 앞으로 간다. 토요일 반나절 창구 앞에 줄이 서 있다
+SIMONE: Davide! Sei venuto. Grazie. Mi tieni compagnia in fila. Sono il dodicesimo. || 다비데! 왔구나. 고마워. 줄 서는 동안 말동무 좀 해 줘. 열두 번째야.
+DAVIDE: Cosa devi fare? || 뭐 해야 하는데?
+SIMONE: Le tasse. L'acconto di novembre. Io ho la partita IVA forfettaria. Pago il quindici per cento su quello che guadagno. Più i contributi all'INPS. E a novembre devo pagare in anticipo una parte delle tasse dell'anno prossimo. || 세금. 11월 선납분. 나 간이과세 사업자잖아. 버는 것의 15퍼센트를 내. 거기에 INPS 보험료. 그리고 11월엔 내년 세금 일부를 미리 내야 해.
+DAVIDE: In anticipo? Paghi le tasse su soldi che non hai ancora guadagnato? || 미리? 아직 벌지도 않은 돈에 세금을 내?
+SIMONE: Esatto. Lo Stato è ottimista. Pensa che l'anno prossimo guadagnerò come quest'anno. Io no. Con la Fascia Verde, guadagnerò la metà. || 바로 그거야. 나라가 낙관적이거든. 내년에도 올해만큼 벌 거라고 생각해. 난 아니야. 파샤 베르데 때문에 절반 벌 거야.
+DAVIDE: E quanto devi pagare? || 그래서 얼마 내야 돼?
+SIMONE: Il commercialista ha detto duemiladuecento. Entro il trenta novembre. || 세무사가 2,200이래. 11월 30일까지.
+DAVIDE: Il trenta novembre. Come l'offerta di Castellani. || 11월 30일. 카스텔라니 제안이랑 같은 날이네.
+SIMONE: Come l'offerta di Castellani. Il trenta novembre è il giorno più brutto dell'anno. || 카스텔라니 제안이랑 같은 날. 11월 30일은 1년 중 제일 끔찍한 날이야.
+DAVIDE: Ce li hai, duemiladuecento? || 2,200 있어?
+SIMONE: Ne ho millecinquecento. Il resto... se firmo con Castellani, ho uno stipendio fisso da gennaio. E il computer per la diagnosi. E le tasse non mi fanno più paura. || 1,500 있어. 나머지는… 카스텔라니랑 서명하면 1월부터 고정 월급이 생기지. 진단 컴퓨터도. 그럼 세금도 더는 안 무섭고.
+DAVIDE: E se non firmi? || 안 하면?
+SIMONE: Se non firmo, a marzo forse chiudo. E l'acconto di novembre l'avrò pagato per un'officina che non esiste più. || 안 하면 3월에 문 닫을지도 몰라. 그럼 11월 선납 세금은 이미 없어진 가게를 위해 낸 게 되는 거고.
+DAVIDE: Tu dipendente, io disoccupato. Il contratto a termine e la partita IVA. Le due facce della stessa moneta. || 너는 월급쟁이가 될 판이고, 나는 실업자. 기간제 계약이랑 프리랜서. 같은 동전의 양면이네.
+SIMONE: La moneta più leggera d'Europa. || 유럽에서 제일 가벼운 동전이지.
+DAVIDE: Lo sanno gli altri? Del Cantone? Dell'offerta? || 다른 사람들은 알아? 칸토네 사람들? 그 제안?
+SIMONE: L'ho fatta vedere al comitato. Giovedì. C'era anche il nonno di Samir, con la cravatta. Ha letto tutto e ha detto: «È un buon contratto. Per uno solo». || 위원회에 보여 줬어. 목요일에. 사미르 할아버지도 넥타이 매고 왔더라. 다 읽더니 «좋은 계약이네. 한 사람한테는»이라고 하셨어.
+DAVIDE: «Per uno solo». E gli altri cosa hanno detto? || «한 사람한테는». 다른 사람들은 뭐래?
+SIMONE: Franco ha detto: «Se firmi, ti capisco. E ti offro il caffè lo stesso». Loredana non ha detto niente. Ma mi ha guardato. Con gli occhi. Lo strumento della maestra. || 프랑코는 «서명해도 이해한다. 그래도 커피는 계속 사 줄게»라고 했어. 로레다나 부인은 아무 말도 안 했어. 근데 날 봤지. 눈으로. 선생님의 도구로.
+DAVIDE: E tu? || 그래서 넌?
+SIMONE: Io ho tempo fino al trenta novembre. E ho tre supplì di debito con Giulia. Cioè, lei con me. È complicato. || 난 11월 30일까지 시간이 있어. 그리고 줄리아랑 수플리 세 개 빚이 있고. 아니, 걔가 나한테. 복잡해.
+
+# 장면 4 — CHIARA
+> 오후 2시 반, 셰어하우스. 초인종 || 오후 2시 반, 셰어하우스. 초인종
+CHIARA: Ciao! Ho portato il pranzo. Cioè, la merenda. Sono le due e mezza. A Roma che cosa si mangia alle due e mezza? || 안녕! 점심 가져왔어. 아니, 간식. 두 시 반이잖아. 로마에선 두 시 반에 뭘 먹어?
+DAVIDE: Alle due e mezza a Roma si mangia ancora il pranzo. A Milano già la cena? || 로마에선 두 시 반이면 아직 점심이지. 밀라노는 벌써 저녁이야?
+CHIARA: A Milano alle due e mezza si lavora. Ecco: pizza bianca con la mortadella. Me l'ha consigliata una certa Giulia. Al Cantone. || 밀라노에선 두 시 반엔 일하지. 자: 모르타델라 얹은 흰 피자. 칸토네에서 줄리아라는 분이 추천해 줬어.
+DAVIDE: Sei passata dal Cantone? || 칸토네 들렀어?
+CHIARA: Sono passata a prendere un caffè. Al banco. Un euro e trenta. Il barista mi ha riconosciuto. Ha detto: «Ah, la milanese del Campari». E mi ha fatto lo sconto. Un euro e venti. || 커피 마시러 들렀어. 서서. 1유로 30. 바 주인이 날 알아보더라. «아, 캄파리 밀라노 아가씨» 하더니 할인해 줬어. 1유로 20.
+DAVIDE: Franco ti ha fatto lo sconto? In trent'anni non l'ha mai fatto a nessuno! || 프랑코가 할인을 해 줬어? 30년 동안 아무한테도 안 해 줬는데!
+CHIARA: Forse perché gli ho detto una cosa. || 내가 뭘 좀 말해서 그런가 봐.
+DAVIDE: Che cosa? || 뭘?
+CHIARA: Che ho chiesto al mio capo di togliermi dal dossier di via del Cantone. Che non volevo più lavorarci. || 우리 상사한테 비아 델 칸토네 서류철에서 빼 달라고 했다고. 더는 그 일 하기 싫다고.
+DAVIDE: Davvero? E il capo? || 정말? 상사는?
+CHIARA: Ha detto di no. Ha detto: «Sei la persona che conosce meglio la zona». Gli ho detto che proprio per questo non posso. Ha detto che ci pensa. || 안 된대. «네가 그 지역을 제일 잘 안다»면서. 그래서 바로 그래서 못 하겠다고 했어. 생각해 보겠대.
+DAVIDE: Chiara... rischi il lavoro? || 키아라… 일자리 위험한 거 아니야?
+CHIARA: Un po'. Il mio contratto è a tempo indeterminato. Non mi possono mandare via per questo. Ma possono rendermi la vita difficile. Spostarmi. Non darmi più progetti. || 조금. 난 정규직이야. 이걸로 날 내보낼 순 없어. 근데 생활을 어렵게 만들 순 있지. 부서를 옮기거나. 프로젝트를 안 주거나.
+DAVIDE: Non dovevi farlo. Per me. || 안 그래도 됐는데. 나 때문에.
+CHIARA: Non l'ho fatto per te. L'ho fatto per me. Ogni volta che aprivo il file, vedevo «piano terra, bar, 112 metri quadri». E pensavo al barista che mi chiama «la milanese del Campari». || 너 때문에 한 거 아니야. 나 때문에 한 거야. 파일 열 때마다 «1층, 바, 112제곱미터»가 보였어. 그리고 날 «캄파리 밀라노 아가씨»라고 부르는 바 주인 생각이 났지.
+GIACOMO: Scusate se interrompo. Io sono Giacomo. Il coinquilino. Quello delle regole. || 끼어들어서 미안해요. 자코모예요. 룸메이트. 규칙 만든 사람.
+CHIARA: Ah, il famoso Giacomo! Regola numero due: silenzio dopo le dieci. Davide mi ha parlato di te. Al telefono. Dopo le dieci. A bassa voce. || 아, 그 유명한 자코모! 규칙 2번: 열 시 이후 정숙. 다비데가 당신 얘기 했어요. 전화로. 열 시 넘어서. 작은 목소리로.
+GIACOMO: Almeno a bassa voce. Progressi. Piacere, Chiara. C'è una torta di Ivan in frigo. Nel mio ripiano. Prendetene un pezzo. È un'eccezione. || 작은 목소리로라도. 발전이네요. 반가워요, 키아라. 냉장고에 이반 케이크 있어요. 내 칸에. 한 조각씩 먹어요. 예외예요.
+
+# 장면 5 — UN'IDEA DA DISOCCUPATO
+CHIARA: E tu, Davide? Adesso? Senza lavoro? Cosa fai tutto il giorno? || 너는, 다비데? 지금은? 일 없이? 하루 종일 뭐 해?
+DAVIDE: Mando curriculum. Trenta in tre settimane. Due risposte. Una per uno stage non pagato. Una per vendere assicurazioni porta a porta. || 이력서 보내. 3주 동안 서른 개. 답장 두 개. 하나는 무급 인턴. 하나는 방문 보험 판매.
+CHIARA: Porta a porta? Come negli anni cinquanta? || 방문 판매? 50년대처럼?
+DAVIDE: Come negli anni cinquanta. Ma con l'app. || 50년대처럼. 근데 앱으로.
+GIACOMO: E il resto del tempo? || 나머지 시간엔?
+DAVIDE: Il resto del tempo... penso al palazzo. Al Cantone. Alla cooperativa. Loro hanno bisogno di soldi. Tanti. E io so fare una cosa sola: scrivere frasi per convincere la gente a dare soldi. || 나머지 시간엔… 건물 생각을 해. 칸토네. 협동조합. 그 사람들은 돈이 필요해. 엄청. 그리고 내가 할 줄 아는 건 딱 하나야. 사람들이 돈을 내게 설득하는 문장을 쓰는 거.
+CHIARA: Una campagna. Una raccolta fondi. || 캠페인. 모금 운동.
+DAVIDE: Esatto. Sto scrivendo delle frasi. Senti questa: «Salva il Cantone. Due milioni di caffè non si cancellano con una lettera». || 바로 그거야. 문장을 쓰는 중이야. 이거 들어 봐. «칸토네를 구하라. 커피 2백만 잔은 편지 한 장으로 지워지지 않는다».
+GIACOMO: Non è male. || 나쁘지 않네.
+DAVIDE: Oppure: «Una casa non finisce quando le persone vanno via. Finisce quando nessuno si ricorda chi ci abitava». È di Samir. Il ragazzo del quarto piano. L'ha letta a scuola. || 아니면: «집은 사람들이 떠날 때 끝나는 게 아니다. 거기 누가 살았는지 아무도 기억하지 못할 때 끝난다». 사미르 거야. 4층 그 애. 학교에서 읽었어.
+CHIARA: Questa è bellissima. Questa fa piangere. || 이거 정말 좋다. 이건 울린다.
+DAVIDE: Lo so. Un ragazzo di tredici anni scrive meglio di me. E io sono disoccupato. || 알아. 열세 살짜리가 나보다 잘 써. 그리고 난 실업자고.
+CHIARA: No. Tu sei uno che sa riconoscere una frase che fa piangere. È un lavoro anche questo. || 아니. 넌 사람을 울리는 문장을 알아보는 사람이야. 그것도 일이야.
+GIACOMO: E io so fare i siti. Gratis, per una cooperativa. Sabato e domenica, quando non lavoro con l'India. || 그리고 난 사이트를 만들 줄 알아. 협동조합이면 공짜로. 인도랑 일 안 하는 토요일이랑 일요일에.
+DAVIDE: Davvero? Tu? || 정말? 네가?
+GIACOMO: Regola numero quindici: «Se un coinquilino ha un'idea buona, si aiuta». L'ho appena inventata. In verde. || 규칙 15번: «룸메이트가 좋은 아이디어가 있으면 돕는다». 방금 만들었어. 초록색으로.
+DAVIDE: E il nome del sito? Se facciamo una raccolta fondi, serve un nome. Corto. Che si ricorda. || 그리고 사이트 이름은? 모금을 하려면 이름이 필요해. 짧고. 기억에 남는.
+CHIARA: «Salva il Cantone». Punto it. || «칸토네를 구하라». 닷 잇.
+GIACOMO: Troppo triste. Sembra un ospedale. «Salva». Come se fosse malato. || 너무 슬퍼. 병원 같아. «구하라». 아픈 사람처럼.
+DAVIDE: «Il Cantone resta». Come ha scritto Franco sulla lavagna. Senza punto di domanda. || «칸토네는 남는다». 프랑코가 칠판에 쓴 것처럼. 물음표 없이.
+CHIARA: «Il Cantone resta». Mi piace. È una promessa. Non una richiesta di aiuto. || «칸토네는 남는다». 좋다. 약속이잖아. 도와 달라는 부탁이 아니라.
+GIACOMO: Ilcantoneresta punto it. Controllo se è libero... È libero. Lo compro? Costa dieci euro all'anno. || 일칸토네레스타 닷 잇. 비어 있나 확인해 볼게… 비어 있어. 살까? 1년에 10유로야.
+DAVIDE: Dieci euro. Io sono disoccupato. || 10유로. 나 실업자야.
+GIACOMO: Lo pago io. Me li ridai con la prima NASpI. || 내가 낼게. 첫 나스피 받으면 갚아.
+CHIARA: Aspettate. Prima di raccogliere soldi, la cooperativa deve esistere. Con uno statuto, un notaio, un conto corrente. Altrimenti i soldi a chi vanno? Lo dico per esperienza. Di lavoro. || 잠깐. 돈을 모으기 전에 협동조합이 먼저 있어야 해. 정관, 공증인, 은행 계좌까지. 안 그러면 돈이 누구한테 가? 경험상 하는 말이야. 일하면서.
+DAVIDE: Hai ragione. Prima la cooperativa. Poi la campagna. Un passo alla volta. Lo dice anche l'avvocata. || 맞아. 먼저 협동조합. 그다음에 캠페인. 한 걸음씩. 변호사님도 그렇게 말해.
+GIACOMO: Il dominio lo compro lo stesso. Prima che lo prenda il fondo. Per fare un sito «Il Cantone resta... come lobby». || 도메인은 그래도 살게. 펀드가 채 가기 전에. «칸토네는 남는다… 로비로»라는 사이트를 만들기라도 하면 어떡해.
+CHIARA: Ah, ah! Il fondo non è così cinico. || 하하! 펀드가 그렇게까지 냉소적이진 않아.
+GIACOMO: Tu lavori per loro. Lo sai meglio di noi. || 넌 그쪽 일을 하잖아. 우리보다 잘 알겠지.
+
+# 장면 6 — LA VERITÀ DI CHIARA
+CHIARA: Davide, posso dirti una cosa? Una cosa che non è nel dossier. Che posso dire. || 다비데, 하나 말해도 돼? 서류철에 없는 거. 말해도 되는 거.
+DAVIDE: Se puoi dirla. Non voglio che rischi niente. || 말해도 되는 거라면. 네가 뭘 걸게 되는 건 싫어.
+CHIARA: È una cosa che sanno tutti nel mio lavoro. Non è un segreto. I fondi immobiliari hanno degli investitori. Banche, assicurazioni, fondi pensione. E gli investitori vogliono i soldi indietro. Con gli interessi. Entro una data. || 우리 업계에선 다 아는 얘기야. 비밀 아니고. 부동산 펀드엔 투자자가 있어. 은행, 보험사, 연기금. 그리고 투자자들은 돈을 돌려받고 싶어 하지. 이자랑 같이. 정해진 날짜까지.
+DAVIDE: E quindi? || 그래서?
+CHIARA: E quindi un fondo non può aspettare per sempre. Anche se dice «possiamo aspettare». Se un palazzo resta pieno di inquilini che non vanno via, con le cause, con i ritardi... a un certo punto per il fondo diventa più conveniente venderlo. Anche a meno. || 그래서 펀드는 영원히 기다릴 수 없어. «기다릴 수 있다»고 말해도. 건물에 안 나가는 세입자들이 가득하고, 소송에, 지연에… 어느 순간엔 펀드한테 그 건물을 파는 게 더 이득이 돼. 더 싸게라도.
+DAVIDE: Venderlo. A chi? || 팔아? 누구한테?
+CHIARA: A chi lo compra. Un altro fondo. O... chiunque abbia i soldi. || 사는 사람한테. 다른 펀드. 아니면… 돈 있는 누구든.
+DAVIDE: Anche una cooperativa? || 협동조합도?
+CHIARA: Io non ho detto questo. Io ho detto una cosa che sanno tutti. || 난 그렇게 말 안 했어. 다 아는 얘기를 했을 뿐이야.
+DAVIDE: L'avvocata Sabatini ha detto la stessa cosa. «Il tempo, per un fondo, costa». || 사바티니 변호사도 똑같은 말을 했어. «펀드에게도 시간은 돈이 든다».
+CHIARA: Allora la tua avvocata è brava. E io non ho detto niente di nuovo. Mangia la pizza. Si fredda. || 그럼 네 변호사가 유능한 거네. 그리고 난 새로운 말은 하나도 안 했어. 피자 먹어. 식는다.
+DAVIDE: La mangio. Ma prima... grazie. Per il dossier. Per lo sconto di Franco. Per tutto. || 먹을게. 근데 먼저… 고마워. 서류철 일도. 프랑코 할인도. 전부.
+CHIARA: Lo sconto di Franco non è merito mio. È merito del Campari. || 프랑코 할인은 내 덕이 아니야. 캄파리 덕이지.
+GIACOMO: Scusate, sono le tre. Io ho una call. Con il Giappone. Di sabato. Non chiedete. Parlate piano, per favore. || 미안한데 세 시야. 나 화상 회의 있어. 일본이랑. 토요일에. 묻지 마. 조용히 얘기해 줘.
+DAVIDE: Regola numero due. Anche di giorno? || 규칙 2번. 낮에도?
+GIACOMO: Regola numero due bis. In verde. Per le call con il Giappone. || 규칙 2-2번. 초록색으로. 일본이랑 화상 회의할 때용.
+
+@points
+- 서류·제도 질문: «Cosa vuol dire "involontaria"?», «Tu quante ne hai?», «E quanto mi danno?», «E per quanto tempo?», «Ce li hai, duemiladuecento?». 질문 → 짧은 대답 → 다음 질문의 빠른 리듬.
+- 고용 형태 어휘: contratto a termine, tempo indeterminato, stage non pagato, partita IVA forfettaria, acconto, contributi, disoccupazione involontaria, NASpI, requisiti, settimane di contributi.
+- 불안의 표현: «E se sbaglio qualcosa? Se mi chiamano? Se mi mandano la Finanza?», «Adesso sono ufficialmente un disoccupato», «rischi il lavoro?». se로 시작하는 걱정 질문을 점점 빠르게.
+- 퍼센트·금액: «il settantacinque per cento», «il quindici per cento», «duemiladuecento», «millecinquecento», «settantotto settimane», «centododici metri quadri».
+- 이중자음: «disoccupazione», «assicurazione», «acconto», «anticipo»(홑), «commercialista», «interessi», «stage»(영어 [steidʒ]), «moneta»(홑).
+- 대구의 문장: «Tu dipendente, io disoccupato. Il contratto a termine e la partita IVA. Le due facce della stessa moneta.» — 리듬을 살려 끊어서.
+- 키아라의 조심스러운 말투: «Io non ho detto questo. Io ho detto una cosa che sanno tutti.» — 낮고 또박또박, 의미를 담아서.
+
+@notes
+- 'NASpI' 이탈리아의 실업 급여. 비자발적 실업, 최근 4년 동안 일정 기간 이상의 보험료 납입이 요건이며, 금액은 평균 임금의 약 75%에서 시작해 점차 줄어든다. 'assegno unico' 아동 수당. ※ 금액·요건은 시점별 확인.
+- 'partita IVA forfettaria' 간이과세 프리랜서 제도(매출 상한 이하에서 단일 세율, 창업 초기 감면). 'acconto' 다음 해 세금 선납(6월·11월). 'commercialista' 세무사.
+- 'prendere atto' «확인하다, 인지하다»(공문 표현). 'provvedere a' «~를 처리하다».
+- 'porta a porta' 방문 판매. 'stage non pagato' 무급 인턴 — 청년 노동 문제의 상징.
+- 'fondi pensione' 연기금, 'investitori' 투자자. 부동산 펀드는 정해진 기한 안에 투자자에게 수익을 돌려줘야 해서 무한정 기다릴 수 없다.
+- 'raccolta fondi' 모금, 'campagna' 캠페인 — 4부 70화 모금 행사의 씨앗.
+- 'dominio' (인터넷) 도메인. 'notaio' 공증인 — 협동조합 설립엔 공증 정관이 필요하다.
+- 'pizza bianca con la mortadella' 로마의 대표 간식(14화 줄리아의 최애).
+
+@next
+3부 44화 — «Il derby d'autunno»(가을 더비) — 10월 25일 일요일 저녁, 칸토네. 같은 의자, 같은 목도리, 같은 마우리치오. 그런데 오늘은 바 안에 카스텔라니가 보낸 '감정사'가 손님인 척 앉아 있다.
