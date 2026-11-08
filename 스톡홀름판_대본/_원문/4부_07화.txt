@@ -1,0 +1,269 @@
+PART: 4
+EP: 7
+TITLE: Midsommar
+SUBTITLE: 하지 · 재판 7(휴정), 로슬라겐의 여름 별장
+META: 대사 120턴 · 난이도 B2 · 배경: 6월 25일 하지 전야(midsommarafton) 낮부터 백야의 밤까지, Roslagen의 Biggan 사촌 별장
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: LINNÉ | 부활한 식물학자 (1707–1778)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: FARID | 건설 노동자 · 23세 (가상)
+CAST: NOEL | 17세 · 고등학생 (가상)
+CAST: INGA | Biggan의 사촌 · 별장 주인 (가상)
+NOTE: ※ 하지 전야(midsommarafton)는 스웨덴에서 크리스마스만큼 큰 명절입니다. 사람들은 시골 별장(sommarstuga)에 모여 꽃으로 장식한 기둥(midsommarstång)을 세우고 그 둘레에서 «Små grodorna»(작은 개구리들)에 맞춰 개구리 춤을 춥니다. 청어 절임과 햇감자, 딜, 딸기를 먹고, 짧은 술(nubbe)을 마시며 ‘스납스 노래(snapsvisa)’를 부릅니다. 결혼하지 않은 사람이 일곱 종류의 꽃을 꺾어 베개 밑에 두면 미래의 배우자 꿈을 꾼다는 풍습도 있습니다. 재판은 휴정 중이고, 이 화는 사건 없이 쉬어 가는 회차입니다. 꽃마다 이름을 붙인 분류학의 아버지 Linné가 잠시 들릅니다. 문법 초점: 묘사의 형용사와 비교급, 명령문과 권유(låt oss, ska vi). 표현 초점: midsommar, sill, jordgubbar, sommarstuga, nubbe.
+
+# 도입 — BILEN TILL ROSLAGEN
+BIGGAN: Alla i bilen? Åtta personer i en minibuss. Och en kansler i baksätet.
+= 다들 탔어? 미니버스에 여덟 명. 그리고 뒷좌석에 재상 한 명.
+OXENSTIERNA: En kansler i baksätet. Det har inte hänt sedan 1632.
+= 뒷좌석의 재상이라. 1632년 이후로 처음이군.
+ELSA: Vart åker vi, egentligen?
+= 근데 우리 어디 가요?
+BIGGAN: Till Inga. Min kusin. Hon har en stuga i Roslagen. Röd, med vita knutar. Som i en barnbok.
+= 잉아한테. 내 사촌. 로슬라겐에 오두막이 있어. 빨간색에, 모서리는 하얀. 그림책에 나오는 것처럼.
+ANTON: Och utan wifi, sa du?
+= 그리고 와이파이 없다고 했지?
+BIGGAN: Utan wifi. Utan rättegång. Utan Nordhem. I tre dagar.
+= 와이파이 없이. 재판 없이. 노르드헴 없이. 사흘 동안.
+JOHAN: Rätten har ajournerat till den nionde augusti. Vi har sex veckor utan att tänka på det.
+= 재판부가 8월 9일까지 휴정했어. 6주 동안 그 생각 안 해도 돼.
+MAJA: Jag kommer att tänka på det hela tiden.
+= 난 계속 생각할 거야.
+INGRID: Jag också. Men vi kan försöka tänka på det långsammare.
+= 나도요. 근데 좀 더 천천히 생각하려고 노력해 볼 수는 있죠.
+DANIEL: Ni båda vittnade. Det är gjort. Det kan ni inte ändra nu.
+= 둘 다 증언했잖아. 끝났어. 이제 바꿀 수 없어.
+FARID: Och jag vittnade. Med Britt i väntrummet och Ingrid på tredje raden. Jag tittade inte på Rehnberg en enda gång.
+= 그리고 저도 증언했어요. 대기실엔 브리트, 세 번째 줄엔 잉리드. 렌베리는 한 번도 안 쳐다봤어요.
+NOEL: Och jag har fått sommarjobb. På Biggans. Hela juli. Med lönebesked.
+= 그리고 전 여름 아르바이트 구했어요. 비간스에서. 7월 내내. 급여 명세서 받고.
+ELSA: Maja, hur gick det på tisdag? Med Brandt? Du har inte sagt något.
+= 마야, 화요일엔 어땠어요? 브란트랑? 아무 말도 안 했잖아요.
+MAJA: Han frågade om videon. Jag sa: ”Räkna fingrarna.” Göran skrattade. Domaren också.
+= 영상에 대해 물었어. 난 ‘손가락을 세어 보세요’라고 했지. 예란 씨가 웃었어. 판사님도.
+NOEL: Det var min mening!
+= 그건 제 문장이에요!
+MAJA: Jag lånade den. Utan att fråga. Förlåt.
+= 빌려 썼어. 묻지도 않고. 미안.
+NOEL: Behåll den.
+= 가지세요.
+BIGGAN: Där. Den röda stugan. Och Inga på trappan. Med en sill i varje hand.
+= 저기. 빨간 오두막. 그리고 계단에 잉아. 양손에 청어 한 마리씩 들고.
+INGA: Birgitta! Och… nio personer? Du sa sex!
+= 비르기타! 그리고… 아홉 명? 여섯이라며!
+BIGGAN: Det blev några till. Det blir alltid några till.
+= 몇 명 늘었어. 늘 몇 명 늘잖아.
+OXENSTIERNA: Och en av dem är kansler. Det borde räknas dubbelt.
+= 그리고 그중 하나는 재상이오. 두 명으로 쳐야지.
+INGA: Det är midsommar. Det finns alltid plats för några till.
+= 하지잖아. 늘 몇 명 더 앉을 자리는 있지.
+
+# 장면 1 — SILL OCH SNAPSVISOR
+INGA: Sill. Nypotatis med dill. Gräddfil. Gräslök. Västerbottensostpaj. Och jordgubbar till efterrätt.
+= 청어. 딜 넣은 햇감자. 사워크림. 차이브. 베스테르보텐 치즈 파이. 그리고 디저트로 딸기.
+FARID: Det är samma sill som på julafton?
+= 크리스마스이브 때랑 같은 청어예요?
+BIGGAN: Det är samma sill som på påsk, jul och midsommar. Svenskar äter samma mat på alla högtider. Bara med olika sånger.
+= 부활절, 크리스마스, 하지 때 다 같은 청어야. 스웨덴 사람들은 명절마다 같은 음식을 먹어. 노래만 다르지.
+ELSA: I Kiruna äter vi sill på midsommar också. Fast i snöstorm, ibland.
+= 키루나에서도 하지에 청어를 먹어요. 가끔은 눈보라 속에서.
+OXENSTIERNA: På min tid åt vi strömming. Den var billigare. Och den luktade värre.
+= 내 시절엔 발트 청어를 먹었지. 더 쌌어. 그리고 냄새가 더 고약했고.
+INGA: Och nubbe. Vem vill ha?
+= 그리고 누베. 누가 마실래?
+DANIEL: Inte jag. Jag har jour i morgon.
+= 난 안 돼. 내일 당직이야.
+ANTON: Inte jag heller. Jag dricker inte sedan januari. Det hör till sjukskrivningen.
+= 나도 안 돼. 1월부터 안 마셔. 병가의 일부야.
+MAJA: Jag tar en. Bara en. Det är tradition.
+= 난 한 잔. 딱 한 잔. 전통이니까.
+INGRID: Och jag. För Systembolaget. De förtjänar en kund i dag.
+= 그리고 나도. 시스템볼라겟을 위해. 오늘은 손님이 하나 있을 자격이 있지.
+INGA: Då sjunger vi. ”Helan går.” Alla måste sjunga, även de som inte dricker.
+= 그럼 노래하자. ‘헬란 고르.’ 다들 불러야 해, 안 마시는 사람도.
+ELSA: ”Helan går, sjung hopp faderallan lallan lej…”
+= ‘헬란 고르, 노래하자 호프 파데랄란 랄란 레이…’
+FARID: Vad betyder det?
+= 그게 무슨 뜻이에요?
+ELSA: Ingenting. Det är meningen. Det är en snapsvisa.
+= 아무 뜻 없어. 원래 그런 거야. 스납스 노래거든.
+OXENSTIERNA: Ett land som sjunger nonsens för att våga dricka. Jag förstår mycket nu.
+= 마실 용기를 내려고 말도 안 되는 노래를 부르는 나라라. 이제 많은 게 이해되는군.
+NOEL: Det är som Kalle Anka. Samma varje år, ingen vet varför.
+= 칼레 앙카 같네요. 매년 똑같은데, 아무도 이유를 몰라요.
+INGA: Exakt. Det är därför det är svenskt.
+= 바로 그거야. 그래서 스웨덴다운 거지.
+JOHAN: Det här är första midsommaren på fyra år som jag inte firar med pappa.
+= 4년 만에 아버지 없이 보내는 첫 하지야.
+BIGGAN: Hur firade ni?
+= 어떻게 보냈었는데?
+JOHAN: På Djurgården. Med klienter. Pappa höll tal. Alla skrattade på rätt ställen. Jag också.
+= 유르고르덴에서. 의뢰인들이랑. 아버지가 연설하셨지. 다들 맞는 데서 웃었어. 나도.
+MAJA: Och nu?
+= 그럼 지금은?
+JOHAN: Nu sitter jag på en trappa i Roslagen och äter sill med en sjuttonåring och en kansler. Och jag skrattar när det är roligt.
+= 지금은 로슬라겐의 계단에 앉아 열일곱 살이랑 재상이랑 청어를 먹고 있지. 그리고 재밌을 때 웃어.
+INGRID: Det är skillnaden mellan klienter och vänner.
+= 그게 의뢰인과 친구의 차이죠.
+INGA: Mer sill, Johan. Vänner äter mer än klienter.
+= 청어 더 먹어, 요한. 친구는 의뢰인보다 많이 먹는 법이야.
+
+# 장면 2 — STÅNGEN
+INGA: Och nu: stången! Vi har klätt den med björklöv och blommor sedan i morse. Alla hjälper till att resa den.
+= 그리고 이제: 기둥! 아침부터 자작나무 잎이랑 꽃으로 꾸몄어. 다들 세우는 거 도와.
+FARID: Jag är snickare. Jag tar den nedre delen.
+= 전 목수예요. 아래쪽 맡을게요.
+NOEL: Och jag den övre. Jag är längst.
+= 그리고 전 위쪽. 제가 제일 키가 커요.
+OXENSTIERNA: Jag övervakar.
+= 난 감독하겠네.
+BIGGAN: Du övervakar alltid, Axel.
+= 넌 늘 감독만 하지, 악셀.
+OXENSTIERNA: Det är vad kanslers gör.
+= 재상이 하는 일이 그거요.
+INGA: Ett, två, tre… upp! Där står den!
+= 하나, 둘, 셋… 올려! 섰다!
+ELSA: Nu dansar vi. ”Små grodorna.” Alla måste hoppa som grodor.
+= 이제 춤춰요. ‘작은 개구리들.’ 다들 개구리처럼 뛰어야 해요.
+ANTON: Hoppa som grodor? Jag har en examen från Handelshögskolan.
+= 개구리처럼 뛴다고? 나 경영대 학위 있는 사람인데.
+MAJA: En krona.
+= 1크로나.
+ANTON: Det var inte engelska!
+= 그거 영어 아니었잖아!
+MAJA: Det var snobbigt. Det kostar också.
+= 잘난 척이었어. 그것도 돈 내.
+ELSA: ”Små grodorna, små grodorna är lustiga att se. Ej öron, ej öron, ej svansar hava de.”
+= ‘작은 개구리들, 작은 개구리들은 보기에 우스워. 귀도 없고, 귀도 없고, 꼬리도 없지.’
+FARID: Varför har grodor inga öron?
+= 개구리는 왜 귀가 없어요?
+ELSA: De har öron. Det är bara sången som säger så.
+= 귀 있어. 노래가 그렇게 말할 뿐이야.
+DANIEL: Biologiskt har grodor trumhinnor. Men inga yttre öron. Sången har faktiskt rätt.
+= 생물학적으로 개구리는 고막이 있어. 근데 바깥귀는 없지. 노래가 사실 맞아.
+NOEL: Daniel, du förstör allt med fakta.
+= 다니엘, 사실로 다 망치네요.
+DANIEL: Det är mitt jobb. Hoppa nu.
+= 그게 내 일이야. 이제 뛰어.
+JOHAN: Jag har aldrig hoppat som en groda. Inte en enda midsommar.
+= 난 개구리처럼 뛰어 본 적이 없어. 하지 때 한 번도.
+INGA: Varför inte?
+= 왜?
+JOHAN: Pappa sa att det inte passade sig. För en blivande advokat.
+= 아버지가 어울리지 않는다고 하셨어. 장래의 변호사한테는.
+INGRID: Då hoppar du nu. För en nuvarande advokat.
+= 그럼 지금 뛰어요. 현재의 변호사로서.
+JOHAN: …Okej. ”Ej öron, ej öron…”
+= …좋아. ‘귀도 없고, 귀도 없고…’
+BIGGAN: Han hoppar! Johan Ek hoppar som en groda!
+= 뛴다! 요한 엑이 개구리처럼 뛴다!
+OXENSTIERNA: Det ska jag inte nämna i några brev.
+= 그건 어느 편지에도 쓰지 않겠네.
+FARID: Jag har filmat det. Ingen deepfake. Äkta.
+= 제가 찍었어요. 딥페이크 아니고. 진짜로.
+JOHAN: Radera det.
+= 지워.
+NOEL: Aldrig. Det är bevis.
+= 절대 안 돼요. 증거예요.
+
+# 절정 — SJU SORTERS BLOMMOR
+ELSA: Klockan elva på kvällen. Och det är fortfarande ljust.
+= 밤 열한 시. 그런데 아직 밝아요.
+INGA: Det blir aldrig riktigt mörkt i juni. Bara blått.
+= 6월엔 절대 완전히 어두워지지 않아. 그냥 파래질 뿐이지.
+ELSA: I Kiruna går solen inte ner alls. Midnattssol. Hela natten.
+= 키루나에선 해가 아예 안 져요. 백야. 밤새도록.
+INGA: Elsa. Är du ogift?
+= 엘사. 결혼 안 했지?
+ELSA: Ja?
+= 네?
+INGA: Då ska du plocka sju sorters blommor. I tystnad. Och lägga dem under kudden. Då drömmer du om den du ska gifta dig med.
+= 그럼 일곱 종류의 꽃을 꺾어야 해. 말없이. 그리고 베개 밑에 두는 거야. 그럼 결혼할 사람 꿈을 꾸지.
+ELSA: Jag har inte gjort det sedan jag var tolv. Då drömde jag om en ren.
+= 열두 살 이후로 안 해 봤어요. 그땐 순록 꿈을 꿨어요.
+NOEL: En ren?
+= 순록이요?
+ELSA: Det var Kiruna.
+= 키루나였으니까.
+LINNÉ: Ursäkta. Jag hörde ”sju sorters blommor”. Får jag hjälpa till?
+= 실례하오. ‘일곱 종류의 꽃’이라는 말이 들려서. 도와드려도 되겠소?
+ELSA: Vem… är ni?
+= 누구… 세요?
+LINNÉ: Carl von Linné. Jag gav namn åt de flesta av blommorna på den här ängen. Jag tycker om att se dem igen.
+= 칼 폰 린네요. 이 풀밭에 있는 꽃들 대부분에 내가 이름을 붙였지. 다시 보니 좋군.
+OXENSTIERNA: En naturforskare. Från efter min tid. Gav du verkligen namn åt allt?
+= 박물학자로군. 내 시대 이후의. 정말 모든 것에 이름을 붙였나?
+LINNÉ: Inte allt. Men det mesta. Även människan. Homo sapiens. Den visa människan.
+= 전부는 아니오. 하지만 대부분. 인간에게도. 호모 사피엔스. 지혜로운 인간.
+OXENSTIERNA: Med hur lite förstånd världen styrs. Ni var för optimistisk.
+= 세상이 얼마나 적은 지혜로 다스려지는지. 당신은 너무 낙관적이었소.
+LINNÉ: Det är möjligt. Men namnet var vackert.
+= 그럴지도요. 하지만 이름은 아름다웠지요.
+LINNÉ: Här. Prästkrage. Leucanthemum vulgare. Den första.
+= 여기. 프레스트크라게. 레우칸테뭄 불가레. 첫 번째.
+ELSA: …
+= ……
+LINNÉ: Och här: blåklocka. Campanula rotundifolia. Klöver. Trifolium. Smörblomma. Ranunculus acris.
+= 그리고 여기: 블로클로카. 캄파눌라 로툰디폴리아. 클로버. 트리폴리움. 미나리아재비. 라눈쿨루스 아크리스.
+ELSA: …
+= ……
+LINNÉ: Hon får inte prata. Det är regeln. Men hon får nicka.
+= 저 아가씨는 말하면 안 되오. 그게 규칙이지. 하지만 고개는 끄덕여도 되오.
+NOEL: Hon nickar. Fyra stycken nu.
+= 끄덕여요. 이제 네 개요.
+LINNÉ: Midsommarblomster. Geranium sylvaticum. Gullviva… nej, den har blommat ut. Rödklöver, då. Trifolium pratense.
+= 숲쥐손이. 게라니움 실바티쿰. 앵초는… 아니, 이미 졌군. 그럼 붉은 클로버. 트리폴리움 프라텐세.
+ANTON: Och den sjunde?
+= 그럼 일곱 번째는?
+LINNÉ: Den sjunde väljer hon själv. Det är den viktigaste.
+= 일곱 번째는 그녀가 직접 고르오. 그게 제일 중요하지.
+ELSA: …
+= ……
+NOEL: Hon tog en maskros.
+= 민들레를 골랐어요.
+LINNÉ: Taraxacum. En ogräs, säger de flesta. Men den växer överallt. Även genom asfalt. Ett utmärkt val.
+= 타락사쿰. 대부분은 잡초라고 하지. 하지만 어디서나 자라오. 아스팔트를 뚫고서도. 훌륭한 선택이오.
+INGRID: Som i Kiruna. Som Elsa.
+= 키루나처럼요. 엘사처럼.
+
+# 마무리 — DEN LJUSA NATTEN
+DANIEL: Klockan ett på natten. Och fåglarna sjunger redan.
+= 새벽 한 시. 그런데 벌써 새들이 노래해.
+MAJA: Anton. Du har suttit bredvid mig på trappan i en timme utan att säga något.
+= 안톤. 한 시간 동안 아무 말 없이 계단에 내 옆에 앉아 있었어.
+ANTON: Jag har inget att säga. Det är nytt för mig.
+= 할 말이 없어. 나한텐 새로운 일이야.
+MAJA: Det är skönt. Att någon sitter bredvid utan att prata.
+= 좋네. 누가 말없이 옆에 앉아 있는 거.
+ANTON: Ska jag sitta kvar?
+= 계속 앉아 있을까?
+MAJA: Sitt kvar. Det kostar ingenting.
+= 계속 앉아 있어. 돈 안 들어.
+BIGGAN: Farid och Noel sover på bryggan. Med en filt. Som två valpar.
+= 파리드랑 노엘은 선착장에서 자. 담요 덮고. 강아지 두 마리처럼.
+INGRID: Jag har inte varit på landet på midsommar sedan 2018. Sedan innan allt.
+= 2018년 이후로 하지에 시골에 온 적이 없어요. 모든 일이 있기 전 이후로.
+INGA: Kom tillbaka nästa år. Det finns alltid plats för några till.
+= 내년에도 와요. 늘 몇 명 더 앉을 자리는 있어요.
+JOHAN: Jag har skrivit i anteckningsboken. För första gången. Hammarskjöld sa att det kanske hjälper lite.
+= 수첩에 썼어. 처음으로. 함마르셸드 님이 조금은 도움이 될지 모른다고 하셨거든.
+DANIEL: Vad skrev du?
+= 뭐라고 썼어?
+JOHAN: ”I dag hoppade jag som en groda. Pappa var inte här. Det var både sorgligt och bra.”
+= ‘오늘 개구리처럼 뛰었다. 아버지는 여기 없었다. 슬프기도 하고 좋기도 했다.’
+INGRID: Skicka det till honom. Någon gång.
+= 언젠가 아버지께 보내 드려요.
+OXENSTIERNA: Sorgligt och bra. Det är den ärligaste sammanfattningen av en midsommar jag har hört.
+= 슬프기도 하고 좋기도 하다. 내가 들은 하지 요약 중에 가장 솔직하군.
+LINNÉ: Och hur somnar den unga damen?
+= 그럼 젊은 아가씨는 어떻게 잠들었소?
+BIGGAN: Med sju blommor under kudden. Och ett leende.
+= 베개 밑에 꽃 일곱 송이. 그리고 미소 하나.
+LINNÉ: Då har jag gjort något nyttigt i det här århundradet också.
+= 그럼 이 세기에도 쓸모 있는 일을 하나 했군.
+NEXT: 4부 8화 — «Almedalen»(알메달렌) — 고틀란드 비스뷔의 정치 주간. Anton이 패널 토론에서 영어 섞인 말 없이 바르베리 이야기를 하고, Oxenstierna와 Wicksell이 공개 토론을 벌인다.
