@@ -1,0 +1,154 @@
+#nr: 54
+#part: 3부 Herbst (가을)
+#title: Die Entscheidung
+#ko: 결정 · 나눌 수 없는 집
+#level: B1~B2
+#setting: 12월 2일 수요일 ~ 4일 금요일. 칼레는 에디트에게 묻고, 노르트베르트의 알브레히트 박사가 칼레에게만 따로 제안을 한다. 소송을 취하하는 대신 상가 두 곳(크나이페와 공방)을 건물에서 떼어 노르트베르트가 갖고, 주택은 협동조합에 넘기겠다는 것. 칼레에게는 보상금 6만 유로와 새 카페 운영권. '분열시켜 지배하라.' 칼레는 집 안을 한 바퀴 돌며 이웃들의 이야기를 듣고, 금요일 저녁 크나이페에서 자신의 결정을 말한다. 3부 마무리. 표현 초점: 결정·의지 표현, 가정문 종합(wenn … würde / hätte … wäre), 연설의 구조.
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Dr. Albrecht | 슈테펜 알브레히트 · 52세, 노르트베르트 이모빌리엔 인베스트 자산운용 담당
+#cast: Jana | 야나 코발스키 · 34세
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Frau Lehmann | 카트야 레만 · 52세, 앞 동 4층 세입자, 고용센터 상담원
+#cast: Max | 막스 · 29세
+#cast: Derya | 데르야 이을드즈 · 40세
+#cast: Herr Pietsch | 귄터 피치 · 71세, 전 관리인
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Paul | 파울 호프만 · 27세
+#cast: Jannik | 야니크 후버 · 25세
+#read: 가정문 종합: „Wenn ich Ja sagen würde, wäre die Kneipe gerettet." / „Wenn ich Nein sage, bleibt alles offen." — 접속법 2식(würde, wäre, hätte)과 직설법의 대비를 의식하며. 비현실은 부드럽게, 현실은 단단하게.
+#read: 칼레의 연설: 짧은 문장의 반복과 점층. „Ich bleibe. Wir bleiben. Alle." — 각 문장 뒤에 쉼. 목소리를 점점 낮추어 마지막 단어에 무게를.
+#read: 결정 표현: „Ich habe mich entschieden." „Mein Entschluss steht fest." — entschieden, Entschluss의 강세를 분명히.
+#read: Gewerbeeinheit [ɡəˈvɛʁbəˌʔaɪ̯nhaɪ̯t], Teilungserklärung [ˈtaɪ̯lʊŋsʔɛɐ̯ˌklɛːʁʊŋ], Vorstand [ˈfoːɐ̯ˌʃtant], Gründungsversammlung [ˈɡʁʏndʊŋsfɛɐ̯ˌzamlʊŋ].
+#note: 결정·의지 표현: Ich habe mich entschieden, … zu … / Ich habe beschlossen, … / Mein Entschluss steht fest. (결심은 확고하다) / Dabei bleibe ich. (그 결정은 바꾸지 않는다) / Ich lasse mich nicht kaufen. (돈에 넘어가지 않는다)
+#note: 가정문 정리: ① 현실 조건 Wenn …, dann … (직설법) ② 현재의 비현실 Wenn ich … würde/wäre/hätte, … würde … ③ 과거의 비현실 Wenn ich … gewusst hätte, hätte ich … (알았더라면 …했을 텐데) ④ wenn 생략 도치: Hätte ich das gewusst, … / Wäre Monika hier, …
+#note: Teilungserklärung(분할 선언) = 하나의 건물을 여러 개의 독립 소유권(주택·상가 단위)으로 나누는 법적 절차(주택소유권법 WEG). 상가만 따로 떼어 팔 수 있게 된다. 투자사들이 건물을 쪼개 비싸게 되팔 때 흔히 쓰는 방법이다.
+#note: 협동조합 설립 절차: Gründungsversammlung(설립 총회) → Satzung(정관) 서명 → Vorstand(이사회)·Aufsichtsrat(감사회) 선출 → Prüfungsverband(감사 협회) 가입·심사 → Genossenschaftsregister(협동조합 등기부) 등록. 그러면 이름 뒤에 „eG"(eingetragene Genossenschaft)가 붙는다.
+#note: 'Teile und herrsche'(분열시켜 지배하라) = 라틴어 divide et impera. 상대 집단을 나누어 서로 경쟁하게 만들어 지배하는 전략.
+## Mittwoch, neun Uhr | 수요일 아홉 시
+Kalle: Edith? Ick bin's. Achtundsiebzig Stufen. Ick habe nur einmal Pause gemacht. Bei Max. Er hat mir einen Espresso angeboten. Ick habe abgelehnt. || 에디트? 나야. 계단 일흔여덟 개. 한 번밖에 안 쉬었어. 막스네서. 에스프레소 한 잔 하라더라. 거절했어.
+Edith: Komm rein, Kalle. Du siehst aus, als hättest du nicht geschlafen. Setz dich. Hier liegen Giselas Briefe. Auf dem ganzen Tisch. Ich bin bei neunzehnhundertdreiundsechzig. || 들어와, 칼레. 한숨도 못 잔 사람 얼굴이네. 앉아. 여기 기젤라 편지들이 있어. 식탁 전체에. 지금 1963년까지 왔어.
+Kalle: Ick muss dich was fragen. Jana hat gesagt, ick soll dich fragen. Und Monika hätte es auch gesagt. Nordwert will reden. Und ick habe Angst, dass sie mit mir reden wollen. Nur mit mir. || 물어볼 게 있어. 야나가 너한테 물어보래. 모니카라도 그랬을 거고. 노르트베르트가 대화하고 싶대. 그런데 그 사람들이 나랑만 얘기하고 싶어 할까 봐 겁나. 나 하나랑만.
+Edith: Weil du die Kneipe hast. Und die Kneipe ist das Teuerste im Haus. || 네가 가게를 갖고 있으니까. 그리고 가게가 이 집에서 제일 비싼 거니까.
+Kalle: Wenn sie mir genug Geld anbieten würden … Wenn sie mir sagen würden: Kalle, du darfst bleiben. Mit einem neuen Vertrag. Und dafür bekommt das Haus die Wohnungen. Dann wäre doch allen geholfen. Oder? || 만약 그 사람들이 나한테 돈을 충분히 제안한다면… 만약 이렇게 말한다면. 칼레, 당신은 남아도 된다. 새 계약으로. 그 대신 집은 주택들을 갖는다. 그럼 모두한테 도움이 되는 거 아니야? 그렇잖아?
+Edith: Ist das eine Frage? Oder eine Hoffnung? || 그게 질문이야? 아니면 희망이야?
+Kalle: … Ick weiß es nicht. Deshalb bin ick hier. Achtundsiebzig Stufen. || …모르겠어. 그래서 여기 온 거야. 계단 일흔여덟 개를 올라서.
+Edith: Ich erzähle dir etwas. Das steht in diesem Brief. Vom August neunzehnhunderteinundsechzig. Den hast du noch nicht gehört. Niemand hat ihn gehört. || 내가 얘기 하나 해 줄게. 이 편지에 있는 거야. 1961년 8월 거. 너는 아직 못 들었지. 아무도 못 들었어.
+Kalle: Von Gisela? || 기젤라 거?
+Edith: Von Gisela. In den ersten Tagen nach dem dreizehnten August konnte man noch fliehen. Durch die Fenster in der Bernauer Straße. Gisela hätte es gekonnt. Eine Kollegin hat sie mitnehmen wollen. In der zweiten Nacht. || 기젤라 거. 8월 13일 뒤 처음 며칠 동안은 아직 도망칠 수 있었어. 베르나우어 거리의 창문으로. 기젤라도 할 수 있었어. 동료 하나가 언니를 데려가려고 했지. 둘째 날 밤에.
+Kalle: Und? Warum ist sie nicht gesprungen? || 그래서? 왜 안 뛰어내렸는데?
+Edith: Sie schreibt: „Liebe Edith. Ich hätte springen können. Ich habe es nicht getan. Auf der Kinderstation liegen elf Kinder. Wenn ich gehen würde, gäbe es nur noch eine Schwester für elf Kinder. Ich kann nicht gerettet werden, wenn dafür elf Kinder allein bleiben." || 이렇게 썼어. „사랑하는 에디트. 나는 뛰어내릴 수 있었어. 하지만 안 했어. 소아 병동에 아이가 열한 명 누워 있어. 내가 떠나면 열한 명한테 간호사가 한 명밖에 안 남아. 나 혼자 구해지는 대가로 아이 열한 명이 홀로 남는다면, 나는 구해질 수가 없어."
+Kalle: … Elf Kinder. || …아이 열한 명.
+Edith: Achtundzwanzig Jahre hat sie dafür bezahlt. Und sie hat es nie bereut. Nicht einmal. Das steht auch in den Briefen. Neunzehnhundertachtundsiebzig. Achtzig. Neunundachtzig. Immer derselbe Satz: „Ich würde es wieder so machen." || 이십팔 년 동안 그 대가를 치렀어. 그리고 한 번도 후회하지 않았어. 단 한 번도. 그것도 편지에 있어. 1978년. 80년. 89년. 늘 같은 문장이야. „다시 그때로 돌아가도 그렇게 할 거야."
+Kalle: Du sagst mir nicht, was ick machen soll. Du erzählst mir nur eine Geschichte. || 내가 뭘 해야 하는지는 말 안 해 주는구나. 이야기만 하나 해 주고.
+Edith: Ich kann dir nicht sagen, was du willst, Kalle. Nur du weißt das. Aber ich kann dir sagen, was ich gesehen habe. Fünfundzwanzig Jahre lang. Du hast nie etwas für dich allein gewollt. Nicht einmal eine Krawatte. Die hat Monika dir gekauft. || 네가 뭘 원하는지는 내가 말해 줄 수 없어, 칼레. 그건 너만 알아. 하지만 내가 본 건 말해 줄 수 있지. 이십오 년 동안. 너는 한 번도 너 혼자만을 위해 뭘 원한 적이 없어. 넥타이 하나조차. 그것도 모니카가 사 준 거잖아.
+Kalle: Und wenn ick diesmal etwas für mich will? Einmal? Mit achtundfünfzig? || 그럼 이번엔 나를 위해 뭘 원하면? 한 번쯤은? 쉰여덟에?
+Edith: Dann wäre das dein gutes Recht. Und niemand im Haus würde dich hassen. Ich am allerwenigsten. Aber frag dich vorher: Was willst du wirklich? Die Kneipe? Oder die Ecke? Das ist nicht dasselbe. || 그럼 그건 네 당연한 권리지. 그리고 이 집 사람 누구도 널 미워하지 않을 거야. 나는 더더욱 아니고. 하지만 그 전에 스스로 물어봐. 정말로 뭘 원하는지. 가게야? 아니면 모퉁이야? 그건 같은 게 아니야.
+Kalle: Die Kneipe oder die Ecke. || 가게냐, 모퉁이냐.
+Edith: Und jetzt trag mich nicht runter. Ich bleibe oben. Ich bin erst bei neunzehnhundertdreiundsechzig. || 그리고 이번엔 나 업고 내려가지 마. 나는 위에 있을게. 아직 1963년밖에 못 왔어.
+## Das Angebot | 제안
+Dr. Albrecht: Herr Kowalski. Danke, dass Sie sich Zeit nehmen. Frau Kowalski. Ich habe gehört, Sie machen jetzt Frühstück. Mit Hafermilch. Sehr zeitgemäß. || 코발스키 씨. 시간 내 주셔서 감사합니다. 코발스키 씨도요. 이제 아침 식사를 하신다고 들었어요. 귀리 우유로. 아주 시대에 맞네요.
+Jana: Sie sind gut informiert. || 정보가 빠르시네요.
+Dr. Albrecht: Das ist mein Beruf. Ich komme direkt zum Punkt. Nordwert hat Klage eingereicht. Das wissen Sie. Ein Verfahren kostet uns alle Zeit. Ihre Genossenschaft verliert die Bankzusage. Wir verlieren Rendite. Niemand gewinnt. || 그게 제 직업이니까요. 바로 본론으로 들어가죠. 노르트베르트가 소송을 냈습니다. 아시죠. 재판은 우리 모두의 시간을 잡아먹어요. 여러분 협동조합은 은행 확약을 잃고. 저희는 수익을 잃고. 아무도 이기지 못해요.
+Kalle: Außer den Anwälten. Die gewinnen immer. || 변호사들 빼고요. 그 사람들은 늘 이기죠.
+Dr. Albrecht: Außer den Anwälten. Richtig. Deshalb mache ich Ihnen einen Vorschlag. Nur Ihnen. Vertraulich. Wir ziehen die Klage zurück. Die Genossenschaft bekommt alle Wohnungen. Zum Preis, den der Bezirk festgelegt hat. || 변호사들 빼고요. 맞아요. 그래서 제안을 하나 드리려고 해요. 코발스키 씨한테만. 비공개로요. 저희가 소송을 취하하겠습니다. 협동조합은 주택 전부를 갖게 돼요. 구청이 정한 가격으로요.
+Jana: Alle Wohnungen. Und was nicht? || 주택 전부라. 그럼 뭐가 빠지는 거죠?
+Dr. Albrecht: Die zwei Gewerbeeinheiten. Die Kneipe und die Werkstatt. Wir machen eine Teilungserklärung. Die Gewerbeeinheiten bleiben bei Nordwert. Für siebenhunderttausend. Dann sinkt der Preis für die Genossenschaft auf drei Komma fünf Millionen. Und Ihnen fehlt viel weniger Eigenkapital. || 상가 두 곳이요. 크나이페랑 공방. 분할 선언을 할 겁니다. 상가는 노르트베르트가 갖고요. 70만 유로에요. 그러면 협동조합이 낼 가격은 350만 유로로 떨어지죠. 부족한 자기 자본도 훨씬 줄어들고요.
+Kalle: Und ick? || 그럼 나는요?
+Dr. Albrecht: Sie bekommen sechzigtausend Euro. Und einen Vertrag. Für das Café, das wir hier eröffnen. Konzept: Specialty Coffee und Naturwein. Sie wären der Betriebsleiter. Mit Gehalt. Ohne Risiko. Fünf Jahre garantiert. || 코발스키 씨는 6만 유로를 받으세요. 그리고 계약도요. 저희가 여기 여는 카페 운영 계약이요. 콘셉트는 스페셜티 커피랑 내추럴 와인. 코발스키 씨가 매장 책임자가 되시는 거예요. 월급 받으면서. 위험 부담 없이. 5년 보장으로요.
+Jana: Betriebsleiter. In seiner eigenen Kneipe. Für Naturwein. || 매장 책임자라. 자기 가게에서. 내추럴 와인을 위해서.
+Kalle: Wat ist Naturwein? Gibt es auch unnatürlichen? || 내추럴 와인이 뭐요? 부자연스러운 와인도 있어요?
+Dr. Albrecht: Wein ohne Zusätze. Trüb, ein bisschen sauer. Sehr gefragt bei jungen Leuten. Zwölf Euro das Glas. || 첨가물 없는 와인이에요. 탁하고, 조금 시죠. 젊은 사람들한테 인기가 아주 많아요. 한 잔에 12유로.
+Jana: Zwölf Euro. Für trüben, sauren Wein. Frau Schulze würde sagen: Das ist kein Wein. Das ist ein Mangel. || 12유로라. 탁하고 신 와인에. 슐체 부인이라면 그러겠죠. 그건 와인이 아니라 하자라고.
+Dr. Albrecht: Frau Kowalski, ich verstehe Ihre Skepsis. Aber rechnen Sie nach. Sie sind Produktmanagerin. Sie können rechnen. Wenn Ihr Vater Ja sagen würde, wäre das Haus gerettet. Die Wohnungen. Frau Krüger. Die Familie Yıldız. Alle. Und Ihr Vater hätte ein sicheres Einkommen bis zur Rente. || 코발스키 씨, 의심하시는 건 이해해요. 하지만 계산해 보세요. 제품 관리자셨잖아요. 계산하실 줄 알잖아요. 아버님이 좋다고 하시면 집은 구해지는 거예요. 주택들이요. 크뤼거 부인. 이을드즈 가족. 모두요. 그리고 아버님은 은퇴할 때까지 안정적인 수입을 갖게 되시고요.
+Kalle: Und Tobi? Die Werkstatt? || 그럼 토비는요? 공방은요?
+Dr. Albrecht: Für die Werkstatt haben wir ein anderes Konzept. Fahrradstellplätze für die Mieter. Und ein Paketshop. Herr Fischer bekäme eine Umzugshilfe. Zehntausend. Das Doppelte vom letzten Mal. || 공방에 대해서는 다른 구상이 있어요. 세입자용 자전거 보관소. 그리고 택배 보관소요. 피셔 씨는 이사 지원금을 받게 되실 거예요. 만 유로. 지난번의 두 배요.
+Kalle: Also: Ick werde gerettet. Und Tobi wird rausgeworfen. Mit Trinkgeld. || 그러니까 나는 구해지고. 토비는 쫓겨나는 거네요. 팁 받고.
+Dr. Albrecht: So hart würde ich es nicht formulieren. Sagen wir: Es gibt Gewinner und weniger große Gewinner. Ich brauche Ihre Antwort bis Montag. Vor Nikolaus … nein, nach Nikolaus. Montag, der siebte. Bis dahin ist das Angebot vertraulich. Bitte sprechen Sie mit niemandem. || 그렇게까지 냉정하게 표현하진 않겠어요. 이렇게 말하죠. 승자가 있고 덜 큰 승자가 있다고. 월요일까지 답을 주세요. 니콜라우스 전… 아니, 니콜라우스 지나서. 7일 월요일이요. 그때까지 이 제안은 비공개입니다. 아무에게도 말하지 말아 주세요.
+Kalle: Mit niemandem. Det wird schwer. In diesem Haus haben die Wände Ohren. Und Frau Schulze hat zwei davon. || 아무에게도라. 그거 어렵겠네요. 이 집은 벽에도 귀가 있거든요. 그리고 슐체 부인한테는 그게 두 개나 있고.
+Dr. Albrecht: Dann vertraue ich auf Ihre Diskretion. Auf Wiedersehen. Und, Herr Kowalski: Denken Sie an Ihr Alter. Mit achtundfünfzig fängt man nicht noch einmal von vorne an. || 그럼 신중하시리라 믿겠습니다. 안녕히 계세요. 그리고 코발스키 씨, 나이를 생각하세요. 쉰여덟에 다시 처음부터 시작하는 사람은 없어요.
+Jana: Papa. Du sagst nichts. Seit zwei Minuten. || 아빠. 아무 말도 안 하시네요. 이 분째요.
+Kalle: Ick denke an mein Alter. Wie der Herr gesagt hat. Und ick denke an elf Kinder. || 내 나이를 생각하고 있어. 저 양반 말대로. 그리고 아이 열한 명을 생각하고 있지.
+## Runde durchs Haus | 집 한 바퀴
+Frau Schulze: Herr Kowalski? Sie stehen seit fünf Minuten vor meiner Tür. Ich sehe Sie durch den Spion. Wollen Sie klingeln oder nicht? || 코발스키 씨? 오 분째 우리 집 문 앞에 서 계시네요. 문 구멍으로 다 보여요. 초인종을 누르실 거예요, 말 거예요?
+Kalle: Frau Schulze. Nur eine Frage. Ganz allgemein. Wenn man die Wohnungen retten könnte, aber nicht die Kneipe. Wäre das okay für Sie? || 슐체 부인. 질문 하나만요. 그냥 일반적으로요. 만약 주택은 구할 수 있는데 가게는 못 구한다면요. 부인은 그래도 괜찮으시겠어요?
+Frau Schulze: Ganz allgemein? Sie meinen ganz konkret. Ich habe Herrn Albrecht um vierzehn Uhr aus der Kneipe kommen sehen. Mit einem zufriedenen Gesicht. Das war kein allgemeines Gesicht. || 그냥 일반적으로요? 아주 구체적으로라는 뜻이겠죠. 두 시에 알브레히트 씨가 가게에서 나오는 걸 봤어요. 만족한 얼굴로요. 그건 일반적인 얼굴이 아니었어요.
+Kalle: … Ick darf nichts sagen. || …아무 말도 하면 안 돼요.
+Frau Schulze: Dann sage ich etwas. Ich wohne seit einunddreißig Jahren hier. Ich habe in dieser Zeit genau zwei Orte gehabt, an denen ich nicht allein war. Mein Büro im Finanzamt. Und Ihre Kneipe. Das Büro ist weg. Wenn die Kneipe auch weg ist, habe ich eine billige Wohnung. Und keinen Ort. || 그럼 내가 말할게요. 나는 여기 산 지 삼십일 년이에요. 그동안 혼자가 아니었던 곳이 딱 두 군데 있었어요. 세무서 사무실. 그리고 당신 가게. 사무실은 없어졌어요. 가게까지 없어지면 나한테는 싼 집이 남겠죠. 그리고 갈 곳은 없고요.
+Tobi: Kalle! Was ist los? Du guckst in meine Werkstatt wie ein Abschied. Hast du was gegessen? Oder ist was passiert? || 칼레! 무슨 일이에요? 작별 인사하는 사람처럼 공방을 들여다보시네요. 뭐 좀 드셨어요? 아니면 무슨 일 있어요?
+Kalle: Tobi. Wenn ick weggehen würde. Aus dem Haus. Würdest du allein weiterkämpfen? Für die Werkstatt? || 토비. 만약 내가 떠난다면. 이 집에서. 너 혼자서라도 계속 싸울래? 공방을 위해서?
+Tobi: Allein? Nee. Allein bin ich nur ein Typ mit einem Schraubenschlüssel. Mit dir bin ich ein Teil vom Haus. Warum? Hast du ein Angebot bekommen? Du hast ein Angebot bekommen. || 혼자서요? 아뇨. 혼자면 저는 그냥 스패너 든 녀석일 뿐이에요. 칼레랑 있으면 이 집의 일부고요. 왜요? 제안받으셨어요? 제안받으셨구나.
+Kalle: Ick sage nichts. Ick frage nur. || 아무 말도 안 해. 그냥 묻는 거야.
+Frau Lehmann: Herr Kowalski. Sie fragen heute alle im Haus etwas. Herr Fischer hat es mir erzählt. Fragen Sie mich auch. Ich bin die Skeptikerin. Ich habe Antworten. || 코발스키 씨. 오늘 집안 사람들한테 다 뭘 묻고 다니시네요. 피셔 씨가 얘기해 줬어요. 저한테도 물어보세요. 저는 회의론자잖아요. 답이 있어요.
+Kalle: Frau Lehmann. Ganz allgemein. Wenn das Haus geteilt würde. Wohnungen hier, Kneipe und Werkstatt da. Wäre das schlimm? || 레만 부인. 그냥 일반적으로요. 만약 집이 나뉜다면요. 주택은 여기, 가게랑 공방은 저기로. 그게 나쁠까요?
+Frau Lehmann: Ich arbeite im Jobcenter, Herr Kowalski. Ich sehe jeden Tag, was passiert, wenn man Menschen in Gruppen teilt. Die, die gerettet werden. Und die, die es selbst schaffen müssen. Am Ende streiten sich beide Gruppen. Und der, der geteilt hat, lacht. Ich habe am Anfang gegen die Genossenschaft gestimmt. Aber gegen ein geteiltes Haus würde ich zweimal stimmen. || 저 고용센터에서 일해요, 코발스키 씨. 사람들을 무리로 나누면 어떻게 되는지 매일 봐요. 구조받는 사람들. 그리고 스스로 해내야 하는 사람들. 결국엔 두 무리가 싸우죠. 그리고 나눈 사람은 웃고요. 저는 처음에 협동조합에 반대표를 던졌어요. 하지만 나뉜 집에는 두 번 반대표를 던질 거예요.
+Max: Kalle! Wieder da? Espresso? Diesmal wirklich? || 칼레! 또 왔어요? 에스프레소? 이번엔 진짜로요?
+Kalle: Diesmal ja. Doppelt. Max, du hast Nordwerts Geld nicht genommen. Zwanzigtausend. Warum eigentlich nicht? Du ziehst doch sowieso nach Leipzig. || 이번엔 그래. 더블로. 막스, 너 노르트베르트 돈 안 받았잖아. 이만 유로. 근데 왜 안 받았어? 어차피 라이프치히로 가잖아.
+Max: Weil ich nicht der Typ sein wollte, der als Erster geht. Und dafür Geld bekommt. In meiner Szene nennt man das Ausverkauf. Ich lege Platten auf, Kalle. Ich verkaufe nicht meine Nachbarn. || 제일 먼저 떠나면서 그 대가로 돈 받는 놈이 되기 싫었으니까요. 우리 바닥에선 그걸 팔아넘긴다고 해요. 저는 디제잉을 하는 사람이에요, 칼레. 이웃을 파는 사람이 아니라.
+Derya: Kalle? Can sagt, du gehst durchs ganze Haus. Wie ein Geist. Komm rein. Es gibt Linsensuppe. Immer noch. Von der Woche. || 칼레? 잔이 그러는데 집 전체를 돌아다니신다면서요. 유령처럼요. 들어와요. 렌틸콩 수프 있어요. 아직도요. 지난주 거요.
+Kalle: Derya. Du hast die ganze Idee gehabt. Die Genossenschaft. Wenn ick jetzt etwas tun würde, was dein Haus rettet, aber nicht meins … Würdest du es verstehen? || 데르야. 너는 이 모든 걸 처음 생각해 낸 사람이야. 협동조합. 내가 지금 네 집은 구하지만 내 가게는 못 구하는 일을 한다면… 이해해 줄 수 있어?
+Derya: Ich würde es verstehen. Aber ich würde es nicht wollen. Kalle, das Haus ist nicht mein Haus. Es ist nicht dein Haus. Es ist unser Haus. Mit der Ecke unten drin. Ohne die Ecke ist es nur ein Gebäude mit Wohnungen. || 이해는 할 거예요. 하지만 원하진 않을 거예요. 칼레, 이 집은 내 집이 아니에요. 칼레 집도 아니고요. 우리 집이에요. 아래에 모퉁이 가게가 있는. 그 모퉁이가 없으면 그냥 주택 몇 채 있는 건물일 뿐이에요.
+## Donnerstag, mit Günter | 목요일, 귄터와 함께
+Herr Pietsch: Kalle. Du hast mich angerufen. Um sieben Uhr morgens. Das hast du in dreißig Jahren nie gemacht. || 칼레. 나한테 전화했더군. 아침 일곱 시에. 삼십 년 동안 한 번도 안 하던 짓을.
+Kalle: Günter, du hast im Oktober gesagt: Du überlegst es dir. Die Beratung für die Genossenschaft. Zweimal im Monat. Ohne Zigaretten. Hast du es dir überlegt? || 귄터, 10월에 생각해 보겠다고 했잖아. 협동조합 관리 자문. 한 달에 두 번. 담배 없이. 생각해 봤어?
+Herr Pietsch: Ich habe es mir überlegt. Und dann kam der Regen. Und ich habe die Rückstauklappe zugemacht. Mit Tobis Schlüssel. Da habe ich gemerkt: Meine Hände wissen noch, wo alles ist. Im ganzen Haus. Die Haupthähne, die Sicherungen, die Stelle am Dach, wo es immer reinregnet. || 생각해 봤지. 그런데 비가 왔어. 그리고 토비 스패너로 역류 방지 밸브를 잠갔지. 그때 알았어. 내 손이 아직도 다 기억하고 있다는 걸. 집 전체의. 주 밸브, 차단기, 늘 비가 새는 지붕 자리까지.
+Kalle: Und? || 그래서?
+Herr Pietsch: Ich mache es. Aber nicht zweimal im Monat. Einmal pro Woche. Mittwochs. Ich komme mit dem Bus aus Britz. Und Edith kocht mir einen Tee. Das ist meine Bedingung. || 할게. 하지만 한 달에 두 번은 아니고. 일주일에 한 번. 수요일마다. 브리츠에서 버스 타고 올게. 그리고 에디트가 나한테 차를 끓여 주는 거야. 그게 내 조건이야.
+Kalle: Günter. Es gibt vielleicht kein Haus. Nordwert hat geklagt. Und … es gibt ein Angebot. Ick darf nicht darüber reden. || 귄터. 집이 없을지도 몰라. 노르트베르트가 소송을 냈어. 그리고… 제안이 하나 있어. 그것에 대해선 말하면 안 돼.
+Herr Pietsch: Dann rede nicht. Ich habe zwanzig Jahre lang mit Kiez Hausverwaltung gearbeitet. Ich kenne solche Angebote. Sie sehen aus wie ein Geschenk. Und sie sind eine Rechnung. Die bezahlt immer jemand anders. Später. || 그럼 말하지 마. 나는 키츠 관리회사랑 이십 년을 일했어. 그런 제안이 어떤 건지 알아. 선물처럼 보이지. 그런데 그건 청구서야. 그리고 늘 다른 누군가가 내. 나중에.
+Kalle: Wenn ick ablehne, und wir verlieren vor Gericht, dann habe ick alles verloren. Die Kneipe, das Geld, alles. Wenn ick annehme, habe ick wenigstens etwas. || 내가 거절했는데 우리가 재판에서 지면, 나는 다 잃는 거야. 가게도, 돈도, 전부. 받아들이면 적어도 뭔가는 남고.
+Herr Pietsch: Wenn du annimmst, hast du sechzigtausend Euro. Und jeden Morgen musst du an Tobis leerer Werkstatt vorbeigehen. In deinem Naturwein-Café. Hätte ich geschwiegen, wären meine achttausend Euro sicher. Aber ich könnte Edith nicht mehr in die Augen gucken. || 받아들이면 6만 유로가 생기겠지. 그리고 매일 아침 토비의 텅 빈 공방 앞을 지나가야 할 거야. 네 내추럴 와인 카페에서. 내가 입을 다물었더라면 팔천 유로는 안전했겠지. 하지만 에디트 눈을 더는 못 쳐다봤을 거야.
+Kalle: Achttausend gegen Ediths Augen. || 팔천 유로 대 에디트의 눈이라.
+Herr Pietsch: Das ist eine einfache Rechnung, Kalle. Die habe ich jeden Tag gemacht. Ein Jahr lang. Jeden Tag ging sie gleich aus. || 간단한 계산이야, 칼레. 나는 그걸 매일 했어. 일 년 동안. 매일 답이 똑같이 나왔지.
+Kalle: Mittwochs. Mit Tee. Det kriegst du. Ick sage es Edith. || 수요일마다. 차 곁들여서. 그렇게 해 줄게. 에디트한테 말할게.
+Herr Pietsch: Sag es ihr nicht. Sie weiß es schon. Sie hat mich gestern angerufen. Sie hat gesagt: Kalle wird dich morgen anrufen. Um sieben. || 말할 필요 없어. 벌써 알아. 어제 나한테 전화했더라. 그러더군. 칼레가 내일 너한테 전화할 거야. 일곱 시에.
+Kalle: … Diese Frau. || …이 여자 참.
+Herr Pietsch: Diese Frau hat vierzig Jahre lang gewusst, was in diesem Haus passiert. Bevor es passiert. Ich war nur der Hausmeister. Sie war das Frühwarnsystem. || 이 여자는 사십 년 동안 이 집에서 무슨 일이 일어날지 알고 있었어. 일어나기도 전에. 나는 관리인일 뿐이었고. 이 여자는 조기 경보 시스템이었지.
+Kalle: Hat sie dir auch gesagt, was ick entscheiden werde? || 내가 뭘 결정할지도 말해 주던가?
+Herr Pietsch: Nein. Sie hat gesagt: Das weiß Kalle selbst. Er hat nur noch keine Zeit gehabt, es zu merken. || 아니. 그러더군. 그건 칼레가 스스로 알아. 아직 그걸 깨달을 시간이 없었을 뿐이야.
+Kalle: Dann merke ick es jetzt. Langsam. Mit achtundfünfzig. || 그럼 이제 깨달아야겠네. 천천히. 쉰여덟에.
+## Freitagabend in der Ecke | 금요일 저녁, 크나이페
+Kalle: Ruhe, bitte. Ruhe! Max, mach die Musik aus. Danke. Ick muss euch etwas sagen. Und ick darf es eigentlich nicht sagen. Herr Albrecht hat gesagt: vertraulich. Aber in diesem Haus gibt es kein vertraulich. Das wisst ihr. || 조용히 좀. 조용히! 막스, 음악 꺼. 고마워. 너희한테 할 말이 있어. 원래는 하면 안 되는 말이야. 알브레히트 씨가 비공개라고 했거든. 그런데 이 집에 비공개 같은 건 없지. 다들 알잖아.
+Frau Schulze: Das ist korrekt. Ich habe es protokolliert. || 맞는 말이에요. 제가 다 기록해 뒀어요.
+Kalle: Nordwert hat mir ein Angebot gemacht. Sie ziehen die Klage zurück. Die Genossenschaft bekommt alle Wohnungen. Billiger. Und die Kneipe und Tobis Werkstatt bleiben bei Nordwert. Ick bekomme sechzigtausend Euro und einen Job. Als Betriebsleiter. In einem Café mit Naturwein. Hier. Und Tobi bekommt zehntausend und muss gehen. || 노르트베르트가 나한테 제안을 했어. 소송을 취하하겠대. 협동조합은 주택을 전부 갖고. 더 싸게. 그리고 가게랑 토비 공방은 노르트베르트가 갖는대. 나는 6만 유로랑 일자리를 받고. 매장 책임자로. 내추럴 와인 파는 카페에서. 여기서. 그리고 토비는 만 유로 받고 나가야 하고.
+Tobi: Zehntausend. Das Doppelte. Ich fühle mich geehrt. || 만 유로. 두 배네요. 영광이에요.
+Jannik: Rein rechnerisch … Entschuldigung. Rein rechnerisch würde uns das helfen. Der Kaufpreis sänke auf drei Komma fünf. Die Lücke beim Eigenkapital wäre fast weg. Das muss ich sagen. Das ist meine Aufgabe. || 순전히 계산상으로는… 죄송해요. 순전히 계산상으로는 그게 도움이 돼요. 매입가가 350만으로 떨어지니까요. 자기 자본 부족분이 거의 없어질 거예요. 그건 말해야겠어요. 그게 제 일이니까요.
+Kalle: Danke, Jannik. Det ist richtig. Und deshalb habe ick drei Tage nachgedacht. Ick bin achtundsiebzig Stufen gestiegen. Ick habe vor jeder Tür gestanden. Ick habe einen Rentner um sieben Uhr morgens angerufen. Und ick habe mich entschieden. || 고마워, 야니크. 맞는 말이야. 그래서 내가 사흘 동안 생각했어. 계단 일흔여덟 개를 올라갔고. 집집마다 문 앞에 서 봤고. 은퇴한 사람한테 아침 일곱 시에 전화도 했지. 그리고 결정했어.
+Can: Was? Was hast du entschieden? || 뭘요? 뭘 결정하셨어요?
+Kalle: Ick sage Nein. || 싫다고 할 거야.
+Paul: Nein. Einfach so. || 싫다고요. 그냥 그렇게요.
+Kalle: Nicht einfach so. Hört zu. Wenn ick Ja sagen würde, hätte ick sechzigtausend Euro. Und eine Kneipe, die nicht mehr meine ist. Und Tobi wäre weg. Und in drei Jahren würde Nordwert die Gewerbeeinheiten verkaufen. An den Nächsten. Und der Nächste würde mich rauswerfen. Mit achtundfünfzig fängt man nicht noch einmal von vorne an, hat Herr Albrecht gesagt. Er hat recht. Deshalb fange ick nicht von vorne an. Ick bleibe, wo ick bin. || 그냥 그런 게 아니야. 들어 봐. 내가 좋다고 하면 6만 유로가 생기겠지. 그리고 더 이상 내 것이 아닌 가게가. 그리고 토비는 없어지고. 그리고 삼 년 뒤엔 노르트베르트가 상가를 팔겠지. 다음 사람한테. 그리고 그 다음 사람은 날 쫓아낼 거야. 쉰여덟에 다시 처음부터 시작하는 사람은 없다고 알브레히트 씨가 그러더라. 그 말이 맞아. 그래서 나는 처음부터 다시 시작하지 않을 거야. 지금 있는 자리에 남을 거야.
+Edith: Die Kneipe oder die Ecke, Kalle? || 가게야, 모퉁이야, 칼레?
+Kalle: Die Ecke, Edith. Die Kneipe kann man verkaufen. Die Ecke nicht. Die Ecke ist ihr. Ihr alle. Frau Schulze mit der Akte. Tobi mit dem Papagei. Max mit dem Sektkühler. Edith mit achtundsiebzig Stufen, die bald null sind. Ein Haus mit einem Loch im Dach kann man reparieren. Ein Haus, das man in zwei Hälften schneidet, nicht. Das ist kein Mantel. Das ist ein Haus. || 모퉁이야, 에디트. 가게는 팔 수 있어. 모퉁이는 못 팔아. 모퉁이는 너희야. 너희 모두. 서류철 든 슐체 부인. 앵무새 데리고 있는 토비. 샴페인 쿨러 든 막스. 곧 영 개가 될 일흔여덟 계단의 에디트. 지붕에 구멍 난 집은 고칠 수 있어. 하지만 반으로 잘라 버린 집은 못 고쳐. 이건 외투가 아니야. 집이야.
+Can: Ein Haus kann man nicht teilen wie einen Mantel. || 집은 외투처럼 나눌 수 없어요.
+Kalle: Genau, Junge. Und deshalb: Ick habe mich entschieden. Mein Entschluss steht fest. Ick bleibe. Wir bleiben. Alle. Ganz. || 바로 그거야, 꼬마야. 그래서 결정했어. 내 결심은 확고해. 나는 남는다. 우리는 남는다. 모두. 온전하게.
+Derya: Dann machen wir weiter. Mit der Gründungsversammlung. Wann? || 그럼 계속 가는 거예요. 설립 총회로요. 언제요?
+Frau Schulze: Samstag, der zwölfte Dezember. Die Aula ist reserviert. Ich habe sie schon im November reserviert. Für alle Fälle. Die Satzung ist fertig. Zweiundvierzig Paragrafen. Ich habe jeden einzelnen gelesen. Zweimal. || 12월 12일 토요일이요. 강당은 예약해 뒀어요. 11월에 벌써 예약해 놨죠. 만일을 위해서요. 정관도 다 됐어요. 마흔두 개 조항이요. 하나하나 다 읽었어요. 두 번씩요.
+Jannik: Und wer kandidiert für den Vorstand? Wir brauchen mindestens zwei. Laut Satzung. || 그럼 이사회엔 누가 출마해요? 정관상 최소 두 명이 필요해요.
+Kalle: Ick. Wenn ihr mich wollt. Und ick hätte gern Derya daneben. Und Jana für die Zahlen. || 나. 너희가 원한다면. 그리고 옆에 데르야가 있었으면 좋겠어. 그리고 숫자는 야나가 맡고.
+Jana: Papa. Du hast gerade sechzigtausend Euro abgelehnt. Und dich als Vorstand beworben. Für null Euro. In zwei Minuten. || 아빠. 방금 6만 유로를 거절하고. 이사회에 지원했어요. 0유로에. 이 분 만에요.
+Kalle: Wat soll ick sagen. Ick bin schlecht im Rechnen. Deshalb habe ick dich. || 뭐라고 하겠어. 나는 계산을 못 해. 그래서 너를 둔 거지.
+Derya: Bevor wir weitermachen: Ich will, dass wir abstimmen. Nicht über Kalle. Über das Haus. Wer ist dafür, dass wir das Angebot ablehnen? Und das Haus nicht teilen? Hand hoch. || 계속하기 전에 표결을 했으면 해요. 칼레에 대해서가 아니라. 집에 대해서요. 제안을 거절하고 집을 나누지 않는 데 찬성하는 사람? 손 들어 주세요.
+Frau Lehmann: Ich. Zuerst. Damit es im Protokoll steht. Die Skeptikerin war die Erste. || 저요. 제일 먼저요. 기록에 남게요. 회의론자가 제일 먼저 들었다고요.
+Tobi: Zwei Hände. Eine für mich, eine für den Papagei. || 두 손이요. 하나는 제 거, 하나는 앵무새 거.
+Max: Ich. Obwohl ich nach Leipzig gehe. Gerade deshalb. || 저요. 라이프치히로 가긴 하지만요. 바로 그래서요.
+Can: Ich auch! Gilt meine Hand? Ich bin Ehrenmitglied! || 저도요! 제 손도 쳐 줘요? 저 명예 회원이잖아요!
+Jannik: … Ich auch. Rein rechnerisch war es die falsche Entscheidung. Rein menschlich die richtige. Ich schreibe beides in meine Masterarbeit. || …저도요. 순전히 계산으로는 틀린 결정이에요. 순전히 인간적으로는 옳은 결정이고요. 둘 다 석사 논문에 쓸게요.
+Frau Schulze: Ich zähle. Alle Hände im Raum. Einstimmig. Neunzehn Uhr zweiundvierzig. Gegenstimmen: keine. Enthaltungen: keine. Papagei: nicht stimmberechtigt. || 셀게요. 이 방 모든 손. 만장일치. 열아홉 시 사십이 분. 반대: 없음. 기권: 없음. 앵무새: 의결권 없음.
+Tobi: Das ist Diskriminierung. || 그건 차별이에요.
+Kalle: Danke. Ick … ick habe kein Wort mehr. Max, mach die Musik wieder an. Irgendwas. Nur nicht Naturwein. || 고맙다. 나… 더는 할 말이 없다. 막스, 음악 다시 틀어. 아무거나. 내추럴 와인만 빼고.
+## Die Kreidetafel | 칠판
+Edith: Was schreibst du da, Kalle? Es ist schon nach Mitternacht. || 뭘 쓰는 거야, 칼레? 벌써 자정이 넘었어.
+Kalle: Für morgen. Für Janas Frühstück. Für Albrecht, falls er vorbeikommt. Lies. || 내일을 위해서. 야나 아침 식사를 위해서. 혹시 알브레히트가 지나가면 그 사람을 위해서도. 읽어 봐.
+Edith: „Diese Ecke ist nicht teilbar. Auch nicht durch sechzigtausend." || „이 모퉁이는 나눌 수 없음. 6만으로도."
+Kalle: Zu viel? || 너무 했나?
+Edith: Genau richtig. Und darunter? Da ist noch Platz. || 딱 좋아. 그리고 그 아래는? 아직 자리가 있잖아.
+Kalle: Da kommt Giselas Satz hin. „Zwei Tische, dieselbe Suppe." Damit ick nicht vergesse, warum. || 거기엔 기젤라의 문장이 들어가. „두 식탁, 같은 수프." 왜 그랬는지 잊지 않으려고.
+Edith: Kalle. Monika wäre stolz auf dich. Und Gisela hätte gesagt: Siehst du. Elf Kinder. Manchmal ist es ein ganzes Haus. || 칼레. 모니카가 널 자랑스러워했을 거야. 그리고 기젤라라면 그랬겠지. 봤지. 아이 열한 명. 어떤 때는 그게 집 한 채야.
+Kalle: Und wenn wir verlieren? Vor Gericht? Wenn ick mich falsch entschieden habe? || 그런데 우리가 지면? 재판에서? 내가 잘못 결정한 거면?
+Edith: Dann hast du dich falsch entschieden. Aber nicht allein. Das ist der Unterschied, Kalle. Allein ist man Fahrgast. || 그럼 잘못 결정한 거지. 하지만 혼자서 한 건 아니야. 그게 차이야, 칼레. 혼자면 승객이고.
+Kalle: Zusammen ist man Fahrer. Hat mein Vater gesagt. Ick weiß. || 함께면 운전사. 우리 아버지가 한 말이지. 알아.
+Edith: Dann fahr. Und jetzt bring mich nach Hause. Nicht tragen. Nur begleiten. Ich schaffe die Stufen heute. Langsam. Mit drei Pausen. Ich will sie noch ein paar Mal zählen. Bevor sie null sind. || 그럼 운전해. 그리고 이제 나 집에 데려다줘. 업지 말고. 같이 가기만 해. 오늘은 계단 오를 수 있어. 천천히. 세 번 쉬면서. 몇 번은 더 세어 보고 싶어. 영 개가 되기 전에.
+Kalle: Eins. Zwei. Drei … || 하나. 둘. 셋…
+Edith: Nicht so schnell, Kalle. Wir haben Zeit. Bis zum einunddreißigsten Januar. || 그렇게 빨리 말고, 칼레. 우리 시간 있어. 1월 31일까지.
