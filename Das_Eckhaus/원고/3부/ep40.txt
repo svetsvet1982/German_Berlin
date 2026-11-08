@@ -1,0 +1,151 @@
+#nr: 40
+#part: 3부 Herbst (가을)
+#title: Die Bank sagt nein
+#ko: 은행은 안 된다고 한다 · 칼레의 대출 상담
+#level: B1~B2
+#setting: 10월 1일 목요일 오전, 헤르만플라츠의 은행 „Spreebank"(허구). 협동조합이 생기면 1층 상가에 해당하는 출자금은 칼레의 몫이 가장 크다. 칼레는 그 출자금 4만 유로를 대출받으려고 야나와 함께 은행 담당자 퀸 씨를 찾아간다. 서류는 완벽했지만 대답은 정중한 "아니요"였다. 저녁에는 슐체 부인이 구청에서 알아 온 매입가가 발표된다. 표현 초점: 금융 어휘, 격식 화법, 실망 표현.
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Jana | 야나 코발스키 · 34세
+#cast: Frau Kühn | 멜라니 퀸 · 44세, Spreebank 개인·소상공인 대출 담당
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Jannik | 야니크 후버 · 25세
+#cast: Derya | 데르야 이을드즈 · 40세
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Tobi | 토비 피셔 · 31세
+#read: 은행 상담의 격식체: „Ich würde gern einen Kredit beantragen." „Was benötigen Sie dafür von mir?" — würde, benötigen 같은 정중한 동사를 부드럽게.
+#read: 숫자와 비율: „viertausend Euro netto", „vier Komma acht Prozent Zinsen", „eine Laufzeit von zehn Jahren" — Prozent, Laufzeit에 강세.
+#read: 거절을 들을 때의 침묵: 퀸 씨의 „Leider …" 다음에 칼레는 한 박자 쉬고 대답한다. 실망은 큰 소리보다 짧은 숨으로.
+#read: Kreditwürdigkeit [kʁeˈdiːtˌvʏʁdɪçkaɪ̯t], Bürgschaft [ˈbʏʁkʃaft], Tilgung [ˈtɪlɡʊŋ].
+#note: 금융 어휘: der Kredit / das Darlehen(대출) / die Zinsen(이자) / die Tilgung(원금 상환) / die Rate(분할 상환금) / die Laufzeit(만기) / die Sicherheit(담보) / die Bürgschaft(보증) / die Kreditwürdigkeit / Bonität(신용도) / die BWA(Betriebswirtschaftliche Auswertung, 사업 손익 보고서) / der Steuerbescheid(세금 고지서).
+#note: 은행의 거절 화법: Leider können wir Ihnen keinen Kredit anbieten. / Nach Prüfung Ihrer Unterlagen … / Das entspricht nicht unseren Kriterien. / Ich bedaure, Ihnen mitteilen zu müssen, dass … / Ich kann Ihre Enttäuschung verstehen.
+#note: 실망 표현: Das habe ich befürchtet. / Damit habe ich nicht gerechnet. / Das ist bitter. / Ich bin enttäuscht. / Na toll.(반어, 구어)
+#note: Genossenschaftsanteile finanzieren: 개인이 출자금을 대출로 마련하기는 어렵다. 그래서 협동조합 매입은 보통 조합 자체가 공익 은행이나 지방 개발은행에서 대출을 받고, 조합원 출자는 연대 기금과 직접 대출로 보충한다.
+#note: 나이와 대출: 은행은 은퇴 전 상환 완료를 선호한다. 58세에 10년 만기 대출은 68세에 끝나는데, 연금 소득이 사업 소득보다 낮을 것으로 예상되면 승인이 어렵다.
+## Ein Ordner statt eines Schuhkartons | 신발 상자 대신 서류철
+Jana: Papa, hast du alles? Steuerbescheid der letzten zwei Jahre? || 아빠, 다 챙겼어? 최근 이 년 치 세금 고지서?
+Kalle: Hier. Im Ordner. Im blauen Ordner. Nicht im Schuhkarton. || 여기. 서류철에. 파란 서류철에. 신발 상자 말고.
+Jana: Ich bin stolz auf dich. BWA? Die betriebswirtschaftliche Auswertung vom Steuerberater? || 아빠 자랑스럽다. BWA는? 세무사가 만든 사업 손익 보고서?
+Kalle: Auch im Ordner. Der Steuerberater hat geweint. Vor Freude. Er hat gesagt, das ist das erste Mal in zwanzig Jahren, dass er nicht suchen musste. || 그것도 서류철에. 세무사가 울더라. 기뻐서. 이십 년 만에 처음으로 안 찾아도 됐대.
+Jana: Mietvertrag für die Kneipe? Kontoauszüge? Schufa? || 가게 임대 계약서? 계좌 거래 내역? 신용 조회서?
+Kalle: Alles. Alles da. Sechsundvierzig Seiten. Ick hab sie gezählt. Wie Frau Schulze. || 다. 다 있어. 마흔여섯 장. 내가 세어 봤어. 슐체 부인처럼.
+Jana: Und weißt du noch, was du sagen willst? || 그리고 뭐라고 할지 기억나?
+Kalle: Ick möchte einen Kredit. Vierzigtausend Euro. Für die Genossenschaftsanteile. Für die Kneipe. Wenn das Haus uns gehört. || 대출을 받고 싶습니다. 사만 유로. 협동조합 출자금으로. 가게 몫으로요. 집이 우리 것이 되면요.
+Jana: Sag „Ich würde gern". Nicht „Ich möchte". Das klingt höflicher. || „받고 싶습니다" 말고 „받았으면 합니다"라고 해. 그게 더 공손하게 들려.
+Kalle: Ick würde gern einen Kredit … Jana, ick bin achtundfünfzig. Ick weiß, wie man höflich ist. || 나는 대출을 받았으면… 야나, 나 쉰여덟이야. 공손하게 말하는 법 정도는 알아.
+Jana: Ich weiß. Aber in Banken bist du immer so … berlinerisch. || 알아. 근데 아빠는 은행에만 가면 너무… 베를린 사람 같아져.
+Kalle: Ick bin Berliner. Det is kein Fehler. || 나 베를린 사람이야. 그건 잘못이 아니야.
+Jana: In der Bank schon. Ein bisschen. Heute sprichst du Hochdeutsch. Für die Ecke. || 은행에선 조금 그래. 오늘은 표준어로 말해. 가게를 위해서.
+Kalle: Für die Ecke. Gut. Ich … spreche … Hochdeutsch. Ich bin … ein seriöser Geschäftsmann. || 가게를 위해서. 좋아. 나는… 표준어로… 말한다. 나는… 신뢰할 만한 사업가다.
+Jana: Perfekt. Genau so. Nur ein bisschen schneller. || 완벽해. 바로 그거야. 조금만 더 빨리.
+Kalle: Wenn ick … wenn ich schneller rede, kommt das Berlinerische zurück. Wie ein Bumerang. || 내가… 빨리 말하면 베를린 사투리가 돌아와. 부메랑처럼.
+Jana: Dann rede langsam. Langsam und seriös. Wie Doktor Albrecht. || 그럼 천천히 말해. 천천히, 신뢰감 있게. 알브레히트 박사처럼.
+Kalle: Wie Albrecht? Nie im Leben. Dann lieber berlinerisch. || 알브레히트처럼? 절대 싫어. 그럴 바엔 차라리 사투리 쓸래.
+## In der Bank | 은행에서
+Frau Kühn: Guten Morgen, Herr Kowalski. Kühn. Bitte, nehmen Sie Platz. Und Sie sind …? || 좋은 아침입니다, 코발스키 씨. 퀸입니다. 앉으세요. 그리고 이분은…?
+Jana: Jana Kowalski. Die Tochter. Ich begleite meinen Vater. Wenn das in Ordnung ist. || 야나 코발스키예요. 딸이에요. 아버지를 모시고 왔어요. 괜찮으시다면요.
+Frau Kühn: Selbstverständlich. Möchten Sie etwas trinken? Wasser, Kaffee? || 물론이죠. 뭐 드시겠어요? 물, 커피?
+Kalle: Nein, danke. Ich habe heute schon … drei Kaffee getrunken. Ich bin Wirt. Ich trinke den ganzen Tag Kaffee. || 아니요, 괜찮습니다. 오늘 벌써… 커피를 세 잔 마셨어요. 술집 주인이라 하루 종일 커피를 마시거든요.
+Frau Kühn: „Zur Ecke" am Maybachufer. Ich kenne die Kneipe. Ich bin früher oft vorbeigefahren. Mit dem Rad. Sie haben immer eine Tafel draußen stehen. || 마이바흐우퍼의 „Zur Ecke"요. 그 가게 알아요. 예전에 자전거 타고 자주 지나갔어요. 밖에 늘 칠판을 세워 두시죠.
+Kalle: Seit fünfundzwanzig Jahren. Mit … mit Rechtschreibfehlern. Manchmal. || 이십오 년째요. 맞춤법… 맞춤법 틀린 것도 있고요. 가끔.
+Frau Kühn: Ich erinnere mich an „Kartofelsalat". Mit einem F. Ich habe jedes Mal gelacht. || „Kartofelsalat" 기억나요. F 하나짜리요. 볼 때마다 웃었어요.
+Kalle: Das … das war Absicht. Damit die Leute lachen. || 그건… 그건 일부러 그런 거예요. 사람들 웃으라고요.
+Jana: Papa. || 아빠.
+Frau Kühn: Was kann ich heute für Sie tun, Herr Kowalski? || 오늘은 무엇을 도와드릴까요, 코발스키 씨?
+Kalle: Ich würde gern einen Kredit beantragen. Über vierzigtausend Euro. || 대출을 신청했으면 합니다. 사만 유로요.
+Frau Kühn: Vierzigtausend. Wofür, wenn ich fragen darf? Eine neue Küche? Eine Renovierung? || 사만 유로요. 여쭤봐도 된다면, 어디에 쓰실 건가요? 새 주방이요? 리모델링이요?
+Kalle: Für Genossenschaftsanteile. Die Mieter in unserem Haus wollen eine Genossenschaft gründen. Und das Haus kaufen. Mein Anteil für die Kneipe wäre ungefähr vierzigtausend. || 협동조합 출자금으로요. 우리 집 세입자들이 협동조합을 만들어서 집을 사려고 해요. 가게 몫으로 제 출자금이 대략 사만 유로 정도 될 거고요.
+Frau Kühn: Eine Genossenschaft. Interessant. Das ist nicht ganz alltäglich. Haben Sie Unterlagen mitgebracht? || 협동조합이요. 흥미롭네요. 흔한 일은 아니죠. 서류는 가져오셨나요?
+Kalle: Sechsundvierzig Seiten. Im blauen Ordner. || 마흔여섯 장이요. 파란 서류철에요.
+Frau Kühn: Sie sind sehr gut vorbereitet. Das sehe ich selten. Darf ich kurz durchsehen? || 준비를 아주 잘하셨네요. 그런 경우는 드물어요. 잠깐 훑어봐도 될까요?
+## Zahlen | 숫자
+Frau Kühn: Ihr Umsatz ist stabil. Ungefähr hundertzwanzigtausend im Jahr. Nach allen Kosten bleiben Ihnen etwa vierzehntausend. Vor der Steuer. || 매출은 안정적이네요. 연간 약 십이만 유로. 모든 비용을 빼고 나면 세전 약 만 사천 유로가 남으시고요.
+Kalle: Ja. Das stimmt. Leider. || 네. 맞아요. 안타깝게도요.
+Frau Kühn: Das sind gut tausendzweihundert im Monat. Davon leben Sie. Und Sie zahlen Ihre Wohnungsmiete, Ihre Krankenversicherung, Ihre Altersvorsorge. || 한 달에 천이백 유로 남짓이네요. 그걸로 생활하시는 거고요. 거기서 주택 월세, 건강보험, 노후 대비까지 내시는 거죠.
+Kalle: Altersvorsorge … Ich habe eine kleine Rentenversicherung. Seit zweitausendfünf. Und ich bin gesetzlich versichert. Als Selbstständiger. || 노후 대비라… 작은 연금 보험이 하나 있어요. 2005년부터요. 그리고 자영업자로 공적 보험에 들어 있고요.
+Frau Kühn: Wenn ich Ihnen vierzigtausend Euro leihe, mit einer Laufzeit von zehn Jahren und einem Zinssatz von ungefähr sechs Prozent, wäre Ihre monatliche Rate etwa vierhundertfünfzig Euro. || 제가 사만 유로를 빌려드린다면, 만기 십 년에 금리 약 6퍼센트로, 매달 상환금은 약 사백오십 유로가 될 거예요.
+Jana: Vierhundertfünfzig von tausendzweihundert. Das sind fast vierzig Prozent. || 천이백 중에 사백오십. 거의 40퍼센트네요.
+Frau Kühn: Genau. Und in zehn Jahren sind Sie achtundsechzig. Dann ist der Kredit zurückgezahlt. Wenn alles gut geht. || 맞아요. 그리고 십 년 뒤면 예순여덟이 되시죠. 그때 대출 상환이 끝나고요. 모든 게 잘 풀린다면요.
+Kalle: Und wenn nicht alles gut geht? || 잘 안 풀리면요?
+Frau Kühn: Das ist meine Frage an Sie, Herr Kowalski. Ihr Mietvertrag für die Kneipe endet Ende zweitausendsiebenundzwanzig. Was passiert danach? || 그게 제가 코발스키 씨께 드리는 질문이에요. 가게 임대 계약이 2027년 말에 끝나잖아요. 그다음엔 어떻게 되나요?
+Kalle: Wenn die Genossenschaft das Haus kauft, bekomme ich einen neuen Vertrag. Einen langen. Von uns selbst. || 협동조합이 집을 사면 새 계약을 받게 되죠. 긴 계약으로요. 우리 스스로한테서요.
+Frau Kühn: Und wenn die Genossenschaft das Haus nicht kauft? || 그럼 협동조합이 집을 못 사면요?
+Kalle: … Dann vielleicht nicht. Dann will Nordwert ein Café. || …그럼 아닐 수도 있죠. 그럼 노르트베르트는 카페를 원하고요.
+Frau Kühn: Sie sehen das Problem. Ich gebe Ihnen einen Kredit für Anteile an einem Haus, das noch niemand gekauft hat. Für eine Kneipe, deren Vertrag vielleicht in fünfzehn Monaten endet. Bei einem Einkommen, das sehr knapp ist. Und mit einem Kreditnehmer, der in neun Jahren in Rente geht. || 문제가 보이시죠. 아직 아무도 사지 않은 집의 출자금을 위해 대출을 해 드리는 거예요. 계약이 어쩌면 열다섯 달 뒤에 끝날 가게를 위해서요. 아주 빠듯한 소득으로요. 그리고 구 년 뒤면 은퇴할 대출자에게요.
+## Leider | 안타깝게도
+Frau Kühn: Herr Kowalski, ich bedaure, Ihnen mitteilen zu müssen, dass wir Ihnen diesen Kredit leider nicht anbieten können. Nicht in dieser Form. || 코발스키 씨, 이런 말씀을 드리게 되어 유감입니다만, 안타깝게도 이 대출은 해 드릴 수가 없습니다. 이런 형태로는요.
+Kalle: … Das habe ich befürchtet. || …그럴까 봐 걱정했어요.
+Frau Kühn: Ich möchte Ihnen das ehrlich erklären. Ihre Unterlagen sind hervorragend. Ihre Kneipe ist ein guter Betrieb. Aber das Risiko ist für die Bank zu hoch. Das entspricht nicht unseren Kriterien. || 솔직하게 설명드리고 싶어요. 서류는 훌륭해요. 가게도 좋은 사업체고요. 하지만 은행 입장에서 위험이 너무 커요. 저희 기준에 맞지 않아요.
+Kalle: Fünfundzwanzig Jahre. Nie eine Rate zu spät. Nie Schulden. Und dann sagt die Bank nein. Na toll. || 이십오 년이에요. 상환금 한 번도 늦은 적 없고. 빚진 적도 없고. 그런데 은행이 안 된대. 참 잘됐네요.
+Jana: Papa. || 아빠.
+Kalle: Entschuldigung. Det … das war nicht gegen Sie, Frau Kühn. Das war gegen … gegen alles. || 죄송합니다. 그건… 퀸 씨한테 한 말이 아니에요. 그건… 모든 것에 대해 한 말이에요.
+Frau Kühn: Ich kann Ihre Enttäuschung verstehen. Glauben Sie mir. Ich sitze hier jeden Tag und sage zu guten Menschen nein. Das ist der schwerste Teil meiner Arbeit. || 실망하신 거 이해해요. 정말이에요. 저는 매일 여기 앉아서 좋은 분들께 안 된다고 말해요. 그게 제 일에서 제일 힘든 부분이에요.
+Jana: Gibt es eine andere Möglichkeit? Wenn ich mitunterschreibe? Als zweite Kreditnehmerin? || 다른 방법은 없나요? 제가 같이 서명하면요? 공동 대출자로요?
+Frau Kühn: Das wäre möglich. Was verdienen Sie, Frau Kowalski? || 그건 가능할 수도 있어요. 코발스키 씨는 수입이 어떻게 되세요?
+Jana: Ich bin Teamleiterin in einem Fintech. Unbefristet. Gut bezahlt. || 핀테크 회사 팀장이에요. 정규직이고요. 연봉도 괜찮아요.
+Frau Kühn: Das klingt gut. Ist Ihre Firma stabil? || 좋네요. 회사는 안정적인가요?
+Jana: … Ehrlich gesagt gibt es gerade eine Umstrukturierung. Fünfzehn Prozent der Stellen. Bis Ende des Jahres. || …솔직히 말하면 지금 구조조정 중이에요. 인력의 15퍼센트요. 연말까지요.
+Frau Kühn: Dann würde ich Ihnen nicht raten, jetzt einen Kredit mitzuunterschreiben. Wenn Sie Ihre Stelle verlieren, haften Sie beide. Als Bankerin darf ich das eigentlich nicht sagen. Aber als Mensch sage ich es. || 그렇다면 지금 공동 서명은 권해 드리지 않을게요. 직장을 잃으시면 두 분 다 책임지셔야 하니까요. 은행원으로서 사실 이런 말을 하면 안 되는데, 사람으로서 말씀드리는 거예요.
+Jana: Danke. Das ist sehr ehrlich. || 고마워요. 정말 솔직하시네요.
+Frau Kühn: Und noch etwas, auch als Mensch: Gehen Sie mit der Genossenschaft zu einer Bank, die auf so etwas spezialisiert ist. Eine Bank für gemeinwohlorientierte Projekte. Die rechnen anders. Nicht mit Ihrem Alter. Sondern mit dem Haus. || 그리고 하나 더, 이것도 사람으로서요. 협동조합 건은 그런 일을 전문으로 하는 은행에 가 보세요. 공익 프로젝트를 위한 은행이요. 거긴 계산 방식이 달라요. 코발스키 씨 나이로 계산하지 않고 집으로 계산하죠.
+Kalle: Sie schicken uns zur Konkurrenz? || 우리를 경쟁 은행으로 보내시는 거예요?
+Frau Kühn: Ich schicke Sie dahin, wo man Ihnen helfen kann. Und, Herr Kowalski? Wenn die Genossenschaft es schafft … dann komme ich zum Fest. Mit dem Rad. Und ich bestelle Kartoffelsalat. Mit einem F. || 도와드릴 수 있는 곳으로 보내 드리는 거예요. 그리고 코발스키 씨? 협동조합이 해내면… 잔치에 갈게요. 자전거 타고요. 그리고 감자 샐러드를 주문할게요. F 하나짜리로요.
+## Auf dem Hermannplatz | 헤르만플라츠에서
+Kalle: Nein. Fünfundzwanzig Jahre, und die Bank sagt nein. || 안 된대. 이십오 년인데 은행이 안 된대.
+Jana: Sie hat nicht nein gesagt, Papa. Sie hat gesagt: nicht in dieser Form. Das ist ein Unterschied. || 안 된다고 한 게 아니야, 아빠. 이런 형태로는 안 된다고 했지. 그건 달라.
+Kalle: Du redest schon wie Frau Schulze. || 너 벌써 슐체 부인처럼 말한다.
+Jana: Das nehme ich als Kompliment. || 칭찬으로 받을게.
+Kalle: Weißt du, was das Schlimmste war? Nicht das Nein. Sondern als sie gesagt hat: in neun Jahren Rente. Ick hab mich plötzlich alt gefühlt. So alt wie der Giraffatitan im Museum. || 제일 끔찍했던 게 뭔지 알아? 안 된다는 말이 아니라, 구 년 뒤면 은퇴한다는 말이었어. 갑자기 늙은 느낌이 들더라. 박물관에 있는 기라파티탄만큼.
+Jana: Du bist nicht alt. Du bist achtundfünfzig. Du hast heute Hochdeutsch gesprochen. Fast eine Stunde lang. Das ist jünger als je zuvor. || 아빠 안 늙었어. 쉰여덟이야. 오늘 표준어로 말했잖아. 거의 한 시간 동안. 그게 이제까지 중 제일 젊어 보였어.
+Kalle: Und bei „Na toll" war ick wieder Berliner. || 근데 „참 잘됐네요"에서 다시 베를린 사람이 됐지.
+Jana: „Na toll" ist Hochdeutsch, Papa. Das ist nur Ironie. || „Na toll"은 표준어야, 아빠. 그건 그냥 반어법이야.
+Kalle: Jana … ick hab mir überlegt … Wenn ick die vierzigtausend nicht bekomme, dann bin ick eine Last. Für die Genossenschaft. Dann sollte ick vielleicht doch die dreißigtausend von Albrecht nehmen. Und gehen. Damit die anderen es leichter haben. || 야나… 생각해 봤는데… 내가 사만 유로를 못 구하면 협동조합한테 짐이 되잖아. 그럼 차라리 알브레히트의 삼만 유로를 받고 나가는 게 나을지도 몰라. 다른 사람들이 편하게.
+Jana: Papa! Nein! Du hast gestern den Brief abgeschickt. Mit „Ich habe darüber nachgedacht". || 아빠! 안 돼! 어제 편지 보냈잖아. „생각해 봤습니다"라고 써서.
+Kalle: Der Brief ist erst unterwegs. Er ist noch nich angekommen. || 편지는 아직 가는 중이야. 아직 도착 안 했어.
+Jana: Dann komme ich dir mit etwas anderem zuvor. Ich habe fünfzehntausend Euro gespart. Für eine Wohnung. Irgendwann. Die gebe ich in die Genossenschaft. Für die Ecke. || 그럼 내가 다른 걸로 먼저 막을게. 나 만 오천 유로 모아 놨어. 언젠가 집 사려고. 그거 협동조합에 낼게. 가게를 위해서.
+Kalle: Nein. Det ist dein Geld. Für dein Leben. || 안 돼. 그건 네 돈이야. 네 인생을 위한.
+Jana: Die Ecke ist mein Leben, Papa. Das habe ich in der Langen Nacht der Museen gemerkt. Vor Nofretete. Um Mitternacht. || 가게가 내 인생이야, 아빠. 박물관의 긴 밤에 알았어. 네페르티티 앞에서. 자정에.
+Kalle: … Vor einer Königin mit einem Auge. || …눈 하나 있는 왕비 앞에서.
+Jana: Mit einem Auge sieht man manchmal klarer. Das hat Can gesagt. || 눈 하나로 가끔 더 똑똑히 보인대. 잔이 그랬어.
+## Mittags in der Ecke | 점심, 크나이페에서
+Bine: Und? Wie war es? Du guckst wie nach einem Elfmeter. Einem verschossenen. || 그래서? 어땠어? 페널티킥 놓친 사람 표정이다.
+Kalle: Verschossen. Die Bank sagt nein. Zu alt, zu wenig Geld, zu viel Risiko. || 놓쳤지. 은행이 안 된대. 너무 늙었고, 돈은 너무 적고, 위험은 너무 크대.
+Edith: Zu alt? Mit achtundfünfzig? Dann bin ich ja schon versteinert. || 너무 늙었다고? 쉰여덟에? 그럼 나는 벌써 화석이겠네.
+Kalle: Du hast keinen Kredit beantragt, Edith. || 에디트는 대출 신청 안 했잖아.
+Edith: Ich habe in meinem ganzen Leben nie einen Kredit bekommen. Weißt du, warum? || 나는 평생 대출이라는 걸 받아 본 적이 없어. 왜인지 알아?
+Tobi: Weil Sie immer gespart haben? || 늘 저축하셔서요?
+Edith: Auch. Aber neunzehnhundertvierundsechzig wollte ich ein Konto eröffnen. Bei einer Bank. Mit einundzwanzig. Mit meinem eigenen Geld von der Post. Und der Mann am Schalter hat gefragt: Wo ist Ihr Vater? Oder Ihr Mann? || 그것도 있지. 그런데 1964년에 은행 계좌를 하나 열려고 했어. 스물한 살에. 우체국에서 번 내 돈으로. 그런데 창구 남자가 묻더라. 아버지는 어디 계세요? 아니면 남편은요?
+Bine: Was? Warum? || 뭐라고요? 왜요?
+Edith: Weil Frauen damals vieles nicht allein machen sollten. Mein Mann musste bis neunzehnhundertsiebenundsiebzig sogar offiziell einverstanden sein, dass ich arbeite. Das stand im Gesetz. Werner hat gelacht und unterschrieben. Aber ich habe es nie vergessen. || 그때는 여자가 혼자서 하면 안 되는 일이 많았으니까. 1977년까지는 내가 일하는 것에 남편이 공식적으로 동의해야 했어. 법에 그렇게 적혀 있었지. 베르너는 웃으면서 서명했어. 그래도 나는 그걸 한 번도 잊은 적이 없어.
+Tobi: Bis neunzehnhundertsiebenundsiebzig? Das ist ja fast gestern! || 1977년까지요? 그거 거의 어제잖아요!
+Edith: Für mich ist es gestern. Deshalb sage ich: Eine Bank, die nein sagt, ist nicht das Ende der Welt. Ich habe in meinem Leben schon viele Neins gehört. Das war meistens der Anfang. || 나한텐 어제지. 그래서 하는 말이야. 은행이 안 된다고 하는 게 세상의 끝은 아니야. 나는 살면서 안 된다는 말을 수도 없이 들었어. 그게 대개는 시작이었지.
+Bine: Kalle, ich habe auch etwas gespart. Nicht viel. Dreitausend. Für Finns Studium. Aber Finn weiß noch nicht, ob er studiert. || 칼레, 나도 모아 둔 게 좀 있어. 많진 않아. 삼천 유로. 핀 대학 등록금으로. 근데 핀은 아직 대학 갈지도 모르잖아.
+Kalle: Bine, nein. Nicht dein Geld. || 비네, 안 돼. 네 돈은 안 돼.
+Bine: Nicht als Geschenk. Als Direktkredit. Jannik hat das erklärt. Ab fünfhundert Euro. Ich bekomme es zurück. Mit ein bisschen Zinsen. Besser als auf meinem Sparbuch. || 선물로 주는 게 아니야. 직접 대출로. 야니크가 설명해 줬잖아. 오백 유로부터. 돌려받는 거야. 이자도 조금 붙여서. 내 예금 통장보다 나아.
+Tobi: Und ich mache eine Spendentour. Mit dem Lastenrad. Durch den ganzen Kiez. Mit einem Schild: „Rettet die Ecke." Und einer Spendendose. || 그리고 저는 모금 투어를 할게요. 화물자전거 타고요. 동네 곳곳을 돌면서. „„Zur Ecke"를 구해 주세요"라는 팻말이랑 모금함 들고요.
+Kalle: „Rettet die Ecke"? Wie ein Tierheim? Ick bin doch keine Katze. || „„Zur Ecke"를 구해 주세요"? 무슨 동물 보호소처럼? 내가 고양이도 아니고.
+Edith: Krümel wurde auch gerettet. Und er ist sehr glücklich. || 크뤼멜도 구조됐잖아. 그리고 아주 행복해하고.
+Tobi: Dann eben: „Rettet das Eckhaus." Für alle. Nicht nur für dich. || 그럼 „에케하우스를 구해 주세요"로 하죠. 모두를 위해서요. 칼레만이 아니라.
+Kalle: … Ihr seid alle verrückt. Det wisst ihr, oder? || …너희 다 미쳤어. 알지?
+Bine: Wir wissen es. Das ist ja das Schöne. || 알지. 그게 바로 좋은 점이야.
+Edith: Und Kalle? Den Brief an Albrecht. Der ist schon unterwegs, oder? || 그리고 칼레? 알브레히트한테 보낸 편지. 그거 벌써 가고 있지?
+Kalle: Unterwegs. Seit gestern. Ick habe vorhin kurz gedacht, ick sollte ihn zurückholen. || 가고 있어. 어제부터. 아까 잠깐 그걸 다시 찾아와야 하나 생각했어.
+Edith: Briefe holt man nicht zurück. Das habe ich bei der Post gelernt. Neunzehnhunderteinundsechzig. Man schreibt einen neuen. Oder man steht zu dem alten. || 편지는 다시 찾아오는 게 아니야. 우체국에서 배웠어. 1961년에. 새로 쓰든지. 아니면 옛날 편지를 책임지든지.
+Kalle: Dann stehe ick dazu. Ick bleibe. Mit oder ohne Bank. || 그럼 책임질게. 남을 거야. 은행이 있든 없든.
+## Der Kaufpreis | 매입가
+Frau Schulze: Da sind Sie ja. Wie war es bei der Bank? || 오셨네요. 은행은 어땠어요?
+Kalle: Nein. Aber höflich. || 안 된대요. 그래도 정중하게요.
+Frau Schulze: Das habe ich erwartet. Aber ich habe eine andere Nachricht. Ich war heute bei Frau Doktor Lindner im Stadtplanungsamt. Persönlich. || 그럴 줄 알았어요. 그런데 다른 소식이 있어요. 오늘 도시계획과 린드너 박사를 만나고 왔어요. 직접요.
+Jannik: Und? Hat sie Ihnen den Kaufpreis gesagt? || 그래서요? 매입가를 알려 줬어요?
+Frau Schulze: Sie durfte ihn mir nicht sagen. Datenschutz. Aber sie hat gesagt: Wenn ich eine Zahl nenne, dann nickt sie oder nicht. || 알려 줄 수는 없었어요. 개인 정보 보호 때문에요. 그래도 이렇게 말하더군요. 내가 숫자를 말하면 고개를 끄덕이든지 말든지 하겠다고.
+Derya: Und? Haben Sie eine Zahl genannt? || 그래서요? 숫자를 말하셨어요?
+Frau Schulze: Ich habe mit vier Millionen angefangen. Kein Nicken. Vier Komma fünf. Kein Nicken. Vier Komma zwei. Sie hat genickt. Ganz leicht. || 사백만으로 시작했어요. 안 끄덕이더군요. 사백오십만. 안 끄덕이고요. 사백이십만. 끄덕였어요. 아주 살짝.
+Jannik: Vier Komma zwei Millionen. Für vierzehn Wohnungen und die Kneipe. Das ist … das ist viel. Aber nicht verrückt für die Lage. || 사백이십만. 집 열네 채랑 가게까지. 그건… 많긴 하네요. 그래도 위치를 생각하면 말도 안 되는 금액은 아니에요.
+Frau Schulze: Und sie hat noch etwas gesagt. Der Bezirk prüft das Vorkaufsrecht ernsthaft. Aber der Bezirk hat kein Geld, um das Haus selbst zu kaufen. Er kann es nur für einen Dritten ausüben. Zum Beispiel für eine Genossenschaft. Wenn die Genossenschaft das Geld hat. Bis Ende Oktober. || 그리고 하나 더 말해 줬어요. 구청이 선매권을 진지하게 검토하고 있대요. 하지만 구청은 집을 직접 살 돈이 없어서, 제삼자를 위해서만 행사할 수 있대요. 예를 들면 협동조합이요. 그 협동조합이 돈이 있다면요. 10월 말까지요.
+Derya: Bis Ende Oktober vier Komma zwei Millionen? Das ist in vier Wochen! || 10월 말까지 사백이십만을요? 그건 사 주 뒤예요!
+Jannik: Nicht alles. Die Finanzierung muss nicht fertig sein. Aber der Bezirk braucht eine Zusage. Von einer Bank. Dass sie finanzieren würde. || 전부는 아니에요. 자금 조달이 다 끝나 있을 필요는 없어요. 그래도 구청은 확약이 필요해요. 은행이 대출해 줄 거라는 확약이요.
+Kalle: Und unsere Bank hat gerade nein gesagt. || 그리고 우리 은행은 방금 안 된다고 했지.
+Jana: Deine Bank, Papa. Nicht unsere. Frau Kühn hat uns eine andere geschickt. Eine Bank für Gemeinwohl. || 아빠 은행이지, 아빠. 우리 은행이 아니라. 퀸 씨가 다른 은행을 알려 줬잖아. 공익 은행이요.
+Jannik: Die kenne ich! Drei von den sieben Häusern haben dort ihren Kredit bekommen. Ich rufe morgen an. Um acht. || 거기 알아요! 일곱 건물 중 세 곳이 거기서 대출을 받았어요. 내일 전화할게요. 여덟 시에.
+Frau Schulze: Mit Datum und Uhrzeit, Herr Huber. || 날짜랑 시간 적어서요, 후버 씨.
+Jannik: Mit Datum und Uhrzeit, Frau Schulze. Ich habe es gelernt. || 날짜랑 시간 적어서요, 슐체 부인. 배웠어요.
