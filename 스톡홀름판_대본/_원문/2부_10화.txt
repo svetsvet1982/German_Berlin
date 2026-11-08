@@ -1,0 +1,269 @@
+PART: 2
+EP: 10
+TITLE: Omprövningen
+SUBTITLE: 재심사 · 사건 10 해결 + 안톤의 이야기, 카페 Biggans
+META: 대사 120턴 · 난이도 B1+ · 배경: 1월 둘째 주 수요일부터 금요일 저녁 Biggan의 식탁까지
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트 (병가 중)
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: HAMMARSKJÖLD | 부활한 유엔 사무총장 (1905–1961)
+CAST: LAGERLÖF | 부활한 작가 (1858–1940)
+CAST: JESSICA | Noel의 엄마 · 간호조무사 (가상)
+CAST: NOEL | 16세 · 카페에서 주말에 설거지하는 아이 (가상)
+NOTE: ※ 사회보험청의 결정에 동의하지 않으면 두 달 안에 재심사(omprövning)를 청구할 수 있고, 재심사 결과에도 동의하지 않으면 행정법원(förvaltningsrätten)에 항소할 수 있습니다. 핵심은 진단서입니다. 진단명만이 아니라 ‘무엇을 할 수 없는지’(활동 제한, aktivitetsbegränsning)를 구체적으로 적어야 합니다. 금요일에는 Anton이 이야기합니다. 영어 섞인 컨설팅 용어가 그에게 무엇이었는지. 문법 초점: 이유와 결과를 잇는 접속사(eftersom, därför att, så att, trots att). 표현 초점: begära omprövning, läkarintyg, beslut, förväntningar, vila.
+
+# 도입 — INTYGET
+JESSICA: Jag har det! Det nya intyget!
+= 받았어요! 새 진단서요!
+BIGGAN: Kom in, kom in. Sätt dig. Rygg först.
+= 들어와, 들어와. 앉아. 허리부터.
+JESSICA: Doktor Pettersson på vårdcentralen tog fyrtio minuter. Hon har aldrig tagit mer än tio förut.
+= 진료소 페테르손 선생님이 40분을 써 줬어요. 전엔 10분 넘게 써 준 적이 없었는데.
+DANIEL: Tog du med frågorna?
+= 질문들 가져갔어요?
+JESSICA: Alla tolv. Hon sa: ”Det här är de bästa frågorna jag har fått av en patient.”
+= 열두 개 전부요. 선생님이 그러셨어요: ‘환자한테 받은 질문 중에 제일 좋은 질문들이네요.’
+DANIEL: De var Elsas frågor. Jag rättade bara medicinska ord.
+= 엘사가 만든 질문이에요. 난 의학 용어만 고쳤어요.
+ELSA: Jag frågade bara det jag själv inte förstod.
+= 저는 제가 이해 못 한 걸 물어봤을 뿐이에요.
+JOHAN: Det är det bästa sättet att fråga. Läs, Jessica.
+= 그게 제일 좋은 질문법이야. 읽어 봐요, 제시카.
+JESSICA: ”Patienten kan inte sitta längre än tjugo minuter i följd. Kan inte lyfta mer än två kilo. Sömnen störs av smärta tre till fyra gånger per natt.”
+= ‘환자는 연속으로 20분 이상 앉아 있을 수 없음. 2킬로 이상 들 수 없음. 통증으로 밤에 서너 번 잠이 깸.’
+MAJA: Konkret. Mätbart. Bra.
+= 구체적. 측정 가능. 좋아.
+JESSICA: ”Med hänsyn till detta bedöms patienten inte ha arbetsförmåga i ett normalt förekommande arbete på heltid.”
+= ‘이를 고려할 때, 환자는 일반적으로 존재하는 일을 종일 할 수 있는 근로 능력이 없다고 판단됨.’
+ELSA: Arbetsförmåga. Att man kan jobba?
+= 근로 능력. 일할 수 있다는 거요?
+JOHAN: Att man kan jobba, och hur mycket. Det är ordet Försäkringskassan letar efter.
+= 일할 수 있는지, 그리고 얼마나. 사회보험청이 찾는 단어가 그거야.
+NOEL: Betyder det att mamma får pengar nu?
+= 그럼 이제 엄마가 돈 받는 거예요?
+JOHAN: Det betyder att vi har ett bra papper. Nu skriver vi begäran om omprövning.
+= 좋은 서류가 생겼다는 뜻이야. 이제 재심사 청구서를 쓰자.
+ANTON: Jag kan skriva…
+= 내가 쓸 수…
+MAJA: Du ligger på soffan, Anton.
+= 넌 소파에 누워 있어, 안톤.
+ANTON: Jag ligger på soffan. Men jag kan prata från soffan.
+= 소파에 누워 있잖아. 근데 소파에서도 말은 할 수 있어.
+BIGGAN: Prata får du. Men utan händer.
+= 말은 해도 돼. 손은 쓰지 말고.
+ANTON: Det är tredje dagen utan telefon. Jag har tittat ut genom fönstret i sex timmar i går.
+= 전화기 없이 사흘째야. 어제 여섯 시간 동안 창밖을 봤어.
+ELSA: Vad såg du?
+= 뭐 봤어요?
+ANTON: En kråka. Hon bodde på taket mittemot. Jag kallar henne Stina.
+= 까마귀 한 마리. 맞은편 지붕에 살아. 스티나라고 부르기로 했어.
+OXENSTIERNA: Han döper fåglar. Han tillfrisknar.
+= 새한테 이름을 붙이는군. 회복 중이야.
+BIGGAN: Stina är en bra kråka. Hon kommer varje morgon klockan åtta. Som Leyla.
+= 스티나는 좋은 까마귀야. 매일 아침 여덟 시에 와. 레일라처럼.
+
+# 장면 1 — BEGÄRAN OM OMPRÖVNING
+JOHAN: Elsa, du skriver. Jag säger. Enkelt.
+= 엘사, 네가 써. 내가 말할게. 쉽게.
+ELSA: Klarspråk?
+= 쉬운 말로요?
+JOHAN: Klarspråk. Försäkringskassan läser tusentals brev. De bästa är korta.
+= 쉬운 말로. 사회보험청은 수천 통의 편지를 읽어. 제일 좋은 건 짧은 거야.
+ELSA: ”Till Försäkringskassan. Jag begär omprövning av beslutet om sjukpenning daterat den elfte januari.”
+= ‘사회보험청 귀하. 1월 11일 자 병가 수당 결정에 대한 재심사를 청구합니다.’
+JOHAN: Bra. Sen: varför.
+= 좋아. 그다음: 이유.
+ELSA: ”Jag anser att beslutet är fel eftersom…”
+= ‘저는 이 결정이 틀렸다고 생각합니다. 왜냐하면…’
+ANTON: ”…eftersom beslutet inte tar hänsyn till min faktiska förmåga att sitta.”
+= ‘…왜냐하면 결정이 제가 실제로 앉아 있을 수 있는 능력을 고려하지 않았기 때문입니다.’
+JOHAN: Anton. Det var faktiskt perfekt.
+= 안톤. 그거 진짜 완벽했어.
+ANTON: Jag vet. Jag har legat här och skrivit i huvudet.
+= 알아. 여기 누워서 머릿속으로 쓰고 있었어.
+MAJA: Utan engelska.
+= 영어 없이.
+ANTON: På soffan finns ingen engelska. Bara Stina.
+= 소파엔 영어가 없어. 스티나밖에.
+ELSA: ”…eftersom beslutet inte tar hänsyn till min faktiska förmåga att sitta. Jag kan inte sitta mer än tjugo minuter i följd. Se bifogat läkarintyg.”
+= ‘…왜냐하면 결정이 제가 실제로 앉아 있을 수 있는 능력을 고려하지 않았기 때문입니다. 저는 연속으로 20분 이상 앉아 있을 수 없습니다. 첨부된 진단서를 보십시오.’
+JOHAN: Och en mening till. Om att de inte har sagt vilket jobb de menar.
+= 그리고 한 문장 더. 어떤 일을 말하는지 그쪽이 말하지 않았다는 것.
+WICKSELL: Skriv: ”Försäkringskassan har inte visat att ett sådant arbete finns för mig.”
+= 이렇게 쓰게: ‘사회보험청은 저에게 그런 일이 존재한다는 것을 보여 주지 않았습니다.’
+ELSA: ”…har inte visat att ett sådant arbete finns för mig.” Det låter starkt.
+= ‘…저에게 그런 일이 존재한다는 것을 보여 주지 않았습니다.’ 강하게 들리네요.
+WICKSELL: Det är inte starkt. Det är sant. Ibland är det samma sak.
+= 강한 게 아니라 사실이야. 가끔은 그게 같은 거지.
+JESSICA: Ska jag skriva under nu?
+= 이제 서명해야 해요?
+BIGGAN: Läs det först. Hela. Det är en regel i det här huset.
+= 먼저 읽어. 전부. 이 집 규칙이야.
+JESSICA: ”Jag begär omprövning… eftersom… se bifogat… har inte visat…” Det är mitt liv på en sida.
+= ‘재심사를 청구합니다… 왜냐하면… 첨부된… 보여 주지 않았습니다…’ 제 인생이 한 장에 있네요.
+LAGERLÖF: De bästa berättelserna får plats på en sida. Resten är bara ord.
+= 최고의 이야기는 한 장에 들어가요. 나머지는 그냥 말일 뿐이죠.
+NOEL: Och om de säger nej igen?
+= 그리고 또 안 된다고 하면요?
+JOHAN: Då går vi till förvaltningsrätten. En domstol. Det tar längre tid. Men det kostar inget.
+= 그럼 행정법원에 가. 법원이야. 시간은 더 걸려. 근데 돈은 안 들어.
+ELSA: Förvaltningsrätten. Domstolen för myndigheter?
+= 행정법원. 관청을 위한 법원이요?
+JOHAN: Domstolen mot myndigheter, ibland.
+= 가끔은 관청에 맞서는 법원.
+OXENSTIERNA: En domstol där folket kan stämma kronan. På min tid hade jag låtit hänga den som föreslog det.
+= 백성이 왕실을 고소할 수 있는 법원이라. 내 시절엔 그런 걸 제안한 자를 목매달게 했을 거네.
+DANIEL: Och nu är ni glad att den finns?
+= 그럼 지금은 그게 있어서 기쁘세요?
+OXENSTIERNA: Nu är jag död. Det ändrar perspektivet.
+= 지금은 내가 죽었지. 그게 관점을 바꾸더군.
+
+# 장면 2 — TORSDAG: SVARET
+NOEL: Mamma! Mamma, telefonen!
+= 엄마! 엄마, 전화!
+JESSICA: Det är Försäkringskassan. Jag kan inte svara. Elsa, svara du.
+= 사회보험청이에요. 못 받겠어요. 엘사, 네가 받아.
+ELSA: Jag? Okej. Hej, det här är Elsa. Jag sitter bredvid Jessica… Ja. Ja, hon är här. Jag sätter på högtalaren.
+= 저요? 알겠어요. 여보세요, 엘사예요. 제시카 옆에 있어요… 네. 네, 여기 계세요. 스피커로 할게요.
+JESSICA: Hej. Det är Jessica.
+= 여보세요. 제시카예요.
+ELSA: Hon säger att de har läst omprövningen. Och det nya intyget.
+= 재심사 청구서를 읽었대요. 그리고 새 진단서도.
+JESSICA: Och?
+= 그리고요?
+ELSA: Hon säger… att de ändrar beslutet. Jessica får fortsatt sjukpenning på femtio procent. Med ett nytt beslut efter tre månader.
+= 그 사람 말이… 결정을 바꾼대요. 제시카는 50퍼센트 병가 수당을 계속 받는대요. 석 달 뒤에 새로 결정하고.
+NOEL: Ja! JA!
+= 됐다! 됐다!
+JESSICA: Ändrar? De ändrar?
+= 바꾼대? 바꾼대요?
+ELSA: Hon säger: ”Det nya intyget gav oss en tydligare bild.” Och: ”Tack för ett tydligt brev.”
+= 이렇게 말해요: ‘새 진단서로 더 분명한 그림을 얻었습니다.’ 그리고: ‘분명한 편지 감사합니다.’
+BIGGAN: Ett tydligt brev! Det var Anton.
+= 분명한 편지! 그건 안톤 덕이야.
+ANTON: Från soffan.
+= 소파에서.
+MAJA: Och Elsa skrev. Och Wicksell la till den bästa meningen.
+= 그리고 엘사가 썼지. 그리고 빅셀 님이 제일 좋은 문장을 보태셨고.
+WICKSELL: Den sannaste. Inte den bästa.
+= 가장 진실한 문장. 제일 좋은 문장이 아니라.
+JESSICA: Jag vet inte vad jag ska säga. Jag har varit rädd sedan juli.
+= 뭐라고 해야 할지 모르겠어요. 7월부터 무서웠어요.
+DANIEL: Nu kan du sova lite bättre. Om ryggen tillåter.
+= 이제 조금 더 잘 자겠네요. 허리가 허락한다면.
+JESSICA: Ryggen tillåter aldrig. Men huvudet kanske.
+= 허리는 절대 허락 안 해요. 근데 머리는 어쩌면.
+NOEL: Mamma, kan vi köpa pizza i kväll? En hel?
+= 엄마, 오늘 밤에 피자 사 먹어도 돼? 한 판 통째로?
+JESSICA: En hel. Med extra ost.
+= 한 판 통째로. 치즈 추가해서.
+BIGGAN: Och bullar till efterrätt. Från mig.
+= 그리고 디저트로 번. 내가 줄게.
+JOHAN: Tre månader. Sen ett nytt beslut. Då behövs ett nytt intyg. Vi börjar i god tid.
+= 석 달. 그다음엔 새 결정. 그땐 새 진단서가 필요해요. 미리미리 시작하죠.
+LAGERLÖF: En berättelse som inte är slut. Men som har ett bra kapitel.
+= 끝나지 않은 이야기지만. 좋은 장 하나가 있는 이야기네요.
+ELSA: Ett tydligt brev. Det är egentligen allt Försäkringskassan ville ha?
+= 분명한 편지. 사회보험청이 원했던 건 사실 그게 다였어요?
+JOHAN: De ville ha ett tydligt intyg. Det är läkarens jobb. Men ingen hade frågat Jessica tydligt förut.
+= 분명한 진단서를 원했지. 그건 의사의 일이야. 근데 전엔 아무도 제시카한테 분명하게 묻지 않았어.
+ELSA: Regel tre. Den som inte förstår får fråga.
+= 규칙 3번. 이해 못 하는 사람은 물어봐도 된다.
+
+# 절정 — FREDAG: ANTONS BERÄTTELSE
+BIGGAN: Fredag. Klockan sju. Tacos. Anton.
+= 금요일. 일곱 시. 타코. 안톤.
+ANTON: Okej. Inga slides.
+= 좋아. 슬라이드 없이.
+LAGERLÖF: Hur det var. Börja med en plats.
+= 어땠는지. 장소로 시작해요.
+ANTON: Ett kylskåp. På Karlavägen. Hemma hos mina föräldrar.
+= 냉장고. 칼라베겐에 있는. 부모님 집.
+ELSA: Ett kylskåp?
+= 냉장고요?
+ANTON: På kylskåpet hängde ett papper. Pappa hade gjort det. En tabell. Med mina betyg, mina tider på simningen, mina tävlingar i schack. Varje vecka.
+= 냉장고에 종이가 한 장 붙어 있었어. 아버지가 만든 거. 표였지. 내 성적, 수영 기록, 체스 대회 결과. 매주.
+MAJA: En matris.
+= 매트릭스네.
+ANTON: Den första matrisen i mitt liv. Gröna rutor när det gick bra. Röda när det gick dåligt.
+= 내 인생 첫 매트릭스. 잘하면 초록 칸. 못하면 빨간 칸.
+DANIEL: Hur gammal var du?
+= 몇 살이었어?
+ANTON: Sju. Den hängde där tills jag var arton.
+= 일곱 살. 열여덟 살 때까지 거기 붙어 있었어.
+BIGGAN: Elva år med ett papper på kylskåpet.
+= 11년 동안 냉장고에 종이 한 장.
+ANTON: Pappa var vd för ett stort bolag. Han sa: ”Det som mäts blir gjort.” Det var hans favoritmening. Han sa den på engelska. ”What gets measured gets done.”
+= 아버지는 큰 회사 사장이었어. 이렇게 말했지: ‘측정되는 것이 이루어진다.’ 아버지가 제일 좋아하는 문장이었어. 영어로 말했지. ‘What gets measured gets done.’
+MAJA: Jag räknar inte den. Den är ett citat.
+= 그건 안 셀게. 인용이니까.
+ANTON: Tack.
+= 고마워.
+HAMMARSKJÖLD: Och hur kändes det, Anton? Att se det papperet varje morgon?
+= 그래서 어떻게 느껴졌어요, 안톤? 매일 아침 그 종이를 보는 게?
+ANTON: Som att bli granskad. Av sin egen familj. Före frukost.
+= 감사받는 것 같았어요. 자기 가족한테. 아침 먹기 전에.
+LAGERLÖF: Vad hände?
+= 무슨 일이 있었어요?
+ANTON: Jag fick gröna rutor. Nästan alltid. Handels. Bästa betyg. Konsultbyrå i London. Sen Stockholm. Jag blev den yngsta partnern-kandidaten på byrån.
+= 초록 칸을 받았어. 거의 항상. 경영대. 최고 성적. 런던 컨설팅 회사. 그다음 스톡홀름. 회사에서 최연소 파트너 후보가 됐지.
+ELSA: Och pappa? Var han stolt?
+= 그리고 아버지는요? 자랑스러워하셨어요?
+ANTON: Han frågade: ”Varför inte partner direkt?”
+= 이렇게 물으셨어: ‘왜 바로 파트너가 아니냐?’
+OXENSTIERNA: Ah. En sådan far. Jag var en sådan far.
+= 아. 그런 아버지로군. 내가 그런 아버지였지.
+ANTON: Och engelskan… Det var i London jag började. Alla pratade så. Synergier, alignment, deliverables. Det lät smart. Och man behövde aldrig säga vad man kände.
+= 그리고 영어는… 런던에서 시작됐어. 다들 그렇게 말했거든. 시너지, 얼라인먼트, 딜리버러블. 똑똑하게 들렸어. 그리고 내가 뭘 느끼는지 말할 필요가 전혀 없었지.
+HAMMARSKJÖLD: Ett språk som rustning.
+= 갑옷으로서의 언어.
+ANTON: Precis. På engelska låter man smart även när man är rädd. På svenska låter man bara rädd.
+= 바로 그거예요. 영어로는 무서울 때도 똑똑하게 들려요. 스웨덴어로는 그냥 무섭게 들리고요.
+ELSA: Och i november sa jag ”NU RÄCKER DET”.
+= 그리고 11월에 제가 ‘이제 그만’이라고 했죠.
+ANTON: Och jag skämdes. Och sen tänkte jag: hon har rätt. Jag har inte sagt en enda sann mening på jobbet på sju år.
+= 그리고 난 부끄러웠어. 그러고 나서 생각했지: 쟤 말이 맞다. 난 7년 동안 회사에서 진실한 문장을 단 하나도 말하지 않았다.
+
+# 마무리 — PAPPA RINGER
+LAGERLÖF: Och vad betydde det, Anton?
+= 그리고 그게 무엇을 의미했나요, 안톤?
+ANTON: Att jag föll ihop på en presentation för en bank jag inte ens tror på. Och att det var det bästa som hänt mig på länge.
+= 내가 믿지도 않는 은행 앞에서 프레젠테이션하다 쓰러졌다는 것. 그리고 그게 오랜만에 나한테 일어난 최고의 일이었다는 것.
+DANIEL: Det säger många efteråt. Inte alla. Men många.
+= 나중에 많은 사람들이 그렇게 말해. 다는 아니지만. 많이.
+BIGGAN: Kassalådan ringer. Det är din telefon, Anton.
+= 계산대 서랍이 울리네. 네 전화야, 안톤.
+ANTON: Det är pappa. Jag ser det på ringsignalen. Den låter arg.
+= 아버지야. 벨 소리로 알아. 화난 소리야.
+BIGGAN: Ska jag svara?
+= 내가 받을까?
+ANTON: …Ja. Snälla.
+= …응. 부탁해.
+BIGGAN: Hej, det här är Birgitta Lund. Antons… värdinna. Anton vilar. Han är sjukskriven. Ring på måndag. Hej då.
+= 여보세요, 비르기타 룬드입니다. 안톤의… 집주인이에요. 안톤은 쉬고 있어요. 병가 중이에요. 월요일에 전화하세요. 안녕히 계세요.
+ELSA: Vad sa han?
+= 뭐래요?
+BIGGAN: Han sa ”vem är du?”. Jag sa att jag är den som bakar bullar. Sen lade jag på.
+= ‘당신 누구요?’라고 하더라. 번 굽는 사람이라고 했지. 그리고 끊었어.
+ANTON: Ingen har någonsin lagt på för pappa.
+= 아버지 전화를 끊은 사람은 아무도 없었어.
+OXENSTIERNA: Det är dags att någon gjorde det.
+= 누군가 그럴 때가 됐지.
+MAJA: Anton, vad gör du efter sjukskrivningen?
+= 안톤, 병가 끝나면 뭐 할 거야?
+ANTON: Jag vet inte. Kanske säger jag upp mig från byrån. Kanske jobbar jag här. Halvtid. Med ett papper och siffror. Utan slides.
+= 모르겠어. 회사를 그만둘지도. 여기서 일할지도. 반일로. 종이 한 장이랑 숫자로. 슬라이드 없이.
+JOHAN: Vi har inga pengar att betala dig.
+= 우린 너한테 줄 돈이 없어.
+ANTON: Jag vet. Det är det som är så skönt.
+= 알아. 그게 그렇게 좋은 거야.
+ELSA: Och Stina? Kråkan?
+= 그리고 스티나는요? 까마귀?
+ANTON: Hon har flyttat till taket bredvid. Hon har också bytt jobb.
+= 옆 지붕으로 이사 갔어. 걔도 직장을 바꿨지.
+NEXT: 2부 11화 — «Staden som flyttar»(이사 가는 도시) — Elsa가 키루나로 돌아간다. 광산 때문에 할머니 Aili의 집이 철거되는데 보상이 시세보다 낮다. 사무소가 화상으로 협상을 돕고, Elsa는 처음으로 자기 이야기를 한다 — 메앤키엘리로.
