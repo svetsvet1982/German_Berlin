@@ -1,0 +1,267 @@
+PART: 5
+EP: 9
+TITLE: Banken säger nej
+SUBTITLE: 은행이 거절한다 · 집 9, 카페 Biggans
+META: 대사 120턴 · 난이도 B2 · 배경: 11월 29일 월요일 아침부터 12월 2일 목요일까지, 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: MAJA | 공인회계사 · 협동조합 재무 담당
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: NOEL | 17세 · 고등학생 · 카페 아르바이트 (가상)
+CAST: SVEN | 협동조합 은행 상담 담당 (가상)
+NOTE: ※ 은행은 대출을 심사할 때 담보(säkerhet), 상환 능력, 그리고 위험을 봅니다. 새로 생긴 협동조합은 거래 이력이 없고, 담보인 상가의 임차인이 단 두 곳뿐이라 은행 입장에선 위험해 보일 수 있습니다. 게다가 카페 주인이 예순다섯이라는 사실까지 ‘위험’으로 계산됩니다. 스웨덴에는 일반 은행 말고도 조합원이 소유하는 협동조합 은행(medlemsbank), 지역 저축은행(sparbank) 같은 다른 형태의 은행들이 있습니다. 이 극의 은행 이름은 모두 가상입니다. Wicksell은 실제로 ‘자연 이자율(naturlig ränta)’ 이론으로 유명한 경제학자입니다. 문법 초점: 조건부 승인과 협상(under förutsättning att, förutsatt att, om ni kan visa att). 표현 초점: lån, avslag, säkerhet, ränta, borgen, villkor.
+
+# 도입 — MEJLET
+MAJA: Måndag. Klockan sju. Jag öppnar mejlet nu. Med er.
+= 월요일. 일곱 시. 이제 메일 열게. 너희랑 같이.
+BIGGAN: Kaffe först. Du har inte druckit.
+= 커피부터. 아직 안 마셨잖아.
+MAJA: Efteråt. ”Beslut om kreditansökan. Södra Sparbanken har prövat er ansökan om lån om en komma tre fem miljoner kronor.”
+= 나중에요. ‘대출 신청에 대한 결정. 쇠드라 저축은행은 135만 크로나 대출 신청을 심사하였습니다.’
+ELSA: Och?
+= 그리고요?
+MAJA: ”Banken har beslutat att inte bevilja krediten.”
+= ‘은행은 대출을 승인하지 않기로 결정했습니다.’
+ANTON: Nej?
+= 거절?
+BIGGAN: Läs igen, Maja. Kanske står det något annat.
+= 다시 읽어 봐, 마야. 다른 말이 적혀 있을지도 몰라.
+MAJA: Nej. Avslag.
+= 거절. 기각.
+ELSA: Men det var ett litet lån! Du sa att vilken bank som helst skulle säga ja!
+= 근데 작은 대출이었잖아요! 어느 은행이든 승인할 거라고 하셨잖아요!
+MAJA: Jag vet vad jag sa.
+= 내가 뭐라고 했는지 알아.
+OXENSTIERNA: Lagerlöf varnade er. ”Vilken bank som helst” bjuder in otur.
+= 라겔뢰프가 경고했잖소. ‘어느 은행이든’은 불운을 초대한다고.
+MAJA: Jag är revisor. Jag tror inte på otur.
+= 난 회계사예요. 불운 같은 건 안 믿어요.
+WICKSELL: Otur är bara risk som ingen har räknat på.
+= 불운이란 아무도 계산하지 않은 위험일 뿐이지.
+JOHAN: Står det varför?
+= 이유가 적혀 있어?
+MAJA: ”Föreningen saknar ekonomisk historik. Säkerheten utgörs av lokaler med endast två hyresgäster. Banken bedömer att verksamhetens långsiktiga fortlevnad är osäker.”
+= ‘조합은 경제적 이력이 없음. 담보는 임차인이 단 두 곳뿐인 상가로 구성됨. 은행은 사업의 장기적 존속이 불확실하다고 판단함.’
+ELSA: ”Långsiktiga fortlevnad.” Vad betyder det?
+= ‘장기적 존속.’ 그게 무슨 뜻이에요?
+INGRID: Det betyder: vad händer när Biggan inte orkar längre?
+= 이런 뜻이에요: 비간이 더 이상 못 하게 되면 어떻게 되느냐?
+BIGGAN: …
+= ……
+ANTON: De skriver det inte rakt ut. Men det är vad de menar.
+= 대놓고 쓰진 않았지만. 그 뜻이야.
+BIGGAN: Jag är sextiofem. Om tre veckor. Jag är för gammal för en bank.
+= 난 예순다섯이야. 3주 뒤면. 은행 보기엔 너무 늙었지.
+ELSA: Det är inte rättvist!
+= 그건 불공평해요!
+WICKSELL: Det är inte orättvist. Det är en kalkyl. Ofta är det värre.
+= 불공평한 게 아니네. 계산이지. 그게 더 나쁠 때가 많고.
+JOHAN: Trettiotvå dagar till den trettioförsta december.
+= 12월 31일까지 32일.
+BIGGAN: Kaffe, Maja. Nu.
+= 커피, 마야. 지금.
+MAJA: …Okej. Kaffe.
+= …알았어요. 커피.
+
+# 장면 1 — ”FÖR GAMMAL”
+BIGGAN: Jag har aldrig tänkt på det. Att jag är gammal. Jag bakar varje morgon klockan fyra. Jag bar Ulla-Britt nerför fem trappor på julafton.
+= 생각해 본 적이 없어. 내가 늙었다는 거. 매일 새벽 네 시에 빵을 구워. 크리스마스이브엔 울라브리트를 업고 다섯 층을 내려갔어.
+ELSA: Det var jag som bar. Du höll i rollatorn.
+= 업은 건 저였어요. 비간은 보행기를 들고 계셨고.
+BIGGAN: Det var tungt ändå.
+= 그래도 무거웠어.
+ANTON: Rollatorn är tung. Det har jag läst i en utredning.
+= 보행기 무겁지. 어느 조사 보고서에서 읽었어.
+NOEL: Biggan. Är det sant? Att banken säger att du är för gammal?
+= 비간. 정말이에요? 은행이 비간이 너무 늙었다고 한다는 게?
+BIGGAN: De säger det inte. De räknar det.
+= 그렇게 말하진 않아. 그렇게 계산하지.
+NOEL: Men du är inte gammal. Du är… Biggan.
+= 근데 비간은 안 늙었어요. 비간은… 비간이에요.
+BIGGAN: Tack, vännen. Det är den finaste diagnosen jag har fått. Daniel hade varit avundsjuk.
+= 고마워, 친구. 지금까지 받은 진단 중에 제일 좋네. 다니엘이 질투하겠다.
+JOHAN: Vi kan försöka en annan bank.
+= 다른 은행을 알아보면 돼.
+ELSA: Vilken som helst. Nej! Säg inte så!
+= 아무 데나. 아니! 그 말 하지 마요!
+MAJA: Jag har redan frågat tre andra banker. Före advent. Samma svar. Ingen vill låna ut till ett kafé som ägs av tvåtusen personer och drivs av en.
+= 대림절 전에 이미 다른 은행 세 곳에 물어봤어. 같은 대답. 2천 명이 소유하고 한 명이 운영하는 카페에 빌려주려는 데는 없어.
+OXENSTIERNA: Ett rike med tvåtusen ägare och en drottning. Jag förstår bankerna. Det är ett märkligt styrelseskick.
+= 주인 2천 명에 여왕 한 명인 왕국이라. 은행들이 이해가 가네. 이상한 정치 체제지.
+ANTON: Kan vi inte bara samla in mer? En komma tre fem miljoner till?
+= 그냥 더 모으면 안 돼? 135만 더?
+MAJA: Vi har haft fyra insamlingar. Folk har gett det de kan. Vi har tvåtusenåttiotvå andelar. Det är tio komma fyra miljoner. Men lagfarten, avgifterna och en buffert…
+= 모금을 네 번 했어. 사람들은 할 수 있는 만큼 줬어. 지분이 2,082개야. 1,040만. 근데 등기, 수수료, 그리고 예비비가…
+ELSA: Vänta. Tio komma fyra? Vi har ju mer än tio!
+= 잠깐요. 1,040이요? 그럼 1,000 넘게 있는 거잖아요!
+MAJA: Till köpet räcker det. Men vi behöver också pengar för att driva föreningen. Om ugnen går sönder. Om taket läcker. Utan buffert går vi i konkurs första vintern.
+= 매입하기엔 충분해. 근데 조합을 운영할 돈도 필요해. 오븐이 고장 나면. 지붕이 새면. 예비비 없으면 첫 겨울에 파산해.
+WICKSELL: En förening utan buffert är som en bank utan reserver. Det slutar alltid likadant. 1992.
+= 예비비 없는 조합은 준비금 없는 은행 같지. 늘 똑같이 끝나. 1992년처럼.
+INGRID: Jag har ett förslag. Men jag vet inte om ni tycker om det.
+= 제안이 하나 있어요. 근데 마음에 들어 할지 모르겠네요.
+JOHAN: Säg.
+= 말해 봐요.
+INGRID: Det finns banker som inte är som andra banker. Banker som ägs av sina kunder. Som inte tar vinst till aktieägare. De lånar ut till föreningar. Till byar som vill köpa sin affär. Till sådant som vi.
+= 다른 은행들과 다른 은행들이 있어요. 고객이 소유하는 은행. 주주에게 이익을 가져가지 않는. 그런 데는 조합에 빌려줘요. 마을 가게를 사고 싶어 하는 마을에. 우리 같은 곳에.
+ELSA: En kooperativ bank? Som vår förening?
+= 협동조합 은행이요? 우리 조합 같은?
+WICKSELL: Kooperationens bank. Jag skrev om sådana 1898. Ingen trodde på dem.
+= 협동조합 은행. 1898년에 그런 걸 썼지. 아무도 안 믿었어.
+INGRID: Precis. Jag känner en där. Från min tid på banken. Han var den enda på en konferens 2018 som lyssnade när jag pratade om penningtvätt.
+= 바로 그거예요. 거기 아는 사람이 있어요. 은행 다닐 때 알던. 2018년 한 회의에서 내가 돈세탁 얘기할 때 들어 준 유일한 사람이었어요.
+MAJA: Ring honom.
+= 전화해요.
+INGRID: Jag har redan ringt. Han kommer på onsdag.
+= 이미 했어요. 수요일에 온대요.
+
+# 장면 2 — EN ANNAN SORTS BANK
+SVEN: Hej. Sven Ottosson. Från Gemensam Bank. Jag har tagit tåget från Skövde.
+= 안녕하세요. 스벤 오토손. 예멘삼 은행에서 왔어요. 셰브데에서 기차 타고 왔습니다.
+BIGGAN: Skövde! Då har du suttit på tåget i tre timmar. Kaffe. Och en bulle.
+= 셰브데! 그럼 기차에 세 시간 앉아 있었겠네. 커피. 그리고 번.
+SVEN: Tack. Ingrid sa att bullarna var skälet till att jag skulle komma.
+= 고마워요. 잉리드가 번이 제가 와야 하는 이유라더군요.
+INGRID: Jag sa att bullarna var ett av skälen.
+= 번이 이유 중 하나라고 했죠.
+SVEN: Gemensam Bank ägs av sina medlemmar. Vi har ingen aktieutdelning. Vi lånar ut till sådant som gör nytta. Bygdegårdar, kooperativ, ekobönder. Och en gång till en biograf i Värmland.
+= 예멘삼 은행은 조합원이 소유해요. 주주 배당이 없어요. 쓸모 있는 일에 빌려줘요. 마을 회관, 협동조합, 유기농 농가. 그리고 한번은 베름란드의 극장에도.
+ELSA: En biograf!
+= 극장!
+SVEN: Den finns kvar. Det är det enda som räknas för oss. Att det finns kvar.
+= 아직 남아 있어요. 우리한텐 그게 유일하게 중요한 거예요. 남아 있다는 것.
+BIGGAN: Då är vi rätt för er.
+= 그럼 우리가 딱이네.
+WICKSELL: Ett kreditinstitut som mäter avkastning i överlevnad. Det hade jag velat skriva om.
+= 생존으로 수익을 재는 금융기관이라. 그것에 대해 쓰고 싶었군.
+SVEN: Ni är Knut Wicksell? Jag skrev min uppsats om er naturliga ränta.
+= 크누트 빅셀이세요? 선생님의 자연 이자율로 논문을 썼어요.
+WICKSELL: Och vilket betyg fick du?
+= 그래서 몇 점 받았나?
+SVEN: Godkänt. Läraren tyckte att jag var för positiv till er.
+= 합격. 교수님은 제가 선생님한테 너무 우호적이라고 생각하셨어요.
+WICKSELL: Då var läraren klok.
+= 그럼 교수가 현명했군.
+MAJA: Sven. Här är kalkylen. Föreningen. Hyresintäkterna. Bufferten som vi saknar.
+= 스벤. 여기 계산서요. 협동조합. 임대 수입. 우리가 갖지 못한 예비비.
+SVEN: Jag har läst den på tåget. Den är bra. Den är mycket bra. Den är skriven av någon som har räknat för länge.
+= 기차에서 읽었어요. 좋아요. 아주 좋아요. 너무 오래 계산해 온 사람이 쓴 거네요.
+MAJA: Det är en komplimang?
+= 그거 칭찬이에요?
+SVEN: Det är en diagnos. Men en bra.
+= 진단이에요. 하지만 좋은 진단.
+SVEN: Mitt problem är detsamma som Södra Sparbankens. Inte siffrorna. Framtiden. Vad händer med kaféet om tio år?
+= 제 문제는 쇠드라 저축은행이랑 같아요. 숫자가 아니라. 미래. 10년 뒤에 카페는 어떻게 되죠?
+BIGGAN: Om tio år är jag sjuttiofem.
+= 10년 뒤면 난 일흔다섯이야.
+ELSA: Det är ingenting, säger alla.
+= 그건 아무것도 아니래요, 다들.
+SVEN: Och då?
+= 그럼 그때는요?
+BIGGAN: Då bakar jag fortfarande. Kanske lite senare på morgonen. Klockan fem.
+= 그때도 굽고 있겠지. 아침에 조금 늦게. 다섯 시에.
+SVEN: Och om tjugo år?
+= 그럼 20년 뒤엔요?
+BIGGAN: …
+= ……
+OXENSTIERNA: Varje rike behöver en tronföljare. Det skrev jag i regeringsformen 1634. Det var det första jag skrev.
+= 모든 왕국엔 후계자가 필요하지. 1634년 정부조직법에 그렇게 썼네. 내가 처음 쓴 게 그거였어.
+
+# 절정 — VEM BAKAR SEN?
+SVEN: Jag behöver inte en garanti om att du lever för alltid, Birgitta. Ingen bank kan få det. Jag behöver en plan. Vem bakar när du inte orkar?
+= 영원히 사신다는 보장이 필요한 게 아니에요, 비르기타. 그런 건 어떤 은행도 못 받아요. 계획이 필요해요. 비간이 못 하게 되면 누가 굽나요?
+BIGGAN: Det har jag aldrig tänkt på. Leif bakade. Sen jag. Det fanns aldrig någon tredje.
+= 그건 생각해 본 적이 없어. 레이프가 구웠고. 그다음엔 나. 세 번째는 없었지.
+NOEL: …Jag.
+= …저요.
+ANTON: …Vad sa han?
+= …방금 뭐라고 했어?
+BIGGAN: Noel?
+= 노엘?
+NOEL: Jag kan baka. Jag har diskat här varje lördag i ett år. Jag har sett dig baka sexhundra gånger. Jag vet att man ska ha mer kardemumma än receptet säger.
+= 저 구울 수 있어요. 1년 동안 토요일마다 여기서 설거지했어요. 비간이 굽는 걸 육백 번 봤어요. 레시피에 적힌 것보다 카다몸을 더 넣어야 한다는 것도 알아요.
+BIGGAN: Det står inte i receptet. Det är Leifs hemlighet.
+= 그건 레시피에 없어. 레이프의 비밀이야.
+NOEL: Jag vet. Jag har sett dig fuska. Varje gång.
+= 알아요. 비간이 반칙하는 거 봤어요. 매번.
+ELSA: Noel! Det är det sötaste du har sagt.
+= 노엘! 그게 네가 한 말 중에 제일 다정한 말이다.
+SVEN: Hur gammal är du, Noel?
+= 몇 살이에요, 노엘?
+NOEL: Sjutton. Arton i maj. Jag går på gymnasiet. Men jag har sökt till bagar- och konditorprogrammet. Från hösten.
+= 열일곱이요. 5월에 열여덟. 고등학교 다녀요. 근데 가을부터 제빵·제과 과정에 지원했어요.
+JOHAN: Det har du inte sagt.
+= 그 얘긴 안 했잖아.
+NOEL: Jag har inte sagt det till någon. Jag sa det till mamma i går.
+= 아무한테도 안 했어요. 어제 엄마한테 말했어요.
+MAJA: Vad sa hon?
+= 엄마가 뭐라셨어?
+NOEL: Hon grät. Sen sa hon: ”Fråga Biggan först.”
+= 우셨어요. 그러고 나서 그러셨어요: ‘비간한테 먼저 물어봐.’
+BIGGAN: Noel. Du vill bli bagare?
+= 노엘. 제빵사가 되고 싶어?
+NOEL: Jag vill bli den som gör så att folk har en plats att sitta. Det sa Leif. Det står på väggen.
+= 사람들이 앉을 곳이 있게 하는 사람이 되고 싶어요. 레이프 아저씨가 그랬잖아요. 벽에 적혀 있어요.
+BIGGAN: …
+= ……
+OXENSTIERNA: En tronföljare. Från tredje våningen. Som en gång lånade ut sitt konto till fel människor.
+= 후계자로군. 3층에서 온. 한때 엉뚱한 사람들한테 계좌를 빌려줬던.
+NOEL: Det var en gång. Nu lånar jag ut mina händer.
+= 그건 한 번이었어요. 이제 제 손을 빌려줄 거예요.
+SVEN: Det här är en plan. Birgitta som driver. Noel som lär sig. Ett lärlingsavtal. Föreningen som äger. Och om tjugo år: Noel som driver.
+= 이게 계획이네요. 비르기타가 운영하고. 노엘이 배우고. 견습 계약. 조합이 소유하고. 그리고 20년 뒤엔: 노엘이 운영하고.
+MAJA: Och jag skriver in det i affärsplanen. Med siffror. Lärlingslön. Utbildning. En successionsplan.
+= 그리고 그걸 사업 계획서에 넣을게요. 숫자와 함께. 견습생 급여. 교육. 승계 계획.
+ELSA: Successionsplan. Som successionsordningen! En grundlag för ett kafé!
+= 승계 계획. 왕위계승법처럼요! 카페를 위한 기본법!
+OXENSTIERNA: Det var inte jag som skrev den. Men jag godkänner den.
+= 그건 내가 쓴 게 아니지만. 승인하네.
+
+# 마무리 — JA, MED VILLKOR
+SVEN: Okej. Jag kan inte lova något i dag. Jag måste gå till vår kreditkommitté. Men med den här planen tror jag att svaret blir ja. Med villkor.
+= 좋아요. 오늘은 아무것도 약속할 수 없어요. 신용위원회에 가야 해요. 하지만 이 계획이면 대답이 ‘네’일 거라고 봐요. 조건부로.
+JOHAN: Vilka villkor?
+= 어떤 조건이요?
+SVEN: Ett: lärlingsavtalet med Noel. Skriftligt. Två: en extern revisor för föreningen. Tre: föreningens medlemmar blir också medlemmar i banken. Det kostar tvåhundra kronor.
+= 하나: 노엘과의 견습 계약. 서면으로. 둘: 조합의 외부 감사. 셋: 조합 조합원들이 은행 조합원도 되는 것. 200크로나예요.
+WICKSELL: En bank som ägs av sina låntagare som äger ett kafé som ägs av sina gäster. Det är en ekonomisk modell som jag skulle ha skrivit en bok om.
+= 대출자들이 소유한 은행이, 손님들이 소유한 카페를 소유한 사람들에게 빌려준다. 내가 책을 썼을 경제 모델이군.
+MAJA: När får vi svar?
+= 답은 언제 받아요?
+SVEN: Kreditkommittén har möte på måndag. Svar på tisdag.
+= 신용위원회가 월요일에 회의해요. 화요일에 답 드릴게요.
+WICKSELL: Räkna dagarna.
+= 날짜를 세게.
+ELSA: Den sjunde december. Tjugofyra dagar före fristen.
+= 12월 7일. 기한 24일 전.
+MAJA: Och sen tillträdet. Före Lucia.
+= 그리고 그다음엔 인수. 루시아 전에.
+INGRID: Sven. Tack för att du kom. Igen.
+= 스벤. 와 줘서 고마워요. 또.
+SVEN: Du var den enda som pratade om rätt saker på konferensen 2018. Jag lyssnade. Jag har lyssnat sedan dess.
+= 2018년 회의에서 맞는 얘기를 한 사람은 당신뿐이었어요. 난 들었죠. 그 뒤로 계속 듣고 있었어요.
+BIGGAN: Noel. Kom hit.
+= 노엘. 이리 와.
+NOEL: Är du arg? För att jag sa det inför alla?
+= 화나셨어요? 다 있는 데서 말해서?
+SVEN: Hon är inte arg. Det ser man på hur hon håller kaffekoppen.
+= 화나신 거 아니에요. 커피잔 드시는 걸 보면 알아요.
+BIGGAN: I morgon klockan fyra. Du bakar med mig. Och jag visar dig hur mycket kardemumma. På riktigt. Inte genom att fuska.
+= 내일 새벽 네 시. 나랑 같이 굽자. 그리고 카다몸을 얼마나 넣는지 보여 줄게. 진짜로. 반칙으로가 아니라.
+NOEL: Klockan fyra? Jag har skola klockan åtta.
+= 네 시요? 여덟 시에 학교 가야 하는데요.
+BIGGAN: Då har du fyra timmar att lära dig något som inte står i någon bok.
+= 그럼 어떤 책에도 없는 걸 배울 시간이 네 시간 있네.
+NOEL: Okej. Klockan fyra.
+= 알았어요. 네 시.
+OXENSTIERNA: En kansler vaknar också klockan fyra. Jag kommer och övervakar.
+= 재상도 네 시에 일어나지. 와서 감독하겠네.
+BIGGAN: Nej, Axel.
+= 안 돼, 악셀.
+ELSA: Regel elva? Det finns alltid någon tredje.
+= 규칙 11번? 세 번째는 늘 있다.
+NEXT: 5부 10화 — «Tillträdet»(인수일) — 신용위원회의 답이 오고, 협동조합이 상가를 인수하는 계약서에 서명한다. 1부 12화의 ‘나쁜 서명’과 짝을 이루는 ‘좋은 서명’. Maja가 직접 확인하고 서명한다.
