@@ -1,0 +1,267 @@
+PART: 3
+EP: 9
+TITLE: Maja skriver
+SUBTITLE: 마야가 쓴다 · 추적 9, Hornstull의 마야 집과 카페 Biggans
+META: 대사 120턴 · 난이도 B2 · 배경: 3월 마지막 주 일요일 저녁, Hornstull의 Maja 집과 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: HAMMARSKJÖLD | 부활한 유엔 사무총장 (1905–1961)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: PETER | Maja의 전 상사 · 회계법인 Lindblad & Co 파트너 (가상, 전화)
+NOTE: ※ 스웨덴의 공인회계사는 회계사 감독청(Revisorsinspektionen)의 감독을 받습니다. 감독청은 잘못한 회계사에게 경고(varning)나 주의(erinran)를 주거나, 심하면 자격(auktorisation)을 취소할 수 있습니다. Maja가 8년 동안 겨울 신발 밑에 넣어 둔 열한 장의 메모를 꺼내, 2018년의 서명을 스스로 감독청에 신고하기로 합니다. 회계사는 의뢰인에 대한 비밀 유지 의무가 있기 때문에 메모를 신문에 줄 수는 없고, 감독 기관에만 낼 수 있습니다. 동료들의 반응은 갈립니다. 문법 초점: 과거의 반사실(om jag hade…, skulle jag ha…)과 다짐의 미래(jag ska). 표현 초점: erkänna, anmäla, konsekvens, mod, ånger.
+
+# 도입 — VINTERSKORNA
+ELSA: Så det är här du bor. Hornstull. Jag har aldrig varit hemma hos dig.
+= 여기가 사는 데구나. 혼스툴. 마야 집엔 처음 와 봐요.
+MAJA: Ingen har varit hemma hos mig. Sedan 2020.
+= 아무도 우리 집에 온 적 없어. 2020년 이후로.
+DANIEL: Det är… väldigt rent.
+= 여기… 정말 깨끗하네.
+MAJA: Jag har sju tallrikar. Sju glas. Sju gafflar. Jag har räknat.
+= 접시 일곱 개. 컵 일곱 개. 포크 일곱 개. 세어 봤어.
+ELSA: Varför sju?
+= 왜 일곱 개예요?
+MAJA: En för varje dag. Då vet jag om jag har diskat.
+= 하루에 하나씩. 그럼 설거지를 했는지 알 수 있지.
+DANIEL: Det är det mest Maja-aktiga jag har hört.
+= 그게 내가 들어 본 것 중에 제일 마야다운 말이다.
+MAJA: Och här. Hallen. Garderoben. Vinterskorna.
+= 그리고 여기. 현관. 옷장. 겨울 신발.
+ELSA: De ser nya ut.
+= 새것 같아요.
+MAJA: Jag har aldrig använt dem. Jag köpte dem 2019. För att ha något att lägga promemorian under.
+= 한 번도 안 신었어. 2019년에 샀어. 메모를 밑에 깔아 둘 게 필요해서.
+DANIEL: Du köpte skor för att gömma ett papper?
+= 종이 하나 숨기려고 신발을 샀다고?
+MAJA: Jag behövde något tungt ovanpå. Det kändes rätt.
+= 위에 무거운 게 있어야 했어. 그게 맞는 느낌이었어.
+ELSA: Och nu?
+= 그럼 지금은요?
+MAJA: Nu lyfter jag upp dem.
+= 이제 들어 올리는 거지.
+DANIEL: Vill du att vi tittar bort?
+= 우리 고개 돌려 줄까?
+MAJA: Nej. Jag vill att ni tittar. Jag har gömt det ensam i åtta år. Jag vill inte ta fram det ensam.
+= 아니. 봐 줘. 8년 동안 혼자 숨겼어. 꺼내는 건 혼자 하고 싶지 않아.
+ELSA: Den är gul. Och lite böjd.
+= 노래요. 그리고 좀 휘었어요.
+MAJA: Elva sidor. ”Iakttagelser rörande transaktionsmönster i baltiska dotterbolag. Utkast. Maja Holm. Oktober 2018.”
+= 열한 장. ‘발트 자회사들의 거래 패턴에 관한 관찰. 초안. 마야 홀름. 2018년 10월.’
+DANIEL: Ditt namn står på den.
+= 네 이름이 적혀 있네.
+MAJA: Mitt namn står på allt jag skriver. Det är det enda sättet jag vet.
+= 내가 쓰는 모든 것에 내 이름이 있어. 그게 내가 아는 유일한 방식이야.
+ELSA: Som Rolf. ”Bredvid något sant.”
+= 롤프 씨처럼요. ‘진실한 것 옆에.’
+
+# 장면 1 — ELVA SIDOR
+BIGGAN: Där är ni. Kom in. Johan och Anton har väntat i en timme. Ingrid också.
+= 왔구나. 들어와. 요한이랑 안톤이 한 시간째 기다렸어. 잉리드도.
+INGRID: Har du den?
+= 갖고 왔어요?
+MAJA: Här.
+= 여기요.
+INGRID: Får jag?
+= 봐도 될까요?
+MAJA: Du är den första som har rätt att läsa den. Du ringde mig. Du sa: ”Skriv det.”
+= 당신이 그걸 읽을 첫 번째 사람이 될 자격이 있어요. 당신이 전화했잖아요. ‘그걸 쓰세요’라고 했죠.
+INGRID: Och du skrev det. Du skrev det bara inte i rätt dokument.
+= 그리고 당신은 썼죠. 맞는 문서에 안 썼을 뿐.
+WICKSELL: Får en gammal ekonom titta på tabellerna?
+= 늙은 경제학자가 표를 좀 봐도 되겠나?
+MAJA: Varsågod, herr Wicksell.
+= 보세요, 빅셀 님.
+WICKSELL: Hm. Hm. Fyrahundrasextio miljarder kronor genom filialen i Tallinn på tre år. Från kunder som inte bodde i Estland.
+= 흠. 흠. 3년 동안 탈린 지점을 통해 4,600억 크로나. 에스토니아에 살지도 않는 고객들에게서.
+ANTON: Fyrahundrasextio miljarder? Det är… jag kan inte ens föreställa mig det.
+= 4,600억? 그건… 상상도 안 돼.
+WICKSELL: Det är ungefär en tredjedel av Sveriges statsbudget för ett år. Som passerade en enda bankfilial.
+= 대략 스웨덴 1년 국가 예산의 3분의 1이지. 은행 지점 한 곳을 지나간 돈이.
+ELSA: Ursäkta… är det möjligt?
+= 실례지만… 그게 가능해요?
+INGRID: Det hände på andra nordiska banker också. Det var därför jag var så rädd. Jag visste att det inte var unikt.
+= 다른 북유럽 은행들에서도 있었던 일이에요. 그래서 내가 그렇게 무서웠던 거예요. 특별한 일이 아니라는 걸 알았으니까.
+JOHAN: Och promemorian visar det. Men du kan inte ge den till Sanna.
+= 그리고 메모가 그걸 보여 줘. 하지만 산나한테 줄 순 없어.
+MAJA: Jag vet. Revisorns tystnadsplikt. Den gäller fortfarande. För alltid. Som din.
+= 알아. 회계사의 비밀 유지 의무. 아직 유효해. 영원히. 너처럼.
+ELSA: Så vart ska den?
+= 그럼 그건 어디로 가요?
+MAJA: Till Revisorsinspektionen. Den myndighet som har gett mig min auktorisation. Med ett brev där jag berättar vad jag gjorde.
+= 회계사 감독청으로. 나한테 자격을 준 관청. 내가 뭘 했는지 이야기하는 편지랑 같이.
+ELSA: Och Finansinspektionen?
+= 그럼 금융감독청은요?
+JOHAN: Revisorsinspektionen kan dela med sig till FI. Myndigheter får samarbeta. Och Ingrids rapport är redan där.
+= 회계사 감독청이 금융감독청이랑 공유할 수 있어. 관청끼리는 협력할 수 있거든. 그리고 잉리드 신고서는 이미 거기 있고.
+ANTON: Så två rapporter från två håll. Till två myndigheter som pratar med varandra.
+= 그럼 두 방향에서 두 신고서가. 서로 얘기하는 두 관청으로.
+INGRID: Två oberoende källor. Det jag har väntat på i sju år.
+= 독립된 출처 둘. 7년 동안 기다린 거예요.
+HAMMARSKJÖLD: Och vad händer med dig, Maja? Om du skickar den?
+= 그럼 당신은 어떻게 돼요, 마야? 그걸 보내면?
+MAJA: Det vet jag inte. Johan?
+= 몰라요. 요한?
+JOHAN: Revisorsinspektionen kan ge en erinran. En varning. Eller, i värsta fall, upphäva auktorisationen.
+= 회계사 감독청은 주의를 줄 수 있어. 경고. 아니면, 최악의 경우, 자격을 취소하거나.
+ELSA: Upphäva. Betyder det ta bort?
+= 취소. 없앤다는 뜻이에요?
+JOHAN: Ta bort. Då får hon inte längre kalla sig auktoriserad revisor.
+= 없애는 거. 그럼 더는 공인회계사라고 자칭할 수 없어.
+MAJA: Sju år att få den. En dag att förlora den.
+= 따는 데 7년. 잃는 데 하루.
+WICKSELL: Det är vanligtvis så med förtroende. I ekonomin och i livet.
+= 신뢰란 대개 그렇지. 경제에서도, 인생에서도.
+
+# 장면 2 — SKYDDA ELLER PUFFA
+DANIEL: Maja. Jag måste säga en sak. Som din vän. Du behöver inte göra det här.
+= 마야. 할 말이 있어. 친구로서. 이거 안 해도 돼.
+MAJA: Daniel…
+= 다니엘…
+DANIEL: Ingrids rapport finns redan hos FI. Sanna har allmänna handlingar och Rolf. Du kan hjälpa till utan att offra dig själv.
+= 잉리드 신고서는 이미 금융감독청에 있어. 산나한텐 공문서랑 롤프가 있고. 너 자신을 희생하지 않고도 도울 수 있어.
+ANTON: Men utan Majas promemoria finns det bara en källa från insidan. Det sa Sanna själv.
+= 근데 마야 메모가 없으면 내부 출처가 하나뿐이야. 산나가 직접 그랬잖아.
+DANIEL: Sanna är journalist. Hon vill ha en historia. Jag vill att Maja har ett jobb.
+= 산나는 기자야. 이야기를 원하지. 난 마야가 직장을 갖고 있길 원하고.
+ANTON: Och jag vill att Maja kan sova.
+= 그리고 난 마야가 잘 수 있길 원해.
+BIGGAN: Pojkar. Det är inte ert beslut.
+= 얘들아. 그건 너희가 정할 일이 아니야.
+ELSA: Maja, får jag fråga en sak? Som Hammarskjöld?
+= 마야, 하나 물어봐도 돼요? 함마르셸드 님처럼?
+MAJA: Fråga.
+= 물어봐.
+ELSA: Och hur känns det för dig? Om du inte skickar den?
+= 그래서 어떻게 느껴져요? 안 보내면?
+MAJA: Som de senaste åtta åren. Varje natt klockan tre. Jag vaknar och räknar. Siffror från Tallinn.
+= 지난 8년 같겠지. 매일 밤 새벽 세 시. 깨서 세. 탈린의 숫자들을.
+ELSA: Och om du skickar den?
+= 그럼 보내면요?
+MAJA: Jag vet inte. Det är det som skrämmer mig. Jag vet inte hur det känns att inte räkna.
+= 몰라. 그게 무서운 거야. 안 세는 게 어떤 기분인지 몰라.
+HAMMARSKJÖLD: Det är ofta så före ett stort beslut. Man vet exakt hur det gamla känns. Det nya är bara tomt.
+= 큰 결정을 앞두면 흔히 그래요. 옛것이 어떤 느낌인지는 정확히 알죠. 새것은 그저 비어 있고.
+INGRID: Maja. Om du inte skickar den, förstår jag. Jag lovar.
+= 마야. 안 보내도 이해해요. 약속해요.
+MAJA: Det är det värsta du kan säga.
+= 그게 당신이 할 수 있는 최악의 말이에요.
+INGRID: Varför?
+= 왜요?
+MAJA: För att du sa samma sak till mig i telefon 2018. ”Om du inte skriver det, förstår jag.” Och jag skrev det inte.
+= 2018년에 전화로도 똑같이 말했으니까요. ‘안 써도 이해해요.’ 그리고 난 안 썼죠.
+INGRID: …Det sa jag. Jag minns.
+= …그랬죠. 기억나요.
+MAJA: Den här gången vill jag att någon säger: gör det.
+= 이번엔 누군가 ‘해’라고 말해 줬으면 좋겠어요.
+BIGGAN: Gör det, Maja.
+= 해, 마야.
+ANTON: Gör det.
+= 해.
+DANIEL: …Gör det. Och jag är där efteråt. Vad som än händer.
+= …해. 그리고 그다음엔 내가 옆에 있을게. 무슨 일이 있어도.
+JOHAN: Gör det. Och skriv i aktiv form.
+= 해. 그리고 능동형으로 써.
+
+# 절정 — SKICKA
+MAJA: ”Till Revisorsinspektionen. Jag anmäler mig själv.”
+= ‘회계사 감독청 귀하. 저는 저 자신을 신고합니다.’
+ELSA: Det är den bästa första meningen jag har hört.
+= 제가 들어 본 첫 문장 중 최고예요.
+MAJA: ”Den 14 mars 2019 undertecknade jag revisionsberättelsen för Saltsjöbanken AB för räkenskapsåret 2018 utan anmärkning.”
+= ‘2019년 3월 14일, 저는 살트셰은행 AB의 2018 회계연도 감사보고서에 지적 없이 서명했습니다.’
+MAJA: ”Jag gjorde det trots att jag hade iakttagit allvarliga avvikelser. Dessa beskrivs i bifogad promemoria.”
+= ‘저는 심각한 이상 징후를 관찰했음에도 그렇게 했습니다. 이는 첨부한 메모에 기술되어 있습니다.’
+JOHAN: ”Trots att jag hade iakttagit.” Pluskvamperfekt. Och aktiv.
+= ‘관찰했음에도.’ 과거완료. 그리고 능동.
+MAJA: ”Jag borde ha lämnat en anmärkning. Jag gjorde det inte. Jag tar fullt ansvar för detta.”
+= ‘저는 지적을 남겼어야 했습니다. 그러지 않았습니다. 이에 대해 전적으로 책임을 집니다.’
+WICKSELL: ”Jag tar fullt ansvar.” Fyra ord. Jag har hört bankdirektörer prata i fyra timmar utan att säga dem.
+= ‘전적으로 책임을 집니다.’ 네 마디. 은행장들이 네 시간을 말하면서도 그 말을 안 하는 걸 들었네.
+ELSA: Och sen?
+= 그다음엔요?
+MAJA: ”Jag lämnar denna anmälan frivilligt. Jag står till myndighetens förfogande.” Och mitt namn.
+= ‘저는 이 신고를 자발적으로 합니다. 감독청의 처분에 따르겠습니다.’ 그리고 내 이름.
+ANTON: Det är fem meningar. Plus elva sidor.
+= 다섯 문장이야. 거기에 열한 장.
+MAJA: Fem meningar på åtta år. Det är inte en bra produktivitet.
+= 8년 동안 다섯 문장. 생산성이 좋진 않네.
+BIGGAN: Det är de viktigaste fem du har skrivit.
+= 네가 쓴 것 중 제일 중요한 다섯 문장이야.
+JOHAN: Revisorsinspektionen har en e-tjänst. Du loggar in med BankID.
+= 회계사 감독청엔 전자 서비스가 있어. BankID로 로그인해.
+ELSA: BankID. Den här gången är det rätt person som ber dig logga in.
+= BankID. 이번엔 로그인하라는 사람이 제대로 된 사람이네요.
+MAJA: Bilagor. Promemorian, skannad. Revisionsberättelsen. Mitt intyg om auktorisation.
+= 첨부 파일. 메모, 스캔본. 감사보고서. 내 자격증.
+INGRID: Och min rapport? Som referens?
+= 그리고 내 신고서는요? 참고로?
+MAJA: ”Se även anmälan till Finansinspektionen, inlämnad den 4 mars av Ingrid Falk.” Om du vill att ditt namn står där.
+= ‘3월 4일 잉리드 팔크가 금융감독청에 제출한 신고도 참조.’ 당신 이름이 거기 들어가길 원한다면요.
+INGRID: Jag vill att det står bredvid ditt.
+= 당신 이름 옆에 들어갔으면 좋겠어요.
+MAJA: Okej. Allt är klart. Jag behöver bara trycka.
+= 좋아요. 다 됐어요. 누르기만 하면 돼요.
+DANIEL: Vill du att någon håller din hand?
+= 누가 손 잡아 줄까?
+MAJA: Nej. Ja. Elsa.
+= 아니. 응. 엘사.
+ELSA: Här.
+= 여기요.
+MAJA: Skickat. Klockan nio och elva. Söndag den tjugoåttonde mars.
+= 보냈어. 아홉 시 십일 분. 3월 28일 일요일.
+HAMMARSKJÖLD: Och hur känns det nu?
+= 그래서 지금은 어떻게 느껴져요?
+MAJA: Tomt. Precis som du sa. Men det är ett ljust tomt.
+= 비었어요. 말씀하신 대로. 근데 밝은 빈자리예요.
+
+# 마무리 — SAMTALET TILL LINDBLAD
+MAJA: En sak till. Jag måste ringa Peter. Min gamla chef. Han ska höra det från mig. Inte från en myndighet.
+= 하나 더. 피터한테 전화해야 해. 예전 상사. 관청이 아니라 나한테서 들어야 해.
+JOHAN: Är det klokt?
+= 그거 현명해?
+MAJA: Det är rätt. Det är inte samma sak. Det har jag lärt mig i det här kaféet.
+= 옳은 거야. 그건 같은 게 아니야. 이 카페에서 배웠어.
+PETER: Lindblad.
+= 린드블라드요.
+MAJA: Hej Peter. Det är Maja Holm.
+= 안녕하세요, 피터. 마야 홀름이에요.
+PETER: Maja! Det var länge sedan. Söndag kväll? Är det något akut?
+= 마야! 오랜만이네. 일요일 밤에? 급한 일이야?
+MAJA: Jag vill bara säga att jag har anmält mig själv till Revisorsinspektionen. För Saltsjöbanken 2018. Med min promemoria.
+= 그냥 말씀드리고 싶어서요. 회계사 감독청에 저 자신을 신고했어요. 2018년 살트셰은행 건으로. 제 메모와 함께.
+PETER: Du har… vad har du gjort?
+= 너… 뭘 했다고?
+MAJA: Jag har skrivit det som jag borde ha skrivit för åtta år sedan.
+= 8년 전에 썼어야 할 걸 썼어요.
+PETER: Du förstår väl att det här drabbar byrån? Och mig? Jag skrev under den med dig.
+= 이게 법인한테 타격이라는 거 알지? 그리고 나한테도? 나도 너랑 같이 서명했잖아.
+MAJA: Ja. Därför ringer jag. Så att du kan välja själv vad du gör. Innan de ringer dig.
+= 네. 그래서 전화한 거예요. 그쪽에서 전화하기 전에 뭘 할지 직접 고를 수 있도록.
+PETER: ”Revision är inte moral”, Maja. Det har jag alltid sagt.
+= ‘감사는 도덕이 아니다’, 마야. 내가 늘 말했잖아.
+MAJA: Jag vet. Och jag trodde på dig. Det var mitt misstag.
+= 알아요. 그리고 전 그 말을 믿었죠. 그게 제 실수였어요.
+PETER: Jag… jag har inget att säga.
+= 난… 할 말이 없다.
+MAJA: Det behöver du inte. Hej då, Peter.
+= 안 하셔도 돼요. 안녕히 계세요, 피터.
+ANTON: Han lade på?
+= 끊었어?
+MAJA: Nej. Jag lade på. Det är första gången.
+= 아니. 내가 끊었어. 처음이야.
+BIGGAN: Det har blivit en vana i mitt kafé. Att lägga på för män som ringer.
+= 내 카페에선 그게 습관이 됐네. 전화한 남자들한테 먼저 끊는 거.
+DANIEL: Maja. Klockan är tio. Om fem timmar är det tre på natten. Vad gör du då?
+= 마야. 열 시야. 다섯 시간 뒤면 새벽 세 시야. 그땐 뭐 할 거야?
+MAJA: Jag tänker sova. Och om jag vaknar, räknar jag inte. Jag ska försöka.
+= 잘 거야. 그리고 깨더라도, 안 셀 거야. 노력해 볼게.
+ELSA: Och vinterskorna?
+= 그럼 겨울 신발은요?
+MAJA: Dem ska jag ha på mig i morgon. För första gången. Det är fortfarande snö på Söder.
+= 내일 신을 거야. 처음으로. 쇠데르엔 아직 눈이 있으니까.
+NEXT: 3부 10화 — «Pengarna i väggarna»(벽 속의 돈) — 리노베이션 공사비가 부풀려져 돈이 세탁된 구조가 드러난다. 하청은 1부의 Lundgren. 그곳에서 2년 동안 일한 Farid가 증언하기로 한다.
