@@ -1,0 +1,267 @@
+PART: 2
+EP: 4
+TITLE: Pojken från Rinkeby
+SUBTITLE: 링케비의 소년 · 사건 7 해결 + 다니엘의 이야기, Södermalm
+META: 대사 120턴 · 난이도 B1+ · 배경: 월요일 오후 경찰 조사 직후부터 금요일 저녁 Biggan의 식탁까지
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: HAMMARSKJÖLD | 부활한 유엔 사무총장 (1905–1961)
+CAST: LAGERLÖF | 부활한 작가 (1858–1940)
+CAST: NOEL | 16세 · 카페에서 주말에 설거지하는 아이 (가상)
+CAST: JESSICA | Noel의 엄마 · 간호조무사 (가상)
+NOTE: ※ 루시아의 밤에 Noel을 협박한 두 사람은 경찰에 붙잡혔습니다. 월요일, Noel은 엄마와 Johan과 함께 경찰 조사를 받습니다. 스웨덴에는 범죄에 휘말릴 위험이 있는 청소년을 위해 경찰·사회복지 당국·학교가 함께 움직이는 ‘사회적 개입 그룹(sociala insatsgrupper)’이 있습니다. 금요일에는 Daniel이 열여섯 살에 잃은 친구 Samir의 이야기를 합니다. 이 극은 폭력의 장면이 아니라 ‘남은 사람’의 기억을 그립니다. 문법 초점: 과거 습관(brukade + 동사원형: vi brukade spela fotboll)과 과거완료. 표현 초점: socialtjänsten, skydd, förtroende, saknad, brukade.
+
+# 도입 — EFTER FÖRHÖRET
+BIGGAN: Där är de. Kom in, kom in. Det är kallt.
+= 저기 왔다. 들어와, 들어와. 추워.
+JESSICA: Tack, Birgitta. Tack för lördag. Och söndag. Och allt.
+= 고마워요, 비르기타. 토요일도. 일요일도. 전부 다.
+BIGGAN: Säg inget. Sätt dig. Kaffe?
+= 아무 말 마. 앉아. 커피?
+JESSICA: Jag har druckit sju koppar sedan i morse. Te, kanske.
+= 오늘 아침부터 일곱 잔 마셨어요. 차로 할게요.
+ELSA: Hur gick förhöret, Noel?
+= 조사는 어땠어, 노엘?
+NOEL: Det var… okej. Polisen var snäll. Hon hade samma sneakers som jag.
+= 그냥… 괜찮았어요. 경찰관이 친절했어요. 저랑 같은 운동화 신고 있었어요.
+JOHAN: Han berättade allt. Från Snapchat till Lucia. Han var tydlig och ärlig.
+= 다 말했어. 스냅챗부터 루시아까지. 분명하고 솔직했어.
+JESSICA: Jag visste ingenting. Ingenting! Om kontot, om Kalle, om något.
+= 전 아무것도 몰랐어요. 아무것도요! 계좌도, 칼레도, 아무것도.
+NOEL: Förlåt, mamma.
+= 미안해요, 엄마.
+JESSICA: Jag är inte arg på dig. Jag är arg på mig själv. Jag jobbar natt och sover på dagen. När skulle jag ha sett något?
+= 너한테 화난 게 아니야. 나 자신한테 화가 나. 밤엔 일하고 낮엔 자는데. 언제 뭘 봤겠어?
+DANIEL: Ingen förälder ser allt. Det är därför det behövs fler vuxna.
+= 모든 걸 보는 부모는 없어요. 그래서 어른이 더 필요한 거예요.
+ANTON: Och killarna? Kalle och den andra?
+= 그리고 그 남자들은? 칼레랑 다른 한 명?
+JOHAN: Gripna på lördagskvällen. Misstänkta för olaga hot. Och kanske mer. Polisen säger att de har använt fler barns konton.
+= 토요일 밤에 체포됐어. 협박 혐의로. 어쩌면 그 이상도. 경찰 말로는 다른 아이들 계좌도 썼대.
+MAJA: Fler barn. Hur många?
+= 다른 아이들. 몇 명이나?
+JOHAN: Minst åtta. Bara i Stockholm.
+= 최소 여덟. 스톡홀름에서만.
+HAMMARSKJÖLD: Och hur känns det för dig nu, Noel? Efter förhöret?
+= 그래서 지금은 어때요, 노엘? 조사 끝나고?
+NOEL: Lättare. Men jag är fortfarande rädd för skolan.
+= 가벼워요. 근데 학교는 아직 무서워요.
+ELSA: Varför skolan?
+= 왜 학교요?
+NOEL: Alla vet. Någon filmade polisbilen på Lucia. Det är på TikTok.
+= 다들 알아요. 누가 루시아 날 경찰차를 찍었어요. 틱톡에 올라갔어요.
+ANTON: Och vad skriver de?
+= 뭐라고들 써?
+NOEL: ”Golare.” Med tre utropstecken.
+= ‘밀고자.’ 느낌표 세 개 붙여서.
+DANIEL: Det ordet ska vi prata om. Men inte i dag.
+= 그 단어에 대해선 얘기해 보자. 근데 오늘은 말고.
+
+# 장면 1 — SOCIALA INSATSGRUPPER
+JOHAN: I morse träffade vi socialtjänsten också. De vill erbjuda något som heter sociala insatsgrupper.
+= 오늘 아침엔 사회복지 당국도 만났어. 사회적 개입 그룹이라는 걸 제안하고 싶대.
+ELSA: Ursäkta, vad är det?
+= 실례지만, 그게 뭐예요?
+JOHAN: Polisen, socialtjänsten och skolan samarbetar runt en ung person. De träffas och gör en plan tillsammans.
+= 경찰, 사회복지 당국, 학교가 한 청소년을 둘러싸고 협력하는 거야. 만나서 같이 계획을 세워.
+ANTON: Det låter som en matris med tre rutor.
+= 세 칸짜리 매트릭스처럼 들리네.
+MAJA: För en gångs skull: en bra matris.
+= 이번만큼은: 좋은 매트릭스.
+JESSICA: Men betyder det att Noel är kriminell? Att han är i ett register?
+= 근데 그럼 노엘이 범죄자라는 거예요? 기록에 남는 거예요?
+JOHAN: Nej. Det är frivilligt. Och det är för att skydda honom, inte för att straffa.
+= 아니요. 자발적인 거예요. 그리고 벌주려는 게 아니라 보호하려는 거예요.
+JESSICA: Frivilligt. Okej. Då vill vi.
+= 자발적이라. 알겠어요. 그럼 하고 싶어요.
+NOEL: Och skolan? Måste jag gå dit i morgon?
+= 그럼 학교는요? 내일 가야 해요?
+DANIEL: Vad säger skolan?
+= 학교는 뭐래?
+JESSICA: Kuratorn ringde. Hon vill träffa Noel före lektionerna. Och rektorn har pratat med klassen.
+= 상담 교사가 전화했어요. 수업 전에 노엘을 만나고 싶대요. 그리고 교장이 반 아이들한테 얘기했대요.
+ELSA: Vad betyder kurator?
+= 상담 교사가 뭐예요?
+JESSICA: En person på skolan man kan prata med. Om allt som inte är matte.
+= 학교에서 이야기할 수 있는 사람. 수학 말고 모든 것에 대해.
+NOEL: Fröken Karin. Hon är bra. Hon har en hund på kontoret.
+= 카린 선생님이요. 좋은 분이에요. 사무실에 개가 있어요.
+HAMMARSKJÖLD: En hund på kontoret. Det hade FN behövt.
+= 사무실에 개라. 유엔에도 필요했을 텐데요.
+BIGGAN: Och lördagar? Diskar du fortfarande här?
+= 그럼 토요일은? 아직 여기서 설거지할 거지?
+NOEL: Om jag får.
+= 그래도 된다면요.
+BIGGAN: Du får. Med lönebesked. Det sa jag ju.
+= 되지. 급여 명세서랑. 내가 말했잖아.
+JESSICA: Birgitta, du har redan gjort för mycket.
+= 비르기타, 이미 너무 많이 해 줬어요.
+BIGGAN: En diskare är aldrig för mycket. Fråga Knut. Han säger att det bygger landet.
+= 설거지하는 사람은 절대 너무 많지 않아. 크누트한테 물어봐. 나라를 세운대.
+NOEL: Daniel… får jag fråga en sak?
+= 다니엘… 하나 물어봐도 돼요?
+DANIEL: Visst.
+= 그럼.
+NOEL: På Lucia sa du att du har sett någon gå in och aldrig komma ut. Vem?
+= 루시아 날 누가 들어가서 끝내 못 나오는 걸 봤다고 했잖아요. 누구예요?
+DANIEL: Det berättar jag på fredag. Vid det här bordet. Du får komma om du vill.
+= 그건 금요일에 얘기할게. 이 식탁에서. 오고 싶으면 와도 돼.
+NOEL: Får man det? Jag trodde det bara var för er.
+= 그래도 돼요? 여러분만 하는 건 줄 알았어요.
+BIGGAN: Mitt bord är för den som behöver det.
+= 내 식탁은 필요한 사람을 위한 거야.
+LAGERLÖF: Och för den som lyssnar. Det är de bästa gästerna.
+= 그리고 듣는 사람을 위한 거죠. 그게 최고의 손님이에요.
+NOEL: Vem är hon?
+= 저분은 누구예요?
+ELSA: Hon har skrivit en bok om en pojke som flög över hela Sverige på en gås.
+= 거위를 타고 스웨덴 전체를 날아다닌 소년에 대한 책을 쓰신 분이야.
+NOEL: Nils Holgersson? Vi läste den i fyran!
+= 닐스 홀게르손? 4학년 때 읽었어요!
+LAGERLÖF: Då vet du redan att man kan komma hem efter en lång resa.
+= 그럼 긴 여행 끝에 집에 돌아올 수 있다는 걸 이미 알겠구나.
+
+# 장면 2 — FREDAG: DANIELS BERÄTTELSE
+BIGGAN: Fredag. Klockan sju. Tacos. Daniel.
+= 금요일. 일곱 시. 타코. 다니엘.
+DANIEL: Okej. Hur det var. Rinkeby, 2006. Jag var sexton.
+= 좋아. 어땠는지. 링케비, 2006년. 난 열여섯이었어.
+LAGERLÖF: Börja med en plats. Inte med en händelse.
+= 장소로 시작해요. 사건 말고.
+DANIEL: Rinkebysvängen. Elfte våningen. Från vårt fönster såg man hela torget. Pappa sa att vi bodde i fyrtornet.
+= 링케비스벵엔. 11층. 우리 집 창문에서 광장 전체가 보였어. 아빠는 우리가 등대에 산다고 했어.
+ELSA: Var kom din familj ifrån?
+= 가족은 어디서 왔어요?
+DANIEL: Libanon. Pappa var lärare där. Här körde han taxi. Han brukade säga att han körde bättre än han undervisade.
+= 레바논. 아빠는 거기서 교사였어. 여기선 택시를 몰았지. 가르치는 것보다 운전을 더 잘한다고 하곤 했어.
+NOEL: Min morfar körde också taxi.
+= 우리 외할아버지도 택시 몰았어요.
+DANIEL: Alla i Rinkeby hade en morfar som körde taxi.
+= 링케비 사람들은 다 택시 모는 할아버지가 있었어.
+BIGGAN: Min Leif körde också taxi. Två år. Han hatade varje minut.
+= 우리 레이프도 택시를 몰았어. 2년. 1분 1초를 다 싫어했지.
+DANIEL: Och på femte våningen bodde Samir. Vi var bästa vänner sedan förskolan. Vi brukade spela fotboll på planen bakom skolan. Varje dag.
+= 그리고 5층엔 사미르가 살았어. 유치원 때부터 단짝이었지. 학교 뒤 운동장에서 축구하곤 했어. 매일.
+MAJA: Var han bra?
+= 잘했어?
+DANIEL: Mycket bättre än jag. Han skulle bli proffs. Alla sa det.
+= 나보다 훨씬. 프로가 될 거라고 했어. 다들 그렇게 말했지.
+NOEL: Bättre än Zlatan?
+= 즐라탄보다 잘했어요?
+DANIEL: Ingen är bättre än Zlatan. Fråga Zlatan.
+= 즐라탄보다 잘하는 사람은 없어. 즐라탄한테 물어봐.
+JOHAN: Vad hände?
+= 무슨 일이 있었어?
+DANIEL: När vi var femton började några äldre killar prata med honom. De gav honom nya skor. Sen en jacka. Sen en telefon.
+= 열다섯 살 때 형들 몇 명이 사미르한테 말을 걸기 시작했어. 새 신발을 줬어. 그다음엔 재킷. 그다음엔 전화기.
+NOEL: Som Kalle. Först tretusen.
+= 칼레처럼요. 처음엔 3,000.
+DANIEL: Precis som Kalle. Och sen sa de att han var skyldig dem. För skorna, för jackan.
+= 딱 칼레처럼. 그러다 걔한테 빚을 졌다고 했지. 신발값, 재킷값.
+ELSA: En skuld som inte finns.
+= 있지도 않은 빚.
+DANIEL: Samma metod. Tjugo år senare. Och Samir började ”hålla saker”. Bära påsar. Stå på torget på kvällarna.
+= 같은 방법이야. 20년이 지나도. 그리고 사미르는 ‘물건을 맡기’ 시작했어. 봉투를 나르고. 저녁마다 광장에 서 있고.
+ANTON: Och du?
+= 그리고 너는?
+DANIEL: Jag satt vid fönstret i fyrtornet och pluggade kemi. Och jag såg honom på torget. Varje kväll.
+= 난 등대 창가에 앉아서 화학 공부를 했어. 그리고 광장에 있는 걔를 봤어. 매일 저녁.
+HAMMARSKJÖLD: Och vad gjorde du?
+= 그래서 어떻게 했어요?
+DANIEL: Ingenting. Precis som Johan. Jag sa ingenting.
+= 아무것도. 요한처럼. 아무 말도 안 했어요.
+
+# 절정 — SAMIR
+ELSA: Varför sa du ingenting?
+= 왜 아무 말도 안 했어요?
+DANIEL: För att jag inte ville bli golare.
+= 밀고자가 되기 싫었으니까.
+NOEL: …
+= ……
+DANIEL: Jag tänkte att om jag pratade med en lärare, skulle alla veta. Och att Samir skulle hata mig.
+= 선생님한테 말하면 다들 알 거라고 생각했어. 그리고 사미르가 날 미워할 거라고.
+JOHAN: Du var sexton, Daniel.
+= 넌 열여섯이었어, 다니엘.
+DANIEL: Det sa du till dig själv om när du var tjugosju också. Det hjälper inte.
+= 너도 스물일곱 살 때 일로 스스로 그렇게 말했지. 도움 안 돼.
+LAGERLÖF: Vad hände sen? Säg det enkelt. Det är okej att säga det enkelt.
+= 그다음엔 무슨 일이 있었어요? 간단하게 말해요. 간단하게 말해도 괜찮아요.
+DANIEL: I maj 2008 blev Samir skjuten. På torget. Han var arton. Jag var på ett biologiprov.
+= 2008년 5월에 사미르가 총에 맞았어. 광장에서. 열여덟이었어. 난 생물 시험을 보고 있었고.
+BIGGAN: Åh, Daniel.
+= 아, 다니엘.
+ANTON: Jag är så ledsen.
+= 정말 안됐다.
+DANIEL: Jag fick högsta betyg på provet. Jag har aldrig kunnat vara glad för det.
+= 그 시험에서 최고 점수를 받았어. 그걸 한 번도 기뻐할 수 없었어.
+JESSICA: Hur gick det för hans familj?
+= 그 가족은 어떻게 됐어요?
+DANIEL: Hans mamma flyttade till Göteborg. Hon skickar fortfarande ett julkort till mina föräldrar. Varje år.
+= 어머니는 예테보리로 이사 가셨어요. 아직도 해마다 우리 부모님께 크리스마스카드를 보내세요.
+MAJA: Och du blev läkare.
+= 그리고 넌 의사가 됐고.
+DANIEL: Jag blev akutläkare. För att jag ville vara där när någon blir skjuten. Inte på ett prov.
+= 응급의학과 의사가 됐지. 누가 총에 맞을 때 그 자리에 있고 싶었어. 시험장 말고.
+ANTON: Har du… tagit emot sådana patienter?
+= 그런… 환자를 받아 본 적 있어?
+DANIEL: Många. Alltför många. Unga killar med nya skor.
+= 많이. 너무 많이. 새 신발 신은 어린 애들.
+HAMMARSKJÖLD: Och hur känns det för dig, Daniel? När du berättar nu?
+= 그래서 지금은 어때요, 다니엘? 이야기하면서?
+DANIEL: Som att Samir sitter här. Vid bordet. Han hade gillat tacos.
+= 사미르가 여기 앉아 있는 것 같아요. 식탁에. 타코 좋아했을 텐데.
+NOEL: Daniel. Var det därför du hjälpte mig? På Lucia?
+= 다니엘. 그래서 저를 도와준 거예요? 루시아 날?
+DANIEL: Ja. Och för att du kom till Biggan och inte till torget. Det var ditt val, Noel. Det var ett bra val.
+= 응. 그리고 네가 광장이 아니라 비간한테 왔으니까. 그건 네 선택이었어, 노엘. 좋은 선택이었어.
+NOEL: Jag visste inte vart jag skulle springa. Bara att det var ljust här.
+= 어디로 뛰어야 할지 몰랐어요. 그냥 여기가 밝다는 것만 알았어요.
+LAGERLÖF: Och vad betydde det? Din berättelse?
+= 그리고 그게 무엇을 의미했나요? 당신의 이야기는?
+DANIEL: Att tystnad aldrig är neutral. Den hjälper alltid någon. Oftast fel person.
+= 침묵은 절대 중립이 아니라는 것. 침묵은 언제나 누군가를 돕는다는 것. 대개는 엉뚱한 사람을.
+
+# 마무리 — DET SOM BLEV KVAR
+BIGGAN: Ingen säger något på en stund. Det är också okej.
+= 한동안 아무도 말 안 해도 돼. 그것도 괜찮아.
+ELSA: Daniel… får jag krama dig?
+= 다니엘… 안아도 돼요?
+DANIEL: Ja. Det får du.
+= 응. 그래도 돼.
+JOHAN: Tack, Daniel. Jag visste inte. Fyra år, och jag visste inte.
+= 고마워, 다니엘. 몰랐어. 4년 동안 알고 지냈는데, 몰랐어.
+DANIEL: Du frågade aldrig. Och jag sa aldrig. Vi är två bra killar på att inte säga saker.
+= 넌 한 번도 안 물었고. 난 한 번도 말 안 했지. 우린 말 안 하는 데 선수인 남자 둘이야.
+MAJA: Tre. Jag är också bra på det.
+= 셋. 나도 그거 잘해.
+ANTON: Det låter som att du har en berättelse, Maja.
+= 너도 이야기가 있는 것 같네, 마야.
+MAJA: Alla har en berättelse. Vissa är bara inte färdiga.
+= 다들 이야기가 있어. 어떤 건 아직 끝나지 않았을 뿐.
+NOEL: Daniel, jag ska börja spela fotboll igen. Jag slutade när jag var tretton.
+= 다니엘, 저 다시 축구 시작할래요. 열세 살 때 그만뒀거든요.
+DANIEL: Var?
+= 어디서?
+NOEL: Hammarby. De har ett lag för sextonåringar. Fröken Karin sa att det finns platser.
+= 함마르뷔요. 열여섯 살 팀이 있어요. 카린 선생님이 자리가 있대요.
+DANIEL: Då kommer jag och tittar. Första matchen.
+= 그럼 보러 갈게. 첫 경기.
+JESSICA: Vi kommer båda.
+= 우리 둘 다 갈게요.
+BIGGAN: Och jag tar med termos. Hammarby förtjänar varmt kaffe.
+= 그리고 난 보온병 챙길게. 함마르뷔는 따뜻한 커피를 받을 자격이 있지.
+HAMMARSKJÖLD: Det finns en rad jag skrev en gång: ”Det är inte vi som väljer ödet, men vi väljer hur vi möter det.” Ungefär så.
+= 제가 언젠가 쓴 구절이 있어요: ‘운명을 고르는 건 우리가 아니지만, 그것을 어떻게 맞을지는 우리가 고른다.’ 대략 그런 뜻이죠.
+LAGERLÖF: Det där skrev du aldrig, Dag. Men det låter som något du borde ha skrivit.
+= 그런 건 쓴 적 없잖아요, 다그. 근데 썼어야 할 말처럼 들리네요.
+HAMMARSKJÖLD: Döda får förbättra sina citat lite.
+= 죽은 사람은 자기 인용구를 조금 다듬어도 되죠.
+BIGGAN: Regel sju: vid mitt bord säger vi det vi aldrig har sagt. Och sen äter vi.
+= 규칙 7번: 내 식탁에선 한 번도 하지 않은 말을 한다. 그리고 먹는다.
+DANIEL: För Samir.
+= 사미르를 위하여.
+NEXT: 2부 5화 — «Elräkningen»(전기 요금 고지서) — 한겨울 추위와 함께 전기요금이 치솟는다. 전화 판매로 모르는 사이 비싼 변동요금 계약에 가입된 노인들이 카페에 줄을 선다. Maja가 고지서를 한 장씩 계산한다.
