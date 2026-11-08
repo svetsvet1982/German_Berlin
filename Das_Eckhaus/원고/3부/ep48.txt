@@ -1,0 +1,151 @@
+#nr: 48
+#part: 3부 Herbst (가을)
+#title: Der 9. November
+#ko: 11월 9일 · 슈톨퍼슈타인, 지하철, 그리고 보른홀머 다리
+#level: B1~B2
+#setting: 11월 9일 월요일. 독일 역사에서 두 얼굴을 가진 날이다. 1938년 유대인 대학살의 밤(포그롬)과 1989년 장벽 붕괴. 에디트는 잔, 파울과 함께 아침엔 베딩 아커 거리에서 로젠탈 가족의 슈톨퍼슈타인(14화)을 닦고, 지하철을 타고 리히텐베르크의 심장 전문의를 만나러 간다. 지하철 안에서 약속했던 이야기가 시작된다. 1989년 11월 9일 밤, 보른홀머 다리. 표현 초점: 과거 서술 심화(과거형·과거완료), 기억의 어조, 의사의 진단 이해.
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Paul | 파울 호프만 · 27세
+#cast: Dr. Simon | 토마스 지몬 · 50대, 리히텐베르크 심장 전문의
+#cast: Gisela | 기젤라 · 86세 (영상통화)
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Rolf | 롤프 호프만 · 58세, 파울의 아버지 (전화)
+#cast: Derya | 데르야 이을드즈 · 40세, 간호사, 잔의 엄마
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#read: 과거완료(Plusquamperfekt): „Ich hatte den ganzen Tag gearbeitet." „Gisela war am Morgen nach Berlin gekommen." — hatte/war + 과거분사. 과거보다 더 앞선 일을 말할 때 조동사를 또렷하게.
+#read: 기억의 어조: 장면을 그리듯 현재처럼 생생하게 말했다가(„Ich stehe da, und …"), 다시 과거형으로 돌아온다. 이야기꾼의 리듬.
+#read: Stolperstein [ˈʃtɔlpɐˌʃtaɪ̯n], Pogromnacht [poˈɡʁoːmˌnaxt], Grenzübergang [ˈɡʁɛntsʔyːbɐˌɡaŋ], Herzinsuffizienz [ˈhɛʁtsʔɪnzʊfiˌtsi̯ɛnts].
+#read: 군중의 외침 재현: „Tor auf! Tor auf!" — 박자를 맞춰 두 번씩.
+#note: Plusquamperfekt(과거완료) = hatte/war + 과거분사. 과거 이야기 속에서 그보다 더 먼저 일어난 일. „Als ich ankam, hatte das Tor sich schon geöffnet." (내가 도착했을 때 문은 이미 열려 있었다) / nachdem + 과거완료: „Nachdem Schabowski gesprochen hatte, liefen alle los."
+#note: 9. November: 1918년 공화국 선포, 1938년 나치가 유대인 상점과 회당을 불태운 포그롬의 밤, 1989년 장벽 붕괴가 모두 이날이다. 그래서 독일에서는 '운명의 날(Schicksalstag)'이라 부르며 기쁨과 추모를 함께 한다.
+#note: Stolpersteine = 예술가 귄터 뎀니히가 1992년 시작한 프로젝트. 나치 희생자가 마지막으로 자유롭게 살던 집 앞 보도에 이름과 생몰 정보를 새긴 10cm 놋쇠 판을 박는다. 11월 9일 즈음 시민들이 닦는다.
+#note: Bornholmer Straße = 1989년 11월 9일 밤 23시 30분경 가장 먼저 열린 국경 검문소. 동독 정부 대변인 샤보프스키의 기자 회견("Das tritt nach meiner Kenntnis … sofort, unverzüglich.") 이후 몰려든 시민들의 압력으로 열렸다.
+#note: 진단 이해: Die Pumpfunktion ist eingeschränkt. (펌프 기능이 떨어져 있다) / leicht bis mittelgradig(경증~중등도) / Das ist gut behandelbar. / Sie sollten … vermeiden. / Wir kontrollieren das in drei Monaten.
+## Ackerstraße, neun Uhr | 아커 거리, 아홉 시
+Can: Hier? Diese vier kleinen Steine? Aus Gold? || 여기요? 이 작은 돌 네 개요? 금으로 된 거요?
+Edith: Aus Messing, Can. Nicht aus Gold. Aber sie glänzen wie Gold, wenn man sie putzt. Lies mal vor. || 놋쇠란다, 잔. 금이 아니라. 그래도 닦으면 금처럼 빛나지. 읽어 보렴.
+Can: „Hier wohnte Samuel Rosenthal. Jahrgang neunzehnhundertvier. Deportiert neunzehnhundertzweiundvierzig. Ermordet in Auschwitz." || „여기 사무엘 로젠탈이 살았다. 1904년생. 1942년 강제 이송. 아우슈비츠에서 살해됨."
+Paul: Und die anderen drei? || 나머지 세 개는요?
+Can: „Hier wohnte Ruth Rosenthal. Jahrgang neunzehnhundertacht." Und … „Hier wohnte Hanna Rosenthal. Jahrgang neunzehnhundertvierunddreißig." Sie war acht. Und „Hier wohnte David Rosenthal. Jahrgang neunzehnhundertsiebenunddreißig." Er war fünf. || „여기 루트 로젠탈이 살았다. 1908년생." 그리고… „여기 한나 로젠탈이 살았다. 1934년생." 여덟 살이었네요. 그리고 „여기 다비드 로젠탈이 살았다. 1937년생." 다섯 살이었고요.
+Edith: Die Familie aus dem ersten Stock. Ich habe dir im Mai von ihnen erzählt. Am achten Mai. || 2층에 살던 가족이야. 5월에 너한테 얘기했지. 5월 8일에.
+Can: Die, bei denen alle weggeguckt haben. || 다들 외면했던 그 가족이요.
+Edith: Ja. Diese Steine sind seit zweitausendelf hier. Ich habe sie beantragt. Für meine Mutter. Sie wollte es immer. Aber sie hat sich nicht getraut. Ihr Leben lang nicht. || 그래. 이 돌들은 2011년부터 여기 있어. 내가 신청했지. 우리 어머니를 위해서. 어머니가 늘 원하셨거든. 그런데 평생 용기를 내지 못하셨어.
+Paul: Sie haben die Steine beantragt? || 이 돌들을 신청하셨다고요?
+Edith: Mit achtundsechzig. Nach Werners Tod. Ich dachte: Wenn nicht jetzt, wann dann? Und jedes Jahr am neunten November putze ich sie. Mit Werners alter Zahnbürste und einem Tuch. || 예순여덟에. 베르너가 세상을 떠난 뒤에. 지금 아니면 언제 하겠나 싶었지. 그리고 매년 11월 9일에 이걸 닦아. 베르너가 쓰던 칫솔이랑 천으로.
+Can: Darf ich putzen? Den Stein von David? Er war fünf. || 제가 닦아도 돼요? 다비드 돌이요? 다섯 살이었잖아요.
+Edith: Natürlich. Vorsichtig. Erst nass, dann mit der Bürste. In kleinen Kreisen. || 그럼. 조심해서. 먼저 적시고, 그다음에 칫솔로. 작은 원을 그리면서.
+Paul: Warum gerade heute? Ich dachte, heute ist der Tag des Mauerfalls. || 왜 하필 오늘이에요? 오늘은 장벽이 무너진 날인 줄 알았는데요.
+Edith: Heute ist beides, Paul. Neunzehnhundertachtunddreißig, am neunten November, haben die Nazis die Synagogen angezündet. Und die Geschäfte der Juden zerstört. Die Pogromnacht. Und neunzehnhundertneunundachtzig ist die Mauer gefallen. Am selben Tag. || 오늘은 둘 다야, 파울. 1938년 11월 9일에 나치가 회당에 불을 지르고 유대인 가게들을 부쉈어. 포그롬의 밤이지. 그리고 1989년엔 같은 날 장벽이 무너졌고.
+Can: Am selben Tag? Das ist ja komisch. Einmal ganz schlimm und einmal ganz schön. || 같은 날에요? 그거 이상하네요. 한 번은 엄청 끔찍하고 한 번은 엄청 좋고.
+Edith: Deshalb putze ich zuerst die Steine. Und erst danach freue ich mich. In dieser Reihenfolge. Jedes Jahr. || 그래서 먼저 돌을 닦는 거야. 그리고 그다음에야 기뻐하지. 이 순서대로. 해마다.
+Can: Fertig. Er glänzt. David glänzt. || 다 했어요. 반짝여요. 다비드가 반짝여요.
+Edith: Dann ist er heute nicht vergessen. Danke, Can. Komm. Jetzt fahren wir in den Osten. || 그럼 오늘 그 아이는 잊히지 않은 거야. 고맙다, 잔. 가자. 이제 동쪽으로 가는 거야.
+## In der U-Bahn | 지하철에서
+Can: Jetzt! Jetzt erzählst du es! Du hast es versprochen! Im Mai! Und im August! || 이제요! 이제 얘기해 주세요! 약속하셨잖아요! 5월에도! 8월에도!
+Edith: Gut. Wir haben zwanzig Minuten bis Frankfurter Allee. Das reicht für den Anfang. Es war ein Donnerstag. Ich hatte den ganzen Tag gearbeitet. Im Bus. Linie neunundzwanzig. Am Abend saß ich mit Werner vor dem Fernseher. || 좋아. 프랑크푸르터 알레까지 이십 분 남았어. 시작하기엔 충분하지. 목요일이었어. 나는 하루 종일 일했지. 버스에서. 29번 노선. 저녁엔 베르너랑 텔레비전 앞에 앉아 있었어.
+Paul: Und dann kam die Pressekonferenz. Schabowski. Das haben wir in der Schule gesehen. || 그다음에 기자 회견이 나왔죠. 샤보프스키. 학교에서 봤어요.
+Edith: Ein Mann mit Brille und einem Zettel. Er hat gestottert. Er hat gesagt: Die Bürger der DDR dürfen ausreisen. Und dann hat ein Journalist gefragt: Ab wann? Und er hat auf seinen Zettel geguckt. Und gesagt: „Das tritt nach meiner Kenntnis … ist das sofort, unverzüglich." || 안경 쓰고 쪽지를 든 남자였어. 말을 더듬더라. 동독 시민들이 출국할 수 있다고 했지. 그러자 한 기자가 물었어. 언제부터요? 그 사람이 쪽지를 들여다보더니 그러는 거야. „제가 알기로는… 즉시, 지체 없이입니다."
+Can: Sofort! Unverzüglich! || 즉시! 지체 없이!
+Edith: Werner hat gesagt: Das ist ein Fehler. Der hat sich versprochen. Und ich habe gesagt: Dann ist es der schönste Fehler der Welt. Und dann hat das Telefon geklingelt. || 베르너가 그러더라. 저건 실수야. 말을 잘못한 거야. 그래서 내가 그랬지. 그럼 세상에서 제일 아름다운 실수네. 그런데 그때 전화가 울렸어.
+Paul: Wer war es? || 누구였어요?
+Edith: Gisela. Aus einer Telefonzelle. In Prenzlauer Berg. Sie war an dem Tag in Ost-Berlin. Zu einer Fortbildung. An der Charité. Wie früher. Sie hatte bei einer Kollegin übernachtet. Sie hat geschrien: Edith! Hast du es gehört? Hast du es gehört? || 기젤라였어. 공중전화에서. 프렌츨라우어 베르크에서. 그날 언니는 동베를린에 와 있었거든. 연수 때문에. 샤리테에서. 옛날처럼. 동료 집에서 묵고 있었대. 소리를 지르더라. 에디트! 들었어? 들었냐고?
+Can: Sie war in Berlin? Am neunten November? Zufällig? || 베를린에 계셨어요? 11월 9일에요? 우연히요?
+Edith: Zufällig. Oder nicht. Gisela hat immer gesagt: So etwas ist kein Zufall. Das ist ein Geschenk. Sie hat gesagt: Ich gehe zur Bornholmer Straße. Da ist die Brücke. Da ist der nächste Übergang. Komm auf die andere Seite. || 우연히. 아니면 아닐 수도 있고. 기젤라는 늘 그랬어. 그런 건 우연이 아니라 선물이라고. 언니가 그러더라. 나 보른홀머 거리로 갈게. 거기 다리가 있어. 제일 가까운 검문소야. 너는 반대편으로 와.
+Paul: Und Sie sind losgegangen? Mitten in der Nacht? || 그래서 출발하셨어요? 한밤중에요?
+Edith: Werner hat den alten Opel genommen. Ganz Kreuzberg war auf der Straße. Wir haben eine Stunde gebraucht, von hier bis Wedding. Die letzten zwei Kilometer bin ich gerannt. In Hausschuhen. Werner ist mit meinen Schuhen hinterhergelaufen. || 베르너가 낡은 오펠을 몰고 나갔지. 크로이츠베르크 사람들이 전부 거리로 나와 있었어. 여기서 베딩까지 한 시간이나 걸렸지. 마지막 2킬로미터는 내가 뛰어갔어. 실내화 신고. 베르너가 내 신발을 들고 뒤에서 쫓아왔고.
+Can: In Hausschuhen! Wie Frau Schulze im Bademantel! || 실내화 신고요! 목욕 가운 입은 슐체 아주머니처럼요!
+Edith: Hausmantel, Can. Frau Schulze sagt immer Hausmantel. Nächste Station: Frankfurter Allee. Wir müssen raus. Der Rest kommt auf dem Rückweg. || 실내 가운이란다, 잔. 슐체 부인은 늘 실내 가운이라고 해. 다음 역 프랑크푸르터 알레. 내려야 해. 나머지는 돌아오는 길에 해 줄게.
+## Im Wartezimmer | 대기실에서
+Paul: Edith, was schreibst du da? || 에디트, 뭐 쓰세요?
+Edith: Einen Brief. An Werner. Wie jedes Jahr am neunten November. Seit achtzehn Jahren. || 편지. 베르너한테. 매년 11월 9일마다 그러듯이. 십팔 년째.
+Can: Was schreibst du ihm? || 뭐라고 쓰세요?
+Edith: Willst du es hören? Ich lese vor. „Lieber Werner. Heute sitze ich in Lichtenberg. Beim Herzarzt. Mein Herz ist müde. Du hättest gesagt: Es ist nicht müde, es ist nur faul. Wie ein Beamter." || 듣고 싶니? 읽어 줄게. „사랑하는 베르너. 오늘 나는 리히텐베르크에 앉아 있어요. 심장 의사한테 왔어요. 내 심장이 지쳤대요. 당신이라면 이렇게 말했겠죠. 지친 게 아니라 게을러진 거야. 공무원처럼."
+Paul: Er war witzig, dein Werner. || 베르너 할아버지 재밌는 분이셨네요.
+Edith: Witzig und laut. „Das Haus wird vielleicht unser. Stell dir vor. Eine Genossenschaft. Kalle sagt: Det is verrückt. Und dann sagt er Ja. Du hättest ihn gemocht. Ich duze ihn jetzt." || 재밌고 시끄러웠지. „이 집이 어쩌면 우리 것이 될지도 몰라요. 상상해 봐요. 협동조합이래요. 칼레가 그러더라고요. 그거 미쳤다. 그러고는 좋다고 했어요. 당신도 그 사람을 좋아했을 거예요. 나 이제 그 사람한테 말 놔요."
+Can: Steht da auch etwas über mich? || 저에 대한 것도 있어요?
+Edith: „Can hat heute Davids Stein geputzt. Er ist zehn. Er hat in kleinen Kreisen geputzt. Wie ich es ihm gezeigt habe. Ich glaube, du hättest einen Enkel gewollt. Jetzt habe ich einen. Geliehen. Von Derya." || „잔이 오늘 다비드의 돌을 닦았어요. 열 살이에요. 내가 가르쳐 준 대로 작은 원을 그리면서 닦았어요. 당신은 손주를 원했을 것 같아요. 이제 나한테 하나 생겼어요. 데르야한테서 빌린 손주가."
+Can: … Geliehen? Ich bin geliehen? || …빌렸다고요? 제가 빌린 거예요?
+Edith: Geliehen ist besser als nichts. Und man gibt geliehene Sachen gut zurück. Gepflegt. Mit Liebe. || 빌린 게 없는 것보단 낫지. 그리고 빌린 건 잘 돌려주는 거야. 잘 돌보고. 사랑을 담아서.
+Can: Dann bin ich ein gepflegter geliehener Enkel. || 그럼 저는 잘 돌봄받는 빌린 손주네요.
+Paul: Das ist der schönste Titel, den ich je gehört habe. || 그거 내가 들어 본 것 중에 제일 멋진 호칭이다.
+## Beim Kardiologen | 심장 전문의
+Dr. Simon: Frau Krüger? Simon. Kommen Sie, bitte. Und Ihre Begleitung? Ihr Enkel? Und Ihr … || 크뤼거 부인? 지몬입니다. 들어오세요. 그리고 같이 오신 분들은요? 손주랑, 그리고…
+Edith: Mein geliehener Enkel. Und ein Nachbar, der mir die Koffer trägt. Sie dürfen mit. Ich habe keine Geheimnisse. Nur ein müdes Herz. || 빌린 손주요. 그리고 내 짐을 들어 주는 이웃이요. 같이 들어와도 돼요. 나는 비밀이 없어요. 지친 심장만 있지.
+Dr. Simon: Gut. Ich habe Ihr EKG schon gesehen. In der elektronischen Patientenakte. Ihre Hausärztin hat alles hochgeladen. Jetzt mache ich einen Ultraschall vom Herzen. Bitte legen Sie sich hin. || 좋습니다. 심전도는 벌써 봤어요. 전자 환자기록에서요. 가정의 선생님이 다 올려 두셨더군요. 이제 심장 초음파를 할게요. 누우세요.
+Can: Man kann das Herz sehen? Auf dem Bildschirm? || 심장을 볼 수 있어요? 화면에서요?
+Dr. Simon: Man kann es sehen. Und hören. Hier. Das ist die linke Herzkammer. Sie pumpt das Blut in den Körper. Sehen Sie, wie sie sich bewegt? || 볼 수 있지. 들을 수도 있고. 여기. 이게 왼쪽 심실이야. 피를 온몸으로 내보내는 곳이지. 어떻게 움직이는지 보이니?
+Can: Wie ein Fisch. Der auf- und zugeht. || 물고기 같아요. 입을 벌렸다 다물었다 하는.
+Dr. Simon: Schöner Vergleich. Frau Krüger, Ihre Pumpfunktion ist eingeschränkt. Leicht bis mittelgradig. Das ist eine Herzinsuffizienz. Eine Herzschwäche. Wie Ihre Hausärztin vermutet hat. || 멋진 비유구나. 크뤼거 부인, 펌프 기능이 떨어져 있어요. 경증에서 중등도 사이예요. 심부전입니다. 심장이 약해진 거죠. 가정의 선생님이 짐작하신 대로예요.
+Edith: Und was heißt das? Ehrlich. Ohne Lateinisch. || 그게 무슨 뜻이에요? 솔직하게요. 라틴어 없이요.
+Dr. Simon: Ehrlich: Ihr Herz arbeitet noch gut genug für den Alltag. Aber es ist nicht mehr stark genug für große Anstrengungen. Das ist gut behandelbar. Mit Medikamenten. Damit können Sie noch viele Jahre gut leben. || 솔직하게 말씀드리면, 부인 심장은 일상생활엔 아직 충분히 잘 일해요. 하지만 큰 힘을 쓰기엔 더 이상 충분히 강하지 않아요. 치료는 잘 돼요. 약으로요. 그러면 앞으로도 여러 해 잘 지내실 수 있어요.
+Edith: Und die Treppe? Achtundsiebzig Stufen? Jeden Tag? || 그럼 계단은요? 일흔여덟 개요? 매일이요?
+Dr. Simon: Ehrlich? Das sollten Sie in Zukunft vermeiden. Wenn es irgendwie geht. Jeden Tag achtundsiebzig Stufen sind für Ihr Herz wie jeden Tag ein Berg. Gibt es keinen Aufzug in Ihrem Haus? || 솔직히요? 앞으로는 피하시는 게 좋아요. 어떻게든 할 수 있다면요. 매일 계단 일흔여덟 개는 부인 심장한테 매일 산을 하나씩 오르는 거나 마찬가지예요. 집에 엘리베이터는 없나요?
+Edith: Es soll einen geben. Wenn Nordwert modernisiert. Und dann kann ich ihn vielleicht nicht mehr bezahlen. || 생길 거래요. 노르트베르트가 현대화를 하면요. 그런데 그러면 나는 그 비용을 못 낼지도 몰라요.
+Dr. Simon: Das kann ich als Arzt nicht lösen. Leider. Aber ich schreibe Ihnen ein Attest. Dass Sie aus medizinischen Gründen keine Treppen steigen sollten. Vielleicht hilft Ihnen das. Bei der Hausverwaltung. Oder bei wem auch immer. || 그건 의사로서 해결해 드릴 수가 없네요. 안타깝게도요. 그래도 진단서를 써 드릴게요. 의학적 이유로 계단을 오르지 않는 게 좋다는 진단서요. 어쩌면 도움이 될 거예요. 관리회사든 누구한테든요.
+Paul: Bei der Genossenschaft. Das hilft bei der Genossenschaft. || 협동조합한테요. 그건 협동조합한테 도움이 돼요.
+## Bornholmer Straße | 보른홀머 거리
+Can: Edith, wir sind da! Die Brücke! Ist das die Brücke? || 에디트 할머니, 다 왔어요! 다리예요! 이게 그 다리예요?
+Edith: Das ist sie. Die Bösebrücke. Damals war hier der Grenzübergang. Mit Lampen, Soldaten und einem Tor. Heute fährt hier die Straßenbahn. || 그래. 뵈제 다리야. 그땐 여기가 검문소였어. 조명이랑 군인이랑 문이 있었지. 지금은 여기로 노면 전차가 다니고.
+Paul: Und wo haben Sie gestanden? Neunzehnhundertneunundachtzig? || 그럼 어디 서 계셨어요? 1989년에요?
+Edith: Hier. Genau hier. Auf der Westseite. Es waren schon tausend Menschen da, als ich ankam. Alle haben auf die andere Seite geguckt. Und auf der anderen Seite waren noch mehr Menschen. Zehntausend. Und alle haben gerufen: „Tor auf! Tor auf!" || 여기. 바로 여기. 서쪽 편에. 내가 도착했을 때 벌써 천 명이 와 있었어. 다들 반대편을 쳐다보고 있었지. 그리고 반대편엔 사람이 더 많았어. 만 명은 됐지. 그리고 다들 외쳤어. „문 열어! 문 열어!"
+Can: Tor auf! Tor auf! || 문 열어! 문 열어!
+Edith: Genau so. Und um halb zwölf hat ein Offizier das Tor aufgemacht. Er hatte keine Befehle mehr bekommen. Er wusste nicht, was er tun sollte. Und dann kamen sie. Alle. Laufend. Weinend. Lachend. In Trabis, zu Fuß, mit Kinderwagen. || 바로 그렇게. 그리고 열한 시 반에 한 장교가 문을 열었어. 더 이상 명령이 오지 않았던 거야. 뭘 해야 할지 몰랐던 거지. 그리고 사람들이 왔어. 모두가. 뛰면서. 울면서. 웃으면서. 트라반트 타고, 걸어서, 유모차 밀면서.
+Paul: Und Gisela? Wie haben Sie Gisela gefunden? Unter Tausenden? || 그럼 기젤라 할머니는요? 수천 명 속에서 어떻게 찾으셨어요?
+Edith: Ich habe gerufen. „Gisela! Gisela!" Wie eine Verrückte. Und dann habe ich ein Lied gehört. Ganz leise. Durch den ganzen Lärm. Das Lied, das sie mir im Keller vorgesungen hat. Neunzehnhundertfünfundvierzig. „Weißt du, wie viel Sternlein stehen". Sie hat es gesungen. Damit ich sie finde. || 소리쳤지. „기젤라! 기젤라!" 미친 사람처럼. 그런데 노래가 들렸어. 아주 작게. 그 엄청난 소음을 뚫고. 1945년 지하실에서 언니가 나한테 불러 주던 노래였어. „하늘에 별이 몇 개인지 아니". 언니가 그걸 부르고 있었던 거야. 내가 자기를 찾을 수 있게.
+Can: … Das Lied aus dem Keller. || …지하실의 그 노래.
+Edith: Sie stand mitten auf der Brücke. Mit einem kleinen Kettchen in der Hand. Sie hatte es am Morgen in der Charité gekauft. Für meinen Geburtstag im April. Sie hat es mir an der Brücke umgehängt. Fünf Monate zu früh. Und gesagt: Das ist kein Vorher-Gratulieren. Das ist ein Nachher-Gratulieren. Für achtundzwanzig Jahre. || 언니는 다리 한가운데 서 있었어. 손에 작은 목걸이를 들고. 그날 아침 샤리테에서 산 거래. 4월 내 생일 선물로. 다리에서 그걸 내 목에 걸어 줬어. 다섯 달이나 일찍. 그러고는 그러는 거야. 이건 미리 축하하는 게 아니야. 늦게 축하하는 거야. 이십팔 년 치를.
+Paul: Das Kettchen. Das Sie jeden Tag tragen. || 그 목걸이. 매일 하시는 그거요.
+Edith: Dieses hier. Seit siebenunddreißig Jahren. Komm, Can. Wir rufen Gisela an. Von der Brücke. Das machen wir jedes Jahr. Seit sie im Heim ist. || 바로 이거야. 서른일곱 해 동안. 이리 와, 잔. 기젤라한테 전화하자. 다리 위에서. 언니가 요양원에 간 뒤로 해마다 이렇게 해.
+Gisela: Edith? Bist du auf der Brücke? Ich sehe die Straßenbahn. || 에디트? 다리 위에 있니? 노면 전차가 보이네.
+Edith: Ich bin auf der Brücke, Gisela. Mit meinem geliehenen Enkel. Er hat heute das Lied gehört. Die Geschichte. Alles. || 다리 위에 있어, 언니. 내 빌린 손주랑 같이. 오늘 그 노래 이야기를 들었어. 그 이야기를. 전부 다.
+Gisela: Dann sing es für ihn. Leise. So wie damals. Ich singe mit. Aus Cottbus. || 그럼 그 애한테 불러 줘. 조용히. 그때처럼. 나도 같이 부를게. 코트부스에서.
+## Rückweg in der S-Bahn | 돌아오는 S반에서
+Can: Paul, wo war dein Papa am neunten November? Neunzehnhundertneunundachtzig? || 파울 형, 형 아빠는 11월 9일에 어디 계셨어요? 1989년에요?
+Paul: Keine Ahnung. Das habe ich ihn nie gefragt. Komisch, oder? Ich rufe ihn an. Er hat heute Spätschicht, aber jetzt ist Pause. || 모르겠어. 한 번도 안 물어봤네. 이상하지? 전화해 볼게. 오늘 늦은 근무인데, 지금은 쉬는 시간일 거야.
+Rolf: Paul? Ist was passiert? Du rufst nie unter der Woche an. || 파울? 무슨 일 있니? 너 평일엔 절대 전화 안 하잖아.
+Paul: Nichts passiert, Papa. Ich sitze in der S-Bahn mit Edith und Can. Can will wissen, wo du am neunten November warst. Neunzehnhundertneunundachtzig. || 아무 일 없어요, 아빠. 에디트랑 잔이랑 S반에 있어요. 잔이 아빠가 1989년 11월 9일에 어디 계셨는지 알고 싶대요.
+Rolf: Ach, Junge. Ich war einundzwanzig. Bei der Armee. Bei der NVA. Grundwehrdienst. In einer Kaserne bei Cottbus. Wir hatten keinen Fernseher. Nur ein altes Radio. || 아이고, 얘야. 나 그때 스물한 살이었다. 군대에 있었지. 국가인민군. 의무 복무. 코트부스 근처 막사에서. 텔레비전이 없었어. 낡은 라디오 하나뿐이었지.
+Edith: Herr Hoffmann, hier ist Edith. Und was haben Sie gehört? Im Radio? || 호프만 씨, 에디트예요. 그래서 뭘 들으셨어요? 라디오에서요?
+Rolf: Frau Krüger! Wir haben um Mitternacht gehört, dass die Grenze offen ist. Und wir dachten: Jetzt kommt der Befehl. Jetzt müssen wir nach Berlin. Mit Waffen. Wir hatten Angst. Große Angst. || 크뤼거 부인! 자정에 국경이 열렸다는 걸 들었어요. 그리고 생각했죠. 이제 명령이 떨어지겠구나. 이제 베를린으로 가야겠구나. 총을 들고. 무서웠어요. 정말 무서웠죠.
+Can: Und? Kam der Befehl? || 그래서요? 명령이 왔어요?
+Rolf: Nie. Es kam kein Befehl. Gar nichts. Am Morgen hat unser Leutnant gesagt: Jungs, ich weiß auch nicht, was los ist. Geht frühstücken. Das war das Ende der DDR für mich. Ein Frühstück. || 안 왔어. 명령은 오지 않았단다. 아무것도. 아침에 우리 소위가 그러더라. 얘들아, 나도 무슨 일인지 모르겠다. 아침이나 먹으러 가라. 그게 나한테는 동독의 끝이었어. 아침 식사 한 끼.
+Paul: Das hast du mir nie erzählt, Papa. Siebenundzwanzig Jahre lang nicht. || 그 얘기 저한테 한 번도 안 하셨잖아요, 아빠. 이십칠 년 동안이나.
+Rolf: Du hast nie gefragt. Und ich habe gedacht, es interessiert niemanden. Ein Soldat, der nichts gemacht hat. Keine Heldengeschichte. || 네가 안 물어봤잖아. 그리고 아무도 관심 없을 줄 알았지. 아무것도 안 한 군인 이야기니까. 영웅담도 아니고.
+Edith: Doch, Herr Hoffmann. Das ist eine Heldengeschichte. Einer, der nicht geschossen hat. Davon gab es viele in dieser Nacht. Ohne sie hätte ich meine Schwester nicht wiedergefunden. || 아니에요, 호프만 씨. 그게 영웅담이에요. 총을 쏘지 않은 사람 이야기. 그날 밤엔 그런 사람이 많았어요. 그 사람들이 없었다면 나는 언니를 다시 찾지 못했을 거예요.
+Rolf: … Das hat mir noch nie jemand gesagt. Danke, Frau Krüger. Ich muss wieder an die Arbeit. Paul, ruf öfter an. Auch unter der Woche. || …그런 말은 아무도 해 준 적이 없어요. 고맙습니다, 크뤼거 부인. 다시 일하러 가야겠네요. 파울, 자주 전화해라. 평일에도.
+Paul: Mach ich, Papa. Versprochen. || 그럴게요, 아빠. 약속해요.
+Can: Paul, warum hast du nie gefragt? || 파울 형, 왜 한 번도 안 물어봤어요?
+Paul: Weil man seine Eltern so etwas nicht fragt, glaube ich. Man denkt, sie waren schon immer Eltern. Nie einundzwanzig. Nie ängstlich. || 부모님한테는 그런 걸 잘 안 묻게 되는 것 같아. 늘 부모였던 것처럼 생각하거든. 스물한 살이었던 적도, 겁먹었던 적도 없었던 것처럼.
+Edith: Deshalb muss man Geschichten erzählen, solange man kann. Und fragen, solange jemand da ist. Das habe ich heute gelernt. Mit dreiundachtzig. || 그래서 할 수 있을 때 이야기를 해야 하는 거야. 그리고 누가 곁에 있을 때 물어봐야 하고. 오늘 그걸 배웠네. 여든셋에.
+Can: Dann frage ich morgen Dede. Was er neunzehnhundertneunundachtzig gemacht hat. In der Fabrik. || 그럼 내일 데데한테 물어볼래요. 1989년에 뭐 하셨는지. 공장에서요.
+Edith: Tu das. Und schreib es auf. Für Frau Wagner. Und für dich. || 그렇게 해. 그리고 받아 적어 둬. 바그너 선생님을 위해서. 그리고 너 자신을 위해서.
+## Abends in der Ecke | 저녁, 크나이페에서
+Kalle: Da seid ihr ja! Wie war es? Was hat der Arzt gesagt? || 왔구나! 어땠어? 의사가 뭐래?
+Edith: Herzschwäche. Leicht bis mittelgradig. Gut behandelbar. Viele Jahre noch. Aber keine Treppen. Wenn es geht. Hier ist das Attest. || 심부전. 경증에서 중등도. 치료 잘 된대. 앞으로도 여러 해. 그런데 계단은 안 된대. 할 수 있다면. 여기 진단서야.
+Kalle: Keine Treppen. Und du wohnst im vierten Stock. Achtundsiebzig Stufen. || 계단 금지라. 그런데 넌 5층에 살잖아. 계단 일흔여덟 개.
+Edith: Seit zweiundfünfzig Jahren. Und jetzt soll ich jeden Tag einen Berg besteigen. Sagt der Arzt. || 오십이 년째지. 그리고 이제는 매일 산 하나씩 오르는 셈이래. 의사 말로는.
+Paul: Kalle, du hast im Oktober etwas gesagt. Über die Wohnung von Herrn Pietsch. Im Erdgeschoss. || 칼레, 10월에 뭐라고 하셨잖아요. 피치 씨 집에 대해서요. 1층이요.
+Kalle: Ick habe gesagt: Wenn das Haus uns gehört. Dann bekommt Edith die Wohnung. Ohne Treppen. || 내가 그랬지. 집이 우리 것이 되면 에디트가 그 집을 받는다고. 계단 없이.
+Edith: Und bis dahin? Bis Januar? Bis Nordwert seine Klage zurückzieht? Oder nicht? || 그럼 그때까지는? 1월까지는? 노르트베르트가 소송을 거둘 때까지는? 아니면 안 거둘 수도 있고?
+Kalle: Bis dahin trägt dich Paul. Oder Tobi. Oder ick. Jeden Tag. Achtundsiebzig Stufen. Det verspreche ick dir. || 그때까진 파울이 업고 다니지. 아니면 토비가. 아니면 내가. 매일. 계단 일흔여덟 개. 약속할게.
+Edith: Du kannst mich nicht tragen, Kalle. Du hast selbst Knie. || 너는 나 못 업어, 칼레. 너도 무릎이 있잖아.
+Can: Dann tragen wir dich zusammen. Alle. Wie eine Genossenschaft. Jeder ein paar Stufen. || 그럼 다 같이 업어 드려요. 모두가요. 협동조합처럼요. 한 사람이 계단 몇 개씩.
+Edith: Achtundsiebzig Stufen geteilt durch … wie viele sind wir? || 계단 일흔여덟 개를… 우리가 몇 명이지? 몇으로 나누면 되나?
+Can: Dreizehn. Dann sind es sechs Stufen pro Person. Das hat Frau Wagner uns beigebracht. Teilen ohne Rest. || 열세 명이요. 그럼 한 사람당 여섯 계단이에요. 바그너 선생님이 가르쳐 줬어요. 나머지 없이 나누기요.
+Edith: Ohne Rest. Das ist das Schönste an einer Genossenschaft, Can. Niemand bleibt übrig. || 나머지 없이. 그게 협동조합의 제일 아름다운 점이란다, 잔. 아무도 남겨지지 않는 거.
+Derya: Can! Da bist du ja. Ich habe mir Sorgen gemacht. Ihr wart den ganzen Tag weg. || 잔! 여기 있었구나. 걱정했잖아. 하루 종일 나가 있었네.
+Can: Mama! Ich habe Davids Stein geputzt! Und das Herz von Edith gesehen! Es sieht aus wie ein Fisch! Und ich bin ein gepflegter geliehener Enkel! || 엄마! 제가 다비드 돌을 닦았어요! 그리고 에디트 할머니 심장을 봤어요! 물고기처럼 생겼어요! 그리고 저는 잘 돌봄받는 빌린 손주래요!
+Derya: Ein was? Langsam, Schatz. Ein Satz nach dem anderen. || 뭐라고? 천천히, 얘야. 한 문장씩.
+Edith: Er erzählt es dir zu Hause. Alles. Er hat heute mehr Geschichte gehört als in einem ganzen Schuljahr. || 집에 가서 다 얘기해 줄 거야. 전부. 오늘 학교 일 년 치보다 많은 역사를 들었거든.
+Derya: Und das Herz? Was hat der Kardiologe gesagt? Ehrlich, Edith. Ich bin Krankenschwester. || 심장은요? 심장 전문의가 뭐래요? 솔직하게요, 에디트. 저 간호사잖아요.
+Edith: Leicht bis mittelgradig. Pumpfunktion eingeschränkt. Neue Tabletten. Kontrolle in drei Monaten. Und keine Treppen. || 경증에서 중등도. 펌프 기능 저하. 새 약. 석 달 뒤 재검사. 그리고 계단 금지.
+Derya: Das ist nicht schlimm. Das ist gut behandelbar. Aber die Tabletten nimmst du jeden Morgen. Ich kontrolliere das. Mit einer Liste an deinem Kühlschrank. || 나쁘지 않아요. 치료 잘 되는 거예요. 그래도 약은 매일 아침 드셔야 해요. 제가 확인할게요. 냉장고에 목록 붙여 놓고요.
+Frau Schulze: Und ich schreibe das Attest ab. Für die Akte der Genossenschaft. Mit Datum und Stempel. Dringender Wohnungswechsel aus medizinischen Gründen. Das ist ein Argument. Auch für den Bezirk. || 그리고 저는 진단서를 베껴 둘게요. 협동조합 서류철용으로. 날짜와 도장까지. 의학적 사유로 인한 긴급 주거 이전. 그건 근거가 돼요. 구청한테도요.
+Kalle: Frau Schulze, Sie machen aus allem eine Akte. Sogar aus einem Herzen. || 슐체 부인, 당신은 뭐든 서류철로 만드는군요. 심장까지.
+Frau Schulze: Gerade aus einem Herzen, Herr Kowalski. Herzen vergisst man sonst so schnell. Akten nicht. || 심장이니까 더더욱이죠, 코발스키 씨. 심장은 금방 잊히거든요. 서류는 안 그래요.
+Edith: Das ist das Schönste, was Sie je gesagt haben, Ingrid. || 그건 당신이 지금까지 한 말 중에 제일 아름다운 말이에요, 잉그리트.
+Frau Schulze: Schreiben Sie es nicht auf. Ich will keinen Ruf als Romantikerin. || 받아 적지 마세요. 낭만주의자라는 소문은 싫어요.
+Can: Edith, darf ich morgen wieder mitkommen? Wenn du Gisela anrufst? || 에디트 할머니, 내일도 같이 가도 돼요? 기젤라 할머니한테 전화할 때요?
+Edith: Morgen ist kein neunter November mehr, Can. Morgen ist ein ganz normaler Dienstag. Aber ja. Komm mit. Normale Dienstage sind die wichtigsten. || 내일은 더 이상 11월 9일이 아니란다, 잔. 내일은 아주 평범한 화요일이야. 그래도 좋아. 같이 가자. 평범한 화요일이 제일 소중한 거야.
+Kalle: Auf die normalen Dienstage. Und auf sechs Stufen pro Person. Prost. || 평범한 화요일을 위하여. 그리고 한 사람당 여섯 계단을 위하여. 건배.
