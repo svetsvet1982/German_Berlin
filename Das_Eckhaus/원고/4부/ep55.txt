@@ -1,0 +1,153 @@
+#nr: 55
+#part: 4부 Winter (겨울)
+#title: Nikolaus und Wichteln
+#ko: 니콜라우스와 비히텔른 · 장화 속 열쇠와 서로를 놀리는 시
+#level: B2~C1
+#setting: 12월 6일 일요일, 대림절 둘째 주일이자 니콜라우스 날. 아이들은 전날 밤 현관 앞에 내놓은 장화에서 선물을 찾는다. 이웃들은 알트릭스도르프 크리스마스 시장에서 몰래 선물(Wichtelgeschenk)을 고르고, 저녁에는 크나이페에서 송년 비히텔른과 서로를 놀리는 자작 시 낭독을 한다. 그리고 칼레는 내일까지 알브레히트에게 보낼 거절 답장을 쓴다. 표현 초점: 운문 낭독(각운·리듬), 유머와 놀림, 선물 어휘, 격식 있는 거절 서신.
+#cast: Can | 잔 이을드즈 · 10세
+#cast: Derya | 데르야 이을드즈 · 40세
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Frau Schulze | 잉그리트 슐체 · 62세
+#cast: Kalle | 칼레 코발스키 · 58세
+#cast: Jana | 야나 코발스키 · 34세
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Paul | 파울 호프만 · 27세
+#cast: Lea | 레아 바그너 · 28세
+#cast: Max | 막스 · 29세
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Jannik | 야니크 후버 · 25세
+#read: 운문 낭독: 4행시의 각운(aabb)을 살린다. „Frau Schulze schreibt seit Jahren alles nieder, / den Lärm, den Müll, die falschen Weihnachtslieder." — nieder/lieder의 운에서 살짝 멈춘다.
+#read: 리듬: 강세 음절과 약세 음절이 교대하도록(약강격). 박수를 치듯 „da-DAM da-DAM". 마지막 행의 펀치라인 앞에서는 한 박자 쉰다.
+#read: 전통 시구: „Lieber, guter Nikolaus, / zieh mir nicht die Hosen aus. / Zieh sie lieber Papa aus, / der hat sie verdient." — 아이들 말투로 장난스럽게. 마지막 행은 운이 일부러 안 맞는다(웃음 포인트).
+#read: Wichteln [ˈvɪçtl̩n], Glühwein [ˈɡlyːˌvaɪ̯n], Eingangsstempel [ˈaɪ̯nɡaŋsˌʃtɛmpl̩], Schuhplattler [ˈʃuːˌplatlɐ].
+#note: Nikolaustag(12월 6일): 5일 밤 아이들이 깨끗이 닦은 장화(Stiefel)를 문 앞에 내놓으면 성 니콜라우스가 귤, 견과, 초콜릿을 넣어 준다. 말을 안 들은 아이에게는 동행자 크네히트 루프레히트(Knecht Ruprecht)가 회초리(Rute)를 놓고 간다는 전설이 있다.
+#note: Wichteln(비히텔른) = 제비뽑기로 정한 상대에게 몰래 선물을 주는 연말 풍습. 보통 금액 상한이 있다(z. B. höchstens zehn Euro). 선물 주는 사람은 Wichtel, 받는 사람은 Wichtelkind. 'Schrottwichteln'은 쓸모없는 물건을 주고받는 장난 버전.
+#note: 유머·놀림 표현: jemanden auf den Arm nehmen (놀리다) / Das war nicht böse gemeint. (악의는 없었어) / Er kann über sich selbst lachen. / Wer den Schaden hat, braucht für den Spott nicht zu sorgen. (손해 본 사람이 놀림까지 받는다)
+#note: 격식 있는 거절 서신: Sehr geehrter Herr Dr. …, / vielen Dank für Ihr Angebot vom … / Nach reiflicher Überlegung (심사숙고 끝에) muss ich Ihnen mitteilen, dass … / Ich bitte um Ihr Verständnis. / Mit freundlichen Grüßen
+#note: Alt-Rixdorfer Weihnachtsmarkt = 노이쾰른 리하르트 광장에서 대림절 둘째 주말에만 사흘 열리는 작은 크리스마스 시장. 상업 노점보다 지역 단체·수공예·자선 부스가 많고, 장작불과 촛불로 분위기를 낸다.
+## Sonntagmorgen, vor der Tür | 일요일 아침, 문 앞에서
+Can: Mama! Mama! Der Stiefel ist voll! Eine Mandarine, Nüsse, ein Schokoladen-Nikolaus. Und … eine Rute? Warum ist da eine Rute drin? || 엄마! 엄마! 장화가 꽉 찼어요! 귤 하나, 견과류, 초콜릿 니콜라우스. 그리고… 회초리요? 회초리가 왜 들어 있어요?
+Derya: Weil du am Mittwoch deine Mathe-Hausaufgaben vergessen hast. Und Frau Wagner mir eine Mail geschrieben hat. Der Nikolaus liest offenbar auch Elternmails. || 수요일에 수학 숙제 까먹었잖아. 그리고 바그너 선생님이 엄마한테 메일 보내셨고. 니콜라우스도 학부모 메일을 읽나 보지.
+Can: Das ist Überwachung! Das ist schlimmer als Frau Schulze! || 그건 감시예요! 슐체 아주머니보다 심해요!
+Derya: Sag das nicht zu laut. Sie wohnt direkt unter … Na ja, fast. Und jetzt bring deinen Stiefel rein. Es ist eiskalt. || 너무 크게 말하지 마. 바로 아래층에… 뭐, 거의 그렇지. 이제 장화 들여놔. 얼음장처럼 춥다.
+Can: Warte. Ich muss noch nach oben. Zu Edith. Ich habe gestern Abend etwas in ihren Stiefel gelegt. Heimlich. Um elf Uhr. Mit der Taschenlampe. || 잠깐만요. 위층에 가야 해요. 에디트 할머니한테요. 어젯밤에 할머니 장화에 뭘 넣어 놨거든요. 몰래요. 열한 시에. 손전등 들고요.
+Derya: Du bist um elf Uhr nachts durchs Treppenhaus geschlichen? || 밤 열한 시에 계단을 몰래 돌아다녔다고?
+Can: Der Nikolaus macht das auch. Und keiner beschwert sich. || 니콜라우스도 그러잖아요. 그리고 아무도 불평 안 해요.
+Edith: Can? Bist du das? Ich höre dich schon seit dem zweiten Stock. Du schleichst wie ein Elefant mit Socken. || 잔? 너니? 3층부터 네 소리가 들리더라. 양말 신은 코끼리처럼 살금살금 오는구나.
+Can: Edith! Hast du in deinen Stiefel geguckt? Hast du? || 에디트 할머니! 장화 안 보셨어요? 보셨어요?
+Edith: Ich habe seit dreiundsiebzig Jahren keinen Stiefel mehr vor die Tür gestellt. Seit neunzehnhundertdreiundfünfzig. Gisela hat damals einen Kohlestein reingelegt. Als Rute. Ich habe eine Woche nicht mit ihr geredet. || 칠십삼 년 동안 장화를 문 앞에 내놓은 적이 없어. 1953년 이후로. 그때 기젤라가 석탄 덩어리를 넣어 놨거든. 회초리 대신에. 일주일 동안 언니랑 말을 안 했지.
+Can: Aber heute stand einer da! Ich habe ihn hingestellt! Deinen alten Winterstiefel. Aus dem Flur. Guck rein. Bitte. || 그런데 오늘은 하나 있었잖아요! 제가 내놨어요! 할머니 낡은 겨울 장화요. 현관에 있던 거. 안을 보세요. 제발요.
+Edith: … Eine Mandarine. Ein Marzipanbrot. Ohne Zucker steht drauf, das stimmt aber nicht. Und ein Zettel. Eine Zeichnung. Was ist das? || …귤 하나. 마지판 빵 하나. 무설탕이라고 써 있는데, 그건 거짓말이고. 그리고 쪽지 하나. 그림이네. 이게 뭐니?
+Can: Das ist die Wohnung im Erdgeschoss. Die von Herrn Pietsch. Mit deinem Sessel. Und deinem Plattenspieler. Und mit null Stufen. Und unten ist ein Schlüssel. Aus Pappe. Mit Alufolie. || 1층 집이에요. 피치 할아버지 집이요. 할머니 안락의자랑요. 그리고 레코드플레이어랑. 그리고 계단은 0개예요. 그리고 아래에 열쇠가 있어요. 판지로 만든 거요. 알루미늄 포일 씌워서요.
+Edith: Ein Schlüssel aus Pappe. Für eine Wohnung, die uns noch nicht gehört. || 판지 열쇠라. 아직 우리 것도 아닌 집의.
+Can: Noch nicht. Aber bald. Kalle hat Nein gesagt. Das heißt, wir kämpfen. Und wenn wir kämpfen, gewinnen wir. Das ist wie beim Fußball. Fast immer. || 아직은요. 그런데 곧 그렇게 될 거예요. 칼레 아저씨가 싫다고 했잖아요. 그 말은 우리가 싸운다는 거고요. 싸우면 이겨요. 축구처럼요. 거의 항상요.
+Edith: Fast immer. Das reicht mir. Den Schlüssel hänge ich an mein Schlüsselbrett. Neben den echten. Bis er echt wird. || 거의 항상이라. 그거면 충분해. 이 열쇠는 내 열쇠걸이에 걸어 둘게. 진짜 열쇠들 옆에. 이게 진짜가 될 때까지.
+Derya: Can, die Mandarine war aus unserer Küche, oder? || 잔, 그 귤 우리 부엌에서 가져간 거지?
+Can: Der Nikolaus nimmt, was er findet. Das ist Umverteilung. Hat Jannik gesagt. || 니콜라우스는 찾은 걸 가져가는 거예요. 그게 재분배래요. 야니크 형이 그랬어요.
+Derya: Umverteilung. Gut. Dann verteile ich jetzt dein Frühstück um. An Edith. Zwei Brötchen. || 재분배라. 좋아. 그럼 이제 네 아침밥을 재분배할게. 에디트 할머니한테로. 빵 두 개.
+Edith: Ich nehme sie. Und Can: Komm heute Abend nicht ohne Gedicht. Bine kontrolliert. || 받을게. 그리고 잔, 오늘 저녁엔 시 없이 오지 마. 비네가 검사한다더라.
+Can: Ich habe schon eins. Über Paul. Es ist gemein. Aber es reimt sich. || 벌써 하나 있어요. 파울 형에 대한 거요. 좀 짓궂어요. 그래도 운은 맞아요.
+## Die Wichtelbeauftragte | 비히텔 담당관
+Frau Schulze: Also. Ich wiederhole die Regeln. Ein letztes Mal. Erstens: Jeder hat im November einen Namen gezogen. Zweitens: Das Geschenk kostet höchstens zehn Euro. Drittens: Niemand verrät, wen er gezogen hat. Unter keinen Umständen. || 자. 규칙을 다시 말할게요. 마지막으로요. 첫째, 다들 11월에 이름을 하나씩 뽑았어요. 둘째, 선물은 최대 10유로. 셋째, 누구를 뽑았는지 아무도 밝히지 않는다. 어떤 경우에도요.
+Bine: Und viertens: Jeder schreibt ein Gedicht. Über sein Wichtelkind. Das ist meine Regel. Die habe ich eingeführt. || 그리고 넷째, 다들 자기 비히텔 상대에 대한 시를 한 편씩 쓴다. 그건 내 규칙이야. 내가 만든 거지.
+Kalle: Gedichte. Ick habe in meinem Leben ein einziges Gedicht geschrieben. Für Monika. Neunzehnhundertneunzig. Es hat sich nicht gereimt. Sie hat mich trotzdem geheiratet. || 시라니. 나는 평생 시를 딱 한 편 써 봤어. 모니카한테. 1990년에. 운도 안 맞았지. 그래도 모니카는 나랑 결혼해 줬어.
+Jana: Papa, das Gedicht muss sich reimen. Das ist der ganze Witz. Paarreim. A, A, B, B. Wie bei einem Weihnachtslied. || 아빠, 시는 운이 맞아야 해요. 그게 핵심이에요. 짝운. A, A, B, B. 크리스마스 노래처럼요.
+Paul: Frau Schulze, darf ich eine Frage stellen? Rein hypothetisch. Wenn man jemanden gezogen hat, der … sagen wir … sehr anspruchsvoll ist. Was schenkt man so jemandem? Für zehn Euro? || 슐체 부인, 질문 하나 해도 될까요? 순전히 가정으로요. 만약 누가 뽑은 사람이… 그러니까… 아주 까다로운 사람이라면요. 그런 사람한테는 뭘 선물해요? 10유로로요?
+Frau Schulze: Herr Hoffmann, Ihre Frage verstößt gegen Regel drei. Fast. Ich verwarne Sie. Mündlich. || 호프만 씨, 질문이 규칙 3조를 위반하는군요. 거의요. 경고합니다. 구두로요.
+Bine: Er hat dich gezogen, Ingrid. Das sieht doch ein Blinder. Guck mal, wie er schwitzt. || 쟤가 너 뽑았네, 잉그리트. 장님이라도 알겠다. 봐 봐, 쟤 땀 흘리는 거.
+Paul: Ich schwitze nicht. Es ist nur warm. Der Ofen. || 땀 안 흘려요. 그냥 더워서 그래요. 난로 때문에요.
+Kalle: Der Ofen ist seit gestern kaputt, Junge. Det ist dein schlechtes Gewissen. || 난로는 어제부터 고장 났어, 얘야. 그건 네 양심의 가책이야.
+Frau Schulze: Ich habe nichts gehört. Ich habe nichts gesehen. Und ich sage nur so viel, ganz allgemein: Anspruchsvolle Menschen freuen sich über Dinge, die zeigen, dass man sie verstanden hat. Nicht über Dinge, die teuer sind. || 나는 아무것도 못 들었어요. 아무것도 못 봤고요. 그리고 그냥 일반적으로 이 정도만 말할게요. 까다로운 사람은 자기를 이해했다는 걸 보여 주는 물건을 좋아해요. 비싼 물건이 아니라요.
+Paul: Verstanden. Danke. Ganz allgemein. || 알겠습니다. 감사합니다. 그냥 일반적으로요.
+Tobi: Und wer hat mich gezogen? Ich will es nicht wissen. Aber wenn es Max ist, will ich keinen Sektkühler. || 그럼 누가 날 뽑았어? 알고 싶진 않아. 그런데 막스라면 샴페인 쿨러는 사양할게.
+Max: Ich habe dich nicht gezogen. Vielleicht. Und der Sektkühler bleibt auf dem Dachboden. Er ist jetzt Gemeinschaftseigentum. Frau Schulze hat ihn inventarisiert. || 나 너 안 뽑았어. 아마도. 그리고 샴페인 쿨러는 다락에 그대로 있을 거야. 이제 공동 재산이거든. 슐체 부인이 재고 목록에 올리셨어.
+Frau Schulze: Inventarnummer null-null-eins. Das erste Stück im Besitz der zukünftigen Genossenschaft. Ein historisches Objekt. || 재고 번호 001. 미래 협동조합 소유의 첫 번째 물건. 역사적 유물이에요.
+Jana: Ein Sektkühler als erstes Vermögen. Das ist sehr Berlin. || 샴페인 쿨러가 첫 재산이라니. 아주 베를린답네요.
+Kalle: Und Inventarnummer zwei? || 그럼 재고 번호 2번은?
+Frau Schulze: Der Fuchs von Can. Ohne Schwanz. Er hängt seit Sankt Martin im Fenster der Kneipe. Ein Denkmal. || 잔의 여우요. 꼬리 없는 거. 성 마르틴 이후로 가게 창문에 걸려 있잖아요. 기념물이죠.
+Tobi: Und Nummer drei? || 그럼 3번은요?
+Bine: Nummer drei bin ick. Ick bin seit zwanzig Jahren Inventar. Ohne Nummer. Ingrid, gib mir endlich eine. || 3번은 나야. 나 이십 년째 이 가게 비품이거든. 번호도 없이. 잉그리트, 이제 나한테도 번호 하나 줘.
+## Rixdorfer Weihnachtsmarkt | 릭스도르프 크리스마스 시장
+Lea: Glühwein oder Kinderpunsch? Ich lade dich ein. Du siehst aus, als bräuchtest du Alkohol. || 글뤼바인, 아니면 어린이 펀치? 내가 살게. 너 술이 필요한 얼굴이야.
+Paul: Glühwein. Mit Schuss. Lea, ich habe Frau Schulze gezogen. Beim Wichteln. Das darf ich eigentlich nicht sagen. Aber du bist nicht im Haus. Du zählst nicht. || 글뤼바인. 럼 넣은 걸로. 레아, 나 비히텔에서 슐체 부인을 뽑았어. 원래 말하면 안 되는 건데. 너는 이 집 사람이 아니니까. 너는 해당 안 돼.
+Lea: Danke. Ich zähle nicht. Das ist das Romantischste, was du je zu mir gesagt hast. || 고마워. 나는 해당 안 된다니. 네가 나한테 한 말 중에 제일 낭만적인 말이다.
+Paul: Du weißt, wie ich das meine. Was schenke ich einer Frau, die dreißig Jahre beim Finanzamt war? Die jeden Lärm protokolliert? Die einen Kater mit vier weißen Pfoten hat? || 무슨 뜻인지 알잖아. 세무서에서 삼십 년 일한 여자한테 뭘 선물해? 온갖 소음을 다 기록하는 사람한테? 흰 발 네 개 달린 수고양이 키우는 사람한테?
+Lea: Etwas für Krümel? Katzen gehen immer. || 크뤼멜한테 줄 거? 고양이 선물은 늘 통하잖아.
+Paul: Zu einfach. Sie hat gesagt: Etwas, das zeigt, dass man sie verstanden hat. Was versteht man an Frau Schulze? || 너무 뻔해. 그분이 그랬어. 자기를 이해했다는 걸 보여 주는 거라고. 슐체 부인에 대해 뭘 이해할 수 있겠어?
+Lea: Dass sie Ordnung liebt. Weil Ordnung Sicherheit ist. Und Sicherheit braucht man, wenn man einmal alles verloren hat. Nach der Scheidung zum Beispiel. || 질서를 사랑한다는 거. 질서가 곧 안전이니까. 그리고 한 번 모든 걸 잃어 본 사람은 안전이 필요하지. 예를 들면 이혼한 뒤에.
+Paul: Woher weißt du das? Du kennst sie doch kaum. || 그걸 어떻게 알아? 너 그분 거의 모르잖아.
+Lea: Ich unterrichte sechsundzwanzig Kinder. Ich erkenne Menschen, die Listen machen, weil sie Angst haben. Lin zum Beispiel. Und ich war selbst so. Fünf Jahre im Labor. Jede Probe dreimal geprüft. || 나 애들 스물여섯 명을 가르치잖아. 겁이 나서 목록을 만드는 사람은 알아봐. 예를 들면 린. 그리고 나도 그랬어. 연구실에서 오 년. 시료 하나를 세 번씩 검사했지.
+Paul: Schau mal. Der Stand da. Alte Büromaterialien. Vom Trödler. Stempel. Locher. Ein Rollschrank-Schlüssel. || 저기 봐. 저 부스. 낡은 사무용품이네. 고물상 거. 도장. 펀치. 서류장 열쇠.
+Lea: Paul. Da. Der Holzstempel. Lies mal, was draufsteht. || 파울. 저기. 나무 도장. 뭐라고 써 있는지 읽어 봐.
+Paul: „Eingegangen am". Mit einem Datumsrad. Von neunzehnhundertachtzig. Aus einem Amt. Das ist es. Das ist sie. Was kostet der? || „접수일". 날짜 바퀴 달린 거. 1980년 거래. 관공서에서 쓰던 거. 이거야. 이게 그분이야. 이거 얼마예요?
+Lea: Acht Euro. Steht auf dem Schild. Und für die restlichen zwei Euro kaufst du ein Stempelkissen. Rot. Für Beschwerden. || 8유로. 팻말에 써 있네. 그리고 남은 2유로로 스탬프 패드를 사. 빨간 걸로. 항의할 때 쓰게.
+Paul: Lea, du bist ein Genie. Ich hätte nie daran gedacht. || 레아, 너 천재다. 나는 절대 생각 못 했을 거야.
+Lea: Ich weiß. Und jetzt hilfst du mir. Ich muss morgen mit der Klasse Weihnachtsgedichte üben. Du kannst reimen. Du bist im Marketing. || 알아. 이제 네가 나 도와줘. 내일 반 애들이랑 크리스마스 시 연습해야 하거든. 너 운 맞출 줄 알잖아. 마케팅 일 하니까.
+Paul: Im Marketing reimt man nicht. Im Marketing lügt man in kurzen Sätzen. || 마케팅에선 운 안 맞춰. 마케팅에선 짧은 문장으로 거짓말을 하지.
+Lea: Dann lüg mir einen Reim auf „Glühwein". Jetzt. || 그럼 „글뤼바인"에 맞춰 운을 하나 거짓말해 봐. 지금.
+Paul: „Am Richardplatz trinkt man Glühwein, / und neben mir steht Lea — fein." Das war schlecht. Das weiß ich. || „리하르트 광장에서 글뤼바인을 마셔, / 내 옆엔 레아가 서 있어 — 멋져." 별로였지. 알아.
+Lea: Sehr schlecht. Aber ehrlich. Das zählt. || 아주 별로야. 그래도 솔직했어. 그게 중요한 거지.
+## Die Bescherung | 선물 개봉
+Frau Schulze: Gut. Wir beginnen. In alphabetischer Reihenfolge nach Wichtelkind. B wie Bine. Bine, hier ist dein Päckchen. || 좋아요. 시작합시다. 비히텔 상대 이름의 알파벳 순서대로요. B는 비네. 비네, 여기 네 꾸러미야.
+Bine: Oh. Was ist das? Ein T-Shirt. „Ick bin keene Rheinländerin. Nur einmal im Jahr." Mit Pappnase! Wer war das? Kalle? Das warst du! || 오. 이게 뭐야? 티셔츠네. „나 라인 사람 아니야. 일 년에 한 번만 빼고." 빨간 코까지 달렸어! 누구야? 칼레? 너지!
+Kalle: Ick sage nichts. Regel drei. || 아무 말 안 해. 규칙 3조.
+Frau Schulze: C wie Can. Hier. Es ist schwer. Wie ein Buch. || C는 잔. 여기. 무겁네. 책처럼.
+Can: Es ist ein Buch. Ein Mathebuch. „Bruchrechnung mit Pizza. Achtzig Aufgaben." Und auf der ersten Seite steht: „Für Can. Damit es eine Zwei wird. Fast unmöglich ist nicht ganz." || 책 맞아요. 수학책이요. „피자로 하는 분수. 문제 팔십 개." 그리고 첫 장에 써 있어요. „잔에게. 2점이 될 수 있도록. 거의 불가능은 완전히가 아니다."
+Jannik: Ich sage nichts. Aber Aufgabe einundvierzig ist sehr schwer. Mit Ananas. || 아무 말 안 할게. 그런데 41번 문제는 아주 어려워. 파인애플 들어간 거.
+Can: Das ist eine Rute! Eine Rute aus Papier! Der Nikolaus und Jannik arbeiten zusammen! || 이건 회초리예요! 종이로 된 회초리! 니콜라우스랑 야니크 형이 한패예요!
+Frau Schulze: E wie Edith. Frau Krüger, Ihr Päckchen. Es ist rund. Und flach. || E는 에디트. 크뤼거 부인, 부인 꾸러미예요. 둥글고. 납작하네요.
+Edith: Eine Schallplatte. Gebraucht. „Karat. Über sieben Brücken musst du gehn." Neunzehnhundertachtzig. Ost-Pressung. Amiga. Das ist … das war Giselas Lieblingslied. Woher wusste das jemand? || 레코드판이네. 중고. „카라트. 일곱 개의 다리를 건너야 해." 1980년. 동독 프레싱. 아미가 레이블. 이건… 이건 기젤라가 제일 좋아하던 노래야. 그걸 누가 알았지?
+Max: Ich … also, rein theoretisch. Der Wichtel hat vielleicht Can gefragt. Und Can hat vielleicht in den Briefen … nein, nicht in den Briefen. Can hat gesagt, du summst das manchmal. Im Treppenhaus. Bei der dritten Pause. || 저… 그러니까, 순전히 이론적으로요. 비히텔이 잔한테 물어봤을지도 몰라요. 그리고 잔이 편지에서… 아니, 편지에서가 아니라. 잔이 그러더라고요. 할머니가 가끔 그 노래를 흥얼거리신다고. 계단에서요. 세 번째로 쉬실 때요.
+Edith: Bei der dritten Pause. Das stimmt. Zwischen dem zweiten und dritten Stock. Da summe ich immer. Damit ich weiter kann. Danke, Max. Danke. Ich kann es nicht laut sagen. Aber danke. || 세 번째로 쉴 때. 맞아. 3층이랑 4층 사이에서. 거기서 늘 흥얼거리지. 계속 올라갈 수 있게. 고마워, 막스. 고마워. 크게는 말 못 하겠다. 그래도 고마워.
+Can: Regel drei! Max hat sich verraten! || 규칙 3조요! 막스 형이 스스로 들켰어요!
+Frau Schulze: Regel drei gilt nur, bis das Geschenk geöffnet ist. Danach darf man weinen. Das steht in Paragraf vier. Den habe ich gerade erfunden. I wie Ingrid. Das bin ich. Bitte. … Ein Stempel. „Eingegangen am". Mit Datumsrad. Und ein rotes Stempelkissen. Neunzehnhundertachtzig. Aus dem … das ist aus einem Finanzamt. Hier unten. Da steht es eingebrannt. „Finanzamt Neukölln-Nord". || 규칙 3조는 선물을 열 때까지만 유효해요. 그다음엔 울어도 돼요. 그건 제4조에 있어요. 방금 만든 조항이에요. I는 잉그리트. 저네요. 주세요. …도장이네. „접수일". 날짜 바퀴 달린. 그리고 빨간 스탬프 패드. 1980년. 이건… 이건 세무서에서 쓰던 거예요. 여기 아래요. 낙인으로 찍혀 있어요. „노이쾰른 북부 세무서".
+Paul: Das wusste ich nicht. Ehrlich. Das stand nicht auf dem Schild. || 그건 몰랐어요. 진짜로요. 팻말에는 그런 말 없었어요.
+Frau Schulze: Neukölln-Nord. Da habe ich neunzehnhundertvierundachtzig angefangen. Mit zwanzig. Vielleicht habe ich diesen Stempel schon mal in der Hand gehabt. Vor zweiundvierzig Jahren. Herr Hoffmann, Sie haben gegen Regel drei verstoßen. Durch Ihren Gesichtsausdruck. Und ich verzeihe Ihnen. Schriftlich. So. Eingegangen am sechsten Dezember zweitausendsechsundzwanzig. Ich stemple die Karte ab. Damit es amtlich ist. || 노이쾰른 북부. 내가 1984년에 거기서 일을 시작했어요. 스무 살에. 어쩌면 이 도장을 한 번 손에 쥐어 봤을지도 몰라요. 사십이 년 전에. 호프만 씨, 당신은 얼굴 표정으로 규칙 3조를 위반했어요. 그리고 용서할게요. 서면으로요. 자. 2026년 12월 6일 접수. 카드에 도장 찍을게요. 공식적인 걸로요.
+Jana: J wie Jana. Darf ich? Eine Fahrradklingel. Aus Messing. Alt. Mit einem Schild: „Für den Tresen. Einmal klingeln pro Kaffee." || J는 야나. 열어도 돼요? 자전거 벨이네요. 놋쇠로 된 거. 오래된 거. 팻말도 있어요. „카운터용. 커피 한 잔마다 한 번씩 울릴 것."
+Tobi: Dann musst du nicht mehr in Excel zählen. Du zählst mit den Ohren. Dreißig Prozent mehr Klingeln. || 그럼 이제 엑셀로 안 세도 되잖아. 귀로 세는 거지. 벨 소리 30퍼센트 증가.
+Kalle: K wie Kalle. Gib her. Ein Namensschild. „Karl Kowalski. Vorstand." Und darunter, mit Bleistift: „vorläufig". || K는 칼레. 이리 줘. 명찰이네. „카를 코발스키. 이사." 그리고 그 아래에 연필로. „임시".
+Can: Das „vorläufig" kann man wegradieren. Am zwölften. Nach der Wahl. Ich habe extra Bleistift genommen. Oh. Regel drei. || ‚임시'는 지울 수 있어요. 12일에요. 선거 끝나고요. 일부러 연필로 썼어요. 앗. 규칙 3조.
+Paul: P wie Paul. Ein Bilderrahmen. Leer. Und ein Zettel: „Für deinen ersten eigenen Mietvertrag. Ohne Untermiete. Ohne Sofa." || P는 파울. 액자네요. 비어 있는. 그리고 쪽지. „너의 첫 번째 진짜 임대 계약서를 위해. 전대 없이. 소파 없이."
+Bine: Von mir. Upps. Regel drei. Egal. Den hängst du auf, wenn du einziehst. Ins Eckhaus. || 나야. 앗. 규칙 3조. 뭐 어때. 이사 들어가면 그거 걸어. 에케하우스에.
+Paul: Ins Eckhaus? Wer sagt das? || 에케하우스에요? 누가 그래요?
+Bine: Max zieht im Februar aus. Die Wohnung geht an die Genossenschaft zurück. Und die Genossenschaft … || 막스가 2월에 나가잖아. 그 집은 협동조합으로 돌아가고. 그리고 협동조합은…
+Max: … hat noch nicht entschieden. Das macht die Vergabekommission. Aber ich habe einen Favoriten. Er kann keine Wohnungen finden. Aber er kann Stempel finden. || …아직 결정 안 했어요. 그건 배정 위원회가 하는 거예요. 그래도 저한테는 마음에 둔 사람이 있어요. 집은 못 찾는데 도장은 찾아내는 사람이요.
+Tobi: Und jetzt ich! T wie Tobi. Fingerlose Handschuhe. Gestrickt. Grün. Mit einem kleinen Papagei drauf. Wer strickt hier Papageien? || 이제 저요! T는 토비. 손가락 없는 장갑이네. 손뜨개. 초록색. 작은 앵무새까지 수놓였어. 여기서 누가 앵무새를 떠?
+Edith: Für die Laube. Wenn es drei Grad hat. Damit du schrauben kannst. Aber ich hoffe, du brauchst sie nur für den Weg zur Werkstatt. Unserer Werkstatt. || 오두막용이야. 3도일 때. 나사 조일 수 있게. 그래도 공방 가는 길에만 쓰게 되길 바라. 우리 공방 가는 길에.
+## Die Gedichte | 시 낭독
+Bine: Ich fange an. Über Kalle. Ich habe ihn nicht gezogen. Aber ich schreibe trotzdem. Zur Strafe. Für die Pappnase. „Der Kalle steht seit fünfundzwanzig Jahr'n / am Tresen, grau sind längst schon seine Haar'n. / Er sagt ‚ick', ‚det', ‚wat' und ‚nüscht' — / und hat sechzigtausend Euro einfach ausgewischt." || 내가 먼저 할게. 칼레에 대해서. 칼레를 뽑진 않았어. 그래도 쓸 거야. 벌로. 그 빨간 코에 대한. „칼레는 이십오 년째 / 카운터에 서 있지, 머리는 벌써 하얗게 셌네. / 그는 ‚나', ‚그거', ‚뭐', ‚암것도'라고 말하지 — / 그리고 6만 유로를 그냥 쓱 지워 버렸지."
+Kalle: Ausgewischt! Det reimt sich nicht mal richtig auf nüscht. || 지워 버렸다니! 그거 ‚암것도'랑 운도 제대로 안 맞잖아.
+Bine: Berliner Reim. Der muss sich nur ungefähr reimen. Wie dein Deutsch. || 베를린식 운이야. 대충만 맞으면 돼. 너 독일어처럼.
+Frau Schulze: Jetzt ich. Über Max. Mein Wichtelkind. Er weiß es schon. Er hat Ohrstöpsel bekommen. Und eine Lizenz für den Sektkühler. „Der Max im zweiten Stock, der legt gern auf, / um Mitternacht nimmt Lärm bei ihm den Lauf. / Doch als der Regen kam und Wasser stieg, / trug er die Briefe hoch — und ich, ich schwieg." || 이제 저요. 막스에 대해서요. 내 비히텔 상대예요. 본인도 벌써 알아요. 귀마개를 받았거든요. 그리고 샴페인 쿨러 사용 허가증도요. „3층의 막스는 음악 트는 걸 좋아해, / 자정이면 그 집에서 소음이 달려 나오지. / 하지만 비가 와서 물이 차올랐을 때, / 그는 편지를 위로 날랐지 — 그리고 나는, 나는 입을 다물었어."
+Max: Sie haben geschwiegen? Das ist das größte Kompliment, das Sie je gemacht haben. || 입을 다무셨다고요? 그거 부인이 지금까지 해 주신 것 중에 제일 큰 칭찬이네요.
+Frau Schulze: Für Sie, ja. Notieren Sie es. Mit Datum. || 당신한테는 그렇죠. 적어 둬요. 날짜까지.
+Tobi: Über Jannik. Ich habe ihn nicht gezogen. Aber er hat es verdient. „Der Jannik aus dem Süden rechnet viel, / in Excel-Listen findet er sein Ziel. / Er sagt, ‚fast unmöglich' sei nicht ‚ganz' — / und tanzt dazu den Schuhplattler-Tanz." || 야니크에 대해서요. 뽑진 않았는데, 그럴 자격이 있어요. „남쪽에서 온 야니크는 계산을 많이 해, / 엑셀 표 속에서 목표를 찾지. / 그는 말하지, ‚거의 불가능'은 ‚완전히'가 아니라고 — / 그러면서 슈플라틀러 춤을 추지."
+Jannik: Ich kann keinen Schuhplattler. Ich komme aus Augsburg. Das ist Schwaben. Aber den Rest unterschreibe ich. || 저 슈플라틀러 못 춰요. 아우크스부르크 출신이거든요. 거긴 슈바벤이에요. 그래도 나머지는 다 인정해요.
+Can: Jetzt ich! Über Paul! „Der Paul, der suchte lange eine Wohnung, / bei jeder Absage brauchte er Schonung. / Er schlief auf Sofas und im Hinterzimmer — / jetzt hat er 'ne Freundin, und das ist noch schlimmer!" || 이제 저요! 파울 형에 대해서요! „파울 형은 오랫동안 집을 찾았네, / 거절당할 때마다 위로가 필요했지. / 소파에서 자고 뒷방에서 자고 — / 이제 여자 친구가 생겼으니, 그게 더 큰일이네!"
+Paul: Can! Woher … Wer hat dir … || 잔! 어떻게… 누가 너한테…
+Can: Ich habe euch auf dem Feld gesehen. Im August. Und ich habe Frau Wagners Schal an deiner Garderobe gesehen. Er ist rot. Mit einem Fleck. Ich bin nicht dumm. Ich bin nur zehn. || 들판에서 형이랑 봤어요. 8월에요. 그리고 형네 옷걸이에 바그너 선생님 목도리 걸려 있는 것도 봤어요. 빨간 거요. 얼룩 있는 거. 저 바보 아니에요. 그냥 열 살일 뿐이에요.
+Edith: Mein Archiv. Er merkt sich alles. Und jetzt ich. Über Can. Ohne Reim. Weil ich zu alt für Reime bin. „Der Junge, der mir einen Schlüssel aus Pappe gebracht hat, ist das Beste, was mir dieses Jahr passiert ist. Nach diesem Jahr." || 내 기록 보관소야. 다 기억해. 이제 내 차례. 잔에 대해서. 운 없이. 운 맞추기엔 내가 너무 늙었거든. „나한테 판지 열쇠를 가져다준 이 아이는 올해 나한테 일어난 가장 좋은 일이다. 이 한 해를 통틀어서."
+Can: Das reimt sich nicht. Aber es ist trotzdem das beste Gedicht. || 그거 운이 안 맞아요. 그래도 제일 좋은 시예요.
+Kalle: Und ick. Über Edith. Ick habe seit Mittwoch daran geschrieben. Drei Tage. Vier Zeilen. „Die Edith zählt die Stufen, Tag für Tag, / achtundsiebzig, die kein Herz mehr mag. / Bald sind es null — dann wird es endlich still, / und sie zählt nur noch das, was sie zählen will." || 그리고 나. 에디트에 대해서. 수요일부터 썼어. 사흘. 네 줄. „에디트는 날마다 계단을 세지, / 일흔여덟 개, 어떤 심장도 더는 싫어하는. / 곧 영 개가 되면 — 마침내 조용해지고, / 그녀는 세고 싶은 것만 세게 되겠지."
+Edith: Kalle. Das reimt sich. Und es ist schön. Das hast du nicht allein geschrieben. || 칼레. 운이 맞네. 그리고 아름다워. 이거 혼자 쓴 거 아니지.
+Kalle: Jana hat ein Wort geändert. Die anderen sind von mir. Und ein bisschen von Monika. Sie hätte gesagt: Mach's kurz, Kalle. || 야나가 한 단어 고쳤어. 나머진 내 거야. 그리고 조금은 모니카 거고. 모니카라면 그랬겠지. 짧게 해, 칼레.
+Jana: Ich habe nur „Herz" reingeschrieben. Er hatte „Knie". || 저는 ‚심장'만 넣었어요. 아빠는 ‚무릎'이라고 썼거든요.
+## Der Brief an Albrecht | 알브레히트에게 보내는 편지
+Jana: Papa. Es ist elf Uhr. Morgen um neun muss die Mail raus. Wir haben noch keinen einzigen Satz. || 아빠. 열한 시예요. 내일 아홉 시에 메일 보내야 해요. 아직 한 문장도 없어요.
+Kalle: Ick habe einen Satz. „Nee." Det reicht doch. || 나 한 문장 있어. „싫어요." 그거면 충분하잖아.
+Jana: Das reicht nicht. Das ist ein Anwalt. Er wird jedes Wort lesen. Und jedes Wort vor Gericht benutzen. Wir müssen höflich sein. Und klar. Und keine Tür zuschlagen. Frau Lindner hat gesagt: Gesprächsbereit bleiben. || 그걸론 안 돼요. 상대가 변호사예요. 단어 하나하나 다 읽을 거예요. 그리고 단어 하나하나 법정에서 써먹을 거고요. 정중해야 해요. 그리고 명확해야 하고. 그리고 문을 쾅 닫으면 안 돼요. 린드너 박사님이 대화 가능성은 열어 두라고 했잖아요.
+Edith: Dann schreib, Jana. Ich diktiere. Ich habe fünfundzwanzig Jahre Beschwerdebriefe an die BVG geschrieben. Im Namen des Betriebsrats. „Sehr geehrter Herr Dr. Albrecht, vielen Dank für Ihr Angebot vom zweiten Dezember." || 그럼 써, 야나. 내가 불러 줄게. 나 이십오 년 동안 노사협의회 이름으로 BVG에 항의 편지를 썼어. „친애하는 알브레히트 박사님, 12월 2일 자 제안에 감사드립니다."
+Jana: Okay. Weiter. || 좋아요. 계속요.
+Edith: „Nach reiflicher Überlegung und nach Rücksprache mit allen Bewohnerinnen und Bewohnern des Hauses muss ich Ihnen mitteilen, dass ich Ihr Angebot nicht annehme." || „심사숙고 끝에, 그리고 이 집의 모든 주민과 상의한 끝에, 제안을 받아들이지 않겠다는 것을 알려 드려야겠습니다."
+Kalle: Rücksprache mit allen. Er hat gesagt: vertraulich. || 모든 주민과 상의라. 그 사람이 비공개라고 했는데.
+Edith: Genau deshalb. Er soll wissen, dass man uns nicht einzeln kaufen kann. Das ist die wichtigste Information in dem Brief. Weiter: „Das Haus ist für uns nicht teilbar." || 바로 그래서야. 우리를 하나씩 따로 살 수는 없다는 걸 알아야 해. 그게 이 편지에서 제일 중요한 정보야. 계속. „이 집은 우리에게 나눌 수 없는 것입니다."
+Jana: „Nicht teilbar. Auch nicht durch sechzigtausend"? Wie an der Kreidetafel? || „나눌 수 없음. 6만으로도"? 칠판에 쓴 것처럼요?
+Edith: Nein. Das ist für die Tafel. Nicht für einen Anwalt. Dann: „Gleichzeitig sind wir jederzeit zu Gesprächen über eine Lösung bereit, die das Haus als Ganzes erhält." || 아니. 그건 칠판용이야. 변호사용이 아니고. 그다음엔. „동시에 우리는 이 집을 온전히 지키는 해결책에 관해서라면 언제든 대화할 준비가 되어 있습니다."
+Kalle: Als Ganzes. Det ist gut. Det ist wie „Ganz" an der Tafel. Aber höflich. || 온전히. 그거 좋다. 칠판의 ‚온전하게'랑 같은데. 정중하게 말한 거네.
+Jana: „Mit freundlichen Grüßen, Karl Kowalski." Papa, du heißt Karl. Auf Papier heißt du Karl. || „안녕히 계십시오, 카를 코발스키." 아빠, 아빠 이름은 카를이에요. 서류상으론 카를이라고요.
+Kalle: Karl. Det hat seit Mamas Beerdigung keiner mehr gesagt. Lass es so. Für einen Anwalt bin ick Karl. Für euch bin ick Kalle. || 카를이라. 엄마 장례식 이후로 그렇게 부른 사람이 없었는데. 그대로 둬. 변호사한테 나는 카를이야. 너희한테는 칼레고.
+Edith: Und morgen um neun drückt Karl auf Senden. Und um neun Uhr eins macht Kalle Kaffee. || 그리고 내일 아홉 시에 카를이 전송 버튼을 누르는 거야. 그리고 아홉 시 일 분에 칼레가 커피를 내리고.
+Kalle: Und um neun Uhr zwei? Wenn er antwortet? || 그럼 아홉 시 이 분엔? 그 사람이 답장하면?
+Edith: Dann trinken wir den Kaffee trotzdem. Antworten kommen immer. Kaffee wird kalt. || 그래도 커피는 마시는 거야. 답장은 언제든 와. 커피는 식고.
+Jana: Gespeichert. Als Entwurf. „An: Dr. Steffen Albrecht. Betreff: Ihr Angebot vom 2. Dezember." Gute Nacht, Karl. || 저장했어요. 임시 보관함에요. „받는 사람: 슈테펜 알브레히트 박사. 제목: 12월 2일 자 귀하의 제안." 안녕히 주무세요, 카를.
+Kalle: Gute Nacht, Frau Produktmanagerin. Ab Samstag: Frau Vorstand für Zahlen. Wenn sie dich wählen. || 잘 자라, 제품 관리자님. 토요일부터는 숫자 담당 이사님이고. 사람들이 너를 뽑아 준다면.
