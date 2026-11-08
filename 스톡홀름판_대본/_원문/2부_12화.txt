@@ -1,0 +1,268 @@
+PART: 2
+EP: 12
+TITLE: Ingrids kartong
+SUBTITLE: 잉리드의 상자 · 2부 훅, 카페 Biggans
+META: 대사 120턴 · 난이도 B1+ · 배경: 1월 마지막 주 월요일 저녁, 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트 (병가 중)
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: HAMMARSKJÖLD | 부활한 유엔 사무총장 (1905–1961)
+CAST: WÄGNER | 부활한 기자·작가 (1882–1949)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+NOTE: ※ 2부의 마지막 화입니다. Maja가 ‘나머지 절반’을 이야기합니다: 2018년에 전화를 걸어 온 은행 컴플라이언스 담당자는 Ingrid Falk였습니다. 컴플라이언스(compliance)는 은행이 법과 규정, 특히 돈세탁 방지 규정을 지키는지 감시하는 부서입니다. 그날 저녁 Ingrid가 상자 하나를 들고 나타납니다. 1부 12화의 ‘27번 상자’처럼, 상자 안의 서류가 지금까지의 사건들 — Leyla의 부엌, Shirin의 합의서, 야르바의 매각, Ulla-Britt의 돈 — 을 하나로 잇습니다. 스웨덴에는 2021년부터 내부고발자를 보호하는 법(visselblåsarlagen)이 있지만, 보호를 받는 데는 조건이 있습니다. 3부는 이 상자에서 시작합니다. 표현 초점: visselblåsare, avskedad, bevis, avslöja, lita på.
+
+# 도입 — TILLBAKA FRÅN NORR
+ELSA: Jag är tillbaka! Och jag har tagit med kaffeost. Och renkorv. Och mummus hälsningar.
+= 저 돌아왔어요! 그리고 커피 치즈 가져왔어요. 순록 소시지도요. 그리고 무무의 안부도.
+BIGGAN: Gumman! Du ser ut som om du har sovit i en vecka.
+= 얘야! 일주일은 잔 얼굴이네.
+ELSA: Sjutton timmar på tåget. Jag sov hela vägen från Boden.
+= 기차에서 열일곱 시간. 보덴부터 내내 잤어요.
+HAMMARSKJÖLD: Hon snarkade inte. Det vill jag säga till hennes försvar.
+= 코는 안 골았어요. 그건 엘사를 위해 말해 두고 싶네요.
+ANTON: Välkommen tillbaka. Stina har saknat dig.
+= 돌아온 거 환영해. 스티나가 보고 싶어 했어.
+ELSA: Kråkan? Hur vet du det?
+= 까마귀요? 어떻게 알아요?
+ANTON: Hon har suttit på taket mittemot hela veckan och tittat in. Det tolkar jag som saknad.
+= 일주일 내내 맞은편 지붕에 앉아서 안을 들여다봤어. 그걸 그리움으로 해석했지.
+DANIEL: Du har blivit poet, Anton.
+= 너 시인이 됐구나, 안톤.
+ANTON: Sjukskrivna har mycket tid.
+= 병가 중인 사람은 시간이 많아.
+JOHAN: Gruvbolaget har bekräftat en ny värdering. Den första mars. Och Petteri har frågat om bastun.
+= 광산회사가 새 평가를 확인해 줬어. 3월 1일. 그리고 페테리가 사우나에 대해 물어봤대.
+ELSA: Och?
+= 그리고요?
+JOHAN: Man kan flytta en bastu. Om den står på en egen grund. Det gör mummus.
+= 사우나는 옮길 수 있대. 독자적인 기초 위에 있으면. 무무 사우나가 그렇대.
+ELSA: Mummu kommer att gråta. Av glädje. Det gör hon aldrig.
+= 무무가 우실 거예요. 기뻐서. 그런 적 한 번도 없는데.
+WICKSELL: En bastu som flyttar med en stad. Det är den första goda nyheten om gruvan på hundra år.
+= 도시와 함께 이사하는 사우나라. 광산에 관한 첫 좋은 소식이군, 백 년 만에.
+MAJA: Elsa. Sätt dig. Alla, sätt er.
+= 엘사. 앉아. 다들 앉아.
+BIGGAN: Det är måndag, Maja. Inte fredag.
+= 월요일이야, 마야. 금요일이 아니라.
+MAJA: Jag vet. Men jag har väntat i åtta år. Jag kan inte vänta fyra dagar till.
+= 알아. 근데 8년을 기다렸어. 나흘을 더 기다릴 순 없어.
+OXENSTIERNA: Regler har undantag. Det sa fru Lund själv.
+= 규칙엔 예외가 있지. 룬드 부인이 직접 한 말이네.
+BIGGAN: Då är det fredag i dag. Jag hämtar tacos.
+= 그럼 오늘이 금요일이야. 타코 가져올게.
+ELSA: På en måndag?
+= 월요일에요?
+BIGGAN: I mitt hus bestämmer jag vilken dag det är.
+= 내 집에선 오늘이 무슨 요일인지 내가 정해.
+WÄGNER: Får jag sitta här? Jag har en känsla av att det här är en kväll jag inte vill missa.
+= 여기 앉아도 될까요? 놓치고 싶지 않은 저녁이 될 것 같은 느낌이 들어서요.
+MAJA: Du får. Du kommer att behövas.
+= 앉아요. 당신이 필요할 거예요.
+
+# 장면 1 — DEN ANDRA HALVAN
+MAJA: Kvinnan som ringde mig 2018. Från bankens compliance-avdelning. Det var Ingrid Falk.
+= 2018년에 나한테 전화한 여자. 은행 컴플라이언스 부서의. 잉리드 팔크였어.
+ELSA: Jag visste det.
+= 알고 있었어요.
+MAJA: Du anade det. Det är inte samma sak.
+= 짐작했지. 그건 같은 게 아니야.
+ELSA: Förlåt. Jag anade det.
+= 죄송해요. 짐작했어요.
+HAMMARSKJÖLD: Hon har lärt sig skillnaden. Det är mer än många diplomater kan.
+= 차이를 배웠네요. 웬만한 외교관보다 낫군요.
+JOHAN: Vad är compliance, exakt? För Elsa.
+= 컴플라이언스가 정확히 뭐야? 엘사를 위해서.
+MAJA: Avdelningen som ska kontrollera att banken följer reglerna. Särskilt reglerna mot penningtvätt. Ingrid var chef där.
+= 은행이 규칙을 지키는지 확인하는 부서야. 특히 돈세탁 방지 규칙. 잉리드가 거기 책임자였어.
+ANTON: Så hon såg samma sak som du.
+= 그럼 그 사람도 너랑 같은 걸 봤구나.
+MAJA: Hon såg mer. Hon hade sett det i två år. Hon hade skrivit tre interna rapporter. Ingen läste dem.
+= 더 많이 봤어. 2년 동안 보고 있었대. 내부 보고서를 세 번 썼고. 아무도 안 읽었어.
+WICKSELL: Ingen läser det finstilta. Igen.
+= 아무도 작은 글씨를 안 읽지. 또.
+MAJA: Hon ringde mig för att jag var revisorn. En revisor kan skriva en anmärkning. Då måste styrelsen läsa. Då kan ingen låtsas att de inte vet.
+= 내가 회계사라서 전화한 거야. 회계사는 지적을 쓸 수 있으니까. 그럼 이사회가 읽어야 해. 그럼 아무도 모르는 척할 수 없지.
+DANIEL: Och du skrev ingen.
+= 그리고 넌 안 썼지.
+MAJA: Jag skrev ingen. Och några månader senare fick Ingrid sparken.
+= 안 썼어. 그리고 몇 달 뒤에 잉리드가 해고됐어.
+ELSA: Sparken? För att hon gjorde sitt jobb?
+= 해고요? 자기 일을 했다고요?
+MAJA: Officiellt för ”illojalitet”. Hon hade visat en rapport för revisorn. För mig. Utan att fråga sin chef.
+= 공식적으로는 ‘불충’ 때문에. 상사한테 묻지 않고 회계사한테 보고서를 보여 줬다고. 나한테.
+HAMMARSKJÖLD: Så hon förlorade jobbet för att hon litade på dig.
+= 그럼 당신을 믿었다는 이유로 일자리를 잃은 거군요.
+MAJA: Ja. Och jag skrev under som om ingenting hade hänt.
+= 네. 그리고 난 아무 일도 없었던 것처럼 서명했어요.
+ANTON: Har du pratat med henne sedan dess?
+= 그 뒤로 그 사람이랑 얘기해 봤어?
+MAJA: Aldrig. Tills hon stod i dörren här i december. Med Ulla-Britts pengar.
+= 한 번도. 12월에 여기 문 앞에 서기 전까진. 울라브리트 돈 문제로.
+JOHAN: Visste hon att du var här?
+= 네가 여기 있는 걸 알았을까?
+MAJA: Jag tror att hon visste. Jag tror att hon har vetat länge.
+= 알았을 거야. 오래전부터 알고 있었을 거야.
+WÄGNER: En kvinna som har väntat i åtta år. Och en kvinna som har tigit i åtta år. Det är två halvor av samma berättelse.
+= 8년을 기다린 여자. 그리고 8년을 침묵한 여자. 같은 이야기의 두 반쪽이네요.
+BIGGAN: Det knackar.
+= 누가 문 두드려.
+ELSA: Klockan är åtta på kvällen. På en måndag.
+= 월요일 밤 여덟 시인데요.
+OXENSTIERNA: Det är alltid då det knackar i det här huset.
+= 이 집에선 늘 그때 문을 두드리지.
+
+# 장면 2 — INGRID KOMMER
+INGRID: God kväll. Förlåt att jag stör.
+= 안녕하세요. 방해해서 죄송해요.
+BIGGAN: Du stör inte, Ingrid. Kom in. Du har något tungt med dig.
+= 방해 안 해, 잉리드. 들어와. 무거운 걸 들고 왔네.
+INGRID: En kartong. Den har stått i min källare i sju år.
+= 상자예요. 7년 동안 우리 집 지하실에 있었어요.
+ELSA: En kartong. Som kartong tjugosju.
+= 상자. 27번 상자처럼요.
+INGRID: Jag hörde om kartong tjugosju. Från Elin.
+= 27번 상자 얘기는 들었어요. 엘린한테서.
+WÄGNER: Jag ringde henne. Förlåt, Maja. Jag tyckte att det var dags.
+= 내가 전화했어요. 미안해요, 마야. 때가 됐다고 생각했어요.
+MAJA: Det var dags. Hej, Ingrid.
+= 때가 됐어요. 안녕, 잉리드.
+INGRID: Hej, Maja.
+= 안녕, 마야.
+ELSA: Ni känner varandra… på riktigt.
+= 두 분 서로 아시네요… 진짜로.
+INGRID: Vi har pratat i telefon en gång. För åtta år sedan. Ibland räcker det för att känna någon.
+= 전화로 한 번 얘기했어요. 8년 전에. 가끔은 그걸로 누군가를 알기에 충분해요.
+MAJA: Jag har just berättat. Om 2018. Om att du ringde. Om att jag skrev under.
+= 방금 이야기했어요. 2018년에 대해. 당신이 전화한 것. 내가 서명한 것.
+INGRID: Jag vet. Jag stod i trappan.
+= 알아요. 계단에 서 있었어요.
+DANIEL: Alla står i trappan i det här huset.
+= 이 집에선 다들 계단에 서 있네.
+BIGGAN: Jag borde sätta en stol där.
+= 거기 의자를 하나 놔야겠네.
+MAJA: Förlåt, Ingrid. Du förlorade ditt jobb. På grund av mig.
+= 미안해요, 잉리드. 당신은 일자리를 잃었어요. 나 때문에.
+INGRID: Jag förlorade mitt jobb på grund av banken. Du var trettiotvå. Jag var femtio. Jag visste vad jag riskerade. Det gjorde inte du.
+= 난 은행 때문에 일자리를 잃었어요. 당신은 서른둘이었고. 난 쉰이었어요. 난 내가 뭘 걸고 있는지 알았어요. 당신은 몰랐고요.
+MAJA: Jag visste.
+= 알았어요.
+INGRID: Kanske. Men jag har inte kommit för att du ska be om förlåtelse. Jag har kommit för att jag behöver dig.
+= 그럴지도요. 근데 사과를 받으러 온 게 아니에요. 당신이 필요해서 왔어요.
+JOHAN: Vad finns i kartongen?
+= 상자 안에 뭐가 있어요?
+INGRID: Kopior. Av allt jag såg mellan 2016 och 2019. Mina rapporter. Kontoutdrag. Kreditbeslut.
+= 사본들이요. 2016년부터 2019년 사이에 내가 본 모든 것. 내 보고서들. 계좌 내역. 대출 결정서.
+JOHAN: Hur fick du ut dem från banken?
+= 은행에서 그걸 어떻게 가지고 나왔어요?
+INGRID: Det är en bra fråga, advokaten. Den kommer vi till.
+= 좋은 질문이에요, 변호사님. 그건 곧 얘기할게요.
+JOHAN: Den är viktig. Om du tog dem på fel sätt kan de bli ett problem för dig. Inte för banken.
+= 그거 중요해요. 잘못된 방법으로 가져왔다면 은행이 아니라 당신한테 문제가 될 수 있어요.
+INGRID: Jag vet. Jag har levt med den frågan i sju år.
+= 알아요. 7년 동안 그 질문을 안고 살았어요.
+
+# 절정 — KARTONGEN
+INGRID: Titta. Den här mappen. Kreditbeslut 2015. Saltsjöbanken lånar ut två miljarder kronor till ett bolag som heter Norrhem Holding.
+= 봐요. 이 서류철. 2015년 대출 결정서. 살트셰은행이 노르헴 홀딩이라는 회사에 20억 크로나를 빌려줘요.
+JOHAN: Norrhem. Bolaget som köpte tretusen lägenheter i Järva. Det var mitt uppdrag.
+= 노르헴. 야르바의 3,000세대를 산 회사. 그게 내 일이었어.
+INGRID: Och här. Ägarna till Norrhem Holding. Tre bolag. På Cypern, i Estland och på Brittiska Jungfruöarna.
+= 그리고 여기. 노르헴 홀딩의 소유주들. 회사 셋. 키프로스, 에스토니아, 영국령 버진아일랜드.
+MAJA: Samma bolag som jag såg i Tallinn. Två av dem. Jag känner igen namnen.
+= 내가 탈린에서 본 그 회사들이야. 그중 둘. 이름을 알아보겠어.
+ANTON: Två miljarder. Det är mer än hela Vårberg är värt.
+= 20억. 바르베리 전체 가치보다 많아.
+WICKSELL: Pengar som bara reser. Och nu har de stannat. I hyreshus i Stockholm.
+= 그저 여행만 하던 돈. 그리고 이제 머물렀군. 스톡홀름의 임대 건물에.
+ELSA: Ursäkta, jag förstår inte. Vad betyder det?
+= 실례지만, 이해가 안 돼요. 그게 무슨 뜻이에요?
+INGRID: Smutsiga pengar från utlandet går in i Saltsjöbanken. Banken frågar inte varifrån. Pengarna blir lån och ägande i svenska fastigheter. Då ser de rena ut.
+= 해외의 더러운 돈이 살트셰은행으로 들어가요. 은행은 어디서 왔는지 묻지 않고. 그 돈이 스웨덴 부동산의 대출과 지분이 돼요. 그럼 깨끗해 보이죠.
+ANTON: Och sen?
+= 그다음엔?
+INGRID: Sen bytte Norrhem namn. Till Nordhem.
+= 그다음에 노르헴은 이름을 바꿨어요. 노르드헴으로.
+BIGGAN: Nordhem. Leylas kök.
+= 노르드헴. 레일라의 부엌.
+JOHAN: Och Vårberg. Och 2007, Shirin. Nordhem Bostad var föregångaren.
+= 그리고 바르베리. 그리고 2007년, 쉬린. 노르드헴 보스타드가 그 전신이었고.
+WICKSELL: Följ pengarna åt andra hållet. Hyresgästerna betalar höjd hyra. Hyran betalar lånen. Lånen tvättar pengarna.
+= 돈을 반대 방향으로 따라가 보게. 세입자들이 오른 월세를 내지. 월세가 대출을 갚고. 대출이 돈을 세탁하지.
+ELSA: Så Leyla betalar för att tvätta någon annans pengar? Med sitt kök?
+= 그럼 레일라가 남의 돈을 세탁하는 값을 내는 거예요? 자기 부엌으로?
+INGRID: Ja. Leyla och tusentals andra.
+= 네. 레일라와 수천 명이요.
+DANIEL: Och Ek & Wahlgren?
+= 그리고 엑 & 발그렌은?
+INGRID: Här. Juridiska yttranden. Varje gång banken undrade om något var lagligt, frågade de Ek & Wahlgren. Och varje gång svarade Gustaf Ek: ”Lagligt.”
+= 여기요. 법률 의견서들. 은행이 뭔가 합법인지 궁금할 때마다 엑 & 발그렌에 물었어요. 그리고 매번 구스타프 엑이 답했죠: ‘합법.’
+JOHAN: ”Det var lagligt då.”
+= ‘그땐 합법이었다.’
+INGRID: Och här, längst ner i kartongen. Revisionsberättelsen för 2018. Utan anmärkning.
+= 그리고 여기, 상자 맨 밑에. 2018년 감사보고서. 지적 없음.
+MAJA: Med min underskrift.
+= 내 서명이 있는.
+INGRID: Med din underskrift. Den gjorde banken ren på papperet. I åtta år.
+= 당신 서명이 있는. 그게 8년 동안 서류상으로 은행을 깨끗하게 만들었어요.
+MAJA: Och vad vill du att jag gör?
+= 그래서 내가 뭘 했으면 좋겠어요?
+INGRID: Din promemoria. De elva sidorna. Under dina vinterskor.
+= 당신 메모. 그 열한 장. 당신 겨울 신발 밑에 있는 거.
+MAJA: Hur vet du var den ligger?
+= 그게 어디 있는지 어떻게 알아요?
+INGRID: Du sa det i trappan. Precis nyss.
+= 방금 계단에서 다 들었어요.
+OXENSTIERNA: Trappan. Det är rikets egentliga råd.
+= 계단이라. 그게 이 나라의 진짜 내각이군.
+
+# 마무리 — MAJAS VAL
+INGRID: Med din promemoria och mina rapporter har vi två oberoende källor. En från banken, en från revisorn. Då kan ingen säga att det är en arg avskedad kvinnas fantasier.
+= 당신 메모랑 내 보고서가 있으면 독립된 출처가 둘이에요. 하나는 은행, 하나는 회계사. 그럼 아무도 해고당해 화난 여자의 상상이라고 할 수 없어요.
+JOHAN: Och om du lämnar in promemorian, Maja, kan du förlora din auktorisation. Du skrev under trots att du visste.
+= 그리고 그 메모를 내면, 마야, 넌 자격을 잃을 수 있어. 알면서도 서명했으니까.
+MAJA: Jag vet.
+= 알아.
+INGRID: Jag ber dig inte om det lätt, Maja.
+= 쉽게 부탁하는 게 아니에요, 마야.
+DANIEL: Du behöver inte bestämma i kväll.
+= 오늘 밤 결정할 필요는 없어.
+MAJA: Jag har bestämt i åtta år. Varje natt. Jag har bara aldrig sagt det högt.
+= 8년 동안 결정해 왔어. 매일 밤. 소리 내 말한 적이 없을 뿐이야.
+ELSA: Och vad har du bestämt?
+= 그래서 뭘 결정했어요?
+MAJA: Att jag inte vill vara den som säger ”alla gör det” en gång till.
+= ‘다들 그렇게 한다’고 말하는 사람이 다시는 되지 않겠다는 것.
+WÄGNER: Det här kommer att bli en artikel. Kanske den största jag aldrig hann skriva.
+= 이건 기사가 될 거예요. 어쩌면 내가 생전에 쓰지 못한 가장 큰 기사.
+JOHAN: Inte än, fru Wägner.
+= 아직은 아니에요, 바그네르 씨.
+WÄGNER: ”Än.” Mitt favoritord.
+= ‘아직.’ 내가 제일 좋아하는 단어죠.
+HAMMARSKJÖLD: Och hur känns det för dig, Ingrid? Efter sju år?
+= 그리고 당신은 어떻게 느껴져요, 잉리드? 7년이 지나서?
+INGRID: Som när man äntligen ställer ner en tung kartong.
+= 무거운 상자를 마침내 내려놓을 때 같아요.
+BIGGAN: Den kan stå här. I mitt kök. Bredvid Leifs bakbord.
+= 여기 둬도 돼. 내 부엌에. 레이프의 반죽대 옆에.
+INGRID: Bredvid bullarna. Det är första gången den står någonstans där det luktar gott.
+= 번 옆에. 이 상자가 좋은 냄새 나는 곳에 놓이는 건 처음이네요.
+JOHAN: Ingrid. Frågan om hur du fick ut papperen. Den måste vi svara på först. Innan något annat.
+= 잉리드. 서류를 어떻게 가지고 나왔는지에 대한 질문. 그것부터 답해야 해요. 다른 무엇보다 먼저.
+INGRID: Ett steg i taget, advokaten?
+= 한 걸음씩인가요, 변호사님?
+JOHAN: Ett steg i taget.
+= 한 걸음씩.
+ANTON: Jag har inga slides. Men jag har en känsla av att det här blir det viktigaste projektet i mitt liv.
+= 슬라이드는 없어. 근데 이게 내 인생에서 제일 중요한 프로젝트가 될 것 같은 느낌이야.
+MAJA: Det var ett sant ord. Inga kronor.
+= 그건 진실한 말이었어. 0크로나.
+ELSA: Kartong tjugosju. Och nu Ingrids kartong. Alla papper i Sverige verkar ligga i kartonger.
+= 27번 상자. 그리고 이제 잉리드의 상자. 스웨덴의 서류는 다 상자 속에 있는 것 같아요.
+WICKSELL: Och alla kartonger går att öppna. Om man vet vem man ska fråga.
+= 그리고 모든 상자는 열 수 있지. 누구에게 물어야 하는지 안다면.
+NEXT: 3부 1화 — «Allmänna handlingar»(공문서) — 1766년 세계 최초의 출판자유법을 만든 사나이 Chydenius가 카페 문을 연다. «Om ni behöver papper, be om dem.» 사무소는 처음으로 한 사람이 아니라 회사 구조 전체를 상대하기 시작한다.
