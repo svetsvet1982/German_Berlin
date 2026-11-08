@@ -1,0 +1,267 @@
+PART: 5
+EP: 7
+TITLE: Hovrätten
+SUBTITLE: 고등법원 · 집 7, Svea 고등법원과 Strandvägen
+META: 대사 120턴 · 난이도 B2 · 배경: 11월 넷째 주 수요일, 감라스탄의 Svea 고등법원과 비워지는 Ek & Wahlgren 사무실
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: LOVISA | 경제범죄청 검사 (가상)
+CAST: LAGMAN | Svea 고등법원 재판장 (가상)
+CAST: GUSTAF | Johan의 아버지 · 복역을 앞둔 전 변호사 (가상)
+NOTE: ※ 스톡홀름 지역의 항소심은 감라스탄의 오래된 궁전 건물에 있는 Svea 고등법원(Svea hovrätt)에서 열립니다. 고등법원은 1심 판결을 유지하거나(fastställa) 바꿀(ändra) 수 있습니다. 항소하지 않은 판결은 확정(laga kraft)됩니다. Gustaf는 항소하지 않았기 때문에 그의 1심 판결은 이미 확정됐고, 교정청(Kriminalvården)이 정한 날에 교도소에 출석(inställelse)해야 합니다. 그는 변호사협회에서도 제명(uteslutning)됐습니다. 45년 된 사무소 문에서 금색 글자가 내려집니다. 문법 초점: 판결문 문체(hovrätten fastställer, ändrar tingsrättens dom)와 작별의 말. 표현 초점: överklaga, fastställa, ändra, laga kraft, farväl.
+
+# 도입 — SVEA HOVRÄTT
+ELSA: Wrangelska palatset. Det ser ännu mer ut som ett slott än tingsrätten.
+= 브랑엘 궁전. 지방법원보다 더 성 같아요.
+OXENSTIERNA: Det är ett slott. Jag var här. När det byggdes var Wrangel en ung general. Jag tyckte inte om honom.
+= 성 맞아. 난 여기 와 봤네. 이게 지어질 때 브랑엘은 젊은 장군이었지. 난 그자를 좋아하지 않았어.
+JOHAN: Hovrätten har varit här sedan sjuttonhundratalet. Nästan lika länge som tryckfriheten.
+= 고등법원은 1700년대부터 여기 있었어. 거의 출판의 자유만큼 오래됐지.
+INGRID: Lovisa sa att de skulle ta målet i vår. Det är november.
+= 로비사가 봄에 다룰 거라고 했는데. 11월이에요.
+LOVISA: Hovrätten prioriterade det. Rehnberg sitter häktad. När någon sitter frihetsberövad går det fortare.
+= 고등법원이 우선순위를 뒀어요. 렌베리가 구금돼 있잖아요. 누가 자유를 빼앗긴 상태면 더 빨리 진행돼요.
+ELSA: Och i dag är det dom?
+= 그리고 오늘 판결이에요?
+LOVISA: I dag är det dom. Förhandlingen var i oktober. Tre dagar. Mycket kortare än i tingsrätten.
+= 오늘 판결이에요. 공판은 10월에 했어요. 사흘. 지방법원보다 훨씬 짧게.
+MAJA: Varför kortare?
+= 왜 짧아요?
+LOVISA: Hovrätten tittar mest på det som har överklagats. Och de har redan videoinspelningarna från tingsrätten. Vittnena behövde inte komma igen.
+= 고등법원은 주로 항소된 부분만 봐요. 그리고 지방법원 영상 녹화가 이미 있고요. 증인들이 다시 올 필요가 없었어요.
+INGRID: Så de har sett mig på video. Jag hoppas att jag såg trovärdig ut.
+= 그럼 영상으로 날 봤겠네요. 신빙성 있어 보였길 바라요.
+DANIEL: Du såg ut som en som har väntat sju år och äntligen fick säga det.
+= 7년 기다리다 마침내 말하게 된 사람처럼 보였어요.
+INGRID: Det är samma sak.
+= 그게 같은 거예요.
+JOHAN: Och pappa? Är han här?
+= 그리고 아버지는요? 여기 계세요?
+LOVISA: Nej. Hans dom vann laga kraft i september. Han har inställelse på fredag.
+= 아니요. 그분 판결은 9월에 확정됐어요. 금요일에 출석하세요.
+ELSA: Inställelse?
+= 출석이요?
+JOHAN: Det betyder att man själv åker till anstalten. Till fängelset. En viss dag och tid.
+= 정해진 날, 정해진 시간에 직접 교정 시설에 가는 거야. 교도소에.
+ELSA: Man åker själv? Polisen hämtar inte?
+= 직접 가요? 경찰이 데리러 안 와요?
+JOHAN: För den som har dömts till kortare straff och inte är farlig, oftast inte. Man får ett brev. Med datum. Och man åker dit.
+= 짧은 형을 받았고 위험하지 않은 사람은 대개 안 와. 편지를 받아. 날짜가 적힌. 그리고 거기로 가는 거지.
+BIGGAN: Ett brev. Allt i Sverige börjar och slutar med ett brev.
+= 편지. 스웨덴에선 모든 게 편지로 시작하고 편지로 끝나네.
+OXENSTIERNA: I mitt rike började allt med ett svärd.
+= 내 왕국에선 모든 게 칼로 시작했지.
+ELSA: Och var?
+= 그럼 어디로요?
+JOHAN: En öppen anstalt utanför Stockholm. Han får arbeta. Han får ringa. Han får besök.
+= 스톡홀름 밖의 개방 교도소. 일할 수 있고. 전화할 수 있고. 면회도 받을 수 있어.
+LAGMAN: Svea hovrätt meddelar dom i mål B 7712-27.
+= Svea 고등법원은 사건 번호 B 7712-27에 대해 판결을 선고합니다.
+BIGGAN: Tyst nu. Alla.
+= 이제 조용. 다들.
+
+# 장면 1 — DOMEN I HOVRÄTTEN
+LAGMAN: Hovrätten fastställer tingsrättens dom avseende Carl-Adam Rehnberg. Fängelse i fem år.
+= 고등법원은 칼아담 렌베리에 관한 지방법원 판결을 유지합니다. 징역 5년.
+ELSA: Fastställer. Det betyder samma?
+= 유지한다. 그건 같다는 뜻이에요?
+JOHAN: Samma. Hovrätten håller med tingsrätten.
+= 같다는 거야. 고등법원이 지방법원에 동의한다는 거지.
+DANIEL: Fem år. Igen.
+= 5년. 또.
+LAGMAN: Hovrätten fastställer också domen avseende den tidigare chefen för bankens baltiska verksamhet.
+= 고등법원은 은행 발트 사업부 전 책임자에 관한 판결도 유지합니다.
+MAJA: Två fastställda.
+= 두 건 유지.
+LAGMAN: Avseende den tidigare kreditchefen ändrar hovrätten tingsrättens dom.
+= 전 여신 책임자에 관해서는 고등법원이 지방법원 판결을 변경합니다.
+INGRID: …
+= ……
+LAGMAN: Hovrätten finner det utrett att han mottog Ingrid Falks rapport från 2017. Hans namn finns på sändlistan. Han har därmed haft kännedom om riskerna. Han döms för penningtvättsbrott. Fängelse i ett år och sex månader.
+= 고등법원은 그가 잉리드 팔크의 2017년 보고서를 받았다는 점이 규명되었다고 판단합니다. 그의 이름이 수신자 명단에 있습니다. 따라서 그는 위험을 알고 있었습니다. 돈세탁 범죄로 유죄. 징역 1년 6개월.
+ELSA: Sändlistan! Ingrids sändlista!
+= 수신자 명단! 잉리드 씨의 수신자 명단!
+BIGGAN: Tyst, gumman! Vi är i en hovrätt!
+= 쉿, 얘야! 고등법원이야!
+ELSA: Förlåt. Men… sändlistan!
+= 죄송해요. 근데… 수신자 명단!
+INGRID: Jag skrev den. Klockan nio på kvällen. Den sjuttonde mars 2017. Jag minns att jag tvekade om jag skulle ta med hans namn.
+= 내가 썼어요. 밤 아홉 시에. 2017년 3월 17일. 그 사람 이름을 넣을지 망설였던 게 기억나요.
+DANIEL: Varför tvekade du?
+= 왜 망설였어요?
+INGRID: För att han var min chefs chef. Man skickar inte rapporter uppåt. Ingen tittar uppåt.
+= 내 상사의 상사였으니까요. 위로는 보고서를 안 보내는 거예요. 아무도 위를 안 보니까.
+OXENSTIERNA: Men du tittade uppåt.
+= 하지만 당신은 위를 봤지.
+INGRID: Jag tittade uppåt. Och tio år senare såg en hovrätt det.
+= 위를 봤죠. 그리고 10년 뒤에 고등법원이 그걸 봤어요.
+LOVISA: Det var det viktigaste dokumentet i hela målet. En sändlista. Inte ett kreditbeslut, inte en årsredovisning. En lista med namn.
+= 사건 전체에서 가장 중요한 문서였어요. 수신자 명단. 대출 결정서도, 연간 보고서도 아니라. 이름이 적힌 목록.
+MAJA: Det är alltid de små papperen. Kvittensen för nycklar. Margits brev. Sändlistan.
+= 늘 작은 종이들이야. 열쇠 영수증. 마르기트의 편지. 수신자 명단.
+ELSA: Och mitt nyckelkvitto från posten.
+= 그리고 우체국에서 받은 제 영수증.
+BIGGAN: Det var ett bra kvitto.
+= 그건 좋은 영수증이었지.
+LAGMAN: Domen kan överklagas till Högsta domstolen. Prövningstillstånd krävs.
+= 판결은 대법원에 상고할 수 있습니다. 상고 허가가 필요합니다.
+ELSA: Prövningstillstånd. Betyder det att Högsta domstolen måste vilja ta målet?
+= 상고 허가. 대법원이 사건을 받고 싶어 해야 한다는 뜻이에요?
+JOHAN: Precis. Och det gör de nästan aldrig. Bara om det är en viktig principfråga.
+= 바로 그거야. 그리고 거의 절대 안 받아. 중요한 원칙 문제일 때만.
+LOVISA: Det här tror jag inte att de tar. Domen kommer att stå.
+= 이건 안 받을 거라고 봐요. 판결이 그대로 갈 거예요.
+INGRID: Så det är över?
+= 그럼 끝난 거예요?
+LOVISA: Det här är över. Utredningen om Anatol Brenner fortsätter. Med Cypern och Litauen. Det kommer att ta år.
+= 이건 끝났어요. 아나톨 브레너에 대한 수사는 계속돼요. 키프로스, 리투아니아와 함께. 몇 년 걸릴 거예요.
+MAJA: Och vi? Är vi klara?
+= 그럼 우리는요? 끝난 거예요?
+LOVISA: Ni är klara. Om ni inte hittar fler kartonger.
+= 끝났어요. 상자를 더 찾지 않는다면.
+
+# 장면 2 — SÄNDLISTAN
+INGRID: Får jag gå ut en stund? Jag behöver luft.
+= 잠깐 나가도 될까요? 바람 좀 쐬고 싶어요.
+MAJA: Jag följer med.
+= 같이 갈게요.
+ELSA: Riddarholmen. Man ser Mälaren härifrån. Och Stadshuset.
+= 리다르홀멘. 여기서 멜라렌 호수가 보여요. 그리고 시청도.
+INGRID: Sju år och åtta månader. Jag räknade inte förrän nu. Maja smittade mig.
+= 7년 8개월. 지금까지 안 셌어요. 마야가 옮겼네요.
+MAJA: Förlåt.
+= 미안해요.
+INGRID: Säg inte förlåt. Du har sagt förlåt nog för ett helt liv.
+= 미안하다고 하지 마요. 평생 할 미안하다는 충분히 했잖아요.
+MAJA: Vad ska du göra nu? När det är över?
+= 이제 뭐 할 거예요? 끝났으니?
+INGRID: Jag har fått ett erbjudande. Från Finansinspektionen. De vill att jag ska jobba med visselblåsarärenden. Ta emot rapporter. Från sådana som jag.
+= 제안을 받았어요. 금융감독청에서. 내부고발 사건 일을 해 달래요. 신고를 받는 일. 나 같은 사람들한테서.
+ELSA: Finansinspektionen! Det är… perfekt.
+= 금융감독청! 그거… 완벽하네요.
+INGRID: Det är ironiskt. Myndigheten som jag rapporterade till vill att jag tar emot rapporter.
+= 아이러니하죠. 내가 신고했던 관청이 이제 나한테 신고를 받으라니.
+DANIEL: Det är inte ironiskt. Det är logiskt. Vem vet bättre hur det känns?
+= 아이러니가 아니라 논리적인 거죠. 그 기분을 누가 더 잘 알겠어요?
+INGRID: Och Systembolaget? Jag kommer att sakna kassan. Där var allt enkelt. Legitimation eller inte.
+= 그럼 시스템볼라겟은요? 계산대가 그리울 거예요. 거기선 다 간단했거든요. 신분증이 있느냐 없느냐.
+MAJA: Du kan fråga efter legitimation på FI också. Från banker.
+= 금융감독청에서도 신분증 달라고 할 수 있잖아요. 은행들한테.
+INGRID: Ha. Det ska jag göra. Varje dag.
+= 하. 그렇게 할게요. 매일.
+ELSA: När börjar du?
+= 언제 시작해요?
+INGRID: Första februari. Efter en sista jul i kassan.
+= 2월 1일. 계산대에서 마지막 크리스마스를 보내고.
+OXENSTIERNA: En compliance-chef som blir statens vakt. Det är den bästa utnämning jag har sett. Och jag har utnämnt hundratals.
+= 컴플라이언스 책임자가 국가의 파수꾼이 되다니. 내가 본 임명 중에 최고군. 그리고 난 수백 명을 임명해 봤네.
+ELSA: Johan. Du har varit tyst sedan domen.
+= 요한. 판결 이후로 조용하네요.
+JOHAN: Pappa åker på fredag. Och i eftermiddag tömmer han byrån. Han bad mig komma.
+= 아버지가 금요일에 가셔. 그리고 오늘 오후에 사무소를 비우셔. 와 달라고 하셨어.
+DANIEL: Vill du att vi följer med?
+= 우리가 같이 가 줄까?
+JOHAN: Elsa. Om du vill. Han frågade efter dig.
+= 엘사. 원한다면. 아버지가 너를 찾으셨어.
+ELSA: Efter mig?
+= 저를요?
+JOHAN: Han sa: ”Ta med praktikanten som frågar för mycket.”
+= 이렇게 말씀하셨어: ‘질문 너무 많이 하는 그 인턴 데려와라.’
+
+# 절정 — STRANDVÄGEN, SISTA DAGEN
+GUSTAF: Ni kom. Ursäkta röran. Fyrtiofem år i fyrtio kartonger.
+= 왔구나. 어수선해서 미안하다. 45년이 상자 마흔 개에.
+ELSA: Fyrtio kartonger. Som i stadsarkivet.
+= 상자 마흔 개. 시립 기록보관소처럼.
+GUSTAF: Ja. Jag tänkte på det. Kartong tjugosju var Katarina 4:12. Här är kartong tjugosju också. Jag numrerade dem i samma ordning. Med avsikt.
+= 그래. 나도 그 생각을 했다. 27번 상자가 카타리나 4:12였지. 여기도 27번 상자가 있다. 같은 순서로 번호를 매겼어. 일부러.
+JOHAN: Vad finns i den?
+= 그 안엔 뭐가 있어요?
+GUSTAF: Mina privata papper. Inte klienternas. Brev från din mamma. Ditt hamsteravtal. Och det här.
+= 내 개인 서류. 의뢰인 것 말고. 네 엄마 편지들. 네 햄스터 계약서. 그리고 이것.
+ELSA: En tavla? Med latin?
+= 액자요? 라틴어가 적힌?
+GUSTAF: ”An nescis, mi fili, quantilla prudentia mundus regatur?”
+= ‘아들아, 세상이 얼마나 적은 지혜로 다스려지는지 모르느냐?’
+OXENSTIERNA: Mina ord. Till min son. Johan.
+= 내 말이군. 내 아들에게. 요한에게.
+GUSTAF: Jag har haft dem på väggen i trettio år. Jag trodde att de betydde: världen styrs dumt, så den som är smart kan ta vad han vill.
+= 30년 동안 벽에 걸어 뒀다. 그게 이런 뜻인 줄 알았지: 세상은 어리석게 다스려지니, 똑똑한 자는 원하는 걸 가질 수 있다.
+OXENSTIERNA: Det var inte vad jag menade.
+= 그건 내가 의도한 뜻이 아니었네.
+GUSTAF: Nej. Det förstod jag i augusti. I rättssalen.
+= 그래. 8월에 법정에서 알았지.
+JOHAN: När Göran frågade vad du skulle ha gjort annorlunda.
+= 예란 씨가 뭘 다르게 했어야 했냐고 물었을 때.
+GUSTAF: Ja. En lärare från Farsta. Det var han som till slut lärde mig latin.
+= 그래. 파르스타에서 온 교사. 마침내 나한테 라틴어를 가르쳐 준 게 그 사람이었지.
+ELSA: Vad menade ni, herr Oxenstierna?
+= 무슨 뜻이었어요, 옥센셰르나 님?
+OXENSTIERNA: Att världen styrs med lite förstånd. Så den som har lite mer har ett ansvar. Inte en möjlighet. Ett ansvar.
+= 세상은 적은 지혜로 다스려진다는 것. 그러니 조금 더 가진 자에겐 책임이 있다는 것. 기회가 아니라. 책임.
+GUSTAF: Johan. Jag vill att du tar den. Tavlan. Till ditt kontor. Det med kanelbullar.
+= 요한. 이걸 가져갔으면 좋겠다. 액자. 네 사무소로. 시나몬번 있는 그곳으로.
+JOHAN: Kontoret kanske inte finns om fyra månader, pappa. Föreningen har inte fått lånet än.
+= 그 사무소가 넉 달 뒤엔 없을지도 몰라요, 아버지. 협동조합이 아직 대출을 못 받았어요.
+GUSTAF: Då hänger du den där du är. Det är vad den är till för.
+= 그럼 네가 있는 곳에 걸어라. 그러라고 있는 거다.
+ELSA: Herr Ek. Får jag fråga en sak?
+= 엑 씨. 하나 여쭤봐도 돼요?
+GUSTAF: Du har aldrig frågat om lov förut.
+= 넌 전에 허락받고 물어본 적이 없잖니.
+ELSA: Är ni rädd? För fredag?
+= 무서우세요? 금요일이?
+GUSTAF: …Ja. Jag har aldrig sovit utan min egen kudde. Jag har aldrig ätit mat som jag inte har valt. Jag är sjuttiotre år.
+= …그래. 내 베개 없이 자 본 적이 없다. 내가 고르지 않은 음식을 먹어 본 적도 없고. 난 일흔세 살이다.
+ELSA: Då ta med er kudde. Det får man, väl?
+= 그럼 베개를 가져가세요. 그건 되잖아요?
+GUSTAF: Det vet jag inte. Det står inte i brevet.
+= 모르겠다. 편지엔 안 적혀 있어.
+ELSA: Då frågar ni. Det är en regel. Hos oss.
+= 그럼 물어보세요. 그게 규칙이에요. 우리 쪽에선.
+
+# 마무리 — INSTÄLLELSE
+GUSTAF: Hjälp mig med skylten, Johan. Jag kan inte nå.
+= 간판 좀 도와다오, 요한. 손이 안 닿는구나.
+JOHAN: ”Ek & Wahlgren Advokatbyrå.” Guldbokstäverna.
+= ‘엑 & 발그렌 법률사무소.’ 금색 글자.
+GUSTAF: Wahlgren tog bort sitt namn i juni. Nu tar jag bort mitt.
+= 발그렌은 6월에 자기 이름을 뗐다. 이제 내가 내 이름을 뗀다.
+ELSA: Ek. Det är också ditt namn, Johan.
+= 엑. 그건 요한 이름이기도 하잖아요.
+JOHAN: Det står kvar på mig. Inte på dörren.
+= 그건 나한테 남아. 문에가 아니라.
+GUSTAF: Det är rätt plats för det.
+= 그게 그 이름이 있어야 할 자리지.
+OXENSTIERNA: En far som tar ner sitt namn och ger sin son en tavla. Det är det bästa testamentet jag har sett.
+= 자기 이름을 떼고 아들에게 액자를 주는 아버지라. 내가 본 최고의 유언이군.
+GUSTAF: Det är inte ett testamente. Jag kommer tillbaka. Till midsommar.
+= 유언이 아니오. 돌아올 거요. 하지까지는.
+JOHAN: Skansen. Klockan nio. Grodorna.
+= 스칸센. 아홉 시. 개구리.
+GUSTAF: ”Ej öron, ej öron.” Jag har övat. I badrummet. Så att ingen ser.
+= ‘귀도 없고, 귀도 없고.’ 연습했다. 욕실에서. 아무도 못 보게.
+ELSA: Herr Ek. Får jag skicka er brev? På fredagar?
+= 엑 씨. 편지 보내 드려도 돼요? 금요일마다?
+GUSTAF: Om vad?
+= 무엇에 대해?
+ELSA: Om vad som händer vid Biggans bord. Med en lapp på klarspråk.
+= 비간 식탁에서 무슨 일이 있는지. 쉬운 말 쪽지로.
+GUSTAF: Jag har läst juridisk svenska i fyrtiofem år. Klarspråk blir en lättnad.
+= 45년 동안 법률 스웨덴어를 읽었다. 쉬운 말이면 한숨 돌리겠구나.
+OXENSTIERNA: Och jag har läst latin i fyrahundra år. Jag förstår er.
+= 그리고 난 400년 동안 라틴어를 읽었네. 이해하오.
+JOHAN: Pappa. Vi ses.
+= 아버지. 또 봬요.
+GUSTAF: Vi ses, Jojje. Och… tack för grodan.
+= 또 보자, 요예. 그리고… 개구리 고맙다.
+ELSA: Och ta med kudden.
+= 그리고 베개 가져가세요.
+GUSTAF: Jag frågar. Det är en regel.
+= 물어보마. 그게 규칙이니까.
+NEXT: 5부 8화 — «Tillbaka till Järva»(다시 야르바로) — Daniel이 Järva의 진료소에서 일해 달라는 제안을 받는다. 응급실과 고향, 어느 쪽에서 더 필요한 사람인가.
