@@ -1,0 +1,267 @@
+PART: 5
+EP: 5
+TITLE: Kön
+SUBTITLE: 대기열 · 집 5, 카페 Biggans와 Märsta
+META: 대사 120턴 · 난이도 B2 · 배경: 11월 첫째 주 화요일부터 목요일까지, 카페 Biggans와 스톡홀름 북쪽 교외 Märsta
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: STRINDBERG | 부활한 작가 (1849–1912)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: AILI | Elsa의 할머니 · 키루나 (가상, 전화)
+CAST: LOTTA | Märsta 임대주택 관리인 (가상)
+NOTE: ※ 스톡홀름 시 임대주택 대기열(bostadskö)은 평균 약 9년, 도심은 20년 안팎입니다. 대기열의 순서는 등록한 날부터 쌓인 ‘대기 일수(ködagar)’로 정해지고, 짧은 대기로 들어갈 수 있는 집은 대개 도심에서 먼 교외에 있습니다. 집을 제안받으면 정해진 며칠 안에 받을지 말지 답해야 합니다. 1차 계약(förstahandskontrakt)은 세입자에게 강한 거주권을 주지만, 원하는 동네의 집을 기다리려면 몇 년이 더 걸릴 수 있습니다. 대기열 4년 차 Elsa에게 마침내 첫 제안이 옵니다. 한편 Strindberg는 평생 스톡홀름에서 스무 번도 넘게 이사한 사람입니다. 문법 초점: 결정과 의도의 표현(jag tänker, jag har bestämt mig för att, ska jag eller ska jag inte). 표현 초점: förstahandskontrakt, erbjudande, tacka ja, tacka nej, pendla.
+
+# 도입 — ETT MEJL FRÅN BOSTADSFÖRMEDLINGEN
+ELSA: Biggan. Biggan! Jag har fått ett mejl!
+= 비간. 비간! 메일 받았어요!
+BIGGAN: Från vem, gumman? Inte från en bank, hoppas jag.
+= 누구한테서, 얘야? 은행은 아니길 바라.
+ELSA: Från Bostadsförmedlingen. ”Erbjudande om förstahandskontrakt.”
+= 임대주택 중개소에서요. ‘1차 계약 제안.’
+DANIEL: Ett förstahandskontrakt? Efter hur länge?
+= 1차 계약? 얼마 만에?
+ELSA: Fyra år och tre månader. Det är ingenting, säger alla.
+= 4년 3개월. 그건 아무것도 아니래요, 다들.
+MAJA: Det är väldigt lite. För Stockholm. Var ligger den?
+= 아주 짧은 거야. 스톡홀름치곤. 어디야?
+ELSA: Märsta.
+= 메르스타요.
+BIGGAN: Märsta. Det är nästan Uppsala.
+= 메르스타. 거의 웁살라잖아.
+ANTON: Märsta? Vid Arlanda?
+= 메르스타? 알란다 공항 옆?
+ELSA: Ettan. Trettiotvå kvadratmeter. Sjutusen hundra i månaden. Visning på torsdag. Svar senast på fredag.
+= 원룸. 32제곱미터. 한 달에 7,100. 목요일에 집 보기. 답은 늦어도 금요일까지.
+JOHAN: Tre dagar att bestämma sig. Det är som vanligt.
+= 결정할 시간 사흘. 늘 그렇지.
+BIGGAN: Märsta. Hur lång tid tar det därifrån till Söder?
+= 메르스타. 거기서 쇠데르까지 얼마나 걸려?
+ANTON: Pendeltåg till City, sen tunnelbana. En timme. Om allt går som det ska.
+= 통근 열차로 시티까지, 그다음에 지하철. 한 시간. 다 제대로 굴러가면.
+DANIEL: SL har aldrig gått som det ska en enda vinter.
+= SL은 겨울에 제대로 굴러간 적이 한 번도 없어.
+ELSA: Det är mitt eget. Mitt namn på kontraktet. Ingen Camilla. Ingen överhyra.
+= 제 거예요. 계약서에 제 이름. 카밀라도 없고. 초과 임대료도 없고.
+MAJA: Och sjutusen hundra är rimligt för en etta. Jag har kollat bruksvärdet.
+= 그리고 원룸에 7,100은 합당해. 사용가치 확인했어.
+ELSA: Du har redan kollat?
+= 벌써 확인하셨어요?
+MAJA: Sju minuter efter att du sa ”Märsta”.
+= 네가 ‘메르스타’라고 한 지 7분 만에.
+WICKSELL: Bostadskön är en marknad utan pris. Man betalar med tid. Elsa har betalat fyra år. Nu får hon varan. Men varan ligger i Märsta.
+= 임대 대기열은 가격 없는 시장이지. 시간으로 값을 치르는 거야. 엘사는 4년을 치렀고. 이제 상품을 받는 거지. 다만 그 상품이 메르스타에 있을 뿐.
+BIGGAN: Och om du tackar nej?
+= 그리고 거절하면?
+ELSA: Då står jag kvar i kön. Men nästa erbjudande kan ta ett år. Eller tre. Och det kan också vara långt bort.
+= 그럼 대기열에 그대로 있어요. 근데 다음 제안은 1년 걸릴 수도 있어요. 아니면 3년. 그리고 그것도 멀리 있을 수 있고요.
+BIGGAN: Och Leifs rum?
+= 그럼 레이프 방은?
+ELSA: Leifs rum är ditt. Jag har bott där i åtta månader. Det är det bästa rummet jag har haft. Men det är inte mitt.
+= 레이프 방은 비간 거예요. 거기서 8개월 살았어요. 지금까지 살아 본 방 중에 최고예요. 근데 제 건 아니에요.
+BIGGAN: Det kan vara ditt så länge du vill.
+= 네가 원하는 만큼 네 거일 수 있어.
+ELSA: Jag vet. Det är det som gör det så svårt.
+= 알아요. 그래서 이렇게 어려운 거예요.
+
+# 장면 1 — MÄRSTA
+LOTTA: Välkommen. Lotta heter jag. Från bostadsbolaget. Det här är lägenheten. Andra våningen. Balkong mot skogen.
+= 어서 오세요. 로타예요. 주택회사에서 왔어요. 여기가 그 집이에요. 3층. 숲 쪽으로 발코니.
+ELSA: Skog. Det finns skog.
+= 숲. 숲이 있어요.
+DANIEL: Och flygplan.
+= 그리고 비행기도.
+LOTTA: Man vänjer sig. Efter ett tag hör man dem inte. De flesta säger det.
+= 익숙해져요. 좀 지나면 안 들려요. 다들 그렇게 말해요.
+ELSA: I Kiruna hörde man gruvan. Varje natt klockan ett. Sprängningarna.
+= 키루나에선 광산 소리가 들렸어요. 매일 밤 한 시에. 발파 소리.
+STRINDBERG: Det sa man om spårvagnarna på Drottninggatan också. Jag hörde dem varenda natt.
+= 드로트닝가탄의 전차에 대해서도 다들 그렇게 말했지. 난 밤마다 들었소.
+ELSA: Herr Strindberg! Ni kom till Märsta?
+= 스트린드베리 님! 메르스타까지 오셨어요?
+STRINDBERG: Jag har bott på tjugofyra adresser i Stockholm. Jag är expert på lägenhetsvisningar.
+= 난 스톡홀름에서 스물네 군데 주소에 살았소. 집 보기라면 전문가지.
+LOTTA: Tjugofyra? Var ni en orolig hyresgäst?
+= 스물네 군데요? 불안정한 세입자셨나요?
+STRINDBERG: Jag var en orolig människa. Hyresgästen var bara en del av det.
+= 불안정한 인간이었소. 세입자는 그 일부였을 뿐이고.
+ELSA: Köket. Det är litet. Men det är nytt.
+= 부엌. 작아요. 근데 새거예요.
+DANIEL: Inte för nytt, hoppas jag. Annars kommer någon och höjer hyran.
+= 너무 새것은 아니길. 안 그러면 누가 와서 월세를 올릴 테니까.
+LOTTA: Det är renoverat 2024. Hyran är satt efter det. Den höjs bara vid de årliga förhandlingarna.
+= 2024년에 리노베이션했어요. 월세는 그 후에 정해졌고요. 매년 협상 때만 올라요.
+ELSA: Med hyresgästföreningen?
+= 세입자 연합이랑요?
+LOTTA: Med hyresgästföreningen. Du kan bli medlem.
+= 세입자 연합이랑요. 가입할 수 있어요.
+ELSA: Jag vet. Jag känner Gunnel.
+= 알아요. 군넬 씨를 알거든요.
+LOTTA: Alla känner Gunnel. Hon var här och demonstrerade 2019.
+= 다들 군넬 씨를 알죠. 2019년에 여기서 시위하셨어요.
+STRINDBERG: Fönstret. Det vetter mot öster. Du får morgonsol. Det är viktigt för en som skriver.
+= 창문. 동쪽을 향해 있군. 아침 해가 들겠어. 글 쓰는 사람한텐 중요하지.
+ELSA: Jag skriver inte. Jag översätter brev.
+= 전 글 안 써요. 편지를 옮길 뿐이에요.
+STRINDBERG: Det är att skriva. Det svåraste sättet.
+= 그게 글쓰기요. 가장 어려운 방식이지.
+DANIEL: Badrummet är fint. Och det finns en tvättstuga i källaren. Med bokningstavla.
+= 욕실 좋네. 그리고 지하에 세탁실 있어. 예약판도 있고.
+STRINDBERG: En tvättstuga! Det är där grannarna lär känna varandra. Det är där parlamentet sitter.
+= 세탁실이라! 이웃들이 서로 알게 되는 곳이지. 의회가 거기 있는 거요.
+LOTTA: Mest bråkar de om vem som har glömt att ta ut sin tvätt.
+= 대개는 누가 빨래 안 꺼내 갔는지로 싸워요.
+STRINDBERG: Det är också parlamentarism.
+= 그것도 의회주의요.
+ELSA: Den är… min. Om jag vill.
+= 이건… 제 거예요. 원한다면.
+DANIEL: Hur känns det?
+= 기분이 어때?
+LOTTA: Om du vill. Svar senast i morgon klockan tolv.
+= 원한다면요. 늦어도 내일 열두 시까지 답 주세요.
+
+# 장면 2 — STRINDBERGS TJUGOFYRA ADRESSER
+BIGGAN: Hur var det? Berätta.
+= 어땠어? 얘기해 봐.
+ELSA: Skog. Morgonsol. Flygplan. Och en tvättstuga med bokningstavla.
+= 숲. 아침 해. 비행기. 그리고 예약판 있는 세탁실.
+ANTON: Det låter som en dröm. Och som en mardröm.
+= 꿈 같기도 하고. 악몽 같기도 하네.
+ELSA: Det är båda. Det är det som är så svårt.
+= 둘 다예요. 그래서 그렇게 어려워요.
+STRINDBERG: Får jag berätta något? Om mina tjugofyra adresser?
+= 이야기 하나 해도 되겠소? 내 스물네 개 주소에 대해?
+BIGGAN: Det är tisdag, August.
+= 화요일이야, 아우구스트.
+STRINDBERG: Fru Lund bestämmer vilken dag det är. Det har jag lärt mig.
+= 무슨 요일인지는 룬드 부인이 정하지. 그건 배웠소.
+BIGGAN: Då är det fredag. Berätta.
+= 그럼 금요일이야. 얘기해.
+ANTON: Det blir fler fredagar i år än veckor.
+= 올해는 주보다 금요일이 더 많겠네.
+STRINDBERG: Jag flyttade hela livet. Från Klara till Söder, från Söder till Östermalm, från Östermalm till Paris, från Paris tillbaka. Jag trodde varje gång att nästa lägenhet skulle göra mig lycklig.
+= 난 평생 이사했소. 클라라에서 쇠데르로, 쇠데르에서 외스테르말름으로, 외스테르말름에서 파리로, 파리에서 다시 돌아오고. 매번 다음 집이 날 행복하게 해 줄 거라고 믿었지.
+ELSA: Och gjorde den det?
+= 그래서 그랬어요?
+STRINDBERG: Aldrig. Förrän den sista. Blå tornet. På Drottninggatan. Där bodde jag bara fyra år. Men där hade jag grannar som knackade på.
+= 한 번도. 마지막 집 전까지는. 푸른 탑. 드로트닝가탄의. 거기선 4년밖에 안 살았소. 하지만 거기엔 문을 두드려 주는 이웃들이 있었지.
+DANIEL: Det var lägenheten som gjorde dig lycklig?
+= 그 집이 행복하게 해 준 거예요?
+STRINDBERG: Nej. Det var att jag till slut slutade leta efter rätt lägenhet. Och började leta efter rätt människor.
+= 아니오. 마침내 맞는 집을 찾는 걸 그만두고. 맞는 사람들을 찾기 시작했다는 거지.
+ELSA: Så jag ska tacka nej? Och stanna?
+= 그럼 거절해야 해요? 그리고 남으라고요?
+STRINDBERG: Det sa jag inte. Jag sa att lägenheten inte är det viktiga. Människorna kan man ta med sig. Med pendeltåget.
+= 그렇게 말하지 않았소. 집이 중요한 게 아니라고 했지. 사람들은 데려갈 수 있소. 통근 열차로.
+WICKSELL: Det är faktiskt ett ekonomiskt argument. Bostaden är en tillgång. Gemenskapen är en annan. De kan ägas på olika platser.
+= 그건 사실 경제적 논거네. 집은 하나의 자산이고. 공동체는 또 다른 자산이지. 다른 장소에서 소유할 수 있어.
+MAJA: Och om tio år kan du byta. Med ett förstahandskontrakt kan man byta till en lägenhet närmare stan. Det är svårt utan ett.
+= 그리고 10년 뒤엔 바꿀 수 있어. 1차 계약이 있으면 시내에 더 가까운 집으로 교환할 수 있지. 그게 없으면 어렵고.
+ELSA: Byta? Som att byta frimärken?
+= 교환이요? 우표 바꾸듯이?
+JOHAN: Lägenhetsbyte. Det är vanligt. Två hyresgäster byter med varandra, om hyresvärden godkänner.
+= 집 교환. 흔한 일이야. 세입자 둘이 서로 바꾸는 거지, 집주인이 승인하면.
+ELSA: Så Märsta är inte för alltid.
+= 그럼 메르스타가 영원한 건 아니네요.
+ANTON: Inget kontrakt är för alltid. Utom kollektivavtal, enligt Gunnel.
+= 영원한 계약은 없어. 군넬 말로는 단체협약만 빼고.
+STRINDBERG: Ingenting är för alltid. Utom en dålig recension.
+= 영원한 건 없소. 나쁜 서평만 빼고.
+BIGGAN: Men gumman. Vad vill du? Inte vad som är klokt. Vad du vill.
+= 근데 얘야. 넌 뭘 원해? 뭐가 현명한지 말고. 네가 원하는 거.
+ELSA: Jag vill… ha en dörr som är min. Som ingen kan säga upp. Jag har aldrig haft det. Inte ens hos mummu. Det var mummus hus.
+= 저는… 제 문을 갖고 싶어요. 아무도 해지할 수 없는. 한 번도 가져 본 적이 없어요. 무무 집에서도요. 그건 무무 집이었으니까.
+BIGGAN: Då vet du redan.
+= 그럼 이미 알고 있구나.
+ELSA: Men jag vill också ha det här. Fredagarna. Trappan. Er.
+= 근데 이것도 갖고 싶어요. 금요일. 계단. 여러분.
+DANIEL: Fredagarna försvinner inte. Pendeltåget går till klockan ett på natten.
+= 금요일은 안 사라져. 통근 열차는 새벽 한 시까지 다녀.
+
+# 절정 — MUMMU I TELEFONEN
+ELSA: Jag måste ringa mummu. Hon vet alltid.
+= 무무한테 전화해야겠어요. 무무는 항상 알아요.
+AILI: Elsa! Tyttö! Jag har just bastat. I den nya bastun. Den gamla bastun, på den nya platsen.
+= 엘사! 아가! 방금 사우나 했다. 새 사우나에서. 옛날 사우나를, 새 자리에서.
+ELSA: Hur är den, mummu?
+= 어때요, 무무?
+AILI: Varm. Och Petteri från gruvbolaget kom och badade. Han tog med korv.
+= 따뜻해. 그리고 광산회사 페테리가 와서 사우나 했어. 소시지 가져왔더라.
+AILI: Samma bastu. Samma stenar. Men utsikten är annorlunda. Jag ser fjällen nu. Förut såg jag gruvan.
+= 같은 사우나. 같은 돌. 근데 풍경이 달라. 이제 산이 보여. 전엔 광산이 보였는데.
+ELSA: Mummu. Jag har fått en lägenhet. Ett eget kontrakt. Men den ligger långt från kaféet.
+= 무무. 집이 생겼어요. 제 계약서. 근데 카페에서 멀어요.
+AILI: Hur långt?
+= 얼마나 멀어?
+ELSA: En timme.
+= 한 시간.
+AILI: En timme? Tyttö. Från vår gamla stad till den nya är det fyra kilometer. Och vi flyttade hela kyrkan. Med lastbil.
+= 한 시간? 아가. 우리 옛 도시에서 새 도시까지 4킬로미터야. 그리고 우린 교회를 통째로 옮겼어. 트럭으로.
+ELSA: Det är inte samma sak.
+= 그건 같은 게 아니에요.
+AILI: Nej. Det är lättare. Du behöver bara flytta dig själv. Dina vänner flyttar inte.
+= 그래. 더 쉽지. 너 자신만 옮기면 되잖아. 친구들은 안 옮겨.
+ELSA: Vad skulle du göra?
+= 무무라면 어떻게 하실 거예요?
+AILI: Jag har aldrig haft ett eget kontrakt. Jag har haft min pappas hus. Sen mitt hus. Sen gruvans pengar. Aldrig något papper med bara mitt namn som jag har valt själv.
+= 난 내 계약서를 가져 본 적이 없어. 아버지 집이 있었고. 그다음 내 집. 그다음 광산 돈. 내가 직접 고른, 내 이름만 있는 종이는 한 번도 없었지.
+ELSA: Så du tycker att jag ska tacka ja?
+= 그럼 받으라는 거예요?
+AILI: Jag tycker att du ska tacka ja till något du har valt. Inte till något du har fått. Är Märsta något du väljer?
+= 네가 고른 걸 받으라는 거야. 받은 걸 받으라는 게 아니라. 메르스타는 네가 고르는 거니?
+ELSA: …Jag vet inte. Ja. Kanske. Jag valde att stå i kön. För fyra år sedan. Jag valde det i dag också, när jag öppnade dörren.
+= …모르겠어요. 네. 아마도. 4년 전에 대기열에 서기로 선택했어요. 그리고 오늘 그 문을 열었을 때도 선택했어요.
+AILI: Då har du valt. Och kom hem till jul. Med nattåget. Bastun väntar.
+= 그럼 이미 선택했구나. 그리고 크리스마스엔 집에 와. 야간 열차로. 사우나가 기다려.
+ELSA: Kiitos, mummu.
+= 키이토스, 무무.
+AILI: Kiitos själv. Och säg till Birgitta att andelen var värd varenda krona.
+= 나도 고맙다. 그리고 비르기타한테 지분이 1크로나도 아깝지 않았다고 전해.
+
+# 마무리 — TACKA JA
+ELSA: Fredag. Klockan elva och femtionio. Jag tackar ja.
+= 금요일. 열한 시 오십구 분. 받을게요.
+ANTON: En minut före deadline. Det är så jag gjorde allt på Handels.
+= 마감 1분 전. 내가 경영대에서 다 그렇게 했지.
+MAJA: En krona.
+= 1크로나.
+ANTON: Deadline är svenska nu! Det står i SAOL!
+= 데드라인은 이제 스웨덴어야! 스웨덴어 사전에 있다고!
+MAJA: Då en halv krona.
+= 그럼 반 크로나.
+ELSA: Skickat. ”Jag tackar ja till erbjudandet.” Aktiv form.
+= 보냈어요. ‘제안을 수락합니다.’ 능동형.
+BIGGAN: Grattis, gumman. Du har ett hem.
+= 축하해, 얘야. 집이 생겼구나.
+ELSA: Jag har en lägenhet. Hemmet är här också.
+= 집 한 채가 생긴 거예요. 집은 여기도 있고요.
+STRINDBERG: Det tog mig tjugofyra adresser att förstå det.
+= 그걸 이해하는 데 난 주소 스물네 개가 걸렸소.
+BIGGAN: Då har du två. Det är mer än de flesta.
+= 그럼 두 개네. 대부분 사람들보다 많아.
+DANIEL: När flyttar du?
+= 언제 이사해?
+ELSA: Första december. Om tre veckor.
+= 12월 1일. 3주 뒤에.
+BIGGAN: Före Lucia. Bra. Då kan du sjunga i båda.
+= 루시아 전이네. 좋아. 그럼 두 군데서 다 부를 수 있겠다.
+STRINDBERG: Jag hjälper till att bära. Jag har erfarenhet. Tjugofyra gånger.
+= 짐 나르는 거 돕겠소. 경험이 있으니. 스물네 번.
+JOHAN: Och Leifs rum? Vad gör vi med det?
+= 그럼 레이프 방은? 그건 어떻게 하지?
+BIGGAN: Leifs rum väntar på nästa som behöver det. Det har det alltid gjort. Det visste bara inte om det förrän nu.
+= 레이프 방은 다음에 필요한 사람을 기다릴 거야. 늘 그래 왔지. 이제야 그걸 알게 됐을 뿐.
+WICKSELL: Och kön? Elsas plats i kön?
+= 그리고 대기열은? 엘사의 대기열 자리는?
+ELSA: Den börjar om från noll. I dag. Jag har redan anmält mig igen. För lägenheter på Söder.
+= 0부터 다시 시작해요. 오늘. 벌써 다시 등록했어요. 쇠데르의 집들로.
+MAJA: Om tjugo år, alltså.
+= 그럼 20년 뒤네.
+ELSA: Om tjugo år. Då är jag fyrtiofem. Och Biggan är…
+= 20년 뒤. 그럼 전 마흔다섯. 그리고 비간은…
+BIGGAN: Fortfarande här. Med bullar. Säg inte siffran.
+= 여전히 여기 있지. 번이랑. 숫자는 말하지 마.
+NEXT: 5부 6화 — «Beslutet»(결정) — Farid에게 체류 결정 우편이 온다. Mira는 초등학교에 들어갈 준비를 하고, Noel은 고등학교에서 첫 큰 시험을 치른다. 1부의 의뢰인들이 지금 어디에 서 있는지 돌아보는 화.
