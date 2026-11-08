@@ -1,0 +1,166 @@
+@part 2
+@ep 20
+@file Davide_cerca_una_stanza
+@title Davide cerca una stanza
+@ko 다비데, 방을 구하다
+@where 3층 루카의 집 거실(다비데의 소파) / 전화
+@level B1~B2
+@setting 6월 11일 목요일 저녁 8시~10시
+@cast DAVIDE | 루카네 소파에서 석 달째, 27세
+@cast LUCA | 3층 세입자, 응급실 간호사, 28세
+@cast GIULIA | 프랑코의 딸, 34세
+@cast BRUNI | 방을 내놓은 집주인(전화), 60대
+@note 지난 일요일, 레조의 할머니가 전화로 폭탄을 던졌다. «8월에 로마 간다. 네 창문 큰 방 보고 싶다.» 루카의 소파에는 창문이 없다. 정확히는 소파가 창문을 등지고 있다. 다비데는 오늘 밤 안에 진짜 방을 찾기로 했다. 매물 사이트를 같이 봐 주겠다며 줄리아가 피자를 들고 올라왔다.
+
+# 장면 1 — LA NONNA ARRIVA
+GIULIA: Allora, raccontami bene. Tua nonna arriva quando? || 자, 제대로 얘기해 봐. 할머니가 언제 오신다고?
+DAVIDE: Il dieci agosto. Con il treno. Undici ore di treno a novant'anni, per vedere «la stanza grande con la finestra». || 8월 10일이요. 기차로요. 아흔 살에 기차로 열한 시간, «창문 있는 큰 방»을 보시겠다고요.
+LUCA: La stanza grande con la finestra che non esiste. || 존재하지 않는 창문 있는 큰 방이지.
+DAVIDE: Grazie, Luca. Molto utile. || 고맙다, 루카. 아주 도움 되네.
+GIULIA: E dirle la verità? Che dormi su un divano? || 할머니께 사실대로 말하면? 소파에서 잔다고?
+DAVIDE: Mia nonna ha avuto un infarto due anni fa. Se le dico che dormo su un divano a ventisette anni, ne ha un altro. || 우리 할머니 2년 전에 심근경색 오셨어요. 스물일곱 살에 소파에서 잔다고 하면 또 오실 거예요.
+LUCA: E poi, Davì, anche per me è il momento. Con questa storia del fondo, non so quanto resterò io in questa casa. || 그리고 다비, 나한테도 때가 됐어. 펀드 일 때문에 나도 이 집에 얼마나 있을지 모르겠어.
+DAVIDE: Lo so. Non ti voglio pesare più. Tre mesi sul tuo divano sono abbastanza. Per tutti e due. || 알아. 더는 짐이 되고 싶지 않아. 네 소파에서 석 달이면 충분해. 우리 둘 다한테.
+GIULIA: Bene. Allora apri il computer. Quanto puoi spendere al mese? || 좋아. 그럼 컴퓨터 켜. 한 달에 얼마까지 쓸 수 있어?
+DAVIDE: Guadagno millecento euro. Con il contratto che finisce a settembre. Diciamo... cinquecento, massimo. || 1100유로 벌어요. 9월에 끝나는 계약으로요. 그러니까… 최대 500.
+LUCA: Cinquecento a Roma? Per una stanza singola? || 로마에서 500? 싱글 룸에?
+GIULIA: Cinquecento per una singola non è impossibile. Ma non a Testaccio. E non con la finestra grande. || 500에 싱글 룸이 불가능하진 않아. 근데 테스타초는 안 돼. 큰 창문도 안 되고.
+DAVIDE: Allora com'è la finestra di una stanza da cinquecento euro? || 그럼 500유로짜리 방 창문은 어떤데요?
+GIULIA: Piccola. Sul cortile. E di fronte c'è il muro del palazzo accanto. || 작아. 안뜰 쪽으로 나 있고. 맞은편엔 옆 건물 벽이 있지.
+DAVIDE: Alla nonna basta che ci sia la luce. || 할머니는 빛만 들어오면 돼요.
+LUCA: E tu? A te cosa basta? || 너는? 너한텐 뭐면 돼?
+DAVIDE: A me basta una porta che si chiude. E un letto che non è un divano. || 저한텐 닫히는 문 하나랑 소파가 아닌 침대 하나면 돼요.
+
+# 장면 2 — GLI ANNUNCI
+GIULIA: Ecco, ho messo i filtri. Stanza singola, massimo cinquecento euro, zona sud. Trentadue annunci. || 자, 필터 걸었어. 싱글 룸, 최대 500유로, 남부 지역. 매물 서른두 개.
+DAVIDE: Trentadue! Non è male! || 서른두 개! 나쁘지 않네요!
+GIULIA: Aspetta di leggerli. Primo annuncio: «Singola luminosa a Ostiense, quattrocentottanta euro». Bella foto. || 읽어 보고 말해. 첫 번째 매물: «오스티엔세 밝은 싱글 룸, 480유로». 사진 예쁘다.
+LUCA: Troppo bello. Leggi le condizioni. || 너무 예쁜데. 조건 읽어 봐.
+GIULIA: «Spese escluse. Cauzione tre mensilità. No residenza. Solo studentesse». || «관리비 별도. 보증금 석 달 치. 거주지 등록 불가. 여학생 전용».
+DAVIDE: Solo studentesse. Io non sono una studentessa. E non sono più neanche uno studente. || 여학생 전용. 전 여학생이 아니에요. 이제 학생도 아니고요.
+LUCA: E «no residenza»? Cosa vuol dire esattamente? || 그리고 «거주지 등록 불가»는? 정확히 무슨 뜻이야?
+GIULIA: Vuol dire che non puoi spostare la residenza in quella casa. Ufficialmente, non abiti lì. || 그 집으로 주민등록을 옮길 수 없다는 뜻이야. 공식적으로 넌 거기 안 사는 거지.
+DAVIDE: E perché il proprietario non vuole? || 집주인은 왜 싫어해요?
+GIULIA: Di solito perché il contratto non c'è. O non è registrato. Se tu metti la residenza, lo Stato vede che qualcuno abita lì. E lui deve pagare le tasse. || 보통은 계약서가 없어서야. 아니면 신고가 안 됐거나. 네가 주소를 옮기면 나라가 누가 거기 산다는 걸 알게 되잖아. 그럼 집주인이 세금을 내야 하고.
+DAVIDE: Quindi «no residenza» vuol dire «affitto in nero». || 그러니까 «거주지 등록 불가»는 «무신고 월세»라는 뜻이네요.
+GIULIA: Spesso sì. Non sempre. Ma spesso. || 자주 그래. 항상은 아니지만. 자주.
+LUCA: E senza residenza, Davì, non hai il medico di base a Roma. Te lo dico da infermiere. || 그리고 거주지 등록 없으면, 다비, 로마에서 가정의도 못 정해. 간호사로서 하는 말이야.
+DAVIDE: Prossimo. || 다음.
+GIULIA: Secondo: «Singola in appartamento con quattro ragazzi, Garbatella, quattrocentocinquanta tutto incluso». Tutto incluso! È più economico del primo. || 두 번째: «가르바텔라, 남자 넷이 사는 집의 싱글 룸, 450유로 전부 포함». 전부 포함! 첫 번째보다 싸네.
+DAVIDE: Quattro ragazzi più io. Cinque persone. Quanti bagni? || 남자 넷에 저까지. 다섯 명. 화장실은 몇 개예요?
+GIULIA: Uno. || 하나.
+LUCA: Cinque uomini e un bagno. È peggio del pronto soccorso il sabato sera. || 남자 다섯에 화장실 하나. 토요일 밤 응급실보다 심하네.
+DAVIDE: Prossimo. || 다음.
+GIULIA: Terzo: «Stanza in villa con giardino, Monteverde, cinquecento euro. Richiesto contratto a tempo indeterminato e garante». || 세 번째: «몬테베르데, 정원 딸린 빌라의 방, 500유로. 정규직 계약과 보증인 필수».
+DAVIDE: Tempo indeterminato. Il mio contratto è di sei mesi. E il garante? Chi è il garante? || 정규직. 제 계약은 6개월짜리예요. 그리고 보증인? 보증인이 누군데요?
+GIULIA: Una persona che paga se tu non paghi. Di solito un genitore con uno stipendio fisso. O con una casa. || 네가 월세 못 내면 대신 내는 사람. 보통 고정 월급이 있거나 집이 있는 부모님.
+DAVIDE: Mio padre è pescatore a Scilla. Mia madre fa le pulizie. Non so se va bene come garante. || 우리 아빠는 실라에서 어부고요. 엄마는 청소 일 해요. 보증인으로 괜찮을지 모르겠어요.
+LUCA: Per un proprietario di Monteverde? Probabilmente no. || 몬테베르데 집주인한테? 아마 안 될걸.
+DAVIDE: È ingiusto. Io lavoro. Pago. Ma per loro non basta. || 불공평해요. 저 일해요. 돈 내요. 근데 그 사람들한텐 그걸로 안 되네요.
+GIULIA: Lo so. È uno dei problemi più grandi di Roma. Gli affitti sono alti, e chi ha il contratto precario non trova niente. || 알아. 그게 로마의 제일 큰 문제 중 하나야. 월세는 비싸고, 불안정한 계약으로 일하는 사람은 아무것도 못 구해.
+GIULIA: Quarto: «Agenzia. Singola a San Paolo, quattrocentoventi. Commissione d'agenzia: una mensilità più IVA». || 네 번째: «중개소. 산파올로 싱글 룸, 420. 중개 수수료: 한 달 치 + 부가세».
+DAVIDE: Una mensilità più IVA? Quindi pago l'agenzia per... cosa? Per aprirmi la porta? || 한 달 치 + 부가세요? 그럼 중개소에 뭘 하라고 돈을 내요? 문 열어 주라고요?
+GIULIA: Per aprirti la porta e darti le chiavi. Circa cinquecento euro. || 문 열어 주고 열쇠 주는 값. 500유로쯤.
+DAVIDE: Cinquecento per una porta. Più la cauzione. Più il primo mese. Quanto fa? || 문 하나에 500. 거기에 보증금. 거기에 첫 달 월세. 다 하면 얼마예요?
+LUCA: Quasi duemila euro. Solo per entrare. || 거의 2000유로. 들어가는 데만.
+DAVIDE: Duemila! Io sul conto ho milleduecento euro. || 2000! 저 통장에 1200유로 있어요.
+GIULIA: Quinto: «Posto letto in doppia, Testaccio, trecento euro». Trecento! || 다섯 번째: «테스타초, 2인실 침대 한 자리, 300유로». 300!
+DAVIDE: Posto letto in doppia? Cioè dormo nella stessa stanza con un altro? || 2인실 침대 한 자리요? 그러니까 다른 사람이랑 같은 방에서 자요?
+GIULIA: Con un altro. Uno sconosciuto. Che magari russa. || 다른 사람이랑. 모르는 사람. 코를 골지도 모르는.
+LUCA: Perché, io russo? Tre mesi e non mi hai mai detto niente. || 왜, 내가 코 골아? 석 달 동안 한마디도 안 했잖아.
+DAVIDE: Tu russi come un trattore, Luca. Ma sei mio amico. Uno sconosciuto che russa, no. || 넌 트랙터처럼 골아, 루카. 근데 넌 내 친구잖아. 코 고는 모르는 사람은 안 돼.
+LUCA: Come un trattore! Ingrato! || 트랙터라니! 배은망덕한 녀석!
+GIULIA: Basta, voi due. Andiamo avanti. Ne mancano ventisette. || 그만해, 둘 다. 계속하자. 스물일곱 개 남았어.
+LUCA: Prova quelli senza agenzia. I privati, a volte, sono più flessibili. || 중개소 안 끼는 데로 해 봐. 개인 집주인들이 가끔 더 유연해.
+GIULIA: Ecco. Annuncio numero diciassette. Privato. «Signora affitta stanza singola a persona seria e tranquilla. Piramide. Quattrocentonovanta. Contratto regolare». || 여기. 열일곱 번째 매물. 개인. «성실하고 조용한 분께 싱글 룸 세 놓습니다. 피라미데. 490. 정식 계약».
+DAVIDE: Piramide! Vicinissimo! Contratto regolare! E «persona seria e tranquilla»... sono io! || 피라미데! 엄청 가깝네! 정식 계약! 그리고 «성실하고 조용한 분»… 저잖아요!
+LUCA: Tranquillo? Tu? Chiedi alla signora Loredana. || 조용하다고? 네가? 로레다나 부인한테 물어봐.
+DAVIDE: Quella sera era il tuo compleanno! Non conta! || 그날 밤은 네 생일이었잖아! 그건 안 쳐!
+GIULIA: C'è un numero di telefono. Chiama. Adesso. Prima che lo prenda qualcun altro. || 전화번호 있다. 전화해. 지금. 딴 사람이 채 가기 전에.
+DAVIDE: Adesso? Sono le nove di sera. || 지금요? 밤 아홉 시인데.
+GIULIA: Adesso. A Roma una stanza buona dura due ore. || 지금. 로마에서 괜찮은 방은 두 시간이면 나가.
+
+# 장면 3 — LA TELEFONATA
+> 전화 연결음 || 전화 연결음
+BRUNI: Pronto? || 여보세요?
+DAVIDE: Buonasera, signora. Scusi l'ora. Chiamo per l'annuncio. La stanza alla Piramide. È ancora libera? || 안녕하세요, 부인. 늦은 시간에 죄송합니다. 광고 보고 전화드렸어요. 피라미데에 있는 방이요. 아직 비어 있나요?
+BRUNI: Sì, è libera. Ma ho già ricevuto quindici telefonate oggi. Lei chi è? || 네, 비어 있어요. 근데 오늘 벌써 전화를 열다섯 통 받았어요. 누구세요?
+DAVIDE: Mi chiamo Davide Greco. Ho ventisette anni. Lavoro in un'agenzia di marketing, qui a Roma. || 다비데 그레코라고 합니다. 스물일곱 살이에요. 여기 로마의 마케팅 에이전시에서 일해요.
+BRUNI: Marketing. Cioè? Cosa fa di preciso? || 마케팅. 그러니까요? 정확히 뭘 하세요?
+DAVIDE: Scrivo testi per la pubblicità. Annunci, post, slogan. || 광고 문구를 써요. 광고, 게시물, 슬로건이요.
+BRUNI: Ah. Quindi lei sa scrivere annunci. Il mio annuncio com'era? || 아. 그럼 광고 쓸 줄 아시겠네. 내 광고는 어땠어요?
+DAVIDE: Ehm... Onesto. Molto onesto. Mi è piaciuto «persona seria e tranquilla». || 음… 솔직했어요. 아주 솔직했어요. «성실하고 조용한 분»이 마음에 들었어요.
+BRUNI: L'ho scritto perché l'ultimo inquilino suonava la chitarra elettrica. A mezzanotte. || 그렇게 쓴 건 지난번 세입자가 자정에 전기 기타를 쳐서예요.
+DAVIDE: Io non suono la chitarra. Suonavo la batteria, ma nella banda del paese. Per le processioni. Adesso non suono più niente. || 저는 기타 안 쳐요. 드럼은 쳤는데, 고향 악단에서요. 성모 행렬 때요. 지금은 아무것도 안 쳐요.
+BRUNI: La banda delle processioni. Lei è del sud? || 성모 행렬 악단이라. 남쪽 분이세요?
+DAVIDE: Di Reggio Calabria. Di Scilla, per la precisione. || 레조칼라브리아요. 정확히는 실라요.
+BRUNI: Scilla! Ci sono stata in viaggio di nozze. Che posto meraviglioso. || 실라! 나 신혼여행 거기로 갔었어요. 정말 멋진 곳이죠.
+DAVIDE: Davvero? Allora lei conosce Chianalea? Le case sul mare? || 정말요? 그럼 키아날레아 아세요? 바다 위 집들이요?
+BRUNI: Le conosco! Abbiamo mangiato il pesce spada in un ristorante proprio lì. Sulla terrazza. || 알죠! 바로 거기 식당 테라스에서 황새치를 먹었어요.
+DAVIDE: Il ristorante di mio zio, forse. Ha la terrazza sul mare. || 혹시 우리 삼촌 식당일지도 몰라요. 바다 쪽 테라스가 있거든요.
+BRUNI: Ma pensi! Il mondo è piccolo. Allora, signor Greco. Le spiego le condizioni. Va bene? || 세상에! 세상 참 좁네요. 그럼, 그레코 씨. 조건을 설명할게요. 괜찮죠?
+DAVIDE: Prego. || 네, 말씀하세요.
+BRUNI: Quattrocentonovanta al mese, più le spese. Circa cinquanta euro. Cauzione: due mensilità. Contratto transitorio di un anno, registrato. Lei può mettere la residenza. || 한 달 490에 관리비 별도. 50유로쯤이에요. 보증금 두 달 치. 1년짜리 단기 계약, 정식 신고. 주소 이전도 할 수 있어요.
+DAVIDE: Posso mettere la residenza! Perfetto. E la stanza com'è? Ha la finestra? || 주소 이전 할 수 있다니! 완벽해요. 방은 어때요? 창문 있어요?
+BRUNI: Ha una finestra grande. Sulla strada. Si vede un pezzo della Piramide. || 큰 창문이 있어요. 길 쪽으로. 피라미데가 조금 보여요.
+DAVIDE: Si vede la Piramide! || 피라미데가 보인다니!
+BRUNI: Un pezzo. La punta. Se si sporge un po'. || 조금요. 꼭대기만. 몸을 좀 내밀면요.
+DAVIDE: Basta la punta. Mia nonna sarà felicissima. || 꼭대기면 충분해요. 우리 할머니가 엄청 좋아하실 거예요.
+BRUNI: Sua nonna? || 할머니요?
+DAVIDE: È una storia lunga. Gliela racconto quando ci vediamo. Quando posso venire a vederla? || 긴 이야기예요. 만나 뵙고 말씀드릴게요. 언제 보러 가도 될까요?
+BRUNI: Domani alle sette di sera. Ma le dico la verità: domani vengono altre otto persone. Alle sette, alle sette e un quarto, alle sette e mezza... || 내일 저녁 일곱 시요. 근데 솔직히 말할게요. 내일 다른 사람이 여덟 명 와요. 일곱 시, 일곱 시 15분, 일곱 시 반…
+DAVIDE: Otto persone? || 여덟 명이요?
+BRUNI: Otto. È Roma, signor Greco. Ma lei è il primo che conosce Chianalea. || 여덟 명. 로마잖아요, 그레코 씨. 근데 키아날레아를 아는 사람은 당신이 처음이에요.
+DAVIDE: Allora domani alle sette. Puntuale. Grazie, signora... ? || 그럼 내일 일곱 시에 뵐게요. 시간 맞춰서요. 감사합니다, 부인… 성함이?
+BRUNI: Bruni. Signora Bruni. Porti un documento e l'ultima busta paga. A domani. || 브루니. 브루니 부인이에요. 신분증이랑 최근 급여명세서 가져오세요. 내일 봐요.
+
+# 장면 4 — DOPO LA TELEFONATA
+GIULIA: Allora? Allora? Ho sentito «Piramide» e «Chianalea». Cos'è Chianalea? || 그래서? 그래서? «피라미데»랑 «키아날레아»가 들리던데. 키아날레아가 뭐야?
+DAVIDE: Un quartiere di Scilla. Con le case sul mare. La signora c'è stata in viaggio di nozze. || 실라에 있는 동네요. 바다 위 집들이 있는. 그 부인이 거기로 신혼여행을 갔었대요.
+LUCA: Ah, il fattore Calabria! Hai usato il fascino del sud! || 아, 칼라브리아 효과! 남부의 매력을 써먹었구나!
+DAVIDE: Non ho usato niente. È successo. Ma domani ci sono altre otto persone. || 아무것도 안 써먹었어. 그냥 그렇게 됐어. 근데 내일 다른 사람이 여덟 명 와.
+GIULIA: Otto persone. E tu sei il primo, alle sette. Questo è un vantaggio. || 여덟 명이라. 근데 넌 일곱 시 첫 번째잖아. 그게 유리한 거야.
+DAVIDE: Lei vuole la busta paga. La mia busta paga dice millecento euro e «contratto a tempo determinato». || 급여명세서를 원하세요. 제 명세서엔 1100유로에 «기간제 계약»이라고 써 있어요.
+LUCA: Quattrocentonovanta più cinquanta di spese. Cinquecentoquaranta. Su millecento è quasi la metà. || 490에 관리비 50. 540. 1100 중에 거의 절반이네.
+DAVIDE: Lo so. Mi resteranno cinquecentosessanta euro per vivere. Per mangiare, per l'abbonamento della metro, per il telefono... || 알아. 생활비로 560유로 남겠지. 먹고, 지하철 정기권 끊고, 휴대폰 요금 내고…
+GIULIA: Ed è così per quasi tutti i ragazzi della tua età a Roma. La metà dello stipendio va nell'affitto. || 로마에서 네 나이 애들은 거의 다 그래. 월급 절반이 월세로 나가.
+DAVIDE: In Calabria con millecento euro sei un signore. Qui sei un ragazzo che dorme su un divano. || 칼라브리아에서 1100유로면 신사예요. 여기선 소파에서 자는 남자애고요.
+LUCA: Però in Calabria non hai il lavoro. || 근데 칼라브리아엔 일자리가 없잖아.
+DAVIDE: Appunto. È questo il trucco. Il lavoro è dove la casa costa troppo. E la casa costa poco dove non c'è lavoro. || 그러니까. 그게 함정이야. 일자리는 집값이 너무 비싼 데 있고, 집값은 일자리가 없는 데서 싸고.
+GIULIA: Sei filosofo stasera. || 오늘 밤엔 철학자네.
+DAVIDE: Sono disperato stasera. È diverso. || 오늘 밤엔 절박한 거예요. 그건 다른 거예요.
+GIULIA: Allora facciamo una cosa. Domani io vengo con te. Due persone fanno un'impressione migliore. || 그럼 이렇게 하자. 내일 내가 같이 갈게. 두 사람이 가면 인상이 더 좋아.
+DAVIDE: Vieni con me? Come... come cosa? Come mia sorella? || 같이 간다고요? 뭐로… 뭐로서요? 누나로?
+GIULIA: Come amica. Che lavora in una società di consulenza e ha uno stipendio fisso. Se serve, faccio io da garante. || 친구로서. 컨설팅 회사에 다니고 고정 월급이 있는 친구. 필요하면 내가 보증인 해 줄게.
+DAVIDE: Tu? Faresti da garante per me? || 누나가요? 저한테 보증인을 서 준다고요?
+GIULIA: Per seicento euro di cauzione e un ragazzo che paga il caffè sospeso? Sì. Ti conosco. || 보증금 600유로짜리에, 맡겨 둔 커피 값까지 내는 애한테? 응. 널 아니까.
+LUCA: Giulia, sei un angelo. || 줄리아, 천사예요.
+GIULIA: Non sono un angelo. Voglio solo che la nonna di Davide veda la Piramide. Almeno la punta. || 천사 아니야. 그냥 다비데 할머니가 피라미데를 보셨으면 해서. 꼭대기만이라도.
+DAVIDE: Giulia... non so cosa dire. Grazie. || 누나… 뭐라고 해야 할지 모르겠어요. 고마워요.
+GIULIA: Non dire niente. Domani alle sette meno un quarto davanti al bar. Con la camicia stirata. || 아무 말도 하지 마. 내일 일곱 시 15분 전에 바 앞에서. 다린 셔츠 입고.
+DAVIDE: Stirata? Io non ho il ferro da stiro. || 다린 거요? 저 다리미 없는데요.
+LUCA: Te lo presto io. Ultimo favore del divano. || 내가 빌려줄게. 소파의 마지막 호의다.
+
+@points
+- 질문 화법(전화 문의): «È ancora libera?», «Quando posso venire a vederla?», «Ha la finestra?», «Cosa fa di preciso?», «Quanti bagni?». 공손한 질문은 문장 끝을 부드럽게 올리고, 'Scusi l'ora'처럼 사과로 시작.
+- 비교: «È più economico del primo», «più flessibili», «peggio del pronto soccorso», «un'impressione migliore», «Vicinissimo». migliore/peggiore 같은 불규칙 비교형에 주의.
+- 임대 어휘 낭독: annuncio, stanza singola/doppia, spese escluse/incluse, cauzione, mensilità, residenza, contratto transitorio, registrato, garante, busta paga, tempo determinato/indeterminato.
+- 숫자: «quattrocentottanta», «quattrocentocinquanta», «quattrocentonovanta», «cinquecentoquaranta», «cinquecentosessanta», «millecento». 'cento'의 [tʃ]를 매번 또렷이.
+- 이중자음: «annuncio»[nn], «affitto», «cauzione»(홑), «abbonamento», «flessibili», «terrazza»[tts], «pesce spada»[ʃ], «Scilla»[ʃʃ].
+- 'sc'[ʃ]: «Scilla», «pesce», «fascino»(sci·sce) ↔ [sk]: «Scusi», «scrivo».
+- 감정의 리듬: 매물을 하나씩 걸러 낼 때 다비데의 «Prossimo.»는 점점 짧고 지친 톤으로, 피라미데가 보인다는 말에는 확 밝아진다.
+
+@notes
+- 'no residenza' «거주지(주민) 등록 불가» — 무신고 임대(affitto in nero)의 신호인 경우가 많다. 등록이 안 되면 가정의 배정 등 행정 서비스에 불이익이 생긴다.
+- 'cauzione' 보증금(보통 2~3개월 치), 'mensilità' 한 달 치, 'spese' 관리비·공과금, 'tutto incluso' 전부 포함.
+- 'contratto transitorio' 1~18개월 단기 임대 계약. 'registrato' (세무서에) 신고된.
+- 'garante' 보증인. 'tempo indeterminato/determinato' 정규직/기간제. 'busta paga' 급여명세서.
+- 'commissione d'agenzia' 중개 수수료(보통 한 달 치 월세 + 부가세 IVA). 보증금·첫 달 월세까지 합치면 입주 비용이 크게 불어난다.
+- 'russare' 코를 골다. 'Ingrato!' «배은망덕한 녀석!»
+- 'posto letto' 다른 사람과 방을 같이 쓰는 침대 한 자리 — 로마의 학생·청년 주거난을 상징하는 말.
+- 'Chianalea' 칼라브리아 실라의 바다 위 옛 어촌 마을. 'pesce spada' 황새치, 실라의 명물.
+- 'fare da garante' «보증인을 서다». 'ferro da stiro' 다리미, 'camicia stirata' 다린 셔츠.
+- [로마말] Davì (= Davide) 호격.
+
+@next
+2부 21화 — «La notte prima degli esami»(시험 전날 밤) — 6월 중순, 졸업시험(maturità) 첫날을 앞둔 밤. 티치아나의 아들 알레시오가 칸토네에서 긴장을 푼다. 30년 전 같은 밤을 보낸 어른들의 조언이 쏟아지고, 그중 쓸모 있는 건 하나뿐이다.
