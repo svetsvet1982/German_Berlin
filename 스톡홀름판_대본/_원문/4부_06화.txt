@@ -1,0 +1,268 @@
+PART: 4
+EP: 6
+TITLE: Deepfake
+SUBTITLE: 딥페이크 · 재판 6, 카페 Biggans
+META: 대사 120턴 · 난이도 B2 · 배경: 6월 둘째 주 금요일, Maja의 증언 나흘 전, 카페 Biggans
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (증인 예정)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: WÄGNER | 부활한 기자·작가 (1882–1949)
+CAST: INGRID | 전 Saltsjöbanken 컴플라이언스 책임자
+CAST: NOEL | 17세 · 고등학생 · 카페에서 주말에 설거지하는 아이 (가상)
+CAST: SANNA | 지역 신문 «Stockholms Kuriren» 기자 (가상)
+NOTE: ※ 인공지능으로 만든 가짜 영상, 딥페이크(deepfake)가 Maja를 겨냥해 퍼집니다. 증언을 나흘 앞둔 때입니다. 스웨덴 학교는 정보의 출처와 신빙성을 따져 보는 ‘출처 비판(källkritik)’을 중요하게 가르칩니다. 2022년에는 허위 정보와 외국의 영향 공작에 대응하는 ‘심리방위청(Myndigheten för psykologiskt försvar)’도 생겼습니다. 1부에서 범죄자들에게 계좌를 빌려줬던 Noel이 이번에는 자기가 아는 그 세계의 방식으로 가짜 영상의 흔적을 따라갑니다. 문법 초점: 추측과 확신의 정도(det verkar som, troligen, uppenbarligen, det måste vara). 표현 초점: falsk, sprida, källkritik, bevisa, motsatsen.
+
+# 도입 — VIDEON
+ANTON: Maja. Har du sett?
+= 마야. 봤어?
+MAJA: Sett vad? Jag har inte tittat på telefonen sedan i går. Jag förbereder mitt vittnesmål.
+= 뭘? 어제부터 전화 안 봤어. 증언 준비 중이야.
+ANTON: Du borde nog titta. Eller… kanske inte.
+= 보는 게 좋겠어. 아니면… 안 보는 게 나을지도.
+ELSA: Den finns överallt. TikTok, Instagram, X. Sedan klockan sex i morse.
+= 어디에나 있어요. 틱톡, 인스타그램, X. 오늘 아침 여섯 시부터.
+MAJA: Vad finns överallt?
+= 뭐가 어디에나 있어?
+ANTON: En video. Med dig. Och Ingrid.
+= 영상. 너랑. 잉리드가 나와.
+MAJA: Visa.
+= 보여 줘.
+ELSA: Här. Den är tjugotre sekunder.
+= 여기요. 23초짜리예요.
+MAJA: Det är… det är jag. Vid ett bord. Och Ingrid ger mig ett kuvert. Och jag säger…
+= 이건… 나야. 테이블에 앉아 있고. 잉리드가 나한테 봉투를 줘. 그리고 내가 말하는…
+ANTON: ”Vi delar på resten när Rehnberg är dömd.”
+= ‘렌베리가 유죄 판결 받으면 나머지는 나눠 갖자.’
+MAJA: Jag har aldrig sagt det. Aldrig.
+= 난 그런 말 한 적 없어. 절대로.
+ELSA: Vi vet det.
+= 알아요.
+MAJA: Det är min röst. Mitt ansikte. Min tröja. Jag har den tröjan.
+= 내 목소리야. 내 얼굴. 내 스웨터. 나 그 스웨터 있어.
+DANIEL: Det är en deepfake. En förfalskad video. Gjord med AI.
+= 딥페이크야. 위조 영상. AI로 만든.
+MAJA: Hur många har sett den?
+= 몇 명이나 봤어?
+ELSA: Tvåhundratusen. Och den har delats av ett konto som heter ”Sanningen om Vårberg”.
+= 20만 명. 그리고 ‘바르베리의 진실’이라는 계정이 공유했어요.
+WICKSELL: ”Sanningen om.” Det är alltid så de som ljuger döper sina konton.
+= ‘~의 진실.’ 거짓말하는 자들은 늘 계정 이름을 그렇게 짓지.
+INGRID: Jag har sett den. Jag har aldrig gett Maja ett kuvert. Jag har aldrig gett någon ett kuvert.
+= 나도 봤어요. 난 마야한테 봉투를 준 적 없어요. 누구한테도 봉투를 준 적 없어요.
+SANNA: Och den har nått redaktionen. Tre andra tidningar har ringt mig och frågat om min ”källa” får betalt.
+= 그리고 편집국에도 도착했어요. 다른 신문 세 곳이 제 ‘취재원’이 돈을 받느냐고 전화로 물었어요.
+JOHAN: Det är inte en slump. Fyra dagar före Majas vittnesmål.
+= 우연이 아니야. 마야 증언 나흘 전이라니.
+WÄGNER: 1913 tryckte en tidning en falsk bild på mig. Med en flaska i handen. På ett möte för nykterhet. Det tog tre veckor att få dem att skriva en rättelse.
+= 1913년에 어떤 신문이 날 찍은 가짜 그림을 실었어요. 금주 모임에서 술병을 든 모습으로. 정정 기사를 쓰게 하는 데 3주가 걸렸죠.
+ANTON: Och nu tar det tre sekunder att sprida en lögn till tvåhundratusen.
+= 그리고 지금은 거짓말 하나를 20만 명한테 퍼뜨리는 데 3초가 걸리지.
+MAJA: Jag måste sätta mig.
+= 앉아야겠어.
+BIGGAN: Sätt dig här. På stolen.
+= 여기 앉아. 의자에.
+
+# 장면 1 — MAJA PÅ GOLVET
+BIGGAN: Maja. Du sitter på golvet.
+= 마야. 너 바닥에 앉아 있어.
+MAJA: Golvet är stabilt. Det kan inte förfalskas.
+= 바닥은 안정적이잖아. 위조할 수가 없어.
+DANIEL: Andas. In, fyra sekunder. Håll. Ut, sex.
+= 숨 쉬어. 들이쉬고, 4초. 참고. 내쉬고, 6초.
+MAJA: Jag har anmält mig själv. Jag har sagt sanningen för första gången på åtta år. Och nu tror tvåhundratusen människor att jag har tagit mutor.
+= 나 자신을 신고했어. 8년 만에 처음으로 진실을 말했어. 근데 이제 20만 명이 내가 뇌물을 받았다고 믿어.
+ELSA: Inte alla tror det.
+= 다 믿는 건 아니에요.
+MAJA: Det räcker att några gör det. Det räcker att en nämndeman gör det.
+= 몇 명만 믿어도 충분해. 시민 배심 판사 한 명만 믿어도.
+ELSA: Göran tror inte på TikTok. Han är lärare.
+= 예란 씨는 틱톡을 안 믿어요. 선생님이잖아요.
+JOHAN: Nämndemän ska bara döma på det som läggs fram i rätten. Inte på det de ser på TikTok.
+= 시민 배심 판사들은 법정에 제출된 것만으로 판단해야 해. 틱톡에서 본 거 말고.
+MAJA: ”Ska.” Du säger ”ska”. Inte ”gör”.
+= ‘해야 해.’ ‘한다’가 아니라 ‘해야 한다’고 하네.
+JOHAN: …Du har rätt. Jag kan inte lova ”gör”.
+= …맞아. ‘한다’고는 약속 못 해.
+MAJA: Revisorsinspektionen ringde för en timme sedan. De ”har noterat uppgifter i sociala medier”.
+= 한 시간 전에 회계사 감독청에서 전화 왔어. ‘소셜 미디어상의 정보를 인지했다’고.
+INGRID: De tror inte på det. De följer bara rutinen.
+= 그쪽은 안 믿어요. 그냥 절차를 따르는 거예요.
+MAJA: Rutinen är att den som har anmält sig själv blir granskad hårdare. Och nu har de en video.
+= 절차상 자기 자신을 신고한 사람은 더 엄격하게 조사받아. 그리고 이제 영상까지 있고.
+ANTON: Och om Brandt använder videon i motförhöret?
+= 그리고 브란트가 반대신문에서 그 영상을 쓰면?
+JOHAN: Han kan inte lägga fram den som bevis utan att visa att den är äkta. Men han kan fråga om den. Och då har alla nämndemän sett den.
+= 진짜라는 걸 보여 주지 않고는 증거로 제출할 수 없어. 하지만 그것에 대해 질문은 할 수 있지. 그럼 시민 배심 판사들이 다 보게 되는 거고.
+WICKSELL: En lögn behöver inte vara bevisad. Den behöver bara vara sedd.
+= 거짓말은 증명될 필요가 없네. 그저 보이기만 하면 되지.
+MAJA: Jag borde inte vittna. Jag förstör allt. För Ingrid. För Farid.
+= 난 증언하면 안 돼. 내가 다 망쳐. 잉리드한테도. 파리드한테도.
+INGRID: Nej. Det är precis vad de vill.
+= 아니에요. 그게 바로 그쪽이 원하는 거예요.
+ELSA: Som med Farid. De skickade sms för att han skulle backa. Och nu skickar de en video för att du ska backa.
+= 파리드 때처럼요. 파리드가 물러나게 하려고 문자를 보냈고. 이제 마야가 물러나게 하려고 영상을 보낸 거예요.
+DANIEL: Samma metod. Bara dyrare.
+= 같은 방법이야. 더 비쌀 뿐.
+BIGGAN: Maja. Res dig upp. Golvet är kallt.
+= 마야. 일어나. 바닥이 차가워.
+MAJA: Jag tycker om golvet.
+= 바닥이 좋아.
+BIGGAN: Då sätter jag mig också.
+= 그럼 나도 앉을게.
+ELSA: Och jag.
+= 그리고 저도요.
+ANTON: Och jag. Det blir ett möte på golvet.
+= 그리고 나도. 바닥 회의가 되겠네.
+WÄGNER: Det är den bästa sortens möte. Ingen kan sitta högre än någon annan.
+= 최고의 회의죠. 아무도 다른 사람보다 높이 앉을 수 없으니까.
+WICKSELL: Jag sätter mig inte. Mina knän är hundrasjuttiofem år.
+= 난 안 앉겠네. 내 무릎은 백일흔다섯 살이야.
+
+# 장면 2 — KÄLLKRITIK
+NOEL: Hej. Varför sitter alla på golvet?
+= 안녕하세요. 왜 다들 바닥에 앉아 있어요?
+BIGGAN: Noel! Det är fredag. Du ska diska i morgon.
+= 노엘! 금요일이야. 넌 내일 설거지하잖아.
+NOEL: Jag såg videon. På TikTok. Med Maja. Jag kom direkt efter skolan.
+= 영상 봤어요. 틱톡에서. 마야 나오는 거. 학교 끝나고 바로 왔어요.
+MAJA: Du har också sett den.
+= 너도 봤구나.
+NOEL: Alla i min klass har sett den. Men den är fejk. Det syns.
+= 우리 반 애들 다 봤어요. 근데 가짜예요. 보여요.
+ELSA: Syns? Hur?
+= 보인다고? 어떻게?
+NOEL: Vi har källkritik i skolan. Varje termin. Men jag har lärt mig mer av… andra ställen.
+= 학교에서 출처 비판을 배워요. 학기마다. 근데 전… 다른 데서 더 많이 배웠어요.
+DANIEL: Telegram?
+= 텔레그램?
+NOEL: Telegram. Där Kalle och de andra skickade sådana videor hela tiden. Fejk-bilder på folk de ville skrämma.
+= 텔레그램. 칼레랑 다른 애들이 이런 영상을 계속 보냈던 데예요. 겁주고 싶은 사람들 가짜 사진.
+JOHAN: Visa oss. Vad ser du?
+= 보여 줘. 뭐가 보여?
+NOEL: Titta på händerna. Ingrids hand när hon ger kuvertet. Räkna fingrarna.
+= 손을 봐요. 봉투를 줄 때 잉리드 손. 손가락을 세어 봐요.
+MAJA: Ett, två, tre, fyra, fem… sex. Sex fingrar.
+= 하나, 둘, 셋, 넷, 다섯… 여섯. 손가락이 여섯 개야.
+INGRID: Jag har fem. Jag har räknat i femtioåtta år.
+= 난 다섯 개예요. 58년 동안 세어 왔어요.
+ELSA: Sex fingrar! Hur såg vi inte det?
+= 손가락 여섯 개! 어떻게 그걸 못 봤지?
+NOEL: För att man tittar på ansiktet. Alla tittar på ansiktet. AI är bra på ansikten. Dålig på händer.
+= 다들 얼굴을 보니까요. 다들 얼굴을 봐요. AI는 얼굴은 잘해요. 손은 못하고.
+WICKSELL: Ingen tittar på händerna. Som ingen tittar uppåt.
+= 아무도 손을 안 보지. 아무도 위를 안 보듯이.
+NOEL: Och titta på skylten bakom. I bakgrunden.
+= 그리고 뒤에 있는 간판을 봐요. 배경에.
+ANTON: Det är… Biggans skylt! ”Här tar vi kontanter.”
+= 그건… 비간의 간판이야! ‘여기선 현금도 받아요.’
+NOEL: Men läs den. Bokstäverna.
+= 근데 읽어 봐요. 글자를.
+ELSA: ”Här tar vi kontanetr.” Kontanetr. Det är felstavat!
+= ‘여기선 현긍도 받아요.’ 현긍. 철자가 틀렸어요!
+BIGGAN: Min skylt är inte felstavad. Leif skrev den. Han var dålig på mycket men inte på stavning.
+= 내 간판은 철자 안 틀렸어. 레이프가 썼어. 그 사람은 많은 걸 못했지만 철자는 아니었지.
+NOEL: AI kan inte stava på skyltar. Inte än. Det är det enklaste sättet att se.
+= AI는 간판 글씨를 제대로 못 써요. 아직은. 그게 제일 쉽게 알아보는 방법이에요.
+SANNA: Noel. Får jag citera dig? I en artikel om videon?
+= 노엘. 기사에 인용해도 돼요? 이 영상에 관한?
+NOEL: Med mitt namn?
+= 제 이름으로요?
+DANIEL: Tänk efter, Noel. Ditt namn kommer att synas. Även för Kalles vänner.
+= 잘 생각해, 노엘. 네 이름이 보이게 돼. 칼레 친구들한테도.
+SANNA: Om du vill. Och om din mamma säger ja. Du är sjutton.
+= 원한다면요. 그리고 엄마가 허락하시면. 열일곱 살이잖아요.
+NOEL: Mamma säger ja. Hon säger att det är dags att jag gör något bra med telefonen.
+= 엄마는 허락할 거예요. 이제 전화기로 좋은 일 좀 할 때가 됐대요.
+
+# 절정 — KONTOT
+JOHAN: Fingrarna och skylten visar att videon är falsk. Men vem har gjort den?
+= 손가락이랑 간판으로 영상이 가짜라는 건 알겠어. 근데 누가 만들었지?
+NOEL: Kontot. ”Sanningen om Vårberg.” Det skapades för tre dagar sedan.
+= 그 계정. ‘바르베리의 진실.’ 사흘 전에 만들어졌어요.
+ELSA: Tre dagar? Och redan tvåhundratusen visningar?
+= 사흘? 그런데 벌써 조회수 20만?
+NOEL: Det är bottar. Falska konton som delar automatiskt. Titta på följarna. Alla har profilbilder av solnedgångar. Och namn med siffror.
+= 봇이에요. 자동으로 공유하는 가짜 계정. 팔로워를 봐요. 다들 프로필 사진이 노을이에요. 그리고 이름에 숫자가 있고.
+ANTON: ”Erik_83749.” ”Anna_22917.” ”Lars_55108.”
+= ‘에리크_83749.’ ‘안나_22917.’ ‘라르스_55108.’
+NOEL: Och nu titta på det här. Jag känner igen ett av dem. ”Kalle_Gbg_07”.
+= 그리고 이걸 봐요. 그중 하나를 알아요. ‘칼레_Gbg_07’.
+DANIEL: Kalle?
+= 칼레?
+NOEL: Samma konto som skrev till mig på Snapchat. Han använde samma namn på Telegram. Med siffrorna noll sju.
+= 스냅챗으로 저한테 연락했던 그 계정이에요. 텔레그램에서도 같은 이름을 썼어요. 숫자 0, 7까지.
+INGRID: Kalle sitter häktad. Sedan Lucia.
+= 칼레는 구속돼 있잖아요. 루시아 날부터.
+NOEL: Ja. Men kontot finns kvar. Någon annan använder det. Samma nätverk.
+= 네. 근데 계정은 남아 있어요. 다른 사람이 쓰는 거죠. 같은 네트워크.
+JOHAN: Samma nätverk som rekryterade penningmålvakter. Som tog emot Ulla-Britts pengar. Som gick till Nordic Flow Solutions.
+= 명의 대여자를 모집한 그 네트워크. 울라브리트 돈을 받은. 노르딕 플로 솔루션스로 간.
+ELSA: Som hade Rolf som styrelseledamot. Som hade samma ägare som Vårberg-bolagen.
+= 롤프 씨를 이사로 둔. 바르베리 회사들과 주인이 같은.
+WICKSELL: Följ pengarna. Och följ lögnerna. De går samma väg.
+= 돈을 따라가게. 그리고 거짓말도 따라가게. 같은 길로 가지.
+MAJA: Så videon kommer från samma människor som ska dömas.
+= 그럼 그 영상은 재판받을 사람들한테서 나온 거네.
+JOHAN: Det kan vi inte bevisa än. Men vi kan visa att kontot hänger ihop med ett nätverk som polisen redan utreder.
+= 아직 증명은 못 해. 하지만 그 계정이 경찰이 이미 수사 중인 네트워크와 연결돼 있다는 건 보여 줄 수 있어.
+NOEL: Jag har skärmdumpar. Från Telegram, från i höstas. Jag sparade allt. Som Ulla-Britt.
+= 스크린숏 있어요. 지난가을 텔레그램 거. 다 저장해 뒀어요. 울라브리트 할머니처럼.
+BIGGAN: Noel! Du sparade?
+= 노엘! 저장해 뒀어?
+NOEL: Daniel sa att jag skulle spara allt. På Lucia. ”Ta inte bort något. Det är bevis.”
+= 다니엘이 다 저장하라고 했잖아요. 루시아 날에. ‘아무것도 지우지 마. 그게 증거야.’
+DANIEL: Jag sa det. Jag trodde inte att du lyssnade.
+= 내가 그랬지. 네가 들을 줄은 몰랐어.
+NOEL: Jag lyssnade. Jag var rädd. Men jag lyssnade.
+= 들었어요. 무서웠지만. 들었어요.
+MAJA: …
+= ……
+ELSA: Maja? Du gråter.
+= 마야? 울어요.
+MAJA: Jag gråter inte. Revisorer gråter inte. Det är… golvet. Det är dammigt.
+= 안 울어. 회계사는 안 울어. 이건… 바닥 때문이야. 먼지가 많아서.
+BIGGAN: Mitt golv är inte dammigt.
+= 내 바닥은 먼지 없어.
+
+# 마무리 — BEVISA MOTSATSEN
+JOHAN: Okej. Tre saker. Polisanmälan: förtal och övergrepp i rättssak. Anmälan till plattformarna. Och Sannas artikel.
+= 좋아. 세 가지. 경찰 신고: 명예훼손과 사법 방해. 플랫폼에 신고. 그리고 산나의 기사.
+SANNA: Rubrik: ”Sex fingrar och en felstavad skylt.” Underrubrik: ”Så avslöjade en sjuttonåring den falska videon.”
+= 제목: ‘여섯 손가락과 철자 틀린 간판.’ 부제: ‘열일곱 살이 가짜 영상을 밝혀낸 방법.’
+NOEL: Sjuttonåring. Inte ”penningmålvakt”.
+= 열일곱 살. ‘명의 대여자’가 아니라.
+SANNA: Det var det du var i den här historien.
+= 이 이야기에서 당신은 그거였으니까요.
+WÄGNER: Det sa du till Farid också.
+= 파리드한테도 그렇게 말했죠.
+SANNA: Det är det bästa jag kan säga till någon.
+= 그게 내가 누구한테 해 줄 수 있는 최고의 말이에요.
+NOEL: Tack. Ingen har kallat mig något bra på ett år.
+= 고마워요. 1년 동안 아무도 저를 좋게 불러 준 적이 없었어요.
+ANTON: Och Myndigheten för psykologiskt försvar? Ska vi kontakta dem?
+= 그리고 심리방위청은? 연락할까?
+JOHAN: De jobbar mest med påverkan från andra länder. Men pengarna gick till Cypern och Litauen. Det kan vara intressant för dem.
+= 그쪽은 주로 외국의 영향 공작을 다뤄. 근데 돈이 키프로스랑 리투아니아로 갔잖아. 그쪽이 관심 가질 수도 있어.
+ELSA: En myndighet för psykologiskt försvar. Det låter som något från ett krig.
+= 심리 방위를 위한 관청. 전쟁에서 나온 것 같아요.
+WICKSELL: Det är ett krig. Bara utan kulor. Med siffror och bilder.
+= 전쟁이지. 총알이 없을 뿐. 숫자와 그림으로 하는.
+MAJA: Jag vittnar. På tisdag. Som planerat.
+= 증언할게. 화요일에. 계획대로.
+INGRID: Säker?
+= 확실해요?
+MAJA: Om jag backar nu, vinner sex fingrar och en felstavad skylt. Det tänker jag inte låta hända.
+= 지금 물러나면 손가락 여섯 개랑 철자 틀린 간판이 이기는 거야. 그런 일은 절대 안 일어나게 할 거야.
+DANIEL: Det var den mest Maja-aktiga meningen hittills.
+= 지금까지 중에 제일 마야다운 문장이다.
+BIGGAN: Och nu reser vi oss från golvet. Allihop. Mina knän är sextiofyra år.
+= 그리고 이제 다들 바닥에서 일어나자. 내 무릎은 예순네 살이야.
+NOEL: Biggan… jag kan diska i kväll också. Gratis.
+= 비간… 오늘 밤에도 설거지할 수 있어요. 공짜로.
+BIGGAN: Inte gratis. Med lönebesked. Och en bulle.
+= 공짜는 안 돼. 급여 명세서랑. 그리고 번 하나.
+NEXT: 4부 7화 — «Midsommar»(하지) — 재판이 휴정한다. 모두 Biggan 사촌의 시골집으로 간다. 청어, 딸기, 메이폴 춤. 들꽃에 이름을 붙이는 Linné가 잠시 들른다. 사건 없는 쉬어 가는 회차.
