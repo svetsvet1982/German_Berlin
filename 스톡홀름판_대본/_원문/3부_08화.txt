@@ -1,0 +1,267 @@
+PART: 3
+EP: 8
+TITLE: Pressad
+SUBTITLE: 압박 · 추적 8, 카페 Biggans와 Strandvägen
+META: 대사 120턴 · 난이도 B2 · 배경: 3월 셋째 주 목요일 아침부터 오후까지, 카페 Biggans와 Ek & Wahlgren 사무실
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: WÄGNER | 부활한 기자·작가 (1882–1949)
+CAST: SANNA | 지역 신문 «Stockholms Kuriren» 프리랜서 기자 (가상)
+CAST: GUSTAF | Johan의 아버지 · Ek & Wahlgren 대표 변호사 (가상)
+CAST: HENRIK | Ek & Wahlgren 소속 변호사 (가상)
+NOTE: ※ 스웨덴에서 명예훼손(förtal)은 형사 범죄입니다. 하지만 정보를 전하는 것이 정당했고(försvarligt) 그 내용이 사실이거나 사실이라고 믿을 합리적 근거가 있었다면 처벌받지 않습니다. 또 출판자유법에 따라 신문 기사에 대한 법적 책임은 기자 개인이 아니라 ‘책임 편집인(ansvarig utgivare)’ 한 사람이 집니다. 한편 변호사에게는 옛 의뢰인에 대한 비밀 유지 의무가 평생 남습니다. Johan은 2015년 Norrhem 사건에서 의뢰인 쪽 변호사였기 때문에, 그때 알게 된 것은 쓸 수 없습니다. Ek & Wahlgren은 바로 그 점을 파고듭니다. 문법 초점: 법률 문장의 조건과 예외(om inte, såvida, med undantag för). 표현 초점: stämma, förtal, påstå, bevisa, tystnadsplikt.
+
+# 도입 — TVÅ BREV
+SANNA: Ingrid hade rätt. Brevet kom klockan sju i morse. Med bud. Till min lägenhet.
+= 잉리드 말이 맞았어요. 오늘 아침 일곱 시에 편지가 왔어요. 퀵으로. 우리 집으로.
+JOHAN: Och här kom ett till. Till kontoret. Samma avsändare.
+= 그리고 여기도 하나 왔어. 사무소로. 같은 발신인.
+ELSA: Ek & Wahlgren Advokatbyrå. Guldbokstäver på kuvertet.
+= 엑 & 발그렌 법률사무소. 봉투에 금색 글씨.
+BIGGAN: Även breven är dyra på Östermalm.
+= 외스테르말름에선 편지도 비싸네.
+SANNA: Mitt brev: ”Vår klient Nordhem Holding AB har fått kännedom om att ni avser att publicera uppgifter som är ägnade att utsätta vår klient för andras missaktning.”
+= 제 편지: ‘저희 의뢰인 노르드헴 홀딩 AB는 귀하가 저희 의뢰인을 타인의 경멸에 노출시킬 만한 정보를 공개할 의도가 있음을 알게 되었습니다.’
+ELSA: ”Ägnade att utsätta för andras missaktning.” Det låter som en dikt. En elak dikt.
+= ‘타인의 경멸에 노출시킬 만한.’ 시 같아요. 못된 시.
+WÄGNER: Det är lagtexten om förtal. Ord för ord. De har kopierat brottsbalken.
+= 그건 명예훼손에 관한 법조문이에요. 한 글자 한 글자. 형법을 베꼈네요.
+SANNA: ”Vi förbehåller oss rätten att vidta rättsliga åtgärder mot er personligen samt mot er uppdragsgivare.”
+= ‘저희는 귀하 개인 및 귀하의 의뢰처를 상대로 법적 조치를 취할 권리를 보유합니다.’
+ANTON: Klarspråk, Elsa?
+= 쉬운 말로, 엘사?
+ELSA: ”Om du skriver, stämmer vi dig och tidningen.”
+= ‘쓰면 너랑 신문사를 고소하겠다.’
+JOHAN: Och mitt brev är annorlunda. Det handlar inte om förtal.
+= 그리고 내 편지는 달라. 명예훼손 얘기가 아니야.
+MAJA: Vad handlar det om?
+= 그럼 뭔데?
+JOHAN: ”Advokat Johan Ek biträdde 2015 Norrhem AB vid förvärvet av fastigheter i Järva. Advokat Ek har därmed tystnadsplikt avseende allt han erfarit i uppdraget.”
+= ‘요한 엑 변호사는 2015년 야르바 부동산 인수 건에서 노르헴 AB를 대리하였습니다. 따라서 엑 변호사는 해당 업무 중 알게 된 모든 것에 대해 비밀 유지 의무가 있습니다.’
+ELSA: Och sen? Det finns mer, va?
+= 그리고요? 더 있죠?
+JOHAN: ”Varje användning av sådan information kommer att anmälas till Advokatsamfundets disciplinnämnd.”
+= ‘그러한 정보의 사용은 모두 변호사협회 징계위원회에 신고될 것입니다.’
+ELSA: Ursäkta… vad betyder det för dig?
+= 실례지만… 그게 요한한테 무슨 뜻이에요?
+JOHAN: Att jag kan förlora rätten att kalla mig advokat. Om jag använder något jag lärde mig när Norrhem var min klient.
+= 변호사라고 부를 권리를 잃을 수 있다는 거. 노르헴이 내 의뢰인이었을 때 알게 된 걸 쓰면.
+MAJA: Som ”Omsättningsplanen”.
+= ‘회전 계획’ 같은 거.
+JOHAN: Som Omsättningsplanen. Jag berättade om den vid Biggans bord. Inte för en tidning. Men de vet att jag vet.
+= ‘회전 계획’ 같은 거. 그건 비간의 식탁에서 얘기했지. 신문한테가 아니라. 근데 그쪽은 내가 안다는 걸 알아.
+OXENSTIERNA: Fadern slår mot sonens svagaste punkt. Det är ingen juridik. Det är krigföring.
+= 아버지가 아들의 가장 약한 곳을 치는군. 그건 법이 아니라 전쟁이네.
+
+# 장면 1 — FÖRTAL?
+SANNA: Okej. Jag måste förstå. Kan de verkligen stämma mig?
+= 좋아요. 이해해야겠어요. 정말 저를 고소할 수 있어요?
+JOHAN: De kan försöka. Men i Sverige är det inte journalisten som ansvarar för det som står i tidningen. Det är den ansvariga utgivaren.
+= 시도는 할 수 있죠. 하지만 스웨덴에선 신문 내용에 책임지는 사람이 기자가 아니에요. 책임 편집인이에요.
+ELSA: Ansvarig utgivare. En person?
+= 책임 편집인. 한 사람이요?
+SANNA: En person per tidning. Hos oss heter hon Karin Lööf. Hon bestämmer vad som publiceras. Och hon tar ansvaret om någon stämmer.
+= 신문사마다 한 명이요. 우리 쪽은 카린 뢰프예요. 그 사람이 뭘 공개할지 정해요. 그리고 누가 고소하면 책임도 그 사람이 져요.
+WÄGNER: Ensamansvar. Det är ett av de klokaste påfund i svensk rätt. En person tar smällen. Så att alla andra kan skriva fritt.
+= 단독 책임. 스웨덴 법에서 가장 현명한 발명 중 하나죠. 한 사람이 매를 맞는 거예요. 다른 모두가 자유롭게 쓸 수 있도록.
+ANTON: Och förtal? Vad krävs för att det är förtal?
+= 그럼 명예훼손은? 명예훼손이 되려면 뭐가 필요해?
+JOHAN: Att man påstår något om någon som får andra att se ner på dem. Men det är inte brottsligt om det var försvarligt att berätta, och om uppgiften var sann. Eller om man hade skälig grund för den.
+= 누군가에 대해 다른 사람들이 그를 깔보게 만드는 말을 하는 거. 하지만 알리는 게 정당했고, 그 내용이 사실이었다면 범죄가 아니야. 아니면 그렇게 믿을 합리적 근거가 있었거나.
+ELSA: Försvarligt. Betyder det att det var rätt att berätta?
+= 정당했다. 그건 알리는 게 옳았다는 뜻이에요?
+JOHAN: Att det fanns ett skäl. Till exempel att allmänheten behöver veta. Om penningtvätt i hyreshus, till exempel.
+= 이유가 있었다는 거야. 예를 들어 대중이 알아야 할 필요가 있다는 거. 이를테면 임대 건물에서의 돈세탁 같은.
+SANNA: Och sant. Därför behöver jag dokument. Allmänna handlingar. Rolf med namn. Fakta som går att kontrollera.
+= 그리고 사실이어야 하고. 그래서 문서가 필요해요. 공문서. 실명의 롤프. 확인할 수 있는 사실.
+MAJA: Det har vi. Det mesta.
+= 그건 있어. 대부분.
+SANNA: Det mesta räcker inte. Allt måste vara sant. En enda fel siffra, och de vinner.
+= 대부분으로는 부족해요. 전부 사실이어야 해요. 숫자 하나만 틀려도 그쪽이 이겨요.
+ANTON: Och om de stämmer dig ändå? Vem betalar?
+= 그래도 고소하면? 누가 돈을 내?
+SANNA: Tidningen, om det gäller artikeln. Men jag har ingen fast lön. Om tidningen blir rädd, får jag inga fler uppdrag.
+= 기사 문제면 신문사가요. 근데 전 고정 급여가 없어요. 신문사가 겁을 먹으면, 더는 일을 못 받아요.
+WÄGNER: Det är det verkliga hotet. Inte domstolen. Tystnaden efteråt.
+= 그게 진짜 위협이에요. 법원이 아니라. 그다음에 오는 침묵.
+MAJA: Då kontrollerar jag varje siffra. Igen. Det är det jag är bra på.
+= 그럼 숫자 하나하나 다시 확인할게. 그게 내가 잘하는 거니까.
+ANTON: Och Johan? Hans brev?
+= 그럼 요한은? 요한 편지는?
+JOHAN: Det är svårare. Jag har tystnadsplikt om 2015. Det gäller för alltid. Även om pappa är på andra sidan.
+= 그건 더 어려워. 2015년에 대해선 비밀 유지 의무가 있어. 그건 영원히 유효해. 아버지가 반대편에 있어도.
+ELSA: Så du kan inte berätta om Omsättningsplanen för Sanna?
+= 그럼 산나한테 ‘회전 계획’ 얘기를 할 수 없는 거예요?
+JOHAN: Inte ett ord. Och jag får inte vara hennes källa. Inte för något som kommer från uppdraget.
+= 한 마디도. 그리고 그녀의 취재원이 될 수도 없어. 그 업무에서 나온 어떤 것에 대해서도.
+SANNA: Då får jag den inte från dig. Jag får den från någon annan. Eller inte alls.
+= 그럼 당신한테선 안 얻을게요. 다른 사람한테서 얻든가. 아니면 아예 안 얻든가.
+WÄGNER: En god journalist behöver inte varje bit. Bara tillräckligt många sanna bitar för att bilden blir tydlig.
+= 좋은 기자는 조각이 전부 필요하지 않아요. 그림이 분명해질 만큼의 사실 조각이면 충분하죠.
+OXENSTIERNA: Och en god kansler vet vilken bit han inte får röra. Även när den skulle avgöra kriget.
+= 그리고 좋은 재상은 어떤 조각을 건드리면 안 되는지 알지. 그게 전쟁을 결정짓는 조각이라 해도.
+ELSA: Ursäkta, vad är Advokatsamfundet?
+= 실례지만, 변호사협회가 뭐예요?
+JOHAN: Föreningen för alla advokater i Sverige. Den som kallar sig advokat måste vara medlem. Och följa reglerna.
+= 스웨덴 모든 변호사의 단체야. 변호사라고 자칭하려면 회원이어야 해. 그리고 규칙을 따라야 하고.
+ELSA: Så man kan vara jurist utan att vara advokat?
+= 그럼 변호사가 아니어도 법률가일 수 있어요?
+JOHAN: Ja. Men ordet advokat är skyddat. Som ordet revisor.
+= 응. 하지만 ‘변호사’라는 말은 보호돼. ‘회계사’라는 말처럼.
+MAJA: Auktoriserad revisor. Skyddat. Tills någon tar det ifrån en.
+= 공인회계사. 보호되지. 누가 그걸 빼앗아 가기 전까지는.
+JOHAN: Jag går till Strandvägen. Nu. Jag vill säga det till dem ansikte mot ansikte.
+= 스트란드베겐에 갈게. 지금. 얼굴을 마주 보고 말하고 싶어.
+ELSA: Får jag följa med? Igen?
+= 저도 같이 가도 돼요? 또?
+JOHAN: Du frågade bäst förra gången.
+= 지난번에 네가 제일 잘 물었잖아.
+
+# 장면 2 — STRANDVÄGEN IGEN
+HENRIK: Johan. Och praktikanten. Vi väntade er inte.
+= 요한. 그리고 인턴. 올 줄은 몰랐네.
+JOHAN: Ni skickade två brev med bud klockan sju i morse. Ni väntade oss.
+= 오늘 아침 일곱 시에 퀵으로 편지 두 통을 보냈잖아. 기다렸겠지.
+GUSTAF: Kom in, Johan. Henrik, vi tar det här själva.
+= 들어와라, 요한. 헨리크, 이건 우리끼리 하지.
+HENRIK: Gustaf, jag tycker inte att…
+= 구스타프, 제 생각엔…
+GUSTAF: Henrik. Stäng dörren. Utifrån.
+= 헨리크. 문 닫아. 밖에서.
+HENRIK: …Självklart.
+= …알겠습니다.
+ELSA: Han sa ”utifrån”. Det var… elakt.
+= ‘밖에서’라고 했어요. 그건… 못됐네요.
+GUSTAF: Det var tydligt, Elsa. Det lärde jag Johan. Tydlighet.
+= 분명한 거지, 엘사. 내가 요한한테 가르친 거야. 분명함.
+JOHAN: Pappa. Jag kommer inte att använda något från 2015. Inte ett ord. Allt vi har kommer från allmänna handlingar och från personer som aldrig har varit era klienter.
+= 아버지. 2015년 것은 아무것도 쓰지 않을 거예요. 한 마디도. 우리가 가진 건 전부 공문서와 한 번도 아버지 의뢰인이었던 적 없는 사람들한테서 나온 거예요.
+GUSTAF: Det tror jag på. Du har alltid följt reglerna. Det är din styrka och din svaghet.
+= 그건 믿는다. 넌 늘 규칙을 지켰지. 그게 네 강점이자 약점이야.
+JOHAN: Och varför skickade du brevet då?
+= 그럼 왜 그 편지를 보내셨어요?
+GUSTAF: För att påminna dig om var gränsen går. Och för att Rehnberg bad mig.
+= 선이 어디인지 상기시키려고. 그리고 렌베리가 부탁했으니까.
+ELSA: Ursäkta, herr Ek. Är Rehnberg er vän?
+= 실례지만, 엑 씨. 렌베리 씨가 친구세요?
+GUSTAF: Han är en klient. Det är viktigare än en vän i den här branschen.
+= 의뢰인이야. 이 업계에선 친구보다 중요하지.
+ELSA: Det låter ensamt.
+= 외로워 보이네요.
+GUSTAF: Det är ensamt. Du är skarp, flicka.
+= 외롭지. 날카롭구나, 아가씨.
+JOHAN: Och förtalsbrevet till Sanna? Tänker ni verkligen stämma en frilansjournalist?
+= 그리고 산나한테 보낸 명예훼손 편지는요? 정말 프리랜서 기자를 고소하실 거예요?
+GUSTAF: Breven är för att hon ska tänka två gånger. Det är vad brev är till för.
+= 그 편지는 두 번 생각하게 하려는 거야. 편지란 원래 그러라고 있는 거지.
+JOHAN: Hon har redan tänkt två gånger. Hon tänker hela tiden. Hon kontrollerar varje siffra.
+= 그 사람은 이미 두 번 생각했어요. 항상 생각해요. 숫자 하나하나 확인하고요.
+GUSTAF: Då vet hon vad hon riskerar.
+= 그럼 뭘 걸고 있는지 알겠지.
+
+# 절정 — FAR OCH ADVOKAT
+GUSTAF: Johan. Sätt dig. Jag vill säga något. Som din far. Inte som advokat.
+= 요한. 앉아라. 할 말이 있다. 아버지로서. 변호사로서가 아니라.
+JOHAN: Kan du skilja på dem?
+= 그 둘을 구분할 수 있으세요?
+GUSTAF: Inte alltid. Men jag försöker nu. Kom tillbaka till byrån. Som delägare. Ditt namn på dörren. Ditt eget. ”Ek & Ek & Wahlgren.”
+= 늘은 아니지. 하지만 지금은 노력하고 있다. 사무소로 돌아와라. 파트너로. 문에 네 이름. 네 이름 그대로. ‘엑 & 엑 & 발그렌.’
+ELSA: …
+= ……
+JOHAN: Och i gengäld?
+= 그 대가로요?
+GUSTAF: Du lämnar Vårberg till hyresgästföreningen. Du låter tidningen skriva vad den vill, utan dig. Och du slutar gräva.
+= 바르베리는 세입자 연합에 맡겨라. 신문은 너 없이 쓰고 싶은 걸 쓰게 두고. 그리고 파는 걸 그만둬.
+JOHAN: ”Gräv inte där du inte vet vad du hittar.”
+= ‘뭐가 나올지 모르는 곳은 파지 마라.’
+GUSTAF: Henrik sa det till dig. Jag sa det till honom. Det är det enda råd jag har gett som jag fortfarande tror på.
+= 헨리크가 너한테 말했지. 내가 헨리크한테 말했고. 내가 한 조언 중에 아직도 믿는 유일한 거다.
+JOHAN: Vad är du rädd för, pappa?
+= 뭐가 무서우세요, 아버지?
+GUSTAF: Jag är sjuttiotvå. Jag är inte rädd för någonting.
+= 난 일흔둘이다. 아무것도 안 무서워.
+ELSA: Ni sa ”jag är inte rädd” för snabbt. Mummu gör likadant när hon har ont.
+= ‘안 무섭다’를 너무 빨리 말씀하셨어요. 무무도 아플 때 똑같이 해요.
+GUSTAF: Din mormor är en klok kvinna.
+= 네 할머니는 현명한 분이구나.
+ELSA: Hon har stått i ett hörn för ett enda ord. Hon vet hur rädsla låter.
+= 단어 하나 때문에 구석에 서 있어 본 분이에요. 두려움이 어떤 소리인지 아세요.
+GUSTAF: …Du vet inte vem Rehnberg är, Johan. Han är inte en man som förlorar. Och de han jobbar med är inte… svenska fastighetsägare.
+= …넌 렌베리가 누군지 몰라, 요한. 그 사람은 지는 사람이 아니다. 그리고 그 사람과 일하는 자들은… 스웨덴 부동산 소유주가 아니야.
+JOHAN: Vilka är de?
+= 누군데요?
+GUSTAF: Det kan jag inte säga. Tystnadsplikt. Du vet.
+= 그건 말할 수 없다. 비밀 유지 의무. 알잖아.
+JOHAN: Och om du inte hade tystnadsplikt?
+= 비밀 유지 의무가 없다면요?
+GUSTAF: Då skulle jag säga: ta hand om din praktikant. Och om din vän med kaféet.
+= 그럼 이렇게 말하겠지: 네 인턴 잘 챙겨라. 그리고 카페 하는 네 친구도.
+ELSA: Är det ett hot?
+= 그거 협박이에요?
+GUSTAF: Det är en far som är orolig. Det är skillnad. Hoppas jag.
+= 걱정하는 아버지지. 그건 다르다. 그러길 바란다.
+JOHAN: Svaret är nej, pappa. Jag kommer inte tillbaka. Och jag slutar inte gräva. Men jag gräver bara där jag har rätt att gräva.
+= 대답은 ‘아니요’예요, 아버지. 돌아가지 않을 거예요. 그리고 파는 것도 안 멈춰요. 하지만 내가 팔 권리가 있는 곳만 팔 거예요.
+GUSTAF: Du är som din mamma.
+= 넌 네 엄마를 닮았구나.
+JOHAN: Det är det finaste du har sagt till mig.
+= 그게 아버지가 저한테 하신 말 중에 가장 좋은 말이에요.
+GUSTAF: Det var inte menat som en komplimang.
+= 칭찬으로 한 말은 아니었다.
+JOHAN: Jag vet. Men jag tar det som en.
+= 알아요. 그래도 칭찬으로 받을게요.
+GUSTAF: Hälsa på henne. Hon frågar efter dig varje söndag.
+= 엄마한테 들러라. 일요일마다 너를 찾는다.
+JOHAN: Jag ringer henne i kväll.
+= 오늘 밤에 전화할게요.
+
+# 마무리 — ANSVARIG UTGIVARE
+ELSA: Johan… mår du bra?
+= 요한… 괜찮아요?
+JOHAN: Nej. Men jag mår bättre än om jag hade sagt ja.
+= 아니. 하지만 ‘네’라고 했을 때보다는 나아.
+ANTON: Välkommen tillbaka. Vad sa han?
+= 다시 온 거 환영해. 뭐라고 하셨어?
+ELSA: Han erbjöd Johan att bli delägare. Med hans namn på dörren. Om han slutade gräva.
+= 요한한테 파트너 자리를 제안하셨어요. 문에 이름 걸고. 파는 걸 그만두면.
+MAJA: Och?
+= 그래서?
+JOHAN: Jag sa nej. Och han sa att jag ska ta hand om Elsa och Biggan.
+= 거절했어. 그리고 아버지는 엘사랑 비간을 잘 챙기라고 하셨어.
+BIGGAN: Mig? Jag har tagit hand om mig själv sedan 1992.
+= 나? 난 1992년부터 나 자신을 챙겨 왔어.
+MAJA: Och vi tar hand om dig ändå. Regel nio.
+= 그래도 우리가 챙길 거예요. 규칙 9번.
+BIGGAN: Det finns ingen regel nio.
+= 규칙 9번 같은 건 없어.
+MAJA: Nu finns det.
+= 이제 있어요.
+OXENSTIERNA: Och nu har ni en kansler som vaktar, fru Lund.
+= 그리고 이제 보초 서는 재상도 있잖소, 룬드 부인.
+SANNA: Jag har pratat med Karin. Vår ansvariga utgivare. Hon har läst breven.
+= 카린이랑 얘기했어요. 우리 책임 편집인. 편지 읽었대요.
+WÄGNER: Och?
+= 그래서요?
+SANNA: Hon sa: ”Om de skickar två brev med bud klockan sju på morgonen, då är det en historia.” Hon vill publicera. Om varje siffra stämmer.
+= 이렇게 말했어요: ‘아침 일곱 시에 퀵으로 편지 두 통을 보냈다면, 그건 이야기가 있는 거다.’ 공개하고 싶대요. 숫자가 전부 맞으면.
+ELSA: Hon låter som Biggan.
+= 비간처럼 말하네요.
+MAJA: Varje siffra stämmer. Jag har kontrollerat dem tre gånger. Jag gör det en fjärde i natt.
+= 숫자는 전부 맞아. 세 번 확인했어. 오늘 밤 네 번째로 할게.
+WÄGNER: Det var så det kändes 1912. När vi skrev om rösträtten och fick hotbrev. Man blir inte modig av att inte vara rädd. Man blir modig av att skriva ändå.
+= 1912년에 그런 기분이었어요. 우리가 참정권에 대해 쓰고 협박 편지를 받았을 때. 두렵지 않아서 용감해지는 게 아니에요. 그래도 써서 용감해지는 거죠.
+ELSA: Johan. Din pappa sa att Rehnbergs partner inte är ”svenska fastighetsägare”. Vad betyder det?
+= 요한. 아버지가 렌베리의 파트너들이 ‘스웨덴 부동산 소유주’가 아니라고 하셨잖아요. 그게 무슨 뜻이에요?
+JOHAN: Jag vet inte. Men jag vet var vi kan leta. I fakturorna. Lundgrens fakturor.
+= 몰라. 하지만 어디서 찾아야 할지는 알아. 청구서에서. 룬드그렌의 청구서.
+MAJA: Tolv miljoner för en tvättstuga.
+= 세탁실 하나에 1,200만.
+ANTON: Och Farid jobbade för Lundgren. I två år. Han vet vilka byggen som fanns. Och vilka som inte fanns.
+= 그리고 파리드가 룬드그렌에서 일했잖아. 2년 동안. 어떤 공사가 있었고 어떤 공사가 없었는지 알아.
+BIGGAN: Då ringer jag Farid. Han kommer om jag lovar honom julmust. Även i mars.
+= 그럼 내가 파리드한테 전화할게. 율무스트 준다고 하면 올 거야. 3월이라도.
+NEXT: 3부 9화 — «Maja skriver»(마야가 쓴다) — Maja가 2018년의 서명을 회계사 감독청에 스스로 신고하기로 한다. 동료들의 반응이 갈린다 — 보호하려는 사람과 등을 미는 사람.
