@@ -1,0 +1,159 @@
+#nr: 71
+#part: 4부 Winter (겨울)
+#title: Der letzte Abend vor dem Angebot
+#ko: 제안 전날 밤 · 반대표의 품격
+#level: B2~C1
+#setting: 3월 17일 수요일, 기한 하루 전. 크나이페 „Zur Ecke"에서 첫 정기 외 조합원 총회(außerordentliche Mitgliederversammlung)가 열린다. 안건은 하나. 노르트베르트와의 합의(9만 유로를 내는 대신 소송 취하와 모든 청구 포기)를 받아들일 것인가. 자금은 모였다. 하지만 감사회의 레만 부인은 반대 연설을 하겠다고 미리 알린다. '법적으로 깔끔한 협박'에 돈을 내면 다음 집에서 또 그럴 것이라고. 조합원 서른다섯 명, 비밀 투표, 한 사람에 한 표. 그리고 표결 뒤, 이사회는 내일 아침 보낼 편지에 서명한다. 표현 초점: 찬반 연설, 반대 의견 존중하기, 원칙과 실리의 논쟁, 결과 수용의 화법.
+#cast: Frau Schulze | 잉그리트 슐체 · 62세, 감사회
+#cast: Jana | 야나 코발스키 · 34세, 이사
+#cast: Frau Lehmann | 카트야 레만 · 52세, 감사회
+#cast: Kalle | 칼레 코발스키 · 58세, 이사
+#cast: Jannik | 야니크 후버 · 25세, 총회 의장
+#cast: Herr Brückner | 위르겐 브뤼크너 · 58세, 협동조합 변호사
+#cast: Tobi | 토비 피셔 · 31세
+#cast: Hüseyin | 휘세인 이을드즈 · 65세
+#cast: Derya | 데르야 이을드즈 · 40세, 이사
+#cast: Herr Ahrens | 요나스 아렌스 · 30대, 투자 조합원
+#cast: Herr Pietsch | 귄터 피치 · 71세, 감사회
+#cast: Edith | 에디트 크뤼거 · 83세
+#cast: Can | 잔 이을드즈 · 10세, 명예 회원
+#cast: Bine | 비네 로렌츠 · 45세
+#cast: Miriam | 미리암 슈타인 · 33세, 음악 교사
+#cast: Kofi | 코피 멘사 · 35세, 구급대원
+#read: 반대 연설(레만 부인): 감정을 섞지 않되 단호하게. 원칙을 말할 때 문장이 짧아진다. „Ich bin dagegen. Nicht gegen euch. Gegen das Prinzip."
+#read: 찬반의 대구: „Wer zahlt, belohnt. Wer nicht zahlt, riskiert." — 앞뒤 구조를 똑같이 맞추어 대비를 살린다.
+#read: 결과 수용: „Ich akzeptiere das Ergebnis." „Ich bin überstimmt worden. Und ich bleibe dabei." — 패배를 말할 때도 목소리를 낮추지 않는다.
+#read: Mitgliederversammlung [mɪtˈɡliːdɐfɛɐ̯ˌzamlʊŋ], Vergleichsvereinbarung [fɛɐ̯ˈɡlaɪ̯çsfɛɐ̯ˌʔaɪ̯nbaːʁʊŋ], Stimmzettel [ˈʃtɪmˌtsɛtl̩], überstimmt [ˌyːbɐˈʃtɪmt].
+#note: 협동조합 총회의 종류: ordentliche Mitgliederversammlung(정기 총회, 보통 1년에 한 번, 결산 승인) / außerordentliche Mitgliederversammlung(임시 총회, 중요한 결정이 급할 때 이사회나 조합원 10%의 요구로 소집). 정관이 정한 기한 전에 서면으로 소집해야 한다.
+#note: 원칙과 실리: das Prinzip (원칙) vs. der Pragmatismus (실용주의) / Aus Prinzip … (원칙상) / Unterm Strich … (결국, 따져 보면) / Der Zweck heiligt nicht die Mittel. (목적이 수단을 정당화하지 않는다) / Das kleinere Übel (차악)
+#note: 반대 의견 존중: Ich respektiere deine Meinung, auch wenn ich sie nicht teile. / Das ist ein wichtiger Einwand. / Gut, dass du das sagst. / Wir brauchen auch die Gegenstimmen. / Eine Gegenstimme ist kein Verrat. (반대표는 배신이 아니다)
+#note: 합의서 구성: Klagerücknahme (소송 취하), Verzicht auf weitere Ansprüche (추가 청구 포기), Zahlungsfrist (지급 기한), Kostenaufhebung (각자 비용 부담), Verschwiegenheitsklausel (비밀 유지 조항) — 브뤼크너는 비밀 유지 조항을 넣지 않았다. 협동조합은 공개적이어야 하므로.
+## Nachmittag, die Vorbereitung | 오후, 준비
+Frau Schulze: Tagesordnung. Ein einziger Punkt. „Beschluss über die Annahme der Vergleichsvereinbarung mit der Nordwert Immobilien Invest GmbH." Einladung fristgerecht verschickt. Am dritten März. Vierzehn Tage. Wie es die Satzung verlangt. Paragraf vierundzwanzig. || 안건. 단 하나. „노르트베르트 이모빌리엔 인베스트 유한회사와의 합의안 수락에 관한 의결." 소집 통지는 기한에 맞춰 발송. 3월 3일에요. 14일 전. 정관이 요구하는 대로요. 제24조.
+Jana: Am dritten März? Da wussten wir noch nicht, dass es ein Angebot über neunzig gibt. || 3월 3일에요? 그땐 9만짜리 제안이 있는지도 몰랐잖아요.
+Frau Schulze: Ich habe „über die Annahme einer Vergleichsvereinbarung" geschrieben. Ohne Zahl. Man lädt immer ein, bevor man weiß, worüber man entscheidet. Sonst ist es zu spät. Das ist die einzige Möglichkeit, Fristen einzuhalten. || ‚합의안 수락에 관하여'라고 썼어요. 숫자 없이요. 무엇을 결정할지 알기 전에 소집하는 거예요, 늘. 안 그러면 너무 늦어요. 그게 기한을 지키는 유일한 방법이에요.
+Kalle: Ingrid. Sie sind gefährlich. Positiv gefährlich. || 잉그리트. 부인은 위험해요. 좋은 쪽으로 위험해요.
+Frau Lehmann: Kann ich kurz mit dem Vorstand sprechen? Bevor es anfängt? Ich will etwas ankündigen. Damit niemand überrascht ist. || 시작하기 전에 이사회랑 잠깐 얘기할 수 있을까요? 미리 알려 드릴 게 있어요. 아무도 놀라지 않게요.
+Derya: Natürlich, Katja. Setz dich. Kaffee? || 물론이죠, 카트야. 앉아요. 커피요?
+Frau Lehmann: Nein, danke. Ich bin heute schon zu wach. Ich werde heute Abend gegen die Vereinbarung sprechen. Und dagegen stimmen. Ich wollte, dass ihr es von mir hört. Nicht erst in der Versammlung. || 아니요, 괜찮아요. 오늘은 벌써 너무 정신이 말똥말똥해요. 오늘 저녁에 합의안에 반대하는 발언을 할 거예요. 그리고 반대표를 던질 거고요. 총회에서 처음 듣는 게 아니라 나한테서 먼저 듣길 바랐어요.
+Kalle: Katja. Wir haben das Geld. Hundertsiebzig. Mit der Stiftung. Mit Uschis Ostsee. Mit Brandons Matching. Warum? || 카트야. 돈은 있어. 17만. 재단까지 해서. 우시의 발트해까지. 브랜던의 매칭까지. 왜?
+Frau Lehmann: Weil wir das Geld haben. Gerade deshalb. Wenn wir es nicht hätten, würde ich nicht dagegen sein. Dann gäbe es keine Wahl. Aber wir haben eine Wahl. Und ich finde, wir wählen falsch. || 돈이 있으니까요. 바로 그래서예요. 돈이 없었다면 반대 안 했을 거예요. 그럼 선택의 여지가 없잖아요. 그런데 우리한텐 선택지가 있어요. 그리고 나는 우리가 잘못 고르고 있다고 생각해요.
+Jana: Und wenn die Mehrheit anders stimmt? || 그런데 다수가 다르게 투표하면요?
+Frau Lehmann: Dann akzeptiere ich das Ergebnis. Ich bin im Aufsichtsrat. Ich kontrolliere, dass Beschlüsse umgesetzt werden. Auch die, gegen die ich gestimmt habe. Gerade die. || 그럼 결과를 받아들일 거예요. 나 감사회잖아요. 의결 사항이 실행되는지 감독하는 게 내 일이에요. 내가 반대한 것까지도요. 바로 그런 것일수록요.
+Kalle: … Danke, Katja. Dass du es vorher sagst. Det ist anständig. || …고마워, 카트야. 미리 말해 줘서. 그건 점잖은 거야.
+Frau Lehmann: Anständig ist nicht erblich. Hat Ingrid gesagt. Man muss es jedes Mal neu machen. || 점잖음은 유전이 안 돼요. 잉그리트가 그랬잖아요. 매번 새로 해야 하는 거예요.
+Frau Schulze: Das habe ich gesagt. Im Dezember. Ich bin beeindruckt, dass Sie es sich gemerkt haben, Frau Lehmann. || 내가 그랬죠. 12월에요. 그걸 기억하고 있다니 감동이네요, 레만 부인.
+Frau Lehmann: Ich merke mir alles, was Sie sagen, Ingrid. Für den Fall, dass ich einmal gegen Sie argumentieren muss. || 잉그리트 말은 전부 기억해요. 언젠가 잉그리트한테 반박해야 할 때를 대비해서요.
+## Im Hof, unter der Kastanie | 안마당, 밤나무 아래에서
+Can: Edith, warum sitzt du im Hof? Es ist kalt. Die Versammlung fängt in einer Stunde an. || 에디트 할머니, 왜 안마당에 앉아 계세요? 추워요. 총회 한 시간 뒤에 시작해요.
+Edith: Ich gucke die Kastanie an. Von unten. Wie aus dem Erdgeschoss. Ich übe. Und ich überlege. || 밤나무 보고 있어. 아래에서. 1층에서 보듯이. 연습하는 거야. 그리고 생각하는 중이고.
+Can: Was überlegst du? Du weißt doch, wie du stimmst. || 뭘 생각하세요? 어떻게 투표할지 아시잖아요.
+Edith: Ich weiß, wie ich stimme. Ich überlege, wie ich es Katja sage. Ohne dass sie sich allein fühlt. Wer gegen alle stimmt, fühlt sich allein. Das weiß ich vom Betriebsrat. Neunzehnhundertneunundachtzig habe ich als Einzige gegen eine Lohnvereinbarung gestimmt. Ich hatte recht. Aber ich war drei Wochen allein in der Kantine. || 어떻게 투표할진 알아. 카트야한테 어떻게 말할지 생각하는 거야. 혼자라고 느끼지 않게. 모두에 맞서 투표하는 사람은 외로워지거든. 노사협의회에서 배웠지. 1989년에 임금 협약에 나 혼자 반대표를 던졌어. 내가 옳았어. 그런데 삼 주 동안 구내식당에서 혼자 밥 먹었지.
+Can: Drei Wochen? Warum? || 삼 주나요? 왜요?
+Edith: Weil die anderen dachten, ich halte mich für etwas Besseres. Das stimmte nicht. Ich hatte nur nachgerechnet. Wie Ingrid. Das ist manchmal schlimmer, als sich für etwas Besseres zu halten. || 다른 사람들이 내가 잘난 척한다고 생각했으니까. 그건 아니었어. 그냥 계산을 다시 해 봤을 뿐이야. 잉그리트처럼. 그게 가끔은 잘난 척하는 것보다 더 미움받아.
+Can: Dann setze ich mich heute neben Frau Lehmann. Damit sie nicht allein ist. Ich darf ja nicht abstimmen. Ich darf mich nur hinsetzen. || 그럼 오늘 저는 레만 아주머니 옆에 앉을게요. 혼자가 아니게요. 저는 투표도 못 하잖아요. 앉을 수만 있어요.
+Edith: Das ist eine gute Idee. Ein Ehrenmitglied ohne Stimmrecht neben der Gegenstimme. Das ist Politik. Die beste Sorte. || 좋은 생각이다. 의결권 없는 명예 회원이 반대표 옆에 앉는 거. 그게 정치야. 제일 좋은 종류의.
+Frau Lehmann: Can? Edith? Ihr sitzt hier draußen? Ich habe euch vom Fenster aus gesehen. Meine Kinder auch. Sie winken. || 잔? 에디트? 밖에 앉아 있었어요? 창문에서 봤어요. 우리 애들도요. 손 흔들고 있어요.
+Edith: Ich winke zurück. Jeden Morgen. Seit zwölf Jahren. Katja, setzen Sie sich. Fünf Minuten. Unter die Kastanie. || 나도 손 흔들어 줘요. 매일 아침. 십이 년째요. 카트야, 앉아요. 오 분만요. 밤나무 아래에요.
+Frau Lehmann: Ich weiß, was Sie sagen wollen. Sie wollen mich überzeugen. Dafür zu stimmen. || 무슨 말 하려는지 알아요. 나를 설득하려는 거죠. 찬성하라고요.
+Edith: Nein. Ich will Ihnen sagen, dass Sie dagegen stimmen sollen. Wenn Sie es so meinen. Jemand muss es tun. Und Sie sind die Einzige, die es so tun kann, dass es niemandem wehtut. || 아니요. 반대하라고 말하려는 거예요. 진심이라면요. 누군가는 해야 해요. 그리고 아무도 다치지 않게 그럴 수 있는 사람은 카트야뿐이에요.
+Frau Lehmann: … Das hatte ich nicht erwartet. || …그건 예상 못 했네요.
+Edith: Ich habe neunzehnhundertneunundachtzig als Einzige dagegen gestimmt. Ich weiß, wie die Kantine sich anfühlt. Can setzt sich heute neben Sie. Das hat er selbst entschieden. || 1989년에 나 혼자 반대표를 던졌었어요. 그 구내식당이 어떤 기분인지 알아요. 잔이 오늘 카트야 옆에 앉을 거예요. 자기가 그렇게 정했어요.
+Frau Lehmann: Neben mir? Can? Warum? || 내 옆에요? 잔이? 왜?
+Can: Weil Sie die Einzige sind, die im Oktober „Ich auch" gesagt hat. Als ich Ehrenmitglied werden wollte. Alle haben gelacht. Sie nicht. Sie haben gesagt: „Ein Kind, das zuhört, ist mehr wert als drei Erwachsene, die reden." || 10월에 제가 명예 회원 되고 싶다고 했을 때 ‚나도 찬성'이라고 해 준 사람이 아주머니뿐이었으니까요. 다들 웃었는데 아주머니는 안 웃으셨어요. 그러셨잖아요. „듣는 아이 하나가 떠드는 어른 셋보다 낫다."
+Frau Lehmann: Das habe ich gesagt? || 내가 그런 말을 했어?
+Can: Ich habe es aufgeschrieben. Für mein Archiv. Mit Datum. Neunundzwanzigster September. || 제가 적어 놨어요. 제 기록 보관소에요. 날짜까지요. 9월 29일.
+## Die Eröffnung | 개회
+Jannik: Liebe Mitglieder. Es ist neunzehn Uhr null drei. Ich eröffne die außerordentliche Mitgliederversammlung der Eckhaus eG. Die erste seit der Eintragung. Anwesend sind dreiunddreißig Mitglieder. Zwei haben eine Vollmacht erteilt. Damit sind fünfunddreißig Stimmen vertreten. Die Versammlung ist beschlussfähig. || 사랑하는 조합원 여러분. 지금은 열아홉 시 삼 분입니다. Eckhaus eG 임시 조합원 총회를 개회합니다. 등기 이후 첫 총회입니다. 출석 조합원 서른세 명. 두 명이 위임장을 냈습니다. 그래서 서른다섯 표가 대표됩니다. 총회는 의결 정족수를 충족합니다.
+Frau Schulze: Neunzehn Uhr null drei. Ich protokolliere. Ausnahmsweise. Weil es die Satzung verlangt. Nicht, weil ich will. || 열아홉 시 삼 분. 기록할게요. 예외적으로요. 정관이 요구하니까요. 내가 원해서가 아니라.
+Jannik: Wer hat die Vollmachten erteilt? || 누가 위임장을 냈습니까?
+Frau Schulze: Frau Huber aus Augsburg. An ihren Sohn. Und Herr Brenner aus Leipzig. An Frau Krüger. Herr Brenner hat geschrieben: „Edith führt. Auch bei Abstimmungen." || 아우크스부르크의 후버 부인이요. 아드님한테요. 그리고 라이프치히의 브레너 씨. 크뤼거 부인한테요. 브레너 씨가 이렇게 썼어요. „에디트 할머니가 리드하세요. 투표에서도요."
+Edith: Max hat mir seine Stimme gegeben. Und er weiß nicht, wie ich stimme. Das ist Vertrauen. Oder Leichtsinn. || 막스가 나한테 자기 표를 줬어요. 그런데 내가 어떻게 투표할지 몰라요. 그건 신뢰예요. 아니면 경솔함이거나.
+Jannik: Ich bitte Herrn Brückner, die Vereinbarung zu erläutern. Kurz. Bitte kurz. || 브뤼크너 변호사님께 합의안 설명을 부탁드리겠습니다. 짧게요. 부디 짧게요.
+Herr Brückner: Fünf Punkte. Erstens: Nordwert nimmt die Klage gegen den Vorkaufsbescheid zurück. Innerhalb von vierzehn Tagen nach Zahlungseingang. Zweitens: Nordwert verzichtet auf alle weiteren Ansprüche. Gegen den Bezirk, gegen die Erben, gegen die Genossenschaft. Für immer. || 다섯 가지입니다. 첫째, 노르트베르트는 선매권 결정에 대한 소송을 취하합니다. 대금 입금 후 14일 이내에요. 둘째, 노르트베르트는 그 밖의 모든 청구를 포기합니다. 구청, 상속인, 협동조합에 대해서요. 영원히요.
+Kalle: Für immer. Das Wort gefällt mir. Weiter. || 영원히라. 그 단어 마음에 드네. 계속하세요.
+Herr Brückner: Drittens: Die Genossenschaft zahlt neunzigtausend Euro. Als Ausgleich für nachgewiesene externe Aufwendungen. Nicht als Schadensersatz. Das Wort ist wichtig. Viertens: Jede Seite trägt ihre eigenen Anwaltskosten. Fünftens: Es gibt keine Verschwiegenheitsklausel. Herr Falk wollte eine. Ich habe sie gestrichen. Diese Genossenschaft redet offen. || 셋째, 협동조합은 9만 유로를 냅니다. 증명된 외부 지출 비용에 대한 조정금으로요. 손해 배상으로가 아니라. 그 단어가 중요합니다. 넷째, 각자 자기 변호사 비용을 부담합니다. 다섯째, 비밀 유지 조항은 없습니다. 팔크 씨가 원했지만 제가 지웠습니다. 이 협동조합은 공개적으로 말하니까요.
+Can: Was heißt Verschwiegenheitsklausel? || 비밀 유지 조항이 뭐예요?
+Herr Brückner: Dass man nicht darüber reden darf. Hätte es die gegeben, hätte Frau Schulze nie erzählen dürfen, dass Nordwert Champagner abrechnen wollte. || 그 일에 대해 말하면 안 된다는 거야. 그게 있었으면 슐체 부인은 노르트베르트가 샴페인 값을 청구하려 했다는 걸 절대 얘기 못 했겠지.
+Can: Dann ist es gut, dass es die nicht gibt. Die Champagner-Geschichte ist die beste. || 그럼 없는 게 잘된 거네요. 샴페인 이야기가 제일 재밌는데.
+Jannik: Danke, Herr Brückner. Ich eröffne die Aussprache. Es hat sich zuerst Frau Lehmann gemeldet. Für eine Gegenrede. Bitte, Frau Lehmann. || 감사합니다, 브뤼크너 변호사님. 토론을 시작하겠습니다. 레만 부인이 먼저 반대 발언을 신청하셨습니다. 말씀하세요, 레만 부인.
+## Die Gegenrede | 반대 발언
+Frau Lehmann: Danke. Ich mache es kurz. Ich bin dagegen. Nicht gegen euch. Nicht gegen den Vorstand. Gegen das Prinzip. || 고마워요. 짧게 할게요. 나는 반대해요. 여러분한테가 아니라. 이사회한테가 아니라. 원칙에 반대하는 거예요.
+Bine: Pst. Alle still. Katja redet. || 쉿. 다들 조용. 카트야 말한다.
+Frau Lehmann: Nordwert hat ein Haus gekauft, in dem Menschen wohnen. Nordwert wollte uns rausmodernisieren. Nordwert hat einen Hausmeister ersetzt durch eine App. Nordwert hat Champagner getrunken, als wir nicht wussten, dass wir verkauft sind. Und als Nordwert verloren hat, hat Nordwert geklagt. Nicht, um zu gewinnen. Sondern, um Zeit zu verkaufen. Und wir kaufen sie. Für neunzigtausend. || 노르트베르트는 사람들이 사는 집을 샀어요. 노르트베르트는 현대화를 핑계로 우리를 쫓아내려 했어요. 노르트베르트는 관리인을 앱으로 바꿨어요. 노르트베르트는 우리가 팔린 줄도 모를 때 샴페인을 마셨어요. 그리고 노르트베르트는 지자 소송을 냈어요. 이기려고가 아니라. 시간을 팔려고요. 그리고 우리는 그걸 사요. 9만 유로에요.
+Kalle: … Det stimmt. Alles. Leider. || …다 맞는 말이야. 전부. 안타깝게도.
+Frau Lehmann: Wer zahlt, belohnt. Das nächste Haus, das Nordwert kauft, wird dieselbe Klage bekommen. Und die nächste Genossenschaft wird dieselbe Rechnung bekommen. Und sie wird sich auf uns berufen. „Die Eckhaus eG hat auch bezahlt." Das will ich nicht in unserer Geschichte. || 돈을 내는 사람은 상을 주는 거예요. 노르트베르트가 사는 다음 집도 똑같은 소송을 당할 거예요. 그리고 다음 협동조합도 똑같은 청구서를 받을 거고요. 그리고 그쪽은 우리를 근거로 대겠죠. „Eckhaus eG도 냈잖아요." 그걸 우리 역사에 남기고 싶지 않아요.
+Tobi: Das ist ein starkes Argument. Ich hasse es. || 그거 강한 논거예요. 그래서 싫어요.
+Frau Lehmann: Ich weiß, was dagegen spricht. Zwanzig Prozent. Das Risiko. Die Bank. Edith. Ich habe es mir jeden Abend überlegt. Und ich bleibe dabei. Ich sage nicht, dass ihr dumm seid, wenn ihr dafür stimmt. Ich sage nur: Einer muss dagegen sein. Damit im Protokoll steht, dass es nicht selbstverständlich war. Danke. || 반대 논거가 뭔지 알아요. 20퍼센트. 위험. 은행. 에디트. 매일 저녁 생각해 봤어요. 그래도 내 생각은 그대로예요. 찬성한다고 여러분이 바보라는 게 아니에요. 그냥 이 말을 하고 싶어요. 누군가는 반대해야 해요. 그게 당연한 일이 아니었다는 게 회의록에 남도록요. 고마워요.
+Jannik: Danke, Frau Lehmann. Das war … sehr klar. Wer möchte als Nächstes? Herr Fischer. || 감사합니다, 레만 부인. 아주… 명확했습니다. 다음은 누구십니까? 피셔 씨.
+Tobi: Ich bin dafür. Und ich habe Frau Lehmann zugehört. Und sie hat recht. Mit allem. Aber ich habe eine Werkstatt. Mein Vertrag läuft in zwei Wochen aus. Am einunddreißigsten März. Wenn die Klage weitergeht, gehört das Haus im April niemandem. Und mein Vermieter ist dann … wer? Die Erben? Nordwert? Der Bezirk? Ich weiß es nicht. Ich habe kein Prinzip, Frau Lehmann. Ich habe einen Papagei aus Lego und eine Werkbank. Für die stimme ich. || 저는 찬성이에요. 그리고 레만 부인 말을 들었어요. 그리고 다 맞는 말이에요. 전부요. 그런데 저한텐 공방이 있어요. 제 계약은 2주 뒤에 끝나요. 3월 31일에요. 소송이 계속되면 4월엔 이 집이 아무의 것도 아니에요. 그럼 제 임대인은… 누구죠? 상속인? 노르트베르트? 구청? 모르겠어요. 저한텐 원칙이 없어요, 레만 부인. 레고 앵무새 하나랑 작업대 하나가 있을 뿐이죠. 그걸 위해 찬성할 거예요.
+Hüseyin: Darf ich? Ich habe vierzig Jahre in einer Fabrik gearbeitet. Mit einem Betriebsrat. Wir haben oft Verträge unterschrieben, die nicht gerecht waren. Weil die Alternative schlimmer war. Das ist keine Schande. Das ist Verantwortung. Für die, die am Band neben einem stehen. Ich stimme dafür. Für Edith. Und für Tobi. Und für meinen Enkel, der in diesem Haus aufwächst. || 제가 해도 될까요? 저는 사십 년 동안 공장에서 일했어요. 노사협의회가 있는 공장에서요. 공정하지 않은 계약에도 자주 서명했어요. 대안이 더 나빴으니까요. 그건 수치가 아니에요. 그건 책임이에요. 컨베이어 벨트 옆에 같이 서 있는 사람들에 대한요. 저는 찬성할 거예요. 에디트를 위해서. 그리고 토비를 위해서. 그리고 이 집에서 자라는 내 손자를 위해서.
+Herr Ahrens: Ich bin investierendes Mitglied. Seit drei Wochen. Ich weiß, dass ich hier am wenigsten zu sagen habe. Aber eine Sache: Ich arbeite in der Wirtschaft. Ich sehe jeden Tag Vergleiche. Dieser ist gut. Neunzig von dreihundertfünfzig. Ohne Verschwiegenheit. Mit öffentlichen Belegen. Das ist kein Lösegeld. Das ist eine öffentliche Niederlage für Nordwert. Mit Quittung. || 저는 투자 조합원이에요. 3주째요. 여기서 제가 제일 할 말이 없는 사람이라는 거 알아요. 그래도 하나만요. 저는 경제 쪽에서 일해요. 매일 합의를 봐요. 이건 좋은 합의예요. 35만 중 9만. 비밀 유지 없이. 공개된 증빙과 함께. 이건 몸값이 아니에요. 이건 노르트베르트의 공개적인 패배예요. 영수증까지 붙은.
+Frau Lehmann: Eine Niederlage mit Quittung. Das ist ein gutes Argument. Ich bleibe trotzdem dagegen. Aber es ist ein gutes Argument. || 영수증 붙은 패배라. 좋은 논거네요. 그래도 나는 반대예요. 하지만 좋은 논거예요.
+Herr Pietsch: Ich bin im Aufsichtsrat. Wie Katja. Und ich stimme anders als Katja. Das darf man. Der Aufsichtsrat ist kein Chor. Katja, du hast recht, dass jemand dagegen sein muss. Und ich bin froh, dass du es bist. Weil du es so sagst, dass niemand sich schämen muss. Weder die, die dafür sind. Noch du. || 나도 감사회야. 카트야처럼. 그리고 나는 카트야랑 다르게 투표할 거야. 그래도 돼. 감사회는 합창단이 아니니까. 카트야, 누군가는 반대해야 한다는 네 말이 맞아. 그리고 그게 너라서 다행이야. 아무도 부끄럽지 않게 말해 주니까. 찬성하는 사람도. 너 자신도.
+Derya: Darf ich als Vorstand noch etwas sagen? Katja, ich will dir etwas versprechen. Wenn wir das tun, schreiben wir es auf. Alles. Die vier Ordner. Die lila Zettel. Die neunzig. Und wir veröffentlichen es. Auf unserer Webseite. Für die nächste Genossenschaft. Damit sie weiß, wie man von dreihundertfünfzig auf neunzig kommt. Damit Nordwert beim nächsten Mal nicht mit dreihundertfünfzig anfängt. Sondern gar nicht. || 이사로서 하나만 더 말해도 될까요? 카트야, 약속할게요. 우리가 이렇게 하면 다 기록할게요. 전부요. 서류철 네 개. 보라색 포스트잇. 9만. 그리고 공개할게요. 우리 웹사이트에요. 다음 협동조합을 위해서요. 35만에서 9만으로 어떻게 내려가는지 알 수 있게요. 그래서 다음엔 노르트베르트가 35만으로 시작하지 않게요. 아예 시작도 못 하게요.
+Frau Lehmann: … Das ist das Erste heute, was meine Meinung fast ändert. Fast. || …그게 오늘 처음으로 내 생각을 거의 바꾸는 말이네요. 거의요.
+## Zehn Minuten Pause | 십 분 휴식
+Miriam: Kofi. Ich weiß nicht, wie ich stimmen soll. Katja hat recht. Und Tobi hat auch recht. Ich bin Musiklehrerin. Ich kann keine Rechnungen lesen. Ich kann nur Akkorde lesen. || 코피. 어떻게 투표해야 할지 모르겠어. 카트야 말이 맞아. 그런데 토비 말도 맞아. 나 음악 선생이잖아. 청구서는 못 읽어. 화음만 읽을 줄 알지.
+Kofi: Dann lies es wie einen Akkord. Was klingt richtig? Was klingt falsch? || 그럼 화음처럼 읽어 봐. 뭐가 맞게 들려? 뭐가 틀리게 들려?
+Miriam: Neunzig für Nordwert klingt falsch. Ein Haus ohne Klage klingt richtig. Zusammen klingt es … wie ein Akkord mit einer falschen Note. Aber man kann trotzdem dazu singen. || 노르트베르트한테 9만은 틀리게 들려. 소송 없는 집은 맞게 들리고. 같이 들으면… 음 하나가 틀린 화음 같아. 그래도 거기 맞춰 노래는 부를 수 있어.
+Kofi: Wir heiraten im April. Am Kanal. Auf einem Boot. Ich will danach in eine Wohnung ziehen, in der wir zwanzig Jahre bleiben können. Mit Kindern. Ich stimme dafür. Für unsere zukünftigen Kinder. Die sind auch nicht stimmberechtigt. || 우리 4월에 결혼하잖아. 운하에서. 배 위에서. 그다음엔 이십 년 살 수 있는 집으로 옮기고 싶어. 아이들이랑. 나는 찬성할 거야. 우리 미래의 아이들을 위해서. 걔들도 의결권이 없잖아.
+Miriam: … Kofi. Das ist das erste Mal, dass du „Kinder" gesagt hast. Im Plural. || …코피. 네가 ‚아이들'이라고 말한 거 처음이야. 복수로.
+Kofi: Ich bin Rettungssanitäter. Ich plane immer für den Plural. || 나 구급대원이잖아. 늘 복수로 계획을 세워.
+Bine: Ick habe mich entschieden. Ick stimme dafür. Aber ick schreibe auf den Zettel daneben: „Mit Bauchschmerzen". Ist das erlaubt? || 나 결정했어. 찬성할 거야. 근데 투표용지 옆에 ‚배 아프지만'이라고 쓸 거야. 그거 되는 거야?
+Frau Schulze: Dann ist der Zettel ungültig, Frau Lorenz. Bauchschmerzen sind keine Stimme. Bauchschmerzen sind eine Diagnose. Sagen Sie sie lieber laut. In der Aussprache. || 그럼 그 투표용지는 무효예요, 로렌츠 씨. 배 아픈 건 표가 아니에요. 진단이죠. 차라리 토론 때 크게 말하세요.
+Bine: Ick sage sie Kalle. Das reicht. Kalle! Ick habe Bauchschmerzen! || 칼레한테 말할게. 그거면 충분해. 칼레! 나 배 아파!
+Herr Ahrens: Darf ich etwas fragen? Als Neuer? Ist das bei euch immer so? So … offen? Bei uns im Büro würde niemand vor allen sagen, dass er Bauchschmerzen hat. || 하나 물어봐도 돼요? 새로 온 사람으로서요? 여기선 늘 이래요? 이렇게… 솔직해요? 우리 사무실에선 아무도 모두 앞에서 배 아프다고 안 해요.
+Tobi: Nur seit einem Jahr. Vorher haben wir uns im Treppenhaus nur gegrüßt. Oder nicht mal das. Dann kam der Brief von Nordwert. Und auf einmal hatten alle Bauchschmerzen. Zusammen. Das verbindet. || 일 년 전부터만요. 그 전엔 계단에서 인사만 했어요. 아니면 그것도 안 했거나. 그러다 노르트베르트 편지가 왔죠. 그러고 나니 갑자기 다들 같이 배가 아팠어요. 그게 사람을 이어 줘요.
+Hüseyin: In der Fabrik war das auch so. Vor einer Tarifrunde hatten alle Bauchschmerzen. Danach haben alle zusammen Döner gegessen. Egal, wie es ausging. || 공장에서도 그랬어요. 임금 협상 전엔 다들 배가 아팠죠. 끝나고 나면 다 같이 케밥을 먹었고요. 결과가 어떻든요.
+Jannik: Die Pause ist vorbei! Bitte wieder Platz nehmen! Frau Krüger hat sich zu Wort gemeldet! || 휴식 끝났습니다! 다시 자리에 앉아 주세요! 크뤼거 부인이 발언 신청하셨습니다!
+## Edith | 에디트
+Jannik: Gibt es noch Wortmeldungen? Frau Krüger. Bitte. Sie haben das Wort. Diesmal offiziell. || 발언 신청 더 있으십니까? 크뤼거 부인. 말씀하세요. 이번엔 공식적으로 발언권 드립니다.
+Edith: Offiziell. Das ist neu für mich. Ich rede sonst immer ohne Rederecht. || 공식적으로라. 그거 나한텐 새롭네요. 나는 늘 발언권 없이 말하거든요.
+Jannik: Bitte, Frau Krüger. Wir haben Zeit. || 말씀하세요, 크뤼거 부인. 시간 있습니다.
+Edith: Katja hat gesagt, einer muss dagegen sein. Damit im Protokoll steht, dass es nicht selbstverständlich war. Ich will etwas dazu sagen. Neunzehnhunderteinundsechzig hat meine Schwester sich entschieden, nicht durch ein Fenster zu springen. Wegen elf Kindern. Sie hat ihr Leben lang gesagt: Es war richtig. Aber sie hat auch gesagt: Es war nicht selbstverständlich. Es hat achtundzwanzig Jahre gekostet. Und es hat sich gelohnt. Beides. || 카트야가 누군가는 반대해야 한다고 했죠. 그게 당연한 일이 아니었다는 게 회의록에 남도록. 거기에 대해 한마디 할게요. 1961년에 우리 언니는 창문으로 뛰어내리지 않기로 했어요. 아이 열한 명 때문에요. 언니는 평생 그게 옳았다고 했어요. 하지만 이렇게도 말했죠. 그게 당연한 일은 아니었다고. 이십팔 년이 들었다고. 그리고 그만한 가치가 있었다고. 둘 다요.
+Can: Elf Kinder. Die kenne ich. Aus dem Brief. || 아이 열한 명. 알아요. 편지에서요.
+Edith: Ich werde dafür stimmen. Mit meiner Stimme. Und mit der von Max. Weil ich im Frühling im Erdgeschoss sitzen will. Auf Günters Hocker. Und nicht in drei Jahren. Vielleicht in drei Jahren nicht mehr. Aber ich will, dass Katjas Stimme im Protokoll steht. Ganz oben. Vor allen anderen. Damit jeder, der es liest, weiß: Es war nicht selbstverständlich. Es hat etwas gekostet. Und eine von uns hat gesagt, dass es zu viel war. Das gehört zur Wahrheit. || 나는 찬성할 거예요. 내 표로요. 그리고 막스 표로도요. 봄에 1층에 앉아 있고 싶으니까요. 귄터 의자에요. 삼 년 뒤가 아니라. 삼 년 뒤엔 어쩌면 더는 없을지도 모르니까요. 그래도 카트야의 표는 회의록에 남았으면 좋겠어요. 맨 위에요. 다른 모든 것보다 먼저. 읽는 사람 누구나 알 수 있게요. 그건 당연한 일이 아니었다고. 대가가 있었다고. 그리고 우리 중 한 사람은 그게 너무 많다고 말했다고. 그것도 진실의 일부예요.
+Frau Lehmann: … Edith. Das ist unfair. Jetzt kann ich nicht mehr böse sein. || …에디트. 그건 불공평해요. 이제 화도 못 내겠잖아요.
+Edith: Das hat Albrecht auch zu Kalle gesagt. Unfair. Am Hermannplatz. Unfair ist manchmal das Freundlichste, was man sagen kann. || 알브레히트도 칼레한테 그렇게 말했대요. 불공평하다고. 헤르만 광장에서요. 불공평하다는 건 때로 할 수 있는 가장 친절한 말이에요.
+Frau Schulze: Ich protokolliere: Frau Krüger beantragt, dass die Gegenrede von Frau Lehmann im Protokoll an erster Stelle steht. Vor dem Ergebnis. Gibt es Widerspruch? … Keiner. So wird es gemacht. || 기록합니다. 크뤼거 부인은 레만 부인의 반대 발언을 회의록 맨 처음에 둘 것을 요청한다. 결과보다 앞에. 이의 있습니까? …없네요. 그렇게 하겠습니다.
+## Die Abstimmung | 표결
+Jannik: Wir stimmen ab. Geheim. Frau Lehmann hat das bei der Gründung so eingeführt. Und wir bleiben dabei. Stimmzettel: Ja, Nein, Enthaltung. Herr Pietsch und Frau Schulze zählen. Frau Lehmann ist Zeugin. || 표결하겠습니다. 비밀 투표로요. 레만 부인이 설립 때 그렇게 정했고. 우리는 그대로 합니다. 투표용지: 찬성, 반대, 기권. 피치 씨와 슐체 부인이 세고. 레만 부인이 입회합니다.
+Bine: Ick bin nervös. Ick weiß, wie ick stimme. Und ick bin trotzdem nervös. Wie bei einem Elfmeter. || 나 떨려. 어떻게 찍을지 아는데도. 그래도 떨려. 승부차기 때처럼.
+Can: Ich darf nicht wählen. Aber ich darf zugucken. Beim Zählen. Wie bei Frau Schulze im Februar. Mit Strichen. || 저는 투표 못 해요. 그래도 개표하는 건 봐도 돼요. 2월에 슐체 아주머니 할 때처럼요. 줄 그어서요.
+Herr Pietsch: Fünfunddreißig Zettel. Alle abgegeben. Ich öffne. Ja. Ja. Ja. Nein. Ja. Ja … || 투표용지 서른다섯 장. 다 들어왔어. 열게. 찬성. 찬성. 찬성. 반대. 찬성. 찬성…
+Frau Schulze: Ich zähle mit. In Fünfer-Bündeln. Wie Herr Yıldız. || 같이 셀게요. 다섯 개씩 묶어서. 이을드즈 씨처럼요.
+Herr Pietsch: … Ja. Enthaltung. Ja. Nein. Ja. Ja. Der letzte: Ja. || …찬성. 기권. 찬성. 반대. 찬성. 찬성. 마지막: 찬성.
+Frau Schulze: Ergebnis. Neunzehn Uhr fünfundfünfzig. Ja: neunundzwanzig. Nein: vier. Enthaltung: zwei. Die Vereinbarung ist mit großer Mehrheit angenommen. || 결과. 열아홉 시 오십오 분. 찬성 스물아홉. 반대 넷. 기권 둘. 합의안은 압도적 다수로 채택됐습니다.
+Kalle: Vier Nein. Nicht nur Katja. || 반대 넷. 카트야만이 아니네.
+Frau Lehmann: Ich habe nicht geworben. Ehrlich. Das waren vier eigene Entscheidungen. Und das ist gut so. Eine Genossenschaft mit neunundzwanzig zu vier ist gesünder als eine mit fünfunddreißig zu null. || 나는 표를 모으러 다니지 않았어요. 정말이에요. 그건 각자 스스로 내린 결정 네 개예요. 그리고 그게 좋은 거예요. 29 대 4인 협동조합이 35 대 0인 협동조합보다 건강해요.
+Jannik: Frau Lehmann, möchten Sie etwas sagen? Zum Ergebnis? || 레만 부인, 결과에 대해 하실 말씀 있으십니까?
+Frau Lehmann: Ja. Ich bin überstimmt worden. Und ich bleibe bei meiner Meinung. Und ich akzeptiere das Ergebnis. Alle drei Sätze sind wahr. Und ab morgen kontrolliere ich, dass die neunzigtausend korrekt überwiesen werden. Und dass Nordwert die Klage wirklich zurücknimmt. Innerhalb von vierzehn Tagen. Nicht fünfzehn. || 네. 나는 표결에서 졌어요. 그리고 내 생각은 그대로예요. 그리고 결과를 받아들여요. 세 문장 다 진실이에요. 그리고 내일부터 9만이 정확하게 송금되는지 감독할 거예요. 그리고 노르트베르트가 정말로 소송을 취하하는지도요. 14일 안에요. 15일 말고요.
+Can: Neunundzwanzig zu vier! Edith! Neunundzwanzig! Das ist … das ist mehr als achtzig Prozent! Das ist wie die Chancen vor Gericht! Nur umgekehrt! || 29 대 4! 에디트 할머니! 스물아홉이요! 그건… 80퍼센트가 넘어요! 법정에서 이길 확률이랑 같아요! 거꾸로일 뿐이에요!
+Edith: Dreiundachtzig Prozent, Can. Genau wie ich. Dreiundachtzig. || 83퍼센트야, 잔. 딱 나만큼. 여든셋.
+## Nach Mitternacht: die Unterschrift | 자정 넘어: 서명
+Herr Brückner: Hier ist das Schreiben. An Kanzlei Falk und Partner, Hamburg. „Annahme der Vergleichsvereinbarung vom neunten März." Mit dem Beschluss der Mitgliederversammlung als Anlage. Der Vorstand unterschreibt. Alle drei. Morgen früh geht es per Bote und per Mail raus. Vor Fristablauf. || 여기 서신이에요. 함부르크 팔크 앤드 파트너 법률 사무소 앞. „3월 9일 자 합의안 수락." 조합원 총회 의결서를 첨부했어요. 이사회가 서명하세요. 세 분 다요. 내일 아침에 인편과 메일로 보낼게요. 기한 만료 전에요.
+Kalle: Ick unterschreibe. Karl Kowalski. Mit gewaschenen Händen. Ingrid hat kontrolliert. || 서명할게요. 카를 코발스키. 씻은 손으로요. 잉그리트가 검사했어요.
+Derya: Derya Yıldız. Vorstand. || 데르야 이을드즈. 이사.
+Jana: Jana Kowalski. Vorstand. Finanzen. Es ist zwölf Uhr vier. Der achtzehnte März. Der letzte Tag. || 야나 코발스키. 이사. 재무 담당. 열두 시 사 분이에요. 3월 18일이에요. 마지막 날이요.
+Frau Schulze: Und jetzt mein Stempel. „Ausgegangen am." Ich habe einen zweiten gekauft. Auf dem Flohmarkt. Am Maybachufer. Passend zum ersten. Für Briefe, die gehen. Nicht nur für Briefe, die kommen. || 그리고 이제 내 도장이요. „발송일." 두 번째 걸 샀어요. 벼룩시장에서요. 마이바흐우퍼에서요. 첫 번째 거랑 짝으로요. 들어오는 편지만이 아니라 나가는 편지를 위해서요.
+Frau Lehmann: Darf ich auch unterschreiben? Nicht als Vorstand. Als Zeugin. Auf der Kopie. Damit Nordwert sieht, dass auch die Gegenstimme dahintersteht. || 나도 서명해도 돼요? 이사로서가 아니라. 증인으로요. 사본에요. 반대표를 던진 사람도 이 뒤에 서 있다는 걸 노르트베르트가 볼 수 있게요.
+Kalle: … Katja. Ja. Bitte. Ganz unten. Groß. || …카트야. 그래. 부탁해. 맨 아래에. 크게.
+Frau Lehmann: „Katja Lehmann. Aufsichtsrat. Dagegen gestimmt. Dahinter gestanden." || „카트야 레만. 감사회. 반대표 던짐. 그래도 뒤에 서 있음."
+Edith: Das ist der schönste Satz in diesem Brief. Schöner als alles von Herrn Falk. || 그게 이 편지에서 제일 아름다운 문장이에요. 팔크 씨가 쓴 어떤 것보다 아름다워요.
+Can: Und jetzt? Was passiert jetzt? || 그럼 이제요? 이제 어떻게 돼요?
+Herr Brückner: Jetzt warten wir. Nordwerts Gesellschafter müssen den Vergleich formell bestätigen. Dann überweisen wir. Dann nimmt Nordwert die Klage zurück. Dann stellt das Gericht das Verfahren ein. Dann ist der Weg frei. Für den Kaufvertrag. Beim Notar. Wenn nichts schiefgeht. || 이제 기다리는 거야. 노르트베르트 출자자들이 합의를 공식적으로 승인해야 해. 그다음에 우리가 송금하고. 그다음에 노르트베르트가 소송을 취하하고. 그다음에 법원이 절차를 종결하고. 그러면 길이 열려. 매매 계약까지. 공증인 앞에서. 아무 일도 안 틀어지면.
+Edith: Wenn nichts schiefgeht. Das hat man neunzehnhunderteinundsechzig auch gesagt. Bis zum dreizehnten August. Gute Nacht, alle. Ich gehe nach oben. Achtundsiebzig Stufen. Vielleicht zum vorletzten Mal. Vielleicht nicht. Ich zähle trotzdem. || 아무 일도 안 틀어지면이라. 1961년에도 그렇게들 말했지. 8월 13일까지는. 다들 잘 자요. 나 올라갈게요. 계단 일흔여덟 개. 어쩌면 끝에서 두 번째로. 아닐 수도 있고. 그래도 셀 거예요.
+## Auf der Treppe | 계단에서
+Frau Lehmann: Edith. Warten Sie. Ich gehe mit. Bis nach oben. Ich trage nicht. Ich gehe nur neben Ihnen. || 에디트. 기다려요. 같이 갈게요. 위까지요. 업어 드리는 건 아니고. 그냥 옆에서 걸을게요.
+Edith: Katja. Sie wohnen vorne. Im Vorderhaus. Das ist der falsche Weg für Sie. || 카트야. 당신은 앞 동 살잖아요. 이건 당신한텐 반대 방향인데요.
+Frau Lehmann: Heute ist es der richtige Weg. Erste Pause? Hier. Zwischen Erdgeschoss und erstem Stock. || 오늘은 이게 맞는 방향이에요. 첫 번째 쉼터요? 여기네요. 1층이랑 2층 사이요.
+Edith: Woher wissen Sie das? Wo meine Pausen sind? || 그걸 어떻게 알아요? 내 쉼터가 어딘지?
+Frau Lehmann: Meine Kinder zählen sie. Vom Fenster aus. Seit dem Herbst. Sie wissen, dass Sie dreimal stehen bleiben. Und sie haben gesagt: Mama, wenn Frau Krüger unten wohnt, sehen wir sie nicht mehr auf der Treppe. Sie waren traurig. || 우리 애들이 세거든요. 창문에서요. 가을부터요. 에디트가 세 번 멈춰 선다는 걸 알아요. 그리고 그러더라고요. 엄마, 크뤼거 할머니가 아래층에 살면 이제 계단에서 못 보겠네. 슬퍼했어요.
+Edith: Dann sollen sie ins Erdgeschoss kommen. Zum Fenster. Zum Hof. Ich winke von unten. Das ist näher. || 그럼 1층으로 오라고 해요. 창가로요. 안마당 쪽으로요. 아래에서 손 흔들게요. 그게 더 가깝잖아요.
+Frau Lehmann: Edith. Ich wollte Ihnen noch etwas sagen. Ich habe nicht wegen Nordwert dagegen gestimmt. Nicht nur. Ich habe dagegen gestimmt, weil ich im Jobcenter jeden Tag Menschen sehe, die immer zahlen. Für alles. Für Fehler, die andere gemacht haben. Ich wollte einmal sehen, dass die Kleinen nicht zahlen. Einmal. || 에디트. 하나 더 말하고 싶었어요. 나 노르트베르트 때문에만 반대한 건 아니에요. 그것만은 아니에요. 고용센터에서 매일 늘 돈을 내는 사람들을 보거든요. 모든 것에 대해서요. 남이 저지른 실수에 대해서까지요. 한 번쯤은 작은 사람들이 안 내는 걸 보고 싶었어요. 딱 한 번이라도요.
+Edith: Ich weiß. Und Sie haben etwas anderes gesehen. Sie haben gesehen, dass die Kleinen zusammen zahlen. Und dass es dann leichter ist. Hundertzwölf Menschen bei der Soli-Party. Das ist auch etwas. Nicht das, was Sie wollten. Aber etwas. || 알아요. 그리고 다른 걸 보셨죠. 작은 사람들이 같이 내는 걸 보셨잖아요. 그러면 더 가볍다는 것도요. 연대 파티의 백열두 명. 그것도 뭔가예요. 원하던 건 아니겠지만. 그래도 뭔가는 되잖아요.
+Frau Lehmann: … Zweite Pause. Hier. Zwischen erstem und zweitem Stock. || …두 번째 쉼터네요. 여기요. 2층이랑 3층 사이.
+Edith: Und die dritte summe ich. Wollen Sie mitsummen? Karat. „Über sieben Brücken". || 그리고 세 번째에선 흥얼거려요. 같이 흥얼거릴래요? 카라트. „일곱 개의 다리".
+Frau Lehmann: Ich kann nicht singen. Gar nicht. Meine Kinder halten sich die Ohren zu. || 나 노래 못해요. 전혀요. 우리 애들이 귀를 막아요.
+Edith: Werner konnte auch nicht singen. Vierunddreißig Jahre lang. Das ist kein Grund. Kommen Sie. Dritte Pause. Ich fange an. || 베르너도 노래 못했어요. 삼십사 년 동안이나. 그건 이유가 안 돼요. 와요. 세 번째 쉼터예요. 내가 먼저 시작할게요.
