@@ -3,10 +3,10 @@
 @file Sor_Settimio_e_il_Mattatoio
 @title Sor Settimio e il Mattatoio
 @ko 세티미오 영감과 마타토이오
-@where 2층 로레다나의 집 거실 / 건물 계단(3층과 4층 사이)
+@where 2층 로레다나의 집 거실 / 건물 계단(2층과 3층 사이)
 @level B1~B2
 @setting 11월 22일 일요일 오후 4시~6시 / 같은 날 밤 11시 40분
-@cast SETTIMIO | 4층 할아버지, 83세
+@cast SETTIMIO | 3층 세입자, 83세
 @cast SAMIR | 나디아의 아들, 중학교 3학년, 13세
 @cast LOREDANA | 2층 은퇴 교사, 71세
 @cast GIULIA | 프랑코의 딸, 34세
@@ -24,7 +24,7 @@ SETTIMIO: Io ti ascoltavo. Da sotto il tuo balcone. Quando correggevi i compiti 
 LOREDANA: Settimio! Non lo sapevo! || 세티미오 씨! 몰랐어요!
 SETTIMIO: In questo palazzo nessuno sa niente. E tutti sanno tutto. || 이 건물에선 아무도 아무것도 몰라. 그리고 다들 다 알지.
 SAMIR: Posso cominciare? Registriamo. Domanda numero uno. «Come si chiama e quando è nato?». || 시작해도 돼요? 녹음해요. 질문 1번. «성함과 태어난 날은요?».
-SETTIMIO: Settimio Rinaldi. Nato il quattordici aprile del millenovecentoquarantatré. In via del Cantone. Al numero sette. In questa scala. Due piani più su. || 세티미오 리날디. 1943년 4월 14일생. 비아 델 칸토네에서. 7번지. 이 계단. 두 층 위에서.
+SETTIMIO: Settimio Rinaldi. Nato il quattordici aprile del millenovecentoquarantatré. In via del Cantone. Al numero sette. In questa scala. Un piano più su. || 세티미오 리날디. 1943년 4월 14일생. 비아 델 칸토네에서. 7번지. 이 계단. 한 층 위에서.
 SAMIR: Domanda numero due. «Quando ha cominciato a lavorare al Mattatoio?». || 질문 2번. «마타토이오에선 언제부터 일하셨어요?».
 SETTIMIO: Settembre del cinquantanove. Lunedì. Alle cinque di mattina. Mio padre mi ha accompagnato fino al cancello. Poi mi ha detto: «Da qui vai da solo». E se n'è andato. Senza girarsi. || 59년 9월. 월요일. 새벽 다섯 시. 아버지가 정문까지 데려다주셨어. 그러고는 «여기서부턴 혼자 가라». 그러고 가셨지. 뒤도 안 돌아보고.
 
@@ -113,11 +113,11 @@ SETTIMIO: Tu sei «voi». Tu sei giovane. Tu correggi ancora i verbi degli altri
 SAMIR: Stop. Fermo la registrazione. Un'ora e dodici minuti. È il compito più lungo della classe. || 멈춰요. 녹음 끝낼게요. 1시간 12분. 반에서 제일 긴 숙제예요.
 
 # 장면 7 — LE SCALE, A MEZZANOTTE
-> 밤 11시 40분. 3층과 4층 사이 계단. 세티미오가 잠이 안 와 계단참 의자에 앉아 있다. 아래에서 발소리 || 밤 11시 40분. 3층과 4층 사이 계단. 세티미오가 잠이 안 와 계단참 의자에 앉아 있다. 아래에서 발소리
+> 밤 11시 40분. 2층과 3층 사이 계단. 세티미오가 잠이 안 와 계단참 의자에 앉아 있다. 아래에서 발소리 || 밤 11시 40분. 2층과 3층 사이 계단. 세티미오가 잠이 안 와 계단참 의자에 앉아 있다. 아래에서 발소리
 GIULIA: Sor Settimio? A quest'ora? Sulle scale? || 세티미오 영감님? 이 시간에? 계단에서요?
 SETTIMIO: E tu? A quest'ora? Nel palazzo di tuo padre? Di domenica? Non avevi detto niente domeniche? || 그러는 넌? 이 시간에? 아빠 건물에? 일요일에? 일요일엔 안 온다고 하지 않았어?
 GIULIA: Non sono venuta da papà. Sono venuta qui. Sulle scale. È dove ho pianto due settimane fa. Mi sembrava il posto giusto. || 아빠 보러 온 거 아니에요. 여기 온 거예요. 계단에. 2주 전에 울었던 데요. 맞는 장소 같았어요.
-SETTIMIO: Siediti. C'è posto. La sedia la mise qui Teresa nel novantadue. Per riposare tra il terzo e il quarto. || 앉아. 자리 있어. 이 의자는 테레사가 92년에 갖다 놨어. 3층이랑 4층 사이에서 쉬려고.
+SETTIMIO: Siediti. C'è posto. La sedia la mise qui Teresa nel novantadue. Per riposare tra il secondo e il terzo. || 앉아. 자리 있어. 이 의자는 테레사가 92년에 갖다 놨어. 2층이랑 3층 사이에서 쉬려고.
 GIULIA: «La mise». Passato remoto. Lei parla come un libro, stasera. || «갖다 놓으셨다». 원과거. 오늘 밤엔 책처럼 말씀하시네요.
 SETTIMIO: Oggi ho raccontato il Mattatoio per un'ora e dodici minuti. Mi è rimasto il passato in bocca. Che ore sono? || 오늘 마타토이오 얘기를 1시간 12분 했어. 입에 과거가 남았나 봐. 몇 시야?
 GIULIA: Le undici e quarantadue. Tra diciotto minuti scadono i sette giorni. Poi le dimissioni sono definitive. || 11시 42분이요. 18분 뒤면 7일이 끝나요. 그다음엔 사직이 확정되고요.
@@ -131,7 +131,7 @@ SETTIMIO: È romano. È diverso. || 로마식이지. 그건 달라.
 GIULIA: Sor Settimio, me lo dice? Come a Claudio? «Se te ne vai, non tornare»? || 영감님, 저한테도 그 말 하실 거예요? 클라우디오한테처럼? «떠날 거면 돌아오지 마라»?
 SETTIMIO: No. A te dico l'altra frase. Quella che avrei dovuto dire a lui. «Vai. E torna quando vuoi. La sedia è qui». || 아니. 너한텐 다른 말을 할게. 그 애한테 했어야 했던 말. «가라. 그리고 돌아오고 싶을 때 돌아와. 의자는 여기 있다».
 GIULIA: La sedia di Teresa. || 테레사 할머니 의자.
-SETTIMIO: La sedia di Teresa. Tra il terzo e il quarto. Per chi torna stanco. || 테레사 의자. 3층이랑 4층 사이. 지쳐서 돌아오는 사람을 위한.
+SETTIMIO: La sedia di Teresa. Tra il secondo e il terzo. Per chi torna stanco. || 테레사 의자. 2층이랑 3층 사이. 지쳐서 돌아오는 사람을 위한.
 GIULIA: Sor Settimio, una cosa. Papà non lo sa. Della proposta di Roma. Il posto di responsabile. Non gliel'ho detto. || 영감님, 하나만요. 아빠는 몰라요. 로마 제안 얘기. 지사장 자리. 말 안 했어요.
 SETTIMIO: Perché? || 왜?
 GIULIA: Perché se lo sapeva, sperava. E poi io dicevo no. E lui perdeva due volte. Una volta basta. || 알았으면 기대했을 거예요. 그다음에 내가 싫다고 하고. 그럼 아빠는 두 번 지는 거예요. 한 번이면 충분해요.
