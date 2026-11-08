@@ -1,0 +1,266 @@
+PART: 1
+EP: 1
+TITLE: Ännu ett brev
+SUBTITLE: 또 다른 편지 · 개소 한 달 뒤, Södermalm의 작은 사무실
+META: 대사 120턴 · 난이도 B1 · 배경: 개소 한 달 뒤 11월 어느 평일 오후 다섯 시, Södermalm 사무실(1층은 카페 Biggans)
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: WICKSELL | 부활한 경제학자 (1851–1926)
+CAST: LEYLA | 이웃 주민 · 세입자 (가상)
+NOTE: ※ 쇠데르말름의 작은 사무실이 문을 연 지 한 달째입니다. 변호사 Johan, 응급의학과 전문의 Daniel, 회계사 Maja, 컨설턴트 Anton이 각자의 방식으로 이웃들의 문제를 돕기로 했지만, 아직 공통된 방법을 정하지 못했습니다. 이유 없이 되살아난 옥센셰르나와 빅셀도 종종 사무실에 드나듭니다 — 왜 이 시대에 돌아왔는지는 극 중에서도 끝내 밝혀지지 않습니다. 스웨덴에서는 1960~70년대 ‘du-reformen’ 이후 거의 누구에게나 du(너)를 쓰고, 한 사람에게 쓰는 존칭 ni는 낡고 어색하게 들립니다. 키루나 출신 인턴 Elsa는 할머니에게 배운 대로 아직 ni를 씁니다(한국어 대역에서는 존댓말로 옮깁니다). 표현 초점: 주거·임대 어휘 — hyresavtal, hyresvärd, standardhöjande, svara inom, bruksvärde.
+
+# 도입 — KLOCKAN FEM, FIKA FÖRST
+BIGGAN: Klockan är fem. Fika först, innan ni börjar bråka igen.
+= 다섯 시야. 또 싸우기 전에 피카부터 해.
+JOHAN: Ett steg i taget, Biggan. Vi diskuterar bara metoden.
+= 한 걸음씩이야, 비간. 우린 그냥 방법을 논의하는 거야.
+DANIEL: Kallar du det diskussion? Det var tredje rundan idag.
+= 그걸 논의라고 해? 오늘만 벌써 세 번째야.
+MAJA: Fjärde. Jag har räknat.
+= 네 번째야. 내가 세어 봤어.
+ANTON: Vi behöver en tydlig process. Annars funkar det inte.
+= 명확한 프로세스가 필요해. 안 그러면 안 돌아가.
+ELSA: Ursäkta, vilken process menar ni, Anton?
+= 실례지만, 어떤 프로세스를 말씀하시는 거예요, 안톤?
+ANTON: ”Ni”? Elsa, jag är trettiofyra, inte nittio.
+= ‘말씀’이라니? 엘사, 나 서른넷이야, 아흔이 아니라.
+MAJA: Han menar en ordning, så att inte alla pratar samtidigt.
+= 순서를 말하는 거야. 다 같이 한꺼번에 말하지 않게.
+ELSA: Tack. Förlåt, det är en vana. Mormor säger alltid ni.
+= 고마워요. 죄송해요, 습관이에요. 할머니는 늘 ‘니’라고 하시거든요.
+OXENSTIERNA: Låt flickan vara. Äntligen någon i det här huset som har vett.
+= 그 아이를 내버려 두게. 이 집에서 드디어 예의를 아는 사람이 나왔군.
+DANIEL: Herr Oxenstierna, ingen säger ni längre. Det slutade på sextiotalet.
+= 옥센셰르나 님, 요즘 아무도 ‘니’ 안 써요. 60년대에 끝났어요.
+OXENSTIERNA: Då slutade också respekten, herr doktor.
+= 그때 존경심도 끝났지, 의사 양반.
+BIGGAN: Lägg av nu och drick ert kaffe. Bullarna är varma.
+= 이제 그만하고 커피나 마셔. 번 따뜻할 때.
+JOHAN: Var är vårt nästa fall, förresten? Det är tyst idag.
+= 그런데 다음 사건은 어디 있지? 오늘 조용하네.
+ANTON: För tyst. Det gillar jag inte.
+= 너무 조용해. 마음에 안 들어.
+BIGGAN: Tyst är bra. Tyst betyder att folk har råd med hyran.
+= 조용한 건 좋은 거야. 조용하다는 건 사람들이 월세를 낼 수 있다는 뜻이지.
+
+# 장면 1 — FYRA METODER, ETT KONTOR
+MAJA: Anton, ingen förstod din matris från igår.
+= 안톤, 어제 네 매트릭스 아무도 이해 못 했어.
+ANTON: Då kör vi en ny! Fyra rutor, tydliga prioriteringar.
+= 그럼 새로 하자! 네 칸, 명확한 우선순위.
+DANIEL: Jag behöver inga fyra rutor. Jag behöver veta: vem blöder först?
+= 난 네 칸 필요 없어. 알아야 할 건 하나야: 누가 먼저 피 흘리나?
+JOHAN: Och jag behöver avtalet innan jag säger något.
+= 그리고 난 말하기 전에 계약서가 필요해.
+MAJA: Jag behöver siffrorna. Utan siffror säger jag ingenting.
+= 난 숫자가 필요해. 숫자 없이는 아무 말도 안 해.
+ELSA: Så alla har en egen metod?
+= 그럼 다들 자기만의 방법이 있는 거예요?
+JOHAN: Fyra metoder, ett kontor. Det är precis problemet.
+= 방법 넷, 사무소 하나. 그게 바로 문제야.
+OXENSTIERNA: På min tid hade riket en kansler. En.
+= 내 시절엔 나라에 재상이 하나였네. 딱 하나.
+ANTON: Vi är inget rike, herr Oxenstierna.
+= 우린 왕국이 아니에요, 옥센셰르나 님.
+OXENSTIERNA: Ibland känns det så. Med lika mycket gräl.
+= 가끔은 그렇게 느껴지는군. 다툼도 그만큼 많고.
+ELSA: Herr Ek, får jag fråga en sak?
+= 엑 씨, 뭐 하나 여쭤봐도 돼요?
+JOHAN: Alltid, Elsa. Men säg Johan. Och säg du.
+= 언제든지, 엘사. 근데 요한이라고 불러. 그리고 ‘두’라고 해.
+ELSA: På intervjun sa ni ju också du till mig.
+= 면접 때도 저한테 ‘두’라고 하셨잖아요.
+JOHAN: Precis. Alla säger du. Till chefen, till läkaren, nästan till kungen.
+= 바로 그거야. 다들 ‘두’라고 해. 상사한테도, 의사한테도, 거의 왕한테도.
+ELSA: Men hemma i Kiruna säger mormor ni till prästen.
+= 근데 키루나 집에서 할머니는 목사님한테 ‘니’라고 하세요.
+DANIEL: Det är Kiruna. Där flyttar de ju hela staden också.
+= 그건 키루나니까. 거긴 도시 전체를 옮기기도 하잖아.
+ELSA: Det är sant. Hos oss flyttar inte människorna. Staden flyttar.
+= 맞아요. 우리 동네는 사람이 이사 가는 게 아니라, 도시가 이사 가요.
+MAJA: Vi kanske skriver ner det idag. Regel ett: alla säger du.
+= 오늘 적어 둘까. 규칙 1번: 모두 ‘두’로 말한다.
+ELSA: Okej, men… vem bestämmer reglerna?
+= 좋아요, 근데… 규칙은 누가 정해요?
+BIGGAN: Jag. I mitt hus.
+= 나지. 내 집에서는.
+WICKSELL: Vad pratar ni om, när ni grälar utan att kalla det gräl?
+= 싸우면서 싸움이라 부르지 않을 때, 자네들은 무슨 얘기를 하는 건가?
+ANTON: Om metoder, herr Wicksell. Välkommen.
+= 방법에 대해서요, 빅셀 님. 어서 오세요.
+WICKSELL: Metoder intresserar mig mindre än tidsfrister.
+= 난 방법보다 기한에 더 관심이 있네.
+JOHAN: Vilka tidsfrister?
+= 어떤 기한이요?
+WICKSELL: Räkna dagarna, Johan. Alltid dagarna.
+= 날짜를 세어 보게, 요한. 언제나 날짜부터.
+ELSA: Ursäkta, vad betyder det? Vilka dagar?
+= 실례지만, 그게 무슨 뜻이에요? 어떤 날짜요?
+DANIEL: Ingen aning. Herr Wicksell talar sällan klarspråk.
+= 몰라. 빅셀 님은 쉬운 말로 말하는 법이 거의 없어.
+WICKSELL: Jag talar mycket klart. Ni lyssnar bara sällan.
+= 난 아주 분명하게 말하네. 자네들이 잘 안 들을 뿐이지.
+MAJA: Vilka dagar, konkret?
+= 구체적으로 어떤 날짜요?
+WICKSELL: Det får ni veta i kväll. Jag går nu. Tack för kaffet, Biggan.
+= 오늘 저녁에 알게 될 걸세. 난 이만 가네. 커피 고맙네, 비간.
+
+# 장면 2 — LEYLA KOMMER IGEN
+BIGGAN: Där är hon ju. Leyla, kom in och sätt dig.
+= 저기 왔네. 레일라, 들어와서 앉아.
+LEYLA: Hej Biggan. Hej allihop.
+= 안녕, 비간. 다들 안녕하세요.
+JOHAN: Hej Leyla, vad roligt att se dig. Vad har hänt?
+= 안녕하세요, 레일라. 반가워요. 무슨 일이에요?
+LEYLA: Ännu ett brev. Det andra på två månader.
+= 또 편지예요. 두 달 만에 두 번째예요.
+DANIEL: Sätt dig ner. Andas först.
+= 앉으세요. 일단 숨부터 쉬시고요.
+ELSA: Ursäkta, vad för slags brev?
+= 실례지만, 어떤 편지예요?
+LEYLA: Från hyresvärden. Från Nordhem. Om hyran.
+= 집주인한테서요. 노르드헴이요. 월세 얘기예요.
+MAJA: Får jag se, Leyla?
+= 좀 봐도 돼요, 레일라?
+LEYLA: Varsågod. I våras byggde de om mitt kök. Jag ville inte ens ha ett nytt.
+= 여기요. 지난봄에 우리 집 부엌을 새로 고쳤어요. 전 새 부엌을 원하지도 않았는데.
+JOHAN: Och nu vill de höja hyran?
+= 그리고 이제 월세를 올리겠다는 거예요?
+LEYLA: Med tvåtusenfyrahundra kronor. I månaden.
+= 2,400크로나요. 한 달에.
+DANIEL: Är det mycket för dig?
+= 그게 큰 부담인가요?
+LEYLA: Väldigt mycket. Jag har redan två jobb. Hemtjänst på dagen, städning på kvällen.
+= 아주 커요. 벌써 일을 두 개 해요. 낮엔 홈케어, 저녁엔 청소.
+MAJA: Det står ”efter standardhöjande åtgärder”. Har du hyresavtalet med dig?
+= ‘표준 상향 조치 이후’라고 적혀 있네요. 임대 계약서 갖고 왔어요?
+LEYLA: Nej. Avtalet ligger hemma. Reza har pärmen.
+= 아뇨. 계약서는 집에 있어요. 레자가 서류철을 갖고 있어요.
+JOHAN: Utan avtalet blir det svårt.
+= 계약서가 없으면 어려워지는데요.
+ELSA: Ursäkta, vad betyder ”standardhöjande”?
+= 실례지만, ‘표준 상향’이 무슨 뜻이에요?
+JOHAN: Att lägenheten blir bättre än förut. Nytt kök, nytt badrum, sånt.
+= 집이 전보다 좋아진다는 뜻이야. 새 부엌, 새 욕실 같은 거.
+ELSA: Men om man inte ville ha det bättre?
+= 근데 좋아지길 원하지 않았다면요?
+JOHAN: Det är just frågan. Man måste säga ja till sånt. Oftast skriftligt.
+= 바로 그게 문제야. 그런 건 동의해야 해. 보통은 서면으로.
+LEYLA: Jag skrev under något papper i dörren. Hantverkarna hade så bråttom.
+= 문 앞에서 무슨 종이에 서명하긴 했어요. 공사하는 사람들이 엄청 급해서요.
+MAJA: Vad stod det på papperet?
+= 그 종이에 뭐라고 적혀 있었어요?
+LEYLA: Jag minns inte. Det var mycket text och väldigt små bokstäver.
+= 기억 안 나요. 글이 많았고 글씨가 엄청 작았어요.
+OXENSTIERNA: Små bokstäver har styrt världen längre än kungar, fru Karimi.
+= 작은 글씨는 왕들보다 더 오래 세상을 다스려 왔소, 카리미 부인.
+LEYLA: Det tror jag gärna.
+= 그 말씀은 바로 믿겨요.
+ELSA: Ursäkta, är det ens tillåtet? Så mycket på en gång?
+= 실례지만, 그게 허용되기는 해요? 한 번에 그렇게 많이요?
+JOHAN: Det beror på avtalet, på papperet hon skrev under och på lagen.
+= 그건 계약서, 그분이 서명한 종이, 그리고 법에 달려 있어.
+MAJA: Utan papperen gissar jag bara. Och jag gissar inte gärna.
+= 서류 없이는 추측만 할 뿐이야. 그리고 난 추측을 싫어해.
+ANTON: Leyla, när måste du svara?
+= 레일라, 언제까지 답해야 해요?
+LEYLA: Inom trettio dagar. Och brevet kom för två veckor sedan.
+= 30일 안에요. 그리고 편지는 2주 전에 왔어요.
+ANTON: Så sexton dagar kvar.
+= 그럼 16일 남았네요.
+ELSA: Vänta, är DET dagarna som herr Wicksell pratade om?
+= 잠깐, 그게 빅셀 님이 말한 그 날짜예요?
+MAJA: Ser ut så.
+= 그런 것 같네.
+JOHAN: Sexton dagar räcker. Men inte utan avtalet och papperet från dörren.
+= 16일이면 충분해. 하지만 계약서랑 그 문 앞 종이 없이는 안 돼.
+LEYLA: Jag kan ta med dem i morgon. Tidigt.
+= 내일 가져올 수 있어요. 일찍.
+BIGGAN: Då kommer du hit på frukost i morgon, Leyla. Klockan åtta.
+= 그럼 내일 아침 먹으러 여기로 와, 레일라. 여덟 시에.
+
+# 절정 — SEXTON DAGAR
+ANTON: Sexton dagar. Det räcker för en plan.
+= 16일. 계획 세우기엔 충분해.
+DANIEL: För din plan med fyra rutor?
+= 네 칸짜리 계획 말이야?
+ANTON: Den här gången utan matris. Jag lovar.
+= 이번엔 매트릭스 없이. 약속해.
+JOHAN: Jag läser avtalet i morgon. Rad för rad.
+= 내일 계약서를 읽을게. 한 줄 한 줄.
+MAJA: Och jag jämför hyran med liknande lägenheter i området.
+= 그리고 난 월세를 이 동네 비슷한 집들이랑 비교할게.
+ELSA: Ursäkta, varför jämför man med andra lägenheter?
+= 실례지만, 왜 다른 집들이랑 비교해요?
+MAJA: I Sverige sätts hyran efter vad liknande lägenheter kostar. Det heter bruksvärde.
+= 스웨덴에선 월세를 비슷한 집들이 얼마인지에 따라 정해. 그걸 ‘사용가치’라고 해.
+ELSA: Bruksvärde. Tack, det kan jag komma ihåg.
+= 사용가치. 고마워요, 그건 외울 수 있겠어요.
+DANIEL: Och jag? Vad gör jag i morgon?
+= 그럼 나는? 내일 뭐 해?
+OXENSTIERNA: Ni är läkare, inte jurist. Håll er till ert fack, herr doktor.
+= 당신은 의사지, 법률가가 아니오. 자기 분야나 지키시오, 의사 양반.
+DANIEL: Ibland handlar det om mer än juridik, herr Oxenstierna.
+= 가끔은 법 이상의 문제예요, 옥센셰르나 님.
+OXENSTIERNA: Inte illa.
+= 나쁘지 않군.
+ELSA: Var det där… en komplimang?
+= 방금 그거… 칭찬이었어요?
+BIGGAN: Från honom är det en komplimang, gumman.
+= 저 사람한테서 나오면 그게 칭찬이야, 얘야.
+DANIEL: Leyla, hur sover du nuförtiden?
+= 레일라, 요즘 잠은 어떻게 자요?
+LEYLA: Dåligt. Jag räknar kronor i stället för får.
+= 잘 못 자요. 양 대신 크로나를 세요.
+DANIEL: Då är det min uppgift i morgon. Att du äter och sover.
+= 그럼 그게 내일 내 일이네요. 레일라가 먹고 자게 하는 거.
+ANTON: Alltså: papperen i morgon bitti, sen ses vi här.
+= 그러니까: 내일 아침 일찍 서류, 그다음 여기서 만나.
+JOHAN: Vilken tid?
+= 몇 시에?
+BIGGAN: Åtta. Före jobbet blir det frukost hos mig.
+= 여덟 시. 일하기 전에 우리 가게에서 아침.
+MAJA: Klockan åtta. Antecknat.
+= 여덟 시. 적었어.
+ELSA: Och jag? Vad gör jag i morgon?
+= 그럼 저는요? 내일 뭐 해요?
+JOHAN: Du är med. Och du frågar när något är oklart.
+= 같이 해. 그리고 뭔가 불분명하면 물어봐.
+ELSA: Det gör jag ju hela tiden ändå.
+= 그건 어차피 항상 하고 있어요.
+DANIEL: Just därför är du viktig här, Elsa.
+= 바로 그래서 네가 여기서 중요한 거야, 엘사.
+OXENSTIERNA: Och återigen inget ”herr doktor”.
+= 또 ‘의사 선생님’이라고 안 하는군.
+ELSA: Till honom säger jag du nu. Till er andra… jag övar fortfarande.
+= 저분한텐 이제 ‘두’라고 해요. 다른 분들은… 아직 연습 중이에요.
+
+# 마무리 — I MORGON KLOCKAN ÅTTA
+BIGGAN: Nog pratat. Nu blir det soppa för alla.
+= 이제 얘기 그만. 다 같이 수프 먹자.
+LEYLA: Jag borde verkligen gå hem.
+= 저 정말 집에 가야 해요.
+BIGGAN: Först äter du. Med tom mage tänker man inte.
+= 먼저 먹어. 배고프면 생각도 안 돼.
+LEYLA: Okej då. Tio minuter.
+= 알았어요. 10분만.
+ANTON: Fyra metoder, en plan. Inte illa för en eftermiddag.
+= 방법 넷, 계획 하나. 오후 한나절치곤 나쁘지 않네.
+MAJA: En plan som hänger på ett papper från en dörr.
+= 문 앞 종이 한 장에 매달린 계획이지.
+OXENSTIERNA: Vet du inte, min son, med hur lite förstånd världen styrs?
+= 아들아, 세상이 얼마나 적은 지혜로 다스려지는지 모르느냐?
+ELSA: Ursäkta, vem var det som sa så?
+= 실례지만, 그건 누가 한 말이에요?
+OXENSTIERNA: Jag. Till min son. För fyrahundra år sedan. Det stämmer fortfarande.
+= 나지. 내 아들에게. 400년 전에. 아직도 맞는 말이네.
+ELSA: I morgon klockan åtta. Avtal, frukost, plan.
+= 내일 여덟 시. 계약서, 아침, 계획.
+JOHAN: I morgon klockan åtta.
+= 내일 여덟 시.
+NEXT: 1부 2화 — «Köket som ingen bad om»(아무도 원하지 않은 부엌) — Leyla가 계약서와 ‘문 앞에서 서명한 종이’를 가져온다. 그 종이는 공사 동의서가 아니었다. 16일의 기한 안에 사무소는 첫 이의 편지를 쓴다.
