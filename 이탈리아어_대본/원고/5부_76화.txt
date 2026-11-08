@@ -1,0 +1,174 @@
+@part 5
+@ep 76
+@file I_pannelli_sul_tetto
+@title I pannelli sul tetto
+@ko 지붕 위의 패널
+@where 1층 엘리사와 마르코의 집 / 건물 옥상 / 산 미켈레 거리의 문화재 감독청 사무실
+@level B2~C1
+@setting 4월 7일 화요일 밤 / 4월 9일 목요일 오전
+@cast ELISA | 협동조합 이사(회계), 약사, 임신 28주, 33세
+@cast MARCO | 엘리사의 남편, IT 기술자, 조합원, 35세
+@cast RAHIM | 나디아의 아버지, 다카의 다리 기술자 출신, 68세
+@cast NADIA | 협동조합 부이사장, 40세
+@cast RICCI | 문화재·경관 감독청 건축가, 50대
+@note 건물의 에너지 등급은 G. 카스텔라니가 보낸 9월 보고서엔 '지붕 전면 보수 필요, 15만 유로'라고 적혀 있다. 엘리사는 지붕을 고치는 김에 태양광 패널을 올리고, 동네와 함께 재생에너지 공동체(CER)를 만들자는 파일을 만들었다. 마르코는 숫자를 확인한다. 문제는 하나. 테스타초는 아우렐리아누스 성벽 안, 유네스코 세계유산 구역이다. 지붕에 무엇을 올리든 문화재 감독청의 허가가 필요하다. 이 회차의 수치와 절차는 극 중 설정이다.
+
+# 장면 1 — IL FILE DEL TETTO
+> 화요일 밤 9시. 1층 부엌. 엘리사가 소파에 다리를 올리고 노트북을 배 위에 얹었다. 마르코, 라힘, 나디아 || 화요일 밤 9시. 1층 부엌. 엘리사가 소파에 다리를 올리고 노트북을 배 위에 얹었다. 마르코, 라힘, 나디아
+ELISA: Allora. «Tetto_Cantone_v3». Tre parti. Uno: il tetto va rifatto comunque. Perde da tre anni. Impermeabilizzazione, guaina, coppi rotti. Centocinquantamila. Due: se lo rifacciamo, possiamo mettere i pannelli solari. Tre: con i pannelli, possiamo fare una comunità energetica. Con il quartiere. || 자. «Tetto_Cantone_v3». 세 부분. 하나: 지붕은 어차피 다시 해야 해요. 3년째 새요. 방수, 방수막, 깨진 기와. 15만. 둘: 다시 하는 김에 태양광 패널을 올릴 수 있어요. 셋: 패널이 있으면 에너지 공동체를 만들 수 있어요. 동네랑.
+MARCO: Una comunità energetica. Spiegala a tuo padre, Nadia. Io la spiego male. Faccio l'informatico. Per me è un database con dei pannelli. || 에너지 공동체. 나디아 누나, 아버님께 설명해 드려요. 전 설명을 못해요. IT 하는 사람이라. 저한텐 패널 달린 데이터베이스예요.
+NADIA: Papà, funziona così. Noi produciamo energia sul tetto. Con il sole. Quella che non usiamo, la condividiamo con chi abita vicino. Il bar di fronte, la scuola di Samir, la parrocchia. Chi fa parte della comunità riceve un incentivo. Lo Stato paga l'energia condivisa. || 아빠, 이렇게 돼요. 우리가 지붕에서 에너지를 만들어요. 햇빛으로. 우리가 안 쓰는 건 근처 사는 사람들이랑 나눠요. 맞은편 바, 사미르 학교, 성당. 공동체에 들어온 사람들은 보조금을 받아요. 나눈 에너지만큼 국가가 돈을 줘요.
+RAHIM: Lo Stato paga per condividere? In Bangladesh lo Stato non paga neanche per produrre. || 나누는데 국가가 돈을 준다고? 방글라데시에선 만들어도 국가가 돈을 안 주는데.
+ELISA: È una legge europea. Recepita in Italia. Per le energie rinnovabili. Il quartiere diventa una piccola centrale. Senza fumo. || 유럽 법이에요. 이탈리아가 받아들였고요. 재생에너지용이에요. 동네가 작은 발전소가 되는 거죠. 연기 없이.
+RAHIM: Quanti pannelli? Quale superficie? Quale orientamento? || 패널 몇 개? 면적은? 방향은?
+MARCO: Ecco perché l'abbiamo chiamata, Rahim. Lei fa le domande giuste. Io ho solo il software. || 그래서 라힘 씨를 부른 거예요. 제대로 된 질문을 하시잖아요. 전 소프트웨어만 있어요.
+ELISA: Il tetto è a due falde. Una verso la strada, una verso il cortile. Più il lastrico solare piano. In tutto, centoventi metri quadri utili. Venti chilowatt di picco. Più o meno. || 지붕은 두 경사면이에요. 하나는 길 쪽, 하나는 안뜰 쪽. 거기에 평평한 옥상. 다 합쳐서 쓸 수 있는 면적 120제곱미터. 최대 출력 20킬로와트. 대략.
+RAHIM: Venti chilowatt. A Roma, con questo sole... venticinquemila chilowattora all'anno. Forse ventisettemila. Il palazzo ne consuma? || 20킬로와트. 로마에서, 이 햇빛이면… 1년에 2만 5천 킬로와트시. 어쩌면 2만 7천. 건물은 얼마나 쓰지?
+ELISA: Diciottomila. Tutte le parti comuni più gli appartamenti. Più il bar. Il bar consuma come tre appartamenti. Per la macchina del caffè. || 1만 8천. 공용 부분이랑 집들 다 합쳐서. 거기에 바. 바가 집 세 채만큼 써요. 커피 머신 때문에.
+MARCO: Quindi avanzano settemila chilowattora. Da condividere. Con la scuola di Samir. Che di giorno ne consuma tanto. Quando produciamo di più. || 그럼 7천 킬로와트시가 남아요. 나눌 거. 사미르 학교랑. 낮에 많이 쓰니까. 우리가 제일 많이 만들 때.
+RAHIM: È un buon progetto. Semplice. Pulito. Come un ponte piccolo. || 좋은 계획이다. 단순하고. 깔끔하고. 작은 다리처럼.
+NADIA: E Settimio? Le bollette? Lui è ancora nel mercato tutelato? || 그럼 세티미오 영감님은요? 공과금은? 아직 규제 요금이에요?
+ELISA: Sì. Ha più di settantacinque anni. È «cliente vulnerabile». Può restare nel servizio di tutela. Ma paga lo stesso centodieci euro al mese d'inverno. Per un trilocale. Con la stufetta. || 네. 일흔다섯 넘으셨으니까. «취약 고객»이에요. 보호 요금에 남을 수 있어요. 근데 그래도 겨울엔 한 달 110유로 내세요. 방 셋 집에. 전기난로 쓰시고.
+MARCO: Con la comunità energetica, la sua bolletta scende. Non a zero. Ma scende. Ho fatto la simulazione. Un terzo in meno. || 에너지 공동체가 생기면 영감님 요금이 내려가요. 0은 아니지만. 내려가요. 시뮬레이션 돌려 봤어요. 3분의 1 줄어요.
+RAHIM: Un terzo. Settimio dirà: «Ai miei tempi la luce si spegneva per risparmiare». || 3분의 1. 세티미오 씨는 «내 젊을 땐 아끼려고 불을 껐지» 하겠지.
+ELISA: Le nostalgie di Settimio hanno finanziato più del tetto. Lo scrivo nel file. Voce: «Entrate da nostalgia». || 세티미오 영감님 향수가 지붕보다 더 많이 모았어요. 파일에 적을게요. 항목: «향수 수입».
+MARCO: Bella voce di bilancio. Ma la nostalgia non paga il tetto. Elisa, il problema. Diglielo. || 멋진 예산 항목이네. 근데 향수로 지붕값은 못 내. 엘리사, 문제. 말해 줘.
+ELISA: Il problema non è il progetto. Il problema è questo. Guardate. || 문제는 계획이 아니에요. 문제는 이거예요. 보세요.
+> 엘리사가 지도를 띄운다. 테스타초가 붉은 선 안에 들어가 있다 || 엘리사가 지도를 띄운다. 테스타초가 붉은 선 안에 들어가 있다
+NADIA: Cos'è quella linea rossa? || 그 빨간 선은 뭐야?
+ELISA: Le Mura Aureliane. Testaccio è dentro. Centro storico. Patrimonio UNESCO. Ogni cosa che si vede dalla strada, sul tetto, deve essere approvata dalla Soprintendenza. Pannelli compresi. || 아우렐리아누스 성벽이요. 테스타초는 안쪽이에요. 역사 지구. 유네스코 세계유산. 지붕 위에 길에서 보이는 건 뭐든 감독청 승인을 받아야 해요. 패널도 포함해서.
+MARCO: E la Soprintendenza, ho letto, ai pannelli dice quasi sempre no. || 그리고 감독청은, 읽어 보니까, 패널엔 거의 늘 안 된다고 한대요.
+
+# 장면 2 — I NUMERI DI MARCO
+MARCO: Allora, i costi. Tetto: centocinquantamila. Lo facciamo comunque. Pannelli normali: trentacinquemila. Pannelli «integrati», quelli che sembrano coppi, che la Soprintendenza a volte accetta: settantamila. Il doppio. || 자, 비용. 지붕: 15만. 어차피 해요. 일반 패널: 3만 5천. «일체형» 패널, 기와처럼 생겨서 감독청이 가끔 받아 주는 거: 7만. 두 배.
+NADIA: E i bonus? Gli sconti fiscali? Per i lavori? || 그럼 보너스는? 세금 공제? 공사용?
+ELISA: Il Superbonus è finito. Quello del centodieci per cento. Adesso ci sono le detrazioni normali. Più basse. Ogni anno un po' meno. Quest'anno per noi forse il trentasei per cento. In dieci anni. Non subito. || 슈퍼보너스는 끝났어요. 110퍼센트짜리. 지금은 일반 공제만 있어요. 더 낮고요. 해마다 조금씩 줄어요. 올해 우리한텐 아마 36퍼센트. 10년에 나눠서. 바로가 아니라.
+MARCO: E la comunità energetica ha un contributo a fondo perduto. Per i comuni piccoli. Roma non è un comune piccolo. Quindi niente. Solo l'incentivo sull'energia condivisa. Per vent'anni. || 그리고 에너지 공동체엔 무상 지원금이 있어요. 작은 지자체용. 로마는 작은 지자체가 아니죠. 그러니까 없어요. 나눈 에너지 보조금만 있어요. 20년 동안.
+RAHIM: Quanto rende? In anni? Quando si ripaga? || 얼마나 벌어? 몇 년이면? 언제 본전을 뽑지?
+MARCO: Pannelli normali: sette anni. Pannelli integrati: quattordici. Più o meno. || 일반 패널: 7년. 일체형: 14년. 대충.
+NADIA: Quattordici anni. Il mutuo dura trentacinque. Va bene. Ce la facciamo. || 14년. 대출은 35년이에요. 괜찮아요. 할 수 있어요.
+MARCO: Ce la facciamo se troviamo settantamila euro. Che non abbiamo. Abbiamo ventiduemila di mattoni nuovi, da dopo il rogito. E il tetto ne costa centocinquanta. Prima il tetto. Poi i pannelli. || 7만 유로를 구하면 할 수 있죠. 근데 없어요. 본계약 이후 새로 들어온 벽돌이 2만 2천이에요. 근데 지붕이 15만이에요. 지붕 먼저. 패널은 그다음.
+ELISA: Marco, sei di nuovo uno scettico. || 마르코, 또 회의론자 됐네.
+MARCO: Sono uno scettico convertito, amore. I convertiti sono i più pericolosi. Ma fanno i conti meglio. || 회개한 회의론자지, 자기야. 회개한 사람이 제일 위험해. 근데 계산은 더 잘해.
+ELISA: Allora fai i conti anche di questo. Il bambino nasce a giugno. Se il tetto lo facciamo a maggio, i ponteggi restano fino a luglio. Il primo mese di vita con il rumore dei martelli. || 그럼 이것도 계산해 봐. 아기는 6월에 태어나. 지붕을 5월에 하면 비계가 7월까지 있어. 생후 첫 달을 망치 소리랑 보내는 거야.
+MARCO: Il rumore dei martelli è il rumore di un tetto che non perde più. È una ninna nanna. Come la macchina del caffè per Giulia. || 망치 소리는 더는 안 새는 지붕 소리야. 자장가지. 줄리아한테 커피 머신 소리처럼.
+ELISA: Lo dici tu. Che lavori a Ostiense dalle otto alle sei. || 그건 오스티엔세에서 여덟 시부터 여섯 시까지 일하는 당신이니까 하는 말이지.
+RAHIM: E se la Soprintendenza dice no? A tutti e due? || 그럼 감독청이 둘 다 안 된다고 하면?
+ELISA: Allora rifacciamo il tetto. Con i coppi. Come nel millenovecentoventi. E restiamo in classe G. Con il sole che passa sopra di noi senza fermarsi. || 그럼 지붕만 고치죠. 기와로. 1920년처럼. 그리고 G 등급으로 남는 거예요. 햇빛은 우리 위를 그냥 지나가고.
+NADIA: Andiamo a chiedere. Giovedì. Di persona. Come con il Campidoglio. Le cose si chiedono a voce. || 물어보러 가요. 목요일에. 직접. 캄피돌리오 때처럼. 일은 말로 물어보는 거예요.
+
+# 장면 3 — SUL TETTO
+> 수요일 오후 5시. 옥상. 안뜰 쪽 빨랫줄 두 개에 아기 우주복 대신 수건이 걸려 있다. 라힘이 줄자를 꺼내고, 마르코가 휴대폰 나침반을 켠다 || 수요일 오후 5시. 옥상. 안뜰 쪽 빨랫줄 두 개에 아기 우주복 대신 수건이 걸려 있다. 라힘이 줄자를 꺼내고, 마르코가 휴대폰 나침반을 켠다
+RAHIM: La falda sul cortile guarda a sud. Sud-ovest. Trenta gradi di inclinazione. È perfetta. La migliore che si possa avere a Roma. || 안뜰 쪽 경사면이 남쪽을 보고 있어. 남서쪽. 경사 30도. 완벽해. 로마에서 가질 수 있는 최고야.
+MARCO: E dalla strada si vede? || 그럼 길에서 보여요?
+RAHIM: Dalla strada no. Il cortile è chiuso. Solo da dentro. E dalle finestre dei palazzi dietro. E... dal Monte dei Cocci. || 길에선 안 보여. 안뜰은 막혀 있으니까. 안에서만. 그리고 뒤쪽 건물 창문에서. 그리고… 몬테 데이 코치에서.
+NADIA: Dal Monte dei Cocci? || 몬테 데이 코치에서요?
+RAHIM: Il Monte dei Cocci è alto trentacinque metri. Dalla cima si vede tutto Testaccio. Tutti i tetti. Anche questo. La Soprintendenza guarderà da lì. || 몬테 데이 코치는 높이가 35미터야. 꼭대기에선 테스타초 전체가 보여. 지붕 전부. 이것도. 감독청은 거기서 볼 거야.
+ELISA: Dal Monte dei Cocci si vedono centinaia di antenne paraboliche. Condizionatori. Serbatoi d'acqua. Nessuno ha mai detto niente. || 몬테 데이 코치에선 위성 안테나가 수백 개 보여요. 에어컨 실외기. 물탱크. 아무도 뭐라고 안 했어요.
+RAHIM: Perché quelle sono state messe senza chiedere. Noi chiediamo. Chi chiede, riceve la risposta. Chi non chiede, riceve la multa. Dopo. Forse. || 그건 묻지도 않고 달았으니까. 우린 묻잖아. 묻는 사람은 대답을 받지. 안 묻는 사람은 벌금을 받고. 나중에. 아마도.
+MARCO: È ingiusto. || 불공평해요.
+RAHIM: È la burocrazia. È ingiusta in tutti i paesi. In Bangladesh è ingiusta e lenta. In Italia è ingiusta, lenta e bella. Per i vostri tetti. || 그게 관료제야. 어느 나라에서나 불공평해. 방글라데시에선 불공평하고 느리지. 이탈리아에선 불공평하고 느리고 아름답고. 너희 지붕 때문에.
+NADIA: Papà, sei sicuro che non vuoi venire giovedì? Alla Soprintendenza? Tu parli la loro lingua. La lingua dei muri. || 아빠, 목요일에 안 갈 거예요? 감독청에? 아빠는 그 사람들 언어를 하잖아요. 벽의 언어.
+RAHIM: Io sono un negoziante, per l'Italia. Senza il timbro dell'albo. Ci vada Morganti. Lui ha il timbro. Io ho solo gli occhi. || 이탈리아한텐 난 가게 주인이야. 협회 도장 없는. 모르간티가 가야지. 그 사람은 도장이 있잖아. 난 눈만 있고.
+ELISA: Morganti è in Sardegna. Fino a maggio. Un ponte. Ironico, no? || 모르간티 씨는 사르데냐에 있어요. 5월까지. 다리 공사. 아이러니하죠?
+RAHIM: ... Un ponte. Allora vengo. Ma parlo solo se mi chiedono. E porto i disegni. Fatti a mano. Come a Dacca. || … 다리라. 그럼 갈게. 근데 물어볼 때만 말할 거야. 그리고 그림 가져갈게. 손으로 그린 거. 다카에서처럼.
+
+# 장면 4 — IN ATTESA
+> 목요일 오전 9시 40분. 감독청 복도. 나무 벤치. 엘리사가 배를 받치고 앉아 있다. 마르코는 노트북, 라힘은 둘둘 만 도면, 나디아는 공책 || 목요일 오전 9시 40분. 감독청 복도. 나무 벤치. 엘리사가 배를 받치고 앉아 있다. 마르코는 노트북, 라힘은 둘둘 만 도면, 나디아는 공책
+MARCO: Ho stampato tutto. Tre copie. Il file di Elisa, la relazione di Castellani, le foto del tetto. E una simulazione dal Monte dei Cocci. Fatta con il drone di un collega. || 다 출력했어요. 세 부. 엘리사 파일, 카스텔라니 보고서, 지붕 사진. 그리고 몬테 데이 코치에서 본 시뮬레이션. 동료 드론으로 찍은 거.
+NADIA: Un drone? Sul Monte dei Cocci? È permesso? || 드론? 몬테 데이 코치에서? 그거 허가된 거야?
+MARCO: ... Non chiedere. || … 묻지 마요.
+ELISA: Non dirlo alla Soprintendenza. Per favore. Siamo venuti a chiedere il permesso. Non possiamo arrivare con una cosa fatta senza permesso. || 감독청엔 말하지 마. 제발. 우린 허가 받으러 왔잖아. 허가 없이 한 걸 들고 오면 안 되지.
+RAHIM: Allora la simulazione la tengo io. In tasca. Se serve, la tiro fuori. Se non serve, non esiste. || 그럼 시뮬레이션은 내가 갖고 있을게. 주머니에. 필요하면 꺼내고. 필요 없으면 없는 거고.
+NADIA: Papà, sei diventato romano. || 아빠, 로마 사람 다 됐네요.
+RAHIM: Sono romano da quarantun anni. Lo divento ogni giorno un po' di più. Come il riso che assorbe l'acqua. || 41년째 로마 사람이야. 매일 조금씩 더 로마 사람이 되지. 쌀이 물을 먹듯이.
+ELISA: Ahi. Ha scalciato. Forte. Proprio adesso. || 아. 찼어. 세게. 지금 막.
+MARCO: Sente la burocrazia. Ha paura. Come tutti. || 관료제를 느끼나 봐. 무서워해. 다들 그렇듯이.
+ELISA: O sente il nonno di Loredana. Nei mattoni. Ci mettiamo tutti dentro un palazzo che ha costruito un fornaciaio di Tor di Quinto. Senza saperlo. || 아니면 로레다나 씨 할아버지를 느끼거나. 벽돌 속에서. 우린 다 토르 디 퀸토 벽돌공이 지은 건물 안에 들어가 사는 거잖아. 모르는 채로.
+NADIA: Loredana come l'ha presa? Domenica? Io non c'ero. Ero al turno. || 로레다나 씨는 어떻게 받아들이셨어? 일요일에? 난 근무라 없었어.
+RAHIM: Te lo racconto dopo. Adesso ci chiamano. Senti. «Hossain». Hanno detto il mio nome. Prima del tuo. || 이따 얘기해 줄게. 지금 부른다. 들어 봐. «호사인». 내 이름을 불렀어. 네 이름보다 먼저.
+NADIA: Hanno detto «Hossain». È anche il mio. || «호사인»이라고 했잖아요. 제 이름이기도 해요.
+RAHIM: Lo so. Ma per una volta faccio finta che sia il mio. Solo il mio. Ingegnere Hossain. || 알아. 근데 한 번만 내 거인 척할게. 내 것만. 엔지니어 호사인.
+# 장면 5 — LA SOPRINTENDENZA
+> 목요일 오전 10시. 산 미켈레 거리, 옛 산 미켈레 아 리파 건물 안 감독청 사무실. 높은 천장, 서류 더미, 창밖으로 테베레강. 건축가 리치가 안경 너머로 라힘의 손그림을 본다 || 목요일 오전 10시. 산 미켈레 거리, 옛 산 미켈레 아 리파 건물 안 감독청 사무실. 높은 천장, 서류 더미, 창밖으로 테베레강. 건축가 리치가 안경 너머로 라힘의 손그림을 본다
+RICCI: Disegni a mano. Non ne vedo da quindici anni. Adesso arriva tutto in PDF. Con i render. Con le persone finte e gli alberi finti. || 손그림. 15년 만에 보네요. 요즘은 다 PDF로 와요. 렌더링이랑. 가짜 사람들, 가짜 나무들이랑.
+NADIA: Le persone finte le abbiamo già viste. In un dépliant. A novembre. Avevano messo una pianta sopra la crepa della camera di mio figlio. || 가짜 사람들은 이미 봤어요. 책자에서. 11월에. 우리 아들 방 금 간 자리에 화분을 그려 놨더라고요.
+RICCI: Via del Cantone sette? Il fondo che voleva frazionare? Me lo ricordo. Avevano chiesto un parere preliminare a gennaio. Per «suite storiche». Con lucernari sul tetto. Gli avevamo detto di no. Ancora prima della vostra perizia. || 비아 델 칸토네 7번지? 분할하려던 펀드? 기억나요. 1월에 사전 의견을 요청했었죠. «역사적 스위트룸»용으로. 지붕에 천창 내서. 안 된다고 했어요. 여러분 감정서보다도 먼저.
+NADIA: Davvero? Non lo sapevamo. || 정말요? 몰랐어요.
+RICCI: Non lo sapeva nessuno. Le Soprintendenze non fanno conferenze stampa. Diciamo di no in silenzio. Come i gatti. || 아무도 몰랐죠. 감독청은 기자 회견을 안 해요. 조용히 안 된다고 하죠. 고양이처럼.
+RAHIM: Posso spiegare il progetto? || 계획을 설명해도 될까요?
+RICCI: Prego. Lei è l'ingegnere? || 하세요. 엔지니어세요?
+RAHIM: Ero ingegnere. A Dacca. Ponti. In Italia sono un negoziante. Ma i tetti sono uguali dappertutto. Proteggono dalla pioggia e guardano il cielo. || 엔지니어였어요. 다카에서. 다리. 이탈리아에선 가게 주인이고요. 근데 지붕은 어디나 똑같아요. 비를 막고 하늘을 보죠.
+RICCI: «Proteggono dalla pioggia e guardano il cielo». Questa la scrivo sulla porta del mio ufficio. Mi spieghi. || «비를 막고 하늘을 본다». 이거 제 사무실 문에 써 붙여야겠네요. 설명해 보세요.
+RAHIM: Falda sul cortile. Sud-ovest. Non visibile dalla strada. Visibile solo dal Monte dei Cocci e dai palazzi dietro. Pannelli integrati. Colore scuro. Opachi. Che non riflettono. Che sembrano coppi bagnati. Sulla falda verso la strada, niente. Coppi originali. Recuperati. Quelli rotti sostituiti con coppi di recupero. Dalla stessa fornace, se si trova. || 안뜰 쪽 경사면. 남서향. 길에서 안 보임. 몬테 데이 코치와 뒤쪽 건물에서만 보임. 일체형 패널. 어두운 색. 무광. 반사 안 하는. 젖은 기와처럼 보이는. 길 쪽 경사면엔 아무것도 없음. 원래 기와. 재사용. 깨진 건 재활용 기와로 교체. 가능하면 같은 가마 것으로.
+RICCI: La stessa fornace? Come fa a saperlo? || 같은 가마? 그걸 어떻게 아세요?
+RAHIM: In cantina ci sono trecentoquaranta mattoni del millenovecentoventi. Con il timbro. «Fornace Bianchini, Tor di Quinto». Li abbiamo venduti. Cioè, regalati. Come simbolo. Per comprare il palazzo. Ma il timbro c'è. Si può cercare la stessa fornace per i coppi. O una che ha i suoi stampi. || 지하 창고에 1920년 벽돌 340장이 있어요. 도장 찍힌. «비앙키니 가마, 토르 디 퀸토». 그걸 팔았어요. 아니, 선물했죠. 상징으로. 건물 사려고. 근데 도장은 남아 있어요. 기와용으로 같은 가마를 찾을 수 있죠. 아니면 그 틀을 가진 곳을.
+NADIA: Bianchini? Come Loredana? || 비앙키니? 로레다나 씨처럼?
+RAHIM: Come Loredana. Le ho chiesto. Ha detto che suo nonno faceva i mattoni. A Tor di Quinto. Non lo sapeva nessuno. Neanche lei sapeva che i mattoni del palazzo erano di suo nonno. Fino a domenica. || 로레다나 씨처럼. 물어봤지. 할아버지가 벽돌을 구웠대. 토르 디 퀸토에서. 아무도 몰랐어. 로레다나 씨도 건물 벽돌이 자기 할아버지 거라는 걸 몰랐대. 일요일까지.
+RICCI: ... In vent'anni di Soprintendenza non ho mai sentito una cosa così. Un palazzo con i mattoni del nonno di un'inquilina. Comprato dagli inquilini. Con i mattoni venduti. || … 감독청 20년 동안 이런 얘기는 처음 들어요. 세입자 할아버지 벽돌로 지은 건물. 세입자들이 산. 그 벽돌을 팔아서.
+
+# 장면 6 — IL PARERE
+RICCI: Vi dico come stanno le cose. Ufficialmente io non posso dirvi niente prima della domanda formale. Con il progetto firmato da un tecnico abilitato. Con le foto. Con le simulazioni dal Monte dei Cocci. || 사정을 말씀드리죠. 공식적으로는 정식 신청 전엔 아무 말도 못 해요. 자격 있는 기술자가 서명한 설계도로. 사진이랑. 몬테 데이 코치에서 본 시뮬레이션이랑.
+NADIA: E ufficiosamente? || 비공식적으로는요?
+RICCI: Ufficiosamente... la falda sul cortile, con pannelli integrati, scuri, opachi, non visibili dalla strada... e la falda sulla strada restaurata con i coppi originali... è un progetto che io, personalmente, non avrei motivo di bocciare. Anzi. È il progetto che vorremmo vedere più spesso. Ma la commissione decide. Non io. || 비공식적으로는… 안뜰 쪽 경사면에 어둡고 무광인 일체형 패널, 길에서 안 보이고… 길 쪽 경사면은 원래 기와로 복원… 저 개인적으로는 반려할 이유가 없는 계획이에요. 오히려. 더 자주 보고 싶은 계획이죠. 하지만 결정은 위원회가 해요. 제가 아니라.
+ELISA: Quanto tempo? || 얼마나 걸려요?
+RICCI: Per legge, centoventi giorni. In pratica... dipende. Se il progetto è chiaro, meno. Se è confuso, di più. Se arriva con i render delle persone finte, molto di più. || 법으로는 120일. 실제로는… 경우에 따라 달라요. 계획이 명확하면 덜. 헷갈리면 더. 가짜 사람 렌더링이랑 같이 오면 훨씬 더.
+MARCO: Centoventi giorni. Agosto. Il tetto lo dobbiamo fare adesso. Perde. || 120일. 8월이네요. 지붕은 지금 고쳐야 해요. 새거든요.
+RICCI: Il rifacimento del tetto con i coppi originali è manutenzione. Non serve il nostro parere. Potete farlo subito. I pannelli dopo. Sulla guaina nuova. Senza rompere niente. || 원래 기와로 지붕 다시 하는 건 유지 보수예요. 우리 의견 필요 없어요. 바로 하셔도 돼요. 패널은 나중에. 새 방수막 위에. 아무것도 안 깨고.
+RAHIM: Prima il ponte. Poi le luci. || 다리 먼저. 불은 그다음.
+RICCI: Prima il ponte. Poi le luci. Lei è sicuro di non voler iscriversi all'albo, signor Hossain? Con il riconoscimento del titolo? Ci vogliono un paio d'anni. Ma conosco qualcuno all'Ordine. || 다리 먼저. 불은 그다음. 정말 협회 등록 안 하실 거예요, 호사인 씨? 학위 인정 받아서? 2년쯤 걸려요. 근데 기술사회에 아는 사람이 있어요.
+RAHIM: Io? Ho sessantotto anni. || 제가요? 예순여덟이에요.
+RICCI: E io ne ho cinquantotto e ho appena imparato una cosa da lei. Non è mai tardi per un timbro. || 전 쉰여덟인데 방금 선생님한테 하나 배웠어요. 도장 받기에 늦은 때는 없어요.
+NADIA: Papà... || 아빠…
+RAHIM: Ci penso. Al congiuntivo. Come dite voi. «Qualora mi iscrivessi». || 생각해 볼게. 접속법으로. 너희가 말하듯이. «만약 내가 등록하게 된다면».
+
+# 장면 7 — SULLE SCALE DEL PALAZZO
+> 오전 11시 반. 감독청 계단. 리치가 직접 배웅하러 나온다. 창밖으로 테베레강과 포르타 포르테세 || 오전 11시 반. 감독청 계단. 리치가 직접 배웅하러 나온다. 창밖으로 테베레강과 포르타 포르테세
+RICCI: Io sono cresciuta a Testaccio. Lo sapevate? In via Galvani. Sopra la macelleria. Mio padre lavorava ai Mercati Generali. || 저 테스타초에서 자랐어요. 아셨어요? 갈바니 거리에서. 정육점 위층. 아버지가 중앙 도매시장에서 일하셨어요.
+NADIA: Ai Mercati Generali? Come Sor Settimio. Dopo il Mattatoio. || 중앙 도매시장요? 세티미오 영감님처럼. 마타토이오 다음에.
+RICCI: Rinaldi? Settimio Rinaldi? Il pesatore? Mio padre lo nominava sempre. «Settimio ha la bilancia più onesta di Roma». || 리날디? 세티미오 리날디? 저울 다는 분? 우리 아버지가 늘 그분 얘기를 했어요. «세티미오 저울이 로마에서 제일 정직하다».
+ELISA: È il nostro Settimio. Ha ottantaquattro anni il quattordici. Mercoledì prossimo. || 우리 세티미오 영감님이에요. 14일에 여든넷 되세요. 다음 주 수요일.
+RICCI: Allora gli porti i miei auguri. Da parte della figlia di Bruno Ricci. Del banco della frutta. Lui capirà. || 그럼 제 축하 인사 전해 주세요. 과일 좌판 브루노 리치의 딸이 보냈다고. 아실 거예요.
+MARCO: Dottoressa, una domanda tecnica. Il parere. Lo posso chiedere online? Con lo SPID? || 선생님, 기술적인 질문 하나요. 그 의견서요. 온라인으로 신청할 수 있어요? SPID로?
+RICCI: Online. Con lo SPID. E con la PEC. Ma un consiglio: dopo averlo mandato online, portate una copia stampata. A mano. Con i disegni del signor Hossain. Le cose che arrivano a mano si leggono prima. Non lo dica a nessuno. È un segreto delle Soprintendenze. || 온라인으로. SPID로. 그리고 PEC로. 근데 하나 조언하자면, 온라인으로 보낸 다음에 출력본을 하나 직접 가져오세요. 손으로. 호사인 씨 그림이랑 같이. 손으로 온 건 먼저 읽혀요. 아무한테도 말하지 마세요. 감독청 비밀이에요.
+NADIA: Come le lettere di Settimio. Scritte a mano. Arrivano prima. || 세티미오 영감님 편지처럼요. 손으로 쓴 건. 먼저 닿아요.
+RICCI: Esattamente. Il mondo digitale ha bisogno di qualcuno che scrive a mano. Altrimenti non si accorge di niente. || 바로 그거예요. 디지털 세상엔 손으로 쓰는 누군가가 필요해요. 안 그러면 아무것도 못 알아채요.
+# 장면 8 — LA STRADA DEL RITORNO
+> 낮 12시. 테베레 강변. 나디아와 라힘이 포르타 포르테세 쪽으로 걷는다 || 낮 12시. 테베레 강변. 나디아와 라힘이 포르타 포르테세 쪽으로 걷는다
+NADIA: Papà. L'albo. Lo faresti? Davvero? || 아빠. 협회 등록. 할 거예요? 진짜로?
+RAHIM: Quarantun anni fa, a Fiumicino, ho messo il diploma in una cartellina. Blu. L'ho messa in un cassetto. Al negozio. Sotto i registri. Non l'ho mai più aperta. Come la chiave di Settimio. || 41년 전에, 피우미치노에서, 학위증을 서류철에 넣었지. 파란 거. 서랍에 넣었어. 가게에. 장부 밑에. 다시는 안 열었어. 세티미오 씨 열쇠처럼.
+NADIA: Le cose nei cassetti invecchiano. Lo dice Samir. || 서랍 속 물건은 늙어요. 사미르가 그래요.
+RAHIM: Samir dice troppe cose giuste. È un problema. Un nonno dovrebbe insegnare al nipote. Non il contrario. || 사미르는 옳은 말을 너무 많이 해. 문제야. 할아버지가 손자를 가르쳐야지. 반대가 아니라.
+NADIA: In questo palazzo è sempre il contrario. I figli insegnano ai padri. I nipoti ai nonni. Le inquiline ai notai. || 이 건물에선 늘 반대예요. 자식이 부모를 가르치고. 손주가 할아버지를. 세입자가 공증인을.
+RAHIM: E i nonni di Loredana ai palazzi. Con i mattoni. || 그리고 로레다나 씨 할아버지가 건물을. 벽돌로.
+NADIA: Loredana. Domenica. Quando hai visto il timbro. Cos'ha detto? || 로레다나 씨. 일요일에. 도장 봤을 때. 뭐라고 하셨어요?
+RAHIM: Niente. Ha preso un mattone. L'ultimo rimasto in cantina. Quello rotto, che nessuno ha voluto. L'ha portato a casa. L'ha messo sul comodino. Accanto alla foto di Gianni. Ha detto solo: «Allora abito dentro mio nonno da quarantatré anni». || 아무 말도. 벽돌 하나를 집었어. 지하 창고에 남은 마지막 거. 깨진 거, 아무도 안 가져간 거. 집에 가져갔지. 침대 옆 탁자에 뒀어. 잔니 사진 옆에. 딱 한마디 하더라. «그럼 난 43년 동안 우리 할아버지 안에서 산 거네».
+NADIA: ... Abita dentro suo nonno. || … 할아버지 안에서 산다.
+RAHIM: Tutti abitiamo dentro qualcuno, Nadia. Tu abiti dentro la panchina che ha chiesto tua madre. Samir abita dentro la chiave di Settimio. Io... io abito dentro una cartellina blu che non ho mai aperto. Forse è ora. || 우린 다 누군가의 안에서 살아, 나디아. 넌 네 엄마가 요청한 벤치 안에서 살고. 사미르는 세티미오 씨 열쇠 안에서 살고. 나는… 나는 한 번도 안 연 파란 서류철 안에서 살지. 이제 열 때가 됐나 봐.
+NADIA: Apriamola insieme. Stasera. Al negozio. Con Ammu. E con Samir. Lui conterà i timbri sul diploma. || 같이 열어요. 오늘 저녁. 가게에서. 엄마랑. 그리고 사미르랑. 사미르가 학위증 도장 셀 거예요.
+RAHIM: Ce ne sono tre. Me li ricordo. Ma lasciaglieli contare. È il suo modo di dire «ti voglio bene». || 세 개 있어. 기억나. 그래도 세게 해 줘. 그게 그 애가 사랑한다고 말하는 방식이니까.
+NADIA: Papà. E se ti dicono di sì? All'albo? A settant'anni? Ingegnere Hossain? || 아빠. 그럼 협회에서 된다고 하면요? 일흔에? 엔지니어 호사인?
+RAHIM: A settant'anni firmo il progetto del tetto. Il primo in Italia. E poi lo metto in un cassetto. No. Non in un cassetto. Sul muro. Del negozio. Accanto alla foto di quando sono arrivato. Con il cappotto troppo pesante. || 일흔에 지붕 설계도에 서명하는 거지. 이탈리아에서 처음으로. 그러고 서랍에 넣고. 아니다. 서랍 말고. 벽에. 가게 벽에. 처음 왔을 때 사진 옆에. 너무 두꺼운 외투 입은.
+NADIA: Il cappotto della neve. Del millenovecentoottantacinque. || 눈 오던 날 외투. 1985년.
+RAHIM: Quello. L'ho ancora. Non l'ho mai buttato. Anche le cose sbagliate vanno tenute. Per ricordare che eri giovane. || 그거. 아직 있어. 한 번도 안 버렸지. 잘못 산 물건도 간직해야 해. 젊었던 걸 기억하려고.
+NADIA: Lo dico a Samir. Domanda numero quarantacinque: «Nonno, perché hai tenuto il cappotto sbagliato?». || 사미르한테 말할게요. 질문 45번: «할아버지, 잘못 산 외투는 왜 간직했어요?».
+RAHIM: E io gli rispondo: «Per dartelo. Quando nevicherà di nuovo». || 그럼 난 대답하지. «너 주려고. 다시 눈 올 때».
+
+@points
+- 가정과 조건: «se la Soprintendenza dice no...», «Se il progetto è chiaro, meno. Se è confuso, di più», «personalmente, non avrei motivo di bocciare»(조건법 과거 완곡), «Qualora mi iscrivessi».
+- 환경·에너지 어휘: «comunità energetica», «energia condivisa», «chilowatt di picco», «chilowattora», «falda», «orientamento sud-ovest», «inclinazione», «pannelli integrati, scuri, opachi».
+- 공식/비공식 구분: «Ufficialmente io non posso dirvi niente... — E ufficiosamente?» — 관료와의 대화 기술.
+- 비용·회수 계산: «si ripaga in sette anni», «Prima il tetto. Poi i pannelli.» / «Prima il ponte. Poi le luci.»
+- 비유: «Proteggono dalla pioggia e guardano il cielo», «Diciamo di no in silenzio. Come i gatti.», «Tutti abitiamo dentro qualcuno».
+- 이중자음: «falda»(홑), «coppi»[pp], «opachi»(홑), «fornace»(홑), «parabolica»(홑), «abilitato»(홑), «cartellina»[ll].
+
+@notes
+- 'CER — comunità energetica rinnovabile' 재생에너지 공동체: EU 지침을 이탈리아가 도입, 공동체 구성원 간 '공유 에너지'에 대해 일정 기간 장려금이 지급된다. 소규모 지자체 대상 무상 보조(PNRR) 등은 조건이 있다. ※ 세부·금액은 시점별 확인.
+- 'Superbonus 110%' 건물 에너지 개선 세액 공제(2020~) — 이후 단계적으로 축소·종료, 일반 공제율도 연도별로 낮아지는 추세. ※ 2027년 비율은 극 중 추정.
+- 'Soprintendenza Archeologia, Belle Arti e Paesaggio' 문화재·경관 감독청. 로마 역사 지구(아우렐리아누스 성벽 안, 유네스코 세계유산)에서 지붕 위 설비는 허가가 필요하며, 길에서 보이지 않는 일체형·무광 패널이 허용되는 경우가 있다. 극 중 사무실 위치·절차·기한은 설정.
+- 'coppi' 로마식 반원 기와. 'guaina' 방수막. 'manutenzione' 유지 보수.
+- 'albo / Ordine degli ingegneri' 기술사 협회. 외국 학위는 인정 절차(riconoscimento del titolo)를 거쳐 등록할 수 있다.
+- 'Monte dei Cocci' 테스타초의 깨진 항아리 언덕(약 35m).
+
+@next
+5부 77화 — «Gli ottantaquattro anni di Sor Settimio»(세티미오 영감의 여든네 번째 생일) — 4월 14일 수요일. 1년 전 이 날, 그는 '잔치 아닌 잔치'를 했다. 손녀 마르티나는 런던에서, 아들 클라우디오는 토리노에서. 올해는 건물 전체가 '잔치 아닌 잔치'를 준비한다. 그리고 1년을 돌아보는 노인의 목소리.
