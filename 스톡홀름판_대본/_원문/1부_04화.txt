@@ -1,0 +1,268 @@
+PART: 1
+EP: 4
+TITLE: Bilen som inte kom
+SUBTITLE: 오지 않은 차 · 사건 2 해결, Vårberg
+META: 대사 120턴 · 난이도 B1 · 배경: 집행 예정일 아침 일곱 시부터, Vårberg 단지 앞과 계단참
+CAST: BIGGAN | 카페 사장 · Biggans (사무소 1층)
+CAST: JOHAN | 변호사 (M&A·규제 전문)
+CAST: DANIEL | 응급의학과 전문의
+CAST: MAJA | 공인회계사 (감사·세무)
+CAST: ANTON | 전략 컨설턴트
+CAST: ELSA | 신입 인턴 (키루나 출신)
+CAST: OXENSTIERNA | 부활한 스웨덴 제국 재상 (1583–1654)
+CAST: STRINDBERG | 부활한 작가 (1849–1912)
+CAST: GUNNEL | 전 SL 버스기사 노조 대표 · Vårberg 주민 (가상)
+CAST: PER | Vårberg 세입자 · 두 아이의 아버지 (가상)
+CAST: HANNA | Kronofogden 집행 담당관 (가상)
+NOTE: ※ 집행 당일 아침입니다. Kronofogden의 담당관(förrättningsman)은 법원의 결정이나 신청인의 철회처럼 서류로 확인된 것이 없으면 마음대로 기다려 줄 수 없습니다. 체납액이 모두 갚아지고 집주인이 집행 신청을 거두면(återkalla) 퇴거는 멈춥니다. 이웃들이 밤새 Swish로 모은 돈과 네 사람의 서류가 한 시간 안에 맞물려야 합니다. 표현 초점: 집행 현장 어휘 — förrättning, återkalla, bekräftelse, målnummer, betalning.
+
+# 도입 — KLOCKAN SJU I VÅRBERG
+STRINDBERG: Klockan sju. Gården fylls.
+= 일곱 시. 마당이 차오르는군.
+GUNNEL: Titta. Fru Ahmadi från nummer trettionio. Och pensionärerna från huset bredvid.
+= 봐요. 39번지 아마디 부인. 그리고 옆 동 어르신들.
+ELSA: Varför kommer så många? Det är mörkt och kallt.
+= 왜 이렇게 많이 와요? 어둡고 추운데.
+GUNNEL: För att de har läst lappen. Och för att det kunde ha varit de.
+= 쪽지를 읽었으니까. 그리고 자기 일이 될 수도 있었으니까.
+MAJA: God morgon. Trettiotretusen åttahundra kronor. Det fattas åttatusen tvåhundra.
+= 좋은 아침. 33,800크로나. 8,200이 모자라.
+ANTON: Och vi har två timmar. Mindre, egentligen.
+= 그리고 두 시간 있어. 사실은 그보다 적어.
+JOHAN: Tingsrätten öppnar klockan åtta. Jag ringer dem då.
+= 법원은 여덟 시에 열어. 그때 전화할게.
+DANIEL: Jag kommer direkt från nattpasset. Var är Per?
+= 야간 근무 끝나고 바로 왔어. 페르는 어디 있어?
+PER: Här. Jag har inte sovit. Men jag har blundat. Det räknas, sa Biggan.
+= 여기요. 못 잤어요. 근데 눈은 감고 있었어요. 그것도 쳐준다고 비간이 그랬어요.
+DANIEL: Det räknas. Har du ätit?
+= 쳐주지. 먹었어요?
+PER: En bulle.
+= 번 하나요.
+BIGGAN: Två. Jag har en termos och en påse till.
+= 두 개. 보온병이랑 한 봉지 더 있어.
+OXENSTIERNA: God morgon. Fru Lund bad mig bära kaffet. Det har inte hänt på fyrahundra år.
+= 좋은 아침이오. 룬드 부인이 커피를 들어 달라더군. 400년 동안 없던 일이오.
+ELSA: Herr Oxenstierna! Ni kom ända hit till Vårberg?
+= 옥센셰르나 님! 바르베리까지 오셨어요?
+OXENSTIERNA: Jag ville se en foge i arbete. På min tid var de inte populära heller.
+= 일하는 집행관을 보고 싶었네. 내 시절에도 인기는 없었지.
+ANTON: Kronofogden kommer klockan nio. Flyttbilen och en låssmed också.
+= Kronofogden은 아홉 시에 와. 이삿짐 차랑 열쇠공도.
+ELSA: Ursäkta, varför en låssmed?
+= 실례지만, 왜 열쇠공이 와요?
+JOHAN: För att byta låset. Efter avhysningen kommer man inte in igen.
+= 자물쇠를 바꾸려고. 퇴거 후엔 다시 못 들어가게.
+PER: Barnens leksaker är där inne. Linneas inhalator.
+= 애들 장난감이 안에 있어요. 리네아 흡입기도요.
+DANIEL: Den hämtar vi nu. Innan något annat.
+= 그건 지금 가져오자. 다른 무엇보다 먼저.
+GUNNEL: Socialtjänsten ringde halv sju. De har ett rum till barnen om det behövs. Men bara om.
+= 사회복지 당국이 여섯 시 반에 전화했어. 필요하면 아이들 방이 있대. 하지만 필요할 때만.
+STRINDBERG: ”Om.” Det minsta ordet i språket, och det tyngsta.
+= ‘만약.’ 언어에서 가장 작은 말이자, 가장 무거운 말이지.
+
+# 장면 1 — KRONOFOGDEN
+JOHAN: Klockan åtta. Jag ringer tingsrätten nu.
+= 여덟 시. 지금 법원에 전화할게.
+MAJA: Trettiosextusen. Det kommer in fortfarande.
+= 36,000. 아직 들어오고 있어.
+ANTON: Sextusen kvar.
+= 6,000 남았어.
+JOHAN: De har fått ansökan. Målnummer finns. Men en domare tittar på det först efter lunch.
+= 신청서는 받았대. 사건 번호도 나왔어. 근데 판사는 점심 이후에야 본대.
+ELSA: Efter lunch? Men bilen kommer klockan nio.
+= 점심 이후요? 근데 차는 아홉 시에 오잖아요.
+JOHAN: Jag vet. Därför är pengarna viktigast nu.
+= 알아. 그래서 지금은 돈이 제일 중요해.
+GUNNEL: Jag ringer Vårbergshem. Lindqvist börjar halv åtta. Han är alltid tidig.
+= 바르베리헴에 전화할게. 린드크비스트는 일곱 시 반에 출근해. 늘 일찍 와.
+PER: Lindqvist är den som skickade alla breven.
+= 린드크비스트가 그 편지들을 다 보낸 사람이에요.
+DANIEL: Och den som kan stoppa det. Det är ofta samma person.
+= 그리고 그걸 멈출 수 있는 사람이기도 하지. 흔히 같은 사람이야.
+GUNNEL: Han svarar. Han säger: om hela skulden är betald före nio, återkallar de.
+= 받았어. 이렇게 말해: 아홉 시 전에 빚을 전부 갚으면 신청을 거두겠대.
+ELSA: Hela. Inte nästan hela.
+= 전부. 거의 전부가 아니라.
+GUNNEL: Hela. Fyrtiotvåtusen etthundrafemtio. Han skickar exakta siffran.
+= 전부. 42,150. 정확한 금액을 보내 준대.
+MAJA: Då fattas sextusen trehundrafemtio. Jag uppdaterar.
+= 그럼 6,350이 모자라. 업데이트할게.
+HANNA: God morgon. Jag heter Hanna Berg, från Kronofogden.
+= 좋은 아침입니다. 저는 한나 베리, Kronofogden에서 왔습니다.
+ANTON: Redan? Klockan är tjugo över åtta.
+= 벌써요? 여덟 시 이십 분인데요.
+HANNA: Jag kommer alltid lite tidigare. Jag vill prata med den som bor här först.
+= 전 늘 조금 일찍 와요. 먼저 여기 사시는 분과 얘기하고 싶어서요.
+PER: Det är jag.
+= 저예요.
+HANNA: Per Jansson? Hur är det med barnen?
+= 페르 얀손 씨? 아이들은 어때요?
+PER: De är hos min syster.
+= 여동생 집에 있어요.
+HANNA: Bra. Det var det första jag ville veta.
+= 다행이에요. 그게 제일 먼저 알고 싶었어요.
+ELSA: Ursäkta… är ni här för att kasta ut honom?
+= 실례지만… 이분을 쫓아내러 오신 거예요?
+HANNA: Jag är här för att göra mitt jobb. Men mitt jobb är också att lyssna.
+= 제 일을 하러 왔어요. 하지만 듣는 것도 제 일이에요.
+JOHAN: Johan Ek, advokat. Vi har en ansökan om inhibition hos tingsrätten. Och en betalning på väg.
+= 요한 엑, 변호사입니다. 법원에 집행정지 신청이 들어가 있어요. 그리고 지급도 진행 중이고요.
+HANNA: Jag behöver ett beslut eller en återkallelse. Annars måste jag börja klockan nio.
+= 결정이나 신청 철회가 필요해요. 안 그러면 아홉 시에 시작해야 해요.
+STRINDBERG: Och om det kommer klockan nio och en minut?
+= 그게 아홉 시 일 분에 오면?
+HANNA: Då slutar jag klockan nio och en minut. Mitt i allt.
+= 그럼 아홉 시 일 분에 멈추죠. 하던 중간이라도.
+
+# 장면 2 — TIO MINUTER
+MAJA: Åtta och trettio. Trettioåttatusen sexhundra.
+= 여덟 시 반. 38,600.
+ANTON: Tretusen femhundrafemtio kvar.
+= 3,550 남았어.
+GUNNEL: Bussförarna har gett allt de har. Jag kan inte ringa dem igen.
+= 버스기사들은 가진 거 다 줬어. 다시 전화할 순 없어.
+PER: Min syster swishade femhundra i natt. Hon har inte mer.
+= 여동생이 어젯밤에 500 보냈어요. 더는 없어요.
+ELSA: Jag har tolvhundra på kontot. Det är till hyran för mitt rum.
+= 저 계좌에 1,200 있어요. 제 방 월세예요.
+BIGGAN: Behåll dem, gumman. Du har ingen Gunnel som ringer för dig.
+= 갖고 있어, 얘야. 너한텐 대신 전화해 줄 군넬이 없잖아.
+OXENSTIERNA: Jag har ett mynt. Silver. Från 1632.
+= 나한테 동전이 하나 있소. 은화. 1632년 것.
+MAJA: Herr Oxenstierna, det är förmodligen värt mer än hela skulden.
+= 옥센셰르나 님, 그건 아마 빚 전체보다 더 비쌀 거예요.
+OXENSTIERNA: Då behöver ni inte resten.
+= 그럼 나머지는 필요 없겠군.
+JOHAN: Men det kan vi inte swisha till Vårbergshem på tjugo minuter.
+= 근데 그걸 20분 안에 바르베리헴에 Swish로 보낼 순 없어요.
+OXENSTIERNA: Den här tiden förstår jag inte. Silver duger inte, men en telefon gör det.
+= 이 시대는 이해가 안 가는군. 은은 안 되고 전화기는 된다니.
+STRINDBERG: Jag går upp i trapphuset. Två trappor till har inte läst lappen.
+= 계단으로 올라가 보겠소. 두 층이 아직 쪽지를 안 읽었소.
+DANIEL: Jag följer med. Linneas inhalator ska ändå ner.
+= 나도 같이 갈게. 리네아 흡입기도 어차피 가져와야 하고.
+ANTON: Åtta och fyrtio. Tjugo minuter.
+= 여덟 시 사십 분. 20분.
+HANNA: Flyttbilen har ringt. De är vid Vårbergs centrum.
+= 이삿짐 차한테서 전화 왔어요. 바르베리 센터에 와 있대요.
+ELSA: Hur nära är det?
+= 그게 얼마나 가까워요?
+GUNNEL: Fem minuter. Om de kör lugnt.
+= 5분. 천천히 오면.
+MAJA: Trettioninetusen tvåhundra. Någon i nummer fyrtioett skickade sexhundra.
+= 39,200. 41번지 누군가가 600 보냈어.
+STRINDBERG: Fru Nilsson på femte våningen! Hon trodde att lappen var reklam.
+= 5층 닐손 부인이오! 쪽지가 광고인 줄 알았다더군.
+ANTON: Två tusen niohundrafemtio kvar.
+= 2,950 남았어.
+GUNNEL: Kom igen, Vårberg. Kom igen.
+= 힘내, 바르베리. 힘내.
+DANIEL: Här är inhalatorn. Och Linneas teckningar. Hon har ritat hela gården.
+= 여기 흡입기. 그리고 리네아 그림들. 마당 전체를 그렸어.
+PER: Hon ritar alltid när hon är rädd.
+= 그 애는 무서울 때마다 그림을 그려요.
+HANNA: Får jag se?
+= 봐도 돼요?
+PER: Varsågod.
+= 여기요.
+HANNA: Hon har ritat grannarna. Alla står på gården.
+= 이웃들을 그렸네요. 다들 마당에 서 있어요.
+ELSA: Som nu.
+= 지금처럼요.
+BIGGAN: Elsa, ge mig dina tolvhundra ändå. Jag betalar din hyra i december. Det är ett lån, inte en gåva.
+= 엘사, 그 1,200 그래도 나 줘. 12월 네 방 월세는 내가 낼게. 선물이 아니라 빌려주는 거야.
+
+# 절정 — BETALT I TID
+ELSA: Okej. Jag swishar till Gunnel nu.
+= 알겠어요. 지금 군넬한테 Swish 보낼게요.
+MAJA: Fyrtiotusen fyrahundra. Ett tusen sjuhundrafemtio kvar.
+= 40,400. 1,750 남았어.
+ANTON: Åtta och femtio.
+= 여덟 시 오십 분.
+GUNNEL: Bilen står vid grinden. Jag ser den.
+= 차가 정문에 서 있어. 보여.
+HANNA: Jag måste be dem vänta vid bilen. Inte mer än så.
+= 차에서 기다리라고 해야겠어요. 그 이상은 못 해요.
+STRINDBERG: Fröken Berg. Ni har ett hjärta under uniformen.
+= 베리 양. 제복 아래 심장이 있군요.
+HANNA: Jag har ingen uniform. Bara en jacka. Och ett jobb.
+= 전 제복 없어요. 그냥 재킷이요. 그리고 일이요.
+OXENSTIERNA: Det är vad en uniform är, mitt barn.
+= 그게 바로 제복이란 거네, 얘야.
+MAJA: Vänta. Någon har swishat tvåtusen. Meddelande: ”Från linje 4. Vi glömde.”
+= 잠깐. 누가 2,000을 보냈어. 메시지: ‘4번 노선에서. 깜빡했어요.’
+GUNNEL: Kjell! Han körde nattlinjen till Hornstull.
+= 셸! 호른스툴행 야간 노선을 몰았지.
+MAJA: Fyrtiotvåtusen fyrahundra. Det räcker. Med tvåhundrafemtio över.
+= 42,400. 충분해. 250 남아.
+ANTON: Åtta och femtiotvå. Betala nu, Maja!
+= 여덟 시 오십이 분. 지금 보내, 마야!
+MAJA: Jag betalar från Gunnels konto. Hon har bank-id uppe. Klart.
+= 군넬 계좌에서 보낼게. BankID 열려 있어. 완료.
+JOHAN: Jag ringer Lindqvist. Han har betalningen. Han skickar återkallelsen till Kronofogden nu.
+= 린드크비스트한테 전화할게. 돈 받았대. 지금 Kronofogden에 철회서를 보낸대.
+HANNA: Jag uppdaterar ärendet. Det kan ta några minuter.
+= 사건 기록을 새로고침할게요. 몇 분 걸릴 수 있어요.
+ELSA: Åtta och femtiofem.
+= 여덟 시 오십오 분.
+PER: Jag kan inte titta.
+= 못 보겠어요.
+DANIEL: Titta på mig i stället. Andas. In och ut.
+= 대신 날 봐요. 숨 쉬어요. 들이쉬고, 내쉬고.
+HANNA: Åtta och femtiosju. Ingenting än.
+= 여덟 시 오십칠 분. 아직 아무것도.
+STRINDBERG: Myndigheter rör sig långsammare än sorg.
+= 관청은 슬픔보다 느리게 움직이지.
+HANNA: Där. Återkallelse inkommen åtta och femtioåtta. Avhysningen är inställd.
+= 저기요. 여덟 시 오십팔 분 철회서 접수. 퇴거는 취소됐어요.
+GUNNEL: Inställd!
+= 취소됐어!
+ELSA: Inställd. Det betyder att den inte blir av?
+= 취소. 그건 안 일어난다는 뜻이죠?
+JOHAN: Det betyder att Per bor kvar. Lindqvist lovar ett nytt avtal på prov. Sex månader.
+= 페르가 계속 산다는 뜻이야. 린드크비스트가 6개월 시범 계약을 새로 해 주겠대.
+HANNA: Jag ringer flyttbilen. De får åka tillbaka.
+= 이삿짐 차에 전화할게요. 돌아가도 된다고.
+PER: Jag vet inte vad jag ska säga.
+= 뭐라고 해야 할지 모르겠어요.
+
+# 마무리 — INGET NYTT
+STRINDBERG: Säg ingenting. Titta.
+= 아무 말도 하지 마시오. 보시오.
+GUNNEL: Bilen vänder. Den kör tillbaka mot centrum.
+= 차가 돌아. 센터 쪽으로 돌아가고 있어.
+ELSA: Bilen som inte kom.
+= 오지 않은 차.
+ANTON: Tekniskt sett kom den. Men den gick aldrig ur.
+= 엄밀히 말하면 오긴 했어. 근데 아무도 안 내렸지.
+MAJA: Och tvåhundrafemtio kronor över. Vad gör vi med dem?
+= 그리고 250크로나 남았어. 그건 어떻게 하지?
+GUNNEL: Fika för gården. Alla som stod här.
+= 마당 사람들 피카. 여기 서 있던 모두.
+BIGGAN: Det blir mitt jobb. Det har det alltid varit.
+= 그건 내 일이지. 늘 그랬어.
+HANNA: Får jag säga en sak innan jag går?
+= 가기 전에 한마디 해도 될까요?
+JOHAN: Självklart.
+= 물론이죠.
+HANNA: Jag gör tre avhysningar i veckan. Nästan aldrig står det någon på gården. Tack för att jag fick gå hem tidigt i dag.
+= 전 일주일에 퇴거 세 건을 해요. 마당에 누가 서 있는 건 거의 없어요. 오늘 일찍 집에 가게 해 주셔서 고마워요.
+ELSA: Vi står här nästa gång också. Om det behövs.
+= 다음에도 여기 서 있을게요. 필요하면요.
+DANIEL: Per, nu sover du. På riktigt. Sen ringer vi vårdcentralen tillsammans.
+= 페르, 이제 자요. 진짜로. 그다음에 같이 진료소에 전화해요.
+PER: Ja. Först ska jag hämta barnen.
+= 네. 먼저 애들 데리러 갈게요.
+OXENSTIERNA: En god morgon. Även för en foge.
+= 좋은 아침이군. 집행관에게도.
+GUNNEL: August, skriv något i Facebookgruppen. Folk väntar.
+= 아우구스트, 페이스북 그룹에 뭐 좀 써 줘요. 다들 기다려요.
+STRINDBERG: Två ord räcker.
+= 두 단어면 충분하오.
+ELSA: Vilka då?
+= 어떤 두 단어요?
+STRINDBERG: ”Inget nytt.” Det är den bästa nyheten i Vårberg på länge.
+= ‘새로운 일 없음.’ 바르베리에서 오랜만에 나온 최고의 소식이지.
+NEXT: 1부 5화 — «Killen från bygget»(공사장의 청년) — 6주째 임금을 받지 못한 22세 Farid가 찾아온다. 신고하면 노동허가를 잃을까 두렵다. Anton이 컨설팅 용어로 상황을 정리하려 하고, Elsa가 통역하듯 애쓴다.
