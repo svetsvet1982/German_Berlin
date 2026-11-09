@@ -16,16 +16,16 @@ CAST: KERSTIN | Bagarmossen 연립주택 주민 · 74세 (가상)
 NOTE: ※ 한파가 오면 스웨덴 남부의 전기요금이 크게 오릅니다. 특히 시간마다 값이 바뀌는 ‘변동요금(rörligt pris)’ 계약은 추운 날 고지서가 몇 배로 뛸 수 있습니다. 노인들에게 ‘전력회사에서 계약을 갱신해야 한다’며 전화해 비싼 계약으로 바꾸게 하는 판매가 사회 문제가 되었습니다. 스웨덴에서는 판매자가 먼저 전화해서 맺은 계약은 소비자가 서면으로 확인해야 효력이 생기고, 원격 계약에는 보통 14일의 철회권(ångerrätt)이 있습니다. 표현 초점: elavtal, rörligt pris, faktura, kilowattimme, ångerrätt.
 
 # 도입 — MINUS FEMTON
-BIGGAN: Minus femton i morse. Jag har aldrig sålt så mycket varm choklad.
-= 오늘 아침 영하 15도. 핫초코를 이렇게 많이 판 건 처음이야.
+BIGGAN: Minus femton i morse, och termometern utanför fönstret har inte rört sig sedan klockan sex. Jag har aldrig sålt så mycket varm choklad på en enda morgon.
+= 오늘 아침 영하 15도, 창밖 온도계는 여섯 시부터 꼼짝도 안 했어. 아침 한나절에 핫초코를 이렇게 많이 판 건 처음이야.
 ELSA: Minus femton? Det är vår i Kiruna.
 = 영하 15도요? 키루나에선 봄이에요.
-ANTON: Säg inte så. Jag har tre lager kläder och fryser ändå.
-= 그런 말 하지 마. 옷을 세 겹 입었는데도 추워.
+ANTON: Säg inte så. Jag har tre lager kläder och dubbla sockor, och jag fryser ändå som en hund.
+= 그런 말 하지 마. 옷을 세 겹 입고 양말도 두 켤레 신었는데 그래도 덜덜 떨려.
 DANIEL: Det är för att du har italienska skor.
 = 이탈리아 신발 신어서 그래.
-ANTON: Det är för att Stockholm är fuktigt. Kiruna är torrt.
-= 스톡홀름이 습해서 그래. 키루나는 건조하잖아.
+ANTON: Det är för att Stockholm är fuktigt. Kylan kryper in i kroppen här. Kiruna är torrt, det vet alla.
+= 스톡홀름이 습해서 그래. 여기선 추위가 몸속으로 파고든다고. 키루나는 건조하잖아, 다 아는 얘기야.
 ELSA: Det är för att du har italienska skor.
 = 이탈리아 신발 신어서 그래요.
 MAJA: Varför står det en kö utanför kaféet? Klockan är bara nio.
@@ -34,84 +34,84 @@ BIGGAN: Det är inte för chokladen. Det är för er.
 = 핫초코 때문이 아니야. 너희 때문이야.
 JOHAN: För oss?
 = 우리 때문에?
-BIGGAN: Ulla-Britt satte upp en lapp i tvättstugan i går. ”Har du fått en konstig elräkning? Kom till Biggans på lördag.”
-= 울라브리트가 어제 세탁실에 쪽지를 붙였어. ‘이상한 전기 요금 고지서 받으셨나요? 토요일에 비간스로 오세요.’
+BIGGAN: Ulla-Britt satte upp en lapp i tvättstugan i går, och sedan har den tydligen fotograferats och skickats runt i halva Söder. Det står: ”Har du fått en konstig elräkning? Kom till Biggans på lördag. Där finns folk som kan läsa fakturor.”
+= 울라브리트가 어제 세탁실에 쪽지를 붙였는데, 그 뒤로 누가 사진을 찍어서 쇠데르 절반에 돌린 모양이야. 이렇게 쓰여 있어. ‘이상한 전기 요금 고지서 받으셨나요? 토요일에 비간스로 오세요. 고지서 읽을 줄 아는 사람들이 있어요.’
 ELSA: Hon har lärt sig av dig, Biggan.
 = 비간한테 배우셨네요.
-BIGGAN: Och av dig, gumman. Hon skrev ”aldrig” med stora bokstäver.
-= 그리고 너한테도, 얘야. ‘절대’를 대문자로 썼더라.
-ULLA-BRITT: God morgon! Jag har tagit med vänner. Och fakturor.
-= 좋은 아침! 친구들을 데려왔어. 그리고 고지서들도.
+BIGGAN: Och av dig, gumman. Längst ner skrev hon ”Lämna ALDRIG ut ditt BankID”, med stora bokstäver och tre utropstecken.
+= 그리고 너한테도, 얘야. 맨 아래엔 ‘BankID는 절대 남에게 넘기지 마세요’라고 대문자로 쓰고 느낌표를 세 개나 붙였더라.
+ULLA-BRITT: God morgon! Jag har tagit med mig vänner. Och fakturor, en hel kasse full.
+= 좋은 아침! 친구들을 데려왔어. 그리고 고지서도, 장바구니 한가득.
 MAJA: Hur många vänner?
 = 친구가 몇 명이에요?
-ULLA-BRITT: Elva. Och fler är på väg. Från Bagarmossen och Älvsjö.
-= 열한 명. 그리고 더 오는 중이야. 바가르모센이랑 엘브셰에서.
+ULLA-BRITT: Elva stycken, och fler är på väg. Några kommer från Bagarmossen och några från Älvsjö, med buss och pendeltåg, trots kylan.
+= 열한 명. 그리고 더 오는 중이야. 몇은 바가르모센에서, 몇은 엘브셰에서 와. 이 추위에도 버스랑 통근열차를 타고.
 ANTON: Elva pensionärer med elräkningar. Det är en workshop.
 = 전기 요금 고지서 든 연금 수령자 열한 명. 이건 워크숍이네.
 MAJA: En krona. Och det är ingen workshop. Det är ett kaos.
 = 1크로나. 그리고 이건 워크숍이 아니야. 혼돈이지.
-WICKSELL: Det är en marknad. Och någon har riggat den.
-= 그건 시장이네. 그리고 누군가 그걸 조작했지.
+WICKSELL: Det är en marknad, mina vänner. Och någon har riggat den, ungefär som en köpman som lägger tummen på vågen när kunden tittar bort.
+= 이건 시장일세, 친구들. 그리고 누군가 그걸 조작했지. 손님이 한눈팔 때 저울에 엄지를 올려놓는 장사꾼처럼 말이네.
 BIGGAN: Knut! Du kommer alltid när det är kallt.
 = 크누트! 추울 때면 꼭 오네.
-WICKSELL: Jag kommer när priset är fel. Och i dag är priset på el fel för väldigt många.
-= 가격이 틀렸을 때 오는 거네. 그리고 오늘은 아주 많은 사람에게 전기 가격이 틀렸지.
+WICKSELL: Jag kommer när priset är fel. Och i dag är priset på el fel för väldigt många, inte för att kylan är ovanlig i december, utan för att någon har sett till att de som fryser mest också betalar mest.
+= 가격이 틀렸을 때 오는 거네. 그리고 오늘은 아주 많은 사람에게 전기 가격이 틀렸지. 12월 추위가 드물어서가 아니라, 가장 많이 떠는 사람이 가장 많이 내도록 누군가 손을 써 놨기 때문일세.
 JOHAN: Okej. Ett steg i taget. En i taget. Vem är först?
 = 좋아. 한 걸음씩. 한 명씩. 누가 먼저예요?
-ULLA-BRITT: Bengt. Han har frusit mest.
-= 벵트. 제일 많이 얼었어.
+ULLA-BRITT: Bengt. Han har frusit mest av oss alla, stackarn.
+= 벵트. 우리 중에 제일 많이 얼었어, 불쌍하게도.
 
 # 장면 1 — KÖN TILL KAFÉET
-BENGT: God morgon. Bengt Lindqvist. Från Älvsjö. Jag har en villa från 1962. Med elelement.
-= 좋은 아침이오. 벵트 린드크비스트. 엘브셰에서 왔소. 1962년에 지은 주택에 살고 있소. 전기 난방이오.
+BENGT: God morgon. Bengt Lindqvist, från Älvsjö. Jag bor i en villa från 1962, och den värms fortfarande med elelement i varje rum.
+= 좋은 아침이오. 벵트 린드크비스트, 엘브셰에서 왔소. 1962년에 지은 주택에 사는데, 아직도 방마다 전기 난방기로 데우고 있소.
 ELSA: Ursäkta, vad är elelement?
 = 실례지만, 전기 난방기가 뭐예요?
-BENGT: Element som värms med el. Inte med fjärrvärme som här i stan. När det är kallt går de hela dagen.
-= 전기로 데우는 난방기요. 여기 시내처럼 지역난방이 아니라. 추우면 하루 종일 돌아가지.
+BENGT: Element som värms med el, alltså. Inte med fjärrvärme som här i stan, där varmvattnet kommer i rör från ett stort värmeverk. När det är kallt ute går mina element hela dagen och hela natten, och då snurrar elmätaren som en karusell.
+= 전기로 데우는 난방기 말이오. 여기 시내처럼 큰 열병합 발전소에서 관으로 뜨거운 물이 오는 지역난방이 아니라. 밖이 추우면 우리 집 난방기는 하루 종일, 밤새도록 돌아가고, 그러면 전기 계량기가 회전목마처럼 돌아가지.
 MAJA: Får jag se fakturan?
 = 고지서 좀 볼 수 있을까요?
-BENGT: Niotusen fyrahundra kronor. För november. Förra året var det tretusen.
-= 9,400크로나. 11월분이오. 작년엔 3,000이었소.
+BENGT: Niotusen fyrahundra kronor. För november. Förra året var det tretusen, och det tyckte jag var mycket redan då.
+= 9,400크로나. 11월분이오. 작년엔 3,000이었는데, 그때도 많다고 생각했소.
 ANTON: Tre gånger så mycket.
 = 세 배네.
-BENGT: Jag har inte ändrat något. Jag har samma termostat. Samma tofflor.
-= 난 아무것도 바꾼 게 없소. 같은 온도 조절기. 같은 슬리퍼.
+BENGT: Jag har inte ändrat något. Jag har samma termostat, på samma siffra som alltid. Samma tofflor, till och med.
+= 난 아무것도 바꾼 게 없소. 같은 온도 조절기에, 늘 같은 눈금이오. 슬리퍼까지 같은 거요.
 MAJA: Men ni har bytt elbolag. Här står ”Nordel Energi”. Förra året stod det Vattenfall.
 = 근데 전력회사를 바꾸셨네요. 여기 ‘노르델 에너지’라고 적혀 있어요. 작년엔 바텐팔이었는데.
 BENGT: Nej. Jag har aldrig bytt.
 = 아니오. 난 한 번도 바꾼 적 없소.
-KERSTIN: Det har inte jag heller! Men jag har också Nordel nu.
-= 나도 안 바꿨어요! 근데 나도 지금 노르델이에요.
+KERSTIN: Det har inte jag heller! Men jag har också Nordel nu, och jag förstår inte hur det gick till.
+= 나도 안 바꿨어요! 근데 나도 지금 노르델이에요. 어떻게 된 건지 모르겠어요.
 ELSA: Hur hände det?
 = 어떻게 그렇게 됐어요?
-KERSTIN: En ung kvinna ringde i oktober. Hon sa att hon ringde från ”mitt elbolag”. Att mitt avtal måste uppdateras på grund av nya regler från EU.
-= 10월에 젊은 여자가 전화했어요. ‘제 전력회사’에서 전화한다고 했어요. EU 새 규정 때문에 제 계약을 갱신해야 한다고.
-BENGT: Samma sak här. En ung man. Väldigt trevlig. Han pratade om sitt barnbarn.
-= 나도 똑같소. 젊은 남자였소. 아주 친절했지. 자기 손주 얘기를 했소.
-ULLA-BRITT: Alltid trevliga. Alltid unga. Det är som med banken.
+KERSTIN: En ung kvinna ringde en kväll i oktober. Hon sa att hon ringde från ”mitt elbolag”, och att mitt avtal måste uppdateras på grund av nya regler från EU. Hon lät så säker att jag inte ens tänkte på att fråga vilket bolag hon menade.
+= 10월 어느 저녁에 젊은 여자가 전화했어요. ‘제 전력회사’에서 전화한다면서, EU 새 규정 때문에 제 계약을 갱신해야 한다고 했어요. 너무 자신 있게 말해서 어느 회사를 말하는 건지 물어볼 생각도 못 했어요.
+BENGT: Samma sak här. En ung man, väldigt trevlig och artig. Han pratade om sitt barnbarn i tio minuter innan han kom till saken.
+= 나도 똑같소. 젊은 남자였는데, 아주 친절하고 예의 발랐소. 본론으로 들어가기 전에 십 분 동안 자기 손주 얘기를 했소.
+ULLA-BRITT: Alltid trevliga. Alltid unga. Det är precis som med banken.
 = 늘 친절하지. 늘 젊고. 은행 때랑 똑같아.
 JOHAN: Sa ni ja i telefon?
 = 전화로 ‘네’라고 하셨어요?
-KERSTIN: Jag sa ”ja, okej”. För att få avsluta samtalet. Det var mitt i ”Bingolotto”.
-= ‘네, 알겠어요’라고 했어요. 전화를 끊으려고요. ‘빙고로토’ 한창일 때였어요.
+KERSTIN: Jag sa ”ja, okej” bara för att få avsluta samtalet. Det var mitt i ”Bingolotto”, och jag hade nästan bingo på min lott.
+= 전화를 끊으려고 그냥 ‘네, 알겠어요’라고 했어요. ‘빙고로토’가 한창일 때였고, 제 복권이 빙고 직전이었거든요.
 DANIEL: Lita aldrig på någon som ringer under Bingolotto. Göte hade sagt det.
 = 빙고로토 볼 때 전화하는 사람은 절대 믿지 마세요. 예테라면 그렇게 말했겠죠.
 ULLA-BRITT: Göte hade sagt det. Exakt det.
 = 예테라면 그렇게 말했겠지. 딱 그렇게.
 MAJA: Fick ni något papper efteråt? Ett mejl, ett brev?
 = 그 후에 서류를 받으셨어요? 이메일이나 편지?
-KERSTIN: Jag har ingen e-post. Jag fick ett sms med en länk. Jag tryckte inte på den. Jag trycker aldrig på länkar.
-= 전 이메일이 없어요. 링크가 있는 문자를 받았어요. 안 눌렀어요. 전 링크는 절대 안 눌러요.
+KERSTIN: Jag har ingen e-post. Jag fick ett sms med en länk. Jag tryckte inte på den. Jag trycker aldrig på länkar, det har mitt barnbarn lärt mig.
+= 전 이메일이 없어요. 링크가 있는 문자를 받았어요. 안 눌렀어요. 전 링크는 절대 안 눌러요, 손주가 그렇게 가르쳐 줬거든요.
 JOHAN: Bra. Mycket bra.
 = 좋아요. 아주 좋아요.
-BENGT: Jag tryckte. Och sen loggade jag in med BankID. Han sa att det var för att ”bekräfta min identitet”.
-= 난 눌렀소. 그리고 BankID로 로그인했소. 그 남자가 ‘본인 확인’을 위한 거라고 했소.
+BENGT: Jag tryckte. Och sedan loggade jag in med BankID. Mannen hade sagt att det bara var för att ”bekräfta min identitet”, så jag tänkte inte mer på det.
+= 난 눌렀소. 그리고 BankID로 로그인했소. 그 남자가 그냥 ‘본인 확인’을 위한 거라고 했으니, 더는 생각하지 않았소.
 ELSA: Bekräfta identitet. Samma ord som i Ulla-Britts samtal.
 = 본인 확인. 울라브리트 전화 때랑 같은 말이네요.
-WICKSELL: Det är alltid samma ord. Bara varan är olika.
-= 늘 같은 말이지. 상품만 다를 뿐.
-BIGGAN: Ni behöver varm choklad båda två. Med grädde.
-= 두 분 다 핫초코가 필요하겠네요. 생크림 얹어서.
+WICKSELL: Det är alltid samma ord. Bara varan är olika: förra gången var det sparpengar, i dag är det el och värme.
+= 늘 같은 말이지. 상품만 다를 뿐. 지난번엔 저축한 돈이었고, 오늘은 전기와 난방이네.
+BIGGAN: Ni behöver varm choklad båda två. Med grädde, och en kanelbulle var.
+= 두 분 다 핫초코가 필요하겠네요. 생크림 얹어서, 시나몬롤도 하나씩.
 BENGT: Jag har inte råd med grädde nu.
 = 지금은 생크림 살 돈이 없소.
 BIGGAN: Grädden bjuder jag på, Bengt. Den har inget rörligt pris.
@@ -122,110 +122,110 @@ MAJA: Okej. Jag har räknat på tolv fakturor. Alla från Nordel. Samma mönster
 = 좋아. 고지서 열두 장을 계산했어. 전부 노르델 거. 같은 패턴이야.
 ANTON: Vilket mönster?
 = 어떤 패턴?
-MAJA: Rörligt pris. Plus ett påslag på nittio öre per kilowattimme. Plus en månadsavgift på tvåhundranittio kronor.
-= 변동요금. 거기에 킬로와트시당 90외레 가산금. 거기에 월 기본료 290크로나.
+MAJA: Rörligt pris. Plus ett påslag på nittio öre per kilowattimme. Plus en månadsavgift på tvåhundranittio kronor. Tolv av tolv.
+= 변동요금. 거기에 킬로와트시당 90외레 가산금. 거기에 월 기본료 290크로나. 열두 장 전부 다.
 ELSA: Ursäkta, vad är en kilowattimme? Och ett påslag?
 = 실례지만, 킬로와트시가 뭐예요? 그리고 가산금은요?
-MAJA: En kilowattimme är hur mycket el man använder. Ungefär som en ugn i en timme. Påslaget är det bolaget lägger till på priset. Deras vinst.
-= 킬로와트시는 전기를 얼마나 쓰는지야. 대충 오븐을 한 시간 켜는 정도. 가산금은 회사가 가격에 덧붙이는 거고. 그 회사 이익이지.
+MAJA: En kilowattimme är ett mått på hur mycket el man använder. Ungefär som en ugn som står på i en timme. Påslaget är det som bolaget lägger till på det vanliga elpriset, för sina kostnader och sin vinst. Det är där pengarna finns.
+= 킬로와트시는 전기를 얼마나 쓰는지 재는 단위야. 대충 오븐을 한 시간 켜 둔 정도. 가산금은 회사가 비용이랑 이익 때문에 보통 전기 가격에 덧붙이는 거고. 돈은 바로 거기서 나와.
 ANTON: Och hur stort brukar påslaget vara?
 = 가산금은 보통 얼마야?
 MAJA: Hos ett vanligt bolag: fem, kanske tio öre. Här: nittio.
 = 보통 회사는: 5외레, 많아야 10외레. 여기는: 90.
-WICKSELL: Nio gånger så mycket. För exakt samma el. Samma elektroner.
-= 아홉 배. 똑같은 전기에. 똑같은 전자에.
+WICKSELL: Nio gånger så mycket. För exakt samma el, från samma kraftverk, genom samma ledningar. Samma elektroner, mina damer och herrar.
+= 아홉 배. 똑같은 발전소에서 똑같은 전선을 타고 오는 똑같은 전기에. 똑같은 전자에 말입니다, 신사 숙녀 여러분.
 DANIEL: Och när det är minus femton och elementen går hela dagen…
 = 그리고 영하 15도에 난방기가 하루 종일 돌아가면…
 MAJA: …blir det niotusen fyrahundra kronor.
 = …9,400크로나가 되는 거지.
-BENGT: Min pension är fjorton tusen i månaden. Efter skatt.
-= 내 연금은 한 달에 14,000이오. 세후로.
-ELSA: Så elen tar mer än hälften.
-= 그럼 전기가 절반 넘게 가져가네요.
-KERSTIN: Jag har slutat sätta på ugnen. Jag äter smörgåsar.
-= 전 오븐 켜는 걸 그만뒀어요. 샌드위치만 먹어요.
-DANIEL: Hur varmt har du inne, Kerstin?
-= 집 안은 몇 도로 두세요, 셰르스틴?
-KERSTIN: Sexton grader. Jag har mössa på mig inne.
-= 16도요. 집 안에서 털모자 써요.
-DANIEL: Det är för kallt. Särskilt i din ålder. Det är en fråga om hälsa, inte bara om pengar.
-= 너무 추워요. 특히 그 연세엔. 이건 돈 문제만이 아니라 건강 문제예요.
+BENGT: Min pension är fjorton tusen i månaden. Efter skatt. Och den ska räcka till mat, medicin och allt annat också.
+= 내 연금은 한 달에 14,000이오. 세후로. 그걸로 음식이며 약이며 다른 것도 다 해결해야 하오.
+ELSA: Så elen tar mer än hälften av hans pension.
+= 그럼 전기가 연금의 절반 넘게 가져가네요.
+KERSTIN: Jag har slutat sätta på ugnen, för jag vågar inte. Jag äter smörgåsar till middag, och jag duschar så snabbt jag kan.
+= 전 오븐 켜는 걸 그만뒀어요, 겁이 나서요. 저녁엔 샌드위치만 먹고, 샤워도 최대한 빨리 해요.
+DANIEL: Hur varmt har du inne just nu, Kerstin?
+= 요즘 집 안은 몇 도로 두세요, 셰르스틴?
+KERSTIN: Sexton grader. Jag har mössa på mig inne, och två filtar i soffan när jag tittar på tv.
+= 16도요. 집 안에서 털모자 쓰고, 텔레비전 볼 땐 소파에서 담요를 두 장 덮어요.
+DANIEL: Det är för kallt, särskilt i din ålder. När man är över sjuttio blir kroppen sämre på att hålla värmen, och blodtrycket stiger när man fryser. Varje vinter får vi in äldre på akuten som har sparat på värmen. Det är en fråga om hälsa, inte bara om pengar.
+= 너무 추워요, 특히 그 연세엔. 일흔이 넘으면 몸이 체온을 잘 못 지키고, 추우면 혈압이 올라가요. 겨울마다 난방비를 아끼다가 응급실에 실려 오는 어르신들이 있어요. 이건 돈 문제만이 아니라 건강 문제예요.
 JOHAN: Nu det viktiga. Kerstin sa ja i telefon, men bekräftade aldrig skriftligt.
 = 이제 중요한 거. 셰르스틴은 전화로 ‘네’라고 했지만, 서면으로 확인한 적은 없어.
 ELSA: Skriftligt. Som med Leylas kök.
 = 서면으로. 레일라 부엌 때처럼요.
-JOHAN: Precis. När säljaren ringer upp dig, räcker inte ett ja i telefon. Konsumenten måste bekräfta skriftligt. Annars finns inget avtal.
-= 바로 그거야. 판매자가 먼저 전화했을 땐 전화로 ‘네’라고 한 걸로는 부족해. 소비자가 서면으로 확인해야 해. 안 그러면 계약이 없는 거야.
+JOHAN: Precis. När säljaren ringer upp dig räcker det inte med ett ja i telefon. Säljaren måste skicka erbjudandet skriftligt, och konsumenten måste acceptera det skriftligt. Annars finns inget avtal.
+= 바로 그거야. 판매자가 먼저 전화했을 땐 전화로 ‘네’라고 한 걸로는 부족해. 판매자가 제안을 서면으로 보내야 하고, 소비자가 서면으로 승낙해야 해. 안 그러면 계약이 없는 거야.
 KERSTIN: Så jag har inget avtal med Nordel?
 = 그럼 전 노르델이랑 계약이 없는 거예요?
-JOHAN: Troligen inte. Då ska du inte betala deras priser.
-= 아마 없을 거예요. 그럼 그 회사 가격을 낼 필요가 없어요.
+JOHAN: Troligen inte, men vi ska kontrollera det noga. Och utan avtal ska du inte betala deras priser.
+= 아마 없을 거예요. 그래도 꼼꼼히 확인해 볼게요. 그리고 계약이 없으면 그 회사 가격을 낼 필요가 없어요.
 KERSTIN: Gud välsigne Bingolotto.
 = 빙고로토에 축복을.
 ULLA-BRITT: Amen.
 = 아멘.
-BENGT: Och jag? Jag tryckte på länken.
-= 그럼 나는? 난 링크를 눌렀소.
-JOHAN: Med BankID kan det räknas som skriftligt. Det är svårare. Men det finns en sak till: ångerrätten.
-= BankID로 했으면 서면으로 칠 수도 있어요. 그게 더 어려워요. 근데 한 가지가 더 있어요: 철회권.
+BENGT: Och jag, då? Jag tryckte ju på länken och loggade in.
+= 그럼 나는? 난 링크를 누르고 로그인까지 했잖소.
+JOHAN: Med BankID kan det räknas som en skriftlig bekräftelse, så för dig är det svårare. Men det finns en sak till som kan hjälpa: ångerrätten.
+= BankID로 했으면 서면 확인으로 칠 수도 있어서, 벵트 씨 경우는 더 어려워요. 근데 도움이 될 만한 게 하나 더 있어요: 철회권.
 
 # 절정 — INSPELNINGEN
 ELSA: Vad betyder ångerrätt?
 = 철회권이 뭐예요?
-JOHAN: Rätten att ångra sig. Att säga nej efter att man har sagt ja. Oftast fjorton dagar för avtal på distans.
-= 마음을 바꿀 권리. ‘네’라고 한 뒤에 ‘아니요’라고 할 수 있는 권리. 원격 계약은 보통 14일이야.
+JOHAN: Rätten att ångra sig. Att säga nej efter att man har sagt ja, utan att behöva förklara varför och utan att betala någon straffavgift. För avtal som görs på distans, alltså via telefon eller internet, är det oftast fjorton dagar.
+= 마음을 바꿀 권리. ‘네’라고 한 뒤에 이유를 설명하지 않아도, 위약금을 내지 않아도 ‘아니요’라고 할 수 있는 권리야. 전화나 인터넷 같은 원격 계약은 보통 14일이고.
 WICKSELL: Räkna dagarna, Bengt. När tryckte du?
 = 날짜를 세게, 벵트. 언제 눌렀나?
-BENGT: Jag vet inte. I oktober?
-= 모르겠소. 10월이었나?
-MAJA: Fakturan säger att avtalet började den första november. Men när bekräftade du?
-= 고지서엔 계약이 11월 1일에 시작됐다고 돼 있어요. 근데 확인은 언제 하셨어요?
-BENGT: Vänta. Sms:et. Jag har det kvar. Den nionde december.
-= 잠깐. 문자. 아직 있소. 12월 9일.
-ANTON: December? Men fakturan gäller november.
-= 12월이요? 근데 고지서는 11월분인데.
-JOHAN: De tog betalt för november innan han ens hade bekräftat. Och han bekräftade för tio dagar sedan.
-= 확인도 하기 전에 11월 요금을 청구한 거야. 그리고 이분은 열흘 전에 확인했고.
-ELSA: Så fyra dagar kvar av ångerrätten!
+BENGT: Jag vet inte. I oktober, kanske? Allt flyter ihop när man blir gammal.
+= 모르겠소. 10월이었나? 나이가 들면 다 뒤죽박죽이오.
+MAJA: Fakturan säger att avtalet började den första november. Men ångerrätten räknas från när du bekräftade. När var det?
+= 고지서엔 계약이 11월 1일에 시작됐다고 돼 있어요. 근데 철회권은 확인하신 날부터 세요. 그게 언제였어요?
+BENGT: Vänta. Sms:et. Jag har det kvar, jag raderar aldrig något. Den nionde december.
+= 잠깐. 문자. 아직 있소, 난 아무것도 안 지우니까. 12월 9일.
+ANTON: December? Men fakturan gäller ju hela november.
+= 12월이요? 근데 고지서는 11월 한 달 치잖아요.
+JOHAN: De tog betalt för hela november innan han ens hade bekräftat något. Och han bekräftade för tio dagar sedan, inte i oktober.
+= 아무것도 확인하기 전에 11월 한 달 요금을 다 청구한 거야. 그리고 이분은 10월이 아니라 열흘 전에 확인했고.
+ELSA: Så då är det fyra dagar kvar av ångerrätten!
 = 그럼 철회권이 나흘 남았네요!
-WICKSELL: Fyra dagar. Räkna dem, och använd dem.
-= 나흘. 세고, 그리고 쓰게.
-ANTON: Jag ringer Nordel. Nu. På högtalare.
-= 내가 노르델에 전화할게. 지금. 스피커로.
+WICKSELL: Fyra dagar. Räkna dem, och använd dem. Tiden är det enda kapital som ingen kan låna mer av.
+= 나흘. 세고, 그리고 쓰게. 시간은 아무도 더 빌릴 수 없는 유일한 자본이네.
+ANTON: Jag ringer Nordel. Nu, på en gång. På högtalare, så att alla hör.
+= 내가 노르델에 전화할게. 지금 당장. 다들 들을 수 있게 스피커로.
 MAJA: Du? Utan engelska?
 = 네가? 영어 없이?
-ANTON: Jag har övat med P1 i en månad. Lyssna.
-= 한 달 동안 P1으로 연습했어. 들어 봐.
+ANTON: Jag har övat med P1 i en månad. Lyssna och lär.
+= 한 달 동안 P1으로 연습했어. 듣고 배워.
 MAJA: Vi lyssnar. Andas, Anton.
 = 듣고 있어. 숨 쉬어, 안톤.
-ANTON: Hej. Jag ringer för Bengt Lindqvist och Kerstin Åberg. Vi vill avsluta deras avtal.
-= 안녕하세요. 벵트 린드크비스트 씨와 셰르스틴 오베리 씨를 대신해 전화했습니다. 두 분 계약을 해지하고 싶습니다.
+ANTON: Hej. Jag ringer för Bengt Lindqvist och Kerstin Åberg. Vi vill avsluta deras avtal med omedelbar verkan.
+= 안녕하세요. 벵트 린드크비스트 씨와 셰르스틴 오베리 씨를 대신해 전화했습니다. 두 분 계약을 즉시 해지하고 싶습니다.
 ELSA: Vad säger de?
 = 뭐래요?
-ANTON: De säger att de har en inspelning där Kerstin säger ja. Att avtalet är giltigt.
-= 셰르스틴 씨가 ‘네’라고 하는 녹음이 있대. 계약이 유효하다고.
-JOHAN: Säg att ett ja i telefon inte räcker när de har ringt upp. Det krävs skriftlig bekräftelse. Fråga om de har en.
-= 그쪽이 먼저 전화했을 땐 전화상 ‘네’로는 부족하다고 해. 서면 확인이 필요하다고. 그게 있는지 물어봐.
-ANTON: Har ni en skriftlig bekräftelse från fru Åberg? … Nej? Då finns inget avtal.
-= 오베리 씨의 서면 확인이 있습니까? … 없다고요? 그럼 계약은 없는 겁니다.
+ANTON: De säger att de har en inspelning där Kerstin säger ja. Att avtalet är giltigt och att hon måste betala.
+= 셰르스틴 씨가 ‘네’라고 하는 녹음이 있대. 계약이 유효하니까 요금을 내야 한다고.
+JOHAN: Säg att ett ja i telefon inte räcker när det är de som har ringt upp. Det krävs en skriftlig bekräftelse från konsumenten, och en inspelning är ingen sådan. Fråga om de har en, och be dem skicka den till oss.
+= 그쪽이 먼저 전화했을 땐 전화상 ‘네’로는 부족하다고 해. 소비자의 서면 확인이 필요하고, 녹음은 그게 아니라고. 그게 있는지 물어보고, 있으면 우리한테 보내 달라고 해.
+ANTON: Har ni en skriftlig bekräftelse från fru Åberg? … Nej? Då finns det inget avtal, och då betalar hon inte heller.
+= 오베리 씨의 서면 확인이 있습니까? … 없다고요? 그럼 계약은 없는 거고, 그럼 그분도 요금을 내지 않습니다.
 KERSTIN: De har ingen!
 = 없대요!
-ANTON: Och för herr Lindqvist utnyttjar vi ångerrätten. I dag. Den nittonde december. Inom fjorton dagar.
-= 그리고 린드크비스트 씨는 철회권을 행사합니다. 오늘. 12월 19일. 14일 이내입니다.
+ANTON: Och för herr Lindqvist utnyttjar vi ångerrätten. I dag, den nittonde december, alltså inom fjorton dagar från hans bekräftelse.
+= 그리고 린드크비스트 씨는 철회권을 행사합니다. 오늘, 12월 19일. 즉 확인하신 날로부터 14일 이내입니다.
 ELSA: Vad säger de nu?
 = 이번엔 뭐래요?
-ANTON: De säger: ”Vi återkommer.” Det betyder att de vet att de har förlorat.
-= ‘다시 연락드리겠습니다’래. 진 걸 안다는 뜻이야.
+ANTON: De säger: ”Vi återkommer.” Det betyder att de vet att de har förlorat. Det säger vi också i konsultvärlden när vi har förlorat.
+= ‘다시 연락드리겠습니다’래. 진 걸 안다는 뜻이야. 컨설팅 업계에서도 졌을 때 그렇게 말하거든.
 MAJA: Anton. Hela samtalet. Inte ett enda engelskt ord.
 = 안톤. 통화 내내. 영어 단어가 하나도 없었어.
-ANTON: Det var det svåraste samtalet i mitt liv.
-= 내 인생에서 가장 어려운 통화였어.
-BENGT: Unge man. Du talade som en riktig svensk tjänsteman. Det är en komplimang.
-= 젊은이. 진짜 스웨덴 공무원처럼 말했소. 칭찬이오.
+ANTON: Honestly, det var det svåraste samtalet i mitt liv. Svårare än min första pitch för en styrelse.
+= 솔직히(honestly), 내 인생에서 가장 어려운 통화였어. 이사회 앞에서 한 첫 피치보다 더 어려웠다고.
+BENGT: Unge man. Du talade som en riktig svensk tjänsteman, lugnt och sakligt och utan att höja rösten en enda gång. Det är en komplimang.
+= 젊은이. 진짜 스웨덴 공무원처럼 말했소. 차분하고 사무적으로, 한 번도 목소리를 높이지 않고. 칭찬이오.
 ANTON: Tack. Jag tror det.
 = 감사합니다. 그런 것 같네요.
-JOHAN: Nu skriver vi samma brev för alla tolv. Och en anmälan till Konsumentverket.
-= 이제 열두 분 모두를 위해 같은 편지를 쓰자. 그리고 소비자청에 신고도.
+JOHAN: Nu skriver vi samma brev för alla tolv, med datum och underskrift. Och en anmälan till Konsumentverket, så att fler slipper.
+= 이제 열두 분 모두를 위해 같은 편지를 쓰자. 날짜랑 서명 넣어서. 그리고 소비자청에 신고도 해서, 더 많은 사람이 이런 일을 안 겪게 하자.
 
 # 마무리 — FYRA DAGAR KVAR
 ELSA: Tolv brev. Tolv kuvert. Tolv frimärken.
@@ -238,20 +238,20 @@ MAJA: Sätt på ugnen, Kerstin. Och sätt upp värmen till tjugoen grader.
 = 오븐 켜세요, 셰르스틴. 그리고 난방을 21도로 올리세요.
 DANIEL: Läkarordination.
 = 의사 처방이에요.
-BENGT: Och jag ska byta tillbaka till Vattenfall. Med fast pris. Och jag ska aldrig svara när en ung man ringer igen.
-= 그리고 난 바텐팔로 다시 바꾸겠소. 고정 요금으로. 그리고 젊은 남자가 전화하면 다시는 안 받겠소.
+BENGT: Och jag ska byta tillbaka till Vattenfall, med fast pris. Och jag ska aldrig mer svara när en ung man ringer, hur trevlig han än låter.
+= 그리고 난 바텐팔로 다시 바꾸겠소. 고정 요금으로. 그리고 젊은 남자가 전화하면, 아무리 친절하게 들려도 다시는 안 받겠소.
 ULLA-BRITT: Inte ens om han pratar om sitt barnbarn.
 = 손주 얘기를 해도 받지 마.
 BENGT: Särskilt inte då.
 = 특히 그럴 땐 더더욱.
 KERSTIN: Och aldrig under Bingolotto.
 = 그리고 빙고로토 볼 땐 절대로.
-WICKSELL: En marknad fungerar bara om folk vet vad de köper. I dag lärde sig tolv personer det. Det är mer än många ekonomer.
-= 시장은 사람들이 뭘 사는지 알 때만 돌아가네. 오늘 열두 명이 그걸 배웠지. 웬만한 경제학자보다 많군.
+WICKSELL: En marknad fungerar bara om folk vet vad de köper. Annars är det inte konkurrens, utan bara en jakt på dem som inte orkar läsa det finstilta. I dag lärde sig tolv personer det. Det är fler än många ekonomer.
+= 시장은 사람들이 뭘 사는지 알 때만 돌아가네. 그렇지 않으면 그건 경쟁이 아니라, 깨알 같은 글씨를 읽을 기운이 없는 사람들을 사냥하는 것뿐이지. 오늘 열두 명이 그걸 배웠네. 웬만한 경제학자보다 많군.
 ELSA: Maja, du har varit tyst sedan Anton ringde. Är du okej?
 = 마야, 안톤이 전화한 뒤로 조용하네요. 괜찮아요?
-MAJA: Jag tänkte på något. På fakturor som ingen läser.
-= 뭔가 생각하고 있었어. 아무도 안 읽는 고지서들에 대해.
+MAJA: Jag tänkte på något. På fakturor som ingen läser, och på siffror som alla ser men ingen frågar om.
+= 뭔가 생각하고 있었어. 아무도 안 읽는 고지서들, 그리고 다들 보면서도 아무도 묻지 않는 숫자들에 대해.
 DANIEL: Vilka fakturor?
 = 어떤 고지서?
 MAJA: Det är inte de här. Det är gamla. Från ett jobb jag hade.
@@ -260,8 +260,8 @@ BIGGAN: Du vet vad det är för dag på tisdag?
 = 화요일이 무슨 날인지 알지?
 ANTON: Kontorets julbord.
 = 사무소 크리스마스 뷔페.
-BIGGAN: Och vid julbordet berättar någon. Det är nästan fredag.
-= 그리고 크리스마스 뷔페에선 누군가 이야기를 하지. 그건 거의 금요일이야.
+BIGGAN: Och vid julbordet brukar någon berätta något som den har burit på hela året. Det är nästan fredag.
+= 그리고 크리스마스 뷔페에선 꼭 누군가 일 년 내내 품고 있던 이야기를 털어놓지. 그건 거의 금요일이야.
 MAJA: Okej. På tisdag. Vid sillen.
 = 알았어. 화요일에. 청어 옆에서.
 NEXT: 2부 6화 — «Revisorns tystnad»(회계사의 침묵) — 철회권과 소비자청 신고로 열두 장의 계약이 되돌려진다. 크리스마스 직전 사무소 julbord에서 Maja가 처음 털어놓는다: 2018년 Saltsjöbanken 감사에서 의심을 적지 않고 서명했다.
