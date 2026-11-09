@@ -22,130 +22,130 @@
 #note: 116117 = 진료 예약 서비스(Terminservicestelle). 가정의의 긴급 의뢰서(Überweisung mit Dringlichkeitscode)가 있으면 전문의 예약을 몇 주 안에 잡아 준다. 하지만 원하는 병원이나 동네를 고를 수 없는 경우가 많다.
 #note: 비용 이야기(Sie): Wird das von der Kasse übernommen? / Muss ich etwas zuzahlen? / Was kostet das? / Das ist eine Kassenleistung. / Das ist eine IGeL-Leistung.(본인이 전액 부담하는 선택 진료)
 ## Im Wartezimmer | 대기실에서
-Frau Kaya: Guten Morgen, Frau Krüger. Ihre Versichertenkarte, bitte. Ist Ihre Adresse noch dieselbe? || 좋은 아침이에요, 크뤼거 부인. 보험 카드 주세요. 주소는 그대로세요?
-Edith: Seit zweiundfünfzig Jahren dieselbe. Maybachufer. Vierter Stock. Seitenflügel. || 오십이 년째 그대로예요. 마이바흐우퍼. 옆 동 5층.
-Frau Kaya: Gut. Nehmen Sie bitte noch einen Moment Platz. Es dauert ungefähr zwanzig Minuten. || 네. 조금만 더 앉아 계세요. 이십 분 정도 걸려요.
-Derya: Zwanzig Minuten? Wir hatten einen Termin um acht. || 이십 분이요? 여덟 시 예약이었는데요.
+Frau Kaya: Guten Morgen, Frau Krüger. Ihre Versichertenkarte, bitte. Ist Ihre Adresse noch dieselbe? Ich frage das heute alle, weil wir die Daten auf der Karte prüfen müssen. || 좋은 아침이에요, 크뤼거 부인. 보험 카드 주세요. 주소는 그대로세요? 카드 정보를 확인해야 해서 오늘은 모든 분께 여쭤보고 있어요.
+Edith: Seit zweiundfünfzig Jahren dieselbe. Maybachufer. Vierter Stock. Seitenflügel. Und ich habe nicht vor, so bald umzuziehen, auch wenn die Treppe das anders sieht. || 오십이 년째 그대로예요. 마이바흐우퍼. 옆 동 5층. 계단 생각은 다를지 몰라도, 나는 곧 이사할 생각 없어요.
+Frau Kaya: Gut. Nehmen Sie bitte noch einen Moment Platz. Es dauert ungefähr zwanzig Minuten. Ich weiß, das ist lang, aber heute geht es leider nicht schneller. || 네. 조금만 더 앉아 계세요. 이십 분 정도 걸려요. 길다는 거 알지만 오늘은 안타깝게도 더 빨리는 안 돼요.
+Derya: Zwanzig Minuten? Wir hatten einen Termin um acht. Wir sind extra pünktlich gekommen, obwohl Frau Krüger heute Morgen dreimal zu Hause bleiben wollte. || 이십 분이요? 여덟 시 예약이었는데요. 크뤼거 부인이 오늘 아침에 세 번이나 집에 있겠다고 하셨는데도 일부러 시간 맞춰 왔단 말이에요.
 Frau Kaya: Ich weiß. Heute sind drei Notfälle gekommen. Ohne Termin. Und eine Ärztin ist krank. Frau Doktor Nowak arbeitet heute für zwei. || 알아요. 오늘 예약 없이 응급 환자가 세 명이나 왔어요. 그리고 의사 한 분이 아프세요. 노박 선생님이 오늘 두 사람 몫을 하고 계세요.
-Derya: Für zwei. Wie bei uns auf der Station. || 두 사람 몫이라. 우리 병동이랑 똑같네.
-Edith: Derya, du musst nicht mitkommen. Ich bin dreiundachtzig, nicht drei. || 데르야, 같이 안 와도 돼. 나 여든셋이지 세 살이 아니야.
+Derya: Für zwei. Wie bei uns auf der Station. Da arbeitet auch jeder für zwei, und am Ende ist trotzdem keiner zufrieden. || 두 사람 몫이라. 우리 병동이랑 똑같네. 거기서도 다들 두 사람 몫을 하는데, 그래도 결국 아무도 만족 못 해요.
+Edith: Derya, du musst nicht mitkommen. Ich bin dreiundachtzig, nicht drei. Ich bin bis jetzt auch allein zu jedem Arzt gegangen. || 데르야, 같이 안 와도 돼. 나 여든셋이지 세 살이 아니야. 지금까지도 의사한테는 다 혼자 다녔어.
 Derya: Doch, ich muss. Weil Sie sonst sagen: Alles gut, Frau Doktor. Und dann wieder nach Hause gehen. Ich kenne Sie. || 아니요, 와야 해요. 안 그러면 „다 괜찮아요, 선생님" 하고 그냥 집에 가실 거잖아요. 제가 부인을 알아요.
-Edith: Hm. Da hast du vielleicht recht. || 흠. 네 말이 맞을지도 모르겠네.
-Derya: Was ist das für ein Brief in Ihrer Tasche? Der von der Krankenkasse? || 가방에 든 그 편지는 뭐예요? 건강보험공단에서 온 거요?
-Edith: Ja. Gestern gekommen. Ich habe ihn nicht verstanden. Wieder so ein Amtsdeutsch. Lies du mal. || 응. 어제 왔어. 이해를 못 했어. 또 그 공문 독일어야. 네가 읽어 봐.
+Edith: Hm. Da hast du vielleicht recht. Du kennst mich besser, als mir manchmal lieb ist. || 흠. 네 말이 맞을지도 모르겠네. 가끔은 내가 원하는 것보다 더 잘 알지.
+Derya: Was ist das für ein Brief in Ihrer Tasche? Der von der Krankenkasse? Sie halten ihn schon die ganze Zeit fest. || 가방에 든 그 편지는 뭐예요? 건강보험공단에서 온 거요? 아까부터 계속 꼭 쥐고 계시네요.
+Edith: Ja. Gestern gekommen. Ich habe ihn nicht verstanden. Wieder so ein Amtsdeutsch. Lies du mal. Ich habe ihn zweimal gelesen. || 응. 어제 왔어. 이해를 못 했어. 또 그 공문 독일어야. 네가 읽어 봐. 두 번이나 읽었는데.
 Derya: „Sehr geehrte Frau Krüger, wir informieren Sie über die Anpassung des Zusatzbeitrags zum ersten Januar. Der Zusatzbeitrag steigt von zwei Komma neun auf drei Komma drei Prozent." || „존경하는 크뤼거 님, 1월 1일 자 추가보험료 조정에 대해 안내드립니다. 추가보험료가 2.9퍼센트에서 3.3퍼센트로 인상됩니다."
-Edith: Was heißt das? Für mich? Ich verstehe nur Prozent. || 그게 무슨 뜻이야? 나한테는? 퍼센트밖에 모르겠어.
+Edith: Was heißt das? Für mich? Ich verstehe nur Prozent. Sag es mir bitte in Euro, nicht in Prozent. || 그게 무슨 뜻이야? 나한테는? 퍼센트밖에 모르겠어. 퍼센트 말고 유로로 말해 줘.
 Derya: Das heißt: Sie bezahlen ab Januar ein bisschen mehr für die Krankenversicherung. Von Ihrer Rente. Ungefähr … vier Euro im Monat. || 1월부터 건강보험료를 조금 더 내신다는 뜻이에요. 연금에서요. 대략… 한 달에 4유로쯤이요.
 Edith: Vier Euro. Und die Miete soll um hundertsiebzig steigen. Und der Strom ist teurer. Und das Brot. Vier Euro hier, zehn Euro da. Am Ende ist die Rente weg. || 4유로. 그리고 월세는 170이 오를 거라고 하고. 전기세도 비싸지고. 빵값도. 여기서 4유로, 저기서 10유로. 결국 연금이 다 사라지지.
 Derya: Ich weiß. Bei mir ist es auch so. Und im Krankenhaus sagen sie: Die Kassen haben kein Geld. Die Kliniken haben kein Geld. Und wir haben kein Personal. Niemand hat irgendetwas. || 알아요. 저도 그래요. 그리고 병원에선 그래요. 공단도 돈이 없고, 병원도 돈이 없고, 우리는 사람이 없다고요. 아무도 아무것도 없어요.
-Edith: Nur Briefe. Briefe haben alle. || 편지만 있지. 편지는 다들 있어.
-Frau Kaya: Frau Krüger? Sie können jetzt reinkommen. Zimmer zwei. || 크뤼거 부인? 이제 들어오세요. 2번 방이요.
+Edith: Nur Briefe. Briefe haben alle. Das Papier wird jedes Jahr mehr, aber keiner erklärt, was darin eigentlich steht. || 편지만 있지. 편지는 다들 있어. 종이는 해마다 늘어나는데, 거기 뭐가 쓰여 있는지는 아무도 설명 안 해 주지.
+Frau Kaya: Frau Krüger? Sie können jetzt reinkommen. Zimmer zwei. Frau Doktor Nowak wartet schon auf Sie. Die Begleitung darf gern mitkommen. || 크뤼거 부인? 이제 들어오세요. 2번 방이요. 노박 선생님이 기다리고 계세요. 같이 오신 분도 들어오셔도 돼요.
 ## Im Sprechzimmer | 진료실에서
 Dr. Nowak: Guten Morgen, Frau Krüger. Und Frau Yıldız! Schön, Sie zu sehen. Wie geht es Jana Kowalski? Sie war im Juli bei mir. || 좋은 아침이에요, 크뤼거 부인. 그리고 이을드즈 씨! 반가워요. 야나 코발스키 씨는 어때요? 7월에 저한테 왔었죠.
 Derya: Besser. Viel besser. Sie geht im Oktober zur Therapie. Und sie macht wieder Pausen. || 나아졌어요. 훨씬요. 10월부터 상담 치료 받으러 다녀요. 그리고 다시 쉴 줄도 알게 됐고요.
 Dr. Nowak: Das freut mich sehr. Und Sie, Frau Krüger? Was führt Sie zu mir? Sie waren seit dem Frühling nicht mehr hier. || 정말 다행이네요. 그럼 크뤼거 부인은요? 어디가 불편해서 오셨어요? 봄 이후로 안 오셨죠.
-Edith: Es ist nichts Schlimmes, Frau Doktor. Ich bin nur ein bisschen müde. || 심각한 건 아니에요, 선생님. 그냥 조금 피곤할 뿐이에요.
-Derya: Frau Krüger … || 크뤼거 부인…
+Edith: Es ist nichts Schlimmes, Frau Doktor. Ich bin nur ein bisschen müde. Im Herbst ist doch jeder müde, das gehört zum Alter dazu. || 심각한 건 아니에요, 선생님. 그냥 조금 피곤할 뿐이에요. 가을엔 다들 피곤하잖아요, 나이 들면 다 그래요.
+Derya: Frau Krüger … Bitte sagen Sie es ihr richtig. Sonst sage ich es, und dann klingt es schlimmer. || 크뤼거 부인… 제대로 말씀하세요. 안 그러면 제가 말할 건데, 그럼 더 심각하게 들릴 거예요.
 Edith: Na gut. Ich bekomme schlecht Luft. Wenn ich die Treppe hochgehe. Früher habe ich die achtundsiebzig Stufen in fünf Minuten geschafft. Jetzt brauche ich zehn. Mit drei Pausen. || 알았어요. 숨이 차요. 계단 올라갈 때요. 예전엔 일흔여덟 개를 오 분 만에 올라갔는데. 이제는 십 분 걸려요. 세 번 쉬면서요.
-Dr. Nowak: Seit wann ist das so? || 그런 지 얼마나 됐어요?
+Dr. Nowak: Seit wann ist das so? Ist es plötzlich gekommen, oder ist es langsam schlimmer geworden? Erzählen Sie ruhig. || 그런 지 얼마나 됐어요? 갑자기 그랬어요, 아니면 서서히 나빠졌어요? 편하게 말씀해 보세요.
 Edith: Seit dem Sommer. Seit der Hitze. Ich dachte, es ist die Hitze. Aber die Hitze ist weg. Und das Atmen ist nicht besser. || 여름부터요. 폭염 때부터요. 더위 때문인 줄 알았어요. 그런데 더위는 갔는데 숨 쉬는 건 안 나아졌어요.
-Dr. Nowak: Haben Sie noch andere Beschwerden? Schmerzen in der Brust? Schwindel? || 다른 불편한 데는요? 가슴이 아프다든지? 어지럽다든지?
+Dr. Nowak: Haben Sie noch andere Beschwerden? Schmerzen in der Brust? Schwindel? Alles ist wichtig, auch wenn es Ihnen klein vorkommt. || 다른 불편한 데는요? 가슴이 아프다든지? 어지럽다든지? 사소해 보여도 다 중요해요.
 Edith: Schmerzen nicht. Schwindel manchmal. Und meine Füße. Am Abend sind die Knöchel geschwollen. Die Schuhe passen nicht mehr. || 아프진 않아요. 가끔 어지럽고요. 그리고 발이요. 저녁이 되면 발목이 부어요. 신발이 안 맞아요.
 Dr. Nowak: Darf ich mal sehen? … Ja. Das sehe ich. Und jetzt höre ich Ihr Herz ab. Bitte tief einatmen. Und ausatmen. Noch einmal. || 좀 봐도 될까요? …네. 보이네요. 이제 심장 소리를 들어 볼게요. 숨을 깊이 들이쉬세요. 그리고 내쉬세요. 한 번 더요.
-Edith: Und? Ist es noch da? Mein Herz? || 그래서요? 아직 있어요? 내 심장?
+Edith: Und? Ist es noch da? Mein Herz? Ich frage nur, weil es sich in letzter Zeit so schwer anfühlt. || 그래서요? 아직 있어요? 내 심장? 요즘 너무 무겁게 느껴져서 묻는 거예요.
 Dr. Nowak: Es ist da. Und es schlägt. Aber es klingt ein bisschen müde. Wie Sie. Ich möchte ein EKG machen. Jetzt gleich. Und Blut abnehmen. || 있어요. 그리고 뛰고 있어요. 그런데 조금 지쳐 있는 소리예요. 부인처럼요. 심전도 검사를 하고 싶어요. 지금 바로요. 그리고 피도 뽑고요.
-Edith: Ist das schlimm? || 그게 심각한 거예요?
+Edith: Ist das schlimm? Sagen Sie es mir bitte ehrlich, ich bin alt genug für die Wahrheit. || 그게 심각한 거예요? 솔직히 말해 줘요, 진실을 들을 만큼은 나이 먹었으니까.
 Dr. Nowak: Das ist wahrscheinlich nichts Schlimmes. Aber wir müssen es abklären. Bei Ihrem Alter kann es sein, dass das Herz nicht mehr so stark pumpt. Das nennt man Herzschwäche. Das kann man behandeln. Gut behandeln. || 아마 심각한 건 아닐 거예요. 그래도 확인은 해 봐야 해요. 연세가 있으시면 심장이 예전만큼 세게 펌프질을 못 할 수도 있거든요. 그걸 심부전이라고 해요. 치료할 수 있어요. 잘 치료할 수 있어요.
-Derya: Ich habe es mir gedacht. Seit dem Sommer. || 그럴 거라고 생각했어요. 여름부터요.
-Edith: Und du hast nichts gesagt? || 그런데 아무 말도 안 했어?
-Derya: Ich habe Sie hierhergebracht. Das war mein Satz. || 여기로 모셔 왔잖아요. 그게 제 말이었어요.
+Derya: Ich habe es mir gedacht. Seit dem Sommer. Ich habe gesehen, wie Sie auf der Treppe stehen bleiben und so tun, als ob Sie etwas suchen. || 그럴 거라고 생각했어요. 여름부터요. 계단에서 멈춰 서서 뭘 찾는 척하시는 거 다 봤어요.
+Edith: Und du hast nichts gesagt? Du bist doch Krankenschwester, du hättest es mir sagen können. || 그런데 아무 말도 안 했어? 간호사잖아, 나한테 말해 줄 수도 있었잖아.
+Derya: Ich habe Sie hierhergebracht. Das war mein Satz. Wenn ich etwas gesagt hätte, hätten Sie nur gelacht und Tee gekocht. || 여기로 모셔 왔잖아요. 그게 제 말이었어요. 제가 말했으면 그냥 웃으면서 차나 끓이셨을 거예요.
 ## Die elektronische Patientenakte | 전자 환자기록
 Dr. Nowak: Das EKG ist fertig. Ich speichere es in Ihrer elektronischen Patientenakte. Dann kann der Kardiologe es später sehen. Ohne Papier. || 심전도 끝났어요. 부인 전자 환자기록에 저장할게요. 그러면 나중에 심장 전문의도 볼 수 있어요. 종이 없이요.
-Edith: In meiner was? || 내 뭐에요?
+Edith: In meiner was? Das Wort ist ja länger als mein Name. Sagen Sie das bitte noch einmal, aber langsam. || 내 뭐에요? 그 단어가 내 이름보다 기네요. 한 번만 더, 천천히 말해 줘요.
 Dr. Nowak: In Ihrer elektronischen Patientenakte. Der ePA. Seit dem letzten Jahr hat jeder gesetzlich Versicherte so eine Akte. Automatisch. Darin sind Ihre Befunde, Ihre Medikamente, Ihre Arztbriefe. || 전자 환자기록이요. ePA라고 하죠. 작년부터 공적 보험 가입자는 다 그런 기록이 있어요. 자동으로요. 거기에 검사 결과, 약, 진료 소견서가 들어가요.
-Edith: Automatisch? Mich hat niemand gefragt. || 자동으로요? 아무도 나한테 안 물어봤는데요.
+Edith: Automatisch? Mich hat niemand gefragt. Bei der Bank musste ich früher für jede Kleinigkeit unterschreiben, und hier geht es um mein Herz. || 자동으로요? 아무도 나한테 안 물어봤는데요. 예전엔 은행에서 사소한 것 하나에도 서명해야 했는데, 이건 내 심장 문제잖아요.
 Dr. Nowak: Ihre Krankenkasse hat Ihnen einen Brief geschrieben. Letztes Jahr. Wenn man nicht widerspricht, bekommt man sie. || 공단에서 작년에 편지를 보냈을 거예요. 거부하지 않으면 생기는 거예요.
 Edith: Noch ein Brief. Den habe ich bestimmt in die Schublade gelegt. Zu den anderen Briefen, die ich nicht verstehe. || 편지가 또 있었구나. 분명 서랍에 넣어 뒀을 거예요. 내가 이해 못 하는 다른 편지들이랑 같이.
 Derya: Es ist eigentlich gut, Edith. Bei uns im Krankenhaus sehen wir sofort, welche Medikamente jemand nimmt. Früher mussten wir drei Praxen anrufen. Und keiner hat abgenommen. || 사실 좋은 거예요, 에디트. 우리 병원에서도 누가 어떤 약을 먹는지 바로 볼 수 있어요. 예전엔 병원 세 군데에 전화해야 했어요. 그리고 아무도 안 받았죠.
-Edith: Und wer kann das alles sehen? Meine ganze Akte? Auch Nordwert? || 그럼 그걸 누가 다 볼 수 있어요? 내 기록 전체를요? 노르트베르트도요?
+Edith: Und wer kann das alles sehen? Meine ganze Akte? Auch Nordwert? Die wissen schon genug über mich. Sogar, wie viele Quadratmeter ich habe. || 그럼 그걸 누가 다 볼 수 있어요? 내 기록 전체를요? 노르트베르트도요? 그 사람들은 나에 대해 이미 충분히 알잖아요. 내 집이 몇 제곱미터인지까지.
 Dr. Nowak: Nein! Nur Ärzte, Apotheken und Krankenhäuser, bei denen Sie behandelt werden. Und Sie selbst. Mit einer App. Wenn Sie möchten. || 아니요! 부인이 진료받는 의사, 약국, 병원만요. 그리고 부인 본인이요. 앱으로요. 원하시면요.
-Edith: Mit einer App. Can wird sich freuen. Noch etwas, was er mir zeigen kann. || 앱으로라. 잔이 좋아하겠네. 나한테 가르쳐 줄 게 또 생겼으니.
+Edith: Mit einer App. Can wird sich freuen. Noch etwas, was er mir zeigen kann. Er erklärt geduldiger als jeder Brief von der Kasse. || 앱으로라. 잔이 좋아하겠네. 나한테 가르쳐 줄 게 또 생겼으니. 그 애는 공단 편지보다 훨씬 참을성 있게 설명해 주거든요.
 Dr. Nowak: Sie können auch jederzeit widersprechen. Dann wird die Akte gelöscht. Das ist Ihr Recht. || 언제든 거부하실 수도 있어요. 그러면 기록이 삭제돼요. 그건 부인 권리예요.
 Edith: Nein. Wenn das hilft, dass der Herzarzt mein EKG sieht, dann soll sie bleiben. Ich habe in meinem Leben genug Papier verloren. || 아니요. 심장 의사가 내 심전도를 보는 데 도움이 된다면 그냥 둬요. 나는 평생 잃어버린 종이가 충분히 많으니까요.
 ## Vier Monate | 넉 달
 Dr. Nowak: Ich schreibe Ihnen eine Überweisung zum Kardiologen. Er macht einen Ultraschall vom Herzen. Dann wissen wir mehr. Bis dahin bekommen Sie ein Medikament. Gegen das Wasser in den Beinen. || 심장 전문의한테 가는 의뢰서를 써 드릴게요. 심장 초음파를 할 거예요. 그러면 더 많이 알 수 있죠. 그때까지는 약을 드릴게요. 다리에 찬 물을 빼 주는 약이요.
-Edith: Wann kann ich zum Kardiologen? Nächste Woche? || 심장 전문의한테는 언제 갈 수 있어요? 다음 주에요?
+Edith: Wann kann ich zum Kardiologen? Nächste Woche? Ich möchte das lieber schnell hinter mich bringen. Warten macht mich nervöser als jede Untersuchung. || 심장 전문의한테는 언제 갈 수 있어요? 다음 주에요? 그냥 빨리 끝내 버리고 싶어요. 기다리는 게 어떤 검사보다 더 초조하거든요.
 Frau Kaya: Ich habe gerade bei Doktor Hansen angerufen. Am Hermannplatz. Der nächste freie Termin für neue Patienten ist … am achtzehnten Februar. || 방금 헤르만플라츠의 한젠 선생님 병원에 전화해 봤어요. 신규 환자 다음 빈 예약은… 2월 18일이래요.
-Edith: Februar? Das sind ja vier Monate! || 2월이요? 그럼 넉 달이나 되잖아요!
-Derya: Vier Monate mit Wasser in den Beinen und achtundsiebzig Stufen. Das geht nicht. || 다리에 물 찬 채로 계단 일흔여덟 개를 넉 달이나요. 그건 안 돼요.
+Edith: Februar? Das sind ja vier Monate! Bis dahin bin ich die Treppe noch hundertmal hochgestiegen, mit drei Pausen jedes Mal. || 2월이요? 그럼 넉 달이나 되잖아요! 그때까지 계단을 백 번은 더 오르겠네요, 매번 세 번씩 쉬면서.
+Derya: Vier Monate mit Wasser in den Beinen und achtundsiebzig Stufen. Das geht nicht. Ich sage das nicht als Nachbarin, sondern als Krankenschwester. || 다리에 물 찬 채로 계단 일흔여덟 개를 넉 달이나요. 그건 안 돼요. 이웃으로서가 아니라 간호사로서 하는 말이에요.
 Dr. Nowak: Da haben Sie recht. Ich gebe Ihnen eine Überweisung mit Dringlichkeitscode. Damit rufen Sie bei der Terminservicestelle an. Eins eins sechs, eins eins sieben. Die müssen Ihnen innerhalb von vier Wochen einen Termin geben. || 맞는 말씀이에요. 긴급 코드가 붙은 의뢰서를 드릴게요. 그걸로 예약 서비스에 전화하세요. 116117이요. 거기선 사 주 안에 예약을 잡아 줘야 해요.
-Edith: Innerhalb von vier Wochen. Aber bei welchem Arzt? || 사 주 안에요. 그런데 어느 의사한테요?
+Edith: Innerhalb von vier Wochen. Aber bei welchem Arzt? Hoffentlich bei einem, der mich nicht nach fünf Minuten wieder wegschickt. || 사 주 안에요. 그런데 어느 의사한테요? 오 분 만에 다시 내보내지 않는 사람이면 좋겠네요.
 Dr. Nowak: Das können Sie sich leider nicht aussuchen. Vielleicht in Spandau. Vielleicht in Marzahn. Wo gerade etwas frei ist. || 그건 안타깝게도 고르실 수 없어요. 슈판다우일 수도 있고. 마르찬일 수도 있고. 마침 빈 데로요.
 Edith: Marzahn. Da wohnt jetzt Deryas Kollegin. Nach der Sanierung. Dann kann ich sie besuchen. || 마르찬. 거기 지금 데르야 동료가 살잖아요. 리모델링 뒤에 이사 가서. 그럼 그 사람을 찾아가 볼 수 있겠네요.
-Dr. Nowak: Sie haben einen bewundernswerten Humor, Frau Krüger. || 유머 감각이 정말 대단하세요, 크뤼거 부인.
+Dr. Nowak: Sie haben einen bewundernswerten Humor, Frau Krüger. Viele Patienten in Ihrer Situation würden jetzt weinen oder schimpfen, und Sie machen Witze. || 유머 감각이 정말 대단하세요, 크뤼거 부인. 부인 같은 상황이면 많은 분들이 울거나 화를 내실 텐데, 농담을 하시네요.
 Edith: Mit dreiundachtzig hat man nur noch Humor oder Angst. Ich nehme den Humor. Der ist billiger. Und die Kasse zahlt ihn nicht. || 여든셋이면 유머 아니면 두려움밖에 안 남아요. 나는 유머를 택할래요. 그게 더 싸니까요. 그리고 공단에서 보험 처리도 안 해 주고요.
 Dr. Nowak: Muss ich etwas zuzahlen? Für das Medikament? Das wollen Sie wahrscheinlich gleich fragen. || 약값을 본인이 더 내야 하냐고요? 그거 곧 물어보시려던 거죠.
-Edith: Woher wissen Sie das? || 그걸 어떻게 아세요?
+Edith: Woher wissen Sie das? Steht das etwa auch schon in meiner Akte? Dann ist die App wirklich klüger als ich. || 그걸 어떻게 아세요? 그것도 벌써 내 기록에 적혀 있어요? 그럼 그 앱이 정말 나보다 똑똑하네요.
 Dr. Nowak: Weil alle meine Patienten über achtzig das fragen. Fünf Euro Zuzahlung in der Apotheke. Mehr nicht. Und wenn Sie im Jahr mehr als ein Prozent Ihrer Rente für Zuzahlungen ausgeben, können Sie sich befreien lassen. Frau Yıldız weiß, wie das geht. || 제 팔십 대 환자분들은 다 그걸 물으시거든요. 약국에서 본인 부담 5유로예요. 그 이상은 아니에요. 그리고 일 년에 본인 부담금이 연금의 1퍼센트를 넘으면 면제 신청을 할 수 있어요. 이을드즈 씨가 방법을 아실 거예요.
 ## In der Apotheke | 약국에서
-Apothekerin: Guten Morgen. Haben Sie ein Rezept? || 좋은 아침이에요. 처방전 있으세요?
+Apothekerin: Guten Morgen. Haben Sie ein Rezept? Oder hat die Praxis es elektronisch geschickt, wie inzwischen fast alle? || 좋은 아침이에요. 처방전 있으세요? 아니면 요즘 거의 다 그렇듯이 병원에서 전자로 보냈나요?
 Edith: Die Ärztin hat gesagt, das Rezept ist auf meiner Karte. Ich habe kein Papier bekommen. Ich glaube ihr nicht ganz. || 의사 선생님이 처방전이 내 카드에 들어 있대요. 종이는 못 받았어요. 그 말을 완전히 믿진 않아요.
 Apothekerin: Das stimmt aber. Das ist das E-Rezept. Geben Sie mir bitte Ihre Versichertenkarte. … Ja. Hier ist es. Ein Medikament zur Entwässerung. Eine Tablette am Morgen. || 그건 사실이에요. 전자 처방전이거든요. 보험 카드 주세요. …네. 여기 있네요. 몸에서 물을 빼 주는 약이에요. 아침에 한 알이요.
-Edith: Nur am Morgen? Nicht am Abend? || 아침에만요? 저녁엔 안 먹고요?
+Edith: Nur am Morgen? Nicht am Abend? Ich will nichts falsch machen, sonst schimpft Derya wieder mit mir. || 아침에만요? 저녁엔 안 먹고요? 잘못하면 데르야가 또 나한테 잔소리할 거예요.
 Apothekerin: Nur am Morgen. Sonst müssen Sie die ganze Nacht auf die Toilette. Das Medikament bringt das Wasser aus den Beinen raus. Über die Blase. || 아침에만요. 안 그러면 밤새 화장실에 가셔야 해요. 이 약이 다리에 있는 물을 빼내거든요. 방광으로요.
 Edith: Die ganze Nacht auf die Toilette. Mit achtundsiebzig Stufen dazwischen? Dann nehme ich sie um sechs Uhr. Ganz früh. || 밤새 화장실에. 그 사이에 계단 일흔여덟 개까지 있는데? 그럼 여섯 시에 먹을게요. 아주 일찍.
-Derya: Die Toilette ist in der Wohnung, Edith. Nicht im Treppenhaus. || 화장실은 집 안에 있잖아요, 에디트. 계단에 있는 게 아니라.
+Derya: Die Toilette ist in der Wohnung, Edith. Nicht im Treppenhaus. Schon seit Jahren, das haben Sie mir selbst erzählt. || 화장실은 집 안에 있잖아요, 에디트. 계단에 있는 게 아니라. 벌써 몇 년째요, 직접 말씀해 주셨잖아요.
 Edith: Ich weiß. Neunzehnhundertvierundsiebzig war sie noch auf halber Treppe. Ich habe sie nie vergessen. || 알아. 1974년엔 화장실이 계단 중간에 있었어. 그건 한 번도 못 잊었지.
-Apothekerin: Das macht fünf Euro Zuzahlung. Haben Sie eine Befreiung? || 본인 부담금 5유로예요. 면제증 있으세요?
+Apothekerin: Das macht fünf Euro Zuzahlung. Haben Sie eine Befreiung? Dann müssten Sie heute leider bezahlen, aber Sie können das später zurückbekommen. || 본인 부담금 5유로예요. 면제증 있으세요? 그럼 오늘은 아쉽지만 내셔야 하는데, 나중에 돌려받으실 수 있어요.
 Derya: Noch nicht. Aber das beantragen wir. Bei ihrer Kasse. Sie zahlt schon viel für andere Medikamente. Für den Blutdruck. Und für die Knie. || 아직요. 그래도 신청할 거예요. 공단에요. 다른 약값으로도 이미 많이 내고 계시거든요. 혈압 약이랑 무릎 약이요.
 Apothekerin: Dann sammeln Sie alle Quittungen. Wenn die Zuzahlungen mehr als ein Prozent Ihrer Rente sind, bekommen Sie den Rest zurück. Hier ist ein Heft. Für die Quittungen. || 그럼 영수증을 전부 모아 두세요. 본인 부담금이 연금의 1퍼센트를 넘으면 나머지는 돌려받으실 수 있어요. 여기 수첩이요. 영수증 모아 두시라고요.
-Edith: Ein Heft für Quittungen. Frau Schulze wird mich beneiden. || 영수증 수첩이라. 슐체 부인이 부러워하겠네.
+Edith: Ein Heft für Quittungen. Frau Schulze wird mich beneiden. Sie sammelt ihre Quittungen seit Jahren in Ordnern, nach Datum sortiert. || 영수증 수첩이라. 슐체 부인이 부러워하겠네. 그 사람은 몇 년째 영수증을 날짜순으로 서류철에 모으거든요.
 Apothekerin: Und noch etwas, Frau Krüger: Trinken Sie trotzdem genug. Auch wenn das Medikament Wasser rausholt. Das ist kein Widerspruch. Der Körper braucht frisches Wasser. Nicht altes. || 그리고 하나 더요, 크뤼거 부인. 그래도 물은 충분히 드세요. 약이 물을 빼내더라도요. 그건 모순이 아니에요. 몸은 새 물이 필요하거든요. 고인 물 말고요.
-Edith: Frisches Wasser statt altes Wasser. Das ist ein schöner Satz. Fast wie ein Gedicht. || 고인 물 대신 새 물. 좋은 말이네요. 거의 시 같아요.
+Edith: Frisches Wasser statt altes Wasser. Das ist ein schöner Satz. Fast wie ein Gedicht. Das hänge ich mir an den Kühlschrank. || 고인 물 대신 새 물. 좋은 말이네요. 거의 시 같아요. 냉장고에 붙여 놔야겠어요.
 ## Eins eins sechs, eins eins sieben | 116117
 Telefonstimme: Terminservicestelle der Kassenärztlichen Vereinigung Berlin. Bitte halten Sie Ihre Versichertenkarte und Ihren Vermittlungscode bereit. || 베를린 보험의사협회 진료 예약 서비스입니다. 보험 카드와 연계 코드를 준비해 주십시오.
-Derya: Ich habe beides. Edith, soll ich für Sie sprechen? || 둘 다 있어요. 에디트, 제가 대신 말할까요?
-Edith: Nein. Ich spreche selbst. Ich kann das. Ich habe fünfundzwanzig Jahre mit Fahrgästen gesprochen. || 아니. 내가 직접 말할게. 할 수 있어. 이십오 년 동안 승객들이랑 얘기했잖아.
-Telefonstimme: Guten Tag. Was kann ich für Sie tun? || 안녕하세요. 무엇을 도와드릴까요?
+Derya: Ich habe beides. Edith, soll ich für Sie sprechen? Manchmal sprechen die sehr schnell, und man muss alles zweimal fragen. || 둘 다 있어요. 에디트, 제가 대신 말할까요? 가끔 그 사람들 엄청 빨리 말해서 다 두 번씩 물어봐야 하거든요.
+Edith: Nein. Ich spreche selbst. Ich kann das. Ich habe fünfundzwanzig Jahre mit Fahrgästen gesprochen. Dann schaffe ich auch eine Telefonstimme. || 아니. 내가 직접 말할게. 할 수 있어. 이십오 년 동안 승객들이랑 얘기했잖아. 그러니 전화 목소리 하나쯤은 감당할 수 있어.
+Telefonstimme: Guten Tag. Was kann ich für Sie tun? Ich höre Sie gut, sprechen Sie bitte ruhig und langsam. || 안녕하세요. 무엇을 도와드릴까요? 잘 들립니다. 천천히 편하게 말씀하세요.
 Edith: Guten Tag. Krüger, Edith. Ich brauche einen Termin beim Kardiologen. Dringend. Meine Hausärztin hat mir einen Code gegeben. || 안녕하세요. 크뤼거, 에디트예요. 심장 전문의 예약이 필요해요. 급하게요. 가정의가 코드를 줬어요.
-Telefonstimme: Bitte nennen Sie mir den Code. || 코드를 불러 주세요.
-Edith: B, sieben, vier, K, neun, zwei, eins, drei. || B, 7, 4, K, 9, 2, 1, 3.
+Telefonstimme: Bitte nennen Sie mir den Code. Langsam bitte, Buchstabe für Buchstabe, damit ich nichts falsch eintippe. || 코드를 불러 주세요. 잘못 입력하지 않도록 한 글자씩 천천히 부탁드려요.
+Edith: B, sieben, vier, K, neun, zwei, eins, drei. Soll ich es noch einmal wiederholen? Das K wie Kreuzberg. || B, 7, 4, K, 9, 2, 1, 3. 한 번 더 불러 드릴까요? K는 크로이츠베르크의 K요.
 Telefonstimme: Danke. Ich habe einen Termin für Sie. Am neunten November. Um vierzehn Uhr. In einer Praxis in Lichtenberg. Frankfurter Allee. || 감사합니다. 예약 하나 잡아 드릴 수 있어요. 11월 9일. 14시. 리히텐베르크의 병원이에요. 프랑크푸르터 알레요.
-Edith: Am neunten November? || 11월 9일이요?
-Telefonstimme: Ist das ein Problem? Ich habe sonst noch einen Termin im Dezember. || 그날 문제가 있으세요? 아니면 12월에 하나 더 있어요.
+Edith: Am neunten November? Ausgerechnet an dem Tag? Wissen Sie eigentlich, was das für ein Tag ist? || 11월 9일이요? 하필 그날이요? 그게 무슨 날인지 아세요?
+Telefonstimme: Ist das ein Problem? Ich habe sonst noch einen Termin im Dezember. Der wäre allerdings deutlich später. || 그날 문제가 있으세요? 아니면 12월에 하나 더 있어요. 다만 그건 훨씬 늦어요.
 Edith: Nein. Kein Problem. Am neunten November gehe ich in den Osten. Das habe ich schon einmal gemacht. Neunzehnhundertneunundachtzig. Damals zu Fuß. Diesmal mit der U-Bahn. || 아니요. 문제없어요. 11월 9일에 동쪽으로 가는 거죠. 그건 전에도 한 번 해 봤어요. 1989년에. 그땐 걸어서 갔고, 이번엔 지하철로 가네요.
-Telefonstimme: … Wie bitte? || …네?
+Telefonstimme: … Wie bitte? Entschuldigung, das habe ich nicht ganz verstanden. Möchten Sie den Termin nehmen? || …네? 죄송합니다, 잘 못 알아들었어요. 그 예약으로 하시겠어요?
 Edith: Nichts. Ich nehme den Termin. Danke, junger Mann. Sie haben mir einen schönen Tag ausgesucht. || 아니에요. 그 예약으로 할게요. 고마워요, 젊은이. 좋은 날로 골라 줬네요.
 Derya: Am neunten November. In Lichtenberg. Edith, an dem Tag wollten Sie doch Can die Geschichte vom Mauerfall erzählen. || 11월 9일. 리히텐베르크. 에디트, 그날 잔한테 장벽 무너진 이야기 해 주기로 하셨잖아요.
 Edith: Dann erzähle ich sie in der U-Bahn. Auf dem Weg nach Lichtenberg. Und auf dem Rückweg. Es ist eine lange Geschichte. || 그럼 지하철에서 해 주지. 리히텐베르크 가는 길에. 그리고 돌아오는 길에. 긴 이야기니까.
 ## Zurück in der Ecke | 다시 크나이페에서
-Kalle: Na? Was hat die Ärztin gesagt? Du siehst … nachdenklich aus, Edith. || 그래? 의사가 뭐래? 너… 생각이 많아 보인다, 에디트.
+Kalle: Na? Was hat die Ärztin gesagt? Du siehst … nachdenklich aus, Edith. Erzähl ma, ick hab den janzen Vormittag an dich jedacht. || 그래? 의사가 뭐래? 너… 생각이 많아 보인다, 에디트. 얘기 좀 해 봐, 오전 내내 네 생각 했다.
 Edith: Mein Herz ist müde, Kalle. Es pumpt nicht mehr so gut. Sie nennen es Herzschwäche. || 내 심장이 지쳤대, 칼레. 예전만큼 펌프질을 못 한대. 심부전이라고 부르더라.
-Kalle: Herzschwäche? Du? Du hast das stärkste Herz in ganz Neukölln. || 심부전? 네가? 노이쾰른에서 제일 강한 심장을 가진 네가?
+Kalle: Herzschwäche? Du? Du hast das stärkste Herz in ganz Neukölln. Det gloob ick nich, die haben sich bestimmt verhört. || 심부전? 네가? 노이쾰른에서 제일 강한 심장을 가진 네가? 못 믿겠다, 그 사람들이 분명 잘못 들은 거야.
 Edith: Stark und müde. Beides geht. Ich habe ein Medikament. Und am neunten November einen Termin. In Lichtenberg. || 강하면서도 지칠 수 있어. 둘 다 돼. 약을 받았어. 그리고 11월 9일에 예약이 있어. 리히텐베르크에서.
-Kalle: In Lichtenberg? Da kam Monika her. Ick fahre dich hin. Ick mache an dem Tag zu. || 리히텐베르크? 모니카 고향이잖아. 내가 데려다줄게. 그날은 가게 문 닫을게.
+Kalle: In Lichtenberg? Da kam Monika her. Ick fahre dich hin. Ick mache an dem Tag zu. Keene Widerrede. || 리히텐베르크? 모니카 고향이잖아. 내가 데려다줄게. 그날은 가게 문 닫을게. 토 달지 마.
 Edith: Du machst nicht zu, Kalle. Du hast mir fünfundzwanzig Jahre lang jeden Tag Tee gekocht. Du machst einen Tag nicht zu. Can kommt mit. Und Paul. || 문 닫지 마, 칼레. 이십오 년 동안 하루도 빠짐없이 나한테 차를 끓여 줬잖아. 하루도 문 닫지 마. 잔이 같이 갈 거야. 그리고 파울도.
 Derya: Und die achtundsiebzig Stufen? Edith, Sie sollten im Moment nicht jeden Tag hochgehen. Nicht mit dem Wasser in den Beinen. || 그리고 계단 일흔여덟 개요? 에디트, 지금은 매일 올라가시면 안 돼요. 다리에 물이 찬 채로는요.
 Edith: Wo soll ich denn sonst wohnen? Im Erdgeschoss ist nur die Kneipe. Und die leere Wohnung von Herrn Pietsch. || 그럼 내가 어디 살아? 1층엔 가게밖에 없어. 그리고 피치 씨가 살던 빈집이랑.
-Kalle: … Die leere Wohnung von Pietsch. Erdgeschoss hinten. Zwei Zimmer. Keine einzige Stufe. || …피치 씨 빈집이라. 1층 뒤쪽. 방 두 개. 계단 하나 없는.
-Derya: Kalle, die gehört Nordwert. Die steht leer. Für die Sanierung. || 칼레, 그건 노르트베르트 거예요. 리모델링하려고 비워 둔 거고요.
+Kalle: … Die leere Wohnung von Pietsch. Erdgeschoss hinten. Zwei Zimmer. Keine einzige Stufe. Komisch, dass ick da nich früher dran jedacht habe. || …피치 씨 빈집이라. 1층 뒤쪽. 방 두 개. 계단 하나 없는. 희한하네, 왜 진작 그 생각을 못 했나 몰라.
+Derya: Kalle, die gehört Nordwert. Die steht leer. Für die Sanierung. Da kommen wir im Moment nicht rein. || 칼레, 그건 노르트베르트 거예요. 리모델링하려고 비워 둔 거고요. 지금은 우리가 들어갈 수 없어요.
 Kalle: Noch. Noch gehört sie Nordwert. Aber wenn das Haus uns gehört … dann hat die Genossenschaft eine freie Wohnung im Erdgeschoss. Für jemanden, der keine Treppen mehr steigen sollte. || 아직은. 아직은 노르트베르트 거지. 근데 집이 우리 것이 되면… 그럼 협동조합한테 1층 빈집이 하나 생기는 거잖아. 더는 계단을 오르면 안 되는 누군가를 위한.
-Edith: Kalle … du denkst schon wie ein Genosse. || 칼레… 너 벌써 조합원처럼 생각하는구나.
+Edith: Kalle … du denkst schon wie ein Genosse. Das hätte ich vor einem Jahr nicht gedacht. || 칼레… 너 벌써 조합원처럼 생각하는구나. 일 년 전엔 생각도 못 했을 일이야.
 Kalle: Ick denke wie ein Nachbar. Det is fast dasselbe. Und jetzt trinkst du einen Tee. Ohne Zucker. Det hat die Ärztin bestimmt auch gesagt. || 나는 이웃처럼 생각하는 거야. 그거나 그거나 비슷하지. 이제 차 한잔 마셔. 설탕 빼고. 의사도 분명 그렇게 말했을걸.
-Edith: Sie hat nichts von Zucker gesagt. || 설탕 얘기는 하나도 안 했어.
-Kalle: Dann sage ick es. Ohne Zucker. Ab heute. Für dein müdes Herz. || 그럼 내가 하지. 설탕 없이. 오늘부터. 네 지친 심장을 위해서.
+Edith: Sie hat nichts von Zucker gesagt. Du erfindest jetzt einfach Regeln, Kalle, nur weil du dir Sorgen machst. || 설탕 얘기는 하나도 안 했어. 너 걱정된다고 이제 막 규칙을 지어내는구나, 칼레.
+Kalle: Dann sage ick es. Ohne Zucker. Ab heute. Für dein müdes Herz. Wenn de meckerst, kriegste noch 'ne Scheibe Zitrone dazu. || 그럼 내가 하지. 설탕 없이. 오늘부터. 네 지친 심장을 위해서. 투덜대면 레몬 한 조각 더 얹어 준다.
 ## Abends: Can und die App | 저녁: 잔과 앱
-Can: Edith, Mama hat gesagt, dein Herz ist müde. Stimmt das? || 에디트 할머니, 엄마가 할머니 심장이 지쳤대요. 정말이에요?
+Can: Edith, Mama hat gesagt, dein Herz ist müde. Stimmt das? Sie hat ganz leise gesprochen, deshalb habe ich Angst bekommen. || 에디트 할머니, 엄마가 할머니 심장이 지쳤대요. 정말이에요? 엄마가 엄청 작게 말해서 무서워졌어요.
 Edith: Das stimmt. Ein bisschen müde. Wie ein alter Bus. Er fährt noch. Aber an den Bergen wird er langsam. || 맞아. 조금 지쳤어. 오래된 버스처럼. 아직 달리긴 하는데 오르막에선 느려지지.
-Can: Musst du … musst du sterben? || 할머니… 돌아가셔야 해요?
+Can: Musst du … musst du sterben? Ich will nicht, dass du stirbst. Wer erzählt mir dann Geschichten? || 할머니… 돌아가셔야 해요? 할머니가 돌아가시는 거 싫어요. 그럼 누가 저한테 이야기해 줘요?
 Edith: Irgendwann, Can. Wie alle. Aber nicht jetzt. Nicht wegen ein bisschen Wasser in den Beinen. Die Ärztin hat gesagt: Man kann es gut behandeln. || 언젠가는, 잔. 모두가 그렇듯이. 하지만 지금은 아니야. 다리에 물 좀 찼다고 그러진 않아. 의사 선생님이 잘 치료할 수 있대.
-Can: Versprochen? || 약속해요?
-Edith: Ich verspreche dir: Ich gebe mir Mühe. Mehr kann niemand versprechen. Nicht mal Frau Wagner. || 약속할게. 최선을 다하겠다고. 그 이상은 아무도 약속 못 해. 바그너 선생님도 못 해.
-Can: Die Ärztin hat gesagt, du hast eine App. Für deine Akte. Soll ich sie installieren? || 의사 선생님이 할머니한테 앱이 있대요. 할머니 기록 보는 거요. 제가 깔아 드릴까요?
-Edith: Wenn du willst. Aber nicht zu kompliziert. || 그러고 싶으면. 대신 너무 복잡한 건 싫어.
+Can: Versprochen? Richtig versprochen? Nicht nur so, damit ich keine Angst mehr habe? || 약속해요? 진짜 약속이요? 제가 무서워하지 않게 그냥 하는 말 말고요?
+Edith: Ich verspreche dir: Ich gebe mir Mühe. Mehr kann niemand versprechen. Nicht mal Frau Wagner. Auch beim Tee ohne Zucker. || 약속할게. 최선을 다하겠다고. 그 이상은 아무도 약속 못 해. 바그너 선생님도 못 해. 설탕 없는 차까지도.
+Can: Die Ärztin hat gesagt, du hast eine App. Für deine Akte. Soll ich sie installieren? Das dauert bestimmt nur fünf Minuten. || 의사 선생님이 할머니한테 앱이 있대요. 할머니 기록 보는 거요. 제가 깔아 드릴까요? 분명 오 분이면 될 거예요.
+Edith: Wenn du willst. Aber nicht zu kompliziert. Ich habe heute schon genug Neues gelernt, für eine alte Frau reicht das. || 그러고 싶으면. 대신 너무 복잡한 건 싫어. 오늘 새로운 건 이미 충분히 배웠어, 늙은이한테는 그걸로 충분해.
 Can: Okay … „Bitte identifizieren Sie sich mit Ihrem Personalausweis und der PIN." Edith, hast du eine PIN für deinen Ausweis? || 좋아요… „신분증과 PIN으로 본인 인증을 해 주십시오." 할머니, 신분증 PIN 있어요?
 Edith: Eine was? Mein Ausweis hat ein Foto. Und meinen Namen. Keine PIN. || 뭐가 있냐고? 내 신분증엔 사진이랑 이름만 있어. PIN은 없어.
 Can: Dann geht es anders. „Oder lassen Sie sich in einer Filiale Ihrer Krankenkasse identifizieren." Mit Termin. || 그럼 다른 방법이 있어요. „또는 보험공단 지점에서 본인 확인을 받으십시오." 예약해서요.
 Edith: Noch ein Termin. Bei noch einem Amt. Can, weißt du was? Die App machen wir im Frühling. Wenn mein Herz weniger müde ist. Heute hören wir lieber Musik. || 또 예약이네. 또 다른 관청에서. 잔, 그거 아니? 앱은 봄에 하자. 내 심장이 덜 지쳤을 때. 오늘은 차라리 음악을 듣자.
-Can: Welche Musik? Techno? || 무슨 음악이요? 테크노요?
+Can: Welche Musik? Techno? Oder die laute Musik von Max, die durch die Wand kommt? || 무슨 음악이요? 테크노요? 아니면 벽 너머로 들리는 막스 아저씨 시끄러운 음악이요?
 Edith: Heute nicht Techno. Heute die Puhdys. Die Platte von Gisela. „Alt wie ein Baum". Die passt heute. || 오늘은 테크노 말고. 오늘은 푸디스. 기젤라 판. „나무처럼 늙어 가리". 오늘은 그게 어울리네.
