@@ -10,7 +10,7 @@
 #cast: Derya | 데르야 이을드즈 · 40세, 이사
 #cast: Can | 잔 이을드즈 · 10세
 #cast: Lea | 레아 바그너 · 28세, 6b반 담임
-#cast: Lin | 린 · 11세
+#cast: Linh | 린 · 11세
 #cast: Edith | 에디트 크뤼거 · 83세
 #cast: Hüseyin | 휘세인 이을드즈 · 65세
 #cast: Paul | 파울 호프만 · 27세
@@ -43,17 +43,17 @@ Frau Schulze: Läuft weiter. Aber jetzt klagt Nordwert gegen einen Bescheid, des
 Kalle: Dann schreibe ick das an die Tafel. Groß. „Eckhaus eG. Eingetragen. Ohne i. G." Und Can soll das „i. G." wegwischen. Wo ist der Junge? || 그럼 칠판에 쓸게. 크게. „Eckhaus eG. 등기 완료. 설립 중 없이." 그리고 ‚설립 중'은 잔이 지우게 하자. 그 꼬마 어디 있어?
 Derya: In der Schule. Am Freitag gibt es Zeugnisse. Und die Förderprognose. Er ist seit einer Woche nervös. Er rechnet jede Nacht. Mit dem Pizza-Buch. || 학교에요. 금요일에 성적표가 나와요. 그리고 진학 예측도요. 일주일째 긴장하고 있어요. 매일 밤 계산해요. 피자 책으로요.
 ## Freitag, die Zeugnisse | 금요일, 성적표
-Lea: Lin. Hier. Dein Zeugnis. Und die Förderprognose. Eins Komma sechs. Gymnasium. Herzlichen Glückwunsch. || 린. 여기. 네 성적표야. 그리고 진학 예측. 1.6. 김나지움. 축하해.
-Lin: Danke, Frau Wagner. Ich wusste es. Aber ich wollte es sehen. Schwarz auf weiß. || 감사합니다, 바그너 선생님. 알고 있었어요. 그래도 직접 보고 싶었어요. 종이에 적힌 걸로요.
+Lea: Linh. Hier. Dein Zeugnis. Und die Förderprognose. Eins Komma sechs. Gymnasium. Herzlichen Glückwunsch. || 린. 여기. 네 성적표야. 그리고 진학 예측. 1.6. 김나지움. 축하해.
+Linh: Danke, Frau Wagner. Ich wusste es. Aber ich wollte es sehen. Schwarz auf weiß. || 감사합니다, 바그너 선생님. 알고 있었어요. 그래도 직접 보고 싶었어요. 종이에 적힌 걸로요.
 Lea: Can. Kommst du bitte nach vorne? || 잔. 앞으로 나와 줄래?
 Can: … Ja. || …네.
 Lea: Hier. Dein Zeugnis. Lies es in Ruhe. Und dann reden wir. Nach der Stunde. Wenn du möchtest. || 여기. 네 성적표야. 천천히 읽어 봐. 그리고 이야기하자. 수업 끝나고. 네가 원하면.
 Can: Deutsch zwei. Englisch zwei. Naturwissenschaften eins. Gesellschaftswissenschaften eins. Mathe … drei. || 독일어 2. 영어 2. 과학 1. 사회 1. 수학… 3.
-Lin: Drei? Aber du hast doch so viel geübt. Mit dem Pizza-Buch. Alle achtzig Aufgaben. || 3이라고? 그런데 너 엄청 연습했잖아. 피자 책으로. 문제 팔십 개 전부.
+Linh: Drei? Aber du hast doch so viel geübt. Mit dem Pizza-Buch. Alle achtzig Aufgaben. || 3이라고? 그런데 너 엄청 연습했잖아. 피자 책으로. 문제 팔십 개 전부.
 Can: Drei. In Mathe. Wieder drei. Und hier steht: „Förderprognose: Durchschnitt zwei Komma vier. Für den Besuch des Gymnasiums ist die Teilnahme am Probeunterricht erforderlich." || 3. 수학에서. 또 3. 그리고 여기 써 있어. „진학 예측: 평균 2.4. 김나지움 진학을 위해서는 시험 수업 참여가 필요함."
-Lin: Probeunterricht. Das ist nicht schlimm, Can. Das ist nur ein Tag. Dann kannst du zeigen, dass … || 시험 수업. 그거 나쁜 거 아니야, 잔. 그냥 하루야. 그때 보여 주면 돼, 네가…
+Linh: Probeunterricht. Das ist nicht schlimm, Can. Das ist nur ein Tag. Dann kannst du zeigen, dass … || 시험 수업. 그거 나쁜 거 아니야, 잔. 그냥 하루야. 그때 보여 주면 돼, 네가…
 Can: Du hast eins Komma sechs. Du musst gar nichts zeigen. Du kommst einfach so ans Gymnasium. Und ich nicht. || 너는 1.6이잖아. 너는 아무것도 안 보여 줘도 돼. 그냥 김나지움 가잖아. 나는 아니고.
-Lin: Can … || 잔…
+Linh: Can … || 잔…
 Can: Lass mich. Bitte. Ich will nicht reden. || 내버려 둬. 제발. 말하기 싫어.
 Lea: Can. Darf ich dich etwas fragen? Nur eine Sache. Dann lasse ich dich in Ruhe. || 잔. 하나만 물어봐도 될까? 딱 하나. 그다음엔 혼자 있게 해 줄게.
 Can: … Was? || …뭔데요?
@@ -63,30 +63,30 @@ Lea: Genau. Du kannst rechnen, Can. Du liest nur zu schnell. Weil du schon die L
 Can: Drei Wochen. Und wenn ich es nicht schaffe? || 3주요. 그런데 제가 못 해내면요?
 Lea: Dann gehst du auf eine Integrierte Sekundarschule. Und machst dort Abitur. Wie viele kluge Menschen. Paul zum Beispiel. Aber das entscheiden wir nicht heute. Heute gehst du nach Hause. Und isst etwas. Und darfst traurig sein. || 그럼 통합 중등학교에 가는 거야. 그리고 거기서 아비투어를 따면 돼. 많은 똑똑한 사람들처럼. 예를 들면 파울도. 하지만 그건 오늘 정하는 게 아니야. 오늘은 집에 가서. 뭘 좀 먹고. 슬퍼해도 돼.
 ## Auf dem Schulweg | 하굣길
-Lin: Can! Warte! Du läufst zu schnell. Wie beim Lesen. || 잔! 기다려! 너 너무 빨리 걸어. 읽을 때처럼.
+Linh: Can! Warte! Du läufst zu schnell. Wie beim Lesen. || 잔! 기다려! 너 너무 빨리 걸어. 읽을 때처럼.
 Can: Das ist nicht lustig. || 그거 안 웃겨.
-Lin: Ich weiß. Entschuldigung. Ich wollte nur … darf ich neben dir gehen? Ohne zu reden? || 알아. 미안. 그냥… 옆에서 걸어도 돼? 말 안 하고?
+Linh: Ich weiß. Entschuldigung. Ich wollte nur … darf ich neben dir gehen? Ohne zu reden? || 알아. 미안. 그냥… 옆에서 걸어도 돼? 말 안 하고?
 Can: Du redest doch schon. || 벌써 말하고 있잖아.
-Lin: Dann höre ich jetzt auf. Ab … jetzt. || 그럼 이제 그만할게. 지금… 부터.
-Can: … Lin. Warum guckst du so? Du hast eins Komma sechs. Du müsstest glücklich sein. || …린. 왜 그런 표정이야? 너 1.6이잖아. 행복해야 하는 거 아니야?
-Lin: Meine Mutter wollte eins Komma null. Sie sagt, mit eins Komma sechs kommt man nicht auf das beste Gymnasium. Das mit Latein. In Vietnam war sie die Beste ihres Jahrgangs. In ganz Hanoi. Hier putzt sie Büros. Nachts. Sie sagt, ich muss es besser haben. Mit eins Komma null. || 우리 엄마는 1.0을 원했어. 1.6으로는 제일 좋은 김나지움에 못 간대. 라틴어 하는 데. 엄마는 베트남에서 자기 학년 일등이었어. 하노이 전체에서. 여기선 사무실 청소를 해. 밤에. 엄마가 그러는데 나는 더 잘 살아야 한대. 1.0으로.
+Linh: Dann höre ich jetzt auf. Ab … jetzt. || 그럼 이제 그만할게. 지금… 부터.
+Can: … Linh. Warum guckst du so? Du hast eins Komma sechs. Du müsstest glücklich sein. || …린. 왜 그런 표정이야? 너 1.6이잖아. 행복해야 하는 거 아니야?
+Linh: Meine Mutter wollte eins Komma null. Sie sagt, mit eins Komma sechs kommt man nicht auf das beste Gymnasium. Das mit Latein. In Vietnam war sie die Beste ihres Jahrgangs. In ganz Hanoi. Hier putzt sie Büros. Nachts. Sie sagt, ich muss es besser haben. Mit eins Komma null. || 우리 엄마는 1.0을 원했어. 1.6으로는 제일 좋은 김나지움에 못 간대. 라틴어 하는 데. 엄마는 베트남에서 자기 학년 일등이었어. 하노이 전체에서. 여기선 사무실 청소를 해. 밤에. 엄마가 그러는데 나는 더 잘 살아야 한대. 1.0으로.
 Can: Eins Komma sechs ist doch super. || 1.6이면 엄청 좋은 거잖아.
-Lin: Für dich. Für meine Mutter ist es eine Sechs. Fast. Ich habe heute Morgen in der Toilette geweint. Bevor die Zeugnisse kamen. Weil ich wusste, dass es nicht eins Komma null wird. || 너한테는. 우리 엄마한텐 거의 6점이야. 오늘 아침에 화장실에서 울었어. 성적표 나오기 전에. 1.0이 안 될 걸 알았으니까.
+Linh: Für dich. Für meine Mutter ist es eine Sechs. Fast. Ich habe heute Morgen in der Toilette geweint. Bevor die Zeugnisse kamen. Weil ich wusste, dass es nicht eins Komma null wird. || 너한테는. 우리 엄마한텐 거의 6점이야. 오늘 아침에 화장실에서 울었어. 성적표 나오기 전에. 1.0이 안 될 걸 알았으니까.
 Can: Du hast geweint? Du? Die Klassensprecherin? || 네가 울었다고? 네가? 반장이?
-Lin: Klassensprecherinnen weinen auch. Nur in der Toilette. Damit es niemand sieht. Jetzt weißt du es. Jetzt sind wir quitt. || 반장도 울어. 화장실에서만. 아무도 못 보게. 이제 너도 알았네. 이제 우리 비긴 거야.
+Linh: Klassensprecherinnen weinen auch. Nur in der Toilette. Damit es niemand sieht. Jetzt weißt du es. Jetzt sind wir quitt. || 반장도 울어. 화장실에서만. 아무도 못 보게. 이제 너도 알았네. 이제 우리 비긴 거야.
 Can: Quitt? Wieso quitt? || 비겨? 왜 비겨?
-Lin: Du hast mir heute gesagt, ich muss gar nichts zeigen. Das war gemein. Weil ich jeden Tag etwas zeigen muss. Zu Hause. Und jetzt habe ich dir etwas Geheimes gesagt. Also sind wir quitt. Eins geteilt durch zwei. || 너 오늘 나한테 아무것도 안 보여 줘도 된다고 했잖아. 그거 못됐었어. 나는 매일 뭔가를 보여 줘야 하거든. 집에서. 그리고 이제 내가 너한테 비밀을 말했으니까. 비긴 거야. 1 나누기 2.
-Can: … Tut mir leid, Lin. Das war gemein. Ich war nur traurig. || …미안해, 린. 그거 못됐었다. 그냥 슬퍼서 그랬어.
-Lin: Ich weiß. Und ich übe mit dir. Für den Probeunterricht. Textaufgaben. Ich lese vor. Du rechnest. Erst nach dem Punkt. || 알아. 그리고 나도 너랑 연습할게. 시험 수업 준비. 문장제 문제. 내가 읽어 줄게. 너는 계산하고. 마침표 다음에.
+Linh: Du hast mir heute gesagt, ich muss gar nichts zeigen. Das war gemein. Weil ich jeden Tag etwas zeigen muss. Zu Hause. Und jetzt habe ich dir etwas Geheimes gesagt. Also sind wir quitt. Eins geteilt durch zwei. || 너 오늘 나한테 아무것도 안 보여 줘도 된다고 했잖아. 그거 못됐었어. 나는 매일 뭔가를 보여 줘야 하거든. 집에서. 그리고 이제 내가 너한테 비밀을 말했으니까. 비긴 거야. 1 나누기 2.
+Can: … Tut mir leid, Linh. Das war gemein. Ich war nur traurig. || …미안해, 린. 그거 못됐었다. 그냥 슬퍼서 그랬어.
+Linh: Ich weiß. Und ich übe mit dir. Für den Probeunterricht. Textaufgaben. Ich lese vor. Du rechnest. Erst nach dem Punkt. || 알아. 그리고 나도 너랑 연습할게. 시험 수업 준비. 문장제 문제. 내가 읽어 줄게. 너는 계산하고. 마침표 다음에.
 Can: Das hat Dede auch gesagt. Nach dem Punkt. Habt ihr euch abgesprochen? || 데데도 그렇게 말했는데. 마침표 다음에. 둘이 짠 거야?
-Lin: Nein. Das ist einfach die richtige Methode. Kluge Menschen kommen auf dieselbe Idee. Das sagt Frau Wagner. || 아니. 그냥 그게 맞는 방법이야. 똑똑한 사람들은 같은 생각을 하게 돼 있어. 바그너 선생님이 그랬어.
+Linh: Nein. Das ist einfach die richtige Methode. Kluge Menschen kommen auf dieselbe Idee. Das sagt Frau Wagner. || 아니. 그냥 그게 맞는 방법이야. 똑똑한 사람들은 같은 생각을 하게 돼 있어. 바그너 선생님이 그랬어.
 ## Die dritte Pause | 세 번째 쉼터
 Edith: Can? Bist du das? Auf der Treppe? Zwischen dem zweiten und dem dritten Stock? || 잔? 너니? 계단에? 3층이랑 4층 사이에?
 Can: … Ja. || …네.
 Edith: Das ist meine Stelle. Meine dritte Pause. Hier summe ich immer. Darf ich mich zu dir setzen? Oder willst du allein sein? || 거긴 내 자리인데. 내 세 번째 쉼터. 거기서 늘 흥얼거리지. 옆에 앉아도 될까? 아니면 혼자 있고 싶니?
 Can: Du darfst. Aber nicht reden. || 앉으셔도 돼요. 그런데 말은 하지 마세요.
 Edith: Gut. Ich rede nicht. Ich summe. Das ist erlaubt. || 좋아. 말 안 할게. 흥얼거릴게. 그건 허락되지.
-Can: … Ich habe eine Drei in Mathe. Und zwei Komma vier. Und ich muss zum Probeunterricht. Und Lin hat eins Komma sechs. Und Mama wird traurig sein. Und Dede auch. Und Frau Wagner hat gesagt, ich darf traurig sein. Aber ich will nicht traurig sein. Ich will eine Zwei. || …수학 3점 받았어요. 그리고 2.4고요. 그리고 시험 수업 가야 해요. 그리고 린은 1.6이에요. 그리고 엄마가 슬퍼할 거예요. 데데도요. 그리고 바그너 선생님이 슬퍼해도 된대요. 그런데 저 슬퍼하기 싫어요. 2점 받고 싶어요.
+Can: … Ich habe eine Drei in Mathe. Und zwei Komma vier. Und ich muss zum Probeunterricht. Und Linh hat eins Komma sechs. Und Mama wird traurig sein. Und Dede auch. Und Frau Wagner hat gesagt, ich darf traurig sein. Aber ich will nicht traurig sein. Ich will eine Zwei. || …수학 3점 받았어요. 그리고 2.4고요. 그리고 시험 수업 가야 해요. 그리고 린은 1.6이에요. 그리고 엄마가 슬퍼할 거예요. 데데도요. 그리고 바그너 선생님이 슬퍼해도 된대요. 그런데 저 슬퍼하기 싫어요. 2점 받고 싶어요.
 Edith: Du hast gesagt, ich soll nicht reden. || 말하지 말라며.
 Can: Jetzt darfst du. || 이제 해도 돼요.
 Edith: Weißt du, was ich in Mathe hatte? Neunzehnhundertsiebenundfünfzig? Eine Fünf. Mangelhaft. Mein Vater hat das Zeugnis drei Tage lang nicht unterschrieben. Er hat gesagt: Eine Hartmann bekommt keine Fünf. || 내가 수학에서 몇 점 받았는지 알아? 1957년에? 5점이야. 미흡. 우리 아빠가 사흘 동안 성적표에 서명을 안 해 주셨어. 그러시더라. 하르트만 집안 애가 5점을 받다니.
