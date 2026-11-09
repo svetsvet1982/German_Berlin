@@ -15,14 +15,14 @@ CAST: FARID | 하청 건설·청소업체 노동자 · 22세 (가상)
 NOTE: ※ Farid는 열두 살에 보호자 없이 스웨덴에 온 청년입니다. 지금은 하청업체 Lundgrens Bygg & Städ AB에 묶인 노동허가(arbetstillstånd)로 일하며, 6주째 임금을 제대로 받지 못한 채 주 55시간을 일하고 있습니다. 스웨덴에는 법정 최저임금이 없고 단체협약(kollektivavtal)이 기준이 되며, 노동허가를 받으려면 급여와 조건이 일정 수준 이상이어야 합니다. 그래서 Farid는 신고하면 오히려 자신이 허가를 잃을까 두려워합니다. 건설 현장의 전자 출입 기록(personalliggare)이 증거가 됩니다. Anton은 컨설팅 용어(stakeholders, pain points, alignment)로 상황을 정리하려 하지만, Farid에게는 그 말들이 벽이 됩니다. 표현 초점: 노동 어휘 — lön, arbetstillstånd, kollektivavtal, facket, övertid.
 
 # 도입 — EN TRÖTT BESÖKARE
-BIGGAN: Det står en kille i dörren. Han har stått där i tio minuter.
-= 문 앞에 남자애 하나가 서 있어. 10분째 서 있네.
-DANIEL: Arbetskläder. Han ser ut att inte ha sovit på en vecka.
-= 작업복이야. 일주일은 못 잔 얼굴이야.
+BIGGAN: Det står en kille i dörren. Han har stått där i tio minuter och tittat in, men han verkar inte våga öppna.
+= 문 앞에 남자애 하나가 서 있어. 10분째 서서 안을 들여다보는데, 문을 열 엄두가 안 나나 봐.
+DANIEL: Arbetskläder och gipsdamm på skorna. Han ser ut att inte ha sovit på en vecka.
+= 작업복에 신발엔 석고 가루야. 일주일은 못 잔 얼굴이야.
 BIGGAN: Kom in, vännen. Det är varmt här inne.
 = 들어와, 친구. 안은 따뜻해.
-FARID: Hej. Förlåt. Jag hörde att ni hjälper folk här.
-= 안녕하세요. 죄송해요. 여기서 사람들을 도와준다고 들었어요.
+FARID: Hej. Förlåt att jag stör. En kompis på bygget sa att ni hjälper folk här, även folk som inte har pengar till advokat.
+= 안녕하세요. 방해해서 죄송해요. 공사장 친구가 여기서 사람들을 도와준다고 했어요. 변호사 쓸 돈이 없는 사람들도요.
 JOHAN: Det stämmer. Jag heter Johan. Vad heter du?
 = 맞아요. 저는 요한이에요. 이름이 뭐예요?
 FARID: Farid.
@@ -31,18 +31,18 @@ ELSA: Hej Farid. Jag heter Elsa. Vill ni ha kaffe?
 = 안녕하세요, 파리드. 저는 엘사예요. 커피 드실래요?
 FARID: ”Ni”? Jag är bara en.
 = ‘니’요? 전 한 명인데요.
-ANTON: Välkommen till klubben. Hon säger ni till alla.
-= 클럽에 온 걸 환영해. 얘는 모두한테 ‘니’라고 해.
-ELSA: Inte till alla. Bara till dem jag inte känner. Och till herr Oxenstierna.
-= 모두한테는 아니에요. 모르는 사람한테만요. 그리고 옥센셰르나 님한테.
+ANTON: Välkommen till klubben. Hon säger ni till alla, och det tog mig två veckor att vänja mig.
+= 클럽에 온 걸 환영해. 얘는 모두한테 ‘니’라고 해. 나도 익숙해지는 데 2주 걸렸어.
+ELSA: Inte till alla. Bara till dem jag inte känner. Och till herr Oxenstierna, eftersom han är nästan fyrahundra år äldre än jag.
+= 모두한테는 아니에요. 모르는 사람한테만요. 그리고 옥센셰르나 님한테요, 저보다 거의 400살이나 많으시니까.
 FARID: Okej. Ja, gärna kaffe. Med mycket socker.
 = 그렇구나. 네, 커피 좋아요. 설탕 많이요.
 DANIEL: När åt du senast, Farid?
 = 마지막으로 언제 먹었어요, 파리드?
 FARID: I morse. En banan.
 = 오늘 아침이요. 바나나 하나.
-BIGGAN: Då blir det en macka också. Ingen diskussion.
-= 그럼 샌드위치도 줄게. 토론은 없어.
+BIGGAN: Då blir det en macka också, med ost och skinka. Ingen diskussion.
+= 그럼 샌드위치도 줄게, 치즈랑 햄 넣어서. 토론은 없어.
 FARID: Tack. Jag kan betala.
 = 고마워요. 돈 낼 수 있어요.
 MAJA: Kan du verkligen det?
@@ -51,130 +51,130 @@ FARID: Nej. Inte riktigt. Det är därför jag är här.
 = 아뇨. 사실은요. 그래서 여기 온 거예요.
 JOHAN: Berätta. Ett steg i taget.
 = 얘기해 봐요. 한 걸음씩.
-FARID: Jag har inte fått min lön. Inte hela. På sex veckor.
-= 월급을 못 받았어요. 전부는요. 6주 동안.
-OXENSTIERNA: Sex veckor utan sold? På min tid gjorde soldaterna myteri för mindre.
-= 6주 동안 급료 없이? 내 시절엔 병사들이 그보다 적은 일로도 반란을 일으켰네.
+FARID: Jag har inte fått min lön. Inte hela, alltså. På sex veckor har jag fått lite pengar då och då, men aldrig det som står i avtalet. Varje gång jag frågar säger de att det kommer nästa vecka, och nästa vecka kommer aldrig.
+= 월급을 못 받았어요. 전부는요. 6주 동안 가끔 돈을 조금씩 받긴 했는데, 계약서에 적힌 만큼은 한 번도 못 받았어요. 물어볼 때마다 다음 주에 준다고 하는데, 그 다음 주는 절대 안 와요.
+OXENSTIERNA: Sex veckor utan sold? På min tid gjorde soldaterna myteri för mindre, och jag kan inte säga att jag klandrade dem.
+= 6주 동안 급료 없이? 내 시절엔 병사들이 그보다 적은 일로도 반란을 일으켰네. 그리고 솔직히 나는 그들을 탓할 수 없었지.
 
 # 장면 1 — STAKEHOLDERS OCH PAIN POINTS
-FARID: Jag jobbar för Lundgrens Bygg och Städ. Vi renoverar lägenheter. Ibland städar vi kontor på natten.
-= 룬드그렌 건설·청소에서 일해요. 아파트 리모델링을 해요. 가끔 밤에 사무실 청소도 하고요.
+FARID: Jag jobbar för Lundgrens Bygg och Städ. Vi renoverar lägenheter, mest badrum och kök i gamla hus. Ibland städar vi kontor på natten, när de andra jobben är klara.
+= 룬드그렌 건설·청소에서 일해요. 아파트 리모델링을 해요, 주로 오래된 집의 욕실이랑 부엌이요. 다른 일이 끝나면 가끔 밤에 사무실 청소도 하고요.
 ANTON: Okej. Låt oss strukturera det här. Vilka är stakeholders?
 = 좋아. 이걸 구조화해 보자. 이해관계자가 누구야?
 FARID: Stake… vad?
 = 스테이크… 뭐요?
 ELSA: Han menar: vilka människor är inblandade?
 = 이분 말은: 어떤 사람들이 관련돼 있냐는 거예요.
-FARID: Jaha. Lundgren, chefen. Och arbetsledaren, Mats. Och vi, sju killar.
-= 아. 사장 룬드그렌. 그리고 현장 반장 마츠. 그리고 우리, 일곱 명.
+FARID: Jaha. Lundgren, chefen, som äger företaget. Och arbetsledaren, Mats, som bestämmer vem som jobbar när. Och vi, sju killar som gör själva jobbet.
+= 아. 회사 주인인 사장 룬드그렌. 그리고 누가 언제 일할지 정하는 현장 반장 마츠. 그리고 실제로 일하는 우리, 일곱 명.
 ANTON: Bra. Och vad är dina pain points?
 = 좋아. 그리고 네 페인 포인트는 뭐야?
 FARID: Mina… ont? Jag har ont i ryggen, om det är det.
 = 제… 아픈 데요? 허리가 아프긴 해요, 그 말이라면.
-DANIEL: Det vill jag höra mer om sen.
-= 그건 나중에 더 듣고 싶어요.
+DANIEL: Det vill jag höra mer om sen. Ryggen är också viktig.
+= 그건 나중에 더 듣고 싶어요. 허리도 중요하니까요.
 ELSA: Anton menar: vad är problemet? Vad är svårast?
 = 안톤 말은: 뭐가 문제냐는 거예요. 뭐가 제일 힘드냐고요.
-FARID: Att jag inte vet om jag får stanna i Sverige.
-= 제가 스웨덴에 있을 수 있는지 모른다는 거요.
+FARID: Att jag inte vet om jag får stanna i Sverige. Allt annat kan jag klara, men det tänker jag på varje kväll när jag ska sova.
+= 제가 스웨덴에 있을 수 있는지 모른다는 거요. 다른 건 다 견딜 수 있는데, 그건 매일 밤 자려고 누우면 생각나요.
 MAJA: Varför skulle du inte få stanna?
 = 왜 못 있을 수도 있어요?
-FARID: Jag har arbetstillstånd. Det är kopplat till Lundgren. Om jag förlorar jobbet, kanske jag förlorar tillståndet.
-= 노동허가가 있어요. 룬드그렌한테 묶여 있어요. 일자리를 잃으면, 허가도 잃을지 몰라요.
+FARID: Jag har arbetstillstånd, men det är kopplat till Lundgren och till just det här jobbet. Om jag förlorar jobbet, kanske jag förlorar tillståndet också. Därför vågar ingen av oss klaga, fast alla vet att det är fel.
+= 노동허가가 있는데, 룬드그렌이랑 바로 이 일자리에 묶여 있어요. 일자리를 잃으면 허가도 잃을지 몰라요. 그래서 다들 잘못된 걸 알면서도 아무도 감히 불평을 못 해요.
 ELSA: Ursäkta, hur länge har du bott i Sverige?
 = 실례지만, 스웨덴에 얼마나 사셨어요?
 FARID: Sedan 2015. Jag var tolv. Jag kom ensam från Afghanistan.
 = 2015년부터요. 열두 살이었어요. 아프가니스탄에서 혼자 왔어요.
 BIGGAN: Ensam? Vid tolv?
 = 혼자? 열두 살에?
-FARID: Många kom ensamma det året. Jag gick i skolan i Sollefteå. Sen gymnasiet i Stockholm.
-= 그해엔 혼자 온 애들이 많았어요. 솔레프테오에서 학교 다녔고, 그다음 스톡홀름에서 고등학교.
-OXENSTIERNA: Och du talar bättre svenska än hälften av mina rådsherrar.
-= 그리고 자넨 내 대신들 절반보다 스웨덴어를 잘하는군.
+FARID: Många kom ensamma det året. Jag bodde på ett boende och gick i skolan i Sollefteå, där det var mörkt och kallt men folk var snälla. Sen gymnasiet i Stockholm.
+= 그해엔 혼자 온 애들이 많았어요. 저는 보호 시설에 살면서 솔레프테오에서 학교를 다녔어요. 어둡고 추웠지만 사람들은 친절했어요. 그다음 스톡홀름에서 고등학교.
+OXENSTIERNA: Och du talar bättre svenska än hälften av mina rådsherrar, som ändå var födda här och hade de bästa lärarna i riket.
+= 그리고 자넨 내 대신들 절반보다 스웨덴어를 잘하는군. 그자들은 이 땅에서 태어나 왕국 최고의 스승들한테 배웠는데도 말이야.
 FARID: Tack. Jag tror det.
 = 고마워요. 그런 것 같아요.
-ANTON: Okej, så vi behöver alignment mellan Lundgren, Migrationsverket och dig. Win-win.
-= 좋아, 그럼 룬드그렌, 이민청, 그리고 너 사이에 얼라인먼트가 필요해. 윈윈.
+ANTON: Okej, så vi behöver alignment mellan Lundgren, Migrationsverket och dig. Alla får ut något av det. Win-win.
+= 좋아, 그럼 룬드그렌, 이민청, 그리고 너 사이에 얼라인먼트가 필요해. 모두가 뭔가를 얻는 거지. 윈윈.
 FARID: Jag förstår inte. Förlåt.
 = 이해가 안 돼요. 죄송해요.
-ELSA: Ingen förstår, Farid. Inte du heller, Anton, egentligen.
-= 아무도 이해 못 해요, 파리드. 사실 안톤 당신도요.
-ANTON: Hallå! Det är etablerade begrepp.
-= 야! 그거 다 정착된 개념이야.
-MAJA: Etablerade på Östermalm. Här på Söder säger vi: alla ska vara överens.
-= 외스테르말름에서나 정착됐지. 여기 쇠데르에선 이렇게 말해: 다 같이 합의해야 한다.
+ELSA: Ingen förstår, Farid. Inte du heller, Anton, egentligen, om du ska vara ärlig.
+= 아무도 이해 못 해요, 파리드. 솔직히 말하면 사실 안톤 당신도요.
+ANTON: Hallå! Det är etablerade begrepp. Alla på min byrå använder dem.
+= 야! 그거 다 정착된 개념이야. 우리 회사 사람들은 다 써.
+MAJA: Etablerade på Östermalm. Här på Söder säger vi bara: alla ska vara överens. Det kostar ingenting och alla förstår det.
+= 외스테르말름에서나 정착됐지. 여기 쇠데르에선 그냥 이렇게 말해: 다 같이 합의해야 한다. 돈도 안 들고 다들 알아들어.
 FARID: Överens. Det förstår jag.
 = 합의. 그건 알겠어요.
 ELSA: Ser du, Anton? Ett ord. Inte tre.
 = 보셨죠, 안톤? 한 단어예요. 세 단어 말고.
-OXENSTIERNA: Varför talar unga män i den här tiden engelska när de vill låta viktiga?
-= 이 시대 젊은이들은 왜 중요해 보이고 싶을 때 영어를 쓰는 건가?
-JOHAN: Farid, vad står det i ditt anställningsavtal om lön?
-= 파리드, 고용계약서에 월급에 대해 뭐라고 적혀 있어요?
-FARID: Tjugoåttatusen i månaden. Fyrtio timmar i veckan.
-= 한 달에 28,000. 주 40시간.
+OXENSTIERNA: Varför talar unga män i den här tiden engelska när de vill låta viktiga? På min tid var det latin, och det var lika löjligt då. Den som verkligen har något att säga behöver inga främmande ord.
+= 이 시대 젊은이들은 왜 중요해 보이고 싶을 때 영어를 쓰는 건가? 내 시절엔 라틴어였는데, 그때도 똑같이 우스꽝스러웠지. 정말 할 말이 있는 자는 외국 말이 필요 없네.
+JOHAN: Farid, vad står det i ditt anställningsavtal om lön och arbetstid?
+= 파리드, 고용계약서에 월급이랑 근무 시간에 대해 뭐라고 적혀 있어요?
+FARID: Tjugoåttatusen i månaden, före skatt. Fyrtio timmar i veckan. Jag har avtalet hemma i en pärm, så jag kan ta en bild.
+= 세전으로 한 달에 28,000. 주 40시간. 계약서는 집에 파일철에 있으니까 사진 찍어 올 수 있어요.
 MAJA: Och hur många timmar jobbar du?
 = 그리고 몇 시간 일해요?
 FARID: Femtiofem. Ibland sextio.
 = 55시간. 가끔 60시간.
 
 # 장면 2 — TJUGOSJUTUSEN KRONOR
-MAJA: Hur mycket har du fått de senaste sex veckorna?
-= 지난 6주 동안 얼마 받았어요?
-FARID: Femtontusen. Kontant, i ett kuvert.
-= 15,000이요. 현금으로, 봉투에.
-MAJA: Enligt avtalet borde det vara ungefär fyrtiotvåtusen. Utan övertid.
-= 계약대로면 대략 42,000이어야 해요. 초과근무 빼고도.
+MAJA: Hur mycket har du fått de senaste sex veckorna, ungefär?
+= 지난 6주 동안 대략 얼마 받았어요?
+FARID: Femtontusen. Kontant, i ett kuvert. Utan lönebesked.
+= 15,000이요. 현금으로, 봉투에. 급여명세서도 없이요.
+MAJA: Enligt avtalet borde det vara ungefär fyrtiotvåtusen, och då har jag inte ens räknat med övertiden. Sex veckor är ungefär en och en halv månad, och tjugoåttatusen gånger en och en halv blir fyrtiotvå.
+= 계약대로면 대략 42,000이어야 해요. 그것도 초과근무는 아직 계산에 넣지도 않은 거예요. 6주는 대략 한 달 반이고, 28,000 곱하기 1.5는 42,000이니까요.
 ELSA: Så det fattas tjugosjutusen?
 = 그럼 27,000이 모자라요?
-MAJA: Minst. Med övertid mycket mer.
-= 최소한. 초과근무까지 치면 훨씬 더.
-FARID: Lundgren säger att kunden inte har betalat. Att alla måste vänta.
-= 룬드그렌은 고객이 돈을 안 줬대요. 다들 기다려야 한대요.
-JOHAN: Det är inte ditt problem. Lönen ska betalas oavsett.
-= 그건 당신 문제가 아니에요. 월급은 무슨 일이 있어도 줘야 해요.
-WICKSELL: Om kunden inte betalar, bär företagaren risken. Inte arbetaren. Det är själva poängen med att vara företagare.
-= 고객이 돈을 안 내면 위험은 사업주가 지는 거네. 노동자가 아니라. 그게 사업주가 된다는 것의 요점이지.
+MAJA: Minst. Med övertid blir det mycket mer.
+= 최소한. 초과근무까지 치면 훨씬 더 돼요.
+FARID: Lundgren säger att kunden inte har betalat. Att alla måste vänta, och att vi ska vara tacksamma att vi har jobb över huvud taget.
+= 룬드그렌은 고객이 돈을 안 줬대요. 다들 기다려야 하고, 일자리가 있는 것만으로도 고마워해야 한대요.
+JOHAN: Det är inte ditt problem, Farid. Lönen ska betalas oavsett, och det är arbetsgivarens ansvar att ha pengar till den.
+= 그건 당신 문제가 아니에요, 파리드. 월급은 무슨 일이 있어도 줘야 하고, 그 돈을 마련하는 건 고용주의 책임이에요.
+WICKSELL: Om kunden inte betalar, bär företagaren risken. Inte arbetaren. Det är själva poängen med att vara företagare: man tar risken, och därför får man också vinsten när det går bra. Den som vill ha vinsten men skicka risken vidare till sina arbetare är ingen företagare.
+= 고객이 돈을 안 내면 위험은 사업주가 지는 거네. 노동자가 아니라. 그게 사업주가 된다는 것의 요점이지. 위험을 지니까 잘될 때 이익도 가져가는 거야. 이익은 갖고 위험은 노동자한테 떠넘기려는 자는 사업주가 아니네.
 ANTON: Herr Wicksell! Jag hörde inte att ni kom.
 = 빅셀 님! 오시는 소리 못 들었어요.
 WICKSELL: Jag kommer alltid när någon säger ”alla måste vänta”.
 = 누가 ‘다들 기다려야 한다’고 할 때면 난 언제나 오지.
-ELSA: Farid, har du bevis? Att du har jobbat så många timmar?
-= 파리드, 증거 있어요? 그렇게 많은 시간을 일했다는?
+ELSA: Farid, har du bevis? Att du har jobbat så många timmar, alltså? Något som står på papper?
+= 파리드, 증거 있어요? 그러니까 그렇게 많은 시간을 일했다는 거요. 종이에 적힌 거라든가?
 FARID: Bevis? Nej. Bara mitt huvud. Och min trötthet.
 = 증거요? 아뇨. 제 머리뿐이에요. 그리고 피로랑.
-MAJA: Vänta. På byggen finns en personalliggare. Alla måste checka in och ut. Det är lag.
-= 잠깐. 공사 현장엔 출입 기록부가 있어. 다들 체크인, 체크아웃해야 해. 법이야.
+MAJA: Vänta. På byggen finns en personalliggare, en elektronisk lista över alla som är på plats. Alla måste checka in när de kommer och checka ut när de går. Det är lag, och Skatteverket kan komma på oanmälda besök för att kontrollera den.
+= 잠깐. 공사 현장엔 출입 기록부가 있어. 현장에 있는 사람을 전부 적는 전자 명단이야. 다들 올 때 체크인하고 갈 때 체크아웃해야 해. 법이고, 국세청이 예고 없이 와서 확인할 수도 있어.
 FARID: Ja! Vi blippar med en app varje morgon. Och varje kväll.
 = 네! 매일 아침 앱으로 찍어요. 그리고 매일 저녁에도.
-MAJA: Då finns dina timmar sparade. Skatteverket kan kontrollera det.
-= 그럼 당신 근무 시간이 저장돼 있어요. 국세청이 확인할 수 있어요.
-JOHAN: Har du sms från Mats? Om arbetstider?
-= 마츠한테 받은 문자 있어요? 근무 시간에 관한?
+MAJA: Då finns dina timmar sparade, varenda en, med datum och klockslag. Det är svårt för Lundgren att säga emot sin egen personalliggare.
+= 그럼 당신 근무 시간이 하나도 빠짐없이 날짜랑 시각까지 저장돼 있어요. 룬드그렌이 자기 회사 출입 기록부에 반박하긴 어렵죠.
+JOHAN: Har du sms från Mats? Om arbetstider, eller om vilka dagar du ska jobba?
+= 마츠한테 받은 문자 있어요? 근무 시간이나 무슨 요일에 일하라는 거요?
 FARID: Massor. ”Kom kl 6.” ”Stanna till 21.” ”Lördag också.”
 = 엄청 많아요. ‘6시에 와.’ ‘9시까지 있어.’ ‘토요일도.’
 JOHAN: Spara alla. Ta skärmdumpar. Skicka till mig.
 = 다 보관해요. 스크린숏 찍어요. 나한테 보내요.
-FARID: Men om Lundgren får veta att jag pratar med en advokat?
-= 근데 룬드그렌이 제가 변호사랑 얘기하는 걸 알면요?
+FARID: Men om Lundgren får veta att jag pratar med en advokat? Han får reda på allt som händer på bygget.
+= 근데 룬드그렌이 제가 변호사랑 얘기하는 걸 알면요? 그 사람은 공사장에서 일어나는 일은 다 알아내요.
 DANIEL: Vad tror du händer då?
 = 그럼 무슨 일이 생길 것 같아요?
-FARID: Han sparkar mig. Och sen ringer Migrationsverket.
-= 절 자를 거예요. 그다음엔 이민청에서 전화가 오고.
+FARID: Han sparkar mig. Och sen ringer Migrationsverket och säger att jag måste lämna landet. Det är det alla på bygget är rädda för.
+= 절 자를 거예요. 그다음엔 이민청에서 전화가 와서 나라를 떠나야 한다고 하겠죠. 공사장 사람들이 다 그걸 무서워해요.
 ELSA: Ursäkta, Johan, är det sant? Kan man förlora tillståndet för att chefen inte betalar?
 = 실례지만, 요한, 그게 사실이에요? 사장이 돈을 안 줬다고 허가를 잃을 수 있어요?
-JOHAN: Det är komplicerat. Men det är chefen som bryter mot reglerna, inte Farid. Och om jobbet tar slut har man tre månader att hitta en ny arbetsgivare.
-= 복잡해. 하지만 규칙을 어기는 건 사장이야, 파리드가 아니라. 그리고 일자리가 끝나면 새 고용주를 찾을 시간이 석 달 있어.
+JOHAN: Det är komplicerat. Men det är chefen som bryter mot reglerna, inte Farid. Om jobbet tar slut har man tre månader på sig att hitta en ny arbetsgivare, och tillståndet dras inte in direkt. Det är inte mycket, men det är inte heller ingenting.
+= 복잡해. 하지만 규칙을 어기는 건 사장이야, 파리드가 아니라. 일자리가 끝나면 새 고용주를 찾을 시간이 석 달 있고, 허가가 바로 취소되지도 않아. 긴 시간은 아니지만, 아무것도 없는 것도 아니야.
 FARID: Tre månader. Det är kort.
 = 석 달. 짧네요.
-OXENSTIERNA: Tre månader räckte för mig att förlora en armé och vinna en ny.
-= 석 달이면 난 군대 하나를 잃고 새 군대를 얻었네.
+OXENSTIERNA: Tre månader räckte för mig att förlora en armé och vinna en ny. Men jag hade en hel stat bakom mig, och det har inte du.
+= 석 달이면 난 군대 하나를 잃고 새 군대를 얻었네. 하지만 내 뒤엔 나라 전체가 있었고, 자네에겐 그게 없지.
 DANIEL: Farid, får jag fråga om ryggen nu?
 = 파리드, 이제 허리에 대해 물어봐도 될까요?
-FARID: Den gör ont när jag bär gips. Varje dag.
-= 석고보드 나를 때 아파요. 매일요.
-DANIEL: Då skriver jag ner det också. Arbetsmiljö är också en del av saken.
-= 그럼 그것도 적어 둘게요. 작업 환경도 이 일의 일부예요.
+FARID: Den gör ont när jag bär gips. Varje dag. Skivorna är tunga, och vi får ingen hjälp att bära när det är bråttom.
+= 석고보드 나를 때 아파요. 매일요. 판이 무거운데, 급할 때는 같이 들어 줄 사람도 없어요.
+DANIEL: Då skriver jag ner det också. Arbetsmiljö är också en del av saken, och tunga lyft utan hjälp är inget du ska behöva tåla.
+= 그럼 그것도 적어 둘게요. 작업 환경도 이 일의 일부예요. 도움 없이 무거운 걸 드는 건 당신이 참아야 할 일이 아니에요.
 
 # 절정 — ARBETSTILLSTÅNDET
 ANTON: Okej. Vi behöver en roadmap. Kortsiktigt, medellångt, långsiktigt.
@@ -183,74 +183,74 @@ ELSA: Han menar: vad gör vi nu, sen och mycket sen.
 = 이 말은: 지금 뭘 하고, 그다음에 뭘 하고, 한참 뒤에 뭘 하냐는 거예요.
 FARID: Tack, Elsa. Du är som en tolk.
 = 고마워요, 엘사. 통역사 같아요.
-ELSA: Jag kommer från Kiruna. Där pratar vi tre språk. Jag är van.
-= 전 키루나 출신이에요. 거긴 세 가지 언어를 써요. 익숙해요.
+ELSA: Jag kommer från Kiruna. Där pratar vi tre språk, ibland i samma mening, så jag är van att översätta hela tiden.
+= 전 키루나 출신이에요. 거긴 세 가지 언어를 써요, 가끔은 한 문장 안에서요. 그래서 늘 통역하는 데 익숙해요.
 JOHAN: Nu: vi kontaktar facket. Byggnads. Är du medlem?
 = 지금: 노조에 연락하자. 건설노조. 조합원이에요?
-FARID: Nej. Lundgren sa att facket bara skapar problem.
-= 아뇨. 룬드그렌이 노조는 문제만 일으킨다고 했어요.
-WICKSELL: Det säger alla arbetsgivare som har något att dölja.
-= 숨길 게 있는 고용주는 다 그렇게 말하지.
-JOHAN: Du kan bli medlem i dag. Det tar fem minuter.
-= 오늘 가입할 수 있어요. 5분이면 돼요.
+FARID: Nej. Lundgren sa att facket bara skapar problem, och att de som går med inte får några fler pass.
+= 아뇨. 룬드그렌이 노조는 문제만 일으킨다고, 가입하는 사람은 더 이상 근무를 못 받을 거라고 했어요.
+WICKSELL: Det säger alla arbetsgivare som har något att dölja. Jag har hört samma mening i över hundra år.
+= 숨길 게 있는 고용주는 다 그렇게 말하지. 그 말은 백 년도 넘게 들어 왔네.
+JOHAN: Du kan bli medlem i dag. Det tar fem minuter på nätet, och Lundgren behöver inte få veta det.
+= 오늘 가입할 수 있어요. 인터넷으로 5분이면 되고, 룬드그렌이 알 필요도 없어요.
 ELSA: Facket. Det betyder fackföreningen, eller hur? Som Gunnel?
 = 노조. 그건 노동조합이라는 거죠? 군넬처럼요?
-DANIEL: Exakt som Gunnel. Hon skulle älska det här fallet.
-= 딱 군넬처럼. 군넬이 이 사건 정말 좋아할 거야.
-MAJA: Sen: vi räknar exakt vad som saknas. Lön, övertid, semesterersättning.
-= 그다음: 모자란 걸 정확히 계산하자. 월급, 초과근무, 휴가 수당.
-JOHAN: Och sen ett möte med Lundgren. Här. Inte på bygget.
-= 그리고 룬드그렌과 만남. 여기서. 공사장 말고.
+DANIEL: Exakt som Gunnel. Hon har kämpat för folk som Farid hela sitt liv, och hon skulle älska det här fallet.
+= 딱 군넬처럼. 군넬은 평생 파리드 같은 사람들을 위해 싸워 왔으니까, 이 사건 정말 좋아할 거야.
+MAJA: Sen: vi räknar exakt vad som saknas. Lön, övertid, semesterersättning. Varje timme och varje krona, svart på vitt.
+= 그다음: 모자란 걸 정확히 계산하자. 월급, 초과근무, 휴가 수당. 한 시간, 1크로나까지 전부 문서로.
+JOHAN: Och sen ett möte med Lundgren. Här, där du känner dig trygg. Inte på bygget.
+= 그리고 룬드그렌과 만남. 여기서, 당신이 마음 편한 곳에서. 공사장 말고.
 FARID: Han kommer aldrig hit.
 = 그 사람은 절대 여기 안 와요.
-JOHAN: Han kommer om facket och en advokat ber honom. Det är billigare än en rättegång.
-= 노조랑 변호사가 부르면 와요. 재판보다 싸니까.
+JOHAN: Han kommer om facket och en advokat ber honom. Det är mycket billigare än en rättegång, och det vet han.
+= 노조랑 변호사가 부르면 와요. 재판보다 훨씬 싸니까요. 그건 그 사람도 알아요.
 WICKSELL: När blir mötet?
 = 만남은 언제인가?
 JOHAN: I övermorgon. Klockan fem.
 = 모레. 다섯 시.
-WICKSELL: Räkna dagarna, Farid. Två dagar. Under de två dagarna blippar du som vanligt.
-= 날짜를 세게, 파리드. 이틀. 그 이틀 동안 평소처럼 찍게.
+WICKSELL: Räkna dagarna, Farid. Två dagar. Under de två dagarna blippar du som vanligt, varje morgon och varje kväll, så att listan blir komplett.
+= 날짜를 세게, 파리드. 이틀. 그 이틀 동안 평소처럼 아침저녁으로 찍게. 명단이 빠짐없이 채워지도록.
 FARID: Ska jag jobba som vanligt?
 = 평소처럼 일해야 해요?
-JOHAN: Ja. Inget dramatiskt. Bara spara allt.
-= 응. 극적인 건 없이. 그냥 다 보관해.
-ANTON: Och jag förbereder mötet. En presentation, kanske tio slides.
-= 그리고 난 회의를 준비할게. 프레젠테이션, 한 열 장쯤.
+JOHAN: Ja. Inget dramatiskt, inga gräl med Mats. Bara spara allt.
+= 응. 극적인 건 없이, 마츠랑 싸우지도 말고. 그냥 다 보관해.
+ANTON: Och jag förbereder mötet. En presentation, kanske tio slides, med en tydlig executive summary i början.
+= 그리고 난 회의를 준비할게. 프레젠테이션, 한 열 장쯤. 맨 앞에 깔끔한 이그제큐티브 서머리도 넣고.
 MAJA: Nej, Anton. Inga slides.
 = 안 돼, 안톤. 슬라이드 없어.
 ANTON: Fem slides?
 = 다섯 장?
 DANIEL: Noll slides. Ett papper med siffror. Majas papper.
 = 0장. 숫자 적힌 종이 한 장. 마야의 종이.
-OXENSTIERNA: Jag förhandlade fred med ett enda papper. Westfalen. Det höll i hundra år.
-= 난 종이 한 장으로 평화 협상을 했네. 베스트팔렌. 백 년을 갔지.
+OXENSTIERNA: Jag förhandlade fred med ett enda papper. Westfalen. Det tog flera år att skriva och ingen skrev under med glädje, men det höll i hundra år. Ingen av oss behövde bilder.
+= 난 종이 한 장으로 평화 협상을 했네. 베스트팔렌. 쓰는 데 몇 년이 걸렸고 아무도 기쁘게 서명하지 않았지만, 백 년을 갔지. 우리 중 누구도 그림 따위는 필요 없었네.
 ELSA: Hundra år. Med ett papper.
 = 백 년. 종이 한 장으로.
-FARID: Jag behöver bara att det håller tills jag får min lön.
-= 저는 월급 받을 때까지만 가면 돼요.
+FARID: Jag behöver bara att det håller tills jag får min lön. Sen får det gärna hålla i hundra år också.
+= 저는 월급 받을 때까지만 가면 돼요. 그다음엔 백 년을 가도 좋고요.
 
 # 마무리 — ÖVNING GER FÄRDIGHET
-BIGGAN: Farid, ta en bulle till. Och en med dig till de andra killarna.
-= 파리드, 번 하나 더 먹어. 그리고 다른 애들 줄 것도 가져가.
+BIGGAN: Farid, ta en bulle till. Och en med dig till var och en av de andra killarna, för de har säkert inte ätit heller.
+= 파리드, 번 하나 더 먹어. 그리고 다른 애들 한 명씩 줄 것도 가져가. 걔들도 분명 아무것도 못 먹었을 테니까.
 FARID: Sju bullar? Tack, Biggan.
 = 일곱 개요? 고마워요, 비간.
 ANTON: Elsa, får jag fråga en sak? Var jag så svår att förstå?
 = 엘사, 하나 물어봐도 돼? 내가 그렇게 이해하기 어려웠어?
 ELSA: Ja. Förlåt. Men ja.
 = 네. 죄송해요. 근데 네.
-ANTON: Okej. Jag ska öva. Säg till när jag säger något på engelska.
-= 알았어. 연습할게. 내가 영어로 뭐 말하면 말해 줘.
+ANTON: Okej. Jag ska öva. Säg till när jag säger något på engelska, även om det bara är ett litet ord.
+= 알았어. 연습할게. 내가 영어로 뭐 말하면 말해 줘, 작은 단어 하나라도.
 ELSA: Då kommer jag att prata hela dagen.
 = 그럼 저 하루 종일 말해야 할 거예요.
-MAJA: Jag räknar. Varje engelskt ord är en krona till kaffekassan.
-= 내가 셀게. 영어 단어 하나에 커피 기금 1크로나.
+MAJA: Jag räknar. Varje engelskt ord är en krona till kaffekassan, och jag har en känsla av att vi snart har råd med en ny maskin. Jag för bok varje dag, så det blir inget fusk.
+= 내가 셀게. 영어 단어 하나에 커피 기금 1크로나. 느낌상 곧 새 커피 머신을 살 수 있을 것 같은데. 매일 장부에 적을 테니까 속임수는 없어.
 ANTON: Deal.
 = 딜.
 MAJA: En krona.
 = 1크로나.
-DANIEL: Farid, kom till akuten om ryggen blir värre. Fråga efter mig.
-= 파리드, 허리가 더 나빠지면 응급실로 와요. 날 찾아요.
+DANIEL: Farid, kom till akuten om ryggen blir värre. Fråga efter mig, så tittar jag på den själv.
+= 파리드, 허리가 더 나빠지면 응급실로 와요. 날 찾으면 내가 직접 봐 줄게요.
 FARID: Tack, doktor Daniel.
 = 고마워요, 다니엘 선생님.
 OXENSTIERNA: ”Doktor Daniel.” Äntligen en titel i det här huset.
@@ -261,6 +261,6 @@ ANTON: Jag förstår, herr Wicksell. Inget mer ”alignment”.
 = 알겠어요, 빅셀 님. 더 이상 ‘얼라인먼트’ 없어요.
 MAJA: Två kronor.
 = 2크로나.
-FARID: I övermorgon klockan fem.
-= 모레 다섯 시.
+FARID: I övermorgon klockan fem. Jag kommer, och jag tar med alla skärmdumpar.
+= 모레 다섯 시. 올게요. 스크린숏도 전부 가져올게요.
 NEXT: 1부 6화 — «NU RÄCKER DET!»(이제 그만!) — Lundgren과의 협상 자리. Anton의 영어 섞인 경영 용어가 한 시간째 이어지자, 늘 «Ursäkta…»로 묻던 Elsa가 처음으로 폭발한다. 이후 쉬운 말로 다시 협상해 밀린 임금 지급에 합의한다.
