@@ -15,28 +15,28 @@ CAST: LEYLA | 이웃 주민 · 세입자 (가상)
 NOTE: ※ 쇠데르말름의 작은 사무실이 문을 연 지 한 달째입니다. 변호사 Johan, 응급의학과 전문의 Daniel, 회계사 Maja, 컨설턴트 Anton이 각자의 방식으로 이웃들의 문제를 돕기로 했지만, 아직 공통된 방법을 정하지 못했습니다. 이유 없이 되살아난 옥센셰르나와 빅셀도 종종 사무실에 드나듭니다 — 왜 이 시대에 돌아왔는지는 극 중에서도 끝내 밝혀지지 않습니다. 스웨덴에서는 1960~70년대 ‘du-reformen’ 이후 거의 누구에게나 du(너)를 쓰고, 한 사람에게 쓰는 존칭 ni는 낡고 어색하게 들립니다. 키루나 출신 인턴 Elsa는 할머니에게 배운 대로 아직 ni를 씁니다(한국어 대역에서는 존댓말로 옮깁니다). 표현 초점: 주거·임대 어휘 — hyresavtal, hyresvärd, standardhöjande, svara inom, bruksvärde.
 
 # 도입 — KLOCKAN FEM, FIKA FÖRST
-BIGGAN: Klockan är fem. Fika först, innan ni börjar bråka igen.
-= 다섯 시야. 또 싸우기 전에 피카부터 해.
-JOHAN: Ett steg i taget, Biggan. Vi diskuterar bara metoden.
-= 한 걸음씩이야, 비간. 우린 그냥 방법을 논의하는 거야.
+BIGGAN: Klockan är fem, och ni har suttit här uppe och bråkat ända sedan lunch. Fika först, innan ni börjar igen – jag har precis tagit ut en ny plåt kanelbullar ur ugnen.
+= 다섯 시야. 너희 점심 때부터 계속 여기 위층에 앉아서 싸웠잖아. 또 시작하기 전에 피카부터 해. 방금 오븐에서 시나몬번 한 판 새로 꺼냈어.
+JOHAN: Ett steg i taget, Biggan. Vi bråkar inte, vi diskuterar bara metoden, och det är faktiskt en viktig skillnad.
+= 한 걸음씩이야, 비간. 우린 싸우는 게 아니라 그냥 방법을 논의하는 거야. 그리고 그건 사실 중요한 차이라고.
 DANIEL: Kallar du det diskussion? Det var tredje rundan idag.
 = 그걸 논의라고 해? 오늘만 벌써 세 번째야.
 MAJA: Fjärde. Jag har räknat.
 = 네 번째야. 내가 세어 봤어.
-ANTON: Vi behöver en tydlig process. Annars funkar det inte.
-= 명확한 프로세스가 필요해. 안 그러면 안 돌아가.
+ANTON: Vi behöver en tydlig process, ett gemensamt framework som alla följer från första mötet. Annars funkar det inte, hur smarta vi än är.
+= 명확한 프로세스가 필요해. 첫 미팅부터 모두가 따르는 공통 프레임워크 말이야. 안 그러면 우리가 아무리 똑똑해도 안 돌아가.
 ELSA: Ursäkta, vilken process menar ni, Anton?
 = 실례지만, 어떤 프로세스를 말씀하시는 거예요, 안톤?
 ANTON: ”Ni”? Elsa, jag är trettiofyra, inte nittio.
 = ‘말씀’이라니? 엘사, 나 서른넷이야, 아흔이 아니라.
-MAJA: Han menar en ordning, så att inte alla pratar samtidigt.
-= 순서를 말하는 거야. 다 같이 한꺼번에 말하지 않게.
-ELSA: Tack. Förlåt, det är en vana. Mormor säger alltid ni.
-= 고마워요. 죄송해요, 습관이에요. 할머니는 늘 ‘니’라고 하시거든요.
+MAJA: Han menar en ordning, så att inte alla pratar samtidigt och ingen lyssnar.
+= 순서를 말하는 거야. 다 같이 한꺼번에 말하고 아무도 안 듣는 일이 없게.
+ELSA: Tack. Förlåt, det är en vana. Mormor säger alltid ni till folk som hon inte känner så väl, och hon lärde mig att det är det artiga sättet.
+= 고마워요. 죄송해요, 습관이에요. 할머니는 잘 모르는 사람한테 늘 ‘니’라고 하시는데, 그게 예의 바른 방식이라고 가르쳐 주셨거든요.
 OXENSTIERNA: Låt flickan vara. Äntligen någon i det här huset som har vett.
 = 그 아이를 내버려 두게. 이 집에서 드디어 예의를 아는 사람이 나왔군.
-DANIEL: Herr Oxenstierna, ingen säger ni längre. Det slutade på sextiotalet.
-= 옥센셰르나 님, 요즘 아무도 ‘니’ 안 써요. 60년대에 끝났어요.
+DANIEL: Herr Oxenstierna, ingen säger ni längre. Det slutade på sextiotalet, när nästan hela landet bestämde sig för att alla skulle säga du till alla.
+= 옥센셰르나 님, 요즘 아무도 ‘니’ 안 써요. 60년대에 끝났어요. 거의 온 나라가 누구나 누구에게든 ‘두’라고 하기로 정했을 때요.
 OXENSTIERNA: Då slutade också respekten, herr doktor.
 = 그때 존경심도 끝났지, 의사 양반.
 BIGGAN: Lägg av nu och drick ert kaffe. Bullarna är varma.
@@ -45,26 +45,26 @@ JOHAN: Var är vårt nästa fall, förresten? Det är tyst idag.
 = 그런데 다음 사건은 어디 있지? 오늘 조용하네.
 ANTON: För tyst. Det gillar jag inte.
 = 너무 조용해. 마음에 안 들어.
-BIGGAN: Tyst är bra. Tyst betyder att folk har råd med hyran.
-= 조용한 건 좋은 거야. 조용하다는 건 사람들이 월세를 낼 수 있다는 뜻이지.
+BIGGAN: Tyst är bra, Anton. Tyst betyder att folk har råd med hyran. Jag har stått bakom den här disken i många år, och jag lovar dig: när någon i kvarteret får ett dåligt brev, så hör jag det här nere långt innan ni hör det där uppe.
+= 조용한 건 좋은 거야, 안톤. 조용하다는 건 사람들이 월세를 낼 수 있다는 뜻이지. 내가 이 카운터 뒤에 선 지 여러 해야. 장담하는데, 이 동네 누가 안 좋은 편지를 받으면, 너희가 위층에서 듣기 훨씬 전에 내가 여기 아래층에서 먼저 듣게 돼.
 
 # 장면 1 — FYRA METODER, ETT KONTOR
-MAJA: Anton, ingen förstod din matris från igår.
-= 안톤, 어제 네 매트릭스 아무도 이해 못 했어.
+MAJA: Anton, ingen förstod din matris från igår, inte ens du själv när du skulle förklara den för Daniel.
+= 안톤, 어제 네 매트릭스 아무도 이해 못 했어. 다니엘한테 설명하려고 할 땐 너 자신도 이해 못 했고.
 ANTON: Då kör vi en ny! Fyra rutor, tydliga prioriteringar.
 = 그럼 새로 하자! 네 칸, 명확한 우선순위.
-DANIEL: Jag behöver inga fyra rutor. Jag behöver veta: vem blöder först?
-= 난 네 칸 필요 없어. 알아야 할 건 하나야: 누가 먼저 피 흘리나?
-JOHAN: Och jag behöver avtalet innan jag säger något.
-= 그리고 난 말하기 전에 계약서가 필요해.
+DANIEL: Jag behöver inga fyra rutor. På akuten finns det ingen tid för rutor, där behöver jag bara veta en sak: vem blöder först?
+= 난 네 칸 필요 없어. 응급실엔 칸 따위 그릴 시간이 없어. 거기선 딱 하나만 알면 돼: 누가 먼저 피 흘리나?
+JOHAN: Och jag behöver avtalet innan jag säger något, eftersom ett enda ord i ett avtal kan ändra hela saken.
+= 그리고 난 말하기 전에 계약서가 필요해. 계약서 단어 하나가 사건 전체를 바꿀 수 있으니까.
 MAJA: Jag behöver siffrorna. Utan siffror säger jag ingenting.
 = 난 숫자가 필요해. 숫자 없이는 아무 말도 안 해.
 ELSA: Så alla har en egen metod?
 = 그럼 다들 자기만의 방법이 있는 거예요?
 JOHAN: Fyra metoder, ett kontor. Det är precis problemet.
 = 방법 넷, 사무소 하나. 그게 바로 문제야.
-OXENSTIERNA: På min tid hade riket en kansler. En.
-= 내 시절엔 나라에 재상이 하나였네. 딱 하나.
+OXENSTIERNA: På min tid hade riket en kansler. En. När kungen var ute i krig skrev jag brev dag och natt, och ingen behövde fråga vem som förde pennan. Därför höll riket ihop.
+= 내 시절엔 나라에 재상이 하나였네. 딱 하나. 왕께서 전쟁에 나가 계실 때 나는 밤낮으로 편지를 썼고, 누가 펜을 쥐고 있는지 아무도 물을 필요가 없었지. 그래서 나라가 버텼던 걸세.
 ANTON: Vi är inget rike, herr Oxenstierna.
 = 우린 왕국이 아니에요, 옥센셰르나 님.
 OXENSTIERNA: Ibland känns det så. Med lika mycket gräl.
@@ -73,16 +73,16 @@ ELSA: Herr Ek, får jag fråga en sak?
 = 엑 씨, 뭐 하나 여쭤봐도 돼요?
 JOHAN: Alltid, Elsa. Men säg Johan. Och säg du.
 = 언제든지, 엘사. 근데 요한이라고 불러. 그리고 ‘두’라고 해.
-ELSA: På intervjun sa ni ju också du till mig.
-= 면접 때도 저한테 ‘두’라고 하셨잖아요.
-JOHAN: Precis. Alla säger du. Till chefen, till läkaren, nästan till kungen.
-= 바로 그거야. 다들 ‘두’라고 해. 상사한테도, 의사한테도, 거의 왕한테도.
+ELSA: På intervjun sa ni ju också du till mig, redan när ni hälsade på mig i dörren.
+= 면접 때도 저한테 ‘두’라고 하셨잖아요. 문에서 인사하실 때부터요.
+JOHAN: Precis. Alla säger du. Till chefen, till läkaren, nästan till kungen. Det betyder inte att man är ohövlig, bara att vi tycker att alla människor är lika mycket värda.
+= 바로 그거야. 다들 ‘두’라고 해. 상사한테도, 의사한테도, 거의 왕한테도. 그게 무례하다는 뜻이 아니야. 그냥 모든 사람이 똑같이 소중하다고 생각한다는 거지.
 ELSA: Men hemma i Kiruna säger mormor ni till prästen.
 = 근데 키루나 집에서 할머니는 목사님한테 ‘니’라고 하세요.
 DANIEL: Det är Kiruna. Där flyttar de ju hela staden också.
 = 그건 키루나니까. 거긴 도시 전체를 옮기기도 하잖아.
-ELSA: Det är sant. Hos oss flyttar inte människorna. Staden flyttar.
-= 맞아요. 우리 동네는 사람이 이사 가는 게 아니라, 도시가 이사 가요.
+ELSA: Det är sant. Hos oss flyttar inte människorna. Staden flyttar, eftersom gruvan växer under husen och marken inte håller längre. Till och med kyrkan har fått flytta.
+= 맞아요. 우리 동네는 사람이 이사 가는 게 아니라, 도시가 이사 가요. 광산이 집들 밑으로 커지면서 땅이 더는 버티지 못하거든요. 교회까지 옮겨야 했어요.
 MAJA: Vi kanske skriver ner det idag. Regel ett: alla säger du.
 = 오늘 적어 둘까. 규칙 1번: 모두 ‘두’로 말한다.
 ELSA: Okej, men… vem bestämmer reglerna?
@@ -93,32 +93,32 @@ WICKSELL: Vad pratar ni om, när ni grälar utan att kalla det gräl?
 = 싸우면서 싸움이라 부르지 않을 때, 자네들은 무슨 얘기를 하는 건가?
 ANTON: Om metoder, herr Wicksell. Välkommen.
 = 방법에 대해서요, 빅셀 님. 어서 오세요.
-WICKSELL: Metoder intresserar mig mindre än tidsfrister.
-= 난 방법보다 기한에 더 관심이 있네.
+WICKSELL: Metoder intresserar mig mindre än tidsfrister. En metod kan man alltid ändra i efterhand, men en frist som har gått ut kommer aldrig tillbaka, hur länge man än diskuterar.
+= 난 방법보다 기한에 더 관심이 있네. 방법은 나중에라도 얼마든지 바꿀 수 있지만, 한번 지나간 기한은 아무리 오래 논의해도 절대 돌아오지 않거든.
 JOHAN: Vilka tidsfrister?
 = 어떤 기한이요?
 WICKSELL: Räkna dagarna, Johan. Alltid dagarna.
 = 날짜를 세어 보게, 요한. 언제나 날짜부터.
 ELSA: Ursäkta, vad betyder det? Vilka dagar?
 = 실례지만, 그게 무슨 뜻이에요? 어떤 날짜요?
-DANIEL: Ingen aning. Herr Wicksell talar sällan klarspråk.
-= 몰라. 빅셀 님은 쉬운 말로 말하는 법이 거의 없어.
+DANIEL: Ingen aning. Herr Wicksell talar sällan klarspråk, och efter ett nattpass på akuten orkar jag inte lösa gåtor.
+= 몰라. 빅셀 님은 쉬운 말로 말하는 법이 거의 없어. 그리고 응급실 야간 근무 끝나고 나면 난 수수께끼 풀 기운이 없어.
 WICKSELL: Jag talar mycket klart. Ni lyssnar bara sällan.
 = 난 아주 분명하게 말하네. 자네들이 잘 안 들을 뿐이지.
 MAJA: Vilka dagar, konkret?
 = 구체적으로 어떤 날짜요?
-WICKSELL: Det får ni veta i kväll. Jag går nu. Tack för kaffet, Biggan.
-= 오늘 저녁에 알게 될 걸세. 난 이만 가네. 커피 고맙네, 비간.
+WICKSELL: Det får ni veta i kväll, när den som behöver er knackar på dörren. Jag går nu. Tack för kaffet, Biggan.
+= 오늘 저녁에 알게 될 걸세. 자네들이 필요한 사람이 문을 두드릴 때. 난 이만 가네. 커피 고맙네, 비간.
 
 # 장면 2 — LEYLA KOMMER IGEN
-BIGGAN: Där är hon ju. Leyla, kom in och sätt dig.
-= 저기 왔네. 레일라, 들어와서 앉아.
+BIGGAN: Där är hon ju. Leyla, kom in och sätt dig, du ser alldeles frusen ut.
+= 저기 왔네. 레일라, 들어와서 앉아. 완전히 얼어 보이네.
 LEYLA: Hej Biggan. Hej allihop.
 = 안녕, 비간. 다들 안녕하세요.
 JOHAN: Hej Leyla, vad roligt att se dig. Vad har hänt?
 = 안녕하세요, 레일라. 반가워요. 무슨 일이에요?
-LEYLA: Ännu ett brev. Det andra på två månader.
-= 또 편지예요. 두 달 만에 두 번째예요.
+LEYLA: Ännu ett brev. Det andra på två månader. Jag hittade det i brevlådan när jag kom hem från jobbet, och sedan dess har jag knappt kunnat tänka på något annat.
+= 또 편지예요. 두 달 만에 두 번째예요. 일 끝나고 집에 왔을 때 우편함에서 발견했는데, 그 뒤로는 다른 생각을 거의 못 하겠어요.
 DANIEL: Sätt dig ner. Andas först.
 = 앉으세요. 일단 숨부터 쉬시고요.
 ELSA: Ursäkta, vad för slags brev?
@@ -127,48 +127,48 @@ LEYLA: Från hyresvärden. Från Nordhem. Om hyran.
 = 집주인한테서요. 노르드헴이요. 월세 얘기예요.
 MAJA: Får jag se, Leyla?
 = 좀 봐도 돼요, 레일라?
-LEYLA: Varsågod. I våras byggde de om mitt kök. Jag ville inte ens ha ett nytt.
-= 여기요. 지난봄에 우리 집 부엌을 새로 고쳤어요. 전 새 부엌을 원하지도 않았는데.
+LEYLA: Varsågod. I våras byggde de om mitt kök. Jag ville inte ens ha ett nytt, det gamla fungerade alldeles utmärkt, och nu ska jag tydligen betala för något som jag aldrig bad om.
+= 여기요. 지난봄에 우리 집 부엌을 새로 고쳤어요. 전 새 부엌을 원하지도 않았어요. 옛날 부엌도 멀쩡히 잘 썼는데, 이제 와서 한 번도 부탁한 적 없는 걸 돈 내라는 거예요.
 JOHAN: Och nu vill de höja hyran?
 = 그리고 이제 월세를 올리겠다는 거예요?
 LEYLA: Med tvåtusenfyrahundra kronor. I månaden.
 = 2,400크로나요. 한 달에.
 DANIEL: Är det mycket för dig?
 = 그게 큰 부담인가요?
-LEYLA: Väldigt mycket. Jag har redan två jobb. Hemtjänst på dagen, städning på kvällen.
-= 아주 커요. 벌써 일을 두 개 해요. 낮엔 홈케어, 저녁엔 청소.
-MAJA: Det står ”efter standardhöjande åtgärder”. Har du hyresavtalet med dig?
-= ‘표준 상향 조치 이후’라고 적혀 있네요. 임대 계약서 갖고 왔어요?
-LEYLA: Nej. Avtalet ligger hemma. Reza har pärmen.
-= 아뇨. 계약서는 집에 있어요. 레자가 서류철을 갖고 있어요.
+LEYLA: Väldigt mycket. Jag har redan två jobb. Hemtjänst på dagen, städning på kvällen, och ändå räcker pengarna knappt till slutet av månaden.
+= 아주 커요. 벌써 일을 두 개 해요. 낮엔 홈케어, 저녁엔 청소. 그런데도 돈이 월말까지 겨우 버텨요.
+MAJA: Här står det: ”Med anledning av de standardhöjande åtgärder som har utförts i lägenheten höjs hyran med 2 400 kronor per månad.” Har du hyresavtalet med dig?
+= 여기 이렇게 적혀 있네요. ‘아파트에 시행된 표준 상향 조치에 따라 월세를 월 2,400크로나 인상합니다.’ 임대 계약서 갖고 왔어요?
+LEYLA: Nej. Avtalet ligger hemma i en pärm. Reza har pärmen, han sköter alla papper hos oss.
+= 아뇨. 계약서는 집에 서류철에 있어요. 레자가 그 서류철을 갖고 있어요. 우리 집 서류는 다 그 사람이 챙기거든요.
 JOHAN: Utan avtalet blir det svårt.
 = 계약서가 없으면 어려워지는데요.
 ELSA: Ursäkta, vad betyder ”standardhöjande”?
 = 실례지만, ‘표준 상향’이 무슨 뜻이에요?
-JOHAN: Att lägenheten blir bättre än förut. Nytt kök, nytt badrum, sånt.
-= 집이 전보다 좋아진다는 뜻이야. 새 부엌, 새 욕실 같은 거.
+JOHAN: Att lägenheten blir bättre än förut. Nytt kök, nytt badrum, sånt som gör att lägenheten blir värd mer, och då vill hyresvärden ofta ta ut en högre hyra.
+= 집이 전보다 좋아진다는 뜻이야. 새 부엌, 새 욕실처럼 집의 가치를 올리는 것들. 그러면 집주인은 보통 월세를 더 받고 싶어 하지.
 ELSA: Men om man inte ville ha det bättre?
 = 근데 좋아지길 원하지 않았다면요?
-JOHAN: Det är just frågan. Man måste säga ja till sånt. Oftast skriftligt.
-= 바로 그게 문제야. 그런 건 동의해야 해. 보통은 서면으로.
-LEYLA: Jag skrev under något papper i dörren. Hantverkarna hade så bråttom.
-= 문 앞에서 무슨 종이에 서명하긴 했어요. 공사하는 사람들이 엄청 급해서요.
+JOHAN: Det är just frågan. En hyresvärd får inte bara bygga om och sedan skicka räkningen. Hyresgästen måste säga ja till sånt, oftast skriftligt, och om hon säger nej måste hyresvärden få tillstånd på annat sätt. Därför är papperet så viktigt.
+= 바로 그게 문제야. 집주인이 마음대로 공사하고 나서 청구서만 보내면 안 돼. 그런 건 세입자가 동의해야 하고, 보통은 서면으로 해. 세입자가 거절하면 집주인은 다른 방법으로 허가를 받아야 하고. 그래서 그 종이가 그렇게 중요한 거야.
+LEYLA: Jag skrev under något papper i dörren. Hantverkarna hade så bråttom, de stod där med sina verktyg och sa att det bara var en formalitet.
+= 문 앞에서 무슨 종이에 서명하긴 했어요. 공사하는 사람들이 엄청 급했거든요. 공구를 들고 서서는 그냥 형식적인 거라고 했어요.
 MAJA: Vad stod det på papperet?
 = 그 종이에 뭐라고 적혀 있었어요?
-LEYLA: Jag minns inte. Det var mycket text och väldigt små bokstäver.
-= 기억 안 나요. 글이 많았고 글씨가 엄청 작았어요.
+LEYLA: Jag minns inte. Det var mycket text och väldigt små bokstäver, och jag hann inte läsa det ordentligt.
+= 기억 안 나요. 글이 많았고 글씨가 엄청 작았는데, 제대로 읽을 시간이 없었어요.
 OXENSTIERNA: Små bokstäver har styrt världen längre än kungar, fru Karimi.
 = 작은 글씨는 왕들보다 더 오래 세상을 다스려 왔소, 카리미 부인.
 LEYLA: Det tror jag gärna.
 = 그 말씀은 바로 믿겨요.
 ELSA: Ursäkta, är det ens tillåtet? Så mycket på en gång?
 = 실례지만, 그게 허용되기는 해요? 한 번에 그렇게 많이요?
-JOHAN: Det beror på avtalet, på papperet hon skrev under och på lagen.
-= 그건 계약서, 그분이 서명한 종이, 그리고 법에 달려 있어.
+JOHAN: Det beror på avtalet, på papperet hon skrev under och på lagen. Jag vill inte lova något förrän jag har läst allt.
+= 그건 계약서, 그분이 서명한 종이, 그리고 법에 달려 있어. 전부 읽기 전까지는 아무것도 약속하고 싶지 않아.
 MAJA: Utan papperen gissar jag bara. Och jag gissar inte gärna.
 = 서류 없이는 추측만 할 뿐이야. 그리고 난 추측을 싫어해.
-ANTON: Leyla, när måste du svara?
-= 레일라, 언제까지 답해야 해요?
+ANTON: Leyla, när måste du svara? Det är det viktigaste just nu. Deadline först.
+= 레일라, 언제까지 답해야 해요? 지금은 그게 제일 중요해요. 데드라인부터.
 LEYLA: Inom trettio dagar. Och brevet kom för två veckor sedan.
 = 30일 안에요. 그리고 편지는 2주 전에 왔어요.
 ANTON: Så sexton dagar kvar.
@@ -177,48 +177,48 @@ ELSA: Vänta, är DET dagarna som herr Wicksell pratade om?
 = 잠깐, 그게 빅셀 님이 말한 그 날짜예요?
 MAJA: Ser ut så.
 = 그런 것 같네.
-JOHAN: Sexton dagar räcker. Men inte utan avtalet och papperet från dörren.
-= 16일이면 충분해. 하지만 계약서랑 그 문 앞 종이 없이는 안 돼.
-LEYLA: Jag kan ta med dem i morgon. Tidigt.
-= 내일 가져올 수 있어요. 일찍.
-BIGGAN: Då kommer du hit på frukost i morgon, Leyla. Klockan åtta.
-= 그럼 내일 아침 먹으러 여기로 와, 레일라. 여덟 시에.
+JOHAN: Sexton dagar räcker. Men inte utan avtalet och papperet från dörren, för det är där hela fallet avgörs.
+= 16일이면 충분해. 하지만 계약서랑 그 문 앞 종이 없이는 안 돼. 사건 전체가 거기서 결판나니까.
+LEYLA: Jag kan ta med dem i morgon. Tidigt, innan jag går till jobbet.
+= 내일 가져올 수 있어요. 일찍, 일하러 가기 전에요.
+BIGGAN: Då kommer du hit på frukost i morgon, Leyla. Klockan åtta. Ingen ska behöva läsa små bokstäver på tom mage.
+= 그럼 내일 아침 먹으러 여기로 와, 레일라. 여덟 시에. 빈속에 작은 글씨 읽는 사람은 없어야지.
 
 # 절정 — SEXTON DAGAR
-ANTON: Sexton dagar. Det räcker för en plan.
-= 16일. 계획 세우기엔 충분해.
+ANTON: Sexton dagar. Det räcker för en plan, om vi delar upp jobbet och alla vet exakt vem som äger vilken del.
+= 16일. 계획 세우기엔 충분해. 일을 나누고, 누가 어느 부분을 맡는지 다들 정확히 알면.
 DANIEL: För din plan med fyra rutor?
 = 네 칸짜리 계획 말이야?
 ANTON: Den här gången utan matris. Jag lovar.
 = 이번엔 매트릭스 없이. 약속해.
-JOHAN: Jag läser avtalet i morgon. Rad för rad.
-= 내일 계약서를 읽을게. 한 줄 한 줄.
-MAJA: Och jag jämför hyran med liknande lägenheter i området.
-= 그리고 난 월세를 이 동네 비슷한 집들이랑 비교할게.
+JOHAN: Jag läser avtalet i morgon. Rad för rad. Och papperet från dörren också, eftersom det kanske inte alls är det som hantverkarna sa att det var.
+= 내일 계약서를 읽을게. 한 줄 한 줄. 그 문 앞 종이도. 어쩌면 공사하는 사람들이 말한 그런 종이가 전혀 아닐 수도 있으니까.
+MAJA: Och jag jämför hyran med liknande lägenheter i området, så att vi vet om 2 400 kronor mer ens är rimligt.
+= 그리고 난 월세를 이 동네 비슷한 집들이랑 비교할게. 2,400크로나 인상이 말이 되기는 하는지 알 수 있게.
 ELSA: Ursäkta, varför jämför man med andra lägenheter?
 = 실례지만, 왜 다른 집들이랑 비교해요?
-MAJA: I Sverige sätts hyran efter vad liknande lägenheter kostar. Det heter bruksvärde.
-= 스웨덴에선 월세를 비슷한 집들이 얼마인지에 따라 정해. 그걸 ‘사용가치’라고 해.
+MAJA: I Sverige sätts hyran efter vad liknande lägenheter kostar. Det heter bruksvärde. Om Leylas lägenhet inte är bättre än grannarnas, trots det nya köket, så kan hyresvärden inte ta vilken hyra som helst. Då är det siffrorna som avgör, inte breven.
+= 스웨덴에선 월세를 비슷한 집들이 얼마인지에 따라 정해. 그걸 ‘사용가치’라고 해. 새 부엌이 있어도 레일라 집이 이웃집들보다 나을 게 없다면, 집주인이 아무 월세나 받을 수는 없어. 그럴 땐 편지가 아니라 숫자가 결정하는 거야.
 ELSA: Bruksvärde. Tack, det kan jag komma ihåg.
 = 사용가치. 고마워요, 그건 외울 수 있겠어요.
 DANIEL: Och jag? Vad gör jag i morgon?
 = 그럼 나는? 내일 뭐 해?
 OXENSTIERNA: Ni är läkare, inte jurist. Håll er till ert fack, herr doktor.
 = 당신은 의사지, 법률가가 아니오. 자기 분야나 지키시오, 의사 양반.
-DANIEL: Ibland handlar det om mer än juridik, herr Oxenstierna.
-= 가끔은 법 이상의 문제예요, 옥센셰르나 님.
+DANIEL: Ibland handlar det om mer än juridik, herr Oxenstierna. I natt på akuten kom en kvinna in med bröstsmärtor, och det var inte hjärtat. Det var stress, för att hon inte visste hur hon skulle betala hyran. Sånt står inte i något avtal.
+= 가끔은 법 이상의 문제예요, 옥센셰르나 님. 어젯밤 응급실에 한 여성이 가슴 통증으로 왔는데, 심장 문제가 아니었어요. 스트레스였어요. 월세를 어떻게 낼지 몰라서요. 그런 건 어떤 계약서에도 안 적혀 있죠.
 OXENSTIERNA: Inte illa.
 = 나쁘지 않군.
 ELSA: Var det där… en komplimang?
 = 방금 그거… 칭찬이었어요?
-BIGGAN: Från honom är det en komplimang, gumman.
-= 저 사람한테서 나오면 그게 칭찬이야, 얘야.
+BIGGAN: Från honom är det en komplimang, gumman. Mer än så har jag inte hört från honom på hela hösten.
+= 저 사람한테서 나오면 그게 칭찬이야, 얘야. 올가을 내내 저 사람한테서 그 이상은 못 들어 봤어.
 DANIEL: Leyla, hur sover du nuförtiden?
 = 레일라, 요즘 잠은 어떻게 자요?
 LEYLA: Dåligt. Jag räknar kronor i stället för får.
 = 잘 못 자요. 양 대신 크로나를 세요.
-DANIEL: Då är det min uppgift i morgon. Att du äter och sover.
-= 그럼 그게 내일 내 일이네요. 레일라가 먹고 자게 하는 거.
+DANIEL: Då är det min uppgift i morgon. Att du äter och sover, för ingen orkar slåss mot en hyresvärd när kroppen är helt slut.
+= 그럼 그게 내일 내 일이네요. 레일라가 먹고 자게 하는 거. 몸이 완전히 지쳐 있으면 아무도 집주인이랑 싸울 기운이 없거든요.
 ANTON: Alltså: papperen i morgon bitti, sen ses vi här.
 = 그러니까: 내일 아침 일찍 서류, 그다음 여기서 만나.
 JOHAN: Vilken tid?
@@ -229,36 +229,36 @@ MAJA: Klockan åtta. Antecknat.
 = 여덟 시. 적었어.
 ELSA: Och jag? Vad gör jag i morgon?
 = 그럼 저는요? 내일 뭐 해요?
-JOHAN: Du är med. Och du frågar när något är oklart.
-= 같이 해. 그리고 뭔가 불분명하면 물어봐.
+JOHAN: Du är med. Och du frågar när något är oklart, även om du tror att frågan är dum. Det är ofta just de frågorna som vi andra har glömt att ställa.
+= 같이 해. 그리고 뭔가 불분명하면 물어봐. 바보 같은 질문이라고 생각되더라도. 그런 질문이 바로 우리가 묻는 걸 잊어버린 질문인 경우가 많거든.
 ELSA: Det gör jag ju hela tiden ändå.
 = 그건 어차피 항상 하고 있어요.
 DANIEL: Just därför är du viktig här, Elsa.
 = 바로 그래서 네가 여기서 중요한 거야, 엘사.
 OXENSTIERNA: Och återigen inget ”herr doktor”.
 = 또 ‘의사 선생님’이라고 안 하는군.
-ELSA: Till honom säger jag du nu. Till er andra… jag övar fortfarande.
-= 저분한텐 이제 ‘두’라고 해요. 다른 분들은… 아직 연습 중이에요.
+ELSA: Till honom säger jag du nu. Till er andra… jag övar fortfarande, men jag lovar att det blir lite bättre för varje dag.
+= 저분한텐 이제 ‘두’라고 해요. 다른 분들은… 아직 연습 중이에요. 그래도 하루하루 조금씩 나아질 거라고 약속해요.
 
 # 마무리 — I MORGON KLOCKAN ÅTTA
-BIGGAN: Nog pratat. Nu blir det soppa för alla.
-= 이제 얘기 그만. 다 같이 수프 먹자.
-LEYLA: Jag borde verkligen gå hem.
-= 저 정말 집에 가야 해요.
+BIGGAN: Nog pratat. Nu blir det soppa för alla, och ingen går härifrån förrän tallriken är tom.
+= 이제 얘기 그만. 다 같이 수프 먹자. 그릇 비우기 전엔 아무도 못 가.
+LEYLA: Jag borde verkligen gå hem. Jag börjar tidigt i morgon.
+= 저 정말 집에 가야 해요. 내일 일찍 시작하거든요.
 BIGGAN: Först äter du. Med tom mage tänker man inte.
 = 먼저 먹어. 배고프면 생각도 안 돼.
 LEYLA: Okej då. Tio minuter.
 = 알았어요. 10분만.
-ANTON: Fyra metoder, en plan. Inte illa för en eftermiddag.
-= 방법 넷, 계획 하나. 오후 한나절치곤 나쁘지 않네.
+ANTON: Fyra metoder, en plan. Inte illa för en eftermiddag. Det här är faktiskt vår första riktiga win som team.
+= 방법 넷, 계획 하나. 오후 한나절치곤 나쁘지 않네. 이게 사실 팀으로서 우리의 첫 진짜 ‘윈’이야.
 MAJA: En plan som hänger på ett papper från en dörr.
 = 문 앞 종이 한 장에 매달린 계획이지.
 OXENSTIERNA: Vet du inte, min son, med hur lite förstånd världen styrs?
 = 아들아, 세상이 얼마나 적은 지혜로 다스려지는지 모르느냐?
 ELSA: Ursäkta, vem var det som sa så?
 = 실례지만, 그건 누가 한 말이에요?
-OXENSTIERNA: Jag. Till min son. För fyrahundra år sedan. Det stämmer fortfarande.
-= 나지. 내 아들에게. 400년 전에. 아직도 맞는 말이네.
+OXENSTIERNA: Jag. Till min son Johan, när han skulle resa till fredsförhandlingarna i Westfalen och var rädd att han inte var klok nog. Det var för fyrahundra år sedan. Det stämmer fortfarande.
+= 나지. 내 아들 요한에게. 그 애가 베스트팔렌 평화 협상에 가야 했는데, 자기가 충분히 현명하지 못할까 봐 두려워했을 때였지. 400년 전 일이네. 아직도 맞는 말이네.
 ELSA: I morgon klockan åtta. Avtal, frukost, plan.
 = 내일 여덟 시. 계약서, 아침, 계획.
 JOHAN: I morgon klockan åtta.
