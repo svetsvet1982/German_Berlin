@@ -21,127 +21,127 @@
 #note: 조심스러운 거절: Das kann ich so nicht machen. / Da bin ich nicht der Richtige / die Richtige. / Ich brauche Bedenkzeit. / Darauf möchte ich mich nicht festlegen.
 ## Ein Stand-up, das nicht endet | 끝나지 않는 아침 회의
 Jana: Guten Morgen, alle. Stand-up. Fünfzehn Minuten. Jeder sagt kurz: Was gestern, was heute, wo hängt es. Tarik? || 다들 좋은 아침. 아침 회의 시작할게. 십오 분. 각자 짧게 말해 줘. 어제 한 일, 오늘 할 일, 막힌 데. 타릭?
-Tarik: Gestern: Bugfix bei den Überweisungen. Heute: Tests. Es hängt an der Freigabe vom Security-Team. Die antworten seit Donnerstag nicht. || 어제는 송금 쪽 버그 수정. 오늘은 테스트. 보안팀 승인에서 막혀 있어. 목요일부터 답이 없어.
-Jana: Okay, ich schreibe denen. Svenja? || 알았어, 내가 그쪽에 메일 쓸게. 스베냐?
-Svenja: Gestern habe ich die neuen Screens fertig gemacht. Aber ich habe eine Frage zum Design. Die Farbe vom Button. Blau oder grün? || 어제 새 화면 디자인 마쳤어. 근데 디자인 관련해서 질문이 있어. 버튼 색깔. 파란색, 초록색?
-Tarik: Blau. Grün sieht aus wie eine Werbung für Biogemüse. || 파란색. 초록색은 유기농 채소 광고 같아.
-Svenja: Grün ist positiver. Studien zeigen, dass Leute bei grün eher klicken. || 초록색이 더 긍정적이야. 연구 결과를 보면 사람들은 초록색일 때 더 많이 눌러.
-Tarik: Welche Studien? Von wem? || 무슨 연구? 누가 했는데?
-Svenja: Ich schicke dir den Link. || 링크 보내 줄게.
-Tarik: Schick mir lieber gleich die ganze Studie. Nicht nur die Zusammenfassung. || 차라리 연구 전체를 보내 줘. 요약만 말고.
-Jana: Leute, das ist kein Thema fürs Stand-up. Lasst uns das offline klären. || 얘들아, 그건 아침 회의 주제가 아니야. 끝나고 따로 얘기하자.
-Svenja: Aber wir müssen es heute entscheiden. Die Deadline ist Mittwoch. || 그래도 오늘 정해야 해. 마감이 수요일이야.
+Tarik: Gestern: Bugfix bei den Überweisungen. Heute: Tests. Es hängt an der Freigabe vom Security-Team. Die antworten seit Donnerstag nicht. Ich habe schon drei Mal nachgefragt. || 어제는 송금 쪽 버그 수정. 오늘은 테스트. 보안팀 승인에서 막혀 있어. 목요일부터 답이 없어. 벌써 세 번이나 다시 물어봤는데.
+Jana: Okay, ich schreibe denen. Wenn sie bis morgen nicht antworten, rufe ich direkt an. Svenja? || 알았어, 내가 그쪽에 메일 쓸게. 내일까지 답 없으면 직접 전화할게. 스베냐?
+Svenja: Gestern habe ich die neuen Screens fertig gemacht. Aber ich habe eine Frage zum Design. Die Farbe vom Button. Blau oder grün? Ich kann mich einfach nicht entscheiden. || 어제 새 화면 디자인 마쳤어. 근데 디자인 관련해서 질문이 있어. 버튼 색깔. 파란색, 초록색? 도무지 결정을 못 하겠어.
+Tarik: Blau. Grün sieht aus wie eine Werbung für Biogemüse. Wir sind eine Bank-App, kein Hofladen. || 파란색. 초록색은 유기농 채소 광고 같아. 우린 은행 앱이지 농장 직판장이 아니잖아.
+Svenja: Grün ist positiver. Studien zeigen, dass Leute bei grün eher klicken. Und genau das wollen wir doch, oder? || 초록색이 더 긍정적이야. 연구 결과를 보면 사람들은 초록색일 때 더 많이 눌러. 그리고 우리가 원하는 게 바로 그거잖아, 안 그래?
+Tarik: Welche Studien? Von wem? Ich glaube nur, was ich selbst gelesen habe. || 무슨 연구? 누가 했는데? 난 내가 직접 읽은 것만 믿어.
+Svenja: Ich schicke dir den Link. Gleich nach dem Meeting, damit du endlich Ruhe gibst. || 링크 보내 줄게. 회의 끝나자마자. 그래야 네가 좀 조용해지지.
+Tarik: Schick mir lieber gleich die ganze Studie. Nicht nur die Zusammenfassung. In Zusammenfassungen steht immer nur das, was man hören will. || 차라리 연구 전체를 보내 줘. 요약만 말고. 요약에는 늘 듣고 싶은 말만 쓰여 있거든.
+Jana: Leute, das ist kein Thema fürs Stand-up. Lasst uns das offline klären. Sonst sitzen wir um elf immer noch hier. || 얘들아, 그건 아침 회의 주제가 아니야. 끝나고 따로 얘기하자. 안 그러면 열한 시에도 여기 앉아 있을 거야.
+Svenja: Aber wir müssen es heute entscheiden. Die Deadline ist Mittwoch. Und ohne Farbe kann ich die Screens nicht abgeben. || 그래도 오늘 정해야 해. 마감이 수요일이야. 그리고 색깔 없이는 화면을 넘길 수가 없어.
 Jana: Gut. Wer ist für blau? … Zwei. Für grün? … Drei. Und einer enthält sich. Dann grün. Sind alle einverstanden? || 좋아. 파란색 찬성? …두 명. 초록색? …세 명. 그리고 한 명 기권. 그럼 초록색. 다들 동의해?
-Tarik: Einverstanden. Aber ich möchte festhalten, dass ich dagegen war. || 동의해. 근데 나는 반대했다는 거 기록해 두고 싶어.
-Jana: Ist notiert. Wir müssen das aber noch mit dem Marketing abstimmen. Und mit Leon. || 기록했어. 근데 이건 마케팅팀이랑 레온이랑도 아직 조율해야 해.
-Svenja: Mit dem Marketing? Warum denn mit dem Marketing? Es ist doch nur ein Button. || 마케팅팀이랑? 왜 마케팅팀이랑? 그냥 버튼 하나잖아.
-Jana: Weil das Marketing letzte Woche gesagt hat, sie wollen bei allen Farben mitentscheiden. Alle Farben. || 마케팅팀이 지난주에 모든 색깔 결정에 같이 참여하고 싶다고 했거든. 모든 색깔.
-Tarik: Natürlich. Dann haben wir nächste Woche ein Meeting über das Meeting über den Button. || 그렇겠지. 그럼 다음 주엔 버튼에 관한 회의에 관한 회의를 하겠네.
+Tarik: Einverstanden. Aber ich möchte festhalten, dass ich dagegen war. Ich sehe das immer noch anders. || 동의해. 근데 나는 반대했다는 거 기록해 두고 싶어. 난 여전히 생각이 달라.
+Jana: Ist notiert. Wir müssen das aber noch mit dem Marketing abstimmen. Und mit Leon. Erst dann ist es wirklich entschieden. || 기록했어. 근데 이건 마케팅팀이랑 레온이랑도 아직 조율해야 해. 그래야 진짜로 결정된 거야.
+Svenja: Mit dem Marketing? Warum denn mit dem Marketing? Es ist doch nur ein Button. Ein kleiner, runder Button. || 마케팅팀이랑? 왜 마케팅팀이랑? 그냥 버튼 하나잖아. 조그맣고 동그란 버튼.
+Jana: Weil das Marketing letzte Woche gesagt hat, sie wollen bei allen Farben mitentscheiden. Alle Farben. Frag mich bitte nicht, warum. || 마케팅팀이 지난주에 모든 색깔 결정에 같이 참여하고 싶다고 했거든. 모든 색깔. 왜냐고는 제발 묻지 마.
+Tarik: Natürlich. Dann haben wir nächste Woche ein Meeting über das Meeting über den Button. Ich freue mich jetzt schon darauf. || 그렇겠지. 그럼 다음 주엔 버튼에 관한 회의에 관한 회의를 하겠네. 벌써부터 기대된다.
 Jana: Wahrscheinlich. So, die Zeit ist um. Fünfundvierzig Minuten. Für ein Fünfzehn-Minuten-Meeting. Letzte Woche waren es fünfzig. Das ist Fortschritt. || 아마도. 자, 시간 다 됐다. 사십오 분. 십오 분짜리 회의에. 지난주엔 오십 분이었으니까 이건 발전이네.
 ## Die Maschine im Kundenservice | 고객 상담의 기계
-Leon: Jana, hast du kurz? Bring Tarik und Svenja mit. Konferenzraum zwei. || 야나, 잠깐 시간 돼? 타릭이랑 스베냐도 데려와. 2번 회의실.
-Jana: Klar. Worum geht es? || 그럼요. 무슨 일이에요?
+Leon: Jana, hast du kurz? Bring Tarik und Svenja mit. Konferenzraum zwei. Es dauert nicht lange, versprochen. || 야나, 잠깐 시간 돼? 타릭이랑 스베냐도 데려와. 2번 회의실. 오래 안 걸려, 약속해.
+Jana: Klar. Worum geht es? Wenn es um den Button geht, haben wir schon abgestimmt. || 그럼요. 무슨 일이에요? 버튼 얘기라면 벌써 표결했어요.
 Leon: Um eine Idee aus dem Management. Ihr habt sicher schon gehört: Wir testen ein KI-Tool. Für den Kundenservice. || 경영진에서 나온 아이디어 때문에. 들었겠지만, 우리 AI 도구를 테스트해. 고객 상담용으로.
-Svenja: Ein Chatbot? Den haben wir doch schon. Den hasst jeder. || 챗봇이요? 그거 이미 있잖아요. 다들 그거 싫어해요.
+Svenja: Ein Chatbot? Den haben wir doch schon. Den hasst jeder. Die Kunden schreiben nach zwei Sätzen nur noch „Mensch, bitte!". || 챗봇이요? 그거 이미 있잖아요. 다들 그거 싫어해요. 고객들은 두 문장만 지나면 „사람 바꿔 주세요!"라고만 쓴다고요.
 Leon: Nicht so einer. Ein neues System. Es beantwortet E-Mails, es telefoniert, es versteht Dialekte. Sogar Sächsisch. || 그런 거 말고. 새 시스템이야. 이메일에 답하고, 전화도 받고, 사투리도 알아들어. 작센 사투리까지.
-Tarik: Sogar Sächsisch? Dann ist es klüger als ich. || 작센 사투리까지요? 그럼 나보다 똑똑하네.
-Leon: Das Management will, dass ihr die Integration macht. In der App. Bis September. || 경영진은 너희가 그걸 앱에 연동해 주길 원해. 9월까지.
-Jana: Und die Kolleginnen im Kundenservice? Was passiert mit ihnen? Das sind zwölf Leute. || 그럼 고객 상담팀 동료들은요? 그 사람들은 어떻게 돼요? 열두 명인데요.
-Leon: Das ist noch nicht entschieden. Vielleicht bekommen sie andere Aufgaben. || 그건 아직 결정 안 됐어. 다른 업무를 맡게 될 수도 있고.
-Svenja: Vielleicht. Oder vielleicht nicht. || 그럴 수도 있겠죠. 아니면 아닐 수도 있고요.
+Tarik: Sogar Sächsisch? Dann ist es klüger als ich. Ich verstehe Sächsisch nicht mal, wenn jemand ganz langsam spricht. || 작센 사투리까지요? 그럼 나보다 똑똑하네. 나는 누가 아주 천천히 말해도 작센 사투리를 못 알아듣는데.
+Leon: Das Management will, dass ihr die Integration macht. In der App. Bis September. Ich weiß, dass das ambitioniert ist. || 경영진은 너희가 그걸 앱에 연동해 주길 원해. 9월까지. 빠듯하다는 건 알아.
+Jana: Und die Kolleginnen im Kundenservice? Was passiert mit ihnen? Das sind zwölf Leute. Mit denen essen wir jeden Tag zu Mittag. || 그럼 고객 상담팀 동료들은요? 그 사람들은 어떻게 돼요? 열두 명인데요. 매일 같이 점심 먹는 사람들이에요.
+Leon: Das ist noch nicht entschieden. Vielleicht bekommen sie andere Aufgaben. Es gibt in der Firma genug zu tun. || 그건 아직 결정 안 됐어. 다른 업무를 맡게 될 수도 있고. 회사에 할 일은 충분히 많아.
+Svenja: Vielleicht. Oder vielleicht nicht. Das Wort „vielleicht" höre ich in letzter Zeit ziemlich oft. || 그럴 수도 있겠죠. 아니면 아닐 수도 있고요. 요즘 „그럴 수도"라는 말을 꽤 자주 듣네요.
 Leon: Svenja, ich verstehe deine Sorge. Aber ich bin der Meinung, dass KI die Arbeit leichter macht. Nicht überflüssig. || 스베냐, 걱정하는 건 이해해. 그래도 내 생각엔 AI는 일을 쉽게 만들지, 필요 없게 만드는 게 아니야.
 Tarik: Da muss ich widersprechen. Bei meiner letzten Firma haben sie genau das gesagt. Und sechs Monate später gab es den Kundenservice nicht mehr. || 그건 반대예요. 제 전 직장에서도 딱 그렇게 말했어요. 그리고 여섯 달 뒤에 고객 상담팀이 사라졌죠.
-Leon: Das war eine andere Firma. || 그건 다른 회사였잖아.
-Tarik: Mit den gleichen Folien. Wörtlich. „KI macht die Arbeit leichter." Ich habe die Präsentation noch. || 똑같은 슬라이드로요. 글자 그대로요. „AI는 일을 쉽게 만든다." 그 발표 자료 아직 갖고 있어요.
+Leon: Das war eine andere Firma. Man kann das nicht einfach vergleichen, Tarik. || 그건 다른 회사였잖아. 그걸 그냥 비교할 순 없어, 타릭.
+Tarik: Lass mich bitte ausreden. Mit den gleichen Folien. Wörtlich. „KI macht die Arbeit leichter." Ich habe die Präsentation noch. || 끝까지 말하게 해 주세요. 똑같은 슬라이드로요. 글자 그대로요. „AI는 일을 쉽게 만든다." 그 발표 자료 아직 갖고 있어요.
 Jana: Leon, ich finde, wir sollten zuerst mit dem Kundenservice sprechen. Bevor wir etwas bauen. Sie kennen die Kunden. Wir nicht. || 레온, 제 생각엔 뭘 만들기 전에 고객 상담팀이랑 먼저 얘기해야 할 것 같아요. 그 사람들이 고객을 알아요. 우리는 모르고요.
-Leon: Das ist ein guter Punkt. Aber das Management will schnell sein. Die Investoren warten auf Zahlen. || 좋은 지적이야. 근데 경영진은 빨리 하고 싶어 해. 투자자들이 숫자를 기다리고 있거든.
+Leon: Das ist ein guter Punkt. Aber das Management will schnell sein. Die Investoren warten auf Zahlen. Und Investoren sind nicht besonders geduldig. || 좋은 지적이야. 근데 경영진은 빨리 하고 싶어 해. 투자자들이 숫자를 기다리고 있거든. 그리고 투자자들은 별로 참을성이 없어.
 Jana: Dann sage ich es so: Wir machen die Integration. Aber nur, wenn der Kundenservice von Anfang an dabei ist. Können wir uns darauf einigen? || 그럼 이렇게 말할게요. 연동은 할게요. 단, 고객 상담팀이 처음부터 같이 참여할 때만요. 거기에 합의할 수 있을까요?
-Leon: … Ich nehme das mit nach oben. Ich kann nichts versprechen. || …위에 전달할게. 약속은 못 해.
-Svenja: „Ich nehme das mit nach oben." Das heißt in der Firma: nein. || „위에 전달할게." 회사에서 그건 안 된다는 뜻이에요.
-Leon: Das heißt: Ich nehme das mit nach oben. Mehr nicht. Danke, Leute. || 그건 위에 전달하겠다는 뜻이야. 그 이상도 이하도 아니고. 고마워, 다들.
+Leon: … Ich nehme das mit nach oben. Ich kann nichts versprechen. Aber ich werde es zumindest versuchen. || …위에 전달할게. 약속은 못 해. 그래도 최소한 노력은 해 볼게.
+Svenja: „Ich nehme das mit nach oben." Das heißt in der Firma: nein. Das weiß inzwischen jeder Praktikant. || „위에 전달할게." 회사에서 그건 안 된다는 뜻이에요. 이젠 인턴들도 다 알아요.
+Leon: Das heißt: Ich nehme das mit nach oben. Mehr nicht. Danke, Leute. Und bitte erzählt das noch nicht im ganzen Büro herum. || 그건 위에 전달하겠다는 뜻이야. 그 이상도 이하도 아니고. 고마워, 다들. 그리고 아직은 사무실 전체에 소문내지 말아 줘.
 ## Mittagspause am Kanal | 운하에서의 점심시간
-Tarik: Jana, darf ich dir was sagen? Unter uns? || 야나, 하나 얘기해도 돼? 우리끼리만?
-Jana: Klar. Was ist? || 그럼. 뭔데?
+Tarik: Jana, darf ich dir was sagen? Unter uns? Hier am Kanal hört uns wenigstens niemand. || 야나, 하나 얘기해도 돼? 우리끼리만? 여기 운하에선 적어도 아무도 안 듣잖아.
+Jana: Klar. Was ist? Du siehst schon den ganzen Morgen so besorgt aus. || 그럼. 뭔데? 너 아침 내내 걱정스러운 얼굴이더라.
 Tarik: Ich habe gehört, dass es eine Restrukturierung gibt. Nicht nur im Kundenservice. Überall. Fünfzehn Prozent. || 구조조정이 있다고 들었어. 고객 상담팀만이 아니라 전부 다. 15퍼센트래.
-Jana: Fünfzehn Prozent? Woher hast du das? || 15퍼센트? 그거 어디서 들었어?
-Tarik: Von jemandem aus der Buchhaltung. Sie hat eine Tabelle gesehen. Mit Namen. || 회계팀 누구한테서. 표를 봤대. 이름이 적힌 표.
-Svenja: Mit Namen? Stehe ich da drauf? Ich habe einen befristeten Vertrag. Bis Dezember. || 이름이 적힌 거? 거기 나도 있어? 나 기간제 계약이야. 12월까지.
-Tarik: Das weiß sie nicht. Sie hat nur kurz draufgeguckt. || 그건 모른대. 잠깐 쳐다보기만 했대.
-Jana: Leute, das ist ein Gerücht. Wir wissen nichts Sicheres. || 얘들아, 그건 소문이야. 확실한 건 하나도 몰라.
-Tarik: Genau deshalb. Deshalb habe ich eine Idee. Wir gründen einen Betriebsrat. || 바로 그래서야. 그래서 나한테 생각이 있어. 우리 노사협의회를 만들자.
-Svenja: Einen Betriebsrat? Bei einem Start-up? Das macht doch niemand. || 노사협의회? 스타트업에서? 그런 거 아무도 안 하잖아.
+Jana: Fünfzehn Prozent? Woher hast du das? Das sind ja über zwanzig Leute. || 15퍼센트? 그거 어디서 들었어? 그럼 스무 명이 넘잖아.
+Tarik: Von jemandem aus der Buchhaltung. Sie hat eine Tabelle gesehen. Mit Namen. Sie war ziemlich erschrocken, als sie es mir erzählt hat. || 회계팀 누구한테서. 표를 봤대. 이름이 적힌 표. 나한테 얘기할 때 꽤 놀란 얼굴이었어.
+Svenja: Mit Namen? Stehe ich da drauf? Ich habe einen befristeten Vertrag. Bis Dezember. Befristete sind doch immer die Ersten. || 이름이 적힌 거? 거기 나도 있어? 나 기간제 계약이야. 12월까지. 기간제가 항상 제일 먼저잖아.
+Tarik: Das weiß sie nicht. Sie hat nur kurz draufgeguckt. Dann kam jemand rein, und sie hat das Fenster schnell zugemacht. || 그건 모른대. 잠깐 쳐다보기만 했대. 그러다 누가 들어와서 창을 얼른 닫았대.
+Jana: Leute, das ist ein Gerücht. Wir wissen nichts Sicheres. Bevor wir in Panik geraten, sollten wir abwarten. || 얘들아, 그건 소문이야. 확실한 건 하나도 몰라. 겁먹기 전에 일단 기다려 봐야 해.
+Tarik: Genau deshalb. Deshalb habe ich eine Idee. Wir gründen einen Betriebsrat. Bevor es zu spät ist. || 바로 그래서야. 그래서 나한테 생각이 있어. 우리 노사협의회를 만들자. 너무 늦기 전에.
+Svenja: Einen Betriebsrat? Bei einem Start-up? Das macht doch niemand. Ich dachte, so etwas gibt es nur in großen Fabriken. || 노사협의회? 스타트업에서? 그런 거 아무도 안 하잖아. 그런 건 큰 공장에만 있는 줄 알았어.
 Tarik: Doch. Immer mehr. Bei den Lieferdiensten, bei den Banken-Apps. Wir haben hundertvierzig Leute. Das Gesetz sagt: ab fünf Mitarbeitern darf man einen Betriebsrat wählen. || 아니야. 점점 많아지고 있어. 배달 회사들, 은행 앱 회사들. 우리 회사는 직원이 백사십 명이야. 법에 따르면 직원 다섯 명부터 노사협의회를 뽑을 수 있어.
-Jana: Und was würde der Betriebsrat ändern? Ganz konkret? || 그럼 노사협의회가 구체적으로 뭘 바꿀 수 있는데?
+Jana: Und was würde der Betriebsrat ändern? Ganz konkret? Ich will keine schönen Worte hören, sondern Fakten. || 그럼 노사협의회가 구체적으로 뭘 바꿀 수 있는데? 좋은 말 말고 사실을 듣고 싶어.
 Tarik: Bei Kündigungen muss die Firma ihn fragen. Bei neuen Tools, die uns überwachen können, auch. Er kann einen Sozialplan verhandeln. Wenn es Entlassungen gibt. || 해고할 때 회사가 노사협의회한테 물어봐야 해. 우리를 감시할 수 있는 새 도구를 도입할 때도. 그리고 정리 해고가 있으면 사회 계획(보상안)을 협상할 수 있어.
-Svenja: Und wer organisiert das? Wer traut sich? Die Firma wird sauer sein. || 그럼 그건 누가 조직해? 누가 나서? 회사가 화낼 텐데.
-Tarik: Ich. Und wer die Wahl vorbereitet, hat einen besonderen Kündigungsschutz. Das ist Gesetz. || 내가. 그리고 선거를 준비하는 사람은 특별 해고 보호를 받아. 법으로.
-Jana: Tarik, ich bin Teamleiterin. Ich sitze zwischen euch und Leon. Wenn ich mitmache, ist das … schwierig. || 타릭, 나는 팀장이야. 너희랑 레온 사이에 끼어 있다고. 내가 같이 하면 그건… 어려워.
-Tarik: Teamleiter dürfen auch wählen. Du bist keine leitende Angestellte. Du bist eine von uns. || 팀장도 투표할 수 있어. 너는 임원급이 아니야. 우리 중 한 명이라고.
-Jana: Ich weiß nicht, ob ich eine von euch bin. Ich weiß gerade gar nicht, wo ich bin. || 내가 너희 중 한 명인지 모르겠어. 지금은 내가 어디에 있는지조차 모르겠어.
-Svenja: Jana, du bist die Einzige hier, die uns fragt, bevor sie entscheidet. Das ist dein Platz. || 야나, 여기서 결정하기 전에 우리한테 물어보는 사람은 너뿐이야. 그게 네 자리야.
-Jana: Danke, Svenja. Ich brauche Bedenkzeit. Gebt mir eine Woche. || 고마워, 스베냐. 생각할 시간이 필요해. 일주일만 줘.
-Tarik: Eine Woche. Okay. Aber die Tabelle mit den Namen wartet nicht. || 일주일. 좋아. 근데 이름 적힌 표는 기다려 주지 않아.
+Svenja: Und wer organisiert das? Wer traut sich? Die Firma wird sauer sein. Ich könnte mir das mit meinem Vertrag gar nicht leisten. || 그럼 그건 누가 조직해? 누가 나서? 회사가 화낼 텐데. 나는 내 계약 조건으론 그런 건 엄두도 못 내.
+Tarik: Ich. Und wer die Wahl vorbereitet, hat einen besonderen Kündigungsschutz. Das ist Gesetz. Deshalb mache ich den ersten Schritt. || 내가. 그리고 선거를 준비하는 사람은 특별 해고 보호를 받아. 법으로. 그래서 내가 첫걸음을 떼는 거야.
+Jana: Tarik, ich bin Teamleiterin. Ich sitze zwischen euch und Leon. Wenn ich mitmache, ist das … schwierig. Das musst du verstehen. || 타릭, 나는 팀장이야. 너희랑 레온 사이에 끼어 있다고. 내가 같이 하면 그건… 어려워. 그건 이해해 줘야 해.
+Tarik: Teamleiter dürfen auch wählen. Du bist keine leitende Angestellte. Du bist eine von uns. Ob du willst oder nicht. || 팀장도 투표할 수 있어. 너는 임원급이 아니야. 우리 중 한 명이라고. 네가 원하든 원하지 않든.
+Jana: Ich weiß nicht, ob ich eine von euch bin. Ich weiß gerade gar nicht, wo ich bin. Manchmal fühle ich mich wie zwischen zwei Stühlen. || 내가 너희 중 한 명인지 모르겠어. 지금은 내가 어디에 있는지조차 모르겠어. 가끔은 두 의자 사이에 끼어 있는 기분이야.
+Svenja: Jana, du bist die Einzige hier, die uns fragt, bevor sie entscheidet. Das ist dein Platz. Bei uns, nicht oben. || 야나, 여기서 결정하기 전에 우리한테 물어보는 사람은 너뿐이야. 그게 네 자리야. 위가 아니라 우리 곁.
+Jana: Danke, Svenja. Ich brauche Bedenkzeit. Gebt mir eine Woche. Ich will nichts entscheiden, was ich später bereue. || 고마워, 스베냐. 생각할 시간이 필요해. 일주일만 줘. 나중에 후회할 결정은 하고 싶지 않아.
+Tarik: Eine Woche. Okay. Aber die Tabelle mit den Namen wartet nicht. Das solltest du nicht vergessen. || 일주일. 좋아. 근데 이름 적힌 표는 기다려 주지 않아. 그건 잊지 마.
 ## Fünf Uhr, Konferenzraum zwei | 다섯 시, 2번 회의실
-Leon: Jana, setz dich. Das bleibt unter uns, ja? || 야나, 앉아. 이건 우리끼리 얘기야, 알겠지?
-Jana: Kommt drauf an, was es ist. || 무슨 얘기냐에 따라 다르죠.
+Leon: Jana, setz dich. Das bleibt unter uns, ja? Ich muss mich darauf verlassen können. || 야나, 앉아. 이건 우리끼리 얘기야, 알겠지? 그걸 믿을 수 있어야 해.
+Jana: Kommt drauf an, was es ist. Versprechen kann ich erst, wenn ich weiß, worum es geht. || 무슨 얘기냐에 따라 다르죠. 무슨 일인지 알아야 약속을 할 수 있어요.
 Leon: Ehrlich, Jana. Das Management plant eine Umstrukturierung. Bis Ende des Jahres. Ich darf noch keine Details sagen. || 솔직히 말할게, 야나. 경영진이 구조조정을 계획 중이야. 연말까지. 아직 자세한 건 말 못 해.
-Jana: Also stimmt das Gerücht. Fünfzehn Prozent. || 그럼 소문이 맞네요. 15퍼센트.
-Leon: Woher … Okay. Ungefähr. Und jedes Team muss einen Beitrag leisten. Auch deins. || 어디서… 그래. 대략 그래. 그리고 모든 팀이 기여해야 해. 네 팀도.
-Jana: Einen Beitrag. Was heißt das genau? || 기여요. 그게 정확히 무슨 뜻이에요?
+Jana: Also stimmt das Gerücht. Fünfzehn Prozent. Das hat sich heute Mittag schon ziemlich herumgesprochen. || 그럼 소문이 맞네요. 15퍼센트. 오늘 점심때 벌써 꽤 퍼졌어요.
+Leon: Woher … Okay. Ungefähr. Und jedes Team muss einen Beitrag leisten. Auch deins. Da gibt es leider keine Ausnahmen. || 어디서… 그래. 대략 그래. 그리고 모든 팀이 기여해야 해. 네 팀도. 안타깝지만 예외는 없어.
+Jana: Einen Beitrag. Was heißt das genau? Bitte sag es mir direkt, ohne Umwege. || 기여요. 그게 정확히 무슨 뜻이에요? 돌려 말하지 말고 바로 말해 줘요.
 Leon: Ich brauche von dir bis Freitag zwei Namen. Aus deinem Team. Leute, die man … woanders einsetzen kann. Oder nicht verlängert. || 금요일까지 네 팀에서 이름 두 개가 필요해. 다른 곳에… 배치할 수 있는 사람. 아니면 계약을 연장하지 않을 사람.
-Jana: Du willst, dass ich zwei Leute aussuche? Die gehen müssen? || 저보고 두 사람을 고르라는 거예요? 나가야 할 사람을요?
-Leon: Ich will, dass du eine Empfehlung gibst. Du kennst dein Team am besten. || 추천을 해 달라는 거야. 네 팀은 네가 제일 잘 알잖아.
-Jana: Genau deshalb kann ich das nicht. Leon, das kann ich so nicht machen. || 바로 그래서 못 해요. 레온, 그건 이렇게는 못 해요.
+Jana: Du willst, dass ich zwei Leute aussuche? Die gehen müssen? Leute, mit denen ich jeden Tag zusammenarbeite? || 저보고 두 사람을 고르라는 거예요? 나가야 할 사람을요? 매일 같이 일하는 사람들 중에서요?
+Leon: Ich will, dass du eine Empfehlung gibst. Du kennst dein Team am besten. Deshalb frage ich dich und niemand anderen. || 추천을 해 달라는 거야. 네 팀은 네가 제일 잘 알잖아. 그래서 다른 사람 말고 너한테 묻는 거야.
+Jana: Genau deshalb kann ich das nicht. Leon, das kann ich so nicht machen. Das finde ich nicht gut, und das weißt du auch. || 바로 그래서 못 해요. 레온, 그건 이렇게는 못 해요. 그건 좋지 않다고 생각해요, 그리고 당신도 알잖아요.
 Leon: Jana, wenn du es nicht machst, macht es jemand anders. Jemand, der dein Team nicht kennt. Ist das besser? || 야나, 네가 안 하면 다른 누군가가 하게 돼. 네 팀을 모르는 사람이. 그게 더 나아?
-Jana: Das ist unfair. Du gibst mir die Wahl zwischen schlecht und schlechter. || 그건 불공평해요. 저한테 나쁜 것과 더 나쁜 것 중에 고르라는 거잖아요.
-Leon: Willkommen im Management. So fühle ich mich seit drei Monaten. || 관리자 세계에 온 걸 환영해. 나는 석 달째 그렇게 느끼고 있어.
-Jana: Und wenn ich Nein sage? || 제가 싫다고 하면요?
+Jana: Das ist unfair. Du gibst mir die Wahl zwischen schlecht und schlechter. So eine Wahl ist eigentlich gar keine Wahl. || 그건 불공평해요. 저한테 나쁜 것과 더 나쁜 것 중에 고르라는 거잖아요. 그런 선택은 사실 선택도 아니에요.
+Leon: Willkommen im Management. So fühle ich mich seit drei Monaten. Glaub mir, ich schlafe auch nicht besonders gut. || 관리자 세계에 온 걸 환영해. 나는 석 달째 그렇게 느끼고 있어. 내 말 믿어, 나도 잠을 잘 못 자.
+Jana: Und wenn ich Nein sage? Was passiert dann mit mir und meinem Team? || 제가 싫다고 하면요? 그럼 저랑 우리 팀은 어떻게 되는데요?
 Leon: Dann sage ich oben, dass du Bedenken hast. Aber das ist nicht gut für deine Zukunft hier. Das weißt du. || 그럼 위에다 네가 우려를 표했다고 전하겠지. 하지만 그건 여기서 네 앞날에 좋지 않아. 너도 알잖아.
-Jana: Darauf möchte ich mich heute nicht festlegen. Ich brauche Zeit. || 오늘은 그 문제에 대해 확답하지 않을게요. 시간이 필요해요.
-Leon: Bis Freitag, Jana. Bitte. Und kein Wort zu Tarik. || 금요일까지야, 야나. 부탁해. 그리고 타릭한텐 한마디도 하지 마.
-Jana: Warum gerade zu Tarik? || 왜 하필 타릭한테요?
+Jana: Darauf möchte ich mich heute nicht festlegen. Ich brauche Zeit. So eine Entscheidung treffe ich nicht zwischen zwei Meetings. || 오늘은 그 문제에 대해 확답하지 않을게요. 시간이 필요해요. 이런 결정을 회의와 회의 사이에 할 순 없어요.
+Leon: Bis Freitag, Jana. Bitte. Und kein Wort zu Tarik. Das ist mir wirklich wichtig. || 금요일까지야, 야나. 부탁해. 그리고 타릭한텐 한마디도 하지 마. 그건 나한테 정말 중요해.
+Jana: Warum gerade zu Tarik? Er ist einer meiner besten Entwickler. || 왜 하필 타릭한테요? 우리 팀 최고의 개발자 중 한 명인데요.
 Leon: Weil Tarik gerade einen Betriebsrat gründen will. Das weiß das Management schon. Hier wissen die Wände alles, Jana. || 타릭이 지금 노사협의회를 만들려고 하니까. 경영진은 벌써 알고 있어. 여기선 벽에도 귀가 있어, 야나.
 ## Abends in der Ecke | 저녁, 크나이페에서
-Kalle: Jana? Um zehn Uhr abends? Mit Laptop? Was ist los? || 야나? 밤 열 시에? 노트북 들고? 무슨 일이야?
-Jana: Kann ich ein Bier haben, Papa? Ein richtiges. Keine Fassbrause. || 맥주 한 잔 줄 수 있어, 아빠? 진짜 맥주로. 파스브라우제 말고.
-Kalle: Ein Pils für meine Tochter. Det muss ja schlimm sein. || 우리 딸한테 필스 한 잔. 상황이 꽤 안 좋은가 보네.
-Jana: Mein Chef will, dass ich zwei Leute aus meinem Team aussuche. Die gehen sollen. Bis Freitag. || 상사가 우리 팀에서 나갈 사람 두 명을 고르래. 금요일까지.
-Kalle: Wat? Du sollst die Leute rauswerfen? || 뭐? 너보고 사람들을 내보내라고?
-Jana: Nicht rauswerfen. „Eine Empfehlung geben." So nennen sie das. || 내보내는 게 아니라 „추천을 하는" 거래. 그렇게 부르더라.
-Kalle: Det is dasselbe in einem schöneren Anzug. || 그건 더 예쁜 양복을 입은 같은 놈이지.
+Kalle: Jana? Um zehn Uhr abends? Mit Laptop? Was ist los? So siehst du sonst nur bei Steuererklärungen aus. || 야나? 밤 열 시에? 노트북 들고? 무슨 일이야? 너 그런 얼굴은 세금 신고할 때나 하잖아.
+Jana: Kann ich ein Bier haben, Papa? Ein richtiges. Keine Fassbrause. Heute brauche ich wirklich eins. || 맥주 한 잔 줄 수 있어, 아빠? 진짜 맥주로. 파스브라우제 말고. 오늘은 정말 한 잔 필요해.
+Kalle: Ein Pils für meine Tochter. Det muss ja schlimm sein. Setz dich, ick bring's dir gleich an den Tisch. || 우리 딸한테 필스 한 잔. 상황이 꽤 안 좋은가 보네. 앉아, 바로 테이블로 갖다줄게.
+Jana: Mein Chef will, dass ich zwei Leute aus meinem Team aussuche. Die gehen sollen. Bis Freitag. Ich habe den ganzen Nachmittag an nichts anderes gedacht. || 상사가 우리 팀에서 나갈 사람 두 명을 고르래. 금요일까지. 오후 내내 그 생각만 했어.
+Kalle: Wat? Du sollst die Leute rauswerfen? Det kann der doch nich von dir verlangen! || 뭐? 너보고 사람들을 내보내라고? 그걸 어떻게 너한테 시켜!
+Jana: Nicht rauswerfen. „Eine Empfehlung geben." So nennen sie das. Klingt viel netter, oder? || 내보내는 게 아니라 „추천을 하는" 거래. 그렇게 부르더라. 훨씬 듣기 좋지?
+Kalle: Det is dasselbe in einem schöneren Anzug. Da kannste so viel Krawatte dranbinden, wie de willst. || 그건 더 예쁜 양복을 입은 같은 놈이지. 넥타이를 아무리 매 줘도 마찬가지야.
 Jana: Ja. Und ein Kollege will einen Betriebsrat gründen. Er hat mich gefragt, ob ich mitmache. Und mein Chef weiß es schon. || 맞아. 그리고 동료 하나가 노사협의회를 만들고 싶어 해. 나한테 같이 하자고 했고. 근데 상사가 벌써 그걸 알아.
 Kalle: Ein Betriebsrat. Weißt du, wat dein Opa war? Bei der BVG? Vierzig Jahre? || 노사협의회라. 네 할아버지가 뭐였는지 알아? BVG에서? 사십 년 동안?
-Jana: Busfahrer. Das weiß ich. || 버스 기사. 알지.
+Jana: Busfahrer. Das weiß ich. Das weiß doch jeder in der Familie. || 버스 기사. 알지. 그건 우리 집안 사람이면 다 알아.
 Kalle: Busfahrer und Betriebsrat. Zwanzig Jahre lang. Er hat gesagt: Allein bist du ein Fahrgast. Zusammen bist du der Fahrer. || 버스 기사이자 노사협의회 위원. 이십 년 동안. 그분이 그러셨어. 혼자면 승객이지만, 함께면 운전사다.
-Jana: Das hast du mir nie erzählt. || 그건 한 번도 얘기 안 해 줬잖아.
-Kalle: Du hast nie gefragt. Du hattest immer einen Laptop vor der Nase. || 네가 안 물어봤잖아. 늘 코앞에 노트북을 달고 다녔으니까.
-Jana: Papa … Kannte Opa Frau Krüger? Sie ist ja auch Bus gefahren. Bei der BVG. || 아빠… 할아버지가 크뤼거 부인을 아셨어? 그분도 BVG에서 버스 운전하셨잖아.
+Jana: Das hast du mir nie erzählt. Warum eigentlich nicht? Das hätte ich gern früher gewusst. || 그건 한 번도 얘기 안 해 줬잖아. 근데 왜 안 했어? 더 일찍 알았으면 좋았을 텐데.
+Kalle: Du hast nie gefragt. Du hattest immer einen Laptop vor der Nase. Wann hätte ick dir da wat erzählen sollen? || 네가 안 물어봤잖아. 늘 코앞에 노트북을 달고 다녔으니까. 내가 언제 얘기할 틈이 있었겠어?
+Jana: Papa … Kannte Opa Frau Krüger? Sie ist ja auch Bus gefahren. Bei der BVG. Vielleicht sind sie sich mal begegnet. || 아빠… 할아버지가 크뤼거 부인을 아셨어? 그분도 BVG에서 버스 운전하셨잖아. 어쩌면 서로 만난 적이 있을지도 모르고.
 Kalle: Sie waren auf demselben Betriebshof. In Britz. Er hat sie bei der Wahl unterstützt. Sie war die erste Frau im Betriebsrat auf ihrem Hof. || 같은 차고지에 있었지. 브리츠에서. 할아버지가 선거 때 그분을 지지하셨고. 그분이 그 차고지 노사협의회의 첫 여성 위원이었어.
-Jana: Frau Krüger war im Betriebsrat? || 크뤼거 부인이 노사협의회 위원이었다고?
+Jana: Frau Krüger war im Betriebsrat? Das hätte ich ihr ehrlich gesagt nie zugetraut. Sie wirkt immer so ruhig. || 크뤼거 부인이 노사협의회 위원이었다고? 솔직히 그분이 그랬을 줄은 전혀 몰랐어. 늘 그렇게 차분해 보이시는데.
 Kalle: Frag sie selbst. Morgen um zwölf. Sie kommt immer pünktlich. Und jetzt mach den Laptop zu. Bitte. || 직접 물어봐. 내일 열두 시에. 그분은 늘 시간 맞춰 오시잖아. 그리고 이제 노트북 좀 덮어. 제발.
-Jana: Ich muss noch eine E-Mail an das Security-Team schreiben. Wegen Tariks Freigabe. || 보안팀에 메일 하나만 더 써야 해. 타릭 승인 건 때문에.
-Kalle: Eine E-Mail. Dann klappst du zu. || 메일 하나. 그다음엔 덮는 거다.
+Jana: Ich muss noch eine E-Mail an das Security-Team schreiben. Wegen Tariks Freigabe. Das habe ich ihm heute Morgen versprochen. || 보안팀에 메일 하나만 더 써야 해. 타릭 승인 건 때문에. 오늘 아침에 약속했거든.
+Kalle: Eine E-Mail. Dann klappst du zu. Ick steh hier und zähl mit, det sag ick dir. || 메일 하나. 그다음엔 덮는 거다. 내가 여기 서서 지켜볼 거야, 분명히 말해 둔다.
 Jana: Eine E-Mail. Versprochen. … Papa? Danke für das Bier. Und für Opa. || 메일 하나. 약속해. …아빠? 맥주 고마워. 그리고 할아버지 얘기도.
 ## Dienstag, zwölf Uhr | 화요일, 열두 시
-Edith: Mahlzeit, Jana! Du bist ja schon hier. Am Dienstag. Arbeitest du nicht? || 점심 맛있게 먹어, 야나! 벌써 와 있네. 화요일인데. 일 안 하니?
+Edith: Mahlzeit, Jana! Du bist ja schon hier. Am Dienstag. Arbeitest du nicht? Sonst sehe ich dich unter der Woche nie so früh. || 점심 맛있게 먹어, 야나! 벌써 와 있네. 화요일인데. 일 안 하니? 평일엔 이렇게 일찍 보는 일이 없는데.
 Jana: Homeoffice. Und ich habe eine Frage an Sie, Frau Krüger. Papa sagt, Sie waren im Betriebsrat. Bei der BVG. || 재택근무예요. 그리고 크뤼거 부인께 여쭤볼 게 있어요. 아빠 말로는 BVG에서 노사협의회 위원이셨다면서요.
 Edith: Hat er das erzählt? Ja. Neunzehnhundertzweiundachtzig bis neunzehnhundertneunzig. Betriebshof Britz. Mit deinem Großvater. || 아빠가 그 얘길 했어? 그래. 1982년부터 1990년까지. 브리츠 차고지에서. 네 할아버지랑 같이.
-Jana: Wie war das? Als einzige Frau? || 어떠셨어요? 유일한 여자로서요?
-Edith: Am Anfang haben die Männer gelacht. Eine Busfahrerin im Betriebsrat. Dann habe ich das Klo erkämpft. || 처음엔 남자들이 웃었지. 버스 기사 여자가 노사협의회에 들어왔다고. 그다음엔 내가 화장실을 쟁취했어.
-Jana: Das Klo? || 화장실이요?
+Jana: Wie war das? Als einzige Frau? Ich stelle mir das ziemlich schwer vor. || 어떠셨어요? 유일한 여자로서요? 꽤 힘드셨을 것 같아요.
+Edith: Am Anfang haben die Männer gelacht. Eine Busfahrerin im Betriebsrat. Dann habe ich das Klo erkämpft. Danach hat keiner mehr gelacht. || 처음엔 남자들이 웃었지. 버스 기사 여자가 노사협의회에 들어왔다고. 그다음엔 내가 화장실을 쟁취했어. 그 뒤로는 아무도 안 웃었지.
+Jana: Das Klo? Sie meinen eine richtige Toilette? || 화장실이요? 진짜 화장실 말씀이세요?
 Edith: Es gab auf dem ganzen Hof keine Damentoilette. Wir waren elf Fahrerinnen. Wir mussten in die Kneipe gegenüber gehen. In der Pause. || 차고지 전체에 여자 화장실이 하나도 없었어. 여자 기사가 열한 명이었는데. 쉬는 시간에 맞은편 술집까지 가야 했지.
-Kalle: Und die Kneipe hat sich gefreut. Elf Kaffee am Tag. || 그리고 그 술집은 좋아했겠네요. 하루에 커피 열한 잔.
+Kalle: Und die Kneipe hat sich gefreut. Elf Kaffee am Tag. Det wär 'n Geschäft für mich gewesen. || 그리고 그 술집은 좋아했겠네요. 하루에 커피 열한 잔. 나한테도 꽤 괜찮은 장사였을 텐데.
 Edith: Der Wirt hat sich gefreut. Wir nicht. Nach einem Jahr hatten wir eine Toilette. Mit Spiegel. Mein größter Sieg. || 주인은 좋아했지. 우리는 아니었고. 일 년 뒤에 화장실이 생겼어. 거울까지 달린. 내 최대의 승리였지.
-Jana: Und was haben Sie noch gemacht? || 또 뭘 하셨어요?
+Jana: Und was haben Sie noch gemacht? Bestimmt nicht nur Toiletten erkämpft. || 또 뭘 하셨어요? 분명 화장실만 쟁취하신 건 아니겠죠.
 Edith: Die Schichtpläne. Früher hat der Chef sie allein gemacht. Wer ihm nicht gefallen hat, bekam die Nachtschicht. Jedes Wochenende. Mit dem Betriebsrat musste er uns fragen. Dann war es gerechter. || 근무표. 예전엔 반장이 혼자 짰어. 반장 마음에 안 드는 사람은 주말마다 야간 근무를 받았고. 노사협의회가 생기니까 우리한테 물어봐야 했지. 그러니까 더 공평해졌어.
 Jana: Mein Chef will, dass ich zwei Namen aus meinem Team nenne. Für Entlassungen. Und ein Kollege will einen Betriebsrat gründen. Was würden Sie tun? || 제 상사가 우리 팀에서 두 사람 이름을 대래요. 정리 해고용으로요. 그리고 동료 하나는 노사협의회를 만들고 싶어 하고요. 부인이라면 어떻게 하시겠어요?
-Edith: Ich würde keine Namen nennen. Nie. Wer einmal Namen nennt, ist danach nicht mehr frei. || 나라면 이름 안 대. 절대. 한 번 이름을 대면 그다음엔 더는 자유롭지 않아.
-Jana: Aber dann sucht jemand anders die Namen aus. Jemand, der mein Team nicht kennt. || 그래도 그러면 다른 사람이 이름을 골라요. 우리 팀을 모르는 사람이요.
+Edith: Ich würde keine Namen nennen. Nie. Wer einmal Namen nennt, ist danach nicht mehr frei. Das habe ich bei anderen oft genug gesehen. || 나라면 이름 안 대. 절대. 한 번 이름을 대면 그다음엔 더는 자유롭지 않아. 다른 사람들한테서 그런 걸 충분히 봤어.
+Jana: Aber dann sucht jemand anders die Namen aus. Jemand, der mein Team nicht kennt. Das wäre doch noch schlimmer. || 그래도 그러면 다른 사람이 이름을 골라요. 우리 팀을 모르는 사람이요. 그럼 더 나쁘잖아요.
 Edith: Dann soll er das tun. Und er soll dafür geradestehen. Nicht du. Das ist seine Arbeit. Nicht deine. || 그럼 그 사람이 하라고 해. 그리고 그 책임은 그 사람이 지는 거고. 네가 아니라. 그건 그 사람 일이야. 네 일이 아니고.
-Jana: Und der Betriebsrat? || 그럼 노사협의회는요?
+Jana: Und der Betriebsrat? Soll ich da wirklich mitmachen, obwohl ich Teamleiterin bin? || 그럼 노사협의회는요? 팀장인데도 정말 같이 해야 할까요?
 Edith: Den gründest du mit. Gerade jetzt. Wenn die Zeiten gut sind, braucht man keinen. Wenn sie schlecht sind, ist es zu spät. Jetzt ist die Mitte. || 같이 만들어. 바로 지금. 좋은 시절엔 필요 없지. 나쁜 시절엔 이미 늦고. 지금이 그 중간이야.
-Jana: Mein Chef wird sauer sein. || 상사가 화낼 거예요.
+Jana: Mein Chef wird sauer sein. Und ich arbeite eigentlich gern mit ihm zusammen. || 상사가 화낼 거예요. 사실 저는 그 사람이랑 일하는 게 좋거든요.
 Edith: Dein Großvater hat immer gesagt: Wenn der Chef nicht sauer ist, machst du etwas falsch. || 네 할아버지가 늘 그러셨지. 반장이 화를 안 내면 네가 뭔가 잘못하고 있는 거라고.
-Kalle: Det hat er wirklich gesagt. Jeden Sonntag beim Mittagessen. || 진짜로 그렇게 말씀하셨어. 일요일 점심때마다.
-Jana: Danke, Frau Krüger. Ich glaube, jetzt weiß ich, was ich am Freitag sage. || 고마워요, 크뤼거 부인. 이제 금요일에 뭐라고 할지 알 것 같아요.
+Kalle: Det hat er wirklich gesagt. Jeden Sonntag beim Mittagessen. Da gab's keenen Sonntag ohne den Satz. || 진짜로 그렇게 말씀하셨어. 일요일 점심때마다. 그 말 없는 일요일이 없었다니까.
+Jana: Danke, Frau Krüger. Ich glaube, jetzt weiß ich, was ich am Freitag sage. Und ich habe sogar ein bisschen weniger Angst davor. || 고마워요, 크뤼거 부인. 이제 금요일에 뭐라고 할지 알 것 같아요. 그리고 그게 조금은 덜 무서워졌어요.
 Edith: Und Jana? Wenn ihr gewählt habt: Fragt zuerst nach den Toiletten. Das ist immer ein guter Anfang. || 그리고 야나? 선거를 하고 나면 제일 먼저 화장실부터 물어봐. 그건 언제나 좋은 시작이거든.
