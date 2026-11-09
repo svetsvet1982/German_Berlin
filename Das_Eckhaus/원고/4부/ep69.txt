@@ -15,8 +15,8 @@
 #cast: Dr. Falk | 헨드리크 팔크 · 50대, 노르트베르트 측 변호사
 #cast: Dr. Albrecht | 슈테펜 알브레히트 · 52세, 노르트베르트
 #cast: Can | 잔 이을드즈 · 10세
-#read: 협상의 숫자: 제안할 때는 낮고 천천히, 단호하게. „Wir bieten fünfundsiebzigtausend." 반응은 기다린다 — 침묵도 협상이다.
-#read: 증빙 제시(슐체 부인): „Ordner zwei, Blatt siebenundvierzig: Rechnung eines Cateringunternehmens. Champagner. Vierhundertachtzig Euro." — 서류 번호, 항목, 금액 순서로 사실만.
+#read: 협상의 숫자: 제안할 때는 낮고 천천히, 단호하게. „Wir bieten fünfzigtausend." 반응은 기다린다 — 침묵도 협상이다.
+#read: 증빙 제시(야니크): „Ordner zwei. Blatt siebenundvierzig. … Champagner, Fingerfood. Vierhundertachtzig Euro." — 서류 번호, 항목, 금액 순서로 사실만.
 #read: 개인적 고백(알브레히트): 업무 말투에서 개인 말투로. 문장이 짧아지고, 존칭은 유지하되 목소리가 낮아진다.
 #read: Verhandlungsspielraum [fɛɐ̯ˈhandlʊŋsˌʃpiːlʁaʊ̯m], Schmerzgrenze [ˈʃmɛʁtsˌɡʁɛntsə], Gemeinkosten [ɡəˈmaɪ̯nˌkɔstn̩], Kompromissvorschlag [kɔmpʁoˈmɪsˌfoːɐ̯ʃlaːk].
 #note: 협상 어휘: das Eröffnungsangebot (첫 제안), die Schmerzgrenze (마지노선, 더는 양보할 수 없는 선), der Verhandlungsspielraum (협상 여지), einander entgegenkommen (서로 양보하다), sich in der Mitte treffen (중간에서 만나다), das letzte Wort (최종 제안)
@@ -27,7 +27,7 @@
 ## Mittwoch, vier Ordner | 수요일, 서류철 네 개
 Herr Pietsch: Ein Kurier. Mit vier Ordnern. Um neun Uhr. Und ich bin gekommen, um Tee zu trinken. Mittwochs. Wie vereinbart. || 퀵 배달이네. 서류철 네 개. 아홉 시에. 그리고 나는 차 마시러 왔는데. 수요일이니까. 약속대로.
 Edith: Dann trinkst du Tee. Und liest dabei. Hier. Pfefferminz. Ohne Zucker. Du hast vier Ordner. Und Ingrid hat vier Klebezettelfarben. || 그럼 차 마셔. 그러면서 읽고. 여기. 박하차. 설탕 없이. 서류철이 네 개고. 잉그리트한텐 포스트잇이 네 가지 색깔이야.
-Frau Schulze: Fünf. Seit heute. Lila für „Unverschämt". || 다섯 가지예요. 오늘부터요. 보라색은 ‚뻔뻔함'.
+Frau Schulze: Fünf. Seit heute. Lila für „Unverschämt". Ich hatte so eine Ahnung, dass wir sie brauchen werden. || 다섯 가지예요. 오늘부터요. 보라색은 ‚뻔뻔함'. 필요할 것 같은 예감이 들었거든요.
 Jannik: Ordner eins: „Gutachten und Due Diligence". Ordner zwei: „Notar und Transaktionskosten". Ordner drei: „Planung Modernisierung". Ordner vier: „Projektmanagement und Sonstiges". || 1번 서류철, ‚감정 및 실사'. 2번 서류철, ‚공증 및 거래 비용'. 3번 서류철, ‚현대화 설계'. 4번 서류철, ‚프로젝트 관리 및 기타'.
 Frau Schulze: Ordner vier. „Sonstiges". Da fangen wir an. Bei „Sonstiges" versteckt man immer das Interessanteste. Das ist in jeder Firma so. Herr Pietsch, Sie nehmen Ordner drei. Sie kennen das Haus. Sie wissen, was eine Planung kostet. Und was sie wert ist. || 4번 서류철. ‚기타'. 거기서부터 시작해요. ‚기타'에는 늘 제일 흥미로운 걸 숨기거든요. 어느 회사나 그래요. 피치 씨는 3번 서류철 맡아요. 이 집을 아시잖아요. 설계가 얼마 드는지 아시고. 그게 얼마짜리인지도 아시고요.
 Herr Pietsch: Ordner drei. „Architekturbüro Lessing und Partner. Entwurfsplanung Dachgeschossausbau. Zwei Wohneinheiten. Achtundvierzigtausend Euro." Das ist die Planung für die Penthouses. Variante B. Für die wollen sie Geld von uns? Für ihre eigenen Penthouses? || 3번 서류철. „레싱 앤드 파트너 건축 사무소. 다락층 개조 기본 설계. 주거 두 세대. 4만 8천 유로." 이건 펜트하우스 설계잖아. B안. 그걸 위해 우리한테 돈을 달라는 거야? 자기들 펜트하우스를 위해?
@@ -35,41 +35,41 @@ Frau Schulze: Lila. Kleben Sie lila drauf, Herr Pietsch. || 보라색이요. 보
 Jannik: Ordner zwei. Blatt siebenundvierzig. „Catering Elbblick GmbH. Empfang anlässlich der Beurkundung. Champagner, Fingerfood. Vierhundertachtzig Euro." Sie haben auf den Kauf unseres Hauses angestoßen. Mit Champagner. Und wir sollen es bezahlen. || 2번 서류철. 47쪽. „엘프블리크 케이터링 유한회사. 공증 기념 리셉션. 샴페인, 핑거 푸드. 사백팔십 유로." 우리 집 매입을 축하하며 건배했네요. 샴페인으로요. 그리고 그걸 우리더러 내라는 거예요.
 Edith: Mit Champagner. Am vierundzwanzigsten August. Am Tag, an dem ich in meiner Küche gesessen habe. Und nicht wusste, dass mein Haus verkauft ist. Lila, Ingrid. Zweimal. || 샴페인으로. 8월 24일에. 내가 부엌에 앉아서 내 집이 팔린 줄도 모르던 그날에. 보라색이요, 잉그리트. 두 장.
 Frau Schulze: Ordner vier. Blatt eins bis hundertzwölf. „Interne Projektkosten. Personalaufwand Asset Management. Anteilig." Hunderteinundsechzigtausend Euro. Das sind Gehälter. Das Gehalt von Herrn Albrecht. Und seiner Abteilung. Für die Zeit, in der sie unser Haus kaufen wollten. || 4번 서류철. 1쪽부터 112쪽. „내부 프로젝트 비용. 자산 운용 부서 인건비. 비례 배분." 16만 1천 유로. 이건 월급이에요. 알브레히트 씨 월급이요. 그리고 그 부서 월급이요. 우리 집을 사려고 했던 기간 동안의.
-Herr Pietsch: Wir sollen Albrechts Gehalt bezahlen? Dafür, dass er uns rauswerfen wollte? || 우리가 알브레히트 월급을 내야 한다고? 우리를 쫓아내려고 했던 대가로?
+Herr Pietsch: Wir sollen Albrechts Gehalt bezahlen? Dafür, dass er uns rauswerfen wollte? Das ist ja, als ob der Einbrecher die Rechnung für sein Brecheisen schickt. || 우리가 알브레히트 월급을 내야 한다고? 우리를 쫓아내려고 했던 대가로? 그건 도둑이 쇠지렛대 값 청구서를 보내는 거나 마찬가지잖아.
 Frau Schulze: Interne Kosten sind nicht erstattungsfähig. Das weiß jeder Anwalt. Auch Herr Falk. Er hat es trotzdem reingeschrieben. Weil er gehofft hat, dass niemand bis Blatt hundertzwölf liest. Lila. Der ganze Ordner. || 내부 비용은 상환 대상이 아니에요. 그건 변호사라면 다 알아요. 팔크 씨도요. 그런데도 써 넣었죠. 아무도 112쪽까지 안 읽길 바랐으니까요. 보라색. 서류철 통째로요.
 Jannik: Und hier. Ordner eins. Das Gutachten von Herrn Wolf. Viertausendachthundert. Einmal in Ordner eins. Und noch einmal in Ordner zwei. Unter „Transaktionskosten". Dieselbe Rechnungsnummer. Doppelt. || 그리고 여기요. 1번 서류철. 볼프 씨 감정서. 사천팔백. 1번 서류철에 한 번. 그리고 2번 서류철에 한 번 더. ‚거래 비용' 항목으로요. 청구서 번호가 똑같아요. 이중이에요.
 Frau Schulze: Doppelt. Wie unser Dach im Dezember. Herr Huber, jetzt wissen Sie, wie es sich von der anderen Seite anfühlt. || 이중이라. 12월의 우리 지붕처럼요. 후버 씨, 이제 반대편에선 어떤 기분인지 알겠죠.
 Jannik: Gut. Sehr gut. Ich fühle mich rehabilitiert. || 좋네요. 아주 좋아요. 명예가 회복된 기분이에요.
-Edith: Ingrid. Wie viel bleibt? Wenn man alles Lila abzieht? || 잉그리트. 얼마나 남아요? 보라색을 다 빼면요?
+Edith: Ingrid. Wie viel bleibt? Wenn man alles Lila abzieht? Ich will wissen, worüber wir eigentlich reden. || 잉그리트. 얼마나 남아요? 보라색을 다 빼면요? 우리가 대체 무슨 얘기를 하는 건지 알고 싶어요.
 Frau Schulze: Das sage ich Ihnen am Montag. Nach dem dritten Lesen. Ich sage nie eine Zahl nach dem ersten Lesen. Das ist unprofessionell. || 그건 월요일에 말해 줄게요. 세 번째로 읽은 다음에요. 처음 읽고는 절대 숫자를 말하지 않아요. 그건 프로답지 못하거든요.
 Herr Pietsch: Edith. Noch einen Tee. Bitte. Mit Zucker. Ausnahmsweise. Bei Blatt hundertzwölf braucht man Zucker. || 에디트. 차 한 잔 더. 부탁해. 설탕 넣어서. 예외로. 112쪽에선 설탕이 필요해.
 ## Die Strategie | 전략
 Frau Schulze: Montag. Drittes Lesen. Ergebnis. Von dreihundertfünfzigtausend sind belegt und extern: hundertzwölftausendvierhundert Euro. Ohne Penthouse-Planung. Ohne Champagner. Ohne Gehälter. Ohne Doppeltes. Der Rest ist lila. || 월요일이에요. 세 번째로 읽었어요. 결과예요. 35만 중에 증빙되고 외부 비용인 건 11만 2천4백 유로예요. 펜트하우스 설계 빼고. 샴페인 빼고. 월급 빼고. 이중 청구 빼고요. 나머지는 보라색이에요.
-Kalle: Hundertzwölf. Von dreihundertfünfzig. Det ist weniger als ein Drittel. || 11만 2천. 35만 중에. 그건 3분의 1도 안 되잖아.
+Kalle: Hundertzwölf. Von dreihundertfünfzig. Det ist weniger als ein Drittel. Und der Rest is Champagner und Gehälter. || 11만 2천. 35만 중에. 그건 3분의 1도 안 되잖아. 나머진 샴페인이랑 월급이고.
 Herr Brückner: Und auch von den hundertzwölf müssen wir nichts zahlen. Rechtlich. Wenn sie verlieren, tragen sie ihre Kosten selbst. Das ist das Risiko eines Käufers. Aber: Wir verhandeln nicht über Recht. Wir verhandeln über Zeit. Wir kaufen uns Zeit. Und Sicherheit. || 그리고 그 11만 2천도 법적으로는 우리가 낼 필요가 없어요. 그쪽이 지면 자기 비용은 자기가 부담하는 거예요. 그게 매수인의 위험이죠. 하지만 우리는 법을 두고 협상하는 게 아니에요. 시간을 두고 협상하는 거죠. 시간을 사는 거예요. 그리고 안전도요.
 Jana: Wie bei Zahlwerk. Mit meinem Aufhebungsvertrag. Ich hätte nichts unterschreiben müssen. Aber ich wollte Sicherheit. Also haben wir einen Preis gefunden. || Zahlwerk 때처럼요. 제 합의 해지 계약 때요. 아무것도 서명 안 해도 됐어요. 그래도 안전을 원했죠. 그래서 가격을 찾은 거예요.
 Herr Brückner: Genau. Und jetzt die Frage: Was ist unsere Schmerzgrenze? Bis wohin gehen wir? Das müssen wir vorher wissen. Nicht in der Verhandlung. || 바로 그거예요. 이제 질문은 이거예요. 우리 마지노선은 어디예요? 어디까지 갈 거예요? 그건 미리 알아야 해요. 협상 중이 아니라요.
 Derya: Jannik hat gerechnet. Jeder Zehntausender ist ein Cent pro Quadratmeter. Für dreißig Jahre. Wenn wir den Zwischenkredit über achtzig bis Juni durch Direktkredite ersetzen … und zusätzlich Geld für Nordwert brauchen … || 야니크가 계산했어요. 만 유로마다 제곱미터당 1센트예요. 삼십 년 동안요. 8만짜리 과도 대출을 6월까지 직접 대출로 대체하는 데다가… 노르트베르트에 줄 돈까지 더 필요하다면…
 Jannik: Bei hunderttausend für Nordwert landen wir bei acht Euro fünfzig. Das ist die Grenze, die Edith noch zahlen kann. Mit Wohnberechtigungsschein und Förderung. Darüber wird es für drei Haushalte eng. Für Frau Lehmann. Für Frau Krüger. Und für die Familie Yıldız. || 노르트베르트에 10만을 주면 8유로 50이 돼요. 그게 에디트 할머니가 아직 낼 수 있는 한계예요. 주거 자격 증명서랑 지원까지 받아서요. 그 이상이면 세 가구가 빠듯해져요. 레만 부인. 크뤼거 할머니. 그리고 이을드즈 가족이요.
-Kalle: Dann ist hunderttausend die Schmerzgrenze. Keinen Euro mehr. || 그럼 10만이 마지노선이네. 단 1유로도 더는 안 돼.
+Kalle: Dann ist hunderttausend die Schmerzgrenze. Keinen Euro mehr. Wegen Edith und den anderen zwei Haushalten. Da wird nich jefeilscht. || 그럼 10만이 마지노선이네. 단 1유로도 더는 안 돼. 에디트랑 다른 두 집 때문에. 거기선 흥정 없어.
 Herr Brückner: Gut. Und wir fangen nicht bei hundert an. Wir fangen bei fünfzig an. Und gehen langsam. Und Frau Schulze legt die Ordner auf den Tisch. Mit lila Klebezetteln. Ohne ein Wort zu sagen. Das ist stärker als jedes Argument. || 좋아요. 그리고 10만에서 시작하지 않아요. 5만에서 시작해요. 그리고 천천히 올라가고요. 그리고 슐체 부인은 서류철을 탁자에 올려놓는 거예요. 보라색 포스트잇 붙인 채로. 한마디도 안 하고요. 그게 어떤 논거보다 강해요.
 Frau Schulze: Ohne ein Wort? Das wird schwer. || 한마디도 안 하고요? 그거 어렵겠네요.
 Edith: Ingrid. Sie haben einmal sieben Sekunden geschwiegen am Telefon. Und Herr Falk hat nachgegeben. Schweigen Sie diesmal eine Minute. Dann geben sie alles. || 잉그리트. 전화로 한 번 칠 초 침묵했었잖아요. 그랬더니 팔크 씨가 양보했고요. 이번엔 일 분 동안 침묵해 봐요. 그럼 다 내줄 거예요.
-Can: Und Kalle? Was macht Kalle? || 그럼 칼레 아저씨는요? 칼레 아저씨는 뭐 해요?
+Can: Und Kalle? Was macht Kalle? Er kann doch nicht einfach nur dasitzen. || 그럼 칼레 아저씨는요? 칼레 아저씨는 뭐 해요? 그냥 앉아만 있을 순 없잖아요.
 Jana: Papa sagt nichts. Papa bringt Kaffee mit. Aus der Kneipe. Damit sie wissen, wofür wir kämpfen. Jeder Schluck erinnert sie daran. || 아빠는 아무 말도 안 해. 아빠는 커피를 가져가. 가게에서. 우리가 뭘 위해 싸우는지 그 사람들이 알게. 한 모금 마실 때마다 생각나게.
-Kalle: Ick sage nichts. Ick bringe Kaffee. Det kann ick. || 아무 말 안 하고. 커피 가져가고. 그건 할 수 있지.
+Kalle: Ick sage nichts. Ick bringe Kaffee. Det kann ick. Kaffee hab ick in meinem Leben mehr jekocht als Reden jehalten. || 아무 말 안 하고. 커피 가져가고. 그건 할 수 있지. 평생 연설한 것보다 커피 끓인 게 훨씬 많으니까.
 ## Im Wartezimmer | 대기실에서
 Kalle: Zwei Thermoskannen. Ein Liter schwarz. Ein Liter mit Hafermilch. Für den Fall, dass Falk Hafermilch trinkt. Hamburger trinken Hafermilch, sagt Jana. || 보온병 두 개. 블랙 1리터. 귀리 우유 넣은 거 1리터. 팔크가 귀리 우유를 마실 경우를 대비해서. 함부르크 사람들은 귀리 우유 마신다고 야나가 그러더라.
-Jana: Das habe ich nicht gesagt. Ich habe gesagt: Anwälte trinken alles, was umsonst ist. || 그런 말 안 했어요. 변호사들은 공짜면 뭐든 마신다고 했지.
+Jana: Das habe ich nicht gesagt. Ich habe gesagt: Anwälte trinken alles, was umsonst ist. Und falls nicht, trinkst du den Rest selbst und schläfst heute Nacht nicht. || 그런 말 안 했어요. 변호사들은 공짜면 뭐든 마신다고 했지. 안 마시면 나머지는 아빠가 마시고 오늘 밤 못 자는 거고요.
 Derya: Ingrid, du bist so still. Schon seit einer halben Stunde. || 잉그리트, 너무 조용하네요. 벌써 삼십 분째요.
 Frau Schulze: Ich übe. Schweigen. Ich habe mir gestern einen Timer gestellt. Fünf Minuten. Ich habe es nicht geschafft. Nach drei Minuten habe ich Krümel kritisiert. Weil er auf dem falschen Kissen lag. || 연습하는 중이에요. 침묵을요. 어제 타이머를 맞춰 놨어요. 오 분. 실패했어요. 삼 분 만에 크뤼멜한테 잔소리를 했거든요. 엉뚱한 쿠션에 누워 있어서요.
 Herr Brückner: Sie müssen nicht ganz schweigen, Frau Schulze. Nur am Anfang. Bis jemand die lila Zettel bemerkt. Dann darf Ihr Gesicht sprechen. || 완전히 침묵할 필요는 없어요, 슐체 부인. 처음에만요. 누군가 보라색 포스트잇을 알아챌 때까지만요. 그다음엔 표정으로 말하셔도 돼요.
 Frau Schulze: Mein Gesicht spricht immer. Das ist das Problem. Herr Brenzel hat es mir am Telefon gesagt. Neunzehnhundertneunundneunzig. Er hat gesagt: Fräulein, ich höre Ihr Gesicht. || 내 얼굴은 늘 말을 해요. 그게 문제죠. 브렌첼 씨가 1999년에 전화로 그러더라고요. 아가씨, 당신 얼굴이 들려요.
 Derya: Herr Brückner, was ist, wenn sie gar nicht verhandeln wollen? Wenn sie nur kommen, um uns Angst zu machen? || 브뤼크너 씨, 그쪽이 협상할 생각이 아예 없으면요? 그냥 겁주려고 오는 거면요?
 Herr Brückner: Dann wären sie nicht persönlich gekommen. Wer Angst machen will, schickt einen Brief. Wer persönlich kommt, will etwas. Und wer etwas will, hat eine Grenze. Wir müssen sie nur finden. || 그럼 직접 오지 않았겠죠. 겁주고 싶은 사람은 편지를 보내요. 직접 오는 사람은 뭔가를 원하는 거고요. 그리고 뭔가를 원하는 사람한텐 한계선이 있어요. 우린 그걸 찾기만 하면 돼요.
-Kalle: Und wenn wir sie nicht finden? || 그런데 못 찾으면요?
+Kalle: Und wenn wir sie nicht finden? Ick will nur wissen, was dann passiert, bevor wir da reingehen. || 그런데 못 찾으면요? 들어가기 전에 그럼 어떻게 되는지 알고 싶어서요.
 Herr Brückner: Dann haben wir immer noch achtzig Prozent. Und Frau Schulze. Und eine Bezirksverordnetenversammlung am elften. Wir sind nicht schwach, Herr Kowalski. Das ist der wichtigste Satz für heute. Sagen Sie ihn sich. || 그럼 우리한텐 여전히 80퍼센트가 있죠. 그리고 슐체 부인도. 그리고 11일의 구의회 본회의도요. 우리는 약하지 않아요, 코발스키 씨. 그게 오늘 제일 중요한 문장이에요. 스스로한테 말해 보세요.
-Kalle: Wir sind nicht schwach. Wir haben Kaffee. Zwei Liter. || 우리는 약하지 않다. 우린 커피가 있다. 2리터나.
+Kalle: Wir sind nicht schwach. Wir haben Kaffee. Zwei Liter. Det sag ick mir jetzt, bis die Tür aufgeht. || 우리는 약하지 않다. 우린 커피가 있다. 2리터나. 문 열릴 때까지 이 말 계속 되뇔게요.
 Jana: Sie kommen. Ich höre den Aufzug. Papa, sitz gerade. Ingrid, Gesicht aus. || 와요. 엘리베이터 소리 들려요. 아빠, 똑바로 앉아요. 잉그리트, 얼굴 꺼요.
 Frau Schulze: Mein Gesicht hat keinen Schalter. Aber ich versuche es. || 내 얼굴엔 스위치가 없어요. 그래도 해 볼게요.
 ## Erste Runde | 첫 번째 라운드
@@ -84,18 +84,18 @@ Dr. Falk: Die Doppelabrechnung … das ist ein Versehen. Das korrigieren wir. ||
 Herr Brückner: Wir bieten fünfzigtausend. Für die Rücknahme der Klage. Innerhalb von vierzehn Tagen. Mit einer Erklärung, dass Nordwert auf alle weiteren Ansprüche verzichtet. || 저희는 5만을 제안합니다. 소송 취하 대가로요. 14일 이내에. 노르트베르트가 그 밖의 모든 청구를 포기한다는 확인서와 함께요.
 Dr. Falk: Fünfzig? Das ist … Herr Kollege, das ist kein ernsthaftes Angebot. Meine Mandantin hat erhebliche Verluste. Wir könnten uns bei zweihundertzwanzig treffen. Ohne die Penthouse-Planung. Ohne den Champagner. || 5만이요? 그건… 변호사님, 그건 진지한 제안이 아닙니다. 제 의뢰인은 상당한 손실을 입었습니다. 22만에서 만날 수 있겠네요. 펜트하우스 설계 빼고. 샴페인 빼고요.
 Herr Brückner: Zweihundertzwanzig enthält immer noch Herrn Albrechts Gehalt. Das ist nicht erstattungsfähig. Das wissen Sie. Sechzig. || 22만엔 아직도 알브레히트 씨 월급이 들어 있어요. 그건 상환 대상이 아닙니다. 아시잖아요. 6만.
-Dr. Falk: Hundertachtzig. Und das ist bereits ein großes Entgegenkommen. || 18만. 이것도 이미 크게 양보한 겁니다.
+Dr. Falk: Hundertachtzig. Und das ist bereits ein großes Entgegenkommen. Weiter kann ich ohne Rücksprache mit Hamburg nicht gehen. || 18만. 이것도 이미 크게 양보한 겁니다. 함부르크와 상의 없이는 더 못 갑니다.
 Herr Brückner: Siebzig. Und wir verzichten darauf, die Doppelabrechnung öffentlich zu machen. In der Bezirksverordnetenversammlung. Am elften März. || 7만. 그리고 이중 청구 건은 공개하지 않겠습니다. 구의회 본회의에서요. 3월 11일에요.
-Dr. Albrecht: Das ist eine Drohung, Herr Brückner. || 그건 협박입니다, 브뤼크너 변호사님.
+Dr. Albrecht: Das ist eine Drohung, Herr Brückner. Und ich hatte gehofft, wir wären über diese Phase hinaus. || 그건 협박입니다, 브뤼크너 변호사님. 이 단계는 이미 지났다고 생각했는데요.
 Herr Brückner: Das ist eine Information, Herr Albrecht. Wie „Zur Kenntnis genommen". || 그건 정보입니다, 알브레히트 씨. „확인했음"처럼요.
 Dr. Albrecht: … Lassen Sie uns eine kurze Pause machen. Zehn Minuten. Herr Kowalski, begleiten Sie mich nach draußen? Ich brauche frische Luft. Und ich glaube, Sie auch. || …잠깐 쉬죠. 십 분이요. 코발스키 씨, 밖에 같이 나가 주시겠어요? 바람을 좀 쐬어야겠어요. 당신도 그런 것 같고요.
-Kalle: Ick? Allein? Ohne Anwalt? || 나요? 혼자요? 변호사 없이요?
+Kalle: Ick? Allein? Ohne Anwalt? Na jut. Aber ick nehm meinen Kaffee mit. || 나요? 혼자요? 변호사 없이요? 뭐, 좋아요. 그래도 커피는 들고 갈게요.
 Dr. Albrecht: Ohne Anwälte. Nur wir zwei. Wir haben beide schon zu viel Kaffee getrunken. || 변호사 없이요. 우리 둘만요. 우리 둘 다 이미 커피를 너무 많이 마셨잖아요.
 ## Am Hermannplatz | 헤르만 광장에서
 Dr. Albrecht: Kalt. Dieser Wind am Hermannplatz. In Hamburg ist der Wind nass. Hier ist er trocken. Und schneidend. || 춥네요. 헤르만 광장 이 바람. 함부르크 바람은 축축한데. 여긴 건조해요. 그리고 살을 에네요.
 Kalle: Sie sind aus Hamburg? Ick dachte, Sie sind aus … von überall. Aus Excel. || 함부르크 출신이에요? 나는 당신이… 어디서나 온 사람인 줄 알았는데. 엑셀에서 온.
 Dr. Albrecht: Aus Barmbek. Hamburg-Barmbek. Wissen Sie, wo ich aufgewachsen bin, Herr Kowalski? In einer Genossenschaftswohnung. Baugenossenschaft Barmbek-Nord. Dritter Stock. Drei Zimmer. Meine Mutter war Verkäuferin. Mein Vater Hafenarbeiter. Ohne die Genossenschaft hätten wir nie in Barmbek wohnen können. || 바름베크요. 함부르크 바름베크. 내가 어디서 자랐는지 아세요, 코발스키 씨? 협동조합 주택이에요. 바름베크 북부 건축 협동조합. 4층. 방 세 개. 어머니는 판매원이었고. 아버지는 항만 노동자였어요. 협동조합이 아니었으면 우린 바름베크에서 절대 못 살았을 거예요.
-Kalle: … Sie? In einer Genossenschaft? || …당신이요? 협동조합에서요?
+Kalle: … Sie? In einer Genossenschaft? Det hätt ick Ihnen nie im Leben zugetraut. || …당신이요? 협동조합에서요? 그건 정말 상상도 못 했네요.
 Dr. Albrecht: Achtzehn Jahre lang. Bis zum Studium. Meine Mutter wohnt immer noch da. Sie ist neunundsiebzig. Sie zahlt sechs Euro pro Quadratmeter. Sie hat keine Ahnung, was ich beruflich mache. Sie denkt, ich mache „irgendwas mit Häusern". Das stimmt ja auch. || 십팔 년 동안이요. 대학 갈 때까지요. 어머니는 아직도 거기 사세요. 일흔아홉이세요. 제곱미터당 6유로 내세요. 내가 무슨 일을 하는지 전혀 모르세요. 그냥 ‚집이랑 관련된 무슨 일'을 하는 줄 아시죠. 그것도 틀린 말은 아니고요.
 Kalle: Und warum machen Sie das? Wenn Sie es wissen. Wie es ist. Von innen. || 그런데 왜 이런 일을 해요? 그게 어떤 건지 알면서. 안에서 살아 봤으면서.
 Dr. Albrecht: Weil ich gut im Rechnen war. Und weil man mit Rechnen in Häusern mehr verdient als in Häusern zu wohnen. Weil ich mit fünfundzwanzig dachte, ich will nie wieder sechs Euro pro Quadratmeter zahlen müssen. Ich wollte eine Wohnung kaufen. Für mich. In Eppendorf. Und das habe ich. || 계산을 잘했으니까요. 그리고 집을 계산하면 집에 사는 것보다 돈을 더 버니까요. 스물다섯 살 때 다시는 제곱미터당 6유로 내는 신세는 안 되겠다고 생각했어요. 내 집을 사고 싶었죠. 나를 위해서. 에펜도르프에. 그리고 샀어요.
@@ -108,18 +108,18 @@ Dr. Albrecht: Hundertzwanzig. Mit hundertzwanzig kann ich sagen: Wir haben die e
 Kalle: Hundertzwanzig ist über unserer Schmerzgrenze. Ick darf Ihnen nicht sagen, wo sie ist. Aber sie ist darunter. || 12만은 우리 마지노선을 넘어요. 그게 어딘지는 말해 줄 수 없어요. 하지만 그보다 아래예요.
 Dr. Albrecht: Das dachte ich mir. Dann sagen Sie mir etwas anderes. Was würde Ihre Frau sagen? Monika? Frau Kowalski hat mir von ihr erzählt. Im Dezember. Die Frau mit dem Notizbuch. || 그럴 줄 알았어요. 그럼 다른 걸 말해 줘요. 당신 부인이라면 뭐라고 했을까요? 모니카 씨요? 따님이 12월에 얘기해 줬어요. 공책 남긴 그분이요.
 Kalle: Monika hätte gesagt: Kalle, der Mann friert. Gib ihm einen Kaffee. Und dann sag ihm, dass seine Mutter in Barmbek stolz wäre, wenn er einmal im Leben etwas anders rechnet. || 모니카라면 이랬겠죠. 칼레, 저 사람 추워하잖아. 커피 한 잔 줘. 그리고 그 사람한테 말해 줘. 평생 한 번이라도 다르게 계산하면 바름베크의 어머니가 자랑스러워하실 거라고.
-Dr. Albrecht: … Das ist unfair, Herr Kowalski. || …그건 불공평해요, 코발스키 씨.
+Dr. Albrecht: … Das ist unfair, Herr Kowalski. Sie benutzen meine Mutter gegen mich, und es funktioniert auch noch. || …그건 불공평해요, 코발스키 씨. 내 어머니를 들고 나오시다니. 그런데 그게 또 먹히네요.
 Kalle: Ick weiß. Monika war oft unfair. Aber sie hatte meistens recht. Kommen Sie. Die zehn Minuten sind um. Und Frau Schulze schweigt sonst noch die ganze Nacht. || 알아요. 모니카는 자주 불공평했어요. 하지만 대개는 옳았죠. 들어가요. 십 분 지났어요. 안 그러면 슐체 부인이 밤새 침묵할 거예요.
 ## Zweite Runde | 두 번째 라운드
 Dr. Albrecht: Herr Falk, ich übernehme. Herr Brückner. Frau Schulze. Frau Yıldız. Frau Kowalski. Ich mache ein letztes Angebot. Hundertzehntausend. Externe Kosten minus das doppelte Gutachten. Minus Champagner. Plus ein symbolischer Betrag für die Zeit. Das ist mein letztes Wort. || 팔크 변호사님, 제가 맡겠습니다. 브뤼크너 변호사님. 슐체 씨. 이을드즈 씨. 코발스키 씨. 마지막 제안을 하겠습니다. 11만입니다. 외부 비용에서 이중 감정서를 빼고. 샴페인을 빼고. 시간에 대한 상징적인 금액을 더한 겁니다. 이게 제 최종 제안입니다.
 Dr. Falk: Herr Dr. Albrecht, das ist nicht mit der Gesellschaft abgestimmt … || 알브레히트 박사님, 그건 회사와 조율되지 않은 금액인데…
-Dr. Albrecht: Ich weiß. Ich stimme es ab. Morgen. Herr Brückner? || 알아요. 내가 조율할게요. 내일. 브뤼크너 변호사님?
+Dr. Albrecht: Ich weiß. Ich stimme es ab. Morgen. Herr Brückner? Das ist mein Risiko, nicht Ihres. || 알아요. 내가 조율할게요. 내일. 브뤼크너 변호사님? 그건 제 위험이지 변호사님 위험이 아니에요.
 Herr Brückner: Hundertzehn ist über unserem Spielraum. Wir können Ihnen bis achtzig entgegenkommen. Mehr nicht. || 11만은 저희 여지를 넘습니다. 8만까지는 양보할 수 있어요. 그 이상은 안 됩니다.
 Dr. Albrecht: Achtzig. Und hundertzehn. Das sind dreißigtausend Euro. Für dreißigtausend Euro soll ein Verfahren drei Jahre weitergehen? || 8만. 그리고 11만. 3만 유로 차이네요. 3만 유로 때문에 소송이 삼 년 더 가야 합니까?
 Frau Schulze: Darf ich jetzt etwas sagen? Ich habe eine Stunde und zwölf Minuten geschwiegen. Das ist mein persönlicher Rekord. || 이제 말해도 될까요? 한 시간 십이 분 동안 침묵했어요. 내 개인 기록이에요.
 Herr Brückner: Bitte, Frau Schulze. || 말씀하세요, 슐체 부인.
 Frau Schulze: Herr Dr. Albrecht. Dreißigtausend Euro sind für Ihren Fonds ein Rundungsfehler. Für uns sind dreißigtausend Euro drei Cent pro Quadratmeter. Für dreißig Jahre. Für eine Frau, die dreiundachtzig ist und gerade erst gelernt hat, auf dem Eis zu lachen. Ich weiß nicht, wo Ihre Schmerzgrenze ist. Aber ich weiß, wo ihre ist. || 알브레히트 박사님. 3만 유로는 당신네 펀드에겐 반올림 오차예요. 우리한텐 3만 유로가 제곱미터당 3센트예요. 삼십 년 동안이요. 여든세 살에 이제 막 얼음 위에서 웃는 법을 배운 한 여자한테요. 당신 마지노선이 어딘지는 몰라요. 하지만 그 여자의 마지노선이 어딘지는 알아요.
-Dr. Albrecht: … Frau Schulze. Sie hätten Asset Managerin werden sollen. || …슐체 씨. 자산 운용 담당자가 되셨어야 했네요.
+Dr. Albrecht: … Frau Schulze. Sie hätten Asset Managerin werden sollen. Ich hätte Sie sofort eingestellt. || …슐체 씨. 자산 운용 담당자가 되셨어야 했네요. 당장 채용했을 텐데요.
 Frau Schulze: Ich war Betriebsprüferin. Das ist das Gegenteil. Wir haben Asset Manager geprüft. || 나는 세무 조사관이었어요. 그건 정반대예요. 우리가 자산 운용 담당자들을 조사했죠.
 Dr. Albrecht: Neunzig. Mein allerletztes Wort. Neunzigtausend. Und ich gehe morgen nach Hamburg und erkläre meinen Gesellschaftern, warum. Das gilt bis zum achtzehnten. Schriftlich. Herr Falk, bitte schreiben Sie es auf. || 9만. 정말 마지막 제안입니다. 9만 유로. 그리고 내일 함부르크에 가서 출자자들한테 이유를 설명하겠습니다. 18일까지 유효합니다. 서면으로요. 팔크 변호사님, 적어 주세요.
 Kalle: Neunzig. Das ist unter hundert. Unter der … ick darf es nicht sagen. || 9만. 그건 10만보다 아래네. 그… 말하면 안 되는 거지.
@@ -130,19 +130,19 @@ Can: Neunzig? Von dreihundertfünfzig? Das ist … das ist ein Viertel! Fast! Ne
 Jana: Genau wie Herr Brückner gesagt hat. Ein Viertel. Wie in Friedrichshain. || 브뤼크너 씨가 말한 그대로네. 4분의 1. 프리드리히스하인에서처럼.
 Edith: Und Kalle hat draußen mit ihm geredet. Allein. Was hast du ihm gesagt, Kalle? || 그리고 칼레가 밖에서 그 사람이랑 얘기했다며. 단둘이. 뭐라고 했어, 칼레?
 Kalle: Nüscht. Fast nüscht. Ick habe ihm gesagt, was Monika gesagt hätte. Und er hat mir erzählt, dass er in einer Genossenschaft aufgewachsen ist. In Hamburg-Barmbek. Seine Mutter wohnt noch da. Sechs Euro pro Quadratmeter. || 암것도. 거의 암것도. 모니카라면 뭐라고 했을지 얘기해 줬어. 그리고 그 사람은 자기가 협동조합에서 자랐다고 얘기하더라. 함부르크 바름베크에서. 어머니가 아직 거기 사신대. 제곱미터당 6유로.
-Edith: Albrecht? In einer Genossenschaft? || 알브레히트가? 협동조합에서?
+Edith: Albrecht? In einer Genossenschaft? Das hätte ich ihm nicht angesehen. || 알브레히트가? 협동조합에서? 그렇게는 안 보였는데.
 Kalle: Achtzehn Jahre. Und jetzt kennt er seine Nachbarn nicht. Ick glaube, er hat heute zum ersten Mal seit Langem an Barmbek gedacht. || 십팔 년. 그런데 지금은 자기 이웃을 몰라. 내 생각엔 오늘 오랜만에 처음으로 바름베크 생각을 한 것 같아.
 Derya: Neunzigtausend. Unter unserer Grenze. Aber immer noch Geld, das wir nicht haben. Zusätzlich zu den achtzigtausend für die Bank. Hundertsiebzigtausend bis Juni. || 9만. 우리 한계선 아래예요. 그래도 여전히 우리한테 없는 돈이에요. 은행에 갚을 8만에 더해서요. 6월까지 17만이에요.
 Frau Schulze: Und darüber entscheiden nicht wir. Sondern alle. Mitgliederversammlung. Am siebzehnten. Einen Tag vor der Frist. Und vorher, am dreizehnten, die Soli-Party. Und am elften die Bezirksverordnetenversammlung. Ich habe einen Kalender gemacht. Mit fünf Farben. || 그리고 그건 우리가 결정하는 게 아니에요. 모두가 하죠. 조합원 총회. 17일에요. 기한 하루 전에요. 그리고 그 전 13일엔 연대 파티. 그리고 11일엔 구의회 본회의. 달력 만들어 놨어요. 다섯 가지 색으로요.
-Can: Lila auch? || 보라색도요?
+Can: Lila auch? Für den achtzehnten? || 보라색도요? 18일에도요?
 Frau Schulze: Lila ist für Nordwert reserviert. Für den Rest gibt es Grün. Hoffentlich. || 보라색은 노르트베르트 전용이야. 나머지는 초록색이고. 그러길 바라.
 ## Mittwoch früh, eine Mail | 수요일 아침, 메일 한 통
 Jana: Papa. Eine Mail. An dich. Von Albrecht. Nicht über Falk. Direkt. Um sechs Uhr zwölf. || 아빠. 메일이요. 아빠한테요. 알브레히트한테서요. 팔크 거치지 않고. 직접이요. 여섯 시 십이 분에요.
 Kalle: Um sechs Uhr zwölf? Schläft der Mann nie? Lies vor. Ick habe meine Brille in der Küche. || 여섯 시 십이 분? 그 사람은 잠도 안 자나? 읽어 줘. 안경이 주방에 있어.
 Jana: „Sehr geehrter Herr Kowalski. Ich war gestern Abend bei meiner Mutter in Barmbek. Ich habe ihr zum ersten Mal erzählt, was ich beruflich mache. Genau. Mit Ihrem Haus als Beispiel." || „친애하는 코발스키 씨. 어젯밤에 바름베크 어머니 댁에 갔었습니다. 처음으로 제가 무슨 일을 하는지 말씀드렸습니다. 정확하게요. 당신 집을 예로 들어서요."
-Edith: Und? Was hat sie gesagt? Die Mutter? || 그래서? 어머니가 뭐라고 하셨대?
+Edith: Und? Was hat sie gesagt? Die Mutter? Mütter merken so etwas sofort. || 그래서? 어머니가 뭐라고 하셨대? 엄마들은 그런 걸 바로 알아채거든.
 Jana: „Sie hat lange nichts gesagt. Dann hat sie mir einen Tee gekocht. Mit Kandis. Und gesagt: Steffen, die Frau Krüger soll unten wohnen. Und du sollst nächsten Sonntag zum Rommé kommen. Die anderen fragen nach dir." || „오랫동안 아무 말씀도 안 하셨어요. 그러다 차를 끓여 주셨죠. 각설탕 넣어서요. 그리고 말씀하셨어요. 슈테펜, 크뤼거 부인은 아래층에 살아야 한다. 그리고 너는 다음 일요일에 루미 하러 와라. 다른 할머니들이 네 안부를 묻는다."
-Can: Rommé? Was ist Rommé? || 루미요? 루미가 뭐예요?
+Can: Rommé? Was ist Rommé? Ist das so was wie Uno? || 루미요? 루미가 뭐예요? 우노 같은 거예요?
 Edith: Ein Kartenspiel. Für alte Frauen im Hof. Gisela hat es geliebt. Sie hat immer geschummelt. Und immer gewonnen. || 카드놀이야. 안마당에 모인 할머니들이 하는. 기젤라가 엄청 좋아했지. 늘 속임수를 썼어. 그리고 늘 이겼고.
 Jana: Und dann noch ein Satz. „Das Angebot über neunzig gilt. Meine Gesellschafter haben es heute Morgen akzeptiert. Nicht gern. Aber sie haben. Mit freundlichen Grüßen, Steffen Albrecht. P.S.: Ich habe drei Wörter für Sie ausgedruckt. ‚Nicht teilbar.' Sie hängen jetzt in meinem Büro." || „그리고 한 문장 더 있어요. „9만 제안은 유효합니다. 오늘 아침 출자자들이 받아들였습니다. 내키진 않아 했지만요. 그래도 받아들였어요. 안녕히 계십시오, 슈테펜 알브레히트. 추신: 당신을 위해 단어 몇 개를 출력해 뒀습니다. ‚나눌 수 없음.' 지금 제 사무실에 걸려 있습니다."
 Kalle: … In seinem Büro. In Hamburg. Neben seinen Excel-Tabellen. || …그 사람 사무실에. 함부르크에. 엑셀 표 옆에.
