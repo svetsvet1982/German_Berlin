@@ -102,9 +102,13 @@ def build(path):
         r._element.get_or_add_rPr().get_or_add_rFonts().set(qn("w:eastAsia"), ea)
 
     part, ep = meta["part"], meta["ep"]
+    season = meta.get("season", "1")
     run(para(2400, 200, True), "TOKYO", 15, "808080", True)
     run(para(0, 100, True), "일본어 낭독 교재", 13, "808080", ea=KO)
-    run(para(600, 100, True), f"{part}부 · {ep}화", 12, "1F3864", True, ea=KO)
+    if season != "1":
+        run(para(400, 40, True), meta.get("series", f"시즌 {season}"), 11, "808080", ea=KO)
+    head = f"{part}부 · {ep}화" if season == "1" else f"시즌 {season} · {part}부 · {ep}화"
+    run(para(600, 100, True), head, 12, "1F3864", True, ea=KO)
     run(para(0, 40, True), meta["title_ja"], 20, "1F3864", True)
     run(para(600, 40, True), meta["subtitle"], 12, "404040", ea=KO)
     run(para(0, 40, True), meta["info"], 9, "595959", ea=KO)
@@ -126,9 +130,14 @@ def build(path):
     run(para(None, 0), nxt, 9, "595959", ea=KO)
 
     safe = re.sub(r'[\\/:*?"<>|\s]+', "_", meta["title_ja"]).strip("_")
-    outdir = os.path.join(ROOT, "화별_대본", f"{part}부")
+    if season == "1":
+        outdir = os.path.join(ROOT, "화별_대본", f"{part}부")
+        fname = f"{part}부_{ep}화_{safe}.docx"
+    else:
+        outdir = os.path.join(ROOT, f"시즌{season}", "화별_대본", f"{part}부")
+        fname = f"S{season}_{part}부_{ep}화_{safe}.docx"
     os.makedirs(outdir, exist_ok=True)
-    out = os.path.join(outdir, f"{part}부_{ep}화_{safe}.docx")
+    out = os.path.join(outdir, fname)
     doc.save(out)
     print(f"ok {total}턴 → {os.path.relpath(out, ROOT)}")
 
