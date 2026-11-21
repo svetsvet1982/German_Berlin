@@ -1,0 +1,294 @@
+#META
+part: 1
+episode: 3
+title: Der Dienstweg
+subtitle_ko: 공식 경로
+place_ko: 과장실과 총리실에서 걸려 온 전화, 그리고 봉인된 캐비닛
+setting: 2026년 11월 10일(화) 아침 여덟 시 → 11일(수) 아침 일곱 시, BND 본부 지하 창고 · 과장실 · 기록부 사무실
+level: B1
+#CAST
+JAKOB | BND 기록보관 부서 사무관 · 44세
+KATRIN | 야콥의 10년 동료 기록 담당자 · 39세
+MERTENS | 지하 창고 관리인 · 61세 · 1986년 풀라흐에서 근무 시작
+FELDMANN | 기록부 과장 Dr. Udo Feldmann · 58세 · 은퇴를 앞두고 있다
+SEIDLITZ | 총리실 국무차관급 정보기관 조정관 Dr. Helene Seidlitz · 63세 · 개혁안 설계자
+RADIO | 뉴스 라디오 아나운서 (가상 방송)
+#INTRO
+※ 밤새 파일을 읽은 야콥과 카트린은 크란츠의 서약서, 담당관 브뤼크너 소령의 이름, 그리고 빠져 있는 47쪽을 확인했습니다. 새벽에는 색인 카드에서 야콥의 아버지 귄터 벤틀란트의 필체까지 발견했습니다. 카트린은 기자에게 넘기자고 했지만, 야콥은 원칙대로 상사에게 보고하기로 합니다. 금요일에는 정보기관 개혁안 표결이 예정되어 있습니다. 상사·외부인과는 Sie를, 야콥과 카트린은 서로 du를 씁니다. 표현 초점: 관공서 어휘 — Dienstweg, Vorgesetzte, versiegeln, Verschlusssache, zuständig.
+#SECTION 도입 — DIENSTAG, ACHT UHR
+RADIO: Guten Morgen, es ist acht Uhr. Noch drei Tage bis zur Abstimmung über die Reform der Nachrichtendienste.
+= 좋은 아침입니다, 여덟 시입니다. 정보기관 개혁안 표결까지 사흘 남았습니다.
+RADIO: Verteidigungsminister Kranz sagte gestern Abend: „Deutschland muss sich endlich wehren können."
+= 크란츠 국방장관은 어젯밤 "독일은 이제 스스로를 지킬 수 있어야 한다"고 말했습니다.
+MERTENS: Morgen, Herr Wendland. Sie sehen aus, als hätten Sie im Magazin geschlafen.
+= 안녕하세요, 벤틀란트 씨. 창고에서 주무신 분 같네요.
+JAKOB: Fast, Herr Mertens. Drei Stunden Schlaf. Machen Sie das Radio bitte etwas leiser?
+= 거의요, 메르텐스 씨. 세 시간 잤어요. 라디오 좀 줄여 주실래요?
+MERTENS: Für Sie immer. Der Minister sagt sowieso jeden Tag dasselbe.
+= 당신을 위해서라면 언제든지요. 장관은 어차피 매일 같은 말만 하니까.
+JAKOB: Ist der Stahlschrank in Ordnung? Der von gestern Abend?
+= 철제 캐비닛은 괜찮아요? 어젯밤 그거요?
+MERTENS: Zu und abgeschlossen. Ich habe heute Morgen kontrolliert. Wie immer.
+= 닫혀 있고 잠겨 있어요. 오늘 아침에 확인했어요. 늘 하듯이요.
+JAKOB: Danke. Wer hat eigentlich noch einen Schlüssel?
+= 고마워요. 그런데 열쇠는 또 누가 갖고 있죠?
+MERTENS: Sie, ich und der Referatsleiter. Drei Schlüssel, seit zwanzig Jahren.
+= 당신, 나, 그리고 과장님. 열쇠 세 개, 20년째 그대로예요.
+KATRIN: Guten Morgen, ihr beiden. Jakob, du siehst furchtbar aus.
+= 좋은 아침, 두 분. 야콥, 너 몰골이 끔찍해.
+JAKOB: Danke. Das hat Herr Mertens auch schon gesagt.
+= 고마워. 메르텐스 씨도 벌써 그 말 했어.
+MERTENS: Ich habe es höflicher gesagt.
+= 저는 좀 더 예의 바르게 말했죠.
+KATRIN: Kaffee? Ich habe dir einen mitgebracht. Schwarz.
+= 커피? 하나 사 왔어. 블랙.
+JAKOB: Du bist ein Engel.
+= 넌 천사야.
+KATRIN: Ich weiß. Hast du schon mit deiner Mutter gesprochen? Wegen der Karte?
+= 알아. 어머니랑은 얘기해 봤어? 그 카드 말이야.
+JAKOB: Nicht am Telefon. So etwas fragt man nicht am Telefon.
+= 전화로는 안 돼. 그런 건 전화로 묻는 게 아니야.
+KATRIN: Und dein Vorgesetzter? Erzählst du Feldmann von deinem Vater?
+= 그럼 네 상사는? 펠트만한테 아버지 얘기 할 거야?
+JAKOB: Ich erzähle ihm, was in der Akte steht. Mein Vater steht nur auf einer Karteikarte.
+= 파일에 있는 걸 얘기할 거야. 아버지는 색인 카드에만 있잖아.
+KATRIN: Das ist eine sehr juristische Antwort.
+= 아주 법률가 같은 대답이네.
+JAKOB: Das ist eine sehr müde Antwort. Um neun bin ich bei ihm.
+= 아주 피곤한 대답이야. 아홉 시에 과장님한테 가.
+KATRIN: Viel Glück, Herr Archivar.
+= 행운을 빌어, 아키비스트 선생님.
+#SECTION 전개 1 — BEIM REFERATSLEITER
+FELDMANN: Kommen Sie rein, Herr Wendland. Sie wollten mich dringend sprechen?
+= 들어오세요, 벤틀란트 씨. 급히 할 얘기가 있다고요?
+JAKOB: Ja. Es geht um einen Fund im Magazin. Gestern Abend, im Altbestand 1990.
+= 네. 창고에서 발견한 게 있습니다. 어제 저녁, 1990년 이관 문서에서요.
+FELDMANN: Im Altbestand? Da gibt es doch keine Überraschungen mehr.
+= 이관 문서에서요? 거긴 이제 놀랄 일이 없을 텐데요.
+JAKOB: Doch. Einen Karton ohne Nummer. Mit einer IM-Akte.
+= 있습니다. 번호 없는 상자요. IM 파일이 들어 있었습니다.
+FELDMANN: Eine IM-Akte? Dafür ist das Stasi-Unterlagen-Archiv zuständig, nicht wir.
+= IM 파일이요? 그건 슈타지 문서고 소관이지, 우리 소관이 아니에요.
+JAKOB: Normalerweise ja. Aber diese Akte ist... besonders.
+= 보통은 그렇죠. 하지만 이 파일은... 특별합니다.
+FELDMANN: Besonders. Wie besonders?
+= 특별하다. 얼마나요?
+JAKOB: Der Deckname ist SPREE. Und die Verpflichtungserklärung hat Joachim Kranz unterschrieben.
+= 암호명은 슈프레입니다. 그리고 서약서에 요아힘 크란츠가 서명했습니다.
+FELDMANN: Joachim Kranz.
+= 요아힘 크란츠.
+JAKOB: Geboren am vierten Juni 1961 in Leipzig. Die Daten passen zum Verteidigungsminister.
+= 1961년 6월 4일 라이프치히 출생. 국방장관과 정보가 일치합니다.
+FELDMANN: Machen Sie bitte die Tür zu.
+= 문 좀 닫아 주세요.
+JAKOB: Sie ist zu.
+= 닫혀 있습니다.
+FELDMANN: Wer weiß davon?
+= 누가 알고 있죠?
+JAKOB: Frau Lorenz und ich. Wir haben den Karton zusammen gefunden.
+= 로렌츠 씨와 저요. 상자를 같이 발견했습니다.
+FELDMANN: Und Herr Mertens?
+= 메르텐스 씨는요?
+JAKOB: Er weiß, dass etwas im Stahlschrank liegt. Aber nicht, was.
+= 철제 캐비닛에 뭔가 있다는 건 압니다. 하지만 뭔지는 모릅니다.
+FELDMANN: Gut. Was steht in der Akte? Kurz, bitte.
+= 좋아요. 파일에 뭐가 있죠? 짧게요.
+JAKOB: Die Erklärung von 1983, Angaben zur Person, Treffberichte bis 1985. Der Führungsoffizier war ein Major Brückner von der HVA.
+= 1983년 서약서, 인적 사항, 1985년까지의 접선 보고서입니다. 담당 장교는 HVA의 브뤼크너 소령이었습니다.
+FELDMANN: Und hat Kranz etwas geliefert? Namen? Informationen?
+= 크란츠가 뭘 넘겼나요? 이름? 정보?
+JAKOB: Bis jetzt nichts Wichtiges. Und eine Seite fehlt. Seite siebenundvierzig.
+= 지금까지는 중요한 게 없습니다. 그리고 한 장이 빠져 있습니다. 47쪽이요.
+FELDMANN: Eine fehlende Seite. Natürlich. Bei solchen Akten fehlt immer eine Seite.
+= 빠진 한 장. 그렇겠죠. 이런 파일엔 늘 한 장이 빠져 있어요.
+JAKOB: Herr Dr. Feldmann, was machen wir jetzt?
+= 펠트만 박사님, 이제 어떻게 하죠?
+FELDMANN: Wissen Sie, was am Freitag ist?
+= 금요일에 뭐가 있는지 압니까?
+JAKOB: Die Abstimmung über die Reform.
+= 개혁안 표결이요.
+FELDMANN: Drei Tage, Herr Wendland. In drei Tagen entscheidet der Bundestag über die Zukunft dieses Hauses. Jetzt geht das nicht.
+= 사흘이에요, 벤틀란트 씨. 사흘 뒤에 연방의회가 이 기관의 미래를 결정합니다. 지금은 안 돼요.
+JAKOB: Was geht nicht? Ich will nichts veröffentlichen. Ich will nur, dass alles korrekt läuft.
+= 뭐가 안 된다는 거죠? 전 공개하려는 게 아닙니다. 그냥 모든 게 절차대로 되길 바랄 뿐이에요.
+FELDMANN: Korrekt heißt jetzt: Ab sofort ist das eine Verschlusssache. Der Karton wird versiegelt, heute noch. Niemand liest weiter.
+= 지금 절차대로라는 건 이겁니다. 지금부터 이건 기밀문서예요. 상자는 오늘 당장 봉인합니다. 아무도 더 읽지 않습니다.
+JAKOB: Und dann?
+= 그 다음엔요?
+FELDMANN: Dann informiere ich den Präsidenten. Und das Kanzleramt. Das ist der Dienstweg.
+= 그 다음엔 제가 원장님께 보고합니다. 그리고 총리실에도요. 그게 공식 경로예요.
+JAKOB: Das Kanzleramt? So schnell?
+= 총리실이요? 그렇게 빨리요?
+FELDMANN: Es geht um einen Minister. Das entscheiden nicht wir im Keller.
+= 장관 일입니다. 지하실에 있는 우리가 정할 문제가 아니에요.
+JAKOB: Verstanden.
+= 알겠습니다.
+FELDMANN: Und, Herr Wendland: kein Wort. Nicht in der Kantine, nicht zu Hause. Wir sind nicht die Presse.
+= 그리고 벤틀란트 씨, 한 마디도 하지 마세요. 구내식당에서도, 집에서도요. 우린 언론이 아닙니다.
+#SECTION 전개 2 — EIN ANRUF AUS DEM KANZLERAMT
+KATRIN: Und? Was hat er gesagt?
+= 그래서? 뭐래?
+JAKOB: Versiegeln. Nicht weiterlesen. Er informiert den Präsidenten und das Kanzleramt.
+= 봉인. 더 읽지 말 것. 원장님과 총리실에 보고한대.
+KATRIN: Das Kanzleramt. Also genau die Leute, die am Freitag die Reform durchbringen wollen.
+= 총리실. 그러니까 금요일에 개혁안을 통과시키려는 바로 그 사람들.
+JAKOB: Das ist der Dienstweg, Katrin.
+= 그게 공식 경로야, 카트린.
+KATRIN: Ja, ja. Dein Telefon klingelt. Unbekannte Nummer.
+= 그래, 그래. 너 전화 온다. 모르는 번호야.
+JAKOB: Wendland, Archiv.
+= 벤틀란트, 기록부입니다.
+SEIDLITZ: Herr Wendland? Hier spricht Helene Seidlitz, Bundeskanzleramt. Haben Sie einen Moment Zeit?
+= 벤틀란트 씨? 총리실의 헬레네 자이들리츠입니다. 잠깐 시간 괜찮으세요?
+JAKOB: Frau Staatssekretärin? Natürlich. Ja.
+= 차관님이요? 물론입니다. 네.
+SEIDLITZ: Dr. Feldmann hat mich vor einer Stunde informiert. Ich wollte Sie persönlich anrufen.
+= 펠트만 박사가 한 시간 전에 보고했어요. 직접 전화드리고 싶었습니다.
+JAKOB: Das ist... sehr freundlich von Ihnen.
+= 그건... 정말 감사합니다.
+SEIDLITZ: Nein, das ist meine Pflicht. Sie haben gestern etwas sehr Wichtiges gefunden. Und Sie haben richtig gehandelt.
+= 아니에요, 제 의무죠. 어제 아주 중요한 걸 찾으셨어요. 그리고 올바르게 행동하셨고요.
+JAKOB: Ich habe nur gemacht, was in den Vorschriften steht.
+= 전 규정에 있는 대로 했을 뿐입니다.
+SEIDLITZ: Genau das meine ich. Wissen Sie, viele Menschen hätten sofort eine Zeitung angerufen.
+= 바로 그 말이에요. 많은 사람이 당장 신문사에 전화했을 거예요.
+JAKOB: Das ist nicht meine Art.
+= 그건 제 방식이 아닙니다.
+SEIDLITZ: Das habe ich gehört. Der Dienstweg unterscheidet uns von der Stasi, Herr Wendland. Regeln, nicht Willkür.
+= 그렇다고 들었어요. 공식 경로야말로 우리를 슈타지와 구별해 주는 거예요, 벤틀란트 씨. 자의가 아니라 규칙이죠.
+JAKOB: Das sehe ich genauso.
+= 저도 똑같이 생각합니다.
+SEIDLITZ: Darf ich Sie etwas fragen? Wer hat die Akte außer Ihnen gesehen?
+= 하나 여쭤봐도 될까요? 당신 말고 누가 그 파일을 봤죠?
+JAKOB: Nur meine Kollegin, Frau Lorenz.
+= 제 동료 로렌츠 씨뿐입니다.
+SEIDLITZ: Frau Lorenz. Gut. Und es gibt keine Kopien?
+= 로렌츠 씨. 좋아요. 그리고 사본은 없죠?
+JAKOB: Nein. Natürlich nicht.
+= 없습니다. 물론이죠.
+SEIDLITZ: Sehr gut. Herr Wendland, am Freitag beschließt der Bundestag ein neues Gesetz. Viele Leute haben Angst davor.
+= 아주 좋아요. 벤틀란트 씨, 금요일에 연방의회가 새 법을 의결합니다. 많은 사람들이 그걸 두려워하죠.
+JAKOB: Ich habe die Kritik in den Nachrichten gehört.
+= 뉴스에서 비판은 들었습니다.
+SEIDLITZ: Aber wir machen das neue Gesetz für Menschen wie Sie. Für Menschen, die ehrlich arbeiten und Schutz brauchen.
+= 하지만 우린 당신 같은 사람들을 위해 새 법을 만드는 거예요. 정직하게 일하고 보호가 필요한 사람들을 위해서요.
+JAKOB: Danke, Frau Staatssekretärin.
+= 감사합니다, 차관님.
+SEIDLITZ: Ich danke Ihnen. Wir brauchen Leute wie Sie. Wenn etwas ist, rufen Sie mich direkt an. Unter dieser Nummer.
+= 제가 감사하죠. 우린 당신 같은 사람이 필요해요. 무슨 일 있으면 저한테 직접 전화하세요. 이 번호로요.
+JAKOB: Das mache ich. Auf Wiederhören.
+= 그러겠습니다. 안녕히 계세요.
+#SECTION 위기 — DAS SIEGEL
+KATRIN: Das Kanzleramt ruft einen Archivar im Keller an. Persönlich. Findest du das normal?
+= 총리실이 지하실 기록 담당자한테 전화를 해. 직접. 그게 정상이라고 생각해?
+JAKOB: Sie war freundlich. Und sie hat recht. Regeln, nicht Willkür.
+= 친절했어. 그리고 맞는 말이야. 자의가 아니라 규칙.
+KATRIN: Was wollte sie wissen?
+= 뭘 알고 싶어 했어?
+JAKOB: Wer die Akte gesehen hat. Und ob es Kopien gibt.
+= 누가 파일을 봤는지. 그리고 사본이 있는지.
+KATRIN: Und was hast du gesagt?
+= 그래서 뭐라고 했어?
+JAKOB: Die Wahrheit. Du und ich. Keine Kopien.
+= 사실대로. 너랑 나. 사본 없음.
+KATRIN: Du hast ihr meinen Namen gegeben?
+= 그 사람한테 내 이름을 말했어?
+JAKOB: Sie ist Staatssekretärin, Katrin. Nicht die Mafia.
+= 차관이야, 카트린. 마피아가 아니라.
+KATRIN: Und das Foto von der Karteikarte?
+= 그럼 색인 카드 사진은?
+JAKOB: Das ist keine Kopie der Akte. Das ist ein Foto für Karta. Das hast du selbst gesagt.
+= 그건 파일 사본이 아니야. 카르타용 사진이지. 네가 그렇게 말했잖아.
+KATRIN: Ach, jetzt bist du plötzlich flexibel.
+= 아, 이제 갑자기 융통성이 생기셨네.
+JAKOB: Lösch es einfach, bitte. Dann gibt es kein Problem.
+= 그냥 지워 줘, 제발. 그럼 문제없어.
+KATRIN: Mache ich. Später.
+= 그럴게. 나중에.
+MERTENS: Herr Wendland? Der Referatsleiter sagt, ich soll mit Ihnen den Schrank versiegeln.
+= 벤틀란트 씨? 과장님이 당신이랑 캐비닛을 봉인하라고 하시네요.
+JAKOB: Ja, kommen Sie. Haben Sie das Siegel dabei?
+= 네, 가시죠. 봉인지 가지고 오셨어요?
+MERTENS: Siegel, Stempel, Formular. Ich habe in vierzig Jahren schon viele Schränke versiegelt.
+= 봉인지, 도장, 서식. 40년 동안 캐비닛을 많이도 봉인했죠.
+JAKOB: Vierzig Jahre? Dann waren Sie schon vor der Wende im Dienst?
+= 40년이요? 그럼 통일 전부터 근무하셨어요?
+MERTENS: Im Westen, in Pullach. 1990 haben wir viele Kartons aus dem Osten bekommen. Ein großes Durcheinander.
+= 서독, 풀라흐에서요. 1990년에 동독에서 상자가 엄청 들어왔죠. 엉망진창이었어요.
+JAKOB: Erinnern Sie sich an einen Karton ohne Nummer?
+= 번호 없는 상자 기억나세요?
+MERTENS: Damals hatte die Hälfte keine Nummer. Wir haben gezählt, nicht gelesen.
+= 그땐 절반이 번호가 없었어요. 우린 세기만 했지 읽지는 않았어요.
+JAKOB: So. Der Schrank ist zu. Bitte das Siegel.
+= 자. 캐비닛 닫혔어요. 봉인지 부탁해요.
+MERTENS: Siegel drauf, Stempel, Datum: zehnter November, fünfzehn Uhr zwölf. Unterschreiben Sie bitte hier.
+= 봉인지 붙이고, 도장, 날짜: 11월 10일 15시 12분. 여기 서명해 주세요.
+JAKOB: Und Sie hier. Jetzt kann ihn niemand öffnen, ohne dass man es sieht.
+= 그리고 당신은 여기요. 이제 아무도 티 안 나게 열 수는 없어요.
+MERTENS: Genau dafür gibt es Siegel. Gegen Neugier.
+= 봉인이 바로 그래서 있는 거죠. 호기심을 막으려고요.
+KATRIN: Und gegen Diebe?
+= 도둑도 막고요?
+MERTENS: Gegen Diebe gibt es Schlösser, Frau Lorenz. Siegel sind für ehrliche Leute.
+= 도둑 막는 건 자물쇠죠, 로렌츠 씨. 봉인은 정직한 사람들용이에요.
+JAKOB: Dann haben wir ja beides. Feierabend für heute.
+= 그럼 둘 다 있는 셈이네요. 오늘은 퇴근합시다.
+KATRIN: Ich bleibe noch kurz. Ich muss noch telefonieren.
+= 난 조금 더 있을게. 전화할 데가 있어서.
+JAKOB: Um diese Zeit? Mit wem?
+= 이 시간에? 누구랑?
+KATRIN: Mit meiner Mutter. Sie ruft immer an, wenn im Fernsehen etwas über die DDR kommt.
+= 엄마랑. TV에 동독 얘기만 나오면 전화하시거든.
+#SECTION 결말 — MITTWOCH, SIEBEN UHR
+JAKOB: Herr Mertens? Sie sind schon da?
+= 메르텐스 씨? 벌써 나오셨어요?
+MERTENS: Ich bin immer um sieben da. Sie aber nicht. Was ist los?
+= 전 늘 일곱 시에 와요. 당신은 아니지만. 무슨 일이에요?
+JAKOB: Ich konnte nicht schlafen. Ich will nur kurz den Schrank sehen.
+= 잠이 안 와서요. 캐비닛만 잠깐 보려고요.
+MERTENS: Das Siegel ist ganz. Sehen Sie? Kein Kratzer.
+= 봉인은 멀쩡해요. 보이죠? 흠집 하나 없어요.
+JAKOB: Ja. Trotzdem. Bitte machen Sie ihn auf.
+= 네. 그래도요. 열어 주세요.
+MERTENS: Ohne Genehmigung darf ich das Siegel nicht brechen.
+= 허가 없이는 봉인을 뜯을 수 없어요.
+JAKOB: Dann schauen wir ins System. Da steht jede Bewegung im Magazin.
+= 그럼 시스템을 봐요. 창고의 모든 이동이 거기 있으니까요.
+MERTENS: Moment. Ich suche den Eintrag von Montag. Magazin U2, Regal vierzehn...
+= 잠깐요. 월요일 기록을 찾을게요. 창고 U2, 14번 선반...
+JAKOB: Mein Eintrag. Montag, dreiundzwanzig Uhr. Fund, Stahlschrank drei.
+= 제 기록이요. 월요일 23시. 발견물, 철제 캐비닛 3번.
+MERTENS: Hier steht nichts. Der Montag ist leer.
+= 여기 아무것도 없어요. 월요일이 비어 있어요.
+JAKOB: Das kann nicht sein. Ich habe es selbst eingetragen. Fundort, Zeit, Inhalt.
+= 그럴 리가 없어요. 제가 직접 입력했어요. 발견 장소, 시간, 내용.
+MERTENS: Und das Siegel von gestern? Das müsste auch drinstehen.
+= 그럼 어제 봉인은요? 그것도 있어야 하는데.
+JAKOB: Steht es drin?
+= 있어요?
+MERTENS: Nein. Das auch nicht.
+= 아뇨. 그것도 없어요.
+JAKOB: Herr Mertens, ich übernehme die Verantwortung. Bitte brechen Sie das Siegel.
+= 메르텐스 씨, 제가 책임질게요. 봉인을 뜯어 주세요.
+MERTENS: Auf Ihre Verantwortung. Ich schreibe es auf. Sieben Uhr vierzehn.
+= 당신 책임으로요. 적어 둘게요. 7시 14분.
+KATRIN: Jakob! Herr Mertens! Was macht ihr denn da?
+= 야콥! 메르텐스 씨! 대체 뭐 하는 거예요?
+JAKOB: Katrin, du bist früh. Komm her. Mach bitte die Lampe an.
+= 카트린, 일찍 왔네. 이리 와. 불 좀 켜 줘.
+MERTENS: So. Der Schrank ist offen.
+= 자. 캐비닛 열렸어요.
+KATRIN: Er ist leer.
+= 비어 있어.
+JAKOB: Das Siegel war ganz. Das Schloss war zu. Und der Karton ist weg.
+= 봉인은 멀쩡했고, 자물쇠도 잠겨 있었어. 그런데 상자가 없어.
+KATRIN: Vielleicht hat Feldmann ihn geholt? Er hat doch einen Schlüssel.
+= 펠트만이 가져갔나? 그 사람도 열쇠가 있잖아.
+MERTENS: Dann müsste es im System stehen. Jede Entnahme. Immer.
+= 그럼 시스템에 있어야 해요. 모든 반출이요. 언제나요.
+JAKOB: Herr Mertens, suchen Sie bitte noch einmal. Nach SPREE. Nach allem.
+= 메르텐스 씨, 한 번만 더 찾아 주세요. 슈프레로요. 전부 다요.
+MERTENS: Kein Eintrag. Weder rein noch raus. Für das System hat es diesen Karton nie gegeben.
+= 기록이 없어요. 들어온 것도, 나간 것도. 시스템상으로는 이 상자가 존재한 적이 없어요.
+#NEXT
+1부 4화 — «Die Kopie»(사본) — 사라진 상자 앞에서 카트린은 휴대폰으로 40쪽을 몰래 찍어 두었다고 고백한다. 충성과 법, 그리고 우정을 두고 두 사람은 처음으로 크게 다투고, 결국 사본을 중앙역 사물함에 숨긴다.
