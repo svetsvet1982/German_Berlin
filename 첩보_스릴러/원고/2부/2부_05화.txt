@@ -16,270 +16,270 @@ AYLIN | BfV 방첩부 팀장 · 야콥의 관리관 · 41세 (전화)
 #INTRO
 ※ 첫 번째 용의자였던 프로젝트 매니저 올브리히는 지난 화에서 지워졌습니다. 그가 엘베 터널 건너편에서 만난 사람은 접선책이 아니라 불륜 상대였습니다. 이제 야콥과 아일린은 '카나리아 트랩'을 실행합니다. 압력 선체 용접 사양서를 네 판본으로 만들고, 판본마다 숫자 하나만 다르게 해서 하름센, 올브리히, 스베타, 그리고 IT 시험 서버에 나눠 줍니다. 판본을 기술적으로 나누는 일은 IT 보안 컨설턴트 카트린이 맡습니다. 조선소 안에서 야콥은 '얀 벤트'이고, 카트린과는 처음 만난 사이처럼 Sie를 씁니다. 둘만 있을 때는 du를 씁니다. 수석설계자 하름센은 금방 야콥에게 du를 쓰기 시작했습니다. 표현 초점: 기술·직장 어휘 — Version, Zugriffsprotokoll, Wandstärke, verteilen, Witwer, Freundschaft / 함부르크 표현 Moin, Schietwetter, Dat is so.
 #SECTION 도입 — DONNERSTAG IM SERVERRAUM
-KATRIN: Tür zu, Jakob. Hier unten hört uns niemand. Nur die Lüfter.
-= 문 닫아, 야콥. 여기 아래선 아무도 우리 말 못 들어. 환풍기들만 듣지.
-JAKOB: Im Keller fühle ich mich sowieso am wohlsten. Das weißt du.
-= 난 어차피 지하실이 제일 편해. 너도 알잖아.
-KATRIN: Herr Archivar im Exil. Also, die vier Dateien sind fertig.
-= 망명 중인 기록관님. 자, 파일 네 개 준비됐어.
-JAKOB: Zeig mal. Hat Frau Demir dir gesagt, welche Zahl wir geändert haben?
-= 보여 줘. 데미르 팀장이 어떤 숫자를 바꿨는지 말해 줬어?
-KATRIN: Nur, dass es die Ringnaht sieben ist. Die Zahl selbst nicht. Ich sehe nur verschlüsselte Dateien.
-= 7번 원주 이음부라는 것만. 숫자 자체는 몰라. 난 암호화된 파일만 봐.
-JAKOB: So soll es sein. Eine Wandstärke, in jeder Version ein Zehntelmillimeter anders.
-= 그래야 해. 두께 하나, 판본마다 0.1밀리미터씩 다르게.
-KATRIN: Genau. Ein Zehntelmillimeter. Das merkt kein Mensch.
-= 맞아. 0.1밀리미터. 사람은 아무도 눈치 못 채.
-JAKOB: Ein Ingenieur merkt so etwas vielleicht. Aber er denkt dann an einen Tippfehler.
-= 엔지니어라면 눈치챌 수도 있어. 그래도 오타라고 생각하겠지.
-KATRIN: Und wer bekommt welche Version? Das muss ich wenigstens wissen.
-= 그럼 누가 어떤 판본을 받아? 그건 적어도 알아야 해.
-JAKOB: Vier Dateien, vier Buchstaben: H für Harmsen, O für Olbrich, S für Sveta, T für den Testserver.
-= 파일 네 개, 글자 네 개. 하름센은 H, 올브리히는 O, 스베타는 S, 시험 서버는 T.
-KATRIN: Und welche Zahl in welcher Datei steckt, wissen nur du und Frau Demir.
-= 그리고 어느 파일에 무슨 숫자가 들었는지는 너랑 데미르 팀장만 알고.
-JAKOB: Nur wir zwei. Nicht einmal auf Papier.
-= 우리 둘만. 종이에도 안 적었어.
-KATRIN: Ein Archivar ohne Papier. Feldmann würde weinen.
-= 종이 없는 기록관이라니. 펠트만이 보면 울겠네.
-JAKOB: Gut. Wer kann alle vier Versionen sehen?
-= 좋아. 네 판본을 전부 볼 수 있는 사람은 누구야?
-KATRIN: Die Dateien? Du, ich und Frau Demir. Sonst niemand. Ich habe die Rechte selbst gesetzt.
-= 파일 말이야? 너, 나, 그리고 데미르 팀장. 그 외엔 아무도 없어. 권한은 내가 직접 설정했어.
-JAKOB: Und die Zugriffsprotokolle?
-= 접근 기록은?
-KATRIN: Laufen ab heute Mittag. Jeder Klick wird gespeichert. Jeder Ausdruck auch.
-= 오늘 정오부터 돌아가. 클릭 하나하나 다 저장돼. 인쇄도 전부.
-JAKOB: Und du verteilst die Dateien? Nicht Olbrich?
-= 그리고 파일은 네가 나눠? 올브리히가 아니고?
-KATRIN: Olbrich drückt nur auf „Senden". Welche Datei wohin geht, entscheidet mein Skript.
+KATRIN: Mach die Tür zu, Jakob, denn hier unten hört uns niemand außer den Lüftern.
+= 문 닫아, 야콥. 여기 아래선 환풍기 말고는 아무도 우리 말 못 들어.
+JAKOB: Im Keller fühle ich mich sowieso am wohlsten, und das weißt du besser als jeder andere.
+= 난 어차피 지하실이 제일 편해. 그건 네가 누구보다 잘 알잖아.
+KATRIN: Willkommen, Herr Archivar im Exil. Also, die vier Dateien sind seit heute Morgen fertig.
+= 어서 와, 망명 중인 기록관님. 자, 파일 네 개는 오늘 아침에 다 준비됐어.
+JAKOB: Zeig sie mir mal. Hat Frau Demir dir eigentlich gesagt, welche Zahl wir geändert haben?
+= 좀 보여 줘. 그런데 데미르 팀장이 우리가 어떤 숫자를 바꿨는지 말해 줬어?
+KATRIN: Sie hat nur gesagt, dass es um die Ringnaht sieben geht, aber die Zahl selbst kenne ich nicht, weil ich nur verschlüsselte Dateien sehe.
+= 7번 원주 이음부라는 것만 말해 줬어. 숫자 자체는 몰라. 난 암호화된 파일만 보거든.
+JAKOB: Genau so soll es sein: eine Wandstärke, die in jeder Version um einen Zehntelmillimeter anders ist.
+= 바로 그래야 해. 판본마다 0.1밀리미터씩 다른 두께 하나.
+KATRIN: Ein Zehntelmillimeter ist so wenig, dass es wirklich kein Mensch merken wird.
+= 0.1밀리미터면 너무 작아서 정말 아무도 눈치 못 챌 거야.
+JAKOB: Ein Ingenieur merkt so etwas vielleicht, aber dann denkt er an einen Tippfehler und vergisst es wieder.
+= 엔지니어라면 눈치챌 수도 있어. 그래도 오타라고 생각하고 다시 잊어버리겠지.
+KATRIN: Und wer bekommt welche Version? Das muss ich wenigstens wissen, damit mein Skript funktioniert.
+= 그럼 누가 어떤 판본을 받아? 내 스크립트가 돌아가려면 그건 적어도 알아야 해.
+JAKOB: Es gibt vier Dateien mit vier Buchstaben: H für Harmsen, O für Olbrich, S für Sveta und T für den Testserver.
+= 파일 네 개에 글자 네 개야. 하름센은 H, 올브리히는 O, 스베타는 S, 시험 서버는 T.
+KATRIN: Und welche Zahl in welcher Datei steckt, wissen am Ende nur du und Frau Demir.
+= 그리고 어느 파일에 무슨 숫자가 들었는지는 결국 너랑 데미르 팀장만 아는 거고.
+JAKOB: Nur wir zwei wissen das, und wir haben es nicht einmal auf Papier aufgeschrieben.
+= 우리 둘만 알아. 종이에도 안 적었어.
+KATRIN: Ein Archivar ohne Papier? Wenn Feldmann das wüsste, würde er bestimmt weinen.
+= 종이 없는 기록관이라니? 펠트만이 알면 분명 울 거야.
+JAKOB: Gut, aber sag mir: Wer kann am Ende alle vier Versionen sehen?
+= 좋아, 그런데 말해 봐. 결국 네 판본을 전부 볼 수 있는 사람은 누구야?
+KATRIN: Die Dateien sehen nur du, ich und Frau Demir, sonst niemand, denn ich habe die Rechte selbst gesetzt.
+= 파일은 너, 나, 데미르 팀장만 봐. 그 외엔 아무도 못 봐. 권한은 내가 직접 설정했거든.
+JAKOB: Und wie ist es mit den Zugriffsprotokollen? Werden die auch aufgezeichnet?
+= 접근 기록은 어때? 그것도 기록돼?
+KATRIN: Die laufen ab heute Mittag, und dann wird jeder Klick und jeder Ausdruck gespeichert.
+= 오늘 정오부터 돌아가. 그때부터 클릭 하나, 인쇄 하나 다 저장돼.
+JAKOB: Und du verteilst die Dateien selbst und nicht Olbrich, obwohl er der Projektleiter ist?
+= 그리고 올브리히가 프로젝트 매니저인데도, 파일은 네가 직접 나눠?
+KATRIN: Olbrich drückt nur auf „Senden“, aber welche Datei wohin geht, entscheidet mein Skript.
 = 올브리히는 '보내기'만 눌러. 어느 파일이 어디로 갈지는 내 스크립트가 정해.
-JAKOB: Dein Skript. Also du.
-= 네 스크립트. 그러니까 너네.
-KATRIN: Also ich. Vertraust du mir etwa nicht, Herr Archivar?
-= 그러니까 나지. 설마 날 못 믿는 거야, 기록관님?
-JAKOB: Dir vertraue ich. Deinem Skript weniger.
-= 너는 믿어. 네 스크립트는 덜 믿고.
-KATRIN: Du und Maschinen. Ihr werdet keine Freunde mehr.
-= 너랑 기계는 앞으로도 친구 되긴 글렀어.
-JAKOB: Dann warten wir auf Freitag.
-= 그럼 금요일을 기다리는 거네.
-KATRIN: Freitag, dreiundzwanzig Uhr. Wie immer. Der Gärtner ist pünktlich.
-= 금요일, 23시. 늘 그렇듯이. 정원사는 시간을 잘 지키니까.
-JAKOB: Sag nicht „der Gärtner". Wir wissen nicht, ob es dieselbe Person ist.
-= '정원사'라고 하지 마. 같은 사람인지 아직 몰라.
-KATRIN: Kleine Blume im Profil, Jakob. Wie in Berlin. Das ist kein Zufall.
-= 프로필에 작은 꽃이잖아, 야콥. 베를린에서처럼. 그건 우연이 아니야.
-JAKOB: Das steht nicht in der Akte. Noch nicht.
-= 그건 파일에 없어. 아직은.
+JAKOB: Dein Skript entscheidet also, und das bedeutet am Ende, dass du entscheidest.
+= 그러니까 네 스크립트가 정하는 거고, 결국은 네가 정한다는 뜻이네.
+KATRIN: Genau, am Ende entscheide ich. Vertraust du mir etwa nicht, Herr Archivar?
+= 맞아, 결국은 내가 정해. 설마 날 못 믿는 거야, 기록관님?
+JAKOB: Dir vertraue ich vollkommen, nur deinem Skript vertraue ich ein bisschen weniger.
+= 너는 완전히 믿어. 네 스크립트를 조금 덜 믿을 뿐이지.
+KATRIN: Du und Maschinen, ihr werdet in diesem Leben wohl keine Freunde mehr.
+= 너랑 기계는 이번 생에선 친구 되긴 글렀나 보다.
+JAKOB: Dann bleibt uns jetzt nichts anderes übrig, als auf den Freitag zu warten.
+= 그럼 이제 금요일을 기다리는 것 말고는 할 게 없네.
+KATRIN: Freitag um dreiundzwanzig Uhr, wie immer, denn der Gärtner ist ja sehr pünktlich.
+= 금요일 23시, 늘 그렇듯이. 정원사는 아주 시간을 잘 지키니까.
+JAKOB: Sag bitte nicht „der Gärtner“, weil wir noch nicht wissen, ob es dieselbe Person ist.
+= '정원사'라고 하지 마. 같은 사람인지 아직 모르잖아.
+KATRIN: Die kleine Blume im Profil ist genau wie in Berlin, Jakob, und das ist bestimmt kein Zufall.
+= 프로필의 작은 꽃이 베를린이랑 똑같잖아, 야콥. 그건 절대 우연이 아니야.
+JAKOB: Das steht nicht in der Akte. Jedenfalls noch nicht, und bis dahin bleibe ich vorsichtig.
+= 그건 파일에 없어. 적어도 아직은. 그때까지 난 조심할 거야.
 #SECTION 전개 1 — DIE VERTEILUNG
-HARMSEN: Moin, Jan! Du siehst aus, als hättest du im Keller geschlafen.
-= 모인, 얀! 꼭 지하실에서 자다 나온 사람 같네.
-JAKOB: Moin, Jens. Fast. Ich war bei der IT wegen meines Passworts.
-= 모인, 옌스. 거의 그래. 비밀번호 때문에 IT에 갔다 왔어.
-HARMSEN: Die IT-Dame aus Potsdam? Frau Lorenz? Die ist streng, was?
-= 포츠담에서 온 IT 아가씨? 로렌츠 씨? 깐깐하지?
-JAKOB: Sehr streng. Sie wollte zwölf Zeichen und eine Zahl.
-= 아주 깐깐해. 열두 글자에 숫자 하나를 넣으래.
-KATRIN: Guten Morgen, Herr Harmsen. Herr Wendt, Ihr neues Passwort funktioniert jetzt.
-= 안녕하세요, 하름센 씨. 벤트 씨, 새 비밀번호 이제 작동해요.
-JAKOB: Danke, Frau Lorenz. Sehr freundlich von Ihnen.
-= 고마워요, 로렌츠 씨. 친절하시네요.
-OLBRICH: Alle mal herhören, bitte! Ich habe nur fünf Minuten.
-= 다들 잠깐 주목해 주세요! 저 5분밖에 없어요.
-HARMSEN: Der Herr Projektleiter hat immer nur fünf Minuten. Dat is so.
-= 프로젝트 매니저님은 항상 5분밖에 없지. 원래 그래.
-OLBRICH: Jens, bitte. Die neue Spezifikation für die Ringnähte ist da.
-= 옌스, 잠깐. 원주 이음부 새 사양서가 나왔어.
-SVETA: Schon wieder neu? Wir haben letzte Woche nach der alten geschweißt.
-= 또 새 거예요? 지난주에 옛날 걸로 용접했는데요.
-OLBRICH: Nur eine kleine Korrektur, Frau Koval. Jeder bekommt seine Datei persönlich.
-= 작은 수정일 뿐이에요, 코발 씨. 각자 파일을 개인적으로 받아요.
-SVETA: Persönlich? Warum nicht wie immer im gemeinsamen Ordner?
-= 개인적으로요? 왜 평소처럼 공용 폴더에 안 올려요?
-OLBRICH: Wegen der Drohnen. Die Sicherheit will es so. Fragen Sie Frau Lorenz.
-= 드론 때문에요. 보안팀이 그렇게 원해요. 로렌츠 씨한테 물어보세요.
-KATRIN: Neue Regeln seit gestern. Weniger Kopien bedeuten weniger Risiko.
-= 어제부터 새 규칙이에요. 사본이 적을수록 위험도 적어요.
-HARMSEN: Drohnen, Drohnen. Seit Dezember redet hier jeder nur über Drohnen.
-= 드론, 드론. 12월부터 여기선 다들 드론 얘기만 해.
-SVETA: Bei uns in Mykolajiw waren Drohnen kein Gesprächsthema. Sie waren einfach da.
-= 우리 미콜라이우에선 드론이 화젯거리가 아니었어요. 그냥 늘 있었죠.
-HARMSEN: Entschuldige, Sveta. Du hast recht. Wir jammern auf hohem Niveau.
-= 미안해, 스베타. 네 말이 맞아. 우린 배부른 투정이지.
-OLBRICH: Gut. Bitte die Dateien heute noch prüfen. Und nicht ausdrucken.
-= 좋아요. 파일은 오늘 안에 확인해 주세요. 그리고 인쇄하지 마시고요.
-HARMSEN: Jan, schau du dir die Ringnaht sieben mit mir an? Vier Augen sehen mehr als zwei.
-= 얀, 7번 원주 이음부 나랑 같이 볼래? 눈 네 개가 두 개보다 많이 보잖아.
-JAKOB: Gern. Aber nur, wenn es danach Kaffee gibt.
-= 좋지. 대신 끝나고 커피 사 주면.
-HARMSEN: Kaffee? Am Samstag gibt es Grog. Kommst du mit nach Finkenwerder?
-= 커피? 토요일엔 그로그지. 핑켄베르더에 같이 갈래?
-JAKOB: Zu deinem Boot? Ist das nicht im Winterlager?
-= 네 보트 보러? 겨울 창고에 있지 않아?
-HARMSEN: Eben drum. Im Winter besucht man seine Freunde. Auch die aus Holz.
-= 그러니까 가는 거지. 겨울엔 친구를 찾아가는 거야. 나무로 된 친구도.
-JAKOB: Dann komme ich. Samstag.
-= 그럼 갈게. 토요일에.
+HARMSEN: Moin, Jan! Du siehst aus, als hättest du die ganze Nacht im Keller geschlafen.
+= 모인, 얀! 꼭 밤새 지하실에서 자다 나온 사람 같네.
+JAKOB: Moin, Jens. So ähnlich war es, denn ich war gerade bei der IT wegen meines Passworts.
+= 모인, 옌스. 비슷해. 방금 비밀번호 때문에 IT에 갔다 왔거든.
+HARMSEN: Bei der IT-Dame aus Potsdam, bei Frau Lorenz? Die ist ziemlich streng, oder?
+= 포츠담에서 온 IT 아가씨, 로렌츠 씨한테? 꽤 깐깐하지?
+JAKOB: Sehr streng, denn sie wollte ein Passwort mit zwölf Zeichen und mindestens einer Zahl.
+= 아주 깐깐해. 열두 글자에 숫자가 최소 하나 들어간 비밀번호를 원했거든.
+KATRIN: Guten Morgen, Herr Harmsen. Herr Wendt, Ihr neues Passwort funktioniert jetzt ohne Probleme.
+= 안녕하세요, 하름센 씨. 벤트 씨, 새 비밀번호 이제 문제없이 작동해요.
+JAKOB: Vielen Dank, Frau Lorenz, das ist sehr freundlich, dass Sie sich so schnell darum gekümmert haben.
+= 정말 고마워요, 로렌츠 씨. 이렇게 빨리 처리해 주시다니 친절하시네요.
+OLBRICH: Alle mal herhören, bitte! Ich habe leider nur fünf Minuten, bevor die nächste Besprechung anfängt.
+= 다들 잠깐 주목해 주세요! 다음 회의 전까지 유감스럽게도 5분밖에 없어요.
+HARMSEN: Der Herr Projektleiter hat immer nur fünf Minuten, das ist bei ihm schon immer so. Dat is so.
+= 프로젝트 매니저님은 항상 5분밖에 없지. 이 사람은 원래 늘 그래.
+OLBRICH: Jens, bitte. Die neue Spezifikation für die Ringnähte ist heute Morgen fertig geworden.
+= 옌스, 좀. 원주 이음부 새 사양서가 오늘 아침에 나왔어.
+SVETA: Schon wieder eine neue Version? Wir haben doch erst letzte Woche nach der alten geschweißt.
+= 또 새 판본이에요? 지난주에야 옛날 걸로 용접했잖아요.
+OLBRICH: Es ist nur eine kleine Korrektur, Frau Koval, und diesmal bekommt jeder seine Datei persönlich.
+= 작은 수정일 뿐이에요, 코발 씨. 그리고 이번엔 각자 파일을 개인적으로 받아요.
+SVETA: Persönlich? Warum legen wir sie nicht wie immer in den gemeinsamen Ordner?
+= 개인적으로요? 왜 평소처럼 공용 폴더에 안 넣어요?
+OLBRICH: Wegen der Drohnen, denn die Sicherheit will es so. Fragen Sie am besten Frau Lorenz.
+= 드론 때문이에요. 보안팀이 그렇게 원하거든요. 로렌츠 씨한테 물어보는 게 제일 좋아요.
+KATRIN: Seit gestern gelten neue Regeln, denn weniger Kopien bedeuten auch weniger Risiko.
+= 어제부터 새 규칙이 적용돼요. 사본이 적을수록 위험도 적으니까요.
+HARMSEN: Drohnen, immer nur Drohnen, denn seit Dezember redet hier jeder nur noch über Drohnen.
+= 드론, 맨날 드론. 12월부터 여기선 다들 드론 얘기밖에 안 해.
+SVETA: Bei uns in Mykolajiw waren Drohnen kein Gesprächsthema, weil sie einfach jeden Tag da waren.
+= 우리 미콜라이우에선 드론이 화젯거리가 아니었어요. 그냥 매일 있었으니까요.
+HARMSEN: Entschuldige, Sveta, du hast völlig recht, denn wir jammern hier wirklich auf hohem Niveau.
+= 미안해, 스베타, 네 말이 완전히 맞아. 우리가 여기서 정말 배부른 투정을 하고 있네.
+OLBRICH: Gut, bitte prüfen Sie die Dateien heute noch, und drucken Sie sie auf keinen Fall aus.
+= 좋아요, 파일은 오늘 안에 확인해 주시고, 절대 인쇄하지 마세요.
+HARMSEN: Jan, schaust du dir die Ringnaht sieben mit mir an? Vier Augen sehen immer mehr als zwei.
+= 얀, 7번 원주 이음부 나랑 같이 볼래? 눈 네 개가 늘 두 개보다 많이 보잖아.
+JAKOB: Gern, Jens, aber nur unter der Bedingung, dass es danach einen guten Kaffee gibt.
+= 좋지, 옌스. 대신 끝나고 맛있는 커피가 있다는 조건으로.
+HARMSEN: Kaffee? Am Samstag gibt es Grog. Kommst du mit mir nach Finkenwerder?
+= 커피? 토요일엔 그로그지. 나랑 핑켄베르더에 같이 갈래?
+JAKOB: Zu deinem Boot? Aber ist das im Februar nicht im Winterlager, auf dem Trockenen?
+= 네 보트 보러? 그런데 2월이면 겨울 창고에서 땅 위에 올려져 있지 않아?
+HARMSEN: Eben drum, denn im Winter besucht man seine Freunde, und zwar auch die aus Holz.
+= 그러니까 가는 거지. 겨울엔 친구를 찾아가는 거야, 나무로 된 친구도.
+JAKOB: Dann komme ich am Samstag gern mit und bringe sogar etwas zu essen mit.
+= 그럼 토요일에 기꺼이 같이 갈게. 먹을 것도 좀 챙겨 갈게.
 #SECTION 전개 2 — FREITAG, DREIUNDZWANZIG UHR
-AYLIN: Herr Wendt, es ist dreiundzwanzig Uhr zwölf. Haben Sie das Forum offen?
+AYLIN: Herr Wendt, es ist dreiundzwanzig Uhr zwölf. Haben Sie das Forum geöffnet?
 = 벤트 씨, 23시 12분이에요. 포럼 열어 놨어요?
-JAKOB: Seit einer Stunde. Ich drücke alle zwei Minuten auf „Aktualisieren".
-= 한 시간째요. 2분마다 '새로 고침'을 누르고 있어요.
-AYLIN: Und?
-= 그래서요?
-JAKOB: Nichts. Kein neuer Beitrag. Die Blume schweigt.
-= 아무것도 없어요. 새 글이 없어요. 꽃이 조용해요.
-AYLIN: Das ist das erste Mal, dass er zu spät ist. Letzte Woche war er auf die Minute pünktlich.
-= 늦는 건 이번이 처음이에요. 지난주엔 분 단위까지 정확했어요.
-JAKOB: Vielleicht hat er die Falle bemerkt.
-= 어쩌면 함정을 눈치챘을지도 모르죠.
-AYLIN: Oder er braucht länger, weil die Datei neu ist. Haben Sie die Protokolle?
-= 아니면 파일이 새 거라서 시간이 더 걸리거나요. 접근 기록은 받았어요?
-JAKOB: Frau Lorenz schickt sie mir morgen früh. Heute war viel los.
-= 로렌츠 씨가 내일 아침에 보내 준대요. 오늘은 일이 많았어요.
-AYLIN: Morgen früh ist zu spät. Ich will sie um sieben auf meinem Tisch.
-= 내일 아침은 너무 늦어요. 일곱 시에 제 책상 위에 있었으면 해요.
-JAKOB: Ich sage es ihr. Darf ich etwas fragen, Frau Demir?
-= 전할게요. 하나 여쭤봐도 돼요, 데미르 팀장님?
-AYLIN: Fragen dürfen Sie immer. Antworten ist etwas anderes.
-= 질문은 언제든 해도 돼요. 대답은 별개지만.
-JAKOB: Wenn morgen eine Version auftaucht, was passiert dann mit der Person?
-= 내일 어떤 판본이 올라오면, 그 사람은 어떻게 돼요?
-AYLIN: Dann prüfen wir. Dann beobachten wir. Und dann entscheide ich.
-= 그럼 확인하죠. 그다음엔 지켜보고요. 그리고 결정은 제가 해요.
-JAKOB: Sie entscheiden. Nicht ich.
-= 팀장님이 결정하시는 거죠. 제가 아니라.
-AYLIN: Sie sind Archivar, Herr Wendt. Sie sammeln. Ich entscheide. So ist die Arbeitsteilung.
-= 벤트 씨는 기록 담당자예요. 모으는 사람이죠. 결정은 내가 해요. 그게 역할 분담이에요.
-JAKOB: Ich gehe morgen mit Harmsen zu seinem Boot.
-= 내일 하름센이랑 그 사람 보트 보러 가요.
-AYLIN: Gut. Hören Sie zu. Fragen Sie nichts Technisches. Lassen Sie ihn reden.
-= 좋아요. 잘 들어요. 기술적인 건 묻지 마세요. 그냥 말하게 두세요.
-JAKOB: Er redet gern. Vor allem über seine Frau.
-= 그 사람 말하는 거 좋아해요. 특히 아내 얘기를.
-AYLIN: Die ist tot, oder?
-= 아내는 죽었죠?
-JAKOB: Seit vier Jahren. Das Boot heißt wie sie. Anke.
-= 4년 됐어요. 보트 이름이 아내 이름이에요. 앙케.
-AYLIN: Dann seien Sie freundlich. Aber vergessen Sie nicht, warum Sie dort sind.
-= 그럼 친절하게 대하세요. 하지만 왜 거기 가는지는 잊지 말고요.
-JAKOB: Ich vergesse so etwas nie. Das ist mein Problem.
-= 전 그런 건 절대 안 잊어요. 그게 제 문제예요.
-AYLIN: Gute Nacht. Und drücken Sie weiter auf „Aktualisieren".
-= 잘 자요. 그리고 계속 '새로 고침' 누르세요.
+JAKOB: Seit einer Stunde, und ich drücke ungefähr alle zwei Minuten auf „Aktualisieren“.
+= 한 시간째요. 대략 2분마다 '새로 고침'을 누르고 있어요.
+AYLIN: Und? Ist inzwischen irgendetwas Neues im Forum aufgetaucht?
+= 그래서요? 그사이 포럼에 뭐 새로 올라온 거 있어요?
+JAKOB: Nichts, es gibt keinen neuen Beitrag, und die kleine Blume schweigt heute.
+= 아무것도 없어요. 새 글이 없고, 작은 꽃은 오늘 조용해요.
+AYLIN: Das ist das erste Mal, dass er zu spät ist, denn letzte Woche war er auf die Minute pünktlich.
+= 늦는 건 이번이 처음이에요. 지난주엔 분 단위까지 정확했거든요.
+JAKOB: Vielleicht hat er die Falle bemerkt und wartet jetzt erst einmal ab.
+= 어쩌면 함정을 눈치채고 일단 지켜보고 있는지도 모르죠.
+AYLIN: Oder er braucht länger, weil die Datei neu ist. Haben Sie schon die Protokolle von Frau Lorenz?
+= 아니면 파일이 새 거라서 시간이 더 걸리거나요. 로렌츠 씨한테서 기록은 벌써 받았어요?
+JAKOB: Frau Lorenz schickt sie mir morgen früh, weil heute in der IT besonders viel los war.
+= 로렌츠 씨가 내일 아침에 보내 준대요. 오늘 IT 쪽에 일이 특히 많았대요.
+AYLIN: Morgen früh ist zu spät, denn ich will die Protokolle um sieben Uhr auf meinem Tisch haben.
+= 내일 아침은 너무 늦어요. 일곱 시엔 기록이 제 책상 위에 있었으면 해요.
+JAKOB: Ich sage es ihr gleich. Darf ich Sie noch etwas Persönliches fragen, Frau Demir?
+= 바로 전할게요. 개인적인 거 하나 더 여쭤봐도 될까요, 데미르 팀장님?
+AYLIN: Fragen dürfen Sie immer, aber ob ich antworte, ist natürlich eine andere Sache.
+= 질문은 언제든 해도 돼요. 하지만 제가 대답할지는 당연히 별개죠.
+JAKOB: Wenn morgen eine der Versionen auftaucht, was passiert dann mit der Person, zu der sie gehört?
+= 내일 판본 중 하나가 올라오면, 그 판본의 주인은 어떻게 돼요?
+AYLIN: Dann prüfen wir zuerst alles, danach beobachten wir die Person, und am Ende entscheide ich.
+= 그럼 먼저 다 확인하고, 그다음엔 그 사람을 지켜보고, 마지막엔 제가 결정해요.
+JAKOB: Sie entscheiden also allein und nicht ich, auch wenn ich die Leute viel besser kenne.
+= 그러니까 제가 그 사람들을 훨씬 잘 아는데도, 결정은 제가 아니라 팀장님 혼자 하시는 거네요.
+AYLIN: Sie sind Archivar, Herr Wendt, also sammeln Sie, und ich entscheide. So ist bei uns die Arbeitsteilung.
+= 벤트 씨는 기록 담당자니까 모으는 거고, 결정은 내가 해요. 그게 우리 역할 분담이에요.
+JAKOB: Übrigens gehe ich morgen mit Harmsen nach Finkenwerder, um sein Boot zu besuchen.
+= 그런데 저 내일 하름센이랑 그 사람 보트 보러 핑켄베르더에 가요.
+AYLIN: Gut, aber hören Sie vor allem zu, fragen Sie nichts Technisches und lassen Sie ihn einfach reden.
+= 좋아요. 그런데 무엇보다 들으세요. 기술적인 건 묻지 말고 그냥 말하게 두세요.
+JAKOB: Er redet sowieso gern, vor allem über seine Frau, die er sehr geliebt hat.
+= 어차피 말하는 거 좋아해요. 특히 아주 사랑했던 아내 얘기를요.
+AYLIN: Seine Frau ist tot, oder? Das stand jedenfalls in seiner Personalakte.
+= 아내는 죽었죠? 적어도 인사 파일엔 그렇게 적혀 있었어요.
+JAKOB: Sie ist seit vier Jahren tot, und das Boot trägt ihren Namen: Anke.
+= 4년 전에 돌아가셨어요. 보트에 아내 이름이 붙어 있어요. 앙케.
+AYLIN: Dann seien Sie freundlich zu ihm, aber vergessen Sie bitte nicht, warum Sie eigentlich dort sind.
+= 그럼 친절하게 대하세요. 하지만 원래 왜 거기 가는지는 제발 잊지 말고요.
+JAKOB: So etwas vergesse ich nie, und genau das ist leider mein Problem.
+= 전 그런 건 절대 안 잊어요. 그리고 유감스럽게도 바로 그게 제 문제예요.
+AYLIN: Gute Nacht, Herr Wendt, und drücken Sie bitte weiter auf „Aktualisieren“.
+= 잘 자요, 벤트 씨. 그리고 계속 '새로 고침' 눌러 주세요.
 #SECTION 위기 — DAS BOOT IM WINTERLAGER
-HARMSEN: Da ist sie. Meine Anke. Sieht auf dem Bock ein bisschen traurig aus, oder?
-= 저기 있다. 우리 앙케. 받침대 위에 있으니까 좀 슬퍼 보이지?
-JAKOB: Sie ist schön. Holz? Heute baut doch jeder aus Kunststoff.
-= 예쁘다. 나무야? 요즘은 다들 플라스틱으로 만들잖아.
-HARMSEN: Mahagoni, Baujahr 1971. Ich habe sie mit Anke zusammen gekauft. Für fast nichts.
-= 마호가니, 1971년식. 앙케랑 같이 샀어. 거의 공짜로.
-JAKOB: Für fast nichts? Ein Holzboot?
-= 거의 공짜로? 나무 보트를?
-HARMSEN: Sie war kaputt. Drei Winter haben wir geschliffen und lackiert. Hier, nimm den Becher.
-= 망가져 있었거든. 겨울 세 번을 갈고 칠했어. 자, 컵 받아.
-JAKOB: Was ist da drin? Es riecht stark.
-= 이 안에 뭐야? 냄새가 독한데.
-HARMSEN: Grog. Rum muss, Zucker kann, Wasser braucht nicht. Alte Regel.
-= 그로그. 럼은 꼭, 설탕은 선택, 물은 필요 없음. 옛날 규칙이야.
-JAKOB: Dann ist das eher Rum mit ein bisschen Wasser.
-= 그럼 이건 거의 물 조금 탄 럼이네.
-HARMSEN: Schietwetter braucht starken Grog. Prost, Jan.
-= 날씨가 이렇게 엉망이면 그로그가 독해야지. 건배, 얀.
-JAKOB: Prost, Jens.
-= 건배, 옌스.
-HARMSEN: Anke hat immer hier vorn gesessen. Ich am Ruder. Sie hat gesagt, wohin wir fahren.
-= 앙케는 늘 여기 앞에 앉았어. 나는 키를 잡고. 어디로 갈지는 그 사람이 정했지.
-JAKOB: Und du hast gehorcht?
-= 그리고 넌 따랐고?
-HARMSEN: Immer. Dreißig Jahre lang. Das war das Geheimnis unserer Ehe.
-= 항상. 30년 동안. 그게 우리 결혼의 비결이었어.
-JAKOB: Bei mir war es umgekehrt. Ich wollte immer wissen, wohin wir fahren. Mit Plan.
-= 나는 반대였어. 난 항상 어디로 가는지 알고 싶었어. 계획대로.
-HARMSEN: Und deine Frau?
-= 그럼 네 아내는?
-JAKOB: Ex-Frau. Sandra wollte einfach losfahren. Ohne Karte.
-= 전 부인. 산드라는 그냥 출발하고 싶어 했어. 지도 없이.
-HARMSEN: Und dann?
-= 그래서?
-JAKOB: Dann ist sie ohne mich losgefahren. Vor sechs Jahren.
-= 그래서 나 없이 출발했지. 6년 전에.
-HARMSEN: Kinder?
-= 애는?
-JAKOB: Eine Tochter. Lea, sechzehn. Sie spielt Basketball und hält mich für altmodisch.
-= 딸 하나. 레아, 열여섯 살. 농구를 하고, 날 구닥다리라고 생각해.
-HARMSEN: Sechzehn. Da halten sie jeden für altmodisch. Mein Enkel auch. Der Mats.
-= 열여섯이면 다들 남을 구닥다리라고 생각하지. 내 손자도 그래. 마츠.
-JAKOB: Wie alt ist er?
-= 몇 살인데?
-HARMSEN: Achtzehn. Er kommt morgen in den Garten. Er will mit mir über etwas reden.
-= 열여덟. 내일 정원에 온대. 나랑 뭔가 얘기하고 싶대.
-JAKOB: Klingt ernst.
-= 심각하게 들리네.
-HARMSEN: Bei Mats ist alles ernst. Er ist wie Anke. Er will immer wissen, warum.
-= 마츠한텐 다 심각해. 앙케를 닮았어. 항상 이유를 알고 싶어 해.
-JAKOB: Vermisst du sie sehr?
-= 아내가 많이 그리워?
-HARMSEN: Jeden Morgen. Abends weniger. Abends bin ich zu müde.
-= 매일 아침에. 저녁엔 덜해. 저녁엔 너무 피곤하거든.
-JAKOB: Und die Arbeit? Hilft die?
-= 일은? 도움이 돼?
-HARMSEN: Die Arbeit hilft. Aber manchmal frage ich mich, wofür ich das alles baue.
-= 일은 도움이 되지. 근데 가끔 내가 이걸 다 뭘 위해 만드는지 모르겠어.
-JAKOB: Für zwölf Boote. Für einen Partner im Norden.
-= 열두 척을 위해서지. 북쪽의 파트너를 위해서.
-HARMSEN: Für Aktionäre, Jan. Für Leute, die nie ein Schweißgerät in der Hand hatten.
-= 주주들을 위해서지, 얀. 용접기 한 번 손에 쥐어 본 적 없는 사람들을 위해서.
-JAKOB: Das klingt bitter.
-= 씁쓸하게 들리네.
-HARMSEN: Das ist Grog. Der macht ehrlich. Komm, noch einen. Du bist jetzt mein Freund, ob du willst oder nicht.
-= 그건 그로그 탓이야. 사람을 솔직하게 만들거든. 자, 한 잔 더. 이제 넌 내 친구야. 네가 원하든 말든.
-JAKOB: Ich will, Jens. Wirklich.
-= 원해, 옌스. 진심으로.
-HARMSEN: Gut. Und im April, wenn sie wieder im Wasser ist, fahren wir zusammen raus. Elbe runter bis Glückstadt.
-= 좋아. 그리고 4월에 이 배가 다시 물에 뜨면 같이 나가자. 엘베 강 따라 글뤽슈타트까지.
-JAKOB: Im April? Ich weiß nicht, ob ich im April noch hier bin.
-= 4월에? 4월에도 내가 여기 있을지 모르겠어.
-HARMSEN: Warum nicht? Gefällt dir die Werft nicht?
-= 왜? 조선소가 마음에 안 들어?
-JAKOB: Doch. Zu gut vielleicht. Das ist neu für mich.
-= 아니, 좋아. 너무 좋아서 문제일지도. 이런 건 나한테 처음이야.
-HARMSEN: Nu man to, Jan. Du denkst zu viel. Wat mutt, dat mutt.
+HARMSEN: Da ist sie, meine Anke. Auf dem Bock sieht sie ein bisschen traurig aus, findest du nicht?
+= 저기 있다, 우리 앙케. 받침대 위에 있으니까 좀 슬퍼 보이지 않아?
+JAKOB: Sie ist wunderschön. Ist sie aus Holz? Heute baut doch fast jeder nur noch aus Kunststoff.
+= 정말 예쁘다. 나무야? 요즘은 거의 다들 플라스틱으로만 만들잖아.
+HARMSEN: Sie ist aus Mahagoni, Baujahr 1971, und ich habe sie damals mit Anke zusammen für fast nichts gekauft.
+= 마호가니고, 1971년식이야. 그때 앙케랑 같이 거의 공짜로 샀어.
+JAKOB: Für fast nichts? Wie ist das möglich bei einem so schönen Holzboot?
+= 거의 공짜로? 이렇게 예쁜 나무 보트가 어떻게 그럴 수 있어?
+HARMSEN: Sie war kaputt, und wir haben drei Winter lang geschliffen und lackiert. Hier, nimm den Becher.
+= 망가져 있었거든. 겨울 세 번 동안 갈고 칠했어. 자, 이 컵 받아.
+JAKOB: Was ist da drin? Es riecht so stark, dass mir schon die Augen tränen.
+= 이 안에 뭐야? 냄새가 너무 독해서 벌써 눈물이 나네.
+HARMSEN: Das ist Grog nach einer alten Regel: Rum muss, Zucker kann, aber Wasser braucht nicht.
+= 옛날 규칙대로 만든 그로그야. 럼은 꼭, 설탕은 선택, 물은 필요 없음.
+JAKOB: Dann ist das hier wohl eher Rum mit einem kleinen bisschen heißem Wasser.
+= 그럼 이건 뜨거운 물 아주 조금 탄 럼에 가깝겠네.
+HARMSEN: Bei so einem Schietwetter braucht man starken Grog. Prost, Jan, auf Anke.
+= 이렇게 날씨가 엉망이면 그로그가 독해야 해. 건배, 얀, 앙케를 위해.
+JAKOB: Prost, Jens, auf Anke und auf die erste Fahrt im Frühling.
+= 건배, 옌스. 앙케를 위해, 그리고 봄의 첫 항해를 위해.
+HARMSEN: Anke hat immer hier vorn gesessen, während ich am Ruder war, und sie hat gesagt, wohin wir fahren.
+= 앙케는 늘 여기 앞에 앉았어. 내가 키를 잡는 동안, 어디로 갈지는 그 사람이 정했지.
+JAKOB: Und du hast immer gemacht, was sie gesagt hat, ohne zu diskutieren?
+= 그리고 넌 따지지도 않고 늘 그 사람 말대로 했고?
+HARMSEN: Immer, dreißig Jahre lang, und das war das ganze Geheimnis unserer Ehe.
+= 항상, 30년 동안. 그게 우리 결혼의 비결 전부였어.
+JAKOB: Bei mir war es genau umgekehrt, denn ich wollte immer wissen, wohin wir fahren, und zwar mit Plan.
+= 나는 정반대였어. 난 항상 어디로 가는지 알고 싶었거든, 그것도 계획대로.
+HARMSEN: Und was hat deine Frau dazu gesagt, dass du immer einen Plan wolltest?
+= 그럼 네가 늘 계획을 원하는 거에 대해 네 아내는 뭐라고 했어?
+JAKOB: Meine Ex-Frau Sandra wollte einfach losfahren, ohne Karte und ohne Ziel.
+= 전 부인 산드라는 그냥 출발하고 싶어 했어. 지도도 목적지도 없이.
+HARMSEN: Und was ist dann passiert, als ihr euch nicht einigen konntet?
+= 그래서 둘이 합의를 못 했을 때 어떻게 됐어?
+JAKOB: Dann ist sie vor sechs Jahren ohne mich losgefahren, und ich bin am Ufer geblieben.
+= 그래서 6년 전에 나 없이 출발했고, 난 강가에 남았지.
+HARMSEN: Habt ihr Kinder, oder hat es dafür nie gepasst?
+= 애는 있어, 아니면 그럴 때가 안 맞았어?
+JAKOB: Wir haben eine Tochter, Lea, sie ist sechzehn, spielt Basketball und hält mich für altmodisch.
+= 딸이 하나 있어. 레아, 열여섯 살인데, 농구를 하고 날 구닥다리라고 생각해.
+HARMSEN: Mit sechzehn halten sie jeden für altmodisch, und mein Enkel Mats ist da genauso.
+= 열여섯이면 다들 남을 구닥다리라고 생각하지. 내 손자 마츠도 똑같아.
+JAKOB: Wie alt ist Mats denn inzwischen, und was macht er?
+= 마츠는 이제 몇 살이고, 뭐 해?
+HARMSEN: Er ist achtzehn und kommt morgen in meinen Garten, weil er mit mir über etwas reden will.
+= 열여덟이야. 나랑 뭔가 얘기하고 싶다고 내일 내 정원에 온대.
+JAKOB: Das klingt ziemlich ernst, wenn ein Achtzehnjähriger extra in den Garten kommt.
+= 열여덟 살이 일부러 정원까지 온다니, 꽤 심각하게 들리네.
+HARMSEN: Bei Mats ist alles ernst, denn er ist wie Anke und will immer wissen, warum.
+= 마츠한텐 다 심각해. 앙케를 닮아서 항상 이유를 알고 싶어 하거든.
+JAKOB: Vermisst du sie sehr, wenn du hier bei ihrem Boot stehst?
+= 이렇게 아내 이름의 보트 옆에 서 있으면 많이 그리워?
+HARMSEN: Jeden Morgen vermisse ich sie, abends weniger, weil ich abends einfach zu müde bin.
+= 매일 아침 그리워. 저녁엔 덜하지. 저녁엔 그냥 너무 피곤하거든.
+JAKOB: Und hilft dir die Arbeit dabei, oder macht sie es manchmal schwerer?
+= 그리고 일이 거기에 도움이 돼, 아니면 가끔 더 힘들게 해?
+HARMSEN: Die Arbeit hilft, aber manchmal frage ich mich, wofür ich das alles eigentlich baue.
+= 일은 도움이 돼. 그런데 가끔 내가 이걸 다 대체 뭘 위해 만드는지 모르겠어.
+JAKOB: Du baust es für zwölf Boote und für einen Partner im Norden, der sich verteidigen will.
+= 열두 척을 위해서, 그리고 스스로를 지키려는 북쪽의 파트너를 위해서 만드는 거지.
+HARMSEN: Ich baue es für Aktionäre, Jan, für Leute, die noch nie ein Schweißgerät in der Hand hatten.
+= 난 주주들을 위해서 만드는 거야, 얀. 용접기 한 번 손에 쥐어 본 적 없는 사람들을 위해서.
+JAKOB: Das klingt ziemlich bitter, Jens, und so habe ich dich bisher noch nicht gehört.
+= 꽤 씁쓸하게 들리네, 옌스. 네가 그렇게 말하는 건 처음 들어.
+HARMSEN: Das ist nur der Grog, der macht ehrlich. Komm, noch einen, denn du bist jetzt mein Freund, ob du willst oder nicht.
+= 그건 그로그 탓이야, 사람을 솔직하게 만들거든. 자, 한 잔 더. 이제 넌 내 친구야, 네가 원하든 말든.
+JAKOB: Ich will es wirklich, Jens, auch wenn ich selbst nicht ganz verstehe, warum es so schnell ging.
+= 정말 원해, 옌스. 왜 이렇게 빨리 그렇게 됐는지 나도 잘 모르겠지만.
+HARMSEN: Gut, und im April, wenn sie wieder im Wasser ist, fahren wir zusammen die Elbe runter bis Glückstadt.
+= 좋아. 그리고 4월에 이 배가 다시 물에 뜨면, 같이 엘베 강 따라 글뤽슈타트까지 내려가자.
+JAKOB: Im April? Ich weiß ehrlich gesagt nicht, ob ich im April überhaupt noch hier bin.
+= 4월에? 솔직히 4월에 내가 여기 있기나 할지 모르겠어.
+HARMSEN: Warum denn nicht? Gefällt dir die Werft etwa nicht, oder hast du schon ein anderes Angebot?
+= 왜? 조선소가 마음에 안 들어, 아니면 벌써 다른 제안이라도 받았어?
+JAKOB: Doch, sie gefällt mir, vielleicht sogar zu gut, und das ist für mich etwas ganz Neues.
+= 아니, 마음에 들어. 어쩌면 너무 좋아서 문제야. 이런 건 나한테 완전히 처음이거든.
+HARMSEN: Nu man to, Jan, du denkst einfach zu viel. Wat mutt, dat mutt.
 = 그냥 해 봐, 얀. 넌 생각이 너무 많아. 해야 할 건 해야 하는 거야.
-JAKOB: Das sagt meine Mutter auch. Nur auf Berlinisch.
-= 우리 엄마도 그런 말 해. 베를린 말로 할 뿐이지.
+JAKOB: Das sagt meine Mutter auch immer, nur eben auf Berlinisch und mit mehr Schimpfwörtern.
+= 우리 엄마도 늘 그런 말 해. 베를린 말로, 욕을 좀 더 섞어서 할 뿐이지.
 #SECTION 결말 — EIN ANRUF AUS HAMMERBROOK
-KATRIN: Jakob? Bist du allein? Ich höre Wind.
-= 야콥? 혼자야? 바람 소리가 들리는데.
-JAKOB: Ich stehe vor der Halle. Jens ist drinnen und deckt das Boot zu. Was ist los?
+KATRIN: Jakob, bist du allein? Ich höre im Hintergrund nur Wind.
+= 야콥, 혼자야? 뒤에서 바람 소리만 들리는데.
+JAKOB: Ich stehe vor der Halle, und Jens ist drinnen und deckt das Boot zu. Was ist denn los?
 = 창고 앞에 서 있어. 옌스는 안에서 보트 덮고 있고. 무슨 일이야?
-KATRIN: Es ist da. Vor zehn Minuten. Ein neuer Beitrag im Forum.
-= 올라왔어. 10분 전에. 포럼에 새 글이.
-JAKOB: Am Samstagabend? Nicht am Freitag?
-= 토요일 저녁에? 금요일이 아니고?
-KATRIN: Einen Tag zu spät. Aber mit Blume. Und mit der Ringnaht sieben.
-= 하루 늦었어. 근데 꽃이 달렸어. 그리고 7번 원주 이음부야.
-JAKOB: Welche Wandstärke?
-= 두께가 몇이야?
-KATRIN: Auf dem Vorschaubild kann man die Zahl nicht lesen. Frau Demirs Leute kaufen gerade die ganze Datei.
-= 미리 보기 이미지로는 숫자가 안 읽혀. 데미르 팀장 쪽 사람들이 지금 파일 전체를 사고 있어.
-JAKOB: Und? Weißt du schon mehr?
-= 그래서? 더 아는 거 있어?
-KATRIN: Sie ruft schon. Ich lege auf.
-= 벌써 전화 오네. 끊을게.
-AYLIN: Herr Wendt. Wo sind Sie gerade?
-= 벤트 씨. 지금 어디예요?
-JAKOB: In Finkenwerder. Vor der Bootshalle.
-= 핑켄베르더요. 보트 창고 앞이에요.
-AYLIN: Ist er bei Ihnen?
-= 그 사람 같이 있어요?
-JAKOB: Er ist drinnen. Zehn Meter von mir entfernt.
-= 안에 있어요. 저한테서 10미터 떨어져서.
-AYLIN: Dann hören Sie gut zu und sagen Sie nichts.
-= 그럼 잘 듣고 아무 말도 하지 마세요.
-JAKOB: Ich höre.
-= 듣고 있어요.
+KATRIN: Es ist da, vor zehn Minuten ist ein neuer Beitrag im Forum aufgetaucht.
+= 올라왔어. 10분 전에 포럼에 새 글이 떴어.
+JAKOB: Am Samstagabend? Nicht am Freitag um dreiundzwanzig Uhr wie immer?
+= 토요일 저녁에? 늘 그렇듯 금요일 23시가 아니고?
+KATRIN: Einen Tag zu spät, aber mit der Blume und mit der Ringnaht sieben.
+= 하루 늦었어. 그런데 꽃이 달렸고, 7번 원주 이음부야.
+JAKOB: Welche Wandstärke steht in der Datei? Das ist jetzt die einzige Frage, die zählt.
+= 파일에 두께가 몇으로 적혀 있어? 지금은 그게 유일하게 중요한 질문이야.
+KATRIN: Auf dem Vorschaubild kann man die Zahl nicht lesen, deshalb kaufen Frau Demirs Leute gerade die ganze Datei.
+= 미리 보기 이미지로는 숫자가 안 읽혀. 그래서 데미르 팀장 쪽 사람들이 지금 파일 전체를 사고 있어.
+JAKOB: Und weißt du inzwischen schon mehr, oder müssen wir warten?
+= 그래서 그사이 더 아는 거 있어, 아니면 기다려야 해?
+KATRIN: Sie ruft dich gerade schon an, deshalb lege ich jetzt auf.
+= 지금 벌써 너한테 전화하고 있어. 그러니까 끊을게.
+AYLIN: Herr Wendt, wo genau sind Sie gerade, und wer ist bei Ihnen?
+= 벤트 씨, 지금 정확히 어디예요, 그리고 누가 같이 있어요?
+JAKOB: Ich bin in Finkenwerder und stehe vor der Bootshalle, ganz allein draußen.
+= 핑켄베르더예요. 보트 창고 앞에 혼자 밖에 서 있어요.
+AYLIN: Ist Harmsen in Ihrer Nähe, sodass er Sie hören könnte?
+= 하름센이 당신 말을 들을 수 있을 만큼 가까이 있어요?
+JAKOB: Er ist drinnen in der Halle, ungefähr zehn Meter von mir entfernt.
+= 창고 안에 있어요. 저한테서 대략 10미터 떨어져서요.
+AYLIN: Dann hören Sie jetzt gut zu und sagen Sie bitte kein einziges Wort.
+= 그럼 이제 잘 듣고, 한마디도 하지 마세요.
+JAKOB: Ich höre zu und sage nichts, versprochen.
+= 듣기만 하고 아무 말도 안 할게요, 약속해요.
 AYLIN: Wir haben die Datei. Achtunddreißig Komma sieben Millimeter. Die Version im Netz ist die von Harmsen.
 = 파일 손에 넣었어요. 38.7밀리미터. 인터넷에 올라온 판본은 하름센 거예요.
 #NEXT
