@@ -23,8 +23,8 @@ JAKOB: Ich weiß. Und wenn sie versucht, mir die Hand zu geben?
 = 알아. 그런데 그 사람이 악수하자고 하면?
 AYLIN: Dann gibst du sie ihr nicht. Einmal reicht.
 = 그럼 하지 마. 한 번이면 충분해.
-SEIDLITZ: Setzen Sie sich, Herr Wendland. Zwei Stühle, ein Tisch, kein Mikrofon. Fast wie früher.
-= 앉으세요, 벤틀란트 씨. 의자 둘, 탁자 하나, 마이크는 없고. 거의 옛날 같네요.
+SEIDLITZ: Setzen Sie sich, Herr Wendland. Zwei Stühle, ein Tisch, kein Mikrofon. Fast wie früher, nicht wahr?
+= 앉으세요, 벤틀란트 씨. 의자 둘, 탁자 하나, 마이크는 없고. 거의 옛날 같네요, 그렇지요?
 JAKOB: Wie früher in Leipzig?
 = 옛날 라이프치히처럼요?
 SEIDLITZ: Wie früher überall. Die wichtigen Gespräche fanden immer in kleinen Zimmern statt.
@@ -156,8 +156,8 @@ JAKOB: Ich weiß. Das habe ich von ihm.
 #SECTION 위기 — FESTNAHME
 AYLIN: Die zehn Minuten sind um.
 = 10분 지났어.
-AYLIN: Frau Dr. Seidlitz, die Bundesanwaltschaft hat einen Haftbefehl erlassen. Wegen geheimdienstlicher Agententätigkeit.
-= 자이들리츠 박사님, 연방검찰이 체포 영장을 발부했습니다. 첩보 활동 혐의입니다.
+AYLIN: Frau Dr. Seidlitz, der Ermittlungsrichter am Bundesgerichtshof hat auf Antrag der Bundesanwaltschaft Haftbefehl erlassen. Wegen geheimdienstlicher Agententätigkeit.
+= 자이들리츠 박사님, 연방검찰의 청구로 연방대법원 수사판사가 체포 영장을 발부했습니다. 첩보 활동 혐의입니다.
 SEIDLITZ: Frau Demir. Sie sind schneller, als ich dachte.
 = 데미르 씨. 생각보다 빠르네요.
 AYLIN: Ich hatte gute Lehrer. Einer davon sitzt neben Ihnen.
@@ -176,12 +176,12 @@ AYLIN: Alles gut, Jakob? Deine Hände zittern.
 = 괜찮아, 야콥? 손이 떨리네.
 JAKOB: Sie sind nur ein bisschen kalt. Hat das jemand anderes auch schon mal gesagt?
 = 그냥 손이 좀 차가워서 그래. 누가 예전에 이런 말 하지 않았나?
-AYLIN: Katrin. Am ersten Abend, im Keller. Du hast es mir in Hamburg erzählt.
-= 카트린. 첫날 밤, 지하에서. 함부르크에서 네가 얘기해 줬잖아.
+AYLIN: Sie. Katrin hat es in Wien erzählt: „Ihr Archivar hat sehr kalte Hände." Das hat die Stimme nach dem Händedruck 2019 gesagt.
+= 그 여자. 카트린이 빈에서 얘기했잖아. "당신네 기록 담당자는 손이 아주 차갑더군요." 2019년 그 악수 뒤에 그 목소리가 한 말이야.
 JAKOB: Aylin, wie geht es jetzt weiter? Mit mir, meine ich.
 = 아일린, 이제 어떻게 되는 거야? 내 얘기야.
-AYLIN: Die Suspendierung wird aufgehoben. Frau Beck hat es vorhin selbst beantragt.
-= 직무 정지는 풀릴 거야. 벡 위원장이 아까 직접 신청했어.
+AYLIN: Dein Haftbefehl ist seit einer Stunde aufgehoben. Und die Suspendierung auch bald. Frau Beck hat es vorhin selbst beantragt.
+= 네 체포 영장은 한 시간 전에 취소됐어. 직무 정지도 곧 풀릴 거고. 벡 위원장이 아까 직접 신청했어.
 JAKOB: Und dann? Wieder in den Keller?
 = 그다음엔? 다시 지하실?
 AYLIN: Du könntest auch zu uns kommen. Köln braucht Leute, die Akten lesen, bevor sie verschwinden.
@@ -231,8 +231,8 @@ LEA: Sieht ziemlich langweilig aus für einen Tatort.
 = 범죄 현장치고는 꽤 지루해 보이는데.
 JAKOB: Für einen Archivar ist jeder Karton ein Tatort.
 = 기록 담당자한테는 모든 상자가 범죄 현장이야.
-LEA: Ich habe die Post von deinem Briefkasten mitgebracht. Eine Karte aus Hamburg und ein Brief aus Moabit.
-= 아빠 우편함에서 우편물 가져왔어. 함부르크에서 온 엽서 하나랑 모아비트에서 온 편지 하나.
+LEA: Ich habe die Post von deinem Briefkasten mitgebracht. Eine Karte aus Hamburg und ein Brief aus dem Frauengefängnis in Lichtenberg.
+= 아빠 우편함에서 우편물 가져왔어. 함부르크에서 온 엽서 하나랑 리히텐베르크 여자 교도소에서 온 편지 하나.
 JAKOB: Lies mir die Karte vor. Meine Brille ist oben.
 = 엽서 좀 읽어 줘. 안경이 위층에 있어.
 LEA: „Moin, Jakob. Die Anke ist wieder im Wasser. Mats hat seinen Fragebogen abgeschickt. Dat is so."
