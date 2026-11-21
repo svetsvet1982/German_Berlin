@@ -255,8 +255,8 @@ LEA: Okay. Emma wohnt ja um die Ecke. Wir fahren zusammen.
 #SECTION 결말 — EINE NACHRICHT
 JAKOB: Frau Hoffmann? Hier ist Jakob Wendland. Entschuldigen Sie die späte Stunde.
 = 호프만 씨? 야콥 벤틀란트입니다. 늦은 시간에 죄송해요.
-MIRA: Herr Wendland! Ich habe nicht mehr mit Ihrem Anruf gerechnet. Was ist passiert?
-= 벤틀란트 씨! 더는 전화 안 하실 줄 알았어요. 무슨 일이에요?
+MIRA: Herr Wendland! Ich habe nicht mehr mit deinem Anruf gerechnet. Was ist passiert?
+= 벤틀란트 씨! 이제 전화 안 할 줄 알았어. 무슨 일이야?
 JAKOB: Jemand hat meine Tochter fotografiert. Als Warnung.
 = 누가 제 딸 사진을 찍었어요. 경고로요.
 MIRA: Das tut mir leid. Wirklich. Geht es ihr gut?
@@ -271,12 +271,12 @@ MIRA: Wo sind sie?
 = 어디 있어요?
 JAKOB: An einem sicheren Ort. Ich hole sie morgen früh. Dann treffen wir uns.
 = 안전한 곳에요. 내일 아침에 가져올게요. 그다음에 만나요.
-MIRA: Gut. Aber nicht in der Redaktion. Ich schicke Ihnen einen Ort.
-= 좋아요. 그런데 편집국은 안 돼요. 장소를 보내 드릴게요.
+MIRA: Gut. Aber nicht in der Redaktion. Ich schicke dir einen Ort.
+= 좋아. 그런데 편집국은 안 돼. 장소를 보내 줄게.
 JAKOB: Und Frau Hoffmann? Sie schreiben nichts, bevor ich es gelesen habe.
 = 그리고 호프만 씨? 제가 읽기 전에는 아무것도 쓰지 마세요.
-MIRA: Abgemacht. Und Herr Wendland? Das war mutig.
-= 그렇게 하죠. 그리고 벤틀란트 씨? 용감한 결정이에요.
+MIRA: Abgemacht. Und Jakob? Das war mutig.
+= 약속할게. 그리고 야콥? 용감한 결정이었어.
 JAKOB: Katrin? Ich bin es. Ich habe gerade mit Mira Hoffmann gesprochen.
 = 카트린? 나야. 방금 미라 호프만이랑 통화했어.
 KATRIN: Mit der Journalistin? Jakob, bist du sicher?
@@ -298,4 +298,4 @@ JAKOB: Katrin? Endlich. Und? Hast du die Kopien?
 KATRIN: Jakob… Fach zweihundertsiebzehn. Der Code stimmt. Die Tür ist offen. Das Schließfach ist leer.
 = 야콥… 217번. 비밀번호는 맞아. 문도 열려. 사물함이 비어 있어.
 #NEXT
-1부 10화 — «Feuer im Magazin»(창고의 불) — 이튿날 새벽, BND 지하 기록 창고에 불이 난다. CCTV에 찍힌 실행범은 텔레그램으로 고용된 청년. 펠트만은 정직 처분을 받고, 사본을 잃은 카트린은 유력한 용의자가 된다. 야콥은 조사관 앞에서 끝까지 카트린을 변호한다.
+1부 10화 — «Feuer im Magazin»(창고의 불) — 이틀 뒤 금요일 새벽, BND 지하 기록 창고에 불이 난다. CCTV에 찍힌 실행범은 텔레그램으로 고용된 청년. 펠트만은 정직 처분을 받고, 사본을 잃은 카트린은 유력한 용의자가 된다. 야콥은 조사관 앞에서 끝까지 카트린을 변호한다.

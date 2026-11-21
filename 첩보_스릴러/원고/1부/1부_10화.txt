@@ -114,8 +114,8 @@ JAKOB: Frau Dr. Haas, der Ausweis öffnet nur die Außentür. Für das Magazin b
 HAAS: Genau da wollte ich hin. Der neue Code. Seit Montag. Wer kannte ihn?
 = 바로 그 얘기를 하려던 참이에요. 새 코드. 월요일부터 쓰는 거. 누가 알고 있었죠?
 #SECTION 전개 2 — DER CODE
-JAKOB: Nach dem Montag hat Dr. Feldmann den Code ändern lassen. Weil der Karton verschwunden war.
-= 월요일 이후에 펠트만 박사님이 코드를 바꾸게 하셨어요. 상자가 사라졌으니까요.
+JAKOB: Am Montag hat Dr. Feldmann den Code ändern lassen. Wegen des verschwundenen Kartons.
+= 월요일에 펠트만 박사님이 코드를 바꾸게 하셨어요. 사라진 상자 때문에요.
 HAAS: Der Karton, den es offiziell nie gab. Ich habe Ihren Bericht gelesen.
 = 공식적으로는 존재한 적 없는 그 상자 말이군요. 보고서 읽었습니다.
 JAKOB: Er existiert. Oder er hat existiert. Ich habe ihn in der Hand gehabt.
@@ -172,8 +172,8 @@ FELDMANN: Ich hätte Ihnen auch sagen sollen: Wir sind auch nicht sicher. Nicht 
 = 이 말도 했어야 했어요. 우리도 안전하지 않다고. 여기서조차.
 JAKOB: Was meinen Sie damit?
 = 그게 무슨 뜻이죠?
-FELDMANN: Fragen Sie sich, wer am Montag als Erster vom Karton wusste. Außer uns. Auf Wiedersehen.
-= 월요일에 우리 말고 누가 제일 먼저 그 상자 얘기를 알았는지 생각해 보세요. 안녕히 계세요.
+FELDMANN: Fragen Sie sich, wen ich am Dienstag als Ersten angerufen habe. Auf Wiedersehen.
+= 화요일에 내가 제일 먼저 누구한테 전화했는지 생각해 보세요. 안녕히 계세요.
 #SECTION 위기 — VERDACHT
 HAAS: Frau Lorenz, ich muss Sie noch einige Minuten allein sprechen. Herr Wendland, bitte warten Sie draußen.
 = 로렌츠 씨, 몇 분만 따로 얘기해야겠어요. 벤틀란트 씨는 밖에서 기다려 주세요.
@@ -256,10 +256,10 @@ JAKOB: Du hast die Kopie gemacht. Ohne dich hätten wir gar nichts gehabt.
 = 네가 사본을 만들었잖아. 너 없었으면 우린 아무것도 없었을 거야.
 KATRIN: Und jetzt haben wir auch nichts. Karta ist verbrannt. Die Kopie ist weg.
 = 그리고 지금도 아무것도 없어. 카르타는 타 버렸고. 사본도 사라졌고.
-JAKOB: Nicht nichts. Wir haben eine Frage. Wer wusste am Montag als Erster vom Karton?
-= 아무것도 없는 건 아니야. 질문이 하나 있지. 월요일에 상자 얘기를 제일 먼저 안 게 누구지?
-KATRIN: Feldmann. Und das Kanzleramt. Seidlitz hat dich doch angerufen, oder?
-= 펠트만. 그리고 총리실. 자이들리츠가 너한테 전화했었잖아, 그렇지?
+JAKOB: Nicht nichts. Wir haben eine Frage. Wen hat Feldmann am Dienstag als Ersten angerufen?
+= 아무것도 없는 건 아니야. 질문이 하나 있지. 화요일에 펠트만이 제일 먼저 전화한 사람이 누구지?
+KATRIN: Das Kanzleramt. Und eine Stunde später hat Seidlitz dich angerufen, oder?
+= 총리실이지. 그리고 한 시간 뒤에 자이들리츠가 너한테 전화했잖아, 그렇지?
 JAKOB: Am Dienstag. Sie war sehr freundlich. Sie hat gesagt, die neue Reform soll Leute wie mich schützen.
 = 화요일에. 아주 친절했어. 새 개혁안이 나 같은 사람을 지키려는 거라고 했지.
 KATRIN: Na, dann. Vielleicht schützt sie dich ja wirklich.
