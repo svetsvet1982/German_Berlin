@@ -1,0 +1,271 @@
+#META
+part: 4
+episode: 12
+title: Die letzte Akte
+subtitle_ko: 마지막 파일
+place_ko: 의사당 작은 회의실, 그리고 1년 뒤 지하 창고
+setting: 2027년 9월 24일(금) 오후, 의사당 작은 회의실 → 에필로그 2027년 11월 9일(화) 오후 다섯 시, BND 본부 지하 창고(Magazin U2)
+level: B2
+#CAST
+JAKOB | BND 기록 담당자 · 45세
+SEIDLITZ | 총리실 국무차관 · 국가안보회의 사무국장 내정자 · 암호명 GÄRTNER
+AYLIN | BfV 방첩부 팀장
+RADIO | 뉴스 라디오 아나운서 (가상 방송)
+KRANZ | 前 연방 국방장관 · 66세 (전화)
+MERTENS | BND 지하 창고 관리인 · 62세
+LEA | 야콥의 딸 · 17세
+#INTRO
+※ 청문회 도중 자이들리츠가 야콥과 단둘이 이야기하겠다고 요청했습니다. 벡 위원장은 조건을 붙여 허락했습니다. 문은 열어 두고, 아일린이 복도에서 기다립니다. 마이크는 없습니다. 이번 화는 시리즈의 마지막 화입니다. 앞부분은 정원사와 기록 담당자의 대화, 뒷부분은 1년 전 상자가 발견된 바로 그날, 2027년 11월 9일 BND 지하 창고의 에필로그입니다. 자이들리츠와 야콥은 끝까지 서로 Sie를 씁니다. 야콥은 아일린, 레아와는 du를 씁니다. 표현 초점: 신념과 책임의 어휘 — Überzeugung, Kontrolle, Verantwortung, Festnahme, Rücktritt, Aufsicht, und noch einmal: Signatur.
+#SECTION 도입 — ZWEI STÜHLE
+AYLIN: Zehn Minuten, Jakob. Die Tür bleibt offen. Ich stehe direkt davor.
+= 10분이야, 야콥. 문은 열어 둘게. 내가 바로 앞에 서 있을 거야.
+JAKOB: Ich weiß. Und wenn sie versucht, mir die Hand zu geben?
+= 알아. 그런데 그 사람이 악수하자고 하면?
+AYLIN: Dann gibst du sie ihr nicht. Einmal reicht.
+= 그럼 하지 마. 한 번이면 충분해.
+SEIDLITZ: Setzen Sie sich, Herr Wendland. Zwei Stühle, ein Tisch, kein Mikrofon. Fast wie früher.
+= 앉으세요, 벤틀란트 씨. 의자 둘, 탁자 하나, 마이크는 없고. 거의 옛날 같네요.
+JAKOB: Wie früher in Leipzig?
+= 옛날 라이프치히처럼요?
+SEIDLITZ: Wie früher überall. Die wichtigen Gespräche fanden immer in kleinen Zimmern statt.
+= 옛날 어디서든 그랬죠. 중요한 대화는 늘 작은 방에서 이뤄졌어요.
+JAKOB: Sie wollten mich sprechen. Ich höre zu.
+= 저와 이야기하고 싶다고 하셨죠. 듣겠습니다.
+SEIDLITZ: Erinnern Sie sich an den Februar 2019? Die Eröffnung der neuen Zentrale in der Chausseestraße?
+= 2019년 2월 기억하세요? 쇼세 거리 새 본부 개청식이요?
+JAKOB: Mein erster Tag im neuen Gebäude. Es gab Sekt in Plastikbechern.
+= 새 건물에서의 첫날이었죠. 플라스틱 컵에 담긴 샴페인이 있었어요.
+SEIDLITZ: Und eine Frau aus dem Kanzleramt, die jedem Mitarbeiter im Archiv die Hand gegeben hat.
+= 그리고 기록부 직원 모두와 악수한 총리실 여자 한 명도요.
+JAKOB: Ich habe es erst im Mai in Wien wieder gewusst. Katrin hat es mir gesagt.
+= 5월에 빈에서야 다시 떠올렸습니다. 카트린이 말해 줬죠.
+SEIDLITZ: Ich wollte damals wissen, wer im Keller sitzt. Wer die Kartons anfasst.
+= 그때 저는 누가 지하에 앉아 있는지 알고 싶었어요. 누가 그 상자들을 만지는지.
+SEIDLITZ: Sie hatten den gleichen Händedruck wie Ihr Vater. Kurz, trocken, ein bisschen zu fest.
+= 당신 악수는 아버지와 똑같았어요. 짧고, 건조하고, 조금 너무 세게.
+JAKOB: Sie haben meinen Vater gekannt.
+= 제 아버지를 아셨군요.
+SEIDLITZ: Ich habe jeden im Archiv der Normannenstraße gekannt. Das war meine Aufgabe.
+= 노르만넨 거리 문서고 사람은 전부 알았어요. 그게 제 임무였으니까요.
+JAKOB: Sie waren neunzehn, zwanzig Jahre alt.
+= 열아홉, 스무 살이셨잖아요.
+SEIDLITZ: Ich war achtzehn, als ich unterschrieben habe. Jünger als Joachim. Und viel überzeugter.
+= 서명했을 때 열여덟이었어요. 요아힘보다 어렸죠. 그리고 훨씬 확신에 차 있었고요.
+JAKOB: Überzeugt wovon? Vom Sozialismus?
+= 무엇에 대한 확신이요? 사회주의요?
+SEIDLITZ: Nein. Das ist der Teil, den Sie nie verstehen werden, wenn ich ihn nicht erkläre.
+= 아니요. 제가 설명하지 않으면 당신은 절대 이해 못 할 부분이 그거예요.
+#SECTION 전개 1 — KONTROLLE
+SEIDLITZ: Ich habe nie an die DDR geglaubt, Herr Wendland. Ich habe an Kontrolle geglaubt.
+= 저는 동독을 믿은 적이 없어요, 벤틀란트 씨. 저는 통제를 믿었어요.
+JAKOB: Das ist kein großer Unterschied.
+= 그게 큰 차이는 아니죠.
+SEIDLITZ: Doch. Die DDR ist gestorben. Die Kontrolle nicht. Sie hat nur die Adresse gewechselt.
+= 차이가 있어요. 동독은 죽었죠. 통제는 아니에요. 주소만 바꿨을 뿐이에요.
+SEIDLITZ: Ein Staat ohne Kontrolle über seine Mächtigen ist ein Staat, der von Zufällen regiert wird.
+= 권력자들을 통제하지 못하는 국가는 우연에 통치당하는 국가예요.
+JAKOB: Und Sie waren die Kontrolle. Mit Akten statt Gesetzen.
+= 그리고 당신이 그 통제였군요. 법 대신 파일로.
+SEIDLITZ: Gesetze ändern sich alle vier Jahre. Eine Akte bleibt. Wer die richtige Akte hat, braucht keine Mehrheit.
+= 법은 4년마다 바뀌어요. 파일은 남죠. 맞는 파일을 가진 사람은 다수가 필요 없어요.
+JAKOB: Darum Joachim Kranz. Sie haben ihn 1983 zu Brückner gebracht, damit Sie ihn später an der Leine haben.
+= 그래서 요아힘 크란츠였군요. 나중에 목줄을 쥐려고 1983년에 그를 브뤼크너에게 데려갔어요.
+SEIDLITZ: Ich habe ihn gefunden, als er zweiundzwanzig war. Klug, ehrgeizig, ängstlich. Die besten Minister sind ängstlich.
+= 그가 스물둘일 때 찾아냈죠. 똑똑하고, 야심 있고, 겁이 많았어요. 최고의 장관은 겁이 많은 법이에요.
+JAKOB: Und Katrin? War sie auch ängstlich genug?
+= 그럼 카트린은요? 그녀도 충분히 겁이 많았나요?
+SEIDLITZ: Frau Lorenz war loyal. Das ist noch besser als Angst. Loyalität kann man umlenken.
+= 로렌츠 씨는 충성스러웠어요. 그건 두려움보다 더 좋죠. 충성은 방향을 돌릴 수 있거든요.
+JAKOB: Sie haben ihre Mutter erpresst, um sie zu bekommen.
+= 그녀를 얻으려고 그녀의 어머니를 협박했잖아요.
+SEIDLITZ: Ich habe ihr eine Akte gezeigt. Den Rest hat sie selbst entschieden.
+= 저는 파일 하나를 보여 줬을 뿐이에요. 나머지는 그녀가 스스로 결정했죠.
+JAKOB: Das sagen alle, die Akten zeigen. Das hat auch Brückner gesagt.
+= 파일을 보여 주는 사람들은 다 그렇게 말해요. 브뤼크너도 그렇게 말했죠.
+SEIDLITZ: Horst war sentimental. Er wollte am Ende nach Hause. Das ist das Gefährlichste in unserem Beruf.
+= 호르스트는 감상적이었어요. 마지막엔 집에 가고 싶어 했죠. 우리 직업에서 그게 제일 위험해요.
+JAKOB: Er ist auf einer Brücke an der March gestorben. Mit Ihrem Namen im Mund.
+= 그는 마르히 강의 다리 위에서 죽었어요. 당신 이름을 입에 담은 채로.
+SEIDLITZ: Ich weiß. Ich habe den Bericht gelesen. Ich lese alle Berichte.
+= 알아요. 보고서를 읽었어요. 저는 모든 보고서를 읽죠.
+JAKOB: Auch den Bericht über das Feuer im Magazin? Über das Schließfach? Über die Werft?
+= 창고 화재 보고서도요? 사물함 보고서도? 조선소 보고서도요?
+SEIDLITZ: Die meisten habe ich selbst bestellt, bevor sie geschrieben wurden.
+= 대부분은 쓰이기도 전에 제가 직접 주문한 거예요.
+JAKOB: Und die neue Reform? Die aktiven Maßnahmen?
+= 그럼 새 개혁은요? 능동적 조치는요?
+SEIDLITZ: Die Reform ist gut, Herr Wendland. Wir brauchen sie wirklich. Gegen Moskau, gegen Sabotage, gegen Drohnen.
+= 그 개혁은 좋은 거예요, 벤틀란트 씨. 정말로 필요해요. 모스크바에 맞서, 사보타주에 맞서, 드론에 맞서.
+SEIDLITZ: Ich wollte nur sicher sein, dass die richtige Person den Schlüssel hält.
+= 저는 그저 열쇠를 맞는 사람이 쥐고 있는지 확실히 하고 싶었을 뿐이에요.
+JAKOB: Die richtige Person. Also Sie.
+= 맞는 사람. 그러니까 당신이요.
+SEIDLITZ: Wer sonst? Sie? Ein Archivar, der an Fehlermeldungen glaubt?
+= 그럼 누가요? 당신이요? 오류 보고서를 믿는 기록 담당자가?
+JAKOB: Ja. Genau so jemand. Jemand, der aufschreibt, was die anderen tun. Auch die mit dem Schlüssel.
+= 네. 바로 그런 사람이요. 남들이 하는 일을 적어 두는 사람. 열쇠를 쥔 사람들 일까지도.
+#SECTION 전개 2 — GÜNTER
+SEIDLITZ: Ihr Vater hat genau das Gleiche gesagt. Im Dezember 1989, im Treppenhaus von Haus sieben.
+= 당신 아버지도 똑같은 말을 했어요. 1989년 12월, 7동 계단에서.
+JAKOB: Sie haben mit ihm gesprochen?
+= 아버지와 이야기하셨어요?
+SEIDLITZ: Ich habe ihn gefragt, warum er am neunten November nicht zur Grenze gegangen ist. Alle anderen waren weg.
+= 왜 11월 9일에 국경으로 가지 않았냐고 물었죠. 다른 사람은 다 떠났는데.
+SEIDLITZ: Er sagte: „Einer muss bleiben und aufschreiben, was ihr vernichtet."
+= 그가 말했어요. "누군가는 남아서 너희가 없애는 걸 적어 둬야 해."
+JAKOB: Dann wussten Sie, dass er Sie kannte.
+= 그럼 아버지가 당신을 알고 있다는 것도 알았겠네요.
+SEIDLITZ: Ich wusste, dass er die Säcke gezählt hat. Jeden einzelnen. Ein Mann, der Säcke zählt, ist gefährlicher als ein Mann mit Pistole.
+= 그가 자루를 셌다는 걸 알았죠. 하나도 빠짐없이. 자루를 세는 남자는 권총을 든 남자보다 위험해요.
+JAKOB: Warum haben Sie ihn nicht… aufgehalten?
+= 왜 아버지를… 막지 않았어요?
+SEIDLITZ: Ich habe es versucht. 1991 stand ein Auto vor Ihrem Haus. Ihr Vater hat danach geschwiegen.
+= 시도했어요. 1991년에 당신 집 앞에 차가 서 있었죠. 그 뒤로 아버지는 입을 다물었고요.
+SEIDLITZ: Aber er hat nie aufgehört zu schreiben. Das habe ich unterschätzt. Das Papier.
+= 하지만 적는 걸 멈추진 않았어요. 그걸 제가 과소평가했죠. 종이를요.
+JAKOB: In seinem Brief steht, Sie hätten nie Angst gehabt.
+= 아버지 편지엔 당신이 한 번도 두려워하지 않았다고 쓰여 있어요.
+SEIDLITZ: Das stimmt nicht ganz. Ihr Vater war der Einzige, vor dem ich Angst hatte.
+= 그건 완전히 맞진 않아요. 당신 아버지는 제가 두려워한 유일한 사람이었어요.
+SEIDLITZ: Und heute, im Saal, als Sie seine Zeichnung von meiner Unterschrift hochgehalten haben, hatte ich sie wieder.
+= 그리고 오늘 청문실에서 당신이 그가 따라 그린 제 서명을 들어 올렸을 때, 그 두려움이 다시 왔어요.
+JAKOB: Mein Vater ist seit achtzehn Jahren tot. Er kann Ihnen nichts mehr tun.
+= 아버지는 돌아가신 지 18년 됐어요. 이제 당신에게 아무것도 못 해요.
+SEIDLITZ: Doch. Er hat einen Sohn, der Akten liest. Das ist schlimmer.
+= 할 수 있어요. 파일을 읽는 아들이 있잖아요. 그게 더 나빠요.
+JAKOB: Warum haben Sie mich in der ersten Woche nicht einfach versetzt? Nach Brüssel, wie Roth es wollte?
+= 왜 첫 주에 저를 그냥 전출시키지 않았어요? 로트가 원했던 것처럼 브뤼셀로요?
+SEIDLITZ: Weil Sie nein gesagt hätten. Und weil ich wissen wollte, wohin Sie gehen.
+= 당신은 거절했을 테니까요. 그리고 당신이 어디로 가는지 알고 싶었어요.
+SEIDLITZ: Sie waren mein bestes Werkzeug, Herr Wendland. Sie haben Brückner gefunden. Ohne Sie hätte ich ihn nie erreicht.
+= 당신은 제 최고의 도구였어요, 벤틀란트 씨. 브뤼크너를 찾아냈잖아요. 당신이 아니었으면 그에게 닿지 못했을 거예요.
+JAKOB: Das steht nicht in der Akte.
+= 그건 파일에 없어요.
+SEIDLITZ: Doch. Jetzt schon. Sie werden es aufschreiben, nicht wahr?
+= 아니요. 이제는 있어요. 당신이 적어 둘 거잖아요, 안 그래요?
+JAKOB: Jedes Wort.
+= 한 마디도 빠짐없이요.
+SEIDLITZ: Dann schreiben Sie auch das: Ich bereue nichts. Ich habe dieses Land jahrzehntelang ruhig gehalten.
+= 그럼 이것도 적어 두세요. 저는 아무것도 후회하지 않아요. 저는 수십 년 동안 이 나라를 조용하게 지켰어요.
+JAKOB: Ruhig ist nicht dasselbe wie frei, Frau Seidlitz.
+= 조용한 것과 자유로운 건 같지 않습니다, 자이들리츠 씨.
+SEIDLITZ: Das hat Ihr Vater auch gesagt. Im Treppenhaus. Er war ein schrecklich ordentlicher Mensch.
+= 당신 아버지도 그렇게 말했어요. 그 계단에서. 끔찍하게 정리를 잘하는 사람이었죠.
+JAKOB: Ich weiß. Das habe ich von ihm.
+= 알아요. 그건 아버지한테 물려받았어요.
+#SECTION 위기 — FESTNAHME
+AYLIN: Die zehn Minuten sind um.
+= 10분 지났어.
+AYLIN: Frau Dr. Seidlitz, die Bundesanwaltschaft hat einen Haftbefehl erlassen. Wegen geheimdienstlicher Agententätigkeit.
+= 자이들리츠 박사님, 연방검찰이 체포 영장을 발부했습니다. 첩보 활동 혐의입니다.
+SEIDLITZ: Frau Demir. Sie sind schneller, als ich dachte.
+= 데미르 씨. 생각보다 빠르네요.
+AYLIN: Ich hatte gute Lehrer. Einer davon sitzt neben Ihnen.
+= 좋은 선생님들이 있었거든요. 그중 하나가 당신 옆에 앉아 있고요.
+SEIDLITZ: Herr Wendland, eine letzte Frage. Welche Nummer bekommt meine Akte?
+= 벤틀란트 씨, 마지막 질문 하나요. 제 파일은 몇 번을 받게 되나요?
+JAKOB: Das entscheide nicht ich. Das entscheiden die Gerichte. Aber sie bekommt eine.
+= 그건 제가 정하지 않아요. 법원이 정하죠. 하지만 번호는 받을 거예요.
+SEIDLITZ: Ihr Vater wäre stolz auf Sie. Das sage ich nicht gern.
+= 당신 아버지가 자랑스러워할 거예요. 이런 말은 하기 싫지만.
+JAKOB: Dann sagen Sie es nicht. Ich habe es schon aufgeschrieben.
+= 그럼 하지 마세요. 저는 이미 적어 뒀어요.
+AYLIN: Bitte, Frau Dr. Seidlitz. Die Kollegen warten draußen.
+= 가시죠, 자이들리츠 박사님. 동료들이 밖에서 기다리고 있습니다.
+AYLIN: Alles gut, Jakob? Deine Hände zittern.
+= 괜찮아, 야콥? 손이 떨리네.
+JAKOB: Sie sind nur ein bisschen kalt. Hat das jemand anderes auch schon mal gesagt?
+= 그냥 손이 좀 차가워서 그래. 누가 예전에 이런 말 하지 않았나?
+AYLIN: Katrin. Am ersten Abend, im Keller. Du hast es mir in Hamburg erzählt.
+= 카트린. 첫날 밤, 지하에서. 함부르크에서 네가 얘기해 줬잖아.
+RADIO: Eilmeldung aus Berlin. Die designierte Leiterin des Sicherheitsrats, Helene Seidlitz, ist festgenommen worden.
+= 베를린에서 속보입니다. 국가안보회의 사무국장 내정자 헬레네 자이들리츠가 체포되었습니다.
+RADIO: Verteidigungsminister Joachim Kranz hat am Abend seinen Rücktritt erklärt.
+= 요아힘 크란츠 국방장관은 저녁에 사임을 발표했습니다.
+RADIO: Kranz sagte: „Ich habe zu lange geschwiegen. Ein Minister darf nicht erpressbar sein."
+= 크란츠는 이렇게 말했습니다. "저는 너무 오래 침묵했습니다. 장관은 협박당할 수 있는 사람이어선 안 됩니다."
+RADIO: Das Parlamentarische Kontrollgremium fordert eine unabhängige Aufsicht über alle aktiven Maßnahmen der Dienste.
+= 정보기관 통제위원회는 정보기관의 모든 능동적 조치에 대한 독립적인 감독을 요구했습니다.
+RADIO: Die Bundesregierung hat die Besetzung des Sicherheitsrats vorerst verschoben.
+= 연방정부는 국가안보회의 인사를 당분간 연기했습니다.
+#SECTION 결말 — DER NEUNTE NOVEMBER
+RADIO: Es ist siebzehn Uhr. Die Nachrichten. Berlin erinnert heute an den Fall der Mauer vor achtunddreißig Jahren.
+= 오후 다섯 시, 뉴스입니다. 베를린은 오늘 38년 전 장벽 붕괴를 기억하고 있습니다.
+RADIO: An der Bernauer Straße haben Schülerinnen und Schüler wieder Kerzen aufgestellt.
+= 베르나우어 거리에서는 학생들이 다시 촛불을 세웠습니다.
+MERTENS: Herr Wendland, Sie sind schon wieder der Letzte im Keller. Wie früher.
+= 벤틀란트 씨, 또 지하에 제일 늦게까지 계시네요. 예전처럼.
+JAKOB: Ich bin seit einer Woche wieder da, Herr Mertens. Ich muss fünf Monate nachholen.
+= 다시 온 지 일주일밖에 안 됐어요, 메르텐스 씨. 다섯 달 치를 따라잡아야 해요.
+MERTENS: Karta hat übrigens wieder einen Fehler gemeldet. Ich habe ihn Ihnen auf den Tisch gelegt.
+= 그런데 카르타가 또 오류를 띄웠어요. 책상 위에 올려 뒀습니다.
+JAKOB: Lassen Sie mich raten. „Verweis auf unbekannte Signatur."
+= 맞혀 볼게요. "알 수 없는 청구번호를 참조함."
+MERTENS: Genau. Ein kleines Notizbuch ohne Nummer. Und ein Brief.
+= 맞아요. 번호 없는 작은 수첩 하나. 그리고 편지 한 통.
+JAKOB: Das ist kein Fehler. Das habe ich heute Morgen selbst hingelegt.
+= 그건 오류가 아니에요. 오늘 아침에 제가 직접 거기 둔 거예요.
+LEA: Papa? Der Mann am Eingang hat mich runtergeschickt. Ist das hier der berühmte Keller?
+= 아빠? 입구에 있는 아저씨가 나를 아래로 보냈어. 여기가 그 유명한 지하실이야?
+JAKOB: Lea! Das ist der berühmte Keller. Regal vierzehn, ganz hinten. Da hat alles angefangen.
+= 레아! 여기가 그 유명한 지하실이야. 14번 선반, 맨 뒤. 거기서 모든 게 시작됐어.
+LEA: Sieht ziemlich langweilig aus für einen Tatort.
+= 범죄 현장치고는 꽤 지루해 보이는데.
+JAKOB: Für einen Archivar ist jeder Karton ein Tatort.
+= 기록 담당자한테는 모든 상자가 범죄 현장이야.
+LEA: Ich habe die Post von deinem Briefkasten mitgebracht. Eine Karte aus Hamburg und ein Brief aus Moabit.
+= 아빠 우편함에서 우편물 가져왔어. 함부르크에서 온 엽서 하나랑 모아비트에서 온 편지 하나.
+JAKOB: Lies mir die Karte vor. Meine Brille ist oben.
+= 엽서 좀 읽어 줘. 안경이 위층에 있어.
+LEA: „Moin, Jakob. Die Anke ist wieder im Wasser. Mats hat seinen Fragebogen abgeschickt. Dat is so."
+= "모인, 야콥. 앙케호가 다시 물에 떴어. 마츠는 설문지를 보냈다. 원래 그런 거지."
+LEA: „Komm im Sommer segeln. Du bist trotzdem ein guter Ingenieur. Jens."
+= "여름에 와서 같이 배 타자. 그래도 넌 좋은 엔지니어야. 옌스."
+JAKOB: Und der Brief?
+= 그리고 편지는?
+LEA: Von Katrin. Soll ich den auch vorlesen?
+= 카트린 아줌마한테서. 이것도 읽어 줄까?
+JAKOB: Nur den letzten Satz. Den Rest lese ich allein.
+= 마지막 문장만. 나머지는 혼자 읽을게.
+LEA: „Drei Jahre sind lang. Aber zum ersten Mal weiß ich, wie lang. Ganz leise laut, K."
+= "3년은 길어. 그래도 처음으로 그게 얼마나 긴지는 알아. 아주 조용히 크게, K."
+JAKOB: Ganz leise laut. Das war ihr Witz. Seit einer Weihnachtsfeier vor neun Jahren.
+= 아주 조용히 크게. 그게 그녀의 농담이었어. 9년 전 크리스마스 파티 때부터.
+LEA: Ich weiß, Papa. Du hast ihn mir hundertmal erzählt.
+= 알아, 아빠. 백 번은 얘기했어.
+JAKOB: Entschuldige. Moment, mein Telefon. … Wendland?
+= 미안. 잠깐, 전화 왔다. … 벤틀란트입니다?
+KRANZ: Herr Wendland? Hier Kranz. Nur noch Kranz, ohne Minister. Ich wollte Ihnen etwas sagen.
+= 벤틀란트 씨? 크란츠입니다. 이제 장관 빼고 그냥 크란츠요. 드릴 말씀이 있어서요.
+KRANZ: Ich habe heute zum ersten Mal seit vierundvierzig Jahren am neunten November keine Angst gehabt.
+= 오늘 44년 만에 처음으로 11월 9일에 두렵지 않았습니다.
+JAKOB: Das freut mich, Herr Kranz. Wirklich.
+= 다행입니다, 크란츠 씨. 정말로요.
+KRANZ: Danke, Jakob. Für alles. Auch für das, was weh getan hat.
+= 고마워요, 야콥. 전부 다요. 아팠던 것까지도.
+LEA: Wer war das? Du lächelst.
+= 누구였어? 아빠 웃고 있어.
+JAKOB: Ein Mann, der seine Akte jetzt selbst trägt.
+= 이제 자기 파일을 스스로 지고 다니는 사람.
+LEA: Und was machst du mit Opas Notizbuch?
+= 그리고 할아버지 수첩은 어떻게 할 거야?
+JAKOB: Lies mal den letzten Satz in seinem Brief. Da, unten.
+= 할아버지 편지 마지막 문장 좀 읽어 봐. 거기, 아래.
+LEA: „Eine Akte ohne Nummer ist eine Akte, die jemand verstecken will. Gib ihr eine Nummer."
+= "번호 없는 파일은 누군가 숨기고 싶어 하는 파일이다. 그 파일에 번호를 붙여라."
+JAKOB: Der Reihe nach. Fundort: Lichtenberg, Keksdose. Datum: neunter November. Signatur: Wendland, eins.
+= 차례대로. 발견 장소: 리히텐베르크, 과자 깡통. 날짜: 11월 9일. 청구번호: 벤틀란트, 1번.
+LEA: Bist du jetzt zufrieden, Herr Archivar?
+= 이제 만족하세요, 기록관님?
+MERTENS: Soll ich es in den Bestand eintragen, Herr Wendland?
+= 이관 목록에 올릴까요, 벤틀란트 씨?
+JAKOB: Ja, Herr Mertens. Ganz offiziell. Mit Stempel.
+= 네, 메르텐스 씨. 아주 공식적으로요. 도장까지 찍어서.
+LEA: Papa? Opa hätte das gefallen, oder?
+= 아빠? 할아버지가 좋아하셨겠지?
+JAKOB: Ja. Er hätte gesagt, es hat zu lange gedauert. Und dann hätte er gelächelt.
+= 응. 너무 오래 걸렸다고 하셨을 거야. 그러고는 웃으셨겠지.
+JAKOB: Jetzt hat sie eine Nummer.
+= 이제 이 파일엔 번호가 있어.
+#NEXT
+— DER GÄRTNER · 끝 — 번호 없는 상자 하나로 시작된 이야기는 번호를 얻은 수첩 하나로 끝납니다. 4부 48화를 함께 읽어 주셔서 감사합니다.

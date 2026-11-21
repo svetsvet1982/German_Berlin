@@ -1,0 +1,268 @@
+#META
+part: 4
+episode: 8
+title: Katrin
+subtitle_ko: 카트린
+place_ko: 호송 차량 → 아일린의 안전가옥
+setting: 2027년 9월 20일(월) 새벽 여섯 시~밤, 베를린 리히텐베르크 교도소 앞 → A10 미헨도르프 휴게소 → 브란덴부르크 제디너 호숫가의 안전가옥
+level: B2
+#CAST
+JAKOB | 수배 중인 前 BND 기록 담당자 · 45세
+AYLIN | BfV 방첩부 팀장 · 41세
+KATRIN | 야콥의 옛 동료 · 40세 · 미결 수감 중, 맞교환을 거부했던 증인
+FAHRER | 민간 경비업체 호송차 운전기사 · 50대
+BENDER | 아일린의 팀원 · 무전 목소리
+MIRA | 『Berliner Abendpost』 기자 · 37세 (전화)
+#INTRO
+※ 카트린은 빈의 국경 다리에서 맞교환을 거부하고 독일에 남았습니다. 지금은 리히텐베르크 교도소에서 재판을 기다리고 있습니다. 그런데 갑자기 카를스루에로 이감하라는 지시가 나왔습니다. 호송은 경찰이 아니라 민간 경비업체가 맡고, 경로는 고속도로가 아닌 벨리츠 근처 국도입니다. 그 커브에는 운전자 없는 트럭이 시동을 건 채 서 있었습니다. BfV는 경찰이 아니라서 누구도 체포하거나 멈춰 세울 수 없습니다. 아일린이 쓸 수 있는 길은 단 하나, 보호를 요청한 사람을 보호하는 것입니다. 야콥과 카트린은 함부르크 이후 처음으로 단둘이 오래 이야기합니다. 처음에는 카트린이 Sie를 쓰지만, 둘은 결국 du로 돌아갑니다. 표현 초점: 화해와 증언 — verzeihen, Schuld, aussagen, Wort halten, sich stellen, Kronzeugin.
+#SECTION 도입 — SECHS UHR, ALFREDSTRASSE
+BENDER: Bender an Demir. Der Transporter verlässt gerade das Tor. Weißer Kastenwagen, Firmenaufdruck „Securo Logistik".
+= 벤더가 데미르에게. 호송차가 지금 정문을 나갑니다. 흰색 승합차, 차체에 '세쿠로 로지스틱' 글씨.
+AYLIN: Verstanden. Wie viele Leute?
+= 알았어. 몇 명이야?
+BENDER: Ein Fahrer. Hinten die Gefangene. Keine Begleitung. Kein zweites Fahrzeug.
+= 운전자 한 명. 뒤에 수감자. 동행 없음. 두 번째 차량 없음.
+JAKOB: Ein einziger Fahrer für eine Gefangene, die nach Karlsruhe soll? Das ist gegen jede Vorschrift.
+= 카를스루에로 가는 수감자한테 운전자 딱 한 명? 그건 모든 규정에 어긋나.
+AYLIN: Du und deine Vorschriften. Zieh die Mütze tiefer. Du siehst aus wie dein Fahndungsfoto.
+= 너랑 네 규정들. 모자 더 눌러써. 수배 사진이랑 똑같이 생겼어.
+JAKOB: Ich sehe immer aus wie mein Fahndungsfoto. Das ist ja das Problem.
+= 난 언제나 수배 사진처럼 생겼어. 그게 문제지.
+AYLIN: Bender, wie steht es mit dem Lkw bei Beelitz?
+= 벤더, 벨리츠 트럭은 어떻게 됐어?
+BENDER: Steht noch da. Ich habe vor einer Stunde die Polizei Brandenburg angerufen. Anonym. „Gefahrenstelle, Lkw ohne Fahrer."
+= 아직 거기 있습니다. 한 시간 전에 브란덴부르크 경찰에 전화했어요. 익명으로요. "위험 지점, 운전자 없는 트럭."
+AYLIN: Und?
+= 그래서?
+BENDER: Die Landstraße ist ab sieben Uhr voll gesperrt. Der Transporter muss über die Autobahn. Über Michendorf.
+= 그 국도는 일곱 시부터 전면 통제입니다. 호송차는 고속도로로 가야 해요. 미헨도르프를 거쳐서요.
+JAKOB: Und dort ist eine Raststätte.
+= 그리고 거기엔 휴게소가 있지.
+AYLIN: Und jeder Fahrer, der um sechs losfährt, braucht um sieben einen Kaffee.
+= 그리고 여섯 시에 출발한 운전자라면 누구나 일곱 시엔 커피가 필요해.
+JAKOB: Und wenn er keinen Kaffee trinkt?
+= 커피를 안 마시면?
+AYLIN: Dann haben wir ein Problem. Aber ich habe noch nie einen Fahrer getroffen, der keinen Kaffee trinkt.
+= 그럼 문제가 생기는 거지. 그런데 커피 안 마시는 운전기사는 아직 한 번도 못 봤어.
+JAKOB: Aylin, du darfst niemanden festnehmen. Du darfst nicht mal ein Auto anhalten.
+= 아일린, 넌 아무도 체포할 수 없어. 차 한 대 세울 권한도 없잖아.
+AYLIN: Ich weiß. Ich werde niemanden festnehmen. Ich werde nur fragen.
+= 알아. 아무도 체포 안 할 거야. 그냥 물어볼 거야.
+JAKOB: Fragen?
+= 물어본다고?
+AYLIN: Ob Katrin Lorenz um Schutz bittet. Wenn sie Ja sagt, ist sie meine Zeugin. Das darf ich.
+= 카트린 로렌츠가 보호를 요청하는지. 그렇다고 하면, 그녀는 내 증인이 되는 거야. 그건 할 수 있어.
+#SECTION 전개 1 — RASTSTÄTTE MICHENDORF
+BENDER: Er fährt raus. Michendorf Süd. Er parkt neben der Tankstelle.
+= 나갑니다. 미헨도르프 남쪽. 주유소 옆에 주차하네요.
+AYLIN: Bleib im Auto, Jakob. Bis ich dich rufe.
+= 차에 있어, 야콥. 내가 부를 때까지.
+FAHRER: Ja? Was wollen Sie? Ich habe keine Zeit, ich habe eine Gefangene im Wagen.
+= 네? 뭐예요? 시간 없어요, 차에 수감자가 있다고요.
+AYLIN: Guten Morgen. Demir, Bundesamt für Verfassungsschutz. Hier ist mein Ausweis.
+= 안녕하세요. 연방헌법수호청 데미르입니다. 신분증이에요.
+FAHRER: Verfassungsschutz? Das steht nicht in meinem Auftrag.
+= 헌법수호청이요? 그건 제 지시서에 없는데요.
+AYLIN: Was steht denn in Ihrem Auftrag? Darf ich ihn sehen?
+= 지시서엔 뭐라고 쓰여 있는데요? 봐도 될까요?
+FAHRER: Abholung Lichtenberg, sechs Uhr. Route über Beelitz, Landstraße. Keine Pausen. Keine Telefonate mit der Gefangenen.
+= 리히텐베르크 픽업, 여섯 시. 벨리츠 경유 국도. 휴식 없음. 수감자와 통화 금지.
+AYLIN: Keine Pausen. Und trotzdem stehen Sie hier.
+= 휴식 없음. 그런데도 여기 서 계시네요.
+FAHRER: Die Landstraße ist gesperrt. Ich habe meine Zentrale angerufen, aber da geht keiner ran.
+= 국도가 통제됐어요. 본부에 전화했는데 아무도 안 받아요.
+AYLIN: Wer hat Ihnen den Auftrag gegeben? Ihre Firma?
+= 이 일은 누가 맡겼어요? 회사요?
+FAHRER: Eine Behörde. „Koordinierungsstelle". Mehr weiß ich nicht. Gute Bezahlung, kurzer Vertrag.
+= 어떤 관청이요. '조정 담당 부서'라고. 그 이상은 몰라요. 보수 좋고, 단기 계약이고.
+AYLIN: Darf ich Ihnen etwas zeigen? Ein Foto von gestern. Die Kurve bei Beelitz.
+= 뭐 좀 보여 드려도 될까요? 어제 찍은 사진이에요. 벨리츠 근처 커브.
+FAHRER: Ein Lkw. Und? Da stehen viele Lkws.
+= 트럭이네. 그게 뭐요? 트럭이야 많이 서 있죠.
+AYLIN: Ohne Fahrer. Mit laufendem Motor. Genau an der Stelle, an der Sie heute um halb acht vorbeigefahren wären.
+= 운전자 없이. 시동 걸린 채로요. 당신이 오늘 일곱 시 반에 지나갔을 바로 그 지점에요.
+FAHRER: Was wollen Sie damit sagen?
+= 무슨 말이 하고 싶은 거예요?
+AYLIN: Dass in Ihrem Auftrag nicht steht, dass Sie ankommen sollen.
+= 당신 지시서에는 도착하라는 말이 없다는 거요.
+FAHRER: Ich habe zwei Kinder, Frau… Demir. Ich fahre Gefangene. Ich mache keine Politik.
+= 저 애가 둘이에요, 데… 데미르 씨. 전 수감자를 나를 뿐이에요. 정치는 안 해요.
+AYLIN: Dann machen Sie heute auch keine. Fragen Sie die Gefangene einfach eine Sache. Ob sie mit mir sprechen will.
+= 그럼 오늘도 하지 마세요. 수감자한테 딱 한 가지만 물어보세요. 저랑 얘기하고 싶은지.
+FAHRER: Und wenn nicht?
+= 싫다고 하면요?
+AYLIN: Dann fahren Sie weiter. Über die Autobahn. Mit meiner Telefonnummer in der Tasche.
+= 그럼 계속 가세요. 고속도로로. 제 전화번호를 주머니에 넣고요.
+FAHRER: Sie da hinten. Hier ist eine Frau vom Verfassungsschutz. Sie fragt, ob Sie mit ihr reden wollen.
+= 거기 뒤에. 헌법수호청에서 온 여자분이 있어요. 이분이랑 얘기하고 싶은지 묻는데요.
+KATRIN: Mit Frau Demir? Nein. Ich habe in Wien genug mit ihr geredet.
+= 데미르 씨랑요? 싫어요. 빈에서 실컷 얘기했어요.
+AYLIN: Jakob. Jetzt.
+= 야콥. 지금.
+#SECTION 전개 2 — ICH BITTE UM SCHUTZ
+JAKOB: Katrin. Ich bin's.
+= 카트린. 나야.
+KATRIN: Jakob? Was machst du hier? Du wirst gesucht. Ich habe es im Radio gehört.
+= 야콥? 여기서 뭐 해? 너 수배 중이잖아. 라디오에서 들었어.
+JAKOB: Ich weiß. Hör mir zu. Dieser Wagen kommt nicht in Karlsruhe an.
+= 알아. 내 말 들어. 이 차는 카를스루에에 도착하지 못해.
+KATRIN: Was redest du da?
+= 무슨 소리야?
+JAKOB: Bei Beelitz wartet ein Lkw. Niemand hat dich nach Karlsruhe bestellt. Jemand hat dich auf eine Landstraße bestellt.
+= 벨리츠에 트럭이 기다리고 있어. 아무도 널 카를스루에로 부르지 않았어. 누군가 널 국도로 부른 거야.
+KATRIN: Sie.
+= 그 여자구나.
+JAKOB: Ja. Sie.
+= 응. 그 여자.
+KATRIN: Und jetzt? Willst du mich befreien? Das ist strafbar. Für euch beide.
+= 그래서 이제? 날 빼내려고? 그건 범죄야. 너희 둘 다한테.
+AYLIN: Niemand befreit hier jemanden. Sie müssen nur einen Satz sagen, Frau Lorenz. Laut und deutlich.
+= 여기서 아무도 누굴 빼내지 않아요. 한 문장만 말하면 돼요, 로렌츠 씨. 크고 분명하게.
+KATRIN: Welchen Satz?
+= 무슨 문장이요?
+AYLIN: „Ich bitte um Schutz." Dann sind Sie eine gefährdete Zeugin, und ich bin zuständig.
+= "보호를 요청합니다." 그럼 당신은 위험에 처한 증인이 되고, 제가 담당자가 되는 거예요.
+KATRIN: Und dann? Dann sitze ich nicht in Karlsruhe, sondern bei Ihnen. Wo ist der Unterschied?
+= 그다음엔요? 카를스루에 대신 당신 옆에 앉아 있겠죠. 뭐가 다른데요?
+JAKOB: Der Unterschied ist, dass du morgen noch lebst.
+= 다른 건, 넌 내일도 살아 있다는 거야.
+KATRIN: Jakob. Ich habe dich in Hamburg verraten. In Berlin auch. Warum stehst du hier?
+= 야콥. 난 함부르크에서 널 배신했어. 베를린에서도. 그런데 왜 여기 서 있어?
+JAKOB: Weil du in Wien nicht über die Brücke gegangen bist.
+= 넌 빈에서 그 다리를 건너지 않았으니까.
+KATRIN: Das war nicht für dich.
+= 그건 널 위해서가 아니었어.
+JAKOB: Ich weiß. Das war für dich. Deshalb glaube ich dir zum ersten Mal wieder.
+= 알아. 너 자신을 위해서였지. 그래서 처음으로 다시 널 믿는 거야.
+FAHRER: Leute, ich muss mich entscheiden. Meine Zentrale ruft immer noch nicht zurück.
+= 여러분, 저도 결정해야 해요. 본부는 아직도 연락이 없어요.
+KATRIN: Ich bitte um Schutz.
+= 보호를 요청합니다.
+AYLIN: Danke. Herr Fahrer, ich brauche Ihre Unterschrift. Übergabe einer Zeugin an das Bundesamt.
+= 고마워요. 기사님, 서명이 필요해요. 증인을 연방헌법수호청에 인계한다는 서명이요.
+FAHRER: Eine Übergabe? Dafür habe ich kein Formular.
+= 인계요? 그런 양식은 없는데요.
+JAKOB: Ich schreibe Ihnen eins. Ort, Datum, Uhrzeit, Zustand der Person. Sieben Uhr zwölf.
+= 제가 써 드릴게요. 장소, 날짜, 시각, 인물 상태. 7시 12분.
+KATRIN: Natürlich schreibst du ein Protokoll. Mitten auf einer Raststätte.
+= 당연히 기록을 쓰시겠지. 휴게소 한복판에서.
+JAKOB: Für einen Archivar ist jede Raststätte ein Tatort.
+= 기록 담당자한테는 모든 휴게소가 범죄 현장이야.
+KATRIN: Das hast du schon mal gesagt. Im Keller. Vor einem Karton.
+= 그 말 전에도 했었어. 지하실에서. 상자 앞에서.
+BENDER: Bender an Demir. Der Lkw bei Beelitz ist gerade weggefahren. Richtung Süden. Ohne Licht.
+= 벤더가 데미르에게. 벨리츠 트럭이 방금 떠났습니다. 남쪽으로. 불도 안 켜고.
+AYLIN: Dann wissen sie, dass niemand kommt. Wir fahren. Sofort.
+= 그럼 아무도 안 온다는 걸 알았다는 거네. 출발하자. 당장.
+#SECTION 위기 — DAS HAUS AM SEE
+AYLIN: Das Haus gehört meiner Tante. Kein Telefon, kein Internet. Nur ein Kamin und sehr viele Mücken.
+= 이 집은 우리 이모 거야. 전화도, 인터넷도 없어. 벽난로랑 모기만 아주 많아.
+KATRIN: Und Sie? Wo sind Sie?
+= 그럼 당신은요? 어디 있을 건데요?
+AYLIN: Draußen. Im Auto. Ich höre nichts, was ich nicht hören muss. Ihr habt eine Stunde.
+= 밖에. 차 안에. 들을 필요 없는 건 안 들어요. 한 시간 줄게요.
+KATRIN: Eine Stunde. Nach sieben Monaten.
+= 한 시간. 일곱 달 만에.
+JAKOB: Willst du Tee? Es gibt nur Pfefferminze.
+= 차 마실래? 페퍼민트밖에 없어.
+KATRIN: Seit wann trinkst du Tee? Du trinkst Kaffee. Schwarz.
+= 언제부터 차를 마셨어? 넌 커피 마시잖아. 블랙으로.
+JAKOB: Seit ich nachts in einem Schrank in Marzahn schlafe. Kaffee macht zu laut.
+= 마르찬에서 벽장 속에서 자면서부터. 커피는 너무 시끄러워.
+KATRIN: Ganz leise laut.
+= 아주 조용히 시끄럽게.
+JAKOB: Ganz leise laut.
+= 아주 조용히 시끄럽게.
+KATRIN: Wie geht es Lea?
+= 레아는 어때?
+JAKOB: Sie hat einen Geheimdienst gegründet. Mit einer Sporttasche und einer Lernplattform.
+= 정보기관을 하나 차렸어. 운동 가방이랑 학습 플랫폼으로.
+KATRIN: Natürlich hat sie das. Sie ist deine Tochter.
+= 당연하지. 네 딸이잖아.
+JAKOB: Deine Mutter hat mir geschrieben, Katrin. Im Juli. Einen Brief, mit der Hand.
+= 너희 어머니가 나한테 편지를 보내셨어, 카트린. 7월에. 손으로 쓴 편지.
+KATRIN: Meine Mutter? Was wollte sie?
+= 우리 엄마가? 뭘 원하셨는데?
+JAKOB: Sie hat geschrieben: „Meine Tochter hat neun Jahre lang für meine Schuld bezahlt. Das ist genug."
+= 이렇게 쓰셨어. "제 딸은 9년 동안 제 죄값을 치렀습니다. 이제 충분합니다."
+KATRIN: Das hat sie geschrieben? Sie hat nie über ihre Akte gesprochen. Nicht ein Mal.
+= 그렇게 썼다고? 엄마는 자기 파일에 대해 한 번도 말한 적 없어. 단 한 번도.
+JAKOB: Und dann: „Sagen Sie ihr, sie soll nicht mehr schweigen. Nicht für mich."
+= 그리고 이렇게. "그 애한테 더는 입 다물지 말라고 전해 주세요. 저 때문이라면 더더욱."
+KATRIN: Jakob, ich weiß nicht, ob ich das kann.
+= 야콥, 내가 그럴 수 있을지 모르겠어.
+JAKOB: Was genau?
+= 뭘 말이야?
+KATRIN: Ihren Namen sagen. Neun Jahre lang war sie nur eine Stimme. Wenn ich ihn sage, ist sie ein Mensch. Und ich bin wieder ein Mensch, der Fehler gemacht hat.
+= 그 여자 이름을 말하는 거. 9년 동안 그 여자는 그냥 목소리였어. 이름을 말하면 그 여자는 사람이 돼. 그리고 나도 다시 잘못을 저지른 사람이 되는 거고.
+JAKOB: Du bist schon ein Mensch, der Fehler gemacht hat. Wie wir alle. Die Frage ist nur, was danach kommt.
+= 넌 이미 잘못을 저지른 사람이야. 우리 모두처럼. 문제는 그다음에 뭐가 오느냐지.
+KATRIN: Weißt du, wann ich es sicher wusste? Wer sie ist?
+= 내가 언제 확실히 알았는지 알아? 그 여자가 누군지?
+JAKOB: Wann?
+= 언제?
+KATRIN: Letzten Dezember. Sie hat im Fernsehen über die Reform gesprochen. Ich habe nur den Ton gehört, aus der Küche. Und mir ist die Tasse runtergefallen.
+= 작년 12월. 그 여자가 TV에서 개혁안에 대해 말했어. 난 부엌에서 소리만 들었어. 그리고 컵을 떨어뜨렸지.
+JAKOB: Wegen der Stimme.
+= 목소리 때문에.
+KATRIN: Sie sagt am Ende jedes Satzes ganz leise „nicht wahr". Neun Jahre lang am Telefon. „Du fährst mit ihm nach Hamburg, nicht wahr."
+= 그 여자는 모든 문장 끝에 아주 작게 "그렇지요?"를 붙여. 9년 동안 전화로. "그 사람이랑 함부르크로 가는 거예요, 그렇지요?"
+JAKOB: Das war ihr Befehl? Nach Hamburg mitzukommen?
+= 그게 그 여자 명령이었어? 함부르크로 따라가라는 게?
+KATRIN: Am Abend, bevor ich zu dir gesagt habe: „Ich lass dich nicht allein." Das war der schlimmste Satz meines Lebens. Weil er gleichzeitig wahr und gelogen war.
+= 내가 너한테 "널 혼자 두지 않을게"라고 말하기 전날 밤에. 그건 내 인생에서 가장 끔찍한 문장이었어. 진심이면서 동시에 거짓말이었으니까.
+#SECTION 결말 — DER NAME
+JAKOB: Katrin. Ich frage dich jetzt nicht als Kollege. Nicht als Freund. Als Zeuge.
+= 카트린. 지금은 동료로서 묻는 게 아니야. 친구로서도 아니고. 증인으로서 묻는 거야.
+KATRIN: Ich weiß.
+= 알아.
+JAKOB: Wer ist die Stimme am Telefon?
+= 전화 속 그 목소리는 누구야?
+KATRIN: Du weißt es doch längst. Brückner hat es dir an der Brücke gesagt. Ich hatte es dir in Wien gezeigt.
+= 넌 이미 알잖아. 브뤼크너가 다리에서 말해 줬어. 난 빈에서 너한테 보여 줬고.
+JAKOB: Ich habe es gehört. Von einem Sterbenden. Aber nie von dir.
+= 들었지. 죽어 가는 사람한테서. 하지만 너한테서는 한 번도 못 들었어.
+KATRIN: Helene Seidlitz.
+= 헬레네 자이들리츠.
+JAKOB: Sag es noch einmal. Mit ganzem Satz. So, wie du es vor dem Gremium sagen würdest.
+= 한 번 더 말해 줘. 완전한 문장으로. 위원회 앞에서 말하듯이.
+KATRIN: Die Stimme, die mich seit 2016 erpresst hat, ist die Stimme von Dr. Helene Seidlitz, Staatssekretärin im Kanzleramt.
+= 2016년부터 저를 협박한 목소리는 총리실 국무차관 헬레네 자이들리츠 박사의 목소리입니다.
+JAKOB: Wirst du das sagen? Öffentlich? Vor dem Kontrollgremium?
+= 그걸 말할 거야? 공개적으로? 통제위원회 앞에서?
+KATRIN: Wenn ich es sage, bekomme ich mehr Jahre. Nicht weniger.
+= 그걸 말하면 형량이 늘어. 줄어드는 게 아니라.
+JAKOB: Vielleicht. Vielleicht auch nicht. Wer gegen sie aussagt, ist eine Kronzeugin.
+= 그럴지도. 아닐지도 모르고. 그 여자에게 불리한 증언을 하는 사람은 핵심 증인이 되는 거야.
+KATRIN: Und wenn die Kronzeugin einen Unfall hat? So wie heute fast?
+= 그 핵심 증인한테 사고가 나면? 오늘 거의 그럴 뻔했던 것처럼?
+JAKOB: Dann sitze ich daneben. Ich lasse dich nicht allein, Katrin. Und diesmal ist es nur wahr.
+= 그럼 내가 옆에 앉아 있을 거야. 널 혼자 두지 않을게, 카트린. 그리고 이번엔 진심일 뿐이야.
+KATRIN: Du klaust meinen Satz.
+= 내 문장을 훔치네.
+JAKOB: Ich archiviere ihn. Mit neuer Bedeutung.
+= 보관하는 거야. 새 의미를 붙여서.
+KATRIN: Ich sage aus. Ich halte mein Wort. Diesmal wirklich.
+= 증언할게. 약속 지킬게. 이번엔 정말로.
+AYLIN: Entschuldigung, dass ich störe. Die Stunde ist um. Und Mira ist am Satellitentelefon. Es ist dringend.
+= 방해해서 미안해. 한 시간 지났어. 그리고 미라가 위성전화로 연락했어. 급하대.
+JAKOB: Mira? Was ist passiert?
+= 미라? 무슨 일이야?
+MIRA: Jakob, ich habe gute und schlechte Nachrichten. Welche zuerst?
+= 야콥, 좋은 소식이랑 나쁜 소식이 있어. 뭐부터 들을래?
+JAKOB: Die gute. Ich habe heute schon genug schlechte gehabt.
+= 좋은 거. 오늘은 나쁜 소식 충분히 들었어.
+MIRA: Ursula Beck hat entschieden. Das Kontrollgremium hört euch an. Am Freitag, um zehn Uhr, im Reichstag.
+= 우르줄라 벡이 결정했어. 통제위원회가 너희 얘기를 듣겠대. 금요일 열 시, 의사당에서.
+KATRIN: Am Freitag. Drei Tage vor ihrer Ernennung.
+= 금요일. 그 여자 임명 사흘 전이네.
+JAKOB: Und die schlechte?
+= 그럼 나쁜 소식은?
+MIRA: Jede Anhörung braucht eine Vorbereitung von Seiten der Bundesregierung. Akten, Genehmigungen, die Liste der Zeugen.
+= 모든 청문회는 연방정부 쪽 준비가 필요해. 문서, 증언 허가, 증인 명단.
+JAKOB: Und wer macht das?
+= 그걸 누가 하는데?
+MIRA: Das Kanzleramt. Und dort hat eine einzige Person die Leitung übernommen. Staatssekretärin Dr. Helene Seidlitz.
+= 총리실. 그리고 거기서 단 한 사람이 책임을 맡았어. 헬레네 자이들리츠 국무차관 박사.
+#NEXT
+4부 9화 — «Das Kontrollgremium»(통제위원회) — 위원장 우르줄라 벡의 사무실에서 비공개 면담이 열린다. 증언 허가, 면책, 절차의 미로 속에서, 자이들리츠는 증인 명단부터 손대기 시작한다. 그리고 크란츠가 증언하려면 장관직을 걸어야 한다는 사실이 분명해진다.
