@@ -31,8 +31,8 @@ JAKOB: Ich habe ihn auf eine Brücke gelassen, auf der geschossen wurde, und das
 = 난 총알이 날아다니는 다리 위로 그 사람을 보냈어. 그건 나 자신을 용서할 수가 없어.
 AYLIN: Er ist ganz allein über die Absperrung gegangen, und niemand von uns hätte ihn aufhalten können.
 = 그 사람 혼자 차단선을 넘었어. 우리 중 누구도 그를 막을 수 없었을 거야.
-JAKOB: Weißt du eigentlich schon, wie es Reiter inzwischen geht?
-= 그사이 라이터는 어떻게 지내는지 혹시 알아?
+JAKOB: Weißt du eigentlich schon, wie es Reiter inzwischen geht, nachdem er so lange in diesem Gefängnis gesessen hat?
+= 그 감옥에 그렇게 오래 갇혀 있었는데, 그사이 라이터는 어떻게 지내는지 혹시 알아?
 AYLIN: Er schläft jetzt, und obwohl er unterernährt ist und eine Lungenentzündung hat, schafft er es, und morgen fliegt er nach Berlin.
 = 지금 자고 있어. 영양실조에 폐렴까지 있지만 이겨 낼 거야. 내일 베를린으로 날아가.
 JAKOB: Und wie geht es Katrin, nach allem, was letzte Nacht passiert ist?
@@ -66,12 +66,12 @@ THERESA: Genau deshalb bin ich hier, also kommt mit, denn unser Labor öffnet ei
 #SECTION 전개 1 — EIN NASSER FILM
 THERESA: Das ist sie, denn unser Taucher hat sie um ein Uhr zwanzig aus drei Metern Tiefe aus dem Schlamm der March geholt.
 = 이거야. 우리 잠수부가 1시 20분에 마르히 강 3미터 깊이 진흙 속에서 건져 왔어.
-JAKOB: Der Deckel ist ziemlich verbogen, als hätte jemand mit einem Hammer daraufgeschlagen.
-= 뚜껑이 꽤 휘었네. 누가 망치로 두들긴 것처럼.
+JAKOB: Der Deckel ist ziemlich verbogen, als hätte jemand mit einem schweren Hammer mehrmals daraufgeschlagen.
+= 뚜껑이 꽤 휘었네. 누가 무거운 망치로 여러 번 두들긴 것처럼.
 THERESA: Das kommt vom Aufprall auf das Geländer, und danach lag sie fast eine Stunde lang im Wasser.
 = 난간에 부딪혀서 그래. 그러고는 거의 한 시간 동안 물속에 있었어.
-AYLIN: Und was bedeutet das konkret für den Film, der darin war?
-= 그럼 그 안에 있던 필름은 구체적으로 어떻게 되는 거예요?
+AYLIN: Und was bedeutet das ganz konkret für den Film, der die ganze Zeit darin gelegen hat?
+= 그럼 그동안 내내 그 안에 있던 필름은 아주 구체적으로 어떻게 되는 거예요?
 THERESA: Unsere Technikerin sagt, dass die ersten zwanzig Bilder verloren seien, weil sich die Emulsion abgelöst habe.
 = 우리 기술자 말로는 처음 스무 장은 날아갔대요. 감광층이 떨어져 나갔다고요.
 JAKOB: Und was ist mit dem Rest, kann man darauf wenigstens noch etwas erkennen?
@@ -158,8 +158,8 @@ THERESA: Er hat nur einen einzigen Satz gesagt und dann aufgelegt: „Wir räume
 #SECTION 위기 — STEPHANSPLATZ
 THERESA: So, das ist der Steffl, und wer Wien verlässt, ohne ihn anzuschauen, hat angeblich Unglück.
 = 자, 이게 슈테플이야. 빈을 떠나면서 이걸 안 보면 재수가 없대.
-JAKOB: Entschuldige, aber was genau meinst du mit „Steffl"?
-= 미안한데, '슈테플'이 정확히 뭐야?
+JAKOB: Entschuldige, aber was genau meinst du mit „Steffl", denn das klingt eher wie der Name eines Hundes?
+= 미안한데, '슈테플'이 정확히 뭐야? 무슨 개 이름처럼 들리는데.
 THERESA: So nennen wir hier den Stephansdom, denn ihr Deutschen gebt allem lange Namen, während wir allem kurze geben.
 = 여기선 슈테판 대성당을 그렇게 불러. 너희 독일 사람들은 뭐든 긴 이름을 붙이고, 우린 뭐든 짧게 부르지.
 JAKOB: Du hast mir in zwei Wochen mehr Wörter beigebracht als mein Deutschlehrer in drei Jahren.
@@ -170,8 +170,8 @@ JAKOB: Ich bin aber kein Agent, Theresa, sondern immer noch ein ganz normaler Ar
 = 하지만 난 요원이 아니야, 테레자. 여전히 그냥 평범한 기록 담당자야.
 THERESA: Das sagst du jetzt seit zwei Wochen, aber langsam glaube ich dir das nicht mehr.
 = 2주째 그 말이네. 근데 이제 슬슬 안 믿겨.
-RADIO: Und nun kommen wir zu den Nachrichten aus Deutschland.
-= 이어서 독일 소식입니다.
+RADIO: Und nun kommen wir zu den Nachrichten aus dem Nachbarland Deutschland, wo heute über Personalfragen diskutiert wird.
+= 이어서 오늘 인사 문제가 논의되고 있는 이웃 나라 독일 소식입니다.
 RADIO: In Berlin bereitet das Kanzleramt die Geschäftsstelle des neuen Nationalen Sicherheitsrats vor, die nach der Reform der Nachrichtendienste geschaffen wird.
 = 베를린에서는 총리실이 정보기관 개혁에 따라 신설되는 국가안보회의 사무국 출범을 준비하고 있습니다.
 RADIO: Als aussichtsreichste Kandidatin für die Leitung gilt Staatssekretärin Helene Seidlitz, die Architektin der Geheimdienstreform.
@@ -219,8 +219,8 @@ JAKOB: Mira, wie geht es ihm denn, jetzt, wo er endlich in Sicherheit ist?
 = 미라, 이제 드디어 안전해졌는데 그 사람 좀 어때?
 MIRA: Beim Start hat er geweint, und danach hat er dreimal hintereinander nach seiner Tochter gefragt.
 = 이륙할 때 울었어. 그러고는 딸 얘기를 연달아 세 번이나 물었어.
-JAKOB: Grüß ihn bitte ganz herzlich von mir, wenn er wieder aufwacht.
-= 깨어나면 내 안부 진심으로 전해 줘.
+JAKOB: Grüß ihn bitte ganz herzlich von mir, wenn er wieder aufwacht, und sag ihm, dass seine Tochter auf ihn wartet.
+= 깨어나면 내 안부 진심으로 전해 줘. 그리고 딸이 기다리고 있다고 말해 줘.
 MIRA: Er hat übrigens auch nach dir gefragt und dich dabei „den Mann mit dem Film" genannt.
 = 그런데 그 사람이 너에 대해서도 물었어. 너를 '필름 든 남자'라고 부르더라.
 JAKOB: Dieser Film liegt jetzt nass und schwarz in einem Plastikbeutel auf meinem Hotelbett.
@@ -235,12 +235,12 @@ JAKOB: Danke, denn ich brauche jetzt Zeit, Beweise und vielleicht sogar ein klei
 = 고마워. 지금 나한테 필요한 건 시간이랑 증거, 그리고 어쩌면 작은 기적이야.
 MIRA: Ich kenne in Wedding ein Fotolabor, das Filme rettet, die andere längst weggeworfen hätten.
 = 베딩에 다른 데서는 진작 버렸을 필름도 살려 내는 사진 현상소를 하나 알아.
-JAKOB: Merk dir bitte die Adresse, denn darauf komme ich ganz bestimmt zurück.
-= 주소 꼭 기억해 둬. 분명히 다시 연락할게.
+JAKOB: Merk dir bitte die Adresse ganz genau, denn darauf komme ich ganz bestimmt zurück, sobald ich wieder in Berlin bin.
+= 주소 정확히 기억해 둬. 베를린에 돌아가는 대로 분명히 다시 연락할게.
 AYLIN: Jakob, da ist noch etwas, denn die BND-Leitung hat mich eben angerufen.
 = 야콥, 하나 더 있어. 방금 BND 지휘부에서 전화가 왔어.
-JAKOB: Endlich ruft Berlin zurück, und was wollten sie dir sagen?
-= 드디어 베를린이 회신했네. 그래서 뭐래?
+JAKOB: Endlich ruft Berlin zurück, nachdem stundenlang niemand erreichbar war, und was wollten sie dir sagen?
+= 몇 시간 동안 아무도 연락이 안 되더니 드디어 베를린이 회신했네. 그래서 뭐래?
 AYLIN: Du bist ab sofort vom Dienst freigestellt, bis die Vorgänge in Wien geklärt sind, und deine Abordnung zu uns endet heute.
 = 넌 지금부터 빈에서 있었던 일이 규명될 때까지 직무 정지야. 그리고 우리 쪽 파견도 오늘로 끝나.
 JAKOB: Und hat man dir gesagt, wer diese Entscheidung unterschrieben hat?
@@ -261,16 +261,16 @@ AYLIN: Ich habe fast immer recht, und genau das ist leider mein größtes Proble
 = 난 거의 늘 맞아. 그리고 안타깝게도 바로 그게 내 제일 큰 문제야.
 KATRIN: Jakob, die Beamten bringen mich morgen früh zurück nach Deutschland, und zwar in Untersuchungshaft.
 = 야콥, 직원들이 내일 아침 나를 독일로 데려간대. 미결 구금으로.
-JAKOB: Ich weiß, und ich werde dich dort besuchen, das verspreche ich dir.
-= 알아. 거기로 면회 갈게. 약속해.
+JAKOB: Ich weiß, und ich werde dich dort besuchen, sobald man es mir erlaubt, das verspreche ich dir.
+= 알아. 허락이 나오는 대로 거기로 면회 갈게. 약속해.
 KATRIN: Versprich mir lieber nichts, denn du hast heute schon mehr als genug versprochen.
 = 차라리 아무것도 약속하지 마. 넌 오늘 벌써 충분히 넘치게 약속했어.
-JAKOB: Mein Telefon klingelt, und es ist eine Nummer, die ich nicht kenne, mit Berliner Vorwahl.
-= 내 전화가 울려. 모르는 번호인데 베를린 지역 번호야.
+JAKOB: Mein Telefon klingelt, und es ist eine Nummer, die ich überhaupt nicht kenne, allerdings mit einer Berliner Vorwahl.
+= 내 전화가 울려. 전혀 모르는 번호인데, 베를린 지역 번호야.
 AYLIN: Dann geh ran, denn es ist fast Mitternacht, und wer um diese Zeit anruft, will meistens etwas sehr Wichtiges.
 = 그럼 받아 봐. 거의 자정이야. 이 시간에 전화하는 사람은 대개 아주 중요한 용건이 있거든.
-JAKOB: Hier spricht Wendland, wer ist da, bitte?
-= 벤틀란트입니다. 누구시죠?
+JAKOB: Hier spricht Wendland, und darf ich fragen, wer mich um diese späte Uhrzeit noch anruft?
+= 벤틀란트입니다. 이렇게 늦은 시간에 누가 전화하시는지 여쭤봐도 될까요?
 KRANZ: Herr Wendland? Hier Kranz. Wir müssen reden. Persönlich.
 = 벤틀란트 씨? 크란츠입니다. 얘기 좀 합시다. 직접 만나서.
 #NEXT
