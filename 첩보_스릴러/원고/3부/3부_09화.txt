@@ -1,0 +1,278 @@
+#META
+part: 3
+episode: 9
+title: Die Donau bei Nacht
+subtitle_ko: 밤의 도나우
+place_ko: 알베른 항구의 화물선과 도나우 강변
+setting: 2027년 5월 25일(화) 밤 10시~자정, 빈 남동쪽 알베른 항구(Alberner Hafen)와 도나우 강
+level: B2
+#CAST
+JAKOB | 前 BND 기록 담당자 · 44세 · 맞교환 협상 동행자
+THERESA | 오스트리아 DSN 수사관 · 44세 · Mag. · 빈 토박이
+AYLIN | BfV 방첩부 팀장 · 41세
+EINSATZLEITER | DSN 특수작전팀 현장 지휘관 (무전)
+BEWACHER | 화물선 위의 감시자 · 러시아어 억양
+BRÜCKNER | 前 HVA 소령 · 81세 · 빈에서 '헤르만 브란트'로 살아 왔다
+#INTRO
+※ 사흘 전, 브뤼크너의 되블링 아파트는 뒤집힌 채 비어 있었습니다. 오늘 밤 열 시, 그가 늘 쓰던 낡은 휴대폰 신호가 빈 남동쪽 알베른 항구에 정박한 불가리아 국적 화물선 '오틸리에'호에서 잡힙니다. 배는 자정에 하류로 출항할 예정입니다. 오스트리아 DSN의 테레자 그루버가 작전을 지휘하고, 독일 BfV의 아일린은 차 안에서 무전을 듣습니다. 브뤼크너가 믿는 사람은 야콥뿐이라서, 야콥도 현장에 나가야 합니다. 테레자와 야콥은 아직 서로 Sie를 쓰고, 야콥과 아일린은 du입니다. 표현 초점: 작전·무전 어휘 — Zugriff, Funkspruch, Sicherung, ablegen, Deckung, verletzt, Achtung, Bergung.
+#SECTION 도입 — EIN SIGNAL IM HAFEN
+THERESA: Herr Wendland, das Handy von Herrn Brückner ist vor zwanzig Minuten wieder angegangen. Im Alberner Hafen.
+= 벤틀란트 씨, 브뤼크너 씨 휴대폰이 20분 전에 다시 켜졌어요. 알베른 항구에서요.
+JAKOB: Im Hafen? Ich dachte, er ist entführt worden. Warum sollten die Entführer sein Handy einschalten?
+= 항구에서요? 납치당한 줄 알았는데요. 납치범들이 왜 그 사람 휴대폰을 켜겠어요?
+THERESA: Die Entführer nicht. Ich glaube, er selbst. Ein alter Geheimdienstler weiß, wie man gefunden wird.
+= 납치범들은 아니죠. 제 생각엔 본인이에요. 늙은 정보요원은 자기를 찾게 만드는 법을 알거든요.
+AYLIN: Oder es ist eine Falle. Ein altes Handy, ein leerer Hafen, Mitternacht. Das ist zu schön, um wahr zu sein.
+= 아니면 함정이거나. 낡은 휴대폰, 텅 빈 항구, 자정. 진짜라기엔 너무 그럴듯해.
+THERESA: Frau Demir, in Wien ist nichts zu schön. Höchstens zu kompliziert.
+= 데미르 씨, 빈에서는 너무 그럴듯한 건 없어요. 기껏해야 너무 복잡하죠.
+JAKOB: Welches Schiff?
+= 어떤 배예요?
+THERESA: Die „Ottilie". Ein Frachter unter bulgarischer Flagge. Er soll um Mitternacht nach Constanța ablegen.
+= '오틸리에'호요. 불가리아 국적 화물선이에요. 자정에 콘스탄차로 출항할 예정이에요.
+AYLIN: Constanța liegt am Schwarzen Meer. Von dort ist es nicht weit nach Russland.
+= 콘스탄차는 흑해에 있어. 거기서 러시아까지 멀지 않아.
+JAKOB: Dann haben wir knapp zwei Stunden.
+= 그럼 우리한테 두 시간도 안 남았네요.
+THERESA: Eineinhalb. Mein Team braucht eine halbe Stunde, bis es in Position ist.
+= 한 시간 반이요. 우리 팀이 자리 잡는 데 30분이 걸려요.
+JAKOB: Und was soll ich dabei tun? Ich bin Archivar, kein Polizist.
+= 그리고 전 거기서 뭘 해야 하죠? 전 기록 담당자지, 경찰이 아니에요.
+THERESA: Sie sollen reden. Herr Brückner vertraut niemandem außer Ihnen. Wenn wir ihn finden, muss er Ihre Stimme hören.
+= 말을 하셔야죠. 브뤼크너 씨는 당신 말고 아무도 안 믿어요. 우리가 그를 찾으면, 당신 목소리를 들어야 해요.
+AYLIN: Jakob, du musst nicht mitgehen. Das ist nicht dein Job.
+= 야콥, 꼭 같이 갈 필요는 없어. 그건 네 일이 아니야.
+JAKOB: Vor einem halben Jahr war es auch nicht mein Job, Stasi-Akten zu verstecken. Ich komme mit.
+= 반년 전엔 슈타지 파일 숨기는 것도 내 일이 아니었어. 갈게.
+THERESA: Gut. Dann bekommen Sie eine Schutzweste und ein Funkgerät. Und Sie bleiben immer hinter mir.
+= 좋아요. 그럼 방탄조끼랑 무전기를 받으세요. 그리고 항상 제 뒤에 계세요.
+JAKOB: Immer hinter Ihnen. Verstanden, Frau Magister.
+= 항상 당신 뒤에요. 알겠습니다, 마기스터님.
+THERESA: Für Sie heute nur „Gruber". Im Funk sind Titel zu lang.
+= 오늘은 그냥 '그루버'로 하세요. 무전에서는 직함이 너무 길어요.
+AYLIN: Und ich? Ich sitze im Auto und höre zu?
+= 그럼 난? 차에 앉아서 듣기만 해?
+THERESA: Sie sind Deutsche, Frau Demir. Auf österreichischem Boden haben Sie keine Befugnisse. Herr Wendland übrigens auch nicht.
+= 데미르 씨는 독일인이잖아요. 오스트리아 땅에서는 아무 권한이 없어요. 그런데 벤틀란트 씨도 마찬가지예요.
+AYLIN: Dann passen Sie gut auf ihn auf. Ich brauche ihn noch.
+= 그럼 저 사람 잘 지켜 주세요. 나 아직 쟤 필요하니까.
+THERESA: Keine Sorge. Ich bringe ihn Ihnen zurück. Mit allen Fingern.
+= 걱정 마세요. 돌려드릴게요. 손가락 하나 빠짐없이요.
+#SECTION 전개 1 — DER ALBERNER HAFEN
+EINSATZLEITER: Zentrale an Gruber. Team eins ist am Getreidespeicher. Team zwei am Kai. Wir sehen die „Ottilie".
+= 본부에서 그루버에게. 1팀은 곡물 창고에 있다. 2팀은 부두에. '오틸리에'호가 보인다.
+THERESA: Gruber verstanden. Wie viele Leute an Deck?
+= 그루버, 알았다. 갑판에 몇 명?
+EINSATZLEITER: Zwei an Deck, einer auf der Brücke. Unter Deck können wir nichts sehen.
+= 갑판에 둘, 조타실에 하나. 갑판 아래는 안 보인다.
+JAKOB: Hier riecht es nach Diesel und nassem Getreide. Ist das immer so?
+= 여기 디젤이랑 젖은 곡식 냄새가 나네요. 늘 이래요?
+THERESA: Der Alberner Hafen ist kein Ort für Touristen. Gleich da drüben ist übrigens der Friedhof der Namenlosen.
+= 알베른 항구는 관광객 올 데가 아니에요. 그런데 바로 저쪽이 '이름 없는 자들의 묘지'예요.
+JAKOB: Friedhof der Namenlosen?
+= 이름 없는 자들의 묘지요?
+THERESA: Früher hat die Donau hier Tote angeschwemmt. Niemand kannte ihre Namen. Also hat man sie hier begraben.
+= 옛날엔 도나우 강이 여기로 시신들을 밀어 올렸어요. 아무도 이름을 몰랐죠. 그래서 여기에 묻었어요.
+JAKOB: Ein Friedhof ohne Namen. Wie ein Archiv ohne Signaturen.
+= 이름 없는 묘지라. 청구번호 없는 기록보관소 같네요.
+THERESA: Sie denken wirklich immer an Ihre Akten, oder?
+= 정말 항상 파일 생각만 하시죠?
+JAKOB: Akten haben mich bis hierher gebracht. Bis an die Donau, um zehn Uhr nachts.
+= 파일들이 절 여기까지 데려왔어요. 도나우 강까지, 밤 열 시에.
+AYLIN: Jakob, hörst du mich? Ich habe das Schiff überprüft. Die „Ottilie" gehört einer Firma auf Zypern.
+= 야콥, 들려? 배를 조회해 봤어. '오틸리에'호는 키프로스에 있는 회사 소유야.
+JAKOB: Lass mich raten. Die Firma hat keine Mitarbeiter und kein Büro.
+= 맞혀 볼게. 그 회사는 직원도 사무실도 없지.
+AYLIN: Nur einen Briefkasten. Und einen Geschäftsführer, der im Februar in Hamburg war.
+= 우편함 하나뿐이야. 그리고 2월에 함부르크에 있었던 대표 하나.
+JAKOB: Sorin?
+= 소린?
+AYLIN: Nicht Sorin selbst. Aber jemand, der ihm Geld überwiesen hat. Über ein Konto am Graben.
+= 소린 본인은 아니야. 하지만 그한테 돈을 보낸 사람이야. 그라벤 거리의 계좌를 통해서.
+THERESA: Der Verein der Freunde der Gartenkunst. Schon wieder diese Gärtner.
+= 정원 예술 애호가 협회군요. 또 그 정원사들이에요.
+EINSATZLEITER: Zentrale an Gruber. Ein Mann ist gerade aus dem Laderaum gekommen. Er telefoniert.
+= 본부에서 그루버에게. 한 남자가 방금 화물칸에서 나왔다. 통화 중이다.
+THERESA: Können Sie hören, welche Sprache?
+= 무슨 언어인지 들려?
+EINSATZLEITER: Russisch. Er sagt etwas von „Starik". Und von „Mitternacht".
+= 러시아어. '스타리크'라고 뭐라 한다. 그리고 '자정'이라고.
+JAKOB: Starik heißt „der Alte". Das kann nur Brückner sein.
+= 스타리크는 '노인'이라는 뜻이에요. 브뤼크너일 수밖에 없어요.
+THERESA: Dann ist er an Bord. Und er lebt noch. Das ist die gute Nachricht.
+= 그럼 배에 타 있네요. 그리고 아직 살아 있어요. 그게 좋은 소식이에요.
+JAKOB: Und die schlechte?
+= 그럼 나쁜 소식은요?
+THERESA: Das Schiff hat die Maschinen schon angelassen. Es will früher ablegen.
+= 배가 벌써 엔진을 켰어요. 예정보다 일찍 출항하려나 봐요.
+EINSATZLEITER: Bestätigt. Die Leinen werden gelöst. Wir haben höchstens zehn Minuten.
+= 확인. 밧줄을 풀고 있다. 길어야 10분이다.
+THERESA: Dann gehen wir jetzt. Zugriff in fünf Minuten. Herr Wendland, Sie kommen mit mir aufs Schiff.
+= 그럼 지금 가죠. 5분 뒤 진입. 벤틀란트 씨, 저랑 같이 배에 올라가요.
+#SECTION 전개 2 — AN BORD DER „OTTILIE"
+THERESA: Polizei! Hände so, dass ich sie sehen kann!
+= 경찰이다! 손 보이게 들어!
+BEWACHER: Das ist ein Missverständnis. Wir sind ein Frachtschiff. Wir haben alle Papiere.
+= 오해입니다. 우린 화물선이에요. 서류도 다 있어요.
+THERESA: Dann zeigen Sie mir die Papiere. Und die Passagierliste.
+= 그럼 서류를 보여 주세요. 승객 명단도요.
+BEWACHER: Wir haben keine Passagiere. Nur Getreide und Maschinenteile.
+= 승객은 없어요. 곡물이랑 기계 부품뿐이에요.
+JAKOB: Herr Brückner? Herr Brückner, hier ist Jakob Wendland! Können Sie mich hören?
+= 브뤼크너 씨? 브뤼크너 씨, 저 야콥 벤틀란트예요! 제 말 들려요?
+BEWACHER: Hier gibt es keinen Brückner. Sie müssen sich irren.
+= 여긴 브뤼크너라는 사람 없어요. 착각하신 거예요.
+JAKOB: Herr Brückner! Wir sind hier, um Sie nach Hause zu bringen!
+= 브뤼크너 씨! 당신을 집으로 데려가려고 왔어요!
+BRÜCKNER: Nach Hause… Nu, das ist ein großes Wort, Herr Wendland.
+= 집이라… 거참, 그건 큰 말이로군요, 벤틀란트 씨.
+JAKOB: Er ist unter Deck! Die Stimme kommt von unten!
+= 갑판 아래 있어요! 목소리가 아래에서 들려요!
+THERESA: Team zwei, Zugriff auf den Laderaum! Team eins sichert die Brücke!
+= 2팀, 화물칸 진입! 1팀은 조타실 확보!
+EINSATZLEITER: Team zwei verstanden. Wir gehen runter.
+= 2팀, 알았다. 내려간다.
+BEWACHER: Sie haben hier kein Recht! Das ist bulgarisches Territorium!
+= 당신들 여기서 아무 권한 없어요! 여긴 불가리아 영토라고요!
+THERESA: Das ist ein Schiff im Wiener Hafen. Und ich habe einen richterlichen Beschluss. Hinsetzen!
+= 이건 빈 항구에 있는 배예요. 그리고 나한텐 법원 영장이 있어요. 앉아!
+JAKOB: Herr Brückner, sind Sie verletzt?
+= 브뤼크너 씨, 다치셨어요?
+BRÜCKNER: Nur müde. Und die Hände sind gefesselt. Achtzig Jahre alt, und man fesselt mich wie einen Dieb.
+= 피곤할 뿐이오. 그리고 손이 묶였소. 여든 살인데, 도둑처럼 나를 묶다니.
+JAKOB: Einundachtzig. Das steht in Ihrer Karteikarte.
+= 여든하나예요. 당신 색인 카드에 그렇게 적혀 있어요.
+BRÜCKNER: Sie und Ihre Karteikarten. Ihr Vater war genauso.
+= 당신이랑 당신 색인 카드들이란. 당신 아버지도 똑같았지.
+EINSATZLEITER: Team zwei an Gruber. Wir haben ihn. Ein alter Mann, gefesselt, ansprechbar.
+= 2팀에서 그루버에게. 찾았다. 노인 한 명, 묶여 있음, 의식 있음.
+THERESA: Gut. Bringen Sie ihn sofort an Land. Die Maschinen laufen noch.
+= 좋아. 즉시 육지로 데려와. 엔진이 아직 돌고 있어.
+BRÜCKNER: Herr Wendland, hören Sie mir zu. Die Leute, die mich geholt haben, sind keine Russen.
+= 벤틀란트 씨, 내 말 들어요. 나를 데려간 사람들은 러시아인이 아니오.
+JAKOB: Keine Russen? Aber der Mann an Deck spricht Russisch.
+= 러시아인이 아니라고요? 하지만 갑판의 남자는 러시아어를 하는데요.
+BRÜCKNER: Er spricht Russisch. Aber er bekommt seine Befehle auf Deutsch. Aus Berlin.
+= 러시아어를 하지요. 하지만 그는 독일어로 명령을 받소. 베를린에서.
+JAKOB: Von wem? Herr Brückner, von wem?
+= 누구한테서요? 브뤼크너 씨, 누구한테서요?
+BRÜCKNER: Nicht hier. Nicht auf diesem Schiff. Wände haben Ohren, auch Wände aus Stahl.
+= 여기선 안 되오. 이 배에서는. 벽에도 귀가 있소, 강철 벽에도.
+THERESA: Keine Zeit für Gespräche, meine Herren! Raus hier, sofort!
+= 대화할 시간 없어요, 두 분! 여기서 나가요, 당장!
+#SECTION 위기 — SCHÜSSE AUF DEM WASSER
+EINSATZLEITER: Achtung! Das Schiff legt ab! Die Gangway ist weg!
+= 주의! 배가 출항한다! 건널판이 없어졌다!
+THERESA: Was? Wer hat den Befehl gegeben?
+= 뭐라고? 누가 명령했어?
+EINSATZLEITER: Der Mann auf der Brücke. Er hat sich eingeschlossen. Team eins kommt nicht rein.
+= 조타실의 남자다. 안에서 문을 잠갔다. 1팀이 못 들어간다.
+JAKOB: Wir treiben weg! Der Kai ist schon zehn Meter entfernt!
+= 우리 떠내려가고 있어요! 부두가 벌써 10미터나 떨어졌어요!
+AYLIN: Jakob! Was ist los? Ich sehe das Schiff wegfahren!
+= 야콥! 무슨 일이야? 배가 떠나는 게 보여!
+JAKOB: Wir sind noch an Bord. Brückner, Gruber, ich und drei von ihren Leuten.
+= 우리 아직 배에 있어. 브뤼크너, 그루버, 나, 그리고 그쪽 요원 셋.
+THERESA: Zentrale, wir brauchen die Wasserpolizei. Sofort. Die „Ottilie" fährt flussabwärts.
+= 본부, 수상 경찰이 필요하다. 즉시. '오틸리에'호가 하류로 가고 있다.
+EINSATZLEITER: Das Boot der Wasserpolizei ist unterwegs. Drei Minuten.
+= 수상 경찰 보트가 가는 중이다. 3분.
+BEWACHER: Ihr kommt hier nicht lebend runter. Der Alte gehört uns.
+= 너희는 여기서 살아서 못 내려가. 그 노인은 우리 거야.
+THERESA: Waffe weg! Sofort die Waffe weg!
+= 총 내려놔! 당장 총 내려놔!
+JAKOB: Herr Brückner, runter! Auf den Boden!
+= 브뤼크너 씨, 숙여요! 바닥으로!
+EINSATZLEITER: Schüsse an Bord! Ich wiederhole: Schüsse an Bord der „Ottilie"!
+= 배에서 총격! 반복한다: '오틸리에'호 선상에서 총격!
+THERESA: Ein Treffer! Der Mann ist entwaffnet. Wendland, alles in Ordnung?
+= 명중! 남자 무장 해제. 벤틀란트, 괜찮아요?
+JAKOB: Ich bin okay. Aber Brückner… Er blutet. An der Schulter.
+= 전 괜찮아요. 하지만 브뤼크너가… 피가 나요. 어깨에서.
+BRÜCKNER: Es ist nichts. Es ist nur… Es brennt ein wenig.
+= 아무것도 아니오. 그냥… 좀 화끈거릴 뿐이오.
+JAKOB: Drücken Sie hier drauf. Fest. Ich halte Ihre Hand.
+= 여기 누르세요. 세게. 제가 손 잡고 있을게요.
+AYLIN: Jakob! Sag mir, dass du nicht getroffen bist!
+= 야콥! 너 안 맞았다고 말해 줘!
+JAKOB: Ich bin nicht getroffen. Aber wir brauchen einen Arzt. Schnell.
+= 나 안 맞았어. 하지만 의사가 필요해. 빨리.
+EINSATZLEITER: Wasserpolizei ist längsseits. Sie werfen eine Leiter rüber.
+= 수상 경찰 보트가 옆에 붙었다. 사다리를 던져 준다.
+THERESA: Brückner zuerst. Dann Wendland. Ich gehe als Letzte.
+= 브뤼크너 먼저. 그다음 벤틀란트. 저는 마지막에 갈게요.
+JAKOB: Das schafft er nicht allein. Er ist einundachtzig und verletzt.
+= 혼자는 못 해요. 여든한 살에 다쳤다고요.
+THERESA: Dann tragen Sie ihn. Sie sind doch Ingenieur. Sie kennen sich mit Schiffen aus.
+= 그럼 업고 가세요. 엔지니어였잖아요. 배는 잘 아시잖아요.
+JAKOB: Das war in einem anderen Leben. Herr Brückner, legen Sie den Arm um meinen Hals.
+= 그건 다른 인생에서였죠. 브뤼크너 씨, 제 목에 팔을 두르세요.
+BRÜCKNER: Ich habe vierzig Jahre lang Menschen getragen, Herr Wendland. Jetzt tragen Sie mich.
+= 나는 40년 동안 사람들을 짊어지고 다녔소, 벤틀란트 씨. 이제는 당신이 나를 짊어지는군.
+JAKOB: Nicht reden. Festhalten.
+= 말하지 마세요. 꽉 잡으세요.
+EINSATZLEITER: Brückner ist im Boot. Wendland ist im Boot. Gruber, jetzt Sie!
+= 브뤼크너 보트에 탔다. 벤틀란트 보트에 탔다. 그루버, 이제 당신 차례다!
+THERESA: Ich komme. Die Brücke ist gesichert. Der Kapitän hat aufgegeben.
+= 간다. 조타실 확보. 선장이 항복했다.
+EINSATZLEITER: Die „Ottilie" stoppt die Maschinen. Einsatz beendet. Keine Verluste bei uns.
+= '오틸리에'호 엔진 정지. 작전 종료. 아군 피해 없음.
+#SECTION 결말 — DER FILM
+THERESA: So. Jetzt sind wir alle wieder auf festem Boden. Wie geht es ihm?
+= 자. 이제 다들 다시 단단한 땅 위에 있네요. 저 사람 어때요?
+JAKOB: Der Notarzt sagt, es ist ein Streifschuss. Aber er hat viel Blut verloren. Und er ist schon krank.
+= 응급의 말로는 스친 총상이래요. 하지만 피를 많이 흘렸어요. 그리고 원래도 아프잖아요.
+THERESA: Sie haben ihn getragen. Über eine Leiter, auf einem fahrenden Schiff. Das war nicht schlecht für einen Archivar.
+= 당신이 저 사람을 업었어요. 움직이는 배에서 사다리를 타고. 기록 담당자치고 나쁘지 않았어요.
+JAKOB: Ich habe nicht nachgedacht. Hätte ich nachgedacht, wäre ich im Auto geblieben.
+= 생각을 안 했어요. 생각했으면 차에 남아 있었겠죠.
+THERESA: Genau deshalb. Wissen Sie was? Ich glaube, nach so einer Nacht sagen wir „du". Servus, Jakob. Ich bin die Theresa.
+= 바로 그래서예요. 그거 알아요? 이런 밤을 보냈으면 이제 말 놓죠. 세르부스, 야콥. 난 테레자야.
+JAKOB: Servus, Theresa. Bei uns sagt man „Tach". Aber „Servus" gefällt mir besser.
+= 세르부스, 테레자. 우리 동네에선 '타흐'라고 하는데. 근데 '세르부스'가 더 마음에 드네.
+AYLIN: Jakob, du zitterst ja. Hier, nimm meine Jacke.
+= 야콥, 너 떨고 있잖아. 여기, 내 재킷 입어.
+JAKOB: Das ist nicht die Kälte. Das ist… Ich habe heute zum ersten Mal Schüsse gehört. Nicht im Fernsehen.
+= 추워서가 아니야. 그냥… 오늘 처음으로 총소리를 들었어. TV가 아니라.
+THERESA: Das geht vorbei. Morgen früh trinkst du eine Melange, und übermorgen erzählst du es als Geschichte.
+= 그건 지나가. 내일 아침에 멜랑주 한 잔 마시고, 모레면 이야깃거리로 말하게 될 거야.
+AYLIN: Und der Mann auf der Brücke? Hat er etwas gesagt?
+= 그리고 조타실의 남자는? 뭐라고 했어?
+THERESA: Kein Wort. Er verlangt einen Anwalt. Einen Anwalt aus Berlin, übrigens. Nicht aus Wien.
+= 한 마디도요. 변호사를 요구해요. 그런데 베를린 변호사를요. 빈 변호사가 아니라.
+AYLIN: Aus Berlin. Das gefällt mir gar nicht.
+= 베를린이라. 그거 정말 마음에 안 드네.
+JAKOB: Brückner hat gesagt, die Befehle kommen auf Deutsch. Aus Berlin.
+= 브뤼크너가 명령은 독일어로 온다고 했어. 베를린에서.
+THERESA: Dann hat euer Problem eine deutsche Adresse. Willkommen im Club.
+= 그럼 너희 문제는 주소가 독일이네. 우리 클럽에 온 걸 환영해.
+AYLIN: Ich störe ungern eure österreichische Verbrüderung. Aber der Notarzt will Brückner mitnehmen.
+= 너희 오스트리아식 의형제 맺는 데 끼어들긴 싫은데. 응급의가 브뤼크너를 데려가겠대.
+BRÜCKNER: Einen Moment noch. Herr Wendland. Kommen Sie her. Nur Sie.
+= 잠깐만 더. 벤틀란트 씨. 이리 와요. 당신만.
+JAKOB: Ich bin hier. Sie sollten jetzt nicht sprechen.
+= 여기 있어요. 지금은 말씀하시면 안 돼요.
+BRÜCKNER: Ich habe nicht mehr viel Zeit zum Sprechen. Darum spreche ich jetzt. In meiner Jacke, im Futter. Fühlen Sie?
+= 이제 말할 시간이 별로 없소. 그래서 지금 말하는 거요. 내 재킷 안감 속에. 만져지오?
+JAKOB: Da ist etwas Kleines. Rund und hart. Eine Dose?
+= 뭔가 작은 게 있네요. 둥글고 딱딱해요. 통인가요?
+BRÜCKNER: Eine Filmdose. Ein Mikrofilm. Ich habe ihn 1990 aus der Normannenstraße mitgenommen. Genau wie Ihr Vater seinen Karton.
+= 필름 통이오. 마이크로필름. 1990년에 노르만넨 거리에서 가지고 나왔지. 당신 아버지가 그 상자를 가지고 나온 것처럼.
+JAKOB: Was ist darauf?
+= 거기 뭐가 들어 있어요?
+BRÜCKNER: Eine Verpflichtungserklärung. Vom März 1981. Die Unterschrift des Gärtners.
+= 서약서요. 1981년 3월 것. 정원사의 서명이오.
+JAKOB: Der Gärtner… Dann steht der Name darauf?
+= 정원사라니… 그럼 거기 이름이 적혀 있어요?
+BRÜCKNER: Er stand darauf. Ich habe ihn selbst geschwärzt. Mit Tusche, Buchstabe für Buchstabe. Meine Lebensversicherung, verstehen Sie?
+= 적혀 있었지. 내가 직접 검게 칠했소. 먹물로, 한 글자씩. 내 생명 보험이었소, 알겠소?
+THERESA: Eine Lebensversicherung, die man jetzt einlösen sollte. Der Krankenwagen wartet.
+= 이제 찾아 써야 할 생명 보험이네요. 구급차가 기다려요.
+BRÜCKNER: Der Name ist weg, Herr Wendland. Aber die Handschrift nicht. Eine Handschrift kann man nicht schwärzen.
+= 이름은 사라졌소, 벤틀란트 씨. 하지만 필체는 아니오. 필체는 검게 칠할 수가 없지.
+JAKOB: Warum geben Sie mir das jetzt? Warum nicht den Deutschen, nicht der Theresa?
+= 왜 지금 이걸 저한테 주세요? 왜 독일 쪽도 아니고, 테레자도 아니고요?
+BRÜCKNER: Weil Ihr Vater ein ehrlicher Mann war. Und weil ich heute Nacht fast gestorben wäre, ohne dass es jemand weiß. Nehmen Sie ihn. Bevor ich es mir anders überlege.
+= 당신 아버지가 정직한 사람이었으니까. 그리고 오늘 밤 아무도 모르게 죽을 뻔했으니까. 가져가시오. 내 마음이 바뀌기 전에.
+#NEXT
+3부 10화 — «Hainburg»(하인부르크) — 맞교환 장소가 오스트리아와 슬로바키아 사이 마르히 강의 '자유의 다리'로 바뀐다. 국경 마을의 여관에 미라가 도착하고, 테레자는 대안을 내놓는다. 오스트리아에서 형이 확정된 러시아 요원을 대신 넘기자는 것이다. 모두가 두려움을 털어놓은 밤, 베를린에서 명령서 한 장이 도착한다.

@@ -1,0 +1,282 @@
+#META
+part: 3
+episode: 8
+title: Katrins Brief
+subtitle_ko: 카트린의 편지
+place_ko: 보호 시설 면회실의 마흔다섯 분
+setting: 2027년 5월 24일(월) 오전, 빈 교외 DSN 보호 시설의 면회실
+level: B2
+#CAST
+JAKOB | BfV 파견 요원 · 맞교환 협상 동행자 · 44세
+KATRIN | 맞교환 대상 · 前 BND 기록 담당자 · 39세
+THERESA | 오스트리아 DSN 수사관 · Mag. · 44세
+AYLIN | BfV 방첩부 팀장 (전화)
+#INTRO
+※ 지난 화, 넴초프는 도나우 탑 위에서 "모스크바는 카트린을 원하지 않는다, 다른 누군가가 그녀가 사라지길 원한다"고 흘렸습니다. 그리고 병든 기자 라이터의 영상이 공개되었습니다. 다음 날 아침, 야콥은 보호 시설에서 카트린을 만납니다. 함부르크의 안개 속에서 카트린이 일부러 Sie로 바꾼 뒤, 두 사람은 석 달 동안 제대로 이야기하지 못했습니다. 카트린은 밤새 손으로 편지를 썼고, 야콥은 그 편지를 그녀 앞에서 소리 내어 읽습니다. 테레자와 야콥은 아직 Sie, 아일린과 야콥은 du를 씁니다. 표현 초점: 고백과 용서의 어휘, 접속법 I 간접화법 — verzeihen, Schuld tragen, erpressen, schützen, sie schreibt, sie habe…, sie sei…
+#SECTION 도입 — FÜNFUNDVIERZIG MINUTEN
+THERESA: Fünfundvierzig Minuten, Herr Wendland. Mehr kann ich nicht verantworten.
+= 45분이에요, 벤틀란트 씨. 그 이상은 제가 책임질 수 없어요.
+JAKOB: Läuft ein Mikrofon?
+= 마이크가 돌아가고 있나요?
+THERESA: Selbstverständlich. Das Protokoll läuft immer. Aber ich höre erst heute Abend zu.
+= 당연하죠. 기록은 항상 돌아가요. 하지만 저는 오늘 저녁에야 들을 거예요.
+JAKOB: Das ist sehr österreichisch von Ihnen.
+= 아주 오스트리아다운 배려네요.
+THERESA: Das ist sehr menschlich, Herr Wendland. Sie hat die ganze Nacht geschrieben. Die Wärterin hat ihr dreimal neues Papier gebracht.
+= 아주 인간적인 거죠, 벤틀란트 씨. 그녀가 밤새 글을 썼어요. 담당 직원이 종이를 세 번이나 새로 갖다줬대요.
+JAKOB: Was schreibt sie?
+= 뭘 쓰는데요?
+THERESA: Einen Brief. An Sie. Sie wollte ihn niemand anderem geben.
+= 편지요. 당신한테요. 다른 누구에게도 주려고 하지 않았어요.
+AYLIN: Jakob, bevor du reingehst: Berlin hat heute früh angerufen. Sie wollen wissen, was Nemzow gestern gesagt hat.
+= 야콥, 들어가기 전에. 베를린에서 오늘 아침 전화가 왔어. 넴초프가 어제 무슨 말을 했는지 알고 싶대.
+JAKOB: Wer genau in Berlin?
+= 베를린의 정확히 누가?
+AYLIN: Das Kanzleramt. Sehr freundlich. Sehr interessiert.
+= 총리실. 아주 친절하게. 아주 관심 있게.
+JAKOB: Was hast du gesagt?
+= 뭐라고 했어?
+AYLIN: Dass wir noch auswerten. Ich habe gelogen, Jakob. Zum ersten Mal in meiner Laufbahn gegenüber dem Kanzleramt.
+= 아직 분석 중이라고. 거짓말했어, 야콥. 내 경력에서 처음으로 총리실한테.
+JAKOB: Willkommen im Keller.
+= 지하실에 온 걸 환영해.
+AYLIN: Sehr lustig. Ruf mich an, wenn du rauskommst.
+= 퍽이나 웃기네. 나오면 전화해.
+THERESA: Die Tür. Bitte sehr.
+= 문 열어 드릴게요. 들어가세요.
+KATRIN: Guten Morgen, Herr Wendland.
+= 안녕하세요, 벤틀란트 씨.
+JAKOB: Guten Morgen, Katrin. Du siehst müde aus.
+= 안녕, 카트린. 피곤해 보인다.
+KATRIN: Sie auch. Bitte, setzen Sie sich. Ich habe etwas für Sie.
+= 당신도요. 앉으세요. 드릴 게 있어요.
+JAKOB: Frau Gruber hat es mir schon erzählt. Ein Brief.
+= 그루버 씨한테 벌써 들었어. 편지라며.
+KATRIN: Elf Seiten. Mit der Hand. Ich habe seit der Schule nicht mehr so viel mit der Hand geschrieben.
+= 열한 장이에요. 손으로 썼어요. 학교 다닌 이후로 이렇게 많이 손으로 써 본 적이 없어요.
+JAKOB: Soll ich ihn später lesen? Allein?
+= 나중에 혼자 읽을까?
+KATRIN: Nein. Lesen Sie ihn jetzt. Laut. Ich möchte hören, wie es klingt, wenn jemand anders meine Wahrheit vorliest.
+= 아니요. 지금 읽어 주세요. 소리 내서요. 다른 사람이 내 진실을 읽으면 어떻게 들리는지 듣고 싶어요.
+#SECTION 전개 1 — DER BRIEF
+JAKOB: „Lieber Jakob. Ich schreibe du, weil man auf Papier nicht lügen kann. Zumindest ich kann es nicht."
+= "야콥에게. 종이 위에서는 거짓말을 못 하니까 du로 쓸게. 적어도 나는 못 해."
+KATRIN: Lesen Sie weiter.
+= 계속 읽으세요.
+JAKOB: „Im März 2016 habe ich im Keller angefangen. Drei Wochen später rief mich eine Stimme an."
+= "2016년 3월에 나는 지하 창고에서 일을 시작했어. 3주 뒤에 어떤 목소리가 나한테 전화를 걸어 왔어."
+JAKOB: „Die Stimme kannte meinen Namen, meine Telefonnummer und die Akte meiner Mutter."
+= "그 목소리는 내 이름도, 전화번호도, 우리 엄마의 파일도 알고 있었어."
+KATRIN: Meine Mutter war IM. Zehn Jahre lang. In Cottbus. Sie hat über ihre eigenen Kollegen berichtet.
+= 우리 엄마는 IM이었어요. 10년 동안이요. 코트부스에서요. 자기 동료들에 대해 보고했죠.
+JAKOB: Das weiß ich seit Hamburg. Das ist kein Verbrechen, für das du bezahlen musst.
+= 그건 함부르크 이후로 알고 있어. 네가 대가를 치러야 할 죄가 아니야.
+KATRIN: Für meine Mutter wäre es das Ende. Sie ist dreiundsiebzig. Sie singt im Kirchenchor. Niemand dort weiß davon.
+= 엄마한테는 끝이에요. 일흔셋이에요. 교회 성가대에서 노래해요. 거기선 아무도 몰라요.
+JAKOB: „Die Stimme sagte, die Akte meiner Mutter liege nicht im Archiv. Sie liege bei ihr. Nur bei ihr."
+= "그 목소리는 엄마 파일이 문서고에 없다고 했어. 자기한테 있다고. 자기한테만."
+JAKOB: Bei ihr? Schreibst du hier „ihr"?
+= 자기한테? 여기 '그녀'라고 쓴 거야?
+KATRIN: Lesen Sie, was da steht. Nicht mehr und nicht weniger.
+= 거기 적힌 대로 읽으세요. 더도 덜도 말고요.
+JAKOB: „Bei ihr" ist durchgestrichen. Darüber steht: „bei der Stimme".
+= '그녀한테'는 줄이 그어져 있어. 그 위에 '그 목소리한테'라고 쓰여 있고.
+KATRIN: Es war spät in der Nacht. Ich war müde.
+= 밤이 늦었어요. 피곤했어요.
+JAKOB: „Am Anfang wollte die Stimme nur Kleinigkeiten. Welche Bestände wir digitalisieren. Wer im Keller arbeitet."
+= "처음에 그 목소리는 사소한 것만 원했어. 우리가 어떤 문서를 디지털로 옮기는지. 지하 창고에서 누가 일하는지."
+JAKOB: „Dann kam Tim. Tim hatte achtzigtausend Euro Schulden. Plötzlich hatte er keine mehr."
+= "그다음엔 팀이었어. 팀은 빚이 8만 유로 있었어. 그런데 갑자기 빚이 없어졌어."
+KATRIN: Ich habe nie darum gebeten. Die Stimme hat es einfach getan. Und danach gehörte ich ihr.
+= 저는 부탁한 적 없어요. 그 목소리가 그냥 해 버렸어요. 그리고 그 뒤로 저는 그 목소리의 것이 됐죠.
+JAKOB: Weiß Tim, wer seine Schulden bezahlt hat?
+= 팀은 누가 자기 빚을 갚았는지 알아?
+KATRIN: Er glaubt, es war ein Freund von mir. Ein reicher Freund aus Berlin. Er hat sich sogar bedankt.
+= 제 친구가 갚아 준 줄 알아요. 베를린에 사는 돈 많은 친구요. 고맙다고까지 했어요.
+JAKOB: „Danach wollte die Stimme Kopien. Dann Termine. Dann Zugangscodes." Hier wird deine Schrift kleiner.
+= "그 뒤로 그 목소리는 사본을 원했어. 그다음엔 일정. 그다음엔 출입 코드." 여기서부터 네 글씨가 작아지네.
+KATRIN: Weil ich mich geschämt habe. Sogar vor dem Papier.
+= 부끄러웠으니까요. 종이 앞에서조차요.
+JAKOB: „Ich habe dir Kaffee gebracht, Jakob, acht Jahre lang. Und an manchen Tagen habe ich danach telefoniert."
+= "8년 동안 너한테 커피를 갖다줬어, 야콥. 그리고 어떤 날은 그다음에 전화를 걸었어."
+KATRIN: Regel zwanzig. Auch Archivare brauchen Kaffee. Das habe ich geschrieben, um mich selbst zu belügen.
+= 규칙 20. 기록관도 커피가 필요하다. 그건 제가 저 자신을 속이려고 만든 거예요.
+JAKOB: Nein. Das hast du geschrieben, weil es stimmt.
+= 아니. 그건 사실이라서 쓴 거야.
+KATRIN: Lesen Sie Seite sieben. Da wird es schwierig.
+= 7쪽을 읽으세요. 거기서부터 어려워져요.
+JAKOB: „Am neunten November habe ich zwanzig Minuten nach dem Fund die Stimme angerufen. Aus der Toilette im zweiten Stock."
+= "11월 9일, 상자를 찾고 20분 뒤에 나는 그 목소리에 전화했어. 2층 화장실에서."
+JAKOB: Zwanzig Minuten. Ich habe noch das Protokoll geschrieben. Fundort, Uhrzeit, Zustand.
+= 20분이라. 나는 그때 아직 기록을 쓰고 있었는데. 발견 장소, 시간, 상태.
+KATRIN: Und ich habe Sie dafür ausgelacht. „Herr Archivar."
+= 그리고 저는 그걸로 당신을 놀렸죠. "기록관님."
+#SECTION 전개 2 — WAS SIE NICHT SCHREIBT
+JAKOB: Elf Seiten, Katrin. Und kein einziger Name.
+= 열한 장이야, 카트린. 그런데 이름이 하나도 없어.
+KATRIN: Doch. Viele Namen. Roth, Dennis, Sorin, meine Mutter, Tim. Sogar Ihrer.
+= 있어요. 이름 많아요. 로트, 데니스, 소린, 우리 엄마, 팀. 당신 이름까지요.
+JAKOB: Du weißt, welchen Namen ich meine.
+= 내가 무슨 이름을 말하는지 알잖아.
+KATRIN: Den schreibe ich nicht. Nicht heute.
+= 그건 안 써요. 오늘은 안 돼요.
+JAKOB: Warum nicht? Du bist in Haft. Die Stimme kann dir nichts mehr tun.
+= 왜? 넌 구금 중이야. 그 목소리는 이제 너한테 아무것도 못 해.
+KATRIN: Mir nicht. Aber meiner Mutter. Und Tim. Solange ich schweige, liegt die Akte meiner Mutter in einer Schublade.
+= 저한테는요. 하지만 엄마랑 팀한테는 할 수 있어요. 제가 입을 다무는 동안 엄마 파일은 서랍 속에 있어요.
+JAKOB: Und wenn du redest?
+= 네가 말하면?
+KATRIN: Dann liegt sie morgen auf der Titelseite. Und Tim hat wieder achtzigtausend Euro Schulden. Bei anderen Leuten.
+= 그럼 내일 1면에 실리겠죠. 그리고 팀은 다시 8만 유로 빚을 지게 돼요. 다른 사람들한테요.
+JAKOB: Gestern hat mir Nemzow etwas gesagt. Moskau will dich gar nicht.
+= 어제 넴초프가 나한테 뭔가 말했어. 모스크바는 너를 원하지도 않는대.
+KATRIN: Das weiß ich.
+= 알아요.
+JAKOB: Du weißt das?
+= 알고 있었어?
+KATRIN: Was soll Moskau mit einer Frau, die Akten scannt? Nein. Die Stimme will, dass ich über diese Brücke gehe und nie zurückkomme.
+= 모스크바가 서류나 스캔하는 여자를 어디에 쓰겠어요? 아니요. 그 목소리는 제가 그 다리를 건너서 다시는 돌아오지 않기를 원해요.
+JAKOB: Und du würdest gehen?
+= 그런데 넌 건너갈 거야?
+KATRIN: Wenn ich gehe, ist meine Mutter sicher. Das ist ein Preis, den ich verstehe.
+= 제가 건너가면 엄마는 안전해요. 그건 제가 이해할 수 있는 대가예요.
+JAKOB: Das ist kein Preis, Katrin. Das ist eine Hinrichtung mit Verspätung.
+= 그건 대가가 아니야, 카트린. 늦게 집행되는 사형이지.
+KATRIN: Sie übertreiben. Wie immer, wenn Sie Angst haben.
+= 과장하시네요. 겁날 때면 늘 그렇듯이요.
+JAKOB: Hast du gestern Nacht überhaupt geschlafen?
+= 어젯밤에 잠은 잤어?
+KATRIN: Zwei Stunden. Die Wärterin hat mir Tee gebracht und gesagt: „Schreiben hilft, Frau Lorenz." Sehr wienerisch.
+= 두 시간이요. 담당 직원이 차를 갖다주면서 "쓰는 게 도움이 돼요, 로렌츠 씨"라고 했어요. 아주 빈 사람답게요.
+JAKOB: Hat es geholfen?
+= 도움이 됐어?
+KATRIN: Bis Seite zehn. Seite elf habe ich viermal neu geschrieben.
+= 10쪽까지는요. 11쪽은 네 번이나 다시 썼어요.
+JAKOB: Ich habe keine Angst. Ich habe Reiters Video gesehen. Grau im Gesicht. Fieber seit Wochen.
+= 겁 안 나. 라이터 영상을 봤어. 얼굴이 잿빛이었어. 몇 주째 열이 난대.
+KATRIN: Dann wissen Sie, wie man dort lebt.
+= 그럼 거기서 어떻게 사는지 아시겠네요.
+JAKOB: Darum will ich nicht, dass du hingehst.
+= 그래서 네가 가는 걸 원하지 않는 거야.
+KATRIN: Und Reiter? Wenn ich nicht gehe, bleibt er dort. Wollen Sie sein Leben gegen meins tauschen, Herr Wendland?
+= 그럼 라이터는요? 제가 안 가면 그 사람은 거기 남아요. 그 사람 목숨이랑 제 목숨을 바꾸실 건가요, 벤틀란트 씨?
+JAKOB: Ich will gar nichts tauschen. Ich will, dass beide leben.
+= 아무것도 바꾸고 싶지 않아. 둘 다 살았으면 좋겠어.
+KATRIN: Das ist das Schöne an Ihnen. Sie glauben immer noch, dass eine ordentliche Akte die Welt in Ordnung bringt.
+= 그게 당신의 좋은 점이에요. 아직도 서류만 제대로 정리하면 세상도 정리된다고 믿잖아요.
+JAKOB: Vielleicht nicht die Welt. Aber manchmal einen Menschen.
+= 세상은 아닐지도 모르지. 하지만 가끔은 사람 하나는.
+#SECTION 위기 — GANZ LEISE LAUT
+JAKOB: Ich muss dich etwas fragen. Und ich will keine Antwort mit Sie.
+= 하나 물어봐야겠어. 그리고 Sie로 하는 대답은 듣고 싶지 않아.
+KATRIN: Fragen Sie.
+= 물어보세요.
+JAKOB: Das Foto von Lea. An der Tramhaltestelle in Pankow. Wusstest du davon?
+= 레아 사진. 판코의 트램 정류장에서 찍힌 거. 너 알고 있었어?
+KATRIN: Ja.
+= 네.
+JAKOB: Vorher?
+= 미리?
+KATRIN: Die Stimme hat gefragt, welche Tram Lea nimmt. Ich habe gesagt, ich weiß es nicht. Ich wusste es.
+= 그 목소리가 레아가 어떤 트램을 타는지 물었어요. 저는 모른다고 했어요. 알고 있었는데.
+JAKOB: Und trotzdem hat jemand das Foto gemacht.
+= 그런데도 누군가 사진을 찍었지.
+KATRIN: Weil Dennis sie zwei Tage lang verfolgt hat. Nicht wegen mir. Ich schwöre es dir, Jakob.
+= 데니스가 이틀 동안 레아를 따라다녔으니까요. 나 때문이 아니야. 맹세해, 야콥.
+JAKOB: Du hast gerade „dir" gesagt.
+= 너 방금 '너한테'라고 했어.
+KATRIN: Das war ein Versehen.
+= 실수였어요.
+JAKOB: Nein. Das war das Erste, was du heute ohne Nachdenken gesagt hast.
+= 아니. 그건 네가 오늘 처음으로 생각 없이 한 말이야.
+KATRIN: Hör auf, Jakob. Bitte. Ich kann nicht freundlich zu dir sein. Sonst halte ich das hier nicht aus.
+= 그만해, 야콥. 제발. 너한테 다정하게 대할 수가 없어. 안 그러면 이걸 못 버텨.
+JAKOB: Dann sei nicht freundlich. Sei einfach ehrlich. Wie auf deinen elf Seiten.
+= 그럼 다정하게 하지 마. 그냥 솔직하게 해. 네 열한 장처럼.
+KATRIN: Ehrlich? Ehrlich ist, dass ich jeden Morgen im Keller gedacht habe: Heute sage ich es ihm.
+= 솔직하게? 솔직히 말하면, 지하 창고에서 아침마다 생각했어. 오늘은 그에게 말해야지.
+KATRIN: Und jeden Abend habe ich gedacht: Morgen. Acht Jahre lang morgen.
+= 그리고 저녁마다 생각했어. 내일. 8년 동안 내일.
+JAKOB: Warum hast du es nie getan?
+= 왜 한 번도 말하지 않았어?
+KATRIN: Weil du der einzige Mensch warst, der mir geglaubt hat. Ich wollte diesen Menschen nicht verlieren.
+= 네가 날 믿어 준 유일한 사람이었으니까. 그 사람을 잃고 싶지 않았어.
+JAKOB: Du hast ihn trotzdem verloren. In Hamburg. Im Nebel.
+= 그래도 잃었잖아. 함부르크에서. 안개 속에서.
+KATRIN: Ich weiß. Darum habe ich Sie gesagt. Damit es schneller weh tut.
+= 알아. 그래서 Sie라고 한 거야. 더 빨리 아프라고.
+JAKOB: Es hat nicht schneller weh getan. Nur länger.
+= 더 빨리 아프진 않았어. 더 오래 아팠을 뿐이지.
+KATRIN: Ganz leise laut, Herr Archivar.
+= 아주 조용히 시끄럽게, 기록관님.
+JAKOB: Ganz leise laut, Katrin.
+= 아주 조용히 시끄럽게, 카트린.
+KATRIN: Lea benutzt das auch, oder? Du hast es mir mal erzählt.
+= 레아도 그 말 쓰지? 네가 언젠가 얘기해 줬잖아.
+JAKOB: Sie hat es mir letzte Woche geschrieben. „Ganz leise laut, Papa. Komm heil zurück."
+= 지난주에 나한테 그렇게 보냈어. "아주 조용히 시끄럽게, 아빠. 무사히 돌아와."
+KATRIN: Dann musst du heil zurückkommen. Das ist eine Anweisung.
+= 그럼 무사히 돌아가야지. 이건 지시야.
+JAKOB: Von wem? Von einer Gefangenen?
+= 누구 지시인데? 수감자의?
+KATRIN: Von einer Kollegin. Einer ehemaligen. Mit Kaffee.
+= 동료의 지시지. 전 동료. 커피 타 주던.
+JAKOB: Ich habe dir übrigens etwas mitgebracht. Frau Gruber hat es erlaubt.
+= 그런데 너 주려고 가져온 게 있어. 그루버 씨가 허락했어.
+KATRIN: Was ist das? Ein Becher?
+= 그게 뭐야? 머그잔?
+JAKOB: Dein Becher. Aus dem Keller. Mertens hat ihn aufbewahrt. „Regel zwanzig" steht noch drauf.
+= 네 머그잔이야. 지하 창고에 있던 거. 메르텐스가 보관해 뒀어. '규칙 20'이 아직 적혀 있어.
+KATRIN: Mertens. Der Mann, der jeden Morgen um sieben kommt.
+= 메르텐스. 매일 아침 일곱 시에 오는 사람.
+JAKOB: Er hat gesagt: „Sagen Sie ihr, der Keller ist ohne sie zu leise."
+= 그분이 그러더라. "지하실이 그 사람 없이는 너무 조용하다고 전해 주세요."
+KATRIN: Hör auf. Sonst weine ich vor der Österreicherin.
+= 그만해. 안 그러면 오스트리아 사람 앞에서 울 거야.
+#SECTION 결말 — EIN HINWEIS
+THERESA: Herr Wendland, Frau Lorenz, es tut mir leid. Fünfundvierzig Minuten sind vorbei.
+= 벤틀란트 씨, 로렌츠 씨, 죄송해요. 45분이 지났어요.
+JAKOB: Noch zwei Minuten, Frau Magister. Bitte.
+= 2분만 더요, 마기스터 씨. 부탁해요.
+THERESA: Zwei Minuten. Ich habe nichts gehört, und meine Uhr geht heute nach.
+= 2분이에요. 저는 아무것도 못 들었고, 오늘은 제 시계가 느려요.
+JAKOB: Katrin, ich verstehe, warum du den Namen nicht aufschreibst. Aber ich kann sie nicht finden, wenn du mir gar nichts gibst.
+= 카트린, 네가 왜 이름을 안 쓰는지 이해해. 하지만 네가 아무것도 안 주면 난 그 사람을 못 찾아.
+KATRIN: „Sie"? Du hast gerade „sie" gesagt. Nicht „die Stimme".
+= '그녀'? 너 방금 '그녀'라고 했어. '그 목소리'가 아니라.
+JAKOB: Du hast „bei ihr" durchgestrichen. In Hamburg hast du Sorin gesagt: „Sagen Sie ihr…" Ich bin Archivar, Katrin. Ich lese auch, was durchgestrichen ist.
+= 너 '그녀한테'를 줄 그어 지웠잖아. 함부르크에서 소린한테도 "그녀에게 전하세요…"라고 했고. 난 기록관이야, 카트린. 지워진 것도 읽어.
+KATRIN: Natürlich. Du liest immer alles.
+= 그렇겠지. 넌 늘 전부 읽으니까.
+JAKOB: Hilf mir. Nicht mit dem Namen. Nur mit einer Richtung.
+= 도와줘. 이름 말고. 방향만이라도.
+KATRIN: Wenn ich dir eine Richtung gebe, und meiner Mutter passiert etwas…
+= 내가 방향을 알려 줬는데 엄마한테 무슨 일이 생기면…
+JAKOB: Dann bin ich schuld. Nicht du. Das schreibe ich dir auf, wenn du willst. Mit Unterschrift.
+= 그럼 내 탓이야. 네 탓이 아니고. 원하면 적어 줄게. 서명까지 해서.
+KATRIN: Mit Datum und Uhrzeit?
+= 날짜랑 시간도?
+JAKOB: Fundort, Uhrzeit, Zustand.
+= 발견 장소, 시간, 상태.
+KATRIN: Du bist unmöglich.
+= 넌 정말 어쩔 수 없다.
+THERESA: Noch eine Minute.
+= 1분 남았어요.
+KATRIN: Erinnerst du dich an den Februar 2019? Der Umzug in das neue Haus an der Chausseestraße?
+= 2019년 2월 기억나? 쇼세 거리 새 건물로 이사하던 거?
+JAKOB: Natürlich. Der erste Tag im neuen Gebäude. Reden, Sekt, ein Band zum Durchschneiden. Was hat das damit zu tun?
+= 물론이지. 새 건물에서의 첫날. 연설, 샴페인, 자르는 테이프. 그게 이거랑 무슨 상관인데?
+KATRIN: Damals hast du in der Reihe gestanden. Ganz hinten. Du wolltest gar nicht da sein.
+= 그때 너 줄에 서 있었잖아. 맨 뒤에. 거기 있고 싶지도 않았으면서.
+JAKOB: Ich hasse Empfänge. Das weißt du.
+= 난 리셉션 싫어해. 알잖아.
+KATRIN: Ich weiß. Aber jemand ist die ganze Reihe entlanggegangen. Bis ganz nach hinten. Zu dir.
+= 알아. 그런데 누군가 그 줄을 따라 쭉 걸어왔어. 맨 뒤까지. 너한테까지.
+THERESA: Die Zeit ist um, Herr Wendland. Es tut mir wirklich leid.
+= 시간 다 됐어요, 벤틀란트 씨. 정말 죄송해요.
+JAKOB: Katrin. Wer?
+= 카트린. 누구야?
+KATRIN: Sie hat dir an deinem ersten Tag die Hand geschüttelt.
+= 그 사람은 네 첫날에 너랑 악수했어.
+#NEXT
+3부 9화 — «Die Donau bei Nacht»(밤의 도나우) — 사라졌던 브뤼크너의 흔적이 도나우 강의 화물선에서 잡힌다. 테레자와 아일린, 야콥은 한밤중 구출 작전에 나서고, 무전과 짧은 외침 속에서 늙은 소령을 빼낸다. 부상당한 브뤼크너가 야콥의 손에 쥐여 준 것은 1981년의 마이크로필름 한 통이다.

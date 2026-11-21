@@ -1,0 +1,245 @@
+#META
+part: 3
+episode: 12
+title: Tausch in Wien
+subtitle_ko: 빈의 맞교환
+place_ko: 교환의 다음 날, 병원과 슈테판 광장
+setting: 2027년 5월 30일(일) 새벽 병원 복도 → DSN 감식실 → 5월 31일(월) 오후 슈테판 대성당 앞 광장 → 밤 호텔 방
+level: B2
+#CAST
+JAKOB | 야콥 벤틀란트 · 44세 · BND 기록 담당자
+AYLIN | 아일린 데미르 · 41세 · BfV 방첩부 팀장
+THERESA | 테레자 그루버 · 44세 · 오스트리아 DSN 수사관
+KATRIN | 카트린 로렌츠 · 39세 · 다리를 건너지 않은 사람
+MIRA | 미라 호프만 · 36세 · 『Berliner Abendpost』 기자 (전화)
+RADIO | 오스트리아 뉴스 라디오 아나운서 (가상 방송)
+KRANZ | 요아힘 크란츠 · 66세 · 연방 국방장관 (전화)
+#INTRO
+※ 교환의 밤이 끝났습니다. 다니엘 라이터는 다리를 건너 자유를 찾았고, 러시아 요원 자이체프는 반대편으로 넘어갔습니다. 카트린은 끝내 다리를 건너지 않았습니다. 그러나 슬로바키아 쪽 강변에서 날아온 총알이 브뤼크너를 쓰러뜨렸고, 그가 숨을 거두기 직전 남긴 한 마디는 '자이들리츠'였습니다. 마르히 강에 떨어진 마이크로필름 통은 DSN 보트가 건져 올렸습니다. 이번 화는 그다음 이틀을 따라갑니다. 야콥은 아일린·테레자·카트린·미라와 du를, 크란츠와는 Sie를 씁니다. 테레자는 작별할 때 빈식 인사 "Baba"를 씁니다. 표현 초점: 증거와 추론의 어휘 — Beweis, Indiz, Zeugenaussage, beschädigt, nachweisen, Vermutung.
+#SECTION 도입 — VIER UHR MORGENS
+AYLIN: Jakob. Setz dich. Du stehst seit drei Stunden an diesem Fenster.
+= 야콥. 앉아. 너 세 시간째 그 창가에 서 있어.
+JAKOB: Der Arzt hat gesagt, er ist im Wagen gestorben. Um null Uhr vierzig. Kurz hinter Hainburg.
+= 의사가 그러는데 구급차 안에서 죽었대. 0시 40분에. 하인부르크 조금 지나서.
+AYLIN: Ich weiß. Ich war dabei, als er es gesagt hat.
+= 알아. 그 말 할 때 나도 있었어.
+JAKOB: Er hatte ein Asylpapier in einer grünen Mappe. Unterschrieben. Er hat es nicht einmal gelesen.
+= 초록색 서류철에 망명 서류가 있었어. 서명까지 된 거. 그 사람은 읽어 보지도 못했어.
+AYLIN: Er wollte kein Papier, Jakob. Er wollte, dass ihm jemand zuhört. Das hast du getan.
+= 그 사람이 원한 건 서류가 아니었어, 야콥. 누군가 자기 말을 들어 주길 원했지. 넌 그렇게 해 줬고.
+JAKOB: Ich habe ihn auf eine Brücke gelassen, auf der geschossen wurde.
+= 난 총알이 날아다니는 다리 위로 그 사람을 보냈어.
+AYLIN: Er ist selbst über die Absperrung gegangen. Niemand hätte ihn aufhalten können.
+= 그 사람 스스로 차단선을 넘었어. 아무도 못 막았을 거야.
+JAKOB: Wie geht es Reiter?
+= 라이터는 어때?
+AYLIN: Er schläft. Unterernährt, eine Lungenentzündung, aber er schafft es. Morgen fliegt er nach Berlin.
+= 자고 있어. 영양실조에 폐렴이지만 이겨 낼 거야. 내일 베를린으로 날아가.
+JAKOB: Und Katrin?
+= 카트린은?
+AYLIN: Sitzt zwei Zimmer weiter. Mit zwei Beamten vom BKA. Sie hat die ganze Nacht nichts gesagt.
+= 두 방 건너에 있어. BKA 직원 두 명이랑. 밤새 아무 말도 안 했어.
+JAKOB: Sie hat nein gesagt, Aylin. Auf der Brücke. Vor allen.
+= 걔 아니라고 했어, 아일린. 다리 위에서. 모두 앞에서.
+AYLIN: Ich war am Funk. Ich habe es gehört. Berlin übrigens auch.
+= 나 무전 들고 있었어. 들었지. 참고로 베를린도 들었고.
+JAKOB: Was sagt Berlin?
+= 베를린은 뭐래?
+AYLIN: Berlin sagt nichts. Seit Mitternacht ruft niemand zurück. Das ist ungewöhnlich.
+= 베를린은 아무 말도 안 해. 자정부터 아무도 회신을 안 해. 이상한 일이지.
+JAKOB: Oder sehr gewöhnlich. Je nachdem, wer in Berlin am Telefon sitzt.
+= 아니면 아주 평범한 일이거나. 베를린에서 누가 전화를 받느냐에 따라.
+THERESA: Guten Morgen ist übertrieben, also sage ich nur: Kaffee. Schwarz, für euch beide.
+= 좋은 아침이라기엔 과하니까 그냥 이렇게 말할게. 커피. 블랙으로, 두 사람 다.
+JAKOB: Danke, Theresa. Gibt es etwas Neues von der Dose?
+= 고마워, 테레자. 필름 통 소식 있어?
+THERESA: Deshalb bin ich hier. Kommt mit. Unser Labor macht um sechs auf, für euch um fünf.
+= 그래서 온 거야. 따라와. 우리 감식실은 여섯 시에 여는데, 너희를 위해 다섯 시에 열었어.
+#SECTION 전개 1 — EIN NASSER FILM
+THERESA: Das ist sie. Unser Taucher hat sie um ein Uhr zwanzig aus der March geholt. Drei Meter tief, im Schlamm.
+= 이거야. 우리 잠수부가 1시 20분에 마르히 강에서 건져 왔어. 3미터 깊이, 진흙 속에서.
+JAKOB: Der Deckel ist verbogen.
+= 뚜껑이 휘었네.
+THERESA: Vom Aufprall auf das Geländer. Und dann war sie fast eine Stunde im Wasser.
+= 난간에 부딪혀서. 그러고는 거의 한 시간 물속에 있었어.
+AYLIN: Was heißt das für den Film?
+= 그럼 필름은 어떻게 되는 거예요?
+THERESA: Unsere Technikerin sagt: Die ersten zwanzig Bilder sind verloren. Die Emulsion hat sich abgelöst.
+= 우리 기술자 말로는 처음 스무 장은 날아갔대요. 감광층이 떨어져 나갔고요.
+JAKOB: Und der Rest?
+= 나머지는?
+THERESA: Der Rest ist verschwommen. Man sieht ein Formular. Man sieht Linien, ein Datum, vielleicht eine Unterschrift.
+= 나머지는 흐릿해. 서식 하나가 보여. 선들, 날짜 하나, 어쩌면 서명 하나.
+AYLIN: Vielleicht.
+= 어쩌면이라.
+THERESA: Und wo der Name stehen müsste, ist ein schwarzer Balken. Der ist nicht vom Wasser. Den hat jemand mit Absicht gemacht.
+= 그리고 이름이 있어야 할 자리엔 검은 줄이 있어. 그건 물 때문이 아니야. 누군가 일부러 그은 거야.
+JAKOB: Brückner selbst. Er hat es mir am Dienstag erklärt. Seine Lebensversicherung, hat er gesagt.
+= 브뤼크너 본인이야. 화요일에 나한테 설명했어. 자기 생명 보험이라고.
+AYLIN: Eine Lebensversicherung, die man nicht lesen kann. Großartig.
+= 읽을 수도 없는 생명 보험이라. 훌륭하네.
+JAKOB: Er wollte den Namen nur aussprechen, nicht zeigen. Damit niemand ihn ohne ihn benutzen kann.
+= 그 사람은 이름을 보여 주지 않고 말로만 하려고 했어. 자기 없이는 아무도 그걸 쓰지 못하게.
+THERESA: Kann man in Berlin mehr retten? In Deutschland gibt es Spezialisten für alte Filme.
+= 베를린에서 더 살릴 수 있을까? 독일엔 오래된 필름 전문가들이 있잖아.
+JAKOB: Vielleicht. Die Handschrift ist das Einzige, was man nicht schwärzen kann.
+= 어쩌면. 필체만은 검게 칠할 수 없으니까.
+AYLIN: Jakob, ich muss es dir so sagen, wie es ist.
+= 야콥, 있는 그대로 말해야겠어.
+JAKOB: Sag es.
+= 말해.
+AYLIN: Ein Sterbender, ein nasser Film und ein Name. Damit gehst du in Berlin nirgendwohin.
+= 죽어 가던 사람, 젖은 필름, 그리고 이름 하나. 그걸로는 베를린에서 아무 데도 못 가.
+JAKOB: Ich weiß.
+= 알아.
+AYLIN: Seidlitz ist Staatssekretärin im Kanzleramt. Sie hat die Reform geschrieben. Sie hat diese Reise genehmigt.
+= 자이들리츠는 총리실 국무차관이야. 개혁안을 쓴 사람이고. 이번 출장도 그 사람이 승인했어.
+THERESA: Moment. Sie hat die Reise genehmigt? Sie wusste also, wer heute Nacht auf der Brücke steht?
+= 잠깐. 그 사람이 출장을 승인했다고? 그럼 오늘 밤 누가 다리 위에 서는지 알고 있었다는 거네?
+AYLIN: Die Teilnehmerliste ging am Donnerstag nach Berlin. Mit allen Namen. Auch mit Brückners.
+= 참석자 명단이 목요일에 베를린으로 갔어요. 이름 전부 적어서. 브뤼크너 이름까지.
+#SECTION 전개 2 — WAS KATRIN WEISS
+KATRIN: Ihr müsst nicht so leise reden. Die Wände hier sind dünn.
+= 그렇게 작게 말할 필요 없어. 여기 벽 얇아.
+JAKOB: Katrin. Du solltest schlafen.
+= 카트린. 너 자야 해.
+KATRIN: Ich habe acht Jahre nicht richtig geschlafen. Auf eine Nacht kommt es nicht an.
+= 나 8년 동안 제대로 못 잤어. 하룻밤 더는 상관없어.
+AYLIN: Sie haben gehört, was er gesagt hat. Auf der Brücke.
+= 다리 위에서 그분이 한 말 들었죠.
+KATRIN: Seidlitz. Ja. Ich habe es gehört.
+= 자이들리츠. 네. 들었어요.
+JAKOB: Und? War sie es? Die Stimme am Telefon?
+= 그래서? 그 사람이야? 전화 속 그 목소리?
+KATRIN: Ich habe ihre Stimme nie mit einem Gesicht verbunden. Sie hat immer durch ein Gerät gesprochen. Verzerrt.
+= 난 그 목소리를 얼굴이랑 연결해 본 적이 없어. 늘 기계를 통해 말했거든. 변조된 목소리로.
+JAKOB: Aber du hast am Montag etwas anderes gesagt. „Sie hat dir an deinem ersten Tag die Hand geschüttelt."
+= 그런데 월요일엔 다른 말을 했잖아. "그 여자는 네 첫날 너랑 악수했어."
+KATRIN: Weil sie es mir selbst erzählt hat. Vor zwei Jahren. Sie hat gelacht und gesagt: „Ihr Archivar hat sehr kalte Hände."
+= 그 사람이 직접 나한테 말했으니까. 2년 전에. 웃으면서 이랬어. "당신네 기록관은 손이 아주 차갑더군요."
+JAKOB: Mein erster Tag… im neuen Gebäude. Februar neunzehn, die Eröffnung an der Chausseestraße.
+= 내 첫날이라… 새 건물에서. 2019년 2월, 쇼세 거리 개청식.
+AYLIN: Da waren Hunderte Leute. Minister, Abgeordnete, das halbe Kanzleramt.
+= 그땐 수백 명이 있었어. 장관들, 의원들, 총리실 절반.
+JAKOB: Und eine Frau, die in der Eingangshalle allen die Hand gegeben hat. Jedem einzelnen Mitarbeiter.
+= 그리고 입구 홀에서 모두와 악수하던 여자가 있었어. 직원 한 사람 한 사람이랑.
+KATRIN: Weißt du noch, was sie zu dir gesagt hat?
+= 그때 그 사람이 너한테 뭐라고 했는지 기억나?
+JAKOB: „Ohne Archive gibt es keine Wahrheit." Ich fand den Satz damals schön.
+= "기록이 없으면 진실도 없습니다." 그땐 그 말이 멋지다고 생각했어.
+AYLIN: Das ist kein Beweis. Das ist eine Erinnerung an einen Händedruck vor acht Jahren.
+= 그건 증거가 아니야. 8년 전 악수에 대한 기억일 뿐이지.
+KATRIN: Ich weiß. Indizien. Nichts als Indizien.
+= 알아요. 정황. 정황뿐이죠.
+THERESA: Darf ich etwas aus österreichischer Sicht sagen?
+= 오스트리아 입장에서 한마디 해도 될까?
+JAKOB: Bitte.
+= 해 줘.
+THERESA: Der Schuss kam aus dreihundert Metern, vom slowakischen Ufer. Ein Profi. Nemzow hat mich heute früh angerufen.
+= 총알은 300미터 떨어진 슬로바키아 강변에서 날아왔어. 전문가 솜씨야. 넴초프가 오늘 아침 나한테 전화했어.
+AYLIN: Nemzow ruft eine österreichische Ermittlerin an? Freiwillig?
+= 넴초프가 오스트리아 수사관한테 전화를 해요? 자발적으로?
+THERESA: Er hat einen Satz gesagt und aufgelegt: „Wir räumen nicht für andere auf."
+= 한 문장 말하고 끊었어요. "우린 남의 뒤치다꺼리는 안 합니다."
+#SECTION 위기 — STEPHANSPLATZ
+THERESA: So. Das ist der Steffl. Wenn man Wien verlässt, ohne ihn anzuschauen, bringt das Unglück.
+= 자. 이게 슈테플이야. 빈을 떠나면서 이걸 안 보면 재수가 없대.
+JAKOB: Der Steffl?
+= 슈테플?
+THERESA: Der Stephansdom. So sagen wir hier. Ihr Deutschen gebt allem lange Namen, wir geben allem kurze.
+= 슈테판 대성당. 여기선 그렇게 불러. 너희 독일 사람들은 뭐든 긴 이름을 붙이고, 우린 뭐든 짧게 부르지.
+JAKOB: Du hast mir in zwei Wochen mehr Wörter beigebracht als mein Deutschlehrer in drei Jahren.
+= 2주 동안 네가 가르쳐 준 단어가 우리 독일어 선생님이 3년 동안 가르친 것보다 많아.
+THERESA: Sackerl, Paradeiser, Obers. Sehr wichtige Wörter für einen Agenten.
+= 자커를, 파라다이저, 오버스. 요원한테 아주 중요한 단어들이지.
+JAKOB: Ich bin kein Agent. Ich bin Archivar.
+= 난 요원이 아니야. 기록 담당자야.
+THERESA: Das sagst du seit zwei Wochen. Langsam glaube ich dir nicht mehr.
+= 2주째 그 말이네. 이제 슬슬 안 믿겨.
+RADIO: Und nun die Nachrichten aus Deutschland.
+= 이어서 독일 소식입니다.
+RADIO: In Berlin bereitet das Kanzleramt die Geschäftsstelle des neuen Nationalen Sicherheitsrats vor.
+= 베를린에서는 총리실이 새 국가안보회의 사무국 출범을 준비하고 있습니다.
+RADIO: Als aussichtsreichste Kandidatin für die Leitung gilt Staatssekretärin Helene Seidlitz, die Architektin der Geheimdienstreform.
+= 사무국장 유력 후보로는 정보기관 개혁안을 설계한 헬레네 자이들리츠 국무차관이 꼽힙니다.
+THERESA: Da hast du's. Mach das Radio im Café aus, sonst wird dir der Kaffee bitter.
+= 그것 봐. 카페 라디오 꺼, 안 그러면 커피가 쓰게 느껴질 거야.
+JAKOB: Sie wird befördert. Während wir Fotos von einem nassen Film anschauen.
+= 그 사람은 승진하는구나. 우리가 젖은 필름 사진을 들여다보는 동안.
+THERESA: In Wien haben wir etwas gelernt, Jakob. Nach Ott, nach dem BVT.
+= 빈에서 우린 뭔가를 배웠어, 야콥. 오트 사건 이후로, BVT 이후로.
+JAKOB: Was?
+= 뭘?
+THERESA: Die gefährlichsten Leute sind nicht die, die man verhaftet. Es sind die, die man befördert.
+= 제일 위험한 사람들은 체포되는 사람들이 아니야. 승진하는 사람들이지.
+JAKOB: Ott wurde vor einem Jahr verurteilt. Hat sich seitdem etwas geändert?
+= 오트는 1년 전에 유죄 판결을 받았잖아. 그 뒤로 뭔가 달라졌어?
+THERESA: Wir sind misstrauischer geworden. Das ist nicht viel. Aber es ist ein Anfang.
+= 우린 더 의심이 많아졌어. 대단한 건 아니야. 그래도 시작이지.
+JAKOB: Danke, Theresa. Für den Schwager, das Boot, den Taucher. Für Saizew.
+= 고마워, 테레자. 형부도, 보트도, 잠수부도. 자이체프도.
+THERESA: Saizew hat mich nichts gekostet. Er hat nur unsere Gefängniskost gegessen.
+= 자이체프는 나한테 비용이 안 들었어. 우리 교도소 밥만 먹었지.
+JAKOB: Kommst du mal nach Berlin?
+= 언젠가 베를린에 올 거야?
+THERESA: Wenn du mir einen ordentlichen Kaffee versprichst. Keinen „Filterkaffee".
+= 제대로 된 커피를 약속하면. '필터 커피' 말고.
+JAKOB: Versprochen. Melange. Ich lerne das.
+= 약속할게. 멜랑주. 배워 둘게.
+THERESA: Pass auf dich auf, Jakob. Baba.
+= 몸조심해, 야콥. 바바.
+JAKOB: Baba? Was heißt das?
+= 바바? 그게 무슨 뜻이야?
+THERESA: Das heißt Tschüss. Aber freundlicher. Und mit dem Versprechen, dass man sich wiedersieht.
+= 안녕이라는 뜻이야. 근데 더 다정한. 그리고 다시 만나자는 약속까지 담긴.
+#SECTION 결말 — EIN ANRUF AM ABEND
+MIRA: Jakob? Ich bin's. Ich sitze neben Daniel im Flugzeug. Er schläft endlich.
+= 야콥? 나야. 다니엘 옆에 앉아서 비행기 타고 있어. 이제야 잠들었어.
+JAKOB: Mira. Wie geht es ihm?
+= 미라. 그 사람 어때?
+MIRA: Er hat beim Start geweint. Und dann hat er nach seiner Tochter gefragt. Dreimal.
+= 이륙할 때 울었어. 그러고는 딸 얘기를 물었어. 세 번이나.
+JAKOB: Grüß ihn von mir, wenn er aufwacht.
+= 깨어나면 내 안부 전해 줘.
+MIRA: Mach ich. Und du? Ich habe gehört, was auf der Brücke passiert ist. Nicht offiziell.
+= 그럴게. 너는? 다리에서 무슨 일 있었는지 들었어. 비공식적으로.
+JAKOB: Dann weißt du mehr, als ich am Telefon sagen sollte.
+= 그럼 내가 전화로 말해야 할 것보다 많이 아는 거네.
+MIRA: Ich schreibe nichts, bevor du es erlaubst. Das war unser Deal. Der gilt noch.
+= 네가 허락하기 전엔 아무것도 안 써. 그게 우리 약속이었잖아. 아직 유효해.
+JAKOB: Danke. Ich brauche jetzt Zeit. Und Beweise. Und vielleicht ein Wunder.
+= 고마워. 지금은 시간이 필요해. 그리고 증거도. 어쩌면 기적도.
+MIRA: Ich kenne in Wedding ein Fotolabor. Die retten Filme, die andere wegwerfen.
+= 베딩에 사진 현상소를 하나 알아. 다른 데서 버리는 필름도 살려 내는 곳이야.
+JAKOB: Merk dir die Adresse. Ich komme darauf zurück.
+= 주소 기억해 둬. 다시 연락할게.
+AYLIN: Jakob, noch etwas. Die BND-Leitung hat mich eben angerufen.
+= 야콥, 하나 더. 방금 BND 지휘부에서 전화가 왔어.
+JAKOB: Endlich ruft Berlin zurück. Und?
+= 드디어 베를린이 회신했네. 그래서?
+AYLIN: Du bist ab sofort vom Dienst freigestellt. Bis zur Klärung der Vorgänge in Wien. Deine Abordnung zu uns endet heute.
+= 넌 지금부터 직무 정지야. 빈에서 있었던 일이 규명될 때까지. 우리 쪽 파견도 오늘로 끝나고.
+JAKOB: Wer hat das unterschrieben?
+= 누가 서명했어?
+AYLIN: Das haben sie mir nicht gesagt. Aber du kannst es dir denken.
+= 그건 말 안 해 줬어. 근데 짐작할 수 있잖아.
+JAKOB: Und du? Bekommst du auch Ärger?
+= 너는? 너도 곤란해져?
+AYLIN: Ich bekomme immer Ärger. Ich bin daran gewöhnt. Fahr nach Hause, Jakob. Besuch deine Mutter. Schlaf.
+= 난 늘 곤란해. 익숙해. 집에 가, 야콥. 어머니 찾아뵙고. 잠 좀 자.
+KATRIN: Jakob? Die Beamten bringen mich morgen früh zurück nach Deutschland. In Untersuchungshaft.
+= 야콥? 직원들이 내일 아침 나를 독일로 데려간대. 미결 구금으로.
+JAKOB: Ich weiß. Ich besuche dich. Das verspreche ich.
+= 알아. 면회 갈게. 약속해.
+KATRIN: Versprich nichts. Du hast heute schon genug versprochen.
+= 아무것도 약속하지 마. 오늘 벌써 충분히 약속했잖아.
+JAKOB: Mein Telefon. Eine Nummer, die ich nicht kenne. Berliner Vorwahl.
+= 내 전화야. 모르는 번호. 베를린 지역 번호고.
+AYLIN: Geh ran. Es ist fast Mitternacht. Wer um diese Zeit anruft, will etwas Wichtiges.
+= 받아 봐. 거의 자정이야. 이 시간에 전화하는 사람은 중요한 용건이 있는 거야.
+JAKOB: Wendland.
+= 벤틀란트입니다.
+KRANZ: Herr Wendland? Hier Kranz. Wir müssen reden. Persönlich.
+= 벤틀란트 씨? 크란츠입니다. 얘기 좀 합시다. 직접 만나서.
+#NEXT
+4부 1화 — «Zurück in Lichtenberg»(다시 리히텐베르크) — 2027년 9월, 직무 정지 석 달째. 야콥은 어머니의 부엌에서, 그리고 딸의 학교 앞에서 빈에서 있었던 일을 어디까지 말할 수 있을지 고민한다. TV에서는 국가안보회의 사무국장 내정자가 "Wir müssen endlich zurückschlagen können."이라고 말한다. 그리고 어느 저녁, 바로 그 사람이 꽃다발을 들고 어머니의 집 문 앞에 서 있다.

@@ -1,0 +1,277 @@
+#META
+part: 3
+episode: 2
+title: Im Kaffeehaus
+subtitle_ko: 카페하우스에서
+place_ko: 링슈트라세의 오래된 카페
+setting: 2027년 5월 18일(화) 오전 열 시, 빈 링슈트라세의 카페 '카페 프라이나'(가상) 안쪽 별실
+level: B2
+#CAST
+JAKOB | 前 BND 기록 담당자 · BfV 파견 · 44세
+AYLIN | BfV 방첩부 팀장 · 41세
+THERESA | 오스트리아 DSN 수사관 · Mag. · 44세
+NEMZOW | 러시아 측 협상 대표 · 55세
+OBER | 카페 프라이나의 수석 웨이터 · 60대 · 빈 토박이
+#INTRO
+※ 빈에 도착한 다음 날 아침입니다. 카트린은 보호 시설로 옮겨졌고, 기차에서 그녀가 속삭인 말은 아직 야콥 혼자만 알고 있습니다. "모스크바가 아니라 정원사가 날 원한다." 오늘은 러시아 측 협상 대표와의 첫 예비 협상이 열립니다. 장소는 빈 사람들이 '중립 지대'라고 부르는 오래된 카페하우스입니다. 협상 대표 빅토르 넴초프는 완벽한 독일어를 쓰고, 2024년 8월 앙카라에서 있었던 대규모 수감자 맞교환을 선례로 꺼냅니다. 당시 독일은 베를린 티어가르텐 살인범을 석방했고, 그 결정은 지금도 정치적 부담으로 남아 있습니다. 표현 초점: 외교·협상 어휘 — verhandeln, Bedingung, Gegenleistung, Präzedenzfall, Zugeständnis, diplomatisch / 빈 카페 문화(Melange, Einspänner, Verlängerter, Herr Ober).
+#SECTION 도입 — HERR OBER
+OBER: Grüß Gott, die Herrschaften. Frau Magister, wie immer?
+= 안녕하세요, 여러분. 마기스터 님, 늘 드시던 걸로요?
+THERESA: Wie immer, Herr Franz. Eine Melange. Und für meine Gäste aus Deutschland …
+= 늘 먹던 걸로요, 프란츠 씨. 멜랑주 하나. 그리고 독일에서 온 손님들은…
+AYLIN: Einen Kaffee, bitte. Schwarz.
+= 커피 하나요. 블랙으로.
+OBER: „Einen Kaffee." Gnädige Frau, in diesem Haus gibt es dreiundzwanzig Kaffees. Welchen davon?
+= "커피 하나"라. 부인, 이 집엔 커피가 스물세 가지 있습니다. 그중 어떤 걸로요?
+AYLIN: Den schwärzesten.
+= 제일 진한 걸로요.
+OBER: Einen großen Schwarzen. Sehr wohl. Und der Herr?
+= 그로서 슈바르처 하나. 알겠습니다. 그리고 신사분은요?
+JAKOB: Was ist ein Einspänner?
+= 아인슈페너가 뭐예요?
+OBER: Ein Mokka im Glas, mit einer Haube aus Schlagobers. Früher haben ihn die Kutscher getrunken. Mit einer Hand.
+= 유리잔에 담은 모카에 슐락오버스를 모자처럼 얹은 겁니다. 옛날엔 마부들이 마셨지요. 한 손으로요.
+JAKOB: Warum mit einer Hand?
+= 왜 한 손으로요?
+OBER: Weil sie in der anderen die Zügel hatten. Ein Getränk für Leute, die nicht loslassen dürfen.
+= 다른 손엔 고삐를 쥐고 있었으니까요. 손을 놓으면 안 되는 사람들을 위한 음료지요.
+JAKOB: Dann nehme ich den.
+= 그럼 그걸로 할게요.
+OBER: Eine gute Wahl. Wasser kommt dazu, gratis. Wie es sich gehört.
+= 좋은 선택입니다. 물은 같이 나옵니다, 무료로. 그게 도리니까요.
+AYLIN: Ist der immer so?
+= 저 사람 늘 저래요?
+THERESA: Herr Franz arbeitet hier seit einundvierzig Jahren. Er hat drei Bundeskanzler bedient und zwei Spione aus dem Lokal geworfen.
+= 프란츠 씨는 여기서 41년째 일해요. 총리 세 명을 모셨고 스파이 둘을 가게에서 내쫓았죠.
+JAKOB: Woran hat er die erkannt?
+= 그걸 어떻게 알아봤대요?
+THERESA: Sie haben das Wasser nicht getrunken. Ein echter Gast trinkt das Wasser.
+= 물을 안 마셨대요. 진짜 손님은 물을 마시거든요.
+AYLIN: Und warum treffen wir die Russen ausgerechnet hier?
+= 그런데 왜 하필 여기서 러시아 쪽을 만나요?
+THERESA: Weil ein Kaffeehaus neutral ist. Hier darf jeder stundenlang sitzen, und keiner fragt, warum.
+= 카페하우스는 중립이니까요. 여긴 누구나 몇 시간이고 앉아 있을 수 있고, 아무도 이유를 묻지 않아요.
+JAKOB: Wie Österreich.
+= 오스트리아처럼요.
+THERESA: Genau wie Österreich. Nur mit besserem Kuchen.
+= 딱 오스트리아죠. 케이크만 더 맛있고요.
+AYLIN: Bevor er kommt: Jakob, was hat sie dir gestern zugeflüstert? Du hast seit gestern kaum ein Wort gesagt.
+= 그 사람 오기 전에. 야콥, 어제 그 여자가 너한테 뭐라고 속삭였어? 어제부터 거의 말이 없잖아.
+JAKOB: Sie hat gesagt, dass nicht Moskau sie zurückhaben will. Sondern der Gärtner.
+= 모스크바가 자기를 돌려받고 싶은 게 아니래. 정원사가 원하는 거래.
+THERESA: Der Gärtner? Wer soll das sein? Ein Deckname?
+= 정원사요? 그게 누군데요? 암호명이에요?
+JAKOB: Ein Deckname aus den Achtzigern. Jemand, der Frau Lorenz seit Jahren erpresst. Niemand kennt sein Gesicht.
+= 80년대 암호명이에요. 로렌츠 씨를 몇 년째 협박해 온 사람이죠. 아무도 그 얼굴을 몰라요.
+AYLIN: Oder ihr Gesicht. In Hamburg hat Frau Lorenz einmal „ihr" gesagt. Ein einziges Mal.
+= 아니면 그 여자 얼굴이거나. 함부르크에서 로렌츠 씨가 딱 한 번 '그 여자'라고 했어.
+THERESA: Und warum sollte dieser Gärtner sie über Moskau zurückholen wollen?
+= 그런데 그 정원사가 왜 굳이 모스크바를 통해 그 여자를 데려가려고 하죠?
+JAKOB: Damit sie nicht mehr redet. In Moskau gibt es keine deutschen Gerichte. Und keine Zeugenaussagen.
+= 더는 말하지 못하게요. 모스크바엔 독일 법정이 없잖아요. 증언도 없고요.
+THERESA: Das ist eine schöne Theorie für einen Dienstagmorgen.
+= 화요일 아침치고는 멋진 이론이네요.
+AYLIN: Es ist keine Theorie. Es ist eine Befürchtung. Das ist bei uns die Vorstufe.
+= 이론이 아니에요. 우려죠. 우리 일에선 그게 이론 전 단계예요.
+THERESA: Dann sagen wir dem Russen nichts davon. Wir lassen ihn reden. Ein Mann, der viel redet, verrät die Pausen.
+= 그럼 저 러시아인한텐 아무 말도 하지 말죠. 말하게 내버려 둬요. 말이 많은 사람은 쉬는 틈에 정체가 드러나요.
+JAKOB: Die Pausen?
+= 쉬는 틈이요?
+THERESA: Wo einer nicht weiterspricht, da liegt das Interessante. Das hat mir mein erster Chef beigebracht. Bevor er verhaftet wurde.
+= 말을 멈추는 곳에 흥미로운 게 있어요. 제 첫 상사가 가르쳐 준 거예요. 체포되기 전에요.
+#SECTION 전개 1 — DER MANN AUS MOSKAU
+NEMZOW: Guten Morgen. Viktor Nemzow. Ich hoffe, ich bin nicht zu spät.
+= 좋은 아침입니다. 빅토르 넴초프입니다. 너무 늦지 않았기를 바랍니다.
+THERESA: Pünktlich auf die Minute, Herr Nemzow. Das ist in Wien fast schon unhöflich.
+= 딱 정각이에요, 넴초프 씨. 빈에선 그게 거의 실례예요.
+NEMZOW: Dann bitte ich um Verzeihung. Ich habe in Leipzig studiert. Dort hat man mir die Pünktlichkeit beigebracht.
+= 그럼 용서를 구하죠. 라이프치히에서 공부했거든요. 거기서 시간 엄수를 배웠습니다.
+JAKOB: In Leipzig?
+= 라이프치히에서요?
+NEMZOW: Achtzehn Monate, Ende der Achtziger. Germanistik. Ich liebe Goethe. „Ein jeder Austausch ist ein Spiegel."
+= 80년대 말에 18개월이요. 독문학이었죠. 저는 괴테를 사랑합니다. "모든 교환은 거울이다."
+AYLIN: Das hat Goethe nie geschrieben.
+= 괴테는 그런 글을 쓴 적이 없어요.
+NEMZOW: Nein? Dann sollte er es geschrieben haben. Frau Demir, nehme ich an. Und Herr Wendland.
+= 아닌가요? 그럼 썼어야 했네요. 데미르 씨시군요. 그리고 벤틀란트 씨.
+JAKOB: Sie kennen meinen Namen.
+= 제 이름을 아시네요.
+NEMZOW: Es ist mein Beruf, Namen zu kennen. Herr Franz, einen Verlängerten, bitte.
+= 이름을 아는 게 제 일입니다. 프란츠 씨, 페어랭에르터 하나 부탁해요.
+OBER: Sehr wohl, Herr Nemzow. Wie letzten Dienstag.
+= 알겠습니다, 넴초프 씨. 지난 화요일처럼요.
+AYLIN: Sie waren letzte Woche schon hier?
+= 지난주에도 여기 오셨어요?
+NEMZOW: Ich komme jeden Dienstag. Seit vier Jahren. Ich bin ein Gast, der das Wasser trinkt.
+= 매주 화요일에 옵니다. 4년째요. 저는 물을 마시는 손님이에요.
+THERESA: Beginnen wir. Herr Nemzow, Sie haben einen Vorschlag für den Ablauf?
+= 시작하죠. 넴초프 씨, 절차에 대한 제안이 있으시죠?
+NEMZOW: Einen sehr einfachen. Frau Lorenz gegen Herrn Reiter. Eine Person gegen eine Person. Am neunundzwanzigsten.
+= 아주 간단한 겁니다. 로렌츠 씨와 라이터 씨. 한 사람 대 한 사람. 29일에.
+AYLIN: Unter welchen Bedingungen?
+= 어떤 조건으로요?
+NEMZOW: Keine Presse. Keine Kameras. Keine Erklärungen danach. Beide Seiten sagen, es war eine humanitäre Geste.
+= 언론 없이. 카메라 없이. 사후 성명도 없이. 양측 모두 인도적 조치였다고 말하는 겁니다.
+JAKOB: Und der Ort?
+= 장소는요?
+NEMZOW: Den nennen wir drei Tage vorher. So ist es üblich. Sie verstehen das sicher, Frau Magister.
+= 사흘 전에 알려 드리죠. 그게 관례입니다. 마기스터 님은 분명 이해하시겠죠.
+THERESA: Ich verstehe es. Gefallen tut es mir trotzdem nicht.
+= 이해는 해요. 그렇다고 마음에 드는 건 아니고요.
+AYLIN: Wir haben eine eigene Bedingung. Wir wollen vorher einen Arzt zu Herrn Reiter schicken. Einen unabhängigen.
+= 우리 쪽에도 조건이 있어요. 그 전에 라이터 씨에게 의사를 보내고 싶어요. 독립적인 의사를요.
+NEMZOW: Herr Reiter ist gesund. Er bekommt jeden Tag Suppe und Bücher.
+= 라이터 씨는 건강합니다. 매일 수프와 책을 받고 있어요.
+AYLIN: Dann haben Sie ja nichts zu verbergen.
+= 그럼 숨길 것도 없겠네요.
+NEMZOW: Niemand hat nichts zu verbergen, Frau Demir. Auch Sie nicht.
+= 숨길 게 없는 사람은 없습니다, 데미르 씨. 당신도요.
+#SECTION 전개 2 — DER PRÄZEDENZFALL
+NEMZOW: Darf ich Sie an etwas erinnern? August 2024. Ankara.
+= 하나 상기시켜 드려도 될까요? 2024년 8월. 앙카라.
+AYLIN: Ich weiß, was in Ankara war.
+= 앙카라에서 무슨 일이 있었는지 알아요.
+NEMZOW: Damals hat Ihre Regierung einen Mann freigelassen, der in Berlin am helllichten Tag einen Menschen erschossen hat. Im Tiergarten.
+= 그때 당신네 정부는 베를린 대낮에 사람을 쏴 죽인 남자를 풀어 줬습니다. 티어가르텐에서요.
+JAKOB: Das war eine schwere Entscheidung. Es ging um sechzehn Menschen auf der anderen Seite.
+= 어려운 결정이었죠. 반대편에 열여섯 명이 걸려 있었으니까요.
+NEMZOW: Und am Ende haben alle unterschrieben. Darum sage ich: Auch diesmal wird Berlin unterschreiben.
+= 그리고 결국 모두 서명했죠. 그래서 말씀드리는 겁니다. 이번에도 베를린은 서명할 거라고.
+AYLIN: Ankara war eine Ausnahme. Unsere Regierung hat danach gesagt: nie wieder in dieser Form.
+= 앙카라는 예외였어요. 우리 정부는 그 뒤에 말했죠. 다시는 그런 방식은 없다고.
+NEMZOW: „Nie wieder" ist ein schöner deutscher Ausdruck. Man hört ihn oft. Man sieht ihn selten.
+= "다시는 없다"는 아름다운 독일어 표현이죠. 자주 듣지만, 보기는 드뭅니다.
+THERESA: Herr Nemzow, wir sind hier, um einen Ablauf zu besprechen. Nicht, um Geschichte zu bewerten.
+= 넴초프 씨, 우린 절차를 논의하러 온 거예요. 역사를 평가하러 온 게 아니라요.
+NEMZOW: In Wien ist das dasselbe, Frau Magister. Hier ist alles Geschichte.
+= 빈에서는 그게 같은 겁니다, 마기스터 님. 여긴 모든 게 역사죠.
+JAKOB: Darf ich etwas fragen? Frau Lorenz ist Deutsche. Sie hat für keinen russischen Dienst gearbeitet. Warum wollen Sie sie?
+= 하나 여쭤봐도 될까요? 로렌츠 씨는 독일인입니다. 어떤 러시아 기관을 위해서도 일하지 않았어요. 왜 그 사람을 원하시죠?
+NEMZOW: Sie hat Informationen geliefert, die für uns wertvoll waren. Wir lassen niemanden zurück, der uns geholfen hat.
+= 그녀는 우리에게 가치 있는 정보를 넘겼습니다. 우리를 도운 사람은 아무도 두고 가지 않습니다.
+JAKOB: Sie hat Ihnen geholfen, ohne Sie zu kennen. Sie hat nie einen Russen getroffen. Nur einen Mann namens Sorin. Einmal.
+= 그 사람은 당신들을 알지도 못한 채 도왔어요. 러시아인을 만난 적도 없어요. 소린이라는 남자를 딱 한 번 만났을 뿐이에요.
+NEMZOW: Herr Sorin ist ein Geschäftsmann. Ich kenne ihn nicht.
+= 소린 씨는 사업가입니다. 저는 모르는 사람이에요.
+AYLIN: Natürlich nicht. Niemand kennt Herrn Sorin. Er ist ein sehr einsamer Mann.
+= 물론 모르시겠죠. 아무도 소린 씨를 몰라요. 아주 외로운 사람이네요.
+NEMZOW: Frau Demir, Sie haben Humor. Das ist bei deutschen Beamten selten.
+= 데미르 씨, 유머가 있으시군요. 독일 공무원한테는 드문 일인데.
+AYLIN: Ich bin keine Beamtin. Ich bin Angestellte mit schlechtem Schlaf.
+= 저는 공무원이 아니에요. 잠을 못 자는 직원이죠.
+OBER: Ein Verlängerter für den Herrn. Und noch ein Glas Wasser für die gnädige Frau. Sie haben Ihres ausgetrunken.
+= 신사분께 페어랭에르터 나왔습니다. 그리고 부인께 물 한 잔 더. 다 드셨더군요.
+AYLIN: Danke. Habe ich den Test bestanden?
+= 고마워요. 제가 시험을 통과한 건가요?
+OBER: Gnädige Frau, in diesem Haus besteht man keine Tests. Man wird nur bemerkt. Oder nicht.
+= 부인, 이 집에선 시험을 통과하는 게 아닙니다. 눈에 띄거나, 안 띄거나 할 뿐이지요.
+THERESA: Herr Franz ist Philosoph. Das bezahlt man mit dem Trinkgeld.
+= 프란츠 씨는 철학자예요. 그 값은 팁으로 내는 거고요.
+NEMZOW: Darf ich Ihnen eine persönliche Frage stellen, Frau Demir? Haben Sie Herrn Reiters Artikel gelesen?
+= 개인적인 질문 하나 드려도 될까요, 데미르 씨? 라이터 씨 기사를 읽어 보셨나요?
+AYLIN: Alle. Über die Fabriken im Ural, über die Arbeiter, über die Lieferungen.
+= 전부요. 우랄의 공장들, 노동자들, 납품에 관한 것까지.
+NEMZOW: Dann wissen Sie, dass er Zahlen veröffentlicht hat, die er nicht hätte veröffentlichen dürfen.
+= 그럼 그가 공개해선 안 될 숫자들을 공개했다는 것도 아시겠군요.
+AYLIN: Er hat aufgeschrieben, was er gesehen hat. Bei uns nennt man das Journalismus.
+= 자기가 본 걸 적었죠. 우리는 그걸 저널리즘이라고 불러요.
+NEMZOW: Und bei uns nennt man es Spionage. Sehen Sie, Frau Demir: Das gleiche Papier, zwei Namen.
+= 그리고 우리는 그걸 간첩 행위라고 부르죠. 보세요, 데미르 씨. 같은 종이에 이름이 두 개예요.
+JAKOB: Wie bei einer Akte. Es kommt darauf an, wer die Signatur vergibt.
+= 파일이랑 같네요. 누가 청구번호를 붙이느냐에 달렸죠.
+NEMZOW: Sie sprechen wie ein Archivar, Herr Wendland.
+= 기록 담당자처럼 말씀하시는군요, 벤틀란트 씨.
+JAKOB: Ich bin einer. Auch wenn man mir gerade keine Akten gibt.
+= 기록 담당자니까요. 지금은 파일을 안 주지만요.
+THERESA: Meine Herren, meine Dame. Wir sind schon wieder bei der Philosophie. Bitte zurück zum Ablauf.
+= 신사분들, 그리고 숙녀분. 또 철학으로 빠졌네요. 절차로 돌아가 주세요.
+NEMZOW: Verzeihung, Frau Magister. Wien macht einen immer ein wenig nachdenklich.
+= 죄송합니다, 마기스터 님. 빈에 오면 늘 조금 생각이 많아지네요.
+THERESA: Wien macht einen vor allem langsam. Und wir haben nur noch elf Tage.
+= 빈은 무엇보다 사람을 느리게 만들죠. 그리고 우린 열하루밖에 안 남았어요.
+#SECTION 위기 — DIE GEGENLEISTUNG
+NEMZOW: Ich habe noch eine kleine Bitte. Eine, die nicht im Protokoll stehen muss.
+= 작은 부탁이 하나 더 있습니다. 회의록에 적을 필요는 없는 거요.
+THERESA: Alles, was hier gesagt wird, steht in meinem Protokoll. Auch das Kleine.
+= 여기서 나오는 말은 전부 제 회의록에 들어가요. 작은 것도요.
+NEMZOW: Dann schreiben Sie es auf. Ich möchte, dass Herr Wendland beim Austausch persönlich anwesend ist.
+= 그럼 적으십시오. 맞교환 때 벤틀란트 씨가 직접 그 자리에 있었으면 합니다.
+AYLIN: Warum?
+= 왜죠?
+NEMZOW: Frau Lorenz vertraut ihm. Wir wollen keine Panik auf einer Brücke. Oder wo auch immer.
+= 로렌츠 씨가 그를 믿으니까요. 우린 다리 위에서 소동이 나는 걸 원치 않습니다. 아니면 어디서든.
+JAKOB: Eine Brücke? Sie haben den Ort also schon.
+= 다리라고요? 그럼 장소는 이미 정해 두셨군요.
+NEMZOW: Ein Bild, Herr Wendland. Nur ein Bild. Bei einem Austausch denkt jeder an eine Brücke. Das kommt aus den Filmen.
+= 비유예요, 벤틀란트 씨. 그냥 비유입니다. 맞교환 하면 누구나 다리를 떠올리죠. 영화에서 온 거예요.
+AYLIN: Herr Wendland ist kein Teil der Verhandlungen. Er ist hier als Begleitung.
+= 벤틀란트 씨는 협상 당사자가 아니에요. 동행자로 와 있는 거예요.
+NEMZOW: Gerade deshalb. Begleiter sind die ehrlichsten Menschen bei solchen Treffen.
+= 바로 그래서요. 이런 자리에서 동행자는 가장 정직한 사람들이죠.
+JAKOB: Und was bekommen wir dafür?
+= 그 대신 우리는 뭘 받죠?
+NEMZOW: Einen Arzt für Herrn Reiter. Am Freitag. Einen Schweizer, wenn Sie wollen.
+= 라이터 씨에게 의사를요. 금요일에. 원하시면 스위스 의사로요.
+THERESA: Das ist ein Zugeständnis, Herr Nemzow. Das erste heute.
+= 그건 양보네요, 넴초프 씨. 오늘 처음 나온.
+NEMZOW: In Wien darf man einmal am Vormittag nachgeben. Danach wäre es Schwäche.
+= 빈에선 오전에 한 번은 물러서도 됩니다. 그 이상은 약점이 되겠지만요.
+AYLIN: Ich muss das mit Berlin klären.
+= 그건 베를린과 정리해야 해요.
+NEMZOW: Klären Sie es mit Frau Dr. Seidlitz. Sie entscheidet ja ohnehin schnell.
+= 자이들리츠 박사와 정리하시죠. 어차피 그분은 결정이 빠르시잖아요.
+AYLIN: Woher wissen Sie, wer bei uns entscheidet?
+= 우리 쪽에서 누가 결정하는지 어떻게 알아요?
+NEMZOW: Es steht in Ihren Zeitungen, Frau Demir. Sie soll die neue Chefin im Sicherheitsrat werden. Wir lesen auch Zeitung.
+= 당신네 신문에 나와 있어요, 데미르 씨. 그분이 안보회의의 새 수장이 될 거라고요. 우리도 신문은 읽습니다.
+JAKOB: Das ist noch nicht entschieden.
+= 그건 아직 정해지지 않았어요.
+NEMZOW: In Berlin vielleicht nicht. In Wien ist es nur eine Frage der Zeit. Hier ist alles nur eine Frage der Zeit.
+= 베를린에선 아닐 수도 있죠. 빈에선 시간문제일 뿐입니다. 여기선 모든 게 시간문제예요.
+THERESA: Gut. Ich halte fest: Arzt am Freitag. Herr Wendland anwesend, falls Berlin zustimmt. Ort folgt.
+= 좋아요. 정리할게요. 금요일 의사. 베를린이 동의하면 벤틀란트 씨 참석. 장소는 추후 통보.
+NEMZOW: Sie schreiben schön, Frau Magister. Wie ein Notar.
+= 글씨를 예쁘게 쓰시네요, 마기스터 님. 공증인처럼.
+THERESA: Ich bin die Tochter eines Notars. Bei uns schreibt man langsam, damit man nichts bereut.
+= 저는 공증인의 딸이에요. 우리 집에선 후회하지 않으려고 천천히 써요.
+#SECTION 결말 — EIN NAME ZUM ABSCHIED
+NEMZOW: Ich muss leider gehen. Herr Franz, die Rechnung geht heute auf mich.
+= 아쉽게도 가 봐야겠습니다. 프란츠 씨, 오늘 계산은 제가 하죠.
+OBER: Selbstverständlich, Herr Nemzow. Wie jeden Dienstag.
+= 물론입니다, 넴초프 씨. 매주 화요일처럼요.
+AYLIN: Wir zahlen selbst.
+= 우리 건 우리가 내요.
+NEMZOW: Bitte. Lassen Sie einem alten Germanisten die Freude. Es ist nur Kaffee.
+= 부탁입니다. 늙은 독문학도에게 이 기쁨을 허락해 주세요. 그냥 커피일 뿐이에요.
+THERESA: In Wien ist nichts „nur Kaffee", Herr Nemzow. Ich zahle für meine Gäste.
+= 빈에선 '그냥 커피'인 건 없어요, 넴초프 씨. 제 손님들 건 제가 낼게요.
+NEMZOW: Wie Sie wünschen. Herr Wendland, darf ich Sie kurz zur Tür begleiten?
+= 원하시는 대로요. 벤틀란트 씨, 잠깐 문까지 같이 가 주시겠어요?
+JAKOB: Wenn Frau Demir nichts dagegen hat.
+= 데미르 씨가 괜찮다면요.
+AYLIN: Bis zur Tür. Ich kann sie von hier sehen.
+= 문까지만. 여기서 다 보여.
+NEMZOW: Sie sind in Lichtenberg aufgewachsen, nicht wahr? In der Frankfurter Allee.
+= 리히텐베르크에서 자라셨죠? 프랑크푸르터 알레에서.
+JAKOB: Woher wissen Sie das?
+= 그걸 어떻게 아세요?
+NEMZOW: Ich sagte doch: Es ist mein Beruf. Ihre Mutter wohnt noch im elften Stock, glaube ich.
+= 말씀드렸잖아요. 그게 제 일이라고. 어머님은 아직 11층에 사시는 것 같던데요.
+JAKOB: Lassen Sie meine Mutter aus dem Spiel.
+= 우리 어머니는 끌어들이지 마세요.
+NEMZOW: Ich habe großen Respekt vor Ihrer Familie, Herr Wendland. Das ist keine Drohung. Das ist das Gegenteil.
+= 저는 당신 가족을 아주 존중합니다, 벤틀란트 씨. 위협이 아니에요. 그 반대죠.
+JAKOB: Was soll das heißen?
+= 그게 무슨 뜻이에요?
+NEMZOW: In Leipzig, 1988, hat mir ein älterer Kollege von einem Archivar in Berlin erzählt. Von einem, den man nicht kaufen konnte.
+= 1988년 라이프치히에서 한 선배가 베를린의 어떤 기록 담당자 이야기를 해 줬어요. 돈으로 살 수 없는 사람이었다고.
+JAKOB: Das waren damals viele.
+= 그때는 그런 사람이 많았어요.
+NEMZOW: Nein, Herr Wendland. Das waren damals sehr wenige. Darum erinnert man sich an ihren Namen.
+= 아니요, 벤틀란트 씨. 그때는 아주 적었죠. 그래서 그 이름을 기억하는 겁니다.
+JAKOB: Welchen Namen?
+= 무슨 이름이요?
+NEMZOW: Grüßen Sie Ihre Mutter. Und denken Sie an Ihren Vater. Günter Wendland war ein ordentlicher Mann.
+= 어머님께 안부 전해 주세요. 그리고 아버님을 생각하세요. 귄터 벤틀란트는 반듯한 사람이었습니다.
+#NEXT
+3부 3화 — «Das Konto am Graben»(그라벤 거리의 계좌) — 소린에게 흘러간 돈을 쫓아 야콥과 테레자는 그라벤 거리의 프라이빗뱅크를 찾는다. 은행장 레히너는 은행 비밀을 방패로 내세우고, 계좌를 열어 준 중개인은 BVT 해체 때 옷을 벗은 前 수사관이다. 법의 한계와 파일의 논리가 부딪치는 가운데, 마침내 드러난 계좌 명의는 '정원 예술 애호가 협회'.

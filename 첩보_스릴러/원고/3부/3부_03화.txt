@@ -1,0 +1,275 @@
+#META
+part: 3
+episode: 3
+title: Das Konto am Graben
+subtitle_ko: 그라벤 거리의 계좌
+place_ko: 돈의 흐름을 따라 빈의 프라이빗뱅크로
+setting: 2027년 5월 19일(수) 오전~저녁, 빈 DSN 회의실 → 그라벤 거리 '레히너 & 죄네 은행' 응접실 → 은행 앞 소시지 가판대
+level: B2
+#CAST
+JAKOB | BfV 파견 방첩 요원 · 44세 · 맞교환 협상 동행자
+THERESA | 오스트리아 DSN 수사관 · 44세 · Mag.
+AYLIN | BfV 방첩부 팀장 · 41세
+LECHNER | '레히너 & 죄네 은행' 은행장 · 60세
+REISCHL | 前 BVT 수사관 · 66세 · 지금은 '컨설턴트'
+#INTRO
+※ 빈에 온 지 사흘째입니다. 어제 링슈트라세의 카페에서 러시아 측 협상 대표 넴초프는 2024년 앙카라 맞교환을 선례로 들며 압박했고, 헤어지기 직전 야콥의 아버지 이름 '귄터 벤틀란트'를 정확히 불렀습니다. 오늘 야콥과 아일린은 오스트리아 DSN 수사관 테레자 그루버와 함께, 함부르크에서 도주한 접선책 소린에게 흘러간 돈을 쫓습니다. 그 돈은 빈 그라벤 거리의 오래된 프라이빗뱅크를 거쳤습니다. 야콥과 아일린은 du, 두 사람과 테레자, 은행장, 브로커 사이는 모두 Sie를 씁니다. 내일은 前 BVT 수사관 에기스토 오트의 1심 판결 1주년입니다. 표현 초점: 금융·법률 어휘 — Konto, Kontoinhaber, Treuhand, Bankgeheimnis, Überweisung, Geldwäsche, richterliche Anordnung / 오스트리아 표현 Grüß Gott, Herr Hofrat, heuer, Sackerl.
+#SECTION 도입 — FRÜHSTÜCK IN DER DIREKTION
+THERESA: Grüß Gott, die Herrschaften. Kaffee gibt es hier, aber ich übernehme keine Verantwortung für den Geschmack.
+= 안녕하세요, 두 분. 커피는 여기 있는데, 맛에 대해서는 책임 못 져요.
+AYLIN: Nach drei Nächten im Hotel trinke ich alles, was warm ist.
+= 호텔에서 사흘 밤을 보냈더니 따뜻한 거면 뭐든 마셔요.
+JAKOB: Ich habe heute Nacht kaum geschlafen. Ich höre immer noch, wie Nemzow den Namen meines Vaters sagt.
+= 저는 어젯밤 거의 못 잤어요. 넴초프가 우리 아버지 이름을 말하던 게 아직도 들려요.
+THERESA: Das war Absicht, Herr Wendland. Er wollte Ihnen zeigen, dass er mehr weiß als Sie.
+= 그건 의도한 거예요, 벤틀란트 씨. 당신보다 더 많이 안다는 걸 보여 주고 싶었던 거죠.
+JAKOB: Das ist ihm gelungen.
+= 성공했네요.
+AYLIN: Dann holen wir uns heute ein bisschen Wissen zurück. Was haben Sie über das Geld?
+= 그럼 오늘은 우리가 좀 되찾아 오죠. 돈에 대해선 뭘 갖고 계세요?
+THERESA: Die Hamburger Kollegen haben uns die Überweisungen von Sorins Firma geschickt. Nordlicht Handelskontor.
+= 함부르크 동료들이 소린 회사의 송금 내역을 보내 줬어요. 노르들리히트 상관이요.
+THERESA: Seit 2025 ging alle drei Monate eine Zahlung nach Wien. Immer an dieselbe Bank. Bankhaus Lechner und Söhne, am Graben.
+= 2025년부터 석 달마다 빈으로 돈이 갔어요. 항상 같은 은행으로요. 그라벤 거리의 레히너 & 죄네 은행.
+JAKOB: Und von dort?
+= 그리고 거기서는요?
+THERESA: Von dort weiß niemand etwas. Das Geld kommt an und verschwindet wie Schnee im März.
+= 거기서부터는 아무도 몰라요. 돈이 도착해서는 3월의 눈처럼 사라져요.
+AYLIN: Können Sie die Bank nicht einfach zwingen, das Konto zu öffnen?
+= 은행이 계좌를 공개하도록 그냥 강제할 수는 없어요?
+THERESA: „Einfach" ist kein österreichisches Wort, Frau Demir. Dafür brauche ich eine richterliche Anordnung.
+= '그냥'은 오스트리아 단어가 아니에요, 데미르 씨. 그러려면 법원 명령이 필요해요.
+THERESA: Und ein Richter fragt mich zuerst: Welcher Schaden ist Österreich entstanden?
+= 그리고 판사는 먼저 이렇게 묻겠죠. 오스트리아가 무슨 피해를 입었느냐고요.
+JAKOB: Österreich? Es geht um deutsche U-Boote und um Russland.
+= 오스트리아요? 이건 독일 잠수함과 러시아 문제잖아요.
+THERESA: Eben. Wer bei uns gegen andere Staaten spioniert, wird kaum bestraft, solange er Österreich in Ruhe lässt.
+= 바로 그거예요. 여기서는 다른 나라를 상대로 첩보를 해도, 오스트리아만 건드리지 않으면 거의 처벌받지 않아요.
+AYLIN: Das kritisieren wir seit Jahren.
+= 그건 우리가 몇 년째 비판하는 부분이죠.
+THERESA: Wir auch. Seit Jahren. Morgen ist übrigens ein Jahrestag.
+= 우리도요. 몇 년째. 그런데 내일이 기념일이에요.
+JAKOB: Der Ott-Prozess. Das Urteil vom zwanzigsten Mai.
+= 오트 재판이요. 5월 20일 판결.
+THERESA: Ein ehemaliger Kollege, verurteilt wegen Spionage für Russland. Seitdem schaut uns die ganze Welt auf die Finger.
+= 옛 동료가 러시아를 위한 스파이 행위로 유죄를 받았죠. 그 뒤로 온 세상이 우리 손가락만 쳐다봐요.
+AYLIN: Dann sind wir uns ja ähnlich. Uns schaut auch jemand auf die Finger.
+= 그럼 우리 처지가 비슷하네요. 우리도 누군가 지켜보고 있거든요.
+JAKOB: Darf ich fragen, wie es Frau Lorenz heute geht?
+= 로렌츠 씨는 오늘 어떤지 여쭤봐도 될까요?
+THERESA: Sie hat gefrühstückt und nach Ihnen gefragt. Zweimal. Sonst spricht sie mit niemandem.
+= 아침을 먹었고 당신을 찾았어요. 두 번이나요. 그 외엔 아무하고도 말을 안 해요.
+AYLIN: Sie wartet darauf, dass du kommst. Aber heute nicht. Heute folgen wir dem Geld.
+= 네가 오기를 기다리는 거야. 하지만 오늘은 아니야. 오늘은 돈을 따라가.
+JAKOB: Ich weiß. Das Geld lügt weniger als Menschen.
+= 알아. 돈은 사람보다 거짓말을 덜 하니까.
+THERESA: Da kennen Sie die Wiener Banken schlecht, Herr Wendland.
+= 빈 은행들을 잘 모르시네요, 벤틀란트 씨.
+THERESA: Gut. Dann gehen wir jetzt zur Bank. Und bitte: Reden Sie dort wenig. Herr Dr. Lechner mag keine Deutschen, die laut sind.
+= 좋아요. 그럼 이제 은행으로 가죠. 그리고 부탁인데, 거기선 말을 아껴 주세요. 레히너 박사는 목소리 큰 독일인을 싫어해요.
+#SECTION 전개 1 — DAS BANKHAUS
+LECHNER: Grüß Gott, Frau Magister. Und Sie haben Gäste aus Deutschland mitgebracht, wie ich höre.
+= 안녕하세요, 마기스터 님. 독일에서 손님들을 모시고 오셨다고 들었습니다.
+THERESA: Grüß Gott, Herr Doktor. Herr Wendland und Frau Demir. Sie arbeiten mit uns zusammen.
+= 안녕하세요, 박사님. 벤틀란트 씨와 데미르 씨예요. 저희와 함께 일하고 있어요.
+LECHNER: Bitte, nehmen Sie Platz. Darf ich Ihnen etwas anbieten? Eine Melange? Ein Glas Wasser?
+= 앉으시죠. 뭘 좀 드릴까요? 멜랑주? 물 한 잔?
+JAKOB: Danke, nein. Ein schönes Haus haben Sie hier.
+= 고맙습니다만, 괜찮습니다. 멋진 건물이네요.
+LECHNER: Seit 1872 in Familienbesitz. Mein Urgroßvater hat schon den Kaiser beraten. Zumindest erzählt man das so.
+= 1872년부터 가족 소유입니다. 증조부께서 황제께 자문을 드렸죠. 적어도 그렇게들 이야기합니다.
+THERESA: Herr Doktor, wir interessieren uns für Zahlungen der Firma Nordlicht Handelskontor aus Hamburg.
+= 박사님, 저희는 함부르크의 노르들리히트 상관이라는 회사가 보낸 돈에 관심이 있어요.
+LECHNER: Ich verstehe. Und Sie verstehen sicher, dass ich darüber nicht sprechen darf.
+= 알겠습니다. 그리고 제가 그에 대해 말할 수 없다는 것도 물론 이해하시겠죠.
+AYLIN: Herr Dr. Lechner, diese Firma hat Pläne deutscher U-Boote nach Russland verkauft.
+= 레히너 박사님, 이 회사는 독일 잠수함 설계도를 러시아에 팔았어요.
+LECHNER: Das ist schrecklich, wenn es stimmt. Aber das Bankgeheimnis gilt auch für schreckliche Kunden.
+= 사실이라면 끔찍한 일이군요. 하지만 은행 비밀 보장은 끔찍한 고객에게도 적용됩니다.
+JAKOB: Sie geben also zu, dass Nordlicht Ihr Kunde ist?
+= 그러니까 노르들리히트가 고객이라는 걸 인정하시는 거군요?
+LECHNER: Ich gebe gar nichts zu, Herr Wendland. Ich spreche grundsätzlich. Das ist ein Unterschied.
+= 저는 아무것도 인정하지 않습니다, 벤틀란트 씨. 원칙적으로 말씀드린 겁니다. 그건 다르죠.
+THERESA: Herr Doktor, wir wissen, dass die Zahlungen hier ankommen. Wir wollen nur wissen, wohin sie weitergehen.
+= 박사님, 돈이 여기 도착한다는 건 저희도 알아요. 다만 그다음에 어디로 가는지 알고 싶을 뿐이에요.
+LECHNER: Dann bringen Sie mir eine richterliche Anordnung, Frau Magister. Dann öffne ich Ihnen jede Tür in diesem Haus.
+= 그럼 법원 명령을 가져오세요, 마기스터 님. 그러면 이 건물의 모든 문을 열어 드리죠.
+AYLIN: Und bis dahin ist das Geld wieder verschwunden.
+= 그때쯤이면 돈은 또 사라지고 없겠죠.
+LECHNER: Frau Demir, Geld verschwindet nie. Es wechselt nur den Besitzer. Das hat schon mein Großvater gesagt.
+= 데미르 씨, 돈은 절대 사라지지 않습니다. 주인만 바뀔 뿐이죠. 할아버지께서 하신 말씀입니다.
+JAKOB: Darf ich eine Frage stellen, die nichts mit einem Kunden zu tun hat?
+= 고객과 상관없는 질문 하나 드려도 될까요?
+LECHNER: Bitte.
+= 하시죠.
+JAKOB: Wer öffnet bei Ihnen ein Konto für jemanden, der seinen Namen nicht nennen will?
+= 이름을 밝히고 싶지 않은 사람을 위해서는 누가 계좌를 열어 줍니까?
+LECHNER: Niemand. Wir kennen alle unsere Kunden. Das verlangt das Gesetz gegen Geldwäsche.
+= 아무도요. 저희는 모든 고객을 압니다. 자금 세탁 방지법이 그렇게 요구하니까요.
+JAKOB: Und wenn ein Treuhänder kommt? Ein Anwalt, ein Berater, der für einen anderen unterschreibt?
+= 그럼 수탁자가 오면요? 변호사나 컨설턴트가 다른 사람을 대신해 서명한다면요?
+LECHNER: Dann kennen wir den Treuhänder. Und der Treuhänder kennt seinen Kunden. So funktioniert Vertrauen in Wien.
+= 그럼 저희는 수탁자를 알죠. 그리고 수탁자가 자기 고객을 압니다. 빈에서는 신뢰가 그렇게 작동합니다.
+THERESA: Danke, Herr Doktor. Sie hören von uns.
+= 감사합니다, 박사님. 또 연락드릴게요.
+LECHNER: Immer gern, Frau Magister. Und richten Sie dem Herrn Hofrat Reischl schöne Grüße aus, falls Sie ihn sehen.
+= 언제든지요, 마기스터 님. 혹시 라이슐 호프라트 님을 보시면 안부 전해 주세요.
+THERESA: Reischl? Warum sollte ich Reischl sehen?
+= 라이슐이요? 제가 왜 라이슐을 보게 되죠?
+LECHNER: Ach, nur so. Er steht seit zehn Minuten vor meiner Tür und isst eine Burenwurst.
+= 아, 그냥요. 10분째 제 은행 문 앞에서 부렌부어스트를 먹고 있거든요.
+#SECTION 전개 2 — DER MANN AM WÜRSTELSTAND
+THERESA: Hofrat Reischl. Was für ein Zufall.
+= 라이슐 호프라트님. 이런 우연이 다 있네요.
+REISCHL: Servus, Theresa. In Wien gibt es keine Zufälle, das weißt du doch. Nur schlechte Würstel und gute Verbindungen.
+= 안녕, 테레자. 빈에 우연은 없어, 알잖아. 맛없는 소시지랑 좋은 인맥만 있지.
+AYLIN: Sie kennen sich?
+= 두 분 아는 사이예요?
+THERESA: Herr Reischl war früher beim BVT. Bis die Behörde aufgelöst wurde.
+= 라이슐 씨는 예전에 BVT에 있었어요. 기관이 해체될 때까지요.
+REISCHL: Aufgelöst. Ein schönes Wort. Man hat uns nicht aufgelöst, Frau Demir. Man hat uns aufgeteilt. Die einen gingen zur DSN, die anderen in die Wirtschaft.
+= 해체라. 좋은 단어네. 우린 해체된 게 아니에요, 데미르 씨. 나뉜 거죠. 누구는 DSN으로 가고, 누구는 민간으로 가고.
+JAKOB: Und Sie sind in die Wirtschaft gegangen.
+= 그리고 당신은 민간으로 가셨군요.
+REISCHL: Ich berate Firmen. Sicherheit, Compliance, gute Kontakte. Und Sie sind der Archivar aus Berlin, nicht wahr?
+= 회사들에 자문을 하죠. 보안, 준법 감시, 좋은 인맥. 그리고 당신이 베를린에서 온 기록관이죠, 맞죠?
+JAKOB: Wer hat Ihnen das gesagt?
+= 누가 그래요?
+REISCHL: Die Zeitung. Sie waren im November in allen Berliner Zeitungen. Ohne Namen, aber mit Foto von hinten. Sie haben einen markanten Hinterkopf.
+= 신문이요. 11월에 베를린 신문마다 나오셨잖아요. 이름은 없었지만 뒷모습 사진이 있었죠. 뒤통수가 꽤 인상적이시더군요.
+THERESA: Leopold, warum stehst du vor dieser Bank?
+= 레오폴트, 왜 이 은행 앞에 서 있는 거야?
+REISCHL: Weil ich wusste, dass du heute kommst. Und weil ich ein Geschäft vorschlagen will.
+= 네가 오늘 올 줄 알았으니까. 그리고 거래를 하나 제안하고 싶어서.
+THERESA: Ich mache keine Geschäfte mit dir.
+= 난 너랑 거래 안 해.
+REISCHL: Noch nicht. Hören Sie mir zwei Minuten zu, Herr Wendland. Sie sind ja nicht aus Wien, Sie haben noch Geduld.
+= 아직은. 2분만 들어 보세요, 벤틀란트 씨. 빈 사람이 아니니까 아직 인내심이 있으시잖아요.
+JAKOB: Zwei Minuten.
+= 2분이요.
+REISCHL: Das Konto, das Sie suchen, habe ich nicht eröffnet. Aber ich habe es vermittelt. 2016. Für einen Verein.
+= 당신들이 찾는 계좌는 내가 연 게 아니에요. 하지만 중개는 했죠. 2016년에. 어떤 협회를 위해서요.
+AYLIN: 2016? Das ist neun Jahre vor den ersten Zahlungen aus Hamburg.
+= 2016년이요? 함부르크에서 첫 송금이 오기 9년 전이잖아요.
+REISCHL: Ein gutes Konto muss reifen, Frau Demir. Wie ein guter Wein.
+= 좋은 계좌는 숙성돼야 해요, 데미르 씨. 좋은 와인처럼요.
+JAKOB: 2016 ist auch das Jahr, in dem jemand angefangen hat, eine Kollegin von mir zu erpressen.
+= 2016년은 누군가가 제 동료를 협박하기 시작한 해이기도 하죠.
+REISCHL: Davon weiß ich nichts. Ich habe nur Papiere vorbereitet und eine Unterschrift beglaubigen lassen.
+= 그건 난 몰라요. 난 서류를 준비하고 서명 하나 공증받게 했을 뿐이에요.
+THERESA: Wessen Unterschrift?
+= 누구 서명?
+REISCHL: Das, liebe Theresa, ist der Preis.
+= 그게 말이야, 테레자, 바로 가격이야.
+AYLIN: Was wollen Sie?
+= 원하는 게 뭐예요?
+REISCHL: Eine schriftliche Zusage. Keine Anklage gegen mich. Nicht in Österreich, nicht in Deutschland.
+= 서면 약속이요. 나를 기소하지 않겠다는 거. 오스트리아에서도, 독일에서도.
+THERESA: Das kann ich dir nicht geben. Und ich würde es auch nicht, wenn ich könnte.
+= 그건 너한테 못 줘. 줄 수 있다 해도 안 줄 거고.
+#SECTION 위기 — DER PREIS DES HOFRATS
+REISCHL: Theresa, Theresa. Immer noch so streng. Du warst schon beim BVT die Strengste im ganzen Stockwerk.
+= 테레자, 테레자. 여전히 깐깐하구나. BVT에 있을 때도 너는 층 전체에서 제일 깐깐했지.
+THERESA: Und du warst der, der immer zu früh nach Hause gegangen ist. Jetzt weiß ich, wohin.
+= 그리고 너는 항상 일찍 퇴근하던 사람이었지. 이제 어디로 갔는지 알겠네.
+REISCHL: Das ist unfair. Ich habe nie für Russland gearbeitet. Ich bin kein Ott.
+= 그건 부당해. 난 러시아를 위해 일한 적 없어. 난 오트가 아니야.
+JAKOB: Aber Sie haben einen Verein eingerichtet, durch den russisches Geld fließt.
+= 하지만 러시아 돈이 흐르는 협회를 만들어 주셨잖아요.
+REISCHL: Ich habe einen Verein für Gartenfreunde eingerichtet. Was dort später fließt, ist nicht meine Sache.
+= 난 정원 애호가들을 위한 협회를 만들어 줬어요. 거기로 나중에 뭐가 흐르는지는 내 알 바 아니고요.
+AYLIN: Gartenfreunde?
+= 정원 애호가요?
+JAKOB: Aylin. Hast du das gehört?
+= 아일린. 들었어?
+AYLIN: Ich habe es gehört. Bleib ruhig.
+= 들었어. 침착해.
+THERESA: Was ist los? Was bedeutet das für Sie beide?
+= 무슨 일이에요? 두 분한테 그게 무슨 의미예요?
+JAKOB: Frau Gruber, seit November suchen wir jemanden mit dem Decknamen „Gärtner".
+= 그루버 씨, 우리는 11월부터 '정원사'라는 암호명을 가진 사람을 찾고 있어요.
+THERESA: Und jetzt finden wir einen Verein für Gartenfreunde. Das ist entweder ein Witz oder eine Unterschrift.
+= 그리고 지금 정원 애호가 협회를 찾았네요. 이건 농담이거나 서명이거나 둘 중 하나예요.
+REISCHL: Sehen Sie? Jetzt ist meine Information plötzlich viel wert.
+= 보세요? 이제 갑자기 내 정보가 꽤 값나가죠?
+AYLIN: Herr Reischl, Sie verstehen nicht. Wer für diesen Verein unterschrieben hat, gefährdet Menschen. In Hamburg wurde ein Mann fast getötet.
+= 라이슐 씨, 이해를 못 하시네요. 이 협회에 서명한 사람은 사람들을 위험에 빠뜨려요. 함부르크에서는 한 사람이 거의 죽을 뻔했어요.
+REISCHL: Dann sollten Sie umso schneller unterschreiben, Frau Demir. Meine Zusage, Ihre Information.
+= 그럼 더 빨리 서명하셔야겠네요, 데미르 씨. 내 약속, 당신들 정보.
+THERESA: Nein. Ich habe ein Jahr lang zugesehen, wie Leute wie du unseren Ruf ruiniert haben. Ich kaufe dir nichts ab.
+= 안 돼. 너 같은 사람들이 우리 평판을 망가뜨리는 걸 1년 동안 지켜봤어. 너한테선 아무것도 안 사.
+REISCHL: Dann bekommst du nichts. So einfach ist das.
+= 그럼 아무것도 못 얻는 거지. 간단해.
+JAKOB: Nicht ganz. Sie haben uns schon etwas gegeben.
+= 꼭 그렇지는 않아요. 이미 뭔가를 주셨는데요.
+REISCHL: So? Was denn?
+= 그래요? 뭘요?
+JAKOB: Ein Jahr, 2016. Eine Rechtsform, einen Verein. Und ein Thema, Gärten. Den Rest findet man in jedem Vereinsregister.
+= 연도 2016년. 법적 형태, 협회. 그리고 주제, 정원. 나머지는 어느 협회 등기부에서나 찾을 수 있죠.
+REISCHL: Der Archivar. Ich habe Sie unterschätzt.
+= 기록관이라. 내가 당신을 과소평가했군.
+JAKOB: Das passiert mir oft. Es ist mein einziger Vorteil.
+= 그런 일 자주 있어요. 제 유일한 장점이죠.
+REISCHL: Das Register zeigt Ihnen den Verein. Aber nicht, wer dahintersteht. Wenn Sie das wissen wollen, rufen Sie mich an.
+= 등기부는 협회를 보여 주겠죠. 하지만 누가 뒤에 있는지는 안 보여 줘요. 그걸 알고 싶으면 나한테 전화하세요.
+THERESA: Geh, Leopold. Und iss deine Wurst woanders.
+= 가, 레오폴트. 그리고 소시지는 딴 데 가서 먹어.
+REISCHL: Baba, Theresa. Und Herr Wendland: Passen Sie in Wien auf sich auf. Hier ist man schneller tot, als man denkt. Und meistens auf einem schönen Friedhof.
+= 잘 있어, 테레자. 그리고 벤틀란트 씨, 빈에서는 몸조심하세요. 여기선 생각보다 빨리 죽어요. 대개는 아름다운 묘지에 묻히고요.
+#SECTION 결말 — EIN NAME IM REGISTER
+AYLIN: Was hat er mit dem Friedhof gemeint?
+= 묘지 얘기는 무슨 뜻이었을까?
+THERESA: Bei Reischl bedeutet ein Satz immer drei Dinge. Zwei davon sind falsch.
+= 라이슐은 문장 하나가 늘 세 가지를 뜻해요. 그중 두 개는 틀린 거고요.
+JAKOB: Frau Gruber, können Sie das Vereinsregister heute noch abfragen?
+= 그루버 씨, 오늘 안에 협회 등기부를 조회할 수 있어요?
+THERESA: Das Register ist öffentlich. Das kann sogar ein Archivar aus Berlin, wenn er ein Handy hat.
+= 등기부는 공개돼 있어요. 휴대폰만 있으면 베를린에서 온 기록관도 할 수 있죠.
+JAKOB: Ich vertraue Handys nicht besonders.
+= 전 휴대폰을 별로 안 믿어요.
+AYLIN: Er vertraut nur Papier. Seit ich ihn kenne.
+= 이 사람은 종이만 믿어요. 제가 아는 한 늘 그래요.
+THERESA: Dann suche ich, und Sie schauen mir zu. Das ist eine gute österreichisch-deutsche Arbeitsteilung.
+= 그럼 제가 찾고 당신은 지켜보세요. 훌륭한 오스트리아-독일 분업이네요.
+AYLIN: Jakob, glaubst du wirklich, dass der Gärtner so dumm ist? Einen Verein mit seinem Decknamen?
+= 야콥, 정원사가 정말 그렇게 멍청할 거라고 생각해? 자기 암호명으로 협회를 만들 만큼?
+JAKOB: Nicht dumm. Eitel. Wer fast vierzig Jahre nicht gefunden wird, fängt an zu spielen.
+= 멍청한 게 아니라 허영이지. 40년 가까이 안 잡힌 사람은 장난을 치기 시작해.
+THERESA: Oder jemand will, dass Sie genau das glauben. Ein Köder.
+= 아니면 누군가가 당신이 딱 그렇게 믿기를 바라는 거죠. 미끼로요.
+JAKOB: Dann beißen wir trotzdem. Aber vorsichtig.
+= 그래도 물어야죠. 조심해서요.
+AYLIN: Bevor du beißt: Wir melden das nicht nach Berlin. Noch nicht.
+= 물기 전에 하나만. 이건 베를린에 보고하지 않아. 아직은.
+THERESA: Warum nicht? Ihre Regierung will doch alles wissen.
+= 왜요? 당신네 정부는 모든 걸 알고 싶어 하잖아요.
+AYLIN: Eben. Jemand in Berlin hat Jakobs Reise nach Wien innerhalb von einer Stunde genehmigt. Das gefällt mir nicht.
+= 바로 그래서요. 베를린의 누군가가 야콥의 빈 출장을 한 시간 만에 승인했어요. 그게 마음에 안 들어요.
+THERESA: Bei uns dauert eine Genehmigung drei Wochen. Bei Ihnen eine Stunde. Ich weiß nicht, was mir mehr Angst macht.
+= 우리는 승인 하나에 3주가 걸려요. 당신들은 한 시간. 뭐가 더 무서운지 모르겠네요.
+JAKOB: Mir macht die Stunde mehr Angst.
+= 저는 그 한 시간이 더 무서워요.
+THERESA: Also gut. Was wir heute finden, bleibt in diesem Auto. Einverstanden?
+= 좋아요. 오늘 찾는 건 이 차 안에만 두는 걸로. 동의하죠?
+AYLIN: Einverstanden.
+= 동의해요.
+JAKOB: Einverstanden. Und jetzt, bitte, das Register.
+= 동의해요. 그럼 이제 등기부요.
+THERESA: Hier. Zentrales Vereinsregister. Eingetragen im März 2016, Sitz in Wien, erster Bezirk.
+= 여기요. 중앙 협회 등기부. 2016년 3월 등록, 소재지는 빈 1구.
+AYLIN: Erster Bezirk? Das ist doch direkt hier.
+= 1구요? 바로 여기잖아요.
+THERESA: Die Adresse ist die Bank. Bankhaus Lechner und Söhne, Graben. Sehr diskret.
+= 주소가 은행이에요. 그라벤 거리 레히너 & 죄네 은행. 아주 신중하군요.
+JAKOB: Und der Vereinszweck?
+= 협회 목적은요?
+THERESA: „Förderung der Gartenkunst und Pflege historischer Gärten in Mitteleuropa."
+= "정원 예술 진흥과 중부 유럽 역사 정원의 보존."
+AYLIN: Historische Gärten. Natürlich.
+= 역사 정원이라. 그렇겠지.
+JAKOB: Wie heißt der Verein genau, Frau Gruber? Bitte den ganzen Namen.
+= 협회 정확한 이름이 뭐예요, 그루버 씨? 전체 이름으로요.
+THERESA: „Verein der Freunde der Gartenkunst". Und das Konto bei Lechner läuft auf genau diesen Namen.
+= "정원 예술 애호가 협회". 그리고 레히너 은행의 계좌는 정확히 이 이름으로 되어 있어요.
+#NEXT
+3부 4화 — «Zentralfriedhof»(중앙묘지) — 오트 판결 1주년 아침, 야콥의 호텔로 연필로 "Weiter."라고만 적힌 쪽지가 배달된다. 그가 향한 중앙묘지에는 '1994년 사망'이라고 새겨진 묘비 앞에, 그 무덤의 주인이 살아서 기다리고 있다.

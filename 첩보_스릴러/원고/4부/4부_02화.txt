@@ -1,0 +1,280 @@
+#META
+part: 4
+episode: 2
+title: Der Minister
+subtitle_ko: 장관
+place_ko: 한밤의 템펠호프 들판
+setting: 2027년 9월 7일(화) 밤 열한 시, 템펠호프 들판 — 콜룸비아담 쪽 옛 관제탑 입구에서 활주로까지
+level: B2
+#CAST
+JAKOB | 직무 정지 중인 BND 기록 담당자 · 45세
+AYLIN | BfV 방첩부 팀장 · 42세 (차 안 → 무전)
+KRANZ | 연방 국방장관 · 66세 · 라이프치히 출신
+RADIO | 뉴스 라디오 아나운서 (가상 방송)
+#INTRO
+※ 어젯밤 자이들리츠가 직접 어머니 레나테의 집에 찾아와 정원에서 꺾었다는 달리아를 내밀며 "돕고 싶다"고 했습니다. 그녀는 직무 정지를 풀어 주고 기록보관소로 돌려보내 주겠다고 제안했고, 명함 한 장을 남기고 떠났습니다. 오늘 밤, 아일린이 야콥을 템펠호프 들판까지 태워다 줍니다. 5월에 "만나서 얘기하자"고 전화했던 국방장관 크란츠가 경호원 없이 혼자 나오겠다고 했습니다. 야콥과 크란츠는 서로 Sie, 야콥과 아일린은 du를 씁니다. 크란츠는 1부 기자회견에서 서약서에 서명한 사실만 인정했고, "지난주에야 파일을 처음 봤다"고 말했습니다. 표현 초점: 고백과 책임의 말 — gestehen, sich vorwerfen, unter Druck setzen, anwerben, die Ausrede, Verantwortung übernehmen.
+#SECTION 도입 — DAS FELD BEI NACHT
+RADIO: Und zum Wetter: In Berlin bleibt es in der Nacht klar und trocken, bei Tiefstwerten um zwölf Grad.
+= 날씨입니다. 베를린은 밤새 맑고 건조하겠으며 최저 기온은 12도 안팎입니다.
+AYLIN: Klar und trocken. Wenigstens regnet es nicht, während du einem Minister zuhörst.
+= 맑고 건조하대. 적어도 장관 얘기 듣는 동안 비는 안 오겠네.
+JAKOB: Mach das Radio aus. Ich muss nachdenken.
+= 라디오 좀 꺼. 생각 좀 해야겠어.
+AYLIN: Du denkst seit gestern Abend nach. Erzähl mir lieber noch einmal genau, was sie gesagt hat.
+= 너 어젯밤부터 계속 생각 중이잖아. 그 여자가 뭐라고 했는지 다시 한번 정확히 말해 봐.
+JAKOB: Sie hat gesagt, die Suspendierung könne in einer Woche aufgehoben werden. Ich könne zurück ins Archiv, in meinen Keller.
+= 직무 정지를 일주일 안에 풀어 줄 수 있대. 기록보관소로, 내 지하실로 돌아갈 수 있대.
+AYLIN: Und die Bedingung?
+= 조건은?
+JAKOB: Es gab keine Bedingung. Das ist ja das Unheimliche. Sie hat nur gesagt, ich solle mich ausruhen.
+= 조건은 없었어. 그게 오싹한 거야. 그냥 좀 쉬라고만 했어.
+AYLIN: Ausruhen bedeutet bei Leuten wie ihr: Hör auf zu graben.
+= 그런 사람들이 쉬라고 하면, 그만 파헤치라는 뜻이야.
+JAKOB: Sie hat Lea mit Namen angesprochen. Sie wusste, dass sie Basketball spielt.
+= 레아 이름을 불렀어. 농구 하는 것도 알더라.
+AYLIN: Das stand auch in Roths Drohungen vor einem Jahr. Dieselbe Melodie, nur freundlicher gesungen.
+= 1년 전 로트의 협박에도 그게 있었지. 같은 노래야, 더 친절하게 부른 것뿐이고.
+JAKOB: Und sie hat meiner Mutter Dahlien geschenkt. Aus ihrem eigenen Garten.
+= 그리고 우리 엄마한테 달리아를 줬어. 자기 정원에서 꺾은 거래.
+AYLIN: Aus ihrem Garten. Natürlich. Diese Frau hat Humor.
+= 자기 정원이라. 당연하지. 그 여자 유머 감각 있네.
+JAKOB: Meine Mutter hat die Blumen in eine Vase gestellt. Ich habe sie heute Morgen in den Müll geworfen.
+= 엄마는 그 꽃을 꽃병에 꽂았어. 난 오늘 아침에 쓰레기통에 버렸고.
+AYLIN: Und was hat deine Mutter gesagt?
+= 어머니는 뭐라셨어?
+JAKOB: „Blumen können nüscht dafür." Und dann hat sie sie wieder herausgeholt.
+= "꽃이 무슨 죄냐." 그러고는 다시 꺼내셨어.
+AYLIN: Kluge Frau. Wir sind da. Dort hinten, beim Tower-Eingang. Siehst du jemanden?
+= 현명하신 분이네. 다 왔어. 저기 뒤, 관제탑 입구. 누구 보여?
+JAKOB: Einen Mann in Laufkleidung. Mit Mütze. Er macht Dehnübungen.
+= 운동복 입은 남자. 모자 쓰고. 스트레칭하고 있어.
+AYLIN: Ein Bundesminister, der um elf Uhr nachts joggt. Das ist entweder sehr klug oder sehr verzweifelt.
+= 밤 열한 시에 조깅하는 연방 장관이라. 아주 영리하거나, 아주 절박하거나 둘 중 하나네.
+JAKOB: Vermutlich beides.
+= 아마 둘 다겠지.
+AYLIN: Nimm den Knopf ins Ohr. Ich höre alles mit. Wenn ich „Regen" sage, gehst du sofort zurück zum Auto.
+= 이어폰 꽂아. 내가 다 들을게. 내가 "비"라고 하면 바로 차로 돌아와.
+JAKOB: Bei klarem und trockenem Wetter. Verstanden.
+= 맑고 건조한 날씨에. 알았어.
+#SECTION 전개 1 — OHNE PERSONENSCHUTZ
+KRANZ: Herr Wendland. Sie sind pünktlich. Das gefällt mir.
+= 벤틀란트 씨. 시간을 지키셨군요. 마음에 드네요.
+JAKOB: Herr Minister. Sie sind allein. Das gefällt mir weniger.
+= 장관님. 혼자 오셨네요. 그건 덜 마음에 드는군요.
+KRANZ: Meine Personenschützer glauben, ich liege im Bett. Ich habe ihnen gesagt, ich hätte Kopfschmerzen.
+= 경호원들은 제가 침대에 누워 있는 줄 알아요. 두통이 있다고 했거든요.
+JAKOB: Und das haben sie Ihnen geglaubt?
+= 그걸 믿던가요?
+KRANZ: Ein Verteidigungsminister mit Kopfschmerzen ist glaubwürdiger als einer ohne.
+= 두통 있는 국방장관이 두통 없는 국방장관보다 더 믿을 만하잖아요.
+JAKOB: Warum hier? Warum nicht in Ihrem Ministerium?
+= 왜 여기죠? 왜 장관실이 아니고요?
+KRANZ: Weil in meinem Ministerium die Wände dünner sind, als Sie denken. Hier gibt es nur Gras und Himmel.
+= 우리 부처 벽은 생각보다 얇거든요. 여긴 풀밭이랑 하늘밖에 없어요.
+JAKOB: Und Drohnen, vielleicht.
+= 그리고 드론도 있겠죠, 아마.
+KRANZ: Und Drohnen. Gehen wir ein Stück. Auf der alten Landebahn redet es sich leichter.
+= 드론도요. 좀 걷죠. 옛 활주로 위에선 말이 더 잘 나와요.
+JAKOB: Sie haben im Mai angerufen, als ich in Wien war. Danach vier Monate nichts. Warum jetzt?
+= 5월에 제가 빈에 있을 때 전화하셨죠. 그러고는 넉 달 동안 아무 연락이 없었어요. 왜 지금이죠?
+KRANZ: Weil ich im Mai noch geglaubt habe, ich könnte das allein regeln. Ich habe mich geirrt.
+= 5월만 해도 혼자 처리할 수 있다고 믿었으니까요. 제가 틀렸어요.
+JAKOB: Was wollten Sie allein regeln?
+= 뭘 혼자 처리하시려고 했는데요?
+KRANZ: Ich weiß, was Brückner an der Grenze gesagt hat. Das letzte Wort.
+= 브뤼크너가 국경에서 한 말을 알아요. 마지막 한마디요.
+JAKOB: Woher? Das steht in keinem offiziellen Bericht.
+= 어떻게요? 그건 어떤 공식 보고서에도 없는데요.
+KRANZ: Ein Bundesminister hat Freunde in vielen Behörden, Herr Wendland. Nicht nur in Berlin.
+= 연방 장관은 여러 기관에 친구가 있어요, 벤틀란트 씨. 베를린에만 있는 게 아니고요.
+AYLIN: Österreich. Er meint die Österreicher. Frag ihn nicht weiter danach.
+= 오스트리아. 오스트리아 쪽 얘기야. 그건 더 묻지 마.
+JAKOB: Gut. Sie wissen also, welchen Namen er gesagt hat.
+= 좋습니다. 그럼 그가 어떤 이름을 말했는지 아시는 거네요.
+KRANZ: Ich weiß es. Und ich war nicht überrascht. Das ist das Schlimmste daran.
+= 알아요. 그리고 놀라지 않았어요. 그게 제일 끔찍한 부분이에요.
+JAKOB: Sie waren nicht überrascht. Seit wann wissen Sie es?
+= 놀라지 않으셨다. 언제부터 알고 계셨어요?
+KRANZ: Wissen? Ich habe es nie gewusst. Ich habe es gefürchtet. Vierzig Jahre lang.
+= 알았냐고요? 안 적은 없어요. 두려워했죠. 40년 동안.
+JAKOB: Das ist eine schöne Formulierung, Herr Minister. Aber eine Ausrede.
+= 멋진 표현이네요, 장관님. 하지만 핑계예요.
+KRANZ: Vielleicht. Hören Sie sich zuerst die ganze Geschichte an. Dann dürfen Sie mich verachten.
+= 그럴지도요. 먼저 이야기를 끝까지 들어 보세요. 그다음에 경멸하셔도 됩니다.
+JAKOB: Ich verachte niemanden. Ich lese nur, was dasteht.
+= 저는 아무도 경멸하지 않아요. 적혀 있는 걸 읽을 뿐이에요.
+KRANZ: Dann lesen Sie mich wie eine Akte. Seite für Seite.
+= 그럼 저를 파일처럼 읽으세요. 한 장씩.
+AYLIN: Er spielt mit dir. Lass ihn reden, aber glaub ihm nichts, was du nicht prüfen kannst.
+= 너 갖고 노는 거야. 말하게 두되, 확인 못 하는 건 하나도 믿지 마.
+JAKOB: Fangen Sie an. Leipzig, 1983.
+= 시작하시죠. 라이프치히, 1983년.
+#SECTION 전개 2 — LEIPZIG 1983
+KRANZ: Ich war zweiundzwanzig. Dritter Studienjahrgang, Wirtschaftswissenschaften an der Karl-Marx-Universität.
+= 저는 스물두 살이었어요. 카를 마르크스 대학 경제학과 3학년.
+JAKOB: Ein guter Student?
+= 좋은 학생이었나요?
+KRANZ: Ein ehrgeiziger. Ich wollte in den Außenhandel. Reisen, Verhandlungen, die Welt sehen. Das war damals fast unmöglich.
+= 야심 있는 학생이었죠. 대외무역 쪽으로 가고 싶었어요. 여행하고, 협상하고, 세상을 보고. 그 시절엔 거의 불가능한 일이었죠.
+JAKOB: Außer man hatte die richtigen Freunde.
+= 맞는 친구가 있다면 몰라도요.
+KRANZ: Genau. Und eines Tages sagte eine Kommilitonin zu mir: „Es gibt Leute, die dir helfen können. Komm einfach mit."
+= 바로 그거예요. 어느 날 같은 과 여학생이 저한테 그러더군요. "널 도와줄 수 있는 사람들이 있어. 그냥 같이 가자."
+JAKOB: Wohin?
+= 어디로요?
+KRANZ: In eine Wohnung in Gohlis. Dritter Stock, Hinterhaus. Es roch nach Bohnerwachs und kaltem Rauch.
+= 골리스의 한 아파트로요. 뒷채 4층. 마루 왁스랑 식은 담배 냄새가 났어요.
+JAKOB: Und dort saß Major Brückner.
+= 그리고 거기에 브뤼크너 소령이 앉아 있었고요.
+KRANZ: Damals hat er sich „Herr Bergmann" genannt. Er war sehr höflich. Er hat mir Tee angeboten und über meinen Vater gesprochen.
+= 그때는 자기를 "베르크만 씨"라고 했어요. 아주 정중했죠. 차를 권하더니 제 아버지 얘기를 꺼내더군요.
+JAKOB: Über Ihren Vater?
+= 아버님 얘기를요?
+KRANZ: Mein Vater war Abteilungsleiter in einem Kombinat. Er hatte einen Bruder im Westen. Das war ein Problem, das man jederzeit größer machen konnte.
+= 아버지는 콤비나트의 부서장이셨어요. 서독에 형제가 있었죠. 그건 언제든 더 크게 키울 수 있는 문제였어요.
+JAKOB: Man hat Sie also unter Druck gesetzt.
+= 그러니까 압박을 받으신 거군요.
+KRANZ: Niemand hat gedroht. Das war das Raffinierte. Man hat nur Möglichkeiten erwähnt. Gute und schlechte.
+= 아무도 협박하지 않았어요. 그게 교묘한 점이었죠. 그냥 가능성들을 언급했을 뿐이에요. 좋은 것도, 나쁜 것도.
+JAKOB: Und Sie haben unterschrieben.
+= 그리고 서명하셨죠.
+KRANZ: Nach zwei Stunden. Ich habe unterschrieben, weil ich Angst hatte. Und weil ich reisen wollte. Beides ist wahr.
+= 두 시간 뒤에요. 무서워서 서명했어요. 그리고 여행하고 싶어서요. 둘 다 사실이에요.
+JAKOB: Das ist ehrlicher als alles, was Sie auf der Pressekonferenz gesagt haben.
+= 기자회견에서 하신 어떤 말보다 솔직하시네요.
+KRANZ: Auf einer Pressekonferenz ist Ehrlichkeit ein Luxus. Hier ist sie das Einzige, was ich noch habe.
+= 기자회견장에서 솔직함은 사치예요. 여기선 그게 제게 남은 유일한 거고요.
+JAKOB: Und die Kommilitonin? Wer war sie?
+= 그 여학생은요? 누구였어요?
+KRANZ: Eine kluge junge Frau. Die Beste im Jahrgang. Sie konnte zuhören wie niemand sonst.
+= 똑똑한 젊은 여자였어요. 학년에서 최고였죠. 누구보다 남의 말을 잘 들어 줬어요.
+JAKOB: Das ist keine Antwort, Herr Minister.
+= 그건 대답이 아닌데요, 장관님.
+KRANZ: Ich weiß. Lassen Sie mich zuerst bis 1985 kommen. Sonst verstehen Sie den Rest nicht.
+= 알아요. 먼저 1985년까지 얘기하게 해 주세요. 안 그러면 나머지를 이해 못 하실 거예요.
+JAKOB: Der Abbruchvermerk. Seite siebenundvierzig. Juni 1985.
+= 접촉 중단 기록. 47쪽. 1985년 6월.
+KRANZ: Sie kennen meine Akte besser als ich. Ja. Ich habe ihnen zwei Jahre lang nichts gegeben. Nur Klatsch aus dem Seminar. Dann habe ich gesagt: Ich will nicht mehr.
+= 제 파일을 저보다 더 잘 아시는군요. 맞아요. 2년 동안 아무것도 안 넘겼어요. 세미나 뒷얘기뿐이었죠. 그러고 나서 말했어요. 더는 안 하겠다고.
+JAKOB: Und das ging einfach so?
+= 그게 그냥 됐어요?
+KRANZ: Nichts ging einfach so. Ich habe die Stelle im Außenhandel nicht bekommen. Ich bin Lehrer an einer Berufsschule geworden. Bis zur Wende.
+= 그냥 된 건 하나도 없었어요. 대외무역 자리는 못 받았죠. 직업학교 교사가 됐어요. 장벽이 무너질 때까지.
+JAKOB: Das war Ihre Strafe.
+= 그게 처벌이었군요.
+KRANZ: Das war mein Glück. Ich dachte jedenfalls dreißig Jahre lang, es sei mein Glück gewesen.
+= 그게 제 행운이었어요. 적어도 30년 동안은 그게 행운이었다고 생각했죠.
+JAKOB: Und nach der Wende? Wie wird ein Berufsschullehrer aus Leipzig Bundesminister?
+= 장벽이 무너진 뒤엔요? 라이프치히의 직업학교 교사가 어떻게 연방 장관이 되죠?
+KRANZ: Mit Glück, Fleiß und einer sauberen Weste. Jedenfalls habe ich das geglaubt. Ich habe 1992 sogar Akteneinsicht beantragt.
+= 운과 노력, 그리고 깨끗한 경력으로요. 적어도 저는 그렇게 믿었어요. 1992년에는 제 파일 열람까지 신청했어요.
+JAKOB: Und?
+= 그래서요?
+KRANZ: Die Antwort kam nach zwei Jahren: „Zu Ihrer Person liegen keine Unterlagen vor."
+= 2년 뒤에 답이 왔어요. "귀하에 관한 기록은 존재하지 않습니다."
+JAKOB: Weil mein Vater den Karton im Januar 1990 aus der Normannenstraße geholt hatte.
+= 우리 아버지가 1990년 1월에 노르만넨 거리에서 그 상자를 빼냈으니까요.
+KRANZ: Das weiß ich erst seit letztem Herbst. Ihr Vater hat mir dreißig Jahre Ruhe geschenkt, Herr Wendland. Ohne es zu wollen.
+= 그건 작년 가을에야 알았어요. 당신 아버지가 본의 아니게 저한테 30년의 평온을 선물한 셈이에요, 벤틀란트 씨.
+JAKOB: Ich glaube nicht, dass er an Sie gedacht hat. Er hat an etwas anderes gedacht.
+= 아버지가 장관님을 생각하셨던 것 같진 않아요. 다른 걸 생각하셨겠죠.
+KRANZ: An was?
+= 뭘요?
+JAKOB: Das steht nicht in der Akte. Noch nicht.
+= 그건 파일에 없어요. 아직은.
+AYLIN: Er kommt zum Punkt. Bleib ruhig.
+= 핵심으로 가고 있어. 침착해.
+#SECTION 위기 — DIE WOCHE DAVOR
+JAKOB: Auf der Pressekonferenz im November haben Sie gesagt, Sie hätten die Akte eine Woche vorher zum ersten Mal gesehen.
+= 11월 기자회견에서 그 파일을 일주일 전에 처음 봤다고 하셨죠.
+KRANZ: Das war wahr. Nur habe ich nicht gesagt, wer sie mir gezeigt hat.
+= 그건 사실이었어요. 다만 누가 보여 줬는지는 말하지 않았죠.
+JAKOB: Ich habe mich das ein Jahr lang gefragt.
+= 저는 1년 내내 그게 궁금했어요.
+KRANZ: Anfang November 2026. Ein Donnerstag, kurz vor dem Jahrestag. Jemand kam abends in mein Büro, ohne Termin.
+= 2026년 11월 초. 기념일 직전 목요일이었어요. 누군가 저녁에 약속도 없이 제 사무실에 왔어요.
+JAKOB: Jemand.
+= 누군가.
+KRANZ: Jemand, den ich seit vierzig Jahren kenne. Sie legte mir eine Kopie hin. Die erste Seite. Meine Unterschrift.
+= 40년 동안 알고 지낸 사람이요. 그녀가 사본 한 장을 제 앞에 놓았어요. 첫 장. 제 서명.
+JAKOB: Eine Kopie? Zu diesem Zeitpunkt lag das Original noch unentdeckt hinter Regal vierzehn.
+= 사본이요? 그때 원본은 아직 14번 선반 뒤에서 아무도 모르게 잠들어 있었는데요.
+KRANZ: Das habe ich später auch begriffen. Wer eine Kopie hat, bevor das Original gefunden wird, der weiß, wo das Original liegt.
+= 저도 나중에야 깨달았어요. 원본이 발견되기 전에 사본을 가진 사람은 원본이 어디 있는지 아는 사람이라는 걸.
+JAKOB: Oder der hat dafür gesorgt, dass es gefunden wird.
+= 아니면 그게 발견되도록 손을 쓴 사람이거나요.
+KRANZ: Daran habe ich damals nicht gedacht. Sie sagte: „Joachim, da kommt etwas auf dich zu. Ich kümmere mich darum. Vertrau mir."
+= 그때는 그 생각을 못 했어요. 그녀가 말했죠. "요아힘, 너한테 뭔가 닥칠 거야. 내가 알아서 할게. 날 믿어."
+JAKOB: Und Sie haben ihr vertraut.
+= 그리고 믿으셨군요.
+KRANZ: Was hätte ich tun sollen? Am nächsten Montag hat Ihre Kollegin den Karton gefunden. Und dann ging alles sehr schnell.
+= 제가 뭘 할 수 있었겠어요? 다음 월요일에 당신 동료가 그 상자를 찾았어요. 그다음엔 모든 게 순식간이었죠.
+JAKOB: Der Karton verschwand. Roth hat mir gedroht. Das Archiv hat gebrannt.
+= 상자가 사라졌죠. 로트가 저를 협박했고요. 기록보관소에 불이 났어요.
+KRANZ: Roth war nie mein Mann, Herr Wendland. Das schwöre ich Ihnen. Er wurde mir 2024 als Büroleiter empfohlen. Raten Sie, von wem.
+= 로트는 처음부터 제 사람이 아니었어요, 벤틀란트 씨. 맹세해요. 2024년에 비서실장으로 추천받은 사람이에요. 누가 추천했는지 맞혀 보세요.
+JAKOB: Sie haben das alles gewusst und geschwiegen. Ein ganzes Jahr.
+= 이걸 다 알면서 침묵하셨어요. 꼬박 1년을요.
+KRANZ: Ich hatte Angst. Genau wie 1983. Man wird älter, Herr Wendland, aber nicht unbedingt mutiger.
+= 무서웠어요. 1983년이랑 똑같이. 사람은 나이를 먹지만, 꼭 더 용감해지는 건 아니에요, 벤틀란트 씨.
+JAKOB: Ein Mann ist an der Grenze gestorben. Eine Kollegin sitzt im Gefängnis. Meine Tochter hat Angst um mich. Und Sie hatten Angst.
+= 국경에서 한 사람이 죽었어요. 동료 하나는 감옥에 있고요. 제 딸은 저 때문에 겁에 질려 있어요. 그런데 장관님은 무서우셨다고요.
+KRANZ: Sie haben recht, mich anzuschreien. Tun Sie es ruhig. Hier hört uns niemand.
+= 저한테 소리 지를 자격 있어요. 마음껏 지르세요. 여기선 아무도 안 들어요.
+AYLIN: Doch. Ich. Jakob, atme. Du brauchst ihn noch.
+= 아니. 나는 듣지. 야콥, 숨 쉬어. 너 저 사람 아직 필요해.
+JAKOB: Warum erzählen Sie mir das jetzt? Was haben Sie davon?
+= 왜 지금 이 얘기를 하시는 거죠? 장관님한테 뭐가 남는데요?
+KRANZ: Nichts. Wenn sie in drei Wochen den Sicherheitsrat leitet, sieht sie jede Akte in diesem Land. Jede. Dann bin ich nicht der Einzige mit einer Leine um den Hals.
+= 아무것도요. 3주 뒤에 그녀가 안보회의를 맡으면 이 나라의 모든 파일을 보게 돼요. 전부요. 그럼 목에 줄이 걸린 사람이 저 하나만이 아니게 되죠.
+JAKOB: Sie haben Angst, dass sie Sie fallen lässt.
+= 장관님을 버릴까 봐 두려우신 거군요.
+KRANZ: Ich habe Angst, dass sie mich niemals fallen lässt. Dass ich ihr Minister bleibe. Für immer.
+= 저를 절대 버리지 않을까 봐 두려워요. 제가 영원히 그녀의 장관으로 남을까 봐.
+JAKOB: Würden Sie das aussagen? Vor dem Kontrollgremium? Unter Ihrem Namen?
+= 그걸 증언하시겠어요? 통제위원회 앞에서? 실명으로?
+KRANZ: Dann wäre ich morgen kein Minister mehr.
+= 그럼 저는 내일 장관이 아니겠죠.
+JAKOB: Das ist keine Antwort.
+= 그건 대답이 아니에요.
+KRANZ: Sie sagen das heute schon zum zweiten Mal. Ich bin noch nicht so weit, Herr Wendland. Geben Sie mir Zeit.
+= 오늘만 벌써 두 번째 그 말씀을 하시네요. 아직 마음의 준비가 안 됐어요, 벤틀란트 씨. 시간을 주세요.
+JAKOB: Zeit ist das Einzige, was wir nicht haben. Neunzehn Tage.
+= 시간은 우리한테 없는 유일한 거예요. 19일.
+#SECTION 결말 — DER NAME
+AYLIN: Jakob, ein Auto auf dem Columbiadamm. Fährt sehr langsam. Noch kein Regen, aber beeil dich.
+= 야콥, 콜룸비아담에 차 한 대. 아주 천천히 달리고 있어. 아직 "비"는 아닌데, 서둘러.
+JAKOB: Herr Minister, ich muss gleich gehen. Eine letzte Frage.
+= 장관님, 곧 가야 해요. 마지막 질문 하나요.
+KRANZ: Fragen Sie.
+= 물어보세요.
+JAKOB: Die Kommilitonin in Leipzig und die Frau in Ihrem Büro im November. Ist das dieselbe Person?
+= 라이프치히의 그 여학생과 11월에 장관실에 온 여자. 같은 사람인가요?
+KRANZ: Sie wissen die Antwort. Brückner hat sie Ihnen gegeben.
+= 답은 알고 계시잖아요. 브뤼크너가 알려 줬잖아요.
+JAKOB: Brückner hat einen Namen gesagt und ist gestorben. Ein Sterbender ist kein Zeuge. Sie schon.
+= 브뤼크너는 이름 하나 말하고 죽었어요. 죽어 가는 사람은 증인이 못 돼요. 장관님은 되고요.
+KRANZ: Wenn ich den Namen hier ausspreche, gibt es kein Zurück mehr.
+= 여기서 그 이름을 입에 올리면 되돌아갈 길이 없어요.
+JAKOB: Für mich gibt es schon seit dem neunten November kein Zurück mehr.
+= 저한테는 11월 9일부터 이미 되돌아갈 길이 없었어요.
+AYLIN: Das Auto hält. Zwei Minuten, Jakob.
+= 차가 섰어. 2분이야, 야콥.
+KRANZ: Wissen Sie, was das Merkwürdigste ist? Ich habe ihr damals dankbar sein wollen.
+= 제일 이상한 게 뭔지 아세요? 그때 저는 그녀에게 고마워하고 싶었어요.
+JAKOB: Dankbar? Wofür?
+= 고마워하다니요? 뭘요?
+KRANZ: Sie hat mich vor dem Termin in Gohlis gefragt, ob ich wirklich mitkommen wolle. Zweimal. Ich habe das immer für Sorge gehalten.
+= 골리스에 가기 전에 정말 같이 갈 거냐고 저한테 물었거든요. 두 번이나. 저는 그걸 늘 걱정해 주는 거라고 생각했어요.
+JAKOB: Und heute?
+= 지금은요?
+KRANZ: Heute weiß ich, dass sie nur sicher sein wollte, dass ich freiwillig komme. Freiwillige unterschreiben leichter.
+= 지금은 알아요. 제가 제 발로 오는지 확인하고 싶었던 것뿐이라는 걸. 제 발로 온 사람이 더 쉽게 서명하니까요.
+AYLIN: Regen, Jakob. Ich sage: Regen.
+= 비, 야콥. "비"야.
+JAKOB: Wer, Herr Minister? Sagen Sie den Namen.
+= 누구죠, 장관님? 이름을 말씀하세요.
+KRANZ: Helene. Helene hat mich damals hingebracht. Ich dachte, sie wollte mich warnen.
+= 헬레네요. 그때 저를 거기 데려간 건 헬레네였어요. 저는 그녀가 저한테 경고해 주려는 줄 알았어요.
+#NEXT
+4부 3화 — «Die Puzzlerinnen»(퍼즐 맞추는 사람들) — 컴퓨터 복원 사업이 실패로 끝난 뒤, 연방기록원에는 찢긴 슈타지 문서를 손으로 맞추는 몇 사람만 남았다. 야콥은 일제 크뤼거와 함께 아버지 수첩에 적힌 숫자 "Sack 2214"를 찾아 나서고, 37년 동안 잠들어 있던 자루 속에서 '정원사'라는 단어가 적힌 조각이 나온다.

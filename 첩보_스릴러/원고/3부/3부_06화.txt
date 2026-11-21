@@ -1,0 +1,267 @@
+#META
+part: 3
+episode: 6
+title: Doppeltes Spiel
+subtitle_ko: 이중 게임
+place_ko: DSN 회의실과 호텔 복도
+setting: 2027년 5월 22일(토) 오전~밤, 빈 DSN 본부 회의실 → 신문실 → 야콥의 호텔 복도
+level: B2
+#CAST
+JAKOB | BfV 파견 요원 · 44세 · 前 BND 기록 담당자
+AYLIN | BfV 방첩부 팀장 · 41세
+THERESA | 오스트리아 DSN 수사관 · 44세 · Mag.
+REISCHL | 前 BVT 수사관 · 66세 · 계좌를 열어 준 브로커
+LEA | 야콥의 딸 · 16세 (전화)
+#INTRO
+※ 호이리거에서 브뤼크너는 1983년 라이프치히의 이야기를 털어놓았습니다. 크란츠는 아무도 밀고하지 않은 '최악의 정보원'이었고, 그를 비밀 아파트로 데려간 사람은 1981년부터 HVA를 위해 일하던 진짜 정보원 '정원사'였습니다. 야콥의 아버지 귄터는 "그 건물에서 드물게 정직한 사람"이었고요. 헤어질 때 브뤼크너는 선물 하나를 남겼습니다. "정원사는 여학생이었습니다. 강의실에서 크란츠 옆자리에 앉았죠." 다음 날 토요일 아침, DSN 본부. 녹음을 두고 독일과 오스트리아가 맞섭니다. 아일린과 테레자는 서로 Sie를 씁니다. 야콥과 아일린은 du입니다. 표현 초점: 기관 간 갈등 어휘 — Zuständigkeit, Kooperation, Misstrauen, Amtshilfe, Durchsuchung, verschwunden / 오스트리아 표현 heuer, Bub, ein Haferl Kaffee.
+#SECTION 도입 — SAMSTAG IN DER DSN
+THERESA: Guten Morgen. Ein Haferl Kaffee? Unser Automat ist alt, aber ehrlich.
+= 좋은 아침이에요. 커피 한 잔 하실래요? 우리 자판기는 낡았지만 정직해요.
+AYLIN: Gern. Schwarz und groß. Ich habe nach dem Heurigen keine Minute geschlafen.
+= 좋아요. 블랙으로 큰 걸로요. 호이리거 다녀와서 1분도 못 잤어요.
+JAKOB: Ich auch nicht. Ich habe die Aufnahme dreimal gehört.
+= 나도 못 잤어. 녹음을 세 번 들었어.
+THERESA: Und? Was hören Sie beim dritten Mal, was Sie beim ersten Mal nicht gehört haben?
+= 그래서요? 처음엔 못 듣고 세 번째에 들린 게 뭐예요?
+JAKOB: Eine Pause. Bevor er „sie" sagt, wartet er eine Sekunde. Er hat es nicht aus Versehen gesagt.
+= 한 번의 침묵이요. '그녀'라고 말하기 전에 1초를 기다려요. 실수로 말한 게 아니에요.
+AYLIN: Natürlich nicht. Ein alter Fuchs verliert nichts aus Versehen. Er verkauft uns den Namen in Scheiben.
+= 당연하지. 늙은 여우는 실수로 흘리는 게 없어. 이름을 조각조각 잘라서 파는 거야.
+THERESA: Wie eine Salami. Das ist eine sehr österreichische Methode, das muss man ihm lassen.
+= 살라미처럼요. 그건 아주 오스트리아식 방법이네요, 그건 인정해야겠어요.
+AYLIN: Frau Magister, ich will heute eine Entscheidung. Brückner muss so schnell wie möglich nach Deutschland.
+= 그루버 씨, 오늘 결정을 받고 싶어요. 브뤼크너는 최대한 빨리 독일로 가야 해요.
+THERESA: Brückner ist österreichischer Wohnbürger unter dem Namen Brandt. Er hat hier keine Straftat begangen. Wir können ihn nicht einfach in ein Auto setzen.
+= 브뤼크너는 브란트라는 이름의 오스트리아 거주민이에요. 여기서 범죄를 저지르지 않았어요. 그냥 차에 태워 보낼 수는 없어요.
+AYLIN: Er will doch selbst nach Deutschland! Er hat es gestern Abend gesagt.
+= 본인이 독일에 가고 싶어 하잖아요! 어젯밤에 말했어요.
+THERESA: Dann soll er einen Antrag stellen. Mit Unterschrift. Bei uns geht nichts ohne Antrag.
+= 그럼 신청서를 내야죠. 서명해서요. 우리 쪽은 신청서 없이 되는 게 하나도 없어요.
+JAKOB: Ein Mann mit einem halben Jahr zu leben soll einen Antrag stellen?
+= 반년 남은 사람이 신청서를 내야 한다고요?
+THERESA: Ein Mann mit einem halben Jahr zu leben hat dreißig Jahre lang falsche Papiere benutzt. Ein Antrag mehr bringt ihn nicht um.
+= 반년 남은 그 사람은 30년 동안 가짜 서류를 썼어요. 신청서 한 장 더 쓴다고 죽지 않아요.
+AYLIN: Und wie lange dauert so ein Antrag in Wien?
+= 그럼 빈에서 그런 신청서는 얼마나 걸려요?
+THERESA: Heuer noch? Mit Glück.
+= 올해 안에요? 운이 좋으면요.
+AYLIN: „Heuer"? Was heißt das?
+= '호이어'? 그게 무슨 뜻이에요?
+JAKOB: Dieses Jahr. Das habe ich gestern gelernt. Und ich glaube, Frau Gruber macht einen Witz.
+= 올해. 어제 배웠어. 그리고 그루버 씨가 농담하시는 것 같아.
+THERESA: Halb. Ein halber Witz. Die andere Hälfte ist österreichische Wirklichkeit.
+= 반쯤이요. 반은 농담이에요. 나머지 반은 오스트리아의 현실이고요.
+#SECTION 전개 1 — DER FALL OTT
+AYLIN: Ich sage es offen, Frau Magister. Ich habe ein Problem damit, Brückner in Ihren Händen zu lassen.
+= 솔직히 말할게요, 그루버 씨. 브뤼크너를 당신들 손에 두는 게 저는 문제라고 봐요.
+THERESA: Das habe ich gemerkt. Seit Montag merke ich es. Sagen Sie es ruhig ganz.
+= 눈치챘어요. 월요일부터 느꼈죠. 끝까지 말씀하세요.
+AYLIN: Vor genau einem Jahr wurde in Wien ein ehemaliger Beamter eures Verfassungsschutzes verurteilt. Spionage für Russland.
+= 딱 1년 전에 빈에서 당신들 옛 헌법수호청 공무원이 유죄 판결을 받았죠. 러시아를 위한 스파이 행위로.
+THERESA: Am zwanzigsten Mai. Ich war im Gerichtssaal. Ich weiß, wie lange das Verfahren gedauert hat.
+= 5월 20일이죠. 저도 법정에 있었어요. 그 재판이 얼마나 오래 걸렸는지 알아요.
+AYLIN: Dann wissen Sie auch, wie lange er unentdeckt war. Jahre. Wie können Sie garantieren, dass es heute keinen zweiten Ott gibt?
+= 그럼 그가 얼마나 오래 들키지 않았는지도 알겠네요. 몇 년이요. 지금은 제2의 오트가 없다고 어떻게 장담하죠?
+THERESA: Garantieren kann ich gar nichts. Aber ich kann Ihnen sagen, was nach dem Skandal passiert ist.
+= 장담은 아무것도 못 해요. 하지만 그 스캔들 이후에 무슨 일이 있었는지는 말해 줄 수 있어요.
+JAKOB: Bitte.
+= 말씀해 주세요.
+THERESA: Das alte Amt wurde aufgelöst. Jeder einzelne Mitarbeiter wurde neu überprüft. Ich auch. Drei Monate lang.
+= 옛 기관은 해체됐어요. 직원 한 사람 한 사람이 다시 심사를 받았죠. 저도요. 석 달 동안.
+AYLIN: Überprüft heißt nicht sauber.
+= 심사받았다고 깨끗하다는 뜻은 아니죠.
+THERESA: Nein. Aber wir sind seitdem ein anderes Haus. Wir sind nach diesem Skandal neu geboren, Frau Demir. Mit Schmerzen.
+= 아니죠. 하지만 우린 그 뒤로 다른 집이 됐어요. 그 스캔들 이후 다시 태어났어요, 데미르 씨. 고통스럽게.
+AYLIN: Und trotzdem ist Wien noch immer die Hauptstadt der Spione. Das schreiben alle Zeitungen.
+= 그래도 빈은 여전히 스파이의 수도잖아요. 모든 신문이 그렇게 써요.
+THERESA: Weil unser Gesetz Spionage gegen andere Länder kaum bestraft. Wer hier gegen Deutschland spioniert, riskiert wenig. Das kritisiere ich selbst seit Jahren.
+= 우리 법이 다른 나라를 겨냥한 첩보를 거의 처벌하지 않으니까요. 여기서 독일을 상대로 스파이 짓을 해도 위험이 적어요. 저도 몇 년째 그걸 비판하고 있어요.
+JAKOB: Das heißt, der Verein der Freunde der Gartenkunst kann hier ganz legal ein Konto haben.
+= 그 말은 '정원 예술 애호가 협회'가 여기서 완전히 합법적으로 계좌를 가질 수 있다는 거군요.
+THERESA: Ganz legal. Solange niemand beweist, dass das Geld aus einem Verbrechen kommt.
+= 완전히 합법적으로요. 그 돈이 범죄에서 나왔다는 걸 아무도 증명하지 못하는 한요.
+AYLIN: Bei uns ist das anders. Und bei uns hätten wir Brückner schon in einem sicheren Haus.
+= 우리 쪽은 달라요. 우리라면 브뤼크너를 벌써 안전가옥에 넣었을 거예요.
+THERESA: Bei Ihnen, Frau Demir? Darf ich Sie erinnern? Ihr BND hat gerade eine Ministerakte verloren. Aus einem verschlossenen Schrank.
+= 당신네라면요, 데미르 씨? 상기시켜 드려도 될까요? 당신네 BND는 얼마 전 장관 파일을 잃어버렸잖아요. 잠긴 캐비닛에서요.
+AYLIN: Das war nicht der Verfassungsschutz. Das war der BND.
+= 그건 헌법수호청이 아니었어요. BND였죠.
+THERESA: Und Ihr eigenes Personalarchiv in Köln? Wer hat im Februar die Akte von „Jan Wendt" geöffnet? Ich habe auch Zeitungen, Frau Demir.
+= 그럼 쾰른의 당신네 인사 기록은요? 2월에 '얀 벤트' 파일을 연 게 누구였죠? 저도 신문은 읽어요, 데미르 씨.
+AYLIN: Woher wissen Sie davon? Das stand in keiner Zeitung.
+= 그걸 어떻게 알아요? 그건 어느 신문에도 안 났어요.
+THERESA: Amtshilfe. Ihre eigenen Kollegen haben uns gewarnt, dass Ihr Haus nicht dicht ist. Vor einer Woche.
+= 공조 요청이요. 당신네 동료들이 일주일 전에 우리한테 경고했어요. 당신네 기관이 새고 있다고.
+JAKOB: Stopp. Bitte. Beide. Wir sitzen hier und werfen uns gegenseitig Löcher vor.
+= 그만요. 제발요. 두 분 다요. 우린 지금 여기 앉아서 서로 구멍 났다고 탓하고 있어요.
+AYLIN: Jakob, das ist kein Spiel.
+= 야콥, 이건 장난이 아니야.
+JAKOB: Eben. Das ist ein doppeltes Spiel. Und wir spielen es gerade für jemand anderen.
+= 그러니까. 이건 이중 게임이야. 그리고 우린 지금 다른 누군가를 위해 그 게임을 하고 있어.
+#SECTION 전개 2 — REISCHL
+THERESA: Der Mann, der das Konto eröffnet hat, sitzt nebenan. Leopold Reischl. Früher einer von uns.
+= 계좌를 열어 준 남자가 옆방에 있어요. 레오폴트 라이슐. 예전엔 우리 사람이었죠.
+AYLIN: Ein ehemaliger Verfassungsschützer als Kontovermittler. Natürlich.
+= 前 헌법수호청 직원이 계좌 중개인이라. 그럼 그렇지.
+THERESA: Bitte keine Kommentare drinnen. Er freut sich über jeden Kommentar.
+= 안에서는 아무 말도 하지 마세요. 저 사람은 말 한마디 한마디를 즐기거든요.
+REISCHL: Ah, die Frau Magister Gruber! Und Besuch aus Deutschland. Ich bin geehrt. An einem Samstag sogar.
+= 아, 그루버 씨! 그리고 독일에서 손님까지. 영광이네요. 그것도 토요일에.
+THERESA: Herr Reischl, Sie sind freiwillig hier. Sie können jederzeit gehen.
+= 라이슐 씨, 자발적으로 오신 거예요. 언제든 가셔도 돼요.
+REISCHL: Ich weiß, ich weiß. Ich habe die Regeln früher selbst geschrieben, Frau Magister.
+= 알아요, 알아요. 그 규칙은 예전에 제가 직접 썼거든요, 그루버 씨.
+JAKOB: Sie haben dem Verein der Freunde der Gartenkunst ein Konto bei Lechner vermittelt. Wann?
+= 정원 예술 애호가 협회에 레히너 은행 계좌를 중개해 주셨죠. 언제였습니까?
+REISCHL: 2022. Ein Kulturverein, Herr…? Wie war Ihr Name noch?
+= 2022년이요. 문화 단체예요, 선생님…? 성함이 어떻게 되셨죠?
+JAKOB: Wendland.
+= 벤틀란트입니다.
+REISCHL: Wendland. Natürlich. Der Archivar aus Berlin. Der Sohn.
+= 벤틀란트. 그렇죠. 베를린에서 온 기록 담당자. 그 아들.
+AYLIN: Woher wissen Sie, wessen Sohn er ist?
+= 이 사람이 누구 아들인지 어떻게 알아요?
+REISCHL: In Wien redet man, gnädige Frau. Beim Heurigen zum Beispiel. Die Wände dort sind sehr dünn.
+= 빈에서는 다들 말을 하죠, 부인. 호이리거 같은 데서요. 거긴 벽이 아주 얇거든요.
+THERESA: Sie waren gestern in Grinzing?
+= 어제 그린칭에 계셨어요?
+REISCHL: Ich? Nein. Ich trinke keinen Wein mehr. Die Leber, wissen Sie. Aber Freunde von mir trinken gern.
+= 제가요? 아니요. 저 이제 와인 안 마셔요. 간 때문에요. 하지만 제 친구들은 마시는 걸 좋아하죠.
+JAKOB: Wer hat Sie beauftragt, das Konto zu eröffnen?
+= 누가 계좌를 열어 달라고 의뢰했습니까?
+REISCHL: Ein Anwalt aus Zürich. Sehr korrekt, sehr höflich. Die Freunde der Gartenkunst zahlen immer pünktlich.
+= 취리히의 변호사요. 아주 깔끔하고, 아주 예의 바르죠. 정원 예술 애호가들은 언제나 돈을 제때 내요.
+AYLIN: Und das Geld ging weiter nach Hamburg. An einen Herrn Sorin.
+= 그리고 그 돈은 함부르크로 넘어갔죠. 소린이란 사람한테.
+REISCHL: Davon weiß ich nichts. Ich vermittle Konten, keine Überweisungen. Das ist in Österreich kein Verbrechen.
+= 그건 전혀 몰라요. 저는 계좌를 중개하지, 송금을 중개하진 않아요. 그건 오스트리아에서 범죄가 아니에요.
+THERESA: Noch nicht.
+= 아직은요.
+REISCHL: Noch nicht. Sehr schön gesagt, Frau Magister. Sie waren immer die Klügste in Ihrem Jahrgang.
+= 아직은. 아주 멋진 말이네요, 그루버 씨. 당신은 늘 동기 중에 제일 똑똑했죠.
+JAKOB: Herr Reischl, wer hat die Gründungsurkunde des Vereins unterschrieben?
+= 라이슐 씨, 협회 설립 서류엔 누가 서명했습니까?
+REISCHL: Initialen. Nur Initialen. Damals dachte ich, eine alte Dame mit einem Garten. „H. S."
+= 이니셜이요. 이니셜뿐이었어요. 그때는 정원이 있는 할머니인가 보다 했죠. "H. S."
+AYLIN: H. S. Haben Sie die Person je gesehen?
+= H. S. 그 사람을 본 적 있어요?
+REISCHL: Nie. Ich sage Ihnen noch etwas umsonst, weil Sie so nett sind. Der Brandt hat Angst. Und er hat recht.
+= 한 번도요. 다들 친절하시니 공짜로 하나 더 말씀드리죠. 브란트는 겁먹고 있어요. 그리고 그럴 만해요.
+THERESA: Ist das eine Drohung, Herr Reischl?
+= 그거 협박인가요, 라이슐 씨?
+REISCHL: Eine Wettervorhersage, Frau Magister. Nur eine Wettervorhersage. Darf ich jetzt gehen?
+= 일기예보예요, 그루버 씨. 그냥 일기예보요. 이제 가도 될까요?
+THERESA: Gehen Sie. Aber verlassen Sie Wien nicht.
+= 가세요. 하지만 빈을 떠나지는 마세요.
+REISCHL: Wohin sollte ich denn? Ich bin Wiener, Frau Magister. Wir sterben nicht woanders. Habe die Ehre.
+= 제가 어딜 가겠어요? 저는 빈 사람이에요, 그루버 씨. 우린 다른 데서 죽지 않아요. 안녕히 계세요.
+AYLIN: „Habe die Ehre"? Der Mann verabschiedet sich wie ein Kellner im Kaffeehaus.
+= '하베 디 에레'? 저 남자 카페 웨이터처럼 인사하네요.
+THERESA: So verabschieden sich bei uns die alten Herren. Er hat dreißig Jahre lang Menschen höflich belogen. Das sitzt.
+= 우리 쪽 노신사들은 그렇게 인사해요. 30년 동안 사람들한테 공손하게 거짓말을 했으니까요. 몸에 배었죠.
+JAKOB: Er hat mich „den Sohn" genannt. Nicht „den Archivar". Zuerst den Sohn.
+= 저 사람이 절 '그 아들'이라고 불렀어요. '기록 담당자'가 아니라. 아들이 먼저였어요.
+AYLIN: Und?
+= 그래서?
+JAKOB: Wer ihm das erzählt hat, kennt meine Familie. Nicht nur meine Akte.
+= 그 얘기를 해 준 사람은 우리 가족을 알아. 내 파일만이 아니라.
+THERESA: Oder kannte Ihren Vater. Wie Brückner.
+= 아니면 당신 아버지를 알았거나요. 브뤼크너처럼요.
+JAKOB: Oder wie die Studentin aus Leipzig.
+= 아니면 라이프치히의 그 여학생처럼요.
+#SECTION 위기 — WER HAT GEREDET?
+AYLIN: Er wusste vom Heurigen. Er wusste, wer Jakob ist. Das kann er nur von euch haben, Frau Magister.
+= 호이리거 일을 알고 있었어요. 야콥이 누군지도 알았고요. 그건 당신들한테서밖에 나올 수 없어요, 그루버 씨.
+THERESA: Oder von Ihnen. Wer hat gestern Abend einen Bericht nach Köln geschickt? Um dreiundzwanzig Uhr?
+= 아니면 당신들한테서요. 어젯밤 쾰른에 보고서 보낸 게 누구죠? 23시에?
+AYLIN: Ich. An eine einzige Person. Meinen Abteilungsleiter.
+= 저요. 딱 한 사람한테요. 제 부서장한테.
+THERESA: Und Ihr Abteilungsleiter? Schickt er ihn nicht weiter? Nach Berlin vielleicht?
+= 그럼 그 부서장은요? 그걸 그대로 두나요? 베를린으로 보낼 수도 있잖아요?
+AYLIN: Natürlich geht ein Lagebericht ins Kanzleramt. Das ist Vorschrift. Bei einem Austausch sowieso.
+= 당연히 상황 보고는 총리실로 가요. 그게 규정이에요. 맞교환 건이면 더더욱.
+JAKOB: Und eure Berichte, Frau Gruber? Wohin gehen sie?
+= 그럼 당신들 보고서는요, 그루버 씨? 어디로 가요?
+THERESA: An meine Direktorin. Und weil es ein deutscher Fall ist, eine Kopie an die deutsche Seite. Als Amtshilfe.
+= 우리 국장님한테요. 그리고 독일 건이니까 사본 하나는 독일 측에요. 공조 차원에서요.
+JAKOB: An wen genau auf der deutschen Seite?
+= 독일 측 누구한테 정확히요?
+THERESA: An die Koordinierungsstelle im Kanzleramt. So steht es im Abkommen.
+= 총리실의 조정 부서로요. 협정에 그렇게 돼 있어요.
+JAKOB: Dann landen beide Berichte am selben Schreibtisch.
+= 그럼 두 보고서가 같은 책상에 떨어지는 거네요.
+AYLIN: Jakob, worauf willst du hinaus?
+= 야콥, 무슨 말을 하려는 거야?
+JAKOB: Darauf, dass das Leck vielleicht weder in Wien noch in Köln liegt. Sondern weiter oben. Dort, wo alle Berichte zusammenkommen.
+= 새는 곳이 빈도 쾰른도 아닐 수 있다는 거야. 더 위쪽일 수도 있다는 거지. 모든 보고서가 모이는 곳.
+THERESA: Das ist ein schwerer Satz, Herr Wendland. Haben Sie einen Namen dazu?
+= 그건 무거운 말이에요, 벤틀란트 씨. 거기 붙일 이름이 있어요?
+JAKOB: Nein. Ich habe eine Studentin aus Leipzig, zwei Initialen und einen alten Mann, der Angst hat.
+= 아니요. 라이프치히의 여학생 하나, 이니셜 두 개, 그리고 겁먹은 노인 하나가 있을 뿐이에요.
+AYLIN: Und eine Frau, die schon nach drei Minuten deine Begleitung nach Wien genehmigt hat.
+= 그리고 네 빈 동행을 3분 만에 승인한 여자도 있지.
+JAKOB: Das ist kein Beweis, Aylin. Das ist ein Gefühl.
+= 그건 증거가 아니야, 아일린. 느낌일 뿐이야.
+AYLIN: In unserem Beruf fangen Beweise oft als Gefühle an.
+= 우리 일에선 증거가 느낌에서 시작할 때가 많아.
+THERESA: Ich schlage etwas vor. Ab heute schreiben wir keine Berichte über Brückner mehr. Keine Zeile. Weder Sie noch ich.
+= 제안 하나 할게요. 오늘부터 브뤼크너에 관해선 보고서를 쓰지 말아요. 한 줄도요. 당신도 저도.
+AYLIN: Das ist gegen jede Vorschrift.
+= 그건 모든 규정 위반이에요.
+THERESA: Genau deshalb. Wer immer mitliest, liest dann nichts mehr. Wir arbeiten mündlich. Wie früher.
+= 그러니까요. 누가 몰래 읽고 있든, 이제 읽을 게 없게 되는 거죠. 말로만 일하는 거예요. 예전처럼.
+JAKOB: Wie mein Vater. Der hat auch nie etwas aufgeschrieben, was nicht sicher war.
+= 우리 아버지처럼요. 아버지도 안전하지 않은 건 절대 적지 않았어요.
+AYLIN: Gut. Mündlich. Aber wenn das schiefgeht, Frau Magister, dann gehe ich mit Ihnen gemeinsam unter.
+= 좋아요. 말로만. 하지만 이게 잘못되면, 그루버 씨, 당신이랑 같이 가라앉는 거예요.
+THERESA: Das ist das Netteste, was eine Deutsche heuer zu mir gesagt hat. Dann sind wir uns ja einig.
+= 올해 독일 사람한테 들은 말 중에 제일 다정한 말이네요. 그럼 합의된 거죠.
+#SECTION 결말 — DER HOTELKORRIDOR
+LEA: Papa? Ist es bei dir auch so spät? Hier ist es zehn.
+= 아빠? 거기도 이렇게 늦었어? 여긴 열 시야.
+JAKOB: Lea, wir haben dieselbe Zeitzone. Wien ist nicht New York.
+= 레아, 우리 같은 시간대야. 빈은 뉴욕이 아니야.
+LEA: Ich weiß. Es fühlt sich nur so weit weg an. Wie ist Wien?
+= 알아. 그냥 너무 멀게 느껴져서. 빈은 어때?
+JAKOB: Freundlich. Langsam. Alle sagen sehr höflich Dinge, die sie nicht meinen.
+= 친절해. 느리고. 다들 아주 공손하게 진심이 아닌 말을 해.
+LEA: Also wie bei dir im Büro.
+= 그러니까 아빠 사무실 같네.
+JAKOB: Genau. Wie hat Oma auf deinen Brief reagiert? Für das Schulprojekt?
+= 맞아. 할머니는 네 편지 보고 뭐라셨어? 학교 과제 말이야.
+LEA: Sie hat geweint. Und dann hat sie gesagt, Opa hätte am Ende immer das Richtige getan, nur nie laut.
+= 우셨어. 그러고는 할아버지가 결국 언제나 옳은 일을 하셨대. 다만 한 번도 큰소리로 하진 않았대.
+JAKOB: Das hat gestern noch jemand über ihn gesagt. Fast mit denselben Worten.
+= 어제 누가 할아버지에 대해 그 말을 했어. 거의 똑같은 말로.
+LEA: Wer denn?
+= 누가?
+JAKOB: Ein alter Mann. Erzähl ich dir später. Geh schlafen, Lea.
+= 어떤 노인. 나중에 얘기해 줄게. 자, 레아.
+LEA: Ganz leise laut, Papa.
+= 아주 조용히 크게, 아빠.
+JAKOB: Ganz leise laut.
+= 아주 조용히 크게.
+THERESA: Herr Wendland! Gut, dass Sie noch wach sind. Nein, bleiben Sie im Gang, ich bin gleich bei Ihnen.
+= 벤틀란트 씨! 아직 안 주무셔서 다행이에요. 아니요, 복도에 계세요, 바로 갈게요.
+JAKOB: Frau Gruber? Sie sind außer Atem. Was ist passiert?
+= 그루버 씨? 숨이 차시네요. 무슨 일이에요?
+THERESA: Meine Kollegen in Döbling. Sie haben sich seit einer Stunde nicht gemeldet. Ich habe einen Streifenwagen hingeschickt.
+= 되블링에 있는 제 동료들이요. 한 시간째 연락이 없었어요. 순찰차를 보냈죠.
+JAKOB: Und?
+= 그리고요?
+THERESA: Die Kollegen saßen im Auto. Betäubt. Beide leben, aber sie erinnern sich an nichts.
+= 동료들은 차 안에 있었어요. 마취된 채로요. 둘 다 살아 있지만 아무것도 기억 못 해요.
+JAKOB: Und Brückner?
+= 브뤼크너는요?
+THERESA: Die Wohnungstür war offen. Die Schubladen auf dem Boden, die Bücher aus den Regalen, sogar die Matratze aufgeschnitten.
+= 아파트 문이 열려 있었어요. 서랍은 바닥에, 책은 책장에서 다 빠져 있고, 매트리스까지 찢겨 있었어요.
+JAKOB: Sie haben etwas gesucht.
+= 뭔가를 찾았군요.
+THERESA: Und vielleicht nicht gefunden. Auf dem Küchentisch stand noch sein Vierterl. Halb voll.
+= 그리고 못 찾았을지도 모르고요. 부엌 식탁엔 그 사람 와인 잔이 아직 있었어요. 반쯤 남은 채로.
+JAKOB: Frau Gruber. Sagen Sie es mir genau.
+= 그루버 씨. 정확하게 말해 주세요.
+THERESA: Die Wohnung ist durchwühlt, Herr Wendland. Und Brückner ist verschwunden.
+= 아파트는 뒤집혀 있어요, 벤틀란트 씨. 그리고 브뤼크너는 사라졌어요.
+#NEXT
+3부 7화 — «Donauturm»(도나우 탑) — 브뤼크너가 사라진 다음 날, 러시아 측 협상 대표 넴초프가 야콥을 도나우 탑 회전 레스토랑으로 부른다. 한 바퀴 26분, 그 안에 끝내야 하는 비공식 거래. 넴초프는 브뤼크너가 어디 있는지 아는 듯 말하고, 야콥은 시계를 본다. 그리고 억류된 기자 라이터의 새 영상이 도착한다.

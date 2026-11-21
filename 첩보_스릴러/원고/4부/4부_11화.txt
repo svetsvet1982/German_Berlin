@@ -1,0 +1,291 @@
+#META
+part: 4
+episode: 11
+title: Reichstag
+subtitle_ko: 의사당
+place_ko: 통제위원회 공개 특별 청문
+setting: 2027년 9월 24일(금) 오전 10시~오후, 베를린 의사당 건물 통제위원회(PKGr) 청문실
+level: B2
+#CAST
+JAKOB | 직무 정지 중인 BND 기록 담당자 · 45세 · 마지막 증인
+AYLIN | BfV 방첩부 팀장 · 야콥의 마지막 아군
+KRANZ | 연방 국방장관 · 66세 · 암호명 SPREE
+BECK | 연방의회 정보기관 통제위원회 위원장 · 59세
+SAND | 필적 감정사 · Dr. 헨리케 잔트
+ILSE | 前 시민운동가 · 79세 · 슈타지 문서 복원 자원봉사자
+KATRIN | 前 기록 담당자 · 구속 중인 증인
+SEIDLITZ | 총리실 국무차관 · 국가안보회의 사무국장 내정자 · 64세
+ANWALT | 자이들리츠의 변호인 · Dr. 팔크
+#INTRO
+※ 내각이 자이들리츠를 국가안보회의 사무국장으로 확정하기 사흘 전입니다. 연방의회 정보기관 통제위원회가 이례적으로 공개 특별 청문을 엽니다. 증인은 국방장관 크란츠, 필적 감정사 잔트 박사, 슈타지 문서 복원팀의 일제 크뤼거, 구속 중인 카트린 로렌츠, 그리고 마지막으로 야콥입니다. 증거는 1부부터 모아 온 것들입니다. 아버지의 수첩에 적힌 '자루 2214'에서 나온 조각, 빈에서 건진 마이크로필름의 필체, '정원 예술 애호가 협회' 계좌의 이니셜 H. S., 사라진 로트가 미라에게 남긴 서면 진술이 그것입니다. 어젯밤에는 "슈타지의 아들이 장관을 쫓는다"는 헤드라인이 터졌습니다. 청문회에서는 모두 Sie를 씁니다. 다만 대기실의 야콥과 아일린, 그리고 야콥과 카트린은 du를 씁니다. 표현 초점: 의회·법률 어휘 — Anhörung, Zeuge, zur Sache, Einspruch, Beweislage, Widerspruch, Gutachten, protokollieren.
+#SECTION 도입 — VOR DEM SAAL
+AYLIN: Du hast die Zeitung gesehen, oder? „Stasi-Sohn jagt Minister."
+= 신문 봤지? "슈타지의 아들이 장관을 쫓는다."
+JAKOB: Ich habe sie gesehen. Meine Mutter hat sie heute Morgen in den Müll geworfen.
+= 봤어. 어머니가 오늘 아침에 쓰레기통에 버리셨어.
+AYLIN: Gut so. Seidlitz will, dass du heute als beleidigter Sohn da drinsitzt. Nicht als Zeuge.
+= 잘하셨네. 자이들리츠는 네가 오늘 저 안에 증인이 아니라 상처받은 아들로 앉아 있길 바라는 거야.
+JAKOB: Ich weiß. Der Reihe nach. Erst die anderen, dann ich.
+= 알아. 차례대로야. 다른 사람들 먼저, 그다음이 나.
+AYLIN: Kranz ist schon da. Er sieht aus, als hätte er seit einer Woche nicht geschlafen.
+= 크란츠는 벌써 와 있어. 일주일은 못 잔 사람 같아.
+KRANZ: Das stimmt ziemlich genau, Frau Demir. Guten Morgen, Herr Wendland.
+= 거의 정확합니다, 데미르 씨. 좋은 아침입니다, 벤틀란트 씨.
+JAKOB: Guten Morgen, Herr Minister. Sie können es sich noch anders überlegen.
+= 좋은 아침입니다, 장관님. 아직 마음을 바꾸셔도 됩니다.
+KRANZ: Nein. Ich habe vierundvierzig Jahre lang geschwiegen. Das war lange genug.
+= 아니요. 44년 동안 침묵했습니다. 그거면 충분히 길었어요.
+JAKOB: Wenn Sie heute aussagen, sind Sie morgen kein Minister mehr.
+= 오늘 증언하시면 내일은 더 이상 장관이 아니실 겁니다.
+KRANZ: Wenn ich heute schweige, war ich nie einer. Nur eine Akte mit einem Halsband.
+= 오늘 침묵하면 저는 처음부터 장관이 아니었던 겁니다. 목줄 달린 파일 하나였을 뿐이죠.
+AYLIN: Da kommt Katrin. Zwei Justizbeamte, Handschellen vorne.
+= 카트린 온다. 교도관 둘, 수갑은 앞으로 찼어.
+KATRIN: Hallo, Jakob. Du hast eine neue Krawatte.
+= 안녕, 야콥. 넥타이 새로 샀네.
+JAKOB: Lea hat sie ausgesucht. Sie meint, ich soll nicht wie ein Archivar aussehen.
+= 레아가 골랐어. 기록 담당자처럼 보이면 안 된대.
+KATRIN: Zu spät. Du siehst aus wie ein Archivar mit einer neuen Krawatte.
+= 너무 늦었어. 넌 새 넥타이 맨 기록 담당자처럼 보여.
+JAKOB: Hast du Angst?
+= 무서워?
+KATRIN: Ich habe elf Jahre lang Angst gehabt. Heute habe ich nur Lampenfieber.
+= 11년 동안 무서웠어. 오늘은 그냥 무대 공포증이야.
+AYLIN: Seidlitz ist im Saal. Mit Dr. Falk, ihrem Anwalt. Sie lächelt.
+= 자이들리츠는 청문실에 있어. 변호인 팔크 박사랑. 웃고 있어.
+KATRIN: Natürlich lächelt sie. Sie hat immer gelächelt. Man hört das sogar am Telefon.
+= 당연히 웃지. 그 사람은 늘 웃었어. 전화로도 그게 들려.
+JAKOB: Dann sorgen wir heute dafür, dass man es nicht mehr hört.
+= 그럼 오늘은 더 이상 그 웃음이 안 들리게 해 주자.
+AYLIN: Übrigens: Die Sitzung wird live übertragen. Deine Mutter und Lea schauen zu.
+= 그리고, 회의는 생중계돼. 너희 어머니랑 레아도 보고 있어.
+JAKOB: Meine Mutter schaut sonst nur Quizsendungen.
+= 우리 어머니는 원래 퀴즈 프로그램만 보시는데.
+AYLIN: Heute ist es auch eine Quizsendung. Mit nur einer Frage.
+= 오늘도 퀴즈 프로그램이야. 문제는 딱 하나지만.
+KATRIN: Jakob? Egal, was ich da drin sage. Sag mir nachher nicht, dass es mutig war.
+= 야콥? 내가 저 안에서 뭐라고 하든, 나중에 용감했다고 말하지 마.
+JAKOB: Warum nicht?
+= 왜?
+KATRIN: Weil mutig gewesen wäre, es vor elf Jahren zu sagen.
+= 용감한 건 11년 전에 말하는 거였을 테니까.
+JAKOB: Vor elf Jahren hast du auch nicht gewusst, dass jemand neben dir steht. Jetzt weißt du es.
+= 11년 전엔 네 옆에 누가 서 있다는 것도 몰랐잖아. 이제는 알지.
+AYLIN: Es geht los. Frau Beck eröffnet die Sitzung.
+= 시작한다. 벡 위원장이 회의를 열어.
+#SECTION 전개 1 — DER MINISTER
+BECK: Ich eröffne die öffentliche Sondersitzung des Parlamentarischen Kontrollgremiums.
+= 연방의회 정보기관 통제위원회 공개 특별 회의를 개회합니다.
+BECK: Gegenstand ist die Frage, ob eine designierte Leiterin des Sicherheitsrats für einen fremden Dienst gearbeitet hat.
+= 안건은 국가안보회의 사무국장 내정자가 외국 정보기관을 위해 일했는지의 문제입니다.
+ANWALT: Frau Vorsitzende, ich protestiere schon gegen die Formulierung. Das ist eine Vorverurteilung.
+= 위원장님, 안건 문구부터 이의를 제기합니다. 이건 예단입니다.
+BECK: Ihr Einwand wird protokolliert, Herr Dr. Falk. Als erster Zeuge: Bundesminister Kranz.
+= 팔크 박사님, 이의는 기록하겠습니다. 첫 번째 증인, 크란츠 연방 장관.
+KRANZ: Frau Vorsitzende, ich habe im November öffentlich zugegeben, dass ich 1983 unterschrieben habe.
+= 위원장님, 저는 작년 11월에 1983년에 서명했다는 사실을 공개적으로 인정했습니다.
+KRANZ: Was ich damals nicht gesagt habe: Wer mich in dieses Zimmer gebracht hat.
+= 그때 말하지 않은 것이 있습니다. 누가 저를 그 방으로 데려갔는지입니다.
+BECK: Bitte zur Sache, Herr Minister. Wer war das?
+= 본론으로 들어가 주십시오, 장관님. 그게 누구였습니까?
+KRANZ: Eine Kommilitonin aus der Wirtschaftswissenschaft. Helene Seidlitz. Sie sitzt dort.
+= 경제학과 동기였습니다. 헬레네 자이들리츠. 저기 앉아 있습니다.
+ANWALT: Eine Studentin begleitet einen Kommilitonen zu einem Gespräch. Daraus folgt gar nichts.
+= 여학생이 동기를 면담에 데려다줬다. 거기서 따라 나오는 결론은 아무것도 없습니다.
+KRANZ: Sie hat mich nicht begleitet. Sie hat an die Tür geklopft und gesagt: „Er ist da, Genosse Major."
+= 그녀는 저를 데려다준 게 아닙니다. 문을 두드리고 이렇게 말했죠. "왔습니다, 소령 동지."
+BECK: Der Major war Horst Brückner?
+= 그 소령이 호르스트 브뤼크너였습니까?
+KRANZ: Ja. Damals dachte ich, sie wollte mich warnen. Ich habe vierzig Jahre gebraucht, um das Gegenteil zu verstehen.
+= 네. 그때 저는 그녀가 저에게 경고하려던 거라고 생각했습니다. 그 반대였다는 걸 이해하는 데 40년이 걸렸습니다.
+BECK: Sie sagten, Sie hätten Ihre eigene Akte im letzten November zum ersten Mal gesehen. Wer hat sie Ihnen gezeigt?
+= 장관님은 작년 11월에 자신의 파일을 처음 봤다고 하셨습니다. 누가 보여 줬습니까?
+KRANZ: Niemand hat sie mir gezeigt. Frau Seidlitz hat mich eine Woche vorher angerufen.
+= 아무도 보여 주지 않았습니다. 그 일주일 전에 자이들리츠 씨가 저에게 전화했습니다.
+KRANZ: Sie sagte: „Joachim, es gibt da eine alte Akte. Keine Sorge. Ich kann sie verschwinden lassen."
+= 그녀는 이렇게 말했습니다. "요아힘, 오래된 파일이 하나 있어. 걱정 마. 내가 없앨 수 있어."
+BECK: Und was haben Sie geantwortet?
+= 그래서 뭐라고 답하셨습니까?
+KRANZ: Gar nichts. Und genau dieses Schweigen war ihr Halsband.
+= 아무 말도 안 했습니다. 바로 그 침묵이 그녀가 채운 목줄이었습니다.
+ANWALT: Ein Anruf, an den sich nur der Minister erinnert. Gibt es eine Aufzeichnung? Einen Zeugen?
+= 장관만 기억하는 전화 한 통이군요. 녹음은 있습니까? 증인은요?
+KRANZ: Nein. Ich bin der Zeuge. Und ich bin heute bereit, dafür mein Amt aufzugeben.
+= 없습니다. 제가 증인입니다. 그리고 저는 오늘 그 대가로 직을 내려놓을 각오가 돼 있습니다.
+BECK: Frau Seidlitz, möchten Sie dazu Stellung nehmen?
+= 자이들리츠 씨, 이에 대해 입장을 밝히시겠습니까?
+SEIDLITZ: Gern, Frau Vorsitzende. Joachim war immer ein guter Redner. Das ist er bis heute.
+= 기꺼이요, 위원장님. 요아힘은 늘 말을 잘했죠. 지금도 그렇고요.
+SEIDLITZ: Ein Minister, der seine eigene Akte nicht erklären kann, sucht jemanden, der sie für ihn trägt.
+= 자기 파일을 해명하지 못하는 장관이 그 짐을 대신 질 사람을 찾고 있는 겁니다.
+KRANZ: Ich trage meine Akte selbst, Helene. Seit November. Und heute trage ich auch deine.
+= 내 파일은 내가 집니다, 헬레네. 11월부터요. 그리고 오늘은 당신 것도 지고 왔어요.
+BECK: Bitte keine direkten Wortwechsel zwischen Zeugen und Betroffenen.
+= 증인과 당사자 사이의 직접 대화는 삼가 주십시오.
+KRANZ: Entschuldigung, Frau Vorsitzende. Vierundvierzig Jahre sind eine lange Pause.
+= 죄송합니다, 위원장님. 44년은 긴 휴식이었거든요.
+BECK: Das wird protokolliert. Danke, Herr Minister. Als Nächstes: das Gutachten.
+= 기록하겠습니다. 감사합니다, 장관님. 다음은 감정서입니다.
+#SECTION 전개 2 — PAPIER UND TINTE
+BECK: Frau Dr. Sand, Sie haben zwei Schriftproben verglichen. Bitte erläutern Sie.
+= 잔트 박사님, 두 필적 표본을 비교하셨죠. 설명해 주십시오.
+SAND: Probe A ist eine Verpflichtungserklärung von 1981, erhalten auf einem Mikrofilm. Der Name ist geschwärzt.
+= 표본 A는 1981년 서약서로, 마이크로필름에 남아 있던 것입니다. 이름은 검게 지워져 있습니다.
+SAND: Probe B ist die Unterschrift unter einer Diplomarbeit der Karl-Marx-Universität Leipzig von 1984.
+= 표본 B는 1984년 라이프치히 카를 마르크스 대학 졸업 논문에 있는 서명입니다.
+BECK: Und Ihr Ergebnis?
+= 결과는요?
+SAND: Übereinstimmung mit hoher Wahrscheinlichkeit. Besonders das große H und die Schleife im S sind charakteristisch.
+= 높은 확률로 일치합니다. 특히 대문자 H와 S의 고리 모양이 특징적입니다.
+ANWALT: Ein Mikrofilm, der in einem österreichischen Fluss gelegen hat. Wie viel ist davon noch lesbar?
+= 오스트리아 강물에 빠졌던 마이크로필름 아닙니까. 그중 얼마나 읽을 수 있습니까?
+SAND: Genug für die Unterschrift. Ich habe Bild für Bild gearbeitet. Und ich hatte eine Sicherungskopie auf Papier.
+= 서명을 보기엔 충분합니다. 한 프레임씩 작업했고, 종이로 된 백업도 있었습니다.
+BECK: Auf Papier? Warum?
+= 종이로요? 왜죠?
+SAND: Weil am vierzehnten September mein Laptop aus der Ferne gelöscht wurde. Komplett. Während ich daran gearbeitet habe.
+= 9월 14일에 제 노트북이 원격으로 지워졌기 때문입니다. 전부요. 제가 작업하는 도중에요.
+BECK: Frau Seidlitz, das neue Gesetz erlaubt sogenannte aktive Maßnahmen. Wer hat diese Maßnahme angeordnet?
+= 자이들리츠 씨, 새 법은 이른바 능동적 조치를 허용합니다. 이 조치는 누가 지시했습니까?
+SEIDLITZ: Es gab den Verdacht, dass geheime Unterlagen auf diesem Gerät waren. Das war Gefahrenabwehr.
+= 그 기기에 기밀 문서가 있다는 혐의가 있었습니다. 위험 방지 조치였어요.
+BECK: Gefahrenabwehr gegen eine Gutachterin, die Ihre Handschrift prüft?
+= 당신 필체를 검토하는 감정사를 상대로 한 위험 방지요?
+SEIDLITZ: Ich habe nicht jede einzelne Maßnahme persönlich gezeichnet, Frau Vorsitzende.
+= 위원장님, 제가 모든 조치에 하나하나 직접 서명하진 않습니다.
+BECK: Das prüfen wir. Danke, Frau Dr. Sand. Frau Krüger, bitte.
+= 그건 저희가 확인하겠습니다. 감사합니다, 잔트 박사님. 크뤼거 씨, 나와 주십시오.
+ILSE: Danke. Ich bin neunundsiebzig und ich klebe seit dreißig Jahren zerrissenes Papier zusammen.
+= 감사합니다. 저는 일흔아홉이고, 30년째 찢긴 종이를 붙이고 있습니다.
+ILSE: Die Maschinen haben aufgegeben. Wir nicht. Aus Sack zweitausendzweihundertvierzehn kam dieses Fragment.
+= 기계들은 포기했죠. 우리는 아니었어요. 자루 2214번에서 이 조각이 나왔습니다.
+BECK: Bitte lesen Sie vor, was darauf steht.
+= 거기 적힌 걸 읽어 주십시오.
+ILSE: „Quelle GÄRTNER — Übersiedlung BRD 1988. Weiterführung durch HVA, Abteilung zwei."
+= "정보원 정원사 — 1988년 서독 이주. HVA 제2과에서 계속 관리."
+ANWALT: Ein Deckname auf einem Papierschnipsel. Wo steht da der Name meiner Mandantin?
+= 종잇조각에 적힌 암호명 하나군요. 제 의뢰인의 이름이 어디 있습니까?
+ILSE: Nirgends. Aber darunter steht ein Geburtsort: Halle an der Saale. Und ein Jahrgang: dreiundsechzig.
+= 어디에도 없죠. 하지만 그 아래 출생지가 있어요. 잘레 강변 할레. 그리고 출생 연도, 63년.
+BECK: Frau Seidlitz, wo und wann sind Sie geboren?
+= 자이들리츠 씨, 언제 어디서 태어나셨습니까?
+SEIDLITZ: In Halle. 1963. Wie ungefähr achttausend andere Menschen in diesem Jahr.
+= 할레에서요. 1963년. 그해에 그렇게 태어난 사람이 한 8천 명은 될 거예요.
+ILSE: Achttausend. Aber nur eine davon hat 1988 die DDR verlassen und war 2019 in Berlin, um Archivaren die Hand zu schütteln.
+= 8천 명이죠. 그런데 그중 1988년에 동독을 떠났고 2019년에 베를린에서 기록 담당자들과 악수한 사람은 한 명뿐이에요.
+BECK: Ich lese außerdem eine schriftliche Aussage vor. Sebastian Roth, ehemals Büroleiter des Ministers.
+= 그리고 서면 진술서 하나를 낭독하겠습니다. 장관의 前 비서실장 제바스티안 로트입니다.
+BECK: „Ich habe nie für den Minister gearbeitet. Meine Anweisungen kamen aus dem Kanzleramt. Von Frau Seidlitz."
+= "저는 장관을 위해 일한 적이 없습니다. 제 지시는 총리실에서 왔습니다. 자이들리츠 씨에게서요."
+ANWALT: Ein Mann, der verschwunden ist, schreibt einen Brief an eine Journalistin. Das ist keine Aussage, das ist Literatur.
+= 사라진 남자가 기자에게 편지를 썼다. 그건 진술이 아니라 문학입니다.
+BECK: Die Echtheit ist notariell bestätigt, Herr Dr. Falk. Und das Konto „Freunde der Gartenkunst" trägt die Initialen H. S.
+= 진본 여부는 공증으로 확인됐습니다, 팔크 박사님. 그리고 '정원 예술 애호가 협회' 계좌에는 H. S.라는 이니셜이 있습니다.
+#SECTION 위기 — DIE STIMME
+BECK: Als nächste Zeugin: Frau Katrin Lorenz. Sie sind in Untersuchungshaft und sagen freiwillig aus?
+= 다음 증인, 카트린 로렌츠 씨. 구속 중이시고 자발적으로 증언하시는 겁니까?
+KATRIN: Freiwillig, ja. Zum ersten Mal seit elf Jahren mache ich etwas freiwillig.
+= 네, 자발적으로요. 11년 만에 처음으로 뭔가를 자발적으로 합니다.
+BECK: Bitte schildern Sie den Kontakt.
+= 그 접촉을 설명해 주십시오.
+KATRIN: 2016 bekam ich einen Anruf. Eine Frauenstimme. Sie kannte die Stasi-Akte meiner Mutter. Jede Seite.
+= 2016년에 전화를 받았습니다. 여자 목소리였어요. 제 어머니의 슈타지 파일을 알고 있었죠. 한 장도 빠짐없이요.
+KATRIN: Später hat sie die Schulden meines Bruders bezahlt. Achtzigtausend Euro. Danach gehörte ich ihr.
+= 나중엔 남동생의 빚을 갚아 줬어요. 8만 유로. 그 뒤로 저는 그 사람 것이 됐습니다.
+BECK: Was haben Sie für diese Stimme getan?
+= 그 목소리를 위해 무엇을 했습니까?
+KATRIN: Den Karton gemeldet, zwanzig Minuten nach dem Fund. Das Schließfach geleert. Meinen Ausweis kopieren lassen. Die Werft.
+= 상자를 발견하고 20분 뒤에 보고했습니다. 사물함을 비웠고, 제 출입증을 복제하게 했고, 조선소 일도 했습니다.
+KATRIN: Und jeden Abend um Mitternacht ein einziges Wort: „Blüte."
+= 그리고 매일 밤 자정에 단어 하나를 보냈어요. "블뤼테(꽃)."
+ANWALT: Frau Lorenz, Sie sind eine überführte Spionin. Sie haben Ihren besten Freund jahrelang belogen.
+= 로렌츠 씨, 당신은 유죄가 입증된 스파이입니다. 가장 친한 친구를 몇 년 동안 속였죠.
+KATRIN: Ja. Das habe ich. Deshalb weiß ich auch, wie Lügen klingen.
+= 네. 그랬어요. 그래서 거짓말이 어떻게 들리는지도 압니다.
+ANWALT: Haben Sie das Gesicht dieser Stimme je gesehen?
+= 그 목소리의 얼굴을 본 적이 있습니까?
+KATRIN: Nein. Aber ich habe sie vorhin gehört. Als sie sagte: „Wie ungefähr achttausend andere Menschen."
+= 아니요. 하지만 아까 들었습니다. "그해에 그렇게 태어난 사람이 한 8천 명"이라고 말할 때요.
+KATRIN: Dieses kleine Lachen vor dem letzten Wort. Das habe ich elf Jahre lang jede Nacht gehört.
+= 마지막 단어 앞의 그 작은 웃음. 11년 동안 매일 밤 들었던 소리예요.
+SEIDLITZ: Frau Vorsitzende, darf ich? Ich bewundere Frau Lorenz' Fantasie.
+= 위원장님, 말씀드려도 될까요? 로렌츠 씨의 상상력엔 감탄하게 되네요.
+SEIDLITZ: Aber sehen wir uns die Beweislage nüchtern an. Ein Minister, der sein Amt retten will.
+= 하지만 증거 상황을 냉정하게 봅시다. 자리를 지키고 싶은 장관.
+SEIDLITZ: Eine verurteilte Spionin, die auf eine kürzere Strafe hofft. Ein Fluss-Mikrofilm. Ein Papierschnipsel.
+= 감형을 바라는 유죄 판결 받은 스파이. 강물에 빠졌던 마이크로필름. 종잇조각 하나.
+SEIDLITZ: Und ein Archivar mit einer Familiengeschichte. Sein Vater war Offizier im Ministerium für Staatssicherheit.
+= 그리고 집안 내력이 있는 기록 담당자. 그의 아버지는 국가보안부 장교였습니다.
+SEIDLITZ: Wer hier wirklich etwas zu verbergen hat, Frau Vorsitzende, das sollten wir uns sehr genau fragen.
+= 위원장님, 여기서 정말 숨길 게 있는 사람이 누구인지, 아주 정확히 따져 봐야 할 겁니다.
+KATRIN: Darf ich noch etwas sagen, Frau Vorsitzende?
+= 위원장님, 한 가지만 더 말해도 될까요?
+BECK: Kurz, bitte.
+= 짧게 해 주십시오.
+KATRIN: Diese Stimme hat mir einmal gesagt: „Der Archivar ist harmlos. Er glaubt an Ordnung."
+= 그 목소리가 언젠가 저한테 그랬어요. "그 기록 담당자는 무해해. 질서를 믿는 사람이니까."
+KATRIN: Sie hat sich nur in diesem einen Punkt geirrt. Wer an Ordnung glaubt, ist nicht harmlos.
+= 그 사람이 틀린 건 딱 그 한 가지였어요. 질서를 믿는 사람은 무해하지 않거든요.
+BECK: Danke, Frau Lorenz. Sie können sich setzen.
+= 감사합니다, 로렌츠 씨. 앉으셔도 됩니다.
+BECK: Ihr Widerspruch ist notiert. Herr Wendland, Sie sind der letzte Zeuge. Bitte.
+= 반박은 기록했습니다. 벤틀란트 씨, 마지막 증인입니다. 나와 주십시오.
+JAKOB: Danke, Frau Vorsitzende. Frau Seidlitz hat recht. Mein Vater war bei der Stasi.
+= 감사합니다, 위원장님. 자이들리츠 씨 말이 맞습니다. 제 아버지는 슈타지에 있었습니다.
+JAKOB: Er war Archivar, wie ich. Er hat Akten sortiert, nummeriert und abgelegt. Dreiundzwanzig Jahre lang.
+= 저처럼 기록 담당자였죠. 23년 동안 파일을 분류하고, 번호를 매기고, 보관했습니다.
+JAKOB: Darum hat er auch gewusst, welche Akten verschwinden sollten. Und welche er retten musste.
+= 그래서 어떤 파일이 사라지게 될지도 알았습니다. 그리고 어떤 파일을 구해야 하는지도요.
+ANWALT: Frau Vorsitzende, persönliche Erinnerungen sind keine Beweise.
+= 위원장님, 개인적인 추억은 증거가 아닙니다.
+JAKOB: Das stimmt. Deshalb lese ich keine Erinnerungen vor. Ich lese eine Akte vor.
+= 맞습니다. 그래서 저는 추억이 아니라 파일을 읽겠습니다.
+#SECTION 결말 — DER LETZTE ZEUGE
+JAKOB: Das ist das Notizbuch meines Vaters. Es lag dreißig Jahre in einer blauen Keksdose in Lichtenberg.
+= 이건 제 아버지의 수첩입니다. 리히텐베르크의 파란 과자 깡통 안에 30년 동안 있었습니다.
+JAKOB: Seite eins: „Sack 2214. Nicht vernichtet. Nicht vergessen." Aus diesem Sack kam Frau Krügers Fragment.
+= 첫 장. "자루 2214. 파기되지 않음. 잊지 말 것." 크뤼거 씨의 조각이 바로 이 자루에서 나왔습니다.
+JAKOB: Seite zwei, mit roter Tinte: „Wenn SPREE auftaucht, frag nach dem GÄRTNER."
+= 둘째 장, 빨간 잉크로. "SPREE가 나타나면, 정원사를 물어라."
+BECK: Wann wurde das geschrieben?
+= 언제 쓴 겁니까?
+JAKOB: Im Januar 1990. Und hier ist ein Brief. Mein Vater hat ihn 2008 geschrieben, ein Jahr vor seinem Tod.
+= 1990년 1월입니다. 그리고 여기 편지가 있습니다. 아버지가 돌아가시기 1년 전인 2008년에 쓴 겁니다.
+JAKOB: „Am neunten November 1989 sind alle zur Grenze gelaufen. Ich bin in der Normannenstraße geblieben."
+= "1989년 11월 9일, 모두가 국경으로 달려갔다. 나는 노르만넨 거리에 남았다."
+JAKOB: „Einer musste bleiben und aufschreiben, was sie vernichten wollten."
+= "누군가는 남아서, 그들이 없애려던 것을 적어 둬야 했다."
+JAKOB: „Den Sack mit der Quelle GÄRTNER habe ich mit einem Kreidestrich markiert. Eine Studentin aus Halle."
+= "정원사 정보원이 든 자루에 분필로 표시를 해 두었다. 할레 출신의 여학생."
+JAKOB: „Sie war die Einzige in der Abteilung, die nie Angst hatte. Davor hatte ich Angst."
+= "그녀는 부서에서 유일하게 한 번도 두려워하지 않던 사람이었다. 나는 그게 두려웠다."
+BECK: Herr Wendland, warum hat Ihr Vater das nie gemeldet? Nach 1990 gab es doch Behörden dafür.
+= 벤틀란트 씨, 아버님은 왜 그걸 한 번도 신고하지 않았습니까? 1990년 이후엔 그런 일을 맡는 기관이 있었잖아요.
+JAKOB: Er hat es versucht. Hier steht: „1991 angerufen. Am nächsten Tag stand ein Auto vor dem Haus."
+= 시도하셨습니다. 여기 적혀 있어요. "1991년 전화함. 다음 날 집 앞에 차 한 대가 서 있었다."
+JAKOB: „Ich habe einen Sohn und eine Frau. Ich schreibe es auf. Das Papier wird länger leben als ich."
+= "내겐 아들과 아내가 있다. 그래서 적어 둔다. 종이는 나보다 오래 살 것이다."
+BECK: Der Sohn, das sind Sie.
+= 그 아들이 당신이군요.
+JAKOB: Ich war damals neun. Ich habe nur gemerkt, dass er die Vorhänge nicht mehr aufgemacht hat.
+= 그때 저는 아홉 살이었습니다. 아버지가 더 이상 커튼을 열지 않는다는 것만 알았죠.
+ANWALT: Ein Brief ohne Namen. Wieder kein Name.
+= 이름 없는 편지군요. 또 이름이 없습니다.
+JAKOB: Nein. Mein Vater hat ihren Namen nie aufgeschrieben. Er hat nur ihre Unterschrift gekannt.
+= 없습니다. 아버지는 그녀의 이름을 한 번도 적지 않았습니다. 서명만 알았죠.
+JAKOB: Er hat sie abgezeichnet. Hier, auf der letzten Seite. Ein großes H und ein S mit einer Schleife.
+= 그걸 따라 그려 두었습니다. 여기, 마지막 장에요. 큰 H, 그리고 고리가 있는 S.
+SAND: Frau Vorsitzende, darf ich das sehen? … Das ist dieselbe Schleife. Das ist dieselbe Hand, die er kopiert hat.
+= 위원장님, 봐도 되겠습니까? … 같은 고리입니다. 그가 따라 그린 손은 같은 손이에요.
+BECK: Ruhe bitte im Saal. Frau Seidlitz, möchten Sie sich dazu äußern?
+= 장내 정숙해 주십시오. 자이들리츠 씨, 이에 대해 말씀하시겠습니까?
+ANWALT: Meine Mandantin wird sich zu diesem Zeitpunkt nicht äußern.
+= 제 의뢰인은 지금은 발언하지 않겠습니다.
+SEIDLITZ: Doch, Dr. Falk. Ich äußere mich. Aber nicht hier.
+= 아니요, 팔크 박사님. 말하겠어요. 하지만 여기서는 아닙니다.
+BECK: Wie bitte?
+= 뭐라고 하셨습니까?
+SEIDLITZ: Ich möchte mit Herrn Wendland sprechen. Allein.
+= 벤틀란트 씨와 이야기하고 싶습니다. 단둘이.
+#NEXT
+4부 12화 — «Die letzte Akte»(마지막 파일) — 의사당의 작은 회의실, 문은 열려 있고 의자는 두 개다. 정원사는 마지막으로 자신이 믿어 온 것을 이야기하고, 야콥은 아버지가 두려워했던 사람과 마주 앉는다. 그리고 1년 뒤 11월 9일, 지하 창고에서 번호 없는 파일 하나가 마침내 번호를 얻는다.

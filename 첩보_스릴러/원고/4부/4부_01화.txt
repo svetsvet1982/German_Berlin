@@ -1,0 +1,309 @@
+#META
+part: 4
+episode: 1
+title: Zurück in Lichtenberg
+subtitle_ko: 다시 리히텐베르크
+place_ko: 레나테의 부엌, 판코의 학교 앞
+setting: 2027년 9월 6일(월) 오후~저녁, 리히텐베르크 프랑크푸르터 알레 조립식 아파트 11층 → 판코 빌헬미네 김나지움 앞 → 다시 레나테의 부엌
+level: B2
+#CAST
+JAKOB | 직무 정지 중인 BND 기록 담당자 · 45세
+RENATE | 야콥의 어머니 · 77세 · 리히텐베르크 토박이
+LEA | 야콥의 딸 · 17세 · 판코의 김나지움 12학년
+SANDRA | 야콥의 전처 · 초등학교 교사
+AYLIN | BfV 방첩부 팀장 · 42세 (전화)
+RADIO | 뉴스 라디오 아나운서 (가상 방송)
+SEIDLITZ | 총리실 정보기관 조정관 · 국가안보회의 사무국장 내정자 · 64세
+#INTRO
+※ 빈의 국경 다리에서 브뤼크너는 총에 맞아 죽으며 "자이들리츠"라는 이름을 남겼습니다. 기자 라이터는 풀려났고 카트린은 다리를 건너지 않았습니다. 하지만 브뤼크너가 넘긴 마이크로필름은 마르히 강물에 젖었고, 야콥의 손에 남은 것은 이름 하나뿐입니다. 석 달이 지난 2027년 9월, 야콥은 직무 정지 상태로 베를린에 돌아와 있습니다. 개정 정보기관법은 시행을 앞두고 있고, 총리실 산하에 새로 생기는 국가안보회의 사무국의 초대 수장으로 헬레네 자이들리츠가 내정되었습니다. 내각 확정은 9월 27일, 3주 뒤입니다. 가족끼리는 du, 자이들리츠와 야콥은 서로 Sie를 씁니다. 레나테는 베를린 사투리(icke, wat, nüscht, det)를 섞어 씁니다. 표현 초점: 말할 수 있는 것과 없는 것 — verschweigen, andeuten, suspendiert, die Dienstpflicht, die Verschwiegenheit, jemandem etwas zumuten.
+#SECTION 도입 — WIEDER IN DER KÜCHE
+RADIO: Es ist fünfzehn Uhr. Die Nachrichten. Das reformierte Nachrichtendienstrecht soll Anfang Oktober in Kraft treten.
+= 오후 세 시, 뉴스입니다. 개정 정보기관법이 10월 초에 시행될 예정입니다.
+RADIO: Zugleich entsteht im Kanzleramt die Geschäftsstelle des Nationalen Sicherheitsrats. Als Leiterin gilt Staatssekretärin Helene Seidlitz als gesetzt.
+= 동시에 총리실에는 국가안보회의 사무국이 신설됩니다. 수장으로는 헬레네 자이들리츠 국무차관이 사실상 확정적입니다.
+RADIO: In einem Interview sagte Seidlitz heute: „Wir müssen endlich zurückschlagen können."
+= 자이들리츠 차관은 오늘 인터뷰에서 이렇게 말했습니다. "우리는 마침내 반격할 수 있어야 합니다."
+RENATE: Mach det Ding aus, Jakob. Seit Wochen reden die nur noch von Sicherheit.
+= 그거 꺼라, 야콥. 몇 주째 맨날 안보 얘기뿐이야.
+JAKOB: Gleich, Mama. Ich will nur das Ende hören.
+= 잠깐만요, 엄마. 끝까지만 들을게요.
+RADIO: Das Kabinett will die Personalie am siebenundzwanzigsten September beschließen.
+= 내각은 9월 27일 이 인사를 의결할 예정입니다.
+JAKOB: Einundzwanzig Tage.
+= 21일.
+RENATE: Wat zählst du da? Du zählst schon wie dein Vater. Der hat auch immer Tage gezählt.
+= 뭘 세고 있니? 너 꼭 네 아버지처럼 세는구나. 그 사람도 맨날 날짜를 셌지.
+JAKOB: Ich zähle gar nichts. Ist noch Kaffee da?
+= 아무것도 안 세요. 커피 남았어요?
+RENATE: Kaffee ist immer da. Aber du trinkst zu viel davon, seit du wieder hier bist.
+= 커피야 늘 있지. 근데 너 돌아온 뒤로 너무 많이 마셔.
+JAKOB: Ich habe ja auch viel Zeit. Suspendierte Beamte haben unglaublich viel Zeit.
+= 시간이 많잖아요. 직무 정지된 공무원은 시간이 엄청 많거든요.
+RENATE: Suspendiert. Det Wort mag ich nicht. Klingt wie eine Krankheit.
+= 직무 정지. 그 말 싫다. 무슨 병 이름 같잖아.
+JAKOB: Es ist keine Krankheit. Es ist ein Verwaltungsakt. Mit Aktenzeichen.
+= 병 아니에요. 행정 처분이에요. 사건 번호까지 붙은.
+RENATE: Natürlich. Bei dir hat sogar das Unglück ein Aktenzeichen.
+= 그렇겠지. 너한텐 불행에도 사건 번호가 붙는구나.
+JAKOB: Das ist das Einzige, was mich daran tröstet.
+= 그게 유일한 위안이에요.
+RENATE: Seit Juni sitzt du hier jeden zweiten Tag an meinem Tisch. Und du erzählst mir nüscht.
+= 6월부터 이틀에 한 번은 내 식탁에 앉아 있으면서. 나한테 아무 얘기도 안 하잖아.
+JAKOB: Ich darf dir nicht alles erzählen, Mama. Ich bin zur Verschwiegenheit verpflichtet.
+= 다 말할 수는 없어요, 엄마. 저는 비밀 유지 의무가 있어요.
+RENATE: Verschwiegenheit. Det kenn ick. Damit bin ich vierzig Jahre verheiratet gewesen.
+= 비밀 유지라. 그거 알지. 나 그거랑 40년을 결혼해 살았다.
+JAKOB: Mit Papa, meinst du.
+= 아빠 말씀이시죠.
+RENATE: Mit seiner Verschwiegenheit. Dein Vater war ja meistens gar nicht dabei.
+= 그 사람 비밀이랑. 네 아버지 본인은 대부분 거기 없었으니까.
+JAKOB: Das ist ungerecht. Er war immer da, wenn es darauf ankam.
+= 그건 불공평해요. 정말 중요할 때는 늘 있었잖아요.
+RENATE: Nicht immer, Jakob. Nicht am neunten November.
+= 늘은 아니었지, 야콥. 11월 9일엔 없었어.
+#SECTION 전개 1 — WAS IN WIEN WAR
+JAKOB: Mama, ich will dir etwas erzählen. Nicht alles. Aber etwas.
+= 엄마, 얘기할 게 있어요. 전부는 아니고. 그래도 조금은.
+RENATE: Endlich. Ich setze mich hin. Mein Herz ist nicht mehr das jüngste.
+= 드디어. 앉을게. 내 심장도 이제 젊지 않아서.
+JAKOB: In Wien habe ich einen Mann getroffen, der Papa gekannt hat. Aus der Zeit vor der Wende.
+= 빈에서 아빠를 알던 남자를 만났어요. 장벽 붕괴 이전 시절부터요.
+RENATE: Einen Kollegen von der Normannenstraße?
+= 노르만넨 거리 동료?
+JAKOB: Nicht direkt. Einen Offizier, der Quellen geführt hat. Er hieß Brückner.
+= 꼭 그렇진 않아요. 정보원을 관리하던 장교예요. 이름이 브뤼크너였어요.
+RENATE: Hieß? Warum sagst du „hieß"?
+= 였다고? 왜 "였다"고 하니?
+JAKOB: Weil er tot ist. Er ist im Mai gestorben. Ich war dabei.
+= 죽었으니까요. 5월에 죽었어요. 제가 그 자리에 있었어요.
+RENATE: Du warst dabei? Jakob, was ist da unten in Österreich passiert?
+= 그 자리에 있었다고? 야콥, 거기 오스트리아에서 대체 무슨 일이 있었던 거니?
+JAKOB: Das darf ich dir wirklich nicht sagen. Bitte frag nicht weiter.
+= 그건 정말 말할 수 없어요. 제발 더 묻지 마세요.
+RENATE: Gut. Ich frage nicht. Aber ich sehe dein Gesicht. Und das sagt mir genug.
+= 그래. 안 물을게. 근데 네 얼굴을 보잖니. 그걸로 충분히 알겠다.
+JAKOB: Er hat etwas über Papa gesagt. Er hat gesagt, Papa sei damals einer der wenigen ehrlichen Menschen gewesen.
+= 그 사람이 아빠에 대해 한 말이 있어요. 그 시절 드물게 정직한 사람이었대요.
+RENATE: Ehrlich. Bei der Stasi. Das klingt wie ein schlechter Witz.
+= 정직하다니. 슈타지에서. 무슨 질 나쁜 농담 같구나.
+JAKOB: Ich habe auch zuerst gelacht. Aber er hat es ernst gemeint.
+= 저도 처음엔 웃었어요. 근데 진심이었어요.
+RENATE: Und du? Glaubst du ihm?
+= 그럼 너는? 그 사람 말을 믿니?
+JAKOB: Ich glaube den Akten. Und die Akten sagen inzwischen dasselbe.
+= 저는 파일을 믿어요. 그리고 파일들도 이제 같은 말을 해요.
+RENATE: Dein Vater hat einmal gesagt: „Papier lügt nicht. Nur die Leute, die es schreiben."
+= 네 아버지가 한번 그러더라. "종이는 거짓말 안 해. 그걸 쓰는 사람들이 하지."
+JAKOB: Das hat er gesagt? Das könnte von mir sein.
+= 아빠가 그런 말을 했어요? 제가 한 말이라고 해도 믿겠네요.
+RENATE: Natürlich. Von wem hast du es denn, glaubst du?
+= 당연하지. 넌 그걸 누구한테서 배웠다고 생각하니?
+JAKOB: Mama, liegt die blaue Keksdose noch oben auf dem Schrank?
+= 엄마, 파란 과자 깡통 아직 찬장 위에 있어요?
+RENATE: Wo soll sie denn sonst liegen? Das Notizbuch ist drin. Niemand hat es angefasst.
+= 거기 말고 어디 있겠니? 수첩도 그 안에 있어. 아무도 안 건드렸다.
+JAKOB: Gut. Lass es dort. Und sag niemandem, dass es existiert.
+= 좋아요. 거기 그대로 두세요. 그리고 그게 있다는 걸 아무한테도 말하지 마세요.
+RENATE: Wem soll ich es denn sagen? Der Frau vom Bäcker?
+= 누구한테 말하겠니? 빵집 아줌마한테?
+JAKOB: Niemandem. Auch nicht Leute, die sehr freundlich sind.
+= 아무한테도요. 아주 친절한 사람한테도요.
+RENATE: Besonders denen nicht, nehme ich an.
+= 특히 그런 사람한테는 더 안 되겠지, 아마.
+JAKOB: Genau. Ich hole jetzt Lea von der Schule ab. Sie isst heute bei dir.
+= 맞아요. 이제 레아 학교에서 데려올게요. 오늘 엄마 집에서 저녁 먹어요.
+RENATE: Dann mache ich Königsberger Klopse. Die mag sie.
+= 그럼 쾨니히스베르크식 미트볼 만들게. 그 애가 그거 좋아하잖니.
+#SECTION 전개 2 — VOR DER SCHULE
+SANDRA: Jakob. Du bist pünktlich. Das ist neu.
+= 야콥. 제시간에 왔네. 별일이다.
+JAKOB: Ich habe jetzt viel Zeit, Sandra. Das weißt du doch.
+= 이제 시간이 많아, 산드라. 알잖아.
+SANDRA: Ich weiß nur, was Lea mir erzählt. Und Lea weiß nicht viel.
+= 레아가 해 준 얘기만 알아. 레아도 아는 게 별로 없고.
+JAKOB: Das ist auch besser so.
+= 그게 더 나아.
+SANDRA: Ist es das? Sie schläft schlecht, seit du aus Wien zurück bist. Sie liest jede Nachricht über diesen Austausch.
+= 그래? 당신이 빈에서 돌아온 뒤로 그 애 잠을 제대로 못 자. 그 맞교환 관련 뉴스는 하나도 안 빼고 읽어.
+JAKOB: Mein Name stand nirgends. Kein Foto, nichts.
+= 내 이름은 어디에도 안 나왔어. 사진도, 아무것도.
+SANDRA: Sie ist siebzehn, Jakob, nicht sieben. Sie kann eins und eins zusammenzählen.
+= 그 애 열일곱이야, 야콥. 일곱 살이 아니라고. 하나 더하기 하나는 할 줄 알아.
+LEA: Papa! Mama! Könnt ihr bitte nicht vor der ganzen Schule streiten?
+= 아빠! 엄마! 학교 사람들 다 보는 데서 싸우지 좀 말래?
+SANDRA: Wir streiten nicht. Wir besprechen etwas.
+= 싸우는 거 아니야. 얘기 중이야.
+LEA: Genau so klingt es, wenn ihr streitet. Hallo, Papa.
+= 엄마 아빠 싸울 때 딱 그렇게 들려. 안녕, 아빠.
+JAKOB: Hallo, Lea. Oma macht Königsberger Klopse.
+= 안녕, 레아. 할머니가 쾨니히스베르크식 미트볼 만드신대.
+LEA: Bestechung. Aber gut, ich komme mit.
+= 뇌물이네. 그래도 좋아, 갈게.
+SANDRA: Um neun ist sie zu Hause. Morgen schreibt sie eine Klausur in Geschichte.
+= 아홉 시까지 집에 보내. 내일 역사 시험 있어.
+JAKOB: Um neun. Versprochen.
+= 아홉 시. 약속할게.
+SANDRA: Du versprichst viel in letzter Zeit. Tschüss, Lea.
+= 요즘 약속을 많이 하네. 안녕, 레아.
+LEA: Tschüss, Mama. … So. Jetzt sind wir allein. Was war in Wien?
+= 안녕, 엄마. …자. 이제 우리끼리야. 빈에서 무슨 일 있었어?
+JAKOB: Du klingst wie deine Oma.
+= 너 꼭 할머니처럼 말하네.
+LEA: Ich nehme das als Kompliment. Also?
+= 칭찬으로 들을게. 그래서?
+JAKOB: Ich habe bei einer Verhandlung geholfen. Mehr darf ich nicht sagen.
+= 협상 하나를 도왔어. 그 이상은 말 못 해.
+LEA: Bei dem Austausch an der Grenze? Bei dem es Schüsse gab?
+= 국경에서 있었던 그 맞교환? 총소리 났다는 거?
+JAKOB: Lea …
+= 레아…
+LEA: In dem Artikel stand, ein alter Mann ist gestorben. Ein Deutscher aus der DDR.
+= 기사에 노인 한 명이 죽었다고 나왔어. 동독 출신 독일 사람.
+JAKOB: Du liest zu viele Zeitungen.
+= 너 신문을 너무 많이 읽는다.
+LEA: Du hast mir beigebracht, dass man lesen soll. Alles. Auch das Kleingedruckte.
+= 아빠가 가르쳐 줬잖아, 읽어야 한다고. 전부 다. 작은 글씨까지.
+JAKOB: Da habe ich wohl einen Fehler gemacht.
+= 내가 실수를 한 모양이네.
+LEA: Papa, ich will nur wissen, ob du in Gefahr bist. Ja oder nein.
+= 아빠, 나 그냥 아빠가 위험한지만 알고 싶어. 응인지 아닌지.
+JAKOB: Im Moment nicht. Im Moment bin ich nur ein Mann, der seiner Mutter Kaffee wegtrinkt.
+= 지금은 아니야. 지금 아빠는 그냥 엄마 커피나 축내는 남자일 뿐이야.
+LEA: Das ist keine richtige Antwort.
+= 그건 제대로 된 대답이 아니잖아.
+JAKOB: Es ist die einzige, die ich dir heute geben kann. Komm, die U-Bahn wartet nicht.
+= 오늘 해 줄 수 있는 대답은 그것뿐이야. 가자, 지하철은 안 기다려 줘.
+#SECTION 위기 — EIN ANRUF AUS KÖLN
+AYLIN: Jakob? Kannst du reden?
+= 야콥? 통화 돼?
+JAKOB: Kurz. Ich stehe auf Mamas Balkon. Lea und meine Mutter sind in der Küche.
+= 잠깐은. 엄마 집 발코니야. 레아랑 엄마는 부엌에 있어.
+AYLIN: Gut. Ich mache es kurz. Der Film liegt bei uns im Tresor. Das Labor sagt, er ist nicht verloren. Aber er ist schwer beschädigt.
+= 좋아. 짧게 할게. 필름은 우리 금고에 있어. 연구소 말로는 완전히 망가진 건 아니래. 근데 손상이 심해.
+JAKOB: Kann man etwas erkennen?
+= 뭐라도 알아볼 수 있어?
+AYLIN: Offiziell darf ich das nicht prüfen lassen. Das Kanzleramt hat den Fall an sich gezogen.
+= 공식적으로는 내가 감정을 맡길 수가 없어. 총리실이 이 사건을 가져갔거든.
+JAKOB: Das Kanzleramt. Also sie.
+= 총리실. 그러니까 그 여자.
+AYLIN: Sag keinen Namen am Telefon. Auch nicht auf dem Balkon deiner Mutter.
+= 전화로 이름 말하지 마. 너희 어머니 발코니에서도.
+JAKOB: Du hast in Wien selbst gesagt, was wir haben: ein Sterbender, ein nasser Film und ein Name.
+= 빈에서 네가 직접 그랬잖아. 우리가 가진 건 죽어 가던 사람, 젖은 필름, 이름 하나라고.
+AYLIN: Und ich habe gesagt, damit gehst du in Berlin nirgendwohin. Das gilt immer noch.
+= 그리고 그걸로는 베를린에서 아무 데도 못 간다고 했지. 그건 지금도 마찬가지야.
+JAKOB: Dann hilf mir, mehr zu finden. Wir haben einundzwanzig Tage.
+= 그럼 더 찾게 도와줘. 우리한텐 21일이 있어.
+AYLIN: Du zählst auch schon. Schlechtes Zeichen.
+= 너도 벌써 세고 있구나. 나쁜 징조야.
+JAKOB: Meine Mutter sagt, das liegt in der Familie.
+= 우리 엄마 말로는 집안 내력이래.
+AYLIN: Hör zu. Kranz hat sich noch einmal gemeldet. Nicht bei mir, sondern über einen alten Freund in Köln.
+= 잘 들어. 크란츠가 다시 연락해 왔어. 나한테 직접은 아니고, 쾰른의 오랜 지인을 통해서.
+JAKOB: Der Minister. Er hat im Mai gesagt, wir müssen reden. Danach kam nichts mehr.
+= 장관. 5월에 얘기 좀 하자더니 그 뒤로 감감무소식이었잖아.
+AYLIN: Jetzt will er. Morgen Nacht, dreiundzwanzig Uhr. Tempelhofer Feld, beim alten Tower-Eingang am Columbiadamm.
+= 이제 하겠대. 내일 밤 11시. 템펠호프 들판, 콜룸비아담 쪽 옛 관제탑 입구.
+JAKOB: Ein Minister nachts allein auf dem Tempelhofer Feld? Das glaubst du?
+= 장관이 밤에 혼자 템펠호프 들판에? 넌 그걸 믿어?
+AYLIN: Ich glaube gar nichts. Ich fahre dich hin und warte am Rand. Mit Funk.
+= 난 아무것도 안 믿어. 내가 태워다 주고 가장자리에서 기다릴게. 무전기 들고.
+JAKOB: Und wenn es eine Falle ist?
+= 함정이면?
+AYLIN: Dann ist es eine sehr teure Falle. Ein Bundesminister riskiert für eine Falle nicht seinen eigenen Kopf.
+= 그럼 아주 비싼 함정이겠지. 연방 장관이 함정 하나 때문에 자기 목을 걸진 않아.
+JAKOB: Es sei denn, sein Kopf ist schon in der Schlinge.
+= 이미 목이 올가미에 걸려 있다면 모르지.
+AYLIN: Genau deshalb will er wohl reden. Bis morgen. Und Jakob?
+= 바로 그래서 얘기하려는 거겠지. 내일 봐. 그리고 야콥?
+JAKOB: Ja?
+= 응?
+AYLIN: Wenn sich jemand bei dir meldet, der sehr freundlich ist: Sag nichts. Hör nur zu.
+= 혹시 아주 친절한 누가 연락해 오면, 아무 말도 하지 마. 듣기만 해.
+JAKOB: Das habe ich meiner Mutter heute auch gesagt.
+= 오늘 우리 엄마한테도 똑같은 말 했어.
+RENATE: Jakob! Die Klopse werden kalt! Mit wem redest du da draußen so lange?
+= 야콥! 미트볼 식는다! 밖에서 누구랑 그렇게 오래 얘기하니?
+JAKOB: Mit einer Kollegin, Mama. Ich komme.
+= 동료랑요, 엄마. 지금 가요.
+LEA: Eine Kollegin? Du bist doch suspendiert.
+= 동료? 아빠 직무 정지잖아.
+JAKOB: Auch suspendierte Menschen haben Kolleginnen. Gib mir die Kapern.
+= 직무 정지된 사람한테도 동료는 있어. 케이퍼 좀 줘.
+RENATE: Lea, erzähl deinem Vater von deiner Klausur. Er soll mal an was anderes denken.
+= 레아, 아빠한테 시험 얘기 좀 해 드려. 다른 생각 좀 하시게.
+LEA: Morgen schreiben wir über die Friedliche Revolution. Über den Herbst 1989.
+= 내일 평화 혁명에 대해 써. 1989년 가을.
+JAKOB: Ausgerechnet. Und? Bist du vorbereitet?
+= 하필이면. 그래서? 준비는 됐어?
+LEA: Ich weiß alles über Leipzig und die Montagsdemos. Aber nichts über Opa.
+= 라이프치히랑 월요 시위는 다 알아. 근데 할아버지에 대해선 하나도 몰라.
+RENATE: Über Opa schreibt man keine Klausuren, Kind.
+= 할아버지에 대해선 시험 안 쓴다, 얘야.
+LEA: Noch nicht, Oma.
+= 아직은 아니지, 할머니.
+#SECTION 결말 — BLUMEN
+RENATE: Wer klingelt denn um halb neun? Ich erwarte niemanden.
+= 여덟 시 반에 누가 초인종을 누르니? 올 사람 없는데.
+JAKOB: Bleib sitzen, Mama. Ich gehe.
+= 앉아 계세요, 엄마. 제가 갈게요.
+LEA: Papa, du bist ganz blass.
+= 아빠, 얼굴이 하얘.
+JAKOB: Mir ist nur kalt vom Balkon. Bleib bei Oma.
+= 발코니에 있다 와서 추운 거야. 할머니 옆에 있어.
+SEIDLITZ: Guten Abend, Herr Wendland. Entschuldigen Sie die späte Stunde.
+= 안녕하세요, 벤틀란트 씨. 늦은 시간에 죄송해요.
+JAKOB: Frau Staatssekretärin. Das … ist eine Überraschung.
+= 차관님. 이건… 뜻밖이네요.
+SEIDLITZ: Ich war in der Nähe. Ein Termin im Rathaus Lichtenberg. Mein Fahrer wartet unten.
+= 근처에 있었어요. 리히텐베르크 구청에 일정이 있어서요. 기사는 아래에서 기다리고 있어요.
+JAKOB: Woher wissen Sie, dass ich hier bin?
+= 제가 여기 있는 건 어떻게 아셨어요?
+SEIDLITZ: Ihre Mutter steht im Telefonbuch, Herr Wendland. Manche Dinge sind ganz einfach.
+= 어머니 성함이 전화번호부에 있잖아요, 벤틀란트 씨. 어떤 일들은 아주 간단해요.
+RENATE: Jakob, wer ist denn da? Lass die Dame doch nicht im Flur stehen.
+= 야콥, 누구니? 그분 복도에 세워 두지 말고.
+SEIDLITZ: Guten Abend, Frau Wendland. Helene Seidlitz. Ich habe Ihnen etwas mitgebracht.
+= 안녕하세요, 벤틀란트 부인. 헬레네 자이들리츠입니다. 작은 걸 가져왔어요.
+RENATE: Blumen? Für mich? Die sind ja wunderschön. Dahlien.
+= 꽃이요? 저한테요? 정말 예쁘네요. 달리아네.
+SEIDLITZ: Aus meinem eigenen Garten. Ich habe einen kleinen Garten in Kleinmachnow. Mein einziges Hobby.
+= 제 정원에서 꺾었어요. 클라인마흐노에 작은 정원이 있거든요. 유일한 취미예요.
+JAKOB: Ein Garten.
+= 정원이라.
+SEIDLITZ: Man muss jeden Tag etwas pflegen, Herr Wendland. Sonst wächst einem alles über den Kopf.
+= 매일 뭔가를 가꿔야 해요, 벤틀란트 씨. 안 그러면 모든 게 감당 못 하게 자라 버리거든요.
+LEA: Sie sind doch die Frau aus dem Radio. Die mit dem Sicherheitsrat.
+= 라디오에 나온 분이죠. 안보회의 그분.
+SEIDLITZ: Und du bist sicher Lea. Dein Vater hat mir von dir erzählt. Basketball, nicht wahr?
+= 그리고 넌 레아구나. 아버지가 네 얘기를 해 주셨어. 농구 하지?
+JAKOB: Ich habe Ihnen nie von meiner Tochter erzählt.
+= 저는 차관님께 딸 얘기를 한 적이 없는데요.
+SEIDLITZ: Dann habe ich es wohl in Ihrer Personalakte gelesen. Verzeihen Sie. Berufskrankheit.
+= 그럼 인사 파일에서 읽었나 보네요. 실례했어요. 직업병이에요.
+RENATE: Setzen Sie sich doch. Ich mache Tee.
+= 앉으세요. 차 끓일게요.
+SEIDLITZ: Nur fünf Minuten, Frau Wendland. Ich möchte nur ein paar Worte mit Ihrem Sohn sprechen.
+= 5분만요, 벤틀란트 부인. 아드님과 몇 마디만 나누고 싶어서요.
+JAKOB: Worüber, Frau Staatssekretärin?
+= 무슨 얘기를요, 차관님?
+SEIDLITZ: Über Wien. Über Ihre Suspendierung. Und darüber, wie es weitergehen kann.
+= 빈에 대해서요. 직무 정지에 대해서요. 그리고 앞으로 어떻게 될 수 있을지에 대해서요.
+JAKOB: Es geht weiter, wie die Akten es vorschreiben.
+= 파일이 정한 대로 되겠죠.
+SEIDLITZ: Akten kann man ergänzen, Herr Wendland. Und Verfahren kann man beenden. Sie haben in Wien Außergewöhnliches geleistet.
+= 파일은 보완할 수 있어요, 벤틀란트 씨. 절차는 끝낼 수도 있고요. 빈에서 대단한 일을 하셨잖아요.
+JAKOB: Ein Mann ist gestorben.
+= 한 사람이 죽었어요.
+SEIDLITZ: Ein alter, kranker Mann, der sein Leben lang gelogen hat. Glauben Sie mir, ich bedaure jeden Tod. Aber Sie trifft keine Schuld.
+= 평생 거짓말만 하던 늙고 병든 사람이죠. 믿어 주세요, 저는 어떤 죽음이든 안타까워요. 하지만 당신 잘못은 없어요.
+RENATE: Der Tee ist gleich fertig. Nehmen Sie Zucker?
+= 차 금방 돼요. 설탕 넣으세요?
+SEIDLITZ: Nein danke. Herr Wendland, ich bin nicht als Staatssekretärin hier. Ich bin hier, weil ich etwas wiedergutmachen will.
+= 아니요, 괜찮아요. 벤틀란트 씨, 저는 차관으로 여기 온 게 아니에요. 바로잡고 싶은 게 있어서 왔어요.
+JAKOB: Was denn?
+= 뭘요?
+SEIDLITZ: Ich möchte Ihnen helfen, Herr Wendland.
+= 당신을 돕고 싶어요, 벤틀란트 씨.
+#NEXT
+4부 2화 — «Der Minister»(장관) — 다음 날 밤, 불 꺼진 템펠호프 들판. 경호원도 없이 나타난 국방장관 크란츠는 1983년 라이프치히의 그 방과, 자신을 그곳에 데려간 한 여학생에 대해 처음으로 입을 연다. 그리고 1부의 파일이 세상에 나오기 일주일 전, 누가 그에게 먼저 그 서류를 보여 주었는지도.
