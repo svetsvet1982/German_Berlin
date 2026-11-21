@@ -1,0 +1,281 @@
+#META
+part: 2
+episode: 9
+title: Zwei Kaffee, schwarz
+subtitle_ko: 블랙커피 두 잔
+place_ko: 한밤중의 호텔 바
+setting: 2027년 2월 17일(수) 밤 열한 시~새벽, 함부르크 장크트 게오르크, 중앙역 근처 카트린이 묵는 호텔의 바
+level: B1+
+#CAST
+JAKOB | BfV에 파견된 前 BND 기록 담당자 · 44세 · 조선소에서는 엔지니어 '얀 벤트'
+KATRIN | 야콥의 10년 동료 · 39세 · 조선소에서는 IT 보안 컨설턴트
+BARKEEPER | 호텔 바의 바텐더 · 60대 · 함부르크 토박이
+#INTRO
+※ 폭풍 해일 밤에 쓰러진 하름센은 아직 깨어나지 못했습니다. 미끼 문서 네 판본에 모두 접근할 수 있었던 사람은 야콥, 아일린, 그리고 배포를 기술적으로 맡은 카트린뿐입니다. 어제 병원에서 야콥은 카트린이 보안실 문에 1203을 누르는 것을 보았습니다. 1부에서 둘이 사본을 숨긴 중앙역 사물함의 비밀번호와 같은 숫자입니다. 미끼 판본들은 수치 하나씩만 달랐고, 어느 판본에 어떤 숫자가 들어갔는지는 야콥과 아일린만 압니다. 카트린은 파일을 암호화된 상태로만 다루었습니다. 오늘 밤 야콥은 카트린의 호텔 바로 찾아갑니다. 조선소에서는 서로 Sie를 쓰지만, 둘만 있을 때는 du입니다. 표현 초점: 기억과 감정을 말하는 표현 — sich erinnern, damals, beiläufig, verraten, ehrlich gesagt, Weißt du noch?
+#SECTION 도입 — ZWEI KAFFEE, SCHWARZ
+BARKEEPER: Moin. Die Küche ist zu, aber die Bar hat noch eine Stunde auf.
+= 모인. 주방은 닫았는데, 바는 한 시간 더 해요.
+JAKOB: Moin. Zwei Kaffee, bitte. Schwarz.
+= 모인. 커피 두 잔 주세요. 블랙으로요.
+BARKEEPER: Um elf Uhr nachts? Sie wollen wohl nicht schlafen.
+= 밤 열한 시에요? 잠잘 생각이 없으신가 보네요.
+JAKOB: Schlafen kann ich in Berlin wieder.
+= 잠은 베를린에 가서 다시 잘 수 있어요.
+KATRIN: Zwei Kaffee? Woher weißt du, dass ich keinen Wein will?
+= 커피 두 잔? 내가 와인 안 마실 줄 어떻게 알았어?
+JAKOB: Zehn Jahre im Keller. Du trinkst abends nie Wein, wenn du am nächsten Tag arbeitest.
+= 지하실에서 10년이야. 넌 다음 날 일하면 저녁에 절대 와인 안 마시잖아.
+KATRIN: Stimmt. Du kennst mich zu gut. Das ist manchmal unheimlich.
+= 맞아. 넌 날 너무 잘 알아. 가끔은 좀 무서울 정도야.
+JAKOB: Darf ich mich setzen?
+= 앉아도 돼?
+KATRIN: Seit wann fragst du? Setz dich. Wie geht es Harmsen?
+= 언제부터 물어봤다고. 앉아. 하름센은 어때?
+JAKOB: Er liegt immer noch auf der Intensivstation. Die Ärzte sagen, die Nacht ist wichtig.
+= 아직 중환자실에 있어. 의사들이 오늘 밤이 고비래.
+KATRIN: Und seine Tochter?
+= 딸은?
+JAKOB: Wiebke hat mich angeschrien. Sie sagt, wir haben ihren Vater kaputtgemacht.
+= 비프케가 나한테 소리를 질렀어. 우리가 자기 아빠를 망가뜨렸대.
+KATRIN: Wir? Sie weiß doch gar nicht, wer du bist.
+= 우리가? 그 사람은 네가 누군지도 모르잖아.
+JAKOB: Für sie bin ich der Neue, der ihrem Vater zu viele Fragen gestellt hat. Das reicht.
+= 그 사람한테 난 자기 아빠한테 질문을 너무 많이 한 신입이야. 그거면 충분하지.
+BARKEEPER: Zwei Kaffee, schwarz. Wenn Sie Zucker wollen, der steht da.
+= 블랙커피 두 잔이요. 설탕 필요하시면 저기 있어요.
+JAKOB: Danke. Kein Zucker.
+= 고마워요. 설탕은 괜찮아요.
+KATRIN: Du siehst müde aus, Jakob.
+= 너 피곤해 보여, 야콥.
+JAKOB: Ich bin müde. Aber ich wollte nicht allein in meiner Wohnung sitzen.
+= 피곤해. 그래도 집에 혼자 앉아 있기는 싫었어.
+KATRIN: In deiner Wohnung in Wilhelmsburg? Mit dem Blick auf den Kanal?
+= 빌헬름스부르크 그 집? 운하가 보이는?
+JAKOB: Mit dem Blick auf eine Mauer. Der Kanal ist nur im Mietvertrag.
+= 벽이 보이는 집이야. 운하는 임대 계약서에만 있어.
+KATRIN: Typisch Hamburg. Hier verspricht man dir Wasser und gibt dir Regen.
+= 함부르크다워. 여긴 물을 약속하고 비를 주거든.
+#SECTION 전개 1 — WEISST DU NOCH?
+JAKOB: Weißt du noch, dein erster Tag im Keller?
+= 기억나? 네가 지하실에 처음 온 날?
+KATRIN: Das war im März 2016. Du hast mir eine Liste mit zwanzig Regeln gegeben.
+= 2016년 3월이었지. 넌 나한테 규칙 스무 개짜리 목록을 줬어.
+JAKOB: Neunzehn. Die zwanzigste Regel hast du selbst geschrieben.
+= 열아홉 개야. 스무 번째 규칙은 네가 직접 썼잖아.
+KATRIN: „Regel zwanzig: Der Archivar braucht auch Kaffee." Ich bin heute noch stolz darauf.
+= "규칙 20: 기록관도 커피가 필요하다." 지금도 그게 자랑스러워.
+JAKOB: Feldmann hat sie nie gelesen. Er hat nur unterschrieben.
+= 펠트만은 그거 한 번도 안 읽었어. 서명만 했지.
+KATRIN: Feldmann hat überhaupt nie etwas gelesen. Wie geht es ihm eigentlich?
+= 펠트만은 애초에 뭘 읽은 적이 없어. 그런데 그 사람은 어떻게 지내?
+JAKOB: Er ist immer noch suspendiert. Er schreibt mir manchmal Postkarten. Aus dem Garten.
+= 아직 정직 중이야. 가끔 엽서를 보내. 정원에서.
+KATRIN: Aus dem Garten? Das passt zu ihm.
+= 정원에서? 그 사람답네.
+JAKOB: Und weißt du noch die Weihnachtsfeier 2018?
+= 그리고 2018년 크리스마스 파티 기억나?
+KATRIN: Oh nein. Bitte nicht diese Geschichte.
+= 아, 안 돼. 제발 그 얘기는 하지 마.
+JAKOB: Ich wollte dir etwas leise sagen. Und die Musik war gerade aus.
+= 내가 너한테 뭘 조용히 말하려고 했어. 그런데 마침 음악이 꺼졌지.
+KATRIN: Und der ganze Saal hat gehört, dass Feldmanns Krawatte hässlich ist.
+= 그래서 강당 전체가 펠트만 넥타이가 못생겼다는 걸 들었지.
+JAKOB: Und du hast gesagt: „Jakob, das war ganz leise laut."
+= 그리고 네가 그랬어. "야콥, 그거 아주 조용히 시끄러웠어."
+KATRIN: Ganz leise laut. Sogar Lea sagt das jetzt.
+= 아주 조용히 시끄럽게. 이제 레아도 그 말 써.
+JAKOB: Sie hat es gestern am Telefon gesagt. Über ihren Mathelehrer.
+= 어제 전화로 그 말 하더라. 수학 선생님 얘기하면서.
+KATRIN: Wie geht es ihr? Fährst du am Wochenende nach Berlin?
+= 레아는 어때? 주말에 베를린 가?
+JAKOB: Wenn alles vorbei ist. Ich habe ihr versprochen, dass ich zum nächsten Spiel komme.
+= 다 끝나면. 다음 경기는 꼭 간다고 약속했어.
+KATRIN: Du und deine Versprechen.
+= 너랑 네 약속들.
+JAKOB: Im November habe ich jedes Versprechen gehalten. Fast jedes.
+= 11월엔 약속 다 지켰어. 거의 다.
+KATRIN: Im November hast du auch zu mir gehalten. Bei der Befragung nach dem Feuer.
+= 11월엔 내 편도 들어 줬지. 화재 뒤에 조사받을 때.
+JAKOB: Das war selbstverständlich.
+= 그건 당연한 거였어.
+KATRIN: Nein, Jakob. Das war gar nicht selbstverständlich. Alle anderen haben mich angesehen wie eine Brandstifterin.
+= 아니야, 야콥. 하나도 당연하지 않았어. 다른 사람들은 다 날 방화범 보듯 봤어.
+JAKOB: Du warst es ja auch nicht. Es war dieser Junge, Dennis.
+= 실제로 네가 아니었잖아. 그 애, 데니스였지.
+KATRIN: Mit meinem Ausweis. Mit einer Kopie von meinem Ausweis.
+= 내 출입증으로. 내 출입증 복제본으로.
+JAKOB: Und das ist bis heute nicht geklärt.
+= 그건 지금까지도 밝혀지지 않았고.
+KATRIN: Vieles ist bis heute nicht geklärt.
+= 아직 안 밝혀진 게 많지.
+#SECTION 전개 2 — DIE FRAGE NACH HARMSEN
+JAKOB: Darf ich dich etwas fragen? Ehrlich?
+= 뭐 하나 물어봐도 돼? 솔직하게?
+KATRIN: Du fragst schon wieder. Das macht mich nervös.
+= 또 묻는다. 그러니까 긴장되잖아.
+JAKOB: Glaubst du wirklich, dass Harmsen der Täter ist?
+= 너 정말 하름센이 범인이라고 생각해?
+KATRIN: Die Daten sagen es. Sein Login, seine Version, sein Motiv.
+= 데이터가 그렇게 말해. 그 사람 로그인, 그 사람 판본, 그 사람 동기.
+JAKOB: Ich habe dich nicht nach den Daten gefragt. Ich habe dich gefragt, was du glaubst.
+= 데이터를 물은 게 아니야. 네가 뭘 믿는지 물은 거야.
+KATRIN: Seit wann interessiert sich der Archivar für Gefühle?
+= 기록관님이 언제부터 감정에 관심이 있었다고?
+JAKOB: Seit ich mit einem Mann auf seinem Boot Grog getrunken habe.
+= 어떤 남자랑 그 사람 보트에서 그로그를 마신 뒤부터.
+KATRIN: Du magst ihn.
+= 너 그 사람 좋아하는구나.
+JAKOB: Ja. Er hat mir in zwei Wochen mehr über Schiffe erklärt als die TU in fünf Jahren.
+= 응. 2주 동안 공대가 5년 동안 가르쳐 준 것보다 배에 대해 더 많이 알려 줬어.
+KATRIN: Menschen, die man mag, können trotzdem Fehler machen.
+= 좋아하는 사람도 실수는 할 수 있어.
+JAKOB: Das weiß ich. Ich arbeite im Archiv. Dort liegen nur Fehler von Menschen, die jemand mochte.
+= 알아. 난 기록보관소에서 일하잖아. 거긴 누군가 좋아했던 사람들의 실수만 쌓여 있어.
+KATRIN: Und was glaubst du?
+= 그럼 넌 뭘 믿는데?
+JAKOB: Ich glaube, die Beweise sind zu sauber. Wie in einem Film.
+= 증거가 너무 깔끔하다고 생각해. 영화에서처럼.
+KATRIN: Manchmal ist die Wahrheit eben einfach.
+= 가끔은 진실이 그냥 단순한 거야.
+JAKOB: Das hat Feldmann auch gesagt. Am Tag, als der Karton verschwunden ist.
+= 펠트만도 그렇게 말했어. 상자가 사라진 날.
+KATRIN: Musst du immer an den Karton denken?
+= 꼭 그렇게 매번 그 상자 생각을 해야 해?
+JAKOB: Jeden Tag. An den Karton, an das Schließfach, an das Feuer.
+= 매일. 상자, 사물함, 화재.
+KATRIN: Das ist vorbei, Jakob. Wir sind in Hamburg.
+= 다 지난 일이야, 야콥. 우린 함부르크에 있어.
+JAKOB: Der Gärtner ist auch in Hamburg. Die Blume im Forum ist dieselbe Blume.
+= 정원사도 함부르크에 있어. 포럼의 꽃은 똑같은 꽃이야.
+KATRIN: Eine Blume ist ein Symbol. Jeder kann eine Blume benutzen.
+= 꽃은 그냥 기호야. 누구나 꽃을 쓸 수 있어.
+JAKOB: Jeder. Aber nicht jeder weiß, wofür sie steht.
+= 누구나. 하지만 그게 뭘 뜻하는지는 아무나 모르지.
+BARKEEPER: Noch zwei Kaffee? Oder darf es jetzt etwas Stärkeres sein?
+= 커피 두 잔 더요? 아니면 이제 좀 센 걸로 드릴까요?
+KATRIN: Für mich ein Wasser, bitte.
+= 저는 물 한 잔 주세요.
+JAKOB: Für mich noch einen Kaffee.
+= 저는 커피 한 잔 더요.
+BARKEEPER: Kaffee um Mitternacht. Sie haben wohl ein schweres Gewissen.
+= 자정에 커피라니. 양심에 뭐가 걸리시나 봐요.
+JAKOB: Nur eine schwere Woche.
+= 그냥 힘든 한 주예요.
+KATRIN: Er hat recht, weißt du. Du bist nicht nur wegen der Gesellschaft gekommen.
+= 저 사람 말이 맞아. 너 그냥 같이 있으려고 온 거 아니잖아.
+JAKOB: Ich bin gekommen, weil ich dir vertrauen will.
+= 널 믿고 싶어서 왔어.
+KATRIN: Will? Nicht: vertraue?
+= 믿고 싶다고? 믿는다가 아니라?
+JAKOB: Grammatik war nie meine Stärke.
+= 문법은 원래 내 약점이었어.
+KATRIN: Doch. Grammatik war immer deine Stärke. Das ist ja das Problem.
+= 아니. 문법은 늘 네 강점이었어. 그게 문제지.
+#SECTION 위기 — HUNDERTZWEIUNDVIERZIG GRAD
+JAKOB: Weißt du, was ich nicht verstehe? Harmsen ist ein sehr guter Ingenieur.
+= 내가 뭘 이해 못 하는지 알아? 하름센은 아주 뛰어난 엔지니어야.
+KATRIN: Das bestreitet niemand.
+= 그건 아무도 부정 안 해.
+JAKOB: Er hätte sofort gemerkt, dass in seiner Version ein Wert falsch ist.
+= 자기 판본에 수치 하나가 틀렸다는 걸 바로 알아챘을 거야.
+KATRIN: Natürlich hätte er das gemerkt. Hundertzweiundvierzig Grad Vorwärmtemperatur für diesen Stahl? Das ist doch absurd.
+= 당연히 알아챘겠지. 이 강철에 예열 온도 142도? 말도 안 되잖아.
+JAKOB: Absurd. Ja.
+= 말도 안 되지. 그래.
+KATRIN: Jeder Schweißer im Dock lacht darüber. Sveta hätte es auch sofort gesehen.
+= 도크의 용접공이라면 누구나 그걸 보고 웃어. 스베타도 바로 봤을 거야.
+JAKOB: Wahrscheinlich.
+= 아마 그렇겠지.
+KATRIN: Also warum leakt er eine Version, die so offensichtlich falsch ist? Das spricht doch für ihn, oder?
+= 그러니까 왜 그렇게 뻔히 틀린 판본을 유출하겠어? 오히려 그 사람한테 유리한 얘기 아니야?
+JAKOB: Das ist eine gute Frage.
+= 좋은 질문이야.
+KATRIN: Was ist? Warum guckst du so?
+= 왜? 왜 그렇게 봐?
+JAKOB: Nichts. Der Kaffee ist kalt geworden.
+= 아무것도 아니야. 커피가 식었어.
+KATRIN: Du hast ihn noch gar nicht getrunken.
+= 너 아직 한 모금도 안 마셨잖아.
+JAKOB: Stimmt.
+= 맞네.
+KATRIN: Jakob, du bist ganz blass.
+= 야콥, 너 얼굴이 하얘.
+JAKOB: Es ist spät. Die Woche war lang.
+= 늦었잖아. 한 주가 길었어.
+KATRIN: Habe ich etwas Falsches gesagt?
+= 내가 뭐 잘못 말했어?
+JAKOB: Nein. Du hast nur sehr genau gesprochen. Wie immer.
+= 아니. 그냥 아주 정확하게 말했을 뿐이야. 늘 그렇듯.
+KATRIN: Ich habe die Dateien verteilt, Jakob. Ich habe sie gesehen.
+= 내가 그 파일들을 배포했잖아, 야콥. 봤지.
+JAKOB: Du hast sie verschlüsselt verteilt. Aylin wollte das so. Du hast nur die Prüfsummen gesehen.
+= 넌 암호화된 채로 배포했어. 아일린이 그렇게 하라고 했잖아. 넌 체크섬만 봤어.
+KATRIN: Dann hat Aylin es mir erzählt. Gestern. Oder vorgestern.
+= 그럼 아일린이 말해 줬나 봐. 어제. 아니면 그저께.
+JAKOB: Aylin spricht nie über Zahlen. Mit niemandem. Nicht einmal mit mir am Telefon.
+= 아일린은 숫자 얘기는 절대 안 해. 누구한테도. 나한테도 전화로는 안 해.
+KATRIN: Dann habe ich es irgendwo gelesen. Im Bericht.
+= 그럼 어디서 읽었나 보지. 보고서에서.
+JAKOB: Im Bericht steht „Version H". Keine Zahl.
+= 보고서엔 "H 판본"이라고만 적혀 있어. 숫자는 없어.
+KATRIN: Jakob…
+= 야콥…
+JAKOB: Ich habe nichts gesagt, Katrin. Ich habe nur meinen Kaffee nicht getrunken.
+= 난 아무 말도 안 했어, 카트린. 그냥 커피를 안 마셨을 뿐이야.
+#SECTION 결말 — DER LETZTE SCHLUCK
+BARKEEPER: Letzte Runde. Wollen Sie noch etwas?
+= 마지막 주문이에요. 더 드실 거 있어요?
+KATRIN: Nein, danke. Wir sind fertig.
+= 아니요, 괜찮아요. 우린 다 끝났어요.
+BARKEEPER: Dann schreibe ich es aufs Zimmer?
+= 그럼 객실로 달아 둘까요?
+KATRIN: Ja. Zimmer dreihundertzwölf.
+= 네. 312호요.
+JAKOB: Lass. Ich zahle. Die Kaffees waren meine Idee.
+= 됐어. 내가 낼게. 커피는 내 생각이었으니까.
+KATRIN: Wie im Keller. Du zahlst immer den Kaffee.
+= 지하실에서처럼. 넌 항상 커피값을 내.
+JAKOB: Regel zwanzig.
+= 규칙 20.
+KATRIN: Regel zwanzig.
+= 규칙 20.
+JAKOB: Weißt du, was das Schlimmste im Archiv ist?
+= 기록보관소에서 제일 끔찍한 게 뭔지 알아?
+KATRIN: Staub?
+= 먼지?
+JAKOB: Nein. Wenn man eine Akte aufmacht und schon weiß, was drinsteht. Und trotzdem weiterlesen muss.
+= 아니. 파일을 열었는데 뭐가 적혀 있는지 이미 알 때. 그런데도 계속 읽어야 할 때.
+KATRIN: Und? Liest du weiter?
+= 그래서? 계속 읽을 거야?
+JAKOB: Ich bin Archivar. Ich lese immer bis zur letzten Seite.
+= 난 기록관이야. 항상 마지막 장까지 읽어.
+KATRIN: Auch wenn die letzte Seite wehtut?
+= 마지막 장이 아프더라도?
+JAKOB: Gerade dann.
+= 그럴 때일수록.
+KATRIN: Du warst immer der Ehrlichere von uns beiden.
+= 우리 둘 중엔 늘 네가 더 정직했어.
+JAKOB: Nein. Ich war nur der Langsamere.
+= 아니. 난 그냥 더 느렸을 뿐이야.
+KATRIN: Morgen um acht ist Teambesprechung in der Werft.
+= 내일 여덟 시에 조선소에서 팀 회의 있어.
+JAKOB: Ich weiß. Frau Lorenz und Herr Wendt. Zwei Fremde.
+= 알아. 로렌츠 씨와 벤트 씨. 낯선 사람 둘.
+KATRIN: Zwei Fremde. Das können wir inzwischen gut.
+= 낯선 사람 둘. 이제 그건 우리 꽤 잘하잖아.
+JAKOB: Besser, als mir lieb ist.
+= 내가 바라는 것보다 더.
+KATRIN: Gute Nacht, Jakob.
+= 잘 자, 야콥.
+JAKOB: Gute Nacht.
+= 잘 자.
+KATRIN: Jakob? Eine Frage noch.
+= 야콥? 하나만 더 물을게.
+JAKOB: Ja?
+= 응?
+KATRIN: Du hast mir die Zahl nie gesagt, oder?
+= 너 나한테 그 숫자 말한 적 없지, 그렇지?
+JAKOB: Nein. Nie.
+= 응. 한 번도.
+#NEXT
+2부 10화 — «Speicherstadt»(슈파이허슈타트) — 다음 날 아침, 야콥은 아일린에게 모든 것을 보고한다. 둘은 마지막 미끼를 놓고, 야콥은 구내식당에서 아무 일 없다는 듯 카트린 앞에 앉아야 한다. 금요일 저녁, 안개 낀 창고 지구의 운하 다리에서 카트린은 접선책 소린을 만나고, 야콥은 무전으로 그 장면을 지켜본다.

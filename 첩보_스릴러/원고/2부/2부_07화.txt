@@ -1,0 +1,279 @@
+#META
+part: 2
+episode: 7
+title: Sturmflut
+subtitle_ko: 폭풍 해일
+place_ko: 경보가 내린 밤, 정전된 조선소
+setting: 2027년 2월 15일(월) 오후 여섯 시~자정, 함부르크 슈타인베르더의 노르트엘베 해군 조선소(7번 홀 설계실, 4번 홀, 3번 수리 도크)
+level: B1+
+#CAST
+JAKOB | BfV 파견 요원 · 조선소에서는 엔지니어 '얀 벤트' · 44세
+AYLIN | BfV 방첩부 팀장 · 야콥의 관리관 (무전)
+HARMSEN | 조선소 수석설계자 · 59세 · 함부르크 토박이
+SVETA | 우크라이나 출신 용접 엔지니어 · 34세
+KATRIN | IT 보안 컨설턴트(노르드섹) · 야콥의 옛 동료
+AHLERS | 조선소 보안 책임자 · 52세
+RADIO | 뉴스 라디오 아나운서 (가상 방송)
+#INTRO
+※ 아일린이 준 시간은 48시간입니다. 화요일 저녁이면 BfV는 수석설계자 하름센을 체포합니다. 미끼 문서 네 판본 가운데 다크웹에 올라온 것은 하름센의 판본이었고, 어제 정원 오두막에서 하름센은 무기 수출에 대한 회의와 회사에 대한 분노를 털어놓았습니다. 월요일 저녁, 함부르크에 폭풍 해일 경보가 내립니다. 야콥은 아일린의 허락을 받고 밤에 하름센의 컴퓨터를 조사하기로 합니다. 조선소에서 야콥과 카트린은 서로 처음 보는 사이인 척 Sie를 씁니다. 야콥과 아일린도 아직 Sie를 씁니다. 표현 초점: 재난·기술 어휘 — Sturmflutwarnung, Stromausfall, Notstrom, Zeitstempel, Protokoll, zu perfekt, Funk.
+#SECTION 도입 — WARNUNG FÜR DIE ELBE
+RADIO: Achtung, eine Warnung für Hamburg. Für die Nacht erwartet das Bundesamt eine schwere Sturmflut.
+= 함부르크에 경보입니다. 연방 해양청은 오늘 밤 강한 폭풍 해일을 예상하고 있습니다.
+RADIO: Das Hochwasser soll gegen dreiundzwanzig Uhr drei Meter über dem normalen Stand liegen.
+= 수위는 밤 열한 시쯤 평소보다 3미터 높아질 것으로 보입니다.
+RADIO: Der Fischmarkt und Teile der Hafencity werden gesperrt. Bitte parken Sie dort nicht.
+= 피시마르크트와 하펜시티 일부는 통제됩니다. 그곳에 주차하지 마십시오.
+HARMSEN: Hörst du das, Jan? Die Elbe wird heute Nacht wütend.
+= 들었어, 얀? 오늘 밤엔 엘베 강이 화를 내겠어.
+JAKOB: Drei Meter. Ist das viel für Hamburg?
+= 3미터라. 함부르크에선 많은 거예요?
+HARMSEN: Viel genug. Aber nicht wie 1962. Damals war meine Mutter in Wilhelmsburg.
+= 충분히 많지. 그래도 1962년 같진 않아. 그때 우리 어머니가 빌헬름스부르크에 계셨어.
+JAKOB: 1962? Die große Flut?
+= 1962년이요? 그 대홍수요?
+HARMSEN: Dreihundert Tote. Seitdem haben wir Deiche. Und Respekt.
+= 삼백 명이 죽었어. 그 뒤로 우린 제방을 쌓았지. 그리고 존중하는 법을 배웠고.
+JAKOB: Fahren Sie jetzt nach Hause?
+= 이제 집에 가세요?
+HARMSEN: Jan, ich sag's dir zum letzten Mal. Wir sind per du. Seit Samstag auf meinem Boot.
+= 얀, 마지막으로 말한다. 우리 말 놓기로 했잖아. 토요일에 내 배 위에서.
+JAKOB: Entschuldige. Fährst du nach Hause, Jens?
+= 미안. 집에 가, 옌스?
+HARMSEN: Ja. Ich will die Sandsäcke vor meinen Schuppen legen. Wat mutt, dat mutt.
+= 응. 오두막 앞에 모래주머니를 쌓으려고. 해야 할 건 해야지.
+JAKOB: Und du? Bist du nicht müde? Gestern war ein langer Tag.
+= 너는? 안 피곤해? 어제 긴 하루였잖아.
+HARMSEN: Gestern war ein guter Tag. Ich habe lange nicht mehr so viel geredet.
+= 어제는 좋은 날이었어. 그렇게 말을 많이 한 건 오랜만이야.
+JAKOB: Ich habe gern zugehört.
+= 나도 듣는 게 좋았어.
+HARMSEN: Das merkt man. Du hörst zu wie ein Pastor. Oder wie ein Polizist.
+= 티가 나. 넌 목사처럼 들어줘. 아니면 경찰처럼.
+JAKOB: Wie ein Ingenieur. Wir hören, wo es knackt.
+= 엔지니어처럼이지. 어디서 삐걱거리는지 듣는 거야.
+HARMSEN: Nu man to. Mach nicht zu lange. Bei Sturm ist die Werft kein guter Ort.
+= 그럼 수고해. 너무 오래 있지 마. 폭풍 칠 땐 조선소가 좋은 곳이 아니야.
+JAKOB: Versprochen. Moin, Jens.
+= 약속할게. 잘 가, 옌스.
+HARMSEN: Moin? Abends sagt man das hier auch. Du lernst schnell, Berliner.
+= 모인? 여기선 저녁에도 그렇게 말하지. 빨리 배우네, 베를린 사람.
+#SECTION 전개 1 — ZU PERFEKT
+AYLIN: Wendt, hören Sie mich? Kanal drei.
+= 벤트, 들려요? 3번 채널.
+JAKOB: Ich höre Sie. Harmsen ist gerade gegangen. Ich bin allein im Konstruktionsbüro.
+= 들립니다. 하름센은 방금 나갔어요. 설계실에 저 혼자예요.
+AYLIN: Gut. Frau Lorenz hat Ihnen einen Zugang zu seinem Rechner eingerichtet. Nur lesen, nichts ändern.
+= 좋아요. 로렌츠 씨가 그 사람 컴퓨터 접속 권한을 만들어 뒀어요. 읽기만 하고, 아무것도 바꾸지 마요.
+JAKOB: Verstanden. Ich bin drin.
+= 알겠습니다. 들어왔어요.
+AYLIN: Was sehen Sie?
+= 뭐가 보여요?
+JAKOB: Zeichnungen, E-Mails, Kalender. Alles ganz normal. Er ist sehr ordentlich.
+= 도면, 이메일, 일정표. 전부 평범해요. 아주 정리를 잘하는 사람이네요.
+AYLIN: Suchen Sie nach Ordnern, die nicht zur Arbeit passen.
+= 업무와 안 맞는 폴더를 찾아봐요.
+JAKOB: Hier ist einer. „Privat". Darin noch ein Ordner. „Anke".
+= 여기 하나 있네요. "개인". 그 안에 폴더가 또 있어요. "앙케".
+AYLIN: Wer ist Anke?
+= 앙케가 누구죠?
+JAKOB: Seine Frau. Sie ist 2023 gestorben. Sein Boot heißt auch so.
+= 아내요. 2023년에 돌아가셨어요. 그 사람 배 이름도 그거예요.
+AYLIN: Machen Sie ihn auf.
+= 열어 봐요.
+JAKOB: Keine Fotos. Nur Dateien. Kormoran, Druckkörper, Schweißnaht… Das sind die Fragmente aus dem Forum.
+= 사진은 없어요. 파일뿐이에요. 코르모란, 압력 선체, 용접 이음… 포럼에 올라온 조각들이에요.
+AYLIN: Alle?
+= 전부?
+JAKOB: Alle fünf. Mit Datum. Jeden Freitag eine Datei. Und die letzte ist seine Version vom Köder.
+= 다섯 개 전부요. 날짜까지 있어요. 매주 금요일에 하나씩. 그리고 마지막 건 그 사람이 받은 미끼 판본이에요.
+AYLIN: Dann haben wir ihn. Ich rufe das Team an.
+= 그럼 잡았네요. 팀에 전화할게요.
+JAKOB: Warten Sie. Bitte. Das ist mir zu perfekt.
+= 잠깐만요. 제발요. 이건 너무 완벽해요.
+AYLIN: Zu perfekt? Wendt, so sehen Beweise aus.
+= 너무 완벽하다고요? 벤트, 증거는 원래 이렇게 생겼어요.
+JAKOB: Nein. So sehen Beweise aus, wenn jemand sie für uns hingelegt hat.
+= 아니요. 누가 우리를 위해 갖다 놓으면 증거가 이렇게 생기죠.
+AYLIN: Erklären Sie das.
+= 설명해 봐요.
+JAKOB: Jens speichert nie etwas unter „Privat". Er druckt alles aus und legt es in Mappen. Er hasst Computer.
+= 옌스는 뭘 "개인" 폴더에 저장하는 사람이 아니에요. 다 출력해서 서류철에 넣어요. 컴퓨터를 싫어해요.
+AYLIN: Menschen ändern sich, wenn sie etwas verstecken wollen.
+= 뭔가 숨기고 싶으면 사람은 변해요.
+JAKOB: Und dann nennt er den Ordner nach seiner toten Frau? Ein Spion, der sein Herz auf das Etikett schreibt?
+= 그래서 폴더 이름을 죽은 아내 이름으로 지어요? 자기 마음을 이름표에 써 붙이는 스파이가 어디 있어요?
+AYLIN: Sie mögen ihn. Das ist Ihr Problem.
+= 당신은 그 사람을 좋아해요. 그게 당신 문제예요.
+JAKOB: Vielleicht. Aber ich bin Archivar. Ich sehe, wenn eine Akte falsch sortiert ist.
+= 그럴지도요. 하지만 전 기록 담당자예요. 파일이 잘못 정리돼 있으면 보여요.
+AYLIN: Sie haben bis morgen Abend. Das bleibt. Finden Sie etwas Besseres als ein Gefühl.
+= 내일 저녁까지예요. 그건 그대로예요. 느낌보다 나은 걸 찾아요.
+#SECTION 전개 2 — STROMAUSFALL
+RADIO: Die Elbe steigt schneller als erwartet. Am Hafen ist an mehreren Stellen der Strom ausgefallen.
+= 엘베 강 수위가 예상보다 빨리 오르고 있습니다. 항구 여러 곳에서 정전이 일어났습니다.
+JAKOB: Hallo? Das Licht ist weg. Der Bildschirm auch.
+= 여보세요? 불이 나갔어요. 화면도 꺼졌고요.
+KATRIN: Herr Wendt? Sind Sie noch oben?
+= 벤트 씨? 아직 위에 계세요?
+JAKOB: Frau Lorenz? Was machen Sie noch hier?
+= 로렌츠 씨? 아직 여기서 뭐 하세요?
+KATRIN: Ich sichere die Server. Bei Stromausfall läuft der Notstrom nur dreißig Minuten.
+= 서버 백업 중이에요. 정전되면 비상 전원은 30분밖에 안 가요.
+JAKOB: Haben Sie gesehen, was auf dem Rechner war?
+= 컴퓨터에 뭐가 있었는지 봤어요?
+KATRIN: Ich habe nur den Zugang eingerichtet. Ich schaue nicht in fremde Ordner.
+= 저는 접속 권한만 만들었어요. 남의 폴더는 안 봐요.
+JAKOB: Wir sind allein, Katrin. Du kannst normal mit mir reden.
+= 우리끼리야, 카트린. 편하게 말해도 돼.
+KATRIN: Hier gibt es überall Kameras, Jakob. Auch im Dunkeln.
+= 여긴 사방에 카메라가 있어, 야콥. 어두워도.
+JAKOB: Die Kameras haben keinen Strom.
+= 카메라도 전기가 없잖아.
+KATRIN: Ich weiß nicht, was ich weniger mag. Kameras oder Dunkelheit.
+= 카메라랑 어둠 중에 뭐가 더 싫은지 모르겠어.
+JAKOB: In Harmsens Ordner liegen alle fünf Fragmente. Ordentlich, mit Datum. Wie in einem Museum.
+= 하름센 폴더에 조각 다섯 개가 다 있어. 날짜까지 깔끔하게. 박물관처럼.
+KATRIN: Dann ist es doch klar. Es tut mir leid. Ich weiß, du magst ihn.
+= 그럼 분명하네. 미안해. 너 그 사람 좋아하는 거 알아.
+JAKOB: Warum sagt das heute jeder? Ob ich ihn mag, ist nicht die Frage.
+= 오늘은 왜 다들 그 말이야? 내가 그 사람을 좋아하는지는 중요한 게 아니야.
+KATRIN: Doch. Bei uns ist das immer die Frage.
+= 아니. 우리한텐 그게 항상 문제야.
+JAKOB: Weißt du, wer Harmsens Passwort kennen könnte?
+= 하름센 비밀번호를 누가 알 수 있었을까?
+KATRIN: Jeder, der neben ihm sitzt. Er schreibt es auf einen Zettel unter der Tastatur.
+= 옆에 앉는 사람이면 누구나. 키보드 밑 메모지에 적어 두거든.
+JAKOB: Woher weißt du das?
+= 그걸 어떻게 알아?
+KATRIN: Ich bin IT-Sicherheit. Unter Tastaturen schaue ich zuerst.
+= 난 IT 보안 담당이야. 키보드 밑부터 보는 게 습관이지.
+AHLERS: Achtung, an alle, die noch auf dem Gelände sind. Hier spricht Ahlers, Werkschutz.
+= 아직 조선소 안에 있는 모든 분께 알립니다. 보안팀 알러스입니다.
+AHLERS: Bitte gehen Sie nicht in die Docks. Das Wasser steht schon an der Kante von Dock drei.
+= 도크에는 들어가지 마십시오. 물이 벌써 3번 도크 가장자리까지 찼습니다.
+KATRIN: Ich muss zurück in den Serverraum. Pass auf dich auf.
+= 난 서버실로 돌아가야 해. 조심해.
+JAKOB: Du auch. Und, Katrin? Danke für den Zugang.
+= 너도. 그리고 카트린? 접속 권한 고마워.
+KATRIN: Wofür? Das ist mein Job.
+= 뭘. 그게 내 일인데.
+AYLIN: Wendt, ich höre, dass der Strom weg ist. Wo sind Sie?
+= 벤트, 정전됐다고 들었어요. 어디예요?
+JAKOB: Auf dem Weg nach unten. Frau Ahlers sagt, die Docks sind gefährlich.
+= 아래로 내려가는 중이에요. 알러스 씨가 도크는 위험하대요.
+AYLIN: Bleiben Sie in Halle sieben. Das ist ein Befehl.
+= 7번 홀에 있어요. 명령이에요.
+JAKOB: In Halle vier brennt noch Licht. Da arbeitet jemand.
+= 4번 홀엔 아직 불이 켜져 있어요. 누가 일하고 있어요.
+#SECTION 위기 — DAS SCHWEISSPROTOKOLL
+SVETA: Jan! Was machst du hier? Es ist fast zehn.
+= 얀! 여기서 뭐 해? 거의 열 시야.
+JAKOB: Das könnte ich dich auch fragen. Warum hast du Strom?
+= 나도 너한테 물어볼 수 있지. 넌 왜 전기가 있어?
+SVETA: Halle vier hat einen eigenen Generator. Wegen der Schweißtests. Die dürfen nicht stoppen.
+= 4번 홀엔 자체 발전기가 있어. 용접 시험 때문에. 멈추면 안 되거든.
+JAKOB: Ein Test, mitten in der Sturmflut?
+= 폭풍 해일 한가운데서 시험을?
+SVETA: Der Stahl weiß nichts von der Elbe. Er braucht seine achtundvierzig Stunden.
+= 강철은 엘베 강을 몰라. 자기 48시간이 필요할 뿐이지.
+JAKOB: Achtundvierzig Stunden. Das höre ich heute nicht zum ersten Mal.
+= 48시간이라. 오늘 그 말 처음 듣는 게 아니네.
+SVETA: Du siehst schlecht aus. Was ist los?
+= 안색이 안 좋네. 무슨 일이야?
+JAKOB: Darf ich dich etwas über Jens fragen?
+= 옌스에 대해 하나 물어봐도 돼?
+SVETA: Über Jens? Er ist der einzige Chef hier, der mich nicht „die Ukrainerin" nennt.
+= 옌스? 여기서 나를 "우크라이나 여자"라고 안 부르는 유일한 상사야.
+JAKOB: Wo war er letzten Freitag gegen elf Uhr abends?
+= 지난 금요일 밤 열한 시쯤 그 사람 어디 있었어?
+SVETA: Warum willst du das wissen?
+= 그건 왜 알고 싶은데?
+JAKOB: Bitte, Sveta. Es ist wichtig. Wichtiger, als ich dir sagen kann.
+= 부탁해, 스베타. 중요한 거야. 내가 말할 수 있는 것보다 더.
+SVETA: Letzten Freitag… Da war der Test am Druckkörper, Segment zwölf. Jens war hier. Bei mir.
+= 지난 금요일… 그때 압력 선체 12번 구간 시험이 있었어. 옌스는 여기 있었어. 나랑 같이.
+JAKOB: Bist du sicher? Von wann bis wann?
+= 확실해? 몇 시부터 몇 시까지?
+SVETA: Das steht im Schweißprotokoll. Jede Naht hat einen Zeitstempel und zwei Unterschriften.
+= 용접 기록에 있어. 이음마다 시각이 찍히고 서명이 두 개 들어가.
+JAKOB: Zeig es mir. Bitte.
+= 보여 줘. 부탁이야.
+SVETA: Hier. Freitag, zweiundzwanzig Uhr dreißig bis dreiundzwanzig Uhr vierzig. Unterschrift Koval, Unterschrift Harmsen.
+= 여기. 금요일, 22시 30분부터 23시 40분까지. 코발 서명, 하름센 서명.
+JAKOB: Und er war die ganze Zeit hier? Nicht kurz oben im Büro?
+= 그동안 계속 여기 있었어? 잠깐 위층 사무실에 간 것도 아니고?
+SVETA: Jan, bei einem Druckkörpertest geht niemand weg. Er stand neben mir und hat zu viel Kaffee getrunken.
+= 얀, 압력 선체 시험 중엔 아무도 안 나가. 내 옆에 서서 커피를 너무 많이 마셨어.
+JAKOB: Um dreiundzwanzig Uhr vier hat sich jemand an seinem Rechner in Halle sieben angemeldet.
+= 23시 4분에 누가 7번 홀에 있는 그 사람 컴퓨터에 로그인했어.
+SVETA: Das ist unmöglich. Halle sieben ist fünf Minuten zu Fuß. Er war hier.
+= 그건 불가능해. 7번 홀은 걸어서 5분 거리야. 그 사람은 여기 있었어.
+JAKOB: Dann war es nicht Jens am Rechner. Sondern jemand mit seinem Passwort.
+= 그럼 컴퓨터 앞에 있던 건 옌스가 아니야. 그 사람 비밀번호를 가진 누군가지.
+SVETA: Jan… Wer bist du eigentlich?
+= 얀… 너 대체 누구야?
+JAKOB: Jemand, der dir gerade sehr dankbar ist.
+= 지금 너한테 아주 고마워하는 사람.
+SVETA: Das ist keine Antwort.
+= 그건 대답이 아니잖아.
+JAKOB: Ich weiß. Darf ich das Protokoll fotografieren?
+= 알아. 기록 사진 찍어도 돼?
+SVETA: Fotografier es. Und dann sag deinen Leuten, sie sollen Jens in Ruhe lassen.
+= 찍어. 그리고 네 사람들한테 옌스 좀 내버려 두라고 해.
+#SECTION 결말 — WASSER IM DOCK
+JAKOB: Frau Demir, hören Sie mich? Ich habe etwas Besseres als ein Gefühl.
+= 데미르 씨, 들려요? 느낌보다 나은 걸 찾았어요.
+AYLIN: Ich höre.
+= 듣고 있어요.
+JAKOB: Das Schweißprotokoll. Harmsen war beim Upload in Halle vier. Mit Zeitstempel und zwei Unterschriften.
+= 용접 기록이요. 업로드 시각에 하름센은 4번 홀에 있었어요. 시각 기록과 서명 두 개까지 있어요.
+AYLIN: Und der Login an seinem Rechner?
+= 그럼 그 사람 컴퓨터 로그인은요?
+JAKOB: Jemand anders. Mit seinem Passwort. Die Dateien im Ordner „Anke" hat jemand für uns hingelegt.
+= 다른 사람이에요. 그 사람 비밀번호로요. "앙케" 폴더의 파일들은 누가 우리 보라고 갖다 놓은 거예요.
+AYLIN: Dann hätten wir morgen den falschen Mann verhaftet.
+= 그럼 내일 우리가 엉뚱한 사람을 체포할 뻔했네요.
+JAKOB: Ja. Und der richtige hätte zugeschaut.
+= 네. 그리고 진짜 범인은 구경했겠죠.
+AYLIN: Hören Sie, Wendt… Nein. Hör zu. Ich heiße Aylin.
+= 들어 봐요, 벤트… 아니. 들어 봐. 내 이름은 아일린이야.
+JAKOB: Über Funk? Mitten in der Sturmflut?
+= 무전으로? 폭풍 해일 한가운데서?
+AYLIN: Wann sonst? Du hast mir gerade einen großen Fehler erspart.
+= 그럼 언제 해? 네가 방금 내 큰 실수를 막아 줬잖아.
+JAKOB: Jakob. Aber hier bin ich Jan.
+= 야콥이야. 그래도 여기선 얀이고.
+AYLIN: Dann eben Jan. Ich sage das Team für morgen ab.
+= 그럼 얀이라고 하지. 내일 팀 출동은 취소할게.
+JAKOB: Noch etwas. Sein Passwort liegt auf einem Zettel unter der Tastatur.
+= 하나 더 있어. 그 사람 비밀번호가 키보드 밑 메모지에 있대.
+AYLIN: Dann wird die Liste der Verdächtigen lang.
+= 그럼 용의자 명단이 길어지겠네.
+JAKOB: Oder sehr kurz. Es kommt darauf an, wer nachts hier war.
+= 아니면 아주 짧아지거나. 밤에 누가 여기 있었는지에 달렸지.
+AYLIN: Morgen früh schreibst du mir alle Namen auf.
+= 내일 아침에 이름 전부 적어서 줘.
+AHLERS: Werkschutz an alle! Hier Ahlers! Ich brauche sofort Hilfe am Dock drei!
+= 보안팀이 전원에게! 알러스입니다! 지금 당장 3번 도크로 와 주세요!
+JAKOB: Frau Ahlers, hier Wendt. Was ist passiert?
+= 알러스 씨, 벤트입니다. 무슨 일이에요?
+AHLERS: In der Korvette im Reparaturdock. Im Motorblock ist Sand. Strahlkies. Jemand hat den Motor sabotiert.
+= 수리 도크의 초계함이에요. 엔진 블록에 모래가 있어요. 연마용 모래요. 누가 엔진을 망가뜨렸어요.
+AYLIN: Wie im letzten Jahr. Die gleiche Methode.
+= 작년이랑 똑같네. 같은 수법이야.
+JAKOB: Frau Ahlers, sind Sie allein da unten?
+= 알러스 씨, 거기 혼자 계세요?
+AHLERS: Nein. Hier liegt jemand. Auf dem Steg, direkt am Wasser.
+= 아니요. 여기 누가 쓰러져 있어요. 잔교 위, 바로 물가에요.
+JAKOB: Lebt er?
+= 살아 있어요?
+AHLERS: Er atmet. Aber er reagiert nicht. Er hat eine Wunde am Kopf.
+= 숨은 쉬어요. 그런데 반응이 없어요. 머리에 상처가 있어요.
+AYLIN: Jan, bleib, wo du bist. Ich schicke einen Wagen.
+= 얀, 거기 그대로 있어. 차 보낼게.
+JAKOB: Frau Ahlers. Wer ist es?
+= 알러스 씨. 누구예요?
+AHLERS: Es ist Herr Harmsen. Es ist Jens Harmsen.
+= 하름센 씨예요. 옌스 하름센이에요.
+#NEXT
+2부 8화 — «St. Georg»(장크트 게오르크 병원) — 하름센은 머리를 다쳐 중환자실에 누워 있다. 병원 간호사인 딸 비프케는 아버지의 '새 친구'가 누구였는지 알게 되고 야콥에게 분노를 쏟는다. 자판기 커피를 앞에 두고 야콥은 처음부터 다시 따진다. 네 판본 모두에 접근할 수 있었던 사람은 단 세 명뿐이다.

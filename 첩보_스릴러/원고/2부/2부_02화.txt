@@ -1,0 +1,273 @@
+#META
+part: 2
+episode: 2
+title: Die Schweißnaht
+subtitle_ko: 용접 이음
+place_ko: 건조 도크와 구내식당, 그리고 금요일 밤
+setting: 2027년 2월 3일(수)~5일(금) 밤, 노르트엘베 해군 조선소의 건조 도크·구내식당·설계실, 빌헬름스부르크 야콥의 원룸
+level: B1+
+#CAST
+JAKOB | 위장 신분 '얀 벤트' · 선박 구조 엔지니어 · 44세 (BfV 파견)
+SVETA | 스베틀라나 코발 · 용접 엔지니어 · 34세 · 우크라이나 미콜라이우 출신
+HARMSEN | 수석설계자 · 59세
+OLBRICH | 프로젝트 코르모란 매니저 · 45세
+AHLERS | 조선소 보안 책임자 · 52세
+KATRIN | IT 보안 업체 노르드섹의 컨설턴트 · 39세 · 야콥의 10년 동료 (조선소에서는 모르는 사이인 척)
+AYLIN | BfV 방첩부 팀장 · 41세 (전화)
+#INTRO
+※ 첫 출근 날, 수석설계자 하름센은 누군가 일요일 밤 자기 계정으로 로그인했다는 사실을 발견했습니다. 이번 화에서 야콥은 건조 도크의 용접 엔지니어 스베타를 만나고, 구내식당에서 유출의 패턴을 듣습니다. 로그인 문제를 조사하러 온 IT 보안 컨설턴트는 베를린의 동료 카트린입니다. 조선소에서 둘은 처음 만난 사이처럼 Sie를 써야 하고, 둘만 있을 때만 du를 씁니다. 1부에서 미행자 데니스의 연락처와 미라가 받은 익명 제보에 똑같이 붙어 있던 '작은 꽃' 아이콘을 기억해 두세요. 표현 초점: 조선·IT 어휘 — Trockendock, Sektion, Schweißnaht, Ultraschallprüfung, Zugriffsprotokoll, Forum, hochladen.
+#SECTION 도입 — IM TROCKENDOCK
+SVETA: Sie sind der Neue? Helm auf, bitte. Hier unten fällt manchmal Metall vom Himmel.
+= 신입이세요? 헬멧 쓰세요. 여기 아래는 가끔 하늘에서 쇳덩이가 떨어져요.
+JAKOB: Moin. Jan Wendt. Jens hat gesagt, ich soll mich bei Ihnen melden.
+= 모인. 얀 벤트예요. 옌스가 당신한테 가 보라고 했어요.
+SVETA: Sveta. Und wir sagen hier du. Unten im Dock ist keine Zeit für „Sie".
+= 스베타야. 그리고 여기선 말 놓아. 도크 아래에선 "Sie" 할 시간이 없어.
+JAKOB: Gut, Sveta. Was ist das für ein Ring? Er ist riesig.
+= 좋아, 스베타. 저 고리는 뭐야? 엄청 크네.
+SVETA: Das ist eine Sektion vom Druckkörper. Sektion drei. Acht Meter Durchmesser.
+= 압력 선체의 구획이야. 3번 구획. 지름 8미터.
+JAKOB: Und die Naht da oben? Die ist ganz frisch.
+= 저 위의 이음은? 완전히 새 거네.
+SVETA: Von heute Morgen. Morgen machen wir die Ultraschallprüfung. Wenn sie gut ist, kommt Sektion vier.
+= 오늘 아침 거야. 내일 초음파 검사를 해. 결과가 좋으면 4번 구획을 시작하고.
+JAKOB: Wie lange braucht man für so eine Naht?
+= 이런 이음 하나에 얼마나 걸려?
+SVETA: Drei Schichten. Und danach drei Tage Prüfung. Bei U-Booten ist Geduld wichtiger als Geschwindigkeit.
+= 3교대. 그다음 사흘 동안 검사. 잠수함에선 속도보다 인내가 중요해.
+JAKOB: Das hat Jens auch gesagt. Fast mit denselben Worten.
+= 옌스도 그렇게 말했어. 거의 같은 말로.
+SVETA: Jens hat es mir beigebracht. Und ich habe es vorher in Mykolajiw gelernt.
+= 옌스가 나한테 가르쳐 줬어. 그전엔 미콜라이우에서 배웠고.
+JAKOB: Du hast dort auch an Schiffen gearbeitet?
+= 거기서도 배 만드는 일을 했어?
+SVETA: Acht Jahre. Bis zum Februar 2022. Danach gab es dort keine Werft mehr, sondern Raketen.
+= 8년. 2022년 2월까지. 그 뒤로 거긴 조선소 대신 미사일만 있었지.
+JAKOB: Das tut mir leid.
+= 정말 안됐다.
+SVETA: Mein Bruder ist noch dort. Nicht auf der Werft. An der Front.
+= 우리 오빠는 아직 거기 있어. 조선소가 아니라 전선에.
+JAKOB: Hörst du oft von ihm?
+= 오빠 소식은 자주 들어?
+SVETA: Jeden Abend eine Nachricht. Zwei Wörter: „Alles gut." Manchmal glaube ich sie.
+= 매일 저녁 메시지가 와. 두 단어. "다 괜찮아." 가끔은 그 말을 믿어.
+JAKOB: Meine Tochter schickt mir jeden Morgen eine Nachricht. Oder ich ihr. Ich verstehe dich ein bisschen.
+= 우리 딸은 매일 아침 나한테 메시지를 보내. 아니면 내가 보내거나. 조금은 네 마음 알 것 같아.
+SVETA: Dann verstehst du auch, warum ich hier arbeite. Diese Boote sind für mich keine Kisten.
+= 그럼 내가 왜 여기서 일하는지도 알겠네. 이 배들은 나한테 그냥 상자가 아니야.
+JAKOB: Sondern?
+= 그럼 뭔데?
+SVETA: Eine Antwort. Komm, ich zeige dir, wie wir die Nähte dokumentieren. Jede einzelne.
+= 대답이지. 와, 우리가 이음을 어떻게 기록하는지 보여 줄게. 하나도 빠짐없이.
+JAKOB: Jede einzelne. Das ist hier wohl das Lieblingswort.
+= 하나도 빠짐없이. 여기서 제일 좋아하는 말인가 보네.
+SVETA: Das ist hier das einzige Wort, das zählt.
+= 여기선 그게 유일하게 중요한 말이야.
+#SECTION 전개 1 — FISCHBRÖTCHEN IN DER KANTINE
+HARMSEN: Moin, ihr zwei! Hat Sveta dich schon gequält, Berliner?
+= 모인, 둘 다! 스베타가 벌써 널 괴롭혔어, 베를린 친구?
+JAKOB: Nur ein bisschen. Ich habe einen Helm und einen Respekt vor Sektion drei.
+= 조금만요. 헬멧 하나랑 3번 구획에 대한 존경심을 얻었어요.
+SVETA: Er lernt schnell. Für einen Berliner.
+= 빨리 배워. 베를린 사람치곤.
+OLBRICH: Darf ich mich setzen? Es gibt heute Labskaus. Ich nehme trotzdem nur Salat.
+= 앉아도 돼? 오늘 라프스카우스 나와. 그래도 난 샐러드만 먹을래.
+HARMSEN: Wer in Hamburg kein Labskaus isst, ist kein richtiger Hamburger, Marc.
+= 함부르크에서 라프스카우스 안 먹는 사람은 진짜 함부르크 사람이 아니야, 마르크.
+OLBRICH: Ich komme aus Stuttgart, Jens. Das weißt du seit sechs Jahren.
+= 난 슈투트가르트 출신이야, 옌스. 6년째 알잖아.
+JAKOB: Was ist eigentlich Labskaus?
+= 라프스카우스가 대체 뭐예요?
+SVETA: Kartoffeln, Fleisch, rote Bete und ein Ei oben drauf. Es sieht schlimm aus, aber es schmeckt.
+= 감자, 고기, 비트, 그리고 위에 달걀 하나. 보기엔 끔찍한데 맛있어.
+HARMSEN: Früher haben das die Seeleute gegessen. Wochenlang. Weil nichts anderes da war.
+= 옛날엔 선원들이 그걸 먹었어. 몇 주 동안. 다른 게 없었으니까.
+OLBRICH: Apropos wochenlang. Jens, hast du Frau Ahlers wegen deines Logins informiert?
+= 몇 주 얘기가 나와서 말인데. 옌스, 로그인 건은 알러스 씨한테 알렸어?
+HARMSEN: Gleich am Montag. Sie war nicht begeistert.
+= 월요일에 바로. 좋아하진 않더라.
+SVETA: Welches Login?
+= 무슨 로그인?
+HARMSEN: Jemand war am Sonntagabend mit meinem Namen im System. Ich war bei Wiebke, auf ihrem Geburtstag.
+= 일요일 밤에 누가 내 이름으로 시스템에 들어왔어. 난 비프케 생일이라 걔네 집에 있었고.
+SVETA: Das ist nicht lustig, Jens. Nicht nach dem Herbst.
+= 그거 웃을 일 아니야, 옌스. 가을 일도 있었는데.
+JAKOB: Was war im Herbst genau? Marc hat nur kurz davon erzählt.
+= 가을에 정확히 무슨 일이 있었어? 마르크가 잠깐만 얘기했거든.
+OLBRICH: Teile von alten Zeichnungen sind in einem Forum aufgetaucht. Es heißt „Tiefsee". Ein Forum für Leute, die Geheimnisse kaufen.
+= 옛날 도면 일부가 어떤 포럼에 올라왔어. "티프제"라는 곳이야. 비밀을 사는 사람들이 모이는 포럼.
+SVETA: Und das Komische war: immer am Freitag. Immer gegen dreiundzwanzig Uhr.
+= 그리고 이상한 게, 늘 금요일이었어. 늘 23시쯤.
+JAKOB: Jeden Freitag?
+= 매주 금요일마다?
+HARMSEN: Zehn Freitage hintereinander. Dann im Dezember plötzlich nichts mehr.
+= 열 번의 금요일 연속으로. 그러다 12월에 갑자기 뚝 끊겼지.
+OLBRICH: Ich glaube, es kam von außen. Es gab im Dezember Drohnen über dem Gelände. Das stand sogar in der Zeitung.
+= 난 외부에서 온 거라고 생각해. 12월에 부지 상공에 드론이 떴었어. 신문에도 났고.
+SVETA: Eine Drohne macht keine Fotos von Zeichnungen in einem Büro, Marc.
+= 드론이 사무실 안의 도면을 찍을 순 없잖아, 마르크.
+OLBRICH: Moderne Drohnen können mehr, als du denkst.
+= 요즘 드론은 네 생각보다 많은 걸 해.
+HARMSEN: Und moderne Menschen können noch mehr. Das ist mein Problem.
+= 그리고 요즘 사람들은 그보다 더 많은 걸 하지. 그게 내 문제야.
+JAKOB: Und warum war es im Dezember plötzlich still?
+= 그럼 12월엔 왜 갑자기 조용해졌어?
+OLBRICH: Weihnachten vielleicht. Auch Spione haben Urlaub.
+= 크리스마스라서겠지. 스파이도 휴가는 가니까.
+SVETA: Oder der Spion ist weg.
+= 아니면 스파이가 사라졌거나.
+HARMSEN: Schluss jetzt. Iss dein Labskaus, Berliner. Es wird kalt.
+= 이제 그만. 라프스카우스 먹어, 베를린 친구. 식는다.
+#SECTION 전개 2 — DIE IT-BERATERIN
+AHLERS: Moin zusammen. Herr Harmsen, haben Sie kurz Zeit? Ich bringe Ihnen jemanden von Nordsec.
+= 모인, 여러분. 하름센 씨, 잠깐 시간 되세요? 노르드섹에서 온 분을 모시고 왔어요.
+KATRIN: Guten Tag. Katrin Lorenz, IT-Sicherheit. Es geht um die Anmeldung vom Sonntag.
+= 안녕하세요. 카트린 로렌츠, IT 보안 담당입니다. 일요일 로그인 건 때문에 왔어요.
+HARMSEN: Moin. Endlich jemand, der sich damit auskennt. Setzen Sie sich.
+= 모인. 드디어 이걸 아는 사람이 왔네. 앉으세요.
+AHLERS: Und das ist Herr Wendt, unser neuer Kollege aus Berlin.
+= 그리고 이분은 벤트 씨, 베를린에서 온 새 동료예요.
+KATRIN: Freut mich, Herr Wendt.
+= 반갑습니다, 벤트 씨.
+JAKOB: Ganz meinerseits, Frau Lorenz. Berlin? Sie auch?
+= 저도요, 로렌츠 씨. 베를린이요? 당신도요?
+KATRIN: Nein, ich komme aus Potsdam. Aber ich arbeite seit Januar für eine Hamburger Firma.
+= 아니요, 저는 포츠담 출신이에요. 하지만 1월부터 함부르크 회사에서 일해요.
+HARMSEN: Potsdam und Berlin. Für uns Hamburger ist das dasselbe.
+= 포츠담이랑 베를린. 우리 함부르크 사람한텐 똑같아.
+KATRIN: Für uns Potsdamer nicht. Herr Harmsen, wo waren Sie am Sonntag um dreiundzwanzig Uhr vierzig?
+= 우리 포츠담 사람한텐 아니에요. 하름센 씨, 일요일 23시 40분에 어디 계셨어요?
+HARMSEN: Bei meiner Tochter in Eppendorf. Mit zwölf Gästen und einer Torte. Zwölf Zeugen.
+= 에펜도르프의 딸 집에요. 손님 열두 명이랑 케이크 하나랑. 증인이 열두 명이에요.
+KATRIN: Gut. Haben Sie Ihr Passwort irgendwo aufgeschrieben? Auf einem Zettel, im Handy?
+= 좋습니다. 비밀번호를 어디 적어 두셨나요? 쪽지나 휴대폰에요?
+HARMSEN: Auf einem Zettel? Ich bin alt, aber nicht dumm.
+= 쪽지에? 내가 늙긴 했어도 바보는 아니에요.
+KATRIN: Entschuldigung. Das muss ich alle fragen. Ich prüfe jetzt Ihre Zugriffsprotokolle.
+= 죄송해요. 모든 분께 여쭤봐야 해서요. 이제 접근 기록을 확인할게요.
+HARMSEN: Prüfen Sie, so viel Sie wollen. Jan, komm, ich zeige dir in der Zeit etwas Neues.
+= 마음껏 확인하세요. 얀, 와, 그동안 새로운 걸 보여 줄게.
+JAKOB: Etwas Neues? Ich dachte, ich darf erst in vier Wochen auf den Server.
+= 새로운 거요? 4주 뒤에나 서버에 들어갈 수 있다고 생각했는데요.
+HARMSEN: Auf den Server nicht. Aber auf meinen Tisch. Das ist die Anordnung der Dämmkacheln, Sektion vier. Version vom Dienstag.
+= 서버는 안 되지. 하지만 내 책상은 돼. 이건 흡음 타일 배치도야, 4번 구획. 화요일 판본.
+JAKOB: Vom Dienstag? Dann ist sie ganz neu.
+= 화요일 거요? 그럼 완전 새 거네요.
+HARMSEN: Drei Tage alt. Außer mir haben sie bis jetzt nur Marc und Sveta gesehen. Und jetzt du.
+= 사흘 됐어. 나 말고는 지금까지 마르크랑 스베타만 봤어. 그리고 이제 너.
+JAKOB: Warum zeigst du sie mir?
+= 왜 저한테 보여 주는 거예요?
+HARMSEN: Weil du ab Montag an Sektion vier arbeitest. Und weil ich gute Leute nicht vier Wochen warten lasse.
+= 월요일부터 네가 4번 구획 일을 하니까. 그리고 좋은 사람을 4주나 기다리게 하진 않거든.
+KATRIN: Herr Harmsen, entschuldigen Sie. Ich brauche noch einmal Ihren Benutzernamen.
+= 하름센 씨, 죄송해요. 사용자 이름이 한 번 더 필요해요.
+HARMSEN: „jharmsen". Ganz einfach. Wie meine Frau immer sagte: Ich bin ein einfacher Mensch.
+= "jharmsen". 아주 간단해요. 아내가 늘 말했듯이, 난 단순한 사람이거든요.
+KATRIN: Danke. Für heute bin ich fertig. Herr Wendt, Sie fahren doch auch mit dem Aufzug nach unten?
+= 감사합니다. 오늘은 끝났어요. 벤트 씨, 당신도 엘리베이터로 내려가시죠?
+JAKOB: Ja. Ich muss zurück ins Dock.
+= 네. 도크로 돌아가야 해요.
+KATRIN: So. Die Tür ist zu. Wir haben genau dreißig Sekunden, Herr Wendt.
+= 자. 문 닫혔어. 우리한테 딱 30초 있어, 벤트 씨.
+JAKOB: Hallo, Katrin. Du siehst müde aus.
+= 안녕, 카트린. 피곤해 보여.
+KATRIN: Und du siehst aus wie ein echter Ingenieur. Mit Helm. Das ist fast lustig.
+= 그리고 넌 진짜 엔지니어 같아. 헬멧까지 쓰고. 좀 웃기다.
+JAKOB: Ganz leise laut lachen, bitte.
+= 아주 조용히 크게 웃어, 부탁이야.
+KATRIN: Erdgeschoss. Auf Wiedersehen, Herr Wendt.
+= 1층이네요. 안녕히 가세요, 벤트 씨.
+#SECTION 위기 — FREITAG, DREIUNDZWANZIG UHR
+AYLIN: Herr Wendt? Sind Sie wach?
+= 벤트 씨? 깨어 있어요?
+JAKOB: Es ist zweiundzwanzig Uhr fünfzig. Natürlich bin ich wach. Ich sitze vor dem Laptop.
+= 22시 50분이에요. 당연히 깨어 있죠. 노트북 앞에 앉아 있어요.
+AYLIN: Gut. Haben Sie das Forum offen? „Tiefsee"?
+= 좋아요. 포럼 열어 놨어요? "티프제"?
+JAKOB: Ja. Ihr Techniker hat mir alles eingerichtet. Es sieht aus wie ein ganz normales Forum. Nur dunkler.
+= 네. 당신네 기술자가 다 설정해 줬어요. 그냥 평범한 포럼 같아요. 좀 더 어두울 뿐.
+AYLIN: Die gefährlichsten Orte sehen immer ganz normal aus.
+= 제일 위험한 곳은 늘 아주 평범해 보이죠.
+JAKOB: Glauben Sie wirklich, dass heute etwas kommt? Nach fünf Wochen Pause?
+= 정말 오늘 뭔가 올라올 거라고 생각해요? 5주나 쉬었는데요?
+AYLIN: Am Sonntagabend wurde Harmsens Login benutzt. Jemand hat getestet, ob die Tür noch offen ist.
+= 일요일 밤에 하름센 계정이 쓰였어요. 누군가 문이 아직 열려 있는지 시험한 거예요.
+JAKOB: Und wenn die Tür offen ist?
+= 그럼 문이 열려 있으면요?
+AYLIN: Dann geht man durch. Am liebsten an einem Freitag.
+= 그럼 들어가는 거죠. 가급적 금요일에.
+JAKOB: Hat Frau Lorenz etwas in den Protokollen gefunden?
+= 로렌츠 씨가 기록에서 뭐 찾았어요?
+AYLIN: Sie sagt, die Anmeldung kam über ein öffentliches WLAN. Vielleicht ein Café. Nicht zu verfolgen.
+= 그 로그인은 공용 와이파이로 들어왔대요. 카페 같은 데요. 추적이 안 된대요.
+JAKOB: Ein Café am Sonntag um dreiundzwanzig Uhr vierzig?
+= 일요일 23시 40분에 카페요?
+AYLIN: Auf St. Pauli gibt es viele Cafés, die um diese Zeit offen haben. Moment… Laden Sie die Seite neu.
+= 장크트 파울리엔 그 시간에 여는 카페가 많아요. 잠깐… 페이지 새로 고침 해 봐요.
+JAKOB: Dreiundzwanzig Uhr vier. Ein neuer Beitrag. Ganz oben.
+= 23시 4분. 새 게시물이에요. 맨 위에.
+AYLIN: Titel?
+= 제목은요?
+JAKOB: „Kormoran, Teil elf." Und darunter steht nur ein Preis. In Bitcoin.
+= "코르모란, 11부." 그리고 그 아래엔 가격만 있어요. 비트코인으로.
+AYLIN: Teil elf. Er zählt einfach weiter. Als wäre nichts passiert.
+= 11부라. 그냥 이어서 세고 있네요. 아무 일도 없었던 것처럼.
+JAKOB: Frau Demir… Der Benutzer, der das hochgeladen hat. Sehen Sie sein Bild?
+= 데미르 씨… 이걸 올린 사용자요. 그 프로필 그림 보여요?
+AYLIN: Ein kleines Symbol. Eine Blume, glaube ich. Warum?
+= 작은 아이콘이요. 꽃 같은데요. 왜요?
+JAKOB: Diese Blume kenne ich. Ich habe sie in Berlin zweimal gesehen.
+= 이 꽃 알아요. 베를린에서 두 번 봤어요.
+AYLIN: Wo genau?
+= 정확히 어디서요?
+JAKOB: Auf dem Handy des Jungen, der mich verfolgt hat. Und unter der Mail, die die Journalistin bekommen hat. Bevor die Akte verschwunden ist.
+= 저를 미행하던 그 청년의 휴대폰에서요. 그리고 그 기자가 받은 메일 밑에서요. 파일이 사라지기 전에요.
+AYLIN: Sind Sie sicher? Blumen sehen sich ähnlich.
+= 확실해요? 꽃은 다 비슷해 보이잖아요.
+JAKOB: Fünf Blätter, das untere ist etwas kürzer. Wie mit der Hand gezeichnet. Ich bin Archivar, Frau Demir. Ich vergesse so etwas nicht.
+= 꽃잎 다섯 장, 아래쪽 하나가 조금 짧아요. 손으로 그린 것처럼요. 전 기록 담당자예요, 데미르 씨. 그런 건 안 잊어요.
+AYLIN: Dann ist Hamburg kein Zufall. Dann hängt das hier an Ihrer Akte.
+= 그럼 함부르크는 우연이 아니네요. 여기 일이 당신 파일이랑 이어져 있는 거예요.
+#SECTION 결말 — SEKTION VIER
+AYLIN: Es gibt ein Vorschaubild. Ein kleines Stück der Zeichnung. Können Sie es öffnen?
+= 미리 보기 그림이 있어요. 도면의 작은 조각이요. 열 수 있어요?
+JAKOB: Es lädt noch. Das Internet hier in Wilhelmsburg ist langsam.
+= 아직 로딩 중이에요. 빌헬름스부르크 인터넷이 느려서요.
+AYLIN: Beschreiben Sie, was Sie sehen. Langsam.
+= 보이는 걸 설명해 봐요. 천천히.
+JAKOB: Linien. Viele kleine Rechtecke in Reihen. Wie Fliesen in einem Badezimmer.
+= 선들이요. 작은 직사각형이 줄지어 많이 있어요. 욕실 타일처럼요.
+AYLIN: Fliesen?
+= 타일이요?
+JAKOB: Keine Fliesen. Dämmkacheln. Die Kacheln auf der Außenhaut, die das Boot leise machen.
+= 타일이 아니라 흡음 타일이에요. 배를 조용하게 만드는 외피의 타일이요.
+AYLIN: Steht eine Nummer dabei?
+= 번호가 적혀 있어요?
+JAKOB: Unten rechts. „Sektion 4". Und ein Datum.
+= 오른쪽 아래에요. "4번 구획". 그리고 날짜.
+AYLIN: Welches Datum?
+= 어떤 날짜요?
+JAKOB: Zweiter Februar. Dienstag.
+= 2월 2일. 화요일이요.
+AYLIN: Das ist diese Woche. Das ist keine alte Konzeptzeichnung mehr.
+= 이번 주네요. 이젠 옛날 개념도가 아니에요.
+JAKOB: Nein. Das ist ganz neu.
+= 네. 완전히 새 거예요.
+AYLIN: Wie viele Leute haben diese Zeichnung schon gesehen? Wissen Sie das?
+= 이 도면을 본 사람이 몇 명이나 될까요? 알아요?
+JAKOB: Harmsen hat sie mir gestern gezeigt. Er hat gesagt: Außer ihm nur Olbrich und Sveta.
+= 하름센이 어제 저한테 보여 줬어요. 자기 말고는 올브리히랑 스베타뿐이라고 했어요.
+AYLIN: Und Sie.
+= 그리고 당신.
+JAKOB: Und ich. Und…
+= 그리고 저요. 그리고…
+AYLIN: Und wer? Herr Wendt?
+= 그리고 누구요? 벤트 씨?
+JAKOB: Nichts. Ich muss nachdenken. Wer noch im Raum war.
+= 아니에요. 생각 좀 해야겠어요. 그때 방에 누가 더 있었는지.
+AYLIN: Dann denken Sie nach. Aber sagen Sie mir zuerst, was Sie gerade denken.
+= 그럼 생각해요. 하지만 지금 무슨 생각을 하는지 먼저 말해 줘요.
+JAKOB: Ich denke: Das ist die Zeichnung, die ich gestern zum ersten Mal gesehen habe.
+= 이런 생각이요. 이건 제가 어제 처음 본 그 도면이에요.
+#NEXT
+2부 3화 — «Fischmarkt, fünf Uhr»(새벽 다섯 시 피시마르크트) — 일요일 새벽, 생선 경매 상인들의 외침 사이에서 야콥은 아일린과 접선한다. 회사 경영진은 12월의 드론처럼 '바깥'을 의심하지만, 아일린은 유출이 너무 규칙적이라며 내부자를 노린다. 두 사람은 용의자마다 조금씩 다른 미끼 문서를 주는 '카나리아 트랩'을 설계한다. 그리고 아일린은 뜻밖의 경고를 건넨다.

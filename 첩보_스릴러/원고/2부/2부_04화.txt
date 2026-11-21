@@ -1,0 +1,279 @@
+#META
+part: 2
+episode: 4
+title: Der alte Elbtunnel
+subtitle_ko: 옛 엘베 터널
+place_ko: 화요일 저녁, 엘베 강 아래와 장크트 파울리
+setting: 2027년 2월 9일(화) 저녁 여섯 시~밤, 조선소 7번 홀 → 옛 엘베 터널 → 장크트 파울리 하펜 거리의 술집 '추름 안커'
+level: B1+
+#CAST
+JAKOB | BfV 파견 요원 · 조선소에서는 엔지니어 '얀 벤트' · 44세
+AYLIN | BfV 방첩부 팀장 · 야콥의 관리관 · 41세 (이어폰 무전)
+OLBRICH | 코르모란 프로젝트 매니저 · 45세 · 첫 번째 용의자
+ANNIKA | 조선소 영업부 직원 · 38세
+HEIN | 장크트 파울리 술집 '추름 안커' 주인 · 60대
+#INTRO
+※ 피시마르크트에서 아일린은 BfV 내부에도 유출이 있을지 모른다고 털어놓았습니다. 함정용 미끼 문서는 목요일에 배포될 예정입니다. 그 전에 야콥은 첫 번째 용의자를 확인하기로 합니다. 프로젝트 매니저 올브리히 박사는 몇 주째 화요일과 금요일마다 같은 시간에 사무실을 나갑니다. 야콥은 이어폰으로 아일린과 연결된 채 그를 따라 1911년에 만든 옛 엘베 터널로 내려갑니다. 조선소에서 야콥은 동료들과 du를 쓰지만, 상사인 올브리히에게는 Sie를 씁니다. 술집 주인 하인은 손님 누구에게나 du를 씁니다. 표현 초점: 미행·관찰 어휘 — beschatten, unauffällig, Abstand halten, Treffpunkt, Alibi, Tarnung, Verhältnis.
+#SECTION 도입 — FEIERABEND IN HALLE SIEBEN
+OLBRICH: Herr Wendt, Sie sind ja noch da. Die anderen sind schon alle weg.
+= 벤트 씨, 아직 있네요. 다른 사람들은 벌써 다 갔는데.
+JAKOB: Ich will Zeichnung zwanzig noch fertig lesen. Ich bin neu, ich muss viel nachholen.
+= 20번 도면을 마저 읽으려고요. 신입이라 따라잡을 게 많아서요.
+OLBRICH: Fleißig. Das gefällt mir. Aber übertreiben Sie es nicht. Auf dieser Werft wird man schnell alt.
+= 성실하네요. 마음에 들어요. 그래도 무리하진 마요. 이 조선소에선 금방 늙어요.
+JAKOB: Und Sie? Machen Sie heute früh Feierabend?
+= 박사님은요? 오늘은 일찍 퇴근하세요?
+OLBRICH: Ich habe noch einen Termin in der Stadt. Geschäftlich.
+= 시내에 약속이 하나 있어요. 업무상.
+JAKOB: Um sechs Uhr abends?
+= 저녁 여섯 시에요?
+OLBRICH: Im Rüstungsgeschäft gibt es keine Uhrzeit, Herr Wendt. Bis morgen.
+= 방산 업계엔 시간이란 게 없어요, 벤트 씨. 내일 봐요.
+JAKOB: Bis morgen. Schönen Abend.
+= 내일 뵐게요. 좋은 저녁 보내세요.
+JAKOB: Frau Demir? Hören Sie mich? Er geht gerade.
+= 데미르 씨? 들려요? 지금 나가요.
+AYLIN: Laut und deutlich. Welche Richtung?
+= 크고 또렷하게 들려요. 어느 방향이에요?
+JAKOB: Nicht zum Parkplatz. Er geht zu Fuß Richtung Wasser.
+= 주차장 쪽이 아니에요. 걸어서 물가 쪽으로 가요.
+AYLIN: Dann nimmt er den alten Elbtunnel. Von Steinwerder nach St. Pauli. Das ist der kürzeste Weg in die Stadt.
+= 그럼 옛 엘베 터널로 가는 거예요. 슈타인베르더에서 장크트 파울리로. 시내로 가는 가장 빠른 길이죠.
+JAKOB: Zu Fuß unter der Elbe? Ist das nicht kalt?
+= 엘베 강 밑을 걸어서요? 춥지 않아요?
+AYLIN: Kälter als hier oben ist es nicht. Folgen Sie ihm. Aber halten Sie Abstand. Mindestens dreißig Meter.
+= 여기 위보다 춥진 않아요. 따라가요. 하지만 거리를 둬요. 최소 30미터.
+JAKOB: Dreißig Meter in einem Tunnel? Da sieht er mich doch sofort, wenn er sich umdreht.
+= 터널 안에서 30미터요? 돌아보면 바로 보일 텐데요.
+AYLIN: Dann seien Sie ein Tourist. Machen Sie Fotos von den Kacheln. Das machen alle.
+= 그럼 관광객이 돼요. 타일 사진을 찍어요. 다들 그래요.
+JAKOB: Ich habe noch nie jemanden beschattet. Im Archiv folgt man nur Fußnoten.
+= 저 누굴 미행해 본 적 없어요. 기록보관소에선 각주만 따라가요.
+AYLIN: Dann ist das heute Ihre erste Fußnote. Gehen Sie.
+= 그럼 오늘이 당신의 첫 각주네요. 가요.
+#SECTION 전개 1 — UNTER DER ELBE
+JAKOB: Ich bin am Eingang. Hier ist ein alter Aufzug. Ein Käfig aus Holz und Eisen.
+= 입구에 왔어요. 오래된 엘리베이터가 있네요. 나무랑 쇠로 된 우리 같은 거요.
+AYLIN: Den hat man 1911 gebaut. Früher sind damit Pferdewagen nach unten gefahren.
+= 1911년에 만든 거예요. 예전엔 그걸로 마차가 내려갔대요.
+JAKOB: Olbrich nimmt die Treppe. Ich warte einen Moment und nehme den Aufzug.
+= 올브리히는 계단으로 가요. 잠깐 기다렸다가 전 엘리베이터를 탈게요.
+AYLIN: Gut. So kommen Sie nicht direkt hinter ihm an.
+= 좋아요. 그러면 바로 뒤에 붙지 않게 되죠.
+JAKOB: Unten ist es heller, als ich dachte. Weiße Kacheln, überall. Und Fische an der Wand.
+= 아래가 생각보다 밝아요. 사방이 흰 타일이에요. 그리고 벽에 물고기가 있어요.
+AYLIN: Keramikfische. Und Krebse und alte Stiefel. Die Bauarbeiter fanden das damals witzig.
+= 도자기 물고기예요. 게랑 낡은 장화도 있어요. 당시 공사 인부들이 그게 재밌다고 생각했대요.
+JAKOB: Er läuft schnell. Er schaut auf sein Handy.
+= 빨리 걸어요. 휴대폰을 보고 있어요.
+AYLIN: Telefoniert er?
+= 통화해요?
+JAKOB: Nein, er schreibt. Und jetzt lächelt er.
+= 아니요, 문자를 써요. 그리고 지금 웃고 있어요.
+AYLIN: Ein Spion, der lächelt? Das ist selten.
+= 웃는 스파이요? 드문 일이네요.
+JAKOB: Hier unten ist Funkloch, oder? Wie kann er schreiben?
+= 여기 아래는 신호가 안 터지지 않아요? 어떻게 문자를 써요?
+AYLIN: Seit ein paar Jahren gibt es Empfang im Tunnel. Sonst würden Sie mich auch nicht hören.
+= 몇 년 전부터 터널에서도 신호가 잡혀요. 아니면 당신도 제 말이 안 들리겠죠.
+JAKOB: Stimmt. Entschuldigung, ich bin nervös.
+= 그렇네요. 미안해요, 긴장했어요.
+AYLIN: Das ist normal. Atmen Sie ruhig. Wie lang ist der Tunnel noch?
+= 정상이에요. 천천히 숨 쉬어요. 터널은 얼마나 남았어요?
+JAKOB: Vielleicht noch zweihundert Meter. Ein Jogger kommt mir entgegen. Und zwei Touristen mit Fahrrädern.
+= 아마 200미터쯤요. 조깅하는 사람이 마주 와요. 자전거 탄 관광객 둘도요.
+AYLIN: Gut. Das ist Ihre Tarnung. Bleiben Sie zwischen den Leuten.
+= 좋아요. 그게 당신 위장이에요. 사람들 사이에 있어요.
+JAKOB: Er bleibt stehen. Er dreht sich um.
+= 멈췄어요. 뒤를 돌아봐요.
+AYLIN: Machen Sie ein Foto. Von der Wand. Jetzt.
+= 사진 찍어요. 벽을요. 지금.
+JAKOB: Ein Fisch mit einem Hut. Schönes Foto.
+= 모자 쓴 물고기네요. 사진 잘 나왔어요.
+AYLIN: Und?
+= 그래서요?
+JAKOB: Er geht weiter. Er hat mich nicht gesehen. Glaube ich.
+= 다시 걸어요. 저를 못 본 것 같아요. 아마도요.
+AYLIN: „Glaube ich" ist in unserem Beruf ein gefährlicher Satz.
+= '아마도요'는 우리 일에서 위험한 말이에요.
+JAKOB: Im Archiv auch. Er nimmt die Treppe nach oben. Auf der Seite von St. Pauli.
+= 기록보관소에서도요. 위로 올라가는 계단으로 가요. 장크트 파울리 쪽이요.
+#SECTION 전개 2 — ZUM ANKER
+JAKOB: Er ist oben. Landungsbrücken. Jetzt geht er nach links, Richtung Hafenstraße.
+= 위로 나왔어요. 란둥스브뤼켄이요. 이제 왼쪽으로, 하펜 거리 쪽으로 가요.
+AYLIN: Dort gibt es viele Kneipen. Und viele Hinterausgänge.
+= 거긴 술집이 많아요. 뒷문도 많고요.
+JAKOB: Er geht in eine Kneipe. „Zum Anker". Ein kleines Haus mit grüner Tür.
+= 술집에 들어가요. '추름 안커'. 초록색 문이 있는 작은 집이에요.
+AYLIN: Gehen Sie rein. Setzen Sie sich an die Theke. Bestellen Sie ein Bier und trinken Sie langsam.
+= 들어가요. 바에 앉아요. 맥주를 시키고 천천히 마셔요.
+HEIN: Moin! Komm rein, mach die Tür zu, es zieht. Was darf's sein?
+= 모인! 들어와, 문 닫아, 바람 들어와. 뭐 줄까?
+JAKOB: Moin. Ein Pils, bitte.
+= 모인. 필스 한 잔 주세요.
+HEIN: Ein Pils kommt. Dich hab ich hier noch nie gesehen. Tourist?
+= 필스 나가요. 여기서 처음 보는 얼굴인데. 관광객이야?
+JAKOB: Nein, ich arbeite drüben auf der Werft. Seit einer Woche.
+= 아뇨, 건너편 조선소에서 일해요. 일주일 됐어요.
+HEIN: Auf der Werft! Dann bist du hier richtig. Die Hälfte meiner Gäste baut Schiffe. Die andere Hälfte versenkt sie. Mit Schnaps.
+= 조선소라고! 그럼 제대로 왔네. 우리 손님 절반은 배를 만들어. 나머지 절반은 배를 가라앉히지. 독한 술로.
+JAKOB: Klingt nach einem guten Gleichgewicht.
+= 균형이 잘 맞는 것 같네요.
+HEIN: Dat is so. Ich bin Hein. Und du?
+= 그렇지. 난 하인이야. 넌?
+JAKOB: Jan. Jan Wendt.
+= 얀이요. 얀 벤트.
+HEIN: Kein Hamburger, oder? Du klingst nach Berlin.
+= 함부르크 사람 아니지? 베를린 말투인데.
+JAKOB: Man hört es sofort, was?
+= 바로 티가 나죠?
+HEIN: Bei „Pils" nicht. Aber bei „Moin". Ein Berliner sagt Moin immer ein bisschen zu laut.
+= '필스'에선 안 나. 근데 '모인'에서 나지. 베를린 사람은 모인을 늘 조금 너무 크게 말하거든.
+HEIN: Und? Habt ihr drüben schon wieder Besuch von oben gehabt?
+= 그래서? 건너편엔 또 하늘에서 손님 왔었어?
+JAKOB: Besuch von oben? Meinst du die Drohne?
+= 하늘에서 손님이요? 드론 말이에요?
+HEIN: Klar. Letzte Woche stand die halbe Kneipe draußen und hat nach oben geguckt. Wie Kinder bei einem Feuerwerk.
+= 당연하지. 지난주엔 술집 손님 절반이 밖에 나가서 하늘만 쳐다봤어. 불꽃놀이 보는 애들처럼.
+JAKOB: Und? Hat jemand gesehen, wem sie gehört?
+= 그래서요? 누구 건지 본 사람 있어요?
+HEIN: Niemand. Die Polizei kam erst nach einer Stunde. Da war das Ding längst weg.
+= 아무도. 경찰은 한 시간 뒤에나 왔어. 그때 그건 벌써 사라졌지.
+HEIN: Mein Nachbar sagt, das sind die Russen. Mein anderer Nachbar sagt, das sind Kinder mit zu viel Taschengeld.
+= 옆집 사람은 러시아 놈들이래. 다른 옆집 사람은 용돈 너무 많이 받은 애들이래.
+JAKOB: Und was sagst du?
+= 하인 씨는 뭐라고 하는데요?
+HEIN: Ich sage: Wat mutt, dat mutt. Ich zapfe Bier. Wer oben fliegt, ist mir egal, solange er unten bezahlt.
+= 난 이렇게 말하지. 할 건 해야지. 난 맥주나 따라. 위에서 누가 날든 상관없어, 아래에서 계산만 하면.
+AYLIN: Wo ist Olbrich?
+= 올브리히는 어디 있어요?
+JAKOB: Hinten in der Ecke. Er sitzt mit einer Frau an einem Tisch. Blonde Haare, roter Schal.
+= 뒤쪽 구석이요. 여자랑 테이블에 앉아 있어요. 금발, 빨간 목도리.
+AYLIN: Kennen Sie die Frau?
+= 그 여자 알아요?
+JAKOB: Ich glaube, ich habe sie in der Kantine gesehen. Sie arbeitet auch auf der Werft.
+= 구내식당에서 본 것 같아요. 그 사람도 조선소에서 일해요.
+HEIN: Mit wem redest du eigentlich die ganze Zeit? Mit deinem Bier?
+= 아까부터 누구랑 얘기하는 거야? 맥주랑?
+JAKOB: Mit meiner Mutter. Kopfhörer. Sie ruft jeden Abend an.
+= 어머니랑요. 이어폰이에요. 매일 저녁 전화하세요.
+HEIN: Grüß sie von mir. Mütter muss man ehren.
+= 내 안부도 전해 줘. 어머니는 공경해야지.
+AYLIN: Ihre Mutter, ja? Sehr schmeichelhaft.
+= 어머니요? 아주 영광이네요.
+JAKOB: Entschuldigung. Mir ist nichts Besseres eingefallen.
+= 미안해요. 더 좋은 게 생각이 안 났어요.
+AYLIN: Können Sie hören, was die beiden sagen?
+= 둘이 하는 말 들려요?
+JAKOB: Nur Teile. Er sagt: „Nicht im Büro. Dort sehen uns alle."
+= 조금만요. 그가 이렇게 말해요. "사무실에선 안 돼. 거긴 다들 우릴 봐."
+AYLIN: Weiter.
+= 계속해요.
+JAKOB: Sie sagt: „Wie lange soll das noch so gehen? Freitag ist immer zu kurz."
+= 여자가 말해요. "언제까지 이렇게 해야 해? 금요일은 늘 너무 짧아."
+AYLIN: Freitag. Interessant.
+= 금요일이라. 흥미롭네요.
+JAKOB: Und er sagt: „Ich rede mit ihr. Nach dem Vertrag. Versprochen."
+= 그리고 그가 말해요. "그 사람이랑 얘기할게. 계약 끝나고. 약속해."
+AYLIN: Mit „ihr"? Mit wem?
+= '그 사람'이요? 누구랑요?
+JAKOB: Frau Demir, ich glaube, das ist kein Spionagetreffen.
+= 데미르 씨, 이거 스파이 접선이 아닌 것 같아요.
+#SECTION 위기 — ENTDECKT
+OLBRICH: Herr Wendt? Was machen Sie denn hier?
+= 벤트 씨? 여기서 뭐 하는 거예요?
+JAKOB: Dr. Olbrich! So ein Zufall. Ich trinke ein Bier. Hein sagt, alle von der Werft kommen hierher.
+= 올브리히 박사님! 이런 우연이. 맥주 마시고 있어요. 하인 씨가 조선소 사람들은 다 여기 온대요.
+HEIN: Stimmt. Die Hälfte meiner Gäste.
+= 맞아. 우리 손님 절반이야.
+OLBRICH: Sind Sie mir gefolgt?
+= 저를 따라온 거예요?
+JAKOB: Gefolgt? Warum sollte ich Ihnen folgen?
+= 따라오다니요? 제가 왜 박사님을 따라와요?
+OLBRICH: Hat meine Frau Sie geschickt? Oder Frau Ahlers?
+= 제 아내가 보냈어요? 아니면 알러스 씨가?
+JAKOB: Ihre Frau? Ich kenne Ihre Frau gar nicht.
+= 박사님 부인이요? 전 부인을 전혀 몰라요.
+ANNIKA: Marc, setz dich. Du machst eine Szene.
+= 마르크, 앉아. 소란 피우지 마.
+OLBRICH: Annika, das ist der Neue aus der Konstruktion. Seit einer Woche da, und schon sitzt er in unserer Kneipe.
+= 아니카, 이 사람 설계실 신입이야. 온 지 일주일 됐는데 벌써 우리 술집에 앉아 있잖아.
+ANNIKA: Hallo. Ich bin Annika, aus dem Vertrieb. Wir haben uns in der Kantine gesehen, oder?
+= 안녕하세요. 영업부 아니카예요. 구내식당에서 본 적 있죠?
+JAKOB: Ja, ich glaube schon. Hallo.
+= 네, 그런 것 같아요. 안녕하세요.
+OLBRICH: Herr Wendt, ich frage Sie direkt. Was haben Sie gehört?
+= 벤트 씨, 직접 물을게요. 뭘 들었어요?
+JAKOB: Ehrlich? Nicht viel. Nur, dass Freitag immer zu kurz ist.
+= 솔직히요? 별로요. 금요일이 늘 너무 짧다는 것만요.
+ANNIKA: Na toll.
+= 아이고, 잘됐네.
+OLBRICH: Hören Sie. Meine Ehe ist seit zwei Jahren vorbei. Nur auf dem Papier noch nicht.
+= 들어 봐요. 제 결혼은 2년 전에 끝났어요. 서류상으로만 아직 안 끝났을 뿐이에요.
+OLBRICH: Aber wenn das jetzt in der Firma herumgeht, kurz vor dem großen Vertrag… Das kann ich nicht gebrauchen.
+= 그런데 이게 지금 회사에 퍼지면, 큰 계약 직전에… 그건 곤란해요.
+JAKOB: Dr. Olbrich, das ist Ihr Privatleben. Das geht mich nichts an.
+= 올브리히 박사님, 그건 박사님 사생활이에요. 제가 상관할 일이 아니에요.
+OLBRICH: Also kein Wort? Zu niemandem?
+= 그러니까 한마디도 안 할 거죠? 아무한테도?
+JAKOB: Kein Wort. Ich bin neu. Ich will mir keine Feinde machen.
+= 한마디도요. 저 신입이에요. 적을 만들고 싶지 않아요.
+OLBRICH: Kluger Mann. Hein, ein Pils für den Kollegen. Auf meine Rechnung.
+= 현명하네요. 하인, 이 동료한테 필스 한 잔. 내 앞으로.
+ANNIKA: Seit wann gehen wir eigentlich am Dienstag und am Freitag hierher, Marc?
+= 마르크, 우리 화요일이랑 금요일마다 여기 온 지 얼마나 됐지?
+OLBRICH: Seit Oktober. Jeden Dienstag und jeden Freitag. Nur letzten Freitag nicht, da musste ich bis zehn arbeiten.
+= 10월부터. 화요일마다, 금요일마다. 지난 금요일만 빼고. 그날은 열 시까지 일해야 했거든.
+ANNIKA: Und dann bist du um halb elf gekommen. Ich habe hier eine Stunde gewartet.
+= 그래서 열 시 반에 왔잖아. 나 여기서 한 시간 기다렸어.
+HEIN: Kann ich bezeugen. Sie hat drei Tee getrunken und mich ganz verrückt gemacht.
+= 내가 증언할 수 있어. 차를 세 잔이나 마시고 날 완전히 돌게 만들었다니까.
+JAKOB: Bis zehn im Büro? Am Freitag? War da sonst noch jemand?
+= 금요일에 열 시까지 사무실에요? 다른 사람도 있었어요?
+OLBRICH: Niemand. Die ganze Etage war dunkel. Nur in der IT war noch Licht. Die arbeiten ja immer.
+= 아무도요. 층 전체가 깜깜했어요. IT 쪽에만 불이 켜져 있었죠. 거긴 늘 일하잖아요.
+JAKOB: Verstehe.
+= 그렇군요.
+AYLIN: Herr Wendt, fragen Sie nicht weiter. Sonst fällt es auf.
+= 벤트 씨, 더 묻지 마요. 그러다 티 나요.
+#SECTION 결말 — GRÜSSE AUS LICHTENBERG
+HEIN: Na, Jan? Noch ein Bier? Der Herr Doktor ist weg. Er bezahlt zum ersten Mal seit Oktober.
+= 얀, 한 잔 더? 박사 양반은 갔어. 10월 이후로 처음 계산하고 갔네.
+JAKOB: Nein danke, Hein. Ich muss morgen früh raus.
+= 아뇨, 괜찮아요, 하인 씨. 내일 일찍 나가야 해요.
+HEIN: Komm wieder. Und sag deiner Mutter, sie soll nicht so viel telefonieren.
+= 또 와. 그리고 어머니한테 너무 전화 많이 하지 마시라고 전해.
+JAKOB: Mache ich. Tschüss.
+= 그럴게요. 안녕히 계세요.
+AYLIN: Also. Ihr Fazit?
+= 자. 결론은요?
+JAKOB: Olbrich ist kein Spion. Er ist nur ein Mann mit einem schlechten Gewissen und einer Freundin.
+= 올브리히는 스파이가 아니에요. 그냥 양심에 찔리는 일이 있고 여자 친구가 있는 남자일 뿐이에요.
+AYLIN: Und letzten Freitag um dreiundzwanzig Uhr saß er hier. Mit Zeugen.
+= 그리고 지난 금요일 23시에 그는 여기 앉아 있었고요. 증인도 있고.
+JAKOB: Hein und drei Tassen Tee. Ein besseres Alibi gibt es nicht.
+= 하인 씨랑 차 세 잔이요. 이보다 확실한 알리바이는 없죠.
+AYLIN: Dann bleiben zwei. Harmsen und Koval.
+= 그럼 둘 남았네요. 하름센과 코발.
+JAKOB: Und das Licht in der IT.
+= 그리고 IT 쪽의 불빛도요.
+AYLIN: Die IT-Abteilung hat zwölf Leute. Die arbeiten oft spät. Das bedeutet nichts.
+= IT 부서는 열두 명이에요. 자주 늦게까지 일하죠. 별 의미 없어요.
+JAKOB: Wahrscheinlich nicht. Ich wollte es nur aufschreiben.
+= 아마 그렇겠죠. 그냥 적어 두고 싶었어요.
+AYLIN: Natürlich. Der Archivar. Gute Nacht, Herr Wendt. Gute erste Fußnote.
+= 그렇겠죠. 기록 담당자니까. 잘 자요, 벤트 씨. 첫 각주 잘 썼어요.
+JAKOB: Gute Nacht, Frau Demir.
+= 안녕히 주무세요, 데미르 씨.
+JAKOB: Mein Diensthandy vibriert. Nein, das andere. Das Handy von Jan Wendt.
+= 업무용 휴대폰이 울리네. 아니, 다른 거네. 얀 벤트의 휴대폰.
+JAKOB: Eine Nachricht. Unbekannte Nummer. Diese Nummer kennen nur die Werft und Frau Demir.
+= 문자 하나. 모르는 번호야. 이 번호는 조선소랑 데미르 씨만 아는데.
+JAKOB: Kein Text. Nur ein Foto. Ein Plattenbau. Elfter Stock. Das Küchenfenster meiner Mutter.
+= 글은 없고 사진 한 장뿐이야. 조립식 아파트. 11층. 우리 엄마 부엌 창문.
+JAKOB: Und darunter jetzt doch drei Wörter. Mit einer kleinen Blume.
+= 그리고 그 아래에 이제 세 단어가 떠. 작은 꽃이랑 같이.
+JAKOB: „Grüße aus Lichtenberg."
+= "리히텐베르크에서 안부를."
+#NEXT
+2부 5화 — «Vier Versionen»(네 가지 판본) — 목요일 아침, 카트린이 압력 선체 용접 사양서 네 판본을 조용히 배포한다. 주말에 하름센은 야콥을 핑켄베르더 보트 창고로 불러 겨울잠 자는 '앙케'호 위에서 그로그를 건네고, 두 사람은 아내를 잃은 이야기와 이혼 이야기를 나눈다. 그러나 금요일 밤 포럼에 올라온 것은 하름센의 판본이었다.

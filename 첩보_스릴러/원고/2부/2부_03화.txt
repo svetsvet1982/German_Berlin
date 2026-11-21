@@ -1,0 +1,284 @@
+#META
+part: 2
+episode: 3
+title: Fischmarkt, fünf Uhr
+subtitle_ko: 새벽 다섯 시 피시마르크트
+place_ko: 일요일 새벽, 알토나 피시마르크트
+setting: 2027년 2월 7일(일) 새벽 다섯 시, 함부르크 알토나의 피시마르크트와 엘베 강변
+level: B1+
+#CAST
+JAKOB | BfV 파견 요원 · 조선소에서는 엔지니어 '얀 벤트' · 44세
+AYLIN | BfV 방첩부 팀장 · 야콥의 관리관 · 41세
+HÄNDLER | 피시마르크트의 생선 상인
+KATRIN | 노르드섹 IT 보안 컨설턴트로 조선소에 잠입 · 39세 (전화)
+#INTRO
+※ 지난 금요일 밤 23시, 다크웹 포럼 '티프제(Tiefsee)'에 잠수함 외피의 소음 흡수 타일 도면 일부가 올라왔습니다. 수요일에 야콥이 설계실에서 처음 본 바로 그 도면이었습니다. 일요일 새벽, 야콥은 관리관 아일린 데미르를 처음으로 현장 밖에서 만납니다. 장소는 관광객과 밤샘한 사람들이 뒤섞이는 알토나 피시마르크트. 생선 상인들의 외침 사이에서 두 사람은 '외부 드론' 이론과 '내부자' 이론을 놓고 맞서고, 용의자를 가려낼 함정을 설계합니다. 야콥과 아일린은 아직 Sie를 씁니다. 야콥과 카트린은 둘만 있을 때 du를 씁니다. 표현 초점: 수사·추론 어휘 — Köder, Falle, Verdächtige, Zugriff, Zufall, auffällig, ausschließen.
+#SECTION 도입 — FÜNF UHR AM FISCHMARKT
+HÄNDLER: Moin, moin! Aale, Aale, frische Aale! Wer jetzt nicht kauft, ist selber schuld!
+= 모인, 모인! 장어, 장어, 싱싱한 장어! 지금 안 사면 본인 손해예요!
+JAKOB: Entschuldigung, ich suche eigentlich nur einen Kaffee.
+= 실례지만, 전 사실 커피만 찾고 있어요.
+HÄNDLER: Kaffee? Um fünf Uhr am Sonntag? Hier gibt's Fisch, junger Mann. Kaffee gibt's in der Halle.
+= 커피요? 일요일 새벽 다섯 시에? 여긴 생선 파는 데예요, 젊은 양반. 커피는 홀에 있어요.
+AYLIN: Zwei Fischbrötchen, bitte. Mit Zwiebeln. Und eins für meinen Kollegen.
+= 생선 빵 두 개 주세요. 양파 넣어서요. 그리고 제 동료 것도 하나요.
+JAKOB: Frau Demir. Ich habe Sie fast nicht erkannt.
+= 데미르 씨. 거의 못 알아볼 뻔했어요.
+AYLIN: Das ist der Sinn einer Mütze, Herr Wendt. Guten Morgen.
+= 그게 모자를 쓰는 이유죠, 벤트 씨. 좋은 아침이에요.
+JAKOB: Ist es Morgen? Es fühlt sich an wie Nacht.
+= 지금이 아침이에요? 밤 같은데요.
+AYLIN: Für die Leute hier ist es beides. Die einen kommen aus der Disco, die anderen gehen zur Arbeit.
+= 여기 사람들한텐 둘 다예요. 클럽에서 나온 사람도 있고, 일하러 가는 사람도 있죠.
+HÄNDLER: Drei Fischbrötchen, zwölf Euro. Und die Dame bekommt noch einen Aal geschenkt!
+= 생선 빵 세 개, 12유로요. 그리고 숙녀분은 장어 한 마리 덤으로!
+AYLIN: Danke, aber ich nehme lieber keinen Aal mit ins Büro.
+= 고맙지만, 장어를 사무실에 들고 가진 않을래요.
+HÄNDLER: Büro! Am Sonntag! Ihr jungen Leute arbeitet zu viel. Schönen Sonntag noch!
+= 사무실이라니! 일요일에! 젊은 사람들은 일을 너무 많이 해. 좋은 일요일 보내요!
+JAKOB: Warum treffen wir uns eigentlich hier? Ihr Büro in Hammerbrook hat doch eine Heizung.
+= 그런데 왜 여기서 만나는 거예요? 함머브로크 사무실엔 난방도 있잖아요.
+AYLIN: Weil hier niemand zuhört. Bei diesem Lärm kann man alles sagen.
+= 여긴 아무도 엿듣지 않으니까요. 이렇게 시끄러우면 무슨 말이든 할 수 있어요.
+JAKOB: Und Ihr Büro? Hört dort jemand zu?
+= 그럼 사무실은요? 거기선 누가 엿들어요?
+AYLIN: Dazu kommen wir noch. Zuerst: Wie war Ihre erste Woche als Jan Wendt?
+= 그 얘긴 나중에 해요. 먼저요. 얀 벤트로서 첫 주는 어땠어요?
+JAKOB: Anstrengend. Ich muss jeden Abend Fachbücher lesen, damit ich am nächsten Tag nichts Falsches sage.
+= 힘들었어요. 다음 날 틀린 말을 안 하려고 매일 저녁 전공 서적을 읽어야 해요.
+AYLIN: Und Harmsen? Glaubt er Ihnen?
+= 하름센은요? 당신을 믿어요?
+JAKOB: Er hat mich gestern zum Bier eingeladen. Ich glaube, das heißt ja.
+= 어제 저한테 맥주를 사겠다고 했어요. 믿는다는 뜻 같아요.
+AYLIN: Gut. Dann reden wir jetzt über Freitagnacht.
+= 좋아요. 그럼 이제 금요일 밤 얘기를 해요.
+#SECTION 전개 1 — DIE DROHNEN
+AYLIN: Freitag, dreiundzwanzig Uhr vier. Das Forum „Tiefsee". Wieder ein Stück Kormoran.
+= 금요일, 23시 4분. '티프제' 포럼. 또 코르모란 한 조각.
+JAKOB: Die Dämmkacheln. Ein Ausschnitt aus Zeichnung siebzehn. Ich habe sie am Mittwoch zum ersten Mal gesehen.
+= 소음 흡수 타일이요. 17번 도면의 일부예요. 수요일에 처음 봤어요.
+AYLIN: Am Mittwoch. Und am Freitag ist sie schon im Netz. Das ist schnell.
+= 수요일에요. 그런데 금요일엔 벌써 인터넷에 올라왔네요. 빠르네요.
+JAKOB: Frau Demir, haben Sie das Profilbild gesehen? Von dem Konto, das die Zeichnung hochgeladen hat?
+= 데미르 씨, 프로필 사진 보셨어요? 도면을 올린 계정 말이에요.
+AYLIN: Eine kleine Blume. Warum?
+= 작은 꽃이요. 왜요?
+JAKOB: Weil ich diese Blume kenne. Aus Berlin.
+= 그 꽃을 알거든요. 베를린에서 봤어요.
+AYLIN: Erzählen Sie.
+= 얘기해 봐요.
+JAKOB: Der Junge, der mich im November verfolgt hat, hat seine Fotos an ein Konto mit genau dieser Blume geschickt.
+= 11월에 저를 미행한 청년이 바로 이 꽃이 있는 계정으로 사진을 보냈어요.
+JAKOB: Und die Journalistin hat einen anonymen Hinweis bekommen. Am Ende der Mail: dieselbe Blume.
+= 그리고 그 기자가 익명 제보를 받았는데, 메일 끝에 똑같은 꽃이 있었어요.
+AYLIN: Eine Blume ist ein Emoji, Herr Wendt. Millionen Menschen benutzen Blumen.
+= 꽃은 이모티콘이에요, 벤트 씨. 수백만 명이 꽃을 써요.
+JAKOB: Nicht diese. Sie hat fünf Blätter, und ein Blatt ist schwarz. Das ist kein normales Emoji.
+= 이건 아니에요. 꽃잎이 다섯 장인데 한 장이 검은색이에요. 보통 이모티콘이 아니에요.
+AYLIN: Das prüfen wir. Aber die Werftleitung hat eine ganz andere Theorie.
+= 그건 확인해 볼게요. 그런데 조선소 경영진은 전혀 다른 이론을 갖고 있어요.
+JAKOB: Die Drohnen.
+= 드론이요.
+AYLIN: Genau. Frau Ahlers hat mich gestern zweimal angerufen. Letzte Woche flog wieder eine Drohne über Halle sieben.
+= 맞아요. 알러스 씨가 어제 두 번이나 전화했어요. 지난주에 또 드론이 7번 홀 위를 날아갔대요.
+JAKOB: Davon haben alle in der Kantine geredet. Manche sagen, sie hat Handydaten gesammelt.
+= 구내식당에서 다들 그 얘기를 했어요. 어떤 사람들은 드론이 휴대폰 데이터를 모았대요.
+AYLIN: Das ist möglich. Solche Drohnen gibt es. Sie fliegen über ein Gelände und fangen Signale ab.
+= 그럴 수 있어요. 그런 드론이 있거든요. 부지 위를 날면서 신호를 가로채요.
+JAKOB: Aber eine Konstruktionszeichnung liegt nicht auf einem Handy. Sie liegt auf einem gesicherten Server.
+= 하지만 설계 도면은 휴대폰에 있지 않아요. 보안 서버에 있죠.
+AYLIN: Das habe ich Frau Ahlers auch gesagt. Sie wollte es nicht hören.
+= 저도 알러스 씨한테 그렇게 말했어요. 듣고 싶어 하지 않더군요.
+JAKOB: Warum nicht?
+= 왜요?
+AYLIN: Weil eine Drohne von außen kommt. Ein Verräter kommt von innen. Was ist für eine Werft angenehmer?
+= 드론은 밖에서 오니까요. 배신자는 안에서 오고요. 조선소 입장에선 어느 쪽이 더 편하겠어요?
+JAKOB: Die Drohne. Dann ist niemand in der Firma schuld.
+= 드론이죠. 그럼 회사 안에선 아무도 잘못이 없으니까요.
+AYLIN: Und dann gibt es keine schlechten Schlagzeilen, bevor der große Vertrag unterschrieben ist.
+= 그리고 큰 계약에 서명하기 전에 나쁜 기사도 안 나오고요.
+JAKOB: Und was glauben Sie?
+= 그럼 당신은 어떻게 생각해요?
+AYLIN: Ich glaube an Zahlen. Jeder Freitag, immer kurz nach elf. Eine Drohne hat keinen Wochenplan.
+= 저는 숫자를 믿어요. 매주 금요일, 항상 열한 시 조금 넘어서. 드론한텐 주간 계획표가 없어요.
+JAKOB: Ein Mensch schon.
+= 사람은 있죠.
+AYLIN: Ein Mensch, der am Freitagabend Zeit hat. Und der am Mittwoch Zeichnung siebzehn gesehen hat.
+= 금요일 저녁에 시간이 있는 사람. 그리고 수요일에 17번 도면을 본 사람.
+#SECTION 전개 2 — DIE VERDÄCHTIGEN
+JAKOB: Wollen wir uns setzen? Meine Füße sind Eis.
+= 좀 앉을까요? 발이 얼음이에요.
+AYLIN: Da drüben, an der Mauer. Mit Blick auf die Elbe. Dort hört uns niemand.
+= 저쪽, 담장 옆으로 가요. 엘베 강이 보이는 데. 거기선 아무도 못 들어요.
+JAKOB: Also, wer hat am Mittwoch Zeichnung siebzehn gesehen?
+= 그래서, 수요일에 17번 도면을 본 사람이 누구죠?
+AYLIN: Laut Protokoll elf Personen. Aber nur drei hatten auch Zugriff auf alle früheren Teile.
+= 기록상으로는 열한 명이요. 하지만 이전 조각들에도 전부 접근할 수 있었던 건 세 명뿐이에요.
+JAKOB: Lassen Sie mich raten. Harmsen, Olbrich und Frau Koval.
+= 맞혀 볼게요. 하름센, 올브리히, 그리고 코발 씨.
+AYLIN: Sie lernen schnell. Fangen wir mit Dr. Olbrich an.
+= 빨리 배우시네요. 올브리히 박사부터 시작하죠.
+JAKOB: Projektleiter. Ehrgeizig. Er redet viel über Karriere und wenig über Schiffe.
+= 프로젝트 매니저요. 야심가예요. 경력 얘기는 많이 하고 배 얘기는 적게 해요.
+AYLIN: Und er verlässt das Büro seit Wochen immer zur gleichen Zeit. Dienstags und freitags.
+= 그리고 몇 주째 늘 같은 시간에 사무실을 나가요. 화요일과 금요일에요.
+JAKOB: Das ist auffällig.
+= 그거 눈에 띄네요.
+AYLIN: Sehr. Und Frau Koval?
+= 아주요. 코발 씨는요?
+JAKOB: Sie ist die beste Schweißingenieurin in der Halle. Das sagt sogar Harmsen.
+= 홀에서 제일 뛰어난 용접 엔지니어예요. 하름센도 그렇게 말해요.
+AYLIN: Sie kommt aus Mykolajiw. Ihr Bruder ist an der Front. Sie telefoniert jeden Abend mit der Ukraine.
+= 미콜라이우 출신이죠. 오빠가 전선에 있어요. 매일 저녁 우크라이나와 통화해요.
+JAKOB: Das macht sie doch nicht zur Verdächtigen. Das macht sie zu einer Schwester.
+= 그렇다고 용의자가 되는 건 아니잖아요. 그건 그냥 여동생인 거죠.
+AYLIN: Familie im Krieg kann man erpressen, Herr Wendt. Das wissen Sie so gut wie ich.
+= 전쟁 중인 가족은 협박당할 수 있어요, 벤트 씨. 당신도 저만큼 잘 알잖아요.
+JAKOB: Und Harmsen?
+= 그럼 하름센은요?
+AYLIN: Sie klingen, als wollten Sie ihn schon verteidigen.
+= 벌써 그를 변호하고 싶은 사람처럼 말하네요.
+JAKOB: Ich will niemanden verteidigen. Ich will nur keinen Fehler machen.
+= 누굴 변호하려는 게 아니에요. 그냥 실수하고 싶지 않을 뿐이에요.
+AYLIN: Harmsen arbeitet seit fünfunddreißig Jahren dort. Er kennt jede Schraube. Und er hat einen Schlüssel für alles.
+= 하름센은 거기서 35년을 일했어요. 나사 하나까지 다 알죠. 그리고 모든 곳의 열쇠를 갖고 있어요.
+JAKOB: Am Montag hat jemand seinen Login benutzt. Nachts. Das hat er mir selbst erzählt.
+= 월요일에 누가 밤에 그의 계정을 썼어요. 그가 직접 말해 줬어요.
+AYLIN: Oder er erzählt es Ihnen, damit Sie genau das glauben.
+= 아니면 당신이 바로 그렇게 믿도록 말해 준 거거나요.
+JAKOB: Sie trauen niemandem, oder?
+= 아무도 안 믿죠, 그렇죠?
+AYLIN: Ich trinke Kaffee mit allen. Trauen ist etwas anderes.
+= 전 모두와 커피를 마셔요. 믿는 건 다른 문제고요.
+JAKOB: Und mir? Trauen Sie mir?
+= 그럼 저는요? 저는 믿어요?
+AYLIN: Sie haben eine Akte gefunden, die alle anderen verschwinden lassen wollten. Das ist ein Anfang.
+= 당신은 다른 사람들이 다 없애고 싶어 한 파일을 찾아낸 사람이에요. 시작으로는 괜찮죠.
+#SECTION 위기 — DIE FALLE
+JAKOB: Drei Verdächtige, und wir können keinen ausschließen. Was machen wir?
+= 용의자는 셋인데 한 명도 제외할 수가 없어요. 어떻게 하죠?
+AYLIN: Wir stellen eine Falle. Kennen Sie den Begriff „Köderdokument"?
+= 함정을 놓는 거예요. '미끼 문서'라는 말 알아요?
+JAKOB: Ein Dokument, das man jemandem gibt, um zu sehen, wohin es geht.
+= 어디로 흘러가는지 보려고 누군가에게 주는 문서요.
+AYLIN: Fast. Wir geben jedem Verdächtigen dasselbe Dokument. Aber jede Version ist ein bisschen anders.
+= 거의 맞아요. 용의자마다 같은 문서를 줘요. 그런데 판본마다 조금씩 달라요.
+JAKOB: Und wenn eine Version im Forum auftaucht, wissen wir, von wem sie kommt.
+= 그리고 어떤 판본이 포럼에 올라오면, 누구한테서 나왔는지 아는 거죠.
+AYLIN: Genau. Man nennt das auch eine Kanarienfalle. Wie der Vogel im Bergwerk.
+= 바로 그거예요. 카나리아 함정이라고도 해요. 탄광의 새처럼요.
+JAKOB: Welches Dokument nehmen wir?
+= 어떤 문서를 쓰죠?
+AYLIN: Etwas, das der Täter unbedingt haben will. Sie sind der Ingenieur. Sagen Sie es mir.
+= 범인이 꼭 갖고 싶어 할 만한 것이요. 엔지니어는 당신이잖아요. 말해 봐요.
+JAKOB: Die Schweißspezifikation für den Druckkörper. Das ist das Herz des Bootes.
+= 압력 선체의 용접 사양서요. 잠수함의 심장이에요.
+AYLIN: Warum gerade das?
+= 왜 하필 그거예요?
+JAKOB: Weil der Druckkörper bestimmt, wie tief das Boot tauchen kann. Jeder Geheimdienst der Welt will diese Zahlen.
+= 압력 선체가 잠수함이 얼마나 깊이 잠수할 수 있는지 결정하니까요. 세상 모든 정보기관이 그 숫자를 원해요.
+AYLIN: Gut. Wir machen vier Versionen. In jeder ist eine Zahl anders. Klein genug, dass es niemand merkt.
+= 좋아요. 판본을 네 개 만들어요. 판본마다 숫자 하나가 달라요. 아무도 눈치 못 챌 만큼 작게요.
+JAKOB: Welche Zahl? Wenn sie zu klein ist, sieht man sie im Forum nicht. Wenn sie zu groß ist, merkt es ein Ingenieur.
+= 어떤 숫자요? 너무 작으면 포럼에서 안 보이고, 너무 크면 엔지니어가 눈치채요.
+AYLIN: Sie sind der Fachmann. Was schlagen Sie vor?
+= 전문가는 당신이에요. 뭘 제안해요?
+JAKOB: Die Vorwärmtemperatur beim Schweißen. Hundertzwanzig Grad, hundertfünfundzwanzig, hundertdreißig, hundertfünfunddreißig.
+= 용접할 때의 예열 온도요. 120도, 125도, 130도, 135도.
+AYLIN: Und das fällt nicht auf?
+= 그게 눈에 안 띄어요?
+JAKOB: Für einen Laien sind es nur Zahlen. Für einen Ingenieur sind alle vier möglich. Darum glaubt jeder, seine Version ist die richtige.
+= 문외한한테는 그냥 숫자예요. 엔지니어한테는 넷 다 가능한 값이고요. 그래서 다들 자기 판본이 맞다고 믿을 거예요.
+AYLIN: Und wer hat welche Zahl?
+= 누가 어떤 숫자를 받죠?
+JAKOB: Das schreiben wir nirgends auf. Das merken wir uns. Nur wir beide.
+= 그건 어디에도 적지 말아요. 외워 두는 거예요. 우리 둘만.
+AYLIN: Ein Archivar, der nichts aufschreiben will? Das ist neu.
+= 아무것도 적지 않겠다는 기록 담당자라니요? 처음 보네요.
+JAKOB: Ein Archivar weiß am besten, wo Papier verloren geht.
+= 종이가 어디서 사라지는지는 기록 담당자가 제일 잘 알거든요.
+JAKOB: Vier? Wir haben doch nur drei Verdächtige.
+= 네 개요? 용의자는 셋뿐인데요.
+AYLIN: Die vierte geht auf den IT-Testserver. Falls doch jemand von außen kommt. Mit Drohne oder ohne.
+= 네 번째는 IT 시험 서버로 가요. 혹시 정말 외부에서 들어오는 거라면요. 드론이든 아니든.
+JAKOB: Und wer verteilt die Versionen? Wenn ich das mache, fällt es auf. Ich bin neu.
+= 판본은 누가 배포하죠? 제가 하면 눈에 띄어요. 전 신입이잖아요.
+AYLIN: Das muss technisch sauber laufen. Ohne Spuren im System.
+= 기술적으로 깔끔해야 해요. 시스템에 흔적 없이.
+JAKOB: Dann gibt es nur eine Person. Katrin.
+= 그럼 딱 한 사람이네요. 카트린.
+AYLIN: Frau Lorenz ist seit Montag auf dem Gelände. Sie hat Administratorrechte.
+= 로렌츠 씨는 월요일부터 현장에 있죠. 관리자 권한도 있고요.
+JAKOB: Sie kann die Versionen in die Postfächer legen. Niemand sieht, dass es vier verschiedene sind.
+= 판본들을 각자 우편함에 넣을 수 있어요. 네 개가 서로 다르다는 걸 아무도 못 봐요.
+AYLIN: Sie vertrauen ihr.
+= 그녀를 믿는군요.
+JAKOB: Wie mir selbst. Zehn Jahre im selben Keller. Sie hat mich im November nicht allein gelassen.
+= 저 자신만큼요. 10년을 같은 지하실에서 일했어요. 11월에 절 혼자 두지 않았고요.
+AYLIN: Rufen Sie sie an. Jetzt. Ich will hören, was sie sagt.
+= 전화해 봐요. 지금. 그녀가 뭐라고 하는지 듣고 싶어요.
+JAKOB: Um halb sechs am Sonntag? Sie wird mich hassen.
+= 일요일 다섯 시 반에요? 날 미워할 거예요.
+KATRIN: Jakob? Ist was passiert? Es ist mitten in der Nacht.
+= 야콥? 무슨 일 있어? 한밤중이잖아.
+JAKOB: Entschuldige. Ich bin mit Frau Demir am Fischmarkt. Wir brauchen dich. Lautsprecher ist an.
+= 미안해. 데미르 씨랑 피시마르크트에 있어. 네가 필요해. 스피커 켜 놨어.
+AYLIN: Guten Morgen, Frau Lorenz. Kurze Frage: Können Sie vier Versionen eines Dokuments verteilen, ohne dass es im System auffällt?
+= 좋은 아침이에요, 로렌츠 씨. 짧게 물을게요. 시스템에 티 안 나게 한 문서의 네 가지 판본을 배포할 수 있어요?
+KATRIN: Natürlich. Ich mache das über das Prüfwerkzeug. Das schaut sich niemand an außer mir.
+= 물론이죠. 감사 도구로 하면 돼요. 그건 저 말고 아무도 안 봐요.
+AYLIN: Bis wann?
+= 언제까지요?
+KATRIN: Donnerstagmorgen. Dann hat jeder seine Version, bevor der Freitag kommt.
+= 목요일 아침이요. 그럼 금요일이 오기 전에 다들 자기 판본을 받게 돼요.
+AYLIN: Gut. Dann machen wir das so.
+= 좋아요. 그럼 그렇게 하죠.
+KATRIN: Und Jakob? Ganz leise laut, ja?
+= 그리고 야콥? 아주 조용히 시끄럽게, 알지?
+JAKOB: Ganz leise laut. Schlaf weiter.
+= 아주 조용히 시끄럽게. 더 자.
+#SECTION 결말 — EIN LECK BEI UNS
+AYLIN: „Ganz leise laut"? Was heißt das?
+= '아주 조용히 시끄럽게'요? 그게 무슨 뜻이에요?
+JAKOB: Ein alter Witz aus dem Archiv. Man macht großen Lärm, aber so, dass es niemand hört.
+= 기록보관소 시절의 오래된 농담이에요. 큰 소동을 벌이되 아무도 못 듣게 하는 거요.
+AYLIN: Klingt nach meinem Beruf.
+= 제 직업 얘기 같네요.
+AYLIN: Ihnen ist klar, dass Frau Lorenz dann alle vier Versionen kennt? Nicht nur wir beide.
+= 그럼 로렌츠 씨도 네 판본을 다 알게 된다는 거, 알고 있죠? 우리 둘만이 아니라.
+JAKOB: Natürlich. Sie muss sie ja verteilen. Und?
+= 물론이죠. 배포를 해야 하니까요. 그래서요?
+AYLIN: Nichts. Ich sage es nur. Ich sage immer alles zweimal.
+= 아무것도 아니에요. 그냥 말해 두는 거예요. 전 뭐든 두 번 말하거든요.
+JAKOB: Katrin hat für mich ihren Job riskiert. Mehr muss ich nicht wissen.
+= 카트린은 저 때문에 자기 일자리를 걸었어요. 그 이상은 알 필요 없어요.
+HÄNDLER: Na, ihr zwei! Immer noch hier? Wollt ihr jetzt doch einen Aal?
+= 이봐요, 두 사람! 아직도 있어요? 이제 장어 살 거예요?
+AYLIN: Nein danke. Aber Sie haben recht, wir arbeiten zu viel.
+= 아뇨, 괜찮아요. 그래도 아저씨 말이 맞아요, 우리 일을 너무 많이 해요.
+JAKOB: Frau Demir, Sie wollten mir noch etwas sagen. Über Ihr Büro.
+= 데미르 씨, 저한테 아직 할 말이 있었잖아요. 사무실에 대해서요.
+AYLIN: Ja. Das ist der eigentliche Grund für den Fischmarkt.
+= 네. 그게 피시마르크트에서 만난 진짜 이유예요.
+HÄNDLER: Letzte Aale! Für die Frühaufsteher die Hälfte! Moin, moin!
+= 마지막 장어요! 일찍 일어난 분들은 반값! 모인, 모인!
+AYLIN: Ihre Legende, Jan Wendt, kennen in Köln nur sechs Menschen. Sechs.
+= 당신의 위장 신분, 얀 벤트를 쾰른에서 아는 사람은 여섯 명뿐이에요. 여섯.
+JAKOB: Und?
+= 그래서요?
+AYLIN: Am Mittwoch hat jemand in unserem System Ihre Personalakte geöffnet. Ohne Grund und ohne Namen.
+= 수요일에 누군가 우리 시스템에서 당신 인사 파일을 열었어요. 이유도 이름도 없이요.
+JAKOB: Am Mittwoch. Am selben Tag, an dem ich Zeichnung siebzehn gesehen habe.
+= 수요일이요. 제가 17번 도면을 본 바로 그날이네요.
+AYLIN: Zufall?
+= 우연일까요?
+JAKOB: Sie glauben nicht an Zufälle. Sie glauben an Zahlen.
+= 당신은 우연을 안 믿잖아요. 숫자를 믿죠.
+AYLIN: Richtig. Darum treffen wir uns ab jetzt nur noch hier. Oder an anderen lauten Orten.
+= 맞아요. 그래서 이제부터는 여기서만 만나요. 아니면 다른 시끄러운 곳에서.
+JAKOB: Was heißt das genau, Frau Demir?
+= 그게 정확히 무슨 뜻이에요, 데미르 씨?
+AYLIN: Es gibt Hinweise, dass das Leck auch bei uns sitzt.
+= 유출이 우리 쪽에도 있다는 단서가 있다는 뜻이에요.
+#NEXT
+2부 4화 — «Der alte Elbtunnel»(옛 엘베 터널) — 화요일 저녁, 야콥은 늘 같은 시간에 퇴근하는 올브리히를 따라 옛 엘베 터널을 걷는다. 장크트 파울리의 술집 '추름 안커'에서 올브리히가 만난 사람은 접선책일까. 그리고 집으로 가는 길, 위장용 휴대폰에 낯선 문자가 도착한다.
