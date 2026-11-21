@@ -54,6 +54,14 @@ JAKOB: Die Deiche haben gehalten.
 = 제방은 버텼네요.
 WIEBKE: Ja. Nur er nicht.
 = 네. 아빠만 못 버텼죠.
+JAKOB: Darf ich hier warten? Nur bis die Ärzte etwas sagen.
+= 여기서 기다려도 될까요? 의사들이 뭐라고 할 때까지만요.
+WIEBKE: Sie sitzen doch schon seit Stunden hier. Die Nachtschwester hat es mir erzählt.
+= 벌써 몇 시간째 앉아 계시잖아요. 야간 간호사가 말해 줬어요.
+JAKOB: Ich konnte sowieso nicht schlafen.
+= 어차피 잠을 못 잤을 거예요.
+WIEBKE: Ich hole Ihnen einen Tee. Der Kaffee hier ist eine Katastrophe.
+= 차 한 잔 갖다 드릴게요. 여기 커피는 재앙이에요.
 #SECTION 전개 1 — „SIE HABEN IHN AUSSPIONIERT"
 MATS: Tante Wiebke! Ich bin mit dem ersten Zug aus Kiel gekommen. Wie geht es Opa?
 = 비프케 고모! 킬에서 첫 기차 타고 왔어. 할아버지 어때?
@@ -166,6 +174,14 @@ JAKOB: Dann prüf auch mich. Ich habe nichts zu verbergen.
 = 그럼 나도 조사해. 난 숨길 게 없어.
 AYLIN: Das habe ich schon im Januar getan. Bevor du nach Hamburg kamst.
 = 그건 1월에 벌써 했어. 네가 함부르크에 오기 전에.
+JAKOB: Und Katrin? Hast du sie auch geprüft?
+= 카트린은? 그 사람도 조사했어?
+AYLIN: Natürlich. Ihre Akte war sauber. Sehr sauber.
+= 물론이지. 기록은 깨끗했어. 아주 깨끗했지.
+JAKOB: Heute sagst du das Wort „sauber" so wie gestern das Wort „perfekt".
+= 오늘은 "깨끗하다"는 말을 어제 "완벽하다"는 말처럼 하네.
+AYLIN: Du hast mir beigebracht, wie verdächtig ein sauberer Ordner ist.
+= 깨끗한 폴더가 얼마나 수상한지 네가 가르쳐 줬잖아.
 #SECTION 위기 — DER VPN-ZUGANG
 KATRIN: Herr Wendt, Frau Demir. Ich habe die Logs dabei, die Sie wollten.
 = 벤트 씨, 데미르 씨. 요청하신 기록 가져왔어요.
@@ -224,6 +240,10 @@ KATRIN: Stimmt. Herr Wendt. Der Sicherheitsraum hat einen Türcode. Sie haben ke
 = 맞네요. 벤트 씨. 보안실엔 출입 코드가 있어요. 벤트 씨는 권한이 없고요.
 JAKOB: Dann warte ich hier.
 = 그럼 여기서 기다릴게요.
+KATRIN: Wie geht es der Tochter?
+= 따님은 좀 어때요?
+JAKOB: Sie ist wütend. Auf mich. Sie hat recht.
+= 화가 났어요. 저한테요. 그럴 만하죠.
 KATRIN: Moment. Der Code ist immer so langsam.
 = 잠깐만요. 이 코드는 늘 이렇게 느려요.
 JAKOB: Soll ich mich umdrehen?
