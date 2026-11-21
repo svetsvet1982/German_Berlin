@@ -1,0 +1,286 @@
+#META
+part: 1
+episode: 2
+title: Deckname „Spree"
+subtitle_ko: 암호명 슈프레
+place_ko: 지하 창고에서 카트린의 차, 그리고 야콥의 부엌까지
+setting: 2026년 11월 9일(월) 밤 일곱 시 → 10일(화) 새벽 세 시, BND 지하 창고 · 카트린의 차 · 프리드리히스하인 야콥의 부엌
+level: B1
+#CAST
+JAKOB | BND 기록보관 부서 사무관 · 44세 · 베를린-리히텐베르크 출신
+KATRIN | 야콥의 10년 동료 기록 담당자 · 39세 · 포츠담 출신
+RADIO | 뉴스 라디오 아나운서 (가상 방송)
+LEA | 야콥의 딸 · 16세 · 김나지움 11학년, 농구부
+#INTRO
+※ 장벽 붕괴 37주년인 11월 9일 저녁, 야콥과 카트린은 AI 색인 카드 인식 프로그램 '카르타'의 경고를 따라가다 번호 없는 상자를 찾아냈고, 그 안에서 현직 국방장관 요아힘 크란츠의 이름이 적힌 서약서를 발견했습니다. 이번 화는 그날 밤의 이야기입니다. 두 사람은 슈타지 정보원 파일이 어떻게 생겼는지 하나씩 읽어 나가고, 파일을 어떻게 다룰지를 두고 처음으로 부딪칩니다. 10년 동료인 야콥과 카트린은 서로 du를 씁니다. 표현 초점: 슈타지 기록 어휘 — IM, Führungsoffizier, Treffbericht, Deckname, Verpflichtung.
+#SECTION 도입 — IM KELLER, NACH SIEBEN
+KATRIN: Es ist kurz nach sieben. Der Minister redet immer noch im Fernsehen.
+= 일곱 시 조금 넘었어. 장관은 아직도 TV에서 연설하고 있어.
+JAKOB: Mach den Ton aus, Katrin. Ich kann nicht denken.
+= 소리 좀 꺼, 카트린. 생각을 못 하겠어.
+KATRIN: Du kannst nicht denken, weil sein Name auf diesem Papier steht.
+= 생각을 못 하는 건 이 종이에 그 사람 이름이 있어서잖아.
+JAKOB: Ein Name ist noch kein Beweis. Es gibt viele Männer mit dem Namen Joachim Kranz.
+= 이름만으로는 증거가 안 돼. 요아힘 크란츠라는 남자는 많아.
+KATRIN: Mit Geburtsdatum? Hier steht: geboren am vierten Januar 1961 in Leipzig.
+= 생년월일까지? 여기 적혀 있어. 1961년 1월 4일 라이프치히 출생.
+JAKOB: Und der Minister?
+= 그럼 장관은?
+KATRIN: Moment, ich suche... Vierter Januar 1961, Leipzig. Das steht sogar auf seiner Webseite.
+= 잠깐, 찾아볼게... 1961년 1월 4일, 라이프치히. 심지어 그 사람 홈페이지에도 나와 있어.
+JAKOB: Gut. Dann lesen wir. Aber der Reihe nach.
+= 좋아. 그럼 읽자. 하지만 차례대로.
+KATRIN: Wie immer. Erste Seite?
+= 언제나처럼. 첫 장?
+JAKOB: Erste Seite. Lies vor, bitte. Langsam.
+= 첫 장. 소리 내서 읽어 줘. 천천히.
+KATRIN: „Verpflichtungserklärung. Ich, Joachim Kranz, verpflichte mich freiwillig, das Ministerium für Staatssicherheit zu unterstützen."
+= "서약서. 나 요아힘 크란츠는 국가보위부를 돕기로 자발적으로 서약한다."
+JAKOB: Freiwillig. Das haben sie immer geschrieben.
+= 자발적으로. 늘 그렇게 썼지.
+KATRIN: „Ich werde über diese Zusammenarbeit mit niemandem sprechen, auch nicht mit meiner Familie."
+= "나는 이 협력에 대해 누구에게도, 가족에게도 말하지 않겠다."
+JAKOB: Datum?
+= 날짜는?
+KATRIN: Leipzig, zwölfter März 1983. Und darunter die Unterschrift.
+= 라이프치히, 1983년 3월 12일. 그리고 그 아래 서명.
+JAKOB: Er war zweiundzwanzig. Ein Student.
+= 스물두 살이었네. 대학생.
+KATRIN: Ein Student mit einer sehr ordentlichen Handschrift.
+= 글씨가 아주 반듯한 대학생.
+JAKOB: Katrin, wir müssen das ernst nehmen. Das ist keine Geschichte für die Kantine.
+= 카트린, 이건 진지하게 다뤄야 해. 구내식당 잡담거리가 아니야.
+KATRIN: Ich nehme das sehr ernst. Deshalb bleibe ich hier und fahre nicht nach Hause.
+= 나 아주 진지해. 그래서 집에 안 가고 여기 있는 거야.
+JAKOB: Dann hol uns bitte zwei Kaffee. Das wird eine lange Nacht.
+= 그럼 커피 두 잔만 가져와 줘. 긴 밤이 될 거야.
+KATRIN: Schwarz, ich weiß. Du trinkst nie etwas anderes.
+= 블랙, 알아. 넌 다른 건 절대 안 마시지.
+#SECTION 전개 1 — WAS IST EIN IM?
+KATRIN: Also, Herr Archivar. Erklär mir die Akte. Ich kenne die Wörter, aber nicht das System.
+= 자, 아키비스트 선생님. 파일 좀 설명해 줘. 단어는 아는데 구조는 몰라.
+JAKOB: Eine IM-Akte hat meistens zwei Teile. Teil eins ist die Person.
+= IM 파일은 보통 두 부분으로 돼 있어. 1부는 사람에 관한 거야.
+KATRIN: IM — also ein inoffizieller Mitarbeiter.
+= IM — 그러니까 비공식 협력자.
+JAKOB: Genau. Kein Offizier, kein Angestellter. Ein normaler Mensch, der heimlich berichtet.
+= 맞아. 장교도 직원도 아니야. 몰래 보고하는 평범한 사람.
+KATRIN: Und was steht in Teil eins?
+= 그럼 1부엔 뭐가 있어?
+JAKOB: Lebenslauf, Familie, Freunde, Hobbys. Und warum die Stasi ihn ausgewählt hat.
+= 이력, 가족, 친구, 취미. 그리고 슈타지가 왜 그를 골랐는지.
+KATRIN: Hier: „Kandidat ist intelligent, ehrgeizig und hat Kontakte zu Studenten aus dem Westen."
+= 여기 있다. "후보자는 지적이고 야심이 있으며 서방 출신 학생들과 접촉이 있음."
+JAKOB: Ehrgeizig. Das passt zu einem Minister.
+= 야심이 있다. 장관한테 딱 맞네.
+KATRIN: Und Teil zwei?
+= 그럼 2부는?
+JAKOB: Teil zwei ist die Arbeit. Die Treffberichte.
+= 2부는 활동이야. 접선 보고서들.
+KATRIN: Treffbericht. Ein Bericht über ein Treffen?
+= 트레프베리히트. 만남에 대한 보고서?
+JAKOB: Ja. Der IM trifft seinen Führungsoffizier, und der Offizier schreibt danach alles auf.
+= 응. IM이 담당 장교를 만나면, 장교가 나중에 전부 적어.
+KATRIN: Führungsoffizier. Also der Chef von dem IM.
+= 담당 장교. 그러니까 IM의 상사네.
+JAKOB: Eher sein Betreuer. Er führt ihn. Er gibt Aufträge, er hört zu, und manchmal bezahlt er.
+= 상사라기보다는 관리자지. 그를 '이끄는' 사람이야. 임무를 주고, 이야기를 듣고, 가끔 돈도 줘.
+KATRIN: Und wer ist es hier?
+= 여기선 누구야?
+JAKOB: Major Horst Brückner. Abteilung fünfzehn der Bezirksverwaltung Leipzig.
+= 호르스트 브뤼크너 소령. 라이프치히 관구 제15과.
+KATRIN: Abteilung fünfzehn. Ist das wichtig?
+= 제15과. 그게 중요해?
+JAKOB: Sehr. Das war die HVA in Leipzig. Die Auslandsaufklärung. Sie haben Leute für den Westen gesucht.
+= 아주. 그게 라이프치히의 HVA였어. 해외 정보부. 서방에 보낼 사람을 찾았지.
+KATRIN: Also wollten sie nicht nur Studenten bespitzeln. Sie wollten ihn für später.
+= 그러니까 학생들 감시만 하려던 게 아니네. 나중을 위해 그를 원했구나.
+JAKOB: Vielleicht. Das steht noch nicht in der Akte. Lies einen Bericht vor.
+= 아마도. 그건 아직 파일에 없어. 보고서 하나 읽어 봐.
+KATRIN: „Treffen am 2. Mai 1983 in der Wohnung ‚Linde'. IM SPREE berichtet über die Stimmung in seinem Seminar."
+= "1983년 5월 2일, 아지트 '린데'에서 접선. IM 슈프레, 세미나 분위기에 대해 보고함."
+JAKOB: „Linde" ist der Deckname für eine Wohnung. Die Stasi hatte überall solche Wohnungen.
+= '린데'는 아파트의 암호명이야. 슈타지는 그런 집을 곳곳에 두고 있었어.
+KATRIN: Und SPREE ist sein Deckname. Warum ausgerechnet Spree? Er kommt doch aus Leipzig.
+= 그리고 슈프레가 그의 암호명이고. 왜 하필 슈프레야? 라이프치히 출신이잖아.
+JAKOB: Ein Deckname soll nichts verraten. Ein Fluss in Berlin passt gut zu einem Mann aus Leipzig.
+= 암호명은 아무것도 드러내면 안 돼. 라이프치히 사람한테 베를린 강 이름이면 딱이지.
+KATRIN: Was hat er berichtet? Namen?
+= 그 사람이 뭘 보고했어? 이름들?
+JAKOB: Lies weiter.
+= 계속 읽어.
+KATRIN: „Der IM war nervös. Er sprach über das Essen in der Mensa und über das Wetter." Das ist alles?
+= "IM은 긴장해 있었음. 학생식당 음식과 날씨에 대해 말함." 이게 다야?
+JAKOB: Interessant. Ein Spitzel, der über das Wetter spricht.
+= 흥미롭네. 날씨 얘기만 하는 밀고자라니.
+KATRIN: Warte. Die Seiten haben Nummern. Vierundvierzig, fünfundvierzig, sechsundvierzig... achtundvierzig.
+= 잠깐. 페이지에 번호가 있어. 44, 45, 46... 48.
+JAKOB: Seite siebenundvierzig fehlt.
+= 47쪽이 없네.
+KATRIN: Vielleicht haben sie falsch nummeriert?
+= 번호를 잘못 매긴 거 아닐까?
+JAKOB: Die Stasi hat vieles falsch gemacht. Aber nummeriert hat sie immer richtig.
+= 슈타지가 틀린 건 많았지. 하지만 번호만은 언제나 정확했어.
+#SECTION 전개 2 — IM AUTO
+KATRIN: So. Der Karton liegt im Stahlschrank, und der Schlüssel ist bei dir.
+= 됐다. 상자는 철제 캐비닛에 있고, 열쇠는 너한테 있어.
+JAKOB: Und ich habe alles ins System eingetragen. Fundort, Zeit, Inhalt.
+= 그리고 전부 시스템에 입력했어. 발견 장소, 시간, 내용.
+KATRIN: Natürlich hast du das. Steig ein, ich fahre dich nach Hause.
+= 당연히 그랬겠지. 타, 집까지 데려다줄게.
+JAKOB: Mein Fahrrad steht doch hier.
+= 내 자전거 여기 있잖아.
+KATRIN: Es ist elf Uhr nachts, und es regnet. Steig ein.
+= 밤 열한 시에 비까지 와. 타.
+RADIO: Es ist dreiundzwanzig Uhr. Die Nachrichten. In Berlin haben heute Tausende Menschen an den Mauerfall vor siebenunddreißig Jahren erinnert.
+= 밤 열한 시, 뉴스입니다. 오늘 베를린에서는 수천 명이 37년 전 장벽 붕괴를 기념했습니다.
+RADIO: Am Freitag stimmt der Bundestag über die Reform der Nachrichtendienste ab. Kritiker sprechen von einem Gesetz gegen die Verfassung.
+= 금요일 연방의회는 정보기관 개혁안을 표결합니다. 비판자들은 위헌적인 법이라고 말합니다.
+KATRIN: Hörst du? Am Freitag. Und Kranz ist einer der lautesten Befürworter.
+= 들었어? 금요일이래. 그리고 크란츠는 제일 목소리 큰 찬성자 중 하나야.
+JAKOB: Das hat mit unserer Akte nichts zu tun.
+= 그건 우리 파일이랑 아무 상관없어.
+KATRIN: Ein Minister will den Diensten mehr Macht geben. Und er war selbst ein Spitzel. Das hat nichts damit zu tun?
+= 장관이 정보기관에 더 큰 권한을 주자고 해. 그런데 자기가 밀고자였어. 그게 상관이 없다고?
+JAKOB: Wir wissen nicht, ob er wirklich etwas getan hat. Er hat über das Wetter gesprochen.
+= 그가 정말 뭘 했는지 우린 몰라. 날씨 얘기를 했을 뿐이야.
+KATRIN: Er hat unterschrieben, Jakob. Das reicht für viele Leute.
+= 서명했잖아, 야콥. 많은 사람들한텐 그걸로 충분해.
+JAKOB: Für die Presse vielleicht. Für mich nicht.
+= 언론한텐 그럴지도. 나한텐 아니야.
+KATRIN: Was willst du also machen?
+= 그럼 어떻게 할 건데?
+JAKOB: Morgen früh gehe ich zu Feldmann. Dienstweg.
+= 내일 아침에 펠트만한테 갈 거야. 공식 경로로.
+KATRIN: Dienstweg. Das Lieblingswort aller Beamten.
+= 공식 경로. 모든 공무원이 제일 좋아하는 단어지.
+JAKOB: Das ist kein Lieblingswort. Das ist eine Regel. Wir sind ein Archiv, keine Zeitung.
+= 좋아하는 단어가 아니라 규칙이야. 우린 기록 보관소지 신문사가 아니야.
+KATRIN: Und wenn Feldmann die Akte in einen Schrank legt und sie vergisst?
+= 펠트만이 파일을 캐비닛에 넣고 잊어버리면?
+JAKOB: Dann gehe ich eine Stufe höher.
+= 그럼 한 단계 위로 가야지.
+KATRIN: Und wenn die Stufe höher die Akte vernichtet?
+= 그 한 단계 위가 파일을 없애 버리면?
+JAKOB: Du siehst zu viele Filme.
+= 너 영화를 너무 많이 봐.
+KATRIN: Und du liest zu viele Vorschriften. Hier links?
+= 넌 규정을 너무 많이 읽고. 여기서 왼쪽?
+JAKOB: Nein, die nächste. Boxhagener Straße.
+= 아니, 다음 거. 보크스하겐 거리.
+KATRIN: Ich komme noch kurz mit hoch. Ich kann jetzt sowieso nicht schlafen.
+= 잠깐 같이 올라갈게. 어차피 지금은 잠 못 자.
+JAKOB: Vierter Stock, kein Aufzug. Ich warne dich.
+= 4층에 엘리베이터 없어. 미리 경고하는 거야.
+KATRIN: Ich mache Pilates. Ich schaffe das.
+= 나 필라테스 해. 할 수 있어.
+#SECTION 위기 — IN DER KÜCHE
+KATRIN: Deine Küche ist kleiner als unser Kopierraum.
+= 너네 부엌 우리 복사실보다 작다.
+JAKOB: Aber der Kaffee ist besser. Setz dich.
+= 그래도 커피는 더 맛있어. 앉아.
+KATRIN: Jakob, ich muss dir etwas sagen. Ich glaube, wir müssen die Akte schützen. Auch vor unserem eigenen Haus.
+= 야콥, 할 말이 있어. 우리가 파일을 지켜야 할 것 같아. 우리 기관으로부터도.
+JAKOB: Vor dem BND? Wir sind der BND.
+= BND로부터? 우리가 BND야.
+KATRIN: Wir sind zwei Leute im Keller. Der BND ist etwas anderes.
+= 우린 지하실의 두 사람일 뿐이야. BND는 다른 거고.
+JAKOB: Was meinst du damit?
+= 무슨 뜻이야?
+KATRIN: Ein Minister, der bald noch mehr Macht hat. Ein Dienst, der von seinem Gesetz profitiert. Wer hat Interesse an der Wahrheit?
+= 곧 더 큰 권력을 갖게 될 장관. 그 사람 법으로 이득을 보는 기관. 진실에 관심 있는 사람이 누구야?
+JAKOB: Ich. Und du.
+= 나. 그리고 너.
+KATRIN: Genau. Deshalb sage ich: Wir geben die Akte einer Journalistin. Am besten heute noch.
+= 바로 그거야. 그래서 하는 말이야. 파일을 기자한테 넘기자. 되도록 오늘 당장.
+JAKOB: Das ist Geheimnisverrat, Katrin. Dafür gehen Leute ins Gefängnis.
+= 그건 기밀 누설이야, 카트린. 그걸로 사람들 감옥 가.
+KATRIN: Es ist eine Stasi-Akte von 1983! Kein NATO-Geheimnis.
+= 1983년 슈타지 파일이야! NATO 기밀이 아니라고.
+JAKOB: Sie liegt in unserem Archiv. Also ist sie eine Verschlusssache, bis jemand etwas anderes entscheidet.
+= 우리 보관소에 있잖아. 그러니까 누가 달리 결정하기 전까진 기밀문서야.
+KATRIN: Und wer entscheidet? Leute wie Kranz!
+= 그럼 누가 결정해? 크란츠 같은 사람들이!
+JAKOB: Leise, bitte. Die Nachbarn.
+= 조용히 좀. 이웃들.
+KATRIN: Entschuldige. Aber du verstehst mich nicht.
+= 미안. 그래도 넌 내 말을 이해 못 해.
+JAKOB: Ich verstehe dich sehr gut. Du willst etwas Richtiges tun. Ich auch. Aber richtig heißt für mich: korrekt.
+= 아주 잘 이해해. 넌 옳은 일을 하고 싶은 거지. 나도 그래. 하지만 나한테 옳다는 건 절차대로라는 뜻이야.
+KATRIN: Korrekt. Weißt du, wie viele Akten in diesem Land ganz korrekt verschwunden sind?
+= 절차대로. 이 나라에서 아주 절차대로 사라진 파일이 얼마나 많은지 알아?
+JAKOB: Ja. Ich bin in Lichtenberg aufgewachsen. Ich weiß das besser als du.
+= 알아. 난 리히텐베르크에서 자랐어. 너보다 더 잘 알아.
+KATRIN: Dann denk an die Leute, die 1990 die Akten gerettet haben. Die haben auch nicht auf den Dienstweg gewartet.
+= 그럼 1990년에 파일을 구해 낸 사람들을 생각해 봐. 그 사람들도 공식 경로를 기다리지 않았어.
+JAKOB: Das war eine Revolution. Das hier ist ein Dienstag.
+= 그땐 혁명이었어. 지금은 그냥 화요일이고.
+KATRIN: Es ist Montag.
+= 월요일이야.
+JAKOB: Es ist nach Mitternacht. Also Dienstag.
+= 자정 넘었어. 그러니까 화요일.
+KATRIN: Du bist unmöglich, weißt du das?
+= 너 정말 못 말려, 알아?
+JAKOB: Mein Handy. Moment... Lea? Warum bist du noch wach?
+= 내 휴대폰. 잠깐... 레아? 왜 아직 안 자?
+LEA: Papa, ich kann nicht schlafen. Morgen schreiben wir die Mathearbeit.
+= 아빠, 잠이 안 와. 내일 수학 시험 봐.
+JAKOB: Du schaffst das. Du hast doch die ganze Woche geübt.
+= 넌 잘할 거야. 일주일 내내 연습했잖아.
+LEA: Kommst du am Samstag zum Spiel? Es ist das Halbfinale.
+= 토요일에 경기 보러 와? 준결승이야.
+JAKOB: Natürlich komme ich. Erste Reihe.
+= 당연히 가지. 맨 앞줄에서.
+LEA: Versprochen? Letztes Mal hattest du Arbeit.
+= 약속해? 저번엔 일 있다고 했잖아.
+JAKOB: Versprochen. Und jetzt schlaf. Gute Nacht, Lea.
+= 약속. 이제 자. 잘 자, 레아.
+LEA: Gute Nacht, Papa.
+= 잘 자, 아빠.
+#SECTION 결말 — DREI UHR MORGENS
+KATRIN: Sie klingt süß.
+= 목소리 귀엽다.
+JAKOB: Sie ist sechzehn. Süß ist sie nur nachts am Telefon.
+= 열여섯 살이야. 귀여운 건 밤에 전화할 때뿐이야.
+KATRIN: Okay. Ich mache dir ein Angebot. Du gehst morgen zu Feldmann. Und ich warte.
+= 좋아. 제안할게. 넌 내일 펠트만한테 가. 그리고 난 기다릴게.
+JAKOB: Und dann?
+= 그 다음엔?
+KATRIN: Wenn nach einer Woche nichts passiert, reden wir noch einmal.
+= 일주일 지나도 아무 일 없으면, 다시 얘기하자.
+JAKOB: Einverstanden. Eine Woche.
+= 좋아. 일주일.
+KATRIN: Und noch etwas. Ich habe vorhin eine Sache fotografiert.
+= 그리고 하나 더. 아까 뭘 하나 사진 찍었어.
+JAKOB: Du hast was? Im Magazin ist Fotografieren verboten.
+= 뭘 했다고? 창고에선 촬영 금지야.
+KATRIN: Nur die Karteikarte. Für Karta. Die KI soll die Handschrift lernen.
+= 색인 카드만. 카르타용으로. AI가 필체를 학습해야 하거든.
+JAKOB: Katrin...
+= 카트린...
+KATRIN: Ein Foto, Jakob. Keine Akte. Schau mal, unten rechts steht noch eine zweite Unterschrift.
+= 사진 한 장이야, 야콥. 파일이 아니라. 봐 봐, 오른쪽 아래에 서명이 하나 더 있어.
+JAKOB: Zeig her. Das Datum ist vom Januar 1990.
+= 보여 줘. 날짜가 1990년 1월이네.
+KATRIN: Genau. Nach dem Mauerfall, aber vor der Besetzung der Zentrale. Jemand hat die Karte damals noch einmal bearbeitet.
+= 맞아. 장벽 붕괴 후, 하지만 본부 점거 전이야. 그때 누가 이 카드를 한 번 더 처리했어.
+JAKOB: Ein Archivar. Er hat die Akte registriert, bevor alles chaotisch wurde.
+= 기록 담당자야. 다 혼란스러워지기 전에 파일을 등록한 거지.
+KATRIN: Oder bevor er sie versteckt hat.
+= 아니면 숨기기 전에.
+JAKOB: Mach das Bild größer.
+= 사진 좀 확대해 봐.
+KATRIN: Die Schrift ist klein. Ein G, ein Punkt, und dann... Wend... Wendland?
+= 글씨가 작아. G, 점, 그리고... 벤트... 벤틀란트?
+JAKOB: Noch größer, bitte.
+= 더 크게, 제발.
+KATRIN: Jakob, das ist dein Nachname. Ist das ein Zufall?
+= 야콥, 이거 네 성이잖아. 우연이야?
+JAKOB: Das G hat unten eine Schleife. So hat nur einer geschrieben.
+= G 아래쪽에 고리가 있어. 이렇게 쓰는 사람은 한 명뿐이었어.
+KATRIN: Wer?
+= 누구?
+JAKOB: Mein Vater. Günter Wendland. Das ist seine Handschrift.
+= 우리 아버지. 귄터 벤틀란트. 이건 아버지 글씨야.
+#NEXT
+1부 3화 — «Der Dienstweg»(공식 경로) — 야콥은 원칙대로 과장 펠트만에게 보고하고, 총리실의 자이들리츠 차관이 직접 전화를 걸어와 그를 격려한다. 그러나 다음 날 아침, 봉인된 캐비닛 안의 상자는 사라지고 시스템 기록마저 지워져 있다.
