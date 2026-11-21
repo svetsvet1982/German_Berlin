@@ -1,0 +1,279 @@
+#META
+part: 2
+episode: 12
+title: Nebel über Hamburg
+subtitle_ko: 함부르크의 안개
+place_ko: 체포, 병실, 그리고 빈에서 온 제안
+setting: 2027년 2월 22일(월) → 26일(금), 함머브로크의 BfV 사무실 · 장크트 게오르크 병원 · 엘베 강 페리 62번
+level: B1+
+#CAST
+JAKOB | BfV 파견 방첩 요원 · 44세 · 이제 '얀 벤트'가 아니다
+AYLIN | BfV 방첩부 팀장 · 41세
+KATRIN | 체포된 前 BND 기록 담당자 · 39세
+HARMSEN | 노르트엘베 조선소 수석설계자 · 59세
+WIEBKE | 하름센의 딸 · 장크트 게오르크 병원 간호사 · 31세
+LEA | 야콥의 딸 · 16세 (영상통화)
+RADIO | 뉴스 라디오 아나운서 (가상 방송)
+#INTRO
+※ 안개 낀 란둥스브뤼켄에서 카트린은 모든 것을 고백했습니다. 2016년부터 '전화 속 목소리'에게 협박당했고, 베를린의 사물함을 비우고, 출입증을 복제하게 하고, 다리 약속을 흘린 것도 자신이며, 함부르크에 온 것 자체가 정원사의 계획이었다고요. 하지만 이름만은 말하지 않았습니다. "당신을 정원사에게 데려갈게요. 단, 빈에서만요." 그리고 아일린의 팀이 그녀를 체포했습니다. 사흘 뒤, 함머브로크의 BfV 사무실. 야콥과 아일린은 폭풍 해일 밤 이후 서로 du를 씁니다. 카트린은 끝까지 야콥에게 Sie를 씁니다. 표현 초점: 수사·외교 어휘 — Haftbefehl, Ermittlungsrichter, entlasten, Austausch, Schattenflotte, Seekabel.
+#SECTION 도입 — MONTAG IN HAMMERBROOK
+AYLIN: Kaffee? Du siehst aus, als hättest du seit Freitag nicht geschlafen.
+= 커피? 금요일부터 한숨도 못 잔 얼굴이네.
+JAKOB: Habe ich auch nicht. Was hat der Ermittlungsrichter gesagt?
+= 실제로 못 잤어. 수사판사는 뭐래?
+AYLIN: Haftbefehl. Verdacht auf geheimdienstliche Agententätigkeit. Sie bleibt in Untersuchungshaft.
+= 체포영장 나왔어. 첩보원 활동 혐의. 구속 상태로 있을 거야.
+JAKOB: Hat sie noch etwas gesagt? Seit Samstag?
+= 그 뒤로 무슨 말 더 했어? 토요일부터?
+AYLIN: Sie redet viel. Über Daten, Passwörter, Wege aus der Werft. Sie ist sehr kooperativ.
+= 말은 많이 해. 데이터, 비밀번호, 조선소 밖으로 빼낸 경로. 아주 협조적이야.
+JAKOB: Aber kein Name.
+= 그런데 이름은 없고.
+AYLIN: Kein Name. Bei jeder Frage nach der Stimme sagt sie nur: „Wien." Wie eine kaputte Schallplatte.
+= 이름은 없어. 그 목소리에 관해 물을 때마다 "빈"이라고만 해. 고장 난 레코드판처럼.
+JAKOB: Darf ich mit ihr sprechen?
+= 내가 얘기해 봐도 될까?
+AYLIN: Zehn Minuten. Sie hat ausdrücklich nach dir gefragt.
+= 10분. 그쪽이 분명하게 너를 찾았어.
+KATRIN: Herr Wendland. Sie sehen müde aus.
+= 벤틀란트 씨. 피곤해 보이시네요.
+JAKOB: Du auch. Schläfst du?
+= 너도. 잠은 자?
+KATRIN: Besser als in den letzten zehn Jahren. Seltsam, oder? Im Gefängnis schläft man ruhig.
+= 지난 10년보다 잘 자요. 이상하죠? 감옥에선 편하게 자게 되네요.
+JAKOB: Hast du heute Nacht das Wort gesendet? „Blüte"?
+= 그날 밤 그 단어 보냈어? "블뤼테"?
+KATRIN: Frau Demir hat mich um Mitternacht schreiben lassen. Aber ich glaube, die Stimme weiß es trotzdem.
+= 데미르 씨가 자정에 쓰게 해 줬어요. 그래도 그 목소리는 결국 알 것 같아요.
+JAKOB: Warum?
+= 왜?
+KATRIN: Weil Sorin am Samstagmorgen nicht in seinem Büro war. Habe ich recht?
+= 소린이 토요일 아침에 사무실에 없었으니까요. 제 말이 맞죠?
+JAKOB: Woher weißt du das?
+= 그걸 어떻게 알아?
+KATRIN: Ich weiß es nicht. Ich kenne nur die Regeln. Wenn eine Blume welkt, gehen alle anderen.
+= 몰라요. 규칙만 알 뿐이죠. 꽃 한 송이가 시들면 나머지는 다 떠나요.
+JAKOB: Katrin, sag mir den Namen. Dann kann ich dir helfen.
+= 카트린, 이름을 말해. 그러면 내가 도울 수 있어.
+KATRIN: Sie können mir nicht helfen. Nur Wien kann mir helfen. Bitte gehen Sie jetzt.
+= 당신은 절 못 도와요. 빈만이 절 도울 수 있어요. 이제 가 주세요.
+#SECTION 전개 1 — MARINA K.
+AYLIN: Sie hatte recht mit Sorin. Komm, schau dir das an.
+= 소린에 대해선 그쪽 말이 맞았어. 와서 이것 좀 봐.
+JAKOB: Was ist das? Ein Schiff?
+= 이게 뭐야? 배야?
+AYLIN: Ein Tanker. Die „Marina K.". Flagge von einem kleinen Inselstaat. Zwanzig Jahre alt, rostig, ohne gute Versicherung.
+= 유조선이야. "마리나 K."호. 작은 섬나라 국기를 달았어. 20년 된 녹슨 배에 제대로 된 보험도 없어.
+JAKOB: Schattenflotte.
+= 그림자 선단이네.
+AYLIN: Genau. Sie hat am Samstag vor der Elbmündung gewartet. Sorin ist mit einem kleinen Boot von Cuxhaven hinausgefahren.
+= 맞아. 토요일에 엘베 강 하구 앞에서 기다리고 있었어. 소린은 쿡스하펜에서 작은 보트를 타고 나갔고.
+JAKOB: Und Team zwei? Ihr wart doch an ihm dran!
+= 그럼 2팀은? 따라붙어 있었잖아!
+AYLIN: Bis zum Taxi. Das Taxi hat er in einer Tiefgarage gewechselt. Drei Ausgänge. Wir hatten zwei Leute.
+= 택시까지는. 지하 주차장에서 택시를 갈아탔어. 출구가 세 개였고. 우린 두 명이었어.
+JAKOB: Kann man den Tanker nicht stoppen?
+= 그 유조선을 세울 순 없어?
+AYLIN: Er war schon in internationalen Gewässern. Ohne Beweis an Bord dürfen wir dort fast nichts.
+= 이미 공해에 있었어. 배 안에 증거가 없으면 거기선 우리가 할 수 있는 게 거의 없어.
+RADIO: Und nun zu einer Meldung aus der Ostsee. In der Nacht zu Montag ist ein Datenkabel zwischen Deutschland und Finnland ausgefallen.
+= 다음은 발트해 소식입니다. 월요일 새벽, 독일과 핀란드를 잇는 데이터 케이블에 장애가 발생했습니다.
+RADIO: Die Marine prüft, ob ein Schiff mit seinem Anker das Kabel beschädigt hat. Ein Tanker war zu dieser Zeit in der Nähe.
+= 해군은 선박의 닻이 케이블을 손상시켰는지 조사하고 있습니다. 당시 근처에 유조선 한 척이 있었습니다.
+JAKOB: Lass mich raten. Die Marina K.
+= 맞혀 볼게. 마리나 K.호.
+AYLIN: Offiziell wissen wir das noch nicht. Inoffiziell: ja.
+= 공식적으로는 아직 몰라. 비공식적으로는, 맞아.
+JAKOB: Er flieht, und auf dem Weg schneidet er noch ein Kabel durch. Wie ein Abschiedsgruß.
+= 도망치면서 가는 길에 케이블까지 끊는구나. 작별 인사처럼.
+AYLIN: Vielleicht Zufall. Vielleicht eine Botschaft. Bei diesen Leuten weiß man nie.
+= 우연일 수도 있고. 메시지일 수도 있고. 그런 사람들은 절대 알 수가 없어.
+JAKOB: Was hatte Sorin dabei? Die Pläne?
+= 소린이 뭘 갖고 갔어? 설계도?
+AYLIN: Die Werft hat alles geprüft. Seit Freitag fehlen keine neuen Daten. Wir waren schneller als die nächste Lieferung.
+= 조선소가 전부 확인했어. 금요일 이후로 새로 빠져나간 데이터는 없어. 우리가 다음 전달보다 빨랐던 거지.
+JAKOB: Also war der Köder doch nicht umsonst.
+= 그럼 그 미끼가 헛된 건 아니었네.
+AYLIN: Der Köder hat Katrin gefangen. Nicht den Fisch dahinter.
+= 미끼는 카트린을 잡았어. 그 뒤에 있는 물고기가 아니라.
+JAKOB: Ich muss ins Krankenhaus. Harmsen ist heute Morgen aufgewacht.
+= 병원에 가야 해. 하름센 씨가 오늘 아침에 깨어났어.
+AYLIN: Ich weiß. Die Staatsanwaltschaft hat das Verfahren gegen ihn eingestellt. Du darfst es ihm sagen.
+= 알아. 검찰이 그분에 대한 수사를 종결했어. 네가 직접 말해도 돼.
+#SECTION 전개 2 — ST. GEORG
+WIEBKE: Sie? Was wollen Sie hier, Herr Wendt?
+= 당신이에요? 여긴 왜 왔어요, 벤트 씨?
+JAKOB: Ich möchte mit Ihrem Vater sprechen. Nur fünf Minuten.
+= 아버님과 얘기하고 싶어요. 5분만요.
+WIEBKE: Letzte Woche wollten Sie ihn noch verhaften lassen.
+= 지난주엔 우리 아빠를 체포하게 하려고 했잖아요.
+JAKOB: Letzte Woche habe ich einen Fehler gemacht. Deshalb bin ich hier.
+= 지난주엔 제가 실수를 했어요. 그래서 온 거예요.
+HARMSEN: Lass ihn rein, Wiebke. Dat is so. Wer kommt, darf auch reden.
+= 들여보내, 비프케. 원래 그런 거야. 찾아온 사람은 말할 수도 있는 거지.
+WIEBKE: Fünf Minuten. Und Papa, du regst dich nicht auf.
+= 5분이에요. 그리고 아빠, 흥분하지 마세요.
+HARMSEN: Ich rege mich nie auf. Moin, Jan. Oder wie heißt du wirklich?
+= 난 흥분 같은 거 안 해. 모인, 얀. 아니면 진짜 이름이 뭐야?
+JAKOB: Jakob. Jakob Wendland. Ich bin kein Ingenieur von einem Berliner Büro. Ich arbeite für den Verfassungsschutz.
+= 야콥이에요. 야콥 벤틀란트. 베를린 사무소 엔지니어가 아니에요. 헌법수호청에서 일해요.
+HARMSEN: Das habe ich mir schon gedacht. Kein normaler Ingenieur stellt so viele Fragen über Zugriffsrechte.
+= 그럴 줄 알았어. 평범한 엔지니어는 접근 권한에 대해 그렇게 많이 묻지 않지.
+JAKOB: Herr Harmsen, die Staatsanwaltschaft hat das Verfahren gegen Sie eingestellt. Sie sind entlastet.
+= 하름센 씨, 검찰이 당신에 대한 수사를 종결했어요. 혐의를 벗으셨어요.
+WIEBKE: Entlastet? Er war nie schuldig!
+= 혐의를 벗어요? 아빤 한 번도 죄가 없었어요!
+JAKOB: Das stimmt. Jemand hat seine Version absichtlich geleakt. Damit alle ihn verdächtigen.
+= 맞아요. 누군가 일부러 아버님 판본을 유출했어요. 모두가 아버님을 의심하도록요.
+HARMSEN: Die Frau von der IT. Die mit dem Kaugummi.
+= IT 쪽 그 여자구먼. 껌 씹던.
+JAKOB: Darüber darf ich nicht sprechen.
+= 그건 말씀드릴 수 없어요.
+HARMSEN: Musst du auch nicht. Ich habe sie einmal im Dock gesehen, nachts. Sie hat telefoniert und geweint.
+= 안 해도 돼. 밤에 도크에서 한 번 봤어. 통화하면서 울고 있더라고.
+JAKOB: Was ist im Dock passiert? An dem Abend mit der Sturmflut?
+= 도크에서 무슨 일이 있었어요? 폭풍 해일 그날 밤에요?
+HARMSEN: Ich habe an der Korvette Sand gesehen. Strahlkies, am Motor. Dann kam ein Mann von hinten. Mehr weiß ich nicht.
+= 초계함에서 모래를 봤어. 엔진 쪽에 연마용 모래가. 그때 누가 뒤에서 왔고. 그 이상은 몰라.
+JAKOB: Das war nicht Katrin. Sie war im Serverraum. Wir haben es geprüft.
+= 그건 카트린이 아니었어요. 서버실에 있었어요. 저희가 확인했어요.
+HARMSEN: Gut. Ich mag nicht von einer Frau mit Kaugummi niedergeschlagen werden. Das wäre peinlich.
+= 다행이네. 껌 씹는 여자한테 맞아 쓰러졌다면 창피했을 거야.
+WIEBKE: Papa! Das ist nicht lustig.
+= 아빠! 그거 하나도 안 웃겨요.
+HARMSEN: Doch, ein bisschen. Jakob, du hast mich angelogen. Jeden Tag. Auch auf der Anke.
+= 아니, 조금은 웃기지. 야콥, 넌 나한테 거짓말을 했어. 매일. 앙케호 위에서도.
+JAKOB: Ja. Das tut mir leid. Das meiste, was ich Ihnen über meine Tochter erzählt habe, war aber wahr.
+= 네. 죄송해요. 그래도 딸에 대해 말씀드린 건 대부분 사실이었어요.
+HARMSEN: Und das über die Schweißnähte? Das über den Druckkörper?
+= 용접 이음 얘기는? 압력 선체 얘기는?
+JAKOB: Das auch. Rostock war echt. Vier Jahre.
+= 그것도요. 로스토크는 진짜였어요. 4년이요.
+HARMSEN: Na also. Hör zu, Jakob. Du bist ein schlechter Lügner. Aber du bist trotzdem ein guter Ingenieur.
+= 거봐. 잘 들어, 야콥. 넌 거짓말은 형편없어. 그래도 넌 좋은 엔지니어야.
+JAKOB: Danke. Das bedeutet mir mehr, als Sie denken.
+= 고마워요. 생각하시는 것보다 저한텐 큰 의미예요.
+HARMSEN: Und lass das Sie. Auf der Anke hast du du gesagt. Das gilt weiter.
+= 그리고 존댓말은 그만둬. 앙케호 위에선 반말했잖아. 그건 계속 유효해.
+JAKOB: Danke, Jens. Werd schnell gesund. Im Sommer will ich segeln.
+= 고마워요, 옌스. 빨리 나아요. 여름엔 배 타고 싶어요.
+#SECTION 위기 — DAS ANGEBOT AUS MOSKAU
+AYLIN: Jakob, gut, dass du da bist. Setz dich. Es gibt Neuigkeiten aus Berlin.
+= 야콥, 와서 다행이다. 앉아. 베를린에서 소식이 왔어.
+JAKOB: Gute oder schlechte?
+= 좋은 소식이야, 나쁜 소식이야?
+AYLIN: Das hängt davon ab, wen du fragst. Moskau hat ein Angebot gemacht. Über einen Kanal in Wien.
+= 누구한테 묻느냐에 달렸지. 모스크바가 제안을 해 왔어. 빈에 있는 채널을 통해서.
+JAKOB: Was für ein Angebot?
+= 무슨 제안?
+AYLIN: Einen Austausch. Kennst du den Namen Daniel Reiter?
+= 맞교환. 다니엘 라이터라는 이름 알아?
+JAKOB: Der Journalist? Der seit Oktober in Moskau im Gefängnis sitzt?
+= 그 기자? 10월부터 모스크바 감옥에 있는?
+AYLIN: Genau der. Angeklagt wegen Spionage. Natürlich erfunden. Er hat über Rüstungsfabriken im Ural geschrieben.
+= 바로 그 사람. 간첩 혐의로 기소됐지. 물론 지어낸 거고. 우랄 지역 군수 공장에 대해 기사를 썼거든.
+JAKOB: Und wen will Moskau dafür?
+= 그 대가로 모스크바는 누굴 원하는데?
+AYLIN: Katrin Lorenz.
+= 카트린 로렌츠.
+JAKOB: Katrin? Warum Katrin? Sie ist keine Russin. Sie ist eine deutsche Beamtin.
+= 카트린? 왜 카트린이야? 러시아 사람도 아니잖아. 독일 공무원이라고.
+AYLIN: Genau das macht mir Sorgen. Moskau tauscht keine kleinen Räder. Moskau tauscht wichtige Leute.
+= 바로 그게 걱정이야. 모스크바는 작은 톱니바퀴를 맞교환하지 않아. 중요한 사람만 바꾸지.
+JAKOB: Oder jemand will nicht, dass sie redet. Und Moskau macht nur den Briefträger.
+= 아니면 누군가 그녀가 입을 여는 걸 원하지 않는 거지. 모스크바는 우편배달부 노릇만 하는 거고.
+AYLIN: Das habe ich auch gedacht.
+= 나도 그렇게 생각했어.
+JAKOB: Was sagt Berlin?
+= 베를린은 뭐래?
+AYLIN: Berlin ist interessiert. Reiters Familie macht Druck. Die Zeitungen auch. Und nach Ankara 2024 kennt man das Verfahren.
+= 베를린은 관심이 있어. 라이터의 가족이 압박하고 있고. 신문들도 그렇고. 그리고 2024년 앙카라 이후로 절차는 다들 알지.
+JAKOB: Wer entscheidet darüber? Das Auswärtige Amt?
+= 그건 누가 결정해? 외무부?
+AYLIN: Am Ende das Kanzleramt. Dort laufen alle Fäden zusammen. Die Beauftragte für die Nachrichtendienste koordiniert.
+= 결국 총리실이야. 모든 실이 거기로 모이지. 정보기관 조정관이 조율해.
+JAKOB: Frau Dr. Seidlitz. Sie hat mich im November angerufen. Sie war sehr freundlich.
+= 자이들리츠 박사님. 11월에 나한테 전화했었어. 아주 친절했지.
+AYLIN: Sie ist zu allen freundlich. Darum ist sie seit dreißig Jahren in Bonn und Berlin ganz oben.
+= 그분은 누구한테나 친절해. 그래서 30년째 본과 베를린에서 맨 꼭대기에 있는 거고.
+JAKOB: Weiß sie schon von Katrins Bedingung?
+= 카트린의 조건에 대해선 벌써 알아?
+AYLIN: Seit heute Morgen. Sie hat sofort gesagt: „Gut. Herr Wendland soll mitfahren. Er kennt sie am besten."
+= 오늘 아침부터. 바로 이렇게 말했어. "좋아요. 벤틀란트 씨가 같이 가야죠. 그 사람이 그녀를 제일 잘 아니까요."
+JAKOB: Das ist nett von ihr.
+= 친절하시네.
+AYLIN: Ja. Sehr nett. Und sehr schnell.
+= 그래. 아주 친절하지. 그리고 아주 빠르고.
+JAKOB: Du klingst nicht begeistert.
+= 별로 반가워하는 목소리가 아니네.
+AYLIN: Ich bin Spionageabwehr, Jakob. Ich bin nie begeistert, wenn jemand zu schnell Ja sagt.
+= 난 방첩 요원이야, 야콥. 누가 너무 빨리 "예"라고 하면 절대 반갑지 않아.
+JAKOB: Wenn Katrin nach Moskau geht, ist der Name weg. Für immer.
+= 카트린이 모스크바로 가면 그 이름은 사라져. 영원히.
+AYLIN: Darum sollst du mitkommen. Sie hat heute früh eine Erklärung unterschrieben.
+= 그래서 네가 같이 가야 해. 그녀가 오늘 아침 진술서에 서명했어.
+JAKOB: Was für eine Erklärung?
+= 무슨 진술서?
+AYLIN: Sie redet nur mit dir. Und nur in Wien. Bevor der Austausch stattfindet.
+= 너하고만 얘기하겠대. 그리고 빈에서만. 맞교환이 이뤄지기 전에.
+JAKOB: Genau wie sie es an der Brücke gesagt hat.
+= 다리에서 말한 그대로네.
+AYLIN: Die Verhandlungen beginnen im Mai. Die Österreicher stellen den Ort. Ich leite die deutsche Seite vor Ort.
+= 협상은 5월에 시작돼. 장소는 오스트리아가 내주고. 현장에선 내가 독일 측을 이끌어.
+JAKOB: Und ich?
+= 그럼 나는?
+AYLIN: Du begleitest Katrin im Zug nach Wien. Und du hörst zu. Mehr nicht.
+= 넌 빈행 기차에서 카트린을 호송해. 그리고 듣는 거야. 그 이상은 아니고.
+JAKOB: Mehr nicht. Das hat Feldmann im November auch gesagt.
+= 그 이상은 아니라. 펠트만 과장님도 11월에 그렇게 말했지.
+#SECTION 결말 — FÄHRE 62
+JAKOB: Lea? Kannst du mich hören? Hier ist es sehr windig.
+= 레아? 들려? 여기 바람이 엄청 불어.
+LEA: Papa! Wo bist du? Ist das ein Schiff?
+= 아빠! 어디야? 그거 배야?
+JAKOB: Die Fähre zweiundsechzig. Von den Landungsbrücken nach Finkenwerder. Für Hamburger ist das ein Bus auf dem Wasser.
+= 62번 페리야. 란둥스브뤼켄에서 핑켄베르더까지 가는 거. 함부르크 사람들한텐 물 위의 버스지.
+LEA: Cool. Ist dein Projekt jetzt fertig?
+= 멋지다. 아빠 프로젝트 이제 끝났어?
+JAKOB: Ein Teil davon. Ich komme am Wochenende nach Berlin. Für länger.
+= 일부는. 주말에 베를린 갈게. 좀 오래 있을 거야.
+LEA: Wirklich? Und Katrin? Kommt sie auch mit? Sie wollte mir doch das KI-Programm zeigen.
+= 진짜? 카트린 아줌마는? 같이 와? 그 AI 프로그램 보여 준다고 했잖아.
+JAKOB: Katrin … Katrin kommt nicht mit. Sie muss etwas in Ordnung bringen.
+= 카트린은… 카트린은 같이 안 와. 바로잡아야 할 일이 있어.
+LEA: Ist sie krank? Du klingst komisch.
+= 아파? 아빠 목소리 이상해.
+JAKOB: Nein. Sie ist nicht krank. Ich erkläre es dir später. Wenn ich es selbst verstehe.
+= 아니. 아픈 건 아니야. 나중에 설명해 줄게. 아빠가 이해하게 되면.
+LEA: Okay. Papa? Ganz leise laut: Ich bin stolz auf dich.
+= 알았어. 아빠? 아주 조용히 크게: 아빠 자랑스러워.
+JAKOB: Ganz leise laut. Danke, Lea. Bis Samstag.
+= 아주 조용히 크게. 고마워, 레아. 토요일에 보자.
+AYLIN: War das deine Tochter?
+= 딸이야?
+JAKOB: Ja. Sie hat gerade einen Satz von Katrin benutzt. Und sie weiß es nicht.
+= 응. 방금 카트린이 쓰던 말을 썼어. 그것도 모른 채로.
+AYLIN: Das ist das Schlimmste an Verrat. Er steckt danach in den kleinen Wörtern.
+= 그게 배신의 가장 나쁜 점이야. 그 뒤로는 작은 말들 속에 숨어 있거든.
+JAKOB: Der Nebel ist weg. Zum ersten Mal seit drei Wochen sieht man die Kräne.
+= 안개가 걷혔네. 3주 만에 처음으로 크레인들이 보여.
+AYLIN: In Hamburg kommt der Nebel immer wieder. Darum lernen die Leute hier, ohne Sicht zu fahren.
+= 함부르크에선 안개가 늘 다시 와. 그래서 여기 사람들은 안 보여도 배를 모는 법을 배우지.
+JAKOB: Wie in Wien?
+= 빈에서도 그래?
+AYLIN: In Wien gibt es keinen Nebel. Dort gibt es Kaffeehäuser. Das ist schlimmer.
+= 빈엔 안개가 없어. 거긴 카페가 있지. 그게 더 나빠.
+JAKOB: Warum schlimmer?
+= 왜 더 나빠?
+AYLIN: Weil dort alle freundlich sind. Und keiner sagt, was er denkt.
+= 거기선 모두가 친절하니까. 그리고 아무도 자기 생각을 말하지 않거든.
+JAKOB: Dann passe ich ja gut hin. Ich sage auch nie, was ich denke.
+= 그럼 나랑 잘 맞겠네. 나도 내 생각은 절대 말 안 하잖아.
+AYLIN: Du sagst es mit dem Gesicht. Das müssen wir bis Mai noch üben.
+= 넌 얼굴로 말해. 5월까지 그거 연습해야겠다.
+JAKOB: Mai. Das sind noch zehn Wochen.
+= 5월이라. 아직 10주 남았네.
+AYLIN: Zehn Wochen gehen schnell vorbei. Pack warm ein. In Wien ist es nur tagsüber Frühling.
+= 10주는 금방 가. 옷 따뜻하게 챙겨. 빈은 낮에만 봄이거든.
+#NEXT
+3부 1화 — «Servus, Herr Wendland»(세르부스, 벤틀란트 씨) — 2027년 5월, 빈으로 가는 기차. 야콥은 호송 중인 카트린과 같은 객실에 마주 앉는다. 빈 서역에서 기다리는 사람은 오스트리아 방첩기관 DSN의 수사관 테레자 그루버. 맞교환까지 남은 시간은 12일. 그리고 카트린이 속삭인다. "모스크바가 날 원하는 게 아니에요. 정원사가 날 원하는 거예요."
