@@ -20,8 +20,8 @@ JAKOB: Katrin. Warum sagst du Sie zu mir?
 = 카트린. 왜 나한테 존댓말을 해?
 KATRIN: Weil Sie mich gleich verhaften werden. Da passt Sie besser.
 = 곧 저를 체포하실 테니까요. 그럴 땐 존댓말이 더 어울려요.
-AYLIN: Jakob, hier Demir. Nicht bewegen. Wir haben euch beide im Blick.
-= 야콥, 데미르예요. 움직이지 마요. 두 사람 다 보고 있어요.
+AYLIN: Jakob, hier Aylin. Nicht bewegen. Wir haben euch beide im Blick.
+= 야콥, 아일린이야. 움직이지 마. 두 사람 다 보고 있어.
 JAKOB: Woher wusstest du, dass ich hier stehe?
 = 내가 여기 있는 거 어떻게 알았어?
 KATRIN: Sie stehen immer da, wo das Licht schlecht ist. Zehn Jahre im Keller, Herr Wendland.
@@ -31,7 +31,7 @@ JAKOB: Hast du Sorin gesagt, dass ich hier bin?
 KATRIN: Nein. Er ist weg. Er glaubt, alles ist wie immer.
 = 아니요. 그 사람은 갔어요. 모든 게 평소와 같다고 믿고 있어요.
 AYLIN: Sorin ist in ein Taxi gestiegen. Team zwei bleibt an ihm dran.
-= 소린이 택시에 탔어요. 2팀이 계속 따라붙어요.
+= 소린이 택시에 탔어. 2팀이 계속 따라붙고 있어.
 KATRIN: Ich möchte nicht hier reden. Nicht zwischen diesen roten Mauern. Gehen wir ein Stück?
 = 여기서 말하고 싶지 않아요. 이 붉은 벽돌 벽 사이에서는요. 좀 걸을까요?
 JAKOB: Wohin?
@@ -39,11 +39,11 @@ JAKOB: Wohin?
 KATRIN: Zum Wasser. Zu den Landungsbrücken. Zwanzig Minuten zu Fuß.
 = 물가로요. 란둥스브뤼켄으로요. 걸어서 20분이에요.
 AYLIN: Das gefällt mir nicht. Bei diesem Nebel sehen wir nur zehn Meter weit.
-= 마음에 안 들어요. 이런 안개 속에선 10미터밖에 안 보여요.
+= 마음에 안 들어. 이런 안개 속에선 10미터밖에 안 보여.
 JAKOB: Sie hat keine Tasche, keine Waffe. Ich gehe mit ihr.
 = 가방도 없고 무기도 없어요. 같이 걸을게요.
-AYLIN: Gut. Aber das Mikro bleibt an. Und Sie bleiben zwischen ihr und dem Wasser.
-= 좋아요. 하지만 마이크는 켜 둬요. 그리고 당신이 그녀와 물 사이에 서요.
+AYLIN: Gut. Aber das Mikro bleibt an. Und du bleibst zwischen ihr und dem Wasser.
+= 좋아. 하지만 마이크는 켜 둬. 그리고 네가 그녀와 물 사이에 서.
 KATRIN: Sagen Sie Frau Demir einen schönen Gruß. Ich weiß, dass sie zuhört.
 = 데미르 씨한테 안부 전해 주세요. 듣고 있는 거 알아요.
 JAKOB: Sie hört zu. Also, Katrin. Fang an.
@@ -69,8 +69,8 @@ JAKOB: Das hast du nie erzählt.
 = 한 번도 말한 적 없잖아.
 KATRIN: Ich wusste es selbst nicht. Die Stimme hat mir Kopien geschickt. Ihre Unterschrift. Ihre Berichte.
 = 저도 몰랐어요. 그 목소리가 사본을 보내왔어요. 엄마 서명. 엄마 보고서들.
-AYLIN: Fragen Sie, ob die Akte offiziell im Archiv liegt.
-= 그 파일이 공식적으로 문서고에 있는지 물어봐요.
+AYLIN: Frag, ob die Akte offiziell im Archiv liegt.
+= 그 파일이 공식적으로 문서고에 있는지 물어봐.
 JAKOB: Liegt die Akte deiner Mutter im Stasi-Unterlagen-Archiv?
 = 너희 어머니 파일이 슈타지 문서고에 있어?
 KATRIN: Nein. Genau wie Ihr Karton. Die Akte gibt es offiziell nicht. Nur die Stimme hat sie.
@@ -98,7 +98,7 @@ JAKOB: Du hast eben gesagt, du hast nie Geld bekommen.
 KATRIN: Ich nicht. Tim. Das ist ein Unterschied, oder? Ich habe mir das jahrelang so erklärt.
 = 저는 아니죠. 팀이요. 그건 다르잖아요, 그렇죠? 몇 년 동안 저 자신한테 그렇게 설명했어요.
 AYLIN: Name? Hat die Stimme einen Namen benutzt? Mann oder Frau?
-= 이름은요? 그 목소리가 이름을 썼어요? 남자예요, 여자예요?
+= 이름은? 그 목소리가 이름을 썼대? 남자야, 여자야?
 JAKOB: Frau Demir will wissen, wer die Stimme ist. Mann oder Frau.
 = 데미르 씨가 그 목소리가 누군지 알고 싶어 해. 남자인지 여자인지.
 KATRIN: Die Stimme ist die Stimme am Telefon. Mehr sage ich hier nicht.
@@ -155,7 +155,7 @@ JAKOB: Was heißt das?
 KATRIN: Die Werft hatte im Dezember ihren Mann verloren. Den Ingenieur mit dem Autounfall.
 = 조선소 쪽은 12월에 자기들 사람을 잃었어요. 교통사고 난 그 엔지니어요.
 AYLIN: Der Subunternehmer. Wir haben den Unfall nie geglaubt.
-= 그 하청업체 사람. 우린 그 사고를 한 번도 믿은 적 없어요.
+= 그 하청업체 사람. 우린 그 사고를 한 번도 믿은 적 없어.
 KATRIN: Die Stimme brauchte einen neuen Weg in die Werft. Und Sie, Herr Wendland, waren mein Ticket.
 = 그 목소리는 조선소로 들어갈 새 길이 필요했어요. 그리고 당신이, 벤틀란트 씨, 제 입장권이었어요.
 JAKOB: Ich habe Frau Demir gesagt: Ich komme nur mit dir. Ich habe dich selbst hereingebracht.
@@ -184,11 +184,11 @@ JAKOB: Den Strahlkies im Motor der Korvette?
 KATRIN: Vielleicht. Mir sagt niemand alles. Ich bin nur ein kleines Rad.
 = 아마도요. 저한테 전부 말해 주는 사람은 없어요. 저는 작은 톱니바퀴일 뿐이에요.
 AYLIN: Jakob, das reicht. Team eins kommt jetzt von hinten.
-= 야콥, 이걸로 충분해요. 1팀이 지금 뒤에서 들어가요.
-JAKOB: Noch nicht! Frau Demir, geben Sie mir fünf Minuten.
-= 아직 안 돼요! 데미르 씨, 5분만 줘요.
+= 야콥, 이걸로 충분해. 1팀이 지금 뒤에서 들어가.
+JAKOB: Noch nicht! Aylin, gib mir fünf Minuten.
+= 아직 안 돼! 아일린, 5분만 줘.
 AYLIN: Fünf Minuten. Keine Sekunde mehr.
-= 5분. 1초도 더는 안 돼요.
+= 5분. 1초도 더는 안 돼.
 KATRIN: Sie hat Angst, dass ich springe. Ich springe nicht. Das Wasser ist im Februar zu kalt.
 = 제가 뛰어내릴까 봐 걱정하나 봐요. 안 뛰어요. 2월엔 물이 너무 차가워요.
 JAKOB: Warum erzählst du mir das alles jetzt? Heute Abend?
@@ -212,7 +212,7 @@ JAKOB: Weiß die Stimme, dass du heute hier bist? Mit mir?
 KATRIN: Noch nicht. Um Mitternacht muss ich mich melden. Ein Wort: „Blüte". Dann ist alles in Ordnung.
 = 아직은요. 자정에 연락해야 해요. 한 단어요. "블뤼테(꽃)". 그러면 모든 게 괜찮다는 뜻이에요.
 AYLIN: Sie soll das Wort senden. Wir brauchen Zeit.
-= 그 단어를 보내게 해요. 우린 시간이 필요해요.
+= 그 단어를 보내게 해. 우린 시간이 필요해.
 JAKOB: Frau Demir möchte, dass du das Wort sendest.
 = 데미르 씨는 네가 그 단어를 보내길 원해.
 KATRIN: Und was möchten Sie, Herr Wendland?
@@ -238,8 +238,8 @@ JAKOB: Auch im BfV?
 = BfV에도?
 KATRIN: Das weiß ich nicht. Ich weiß nur, dass sie es immer weiß.
 = 그건 몰라요. 그 목소리가 언제나 안다는 것만 알아요.
-AYLIN: Sagen Sie ihr: Ein Geständnis ohne Namen ist wertlos.
-= 이름 없는 자백은 아무 가치가 없다고 전해요.
+AYLIN: Sag ihr: Ein Geständnis ohne Namen ist wertlos.
+= 이름 없는 자백은 아무 가치가 없다고 전해.
 JAKOB: Frau Demir sagt, ein Geständnis ohne Namen ist wertlos.
 = 데미르 씨가 그러는데, 이름 없는 자백은 아무 가치가 없대.
 KATRIN: Frau Demir hat recht. Darum biete ich Ihnen etwas anderes an.

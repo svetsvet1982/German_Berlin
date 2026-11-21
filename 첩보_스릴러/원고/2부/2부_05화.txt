@@ -22,30 +22,30 @@ JAKOB: Im Keller fühle ich mich sowieso am wohlsten. Das weißt du.
 = 난 어차피 지하실이 제일 편해. 너도 알잖아.
 KATRIN: Herr Archivar im Exil. Also, die vier Dateien sind fertig.
 = 망명 중인 기록관님. 자, 파일 네 개 준비됐어.
-JAKOB: Zeig mal. Welche Zahl haben wir geändert?
-= 보여 줘. 어떤 숫자를 바꿨지?
-KATRIN: Die Wandstärke an der Ringnaht sieben. Sonst ist alles gleich.
-= 7번 원주 이음부의 두께. 나머지는 전부 똑같아.
-JAKOB: Achtunddreißig Komma fünf, Komma sechs, Komma sieben, Komma acht Millimeter.
-= 38.5, 38.6, 38.7, 38.8밀리미터.
+JAKOB: Zeig mal. Hat Frau Demir dir gesagt, welche Zahl wir geändert haben?
+= 보여 줘. 데미르 팀장이 어떤 숫자를 바꿨는지 말해 줬어?
+KATRIN: Nur, dass es die Ringnaht sieben ist. Die Zahl selbst nicht. Ich sehe nur verschlüsselte Dateien.
+= 7번 원주 이음부라는 것만. 숫자 자체는 몰라. 난 암호화된 파일만 봐.
+JAKOB: So soll es sein. Eine Wandstärke, in jeder Version ein Zehntelmillimeter anders.
+= 그래야 해. 두께 하나, 판본마다 0.1밀리미터씩 다르게.
 KATRIN: Genau. Ein Zehntelmillimeter. Das merkt kein Mensch.
 = 맞아. 0.1밀리미터. 사람은 아무도 눈치 못 채.
 JAKOB: Ein Ingenieur merkt so etwas vielleicht. Aber er denkt dann an einen Tippfehler.
 = 엔지니어라면 눈치챌 수도 있어. 그래도 오타라고 생각하겠지.
-KATRIN: Und wer bekommt welche Version?
-= 그럼 누가 어떤 판본을 받아?
-JAKOB: Harmsen bekommt Komma sieben. Olbrich Komma fünf. Sveta Komma acht.
-= 하름센은 38.7. 올브리히는 38.5. 스베타는 38.8.
-KATRIN: Und Komma sechs geht auf den Testserver. Ich habe es mir notiert.
-= 그리고 38.6은 시험 서버로. 적어 뒀어.
-JAKOB: Notiert? Auf Papier?
-= 적어 뒀다고? 종이에?
-KATRIN: Im Kopf, Jakob. Ich bin doch nicht Feldmann.
-= 머릿속에, 야콥. 내가 펠트만도 아니고.
+KATRIN: Und wer bekommt welche Version? Das muss ich wenigstens wissen.
+= 그럼 누가 어떤 판본을 받아? 그건 적어도 알아야 해.
+JAKOB: Vier Dateien, vier Buchstaben: H für Harmsen, O für Olbrich, S für Sveta, T für den Testserver.
+= 파일 네 개, 글자 네 개. 하름센은 H, 올브리히는 O, 스베타는 S, 시험 서버는 T.
+KATRIN: Und welche Zahl in welcher Datei steckt, wissen nur du und Frau Demir.
+= 그리고 어느 파일에 무슨 숫자가 들었는지는 너랑 데미르 팀장만 알고.
+JAKOB: Nur wir zwei. Nicht einmal auf Papier.
+= 우리 둘만. 종이에도 안 적었어.
+KATRIN: Ein Archivar ohne Papier. Feldmann würde weinen.
+= 종이 없는 기록관이라니. 펠트만이 보면 울겠네.
 JAKOB: Gut. Wer kann alle vier Versionen sehen?
 = 좋아. 네 판본을 전부 볼 수 있는 사람은 누구야?
-KATRIN: Du, ich und Frau Demir. Sonst niemand. Ich habe die Rechte selbst gesetzt.
-= 너, 나, 그리고 데미르 팀장. 그 외엔 아무도 없어. 권한은 내가 직접 설정했어.
+KATRIN: Die Dateien? Du, ich und Frau Demir. Sonst niemand. Ich habe die Rechte selbst gesetzt.
+= 파일 말이야? 너, 나, 그리고 데미르 팀장. 그 외엔 아무도 없어. 권한은 내가 직접 설정했어.
 JAKOB: Und die Zugriffsprotokolle?
 = 접근 기록은?
 KATRIN: Laufen ab heute Mittag. Jeder Klick wird gespeichert. Jeder Ausdruck auch.
@@ -77,8 +77,8 @@ HARMSEN: Moin, Jan! Du siehst aus, als hättest du im Keller geschlafen.
 = 모인, 얀! 꼭 지하실에서 자다 나온 사람 같네.
 JAKOB: Moin, Jens. Fast. Ich war bei der IT wegen meines Passworts.
 = 모인, 옌스. 거의 그래. 비밀번호 때문에 IT에 갔다 왔어.
-HARMSEN: Die IT-Dame aus Berlin? Frau Lorenz? Die ist streng, was?
-= 베를린에서 온 IT 아가씨? 로렌츠 씨? 깐깐하지?
+HARMSEN: Die IT-Dame aus Potsdam? Frau Lorenz? Die ist streng, was?
+= 포츠담에서 온 IT 아가씨? 로렌츠 씨? 깐깐하지?
 JAKOB: Sehr streng. Sie wollte zwölf Zeichen und eine Zahl.
 = 아주 깐깐해. 열두 글자에 숫자 하나를 넣으래.
 KATRIN: Guten Morgen, Herr Harmsen. Herr Wendt, Ihr neues Passwort funktioniert jetzt.
@@ -89,8 +89,8 @@ OLBRICH: Alle mal herhören, bitte! Ich habe nur fünf Minuten.
 = 다들 잠깐 주목해 주세요! 저 5분밖에 없어요.
 HARMSEN: Der Herr Projektleiter hat immer nur fünf Minuten. Dat is so.
 = 프로젝트 매니저님은 항상 5분밖에 없지. 원래 그래.
-OLBRICH: Herr Harmsen, bitte. Die neue Spezifikation für die Ringnähte ist da.
-= 하름센 씨, 제발요. 원주 이음부 새 사양서가 나왔어요.
+OLBRICH: Jens, bitte. Die neue Spezifikation für die Ringnähte ist da.
+= 옌스, 잠깐. 원주 이음부 새 사양서가 나왔어.
 SVETA: Schon wieder neu? Wir haben letzte Woche nach der alten geschweißt.
 = 또 새 거예요? 지난주에 옛날 걸로 용접했는데요.
 OLBRICH: Nur eine kleine Korrektur, Frau Koval. Jeder bekommt seine Datei persönlich.
@@ -122,16 +122,16 @@ HARMSEN: Eben drum. Im Winter besucht man seine Freunde. Auch die aus Holz.
 JAKOB: Dann komme ich. Samstag.
 = 그럼 갈게. 토요일에.
 #SECTION 전개 2 — FREITAG, DREIUNDZWANZIG UHR
-AYLIN: Herr Wendland, es ist dreiundzwanzig Uhr zwölf. Haben Sie das Forum offen?
-= 벤틀란트 씨, 23시 12분이에요. 포럼 열어 놨어요?
+AYLIN: Herr Wendt, es ist dreiundzwanzig Uhr zwölf. Haben Sie das Forum offen?
+= 벤트 씨, 23시 12분이에요. 포럼 열어 놨어요?
 JAKOB: Seit einer Stunde. Ich drücke alle zwei Minuten auf „Aktualisieren".
 = 한 시간째요. 2분마다 '새로 고침'을 누르고 있어요.
 AYLIN: Und?
 = 그래서요?
 JAKOB: Nichts. Kein neuer Beitrag. Die Blume schweigt.
 = 아무것도 없어요. 새 글이 없어요. 꽃이 조용해요.
-AYLIN: Das ist das erste Mal seit Februar. Letzte Woche war er auf die Minute pünktlich.
-= 2월 들어 처음이에요. 지난주엔 분 단위까지 정확했는데.
+AYLIN: Das ist das erste Mal, dass er zu spät ist. Letzte Woche war er auf die Minute pünktlich.
+= 늦는 건 이번이 처음이에요. 지난주엔 분 단위까지 정확했어요.
 JAKOB: Vielleicht hat er die Falle bemerkt.
 = 어쩌면 함정을 눈치챘을지도 모르죠.
 AYLIN: Oder er braucht länger, weil die Datei neu ist. Haben Sie die Protokolle?
@@ -150,8 +150,8 @@ AYLIN: Dann prüfen wir. Dann beobachten wir. Und dann entscheide ich.
 = 그럼 확인하죠. 그다음엔 지켜보고요. 그리고 결정은 제가 해요.
 JAKOB: Sie entscheiden. Nicht ich.
 = 팀장님이 결정하시는 거죠. 제가 아니라.
-AYLIN: Sie sind Archivar, Herr Wendland. Sie sammeln. Ich entscheide. So ist die Arbeitsteilung.
-= 벤틀란트 씨는 기록 담당자예요. 모으는 사람이죠. 결정은 내가 해요. 그게 역할 분담이에요.
+AYLIN: Sie sind Archivar, Herr Wendt. Sie sammeln. Ich entscheide. So ist die Arbeitsteilung.
+= 벤트 씨는 기록 담당자예요. 모으는 사람이죠. 결정은 내가 해요. 그게 역할 분담이에요.
 JAKOB: Ich gehe morgen mit Harmsen zu seinem Boot.
 = 내일 하름센이랑 그 사람 보트 보러 가요.
 AYLIN: Gut. Hören Sie zu. Fragen Sie nichts Technisches. Lassen Sie ihn reden.
@@ -262,14 +262,14 @@ KATRIN: Einen Tag zu spät. Aber mit Blume. Und mit der Ringnaht sieben.
 = 하루 늦었어. 근데 꽃이 달렸어. 그리고 7번 원주 이음부야.
 JAKOB: Welche Wandstärke?
 = 두께가 몇이야?
-KATRIN: Willst du es wirklich von mir hören? Frau Demir ruft dich gleich an.
-= 정말 나한테서 듣고 싶어? 데미르 팀장이 곧 전화할 거야.
-JAKOB: Katrin, welche Zahl?
-= 카트린, 숫자가 뭐야?
+KATRIN: Auf dem Vorschaubild kann man die Zahl nicht lesen. Frau Demirs Leute kaufen gerade die ganze Datei.
+= 미리 보기 이미지로는 숫자가 안 읽혀. 데미르 팀장 쪽 사람들이 지금 파일 전체를 사고 있어.
+JAKOB: Und? Weißt du schon mehr?
+= 그래서? 더 아는 거 있어?
 KATRIN: Sie ruft schon. Ich lege auf.
 = 벌써 전화 오네. 끊을게.
-AYLIN: Herr Wendland. Wo sind Sie gerade?
-= 벤틀란트 씨. 지금 어디예요?
+AYLIN: Herr Wendt. Wo sind Sie gerade?
+= 벤트 씨. 지금 어디예요?
 JAKOB: In Finkenwerder. Vor der Bootshalle.
 = 핑켄베르더요. 보트 창고 앞이에요.
 AYLIN: Ist er bei Ihnen?
@@ -280,7 +280,7 @@ AYLIN: Dann hören Sie gut zu und sagen Sie nichts.
 = 그럼 잘 듣고 아무 말도 하지 마세요.
 JAKOB: Ich höre.
 = 듣고 있어요.
-AYLIN: Achtunddreißig Komma sieben Millimeter. Die Version im Netz ist die von Harmsen.
-= 38.7밀리미터. 인터넷에 올라온 판본은 하름센 거예요.
+AYLIN: Wir haben die Datei. Achtunddreißig Komma sieben Millimeter. Die Version im Netz ist die von Harmsen.
+= 파일 손에 넣었어요. 38.7밀리미터. 인터넷에 올라온 판본은 하름센 거예요.
 #NEXT
 2부 6화 — «Harmsens Zweifel»(하름센의 의심) — 일요일, 빌헬름스부르크의 정원 오두막. 병역 설문지를 든 손자 마츠가 찾아와 할아버지와 부딪치고 떠난다. 남은 하름센은 무기 수출과 회사에 대한 분노를 털어놓는다. 동기는 충분해 보이고, 야콥은 친구와 임무 사이에서 흔들린다.

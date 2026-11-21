@@ -84,8 +84,8 @@ JAKOB: Keine Fotos. Nur Dateien. Kormoran, Druckkörper, Schweißnaht… Das sin
 = 사진은 없어요. 파일뿐이에요. 코르모란, 압력 선체, 용접 이음… 포럼에 올라온 조각들이에요.
 AYLIN: Alle?
 = 전부?
-JAKOB: Alle fünf. Mit Datum. Jeden Freitag eine Datei. Und die letzte ist seine Version vom Köder.
-= 다섯 개 전부요. 날짜까지 있어요. 매주 금요일에 하나씩. 그리고 마지막 건 그 사람이 받은 미끼 판본이에요.
+JAKOB: Alle aus diesem Monat. Und drei alte aus dem Herbst. Mit Datum. Die letzte ist seine Version vom Köder.
+= 이번 달 것 전부요. 그리고 가을의 옛날 것 세 개. 날짜까지 있어요. 마지막 건 그 사람이 받은 미끼 판본이에요.
 AYLIN: Dann haben wir ihn. Ich rufe das Team an.
 = 그럼 잡았네요. 팀에 전화할게요.
 JAKOB: Warten Sie. Bitte. Das ist mir zu perfekt.
@@ -131,8 +131,8 @@ JAKOB: Die Kameras haben keinen Strom.
 = 카메라도 전기가 없잖아.
 KATRIN: Ich weiß nicht, was ich weniger mag. Kameras oder Dunkelheit.
 = 카메라랑 어둠 중에 뭐가 더 싫은지 모르겠어.
-JAKOB: In Harmsens Ordner liegen alle fünf Fragmente. Ordentlich, mit Datum. Wie in einem Museum.
-= 하름센 폴더에 조각 다섯 개가 다 있어. 날짜까지 깔끔하게. 박물관처럼.
+JAKOB: In Harmsens Ordner liegen die Fragmente. Ordentlich, mit Datum. Wie in einem Museum.
+= 하름센 폴더에 그 조각들이 있어. 날짜까지 깔끔하게. 박물관처럼.
 KATRIN: Dann ist es doch klar. Es tut mir leid. Ich weiß, du magst ihn.
 = 그럼 분명하네. 미안해. 너 그 사람 좋아하는 거 알아.
 JAKOB: Warum sagt das heute jeder? Ob ich ihn mag, ist nicht die Frage.
@@ -184,8 +184,8 @@ JAKOB: Darf ich dich etwas über Jens fragen?
 = 옌스에 대해 하나 물어봐도 돼?
 SVETA: Über Jens? Er ist der einzige Chef hier, der mich nicht „die Ukrainerin" nennt.
 = 옌스? 여기서 나를 "우크라이나 여자"라고 안 부르는 유일한 상사야.
-JAKOB: Wo war er letzten Freitag gegen elf Uhr abends?
-= 지난 금요일 밤 열한 시쯤 그 사람 어디 있었어?
+JAKOB: Wo war er letzten Freitag gegen zehn Uhr abends?
+= 지난 금요일 밤 열 시쯤 그 사람 어디 있었어?
 SVETA: Warum willst du das wissen?
 = 그건 왜 알고 싶은데?
 JAKOB: Bitte, Sveta. Es ist wichtig. Wichtiger, als ich dir sagen kann.
@@ -198,16 +198,16 @@ SVETA: Das steht im Schweißprotokoll. Jede Naht hat einen Zeitstempel und zwei 
 = 용접 기록에 있어. 이음마다 시각이 찍히고 서명이 두 개 들어가.
 JAKOB: Zeig es mir. Bitte.
 = 보여 줘. 부탁이야.
-SVETA: Hier. Freitag, zweiundzwanzig Uhr dreißig bis dreiundzwanzig Uhr vierzig. Unterschrift Koval, Unterschrift Harmsen.
-= 여기. 금요일, 22시 30분부터 23시 40분까지. 코발 서명, 하름센 서명.
+SVETA: Hier. Freitag, einundzwanzig Uhr dreißig bis dreiundzwanzig Uhr vierzig. Unterschrift Koval, Unterschrift Harmsen.
+= 여기. 금요일, 21시 30분부터 23시 40분까지. 코발 서명, 하름센 서명.
 JAKOB: Und er war die ganze Zeit hier? Nicht kurz oben im Büro?
 = 그동안 계속 여기 있었어? 잠깐 위층 사무실에 간 것도 아니고?
 SVETA: Jan, bei einem Druckkörpertest geht niemand weg. Er stand neben mir und hat zu viel Kaffee getrunken.
 = 얀, 압력 선체 시험 중엔 아무도 안 나가. 내 옆에 서서 커피를 너무 많이 마셨어.
-JAKOB: Um dreiundzwanzig Uhr vier hat sich jemand an seinem Rechner in Halle sieben angemeldet.
-= 23시 4분에 누가 7번 홀에 있는 그 사람 컴퓨터에 로그인했어.
-SVETA: Das ist unmöglich. Halle sieben ist fünf Minuten zu Fuß. Er war hier.
-= 그건 불가능해. 7번 홀은 걸어서 5분 거리야. 그 사람은 여기 있었어.
+JAKOB: Um zweiundzwanzig Uhr hat jemand mit seinem Konto eine geheime Datei geöffnet. Angeblich von zu Hause.
+= 22시에 누가 그 사람 계정으로 기밀 파일을 열었어. 집에서 접속했다고 되어 있고.
+SVETA: Das ist unmöglich. Er hatte nicht einmal sein Handy dabei. Er war hier.
+= 그건 불가능해. 휴대폰도 안 갖고 있었어. 그 사람은 여기 있었어.
 JAKOB: Dann war es nicht Jens am Rechner. Sondern jemand mit seinem Passwort.
 = 그럼 컴퓨터 앞에 있던 건 옌스가 아니야. 그 사람 비밀번호를 가진 누군가지.
 SVETA: Jan… Wer bist du eigentlich?
@@ -225,8 +225,8 @@ JAKOB: Frau Demir, hören Sie mich? Ich habe etwas Besseres als ein Gefühl.
 = 데미르 씨, 들려요? 느낌보다 나은 걸 찾았어요.
 AYLIN: Ich höre.
 = 듣고 있어요.
-JAKOB: Das Schweißprotokoll. Harmsen war beim Upload in Halle vier. Mit Zeitstempel und zwei Unterschriften.
-= 용접 기록이요. 업로드 시각에 하름센은 4번 홀에 있었어요. 시각 기록과 서명 두 개까지 있어요.
+JAKOB: Das Schweißprotokoll. Harmsen war in Halle vier, als sein Konto die Köderdatei geöffnet hat. Mit Zeitstempel und zwei Unterschriften.
+= 용접 기록이요. 그 사람 계정이 미끼 파일을 열었을 때 하름센은 4번 홀에 있었어요. 시각 기록과 서명 두 개까지 있어요.
 AYLIN: Und der Login an seinem Rechner?
 = 그럼 그 사람 컴퓨터 로그인은요?
 JAKOB: Jemand anders. Mit seinem Passwort. Die Dateien im Ordner „Anke" hat jemand für uns hingelegt.
@@ -259,8 +259,8 @@ JAKOB: Frau Ahlers, hier Wendt. Was ist passiert?
 = 알러스 씨, 벤트입니다. 무슨 일이에요?
 AHLERS: In der Korvette im Reparaturdock. Im Motorblock ist Sand. Strahlkies. Jemand hat den Motor sabotiert.
 = 수리 도크의 초계함이에요. 엔진 블록에 모래가 있어요. 연마용 모래요. 누가 엔진을 망가뜨렸어요.
-AYLIN: Wie im letzten Jahr. Die gleiche Methode.
-= 작년이랑 똑같네. 같은 수법이야.
+AYLIN: Wie vor zwei Jahren hier im Hafen. Die gleiche Methode.
+= 2년 전 이 항구에서랑 똑같네요. 같은 수법이에요.
 JAKOB: Frau Ahlers, sind Sie allein da unten?
 = 알러스 씨, 거기 혼자 계세요?
 AHLERS: Nein. Hier liegt jemand. Auf dem Steg, direkt am Wasser.

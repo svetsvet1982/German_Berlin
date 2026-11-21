@@ -11,7 +11,7 @@ JAKOB | BfV에 파견된 前 BND 기록 담당자 · 44세 · 조선소에서는
 KATRIN | 야콥의 10년 동료 · 39세 · 조선소에서는 IT 보안 컨설턴트
 BARKEEPER | 호텔 바의 바텐더 · 60대 · 함부르크 토박이
 #INTRO
-※ 폭풍 해일 밤에 쓰러진 하름센은 아직 깨어나지 못했습니다. 미끼 문서 네 판본에 모두 접근할 수 있었던 사람은 야콥, 아일린, 그리고 배포를 기술적으로 맡은 카트린뿐입니다. 어제 병원에서 야콥은 카트린이 보안실 문에 1203을 누르는 것을 보았습니다. 1부에서 둘이 사본을 숨긴 중앙역 사물함의 비밀번호와 같은 숫자입니다. 미끼 판본들은 수치 하나씩만 달랐고, 어느 판본에 어떤 숫자가 들어갔는지는 야콥과 아일린만 압니다. 카트린은 파일을 암호화된 상태로만 다루었습니다. 오늘 밤 야콥은 카트린의 호텔 바로 찾아갑니다. 조선소에서는 서로 Sie를 쓰지만, 둘만 있을 때는 du입니다. 표현 초점: 기억과 감정을 말하는 표현 — sich erinnern, damals, beiläufig, verraten, ehrlich gesagt, Weißt du noch?
+※ 폭풍 해일 밤에 쓰러진 하름센은 아직 깨어나지 못했습니다. 미끼 문서 네 판본에 모두 접근할 수 있었던 사람은 야콥, 아일린, 그리고 배포를 기술적으로 맡은 카트린뿐입니다. 어제 저녁 조선소 보안실 앞에서 야콥은 카트린이 문에 1203을 누르는 것을 보았고, 그 사실을 아일린에게도 알렸습니다. 1부에서 둘이 사본을 숨긴 중앙역 사물함의 비밀번호와 같은 숫자입니다. 미끼 판본들은 수치 하나씩만 달랐고, 어느 판본에 어떤 숫자가 들어갔는지는 야콥과 아일린만 압니다. 카트린은 파일을 암호화된 상태로만 다루었습니다. 오늘 밤 야콥은 카트린의 호텔 바로 찾아갑니다. 조선소에서는 서로 Sie를 쓰지만, 둘만 있을 때는 du입니다. 표현 초점: 기억과 감정을 말하는 표현 — sich erinnern, damals, beiläufig, verraten, ehrlich gesagt, Weißt du noch?
 #SECTION 도입 — ZWEI KAFFEE, SCHWARZ
 BARKEEPER: Moin. Die Küche ist zu, aber die Bar hat noch eine Stunde auf.
 = 모인. 주방은 닫았는데, 바는 한 시간 더 해요.
@@ -171,23 +171,23 @@ JAKOB: Grammatik war nie meine Stärke.
 = 문법은 원래 내 약점이었어.
 KATRIN: Doch. Grammatik war immer deine Stärke. Das ist ja das Problem.
 = 아니. 문법은 늘 네 강점이었어. 그게 문제지.
-#SECTION 위기 — HUNDERTZWEIUNDVIERZIG GRAD
+#SECTION 위기 — ACHTUNDDREISSIG KOMMA SIEBEN
 JAKOB: Weißt du, was ich nicht verstehe? Harmsen ist ein sehr guter Ingenieur.
 = 내가 뭘 이해 못 하는지 알아? 하름센은 아주 뛰어난 엔지니어야.
 KATRIN: Das bestreitet niemand.
 = 그건 아무도 부정 안 해.
 JAKOB: Er hätte sofort gemerkt, dass in seiner Version ein Wert falsch ist.
 = 자기 판본에 수치 하나가 틀렸다는 걸 바로 알아챘을 거야.
-KATRIN: Natürlich hätte er das gemerkt. Hundertzweiundvierzig Grad Vorwärmtemperatur für diesen Stahl? Das ist doch absurd.
-= 당연히 알아챘겠지. 이 강철에 예열 온도 142도? 말도 안 되잖아.
-JAKOB: Absurd. Ja.
-= 말도 안 되지. 그래.
-KATRIN: Jeder Schweißer im Dock lacht darüber. Sveta hätte es auch sofort gesehen.
-= 도크의 용접공이라면 누구나 그걸 보고 웃어. 스베타도 바로 봤을 거야.
+KATRIN: Natürlich hätte er das gemerkt. Achtunddreißig Komma sieben an der Ringnaht sieben? Die Naht hat er selbst berechnet.
+= 당연히 알아챘겠지. 7번 원주 이음부에 38.7? 그 이음부는 그 사람이 직접 계산한 거잖아.
+JAKOB: Achtunddreißig Komma sieben. Ja.
+= 38.7. 그렇지.
+KATRIN: Ein Zehntel daneben, und er schaut zweimal hin. Sveta hätte es auch sofort gesehen.
+= 0.1만 틀려도 그 사람은 두 번 들여다봐. 스베타도 바로 봤을 거야.
 JAKOB: Wahrscheinlich.
 = 아마 그렇겠지.
-KATRIN: Also warum leakt er eine Version, die so offensichtlich falsch ist? Das spricht doch für ihn, oder?
-= 그러니까 왜 그렇게 뻔히 틀린 판본을 유출하겠어? 오히려 그 사람한테 유리한 얘기 아니야?
+KATRIN: Also warum leakt er eine Version mit einem Fehler, den er selbst sofort sieht? Das spricht doch für ihn, oder?
+= 그러니까 왜 자기가 바로 알아볼 오류가 있는 판본을 유출하겠어? 오히려 그 사람한테 유리한 얘기 아니야?
 JAKOB: Das ist eine gute Frage.
 = 좋은 질문이야.
 KATRIN: Was ist? Warum guckst du so?
@@ -214,10 +214,10 @@ KATRIN: Dann hat Aylin es mir erzählt. Gestern. Oder vorgestern.
 = 그럼 아일린이 말해 줬나 봐. 어제. 아니면 그저께.
 JAKOB: Aylin spricht nie über Zahlen. Mit niemandem. Nicht einmal mit mir am Telefon.
 = 아일린은 숫자 얘기는 절대 안 해. 누구한테도. 나한테도 전화로는 안 해.
-KATRIN: Dann habe ich es irgendwo gelesen. Im Bericht.
-= 그럼 어디서 읽었나 보지. 보고서에서.
-JAKOB: Im Bericht steht „Version H". Keine Zahl.
-= 보고서엔 "H 판본"이라고만 적혀 있어. 숫자는 없어.
+KATRIN: Dann habe ich es im Forum gesehen. Auf dem Bild.
+= 그럼 포럼에서 봤나 봐. 그 이미지에서.
+JAKOB: Auf dem Vorschaubild kann man die Zahl nicht lesen. Das hast du mir selbst gesagt. Und im Bericht steht nur „Version H".
+= 미리 보기 이미지로는 숫자가 안 읽혀. 네가 직접 그렇게 말했잖아. 그리고 보고서엔 "H 판본"이라고만 적혀 있어.
 KATRIN: Jakob…
 = 야콥…
 JAKOB: Ich habe nichts gesagt, Katrin. Ich habe nur meinen Kaffee nicht getrunken.
