@@ -4,7 +4,7 @@ episode: 11
 title: Die Brücke an der Grenze
 subtitle_ko: 국경의 다리
 place_ko: 맞교환의 밤, 마르히 강 위 '자유의 다리'
-setting: 2027년 5월 29일(토) 밤 22시 40분~자정, 오스트리아 슐로스 호프와 슬로바키아 데빈스카 노바 베스를 잇는 자전거 다리(Fahrradbrücke der Freiheit)
+setting: 2027년 5월 29일(토) 밤 23시 40분~이튿날 0시 30분, 오스트리아 슐로스 호프와 슬로바키아 데빈스카 노바 베스를 잇는 자전거 다리(Fahrradbrücke der Freiheit)
 level: B2
 #CAST
 JAKOB | 야콥 벤틀란트 · 44세 · BND 기록 담당자, 맞교환 동행자
@@ -159,8 +159,8 @@ JAKOB: Herr Nemzow, es gibt eine andere Möglichkeit. Frau Gruber hat sie vorber
 = 넴초프 씨, 다른 방법이 있습니다. 그루버 씨가 준비해 뒀어요.
 NEMZOW: Die Österreicher haben immer eine andere Möglichkeit. Meistens ist sie teuer.
 = 오스트리아 사람들은 늘 다른 방법이 있죠. 대개는 비싸고요.
-THERESA: Oleg Saizew. Verurteilt vor zwei Jahren in Wien, zwölf Jahre Haft. Der Bundespräsident hat die Begnadigung heute Nachmittag unterschrieben.
-= 올레크 자이체프. 2년 전 빈에서 징역 12년 선고. 대통령이 오늘 오후 사면에 서명했어요.
+THERESA: Oleg Saizew. Voriges Jahr in Wien verurteilt, zwölf Jahre Haft. Der Bundespräsident hat die Begnadigung heute Nachmittag unterschrieben.
+= 올레크 자이체프. 작년에 빈에서 징역 12년 선고. 대통령이 오늘 오후 사면에 서명했어요.
 NEMZOW: Saizew… Sie bieten mir einen Mann, den Sie selbst gefangen haben, statt einer Frau, die Sie nicht festhalten können.
 = 자이체프라… 당신들이 직접 잡은 남자를, 붙잡아 둘 수도 없는 여자 대신 내놓겠다는 거군요.
 THERESA: Ich biete Ihnen einen Mann, der in einer halben Stunde hier sein kann. Er sitzt in unserem Wagen am Schloss.
@@ -185,7 +185,7 @@ REITER: Darf ich… darf ich mich setzen? Meine Beine…
 = 저… 앉아도 될까요? 다리가…
 NEMZOW: Setzen Sie sich, Herr Reiter. Auf einer Brücke ist der Boden für alle gleich.
 = 앉으세요, 라이터 씨. 다리 위에선 바닥이 누구에게나 똑같으니까요.
-#SECTION 위기 — DER FILM AUS LEIPZIG
+#SECTION 위기 — DER FILM AUS HALLE
 NEMZOW: Moskau überlegt. Moskau überlegt immer lange, wenn es nachts ist.
 = 모스크바가 고민 중입니다. 모스크바는 밤이면 늘 오래 고민하죠.
 NEMZOW: In der Zwischenzeit, Herr Wendland, eine persönliche Frage. Was tragen Sie in Ihrer linken Manteltasche?
@@ -196,8 +196,8 @@ NEMZOW: Sie fassen alle zwanzig Sekunden hinein. Wie ein Mann, der prüft, ob se
 = 20초마다 손을 넣으시잖아요. 심장이 아직 뛰는지 확인하는 사람처럼.
 AYLIN: Jakob, nicht. Zeig es ihm nicht.
 = 야콥, 안 돼. 보여 주지 마.
-JAKOB: Doch. Er soll es sehen. Eine Filmdose, Herr Nemzow. Leipzig, 1981.
-= 아니, 봐야 해. 필름 통입니다, 넴초프 씨. 라이프치히, 1981년.
+JAKOB: Doch. Er soll es sehen. Eine Filmdose, Herr Nemzow. Halle, 1981.
+= 아니, 봐야 해. 필름 통입니다, 넴초프 씨. 할레, 1981년.
 NEMZOW: Ah. Der berühmte Film des Herrn Brückner. Man hat mir viel davon erzählt.
 = 아. 브뤼크너 씨의 그 유명한 필름이군요. 이야기는 많이 들었습니다.
 JAKOB: Wer hat Ihnen davon erzählt? Brückner selbst bestimmt nicht.
