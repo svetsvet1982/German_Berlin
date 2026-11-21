@@ -1,0 +1,292 @@
+#META
+part: 1
+episode: 8
+title: Der Mann vom Ministerium
+subtitle_ko: 장관실에서 온 남자
+place_ko: 장다르멘마르크트의 카페
+setting: 2026년 11월 18일(수) 오후 세 시, 장다르멘마르크트의 카페 (정보기관법 개혁안 통과 닷새 뒤)
+level: B1
+#CAST
+JAKOB | BND 기록보관 부서 사무관 · 44세 · 베를린-리히텐베르크 출신
+KATRIN | 야콥의 10년 동료 기록 담당자 · 39세
+RADIO | 뉴스 라디오 아나운서 (가상 방송)
+ROTH | 국방장관 비서실장 · 47세
+KELLNERIN | 카페 종업원
+SANDRA | 야콥의 전처 · 초등학교 교사
+#INTRO
+※ 지난 화에서 야콥은 옛 슈타지 문서고에서 크란츠 장관의 담당관이 HVA 소령 호르스트 브뤼크너였다는 사실을 알아냈고, 기록상 1994년에 사망한 그 남자에게서 직접 전화를 받았습니다. 지난 금요일 정보기관법 개혁안은 연방의회를 통과했고, 연방참사원 심의를 앞두고 있습니다. 이번 화에서는 장관 비서실장 제바스티안 로트가 처음으로 야콥 앞에 나타납니다. 로트는 끝까지 Sie와 정중한 접속법을 쓰지만, 그 정중함이 곧 위협입니다. 표현 초점: 제안과 협박의 어휘 — Angebot, Beförderung, drohen, Landesverrat, Konsequenzen / 정중한 표현 Würden Sie…, Ich möchte Ihnen… vorschlagen.
+#SECTION 도입 — EINE EINLADUNG
+RADIO: Berlin. Die Bundesanwaltschaft hat heute Morgen einen mutmaßlichen Spion festnehmen lassen.
+= 베를린. 연방검찰은 오늘 아침 스파이 혐의자 한 명을 체포했습니다.
+RADIO: Der Mann soll Informationen an einen Kontakt in der russischen Botschaft weitergegeben haben.
+= 이 남성은 러시아 대사관의 연락책에게 정보를 넘긴 혐의를 받고 있습니다.
+KATRIN: Schon wieder einer. Das ist der dritte in diesem Jahr, oder?
+= 또 한 명이네. 올해 들어 세 번째지?
+JAKOB: Mach das Radio aus, Katrin. Ich kann nicht denken.
+= 라디오 좀 꺼, 카트린. 생각을 못 하겠어.
+KATRIN: Du denkst seit Montag nur an einen Mann. Brückner.
+= 너 월요일부터 한 사람 생각만 하잖아. 브뤼크너.
+JAKOB: Ein toter Mann, der telefoniert. Das steht nicht in der Akte.
+= 전화를 거는 죽은 사람. 그런 건 파일에 없어.
+KATRIN: Und jetzt? Du hast gesagt, du hast eine Mail bekommen.
+= 그래서 이제 어떡해? 메일 받았다며.
+JAKOB: Eine Einladung. Vom Verteidigungsministerium. Von einem Herrn Roth.
+= 초대장이야. 국방부에서. 로트라는 사람한테서.
+KATRIN: Sebastian Roth? Der Büroleiter von Kranz?
+= 제바스티안 로트? 크란츠 비서실장?
+JAKOB: Genau der. Er möchte „einen Kaffee mit mir trinken". Heute um drei.
+= 바로 그 사람. 나랑 "커피 한잔하고 싶대". 오늘 세 시에.
+KATRIN: Wo?
+= 어디서?
+JAKOB: Am Gendarmenmarkt. Ein Café mit Blick auf den Dom.
+= 장다르멘마르크트. 성당이 보이는 카페.
+KATRIN: Ein öffentlicher Ort. Das ist gut. Da kann nicht viel passieren.
+= 공공장소네. 그건 다행이다. 거기선 별일 없을 거야.
+JAKOB: Du klingst wie eine Agentin aus dem Fernsehen.
+= 너 TV에 나오는 요원처럼 말한다.
+KATRIN: Und du klingst wie ein Mann, der Angst hat.
+= 그리고 넌 겁먹은 사람처럼 말하고.
+JAKOB: Ich habe keine Angst. Ich bin nur… vorsichtig.
+= 안 무서워. 그냥… 조심하는 거야.
+KATRIN: Soll ich mitkommen? Ich kann am Nebentisch sitzen.
+= 같이 갈까? 옆 테이블에 앉아 있을 수 있어.
+JAKOB: Nein. Wenn er dich sieht, bist du auch in Gefahr.
+= 아니. 그 사람이 널 보면 너도 위험해져.
+KATRIN: Dann schick mir eine Nachricht. Jede halbe Stunde.
+= 그럼 메시지 보내. 30분마다.
+JAKOB: Jede halbe Stunde. Versprochen.
+= 30분마다. 약속할게.
+KATRIN: Und Jakob? Unterschreib nichts.
+= 그리고 야콥? 아무것도 서명하지 마.
+JAKOB: Ich bin Archivar. Ich weiß, was eine Unterschrift bedeutet.
+= 나 기록 담당자야. 서명이 무슨 뜻인지 알아.
+#SECTION 전개 1 — KAFFEE AM GENDARMENMARKT
+ROTH: Herr Wendland! Pünktlich auf die Minute. Das gefällt mir.
+= 벤틀란트 씨! 정각에 오셨군요. 마음에 듭니다.
+JAKOB: Guten Tag, Herr Roth. Sie haben mich eingeladen. Ich bin neugierig.
+= 안녕하세요, 로트 씨. 초대하셨잖아요. 궁금해서요.
+ROTH: Setzen Sie sich bitte. Hier ist der beste Platz. Man sieht den ganzen Platz.
+= 앉으세요. 여기가 제일 좋은 자리예요. 광장 전체가 보이죠.
+KELLNERIN: Guten Tag. Was darf ich Ihnen bringen?
+= 안녕하세요. 뭘 가져다드릴까요?
+ROTH: Einen Cappuccino, bitte. Und für Sie, Herr Wendland?
+= 카푸치노 한 잔이요. 벤틀란트 씨는요?
+JAKOB: Einen Kaffee. Schwarz, bitte.
+= 커피요. 블랙으로요.
+KELLNERIN: Gern. Kommt sofort.
+= 네. 바로 가져다드릴게요.
+ROTH: Schwarz. Natürlich. Ein Mann ohne Zucker und ohne Milch. Ein Mann der Fakten.
+= 블랙이라. 역시. 설탕도 우유도 없는 남자. 사실만 보는 사람이군요.
+JAKOB: Woher wissen Sie, was für ein Mann ich bin?
+= 제가 어떤 사람인지 어떻게 아세요?
+ROTH: Ich lese gern. Personalakten zum Beispiel. Ihre ist sehr gut.
+= 저는 읽는 걸 좋아해요. 예를 들면 인사 파일 같은 거요. 당신 파일은 아주 훌륭하더군요.
+JAKOB: Meine Personalakte liegt beim BND. Nicht im Ministerium.
+= 제 인사 파일은 BND에 있어요. 국방부가 아니라.
+ROTH: Berlin ist ein Dorf, Herr Wendland. Papiere reisen schnell.
+= 베를린은 작은 마을이에요, 벤틀란트 씨. 서류는 빨리 돌아다니죠.
+JAKOB: Was möchten Sie von mir?
+= 저한테 원하시는 게 뭐죠?
+ROTH: Zuerst möchte ich Ihnen danken. Sie arbeiten seit vierzehn Jahren sehr korrekt.
+= 우선 감사드리고 싶어요. 14년 동안 아주 성실하게 일하셨잖아요.
+JAKOB: Danke. Aber dafür brauchen Sie keinen Kaffee.
+= 감사합니다. 그런데 그 말을 하려고 커피까지 필요하진 않잖아요.
+ROTH: Sie haben recht. Ich möchte Ihnen etwas vorschlagen.
+= 맞는 말씀이에요. 하나 제안하고 싶은 게 있어요.
+KELLNERIN: Einmal Cappuccino, einmal schwarz. Bitte schön.
+= 카푸치노 하나, 블랙 하나 나왔습니다.
+ROTH: Vielen Dank. … Also, Herr Wendland. Kennen Sie Brüssel?
+= 고맙습니다. … 자, 벤틀란트 씨. 브뤼셀 아세요?
+JAKOB: Ich war einmal dort. Mit meiner Tochter. Es hat geregnet.
+= 한 번 가 봤어요. 딸이랑. 비가 왔죠.
+ROTH: In Brüssel regnet es immer. Aber die Arbeit ist interessant.
+= 브뤼셀엔 늘 비가 와요. 그래도 일은 흥미롭죠.
+JAKOB: Was für eine Arbeit?
+= 무슨 일이요?
+ROTH: Eine Stelle bei der NATO. Archiv und Informationssicherheit. Ab Januar.
+= NATO 자리예요. 기록 관리와 정보 보안. 1월부터요.
+JAKOB: Eine Abordnung?
+= 파견이요?
+ROTH: Eine Beförderung. Zwei Besoldungsstufen höher. Eine Wohnung bekommen Sie auch.
+= 승진이죠. 호봉이 두 단계 올라요. 집도 나오고요.
+JAKOB: Und warum ausgerechnet ich?
+= 그런데 왜 하필 저죠?
+ROTH: Weil Sie gut sind. Und weil Berlin im Moment… kein guter Ort für Sie ist.
+= 유능하시니까요. 그리고 지금 베를린은… 당신에게 좋은 곳이 아니니까요.
+JAKOB: Das klingt nicht wie ein Kompliment.
+= 칭찬처럼 들리지 않네요.
+ROTH: Es ist ein Angebot, Herr Wendland. Ein sehr freundliches Angebot.
+= 제안이에요, 벤틀란트 씨. 아주 친절한 제안이죠.
+JAKOB: Und wenn ich nein sage?
+= 그럼 제가 싫다고 하면요?
+ROTH: Warum sollten Sie nein sagen? Denken Sie in Ruhe nach.
+= 왜 싫다고 하시겠어요? 천천히 생각해 보세요.
+#SECTION 전개 2 — DIE ZEITUNG
+JAKOB: Herr Roth, sprechen wir offen. Es geht um den Karton. Um „Spree".
+= 로트 씨, 솔직하게 말하죠. 상자 때문이잖아요. "슈프레" 때문에.
+ROTH: Ich weiß nicht, wovon Sie sprechen. Ich spreche von Brüssel.
+= 무슨 말씀인지 모르겠네요. 저는 브뤼셀 얘기를 하고 있어요.
+JAKOB: Der Karton ist seit Mittwoch weg. Jemand hat ihn aus dem Magazin geholt.
+= 그 상자는 수요일부터 사라졌어요. 누군가 창고에서 가져갔죠.
+ROTH: Wenn etwas fehlt, ist das ein Problem für Ihren Dienst. Nicht für das Ministerium.
+= 뭔가 없어졌다면 그건 당신네 기관 문제죠. 국방부 문제가 아니고요.
+JAKOB: Und trotzdem sitzen Sie hier. Mit einer Stelle in Brüssel.
+= 그런데도 여기 앉아 계시잖아요. 브뤼셀 자리를 들고.
+ROTH: Haben Sie heute schon Zeitung gelesen, Herr Wendland?
+= 오늘 신문 읽으셨어요, 벤틀란트 씨?
+JAKOB: Ich habe Radio gehört. Wie jeden Morgen.
+= 라디오 들었어요. 매일 아침처럼.
+ROTH: Dann wissen Sie es schon. Hier, bitte. Seite drei.
+= 그럼 이미 아시겠네요. 여기요. 3면이에요.
+JAKOB: „Russland-Spion in Berlin festgenommen." Ja, und?
+= "베를린에서 러시아 스파이 체포." 네, 그래서요?
+ROTH: Lesen Sie weiter. Der Mann hat Dokumente an Journalisten gegeben. Und an die Botschaft.
+= 계속 읽어 보세요. 그 남자는 기자들한테 문서를 넘겼어요. 그리고 대사관에도요.
+JAKOB: Ich sehe keinen Zusammenhang mit mir.
+= 저랑 무슨 상관인지 모르겠는데요.
+ROTH: Niemand sieht ihn. Noch nicht.
+= 아무도 모르죠. 아직은요.
+JAKOB: Was meinen Sie mit „noch nicht"?
+= "아직은"이라는 게 무슨 뜻이죠?
+ROTH: Stellen Sie sich vor: Ein Beamter nimmt geheime Akten mit nach Hause.
+= 상상해 보세요. 한 공무원이 비밀문서를 집에 가져가요.
+ROTH: Er trifft eine Journalistin. Auf einem Flohmarkt. Am Sonntag.
+= 그 사람은 여기자를 만나요. 벼룩시장에서. 일요일에.
+JAKOB: Sie lassen mich beobachten.
+= 저를 감시하고 있군요.
+ROTH: Ich lasse niemanden beobachten. Ich lese nur, was andere schreiben.
+= 저는 아무도 감시하지 않아요. 남들이 쓴 걸 읽을 뿐이죠.
+ROTH: Und in diesen Zeiten, Herr Wendland… wer sieht da wie ein Spion aus?
+= 그리고 요즘 같은 때에, 벤틀란트 씨… 누가 스파이처럼 보일까요?
+JAKOB: Ich habe nichts an Russland gegeben. Ich habe nichts an irgendwen gegeben.
+= 저는 러시아에 아무것도 넘기지 않았어요. 누구한테도 아무것도 안 넘겼어요.
+ROTH: Das glaube ich Ihnen. Wirklich. Aber ein Staatsanwalt glaubt vielleicht etwas anderes.
+= 그 말 믿어요. 정말로요. 하지만 검사는 다르게 생각할지도 모르죠.
+JAKOB: Das wäre eine Lüge.
+= 그건 거짓말이 될 거예요.
+ROTH: Landesverrat ist ein hässliches Wort. Ich würde es nicht gern über Sie lesen.
+= 국가반역죄는 흉한 단어예요. 당신에 대해 그런 기사를 읽고 싶진 않네요.
+JAKOB: Sie drohen mir.
+= 지금 저를 협박하시는 거군요.
+ROTH: Nein. Ich beschreibe die Lage. Das ist ein Unterschied.
+= 아니요. 상황을 설명하는 거예요. 그건 다르죠.
+JAKOB: Für mich klingt es gleich.
+= 제겐 똑같이 들려요.
+ROTH: Dann habe ich mich schlecht ausgedrückt. Entschuldigen Sie bitte.
+= 그럼 제가 표현을 잘못했네요. 죄송합니다.
+JAKOB: Der Minister weiß, dass Sie hier sind?
+= 장관은 당신이 여기 온 걸 알아요?
+ROTH: Der Minister hat viel zu tun. Die Reform, der Haushalt, die U-Boote.
+= 장관님은 바쁘세요. 개혁안, 예산, 잠수함까지.
+JAKOB: Das ist keine Antwort.
+= 그건 대답이 아니잖아요.
+ROTH: Es ist die einzige, die Sie bekommen.
+= 당신이 들을 수 있는 유일한 대답이에요.
+#SECTION 위기 — EIN NAME
+JAKOB: Ich gehe nicht nach Brüssel, Herr Roth.
+= 저 브뤼셀 안 가요, 로트 씨.
+ROTH: Sagen Sie das nicht so schnell. Sie haben eine Familie.
+= 그렇게 빨리 말하지 마세요. 가족이 있잖아요.
+JAKOB: Meine Familie hat damit nichts zu tun.
+= 제 가족은 이 일과 아무 상관 없어요.
+ROTH: Ihre Tochter heißt Lea, nicht wahr? Sechzehn Jahre alt.
+= 따님 이름이 레아죠? 열여섯 살.
+JAKOB: Woher kennen Sie den Namen meiner Tochter?
+= 제 딸 이름을 어떻게 아세요?
+ROTH: Sie steht in Ihrer Personalakte. Ganz normal.
+= 인사 파일에 있으니까요. 아주 평범한 일이죠.
+ROTH: Die Wilhelmine-Schule in Pankow ist sehr gut. Basketball, oder?
+= 판코의 빌헬미네 김나지움은 아주 좋은 학교죠. 농구 한다죠?
+JAKOB: Das steht nicht in meiner Personalakte.
+= 그건 제 인사 파일에 없는 내용이에요.
+ROTH: Nein? Dann habe ich es woanders gelesen.
+= 그래요? 그럼 다른 데서 읽었나 보네요.
+JAKOB: Hören Sie mir gut zu. Wenn jemand meine Tochter auch nur ansieht…
+= 잘 들으세요. 누구든 제 딸을 쳐다보기라도 하면…
+ROTH: Bitte, Herr Wendland. Nicht so laut. Die Leute schauen schon.
+= 제발요, 벤틀란트 씨. 너무 크게 말하지 마세요. 사람들이 벌써 쳐다보잖아요.
+JAKOB: Sollen sie schauen. Sie haben gerade meine Tochter erwähnt.
+= 쳐다보라고 하세요. 방금 제 딸을 들먹이셨잖아요.
+ROTH: Ich habe gesagt, dass sie eine gute Schule besucht. Das ist alles.
+= 좋은 학교에 다닌다고 말했을 뿐이에요. 그게 다예요.
+JAKOB: Nein. Das ist nicht alles. Das wissen wir beide.
+= 아니요. 그게 다가 아니에요. 우리 둘 다 알잖아요.
+ROTH: Ich verstehe, dass Sie sich Sorgen machen. Jeder Vater macht sich Sorgen.
+= 걱정하시는 거 이해해요. 아버지라면 누구나 걱정하죠.
+ROTH: Darum ist Brüssel ja so eine gute Idee. Weit weg von allem.
+= 그러니까 브뤼셀이 좋은 생각이라는 거예요. 모든 것에서 멀리 떨어져 있으니까.
+JAKOB: Und der Karton? Was passiert mit dem Karton?
+= 그럼 그 상자는요? 상자는 어떻게 되는 거죠?
+ROTH: Welcher Karton? Es gibt keinen Karton. Es gab nie einen.
+= 무슨 상자요? 상자 같은 건 없어요. 처음부터 없었죠.
+JAKOB: Ich habe ihn gesehen. Ich habe ihn in der Hand gehabt.
+= 저는 그걸 봤어요. 제 손으로 들었다고요.
+ROTH: Menschen sehen viele Dinge. Besonders am neunten November. So ein emotionaler Tag.
+= 사람들은 많은 걸 보죠. 특히 11월 9일엔. 감정적인 날이잖아요.
+JAKOB: Sie wollen, dass ich vergesse.
+= 제가 잊기를 바라시는군요.
+ROTH: Ich will, dass Sie glücklich sind. In Brüssel. Mit Ihrer Tochter in den Ferien.
+= 행복하시길 바라는 거예요. 브뤼셀에서. 방학 때 따님이랑 함께.
+JAKOB: Und wenn ich trotzdem rede? Mit der Presse?
+= 그런데도 제가 말하면요? 언론에?
+ROTH: Dann hat das Konsequenzen. Für Sie. Nicht für mich.
+= 그럼 결과가 따르겠죠. 당신한테요. 저한테가 아니라.
+JAKOB: Was für Konsequenzen?
+= 어떤 결과요?
+ROTH: Ich bin kein Prophet, Herr Wendland. Ich bin nur Büroleiter.
+= 저는 예언자가 아니에요, 벤틀란트 씨. 비서실장일 뿐이죠.
+ROTH: Hier ist meine Karte. Bis Freitag brauche ich eine Antwort.
+= 여기 제 명함이에요. 금요일까지 답을 주셔야 해요.
+JAKOB: Und wenn ich keine gebe?
+= 답을 안 드리면요?
+ROTH: Dann ist das auch eine Antwort. Der Kaffee geht auf mich.
+= 그것도 답이 되겠죠. 커피는 제가 살게요.
+KELLNERIN: Zusammen oder getrennt?
+= 같이 계산하세요, 따로 하세요?
+ROTH: Zusammen, bitte. Stimmt so. Auf Wiedersehen, Herr Wendland. Grüßen Sie Lea.
+= 같이요. 잔돈은 됐어요. 안녕히 가세요, 벤틀란트 씨. 레아에게 안부 전해 주세요.
+#SECTION 결말 — DER ANRUF
+KATRIN: Jakob! Du hast dich seit vierzig Minuten nicht gemeldet!
+= 야콥! 40분 동안 연락이 없었잖아!
+JAKOB: Entschuldige. Ich war… beschäftigt.
+= 미안. 좀… 정신이 없었어.
+KATRIN: Was wollte er? Hat er dir Geld angeboten?
+= 뭘 원했대? 돈이라도 제안했어?
+JAKOB: Eine Stelle in Brüssel. Bei der NATO. Mit Beförderung.
+= 브뤼셀 자리. NATO에서. 승진까지.
+KATRIN: Wow. Und dafür sollst du den Mund halten.
+= 와. 그 대가로 입 다물라는 거네.
+JAKOB: Nicht nur das. Er hat von Landesverrat gesprochen. Von dem Russland-Spion aus der Zeitung.
+= 그것만이 아니야. 국가반역죄 얘기를 했어. 신문에 난 러시아 스파이 얘기도.
+KATRIN: Das ist doch absurd! Du bist der ehrlichste Mensch im ganzen Dienst.
+= 말도 안 돼! 넌 우리 기관에서 제일 정직한 사람이잖아.
+JAKOB: Ehrlich sein hilft nicht, wenn jemand die Geschichte schreibt.
+= 누군가 이야기를 지어내면 정직해 봐야 소용없어.
+KATRIN: Was noch? Du klingst komisch.
+= 또 뭐? 목소리가 이상해.
+JAKOB: Er kennt Leas Schule. Er weiß, dass sie Basketball spielt.
+= 그 사람이 레아 학교를 알아. 레아가 농구 하는 것도 알고.
+KATRIN: Oh nein. Jakob, das ist eine Drohung. Eine echte Drohung.
+= 아, 이런. 야콥, 그건 협박이야. 진짜 협박.
+JAKOB: Ich weiß. Er hat „Grüßen Sie Lea" gesagt. Ganz freundlich.
+= 알아. "레아에게 안부 전해 주세요"라고 했어. 아주 친절하게.
+KATRIN: Ruf sofort Sandra an. Sag ihr, sie soll vorsichtig sein.
+= 당장 산드라한테 전화해. 조심하라고 말해.
+JAKOB: Und was soll ich ihr erzählen? Dass ein Ministerium uns bedroht?
+= 그럼 뭐라고 말해? 국방부가 우리를 협박한다고?
+KATRIN: Erzähl ihr irgendwas. Aber ruf sie an.
+= 아무 말이나 해. 그래도 전화는 해.
+JAKOB: Warte. Sie ruft mich gerade selbst an. Ich melde mich gleich.
+= 잠깐. 마침 산드라가 전화하고 있어. 금방 다시 연락할게.
+JAKOB: Sandra? Ich wollte dich gerade anrufen.
+= 산드라? 막 전화하려던 참이었어.
+SANDRA: Jakob, ist Lea bei dir?
+= 야콥, 레아 너랑 있어?
+JAKOB: Bei mir? Nein. Heute ist Mittwoch. Sie ist bei dir.
+= 나랑? 아니. 오늘 수요일이잖아. 너네 집에 있어야지.
+SANDRA: Sie ist nicht nach Hause gekommen. Die Schule ist seit zwei Stunden aus.
+= 집에 안 왔어. 학교 끝난 지 두 시간이나 됐는데.
+SANDRA: Und ihr Handy ist aus. Jakob, sie geht nicht ran.
+= 휴대폰도 꺼져 있어. 야콥, 전화를 안 받아.
+#NEXT
+1부 9화 — «Lea»(레아) — 판코의 산드라 집으로 달려간 야콥. 레아는 무사히 돌아오지만, 그 순간 야콥의 휴대폰에 낯선 번호로 레아의 등굣길 사진이 도착한다. 전처와의 격한 다툼, 딸과의 첫 진지한 대화 끝에 야콥은 침묵하지 않기로 결심한다.

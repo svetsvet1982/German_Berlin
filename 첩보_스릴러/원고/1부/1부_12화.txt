@@ -1,0 +1,296 @@
+#META
+part: 1
+episode: 12
+title: Was die Akte verschweigt
+subtitle_ko: 파일이 말하지 않는 것
+place_ko: 장관의 고백, 그리고 함부르크
+setting: 2026년 11월 23일(월) 오전 → 24일(화) 저녁, 야콥의 부엌 · BND 본부 3층 조사실 · 슈프레 강변
+level: B1
+#CAST
+JAKOB | BND 기록보관 부서 사무관 · 44세 · 베를린-리히텐베르크 출신
+KATRIN | 야콥의 10년 동료 기록 담당자 · 39세
+RADIO | 뉴스 라디오 아나운서 (가상 방송)
+KRANZ | 연방 국방장관 · 65세 (가상 인물)
+MIRA | 『Berliner Abendpost』 탐사보도 기자 · 36세
+SCHULTE | BND 내부 감찰관 · 50대
+SEIDLITZ | 총리실 정보기관 조정관(국무차관급) · 63세
+AYLIN | 연방헌법수호청(BfV) 방첩부 팀장 · 41세
+#INTRO
+※ 오버바움 다리의 밤이 지나고 이틀이 흘렀습니다. 브뤼크너는 빠져 있던 47쪽, 1985년의 '접촉 중단 기록'을 야콥에게 넘기고 사라졌습니다. 그가 남긴 것은 함부르크 항구의 화물선 일정표 한 장뿐입니다. 미라의 첫 기사가 나간 뒤 국방장관 크란츠는 월요일 아침 기자회견을 열겠다고 발표했습니다. 정보기관법 개혁안은 연방의회를 통과했지만 아직 연방참사원 절차가 남아 있습니다. 야콥과 카트린은 du, 야콥과 감찰관·장관·BfV 팀장은 Sie를 씁니다. 미라는 야콥에게 du를 쓰지만 야콥은 아직 Sie를 씁니다. 표현 초점: Pressekonferenz, zugeben, Abordnung, Neuanfang, Spur.
+#SECTION 도입 — DIE PRESSEKONFERENZ
+KATRIN: Jakob, mach lauter. Es fängt gleich an.
+= 야콥, 소리 좀 키워. 곧 시작해.
+JAKOB: Der Reihe nach. Erst der Kaffee, dann der Minister.
+= 차례대로. 커피 먼저, 장관은 그다음.
+KATRIN: Der Minister wartet nicht auf deinen Kaffee.
+= 장관은 네 커피 안 기다려.
+RADIO: Es ist zehn Uhr. Wir schalten live in die Bundespressekonferenz. Verteidigungsminister Joachim Kranz will sich zu den Stasi-Vorwürfen äußern.
+= 열 시입니다. 연방 기자회견장을 생중계로 연결합니다. 요아힘 크란츠 국방장관이 슈타지 의혹에 대해 입장을 밝힐 예정입니다.
+KATRIN: Er sieht müde aus.
+= 피곤해 보여.
+JAKOB: Er hat wahrscheinlich seit Samstag nicht geschlafen. Wie ich.
+= 아마 토요일부터 못 잤을 거야. 나처럼.
+KRANZ: Meine Damen und Herren, ich mache es kurz. Ich habe im März 1983 in Leipzig eine Erklärung unterschrieben.
+= 신사 숙녀 여러분, 짧게 말씀드리겠습니다. 저는 1983년 3월 라이프치히에서 서약서 한 장에 서명했습니다.
+KRANZ: Es war eine Verpflichtungserklärung für das Ministerium für Staatssicherheit. Ich war zweiundzwanzig Jahre alt.
+= 국가보안부, 그러니까 슈타지에 협력하겠다는 서약서였습니다. 저는 스물두 살이었습니다.
+KATRIN: Er gibt es zu. Einfach so.
+= 인정하네. 그냥 이렇게.
+JAKOB: Er hat keine Wahl. Die Kopie liegt bei der Zeitung.
+= 다른 선택이 없으니까. 사본이 신문사에 있잖아.
+KRANZ: Ich hatte Angst. Man hat mir gesagt: Sonst kannst du dein Studium vergessen.
+= 저는 무서웠습니다. 그렇지 않으면 학업은 잊으라는 말을 들었습니다.
+KRANZ: Aber ich habe nie über Menschen berichtet. Ich habe niemandem geschadet. Und im Jahr 1985 habe ich den Kontakt abgebrochen.
+= 하지만 저는 한 번도 사람에 대해 보고한 적이 없습니다. 누구에게도 해를 끼치지 않았습니다. 그리고 1985년에 접촉을 끊었습니다.
+JAKOB: Seite siebenundvierzig.
+= 47쪽.
+KATRIN: Was?
+= 뭐?
+JAKOB: Das steht genau auf Seite siebenundvierzig. Der Abbruchvermerk von Brückner. Er sagt die Wahrheit.
+= 그게 바로 47쪽에 적혀 있어. 브뤼크너의 접촉 중단 기록. 저 사람 사실을 말하고 있어.
+KATRIN: Oder er kennt die Seite auch.
+= 아니면 저 사람도 그 쪽을 알고 있거나.
+RADIO: Jetzt sind Fragen möglich. Die erste Frage kommt von der Berliner Abendpost.
+= 이제 질문을 받겠습니다. 첫 질문은 『베를리너 아벤트포스트』입니다.
+KATRIN: Das ist Mira!
+= 미라다!
+MIRA: Herr Minister, warum haben Sie das vierzig Jahre lang verschwiegen?
+= 장관님, 왜 그 사실을 40년 동안 숨기셨습니까?
+KRANZ: Weil ich mich geschämt habe, Frau Hoffmann. Das ist keine gute Antwort. Aber es ist die ehrliche.
+= 부끄러웠기 때문입니다, 호프만 기자님. 좋은 대답은 아닙니다. 하지만 정직한 대답입니다.
+MIRA: Und wer wollte die Akte in diesem Monat verschwinden lassen? Ihr Büro?
+= 그럼 이번 달에 그 파일을 없애려던 건 누굽니까? 장관님 사무실입니까?
+KRANZ: Das weiß ich nicht. Ich habe die Akte selbst erst letzte Woche gesehen. Ich trete nicht zurück. Danke.
+= 모릅니다. 저도 그 파일을 지난주에야 처음 봤습니다. 사퇴하지 않겠습니다. 감사합니다.
+KATRIN: Er geht einfach. Keine zweite Frage.
+= 그냥 나가 버리네. 두 번째 질문도 없이.
+JAKOB: Er hat gesagt, was er sagen wollte. Nicht mehr.
+= 하고 싶은 말만 한 거야. 그 이상은 안 하고.
+#SECTION 전개 1 — DIE REAKTIONEN
+RADIO: Die Reaktionen kommen schnell. Die Opposition fordert den Rücktritt des Ministers.
+= 반응이 빠르게 나오고 있습니다. 야당은 장관의 사퇴를 요구하고 있습니다.
+RADIO: Gleichzeitig wächst die Kritik an der Geheimdienstreform. Ein Abgeordneter sagt: Diese Dienste haben eine Ministerakte verloren, und jetzt sollen sie hacken dürfen?
+= 동시에 정보기관 개혁안에 대한 비판도 커지고 있습니다. 한 의원은 이렇게 말했습니다. 장관 파일 하나도 잃어버린 기관이 이제 해킹까지 하게 해 달라는 거냐고요.
+KATRIN: Autsch. Das trifft uns.
+= 아야. 우리한테 꽂히는 말이네.
+JAKOB: Das trifft die Wahrheit. Wir haben die Akte wirklich verloren.
+= 사실에 꽂히는 말이지. 우리가 정말 파일을 잃어버렸잖아.
+RADIO: Der Bundestag hat das Gesetz am Freitag vor einer Woche beschlossen. Im Bundesrat ist es noch nicht durch. Einige Länder wollen jetzt neu prüfen.
+= 연방의회는 지지난주 금요일 이 법안을 의결했습니다. 연방참사원 절차는 아직 끝나지 않았습니다. 일부 주는 이제 다시 검토하겠다는 입장입니다.
+KATRIN: Mach aus. Ich kann das nicht mehr hören.
+= 꺼. 더는 못 듣겠어.
+JAKOB: Gut. Also. Was wissen wir? Der Reihe nach.
+= 좋아. 그럼. 우리가 아는 게 뭐지? 차례대로.
+KATRIN: Kranz hat unterschrieben. Kranz hat nichts geliefert. Kranz hat 1985 Schluss gemacht.
+= 크란츠는 서명했다. 크란츠는 아무것도 넘기지 않았다. 크란츠는 1985년에 끝냈다.
+JAKOB: Und Brückner hat auf der Brücke gesagt: Kranz war nichts. Der Echte ist jemand anders.
+= 그리고 브뤼크너가 다리 위에서 말했지. 크란츠는 아무것도 아니었다. 진짜는 따로 있다.
+KATRIN: Ein alter Mann, der offiziell seit 1994 tot ist. Glaubst du ihm?
+= 공식적으로 1994년에 죽은 노인이잖아. 넌 그 말을 믿어?
+JAKOB: Ich glaube Papier. Und das Papier passt zu seinen Worten.
+= 난 종이를 믿어. 그리고 그 종이가 그 사람 말과 맞아떨어져.
+KATRIN: Und der Zettel? Der Fahrplan aus dem Hamburger Hafen?
+= 그럼 그 쪽지는? 함부르크 항구 일정표 말이야.
+JAKOB: Ein Frachter. Die „Ilmen". Abfahrt aus Hamburg, Burchardkai, jeden zweiten Freitag. Ziel: Sankt Petersburg.
+= 화물선 한 척. '일멘'호. 함부르크 부르하르트 부두에서 격주 금요일에 출항. 목적지는 상트페테르부르크.
+KATRIN: Und warum gibt er dir so etwas?
+= 근데 왜 너한테 그런 걸 줬을까?
+JAKOB: Das steht nicht in der Akte.
+= 그건 파일에 없어.
+KATRIN: Natürlich nicht. Bei dir steht nie etwas in der Akte.
+= 당연히 없겠지. 너한텐 늘 파일에 없지.
+KATRIN: Entschuldige, mein Handy. Ich geh kurz raus.
+= 미안, 전화 왔어. 잠깐 나갔다 올게.
+JAKOB: Schon wieder? Das ist heute das dritte Mal.
+= 또? 오늘만 벌써 세 번째야.
+KATRIN: Meine Mutter. Sie sieht auch Nachrichten. Sie macht sich Sorgen.
+= 엄마야. 엄마도 뉴스 보거든. 걱정하셔.
+JAKOB: Grüß sie von mir.
+= 안부 전해 줘.
+MIRA: Jakob? Hier ist Mira. Hast du gesehen? Er hat mich einfach stehen lassen.
+= 야콥? 나 미라야. 봤어? 그 사람 나를 그냥 세워 두고 가 버렸어.
+JAKOB: Ich habe es gesehen, Frau Hoffmann. Ihre Frage war gut.
+= 봤습니다, 호프만 씨. 좋은 질문이었어요.
+MIRA: Mira. Bitte. Wir haben zusammen auf einer Brücke gestanden. Hör zu: Ich schreibe morgen den zweiten Teil.
+= 미라라고 해. 제발. 우리 같이 다리 위에 서 있었잖아. 들어 봐. 내일 두 번째 기사를 쓸 거야.
+JAKOB: Schreiben Sie nichts über Seite siebenundvierzig. Noch nicht.
+= 47쪽에 대해서는 아무것도 쓰지 마세요. 아직은요.
+MIRA: Warum nicht? Das ist die beste Seite.
+= 왜? 그게 제일 좋은 쪽인데.
+JAKOB: Weil jemand anders sie auch lesen will. Und ich will wissen, wer.
+= 다른 누군가도 그걸 읽고 싶어 하니까요. 그리고 난 그게 누군지 알고 싶어요.
+#SECTION 전개 2 — DAS GESPRÄCH IM DRITTEN STOCK
+SCHULTE: Herr Wendland, setzen Sie sich. Mein Name ist Schulte. Ich leite die interne Prüfung.
+= 벤틀란트 씨, 앉으세요. 저는 슐테입니다. 내부 감찰을 맡고 있습니다.
+JAKOB: Guten Morgen, Frau Schulte.
+= 안녕하세요, 슐테 씨.
+SCHULTE: Das Gespräch wird protokolliert. Sie dürfen einen Anwalt verlangen.
+= 이 대화는 기록됩니다. 변호사를 요청하실 수 있습니다.
+JAKOB: Ich brauche keinen Anwalt. Ich brauche nur die richtige Reihenfolge.
+= 변호사는 필요 없습니다. 올바른 순서만 있으면 돼요.
+SCHULTE: Gut. Am neunten November finden Sie einen Karton ohne Nummer. Richtig?
+= 좋습니다. 11월 9일 번호 없는 상자를 발견하셨죠. 맞습니까?
+JAKOB: Richtig. Regal vierzehn, Magazin U2. Hinter dem Altbestand 1990.
+= 맞습니다. U2 창고 14번 선반. 1990년 이관 문서 뒤에서요.
+SCHULTE: Am zehnten November melden Sie den Fund Ihrem Vorgesetzten, Dr. Feldmann. Auch richtig?
+= 11월 10일 상사인 펠트만 박사에게 발견 사실을 보고하셨고요. 그것도 맞습니까?
+JAKOB: Auf dem Dienstweg. Schriftlich. Mit Datum und Uhrzeit.
+= 공식 경로로요. 서면으로. 날짜와 시간까지 적어서요.
+SCHULTE: Am nächsten Morgen ist der Karton weg. Und Ihre Meldung ist nicht im System.
+= 다음 날 아침 상자가 사라졌습니다. 그리고 당신의 보고서는 시스템에 없습니다.
+JAKOB: Ich weiß. Ich habe eine Kopie von meiner Meldung. Auf Papier.
+= 압니다. 제 보고서 사본이 있어요. 종이로요.
+SCHULTE: Natürlich haben Sie das. Danach sprechen Sie mit einer Journalistin. Das war nicht erlaubt.
+= 당연히 있으시겠죠. 그 뒤에 기자와 대화하셨습니다. 그건 허가되지 않은 일이었습니다.
+JAKOB: Sie hat mich angesprochen. Sie kannte den Decknamen schon. Von jemand anderem.
+= 그 사람이 먼저 말을 걸었어요. 암호명은 이미 알고 있었고요. 다른 누군가에게서요.
+SCHULTE: Von wem?
+= 누구에게서요?
+JAKOB: Das ist die beste Frage in diesem Gespräch, Frau Schulte. Ich weiß es nicht.
+= 그게 이 대화에서 제일 좋은 질문입니다, 슐테 씨. 저도 모릅니다.
+SCHULTE: Am Samstag treffen Sie auf der Oberbaumbrücke einen Mann. Wer war das?
+= 토요일에 오버바움 다리에서 한 남자를 만나셨죠. 누구였습니까?
+JAKOB: Horst Brückner. Major der Staatssicherheit. Laut Ihrer Akte seit 1994 tot.
+= 호르스트 브뤼크너. 슈타지 소령이요. 당신네 기록에 따르면 1994년부터 죽은 사람이죠.
+SCHULTE: Laut unserer Akte. Interessant. Und er hat Ihnen ein Dokument gegeben?
+= 우리 기록에 따르면이라. 흥미롭네요. 그리고 그가 당신에게 문서를 건넸습니까?
+JAKOB: Eine Seite. Seite siebenundvierzig. Das Original liegt seit gestern im Tresor bei Ihnen. Mit Quittung.
+= 한 장이요. 47쪽. 원본은 어제부터 이곳 금고에 있습니다. 영수증도 받았고요.
+SCHULTE: Sie haben sie abgegeben? Freiwillig?
+= 제출하셨다고요? 자발적으로요?
+JAKOB: Ich bin Archivar. Ein Original gehört ins Archiv. Nicht in meine Küche.
+= 저는 기록 담당자입니다. 원본은 기록보관소에 있어야죠. 제 부엌이 아니라.
+SCHULTE: Und die vierzig Fotos von Frau Lorenz? Das Schließfach am Hauptbahnhof?
+= 그럼 로렌츠 씨가 찍은 사진 40장은요? 중앙역 사물함은요?
+JAKOB: Das Schließfach war leer. Das wissen Sie schon.
+= 사물함은 비어 있었습니다. 이미 아시잖아요.
+SCHULTE: Ja. Und das Feuer im Magazin? Der junge Mann aus Marzahn hat gestanden. Aber er hatte den Zugangscode. Woher?
+= 네. 그리고 창고 화재는요? 마르찬 출신 청년은 자백했습니다. 그런데 그에게 출입 코드가 있었어요. 어디서 났을까요?
+JAKOB: Nicht von mir. Und nicht von Katrin. Das habe ich schon letzte Woche gesagt.
+= 저한테서는 아닙니다. 카트린한테서도 아니고요. 그건 지난주에 이미 말씀드렸습니다.
+SCHULTE: Sie sind sehr sicher bei Frau Lorenz.
+= 로렌츠 씨에 대해서는 아주 확신하시네요.
+JAKOB: Zehn Jahre im selben Keller. Da kennt man einen Menschen.
+= 같은 지하실에서 10년이에요. 그러면 사람을 알게 되죠.
+SCHULTE: Hoffentlich. Hier ist meine Entscheidung. Sie werden nicht entlassen.
+= 그러길 바랍니다. 제 결정은 이렇습니다. 해고되지는 않습니다.
+JAKOB: Aber?
+= 하지만요?
+SCHULTE: Aber Sie verlassen das Archiv. Ab sofort. Bis auf Weiteres keine Arbeit mit Verschlusssachen.
+= 하지만 기록보관소에서는 나가셔야 합니다. 지금 즉시요. 별도 통보가 있을 때까지 기밀 문서 업무는 금지입니다.
+JAKOB: Und Dr. Feldmann?
+= 펠트만 박사는요?
+SCHULTE: Bleibt suspendiert. Das ist nicht Ihr Thema, Herr Wendland. Ihre Karte, bitte.
+= 정직 상태가 유지됩니다. 그건 당신이 신경 쓸 일이 아닙니다, 벤틀란트 씨. 출입증 주세요.
+#SECTION 위기 — EIN ANRUF AUS DEM KANZLERAMT
+JAKOB: Wendland.
+= 벤틀란트입니다.
+SEIDLITZ: Herr Wendland, hier ist Helene Seidlitz. Ich habe gehört, wie das Gespräch ausgegangen ist.
+= 벤틀란트 씨, 헬레네 자이들리츠예요. 면담이 어떻게 끝났는지 들었어요.
+JAKOB: Das ging schnell, Frau Staatssekretärin.
+= 소식이 빠르네요, 차관님.
+SEIDLITZ: In meinem Beruf muss alles schnell gehen. Es tut mir leid. Das haben Sie nicht verdient.
+= 제 일은 뭐든 빨라야 하거든요. 유감이에요. 당신이 이런 대우를 받을 이유는 없었어요.
+JAKOB: Ich habe meine Arbeit gemacht. Mehr nicht.
+= 저는 제 일을 했을 뿐입니다. 그 이상은 아니고요.
+SEIDLITZ: Genau das meine ich. Menschen wie Sie braucht dieses Land. Gerade jetzt, mit dem neuen Gesetz.
+= 바로 그 말이에요. 이 나라엔 당신 같은 사람이 필요해요. 새 법이 생기는 지금 같은 때엔 더더욱.
+JAKOB: Das Gesetz hat diese Woche keine Freunde.
+= 이번 주엔 그 법에 친구가 없던데요.
+SEIDLITZ: Gesetze brauchen keine Freunde. Sie brauchen Zeit. Sagen Sie, hat Herr Brückner Ihnen noch etwas gegeben? Außer der Seite?
+= 법은 친구가 필요 없어요. 시간이 필요하죠. 그런데, 브뤼크너 씨가 그 한 장 말고 다른 것도 줬나요?
+JAKOB: Woher wissen Sie, dass er mir eine Seite gegeben hat?
+= 그가 한 장을 줬다는 건 어떻게 아세요?
+SEIDLITZ: Herr Wendland, ich lese jeden Morgen die Berichte aus Pullach und Berlin. Das ist mein Beruf.
+= 벤틀란트 씨, 저는 매일 아침 풀라흐와 베를린에서 올라오는 보고서를 읽어요. 그게 제 일이에요.
+JAKOB: Natürlich. Nein. Nur die Seite.
+= 그렇겠죠. 아니요. 그 한 장뿐이에요.
+SEIDLITZ: Gut. Passen Sie auf sich auf. Und wenn Sie Hilfe brauchen: Sie haben meine Nummer.
+= 좋아요. 몸조심하세요. 도움이 필요하면, 제 번호 알고 있잖아요.
+AYLIN: Herr Wendland? Haben Sie einen Moment? Hier draußen, an der Spree.
+= 벤틀란트 씨? 잠깐 시간 있으세요? 여기 밖, 슈프레 강가에서요.
+JAKOB: Wer sind Sie? Und woher kennen Sie mich?
+= 누구시죠? 그리고 저를 어떻게 아세요?
+AYLIN: Aylin Demir. Bundesamt für Verfassungsschutz, Spionageabwehr. Hier ist mein Ausweis.
+= 아일린 데미르입니다. 연방헌법수호청 방첩부요. 여기 신분증입니다.
+JAKOB: Der Verfassungsschutz wartet vor dem BND? Das ist neu.
+= 헌법수호청이 BND 앞에서 기다린다고요? 그건 처음 보네요.
+AYLIN: Ich warte nicht auf den BND. Ich warte auf Sie. Sie haben gerade Ihre Karte abgegeben, richtig?
+= BND를 기다리는 게 아니에요. 당신을 기다리는 거죠. 방금 출입증 반납하셨죠?
+JAKOB: Das wissen heute alle schneller als ich.
+= 오늘은 다들 나보다 빨리 아네요.
+AYLIN: Ich mache es kurz. Wir haben ein Leck in Hamburg. Auf einer Werft. Es geht um Pläne für U-Boote.
+= 짧게 말할게요. 함부르크에 유출이 있어요. 조선소에서요. 잠수함 설계도 문제예요.
+JAKOB: Und was hat das mit mir zu tun? Ich sortiere Akten.
+= 그게 저랑 무슨 상관이죠? 저는 파일 정리하는 사람인데요.
+AYLIN: Sie haben Schiffbau studiert. Sie haben vier Jahre auf einer Werft in Rostock gearbeitet. Das steht in Ihrer Akte.
+= 조선공학을 전공하셨죠. 로스토크의 조선소에서 4년 일하셨고요. 당신 파일에 그렇게 적혀 있어요.
+JAKOB: Dann steht da auch, dass das fünfzehn Jahre her ist.
+= 그럼 15년 전 일이라는 것도 적혀 있겠네요.
+AYLIN: Und noch etwas: Der Frachter auf Ihrem Zettel. Die „Ilmen". Wir beobachten dieses Schiff seit dem Sommer.
+= 그리고 하나 더. 당신 쪽지에 있는 화물선, '일멘'호. 우리는 그 배를 여름부터 지켜보고 있어요.
+JAKOB: Woher wissen Sie von dem Zettel?
+= 쪽지는 어떻게 아세요?
+AYLIN: Frau Schulte und ich haben zusammen studiert. Die Spur von Ihrer Akte führt nach Hamburg, Herr Wendland.
+= 슐테 씨와 저는 같이 공부했어요. 당신 파일의 흔적이 함부르크를 가리켜요, 벤틀란트 씨.
+JAKOB: Was genau bieten Sie mir an?
+= 정확히 뭘 제안하시는 거죠?
+AYLIN: Eine Abordnung zu uns. Ab Februar. Neuer Name, neue Arbeit, Ingenieur auf einer Werft.
+= 우리 쪽으로의 파견이요. 2월부터. 새 이름, 새 일, 조선소 엔지니어로요.
+JAKOB: Ich bin kein Agent, Frau Demir. Ich bin ein Mann mit Handschuhen und Karteikarten.
+= 저는 요원이 아닙니다, 데미르 씨. 장갑 끼고 색인 카드 만지는 사람이에요.
+AYLIN: Genau so einen Mann brauche ich. Einen, der Papier lesen kann. Denken Sie darüber nach. Bis Freitag.
+= 바로 그런 사람이 필요해요. 종이를 읽을 줄 아는 사람. 생각해 보세요. 금요일까지요.
+JAKOB: Eine Bedingung. Ich komme nur mit Katrin Lorenz.
+= 조건이 하나 있어요. 카트린 로렌츠와 함께가 아니면 안 갑니다.
+AYLIN: Die Frau mit dem Feuer?
+= 그 화재 사건의 그 사람이요?
+JAKOB: Die Frau, die vierzig Seiten gerettet hat. Sie kennt Computer besser als ich. Und sie kennt mich.
+= 40쪽을 지켜 낸 사람이요. 컴퓨터는 저보다 훨씬 잘 알아요. 그리고 저를 알고요.
+AYLIN: Wir brauchen tatsächlich jemanden für IT-Sicherheit auf der Werft. Gut. Ich spreche mit ihr.
+= 실은 조선소에 IT 보안 담당자가 필요하긴 해요. 좋아요. 그분과 얘기해 볼게요.
+#SECTION 결말 — AN DER SPREE
+KATRIN: Da bist du ja. Ich habe dich überall gesucht.
+= 여기 있었구나. 어디 갔나 한참 찾았잖아.
+JAKOB: Ich habe meine Karte abgegeben. Ich bin jetzt nur noch ein Mann an der Spree.
+= 출입증 반납했어. 이제 그냥 슈프레 강가에 서 있는 남자야.
+KATRIN: Ich weiß. Und ich weiß noch mehr. Eine Frau Demir hat mich gerade angerufen.
+= 알아. 그리고 그보다 더 많이 알아. 데미르라는 사람이 방금 전화했어.
+JAKOB: Schon? Sie ist noch schneller als die Staatssekretärin.
+= 벌써? 차관보다 더 빠르네.
+KATRIN: Hamburg, Jakob? Werft, U-Boote, falscher Name? Du hasst Boote. Dir wird schon auf der Spree schlecht.
+= 함부르크라고, 야콥? 조선소, 잠수함, 가짜 이름? 너 배 싫어하잖아. 슈프레 유람선만 타도 멀미하면서.
+JAKOB: Ich muss nicht auf das Boot. Ich muss nur verstehen, wer die Pläne verkauft.
+= 배를 탈 필요는 없어. 누가 설계도를 파는지만 알아내면 돼.
+KATRIN: Und Lea? Und deine Mutter?
+= 레아는? 어머니는?
+JAKOB: Hamburg ist nicht Moskau. Zwei Stunden mit dem Zug. Ich bin jedes zweite Wochenende hier.
+= 함부르크가 모스크바는 아니잖아. 기차로 두 시간이야. 격주 주말마다 올 거야.
+KATRIN: Du hast ihr gesagt, du kommst nur mit mir.
+= 그 사람한테 나랑 같이가 아니면 안 간다고 했다며.
+JAKOB: Ja. War das falsch?
+= 응. 잘못한 거야?
+KATRIN: Nein. Das war … Das hat noch nie jemand für mich gesagt.
+= 아니. 그건… 그런 말을 해 준 사람은 지금까지 아무도 없었어.
+JAKOB: Du hast mir geglaubt, als der Karton weg war. Jetzt glaube ich dir. So einfach ist das.
+= 상자가 사라졌을 때 넌 내 말을 믿어 줬어. 이제 내가 널 믿는 거야. 그렇게 간단한 거야.
+KATRIN: Nichts ist einfach, Jakob. Schon gar nicht in diesem Monat.
+= 간단한 건 하나도 없어, 야콥. 특히 이번 달엔.
+JAKOB: Das steht nicht in der Akte.
+= 그건 파일에 없어.
+KATRIN: Doch. Diesmal schon.
+= 아니. 이번엔 있어.
+JAKOB: Also? Kommst du mit?
+= 그래서? 같이 갈 거야?
+KATRIN: Ich lass dich doch nicht allein, Jakob.
+= 내가 널 혼자 둘 리가 없잖아, 야콥.
+JAKOB: Gut. Ich hole Lea von der Schule ab. Bis morgen, Katrin.
+= 좋아. 레아 학교에 데리러 갈게. 내일 봐, 카트린.
+KATRIN: Bis morgen, Herr Archivar.
+= 내일 봐, 기록관 나리.
+KATRIN: Ja, ich bin's. Nein, alles in Ordnung. Er hat sich entschieden.
+= 응, 나야. 아니, 별일 없어. 그 사람 결정했어.
+KATRIN: Ja. Er fährt nach Hamburg. Ich auch.
+= 응. 그 사람 함부르크로 가. 나도.
+#NEXT
+2부 1화 — «Moin, Herr Wendt»(모인, 벤트 씨) — 2027년 2월, 안개 낀 함부르크. 야콥은 엔지니어 '얀 벤트'라는 이름으로 노르트엘베 해군 조선소의 정문을 통과한다. 수석설계자 하름센의 첫 기술 질문을 간신히 넘긴 날, 하름센은 누군가 지난밤 자기 계정으로 로그인했다고 말한다.
